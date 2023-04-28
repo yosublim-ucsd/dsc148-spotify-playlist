@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb4ps4t1jxnw.md) - [plain]
 
 > Featuring Peso Pluma, Alemán, Yandel, Feid & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,277 likes - 25 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,308 likes - 25 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb4ps4t1jxnw.md) - [plain]
 | 24 | [Ay Mi Dios](https://open.spotify.com/track/5Uel5PmPBZICA0TQTI912U) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Ay Mi Dios](https://open.spotify.com/album/5mL2ReCP9gU2mPnC3SKERE) | 4:12 |
 | 25 | [Foto En Panty](https://open.spotify.com/track/4HehbhlVK81hZT5Yg7QmiR) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Ya Casi Vienen](https://open.spotify.com/album/1yENOcHrdeylQ4Mjy1DQJX) | 2:54 |
 
-Snapshot ID: `MTY3NDg1NDI0MSwwMDAwMDAwMDU3OGEyOTEzZWIyMGM3MzExMTlkNmY3YzJmZDAwYTgy`
+Snapshot ID: `MCxlNDZhNjNiZTQxYWQ3NmYzYzY3NWFhNmYwYjE3ZmQzODM4Nzg2YWY3`

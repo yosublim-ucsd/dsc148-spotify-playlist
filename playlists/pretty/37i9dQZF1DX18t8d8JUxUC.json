@@ -1,12 +1,12 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: selines",
-  "num_followers": 10288,
+  "num_followers": 10359,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDVjNDQwYjBhOTI0MWM5ZjNmOTkyNTJjMjhmYTViYmEz",
+  "snapshot_id": "MCw1MjNmNGU1MDZkMWFkMWFiZmJlMmFmYWY5NmIyZjdkMjdjMTczMjFj",
   "tracks": [
     {
       "added_at": "2023-04-21 04:00:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Algo Sucede",
+        "url": "https://open.spotify.com/album/5Z6YX9a3A3quKgM0naXEaL"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 190360,
+      "name": "Dos Soledades",
+      "url": "https://open.spotify.com/track/378lux3KIGNYTyFnB1cEXy"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Love Song (Helado Negro Remix)",
         "url": "https://open.spotify.com/album/2p5v0LukKFqgNeLsNPVqYF"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 259226,
       "name": "Love Song - Helado Negro Remix",
       "url": "https://open.spotify.com/track/2PKJ88Ap4ebLFxJ4lwAGRF"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Algo Sucede",
-        "url": "https://open.spotify.com/album/5Z6YX9a3A3quKgM0naXEaL"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 190360,
-      "name": "Dos Soledades",
-      "url": "https://open.spotify.com/track/378lux3KIGNYTyFnB1cEXy"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Byebye Sayonara, Nunca Sabr\u00e1s Que Esto Fue para Ti",
-        "url": "https://open.spotify.com/album/5Uv6SEehbntf84qXBZyT56"
+        "name": "El Invento",
+        "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
       },
       "artists": [
         {
-          "name": "Mi Sobrino Memo",
-          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
         }
       ],
-      "duration_ms": 236301,
-      "name": "Te Lo Debo Contar",
-      "url": "https://open.spotify.com/track/3qF89WKp5gQSabVlH1gpXj"
+      "duration_ms": 153413,
+      "name": "El Invento",
+      "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
     }
   ],
   "unique_name": "Latin Folk",

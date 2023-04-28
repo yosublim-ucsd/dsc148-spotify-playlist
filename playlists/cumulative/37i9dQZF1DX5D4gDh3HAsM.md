@@ -4,7 +4,7 @@
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-109 songs - 6 hr 28 min
+110 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Good “Swing” Wenceslas](https://open.spotify.com/track/1aeVPzsWRiLbZEcn9SSEfb) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [A Very Swingin’ Basie Christmas!](https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S) | 3:33 | 2021-11-12 |  |
 | [Greensleeves](https://open.spotify.com/track/2H9zsdAjaue3tkg4d27jRm) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 5:29 | 2021-11-12 |  |
 | [Greensleeves](https://open.spotify.com/track/6qEZ3wkUF7nY1DBbD7DHoN) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 5:29 | 2021-11-12 | 2022-09-18 |
-| [Have a Holly Jolly Christmas](https://open.spotify.com/track/2Lb9nBoZ8V5GNtMOgcaF8o) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui) | 4:03 | 2021-11-12 |  |
+| [Have a Holly Jolly Christmas](https://open.spotify.com/track/2Lb9nBoZ8V5GNtMOgcaF8o) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui) | 4:03 | 2021-11-12 | 2023-04-28 |
 | [Have a Holly Jolly Christmas](https://open.spotify.com/track/3DY7RPevRunOOtUEvGfMdF) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/4ZD2z6ZVjiaeZolP8MXgvK) | 4:03 | 2021-11-12 | 2022-07-29 |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/6yH9KPvWZ0Jnd8qsxj8oxs) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/0h9OvpJOdA59Ki48TXj2Ag) | 4:16 | 2022-10-07 |  |
 | [Have Yourself A Merry Little Christmas \- Fireplace](https://open.spotify.com/track/3aZemyBU6kMjsqVGTWQ0v4) | [Scott Leonard Jazz Band](https://open.spotify.com/artist/3soQqRQIgqqYLTR62pZ8mK) | [Jazz Christmas Songs By The Fire](https://open.spotify.com/album/0F8Aw2DVnhQNINV62SYtqg) | 3:21 | 2021-11-12 | 2022-11-14 |
@@ -72,6 +72,7 @@
 | [O Lettle Town Of Bethlehem](https://open.spotify.com/track/1IBOildd9ZjEcuuAZJz8fB) | [The Eddie Higgins Trio](https://open.spotify.com/artist/7AbWCUgC8aFlUYWSuiaQhK) | [Christmas Songs](https://open.spotify.com/album/1qnpNMKpPzIC0eXrzVSh6K) | 4:49 | 2021-11-12 | 2022-07-29 |
 | [O Lettle Town Of Bethlehem](https://open.spotify.com/track/38YcOVBqCbMZej01gurFFz) | [The Eddie Higgins Trio](https://open.spotify.com/artist/7AbWCUgC8aFlUYWSuiaQhK) | [Christmas Songs](https://open.spotify.com/album/0t0LMIRhBLD6xWPc6MEKxX) | 4:49 | 2021-11-12 | 2022-11-12 |
 | [O Little Town of Bethlehem](https://open.spotify.com/track/7IQoSi7j7OEYJj0RsRyyJ2) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [December](https://open.spotify.com/album/4NsBiFRTE50Egj4eesK4mG) | 3:10 | 2021-11-12 | 2022-10-04 |
+| [O Little Town Of Bethlehem](https://open.spotify.com/track/7lFGTWPpGaBMxX8vjHLmLT) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [An Oscar Peterson Christmas](https://open.spotify.com/album/4lkW34BvnZk0RBZLlvDddC) | 3:16 | 2021-11-12 |  |
 | [O Little Town Of Bethlehem](https://open.spotify.com/track/7mN5Va59eJwb5fRTuOmuUb) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [An Oscar Peterson Christmas](https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk) | 3:16 | 2021-11-12 | 2023-04-21 |
 | [O Tannenbaum](https://open.spotify.com/track/34rzJNfTd5e9s3TICFMPD0) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 5:09 | 2021-11-12 | 2022-09-18 |
 | [O Tannenbaum](https://open.spotify.com/track/4YhY2qHdBmSX33uj8ms0oq) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 5:09 | 2021-11-12 |  |

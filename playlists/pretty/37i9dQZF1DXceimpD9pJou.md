@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto:   <a href="https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe?si=Ya3sKfinRXiQeDtwwSzpkw">Carla Morrison</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,891 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,001 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Mil Años](https://open.spotify.com/track/5auNgAv6ZQoRql3b33V7ko) | [Alejandra Miguez](https://open.spotify.com/artist/2bbaAx3d1D2AuP89ebeAY6) | [Mil Años](https://open.spotify.com/album/4xiVea64QGfpNxnck2SeNw) | 3:27 |
 | 100 | [Andrea](https://open.spotify.com/track/2E7wlAY1qFDYxOSp5Nu6Nh) | [Townix](https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2) | [Andrea](https://open.spotify.com/album/1qbBE4RaA0ned1dAfzyDOR) | 3:39 |
 
-Snapshot ID: `MTY4MjA3NTAxOSwwMDAwMDAwMGU5MjE5Y2M2N2NhYWU5NjZiYWZiNzkwYzEwODAyNTc0`
+Snapshot ID: `MCxiYjE3Yjk5ZTE1NTNmNGQ4ZDIwNDE2NGY4M2I1NjdiNWZkNTczOTYw`

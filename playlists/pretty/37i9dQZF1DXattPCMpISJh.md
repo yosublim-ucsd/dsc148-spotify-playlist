@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Jessie Ware
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,709 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,822 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 99 | [Alegría \(Franc Moody Remix\)](https://open.spotify.com/track/4pXlg4wiARIhv0CHx0pFMd) | [RELATIN](https://open.spotify.com/artist/0t3hsCFzCFOP4Zev9DOIw8), [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Alegría \(Franc Moody Remix\)](https://open.spotify.com/album/2Txxw56PHJcWihrTHjFubI) | 3:48 |
 | 100 | [Heavenly](https://open.spotify.com/track/4HQj53RJeJ0hah1i8qF068) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Tomorrow's Yesterdays](https://open.spotify.com/album/20YnSENPukDCIyjvNxAZvW) | 3:44 |
 
-Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMDViNzNiN2U1OWZjNDMyMDE4NTdkZTYzMGViMjUwMTAz`
+Snapshot ID: `MCwzMWU1Y2Q0ODc0Y2Y5YWRiZGExYTAzOGRiMTQxNWEwZTAyNzM0ZTY2`

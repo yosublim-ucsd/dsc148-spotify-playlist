@@ -1,12 +1,12 @@
 {
   "description": "Cherish the day with these low-key favorites.",
-  "num_followers": 324252,
+  "num_followers": 324353,
   "original_name": "Easy Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDZjMmE5NjlmNDQ3MTU5NmZlYzYyYmY4NTA0YjRhMmQ0",
+  "snapshot_id": "MCw3Y2U3NzRjZWI2OTAxNTUwYWU0MTJkMWMwMWUxZDY4MTE4OTNmNDcz",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 204294,
-      "name": "Fool's Gold - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Issues (Acoustic)",
         "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 175280,
       "name": "Issues - Acoustic",
       "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 204294,
+      "name": "Fool's Gold - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Slow Hands (Acoustic)",
-        "url": "https://open.spotify.com/album/24cFn5N2pwiU2WZQcfSUIp"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 160592,
-      "name": "Slow Hands - Acoustic",
-      "url": "https://open.spotify.com/track/3BK5t8Z6AkaeUTdFjehHqy"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Love on the Weekend",
         "url": "https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 212626,
       "name": "Love on the Weekend",
       "url": "https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Bear Creek",
+        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "Heart's Content",
+      "url": "https://open.spotify.com/track/0pegFWSUOTiG0sLVEfxtvA"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -515,18 +515,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Bear Creek",
-        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
+        "name": "Slow Hands (Acoustic)",
+        "url": "https://open.spotify.com/album/24cFn5N2pwiU2WZQcfSUIp"
       },
       "artists": [
         {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
         }
       ],
-      "duration_ms": 214666,
-      "name": "Heart's Content",
-      "url": "https://open.spotify.com/track/0pegFWSUOTiG0sLVEfxtvA"
+      "duration_ms": 160592,
+      "name": "Slow Hands - Acoustic",
+      "url": "https://open.spotify.com/track/3BK5t8Z6AkaeUTdFjehHqy"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 254834,
-      "name": "Always Be My Baby - Recorded at Sound Stage Nashville",
-      "url": "https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "New Magic",
         "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 172863,
       "name": "O Me O My",
       "url": "https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 254834,
+      "name": "Always Be My Baby - Recorded at Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Local Valley",
-        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 188080,
-      "name": "Line Of Fire",
-      "url": "https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Julie Blue",
         "url": "https://open.spotify.com/album/6uxp18VG6vFW2TmjE0nrPN"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 278693,
       "name": "I Love The Rain The Most",
       "url": "https://open.spotify.com/track/63ogaJyLqKCR9BUBzmtnIG"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Local Valley",
+        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 188080,
+      "name": "Line Of Fire",
+      "url": "https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Pendulum",
-        "url": "https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE"
-      },
-      "artists": [
-        {
-          "name": "Aisha Badru",
-          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
-        }
-      ],
-      "duration_ms": 194320,
-      "name": "Mind on Fire",
-      "url": "https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Foreign Sea",
         "url": "https://open.spotify.com/album/2zw3vj7T9QBMk7xCwy5cTt"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 172762,
       "name": "All Alone",
       "url": "https://open.spotify.com/track/6vxgKI4X5bOOXv996rz2Vf"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Pendulum",
+        "url": "https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE"
+      },
+      "artists": [
+        {
+          "name": "Aisha Badru",
+          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
+        }
+      ],
+      "duration_ms": 194320,
+      "name": "Mind on Fire",
+      "url": "https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Concrete Jungle (Acoustic)",
-        "url": "https://open.spotify.com/album/2UMY8zdbiUZ4gxoHrtj44Q"
+        "name": "Wandered Away",
+        "url": "https://open.spotify.com/album/1x6WXEqvgHDBxGKpxLAaz1"
       },
       "artists": [
         {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+          "name": "Anna Leone",
+          "url": "https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj"
         }
       ],
-      "duration_ms": 160345,
-      "name": "Concrete Jungle - Acoustic",
-      "url": "https://open.spotify.com/track/6RGkwhDLaHxWWXY0jn1jFv"
+      "duration_ms": 255493,
+      "name": "My Soul I",
+      "url": "https://open.spotify.com/track/4yzgJXvWFXWGLd4vQMYo9p"
     }
   ],
   "unique_name": "Easy Acoustic",

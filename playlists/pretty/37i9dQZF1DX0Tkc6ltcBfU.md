@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Nardo Wick
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,152,997 likes - 51 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,153,347 likes - 51 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 50 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 |
 | 51 | [UNDEFEATED](https://open.spotify.com/track/4HGiXPr1kAN40W8kfbtDMc) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:45 |
 
-Snapshot ID: `MTY4MjQ5MDE0NSwwMDAwMDAwMDhjM2NmYmRmYTVlMWI1NWVjNzY4YjA1MGIyMjU1ZDgy`
+Snapshot ID: `MCw2MGJkMDMxMTgyYjVjZjRjOTk5MzEzMDZlZTVjMzEyZDhjNjQ1MThh`

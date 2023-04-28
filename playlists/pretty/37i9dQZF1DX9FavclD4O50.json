@@ -1,12 +1,12 @@
 {
   "description": "Eerie pieces created by waving hands around Leon Theremin's otherworldly instrument. Cover: Clara Rockmore",
-  "num_followers": 2268,
+  "num_followers": 2270,
   "original_name": "theremin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTg3MDg5OCwwMDAwMDAwMDg3MDRjYjU1Y2NkYzdmYzU3MmIwNTU1MGYwY2E3MWRm",
+  "snapshot_id": "MCxmMGRmMWJkMjIwMjI5NzI1ZjM4Y2U4M2Q5MDVjYmIxM2YzZmZhMDE3",
   "tracks": [
     {
       "added_at": "2021-08-17 02:35:20",
@@ -108,6 +108,26 @@
       },
       "artists": [
         {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "duration_ms": 125746,
+      "name": "La vie en rose (Arr. for Theremin & Piano)",
+      "url": "https://open.spotify.com/track/6ZNktqtOKZe2her0frw4H3"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
+        "name": "Dvo\u0159\u00e1k, Ravel, Gershwin & Others: Chamber Works",
+        "url": "https://open.spotify.com/album/55bk8Fqpfpm0rrT5vjREwn"
+      },
+      "artists": [
+        {
           "name": "George Gershwin",
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         },
@@ -123,26 +143,6 @@
       "duration_ms": 167253,
       "name": "Porgy and Bess, Act I Scene 1: Summertime (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/0jioCLgkOZzXhb5yYgdfpL"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
-        "name": "Dvo\u0159\u00e1k, Ravel, Gershwin & Others: Chamber Works",
-        "url": "https://open.spotify.com/album/55bk8Fqpfpm0rrT5vjREwn"
-      },
-      "artists": [
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 125746,
-      "name": "La vie en rose (Arr. for Theremin & Piano)",
-      "url": "https://open.spotify.com/track/6ZNktqtOKZe2her0frw4H3"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -467,46 +467,6 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
-        "name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)",
-        "url": "https://open.spotify.com/album/4m0wpnl7Db40DawENitc78"
-      },
-      "artists": [
-        {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 229666,
-      "name": "14 Songs, Op. 34, No. 14. Vocalise: 14 Songs, Op. 34: No. 14, Vocalise (Arr. For theremin and piano)",
-      "url": "https://open.spotify.com/track/69QIXVjGq4o35oajsLgrYv"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
-        "name": "Face plant",
-        "url": "https://open.spotify.com/album/1lmTsvmGFEjNC2qN0qc1nr"
-      },
-      "artists": [
-        {
-          "name": "Kepa Lehtinen",
-          "url": "https://open.spotify.com/artist/22No3IMhBvteEfpCo3y9gz"
-        }
-      ],
-      "duration_ms": 155764,
-      "name": "Face plant",
-      "url": "https://open.spotify.com/track/5cPJAz8NKMujyLE23gGnfM"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
         "name": "Dvo\u0159\u00e1k, Ravel, Gershwin & Others: Chamber Works",
         "url": "https://open.spotify.com/album/55bk8Fqpfpm0rrT5vjREwn"
       },
@@ -559,6 +519,46 @@
       "duration_ms": 242960,
       "name": "Pastorale (Arr. for Theremin, Piano & Cello Ensemble)",
       "url": "https://open.spotify.com/track/2aGCyYGpPlHrn0ydGqDZgz"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
+        "name": "Face plant",
+        "url": "https://open.spotify.com/album/1lmTsvmGFEjNC2qN0qc1nr"
+      },
+      "artists": [
+        {
+          "name": "Kepa Lehtinen",
+          "url": "https://open.spotify.com/artist/22No3IMhBvteEfpCo3y9gz"
+        }
+      ],
+      "duration_ms": 155764,
+      "name": "Face plant",
+      "url": "https://open.spotify.com/track/5cPJAz8NKMujyLE23gGnfM"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
+        "name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)",
+        "url": "https://open.spotify.com/album/4m0wpnl7Db40DawENitc78"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "duration_ms": 229666,
+      "name": "14 Songs, Op. 34, No. 14. Vocalise: 14 Songs, Op. 34: No. 14, Vocalise (Arr. For theremin and piano)",
+      "url": "https://open.spotify.com/track/69QIXVjGq4o35oajsLgrYv"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -847,30 +847,6 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
-        "name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)",
-        "url": "https://open.spotify.com/album/4m0wpnl7Db40DawENitc78"
-      },
-      "artists": [
-        {
-          "name": "Igor Stravinsky",
-          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "The Firebird: Berceuse (Arr. For theremin and piano)",
-      "url": "https://open.spotify.com/track/6W1t6X1d24OQJ2E1tXXFmZ"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
         "name": "Music from the Ether: Original Works for Theremin",
         "url": "https://open.spotify.com/album/4T8jPbJTjvc5GYzcQ66BCE"
       },
@@ -891,6 +867,30 @@
       "duration_ms": 168613,
       "name": "Dance in the Moon",
       "url": "https://open.spotify.com/track/27lBuBbnfrBo6RJ8pIjBcm"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
+        "name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)",
+        "url": "https://open.spotify.com/album/4m0wpnl7Db40DawENitc78"
+      },
+      "artists": [
+        {
+          "name": "Igor Stravinsky",
+          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "The Firebird: Berceuse (Arr. For theremin and piano)",
+      "url": "https://open.spotify.com/track/6W1t6X1d24OQJ2E1tXXFmZ"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -1099,8 +1099,8 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
-        "name": "Theremin Vox Collection Vol.1",
-        "url": "https://open.spotify.com/album/7c94OMv4ypIwKaSL4DbLHu"
+        "name": "Theremin : VOCALISE",
+        "url": "https://open.spotify.com/album/1lvYWGNONeTpcC7q9020gP"
       },
       "artists": [
         {
@@ -1108,9 +1108,9 @@
           "url": "https://open.spotify.com/artist/7IwBB0pBWtf6xJrd1InDEq"
         }
       ],
-      "duration_ms": 182416,
-      "name": "\u8352\u57ce\u306e\u6708",
-      "url": "https://open.spotify.com/track/62iNNRWB0tpmE8O6RuMGqV"
+      "duration_ms": 181666,
+      "name": "Swan",
+      "url": "https://open.spotify.com/track/5GItK79AUXKqnGRDFBsNqm"
     },
     {
       "added_at": "2021-08-17 02:35:20",

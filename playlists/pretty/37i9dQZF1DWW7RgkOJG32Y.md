@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 
 > Top trending country tracks from the last few months\. Cover: Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,091 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,682 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 | 49 | [You In A Honky Tonk](https://open.spotify.com/track/6uMlDbkMx22aWyoWgyCbTo) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Shot Glass](https://open.spotify.com/album/0LjZjuCqFFYCeit3OqcNVH) | 3:03 |
 | 50 | [Key West & Colorado](https://open.spotify.com/track/0K9q7Z82z3BygBWznLCqXL) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Key West & Colorado](https://open.spotify.com/album/0FDFEgqvnVxMw84e9xgNEL) | 3:26 |
 
-Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMGJlZTQ0MDQ1NGQxZmZhNzYwOTg3YjFhMWJmZWY3N2Vh`
+Snapshot ID: `MCwzMDU1NzBkYzUzNDA4YmZlODk3MjM2MDc4MmRmNTc3OTM1NjQ0MzUz`

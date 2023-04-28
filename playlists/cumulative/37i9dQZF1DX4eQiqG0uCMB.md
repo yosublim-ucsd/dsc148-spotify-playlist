@@ -4,7 +4,7 @@
 
 > Chill afro music to study with.
 
-198 songs - 10 hr 7 min
+200 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 | 2022-06-16 | 2023-02-17 |
 | [CHAMPAGNE GIRL](https://open.spotify.com/track/478cS3LW0O2VL1vW0kYMKd) | [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [CHAMPAGNE GIRL](https://open.spotify.com/album/5C7Txmzu3t6zVrpoEhLA4S) | 2:20 | 2022-07-22 | 2022-07-28 |
 | [Champion Sound](https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju) | [Champion Sound](https://open.spotify.com/album/6pLdp90UOgmgb6yYh6bf2T) | 3:57 | 2022-06-09 | 2023-02-22 |
+| [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-04-27 |  |
 | [chokehold](https://open.spotify.com/track/1sTHELUvMf848Hr5b2ekav) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci), [NGE\-THE\-PRODUCER](https://open.spotify.com/artist/5oV5Wd6ZbxfzzlHqlOchXS) | [Nightshot](https://open.spotify.com/album/0L9LtAbap45bpiJsqX05fG) | 4:02 | 2023-02-24 | 2023-03-04 |
 | [Chop Life](https://open.spotify.com/track/6hd8cGU3nXykhV7LC6Kz1l) | [Ceeza Milli](https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A) | [Chop Life](https://open.spotify.com/album/5ETariiMZnVFViqw20NN55) | 2:59 | 2022-06-09 | 2022-07-27 |
 | [Close To Me](https://open.spotify.com/track/6TyFIUgedV7EkYdk6nS4aw) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Agent Sasco \(Assassin\)](https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 3:00 | 2022-06-09 | 2022-07-26 |
@@ -66,7 +67,7 @@
 | [Far Away](https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Far Away](https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT) | 2:19 | 2023-03-30 |  |
 | [Felony](https://open.spotify.com/track/0Jq7lotJVDHAvNfef6ehcJ) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:25 | 2022-06-09 | 2022-07-29 |
 | [Focus](https://open.spotify.com/track/5ba4KjrBg1k5KYZjYx0UVZ) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Somewhere Between Beauty & Magic](https://open.spotify.com/album/7hTvmL5OmZwGVpQzwg0enD) | 2:32 | 2022-06-09 | 2022-07-21 |
-| [For Days](https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [For Days](https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2) | 2:44 | 2022-06-09 |  |
+| [For Days](https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [For Days](https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2) | 2:44 | 2022-06-09 | 2023-04-28 |
 | [FOR MY BABY](https://open.spotify.com/track/5bAsB0uRfEAOj9d3vsNSm5) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [FOR MY BABY](https://open.spotify.com/album/1HYUIlhz822Tule9gSBB5z) | 2:17 | 2022-06-30 | 2022-07-22 |
 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 | 2022-07-07 |  |
 | [For You](https://open.spotify.com/track/2uFYYGYPy5qPBSrn1bGrjZ) | [Beekay](https://open.spotify.com/artist/5bJRdp4s31dOFBYQXYlAOa) | [7TH CRUSH \(Deluxe\)](https://open.spotify.com/album/5Ntf6ZiMSO7WtcKfw6NPSI) | 3:21 | 2022-06-09 | 2022-07-28 |
@@ -193,6 +194,7 @@
 | [Wake Up](https://open.spotify.com/track/6lymDMoeOs8GHutXElZTSn) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Wake Up](https://open.spotify.com/album/6tThUvsa9NTLfdkFV2S7I3) | 1:26 | 2022-09-09 | 2022-10-14 |
 | [Want You](https://open.spotify.com/track/0vyg6EqfMiu45hQzFmi0YF) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Want You](https://open.spotify.com/album/7I2CUrd8gtIBHVXXhFbCuX) | 3:25 | 2022-06-09 |  |
 | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL) | 5:05 | 2022-06-16 |  |
+| [Wena](https://open.spotify.com/track/0IzpcaxNAkTbXMCjKce63a) | [ChopLife SoundSystem](https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Wena](https://open.spotify.com/album/0onz8qjTUpigfkiOyqjSpw) | 3:14 | 2023-04-27 |  |
 | [What To Expect When Expecting](https://open.spotify.com/track/3O9GGQXx5mi1ekYoCJbgXk) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [What To Expect When Expecting](https://open.spotify.com/album/2VkmTYOfZ1zTHQBhfK1Rbf) | 2:48 | 2022-09-09 | 2022-10-01 |
 | [WICKED](https://open.spotify.com/track/33ngGj804cbv6bLV3r8ljR) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [ACT 2](https://open.spotify.com/album/6MudGkfVHCyDuy56SU8CYC) | 2:48 | 2023-02-16 | 2023-03-25 |
 | [Wine](https://open.spotify.com/track/2qpCxK7imR1qbH4fbdgWLg) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:50 | 2022-06-09 | 2022-09-02 |
@@ -204,7 +206,7 @@
 | [Yolo](https://open.spotify.com/track/5BZND0pEiJowPDbqMwHY2M) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Yolo](https://open.spotify.com/album/3kflZg32LcyQvzUu3nJkOO) | 2:19 | 2023-02-03 | 2023-02-17 |
 | [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 | 2022-08-25 | 2022-10-01 |
 | [you](https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:55 | 2022-08-25 | 2023-01-27 |
-| [you](https://open.spotify.com/track/5Wdl4yFoXOX1xmA53udLyZ) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 2:55 | 2023-03-03 |  |
+| [you](https://open.spotify.com/track/5Wdl4yFoXOX1xmA53udLyZ) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 2:55 | 2023-03-03 | 2023-04-28 |
 | [You](https://open.spotify.com/track/7rMLmoVArHiGk9xnWZ1uCs) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [You](https://open.spotify.com/album/37wcMzwnywNADLLP4toybs) | 2:43 | 2022-06-09 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-07-19. Prior content cannot be recovered.

@@ -1775,6 +1775,36 @@
     },
     {
       "album": {
+        "name": "FUNKFEST",
+        "url": "https://open.spotify.com/album/15mHUTBgoXJ5BGCRTO9FYx"
+      },
+      "artists": [
+        {
+          "name": "grouptherapy.",
+          "url": "https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3"
+        },
+        {
+          "name": "Jadagrace",
+          "url": "https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk"
+        },
+        {
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB"
+        },
+        {
+          "name": "TJOnline",
+          "url": "https://open.spotify.com/artist/11ytrEfijT8k5ZPNymeXfS"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219733,
+      "name": "FUNKFEST",
+      "url": "https://open.spotify.com/track/4qUQeGpgw3Gz1w4Ace91bJ"
+    },
+    {
+      "album": {
         "name": "G Walkin' on Yo Coffin",
         "url": "https://open.spotify.com/album/0wIY52uLlqylbi1Ojps98V"
       },
@@ -4566,6 +4596,24 @@
       "duration_ms": 133186,
       "name": "THERAPY!",
       "url": "https://open.spotify.com/track/0GAWAziokyaTDufed63rEh"
+    },
+    {
+      "album": {
+        "name": "Turn It Up",
+        "url": "https://open.spotify.com/album/6A0KCC9AaG4ZTK8KhfxRVE"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122699,
+      "name": "Turn It Up",
+      "url": "https://open.spotify.com/track/6ou2irr0bEoGNaTejrOEBl"
     },
     {
       "album": {

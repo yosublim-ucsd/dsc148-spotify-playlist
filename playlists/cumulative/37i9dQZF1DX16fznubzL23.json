@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "Aquafina",
+        "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168103,
+      "name": "Aquafina",
+      "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
+    },
+    {
+      "album": {
         "name": "Aso",
         "url": "https://open.spotify.com/album/2b2dDXkKR8Y5Nf7FfEfTQQ"
       },
@@ -1610,7 +1628,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 275139,
       "name": "Omoge Mi",
       "url": "https://open.spotify.com/track/6xKWafFBzv9KGbWODuwQ0V"

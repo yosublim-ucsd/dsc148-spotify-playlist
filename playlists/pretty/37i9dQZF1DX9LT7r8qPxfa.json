@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Samia",
-  "num_followers": 253311,
+  "num_followers": 253378,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDYxNDM0NWJiNzA1NDJjMDkzOWQ5MDUxODAxYWY4MjBj",
+  "snapshot_id": "MCxiM2M5ZDQyZWQwYWY1Njk1ZDE3MDdjMjhkNjEzYzgwMmU1YzAxNGZj",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "color theory",
-        "url": "https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 435080,
-      "name": "yellow is the color of her eyes",
-      "url": "https://open.spotify.com/track/5EDBVVqd2ogoG89XVQOvsn"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Because I Wanted You to Know",
         "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 179083,
       "name": "Paper Mache World",
       "url": "https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "color theory",
+        "url": "https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 435080,
+      "name": "yellow is the color of her eyes",
+      "url": "https://open.spotify.com/track/5EDBVVqd2ogoG89XVQOvsn"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Skullcrusher",
-        "url": "https://open.spotify.com/album/5pUNogl9gZPjnSkpfT8jxu"
-      },
-      "artists": [
-        {
-          "name": "Skullcrusher",
-          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
-        }
-      ],
-      "duration_ms": 183116,
-      "name": "Places/Plans",
-      "url": "https://open.spotify.com/track/4FAuCkNkIlQnqfZiu60xd6"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "one hand on the steering wheel the other sewing a garden",
         "url": "https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 261173,
       "name": "damn",
       "url": "https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Skullcrusher",
+        "url": "https://open.spotify.com/album/5pUNogl9gZPjnSkpfT8jxu"
+      },
+      "artists": [
+        {
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+        }
+      ],
+      "duration_ms": 183116,
+      "name": "Places/Plans",
+      "url": "https://open.spotify.com/track/4FAuCkNkIlQnqfZiu60xd6"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Party Dress",
-        "url": "https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 194942,
-      "name": "Party Dress",
-      "url": "https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Are We There",
         "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 290613,
       "name": "Tarifa",
       "url": "https://open.spotify.com/track/5rm0BXilbprpZiBFFJgiFu"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Party Dress",
+        "url": "https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 194942,
+      "name": "Party Dress",
+      "url": "https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq"
-      },
-      "artists": [
-        {
-          "name": "Saint Sister",
-          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
-        }
-      ],
-      "duration_ms": 201936,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Held Down",
         "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 247933,
       "name": "Held Down",
       "url": "https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq"
+      },
+      "artists": [
+        {
+          "name": "Saint Sister",
+          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
+        }
+      ],
+      "duration_ms": 201936,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Friends With Feelings",
-        "url": "https://open.spotify.com/album/62pNDsP5spxImRyDVaaKmo"
-      },
-      "artists": [
-        {
-          "name": "Alice Skye",
-          "url": "https://open.spotify.com/artist/0vi9khHSAwMRQx1R65dIFR"
-        }
-      ],
-      "duration_ms": 255426,
-      "name": "Friends with Feelings",
-      "url": "https://open.spotify.com/track/6fjLHqumARq82yruyMNE1m"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "The Fight",
         "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 198373,
       "name": "New Shoes",
       "url": "https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Friends With Feelings",
+        "url": "https://open.spotify.com/album/62pNDsP5spxImRyDVaaKmo"
+      },
+      "artists": [
+        {
+          "name": "Alice Skye",
+          "url": "https://open.spotify.com/artist/0vi9khHSAwMRQx1R65dIFR"
+        }
+      ],
+      "duration_ms": 255426,
+      "name": "Friends with Feelings",
+      "url": "https://open.spotify.com/track/6fjLHqumARq82yruyMNE1m"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Kitchen Table",
-        "url": "https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0"
-      },
-      "artists": [
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Kitchen Table",
-      "url": "https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 179893,
       "name": "Desire",
       "url": "https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Kitchen Table",
+        "url": "https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0"
+      },
+      "artists": [
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Kitchen Table",
+      "url": "https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Luster",
-        "url": "https://open.spotify.com/album/6BgYFVZUvMm05vtCdnxh9d"
-      },
-      "artists": [
-        {
-          "name": "Twin Oaks",
-          "url": "https://open.spotify.com/artist/2EhsRPMmPKBic0M4pFJkWk"
-        }
-      ],
-      "duration_ms": 200669,
-      "name": "Luster",
-      "url": "https://open.spotify.com/track/1TEWu9IdgiwAe5q0bQqwDQ"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "I\u2019ll Still Have Me (Aquilo Remix)",
         "url": "https://open.spotify.com/album/3qRH0q4XS0sbjX0tAaFECr"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 244198,
       "name": "I\u2019ll Still Have Me - Aquilo Remix",
       "url": "https://open.spotify.com/track/4j2TkLdMzMSN9EaC5Cy4eJ"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Luster",
+        "url": "https://open.spotify.com/album/6BgYFVZUvMm05vtCdnxh9d"
+      },
+      "artists": [
+        {
+          "name": "Twin Oaks",
+          "url": "https://open.spotify.com/artist/2EhsRPMmPKBic0M4pFJkWk"
+        }
+      ],
+      "duration_ms": 200669,
+      "name": "Luster",
+      "url": "https://open.spotify.com/track/1TEWu9IdgiwAe5q0bQqwDQ"
     },
     {
       "added_at": "2023-03-31 04:00:00",

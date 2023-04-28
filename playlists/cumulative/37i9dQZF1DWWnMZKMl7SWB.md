@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-313 songs - 20 hr 0 min
+314 songs - 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [Ghosts](https://open.spotify.com/track/7dzzI8KIUgdGAIaJKlbPAv) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Ghosts](https://open.spotify.com/album/5RVmmlvTdqdFewK0P9eQzc) | 3:33 | 2022-04-12 |  |
 | [Going Home](https://open.spotify.com/track/7oxXlTpmfuWEyaESin1cKJ) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Going Home](https://open.spotify.com/album/3PI1CnYgGDhyUus3609otC) | 2:06 | 2022-04-12 |  |
 | [Gonna Save Me](https://open.spotify.com/track/3g8YGS38REdEPlWhVIlSLi) | [Paisley Pink](https://open.spotify.com/artist/3If1CcrLGqjVA4szNh1q6G), [Halyn](https://open.spotify.com/artist/2ewuETZ6BXp6I8WFUtxtWW) | [No Crush](https://open.spotify.com/album/6LfjFIZiZsxTDzMhwOpaKk) | 3:59 | 2022-04-12 |  |
-| [Gummy Bears and Sleeping In Alone](https://open.spotify.com/track/6MZt6HHIWlPZeyhi1C4ysJ) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Gummy Bears and Sleeping In Alone](https://open.spotify.com/album/0xVUJmFne9VNKRjIAqmXxh) | 3:18 | 2022-04-12 |  |
+| [Gummy Bears and Sleeping In Alone](https://open.spotify.com/track/6MZt6HHIWlPZeyhi1C4ysJ) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Gummy Bears and Sleeping In Alone](https://open.spotify.com/album/0xVUJmFne9VNKRjIAqmXxh) | 3:18 | 2022-04-12 | 2023-04-28 |
+| [Gummy Bears and Sleeping In Alone](https://open.spotify.com/track/6P9XVaETOPRPdBicqVvdfX) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Sea Monster](https://open.spotify.com/album/3stiziFaUdaFlDL6BGD4R6) | 3:18 | 2023-03-27 |  |
 | [Hawaii](https://open.spotify.com/track/6N0wKoHDvZfrylcBlKV9ZP) | [Ahe Bane](https://open.spotify.com/artist/3UERyQ4VEbAEy8qfc6OwvU) | [Hawaii](https://open.spotify.com/album/5IGmw76Iq2Eo1f8OUN859U) | 2:51 | 2022-04-12 |  |
 | [HEAVEN](https://open.spotify.com/track/227Z9UAmt1YTN1hS7kzZXc) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DANCEHALL](https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY) | 3:39 | 2022-04-12 |  |
 | [Heaven](https://open.spotify.com/track/6WXnyeJ7UYGCmUE4TYzbro) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [Heaven](https://open.spotify.com/album/4WRcEYLGU2aFLWoBPRPlpH) | 3:40 | 2022-04-12 | 2022-07-29 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1?si=lgth504CTee5yzE5FWtE5w\">Lwah Ndlunkulu</a>",
+  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=ULCBcQ9RSM61GgUQl7oKEw\">Nomfundo Moh</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -296,7 +296,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 259591,
       "name": "Amalobolo",
       "url": "https://open.spotify.com/track/7g4TQSi0sO8Ju4gWed3YG9"
@@ -569,6 +569,32 @@
     },
     {
       "album": {
+        "name": "Ayina Balance",
+        "url": "https://open.spotify.com/album/6lvuzxH5bfYY4AYB4JdcEY"
+      },
+      "artists": [
+        {
+          "name": "Prince Benza",
+          "url": "https://open.spotify.com/artist/5jCHpUIjSnOXUzVaxwBA2k"
+        },
+        {
+          "name": "Makhadzi",
+          "url": "https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs"
+        },
+        {
+          "name": "Malome Vector",
+          "url": "https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340166,
+      "name": "Ayina Balance",
+      "url": "https://open.spotify.com/track/1g6tYKBjl1wNdcjdp8SXtc"
+    },
+    {
+      "album": {
         "name": "Backroom",
         "url": "https://open.spotify.com/album/7I6PNSnQ2ScimsJGZ0GnSv"
       },
@@ -816,7 +842,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 253500,
       "name": "Bhaluyacima",
       "url": "https://open.spotify.com/track/2u1LqOKIbterkIXvaAo6Us"
@@ -1891,6 +1917,24 @@
     },
     {
       "album": {
+        "name": "Hamba Nathi",
+        "url": "https://open.spotify.com/album/5yOUz0ioOyI8mC7CyFAZVx"
+      },
+      "artists": [
+        {
+          "name": "Brenda Mtambo",
+          "url": "https://open.spotify.com/artist/1xq3iidMUB1FTy5c7WcfyC"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332000,
+      "name": "Hamba Nathi",
+      "url": "https://open.spotify.com/track/3vanIz6AFdZLd9Z6kX4IWm"
+    },
+    {
+      "album": {
         "name": "Hata",
         "url": "https://open.spotify.com/album/3Jc2d07Cl2rm3ST6T2DcZe"
       },
@@ -2262,6 +2306,24 @@
       "duration_ms": 275072,
       "name": "Imimoya",
       "url": "https://open.spotify.com/track/7ihqjaAev7GELYK3Gsf4eM"
+    },
+    {
+      "album": {
+        "name": "Imimoya",
+        "url": "https://open.spotify.com/album/7kgXc8c0VRSRbpBExa4TS9"
+      },
+      "artists": [
+        {
+          "name": "Tabia",
+          "url": "https://open.spotify.com/artist/3fvAIzLvQim7Bas6O8FCK8"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325501,
+      "name": "Imimoya",
+      "url": "https://open.spotify.com/track/1UE3WUuHcq0kXeIikXmwjy"
     },
     {
       "album": {
@@ -3516,7 +3578,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 258113,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/3wnvVFi4YQrMQBar9mjr2x"
@@ -3724,7 +3786,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 116000,
       "name": "Matla Sona",
       "url": "https://open.spotify.com/track/0w6RgRKqBro4Hg2t1s9p6r"
@@ -3772,7 +3834,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 178079,
       "name": "Mekaefete",
       "url": "https://open.spotify.com/track/24vksE7sA32jtOMa2oZg0f"
@@ -4806,7 +4868,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 200786,
       "name": "Njalo",
       "url": "https://open.spotify.com/track/7n1OBXJqXbBjCxRBDHIZmM"
@@ -5791,6 +5853,32 @@
     },
     {
       "album": {
+        "name": "Singabonani",
+        "url": "https://open.spotify.com/album/0RqXMw2gDKkqPLKoKJDKbZ"
+      },
+      "artists": [
+        {
+          "name": "LUNGA",
+          "url": "https://open.spotify.com/artist/7810xgWOLCvaMyaFtnOeQa"
+        },
+        {
+          "name": "Mduduzi Ncube",
+          "url": "https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh"
+        },
+        {
+          "name": "Dj Radix",
+          "url": "https://open.spotify.com/artist/1e1wEtfkiETX9bghMZnU4x"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245783,
+      "name": "Singabonani",
+      "url": "https://open.spotify.com/track/61Y3X6S5A856GEOTVXfxC2"
+    },
+    {
+      "album": {
         "name": "Sis'Undenzani",
         "url": "https://open.spotify.com/album/39VO1hwswv8QlwZmQHwGhK"
       },
@@ -5946,6 +6034,28 @@
       "duration_ms": 254768,
       "name": "SMS",
       "url": "https://open.spotify.com/track/2TBYp17F3QE4NfkpdY3X1T"
+    },
+    {
+      "album": {
+        "name": "Sne Mali",
+        "url": "https://open.spotify.com/album/5gM8HpS45q8CK8snJwEQFQ"
+      },
+      "artists": [
+        {
+          "name": "Malungelo",
+          "url": "https://open.spotify.com/artist/2aONiE8Bf4dDZH9SZ6w1a4"
+        },
+        {
+          "name": "Nokwazi",
+          "url": "https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315689,
+      "name": "Sne Mali",
+      "url": "https://open.spotify.com/track/1DDuIHieeN6SjCiVWj5U0Z"
     },
     {
       "album": {
@@ -6676,7 +6786,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 188294,
       "name": "Ubambo Lwam'",
       "url": "https://open.spotify.com/track/6XWZZKtX2mNx2RpQNSriVr"
@@ -6951,6 +7061,24 @@
     },
     {
       "album": {
+        "name": "Umona",
+        "url": "https://open.spotify.com/album/60tGABu8pLNqzV9W1rZlap"
+      },
+      "artists": [
+        {
+          "name": "The Joy",
+          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173753,
+      "name": "Umona",
+      "url": "https://open.spotify.com/track/6ufN7QxJhFZ4rEIKndvdon"
+    },
+    {
+      "album": {
         "name": "Platinumb Heart Open",
         "url": "https://open.spotify.com/album/22FziGbftNET7IBUj4IFdP"
       },
@@ -7114,6 +7242,24 @@
       "duration_ms": 250434,
       "name": "Uthando",
       "url": "https://open.spotify.com/track/4eGBrIPFNNILwvHU5THfQj"
+    },
+    {
+      "album": {
+        "name": "Uthando Lunye",
+        "url": "https://open.spotify.com/album/185M5vZmISiDK7Q4ufbAMr"
+      },
+      "artists": [
+        {
+          "name": "Nomfundo Moh",
+          "url": "https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253246,
+      "name": "Uthando Lunye",
+      "url": "https://open.spotify.com/track/6vT6ApD2icv6IjGfEMdRHo"
     },
     {
       "album": {

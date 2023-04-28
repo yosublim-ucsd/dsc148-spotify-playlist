@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,282 likes - 51 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,306 likes - 51 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 15 | [La Foto](https://open.spotify.com/track/3lGNaVyWdIzOe2aFQymR5F) | [Kerubanda](https://open.spotify.com/artist/4KhtKfn714A0oYBmpMHcz2) | [Cuento Triste](https://open.spotify.com/album/7Kdz2QVeTDGuBXZ0hXLrpj) | 4:43 |
 | 16 | [Vamos hablar ingles](https://open.spotify.com/track/0sCPSj1zmc6utsy0czb54e) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [El Prodigio Vs\. Geovanny Polanco: La Batalla del Tipico \- Round 3](https://open.spotify.com/album/716GiAM5y7ZXcfotDUNb13) | 4:31 |
 | 17 | [El Amor De Su Vida](https://open.spotify.com/track/5CVHhOAMpfdDbn9nq7EDGv) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Pero Dime](https://open.spotify.com/album/3mkTHzbBUqtv7FoChJ6VWi) | 4:11 |
-| 18 | [Porque Te Fuiste Dulce Amor](https://open.spotify.com/track/2teVg77oXxa7UOSochwdEo) | [Raquel Arias](https://open.spotify.com/artist/49P6VROZM32gIQyX9CvJE8) | [Porque Te Fuiste Dulce Amor](https://open.spotify.com/album/3eYIiRrrWsTWP76NwqrFBd) | 5:57 |
-| 19 | [Perdido Sin Ti](https://open.spotify.com/track/4mVcGamc02beQSnh6iNt11) | [Banda Real](https://open.spotify.com/artist/45QUD9oZxg3rGkSDEFI0i6) | [Los Líderes, Vol.1](https://open.spotify.com/album/769jIdmcaSr47p3sVvqER9) | 4:05 |
+| 18 | [Perdido Sin Ti](https://open.spotify.com/track/4mVcGamc02beQSnh6iNt11) | [Banda Real](https://open.spotify.com/artist/45QUD9oZxg3rGkSDEFI0i6) | [Los Líderes, Vol.1](https://open.spotify.com/album/769jIdmcaSr47p3sVvqER9) | 4:05 |
+| 19 | [Porque Te Fuiste Dulce Amor](https://open.spotify.com/track/2teVg77oXxa7UOSochwdEo) | [Raquel Arias](https://open.spotify.com/artist/49P6VROZM32gIQyX9CvJE8) | [Porque Te Fuiste Dulce Amor](https://open.spotify.com/album/3eYIiRrrWsTWP76NwqrFBd) | 5:57 |
 | 20 | [El Conejo De La Vecina](https://open.spotify.com/track/0quAI5YgttjrisTDw3CH4d) | [Blas Duran](https://open.spotify.com/artist/0N8kOoceUhHFL16Rhe5rvb) | [Bachata Pueblo](https://open.spotify.com/album/0GMRJn4slEK9YSkAIfT9BU) | 5:38 |
 | 21 | [El Pobre Infeliz](https://open.spotify.com/track/24lNmJYGnL4NRMjmAkGAL1) | [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [El Pobre Infeliz](https://open.spotify.com/album/20EpT6CZXF2E6GQK7Vwfjo) | 4:21 |
 | 22 | [La Mecedora](https://open.spotify.com/track/4gud2okz9KBcDUjVGw36sD) | [Tatico Henriquez Y Sus Muchachos](https://open.spotify.com/artist/4Pva9KTs5FoQl4TuyZZ3Mm) | [Homenaje A Tatico Henríquez](https://open.spotify.com/album/6wpHAV5jdgysuRBal7lYvu) | 2:54 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 50 | [Tipico Caliente](https://open.spotify.com/track/6sJmVh5brIuD3PywP0gVoE) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [La Reina del Soberano](https://open.spotify.com/album/6JG72C5AvYstaw7ZWdz8xv) | 5:05 |
 | 51 | [La Correa](https://open.spotify.com/track/7KFwD8joQhDszOXDAddttv) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [60 Éxitos](https://open.spotify.com/album/6pGQLQMeYtj3MU4H90z2DX) | 2:49 |
 
-Snapshot ID: `MTU2ODA1MTM2NCwwMDAwMDAwMDYyMTM4ZDAyNjY3M2Q3Y2QwZGEyMGI3ZmZkZTI2NTk2`
+Snapshot ID: `MCwxNzU0ZTRiNTY4ZTg5YzQwOTg4OTA3NmMzOTU1YzU2MTFiNTJlYWJl`

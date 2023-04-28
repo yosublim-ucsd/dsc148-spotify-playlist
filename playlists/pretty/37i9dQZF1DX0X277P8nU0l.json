@@ -1,15 +1,147 @@
 {
   "description": "Un caf\u00e9, un croissant et c\u2018est parti pour une bonne journ\u00e9e.",
-  "num_followers": 208560,
+  "num_followers": 208594,
   "original_name": "Caf\u00e9 Croissant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAyODAwMCwwMDAwMDAwMDI1MWZmZjhjZDc0OTlhMDU0MTc0MmRmNWQ5YzI5Y2E5",
+  "snapshot_id": "MCwzOTYyODcxZjM4ZjgyODhhZGRhNDAwYjhiNGYzOGE0MmUwY2E1MmYx",
   "tracks": [
     {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Sleep Well",
+        "url": "https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 175875,
+      "name": "Sleep Well",
+      "url": "https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Coffee Excess feat. Orono (Superorganism) & Lennon",
+        "url": "https://open.spotify.com/album/1sdMAIlIq8yc3pU8eixDI1"
+      },
+      "artists": [
+        {
+          "name": "mabanua",
+          "url": "https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP"
+        },
+        {
+          "name": "Orono",
+          "url": "https://open.spotify.com/artist/0CqXZXwwLrqnlXqHrVm8ux"
+        },
+        {
+          "name": "Lennon",
+          "url": "https://open.spotify.com/artist/3nPGCD8cnUmkXAmoQx2DbO"
+        }
+      ],
+      "duration_ms": 134902,
+      "name": "Coffee Excess feat. Orono (Superorganism) & Lennon",
+      "url": "https://open.spotify.com/track/66lOGYNWhKurI1s4izrkdw"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Coffee in the Morning",
+        "url": "https://open.spotify.com/album/3amBBRy7fdSTUnDrh4QyL1"
+      },
+      "artists": [
+        {
+          "name": "Aaron Taylor",
+          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
+        }
+      ],
+      "duration_ms": 226453,
+      "name": "Coffee in the Morning",
+      "url": "https://open.spotify.com/track/2h99UmvMA81FvvqKM3lhwk"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Out on the weekend",
+        "url": "https://open.spotify.com/album/4Tj6Wk4DXEZxHUz2B9xOzW"
+      },
+      "artists": [
+        {
+          "name": "La Maison Tellier",
+          "url": "https://open.spotify.com/artist/41EfC0kQmOWfbW2FBGttze"
+        },
+        {
+          "name": "Emilie Simon",
+          "url": "https://open.spotify.com/artist/6kLw7VpGwN4N0sBdmKhhfd"
+        }
+      ],
+      "duration_ms": 268335,
+      "name": "Out on the weekend",
+      "url": "https://open.spotify.com/track/0Gb9R3sEf8QQSQSLAkKpGQ"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Sunsets For Somebody Else & Big Sur (Brasil Versions)",
+        "url": "https://open.spotify.com/album/4DgFZiSAbSzubaX5gY6Mgf"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
+        {
+          "name": "Rog\u00ea",
+          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
+        }
+      ],
+      "duration_ms": 233391,
+      "name": "Sunsets For Somebody Else (feat. Rog\u00ea) - Brasil Version",
+      "url": "https://open.spotify.com/track/1q4JXsjK3jgljGn3ZGtiQ1"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "LOST IN SPACE",
+        "url": "https://open.spotify.com/album/3uU3DdiyrUrGjOEparOAfZ"
+      },
+      "artists": [
+        {
+          "name": "Tayrell",
+          "url": "https://open.spotify.com/artist/2eKTxdRiIGgbWMaPhZDR4w"
+        },
+        {
+          "name": "Yasmin",
+          "url": "https://open.spotify.com/artist/5KEjVMaEdZ1tHgaAIkZCVp"
+        }
+      ],
+      "duration_ms": 175400,
+      "name": "LOST IN SPACE",
+      "url": "https://open.spotify.com/track/3vPeIA6cFEdv1opegsgQ2E"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Us Without Me",
+        "url": "https://open.spotify.com/album/7rQcfmaOYzHKmAlyeuwdTt"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 200039,
+      "name": "Us Without Me",
+      "url": "https://open.spotify.com/track/7fEI29hmaWcCMPi8VJf33C"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "Loving You is All I Want to Do",
         "url": "https://open.spotify.com/album/4TJt3xetzmO9t4hQSRBQnf"
@@ -29,7 +161,23 @@
       "url": "https://open.spotify.com/track/1GIf6prhwd6ESjjJ6pmiwV"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Wondrous Place",
+        "url": "https://open.spotify.com/album/2otVcTMllFwg2QW6paGMmF"
+      },
+      "artists": [
+        {
+          "name": "Drug Store Romeos",
+          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
+        }
+      ],
+      "duration_ms": 133249,
+      "name": "Wondrous Place",
+      "url": "https://open.spotify.com/track/0oXJQ8CyDcQJXASZiCSNGa"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
@@ -45,7 +193,7 @@
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
@@ -73,59 +221,7 @@
       "url": "https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC"
     },
     {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "Glue Song (feat. Clairo)",
-        "url": "https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 135066,
-      "name": "Glue Song (feat. Clairo)",
-      "url": "https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm"
-    },
-    {
-      "added_at": "2023-04-07 22:00:00",
-      "album": {
-        "name": "Sign Out",
-        "url": "https://open.spotify.com/album/6zk2wMyaFUHRkoxRNDL1Ds"
-      },
-      "artists": [
-        {
-          "name": "Evergreen",
-          "url": "https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS"
-        }
-      ],
-      "duration_ms": 238500,
-      "name": "Sign Out",
-      "url": "https://open.spotify.com/track/7xR9nZWkuINxV2jcbCplu9"
-    },
-    {
-      "added_at": "2023-04-07 22:00:00",
-      "album": {
-        "name": "Love 2",
-        "url": "https://open.spotify.com/album/7vfCAXD0bK0i2r3LZa8zVg"
-      },
-      "artists": [
-        {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
-        }
-      ],
-      "duration_ms": 187600,
-      "name": "Sing Sang Sung",
-      "url": "https://open.spotify.com/track/1TTz7vRGZEQgpL6HJOEhWo"
-    },
-    {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "Stockholmsvy",
         "url": "https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM"
@@ -145,7 +241,99 @@
       "url": "https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Good Morning (feat. Susan Carol)",
+        "url": "https://open.spotify.com/album/4AgLuqopjOtOC3qZxPGiAp"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "Susan Carol",
+          "url": "https://open.spotify.com/artist/7lkBIPB2g6tiQos6UF9plP"
+        }
+      ],
+      "duration_ms": 162038,
+      "name": "Good Morning (feat. Susan Carol)",
+      "url": "https://open.spotify.com/track/6A4P5ehiWPgfTUjLVuWtEi"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Glue Song (feat. Clairo)",
+        "url": "https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 135066,
+      "name": "Glue Song (feat. Clairo)",
+      "url": "https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Sign Out",
+        "url": "https://open.spotify.com/album/6zk2wMyaFUHRkoxRNDL1Ds"
+      },
+      "artists": [
+        {
+          "name": "Evergreen",
+          "url": "https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS"
+        }
+      ],
+      "duration_ms": 238500,
+      "name": "Sign Out",
+      "url": "https://open.spotify.com/track/7xR9nZWkuINxV2jcbCplu9"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Brand New Life",
+        "url": "https://open.spotify.com/album/6Vwe5sledpijPPJGg8HyGE"
+      },
+      "artists": [
+        {
+          "name": "Brandee Younger",
+          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
+        },
+        {
+          "name": "Mumu Fresh",
+          "url": "https://open.spotify.com/artist/5UIl2yxuQbC2rU8m9pN8mD"
+        }
+      ],
+      "duration_ms": 272323,
+      "name": "Brand New Life (feat. Mumu Fresh)",
+      "url": "https://open.spotify.com/track/6SGBrgYMtDQfjTb1GXfBSK"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Love 2",
+        "url": "https://open.spotify.com/album/7vfCAXD0bK0i2r3LZa8zVg"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        }
+      ],
+      "duration_ms": 187600,
+      "name": "Sing Sang Sung",
+      "url": "https://open.spotify.com/track/1TTz7vRGZEQgpL6HJOEhWo"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "Summer's Over",
         "url": "https://open.spotify.com/album/4l58JlPq72gOA4veRxboVR"
@@ -165,23 +353,7 @@
       "url": "https://open.spotify.com/track/20pi3c6HXmaEeElCswISpD"
     },
     {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "Sleep Well",
-        "url": "https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 175875,
-      "name": "Sleep Well",
-      "url": "https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1"
-    },
-    {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "Ribbons",
         "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
@@ -197,47 +369,7 @@
       "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
-      "album": {
-        "name": "Coffee Excess feat. Orono (Superorganism) & Lennon",
-        "url": "https://open.spotify.com/album/1sdMAIlIq8yc3pU8eixDI1"
-      },
-      "artists": [
-        {
-          "name": "mabanua",
-          "url": "https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP"
-        },
-        {
-          "name": "Orono",
-          "url": "https://open.spotify.com/artist/0CqXZXwwLrqnlXqHrVm8ux"
-        },
-        {
-          "name": "Lennon",
-          "url": "https://open.spotify.com/artist/3nPGCD8cnUmkXAmoQx2DbO"
-        }
-      ],
-      "duration_ms": 134902,
-      "name": "Coffee Excess feat. Orono (Superorganism) & Lennon",
-      "url": "https://open.spotify.com/track/66lOGYNWhKurI1s4izrkdw"
-    },
-    {
-      "added_at": "2023-04-07 22:00:00",
-      "album": {
-        "name": "Coffee in the Morning",
-        "url": "https://open.spotify.com/album/3amBBRy7fdSTUnDrh4QyL1"
-      },
-      "artists": [
-        {
-          "name": "Aaron Taylor",
-          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
-        }
-      ],
-      "duration_ms": 226453,
-      "name": "Coffee in the Morning",
-      "url": "https://open.spotify.com/track/2h99UmvMA81FvvqKM3lhwk"
-    },
-    {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "Young Hearts",
         "url": "https://open.spotify.com/album/5HSUCEmAAFT1yl5GoGUnxa"
@@ -253,7 +385,7 @@
       "url": "https://open.spotify.com/track/2qKbdyJ0WKLWJv3yBj1RPs"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "Drunk On A Flight",
         "url": "https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq"
@@ -269,7 +401,7 @@
       "url": "https://open.spotify.com/track/75YBkVdPNyqa1gLCK9SZaK"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "Being Funny In A Foreign Language",
         "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
@@ -285,7 +417,7 @@
       "url": "https://open.spotify.com/track/5M5TD1Tlpcgq0Fj1l6Mz6Z"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "Place In My Heart",
         "url": "https://open.spotify.com/album/45HotUb1B7Z2AcUIlQfjJG"
@@ -305,7 +437,7 @@
       "url": "https://open.spotify.com/track/4ClvCYyyljs7oHfvDdcvFX"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "Bird's Eye View",
         "url": "https://open.spotify.com/album/6qaYS8r1JJ33nK9rAB59ie"
@@ -321,7 +453,7 @@
       "url": "https://open.spotify.com/track/2gJBqHbjSuyjP1LAHU93eU"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "Let Me In",
         "url": "https://open.spotify.com/album/3tob4xK2ghAVtEgTm7L7MQ"
@@ -337,7 +469,7 @@
       "url": "https://open.spotify.com/track/08DHfDUaD0UH7INX02dbYf"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "Weightless",
         "url": "https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp"
@@ -353,27 +485,7 @@
       "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
-      "album": {
-        "name": "Sunsets For Somebody Else & Big Sur (Brasil Versions)",
-        "url": "https://open.spotify.com/album/4DgFZiSAbSzubaX5gY6Mgf"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        },
-        {
-          "name": "Rog\u00ea",
-          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
-        }
-      ],
-      "duration_ms": 233391,
-      "name": "Sunsets For Somebody Else (feat. Rog\u00ea) - Brasil Version",
-      "url": "https://open.spotify.com/track/1q4JXsjK3jgljGn3ZGtiQ1"
-    },
-    {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "Something New",
         "url": "https://open.spotify.com/album/4XWeyoqL8oLXPIuuyFkm9Y"
@@ -389,7 +501,7 @@
       "url": "https://open.spotify.com/track/3vs3XiQGucSykqp8AbfYY7"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "Horsepower For The Streets (Deluxe Version)",
         "url": "https://open.spotify.com/album/7b2eQ7mqxXZDq5GqF6agfP"
@@ -405,7 +517,7 @@
       "url": "https://open.spotify.com/track/1mhnGQK4fRlAJBcrftDlwV"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "Finally",
         "url": "https://open.spotify.com/album/1YXLlJ5eyfCkXt8JPAekn2"
@@ -421,7 +533,7 @@
       "url": "https://open.spotify.com/track/0SBvvCsgPoS6gu1Z4XmIHd"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "Si Me Voy (with The Mar\u00edas)",
         "url": "https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq"
@@ -441,23 +553,7 @@
       "url": "https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
-      "album": {
-        "name": "Us Without Me",
-        "url": "https://open.spotify.com/album/7rQcfmaOYzHKmAlyeuwdTt"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 200039,
-      "name": "Us Without Me",
-      "url": "https://open.spotify.com/track/7fEI29hmaWcCMPi8VJf33C"
-    },
-    {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "late night thoughts",
         "url": "https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN"
@@ -473,7 +569,7 @@
       "url": "https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "Narukanaga",
         "url": "https://open.spotify.com/album/68nJKYnPFSOwPY5XLqGdDO"
@@ -489,7 +585,7 @@
       "url": "https://open.spotify.com/track/7G1TpbKIxOcgjyXqstZsQ9"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "Elevation",
         "url": "https://open.spotify.com/album/5JREjQEjOHhHEreuSIGSud"
@@ -517,27 +613,7 @@
       "url": "https://open.spotify.com/track/0vTkJkiYQriLDzdmSt0zHr"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
-      "album": {
-        "name": "LOST IN SPACE",
-        "url": "https://open.spotify.com/album/3uU3DdiyrUrGjOEparOAfZ"
-      },
-      "artists": [
-        {
-          "name": "Tayrell",
-          "url": "https://open.spotify.com/artist/2eKTxdRiIGgbWMaPhZDR4w"
-        },
-        {
-          "name": "Yasmin",
-          "url": "https://open.spotify.com/artist/5KEjVMaEdZ1tHgaAIkZCVp"
-        }
-      ],
-      "duration_ms": 175400,
-      "name": "LOST IN SPACE",
-      "url": "https://open.spotify.com/track/3vPeIA6cFEdv1opegsgQ2E"
-    },
-    {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "Skylight (with Zeeba)",
         "url": "https://open.spotify.com/album/3PmqmVZehRxWfaNzWfNmdA"
@@ -557,7 +633,7 @@
       "url": "https://open.spotify.com/track/6N2MzhCp2fvu7sJhSaHFnw"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "Eye to Eye",
         "url": "https://open.spotify.com/album/1nPz4khN5zBQQRWQ7ClIXX"
@@ -573,7 +649,7 @@
       "url": "https://open.spotify.com/track/4fLWpuB8IHI0Z8UecU4p9R"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "Pyjamas (feat. Remi Wolf)",
         "url": "https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK"
@@ -593,7 +669,7 @@
       "url": "https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "Glue Song",
         "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
@@ -609,7 +685,7 @@
       "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "Sahar",
         "url": "https://open.spotify.com/album/6SkLEvDvr8cHuuKWTQSgj9"
@@ -629,7 +705,7 @@
       "url": "https://open.spotify.com/track/32uXuJF75lxy2gRY85aO9h"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "11",
         "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
@@ -645,7 +721,7 @@
       "url": "https://open.spotify.com/track/4Hge2Dy2MBYw45e28LIaQy"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "Lay It Down",
         "url": "https://open.spotify.com/album/1lanaz3WgCVv2brd64XVeK"
@@ -661,7 +737,7 @@
       "url": "https://open.spotify.com/track/0Kjt9OTYDgTPTyiLRSkWp9"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "For A While",
         "url": "https://open.spotify.com/album/1UJ8kecGU2PQlYDCicEyUk"
@@ -677,7 +753,7 @@
       "url": "https://open.spotify.com/track/7JM4b9VZVDD83l7f2F1ykf"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "Right Here (feat. Benny Sings)",
         "url": "https://open.spotify.com/album/1FONSSx47AfEC6DBTumU2W"
@@ -697,7 +773,7 @@
       "url": "https://open.spotify.com/track/0pceDOsozyHPaki99kCSJQ"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "Corner Of The Sky",
         "url": "https://open.spotify.com/album/6uVYHwWQqyR0Y57oyQ7wSH"
@@ -713,7 +789,7 @@
       "url": "https://open.spotify.com/track/2GUhQOTvUulHaiIXUChVVu"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "Pendant",
         "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
@@ -729,7 +805,7 @@
       "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "Drunk On A Flight",
         "url": "https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq"
@@ -745,7 +821,7 @@
       "url": "https://open.spotify.com/track/7wCFToKO63HYn4oP6xZMHh"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "Fighting for Peace",
         "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
@@ -761,7 +837,7 @@
       "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "Multitudes",
         "url": "https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn"
@@ -777,7 +853,7 @@
       "url": "https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "The World",
         "url": "https://open.spotify.com/album/3cqrOjDqjzb2bdFmhntP8t"
@@ -793,7 +869,7 @@
       "url": "https://open.spotify.com/track/2KnfMlqUIr2RLFIRlCQzhw"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "Tramp Like You",
         "url": "https://open.spotify.com/album/21uaZE9JBRZDNHNouEO8Df"
@@ -809,7 +885,7 @@
       "url": "https://open.spotify.com/track/2wWlrpVleWOYkOqhpkV2EJ"
     },
     {
-      "added_at": "2023-04-07 22:00:00",
+      "added_at": "2023-04-27 22:00:00",
       "album": {
         "name": "Get On The Otherside",
         "url": "https://open.spotify.com/album/2S16kNpGs1zn39HYwcLaJ3"
@@ -827,78 +903,6 @@
       "duration_ms": 229080,
       "name": "The Otherside",
       "url": "https://open.spotify.com/track/7dXYHyEg7TdcnbwcG3R0xG"
-    },
-    {
-      "added_at": "2023-04-07 22:00:00",
-      "album": {
-        "name": "four",
-        "url": "https://open.spotify.com/album/5Ss7v0vKlKr4YJb8jJzFsP"
-      },
-      "artists": [
-        {
-          "name": "gnash",
-          "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
-        }
-      ],
-      "duration_ms": 224302,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/5295DzrqA8A1zCgyESsDeD"
-    },
-    {
-      "added_at": "2023-04-07 22:00:00",
-      "album": {
-        "name": "Pistol",
-        "url": "https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 234174,
-      "name": "Pistol",
-      "url": "https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7"
-    },
-    {
-      "added_at": "2023-04-07 22:00:00",
-      "album": {
-        "name": "The Fool on the Hill",
-        "url": "https://open.spotify.com/album/3fAfSROJJ3Ndvs1fZwkdyC"
-      },
-      "artists": [
-        {
-          "name": "Lucas Santtana",
-          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
-        },
-        {
-          "name": "Flore Benguigui",
-          "url": "https://open.spotify.com/artist/4taAxKHZ4ODt4MwWVPDmbw"
-        }
-      ],
-      "duration_ms": 220909,
-      "name": "The Fool on the Hill",
-      "url": "https://open.spotify.com/track/7IN0LLAhDgpqNz1cFNbYQl"
-    },
-    {
-      "added_at": "2023-04-07 22:00:00",
-      "album": {
-        "name": "Waiting by the Window",
-        "url": "https://open.spotify.com/album/1EnZIihjXvcmZW4IW84P6j"
-      },
-      "artists": [
-        {
-          "name": "mokina",
-          "url": "https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc"
-        },
-        {
-          "name": "carbeau",
-          "url": "https://open.spotify.com/artist/5MOkquoZnhyJEcXBpVHR2j"
-        }
-      ],
-      "duration_ms": 139746,
-      "name": "Waiting by the Window",
-      "url": "https://open.spotify.com/track/3NVDwR7cuCNy30L0DZPQil"
     }
   ],
   "unique_name": "Caf\u00e9 Croissant",

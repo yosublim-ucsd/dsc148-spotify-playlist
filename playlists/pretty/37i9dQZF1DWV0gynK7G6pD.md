@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Isata Kanneh\-Mason
 
-[Spotify](https://open.spotify.com/user/spotify) - 682,528 likes - 81 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,577 likes - 81 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 80 | [Im Nebel: Part 2](https://open.spotify.com/track/28JJ6iXBdtg2whF9tFAso9) | [Toshio Hosokawa](https://open.spotify.com/artist/7CVjE65ZnFdMQL7RzK7Nnt), [Simon Höfele](https://open.spotify.com/artist/4sO1rsoceaDQC0TpjLn4JY), [BBC Symphony Orchestra](https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO), [Geoffrey Paterson](https://open.spotify.com/artist/2RAF8r1XQrSht5HcrrxCiG) | [Im Nebel](https://open.spotify.com/album/33VGD7CLVc8bW1LY4Uj2rl) | 5:01 |
 | 81 | [Bora Vocal \- Looping](https://open.spotify.com/track/0tx1L8eCwAW5Fk0VNNqzDG) | [Rone](https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq), [Dirk Brossé](https://open.spotify.com/artist/34bKiLjmHfp1mAX5Tq3d2y), [Orchestre National De Lyon](https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo) | [Bora Vocal \(Looping\)](https://open.spotify.com/album/3QvlM6Ntxvs3Fp62WDr70M) | 3:29 |
 
-Snapshot ID: `MTY4MjA0OTY2MCwwMDAwMDAwMDZkMGY5NWJhNDcwM2UyMjQyMzIyNWRhMWE2ODYwOTAz`
+Snapshot ID: `MCxhZDE2OTc5OTQ0N2UzZDM5YWQ5NTg5OGJjNDdiMjEyMzJkZTNhMzU0`

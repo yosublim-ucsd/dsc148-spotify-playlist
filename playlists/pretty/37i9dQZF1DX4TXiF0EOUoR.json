@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 124675,
+  "num_followers": 124833,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyNjc4NywwMDAwMDAwMGY5YjQxYzUyYmZhMzI1YzllOWQ5ODkyODg4YTE0NmI2",
+  "snapshot_id": "MCwxYWNlZDZkNWQ0NmNkN2I3MThjMTBlY2ZjNzQ3NTQzNGZmNzBkODU3",
   "tracks": [
     {
       "added_at": "2022-12-30 18:59:47",
@@ -663,18 +663,18 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "El Son Del Tlacololero",
-        "url": "https://open.spotify.com/album/4kCpFVESyvACBa2tQdGm4B"
+        "name": "Olv\u00eddala",
+        "url": "https://open.spotify.com/album/6055KSpuhGP02JmbUIYRsh"
       },
       "artists": [
         {
-          "name": "Banda Bucanera",
-          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
+          "name": "Conjunto Nube",
+          "url": "https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4"
         }
       ],
-      "duration_ms": 219500,
-      "name": "El Son Del Tlacololero",
-      "url": "https://open.spotify.com/track/1NYzgJlrTeZspmrCEoAHjf"
+      "duration_ms": 241946,
+      "name": "Las Huiliotas",
+      "url": "https://open.spotify.com/track/7x1cdHnfOZDuk6zX2EKeNI"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -711,18 +711,18 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Olv\u00eddala",
-        "url": "https://open.spotify.com/album/6055KSpuhGP02JmbUIYRsh"
+        "name": "El Son Del Tlacololero",
+        "url": "https://open.spotify.com/album/4kCpFVESyvACBa2tQdGm4B"
       },
       "artists": [
         {
-          "name": "Conjunto Nube",
-          "url": "https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4"
+          "name": "Banda Bucanera",
+          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
         }
       ],
-      "duration_ms": 241946,
-      "name": "Las Huiliotas",
-      "url": "https://open.spotify.com/track/7x1cdHnfOZDuk6zX2EKeNI"
+      "duration_ms": 219500,
+      "name": "El Son Del Tlacololero",
+      "url": "https://open.spotify.com/track/1NYzgJlrTeZspmrCEoAHjf"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -739,26 +739,6 @@
       "duration_ms": 441000,
       "name": "Medley: El Olotito / El Toro Viejo / El Sinaloense / La Imagen De Malverde - En Vivo",
       "url": "https://open.spotify.com/track/4QaZC2yYRWx60342ibZBsT"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Puras Carnavaleras, Vol. 2",
-        "url": "https://open.spotify.com/album/332rbeyvixuVxaVsNoS02G"
-      },
-      "artists": [
-        {
-          "name": "Banda Bucanera",
-          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
-        },
-        {
-          "name": "Salvador Ya\u00f1ez",
-          "url": "https://open.spotify.com/artist/1ER7kw9u3miriELlOluY3e"
-        }
-      ],
-      "duration_ms": 226306,
-      "name": "Chinelo Carnavalero",
-      "url": "https://open.spotify.com/track/03RZNxQS4tgclnqCpRf3uv"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -811,6 +791,22 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
+        "name": "Cortinas Guindas",
+        "url": "https://open.spotify.com/album/5qZQV3V89D7DpMNIAliRlF"
+      },
+      "artists": [
+        {
+          "name": "Los Rugar",
+          "url": "https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9"
+        }
+      ],
+      "duration_ms": 216163,
+      "name": "El Tecolotito",
+      "url": "https://open.spotify.com/track/2qwttvkZlaWPM1siV1CHlc"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
         "name": "La Parranda De Los Amigos (Vol. 2 / En Vivo)",
         "url": "https://open.spotify.com/album/6zAsjRleHzUXZxCI2XEDWX"
       },
@@ -827,18 +823,38 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Cortinas Guindas",
-        "url": "https://open.spotify.com/album/5qZQV3V89D7DpMNIAliRlF"
+        "name": "Bicentenario",
+        "url": "https://open.spotify.com/album/6tFbIEt2apg5Zj1KPCdyMi"
       },
       "artists": [
         {
-          "name": "Los Rugar",
-          "url": "https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 216163,
-      "name": "El Tecolotito",
-      "url": "https://open.spotify.com/track/2qwttvkZlaWPM1siV1CHlc"
+      "duration_ms": 166874,
+      "name": "El Toro Viejo",
+      "url": "https://open.spotify.com/track/0i14Ax87IW9ClGPk6hY0eV"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "Puras Carnavaleras, Vol. 2",
+        "url": "https://open.spotify.com/album/332rbeyvixuVxaVsNoS02G"
+      },
+      "artists": [
+        {
+          "name": "Banda Bucanera",
+          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
+        },
+        {
+          "name": "Salvador Ya\u00f1ez",
+          "url": "https://open.spotify.com/artist/1ER7kw9u3miriELlOluY3e"
+        }
+      ],
+      "duration_ms": 226306,
+      "name": "Chinelo Carnavalero",
+      "url": "https://open.spotify.com/track/03RZNxQS4tgclnqCpRf3uv"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -871,22 +887,6 @@
       "duration_ms": 107773,
       "name": "Los Enanitos",
       "url": "https://open.spotify.com/track/4ZLhxHhBhApFccTNllmxMK"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Bicentenario",
-        "url": "https://open.spotify.com/album/6tFbIEt2apg5Zj1KPCdyMi"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 166874,
-      "name": "El Toro Viejo",
-      "url": "https://open.spotify.com/track/0i14Ax87IW9ClGPk6hY0eV"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Como Loco Alucino",
-        "url": "https://open.spotify.com/album/2HZ10UUKKSRmVpVBjRXh1k"
+        "name": "Mis Ra\u00edces",
+        "url": "https://open.spotify.com/album/28jdssQUmFnGEN0II0Eqf5"
       },
       "artists": [
         {
-          "name": "Banda La Coste\u00f1a",
-          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
+          "name": "Banda 466 Paso a Paso",
+          "url": "https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm"
         }
       ],
-      "duration_ms": 192066,
-      "name": "La Vaquilla",
-      "url": "https://open.spotify.com/track/42zeCHx9BC59y2oRG6DBxf"
+      "duration_ms": 162328,
+      "name": "El Son Del Toro",
+      "url": "https://open.spotify.com/track/1hkW3I5IYhPfskOedNULud"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Mis Ra\u00edces",
-        "url": "https://open.spotify.com/album/28jdssQUmFnGEN0II0Eqf5"
+        "name": "Como Loco Alucino",
+        "url": "https://open.spotify.com/album/2HZ10UUKKSRmVpVBjRXh1k"
       },
       "artists": [
         {
-          "name": "Banda 466 Paso a Paso",
-          "url": "https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm"
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
         }
       ],
-      "duration_ms": 162328,
-      "name": "El Son Del Toro",
-      "url": "https://open.spotify.com/track/1hkW3I5IYhPfskOedNULud"
+      "duration_ms": 192066,
+      "name": "La Vaquilla",
+      "url": "https://open.spotify.com/track/42zeCHx9BC59y2oRG6DBxf"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "De Michoac\u00e1n al Guamuchil (Los Mejores Sones de Jaripeo)",
-        "url": "https://open.spotify.com/album/5L4DglvthWqL4C95K4xhzQ"
-      },
-      "artists": [
-        {
-          "name": "Banda Alte\u00f1ita de Morelia",
-          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
-        }
-      ],
-      "duration_ms": 183177,
-      "name": "Recuerdos a Hern\u00e1n",
-      "url": "https://open.spotify.com/track/6Jii7DExy2n4XzOGOhingJ"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "El Novillo Despuntado / Toro Pinto",
         "url": "https://open.spotify.com/album/1EhpKhG4GZk68qlAtupGzv"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 277796,
       "name": "El Novillo Despuntado / Toro Pinto",
       "url": "https://open.spotify.com/track/4nkSKijMRBnFNF5rOckLPL"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "De Michoac\u00e1n al Guamuchil (Los Mejores Sones de Jaripeo)",
+        "url": "https://open.spotify.com/album/5L4DglvthWqL4C95K4xhzQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Alte\u00f1ita de Morelia",
+          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
+        }
+      ],
+      "duration_ms": 183177,
+      "name": "Recuerdos a Hern\u00e1n",
+      "url": "https://open.spotify.com/track/6Jii7DExy2n4XzOGOhingJ"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "En Vivo Desde Colima, Vol. 2",
-        "url": "https://open.spotify.com/album/79T7IMva98HwHfjvygeY6n"
-      },
-      "artists": [
-        {
-          "name": "Banda Imperio De Colima",
-          "url": "https://open.spotify.com/artist/56SZMqIcnEJrJOEG0DoT9s"
-        }
-      ],
-      "duration_ms": 207621,
-      "name": "Arriba Pichantaro (En Vivo)",
-      "url": "https://open.spotify.com/track/0uJZHtY7QhTXWdoJemOwHl"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "El Chavo del Ocho (The Elephant Never Forgets)",
         "url": "https://open.spotify.com/album/3cGKC5MjiEJiCpG3InChD9"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 166876,
       "name": "El Chavo del Ocho (The Elephant Never Forgets)",
       "url": "https://open.spotify.com/track/5cFY7DAekksn0hroUe8K02"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "En Vivo Desde Colima, Vol. 2",
+        "url": "https://open.spotify.com/album/79T7IMva98HwHfjvygeY6n"
+      },
+      "artists": [
+        {
+          "name": "Banda Imperio De Colima",
+          "url": "https://open.spotify.com/artist/56SZMqIcnEJrJOEG0DoT9s"
+        }
+      ],
+      "duration_ms": 207621,
+      "name": "Arriba Pichantaro (En Vivo)",
+      "url": "https://open.spotify.com/track/0uJZHtY7QhTXWdoJemOwHl"
     },
     {
       "added_at": "2022-12-30 18:59:47",

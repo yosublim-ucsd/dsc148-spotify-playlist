@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Catie Offerman",
-  "num_followers": 404202,
+  "num_followers": 404263,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA4OTUzNiwwMDAwMDAwMDFlNzU3NmNjYmNiYTcyNmE4MTMwZmJiZTBkMjZiYTI1",
+  "snapshot_id": "MCw2MGZkZTFkMGJhNTdlOWJhOTVkZmJjOGQyM2YxNzdlMzRiYTZlZmY5",
   "tracks": [
     {
       "added_at": "2023-04-21 15:05:36",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-04-21 15:05:36",
       "album": {
-        "name": "The Highway Kind",
-        "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
-      },
-      "artists": [
-        {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
-        }
-      ],
-      "duration_ms": 182090,
-      "name": "Real Damn Good",
-      "url": "https://open.spotify.com/track/1LMWwN346h8JYkQQ5MEzbZ"
-    },
-    {
-      "added_at": "2023-04-21 15:05:36",
-      "album": {
         "name": "Give It Some Time",
         "url": "https://open.spotify.com/album/3dWR1apPIDKdn4iV2uIFGD"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 202920,
       "name": "Give It Some Time",
       "url": "https://open.spotify.com/track/3EYGT2jL6afEPBohmfnEIE"
+    },
+    {
+      "added_at": "2023-04-21 15:05:36",
+      "album": {
+        "name": "The Highway Kind",
+        "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
+      },
+      "artists": [
+        {
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        }
+      ],
+      "duration_ms": 182090,
+      "name": "Real Damn Good",
+      "url": "https://open.spotify.com/track/1LMWwN346h8JYkQQ5MEzbZ"
     },
     {
       "added_at": "2023-04-21 15:05:36",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-04-21 15:05:36",
       "album": {
-        "name": "Heaven Down Here",
-        "url": "https://open.spotify.com/album/7sabls2pdbgDGN05k9yAIq"
+        "name": "Stay Tuned",
+        "url": "https://open.spotify.com/album/6o4nLp0Ra5dW31bxWk91s6"
       },
       "artists": [
         {
-          "name": "Texas Hill",
-          "url": "https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq"
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
         }
       ],
-      "duration_ms": 215977,
-      "name": "Easy on the Eyes",
-      "url": "https://open.spotify.com/track/5dE2CsXCL0Nvg8qG7NUKg1"
+      "duration_ms": 200547,
+      "name": "Stay Tuned",
+      "url": "https://open.spotify.com/track/2dOtM9EeM3bhQvzOWEQPwP"
     },
     {
       "added_at": "2023-04-21 15:05:36",
@@ -695,50 +695,18 @@
     {
       "added_at": "2023-04-21 15:05:36",
       "album": {
-        "name": "Stay Tuned",
-        "url": "https://open.spotify.com/album/6o4nLp0Ra5dW31bxWk91s6"
+        "name": "Heaven Down Here",
+        "url": "https://open.spotify.com/album/7sabls2pdbgDGN05k9yAIq"
       },
       "artists": [
         {
-          "name": "Treaty Oak Revival",
-          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+          "name": "Texas Hill",
+          "url": "https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq"
         }
       ],
-      "duration_ms": 200547,
-      "name": "Stay Tuned",
-      "url": "https://open.spotify.com/track/2dOtM9EeM3bhQvzOWEQPwP"
-    },
-    {
-      "added_at": "2023-04-21 15:05:36",
-      "album": {
-        "name": "The Highway Kind",
-        "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
-      },
-      "artists": [
-        {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
-        }
-      ],
-      "duration_ms": 239763,
-      "name": "The Highway Kind",
-      "url": "https://open.spotify.com/track/1DBoVgENKo0xEOAsQS3TK3"
-    },
-    {
-      "added_at": "2023-04-21 15:05:36",
-      "album": {
-        "name": "Pretty Ugly",
-        "url": "https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb"
-      },
-      "artists": [
-        {
-          "name": "Jenna Paulette",
-          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
-        }
-      ],
-      "duration_ms": 178469,
-      "name": "Pretty Ugly",
-      "url": "https://open.spotify.com/track/6I29jkpQ7k7iIbQqVIgZmG"
+      "duration_ms": 215977,
+      "name": "Easy on the Eyes",
+      "url": "https://open.spotify.com/track/5dE2CsXCL0Nvg8qG7NUKg1"
     },
     {
       "added_at": "2023-04-21 15:05:36",
@@ -775,6 +743,38 @@
     {
       "added_at": "2023-04-21 15:05:36",
       "album": {
+        "name": "Pretty Ugly",
+        "url": "https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb"
+      },
+      "artists": [
+        {
+          "name": "Jenna Paulette",
+          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
+        }
+      ],
+      "duration_ms": 178469,
+      "name": "Pretty Ugly",
+      "url": "https://open.spotify.com/track/6I29jkpQ7k7iIbQqVIgZmG"
+    },
+    {
+      "added_at": "2023-04-21 15:05:36",
+      "album": {
+        "name": "The Highway Kind",
+        "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
+      },
+      "artists": [
+        {
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        }
+      ],
+      "duration_ms": 239763,
+      "name": "The Highway Kind",
+      "url": "https://open.spotify.com/track/1DBoVgENKo0xEOAsQS3TK3"
+    },
+    {
+      "added_at": "2023-04-21 15:05:36",
+      "album": {
         "name": "Hurt No More",
         "url": "https://open.spotify.com/album/2XYMwjnmcRzpGAPmJQrQyG"
       },
@@ -787,6 +787,22 @@
       "duration_ms": 214582,
       "name": "Hurt No More",
       "url": "https://open.spotify.com/track/3qJ5OBunIPNIvU4WAI6RYh"
+    },
+    {
+      "added_at": "2023-04-21 15:05:36",
+      "album": {
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
+      },
+      "artists": [
+        {
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+        }
+      ],
+      "duration_ms": 153125,
+      "name": "The Road",
+      "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
     },
     {
       "added_at": "2023-04-21 15:05:36",
@@ -827,22 +843,6 @@
     {
       "added_at": "2023-04-21 15:05:36",
       "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
-      },
-      "artists": [
-        {
-          "name": "Josh Meloy",
-          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
-        }
-      ],
-      "duration_ms": 153125,
-      "name": "The Road",
-      "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
-    },
-    {
-      "added_at": "2023-04-21 15:05:36",
-      "album": {
         "name": "If Texas Had a Heart",
         "url": "https://open.spotify.com/album/5y47dM3h00Gp3ABfbfbYOI"
       },
@@ -855,6 +855,22 @@
       "duration_ms": 211847,
       "name": "If Texas Had a Heart",
       "url": "https://open.spotify.com/track/2MFiN48Uw7dIjwnTDAYk04"
+    },
+    {
+      "added_at": "2023-04-21 15:05:36",
+      "album": {
+        "name": "Different Now",
+        "url": "https://open.spotify.com/album/7uMjBi7VLbpjEQOgNcTSI7"
+      },
+      "artists": [
+        {
+          "name": "Cody Hibbard",
+          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
+        }
+      ],
+      "duration_ms": 189009,
+      "name": "Different Now",
+      "url": "https://open.spotify.com/track/50F1kaXRx8Ns8PvZDj3ZLR"
     },
     {
       "added_at": "2023-04-21 15:05:36",
@@ -875,22 +891,6 @@
       "duration_ms": 293862,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/22NdTBOE9CgBsMwKlwXJoI"
-    },
-    {
-      "added_at": "2023-04-21 15:05:36",
-      "album": {
-        "name": "Different Now",
-        "url": "https://open.spotify.com/album/7uMjBi7VLbpjEQOgNcTSI7"
-      },
-      "artists": [
-        {
-          "name": "Cody Hibbard",
-          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
-        }
-      ],
-      "duration_ms": 189009,
-      "name": "Different Now",
-      "url": "https://open.spotify.com/track/50F1kaXRx8Ns8PvZDj3ZLR"
     },
     {
       "added_at": "2023-04-21 15:05:36",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-04-21 15:05:36",
       "album": {
-        "name": "Tears the Size of Texas",
-        "url": "https://open.spotify.com/album/79l3KSw4fOnOvixKQB1yPI"
+        "name": "Dancin' With The Devil",
+        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
       },
       "artists": [
         {
-          "name": "Ben Burgess",
-          "url": "https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa"
+          "name": "Josh Ward",
+          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
         }
       ],
-      "duration_ms": 238177,
-      "name": "Tears the Size of Texas",
-      "url": "https://open.spotify.com/track/3dty7RRoFfyFTylgKAAy2V"
+      "duration_ms": 178848,
+      "name": "Dancin' With The Devil",
+      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
     },
     {
       "added_at": "2023-04-21 15:05:36",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2023-04-21 15:05:36",
       "album": {
-        "name": "Dancin' With The Devil",
-        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
+        "name": "Tears the Size of Texas",
+        "url": "https://open.spotify.com/album/79l3KSw4fOnOvixKQB1yPI"
       },
       "artists": [
         {
-          "name": "Josh Ward",
-          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
+          "name": "Ben Burgess",
+          "url": "https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa"
         }
       ],
-      "duration_ms": 178848,
-      "name": "Dancin' With The Devil",
-      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
+      "duration_ms": 238177,
+      "name": "Tears the Size of Texas",
+      "url": "https://open.spotify.com/track/3dty7RRoFfyFTylgKAAy2V"
     },
     {
       "added_at": "2023-04-21 15:05:36",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2023-04-21 15:05:36",
       "album": {
-        "name": "Built Different",
-        "url": "https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ"
+        "name": "Easy as Hello",
+        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
       },
       "artists": [
         {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
         }
       ],
-      "duration_ms": 217720,
-      "name": "Telling on My Heart",
-      "url": "https://open.spotify.com/track/6g7qBmMtsGFxzeEkT0YiJ7"
+      "duration_ms": 279796,
+      "name": "Easy as Hello",
+      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
     },
     {
       "added_at": "2023-04-21 15:05:36",
@@ -1383,34 +1383,34 @@
     {
       "added_at": "2023-04-21 15:05:36",
       "album": {
-        "name": "Easy as Hello",
-        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
+        "name": "Built Different",
+        "url": "https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ"
       },
       "artists": [
         {
-          "name": "Sunny Sweeney",
-          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
         }
       ],
-      "duration_ms": 279796,
-      "name": "Easy as Hello",
-      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
+      "duration_ms": 217720,
+      "name": "Telling on My Heart",
+      "url": "https://open.spotify.com/track/6g7qBmMtsGFxzeEkT0YiJ7"
     },
     {
       "added_at": "2023-04-21 15:05:36",
       "album": {
-        "name": "FREE",
-        "url": "https://open.spotify.com/album/3rSKjvRVAGtNE038X3pjXb"
+        "name": "Hood of That Car",
+        "url": "https://open.spotify.com/album/0Ip1XC7pJBAjD36qikq1cZ"
       },
       "artists": [
         {
-          "name": "Chad Cooke Band",
-          "url": "https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H"
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
         }
       ],
-      "duration_ms": 224894,
-      "name": "I Just Want You",
-      "url": "https://open.spotify.com/track/1saE5pulEvPKbcWyRX6stQ"
+      "duration_ms": 198933,
+      "name": "Hood of That Car",
+      "url": "https://open.spotify.com/track/4THw6mc2Z76R9NeFU6zmr2"
     },
     {
       "added_at": "2023-04-21 15:05:36",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2023-04-21 15:05:36",
       "album": {
-        "name": "Hood of That Car",
-        "url": "https://open.spotify.com/album/0Ip1XC7pJBAjD36qikq1cZ"
+        "name": "FREE",
+        "url": "https://open.spotify.com/album/3rSKjvRVAGtNE038X3pjXb"
       },
       "artists": [
         {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+          "name": "Chad Cooke Band",
+          "url": "https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H"
         }
       ],
-      "duration_ms": 198933,
-      "name": "Hood of That Car",
-      "url": "https://open.spotify.com/track/4THw6mc2Z76R9NeFU6zmr2"
+      "duration_ms": 224894,
+      "name": "I Just Want You",
+      "url": "https://open.spotify.com/track/1saE5pulEvPKbcWyRX6stQ"
     },
     {
       "added_at": "2023-04-21 15:05:36",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-04-21 15:05:36",
       "album": {
-        "name": "Fooled Around",
-        "url": "https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q"
-      },
-      "artists": [
-        {
-          "name": "Presley Drake",
-          "url": "https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld"
-        }
-      ],
-      "duration_ms": 192125,
-      "name": "Fooled Around",
-      "url": "https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6"
-    },
-    {
-      "added_at": "2023-04-21 15:05:36",
-      "album": {
         "name": "I'm Not Him",
         "url": "https://open.spotify.com/album/5WIjwjbdNGAbATC0iSnyO7"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 195882,
       "name": "I'm Not Him",
       "url": "https://open.spotify.com/track/6nuOYIRmlyQIBZZ11Zmmr0"
+    },
+    {
+      "added_at": "2023-04-21 15:05:36",
+      "album": {
+        "name": "Fooled Around",
+        "url": "https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q"
+      },
+      "artists": [
+        {
+          "name": "Presley Drake",
+          "url": "https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld"
+        }
+      ],
+      "duration_ms": 192125,
+      "name": "Fooled Around",
+      "url": "https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6"
     },
     {
       "added_at": "2023-04-21 15:05:36",

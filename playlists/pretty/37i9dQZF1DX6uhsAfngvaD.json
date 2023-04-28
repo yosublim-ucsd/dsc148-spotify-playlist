@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 280392,
+  "num_followers": 280444,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxNjAwMCwwMDAwMDAwMDZlOGQzMWI3MjM5OGI2ZDllOTc5NTRmMGM0YTkwNTFh",
+  "snapshot_id": "MCxkN2JiOTg0ZjFmMGUwZjc5MTEyNGEzYTg4ODA0N2QwZjNlNWVlODIx",
   "tracks": [
     {
       "added_at": "2023-03-24 00:00:00",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Drag",
-        "url": "https://open.spotify.com/album/4hn0zhFiaWgWgA5I9POoA2"
-      },
-      "artists": [
-        {
-          "name": "Day Wave",
-          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
-        }
-      ],
-      "duration_ms": 189651,
-      "name": "Drag",
-      "url": "https://open.spotify.com/track/0oXwUeFAE6IR2lYhaTpxRT"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 191527,
       "name": "Radio",
       "url": "https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
+        "name": "Drag",
+        "url": "https://open.spotify.com/album/4hn0zhFiaWgWgA5I9POoA2"
+      },
+      "artists": [
+        {
+          "name": "Day Wave",
+          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+        }
+      ],
+      "duration_ms": 189651,
+      "name": "Drag",
+      "url": "https://open.spotify.com/track/0oXwUeFAE6IR2lYhaTpxRT"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "All Under the Sky",
-        "url": "https://open.spotify.com/album/0Ma0kcvPUWsIdXwao0oFCM"
-      },
-      "artists": [
-        {
-          "name": "Cathedral Bells",
-          "url": "https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2"
-        }
-      ],
-      "duration_ms": 277058,
-      "name": "All Under the Sky",
-      "url": "https://open.spotify.com/track/6w0HWYMtuqgOVlo5geMZiJ"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
         "name": "The Clouds Cleared the Way",
         "url": "https://open.spotify.com/album/2GajVRWAWcqYuEcYZTLIn8"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 244000,
       "name": "The Clouds Cleared the Way",
       "url": "https://open.spotify.com/track/5Pdsyk2NuTJ56mE97DmxmN"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
+        "name": "All Under the Sky",
+        "url": "https://open.spotify.com/album/0Ma0kcvPUWsIdXwao0oFCM"
+      },
+      "artists": [
+        {
+          "name": "Cathedral Bells",
+          "url": "https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2"
+        }
+      ],
+      "duration_ms": 277058,
+      "name": "All Under the Sky",
+      "url": "https://open.spotify.com/track/6w0HWYMtuqgOVlo5geMZiJ"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
+        "name": "Pronounced McGee",
+        "url": "https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 226645,
+      "name": "Roll With The Punches",
+      "url": "https://open.spotify.com/track/0R1NENmGu9tjHRq1S0bXX8"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
         "name": "Notice Me",
         "url": "https://open.spotify.com/album/1kOhuN7E5bWjkfUUu1BDID"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 214137,
       "name": "27 Club",
       "url": "https://open.spotify.com/track/3lLEyB09dGdmsTY8F7P0Kw"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
-        "name": "Pronounced McGee",
-        "url": "https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 226645,
-      "name": "Roll With The Punches",
-      "url": "https://open.spotify.com/track/0R1NENmGu9tjHRq1S0bXX8"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
+        "name": "The Middle of Nowhere",
+        "url": "https://open.spotify.com/album/222Te8JiZ4gbgurHkY0v1l"
+      },
+      "artists": [
+        {
+          "name": "Ruby Haunt",
+          "url": "https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5"
+        }
+      ],
+      "duration_ms": 258876,
+      "name": "Jeune",
+      "url": "https://open.spotify.com/track/51tJQf4oxTMvONqstKnqmR"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
         "name": "Shadam",
         "url": "https://open.spotify.com/album/3VjokSh7ZReeBII2o5ORAS"
       },
@@ -835,18 +851,18 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "The Middle of Nowhere",
-        "url": "https://open.spotify.com/album/222Te8JiZ4gbgurHkY0v1l"
+        "name": "Morningside",
+        "url": "https://open.spotify.com/album/21Ld2tSHSxYFkj7QHTHFQB"
       },
       "artists": [
         {
-          "name": "Ruby Haunt",
-          "url": "https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5"
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
         }
       ],
-      "duration_ms": 258876,
-      "name": "Jeune",
-      "url": "https://open.spotify.com/track/51tJQf4oxTMvONqstKnqmR"
+      "duration_ms": 240736,
+      "name": "Jennifer",
+      "url": "https://open.spotify.com/track/2ngc5mFakdLVt3xFcNHqQW"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -867,22 +883,6 @@
       "duration_ms": 202761,
       "name": "Make Me Wanna",
       "url": "https://open.spotify.com/track/4bDTwDYjVdTWMRvfoPGAla"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
-        "name": "Morningside",
-        "url": "https://open.spotify.com/album/21Ld2tSHSxYFkj7QHTHFQB"
-      },
-      "artists": [
-        {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
-        }
-      ],
-      "duration_ms": 240736,
-      "name": "Jennifer",
-      "url": "https://open.spotify.com/track/2ngc5mFakdLVt3xFcNHqQW"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Music for the Future",
-        "url": "https://open.spotify.com/album/2ZujbhV7NkcCbJoDXgREJm"
-      },
-      "artists": [
-        {
-          "name": "LANNDS",
-          "url": "https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy"
-        }
-      ],
-      "duration_ms": 279423,
-      "name": "Overseas/BACK 2 U",
-      "url": "https://open.spotify.com/track/0lb6PK0emykiClk9cB1Gw2"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
         "name": "Liquid",
         "url": "https://open.spotify.com/album/4dsMSKFHn0ICTkyhdslZps"
       },
@@ -1079,6 +1063,22 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
+        "name": "Music for the Future",
+        "url": "https://open.spotify.com/album/2ZujbhV7NkcCbJoDXgREJm"
+      },
+      "artists": [
+        {
+          "name": "LANNDS",
+          "url": "https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy"
+        }
+      ],
+      "duration_ms": 279423,
+      "name": "Overseas/BACK 2 U",
+      "url": "https://open.spotify.com/track/0lb6PK0emykiClk9cB1Gw2"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
         "name": "Gloomy Girl",
         "url": "https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR"
       },
@@ -1091,6 +1091,22 @@
       "duration_ms": 186410,
       "name": "Gloomy Girl",
       "url": "https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/28xKoto01psP4QaoISW5HY"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Valentine",
-        "url": "https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg"
-      },
-      "artists": [
-        {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/28xKoto01psP4QaoISW5HY"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
         "name": "rest up",
         "url": "https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue"
       },
@@ -1143,26 +1143,6 @@
       "duration_ms": 204464,
       "name": "rest up",
       "url": "https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
-        "name": "George Clanton and Nick Hexum",
-        "url": "https://open.spotify.com/album/714XLbWXbM8C6sfaYALRG7"
-      },
-      "artists": [
-        {
-          "name": "George Clanton",
-          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
-        },
-        {
-          "name": "Nick Hexum",
-          "url": "https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY"
-        }
-      ],
-      "duration_ms": 217939,
-      "name": "Driving in My Car",
-      "url": "https://open.spotify.com/track/4NcWigh0uMXPKxCdesQWxG"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -1203,18 +1183,22 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Detox",
-        "url": "https://open.spotify.com/album/35GawsI3gsZ0VzMxGzUaFI"
+        "name": "George Clanton and Nick Hexum",
+        "url": "https://open.spotify.com/album/714XLbWXbM8C6sfaYALRG7"
       },
       "artists": [
         {
-          "name": "Bored at My Grandmas House",
-          "url": "https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk"
+          "name": "George Clanton",
+          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
+        },
+        {
+          "name": "Nick Hexum",
+          "url": "https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY"
         }
       ],
-      "duration_ms": 273455,
-      "name": "Detox",
-      "url": "https://open.spotify.com/track/3noiIjMMoDd5mrjMrdcFUu"
+      "duration_ms": 217939,
+      "name": "Driving in My Car",
+      "url": "https://open.spotify.com/track/4NcWigh0uMXPKxCdesQWxG"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
+        "name": "Detox",
+        "url": "https://open.spotify.com/album/35GawsI3gsZ0VzMxGzUaFI"
+      },
+      "artists": [
+        {
+          "name": "Bored at My Grandmas House",
+          "url": "https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk"
+        }
+      ],
+      "duration_ms": 273455,
+      "name": "Detox",
+      "url": "https://open.spotify.com/track/3noiIjMMoDd5mrjMrdcFUu"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
         "name": "Mahjong Room",
         "url": "https://open.spotify.com/album/1NDsNOHUuoVEHUdPIYf46e"
       },
@@ -1247,22 +1247,6 @@
       "duration_ms": 174874,
       "name": "Two Step",
       "url": "https://open.spotify.com/track/1lcL7ccfhuLC1MhmD5ikYG"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
-        "name": "House Of Mirrors",
-        "url": "https://open.spotify.com/album/075wMeSFPWCvDVNKzRPOlC"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 191072,
-      "name": "House Of Mirrors",
-      "url": "https://open.spotify.com/track/3zFqzq75hxehVM6DkCSORU"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -1283,6 +1267,22 @@
       "duration_ms": 225618,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/4KE91Xg3FL51yMhnpSqRvE"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
+        "name": "House Of Mirrors",
+        "url": "https://open.spotify.com/album/075wMeSFPWCvDVNKzRPOlC"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 191072,
+      "name": "House Of Mirrors",
+      "url": "https://open.spotify.com/track/3zFqzq75hxehVM6DkCSORU"
     },
     {
       "added_at": "2023-03-24 00:00:00",

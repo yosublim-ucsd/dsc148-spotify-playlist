@@ -607,6 +607,24 @@
     },
     {
       "album": {
+        "name": "All The Things We Were",
+        "url": "https://open.spotify.com/album/0noiiJAIqjOk9Yp1wcS155"
+      },
+      "artists": [
+        {
+          "name": "Jenny Jones",
+          "url": "https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271234,
+      "name": "All The Things We Were",
+      "url": "https://open.spotify.com/track/6052pnXvRCf5U70YC0XLF6"
+    },
+    {
+      "album": {
         "name": "All the Time",
         "url": "https://open.spotify.com/album/1I0vmtYXaxsa5sBE2CJlTK"
       },
@@ -1152,6 +1170,24 @@
       "duration_ms": 229884,
       "name": "Blue in Green",
       "url": "https://open.spotify.com/track/36cspwQPiIL9ElURDU7bGX"
+    },
+    {
+      "album": {
+        "name": "Blue Midnight",
+        "url": "https://open.spotify.com/album/7MRGlwATlHi5bLlAE15AAp"
+      },
+      "artists": [
+        {
+          "name": "James Leeluck",
+          "url": "https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189134,
+      "name": "Blue Midnight",
+      "url": "https://open.spotify.com/track/77b7vqhEpGFSiCoeWnExeZ"
     },
     {
       "album": {
@@ -2507,6 +2543,24 @@
     },
     {
       "album": {
+        "name": "Every Time We Say Goodbye",
+        "url": "https://open.spotify.com/album/40tqbMBeLUEkJsVN6VKJB0"
+      },
+      "artists": [
+        {
+          "name": "Yorkville",
+          "url": "https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165940,
+      "name": "Every Time We Say Goodbye",
+      "url": "https://open.spotify.com/track/7FRzl3GfBSkTTVzkpjTjnU"
+    },
+    {
+      "album": {
         "name": "Everybody Knew",
         "url": "https://open.spotify.com/album/64IM7XMUoAS8owtJzMUxIB"
       },
@@ -2648,6 +2702,24 @@
       "duration_ms": 253337,
       "name": "Falling For Love",
       "url": "https://open.spotify.com/track/2qWNjbqDTXBGRdcmZDcUXg"
+    },
+    {
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/5CVFwTeaHhFg1d3fbJEruV"
+      },
+      "artists": [
+        {
+          "name": "Darlington",
+          "url": "https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264328,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/2ZHa8rERyPepL1OpQAtpMj"
     },
     {
       "album": {
@@ -3713,6 +3785,24 @@
     },
     {
       "album": {
+        "name": "I'm In The Mood For Love",
+        "url": "https://open.spotify.com/album/3O9IgokX9F0fFYpbjjkU4z"
+      },
+      "artists": [
+        {
+          "name": "Noodlin' Collective",
+          "url": "https://open.spotify.com/artist/1N9SBlfwJKrnGEZ3bqAazY"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225746,
+      "name": "I'm In The Mood For Love",
+      "url": "https://open.spotify.com/track/2MYMJ5KztaWTeWILbZ1QYt"
+    },
+    {
+      "album": {
         "name": "I'm in the Mood for Love",
         "url": "https://open.spotify.com/album/7ps9PviK3EPPUJbZ7hPrsi"
       },
@@ -3836,6 +3926,24 @@
       "duration_ms": 253213,
       "name": "I've Told Every Little Star",
       "url": "https://open.spotify.com/track/2bYWfgNXxt4CQCPWBicqPx"
+    },
+    {
+      "album": {
+        "name": "Icelandic time",
+        "url": "https://open.spotify.com/album/3RGokP0Ax8RaawZZQ3pmct"
+      },
+      "artists": [
+        {
+          "name": "Marc Henley Trio",
+          "url": "https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212311,
+      "name": "Icelandic time",
+      "url": "https://open.spotify.com/track/1oZkKgfZDvBYVlAyR1Yszq"
     },
     {
       "album": {
@@ -4426,7 +4534,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 167569,
       "name": "Jazzanooga",
       "url": "https://open.spotify.com/track/3itQmY3qDISKklo9IYsVsq"
@@ -5585,6 +5693,24 @@
     },
     {
       "album": {
+        "name": "Mellow Moments",
+        "url": "https://open.spotify.com/album/1ewVy7oBv5CLUM7htj4oFk"
+      },
+      "artists": [
+        {
+          "name": "Leeluck & Co",
+          "url": "https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188838,
+      "name": "Mellow Moments",
+      "url": "https://open.spotify.com/track/3YGVTfSxTCuDykWrENqmGp"
+    },
+    {
+      "album": {
         "name": "Memories Of Her Music",
         "url": "https://open.spotify.com/album/0ae4cJFhCtFf2ZSO4UMewV"
       },
@@ -5744,6 +5870,24 @@
       "duration_ms": 252786,
       "name": "Misty",
       "url": "https://open.spotify.com/track/78K54LEyjSttk9UTE8PR9r"
+    },
+    {
+      "album": {
+        "name": "Moe's Place",
+        "url": "https://open.spotify.com/album/58ElMy5SJ4ceVKzRVlM9wG"
+      },
+      "artists": [
+        {
+          "name": "Japari Park",
+          "url": "https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216689,
+      "name": "Moe's Place",
+      "url": "https://open.spotify.com/track/43uYaQM4oue0m8WYyFBp2M"
     },
     {
       "album": {
@@ -7126,7 +7270,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 283073,
       "name": "Reutlingen",
       "url": "https://open.spotify.com/track/3rUR7LDyz2ac174SuwJl1Z"
@@ -7508,7 +7652,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 226054,
       "name": "Skylark",
       "url": "https://open.spotify.com/track/1KfUK9UkRVJBw5zrrUEIKb"
@@ -7692,6 +7836,24 @@
       "duration_ms": 221360,
       "name": "Softly, Tenderly",
       "url": "https://open.spotify.com/track/5byMA13b3vZFCMVAgJNsCo"
+    },
+    {
+      "album": {
+        "name": "Soliloquy",
+        "url": "https://open.spotify.com/album/1VFMQG2BAGIE3xBp1ejr34"
+      },
+      "artists": [
+        {
+          "name": "Jennie Reigen",
+          "url": "https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143757,
+      "name": "Soliloquy",
+      "url": "https://open.spotify.com/track/0te1ho7v4bPASest2eI0q3"
     },
     {
       "album": {
@@ -7922,7 +8084,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 288877,
       "name": "Spring Is in the Air",
       "url": "https://open.spotify.com/track/0c6PEeFIX4PQ20yyjwW1SE"
@@ -8142,6 +8304,24 @@
       "duration_ms": 270625,
       "name": "Stuck In Time",
       "url": "https://open.spotify.com/track/47Wjs9Ju6TV4qo6IGv38hZ"
+    },
+    {
+      "album": {
+        "name": "Summer Romance",
+        "url": "https://open.spotify.com/album/5gDw4M9FAbrAjQcmH5TJc2"
+      },
+      "artists": [
+        {
+          "name": "Eternal Time Trio",
+          "url": "https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152469,
+      "name": "Summer Romance",
+      "url": "https://open.spotify.com/track/0UEEd9xywztg2kbt3zRlJt"
     },
     {
       "album": {
@@ -8905,6 +9085,24 @@
     },
     {
       "album": {
+        "name": "Through The Raindrops",
+        "url": "https://open.spotify.com/album/3GnhjFhG9GtAXUkxwxYGNG"
+      },
+      "artists": [
+        {
+          "name": "Evelyn Parker",
+          "url": "https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223839,
+      "name": "Through The Raindrops",
+      "url": "https://open.spotify.com/track/1w4KVyPxw91ce1Fut6e5DI"
+    },
+    {
+      "album": {
         "name": "Tidewater",
         "url": "https://open.spotify.com/album/3hX9C1BMAHerJlzLfhupta"
       },
@@ -9535,6 +9733,24 @@
     },
     {
       "album": {
+        "name": "Whereabouts",
+        "url": "https://open.spotify.com/album/741MymriPlO7PoJwbbjQ57"
+      },
+      "artists": [
+        {
+          "name": "Carlton Maison Quartet",
+          "url": "https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259803,
+      "name": "Whereabouts",
+      "url": "https://open.spotify.com/track/3Rdu91Lo2IV8DGtRxDGLUW"
+    },
+    {
+      "album": {
         "name": "The Interlochen Concert",
         "url": "https://open.spotify.com/album/7qIx5OUNdSBpc7PZY0Klux"
       },
@@ -9936,6 +10152,24 @@
       "duration_ms": 170526,
       "name": "Younger",
       "url": "https://open.spotify.com/track/2n1SYJBFAWhiDekZF0De0k"
+    },
+    {
+      "album": {
+        "name": "Your Shining Eyes",
+        "url": "https://open.spotify.com/album/4lsQ8Bj4OfJHhSjB0byELm"
+      },
+      "artists": [
+        {
+          "name": "Wildflower Trio",
+          "url": "https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186074,
+      "name": "Your Shining Eyes",
+      "url": "https://open.spotify.com/track/5Enjr7Vz1J8inrynMzgmc6"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2vYju3i0lNX"

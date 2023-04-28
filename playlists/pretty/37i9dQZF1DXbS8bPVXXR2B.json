@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 201348,
+  "num_followers": 201491,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMDg5NDA4MzNkZDUxNThlOTllM2JmMjdkNDMzZjA5ZWU0",
+  "snapshot_id": "MCwxN2IwNmMwZjNmMjRjZWZkYTliN2FhMTJhOGZjMTFlYzJiYjQ2Yjhl",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Goody Goody",
-        "url": "https://open.spotify.com/album/0X6uATczHL4Bz1y1lruCVC"
-      },
-      "artists": [
-        {
-          "name": "Goody Goody",
-          "url": "https://open.spotify.com/artist/6eFek3d0IKoYQvVCqpS5z3"
-        }
-      ],
-      "duration_ms": 383093,
-      "name": "It Looks Like Love",
-      "url": "https://open.spotify.com/track/2mCLc4lZjbpcpXgNBrC5lY"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Modern Heat EP",
         "url": "https://open.spotify.com/album/6VScSyrcTNlmzshPBFBwV0"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 280417,
       "name": "Crushed Ice",
       "url": "https://open.spotify.com/track/1ozRjt9gyqdzD8XllWUAZA"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Goody Goody",
+        "url": "https://open.spotify.com/album/0X6uATczHL4Bz1y1lruCVC"
+      },
+      "artists": [
+        {
+          "name": "Goody Goody",
+          "url": "https://open.spotify.com/artist/6eFek3d0IKoYQvVCqpS5z3"
+        }
+      ],
+      "duration_ms": 383093,
+      "name": "It Looks Like Love",
+      "url": "https://open.spotify.com/track/2mCLc4lZjbpcpXgNBrC5lY"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Chance",
-        "url": "https://open.spotify.com/album/4RtrnkVrwWjMAvvYZ24PWB"
-      },
-      "artists": [
-        {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
-        }
-      ],
-      "duration_ms": 406533,
-      "name": "When You Wake up Tomorrow",
-      "url": "https://open.spotify.com/track/4b7CZF01PSfOYVPGY3adiY"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Agb'oju L'ogun",
         "url": "https://open.spotify.com/album/72S9ok10nlp6jIxzDNC5Rk"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 702167,
       "name": "Agb'oju L'ogun - Original 12\" Version",
       "url": "https://open.spotify.com/track/0pmcA4lJnEjkqIFrotudmV"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/4RtrnkVrwWjMAvvYZ24PWB"
+      },
+      "artists": [
+        {
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+        }
+      ],
+      "duration_ms": 406533,
+      "name": "When You Wake up Tomorrow",
+      "url": "https://open.spotify.com/track/4b7CZF01PSfOYVPGY3adiY"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1527,6 +1527,26 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Do It Do It Disco",
+        "url": "https://open.spotify.com/album/5Auymg5cz9Dv9gURiVaU0Q"
+      },
+      "artists": [
+        {
+          "name": "Myron & E",
+          "url": "https://open.spotify.com/artist/6c6ke5hTJ7g6g0CWZb5Maj"
+        },
+        {
+          "name": "Tom Noble",
+          "url": "https://open.spotify.com/artist/2ImZW6kUWVOAKvK4f7CElF"
+        }
+      ],
+      "duration_ms": 350164,
+      "name": "Do It Do It Disco (Tom Noble Remix)",
+      "url": "https://open.spotify.com/track/67XDCDC0hwYS1jNt01oyZt"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Family",
         "url": "https://open.spotify.com/album/0scV3mO4LgQWYCmetJ5DZW"
       },
@@ -1555,26 +1575,6 @@
       "duration_ms": 357760,
       "name": "On the Beat - Full Length Mix",
       "url": "https://open.spotify.com/track/5tdMJa2vdkSoONkzlZVD0o"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Do It Do It Disco",
-        "url": "https://open.spotify.com/album/5Auymg5cz9Dv9gURiVaU0Q"
-      },
-      "artists": [
-        {
-          "name": "Myron & E",
-          "url": "https://open.spotify.com/artist/6c6ke5hTJ7g6g0CWZb5Maj"
-        },
-        {
-          "name": "Tom Noble",
-          "url": "https://open.spotify.com/artist/2ImZW6kUWVOAKvK4f7CElF"
-        }
-      ],
-      "duration_ms": 350164,
-      "name": "Do It Do It Disco (Tom Noble Remix)",
-      "url": "https://open.spotify.com/track/67XDCDC0hwYS1jNt01oyZt"
     },
     {
       "added_at": "2022-09-05 16:54:43",

@@ -4,7 +4,7 @@
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-80 songs - 4 hr 21 min
+82 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Backstage](https://open.spotify.com/track/5fkhwXNw3xWy7IrGDhBDB6) | [Daniel Monza](https://open.spotify.com/artist/4cM9QbsCEUCRRm7RocSczP) | [Backstage](https://open.spotify.com/album/6FIJRZtL0Sca4b93q4RJXv) | 2:27 | 2022-10-13 |  |
 | [Bali](https://open.spotify.com/track/0gIQviarG5RlZbvCxfpHKL) | [Isato Nakagawa](https://open.spotify.com/artist/7H7kbnGiqnG8GYDtDALthl) | [Tree Circle](https://open.spotify.com/album/6scj26E3tVRTzcBkkx5qRB) | 5:48 | 2022-10-13 |  |
 | [Blame It On My Youth](https://open.spotify.com/track/3L0bUhCLyWQif6u3oRtUjo) | [Billie Arnold](https://open.spotify.com/artist/3r47s3wKylwAGlM9XYoI4v) | [Blame It On My Youth](https://open.spotify.com/album/7qe6VBTIkgGfnluSwEV4jz) | 2:38 | 2022-11-24 |  |
+| [Blue Room](https://open.spotify.com/track/36y5KE7Ff8icJAalE6a1Xk) | [Jay Peters](https://open.spotify.com/artist/4TSsVmOkMQ992fO3eHBdBd) | [Blue Room](https://open.spotify.com/album/0ELTva9e0eumaGZyiZwWyD) | 2:34 | 2023-04-27 |  |
 | [Both Sides Now](https://open.spotify.com/track/7Meqm9jgQXhh08vdnbrvfY) | [Pat Martino](https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz) | [Cream](https://open.spotify.com/album/6R8qLTLbNFxzfBoavYUCXy) | 2:18 | 2022-10-13 |  |
 | [But Not For Me](https://open.spotify.com/track/4cpnWeyzfOASkuCQrGtCWs) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Kenny Burrell](https://open.spotify.com/album/7fojK26IFekgUBnmPD0s7l) | 3:50 | 2022-10-13 | 2022-11-25 |
 | [By Then](https://open.spotify.com/track/4UoKhh4KjZfFhbNh1EuyKv) | [Joe T\. Harris](https://open.spotify.com/artist/4iE2uZjQBe6KKF49DtFcD3) | [By Then](https://open.spotify.com/album/4um3mquSODjjiVy2KESC86) | 2:37 | 2022-10-13 |  |
@@ -59,6 +60,7 @@
 | [My Favorite Things](https://open.spotify.com/track/1lPh8cvsT4TaRZxtJ7Mcfb) | [Kevin Richard](https://open.spotify.com/artist/0rH3yL76S15p46AsE3jQL8) | [My Favorite Things](https://open.spotify.com/album/7ezSR5lXvnK7H6na0exbbt) | 3:26 | 2022-12-01 |  |
 | [My Foolish Heart](https://open.spotify.com/track/3zsM3SaQiMxd3IEUeQ1L5n) | [Ralph Towner](https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535) | [My Foolish Heart](https://open.spotify.com/album/1E2MNk4Xg8YA7EBlYsuTQQ) | 3:51 | 2022-10-13 |  |
 | [My One and Only Love](https://open.spotify.com/track/2WoILWgDmo0bFmGF9zRiqz) | [Ben Monder](https://open.spotify.com/artist/2CH9bD5RtnDcm9O23JByN7) | [Day After Day](https://open.spotify.com/album/4CdfhCXT7I0uvRMssXrKd4) | 3:53 | 2022-10-13 |  |
+| [My Romance](https://open.spotify.com/track/1Y2z2AZ25yiHNUK523QNBW) | [Höper & Lundgren](https://open.spotify.com/artist/5zdwXdtL9IXBWVVthJvHjE) | [My Romance](https://open.spotify.com/album/6sY5uxe66omAQihy4VTHYi) | 3:48 | 2023-04-27 |  |
 | [Night And Day](https://open.spotify.com/track/39ZjNUQtrNnAFImdzxfwNa) | [Samio](https://open.spotify.com/artist/0kYSqcF80y3iL7leXg9Gt7) | [Candlelight](https://open.spotify.com/album/3tsZCGdzSDK4ertVgrndhh) | 2:56 | 2022-10-27 |  |
 | [On Green Dolphin Street](https://open.spotify.com/track/4ej1jTPGqVOUtpIUcI5eK3) | [Wesley Greene](https://open.spotify.com/artist/75OVR4slFIxd9YM4XPsxFF) | [On Green Dolphin Street](https://open.spotify.com/album/5QH5ucUt4QE6bws2AHNEg5) | 1:51 | 2023-01-26 |  |
 | [On Satie](https://open.spotify.com/track/4FLaCrEr1DnVyprizWg3XF) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [In No Particular Order](https://open.spotify.com/album/6Il6mppb7MylqEi5S3S3mK) | 3:48 | 2022-10-13 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 55471,
+  "num_followers": 55533,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMDc0OTVjY2Y3YTFhMzZlMWExNGIzYzcyNjc1MTBmZTU4",
+  "snapshot_id": "MCw0YjUxN2M5ODNmZjVmNjEyODBhMmI3YTJlNGE3OWNlODM1YzFlMTc5",
   "tracks": [
     {
       "added_at": "2022-07-15 17:34:15",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "The Haunted House of House",
-        "url": "https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n"
-      },
-      "artists": [
-        {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
-        }
-      ],
-      "duration_ms": 346640,
-      "name": "Cow Palace",
-      "url": "https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Moons",
         "url": "https://open.spotify.com/album/3tIgTO7IeJfRd4rUDyxAUb"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 217411,
       "name": "Moons",
       "url": "https://open.spotify.com/track/4t4uk0wS8mvGwuAsGW9TB8"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "The Haunted House of House",
+        "url": "https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 346640,
+      "name": "Cow Palace",
+      "url": "https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -943,6 +943,26 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Dance Machine",
+        "url": "https://open.spotify.com/album/5F2iDQN8FGSAT8Qis3uVjn"
+      },
+      "artists": [
+        {
+          "name": "Stereoclip",
+          "url": "https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL"
+        },
+        {
+          "name": "Jim Henderson",
+          "url": "https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG"
+        }
+      ],
+      "duration_ms": 340100,
+      "name": "Dance Machine - Original Mix",
+      "url": "https://open.spotify.com/track/15Xi6tukR3x3rl6XcY8Pb7"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "After & Before EP",
         "url": "https://open.spotify.com/album/1p14a0p8X9STKt6yYncrAf"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 331486,
       "name": "Miracle Of The Rose",
       "url": "https://open.spotify.com/track/3Tw7T1en0fIwM5RzKPVvCi"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Dance Machine",
-        "url": "https://open.spotify.com/album/5F2iDQN8FGSAT8Qis3uVjn"
-      },
-      "artists": [
-        {
-          "name": "Stereoclip",
-          "url": "https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL"
-        },
-        {
-          "name": "Jim Henderson",
-          "url": "https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG"
-        }
-      ],
-      "duration_ms": 340100,
-      "name": "Dance Machine - Original Mix",
-      "url": "https://open.spotify.com/track/15Xi6tukR3x3rl6XcY8Pb7"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Aerial",
-        "url": "https://open.spotify.com/album/3uV2tuCayo5bl19yAPav89"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9pe",
-          "url": "https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ"
-        }
-      ],
-      "duration_ms": 369714,
-      "name": "As Long as There's Sunset",
-      "url": "https://open.spotify.com/track/5eQ2YObncpEg7yizNJFQsW"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Sky Float Sun",
         "url": "https://open.spotify.com/album/2xR9QSV1W0k66tMeJXryVb"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 331203,
       "name": "Bonder",
       "url": "https://open.spotify.com/track/6ZON96MRRR798zmyuZHxQR"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Aerial",
+        "url": "https://open.spotify.com/album/3uV2tuCayo5bl19yAPav89"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9pe",
+          "url": "https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ"
+        }
+      ],
+      "duration_ms": 369714,
+      "name": "As Long as There's Sunset",
+      "url": "https://open.spotify.com/track/5eQ2YObncpEg7yizNJFQsW"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "LO-FI IS THE UNWANTED BASTARD CHILD OF JAZZ",
-        "url": "https://open.spotify.com/album/5CPLb3j8NMxwplclu4xMEc"
-      },
-      "artists": [
-        {
-          "name": "Da Vosk Docta",
-          "url": "https://open.spotify.com/artist/0eVFGwSvttHQvGrdcKXbW2"
-        }
-      ],
-      "duration_ms": 308576,
-      "name": "VIEW FROM MY BALCONY AT NIGHT",
-      "url": "https://open.spotify.com/track/5wOcV21lFPwIL8XbpWy6WF"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Endless Sacrifice",
         "url": "https://open.spotify.com/album/6q9loyCvFDdPgUER8JcX5J"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 437653,
       "name": "Heading North",
       "url": "https://open.spotify.com/track/2gbQR2XJlZy461hu9FOrZL"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "LO-FI IS THE UNWANTED BASTARD CHILD OF JAZZ",
+        "url": "https://open.spotify.com/album/5CPLb3j8NMxwplclu4xMEc"
+      },
+      "artists": [
+        {
+          "name": "Da Vosk Docta",
+          "url": "https://open.spotify.com/artist/0eVFGwSvttHQvGrdcKXbW2"
+        }
+      ],
+      "duration_ms": 308576,
+      "name": "VIEW FROM MY BALCONY AT NIGHT",
+      "url": "https://open.spotify.com/track/5wOcV21lFPwIL8XbpWy6WF"
     },
     {
       "added_at": "2022-07-15 17:34:15",

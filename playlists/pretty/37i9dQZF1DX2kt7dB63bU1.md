@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,576 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,677 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 26 | [These Are the Memories](https://open.spotify.com/track/6cBAQr4SjyDLDfkUa1oprE) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [These Are the Memories](https://open.spotify.com/album/4wmAugLcz7Whavrrr1t1Kb) | 4:33 |
 | 27 | [Burn](https://open.spotify.com/track/73uQl32t4hNWnWWfpRQ1uj) | [Nicole Zuraitis](https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Gilad Hekselman](https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL), [Billy Kilson](https://open.spotify.com/artist/2CpN6s71YoYw3UDLKCFKRH) | [Burn](https://open.spotify.com/album/7CnkndNymkN758nv4t7HQf) | 3:46 |
 | 28 | [Did Somebody Make a Fool Out of You](https://open.spotify.com/track/3y5Z7sB8kKEuBI06G2fZcb) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Did Somebody Make a Fool Out of You](https://open.spotify.com/album/5VvEOtmiR7TFEWp62vjPOs) | 4:51 |
-| 29 | [Twister \(Acoustic\)](https://open.spotify.com/track/6E4yLR75jMge94Ui8GitNw) | [Carsie Blanton](https://open.spotify.com/artist/1NkiZTHV6voDpcA7eEQQMb) | [Twister](https://open.spotify.com/album/7dg1n6KM9szEcWALdq8Qpa) | 2:42 |
+| 29 | [Twister \(Acoustic\)](https://open.spotify.com/track/1t2PpPL5LDIcyRQUmtZlte) | [Carsie Blanton](https://open.spotify.com/artist/1NkiZTHV6voDpcA7eEQQMb) | [Body of Work](https://open.spotify.com/album/4wAYsm2I46h2o2X1UEQp06) | 2:42 |
 | 30 | [I Will Wait for You](https://open.spotify.com/track/152loRQOTUDsdMTQ7R7M4v) | [Matt Forbes](https://open.spotify.com/artist/04NOFvtSv6ElxAgVdXsjdt) | [I Will Wait for You](https://open.spotify.com/album/6jnkamK8KNpSP94LLKDjxv) | 3:47 |
 | 31 | [Sunrise](https://open.spotify.com/track/60EiB2sz5mqvRiDvDb0ucZ) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Sunrise](https://open.spotify.com/album/3xbjnXESasgtICbl418mje) | 3:40 |
 | 32 | [Don't Fence Me In / Strollin'](https://open.spotify.com/track/19OTt5vFfApZoRLmMjtgyk) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Plays Well With Others](https://open.spotify.com/album/1glJqGy1jDHQp6KjmV42Tv) | 3:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [That's All](https://open.spotify.com/track/3itB2xTfBKKuYFMXCNPRuq) | [Lauren Coleman](https://open.spotify.com/artist/5JOlU2tPubDKg4i4W5ixek) | [That's All](https://open.spotify.com/album/2ytd2pxd1DDjiDNbqqJPaY) | 2:13 |
 | 100 | [The Trouble With Hello Is Goodbye](https://open.spotify.com/track/4iLS8yqoN0XJ7R5B0h9BOU) | [Diana Panton](https://open.spotify.com/artist/7iHXhGerkdpvUAIb67GCSj) | [The Trouble With Hello Is Goodbye](https://open.spotify.com/album/6OVXyjmOHzt8Q6WcKqB9Ru) | 4:33 |
 
-Snapshot ID: `MTY4MjA0OTY2MCwwMDAwMDAwMDIxZGY2NzA4NGY3Mjk1NDczMWE2NTA0OWFlODgyZDc0`
+Snapshot ID: `MCxjNTY3NGE5YTY0YzM5NDY2ZmI1NGNmMjllOWRhMGM5YmZkOTBiM2U5`

@@ -1,12 +1,12 @@
 {
   "description": "Las canciones alternativas que definieron el 2022 en Hispanoam\u00e9rica. Marilina Bertoldi y Javiera Mena en portada.",
-  "num_followers": 1910,
+  "num_followers": 1922,
   "original_name": "Lo mejor del Indie y Rock 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgyMDYzMiwwMDAwMDAwMDE5MGNmZWYzMTViYTg4ZmNmNGE1OTUzN2RhZjA5OTlm",
+  "snapshot_id": "MCxhODQ4ZDIyNzEzNjgyZjgwYzQ1Y2EzMDE1Y2FkYjcwN2U4M2Q5OTRh",
   "tracks": [
     {
       "added_at": "2022-11-30 14:18:55",
@@ -623,6 +623,22 @@
     {
       "added_at": "2022-11-30 14:18:55",
       "album": {
+        "name": "Me Olvido / Te Sigo",
+        "url": "https://open.spotify.com/album/6qDykJWNBv8mXubUrWgAwP"
+      },
+      "artists": [
+        {
+          "name": "Da Pawn",
+          "url": "https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy"
+        }
+      ],
+      "duration_ms": 218684,
+      "name": "Me Olvido / Te Sigo",
+      "url": "https://open.spotify.com/track/3QRQMXFPLmtq2KzSREjnZs"
+    },
+    {
+      "added_at": "2022-11-30 14:18:55",
+      "album": {
         "name": "Ghost In The Machine",
         "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 172386,
       "name": "Aqu\u00ed",
       "url": "https://open.spotify.com/track/6MBestQzTJ5XPvDM1afJid"
-    },
-    {
-      "added_at": "2022-11-30 14:18:55",
-      "album": {
-        "name": "Me Olvido / Te Sigo",
-        "url": "https://open.spotify.com/album/6qDykJWNBv8mXubUrWgAwP"
-      },
-      "artists": [
-        {
-          "name": "Da Pawn",
-          "url": "https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy"
-        }
-      ],
-      "duration_ms": 218684,
-      "name": "Me Olvido / Te Sigo",
-      "url": "https://open.spotify.com/track/3QRQMXFPLmtq2KzSREjnZs"
     },
     {
       "added_at": "2022-11-30 14:18:55",
@@ -735,6 +735,22 @@
     {
       "added_at": "2022-11-30 14:18:55",
       "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp"
+      },
+      "artists": [
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        }
+      ],
+      "duration_ms": 386604,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR"
+    },
+    {
+      "added_at": "2022-11-30 14:18:55",
+      "album": {
         "name": "Quemonito",
         "url": "https://open.spotify.com/album/1YglhALq6PbY7GjqO1rKVb"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 220463,
       "name": "Quemonito",
       "url": "https://open.spotify.com/track/7BpJ0z0MG7aAOeQfudwFpJ"
-    },
-    {
-      "added_at": "2022-11-30 14:18:55",
-      "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp"
-      },
-      "artists": [
-        {
-          "name": "Petite Amie",
-          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
-        }
-      ],
-      "duration_ms": 386604,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR"
     },
     {
       "added_at": "2022-11-30 14:18:55",

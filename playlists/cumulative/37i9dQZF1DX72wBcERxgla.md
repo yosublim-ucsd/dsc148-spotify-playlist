@@ -4,7 +4,7 @@
 
 > Jazz piano to accompany your reading.
 
-295 songs - 16 hr 26 min
+299 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Conversation](https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Conversation](https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs) | 2:45 | 2022-05-10 |  |
 | [Cry Me A River](https://open.spotify.com/track/67iXiDkmgd5cy2Tfcowx1G) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Past Closing Time](https://open.spotify.com/album/1E9xMRwRNCkkIW1sCTZm9z) | 3:28 | 2022-04-12 | 2022-08-31 |
 | [Darn That Dream](https://open.spotify.com/track/7wyqQSiefHCrYQ3xqAqfwJ) | [Ray Royston](https://open.spotify.com/artist/4Z8ZqLJlYjb7gGt3eFWfFG) | [Darn That Dream](https://open.spotify.com/album/1Hs8Ia3HjN1JzaXNEwJ6Y3) | 3:52 | 2022-04-12 |  |
+| [Day By Day](https://open.spotify.com/track/21rmrbV8sWD6G0DBErDASD) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [Day By Day](https://open.spotify.com/album/2TLjiBB9ln1kQpKIzGapDN) | 3:11 | 2023-04-27 |  |
 | [Days of Wine and Roses](https://open.spotify.com/track/0bCwxcB99DGOg6OK9if6c9) | [Penford Giles](https://open.spotify.com/artist/1dIU42U3gWRcyOT7cdNiv6) | [Days of Wine and Roses](https://open.spotify.com/album/1mDaXUoWzlSxRkn8Griz53) | 3:03 | 2022-04-12 |  |
 | [Dear Old Stockholm](https://open.spotify.com/track/33aKJ1s1QC94WW868ygr3p) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [Dear Old Stockholm](https://open.spotify.com/album/0OsqjFlBduMGeyZuh34U8b) | 2:40 | 2022-08-30 |  |
 | [Dedicated To You](https://open.spotify.com/track/47k5XrHgnwF7yMRUALGOyt) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Dedicated To You](https://open.spotify.com/album/1d7Uj2w97J6ctIoXXAWxnP) | 4:45 | 2022-04-12 |  |
@@ -131,6 +132,7 @@
 | [In a Sentimental Mood](https://open.spotify.com/track/3RywZyEe6AlQVmxiuk5JEO) | [Rita Yamada](https://open.spotify.com/artist/3oPRInLwox3AP0xJMVEA0q) | [In a Sentimental Mood](https://open.spotify.com/album/6uY72RPIwKjz2B2uHimS3s) | 3:36 | 2022-06-28 | 2023-04-21 |
 | [In Another Day](https://open.spotify.com/track/21uYfxqePi9cX2aHvsEGAI) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [In Another Day](https://open.spotify.com/album/326l5lpeuTwSNNyZ9GpbHc) | 3:14 | 2022-04-12 |  |
 | [In the mood for love](https://open.spotify.com/track/0po8JmQiM1hzuSjtMmovFn) | [Clifford Randall](https://open.spotify.com/artist/0IgcC8a3zHkwen1UvM0DkG) | [In the mood for love](https://open.spotify.com/album/3ZmiSq83xdoXVbbWRrrLaZ) | 2:41 | 2023-04-20 |  |
+| [In the Still of the Night](https://open.spotify.com/track/5pIMrMuwl2lJEG76fOF8s3) | [Seth Bluebird](https://open.spotify.com/artist/1DyC6srMJye16IeKdJYplZ) | [In the Still of the Night](https://open.spotify.com/album/4n4at7yvCzw3knrToEAd9S) | 2:19 | 2023-04-27 |  |
 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/0LHbXXO5FxsW1qGBSqDkKz) | [Fred Mitchell](https://open.spotify.com/artist/45BQSJA9RDavfJ8WSqWMrB) | [In the Wee Small Hours of the Morning](https://open.spotify.com/album/5UNOBKRWE1tZtm9fwkeMXL) | 4:13 | 2022-08-10 | 2023-04-14 |
 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/3D9ZRDk1Z4XjAYp3BI4Chr) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [In The Wee Small Hours Of The Morning](https://open.spotify.com/album/3F4oK6pX76BDYYT3ujho8m) | 3:54 | 2022-04-12 |  |
 | [Infant Eyes](https://open.spotify.com/track/5DxtTMAODwWNThoTt33YgQ) | [Maxence Capoue](https://open.spotify.com/artist/67haUq5f5DHveaHN9u4vmy) | [Infant Eyes](https://open.spotify.com/album/7FMCO2zoEfzaHzpXoP8YZc) | 3:40 | 2023-04-13 |  |
@@ -217,6 +219,7 @@
 | [Skating in Central Park](https://open.spotify.com/track/5DL2qEB0QeLlMNFjcYfcDm) | [Sean Eastman](https://open.spotify.com/artist/4SMptkAtq8f31ziDjPuint) | [Skating in Central Park](https://open.spotify.com/album/3dgfesW8kzGn0ePWdsZlMo) | 2:58 | 2023-01-05 |  |
 | [Skylark](https://open.spotify.com/track/5XzlyI2iS6Km2SNsEQ4O91) | [Edward France](https://open.spotify.com/artist/6rPvE9uUU2fm3TaL12b8Hp) | [Skylark](https://open.spotify.com/album/6DEaWap07T8LIFfnHVSVIr) | 3:29 | 2022-04-12 |  |
 | [Sleepless Hours](https://open.spotify.com/track/1QheW87tmDiL4BlbvUi9Bd) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [Sleepless Hours](https://open.spotify.com/album/0sK73sllM24YWUUWCAr2uL) | 2:41 | 2023-03-23 |  |
+| [Slowing Down](https://open.spotify.com/track/1aItJE8RukUc0lnMdj45FJ) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [Slowing Down](https://open.spotify.com/album/4DOFbLvmNKJhD0mcEv0hUt) | 3:28 | 2023-04-27 |  |
 | [Smile](https://open.spotify.com/track/5UbnuRgMvmJXNfVQwtnMeJ) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [Smile](https://open.spotify.com/album/264uDpoSYiQWeHXvwQcAa0) | 3:50 | 2022-04-12 |  |
 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/6LJWQLh4DaQqiYrimdO5Ep) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [Smoke Gets In Your Eyes](https://open.spotify.com/album/4ZY1K4JlzmoxdCJF6M18O5) | 4:40 | 2022-04-12 |  |
 | [Some kind of friend](https://open.spotify.com/track/2UQ6oJL6UV5CeoO4VejBYl) | [Marilyn Morris](https://open.spotify.com/artist/46iL28eIvIrr2mhp956mEx) | [Some kind of friend](https://open.spotify.com/album/0E1hU35PyKJn70EiD0pCgo) | 3:07 | 2023-04-20 |  |
@@ -257,9 +260,9 @@
 | [The Snows Of Yesteryear](https://open.spotify.com/track/0LFIfcnLZ6WssHKueAMamD) | [Mannie Goldings](https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY) | [The Snows Of Yesteryear](https://open.spotify.com/album/02TPXPa9gHSSeKmDFAAjFu) | 3:03 | 2022-11-24 |  |
 | [The Stars Are Bright](https://open.spotify.com/track/1h6f4tjOYIGKZ3dVs1DBcs) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [The Stars Are Bright](https://open.spotify.com/album/141eACqjInBXxRwguRT1bS) | 4:01 | 2022-04-12 | 2022-08-11 |
 | [The Summer Rain](https://open.spotify.com/track/0fqd2ptOum8EPm581Mfc3g) | [Green Trio](https://open.spotify.com/artist/6byy6cSUHfjBs0vgjgC5St) | [Woodland](https://open.spotify.com/album/3tm3nZ5qKZvrlvyXdzWJCG) | 3:01 | 2022-04-12 | 2022-05-18 |
-| [The Way You Look Tonight](https://open.spotify.com/track/3j2pCB15qVRN5O78T2kTmV) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [The Way You Look Tonight](https://open.spotify.com/album/4ICm9ovrQ3ytWtCDq6oU8L) | 3:46 | 2022-04-12 |  |
+| [The Way You Look Tonight](https://open.spotify.com/track/3j2pCB15qVRN5O78T2kTmV) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [The Way You Look Tonight](https://open.spotify.com/album/4ICm9ovrQ3ytWtCDq6oU8L) | 3:46 | 2022-04-12 | 2023-04-28 |
 | [There Is No Greater Love](https://open.spotify.com/track/6r9dGlLthkSRTatH3WRkcZ) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [There Is No Greater Love](https://open.spotify.com/album/2lz4pmX60KMhW4WLwrDsDD) | 2:34 | 2023-04-13 |  |
-| [There Will Never Be Another You](https://open.spotify.com/track/5mJK27i7xPE9Whf5WdXGOx) | [Gerald McCarthy](https://open.spotify.com/artist/3cw2WUJF88MB3xRS3VHU9a) | [There Will Never Be Another You](https://open.spotify.com/album/3qF2MbH2rh7QCMheIJXWk0) | 3:00 | 2022-04-12 |  |
+| [There Will Never Be Another You](https://open.spotify.com/track/5mJK27i7xPE9Whf5WdXGOx) | [Gerald McCarthy](https://open.spotify.com/artist/3cw2WUJF88MB3xRS3VHU9a) | [There Will Never Be Another You](https://open.spotify.com/album/3qF2MbH2rh7QCMheIJXWk0) | 3:00 | 2022-04-12 | 2023-04-28 |
 | [There´s no you](https://open.spotify.com/track/1CwW9u0HgDPMT0h6E5HN72) | [Elton Willis](https://open.spotify.com/artist/5I7l6XScYYCML9N2WETKE1) | [There´s no you](https://open.spotify.com/album/1apFtaoZpliaFiEswZgZrb) | 4:41 | 2022-04-12 |  |
 | [These Foolish Things](https://open.spotify.com/track/0CXDipwJc206zISTQqO5y6) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [These Foolish Things](https://open.spotify.com/album/2bePbAVM2pnJoZKimuHZzw) | 4:57 | 2022-04-12 |  |
 | [They Say It's Wonderful](https://open.spotify.com/track/70XPtCtNGP1SoHfAq0Wjdv) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [They Say It's Wonderful](https://open.spotify.com/album/6O9j528nmzyeA2Y6pOX198) | 3:19 | 2022-04-12 |  |
@@ -280,6 +283,7 @@
 | [Wake Up In Spring](https://open.spotify.com/track/3kL5yKlAPOzcF1fS7qYyhq) | [Bill Swindon](https://open.spotify.com/artist/7C4qb62TIDk7IbyMORyqTs) | [Wake Up In Spring](https://open.spotify.com/album/4cmHB9tOt4uybZdEVuDpIS) | 2:33 | 2023-02-02 |  |
 | [Was it taking chances?](https://open.spotify.com/track/6orNFoBKLIP4Tw1zVLPM8x) | [Penford Giles](https://open.spotify.com/artist/1dIU42U3gWRcyOT7cdNiv6) | [Was it taking chances?](https://open.spotify.com/album/4kUjrCJsN4A5PfBsOsNYaR) | 2:23 | 2023-03-23 |  |
 | [We'll Be Together Again](https://open.spotify.com/track/1EytEbVphNIhEAjLmT9E1s) | [Jim Jensen](https://open.spotify.com/artist/1mzZZuAmYl9ZyBmrI0beiJ) | [We'll Be Together Again](https://open.spotify.com/album/0IN80bYRFbtbAhvLZdawDU) | 4:22 | 2022-10-06 |  |
+| [We've Never Been Here](https://open.spotify.com/track/4ymZ6dNuL9uXOPKztxaGti) | [Tyler Marshall](https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k) | [We've Never Been Here](https://open.spotify.com/album/5m8PIlJl2gw8F5iCCX8HUM) | 3:13 | 2023-04-27 |  |
 | [What a Difference a Day Makes](https://open.spotify.com/track/7q6N6Z5RCtFdFjZFzxQORo) | [Joel Goldberg](https://open.spotify.com/artist/16EJw0CNON2hdNWFcg2AMJ) | [What a Difference a Day Makes](https://open.spotify.com/album/1Ab7w12BMWh5QutkkLAxz2) | 2:07 | 2022-08-10 |  |
 | [What A Wonderful World](https://open.spotify.com/track/5QbNsaI7NnYa5OzOdkmpWm) | [Benjamin Thorpe](https://open.spotify.com/artist/17kwSCj2gRfzyMYDXjCUbr) | [What A Wonderful World](https://open.spotify.com/album/5quM0S9KSStVWz27lzY2if) | 2:49 | 2022-08-30 | 2022-10-14 |
 | [What Are You Doing For The Rest Of Your Life](https://open.spotify.com/track/61pLCvDlCUFAIb7tNvV2Rb) | [Oliver Black](https://open.spotify.com/artist/65XIBHuMetyeCnP9YwZCS1) | [What Are You Doing For The Rest Of Your Life](https://open.spotify.com/album/78MpDn9r2KLpTNN8Lv8xBY) | 6:02 | 2022-04-12 |  |

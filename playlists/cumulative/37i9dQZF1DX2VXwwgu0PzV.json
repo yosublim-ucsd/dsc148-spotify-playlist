@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "Music for when you've got your Jesus on and your swag up . \nCover: TBabz",
+  "description": "Music for when you've got your Jesus on and your swag up . \nCover: Peterson Okopi",
   "name": "Youth Service",
   "tracks": [
     {
@@ -280,7 +280,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 170883,
       "name": "CAN\u2019T EXPLAIN",
       "url": "https://open.spotify.com/track/53fPdKhyo7IVl0jKBTyqfb"
@@ -570,7 +570,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 186923,
       "name": "Everyday - Remix",
       "url": "https://open.spotify.com/track/6Il9TYkECqj2mXLNtffu4F"
@@ -592,7 +592,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 154133,
       "name": "Everything",
       "url": "https://open.spotify.com/track/2S8XO4A2B9gxhst1WuccIT"
@@ -1138,7 +1138,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 206117,
       "name": "Holy Ghost (I Want To Know Your Joy)",
       "url": "https://open.spotify.com/track/7q66QnCbmj4qaXtWtLmV9R"
@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 507500,
       "name": "Hosanna",
       "url": "https://open.spotify.com/track/5nqCrhp1eWeIL9w8Kz9H88"
@@ -1234,6 +1234,28 @@
       "duration_ms": 210124,
       "name": "I Get",
       "url": "https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI"
+    },
+    {
+      "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/6HtyFbcZM4kNGxRKdiXstv"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135968,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/7EAjENjTiYE5xhv6x7kXEe"
     },
     {
       "album": {
@@ -1490,7 +1512,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 134091,
       "name": "JOY",
       "url": "https://open.spotify.com/track/2uEr4hQ9rgJyZ8wJjN0Jpn"
@@ -1608,6 +1630,28 @@
       "duration_ms": 210240,
       "name": "Light",
       "url": "https://open.spotify.com/track/3qhey3FEUDA5tXp1shihSo"
+    },
+    {
+      "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/0ufp6MZZlla5wRTEUDPr62"
+      },
+      "artists": [
+        {
+          "name": "Photizo",
+          "url": "https://open.spotify.com/artist/37SQpQ58OXMe2bsqkan9dV"
+        },
+        {
+          "name": "King Brandon",
+          "url": "https://open.spotify.com/artist/4GZmxR5Z6mczjLohJZSgLV"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216812,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/4J8ZH9mcTuYrlPMJPSTEhx"
     },
     {
       "album": {
@@ -1798,6 +1842,24 @@
       "duration_ms": 127988,
       "name": "Morning Devotion",
       "url": "https://open.spotify.com/track/5AZ8G1XQM0I20LS61y44Qs"
+    },
+    {
+      "album": {
+        "name": "My Altar (Cover)",
+        "url": "https://open.spotify.com/album/36hBmlMUEHL26OVG9JSJ9P"
+      },
+      "artists": [
+        {
+          "name": "David Dam",
+          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417572,
+      "name": "My Altar (Cover)",
+      "url": "https://open.spotify.com/track/4jTaIxtdPrwJTY5DVKkKI8"
     },
     {
       "album": {
@@ -2123,6 +2185,28 @@
     },
     {
       "album": {
+        "name": "On Your Mind",
+        "url": "https://open.spotify.com/album/4F5o1FzgVFzkld1x0960E8"
+      },
+      "artists": [
+        {
+          "name": "Wiffi Drips",
+          "url": "https://open.spotify.com/artist/0t33ew007YWe1ufwvV1yX7"
+        },
+        {
+          "name": "Nuelzo",
+          "url": "https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207908,
+      "name": "On Your Mind",
+      "url": "https://open.spotify.com/track/04KUwRIhF44larsGftafww"
+    },
+    {
+      "album": {
         "name": "One",
         "url": "https://open.spotify.com/album/4e0YZHeh00ZKm9b3BOVOix"
       },
@@ -2145,6 +2229,32 @@
     },
     {
       "album": {
+        "name": "One Way",
+        "url": "https://open.spotify.com/album/3xsjC7WG3UOuJdrd33sPMI"
+      },
+      "artists": [
+        {
+          "name": "Tkellz",
+          "url": "https://open.spotify.com/artist/6w7eO85veDbb6SE1rAA8uO"
+        },
+        {
+          "name": "Oshara",
+          "url": "https://open.spotify.com/artist/2BWbea2OWDidK2vZnas8E3"
+        },
+        {
+          "name": "LC Beatz",
+          "url": "https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161906,
+      "name": "One Way",
+      "url": "https://open.spotify.com/track/5Yy8Kk9Lae87Diua8fEjdB"
+    },
+    {
+      "album": {
         "name": "Other Side",
         "url": "https://open.spotify.com/album/1JYuc5a6gwcEKBxed4NXaE"
       },
@@ -2160,7 +2270,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 196832,
       "name": "Other Side",
       "url": "https://open.spotify.com/track/3rxboiP5cvTiaI7aUtRTVl"
@@ -2240,6 +2350,24 @@
       "duration_ms": 157189,
       "name": "Put it On God",
       "url": "https://open.spotify.com/track/1QcTDyopg7fNm7ZAu0mKoV"
+    },
+    {
+      "album": {
+        "name": "Victory Dance",
+        "url": "https://open.spotify.com/album/75cmhDMxWZ1paVsLn7jbJ2"
+      },
+      "artists": [
+        {
+          "name": "Peterson Okopi",
+          "url": "https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345048,
+      "name": "READY FOR JESUS",
+      "url": "https://open.spotify.com/track/42xsTd686qxfLCAVjGx1yH"
     },
     {
       "album": {
@@ -2416,7 +2544,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 152968,
       "name": "Shambala",
       "url": "https://open.spotify.com/track/1xBdv3TshuzaYAwgxKRdP0"
@@ -2464,7 +2592,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 211120,
       "name": "SOT\u00c9",
       "url": "https://open.spotify.com/track/3FL6MjpcEuMY3Dpn3IcI2F"
@@ -2520,6 +2648,28 @@
       "duration_ms": 227180,
       "name": "Spirit Move",
       "url": "https://open.spotify.com/track/5OOrmtWISmgUF9m5iCSurG"
+    },
+    {
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/46Xv9JDjZmRr7xXvrRuZ5b"
+      },
+      "artists": [
+        {
+          "name": "K-Anthony",
+          "url": "https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU"
+        },
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/7LOETCwG4oq6u0a8947zNP"
     },
     {
       "album": {
@@ -2691,6 +2841,46 @@
     },
     {
       "album": {
+        "name": "Use me",
+        "url": "https://open.spotify.com/album/07xr6rjrJVNHSUVBKbg1CL"
+      },
+      "artists": [
+        {
+          "name": "Lilmizzy",
+          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
+        },
+        {
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214543,
+      "name": "Use me",
+      "url": "https://open.spotify.com/track/1JA0QRi9A6uHnZZ600nzCf"
+    },
+    {
+      "album": {
+        "name": "VICTORY DANCE",
+        "url": "https://open.spotify.com/album/4HOinc1ltZLvIjmHlA2E2M"
+      },
+      "artists": [
+        {
+          "name": "Peterson Okopi",
+          "url": "https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 593064,
+      "name": "VICTORY DANCE",
+      "url": "https://open.spotify.com/track/0bRt230xIYDhNJ6fC1voSt"
+    },
+    {
+      "album": {
         "name": "Eternal Cruise",
         "url": "https://open.spotify.com/album/5beZMQVLgzGHoPC88yqN2s"
       },
@@ -2848,10 +3038,36 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 205195,
       "name": "Your Mind",
       "url": "https://open.spotify.com/track/4bruz4SVwYjjcIBtuBEN3n"
+    },
+    {
+      "album": {
+        "name": "Your Mind (Special Version)",
+        "url": "https://open.spotify.com/album/2xaT3sv1yzdowOog413zn0"
+      },
+      "artists": [
+        {
+          "name": "Spillz Ochai",
+          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
+        },
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174386,
+      "name": "Your Mind - Special Version",
+      "url": "https://open.spotify.com/track/4sCoDyHrXGLsLV6UT6po8Z"
     },
     {
       "album": {

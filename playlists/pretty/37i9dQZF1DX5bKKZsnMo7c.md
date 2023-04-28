@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 
 > All eyes on you\. Cover: Bo Burnham
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,388 likes - 62 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,961 likes - 62 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 61 | [The Afterparty](https://open.spotify.com/track/4CjoseT1Sf0lrWnd8dAttA) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [The Afterparty](https://open.spotify.com/album/62WN4KZgA7iRqzx5lbOMNi) | 3:34 |
 | 62 | [Flying Fish](https://open.spotify.com/track/5DGHfcMOCzfxiJnhybJHov) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Flying Fish](https://open.spotify.com/album/2Q5XpQhGIyRB5TUHTqkWQl) | 3:01 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDZmODFjY2ExZTlkMGZhYjEwZmVkOTVlZGYxOTc0MjA0`
+Snapshot ID: `MCw5ZDAyYWU5ZGU2NzFiZTlhMWE5YzI5MzlhM2I2ZTNmNWYzOTJkYmQz`

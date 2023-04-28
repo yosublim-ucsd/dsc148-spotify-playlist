@@ -1,12 +1,12 @@
 {
   "description": "New music from The Weeknd & Future, Belly, Kim Petras & Nicki Minaj, and Foo Fighters.",
-  "num_followers": 342685,
+  "num_followers": 342706,
   "original_name": "New Music Friday Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA1MDE1NiwwMDAwMDAwMDkxY2U1ZDRiMjJkMTc5ZmRjY2U5NjlhNWRiZmQ4ZDVl",
+  "snapshot_id": "MCw3ODVkNWU0YzYyZDc2ZDNmNjcwNDE4Yjc3ZTBmMzY1ZGNlZjlkY2Fh",
   "tracks": [
     {
       "added_at": "2023-04-21 04:09:16",
@@ -279,7 +279,7 @@
     {
       "added_at": "2023-04-21 04:09:16",
       "album": {
-        "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) [Spotify Singles]",
+        "name": "You Oughta Know (feat. Ingrid Andress, Madeline Edwards, Morgan Wade) [Spotify Singles]",
         "url": "https://open.spotify.com/album/6IwwVGLtiflk9IkTcRwE6n"
       },
       "artists": [
@@ -292,10 +292,6 @@
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         },
         {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        },
-        {
           "name": "Madeline Edwards",
           "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
         },
@@ -305,7 +301,7 @@
         }
       ],
       "duration_ms": 256217,
-      "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) - Spotify Singles",
+      "name": "You Oughta Know (feat. Ingrid Andress, Madeline Edwards, Morgan Wade) - Spotify Singles",
       "url": "https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv"
     },
     {

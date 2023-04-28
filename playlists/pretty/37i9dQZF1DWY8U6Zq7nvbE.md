@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > The best from the world of acoustic songs and pop covers right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,130,676 likes - 179 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,130,693 likes - 179 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 68 | [Call Your Girlfriend \- Acoustic](https://open.spotify.com/track/2tLoJAFgiB6uw6tDNCtbgd) | [Fox & Hart](https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH) | [Call Your Girlfriend \- Acoustic](https://open.spotify.com/album/76jfRPPFyQSnmB5N9SyNLW) | 3:51 |
 | 69 | [Can't Tame Her \- Acoustic](https://open.spotify.com/track/1fuD35YHKBFQTIy61hbwo4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her \(Acoustic\)](https://open.spotify.com/album/7kSvTMG6BOS7O7yHyKeGpg) | 3:30 |
 | 70 | [Glimpse of Us](https://open.spotify.com/track/7rhqdS0YOoPXsA4vHXvMPG) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k), [Beck Pete](https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj) | [Glimpse of Us](https://open.spotify.com/album/66yLm40MPtwijtTVfjIRv0) | 3:52 |
-| 71 | [REACT \- Acoustic](https://open.spotify.com/track/0ID6ZyuiJG8PfXs6xhDbJj) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [REACT \(Acoustic\)](https://open.spotify.com/album/2ZTNuevIFDNxse1tlUBmSt) | 3:06 |
+| 71 | [REACT \- Acoustic](https://open.spotify.com/track/0ID6ZyuiJG8PfXs6xhDbJj) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [REACT \(Acoustic\)](https://open.spotify.com/album/2ZTNuevIFDNxse1tlUBmSt) | 3:06 |
 | 72 | [Cooped up \- Acoustic](https://open.spotify.com/track/0r8QmsNCerrYlA5gZn3wcl) | [POOL KIDS](https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR) | [Cooped up \- Acoustic](https://open.spotify.com/album/5xhwO1iOyHUsXF9kIO6YEU) | 2:41 |
 | 73 | [Always You \(Wedding Version\) \[From Maybe I Do\]](https://open.spotify.com/track/3jk8QofgnK5a2NfZYYPcVC) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Always You \(Wedding Version\) \[From Maybe I Do\]](https://open.spotify.com/album/4vsAKJa3PnwSsxPRqifyfY) | 3:48 |
 | 74 | [Looking For Me \- Acoustic](https://open.spotify.com/track/5lyamXh1WgObdOl7Cmsgol) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Looking For Me \(Remixes\)](https://open.spotify.com/album/0IR8DIvSzJAGlSGqypZsNE) | 2:43 |
@@ -188,4 +188,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 178 | [Thunder](https://open.spotify.com/track/0H20PIDhzGnoOOYE6VC1TX) | [Fink's Mood](https://open.spotify.com/artist/1iUB72crNwlgJybWBA5Fl8) | [Thunder](https://open.spotify.com/album/5DphHIaiZBFZvI1epMUjMZ) | 2:51 |
 | 179 | [Boyfriend](https://open.spotify.com/track/7aq8uaeA9Uo1yu7HkiEGcG) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Boyfriend](https://open.spotify.com/album/7r7rQgJcP9VU2uDV4uQfJo) | 2:59 |
 
-Snapshot ID: `MTY4MTQzNDAwMCwwMDAwMDAwMDg3NTgzZGZlOGEyZTE3NGU0ZDZkYzdmYWMzZjk4ZTQy`
+Snapshot ID: `MCwwNjRhZmE2OWMwMzMzNTBlNTJlMmU3NTBlYjQwYTc5OTZmMzIwNmQ5`

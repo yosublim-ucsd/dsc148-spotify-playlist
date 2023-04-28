@@ -1,12 +1,12 @@
 {
   "description": "Adoradores cantando sobre o amor. Foto: Paulo Cesar Baruk",
-  "num_followers": 82678,
+  "num_followers": 82714,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ5ODA4MSwwMDAwMDAwMGJlODVmMDBmYzkxYmNjZDdlZGQzMzhiMmVkMDcyYTBm",
+  "snapshot_id": "MCwyYmY5OTI1ZDc0ZTU0NWM2YWYwNWJkNTBhN2YyMjc1ZDE0ZTBlOGY4",
   "tracks": [
     {
       "added_at": "2023-03-11 01:28:01",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
+        "name": "Pra Onde a Gente Vai?",
+        "url": "https://open.spotify.com/album/3wJQesaQGbTVTBwUQaMit9"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Pra Onde a Gente Vai?",
+      "url": "https://open.spotify.com/track/5FqUehyGODNlguE8ringep"
+    },
+    {
+      "added_at": "2023-03-11 01:28:01",
+      "album": {
         "name": "O Jeito Que Voc\u00ea Me Olha",
         "url": "https://open.spotify.com/album/3c26dSii5qXsMvfWOMlWRF"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 198067,
       "name": "O Jeito Que Voc\u00ea Me Olha",
       "url": "https://open.spotify.com/track/4XmKI6f9r1sZT1jYegZnoj"
-    },
-    {
-      "added_at": "2023-03-11 01:28:01",
-      "album": {
-        "name": "Pra Onde a Gente Vai?",
-        "url": "https://open.spotify.com/album/3wJQesaQGbTVTBwUQaMit9"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Pra Onde a Gente Vai?",
-      "url": "https://open.spotify.com/track/5FqUehyGODNlguE8ringep"
     },
     {
       "added_at": "2023-03-11 01:28:01",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
+        "name": "Amo Voc\u00ea Vol. 12",
+        "url": "https://open.spotify.com/album/2K9r2v3TSXTjkYqZHlraSQ"
+      },
+      "artists": [
+        {
+          "name": "N\u00e1dia Santolli",
+          "url": "https://open.spotify.com/artist/1V7dJDDkXDpMVM3c3VkzUa"
+        }
+      ],
+      "duration_ms": 289181,
+      "name": "Imposs\u00edvel N\u00e3o Te Amar",
+      "url": "https://open.spotify.com/track/6iVLxrdIn1EYm6gBAYUZFj"
+    },
+    {
+      "added_at": "2023-03-11 01:28:01",
+      "album": {
         "name": "Mais Perto de Deus",
         "url": "https://open.spotify.com/album/2TdCDLiO9MvPNJVo7ZoSzB"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 275933,
       "name": "Sempre Te Amarei",
       "url": "https://open.spotify.com/track/0rxd5YPK6yq3QfnlrTKeN2"
-    },
-    {
-      "added_at": "2023-03-11 01:28:01",
-      "album": {
-        "name": "Amo Voc\u00ea Vol. 12",
-        "url": "https://open.spotify.com/album/2K9r2v3TSXTjkYqZHlraSQ"
-      },
-      "artists": [
-        {
-          "name": "N\u00e1dia Santolli",
-          "url": "https://open.spotify.com/artist/1V7dJDDkXDpMVM3c3VkzUa"
-        }
-      ],
-      "duration_ms": 289181,
-      "name": "Imposs\u00edvel N\u00e3o Te Amar",
-      "url": "https://open.spotify.com/track/6iVLxrdIn1EYm6gBAYUZFj"
     },
     {
       "added_at": "2023-03-11 01:28:01",

@@ -1,12 +1,12 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 6033,
+  "num_followers": 6032,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2NzE3NCwwMDAwMDAwMDE3ZjI4NjdiZGViMjQwYTdhOGY4Y2FmM2ExYzk0NmQ4",
+  "snapshot_id": "MCxmOGVhMTk3OTRmMWI0YmI2ODkyYWQxZjg3Mzk4ZWYwZDBmOGMzMGI2",
   "tracks": [
     {
       "added_at": "2022-12-09 06:26:14",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Celebrando o Natal",
-        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
-      },
-      "artists": [
-        {
-          "name": "Arianne",
-          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
-        }
-      ],
-      "duration_ms": 210372,
-      "name": "Dai Louvores ao Rei",
-      "url": "https://open.spotify.com/track/68f92k1JBf9Aq8n69M10Pw"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "Cl\u00e1ssicos da M\u00fasica Crist\u00e3",
         "url": "https://open.spotify.com/album/4yqfNbc2llXhuLAFIOVVXY"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 196765,
       "name": "Maria",
       "url": "https://open.spotify.com/track/1hDbPsFAV6FSFhvLIaEfuP"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "Celebrando o Natal",
+        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
+      },
+      "artists": [
+        {
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
+        }
+      ],
+      "duration_ms": 210372,
+      "name": "Dai Louvores ao Rei",
+      "url": "https://open.spotify.com/track/68f92k1JBf9Aq8n69M10Pw"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Natal",
-        "url": "https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR"
-      },
-      "artists": [
-        {
-          "name": "Voices",
-          "url": "https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD"
-        }
-      ],
-      "duration_ms": 204196,
-      "name": "Natal",
-      "url": "https://open.spotify.com/track/5JqMJ3rqFdyPjlzCEHrRnF"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "Seu Nome",
         "url": "https://open.spotify.com/album/2BdxFlDtguIZhK5bySnryJ"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 191735,
       "name": "Seu Nome",
       "url": "https://open.spotify.com/track/1UaBscnZA9dJU7c2QKgKRr"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "Natal",
+        "url": "https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR"
+      },
+      "artists": [
+        {
+          "name": "Voices",
+          "url": "https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD"
+        }
+      ],
+      "duration_ms": 204196,
+      "name": "Natal",
+      "url": "https://open.spotify.com/track/5JqMJ3rqFdyPjlzCEHrRnF"
     },
     {
       "added_at": "2022-12-09 06:26:14",

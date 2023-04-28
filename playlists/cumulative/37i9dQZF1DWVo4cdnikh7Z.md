@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Pathu Thala
 
-623 songs - 1 day 14 hr 30 min
+624 songs - 1 day 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -507,7 +507,8 @@
 | [Thani Maramai \(From "Buffoon"\)](https://open.spotify.com/track/0YGMPiD1JZpdTGEYIMHhyn) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Pavithra Ramesh](https://open.spotify.com/artist/7il5dYQBr2FkT6si0u3gmY), [Aditya Ravindran](https://open.spotify.com/artist/4vbvSJmOoLdFnKI6uWLAJa) | [Thani Maramai \(From "Buffoon"\)](https://open.spotify.com/album/6Y0bfu77oLaYSSuT4NcwmE) | 4:45 | 2022-09-27 | 2022-10-15 |
 | [Thanimai Sirayiley \(From “Kaalangalil Aval Vasantham”\)](https://open.spotify.com/track/0Yz0P7QzuOZ68nJQeEAC6I) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Thanimai Sirayiley \(From “Kaalangalil Aval Vasantham”\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6rOPzH4ItagyrDETgbPAdE) | 4:12 | 2022-10-13 | 2022-12-26 |
 | [Thanimayilae](https://open.spotify.com/track/7DRkg0g7sooXbjNceq9SQi) | [Madley Blues](https://open.spotify.com/artist/4eDJl1hQIas8ywRYS1C55F), [M.S Krsna](https://open.spotify.com/artist/4qVLx0XPsO5EInvKYH6Pxx) | [Story of Things \(Original Series Soundtrack\)](https://open.spotify.com/album/0fVXpzXUJxh6tq7mZlO4lS) | 3:12 | 2023-01-05 | 2023-01-25 |
-| [Thaniye Thaniye](https://open.spotify.com/track/1w2GmkHbWAw9pOk7ZiXBzH) | [Madan Dhanasekaran](https://open.spotify.com/artist/3bZGLnvP5jj9PzvqlEnr6O) | [Thaniye Thaniye \(From "Nodigalal Naam Karaiya"\)](https://open.spotify.com/album/3jVL1K7193ga4oW5uWqL2b) | 3:46 | 2023-04-26 |  |
+| [Thaniye Thaniye](https://open.spotify.com/track/1w2GmkHbWAw9pOk7ZiXBzH) | [Madan Dhanasekaran](https://open.spotify.com/artist/3bZGLnvP5jj9PzvqlEnr6O) | [Thaniye Thaniye \(From "Nodigalal Naam Karaiya"\)](https://open.spotify.com/album/3jVL1K7193ga4oW5uWqL2b) | 3:46 | 2023-04-26 | 2023-04-28 |
+| [Thaniye Thaniye \(From "Nodigalal Naam Karaiya"\)](https://open.spotify.com/track/11G6aSQaCE8ASg5apqotMJ) | [Madan Dhanasekaran](https://open.spotify.com/artist/3bZGLnvP5jj9PzvqlEnr6O), [Kandhavel Muthukumar](https://open.spotify.com/artist/0HSmpoD5y8KKajyoNBu7iN) | [Thaniye Thaniye \(From "Nodigalal Naam Karaiya"\) \- Single](https://open.spotify.com/album/3GtLshAvumYTqH3ImsCMQQ) | 3:46 | 2023-04-26 |  |
 | [Tharangini](https://open.spotify.com/track/2S0IAJ5azSE9G738vYWn1y) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Mira Sengupta](https://open.spotify.com/artist/1GmpszxiFVDq0NkgWh6MPI) | [Cobra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5QlbnAP1xU0GMwpjchHLA3) | 3:36 | 2022-07-12 | 2022-08-05 |
 | [Tharattu](https://open.spotify.com/track/0pH00Dn4YtMalzVwtOXntB) | [Manikandan Ayyappa](https://open.spotify.com/artist/0DBXdapluRDfEm5NP4USwN) | [Tharattu \(From "Kumari"\)](https://open.spotify.com/album/4jTjSqo6V1kdSQOI8ouQAW) | 1:50 | 2022-12-13 | 2022-12-15 |
 | [Tharattu \(From "Kumari"\)](https://open.spotify.com/track/7k87s5AhF97wRn3PCbxOQ4) | [Manikandan Ayyappa](https://open.spotify.com/artist/0DBXdapluRDfEm5NP4USwN), [Jyothish Kassi](https://open.spotify.com/artist/2KympZXpUQGGKB9V0U5ZCg) | [Tharattu \(From "Kumari"\) \- Single](https://open.spotify.com/album/3TJkrT5NAFHCV0uCxLl30g) | 1:50 | 2022-12-13 | 2023-01-25 |

@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables del Regional Mexicano. Chiquis en portada.",
-  "num_followers": 86340,
+  "num_followers": 86387,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMDIyZjliY2NlNDljY2M3OGZkYzQ2ZWQ2ZjAwZGI5N2Nm",
+  "snapshot_id": "MCxhNTc0Zjk0ODhhNDc4OWIyNzJjZWZmZmYyZDIyMTE4MWNhODFhYzVm",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Un Nuevo Amor",
-        "url": "https://open.spotify.com/album/0qRYR5QyvLEt16G7UisMS2"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 226776,
-      "name": "Un Nuevo Amor",
-      "url": "https://open.spotify.com/track/4vyg50FAJjpCQEwmJMxlv1"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
         "url": "https://open.spotify.com/album/2lrBqFbFWoZddaOjUbD1DF"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 228187,
       "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
       "url": "https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Un Nuevo Amor",
+        "url": "https://open.spotify.com/album/0qRYR5QyvLEt16G7UisMS2"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 226776,
+      "name": "Un Nuevo Amor",
+      "url": "https://open.spotify.com/track/4vyg50FAJjpCQEwmJMxlv1"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -275,26 +275,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Qu\u00e9 Bueno Es Tenerte",
-        "url": "https://open.spotify.com/album/5mylIAlnG7NVExUV5hPc3H"
-      },
-      "artists": [
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 205386,
-      "name": "Qu\u00e9 Bueno Es Tenerte",
-      "url": "https://open.spotify.com/track/2Vficy40iZyTKoAJNwLWzd"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Pa' Luego Es Tarde",
         "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 217040,
       "name": "Te Qued\u00f3 Grande La Yegua",
       "url": "https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Qu\u00e9 Bueno Es Tenerte",
+        "url": "https://open.spotify.com/album/5mylIAlnG7NVExUV5hPc3H"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 205386,
+      "name": "Qu\u00e9 Bueno Es Tenerte",
+      "url": "https://open.spotify.com/track/2Vficy40iZyTKoAJNwLWzd"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Soy Lo Prohibido",
+        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
+      },
+      "artists": [
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        }
+      ],
+      "duration_ms": 178813,
+      "name": "Besos Y Copas",
+      "url": "https://open.spotify.com/track/5gXJjrNk3kwPkz8toXQTxf"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Pa' Luego Es Tarde",
         "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 278800,
       "name": "Costumbres",
       "url": "https://open.spotify.com/track/2rPmMvb83a5GaLFGcMFoBw"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Soy Lo Prohibido",
-        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
-      },
-      "artists": [
-        {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
-        }
-      ],
-      "duration_ms": 178813,
-      "name": "Besos Y Copas",
-      "url": "https://open.spotify.com/track/5gXJjrNk3kwPkz8toXQTxf"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Pa' Luego Es Tarde",
-        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 175822,
-      "name": "Alma Enamorada",
-      "url": "https://open.spotify.com/track/4gLc3SHtuu2svpOByuYQX7"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "No Me Deja De Doler",
         "url": "https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ"
       },
@@ -515,6 +499,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Por Puro Amor",
+        "url": "https://open.spotify.com/album/0WsszKdBU8ZgICPUvrvIb6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Limite",
+          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
+        }
+      ],
+      "duration_ms": 177973,
+      "name": "Yo Sin Tu Amor",
+      "url": "https://open.spotify.com/track/1dRk52eZwBlyJVdPajfBp4"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "La Gran Se\u00f1ora",
         "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
       },
@@ -527,6 +527,22 @@
       "duration_ms": 203520,
       "name": "Ya Lo S\u00e9",
       "url": "https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 175822,
+      "name": "Alma Enamorada",
+      "url": "https://open.spotify.com/track/4gLc3SHtuu2svpOByuYQX7"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -547,22 +563,6 @@
       "duration_ms": 203173,
       "name": "Mi Ego",
       "url": "https://open.spotify.com/track/07YArNoh8ZeQfnQc4sDXxB"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Por Puro Amor",
-        "url": "https://open.spotify.com/album/0WsszKdBU8ZgICPUvrvIb6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Limite",
-          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
-        }
-      ],
-      "duration_ms": 177973,
-      "name": "Yo Sin Tu Amor",
-      "url": "https://open.spotify.com/track/1dRk52eZwBlyJVdPajfBp4"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
-        "url": "https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE"
+        "name": "Pobre Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
         }
       ],
-      "duration_ms": 178378,
-      "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
-      "url": "https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu"
+      "duration_ms": 198102,
+      "name": "Pobre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Pobre Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        }
-      ],
-      "duration_ms": 198102,
-      "name": "Pobre Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Por Puro Amor",
         "url": "https://open.spotify.com/album/0WsszKdBU8ZgICPUvrvIb6"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 187693,
       "name": "Te Aprovechas",
       "url": "https://open.spotify.com/track/4IBhHhbBSGRGrP6wXzRK2v"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
+        "url": "https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 178378,
+      "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
+      "url": "https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Pa' Dentro",
-        "url": "https://open.spotify.com/album/1KuZ2S6sbJF1BE3Uw70ncW"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 152160,
-      "name": "Pa' Dentro - Versi\u00f3n Banda",
-      "url": "https://open.spotify.com/track/10Uc1hSwdM9RG9zMbIeJSz"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Ahora Va La M\u00eda",
         "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 164626,
       "name": "Ahora Va La M\u00eda",
       "url": "https://open.spotify.com/track/0CEublugofmBX9a2RKoxjq"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Pa' Dentro",
+        "url": "https://open.spotify.com/album/1KuZ2S6sbJF1BE3Uw70ncW"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 152160,
+      "name": "Pa' Dentro - Versi\u00f3n Banda",
+      "url": "https://open.spotify.com/track/10Uc1hSwdM9RG9zMbIeJSz"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Ahora Va La M\u00eda",
-        "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
-      },
-      "artists": [
-        {
-          "name": "Marisol Terrazas",
-          "url": "https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok"
-        }
-      ],
-      "duration_ms": 206960,
-      "name": "Si Quieres Verme Llorar",
-      "url": "https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Le Cale A Quien Le Cale",
         "url": "https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 152768,
       "name": "Le Cale A Quien Le Cale",
       "url": "https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Ahora Va La M\u00eda",
+        "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
+      },
+      "artists": [
+        {
+          "name": "Marisol Terrazas",
+          "url": "https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok"
+        }
+      ],
+      "duration_ms": 206960,
+      "name": "Si Quieres Verme Llorar",
+      "url": "https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Les Molesta",
-        "url": "https://open.spotify.com/album/4zDvdAWFpyH1cQKNRTll90"
+        "name": "Hoy Dame el Gusto",
+        "url": "https://open.spotify.com/album/3kRufiPZq2VFnS6EhFqUwF"
       },
       "artists": [
         {
-          "name": "Marisol Terrazas",
-          "url": "https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok"
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 163810,
-      "name": "Les Molesta",
-      "url": "https://open.spotify.com/track/0FQUdbfAuh7HzHGOeXxvSb"
+      "duration_ms": 192827,
+      "name": "Hoy Dame el Gusto",
+      "url": "https://open.spotify.com/track/5bYDZac40Gh7u7MdOm2RlI"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Ni Diabla Ni Santa",
-        "url": "https://open.spotify.com/album/43RfcDptMd2B5QoC5uhHIr"
+        "name": "Simplemente Amigos",
+        "url": "https://open.spotify.com/album/28gBhc6eA3RIgkp5sI7oTc"
       },
       "artists": [
         {
-          "name": "Janine",
-          "url": "https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z"
+          "name": "Nicole Padilla",
+          "url": "https://open.spotify.com/artist/1nKgKBoclIzq2uiBRz3VAv"
         }
       ],
-      "duration_ms": 168154,
-      "name": "Ni Diabla Ni Santa",
-      "url": "https://open.spotify.com/track/1NncWv7T19isafndpzddUd"
+      "duration_ms": 175770,
+      "name": "Simplemente Amigos",
+      "url": "https://open.spotify.com/track/59wb3CHtDB6NpshT2mzKtt"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1499,34 +1499,34 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Hoy Dame el Gusto",
-        "url": "https://open.spotify.com/album/3kRufiPZq2VFnS6EhFqUwF"
+        "name": "Les Molesta",
+        "url": "https://open.spotify.com/album/4zDvdAWFpyH1cQKNRTll90"
       },
       "artists": [
         {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+          "name": "Marisol Terrazas",
+          "url": "https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok"
         }
       ],
-      "duration_ms": 192827,
-      "name": "Hoy Dame el Gusto",
-      "url": "https://open.spotify.com/track/5bYDZac40Gh7u7MdOm2RlI"
+      "duration_ms": 163810,
+      "name": "Les Molesta",
+      "url": "https://open.spotify.com/track/0FQUdbfAuh7HzHGOeXxvSb"
     },
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Simplemente Amigos",
-        "url": "https://open.spotify.com/album/28gBhc6eA3RIgkp5sI7oTc"
+        "name": "Ni Diabla Ni Santa",
+        "url": "https://open.spotify.com/album/43RfcDptMd2B5QoC5uhHIr"
       },
       "artists": [
         {
-          "name": "Nicole Padilla",
-          "url": "https://open.spotify.com/artist/1nKgKBoclIzq2uiBRz3VAv"
+          "name": "Janine",
+          "url": "https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z"
         }
       ],
-      "duration_ms": 175770,
-      "name": "Simplemente Amigos",
-      "url": "https://open.spotify.com/track/59wb3CHtDB6NpshT2mzKtt"
+      "duration_ms": 168154,
+      "name": "Ni Diabla Ni Santa",
+      "url": "https://open.spotify.com/track/1NncWv7T19isafndpzddUd"
     },
     {
       "added_at": "2023-04-14 06:00:00",

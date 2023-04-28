@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Only Sins No Tragedies](https://open.spotify.com/track/6wRXbkkJmsqkFONOuwBe1F) | [Ragers](https://open.spotify.com/artist/2wiOxdl6V7nqiCBdiFUIuH) | [Only Sins No Tragedies](https://open.spotify.com/album/40zwLexje3MkFObsKehczh) | 2:20 |
 | 100 | [Tuesday's News](https://open.spotify.com/track/6t3ZG49fFe5p0hcc3ZMIIZ) | [Vanity Mirror](https://open.spotify.com/artist/55RBQib5kZq5ronjQVllWV) | [Tuesday's News](https://open.spotify.com/album/349NrMZimvvidkSn1Sd0S2) | 2:47 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDM5NDFhNjU1OTNiNjE4OTJkNjViOWIwMDk4ZDc4ZGYx`
+Snapshot ID: `MCwyODFjODQxMmQzMDJmNjQ0ZmM3ODBmN2RiY2VmY2JkYWJhMTBkZThl`

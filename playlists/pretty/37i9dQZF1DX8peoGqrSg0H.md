@@ -2,23 +2,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PiXXiE
+> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: ATLAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,336 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,432 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [จังหวะตกหลุมรัก \- Magic Moment](https://open.spotify.com/track/7KmY6wBpheP60rFEJPJBqN) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [จังหวะตกหลุมรัก \(Magic Moment\)](https://open.spotify.com/album/3HQlEa7YeAL1idA9iFHEYx) | 3:08 |
 | 2 | [ถ้าเธออยากไปทะเลฉันพร้อม...\(Talay\)](https://open.spotify.com/track/4okZRD6ad0o8kxzrkvYFLP) | [JAOKHUN](https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8) | [ถ้าเธออยากไปทะเลฉันพร้อม...\(Talay\)](https://open.spotify.com/album/2hrDOy5wsZ6kKJ3LLNU4LB) | 3:12 |
 | 3 | [ใครเพื่อนแก](https://open.spotify.com/track/47WfK6QKlLwIOxJaonJ3bA) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [เศร้าศาสตร์](https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q) | 4:08 |
-| 4 | [ชอบอยู่ รู้ยัง \(FYI\)](https://open.spotify.com/track/7tRUgI2s5RRJrUYsqCg4FN) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [ชอบอยู่ รู้ยัง \(FYI\)](https://open.spotify.com/album/5FrFp41GTSuc0q4m63bTPO) | 3:05 |
-| 5 | [สถานะเบลอ \(BLURRR\)](https://open.spotify.com/track/2MzPAfKHgy5BoE8bjm97d0) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [สถานะเบลอ \(BLURRR\)](https://open.spotify.com/album/6nILOs9tIhM6mp1tn72JdM) | 3:04 |
-| 6 | [รักกันวันเดียว \(ONE DAY\)](https://open.spotify.com/track/2ZnsdI3nTSDbiDEaKHHZ70) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [รักกันวันเดียว \(ONE DAY\)](https://open.spotify.com/album/2ov9KIuf12vKhV80iuw3JN) | 3:01 |
+| 4 | [รักกันวันเดียว \(ONE DAY\)](https://open.spotify.com/track/2ZnsdI3nTSDbiDEaKHHZ70) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [รักกันวันเดียว \(ONE DAY\)](https://open.spotify.com/album/2ov9KIuf12vKhV80iuw3JN) | 3:01 |
+| 5 | [HI YA YA \(แค่มีเธอ\)](https://open.spotify.com/track/45Byir0bemNjJFxHLx8Lir) | [4MIX](https://open.spotify.com/artist/7KLf6fRWodKmnPducVKvbX) | [HI YA YA \(แค่มีเธอ\)](https://open.spotify.com/album/5839gv3g8G9jrqgtG6E3hE) | 3:09 |
+| 6 | [ชอบอยู่ รู้ยัง \(FYI\)](https://open.spotify.com/track/7tRUgI2s5RRJrUYsqCg4FN) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [ชอบอยู่ รู้ยัง \(FYI\)](https://open.spotify.com/album/5FrFp41GTSuc0q4m63bTPO) | 3:05 |
 | 7 | [Mr\. Everything](https://open.spotify.com/track/4CHnBhfsGuReet1IMOrueC) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Mr\. Everything](https://open.spotify.com/album/51RzDgbBhPdH4MqFCFHJ30) | 3:21 |
-| 8 | [หยดน้ำตา \(Tears\)](https://open.spotify.com/track/0mItaHP6FLRrRO6xrWwJc1) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [หยดน้ำตา \(Tears\)](https://open.spotify.com/album/7FroKiN2tQtn7BtmZGhFsm) | 3:24 |
-| 9 | [บอยพาโบ้](https://open.spotify.com/track/1H9SZd5MauKXDaY0vxYJzv) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [BABB BUM BUM](https://open.spotify.com/album/6KNC1U2jopk3FbzkKkPiLC) | 3:42 |
-| 10 | [ลังเล](https://open.spotify.com/track/592XwpszQAW8olTXXIesls) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [ลังเล](https://open.spotify.com/album/1BX9k3e5SqOAY9nBGEYUhp) | 3:46 |
-| 11 | [ยื้อเพื่อ? \(Be Honest\)](https://open.spotify.com/track/6zd7fxBsHqjV9PNw5aEs1Y) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [Your Girl](https://open.spotify.com/album/0CmKGlxb5Te6ENFWPjwUtN) | 3:49 |
+| 8 | [สถานะเบลอ \(BLURRR\)](https://open.spotify.com/track/2MzPAfKHgy5BoE8bjm97d0) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [สถานะเบลอ \(BLURRR\)](https://open.spotify.com/album/6nILOs9tIhM6mp1tn72JdM) | 3:04 |
+| 9 | [หยดน้ำตา \(Tears\)](https://open.spotify.com/track/0mItaHP6FLRrRO6xrWwJc1) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [หยดน้ำตา \(Tears\)](https://open.spotify.com/album/7FroKiN2tQtn7BtmZGhFsm) | 3:24 |
+| 10 | [บอยพาโบ้](https://open.spotify.com/track/1H9SZd5MauKXDaY0vxYJzv) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [BABB BUM BUM](https://open.spotify.com/album/6KNC1U2jopk3FbzkKkPiLC) | 3:42 |
+| 11 | [ลังเล](https://open.spotify.com/track/592XwpszQAW8olTXXIesls) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [ลังเล](https://open.spotify.com/album/1BX9k3e5SqOAY9nBGEYUhp) | 3:46 |
 | 12 | [ยิ้มทั้งน้ำตา](https://open.spotify.com/track/1m1aNI4vjnwmrxateBIXgK) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ยิ้มทั้งน้ำตา](https://open.spotify.com/album/0gGRJrAvSjPI4U2mf0D0Hd) | 4:45 |
 | 13 | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/track/4Z64nGulQN49i9D03NcF8a) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/album/1K7cv40prwoUAbxCXX1CTh) | 3:50 |
 | 14 | [FIRE BOY](https://open.spotify.com/track/14XYtNNyCUGtG9quMgazIS) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [FIRE BOY](https://open.spotify.com/album/1bQ6GFjwrIxJngL72GQ5ux) | 2:49 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 59 | [รู้งี้เป็นแฟนกันตั้งนานแล้ว \(Safe Zone\) \- From แปลรักฉันด้วยใจเธอ Part 2](https://open.spotify.com/track/3r7Wk2nT2Vwlnb7xDI4pnE) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [แปลรักฉันด้วยใจเธอ \(The Original Soundtrack\)](https://open.spotify.com/album/2m4GcbFxWcBkyxTCUj3tLh) | 3:19 |
 | 60 | [วัดปะหล่ะ? \(TEST ME\)](https://open.spotify.com/track/4m72K740TLVYovBWJmTTt3) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [The First Album](https://open.spotify.com/album/1QSQt7RmnYE2s0IMWxKG5q) | 3:40 |
 
-Snapshot ID: `MTY4MjA2MzI1MCwwMDAwMDAwMDUwMWRiZGQzMGNjZGEzZjE5NWVkYWQ0YmNiOGY3OWYw`
+Snapshot ID: `MCwzY2E5MTlmOTEwMjA4NTBmY2ZhM2FmYzczZTYwNmE3YjEwNDZkN2Y5`

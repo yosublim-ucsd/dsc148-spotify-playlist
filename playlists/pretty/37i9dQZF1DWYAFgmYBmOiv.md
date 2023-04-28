@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 
 > POV: It's your last night with your high school sweetheart, curated by Jordan Fisher from Hello, Goodbye, and Everything in Between
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,719 likes - 52 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,744 likes - 52 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 | 51 | [If You Think It's Love](https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen](https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG) | 3:23 |
 | 52 | [Seventeen](https://open.spotify.com/track/4gsR34XSIE2fUY4odwZqym) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Seventeen](https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p) | 3:45 |
 
-Snapshot ID: `MTY1NzIwOTgxOSwwMDAwMDAwMDk3YzA3ZmI5NjczMDI0NTBmZDQ1MTUyN2ZlM2I5YWEx`
+Snapshot ID: `MCw3MjNlNTI1N2Q3MjI2YmE4MTQzZmQ5MDMyMmE0NmZjNjExZjRkMGQ1`

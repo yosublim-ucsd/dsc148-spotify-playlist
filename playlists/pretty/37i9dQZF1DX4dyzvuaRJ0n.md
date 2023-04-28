@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Cover: Chris Lake & Aluna
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,010,087 likes - 77 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,010,439 likes - 77 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 76 | [V I B R A T I O N](https://open.spotify.com/track/2t3FV5IpL1uWeMjt7vOomW) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [V I B R A T I O N](https://open.spotify.com/album/3b7azG2yR8EPj1V6pcW47r) | 2:49 |
 | 77 | [Pantheon](https://open.spotify.com/track/2fY9O2PpELY5hubBbC2zEG) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Pantheon](https://open.spotify.com/album/6CCx2uI8l08YutD22C7BvT) | 4:32 |
 
-Snapshot ID: `MTY4MjA0OTY2MCwwMDAwMDAwMDgzMGZjNzFkNzAyNGNhNTAyOTg4Y2QzZDg0OGI1ZmJi`
+Snapshot ID: `MCw1ZDRlN2Y2MmZlMjI2MjZjODI1ZGY0MGU4OWJkMDkyM2NmMjU4ZjUy`

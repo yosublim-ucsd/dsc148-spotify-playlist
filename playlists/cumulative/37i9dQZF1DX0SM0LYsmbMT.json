@@ -3420,7 +3420,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 140071,
       "name": "Arpoador",
       "url": "https://open.spotify.com/track/5PVJi0Z0PPqda1tneSNPnD"
@@ -5624,7 +5624,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 116400,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/62tRvfOJMzsxhPkMJIChxq"
@@ -5754,7 +5754,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-27",
+      "date_removed": null,
       "duration_ms": 111000,
       "name": "beyond the pines",
       "url": "https://open.spotify.com/track/3eWpsLe9tMeSAAEnPN8OGA"
@@ -14956,7 +14956,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 153500,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/6IMizBxvWe908mqf9rJlW0"
@@ -21112,7 +21112,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 100909,
       "name": "Frosty",
       "url": "https://open.spotify.com/track/6cF7WT6HaE92m3dN1hlZhJ"
@@ -24750,7 +24750,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 135053,
       "name": "Hidden Beauty",
       "url": "https://open.spotify.com/track/2Kp7jF6ujtiz5mmGEksMpL"
@@ -27350,7 +27350,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-23",
+      "date_removed": null,
       "duration_ms": 102519,
       "name": "In Your Own Time",
       "url": "https://open.spotify.com/track/2xFlZfIkBQwlz8ZY4AP4Qc"
@@ -27412,7 +27412,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 131562,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/6o072JVrUHju3ReQDwnQvX"
@@ -31739,6 +31739,24 @@
     },
     {
       "album": {
+        "name": "late night train",
+        "url": "https://open.spotify.com/album/0Qlzxc487GyxRnHPqJQDgX"
+      },
+      "artists": [
+        {
+          "name": "T.Check",
+          "url": "https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143602,
+      "name": "late night train",
+      "url": "https://open.spotify.com/track/1HdY90S677tBxCIglQs8rB"
+    },
+    {
+      "album": {
         "name": "Late Nights & Joyrides",
         "url": "https://open.spotify.com/album/7rvk0RbqWD4h66WWceFRAq"
       },
@@ -31990,7 +32008,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 121627,
       "name": "Lazee",
       "url": "https://open.spotify.com/track/1a8qgWr045vzRWg60vGFSy"
@@ -42006,7 +42024,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-17",
+      "date_removed": null,
       "duration_ms": 144781,
       "name": "Nonobody",
       "url": "https://open.spotify.com/track/6TRmQMiyzoqKDTmrT8ZIpe"
@@ -43328,7 +43346,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 132061,
       "name": "one time",
       "url": "https://open.spotify.com/track/6wfUNH1FO8FcDhvxq6rKuS"
@@ -53538,7 +53556,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-24",
+      "date_removed": null,
       "duration_ms": 146322,
       "name": "Snowy Streets",
       "url": "https://open.spotify.com/track/2nw52IaHkc54CJXcAjcyjy"
@@ -54946,7 +54964,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 151004,
       "name": "Spiegelei",
       "url": "https://open.spotify.com/track/2UgF2ERVFHWhFWcytlNO7G"
@@ -58821,6 +58839,24 @@
     },
     {
       "album": {
+        "name": "Sylva",
+        "url": "https://open.spotify.com/album/2GocLONbJRhobvV8PMcrSQ"
+      },
+      "artists": [
+        {
+          "name": "Moderator",
+          "url": "https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Sylva",
+      "url": "https://open.spotify.com/track/2Ba20ROZl4juSRo0p99Bvt"
+    },
+    {
+      "album": {
         "name": "S\u00f3 Alegria",
         "url": "https://open.spotify.com/album/4m8FDlgMwnfp6zYFxCqgsU"
       },
@@ -59382,7 +59418,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 147527,
       "name": "Tapedeckmemories",
       "url": "https://open.spotify.com/track/0HEVO9z0jDLj1CbZft5xLh"
@@ -60108,7 +60144,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 152728,
       "name": "The Conqueror",
       "url": "https://open.spotify.com/track/73GEWgVKErUlQV4tkOa9zS"
@@ -63558,7 +63594,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-25",
+      "date_removed": null,
       "duration_ms": 128366,
       "name": "Unter L\u00f6wen und Banditen",
       "url": "https://open.spotify.com/track/75HUZv6xss2ADArgzuCsYL"

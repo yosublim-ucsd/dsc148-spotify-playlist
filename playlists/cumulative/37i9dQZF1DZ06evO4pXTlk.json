@@ -607,6 +607,24 @@
     },
     {
       "album": {
+        "name": "Jealousy",
+        "url": "https://open.spotify.com/album/1Pe2tE0RKt8qYqtEvECanA"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122528,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/1wahunrydhJWQxDOC3eMXa"
+    },
+    {
+      "album": {
         "name": "There Is Only You",
         "url": "https://open.spotify.com/album/0D8FcMKT9NRdJ2KoqSajEh"
       },

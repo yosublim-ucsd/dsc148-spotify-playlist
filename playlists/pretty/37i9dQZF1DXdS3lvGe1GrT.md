@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Superviolet \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,676 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,823 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [You Don't Wanna Leave it Alone](https://open.spotify.com/track/5CeBqKJKkZtllzY5FaMPdd) | [J.E\. Sunde](https://open.spotify.com/artist/17x8QHiHxUhMSEv26RT7lW) | [You Don't Wanna Leave it Alone](https://open.spotify.com/album/0QIIAR2Ko4vEfb0kNjaQIg) | 3:02 |
 | 100 | [If I Wanted To](https://open.spotify.com/track/0ebpnu4g14P1jiZxTIhCa3) | [Doug Paisley](https://open.spotify.com/artist/2WH0j5DM0bzoj1KRKpJFh9) | [Say What You Like](https://open.spotify.com/album/3xBBmE8fVQLEzau1mRfn2J) | 2:53 |
 
-Snapshot ID: `MTY4MjUzMDI3NSwwMDAwMDAwMDc0YTczNTA5MzI3NTg1MzViNDEzMzI4MzcyNGE5MTM0`
+Snapshot ID: `MCxlZTVkMGVlNjAwZWMyZmYwMTliMjczNzg0NTgwN2I0ZWJjMDIxZDA4`

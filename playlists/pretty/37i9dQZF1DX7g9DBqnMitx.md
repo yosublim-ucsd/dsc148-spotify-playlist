@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7g9DBqnMitx.md) - [plain]
 
 > Le cinéma ça s'écoute aussi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,062 likes - 70 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,084 likes - 70 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7g9DBqnMitx.md) - [plain]
 | 57 | [L'aile ou la cuisse](https://open.spotify.com/track/3312vCIRGN7Z7Zg7QuAa57) | [Vladimir Cosma](https://open.spotify.com/artist/30YHp6jELIUSYUGssR9JRY) | [L'aile ou la cuisse \(Bande originale du film de Claude Zidi\)](https://open.spotify.com/album/24iTJqS3twJ44tRpOUGvZp) | 2:29 |
 | 58 | [Maniac](https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe) | [Michael Sembello](https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB) | [Flashdance \(Original Soundtrack From The Motion Picture\)](https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL) | 4:04 |
 | 59 | [Main Title and The Attack on the Jakku Village](https://open.spotify.com/track/0o9AEYW61Jb0dwmHlVhXk5) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Force Awakens \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR) | 6:25 |
-| 60 | [Vois sur ton chemin](https://open.spotify.com/track/6Q00zs8KvmXWdwlHD7PZZ2) | [Bruno Coulais](https://open.spotify.com/artist/5kjb55jtwPnbYXXDvP4x7R), [Les Petits Chanteurs de Saint\-Marc](https://open.spotify.com/artist/026nk210FPO26xMwpoew70) | [The Chorus \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4VVDHVgGIOh68k2VRq9tq0) | 2:19 |
+| 60 | [Vois sur ton chemin](https://open.spotify.com/track/0HfK6NPVb69533dKqTPokh) | [Bruno Coulais](https://open.spotify.com/artist/5kjb55jtwPnbYXXDvP4x7R), [Les Petits Chanteurs de Saint\-Marc](https://open.spotify.com/artist/026nk210FPO26xMwpoew70) | [Les Choristes \(Bande originale du film\)](https://open.spotify.com/album/4vpt4mDNgzAnJN3a9Uonky) | 2:19 |
 | 61 | [An der schönen blauen Donau, Op.314](https://open.spotify.com/track/5siXMmAafNxDlgcsLsqL9R) | [Johann Strauss II](https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z), [Herbert von Karajan](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) | [2001 \- A Space Odyssey](https://open.spotify.com/album/3AzJfHje1Uym5QC5vt7WKK) | 10:00 |
 | 62 | [Anyone Else but You](https://open.spotify.com/track/7mOYvqE4mvNWW0Oe3O9DxG) | [Michael Cera](https://open.spotify.com/artist/4xXQxNcBCtsaz6Gw1IblE3), [Elliot Page](https://open.spotify.com/artist/0P6soo9LS5O854DcUpEtSc) | [Juno \(Music From The Motion Picture\)](https://open.spotify.com/album/5QLWzI3zMjxnI4ry0Wu6IS) | 1:56 |
 | 63 | [Indiana Jones Theme](https://open.spotify.com/track/60ZYLVPmSNY9r0Uquaivvs) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Philharmonic Symphony Orchestra](https://open.spotify.com/artist/3KVFlfZ7gBNLbGMXp0efKH), [Richard Hayman](https://open.spotify.com/artist/68tBK9r9zdViB8V73G5SA9) | [Classics at the Movies: Adventure](https://open.spotify.com/album/4Ni99xL6RBog7Z1xpdKZCk) | 5:35 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7g9DBqnMitx.md) - [plain]
 | 69 | [Society](https://open.spotify.com/track/3bHhUEOTIbezeZ856R0BX5) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Into The Wild \(Music For The Motion Picture\)](https://open.spotify.com/album/13xlpKbai3GGoMSr75lOeX) | 3:56 |
 | 70 | [Reality](https://open.spotify.com/track/1gci2QBGH5nzPWePv6ATom) | [Vladimir Cosma](https://open.spotify.com/artist/30YHp6jELIUSYUGssR9JRY), [Richard Sanderson](https://open.spotify.com/artist/2VYfYBKv8RPlY3MhwI7mSR) | [La boum \(Bande originale du film de Claude Pinoteau\)](https://open.spotify.com/album/57piLRISNJFwpMwXfWC5kL) | 4:49 |
 
-Snapshot ID: `MTY3NzI1NzIyMiwwMDAwMDAwMGQ0NGNhZDQzN2Y5NjU3MjE5YWYzNmRmMTYzZTBjZGM4`
+Snapshot ID: `MCw5NGFlNmVjYTg3M2YzMzU2ZWJjZjhkZDYxNjFmNjI3NGJhYjdjMDNl`

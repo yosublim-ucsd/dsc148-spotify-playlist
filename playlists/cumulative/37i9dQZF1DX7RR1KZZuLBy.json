@@ -253,6 +253,28 @@
     },
     {
       "album": {
+        "name": "The Gospel According To Artwork Sounds Chapter II",
+        "url": "https://open.spotify.com/album/29GVpaBSSetPQ38LohweSs"
+      },
+      "artists": [
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        },
+        {
+          "name": "House Victimz",
+          "url": "https://open.spotify.com/artist/2jLxHBm09mAVmAoaVh47Lr"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412000,
+      "name": "God Has Been Good",
+      "url": "https://open.spotify.com/track/5WpB9rh1D2mRCnHZNZDZJf"
+    },
+    {
+      "album": {
         "name": "Everything And Nothing Less (Live)",
         "url": "https://open.spotify.com/album/66663xiz1SATmBnF78aEpA"
       },
@@ -684,8 +706,8 @@
           "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
         },
         {
-          "name": "Cecily Hennigan",
-          "url": "https://open.spotify.com/artist/3zYhPKXlVf8jlSHqlpiqWh"
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
         }
       ],
       "date_added": "2023-04-21",
@@ -744,7 +766,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 29090,
       "name": "Mhlaba Wethu - Interlude",
       "url": "https://open.spotify.com/track/0QyIakBd70MWyVd1ALOEiP"
@@ -988,7 +1010,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 228786,
       "name": "Only Jesus",
       "url": "https://open.spotify.com/track/2txzErQliWk9JMlVNeolNh"
@@ -1191,6 +1213,28 @@
     },
     {
       "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/46Xv9JDjZmRr7xXvrRuZ5b"
+      },
+      "artists": [
+        {
+          "name": "K-Anthony",
+          "url": "https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU"
+        },
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/7LOETCwG4oq6u0a8947zNP"
+    },
+    {
+      "album": {
         "name": "LONG LIVE LOVE",
         "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
       },
@@ -1352,6 +1396,24 @@
       "duration_ms": 445586,
       "name": "This Is A Move - Live",
       "url": "https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G"
+    },
+    {
+      "album": {
+        "name": "Umona",
+        "url": "https://open.spotify.com/album/60tGABu8pLNqzV9W1rZlap"
+      },
+      "artists": [
+        {
+          "name": "The Joy",
+          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173753,
+      "name": "Umona",
+      "url": "https://open.spotify.com/track/6ufN7QxJhFZ4rEIKndvdon"
     },
     {
       "album": {
@@ -1534,7 +1596,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 140106,
       "name": "WWDD",
       "url": "https://open.spotify.com/track/0sLlBhCGDwMAZKcI53wFty"

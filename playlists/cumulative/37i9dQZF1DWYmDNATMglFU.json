@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "it's a generation \u26d3 ft. hot milk",
+  "description": "it's a generation \u26d3 ft. the linda lindas",
   "name": "The Locker",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 167040,
       "name": "(NOT A) LOVE SONG",
       "url": "https://open.spotify.com/track/4pbi40zXUCSQG3azxkag79"
@@ -992,7 +992,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 240002,
       "name": "Bookie's Dirtbag",
       "url": "https://open.spotify.com/track/4RWbO2RDo6yyA12R3TNVsx"
@@ -1740,6 +1740,24 @@
       "duration_ms": 154680,
       "name": "Cruise Control",
       "url": "https://open.spotify.com/track/7yJxtJ1Oi62vfmhFmtNqVh"
+    },
+    {
+      "album": {
+        "name": "Crumbled",
+        "url": "https://open.spotify.com/album/0WuxkTSMVZa1nWI7YaR6XS"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "Crumbled",
+      "url": "https://open.spotify.com/track/3h4UYObZmzgrym6Gzw35iA"
     },
     {
       "album": {
@@ -2629,6 +2647,24 @@
     },
     {
       "album": {
+        "name": "Easier",
+        "url": "https://open.spotify.com/album/4PnhLX8zjgFP9PTGEe6eyS"
+      },
+      "artists": [
+        {
+          "name": "Superlove",
+          "url": "https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Easier",
+      "url": "https://open.spotify.com/track/6p2CaYsLkNeXpqFhA1RJRA"
+    },
+    {
+      "album": {
         "name": "HOLY FVCK",
         "url": "https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR"
       },
@@ -3432,7 +3468,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 186581,
       "name": "Get A Job",
       "url": "https://open.spotify.com/track/1SvWcEk0BXuOmQp25PThtR"
@@ -3678,7 +3714,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 134769,
       "name": "Hate.",
       "url": "https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9"
@@ -3736,6 +3772,24 @@
       "duration_ms": 176798,
       "name": "Hearteater",
       "url": "https://open.spotify.com/track/0A67MlQCkvswYwi5kEK9Zi"
+    },
+    {
+      "album": {
+        "name": "Heaven You Felt",
+        "url": "https://open.spotify.com/album/2UgwAS0vyL4r73cObVyeFu"
+      },
+      "artists": [
+        {
+          "name": "happydaze",
+          "url": "https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209744,
+      "name": "Heaven You Felt",
+      "url": "https://open.spotify.com/track/1vYsu7e6FL68loYjVxv7cE"
     },
     {
       "album": {
@@ -5188,6 +5242,24 @@
       "duration_ms": 145103,
       "name": "Love It When You Hate Me (feat. blackbear)",
       "url": "https://open.spotify.com/track/4jUAn4mBt4LBsRREJkeCSr"
+    },
+    {
+      "album": {
+        "name": "Love Letter",
+        "url": "https://open.spotify.com/album/3w1dvrYzb7K4yRGjpULCPo"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158028,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/3wIMmFNL5hdqUBpAO0Ogpu"
     },
     {
       "album": {
@@ -7376,7 +7448,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 184285,
       "name": "Sneakers",
       "url": "https://open.spotify.com/track/3eLfICfDzCQrP8pOajVGiJ"
@@ -7398,6 +7470,24 @@
       "duration_ms": 184440,
       "name": "So Contagious",
       "url": "https://open.spotify.com/track/3Nnm4EROP8wEnMpcmapvLR"
+    },
+    {
+      "album": {
+        "name": "So Sentimental",
+        "url": "https://open.spotify.com/album/2n6RlkptiwMVnkRYUIpFUF"
+      },
+      "artists": [
+        {
+          "name": "WALWIN",
+          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149547,
+      "name": "So Sentimental",
+      "url": "https://open.spotify.com/track/0e6cllU5p2HDCFm2cyKSai"
     },
     {
       "album": {
@@ -7936,7 +8026,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 171218,
       "name": "SURVIVE",
       "url": "https://open.spotify.com/track/3Cvsj3gXkN6ojl4BUVVumL"
@@ -8904,7 +8994,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 183635,
       "name": "tryna find some help",
       "url": "https://open.spotify.com/track/58xHXdv4U7o8oPvRqUgHBU"

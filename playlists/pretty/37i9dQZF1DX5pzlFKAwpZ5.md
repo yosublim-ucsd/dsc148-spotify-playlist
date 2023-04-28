@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 
 > The calming space of Japanese Ambient and Environmental music\. Masayoshi Fujita on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,160 likes - 170 songs - 13 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,237 likes - 170 songs - 13 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 | 169 | [Communication](https://open.spotify.com/track/5tyASemkiCXFPUMOxtnnEN) | [Sachi Kobayashi](https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT) | [Air Dance](https://open.spotify.com/album/54ZE2Sh1Iru0oS9Z9TK819) | 4:09 |
 | 170 | [Tugboat](https://open.spotify.com/track/7HHyF48vLPvF9jPIt16OXS) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Magic Hour](https://open.spotify.com/album/1OoQkcRJonsT1nluNMbZtd) | 1:33 |
 
-Snapshot ID: `MTY4MjA4MzU3OCwwMDAwMDAwMGQ3NTNlNTY2YTA5M2NhNDdkMTExMTJiZTgxZjYwYWU5`
+Snapshot ID: `MCxmYjE1MDUwYmM4YWIyNWRmMTRiM2I2Mjk3ZDY2Yzg4Nzk3NTRlMmUw`

@@ -4,7 +4,7 @@
 
 > Start your day right and wake up with some calm and cool Jazz.
 
-339 songs - 20 hr 33 min
+347 songs - 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,8 @@
 | [Last Call](https://open.spotify.com/track/2nUhKiUfVdLcGmcdYHdjBw) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 2:49 | 2023-02-16 |  |
 | [Last Time I Saw You](https://open.spotify.com/track/2Qyrr1fiYwV3bShAZqiivZ) | [West Village Trio](https://open.spotify.com/artist/6cIFYOs23Aowktaez0d6ew) | [Rue Saint\-Rustique](https://open.spotify.com/album/1IJrePjVbCWRK31hmKa3jB) | 3:55 | 2022-12-08 | 2023-03-03 |
 | [Le jardin de l'espoir](https://open.spotify.com/track/6u2JXDE0uEWI0iu6QvsAGN) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Le jardin de l'espoir](https://open.spotify.com/album/2zrDkiN2AW9emd4IBDRCkv) | 4:23 | 2023-02-23 |  |
-| [Let There Be Love](https://open.spotify.com/track/0xwx7ezy29UaYUfauZiFSF) | [Zander Jazz Trio](https://open.spotify.com/artist/5QBHt7kiJsvbsdJx30kMhl) | [Misty](https://open.spotify.com/album/3VxtokLaFZNDwce4YijTmE) | 3:02 | 2022-05-17 |  |
+| [Lemon Tart](https://open.spotify.com/track/1cPvmbaYDC33sTkNlfTuIB) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Lemon Tart](https://open.spotify.com/album/6zS3RKFsnWW7oIpYMGL1XW) | 3:31 | 2023-04-27 |  |
+| [Let There Be Love](https://open.spotify.com/track/0xwx7ezy29UaYUfauZiFSF) | [Zander Jazz Trio](https://open.spotify.com/artist/5QBHt7kiJsvbsdJx30kMhl) | [Misty](https://open.spotify.com/album/3VxtokLaFZNDwce4YijTmE) | 3:02 | 2022-05-17 | 2023-04-28 |
 | [Let's Fall In Love](https://open.spotify.com/track/4J6GUPhrAVnfrrL32ycOMh) | [Saint Clair Quartet](https://open.spotify.com/artist/4531fZykDkWT8oOdKx7MOl) | [Let's Fall In Love](https://open.spotify.com/album/1BEAKSDd8m6fmA0yW3itcW) | 3:26 | 2022-05-17 | 2022-10-07 |
 | [Lighter](https://open.spotify.com/track/3ME6wz09uMm4wdzyQ4mQb0) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Lighter](https://open.spotify.com/album/58ofYRb4CTqH3UBL6loe3M) | 3:23 | 2022-12-22 |  |
 | [Little Bell](https://open.spotify.com/track/1AQHHWxWaCZrMsqrdDTNng) | [Green Trio](https://open.spotify.com/artist/6byy6cSUHfjBs0vgjgC5St) | [Little Bell](https://open.spotify.com/album/3Co6xU6tpBJqppc2TNis78) | 3:30 | 2022-10-06 | 2023-02-03 |
@@ -190,6 +191,7 @@
 | [Me And You](https://open.spotify.com/track/0vfe8079vTAVIyluKYXQnt) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Me And You](https://open.spotify.com/album/6IxkLoGdCNVD2pKLI7F6Uq) | 3:28 | 2023-04-13 |  |
 | [Me and You](https://open.spotify.com/track/13PQrxT6yKIpsjIKPRBtC5) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Du & Jag](https://open.spotify.com/album/6XFSqJXCjg1x5GeBslZkBN) | 3:02 | 2023-02-23 |  |
 | [Mean To Me](https://open.spotify.com/track/4QEPK8VmIJsxw6ymP93gCS) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Don´t Blame Me](https://open.spotify.com/album/4oK8sCHJ3rsqYt7rpbXqSb) | 3:12 | 2022-05-24 | 2023-01-27 |
+| [Mellow Moments](https://open.spotify.com/track/3YGVTfSxTCuDykWrENqmGp) | [Leeluck & Co](https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL) | [Mellow Moments](https://open.spotify.com/album/1ewVy7oBv5CLUM7htj4oFk) | 3:08 | 2023-04-27 |  |
 | [Merry Monday](https://open.spotify.com/track/4jZOeSzfXYIBJszABDdba0) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Merry Monday](https://open.spotify.com/album/4jE1tDbdj3RgvlxGGiT72y) | 3:10 | 2022-12-01 |  |
 | [Mirror Images](https://open.spotify.com/track/7owDJ8Pr9sF4YNIdb3yrrX) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Mirror Images](https://open.spotify.com/album/0Vt5qVvs6LQLIHkikKawqg) | 3:57 | 2022-05-17 | 2023-01-27 |
 | [Misty](https://open.spotify.com/track/5gB8FHBnzdFonjPRKlP8hd) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Misty](https://open.spotify.com/album/3Lf7SzF0zij3vmShuQPpeD) | 4:17 | 2022-06-22 | 2022-11-25 |
@@ -206,6 +208,7 @@
 | [My First Choice](https://open.spotify.com/track/5Hd1LiJmHktsqPpoEKhKGv) | [Halcyon Jazz Band](https://open.spotify.com/artist/65v6vabYRS8eorJk8Heb6n) | [My First Choice](https://open.spotify.com/album/23DX1smryDu58RH0nxWHJx) | 3:44 | 2022-08-29 |  |
 | [My first kiss](https://open.spotify.com/track/30VQy0OHXjam8lKkpsZF4Z) | [Dave Oakley trio](https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc) | [My first kiss](https://open.spotify.com/album/1Qhe73UDyVrdfpi6j3Ymnw) | 3:24 | 2023-03-09 |  |
 | [My Fortune](https://open.spotify.com/track/0jXPKgpfyYXEWNHVBSCJ4P) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [My Fortune](https://open.spotify.com/album/4FEMX7bMR5J0w3cRUXOoKJ) | 4:31 | 2022-10-06 | 2023-02-17 |
+| [My Ideal](https://open.spotify.com/track/7auDnLAZDuygfAcDyaRwIN) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [My Ideal](https://open.spotify.com/album/1UPIz7n0yAGGuMaonT6Vho) | 3:20 | 2023-04-27 |  |
 | [My Ideal](https://open.spotify.com/track/6G0UnjCnn674okDwLhYR6W) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [My Ideal](https://open.spotify.com/album/1VPyA2gRCqIEGIXf2wtOQ9) | 3:27 | 2022-05-17 | 2022-09-30 |
 | [My One And Only Love](https://open.spotify.com/track/4HhnBJDoi9eLFxvnUh6ZLj) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [My One And Only Love](https://open.spotify.com/album/1sJwVUOrxhTYEqPwlJrpht) | 3:42 | 2022-12-22 |  |
 | [My Romance](https://open.spotify.com/track/4kjKUNTgMPWnzAD00cpd91) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [My Romance](https://open.spotify.com/album/0qoXES4Bc1uLeVjahn6ypA) | 3:48 | 2022-05-17 | 2023-01-27 |
@@ -260,6 +263,7 @@
 | [Snowflakes](https://open.spotify.com/track/75YnEhKgekpSCaIxhcIlY2) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Clear Skies](https://open.spotify.com/album/1lkZ3pXnZoqj9grtpAkdNY) | 3:58 | 2023-03-23 |  |
 | [Soft Like Rain](https://open.spotify.com/track/1kA2atXO3zrz1L5uEZpVcB) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [Soft Like Rain](https://open.spotify.com/album/2et7XBXAiuqsxBX7MgwHiZ) | 2:48 | 2022-05-17 |  |
 | [Softly, as in a Morning Sunrise](https://open.spotify.com/track/01Y1rFJpmKXucS9yNdwin0) | [Sal Ritter](https://open.spotify.com/artist/2ExFoyhPRTmehwcofSp2E0) | [Softly, as in a Morning Sunrise](https://open.spotify.com/album/3rIfaasfAx6n5CEbdnw8Ql) | 3:10 | 2022-05-17 | 2023-01-27 |
+| [Soliloquy](https://open.spotify.com/track/0te1ho7v4bPASest2eI0q3) | [Jennie Reigen](https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA) | [Soliloquy](https://open.spotify.com/album/1VFMQG2BAGIE3xBp1ejr34) | 2:23 | 2023-04-27 |  |
 | [Solitaire](https://open.spotify.com/track/0loeb8Q4ErFkJWqr2wmNeq) | [Leeluck & Co](https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL) | [Solitaire](https://open.spotify.com/album/71qxttrdClPi0LYz05vJhw) | 3:31 | 2023-02-23 |  |
 | [Some Other Time](https://open.spotify.com/track/00XUUci0jcUyCtVgMk8AxB) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Some Other Time](https://open.spotify.com/album/6prqNwWmM73hFtseto8CmH) | 3:11 | 2022-05-17 |  |
 | [Someone Elses Love](https://open.spotify.com/track/0NVDCHyEn5eLwfcxx2QFC6) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [Someone Elses Love](https://open.spotify.com/album/0UF9P6f5lz0xSlJpg7X4kv) | 3:43 | 2022-08-29 |  |
@@ -274,6 +278,7 @@
 | [Stormy Weather](https://open.spotify.com/track/1S34dvZPhsw0gIevtZrc0A) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Stormy Weather](https://open.spotify.com/album/1kLUIm38l7rUPoXJNe2ShN) | 3:12 | 2022-08-10 |  |
 | [Storvindeln](https://open.spotify.com/track/51JcTTZu3LG8aDEXBA4XzV) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Storvindeln](https://open.spotify.com/album/1EjiRshKRMV9tGaT2q5Qzr) | 3:36 | 2023-02-02 |  |
 | [Stuck In Time](https://open.spotify.com/track/47Wjs9Ju6TV4qo6IGv38hZ) | [Downstairs Jazz Band](https://open.spotify.com/artist/4aidC4RMKWtzHd6PKRBMfv) | [Little Branch](https://open.spotify.com/album/0LKmJAfHO1k8nkCBJbM5oJ) | 4:30 | 2022-05-17 | 2022-08-30 |
+| [Summer Romance](https://open.spotify.com/track/0UEEd9xywztg2kbt3zRlJt) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [Summer Romance](https://open.spotify.com/album/5gDw4M9FAbrAjQcmH5TJc2) | 2:32 | 2023-04-27 |  |
 | [Sweet And Lovely](https://open.spotify.com/track/2CWgW8oWE5Ec1CvMvawwQ6) | [Nouveau Jazz Trio](https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2) | [Sweet And Lovely](https://open.spotify.com/album/5lyuMvNyS4lbRByuICf61I) | 3:04 | 2022-10-06 |  |
 | [Tap on my Door](https://open.spotify.com/track/4ezJCCD1FWm2VcCH8HM3zA) | [Motor City Trio](https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs) | [Tap on my Door](https://open.spotify.com/album/4pjKtKKOOKoi6ug0Mjqxi7) | 3:34 | 2022-10-27 |  |
 | [That´s All](https://open.spotify.com/track/3rQfFOipumOd794SsD9xAn) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [That´s All](https://open.spotify.com/album/07jtuEoMDVUHQLvXs3IoFN) | 3:16 | 2022-08-29 |  |
@@ -297,10 +302,12 @@
 | [The Windmill](https://open.spotify.com/track/0tQdWOKnJRthxwJ5Pr6ZBE) | [Kendrettes](https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj) | [The Windmill](https://open.spotify.com/album/7igHbLzkcE9mOsMkKvIxXy) | 2:22 | 2023-02-23 |  |
 | [The Workers](https://open.spotify.com/track/1oXb2a7joQ4cre3t2W24hu) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [The Workers](https://open.spotify.com/album/3yW4cbRuICHZRsPCfHRSr0) | 3:26 | 2022-10-27 |  |
 | [There Goes My Heart](https://open.spotify.com/track/1LGN3DO6YD61pwb64gQtZx) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [There Goes My Heart](https://open.spotify.com/album/1xNAXGrLepkx1b0pgBFuvn) | 3:42 | 2023-01-19 |  |
+| [There Is No Greater Love](https://open.spotify.com/track/5MCVwLbFOCJ1zCPM1kJqH7) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [There Is No Greater Love](https://open.spotify.com/album/5p6RUhe5l5MYma5NfzTiDn) | 2:37 | 2023-04-27 |  |
 | [These Foolish Things](https://open.spotify.com/track/73LXSkZdpjWC4XUDTju8LK) | [Tribute Trio](https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C) | [These Foolish Things](https://open.spotify.com/album/06BC4Bp7zymTxVWhCZfXBy) | 4:50 | 2022-05-17 |  |
 | [Things To Look Forward To](https://open.spotify.com/track/6pGvG8RMWD19UTLDPf5Gei) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Things To Look Forward To](https://open.spotify.com/album/6HKoV1sIgJA7qgmwiX8Joo) | 4:05 | 2023-02-02 |  |
 | [This Is New](https://open.spotify.com/track/6fYwCP9RSKhbOkLmGwX41N) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [This Is New](https://open.spotify.com/album/3Lt4cW6ig50NtOBGtsBO7V) | 3:15 | 2022-05-17 |  |
 | [This isn’t home](https://open.spotify.com/track/7FJiPlX1unkR69o7SwYJa4) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [This isn’t home](https://open.spotify.com/album/6cfSkl9nRlvkdVvOdTE3un) | 2:46 | 2023-03-02 |  |
+| [This tape is good](https://open.spotify.com/track/07TfDT1EBdvlZ0yBwdiLkI) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [This tape is good](https://open.spotify.com/album/7H56DNh2zsZbm0UR1Y2ODw) | 3:41 | 2023-04-27 |  |
 | [Tidewater](https://open.spotify.com/track/2o8qn04QtYku0WNWxcGps6) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Tidewater](https://open.spotify.com/album/3hX9C1BMAHerJlzLfhupta) | 3:36 | 2022-06-28 | 2023-03-31 |
 | [Time After Time](https://open.spotify.com/track/1b027Iusu7sUPRNk1T7ZKo) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Time After Time](https://open.spotify.com/album/5S3nYxOStnKHFmzduinNco) | 3:36 | 2022-05-17 | 2023-02-03 |
 | [Time To Ponder](https://open.spotify.com/track/4sM2NQDJUC9PRbswwfdFwT) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Time To Ponder](https://open.spotify.com/album/1xcd6r2pl7i1V55S6sEqRL) | 3:12 | 2022-08-29 |  |
@@ -347,5 +354,6 @@
 | [Young And Foolish](https://open.spotify.com/track/4n2ZSKL2Kv0yxihsYo4pkg) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [Young And Foolish](https://open.spotify.com/album/7x3GBRQYeoQcbhSfM6npCV) | 3:35 | 2023-03-30 |  |
 | [Younger](https://open.spotify.com/track/2n1SYJBFAWhiDekZF0De0k) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Younger](https://open.spotify.com/album/5UDXkn6a4ugSTyH45ZNa5i) | 2:50 | 2022-08-16 |  |
 | [Your Lonely Heart](https://open.spotify.com/track/5v6yimzSI3z7ydQl1W0ocx) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Your Lonely Heart](https://open.spotify.com/album/2NIBEfyoyrHBLcr1LfnTKW) | 3:42 | 2023-02-23 |  |
+| [Your Shining Eyes](https://open.spotify.com/track/5Enjr7Vz1J8inrynMzgmc6) | [Wildflower Trio](https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6) | [Your Shining Eyes](https://open.spotify.com/album/4lsQ8Bj4OfJHhSjB0byELm) | 3:06 | 2023-04-27 |  |
 
 \*This playlist was first scraped on 2022-05-20. Prior content cannot be recovered.

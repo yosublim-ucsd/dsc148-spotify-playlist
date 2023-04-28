@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Q & Baby Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 996,658 likes - 130 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 996,772 likes - 130 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 129 | [NASTY](https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [NASTY](https://open.spotify.com/album/5oYotxU1JNdejw1yaDFfEF) | 2:50 |
 | 130 | [Bow Down](https://open.spotify.com/track/6PoD6ZYOAMkCJAbpAgpT1T) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 2:03 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDUyNDAyYWIxOThiMzZjMDVmODMwZjJhMWU2YWRmYTBj`
+Snapshot ID: `MCwzYTlkOTg4NDUxNGM1ZWQwMDM1NTE2ZTZhNDFlMmU3ODY2ZjE1M2Ux`

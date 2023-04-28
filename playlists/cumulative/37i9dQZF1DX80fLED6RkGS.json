@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP?si=joi_45KFTZKF7AJXJUs6Tg\">Maandy</a> ",
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y?si=NwNjbixHTBurF0udskWHvA\">Boutross</a> ",
   "name": "Gengetone Fire",
   "tracks": [
     {
@@ -116,7 +116,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 180453,
       "name": "Ala",
       "url": "https://open.spotify.com/track/2nOBa9BLxyDOev8sM82LrH"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 192237,
       "name": "Benga Na Mugithi",
       "url": "https://open.spotify.com/track/5vM0Y4MatVHi8laJoHtBtj"
@@ -3093,6 +3093,32 @@
     },
     {
       "album": {
+        "name": "Miss Behavior",
+        "url": "https://open.spotify.com/album/7qs2V9CF80wz2vlkeYPmgC"
+      },
+      "artists": [
+        {
+          "name": "Boutross",
+          "url": "https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y"
+        },
+        {
+          "name": "Savara",
+          "url": "https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap"
+        },
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167058,
+      "name": "Miss Behavior",
+      "url": "https://open.spotify.com/track/0d2WBQpBAgE5VZE1UeoIon"
+    },
+    {
+      "album": {
         "name": "Missed Call",
         "url": "https://open.spotify.com/album/7i4lOzbPq4E0ebhNTM216U"
       },
@@ -3805,6 +3831,24 @@
     },
     {
       "album": {
+        "name": "Oa Jane (Mary Jane)",
+        "url": "https://open.spotify.com/album/6GXrNrDyjfoP1CTJTv1Fgb"
+      },
+      "artists": [
+        {
+          "name": "Exray Taniua",
+          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168510,
+      "name": "Oa Jane (Mary Jane)",
+      "url": "https://open.spotify.com/track/3eSiZuYmqblGqRm9Kz9y2Q"
+    },
+    {
+      "album": {
         "name": "Afro Pop, Vol. 1",
         "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
       },
@@ -4130,7 +4174,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 201862,
       "name": "Pombe Na Kizungu Mingi",
       "url": "https://open.spotify.com/track/5GGS1P0wgAlCma5d0J5gez"
@@ -4224,6 +4268,24 @@
       "duration_ms": 141333,
       "name": "Potential",
       "url": "https://open.spotify.com/track/7DrsKIS0ihAF0mEAx00iH8"
+    },
+    {
+      "album": {
+        "name": "PUNGUZA EGO",
+        "url": "https://open.spotify.com/album/66K9xtlzsdkOVnGg6kGVtq"
+      },
+      "artists": [
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181475,
+      "name": "PUNGUZA EGO",
+      "url": "https://open.spotify.com/track/7xv1IfCT79cFHzYYYVoQA6"
     },
     {
       "album": {

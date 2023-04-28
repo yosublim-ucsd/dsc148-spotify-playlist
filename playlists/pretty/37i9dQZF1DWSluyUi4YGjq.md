@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > A new gen of bands gazing at their pedals, while soaring celestially\-high\. Winter on cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,218 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,536 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 32 | [Sapphire](https://open.spotify.com/track/5DFnmcshyxsonqTvanqZPY) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Spiritual Instinct](https://open.spotify.com/album/6o13o3tlmwPYFnlIrVoRhh) | 5:00 |
 | 33 | [Into Black](https://open.spotify.com/track/0gZziRdBUBIeucaKpRiAYO) | [Blouse](https://open.spotify.com/artist/58QP6z41dSgPjoiJkIjCcL) | [Blouse](https://open.spotify.com/album/5413IR4TtBPOyw9vPDY7Lk) | 3:28 |
 | 34 | [Bang Bang](https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Bang Bang](https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6) | 2:52 |
-| 35 | [Whirring](https://open.spotify.com/track/2XbqxKjCnE9YWfPRqwgtPq) | [The Joy Formidable](https://open.spotify.com/artist/4LdZNE5MHGqvc0N9ivXNF3) | [The Big Roar](https://open.spotify.com/album/2R45MnKwqMVAuqQ6UvNwet) | 6:47 |
-| 36 | [Pulling Our Weight](https://open.spotify.com/track/5JfibYpOT2Rtw6a0iWHiNm) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Passive Aggressive](https://open.spotify.com/album/2tKuxquz6D6CEhPP5TLTl4) | 3:20 |
+| 35 | [Pulling Our Weight](https://open.spotify.com/track/5JfibYpOT2Rtw6a0iWHiNm) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Passive Aggressive](https://open.spotify.com/album/2tKuxquz6D6CEhPP5TLTl4) | 3:20 |
+| 36 | [Whirring](https://open.spotify.com/track/2XbqxKjCnE9YWfPRqwgtPq) | [The Joy Formidable](https://open.spotify.com/artist/4LdZNE5MHGqvc0N9ivXNF3) | [The Big Roar](https://open.spotify.com/album/2R45MnKwqMVAuqQ6UvNwet) | 6:47 |
 | 37 | [Out of Mind](https://open.spotify.com/track/4tLh6ilwgHAWnkui4hAR3p) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1) | 3:08 |
 | 38 | [For the Kill](https://open.spotify.com/track/5Q2anZvDOyIc4OY5V47svD) | [Life On Venus](https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE) | [Odes to the Void](https://open.spotify.com/album/1Ud8ocMaTVL95qa1jN9vJS) | 3:28 |
 | 39 | [Love Song](https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Love Song](https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH) | 2:51 |
@@ -70,18 +70,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 60 | [Pressure](https://open.spotify.com/track/10FlXJUgM6r159dNILdFDt) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Pressure](https://open.spotify.com/album/5PcCgXyYFXsjQvS1Wjv8LU) | 2:53 |
 | 61 | [Handsome Man](https://open.spotify.com/track/7JCBX2hcQ7f7WpjlG89xGh) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Twin Plagues](https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H) | 2:28 |
 | 62 | [Air Supply](https://open.spotify.com/track/3I7Uqll4wyJmfBSDQWiLWh) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [You Will Never Know Why](https://open.spotify.com/album/78lIjVFQSSRqO47Pvw1b9M) | 4:41 |
-| 63 | [Strawberry](https://open.spotify.com/track/0kttqKdToPQupUgaBto3UM) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Strawberry](https://open.spotify.com/album/5aZjNX2D52tzOPM2FMcA0v) | 3:29 |
-| 64 | [eightball](https://open.spotify.com/track/2GWjuqubd6LAYgimjWiGu3) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [Destiny XL](https://open.spotify.com/album/6F0DKc4JJuxL5y7gL568r7) | 3:09 |
+| 63 | [eightball](https://open.spotify.com/track/2GWjuqubd6LAYgimjWiGu3) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [Destiny XL](https://open.spotify.com/album/6F0DKc4JJuxL5y7gL568r7) | 3:09 |
+| 64 | [Strawberry](https://open.spotify.com/track/0kttqKdToPQupUgaBto3UM) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Strawberry](https://open.spotify.com/album/5aZjNX2D52tzOPM2FMcA0v) | 3:29 |
 | 65 | [The Dead Are Dumb](https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 4:30 |
-| 66 | [Cranekiss](https://open.spotify.com/track/5ljHvSOYJ2AQfZoTlVwni1) | [Tamaryn](https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2) | [Cranekiss](https://open.spotify.com/album/0ZMlxCl7fzXSkv4T56hEOa) | 3:50 |
-| 67 | [Press](https://open.spotify.com/track/37SnMHwWU7F9isLYZB3taJ) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Sway](https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF) | 3:31 |
+| 66 | [Press](https://open.spotify.com/track/37SnMHwWU7F9isLYZB3taJ) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Sway](https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF) | 3:31 |
+| 67 | [Cranekiss](https://open.spotify.com/track/5ljHvSOYJ2AQfZoTlVwni1) | [Tamaryn](https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2) | [Cranekiss](https://open.spotify.com/album/0ZMlxCl7fzXSkv4T56hEOa) | 3:50 |
 | 68 | [Go and Come Back](https://open.spotify.com/track/2gF3wvkKkkuAXGFzAPUBSa) | [Fleeting Joys](https://open.spotify.com/artist/314EDjJCQdcNfzwefA7daH) | [Despondent Transponder](https://open.spotify.com/album/3Crg8b3vGdMBH6a7rGBtN9) | 4:30 |
-| 69 | [taste of concrete](https://open.spotify.com/track/5gsLyERQX8cQslfSqdhTw3) | [Shrimp](https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC) | [taste of concrete](https://open.spotify.com/album/3P3IXKGBC2d0SfJAvcbg9V) | 2:32 |
-| 70 | [Blaster](https://open.spotify.com/track/11DryxGvweDB9WRJhdjQe2) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Happy Songs for Happy Zombies](https://open.spotify.com/album/3K08yniIAPIIxhJOWyoBUX) | 3:24 |
+| 69 | [Blaster](https://open.spotify.com/track/11DryxGvweDB9WRJhdjQe2) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Happy Songs for Happy Zombies](https://open.spotify.com/album/3K08yniIAPIIxhJOWyoBUX) | 3:24 |
+| 70 | [taste of concrete](https://open.spotify.com/track/5gsLyERQX8cQslfSqdhTw3) | [Shrimp](https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC) | [taste of concrete](https://open.spotify.com/album/3P3IXKGBC2d0SfJAvcbg9V) | 2:32 |
 | 71 | [Blue Line Baby](https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 4:30 |
-| 72 | [Pretty Face](https://open.spotify.com/track/7n3Y93fkz1oRdsgpYTazkh) | [Soft Kill](https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m) | [Dead Kids R.I.P\. City](https://open.spotify.com/album/09GvIBV4cQDhvlL8rzTIy3) | 2:31 |
-| 73 | [Strawberry Cream](https://open.spotify.com/track/0kVQozLQGhKL6FGzCcnCPF) | [Oeil](https://open.spotify.com/artist/5XWHODeAWqM44qXaQwGGT7) | [Urban Twilight \(Remaster\)](https://open.spotify.com/album/4UJdE1UXEfLRDlv7gl55zI) | 3:50 |
-| 74 | [Lay Low](https://open.spotify.com/track/1W2jSHDSshu2l5mQL5dmT2) | [Beach Vacation](https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C) | [Lay Low](https://open.spotify.com/album/3xhF5I7uVcBHWWabkOk9Km) | 2:22 |
+| 72 | [Lay Low](https://open.spotify.com/track/1W2jSHDSshu2l5mQL5dmT2) | [Beach Vacation](https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C) | [Lay Low](https://open.spotify.com/album/3xhF5I7uVcBHWWabkOk9Km) | 2:22 |
+| 73 | [Pretty Face](https://open.spotify.com/track/7n3Y93fkz1oRdsgpYTazkh) | [Soft Kill](https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m) | [Dead Kids R.I.P\. City](https://open.spotify.com/album/09GvIBV4cQDhvlL8rzTIy3) | 2:31 |
+| 74 | [Strawberry Cream](https://open.spotify.com/track/0kVQozLQGhKL6FGzCcnCPF) | [Oeil](https://open.spotify.com/artist/5XWHODeAWqM44qXaQwGGT7) | [Urban Twilight \(Remaster\)](https://open.spotify.com/album/4UJdE1UXEfLRDlv7gl55zI) | 3:50 |
 | 75 | [Kaleidoscope](https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5) | [Ringo Deathstarr](https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg) | [Colour Trip](https://open.spotify.com/album/4etQkD7AQtkMO1t5nQa1rB) | 2:05 |
 
-Snapshot ID: `MTY4MTUxMzc5NSwwMDAwMDAwMGEyMGEwZjRjNTZiMGUwZTEwYTYzNDQzMDhiZDQ1ZDA0`
+Snapshot ID: `MCxlOGU1OGQ2ZTNjODdlZGY4OTJjMzc3ZTUxOTg1MjdjZDU4OGMwMDY0`

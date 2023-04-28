@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Finest collection of Tamil Music from the past 10 years\nCover : Varisu",
+  "description": "Finest collection of Tamil Music from the past 10 years\nCover : Ponniyin Selvan",
   "name": "Kollywood Cream",
   "tracks": [
     {
@@ -174,6 +174,28 @@
       "duration_ms": 272000,
       "name": "Adiye - From \"Bachelor\"",
       "url": "https://open.spotify.com/track/2tMoOS9grHtn4upzb4LwMG"
+    },
+    {
+      "album": {
+        "name": "Ponniyin Selvan Part-2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4Z3OH7wgqG7rLBZVVdTEcD"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Shakthisree Gopalan",
+          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243438,
+      "name": "Aga Naga",
+      "url": "https://open.spotify.com/track/36A3x0sPYGUyz24SZfjtOb"
     },
     {
       "album": {
@@ -1150,7 +1172,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 156330,
       "name": "Lokiverse - Background Score",
       "url": "https://open.spotify.com/track/209pScL6fUhISxcLWkB6rf"
@@ -1316,7 +1338,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 142258,
       "name": "Mayakkama Kalakkama (From \"Thiruchitrambalam\")",
       "url": "https://open.spotify.com/track/2kOH2QZB7F7I1iVXqwKuBF"
@@ -2580,6 +2602,36 @@
       "duration_ms": 209500,
       "name": "Vaathi Raid",
       "url": "https://open.spotify.com/track/4PML5RtrVcYAwTTS46otXB"
+    },
+    {
+      "album": {
+        "name": "Ponniyin Selvan Part-2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4Z3OH7wgqG7rLBZVVdTEcD"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        },
+        {
+          "name": "Harini",
+          "url": "https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320807,
+      "name": "Veera Raja Veera",
+      "url": "https://open.spotify.com/track/1W0QTc0qGWVhMOzxgoBgAQ"
     },
     {
       "album": {

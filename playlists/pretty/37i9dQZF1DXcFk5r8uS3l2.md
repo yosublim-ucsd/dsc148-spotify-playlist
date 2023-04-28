@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: The War and Treaty
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,868 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,928 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 99 | [I'll Come Running Back To You](https://open.spotify.com/track/4rDmjHyy754Js2SaojUVjZ) | [The Nighthawks](https://open.spotify.com/artist/3Q2L3fR3hmzSTxE5Sf9Y60) | [I'll Come Running Back To You](https://open.spotify.com/album/5FwYTrkDxnTwmKIZ54CGzh) | 4:11 |
 | 100 | [500 Miles](https://open.spotify.com/track/7Im3HTE5xwZHJnHEgVBX6E) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Ridin'](https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq) | 3:30 |
 
-Snapshot ID: `MTY4MDg0MDA2MCwwMDAwMDAwMGYyYTZjNTA1MTE3OWUzZjFiMDM3YmVjMDFmNGJiYjY2`
+Snapshot ID: `MCwzZmIwMGJiNzU5YTc5ZjUxM2M5NWI5ZGRiYzY4ZWM4ZmY1NjQyNTA3`

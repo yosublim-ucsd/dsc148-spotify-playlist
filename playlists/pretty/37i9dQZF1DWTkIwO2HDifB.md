@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Os Bico Tão Se Perguntando e os funks mais 🔑 do Brasil\. Foto: MC PH
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,572,924 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,575,906 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 49 | [Bala Love](https://open.spotify.com/track/48Ll1C6qAnP2UjnopQDh4a) | [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP), [Dj Lv Mdp](https://open.spotify.com/artist/01CFmzv28eTtJAjhrvOsiW), [DJ PH DA SERRA](https://open.spotify.com/artist/7Dq3oCz43MCuWBRgWTltZI) | [Bala Love](https://open.spotify.com/album/1Hr2BJE35v4OYirOAe0hA3) | 3:41 |
 | 50 | [O Fim é Triste \(feat\. DJ BOY\)](https://open.spotify.com/track/0yDMhYTryvQoR634wDgQ1j) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [DJ BOY](https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V) | [O Fim é Triste \(feat\. DJ BOY\)](https://open.spotify.com/album/42olwEoM9dmZzgs97cjdXt) | 2:38 |
 
-Snapshot ID: `MTY4MjA0NjE4MCwwMDAwMDAwMGMwMTAxNjIyN2I0YmUyZGI0YTE0ZTIzMjU0ZjcxOGIw`
+Snapshot ID: `MCxhYmM2MzY1MTFhN2Q3N2JmZjIzMzhkMDRjNWU2MTYyN2Q3NTMyMDY2`

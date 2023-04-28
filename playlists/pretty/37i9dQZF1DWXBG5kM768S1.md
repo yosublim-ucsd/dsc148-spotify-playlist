@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > De beste norske låtene fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,095 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,111 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 47 | [Himmelblå](https://open.spotify.com/track/3Q6UOOYHFc4ahiGbYdru05) | [Inge Bremnes](https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB) | [Har det no å si](https://open.spotify.com/album/3E8We6cjXdqmDnvMTQMmwd) | 3:45 |
 | 48 | [Du fortenar ein som meg \- klineversjon](https://open.spotify.com/track/1v4hTCaKOr5qVothIsL9er) | [Daniel Kvammen](https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A) | [1988 EP](https://open.spotify.com/album/74LpfW8LrYQp2PNRHfjgaU) | 4:17 |
 | 49 | [Alle Snakker Sant](https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 2:48 |
-| 50 | [Pusterom](https://open.spotify.com/track/1pa2qaCSAloisRVL8YSMUT) | [Marie Klåpbakken](https://open.spotify.com/artist/2qHlT3DfJoJNI4I8IzQmky), [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t) | [Pusterom](https://open.spotify.com/album/1bCimO52g5O7Ahqp9fVO6d) | 3:06 |
+| 50 | [Bror](https://open.spotify.com/track/1585fzVgMIK5BzPXA5a2iS) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Hjarteskjell](https://open.spotify.com/album/5LrKrBAJdrfrqdv6kFnugC) | 3:15 |
 
-Snapshot ID: `MTY4MjAyODAwMCwwMDAwMDAwMDkxMjI2NTAzMDkwN2RkNjA0NWQzYjY1NmVkOGE3MGM4`
+Snapshot ID: `MCxjYWI5NTE0OTFjYTgzZWE2MTcwMTA3OWY4MzI3ZTgwYjU0NDcwMDkw`

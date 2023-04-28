@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s. Cover: Peter Cetera",
-  "num_followers": 228018,
+  "num_followers": 228183,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg4MDQ1NywwMDAwMDAwMGVlZDllZTM0OTI1ZWU1NDcxNzUxM2FmMzc1MGMxZGQw",
+  "snapshot_id": "MCxhOWVlYzQ4ZmI3NTVkMWJlYTI5OThmOTJjYzNjZDdhMTZjNzk5YmVh",
   "tracks": [
     {
       "added_at": "2023-03-30 14:38:10",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Flying Colours",
-        "url": "https://open.spotify.com/album/6D4cLIAUVvA7qhKWoI2fvW"
-      },
-      "artists": [
-        {
-          "name": "Chris de Burgh",
-          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
-        }
-      ],
-      "duration_ms": 247066,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/0Gtb0lXSgo9zEXl3B2yn07"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Cool Night",
         "url": "https://open.spotify.com/album/6zK0vUxP3YQAWcc7injGov"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 218826,
       "name": "Cool Night",
       "url": "https://open.spotify.com/track/29KyVqHekckVGfxHn8QS7m"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Flying Colours",
+        "url": "https://open.spotify.com/album/6D4cLIAUVvA7qhKWoI2fvW"
+      },
+      "artists": [
+        {
+          "name": "Chris de Burgh",
+          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
+        }
+      ],
+      "duration_ms": 247066,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/0Gtb0lXSgo9zEXl3B2yn07"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Fool's Paradise",
-        "url": "https://open.spotify.com/album/7ttmmKXqE5StIAgOvU1V2C"
-      },
-      "artists": [
-        {
-          "name": "Randy Goodrum",
-          "url": "https://open.spotify.com/artist/1SbKRR7aw8TnLV35xMJvo0"
-        }
-      ],
-      "duration_ms": 238373,
-      "name": "Fool's Paradise",
-      "url": "https://open.spotify.com/track/6gX5B6uMDXFiK1qbq3NKlg"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "All Dressed Up",
         "url": "https://open.spotify.com/album/6CoCuashl0StGSgw5XKEJz"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 230417,
       "name": "Anywhere You Run To",
       "url": "https://open.spotify.com/track/6IfZke0ETxtKM0zz5kTyIT"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Fool's Paradise",
+        "url": "https://open.spotify.com/album/7ttmmKXqE5StIAgOvU1V2C"
+      },
+      "artists": [
+        {
+          "name": "Randy Goodrum",
+          "url": "https://open.spotify.com/artist/1SbKRR7aw8TnLV35xMJvo0"
+        }
+      ],
+      "duration_ms": 238373,
+      "name": "Fool's Paradise",
+      "url": "https://open.spotify.com/track/6gX5B6uMDXFiK1qbq3NKlg"
     },
     {
       "added_at": "2023-03-30 14:38:10",

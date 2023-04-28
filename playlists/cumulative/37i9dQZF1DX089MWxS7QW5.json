@@ -486,7 +486,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 199186,
       "name": "Blanche",
       "url": "https://open.spotify.com/track/1esahzIshP5CFjvPDobMVZ"
@@ -592,7 +592,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 215017,
       "name": "Call me (feat. Subbit & Luhae)",
       "url": "https://open.spotify.com/track/7CeNFCLirNI1Rm5rT2BCeR"
@@ -646,7 +646,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 158386,
       "name": "Candy For You",
       "url": "https://open.spotify.com/track/7r32Oz3HuDHfurSAx4iokY"
@@ -820,7 +820,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 240000,
       "name": "CONFEXXION",
       "url": "https://open.spotify.com/track/5s3opyN6LAoYAxs3158KuP"
@@ -1340,6 +1340,24 @@
       "duration_ms": 178600,
       "name": "Fresh",
       "url": "https://open.spotify.com/track/3D9f7Y6sFAAhlujvs3lDc2"
+    },
+    {
+      "album": {
+        "name": "FRR",
+        "url": "https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220506,
+      "name": "FRR",
+      "url": "https://open.spotify.com/track/231FbnNQRNo9PMwEyu8Tp9"
     },
     {
       "album": {
@@ -1880,7 +1898,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 186062,
       "name": "Last Pure Luv",
       "url": "https://open.spotify.com/track/6URA9fyuaEgiVyC706jElA"
@@ -2034,6 +2052,24 @@
       "duration_ms": 202120,
       "name": "Love is alone",
       "url": "https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD"
+    },
+    {
+      "album": {
+        "name": "Love Tree",
+        "url": "https://open.spotify.com/album/0kvZ99xBCsYUGZqMCNTiD1"
+      },
+      "artists": [
+        {
+          "name": "JUNJE",
+          "url": "https://open.spotify.com/artist/6cJKMYIKYbO8MSNEYLg0PB"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224229,
+      "name": "Love Tree",
+      "url": "https://open.spotify.com/track/4NBC72liv5nVfBAq8icUK6"
     },
     {
       "album": {
@@ -2324,7 +2360,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 253040,
       "name": "Not Beautiful (feat. Kenessi)",
       "url": "https://open.spotify.com/track/5OjCX52agyp8LkgfA1vTF5"
@@ -2578,7 +2614,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 210220,
       "name": "Re: 14 (feat. Minjeong)",
       "url": "https://open.spotify.com/track/4DmGa6XvEJuWdywgs6mxlK"
@@ -2778,7 +2814,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 264146,
       "name": "Strike",
       "url": "https://open.spotify.com/track/0Djk0AVUiqZX4Y8txXwcNF"
@@ -3158,7 +3194,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 202626,
       "name": "Untitled",
       "url": "https://open.spotify.com/track/7qoNik0g1HwjxPlIXkXoAD"
@@ -3354,6 +3390,24 @@
       "duration_ms": 204000,
       "name": "White Lie (feat. GI$T)",
       "url": "https://open.spotify.com/track/48ORreJCgCLSEj13xCFy70"
+    },
+    {
+      "album": {
+        "name": "WHY",
+        "url": "https://open.spotify.com/album/5kV8W1zJiIWOvaYIECzY3M"
+      },
+      "artists": [
+        {
+          "name": "DOHU",
+          "url": "https://open.spotify.com/artist/2R1wgdbaWY2KJG9xLWJ2Vh"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244546,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/0tbDP39a9Z8XPhAD8WfsBp"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 28599,
+  "num_followers": 28635,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAzNTI2MCwwMDAwMDAwMGQzYmM5M2Y0NzNjMDRmNzhiNTM1YjBlZGZmNTUyNTM0",
+  "snapshot_id": "MCxmZmFkODEyMDQ4YWZkZDNiODE2YTdhZmVjNTFlYzdhNmIzNWQxMzA3",
   "tracks": [
+    {
+      "added_at": "2023-04-28 00:03:00",
+      "album": {
+        "name": "Umona",
+        "url": "https://open.spotify.com/album/60tGABu8pLNqzV9W1rZlap"
+      },
+      "artists": [
+        {
+          "name": "The Joy",
+          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
+        }
+      ],
+      "duration_ms": 173753,
+      "name": "Umona",
+      "url": "https://open.spotify.com/track/6ufN7QxJhFZ4rEIKndvdon"
+    },
     {
       "added_at": "2023-02-21 14:33:20",
       "album": {
@@ -27,22 +43,6 @@
     {
       "added_at": "2023-04-14 00:30:00",
       "album": {
-        "name": "Mountain",
-        "url": "https://open.spotify.com/album/18ryHbK7atMLyoC8AqTYlZ"
-      },
-      "artists": [
-        {
-          "name": "The Joy",
-          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
-        }
-      ],
-      "duration_ms": 199588,
-      "name": "Mountain",
-      "url": "https://open.spotify.com/track/16ZRvSAYlxXqtKBjCqpEb2"
-    },
-    {
-      "added_at": "2023-04-14 00:30:00",
-      "album": {
         "name": "Thankful",
         "url": "https://open.spotify.com/album/7yOGwFeMaA4ucX5W0JFMKq"
       },
@@ -55,6 +55,26 @@
       "duration_ms": 209986,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/62uRYwQ4UV7UoMpQ6hXqPj"
+    },
+    {
+      "added_at": "2023-04-28 00:03:00",
+      "album": {
+        "name": "The Gospel According To Artwork Sounds Chapter II",
+        "url": "https://open.spotify.com/album/29GVpaBSSetPQ38LohweSs"
+      },
+      "artists": [
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        },
+        {
+          "name": "House Victimz",
+          "url": "https://open.spotify.com/artist/2jLxHBm09mAVmAoaVh47Lr"
+        }
+      ],
+      "duration_ms": 412000,
+      "name": "God Has Been Good",
+      "url": "https://open.spotify.com/track/5WpB9rh1D2mRCnHZNZDZJf"
     },
     {
       "added_at": "2023-04-21 00:01:00",
@@ -77,6 +97,26 @@
       "url": "https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx"
     },
     {
+      "added_at": "2023-04-28 00:03:00",
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/46Xv9JDjZmRr7xXvrRuZ5b"
+      },
+      "artists": [
+        {
+          "name": "K-Anthony",
+          "url": "https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU"
+        },
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/7LOETCwG4oq6u0a8947zNP"
+    },
+    {
       "added_at": "2023-02-21 14:33:20",
       "album": {
         "name": "What A Beautiful Name",
@@ -97,40 +137,20 @@
       "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
     },
     {
-      "added_at": "2023-04-21 00:01:00",
-      "album": {
-        "name": "How To Start A Housefire (Pt. II)",
-        "url": "https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk"
-      },
-      "artists": [
-        {
-          "name": "Housefires",
-          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
-        },
-        {
-          "name": "Cecily Hennigan",
-          "url": "https://open.spotify.com/artist/3zYhPKXlVf8jlSHqlpiqWh"
-        }
-      ],
-      "duration_ms": 441106,
-      "name": "Look Around",
-      "url": "https://open.spotify.com/track/45MwQxfmmHhYFGQuyPOpt3"
-    },
-    {
       "added_at": "2023-04-14 00:30:00",
       "album": {
-        "name": "Mhlaba Wethu (Interlude)",
-        "url": "https://open.spotify.com/album/0FxYNL8uDLAmctMsoGvuv1"
+        "name": "Mountain",
+        "url": "https://open.spotify.com/album/18ryHbK7atMLyoC8AqTYlZ"
       },
       "artists": [
         {
-          "name": "Brenda Mtambo",
-          "url": "https://open.spotify.com/artist/1xq3iidMUB1FTy5c7WcfyC"
+          "name": "The Joy",
+          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
         }
       ],
-      "duration_ms": 29090,
-      "name": "Mhlaba Wethu - Interlude",
-      "url": "https://open.spotify.com/track/0QyIakBd70MWyVd1ALOEiP"
+      "duration_ms": 199588,
+      "name": "Mountain",
+      "url": "https://open.spotify.com/track/16ZRvSAYlxXqtKBjCqpEb2"
     },
     {
       "added_at": "2023-04-21 00:01:00",
@@ -167,6 +187,26 @@
       "duration_ms": 535962,
       "name": "Oceans (Where Feet May Fail)",
       "url": "https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR"
+    },
+    {
+      "added_at": "2023-04-21 00:01:00",
+      "album": {
+        "name": "How To Start A Housefire (Pt. II)",
+        "url": "https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 441106,
+      "name": "Look Around",
+      "url": "https://open.spotify.com/track/45MwQxfmmHhYFGQuyPOpt3"
     },
     {
       "added_at": "2023-04-21 00:01:00",
@@ -431,54 +471,6 @@
       "duration_ms": 292346,
       "name": "Living Waters",
       "url": "https://open.spotify.com/track/01fqKF13vPT1nnfFtDob60"
-    },
-    {
-      "added_at": "2023-02-21 14:33:20",
-      "album": {
-        "name": "Sing Country",
-        "url": "https://open.spotify.com/album/0AN0Rl9KP73tWdwJmAA2zv"
-      },
-      "artists": [
-        {
-          "name": "Juanita du Plessis",
-          "url": "https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO"
-        },
-        {
-          "name": "Ruan Josh",
-          "url": "https://open.spotify.com/artist/0laMRbnKacdf1ueMabXUPO"
-        },
-        {
-          "name": "Franja Du Plessis",
-          "url": "https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41"
-        }
-      ],
-      "duration_ms": 228786,
-      "name": "Only Jesus",
-      "url": "https://open.spotify.com/track/2txzErQliWk9JMlVNeolNh"
-    },
-    {
-      "added_at": "2023-02-21 14:33:20",
-      "album": {
-        "name": "WWDD",
-        "url": "https://open.spotify.com/album/4tnH6o0fTcjtUBZNrCmvry"
-      },
-      "artists": [
-        {
-          "name": "Juanita du Plessis",
-          "url": "https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO"
-        },
-        {
-          "name": "Ruan Josh",
-          "url": "https://open.spotify.com/artist/0laMRbnKacdf1ueMabXUPO"
-        },
-        {
-          "name": "Franja Du Plessis",
-          "url": "https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41"
-        }
-      ],
-      "duration_ms": 140106,
-      "name": "WWDD",
-      "url": "https://open.spotify.com/track/0sLlBhCGDwMAZKcI53wFty"
     },
     {
       "added_at": "2023-02-21 14:33:20",

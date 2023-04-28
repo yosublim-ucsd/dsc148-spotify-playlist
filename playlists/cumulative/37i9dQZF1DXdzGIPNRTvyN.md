@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of piano, water, birds, and calmness.
 
-95 songs - 4 hr 20 min
+96 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,13 +57,14 @@
 | [Masterwort](https://open.spotify.com/track/4miFaDEcVNKXBWGAdIb6vA) | [Die Kaiserin](https://open.spotify.com/artist/76TYz19NwovIfQ1hS7g0LV) | [Masterwort](https://open.spotify.com/album/1x8Ys1DNMpy9r87PpOY67h) | 2:02 | 2023-03-13 |  |
 | [Melusina Alba](https://open.spotify.com/track/2ndnjV4KpneBCYRHALd8Ro) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [Melusina Alba](https://open.spotify.com/album/4HYOInJP0f608sH2178lN9) | 2:13 | 2023-01-24 |  |
 | [Micelle](https://open.spotify.com/track/6B93bHTKbd7Tv4F3U267ga) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [Micelle](https://open.spotify.com/album/2ZuVz9Mjtohq1taNses5ym) | 2:07 | 2023-01-24 | 2023-02-14 |
-| [Morning blizz](https://open.spotify.com/track/1QTM0kaUZC52uJjzhDw1WH) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Morning blizz](https://open.spotify.com/album/7dETgeWYpPyh1m6NQYBrBh) | 2:04 | 2023-04-06 |  |
+| [Morning blizz](https://open.spotify.com/track/1QTM0kaUZC52uJjzhDw1WH) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Morning blizz](https://open.spotify.com/album/7dETgeWYpPyh1m6NQYBrBh) | 2:04 | 2023-04-06 | 2023-04-28 |
 | [Mosaic Patterns](https://open.spotify.com/track/7MHME2ELEuXdN6NC69OpLj) | [Vadodara](https://open.spotify.com/artist/7FUOL0pd9zlLpJu7vCBO1V) | [Mosaic Patterns](https://open.spotify.com/album/4GdPy1i4mgFy8eFW2JCmot) | 2:53 | 2023-03-13 |  |
 | [My Favorite Moment](https://open.spotify.com/track/6xDrOfy2c9pyfcPmUBIJeV) | [Birdwalk House](https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM) | [Watching the World Go By](https://open.spotify.com/album/4aBzckGZx3xOnljiVzE2HR) | 3:38 | 2023-03-13 |  |
 | [Natural Spirit](https://open.spotify.com/track/0mWtYOhlnlUsVLCO1opzLJ) | [Spiritualizer](https://open.spotify.com/artist/608axORAeMj8OmGsz5eu8C) | [Natural Spirit](https://open.spotify.com/album/3oDBpldNDHsvRAoFcMAkNo) | 2:48 | 2023-03-13 |  |
 | [Nature Pause](https://open.spotify.com/track/6606b0Jnwb9BaYJUgcmqq2) | [Alma Forest](https://open.spotify.com/artist/5n7QXdkmXfGAz6srNlrF8l) | [The Birds' Lullaby](https://open.spotify.com/album/3FM8vHSAiC47KQwL1HVHNe) | 2:31 | 2023-03-13 |  |
 | [Nature Therapy](https://open.spotify.com/track/7qkoegLNz9Lp4JgMszZ34P) | [Sacred Dreams](https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc) | [Nature Therapy](https://open.spotify.com/album/6QexGgWoPrm4RQBXNkMpoz) | 2:58 | 2023-03-20 |  |
 | [Nature's Calling](https://open.spotify.com/track/1GwNF0VSW51XuLCyyj2HON) | [Evie May](https://open.spotify.com/artist/0UpCHJTp9iC8xQ43AyVDF4) | [Nature's Calling](https://open.spotify.com/album/6I1focCEQmsmoKj2XhabC0) | 1:55 | 2023-01-24 |  |
+| [Nature's Canvas](https://open.spotify.com/track/3gn4qQjNar63wHcK5DOJYU) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Nature's Canvas](https://open.spotify.com/album/58HOen5kFIqFH0AgNn8qfs) | 2:42 | 2023-04-24 |  |
 | [Nocturne in the rain](https://open.spotify.com/track/1fColVDTMjOFRu4kDMKMP2) | [Oscar Sergel](https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8) | [Nocturne in the rain](https://open.spotify.com/album/1DQQanFJj3DqKH5oD9JadF) | 2:30 | 2023-03-13 |  |
 | [Open Windows](https://open.spotify.com/track/0haM4uUy5Gl0qVdyn6csKG) | [Leonore Baldwin](https://open.spotify.com/artist/6ZlHe1gzZkHFr83kgRkxNA) | [Open Windows](https://open.spotify.com/album/2ieEchgcw6pTWoQSpNPDt7) | 2:42 | 2023-01-24 |  |
 | [Part 15, Afternoon Melody](https://open.spotify.com/track/5UIUZitjTfmsu52npWQE7D) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Corkscrew Swamp Sanctuary Pt\. 2 Soundwalk](https://open.spotify.com/album/0TBQA6n8foPfWoamgZgGi3) | 2:38 | 2023-03-13 |  |

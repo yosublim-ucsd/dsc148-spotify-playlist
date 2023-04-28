@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "/i\u02c8lek.tr\u026a.fa\u026a/",
+        "url": "https://open.spotify.com/album/515W1qjBkNe2Wnp6epheYJ"
+      },
+      "artists": [
+        {
+          "name": "TYM",
+          "url": "https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360774,
+      "name": "/i\u02c8lek.tr\u026a.fa\u026a/",
+      "url": "https://open.spotify.com/track/6FZkogSuP0V5oTmnKURl6M"
+    },
+    {
+      "album": {
         "name": "1, 2 Cent",
         "url": "https://open.spotify.com/album/5whfFiIPynh466Fb43P1vj"
       },
@@ -112,7 +130,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 155685,
       "name": "142bpm (feat. Nizi19, Karamel19 & Omar101)",
       "url": "https://open.spotify.com/track/4e0g8VX0Y4zCloCm3P3awJ"
@@ -772,7 +790,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 223746,
       "name": "Always Forever",
       "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
@@ -1832,10 +1850,32 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 183598,
       "name": "bird's eye",
       "url": "https://open.spotify.com/track/43QNV6DfNByxcddiUjBAjn"
+    },
+    {
+      "album": {
+        "name": "Bis nach Wien",
+        "url": "https://open.spotify.com/album/22YrGVGqPXl2pWdMYyaFGt"
+      },
+      "artists": [
+        {
+          "name": "Poison40",
+          "url": "https://open.spotify.com/artist/6wDrSQ3Vy4Kd8xRkupHDoO"
+        },
+        {
+          "name": "Aurel",
+          "url": "https://open.spotify.com/artist/0slrZndW99MXfw3g0r2eAf"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169927,
+      "name": "Bis nach Wien",
+      "url": "https://open.spotify.com/track/5Sj9RnONFS43QIVKsLQ81J"
     },
     {
       "album": {
@@ -2032,7 +2072,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 148905,
       "name": "blogg",
       "url": "https://open.spotify.com/track/5xy9zM5B3QwGGL3TswojM6"
@@ -2130,6 +2170,24 @@
       "duration_ms": 240002,
       "name": "Bookie's Dirtbag",
       "url": "https://open.spotify.com/track/4RWbO2RDo6yyA12R3TNVsx"
+    },
+    {
+      "album": {
+        "name": "Bops",
+        "url": "https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128666,
+      "name": "Bops",
+      "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
     },
     {
       "album": {
@@ -2714,10 +2772,28 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 184004,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY"
+    },
+    {
+      "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184013,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
     },
     {
       "album": {
@@ -3709,6 +3785,24 @@
     },
     {
       "album": {
+        "name": "Digital Silence",
+        "url": "https://open.spotify.com/album/0s2Z94Uv7DpRBkIx8UZnmp"
+      },
+      "artists": [
+        {
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198026,
+      "name": "Digital Silence",
+      "url": "https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo"
+    },
+    {
+      "album": {
         "name": "Planet Megatron",
         "url": "https://open.spotify.com/album/56RF57X1QdoA5qtGaLoKfP"
       },
@@ -4004,6 +4098,24 @@
       "duration_ms": 227892,
       "name": "Dunkelblau",
       "url": "https://open.spotify.com/track/018xarXmBSWkxODkNHf78I"
+    },
+    {
+      "album": {
+        "name": "Dunkler Rauch",
+        "url": "https://open.spotify.com/album/2umiu3cOJJcRQVxrZMneDI"
+      },
+      "artists": [
+        {
+          "name": "Beyazz",
+          "url": "https://open.spotify.com/artist/1U0pXcl8GZlZ48jTgnpGHl"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158426,
+      "name": "Dunkler Rauch",
+      "url": "https://open.spotify.com/track/2FT7fO8gcT7s5avhn9tYXD"
     },
     {
       "album": {
@@ -4790,7 +4902,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 175090,
       "name": "Fantasy (with GAYLE & Em Beihold)",
       "url": "https://open.spotify.com/track/5Ldhogrc9RWAjXUQ3tXuUD"
@@ -5774,7 +5886,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 135066,
       "name": "Glue Song (feat. Clairo)",
       "url": "https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm"
@@ -6586,7 +6698,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 158598,
       "name": "Home For My Heart",
       "url": "https://open.spotify.com/track/1PGc9smXkDk2I7v8zsI0GB"
@@ -7503,6 +7615,24 @@
     },
     {
       "album": {
+        "name": "irgendwie",
+        "url": "https://open.spotify.com/album/3EVnfHAno6ce0Nc2x4ZdaQ"
+      },
+      "artists": [
+        {
+          "name": "t-low",
+          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211576,
+      "name": "irgendwie",
+      "url": "https://open.spotify.com/track/6LzDR9u3l8RGC9YCizbEVC"
+    },
+    {
+      "album": {
         "name": "junge ceos 2",
         "url": "https://open.spotify.com/album/0RWXVPMpk6DMozmPPx5YCk"
       },
@@ -7704,7 +7834,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 165066,
       "name": "Juicy",
       "url": "https://open.spotify.com/track/4i81SNeu64liIEAytWqIOK"
@@ -8020,7 +8150,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
@@ -8086,6 +8216,24 @@
       "duration_ms": 153552,
       "name": "Kommissar",
       "url": "https://open.spotify.com/track/7dxd8383qb0FnMbnqQWRUW"
+    },
+    {
+      "album": {
+        "name": "Nador",
+        "url": "https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0"
+      },
+      "artists": [
+        {
+          "name": "Namika",
+          "url": "https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194613,
+      "name": "Kompliziert (Beatgees Single Mix)",
+      "url": "https://open.spotify.com/track/3Ps99GTz3XutGg1o1XNQcn"
     },
     {
       "album": {
@@ -8314,7 +8462,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 145706,
       "name": "Leicht",
       "url": "https://open.spotify.com/track/5gKjJUeVg91i66KQEq9xyB"
@@ -8968,6 +9116,28 @@
       "duration_ms": 121630,
       "name": "Mandala",
       "url": "https://open.spotify.com/track/3kY3lHSYB7Ow8hJl6whIBu"
+    },
+    {
+      "album": {
+        "name": "Maneater",
+        "url": "https://open.spotify.com/album/1IzIjAIaqxbIkcs8gjyifw"
+      },
+      "artists": [
+        {
+          "name": "JKRS",
+          "url": "https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv"
+        },
+        {
+          "name": "ECHO",
+          "url": "https://open.spotify.com/artist/5Spgsyg6iHiNNu3Bqg32cI"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139182,
+      "name": "Maneater - Sped Up",
+      "url": "https://open.spotify.com/track/5REQaVsZFgqCEKYY8evZ0I"
     },
     {
       "album": {
@@ -10115,6 +10285,24 @@
     },
     {
       "album": {
+        "name": "Neunzig",
+        "url": "https://open.spotify.com/album/4sTrbesmnig1SJYSBYAJBn"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145606,
+      "name": "Neunzig",
+      "url": "https://open.spotify.com/track/0pC6XqDVKQC4czY2bgF7nj"
+    },
+    {
+      "album": {
         "name": "Never Felt So Alone",
         "url": "https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX"
       },
@@ -10677,6 +10865,24 @@
     },
     {
       "album": {
+        "name": "OFFLINE",
+        "url": "https://open.spotify.com/album/0DQBs1u62ihgJjlsISodTb"
+      },
+      "artists": [
+        {
+          "name": "RIN",
+          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138352,
+      "name": "OFFLINE",
+      "url": "https://open.spotify.com/track/1DLVP4YYfmSey1gBcELyJg"
+    },
+    {
+      "album": {
         "name": "Oh Babe!",
         "url": "https://open.spotify.com/album/6NtQF9MfErIx60RNd4GPeo"
       },
@@ -11114,7 +11320,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 150496,
       "name": "Outsider",
       "url": "https://open.spotify.com/track/4yzTAy42BpRZCkaUFT0mUt"
@@ -11624,6 +11830,24 @@
       "duration_ms": 173225,
       "name": "POOL",
       "url": "https://open.spotify.com/track/0FOiymr4EaIZio96IYCxoj"
+    },
+    {
+      "album": {
+        "name": "POS",
+        "url": "https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133882,
+      "name": "POS",
+      "url": "https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL"
     },
     {
       "album": {
@@ -12478,6 +12702,28 @@
       "duration_ms": 159900,
       "name": "Secco Maracuja",
       "url": "https://open.spotify.com/track/3iATVzRm0E8scMQ7aWoAmh"
+    },
+    {
+      "album": {
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180386,
+      "name": "See You Again (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
     },
     {
       "album": {
@@ -13506,7 +13752,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 171428,
       "name": "start again",
       "url": "https://open.spotify.com/track/3pkacg4CSnP4i0K907SODj"
@@ -14838,7 +15084,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 152427,
       "name": "Uber X (Kathryn's Song)",
       "url": "https://open.spotify.com/track/6CYiZCYcKNHdQhDyCEJg9G"
@@ -15412,6 +15658,28 @@
       "duration_ms": 247875,
       "name": "VOID",
       "url": "https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek"
+    },
+    {
+      "album": {
+        "name": "TR\u00c4UM $OHO",
+        "url": "https://open.spotify.com/album/02eUYrNLibr9nuGGcMDTHm"
+      },
+      "artists": [
+        {
+          "name": "$OHO BANI",
+          "url": "https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf"
+        },
+        {
+          "name": "Ericson",
+          "url": "https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152320,
+      "name": "VOODOO",
+      "url": "https://open.spotify.com/track/6yS4KuB6WaYFeuApxi4lCz"
     },
     {
       "album": {
@@ -16122,7 +16390,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 133950,
       "name": "Welt Bereisen",
       "url": "https://open.spotify.com/track/7kLlUTvjeCBC4PMSwUyy0u"
@@ -16258,6 +16526,28 @@
       "duration_ms": 215217,
       "name": "What Was",
       "url": "https://open.spotify.com/track/1mWISjhqdUaOCJMYrEpLJ6"
+    },
+    {
+      "album": {
+        "name": "Life On Earth - EP",
+        "url": "https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "NO1-NOAH",
+          "url": "https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211373,
+      "name": "White Tee (with NO1-NOAH)",
+      "url": "https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Ou\u00e7a todos as novidades e hits do pop br aqui e agora! Foto: Vit\u00e3o",
+  "description": "Ou\u00e7a todos as novidades e hits do pop br aqui e agora! Foto: Marina Sena",
   "name": "Pop Brasil",
   "tracks": [
     {
@@ -1896,7 +1896,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 157857,
       "name": "LIVRE, LEVE E LOUCA",
       "url": "https://open.spotify.com/track/7aalW4HyPKgvAsBy1SLsc5"
@@ -2030,7 +2030,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 136235,
       "name": "MALA MEMO",
       "url": "https://open.spotify.com/track/2RBgpZ7VODWZUjr0onXIzW"
@@ -2750,6 +2750,24 @@
       "duration_ms": 137062,
       "name": "OLHADINHA",
       "url": "https://open.spotify.com/track/0pOZWyXIqROnYI24H5AVsk"
+    },
+    {
+      "album": {
+        "name": "V\u00edcio Inerente",
+        "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219438,
+      "name": "Olho no Gato",
+      "url": "https://open.spotify.com/track/6ZwMZUgN277HqoWaSZoFtX"
     },
     {
       "album": {
@@ -4144,6 +4162,28 @@
       "duration_ms": 185373,
       "name": "UMA BAD UMA FARRA",
       "url": "https://open.spotify.com/track/4xTuJuYX6eoypL09xTxvIM"
+    },
+    {
+      "album": {
+        "name": "Vai Vendo",
+        "url": "https://open.spotify.com/album/7khLcypJ5ujTq7aK5pAUm5"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162221,
+      "name": "Vai Vendo",
+      "url": "https://open.spotify.com/track/2D1YgoOgqGfEENCtsZNXMi"
     },
     {
       "album": {

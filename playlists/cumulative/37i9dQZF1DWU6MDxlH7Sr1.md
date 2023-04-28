@@ -4,7 +4,7 @@
 
 > Soft Jazz in the background of your cocktail party.
 
-248 songs - 16 hr 23 min
+250 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Muddy Trail](https://open.spotify.com/track/7xi4NE5HjjIU4sjk2OP466) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Muddy Trail](https://open.spotify.com/album/0mQjoCyVFtEqpTbNjahd8J) | 3:40 | 2023-01-05 |  |
 | [Mulled Wine](https://open.spotify.com/track/0vmKw0Rn07BRuhBBfOqIPq) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Mulled Wine](https://open.spotify.com/album/4CkQOAKGVlc6mjXHRwsKbK) | 3:27 | 2023-04-13 |  |
 | [My Heart Stood Still](https://open.spotify.com/track/1QbgNds5Ye8BovkywTbliF) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [My Heart Stood Still](https://open.spotify.com/album/2gfF3mlpt7aEvSiSyi1CEj) | 4:06 | 2022-12-01 |  |
+| [My Ideal](https://open.spotify.com/track/7auDnLAZDuygfAcDyaRwIN) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [My Ideal](https://open.spotify.com/album/1UPIz7n0yAGGuMaonT6Vho) | 3:20 | 2023-04-27 |  |
 | [My lids closed down](https://open.spotify.com/track/130PBtsuj1VyxWdn3fhN46) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [My lids closed down](https://open.spotify.com/album/6zxGisZi4shjN2KDc2MEll) | 3:51 | 2022-12-22 |  |
 | [My Sweetest You](https://open.spotify.com/track/1DvX7QmvoZMr2i2rIy6vPy) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [My Sweetest You](https://open.spotify.com/album/1BxZWb9WVLtpAjSLX25sRq) | 3:07 | 2023-01-12 |  |
 | [Nearness of You](https://open.spotify.com/track/28hv3qok0P0nu4K7OsmDRG) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Anything Goes](https://open.spotify.com/album/412H0mMOHjg3txzEFwBfXM) | 6:42 | 2022-04-26 | 2022-06-15 |
@@ -214,6 +215,7 @@
 | [Stormy Weather](https://open.spotify.com/track/2NXe3qATU2UhAfEgmzEzrt) | [Ellie Johnson Trio](https://open.spotify.com/artist/7a6Eji3kBivaMHQo3Yk6Zx) | [Street of Dreams](https://open.spotify.com/album/74J2vRQmnkZpwsswq1pFCT) | 4:50 | 2022-04-26 | 2023-02-10 |
 | [Strangest Sea](https://open.spotify.com/track/1uptgSNdSsDIVsdynJEoCe) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Strangest Sea](https://open.spotify.com/album/2KsZ2DjNxiSbfwWv49bHS9) | 3:34 | 2023-02-16 |  |
 | [Tangerine](https://open.spotify.com/track/5EudeHV7lSPc0n0J8C6yhq) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Coleman Hawkins Encounters Ben Webster \(Expanded Edition\)](https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ) | 5:20 | 2022-04-26 | 2022-10-14 |
+| [Taste my freedom](https://open.spotify.com/track/00Dd4UYauU9QlHxsXhZMxq) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Taste my freedom](https://open.spotify.com/album/0P4LvuMbkyqic5DC3yRwPR) | 2:58 | 2023-04-27 |  |
 | [That Beatnik Jive](https://open.spotify.com/track/7HdUp7WWpe9RQtwFk18WbG) | [The Dox Band](https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL) | [That Beatnik Jive](https://open.spotify.com/album/0vxXeeXzriLTRk8frbqEDe) | 3:19 | 2022-04-26 | 2023-02-17 |
 | [That Old Feeling](https://open.spotify.com/track/3IMc9STtRwcCwT7Nfk9rDa) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Cool Imagination](https://open.spotify.com/album/4HRKjc0n2Vo2WxRvTbe6UY) | 5:45 | 2022-06-29 | 2023-02-03 |
 | [That Old Feeling](https://open.spotify.com/track/42Tiidz9wZVBQSm9HZlcQv) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [The Complete RCA Victor Recordings](https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X) | 5:46 | 2022-04-26 | 2022-07-29 |

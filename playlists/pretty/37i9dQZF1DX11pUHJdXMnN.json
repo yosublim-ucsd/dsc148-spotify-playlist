@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 57522,
+  "num_followers": 57540,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMDJkYzg5ZTk5OTkwNjNjN2M2MDM5NzJjOTIwYTU3MTc3",
+  "snapshot_id": "MCxmZDA5ZjFlMzAxNGYxOTJkOTQ1ZDE4NDE5MDM5MTkwMDc4ZjQ4MjRh",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -91,6 +91,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Lille Vals",
+        "url": "https://open.spotify.com/album/04zfihfCFBkSpPUUzsDr5x"
+      },
+      "artists": [
+        {
+          "name": "Storken",
+          "url": "https://open.spotify.com/artist/2o1hHXIXOjhZpIY7V49HNi"
+        }
+      ],
+      "duration_ms": 235176,
+      "name": "Lille Vals",
+      "url": "https://open.spotify.com/track/6aBqWnfEdFIolhzPwp1XuQ"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Modern Romance",
         "url": "https://open.spotify.com/album/5JPxDmfJuWSErtOyRTeYuz"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 214049,
       "name": "Modern Romance",
       "url": "https://open.spotify.com/track/4CL7IheP2ryGEcMVOoAOUZ"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Lille Vals",
-        "url": "https://open.spotify.com/album/04zfihfCFBkSpPUUzsDr5x"
-      },
-      "artists": [
-        {
-          "name": "Storken",
-          "url": "https://open.spotify.com/artist/2o1hHXIXOjhZpIY7V49HNi"
-        }
-      ],
-      "duration_ms": 235176,
-      "name": "Lille Vals",
-      "url": "https://open.spotify.com/track/6aBqWnfEdFIolhzPwp1XuQ"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -159,22 +159,18 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Groove Society",
-        "url": "https://open.spotify.com/album/2Wo73jPoFsRo6LNldU3GnP"
+        "name": "Brain Machine",
+        "url": "https://open.spotify.com/album/2hZCIw0C4L89eTpCkwdkkA"
       },
       "artists": [
         {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        },
-        {
-          "name": "Wongo",
-          "url": "https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91"
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
         }
       ],
-      "duration_ms": 183372,
-      "name": "Groove Society",
-      "url": "https://open.spotify.com/track/2nFHaucEPE1dJp6A1AaBgV"
+      "duration_ms": 348053,
+      "name": "Brain Machine",
+      "url": "https://open.spotify.com/track/01CKAEZULi2Ddw4Xg4rDr7"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -195,18 +191,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Brain Machine",
-        "url": "https://open.spotify.com/album/2hZCIw0C4L89eTpCkwdkkA"
+        "name": "Groove Society",
+        "url": "https://open.spotify.com/album/2Wo73jPoFsRo6LNldU3GnP"
       },
       "artists": [
         {
-          "name": "Fideles",
-          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        {
+          "name": "Wongo",
+          "url": "https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91"
         }
       ],
-      "duration_ms": 348053,
-      "name": "Brain Machine",
-      "url": "https://open.spotify.com/track/01CKAEZULi2Ddw4Xg4rDr7"
+      "duration_ms": 183372,
+      "name": "Groove Society",
+      "url": "https://open.spotify.com/track/2nFHaucEPE1dJp6A1AaBgV"
     },
     {
       "added_at": "2021-08-27 15:45:01",

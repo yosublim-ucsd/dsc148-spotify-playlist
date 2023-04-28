@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 
 > música para insubordinados\. Blnko en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,444 likes - 69 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,454 likes - 69 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 | 68 | [Dron](https://open.spotify.com/track/4OVH5QRHEtL2j4bo0ATrjM) | [San Pedro el Cortez](https://open.spotify.com/artist/4qMybSJtpFeNmHYfJ1rXkl) | [Un Poco Más de Luz](https://open.spotify.com/album/1W2MjZPeWiwn5AZw3OPyKL) | 4:33 |
 | 69 | [Esqueletos Muertos](https://open.spotify.com/track/14uJk2QtpPjPWv5LLMkVYo) | [Los Mundos](https://open.spotify.com/artist/5LuE4v1MFy7hynf3safSE2) | [La Fortaleza del Sonido](https://open.spotify.com/album/2zt8e2xw1GIw7nZ7w9UI5o) | 4:33 |
 
-Snapshot ID: `MTY4MTUxNDU0MiwwMDAwMDAwMGQzNWEyYzRlZjU4YzBhNDU4YWMxMDg1MzhhZjEwZDMy`
+Snapshot ID: `MCwwMDFjZWExMmY0M2Q4NDAyYjZlYWIzODE5ZWI1YmMyZGUzOWY2MTAw`

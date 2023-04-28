@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-463 songs - 1 day 3 hr 3 min
+464 songs - 1 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [After Midnight](https://open.spotify.com/track/5NSr0xa9Qf4J8xKzDnC0uq) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Mackenzie Sol](https://open.spotify.com/artist/3E9DITocLFcvQi0v56uhYA) | [After Midnight](https://open.spotify.com/album/4KAFS6Pax2U2GCVNQ7UN9p) | 2:58 | 2022-01-20 | 2022-03-30 |
 | [AGONIZE](https://open.spotify.com/track/6vuF3LYipww2DRhRJ9s7CH) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [Extra Terra](https://open.spotify.com/artist/4wjUOQuVVl9qzSdSX1E1yU) | [AGONIZE](https://open.spotify.com/album/19M2LqtlyvIT3VUnCD8rpx) | 3:43 | 2022-02-10 | 2022-04-21 |
 | [Airborne](https://open.spotify.com/track/5drPG7Jfd99IQuXA0yN5C9) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Airborne](https://open.spotify.com/album/0kjuzNLxD4KV0nJNaNN5iI) | 3:32 | 2022-01-07 | 2022-03-16 |
+| [Alive](https://open.spotify.com/track/4SMXofCR3LMXfslJkYiGPi) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [SKUM](https://open.spotify.com/artist/3hXFd22CK7momnB40jiq9Z) | [Alive](https://open.spotify.com/album/6CuR1PACokH09J3x3tZzJF) | 2:49 | 2023-04-27 |  |
 | [All Around Me](https://open.spotify.com/track/0upnL2PcB8zLkZf1q83TUg) | [Elypsis](https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL) | [All Around Me](https://open.spotify.com/album/7x03vOspUDZdFRmpJNwubO) | 3:36 | 2022-04-22 | 2022-07-02 |
 | [All But A Dream](https://open.spotify.com/track/4OGWWzeMDVVW0D1dqQCS2t) | [TOMB](https://open.spotify.com/artist/2PH8zrd38yO1SphvnINyvw), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [All But A Dream](https://open.spotify.com/album/3hoLLHytifFVosoaxST1fz) | 3:39 | 2023-02-22 |  |
 | [All I Need](https://open.spotify.com/track/1uBA1ThKO8teqrrpeMHk8h) | [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc) | [All I Need](https://open.spotify.com/album/5awCxZjxAP9h7gyPasDTNb) | 3:57 | 2022-02-02 | 2022-04-13 |
@@ -263,7 +264,7 @@
 | [Midnight](https://open.spotify.com/track/3lLGqbg4MFogvxKKgK3dQB) | [Mick Mazoo](https://open.spotify.com/artist/1Yx2K8SQD3JPnPesUxNqve) | [Midnight](https://open.spotify.com/album/6tekFxWP50ojlYn6jHL2vW) | 2:32 | 2022-09-23 | 2022-11-29 |
 | [Million Reasons](https://open.spotify.com/track/76LqoAbnaxhc9gaGnXluFy) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Gunnva](https://open.spotify.com/artist/7MVtZkqiCMOWchZpXPEMXh) | [Million Reasons](https://open.spotify.com/album/1shWfHagehxkIqbREDm5fx) | 3:25 | 2021-12-03 | 2022-03-09 |
 | [Mindbreak](https://open.spotify.com/track/6EP8jgwI9FS3qEEfNC6idl) | [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo) | [Mindbreak](https://open.spotify.com/album/21Cj0g82RnutbkJdlrwTkD) | 3:33 | 2023-03-31 |  |
-| [Mipango](https://open.spotify.com/track/0db4aR1MFcOKxeb6EG2T8P) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mipango](https://open.spotify.com/album/33kMA9mbcyCOFDLq9ms5Bz) | 4:16 | 2023-02-08 |  |
+| [Mipango](https://open.spotify.com/track/0db4aR1MFcOKxeb6EG2T8P) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mipango](https://open.spotify.com/album/33kMA9mbcyCOFDLq9ms5Bz) | 4:16 | 2023-02-08 | 2023-04-28 |
 | [Mirror](https://open.spotify.com/track/7Cn5dFvCckY1q6pB8u0WHt) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [Mirror](https://open.spotify.com/album/53QPiqPVq7KSdDH7y4gybZ) | 4:09 | 2022-10-07 | 2022-12-09 |
 | [Mirror Of Erised](https://open.spotify.com/track/3o9Er7gZnrvh6wHRiv7xac) | [Heard Right](https://open.spotify.com/artist/3KdFNDrWsHS0EePg8svgRl), [Meeting Molly](https://open.spotify.com/artist/55p34uHtqEyL4CoYAwqE2G) | [Mirror Of Erised](https://open.spotify.com/album/4Z59SWLNVf31yAhuhzQ7FH) | 3:46 | 2022-08-19 | 2022-11-01 |
 | [Mirrors](https://open.spotify.com/track/59j1aFqihFjuwZzii7lIYP) | [Maazel](https://open.spotify.com/artist/4w5LgUT6bfJnNq6wSFbND7), [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m), [BELELA](https://open.spotify.com/artist/6nPKt2CGXcKHtmbMq8Sq62) | [Mirrors](https://open.spotify.com/album/5NoNQjHMRQ0bmO2BfOoxv1) | 3:21 | 2022-07-26 | 2022-10-07 |

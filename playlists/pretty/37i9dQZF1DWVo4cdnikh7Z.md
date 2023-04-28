@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Pathu Thala
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,621 likes - 51 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,976 likes - 51 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 13 | [Veera Raja Veera](https://open.spotify.com/track/1W0QTc0qGWVhMOzxgoBgAQ) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Ponniyin Selvan Part\-2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Z3OH7wgqG7rLBZVVdTEcD) | 5:20 |
 | 14 | [Vaa Tharagaye \- From "Thiruvin Kural"](https://open.spotify.com/track/4xfIuzftQmEm3gjzTHJRH5) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Abhijith Anilkumar](https://open.spotify.com/artist/1WdTt5EOurwVpV5TzL6JiE) | [Vaa Tharagaye \(From "Thiruvin Kural"\)](https://open.spotify.com/album/5YfK8vtbT2AWk6JM9h6gMx) | 3:58 |
 | 15 | [Thunder Kaaran \(Promo Song\) \(From "Veeran"\)](https://open.spotify.com/track/4XpcWXlyWijBdG2xOnh6nO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Thunder Kaaran \(Promo Song\) \(From "Veeran"\) \- Single](https://open.spotify.com/album/7ke4KYv7CuifVsAXWUOgZM) | 2:36 |
-| 16 | [Thaniye Thaniye](https://open.spotify.com/track/1w2GmkHbWAw9pOk7ZiXBzH) | [Madan Dhanasekaran](https://open.spotify.com/artist/3bZGLnvP5jj9PzvqlEnr6O) | [Thaniye Thaniye \(From "Nodigalal Naam Karaiya"\)](https://open.spotify.com/album/3jVL1K7193ga4oW5uWqL2b) | 3:46 |
+| 16 | [Thaniye Thaniye \(From "Nodigalal Naam Karaiya"\)](https://open.spotify.com/track/11G6aSQaCE8ASg5apqotMJ) | [Madan Dhanasekaran](https://open.spotify.com/artist/3bZGLnvP5jj9PzvqlEnr6O), [Kandhavel Muthukumar](https://open.spotify.com/artist/0HSmpoD5y8KKajyoNBu7iN) | [Thaniye Thaniye \(From "Nodigalal Naam Karaiya"\) \- Single](https://open.spotify.com/album/3GtLshAvumYTqH3ImsCMQQ) | 3:46 |
 | 17 | [French Kuthu \- From "DD Returns"](https://open.spotify.com/track/7ATYl2ur3HoxNU5Ud835uX) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Durai](https://open.spotify.com/artist/4JczPNG9WBzHsuxs6X4qF0), [Gana Muthu](https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx) | [French Kuthu \(From "DD Returns"\)](https://open.spotify.com/album/1rEDOGt8llu3tVPQBQLF4i) | 3:50 |
 | 18 | [Uyira Udala](https://open.spotify.com/track/6TQHcdtkHojnP5yNqFASAz) | [Balaji Sri](https://open.spotify.com/artist/2KWjaqJEQSeDUVHzG5gm90) | [Rudhran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1FgqlH8kFT2s9UV7UHGvUe) | 5:06 |
 | 19 | [Pattuvaetti Santhanam \(From "Deivamachan"\)](https://open.spotify.com/track/4TPZH9E0o0CzQlSpFVqF5R) | [Mahalingam](https://open.spotify.com/artist/2MPdHKsDL3AQ1dfKfCjbr0), [Senthil Ganesh](https://open.spotify.com/artist/4tJdetTsMFHnS8UzgopPzn), [Rajalakshmi Senthilganesh](https://open.spotify.com/artist/7tgZJJ2T8gSqQm5mjxFX0s) | [Pattuvaetti Santhanam \(From "Deivamachan"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/1h7zbddydn40UjBrNzvVHR) | 4:08 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 50 | [Soul Of Varisu \(From "Varisu"\)](https://open.spotify.com/track/5xqK2eth6i7xgH2Ov817H5) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Soul Of Varisu \(From "Varisu"\)](https://open.spotify.com/album/4vlynRz37CoL7nCGHHCNU9) | 2:07 |
 | 51 | [Muthuvel Pandian Theme \(From "Jailer"\)](https://open.spotify.com/track/6Y4it0x4uP5rI0lv05ymk1) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Muthuvel Pandian Theme \(From "Jailer"\)](https://open.spotify.com/album/610ByI4AyDj3TdrMDZbKWS) | 1:43 |
 
-Snapshot ID: `MTY4MjUxMzU3OCwwMDAwMDAwMDAwMjI0Y2FlMjUwMTM1ZDU0YjU5YThmOWZiNmVjN2E5`
+Snapshot ID: `MCxmNDQ3NzcxOWE5YjZjZDRlODMxYjk5NmRjOWMwMDgwNmZiNzY0ZGUw`

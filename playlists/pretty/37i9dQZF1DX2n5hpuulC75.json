@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 251086,
+  "num_followers": 251135,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMGIxZGQ3MDE0NDcxMjM5Mjg4YzEyMTFjMDM2YzY3OTE1",
+  "snapshot_id": "MCwyOTgwODY5ZWQzOWJlMDRmZDA2NmMwOGQwZmUwMWEzYjY4ODIyNjYw",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -431,6 +431,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Someone\u2019s EP I",
+        "url": "https://open.spotify.com/album/0jaSZMSUlrruDM8FtSWK8d"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        }
+      ],
+      "duration_ms": 87037,
+      "name": "INT.",
+      "url": "https://open.spotify.com/track/0WDSwWdXOjXmzw6QOOxl7C"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "In Your Eyes (feat. Charlotte Day Wilson) [Nosaj Thing Remix]",
         "url": "https://open.spotify.com/album/21iBuI7GQwUDkBPErWjPi0"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 200504,
       "name": "In Your Eyes (feat. Charlotte Day Wilson) [Nosaj Thing Remix]",
       "url": "https://open.spotify.com/track/28atUbzCFihH4GA3dU1gVM"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Someone\u2019s EP I",
-        "url": "https://open.spotify.com/album/0jaSZMSUlrruDM8FtSWK8d"
-      },
-      "artists": [
-        {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        }
-      ],
-      "duration_ms": 87037,
-      "name": "INT.",
-      "url": "https://open.spotify.com/track/0WDSwWdXOjXmzw6QOOxl7C"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -791,22 +791,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Island -EP",
-        "url": "https://open.spotify.com/album/6iIWUNhbE9TbbLqDyMfh6W"
-      },
-      "artists": [
-        {
-          "name": "Nuit Oce\u0101n",
-          "url": "https://open.spotify.com/artist/4qhCtPKoctC2e4ADsXifH4"
-        }
-      ],
-      "duration_ms": 185758,
-      "name": "Together Alone",
-      "url": "https://open.spotify.com/track/2WgDeHNKHm2pjk9ee9eHzB"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "frozenthere",
         "url": "https://open.spotify.com/album/15YxAgNtUHQIUOpxF1uU8T"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 168919,
       "name": "Frozen Away",
       "url": "https://open.spotify.com/track/39cop5xNx9C1u5ssGvuUYL"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Island -EP",
+        "url": "https://open.spotify.com/album/6iIWUNhbE9TbbLqDyMfh6W"
+      },
+      "artists": [
+        {
+          "name": "Nuit Oce\u0101n",
+          "url": "https://open.spotify.com/artist/4qhCtPKoctC2e4ADsXifH4"
+        }
+      ],
+      "duration_ms": 185758,
+      "name": "Together Alone",
+      "url": "https://open.spotify.com/track/2WgDeHNKHm2pjk9ee9eHzB"
     },
     {
       "added_at": "2018-12-11 21:12:31",

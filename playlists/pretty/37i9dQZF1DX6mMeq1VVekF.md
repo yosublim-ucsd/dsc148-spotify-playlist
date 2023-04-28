@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Jim Legxacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,686 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,771 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 57 | [The Gang](https://open.spotify.com/track/2pKvxpetsBNnGK2L4H64Rf) | [Jimmy](https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo) | [The Gang](https://open.spotify.com/album/605XKaVg1al5g8F2FwSlSN) | 2:33 |
 | 58 | [Im Workin \(feat\. Jorja Smith\)](https://open.spotify.com/track/4cqjB1MFbHYmCzN6ENAbOV) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Now Or Never](https://open.spotify.com/album/5REuIeh4EBrkU0Nrz3n5jT) | 5:19 |
 | 59 | [Never Leave](https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Never Leave](https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp) | 3:16 |
-| 60 | [Memories](https://open.spotify.com/track/1ENMwElCCao8ejBvXCjWN1) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Cheers to the Best Memories](https://open.spotify.com/album/15D9ut0TGWReBDq4YRQoZA) | 2:44 |
+| 60 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 |
 
-Snapshot ID: `MTY2Njk1MzM3MCwwMDAwMDAwMGQ1NGNmNzM3MDk5MWQzMjdmYTI2ZWNmMmUzOTkxM2I4`
+Snapshot ID: `MCw3MWI5Y2NkZjgyMzQ5OTQ0Y2RkZGMyZjMyNGIzZDQ2Y2VmNjM3MjRl`

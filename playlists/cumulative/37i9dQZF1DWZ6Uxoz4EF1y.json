@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 339202,
       "name": "Nunca Fallas",
       "url": "https://open.spotify.com/track/5wC29DelLmDsXJpKmQlsnu"
@@ -2002,6 +2002,24 @@
       "duration_ms": 333893,
       "name": "Tu Reino Est\u00e1 Aqu\u00ed",
       "url": "https://open.spotify.com/track/0GcjwLuOdrvhJOuyHu2WB1"
+    },
+    {
+      "album": {
+        "name": "Como en Casa (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/73FehpfDRan2EMqqnlyW5V"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363772,
+      "name": "Vives T\u00fa Vivo Yo - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3aQ72h2vInTXJvE72Z6V0E"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZ6Uxoz4EF1y"

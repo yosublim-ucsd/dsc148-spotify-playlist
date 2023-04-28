@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Altijd fris in Fresh Hits. Cover: Turfy Gang, LA$$A",
+  "description": "Altijd fris in Fresh Hits. Cover: Trobi, Chivv, Kraantje Pappie, ADF Samski en Angela Groothuizen.",
   "name": "Fresh Hits",
   "tracks": [
     {
@@ -90,7 +90,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 134880,
       "name": "All Nighter",
       "url": "https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq"
@@ -137,6 +137,28 @@
     },
     {
       "album": {
+        "name": "Alles Al",
+        "url": "https://open.spotify.com/album/3QxGactgkMfFmkUaqvr0mP"
+      },
+      "artists": [
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184716,
+      "name": "Alles Al",
+      "url": "https://open.spotify.com/track/57rACaa3LKTruOGUENOXjW"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/3FPgvqujrdfzx0YxmAVLbv"
       },
@@ -174,6 +196,28 @@
       "duration_ms": 172264,
       "name": "Als Ik God Was",
       "url": "https://open.spotify.com/track/2MZrYnUf8qYIDuKaQeH5u8"
+    },
+    {
+      "album": {
+        "name": "Arranca (feat. Omega)",
+        "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166529,
+      "name": "Arranca (feat. Omega)",
+      "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
     },
     {
       "album": {
@@ -383,6 +427,24 @@
     },
     {
       "album": {
+        "name": "Can't Tame Her",
+        "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196939,
+      "name": "Can't Tame Her",
+      "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
+    },
+    {
+      "album": {
         "name": "Cap",
         "url": "https://open.spotify.com/album/3ZqC7VFrPrFboWxBRXxkPK"
       },
@@ -438,6 +500,28 @@
       "duration_ms": 184004,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY"
+    },
+    {
+      "album": {
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183652,
+      "name": "Chills (LA Hills)",
+      "url": "https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri"
     },
     {
       "album": {
@@ -670,6 +754,28 @@
       "duration_ms": 134785,
       "name": "Doe Wat Je Doet",
       "url": "https://open.spotify.com/track/5wwjB3x0ULGlZ4o2xJwqzM"
+    },
+    {
+      "album": {
+        "name": "Double Fantasy",
+        "url": "https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268235,
+      "name": "Double Fantasy (with Future)",
+      "url": "https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi"
     },
     {
       "album": {
@@ -985,6 +1091,28 @@
     },
     {
       "album": {
+        "name": "Hetzelfde",
+        "url": "https://open.spotify.com/album/2yjUK5W3QzyPXsTRwuhadJ"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Do",
+          "url": "https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176805,
+      "name": "Hetzelfde",
+      "url": "https://open.spotify.com/track/1mLP442VEMPztX02Gdsdfj"
+    },
+    {
+      "album": {
         "name": "How I'm Feeling Now",
         "url": "https://open.spotify.com/album/5Kys3ZEzHMqSbpKnyfSkqj"
       },
@@ -1236,7 +1364,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 161831,
       "name": "Leidseplein",
       "url": "https://open.spotify.com/track/0Hi3vw8XJ14gs9zE721zmN"
@@ -1254,7 +1382,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 212253,
       "name": "Like Crazy (English Version)",
       "url": "https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG"
@@ -1382,7 +1510,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 139714,
       "name": "MON LOVE OHO",
       "url": "https://open.spotify.com/track/6PkKOTfky37pdi6e0nJcm4"
@@ -1400,7 +1528,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 160166,
       "name": "Never Felt So Alone",
       "url": "https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo"
@@ -1605,6 +1733,28 @@
     },
     {
       "album": {
+        "name": "Princess Diana (with Nicki Minaj)",
+        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172125,
+      "name": "Princess Diana (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
+    },
+    {
+      "album": {
         "name": "Probleem",
         "url": "https://open.spotify.com/album/4GZrlw0RFM9gHQP5EYOCnX"
       },
@@ -1740,7 +1890,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 192150,
       "name": "Relax My Eyes",
       "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
@@ -1780,7 +1930,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 137032,
       "name": "Roddels",
       "url": "https://open.spotify.com/track/4LgdcClmqjGVmtPi6Sbfr7"
@@ -1874,10 +2024,28 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 177171,
       "name": "seeing you with other girls",
       "url": "https://open.spotify.com/track/05EL9Ml4T3MQ2ICIONhbEF"
+    },
+    {
+      "album": {
+        "name": "Sexy",
+        "url": "https://open.spotify.com/album/6F47aUJVE7SBwQ4KDJaOek"
+      },
+      "artists": [
+        {
+          "name": "Paul Sinha",
+          "url": "https://open.spotify.com/artist/0Uev3WqwkRc17NqfsvVv4K"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132421,
+      "name": "Sexy",
+      "url": "https://open.spotify.com/track/3ep4UFsL9NFPrTSReiJAWn"
     },
     {
       "album": {
@@ -2012,7 +2180,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 183374,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
@@ -2034,6 +2202,24 @@
       "duration_ms": 163833,
       "name": "Terugweg",
       "url": "https://open.spotify.com/track/134hM7EOwqwfsGoWCpmbcs"
+    },
+    {
+      "album": {
+        "name": "Ends & Begins",
+        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197465,
+      "name": "The Feels",
+      "url": "https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD"
     },
     {
       "album": {
@@ -2117,6 +2303,28 @@
     },
     {
       "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/6tsNIdt0wilaoDitknpvC7"
+      },
+      "artists": [
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        },
+        {
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172241,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/309wfX4hjhywRlyknsgm8N"
+    },
+    {
+      "album": {
         "name": "TRUSTFALL",
         "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
       },
@@ -2197,6 +2405,28 @@
     },
     {
       "album": {
+        "name": "Verliefd Zijn (feat. Siggy & D1ns)",
+        "url": "https://open.spotify.com/album/3boRKn7JsrSnbDZrh1FLmF"
+      },
+      "artists": [
+        {
+          "name": "Jack",
+          "url": "https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh"
+        },
+        {
+          "name": "Siggy & D1ns",
+          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135318,
+      "name": "Verliefd Zijn (feat. Siggy & D1ns)",
+      "url": "https://open.spotify.com/track/53kLfenUs12ePkYpIbH23B"
+    },
+    {
+      "album": {
         "name": "Vlinders (feat. Kleine John & Chavant\u00e9)",
         "url": "https://open.spotify.com/album/3vMpRJnBn2mIOq4GrWFbHl"
       },
@@ -2234,7 +2464,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 247873,
       "name": "VOID",
       "url": "https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek"
@@ -2376,7 +2606,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 183598,
       "name": "Zij Heeft Alles",
       "url": "https://open.spotify.com/track/5dX4ciRfkCnVV37T4CFuBa"

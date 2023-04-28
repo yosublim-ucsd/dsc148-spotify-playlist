@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 
 > Jungle is still massive!
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,133 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,165 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 2 | [Forbidden Feelingz](https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW) | 2:46 |
 | 3 | [Pianos Raining Down](https://open.spotify.com/track/5SaVTrUTi3uKLfoaKlrGCx) | [4am Kru](https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ), [McDonald & Jannetta](https://open.spotify.com/artist/2Ppde9KaDEpnZuaEAlELO3) | [Pianos Raining Down](https://open.spotify.com/album/3dO9tnx39lLoWZCHIWVszf) | 3:35 |
 | 4 | [E\-Motion](https://open.spotify.com/track/0zSqBdPMlyyY5AdBTne3uW) | [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD) | [E\-Motion / Higher / Antireal / The Flavor](https://open.spotify.com/album/3GmPy6CTFaAli0kYfau7tH) | 5:37 |
-| 5 | [Will U B There?](https://open.spotify.com/track/3Oqk9DfH1krBlATVWywyQ8) | [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [Will U B There?](https://open.spotify.com/album/1y2PXgYr9dCH3n2aVwLLzL) | 6:12 |
-| 6 | [Vérité](https://open.spotify.com/track/35IlONRZh770GBVlnU1lc9) | [Sully](https://open.spotify.com/artist/6ryGFEDvM7703b889hPUFZ) | [Vérité](https://open.spotify.com/album/2dJX4pK9GkznEQyYbxocAB) | 5:48 |
+| 5 | [Vérité](https://open.spotify.com/track/35IlONRZh770GBVlnU1lc9) | [Sully](https://open.spotify.com/artist/6ryGFEDvM7703b889hPUFZ) | [Vérité](https://open.spotify.com/album/2dJX4pK9GkznEQyYbxocAB) | 5:48 |
+| 6 | [Will U B There?](https://open.spotify.com/track/3Oqk9DfH1krBlATVWywyQ8) | [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [Will U B There?](https://open.spotify.com/album/1y2PXgYr9dCH3n2aVwLLzL) | 6:12 |
 | 7 | [BMW Track](https://open.spotify.com/track/1dkaug0lOb0SEd4H7jfTvl) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [BMW Track](https://open.spotify.com/album/5kCMzwAQ2IipDAYmUUt1Qn) | 7:23 |
 | 8 | [War Drum Riddim](https://open.spotify.com/track/4oUf1DEdGXozH3gTRJNmFW) | [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG), [Hugh Hardie](https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW) | [War Drum Riddim](https://open.spotify.com/album/19bUNg6Fc8OLF9ZTfwVtXZ) | 3:18 |
 | 9 | [Looking at Your Pager \- CLIPZ Remix](https://open.spotify.com/track/2Ikl0HGBDhvSPyPudSrM9s) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx), [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE) | [Looking At Your Pager \(CLIPZ Remix\)](https://open.spotify.com/album/3Y4VU7ZIN8v4XVK6J35tdj) | 3:46 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 31 | [Biscotti](https://open.spotify.com/track/3PyDt0e29NtPjA7H5Ry532) | [Fracture](https://open.spotify.com/artist/5imJlmURJJk9wicePHiqvo) | [Velocity EP](https://open.spotify.com/album/5eN1lpjJfhwdOXhGB0JGEe) | 4:15 |
 | 32 | [Close Proximity](https://open.spotify.com/track/43vW5IEEqHooORXeA3ya8t) | [Mani Festo](https://open.spotify.com/artist/5Uhy5m7C7k0TaJsDy6yQNg) | [SNKRX07](https://open.spotify.com/album/4pR4ysFeWi8PGqfn3balyw) | 8:34 |
 | 33 | [Swift](https://open.spotify.com/track/5zalkQp8ZAe4y1goA95S9X) | [SUCHI](https://open.spotify.com/artist/1O9dpGFcvuAU0tuAUpYg3N) | [Swift](https://open.spotify.com/album/70mlx5ec76uiUILSH8LCi6) | 6:41 |
-| 34 | [Renegade](https://open.spotify.com/track/28S4zWqYnMgVfbEPs9LQRS) | [Farsight](https://open.spotify.com/artist/2gTyZstDbbmkkohxLNchlj) | [Renegade EP](https://open.spotify.com/album/4IMTeGeaXZjZ0EBwmgg3YV) | 5:00 |
-| 35 | [Seen](https://open.spotify.com/track/4YYCOTGjYUTbbegTEzcYaP) | [Settle Down](https://open.spotify.com/artist/37qo0ES6034TySyNPFhmIC) | [The Trip EP](https://open.spotify.com/album/7DpB6Bu2fw1gvZxPz9pYdC) | 4:34 |
+| 34 | [Seen](https://open.spotify.com/track/4YYCOTGjYUTbbegTEzcYaP) | [Settle Down](https://open.spotify.com/artist/37qo0ES6034TySyNPFhmIC) | [The Trip EP](https://open.spotify.com/album/7DpB6Bu2fw1gvZxPz9pYdC) | 4:34 |
+| 35 | [Renegade](https://open.spotify.com/track/28S4zWqYnMgVfbEPs9LQRS) | [Farsight](https://open.spotify.com/artist/2gTyZstDbbmkkohxLNchlj) | [Renegade EP](https://open.spotify.com/album/4IMTeGeaXZjZ0EBwmgg3YV) | 5:00 |
 | 36 | [So Good](https://open.spotify.com/track/2jbNkB6CIW8vSwZMWknd8g) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1), [Mani Festo](https://open.spotify.com/artist/5Uhy5m7C7k0TaJsDy6yQNg) | [Denham Audio & Friends](https://open.spotify.com/album/42xpRc6lrJwY7yeXyhiOy9) | 5:54 |
 | 37 | [Live And Direct](https://open.spotify.com/track/64zlbq7x2ZgHPFbOUBe5v1) | [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3) | [FWD Thinking](https://open.spotify.com/album/6W1kKAUQ8LwG1vO0OXrKSr) | 6:02 |
 | 38 | [Elysian Fields \- Tim Reaper Remix](https://open.spotify.com/track/6scP0RQzLKk7grCc45KRpE) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Hooversound Presents: Special Request and Tim Reaper](https://open.spotify.com/album/2Qtn6rWtRti5CknQiWh6pi) | 6:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 49 | [Myth & Fire](https://open.spotify.com/track/1lNYFUJp7Uu3lAGQk4qxCi) | [Dead Man's Chest](https://open.spotify.com/artist/4iTe4cVejrjgGipSNujZgG) | [Myth & Fire](https://open.spotify.com/album/1PcFFp5G1xFZDP2woQYc7d) | 7:42 |
 | 50 | [Stretchpants](https://open.spotify.com/track/2EAYnPgqUx33xH4d1pOnJL) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd), [Dwarde](https://open.spotify.com/artist/6Yj4KzTFxItt3bGK9DuX4O) | [Stretchpants](https://open.spotify.com/album/64m3AzlGBOriNpCM8jTLd9) | 6:04 |
 
-Snapshot ID: `MTY3NDE4OTM4NCwwMDAwMDAwMDljN2VmMTM2Nzg4ZWI1NzhjMzcwNjliMmI2NDgxNDJk`
+Snapshot ID: `MCwzZDdhOTdjYzZiNmE5ZTY1MzYwMzY2MjhmNDhhODk5OTY4NWFmM2Zk`

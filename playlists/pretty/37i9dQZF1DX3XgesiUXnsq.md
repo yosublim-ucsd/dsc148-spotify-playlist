@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this? Cover: Saba
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,924 likes - 99 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,123 likes - 99 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 98 | [Triple Double](https://open.spotify.com/track/3HSWza0Gz15Ungnd4m4lMo) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Mac & Cheese 3](https://open.spotify.com/album/505pFOzDUrDR6ToQlPiXC2) | 3:47 |
 | 99 | [Sriracha](https://open.spotify.com/track/1ytLhTM7p87C4eWPRWqAC9) | [Naturally Born Strangers](https://open.spotify.com/artist/5gZQxOh12bhrAS9ioHB2qc) | [Sriracha](https://open.spotify.com/album/380OfomX0FAj25skGNBOiK) | 3:28 |
 
-Snapshot ID: `MTY4MjE5MDg2NCwwMDAwMDAwMGQ0MDE4ZjQxYWI4NjQyNWU3NGFlNDhkYWI1YjA2OTA3`
+Snapshot ID: `MCxmNDZkYTcxOGNiMThhNDUyNjYzOGM5YmJlMDZjMWQ5MWExZTQyYTIx`

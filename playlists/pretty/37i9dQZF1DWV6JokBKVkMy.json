@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 787,
+  "num_followers": 788,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIxMjMxNiwwMDAwMDAwMDk0ODg3MmZjMzExYjE3MTcxMmI3YWU1NDQzOWM4NmQ3",
+  "snapshot_id": "MCwwYTE0NjhiYjQ1ZWFiOGViNzdiNTAzNjQxMWQ5YWI4ZDI4M2YzN2Qz",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -311,6 +311,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "La vie est belle (Best Of)",
+        "url": "https://open.spotify.com/album/7b4DC8vFmz0jt4NtmTJpHZ"
+      },
+      "artists": [
+        {
+          "name": "AUBIN",
+          "url": "https://open.spotify.com/artist/280VCDJJf0MzVkC3EAws19"
+        }
+      ],
+      "duration_ms": 250520,
+      "name": "Met dan la joie",
+      "url": "https://open.spotify.com/track/0hBgxcNkXmsVY26iW0ytmZ"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Elle danse",
         "url": "https://open.spotify.com/album/6Vzxd84ITvDqoJSZGchxYV"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 216270,
       "name": "Zoli mamzel (Remix 2016) [feat. Kymai, DJ Cutson & DJ Cedrik]",
       "url": "https://open.spotify.com/track/16xNpqUqRcTEMIrpu1NNYH"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "La vie est belle (Best Of)",
-        "url": "https://open.spotify.com/album/7b4DC8vFmz0jt4NtmTJpHZ"
-      },
-      "artists": [
-        {
-          "name": "AUBIN",
-          "url": "https://open.spotify.com/artist/280VCDJJf0MzVkC3EAws19"
-        }
-      ],
-      "duration_ms": 250520,
-      "name": "Met dan la joie",
-      "url": "https://open.spotify.com/track/0hBgxcNkXmsVY26iW0ytmZ"
     },
     {
       "added_at": "2022-08-11 10:05:16",

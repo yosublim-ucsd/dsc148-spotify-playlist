@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: All Time Low
 
-935 songs - 2 day 1 hr 34 min
+936 songs - 2 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -619,7 +619,7 @@
 | [People That I Love Leave](https://open.spotify.com/track/2ZaPyFZBwurF7wCT9DKAVV) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [People That I Love Leave](https://open.spotify.com/album/0MHxYClcQzUce12K5Y2GfU) | 2:29 | 2023-04-23 |  |
 | [Perception](https://open.spotify.com/track/6HvvrqiyzJIjyapQZlimYM) | [Glacier Veins](https://open.spotify.com/artist/1ABJDb5VkWotQpFDOZeene) | [The World You Want to See](https://open.spotify.com/album/1gBLyhSgwqv9ZgE6pKOMLW) | 3:47 | 2021-12-10 | 2022-05-04 |
 | [perfect](https://open.spotify.com/track/6Gn3rGrd15zSZ8t9GxWVnF) | [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [perfect](https://open.spotify.com/album/6ZZ67CdjZLRXAw7AZg5Kae) | 2:36 | 2022-06-24 | 2023-04-12 |
-| [Perfectly Imperfect](https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Perfectly Imperfect](https://open.spotify.com/album/0mXpWAdx70cPnVJIkEDDsx) | 2:24 | 2022-06-17 |  |
+| [Perfectly Imperfect](https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Perfectly Imperfect](https://open.spotify.com/album/0mXpWAdx70cPnVJIkEDDsx) | 2:24 | 2022-06-17 | 2023-04-28 |
 | [Perfume \(feat\. Awsten Knight\)](https://open.spotify.com/track/2cWMwxmJ2TPuPLcNQdEaq5) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Awsten Knight](https://open.spotify.com/artist/6ORwdLfpd4q9V1BlktwYfZ) | [Perfume \(feat\. Awsten Knight\)](https://open.spotify.com/album/1qqoHvXacvsatI0g8bO2L7) | 2:50 | 2021-12-10 | 2022-06-18 |
 | [Permanent Rebellion](https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Permanent Rebellion](https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH) | 3:13 | 2022-08-26 | 2023-04-24 |
 | [phuck u](https://open.spotify.com/track/0kJv6Szx4qBhr7byrlgzgH) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [phuck u](https://open.spotify.com/album/7Ft8Bqn9YSbK1GS4iT2M0k) | 2:41 | 2021-12-10 | 2022-07-29 |
@@ -638,6 +638,7 @@
 | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz) | 3:11 | 2021-12-10 | 2022-12-03 |
 | [Pop Off!](https://open.spotify.com/track/6egCRoFoyITQsNDmZPzq1q) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Pop Off!](https://open.spotify.com/album/3tV7Af0i1nTxUZYcSUnjQf) | 3:08 | 2022-05-20 | 2022-08-06 |
 | [POS](https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [POS](https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5) | 2:13 | 2023-04-10 |  |
+| [Postcard Xo](https://open.spotify.com/track/2s5sA6obI4A2Up2LnNQI4k) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Postcard From A Living Hell](https://open.spotify.com/album/0rLlOMVqC1ays12giqcMRS) | 2:56 | 2023-04-23 |  |
 | [Prayers](https://open.spotify.com/track/6yuPyWu2I5RvuYgDIdaHWp) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Interrobang](https://open.spotify.com/album/1GYrUGqVBmMSA5W1WiAqLX) | 3:30 | 2022-02-04 | 2022-07-05 |
 | [pretend](https://open.spotify.com/track/0EdYGWGB9PfKIm5MU0Mk6x) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [pretend](https://open.spotify.com/album/7y7OzPOsYk7eXeNwwGECvn) | 2:59 | 2021-12-10 | 2022-07-28 |
 | [pretend](https://open.spotify.com/track/27HkyZkH0wo1Y0bvC8UxjU) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Trauma Factory](https://open.spotify.com/album/16rbUsslYCC9NnKIwLQUnY) | 2:59 | 2022-07-08 | 2023-04-11 |

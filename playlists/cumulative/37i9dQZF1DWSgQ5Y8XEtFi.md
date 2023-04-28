@@ -4,7 +4,7 @@
 
 > songs that break bones
 
-246 songs - 10 hr 58 min
+248 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Freak Mode](https://open.spotify.com/track/0Itw1DHI4ZfgskoX22k9I7) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Freak Mode](https://open.spotify.com/album/21XfypwulDuHsiuxd1XZ3W) | 2:37 | 2023-04-07 |  |
 | [from paris, with love](https://open.spotify.com/track/1AzF49Bow25YHLSxBOkWux) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [drive\-by lullabies](https://open.spotify.com/album/3aaCjvtpejeH1JVSnkRz05) | 3:02 | 2022-03-29 | 2022-07-21 |
 | [FUK IT](https://open.spotify.com/track/2sJ9eyUhgCQ30jW7DThGCt) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [FUK IT](https://open.spotify.com/album/4vPicl65KHeEsVRyeS58U1) | 2:40 | 2022-08-05 | 2022-08-09 |
+| [FUNKFEST](https://open.spotify.com/track/4qUQeGpgw3Gz1w4Ace91bJ) | [grouptherapy.](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [Jadagrace](https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk), [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB), [TJOnline](https://open.spotify.com/artist/11ytrEfijT8k5ZPNymeXfS) | [FUNKFEST](https://open.spotify.com/album/15mHUTBgoXJ5BGCRTO9FYx) | 3:39 | 2023-04-27 |  |
 | [G Walkin' on Yo Coffin](https://open.spotify.com/track/2I387d1XWsQfWcrwXVp2i0) | [Lil Boodang](https://open.spotify.com/artist/7pmErpU2pOjeGequFZxDnN) | [G Walkin' on Yo Coffin](https://open.spotify.com/album/0wIY52uLlqylbi1Ojps98V) | 1:39 | 2022-04-20 | 2023-01-28 |
 | [Galipette](https://open.spotify.com/track/4mQTPwMKPNLGODbonuGCtP) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Galipette](https://open.spotify.com/album/1TGFqdW4JDw4YAgSLAawb2) | 2:03 | 2022-03-29 | 2022-04-21 |
 | [GANG!!!](https://open.spotify.com/track/10autmmii4jqigGxSgOTiX) | [Wovvoka](https://open.spotify.com/artist/0pAZH4BCRTfoEudFH245iF) | [GANG!!!](https://open.spotify.com/album/4nP7j30TkBQLpY2wommHRs) | 1:28 | 2022-03-29 | 2022-04-21 |
@@ -236,6 +237,7 @@
 | [The Fall](https://open.spotify.com/track/47Zqh2WwmeDs9BK4FlK6tb) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Missing Molars \(Swnt Deluxe\)](https://open.spotify.com/album/39wVqebhXLGYGz9ry6xLPe) | 2:18 | 2022-06-27 | 2023-04-12 |
 | [The Plug](https://open.spotify.com/track/39hVR792uDgkDS14wLWmBy) | [Belaganas](https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q) | [The Plug](https://open.spotify.com/album/0yf9wxPXrA8bP1yB4iFpAP) | 3:08 | 2022-10-07 |  |
 | [THERAPY!](https://open.spotify.com/track/0GAWAziokyaTDufed63rEh) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [THERAPY!](https://open.spotify.com/album/54dV3Js8IaKPHDtF7vi6mW) | 2:13 | 2022-03-29 | 2022-07-28 |
+| [Turn It Up](https://open.spotify.com/track/6ou2irr0bEoGNaTejrOEBl) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Turn It Up](https://open.spotify.com/album/6A0KCC9AaG4ZTK8KhfxRVE) | 2:02 | 2023-04-27 |  |
 | [UBER EATS](https://open.spotify.com/track/5Uv2YYRGuqQ9sjIJq7WZZU) | [Northside Hollow](https://open.spotify.com/artist/7CTwgcHGx4eMeP4YeW1lC5), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [UBER EATS](https://open.spotify.com/album/08WdgJ9VIl80uCj9LFmwaz) | 2:25 | 2022-06-24 | 2022-07-15 |
 | [Vaderz \(feat\. Bktherula\)](https://open.spotify.com/track/7qUqxnNtlBgeo8h5yzVd19) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [Vaderz \(feat\. Bktherula\)](https://open.spotify.com/album/11K4TXQVAOi4BjaItkuJ1X) | 1:49 | 2022-06-24 | 2022-07-13 |
 | [Vamp Anthem](https://open.spotify.com/track/4CzhtKifG867Lu5DNQVBSA) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 2:04 | 2022-03-29 | 2022-06-01 |

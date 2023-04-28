@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Niky Savage in cover.",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Kid Yugi in cover.",
   "name": "Raptopia",
   "tracks": [
     {
@@ -378,7 +378,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 125208,
       "name": "A Giro",
       "url": "https://open.spotify.com/track/5DLLzNLx7xpwRoifmJfIIN"
@@ -1955,6 +1955,28 @@
     },
     {
       "album": {
+        "name": "Cultura",
+        "url": "https://open.spotify.com/album/2dsU9lVMag4W7Fu12cdQEt"
+      },
+      "artists": [
+        {
+          "name": "Diss Gacha",
+          "url": "https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu"
+        },
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123333,
+      "name": "Captato",
+      "url": "https://open.spotify.com/track/4kSEO7zOY10fak3s1KF04k"
+    },
+    {
+      "album": {
         "name": "Cartier #1",
         "url": "https://open.spotify.com/album/0j18KQ9kbszuYt5GxDlj8D"
       },
@@ -3031,6 +3053,24 @@
     },
     {
       "album": {
+        "name": "Diario del Bando 2",
+        "url": "https://open.spotify.com/album/5MTUG1xRqcYHxuxHrS8Yr8"
+      },
+      "artists": [
+        {
+          "name": "Mikush",
+          "url": "https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163270,
+      "name": "Diario del Bando 2",
+      "url": "https://open.spotify.com/track/3stZIWWtwMg8JxBgT12YMP"
+    },
+    {
+      "album": {
         "name": "DIO DELLE TRUFFE",
         "url": "https://open.spotify.com/album/5xEIPaOoT054qTJhBhB4ld"
       },
@@ -3744,7 +3784,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 197142,
       "name": "Fifty-fifty",
       "url": "https://open.spotify.com/track/4OsvF0xfpZkUUjssbMR3rV"
@@ -3992,6 +4032,28 @@
       "duration_ms": 167700,
       "name": "From Sant'",
       "url": "https://open.spotify.com/track/2SyEPyC2ug8JqJFHPOZubr"
+    },
+    {
+      "album": {
+        "name": "FRONTLINE",
+        "url": "https://open.spotify.com/album/5wjGlwlolMXFPLF11agj21"
+      },
+      "artists": [
+        {
+          "name": "Axell",
+          "url": "https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka"
+        },
+        {
+          "name": "Low-Red",
+          "url": "https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147647,
+      "name": "FRONTLINE",
+      "url": "https://open.spotify.com/track/6bfT7VdB3Of537HLUczrZ1"
     },
     {
       "album": {
@@ -4518,7 +4580,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 156144,
       "name": "Grazie, Addio",
       "url": "https://open.spotify.com/track/1LqJ8OhvEjnMRKq4PWiaik"
@@ -6245,6 +6307,24 @@
     },
     {
       "album": {
+        "name": "MARE D'INVERNO",
+        "url": "https://open.spotify.com/album/4loYrn68GcsB61ERQMaG2J"
+      },
+      "artists": [
+        {
+          "name": "Il Ghost",
+          "url": "https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "MARE D'INVERNO",
+      "url": "https://open.spotify.com/track/4Swgi2Bhc5tOItkVV6kRWD"
+    },
+    {
+      "album": {
         "name": "Mari\u00e8 (feat. Kassimi)",
         "url": "https://open.spotify.com/album/47yhTU5uScGBADR14wgyC3"
       },
@@ -6737,6 +6817,24 @@
     },
     {
       "album": {
+        "name": "Moped",
+        "url": "https://open.spotify.com/album/2aPFHvvfAtAfDXtQ5jHNxS"
+      },
+      "artists": [
+        {
+          "name": "2Rari",
+          "url": "https://open.spotify.com/artist/70WMQrrPQeYY9JaPVx1nWf"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134769,
+      "name": "Moped",
+      "url": "https://open.spotify.com/track/6P7sMzrgLb3JGOLHUCPsUh"
+    },
+    {
+      "album": {
         "name": "MOVIMENTO + THE DAY AFTER",
         "url": "https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG"
       },
@@ -6966,7 +7064,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 161149,
       "name": "NASTY",
       "url": "https://open.spotify.com/track/62qL3R7T6G4wgHBpZ8efBu"
@@ -7218,6 +7316,24 @@
       "duration_ms": 188031,
       "name": "NON MI VA",
       "url": "https://open.spotify.com/track/47VdKYEREq0LtxxHr12nUw"
+    },
+    {
+      "album": {
+        "name": "Non passa l\u2019aria",
+        "url": "https://open.spotify.com/album/5KSnm4ibO84on8sxwzW8JT"
+      },
+      "artists": [
+        {
+          "name": "Uzi Lvke",
+          "url": "https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163828,
+      "name": "Non passa l\u2019aria",
+      "url": "https://open.spotify.com/track/3RnjkVaMG2n72ZzHwuzuDY"
     },
     {
       "album": {
@@ -7842,7 +7958,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 133184,
       "name": "Pietre Roventi",
       "url": "https://open.spotify.com/track/3lk5nbbxln0M5MsbzboGR6"
@@ -8128,7 +8244,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 133890,
       "name": "PROBLEMI",
       "url": "https://open.spotify.com/track/0tQ0qg8v57q56pG8o9Jczt"
@@ -8292,7 +8408,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 169687,
       "name": "PROZAC",
       "url": "https://open.spotify.com/track/35exRd1JBdAV03NvziRYs4"
@@ -8366,6 +8482,28 @@
       "duration_ms": 166516,
       "name": "QUANTO CASINO",
       "url": "https://open.spotify.com/track/2UYfrM2ulvxYroL2ZQjRVY"
+    },
+    {
+      "album": {
+        "name": "Quarto di Bue",
+        "url": "https://open.spotify.com/album/2cYiDWSENKod8Ht0C13Bya"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106326,
+      "name": "Quarto di Bue",
+      "url": "https://open.spotify.com/track/2EE4ytQ5LpuyIjDircmLzQ"
     },
     {
       "album": {
@@ -8667,6 +8805,24 @@
     },
     {
       "album": {
+        "name": "RINASCITA",
+        "url": "https://open.spotify.com/album/6oNPn6zFAFOMvRxDxPgOlh"
+      },
+      "artists": [
+        {
+          "name": "Skinny",
+          "url": "https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136171,
+      "name": "RINASCITA",
+      "url": "https://open.spotify.com/track/2N8gO97yxtn10cBIklCllK"
+    },
+    {
+      "album": {
         "name": "RM DRILL",
         "url": "https://open.spotify.com/album/1WUBE6hwh6G1xMcOGPJiEI"
       },
@@ -8852,7 +9008,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 147024,
       "name": "Roulette",
       "url": "https://open.spotify.com/track/2UgRqLbs5QxyibdC8UyQ2I"
@@ -9092,7 +9248,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 130212,
       "name": "Se ti amo",
       "url": "https://open.spotify.com/track/0DuEBifTJH7UUCCZXxffXh"
@@ -10264,7 +10420,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 209684,
       "name": "Towro Industria 2",
       "url": "https://open.spotify.com/track/0kE2Ke5hNq50j9MHwMqh8i"
@@ -10330,6 +10486,40 @@
       "duration_ms": 184629,
       "name": "Traumi",
       "url": "https://open.spotify.com/track/2LIM6FxHKqRUcz2gP3byUc"
+    },
+    {
+      "album": {
+        "name": "TREMA MILANO (feat. Kerim Levrai, MadPrince, Marsiglia, Orfedi)",
+        "url": "https://open.spotify.com/album/4exwxMCkrncLNP8iyieGHA"
+      },
+      "artists": [
+        {
+          "name": "GROUP5",
+          "url": "https://open.spotify.com/artist/2hx4C3GnYXZh96qs9jgZFu"
+        },
+        {
+          "name": "Kerim Levrai",
+          "url": "https://open.spotify.com/artist/2snabMyKqMDWa5rbHSP1ta"
+        },
+        {
+          "name": "MadPrince",
+          "url": "https://open.spotify.com/artist/3fkjitJsxIKSHzyjqwg4MI"
+        },
+        {
+          "name": "Marsiglia",
+          "url": "https://open.spotify.com/artist/360DKtml0W70xlAGX7bEwD"
+        },
+        {
+          "name": "Orfedi",
+          "url": "https://open.spotify.com/artist/6tWqhYyCcRdweFdayEdUue"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195415,
+      "name": "TREMA MILANO (feat. Kerim Levrai, MadPrince, Marsiglia, Orfedi)",
+      "url": "https://open.spotify.com/track/186iThV7WMlfb7qbuxDWLm"
     },
     {
       "album": {
@@ -11138,6 +11328,24 @@
       "duration_ms": 117576,
       "name": "Yung 3p 3",
       "url": "https://open.spotify.com/track/59GG4S5hoVOrufgOnruEcI"
+    },
+    {
+      "album": {
+        "name": "Z4 (don't play)",
+        "url": "https://open.spotify.com/album/0SQQWjkyt1DtDIUhA8AxhP"
+      },
+      "artists": [
+        {
+          "name": "emanuelino",
+          "url": "https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140588,
+      "name": "Z4 (don't play)",
+      "url": "https://open.spotify.com/track/0xrwA0Ww9aHqitSzxBJ858"
     },
     {
       "album": {

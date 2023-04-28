@@ -1,12 +1,12 @@
 {
   "description": "Jazzy blips and blops. Cover: Flying Lotus",
-  "num_followers": 550686,
+  "num_followers": 550786,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDZmMDFlMWU3MzNkNzFmMjdkYjM4MGJkMTdiNmI4MTVi",
+  "snapshot_id": "MCwxMTZkODdhMzRmMDg4Y2E0YWExMjI3YmZmNTExNzdlY2ZhMWNkMDQw",
   "tracks": [
     {
       "added_at": "2023-01-13 05:01:00",
@@ -545,22 +545,6 @@
       "url": "https://open.spotify.com/track/6x0b0IJW47OZPkEr166zib"
     },
     {
-      "added_at": "2022-04-25 13:59:49",
-      "album": {
-        "name": "Princess Meadow (Morning)",
-        "url": "https://open.spotify.com/album/0H8FLIbILUgsdxj2xkZJQK"
-      },
-      "artists": [
-        {
-          "name": "Joy Guerrilla",
-          "url": "https://open.spotify.com/artist/1wKZCBliNvp21MffTj35TE"
-        }
-      ],
-      "duration_ms": 131161,
-      "name": "Princess Meadow (Morning)",
-      "url": "https://open.spotify.com/track/63KBUxunksAInY8IP2e15L"
-    },
-    {
       "added_at": "2021-10-08 04:02:00",
       "album": {
         "name": "Bonzai View",
@@ -575,6 +559,22 @@
       "duration_ms": 212527,
       "name": "Bonzai View",
       "url": "https://open.spotify.com/track/6fQByeRUNdzB9g1dU5RvcK"
+    },
+    {
+      "added_at": "2022-04-25 13:59:49",
+      "album": {
+        "name": "Princess Meadow (Morning)",
+        "url": "https://open.spotify.com/album/0H8FLIbILUgsdxj2xkZJQK"
+      },
+      "artists": [
+        {
+          "name": "Joy Guerrilla",
+          "url": "https://open.spotify.com/artist/1wKZCBliNvp21MffTj35TE"
+        }
+      ],
+      "duration_ms": 131161,
+      "name": "Princess Meadow (Morning)",
+      "url": "https://open.spotify.com/track/63KBUxunksAInY8IP2e15L"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -625,22 +625,6 @@
       "url": "https://open.spotify.com/track/1Im7xmfGDJo1WpnSdJNHbr"
     },
     {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Kosmological Glitches",
-        "url": "https://open.spotify.com/album/07PMUINr7gclUOOk1NLZw5"
-      },
-      "artists": [
-        {
-          "name": "Elusive",
-          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
-        }
-      ],
-      "duration_ms": 89898,
-      "name": "In Touch With The Kosmos",
-      "url": "https://open.spotify.com/track/0oSTB0VWnqK9w6RskAwPe0"
-    },
-    {
       "added_at": "2021-09-10 04:02:00",
       "album": {
         "name": "Half-Bloom",
@@ -655,6 +639,22 @@
       "duration_ms": 267500,
       "name": "Half-Bloom",
       "url": "https://open.spotify.com/track/6kt3SVY7gvF520bTmVpYdL"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Kosmological Glitches",
+        "url": "https://open.spotify.com/album/07PMUINr7gclUOOk1NLZw5"
+      },
+      "artists": [
+        {
+          "name": "Elusive",
+          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
+        }
+      ],
+      "duration_ms": 89898,
+      "name": "In Touch With The Kosmos",
+      "url": "https://open.spotify.com/track/0oSTB0VWnqK9w6RskAwPe0"
     },
     {
       "added_at": "2022-07-05 15:03:47",
@@ -913,6 +913,34 @@
       "url": "https://open.spotify.com/track/60DBYLqdLMqF3x7FS0yL7K"
     },
     {
+      "added_at": "2022-07-05 15:03:47",
+      "album": {
+        "name": "Limited Time Only",
+        "url": "https://open.spotify.com/album/6TAj2O65OHQReNLVGck44m"
+      },
+      "artists": [
+        {
+          "name": "Glimlip",
+          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+        },
+        {
+          "name": "S\u00f8ren S\u00f8strom",
+          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
+        },
+        {
+          "name": "Soul Food Horns",
+          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
+        },
+        {
+          "name": "Yasper",
+          "url": "https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt"
+        }
+      ],
+      "duration_ms": 213936,
+      "name": "Limited Time Only",
+      "url": "https://open.spotify.com/track/7wiolaEKwMpf1buxKaDUhA"
+    },
+    {
       "added_at": "2023-03-03 05:01:00",
       "album": {
         "name": "Phoenix & Panther",
@@ -961,34 +989,6 @@
       "url": "https://open.spotify.com/track/7wixddhTzD45rqSQU6qjN0"
     },
     {
-      "added_at": "2022-07-05 15:03:47",
-      "album": {
-        "name": "Limited Time Only",
-        "url": "https://open.spotify.com/album/6TAj2O65OHQReNLVGck44m"
-      },
-      "artists": [
-        {
-          "name": "Glimlip",
-          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
-        },
-        {
-          "name": "S\u00f8ren S\u00f8strom",
-          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
-        },
-        {
-          "name": "Soul Food Horns",
-          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
-        },
-        {
-          "name": "Yasper",
-          "url": "https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt"
-        }
-      ],
-      "duration_ms": 213936,
-      "name": "Limited Time Only",
-      "url": "https://open.spotify.com/track/7wiolaEKwMpf1buxKaDUhA"
-    },
-    {
       "added_at": "2021-01-29 05:01:00",
       "album": {
         "name": "Vacuum Lessons",
@@ -1021,6 +1021,22 @@
       "url": "https://open.spotify.com/track/5QwPQLZIG0RwNn1NwiWskp"
     },
     {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "Moonlight Love Affair",
+        "url": "https://open.spotify.com/album/1AJhYeele3DMImHJ0SzVPp"
+      },
+      "artists": [
+        {
+          "name": "Parov Stelar",
+          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+        }
+      ],
+      "duration_ms": 324000,
+      "name": "Dirty Mariposa",
+      "url": "https://open.spotify.com/track/7hiCGd7VM7ToeLZgo0Mvo7"
+    },
+    {
       "added_at": "2022-11-11 05:01:00",
       "album": {
         "name": "Mirage",
@@ -1045,22 +1061,6 @@
       "url": "https://open.spotify.com/track/504JluU0SrgimOW69mwCYx"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "Moonlight Love Affair",
-        "url": "https://open.spotify.com/album/1AJhYeele3DMImHJ0SzVPp"
-      },
-      "artists": [
-        {
-          "name": "Parov Stelar",
-          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
-        }
-      ],
-      "duration_ms": 324000,
-      "name": "Dirty Mariposa",
-      "url": "https://open.spotify.com/track/7hiCGd7VM7ToeLZgo0Mvo7"
-    },
-    {
       "added_at": "2021-04-02 05:01:00",
       "album": {
         "name": "Deep in the Pocket",
@@ -1077,22 +1077,6 @@
       "url": "https://open.spotify.com/track/3OpUldKxZMvn7eu3TIcLpK"
     },
     {
-      "added_at": "2023-01-20 05:01:00",
-      "album": {
-        "name": "We Don't Need No Roads",
-        "url": "https://open.spotify.com/album/7uSZRFLQ992jsB8ukJSPYm"
-      },
-      "artists": [
-        {
-          "name": "FKAjazz",
-          "url": "https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr"
-        }
-      ],
-      "duration_ms": 258334,
-      "name": "We Don't Need No Roads",
-      "url": "https://open.spotify.com/track/2sc6ZZznzgg2h1NnY8fYbJ"
-    },
-    {
       "added_at": "2021-04-02 05:01:00",
       "album": {
         "name": "Between Days",
@@ -1107,6 +1091,22 @@
       "duration_ms": 280000,
       "name": "Friends",
       "url": "https://open.spotify.com/track/6fHHWT7Vfdv71c70PHp5wq"
+    },
+    {
+      "added_at": "2021-05-21 04:01:00",
+      "album": {
+        "name": "Quantum Blackness",
+        "url": "https://open.spotify.com/album/2uKITXprtT9Wm9EUHIvbL4"
+      },
+      "artists": [
+        {
+          "name": "Kareem Ali",
+          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
+        }
+      ],
+      "duration_ms": 387514,
+      "name": "Black Space Jazz",
+      "url": "https://open.spotify.com/track/09jflWcNgyBd0PiigbWVMZ"
     },
     {
       "added_at": "2021-07-09 04:02:00",
@@ -1129,20 +1129,20 @@
       "url": "https://open.spotify.com/track/7I2WxS94I9LWQSg1ACHOTN"
     },
     {
-      "added_at": "2021-05-21 04:01:00",
+      "added_at": "2023-01-20 05:01:00",
       "album": {
-        "name": "Quantum Blackness",
-        "url": "https://open.spotify.com/album/2uKITXprtT9Wm9EUHIvbL4"
+        "name": "We Don't Need No Roads",
+        "url": "https://open.spotify.com/album/7uSZRFLQ992jsB8ukJSPYm"
       },
       "artists": [
         {
-          "name": "Kareem Ali",
-          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
+          "name": "FKAjazz",
+          "url": "https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr"
         }
       ],
-      "duration_ms": 387514,
-      "name": "Black Space Jazz",
-      "url": "https://open.spotify.com/track/09jflWcNgyBd0PiigbWVMZ"
+      "duration_ms": 258334,
+      "name": "We Don't Need No Roads",
+      "url": "https://open.spotify.com/track/2sc6ZZznzgg2h1NnY8fYbJ"
     },
     {
       "added_at": "2021-02-26 05:01:00",
@@ -1233,6 +1233,22 @@
       "url": "https://open.spotify.com/track/4TeQP19oy8NogZs0RxB4v1"
     },
     {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Thoughts Under Water",
+        "url": "https://open.spotify.com/album/6zI0OaciTJ5QeypkEwo0fO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Brown",
+          "url": "https://open.spotify.com/artist/0pY32AUl91JjgiuLHuuIcR"
+        }
+      ],
+      "duration_ms": 203597,
+      "name": "I Love Her",
+      "url": "https://open.spotify.com/track/7EuCAIsAs6yAA6zk7rHn1G"
+    },
+    {
       "added_at": "2022-11-11 05:01:00",
       "album": {
         "name": "Childhood Memories (Remix)",
@@ -1271,22 +1287,6 @@
       "duration_ms": 202900,
       "name": "Tin Tin Deo - NerdStar Remix",
       "url": "https://open.spotify.com/track/6MpFDEgG4ehiQUI7VMSWfB"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Thoughts Under Water",
-        "url": "https://open.spotify.com/album/6zI0OaciTJ5QeypkEwo0fO"
-      },
-      "artists": [
-        {
-          "name": "Daniel Brown",
-          "url": "https://open.spotify.com/artist/0pY32AUl91JjgiuLHuuIcR"
-        }
-      ],
-      "duration_ms": 203597,
-      "name": "I Love Her",
-      "url": "https://open.spotify.com/track/7EuCAIsAs6yAA6zk7rHn1G"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1433,6 +1433,22 @@
       "url": "https://open.spotify.com/track/7nTmEAGxLIQt0BK7f3CRcD"
     },
     {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Night Lands",
+        "url": "https://open.spotify.com/album/1ip4yEivNrUpMTIuxvOg82"
+      },
+      "artists": [
+        {
+          "name": "Sunda Arc",
+          "url": "https://open.spotify.com/artist/0cWp5s4RU3EB86Vo0TQwFj"
+        }
+      ],
+      "duration_ms": 308313,
+      "name": "Beacons",
+      "url": "https://open.spotify.com/track/7F3bKPr4SZCS8PmsQiLWeX"
+    },
+    {
       "added_at": "2022-09-23 04:01:00",
       "album": {
         "name": "Cloud Bounce",
@@ -1461,20 +1477,36 @@
       "url": "https://open.spotify.com/track/1opaCjv9VoQ7ZPdlXpObXs"
     },
     {
-      "added_at": "2022-11-18 05:01:00",
+      "added_at": "2022-02-11 19:25:22",
       "album": {
-        "name": "Night Lands",
-        "url": "https://open.spotify.com/album/1ip4yEivNrUpMTIuxvOg82"
+        "name": "Modern Uganda",
+        "url": "https://open.spotify.com/album/5RCxLPzja4tDpeJBKtqh5R"
       },
       "artists": [
         {
-          "name": "Sunda Arc",
-          "url": "https://open.spotify.com/artist/0cWp5s4RU3EB86Vo0TQwFj"
+          "name": "delay_ok",
+          "url": "https://open.spotify.com/artist/2oT9LKmddTQnPCEfbJH935"
         }
       ],
-      "duration_ms": 308313,
-      "name": "Beacons",
-      "url": "https://open.spotify.com/track/7F3bKPr4SZCS8PmsQiLWeX"
+      "duration_ms": 361602,
+      "name": "Yanavy Obaki",
+      "url": "https://open.spotify.com/track/64jaRzgaubbHXplhfauxYz"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Tiger's Den (Radio Edit)",
+        "url": "https://open.spotify.com/album/2sEVJZfiIUrwkC7ejA3KpP"
+      },
+      "artists": [
+        {
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+        }
+      ],
+      "duration_ms": 271375,
+      "name": "Tiger's Den - Radio Edit",
+      "url": "https://open.spotify.com/track/0CWG5wltokNkZkrgS38bxE"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1507,38 +1539,6 @@
       "duration_ms": 466627,
       "name": "Golden",
       "url": "https://open.spotify.com/track/31ARMQ42WOpH3vEObeEbQE"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Tiger's Den (Radio Edit)",
-        "url": "https://open.spotify.com/album/2sEVJZfiIUrwkC7ejA3KpP"
-      },
-      "artists": [
-        {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
-        }
-      ],
-      "duration_ms": 271375,
-      "name": "Tiger's Den - Radio Edit",
-      "url": "https://open.spotify.com/track/0CWG5wltokNkZkrgS38bxE"
-    },
-    {
-      "added_at": "2022-02-11 19:25:22",
-      "album": {
-        "name": "Modern Uganda",
-        "url": "https://open.spotify.com/album/5RCxLPzja4tDpeJBKtqh5R"
-      },
-      "artists": [
-        {
-          "name": "delay_ok",
-          "url": "https://open.spotify.com/artist/2oT9LKmddTQnPCEfbJH935"
-        }
-      ],
-      "duration_ms": 361602,
-      "name": "Yanavy Obaki",
-      "url": "https://open.spotify.com/track/64jaRzgaubbHXplhfauxYz"
     },
     {
       "added_at": "2021-09-24 04:02:00",

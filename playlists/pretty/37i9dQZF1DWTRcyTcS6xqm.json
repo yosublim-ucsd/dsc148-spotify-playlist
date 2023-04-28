@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 9143,
+  "num_followers": 9160,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMDUxNGY4ZjRmZmJhYTViYTUyOTZjZDdjZjFmYTE2ZTBh",
+  "snapshot_id": "MCxiZGNmYzU4NjBhNzUxMjUzYjU2NTNkNzg1NzA5NzZhYWUxNGU2NzU0",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -643,18 +643,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Dig In Deep",
-        "url": "https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR"
+        "name": "Stronger For It",
+        "url": "https://open.spotify.com/album/1sCv9I6R8QMWsjSG9yxJcA"
       },
       "artists": [
         {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+          "name": "Janiva Magness",
+          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
         }
       ],
-      "duration_ms": 290160,
-      "name": "Shakin' Shakin' Shakes",
-      "url": "https://open.spotify.com/track/5SjmKLwVsxEgiuWmqVBfPA"
+      "duration_ms": 156773,
+      "name": "Whoop And Holler",
+      "url": "https://open.spotify.com/track/0rOgDYmxNfgSlHyIuvBt5z"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -675,18 +675,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Stronger For It",
-        "url": "https://open.spotify.com/album/1sCv9I6R8QMWsjSG9yxJcA"
+        "name": "Dig In Deep",
+        "url": "https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR"
       },
       "artists": [
         {
-          "name": "Janiva Magness",
-          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 156773,
-      "name": "Whoop And Holler",
-      "url": "https://open.spotify.com/track/0rOgDYmxNfgSlHyIuvBt5z"
+      "duration_ms": 290160,
+      "name": "Shakin' Shakin' Shakes",
+      "url": "https://open.spotify.com/track/5SjmKLwVsxEgiuWmqVBfPA"
     },
     {
       "added_at": "2020-12-01 05:01:00",

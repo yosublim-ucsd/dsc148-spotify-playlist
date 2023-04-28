@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,902 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,983 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [The People Skanking](https://open.spotify.com/track/72IAXR6AyefztBCOaYaIIx) | [New Establishment](https://open.spotify.com/artist/4zV2neXlhnE7v964YxFgek) | [Studio One Scorcher](https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi) | 2:41 |
 | 60 | [More Creation](https://open.spotify.com/track/0UEFVv1SWszuI53WXwKfSv) | [Lennie Hibbert](https://open.spotify.com/artist/5t4dVHPMK33Uj2B89FSnW2) | [Studio One Roots](https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI) | 4:18 |
 
-Snapshot ID: `MTYxOTE3MTcwNCwwMDAwMDAwMDFmNzU3MzIyNTlhMGUwMzY5YWJkZWM4ZWFhOGI5YjEw`
+Snapshot ID: `MCw4OTdkZmU3NjhkN2FhOTBiMjlhYzllZjliYTZjZDI0Yjg5OWZiMTIz`

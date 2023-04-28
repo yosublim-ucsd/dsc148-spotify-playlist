@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 持續發掘世一超新聲，2023年香港RADAR超新聲正式上場！
+> 持續發掘世一超新聲，2023年香港RADAR超新聲正式上場！Cover: Nancy Kwai
 
-119 songs - 6 hr 52 min
+121 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Call My Name! \(COLLAR214 ver.\)](https://open.spotify.com/track/33q6UPpjR3k66k1oxwFbzD) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Call My Name! \(COLLAR214 ver.\)](https://open.spotify.com/album/79ib7NaPeN0HwOKkq3v6Ao) | 3:30 | 2022-05-26 | 2023-04-14 |
 | [Can't Stop](https://open.spotify.com/track/5zB6A7kjVAyobO5le32Rl0) | [Lewsz](https://open.spotify.com/artist/2ZMYwxzLbeJ8yXwZQNXypy) | [Can't Stop](https://open.spotify.com/album/5CUTEDVkIGRFEd3DR7dW0o) | 3:31 | 2023-04-13 |  |
 | [Candy](https://open.spotify.com/track/1ITGuB4Tgap1WaDcbamsRI) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Candy](https://open.spotify.com/album/4ca6ff4Fm8ooLvsWr3lbbd) | 2:22 | 2023-04-13 |  |
+| [Count to Three](https://open.spotify.com/track/7GRKbr2Pb4B2bm4LC6NRb2) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Count to Three](https://open.spotify.com/album/57HV84AdSQXLWEdBYYkArT) | 2:55 | 2023-04-27 |  |
 | [Cozy City](https://open.spotify.com/track/2BbjYvro6HGorIwGCoDcCw) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [小王子](https://open.spotify.com/album/0dMrxzd1C8h1wITGmdLsWj) | 2:59 | 2022-05-26 | 2023-04-14 |
 | [Dancing Cus It's Raining](https://open.spotify.com/track/4yQT0SptGrIAfZbqtyWE9o) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [Now You See Me](https://open.spotify.com/album/1g3wmF7jrRUX7UtMFrpi2J) | 3:14 | 2022-06-23 | 2022-10-06 |
 | [Dancing Cus It's Raining](https://open.spotify.com/track/7667IhlsYqSQnXf3PH8p6O) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [Now You See Me](https://open.spotify.com/album/3I56h2xHwElfL02U8grGT4) | 3:14 | 2022-09-15 | 2023-04-14 |
@@ -108,6 +109,7 @@
 | [時間計](https://open.spotify.com/track/5WB57ar8s4gFszp0tBCnn0) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [時間計](https://open.spotify.com/album/2jvVEaHcTs3q3F3WA77RZT) | 3:27 | 2023-01-19 |  |
 | [東京一轉](https://open.spotify.com/track/3nqgEI17nKvQgSWTZZqS1z) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京一轉](https://open.spotify.com/album/6TPewpYFnJSHsoC2PUMDh0) | 3:46 | 2022-05-26 | 2023-04-14 |
 | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/track/5o4KlQR1SDK6A2ux7hJE33) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/album/5AL0bGaBBTRVw7bPD9cb2c) | 3:46 | 2022-07-28 | 2023-04-14 |
+| [歌手職訓101](https://open.spotify.com/track/2tM6ukbTDeDLHPpdPCe3oC) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [歌手職訓101](https://open.spotify.com/album/7HrKG5OOMmKIjMur9xHlDF) | 2:54 | 2023-04-27 |  |
 | [江湖](https://open.spotify.com/track/2cXTxu3CZrGXSuyLTRSF1c) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [梟](https://open.spotify.com/album/7zq20yZuWRdXJWM3JAszls) | 3:41 | 2022-12-29 |  |
 | [深水埗](https://open.spotify.com/track/26OsQ62m0ETrCQ7Dby7EVg) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [深水埗](https://open.spotify.com/album/6OuKUVx3AM5Fjz4dluR2mM) | 2:00 | 2022-05-26 | 2023-04-14 |
 | [火海](https://open.spotify.com/track/2A4bsoid4UOsxaxZFdfV73) | [留香瓊](https://open.spotify.com/artist/58zAtNxBTtRpnwe9bwQaQN) | [火海](https://open.spotify.com/album/30fW4yZKzTaLnzKssLlcEi) | 4:55 | 2023-04-13 |  |

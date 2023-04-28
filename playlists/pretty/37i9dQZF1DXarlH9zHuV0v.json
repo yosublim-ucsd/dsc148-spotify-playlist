@@ -1,12 +1,12 @@
 {
   "description": "A playlist of spooky songs to get you ready for fright night!",
-  "num_followers": 233794,
+  "num_followers": 233777,
   "original_name": "Ultimate Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3MDYzMzM3MCwwMDAwMDAwMDRjZjZiZjE1MGE2OTA3NjE5NjE4ZTVmZjg2NmQ1NTYx",
+  "snapshot_id": "MCwxZmMwM2UyNDFmY2MyYzJhYjMwYTAxMzBlZGYyZWRiOTQ0ZTdjOTVj",
   "tracks": [
     {
       "added_at": "2019-10-09 15:02:50",
@@ -607,22 +607,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "The Jack 2 Pack (The Nightmare Before Christmas)",
-        "url": "https://open.spotify.com/album/7xubspY1zmyTduYWnkGNxT"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Manson",
-          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
-        }
-      ],
-      "duration_ms": 202333,
-      "name": "This is Halloween - Pop Version",
-      "url": "https://open.spotify.com/track/2KUL1Ix9grxAWvIAft9EWL"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "Greatest",
         "url": "https://open.spotify.com/album/7xbWtTByfdMWFfxXmeFFl0"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 209546,
       "name": "Hungry Like the Wolf",
       "url": "https://open.spotify.com/track/2qeESyQyH7MRHCBotCQsNq"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "The Jack 2 Pack (The Nightmare Before Christmas)",
+        "url": "https://open.spotify.com/album/7xubspY1zmyTduYWnkGNxT"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "duration_ms": 202333,
+      "name": "This is Halloween - Pop Version",
+      "url": "https://open.spotify.com/track/2KUL1Ix9grxAWvIAft9EWL"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -915,22 +915,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "The Addams Family (Original Music From The T.V. Show)",
-        "url": "https://open.spotify.com/album/3GPiacqnXD4MCCMWvSTT53"
-      },
-      "artists": [
-        {
-          "name": "Vic Mizzy and His Orchestra and Chorus",
-          "url": "https://open.spotify.com/artist/30Vw5pqdpoPBHNVeT5Eknv"
-        }
-      ],
-      "duration_ms": 120066,
-      "name": "Main Theme: The Addams Family - Instrumental Version",
-      "url": "https://open.spotify.com/track/7M2t3mrwREenfKCvpRCed7"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "Last Rights",
         "url": "https://open.spotify.com/album/0yAWNOIBiT5FqzEwnePtsq"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 228866,
       "name": "Killing Game",
       "url": "https://open.spotify.com/track/2QNSNBUgAlzdkMpyC7nuuJ"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "The Addams Family (Original Music From The T.V. Show)",
+        "url": "https://open.spotify.com/album/3GPiacqnXD4MCCMWvSTT53"
+      },
+      "artists": [
+        {
+          "name": "Vic Mizzy and His Orchestra and Chorus",
+          "url": "https://open.spotify.com/artist/30Vw5pqdpoPBHNVeT5Eknv"
+        }
+      ],
+      "duration_ms": 120066,
+      "name": "Main Theme: The Addams Family - Instrumental Version",
+      "url": "https://open.spotify.com/track/7M2t3mrwREenfKCvpRCed7"
     },
     {
       "added_at": "2019-10-09 15:02:50",

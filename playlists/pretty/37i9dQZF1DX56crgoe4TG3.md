@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: The Brother Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,639 likes - 135 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,684 likes - 135 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 17 | [Fields Of Gold](https://open.spotify.com/track/4buQZSZOZeyEwDFXsrGBCM) | [Danny Burns](https://open.spotify.com/artist/7vjM9siqHKUjRrgopSgNLU), [Tim O'Brien](https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM) | [Fields Of Gold](https://open.spotify.com/album/2Ik9BowAsjPPahUwRODcw3) | 3:30 |
 | 18 | [Enter Sandman](https://open.spotify.com/track/7GXfXVnuqATxCs6EQoDcVS) | [Iron Horse](https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t) | [Fade To Bluegrass: The Bluegrass Tribute To Metallica](https://open.spotify.com/album/4z8QBQBG513nlZrgDWsuqg) | 4:21 |
 | 19 | [Wildflowers](https://open.spotify.com/track/1VJ4tttfxHq0Eu5x2nTCvx) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Wildflowers](https://open.spotify.com/album/0hJydfH36mKREO2dkuuLGs) | 2:48 |
-| 20 | [The Devil Went Down to Utah](https://open.spotify.com/track/35LYUIiBZxKmrtesVDa9dv) | [Pixie and The Partygrass Boys](https://open.spotify.com/artist/4roJTFn2kSsoN1UIwiXUJ3) | [The Devil Went Down to Utah](https://open.spotify.com/album/4lqJ0SpmQ5oL4J7yYxEKQw) | 4:53 |
+| 20 | [The Devil Went Down to Utah](https://open.spotify.com/track/35LYUIiBZxKmrtesVDa9dv) | [Pixie and The Partygrass Boys](https://open.spotify.com/artist/4roJTFn2kSsoN1UIwiXUJ3), [Jeremy Garrett](https://open.spotify.com/artist/75j2lBW6hHJNAbEjm6Wi14) | [The Devil Went Down to Utah](https://open.spotify.com/album/4lqJ0SpmQ5oL4J7yYxEKQw) | 4:53 |
 | 21 | [In Tall Buildings](https://open.spotify.com/track/56Rzb0EaeMfwhIU2VLygtf) | [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [In Tall Buildings](https://open.spotify.com/album/4PfnntRChUIeOlVkVgzO3D) | 3:28 |
 | 22 | [Steady as She Goes](https://open.spotify.com/track/6yP7UyRK6TVncJSvgaDJnF) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw) | [The Bluegrass Tribute to Jack White](https://open.spotify.com/album/53pPSe9BoDJN8G2SPrOget) | 3:35 |
 | 23 | [Valerie](https://open.spotify.com/track/3wShyyPO8fob86VMwkZOCt) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [City Painted Gold](https://open.spotify.com/album/23MGSQXuPuptLqoWIuQvah) | 4:54 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 134 | [Billie Jean](https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Between the Bars](https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe) | 4:20 |
 | 135 | [Game of Thrones \(Main Theme\)](https://open.spotify.com/track/58KlChZMUnuITA871NPyls) | [Flatt Lonesome](https://open.spotify.com/artist/5m7v6OS8omwyHvXARri5Zh) | [Game of Thrones \(Main Theme\)](https://open.spotify.com/album/4scGLabYRn5ZGwv7ult8jN) | 5:01 |
 
-Snapshot ID: `MTY4MjEwNjgyMSwwMDAwMDAwMDk2MDI4NTA0NTc2NzhmYjEyYmMzY2U0YWY1ODJhMWYz`
+Snapshot ID: `MCw4NzVkMjUyMzkxMTA5OGRiZDMwZGE0NTZjYjliN2IwY2M1NWNhYzRi`

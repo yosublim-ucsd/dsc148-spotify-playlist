@@ -1,12 +1,12 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 484319,
+  "num_followers": 485108,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQwMjgxMiwwMDAwMDAwMDU3NjM5MmYyZjEzODhlZTdkODAyMjE3NjM0NDdhMTc1",
+  "snapshot_id": "MCwwYzFiMjA5ODBlYTQ5YzY4MzBlYjMyMTg4YzE1MDMxOGM2YjFkYjQz",
   "tracks": [
     {
       "added_at": "2023-01-10 01:36:03",
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/6iy4PoAuZBMvtrlDX4VxC7"
     },
     {
-      "added_at": "2023-04-27 00:21:29",
+      "added_at": "2023-04-28 01:11:22",
       "album": {
         "name": "9 To 5 And Odd Jobs",
         "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-01-10 01:36:03",
       "album": {
-        "name": "For My Broken Heart",
-        "url": "https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5"
-      },
-      "artists": [
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        }
-      ],
-      "duration_ms": 257266,
-      "name": "The Night The Lights Went Out In Georgia",
-      "url": "https://open.spotify.com/track/2MiXC2LfpsoeUP5RvMGEQ3"
-    },
-    {
-      "added_at": "2023-01-10 01:36:03",
-      "album": {
         "name": "Hunter Hayes (Encore)",
         "url": "https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 228840,
       "name": "Wanted",
       "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
+    },
+    {
+      "added_at": "2023-01-10 01:36:03",
+      "album": {
+        "name": "For My Broken Heart",
+        "url": "https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "duration_ms": 257266,
+      "name": "The Night The Lights Went Out In Georgia",
+      "url": "https://open.spotify.com/track/2MiXC2LfpsoeUP5RvMGEQ3"
     },
     {
       "added_at": "2023-01-10 01:36:03",

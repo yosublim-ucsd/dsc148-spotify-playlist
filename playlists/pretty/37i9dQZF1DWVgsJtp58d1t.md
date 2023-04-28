@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,002,682 likes - 102 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,002,771 likes - 102 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 101 | [Duffel Bag](https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Duffel Bag](https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0) | 2:07 |
 | 102 | [No Stress](https://open.spotify.com/track/6SgOztsz4Ophor1UU637Nc) | [DJ Holiday](https://open.spotify.com/artist/6Q4MFlysvdbBeEhoKgAUbY), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [O.T\. Genasis](https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o) | [No Stress](https://open.spotify.com/album/31wtuS1eGW8CQAw3RzF9GS) | 3:12 |
 
-Snapshot ID: `MTY4MjM1MDgyNywwMDAwMDAwMGFkMTZlM2FkZTVkYThiNDNlOWFkZjdiNDQ2N2YyOTcx`
+Snapshot ID: `MCwwYmU0YjZmOWI4YmUwNjdiZjlkNmNmOGUwZTg5N2M2N2I5M2MyYzc5`

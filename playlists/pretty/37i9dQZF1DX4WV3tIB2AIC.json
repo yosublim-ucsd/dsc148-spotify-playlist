@@ -1,12 +1,12 @@
 {
   "description": "Our editorial picks for the best gaming tracks of the year. Cover: Lil Nas X #SpotifyWrapped ",
-  "num_followers": 6905,
+  "num_followers": 6910,
   "original_name": "Top Gaming Tracks of 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMDBhNjAzYWFjZTRjODAwMWIxODUzYjBiNTA4NzhhY2U3",
+  "snapshot_id": "MCwwODlhN2Q0ZWUxNzQwN2FlZWNjNmZiM2Y2MWFmZmY2Nzk4Njg2YmE2",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -191,6 +191,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "Lyf\u00eb",
+        "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/0oO1AbL92F6329z13C2qQH"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "Die Young (feat. 347aidan)",
         "url": "https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 148816,
       "name": "Die Young (feat. 347aidan)",
       "url": "https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Lyf\u00eb",
-        "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/0oO1AbL92F6329z13C2qQH"
     },
     {
       "added_at": "2022-11-30 13:46:00",

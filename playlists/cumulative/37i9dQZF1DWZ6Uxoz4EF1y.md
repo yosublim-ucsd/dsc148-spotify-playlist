@@ -4,7 +4,7 @@
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-102 songs - 9 hr 26 min
+103 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [No Hay Otro Nombre \- Live](https://open.spotify.com/track/5EcTHBNB5GUHh66dExVIGC) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [En Esto Creo \(Live\)](https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg) | 7:19 | 2023-04-09 |  |
 | [No Temas](https://open.spotify.com/track/1WJjXVxrprcrrixUt7kJoC) | [DOMINICO GONZALEZ](https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw), [Marcos Yaroide](https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ) | [No Temas](https://open.spotify.com/album/5gayNP2PRbA9gq5foXJeBM) | 4:03 | 2023-04-09 |  |
 | [Nueva Creación](https://open.spotify.com/track/1460KvrC1frnLOWvx2wE8z) | [Isra y Vale](https://open.spotify.com/artist/6gv84Nihr8Dg93KuxArFxl) | [Un Milagro](https://open.spotify.com/album/5tlhE2ctP9RfbKqj7S8j1C) | 4:07 | 2020-09-18 |  |
-| [Nunca Fallas](https://open.spotify.com/track/5wC29DelLmDsXJpKmQlsnu) | [MIMY](https://open.spotify.com/artist/0vN6lKXMJ1sjp8PuWqYYtK), [Lucia Parker](https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G) | [Nunca Fallas](https://open.spotify.com/album/5paGsj21b8C9BFToAO5Ka2) | 5:39 | 2023-04-09 |  |
+| [Nunca Fallas](https://open.spotify.com/track/5wC29DelLmDsXJpKmQlsnu) | [MIMY](https://open.spotify.com/artist/0vN6lKXMJ1sjp8PuWqYYtK), [Lucia Parker](https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G) | [Nunca Fallas](https://open.spotify.com/album/5paGsj21b8C9BFToAO5Ka2) | 5:39 | 2023-04-09 | 2023-04-28 |
 | [Océanos \(Donde Mis Pies Pueden Fallar\) \- Live](https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [En Esto Creo \(Live\)](https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg) | 4:19 | 2020-09-18 |  |
 | [Perfume a Tus Pies](https://open.spotify.com/track/5cS1TaKqN5z5brcTnG2Ory) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Glorioso Rey](https://open.spotify.com/album/0gGh9W1G0gVNvn6oINKeB2) | 5:10 | 2020-09-18 |  |
 | [Poema de salvación](https://open.spotify.com/track/2hrTXb6LVeQW0F18e9neuZ) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Eres Mi Pasión](https://open.spotify.com/album/0xPzP6ceN9y2CwTWlljy8F) | 3:12 | 2023-04-09 |  |
@@ -110,5 +110,6 @@
 | [Tu Amor](https://open.spotify.com/track/4A323YPkioQfDqhKmPhtaI) | [Generación Gracia Música](https://open.spotify.com/artist/7qwXfWee0I0c9hgkJfzich), [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Tu Amor](https://open.spotify.com/album/7up0mQ3oTyRGHGwa9YXVES) | 7:48 | 2023-04-09 |  |
 | [Tu presencia es el Cielo](https://open.spotify.com/track/2iBDNtyifH3CtG7Y5VDeAz) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [Jesús en el Centro \(En Vivo\)](https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK) | 8:30 | 2020-09-18 |  |
 | [Tu Reino Está Aquí](https://open.spotify.com/track/0GcjwLuOdrvhJOuyHu2WB1) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Josué Suárez](https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL) | [Tu Reino Está Aquí](https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO) | 5:33 | 2023-04-09 |  |
+| [Vives Tú Vivo Yo \- Acústico](https://open.spotify.com/track/3aQ72h2vInTXJvE72Z6V0E) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Como en Casa \(Acústico\)](https://open.spotify.com/album/73FehpfDRan2EMqqnlyW5V) | 6:03 | 2023-04-09 |  |
 
 \*This playlist was first scraped on 2023-04-09. Prior content cannot be recovered.

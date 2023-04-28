@@ -7261,6 +7261,28 @@
     },
     {
       "album": {
+        "name": "Episode1 : Love",
+        "url": "https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD"
+      },
+      "artists": [
+        {
+          "name": "So!YoON!",
+          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242200,
+      "name": "Smoke Sprite (feat. RM of BTS)",
+      "url": "https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa"
+    },
+    {
+      "album": {
         "name": "Dark & Wild",
         "url": "https://open.spotify.com/album/35voVqYGkotyJ945O9egDY"
       },

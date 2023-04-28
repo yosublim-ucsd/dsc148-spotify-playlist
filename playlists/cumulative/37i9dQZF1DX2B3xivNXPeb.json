@@ -436,10 +436,36 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 186394,
       "name": "BBQ Energy",
       "url": "https://open.spotify.com/track/2DtJPbqKr5w4wBXwPGemCn"
+    },
+    {
+      "album": {
+        "name": "Tunnel Vision",
+        "url": "https://open.spotify.com/album/5H4AuKv8BhLdZjW8Ra0Ovv"
+      },
+      "artists": [
+        {
+          "name": "Reuben James",
+          "url": "https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH"
+        },
+        {
+          "name": "Adam Flowers",
+          "url": "https://open.spotify.com/artist/1SggEYhzQY4qw4c9lDIIaq"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186394,
+      "name": "BBQ Energy",
+      "url": "https://open.spotify.com/track/4DtcpnCRFpCTlTEX8KF0j2"
     },
     {
       "album": {

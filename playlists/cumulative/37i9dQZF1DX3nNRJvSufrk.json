@@ -758,7 +758,7 @@
     {
       "album": {
         "name": "Double Cup",
-        "url": "https://open.spotify.com/album/21dsgJBSUM6IvAGFjfotgF"
+        "url": "https://open.spotify.com/album/2wZJl03iX9DxZ3P5C1HTBR"
       },
       "artists": [
         {
@@ -773,6 +773,28 @@
       "date_added": "2020-12-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 216475,
+      "name": "Drank, Kush, Barz (feat. DJ Spinn)",
+      "url": "https://open.spotify.com/track/58MjC38tjt4Lc8mu4EzwWB"
+    },
+    {
+      "album": {
+        "name": "Double Cup",
+        "url": "https://open.spotify.com/album/21dsgJBSUM6IvAGFjfotgF"
+      },
+      "artists": [
+        {
+          "name": "DJ Rashad",
+          "url": "https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V"
+        },
+        {
+          "name": "DJ Spinn",
+          "url": "https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9"
+        }
+      ],
+      "date_added": "2020-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
       "duration_ms": 216475,
       "name": "Drank, Kush, Barz (feat. Spinn)",
       "url": "https://open.spotify.com/track/6F6CrMKMgZeDah2JF2cizZ"

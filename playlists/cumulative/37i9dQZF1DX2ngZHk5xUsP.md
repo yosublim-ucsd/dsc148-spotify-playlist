@@ -2,9 +2,9 @@
 
 ### [Suara Dari Jawa Barat](https://open.spotify.com/playlist/37i9dQZF1DX2ngZHk5xUsP)
 
-> Ragam musik IDentitasku dari berbagai penjuru Jawa Barat\. Cover: Lesti
+> Ragam musik IDentitasku dari berbagai penjuru Jawa Barat\. Cover: Noah
 
-61 songs - 3 hr 52 min
+63 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Cerita Cinta](https://open.spotify.com/track/5PccS3eocPF3x4dfayUU7A) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7) | [Be My Valentine](https://open.spotify.com/album/544XgrdVXO7eH0Jf1S3oNP) | 4:22 | 2023-03-16 |  |
 | [Dan Bandung \(feat\. Danilla\)](https://open.spotify.com/track/3qmIfhZnHenyTcWzWu8IJP) | [The Panasdalam Bank](https://open.spotify.com/artist/0sfi4c54RwQVfvfq6yz8fc), [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny) | [Dan Bandung \(feat\. Danilla\)](https://open.spotify.com/album/0wTyAlIVylu3Q88tWEUdeM) | 2:36 | 2023-03-16 |  |
 | [Desire](https://open.spotify.com/track/1uH2t9fgvWUntILs9iFRZC) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn), [Ray Viera Laxmana](https://open.spotify.com/artist/4d71lT61WEn2SsjEgeSbBf) | [Our Sincere Desire](https://open.spotify.com/album/57GZmG6ZYl2479tDAusXn4) | 3:23 | 2023-03-16 |  |
+| [Di Atas Normal](https://open.spotify.com/track/2icjHMLGHCyFngdm7zYr34) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Di Atas Normal](https://open.spotify.com/album/5iuLwZKk0Hi0VnPuFzBQbl) | 3:29 | 2023-04-27 |  |
 | [Disappear](https://open.spotify.com/track/4PDQYHp5YzHFcfoxDMIDPY) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [FASTFOOD](https://open.spotify.com/album/3YTs3UdJUkNStTevXRfGWu) | 2:15 | 2023-03-16 |  |
 | [Dunia Tipu\-Tipu](https://open.spotify.com/track/0mMqopQJOWADJSPRMYkvTF) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:38 | 2023-03-16 |  |
 | [False Alarm](https://open.spotify.com/track/3NFI8R8pUTja7orZLwqVbs) | [Heals](https://open.spotify.com/artist/52VDpGdCBD0RnoXlpCYIgL) | [SPECTRUM](https://open.spotify.com/album/40BU39M6MTjelshDop9fHm) | 5:59 | 2023-03-16 |  |
@@ -36,6 +37,7 @@
 | [Kaqotun](https://open.spotify.com/track/4Go5gWOhnFCqn6RpEjZmm7) | [Sillas](https://open.spotify.com/artist/1DGiCzaCRZdqGyOC3c2Z6y) | [Kaqotun](https://open.spotify.com/album/2mqq8dZc8acR395hXcXVhL) | 5:13 | 2023-03-16 |  |
 | [Kataji](https://open.spotify.com/track/4HUmuIdScp4K9yjaCk73pD) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 3:42 | 2023-03-16 |  |
 | [Kelana](https://open.spotify.com/track/7kAhOXTPVwKODIWUzSosi1) | [Mooner](https://open.spotify.com/artist/3Nq3ERFOZXkIxMjESQxrWL) | [O\. M.](https://open.spotify.com/album/1q2oM4KRamlQUldy9Zcf6W) | 3:42 | 2023-03-16 |  |
+| [Khayalan Tingkat Tinggi](https://open.spotify.com/track/2hh76rbGThjiPE1vUVa9Lg) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Khayalan Tingkat Tinggi](https://open.spotify.com/album/0zjNUO3CQhuWDYZIeKT4l7) | 3:05 | 2023-04-27 |  |
 | [Kosong](https://open.spotify.com/track/0bwy5RyhiWUVMXRt4MOVFA) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn) | [Time for a Change / Time to Move On](https://open.spotify.com/album/7lbJEFQEGUs1pBQfOcbdKV) | 3:28 | 2023-03-16 |  |
 | [Lantas](https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sentimental](https://open.spotify.com/album/17vUW6koeUkV58uYfkK6G3) | 3:54 | 2023-03-16 |  |
 | [Lara](https://open.spotify.com/track/1sGsoXJgOZ3wY3tveCUwWs) | [Dialog Senja](https://open.spotify.com/artist/7hzltD6Z1nipi3asl645sh) | [Lara](https://open.spotify.com/album/28qOVtZkeUoUdzU8JEExdG) | 5:26 | 2023-03-16 |  |

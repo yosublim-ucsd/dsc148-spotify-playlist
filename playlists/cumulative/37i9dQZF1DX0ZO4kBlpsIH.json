@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Aux Champs-Elyse\u00e9s",
+        "url": "https://open.spotify.com/album/63UeIk6OkauXHONXtVhFU9"
+      },
+      "artists": [
+        {
+          "name": "Le Bleu Ensemble",
+          "url": "https://open.spotify.com/artist/3cyV8AxHAoyulOGudi2PGG"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132750,
+      "name": "Aux Champs-Elyse\u00e9s",
+      "url": "https://open.spotify.com/track/7i4BGa7PRBJeXqhZMJxeFG"
+    },
+    {
+      "album": {
         "name": "Midnight in Paris (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/4T6ytV8yCJ9UJ8CsWjetq0"
       },
@@ -560,7 +578,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 232866,
       "name": "Cumbia Cantina",
       "url": "https://open.spotify.com/track/78R2ykINPnIYzQqCg5Kbys"
@@ -1085,6 +1103,24 @@
     },
     {
       "album": {
+        "name": "L'amour est bleu",
+        "url": "https://open.spotify.com/album/38ykcbUhDpC4h020SF900Y"
+      },
+      "artists": [
+        {
+          "name": "Trio Musette",
+          "url": "https://open.spotify.com/artist/2Kka3QLLTIlz98RWXh24is"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178434,
+      "name": "L'amour est bleu",
+      "url": "https://open.spotify.com/track/7Bb0mYUZIkeNqkMwXMHmAK"
+    },
+    {
+      "album": {
         "name": "Modern Times",
         "url": "https://open.spotify.com/album/3zaWugXmF0PWpCPekDE71c"
       },
@@ -1132,7 +1168,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 156190,
       "name": "La Fleur",
       "url": "https://open.spotify.com/track/2YLB1QeZuGJGqULHItxba5"
@@ -1204,7 +1240,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 172133,
       "name": "La paloma",
       "url": "https://open.spotify.com/track/1SFkmsya6AYHk9xv3wvz1G"
@@ -1392,7 +1428,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 160106,
       "name": "Le Plus Beau Tango Du Monde - Tango",
       "url": "https://open.spotify.com/track/2UDqPpMrmvP0FXHZ35YHsP"
@@ -1508,7 +1544,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 267120,
       "name": "Little French Bistro",
       "url": "https://open.spotify.com/track/6XRQ7rygcyL8NJhsfFxQl2"
@@ -1926,7 +1962,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 123186,
       "name": "Petite Chanson de l'amour",
       "url": "https://open.spotify.com/track/03CoelVFp9OYFb9MXZjkDd"

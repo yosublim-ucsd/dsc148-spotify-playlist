@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Faisal Abdulkarim 2021",
+        "url": "https://open.spotify.com/album/3UAlvuKYQZY7isdpIlh7iZ"
+      },
+      "artists": [
+        {
+          "name": "Faisal Abdulkareem",
+          "url": "https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290964,
+      "name": "Leman Ashkeeh",
+      "url": "https://open.spotify.com/track/2PuOShmbN0ZeagodIh5fSf"
+    },
+    {
+      "album": {
         "name": "Sawfa Ahlam",
         "url": "https://open.spotify.com/album/28TnLPv0nvekrLjGtKEdvq"
       },
@@ -986,7 +1004,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 427206,
       "name": "\u064a\u0627 \u0645\u0647\u0627\u062c\u0631",
       "url": "https://open.spotify.com/track/3bBj0z4e5PSRKq9uIB8LGD"

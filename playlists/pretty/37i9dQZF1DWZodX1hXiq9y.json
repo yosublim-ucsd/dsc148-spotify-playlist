@@ -1,12 +1,12 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 62172,
+  "num_followers": 62267,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjUwNzk4MiwwMDAwMDAwMDFkYmExN2UzNWIwYjE2OWJiMjU3YWRiNDBmMjg1ZWM1",
+  "snapshot_id": "MCw3ZDE0MmViZWM3ODY2OTRjYmY1Mzc5ZWY0OGFlMDM4MDE1MWU5YzQ3",
   "tracks": [
     {
       "added_at": "2023-04-26 11:19:42",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-04-26 11:19:42",
       "album": {
+        "name": "King Of The Tenors",
+        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Don't Get Around Much Any More",
+      "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
+    },
+    {
+      "added_at": "2023-04-26 11:19:42",
+      "album": {
         "name": "Night Dreamer",
         "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 435440,
       "name": "Night Dreamer - Remastered 2004",
       "url": "https://open.spotify.com/track/2HbpOucCYcPyVEBpjTiJK8"
-    },
-    {
-      "added_at": "2023-04-26 11:19:42",
-      "album": {
-        "name": "King Of The Tenors",
-        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Don't Get Around Much Any More",
-      "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
     },
     {
       "added_at": "2023-04-26 11:19:42",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-04-26 11:19:42",
       "album": {
-        "name": "Ben Webster Plays Ballads Remastered",
-        "url": "https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 378784,
-      "name": "Stardust - Remastered",
-      "url": "https://open.spotify.com/track/5AVd7JsN8ts3xiiU3MPpQM"
-    },
-    {
-      "added_at": "2023-04-26 11:19:42",
-      "album": {
         "name": "JuJu",
         "url": "https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 399466,
       "name": "Yes Or No - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
       "url": "https://open.spotify.com/track/2PGjqrXgOBqP8G4R6EKmpR"
+    },
+    {
+      "added_at": "2023-04-26 11:19:42",
+      "album": {
+        "name": "Ben Webster Plays Ballads Remastered",
+        "url": "https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 378784,
+      "name": "Stardust - Remastered",
+      "url": "https://open.spotify.com/track/5AVd7JsN8ts3xiiU3MPpQM"
     },
     {
       "added_at": "2023-04-26 11:19:42",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2023-04-26 11:19:42",
       "album": {
+        "name": "The Shape Of Jazz To Come",
+        "url": "https://open.spotify.com/album/2iPH3iUmpa9ufIpwY76keF"
+      },
+      "artists": [
+        {
+          "name": "Ornette Coleman",
+          "url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
+        }
+      ],
+      "duration_ms": 544826,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/4TrzjMsOnd1KWkWrsDRB3u"
+    },
+    {
+      "added_at": "2023-04-26 11:19:42",
+      "album": {
         "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
         "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
       },
@@ -1375,18 +1391,18 @@
     {
       "added_at": "2023-04-26 11:19:42",
       "album": {
-        "name": "The Shape Of Jazz To Come",
-        "url": "https://open.spotify.com/album/2iPH3iUmpa9ufIpwY76keF"
+        "name": "Warm Woods",
+        "url": "https://open.spotify.com/album/4Wfr4INnLiPK2AV443vbvH"
       },
       "artists": [
         {
-          "name": "Ornette Coleman",
-          "url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
+          "name": "Phil Woods Quartet",
+          "url": "https://open.spotify.com/artist/26wNMXNMK8k7TlGqIlTe6C"
         }
       ],
-      "duration_ms": 544826,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/4TrzjMsOnd1KWkWrsDRB3u"
+      "duration_ms": 485226,
+      "name": "In Your Own Sweet Way",
+      "url": "https://open.spotify.com/track/0gD78Kq5CLlc1j9e9G8Ejv"
     },
     {
       "added_at": "2023-04-26 11:19:42",
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2023-04-26 11:19:42",
       "album": {
-        "name": "Warm Woods",
-        "url": "https://open.spotify.com/album/4Wfr4INnLiPK2AV443vbvH"
-      },
-      "artists": [
-        {
-          "name": "Phil Woods Quartet",
-          "url": "https://open.spotify.com/artist/26wNMXNMK8k7TlGqIlTe6C"
-        }
-      ],
-      "duration_ms": 485226,
-      "name": "In Your Own Sweet Way",
-      "url": "https://open.spotify.com/track/0gD78Kq5CLlc1j9e9G8Ejv"
-    },
-    {
-      "added_at": "2023-04-26 11:19:42",
-      "album": {
         "name": "Further Definitions",
         "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
       },
@@ -1451,6 +1451,22 @@
       "duration_ms": 320346,
       "name": "Blue Star",
       "url": "https://open.spotify.com/track/7KmeTGyGCdwcJFuA6rAEi9"
+    },
+    {
+      "added_at": "2023-04-26 11:19:42",
+      "album": {
+        "name": "Our Man In Paris (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 417306,
+      "name": "Stairway To The Stars - Rudy Van Gelder Edition / 2003 Remaster",
+      "url": "https://open.spotify.com/track/3sO8hBPBMIpfWu7skmEKRD"
     },
     {
       "added_at": "2023-04-26 11:19:42",
@@ -1471,22 +1487,6 @@
       "duration_ms": 614533,
       "name": "It Had To Be You - Live At The Half Note, NYC, 1959",
       "url": "https://open.spotify.com/track/2qSaqU4oifGvpq4bP5VOyc"
-    },
-    {
-      "added_at": "2023-04-26 11:19:42",
-      "album": {
-        "name": "Our Man In Paris (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 417306,
-      "name": "Stairway To The Stars - Rudy Van Gelder Edition / 2003 Remaster",
-      "url": "https://open.spotify.com/track/3sO8hBPBMIpfWu7skmEKRD"
     },
     {
       "added_at": "2023-04-26 11:19:42",
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2023-04-26 11:19:42",
       "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
+        "name": "Cool Imagination",
+        "url": "https://open.spotify.com/album/4HRKjc0n2Vo2WxRvTbe6UY"
       },
       "artists": [
         {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
         }
       ],
-      "duration_ms": 454720,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/1iGtxVoabfF86qjcyfNsNy"
+      "duration_ms": 345240,
+      "name": "That Old Feeling",
+      "url": "https://open.spotify.com/track/3IMc9STtRwcCwT7Nfk9rDa"
     }
   ],
   "unique_name": "Saxophone Classics",

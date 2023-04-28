@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Mexican anthems to get the party started! Cover: Vicente Fern\u00e1ndez",
-  "num_followers": 130839,
+  "num_followers": 131005,
   "original_name": "Mexican Party Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgwNTE0MSwwMDAwMDAwMDI3MTNjZjdmYzhlNTBjYTExNmU4YjY3NGIxYTdiNDA3",
+  "snapshot_id": "MCxmMjU2MTRiNjgyYmY5ODVlYTg1MWE1MDZlMzcwNWIyNWI1MmNjODY1",
   "tracks": [
     {
       "added_at": "2023-01-27 07:39:01",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-01-27 07:39:01",
       "album": {
-        "name": "Lo Nuevo Y\u2026Lo Mejor",
-        "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sonador",
-          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
-        }
-      ],
-      "duration_ms": 169640,
-      "name": "La Cumbia De La Cerveza",
-      "url": "https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ"
-    },
-    {
-      "added_at": "2023-01-27 07:39:01",
-      "album": {
         "name": "Hoy M\u00e1s Fuerte",
         "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 181680,
       "name": "\u00bfPor Qu\u00e9 Terminamos?",
       "url": "https://open.spotify.com/track/1nK0XDR5ZdBfBMfkS5SXRF"
+    },
+    {
+      "added_at": "2023-01-27 07:39:01",
+      "album": {
+        "name": "Lo Nuevo Y\u2026Lo Mejor",
+        "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sonador",
+          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
+        }
+      ],
+      "duration_ms": 169640,
+      "name": "La Cumbia De La Cerveza",
+      "url": "https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ"
     },
     {
       "added_at": "2023-01-27 07:39:01",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-01-27 07:39:01",
       "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis"
+        }
+      ],
+      "duration_ms": 201084,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
+    },
+    {
+      "added_at": "2023-01-27 07:39:01",
+      "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 227440,
       "name": "Techno Cumbia",
       "url": "https://open.spotify.com/track/2ZQB09LvHaOuMJBgCfOKHp"
-    },
-    {
-      "added_at": "2023-01-27 07:39:01",
-      "album": {
-        "name": "Cahuates, Pistaches",
-        "url": "https://open.spotify.com/album/6Wia37tqLhyIwKJMJdsRfy"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 177053,
-      "name": "Cahuates, Pistaches",
-      "url": "https://open.spotify.com/track/4MzglbfmgFrjfmyEaoKNmD"
     },
     {
       "added_at": "2023-01-27 07:39:01",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2023-01-27 07:39:01",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca"
+        "name": "Cahuates, Pistaches",
+        "url": "https://open.spotify.com/album/6Wia37tqLhyIwKJMJdsRfy"
       },
       "artists": [
         {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 201084,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
+      "duration_ms": 177053,
+      "name": "Cahuates, Pistaches",
+      "url": "https://open.spotify.com/track/4MzglbfmgFrjfmyEaoKNmD"
     },
     {
       "added_at": "2023-01-27 07:39:01",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-01-27 07:39:01",
       "album": {
+        "name": "Escuela De Rancho",
+        "url": "https://open.spotify.com/album/3MAavJryyyldhnZGkgMr2T"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 139186,
+      "name": "El Mech\u00f3n",
+      "url": "https://open.spotify.com/track/7dbOcZwBpDCUqR7sIz3djU"
+    },
+    {
+      "added_at": "2023-01-27 07:39:01",
+      "album": {
         "name": "Cruzando Fronteras",
         "url": "https://open.spotify.com/album/4gNEQSuUGtz13sLf11vchI"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 159213,
       "name": "Tamarindo",
       "url": "https://open.spotify.com/track/57gZ0m6MfrQhJu1DwNyIE9"
-    },
-    {
-      "added_at": "2023-01-27 07:39:01",
-      "album": {
-        "name": "Escuela De Rancho",
-        "url": "https://open.spotify.com/album/3MAavJryyyldhnZGkgMr2T"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 139186,
-      "name": "El Mech\u00f3n",
-      "url": "https://open.spotify.com/track/7dbOcZwBpDCUqR7sIz3djU"
     },
     {
       "added_at": "2023-01-27 07:39:01",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-01-27 07:39:01",
       "album": {
-        "name": "40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 226360,
-      "name": "Un Pu\u00f1o De Tierra",
-      "url": "https://open.spotify.com/track/466JLm2qQmjOzfbee0PIg6"
-    },
-    {
-      "added_at": "2023-01-27 07:39:01",
-      "album": {
         "name": "Vencedor",
         "url": "https://open.spotify.com/album/4cPRux21b3M1X668qR5lZ3"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 219480,
       "name": "C\u00f3mo Me Duele",
       "url": "https://open.spotify.com/track/50GRxHQ3cW2yBmlPIF9urf"
+    },
+    {
+      "added_at": "2023-01-27 07:39:01",
+      "album": {
+        "name": "40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 226360,
+      "name": "Un Pu\u00f1o De Tierra",
+      "url": "https://open.spotify.com/track/466JLm2qQmjOzfbee0PIg6"
     },
     {
       "added_at": "2023-01-27 07:39:01",

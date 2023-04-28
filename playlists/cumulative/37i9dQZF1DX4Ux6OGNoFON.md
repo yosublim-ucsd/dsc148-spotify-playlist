@@ -4,7 +4,7 @@
 
 > Saca, prende y sorprende con esta selección de buenas vibras\. Foto: Cultura Profética
 
-92 songs - 5 hr 59 min
+93 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,13 +47,14 @@
 | [Homestudio Session \#6](https://open.spotify.com/track/1TIylLDBqvqiQn2x5CuOSy) | [Chusterfield](https://open.spotify.com/artist/3m6N2XBSZqfkujRvGYcdi8), [Rastachai](https://open.spotify.com/artist/050LEfCTHMWKFC2AI0DEBR) | [Homestudio Session \#6](https://open.spotify.com/album/1qmW48LkyezRoLuY0BLJF7) | 4:54 | 2022-05-13 | 2023-01-28 |
 | [Ilegal](https://open.spotify.com/track/2K2YkSn2utzsRntEClbyB8) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/59SjgIQv3ASnijrzYyR44Z) | 5:05 | 2022-05-13 | 2022-07-29 |
 | [Ilegal](https://open.spotify.com/track/55nSQ0bhYhnN9Gr6yKAF86) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A) | 5:06 | 2022-07-01 |  |
-| [Invierno Tropical](https://open.spotify.com/track/6oY9wNMM0qxqeDAWEP7DGc) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg) | [Invierno Tropical](https://open.spotify.com/album/7yTsOdtc8quAeMhuhm8d0f) | 2:59 | 2023-03-17 |  |
+| [Invierno Tropical](https://open.spotify.com/track/6oY9wNMM0qxqeDAWEP7DGc) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg) | [Invierno Tropical](https://open.spotify.com/album/7yTsOdtc8quAeMhuhm8d0f) | 2:59 | 2023-03-17 | 2023-04-28 |
 | [Invierno Tropical](https://open.spotify.com/track/6zXHHDhDNcr9cxNBegn0WJ) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg) | [Invierno Tropical](https://open.spotify.com/album/5scawj9AZxPfXlI3x930QR) | 2:59 | 2023-03-03 | 2023-04-15 |
 | [Jamming](https://open.spotify.com/track/4zn0kScuV9Oj28d4g9CQQs) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD) | 3:31 | 2022-05-13 | 2022-07-02 |
 | [Jamming](https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:31 | 2022-07-01 | 2023-04-22 |
 | [Jamming](https://open.spotify.com/track/0NDJeqkaT4a7WlC3Uj2ig5) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(Deluxe Edition\)](https://open.spotify.com/album/04VRfesff9bgDA2Q8J2oDo) | 3:32 | 2022-07-01 | 2022-11-14 |
 | [Jamming](https://open.spotify.com/track/7MgCIfmKQiTQeP4FJRa1ud) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus 30th Anniversary Edition](https://open.spotify.com/album/0t7epGcMFSPS98X9t9atfk) | 3:34 | 2022-07-01 |  |
 | [La Ficción](https://open.spotify.com/track/3b2BDfSRZkcxl4J1TkDft5) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Eterno](https://open.spotify.com/album/0SRVZjqbjlg0oyiBmdrSEa) | 4:32 | 2022-05-13 |  |
+| [La Mía](https://open.spotify.com/track/62An8eF83X04NLkdnRCIqr) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:46 | 2023-04-28 |  |
 | [La Playa](https://open.spotify.com/track/0VFp2NOB2gUYtD1raVIFir) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [La Playa](https://open.spotify.com/album/0LZXfPCtqnaP9y4KsOMSWV) | 3:16 | 2022-05-13 |  |
 | [Libre](https://open.spotify.com/track/0PYSofowguTFMrl9aA3tZx) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Libre](https://open.spotify.com/album/1BYKAAHjo0MWRUSIAr8tjw) | 3:31 | 2022-05-13 |  |
 | [Llamado](https://open.spotify.com/track/2JhNQJoJYc7SWkZgdVpGin) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Anblessnabi](https://open.spotify.com/artist/3uqqh1xh1gsFU2LRewg4x7) | [Llamado](https://open.spotify.com/album/0W6E96gtjauTn9qfb8yA0H) | 3:45 | 2022-05-13 |  |

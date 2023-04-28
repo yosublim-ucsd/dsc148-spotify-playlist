@@ -1,12 +1,12 @@
 {
   "description": "Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies\u2014it\u2019s an example of how music really can bring us all together. (Includes the 2021 edition + bonus tracks)",
-  "num_followers": 101190,
+  "num_followers": 101205,
   "original_name": "Barack Obama\u2019s Summer Playlist 2023",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "NDQ5MSxjYjI0ODVkODBmOGY0YjQyMTYwNWIzMzI2NDhkNjE2YzdhNGNjNTQy",
+  "snapshot_id": "NDUwMyxhNzVlZGU0MmRhZGIyNTY1M2RiODFhZmRkYjNmNmE3YjRhMGVhYjVj",
   "tracks": [
     {
       "added_at": "2022-08-10 13:59:43",
@@ -681,6 +681,22 @@
       "url": "https://open.spotify.com/track/07AjyDeE85pDr4Dj8BzgWB"
     },
     {
+      "added_at": "2023-04-27 15:22:03",
+      "album": {
+        "name": "Doing You",
+        "url": "https://open.spotify.com/album/3aLwPcEPzvoj42ewhHSQlr"
+      },
+      "artists": [
+        {
+          "name": "Jack Knox",
+          "url": "https://open.spotify.com/artist/4GV4Ftpx1owKKokpxlzAg3"
+        }
+      ],
+      "duration_ms": 174250,
+      "name": "Doing You",
+      "url": "https://open.spotify.com/track/2fvJouFGKCBgR2ebUuLTXx"
+    },
+    {
       "added_at": "2022-07-26 20:21:19",
       "album": {
         "name": "The South Side of Soul Street: The Minaret Soul Singles 1967-1976",
@@ -1033,6 +1049,134 @@
       "url": "https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh"
     },
     {
+      "added_at": "2023-04-28 00:10:58",
+      "album": {
+        "name": "Permanent Waves",
+        "url": "https://open.spotify.com/album/3TwsR8kYukt0uYwGVkH6mE"
+      },
+      "artists": [
+        {
+          "name": "Gentleman Brawlers",
+          "url": "https://open.spotify.com/artist/2EgJWFnBz1BwghflScfD0O"
+        },
+        {
+          "name": "Josh Salt",
+          "url": "https://open.spotify.com/artist/6MKd8F1rHwj0xIywoOUYqp"
+        }
+      ],
+      "duration_ms": 312173,
+      "name": "Permanent Waves",
+      "url": "https://open.spotify.com/track/4Iwv9DF9Le1JSIyAsBYpUZ"
+    },
+    {
+      "added_at": "2023-04-28 00:11:17",
+      "album": {
+        "name": "I Got A Man",
+        "url": "https://open.spotify.com/album/2jipU7dlj6JZPE34I502ic"
+      },
+      "artists": [
+        {
+          "name": "Logan Lynn",
+          "url": "https://open.spotify.com/artist/2clmyuEvqEILINTuP7lXxY"
+        },
+        {
+          "name": "Yellow Trash Can",
+          "url": "https://open.spotify.com/artist/0HIoY3v13URc5qWoSZ4aRQ"
+        }
+      ],
+      "duration_ms": 157800,
+      "name": "I Got A Man",
+      "url": "https://open.spotify.com/track/0bRbF1nTvyyMo4pQv2x7J2"
+    },
+    {
+      "added_at": "2023-04-28 00:12:00",
+      "album": {
+        "name": "I am afraid I won\u2019t do anything",
+        "url": "https://open.spotify.com/album/0sSOCXgiiBjTUTYETsPBKi"
+      },
+      "artists": [
+        {
+          "name": "Leave Yourself Alone",
+          "url": "https://open.spotify.com/artist/0zanpaBPIUmUgmdPYluYxm"
+        }
+      ],
+      "duration_ms": 427161,
+      "name": "I Am Afraid I Won\u2019t Do Anything",
+      "url": "https://open.spotify.com/track/1gKvNG8T08kTcbP4QV8btf"
+    },
+    {
+      "added_at": "2023-04-28 00:13:30",
+      "album": {
+        "name": "Long Story Short",
+        "url": "https://open.spotify.com/album/514Dff3kf8Q0vwae6otX6A"
+      },
+      "artists": [
+        {
+          "name": "Dorian Duta",
+          "url": "https://open.spotify.com/artist/4GUv5tQjyoIGgz2TGzyO2C"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "On My Own (Bonus)",
+      "url": "https://open.spotify.com/track/7M6LqIJhaQa9JOp5S5K60Y"
+    },
+    {
+      "added_at": "2023-04-28 00:12:51",
+      "album": {
+        "name": "T\u00fa",
+        "url": "https://open.spotify.com/album/55LJejduOKpPVab69ZPIzX"
+      },
+      "artists": [
+        {
+          "name": "Tu Respirar",
+          "url": "https://open.spotify.com/artist/3abaYGYiH2WgkUSYci6OgU"
+        }
+      ],
+      "duration_ms": 235944,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/44Ol9jtEjWtTjK74Rg4A0P"
+    },
+    {
+      "added_at": "2023-04-28 00:12:39",
+      "album": {
+        "name": "Cinnamon Skies",
+        "url": "https://open.spotify.com/album/4U8bPqTuYLM7ZU1XvkdbRT"
+      },
+      "artists": [
+        {
+          "name": "Landon Tewers",
+          "url": "https://open.spotify.com/artist/3j4ihH7xANVDGQhcDFJby7"
+        },
+        {
+          "name": "Waynewood",
+          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
+        },
+        {
+          "name": "JavyDade",
+          "url": "https://open.spotify.com/artist/5x2MghffUs9Ypcb9pOsrWH"
+        }
+      ],
+      "duration_ms": 133500,
+      "name": "Cinnamon Skies",
+      "url": "https://open.spotify.com/track/63KeW4iebmf2ZXvi6dRLbC"
+    },
+    {
+      "added_at": "2023-04-28 00:12:17",
+      "album": {
+        "name": "Chan Says & Other Songs",
+        "url": "https://open.spotify.com/album/19h3hck4qRF6GfpizZC9rI"
+      },
+      "artists": [
+        {
+          "name": "Caleb Nichols",
+          "url": "https://open.spotify.com/artist/0T0HuEmQHT1O1tMsDJcE5H"
+        }
+      ],
+      "duration_ms": 222474,
+      "name": "Wicked (Chan\u2019s Edit)",
+      "url": "https://open.spotify.com/track/4lGQg8lLjMYGXUCSzypuwv"
+    },
+    {
       "added_at": "2021-07-11 05:24:19",
       "album": {
         "name": "BD Music Presents Sarah Vaughan",
@@ -1051,6 +1195,38 @@
       "duration_ms": 154480,
       "name": "Interlude",
       "url": "https://open.spotify.com/track/1UsRYwocPPgn50ZmZBtoYF"
+    },
+    {
+      "added_at": "2023-04-28 00:11:09",
+      "album": {
+        "name": "Joyride",
+        "url": "https://open.spotify.com/album/4vaUr3BZrF7xEvC6a2ZZFL"
+      },
+      "artists": [
+        {
+          "name": "FloraNova",
+          "url": "https://open.spotify.com/artist/7qZYc6XcppdOPH7pNIeMOP"
+        }
+      ],
+      "duration_ms": 181709,
+      "name": "Joyride",
+      "url": "https://open.spotify.com/track/2sqMlEDqZ7tHyVjmtrWnvZ"
+    },
+    {
+      "added_at": "2023-04-28 00:10:41",
+      "album": {
+        "name": "Camino",
+        "url": "https://open.spotify.com/album/5WcAaX8MRo8PxLTnLdaepR"
+      },
+      "artists": [
+        {
+          "name": "Free Whenever",
+          "url": "https://open.spotify.com/artist/3bSsyMPujHM45QOvf6M6he"
+        }
+      ],
+      "duration_ms": 188956,
+      "name": "Camino",
+      "url": "https://open.spotify.com/track/3HuEdFyq7BPQCqH179VaVk"
     },
     {
       "added_at": "2021-07-11 05:25:00",
@@ -1973,6 +2149,22 @@
       "url": "https://open.spotify.com/track/6sGN6tqNCCAgXQ2YHH0SIJ"
     },
     {
+      "added_at": "2023-04-27 13:42:46",
+      "album": {
+        "name": "Gonna Be",
+        "url": "https://open.spotify.com/album/199p8opY6WKxOlbWOAnGdz"
+      },
+      "artists": [
+        {
+          "name": "Cabela and Schmitt",
+          "url": "https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1"
+        }
+      ],
+      "duration_ms": 187039,
+      "name": "Gonna Be",
+      "url": "https://open.spotify.com/track/0JSHKk2pPbysxnjzYbVgmH"
+    },
+    {
       "added_at": "2023-04-07 00:17:50",
       "album": {
         "name": "Cheers To New Beginnings",
@@ -2087,22 +2279,6 @@
       "duration_ms": 178100,
       "name": "Like A River",
       "url": "https://open.spotify.com/track/6R3oUFy5BXSz34MotRQtmC"
-    },
-    {
-      "added_at": "2023-04-06 16:22:08",
-      "album": {
-        "name": "Don't Drop That Monkey",
-        "url": "https://open.spotify.com/album/2sdBGysYgNwjUU2qKU9LUt"
-      },
-      "artists": [
-        {
-          "name": "Cabela and Schmitt",
-          "url": "https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1"
-        }
-      ],
-      "duration_ms": 212805,
-      "name": "Don't Drop That Monkey",
-      "url": "https://open.spotify.com/track/5wAxmK678OPA493HCyVf4X"
     },
     {
       "added_at": "2023-04-20 17:14:08",

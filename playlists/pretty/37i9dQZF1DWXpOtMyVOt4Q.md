@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,408 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,446 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 23 | [Crazy for You](https://open.spotify.com/track/7y128njgv0ipvbzIPycOgx) | [Moai Beats](https://open.spotify.com/artist/5Zt96vfBQXmUB3fs3Qkm5q) | [Crazy for You](https://open.spotify.com/album/0RRw5IO6MRoPPOyQFq480D) | 4:10 |
 | 24 | [Tachikawa](https://open.spotify.com/track/1DdWZldy3uLgXHKBvuVNSM) | [KÖWE](https://open.spotify.com/artist/2VhxLzKBBF3mRhJnBRsuGI), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [Tachikawa](https://open.spotify.com/album/2hScjpzL0lIrJFLes3lQV3) | 1:12 |
 | 25 | [Theta](https://open.spotify.com/track/1GeeXTY3fjN7EeNTWibtuH) | [NiElsir](https://open.spotify.com/artist/7A7IFcjPcVU9swlaIT1wbk) | [Theta](https://open.spotify.com/album/04s7SQbx21d5jzKWxWreOg) | 3:00 |
-| 26 | [Preferences](https://open.spotify.com/track/4RKdZ7eLRpbDaz1A3TUcWE) | [Blue Noodles](https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq) | [Preferences](https://open.spotify.com/album/7xEMGFzID9mX1TsyG4FOJA) | 2:19 |
-| 27 | [I Still Like You](https://open.spotify.com/track/2P1pP6UfKgkUkCUzceAGEx) | [ビクター ＭＫＩＩ](https://open.spotify.com/artist/2lGJkXqpvUW77Kc6hcEIO8) | [Omoide](https://open.spotify.com/album/0N3ddx2vF7wsVEqtQRmfB1) | 2:20 |
-| 28 | [Redwood Colonnade](https://open.spotify.com/track/05vvHWyv10tbLT7IPOxBEC) | [Lifeformed](https://open.spotify.com/artist/1fHiTME799pW2QlBG6yNjV) | [Redwood Colonnade](https://open.spotify.com/album/4Lbcu9kjXEMs3jPpovk9mL) | 5:57 |
-| 29 | [Test Pilot](https://open.spotify.com/track/2IjmKaX5mt8SxgEH2QYlqA) | [Space Sailors](https://open.spotify.com/artist/2M9pkvRd3uUVsPfEgF8aWu) | [Test Pilot](https://open.spotify.com/album/0XzvsF42rBfe9DaCc88oZk) | 3:21 |
+| 26 | [I Still Like You](https://open.spotify.com/track/2P1pP6UfKgkUkCUzceAGEx) | [ビクター ＭＫＩＩ](https://open.spotify.com/artist/2lGJkXqpvUW77Kc6hcEIO8) | [Omoide](https://open.spotify.com/album/0N3ddx2vF7wsVEqtQRmfB1) | 2:20 |
+| 27 | [Preferences](https://open.spotify.com/track/4RKdZ7eLRpbDaz1A3TUcWE) | [Blue Noodles](https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq) | [Preferences](https://open.spotify.com/album/7xEMGFzID9mX1TsyG4FOJA) | 2:19 |
+| 28 | [Test Pilot](https://open.spotify.com/track/2IjmKaX5mt8SxgEH2QYlqA) | [Space Sailors](https://open.spotify.com/artist/2M9pkvRd3uUVsPfEgF8aWu) | [Test Pilot](https://open.spotify.com/album/0XzvsF42rBfe9DaCc88oZk) | 3:21 |
+| 29 | [Redwood Colonnade](https://open.spotify.com/track/05vvHWyv10tbLT7IPOxBEC) | [Lifeformed](https://open.spotify.com/artist/1fHiTME799pW2QlBG6yNjV) | [Redwood Colonnade](https://open.spotify.com/album/4Lbcu9kjXEMs3jPpovk9mL) | 5:57 |
 | 30 | [Forgotten](https://open.spotify.com/track/2yra4e1hv7mRcjPY4GRS9h) | [trxxshed](https://open.spotify.com/artist/5H3acacLmK93wEdJWZhERU), [Lomtre](https://open.spotify.com/artist/1k3LtgjJQgOGwjOyNSQuMJ) | [Far from Reality](https://open.spotify.com/album/395JmKtHQEzMCI05Mkwb6i) | 2:07 |
 | 31 | [tears](https://open.spotify.com/track/0lR6qQ72JIxSm2c1NWIyHt) | [Austin Chen](https://open.spotify.com/artist/3y6dmAk5GeWK3wjo8xcpjf) | [scenes I](https://open.spotify.com/album/32VEzvjaCrWCdoSUB67Wvf) | 2:24 |
 | 32 | [pyjamas](https://open.spotify.com/track/2hUhKjunV4ryNKlQmnDqN0) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [pyjamas](https://open.spotify.com/album/1k5jnVJrROUCzvUVvrbKXT) | 2:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 49 | [rainy season](https://open.spotify.com/track/59LPj6cPU3jod22Ai3YFoG) | [Xori](https://open.spotify.com/artist/5e4BMUzdxvt2bedcoBKrjv) | [Slumber Tape](https://open.spotify.com/album/4TtWrCfrifMbXjUeP8vuPo) | 0:52 |
 | 50 | [Arcade](https://open.spotify.com/track/7w1rgZiQ7aIVgqpHvFUifh) | [Chilled AF](https://open.spotify.com/artist/4MzsyH1fwjNcrEthWnphyJ) | [Arcade](https://open.spotify.com/album/3AXZhfhDvkujRCdKTwAugQ) | 1:42 |
 
-Snapshot ID: `MTY3NzUzMTM3OSwwMDAwMDAwMGNmMGZjMmFlOWJmMjk1ZDEwZjJmMzE1ZmQ2MWZhNzAw`
+Snapshot ID: `MCxkODBjODc2MjgxM2I4ODA1NjY1ZjZkY2NhZDZhYTUwODRjN2E3Nzdm`

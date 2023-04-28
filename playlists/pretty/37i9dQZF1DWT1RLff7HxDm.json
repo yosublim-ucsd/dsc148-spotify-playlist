@@ -1,12 +1,12 @@
 {
   "description": "All live, all blues. Cover: Jackie Venson",
-  "num_followers": 154065,
+  "num_followers": 154128,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDQ2ZWNkN2VmYzczZDViNzM5NDE3MmFlYTg1ODk0ZGYy",
+  "snapshot_id": "MCxiYWFmZWE1MjNmZDg0NzRjM2FhZjNkMzU1YjI0ODlkODk3YmEzYzYz",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -621,38 +621,6 @@
       "url": "https://open.spotify.com/track/3rBYc8dlONJSWY6gJ3fUwQ"
     },
     {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Live At San Quentin",
-        "url": "https://open.spotify.com/album/1Lm56IVJSuSNumkGqlHOL2"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 281866,
-      "name": "Everyday I Have The Blues - Live (San Quentin)",
-      "url": "https://open.spotify.com/track/0rTmNc15RZrI9EzBM7cE0L"
-    },
-    {
-      "added_at": "2022-02-04 17:00:00",
-      "album": {
-        "name": "Mississippi Nights (Live)",
-        "url": "https://open.spotify.com/album/1cvWBICxDY8MTlff2niSji"
-      },
-      "artists": [
-        {
-          "name": "Mike Zito",
-          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
-        }
-      ],
-      "duration_ms": 300929,
-      "name": "Mississippi Nights - Live",
-      "url": "https://open.spotify.com/track/4FdgENJLxPqHFu9kX3iR4j"
-    },
-    {
       "added_at": "2021-09-17 04:02:00",
       "album": {
         "name": "Paint The Roses (Live in Concert)",
@@ -671,6 +639,38 @@
       "duration_ms": 312824,
       "name": "Mad As A Hatter - Live in Concert",
       "url": "https://open.spotify.com/track/3msGgsgqMQXd7nO1S2e59f"
+    },
+    {
+      "added_at": "2022-02-04 17:00:00",
+      "album": {
+        "name": "Mississippi Nights (Live)",
+        "url": "https://open.spotify.com/album/1cvWBICxDY8MTlff2niSji"
+      },
+      "artists": [
+        {
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+        }
+      ],
+      "duration_ms": 300929,
+      "name": "Mississippi Nights - Live",
+      "url": "https://open.spotify.com/track/4FdgENJLxPqHFu9kX3iR4j"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Live At San Quentin",
+        "url": "https://open.spotify.com/album/1Lm56IVJSuSNumkGqlHOL2"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 281866,
+      "name": "Everyday I Have The Blues - Live (San Quentin)",
+      "url": "https://open.spotify.com/track/0rTmNc15RZrI9EzBM7cE0L"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -707,18 +707,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Backstage Pass (Live)",
-        "url": "https://open.spotify.com/album/0jacoX6zadwW0ESPf6Bmzn"
+        "name": "Live At Montreux 1999",
+        "url": "https://open.spotify.com/album/1dP8l4ixSJsI0T4au2j6ln"
       },
       "artists": [
         {
-          "name": "Ghost Town Blues Band",
-          "url": "https://open.spotify.com/artist/4VblfNPhfhWsX28dEgV4sK"
+          "name": "The Jeff Healey Band",
+          "url": "https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ"
         }
       ],
-      "duration_ms": 268650,
-      "name": "Tip of My Hat (Live)",
-      "url": "https://open.spotify.com/track/3utyGdz94oMBMSnEV6Cz8N"
+      "duration_ms": 410960,
+      "name": "Stop Breakin' Down - Live",
+      "url": "https://open.spotify.com/track/6dB8978aNpxv00JwIY3gui"
     },
     {
       "added_at": "2021-06-11 04:01:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
+        "name": "Backstage Pass (Live)",
+        "url": "https://open.spotify.com/album/0jacoX6zadwW0ESPf6Bmzn"
+      },
+      "artists": [
+        {
+          "name": "Ghost Town Blues Band",
+          "url": "https://open.spotify.com/artist/4VblfNPhfhWsX28dEgV4sK"
+        }
+      ],
+      "duration_ms": 268650,
+      "name": "Tip of My Hat (Live)",
+      "url": "https://open.spotify.com/track/3utyGdz94oMBMSnEV6Cz8N"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
         "name": "Live at the Jazzhaus",
         "url": "https://open.spotify.com/album/5ecLOcNNAIyy2ItMEIMwK4"
       },
@@ -759,18 +775,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Live At Montreux 1999",
-        "url": "https://open.spotify.com/album/1dP8l4ixSJsI0T4au2j6ln"
+        "name": "Live 2014 (Nighttrain To Budapest Farewell Tour)",
+        "url": "https://open.spotify.com/album/1pzrHf1F0rrkH5lXCLQdE3"
       },
       "artists": [
         {
-          "name": "The Jeff Healey Band",
-          "url": "https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ"
+          "name": "Henrik Freischlader",
+          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
         }
       ],
-      "duration_ms": 410960,
-      "name": "Stop Breakin' Down - Live",
-      "url": "https://open.spotify.com/track/6dB8978aNpxv00JwIY3gui"
+      "duration_ms": 368213,
+      "name": "A Better Man",
+      "url": "https://open.spotify.com/track/0Z2VBFXHEzIVp1Y9fRA6ow"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -787,22 +803,6 @@
       "duration_ms": 387346,
       "name": "Diamonds & Gold - Live",
       "url": "https://open.spotify.com/track/1vU3fCNqHTO7fXGY4tEtDl"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Live 2014 (Nighttrain To Budapest Farewell Tour)",
-        "url": "https://open.spotify.com/album/1pzrHf1F0rrkH5lXCLQdE3"
-      },
-      "artists": [
-        {
-          "name": "Henrik Freischlader",
-          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
-        }
-      ],
-      "duration_ms": 368213,
-      "name": "A Better Man",
-      "url": "https://open.spotify.com/track/0Z2VBFXHEzIVp1Y9fRA6ow"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -855,22 +855,6 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Live In Tallahassee",
-        "url": "https://open.spotify.com/album/2UH1aJggZdP0Vz0iTjouYG"
-      },
-      "artists": [
-        {
-          "name": "Eugene Hideaway Bridges",
-          "url": "https://open.spotify.com/artist/0vZJjQvIZKzNxKOP5eLzWY"
-        }
-      ],
-      "duration_ms": 212732,
-      "name": "Step By Step - Live",
-      "url": "https://open.spotify.com/track/1MMcAvzf5cGgQ9hLt0Y0WA"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
         "name": "Live-Spontaneous Combustion",
         "url": "https://open.spotify.com/album/5mZIk71ovwj9JW69EBGdqb"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 281666,
       "name": "Crying For My Baby",
       "url": "https://open.spotify.com/track/1ZbuDt1StCJMB68xc4Ec9A"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Live In Tallahassee",
+        "url": "https://open.spotify.com/album/2UH1aJggZdP0Vz0iTjouYG"
+      },
+      "artists": [
+        {
+          "name": "Eugene Hideaway Bridges",
+          "url": "https://open.spotify.com/artist/0vZJjQvIZKzNxKOP5eLzWY"
+        }
+      ],
+      "duration_ms": 212732,
+      "name": "Step By Step - Live",
+      "url": "https://open.spotify.com/track/1MMcAvzf5cGgQ9hLt0Y0WA"
     },
     {
       "added_at": "2021-09-17 04:02:00",

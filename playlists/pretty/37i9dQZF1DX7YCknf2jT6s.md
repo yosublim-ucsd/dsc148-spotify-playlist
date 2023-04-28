@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Alfa Mist
 
-[Spotify](https://open.spotify.com/user/spotify) - 890,208 likes - 100 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 890,474 likes - 100 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Youngstown 2](https://open.spotify.com/track/0Eeg4BUHnfgkNmdFNbU6Pb) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Thin Thicket](https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng), [Winston Bell](https://open.spotify.com/artist/0Izs56yAnVoK3Cgy4Y68h2), [Damon the Soulful Samurai](https://open.spotify.com/artist/6B7G3EEuNog0pIB4IYqXtp), [Antonio Labra](https://open.spotify.com/artist/27zwBTNwuN786OvS6BpzD4), [Drehova](https://open.spotify.com/artist/2WYpO40KD8lWY8YAC7L4DO), [Thomas Russell](https://open.spotify.com/artist/68xOAUse5cObr1No8jPoel), [Nate Yingling](https://open.spotify.com/artist/580mPpv8hFKzL8f849ABLi) | [Youngstown 2](https://open.spotify.com/album/6cIUPLCk2bVt1aNqE2UP7E) | 2:56 |
 | 100 | [Anthology](https://open.spotify.com/track/2Jlm3Q8LqbAHXNAkyNq9Lj) | [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL) | [Anthology](https://open.spotify.com/album/7h1KF4cAeABJBqZt8Nf2O9) | 4:02 |
 
-Snapshot ID: `MTY4MjA4ODM2NSwwMDAwMDAwMDYxYjllZWJmMGQyODMwNzMzMmIxNmJhZTQyNzUwMWYx`
+Snapshot ID: `MCw5MzAwNzE5Y2U3OWI1ZDY2ZjI5OTU1YmYwM2MxMjg3ODI4YjE2Y2Rh`

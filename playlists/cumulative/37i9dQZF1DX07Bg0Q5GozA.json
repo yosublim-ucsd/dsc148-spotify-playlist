@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: George FitzGerald, SYML",
+  "description": "New music off the beaten track. Cover: Chromeo, La Roux",
   "name": "OFF POP",
   "tracks": [
     {
@@ -467,6 +467,28 @@
     },
     {
       "album": {
+        "name": "Bad",
+        "url": "https://open.spotify.com/album/6bvi36j9nKaLJz7DzeU4xi"
+      },
+      "artists": [
+        {
+          "name": "Kev Koko",
+          "url": "https://open.spotify.com/artist/2WZCpsGLdNU1xENRwETylI"
+        },
+        {
+          "name": "Ceren",
+          "url": "https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131707,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/7vIpp7o0OPjbLHPb7TNAHY"
+    },
+    {
+      "album": {
         "name": "Bait",
         "url": "https://open.spotify.com/album/3wnGJIfAXv18as89ckvk4N"
       },
@@ -504,6 +526,24 @@
       "duration_ms": 206854,
       "name": "Be Where I Am (feat. Daniel Wilson)",
       "url": "https://open.spotify.com/track/4xbckUvPGcKV7QKkr7Fzyd"
+    },
+    {
+      "album": {
+        "name": "Before We Meet Again",
+        "url": "https://open.spotify.com/album/05DWdwz5EVwV5Zzvvy7kNa"
+      },
+      "artists": [
+        {
+          "name": "Anja Schneider",
+          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262225,
+      "name": "Before We Meet Again",
+      "url": "https://open.spotify.com/track/1uZehIWzCcwqrlmZSBD2xC"
     },
     {
       "album": {
@@ -1467,6 +1507,28 @@
     },
     {
       "album": {
+        "name": "Dummy \u2013 Chrome Sparks Remix",
+        "url": "https://open.spotify.com/album/1evFsTho9g2jaaIBwX5i5L"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "Chrome Sparks",
+          "url": "https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226908,
+      "name": "Dummy \u2013 Chrome Sparks Remix",
+      "url": "https://open.spotify.com/track/3VsuqAQ7XXKsygtCGyPzO1"
+    },
+    {
+      "album": {
         "name": "echo",
         "url": "https://open.spotify.com/album/1FVtCp6xQpGoxrTJcUJ5jz"
       },
@@ -1723,6 +1785,24 @@
     },
     {
       "album": {
+        "name": "Consciousness As A State Of Matter",
+        "url": "https://open.spotify.com/album/30ihOotiuxfm39eEVm24FI"
+      },
+      "artists": [
+        {
+          "name": "Terr",
+          "url": "https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252711,
+      "name": "Final Dance",
+      "url": "https://open.spotify.com/track/7re9LDHysQXrIlbQxaDzBv"
+    },
+    {
+      "album": {
         "name": "Best Off",
         "url": "https://open.spotify.com/album/0kAEWs07cajZqzJqb0b4YN"
       },
@@ -1890,7 +1970,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 223050,
       "name": "Free Bird",
       "url": "https://open.spotify.com/track/3OsAfJ303euvdK0k5wL4Ob"
@@ -2010,7 +2090,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 160127,
       "name": "Good Lies",
       "url": "https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt"
@@ -2982,7 +3062,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 303000,
       "name": "LIMBO",
       "url": "https://open.spotify.com/track/2eQSBR1jT5VhosvPkz90BD"
@@ -3808,7 +3888,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 148997,
       "name": "Now Or Never",
       "url": "https://open.spotify.com/track/7xcmPlJlJZ4JsGapKjdkCu"
@@ -4256,10 +4336,32 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 192150,
       "name": "Relax My Eyes",
       "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
+    },
+    {
+      "album": {
+        "name": "Replacements (feat. La Roux)",
+        "url": "https://open.spotify.com/album/677Ket8qKGVOMtXgE4Gpfk"
+      },
+      "artists": [
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        },
+        {
+          "name": "La Roux",
+          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229960,
+      "name": "Replacements (feat. La Roux)",
+      "url": "https://open.spotify.com/track/067mO4njSpF7qUEE96lbpH"
     },
     {
       "album": {
@@ -4522,6 +4624,24 @@
       "duration_ms": 289554,
       "name": "save on love - Edit",
       "url": "https://open.spotify.com/track/77tjTonIkxPWPN1pL3j7O0"
+    },
+    {
+      "album": {
+        "name": "Scars",
+        "url": "https://open.spotify.com/album/0iTJuQRY2EbwYslNyafKPS"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178746,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/6cu2L8ghmlsDpRtyHCHAm4"
     },
     {
       "album": {
@@ -5660,7 +5780,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 175500,
       "name": "Wenn Die Welt Weint",
       "url": "https://open.spotify.com/track/4Nu3ioTzEbCC48lD2UX4co"

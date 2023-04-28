@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Michael Ray",
-  "num_followers": 87323,
+  "num_followers": 87366,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDExODU0MGQ5YzY0ZWVkNGFkNWQ3YzJiYzZlMGRmMjll",
+  "snapshot_id": "MCxhNDgxZDdkOTE4Yzc2ZTBmNmJiMmIxYzZkYTYyMWM2MjU3Njk2NmRm",
   "tracks": [
     {
       "added_at": "2023-04-21 04:00:00",
@@ -171,7 +171,7 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) [Spotify Singles]",
+        "name": "You Oughta Know (feat. Ingrid Andress, Madeline Edwards, Morgan Wade) [Spotify Singles]",
         "url": "https://open.spotify.com/album/6IwwVGLtiflk9IkTcRwE6n"
       },
       "artists": [
@@ -184,10 +184,6 @@
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         },
         {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        },
-        {
           "name": "Madeline Edwards",
           "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
         },
@@ -197,7 +193,7 @@
         }
       ],
       "duration_ms": 256217,
-      "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) - Spotify Singles",
+      "name": "You Oughta Know (feat. Ingrid Andress, Madeline Edwards, Morgan Wade) - Spotify Singles",
       "url": "https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv"
     },
     {
@@ -1279,6 +1275,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Feeling Whitney",
+        "url": "https://open.spotify.com/album/7e0N7emlUh6WAAFpsPdVJw"
+      },
+      "artists": [
+        {
+          "name": "Tyler Booth",
+          "url": "https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel"
+        }
+      ],
+      "duration_ms": 217034,
+      "name": "Feeling Whitney",
+      "url": "https://open.spotify.com/track/1yHqsAEZxRAcQIkk8LHlFN"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "It's Only Rock 'N' Roll (But I Like It)",
         "url": "https://open.spotify.com/album/6g7AqmtgaMi9JCV7HbJNbS"
       },
@@ -1311,22 +1323,6 @@
       "duration_ms": 243545,
       "name": "Outskirts of Heaven",
       "url": "https://open.spotify.com/track/7H3EzoWKPRcagDVhJU4WxI"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Feeling Whitney",
-        "url": "https://open.spotify.com/album/7e0N7emlUh6WAAFpsPdVJw"
-      },
-      "artists": [
-        {
-          "name": "Tyler Booth",
-          "url": "https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel"
-        }
-      ],
-      "duration_ms": 217034,
-      "name": "Feeling Whitney",
-      "url": "https://open.spotify.com/track/1yHqsAEZxRAcQIkk8LHlFN"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1479,22 +1475,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "I Don't Want To Miss A Thing",
-        "url": "https://open.spotify.com/album/4I8szVY9j0NJAOz7tmnZVy"
-      },
-      "artists": [
-        {
-          "name": "Mark Chesnutt",
-          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
-        }
-      ],
-      "duration_ms": 246226,
-      "name": "I Don't Want To Miss A Thing",
-      "url": "https://open.spotify.com/track/3FN7JMZaaQ9lSzIaan0YZ1"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/1qP5WX9ynLx93VQadyYuN0"
       },
@@ -1511,6 +1491,22 @@
       "duration_ms": 217200,
       "name": "Teenage Dream",
       "url": "https://open.spotify.com/track/26lrynwoaN6Bz8oVU5VdO8"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "I Don't Want To Miss A Thing",
+        "url": "https://open.spotify.com/album/4I8szVY9j0NJAOz7tmnZVy"
+      },
+      "artists": [
+        {
+          "name": "Mark Chesnutt",
+          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
+        }
+      ],
+      "duration_ms": 246226,
+      "name": "I Don't Want To Miss A Thing",
+      "url": "https://open.spotify.com/track/3FN7JMZaaQ9lSzIaan0YZ1"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1683,6 +1679,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/5AYFktXxjedXNj49mUUv5i"
+      },
+      "artists": [
+        {
+          "name": "John Michael Montgomery",
+          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
+        }
+      ],
+      "duration_ms": 262520,
+      "name": "I Swear",
+      "url": "https://open.spotify.com/track/0XrZybkQwtDUvLNehXqyVR"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Your Body Is a Wonderland",
         "url": "https://open.spotify.com/album/27P5OkGiawj435vcXE0zwM"
       },
@@ -1699,22 +1711,6 @@
       "duration_ms": 217659,
       "name": "Your Body Is a Wonderland",
       "url": "https://open.spotify.com/track/4MK7QI7Z3kwAv6utvZNcEw"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/5AYFktXxjedXNj49mUUv5i"
-      },
-      "artists": [
-        {
-          "name": "John Michael Montgomery",
-          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
-        }
-      ],
-      "duration_ms": 262520,
-      "name": "I Swear",
-      "url": "https://open.spotify.com/track/0XrZybkQwtDUvLNehXqyVR"
     }
   ],
   "unique_name": "Country Covers",

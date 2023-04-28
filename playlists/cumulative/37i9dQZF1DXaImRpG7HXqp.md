@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-511 songs - 22 hr 30 min
+512 songs - 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,8 +339,9 @@
 | [Pescadores](https://open.spotify.com/track/1kUaMtCK9JFPHUqPY9vEWN) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Pescadores](https://open.spotify.com/album/6PZrP9DIw8EYEwkuyZm7Pj) | 2:47 | 2022-05-27 | 2022-08-05 |
 | [Peyton](https://open.spotify.com/track/5nUAFJs7AXuw8oALXh0wQX) | [Gabin Young](https://open.spotify.com/artist/3ZuB0jYTfhTCPaK6G9Ljfd) | [Peyton](https://open.spotify.com/album/7MGnQ4kVdBH0quMv2QY2LO) | 2:26 | 2023-01-06 |  |
 | [Photos of the Sun](https://open.spotify.com/track/6pnuVKbhK0ROctyEzFpz5G) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Photos of the Sun](https://open.spotify.com/album/6rKBI95x3OvQyTnyuNYXeH) | 2:53 | 2021-12-08 |  |
-| [Pine Barrens](https://open.spotify.com/track/1moLhzV03IwcCSlbyq0q0I) | [A.J\. Meadow](https://open.spotify.com/artist/6hqhZGNThHWF0vmysPbPAo) | [Pine Barrens](https://open.spotify.com/album/3tXbPp7iD9LQJ2dV4RR1W7) | 2:09 | 2022-10-28 |  |
+| [Pine Barrens](https://open.spotify.com/track/1moLhzV03IwcCSlbyq0q0I) | [A.J\. Meadow](https://open.spotify.com/artist/6hqhZGNThHWF0vmysPbPAo) | [Pine Barrens](https://open.spotify.com/album/3tXbPp7iD9LQJ2dV4RR1W7) | 2:09 | 2022-10-28 | 2023-04-28 |
 | [Pine Barrens](https://open.spotify.com/track/3K83TKlA6woUhq03vdliqz) | [A.J\. Meadow](https://open.spotify.com/artist/6hqhZGNThHWF0vmysPbPAo) | [Pine Barrens](https://open.spotify.com/album/0e1QAdLfpz2c0kXNVHF3vM) | 2:09 | 2022-10-28 | 2022-11-04 |
+| [Pine Barrens](https://open.spotify.com/track/5bLgfdDvNBcuVUgczhA4j5) | [A.J\. Meadow](https://open.spotify.com/artist/6hqhZGNThHWF0vmysPbPAo) | [Pine Barrens](https://open.spotify.com/album/1YeRrk4HCZp0xjRWU73YcU) | 2:09 | 2023-04-21 |  |
 | [Pinus Cembra](https://open.spotify.com/track/0KfgAX6tVB7J4fO72KHkBO) | [Leo Vara](https://open.spotify.com/artist/3f2LfaBv92I0qjmfU6fseT) | [Pinus Cembra](https://open.spotify.com/album/4NcSdFGsfLU8g1d5dMrz5X) | 3:03 | 2021-12-08 | 2022-09-23 |
 | [Piumata](https://open.spotify.com/track/0SwMXhWI9pZO0lroyyjfCl) | [Briana Courtois](https://open.spotify.com/artist/16zv8egdYW4tjmgK2JqIwV) | [Piumata](https://open.spotify.com/album/3oKBrqXfzKn8vYJwAra3T1) | 2:13 | 2023-01-06 |  |
 | [Place of Mind](https://open.spotify.com/track/1pgpQZQvJv2cMxYVvUjJTF) | [Masaaki Kishibe](https://open.spotify.com/artist/4D9ADmnRSSpkyrnofqLa7b) | [Place of Mind](https://open.spotify.com/album/2kLih1mDxzTgcQNhWDnPBx) | 2:39 | 2022-06-10 | 2022-07-29 |

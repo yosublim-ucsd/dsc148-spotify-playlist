@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Kabzaa
 
-650 songs - 1 day 16 hr 21 min
+651 songs - 1 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -625,6 +625,7 @@
 | [Udupi Hotelu](https://open.spotify.com/track/5qHavAlDuoHxydQvcoYyHZ) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Badava Rascal](https://open.spotify.com/album/5ipfmQApCuvhI3tYuv3eLy) | 3:15 | 2021-12-06 | 2022-06-15 |
 | [Upadhyaksha Title Track](https://open.spotify.com/track/1UbXgNpimNLPUnNFo7StOB) | [Vyasraj Sosale](https://open.spotify.com/artist/2kUH5PlbfTRfChKtfp6JCE) | [Upadhyaksha](https://open.spotify.com/album/3Hbxhl13i4WFzaTiHnBhY1) | 4:00 | 2023-01-27 | 2023-03-12 |
 | [Upadhyaksha Title Track \- from "Upadhyaksha"](https://open.spotify.com/track/6QOSva7goIIBuaN1YJwCjZ) | [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ), [Vyasraj Sosale](https://open.spotify.com/artist/2kUH5PlbfTRfChKtfp6JCE) | [Upadhyaksha Title Track \(from "Upadhyaksha"\)](https://open.spotify.com/album/5uqVy0bz5uTjOQ4CMfd7Cf) | 4:00 | 2023-01-27 |  |
+| [Urulo Kaalave](https://open.spotify.com/track/4aBPuMlL74N21gC3HHS84T) | [Suresh Bobbili](https://open.spotify.com/artist/4TR1GJuGfGfrCLjNCI44eZ), [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q), [Varadaraju Chikkaballapura](https://open.spotify.com/artist/49xagSHCtnXc62Ifkj7bCI) | [Matte Maduve](https://open.spotify.com/album/1einbNMBPIE9bVDDWJHiPW) | 3:42 | 2023-04-27 |  |
 | [Usiradagide](https://open.spotify.com/track/50NtnG97a2M2BKOpu9d0HZ) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Abhijith Rao](https://open.spotify.com/artist/34uPPT8En9O7fAEPO8S3Fp) | [Cobra \(Kannada\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/1qSwn3PO718zhJ7UhYBO0K) | 5:13 | 2022-09-05 | 2022-11-16 |
 | [Usire Nanagada \(From "Baby Missing"\)](https://open.spotify.com/track/5pa0EMuhQ9hYzPaqn8zWCO) | [Asha Bhat](https://open.spotify.com/artist/6cYELvB5Xi5UqGzitD1U96), [V Nagendra Prasad](https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU), [Sastha](https://open.spotify.com/artist/4gFdLUiDngxaiEGXYv8z3d) | [Usire Nanagada \(From "Baby Missing"\)](https://open.spotify.com/album/1Pd7InjUeFavxc7PHZXjGz) | 2:28 | 2022-11-04 | 2023-02-04 |
 | [Usire Usire \( From "Mehbooba"\)](https://open.spotify.com/track/1l5nMZQDCMzKRRMmgX4UG9) | [Nadeera Banu](https://open.spotify.com/artist/4rxjmsGK65NwiIXANsVGYS), [Mathews Manu](https://open.spotify.com/artist/2qlqqGIFF4jY4sGn29J4Ir), [V\. Raghu Shastry](https://open.spotify.com/artist/54RaRFcpqUUJIisuXILbUL) | [Usire Usire \(From "Mehbooba"\)](https://open.spotify.com/album/1qcxbOCzcFmvBS2hHpco6X) | 3:43 | 2022-10-18 | 2022-11-19 |

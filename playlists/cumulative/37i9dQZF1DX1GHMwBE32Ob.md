@@ -2,9 +2,9 @@
 
 ### [Street Energy ](https://open.spotify.com/playlist/37i9dQZF1DX1GHMwBE32Ob)
 
-> The sounds keeping the streets of Nigeria on fire\. <br/>Cover: Bad boy Timz & Zlatan
+> The sounds keeping the streets of Nigeria on fire\. <br/>Cover: Zlatan
 
-107 songs - 5 hr 11 min
+109 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Expensive OG](https://open.spotify.com/track/2uouDmVWCi9IlxG8x7O7VR) | [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Expensive OG](https://open.spotify.com/album/75UAX3c5Ahb7offUmPHyqB) | 3:42 | 2022-06-29 | 2022-12-13 |
 | [Feel Better](https://open.spotify.com/track/11gtAsVqrzhvI0g9lVrLc0) | [Anonymous Music](https://open.spotify.com/artist/4WhsLR2xiykGDAXg1ozqBG), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Feel Better](https://open.spotify.com/album/1ew7HYS9GyX2klze1hoKFL) | 2:23 | 2023-01-12 |  |
 | [Fididi](https://open.spotify.com/track/2rJas09J1tQEIhHZEmTsjv) | [Flash](https://open.spotify.com/artist/4YpdJj3xKNzKiLjowqoi0p), [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP) | [Fididi](https://open.spotify.com/album/0TOOHS6cwW4RE2Wxdm3ynj) | 3:26 | 2022-07-29 |  |
-| [Fire Down](https://open.spotify.com/track/6ZzN6WLgAlx7sHCath3P9B) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [El Major](https://open.spotify.com/album/29IbX53a1mueMk9BgvcfZn) | 2:51 | 2022-11-18 |  |
+| [Fire Down](https://open.spotify.com/track/6ZzN6WLgAlx7sHCath3P9B) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [El Major](https://open.spotify.com/album/29IbX53a1mueMk9BgvcfZn) | 2:51 | 2022-11-18 | 2023-04-28 |
 | [FotiFoyin](https://open.spotify.com/track/2tuUgpT6L9av9kVH2Yhj9I) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [FotiFoyin](https://open.spotify.com/album/2qzFiIaTeSBXReTMAISM5u) | 3:35 | 2022-07-07 | 2023-01-03 |
 | [Fun for Love](https://open.spotify.com/track/3doWW3a8etr8hhVSJXYhFv) | [Davolee](https://open.spotify.com/artist/5sw96lcKm8tdmqudO4AJ8a), [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs) | [Fun for Love](https://open.spotify.com/album/3SHD5LOEnhMsJqwEoozkbQ) | 2:38 | 2023-03-18 |  |
 | [Geng](https://open.spotify.com/track/1pUaknOVFqwYwExrK3K5zv) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Geng](https://open.spotify.com/album/5V40JgTzx7L2GYMAcj7Rdw) | 2:07 | 2022-06-29 | 2023-04-15 |
@@ -46,9 +46,10 @@
 | [Good Morning Riddim](https://open.spotify.com/track/3H2yJkmKQXfjOtIKlPm300) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Sinym \(Sarz Is Not Your Mate\)](https://open.spotify.com/album/3ZPMvMpc49XwdxVMZZsjRy) | 3:35 | 2022-06-29 | 2023-02-17 |
 | [Grace](https://open.spotify.com/track/36pcZx6k9RDQedQHuGfvIo) | [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX), [Ladé](https://open.spotify.com/artist/43Nm4QEBSVkJYcYhsN2Bd1) | [Grace](https://open.spotify.com/album/0ULfBwzLPqu4NTSZ4sYjkv) | 3:19 | 2022-08-25 | 2023-04-21 |
 | [GWAGWALADA](https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [GWAGWALADA](https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc) | 3:08 | 2023-02-16 |  |
+| [HOV](https://open.spotify.com/track/3jtPLQ4eBEcfyry5148T9x) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 2:18 | 2023-04-27 |  |
 | [I Salute \(feat\. Zlatan\)](https://open.spotify.com/track/5o3dCqgRTiSt6MC3Gi0jzj) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [I Salute \(feat\. Zlatan\)](https://open.spotify.com/album/57rCVdacl4vjhnT8UVb2n6) | 3:07 | 2023-04-20 |  |
 | [Idi Oremi \(Opotoyi, Pt\. 2\)](https://open.spotify.com/track/1IU3Jr0B5keEYO7zNDk5OX) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Idi Oremi \(Opotoyi, Pt\. 2\)](https://open.spotify.com/album/532Y9sBAkcmuOQC3EsgW0K) | 3:14 | 2022-06-29 | 2023-02-11 |
-| [If No Be You](https://open.spotify.com/track/1ZKiX93n8VgK0Gh7iqW9Es) | [Jamopyper](https://open.spotify.com/artist/7InYF1yp4vtlnMr1U4D3KZ), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [If No Be You](https://open.spotify.com/album/36pqojgfTE8oOoHoswOgxW) | 3:31 | 2022-06-29 |  |
+| [If No Be You](https://open.spotify.com/track/1ZKiX93n8VgK0Gh7iqW9Es) | [Jamopyper](https://open.spotify.com/artist/7InYF1yp4vtlnMr1U4D3KZ), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [If No Be You](https://open.spotify.com/album/36pqojgfTE8oOoHoswOgxW) | 3:31 | 2022-06-29 | 2023-04-28 |
 | [Ife Ife](https://open.spotify.com/track/3716u4GLH9a7HqmwCWLrC9) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Ife Ife](https://open.spotify.com/album/7iIw1JOb6ciXxIw603PpvJ) | 2:18 | 2022-12-02 | 2023-01-13 |
 | [Ikebe Supa](https://open.spotify.com/track/7FBXDNS5zK0BBltUjXnttC) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Ceeza Milli](https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A) | [Ikebe Supa](https://open.spotify.com/album/4mnduAfflZxa1pqvQybyb6) | 2:21 | 2022-11-04 |  |
 | [Instagram](https://open.spotify.com/track/12eQ5caMTUuzU7JIYB272D) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Instagram](https://open.spotify.com/album/6sFvLO6FV4q9E9qkhJyRVS) | 3:08 | 2022-06-29 |  |
@@ -88,6 +89,7 @@
 | [Personal](https://open.spotify.com/track/1Lg2Agsu9XTZ6M4wfRMpff) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Personal](https://open.spotify.com/album/3A2ta8zCeJjbZkmx0yTxtx) | 2:23 | 2022-12-18 | 2023-02-04 |
 | [PXTA](https://open.spotify.com/track/1D7RpT4p5j72tan4NvEdCY) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [PXTA](https://open.spotify.com/album/1JNKnxhJ9hpSpV1vbetRbU) | 3:28 | 2022-06-29 | 2022-12-25 |
 | [PXTA](https://open.spotify.com/track/5h3sBzadjK7vFM6M2GR9wg) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [PXTA](https://open.spotify.com/album/7l5tpAs5HtaHTVvSRlypnk) | 3:28 | 2022-06-29 |  |
+| [Rara](https://open.spotify.com/track/7Ko1e2popoynx9jsU0wj6S) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Omo Ologo](https://open.spotify.com/album/74BlJC2C7ifL7mgPCRFpKN) | 2:36 | 2023-04-27 |  |
 | [Realize](https://open.spotify.com/track/1GfaxJMFAolWogWr2MNkZ3) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Realize](https://open.spotify.com/album/6CsuuMym36rdojCUMsiOud) | 2:55 | 2022-07-29 |  |
 | [Red](https://open.spotify.com/track/2eMgsptakx869WHZ64Y2No) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [Fire](https://open.spotify.com/album/7pQThPR8GmQWkzpvqIteNH) | 2:54 | 2022-06-29 | 2023-02-01 |
 | [Rora](https://open.spotify.com/track/6b6Bz7pyeqLXDn92EHCyVY) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Rora](https://open.spotify.com/album/4LzrbIrHS40GfLklCbjX05) | 2:29 | 2023-01-27 |  |

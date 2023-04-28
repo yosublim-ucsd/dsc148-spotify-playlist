@@ -1119,6 +1119,24 @@
     },
     {
       "album": {
+        "name": "Blue Midnight",
+        "url": "https://open.spotify.com/album/7MRGlwATlHi5bLlAE15AAp"
+      },
+      "artists": [
+        {
+          "name": "James Leeluck",
+          "url": "https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189134,
+      "name": "Blue Midnight",
+      "url": "https://open.spotify.com/track/77b7vqhEpGFSiCoeWnExeZ"
+    },
+    {
+      "album": {
         "name": "Blue Moon",
         "url": "https://open.spotify.com/album/3BOJmn1f6TkOB1hNCvCnth"
       },
@@ -2074,7 +2092,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 139566,
       "name": "Easy",
       "url": "https://open.spotify.com/track/6IP328KWUVyrLfKLtx6kA0"
@@ -3410,6 +3428,24 @@
       "duration_ms": 189458,
       "name": "I'm In The Mood For Love",
       "url": "https://open.spotify.com/track/6iYC9yDJSp6JGzpJJT9hGD"
+    },
+    {
+      "album": {
+        "name": "I'm In The Mood For Love",
+        "url": "https://open.spotify.com/album/3O9IgokX9F0fFYpbjjkU4z"
+      },
+      "artists": [
+        {
+          "name": "Noodlin' Collective",
+          "url": "https://open.spotify.com/artist/1N9SBlfwJKrnGEZ3bqAazY"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225746,
+      "name": "I'm In The Mood For Love",
+      "url": "https://open.spotify.com/track/2MYMJ5KztaWTeWILbZ1QYt"
     },
     {
       "album": {
@@ -4943,6 +4979,24 @@
     },
     {
       "album": {
+        "name": "Mellow Moments",
+        "url": "https://open.spotify.com/album/1ewVy7oBv5CLUM7htj4oFk"
+      },
+      "artists": [
+        {
+          "name": "Leeluck & Co",
+          "url": "https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188838,
+      "name": "Mellow Moments",
+      "url": "https://open.spotify.com/track/3YGVTfSxTCuDykWrENqmGp"
+    },
+    {
+      "album": {
         "name": "Memories Of Her Music",
         "url": "https://open.spotify.com/album/0ae4cJFhCtFf2ZSO4UMewV"
       },
@@ -5084,6 +5138,24 @@
       "duration_ms": 252786,
       "name": "Misty",
       "url": "https://open.spotify.com/track/78K54LEyjSttk9UTE8PR9r"
+    },
+    {
+      "album": {
+        "name": "Moe's Place",
+        "url": "https://open.spotify.com/album/58ElMy5SJ4ceVKzRVlM9wG"
+      },
+      "artists": [
+        {
+          "name": "Japari Park",
+          "url": "https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216689,
+      "name": "Moe's Place",
+      "url": "https://open.spotify.com/track/43uYaQM4oue0m8WYyFBp2M"
     },
     {
       "album": {
@@ -6797,6 +6869,24 @@
     },
     {
       "album": {
+        "name": "Soliloquy",
+        "url": "https://open.spotify.com/album/1VFMQG2BAGIE3xBp1ejr34"
+      },
+      "artists": [
+        {
+          "name": "Jennie Reigen",
+          "url": "https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143757,
+      "name": "Soliloquy",
+      "url": "https://open.spotify.com/track/0te1ho7v4bPASest2eI0q3"
+    },
+    {
+      "album": {
         "name": "Solitude",
         "url": "https://open.spotify.com/album/2Qqdm6Zj9bCLWlkoSqE2bi"
       },
@@ -7785,6 +7875,24 @@
     },
     {
       "album": {
+        "name": "There Is No Greater Love",
+        "url": "https://open.spotify.com/album/5p6RUhe5l5MYma5NfzTiDn"
+      },
+      "artists": [
+        {
+          "name": "Kristian Hart Trio",
+          "url": "https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157928,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/5MCVwLbFOCJ1zCPM1kJqH7"
+    },
+    {
+      "album": {
         "name": "There Will Never Be Another You",
         "url": "https://open.spotify.com/album/4o8598qWSxGgvPIlyKD6ns"
       },
@@ -8358,6 +8466,24 @@
       "duration_ms": 153060,
       "name": "What A Little Moonlight Can Do",
       "url": "https://open.spotify.com/track/33sW1w6GqKgSolhokSdhpd"
+    },
+    {
+      "album": {
+        "name": "What Is This Thing Called Love?",
+        "url": "https://open.spotify.com/album/5UVZ4s0KCXmafIb6IqkNeB"
+      },
+      "artists": [
+        {
+          "name": "J for Jazz",
+          "url": "https://open.spotify.com/artist/7LJf4Jb42GSmUNGN2Zglk3"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229205,
+      "name": "What Is This Thing Called Love?",
+      "url": "https://open.spotify.com/track/6kpocYwFqMxws72HV8iVj3"
     },
     {
       "album": {
@@ -8970,6 +9096,24 @@
       "duration_ms": 170526,
       "name": "Younger",
       "url": "https://open.spotify.com/track/2n1SYJBFAWhiDekZF0De0k"
+    },
+    {
+      "album": {
+        "name": "Your Shining Eyes",
+        "url": "https://open.spotify.com/album/4lsQ8Bj4OfJHhSjB0byELm"
+      },
+      "artists": [
+        {
+          "name": "Wildflower Trio",
+          "url": "https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186074,
+      "name": "Your Shining Eyes",
+      "url": "https://open.spotify.com/track/5Enjr7Vz1J8inrynMzgmc6"
     },
     {
       "album": {

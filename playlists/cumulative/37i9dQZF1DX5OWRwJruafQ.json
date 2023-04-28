@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 201983,
       "name": "10 Bande",
       "url": "https://open.spotify.com/track/6yOfrhPr40G18wPui5CXxu"
@@ -154,7 +154,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 174023,
       "name": "Ain\u2019t Too Long",
       "url": "https://open.spotify.com/track/6cy1JX4TAyjfP9BTzqcQ3O"
@@ -399,6 +399,28 @@
     },
     {
       "album": {
+        "name": "Busy Getting Paid",
+        "url": "https://open.spotify.com/album/7cyE3wvdW2DEf6nUBmygBK"
+      },
+      "artists": [
+        {
+          "name": "Ammy Virk",
+          "url": "https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59"
+        },
+        {
+          "name": "DIVINE",
+          "url": "https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187636,
+      "name": "Busy Getting Paid",
+      "url": "https://open.spotify.com/track/6JQuDtJCyQcfVdtA0K8ivR"
+    },
+    {
+      "album": {
         "name": "Moosetape",
         "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"
       },
@@ -560,6 +582,32 @@
       "duration_ms": 169939,
       "name": "DEAD ZONE",
       "url": "https://open.spotify.com/track/5RTQ7QLKmUyWMl0jdPJzhp"
+    },
+    {
+      "album": {
+        "name": "Death Row",
+        "url": "https://open.spotify.com/album/7oq6Bm8RUggWkrXdsBMgfm"
+      },
+      "artists": [
+        {
+          "name": "Ninja",
+          "url": "https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT"
+        },
+        {
+          "name": "J.Hind",
+          "url": "https://open.spotify.com/artist/3hWwqQE8pDtGEOOf0VJx4t"
+        },
+        {
+          "name": "Deep Jandu",
+          "url": "https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185429,
+      "name": "Death Row",
+      "url": "https://open.spotify.com/track/0dDDt47pVAToheSPh12utX"
     },
     {
       "album": {
@@ -856,7 +904,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 166617,
       "name": "Gang",
       "url": "https://open.spotify.com/track/6JUucJOwksTvrjjnq3yyqQ"

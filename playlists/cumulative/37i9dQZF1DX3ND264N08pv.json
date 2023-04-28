@@ -210,7 +210,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 206238,
       "name": "BEAT DROP",
       "url": "https://open.spotify.com/track/6euvRHGSDbaHgbQYbJeX7S"
@@ -1836,7 +1836,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 295187,
       "name": "Mythology of Hardcore - Official Masters of Hardcore Russia 2022 Anthem",
       "url": "https://open.spotify.com/track/4Ia0P4lQDTzKYva6OWFSuW"
@@ -2269,6 +2269,28 @@
     },
     {
       "album": {
+        "name": "READY 4 WAR",
+        "url": "https://open.spotify.com/album/3KX00M9fI6G2H1mlFzvPKi"
+      },
+      "artists": [
+        {
+          "name": "Andy the Core",
+          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
+        },
+        {
+          "name": "XELOR",
+          "url": "https://open.spotify.com/artist/7zeYC3nZZmMDw4HevcqDEf"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172729,
+      "name": "READY 4 WAR",
+      "url": "https://open.spotify.com/track/2eDDUox0c2zSscKUq3ePFK"
+    },
+    {
+      "album": {
         "name": "Ready to Explode",
         "url": "https://open.spotify.com/album/1E4pKYJpNlutAR8xdE5JKN"
       },
@@ -2368,7 +2390,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 188487,
       "name": "RUDE METHODS",
       "url": "https://open.spotify.com/track/25jlmlUJiDquYv8NIyPBTV"

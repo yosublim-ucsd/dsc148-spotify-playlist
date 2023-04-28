@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Johnny Dailey, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,163 likes - 110 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,193 likes - 110 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 109 | [Truck Stop](https://open.spotify.com/track/0ljzK84iwvklpQ9iEPgtZl) | [Eric Lee](https://open.spotify.com/artist/4YctQpJB8K4FYJwM03A6e5) | [Truck Stop](https://open.spotify.com/album/1Ydtio6OLpXGD5XuyGvaZi) | 3:08 |
 | 110 | [Small Town Girl](https://open.spotify.com/track/1RCtHDf6P6NDh3kk1tv72e) | [Brett Landin](https://open.spotify.com/artist/5j2MGCedjNUN2eOVoYI7PI) | [Small Town Girl](https://open.spotify.com/album/5ycwfWuPjfjmMhjY7MOjDo) | 4:02 |
 
-Snapshot ID: `MTY4MjUyMjQ4MSwwMDAwMDAwMGIzYmI4ZTMyMDBhOTBmYTA2YzExNWQ4OWMwOTA3MTg2`
+Snapshot ID: `MCw3OGFjNDM2OTE3OTM4ZjBjYjU2MjRmNGFmMjhlOTQwZmQ1OTAwYTJi`

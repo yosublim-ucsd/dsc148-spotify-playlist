@@ -4,7 +4,7 @@
 
 > Upbeat dance pop to keep your heart pumping.
 
-553 songs - 1 day 3 hr 49 min
+554 songs - 1 day 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Don’t Wake Me Up](https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Don’t Wake Me Up](https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs) | 3:08 | 2022-01-07 |  |
 | [Down For The Ride](https://open.spotify.com/track/0L8NzGlH4nmnbOUSg4gO72) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Down For The Ride](https://open.spotify.com/album/54h5f6arTVEerecJIR9g84) | 2:40 | 2022-03-25 | 2023-01-14 |
 | [Downtown \(with Kelvin Jones\)](https://open.spotify.com/track/3d7SAAfRMZzuYNqfJhR3bI) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [Downtown \(with Kelvin Jones\)](https://open.spotify.com/album/0XKTTx5dsmKvSphUp8wBVS) | 2:10 | 2022-01-26 | 2022-04-03 |
-| [Drinks on MI](https://open.spotify.com/track/3EnaAIwiciqClp6bnI40gr) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Silver & Gold \- Chapter II](https://open.spotify.com/album/6IffxaOUNV88w4yxw561vT) | 2:41 | 2023-03-24 |  |
+| [Drinks on MI](https://open.spotify.com/track/3EnaAIwiciqClp6bnI40gr) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Silver & Gold \- Chapter II](https://open.spotify.com/album/6IffxaOUNV88w4yxw561vT) | 2:41 | 2023-03-24 | 2023-04-28 |
 | [Drive \(feat\. Wes Nelson\)](https://open.spotify.com/track/6eCmK3GQyFuTNWCJHsaF9d) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq) | [Drive \(feat\. Wes Nelson\)](https://open.spotify.com/album/7wDWQrTNxHSVvklLTucK2D) | 2:59 | 2021-12-17 | 2022-12-30 |
 | [Drunk Calling](https://open.spotify.com/track/3U6YCUCPJ5CxQWx1psJ4Ga) | [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Drunk Calling](https://open.spotify.com/album/7eGSM40pIFMOEVofCb0r0n) | 2:32 | 2021-12-17 | 2022-04-17 |
 | [Dumb](https://open.spotify.com/track/4iEJ3AXbzJYSK59SkH3DMu) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [Dumb](https://open.spotify.com/album/6doM5nAPNGBRo8yoPM3q9r) | 3:12 | 2021-12-17 | 2022-07-09 |
@@ -208,6 +208,7 @@
 | [Higher Ground \(feat\. John Martin\)](https://open.spotify.com/track/0rohJsT6NWsThpukt0Xxdc) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Higher Ground \(feat\. John Martin\)](https://open.spotify.com/album/2wfc0nU4LeUtwyhbkOE6iH) | 3:26 | 2022-03-25 | 2022-04-19 |
 | [Highs & Lows](https://open.spotify.com/track/0C4UvEq6FuCLPwFpQo3j4a) | [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK) | [Highs & Lows](https://open.spotify.com/album/0omLFmkXUTdKuXAnixPDo4) | 2:53 | 2022-04-01 | 2022-06-18 |
 | [History \(feat\. Maggie Szabo\)](https://open.spotify.com/track/3VXCwR1wRVt4sHyDtOvFgI) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Maggie Szabo](https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48) | [History \(feat\. Maggie Szabo\)](https://open.spotify.com/album/1bJ94admkYHcdFcCOp2ETa) | 3:22 | 2022-03-25 | 2022-04-19 |
+| [Hit 'Em Up Style \(Oops!\)](https://open.spotify.com/track/6s2vYgLML3ClOtlJhYyYKR) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [Hit 'Em Up Style \(Oops!\)](https://open.spotify.com/album/5OlOJVvdqUc8BoMMjTGamk) | 2:39 | 2023-03-24 |  |
 | [Hold Me Close \(feat\. Ella Henderson\)](https://open.spotify.com/track/24aN8j7dBw0FxxKUBlCtd6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Hold Me Close \(feat\. Ella Henderson\)](https://open.spotify.com/album/17S4c0rf1RXLZ0u4ez15E5) | 3:05 | 2021-12-17 | 2022-05-04 |
 | [Holiday](https://open.spotify.com/track/5p23tD2akeZYiDZHE1r4yi) | [ILY](https://open.spotify.com/artist/6CVPDt9FXmWEaq3jCoKAZb) | [Holiday](https://open.spotify.com/album/1VKV62S8RLZcEeQPZojj1V) | 3:36 | 2022-03-25 | 2022-04-19 |
 | [Home](https://open.spotify.com/track/388KEbT8ZXJBwtbw3ZS7s1) | [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om), [Skye Holland](https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy) | [Home](https://open.spotify.com/album/3x6AIVoG1mHw3ay0BzDN8Y) | 3:16 | 2022-04-01 | 2022-04-21 |

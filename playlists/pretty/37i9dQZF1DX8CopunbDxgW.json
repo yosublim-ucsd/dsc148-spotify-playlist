@@ -1,12 +1,12 @@
 {
   "description": "The best indie dance tracks of the moment. Cover: Goth Babe",
-  "num_followers": 846395,
+  "num_followers": 846654,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA5ODU1MiwwMDAwMDAwMDI1NmRjMzg3MjY5NzhkYWY5MjQ0YjJjODY0NGEzNDYz",
+  "snapshot_id": "MCw4MGVjNmNjYTI3ZTJmZmMyMzA3OGYyNmZiNWRhOTViOThlNDAxYWZl",
   "tracks": [
     {
       "added_at": "2023-04-18 16:41:50",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/2itVxfPOWQrHr2X27J4ZhG"
+      },
+      "artists": [
+        {
+          "name": "Duskus",
+          "url": "https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD"
+        }
+      ],
+      "duration_ms": 126043,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/4oZnV1W54b1TIn96i0KIwV"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "KILL DEM",
         "url": "https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo"
       },
@@ -365,20 +381,20 @@
       "url": "https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-04-14 03:54:18",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/2itVxfPOWQrHr2X27J4ZhG"
+        "name": "Enjoy Your Life",
+        "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
       },
       "artists": [
         {
-          "name": "Duskus",
-          "url": "https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD"
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
         }
       ],
-      "duration_ms": 126043,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/4oZnV1W54b1TIn96i0KIwV"
+      "duration_ms": 240053,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -399,22 +415,6 @@
       "duration_ms": 256898,
       "name": "Water",
       "url": "https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5"
-    },
-    {
-      "added_at": "2023-04-14 03:54:18",
-      "album": {
-        "name": "Enjoy Your Life",
-        "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 240053,
-      "name": "Enjoy Your Life",
-      "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -693,6 +693,22 @@
       "url": "https://open.spotify.com/track/4Z3RGx7Be5plLoIw7i83wX"
     },
     {
+      "added_at": "2023-04-21 17:35:52",
+      "album": {
+        "name": "dopamine",
+        "url": "https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3"
+      },
+      "artists": [
+        {
+          "name": "Madelline",
+          "url": "https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL"
+        }
+      ],
+      "duration_ms": 165461,
+      "name": "dopamine - Version Fran\u00e7aise",
+      "url": "https://open.spotify.com/track/4B6eD1nzrz6PNOLMgtT7VX"
+    },
+    {
       "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "It's Euphoric",
@@ -727,22 +743,6 @@
       "duration_ms": 271756,
       "name": "DAYS GO BY",
       "url": "https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0"
-    },
-    {
-      "added_at": "2023-04-21 17:35:52",
-      "album": {
-        "name": "dopamine",
-        "url": "https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3"
-      },
-      "artists": [
-        {
-          "name": "Madelline",
-          "url": "https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL"
-        }
-      ],
-      "duration_ms": 165461,
-      "name": "dopamine - Version Fran\u00e7aise",
-      "url": "https://open.spotify.com/track/4B6eD1nzrz6PNOLMgtT7VX"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Beautiful Morning",
-        "url": "https://open.spotify.com/album/3WG5F3XvjH8NQPnux7GdQL"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 187126,
-      "name": "Beautiful Morning",
-      "url": "https://open.spotify.com/track/4To41a04u7ZaZ6bw8hIeX3"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Hi-Fidelity",
         "url": "https://open.spotify.com/album/0ZNelJy2iPIK2YtGHCuB3t"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 199088,
       "name": "Hi-Fidelity",
       "url": "https://open.spotify.com/track/2d9UdLMMe80RNfuQcGmuIe"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Beautiful Morning",
+        "url": "https://open.spotify.com/album/3WG5F3XvjH8NQPnux7GdQL"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 187126,
+      "name": "Beautiful Morning",
+      "url": "https://open.spotify.com/track/4To41a04u7ZaZ6bw8hIeX3"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1117,6 +1117,22 @@
       "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
     },
     {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Outer Peace",
+        "url": "https://open.spotify.com/album/3KkxbmbkRvxghNwGwQRZcj"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 169351,
+      "name": "Laws of the Universe",
+      "url": "https://open.spotify.com/track/7mO2zFhGVdZdmGS7TMWH08"
+    },
+    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "R\u00eave",
@@ -1139,38 +1155,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69"
-      },
-      "artists": [
-        {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
-        }
-      ],
-      "duration_ms": 224760,
-      "name": "Nothing Left To Lose",
-      "url": "https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Outer Peace",
-        "url": "https://open.spotify.com/album/3KkxbmbkRvxghNwGwQRZcj"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 169351,
-      "name": "Laws of the Universe",
-      "url": "https://open.spotify.com/track/7mO2zFhGVdZdmGS7TMWH08"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Like The Old Days",
         "url": "https://open.spotify.com/album/1UKTx4oagTgTO2PVtoTWf3"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 240041,
       "name": "Like The Old Days",
       "url": "https://open.spotify.com/track/6mfM11rZkoXsU5xAArF4Ix"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        }
+      ],
+      "duration_ms": 224760,
+      "name": "Nothing Left To Lose",
+      "url": "https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1465,6 +1465,30 @@
       "url": "https://open.spotify.com/track/3ys5J8MAFYex3zO7n9VduT"
     },
     {
+      "added_at": "2023-04-21 17:35:52",
+      "album": {
+        "name": "L.F.O.",
+        "url": "https://open.spotify.com/album/56FZp4N6OxLqFWcEG8qhmA"
+      },
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        },
+        {
+          "name": "George Riley",
+          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
+        }
+      ],
+      "duration_ms": 271633,
+      "name": "L.F.O.",
+      "url": "https://open.spotify.com/track/09s0LZjI9zgBvXRNNA6j7K"
+    },
+    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "Just Can't Get Enough",
@@ -1537,30 +1561,6 @@
       "url": "https://open.spotify.com/track/0ThxqUZ9PwS6n0UT5i1XH6"
     },
     {
-      "added_at": "2023-04-21 17:35:52",
-      "album": {
-        "name": "L.F.O.",
-        "url": "https://open.spotify.com/album/56FZp4N6OxLqFWcEG8qhmA"
-      },
-      "artists": [
-        {
-          "name": "SBTRKT",
-          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        },
-        {
-          "name": "George Riley",
-          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
-        }
-      ],
-      "duration_ms": 271633,
-      "name": "L.F.O.",
-      "url": "https://open.spotify.com/track/09s0LZjI9zgBvXRNNA6j7K"
-    },
-    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "DREAM SOUP",
@@ -1597,22 +1597,6 @@
       "url": "https://open.spotify.com/track/6jpOvC9iucgAnJm7vwyXm6"
     },
     {
-      "added_at": "2023-03-10 15:28:12",
-      "album": {
-        "name": "Move Me",
-        "url": "https://open.spotify.com/album/2DPuySW5r1sHgWXD7s4UfE"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 231733,
-      "name": "Move Me",
-      "url": "https://open.spotify.com/track/43tuFT8GAG5mPSktLVcqOY"
-    },
-    {
       "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "WASTED ON ME",
@@ -1627,6 +1611,22 @@
       "duration_ms": 182479,
       "name": "WASTED ON ME",
       "url": "https://open.spotify.com/track/6tXebnSmy1ZEZANFRHRoCO"
+    },
+    {
+      "added_at": "2023-03-10 15:28:12",
+      "album": {
+        "name": "Move Me",
+        "url": "https://open.spotify.com/album/2DPuySW5r1sHgWXD7s4UfE"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 231733,
+      "name": "Move Me",
+      "url": "https://open.spotify.com/track/43tuFT8GAG5mPSktLVcqOY"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1681,22 +1681,6 @@
       "url": "https://open.spotify.com/track/2aVmzjkwJyTWxuUUu7aMIf"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Passed Me By",
-        "url": "https://open.spotify.com/album/3XXKD7oise1AekkRWE9aRu"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 243173,
-      "name": "Passed Me By",
-      "url": "https://open.spotify.com/track/2nVxL1B523h70Gign7W2Le"
-    },
-    {
       "added_at": "2023-03-10 15:28:12",
       "album": {
         "name": "You Are Everywhere",
@@ -1715,6 +1699,22 @@
       "duration_ms": 204560,
       "name": "You Are Everywhere",
       "url": "https://open.spotify.com/track/4Wk3Z6fgpLepeL7LyPe1VI"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Passed Me By",
+        "url": "https://open.spotify.com/album/3XXKD7oise1AekkRWE9aRu"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 243173,
+      "name": "Passed Me By",
+      "url": "https://open.spotify.com/track/2nVxL1B523h70Gign7W2Le"
     },
     {
       "added_at": "2023-03-03 21:59:48",
@@ -1749,22 +1749,6 @@
       "url": "https://open.spotify.com/track/4EZIrBbmC9MqtxXNUrlho4"
     },
     {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Caution To The Wind",
-        "url": "https://open.spotify.com/album/2oIbVI3dL2BIXVFxfqNpKR"
-      },
-      "artists": [
-        {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
-        }
-      ],
-      "duration_ms": 246706,
-      "name": "Caution To The Wind",
-      "url": "https://open.spotify.com/track/1nTp6IaQyU2FCbe1KZipRI"
-    },
-    {
       "added_at": "2023-03-10 15:28:12",
       "album": {
         "name": "I Think I Like You",
@@ -1787,6 +1771,22 @@
       "duration_ms": 146471,
       "name": "I Think I Like You",
       "url": "https://open.spotify.com/track/2Rf33E2vpnJsIV5DpHCC6Y"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Caution To The Wind",
+        "url": "https://open.spotify.com/album/2oIbVI3dL2BIXVFxfqNpKR"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        }
+      ],
+      "duration_ms": 246706,
+      "name": "Caution To The Wind",
+      "url": "https://open.spotify.com/track/1nTp6IaQyU2FCbe1KZipRI"
     },
     {
       "added_at": "2023-02-17 05:00:00",

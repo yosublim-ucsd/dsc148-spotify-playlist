@@ -2,7 +2,7 @@
 
 ### [Fashion Forward](https://open.spotify.com/playlist/37i9dQZF1DWWvGEj20FfCp)
 
-> Where music meets fashion\. Soundtrack for designer Christopher John Rogers.
+> Where music meets fashion\. Soundtrack for designer Christopher John Rogers' Collection 012 Runway Show.
 
 460 songs - 1 day 7 hr 3 min
 

@@ -4,7 +4,7 @@
 
 > A salute to all of the women opening up the pit\. Cover: BABYMETAL
 
-265 songs - 17 hr 17 min
+266 songs - 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Black Sails](https://open.spotify.com/track/0GHl6Ig5GT8FbzbT6U2vAu) | [Kalidia](https://open.spotify.com/artist/0CNwIzfosLnGPKiVrLtLxA) | [Black Sails](https://open.spotify.com/album/7f8J3BdFZ2CwSJ5JXn2bf7) | 4:03 | 2020-12-07\* | 2020-12-11 |
 | [Bones](https://open.spotify.com/track/18odj1wau9w7jPI4vs81YB) | [Softspoken](https://open.spotify.com/artist/3y8JSazi8hWvLiSFXQqGIk) | [Bones](https://open.spotify.com/album/4mwD8iSJvwmXP8wH7YT5Ut) | 3:36 | 2021-05-15 | 2022-02-09 |
 | [Bottom of a Bottle](https://open.spotify.com/track/3NmE7kZ70BVawiIw5h438U) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Bottom of a Bottle](https://open.spotify.com/album/4wDzDgS3DzXNoFnwVy1yD3) | 3:19 | 2020-12-07\* |  |
+| [Brat](https://open.spotify.com/track/6RBoDti7RDKjA3HQadiLDy) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [Brat](https://open.spotify.com/album/06LFLzsI6HOJU1E0Lbcgv3) | 3:06 | 2023-04-21 |  |
 | [Breathe in Colours](https://open.spotify.com/track/33npA5AE7FE9Ut52ruIak8) | [Forever Still](https://open.spotify.com/artist/21h3ZMAgqVovSFIqUoP3jv) | [Breathe in Colours](https://open.spotify.com/album/1R3ADNbIPjTkXnE9d3Dm2z) | 4:29 | 2020-12-07\* | 2021-02-06 |
 | [Brickwall](https://open.spotify.com/track/7aBYCpaludr9EVl2Nq9E9A) | [Doro](https://open.spotify.com/artist/5GLeyUhj8B8f5pJxqZllKl) | [Brickwall](https://open.spotify.com/album/37W5OEJhp0yaAw86aBGWWP) | 3:40 | 2020-12-07\* | 2020-12-11 |
 | [Bring It On](https://open.spotify.com/track/4ALKHYGCjaRs9NuKVcUeON) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [Bring It On](https://open.spotify.com/album/5ORHVTkHbZgXHVpOFQS7z8) | 3:08 | 2020-12-07\* | 2022-07-29 |
@@ -203,7 +204,7 @@
 | [Secret Garden](https://open.spotify.com/track/39sAePHCDbaZlpLow8lRp4) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb) | 3:39 | 2022-03-11 |  |
 | [See You in Hell](https://open.spotify.com/track/48hnT1MKDCeRiufK6uCToc) | [Ad Infinitum](https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD) | [See You in Hell](https://open.spotify.com/album/20QqdzCbXmdDXgtSerBEgD) | 3:49 | 2020-12-07\* | 2022-07-29 |
 | [See You In Hell](https://open.spotify.com/track/5JfXImbIiGSH2tOUWnGJty) | [Ad Infinitum](https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD) | [Chapter I \- Monarchy](https://open.spotify.com/album/4oc3Yo2BGbUofcp36YBIzX) | 3:49 | 2022-03-11 |  |
-| [Selkie](https://open.spotify.com/track/7KmOdUvmCw5VQSXRt4qsef) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Selkie](https://open.spotify.com/album/30S5mUJoW5fMUGFNUxSHOE) | 4:23 | 2021-04-10 |  |
+| [Selkie](https://open.spotify.com/track/7KmOdUvmCw5VQSXRt4qsef) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Selkie](https://open.spotify.com/album/30S5mUJoW5fMUGFNUxSHOE) | 4:23 | 2021-04-10 | 2023-04-28 |
 | [Sensorium](https://open.spotify.com/track/5Souga96S54RLFk30XrEJP) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [The Phantom Agony \(Expanded Edition\)](https://open.spotify.com/album/5qBmY4zyWEYP8bNJsq9Xjf) | 4:49 | 2022-10-03 |  |
 | [Serves You Right](https://open.spotify.com/track/1xPlB6cboQgE0C9yVlVc0v) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Serves You Right](https://open.spotify.com/album/1peMzsH0CEKYGcj4t2wdrg) | 3:34 | 2020-12-07\* | 2022-11-19 |
 | [Shadow](https://open.spotify.com/track/1iFIRC1D9NnxjTwF240jZy) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [The Reckoning](https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5) | 3:48 | 2022-10-03 |  |

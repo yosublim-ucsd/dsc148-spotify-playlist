@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "To the world, this is NCT! This is NCT 127! Ay-Yo! The 4th Album repackage is here!",
+  "description": "To the world, this is NCT! This is NCT 127! ",
   "name": "This Is NCT 127",
   "tracks": [
     {
@@ -1638,6 +1638,24 @@
       "duration_ms": 187720,
       "name": "Sun&Moon",
       "url": "https://open.spotify.com/track/4jhUqSKsWZoVOc778NsFU1"
+    },
+    {
+      "album": {
+        "name": "Sunny Road",
+        "url": "https://open.spotify.com/album/6hKjTW2iYx2CyWUqUfP0Kz"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201306,
+      "name": "Sunny Road",
+      "url": "https://open.spotify.com/track/1T6WV7LI5pfa61PjOVGUGM"
     },
     {
       "album": {

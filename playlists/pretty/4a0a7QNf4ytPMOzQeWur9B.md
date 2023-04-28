@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4a0a7QNf4ytPMOzQeWur9B.md) - [plain]
 
 > The music that fans of Glitchbreak are listening to now\. See also <a href="spotify:playlist:5aPKPDrqsxBQSST33NOsFw">The Sound of Glitchbreak</a> or <a href="spotify:playlist:6Jq6C2lFtIPE54N91HL9aM">The Edge of Glitchbreak</a>.
 
-[Particle Detector](https://open.spotify.com/user/particledetector) - 143 likes - 200 songs - 10 hr 26 min
+[Particle Detector](https://open.spotify.com/user/particledetector) - 144 likes - 200 songs - 10 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -181,7 +181,7 @@ pretty - [cumulative](/playlists/cumulative/4a0a7QNf4ytPMOzQeWur9B.md) - [plain]
 | 171 | [Neko Freestyle](https://open.spotify.com/track/3ZbBN5cmilCt4q8X9ByaQi) | [Paradoxically](https://open.spotify.com/artist/6o7PWEi9Fkyx6Wxn3MzqrJ) | [Fevered Dream](https://open.spotify.com/album/0Ja5cWAWRyKuYdjQYFQ7vi) | 6:00 |
 | 172 | [Your Own Worlds Antorage](https://open.spotify.com/track/4IyQkCsyiPsuva1FPzmFB1) | [TheAster](https://open.spotify.com/artist/3ZEWMyP9qZhQi7d4nwGV9f) | [Head Goes All Ways](https://open.spotify.com/album/5wHNVWy30LojB1zSouDjZ6) | 4:28 |
 | 173 | [frenisi](https://open.spotify.com/track/3L3oj2PTlHUI3EDQWRjLtD) | [MIMIDEATH](https://open.spotify.com/artist/55VDe291360aWSrwt1U96m) | [FOAR EVERYWUN FRUM MIMI](https://open.spotify.com/album/128fUkIrhQFzVhP7M1oxQS) | 1:40 |
-| 174 | [lasting entropy](https://open.spotify.com/track/7EiEQTiSHRXfefn4viYnh2) | [zynzvn](https://open.spotify.com/artist/64TpiVJ24qjymMNJdt9ZHS) | [lasting entropy](https://open.spotify.com/album/7AhtBs6DtMiIDK952n7GU7) | 5:07 |
+| 174 | [lasting entropy](https://open.spotify.com/track/7EiEQTiSHRXfefn4viYnh2) | [cast heal](https://open.spotify.com/artist/7ykkMcFtChbLuddI9dncwD) | [lasting entropy](https://open.spotify.com/album/7AhtBs6DtMiIDK952n7GU7) | 5:07 |
 | 175 | [Son Of The Land Of Thee Lost](https://open.spotify.com/track/16dcMEwC2nIhQNlEWrZCPv) | [DJ Rozwell](https://open.spotify.com/artist/5ETn9pXrEi2upRr6P87jew) | [Son Of Thee Land Of The Lost](https://open.spotify.com/album/2LCvzNFci5Zunitcb0mDbf) | 1:10 |
 | 176 | [nexus](https://open.spotify.com/track/1QtTNvuKVrdJsq9zeVV6Yr) | [rl1805](https://open.spotify.com/artist/1szB1JLoZvnT9xNS8onFZI) | [nexus](https://open.spotify.com/album/15dAoeETbWBXnUQIhqOKwh) | 3:04 |
 | 177 | [TL001](https://open.spotify.com/track/1cIdWfQzZrSugDIrnvybrD) | [truee.love](https://open.spotify.com/artist/4aHJfK4GJeLwkjjUfW5wq3) | [TL001](https://open.spotify.com/album/1VkLkJ9pPdFQcAE1bGhkGs) | 1:41 |

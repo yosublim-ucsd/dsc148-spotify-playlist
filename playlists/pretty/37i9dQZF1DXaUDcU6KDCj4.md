@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Fenne Lily
 
-[Spotify](https://open.spotify.com/user/spotify) - 780,166 likes - 150 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 780,372 likes - 150 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Part Time Lovers](https://open.spotify.com/track/5PSnffyT93zHiE23tRsL0O) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Part Time Lovers](https://open.spotify.com/album/0wcyQMBIXTuUJz3FokoVwp) | 3:10 |
 | 150 | [Running from the Dawn](https://open.spotify.com/track/7jb6FDwrUuTgcgeE1iMGi4) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [though the world will tell me so, vol\. 1](https://open.spotify.com/album/1nht2bWHhw4ke6nUJwUkBB) | 3:31 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMGE1MWM2NTI5ZGNmNjZkZGY1NWRkYTkwMTBlYWUwM2I3`
+Snapshot ID: `MCxkNjcyZThjNmU0MjA3MzA4MTM3Yjg5NDJkZTEwMjIyZGNlM2MzMmZi`

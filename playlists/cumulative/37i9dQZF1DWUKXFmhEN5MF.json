@@ -219,6 +219,36 @@
     },
     {
       "album": {
+        "name": "Bareilly Ke Bazaar (From \"Chatrapathi\")",
+        "url": "https://open.spotify.com/album/6M1jTowR8NgELjYf0okLhl"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "Mayur Puri",
+          "url": "https://open.spotify.com/artist/1XUGerdrjDBJxF9ZfxMqDj"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203418,
+      "name": "Bareilly Ke Bazaar (From \"Chatrapathi\")",
+      "url": "https://open.spotify.com/track/4IuqxTkItANJIOGoGXQxvB"
+    },
+    {
+      "album": {
         "name": "Sonu Ke Titu Ki Sweety",
         "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
       },

@@ -4,7 +4,7 @@
 
 > Trace the history of Jazz from timeless classics to boundary\-breaking contemporary favorites from the women of Jazz\. Cover: Diana Krall
 
-184 songs - 13 hr 11 min
+185 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [I Didn't Know What Time It Was](https://open.spotify.com/track/5FpmRoCduqD28smrRs6mdl) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [WomanChild](https://open.spotify.com/album/5JE6HnCPJ9is6pnewMaaSe) | 6:07 | 2021-12-02 |  |
 | [I Just Want To Sing](https://open.spotify.com/track/6UFlo3RmCOhIMXDQvpivFf) | [Dorothy Donegan](https://open.spotify.com/artist/6jqglFaeowpFgQ8W1gfOIC) | [The Many Faces Of Dorothy Donegan](https://open.spotify.com/album/2XdJCeSUmOJN6REoTElVFN) | 3:27 | 2021-12-02 |  |
 | [I Know You Know](https://open.spotify.com/track/3afeZ81GDy59tATovKyH6Z) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Esperanza](https://open.spotify.com/album/7188JsHTl3rladofF7CVvW) | 3:45 | 2021-12-02 |  |
+| [I Miss You So](https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [I Miss You So](https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF) | 3:43 | 2023-04-27 |  |
 | [I Put A Spell On You](https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:35 | 2021-12-02 |  |
 | [I Try](https://open.spotify.com/track/0vYClPTcVCy3odjHpogsPC) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [I Try](https://open.spotify.com/album/12GHrKv1h0MU1f2JGVI36D) | 4:17 | 2021-12-02 | 2022-07-29 |
 | [I Try](https://open.spotify.com/track/1TQZRpTbH3aWDqmr5mBo2z) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/0e4r5RngHsRWXwUdifziDt) | 4:17 | 2022-03-08 |  |

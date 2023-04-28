@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > Explore the ever\-evolving folk & roots scene\. Cover: Fruit Bats
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,867,187 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,867,319 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 | 99 | [Virginia \(Wind In The Night\)](https://open.spotify.com/track/3dDaJo3QS9Bohk8wrG5Pvv) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/3MS8HC8JyaMQWZeDrh8heB) | 3:25 |
 | 100 | [WHERE WE ARE](https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 2:52 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMGI2MDUzYzc5NjgyYTAwMTU2Nzk2NjE4ZjcwMjc2MWNk`
+Snapshot ID: `MCxiZTM1YTg2YjEyNmY2MzE0ZDU0YmZkYjk4MTM4N2JkM2JjNDdhZmQ2`

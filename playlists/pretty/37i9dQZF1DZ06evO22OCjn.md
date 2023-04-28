@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,270 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,445 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 47 | [Sunshine Riptide](https://open.spotify.com/track/0ZqqrBHeSeyZahfcyw9N8O) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 3:24 |
 | 48 | [All Eyes on Me \(feat\. Burna Boy, Da L.E.S\. & JR\)](https://open.spotify.com/track/6oAWlzrEbXFis7Z0kyeX0h) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Da Les](https://open.spotify.com/artist/4on53ORBym2GEnRhIptZwy), [JR](https://open.spotify.com/artist/1a0Wc4pzPAFe5ZFiL1glrr) | [Levels \(Explicit\)](https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe) | 4:18 |
 | 49 | [Afrikan Star](https://open.spotify.com/track/1bd9EG9MpRYYR6cmbkMRhF) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Afrikan Sauce](https://open.spotify.com/album/6kn9tgw5ktETOGSdwEJI9F) | 3:14 |
-| 50 | [I FEEL IT \(with Burna Boy\)](https://open.spotify.com/track/6NoTgpadvWX0qKEK6aJYsg) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I FEEL IT \(with Burna Boy\)](https://open.spotify.com/album/2Rmmtayyms1LsKbc0PoxlH) | 3:44 |
+| 50 | [As e Be \(Skit\)](https://open.spotify.com/track/1bhEMY3ih5t89pwH2OYg9e) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [On a Spaceship](https://open.spotify.com/album/4tjD2jPZdPe3nqop8En6zb) | 0:43 |
 
-Snapshot ID: `MjgwNDE5MzAsMDAwMDAwMDA0NGYzNDk0NWFkNzQxMTFkMDA3MDdlNTcyNzc5ZTU3MA==`
+Snapshot ID: `MjgwNDMzMjAsMDAwMDAwMDA0NjBjYmU2YWNiZmRmMTc0NDg5NGJmNjRkNjM1ZTNkNg==`

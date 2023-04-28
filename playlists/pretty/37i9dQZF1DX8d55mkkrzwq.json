@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIyOTY5NCwwMDAwMDAwMDk0OTVhNTE2ZjA4NWRkZTEzN2UzZjM2M2FkY2EwYTk4",
+  "snapshot_id": "MCxiZTBmZjNiODExNGRiZTE3MTJhMzNjODQ1OTg0NDZjNjE2MDBmNWU4",
   "tracks": [
     {
       "added_at": "2023-02-24 09:08:14",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-02-24 09:08:14",
       "album": {
-        "name": "Scrambled Eggs For All",
-        "url": "https://open.spotify.com/album/7xLTzZs8Wa9fKSLegvN2O1"
-      },
-      "artists": [
-        {
-          "name": "Pancake Manor",
-          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
-        }
-      ],
-      "duration_ms": 151780,
-      "name": "Do Your Own Dance",
-      "url": "https://open.spotify.com/track/5DGIcwi5oNWxrzOnD4IRGE"
-    },
-    {
-      "added_at": "2023-02-24 09:08:14",
-      "album": {
         "name": "Chickie Chickie Beat",
         "url": "https://open.spotify.com/album/0BalfnIrBDKxym7lPHtF7d"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 99914,
       "name": "Chickie Chickie Beat",
       "url": "https://open.spotify.com/track/3q8cnD3gDuHRtu0aMBr4f8"
+    },
+    {
+      "added_at": "2023-02-24 09:08:14",
+      "album": {
+        "name": "Scrambled Eggs For All",
+        "url": "https://open.spotify.com/album/7xLTzZs8Wa9fKSLegvN2O1"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "duration_ms": 151780,
+      "name": "Do Your Own Dance",
+      "url": "https://open.spotify.com/track/5DGIcwi5oNWxrzOnD4IRGE"
     },
     {
       "added_at": "2023-02-24 09:08:14",

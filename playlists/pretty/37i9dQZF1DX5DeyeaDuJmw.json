@@ -1,12 +1,12 @@
 {
   "description": "Ac\u00e1 hay letra. Foto: Anuel AA.",
-  "num_followers": 143003,
+  "num_followers": 143101,
   "original_name": "Rimas y Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMDFiYjBlYWM3NGUwM2U1NzA4OTVjMTM4MzNhZWU0ZDRm",
+  "snapshot_id": "MCw4M2I1N2NkODUwM2I0M2Y5OGI3YzA4OTg5YmU4OTM5N2NhZjU2Yjhh",
   "tracks": [
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1315,6 +1315,26 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 173226,
+      "name": "Taxi",
+      "url": "https://open.spotify.com/track/3U73C3VYVAeMjvxOizh5Ad"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "Farandulera",
         "url": "https://open.spotify.com/album/2tHguZJHyNpd3I9ejgDNlp"
       },
@@ -1335,26 +1355,6 @@
       "duration_ms": 254689,
       "name": "Farandulera",
       "url": "https://open.spotify.com/track/0rUyfQzaE8CF6xyAu1OkS3"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP"
-      },
-      "artists": [
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 173226,
-      "name": "Taxi",
-      "url": "https://open.spotify.com/track/3U73C3VYVAeMjvxOizh5Ad"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "\u00c1cido",
-        "url": "https://open.spotify.com/album/2fpJi92UkpWlVfehON7Yqt"
-      },
-      "artists": [
-        {
-          "name": "Crissin",
-          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
-        }
-      ],
-      "duration_ms": 149142,
-      "name": "\u00c1cido",
-      "url": "https://open.spotify.com/track/67qxV0lxSgs8BAnIl3gtEL"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Las Naik",
         "url": "https://open.spotify.com/album/1jJ7NdRUwzOxu3Pdmliyr3"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 175258,
       "name": "Las Naik",
       "url": "https://open.spotify.com/track/5vmYLoozbUNwcdVL2m3lHq"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "\u00c1cido",
+        "url": "https://open.spotify.com/album/2fpJi92UkpWlVfehON7Yqt"
+      },
+      "artists": [
+        {
+          "name": "Crissin",
+          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
+        }
+      ],
+      "duration_ms": 149142,
+      "name": "\u00c1cido",
+      "url": "https://open.spotify.com/track/67qxV0lxSgs8BAnIl3gtEL"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1971,26 +1971,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Deseos",
-        "url": "https://open.spotify.com/album/2MXLNh2b4ehnJ2fx3UbO6X"
-      },
-      "artists": [
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        },
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        }
-      ],
-      "duration_ms": 203070,
-      "name": "Deseos",
-      "url": "https://open.spotify.com/track/2AxLTHG7lOBmnyB5FmOMwz"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Parcera",
         "url": "https://open.spotify.com/album/6GRHOMthTb0HMOZDO26D8j"
       },
@@ -2011,6 +1991,26 @@
       "duration_ms": 213652,
       "name": "Parcera",
       "url": "https://open.spotify.com/track/0oct4TDwzs5eydTdDhCj6M"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Deseos",
+        "url": "https://open.spotify.com/album/2MXLNh2b4ehnJ2fx3UbO6X"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "duration_ms": 203070,
+      "name": "Deseos",
+      "url": "https://open.spotify.com/track/2AxLTHG7lOBmnyB5FmOMwz"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -2083,6 +2083,26 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Pikete",
+        "url": "https://open.spotify.com/album/2cmERLzPC9l87fy9sTzedd"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 153191,
+      "name": "Pikete",
+      "url": "https://open.spotify.com/track/50QqjYyqOapIo9CG7aBvKw"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "Full Pioli (feat. Best)",
         "url": "https://open.spotify.com/album/7gNGbhPE1Uy1NDCwI2sSdb"
       },
@@ -2107,26 +2127,6 @@
       "duration_ms": 156096,
       "name": "Full Pioli (feat. Best)",
       "url": "https://open.spotify.com/track/2buMcKUAP01a72VC28jdIZ"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Pikete",
-        "url": "https://open.spotify.com/album/2cmERLzPC9l87fy9sTzedd"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 153191,
-      "name": "Pikete",
-      "url": "https://open.spotify.com/track/50QqjYyqOapIo9CG7aBvKw"
     },
     {
       "added_at": "2022-11-18 03:00:00",

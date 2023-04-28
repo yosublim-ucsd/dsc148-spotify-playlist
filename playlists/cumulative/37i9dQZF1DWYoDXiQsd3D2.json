@@ -1175,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "daydreaming",
+        "url": "https://open.spotify.com/album/7AKUxroCnX0EgGKKJ5moXU"
+      },
+      "artists": [
+        {
+          "name": "Remy Van Kesteren",
+          "url": "https://open.spotify.com/artist/5x183GdNFhX9FETwGNpOZE"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313299,
+      "name": "daydreaming",
+      "url": "https://open.spotify.com/track/1vanuicvdPJJFjJ2OYdLGI"
+    },
+    {
+      "album": {
         "name": "Delevan",
         "url": "https://open.spotify.com/album/0YZnYLT02sLrrwozl26P1d"
       },
@@ -3313,6 +3331,28 @@
     },
     {
       "album": {
+        "name": "Snowdancer",
+        "url": "https://open.spotify.com/album/4syPT0qNBee66jH36u7SXe"
+      },
+      "artists": [
+        {
+          "name": "Sonant",
+          "url": "https://open.spotify.com/artist/75zYVoafqQWY1dV4NA2ppY"
+        },
+        {
+          "name": "Ambient Endeavors",
+          "url": "https://open.spotify.com/artist/6K2iIaKWCotVvzrL8ryV2W"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250113,
+      "name": "Snowdancer",
+      "url": "https://open.spotify.com/track/6xtbN7FVNxuoC47OxlOUPi"
+    },
+    {
+      "album": {
         "name": "Solanales",
         "url": "https://open.spotify.com/album/4giTq8C1Ss1e9PM8k88H1I"
       },
@@ -3346,6 +3386,24 @@
       "duration_ms": 186600,
       "name": "Spring",
       "url": "https://open.spotify.com/track/5b1GHRn5A3gIzcq8QbcSEH"
+    },
+    {
+      "album": {
+        "name": "springtime",
+        "url": "https://open.spotify.com/album/3Mfdo7ReSOs82Lcf56PLE4"
+      },
+      "artists": [
+        {
+          "name": "Piedkies",
+          "url": "https://open.spotify.com/artist/1dT2lRJatpaerhp5FEKEGo"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87016,
+      "name": "springtime",
+      "url": "https://open.spotify.com/track/5UpSHFwzGWfwTRbm2m0tgh"
     },
     {
       "album": {
@@ -3488,6 +3546,28 @@
       "duration_ms": 210240,
       "name": "Stillness - Reworked",
       "url": "https://open.spotify.com/track/6Ud2z91pgiVSIQIgUnxfQZ"
+    },
+    {
+      "album": {
+        "name": "sunrise mtn",
+        "url": "https://open.spotify.com/album/0I0Wpet0SNMfo0hgcwzsQB"
+      },
+      "artists": [
+        {
+          "name": "Jenny Owen Youngs",
+          "url": "https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H"
+        },
+        {
+          "name": "John Mark Nelson",
+          "url": "https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151714,
+      "name": "sunrise mtn",
+      "url": "https://open.spotify.com/track/39fB9kG8siVbe6cOOtVliL"
     },
     {
       "album": {

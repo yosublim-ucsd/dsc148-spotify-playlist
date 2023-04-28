@@ -1896,7 +1896,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 186200,
       "name": "Come Around",
       "url": "https://open.spotify.com/track/7AEEEVNZCENxzU4J2V6Ah9"
@@ -3264,7 +3264,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 269709,
       "name": "Fire",
       "url": "https://open.spotify.com/track/5LWQ5zef4xx39dIcOOeqUI"
@@ -5014,7 +5014,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 188333,
       "name": "I Was Wrong",
       "url": "https://open.spotify.com/track/4yoLMdIgClcRvbYcQ1csAw"
@@ -6253,6 +6253,24 @@
     },
     {
       "album": {
+        "name": "London Bridge",
+        "url": "https://open.spotify.com/album/3xPsEsaCmA1EFrl8TmGtPQ"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327469,
+      "name": "London Bridge",
+      "url": "https://open.spotify.com/track/1qjQcAWTxlglnGID55ZggL"
+    },
+    {
+      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/7si2FGDaQj3p0jSeAezemm"
       },
@@ -7481,6 +7499,24 @@
     },
     {
       "album": {
+        "name": "No Expectations",
+        "url": "https://open.spotify.com/album/2fgZgqz3lF2s6VInAWqQdQ"
+      },
+      "artists": [
+        {
+          "name": "Abby Simone",
+          "url": "https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200999,
+      "name": "No Expectations",
+      "url": "https://open.spotify.com/track/2JI4L5N7qckQcBTjGpa4B6"
+    },
+    {
+      "album": {
         "name": "No More You And I",
         "url": "https://open.spotify.com/album/1efl69CoDyrQoo9oiM90SD"
       },
@@ -7899,6 +7935,24 @@
     },
     {
       "album": {
+        "name": "Oporto-Madrid Blvd",
+        "url": "https://open.spotify.com/album/4Uyxs83rYhuwBDKJschbYw"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209198,
+      "name": "Oporto-Madrid Blvd",
+      "url": "https://open.spotify.com/track/3sPLA6G4cB8P8diBopToGT"
+    },
+    {
+      "album": {
         "name": "Other Way",
         "url": "https://open.spotify.com/album/1XXQQrJo7dhTAc1I9btCWC"
       },
@@ -8296,7 +8350,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 239386,
       "name": "Perspective",
       "url": "https://open.spotify.com/track/3RN9aExVAKIXHut4l7ODxx"
@@ -9720,6 +9774,24 @@
       "duration_ms": 175493,
       "name": "Slow",
       "url": "https://open.spotify.com/track/7w9bSUUdghXGjWmYtu6fl6"
+    },
+    {
+      "album": {
+        "name": "Slow It Down",
+        "url": "https://open.spotify.com/album/36ZvISB24D2QaueXIz1Wks"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310853,
+      "name": "Slow It Down",
+      "url": "https://open.spotify.com/track/02sFZjfNx8PoBlRgZifQUG"
     },
     {
       "album": {
@@ -11204,7 +11276,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 157152,
       "name": "This Will Be Our Year",
       "url": "https://open.spotify.com/track/2oy3hJGwD5aJSlFy4OnAkL"
@@ -12178,6 +12250,24 @@
       "duration_ms": 180000,
       "name": "When a Man",
       "url": "https://open.spotify.com/track/6RJoHdqTT5OpIjGl4j3B32"
+    },
+    {
+      "album": {
+        "name": "Persona (Deluxe)",
+        "url": "https://open.spotify.com/album/6DBFehDJdkqSMBdoIl9YaB"
+      },
+      "artists": [
+        {
+          "name": "Selah Sue",
+          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147360,
+      "name": "When It All Falls Down",
+      "url": "https://open.spotify.com/track/3lvj20MikepdxKpadT7mBF"
     },
     {
       "album": {

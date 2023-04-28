@@ -389,6 +389,28 @@
     },
     {
       "album": {
+        "name": "Dunia",
+        "url": "https://open.spotify.com/album/1hXshFVVMUj9ezwxRqwYSH"
+      },
+      "artists": [
+        {
+          "name": "Ukweli",
+          "url": "https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ"
+        },
+        {
+          "name": "KASHA",
+          "url": "https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165957,
+      "name": "Dunia",
+      "url": "https://open.spotify.com/track/7ojNfKBmSyIAEIwZWPltL2"
+    },
+    {
+      "album": {
         "name": "Emu Oguro",
         "url": "https://open.spotify.com/album/5XDeRDMJP5DYQ2LfZD9uP5"
       },
@@ -458,6 +480,24 @@
       "duration_ms": 306464,
       "name": "Fallo Fall",
       "url": "https://open.spotify.com/track/04BumdOBKWl5LcGkUAMZTU"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/3mXWpQc1yhsTIJKon60KFr"
+      },
+      "artists": [
+        {
+          "name": "Dolapo Martins",
+          "url": "https://open.spotify.com/artist/4I7iWiZjm7vAJvePf3iRQT"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139124,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/37cZqoXsZiqJ4JN82lNthD"
     },
     {
       "album": {
@@ -924,7 +964,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 431960,
       "name": "Meritlhoana",
       "url": "https://open.spotify.com/track/2f3GwbaQBMbSrFFx0XzCfq"
@@ -1126,7 +1166,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 169913,
       "name": "Oh Shoot",
       "url": "https://open.spotify.com/track/4kHKic91jzEObqoLgYzROV"
@@ -1383,6 +1423,28 @@
     },
     {
       "album": {
+        "name": "Secret",
+        "url": "https://open.spotify.com/album/1vXDudcC0TiOmdgLrzvt9p"
+      },
+      "artists": [
+        {
+          "name": "Y'akoto",
+          "url": "https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM"
+        },
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194285,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/5MT626GZnhfFdIKHqeJItw"
+    },
+    {
+      "album": {
         "name": "Shidaa",
         "url": "https://open.spotify.com/album/2iTU7qZLX7KyxL0rnM5Mx6"
       },
@@ -1434,7 +1496,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 146261,
       "name": "Sit",
       "url": "https://open.spotify.com/track/1hBrYBkodukH2i2rFoVMdU"
@@ -1495,6 +1557,24 @@
     },
     {
       "album": {
+        "name": "Proof Of Life",
+        "url": "https://open.spotify.com/album/0F9RwW1ScEh2gNEADX67BO"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236291,
+      "name": "Somebody Like Me",
+      "url": "https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq"
+    },
+    {
+      "album": {
         "name": "Soni Lene",
         "url": "https://open.spotify.com/album/1BSFzidGa1HoyMS4i3Kzvu"
       },
@@ -1506,7 +1586,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 307100,
       "name": "Soni Lene",
       "url": "https://open.spotify.com/track/2y9EC2nMGKwIqohE2eDFW0"
@@ -1822,7 +1902,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 190645,
       "name": "TWO SIDES",
       "url": "https://open.spotify.com/track/4c72MWImuljP18Pb4y5JFm"
@@ -1880,6 +1960,28 @@
       "duration_ms": 153402,
       "name": "Very Simple",
       "url": "https://open.spotify.com/track/2qIHmkIr2PfPM1RXs7OtZR"
+    },
+    {
+      "album": {
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/4HYPMdHDoTzGLCeB9nVxxZ"
+      },
+      "artists": [
+        {
+          "name": "Colossal Music",
+          "url": "https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520"
+        },
+        {
+          "name": "Amara Tari",
+          "url": "https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246666,
+      "name": "WARNING",
+      "url": "https://open.spotify.com/track/6HOOJ2LbasnZqxuqlaNSfk"
     },
     {
       "album": {
@@ -2014,6 +2116,24 @@
       "duration_ms": 202066,
       "name": "Wrong for It",
       "url": "https://open.spotify.com/track/4kntTTVtSIfsTl1dEak3X7"
+    },
+    {
+      "album": {
+        "name": "Yeni Abre",
+        "url": "https://open.spotify.com/album/1C9Xf13fBpa09nVuwlxaWW"
+      },
+      "artists": [
+        {
+          "name": "FRA!",
+          "url": "https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258081,
+      "name": "Yeni Abre",
+      "url": "https://open.spotify.com/track/5PR0Mk6xqpMoKh8D9GXbeQ"
     },
     {
       "album": {

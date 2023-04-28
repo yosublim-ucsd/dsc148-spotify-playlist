@@ -1,12 +1,12 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 37904,
+  "num_followers": 37941,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDQwMmU4ODg4NmY2MDc2MTE1MWUyOTA5ZGI2Njc0MjIz",
+  "snapshot_id": "MCwzZjA0YTFhYTUxZWQ1MTM3ODgxY2JkMjE2YjAxZjlmYTVhNTY0NTli",
   "tracks": [
     {
       "added_at": "2023-04-07 04:00:00",
@@ -411,18 +411,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO"
+        "name": "The Good Things (Outweigh the Bad)",
+        "url": "https://open.spotify.com/album/1voTotVTiai2e9xjBTPtDE"
       },
       "artists": [
         {
-          "name": "Alison Krauss & Union Station",
-          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
+          "name": "Curtis McPeake",
+          "url": "https://open.spotify.com/artist/4PwlAirxlCUyYvCvWf0Koi"
+        },
+        {
+          "name": "Andy May",
+          "url": "https://open.spotify.com/artist/29zPfTRdKbhHXnpHtyQPEO"
         }
       ],
-      "duration_ms": 205293,
-      "name": "Choctaw Hayride - Live From The Louisville Palace, Kentucky / 2002",
-      "url": "https://open.spotify.com/track/4cBEspuS2ksy4Cgdb1GkpA"
+      "duration_ms": 84906,
+      "name": "Leather Britches",
+      "url": "https://open.spotify.com/track/1cT7M8Lov9kn4YmBOgOb4t"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -447,22 +451,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "The Good Things (Outweigh the Bad)",
-        "url": "https://open.spotify.com/album/1voTotVTiai2e9xjBTPtDE"
+        "name": "Live",
+        "url": "https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO"
       },
       "artists": [
         {
-          "name": "Curtis McPeake",
-          "url": "https://open.spotify.com/artist/4PwlAirxlCUyYvCvWf0Koi"
-        },
-        {
-          "name": "Andy May",
-          "url": "https://open.spotify.com/artist/29zPfTRdKbhHXnpHtyQPEO"
+          "name": "Alison Krauss & Union Station",
+          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
         }
       ],
-      "duration_ms": 84906,
-      "name": "Leather Britches",
-      "url": "https://open.spotify.com/track/1cT7M8Lov9kn4YmBOgOb4t"
+      "duration_ms": 205293,
+      "name": "Choctaw Hayride - Live From The Louisville Palace, Kentucky / 2002",
+      "url": "https://open.spotify.com/track/4cBEspuS2ksy4Cgdb1GkpA"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Dillsboro Blues",
-        "url": "https://open.spotify.com/album/16OAkIBQZ3vmGFMk1bBlJD"
-      },
-      "artists": [
-        {
-          "name": "Darren Nicholson",
-          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Dillsboro Blues",
-      "url": "https://open.spotify.com/track/0CPcEVBK0mN7o7cvxLrCrZ"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Hell on Church Street",
         "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 212164,
       "name": "Cattle in the Cane",
       "url": "https://open.spotify.com/track/1iNIB7xrjq8qr2efZNJD0J"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Dillsboro Blues",
+        "url": "https://open.spotify.com/album/16OAkIBQZ3vmGFMk1bBlJD"
+      },
+      "artists": [
+        {
+          "name": "Darren Nicholson",
+          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Dillsboro Blues",
+      "url": "https://open.spotify.com/track/0CPcEVBK0mN7o7cvxLrCrZ"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "The David Grisman Quintet",
-        "url": "https://open.spotify.com/album/3WFYnejh2lEBcrQq2gclVq"
-      },
-      "artists": [
-        {
-          "name": "David Grisman",
-          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
-        }
-      ],
-      "duration_ms": 220293,
-      "name": "Blue Midnite",
-      "url": "https://open.spotify.com/track/2eU8DzjTsnsIOE3foknMYQ"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Leave Some Things Behind",
         "url": "https://open.spotify.com/album/50xpIDggAfE6YRdWBZaotd"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 121133,
       "name": "Mountains Quake",
       "url": "https://open.spotify.com/track/34Fn9n6FSOrAvbNzSK9eyf"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "The David Grisman Quintet",
+        "url": "https://open.spotify.com/album/3WFYnejh2lEBcrQq2gclVq"
+      },
+      "artists": [
+        {
+          "name": "David Grisman",
+          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
+        }
+      ],
+      "duration_ms": 220293,
+      "name": "Blue Midnite",
+      "url": "https://open.spotify.com/track/2eU8DzjTsnsIOE3foknMYQ"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
+        "name": "How To Grow A Woman From The Ground",
+        "url": "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
+      },
+      "artists": [
+        {
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+        }
+      ],
+      "duration_ms": 254226,
+      "name": "Watch 'At Breakdown",
+      "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
         "name": "Plays Bill Monroe",
         "url": "https://open.spotify.com/album/5Ccpn9YY8gJxInLMquM5yL"
       },
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "How To Grow A Woman From The Ground",
-        "url": "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
+        "name": "New Highway (Remastered)",
+        "url": "https://open.spotify.com/album/7vL8jUadq4thgWJVnGzuZ0"
       },
       "artists": [
         {
-          "name": "Chris Thile",
-          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+          "name": "Larry Sparks",
+          "url": "https://open.spotify.com/artist/05c6W2NfXx6jxO28OGfPRA"
         }
       ],
-      "duration_ms": 254226,
-      "name": "Watch 'At Breakdown",
-      "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
+      "duration_ms": 140000,
+      "name": "Just a Closer Walk With Thee",
+      "url": "https://open.spotify.com/track/5a5FTyeln9QIRJdE8P8GzS"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1195,22 +1211,6 @@
       "duration_ms": 255369,
       "name": "Wheels Up (feat. Sierra Hull & Molly Tuttle)",
       "url": "https://open.spotify.com/track/38yl3Y2LbWFmphbaVwvKEy"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "New Highway (Remastered)",
-        "url": "https://open.spotify.com/album/7vL8jUadq4thgWJVnGzuZ0"
-      },
-      "artists": [
-        {
-          "name": "Larry Sparks",
-          "url": "https://open.spotify.com/artist/05c6W2NfXx6jxO28OGfPRA"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Just a Closer Walk With Thee",
-      "url": "https://open.spotify.com/track/5a5FTyeln9QIRJdE8P8GzS"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "A Man Must Carry On",
-        "url": "https://open.spotify.com/album/01Fru9pmsJY6eahTSxAf6c"
-      },
-      "artists": [
-        {
-          "name": "Aubrey Haynie",
-          "url": "https://open.spotify.com/artist/0z4IT2s3fD9BWMUE52fU9S"
-        }
-      ],
-      "duration_ms": 329933,
-      "name": "Eternal Blues",
-      "url": "https://open.spotify.com/track/4HitPhJOcrzOSmk7FyqkE6"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Charm School (feat. Billy Strings & Chris Thile)",
         "url": "https://open.spotify.com/album/4HMIri0VEv19S8fMjJlsFs"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 483442,
       "name": "Charm School (feat. Billy Strings & Chris Thile)",
       "url": "https://open.spotify.com/track/7hpdC8tS3uHgsChnhduQy4"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "A Man Must Carry On",
+        "url": "https://open.spotify.com/album/01Fru9pmsJY6eahTSxAf6c"
+      },
+      "artists": [
+        {
+          "name": "Aubrey Haynie",
+          "url": "https://open.spotify.com/artist/0z4IT2s3fD9BWMUE52fU9S"
+        }
+      ],
+      "duration_ms": 329933,
+      "name": "Eternal Blues",
+      "url": "https://open.spotify.com/track/4HitPhJOcrzOSmk7FyqkE6"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1411,6 +1411,38 @@
       "duration_ms": 221706,
       "name": "Stoney Lonesome",
       "url": "https://open.spotify.com/track/6wmLGKJaPON9dZW0o4QuuG"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/4BSggug7Bz1IigGofkmIAv"
+      },
+      "artists": [
+        {
+          "name": "Ethan Setiawan",
+          "url": "https://open.spotify.com/artist/4PiLSMo2ZPdBLhSNv1Rggn"
+        }
+      ],
+      "duration_ms": 372746,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/4UvzGgR2uGRwqq6QDGQzl8"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Gravity's Our Enemy",
+        "url": "https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684"
+      },
+      "artists": [
+        {
+          "name": "Cadillac Sky",
+          "url": "https://open.spotify.com/artist/1jilau5qTNCuJlWaA7t4x8"
+        }
+      ],
+      "duration_ms": 251360,
+      "name": "The Majestic Swan - Instrumental",
+      "url": "https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1459,38 +1491,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/4BSggug7Bz1IigGofkmIAv"
-      },
-      "artists": [
-        {
-          "name": "Ethan Setiawan",
-          "url": "https://open.spotify.com/artist/4PiLSMo2ZPdBLhSNv1Rggn"
-        }
-      ],
-      "duration_ms": 372746,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/4UvzGgR2uGRwqq6QDGQzl8"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Gravity's Our Enemy",
-        "url": "https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684"
-      },
-      "artists": [
-        {
-          "name": "Cadillac Sky",
-          "url": "https://open.spotify.com/artist/1jilau5qTNCuJlWaA7t4x8"
-        }
-      ],
-      "duration_ms": 251360,
-      "name": "The Majestic Swan - Instrumental",
-      "url": "https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Decembering",
         "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
       },
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Cumberland Gap",
-        "url": "https://open.spotify.com/album/2kJ2mebmHglVZxIRfrOJGq"
-      },
-      "artists": [
-        {
-          "name": "Nora Brown",
-          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
-        }
-      ],
-      "duration_ms": 68725,
-      "name": "Cumberland Gap",
-      "url": "https://open.spotify.com/track/6422IVV0bPOMsvTEIyW2cs"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "From Sea To Sky",
         "url": "https://open.spotify.com/album/1xbIYXMSBnzghgRlDeVzkp"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 159130,
       "name": "From Sea To Sky",
       "url": "https://open.spotify.com/track/0p1v3xx5pzRiUKUersdDtR"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Cumberland Gap",
+        "url": "https://open.spotify.com/album/2kJ2mebmHglVZxIRfrOJGq"
+      },
+      "artists": [
+        {
+          "name": "Nora Brown",
+          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
+        }
+      ],
+      "duration_ms": 68725,
+      "name": "Cumberland Gap",
+      "url": "https://open.spotify.com/track/6422IVV0bPOMsvTEIyW2cs"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1567,22 +1567,6 @@
       "duration_ms": 217946,
       "name": "Fiddler's Dream",
       "url": "https://open.spotify.com/track/7qOf0MZAFj4WP0PQVOpVeL"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Riveter",
-        "url": "https://open.spotify.com/album/5meAQIac2yGj2ZzcdhHXlz"
-      },
-      "artists": [
-        {
-          "name": "Sami Braman",
-          "url": "https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre"
-        }
-      ],
-      "duration_ms": 177361,
-      "name": "Train in the Wilderness",
-      "url": "https://open.spotify.com/track/6gdItCqeyJc5U9TvW7t3xj"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1643,22 +1627,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Doc & Merle Watson's Guitar Album",
-        "url": "https://open.spotify.com/album/5cJh03Sy8v8o3i2zQhusLq"
+        "name": "Me & My Guitar",
+        "url": "https://open.spotify.com/album/17TJYoQWwccA98WnuVxwLy"
       },
       "artists": [
         {
-          "name": "Doc Watson",
-          "url": "https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ"
-        },
-        {
-          "name": "Merle Watson",
-          "url": "https://open.spotify.com/artist/6lynZefatZW6zvh500EIKN"
+          "name": "Tony Rice",
+          "url": "https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr"
         }
       ],
-      "duration_ms": 159600,
-      "name": "Black Mountain Rag",
-      "url": "https://open.spotify.com/track/6q3WwghJk9Ht7Mhoj90wIk"
+      "duration_ms": 287533,
+      "name": "Port Tobacco",
+      "url": "https://open.spotify.com/track/0QhRl7KFHpODnyOJTcodtN"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1687,6 +1667,42 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
+        "name": "Riveter",
+        "url": "https://open.spotify.com/album/5meAQIac2yGj2ZzcdhHXlz"
+      },
+      "artists": [
+        {
+          "name": "Sami Braman",
+          "url": "https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre"
+        }
+      ],
+      "duration_ms": 177361,
+      "name": "Train in the Wilderness",
+      "url": "https://open.spotify.com/track/6gdItCqeyJc5U9TvW7t3xj"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Doc & Merle Watson's Guitar Album",
+        "url": "https://open.spotify.com/album/5cJh03Sy8v8o3i2zQhusLq"
+      },
+      "artists": [
+        {
+          "name": "Doc Watson",
+          "url": "https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ"
+        },
+        {
+          "name": "Merle Watson",
+          "url": "https://open.spotify.com/artist/6lynZefatZW6zvh500EIKN"
+        }
+      ],
+      "duration_ms": 159600,
+      "name": "Black Mountain Rag",
+      "url": "https://open.spotify.com/track/6q3WwghJk9Ht7Mhoj90wIk"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
         "name": "58957: The Bluegrass Guitar Collection",
         "url": "https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 156932,
       "name": "Blackberry Blossom",
       "url": "https://open.spotify.com/track/3rGzzWcBktMg6x1yyTiTLA"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Me & My Guitar",
-        "url": "https://open.spotify.com/album/17TJYoQWwccA98WnuVxwLy"
-      },
-      "artists": [
-        {
-          "name": "Tony Rice",
-          "url": "https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr"
-        }
-      ],
-      "duration_ms": 287533,
-      "name": "Port Tobacco",
-      "url": "https://open.spotify.com/track/0QhRl7KFHpODnyOJTcodtN"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1803,18 +1803,30 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Looking Glass",
-        "url": "https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV"
+        "name": "Short Trip Home",
+        "url": "https://open.spotify.com/album/5qd2N0FM2Ld4RRG4OWtNRA"
       },
       "artists": [
         {
-          "name": "Chris Pandolfi",
-          "url": "https://open.spotify.com/artist/4E2ihSyxntkEapwROYzDfI"
+          "name": "Edgar Meyer",
+          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
+        },
+        {
+          "name": "Joshua Bell",
+          "url": "https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom"
+        },
+        {
+          "name": "Mike Marshall",
+          "url": "https://open.spotify.com/artist/2WJmZq6fEmecdQVd3s38jE"
+        },
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
         }
       ],
-      "duration_ms": 273586,
-      "name": "Winnipeg",
-      "url": "https://open.spotify.com/track/2AFe9bgmBAyaWnl7ji20wJ"
+      "duration_ms": 244706,
+      "name": "If I Knew - Instrumental",
+      "url": "https://open.spotify.com/track/1kBUMCRkZfBEnZRXc2xdD9"
     }
   ],
   "unique_name": "Instrumental Bluegrass",

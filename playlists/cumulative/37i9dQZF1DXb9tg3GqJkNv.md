@@ -4,7 +4,7 @@
 
 > A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: Drake 🦉
 
-83 songs - 4 hr 9 min
+84 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Killamonjaro](https://open.spotify.com/track/537l7spEsGg6aWl6Y9eKAs) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Killamonjaro](https://open.spotify.com/album/7IXOHbcGCzApTTInOsIbCB) | 2:58 | 2023-03-03 |  |
 | [KING OF THE TOWN](https://open.spotify.com/track/7h1t1cI0DOSZQ0jHm3u0zA) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef) | [BECAUSE WE'RE ALIVE](https://open.spotify.com/album/6wZMRN2p4tG53w6ixx16wS) | 2:31 | 2023-03-03 |  |
 | [Late Nights](https://open.spotify.com/track/4tFWHvXkGeJPH0hLeq3c06) | [Burna Bandz](https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ), [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm) | [Northside Jane](https://open.spotify.com/album/1uph0O7y4ETNY5U7ZgRlEH) | 3:48 | 2023-03-03 |  |
-| [Laughed To Myself](https://open.spotify.com/track/48105SIhfCIKOV4CtZLF7G) | [Velow](https://open.spotify.com/artist/2UOHBwSdgEwpUgbRDkY8mA) | [Laughed To Myself](https://open.spotify.com/album/7Jvfr3yFzAtIgT3XaZ9Awl) | 2:43 | 2023-03-03 |  |
+| [Laughed To Myself](https://open.spotify.com/track/48105SIhfCIKOV4CtZLF7G) | [Velow](https://open.spotify.com/artist/2UOHBwSdgEwpUgbRDkY8mA) | [Laughed To Myself](https://open.spotify.com/album/7Jvfr3yFzAtIgT3XaZ9Awl) | 2:43 | 2023-03-03 | 2023-04-28 |
 | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl) | 3:57 | 2023-03-03 |  |
 | [Lil Boat](https://open.spotify.com/track/3Zcv9IeYgCvEhxFTfsduaQ) | [88GLAM](https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl) | [88GLAM2](https://open.spotify.com/album/1BgPkFMgud3lmEc6enZsjd) | 3:00 | 2023-03-03 |  |
 | [Live Up to My Name](https://open.spotify.com/track/79KZAInFkxA0XLukZCGzvh) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [4Milli](https://open.spotify.com/album/28vYZP2mGD54CUoY0lPUr2) | 3:00 | 2023-03-03 |  |
@@ -85,6 +85,7 @@
 | [VULTURES](https://open.spotify.com/track/0gTmo8jEPfVnAFBKN0jndQ) | [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [DUSK to DAWN](https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE) | 2:30 | 2023-03-03 |  |
 | [Way Down](https://open.spotify.com/track/6uX0BTiAfFYBCm2zWBZbgd) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg) | [Trust Your Gut](https://open.spotify.com/album/5DmoSgxVksKJj8BizPuhfN) | 3:49 | 2023-03-03 |  |
 | [When The Moving Stops](https://open.spotify.com/track/3iEwa9W9ls7vLbZbe7vgSr) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [When The Moving Stops](https://open.spotify.com/album/3NYk6nuDZeY65D7L5jesl8) | 3:28 | 2023-03-03 |  |
+| [where's the confetti?](https://open.spotify.com/track/3VL3aSOA8O3b5iOVBkD9iD) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [the color grey.](https://open.spotify.com/album/5ie8vTZ17RhunHEDIlBAwg) | 3:20 | 2023-04-27 |  |
 | [While You on Road](https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [While You on Road](https://open.spotify.com/album/3DfkG12XAd1TGx9F5wNMCC) | 3:02 | 2023-03-03 |  |
 | [Why Did I](https://open.spotify.com/track/6NrB2hKwlyVfFY8qhKc8U6) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Sorry 4 What](https://open.spotify.com/album/7MUY0WxCmHcgEEeQNjoe8a) | 2:25 | 2023-03-24 |  |
 | [Window Shopping \(feat\. Lil Baby\)](https://open.spotify.com/track/5RmUd1skWw9kMFlxPgfcYW) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Window Shopping \(feat\. Lil Baby\)](https://open.spotify.com/album/1ihYyrjsmkOCAYAMaHZv1J) | 2:40 | 2023-03-03 |  |

@@ -2,7 +2,7 @@
 
 ### [Carta Malaysia 50](https://open.spotify.com/playlist/37i9dQZF1DXb1RLKxkHZ77)
 
-> Lagu\-lagu yang terbaik di Malaysia\. Cover: Amir Jahari
+> Lagu\-lagu yang terbaik di Malaysia\. Cover: Luqman Podolski, Tish Errda
 
 202 songs - 12 hr 43 min
 

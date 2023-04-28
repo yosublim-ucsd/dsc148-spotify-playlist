@@ -1,12 +1,12 @@
 {
-  "description": "It's not a genre, it's a culture. Cover: <a href=\"hhttps://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF?si=lK9CEKu4SAunMBAfvrAf6w\">Inkos'yamagcokama</a>.",
-  "num_followers": 25464,
+  "description": "It's not a genre, it's a culture. Cover: <a href=\"https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=Xev0VvjtSSSReVp7wvUkPw\">Nomfundo Moh</a>.",
+  "num_followers": 25708,
   "original_name": "Bhinca Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyMzE0MCwwMDAwMDAwMDg2ODU2Mzc5YjU2YWMyNmIyNTJjMjEyZGNjZjk1N2Qy",
+  "snapshot_id": "MCxhMWE2NWE2N2UzMzZmOGE2ZTkzOWUzNTRmN2I2NmNhZGFjMzNiZTAx",
   "tracks": [
     {
       "added_at": "2023-04-13 21:59:00",
@@ -31,6 +31,22 @@
       "duration_ms": 230000,
       "name": "Umbayimbayi",
       "url": "https://open.spotify.com/track/7cICJP7hsjo6e7JZgvNLiO"
+    },
+    {
+      "added_at": "2023-04-13 21:59:00",
+      "album": {
+        "name": "Ivila Laselawini",
+        "url": "https://open.spotify.com/album/278BIRWbQrUNkDwC3gN56e"
+      },
+      "artists": [
+        {
+          "name": "Mzukulu",
+          "url": "https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3"
+        }
+      ],
+      "duration_ms": 266026,
+      "name": "Sukuma Mkami Bakubone",
+      "url": "https://open.spotify.com/track/0O5LuQXAfihaOA3TFxYt3C"
     },
     {
       "added_at": "2023-04-13 21:59:00",
@@ -71,22 +87,6 @@
     {
       "added_at": "2023-04-13 21:59:00",
       "album": {
-        "name": "Ivila Laselawini",
-        "url": "https://open.spotify.com/album/278BIRWbQrUNkDwC3gN56e"
-      },
-      "artists": [
-        {
-          "name": "Mzukulu",
-          "url": "https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3"
-        }
-      ],
-      "duration_ms": 266026,
-      "name": "Sukuma Mkami Bakubone",
-      "url": "https://open.spotify.com/track/0O5LuQXAfihaOA3TFxYt3C"
-    },
-    {
-      "added_at": "2023-04-13 21:59:00",
-      "album": {
         "name": "NDIBUYEL'EMJOLWENI",
         "url": "https://open.spotify.com/album/7yAtqUe2YOeVVkaLKz57cO"
       },
@@ -119,6 +119,22 @@
     {
       "added_at": "2023-04-13 21:59:00",
       "album": {
+        "name": "Inhlupheko",
+        "url": "https://open.spotify.com/album/0COaJfx04ihKeZxxcw4j3x"
+      },
+      "artists": [
+        {
+          "name": "Ugatsheni",
+          "url": "https://open.spotify.com/artist/2kUReuoaNS6Thgl4zFQA60"
+        }
+      ],
+      "duration_ms": 294582,
+      "name": "Emendweni (Official Audio)",
+      "url": "https://open.spotify.com/track/7y7rkoxppjGCyanzPR1Ni3"
+    },
+    {
+      "added_at": "2023-04-13 21:59:00",
+      "album": {
         "name": "Ispoki Esingafi",
         "url": "https://open.spotify.com/album/3riM8V5qRqXKn09JuWHcAu"
       },
@@ -135,58 +151,6 @@
       "duration_ms": 269189,
       "name": "Ijele",
       "url": "https://open.spotify.com/track/2OYomh3wz8TWpfnQKxua2F"
-    },
-    {
-      "added_at": "2023-04-13 21:59:00",
-      "album": {
-        "name": "Awuyi Lapho",
-        "url": "https://open.spotify.com/album/5xiLbMeDPMlvXSZKhVSfEh"
-      },
-      "artists": [
-        {
-          "name": "Menzi",
-          "url": "https://open.spotify.com/artist/0PIYUjDZszDZSZGLhYvmyZ"
-        },
-        {
-          "name": "Sjava",
-          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
-        }
-      ],
-      "duration_ms": 294791,
-      "name": "Mntanomuntu",
-      "url": "https://open.spotify.com/track/2UMJhyDNyBn9rJc2fgw6GJ"
-    },
-    {
-      "added_at": "2023-04-13 21:59:00",
-      "album": {
-        "name": "Phakathi Komhlane Nembeleko",
-        "url": "https://open.spotify.com/album/3LJ39cJZE7hPwG2j6RXc5s"
-      },
-      "artists": [
-        {
-          "name": "Udumakahle",
-          "url": "https://open.spotify.com/artist/3a3txnliYhHHrdcw1k6gyq"
-        }
-      ],
-      "duration_ms": 260230,
-      "name": "Asifani siyafanelana",
-      "url": "https://open.spotify.com/track/61rcqq5Z6GSjVyhuFAMbiw"
-    },
-    {
-      "added_at": "2023-04-13 21:59:00",
-      "album": {
-        "name": "Uboya Enkomeni",
-        "url": "https://open.spotify.com/album/1PRhgX3Vv4TjqHUWG6R5eh"
-      },
-      "artists": [
-        {
-          "name": "Ntencane",
-          "url": "https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV"
-        }
-      ],
-      "duration_ms": 307757,
-      "name": "Wawuthembeni",
-      "url": "https://open.spotify.com/track/4lbJb7VVOGShkgblw8YUiY"
     },
     {
       "added_at": "2023-04-13 21:59:00",
@@ -223,22 +187,6 @@
     {
       "added_at": "2023-04-13 21:59:00",
       "album": {
-        "name": "S'kushaya Isdakwa",
-        "url": "https://open.spotify.com/album/3W662ml4nC71f2QUTMKeLy"
-      },
-      "artists": [
-        {
-          "name": "Imithente",
-          "url": "https://open.spotify.com/artist/3JqfmUV2PM8u6ifw2TWPJ9"
-        }
-      ],
-      "duration_ms": 243693,
-      "name": "S'kushaya Isdakwa",
-      "url": "https://open.spotify.com/track/2PJ6NP1np4QGGJpnl6MGwx"
-    },
-    {
-      "added_at": "2023-04-13 21:59:00",
-      "album": {
         "name": "Greatest Moments Of",
         "url": "https://open.spotify.com/album/0nLOqOS3t7akMp44aTzqIj"
       },
@@ -251,6 +199,110 @@
       "duration_ms": 360853,
       "name": "Ngafa",
       "url": "https://open.spotify.com/track/4OntDavbpxbLk80nXlw7WR"
+    },
+    {
+      "added_at": "2023-04-13 21:59:00",
+      "album": {
+        "name": "Zehla",
+        "url": "https://open.spotify.com/album/05jPZZIhjOGQOJduelCSPV"
+      },
+      "artists": [
+        {
+          "name": "Ithwasa Lekhansela",
+          "url": "https://open.spotify.com/artist/6NBgad7h0rc4Q75Ek8nt89"
+        },
+        {
+          "name": "Indoni",
+          "url": "https://open.spotify.com/artist/4WQsq6xk7Wu2WqM7aqpdTI"
+        }
+      ],
+      "duration_ms": 270184,
+      "name": "Kawungondli",
+      "url": "https://open.spotify.com/track/2s3bK3DPCb84Rl1Rfp01TH"
+    },
+    {
+      "added_at": "2023-04-13 21:59:00",
+      "album": {
+        "name": "Ningaphiki Nami",
+        "url": "https://open.spotify.com/album/12840tLE83NAKIiNZuEqZ8"
+      },
+      "artists": [
+        {
+          "name": "uMjabulisi",
+          "url": "https://open.spotify.com/artist/7hgZmJWaqjihq01cTFgyD6"
+        }
+      ],
+      "duration_ms": 248987,
+      "name": "BO GIRL",
+      "url": "https://open.spotify.com/track/6CrL5WAQNE2a94i7tqbi67"
+    },
+    {
+      "added_at": "2023-04-13 21:59:00",
+      "album": {
+        "name": "Phakathi Komhlane Nembeleko",
+        "url": "https://open.spotify.com/album/3LJ39cJZE7hPwG2j6RXc5s"
+      },
+      "artists": [
+        {
+          "name": "Udumakahle",
+          "url": "https://open.spotify.com/artist/3a3txnliYhHHrdcw1k6gyq"
+        }
+      ],
+      "duration_ms": 260230,
+      "name": "Asifani siyafanelana",
+      "url": "https://open.spotify.com/track/61rcqq5Z6GSjVyhuFAMbiw"
+    },
+    {
+      "added_at": "2023-04-13 21:59:00",
+      "album": {
+        "name": "Awuyi Lapho",
+        "url": "https://open.spotify.com/album/5xiLbMeDPMlvXSZKhVSfEh"
+      },
+      "artists": [
+        {
+          "name": "Menzi",
+          "url": "https://open.spotify.com/artist/0PIYUjDZszDZSZGLhYvmyZ"
+        },
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        }
+      ],
+      "duration_ms": 294791,
+      "name": "Mntanomuntu",
+      "url": "https://open.spotify.com/track/2UMJhyDNyBn9rJc2fgw6GJ"
+    },
+    {
+      "added_at": "2023-04-13 21:59:00",
+      "album": {
+        "name": "Uboya Enkomeni",
+        "url": "https://open.spotify.com/album/1PRhgX3Vv4TjqHUWG6R5eh"
+      },
+      "artists": [
+        {
+          "name": "Ntencane",
+          "url": "https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV"
+        }
+      ],
+      "duration_ms": 307757,
+      "name": "Wawuthembeni",
+      "url": "https://open.spotify.com/track/4lbJb7VVOGShkgblw8YUiY"
+    },
+    {
+      "added_at": "2023-04-13 21:59:00",
+      "album": {
+        "name": "S'kushaya Isdakwa",
+        "url": "https://open.spotify.com/album/3W662ml4nC71f2QUTMKeLy"
+      },
+      "artists": [
+        {
+          "name": "Imithente",
+          "url": "https://open.spotify.com/artist/3JqfmUV2PM8u6ifw2TWPJ9"
+        }
+      ],
+      "duration_ms": 243693,
+      "name": "S'kushaya Isdakwa",
+      "url": "https://open.spotify.com/track/2PJ6NP1np4QGGJpnl6MGwx"
     },
     {
       "added_at": "2023-04-13 21:59:00",
@@ -299,22 +351,6 @@
     {
       "added_at": "2023-04-13 21:59:00",
       "album": {
-        "name": "Ningaphiki Nami",
-        "url": "https://open.spotify.com/album/12840tLE83NAKIiNZuEqZ8"
-      },
-      "artists": [
-        {
-          "name": "uMjabulisi",
-          "url": "https://open.spotify.com/artist/7hgZmJWaqjihq01cTFgyD6"
-        }
-      ],
-      "duration_ms": 248987,
-      "name": "BO GIRL",
-      "url": "https://open.spotify.com/track/6CrL5WAQNE2a94i7tqbi67"
-    },
-    {
-      "added_at": "2023-04-13 21:59:00",
-      "album": {
         "name": "Voicemail",
         "url": "https://open.spotify.com/album/1jpct6JMzUuQRCvCe0ASwS"
       },
@@ -347,22 +383,34 @@
     {
       "added_at": "2023-04-13 21:59:00",
       "album": {
-        "name": "Zehla",
-        "url": "https://open.spotify.com/album/05jPZZIhjOGQOJduelCSPV"
+        "name": "Ngivunywe Usathane",
+        "url": "https://open.spotify.com/album/6PnShffIuygTGwCrJiAPEN"
       },
       "artists": [
         {
-          "name": "Ithwasa Lekhansela",
-          "url": "https://open.spotify.com/artist/6NBgad7h0rc4Q75Ek8nt89"
-        },
-        {
-          "name": "Indoni",
-          "url": "https://open.spotify.com/artist/4WQsq6xk7Wu2WqM7aqpdTI"
+          "name": "Ntencane",
+          "url": "https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV"
         }
       ],
-      "duration_ms": 270184,
-      "name": "Kawungondli",
-      "url": "https://open.spotify.com/track/2s3bK3DPCb84Rl1Rfp01TH"
+      "duration_ms": 251559,
+      "name": "Nguye Lo",
+      "url": "https://open.spotify.com/track/5v3FY18Q1MxKV2GFcjgIYM"
+    },
+    {
+      "added_at": "2023-04-13 21:59:00",
+      "album": {
+        "name": "Angsakhoni",
+        "url": "https://open.spotify.com/album/5BqRwQhNm7LwO4n9NcjzjO"
+      },
+      "artists": [
+        {
+          "name": "Mduduzi Ncube",
+          "url": "https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh"
+        }
+      ],
+      "duration_ms": 296052,
+      "name": "Angsakhoni",
+      "url": "https://open.spotify.com/track/21XL4xGIm6VhWSZF5uFYZb"
     },
     {
       "added_at": "2023-04-13 21:59:00",
@@ -383,22 +431,6 @@
     {
       "added_at": "2023-04-13 21:59:00",
       "album": {
-        "name": "Ngivunywe Usathane",
-        "url": "https://open.spotify.com/album/6PnShffIuygTGwCrJiAPEN"
-      },
-      "artists": [
-        {
-          "name": "Ntencane",
-          "url": "https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV"
-        }
-      ],
-      "duration_ms": 251559,
-      "name": "Nguye Lo",
-      "url": "https://open.spotify.com/track/5v3FY18Q1MxKV2GFcjgIYM"
-    },
-    {
-      "added_at": "2023-04-13 21:59:00",
-      "album": {
         "name": "Phendula",
         "url": "https://open.spotify.com/album/6d89ixAm9v3UfQGAWyeFb2"
       },
@@ -415,22 +447,6 @@
       "duration_ms": 261428,
       "name": "Sanibonani",
       "url": "https://open.spotify.com/track/4IMZR7DMOMAYHlAifv682g"
-    },
-    {
-      "added_at": "2023-04-13 21:59:00",
-      "album": {
-        "name": "Angsakhoni",
-        "url": "https://open.spotify.com/album/5BqRwQhNm7LwO4n9NcjzjO"
-      },
-      "artists": [
-        {
-          "name": "Mduduzi Ncube",
-          "url": "https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh"
-        }
-      ],
-      "duration_ms": 296052,
-      "name": "Angsakhoni",
-      "url": "https://open.spotify.com/track/21XL4xGIm6VhWSZF5uFYZb"
     },
     {
       "added_at": "2023-04-13 21:59:00",
@@ -459,22 +475,6 @@
       "duration_ms": 224106,
       "name": "Alusafani",
       "url": "https://open.spotify.com/track/1BXfrEUZFDhrVahuVT3PMK"
-    },
-    {
-      "added_at": "2023-04-13 21:59:00",
-      "album": {
-        "name": "Inhlupheko",
-        "url": "https://open.spotify.com/album/0COaJfx04ihKeZxxcw4j3x"
-      },
-      "artists": [
-        {
-          "name": "Ugatsheni",
-          "url": "https://open.spotify.com/artist/2kUReuoaNS6Thgl4zFQA60"
-        }
-      ],
-      "duration_ms": 294582,
-      "name": "Emendweni (Official Audio)",
-      "url": "https://open.spotify.com/track/7y7rkoxppjGCyanzPR1Ni3"
     },
     {
       "added_at": "2023-04-13 21:59:00",

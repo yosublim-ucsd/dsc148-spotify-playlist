@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Picositos y con mucho sabor! ",
-  "num_followers": 39794,
+  "num_followers": 39828,
   "original_name": "Los Chilaquiles",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY0NDQ2NSwwMDAwMDAwMGNlMWExMmM0NzlkMmVjYWZjOTNlMmI5OWMwMGQ4ZTMw",
+  "snapshot_id": "MCxmOWExOWI0Mzk1ZThkNTk0YTg4ZmQzZDY3ZTM4YTFhYTg5N2EzYTM1",
   "tracks": [
     {
       "added_at": "2022-10-28 19:05:39",
@@ -287,6 +287,26 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
+        "name": "En Vivo, Vol.1",
+        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
+        }
+      ],
+      "duration_ms": 254339,
+      "name": "La Pareja Ideal - En Vivo",
+      "url": "https://open.spotify.com/track/2gpgzhumYabZNyrsyvdAat"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
         "name": "Acu\u00e9rdate de Mi",
         "url": "https://open.spotify.com/album/0PcL1sQMunNBJB1hCbj1zY"
       },
@@ -315,26 +335,6 @@
       "duration_ms": 150360,
       "name": "El Botecito",
       "url": "https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
-        "name": "En Vivo, Vol.1",
-        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
-        }
-      ],
-      "duration_ms": 254339,
-      "name": "La Pareja Ideal - En Vivo",
-      "url": "https://open.spotify.com/track/2gpgzhumYabZNyrsyvdAat"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -711,6 +711,22 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis"
+        }
+      ],
+      "duration_ms": 201084,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
         "name": "Y Es el Contacto \u00a1Raza!",
         "url": "https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 225320,
       "name": "Que calor",
       "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca"
-      },
-      "artists": [
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis"
-        }
-      ],
-      "duration_ms": 201084,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "Sus Mejores Exitos",
-        "url": "https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Saya",
-          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
-        }
-      ],
-      "duration_ms": 195946,
-      "name": "Ca\u00f1ita Ca\u00f1averal",
-      "url": "https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
         "name": "Solo Cumbias",
         "url": "https://open.spotify.com/album/3OrPozsgIvSVIZRXfNNwex"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 224182,
       "name": "Lejan\u00eda",
       "url": "https://open.spotify.com/track/6uba6FMkBMkQGzDhzXnPf3"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
+        "name": "Sus Mejores Exitos",
+        "url": "https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Saya",
+          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
+        }
+      ],
+      "duration_ms": 195946,
+      "name": "Ca\u00f1ita Ca\u00f1averal",
+      "url": "https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
+        "name": "Cumbia Urbana del Pueblo y para el Pueblo, Vol. 2",
+        "url": "https://open.spotify.com/album/5BuCSY4KVyIBcvd1WGLPj6"
+      },
+      "artists": [
+        {
+          "name": "Los Yes Yes",
+          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
+        }
+      ],
+      "duration_ms": 188813,
+      "name": "Un Poblano en New York",
+      "url": "https://open.spotify.com/track/3H432gSVA7YWDccqx2bvXQ"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
         "name": "De Nueva Cuenta",
         "url": "https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 178933,
       "name": "Por Una Lagrima",
       "url": "https://open.spotify.com/track/5XBtCDWEbrNMNYPl73SGu5"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
-        "name": "Cumbia Urbana del Pueblo y para el Pueblo, Vol. 2",
-        "url": "https://open.spotify.com/album/5BuCSY4KVyIBcvd1WGLPj6"
-      },
-      "artists": [
-        {
-          "name": "Los Yes Yes",
-          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
-        }
-      ],
-      "duration_ms": 188813,
-      "name": "Un Poblano en New York",
-      "url": "https://open.spotify.com/track/3H432gSVA7YWDccqx2bvXQ"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "Baile Bucanero",
-        "url": "https://open.spotify.com/album/1jBC2RT7oXRkOqHrfoZCI3"
-      },
-      "artists": [
-        {
-          "name": "Ondatr\u00f3pica",
-          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Lazalypso",
-      "url": "https://open.spotify.com/track/73nwZubj4lYdp7MfDZO47a"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
         "name": "Historia natural",
         "url": "https://open.spotify.com/album/6R4jGvcdmRiF8wL6yqp34N"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 223488,
       "name": "Todos tenemos hogar",
       "url": "https://open.spotify.com/track/0TS5b5bVfUtGi2VOimdjIH"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
+        "name": "Baile Bucanero",
+        "url": "https://open.spotify.com/album/1jBC2RT7oXRkOqHrfoZCI3"
+      },
+      "artists": [
+        {
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Lazalypso",
+      "url": "https://open.spotify.com/track/73nwZubj4lYdp7MfDZO47a"
     },
     {
       "added_at": "2022-10-28 19:05:39",

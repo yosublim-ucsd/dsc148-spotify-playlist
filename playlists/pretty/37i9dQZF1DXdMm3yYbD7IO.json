@@ -1,12 +1,12 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 189222,
+  "num_followers": 189934,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ5MTI0NiwwMDAwMDAwMDgxMzliOTVmMjZiMWZmYjQzYjQ4Nzk0ODQ4NDljYmNi",
+  "snapshot_id": "MCw1NzlmYjlhZDExMjEzZWY2ODdjODc5YjM2MTA4NjhiMWVjYWE4MmNl",
   "tracks": [
     {
       "added_at": "2023-03-10 23:34:06",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-03-10 23:34:06",
       "album": {
-        "name": "The Madman's Return",
-        "url": "https://open.spotify.com/album/2TrNT4qm7qDIRTUVn9jBW4"
-      },
-      "artists": [
-        {
-          "name": "SNAP!",
-          "url": "https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx"
-        }
-      ],
-      "duration_ms": 332229,
-      "name": "Rhythm Is A Dancer",
-      "url": "https://open.spotify.com/track/1IWzfq3sLedGQ3fb2hAMBA"
-    },
-    {
-      "added_at": "2023-03-10 23:34:06",
-      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 252106,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
+    },
+    {
+      "added_at": "2023-03-10 23:34:06",
+      "album": {
+        "name": "The Madman's Return",
+        "url": "https://open.spotify.com/album/2TrNT4qm7qDIRTUVn9jBW4"
+      },
+      "artists": [
+        {
+          "name": "SNAP!",
+          "url": "https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx"
+        }
+      ],
+      "duration_ms": 332229,
+      "name": "Rhythm Is A Dancer",
+      "url": "https://open.spotify.com/track/1IWzfq3sLedGQ3fb2hAMBA"
     },
     {
       "added_at": "2023-03-10 23:34:06",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-03-10 23:34:06",
       "album": {
-        "name": "Don\u2019t Stop Movin\u2019",
-        "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
-      },
-      "artists": [
-        {
-          "name": "Livin' Joy",
-          "url": "https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu"
-        }
-      ],
-      "duration_ms": 223535,
-      "name": "Dreamer - Janice Robinson Vocal",
-      "url": "https://open.spotify.com/track/6wetvpPWooBdmAEOKnDhpo"
-    },
-    {
-      "added_at": "2023-03-10 23:34:06",
-      "album": {
         "name": "Situation:Critical",
         "url": "https://open.spotify.com/album/5k8evXM0YJNZpCQ0dMXGCJ"
       },
@@ -1043,6 +1027,22 @@
     {
       "added_at": "2023-03-10 23:34:06",
       "album": {
+        "name": "Don\u2019t Stop Movin\u2019",
+        "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
+      },
+      "artists": [
+        {
+          "name": "Livin' Joy",
+          "url": "https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu"
+        }
+      ],
+      "duration_ms": 223535,
+      "name": "Dreamer - Janice Robinson Vocal",
+      "url": "https://open.spotify.com/track/6wetvpPWooBdmAEOKnDhpo"
+    },
+    {
+      "added_at": "2023-03-10 23:34:06",
+      "album": {
         "name": "Aquarium (Special Edition)",
         "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
       },
@@ -1055,26 +1055,6 @@
       "duration_ms": 216626,
       "name": "Lollipop (Candyman)",
       "url": "https://open.spotify.com/track/7hIKkllltXJFgGfUZbVazE"
-    },
-    {
-      "added_at": "2023-03-10 23:34:06",
-      "album": {
-        "name": "Two Can Play That Game",
-        "url": "https://open.spotify.com/album/1K62bZaGNA1eNoR2pNu585"
-      },
-      "artists": [
-        {
-          "name": "Bobby Brown",
-          "url": "https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE"
-        },
-        {
-          "name": "K-Klass",
-          "url": "https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES"
-        }
-      ],
-      "duration_ms": 211800,
-      "name": "Two Can Play That Game - Radio Edit",
-      "url": "https://open.spotify.com/track/1gsnWXeNlbfoHpaGRi4oQ0"
     },
     {
       "added_at": "2023-03-10 23:34:06",
@@ -1107,6 +1087,26 @@
       "duration_ms": 211000,
       "name": "Tearin' up My Heart - Radio Edit",
       "url": "https://open.spotify.com/track/594M0rqYMOo8BhMGEdoi5C"
+    },
+    {
+      "added_at": "2023-03-10 23:34:06",
+      "album": {
+        "name": "Two Can Play That Game",
+        "url": "https://open.spotify.com/album/1K62bZaGNA1eNoR2pNu585"
+      },
+      "artists": [
+        {
+          "name": "Bobby Brown",
+          "url": "https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE"
+        },
+        {
+          "name": "K-Klass",
+          "url": "https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES"
+        }
+      ],
+      "duration_ms": 211800,
+      "name": "Two Can Play That Game - Radio Edit",
+      "url": "https://open.spotify.com/track/1gsnWXeNlbfoHpaGRi4oQ0"
     },
     {
       "added_at": "2023-03-10 23:34:06",

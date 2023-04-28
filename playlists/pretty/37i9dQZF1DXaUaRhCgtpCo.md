@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUaRhCgtpCo.md) - [plain]
 
 ### [Best of Star Wars](https://open.spotify.com/playlist/37i9dQZF1DXaUaRhCgtpCo)
 
-> May the Force be with you\. Listen to all the best Star Wars tracks, all in one place\. Cover: Star Wars: Andor
+> May the Force be with you\. Listen to all the best Star Wars tracks, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,493 likes - 126 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,599 likes - 126 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUaRhCgtpCo.md) - [plain]
 | 125 | [Star Wars: Galaxy's Edge Symphonic Suite \- Music Inspired by the Disney Themed Land](https://open.spotify.com/track/0ETHUHGV4QrIQ3iGIUQZbd) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: Galaxy's Edge Symphonic Suite \(Music Inspired by the Disney Themed Land\)](https://open.spotify.com/album/53V20nN6s91x3ey4grFvwY) | 4:57 |
 | 126 | [Ewok Celebration and Finale](https://open.spotify.com/track/4f6pN7FdZ0RZiNGAAEyAux) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: Return of the Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gt4PAxdMmq5DUV7tyuNxx) | 8:01 |
 
-Snapshot ID: `MTY4MjQ1MjcyMiwwMDAwMDAwMGU4OGNiZWI2MTE4MjJiZTQ1Mjc1ZTMyOTczOWE2YWZi`
+Snapshot ID: `MCxiOGFjM2QxNGJhODE0ODdmZWYzNzI5YmYyYWVjNWRhYmRlYWExN2Q5`

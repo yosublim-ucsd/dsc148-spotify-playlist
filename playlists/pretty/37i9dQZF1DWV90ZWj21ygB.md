@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV90ZWj21ygB.md) - [plain]
 
 > Relax to the roaring sound of crashing waves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,151 likes - 213 songs - 10 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,498 likes - 213 songs - 10 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV90ZWj21ygB.md) - [plain]
 | 110 | [Ocean Meditation](https://open.spotify.com/track/4b0c6iVwwAeFoq7COcsX5o) | [Relaxing Ocean Library](https://open.spotify.com/artist/6e8BCppIC0GAeFBeKSYaSt) | [Nature Sleep](https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG) | 1:43 |
 | 111 | [Inlet Sounds](https://open.spotify.com/track/1itzz7FVImAN5qBr1Qw4HX) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [California State Beach](https://open.spotify.com/album/4s0H6DDLfNwpuAS1wFO3CY) | 3:07 |
 | 112 | [Oceans Outside](https://open.spotify.com/track/4ndb9Sv5pTIolY8Lt5jmSn) | [Sounds of Nature Noise](https://open.spotify.com/artist/1ZJbPwe4zKnUDRT7yi9dBC) | [Soft Waves](https://open.spotify.com/album/0AVeNcB2nbFWNFCoN4znCx) | 2:02 |
-| 113 | [Stormy Sea](https://open.spotify.com/track/056HAdAfs0Xh7HDEpP41UB) | [Rainframe](https://open.spotify.com/artist/75LnSU5XRGI4oD4g9LXoRL) | [Ocean Hd](https://open.spotify.com/album/5L8JRoz2nPLViWAJL9zwDf) | 2:47 |
+| 113 | [Stormy Sea](https://open.spotify.com/track/5STiJhJ8wVjofGiEah0Izu) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Ocean HD Vol\. 4](https://open.spotify.com/album/7fFcVyns1uBinjiBOGbcbv) | 2:47 |
 | 114 | [Upstream River Sounds](https://open.spotify.com/track/3HtzQDc13GIkar1d3suvKl) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Soothing River Sounds](https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap) | 2:49 |
 | 115 | [Distan Winds And Wave Sounds](https://open.spotify.com/track/2gGxWhcOJ40DncuogOXdmh) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Across The Ocean](https://open.spotify.com/album/1qLrKZJ5wFbTOrkNrANeHa) | 2:43 |
 | 116 | [Big Waves](https://open.spotify.com/track/4LMB7JZy59tKfOkqAmnd8W) | [Beach Wave Explosion](https://open.spotify.com/artist/1DNNwqmuY6iopjc3F9uLLN) | [Windy Beach](https://open.spotify.com/album/5aENLHyxg8CXD3WHtUjIrL) | 3:10 |
@@ -222,4 +222,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV90ZWj21ygB.md) - [plain]
 | 212 | [Baltic Ocean Wave Sounds](https://open.spotify.com/track/01Q7qJ90WP59CceunoiD7B) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Ocean Sounds Vol\. 1](https://open.spotify.com/album/70GyyrJtf355wkI3MmMH59) | 2:55 |
 | 213 | [A Seagull's Dream \(Wave Sounds\)](https://open.spotify.com/track/4Q8gCZ1KF38PZs35uFbKO6) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Soothing Wave Sounds](https://open.spotify.com/album/2hhU3081biEtqo2PvUluNN) | 2:47 |
 
-Snapshot ID: `MTY2OTIxNTc5OSwwMDAwMDAwMDFlY2QxMWU5NWQ4MGUxZmJhMmE0YjVmNjYyMmUwN2E5`
+Snapshot ID: `MCwyMmMwNDNiMWI4NDQ3ZTkyOWY3MjM1N2E2OGQ0MmRiZjYxMWIwMzU0`

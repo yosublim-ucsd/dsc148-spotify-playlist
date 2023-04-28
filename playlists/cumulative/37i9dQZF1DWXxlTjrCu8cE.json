@@ -1960,10 +1960,32 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 163729,
       "name": "Outra Reca\u00edda - Ao Vivo",
       "url": "https://open.spotify.com/track/0Gxp5rPpn6vceyp0aTvufj"
+    },
+    {
+      "album": {
+        "name": "Binho Sim\u00f5es (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1uvxxd9rtz4hBSjxweqhVE"
+      },
+      "artists": [
+        {
+          "name": "Binho Sim\u00f5es",
+          "url": "https://open.spotify.com/artist/3YYITXjPoYKyWyssTc4X12"
+        },
+        {
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163729,
+      "name": "Outra Reca\u00edda - Ao Vivo",
+      "url": "https://open.spotify.com/track/0HJbGMGkeYoRX2ZVJn0iR6"
     },
     {
       "album": {

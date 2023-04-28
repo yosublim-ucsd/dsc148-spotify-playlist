@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 
 > Écoutez en boucle les hits 100% marocains du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,702 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,069 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 49 | [Zawali](https://open.spotify.com/track/4YjQb4TGxnBaGDxzVxoHcP) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Zawali](https://open.spotify.com/album/5DY406iJLXtKIw11Jvd9N4) | 3:02 |
 | 50 | [Douga](https://open.spotify.com/track/7H8cWXov4JefpfvzXiXt6B) | [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Douga](https://open.spotify.com/album/4moiez6TVp0ta4iGHf3Ms5) | 3:20 |
 
-Snapshot ID: `MTY4MjI3OTc0OCwwMDAwMDAwMGMzNDk0Yzk1MmU1YTU4ZGYyODI3N2U3MGEzOWE4NjA0`
+Snapshot ID: `MCw5NTdlNGFlNzczYWUxYTQ3Y2I0MjE5MTZkNGZhMzExMzkxMmUxODQy`

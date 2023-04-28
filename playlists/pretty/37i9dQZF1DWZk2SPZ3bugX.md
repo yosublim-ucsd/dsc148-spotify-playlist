@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 
 > La bande\-son de votre apéro\. Santé !
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,645 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,711 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 | 99 | [What A Life \(j'fais ma life\) \[feat\. Suzane\]](https://open.spotify.com/track/3KkdZgcQxYQQZQXumGO1Cy) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6), [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [What A Life \(j'fais ma life\) \[feat\. Suzane\]](https://open.spotify.com/album/5VDE8rAYryH4lTbGDvSMVQ) | 3:05 |
 | 100 | [The Mother We Share](https://open.spotify.com/track/2FV7Exjr70J652JcGucCtE) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones of What You Believe](https://open.spotify.com/album/5RXMsB6VV6NfaspYWsdPyD) | 3:11 |
 
-Snapshot ID: `MTY3OTY4NTQ5MiwwMDAwMDAwMGQ1NzM3M2I0NDJiZWZmNDgxOWM1OThlMTQ1ZjM1ZTZk`
+Snapshot ID: `MCwwZTg0ZWE0ZGFhNzljZjg5OTZiOWIxMGIyMmM1ZTk1MDE3Mzc3MjRm`

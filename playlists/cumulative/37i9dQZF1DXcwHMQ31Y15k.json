@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Ndarboy Genk",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Didik Budi",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -316,7 +316,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 295111,
       "name": "Cerito Manis",
       "url": "https://open.spotify.com/track/7f603cY33SBaZXtzpUYGx8"
@@ -1247,6 +1247,24 @@
     },
     {
       "album": {
+        "name": "Mergawe",
+        "url": "https://open.spotify.com/album/3msYUmQcFQO1D01tcyNmn5"
+      },
+      "artists": [
+        {
+          "name": "Didik Budi",
+          "url": "https://open.spotify.com/artist/4sy1TsEotKwjBHrQGPIwzZ"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Mergawe",
+      "url": "https://open.spotify.com/track/5N2z1MNzKTszoXTZmPnwgG"
+    },
+    {
+      "album": {
         "name": "Minggato",
         "url": "https://open.spotify.com/album/35ZdXSLT9YEhRHNmTzHKP2"
       },
@@ -1298,6 +1316,24 @@
       "duration_ms": 251520,
       "name": "Mundur Alon Alon",
       "url": "https://open.spotify.com/track/79mIVkf9j6wtG23QNkKfxZ"
+    },
+    {
+      "album": {
+        "name": "NEMEN",
+        "url": "https://open.spotify.com/album/7rKRjcEnQ3y8Ji1OK475tn"
+      },
+      "artists": [
+        {
+          "name": "Sasya Arkhisna",
+          "url": "https://open.spotify.com/artist/3k3ezqE9kuA9gkrojBhxeS"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316000,
+      "name": "NEMEN",
+      "url": "https://open.spotify.com/track/0TuttExCt1JaKvrX2DvIXU"
     },
     {
       "album": {
@@ -1792,7 +1828,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 335994,
       "name": "Piye Kabare",
       "url": "https://open.spotify.com/track/7MKuL6VuzjLAb09qLNSpDR"

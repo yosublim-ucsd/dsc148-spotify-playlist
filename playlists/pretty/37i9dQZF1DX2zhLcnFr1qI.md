@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Dance and Electronic tracks for the season <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,115 likes - 37 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,103 likes - 37 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 30 | [Jingle Bells](https://open.spotify.com/track/6abu6YFNdXxj6PFUdkGUfs) | [Wubbaduck](https://open.spotify.com/artist/36JJbH66Q0tZbKcnjvliDT) | [Jingle Bells](https://open.spotify.com/album/5FovzlmOYobIs5JRk9kZIz) | 2:30 |
 | 31 | [It's Christmas Time](https://open.spotify.com/track/6pFXCkYAwiSHTP2Z9E4U74) | [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Angemi](https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx) | [It's Christmas Time](https://open.spotify.com/album/02VL7bEf1C11Q4h7lc2X6q) | 2:43 |
 | 32 | [Jingle Bass \- VIP](https://open.spotify.com/track/0oQXua6hlHBvVSfVspeYoQ) | [ARIUS](https://open.spotify.com/artist/7wgs0d144iA6OnyYE629qE), [Born I](https://open.spotify.com/artist/6VaCJv2KP3kU8uZiezGkgM) | [Jingle Bass \(VIP\)](https://open.spotify.com/album/47UeINij7KuhaUlqRLRaD2) | 2:55 |
-| 33 | [Whim](https://open.spotify.com/track/4ygRwQ51TwtULzMfSBeWLQ) | [Ghost of Christmas](https://open.spotify.com/artist/7Akv2Ot7bWY2ZtJSlLevfD) | [The Difference](https://open.spotify.com/album/57zA28ulk816vLFjPrihMF) | 3:38 |
-| 34 | [Winter Wonderland](https://open.spotify.com/track/2XU4sTuAJ882jJnimHyvVZ) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai) | [Winter Wonderland](https://open.spotify.com/album/1gOfnXRPhogf3nAiM8EGfr) | 2:44 |
+| 33 | [Winter Wonderland](https://open.spotify.com/track/2XU4sTuAJ882jJnimHyvVZ) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai) | [Winter Wonderland](https://open.spotify.com/album/1gOfnXRPhogf3nAiM8EGfr) | 2:44 |
+| 34 | [Whim](https://open.spotify.com/track/4ygRwQ51TwtULzMfSBeWLQ) | [Ghost of Christmas](https://open.spotify.com/artist/7Akv2Ot7bWY2ZtJSlLevfD) | [The Difference](https://open.spotify.com/album/57zA28ulk816vLFjPrihMF) | 3:38 |
 | 35 | [Jingle Bells x Deck The Halls](https://open.spotify.com/track/4aCszkXcIJPScNYLRtawGX) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m), [Khalil Ramos](https://open.spotify.com/artist/5PuOmp0NiyY5kU1fgccHxU) | [Jingle Bells x Deck The Halls](https://open.spotify.com/album/0B7jS47Ev3FwKRnYlYP6VP) | 2:37 |
 | 36 | [All I Want for Christmas Is You](https://open.spotify.com/track/2HMeL2UhAlfrEXigmFOPnQ) | [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [KAJAK](https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt), [Dimmalou](https://open.spotify.com/artist/0IOiHLj2Tkym3BoVk1p5AT) | [All I Want for Christmas Is You](https://open.spotify.com/album/5kUwH6sjr4BFUTRqXZOGjb) | 2:31 |
 | 37 | [Frosty Bounce](https://open.spotify.com/track/0pi9cfkCshIvp7HH43JzIj) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Angger Dimas](https://open.spotify.com/artist/5tuOpj3ofDA06hxQjvjdGZ), [Nicky Da B](https://open.spotify.com/artist/3wWXYbMxREh97Te2ZN92Wi) | [A Very Decent Christmas](https://open.spotify.com/album/2IjH5xDghPPF4tXn1Mgkph) | 1:44 |
 
-Snapshot ID: `MTY3Mjk0NDA4MCwwMDAwMDAwMGE0MDgyNjJkYzU5ZTg0YzQyYTI5MGY5YWYxMTFiYWU0`
+Snapshot ID: `MCw4OTUxMDA2NzAyNzFhOTc0NzZhMjQwNjE0NTUyYTI2NzI1MzJhZWNi`

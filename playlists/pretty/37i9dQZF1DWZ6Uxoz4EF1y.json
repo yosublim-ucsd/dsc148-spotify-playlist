@@ -1,12 +1,12 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 126818,
+  "num_followers": 126974,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTAyOTEwNiwwMDAwMDAwMGFjZDYzN2IwMjViZTBlMmYzZGQyMDFhMjVhZTY5NmY2",
+  "snapshot_id": "MCxhZTk4NWVmM2M0NzhhOGU4NzRkMjU2MWJjZDYxMzc3NDI0ZWZmNjcw",
   "tracks": [
     {
       "added_at": "2023-04-09 08:31:46",
@@ -135,18 +135,26 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "El Cielo Est\u00e1 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/3lsNrx40kpa8vxMGK6jAik"
+        "name": "Uniendo Cielo Y Tierra",
+        "url": "https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W"
       },
       "artists": [
         {
-          "name": "Art Aguilera",
-          "url": "https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn"
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        },
+        {
+          "name": "Toma Tu Lugar",
+          "url": "https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h"
+        },
+        {
+          "name": "Lucas Conslie",
+          "url": "https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1"
         }
       ],
-      "duration_ms": 266173,
-      "name": "Hay Libertad",
-      "url": "https://open.spotify.com/track/4nxxZtSpkS3tEmuYxNMPmr"
+      "duration_ms": 601586,
+      "name": "Al Que Est\u00e1 Sentado En el Trono (feat. Lucas Conslie)",
+      "url": "https://open.spotify.com/track/499FGrXrU5vMuuh9EG0vEU"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -171,26 +179,18 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Uniendo Cielo Y Tierra",
-        "url": "https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W"
+        "name": "El Cielo Est\u00e1 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3lsNrx40kpa8vxMGK6jAik"
       },
       "artists": [
         {
-          "name": "Marcos Brunet",
-          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
-        },
-        {
-          "name": "Toma Tu Lugar",
-          "url": "https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h"
-        },
-        {
-          "name": "Lucas Conslie",
-          "url": "https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1"
+          "name": "Art Aguilera",
+          "url": "https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn"
         }
       ],
-      "duration_ms": 601586,
-      "name": "Al Que Est\u00e1 Sentado En el Trono (feat. Lucas Conslie)",
-      "url": "https://open.spotify.com/track/499FGrXrU5vMuuh9EG0vEU"
+      "duration_ms": 266173,
+      "name": "Hay Libertad",
+      "url": "https://open.spotify.com/track/4nxxZtSpkS3tEmuYxNMPmr"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Me rindo a ti",
-        "url": "https://open.spotify.com/album/3slWjvvWZv9pqUgzkI0A22"
-      },
-      "artists": [
-        {
-          "name": "Majo y Dan",
-          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
-        }
-      ],
-      "duration_ms": 291428,
-      "name": "Me rindo a ti",
-      "url": "https://open.spotify.com/track/1elgJB7cf8pf66fyIeQWzM"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
         "name": "Gente Comun Sue\u00f1os Extraordinarios",
         "url": "https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 279457,
       "name": "Exagerado Amor",
       "url": "https://open.spotify.com/track/23rgHw4IITKwFcOOl7jgvU"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
+        "name": "Me rindo a ti",
+        "url": "https://open.spotify.com/album/3slWjvvWZv9pqUgzkI0A22"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        }
+      ],
+      "duration_ms": 291428,
+      "name": "Me rindo a ti",
+      "url": "https://open.spotify.com/track/1elgJB7cf8pf66fyIeQWzM"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Amor Palabra Poder",
-        "url": "https://open.spotify.com/album/0QmZYNcLZ9Vh3QM4fZWLY6"
-      },
-      "artists": [
-        {
-          "name": "Lead",
-          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
-        }
-      ],
-      "duration_ms": 346933,
-      "name": "La Cruz",
-      "url": "https://open.spotify.com/track/64YUdJTdhkXJgvbKZpQtJa"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
         "name": "Majo y Dan",
         "url": "https://open.spotify.com/album/5epHePkyLeQ9htZwIDJXjn"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 339233,
       "name": "Te Deseo",
       "url": "https://open.spotify.com/track/6DialW5HyoOppXovC3CwCw"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
+        "name": "Amor Palabra Poder",
+        "url": "https://open.spotify.com/album/0QmZYNcLZ9Vh3QM4fZWLY6"
+      },
+      "artists": [
+        {
+          "name": "Lead",
+          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
+        }
+      ],
+      "duration_ms": 346933,
+      "name": "La Cruz",
+      "url": "https://open.spotify.com/track/64YUdJTdhkXJgvbKZpQtJa"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Sin Ti No Vivo (En Vivo)",
-        "url": "https://open.spotify.com/album/0tVI6eSPZ2WMOcG4nqmPHy"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Del Bosque",
-          "url": "https://open.spotify.com/artist/2827XOUsEosrxxYdNhyC5h"
-        }
-      ],
-      "duration_ms": 299773,
-      "name": "Me Entrego a Ti (En Vivo)",
-      "url": "https://open.spotify.com/track/08p6rede6WyjmjbPzzuDsw"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
         "name": "La Bondad de Dios",
         "url": "https://open.spotify.com/album/3U0BIC0ghYKKuEzuXXaYF7"
       },
@@ -803,6 +787,22 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
+        "name": "Sin Ti No Vivo (En Vivo)",
+        "url": "https://open.spotify.com/album/0tVI6eSPZ2WMOcG4nqmPHy"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Del Bosque",
+          "url": "https://open.spotify.com/artist/2827XOUsEosrxxYdNhyC5h"
+        }
+      ],
+      "duration_ms": 299773,
+      "name": "Me Entrego a Ti (En Vivo)",
+      "url": "https://open.spotify.com/track/08p6rede6WyjmjbPzzuDsw"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
         "name": "Lev\u00e1ntate Y Resplandece",
         "url": "https://open.spotify.com/album/77GhJZHeuVtEMLzQob3AWk"
       },
@@ -815,6 +815,22 @@
       "duration_ms": 347373,
       "name": "Lev\u00e1ntate y Resplandece",
       "url": "https://open.spotify.com/track/5tRy42q9tRNbpIW8vpcIk1"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
+        "name": "Mirar\u00e9 al Rey",
+        "url": "https://open.spotify.com/album/027pf1seCyz8BPhya74n2L"
+      },
+      "artists": [
+        {
+          "name": "Adoraci\u00f3n La IBI",
+          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
+        }
+      ],
+      "duration_ms": 287970,
+      "name": "Solo en Cristo",
+      "url": "https://open.spotify.com/track/5K7DKEJtKQJJgXbC8OfLNd"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -847,22 +863,6 @@
       "duration_ms": 299013,
       "name": "Amor Sin Comparaci\u00f3n",
       "url": "https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
-        "name": "Mirar\u00e9 al Rey",
-        "url": "https://open.spotify.com/album/027pf1seCyz8BPhya74n2L"
-      },
-      "artists": [
-        {
-          "name": "Adoraci\u00f3n La IBI",
-          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
-        }
-      ],
-      "duration_ms": 287970,
-      "name": "Solo en Cristo",
-      "url": "https://open.spotify.com/track/5K7DKEJtKQJJgXbC8OfLNd"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
+        "name": "Love Shines - EP",
+        "url": "https://open.spotify.com/album/4nPsZ7BBTtYcWw52GmeTRO"
+      },
+      "artists": [
+        {
+          "name": "Austin Stone Worship",
+          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
+        }
+      ],
+      "duration_ms": 321697,
+      "name": "Brilla Tu Amor",
+      "url": "https://open.spotify.com/track/59huk4RfMDJiRfgYaicID9"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
         "name": "Bethel Music en Espa\u00f1ol",
         "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 465386,
       "name": "S\u00e9 Entronado (Live)",
       "url": "https://open.spotify.com/track/6RjPeSyTInfDrkfOdKHUXa"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
-        "name": "Love Shines - EP",
-        "url": "https://open.spotify.com/album/4nPsZ7BBTtYcWw52GmeTRO"
-      },
-      "artists": [
-        {
-          "name": "Austin Stone Worship",
-          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
-        }
-      ],
-      "duration_ms": 321697,
-      "name": "Brilla Tu Amor",
-      "url": "https://open.spotify.com/track/59huk4RfMDJiRfgYaicID9"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "El Eco De Su Voz",
-        "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
-      },
-      "artists": [
-        {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
-        }
-      ],
-      "duration_ms": 327146,
-      "name": "Alabar\u00e9 Al Se\u00f1or (An\u00e1stasis)",
-      "url": "https://open.spotify.com/track/17tQn0PVAVheKCGg24RFMQ"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
         "name": "Gracias",
         "url": "https://open.spotify.com/album/6fo1XymhMMxx90DkdF5uYd"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 393769,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/3DegJt9Nl9iqk9Z8hwt1Eq"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
+        "name": "El Eco De Su Voz",
+        "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
+      },
+      "artists": [
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "duration_ms": 327146,
+      "name": "Alabar\u00e9 Al Se\u00f1or (An\u00e1stasis)",
+      "url": "https://open.spotify.com/track/17tQn0PVAVheKCGg24RFMQ"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "El Justo Vivir\u00e1 Por Fe",
-        "url": "https://open.spotify.com/album/434bFVfYutpT3PknlXQudX"
-      },
-      "artists": [
-        {
-          "name": "Adoraci\u00f3n La IBI",
-          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
-        }
-      ],
-      "duration_ms": 309400,
-      "name": "El Justo Vivir\u00e1 Por Fe",
-      "url": "https://open.spotify.com/track/3sLzXACmqioXU47UjfL5c2"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
         "name": "Esto Es Jesus Culture",
         "url": "https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 264906,
       "name": "Glorioso Eres T\u00fa",
       "url": "https://open.spotify.com/track/25A92qcO6w5ERUwKqt4UwC"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
+        "name": "El Justo Vivir\u00e1 Por Fe",
+        "url": "https://open.spotify.com/album/434bFVfYutpT3PknlXQudX"
+      },
+      "artists": [
+        {
+          "name": "Adoraci\u00f3n La IBI",
+          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
+        }
+      ],
+      "duration_ms": 309400,
+      "name": "El Justo Vivir\u00e1 Por Fe",
+      "url": "https://open.spotify.com/track/3sLzXACmqioXU47UjfL5c2"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -1755,22 +1755,18 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Nunca Fallas",
-        "url": "https://open.spotify.com/album/5paGsj21b8C9BFToAO5Ka2"
+        "name": "Como en Casa (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/73FehpfDRan2EMqqnlyW5V"
       },
       "artists": [
         {
-          "name": "MIMY",
-          "url": "https://open.spotify.com/artist/0vN6lKXMJ1sjp8PuWqYYtK"
-        },
-        {
-          "name": "Lucia Parker",
-          "url": "https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G"
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
         }
       ],
-      "duration_ms": 339202,
-      "name": "Nunca Fallas",
-      "url": "https://open.spotify.com/track/5wC29DelLmDsXJpKmQlsnu"
+      "duration_ms": 363772,
+      "name": "Vives T\u00fa Vivo Yo - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3aQ72h2vInTXJvE72Z6V0E"
     }
   ],
   "unique_name": "Jes\u00fas Vive",

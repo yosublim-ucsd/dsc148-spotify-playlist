@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce?si=dHdeyPu5R_iPqhI61YYh1A\">The Tazers</a> ",
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL?si=2tuFGhMOTQq74hieYvJjVw\">Ruff Majik</a> ",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -196,7 +196,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 167061,
       "name": "Anker",
       "url": "https://open.spotify.com/track/7vcdnzmzZS0oNDpqLgfn3g"
@@ -1581,6 +1581,24 @@
     },
     {
       "album": {
+        "name": "Free to Be Me",
+        "url": "https://open.spotify.com/album/2ESGR81JXO3gCEB0u3LdKR"
+      },
+      "artists": [
+        {
+          "name": "Billy Inglish",
+          "url": "https://open.spotify.com/artist/6DuvxqW15mmbh6Dc9Nm6EC"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219401,
+      "name": "Free to Be Me",
+      "url": "https://open.spotify.com/track/6k4VU38pmcRDCn2mRJIpQK"
+    },
+    {
+      "album": {
         "name": "Get Over Here",
         "url": "https://open.spotify.com/album/26wwYmk7xmAl7YaTNZjhQ8"
       },
@@ -1990,7 +2008,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 163100,
       "name": "IN TIME",
       "url": "https://open.spotify.com/track/6y7Y65Klj3xweqD4aGMJeC"
@@ -2929,6 +2947,24 @@
     },
     {
       "album": {
+        "name": "Partners in Crime",
+        "url": "https://open.spotify.com/album/1qjw3P90aCqZ4jGJIWNn7D"
+      },
+      "artists": [
+        {
+          "name": "Marene",
+          "url": "https://open.spotify.com/artist/5CMKKbyPMl9Ry6Kl1m8u1I"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219640,
+      "name": "Partners in Crime",
+      "url": "https://open.spotify.com/track/0nwyYEJoZAhx1lkj0C95Qs"
+    },
+    {
+      "album": {
         "name": "PITY PARTY",
         "url": "https://open.spotify.com/album/44aRUzG8io87BE9XUIhYy8"
       },
@@ -3056,6 +3092,24 @@
       "duration_ms": 188000,
       "name": "Raise a Glass",
       "url": "https://open.spotify.com/track/27RgZXuRhyJpxhomzhFi70"
+    },
+    {
+      "album": {
+        "name": "Elektrik Ram",
+        "url": "https://open.spotify.com/album/4HpDEF8FVhuaXWAz1Sr4Je"
+      },
+      "artists": [
+        {
+          "name": "Ruff Majik",
+          "url": "https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172003,
+      "name": "Rave to the Grave",
+      "url": "https://open.spotify.com/track/0yidnSQ53CqoAEhb4ZqNBK"
     },
     {
       "album": {
@@ -3598,7 +3652,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 316265,
       "name": "Stars",
       "url": "https://open.spotify.com/track/2FWNe8tTLt0bCJBOY9nPWc"
@@ -3760,7 +3814,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 207018,
       "name": "Sugar Tits",
       "url": "https://open.spotify.com/track/4zvgJZD3bm6V4axDHFErc3"
@@ -4242,6 +4296,24 @@
       "duration_ms": 246173,
       "name": "Vanilla Sky",
       "url": "https://open.spotify.com/track/5RA1vsHu0BBAns6A7tZaAr"
+    },
+    {
+      "album": {
+        "name": "Verlede",
+        "url": "https://open.spotify.com/album/03WqCunPsGa51cHENo2QYc"
+      },
+      "artists": [
+        {
+          "name": "X_C_Xreece",
+          "url": "https://open.spotify.com/artist/5K7YIVq5HTLQROahka7QyZ"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190066,
+      "name": "Verlede",
+      "url": "https://open.spotify.com/track/4Rv72ElRdcLDMi7r5ENtRz"
     },
     {
       "album": {

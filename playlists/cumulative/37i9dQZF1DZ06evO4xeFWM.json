@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Pompeii / Come As You Are (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/5o8QbgQysnN2Ox4ZLWnp5K"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231490,
+      "name": "Come As You Are - MTV Unplugged / Edit",
+      "url": "https://open.spotify.com/track/6gVMFOIlHVIWDbEjpB5oA5"
+    },
+    {
+      "album": {
         "name": "Distorted Light Beam",
         "url": "https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz"
       },
@@ -513,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Killing Me Softly With His Song (MTV Unplugged / Edit)",
+        "url": "https://open.spotify.com/album/4VP0lZWCx95HJkvoSgVWFc"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298540,
+      "name": "Killing Me Softly With His Song - MTV Unplugged / Edit",
+      "url": "https://open.spotify.com/track/52xvC4hzMc3LSXu9AwCmrN"
+    },
+    {
+      "album": {
         "name": "All This Bad Blood",
         "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
       },
@@ -600,7 +636,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 272547,
       "name": "No One\u2019s Here To Sleep",
       "url": "https://open.spotify.com/track/0txjdg6j38GxiWzfH2Skpg"

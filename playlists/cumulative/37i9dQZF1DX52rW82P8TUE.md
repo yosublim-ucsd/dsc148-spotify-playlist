@@ -4,7 +4,7 @@
 
 > Músicas para dançar e louvar com os pequenos adoradores.
 
-58 songs - 3 hr 14 min
+59 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Chevere \(feat\. Lito Atalaia\)](https://open.spotify.com/track/3Ecllma7tEPF8gZZZsNp1v) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Chevere \(feat\. Lito Atalaia\)](https://open.spotify.com/album/2nuYrKJ4TCQ1B9ZV2Mjupg) | 3:33 | 2022-09-02 |  |
 | [Com Jesus](https://open.spotify.com/track/1teeml3NtPVTvfdrPiuxID) | [Bunekão de Jesus](https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2) | [Com Jesus](https://open.spotify.com/album/0GPGJJUSk7pCTOrMkKgy60) | 2:58 | 2022-09-02 |  |
 | [Conectada Com Deus](https://open.spotify.com/track/0mdbQRBEonvAxHHJsS5UCj) | [Aline Nascimento](https://open.spotify.com/artist/5Iz1GoxCNhkBe8vn9fXQV4) | [Conectada Com Deus](https://open.spotify.com/album/58yeAD8aegEUHWbQBZp3mx) | 2:33 | 2023-01-20 | 2023-04-27 |
-| [Conectada com Deus](https://open.spotify.com/track/1iK8557dfKjDCeN8Jjkryg) | [Aline Nascimento](https://open.spotify.com/artist/5Iz1GoxCNhkBe8vn9fXQV4) | [Conectada com Deus](https://open.spotify.com/album/2mlaRjwR3nEaaJ78eNa0Ws) | 2:33 | 2023-03-11 |  |
+| [Conectada com Deus](https://open.spotify.com/track/1iK8557dfKjDCeN8Jjkryg) | [Aline Nascimento](https://open.spotify.com/artist/5Iz1GoxCNhkBe8vn9fXQV4) | [Conectada com Deus](https://open.spotify.com/album/2mlaRjwR3nEaaJ78eNa0Ws) | 2:33 | 2023-03-11 | 2023-04-28 |
+| [Conectada com Deus \- PlayBack](https://open.spotify.com/track/4uxJTPhvT8FyOzQkS7DxoL) | [Aline Nascimento](https://open.spotify.com/artist/5Iz1GoxCNhkBe8vn9fXQV4) | [Conectada com Deus \(PlayBack\)](https://open.spotify.com/album/4CNNveKXMH7k2VMTC1FrAs) | 2:33 | 2023-03-11 |  |
 | [Corpo Perfeito](https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Kids](https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2) | 2:54 | 2022-09-02 |  |
 | [Criança Nota 10](https://open.spotify.com/track/2kPwaMnS3qowXfg8aBh7nn) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Coral de Crianças](https://open.spotify.com/artist/2qUfzKBWjm4UpH1MjdKnSi) | [Criança Nota 10](https://open.spotify.com/album/2nFtRppoPctEbxAUTpynL3) | 2:44 | 2022-09-02 |  |
 | [Dança do Canguru](https://open.spotify.com/track/1U4Vl0LRSvWtfBtRI6bnBN) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 3](https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg) | 2:53 | 2022-09-02 |  |

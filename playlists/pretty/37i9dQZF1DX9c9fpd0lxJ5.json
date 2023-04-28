@@ -1,12 +1,12 @@
 {
   "description": "indie tunes to make you shine bby :)",
-  "num_followers": 450762,
+  "num_followers": 450796,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA5MDcxNSwwMDAwMDAwMDIwNzM3YzRhNTM2ZjQ1NGMzNTcyYmQwOGY4MmZiYmIz",
+  "snapshot_id": "MCw2MDE1Njk1MGFmYWZlODE1ZDY4OWU1MThkMTgxMjA5Y2IzMzk3N2Qx",
   "tracks": [
     {
       "added_at": "2023-04-21 15:25:15",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-04-21 15:25:15",
       "album": {
-        "name": "Capul\u00ed",
-        "url": "https://open.spotify.com/album/2oAG4DUG1vIVMOgtWsoqxA"
-      },
-      "artists": [
-        {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
-        }
-      ],
-      "duration_ms": 202770,
-      "name": "Capul\u00ed",
-      "url": "https://open.spotify.com/track/5yoQCiZjwoAKqBzqKlDdh5"
-    },
-    {
-      "added_at": "2023-04-21 15:25:15",
-      "album": {
         "name": "Puro Teatro",
         "url": "https://open.spotify.com/album/0omCx2FvDNSj9i6J0KHp3P"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 195200,
       "name": "Provincia",
       "url": "https://open.spotify.com/track/5L0h6EbHsxXJG8YLrknKqY"
+    },
+    {
+      "added_at": "2023-04-21 15:25:15",
+      "album": {
+        "name": "Capul\u00ed",
+        "url": "https://open.spotify.com/album/2oAG4DUG1vIVMOgtWsoqxA"
+      },
+      "artists": [
+        {
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+        }
+      ],
+      "duration_ms": 202770,
+      "name": "Capul\u00ed",
+      "url": "https://open.spotify.com/track/5yoQCiZjwoAKqBzqKlDdh5"
     },
     {
       "added_at": "2023-04-21 15:25:15",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-04-21 15:25:15",
       "album": {
+        "name": "Tu Forma",
+        "url": "https://open.spotify.com/album/5C4E1kwoa7VWHEXIwdEOoK"
+      },
+      "artists": [
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Tu Forma",
+      "url": "https://open.spotify.com/track/6SullLVOVzuWkaCCHJhQaS"
+    },
+    {
+      "added_at": "2023-04-21 15:25:15",
+      "album": {
         "name": "CARISMA",
         "url": "https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ"
       },
@@ -1203,22 +1219,6 @@
     {
       "added_at": "2023-04-21 15:25:15",
       "album": {
-        "name": "Trebol",
-        "url": "https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD"
-      },
-      "artists": [
-        {
-          "name": "Ben Aler",
-          "url": "https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R"
-        }
-      ],
-      "duration_ms": 226393,
-      "name": "Trebol",
-      "url": "https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o"
-    },
-    {
-      "added_at": "2023-04-21 15:25:15",
-      "album": {
         "name": "Eres",
         "url": "https://open.spotify.com/album/5X4LwzmV4YI6ZgUSTrLzNs"
       },
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2023-04-21 15:25:15",
       "album": {
-        "name": "Tu Forma",
-        "url": "https://open.spotify.com/album/5C4E1kwoa7VWHEXIwdEOoK"
+        "name": "Trebol",
+        "url": "https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD"
       },
       "artists": [
         {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+          "name": "Ben Aler",
+          "url": "https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R"
         }
       ],
-      "duration_ms": 154000,
-      "name": "Tu Forma",
-      "url": "https://open.spotify.com/track/6SullLVOVzuWkaCCHJhQaS"
+      "duration_ms": 226393,
+      "name": "Trebol",
+      "url": "https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o"
     },
     {
       "added_at": "2023-04-21 15:25:15",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-04-21 15:25:15",
       "album": {
-        "name": "Get Lost In The Music",
-        "url": "https://open.spotify.com/album/4r7qQ7yTsRuVghSurlagxs"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 181910,
-      "name": "Un Animal (Divina Existencia)",
-      "url": "https://open.spotify.com/track/23ietpawDh7f4PVAGBJ690"
-    },
-    {
-      "added_at": "2023-04-21 15:25:15",
-      "album": {
         "name": "Cool",
         "url": "https://open.spotify.com/album/60ollCR8TmOExAIxC6A5gK"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 224571,
       "name": "Cool",
       "url": "https://open.spotify.com/track/0dauihENtfevnqjwnFPfgm"
+    },
+    {
+      "added_at": "2023-04-21 15:25:15",
+      "album": {
+        "name": "Get Lost In The Music",
+        "url": "https://open.spotify.com/album/4r7qQ7yTsRuVghSurlagxs"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 181910,
+      "name": "Un Animal (Divina Existencia)",
+      "url": "https://open.spotify.com/track/23ietpawDh7f4PVAGBJ690"
     },
     {
       "added_at": "2023-04-21 15:25:15",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-04-21 15:25:15",
       "album": {
+        "name": "Hasta Que",
+        "url": "https://open.spotify.com/album/5CfItgvcqP5EQkbDnzeZ6s"
+      },
+      "artists": [
+        {
+          "name": "Tatiana Hazel",
+          "url": "https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU"
+        }
+      ],
+      "duration_ms": 193933,
+      "name": "Hasta Que",
+      "url": "https://open.spotify.com/track/5XMjWyEq3MJXQX80jj24yM"
+    },
+    {
+      "added_at": "2023-04-21 15:25:15",
+      "album": {
         "name": "Un Espejismo",
         "url": "https://open.spotify.com/album/09t2QufWnwK3qqAyojkkis"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 214736,
       "name": "Un Espejismo",
       "url": "https://open.spotify.com/track/2Ge2F0SEtRF85xYenNxgaj"
-    },
-    {
-      "added_at": "2023-04-21 15:25:15",
-      "album": {
-        "name": "Hasta Que",
-        "url": "https://open.spotify.com/album/5CfItgvcqP5EQkbDnzeZ6s"
-      },
-      "artists": [
-        {
-          "name": "Tatiana Hazel",
-          "url": "https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU"
-        }
-      ],
-      "duration_ms": 193933,
-      "name": "Hasta Que",
-      "url": "https://open.spotify.com/track/5XMjWyEq3MJXQX80jj24yM"
     },
     {
       "added_at": "2023-04-21 15:25:15",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2023-04-21 15:25:15",
       "album": {
-        "name": "tarde",
-        "url": "https://open.spotify.com/album/6lRoh8C3svKUXARiBoAzAq"
+        "name": "Multicolor",
+        "url": "https://open.spotify.com/album/3Q6G0bA46mkuuYWGXvaVAH"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+          "name": "Solo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
         }
       ],
-      "duration_ms": 217933,
-      "name": "tarde",
-      "url": "https://open.spotify.com/track/00d5cZCaxuGWzeL4n8dbpe"
+      "duration_ms": 332546,
+      "name": "Rompecabezas",
+      "url": "https://open.spotify.com/track/2pT8BGhoG1InTRD3LIjyB8"
     }
   ],
   "unique_name": "indie feliz",

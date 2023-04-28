@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los grandes nombres del Vallenato viven aqu\u00ed!",
-  "num_followers": 174814,
+  "num_followers": 174896,
   "original_name": "Vallenato Full Bacano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTczMzUxNiwwMDAwMDAwMDY2YzAxMWZmODY5YjVhNDFkNmEwOTQ5YTdlMDc4MmZl",
+  "snapshot_id": "MCw2ODEwNjY3MjM5YTVlYTc4ZjZiYWZhZjBjZDcyODcxNzVmODhmNmZh",
   "tracks": [
     {
       "added_at": "2023-02-07 01:31:56",
@@ -131,8 +131,8 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Titulo De Amor",
-        "url": "https://open.spotify.com/album/0FemNl3cjskKpjCTUj3fne"
+        "name": "Brindo Con El Alma",
+        "url": "https://open.spotify.com/album/5sKPvJKVhhhYBPhs6kxbjM"
       },
       "artists": [
         {
@@ -140,13 +140,13 @@
           "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
         },
         {
-          "name": "Juancho Rois",
-          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
+          "name": "El Cocha Molina",
+          "url": "https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs"
         }
       ],
-      "duration_ms": 253933,
-      "name": "T\u00fa Eres La Reina",
-      "url": "https://open.spotify.com/track/15Q3jbXrqgd9DqW8I4iKl4"
+      "duration_ms": 300760,
+      "name": "Sin Medir Distancias",
+      "url": "https://open.spotify.com/track/6OIvXRQYGEhmvLjcYNcV4n"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -295,8 +295,8 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Brindo Con El Alma",
-        "url": "https://open.spotify.com/album/5sKPvJKVhhhYBPhs6kxbjM"
+        "name": "Titulo De Amor",
+        "url": "https://open.spotify.com/album/0FemNl3cjskKpjCTUj3fne"
       },
       "artists": [
         {
@@ -304,13 +304,13 @@
           "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
         },
         {
-          "name": "El Cocha Molina",
-          "url": "https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs"
+          "name": "Juancho Rois",
+          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
         }
       ],
-      "duration_ms": 300760,
-      "name": "Sin Medir Distancias",
-      "url": "https://open.spotify.com/track/6OIvXRQYGEhmvLjcYNcV4n"
+      "duration_ms": 253933,
+      "name": "T\u00fa Eres La Reina",
+      "url": "https://open.spotify.com/track/15Q3jbXrqgd9DqW8I4iKl4"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/3RsbxYK9uTkSMZTDqNaJnM"
-      },
-      "artists": [
-        {
-          "name": "Los Embajadores Vallenato",
-          "url": "https://open.spotify.com/artist/2J95wKK8c7dnly0hkJ2b6X"
-        }
-      ],
-      "duration_ms": 269240,
-      "name": "El Santo Cachon",
-      "url": "https://open.spotify.com/track/3zR4QhbiQ7zZ6eR58jT43d"
-    },
-    {
-      "added_at": "2023-02-07 01:31:56",
-      "album": {
         "name": "Alto Voltaje",
         "url": "https://open.spotify.com/album/58S0vKkRnOwYGwpDSXNsEX"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 246800,
       "name": "Infiel",
       "url": "https://open.spotify.com/track/1PTQMGoaQ2ZnWi3WBzFpwp"
+    },
+    {
+      "added_at": "2023-02-07 01:31:56",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/3RsbxYK9uTkSMZTDqNaJnM"
+      },
+      "artists": [
+        {
+          "name": "Los Embajadores Vallenato",
+          "url": "https://open.spotify.com/artist/2J95wKK8c7dnly0hkJ2b6X"
+        }
+      ],
+      "duration_ms": 269240,
+      "name": "El Santo Cachon",
+      "url": "https://open.spotify.com/track/3zR4QhbiQ7zZ6eR58jT43d"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
+        "name": "Vallenato Fest",
+        "url": "https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06"
+      },
+      "artists": [
+        {
+          "name": "Grupo Vallenato",
+          "url": "https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE"
+        }
+      ],
+      "duration_ms": 316279,
+      "name": "Dime Que Me Quieres",
+      "url": "https://open.spotify.com/track/0GPCmhhe3HkJ6VVHOwJmZw"
+    },
+    {
+      "added_at": "2023-02-07 01:31:56",
+      "album": {
         "name": "Cantando",
         "url": "https://open.spotify.com/album/4Quphj8pT97jUc6T1A03Op"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 264720,
       "name": "Sombra Perdida",
       "url": "https://open.spotify.com/track/1iLUNt0JQR8FOohEGHE22z"
-    },
-    {
-      "added_at": "2023-02-07 01:31:56",
-      "album": {
-        "name": "Vallenato Fest",
-        "url": "https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06"
-      },
-      "artists": [
-        {
-          "name": "Grupo Vallenato",
-          "url": "https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE"
-        }
-      ],
-      "duration_ms": 316279,
-      "name": "Dime Que Me Quieres",
-      "url": "https://open.spotify.com/track/0GPCmhhe3HkJ6VVHOwJmZw"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Internacional",
-        "url": "https://open.spotify.com/album/7eAMaa3wNUuI2NBVeeaRB0"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 277266,
-      "name": "Qu\u00e9 Sera de M\u00ed",
-      "url": "https://open.spotify.com/track/2YO7dZYb0jsf93BH2GtlNY"
-    },
-    {
-      "added_at": "2023-02-07 01:31:56",
-      "album": {
         "name": "Muy Nuestro",
         "url": "https://open.spotify.com/album/11vSLzBjLYwRX1tjqTDsQQ"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 296146,
       "name": "El Mochuelo",
       "url": "https://open.spotify.com/track/1dQQtzeKGUtVTUzLoRI01j"
+    },
+    {
+      "added_at": "2023-02-07 01:31:56",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/3RsbxYK9uTkSMZTDqNaJnM"
+      },
+      "artists": [
+        {
+          "name": "Los Embajadores Vallenato",
+          "url": "https://open.spotify.com/artist/2J95wKK8c7dnly0hkJ2b6X"
+        }
+      ],
+      "duration_ms": 265213,
+      "name": "Donde Estas",
+      "url": "https://open.spotify.com/track/7vyGzPh1AAGCWa6OXYweZH"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -995,18 +995,18 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/3RsbxYK9uTkSMZTDqNaJnM"
+        "name": "Internacional",
+        "url": "https://open.spotify.com/album/7eAMaa3wNUuI2NBVeeaRB0"
       },
       "artists": [
         {
-          "name": "Los Embajadores Vallenato",
-          "url": "https://open.spotify.com/artist/2J95wKK8c7dnly0hkJ2b6X"
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 265213,
-      "name": "Donde Estas",
-      "url": "https://open.spotify.com/track/7vyGzPh1AAGCWa6OXYweZH"
+      "duration_ms": 277266,
+      "name": "Qu\u00e9 Sera de M\u00ed",
+      "url": "https://open.spotify.com/track/2YO7dZYb0jsf93BH2GtlNY"
     },
     {
       "added_at": "2023-02-07 01:31:56",

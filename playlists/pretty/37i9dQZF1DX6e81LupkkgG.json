@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas aconchegantes para aquecer a alma nos dias frios.",
-  "num_followers": 341231,
+  "num_followers": 341307,
   "original_name": "Friozinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTc0NjMzNCwwMDAwMDAwMGJhNDJiOWE3YzViNGY2ZGMyOGEzOWM2NjU1OWNmZDQ5",
+  "snapshot_id": "MCxiODE3NWU4NjljMTZmZjRmODkxN2QyNzkzNDA0OTJlNTQwMWM4Nzli",
   "tracks": [
     {
       "added_at": "2023-04-17 15:45:34",
@@ -17,7 +17,7 @@
       "artists": [
         {
           "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF"
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
         }
       ],
       "duration_ms": 184791,
@@ -375,6 +375,22 @@
     {
       "added_at": "2023-04-17 15:45:34",
       "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 376169,
+      "name": "I Drink Wine",
+      "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
+    },
+    {
+      "added_at": "2023-04-17 15:45:34",
+      "album": {
         "name": "We Go Down Together (with Khalid)",
         "url": "https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 184963,
       "name": "We Go Down Together (with Khalid)",
       "url": "https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r"
-    },
-    {
-      "added_at": "2023-04-17 15:45:34",
-      "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 376169,
-      "name": "I Drink Wine",
-      "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
     },
     {
       "added_at": "2023-04-17 15:45:34",
@@ -887,26 +887,6 @@
     {
       "added_at": "2023-04-17 15:45:34",
       "album": {
-        "name": "Me Espera",
-        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        }
-      ],
-      "duration_ms": 179449,
-      "name": "Modo Avi\u00e3o",
-      "url": "https://open.spotify.com/track/26i58WAIoKhuTf8TMH6I6C"
-    },
-    {
-      "added_at": "2023-04-17 15:45:34",
-      "album": {
         "name": "My Only One (No Hay Nadie M\u00e1s)",
         "url": "https://open.spotify.com/album/26VuZb8071jOTFmIayEgEe"
       },
@@ -927,18 +907,22 @@
     {
       "added_at": "2023-04-17 15:45:34",
       "album": {
-        "name": "Paper Crown",
-        "url": "https://open.spotify.com/album/7sQDzWYBQavRBvvamkslFe"
+        "name": "Me Espera",
+        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
       },
       "artists": [
         {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
         }
       ],
-      "duration_ms": 192407,
-      "name": "Paper Crown",
-      "url": "https://open.spotify.com/track/2fB0qwP98V9Yrv3mgR6IJJ"
+      "duration_ms": 179449,
+      "name": "Modo Avi\u00e3o",
+      "url": "https://open.spotify.com/track/26i58WAIoKhuTf8TMH6I6C"
     },
     {
       "added_at": "2023-04-17 15:45:34",
@@ -955,6 +939,22 @@
       "duration_ms": 131970,
       "name": "Te Amar Demais",
       "url": "https://open.spotify.com/track/70maGr0lQYDj0tcpcA2ORM"
+    },
+    {
+      "added_at": "2023-04-17 15:45:34",
+      "album": {
+        "name": "Paper Crown",
+        "url": "https://open.spotify.com/album/7sQDzWYBQavRBvvamkslFe"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 192407,
+      "name": "Paper Crown",
+      "url": "https://open.spotify.com/track/2fB0qwP98V9Yrv3mgR6IJJ"
     },
     {
       "added_at": "2023-04-17 15:45:34",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-04-17 15:45:34",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/1K5R5JjqMQnT9wFFCGMGnw"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 194141,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4hpGHoJuJTtAqq9pkevLp6"
-    },
-    {
-      "added_at": "2023-04-17 15:45:34",
-      "album": {
         "name": "YOU",
         "url": "https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 243186,
       "name": "Quite Miss Home",
       "url": "https://open.spotify.com/track/2deFH5zveEBEUuURpqTN3C"
+    },
+    {
+      "added_at": "2023-04-17 15:45:34",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/1K5R5JjqMQnT9wFFCGMGnw"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 194141,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4hpGHoJuJTtAqq9pkevLp6"
     },
     {
       "added_at": "2023-04-17 15:45:34",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-04-17 15:45:34",
       "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 187759,
+      "name": "Ready to Go",
+      "url": "https://open.spotify.com/track/5qkZ6PPFjweR2yOKUGUDX3"
+    },
+    {
+      "added_at": "2023-04-17 15:45:34",
+      "album": {
         "name": "Blame",
         "url": "https://open.spotify.com/album/7ni2gVOM9o6KhFzyeVpy2p"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 251527,
       "name": "Blame",
       "url": "https://open.spotify.com/track/6pQUQdaZacg722q6sg6fPR"
-    },
-    {
-      "added_at": "2023-04-17 15:45:34",
-      "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 187759,
-      "name": "Ready to Go",
-      "url": "https://open.spotify.com/track/5qkZ6PPFjweR2yOKUGUDX3"
     },
     {
       "added_at": "2023-04-17 15:45:34",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2023-04-17 15:45:34",
       "album": {
-        "name": "WDIA (Would Do It Again)",
-        "url": "https://open.spotify.com/album/50ImqQW5kr8xad7RZgnCvB"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        },
-        {
-          "name": "Duncan Laurence",
-          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "WDIA (Would Do It Again)",
-      "url": "https://open.spotify.com/track/2CORoIId0A9UrEIft3nExk"
-    },
-    {
-      "added_at": "2023-04-17 15:45:34",
-      "album": {
         "name": "Crying Over You",
         "url": "https://open.spotify.com/album/53KjVSjTOJXAyJ7Fdjjhwr"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 178949,
       "name": "Crying Over You",
       "url": "https://open.spotify.com/track/53bCcVMGv0S2aIYvfju2Tt"
+    },
+    {
+      "added_at": "2023-04-17 15:45:34",
+      "album": {
+        "name": "WDIA (Would Do It Again)",
+        "url": "https://open.spotify.com/album/50ImqQW5kr8xad7RZgnCvB"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        },
+        {
+          "name": "Duncan Laurence",
+          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "WDIA (Would Do It Again)",
+      "url": "https://open.spotify.com/track/2CORoIId0A9UrEIft3nExk"
     },
     {
       "added_at": "2023-04-17 15:45:34",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2023-04-17 15:45:34",
       "album": {
+        "name": "The Hardest Part (Deluxe)",
+        "url": "https://open.spotify.com/album/7jeMBMO8h8d3H7opdsNfIy"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 248284,
+      "name": "Set For Life",
+      "url": "https://open.spotify.com/track/6W9w3qHhJMALd82l6do6F3"
+    },
+    {
+      "added_at": "2023-04-17 15:45:34",
+      "album": {
         "name": "Home Movies",
         "url": "https://open.spotify.com/album/5VCVMgNgN16eWS7kReGzEt"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 196000,
       "name": "Home Movies",
       "url": "https://open.spotify.com/track/17MgFhOFZc6JvSRHANh0rY"
-    },
-    {
-      "added_at": "2023-04-17 15:45:34",
-      "album": {
-        "name": "The Hardest Part (Deluxe)",
-        "url": "https://open.spotify.com/album/7jeMBMO8h8d3H7opdsNfIy"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 248284,
-      "name": "Set For Life",
-      "url": "https://open.spotify.com/track/6W9w3qHhJMALd82l6do6F3"
     },
     {
       "added_at": "2023-04-17 15:45:34",

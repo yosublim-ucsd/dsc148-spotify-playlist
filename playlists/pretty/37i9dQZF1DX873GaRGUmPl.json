@@ -1,12 +1,12 @@
 {
   "description": "The best alternative songs of the decade. Cover: The 1975",
-  "num_followers": 898042,
+  "num_followers": 898243,
   "original_name": "Alternative 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzM1ODQ2MywwMDAwMDAwMDEzNzU1ZGM2ZTZiZWI0YjhiY2Y3NjBhNWVmMWE0MDQ0",
+  "snapshot_id": "MCxlODllNGM3Zjc1YTYzZWE3MzAyYzU0MzQ0ZGM4YjU1ZmM5NGY5Yjll",
   "tracks": [
     {
       "added_at": "2022-09-29 15:30:40",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Pure Heroine",
-        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 190185,
-      "name": "Royals",
-      "url": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "Wanted on Voyage (Expanded Edition)",
         "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 200733,
       "name": "Budapest",
       "url": "https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "Pure Heroine",
+        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 190185,
+      "name": "Royals",
+      "url": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "The Moon Song",
-        "url": "https://open.spotify.com/album/2cWXWYA0G1iCMYPue0unqm"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        },
-        {
-          "name": "Oscar Lang",
-          "url": "https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn"
-        }
-      ],
-      "duration_ms": 141040,
-      "name": "The Moon Song",
-      "url": "https://open.spotify.com/track/3s9eWdn8IymCPvVLcKpjww"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "RIP Indo Hisashi",
         "url": "https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4"
       },
@@ -1283,18 +1263,22 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Lost In The Dream",
-        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
+        "name": "The Moon Song",
+        "url": "https://open.spotify.com/album/2cWXWYA0G1iCMYPue0unqm"
       },
       "artists": [
         {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "name": "Oscar Lang",
+          "url": "https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn"
         }
       ],
-      "duration_ms": 298920,
-      "name": "Red Eyes",
-      "url": "https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9"
+      "duration_ms": 141040,
+      "name": "The Moon Song",
+      "url": "https://open.spotify.com/track/3s9eWdn8IymCPvVLcKpjww"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -1311,6 +1295,22 @@
       "duration_ms": 245240,
       "name": "I Need My Girl",
       "url": "https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "Lost In The Dream",
+        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 298920,
+      "name": "Red Eyes",
+      "url": "https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9"
     }
   ],
   "unique_name": "Alternative 10s",

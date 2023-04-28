@@ -4,7 +4,7 @@
 
 > Chill to the familiar classical pieces featured in award\-winning films.
 
-126 songs - 12 hr 7 min
+127 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [Vespers opus 37: Nunc dimittis](https://open.spotify.com/track/1xNiNZZbXVCK1h1VLjb6gz) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Sonia Wieder\-Atherton](https://open.spotify.com/artist/3N8YdPe3Zl8SGUxhsQdM7F), [Sinfonia Varsovia](https://open.spotify.com/artist/4vPl9qrPOZ1pMJNPXIPAzk), [Christophe Mangou](https://open.spotify.com/artist/1mrQ1QsrPyGdH4MOVCQjxx) | [Marie Heurtin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/68g5837zUWymdaJzdg65o5) | 3:52 | 2021-05-10 | 2022-07-29 |
 | [Vespers, Op\. 37: Nunc dimittis](https://open.spotify.com/track/24OHApVHAq9Wv1yOPRronC) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Franck Krawczyk](https://open.spotify.com/artist/0ipMyMU3JIur63pY3inuZx), [Sinfonia Varsovia](https://open.spotify.com/artist/4vPl9qrPOZ1pMJNPXIPAzk) | [Chants d'est \(Sur le sentier recouvert\)](https://open.spotify.com/album/4790r376zIb4jFS7rEuvHR) | 3:48 | 2022-07-13 |  |
 | [Viola d'amore Concerto in A Minor, RV 397: I\. Vivace](https://open.spotify.com/track/73WeT74sA6tnCl9VtgPbq4) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Rachel Barton Pine](https://open.spotify.com/artist/4st8QHJeSvWO1D4OPUgFaf), [Ars Antigua](https://open.spotify.com/artist/6o674M7Z1UpS2xRo157aY4) | [Vivaldi: The Complete Viola d'amore Concertos](https://open.spotify.com/album/0UULSPbk6SQlN7rNeThI1F) | 3:10 | 2021-05-10 |  |
-| [Vois sur ton chemin](https://open.spotify.com/track/6Q00zs8KvmXWdwlHD7PZZ2) | [Bruno Coulais](https://open.spotify.com/artist/5kjb55jtwPnbYXXDvP4x7R), [Les Petits Chanteurs de Saint\-Marc](https://open.spotify.com/artist/026nk210FPO26xMwpoew70) | [The Chorus \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4VVDHVgGIOh68k2VRq9tq0) | 2:19 | 2022-07-13 |  |
+| [Vois sur ton chemin](https://open.spotify.com/track/0HfK6NPVb69533dKqTPokh) | [Bruno Coulais](https://open.spotify.com/artist/5kjb55jtwPnbYXXDvP4x7R), [Les Petits Chanteurs de Saint\-Marc](https://open.spotify.com/artist/026nk210FPO26xMwpoew70) | [Les Choristes \(Bande originale du film\)](https://open.spotify.com/album/4vpt4mDNgzAnJN3a9Uonky) | 2:19 | 2022-07-13 |  |
+| [Vois sur ton chemin](https://open.spotify.com/track/6Q00zs8KvmXWdwlHD7PZZ2) | [Bruno Coulais](https://open.spotify.com/artist/5kjb55jtwPnbYXXDvP4x7R), [Les Petits Chanteurs de Saint\-Marc](https://open.spotify.com/artist/026nk210FPO26xMwpoew70) | [The Chorus \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4VVDHVgGIOh68k2VRq9tq0) | 2:19 | 2022-07-13 | 2023-04-28 |
 | [Vois sur ton chemin](https://open.spotify.com/track/3I5MKaK5Xy9K5Rmj3vbpbP) | [Les Choristes](https://open.spotify.com/artist/6s1VTGxfEMRIsYyOJbd6VN) | [The Chorus \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/4e3TLpoJx9IZQcgTrqO4cm) | 2:16 | 2021-05-10 | 2022-07-29 |
 | [Waltz No\. 2 From Jazz Suite No\. 2 \(From "Eyes Wide Shut"\)](https://open.spotify.com/track/7sgPwxEjXmgT3uEreh8b0I) | [The City of Prague Philharmonic Orchestra](https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu) | [100 Greatest Film Themes](https://open.spotify.com/album/6cvLnRWPmgOv9Ty7hitQDC) | 3:53 | 2021-05-10 | 2022-07-29 |
 

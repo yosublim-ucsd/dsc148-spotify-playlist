@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 
 > The best Ambient tracks from 2010 to 2019.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,030 likes - 105 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,052 likes - 105 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 | 104 | [Analog Paralysis, 1978](https://open.spotify.com/track/3guEVTjNJHoR5D7GJRZMs5) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Ravedeath, 1972](https://open.spotify.com/album/6Iu8toVsvCc3I4INxYiVIy) | 3:51 |
 | 105 | [Weightless Part 6](https://open.spotify.com/track/1Mua0g96hUldJWj00GDsel) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Weightless \(Ambient Transmission Vol\. 2\)](https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR) | 5:10 |
 
-Snapshot ID: `MTY3NDgzNjY4MSwwMDAwMDAwMDBiY2JjZWZkY2JmYmM5MjZkNDhkMzYwZjk2ODc4NDQ1`
+Snapshot ID: `MCwyM2JjNjA4NDY3ODQ4ZmY0YTJjOWIyY2Y5Zjg2YTEwY2JhZDgxMzI0`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7TEf86LRjN.md) - [plain]
 
 > Zambia had a huge rock explosion in the 70’s that shook the world! Here are some classic Zamrock jams!
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,878 likes - 34 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,909 likes - 34 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hi Babe](https://open.spotify.com/track/3btLTcvS1uOk5IVGTn7Gh4) | [Ngozi Family](https://open.spotify.com/artist/60Ec3tL0Z85Jp3f2CTUUu3) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 1 \(1972\-1977\)](https://open.spotify.com/album/4910t2DpHO9RQd2XctS8wT) | 4:02 |
 | 2 | [Musi\-O\-Tunya](https://open.spotify.com/track/04k1hWEtdPXELlxXTKOyzU) | [Musi\-O\-Tunya](https://open.spotify.com/artist/5Gl3bhgwrMekOuzkjM5FLq) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 1 \(1972\-1977\)](https://open.spotify.com/album/4910t2DpHO9RQd2XctS8wT) | 4:10 |
 | 3 | [You Better Know](https://open.spotify.com/track/3eDKAKSjpTFVESPkMlfNXa) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 1 \(1972\-1977\)](https://open.spotify.com/album/4910t2DpHO9RQd2XctS8wT) | 3:30 |
-| 4 | [Running](https://open.spotify.com/track/2TBhRXwBxfIJwhrB9gLlnn) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 1 \(1972\-1977\)](https://open.spotify.com/album/4910t2DpHO9RQd2XctS8wT) | 3:54 |
+| 4 | [Running](https://open.spotify.com/track/2TBhRXwBxfIJwhrB9gLlnn) | [Blackfoot](https://open.spotify.com/artist/2TI0KeX2tlQh8g6urDeufh) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 1 \(1972\-1977\)](https://open.spotify.com/album/4910t2DpHO9RQd2XctS8wT) | 3:54 |
 | 5 | [Everyday Has Got a New Dream](https://open.spotify.com/track/3SCou1PYtspl8FpRcltHKC) | [Footswitch](https://open.spotify.com/artist/1aQHPjKs51Tm6eGdkM4Iru) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 1 \(1972\-1977\)](https://open.spotify.com/album/4910t2DpHO9RQd2XctS8wT) | 2:34 |
 | 6 | [Born Black](https://open.spotify.com/track/7rZWvXQPGt0IC3q2jmt9yO) | [Chrissy Zebby Tembo](https://open.spotify.com/artist/3I8R11HYhjJIKERAUSNXM0) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 1 \(1972\-1977\)](https://open.spotify.com/album/4910t2DpHO9RQd2XctS8wT) | 3:17 |
 | 7 | [Fast](https://open.spotify.com/track/39ebdsdmxmnX8NmL6ya2es) | [Salty Dog](https://open.spotify.com/artist/4uREfx5iqmCCxLSIQwDyd4) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 1 \(1972\-1977\)](https://open.spotify.com/album/4910t2DpHO9RQd2XctS8wT) | 4:49 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7TEf86LRjN.md) - [plain]
 | 33 | [Hot Do](https://open.spotify.com/track/6LHCdtoExzfHG81uN4scxF) | [Jesper Siliya Lungu](https://open.spotify.com/artist/0eQTzL6C8PK4ZkwwelZC5B) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 2 \(1972\-1977\)](https://open.spotify.com/album/6qCtWW3buD52Z2yRDSx0QF) | 3:55 |
 | 34 | [SM](https://open.spotify.com/track/7beFmv4oZNAdy5563QMD44) | [Mike Nyoni](https://open.spotify.com/artist/6iWVltZzbHKsDchxdoPcQA) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 2 \(1972\-1977\)](https://open.spotify.com/album/6qCtWW3buD52Z2yRDSx0QF) | 4:16 |
 
-Snapshot ID: `MTY2NDIwMzU2NiwwMDAwMDAwMGRkYTlkNTlkN2RhZjNkZDA5YTg4YWFkYzE3ZWRkNTgz`
+Snapshot ID: `MCxiNzAwYjIyNWEwZWM1MGZjNzQ5ZmRhZDY0NzFhNzUxNTVkM2JjODc2`

@@ -120,7 +120,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 166801,
       "name": "Aboboyaa (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
@@ -670,7 +670,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 234352,
       "name": "Big Dawg",
       "url": "https://open.spotify.com/track/6y0ogEUDUpCK1nTtCjmhs4"
@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 207037,
       "name": "Boujee",
       "url": "https://open.spotify.com/track/3UgVuTqgQTO8u3m9Zuqotq"
@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 211045,
       "name": "Bright Future",
       "url": "https://open.spotify.com/track/0aZTyzxgWS4GGXw2kh0t7R"
@@ -1306,7 +1306,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 179461,
       "name": "Champion",
       "url": "https://open.spotify.com/track/2fY21NO9Y9Z2pWCdMTeXkR"
@@ -1472,6 +1472,32 @@
       "duration_ms": 179580,
       "name": "Come & Go - Black Sherif Remix",
       "url": "https://open.spotify.com/track/6LVGUOLhw6b9gayQvQvaqh"
+    },
+    {
+      "album": {
+        "name": "Come Closer",
+        "url": "https://open.spotify.com/album/24ExWn1W0i4NzG1CPxXYXT"
+      },
+      "artists": [
+        {
+          "name": "Swish Music",
+          "url": "https://open.spotify.com/artist/7BU3LRtUwP48t4OYNmYZHI"
+        },
+        {
+          "name": "Dau Dau",
+          "url": "https://open.spotify.com/artist/5zE6gcTHIzl8LuAqhcCDu1"
+        },
+        {
+          "name": "Lil Nafy",
+          "url": "https://open.spotify.com/artist/1dwSEaXiwO5ggqNXQuReTS"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161583,
+      "name": "Come Closer",
+      "url": "https://open.spotify.com/track/2SBPw60niF4PMa0i5HRrBS"
     },
     {
       "album": {
@@ -2307,6 +2333,24 @@
     },
     {
       "album": {
+        "name": "FOOLISH",
+        "url": "https://open.spotify.com/album/7Kk2DV25TPWMJoQF0zPTt6"
+      },
+      "artists": [
+        {
+          "name": "FendiAlone",
+          "url": "https://open.spotify.com/artist/6SJTZ859a50PtoQ7C9wh8n"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121263,
+      "name": "FOOLISH",
+      "url": "https://open.spotify.com/track/5FAF7HNvnZViBiy7phnMKT"
+    },
+    {
+      "album": {
         "name": "20's Pop Roadtrip",
         "url": "https://open.spotify.com/album/1QEJqzx27I4k3CbyuCI25G"
       },
@@ -2632,7 +2676,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 149518,
       "name": "Girl Next Door",
       "url": "https://open.spotify.com/track/5tmwk5sBCr1HPHZSzcVxup"
@@ -3036,7 +3080,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 151117,
       "name": "how to luv",
       "url": "https://open.spotify.com/track/6cfRX5ktaMj7ZzwM68HrYG"
@@ -3424,7 +3468,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 199679,
       "name": "Ke Shy",
       "url": "https://open.spotify.com/track/71X7xhERhWY7k4I2ST3A1F"
@@ -4303,6 +4347,28 @@
     },
     {
       "album": {
+        "name": "5th Dimension",
+        "url": "https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "My Sound",
+      "url": "https://open.spotify.com/track/6LM3qKqiVpQkDSvffKowdW"
+    },
+    {
+      "album": {
         "name": "The Memoir",
         "url": "https://open.spotify.com/album/6ukeNt85CYtYlLjMPq2wmU"
       },
@@ -4448,7 +4514,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 186306,
       "name": "Namek",
       "url": "https://open.spotify.com/track/27axiMYaZu77nF45ogoTTy"
@@ -4828,7 +4894,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 192000,
       "name": "Okay",
       "url": "https://open.spotify.com/track/5NjBwPcN1B66MzeWI6x3de"
@@ -4984,7 +5050,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 149992,
       "name": "Oshey",
       "url": "https://open.spotify.com/track/3oO0ypxKjtScVBWOM0PQLC"
@@ -5149,7 +5215,7 @@
       "artists": [
         {
           "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF"
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
         },
         {
           "name": "Becky G",
@@ -5524,7 +5590,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 131764,
       "name": "Reason (feat. Russ)",
       "url": "https://open.spotify.com/track/6WavyUNdnJk9SRW7ko9ack"
@@ -5602,6 +5668,28 @@
       "duration_ms": 238815,
       "name": "Rolling",
       "url": "https://open.spotify.com/track/0hM8sp03CyYE0KzFcLd65I"
+    },
+    {
+      "album": {
+        "name": "5th Dimension",
+        "url": "https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Run AM",
+      "url": "https://open.spotify.com/track/2lByANPWtcbcJJR9fETLNW"
     },
     {
       "album": {
@@ -5754,6 +5842,28 @@
       "duration_ms": 189579,
       "name": "Scrrr Up Riddim",
       "url": "https://open.spotify.com/track/4TI3zvC6Yc8SU2jDa4PUaU"
+    },
+    {
+      "album": {
+        "name": "5th Dimension",
+        "url": "https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Dexta Daps",
+          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Secret Lover",
+      "url": "https://open.spotify.com/track/2aZluo5suMJzbl0EdZ7H2S"
     },
     {
       "album": {
@@ -6788,7 +6898,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 235648,
       "name": "Talking In My Sleep",
       "url": "https://open.spotify.com/track/6D6R46vDcEbESesaBSzfH0"
@@ -7078,7 +7188,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 189232,
       "name": "Touch Your Soul (feat. Merlyn Wood)",
       "url": "https://open.spotify.com/track/4PRdVFLaAPWXJvIVwKnLqa"
@@ -7166,7 +7276,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 190645,
       "name": "TWO SIDES",
       "url": "https://open.spotify.com/track/4c72MWImuljP18Pb4y5JFm"

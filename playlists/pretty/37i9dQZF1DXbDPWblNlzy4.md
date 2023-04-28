@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDPWblNlzy4.md) - [plain]
 
 > Los éxitos más POPulares en español los encuentras aquí\. Foto: Susana Cala
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,501 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,531 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDPWblNlzy4.md) - [plain]
 | 19 | [No Se Va](https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:36 |
 | 20 | [No Me Controles](https://open.spotify.com/track/4G83XIKqqzv9ofGZs47SmF) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [No Me Controles](https://open.spotify.com/album/3XqaX2LpehvqTSehktQkhC) | 2:42 |
 | 21 | [De Nada \- Remix](https://open.spotify.com/track/3jqFGtyQtgxRgtFaoEAoac) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [De Nada \(Remix\)](https://open.spotify.com/album/53eR7ZWqLIdRVZHcQfHgaC) | 2:59 |
-| 22 | [Azúcar](https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [Azúcar](https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG) | 3:25 |
+| 22 | [AZÚCAR](https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [AZÚCAR](https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG) | 3:25 |
 | 23 | [Besito en la Boca](https://open.spotify.com/track/4sXYZFBtkrLwGQdu9vFLsF) | [Samanez](https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V), [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Besito en la Boca](https://open.spotify.com/album/6sMoPwb6EtFj5wBF60GYWk) | 4:11 |
 | 24 | [Cuando La Noche Está Fría](https://open.spotify.com/track/3r3DLqM43NMEYhWYL15uOt) | [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Cuando La Noche Está Fría](https://open.spotify.com/album/4T7Q0lmKcx7dHtiUAozZtA) | 2:43 |
 | 25 | [Pan Duro](https://open.spotify.com/track/1O40u9TDoeXhy1TWJbwf8A) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Pan Duro](https://open.spotify.com/album/018eaGM8p9OR6QEwSlJaC3) | 3:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDPWblNlzy4.md) - [plain]
 | 74 | [Ojalá](https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Ojalá](https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY) | 3:09 |
 | 75 | [23](https://open.spotify.com/track/03I0v50PLHMxgP5CjzCwt3) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [23](https://open.spotify.com/album/7c4Q9TaHo8VHacdzpGw2JI) | 3:07 |
 
-Snapshot ID: `MTY4MjA1MzI2MCwwMDAwMDAwMDk2YTlmYjNkNDIzMTJiMzZkZGZjYjY0NWUzNWNmYzkx`
+Snapshot ID: `MCw0NDU4ZDgyMzQ3OTY5ZGFlZTMyYWQwMzM0ZGVmMWQzM2RmMjMyMzlm`

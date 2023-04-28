@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 
 > 今年の春に聴きたい日本のクラシックを集めました。
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,711 likes - 41 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,721 likes - 41 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Koto \- piano room](https://open.spotify.com/track/48Jivh6jAj87eK6lj3FtUo) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [piano room](https://open.spotify.com/album/065gbiFR9Km7J1hQATfXtG) | 2:30 |
-| 2 | [春よ、来い](https://open.spotify.com/track/6Omwpwl7DMVCgvyzdZJoYX) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [KIYOZUKA](https://open.spotify.com/album/6YsvJRT1Bhs3mOZuy6PqDQ) | 1:16 |
+| 2 | [Haru yo, Koi](https://open.spotify.com/track/6Omwpwl7DMVCgvyzdZJoYX) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU), [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [KIYOZUKA](https://open.spotify.com/album/6YsvJRT1Bhs3mOZuy6PqDQ) | 1:16 |
 | 3 | [upside down](https://open.spotify.com/track/6zQ0c4YaJefSGSKeF9iESF) | [Michi Oskah](https://open.spotify.com/artist/1UYXB0UUV3eR6KPVq0NZ5j) | [upside down](https://open.spotify.com/album/6EKbr6r3Xl6LbXMla63wgr) | 2:13 |
 | 4 | [ピアノ・ソナタ第12番 ヘ長調 K.332\(300k\) 第2楽章 アダージョ](https://open.spotify.com/track/1NszhP8H7EpgbLcV4OtK5A) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Ikuyo Nakamichi](https://open.spotify.com/artist/1Ie9ADna4vfkFA5lBfjGyd) | [モーツァルト:ピアノ・ソナタ全集](https://open.spotify.com/album/4r9qv03kgEh1KT0FEBDhyL) | 4:34 |
 | 5 | [Nocturnes op.3](https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Nocturnes op.3](https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT) | 2:34 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 | 40 | [Romance Dai 2 ban Op.50 \(Beethoven\)](https://open.spotify.com/track/2rKOIRnpxAWTu8x59bbsTE) | [Mariko Senju](https://open.spotify.com/artist/2MkoLewykoUQinAGtZdF9W), [Pierre Dervaux](https://open.spotify.com/artist/0KvsxPaE9zVFOFWGVaQcmU), [Luxembourg Radio Symphony Orchestra](https://open.spotify.com/artist/3PiFts5w1ytZKYU8lKqqpG) | [Ongaku Kenkou Yuuryouji 2 Sawayaka Egao no Ongaku \-Selection\-](https://open.spotify.com/album/6Ml8fEaZpZhmixHQAmTvbG) | 8:51 |
 | 41 | [Like a White Flower](https://open.spotify.com/track/7prVZRI0RnGDP1qYdiSmMH) | [Naoki Kanda](https://open.spotify.com/artist/6LjDW7YzX2GubNeJR9Yk5b), [Yukiharu Ito](https://open.spotify.com/artist/2eatv5mHMm8Tk8sjnqMT8t) | [neiro](https://open.spotify.com/album/6TCmGyhwZAo6A2DuLSsctc) | 3:48 |
 
-Snapshot ID: `MTY3Nzc2NDcwNSwwMDAwMDAwMDIzMzgyNTU1ZGE4NzZjYjIxZWVkNzAxYTg3MzViNzky`
+Snapshot ID: `MCwzNmZiYTBhYzg0M2MwMTE1ZjY1ZDE5N2VjYWM4YmQ5M2NjNWQwYWI1`

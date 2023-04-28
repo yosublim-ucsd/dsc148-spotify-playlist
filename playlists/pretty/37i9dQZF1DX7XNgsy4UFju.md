@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: Mac DeMarco
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,128 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,135 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Glossover](https://open.spotify.com/track/5pE001IPon6BwglRIwSDZv) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Glossover](https://open.spotify.com/album/3zzUyJjhDn2qydMngk4rRe) | 3:49 |
 | 100 | [Hotel Valet](https://open.spotify.com/track/3PG8Cjr1Bp8zUZ5xnhkLo5) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Pollen](https://open.spotify.com/album/4Fk0oNk3vdmFjuTlpmKIQU) | 3:54 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDFlNzViMjJiYWEwNDFlMTMzNGZjN2YyNzllOGU5NDBh`
+Snapshot ID: `MCwxN2RmYzdiZjYzZmIyNTY5MTBkODljZGI1NmJhN2RlMWIxZWY3YWQx`

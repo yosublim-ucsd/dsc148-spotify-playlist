@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover:  Beabadoobee & Clairo
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,525 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,549 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 74 | [Swim Back](https://open.spotify.com/track/5jOKm7AO3CYs79nRi03BIj) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Swim Back](https://open.spotify.com/album/4oAb0GaGkYtX3N9h89FpKt) | 4:34 |
 | 75 | [Love As](https://open.spotify.com/track/4qZWumAOPURXXo1n2DDbRN) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Love As](https://open.spotify.com/album/1u1tWZF8haQZYoMB51NRYj) | 3:18 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDU5MDQzMzQwNjg3MjlkZjRiNGMzODAxOTNhNzM5NGZk`
+Snapshot ID: `MCxmYWEwOTg4M2YxZWVkM2Y0ZjQxOTYwZjlmYjZjNWViNTI4NTI4ZmIz`

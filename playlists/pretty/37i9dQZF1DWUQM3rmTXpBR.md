@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 
 > Alternative Arabic songs\. Cover: Adonis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,630 likes - 61 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,676 likes - 61 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 | 37 | [Nazel Al Ghor](https://open.spotify.com/track/74LSkGNytaURvW5K4K7UwQ) | [Ayloul](https://open.spotify.com/artist/2LxGXSPzPdONjfaKwRyKmq) | [Salute To Al Ghor](https://open.spotify.com/album/0AxxTNSX7y6nJO651y4q7A) | 4:28 |
 | 38 | [INSAK](https://open.spotify.com/track/50MBVBBWsWtxqb2QICAyB8) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [INSAK](https://open.spotify.com/album/7egTXypIPpJkYczCCaiLto) | 3:38 |
 | 39 | [Sahara](https://open.spotify.com/track/76rdCaOQc4RlzeilZ9ZffD) | [Almena](https://open.spotify.com/artist/3dwnBsNq4R18t5SYNqJL37) | [Sahara](https://open.spotify.com/album/4uyGKH3wKeFn9T7LH77NAp) | 4:18 |
-| 40 | [Ya Habibi, La!](https://open.spotify.com/track/2cg6S1W6V2cyJU6a7HDSyq) | [Jamila & The Other Heroes](https://open.spotify.com/artist/4SXSjuoWAU7XTyXF9JZcHe) | [Bazaar Bizarre](https://open.spotify.com/album/0cXOALLnX8i3DgqdD1gmfQ) | 3:35 |
+| 40 | [Ya Habibi, La! يا حبيبي لا](https://open.spotify.com/track/2cg6S1W6V2cyJU6a7HDSyq) | [Jamila & The Other Heroes](https://open.spotify.com/artist/4SXSjuoWAU7XTyXF9JZcHe) | [Bazaar Bizarre فلسطين وين أنا؟](https://open.spotify.com/album/0cXOALLnX8i3DgqdD1gmfQ) | 3:35 |
 | 41 | [Nos El Bahr](https://open.spotify.com/track/3uUUJo8kymUm0a9L7JSEDF) | [Tayar \- تيّار](https://open.spotify.com/artist/6ntwC60sylc4u0Npjoj6GM) | [Nos El Bahr](https://open.spotify.com/album/5b7quz61hkXH51ocDuSeCp) | 3:58 |
 | 42 | [Tghayarti](https://open.spotify.com/track/2UCflIlO6RFX1cIfuu2pmR) | [El Far3i](https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t) | [El Rajol El Khashabi](https://open.spotify.com/album/4XL6KSM5Dqu83lzuPprMGm) | 4:09 |
 | 43 | [Istanna Shwai](https://open.spotify.com/track/4MyaVg9WJ4mHktYYPVx0TW) | [Autostrad](https://open.spotify.com/artist/4WtbPWxKvsXj9lWBi5buWJ) | [Istanna Shwai](https://open.spotify.com/album/2BSXbABxCGgVUk1za3Qrkh) | 6:48 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 | 60 | [Madinet El Malahi](https://open.spotify.com/track/75ydg43onQ8qN6UM9pThBo) | [El Far3i](https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t) | [Nas Min Khashab](https://open.spotify.com/album/4cbzaR1zDB91sf0fcJiEDw) | 4:41 |
 | 61 | [Kol Shi](https://open.spotify.com/track/5mMdUcYJpQHEFiqdV2ECOU) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [Kol Shi](https://open.spotify.com/album/4VoxoPiFIsYOQyBN93Vin2) | 3:49 |
 
-Snapshot ID: `MTY4MjIzMzkxNiwwMDAwMDAwMDM0MzdjNGVlYjllYzNlMjEzMzg1MTZmMDQyZTIzZjU5`
+Snapshot ID: `MCw5MWY5Mzk2OGRlNmNiN2EyMGY1NWUzMTVjNGU3NDQ2NmZhYThhZTFh`

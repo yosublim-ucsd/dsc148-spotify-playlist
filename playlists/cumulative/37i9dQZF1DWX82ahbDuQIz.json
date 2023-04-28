@@ -1813,6 +1813,48 @@
     },
     {
       "album": {
+        "name": "Mamma Mia!",
+        "url": "https://open.spotify.com/album/6LFLGHU6Rw2sAMrjax6f5t"
+      },
+      "artists": [
+        {
+          "name": "Benny Andersson",
+          "url": "https://open.spotify.com/artist/0kV0e99xlTJcLKSu8KrLyp"
+        },
+        {
+          "name": "Bj\u00f6rn Ulvaeus",
+          "url": "https://open.spotify.com/artist/2lVPicgpjjlbROFIzwGm8V"
+        },
+        {
+          "name": "Stig Anderson",
+          "url": "https://open.spotify.com/artist/1CDtTrMhug34Bq6GQHIfhe"
+        },
+        {
+          "name": "Siobhan McCarthy",
+          "url": "https://open.spotify.com/artist/167dt4dzL6p1HOtIlS52ap"
+        },
+        {
+          "name": "Nicolas Colicos",
+          "url": "https://open.spotify.com/artist/0S0YgEIV6dO0iXdFootMDR"
+        },
+        {
+          "name": "Paul Clarkson",
+          "url": "https://open.spotify.com/artist/0Vngl4aZGE1oNEHFCxOUff"
+        },
+        {
+          "name": "Hilton McRae",
+          "url": "https://open.spotify.com/artist/4psAP2Nyj5BmNqrAzTTlhx"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201066,
+      "name": "Mamma Mia - Remastered 1999 / From The Musical \"Mamma Mia\"",
+      "url": "https://open.spotify.com/track/0yQIiFBjUYdFMMnnyQ2jB4"
+    },
+    {
+      "album": {
         "name": "Mamma Mia",
         "url": "https://open.spotify.com/album/1lx7DiPOfZARm0ROECcKFL"
       },
@@ -1852,48 +1894,6 @@
       "duration_ms": 200640,
       "name": "Mamma Mia - Remastered 1999 / From The Musical \"Mamma Mia\"",
       "url": "https://open.spotify.com/track/2kQUGIvhXnnBvpOw4taoHE"
-    },
-    {
-      "album": {
-        "name": "Mamma Mia!",
-        "url": "https://open.spotify.com/album/6LFLGHU6Rw2sAMrjax6f5t"
-      },
-      "artists": [
-        {
-          "name": "Benny Andersson",
-          "url": "https://open.spotify.com/artist/0kV0e99xlTJcLKSu8KrLyp"
-        },
-        {
-          "name": "Stig Anderson",
-          "url": "https://open.spotify.com/artist/1CDtTrMhug34Bq6GQHIfhe"
-        },
-        {
-          "name": "Bj\u00f6rn Ulvaeus",
-          "url": "https://open.spotify.com/artist/2lVPicgpjjlbROFIzwGm8V"
-        },
-        {
-          "name": "Siobhan McCarthy",
-          "url": "https://open.spotify.com/artist/167dt4dzL6p1HOtIlS52ap"
-        },
-        {
-          "name": "Nicolas Colicos",
-          "url": "https://open.spotify.com/artist/0S0YgEIV6dO0iXdFootMDR"
-        },
-        {
-          "name": "Paul Clarkson",
-          "url": "https://open.spotify.com/artist/0Vngl4aZGE1oNEHFCxOUff"
-        },
-        {
-          "name": "Hilton McRae",
-          "url": "https://open.spotify.com/artist/4psAP2Nyj5BmNqrAzTTlhx"
-        }
-      ],
-      "date_added": "2022-07-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 201066,
-      "name": "Mamma Mia - Remastered 1999 / From The Musical \"Mamma Mia\"",
-      "url": "https://open.spotify.com/track/0yQIiFBjUYdFMMnnyQ2jB4"
     },
     {
       "album": {

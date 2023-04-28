@@ -1,12 +1,12 @@
 {
   "description": "Ultimate mix of songs from the 1990s to insure a good time while on the road.",
-  "num_followers": 484075,
+  "num_followers": 485085,
   "original_name": "90s Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc1NzA2MywwMDAwMDAwMDEwYzIwYmYwNTE5NzI1YjM0Zjc5ZGY5NThiOGY3NGMw",
+  "snapshot_id": "MCw1NTdiYzkwZTZlOGUwMjBhNjU0ZWQ5Njg1ZTIzM2Q1MzU5ODUzMmQ1",
   "tracks": [
     {
       "added_at": "2023-01-03 14:44:23",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Woodface",
-        "url": "https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h"
-      },
-      "artists": [
-        {
-          "name": "Crowded House",
-          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
-        }
-      ],
-      "duration_ms": 224466,
-      "name": "Weather With You",
-      "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Middle Of Nowhere",
         "url": "https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 268653,
       "name": "MMMBop",
       "url": "https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Woodface",
+        "url": "https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h"
+      },
+      "artists": [
+        {
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        }
+      ],
+      "duration_ms": 224466,
+      "name": "Weather With You",
+      "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Friday I'm in Love",
-      "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Stunt (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 169760,
       "name": "One Week",
       "url": "https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Friday I'm in Love",
+      "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Mad Mad World (Deluxe)",
-        "url": "https://open.spotify.com/album/1Jn0dHH6ztd0CD7lstrIR8"
-      },
-      "artists": [
-        {
-          "name": "Tom Cochrane",
-          "url": "https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt"
-        }
-      ],
-      "duration_ms": 266080,
-      "name": "Life Is A Highway",
-      "url": "https://open.spotify.com/track/7jIFGkTBIK1UwWaEXMW2Nh"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Savage Garden",
         "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 341066,
       "name": "To the Moon & Back",
       "url": "https://open.spotify.com/track/6FRtjadDsEhZIQIlh1loEM"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Mad Mad World (Deluxe)",
+        "url": "https://open.spotify.com/album/1Jn0dHH6ztd0CD7lstrIR8"
+      },
+      "artists": [
+        {
+          "name": "Tom Cochrane",
+          "url": "https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt"
+        }
+      ],
+      "duration_ms": 266080,
+      "name": "Life Is A Highway",
+      "url": "https://open.spotify.com/track/7jIFGkTBIK1UwWaEXMW2Nh"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "River Of Dreams",
-        "url": "https://open.spotify.com/album/4HPnwQJAEvTY910q4RNeOu"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 247626,
-      "name": "The River of Dreams",
-      "url": "https://open.spotify.com/track/30qVCFYKBtAENjTIBA8FPZ"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Blue Lines (2012 Mix/Master)",
         "url": "https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 308426,
       "name": "Unfinished Sympathy - 2012 Mix/Master",
       "url": "https://open.spotify.com/track/0j5FJJOmmnXPd0XajFWkMF"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "River Of Dreams",
+        "url": "https://open.spotify.com/album/4HPnwQJAEvTY910q4RNeOu"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 247626,
+      "name": "The River of Dreams",
+      "url": "https://open.spotify.com/track/30qVCFYKBtAENjTIBA8FPZ"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Disney Summer Songs",
-        "url": "https://open.spotify.com/album/6qykGE5x584duyLVYcnojE"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 179586,
-      "name": "Strangers Like Me - From \"Tarzan\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/5Zb6JxSEcjsUNrINcAyAYJ"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Indian Summer",
         "url": "https://open.spotify.com/album/622XQ6bN45EZWtogSS84P0"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 241760,
       "name": "The King of Wishful Thinking",
       "url": "https://open.spotify.com/track/0gXTCSzaCOzNoRb9FeE62N"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Disney Summer Songs",
+        "url": "https://open.spotify.com/album/6qykGE5x584duyLVYcnojE"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 179586,
+      "name": "Strangers Like Me - From \"Tarzan\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/5Zb6JxSEcjsUNrINcAyAYJ"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Sheryl Crow",
-        "url": "https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 323400,
-      "name": "If It Makes You Happy",
-      "url": "https://open.spotify.com/track/5XrfFo0JFOnWD9ZMNXGkQh"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Emotions",
         "url": "https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 248093,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/0cELvuwJW1acISUHYB6suj"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Sheryl Crow",
+        "url": "https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 323400,
+      "name": "If It Makes You Happy",
+      "url": "https://open.spotify.com/track/5XrfFo0JFOnWD9ZMNXGkQh"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2079,18 +2079,18 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Great Expectations",
-        "url": "https://open.spotify.com/album/4W5bJ5C6XGKEGWQNvhsSSY"
+        "name": "Duophonic",
+        "url": "https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA"
       },
       "artists": [
         {
-          "name": "Tasmin Archer",
-          "url": "https://open.spotify.com/artist/6EgtYGZoF5jLydCpz43xu1"
+          "name": "Charles & Eddie",
+          "url": "https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD"
         }
       ],
-      "duration_ms": 281853,
-      "name": "Sleeping Satellite",
-      "url": "https://open.spotify.com/track/3WSyYBhLZRLbQo2tJgFvSR"
+      "duration_ms": 279600,
+      "name": "Would I Lie To You?",
+      "url": "https://open.spotify.com/track/3PkvYP6223QO3xlW2THd1x"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2107,6 +2107,22 @@
       "duration_ms": 317080,
       "name": "Vogue",
       "url": "https://open.spotify.com/track/7j5TIXPi0cCbSSqItmbyZy"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Great Expectations",
+        "url": "https://open.spotify.com/album/4W5bJ5C6XGKEGWQNvhsSSY"
+      },
+      "artists": [
+        {
+          "name": "Tasmin Archer",
+          "url": "https://open.spotify.com/artist/6EgtYGZoF5jLydCpz43xu1"
+        }
+      ],
+      "duration_ms": 281853,
+      "name": "Sleeping Satellite",
+      "url": "https://open.spotify.com/track/3WSyYBhLZRLbQo2tJgFvSR"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2155,22 +2171,6 @@
       "duration_ms": 372813,
       "name": "Enjoy the Silence - 2006 Remaster",
       "url": "https://open.spotify.com/track/1EjQRTG53jsinzk2xlVVJP"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
-        "name": "Duophonic",
-        "url": "https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA"
-      },
-      "artists": [
-        {
-          "name": "Charles & Eddie",
-          "url": "https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD"
-        }
-      ],
-      "duration_ms": 279600,
-      "name": "Would I Lie To You?",
-      "url": "https://open.spotify.com/track/3PkvYP6223QO3xlW2THd1x"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Violator (2006 Remaster)",
-        "url": "https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 294040,
-      "name": "Policy of Truth - 2006 Remaster",
-      "url": "https://open.spotify.com/track/0C6EIiQu8CS4eYtOCMEiAd"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Under the Table and Dreaming (Expanded Edition)",
         "url": "https://open.spotify.com/album/0SeRWS3scHWplJhMppd6rJ"
       },
@@ -2315,6 +2299,22 @@
       "duration_ms": 271186,
       "name": "Ants Marching",
       "url": "https://open.spotify.com/track/2FfZg072w8RoxlMOR7M4CT"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Violator (2006 Remaster)",
+        "url": "https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 294040,
+      "name": "Policy of Truth - 2006 Remaster",
+      "url": "https://open.spotify.com/track/0C6EIiQu8CS4eYtOCMEiAd"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2575,22 +2575,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Robyn Is Here",
-        "url": "https://open.spotify.com/album/5OvepfQiCFMCzML6fTgrBW"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "Show Me Love - Radio Version",
-      "url": "https://open.spotify.com/track/6SluaPiV04KOaRTOIScoff"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Come On Over (Internationl Version / Special Edition)",
         "url": "https://open.spotify.com/album/2eiMbazzkhkBAD2qRujLop"
       },
@@ -2623,22 +2607,18 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "The Commitments",
-        "url": "https://open.spotify.com/album/1uTcBfkLmGF07vlNMj6Ru0"
+        "name": "Robyn Is Here",
+        "url": "https://open.spotify.com/album/5OvepfQiCFMCzML6fTgrBW"
       },
       "artists": [
         {
-          "name": "The Commitments",
-          "url": "https://open.spotify.com/artist/5kiBy7FO5L4ywMz1xF70PX"
-        },
-        {
-          "name": "Andrew Strong",
-          "url": "https://open.spotify.com/artist/7MdthKITrvbzo6v1PG80Te"
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
         }
       ],
-      "duration_ms": 241866,
-      "name": "Mustang Sally",
-      "url": "https://open.spotify.com/track/1XlCCgKKrQQfXaDyv4GrZe"
+      "duration_ms": 229226,
+      "name": "Show Me Love - Radio Version",
+      "url": "https://open.spotify.com/track/6SluaPiV04KOaRTOIScoff"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2659,6 +2639,26 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
+        "name": "The Commitments",
+        "url": "https://open.spotify.com/album/1uTcBfkLmGF07vlNMj6Ru0"
+      },
+      "artists": [
+        {
+          "name": "The Commitments",
+          "url": "https://open.spotify.com/artist/5kiBy7FO5L4ywMz1xF70PX"
+        },
+        {
+          "name": "Andrew Strong",
+          "url": "https://open.spotify.com/artist/7MdthKITrvbzo6v1PG80Te"
+        }
+      ],
+      "duration_ms": 241866,
+      "name": "Mustang Sally",
+      "url": "https://open.spotify.com/track/1XlCCgKKrQQfXaDyv4GrZe"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
         "name": "Keep The Faith",
         "url": "https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq"
       },
@@ -2675,22 +2675,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Heart In Motion",
-        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 236973,
-      "name": "Baby, Baby",
-      "url": "https://open.spotify.com/track/3IDsegNBHC4pjGCOMTQYlU"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/4oXtR5JbdA9PLwbR49zx9Q"
       },
@@ -2703,6 +2687,22 @@
       "duration_ms": 227040,
       "name": "Life Is a Flower",
       "url": "https://open.spotify.com/track/7hQgwzBCXsdIRsaFonrS3P"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Heart In Motion",
+        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 236973,
+      "name": "Baby, Baby",
+      "url": "https://open.spotify.com/track/3IDsegNBHC4pjGCOMTQYlU"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2791,6 +2791,22 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
+        "name": "Big Ones",
+        "url": "https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 381400,
+      "name": "Livin' On The Edge",
+      "url": "https://open.spotify.com/track/6OZAcgTPxmjUTuiatU0Viq"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
         "name": "America's Least Wanted",
         "url": "https://open.spotify.com/album/0lQjdBr2n0WQg5sjGzLVfR"
       },
@@ -2819,22 +2835,6 @@
       "duration_ms": 293105,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/2vG1yrWSMiL6egg6w4e9ma"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
-        "name": "Big Ones",
-        "url": "https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 381400,
-      "name": "Livin' On The Edge",
-      "url": "https://open.spotify.com/track/6OZAcgTPxmjUTuiatU0Viq"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -3091,6 +3091,22 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 221373,
+      "name": "Even Better Than The Real Thing",
+      "url": "https://open.spotify.com/track/4bK2vKMdkS0rNhbzRqAZe0"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
         "name": "Don't Explain",
         "url": "https://open.spotify.com/album/3eISkUtzd1PBZfPeYNLdGd"
       },
@@ -3107,22 +3123,6 @@
       "duration_ms": 205640,
       "name": "I'll Be Your Baby Tonight (feat. UB40)",
       "url": "https://open.spotify.com/track/4GzmpVbPwz7pUf0WZgEUlQ"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
-        "name": "Achtung Baby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "Even Better Than The Real Thing",
-      "url": "https://open.spotify.com/track/4bK2vKMdkS0rNhbzRqAZe0"
     },
     {
       "added_at": "2023-01-03 14:44:23",

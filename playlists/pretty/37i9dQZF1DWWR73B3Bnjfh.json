@@ -1,12 +1,12 @@
 {
   "description": "The melancholic and soft sound of Jazz.",
-  "num_followers": 84573,
+  "num_followers": 84696,
   "original_name": "Jazz Noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjQ5OTI4NiwwMDAwMDAwMGNiOGYxOWI0NjQwZmI5MTNmZWE2YWI3YmE4NWUzOTA1",
+  "snapshot_id": "MCwwYjZjYTcwNTM3ZjNiMjZlOGI1ZTlhZjg2N2Y0ZDU3YzQwZjQxZWJm",
   "tracks": [
     {
       "added_at": "2023-04-26 08:54:46",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-04-26 08:54:46",
       "album": {
-        "name": "Blue Lester: The Immortal Lester Young",
-        "url": "https://open.spotify.com/album/0knfA8bBrs5nQc4Q2ixFBt"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "Blue Lester",
-      "url": "https://open.spotify.com/track/427fYkFx1Arn2qGQeGVGNT"
-    },
-    {
-      "added_at": "2023-04-26 08:54:46",
-      "album": {
         "name": "Red Garland's Piano",
         "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 287613,
       "name": "I Know Why (And So Do You)",
       "url": "https://open.spotify.com/track/3DsIu9DB0AZufrQHR4yJKL"
+    },
+    {
+      "added_at": "2023-04-26 08:54:46",
+      "album": {
+        "name": "Blue Lester: The Immortal Lester Young",
+        "url": "https://open.spotify.com/album/0knfA8bBrs5nQc4Q2ixFBt"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "Blue Lester",
+      "url": "https://open.spotify.com/track/427fYkFx1Arn2qGQeGVGNT"
     },
     {
       "added_at": "2023-04-26 08:54:46",
@@ -203,26 +203,6 @@
     {
       "added_at": "2023-04-26 08:54:46",
       "album": {
-        "name": "The President Plays With The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        },
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 212600,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/5gHPj9g3L9e2cu81LZUc5F"
-    },
-    {
-      "added_at": "2023-04-26 08:54:46",
-      "album": {
         "name": "Look Out! (Remastered)",
         "url": "https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 405226,
       "name": "I'm A Fool To Want You",
       "url": "https://open.spotify.com/track/3kYrQXSao9IXp3EzMZQt5J"
+    },
+    {
+      "added_at": "2023-04-26 08:54:46",
+      "album": {
+        "name": "The President Plays With The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 212600,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/5gHPj9g3L9e2cu81LZUc5F"
     },
     {
       "added_at": "2023-04-26 08:54:46",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-04-26 08:54:46",
       "album": {
-        "name": "A Swingin' Affair",
-        "url": "https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 409840,
-      "name": "(It Will Have To Do) Until The Real Thing Comes Along - Remastered",
-      "url": "https://open.spotify.com/track/37MsN9jkHraBoRU0rbl64A"
-    },
-    {
-      "added_at": "2023-04-26 08:54:46",
-      "album": {
         "name": "Modern Art",
         "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 266226,
       "name": "Bewitched",
       "url": "https://open.spotify.com/track/7a1BrZjQgDV9wlNuj3U1nM"
+    },
+    {
+      "added_at": "2023-04-26 08:54:46",
+      "album": {
+        "name": "A Swingin' Affair",
+        "url": "https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 409840,
+      "name": "(It Will Have To Do) Until The Real Thing Comes Along - Remastered",
+      "url": "https://open.spotify.com/track/37MsN9jkHraBoRU0rbl64A"
     },
     {
       "added_at": "2023-04-26 08:54:46",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-04-26 08:54:46",
       "album": {
-        "name": "The Capitol Vaults Jazz Series",
-        "url": "https://open.spotify.com/album/3k4fLy4ANN1ocn5Zvpx0gK"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 399693,
-      "name": "Fin De L'Affaire - 1998 - Remaster",
-      "url": "https://open.spotify.com/track/1fLG6p3AJEaaSL4S1PCbKN"
-    },
-    {
-      "added_at": "2023-04-26 08:54:46",
-      "album": {
         "name": "The Opener (Remastered)",
         "url": "https://open.spotify.com/album/3eva44waMaCOJMWbbarsuH"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 413333,
       "name": "A Lovely Way To Spend An Evening",
       "url": "https://open.spotify.com/track/0nEqVExhmcXgfArSMMnwFo"
+    },
+    {
+      "added_at": "2023-04-26 08:54:46",
+      "album": {
+        "name": "The Capitol Vaults Jazz Series",
+        "url": "https://open.spotify.com/album/3k4fLy4ANN1ocn5Zvpx0gK"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 399693,
+      "name": "Fin De L'Affaire - 1998 - Remaster",
+      "url": "https://open.spotify.com/track/1fLG6p3AJEaaSL4S1PCbKN"
     },
     {
       "added_at": "2023-04-26 08:54:46",
@@ -883,18 +883,18 @@
     {
       "added_at": "2023-04-26 08:54:46",
       "album": {
-        "name": "Art",
-        "url": "https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G"
+        "name": "Further Definitions",
+        "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
       },
       "artists": [
         {
-          "name": "Art Farmer",
-          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
         }
       ],
-      "duration_ms": 333493,
-      "name": "I'm A Fool To Want",
-      "url": "https://open.spotify.com/track/3410BOLt7ZrWxZaQHeqTmZ"
+      "duration_ms": 237640,
+      "name": "The Midnight Sun Will Never Set",
+      "url": "https://open.spotify.com/track/2tDKzLQnVYVj6pr8Ha0EBw"
     },
     {
       "added_at": "2023-04-26 08:54:46",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-04-26 08:54:46",
       "album": {
-        "name": "Further Definitions",
-        "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
+        "name": "Art",
+        "url": "https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G"
       },
       "artists": [
         {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+          "name": "Art Farmer",
+          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
         }
       ],
-      "duration_ms": 237640,
-      "name": "The Midnight Sun Will Never Set",
-      "url": "https://open.spotify.com/track/2tDKzLQnVYVj6pr8Ha0EBw"
+      "duration_ms": 333493,
+      "name": "I'm A Fool To Want",
+      "url": "https://open.spotify.com/track/3410BOLt7ZrWxZaQHeqTmZ"
     },
     {
       "added_at": "2023-04-26 08:54:46",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-04-26 08:54:46",
       "album": {
+        "name": "Gerry Mulligan Meets Ben Webster",
+        "url": "https://open.spotify.com/album/0kFQ4gfEAniyQ2E169YMXE"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 442506,
+      "name": "Chelsea Bridge",
+      "url": "https://open.spotify.com/track/6X1TBqc2CG7HEHsNFOlazB"
+    },
+    {
+      "added_at": "2023-04-26 08:54:46",
+      "album": {
         "name": "Curtain Call",
         "url": "https://open.spotify.com/album/1BoPscUZWGRFtPeUdrXI1c"
       },
@@ -991,22 +1007,6 @@
     {
       "added_at": "2023-04-26 08:54:46",
       "album": {
-        "name": "Gerry Mulligan Meets Ben Webster",
-        "url": "https://open.spotify.com/album/0kFQ4gfEAniyQ2E169YMXE"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 442506,
-      "name": "Chelsea Bridge",
-      "url": "https://open.spotify.com/track/6X1TBqc2CG7HEHsNFOlazB"
-    },
-    {
-      "added_at": "2023-04-26 08:54:46",
-      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/2fdnSzyVkyG5R0VJgo9Gv5"
       },
@@ -1023,8 +1023,8 @@
     {
       "added_at": "2023-04-26 08:54:46",
       "album": {
-        "name": "Lush Life",
-        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
+        "name": "Coltrane [Rudy Van Gelder Remaster]",
+        "url": "https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg"
       },
       "artists": [
         {
@@ -1032,25 +1032,9 @@
           "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 297880,
-      "name": "Like Someone In Love",
-      "url": "https://open.spotify.com/track/7yo0ye0zCginW62iq21wXx"
-    },
-    {
-      "added_at": "2023-04-26 08:54:46",
-      "album": {
-        "name": "Yeah!",
-        "url": "https://open.spotify.com/album/3rw6xeupXWRAOME9Chqweq"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rouse",
-          "url": "https://open.spotify.com/artist/4WjOiUFD5b9kpa8LfdxkvM"
-        }
-      ],
-      "duration_ms": 348293,
-      "name": "When Sunny Gets Blue",
-      "url": "https://open.spotify.com/track/5bYTIjxRYRISkmpS22QqSy"
+      "duration_ms": 375066,
+      "name": "Violets For Your Furs - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/1Rw4pwzS1yBPlncFAuIGlU"
     },
     {
       "added_at": "2023-04-26 08:54:46",
@@ -1071,6 +1055,22 @@
       "duration_ms": 235000,
       "name": "I Can't Get Started",
       "url": "https://open.spotify.com/track/5GdBh0ggpl7pIXNFecn1zk"
+    },
+    {
+      "added_at": "2023-04-26 08:54:46",
+      "album": {
+        "name": "Yeah!",
+        "url": "https://open.spotify.com/album/3rw6xeupXWRAOME9Chqweq"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rouse",
+          "url": "https://open.spotify.com/artist/4WjOiUFD5b9kpa8LfdxkvM"
+        }
+      ],
+      "duration_ms": 348293,
+      "name": "When Sunny Gets Blue",
+      "url": "https://open.spotify.com/track/5bYTIjxRYRISkmpS22QqSy"
     },
     {
       "added_at": "2023-04-26 08:54:46",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-04-26 08:54:46",
       "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
-      },
-      "artists": [
-        {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
-        }
-      ],
-      "duration_ms": 292573,
-      "name": "Stella By Starlight",
-      "url": "https://open.spotify.com/track/7JQlMm9c0pkOeowoMCeCTG"
-    },
-    {
-      "added_at": "2023-04-26 08:54:46",
-      "album": {
         "name": "The Smart Attitude of Tommy Flanagan",
         "url": "https://open.spotify.com/album/6pa6DxpaFgoY5H0yO9bKGW"
       },
@@ -1187,8 +1171,24 @@
     {
       "added_at": "2023-04-26 08:54:46",
       "album": {
-        "name": "Coltrane [Rudy Van Gelder Remaster]",
-        "url": "https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg"
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        }
+      ],
+      "duration_ms": 292573,
+      "name": "Stella By Starlight",
+      "url": "https://open.spotify.com/track/7JQlMm9c0pkOeowoMCeCTG"
+    },
+    {
+      "added_at": "2023-04-26 08:54:46",
+      "album": {
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
       },
       "artists": [
         {
@@ -1196,9 +1196,9 @@
           "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 375066,
-      "name": "Violets For Your Furs - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/1Rw4pwzS1yBPlncFAuIGlU"
+      "duration_ms": 297880,
+      "name": "Like Someone In Love",
+      "url": "https://open.spotify.com/track/7yo0ye0zCginW62iq21wXx"
     },
     {
       "added_at": "2023-04-26 08:54:46",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-04-26 08:54:46",
       "album": {
-        "name": "A Night At The Village Vanguard (Live)",
-        "url": "https://open.spotify.com/album/4lZ0JM0RUD4jddNbD63O7b"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 399360,
-      "name": "Softly As In A Morning Sunrise - Live At The Village Vanguard, New York City, NY/1957/Evening Alternate Take 7",
-      "url": "https://open.spotify.com/track/3ybRszkVXeMWxWAec3NMJH"
-    },
-    {
-      "added_at": "2023-04-26 08:54:46",
-      "album": {
         "name": "Settin' The Pace [RVG Edition]",
         "url": "https://open.spotify.com/album/1PVIyuR4lrmzXb8QbS8nEZ"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 596706,
       "name": "I See Your Face Before Me - RVG Remaster",
       "url": "https://open.spotify.com/track/6zVMG4q2ii85aGLBIpPFSa"
+    },
+    {
+      "added_at": "2023-04-26 08:54:46",
+      "album": {
+        "name": "A Night At The Village Vanguard (Live)",
+        "url": "https://open.spotify.com/album/4lZ0JM0RUD4jddNbD63O7b"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 399360,
+      "name": "Softly As In A Morning Sunrise - Live At The Village Vanguard, New York City, NY/1957/Evening Alternate Take 7",
+      "url": "https://open.spotify.com/track/3ybRszkVXeMWxWAec3NMJH"
     },
     {
       "added_at": "2023-04-26 08:54:46",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-04-26 08:54:46",
       "album": {
+        "name": "Blues In The Night",
+        "url": "https://open.spotify.com/album/5nk9X6TfebDzuEdy59w817"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 355320,
+      "name": "Blues In The Night",
+      "url": "https://open.spotify.com/track/1C18d0LOvih7hKZPypQZFj"
+    },
+    {
+      "added_at": "2023-04-26 08:54:46",
+      "album": {
         "name": "Explorations [Original Jazz Classics Remasters]",
         "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
       },
@@ -1527,26 +1543,6 @@
       "duration_ms": 311533,
       "name": "Elsa",
       "url": "https://open.spotify.com/track/3b85Jv4nFjRZNsorLlXA0p"
-    },
-    {
-      "added_at": "2023-04-26 08:54:46",
-      "album": {
-        "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time",
-        "url": "https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        },
-        {
-          "name": "Paul Desmond Quartet",
-          "url": "https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc"
-        }
-      ],
-      "duration_ms": 578960,
-      "name": "Body And Soul",
-      "url": "https://open.spotify.com/track/1N3h6F9BjQRPzBn4YrGXRo"
     },
     {
       "added_at": "2023-04-26 08:54:46",
@@ -1571,18 +1567,22 @@
     {
       "added_at": "2023-04-26 08:54:46",
       "album": {
-        "name": "Blues In The Night",
-        "url": "https://open.spotify.com/album/5nk9X6TfebDzuEdy59w817"
+        "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time",
+        "url": "https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv"
       },
       "artists": [
         {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        },
+        {
+          "name": "Paul Desmond Quartet",
+          "url": "https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc"
         }
       ],
-      "duration_ms": 355320,
-      "name": "Blues In The Night",
-      "url": "https://open.spotify.com/track/1C18d0LOvih7hKZPypQZFj"
+      "duration_ms": 578960,
+      "name": "Body And Soul",
+      "url": "https://open.spotify.com/track/1N3h6F9BjQRPzBn4YrGXRo"
     },
     {
       "added_at": "2023-04-26 08:54:46",

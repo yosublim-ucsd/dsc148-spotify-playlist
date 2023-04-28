@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 47418,
+  "num_followers": 47447,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODkwNDkzOSwwMDAwMDAwMDhmNjU5OWM4YjEwNmQ1MzNjMzU1ZDE3MGVhNzM0ZTQ3",
+  "snapshot_id": "MCw4ZDJlNTRhZTA2NzdkYWU1MGE0MmQ3MzA4NzIzOWUzNGU1Y2MwN2I0",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Soul Side of Town",
-        "url": "https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ"
-      },
-      "artists": [
-        {
-          "name": "Tower Of Power",
-          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
-        }
-      ],
-      "duration_ms": 328479,
-      "name": "Hangin' with My Baby",
-      "url": "https://open.spotify.com/track/3ZoLqDFPHCyq4jeIMHBODq"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Elevate",
         "url": "https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 245686,
       "name": "Ready to Live",
       "url": "https://open.spotify.com/track/2m0SacHFJuQvyyB2fdNu5s"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Soul Side of Town",
+        "url": "https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ"
+      },
+      "artists": [
+        {
+          "name": "Tower Of Power",
+          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
+        }
+      ],
+      "duration_ms": 328479,
+      "name": "Hangin' with My Baby",
+      "url": "https://open.spotify.com/track/3ZoLqDFPHCyq4jeIMHBODq"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1563,18 +1563,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Back to the Funkture",
-        "url": "https://open.spotify.com/album/6Zcd7o14QCOx32RbouEuHz"
+        "name": "Amplified Experiment",
+        "url": "https://open.spotify.com/album/4cS75aWftbOa1nTMdkg27E"
       },
       "artists": [
         {
-          "name": "Alissia",
-          "url": "https://open.spotify.com/artist/0yq0ZW3g1vX4Vsfz9wH7rO"
+          "name": "The APX",
+          "url": "https://open.spotify.com/artist/4FcDSQOUJabW2HEHGofJOM"
+        },
+        {
+          "name": "Zapp",
+          "url": "https://open.spotify.com/artist/7hzsuhnzHbNMRW1whCgWVL"
         }
       ],
-      "duration_ms": 241410,
-      "name": "Back to the Funkture",
-      "url": "https://open.spotify.com/track/1nPjlM25TcwClEvSkG712O"
+      "duration_ms": 165450,
+      "name": "F.y.g",
+      "url": "https://open.spotify.com/track/1yvjg39SUCDlSxOYsu8unL"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1599,22 +1603,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Amplified Experiment",
-        "url": "https://open.spotify.com/album/4cS75aWftbOa1nTMdkg27E"
+        "name": "Back to the Funkture",
+        "url": "https://open.spotify.com/album/6Zcd7o14QCOx32RbouEuHz"
       },
       "artists": [
         {
-          "name": "The APX",
-          "url": "https://open.spotify.com/artist/4FcDSQOUJabW2HEHGofJOM"
-        },
-        {
-          "name": "Zapp",
-          "url": "https://open.spotify.com/artist/7hzsuhnzHbNMRW1whCgWVL"
+          "name": "Alissia",
+          "url": "https://open.spotify.com/artist/0yq0ZW3g1vX4Vsfz9wH7rO"
         }
       ],
-      "duration_ms": 165450,
-      "name": "F.y.g",
-      "url": "https://open.spotify.com/track/1yvjg39SUCDlSxOYsu8unL"
+      "duration_ms": 241410,
+      "name": "Back to the Funkture",
+      "url": "https://open.spotify.com/track/1nPjlM25TcwClEvSkG712O"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Jurassik Funk",
-        "url": "https://open.spotify.com/album/0EKOrxgDltNB2OjrPPAQy8"
-      },
-      "artists": [
-        {
-          "name": "Jurassik Funk",
-          "url": "https://open.spotify.com/artist/3btloSh9XNNgniuk85Z6x0"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "Jurassic Funk",
-      "url": "https://open.spotify.com/track/2xGCKeFRnbg43fQh7TWzB5"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Chasing Gold",
         "url": "https://open.spotify.com/album/43agPW88PbT44L6SrZr9dJ"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 274237,
       "name": "Word Is Out",
       "url": "https://open.spotify.com/track/3irXL694Levp0Uzrnq5yva"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Jurassik Funk",
+        "url": "https://open.spotify.com/album/0EKOrxgDltNB2OjrPPAQy8"
+      },
+      "artists": [
+        {
+          "name": "Jurassik Funk",
+          "url": "https://open.spotify.com/artist/3btloSh9XNNgniuk85Z6x0"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "Jurassic Funk",
+      "url": "https://open.spotify.com/track/2xGCKeFRnbg43fQh7TWzB5"
     }
   ],
   "unique_name": "Funk Drive",

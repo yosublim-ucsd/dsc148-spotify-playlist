@@ -2,9 +2,9 @@
 
 ### [This Is NCT 127](https://open.spotify.com/playlist/37i9dQZF1DX78tHDcKCzXN)
 
-> To the world, this is NCT! This is NCT 127! Ay\-Yo! The 4th Album repackage is here!
+> To the world, this is NCT! This is NCT 127!
 
-105 songs - 6 hr 12 min
+106 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Sticker](https://open.spotify.com/track/1iGQpclvzonFNzy7Ko89V7) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:47 | 2021-10-25 |  |
 | [Summer 127](https://open.spotify.com/track/7tQTOyhv9BAjKoMoegHncb) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 CHERRY BOMB– The 3rd Mini Album](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) | 3:37 | 2021-10-25 |  |
 | [Sun&Moon](https://open.spotify.com/track/4jhUqSKsWZoVOc778NsFU1) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 CHERRY BOMB– The 3rd Mini Album](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) | 3:07 | 2021-10-25 |  |
+| [Sunny Road](https://open.spotify.com/track/1T6WV7LI5pfa61PjOVGUGM) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sunny Road](https://open.spotify.com/album/6hKjTW2iYx2CyWUqUfP0Kz) | 3:21 | 2023-04-27 |  |
 | [Superhuman](https://open.spotify.com/track/0TU7xhMfZbI1okpLyHptFV) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 WE ARE SUPERHUMAN \- The 4th Mini Album](https://open.spotify.com/album/15DNWLVXy5ES2USQ1PFnF5) | 3:57 | 2021-10-25 | 2022-07-29 |
 | [Superhuman](https://open.spotify.com/track/4baWaXmm0BFFT3Qe3uSvs9) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 WE ARE SUPERHUMAN \- The 4th Mini Album](https://open.spotify.com/album/3Xv60ja2pLxH3Wk0x0JIWT) | 3:57 | 2021-10-25 |  |
 | [Switch \- Bonus Track](https://open.spotify.com/track/2xL2yWZsd3cvEk4heGkctC) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH), [SR15B](https://open.spotify.com/artist/1zhkYR8PTdyZhOlJGmPv5e) | [NCT \#127 \- The 1st Mini Album](https://open.spotify.com/album/7xmqXxPAmkgn5HK9FcyBxR) | 3:04 | 2021-10-25 |  |

@@ -4,7 +4,7 @@
 
 > Music from Lil Uzi Vert, Drake and Moneybagg Yo.
 
-1,589 songs - 3 day 10 hr 0 min
+1,590 songs - 3 day 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1289,6 +1289,7 @@
 | [Stick \(with JID & J\. Cole feat\. Kenny Mason & Sheck Wes\)](https://open.spotify.com/track/1BzXvBpIFWJgu0P8P6xmP4) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 5:09 | 2022-04-01 | 2022-05-20 |
 | [Still Be Friends \(feat\. Tory Lanez & Tyga\)](https://open.spotify.com/track/0JjM9bKm4wrwohMslcm892) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Still Be Friends \(feat\. Tory Lanez & Tyga\)](https://open.spotify.com/album/0KHIH7UC8WATEByfXGfYaY) | 3:33 | 2020-02-07 | 2020-05-02 |
 | [STILL CHOSE YOU \(feat\. Mustard\)](https://open.spotify.com/track/7xJqJxiM5f0BZQLWCbOuWz) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:51 | 2021-07-31 | 2021-08-28 |
+| [Still Not a Player \(feat\. Joe\) \- Radio Version](https://open.spotify.com/track/3GKL13lkM5nRc4zC1lIOrR) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Capital Punishment \(Explicit Version\)](https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y) | 3:56 | 2023-04-27 |  |
 | [Still Remember \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/7n8MZHeMdwK33akuwYXfVJ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [Gucci Mane Presents: So Icy Summer](https://open.spotify.com/album/7hEgFnAICf8FqaERqmehOT) | 4:01 | 2020-07-03 | 2020-07-10 |
 | [Still Remember \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/4s0AWdpGS0Bc3kVgNBp2kk) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [Still Remember \(feat\. Pooh Shiesty\)](https://open.spotify.com/album/6XSJBqlAz6Eepb60WqmGpH) | 4:02 | 2020-06-19 | 2020-06-29 |
 | [STILL SMOKE](https://open.spotify.com/track/0GCYJbjsnC8FyW0kUJHhS5) | [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV) | [STILL SMOKE](https://open.spotify.com/album/27868bzSX6OAJbs83hhkf4) | 2:55 | 2021-02-12 | 2021-02-13 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Nigeria's hottest tracks.  Cover: <a href=\"https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg?si=falBka4OQx-yyjI-n5MhEg\"/> Asake</a> ",
+  "description": "Nigeria's hottest tracks.  Cover: <a href=\"https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS?si=UySgtQFwQZeJADrTWkTMrw\"> Rema</a> ",
   "name": "Hot Hits Naija ",
   "tracks": [
     {
@@ -134,6 +134,24 @@
       "duration_ms": 161066,
       "name": "Ale Yi",
       "url": "https://open.spotify.com/track/7G4q3FqZSngbAxGcyyHXlz"
+    },
+    {
+      "album": {
+        "name": "ALL EYES ON ME",
+        "url": "https://open.spotify.com/album/5v96iS1dWnI0lZbIfQI4rF"
+      },
+      "artists": [
+        {
+          "name": "Niniola",
+          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160714,
+      "name": "ALL EYES ON ME",
+      "url": "https://open.spotify.com/track/6Fz3JvR8SQxMyRGBSx7mUW"
     },
     {
       "album": {
@@ -434,7 +452,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 159965,
       "name": "bend you",
       "url": "https://open.spotify.com/track/4cukkgbgG9P9PKouQ462aV"
@@ -608,6 +626,24 @@
       "duration_ms": 177449,
       "name": "Chance (Na Ham)",
       "url": "https://open.spotify.com/track/56iVI65i40FrCO5p382IrK"
+    },
+    {
+      "album": {
+        "name": "Rave & Roses Ultra",
+        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204750,
+      "name": "Charm",
+      "url": "https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k"
     },
     {
       "album": {
@@ -1469,6 +1505,28 @@
     },
     {
       "album": {
+        "name": "Line Of Fire",
+        "url": "https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Line Of Fire",
+      "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
+    },
+    {
+      "album": {
         "name": "Loaded",
         "url": "https://open.spotify.com/album/1bz4MGZBxnYFjmCXf9lm0g"
       },
@@ -1865,7 +1923,7 @@
       "artists": [
         {
           "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF"
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
         },
         {
           "name": "Ayra Starr",
@@ -2028,7 +2086,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 186446,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/47FuxUowVBxua1XxsbLKKX"
@@ -2072,7 +2130,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 206750,
       "name": "Reason You",
       "url": "https://open.spotify.com/track/6FPXNqKGnd7l61nYZz8EFu"

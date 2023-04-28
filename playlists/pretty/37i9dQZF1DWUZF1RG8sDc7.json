@@ -1,12 +1,12 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 75276,
+  "num_followers": 75423,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIyMTg2NywwMDAwMDAwMDAyZTEwMWJlNzc4OWE1ZDc0NmVkNDMxMDU5MDQxZGY3",
+  "snapshot_id": "MCwyNDg4NGRjZWE4OWFlZjc4ZWYzMWMzY2U5Nzg5ZmNmNDE1NDIxNjJl",
   "tracks": [
     {
       "added_at": "2022-12-16 20:17:47",
@@ -207,8 +207,8 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Titulo De Amor",
-        "url": "https://open.spotify.com/album/0FemNl3cjskKpjCTUj3fne"
+        "name": "Brindo Con El Alma",
+        "url": "https://open.spotify.com/album/5sKPvJKVhhhYBPhs6kxbjM"
       },
       "artists": [
         {
@@ -216,13 +216,13 @@
           "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
         },
         {
-          "name": "Juancho Rois",
-          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
+          "name": "El Cocha Molina",
+          "url": "https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs"
         }
       ],
-      "duration_ms": 253933,
-      "name": "T\u00fa Eres La Reina",
-      "url": "https://open.spotify.com/track/15Q3jbXrqgd9DqW8I4iKl4"
+      "duration_ms": 300760,
+      "name": "Sin Medir Distancias",
+      "url": "https://open.spotify.com/track/6OIvXRQYGEhmvLjcYNcV4n"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -267,8 +267,8 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Son Para El Mundo",
-        "url": "https://open.spotify.com/album/3ZEyQVpEzDl18okCH0jsj3"
+        "name": "Canto Vallenato",
+        "url": "https://open.spotify.com/album/1nbW9IiNSMm4saZxmma99d"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
         }
       ],
-      "duration_ms": 237800,
-      "name": "Esta Vida",
-      "url": "https://open.spotify.com/track/367Cb3sFU9yiHJ9T3vciHk"
+      "duration_ms": 317893,
+      "name": "Ay Hombe",
+      "url": "https://open.spotify.com/track/6hlmfSjhKSWuZDujvW7p74"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -375,8 +375,8 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Brindo Con El Alma",
-        "url": "https://open.spotify.com/album/5sKPvJKVhhhYBPhs6kxbjM"
+        "name": "Titulo De Amor",
+        "url": "https://open.spotify.com/album/0FemNl3cjskKpjCTUj3fne"
       },
       "artists": [
         {
@@ -384,13 +384,13 @@
           "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
         },
         {
-          "name": "El Cocha Molina",
-          "url": "https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs"
+          "name": "Juancho Rois",
+          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
         }
       ],
-      "duration_ms": 300760,
-      "name": "Sin Medir Distancias",
-      "url": "https://open.spotify.com/track/6OIvXRQYGEhmvLjcYNcV4n"
+      "duration_ms": 253933,
+      "name": "T\u00fa Eres La Reina",
+      "url": "https://open.spotify.com/track/15Q3jbXrqgd9DqW8I4iKl4"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -443,8 +443,8 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Canto Vallenato",
-        "url": "https://open.spotify.com/album/1nbW9IiNSMm4saZxmma99d"
+        "name": "Son Para El Mundo",
+        "url": "https://open.spotify.com/album/3ZEyQVpEzDl18okCH0jsj3"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
         }
       ],
-      "duration_ms": 317893,
-      "name": "Ay Hombe",
-      "url": "https://open.spotify.com/track/6hlmfSjhKSWuZDujvW7p74"
+      "duration_ms": 237800,
+      "name": "Esta Vida",
+      "url": "https://open.spotify.com/track/367Cb3sFU9yiHJ9T3vciHk"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -659,26 +659,6 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Avanzando",
-        "url": "https://open.spotify.com/album/0CJV99FjO7LAPTLoYQ6U2O"
-      },
-      "artists": [
-        {
-          "name": "Miguel Morales",
-          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
-        },
-        {
-          "name": "Juan David Herrera",
-          "url": "https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh"
-        }
-      ],
-      "duration_ms": 266520,
-      "name": "Que Me Puedas Amar",
-      "url": "https://open.spotify.com/track/2TCLtIBA192ntJ6TQzzIzn"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
         "name": "Ll\u00e9vame En Tus Sue\u00f1os",
         "url": "https://open.spotify.com/album/0U918JSG8hJ9kb3R3geWlA"
       },
@@ -699,18 +679,22 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "El Binomio De Oro",
-        "url": "https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh"
+        "name": "Avanzando",
+        "url": "https://open.spotify.com/album/0CJV99FjO7LAPTLoYQ6U2O"
       },
       "artists": [
         {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+          "name": "Miguel Morales",
+          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
+        },
+        {
+          "name": "Juan David Herrera",
+          "url": "https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh"
         }
       ],
-      "duration_ms": 182453,
-      "name": "La creciente",
-      "url": "https://open.spotify.com/track/3r7LYQ2EhCw0CwaF5SeF9M"
+      "duration_ms": 266520,
+      "name": "Que Me Puedas Amar",
+      "url": "https://open.spotify.com/track/2TCLtIBA192ntJ6TQzzIzn"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -731,6 +715,22 @@
       "duration_ms": 247813,
       "name": "Traga'O De T\u00ed",
       "url": "https://open.spotify.com/track/4dxEJbnuN5EXg5Ak8RJULL"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
+        "name": "El Binomio De Oro",
+        "url": "https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 182453,
+      "name": "La creciente",
+      "url": "https://open.spotify.com/track/3r7LYQ2EhCw0CwaF5SeF9M"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -791,26 +791,6 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Avanzando",
-        "url": "https://open.spotify.com/album/0CJV99FjO7LAPTLoYQ6U2O"
-      },
-      "artists": [
-        {
-          "name": "Miguel Morales",
-          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
-        },
-        {
-          "name": "Juan David Herrera",
-          "url": "https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh"
-        }
-      ],
-      "duration_ms": 286026,
-      "name": "Mi Diosa Humana",
-      "url": "https://open.spotify.com/track/1TdS58WrPL19Mtk8iOq529"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
         "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
         "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 276360,
       "name": "Cuatro Rosas",
       "url": "https://open.spotify.com/track/39pCrC5AA7xhJb98tqWDgb"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
+        "name": "Avanzando",
+        "url": "https://open.spotify.com/album/0CJV99FjO7LAPTLoYQ6U2O"
+      },
+      "artists": [
+        {
+          "name": "Miguel Morales",
+          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
+        },
+        {
+          "name": "Juan David Herrera",
+          "url": "https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh"
+        }
+      ],
+      "duration_ms": 286026,
+      "name": "Mi Diosa Humana",
+      "url": "https://open.spotify.com/track/1TdS58WrPL19Mtk8iOq529"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -903,6 +903,26 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
+        "name": "La Invitaci\u00f3n",
+        "url": "https://open.spotify.com/album/2Bpa0pFXw4Xa8jHYsm5Q8W"
+      },
+      "artists": [
+        {
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
+          "name": "Jimmy Zambrano",
+          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
+        }
+      ],
+      "duration_ms": 283186,
+      "name": "Te Perdone",
+      "url": "https://open.spotify.com/track/37Mws624mZBifGxHhg6bcq"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
         "name": "Tierra Mala",
         "url": "https://open.spotify.com/album/1ifSWefkAmzfDlBowUtmjU"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 289933,
       "name": "Tierra Mala",
       "url": "https://open.spotify.com/track/1kWIPZYKp8pel13Wzrzocf"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
-        "name": "Gracias Mi Gente",
-        "url": "https://open.spotify.com/album/42mGPazMoiDn6hWgitQYgX"
-      },
-      "artists": [
-        {
-          "name": "Miguel Morales",
-          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
-        },
-        {
-          "name": "Juan David Herrera",
-          "url": "https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh"
-        }
-      ],
-      "duration_ms": 286493,
-      "name": "No Te Detengas",
-      "url": "https://open.spotify.com/track/294HmohCkFANQH6tm9jzfA"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -955,22 +955,22 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "La Invitaci\u00f3n",
-        "url": "https://open.spotify.com/album/2Bpa0pFXw4Xa8jHYsm5Q8W"
+        "name": "Gracias Mi Gente",
+        "url": "https://open.spotify.com/album/42mGPazMoiDn6hWgitQYgX"
       },
       "artists": [
         {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+          "name": "Miguel Morales",
+          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
         },
         {
-          "name": "Jimmy Zambrano",
-          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
+          "name": "Juan David Herrera",
+          "url": "https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh"
         }
       ],
-      "duration_ms": 283186,
-      "name": "Te Perdone",
-      "url": "https://open.spotify.com/track/37Mws624mZBifGxHhg6bcq"
+      "duration_ms": 286493,
+      "name": "No Te Detengas",
+      "url": "https://open.spotify.com/track/294HmohCkFANQH6tm9jzfA"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Sin L\u00edmites",
-        "url": "https://open.spotify.com/album/6aLCUh6URBoxafrNAIx9nK"
-      },
-      "artists": [
-        {
-          "name": "El Gran Mart\u00edn El\u00edas",
-          "url": "https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz"
-        }
-      ],
-      "duration_ms": 232320,
-      "name": "Al Fin Llegaste T\u00fa",
-      "url": "https://open.spotify.com/track/7jZJm3yRLCKxmJ3kxUtp6f"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
         "name": "Vallenato Fest",
         "url": "https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 316279,
       "name": "Dime Que Me Quieres",
       "url": "https://open.spotify.com/track/0GPCmhhe3HkJ6VVHOwJmZw"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
+        "name": "Sin L\u00edmites",
+        "url": "https://open.spotify.com/album/6aLCUh6URBoxafrNAIx9nK"
+      },
+      "artists": [
+        {
+          "name": "El Gran Mart\u00edn El\u00edas",
+          "url": "https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz"
+        }
+      ],
+      "duration_ms": 232320,
+      "name": "Al Fin Llegaste T\u00fa",
+      "url": "https://open.spotify.com/track/7jZJm3yRLCKxmJ3kxUtp6f"
     }
   ],
   "unique_name": "Vallenato Rom\u00e1ntico",

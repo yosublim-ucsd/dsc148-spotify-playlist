@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbQ2qAyjZ1R.md) - [plain]
 
 > La playlist soul et rhythm and blues qui s'écoute au coin du feu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,638 likes - 70 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,646 likes - 70 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbQ2qAyjZ1R.md) - [plain]
 | 69 | [I'm Glad You're Mine](https://open.spotify.com/track/4fiC7RTotySw4ZeYaCSsXP) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [I'm Still in Love with You](https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT) | 2:57 |
 | 70 | [Changes](https://open.spotify.com/track/0NjTsstMJXa8e7crMmkrk6) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Promised Heights](https://open.spotify.com/album/1zKuUk9qQqDIDzWm1Dc39e) | 6:11 |
 
-Snapshot ID: `MTY3MTE3NTkyMSwwMDAwMDAwMGNiMmY4NzJhZDQ1MDYyOTUzYTk3N2MyMjVmOWM2OGM3`
+Snapshot ID: `MCw1MmE0ZDM3NTFlZWYwMjhkNzNkMWY2ZTIyOGZhNTJhNWMwNzVjN2Mw`

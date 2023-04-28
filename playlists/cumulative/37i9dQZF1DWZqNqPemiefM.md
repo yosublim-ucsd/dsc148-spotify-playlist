@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-460 songs - 1 day 12 hr 40 min
+461 songs - 1 day 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Double Navaho](https://open.spotify.com/track/3wL8aCTmSVum2iDdTc3raT) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Shuta Hasunuma](https://open.spotify.com/album/6rL1VAbKNhA0rzW0mZaTVR) | 3:52 | 2022-04-28 | 2022-05-25 |
 | [Double Navaho](https://open.spotify.com/track/43pdpo1Um9hZkwjvgNnldH) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Shuta Hasunuma](https://open.spotify.com/album/32iZzdf1avlA3VDi7EAGe6) | 3:52 | 2022-04-16 | 2022-07-14 |
 | [dream](https://open.spotify.com/track/1LEqpez7JsoFDXF5aK4ltb) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [「寝ても覚めても」 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/3CfCfekfpj9TKeFswtqz6Q) | 1:09 | 2022-03-31 | 2022-07-09 |
+| [Dreamers](https://open.spotify.com/track/6nBlbZBSMEgawmi7nF7H1Y) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [Dreamers](https://open.spotify.com/album/6qmhfgJbhUzovh7CFJkI8u) | 3:59 | 2023-04-27 |  |
 | [Drop](https://open.spotify.com/track/1CS8VwIC7qTwfMhXnX59Ny) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Re:](https://open.spotify.com/album/4Z1jNDMJ1v7O38ZlD5wM90) | 4:52 | 2022-04-26 | 2022-07-29 |
 | [Drop](https://open.spotify.com/track/7KzAclQwJ8fcRL1Da0H1tR) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Re:](https://open.spotify.com/album/7osd9qFNGBJn9rZwaHO04e) | 4:52 | 2022-07-28 | 2022-12-30 |
 | [Ear Dreamin'](https://open.spotify.com/track/2b7h7hMkxj5hDorhGfTGoU) | [Yoshiaki Ochi](https://open.spotify.com/artist/13mbePwXckXt3I7My0oypo) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 4:45 | 2022-04-07 | 2022-07-25 |
@@ -150,7 +151,7 @@
 | [GLASS CHIME](https://open.spotify.com/track/1lxgQG0xeAsS1r0u9M1TcP) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [DANZINDAN\-POJIDON \(New Master Edition\)](https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX) | 3:26 | 2022-04-16 |  |
 | [Glistering](https://open.spotify.com/track/3tRDHIpV1DVg06HC3LPWRj) | [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [Lighthouse](https://open.spotify.com/album/2ElcwSiB2mzqR4ducfcsmy) | 4:23 | 2022-04-07 | 2022-07-12 |
 | [godorkura](https://open.spotify.com/track/4AFFfAFknO8itVzuYspbf7) | [kentaleaux nakajima](https://open.spotify.com/artist/06YnkMNkelZsBFOd85RjcR) | [TENbient 3](https://open.spotify.com/album/2F31M0fEMChoZhulEOkprk) | 6:10 | 2022-06-23 | 2022-07-28 |
-| [Going To The Sea](https://open.spotify.com/track/2e9PA5stDJoLkcLWN3KVCI) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [万引き家族「オリジナル・サウンドトラック」](https://open.spotify.com/album/5aWso14zYECQPkvEU5ENkQ) | 1:37 | 2022-04-07 |  |
+| [Going To The Sea](https://open.spotify.com/track/2e9PA5stDJoLkcLWN3KVCI) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [万引き家族「オリジナル・サウンドトラック」](https://open.spotify.com/album/5aWso14zYECQPkvEU5ENkQ) | 1:37 | 2022-04-07 | 2023-04-28 |
 | [GREEN](https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:14 | 2022-03-31 |  |
 | [Green Forest](https://open.spotify.com/track/7ESmedpTzQIkdiTx5Acb8M) | [Raura](https://open.spotify.com/artist/1ZMqKvnRUkZCSkk3dOMjyN), [RAURA EMMA SUZUKI](https://open.spotify.com/artist/1YyLGpkRSXVOhkg2FrkC4b), [ART AND MUSIC](https://open.spotify.com/artist/2rzGYD6phmeSbArsZSvzSq) | [Green Forest](https://open.spotify.com/album/0N6Hbp6NMr8rzg3PrhePRg) | 4:24 | 2022-06-07 | 2022-07-29 |
 | [Green Forest](https://open.spotify.com/track/7keZ9iOh6oLPOjUmIrRSgO) | [Raura](https://open.spotify.com/artist/1ZMqKvnRUkZCSkk3dOMjyN), [RAURA EMMA SUZUKI](https://open.spotify.com/artist/1YyLGpkRSXVOhkg2FrkC4b), [ART AND MUSIC](https://open.spotify.com/artist/2rzGYD6phmeSbArsZSvzSq) | [Green Forest](https://open.spotify.com/album/2hka3joHLRIvJOYQxdXD5O) | 4:24 | 2022-07-28 | 2022-11-18 |

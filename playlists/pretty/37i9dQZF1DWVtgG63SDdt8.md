@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH?si=a4c65100c2c2430e">Sarah Kroger</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,147 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,219 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Monument \- Live](https://open.spotify.com/track/7fg9G5aRIRJnC8w5Vj1yhe) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [The London Sessions \(Live\)](https://open.spotify.com/album/2eTWtaGodtRKgLBNjFhdUM) | 3:47 |
-| 2 | [Look Around](https://open.spotify.com/track/45MwQxfmmHhYFGQuyPOpt3) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Cecily Hennigan](https://open.spotify.com/artist/3zYhPKXlVf8jlSHqlpiqWh) | [How To Start A Housefire \(Pt\. II\)](https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk) | 7:21 |
+| 2 | [Look Around](https://open.spotify.com/track/45MwQxfmmHhYFGQuyPOpt3) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [How To Start A Housefire \(Pt\. II\)](https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk) | 7:21 |
 | 3 | [There's Nothing](https://open.spotify.com/track/6DFMPHda9HkxZzz2p7DzkE) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [There's Nothing](https://open.spotify.com/album/04dNGGce0Fc3Qiy3gTJoUI) | 4:42 |
 | 4 | [God Of The Living](https://open.spotify.com/track/7694HqFCKiYPydePgSM7jB) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [God Of The Living](https://open.spotify.com/album/7yi5C9cq8XvGe9BFqtaqdL) | 4:35 |
 | 5 | [Better Than The Rest](https://open.spotify.com/track/2i65UHLV4bF1jTcoHWk0lI) | [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Better Than The Rest](https://open.spotify.com/album/7721nCKPvfI7yZ4Ytfu9tT) | 7:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Vices](https://open.spotify.com/track/4BO3yKlrLoGJP7O6dDAxPC) | [ISLY](https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW) | [Vices](https://open.spotify.com/album/0PrUUOQuS8P3Nk7d9MUlFL) | 3:03 |
 | 100 | [alive again](https://open.spotify.com/track/0bivHLo6DsKPA3PHBEwt9S) | [Reed Deming](https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR) | [alive again](https://open.spotify.com/album/4Bj6LR3D2uW9CQPv5rXLk3) | 3:34 |
 
-Snapshot ID: `MTY4MjA3NTQzNCwwMDAwMDAwMDc0NzZjNTdlZTk1ZDA5NjA2NTQ1NmE2NWY5YzQzYTQy`
+Snapshot ID: `MCw1NDVkZDMwYjVkYTEyOGU3MmYyZjYzNTJlMTkxMDA4OTk0NmJiOWFl`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8?si=7XYZaReXRbqCSIdbp-n5tQ\">Mas Musiq</a>.",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x?si=HOC1fGfVR0248k20kf3SpA\">Lady Du</a>.",
   "name": "AMAPIANO grooves",
   "tracks": [
     {
@@ -838,6 +838,24 @@
       "duration_ms": 320063,
       "name": "AK Love",
       "url": "https://open.spotify.com/track/2Lb3yKY5heNeHHzSNpmDvs"
+    },
+    {
+      "album": {
+        "name": "ALL EYES ON ME",
+        "url": "https://open.spotify.com/album/5v96iS1dWnI0lZbIfQI4rF"
+      },
+      "artists": [
+        {
+          "name": "Niniola",
+          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160714,
+      "name": "ALL EYES ON ME",
+      "url": "https://open.spotify.com/track/6Fz3JvR8SQxMyRGBSx7mUW"
     },
     {
       "album": {
@@ -5466,7 +5484,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 328282,
       "name": "Ekhaya",
       "url": "https://open.spotify.com/track/5jjH0949UXy8X7lI9j1L0Z"
@@ -6740,7 +6758,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 416321,
       "name": "G.O.T (House of Dragon)",
       "url": "https://open.spotify.com/track/133aK2N3o4hj7PZQw4ASPF"
@@ -6830,7 +6848,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 381484,
       "name": "Gedlela (feat. Kabelo Sings & Keynote)",
       "url": "https://open.spotify.com/track/4SnsV0PFEszDt8V2GD42WS"
@@ -9835,6 +9853,28 @@
     },
     {
       "album": {
+        "name": "iThuba (feat. Zee_Nhle)",
+        "url": "https://open.spotify.com/album/4VEMFclmpf7ZSV6QwLXOSB"
+      },
+      "artists": [
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "Zee_Nhle",
+          "url": "https://open.spotify.com/artist/1M6NdO34Jtpl6sU2mkQ1ON"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274308,
+      "name": "iThuba (feat. Zee_Nhle)",
+      "url": "https://open.spotify.com/track/1mnjcl2dY0jaDJmmc6KCa0"
+    },
+    {
+      "album": {
         "name": "Ithuba Lam",
         "url": "https://open.spotify.com/album/15IhslWCyWN9OwJw2Ehtpf"
       },
@@ -10868,6 +10908,48 @@
       "duration_ms": 395786,
       "name": "Khethile Khethile",
       "url": "https://open.spotify.com/track/1fQ6PokNcOELGBcbuXoGgt"
+    },
+    {
+      "album": {
+        "name": "Khulula",
+        "url": "https://open.spotify.com/album/2UsFBCob3r7QYzBUV8ta7w"
+      },
+      "artists": [
+        {
+          "name": "The Ascension",
+          "url": "https://open.spotify.com/artist/69l0v3QQfyIR61ve0kWMjF"
+        },
+        {
+          "name": "Sfarzo Rtee",
+          "url": "https://open.spotify.com/artist/2kzWkuJM5Na5hINP7akcJj"
+        },
+        {
+          "name": "Koek Sista",
+          "url": "https://open.spotify.com/artist/2tE4mCEYtiSvETEVEAYjzv"
+        },
+        {
+          "name": "Charisse C",
+          "url": "https://open.spotify.com/artist/3t8cTcgOoxQb0K8gkyKC0n"
+        },
+        {
+          "name": "Makhanj",
+          "url": "https://open.spotify.com/artist/1uYUUIkkkal5V3mIqk6KnV"
+        },
+        {
+          "name": "S.O.N",
+          "url": "https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6"
+        },
+        {
+          "name": "Reed",
+          "url": "https://open.spotify.com/artist/4tCGRoI7zhPtJvKoyZEJES"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385714,
+      "name": "Khulula",
+      "url": "https://open.spotify.com/track/6AftB22jhXbTF616yrE8ic"
     },
     {
       "album": {
@@ -12473,6 +12555,24 @@
     },
     {
       "album": {
+        "name": "Malandela",
+        "url": "https://open.spotify.com/album/5aQGsXgW8msPTSMCuy92CM"
+      },
+      "artists": [
+        {
+          "name": "Konke",
+          "url": "https://open.spotify.com/artist/6y5EP3L2WblCQsc8iuGeP9"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441775,
+      "name": "Malandela",
+      "url": "https://open.spotify.com/track/13o1aNgorVt4fdMThk3Nz0"
+    },
+    {
+      "album": {
         "name": "Mali",
         "url": "https://open.spotify.com/album/6D5CYdYsWKK5Bjwj7NKyat"
       },
@@ -12999,6 +13099,32 @@
     },
     {
       "album": {
+        "name": "MasterPiece (feat. RIVALZ)",
+        "url": "https://open.spotify.com/album/3RyuthDhq0ozXjPf5IUEBu"
+      },
+      "artists": [
+        {
+          "name": "TNK MusiQ",
+          "url": "https://open.spotify.com/artist/2oA819q93vu53ZDkCJYdbN"
+        },
+        {
+          "name": "DBN Gogo",
+          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
+        },
+        {
+          "name": "RIVALZ",
+          "url": "https://open.spotify.com/artist/4X3O9f5Bs7lKcOyUFoV75y"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334235,
+      "name": "MasterPiece (feat. RIVALZ)",
+      "url": "https://open.spotify.com/track/5jZW2X899ei8UiIkNJDrxY"
+    },
+    {
+      "album": {
         "name": "Matenase (feat. Mandla, Matenase Wa Di Yobisi & Jelly Babie)",
         "url": "https://open.spotify.com/album/68wxNNditf9gp7hStm7T4G"
       },
@@ -13414,6 +13540,44 @@
       "duration_ms": 378958,
       "name": "Mmapula",
       "url": "https://open.spotify.com/track/22sG77yM0PrgIpbVKZ40yY"
+    },
+    {
+      "album": {
+        "name": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
+        "url": "https://open.spotify.com/album/1nhw91pN6LpY6MriDZqVDC"
+      },
+      "artists": [
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "Tumelo_za",
+          "url": "https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Nandipha808",
+          "url": "https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW"
+        },
+        {
+          "name": "Ceeka RSA",
+          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
+        },
+        {
+          "name": "Tyrondee",
+          "url": "https://open.spotify.com/artist/4aNokzWeBL32vR7leBpUat"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391888,
+      "name": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
+      "url": "https://open.spotify.com/track/5tpft20jhQvRlG3O7XfwWy"
     },
     {
       "album": {
@@ -14396,7 +14560,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 370553,
       "name": "Ndiya (feat. Xduppy, ShaunMusiQ & Ftears)",
       "url": "https://open.spotify.com/track/5gQGF1NUJxMk3LA4efkDVe"
@@ -14481,6 +14645,36 @@
     },
     {
       "album": {
+        "name": "Nduma Ndumane",
+        "url": "https://open.spotify.com/album/38c6ME0DUdNlWPp6IuFzNh"
+      },
+      "artists": [
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Da Muziqal Chef",
+          "url": "https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416327,
+      "name": "Nduma Ndumane",
+      "url": "https://open.spotify.com/track/4QgyThcnKndiqqB5n6zx9d"
+    },
+    {
+      "album": {
         "name": "Need To Be Home",
         "url": "https://open.spotify.com/album/5671iktLcWY6Bf9SaDHcXU"
       },
@@ -14518,7 +14712,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 331327,
       "name": "Ng'sakumele",
       "url": "https://open.spotify.com/track/5sIsn53ZwGwFBRd7VaDyP1"
@@ -16247,6 +16441,36 @@
     },
     {
       "album": {
+        "name": "Song Is Queen",
+        "url": "https://open.spotify.com/album/1vZ0ul3flyhSZlhp1ve7Tm"
+      },
+      "artists": [
+        {
+          "name": "Lady Du",
+          "url": "https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x"
+        },
+        {
+          "name": "T-Man SA",
+          "url": "https://open.spotify.com/artist/39YR6OMtIBgQxdZREgTii1"
+        },
+        {
+          "name": "TOSS",
+          "url": "https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9"
+        },
+        {
+          "name": "Robot Boii",
+          "url": "https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448000,
+      "name": "Phezulu",
+      "url": "https://open.spotify.com/track/4yMOidhi9KNOYgqJxTHmR7"
+    },
+    {
+      "album": {
         "name": "PHOLAS",
         "url": "https://open.spotify.com/album/1Aogwis2J4XzjqdBp444c3"
       },
@@ -16438,7 +16662,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 279983,
       "name": "Piki Piki",
       "url": "https://open.spotify.com/track/5LDjBTmD7dAd3XXxV63iMv"
@@ -17187,6 +17411,32 @@
     },
     {
       "album": {
+        "name": "Saleng",
+        "url": "https://open.spotify.com/album/3W8ps9qdSEEK0n9Xv9y5CF"
+      },
+      "artists": [
+        {
+          "name": "KayGee DaKing",
+          "url": "https://open.spotify.com/artist/6rQ1MAPgKqwX5hTZZdcJf2"
+        },
+        {
+          "name": "Bizizi",
+          "url": "https://open.spotify.com/artist/1bd4LtfOcSzkWOjHKTj6yB"
+        },
+        {
+          "name": "Vinny06",
+          "url": "https://open.spotify.com/artist/5Bknfp5kXPFNLeNmhBrHWY"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382596,
+      "name": "Saleng",
+      "url": "https://open.spotify.com/track/4qk1ye6smRkfCJPQutM577"
+    },
+    {
+      "album": {
         "name": "SANA",
         "url": "https://open.spotify.com/album/10vAarRhx5DAIJdcpmNeJH"
       },
@@ -17897,6 +18147,32 @@
     },
     {
       "album": {
+        "name": "Shiwelele",
+        "url": "https://open.spotify.com/album/6S6OlTfUGM5s28H8iKLD6F"
+      },
+      "artists": [
+        {
+          "name": "Mapara A Jazz",
+          "url": "https://open.spotify.com/artist/07iC6rj6LOxVbylqwbVPih"
+        },
+        {
+          "name": "Dj Obza",
+          "url": "https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh"
+        },
+        {
+          "name": "Airburn Sounds",
+          "url": "https://open.spotify.com/artist/2LkaC9qdFjuAWym0SCTHZ4"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345016,
+      "name": "Shiwelele",
+      "url": "https://open.spotify.com/track/5sKzxqAzLLSXOiyAaA4OWk"
+    },
+    {
+      "album": {
         "name": "Ba Straata",
         "url": "https://open.spotify.com/album/0q5jxlUjZpr0Nrn07xStTq"
       },
@@ -18466,6 +18742,28 @@
       "duration_ms": 441808,
       "name": "So Sweet",
       "url": "https://open.spotify.com/track/08O8fZFSBzWXKbaDYW24ey"
+    },
+    {
+      "album": {
+        "name": "Welcome To Mexico",
+        "url": "https://open.spotify.com/album/5nuj3AHp8UKOte4GuoJwIG"
+      },
+      "artists": [
+        {
+          "name": "UNLIMITED SOUL",
+          "url": "https://open.spotify.com/artist/1YKPUOZchJZDIwoU7SZiZg"
+        },
+        {
+          "name": "Reed",
+          "url": "https://open.spotify.com/artist/2gYR2Nsu80tcG0mnNohliZ"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398896,
+      "name": "Sobabili",
+      "url": "https://open.spotify.com/track/1usdWgJO9d41TYlrveshOC"
     },
     {
       "album": {
@@ -21290,7 +21588,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 384425,
       "name": "Top 7",
       "url": "https://open.spotify.com/track/2mweimKU9eYi9TNn8ogsbL"
@@ -23250,6 +23548,32 @@
       "duration_ms": 308571,
       "name": "Vuka Mawulele",
       "url": "https://open.spotify.com/track/00SuYbV5fIC1SL1oKWMpEU"
+    },
+    {
+      "album": {
+        "name": "Song Is Queen",
+        "url": "https://open.spotify.com/album/1vZ0ul3flyhSZlhp1ve7Tm"
+      },
+      "artists": [
+        {
+          "name": "Lady Du",
+          "url": "https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x"
+        },
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        },
+        {
+          "name": "T-Man SA",
+          "url": "https://open.spotify.com/artist/39YR6OMtIBgQxdZREgTii1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442500,
+      "name": "Vukani MaAfrica",
+      "url": "https://open.spotify.com/track/7hFEPCCECUKN7dQ2SFFV7a"
     },
     {
       "album": {

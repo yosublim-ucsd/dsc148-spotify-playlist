@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Feel-good Afropop from Europe and Africa. Cover: Ayra Starr",
+  "description": "Feel-good Afropop from Europe and Africa. Cover: Rema",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -412,6 +412,24 @@
       "duration_ms": 217998,
       "name": "Appelement Jeter",
       "url": "https://open.spotify.com/track/1mpAwnhNe837FCWXS0PpiD"
+    },
+    {
+      "album": {
+        "name": "Aquafina",
+        "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168103,
+      "name": "Aquafina",
+      "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
     },
     {
       "album": {
@@ -1258,7 +1276,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 211045,
       "name": "Bright Future",
       "url": "https://open.spotify.com/track/0aZTyzxgWS4GGXw2kh0t7R"
@@ -1662,6 +1680,24 @@
       "duration_ms": 172017,
       "name": "Chairlady",
       "url": "https://open.spotify.com/track/7BVfw1GhKbT9NdhCdBXyxQ"
+    },
+    {
+      "album": {
+        "name": "Rave & Roses Ultra",
+        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204750,
+      "name": "Charm",
+      "url": "https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k"
     },
     {
       "album": {
@@ -2476,7 +2512,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 188105,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/1RLWDGT618IpLlmcN4EoXf"
@@ -3386,7 +3422,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 159100,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7"
@@ -3460,6 +3496,24 @@
       "duration_ms": 192000,
       "name": "How Many Times",
       "url": "https://open.spotify.com/track/45Vvoe20MW6GD7FwoacZc8"
+    },
+    {
+      "album": {
+        "name": "I Lied",
+        "url": "https://open.spotify.com/album/1Fkg0HRPJ5NsY570H1KpsL"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157541,
+      "name": "I Lied",
+      "url": "https://open.spotify.com/track/1qZUGjuBSXh5sJfjYqOXWo"
     },
     {
       "album": {
@@ -3562,7 +3616,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 181464,
       "name": "In Love",
       "url": "https://open.spotify.com/track/4WM7I8zRXJ6qjl4kuHeHrF"
@@ -4107,6 +4161,28 @@
     },
     {
       "album": {
+        "name": "5th Dimension",
+        "url": "https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185257,
+      "name": "Life & Money",
+      "url": "https://open.spotify.com/track/5smSKFma3LioFp4HNK1wq8"
+    },
+    {
+      "album": {
         "name": "Like (feat. Kizz Daniel)",
         "url": "https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB"
       },
@@ -4346,6 +4422,24 @@
       "duration_ms": 213635,
       "name": "Ma ch\u00e9rie",
       "url": "https://open.spotify.com/track/2Kle8vKrSquAU200Sb5WHp"
+    },
+    {
+      "album": {
+        "name": "Ma ch\u00e9rie",
+        "url": "https://open.spotify.com/album/7mc5TJygKkXlH71wasMs88"
+      },
+      "artists": [
+        {
+          "name": "Youka",
+          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151304,
+      "name": "Ma ch\u00e9rie",
+      "url": "https://open.spotify.com/track/122t69y9AvrnLJI6Rnw6eJ"
     },
     {
       "album": {
@@ -5411,7 +5505,7 @@
       "artists": [
         {
           "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF"
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
         }
       ],
       "date_added": "2023-01-12",
@@ -5712,7 +5806,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 153400,
       "name": "Probl\u00e8me",
       "url": "https://open.spotify.com/track/1IKD320Lvoj3TgAUnCVE28"
@@ -5738,6 +5832,24 @@
       "duration_ms": 168461,
       "name": "Question (feat. Don Jazzy)",
       "url": "https://open.spotify.com/track/163l4xzEe3JAfPbv0kYNQo"
+    },
+    {
+      "album": {
+        "name": "Rappelle- Moi",
+        "url": "https://open.spotify.com/album/2TzaDzelgZzWHB68lqQUFR"
+      },
+      "artists": [
+        {
+          "name": "Emma'a",
+          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167428,
+      "name": "Rappelle- Moi",
+      "url": "https://open.spotify.com/track/4GiloAfFfph653Smn3Vt1v"
     },
     {
       "album": {
@@ -6698,7 +6810,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 197454,
       "name": "The One (Chop Life)",
       "url": "https://open.spotify.com/track/4QrZSUg5xCZpFKDIhJMU2Q"

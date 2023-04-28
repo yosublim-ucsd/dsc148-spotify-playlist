@@ -4,7 +4,7 @@
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: HIEUTHUHAI
 
-163 songs - 10 hr 35 min
+165 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Không Yêu Xin Đừng Nói \- Piano Version](https://open.spotify.com/track/0vkExWiBJSrfWnlMC7x48b) | [UMIE](https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj) | [Không Yêu Xin Đừng Nói \(Piano Version\)](https://open.spotify.com/album/49dKGvpp3ix58fS46uVqOQ) | 4:04 | 2023-03-08 |  |
 | [Không Yêu Xin Đừng Nói \- Piano Version](https://open.spotify.com/track/53vcJaw0rQEux8YK9EDOxE) | [UMIE](https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj) | [Không Yêu Xin Đừng Nói \(Piano Version\)](https://open.spotify.com/album/25aSCmyq0GJvaSUduH72Kj) | 4:04 | 2023-03-08 | 2023-03-15 |
 | [Kìa Bóng Dáng Ai](https://open.spotify.com/track/5gBLuVQ6Ba7Ab6nlTROxFY) | [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9), [Sterry](https://open.spotify.com/artist/2yT9yRYRWEC22aqXEa6vBu) | [Kìa Bóng Dáng Ai](https://open.spotify.com/album/1f9fhuJErQrMM4wialltgp) | 2:44 | 2023-02-20 |  |
+| [Lan Man](https://open.spotify.com/track/3hqOrxH5qPlvrApcb7Ac8c) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Lan Man](https://open.spotify.com/album/2PjMmcp2KpR1dwcs0oExSx) | 3:36 | 2023-04-27 |  |
 | [Liệu Giờ](https://open.spotify.com/track/2EZtTS76x5M6hK96CLclPd) | [2T](https://open.spotify.com/artist/5a9t9Ace3c3WLhwlYXsTGH), [Văn](https://open.spotify.com/artist/6BXLroL2A91OYnzzYOTDJv) | [Liệu Giờ](https://open.spotify.com/album/1aRGbHftmJqclyoYJT8q6c) | 4:18 | 2022-06-15 | 2023-02-13 |
 | [Luôn yêu đời](https://open.spotify.com/track/76zJmpyMFX49tGT3u06JaK) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [Cheng](https://open.spotify.com/artist/0jBuicIjx2pKvGmq9yRJju) | [Luôn yêu đời](https://open.spotify.com/album/69Ip5wKOotOmZEtcJpFVfo) | 3:54 | 2023-02-12 | 2023-02-23 |
 | [Lâu Lâu Nhắc Lại](https://open.spotify.com/track/5B66uVtd4X6Tls9I2VQm4N) | [Ha Nhi](https://open.spotify.com/artist/3XOuN4VDN4EL0GjKov5mWL), [Khói](https://open.spotify.com/artist/3FZ4GX2mWNn7XElse3fQWd) | [Lâu Lâu Nhắc Lại](https://open.spotify.com/album/6RLMsEvmNeILizkH0RRNQ0) | 4:30 | 2022-09-29 | 2023-03-09 |
@@ -101,6 +102,7 @@
 | [Ngã Tư Không Đèn](https://open.spotify.com/track/73fFRs03s0gtjggfMW213L) | [TRANG](https://open.spotify.com/artist/2knyDFP4xw9wZEWA98JX6b), [Khoa Vũ](https://open.spotify.com/artist/4OqYnPUq6VwNMacIwwbWGw) | [Chỉ Có Thể Là Anh](https://open.spotify.com/album/1Ln8SYXthP1VIVaQPDmZH9) | 3:38 | 2022-07-27 |  |
 | [Ngôi Sao Cô Đơn](https://open.spotify.com/track/2mwVxrwLORLTNznZRZBjK5) | [Jack \- J97](https://open.spotify.com/artist/3KJopZ2uUclqEtLxQg0FNn) | [Ngôi Sao Cô Đơn](https://open.spotify.com/album/5fDgEcanAeh0CwPxGK86RN) | 4:35 | 2022-07-27 | 2022-08-01 |
 | [NGƯỜI YÊU XỊN SÒ](https://open.spotify.com/track/4kRIgp08tpU6i2rgK5jxge) | [Tiên Tiên](https://open.spotify.com/artist/5OvCh1Nin8AGw7OkxYinBe) | [NGƯỜI YÊU XỊN SÒ](https://open.spotify.com/album/2zTp7nLM1CRb51E8WMSimC) | 2:59 | 2023-02-20 | 2023-03-06 |
+| [Người Ôm Pháo Hoa \(The Moon In The Sun\)](https://open.spotify.com/track/3keyZ8cXkQ57melgiAsJ5m) | [Đông Nhi](https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s) | [Người Ôm Pháo Hoa \(The Moon In The Sun\)](https://open.spotify.com/album/46D47ArgMXMIF13u0nFWTk) | 2:59 | 2023-04-27 |  |
 | [ngủ một mình \(tình rất tình\)](https://open.spotify.com/track/76dD9BdSOzsRJSGGBjOcUf) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [Negav](https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v), [Kewtiie](https://open.spotify.com/artist/0wATZebE9ZNj7fTjTdwiJB) | [ngủ một mình \(tình rất tình\)](https://open.spotify.com/album/24GVnl6IHS4453WEGwp65Y) | 3:12 | 2023-01-06 |  |
 | [Nhìn Những Mùa Thu Đi](https://open.spotify.com/track/4MZkrUWN2C0dhc7Xn1LPug) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i) | [Nhìn Những Mùa Thu Đi](https://open.spotify.com/album/4JjTQrduYfwIza24mYYZVv) | 2:52 | 2022-06-28 | 2022-07-12 |
 | [Nhìn Những Mùa Thu Đi \- Em Và Trịnh Original Soundtrack](https://open.spotify.com/track/1F7kjQhF92Al8CSu2jP5rH) | [Bùi Lan Hương](https://open.spotify.com/artist/2XtMx7EHHODQSeBzDCBec9) | [Em Và Trịnh \(Original Soundtrack/ Vol.1\)](https://open.spotify.com/album/5TA8F1Lkwa4exTPHyTZutr) | 2:04 | 2022-06-28 | 2022-07-12 |
@@ -112,7 +114,7 @@
 | [nếu lúc đó](https://open.spotify.com/track/7wj9sGlHGTMQ28liyi48hz) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [nếu lúc đó](https://open.spotify.com/album/0OThHPtV2ovPxWwh8ublMV) | 4:24 | 2023-03-05 |  |
 | [Ooh Just You](https://open.spotify.com/track/0HK8DbhsuwSbDQKziQqbQI) | [Le Thien Hieu](https://open.spotify.com/artist/2U7kaq9BBq7eG2Vyn1D3Ab) | [Ooh Just You](https://open.spotify.com/album/5NfolK8SWLUENeckj3zc9v) | 3:15 | 2022-05-27 | 2022-06-23 |
 | [Phải Chăng Em Đã Yêu?](https://open.spotify.com/track/3wGx3gYPjECKZazGNuPEX2) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Phải Chăng Em Đã Yêu?](https://open.spotify.com/album/4LWNcXaa7PRKgdX78WodcT) | 3:10 | 2022-05-27 | 2022-06-29 |
-| [Qua Ngày Mai \- 2018](https://open.spotify.com/track/6aCkeFgaHGiIxRAPGEk9P9) | [Tiên Tiên](https://open.spotify.com/artist/5OvCh1Nin8AGw7OkxYinBe) | [Qua Ngày Mai \(2018\)](https://open.spotify.com/album/3XI0babfSGTn56c1kedLte) | 2:40 | 2023-03-08 |  |
+| [Qua Ngày Mai \- 2018](https://open.spotify.com/track/6aCkeFgaHGiIxRAPGEk9P9) | [Tiên Tiên](https://open.spotify.com/artist/5OvCh1Nin8AGw7OkxYinBe) | [Qua Ngày Mai \(2018\)](https://open.spotify.com/album/3XI0babfSGTn56c1kedLte) | 2:40 | 2023-03-08 | 2023-04-28 |
 | [Querry](https://open.spotify.com/track/6OcOCgmPa1a57xAAF7qKkW) | [QNT](https://open.spotify.com/artist/4LuFOXq87Tg0JSl5U7yxFZ), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [Querry](https://open.spotify.com/album/2Q4OkyBdAr8dBlhPSMDbBw) | 3:50 | 2022-06-15 | 2022-06-23 |
 | [Quá Khứ Đôi, Hiện Tại Đơn](https://open.spotify.com/track/5Fmtix3LkYpcXI7nVFpEyC) | [Đức Phúc](https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs) | [Quá Khứ Đôi, Hiện Tại Đơn](https://open.spotify.com/album/4qEl0OfTTPs6x8U2i62hYn) | 5:10 | 2022-09-25 | 2023-02-01 |
 | [Quên Anh Đi](https://open.spotify.com/track/4pMSLfqswCeDzG2iVmwGkR) | [MONO](https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A) | [Quên Anh Đi](https://open.spotify.com/album/3FE6u1nOMdVEhfnJKWiCIp) | 4:05 | 2022-08-10 | 2022-09-02 |

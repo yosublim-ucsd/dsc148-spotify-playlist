@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-241 songs - 15 hr 0 min
+242 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,8 @@
 | [Song 10 \(S2N\) \- Demo 2018](https://open.spotify.com/track/08OSm1Ccq0PHXVoiAtLBon) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Lost Not Forgotten Archives: Distance Over Time Demos \(2018\)](https://open.spotify.com/album/3813UgywzpXjMYQiWyb859) | 6:21 | 2023-02-17 | 2023-02-26 |
 | [Soothing Lofi Piano](https://open.spotify.com/track/1RORrwRYKmUgrnJRI4mGz7) | [Heavenly Realms](https://open.spotify.com/artist/37t9bT54d83HTqfWLET0Vj), [LoFi Bear](https://open.spotify.com/artist/2S49iNx8Jjd1P9hxuD0oRE) | [Soothing Lofi Piano](https://open.spotify.com/album/05WGmwOyVAkLAobtP2CFzZ) | 1:09 | 2023-03-17 | 2023-03-22 |
 | [South Side \- Resound NYC Version](https://open.spotify.com/track/5bANiJIruzVnOpflrMX7VF) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Ricky Wilson](https://open.spotify.com/artist/0PQYjZliwdNGrB8a13GNVN) | [South Side \(Resound NYC Version\)](https://open.spotify.com/album/1pHed1fPsnnyQm79Alnby3) | 4:47 | 2023-04-21 |  |
-| [SPIDER WEB](https://open.spotify.com/track/54lDUmLUNp653H12lF6NnA) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [PORTALS](https://open.spotify.com/album/3XxoKjcWSl4uGplV1kiKAp) | 3:03 | 2023-04-14 |  |
+| [SPIDER WEB](https://open.spotify.com/track/54lDUmLUNp653H12lF6NnA) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [PORTALS](https://open.spotify.com/album/3XxoKjcWSl4uGplV1kiKAp) | 3:03 | 2023-04-14 | 2023-04-28 |
+| [SPIDER WEB](https://open.spotify.com/track/77wA2WR0WudvUTzeBGYh3d) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [PORTALS \(Deluxe\)](https://open.spotify.com/album/6lbrHERXve89hrxuCpsJOg) | 3:03 | 2023-04-21 |  |
 | [Spirit Quest](https://open.spotify.com/track/2aleGe2cz1wrawOKLrH0pC) | [Chillquest](https://open.spotify.com/artist/4Qwl3eBreNvEdZE5DUjyMB) | [Spirit Quest](https://open.spotify.com/album/08Kl8NLPtlHbl3JedIKNt8) | 2:06 | 2023-02-10 | 2023-02-25 |
 | [Staffan \(Var En Stalledräng\)](https://open.spotify.com/track/5NH850HLE8EKalHHtbQj0i) | [Yngwie Malmsteen](https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG) | [Staffan \(Var En Stalledräng\)](https://open.spotify.com/album/2b2R85okYevKxo6D8LzqlA) | 3:56 | 2023-03-24 | 2023-04-09 |
 | [Sticky \(feat\. Childish Gambino & KIRBY\)](https://open.spotify.com/track/14adSLAL6WgvwH5snRF3gs) | [Ni'jah](https://open.spotify.com/artist/0RkeQU983gcehOYs7632vR), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Swarm](https://open.spotify.com/album/7AXxq1n3X7JZbbEnGCfLAX) | 2:51 | 2023-03-17 | 2023-04-16 |

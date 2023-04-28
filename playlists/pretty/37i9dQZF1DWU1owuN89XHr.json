@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 260516,
+  "num_followers": 260565,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg3NTIzOSwwMDAwMDAwMGIzODBkNjNlZjIxOTBkMjQwYTI4M2Q3M2NiZjFmYmI5",
+  "snapshot_id": "MCxlYzMyZWRjNWU0ZWRhM2QxY2I5ZjU1MTBmZGYwY2Q1Mjg5M2FmMGI0",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -287,18 +287,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Mis Otros Yo",
-        "url": "https://open.spotify.com/album/0k4rvGoxyV0esVswNRzL0j"
+        "name": "Silvio Rodriguez y Pablo Milanes",
+        "url": "https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f"
       },
       "artists": [
         {
-          "name": "Fato",
-          "url": "https://open.spotify.com/artist/0U00G7l8bOOiI8NwNN8dqq"
+          "name": "Silvio Rodriguez and Pablo Milanes",
+          "url": "https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK"
         }
       ],
-      "duration_ms": 239200,
-      "name": "Me Hice Una Promesa",
-      "url": "https://open.spotify.com/track/4Yv9a9mYYPI4MKELXF5BLd"
+      "duration_ms": 190066,
+      "name": "Te Doy Una Cancion",
+      "url": "https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -339,18 +339,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Silvio Rodriguez y Pablo Milanes",
-        "url": "https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f"
+        "name": "Mis Otros Yo",
+        "url": "https://open.spotify.com/album/0k4rvGoxyV0esVswNRzL0j"
       },
       "artists": [
         {
-          "name": "Silvio Rodriguez and Pablo Milanes",
-          "url": "https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK"
+          "name": "Fato",
+          "url": "https://open.spotify.com/artist/0U00G7l8bOOiI8NwNN8dqq"
         }
       ],
-      "duration_ms": 190066,
-      "name": "Te Doy Una Cancion",
-      "url": "https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC"
+      "duration_ms": 239200,
+      "name": "Me Hice Una Promesa",
+      "url": "https://open.spotify.com/track/4Yv9a9mYYPI4MKELXF5BLd"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -475,22 +475,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Alevosia",
-        "url": "https://open.spotify.com/album/1UpLSQ8L2ZCfT8OlXyAQKe"
-      },
-      "artists": [
-        {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Alevos\u00eda",
-      "url": "https://open.spotify.com/track/7lVAkvu9j5d6Pgd1CbXn16"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "El Cartero",
         "url": "https://open.spotify.com/album/43UawrlG9nlw5rvGqgE6jW"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 263440,
       "name": "Divina T\u00fa",
       "url": "https://open.spotify.com/track/7K1ZJlEZ2Nw9BrPHLyEmvC"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Alevosia",
+        "url": "https://open.spotify.com/album/1UpLSQ8L2ZCfT8OlXyAQKe"
+      },
+      "artists": [
+        {
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Alevos\u00eda",
+      "url": "https://open.spotify.com/track/7lVAkvu9j5d6Pgd1CbXn16"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -603,22 +603,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Cuerpo A Cuerpo",
-        "url": "https://open.spotify.com/album/3WkzCVHH31VULuzWaIDyD5"
-      },
-      "artists": [
-        {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
-        }
-      ],
-      "duration_ms": 301026,
-      "name": "Sin Tu Latido",
-      "url": "https://open.spotify.com/track/5c6OaqhGZq0thRc56z5nAn"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Oscar Ch\u00e1vez / La M\u00e1s Completa Colecci\u00f3n",
         "url": "https://open.spotify.com/album/47J1O0MfeIVexX6SpIoAFv"
       },
@@ -655,6 +639,38 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "1978/1988",
+        "url": "https://open.spotify.com/album/7bIbdEJSYLqQ8nLXaMbm6f"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Filio",
+          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "Despu\u00e9s de Ti",
+      "url": "https://open.spotify.com/track/7o6WEhWTa73yA3qiprJfQO"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Cuerpo A Cuerpo",
+        "url": "https://open.spotify.com/album/3WkzCVHH31VULuzWaIDyD5"
+      },
+      "artists": [
+        {
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+        }
+      ],
+      "duration_ms": 301026,
+      "name": "Sin Tu Latido",
+      "url": "https://open.spotify.com/track/5c6OaqhGZq0thRc56z5nAn"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "El Tren de los Regresos (Parada Especial)",
         "url": "https://open.spotify.com/album/2KYw8Iq21R9qXBBREdkEq3"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 200520,
       "name": "D\u00edas de Junio",
       "url": "https://open.spotify.com/track/0YhoKaP08VuwzTkWXBJQ0M"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "1978/1988",
-        "url": "https://open.spotify.com/album/7bIbdEJSYLqQ8nLXaMbm6f"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Filio",
-          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
-        }
-      ],
-      "duration_ms": 184533,
-      "name": "Despu\u00e9s de Ti",
-      "url": "https://open.spotify.com/track/7o6WEhWTa73yA3qiprJfQO"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -711,22 +711,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Albanta",
-        "url": "https://open.spotify.com/album/71bflvCi5VkZBS5IV81b8M"
-      },
-      "artists": [
-        {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
-        }
-      ],
-      "duration_ms": 297040,
-      "name": "Al Alba",
-      "url": "https://open.spotify.com/track/5zftYFI80oeA7UKfisvRUt"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Todav\u00eda",
         "url": "https://open.spotify.com/album/7pXbtBSDRM9v4ZQP6dbRP7"
       },
@@ -739,22 +723,6 @@
       "duration_ms": 185617,
       "name": "Todav\u00eda",
       "url": "https://open.spotify.com/track/2HSC6Dy73O16zvWJnKViSw"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Discograf\u00eda en Castellano",
-        "url": "https://open.spotify.com/album/3KRHH5V8abRbkgo9wCndko"
-      },
-      "artists": [
-        {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
-        }
-      ],
-      "duration_ms": 205226,
-      "name": "Mediterraneo",
-      "url": "https://open.spotify.com/track/3hx9T4CWGDvMbINMBfyrnW"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -775,6 +743,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Discograf\u00eda en Castellano",
+        "url": "https://open.spotify.com/album/3KRHH5V8abRbkgo9wCndko"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "duration_ms": 205226,
+      "name": "Mediterraneo",
+      "url": "https://open.spotify.com/track/3hx9T4CWGDvMbINMBfyrnW"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Juguete De Madera",
         "url": "https://open.spotify.com/album/1wuudf3MeIPS0MdGvjU5YM"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 209000,
       "name": "Por Si No Te Vuelvo A Ver",
       "url": "https://open.spotify.com/track/3PDUwo7N2IF6fOfD3dEZMH"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Albanta",
+        "url": "https://open.spotify.com/album/71bflvCi5VkZBS5IV81b8M"
+      },
+      "artists": [
+        {
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+        }
+      ],
+      "duration_ms": 297040,
+      "name": "Al Alba",
+      "url": "https://open.spotify.com/track/5zftYFI80oeA7UKfisvRUt"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -875,22 +875,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Auterretratos",
-        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
-      },
-      "artists": [
-        {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
-        }
-      ],
-      "duration_ms": 212200,
-      "name": "De Alguna Manera",
-      "url": "https://open.spotify.com/track/7MtdhnO67fNwuF7Bes1xOh"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "La Llamada",
         "url": "https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21"
       },
@@ -903,42 +887,6 @@
       "duration_ms": 358826,
       "name": "La LLamada",
       "url": "https://open.spotify.com/track/1fAGyap6nJcPEyMeVXbekV"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Sesiones \u00cdntimas",
-        "url": "https://open.spotify.com/album/4oZVAbazCKoqmjRpGAwD5A"
-      },
-      "artists": [
-        {
-          "name": "Amaury Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D"
-        },
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 263226,
-      "name": "Dime Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0mojkCfeqko2sQk1KsDCHP"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Que Nadie Se Entere",
-        "url": "https://open.spotify.com/album/6hVFxpqlDUBu4ZXMBBV5nZ"
-      },
-      "artists": [
-        {
-          "name": "Miguel Inzunza",
-          "url": "https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb"
-        }
-      ],
-      "duration_ms": 276306,
-      "name": "Se Busca",
-      "url": "https://open.spotify.com/track/5uXbOALhNzFFLfoJSh27Vb"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -959,6 +907,58 @@
       "duration_ms": 219818,
       "name": "El primer amor (feat. Francisco Cespedes)",
       "url": "https://open.spotify.com/track/4OfrXrHiVrINm1aAX0RxA3"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Que Nadie Se Entere",
+        "url": "https://open.spotify.com/album/6hVFxpqlDUBu4ZXMBBV5nZ"
+      },
+      "artists": [
+        {
+          "name": "Miguel Inzunza",
+          "url": "https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb"
+        }
+      ],
+      "duration_ms": 276306,
+      "name": "Se Busca",
+      "url": "https://open.spotify.com/track/5uXbOALhNzFFLfoJSh27Vb"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Auterretratos",
+        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
+      },
+      "artists": [
+        {
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+        }
+      ],
+      "duration_ms": 212200,
+      "name": "De Alguna Manera",
+      "url": "https://open.spotify.com/track/7MtdhnO67fNwuF7Bes1xOh"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Sesiones \u00cdntimas",
+        "url": "https://open.spotify.com/album/4oZVAbazCKoqmjRpGAwD5A"
+      },
+      "artists": [
+        {
+          "name": "Amaury Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D"
+        },
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 263226,
+      "name": "Dime Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0mojkCfeqko2sQk1KsDCHP"
     },
     {
       "added_at": "2021-07-29 16:46:05",

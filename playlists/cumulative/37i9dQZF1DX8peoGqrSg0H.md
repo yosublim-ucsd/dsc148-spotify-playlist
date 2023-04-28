@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PiXXiE
+> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: ATLAS
 
-324 songs - 19 hr 33 min
+325 songs - 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Gone Gurl](https://open.spotify.com/track/2iD5UfAQlZQulHzgaV1BKW) | [Fyeqoodgurl](https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc) | [Gone Gurl](https://open.spotify.com/album/4KLCiY1OGHlSKrTsIwpJUY) | 3:15 | 2022-06-09 | 2022-08-06 |
 | [good boy](https://open.spotify.com/track/3hVbL6BkM5rbRzozafghgh) | [KJ](https://open.spotify.com/artist/5VsLrcMVUw2PUCqAQNPXtn) | [good boy](https://open.spotify.com/album/50oaCQAz9HH45u4SPUWcmx) | 3:21 | 2022-07-14 | 2022-11-18 |
 | [Heartbeat](https://open.spotify.com/track/3GmTi7ToFhnHLDKNo92lIr) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [Heartbeat](https://open.spotify.com/album/0ZWAzqTKLDjSRyubKzYOTs) | 3:05 | 2022-10-07 | 2022-10-27 |
+| [HI YA YA \(แค่มีเธอ\)](https://open.spotify.com/track/45Byir0bemNjJFxHLx8Lir) | [4MIX](https://open.spotify.com/artist/7KLf6fRWodKmnPducVKvbX) | [HI YA YA \(แค่มีเธอ\)](https://open.spotify.com/album/5839gv3g8G9jrqgtG6E3hE) | 3:09 | 2023-04-27 |  |
 | [HOT & COLD \(ร้อนๆ หนาวๆ\)](https://open.spotify.com/track/32VqVoLwv5FASA9Ih00IY9) | [4MIX](https://open.spotify.com/artist/7KLf6fRWodKmnPducVKvbX) | [HOT & COLD \(ร้อนๆ หนาวๆ\)](https://open.spotify.com/album/5w0HUap5EkEsRvE00XwUvB) | 3:31 | 2022-11-11 | 2022-11-18 |
 | [I DON'T KNOW](https://open.spotify.com/track/2phiE1WK9XCqgumBH4AKuo) | [GRACE](https://open.spotify.com/artist/07QhtaY2Bl5FNhrWTVycwr) | [I DON'T KNOW](https://open.spotify.com/album/4iL1Ec3VImGfbjOWih4IRd) | 3:00 | 2022-09-29 | 2022-10-08 |
 | [I DON'T MISS YOU](https://open.spotify.com/track/0Xv1iMu2DaRL7R7g7dhQIa) | [TRINITY](https://open.spotify.com/artist/70iyLnJ4uH2zMmLLdGM9oM) | [I DON'T MISS YOU](https://open.spotify.com/album/58Yq6ydlcwCNCmoHmyHxuC) | 3:27 | 2022-05-26 | 2022-06-17 |
@@ -183,7 +184,7 @@
 | [ยังมีความรักให้เธอเสมอ](https://open.spotify.com/track/1wMKxgl9ao5Rou5rHQo1cS) | [Mark Methathavach](https://open.spotify.com/artist/5CMGEfQ5n3LJqKcld9Z5Xl) | [ยังมีความรักให้เธอเสมอ](https://open.spotify.com/album/46EkpoOFyV88Tnoe6HlW5d) | 4:21 | 2022-06-23 | 2022-07-15 |
 | [ยิ่งเหงายิ่งคิดถึงเธอ](https://open.spotify.com/track/6CgJl6EjINVDLvRTYIHwl2) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [ยิ่งเหงายิ่งคิดถึงเธอ](https://open.spotify.com/album/2FOjpZekfrJ3BYvCNuNRqS) | 4:10 | 2022-09-15 | 2022-10-13 |
 | [ยิ้มทั้งน้ำตา](https://open.spotify.com/track/1m1aNI4vjnwmrxateBIXgK) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ยิ้มทั้งน้ำตา](https://open.spotify.com/album/0gGRJrAvSjPI4U2mf0D0Hd) | 4:45 | 2023-03-09 |  |
-| [ยื้อเพื่อ? \(Be Honest\)](https://open.spotify.com/track/6zd7fxBsHqjV9PNw5aEs1Y) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [Your Girl](https://open.spotify.com/album/0CmKGlxb5Te6ENFWPjwUtN) | 3:49 | 2023-04-12 |  |
+| [ยื้อเพื่อ? \(Be Honest\)](https://open.spotify.com/track/6zd7fxBsHqjV9PNw5aEs1Y) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [Your Girl](https://open.spotify.com/album/0CmKGlxb5Te6ENFWPjwUtN) | 3:49 | 2023-04-12 | 2023-04-28 |
 | [ย้อนแย้ง \(From KinnPorsche The Series\)](https://open.spotify.com/track/7uACNnshGf5tGOj9i42irz) | [เอก Season Five](https://open.spotify.com/artist/1wM1e379Yyvtq6964zzL3G) | [ย้อนแย้ง \(From KinnPorsche The Series\)](https://open.spotify.com/album/5cF5AkUGaEfNA5LWWJ9KpY) | 3:47 | 2022-06-09 | 2022-06-24 |
 | [รอเก่ง \- Introvert](https://open.spotify.com/track/60lOiEJVxbn4Crv8344i1W) | [Aimzillow](https://open.spotify.com/artist/3nk2i4kSjG2qVzo0MHPSYj) | [รอเก่ง \(Introvert\)](https://open.spotify.com/album/4RQh8Pjm8rOFJKLR6awxEp) | 3:35 | 2022-07-01 | 2022-07-08 |
 | [ระวังเสียใจ \(Warning\)](https://open.spotify.com/track/2H5h25NuMFY39z7EOl28eP) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [Your Girl](https://open.spotify.com/album/0CmKGlxb5Te6ENFWPjwUtN) | 2:54 | 2022-11-03 | 2023-02-16 |

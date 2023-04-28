@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 31228,
+  "num_followers": 31265,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA4MTI3NCwwMDAwMDAwMGZhMjhkNDFhZDRmYTlmMjQ5ZjAyODZiYjllZGI3NDVl",
+  "snapshot_id": "MCw1YTJkZDZkNTk3NjcyMzI1MTYwZmI3MzRlZjY2YTQ4MmExMTRmYjk0",
   "tracks": [
     {
       "added_at": "2023-04-20 22:00:00",
@@ -503,6 +503,26 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "Lightning To Strike",
+        "url": "https://open.spotify.com/album/5ziGWAOle0QNNJw1iQRWgJ"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 178721,
+      "name": "Lightning To Strike",
+      "url": "https://open.spotify.com/track/2MAjcMaiYJdwFT3oAYLo03"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "Bloom (nowifi Remix)",
         "url": "https://open.spotify.com/album/2TevphOQe7SmNqX7dVLYkk"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 121461,
       "name": "Bloom (nowifi Remix)",
       "url": "https://open.spotify.com/track/4Hqznl1iOMNK4Yr2e4H0D4"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "Lightning To Strike",
-        "url": "https://open.spotify.com/album/5ziGWAOle0QNNJw1iQRWgJ"
-      },
-      "artists": [
-        {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        }
-      ],
-      "duration_ms": 178721,
-      "name": "Lightning To Strike",
-      "url": "https://open.spotify.com/track/2MAjcMaiYJdwFT3oAYLo03"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -771,26 +771,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Forever, Now",
-        "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Andrew Belle",
-          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
-        }
-      ],
-      "duration_ms": 274795,
-      "name": "Elenore",
-      "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "I Blame You",
         "url": "https://open.spotify.com/album/4Q2eP4hBqp1UU9SB3QP6Lb"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 155000,
       "name": "Free Falling Love",
       "url": "https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Forever, Now",
+        "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
+        }
+      ],
+      "duration_ms": 274795,
+      "name": "Elenore",
+      "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -895,6 +895,30 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "High Hopes",
+        "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        },
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        }
+      ],
+      "duration_ms": 127021,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "Botanica",
         "url": "https://open.spotify.com/album/5fSSRZEOdBrTwzGhyuWz81"
       },
@@ -935,46 +959,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "All Shook Up",
-        "url": "https://open.spotify.com/album/4q97x8AkvkiHUPtWvgrU83"
-      },
-      "artists": [
-        {
-          "name": "Karma Child",
-          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "All Shook Up",
-      "url": "https://open.spotify.com/track/2Gau2T1kADcSNw11VS01Xu"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "High Hopes",
-        "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
-        },
-        {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
-        }
-      ],
-      "duration_ms": 127021,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Live In The Moment",
         "url": "https://open.spotify.com/album/4OYcMY57gpiT6PzvL5tzxn"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 180000,
       "name": "Live In The Moment",
       "url": "https://open.spotify.com/track/7hNec5eJPMhEKFTvF5cvNt"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "All Shook Up",
+        "url": "https://open.spotify.com/album/4q97x8AkvkiHUPtWvgrU83"
+      },
+      "artists": [
+        {
+          "name": "Karma Child",
+          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "All Shook Up",
+      "url": "https://open.spotify.com/track/2Gau2T1kADcSNw11VS01Xu"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/4TJ3Olg6n07Gv6yba69t9s"
-      },
-      "artists": [
-        {
-          "name": "MAFQEES",
-          "url": "https://open.spotify.com/artist/1Qp9yr4c6X7AWduUBkWhIp"
-        }
-      ],
-      "duration_ms": 162782,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/2MYIfxhvYk7VaEJ0cWiRmK"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "What You Do to Me",
         "url": "https://open.spotify.com/album/2XtqLhPvm9V8V8l7U399Z1"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 164388,
       "name": "What You Do to Me",
       "url": "https://open.spotify.com/track/1LXP8KNXO6PYx9HePA1JQW"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/4TJ3Olg6n07Gv6yba69t9s"
+      },
+      "artists": [
+        {
+          "name": "MAFQEES",
+          "url": "https://open.spotify.com/artist/1Qp9yr4c6X7AWduUBkWhIp"
+        }
+      ],
+      "duration_ms": 162782,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/2MYIfxhvYk7VaEJ0cWiRmK"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1307,6 +1307,26 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "Nightcall",
+        "url": "https://open.spotify.com/album/7LlRiB82ntL7v6JU4zqfd2"
+      },
+      "artists": [
+        {
+          "name": "Marcus Layton",
+          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
+        },
+        {
+          "name": "Henri PFR",
+          "url": "https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq"
+        }
+      ],
+      "duration_ms": 126147,
+      "name": "Nightcall",
+      "url": "https://open.spotify.com/track/5UVnC9VooGhAOn4zGNi8Uy"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "Scent of Wood (Bound to Divide Remix)",
         "url": "https://open.spotify.com/album/3F5raVu3wkj29XJ8UKa9o3"
       },
@@ -1327,26 +1347,6 @@
       "duration_ms": 208548,
       "name": "Scent of Wood (Bound to Divide Remix)",
       "url": "https://open.spotify.com/track/10ziUOuysPmpB3mNtCpNTA"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "Nightcall",
-        "url": "https://open.spotify.com/album/7LlRiB82ntL7v6JU4zqfd2"
-      },
-      "artists": [
-        {
-          "name": "Marcus Layton",
-          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
-        },
-        {
-          "name": "Henri PFR",
-          "url": "https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq"
-        }
-      ],
-      "duration_ms": 126147,
-      "name": "Nightcall",
-      "url": "https://open.spotify.com/track/5UVnC9VooGhAOn4zGNi8Uy"
     },
     {
       "added_at": "2023-04-20 22:00:00",

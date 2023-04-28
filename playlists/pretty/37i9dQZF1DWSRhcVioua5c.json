@@ -1,12 +1,12 @@
 {
   "description": "Una selecci\u00f3n de baladas para suspirar de amor.",
-  "num_followers": 59820,
+  "num_followers": 59849,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAwODA1MSwwMDAwMDAwMDgxZGRlZThhNmY1MzZiNDdjZDYyM2I0NDM4Y2FkZDAw",
+  "snapshot_id": "MCwyMGM4NTc2OGI1ZTYxNDYwY2E4MWQ3ZjVhODZjYjQ5YmMwNGM1N2Qy",
   "tracks": [
     {
       "added_at": "2023-03-16 23:07:31",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-03-16 23:07:31",
       "album": {
-        "name": "Eterno Amor",
-        "url": "https://open.spotify.com/album/1Yxth9gcry4oASkewP9b6y"
-      },
-      "artists": [
-        {
-          "name": "Los del Portezuelo",
-          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
-        }
-      ],
-      "duration_ms": 190608,
-      "name": "Eterno Amor",
-      "url": "https://open.spotify.com/track/7r16iJ5dJcdqFQJeh08GPs"
-    },
-    {
-      "added_at": "2023-03-16 23:07:31",
-      "album": {
         "name": "Al Decir Adi\u00f3s",
         "url": "https://open.spotify.com/album/53cIKsT8pb3688c5hzNpJ9"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 228961,
       "name": "Al Decir Adi\u00f3s",
       "url": "https://open.spotify.com/track/06qoYqycYdCaq6UMfEdiNY"
+    },
+    {
+      "added_at": "2023-03-16 23:07:31",
+      "album": {
+        "name": "Eterno Amor",
+        "url": "https://open.spotify.com/album/1Yxth9gcry4oASkewP9b6y"
+      },
+      "artists": [
+        {
+          "name": "Los del Portezuelo",
+          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
+        }
+      ],
+      "duration_ms": 190608,
+      "name": "Eterno Amor",
+      "url": "https://open.spotify.com/track/7r16iJ5dJcdqFQJeh08GPs"
     },
     {
       "added_at": "2023-03-16 23:07:31",
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-03-16 23:07:31",
       "album": {
-        "name": "Los Del Portezuelo",
-        "url": "https://open.spotify.com/album/1TvdN3dnu3fV6ghx7s5k47"
+        "name": "El Punto Final",
+        "url": "https://open.spotify.com/album/1hfe0fdFG8n6sj6WOYOvcF"
       },
       "artists": [
         {
-          "name": "Los del Portezuelo",
-          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
         }
       ],
-      "duration_ms": 203333,
-      "name": "Al So\u00f1arte",
-      "url": "https://open.spotify.com/track/13yPWigbj0YOadjdRJ942u"
+      "duration_ms": 213418,
+      "name": "El Punto Final",
+      "url": "https://open.spotify.com/track/4YBxqpFfiPYkBUWEmupg7b"
     },
     {
       "added_at": "2023-03-16 23:07:31",
@@ -975,24 +975,8 @@
     {
       "added_at": "2023-03-16 23:07:31",
       "album": {
-        "name": "El Punto Final",
-        "url": "https://open.spotify.com/album/1hfe0fdFG8n6sj6WOYOvcF"
-      },
-      "artists": [
-        {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
-        }
-      ],
-      "duration_ms": 213418,
-      "name": "El Punto Final",
-      "url": "https://open.spotify.com/track/4YBxqpFfiPYkBUWEmupg7b"
-    },
-    {
-      "added_at": "2023-03-16 23:07:31",
-      "album": {
-        "name": "Nada",
-        "url": "https://open.spotify.com/album/0vfHVUcxFuIesJnzwubbbB"
+        "name": "Los Del Portezuelo",
+        "url": "https://open.spotify.com/album/1TvdN3dnu3fV6ghx7s5k47"
       },
       "artists": [
         {
@@ -1000,9 +984,25 @@
           "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
         }
       ],
-      "duration_ms": 213859,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/3MZj5HNiSCfcBE4fMRiSpX"
+      "duration_ms": 203333,
+      "name": "Al So\u00f1arte",
+      "url": "https://open.spotify.com/track/13yPWigbj0YOadjdRJ942u"
+    },
+    {
+      "added_at": "2023-03-16 23:07:31",
+      "album": {
+        "name": "Una Noche M\u00e1s",
+        "url": "https://open.spotify.com/album/55VoL4ZTESAMk4zl3lX9IH"
+      },
+      "artists": [
+        {
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+        }
+      ],
+      "duration_ms": 205557,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/5zkVIqB0REw19AXIl9rH2q"
     },
     {
       "added_at": "2023-03-16 23:07:31",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2023-03-16 23:07:31",
       "album": {
-        "name": "Una Noche M\u00e1s",
-        "url": "https://open.spotify.com/album/55VoL4ZTESAMk4zl3lX9IH"
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/0vfHVUcxFuIesJnzwubbbB"
       },
       "artists": [
         {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+          "name": "Los del Portezuelo",
+          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
         }
       ],
-      "duration_ms": 205557,
-      "name": "Una Noche M\u00e1s",
-      "url": "https://open.spotify.com/track/5zkVIqB0REw19AXIl9rH2q"
+      "duration_ms": 213859,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/3MZj5HNiSCfcBE4fMRiSpX"
     },
     {
       "added_at": "2023-03-16 23:07:31",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-03-16 23:07:31",
       "album": {
-        "name": "No Te Vayas",
-        "url": "https://open.spotify.com/album/56yg8RU5UCcM0FjcQFL3dT"
-      },
-      "artists": [
-        {
-          "name": "Los 4 De Cordoba",
-          "url": "https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2"
-        }
-      ],
-      "duration_ms": 224573,
-      "name": "No Te Vayas",
-      "url": "https://open.spotify.com/track/3LYprBFXZbHZZVmRQbephK"
-    },
-    {
-      "added_at": "2023-03-16 23:07:31",
-      "album": {
         "name": "Ansiado Encuentro",
         "url": "https://open.spotify.com/album/3Z3dyIUxHZfTlBarrWrHLR"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 275563,
       "name": "Ansiado Encuentro",
       "url": "https://open.spotify.com/track/4bgaEcs1bsLuV49Q67DtRT"
+    },
+    {
+      "added_at": "2023-03-16 23:07:31",
+      "album": {
+        "name": "No Te Vayas",
+        "url": "https://open.spotify.com/album/56yg8RU5UCcM0FjcQFL3dT"
+      },
+      "artists": [
+        {
+          "name": "Los 4 De Cordoba",
+          "url": "https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2"
+        }
+      ],
+      "duration_ms": 224573,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/3LYprBFXZbHZZVmRQbephK"
     },
     {
       "added_at": "2023-03-16 23:07:31",

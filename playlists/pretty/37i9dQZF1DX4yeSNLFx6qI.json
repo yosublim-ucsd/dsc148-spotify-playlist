@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1738914,
+  "num_followers": 1739112,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDAyOTUzMzA1ZDRlNTE4MTRiZTNkNDI1ODgwMjY3Y2Rh",
+  "snapshot_id": "MCxkMDg3MTNmMTJiMmI3NzJiZDAwNTA2ZTI2OThhYzA4ZjIxMzA1Nzdi",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Mis Manos",
-        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 267271,
-      "name": "Manos de Tijera",
-      "url": "https://open.spotify.com/track/2f8sB9lQ6Uh1lKKWJNR9rW"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Un Besito M\u00e1s",
         "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 229933,
       "name": "Me Soltaste",
       "url": "https://open.spotify.com/track/02yD6Wmpx5kLAoXLQOnuEb"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Mis Manos",
+        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 267271,
+      "name": "Manos de Tijera",
+      "url": "https://open.spotify.com/track/2f8sB9lQ6Uh1lKKWJNR9rW"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Siempre",
+        "url": "https://open.spotify.com/album/1FmLq6L6oiD1zAq0UxF341"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "duration_ms": 92539,
+      "name": "Siempre",
+      "url": "https://open.spotify.com/track/2BOfgAlexUSef23fFwkd1k"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "ya no somos los mismos",
         "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 231680,
       "name": "El Que Olvida",
       "url": "https://open.spotify.com/track/69dW5grE2KVwjl0ACruk0k"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Siempre",
-        "url": "https://open.spotify.com/album/1FmLq6L6oiD1zAq0UxF341"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 92539,
-      "name": "Siempre",
-      "url": "https://open.spotify.com/track/2BOfgAlexUSef23fFwkd1k"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1075,22 +1075,6 @@
       "duration_ms": 232331,
       "name": "Recuerdo",
       "url": "https://open.spotify.com/track/7zh0PdIYt6HxXoPvfb30MU"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "S\u00f3lo Para Mujeres",
-        "url": "https://open.spotify.com/album/6GAL5gNwSJKlpl2ozzdNb9"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 281800,
-      "name": "Me Ense\u00f1aste",
-      "url": "https://open.spotify.com/track/5pSfMKeflHUgtXJHIXzioQ"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "S\u00f3lo Para Mujeres",
+        "url": "https://open.spotify.com/album/6GAL5gNwSJKlpl2ozzdNb9"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 281800,
+      "name": "Me Ense\u00f1aste",
+      "url": "https://open.spotify.com/track/5pSfMKeflHUgtXJHIXzioQ"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Una Mentira M\u00e1s",
         "url": "https://open.spotify.com/album/74pZFv3znRw9RbXOSYORcI"
       },
@@ -1199,6 +1199,38 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Te echo de menos",
+        "url": "https://open.spotify.com/album/3SOqCdYh4P6GPFjGh0ZHrj"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "duration_ms": 194986,
+      "name": "Te echo de menos",
+      "url": "https://open.spotify.com/track/3gPOFPYLgpvQz0ZMwmv7NE"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "V\u00e9rtigo",
+        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 209221,
+      "name": "Hablemos de amor",
+      "url": "https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "D\u00e9jame Ir",
         "url": "https://open.spotify.com/album/5MAHn88iqWSOsfXQ1GBLby"
       },
@@ -1231,38 +1263,6 @@
       "duration_ms": 208986,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/4mivRZXyZbIDecPTiCtOjw"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Te echo de menos",
-        "url": "https://open.spotify.com/album/3SOqCdYh4P6GPFjGh0ZHrj"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        }
-      ],
-      "duration_ms": 194986,
-      "name": "Te echo de menos",
-      "url": "https://open.spotify.com/track/3gPOFPYLgpvQz0ZMwmv7NE"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "V\u00e9rtigo",
-        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 209221,
-      "name": "Hablemos de amor",
-      "url": "https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Si hubieras querido",
+        "url": "https://open.spotify.com/album/0mag3mrok9LV07L6nnACOt"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 221139,
+      "name": "Si hubieras querido",
+      "url": "https://open.spotify.com/track/0Q6Pc3dqsl6qHKZ91DPUTH"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Te Olvid\u00e9",
         "url": "https://open.spotify.com/album/5tCvYwnjj9GaEHO8hgxEQA"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 200346,
       "name": "Regresa",
       "url": "https://open.spotify.com/track/1z9mOl4yaivulHoUBxuQvQ"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Si hubieras querido",
-        "url": "https://open.spotify.com/album/0mag3mrok9LV07L6nnACOt"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 221139,
-      "name": "Si hubieras querido",
-      "url": "https://open.spotify.com/track/0Q6Pc3dqsl6qHKZ91DPUTH"
     },
     {
       "added_at": "2023-04-14 04:00:00",

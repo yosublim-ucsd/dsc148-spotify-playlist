@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > El sonido urbano de RD, pa' lo tígueres de alta gama\. En portada: Bulin 47
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,788 likes - 65 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,033 likes - 65 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 59 | [Elma Maria](https://open.spotify.com/track/2X0ZB9z924BusDXia6yYiw) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [Elma Maria](https://open.spotify.com/album/1uCTg0kVU6LzfFeBjK7CR7) | 3:16 |
 | 60 | [Y Eso?](https://open.spotify.com/track/1Cx2O26LJUjG94LfH6rnyB) | [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0), [PV Aparataje](https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4) | [Y Eso?](https://open.spotify.com/album/7x8dNTVIpVvboQ3TsxCj0N) | 2:44 |
 | 61 | [Tu Cojea](https://open.spotify.com/track/6drPETc7tuaelv5YsCyS0G) | [Vakero](https://open.spotify.com/artist/5rlwbF5flU2JCmAzV5Obu0) | [Tu Cojea](https://open.spotify.com/album/3kCbDfRabyjGfrN5O6QOcW) | 2:44 |
-| 62 | [Tiguere](https://open.spotify.com/track/3LqhDUTrzOxYrGw5nEEAwr) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Tiguere](https://open.spotify.com/album/1jHkDImQbWVY9sJPDnwHJo) | 3:33 |
+| 62 | [Tiguere](https://open.spotify.com/track/4o8I9koGgKdoHKIdGZxIur) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Tiguere](https://open.spotify.com/album/2HTmHES25qSL1wiSmWtI0e) | 3:33 |
 | 63 | [Corre Corre \- Remix](https://open.spotify.com/track/3HrHPpZKQt2dNZIc2Ctp3r) | [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [Shadow Blow](https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF), [El Panda 15](https://open.spotify.com/artist/783Q9ELFyooddnWj5qqWNo), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [El Chuky De Lewa](https://open.spotify.com/artist/4TxFZEk9YEPGUBrXPNwSpb) | [Corre Corre \(Remix\)](https://open.spotify.com/album/6ULAfamV3N4cyJ7hCHinSQ) | 3:16 |
 | 64 | [Bobote \(Remix\)](https://open.spotify.com/track/25l01IhzLGr3nKFOW3z99f) | [El Experimento \(Macgyver\)](https://open.spotify.com/artist/2061nJAmY52Z8zAVjGFkTv), [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [La Insuperable](https://open.spotify.com/artist/1DnmGMN1A57wUR0KhxOnnu), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F), [La Sabiduria](https://open.spotify.com/artist/0yHhVZZRkJNbKmWGq8nciC), [Gatillero 23](https://open.spotify.com/artist/5ArjD2zzwnPVWvho8uSj8k), [Jc La Nevula](https://open.spotify.com/artist/6KBhywwNM5dStjqjHeNndc), [El Bloonel](https://open.spotify.com/artist/78CU7fjwAyxSX6DJFT2khV), [Yofrangel](https://open.spotify.com/artist/6VLldomvrVfwjvfLdFDq0o) | [Bobote \(Remix\)](https://open.spotify.com/album/4tb3tezrL2j6KHFSoMLjmD) | 6:00 |
 | 65 | [Chivirika](https://open.spotify.com/track/0cGy3K7zTivPgk3iUC91nz) | [El Villanord](https://open.spotify.com/artist/3CLzGEm4DCOh5ouaMm6mZs), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [Chivirika](https://open.spotify.com/album/2i858xsBfzp0M9AFJUhXts) | 3:32 |
 
-Snapshot ID: `MTY4MjA0MTAwOCwwMDAwMDAwMDRjZDU2ZDY3MDY0MmU0ZjgzNzEwZmQwMzBiMWI3NGNj`
+Snapshot ID: `MCxiZTkxNTlkYjg3NmJmOTkwNjY2YjZlNTNmMDE3ZWRlOGU3MGZkZWNh`

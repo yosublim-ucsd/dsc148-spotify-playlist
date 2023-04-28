@@ -1,28 +1,28 @@
 {
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce?si=dHdeyPu5R_iPqhI61YYh1A\">The Tazers</a> ",
-  "num_followers": 12790,
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL?si=2tuFGhMOTQq74hieYvJjVw\">Ruff Majik</a> ",
+  "num_followers": 12802,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA3NjU4OSwwMDAwMDAwMGQ0Njk0NDc1NWIwYTY1ZWZmYTU1NDFhNGNhNzY4OWY0",
+  "snapshot_id": "MCxhY2U5ZWRhMzUxZDA5ODk3NzQwNDkwYTU5ZmFhNDNlNTQ4MjZhNWM3",
   "tracks": [
     {
-      "added_at": "2023-04-21 09:09:24",
+      "added_at": "2023-04-27 21:59:00",
       "album": {
-        "name": "Self Control",
-        "url": "https://open.spotify.com/album/77drPpxu2UC2Ok70avy0RL"
+        "name": "Elektrik Ram",
+        "url": "https://open.spotify.com/album/4HpDEF8FVhuaXWAz1Sr4Je"
       },
       "artists": [
         {
-          "name": "The Tazers",
-          "url": "https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce"
+          "name": "Ruff Majik",
+          "url": "https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL"
         }
       ],
-      "duration_ms": 151739,
-      "name": "Self Control",
-      "url": "https://open.spotify.com/track/2k9SemDo0Hgm1UDtnJP3ki"
+      "duration_ms": 172003,
+      "name": "Rave to the Grave",
+      "url": "https://open.spotify.com/track/0yidnSQ53CqoAEhb4ZqNBK"
     },
     {
       "added_at": "2023-03-16 21:59:00",
@@ -43,6 +43,38 @@
       "duration_ms": 159652,
       "name": "Hey Jy",
       "url": "https://open.spotify.com/track/77YX4Et5rOuvhQqG7RLUfe"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Free to Be Me",
+        "url": "https://open.spotify.com/album/2ESGR81JXO3gCEB0u3LdKR"
+      },
+      "artists": [
+        {
+          "name": "Billy Inglish",
+          "url": "https://open.spotify.com/artist/6DuvxqW15mmbh6Dc9Nm6EC"
+        }
+      ],
+      "duration_ms": 219401,
+      "name": "Free to Be Me",
+      "url": "https://open.spotify.com/track/6k4VU38pmcRDCn2mRJIpQK"
+    },
+    {
+      "added_at": "2023-04-21 09:09:24",
+      "album": {
+        "name": "Self Control",
+        "url": "https://open.spotify.com/album/77drPpxu2UC2Ok70avy0RL"
+      },
+      "artists": [
+        {
+          "name": "The Tazers",
+          "url": "https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce"
+        }
+      ],
+      "duration_ms": 151739,
+      "name": "Self Control",
+      "url": "https://open.spotify.com/track/2k9SemDo0Hgm1UDtnJP3ki"
     },
     {
       "added_at": "2023-04-20 21:59:00",
@@ -197,6 +229,22 @@
       "url": "https://open.spotify.com/track/3hYjSz0QfFeaG9CTP8hNJF"
     },
     {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Partners in Crime",
+        "url": "https://open.spotify.com/album/1qjw3P90aCqZ4jGJIWNn7D"
+      },
+      "artists": [
+        {
+          "name": "Marene",
+          "url": "https://open.spotify.com/artist/5CMKKbyPMl9Ry6Kl1m8u1I"
+        }
+      ],
+      "duration_ms": 219640,
+      "name": "Partners in Crime",
+      "url": "https://open.spotify.com/track/0nwyYEJoZAhx1lkj0C95Qs"
+    },
+    {
       "added_at": "2023-02-16 21:59:00",
       "album": {
         "name": "Toe Roep Ek Jou Naam Velvet Blohm",
@@ -231,6 +279,22 @@
       "duration_ms": 245880,
       "name": "Everything Is Black",
       "url": "https://open.spotify.com/track/3USvpF3X4zg3DUw8Ro6AIY"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Verlede",
+        "url": "https://open.spotify.com/album/03WqCunPsGa51cHENo2QYc"
+      },
+      "artists": [
+        {
+          "name": "X_C_Xreece",
+          "url": "https://open.spotify.com/artist/5K7YIVq5HTLQROahka7QyZ"
+        }
+      ],
+      "duration_ms": 190066,
+      "name": "Verlede",
+      "url": "https://open.spotify.com/track/4Rv72ElRdcLDMi7r5ENtRz"
     },
     {
       "added_at": "2023-04-20 21:59:00",
@@ -687,22 +751,6 @@
     {
       "added_at": "2023-02-16 21:59:00",
       "album": {
-        "name": "Sugar Tits",
-        "url": "https://open.spotify.com/album/7pc2tW0f3iIfBeBjDmGQzv"
-      },
-      "artists": [
-        {
-          "name": "Elle E",
-          "url": "https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C"
-        }
-      ],
-      "duration_ms": 207018,
-      "name": "Sugar Tits",
-      "url": "https://open.spotify.com/track/4zvgJZD3bm6V4axDHFErc3"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
         "name": "Shallow Waters (25 Year Anniversary)",
         "url": "https://open.spotify.com/album/1dqY6TUiXJMyMOsQ657mw4"
       },
@@ -795,38 +843,6 @@
     {
       "added_at": "2023-02-16 21:59:00",
       "album": {
-        "name": "IN TIME",
-        "url": "https://open.spotify.com/album/4ARwLOhAqcNho5PfqJt9wl"
-      },
-      "artists": [
-        {
-          "name": "FAXXON",
-          "url": "https://open.spotify.com/artist/09g0uGvlDQ3TmMnZgjl4rf"
-        }
-      ],
-      "duration_ms": 163100,
-      "name": "IN TIME",
-      "url": "https://open.spotify.com/track/6y7Y65Klj3xweqD4aGMJeC"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "Anker",
-        "url": "https://open.spotify.com/album/1Viibdh9TgQh4TGpkmnLth"
-      },
-      "artists": [
-        {
-          "name": "Arnold Bailie",
-          "url": "https://open.spotify.com/artist/7xttIqt236FLfWKVsIDMxp"
-        }
-      ],
-      "duration_ms": 167061,
-      "name": "Anker",
-      "url": "https://open.spotify.com/track/7vcdnzmzZS0oNDpqLgfn3g"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
         "name": "Die Son",
         "url": "https://open.spotify.com/album/5ttZoEZPKLeJqC1fr2okSJ"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 214266,
       "name": "Die Son",
       "url": "https://open.spotify.com/track/5XN4CaqKylyeSvGRm3qKKz"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/7gx4tHQGiQWj7JP0McroDJ"
-      },
-      "artists": [
-        {
-          "name": "3's and 7's",
-          "url": "https://open.spotify.com/artist/1kVg5h8vTlaeO6BG4Tpf5H"
-        }
-      ],
-      "duration_ms": 316265,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/2FWNe8tTLt0bCJBOY9nPWc"
     }
   ],
   "unique_name": "SA Rock ",

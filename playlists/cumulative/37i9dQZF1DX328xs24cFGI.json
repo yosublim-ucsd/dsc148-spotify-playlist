@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 240440,
       "name": "Apple Pie",
       "url": "https://open.spotify.com/track/2tTWFGQ3yhXbjobnvSs5kV"
@@ -674,7 +674,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 236466,
       "name": "Negau Yoru",
       "url": "https://open.spotify.com/track/0EkZthPot9kiQ1roxjD80n"
@@ -966,6 +966,24 @@
       "duration_ms": 278118,
       "name": "W / X / Y",
       "url": "https://open.spotify.com/track/3cBghvTcQNDNkW98Y4eGaP"
+    },
+    {
+      "album": {
+        "name": "SKYWALK",
+        "url": "https://open.spotify.com/album/34T4K8s8PzTNOZ1vuBILYr"
+      },
+      "artists": [
+        {
+          "name": "Novelbright",
+          "url": "https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223186,
+      "name": "Walking with you",
+      "url": "https://open.spotify.com/track/7tGDXCPLpAScEwmqab9YZd"
     },
     {
       "album": {
@@ -1443,6 +1461,24 @@
     },
     {
       "album": {
+        "name": "\u4e16\u754c\u304c\u50d5\u3092\u5acc\u3044\u306b\u306a\u3063\u3066\u3082 (2023 ver.)",
+        "url": "https://open.spotify.com/album/0vbubUchyOq3wbOG0MZIQK"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272293,
+      "name": "\u4e16\u754c\u304c\u50d5\u3092\u5acc\u3044\u306b\u306a\u3063\u3066\u3082 (2023 ver.)",
+      "url": "https://open.spotify.com/track/4PrieVZcLYKhv90hNGt9i9"
+    },
+    {
+      "album": {
         "name": "\u540d\u524d\u306f\u7247\u60f3\u3044",
         "url": "https://open.spotify.com/album/6S12v6NjkFLwQwLxxavHY9"
       },
@@ -1490,7 +1526,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 248246,
       "name": "\u54b2\u307e\u3046",
       "url": "https://open.spotify.com/track/07kglGIdrAd9p2NdtCLEaD"
@@ -1742,7 +1778,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-19",
+      "date_removed": null,
       "duration_ms": 261546,
       "name": "\u681e",
       "url": "https://open.spotify.com/track/2Bsg6EfrmEx0x0eC8v4vuG"

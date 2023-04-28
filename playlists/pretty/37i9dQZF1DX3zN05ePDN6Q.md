@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > Tem rap nacional tem boom bap na área\. Foto: Marcão Baixada
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,354 likes - 77 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,387 likes - 77 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 76 | [Buenos Aires](https://open.spotify.com/track/0f8qfZHk9FKT3R7B3joJow) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Joe Sujera](https://open.spotify.com/artist/1l1aoY37uXAYtAZ7WESb5E), [Thiago Ticana](https://open.spotify.com/artist/6uSOJ1HLY5IS55ZHeArSIs), [Kadow](https://open.spotify.com/artist/393VRrXwPo9GrGgJd6FeWx) | [Buenos Aires](https://open.spotify.com/album/10UeldDAt6YQ5E1KZgLN6k) | 3:03 |
 | 77 | [Vida De Cinema](https://open.spotify.com/track/6pV19HgJpUnkI4cV5uqgw5) | [Gabriel Terra](https://open.spotify.com/artist/1ziLod0n75PZojB7DAJIt0), [Coliseu](https://open.spotify.com/artist/5Ydr3k96ckQsVzAWEdHf6F), [Vítor Rêgo](https://open.spotify.com/artist/3GfexUs7NHwpx7eP0VAXlS), [Paulo Arthur](https://open.spotify.com/artist/1mM60Kn9oT7soffYbS1blg) | [Vida De Cinema](https://open.spotify.com/album/5Njc5TCgFIJYOGJfjjZwul) | 3:14 |
 
-Snapshot ID: `MTY4MjA0NjA2MCwwMDAwMDAwMGRhMWUyYmViNzhhMmY3ZmRjNDVjMmZmMjNjYzhjMTZm`
+Snapshot ID: `MCw0NWU5OTQ2ZjBhZjlkODlkMjdiNDQ0NTkzNzczMDMxNTBiNGY5MTk2`

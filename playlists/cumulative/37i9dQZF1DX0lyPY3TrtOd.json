@@ -178,7 +178,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 126472,
       "name": "BACKYARD PARTY",
       "url": "https://open.spotify.com/track/59SZWfl2cuxiaJKI94LCRK"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 192648,
       "name": "Broken",
       "url": "https://open.spotify.com/track/76XZIVR8Q4EPiNnXU0z5px"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 143250,
       "name": "Chatterbox",
       "url": "https://open.spotify.com/track/0HAy07kTEUv8pRAz80tL2v"
@@ -420,6 +420,24 @@
       "duration_ms": 204548,
       "name": "Danger",
       "url": "https://open.spotify.com/track/4ndEVf5VBLF6R50eitmnNz"
+    },
+    {
+      "album": {
+        "name": "Dauw",
+        "url": "https://open.spotify.com/album/3XWGHJ9EcBq1MliY4ZBPZO"
+      },
+      "artists": [
+        {
+          "name": "Jacht",
+          "url": "https://open.spotify.com/artist/6idnmcf67erjR8vE9qLIoO"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210193,
+      "name": "Dauw",
+      "url": "https://open.spotify.com/track/1OkEUObkgoryzHRR29Zq2t"
     },
     {
       "album": {
@@ -506,7 +524,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 183962,
       "name": "Dog",
       "url": "https://open.spotify.com/track/7kHblZFLC4LZOF1lzMrR9I"
@@ -596,7 +614,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 225760,
       "name": "Electric Connect",
       "url": "https://open.spotify.com/track/72UFN3URrwusWbigHJd9zS"
@@ -856,7 +874,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 259146,
       "name": "Howl With Me",
       "url": "https://open.spotify.com/track/2m9x2CsVhMXQZW0LtBKeZk"
@@ -914,7 +932,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 256113,
       "name": "Inside Out - Kraak & Smaak Remix",
       "url": "https://open.spotify.com/track/5xuiK7v2JYO6aphlTMON3U"
@@ -976,7 +994,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 312797,
       "name": "It's Not You - Nightshade Remix",
       "url": "https://open.spotify.com/track/0AB7xxoxUjWA1yoEEx87lw"
@@ -1204,7 +1222,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 181687,
       "name": "Millennium",
       "url": "https://open.spotify.com/track/3G1nE9ZEv4eGEM48IAIv8u"
@@ -1364,10 +1382,32 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 213720,
       "name": "Nightshop",
       "url": "https://open.spotify.com/track/7xi7LUZ5ffWVIKFIhZyynw"
+    },
+    {
+      "album": {
+        "name": "No More Lies",
+        "url": "https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327217,
+      "name": "No More Lies",
+      "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
     },
     {
       "album": {
@@ -1642,7 +1682,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 345301,
       "name": "Six Hills",
       "url": "https://open.spotify.com/track/0DS6SAfdJWRmbAb1Ltl1Px"
@@ -1732,7 +1772,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 193369,
       "name": "The Hardest Cut",
       "url": "https://open.spotify.com/track/5QUhSXDrrX7euR87oeQevM"
@@ -1786,7 +1826,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 207454,
       "name": "tnght",
       "url": "https://open.spotify.com/track/0NsyX6CQK6DHIDcAaJSDNc"

@@ -4,7 +4,7 @@
 
 > Deja que estas sutiles piezas de jazz te arrullen hasta el sueño.
 
-210 songs - 11 hr 35 min
+211 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Estrellita](https://open.spotify.com/track/6WTafHZBYg3EdnYUq4K8ob) | [Julia Quincy](https://open.spotify.com/artist/4wmfIOZiwqduNeeo9lv3AS) | [Estrellita](https://open.spotify.com/album/3xHGD5TzQHhL1VA0fMWGZs) | 3:19 | 2023-03-23 |  |
 | [Evermore Street](https://open.spotify.com/track/4D5p92Sg5NATIW22l1msgN) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Evermore Street](https://open.spotify.com/album/1FOjdvtbdxKAAqB3FQ5Jg2) | 3:19 | 2023-03-23 |  |
 | [Everything I Love](https://open.spotify.com/track/2AzamFQR3qc6SK12Dt97WD) | [Lyle Walters](https://open.spotify.com/artist/6oUSakuz42Xx4Qyu4qD4qM) | [Everything I Love](https://open.spotify.com/album/20C4KS94fNfd8H1w0OWNek) | 2:28 | 2023-03-23 |  |
+| [Exactly Like You](https://open.spotify.com/track/3vBEW0nRntYnJwHxWLQRaV) | [Lyn Ardbeg](https://open.spotify.com/artist/6cUNyotmONFDiZvl8LafA6) | [Exactly Like You](https://open.spotify.com/album/7r71Jc9D1EFnVeQgxVWXoM) | 2:14 | 2023-04-27 |  |
 | [Falling In Love With Love](https://open.spotify.com/track/0ydPwnqqLcnUkJpZ7tfYiu) | [Ray Horne](https://open.spotify.com/artist/0ZHEC4FJWEfjvOsRwETzkS) | [Falling In Love With Love](https://open.spotify.com/album/3OxWfxfTgrO0oiOmmFY9qL) | 2:58 | 2023-03-23 |  |
 | [Fly Me To The Moon](https://open.spotify.com/track/4VSznnI2YHb2y2QpBHsfnY) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Fly Me To The Moon](https://open.spotify.com/album/3ySXvDzEc4bpNwjytNcoI2) | 2:31 | 2023-03-23 |  |
 | [For All We Know](https://open.spotify.com/track/46YHnrTI0ZmXBOclUDsbI3) | [Lenard Lovito](https://open.spotify.com/artist/6r8kUR60ouPwLjn42RFgPT) | [Easy Living](https://open.spotify.com/album/0IKq52PoB0XenXxkm70b16) | 3:14 | 2023-03-23 |  |
@@ -124,7 +125,7 @@
 | [Lovers](https://open.spotify.com/track/6flWLUPwiaN9FkPm6CVzZz) | [Isac Solo](https://open.spotify.com/artist/56POV7bQLxbrsbCQ7xIJuq) | [Lovers](https://open.spotify.com/album/0ohI92MObxRxyDbafFA0oS) | 2:27 | 2023-03-23 |  |
 | [Lullaby for Lilly](https://open.spotify.com/track/2hAqVQHxZrDbDYvX0rR1zZ) | [William Claeson](https://open.spotify.com/artist/0QDLHVdGZpRfw01CpFIoUZ) | [Lullaby for Lilly](https://open.spotify.com/album/11AeTqQfSfhLMqjlar2RaC) | 3:15 | 2023-03-23 |  |
 | [Melancholia](https://open.spotify.com/track/6lMI9WKqbIwxnumenEI0Iz) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Melancholia](https://open.spotify.com/album/4qJEPS5KuL1a7ynbgifQXV) | 3:26 | 2023-03-23 |  |
-| [Misty](https://open.spotify.com/track/0fGNaE47Hx1SO8kEKtkGxb) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [Misty](https://open.spotify.com/album/3zOiXs8f5OfRasBgZ7VNcJ) | 2:13 | 2023-03-23 |  |
+| [Misty](https://open.spotify.com/track/0fGNaE47Hx1SO8kEKtkGxb) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [Misty](https://open.spotify.com/album/3zOiXs8f5OfRasBgZ7VNcJ) | 2:13 | 2023-03-23 | 2023-04-28 |
 | [Moon River](https://open.spotify.com/track/3qBUFn6AgcHTI3tkg99lDD) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [Moon River](https://open.spotify.com/album/0wFFjyx3YaqOLMZnBt3CQx) | 3:31 | 2023-03-23 |  |
 | [Moonlight Serenade](https://open.spotify.com/track/6T8oRVoOGPjWq6p3HLcG45) | [Nineve Wilson](https://open.spotify.com/artist/4ab8hugVrmFzuV4AEGXHgr) | [Moonlight Serenade](https://open.spotify.com/album/4BGiEAiquVCGRpdKVTp9NG) | 3:30 | 2023-03-23 |  |
 | [My Buddy](https://open.spotify.com/track/7ghPHs5mGyk84qHcCaTPvR) | [Irvin Smith](https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE) | [My Buddy](https://open.spotify.com/album/0qsrKAuW7nZBUAC0lJkKxm) | 3:08 | 2023-03-23 |  |

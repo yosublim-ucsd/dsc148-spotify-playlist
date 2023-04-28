@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La casa dello street rap italiano. Cover: Geolier",
+  "description": "La casa dello street rap italiano. Cover: Shiva",
   "name": "Street Culto",
   "tracks": [
     {
@@ -24,6 +24,24 @@
       "duration_ms": 141904,
       "name": "#SI (feat. Tony Effe)",
       "url": "https://open.spotify.com/track/0o8RvXnvLD400LkZvwj6lC"
+    },
+    {
+      "album": {
+        "name": "100 OPPS",
+        "url": "https://open.spotify.com/album/4wYRRwVSMgQY5YBwqo67w6"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167771,
+      "name": "100 OPPS",
+      "url": "https://open.spotify.com/track/32VGaGAXpPFYh0XgmHp7lI"
     },
     {
       "album": {
@@ -294,7 +312,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 160051,
       "name": "Alleluia (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/1MboxS3hV7Wr8UVO59uRth"
@@ -1380,7 +1398,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 150000,
       "name": "Cicatrici (feat. Nabi)",
       "url": "https://open.spotify.com/track/77FQ6iMaTn7fT9IMdMnpEn"
@@ -1734,7 +1752,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 191228,
       "name": "Dancer (feat. Noizy, Rondodasosa & Capo Plaza)",
       "url": "https://open.spotify.com/track/57ubCgw0giJhVSayXBJ0xH"
@@ -1764,6 +1782,24 @@
       "duration_ms": 212430,
       "name": "DEM (feat. Artie 5ive & Tony Boy)",
       "url": "https://open.spotify.com/track/3jjbcGwL3YqNVbWcmzjMPa"
+    },
+    {
+      "album": {
+        "name": "Diario del Bando 2",
+        "url": "https://open.spotify.com/album/5MTUG1xRqcYHxuxHrS8Yr8"
+      },
+      "artists": [
+        {
+          "name": "Mikush",
+          "url": "https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163270,
+      "name": "Diario del Bando 2",
+      "url": "https://open.spotify.com/track/3stZIWWtwMg8JxBgT12YMP"
     },
     {
       "album": {
@@ -3239,7 +3275,7 @@
       "artists": [
         {
           "name": "Noizy",
-          "url": "https://open.spotify.com/artist/4A0V8wrSmivwhA6DAeQxqP"
+          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
         },
         {
           "name": "Sfera Ebbasta",
@@ -3300,6 +3336,24 @@
       "duration_ms": 156827,
       "name": "Marciapiede (con Tony Effe, Ernia & Rkomi)",
       "url": "https://open.spotify.com/track/7nz7IQI6XfGLbpLB2ZLfXr"
+    },
+    {
+      "album": {
+        "name": "MARE D'INVERNO",
+        "url": "https://open.spotify.com/album/4loYrn68GcsB61ERQMaG2J"
+      },
+      "artists": [
+        {
+          "name": "Il Ghost",
+          "url": "https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "MARE D'INVERNO",
+      "url": "https://open.spotify.com/track/4Swgi2Bhc5tOItkVV6kRWD"
     },
     {
       "album": {
@@ -4445,6 +4499,28 @@
     },
     {
       "album": {
+        "name": "Quarto di Bue",
+        "url": "https://open.spotify.com/album/2cYiDWSENKod8Ht0C13Bya"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106326,
+      "name": "Quarto di Bue",
+      "url": "https://open.spotify.com/track/2EE4ytQ5LpuyIjDircmLzQ"
+    },
+    {
+      "album": {
         "name": "QUATTERI #2",
         "url": "https://open.spotify.com/album/5rwB4fDaWfORiDU7KOhmuT"
       },
@@ -5545,6 +5621,32 @@
     },
     {
       "album": {
+        "name": "VIRUS",
+        "url": "https://open.spotify.com/album/1sLrrbc4ZAivtSdEApAi3q"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        },
+        {
+          "name": "Sine",
+          "url": "https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152142,
+      "name": "TRAPHOUSE (feat. Massimo Pericolo)",
+      "url": "https://open.spotify.com/track/6WuGf5uKp3zOEv70OuErP7"
+    },
+    {
+      "album": {
         "name": "Trendsetter",
         "url": "https://open.spotify.com/album/7BnUlh1mAu8h3t9tSvuFJz"
       },
@@ -5622,7 +5724,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 212145,
       "name": "Tuta Maphia (feat. Paky)",
       "url": "https://open.spotify.com/track/1Pw9JvFxbenEtnGRRcDvzD"
@@ -5684,7 +5786,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 147500,
       "name": "Vada come vada",
       "url": "https://open.spotify.com/track/5bJKrpclp5ZwxHjgMHQD9O"

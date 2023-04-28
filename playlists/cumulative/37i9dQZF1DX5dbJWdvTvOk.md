@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-511 songs - 21 hr 49 min
+512 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,8 @@
 | [Heimweh](https://open.spotify.com/track/3cAAUD4tggStdAti1TDQNE) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Heimweh](https://open.spotify.com/album/0NwnK3pUidy0E7dGTmnvR9) | 2:16 | 2023-04-21 |  |
 | [Hemma är vid havet](https://open.spotify.com/track/5U3u4NXauUXzsnki4PbjPC) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Hemma är vid havet](https://open.spotify.com/album/6J0FxxEmI1YFvtEKPfInUH) | 2:52 | 2023-04-21 |  |
 | [Hendaye](https://open.spotify.com/track/3q0jMagWUefdNxOX7qpYau) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [It's All For You](https://open.spotify.com/album/2hipNS989MOYmWd3Hga8GB) | 2:47 | 2023-04-21 |  |
-| [Hidden](https://open.spotify.com/track/3phR4mqdFYMEhv2EMTrq2d) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Hidden](https://open.spotify.com/album/4hqXlZoDQ5dCMQ9aR3DpQp) | 2:24 | 2023-04-21 |  |
+| [Hidden](https://open.spotify.com/track/3phR4mqdFYMEhv2EMTrq2d) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Hidden](https://open.spotify.com/album/4hqXlZoDQ5dCMQ9aR3DpQp) | 2:24 | 2023-04-21 | 2023-04-28 |
+| [Hidden](https://open.spotify.com/track/6xXgL3PxqD9B3jxDwaQotd) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Hidden](https://open.spotify.com/album/0aceUd7djbL48tUHNTEZq2) | 2:24 | 2023-04-21 |  |
 | [História De Vida](https://open.spotify.com/track/5BlHjy2MN5rPqQm89w4Jxd) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [História De Vida](https://open.spotify.com/album/1sDwjitrRLeu4jTK3Wl5RI) | 2:25 | 2023-04-21 |  |
 | [Hitchhiking](https://open.spotify.com/track/2P6Opus7hGyXkC6Pd7k1Gk) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Hitchhiking](https://open.spotify.com/album/6QfINtClurYc2Tmkcv0O8G) | 2:58 | 2023-04-21 |  |
 | [Hold Back The River](https://open.spotify.com/track/52X6M2Kp4HvpHup3tafEF5) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Hold Back The River](https://open.spotify.com/album/4mUjWwSGmnqzhLzTgqa3mH) | 2:28 | 2023-02-24 | 2023-04-22 |

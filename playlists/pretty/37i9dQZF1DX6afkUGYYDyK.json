@@ -1,12 +1,12 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 16448,
+  "num_followers": 16459,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjcwMTY2OCwwMDAwMDAwMGU4NDE2MzQxNTBmY2E4ODU4YTUxM2Y0NDM1MGFlZmJh",
+  "snapshot_id": "MCxhOTFmNTlmYWUwM2EwOTIyZmNhNDc5OWY1OTM4YThiMGNlZmRhMzYw",
   "tracks": [
     {
       "added_at": "2022-11-23 15:01:23",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Kingdom Come - The Soundtrack",
-        "url": "https://open.spotify.com/album/5HTBR75IKGcmwkgT1XXXmG"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin & Mary Mary",
-          "url": "https://open.spotify.com/artist/6bUP8NEnriCT6Uyqo5gOct"
-        }
-      ],
-      "duration_ms": 280333,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/5fj35Am6o5htd4HlOZEymW"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Nothing Else Matters",
         "url": "https://open.spotify.com/album/0w9GZohthFktowKLWmBEYq"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 327000,
       "name": "Give Thanks",
       "url": "https://open.spotify.com/track/0NZnbmbjxWKDGAUZYGDB2m"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Kingdom Come - The Soundtrack",
+        "url": "https://open.spotify.com/album/5HTBR75IKGcmwkgT1XXXmG"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin & Mary Mary",
+          "url": "https://open.spotify.com/artist/6bUP8NEnriCT6Uyqo5gOct"
+        }
+      ],
+      "duration_ms": 280333,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/5fj35Am6o5htd4HlOZEymW"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "At This Table",
-        "url": "https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6"
-      },
-      "artists": [
-        {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
-        }
-      ],
-      "duration_ms": 239932,
-      "name": "At This Table",
-      "url": "https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Thank God!",
         "url": "https://open.spotify.com/album/6D0WTJd0pUdQNy7VWfgftm"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 142151,
       "name": "Thank God!",
       "url": "https://open.spotify.com/track/67nHwqqhRlR4cxbjJSOmkz"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "At This Table",
+        "url": "https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6"
+      },
+      "artists": [
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        }
+      ],
+      "duration_ms": 239932,
+      "name": "At This Table",
+      "url": "https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -835,26 +835,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "I Won't Forget",
-        "url": "https://open.spotify.com/album/3ZDeyTbNrItTMYscutBCg7"
-      },
-      "artists": [
-        {
-          "name": "Lifepoint Worship",
-          "url": "https://open.spotify.com/artist/7GPZGfVnkGTiIq3f4E78yo"
-        },
-        {
-          "name": "Hope Darst",
-          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
-        }
-      ],
-      "duration_ms": 521973,
-      "name": "I Won't Forget (Live)",
-      "url": "https://open.spotify.com/track/1mohJvDGBQ4pury12Q3sFP"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Strength (feat. John P. Kee)",
         "url": "https://open.spotify.com/album/0VwV87060gmBGwitNcyaGT"
       },
@@ -875,6 +855,26 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "I Won't Forget",
+        "url": "https://open.spotify.com/album/3ZDeyTbNrItTMYscutBCg7"
+      },
+      "artists": [
+        {
+          "name": "Lifepoint Worship",
+          "url": "https://open.spotify.com/artist/7GPZGfVnkGTiIq3f4E78yo"
+        },
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "duration_ms": 521973,
+      "name": "I Won't Forget (Live)",
+      "url": "https://open.spotify.com/track/1mohJvDGBQ4pury12Q3sFP"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "Give Thanks",
         "url": "https://open.spotify.com/album/1lWryrB5wYLjMNjb92XsrK"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 271211,
       "name": "Give Thanks",
       "url": "https://open.spotify.com/track/0GP883AbjnoO3iTvvjzVO5"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Words & Music: John Mellencamp's Greatest Hits",
-        "url": "https://open.spotify.com/album/1Ic62GZGcdP457KLPGrwlR"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/6bKtqGGWbjz5fHiUxRpSPG"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -923,6 +907,22 @@
       "duration_ms": 419000,
       "name": "Thankful - Live",
       "url": "https://open.spotify.com/track/62xo55xXPDuNekVHmERjc0"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Words & Music: John Mellencamp's Greatest Hits",
+        "url": "https://open.spotify.com/album/1Ic62GZGcdP457KLPGrwlR"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/6bKtqGGWbjz5fHiUxRpSPG"
     },
     {
       "added_at": "2022-11-23 15:01:23",

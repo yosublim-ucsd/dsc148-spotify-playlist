@@ -491,6 +491,28 @@
     },
     {
       "album": {
+        "name": "Ando Sad",
+        "url": "https://open.spotify.com/album/3YK7JmTZQmwnSNbNv9asHS"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158875,
+      "name": "Ando Sad",
+      "url": "https://open.spotify.com/track/2kkXtrMcusksHbshFn8kPf"
+    },
+    {
+      "album": {
         "name": "Anestesia",
         "url": "https://open.spotify.com/album/2nYhva0TxRBllKxG3lqISd"
       },
@@ -1580,6 +1602,28 @@
       "duration_ms": 182542,
       "name": "Claramente",
       "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
+    },
+    {
+      "album": {
+        "name": "Clavaito",
+        "url": "https://open.spotify.com/album/04EvopsobNB5TNIzzAp0w0"
+      },
+      "artists": [
+        {
+          "name": "Chanel",
+          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
+        },
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162740,
+      "name": "Clavaito",
+      "url": "https://open.spotify.com/track/26V1bLUk0SBYkLEwl4caPR"
     },
     {
       "album": {
@@ -7277,7 +7321,7 @@
       "artists": [
         {
           "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF"
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
         }
       ],
       "date_added": "2023-02-28",
@@ -7893,6 +7937,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9date",
+        "url": "https://open.spotify.com/album/6Jf2rqjSUSC6dYTwks1g9n"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247500,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/2h7pX9EhOdpFSM0PEO9NYn"
+    },
+    {
+      "album": {
         "name": "Ram Pam Pam",
         "url": "https://open.spotify.com/album/6Wg0bZna6okQRbB6JgOEmr"
       },
@@ -7996,6 +8058,32 @@
       "duration_ms": 211892,
       "name": "Risue\u00f1a",
       "url": "https://open.spotify.com/track/277ia0CBOO47RhG7XSLj4b"
+    },
+    {
+      "album": {
+        "name": "Rom\u00e1ntica Champeta",
+        "url": "https://open.spotify.com/album/1eEgcFThThSorfmePy4VvO"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Kevin Florez",
+          "url": "https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf"
+        },
+        {
+          "name": "The Busy Twist",
+          "url": "https://open.spotify.com/artist/0jPcvO2Jz1kkvANItu53jI"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202641,
+      "name": "Rom\u00e1ntica Champeta",
+      "url": "https://open.spotify.com/track/3G6dSSbZvaBUVgXcvmXjKF"
     },
     {
       "album": {

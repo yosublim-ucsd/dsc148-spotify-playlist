@@ -1,12 +1,12 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 13180,
+  "num_followers": 13206,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjUxMTE0NCwwMDAwMDAwMDlmZTYwNWNkNzFmZDgyMmNkNDMzNzRjMTNmOGY0NGRm",
+  "snapshot_id": "MCw1MzkxNzU5NDVkNjBkZGNlYzYwODFiZjIxMDg1ODkxMDJkNjkyZTNk",
   "tracks": [
     {
       "added_at": "2023-04-26 12:12:24",
@@ -63,26 +63,6 @@
     {
       "added_at": "2023-04-26 12:12:24",
       "album": {
-        "name": "Yesteryear",
-        "url": "https://open.spotify.com/album/5XqLTTwrDqietv4GjKIXuD"
-      },
-      "artists": [
-        {
-          "name": "Snorre Kirk",
-          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
-        },
-        {
-          "name": "Michael Blicher",
-          "url": "https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ"
-        }
-      ],
-      "duration_ms": 259073,
-      "name": "Yesteryear",
-      "url": "https://open.spotify.com/track/2qbPX1fQUyknyc7cZw2L8W"
-    },
-    {
-      "added_at": "2023-04-26 12:12:24",
-      "album": {
         "name": "Remembering You",
         "url": "https://open.spotify.com/album/2bp4zghbrnrUPri3ENIItw"
       },
@@ -111,6 +91,26 @@
       "duration_ms": 240080,
       "name": "Talking to Myself",
       "url": "https://open.spotify.com/track/7igFrxdpCKiipNBySbCEW5"
+    },
+    {
+      "added_at": "2023-04-26 12:12:24",
+      "album": {
+        "name": "Yesteryear",
+        "url": "https://open.spotify.com/album/5XqLTTwrDqietv4GjKIXuD"
+      },
+      "artists": [
+        {
+          "name": "Snorre Kirk",
+          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
+        },
+        {
+          "name": "Michael Blicher",
+          "url": "https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ"
+        }
+      ],
+      "duration_ms": 259073,
+      "name": "Yesteryear",
+      "url": "https://open.spotify.com/track/2qbPX1fQUyknyc7cZw2L8W"
     },
     {
       "added_at": "2023-04-26 12:12:24",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-04-26 12:12:24",
       "album": {
-        "name": "Stream",
-        "url": "https://open.spotify.com/album/4pH0Oy0jxql2EanMDhiMde"
-      },
-      "artists": [
-        {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
-        }
-      ],
-      "duration_ms": 423813,
-      "name": "Stream",
-      "url": "https://open.spotify.com/track/16w6mm1Wg1dD9Nqkl720O0"
-    },
-    {
-      "added_at": "2023-04-26 12:12:24",
-      "album": {
         "name": "In a Deeper Sense",
         "url": "https://open.spotify.com/album/7HUtFnt2Tl5PJGhybMBAt1"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 288877,
       "name": "Spring Is in the Air",
       "url": "https://open.spotify.com/track/0c6PEeFIX4PQ20yyjwW1SE"
+    },
+    {
+      "added_at": "2023-04-26 12:12:24",
+      "album": {
+        "name": "Stream",
+        "url": "https://open.spotify.com/album/4pH0Oy0jxql2EanMDhiMde"
+      },
+      "artists": [
+        {
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+        }
+      ],
+      "duration_ms": 423813,
+      "name": "Stream",
+      "url": "https://open.spotify.com/track/16w6mm1Wg1dD9Nqkl720O0"
     },
     {
       "added_at": "2023-04-26 12:12:24",
@@ -467,6 +467,26 @@
     {
       "added_at": "2023-04-26 12:12:24",
       "album": {
+        "name": "Sunset Bird",
+        "url": "https://open.spotify.com/album/5T8RbPb2QtCTkzYpeeRYqe"
+      },
+      "artists": [
+        {
+          "name": "Ola W Jansson",
+          "url": "https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz"
+        },
+        {
+          "name": "W JAZZ TRIO",
+          "url": "https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA"
+        }
+      ],
+      "duration_ms": 119887,
+      "name": "Sunset Bird",
+      "url": "https://open.spotify.com/track/64wBIhVs4h89Zd2jwuE1B1"
+    },
+    {
+      "added_at": "2023-04-26 12:12:24",
+      "album": {
         "name": "Moods",
         "url": "https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU"
       },
@@ -487,26 +507,6 @@
       "duration_ms": 346154,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/46HQRG9kC2cX035gxnUy80"
-    },
-    {
-      "added_at": "2023-04-26 12:12:24",
-      "album": {
-        "name": "Sunset Bird",
-        "url": "https://open.spotify.com/album/5T8RbPb2QtCTkzYpeeRYqe"
-      },
-      "artists": [
-        {
-          "name": "Ola W Jansson",
-          "url": "https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz"
-        },
-        {
-          "name": "W JAZZ TRIO",
-          "url": "https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA"
-        }
-      ],
-      "duration_ms": 119887,
-      "name": "Sunset Bird",
-      "url": "https://open.spotify.com/track/64wBIhVs4h89Zd2jwuE1B1"
     },
     {
       "added_at": "2023-04-26 12:12:24",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-04-26 12:12:24",
       "album": {
-        "name": "Moon Beams",
-        "url": "https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 304466,
-      "name": "Very Early",
-      "url": "https://open.spotify.com/track/58gg22rFN1xRC2MqKkzDNq"
-    },
-    {
-      "added_at": "2023-04-26 12:12:24",
-      "album": {
         "name": "Straight, No Chaser",
         "url": "https://open.spotify.com/album/1BHwJqnHhuIryphXMZ0PMQ"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 1000600,
       "name": "Japanese Folk Song",
       "url": "https://open.spotify.com/track/5H91eWhSKcawShPDWN1Sxw"
+    },
+    {
+      "added_at": "2023-04-26 12:12:24",
+      "album": {
+        "name": "Moon Beams",
+        "url": "https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 304466,
+      "name": "Very Early",
+      "url": "https://open.spotify.com/track/58gg22rFN1xRC2MqKkzDNq"
     },
     {
       "added_at": "2023-04-26 12:12:24",
@@ -851,6 +851,22 @@
       "duration_ms": 247149,
       "name": "When the Sun Comes Out",
       "url": "https://open.spotify.com/track/6jIGf0fxuEpUR7jHr8wZNN"
+    },
+    {
+      "added_at": "2023-04-26 12:12:24",
+      "album": {
+        "name": "A Ballad for Alice",
+        "url": "https://open.spotify.com/album/1iWcq6geiresvdyp7hUajv"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "duration_ms": 178728,
+      "name": "A Ballad for Alice",
+      "url": "https://open.spotify.com/track/01gXG16eWORzNaZdTqdVWD"
     },
     {
       "added_at": "2023-04-26 12:12:24",
@@ -971,22 +987,6 @@
       "duration_ms": 309706,
       "name": "The 59th Street Bridge Song (Feelin' Groovy)",
       "url": "https://open.spotify.com/track/5UDJSBScMFdnWIz9yvScFU"
-    },
-    {
-      "added_at": "2023-04-26 12:12:24",
-      "album": {
-        "name": "A Ballad for Alice",
-        "url": "https://open.spotify.com/album/1iWcq6geiresvdyp7hUajv"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
-        }
-      ],
-      "duration_ms": 178728,
-      "name": "A Ballad for Alice",
-      "url": "https://open.spotify.com/track/01gXG16eWORzNaZdTqdVWD"
     },
     {
       "added_at": "2023-04-26 12:12:24",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-04-26 12:12:24",
       "album": {
-        "name": "Dare That Dream",
-        "url": "https://open.spotify.com/album/1AdSm7UbxUBWBI0UgEteiB"
-      },
-      "artists": [
-        {
-          "name": "Estelle Perrault",
-          "url": "https://open.spotify.com/artist/7II0Oxp6gCx6MJwnWW8weP"
-        }
-      ],
-      "duration_ms": 256972,
-      "name": "You Must Believe In Spring",
-      "url": "https://open.spotify.com/track/0Dxk6UYxVDP89OKxFEGkse"
-    },
-    {
-      "added_at": "2023-04-26 12:12:24",
-      "album": {
         "name": "In Love Again",
         "url": "https://open.spotify.com/album/4mvkItBFlkQ2BUxi4kPaKl"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 177586,
       "name": "My Heart Stood Still",
       "url": "https://open.spotify.com/track/5q91yKtiubyJEFaaEvDJCD"
+    },
+    {
+      "added_at": "2023-04-26 12:12:24",
+      "album": {
+        "name": "Dare That Dream",
+        "url": "https://open.spotify.com/album/1AdSm7UbxUBWBI0UgEteiB"
+      },
+      "artists": [
+        {
+          "name": "Estelle Perrault",
+          "url": "https://open.spotify.com/artist/7II0Oxp6gCx6MJwnWW8weP"
+        }
+      ],
+      "duration_ms": 256972,
+      "name": "You Must Believe In Spring",
+      "url": "https://open.spotify.com/track/0Dxk6UYxVDP89OKxFEGkse"
     },
     {
       "added_at": "2023-04-26 12:12:24",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-04-26 12:12:24",
       "album": {
-        "name": "Simple Life",
-        "url": "https://open.spotify.com/album/6pX7bkr7XqrsEk6pJnEhLP"
-      },
-      "artists": [
-        {
-          "name": "Yoon Jong Ryul",
-          "url": "https://open.spotify.com/artist/14gyB2ipghybniP9azTd42"
-        }
-      ],
-      "duration_ms": 357621,
-      "name": "Needle and Candle",
-      "url": "https://open.spotify.com/track/7nnbMfLZgrz76xfYkDjJM7"
-    },
-    {
-      "added_at": "2023-04-26 12:12:24",
-      "album": {
         "name": "The Show Must Go On",
         "url": "https://open.spotify.com/album/6jKTnQzbrpRONtKbIt3kfo"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 187400,
       "name": "Dont Rain on My Parade",
       "url": "https://open.spotify.com/track/20IvaJ03BcSyUqGonmpRCm"
+    },
+    {
+      "added_at": "2023-04-26 12:12:24",
+      "album": {
+        "name": "Simple Life",
+        "url": "https://open.spotify.com/album/6pX7bkr7XqrsEk6pJnEhLP"
+      },
+      "artists": [
+        {
+          "name": "Yoon Jong Ryul",
+          "url": "https://open.spotify.com/artist/14gyB2ipghybniP9azTd42"
+        }
+      ],
+      "duration_ms": 357621,
+      "name": "Needle and Candle",
+      "url": "https://open.spotify.com/track/7nnbMfLZgrz76xfYkDjJM7"
     },
     {
       "added_at": "2023-04-26 12:12:24",

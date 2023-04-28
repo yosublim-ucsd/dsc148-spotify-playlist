@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring The Chainsmokers, 347aidan, Dominic Fike &amp; more!
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,379 likes - 35 songs - 1 hr 46 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,377 likes - 35 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

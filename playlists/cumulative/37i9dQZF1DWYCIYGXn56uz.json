@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Matteo Paolillo",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: CLARA",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -385,6 +385,24 @@
     },
     {
       "album": {
+        "name": "Cicatrice",
+        "url": "https://open.spotify.com/album/7fL67B6qXHYa4rRK1I2lsG"
+      },
+      "artists": [
+        {
+          "name": "CLARA",
+          "url": "https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151260,
+      "name": "Cicatrice",
+      "url": "https://open.spotify.com/track/0epSbGpKaNemoWZaVEjS9S"
+    },
+    {
+      "album": {
         "name": "Cinque giorni",
         "url": "https://open.spotify.com/album/2TLzYxJe0WkKnV1WviVhsb"
       },
@@ -488,6 +506,28 @@
       "duration_ms": 164562,
       "name": "DIRTY LOVE",
       "url": "https://open.spotify.com/track/4BEeA6vmhoslMtRqePZMny"
+    },
+    {
+      "album": {
+        "name": "DISCO DANCE",
+        "url": "https://open.spotify.com/album/3kS4dybdb45EishQ2DxFvI"
+      },
+      "artists": [
+        {
+          "name": "gIANMARIA",
+          "url": "https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1"
+        },
+        {
+          "name": "Francesca Michielin",
+          "url": "https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182880,
+      "name": "DISCO DANCE",
+      "url": "https://open.spotify.com/track/2Er6snDRbWiaoag3n7fOTS"
     },
     {
       "album": {
@@ -647,6 +687,24 @@
     },
     {
       "album": {
+        "name": "Favole all'alba",
+        "url": "https://open.spotify.com/album/1Ibtmefy3hsMJYJjB9jiOE"
+      },
+      "artists": [
+        {
+          "name": "Coron",
+          "url": "https://open.spotify.com/artist/29eIf9x9g7Gr8zhW5kLSax"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170632,
+      "name": "Favole all'alba",
+      "url": "https://open.spotify.com/track/643Xnq3NRexYXtXdlFeiBf"
+    },
+    {
+      "album": {
         "name": "fiume di parole",
         "url": "https://open.spotify.com/album/1vfdwQ7JuTqGrWdYjJQEAp"
       },
@@ -706,7 +764,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 171085,
       "name": "GENERAZIONE Z",
       "url": "https://open.spotify.com/track/2eIZENRFcJPL14ScPKwYO1"
@@ -746,6 +804,28 @@
       "duration_ms": 186078,
       "name": "Giovane e triste",
       "url": "https://open.spotify.com/track/56WecW5HnWstqg0GvhseEP"
+    },
+    {
+      "album": {
+        "name": "GLORIA",
+        "url": "https://open.spotify.com/album/4oJn7mM9OaDqOaffvkW5PW"
+      },
+      "artists": [
+        {
+          "name": "Cyrus Yung",
+          "url": "https://open.spotify.com/artist/5ntvgaFmaJr8rNJHOZMpNH"
+        },
+        {
+          "name": "Sissi",
+          "url": "https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175844,
+      "name": "Goccia (feat. Sissi)",
+      "url": "https://open.spotify.com/track/4MYgRIZmue4SNzhMw0mxiE"
     },
     {
       "album": {
@@ -1220,7 +1300,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 182000,
       "name": "MI ODIAVO",
       "url": "https://open.spotify.com/track/0nuek47aUtoaF65sNqKhD5"
@@ -1256,7 +1336,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 195229,
       "name": "Milano dannata",
       "url": "https://open.spotify.com/track/2cXh3ehVTlvWjcAb7aLELE"
@@ -1292,7 +1372,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 175826,
       "name": "MOSTRO",
       "url": "https://open.spotify.com/track/2AzbPKN2Vf3CUukNZGnjYx"
@@ -1627,7 +1707,7 @@
     },
     {
       "album": {
-        "name": "Per Averti (feat. Rkomi)",
+        "name": "PER AVERTI (feat. Rkomi)",
         "url": "https://open.spotify.com/album/4ZXWhGsqfY4pyJIxmN53Kp"
       },
       "artists": [
@@ -1644,7 +1724,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 207058,
-      "name": "Per Averti (feat. Rkomi)",
+      "name": "PER AVERTI (feat. Rkomi)",
       "url": "https://open.spotify.com/track/6oHLm5t10rVyFzTdYu0xGx"
     },
     {
@@ -1700,7 +1780,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 158333,
       "name": "Polmone",
       "url": "https://open.spotify.com/track/3B3e3hmedTQThdjlKEKybi"
@@ -1957,6 +2037,36 @@
     },
     {
       "album": {
+        "name": "Storia Stupida",
+        "url": "https://open.spotify.com/album/1UVVFhQwRZpfG0HzSns7Ur"
+      },
+      "artists": [
+        {
+          "name": "Werdn",
+          "url": "https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC"
+        },
+        {
+          "name": "Bipolar",
+          "url": "https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di"
+        },
+        {
+          "name": "Sbale",
+          "url": "https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU"
+        },
+        {
+          "name": "Ardia",
+          "url": "https://open.spotify.com/artist/71H4k0XU2SGct9RvpvmxHS"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184880,
+      "name": "Storia Stupida",
+      "url": "https://open.spotify.com/track/14cHW9AA2QhKt9lBtNi2aZ"
+    },
+    {
+      "album": {
         "name": "Stupido",
         "url": "https://open.spotify.com/album/60bOfsjjwd0Pou97omCFhl"
       },
@@ -2044,6 +2154,24 @@
       "duration_ms": 144000,
       "name": "Toccare la luna",
       "url": "https://open.spotify.com/track/0P0OENNOGNpzra0Ma1Ur9t"
+    },
+    {
+      "album": {
+        "name": "Tu mi fai bene",
+        "url": "https://open.spotify.com/album/55VCDai04r0JFf3mySHac6"
+      },
+      "artists": [
+        {
+          "name": "Fraespo",
+          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117190,
+      "name": "Tu mi fai bene",
+      "url": "https://open.spotify.com/track/4x1fbc6RW6vTc7gLCBIDXj"
     },
     {
       "album": {

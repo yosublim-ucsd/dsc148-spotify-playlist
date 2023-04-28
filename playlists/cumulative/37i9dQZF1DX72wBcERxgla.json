@@ -869,6 +869,24 @@
     },
     {
       "album": {
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/2TLjiBB9ln1kQpKIzGapDN"
+      },
+      "artists": [
+        {
+          "name": "Cedar Wright",
+          "url": "https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191045,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/21rmrbV8sWD6G0DBErDASD"
+    },
+    {
+      "album": {
         "name": "Days of Wine and Roses",
         "url": "https://open.spotify.com/album/1mDaXUoWzlSxRkn8Griz53"
       },
@@ -2216,6 +2234,24 @@
       "duration_ms": 161677,
       "name": "In the mood for love",
       "url": "https://open.spotify.com/track/0po8JmQiM1hzuSjtMmovFn"
+    },
+    {
+      "album": {
+        "name": "In the Still of the Night",
+        "url": "https://open.spotify.com/album/4n4at7yvCzw3knrToEAd9S"
+      },
+      "artists": [
+        {
+          "name": "Seth Bluebird",
+          "url": "https://open.spotify.com/artist/1DyC6srMJye16IeKdJYplZ"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139159,
+      "name": "In the Still of the Night",
+      "url": "https://open.spotify.com/track/5pIMrMuwl2lJEG76fOF8s3"
     },
     {
       "album": {
@@ -3767,6 +3803,24 @@
     },
     {
       "album": {
+        "name": "Slowing Down",
+        "url": "https://open.spotify.com/album/4DOFbLvmNKJhD0mcEv0hUt"
+      },
+      "artists": [
+        {
+          "name": "Bernstein Square",
+          "url": "https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208777,
+      "name": "Slowing Down",
+      "url": "https://open.spotify.com/track/1aItJE8RukUc0lnMdj45FJ"
+    },
+    {
+      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/264uDpoSYiQWeHXvwQcAa0"
       },
@@ -4498,7 +4552,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 226000,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/3j2pCB15qVRN5O78T2kTmV"
@@ -4534,7 +4588,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 180000,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/5mJK27i7xPE9Whf5WdXGOx"
@@ -4898,6 +4952,24 @@
       "duration_ms": 262030,
       "name": "We'll Be Together Again",
       "url": "https://open.spotify.com/track/1EytEbVphNIhEAjLmT9E1s"
+    },
+    {
+      "album": {
+        "name": "We've Never Been Here",
+        "url": "https://open.spotify.com/album/5m8PIlJl2gw8F5iCCX8HUM"
+      },
+      "artists": [
+        {
+          "name": "Tyler Marshall",
+          "url": "https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193866,
+      "name": "We've Never Been Here",
+      "url": "https://open.spotify.com/track/4ymZ6dNuL9uXOPKztxaGti"
     },
     {
       "album": {

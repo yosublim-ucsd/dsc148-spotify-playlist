@@ -126,7 +126,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 188093,
       "name": "CAMBIA!",
       "url": "https://open.spotify.com/track/5cNJO43VKHxD0XGbkhboZu"
@@ -1016,6 +1016,24 @@
       "duration_ms": 160153,
       "name": "Pedazo De Tonto",
       "url": "https://open.spotify.com/track/2B9E5Lh019LAYrUAUZSHUA"
+    },
+    {
+      "album": {
+        "name": "Primera Cita",
+        "url": "https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186455,
+      "name": "Primera Cita",
+      "url": "https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE"
     },
     {
       "album": {

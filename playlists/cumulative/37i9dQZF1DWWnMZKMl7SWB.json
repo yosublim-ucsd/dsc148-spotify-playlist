@@ -1988,10 +1988,28 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 198095,
       "name": "Gummy Bears and Sleeping In Alone",
       "url": "https://open.spotify.com/track/6MZt6HHIWlPZeyhi1C4ysJ"
+    },
+    {
+      "album": {
+        "name": "Sea Monster",
+        "url": "https://open.spotify.com/album/3stiziFaUdaFlDL6BGD4R6"
+      },
+      "artists": [
+        {
+          "name": "Joey Pecoraro",
+          "url": "https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198095,
+      "name": "Gummy Bears and Sleeping In Alone",
+      "url": "https://open.spotify.com/track/6P9XVaETOPRPdBicqVvdfX"
     },
     {
       "album": {

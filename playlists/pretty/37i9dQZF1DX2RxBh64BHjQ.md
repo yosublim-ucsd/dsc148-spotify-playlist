@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:1K15GRZZATsCJyGJ4bYiEz">Luh Tyler</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,767,945 likes - 99 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,768,340 likes - 99 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 98 | [100 or Nun \(feat\. Tony Shhnow\)](https://open.spotify.com/track/0U6ZKypkSptN2Zlhtkbvj6) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8) | [3](https://open.spotify.com/album/1t2lMi1AXxPMo8bbCjaa3g) | 3:19 |
 | 99 | [How to Act](https://open.spotify.com/track/14cO15gZdX5HuBGdLAm0pe) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [90 Days Later](https://open.spotify.com/album/1mlRCyCB69eVNFnBQBrUQo) | 2:59 |
 
-Snapshot ID: `MTY4MjQ5MTUwOCwwMDAwMDAwMGY5OTAyZjc1ZDY1YTg0NzJhMzU3M2UyZTJhY2Q1OWIz`
+Snapshot ID: `MCwyMWFiMDY1MWQxNTA2MDA1ODA4YjUyMGQ5YjA2ZTAxYTg1YzVkYmQ1`

@@ -1,12 +1,12 @@
 {
   "description": "Dancing to electro-pop like a robot from 1984. Cover: Depeche Mode. ",
-  "num_followers": 80253,
+  "num_followers": 80423,
   "original_name": "Synthpop Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM3MTI3MCwwMDAwMDAwMDI1YTFjYTJmM2IyZGE5ZTllYTAzNGQzZmNlNmVmZjkx",
+  "snapshot_id": "MCwxMmE1NjFiYzY5MDdlNDg1MWRjNGU5ZGMxN2VjMmRmMjRkNGE1ZDIz",
   "tracks": [
     {
       "added_at": "2023-01-25 15:11:28",
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/3KuAa8Y79xlfJgYtBKbynY"
     },
     {
-      "added_at": "2023-04-27 00:53:28",
+      "added_at": "2023-04-28 01:01:00",
       "album": {
         "name": "Mistaken Identity",
         "url": "https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA"
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/2kgqupahrJpYB4r1poTXEY"
     },
     {
-      "added_at": "2023-04-27 00:53:28",
+      "added_at": "2023-04-28 01:01:00",
       "album": {
         "name": "Substance",
         "url": "https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl"
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-01-25 15:11:28",
       "album": {
-        "name": "Tom Tom Club",
-        "url": "https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu"
+        "name": "Into the Gap (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6tcBa4XORQYZBuFCILU3tX"
       },
       "artists": [
         {
-          "name": "Tom Tom Club",
-          "url": "https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo"
+          "name": "Thompson Twins",
+          "url": "https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn"
         }
       ],
-      "duration_ms": 334360,
-      "name": "Genius of Love",
-      "url": "https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef"
+      "duration_ms": 286360,
+      "name": "Hold Me Now",
+      "url": "https://open.spotify.com/track/0ELzxemxnjAasucn8Sww3m"
     },
     {
       "added_at": "2023-01-25 15:11:28",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-01-25 15:11:28",
       "album": {
+        "name": "Tom Tom Club",
+        "url": "https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu"
+      },
+      "artists": [
+        {
+          "name": "Tom Tom Club",
+          "url": "https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo"
+        }
+      ],
+      "duration_ms": 334360,
+      "name": "Genius of Love",
+      "url": "https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef"
+    },
+    {
+      "added_at": "2023-01-25 15:11:28",
+      "album": {
         "name": "First Offense",
         "url": "https://open.spotify.com/album/2cB87PuIi04CRdxhuNrRi5"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 320000,
       "name": "Sunglasses At Night",
       "url": "https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC"
-    },
-    {
-      "added_at": "2023-01-25 15:11:28",
-      "album": {
-        "name": "Into the Gap (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6tcBa4XORQYZBuFCILU3tX"
-      },
-      "artists": [
-        {
-          "name": "Thompson Twins",
-          "url": "https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn"
-        }
-      ],
-      "duration_ms": 286360,
-      "name": "Hold Me Now",
-      "url": "https://open.spotify.com/track/0ELzxemxnjAasucn8Sww3m"
     },
     {
       "added_at": "2023-01-25 15:11:28",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-01-25 15:11:28",
       "album": {
-        "name": "Night And Day",
-        "url": "https://open.spotify.com/album/01sMJCr0xosXP8uZ2djLvd"
-      },
-      "artists": [
-        {
-          "name": "Joe Jackson",
-          "url": "https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT"
-        }
-      ],
-      "duration_ms": 268200,
-      "name": "Steppin' Out",
-      "url": "https://open.spotify.com/track/2KY0QUeRY3IPuJI1gyU9BJ"
-    },
-    {
-      "added_at": "2023-01-25 15:11:28",
-      "album": {
         "name": "Obsession: The Best Of Animotion",
         "url": "https://open.spotify.com/album/5BG5Z2wbth8YRlOtlrlAFC"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 337266,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/3N7GqZMpZJW69Te1bfUTc3"
+    },
+    {
+      "added_at": "2023-01-25 15:11:28",
+      "album": {
+        "name": "Night And Day",
+        "url": "https://open.spotify.com/album/01sMJCr0xosXP8uZ2djLvd"
+      },
+      "artists": [
+        {
+          "name": "Joe Jackson",
+          "url": "https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT"
+        }
+      ],
+      "duration_ms": 268200,
+      "name": "Steppin' Out",
+      "url": "https://open.spotify.com/track/2KY0QUeRY3IPuJI1gyU9BJ"
     },
     {
       "added_at": "2023-01-25 15:11:28",

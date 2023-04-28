@@ -1425,6 +1425,28 @@
     },
     {
       "album": {
+        "name": "Tornado",
+        "url": "https://open.spotify.com/album/339rnWvetNqZTAZzxrlv35"
+      },
+      "artists": [
+        {
+          "name": "Tripcy",
+          "url": "https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn"
+        },
+        {
+          "name": "Nektunez",
+          "url": "https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158239,
+      "name": "Tornado",
+      "url": "https://open.spotify.com/track/52L1OTjUe8Zmz8xQH9HENi"
+    },
+    {
+      "album": {
         "name": "Wetin",
         "url": "https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb"
       },

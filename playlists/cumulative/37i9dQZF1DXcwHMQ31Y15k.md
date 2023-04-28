@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Ndarboy Genk
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Didik Budi
 
-150 songs - 12 hr 22 min
+152 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Cerito Loro](https://open.spotify.com/track/38Nuk68iieYHlkDS0YCKXr) | [Vita Alvia](https://open.spotify.com/artist/5zkv5DNu55fRGWGd7HGQka), [Wandra](https://open.spotify.com/artist/4HwQpZ2YlYi6CXR26ABv2C) | [Cerito Loro](https://open.spotify.com/album/0QJVkrVo41DWwJPXv4gz40) | 6:28 | 2022-05-26 | 2022-08-19 |
 | [Cerito Loro](https://open.spotify.com/track/7wS49arIx5EbhQjcC5pQ7f) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Cerito Loro](https://open.spotify.com/album/0CdPartaR6rH1H2WEHXH6K) | 6:11 | 2022-05-26 | 2022-06-10 |
 | [Cerito Loro](https://open.spotify.com/track/5WlpC5mmiCAPg2K3gRqSmT) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8), [Galih Wicaksono](https://open.spotify.com/artist/6f0rq6gDaNBhyQoeOiYrZb) | [Cerito Loro](https://open.spotify.com/album/1ybLko4XaB8e2aDJh3W87T) | 5:46 | 2022-05-26 | 2022-06-10 |
-| [Cerito Manis](https://open.spotify.com/track/7f603cY33SBaZXtzpUYGx8) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Cerito Manis](https://open.spotify.com/album/378DIDIzE8yFhkpxHQlJXq) | 4:55 | 2022-05-26 |  |
+| [Cerito Manis](https://open.spotify.com/track/7f603cY33SBaZXtzpUYGx8) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Cerito Manis](https://open.spotify.com/album/378DIDIzE8yFhkpxHQlJXq) | 4:55 | 2022-05-26 | 2023-04-28 |
 | [Cerito Manis \- Live](https://open.spotify.com/track/0syX3hRXqhIrXlIkAvu3mp) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Cerito Manis \(Live\)](https://open.spotify.com/album/1aCqINnqJaGOzNZxc4Ne0U) | 4:53 | 2022-08-25 | 2023-03-03 |
 | [Cidro 2](https://open.spotify.com/track/17yog0bsFVvumvOuux03wM) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP), [Esa Risty](https://open.spotify.com/artist/0aD7pN12w7BGMijkdG11eK) | [Cidro 2](https://open.spotify.com/album/72oOmFtjOGQNNM96ZUQ7fA) | 4:02 | 2022-05-26 |  |
 | [Cidro Asmoro](https://open.spotify.com/track/1P51HK66VRbcNtG6nzxSd0) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Cidro Asmoro](https://open.spotify.com/album/1EevLbemdKpchn5ktMEaMc) | 5:26 | 2023-01-20 |  |
@@ -75,9 +75,11 @@
 | [Madiun Ngawi](https://open.spotify.com/track/5TvIpLkrmpdacgAUlbQOFA) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Madiun Ngawi](https://open.spotify.com/album/5CYaM4Mm6H6JIXyBwKmdrx) | 5:46 | 2022-05-26 | 2022-09-16 |
 | [Mending Golek Timbang Balen\(MGTB\)](https://open.spotify.com/track/6LKFSmhIt0htvIWjAgjr8R) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Mending Golek Timbang Balen\(MGTB\)](https://open.spotify.com/album/6ui8Tm4QJu7qhf2bCgd3ZI) | 4:36 | 2022-05-26 | 2023-01-06 |
 | [Mendung Tanpo Udan](https://open.spotify.com/track/0Z54rUZ81Vn0qphFR3jXUb) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Mendung Tanpo Udan](https://open.spotify.com/album/71G3sO1tdp632dquXZFMNE) | 5:05 | 2022-05-26 |  |
+| [Mergawe](https://open.spotify.com/track/5N2z1MNzKTszoXTZmPnwgG) | [Didik Budi](https://open.spotify.com/artist/4sy1TsEotKwjBHrQGPIwzZ) | [Mergawe](https://open.spotify.com/album/3msYUmQcFQO1D01tcyNmn5) | 3:50 | 2023-04-27 |  |
 | [Minggato](https://open.spotify.com/track/0pyIRAkOApRPrYThYzv1eF) | [Vita Alvia](https://open.spotify.com/artist/5zkv5DNu55fRGWGd7HGQka) | [Minggato](https://open.spotify.com/album/35ZdXSLT9YEhRHNmTzHKP2) | 4:03 | 2022-08-14 | 2022-11-14 |
 | [Moro Moro Teko \- From "Cidro Asmoro"](https://open.spotify.com/track/2Dbdw6yYIatVj2ka3tUa8l) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Moro Moro Teko \(From "Cidro Asmoro"\)](https://open.spotify.com/album/2A3Acl80HV6wwTqFiVURi8) | 4:46 | 2022-05-26 | 2022-11-14 |
 | [Mundur Alon Alon](https://open.spotify.com/track/79mIVkf9j6wtG23QNkKfxZ) | [ILUX](https://open.spotify.com/artist/1GqTmXUOowfkWW1Ozg44bt) | [Mundur Alon Alon](https://open.spotify.com/album/6d3P0uJ5yNcZ0jkZRmIWmU) | 4:11 | 2022-05-26 |  |
+| [NEMEN](https://open.spotify.com/track/0TuttExCt1JaKvrX2DvIXU) | [Sasya Arkhisna](https://open.spotify.com/artist/3k3ezqE9kuA9gkrojBhxeS) | [NEMEN](https://open.spotify.com/album/7rKRjcEnQ3y8Ji1OK475tn) | 5:16 | 2023-04-27 |  |
 | [Neng Ngarep Moto](https://open.spotify.com/track/0CM5l5s1nmswT56EzrT7F2) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Neng Ngarep Moto](https://open.spotify.com/album/78OXxum7Wes8xs99bSuznr) | 5:55 | 2022-05-26 | 2023-03-03 |
 | [Ngapura](https://open.spotify.com/track/6kUpP1bV37DKjSiEiwvSzm) | [Gerap Gurita](https://open.spotify.com/artist/6WQC8XtUYxHrCSZlHzT2tz) | [Ngapura](https://open.spotify.com/album/1peHbBIKdEoejW32BBh7Zq) | 4:26 | 2022-05-26 | 2023-04-14 |
 | [Ngeliyo](https://open.spotify.com/track/2cFLpZRRzUt8amkXI2lJ66) | [Pendhoza](https://open.spotify.com/artist/7pv4pK2Q3iHVi0cfT1xlSQ) | [Ngeliyo](https://open.spotify.com/album/7oPQIl6KbUr9uAfbAywkOq) | 5:03 | 2023-03-15 |  |
@@ -104,7 +106,7 @@
 | [Penting Yakin \- From "Cidro Asmoro"](https://open.spotify.com/track/1wbgdqJbPE5s4Lbhytnx5R) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Penting Yakin \(From "Cidro Asmoro"\)](https://open.spotify.com/album/4IleNOgGPg2x5B7ObHtpzt) | 4:38 | 2022-05-26 | 2023-01-27 |
 | [Pingal](https://open.spotify.com/track/7oT80u93j4B5HSs2GBpT2S) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Pingal](https://open.spotify.com/album/28TKreEgcsm0NaP8eT7CHK) | 5:04 | 2022-05-26 |  |
 | [Pingal](https://open.spotify.com/track/0EdbwWWEBu587R9DsURQS0) | [Tasya Rosmala](https://open.spotify.com/artist/6YsSuDPoCeH1CghPPISWDP) | [Pingal](https://open.spotify.com/album/4J36TrflDx5KLvyi4OmHdF) | 5:05 | 2022-05-26 | 2022-08-19 |
-| [Piye Kabare](https://open.spotify.com/track/7MKuL6VuzjLAb09qLNSpDR) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Piye Kabare](https://open.spotify.com/album/28S0iNmcM3csWHIc6m9ob9) | 5:35 | 2022-05-26 |  |
+| [Piye Kabare](https://open.spotify.com/track/7MKuL6VuzjLAb09qLNSpDR) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Piye Kabare](https://open.spotify.com/album/28S0iNmcM3csWHIc6m9ob9) | 5:35 | 2022-05-26 | 2023-04-28 |
 | [Piye Kabare \- Keroncong](https://open.spotify.com/track/2NQtWhnnrkvlqmIGoZ0RSl) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Piye Kabare \(Keroncong\)](https://open.spotify.com/album/3ZDTkBf67dCJgwuDVZmgxP) | 5:39 | 2023-01-06 |  |
 | [Piye Kabarmu](https://open.spotify.com/track/0Xwy9IezFUwQhOXDDaVPhs) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Piye Kabarmu](https://open.spotify.com/album/35g5oR2BuklU5XMQ7LBlNZ) | 5:36 | 2022-06-16 |  |
 | [Prei Kanan Kiri](https://open.spotify.com/track/6P8sNmw5rUZaSrcF3SUTFT) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Prei Kanan Kiri](https://open.spotify.com/album/64EKhd4vAGVqGy4an2MKoC) | 5:20 | 2022-05-26 | 2022-08-19 |

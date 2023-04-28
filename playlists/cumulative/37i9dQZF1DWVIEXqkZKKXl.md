@@ -8,9 +8,9 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/1Me3vv09VaF0C4zTOryogb) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/06l61IvDCVAeThVR8ajgxj) | 0:00 | 2022-05-04 |  |
+| [](https://open.spotify.com/track/1Me3vv09VaF0C4zTOryogb) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/06l61IvDCVAeThVR8ajgxj) | 0:00 | 2022-05-04 | 2023-04-28 |
 | [](https://open.spotify.com/track/3Kpz1I7PzvFGZ4mAA5WDSY) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/50K9juQj3cW0vn9usw7XgM) | 0:00 | 2022-05-04 |  |
-| [](https://open.spotify.com/track/4b6B8CxuXAtmgh7eXgo5tZ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2k5K1jBDj5ynIiAhRxuuXp) | 0:00 | 2022-05-04 | 2023-04-25 |
+| [](https://open.spotify.com/track/4b6B8CxuXAtmgh7eXgo5tZ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2k5K1jBDj5ynIiAhRxuuXp) | 0:00 | 2022-05-04 |  |
 | [](https://open.spotify.com/track/62KAX5PbRgblMOiHxGK4r4) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/06l61IvDCVAeThVR8ajgxj) | 0:00 | 2022-05-04 |  |
 | [](https://open.spotify.com/track/6km40zXhkLINWLJhkgh3sU) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2k5K1jBDj5ynIiAhRxuuXp) | 0:00 | 2022-05-04 | 2023-03-28 |
 | [](https://open.spotify.com/track/7m1aeD9ZLJCTIUPDjk09KQ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2oZSF17FtHQ9sYBscQXoBe) | 0:00 | 2022-05-04 |  |

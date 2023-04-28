@@ -4,7 +4,7 @@
 
 > A collection of R&amp;B jams and viral trends feat Rihanna, Mary J\. Blige &amp; Diddy ! Cover: Coco Jones
 
-123 songs - 7 hr 6 min
+124 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [FREEDOM](https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:58 | 2022-06-09 | 2022-09-25 |
 | [Game Over \(with Queen Naija\)](https://open.spotify.com/track/1l6NtBAh7CHmV4OY4PZZs8) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Game Over \(with Queen Naija\)](https://open.spotify.com/album/6UtOcqphciSIZPqkl66UqR) | 3:28 | 2022-09-24 | 2023-02-01 |
 | [Get Free](https://open.spotify.com/track/0Vc8kuWRWUzHOcjSV5hO2G) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [The Jungle Is The Only Way Out](https://open.spotify.com/album/40L9yPrh6yD1ECI3ofNfPc) | 2:01 | 2022-06-09 |  |
+| [Good Soup](https://open.spotify.com/track/5xMWNzqWHBrUld2AIEVXoH) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Southern Delicacy](https://open.spotify.com/album/2GqVdnApGsHmQrQWX0rVY2) | 2:45 | 2023-04-27 |  |
 | [Gotta Move On \(feat\. Bryson Tiller\)](https://open.spotify.com/track/3K9IrLs25jHtvWjAAFAfav) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Gotta Move On \(feat\. Bryson Tiller\)](https://open.spotify.com/album/0JZyDPMrhPEnsuJEbVymJJ) | 2:40 | 2022-07-08 | 2023-02-28 |
 | [Hate Love](https://open.spotify.com/track/6vKX4RARRayUWTbjOAZ5u0) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [Hate Love](https://open.spotify.com/album/78byhY5U2A6DqsCxwCTKvg) | 2:34 | 2022-06-09 | 2023-02-01 |
 | [Honest](https://open.spotify.com/track/48uFORndjPzqyqqmzSjrsY) | [Airliftz](https://open.spotify.com/artist/4O2Gfcx2x2dIrFdFrrf0PY) | [Real Hustlers Only](https://open.spotify.com/album/6tmkKxNXdTLkpbowLfodkk) | 2:47 | 2022-09-02 |  |

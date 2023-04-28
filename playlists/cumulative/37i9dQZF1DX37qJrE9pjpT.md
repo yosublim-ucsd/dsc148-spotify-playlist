@@ -4,7 +4,7 @@
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Joh Makini
 
-70 songs - 4 hr 3 min
+71 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Atakuoa Nani](https://open.spotify.com/track/3QvqMNOkzolUbbhFx8aFro) | [Nay Wa Mitego](https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq), [Stamina](https://open.spotify.com/artist/1lNZxLtB9UxI8jMSabmSX7), [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8) | [Atakuoa Nani](https://open.spotify.com/album/0lXqNUGMmDkVrttr2HPbUk) | 3:11 | 2022-06-10 | 2023-01-14 |
 | [Baki Na Mimi](https://open.spotify.com/track/1J4InSOUeqLLNQPim0KaPH) | [Mr Blue](https://open.spotify.com/artist/5oNEJIZyXIfzVhOV8TC9Ok), [Dunga](https://open.spotify.com/artist/2Ii0LWGvVKuV8nB9eZMAcF) | [Baki Na Mimi](https://open.spotify.com/album/32vTe9cPeWU7HUpgwcFDA5) | 4:08 | 2022-03-28 | 2022-10-22 |
 | [Ball](https://open.spotify.com/track/2LowbYxM2uUKTkIplQdHaS) | [Chin Bees](https://open.spotify.com/artist/4gIhwhkt6pLAUC8OQRoI6q) | [Ball](https://open.spotify.com/album/5vpj7obLVDfrGZb5xPYFfy) | 3:08 | 2022-08-26 |  |
+| [Bigman](https://open.spotify.com/track/7d59EK9eqZJe33g6v7T6Ro) | [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK), [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [Bigman](https://open.spotify.com/album/6l4m6lJBRYcglztCbr8PAX) | 3:04 | 2023-04-27 |  |
 | [Birthday \- Radio Edit](https://open.spotify.com/track/0xBZyqY4wBWEXyj9iC5lXI) | [Conboi Cannabino](https://open.spotify.com/artist/10D7HPh6me5e5O1JmwHRsh), [Ibrah Nation](https://open.spotify.com/artist/6Y3OSLT5LyIKJM5cGsV0Gq) | [True Story](https://open.spotify.com/album/1wWKlSTmgntpXq6NCRvxs5) | 3:14 | 2022-03-28 |  |
 | [BLESS](https://open.spotify.com/track/2VuA20x246Ayzil4Ng1NZ9) | [iA MOS](https://open.spotify.com/artist/5iQjkWJvUP5go0LNo8Wra0), [Bk bakari](https://open.spotify.com/artist/4VW3UT2XqmrRXlfxOmaZQL) | [BLESS](https://open.spotify.com/album/6POU9Kc9rWz3NU4KEnAddP) | 2:52 | 2022-10-21 |  |
 | [Can't Get Enough](https://open.spotify.com/track/21Jy2EJECcC8FQSKiiWmAJ) | [Ronald Mkiza](https://open.spotify.com/artist/1mMBeutte2NZsxeqoNXaL1) | [Can't Get Enough](https://open.spotify.com/album/6bVAm6VNpL3EsTjagnHNdR) | 3:48 | 2022-12-09 |  |
@@ -63,7 +64,7 @@
 | [Sheria](https://open.spotify.com/track/7L5iuyfHK4MWODhjCQEmby) | [Gigy Money](https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e), [Sanja Kong](https://open.spotify.com/artist/6ube8oX1y29fz6NiNwHlqD) | [Sheria](https://open.spotify.com/album/38m6hngM75WP607GjTp3k9) | 2:58 | 2022-08-19 |  |
 | [Show Time \- Remix](https://open.spotify.com/track/6s9K8UVvOQ47lnkzTj4xYx) | [MwanaFA](https://open.spotify.com/artist/7hHFTNIoDdt8C2whsOn3d3), [Suka](https://open.spotify.com/artist/6Q61rk0Kdz5axpxzP5Mi0a) | [Show Time \(Remix\)](https://open.spotify.com/album/3MEYAjOsRLYIU52XT3z3uO) | 4:23 | 2023-04-14 |  |
 | [Sio Kwa Ubaya](https://open.spotify.com/track/3iu6HFPMKLWJpJqmhLzzih) | [MwanaFA](https://open.spotify.com/artist/7hHFTNIoDdt8C2whsOn3d3), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Sio Kwa Ubaya](https://open.spotify.com/album/1iZQP1UhukZKFSHI0Mo2LY) | 3:33 | 2022-12-09 |  |
-| [Sponsa](https://open.spotify.com/track/1H85hkPWoVJVp9MZyOowUA) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni) | [Sponsa](https://open.spotify.com/album/0jxDFi4yennWvYM9q6DDqR) | 2:45 | 2022-03-28 |  |
+| [Sponsa](https://open.spotify.com/track/1H85hkPWoVJVp9MZyOowUA) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni) | [Sponsa](https://open.spotify.com/album/0jxDFi4yennWvYM9q6DDqR) | 2:45 | 2022-03-28 | 2023-04-28 |
 | [Stamala Wajada](https://open.spotify.com/track/28kyKItAKiVLl9G1ljmT1e) | [Sela Ninja](https://open.spotify.com/artist/6iqemSjNOiy7P6OEsbGTUS) | [Stamala Wajada](https://open.spotify.com/album/2LmlYgcR3Hctbibrk0vMuD) | 1:59 | 2022-07-08 |  |
 | [Star](https://open.spotify.com/track/3pX5cqNZHI30KtXoJk7l5T) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8) | [Star](https://open.spotify.com/album/0ghnUh0FnBB7Ffh7Mh3o65) | 2:29 | 2022-04-28 |  |
 | [Step](https://open.spotify.com/track/4znb2uP2JB0Ws5cIM4ryC9) | [Moni Centrozone](https://open.spotify.com/artist/4J9pax1Vo3sb2nhlA1B5wZ), [S2kizzy](https://open.spotify.com/artist/3qnWVd92pqdPqRk7GGnuMc) | [Step](https://open.spotify.com/album/6etPKI16rigpOtRpHLwZCC) | 3:44 | 2022-06-10 | 2022-12-10 |

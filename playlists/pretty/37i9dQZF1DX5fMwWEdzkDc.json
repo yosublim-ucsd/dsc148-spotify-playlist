@@ -1,12 +1,12 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 8829,
+  "num_followers": 8855,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTQ3OTk3MSwwMDAwMDAwMDFmNjA0ZDNiOTlhNGE1YmViNWRjZTIxZDIwMWNiYjMy",
+  "snapshot_id": "MCw3MzFlNmU0ZDVmY2JjZjM2N2JhMWEyYWQ5NzlhMGE2NThiYTU5ZGEw",
   "tracks": [
     {
       "added_at": "2021-03-11 16:26:11",
@@ -387,22 +387,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "\uace0\ubc31\ud558\uae30 \uc88b\uc740 \ub0a0",
-        "url": "https://open.spotify.com/album/79AMjDleF4FaqfI3a28XdV"
-      },
-      "artists": [
-        {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
-        }
-      ],
-      "duration_ms": 228153,
-      "name": "\ube44\ubc00\ubc88\ud638 486",
-      "url": "https://open.spotify.com/track/0GtnPY1LePGHquWzIEiqMj"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "A bicycle Ride",
         "url": "https://open.spotify.com/album/4dNI0uPp7lWdClgD8hGTVg"
       },
@@ -419,18 +403,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "SO COOL",
-        "url": "https://open.spotify.com/album/44HjYZEwgtloDNyIYK4DzO"
+        "name": "\uace0\ubc31\ud558\uae30 \uc88b\uc740 \ub0a0",
+        "url": "https://open.spotify.com/album/79AMjDleF4FaqfI3a28XdV"
       },
       "artists": [
         {
-          "name": "SISTAR",
-          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
         }
       ],
-      "duration_ms": 201273,
-      "name": "So Cool",
-      "url": "https://open.spotify.com/track/4yHrnHRkY8ZEZUHPdsRno2"
+      "duration_ms": 228153,
+      "name": "\ube44\ubc00\ubc88\ud638 486",
+      "url": "https://open.spotify.com/track/0GtnPY1LePGHquWzIEiqMj"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -447,6 +431,22 @@
       "duration_ms": 279266,
       "name": "\uac70\ub9ac\uc5d0\uc11c",
       "url": "https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "SO COOL",
+        "url": "https://open.spotify.com/album/44HjYZEwgtloDNyIYK4DzO"
+      },
+      "artists": [
+        {
+          "name": "SISTAR",
+          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
+        }
+      ],
+      "duration_ms": 201273,
+      "name": "So Cool",
+      "url": "https://open.spotify.com/track/4yHrnHRkY8ZEZUHPdsRno2"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -859,22 +859,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "N001",
-        "url": "https://open.spotify.com/album/02D06vVmtmZOpeK2p3QFQS"
-      },
-      "artists": [
-        {
-          "name": "Rain",
-          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "\uc548\ub155\uc774\ub780 \ub9d0 \ub300\uc2e0",
-      "url": "https://open.spotify.com/track/6cBKZOBdcSqiDig10ubeZo"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "HEY, COME ON! - The 4th Album",
         "url": "https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 201866,
       "name": "Wild Eyes",
       "url": "https://open.spotify.com/track/5uvNlHJPu9mOcYT64rxRbl"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "N001",
+        "url": "https://open.spotify.com/album/02D06vVmtmZOpeK2p3QFQS"
+      },
+      "artists": [
+        {
+          "name": "Rain",
+          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "\uc548\ub155\uc774\ub780 \ub9d0 \ub300\uc2e0",
+      "url": "https://open.spotify.com/track/6cBKZOBdcSqiDig10ubeZo"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "\uac70\uc9d3\ub9d0",
-        "url": "https://open.spotify.com/album/4oMBjLj06m5BzRVd5PB3b5"
-      },
-      "artists": [
-        {
-          "name": "T-ARA",
-          "url": "https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8"
-        }
-      ],
-      "duration_ms": 226038,
-      "name": "\uac70\uc9d3\ub9d0 Pt. 1",
-      "url": "https://open.spotify.com/track/0jH5fSIHvf8bG0QbVZ4NlM"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "The Windows Of My Soul",
         "url": "https://open.spotify.com/album/606BZa2tirkJXRAEfOvmZu"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 238393,
       "name": "\uc0ac\ub791..\uadf8\uac8c \ubb54\ub370",
       "url": "https://open.spotify.com/track/17YZlswC4YRd6vMVkH6F5C"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "\uac70\uc9d3\ub9d0",
+        "url": "https://open.spotify.com/album/4oMBjLj06m5BzRVd5PB3b5"
+      },
+      "artists": [
+        {
+          "name": "T-ARA",
+          "url": "https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8"
+        }
+      ],
+      "duration_ms": 226038,
+      "name": "\uac70\uc9d3\ub9d0 Pt. 1",
+      "url": "https://open.spotify.com/track/0jH5fSIHvf8bG0QbVZ4NlM"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Type B (1)",
-        "url": "https://open.spotify.com/album/017upK3dMmJeQygGsuJyzC"
-      },
-      "artists": [
-        {
-          "name": "Son Dam Bi",
-          "url": "https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU"
-        }
-      ],
-      "duration_ms": 222171,
-      "name": "Saturday Night",
-      "url": "https://open.spotify.com/track/4Y5IS0sbhbm7Yrc0EFnHuj"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Double Life ; The Other Side",
         "url": "https://open.spotify.com/album/3soTGhHXEGWYJKw6aSLR98"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 252906,
       "name": "\ucc28\ub9c8...",
       "url": "https://open.spotify.com/track/1sAWuJLbUYdNdl8rrCxK5A"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Type B (1)",
+        "url": "https://open.spotify.com/album/017upK3dMmJeQygGsuJyzC"
+      },
+      "artists": [
+        {
+          "name": "Son Dam Bi",
+          "url": "https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU"
+        }
+      ],
+      "duration_ms": 222171,
+      "name": "Saturday Night",
+      "url": "https://open.spotify.com/track/4Y5IS0sbhbm7Yrc0EFnHuj"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1527,22 +1527,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Son Dam Bi Mini Album vol. 2",
-        "url": "https://open.spotify.com/album/03g00ngaa5I53sAoQiLrQL"
+        "name": "SS501 (Single) 2\uc9d1",
+        "url": "https://open.spotify.com/album/5r0EVa4QA5EHKSzFQLwFeq"
       },
       "artists": [
         {
-          "name": "Son Dam Bi",
-          "url": "https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU"
-        },
-        {
-          "name": "Eric",
-          "url": "https://open.spotify.com/artist/3q3HSjyRiHQ0AC5HSrmO4m"
+          "name": "SS501",
+          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
         }
       ],
-      "duration_ms": 241371,
-      "name": "Crazy (feat.Eric)",
-      "url": "https://open.spotify.com/track/2k89RdgmjsrEaZcMbQsLyn"
+      "duration_ms": 204973,
+      "name": "Snow Prince",
+      "url": "https://open.spotify.com/track/1RDa57Qh5kWFYUHkQuwSJa"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1559,22 +1555,6 @@
       "duration_ms": 225866,
       "name": "\uae40\ubc25",
       "url": "https://open.spotify.com/track/7tSt4Jbnml5l7MMWqxfx7f"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "SS501 (Single) 2\uc9d1",
-        "url": "https://open.spotify.com/album/5r0EVa4QA5EHKSzFQLwFeq"
-      },
-      "artists": [
-        {
-          "name": "SS501",
-          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
-        }
-      ],
-      "duration_ms": 204973,
-      "name": "Snow Prince",
-      "url": "https://open.spotify.com/track/1RDa57Qh5kWFYUHkQuwSJa"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1615,6 +1595,26 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "Son Dam Bi Mini Album vol. 2",
+        "url": "https://open.spotify.com/album/03g00ngaa5I53sAoQiLrQL"
+      },
+      "artists": [
+        {
+          "name": "Son Dam Bi",
+          "url": "https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU"
+        },
+        {
+          "name": "Eric",
+          "url": "https://open.spotify.com/artist/3q3HSjyRiHQ0AC5HSrmO4m"
+        }
+      ],
+      "duration_ms": 241371,
+      "name": "Crazy (feat.Eric)",
+      "url": "https://open.spotify.com/track/2k89RdgmjsrEaZcMbQsLyn"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "Remake Romantic 2",
         "url": "https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ"
       },
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Double Life ; The Other Side",
-        "url": "https://open.spotify.com/album/3soTGhHXEGWYJKw6aSLR98"
+        "name": "Davichi In Wonderland",
+        "url": "https://open.spotify.com/album/1nsgg32Iq4kANSRjdAxRTo"
       },
       "artists": [
         {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
         }
       ],
-      "duration_ms": 266933,
-      "name": "\uc678\uc6cc \ub450\uc138\uc694",
-      "url": "https://open.spotify.com/track/5mwewbv8nbk1rC6s8MowP1"
+      "duration_ms": 237026,
+      "name": "\uc0ac\uace0\ucce4\uc5b4\uc694",
+      "url": "https://open.spotify.com/track/6sGDd0oEWCUXA6qyvCXPjs"
     }
   ],
   "unique_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",

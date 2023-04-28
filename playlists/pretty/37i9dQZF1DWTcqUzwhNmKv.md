@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Knocked Loose on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,406,737 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,407,006 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [Let Go](https://open.spotify.com/track/2iHdiDAIYBPOqnNxVrNBYO) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Let Go](https://open.spotify.com/album/0rEiAGXHPJUbsNsKP9TfkH) | 3:50 |
 | 75 | [Harvest](https://open.spotify.com/track/4mHO98MVqhw7DeZyoNmCYG) | [Empire State Bastard](https://open.spotify.com/artist/4Lje5EOojiMe1qsGspOlDq) | [Harvest](https://open.spotify.com/album/0kSnsRmaRxJigfDeO355Gq) | 2:50 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDQ1NGFlOGZlNzI1M2IxZTJkOWVmZWIyZGQyNDUzNTBm`
+Snapshot ID: `MCwyMmY4MzRhZTA4NTUzNjA0Njc3NjljZWFhNzBiZjM1Mjc5MmM4Y2I5`

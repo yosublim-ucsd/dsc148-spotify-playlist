@@ -648,7 +648,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 243600,
       "name": "Have a Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/2Lb9nBoZ8V5GNtMOgcaF8o"
@@ -1218,6 +1218,24 @@
       "duration_ms": 190120,
       "name": "O Little Town of Bethlehem",
       "url": "https://open.spotify.com/track/7IQoSi7j7OEYJj0RsRyyJ2"
+    },
+    {
+      "album": {
+        "name": "An Oscar Peterson Christmas",
+        "url": "https://open.spotify.com/album/4lkW34BvnZk0RBZLlvDddC"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196200,
+      "name": "O Little Town Of Bethlehem",
+      "url": "https://open.spotify.com/track/7lFGTWPpGaBMxX8vjHLmLT"
     },
     {
       "album": {

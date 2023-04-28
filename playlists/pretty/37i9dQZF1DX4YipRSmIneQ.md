@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 
 > 😈 turn anywhere into a sexy club 😈
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,818 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,888 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 27 | [Boy U Nasty](https://open.spotify.com/track/4aVEsdnZrP2borAsVin48m) | [Jensen Interceptor](https://open.spotify.com/artist/30eE9RmXxzCcZKTf4N2O0e), [DJ Fuckoff](https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm) | [Dance Trax, Vol\. 36](https://open.spotify.com/album/3PanJjGGUoTU6PH9y3S1PT) | 5:32 |
 | 28 | [I'm Perfect](https://open.spotify.com/track/3YK1uAScUpCaFNCn004pm6) | [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [I'm Perfect](https://open.spotify.com/album/4l3Twapn6OepVAOHDPtmT3) | 2:46 |
 | 29 | [Pop That](https://open.spotify.com/track/1EpF7SUZOEdYXAJF6QC43Z) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Pop That](https://open.spotify.com/album/1Lr2J72KaKx1RinFIQoiEX) | 3:37 |
-| 30 | [Microdosing](https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Microdosing](https://open.spotify.com/album/1MYkpVa9Y1YCoKrlfWHjeW) | 3:58 |
-| 31 | [Tired and Sick](https://open.spotify.com/track/59rqs8yRLVyfw5CosESRQX) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [Tired and Sick](https://open.spotify.com/album/5bx8drBY6ZIOlIy5wZtb6s) | 2:52 |
+| 30 | [Tired and Sick](https://open.spotify.com/track/59rqs8yRLVyfw5CosESRQX) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [Tired and Sick](https://open.spotify.com/album/5bx8drBY6ZIOlIy5wZtb6s) | 2:52 |
+| 31 | [Microdosing](https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Microdosing](https://open.spotify.com/album/1MYkpVa9Y1YCoKrlfWHjeW) | 3:58 |
 | 32 | [Hoe](https://open.spotify.com/track/6Alnnwoyf0MVnOZME6p6TD) | [Partiboi69](https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL), [CHRIST DILLINGER](https://open.spotify.com/artist/5wtRHmD5xeAYuwxiteR5t3) | [Hoe](https://open.spotify.com/album/2CtMkQOUMEtPUiG5pSBtQl) | 4:43 |
 | 33 | [FMU \(feat\. Rico Nasty & Boys Noize\)](https://open.spotify.com/track/5AD8DWoQa4NGe2WagH4YF2) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [SEXORCISM](https://open.spotify.com/album/5IV5QYzpZA1oI7FK0HfBxL) | 2:58 |
 | 34 | [Cunty \- Wave Edit](https://open.spotify.com/track/5Dy9iOGAYzppHgWcLzZSBe) | [Kevin Aviance](https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ) | [Box of Chocolates](https://open.spotify.com/album/1iIC7QKwsTtWNRV7NxfrK5) | 4:17 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 41 | [Hypnotized](https://open.spotify.com/track/3BDAxgeGpUEUfKCbuXCyxn) | [Soraya](https://open.spotify.com/artist/6mHCVD6zJMB6lFNfg5mi7R) | [Hypnotized](https://open.spotify.com/album/0Jx1Hy8YQ5ZzGwy8DLW8Hu) | 4:25 |
 | 42 | [Dealer's Gone \- DJ\_Dave Edit](https://open.spotify.com/track/685cyLbhLOWDTbsdV5oQcQ) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme), [Von](https://open.spotify.com/artist/4I6ModFVv3BWDsjMqzYcMc) | [Dealer's Gone \- DJ\_Dave Edit](https://open.spotify.com/album/6LLGrZtEhKiX0l4wdzr6lA) | 2:52 |
 | 43 | [Taste My Body](https://open.spotify.com/track/4mbkDcR6qnklqWPtd4X3q6) | [James Indigo](https://open.spotify.com/artist/4RRL9qwT5AUFLz7Pe2ode1), [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [Taste My Body](https://open.spotify.com/album/34yCNBM4QzFbr6tIF4hZDO) | 2:14 |
-| 44 | [Voodoo Pussy](https://open.spotify.com/track/43lupyxeROVg5QmMiqa8Y0) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Whorecore](https://open.spotify.com/album/1OEDnlG9MPWboK6lk7lovy) | 3:23 |
-| 45 | [Mugler](https://open.spotify.com/track/3uqXJXVspIA6rgcciv5xFi) | [Housewife 9](https://open.spotify.com/artist/2BWlGuH1XFha6dh3IXGcJM), [Soso Zelda](https://open.spotify.com/artist/4Y4BIUg4pXSsCcCWFJHzBp) | [Mugler](https://open.spotify.com/album/0XsuV7RykFeQnTbTEdf4mF) | 2:31 |
+| 44 | [Mugler](https://open.spotify.com/track/3uqXJXVspIA6rgcciv5xFi) | [Housewife 9](https://open.spotify.com/artist/2BWlGuH1XFha6dh3IXGcJM), [Soso Zelda](https://open.spotify.com/artist/4Y4BIUg4pXSsCcCWFJHzBp) | [Mugler](https://open.spotify.com/album/0XsuV7RykFeQnTbTEdf4mF) | 2:31 |
+| 45 | [Voodoo Pussy](https://open.spotify.com/track/43lupyxeROVg5QmMiqa8Y0) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Whorecore](https://open.spotify.com/album/1OEDnlG9MPWboK6lk7lovy) | 3:23 |
 | 46 | [UP N DOWN](https://open.spotify.com/track/4yPQpupT0yMWpzXfZqrzUT) | [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [UP N DOWN](https://open.spotify.com/album/6HHLuMoKzxWyI2wYv5RmiL) | 3:17 |
 | 47 | [Dirty Work](https://open.spotify.com/track/1qbzrgjYqA84EOKisIqdz1) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [Samantha](https://open.spotify.com/artist/285mEVJq6Woe2rlEeN43AI) | [Dirty Work](https://open.spotify.com/album/3y2ujmddDnMX5L6hcMkyvT) | 2:04 |
 | 48 | [DEATH BY PUSSY](https://open.spotify.com/track/2ACsS8OzRf6Up3iySax5tV) | [DJ Fuckoff](https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm), [DJ MELL G](https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX) | [JUICY CLASS](https://open.spotify.com/album/5cLj0MKQjx66hwwwYveErJ) | 4:36 |
 | 49 | [Hummer](https://open.spotify.com/track/4ewmSKVCdsKn7YORFhDUAS) | [Juicy Romance](https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e) | [Hummer](https://open.spotify.com/album/2iT8KeGh5G7yOtdnWL3U1q) | 3:54 |
 | 50 | [High Tide \- Doss Remix](https://open.spotify.com/track/5Q7L6IfdsLqRaAtxIMDTWa) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0), [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [High Tide \(Doss Remix\)](https://open.spotify.com/album/2h2McsLfMB1ZNJywK2TRG4) | 3:43 |
 
-Snapshot ID: `MTY4MTk4NDM1OSwwMDAwMDAwMGZkYzJmZGZjZjA1ZTgyNzZiMTAxNWQ3YjE5MWI0MjIy`
+Snapshot ID: `MCw5MjY5MWUwYzUxNzdhYzEyYjA5MGQ3MDc4ODkyYThhZGVkMWRlMGQ5`

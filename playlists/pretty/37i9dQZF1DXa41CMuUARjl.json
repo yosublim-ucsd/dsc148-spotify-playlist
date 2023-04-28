@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Rita Ora & Fatboy Slim.",
-  "num_followers": 432010,
+  "num_followers": 432141,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTY2MCwwMDAwMDAwMDI0MGM0MmNkYzBhNGEwMjY4Y2EyOWZjM2Q1Mzg5NmQw",
+  "snapshot_id": "MCwzODBmNzViN2ZlN2QyYmRmYzZlOWNiYWI3YzE2YWE1M2I2Y2E1ZGE3",
   "tracks": [
     {
       "added_at": "2023-04-21 04:01:00",
@@ -707,6 +707,26 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/2HD81FIC7edc7NBQ8B5yVr"
+      },
+      "artists": [
+        {
+          "name": "Lewis Thompson",
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
+        },
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        }
+      ],
+      "duration_ms": 146692,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3D3fw7H4zK3S6prSBncAkt"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "Fucked Up",
         "url": "https://open.spotify.com/album/7wL6BICYjOeOzPauOsoKSk"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 149142,
       "name": "Fucked Up",
       "url": "https://open.spotify.com/track/1DGUyxq2FHcifMakIgDYLK"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/2HD81FIC7edc7NBQ8B5yVr"
-      },
-      "artists": [
-        {
-          "name": "Lewis Thompson",
-          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
-        },
-        {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        }
-      ],
-      "duration_ms": 146692,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/3D3fw7H4zK3S6prSBncAkt"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "No One Knows We\u2019re Dancing",
-        "url": "https://open.spotify.com/album/5PL6Zdh0OfL9SArRQ5jYdy"
-      },
-      "artists": [
-        {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
-        }
-      ],
-      "duration_ms": 249026,
-      "name": "No One Knows We\u2019re Dancing",
-      "url": "https://open.spotify.com/track/4dSgscw3VbAMGE7E7mx8kL"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Follow The Dark - Part I",
         "url": "https://open.spotify.com/album/71NWTreHzqVqeSHrP6WmzU"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 246259,
       "name": "Follow The Dark",
       "url": "https://open.spotify.com/track/3KiO6COi4F8INOuXU5Q1Wc"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "No One Knows We\u2019re Dancing",
+        "url": "https://open.spotify.com/album/5PL6Zdh0OfL9SArRQ5jYdy"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        }
+      ],
+      "duration_ms": 249026,
+      "name": "No One Knows We\u2019re Dancing",
+      "url": "https://open.spotify.com/track/4dSgscw3VbAMGE7E7mx8kL"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "When The Lights Go (Paula Tape Remix)",
-        "url": "https://open.spotify.com/album/2GYAV9jUYMJ5JscOTowfQF"
-      },
-      "artists": [
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        },
-        {
-          "name": "Paula Tape",
-          "url": "https://open.spotify.com/artist/1Yz5x25z5WOjMGQkZ1TwKh"
-        }
-      ],
-      "duration_ms": 306036,
-      "name": "When the Lights Go - Paula Tape Remix",
-      "url": "https://open.spotify.com/track/5cdMzNQeODpnf4NJvFRULs"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Another Lifetime (M\u00d2Z\u00c2MB\u00ceQ\u00daE Remix)",
         "url": "https://open.spotify.com/album/6thCEOgnRBysVnAbt27TqA"
       },
@@ -1159,22 +1139,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "On Me",
-        "url": "https://open.spotify.com/album/2AxbLKEvSaQ8VsJwwW2zrT"
-      },
-      "artists": [
-        {
-          "name": "Ilan Bluestone",
-          "url": "https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn"
-        }
-      ],
-      "duration_ms": 198170,
-      "name": "On Me",
-      "url": "https://open.spotify.com/track/51pgPWGN1PECVmBaQjWQ92"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "The Good, the Bad & the Acid",
         "url": "https://open.spotify.com/album/38nTiPUbeQQPMiEd0ITxGi"
       },
@@ -1187,22 +1151,6 @@
       "duration_ms": 349565,
       "name": "The Good, the Bad & the Acid",
       "url": "https://open.spotify.com/track/3ikwLYbhR3cq8Wej3RXETZ"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Tumda",
-        "url": "https://open.spotify.com/album/0JSdXf6dVCBO4LkCx3jRQ9"
-      },
-      "artists": [
-        {
-          "name": "Stephan Jolk",
-          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Tumda",
-      "url": "https://open.spotify.com/track/5TOlgoPRljluF62RKNcNnx"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1223,6 +1171,58 @@
       "duration_ms": 174285,
       "name": "Coke & Rum",
       "url": "https://open.spotify.com/track/47SbCzEuIxZbLbNBs21FoW"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "On Me",
+        "url": "https://open.spotify.com/album/2AxbLKEvSaQ8VsJwwW2zrT"
+      },
+      "artists": [
+        {
+          "name": "Ilan Bluestone",
+          "url": "https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn"
+        }
+      ],
+      "duration_ms": 198170,
+      "name": "On Me",
+      "url": "https://open.spotify.com/track/51pgPWGN1PECVmBaQjWQ92"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "When the Lights Go (Paula Tape Remix)",
+        "url": "https://open.spotify.com/album/2GYAV9jUYMJ5JscOTowfQF"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        },
+        {
+          "name": "Paula Tape",
+          "url": "https://open.spotify.com/artist/1Yz5x25z5WOjMGQkZ1TwKh"
+        }
+      ],
+      "duration_ms": 306036,
+      "name": "When the Lights Go - Paula Tape Remix",
+      "url": "https://open.spotify.com/track/5cdMzNQeODpnf4NJvFRULs"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Tumda",
+        "url": "https://open.spotify.com/album/0JSdXf6dVCBO4LkCx3jRQ9"
+      },
+      "artists": [
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Tumda",
+      "url": "https://open.spotify.com/track/5TOlgoPRljluF62RKNcNnx"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Immersion",
-        "url": "https://open.spotify.com/album/2cw8zMLsBzCUsQTnnqclGB"
-      },
-      "artists": [
-        {
-          "name": "Scorz",
-          "url": "https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn"
-        }
-      ],
-      "duration_ms": 206290,
-      "name": "Immersion",
-      "url": "https://open.spotify.com/track/7x0apH8s2CR1TRCijUkybe"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Gator",
         "url": "https://open.spotify.com/album/0PxSZFgvilDptwvLWieLxe"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 503073,
       "name": "Gator",
       "url": "https://open.spotify.com/track/7slSQMJ8gq2hIWXbAdmNTg"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Immersion",
+        "url": "https://open.spotify.com/album/2cw8zMLsBzCUsQTnnqclGB"
+      },
+      "artists": [
+        {
+          "name": "Scorz",
+          "url": "https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn"
+        }
+      ],
+      "duration_ms": 206290,
+      "name": "Immersion",
+      "url": "https://open.spotify.com/track/7x0apH8s2CR1TRCijUkybe"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Say No",
-        "url": "https://open.spotify.com/album/7djZxby4WB2SlDcoWj2MKj"
+        "name": "Sunbeam",
+        "url": "https://open.spotify.com/album/4ALOW7mWWUvgIpYU92hFYb"
       },
       "artists": [
         {
-          "name": "Spada",
-          "url": "https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw"
+          "name": "The Pressure",
+          "url": "https://open.spotify.com/artist/2VtyXxK4nmVyMRWrcJf8wN"
         }
       ],
-      "duration_ms": 207697,
-      "name": "Say No",
-      "url": "https://open.spotify.com/track/0blbo0zTyv13GILDV6nvG9"
+      "duration_ms": 160888,
+      "name": "Sunbeam",
+      "url": "https://open.spotify.com/track/1oKFu1naQxh16g1BgV2nBm"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1471,6 +1471,22 @@
       "duration_ms": 182270,
       "name": "Catch Your Breath",
       "url": "https://open.spotify.com/track/2PgHtsV2MWbKQoIxZJfVDL"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Say No",
+        "url": "https://open.spotify.com/album/7djZxby4WB2SlDcoWj2MKj"
+      },
+      "artists": [
+        {
+          "name": "Spada",
+          "url": "https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw"
+        }
+      ],
+      "duration_ms": 207697,
+      "name": "Say No",
+      "url": "https://open.spotify.com/track/0blbo0zTyv13GILDV6nvG9"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1551,22 +1567,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Twist Forever",
-        "url": "https://open.spotify.com/album/1MZz37y9pvRaIjl3EpnqS6"
+        "name": "The Hi",
+        "url": "https://open.spotify.com/album/1fA4ZmGkYpPmsZpl4tUeAs"
       },
       "artists": [
         {
-          "name": "Jacana People",
-          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
+          "name": "Hyenah",
+          "url": "https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu"
         },
         {
-          "name": "Antony Szmierek",
-          "url": "https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn"
+          "name": "Lazarusman",
+          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
         }
       ],
-      "duration_ms": 184025,
-      "name": "Twist Forever",
-      "url": "https://open.spotify.com/track/5836gKVpkK56OO6358MBfZ"
+      "duration_ms": 456097,
+      "name": "The Hi",
+      "url": "https://open.spotify.com/track/3s4WU81N2Da2yMuafxSuPt"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1583,6 +1599,26 @@
       "duration_ms": 125714,
       "name": "Feed Your Soul",
       "url": "https://open.spotify.com/track/2Sn3BwJnGrYyecaKauOmRB"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Twist Forever",
+        "url": "https://open.spotify.com/album/1MZz37y9pvRaIjl3EpnqS6"
+      },
+      "artists": [
+        {
+          "name": "Jacana People",
+          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
+        },
+        {
+          "name": "Antony Szmierek",
+          "url": "https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn"
+        }
+      ],
+      "duration_ms": 184025,
+      "name": "Twist Forever",
+      "url": "https://open.spotify.com/track/5836gKVpkK56OO6358MBfZ"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1607,22 +1643,18 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "The Hi",
-        "url": "https://open.spotify.com/album/1fA4ZmGkYpPmsZpl4tUeAs"
+        "name": "Gozar",
+        "url": "https://open.spotify.com/album/5AQeJCMWPNAPw8wPmZlqUW"
       },
       "artists": [
         {
-          "name": "Hyenah",
-          "url": "https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu"
-        },
-        {
-          "name": "Lazarusman",
-          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
+          "name": "Paskman",
+          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
         }
       ],
-      "duration_ms": 456097,
-      "name": "The Hi",
-      "url": "https://open.spotify.com/track/3s4WU81N2Da2yMuafxSuPt"
+      "duration_ms": 204384,
+      "name": "Gozar",
+      "url": "https://open.spotify.com/track/5pwPJceEvQK9B41jCZ7HD1"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1647,18 +1679,18 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Gozar",
-        "url": "https://open.spotify.com/album/5AQeJCMWPNAPw8wPmZlqUW"
+        "name": "Bracadu",
+        "url": "https://open.spotify.com/album/6SDzysgIusIkIfK0xkBfqt"
       },
       "artists": [
         {
-          "name": "Paskman",
-          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
+          "name": "Duke & Jones",
+          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
         }
       ],
-      "duration_ms": 204384,
-      "name": "Gozar",
-      "url": "https://open.spotify.com/track/5pwPJceEvQK9B41jCZ7HD1"
+      "duration_ms": 156190,
+      "name": "Bracadu",
+      "url": "https://open.spotify.com/track/2jt1PRnEe1E96lGJoRBT8L"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1683,22 +1715,6 @@
       "duration_ms": 514991,
       "name": "Into The Sun - Major League Djz Remix",
       "url": "https://open.spotify.com/track/2Xkj5UMenyWASplRrnKbAF"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Bracadu",
-        "url": "https://open.spotify.com/album/6SDzysgIusIkIfK0xkBfqt"
-      },
-      "artists": [
-        {
-          "name": "Duke & Jones",
-          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "Bracadu",
-      "url": "https://open.spotify.com/track/2jt1PRnEe1E96lGJoRBT8L"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1799,22 +1815,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Sunbeam",
-        "url": "https://open.spotify.com/album/4ALOW7mWWUvgIpYU92hFYb"
-      },
-      "artists": [
-        {
-          "name": "The Pressure",
-          "url": "https://open.spotify.com/artist/2VtyXxK4nmVyMRWrcJf8wN"
-        }
-      ],
-      "duration_ms": 160888,
-      "name": "Sunbeam",
-      "url": "https://open.spotify.com/track/1oKFu1naQxh16g1BgV2nBm"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "The Talker",
         "url": "https://open.spotify.com/album/3qccw4aXdXjlzTiqnMSWH4"
       },
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/5T5amvYXnuiNKG47VLuMtP"
-      },
-      "artists": [
-        {
-          "name": "BRKLYN",
-          "url": "https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw"
-        }
-      ],
-      "duration_ms": 175081,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/483ZlZtG4y2pyysb7FMYzZ"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Don't Worry Psy Happy",
         "url": "https://open.spotify.com/album/34y4zkduoX2OL2t1qdL3gs"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 220317,
       "name": "Sunfish",
       "url": "https://open.spotify.com/track/1eLsYYoiXcCVmtyeNci84B"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/5T5amvYXnuiNKG47VLuMtP"
+      },
+      "artists": [
+        {
+          "name": "BRKLYN",
+          "url": "https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw"
+        }
+      ],
+      "duration_ms": 175081,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/483ZlZtG4y2pyysb7FMYzZ"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Animosity",
-        "url": "https://open.spotify.com/album/5j4FrSKitM08EazDdgPsZG"
-      },
-      "artists": [
-        {
-          "name": "LUPA",
-          "url": "https://open.spotify.com/artist/58Y24OWJla2epBPf0toBTo"
-        }
-      ],
-      "duration_ms": 287723,
-      "name": "Our Time Will Come",
-      "url": "https://open.spotify.com/track/6lZscg4AErE4v6p2e85q8L"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Buzzing",
         "url": "https://open.spotify.com/album/1P6cgLWkMDEFw48KvYwRxY"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 187755,
       "name": "Don't Call Me Baby",
       "url": "https://open.spotify.com/track/1452RkqFM4VMMA8qdOTrnR"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Animosity",
+        "url": "https://open.spotify.com/album/5j4FrSKitM08EazDdgPsZG"
+      },
+      "artists": [
+        {
+          "name": "LUPA",
+          "url": "https://open.spotify.com/artist/58Y24OWJla2epBPf0toBTo"
+        }
+      ],
+      "duration_ms": 287723,
+      "name": "Our Time Will Come",
+      "url": "https://open.spotify.com/track/6lZscg4AErE4v6p2e85q8L"
     },
     {
       "added_at": "2023-04-21 04:01:00",

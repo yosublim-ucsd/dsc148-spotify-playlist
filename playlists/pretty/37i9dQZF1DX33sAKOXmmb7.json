@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 43879,
+  "num_followers": 43986,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMDRlYTgzMjBjYWJjMDdmODg0NTM1MDM4ODBiM2Y2MWE1",
+  "snapshot_id": "MCw5MWZiZmIyNzBiOGVjYTY3NDBmYjM1MDRhZDFhOTlhYmQzYzQxZjgw",
   "tracks": [
     {
       "added_at": "2022-02-04 21:53:01",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Little Neon Limelight",
-        "url": "https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 239881,
-      "name": "Sedona",
-      "url": "https://open.spotify.com/track/2MQhTbX792AT6YyzwLz9dt"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Punisher",
         "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 219681,
       "name": "Garden Song",
       "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Little Neon Limelight",
+        "url": "https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 239881,
+      "name": "Sedona",
+      "url": "https://open.spotify.com/track/2MQhTbX792AT6YyzwLz9dt"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 232373,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/3rJDsZjIaCfJQSqRUvl0BM"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
         "name": "Woodgate, NY",
         "url": "https://open.spotify.com/album/4HCiNoFBb2vFvySaSW2JBs"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 215493,
       "name": "My Silver Lining",
       "url": "https://open.spotify.com/track/5BkNCuxzzid0gz9sx3NNbX"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 232373,
-      "name": "Funeral",
-      "url": "https://open.spotify.com/track/3rJDsZjIaCfJQSqRUvl0BM"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Headlong",
-        "url": "https://open.spotify.com/album/0wqLLyEsGv9Lf8ztk1NKNZ"
-      },
-      "artists": [
-        {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Far Too Good",
-      "url": "https://open.spotify.com/track/1WUHeOPayLKPMG35uBJVUj"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Wild Rivers",
         "url": "https://open.spotify.com/album/4SMbqvJenspMXbcPROZsVK"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 260368,
       "name": "Heart Attack",
       "url": "https://open.spotify.com/track/1rxB5KwQlyjYqmJU2ahy6V"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Headlong",
+        "url": "https://open.spotify.com/album/0wqLLyEsGv9Lf8ztk1NKNZ"
+      },
+      "artists": [
+        {
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Far Too Good",
+      "url": "https://open.spotify.com/track/1WUHeOPayLKPMG35uBJVUj"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "The Wild Hunt",
-        "url": "https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 255853,
-      "name": "Love is All",
-      "url": "https://open.spotify.com/track/5u9NUat59IiQFVEzZ4r3Np"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "New Ways",
         "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 247266,
       "name": "Hot Tears",
       "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "The Wild Hunt",
+        "url": "https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 255853,
+      "name": "Love is All",
+      "url": "https://open.spotify.com/track/5u9NUat59IiQFVEzZ4r3Np"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Civilian",
-        "url": "https://open.spotify.com/album/2nPcgCU0oLOBRnag0zmUIS"
-      },
-      "artists": [
-        {
-          "name": "Wye Oak",
-          "url": "https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB"
-        }
-      ],
-      "duration_ms": 220917,
-      "name": "Civilian",
-      "url": "https://open.spotify.com/track/3wqMCDKWWYHnPLldMskKHe"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "I Speak Because I Can",
         "url": "https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 247123,
       "name": "What He Wrote",
       "url": "https://open.spotify.com/track/2CTOa3CEBts3p1NyTVLTXU"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Civilian",
+        "url": "https://open.spotify.com/album/2nPcgCU0oLOBRnag0zmUIS"
+      },
+      "artists": [
+        {
+          "name": "Wye Oak",
+          "url": "https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB"
+        }
+      ],
+      "duration_ms": 220917,
+      "name": "Civilian",
+      "url": "https://open.spotify.com/track/3wqMCDKWWYHnPLldMskKHe"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
+        "name": "Turn Out the Lights",
+        "url": "https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "duration_ms": 273466,
+      "name": "Appointments",
+      "url": "https://open.spotify.com/track/3jt1ZVIuluGkV0sWWLSUzw"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
         "name": "Love Songs For Robots",
         "url": "https://open.spotify.com/album/4MdPpRGC3wjAI23bXGClnZ"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 303386,
       "name": "Helplessness Blues",
       "url": "https://open.spotify.com/track/02VdHwnGhy5fTW2CTZkYsb"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
-        "name": "Turn Out the Lights",
-        "url": "https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 273466,
-      "name": "Appointments",
-      "url": "https://open.spotify.com/track/3jt1ZVIuluGkV0sWWLSUzw"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Joan Shelley",
-        "url": "https://open.spotify.com/album/4VHpVi7PChqkW5ydU9yX8n"
-      },
-      "artists": [
-        {
-          "name": "Joan Shelley",
-          "url": "https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw"
-        }
-      ],
-      "duration_ms": 194066,
-      "name": "Where I\u2019ll Find You",
-      "url": "https://open.spotify.com/track/3HAhYAuSLAxYAMSxFjx29f"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Two Hands",
         "url": "https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 367093,
       "name": "Not",
       "url": "https://open.spotify.com/track/7lrhugjSbiImrNSLIFIq0c"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Joan Shelley",
+        "url": "https://open.spotify.com/album/4VHpVi7PChqkW5ydU9yX8n"
+      },
+      "artists": [
+        {
+          "name": "Joan Shelley",
+          "url": "https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw"
+        }
+      ],
+      "duration_ms": 194066,
+      "name": "Where I\u2019ll Find You",
+      "url": "https://open.spotify.com/track/3HAhYAuSLAxYAMSxFjx29f"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1959,18 +1959,18 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Hannah",
-        "url": "https://open.spotify.com/album/0xyYtBmta0jBeqXOJsocSJ"
+        "name": "Not Even Happiness",
+        "url": "https://open.spotify.com/album/1ZgvdUee6cQ0NCDHfKxbH0"
       },
       "artists": [
         {
-          "name": "Lomelda",
-          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
+          "name": "Julie Byrne",
+          "url": "https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV"
         }
       ],
-      "duration_ms": 208382,
-      "name": "Hannah Sun",
-      "url": "https://open.spotify.com/track/4neuBR5NvjaYqAfj2vPbig"
+      "duration_ms": 242387,
+      "name": "Follow My Voice",
+      "url": "https://open.spotify.com/track/3yQ7OQoOtzVgBNEJ8i7Vcs"
     }
   ],
   "unique_name": "10s Indie Folk",

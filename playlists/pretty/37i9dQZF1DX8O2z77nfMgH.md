@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Kim Loaiza y Lit Killah
 
-[Spotify](https://open.spotify.com/user/spotify) - 930,523 likes - 76 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 930,606 likes - 76 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 31 | [Si Tú Me Quieres](https://open.spotify.com/track/6EjZfW6C5msXQNaf1kquu7) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Si Tú Me Quieres](https://open.spotify.com/album/74rEKU2G8oF2VRMjd14IcY) | 3:24 |
 | 32 | [Yo Sabré Qué Hacer](https://open.spotify.com/track/0t73UshN8WwtgM6VPxz8Yb) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Vetusta Morla](https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8) | [Yo Sabré Qué Hacer](https://open.spotify.com/album/1Em5tVCOcTebi6IQVdPN5k) | 3:28 |
 | 33 | [Secuestro De Amor](https://open.spotify.com/track/1bjFNKtbXmavvcAIMnSJFi) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Secuestro De Amor](https://open.spotify.com/album/5tlAgf8YtdhvwcJihsF1dV) | 3:42 |
-| 34 | [People \(feat\. Becky G\)](https://open.spotify.com/track/40OZkN8qle7lxaovVrn1QY) | [Libianca](https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [People \(feat\. Becky G\) \[Remixes\]](https://open.spotify.com/album/49TVWS0iWtQ7ZAQFzqqpoB) | 3:22 |
+| 34 | [People \(feat\. Becky G\)](https://open.spotify.com/track/40OZkN8qle7lxaovVrn1QY) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [People \(feat\. Becky G\) \[Remixes\]](https://open.spotify.com/album/49TVWS0iWtQ7ZAQFzqqpoB) | 3:22 |
 | 35 | [Groove](https://open.spotify.com/track/0n1pZSNV61doP2n3wRgMnu) | [LA FIRMA](https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q), [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [BAILA CONMIGO](https://open.spotify.com/album/38nLuVtvsMeM6Ab1AFdctz) | 2:18 |
 | 36 | [WAPAE \(feat\. Angel Dior, Lenier, & Bulin 47\)](https://open.spotify.com/track/556h1n7la5iyZHcrv4kJMC) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy) | [WAPAE \(feat\. Angel Dior, Lenier, & Bulin 47\)](https://open.spotify.com/album/2En0vH2nqSia8vj0y47Ora) | 2:57 |
 | 37 | [Finco](https://open.spotify.com/track/6NVFuumCpy1nPONpswTAbs) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [Finco](https://open.spotify.com/album/6YJdI31PB549c5nlDL12Gu) | 2:57 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 75 | [Planejei \- Ao Vivo](https://open.spotify.com/track/0tt0kaL2vefCw19a2bk54N) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Original, EP 1 \(Ao Vivo\)](https://open.spotify.com/album/7rm682SIO62xtzYeJ8Aqxs) | 3:37 |
 | 76 | [Maridão \(feat\. Kizzy & Feek\)](https://open.spotify.com/track/66H84rhrbf31Tm8Mv9GAtJ) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic), [Feek](https://open.spotify.com/artist/7rVT3dNwCamCtw5rC7salV) | [Maridão \(feat\. Kizzy & Feek\)](https://open.spotify.com/album/0aSsD1WItij77UITRQNCxP) | 5:22 |
 
-Snapshot ID: `MTY4MjEwNTMxMiwwMDAwMDAwMGExMjIwNjEzZTM4ZjNjN2NmYjYxN2RhMDU2NTZmYWZj`
+Snapshot ID: `MCwxNDY3MDM3MmU5OTBkMGI2ODM0ZWRlYzZlZmFjOTcwNjJhMjQwYWNi`

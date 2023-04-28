@@ -4,7 +4,7 @@
 
 > ❤️ o 💔
 
-169 songs - 9 hr 49 min
+170 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Digame Usted](https://open.spotify.com/track/5ePqRYI7zlRq7xCDfO3cJ7) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Digame Usted](https://open.spotify.com/album/4Vg4wY0Q2AbagHXRzfRENF) | 2:21 | 2021-12-03 |  |
 | [Dime al Oído](https://open.spotify.com/track/7wQXTBpseYNCs61ODmEJfk) | [Rhino](https://open.spotify.com/artist/417ZD7de71arr4uRiyPAi3) | [Dime al Oído](https://open.spotify.com/album/0NRqcJWIOumhKAfHAIwzBJ) | 2:51 | 2021-12-03 | 2022-07-18 |
 | [Dime Cuantas Veces](https://open.spotify.com/track/4t8YQE2FIpTIq9SxeuOuuP) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Dime Cuantas Veces](https://open.spotify.com/album/1wSMAcEuohxdQXrz8uBzqd) | 3:33 | 2021-12-03 |  |
+| [Dime Si Te Acuerdas](https://open.spotify.com/track/3kG1jgWIDmjJkXhOiOmioO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Dime Si Te Acuerdas](https://open.spotify.com/album/3rnV3xx6ipgydVX9ADJKh1) | 3:07 | 2022-12-09 |  |
 | [Dime Si Te Acuerdas](https://open.spotify.com/track/49VSioK272TASR4r9vRTuP) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Dime Si Te Acuerdas](https://open.spotify.com/album/7bReg7MjaCiExgYT33EYuZ) | 3:07 | 2021-12-03 | 2022-07-29 |
 | [Dm](https://open.spotify.com/track/396ixTcpiq8mNGclHGN8wK) | [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ) | [Dm](https://open.spotify.com/album/6O70yx4czqjAihGB4hcnaD) | 4:04 | 2021-12-03 | 2022-07-21 |
 | [Dos Mil 16](https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:28 | 2022-05-06 |  |
@@ -126,7 +127,7 @@
 | [Percocet \- Remix](https://open.spotify.com/track/7H6OwsBoSI4BVWm5M7MTOQ) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Chris Wandell](https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX) | [Percocet \(Remix\)](https://open.spotify.com/album/25lYUX9rZOX0zUUjuso6x1) | 5:14 | 2021-12-03 |  |
 | [Perdóname](https://open.spotify.com/track/4Uy3Q3h0VbWWyyiB1MmRoP) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Perdóname](https://open.spotify.com/album/1ubG8FgnbKhzMT62uRl50W) | 2:42 | 2021-12-03 | 2022-07-29 |
 | [Perdóname](https://open.spotify.com/track/6jwcchNlcoMZFa0EwfKga6) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Perdóname](https://open.spotify.com/album/4NKcodEVVaqancpvvNYkdU) | 2:43 | 2022-06-18 |  |
-| [Pero Ya No](https://open.spotify.com/track/75pQqzwgCjUOSSy5CpmAjy) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:40 | 2021-12-03 |  |
+| [Pero Ya No](https://open.spotify.com/track/75pQqzwgCjUOSSy5CpmAjy) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:40 | 2021-12-03 | 2023-04-28 |
 | [Prefiero](https://open.spotify.com/track/1WrVjFkswM2JthLruEiCoD) | [Jere Profeta](https://open.spotify.com/artist/1relyDsZ39v8wnCAETwwF2), [Mks](https://open.spotify.com/artist/6v36LGGRNEleSpAd2zAeQL) | [Prefiero](https://open.spotify.com/album/0NkOhSaCHPr2x5brYhu3pF) | 3:13 | 2021-12-03 | 2022-07-28 |
 | [Primera Vez](https://open.spotify.com/track/0jRnQ0qTi3BRei6p0AunAH) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:09 | 2021-12-03 |  |
 | [Pálida](https://open.spotify.com/track/2G79QDw6dd7sdppfyAf2tQ) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [Pálida](https://open.spotify.com/album/4uYwoI1en0Kz8GreBrvYaI) | 3:34 | 2021-12-03 |  |

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica navide\u00f1a para celebrar el nacimiento de nuestro Salvador.",
-  "num_followers": 32088,
+  "num_followers": 32086,
   "original_name": "Navidad Cristiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDcxMzI3OCwwMDAwMDAwMDk0MzE5NWVlNzE0ZTQxMzRhMDQwYjM4MTg1YmE4MGQx",
+  "snapshot_id": "MCxhYzhlNDlhNDdiYmEzMTMwM2VhZDgzYTZjODFkMzFhODZhYTBhM2Zk",
   "tracks": [
     {
       "added_at": "2022-12-10 23:01:18",
@@ -479,38 +479,6 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
-        "name": "Es Navidad",
-        "url": "https://open.spotify.com/album/5tukg2l5VZkxI7fL0JeL2s"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 290089,
-      "name": "Es Navidad",
-      "url": "https://open.spotify.com/track/6GCvzp8XtG6dCMYcnve8r5"
-    },
-    {
-      "added_at": "2022-12-10 23:01:18",
-      "album": {
-        "name": "De Bel\u00e9n a Jerusal\u00e9n",
-        "url": "https://open.spotify.com/album/0Hp4uKftPNw2I1C2hjCWCL"
-      },
-      "artists": [
-        {
-          "name": "Jesus Worship Center",
-          "url": "https://open.spotify.com/artist/7a3pl7rscg69ZvDpmLb8BI"
-        }
-      ],
-      "duration_ms": 249375,
-      "name": "De Bel\u00e9n a Jerusal\u00e9n",
-      "url": "https://open.spotify.com/track/3EZasVLqN6bkIp4xDkUXpT"
-    },
-    {
-      "added_at": "2022-12-10 23:01:18",
-      "album": {
         "name": "Emmanuel (Radio Version)",
         "url": "https://open.spotify.com/album/0FNDIjl0hgxR1c1t9p4WYz"
       },
@@ -535,6 +503,38 @@
       "duration_ms": 292223,
       "name": "Emmanuel - Radio Version",
       "url": "https://open.spotify.com/track/4xK5WBymQU0EqDl52bWtDm"
+    },
+    {
+      "added_at": "2022-12-10 23:01:18",
+      "album": {
+        "name": "De Bel\u00e9n a Jerusal\u00e9n",
+        "url": "https://open.spotify.com/album/0Hp4uKftPNw2I1C2hjCWCL"
+      },
+      "artists": [
+        {
+          "name": "Jesus Worship Center",
+          "url": "https://open.spotify.com/artist/7a3pl7rscg69ZvDpmLb8BI"
+        }
+      ],
+      "duration_ms": 249375,
+      "name": "De Bel\u00e9n a Jerusal\u00e9n",
+      "url": "https://open.spotify.com/track/3EZasVLqN6bkIp4xDkUXpT"
+    },
+    {
+      "added_at": "2022-12-10 23:01:18",
+      "album": {
+        "name": "Es Navidad",
+        "url": "https://open.spotify.com/album/5tukg2l5VZkxI7fL0JeL2s"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 290089,
+      "name": "Es Navidad",
+      "url": "https://open.spotify.com/track/6GCvzp8XtG6dCMYcnve8r5"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -571,18 +571,18 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
-        "name": "Lucecitas",
-        "url": "https://open.spotify.com/album/6yTGTLZ9sMu7Xdn5JSMsQ9"
+        "name": "Es Navidad",
+        "url": "https://open.spotify.com/album/6qmgIAF2ZmcFfRLfLnvZ9H"
       },
       "artists": [
         {
-          "name": "Banda Montreal",
-          "url": "https://open.spotify.com/artist/474ajACVnzDvuItIDa85Ym"
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
         }
       ],
-      "duration_ms": 190645,
-      "name": "Lucecitas",
-      "url": "https://open.spotify.com/track/5PbplvTBAlYL6TlAWlY3Jh"
+      "duration_ms": 197877,
+      "name": "Este Es Mi A\u00f1o",
+      "url": "https://open.spotify.com/track/7iCUX9L2e5kIo0TvOkbeRb"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -603,18 +603,18 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
-        "name": "Es Navidad",
-        "url": "https://open.spotify.com/album/6qmgIAF2ZmcFfRLfLnvZ9H"
+        "name": "Lucecitas",
+        "url": "https://open.spotify.com/album/6yTGTLZ9sMu7Xdn5JSMsQ9"
       },
       "artists": [
         {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+          "name": "Banda Montreal",
+          "url": "https://open.spotify.com/artist/474ajACVnzDvuItIDa85Ym"
         }
       ],
-      "duration_ms": 197877,
-      "name": "Este Es Mi A\u00f1o",
-      "url": "https://open.spotify.com/track/7iCUX9L2e5kIo0TvOkbeRb"
+      "duration_ms": 190645,
+      "name": "Lucecitas",
+      "url": "https://open.spotify.com/track/5PbplvTBAlYL6TlAWlY3Jh"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -747,22 +747,18 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
-        "name": "Naci\u00f3 el Rey",
-        "url": "https://open.spotify.com/album/24YTbeEZJR3E1M08pPtitd"
+        "name": "Es Navidad",
+        "url": "https://open.spotify.com/album/6qmgIAF2ZmcFfRLfLnvZ9H"
       },
       "artists": [
         {
-          "name": "Banda Horizonte",
-          "url": "https://open.spotify.com/artist/0pz6e3IHzy4l6EqToyrTfJ"
-        },
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
         }
       ],
-      "duration_ms": 193282,
-      "name": "Es Navidad (feat. Marcos Witt)",
-      "url": "https://open.spotify.com/track/1IkIKQlgRYm45BLwxLUvBP"
+      "duration_ms": 251951,
+      "name": "Es Navidad",
+      "url": "https://open.spotify.com/track/0rRdEddErYghJMBrrIeGGp"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -783,22 +779,6 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
-        "name": "Es Navidad",
-        "url": "https://open.spotify.com/album/6qmgIAF2ZmcFfRLfLnvZ9H"
-      },
-      "artists": [
-        {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
-        }
-      ],
-      "duration_ms": 251951,
-      "name": "Es Navidad",
-      "url": "https://open.spotify.com/track/0rRdEddErYghJMBrrIeGGp"
-    },
-    {
-      "added_at": "2022-12-10 23:01:18",
-      "album": {
         "name": "Oh ven, Emanuel",
         "url": "https://open.spotify.com/album/0QHibQsKvZz76UCLpNR9gV"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 254891,
       "name": "Oh ven, Emanuel",
       "url": "https://open.spotify.com/track/04LgjXIG0KBOHTbMbhsOcC"
+    },
+    {
+      "added_at": "2022-12-10 23:01:18",
+      "album": {
+        "name": "Naci\u00f3 el Rey",
+        "url": "https://open.spotify.com/album/24YTbeEZJR3E1M08pPtitd"
+      },
+      "artists": [
+        {
+          "name": "Banda Horizonte",
+          "url": "https://open.spotify.com/artist/0pz6e3IHzy4l6EqToyrTfJ"
+        },
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 193282,
+      "name": "Es Navidad (feat. Marcos Witt)",
+      "url": "https://open.spotify.com/track/1IkIKQlgRYm45BLwxLUvBP"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -959,8 +959,8 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
-        "name": "Mi Navidad",
-        "url": "https://open.spotify.com/album/2Bqepx8hJWH9jySZciy8iu"
+        "name": "Navidad Con V\u00e1stago",
+        "url": "https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt"
       },
       "artists": [
         {
@@ -968,9 +968,9 @@
           "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
         }
       ],
-      "duration_ms": 183857,
-      "name": "Mi Navidad",
-      "url": "https://open.spotify.com/track/64qQzNoR6WrZbG9KtaxBg9"
+      "duration_ms": 221493,
+      "name": "Solo T\u00fa",
+      "url": "https://open.spotify.com/track/2g5V0AzN97VdlSEjavoru4"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -991,6 +991,54 @@
       "duration_ms": 254653,
       "name": "Voy Subiendo (feat. Alex Zurdo)",
       "url": "https://open.spotify.com/track/2KzMozFxhwriwfEU2GQNah"
+    },
+    {
+      "added_at": "2022-12-10 23:01:18",
+      "album": {
+        "name": "Naci\u00f3 el Rey",
+        "url": "https://open.spotify.com/album/24YTbeEZJR3E1M08pPtitd"
+      },
+      "artists": [
+        {
+          "name": "Banda Horizonte",
+          "url": "https://open.spotify.com/artist/0pz6e3IHzy4l6EqToyrTfJ"
+        }
+      ],
+      "duration_ms": 227671,
+      "name": "Venid y Adoremos",
+      "url": "https://open.spotify.com/track/1lKX9IpaC0ntowPrpX8Nk0"
+    },
+    {
+      "added_at": "2022-12-10 23:01:18",
+      "album": {
+        "name": "Esta Navidad",
+        "url": "https://open.spotify.com/album/5W9SM2KjCgepbewRGFPGMt"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Miguez",
+          "url": "https://open.spotify.com/artist/2bbaAx3d1D2AuP89ebeAY6"
+        }
+      ],
+      "duration_ms": 181690,
+      "name": "Esta Navidad",
+      "url": "https://open.spotify.com/track/2hiGFRS2dwXGIsHwkXn1Hy"
+    },
+    {
+      "added_at": "2022-12-10 23:01:18",
+      "album": {
+        "name": "Navidad Con V\u00e1stago",
+        "url": "https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt"
+      },
+      "artists": [
+        {
+          "name": "Damaris Fraire",
+          "url": "https://open.spotify.com/artist/7zgMLLbT4cYJ46Yos8gUQC"
+        }
+      ],
+      "duration_ms": 263133,
+      "name": "Dios Con Nosotros",
+      "url": "https://open.spotify.com/track/6ouy9GxN9kxSMGtWbCSEbn"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -1031,54 +1079,6 @@
       "duration_ms": 186792,
       "name": "Venid Fieles Todos",
       "url": "https://open.spotify.com/track/7B93yC2pb1Tv6PX7I8PzbQ"
-    },
-    {
-      "added_at": "2022-12-10 23:01:18",
-      "album": {
-        "name": "Esta Navidad",
-        "url": "https://open.spotify.com/album/5W9SM2KjCgepbewRGFPGMt"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Miguez",
-          "url": "https://open.spotify.com/artist/2bbaAx3d1D2AuP89ebeAY6"
-        }
-      ],
-      "duration_ms": 181690,
-      "name": "Esta Navidad",
-      "url": "https://open.spotify.com/track/2hiGFRS2dwXGIsHwkXn1Hy"
-    },
-    {
-      "added_at": "2022-12-10 23:01:18",
-      "album": {
-        "name": "Navidad Con V\u00e1stago",
-        "url": "https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt"
-      },
-      "artists": [
-        {
-          "name": "Damaris Fraire",
-          "url": "https://open.spotify.com/artist/7zgMLLbT4cYJ46Yos8gUQC"
-        }
-      ],
-      "duration_ms": 263133,
-      "name": "Dios Con Nosotros",
-      "url": "https://open.spotify.com/track/6ouy9GxN9kxSMGtWbCSEbn"
-    },
-    {
-      "added_at": "2022-12-10 23:01:18",
-      "album": {
-        "name": "Naci\u00f3 el Rey",
-        "url": "https://open.spotify.com/album/24YTbeEZJR3E1M08pPtitd"
-      },
-      "artists": [
-        {
-          "name": "Banda Horizonte",
-          "url": "https://open.spotify.com/artist/0pz6e3IHzy4l6EqToyrTfJ"
-        }
-      ],
-      "duration_ms": 227671,
-      "name": "Venid y Adoremos",
-      "url": "https://open.spotify.com/track/1lKX9IpaC0ntowPrpX8Nk0"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -1163,8 +1163,8 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
-        "name": "Navidad Con V\u00e1stago",
-        "url": "https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt"
+        "name": "Mi Navidad",
+        "url": "https://open.spotify.com/album/2Bqepx8hJWH9jySZciy8iu"
       },
       "artists": [
         {
@@ -1172,9 +1172,9 @@
           "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
         }
       ],
-      "duration_ms": 221493,
-      "name": "Solo T\u00fa",
-      "url": "https://open.spotify.com/track/2g5V0AzN97VdlSEjavoru4"
+      "duration_ms": 183857,
+      "name": "Mi Navidad",
+      "url": "https://open.spotify.com/track/64qQzNoR6WrZbG9KtaxBg9"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
-        "name": "Navidades en Mi Tierra",
-        "url": "https://open.spotify.com/album/6rqzU8FpFgpCKsn5uyUsCX"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Col\u00f3n",
-          "url": "https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ"
-        }
-      ],
-      "duration_ms": 272327,
-      "name": "Medley de Coritos",
-      "url": "https://open.spotify.com/track/68XTSxhJjqYLNrn6vqol1e"
-    },
-    {
-      "added_at": "2022-12-10 23:01:18",
-      "album": {
         "name": "Santa la Noche",
         "url": "https://open.spotify.com/album/2Vds3tR4KKnNsotTbAd1GQ"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 236128,
       "name": "Santa la Noche",
       "url": "https://open.spotify.com/track/1VSIMVn192zKDOoRKFYIan"
+    },
+    {
+      "added_at": "2022-12-10 23:01:18",
+      "album": {
+        "name": "Navidades en Mi Tierra",
+        "url": "https://open.spotify.com/album/6rqzU8FpFgpCKsn5uyUsCX"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Col\u00f3n",
+          "url": "https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ"
+        }
+      ],
+      "duration_ms": 272327,
+      "name": "Medley de Coritos",
+      "url": "https://open.spotify.com/track/68XTSxhJjqYLNrn6vqol1e"
     }
   ],
   "unique_name": "Navidad Cristiana",

@@ -950,7 +950,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 214747,
       "name": "Get It \u2018Fore It\u2019s Gone",
       "url": "https://open.spotify.com/track/6bFQTxFd9QCL8te5fbjt8i"
@@ -2516,6 +2516,24 @@
       "duration_ms": 250426,
       "name": "pop the placebo",
       "url": "https://open.spotify.com/track/0a8eRyWUFB5icN7tNRwgFr"
+    },
+    {
+      "album": {
+        "name": "Puppy and a Truck",
+        "url": "https://open.spotify.com/album/2udBN6XsNrbgLOFzrqEBVt"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191280,
+      "name": "Puppy and a Truck",
+      "url": "https://open.spotify.com/track/6nrfecLjwsQngv4LbOMrRe"
     },
     {
       "album": {

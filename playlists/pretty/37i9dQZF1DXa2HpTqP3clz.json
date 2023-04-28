@@ -1,12 +1,12 @@
 {
   "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Mighty Poplar",
-  "num_followers": 120403,
+  "num_followers": 120458,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjEwNjc2NiwwMDAwMDAwMGUzZTkwYzBlZDE5ZTA2MjdmZjQ0YTgyMjg0YThiOWJh",
+  "snapshot_id": "MCw3NTM2OWI5NzUyN2JlYmE0MDFkZjc3MmMzMTEwYjIwNTFmNGQ0NzE1",
   "tracks": [
     {
       "added_at": "2023-04-21 19:52:46",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
+        "name": "When I'm Free",
+        "url": "https://open.spotify.com/album/5kTB8j3fW3o4eFoZLR8bza"
+      },
+      "artists": [
+        {
+          "name": "Hot Rize",
+          "url": "https://open.spotify.com/artist/40iD7Eehimq75Ow4VUxk3r"
+        }
+      ],
+      "duration_ms": 182120,
+      "name": "You Were on My Mind This Morning",
+      "url": "https://open.spotify.com/track/6XN8ygVU7ltNbEgKLPUrKy"
+    },
+    {
+      "added_at": "2023-04-21 19:52:46",
+      "album": {
         "name": "\u201cThe Long-Awaited Album\u201d",
         "url": "https://open.spotify.com/album/18a2XSMBz1cgZyqVnsG684"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 153106,
       "name": "On The Water",
       "url": "https://open.spotify.com/track/6sVBfdmhr8SrqUJDynPZKQ"
-    },
-    {
-      "added_at": "2023-04-21 19:52:46",
-      "album": {
-        "name": "When I'm Free",
-        "url": "https://open.spotify.com/album/5kTB8j3fW3o4eFoZLR8bza"
-      },
-      "artists": [
-        {
-          "name": "Hot Rize",
-          "url": "https://open.spotify.com/artist/40iD7Eehimq75Ow4VUxk3r"
-        }
-      ],
-      "duration_ms": 182120,
-      "name": "You Were on My Mind This Morning",
-      "url": "https://open.spotify.com/track/6XN8ygVU7ltNbEgKLPUrKy"
     },
     {
       "added_at": "2023-04-21 19:52:46",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
+        "name": "Life Is Good on the Open Road",
+        "url": "https://open.spotify.com/album/2U6ejoIDreiVA6Tt0ITxRh"
+      },
+      "artists": [
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        }
+      ],
+      "duration_ms": 268413,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/2aku9CbppMvVCbuDe4scTB"
+    },
+    {
+      "added_at": "2023-04-21 19:52:46",
+      "album": {
         "name": "Brother Sister",
         "url": "https://open.spotify.com/album/27nsoapWtsOW9f1kRd41TL"
       },
@@ -859,22 +875,6 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
-        "name": "Down the Road",
-        "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "Down the Road",
-      "url": "https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp"
-    },
-    {
-      "added_at": "2023-04-21 19:52:46",
-      "album": {
         "name": "In The Morning Light",
         "url": "https://open.spotify.com/album/1SpVLRagMwmLmP4KwnINWr"
       },
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
-        "name": "Life Is Good on the Open Road",
-        "url": "https://open.spotify.com/album/2U6ejoIDreiVA6Tt0ITxRh"
+        "name": "Down the Road",
+        "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
       },
       "artists": [
         {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
         }
       ],
-      "duration_ms": 268413,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/2aku9CbppMvVCbuDe4scTB"
+      "duration_ms": 195573,
+      "name": "Down the Road",
+      "url": "https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp"
     },
     {
       "added_at": "2023-04-21 19:52:46",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
-        "name": "Black Cowboys",
-        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
-      },
-      "artists": [
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        }
-      ],
-      "duration_ms": 162473,
-      "name": "Lonesome Old River Blues",
-      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
-    },
-    {
-      "added_at": "2023-04-21 19:52:46",
-      "album": {
         "name": "In the Sweet by and By",
         "url": "https://open.spotify.com/album/7JZHTqJuqfFQDBqV0GqTE5"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 235560,
       "name": "In the Sweet by and By",
       "url": "https://open.spotify.com/track/6gJkNZt514JO7YR6dxS4JE"
+    },
+    {
+      "added_at": "2023-04-21 19:52:46",
+      "album": {
+        "name": "Black Cowboys",
+        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
+      },
+      "artists": [
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+        }
+      ],
+      "duration_ms": 162473,
+      "name": "Lonesome Old River Blues",
+      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
     },
     {
       "added_at": "2023-04-21 19:52:46",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
-        "name": "Sidetrack My Engine",
-        "url": "https://open.spotify.com/album/4J8nWVnRETkmTYA2023PCx"
-      },
-      "artists": [
-        {
-          "name": "Nora Brown",
-          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
-        }
-      ],
-      "duration_ms": 165213,
-      "name": "Wedding Dress",
-      "url": "https://open.spotify.com/track/61PiRWXdcKeWZyi3Lf6I9t"
-    },
-    {
-      "added_at": "2023-04-21 19:52:46",
-      "album": {
         "name": "Ink, Dust & Luck",
         "url": "https://open.spotify.com/album/40hyJ3WFVt22d9w4DPM3aA"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 190789,
       "name": "Don't Make Me Get up and Go",
       "url": "https://open.spotify.com/track/7dPMI5iIdwonksEYLSdsZY"
+    },
+    {
+      "added_at": "2023-04-21 19:52:46",
+      "album": {
+        "name": "Sidetrack My Engine",
+        "url": "https://open.spotify.com/album/4J8nWVnRETkmTYA2023PCx"
+      },
+      "artists": [
+        {
+          "name": "Nora Brown",
+          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
+        }
+      ],
+      "duration_ms": 165213,
+      "name": "Wedding Dress",
+      "url": "https://open.spotify.com/track/61PiRWXdcKeWZyi3Lf6I9t"
     },
     {
       "added_at": "2023-04-21 19:52:46",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/552YmmarnFx3XxnzCaqGCo"
+      },
+      "artists": [
+        {
+          "name": "Yes Ma'am",
+          "url": "https://open.spotify.com/artist/2ImmXDgaacATNycVOulRZg"
+        }
+      ],
+      "duration_ms": 153968,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/7lLdVymMzVJxq6sl8VPDzJ"
+    },
+    {
+      "added_at": "2023-04-21 19:52:46",
+      "album": {
         "name": "Dillsboro Blues",
         "url": "https://open.spotify.com/album/16OAkIBQZ3vmGFMk1bBlJD"
       },
@@ -1363,18 +1379,18 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/552YmmarnFx3XxnzCaqGCo"
+        "name": "Sun and Water (Here Comes the Sun/Waters of March)",
+        "url": "https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh"
       },
       "artists": [
         {
-          "name": "Yes Ma'am",
-          "url": "https://open.spotify.com/artist/2ImmXDgaacATNycVOulRZg"
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
         }
       ],
-      "duration_ms": 153968,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/7lLdVymMzVJxq6sl8VPDzJ"
+      "duration_ms": 214546,
+      "name": "Sun and Water (Here Comes the Sun/Waters of March)",
+      "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
     },
     {
       "added_at": "2023-04-21 19:52:46",
@@ -1395,22 +1411,6 @@
       "duration_ms": 150575,
       "name": "Rosa Lee McFall - Live",
       "url": "https://open.spotify.com/track/2w8khZ6OgCOUwrbkQ4GYAK"
-    },
-    {
-      "added_at": "2023-04-21 19:52:46",
-      "album": {
-        "name": "Sun and Water (Here Comes the Sun/Waters of March)",
-        "url": "https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        }
-      ],
-      "duration_ms": 214546,
-      "name": "Sun and Water (Here Comes the Sun/Waters of March)",
-      "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
     },
     {
       "added_at": "2023-04-21 19:52:46",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
-        "name": "What the Years Do",
-        "url": "https://open.spotify.com/album/3XU0wy0OBrqc3ewwtV1K5T"
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb"
       },
       "artists": [
         {
-          "name": "Balsam Range",
-          "url": "https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU"
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
         }
       ],
-      "duration_ms": 200000,
-      "name": "What the Years Do",
-      "url": "https://open.spotify.com/track/460M2nfu0pI3JpGfT3CWdB"
+      "duration_ms": 139893,
+      "name": "Super Moon",
+      "url": "https://open.spotify.com/track/7a87b0XfUmeTYBrrjX50AH"
     },
     {
       "added_at": "2023-04-21 19:52:46",
@@ -1487,42 +1487,18 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb"
+        "name": "What the Years Do",
+        "url": "https://open.spotify.com/album/3XU0wy0OBrqc3ewwtV1K5T"
       },
       "artists": [
         {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+          "name": "Balsam Range",
+          "url": "https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU"
         }
       ],
-      "duration_ms": 139893,
-      "name": "Super Moon",
-      "url": "https://open.spotify.com/track/7a87b0XfUmeTYBrrjX50AH"
-    },
-    {
-      "added_at": "2023-04-21 19:52:46",
-      "album": {
-        "name": "Live the Dream",
-        "url": "https://open.spotify.com/album/0TxDZ0xlSYgwtS0Erao5iS"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        },
-        {
-          "name": "Dave Barnes",
-          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 172773,
-      "name": "Live the Dream",
-      "url": "https://open.spotify.com/track/2f64sXdXeIZHKHtAdYcZ2p"
+      "duration_ms": 200000,
+      "name": "What the Years Do",
+      "url": "https://open.spotify.com/track/460M2nfu0pI3JpGfT3CWdB"
     },
     {
       "added_at": "2023-04-21 19:52:46",
@@ -1539,22 +1515,6 @@
       "duration_ms": 269133,
       "name": "Seasons Don't Change",
       "url": "https://open.spotify.com/track/08Z8EH23jtMqOjvlP0dUrR"
-    },
-    {
-      "added_at": "2023-04-21 19:52:46",
-      "album": {
-        "name": "Odds of Getting Even",
-        "url": "https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE"
-      },
-      "artists": [
-        {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
-        }
-      ],
-      "duration_ms": 195776,
-      "name": "Odds of Getting Even",
-      "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
     },
     {
       "added_at": "2023-04-21 19:52:46",
@@ -1587,6 +1547,46 @@
       "duration_ms": 246853,
       "name": "The More I Learn",
       "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
+    },
+    {
+      "added_at": "2023-04-21 19:52:46",
+      "album": {
+        "name": "Live the Dream",
+        "url": "https://open.spotify.com/album/0TxDZ0xlSYgwtS0Erao5iS"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        },
+        {
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 172773,
+      "name": "Live the Dream",
+      "url": "https://open.spotify.com/track/2f64sXdXeIZHKHtAdYcZ2p"
+    },
+    {
+      "added_at": "2023-04-21 19:52:46",
+      "album": {
+        "name": "Odds of Getting Even",
+        "url": "https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+        }
+      ],
+      "duration_ms": 195776,
+      "name": "Odds of Getting Even",
+      "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
     },
     {
       "added_at": "2023-04-21 19:52:46",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
-        "name": "Paint This Town",
-        "url": "https://open.spotify.com/album/5uDD3Cl1NypY8jtR1LI9Ex"
+        "name": "Run, Rose, Run",
+        "url": "https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG"
       },
       "artists": [
         {
-          "name": "Old Crow Medicine Show",
-          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 252160,
-      "name": "Gloryland",
-      "url": "https://open.spotify.com/track/6l45hb9DnSSjuS9EqFyHA5"
+      "duration_ms": 193173,
+      "name": "Firecracker",
+      "url": "https://open.spotify.com/track/7C8gwN0JX7Df8Rfepg8nMi"
     },
     {
       "added_at": "2023-04-21 19:52:46",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2023-04-21 19:52:46",
       "album": {
-        "name": "Run, Rose, Run",
-        "url": "https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG"
+        "name": "Paint This Town",
+        "url": "https://open.spotify.com/album/5uDD3Cl1NypY8jtR1LI9Ex"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
         }
       ],
-      "duration_ms": 193173,
-      "name": "Firecracker",
-      "url": "https://open.spotify.com/track/7C8gwN0JX7Df8Rfepg8nMi"
+      "duration_ms": 252160,
+      "name": "Gloryland",
+      "url": "https://open.spotify.com/track/6l45hb9DnSSjuS9EqFyHA5"
     },
     {
       "added_at": "2023-04-21 19:52:46",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 
 > This is Banda Los Sebastianes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,329 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,340 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 | 50 | [La Idea](https://open.spotify.com/track/5r5AWI5KdhZyOBM9pJlPyV) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Lo Grande](https://open.spotify.com/album/5HbJLezRG8myDEdC7SN8Ep) | 2:56 |
 | 51 | [No Es La Primera Vez](https://open.spotify.com/track/0utba0v9M6e8sqoNIyard9) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Indeleble](https://open.spotify.com/album/2PKsmaDxBIeXWvC85ZUxRJ) | 3:20 |
 
-Snapshot ID: `MjgwNDE5MzAsMDAwMDAwMDBmNmI2YTc2ZGRhODU1ZmYzZGU1OWM5ZTIwOGUwNTFiYg==`
+Snapshot ID: `MjgwNDMzMjAsMDAwMDAwMDA1NTA0NTkyY2FhYTk5Nzk0MTU3MDA5Zjc3YWJkODhhNA==`

@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy & sweet eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 44748,
+  "num_followers": 44789,
   "original_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNDMxNCwwMDAwMDAwMGIwNTI0OWI5MzY1NGFiMGRkYzc4Njk0MjZhYWVjNzUx",
+  "snapshot_id": "MCw0NGRlNjZmYjIyZTllMjMyMTZmM2Q1MDQ5MzNkMmViZmY1ZGZiNmVj",
   "tracks": [
     {
       "added_at": "2023-02-24 10:35:29",
@@ -693,7 +693,7 @@
       "url": "https://open.spotify.com/track/3F6eSiAXmjfZpR0vUOoOzN"
     },
     {
-      "added_at": "2023-04-27 00:49:07",
+      "added_at": "2023-04-28 00:00:27",
       "album": {
         "name": "We don\u2019t talk (Feat. CHEEZE)",
         "url": "https://open.spotify.com/album/0EBLkNbcXmiGBj5fPVtrvK"
@@ -905,6 +905,22 @@
       "url": "https://open.spotify.com/track/272cbvi62JUEhBKrsGIbdJ"
     },
     {
+      "added_at": "2023-04-28 00:00:27",
+      "album": {
+        "name": "Candy For You",
+        "url": "https://open.spotify.com/album/6D7gUwsJNO2SNjxZVSUrzA"
+      },
+      "artists": [
+        {
+          "name": "blah",
+          "url": "https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg"
+        }
+      ],
+      "duration_ms": 158386,
+      "name": "Candy For You",
+      "url": "https://open.spotify.com/track/7r32Oz3HuDHfurSAx4iokY"
+    },
+    {
       "added_at": "2023-02-24 10:35:29",
       "album": {
         "name": "BETTER - The 10th Album",
@@ -919,22 +935,6 @@
       "duration_ms": 238093,
       "name": "All That Jazz",
       "url": "https://open.spotify.com/track/630EmrW0DgVqPdKIWMk4YR"
-    },
-    {
-      "added_at": "2023-04-27 00:49:07",
-      "album": {
-        "name": "Candy For You",
-        "url": "https://open.spotify.com/album/6D7gUwsJNO2SNjxZVSUrzA"
-      },
-      "artists": [
-        {
-          "name": "blah",
-          "url": "https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg"
-        }
-      ],
-      "duration_ms": 158386,
-      "name": "Candy For You",
-      "url": "https://open.spotify.com/track/7r32Oz3HuDHfurSAx4iokY"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
+        "name": "ROSE",
+        "url": "https://open.spotify.com/album/26fovYAowQaJmrucMlNztd"
+      },
+      "artists": [
+        {
+          "name": "EDEN",
+          "url": "https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49"
+        },
+        {
+          "name": "SONG JU HEE \uc1a1\uc8fc\ud76c",
+          "url": "https://open.spotify.com/artist/7I028o0Vby3syaeumHkoFU"
+        }
+      ],
+      "duration_ms": 178886,
+      "name": "ROSE",
+      "url": "https://open.spotify.com/track/2UtnEVpdE5gunruf2GiGpS"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
         "name": "Forever yours",
         "url": "https://open.spotify.com/album/0SmS3QKxpiblknw3DYP3a5"
       },
@@ -1195,26 +1215,6 @@
       "duration_ms": 190146,
       "name": "Play the field (With ONEW, Yoo Inna)",
       "url": "https://open.spotify.com/track/0veTa3D38HyGkz2gFZXAuz"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
-        "name": "ROSE",
-        "url": "https://open.spotify.com/album/26fovYAowQaJmrucMlNztd"
-      },
-      "artists": [
-        {
-          "name": "EDEN",
-          "url": "https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49"
-        },
-        {
-          "name": "SONG JU HEE \uc1a1\uc8fc\ud76c",
-          "url": "https://open.spotify.com/artist/7I028o0Vby3syaeumHkoFU"
-        }
-      ],
-      "duration_ms": 178886,
-      "name": "ROSE",
-      "url": "https://open.spotify.com/track/2UtnEVpdE5gunruf2GiGpS"
     },
     {
       "added_at": "2023-02-24 10:35:29",

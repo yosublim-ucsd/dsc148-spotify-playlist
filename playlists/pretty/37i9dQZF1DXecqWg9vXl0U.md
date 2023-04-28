@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > como en una nube\. Bedroom pop vibes featuring Kaia Lana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,074 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,109 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 40 | [El After](https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Lo Que Siento](https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM) | 3:19 |
 | 41 | [Rester](https://open.spotify.com/track/0vRnV2qupCciz74lZSHSos) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Rester](https://open.spotify.com/album/58DM6YnsR26DX7PG8GA04M) | 4:57 |
 | 42 | [Idiota](https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Idiota](https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT) | 2:59 |
-| 43 | [yo sad, tú feliz](https://open.spotify.com/track/4e0SoeqUIO4XpgK4VpV0SO) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [yo sad, tú feliz](https://open.spotify.com/album/2jOpcpQ0ZUNQcRpJaWdcx5) | 2:41 |
-| 44 | [Ojos](https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp) | [Montufar](https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t) | [Ojos](https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX) | 3:42 |
+| 43 | [Ojos](https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp) | [Montufar](https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t) | [Ojos](https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX) | 3:42 |
+| 44 | [yo sad, tú feliz](https://open.spotify.com/track/4e0SoeqUIO4XpgK4VpV0SO) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [yo sad, tú feliz](https://open.spotify.com/album/2jOpcpQ0ZUNQcRpJaWdcx5) | 2:41 |
 | 45 | [Mi Habitación](https://open.spotify.com/track/399BxbhCL9R03WhKykK8ks) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Yawners](https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC) | [¿Y Cómo?](https://open.spotify.com/album/4xSBOP3G0xHYGEOCPaUwoT) | 2:35 |
 | 46 | [Horas Contigo](https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Horas Contigo](https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe) | 2:39 |
 | 47 | [Unstoppable](https://open.spotify.com/track/47pbvBtWtt7aMHENsw8ehQ) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [Polaroid Paradise](https://open.spotify.com/album/10NBQIh2ZteCveetOTwx01) | 2:00 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 53 | [Especial](https://open.spotify.com/track/6M0iMWjgLJi6ndo5n0fCI8) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Especial](https://open.spotify.com/album/4FSNPjZJIRazbypUcTzIH3) | 4:02 |
 | 54 | [Siempre Hago Lo Que Quiero](https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59), [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Siempre Hago Lo Que Quiero](https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt) | 3:44 |
 | 55 | [A Veces](https://open.spotify.com/track/2cKXMsSXJZp5eAlxGejt8V) | [MOSBI](https://open.spotify.com/artist/6kvoEVPUc4pJ6w8QO4DHef) | [A Veces](https://open.spotify.com/album/2FTVypZbrNE91J7ChtirLQ) | 3:59 |
-| 56 | [Algo](https://open.spotify.com/track/6J9fOlNk1KXWSvMa5bvmtI) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Algo](https://open.spotify.com/album/2sfNtiYkQmtEg2Nk1mebJb) | 2:48 |
-| 57 | [Como Antes](https://open.spotify.com/track/6PpeVjbkQh759WPQVvieZU) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr), [Glass Cristina](https://open.spotify.com/artist/53g48F3bGMRlungRoVZ7FH) | [Como Antes](https://open.spotify.com/album/3PKLQmB3kl3OubFIdkV01O) | 3:52 |
+| 56 | [Como Antes](https://open.spotify.com/track/6PpeVjbkQh759WPQVvieZU) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr), [Glass Cristina](https://open.spotify.com/artist/53g48F3bGMRlungRoVZ7FH) | [Como Antes](https://open.spotify.com/album/3PKLQmB3kl3OubFIdkV01O) | 3:52 |
+| 57 | [Algo](https://open.spotify.com/track/6J9fOlNk1KXWSvMa5bvmtI) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Algo](https://open.spotify.com/album/2sfNtiYkQmtEg2Nk1mebJb) | 2:48 |
 | 58 | [GARZA](https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [GARZA](https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ) | 3:26 |
 | 59 | [En Todas Partes](https://open.spotify.com/track/3e0oTmzpggchmvDpUgEgbL) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo), [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [En Todas Partes](https://open.spotify.com/album/5jV6AmV4Gpg8GSe3WhSjof) | 3:37 |
 | 60 | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7) | 3:23 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 69 | [Colores cromáticos](https://open.spotify.com/track/2L0ftx1kVAOE5QjJDMf8cD) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Colores cromáticos](https://open.spotify.com/album/6lOtV6TYKrZ6xqNWGVPmed) | 4:15 |
 | 70 | [Invisible](https://open.spotify.com/track/66F9zo1pdOLL9gOqfIbHas) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Invisible](https://open.spotify.com/album/3dstM2Jz0agjIjoAnLERf8) | 2:24 |
 | 71 | [Nada Mal](https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka), [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy) | [Nada Mal](https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb) | 2:20 |
-| 72 | [Una noche que nunca termina](https://open.spotify.com/track/5FsobFWmtzBqmUw9qNkVhE) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Una noche que nunca termina](https://open.spotify.com/album/0xcepcn70088Fgal5hLnsi) | 3:01 |
-| 73 | [Amanecer \(Remix\)](https://open.spotify.com/track/7tsbii6if5V9TPrkbsms84) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6), [Nereidas](https://open.spotify.com/artist/3p22S9AiD01Izt8PBnGM94) | [Amanecer \(Remix\)](https://open.spotify.com/album/6ZbUkmIv5ERQf4oBE3yeR9) | 4:18 |
-| 74 | [Curriculum Completo](https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz) | [Curriculum Completo](https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC) | 2:25 |
+| 72 | [Curriculum Completo](https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz) | [Curriculum Completo](https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC) | 2:25 |
+| 73 | [Una noche que nunca termina](https://open.spotify.com/track/5FsobFWmtzBqmUw9qNkVhE) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Una noche que nunca termina](https://open.spotify.com/album/0xcepcn70088Fgal5hLnsi) | 3:01 |
+| 74 | [Amanecer \(Remix\)](https://open.spotify.com/track/7tsbii6if5V9TPrkbsms84) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6), [Nereidas](https://open.spotify.com/artist/3p22S9AiD01Izt8PBnGM94) | [Amanecer \(Remix\)](https://open.spotify.com/album/6ZbUkmIv5ERQf4oBE3yeR9) | 4:18 |
 | 75 | [deja de estudiar](https://open.spotify.com/track/5s4fyhzcUH7BJvONjNap6B) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8), [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [deja de estudiar](https://open.spotify.com/album/5F6c6rMQktJjbB1s06xZCI) | 2:37 |
 
-Snapshot ID: `MTY4MjEwMDM2NCwwMDAwMDAwMGEyYTAyOGM0ZjhhZjVhMGIyYzEwMDYyN2EwMzE1MDBl`
+Snapshot ID: `MCw0MzYxMDMwNTFjZjUxZDEwMjM5MzEzNTQ3YjBiOTQ2OTBlY2ZiYjk3`

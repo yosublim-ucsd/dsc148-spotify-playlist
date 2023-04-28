@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F7I39fkJHz.md) - [plain]
 
 > Las más bichotas del party featuring Cazzu & Young Miko 😈
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,488 likes - 85 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,608 likes - 85 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,17 +81,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F7I39fkJHz.md) - [plain]
 | 71 | [La Torta](https://open.spotify.com/track/2EVnhDu1nfDNrr74OJpf1e) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [La Torta](https://open.spotify.com/album/1uJIQzUMOVmc2RO6blgzRA) | 2:50 |
 | 72 | [Mi real lova](https://open.spotify.com/track/1A8CcPnmexGWEDrzoFwyoR) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [Mi real lova](https://open.spotify.com/album/4QhzuSzmMkVQEqPSIC9Fnn) | 2:46 |
 | 73 | [FASHION DILLER](https://open.spotify.com/track/7pwuuN72iIc3F671PuxErU) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [FASHION DILLER](https://open.spotify.com/album/3fIMfvmfccA2OxIVNmnyyv) | 2:41 |
-| 74 | [Ella](https://open.spotify.com/track/6NFlEQvg4h41e08fj70zxd) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [La Piti](https://open.spotify.com/album/1LVYwpAVevauvcv6s8Euh9) | 2:53 |
-| 75 | [Nena](https://open.spotify.com/track/1n7VtU8L0owUJRz0ppvETo) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF), [EKKI](https://open.spotify.com/artist/4lHI9smP4kDm7gz1exU7G5) | [Nena](https://open.spotify.com/album/5Ymw3x5pQric87TAWRTnva) | 3:21 |
+| 74 | [Nena](https://open.spotify.com/track/1n7VtU8L0owUJRz0ppvETo) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF), [EKKI](https://open.spotify.com/artist/4lHI9smP4kDm7gz1exU7G5) | [Nena](https://open.spotify.com/album/5Ymw3x5pQric87TAWRTnva) | 3:21 |
+| 75 | [Ella](https://open.spotify.com/track/6NFlEQvg4h41e08fj70zxd) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [La Piti](https://open.spotify.com/album/1LVYwpAVevauvcv6s8Euh9) | 2:53 |
 | 76 | [narcisa](https://open.spotify.com/track/4fvIO9UsmmJM2b8gWCzsOg) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [besitos, cuídate](https://open.spotify.com/album/3kfb4ye7atyQ1mEoI5Lecu) | 2:53 |
 | 77 | [Estoy Soltera](https://open.spotify.com/track/597HxeFN4prkOZml250ZhR) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Estoy Soltera](https://open.spotify.com/album/5WZfuGX8Ca4eaes5LYxk22) | 2:52 |
 | 78 | [n la disco](https://open.spotify.com/track/0he3cLVpfsVymLeruJqI14) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamante$ + espina$](https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB) | 3:02 |
 | 79 | [TOP](https://open.spotify.com/track/6qFEielNbJIiwgIbZA24nQ) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TOP](https://open.spotify.com/album/7FPR6NSBtUXM1jwuybfD2L) | 1:35 |
-| 80 | [Quien Dijo](https://open.spotify.com/track/23EalGl7ADnaoAKrNExMFn) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Quien Dijo](https://open.spotify.com/album/4INTFlZm9BIHHeDXwu0K7U) | 4:01 |
-| 81 | [Fina](https://open.spotify.com/track/6c7V9AS4H7wObV2lAT6iwJ) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Fina](https://open.spotify.com/album/10xSdbSkFRJue9XF7qrugV) | 3:11 |
+| 80 | [Fina](https://open.spotify.com/track/6c7V9AS4H7wObV2lAT6iwJ) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Fina](https://open.spotify.com/album/10xSdbSkFRJue9XF7qrugV) | 3:11 |
+| 81 | [Quien Dijo](https://open.spotify.com/track/23EalGl7ADnaoAKrNExMFn) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Quien Dijo](https://open.spotify.com/album/4INTFlZm9BIHHeDXwu0K7U) | 4:01 |
 | 82 | [Mala Mala](https://open.spotify.com/track/3L7xk3OegOjSmBSJ6P0W7g) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Mala Mala](https://open.spotify.com/album/1frlcT5Y4gcNgIW2v1ZXyL) | 2:32 |
-| 83 | [Solita \- Remix](https://open.spotify.com/track/1hFC3OfExDADVLCAQDgUr8) | [Mechi Pieretti](https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Solita \(Remix\)](https://open.spotify.com/album/7rczcUlz87UicCYwuAig7C) | 3:50 |
-| 84 | [Porte](https://open.spotify.com/track/2ixCtJ3dVGT3pyjL7PDex1) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Porte](https://open.spotify.com/album/4aU679nTE0dDkQmIVqK7RW) | 2:36 |
+| 83 | [Porte](https://open.spotify.com/track/2ixCtJ3dVGT3pyjL7PDex1) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Porte](https://open.spotify.com/album/4aU679nTE0dDkQmIVqK7RW) | 2:36 |
+| 84 | [Solita \- Remix](https://open.spotify.com/track/1hFC3OfExDADVLCAQDgUr8) | [Mechi Pieretti](https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Solita \(Remix\)](https://open.spotify.com/album/7rczcUlz87UicCYwuAig7C) | 3:50 |
 | 85 | [Hey Siri](https://open.spotify.com/track/5ohqJK8ieHOGIUsbw2oZqQ) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Hey Siri](https://open.spotify.com/album/26PSRzfCh69uiTBWg2eIZO) | 2:27 |
 
-Snapshot ID: `MTY4MTQ0MTIwMCwwMDAwMDAwMDMwMmY3NzgwNmIyOTNhOWU1NzA4OWQ3ZjNkZWQ5MzUz`
+Snapshot ID: `MCxjNTBiYTg3MjJkMDE0NTg5ZDBiOGYwOGNiOWM4ZjE3ZWQ0YzZiZTk3`

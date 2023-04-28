@@ -4,7 +4,7 @@
 
 > Les meilleurs titres du moment en version acoustique.
 
-62 songs - 3 hr 17 min
+63 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Stay \- Spotify Singles](https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c) | 2:55 | 2022-12-21 |  |
 | [Sweet but Psycho \- Acoustic](https://open.spotify.com/track/10WVEHOf1FZf5XgK6dUWvN) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Sweet but Psycho \(Acoustic\)](https://open.spotify.com/album/2oKx85K5SRVksSS9aN1Lon) | 2:59 | 2022-12-21 |  |
 | [Te Amo \- DJ Youcef Remix – Version Acoustique](https://open.spotify.com/track/5DiKjTMmJfdIROpZXAzLwY) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Te Amo \(DJ Youcef Remix – Version Acoustique\)](https://open.spotify.com/album/4we58LKZyy9dtDRIJXeUJs) | 4:18 | 2022-12-21 |  |
+| [The Ballet Girl \(Adagio\)](https://open.spotify.com/track/0dsqEnxjtvkUan8zePPjLT) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl EP \- Part 2](https://open.spotify.com/album/3LGjHu7cfkesscGwoUP5gV) | 2:56 | 2023-04-27 |  |
 | [Wasted Love \(feat\. Lagique\) \- Acoustic](https://open.spotify.com/track/5Zn1K7j3DkB1akPiBLwKR9) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Lagique](https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2) | [Wasted Love \(feat\. Lagique\) \[Acoustic\]](https://open.spotify.com/album/2CgvyrhuhDiXBAmXQz52Js) | 2:07 | 2022-12-21 |  |
 | [Where Are You Now \- Acoustic](https://open.spotify.com/track/4jU6qkh8stB9uqXEPMqnJL) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now \(Acoustic\)](https://open.spotify.com/album/4Am155SZjwvCP6zPnnVZqH) | 2:42 | 2022-12-21 |  |
 | [You \(with Marshmello & Vance Joy\) \- Acoustic](https://open.spotify.com/track/2wcseriGAqeodDazDXgmaq) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [You \(with Marshmello & Vance Joy\) \[Main + Acoustic\]](https://open.spotify.com/album/0XqS6EE0TuqdLrhJVo06jL) | 2:31 | 2022-12-21 | 2023-01-06 |

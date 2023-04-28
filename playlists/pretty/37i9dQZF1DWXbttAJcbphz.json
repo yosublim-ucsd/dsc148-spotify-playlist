@@ -1,12 +1,12 @@
 {
   "description": "The most essential R&B songs from the 2010s. Cover: Summer Walker",
-  "num_followers": 1402084,
+  "num_followers": 1403599,
   "original_name": "I Love My '10s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDkwNDQ2NiwwMDAwMDAwMDA5ZGRjZDU2MjZhNTM4NzM4ZWZmM2EzNWE0ODdmM2E5",
+  "snapshot_id": "MCwwZWFjNDc0Nzc4MDUwOGY4Zjg5NjUzN2JkMTUxZjJkZjQ5MjAyZTRl",
   "tracks": [
     {
       "added_at": "2022-08-21 21:13:22",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "PARTYNEXTDOOR TWO",
-        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 98023,
-      "name": "Belong to the City",
-      "url": "https://open.spotify.com/track/5c3luoCub1Z1Gg74NdNtuq"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
         "name": "Trip",
         "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 276960,
       "name": "Sativa",
       "url": "https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 98023,
+      "name": "Belong to the City",
+      "url": "https://open.spotify.com/track/5c3luoCub1Z1Gg74NdNtuq"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1437,28 +1437,20 @@
       "url": "https://open.spotify.com/track/08zJpaUQVi9FrKv2e32Bah"
     },
     {
-      "added_at": "2020-10-02 17:39:19",
+      "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Sex Playlist",
-        "url": "https://open.spotify.com/album/13QoXGJgs22WiDG1NWT00D"
+        "name": "Sonder Son",
+        "url": "https://open.spotify.com/album/5Bp1EX2ypdFnJ5IUyiRl8w"
       },
       "artists": [
         {
-          "name": "Omarion",
-          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 226580,
-      "name": "Post to Be (feat. Chris Brown & Jhene Aiko)",
-      "url": "https://open.spotify.com/track/0fgZUSa7D7aVvv3GfO0A1n"
+      "duration_ms": 204841,
+      "name": "Gang Over Luv",
+      "url": "https://open.spotify.com/track/7LaI3mRTJu66r9HKdv7iBx"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1485,20 +1477,28 @@
       "url": "https://open.spotify.com/track/3fBbfrWZUuWWrMQXFISr7N"
     },
     {
-      "added_at": "2022-08-21 21:13:22",
+      "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "Sonder Son",
-        "url": "https://open.spotify.com/album/5Bp1EX2ypdFnJ5IUyiRl8w"
+        "name": "Sex Playlist",
+        "url": "https://open.spotify.com/album/13QoXGJgs22WiDG1NWT00D"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 204841,
-      "name": "Gang Over Luv",
-      "url": "https://open.spotify.com/track/7LaI3mRTJu66r9HKdv7iBx"
+      "duration_ms": 226580,
+      "name": "Post to Be (feat. Chris Brown & Jhene Aiko)",
+      "url": "https://open.spotify.com/track/0fgZUSa7D7aVvv3GfO0A1n"
     },
     {
       "added_at": "2022-09-17 04:26:15",
@@ -1703,18 +1703,22 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+        "name": "Shea Butter Baby",
+        "url": "https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 231267,
-      "name": "Hold Me Down",
-      "url": "https://open.spotify.com/track/1Mza2sr6tPhy6jjI3HB9fW"
+      "duration_ms": 211610,
+      "name": "Shea Butter Baby (with J. Cole)",
+      "url": "https://open.spotify.com/track/5BOBHIBuzvQuIYL1E1nDzl"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1739,22 +1743,18 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Shea Butter Baby",
-        "url": "https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w"
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
       "artists": [
         {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 211610,
-      "name": "Shea Butter Baby (with J. Cole)",
-      "url": "https://open.spotify.com/track/5BOBHIBuzvQuIYL1E1nDzl"
+      "duration_ms": 231267,
+      "name": "Hold Me Down",
+      "url": "https://open.spotify.com/track/1Mza2sr6tPhy6jjI3HB9fW"
     }
   ],
   "unique_name": "I Love My '10s R&B",

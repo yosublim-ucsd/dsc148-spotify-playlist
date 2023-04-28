@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24s7wiZ6iNt.md) - [plain]
 
 > Our editors’ picks for the best of Indie in Canada in 2022.<br/> Cover: Men I Trust \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,384 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,393 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24s7wiZ6iNt.md) - [plain]
 | 74 | [Exscape](https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Exscape](https://open.spotify.com/album/1vSELIji55iJOeDXNHng2b) | 2:22 |
 | 75 | [You Have Got to Be Kidding Me](https://open.spotify.com/track/0omNRCCTLworr48q5xJzVN) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [You Have Got to Be Kidding Me](https://open.spotify.com/album/3KKsv36GD6Nsmr2KrgQEA0) | 3:36 |
 
-Snapshot ID: `MTY3MDM0MTUxNSwwMDAwMDAwMGY4YTc4MzA1ZGE1ZjA0NmM4YjBlZGRjNzE3YjI5MjYx`
+Snapshot ID: `MCxjMDE4NGMzMmI4NGVjMTU4OTdmYzg1NWQ0NTc0MGU2MDk4OGJjNTEy`

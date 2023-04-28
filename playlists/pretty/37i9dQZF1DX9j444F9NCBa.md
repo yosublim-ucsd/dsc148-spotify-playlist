@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 
 > Gentle instrumental covers of known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,535 likes - 309 songs - 15 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,855 likes - 309 songs - 15 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -318,4 +318,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 308 | [Tears in Heaven](https://open.spotify.com/track/4CRNGEGOrfp43WzgHbBpm6) | [Abel Davies](https://open.spotify.com/artist/3Hd9jQTGq8jm9lMDSnWkvn) | [Tears in Heaven](https://open.spotify.com/album/6JOFI6MEbHB7M759AhH66P) | 2:37 |
 | 309 | [Closing Time](https://open.spotify.com/track/7IoK9oPMLUumpyJdWKxBX8) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Closing Time](https://open.spotify.com/album/2AL1JpefubgHaKg0nxZEb6) | 2:33 |
 
-Snapshot ID: `MTY4MTQzNDAwMCwwMDAwMDAwMGI5OTBkOTkxZjljODhkYjJmZWJmZDU5OWRjNGJkYWE2`
+Snapshot ID: `MCw0Nzg5MGVjNzBjZGVjYWVlY2VkZTcxY2E1NDNmZDE4OWRlODg0OWU1`

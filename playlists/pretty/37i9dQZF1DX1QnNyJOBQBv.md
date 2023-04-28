@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 
 > The hottest Latin pop tracks right now\. Cover: Danna Paola
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,863,102 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,863,249 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 | 49 | [Bendita](https://open.spotify.com/track/3vDP0LdVBqGhKvz2nyMRXS) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Bendita](https://open.spotify.com/album/7KREKP5rqz2xTxFNYABhLr) | 3:19 |
 | 50 | [x ti \- Remix](https://open.spotify.com/track/6jzTj9ABoY1eGcTBYJDRnx) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [x ti \(Remix\)](https://open.spotify.com/album/0dzEd2FKyKzQLaVQ95NlvW) | 3:03 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDZhM2E4MmFjYTUwYjJjODg5YWMyZTU0ZDRjYTlhYzU3`
+Snapshot ID: `MCxlZGY5NTRmNTc4M2U4OTZhY2UyM2MzY2Q2NmEzN2JiNjQ5YTZmZGE4`

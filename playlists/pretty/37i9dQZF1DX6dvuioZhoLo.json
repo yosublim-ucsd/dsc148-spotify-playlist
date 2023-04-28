@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover: Sierra Ferrell",
-  "num_followers": 272178,
+  "num_followers": 272259,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDI2ZDJhN2ZhOWZmYTM5MTE3ZjkzYjg2ODkxMTUyYmQ5",
+  "snapshot_id": "MCwyOWVkMjg4YTY3OTAzZGQxY2Q5ZDRmYzk1ODUxNGQ0MDMxN2ZkNzQ1",
   "tracks": [
     {
       "added_at": "2023-04-21 04:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Happy Man",
-        "url": "https://open.spotify.com/album/5RMDvDiSQwkiK7Ja7EgXhI"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 179763,
-      "name": "Happy Man",
-      "url": "https://open.spotify.com/track/1qxX6y9aYFx4OykdlnzA2s"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Robert Ellis",
         "url": "https://open.spotify.com/album/1cOWI3gTpBWdPp9Rhv4Ezt"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 166533,
       "name": "Drivin'",
       "url": "https://open.spotify.com/track/6VSkzQqDG7trbQfiU0JxDM"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Happy Man",
+        "url": "https://open.spotify.com/album/5RMDvDiSQwkiK7Ja7EgXhI"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        }
+      ],
+      "duration_ms": 179763,
+      "name": "Happy Man",
+      "url": "https://open.spotify.com/track/1qxX6y9aYFx4OykdlnzA2s"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Easy Way",
-        "url": "https://open.spotify.com/album/1baZsLfWdRMcdXqgko3Bo7"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 182826,
-      "name": "Got a Lotta Love",
-      "url": "https://open.spotify.com/track/0RMlPv9lkskpyEXQttMCOq"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "My Gospel",
         "url": "https://open.spotify.com/album/25uC3BzETi50E1xFm05JcK"
       },
@@ -863,6 +847,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Easy Way",
+        "url": "https://open.spotify.com/album/1baZsLfWdRMcdXqgko3Bo7"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        }
+      ],
+      "duration_ms": 182826,
+      "name": "Got a Lotta Love",
+      "url": "https://open.spotify.com/track/0RMlPv9lkskpyEXQttMCOq"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Sidelong",
         "url": "https://open.spotify.com/album/0QsTiookBuBIsLCdSvlTIa"
       },
@@ -907,22 +907,6 @@
       "duration_ms": 184558,
       "name": "Jeremiah",
       "url": "https://open.spotify.com/track/6DVPXh16r4Bl1V1SINfFeB"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "You're Dreaming",
-        "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 241646,
-      "name": "Mississippi",
-      "url": "https://open.spotify.com/track/2MzuBHUg1YLezoTZqfBfVl"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1007,6 +991,22 @@
       "duration_ms": 153466,
       "name": "Goodnight Rhonda Lee",
       "url": "https://open.spotify.com/track/4QtKz1MwAZusR7fqdxov2f"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "You're Dreaming",
+        "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        }
+      ],
+      "duration_ms": 241646,
+      "name": "Mississippi",
+      "url": "https://open.spotify.com/track/2MzuBHUg1YLezoTZqfBfVl"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Forever and Then Some",
-        "url": "https://open.spotify.com/album/6FtDjbQ3un5sAv9VFUFyL0"
-      },
-      "artists": [
-        {
-          "name": "Lillie Mae",
-          "url": "https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF"
-        }
-      ],
-      "duration_ms": 289306,
-      "name": "Forever and Then Some",
-      "url": "https://open.spotify.com/track/2JCkZhTXY187fNi9aIPzHQ"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Walking Proof",
         "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 166231,
       "name": "P-Town",
       "url": "https://open.spotify.com/track/5VdaNqBdJ1PCLIboEnqge2"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Forever and Then Some",
+        "url": "https://open.spotify.com/album/6FtDjbQ3un5sAv9VFUFyL0"
+      },
+      "artists": [
+        {
+          "name": "Lillie Mae",
+          "url": "https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF"
+        }
+      ],
+      "duration_ms": 289306,
+      "name": "Forever and Then Some",
+      "url": "https://open.spotify.com/track/2JCkZhTXY187fNi9aIPzHQ"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Silver Tears",
-        "url": "https://open.spotify.com/album/2JG1zKeTogtW6HUSJD0K6L"
-      },
-      "artists": [
-        {
-          "name": "Aaron Lee Tasjan",
-          "url": "https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo"
-        }
-      ],
-      "duration_ms": 218641,
-      "name": "Memphis Rain",
-      "url": "https://open.spotify.com/track/7pwi5x6uNPnOeG8vM9boCo"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "All Or Nothin' (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0MtDML13BxeSu5oeI1VCzQ"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 201666,
       "name": "Right Time",
       "url": "https://open.spotify.com/track/3dEWwyEuqeNFH0V9OvyRWv"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Silver Tears",
+        "url": "https://open.spotify.com/album/2JG1zKeTogtW6HUSJD0K6L"
+      },
+      "artists": [
+        {
+          "name": "Aaron Lee Tasjan",
+          "url": "https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo"
+        }
+      ],
+      "duration_ms": 218641,
+      "name": "Memphis Rain",
+      "url": "https://open.spotify.com/track/7pwi5x6uNPnOeG8vM9boCo"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Listening to the Music",
-        "url": "https://open.spotify.com/album/13VYDl6nj8dGQgyWiZPOJO"
-      },
-      "artists": [
-        {
-          "name": "Zephaniah OHora",
-          "url": "https://open.spotify.com/artist/6kWzLAW2ZUuy22mLrdwZSY"
-        }
-      ],
-      "duration_ms": 190035,
-      "name": "Black & Blue",
-      "url": "https://open.spotify.com/track/529y37n9VZXubT1KlWM78i"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "With Me in the Summer",
         "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 189871,
       "name": "Still Miss the Way",
       "url": "https://open.spotify.com/track/0y7ARFCXEDZpAOQDD2lmH0"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Listening to the Music",
+        "url": "https://open.spotify.com/album/13VYDl6nj8dGQgyWiZPOJO"
+      },
+      "artists": [
+        {
+          "name": "Zephaniah OHora",
+          "url": "https://open.spotify.com/artist/6kWzLAW2ZUuy22mLrdwZSY"
+        }
+      ],
+      "duration_ms": 190035,
+      "name": "Black & Blue",
+      "url": "https://open.spotify.com/track/529y37n9VZXubT1KlWM78i"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "The Secret Sisters",
-        "url": "https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI"
+        "name": "Faded Gloryville",
+        "url": "https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf"
       },
       "artists": [
         {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+          "name": "Lindi Ortega",
+          "url": "https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ"
         }
       ],
-      "duration_ms": 143160,
-      "name": "My Heart Skips A Beat",
-      "url": "https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE"
+      "duration_ms": 274333,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/1apDxpEFWUmDrTSYYEHv0L"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Faded Gloryville",
-        "url": "https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf"
+        "name": "The Secret Sisters",
+        "url": "https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI"
       },
       "artists": [
         {
-          "name": "Lindi Ortega",
-          "url": "https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ"
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
         }
       ],
-      "duration_ms": 274333,
-      "name": "Ashes",
-      "url": "https://open.spotify.com/track/1apDxpEFWUmDrTSYYEHv0L"
+      "duration_ms": 143160,
+      "name": "My Heart Skips A Beat",
+      "url": "https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE"
     },
     {
       "added_at": "2023-04-21 04:00:00",

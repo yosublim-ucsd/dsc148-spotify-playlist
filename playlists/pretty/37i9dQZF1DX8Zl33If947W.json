@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 126563,
+  "num_followers": 126712,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODA5MDg2MCwwMDAwMDAwMDI3N2M1MGY5Zjg1NmFkNmFiOGZhZmE0N2JlM2VjZDRl",
+  "snapshot_id": "MCwzZjZiMDQzYzRiYzY0MGEyMDY4NDM4ZTQwMTZiMjFkNjhiMGY1N2E2",
   "tracks": [
     {
       "added_at": "2023-03-06 08:21:00",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Normal zu lieben",
-        "url": "https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz"
-      },
-      "artists": [
-        {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
-        }
-      ],
-      "duration_ms": 176680,
-      "name": "Normal zu lieben",
-      "url": "https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Eigentlich",
         "url": "https://open.spotify.com/album/7eBy3KHcADRlTEgK5A6gGJ"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 158895,
       "name": "Eigentlich",
       "url": "https://open.spotify.com/track/2J0r4Ekv7TYMgXakOtTjt7"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Normal zu lieben",
+        "url": "https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 176680,
+      "name": "Normal zu lieben",
+      "url": "https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Reim (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5VpPRQ5SHRyTLxBpDupDQg"
-      },
-      "artists": [
-        {
-          "name": "Matthias Reim",
-          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
-        }
-      ],
-      "duration_ms": 220373,
-      "name": "Verdammt, ich lieb Dich - 2020 Remastered",
-      "url": "https://open.spotify.com/track/2S3XOnYSBvRPAJukBB9dLt"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Liege wieder wach",
         "url": "https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 176250,
       "name": "Liege wieder wach",
       "url": "https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Reim (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5VpPRQ5SHRyTLxBpDupDQg"
+      },
+      "artists": [
+        {
+          "name": "Matthias Reim",
+          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
+        }
+      ],
+      "duration_ms": 220373,
+      "name": "Verdammt, ich lieb Dich - 2020 Remastered",
+      "url": "https://open.spotify.com/track/2S3XOnYSBvRPAJukBB9dLt"
     },
     {
       "added_at": "2023-03-06 08:21:00",

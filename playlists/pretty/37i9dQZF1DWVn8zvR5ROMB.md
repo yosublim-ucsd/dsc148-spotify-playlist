@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Old Dominion, Morgan Evans, Tenille Townes, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,855 likes - 64 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,055 likes - 64 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 4 | [Raised Up Right](https://open.spotify.com/track/4sajp0FouooklY5JCHzwvh) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Raised Up Right](https://open.spotify.com/album/65me2n6m4vtVzbZ26h1w04) | 3:14 |
 | 5 | [HEAVEN HAS A BAR \(with Zac Brown\)](https://open.spotify.com/track/3NfLxTFZRLb8WGVeeG3e8i) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [HEAVEN HAS A BAR \(with Zac Brown\)](https://open.spotify.com/album/0YzBztGGfR2i1TucxB2K0x) | 2:53 |
 | 6 | [Worth It](https://open.spotify.com/track/1squCbXxHkHAO0VYRjTl2S) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Worth It](https://open.spotify.com/album/3cA8ijJVzxkCtV9CePO8If) | 3:03 |
-| 7 | [You Oughta Know \(feat\. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade\) \- Spotify Singles](https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa), [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [You Oughta Know \(feat\. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade\) \[Spotify Singles\]](https://open.spotify.com/album/6IwwVGLtiflk9IkTcRwE6n) | 4:16 |
+| 7 | [You Oughta Know \(feat\. Ingrid Andress, Madeline Edwards, Morgan Wade\) \- Spotify Singles](https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa), [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [You Oughta Know \(feat\. Ingrid Andress, Madeline Edwards, Morgan Wade\) \[Spotify Singles\]](https://open.spotify.com/album/6IwwVGLtiflk9IkTcRwE6n) | 4:16 |
 | 8 | [Bury Me Upside Down](https://open.spotify.com/track/054er1MIyPW8UeRAHmyuzw) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [So Help Me God \(Deluxe Edition\)](https://open.spotify.com/album/3ZVovVzSgailhegK8YmPcS) | 2:49 |
 | 9 | [Hold On](https://open.spotify.com/track/1fOvzFCRA3Ko0ihc2QTE29) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Hold On](https://open.spotify.com/album/3s7URrr4aax9L0kgMyyE00) | 3:04 |
 | 10 | [That's Why We Fight \(feat\. Koe Wetzel\)](https://open.spotify.com/track/33MnBkmn4aV4AbUQS17eYU) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [That's Why We Fight \(feat\. Koe Wetzel\)](https://open.spotify.com/album/5JosqecYhWy8ikWQtYVLel) | 2:43 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 63 | [Lie](https://open.spotify.com/track/2U6D8hcjYVGyAYm9CVNqC2) | [Justin Fancy](https://open.spotify.com/artist/3Z2OcC4z5YzBqMMMplywFj) | [Lie](https://open.spotify.com/album/1u6qmiNw60xC48mvOjjR7X) | 3:01 |
 | 64 | [Happy Day](https://open.spotify.com/track/3C2rrMCwokhJ7z0Bz0hfxp) | [Johnny McGuire](https://open.spotify.com/artist/08rVq88zf9uE6G66X5ve5o) | [Happy Day](https://open.spotify.com/album/1Tdk7JH9EXYR7IY4QnXd2w) | 3:00 |
 
-Snapshot ID: `MTY4MjA4OTk0MCwwMDAwMDAwMDMxMWIxNzRlMGU1YmJlMWQ5Mzk1NTQ2ZmM3YTIyOGM4`
+Snapshot ID: `MCxjOWU1NjE5MTE3OWNhMDNlOWEzZjc5NDA3NjBjOWE5ZGE4OTRlZDkx`

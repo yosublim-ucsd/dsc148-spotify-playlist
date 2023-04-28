@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 
 > All of the best Celtic punk tracks\. Cover: The Dreadnoughts
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,656 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,815 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 49 | [Haul Away, Joe](https://open.spotify.com/track/1aW6Tir7Q7qSPaD7ZQS9hC) | [Fiddler's Green](https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe) | [3 Cheers for 30 Years](https://open.spotify.com/album/4RhmgxIRCzuo9fyF2SZAVh) | 3:21 |
 | 50 | [Fearless and Brave](https://open.spotify.com/track/17GshEAJNdAnoXKqtF3Qpm) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6), [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [The Perfect Match](https://open.spotify.com/album/03SaEIWMLWXZp3Rd1fkQRa) | 2:57 |
 
-Snapshot ID: `MTY0NzYxNTU3MSwwMDAwMDAwMDY0OWNjNzQwM2FmODM3MzBjNmEwOTQxYjEyMWU3ZDAz`
+Snapshot ID: `MCwyNDFlMzI2NGJkMTZjN2NlMWM3ZDJhOTUwMTQ5MjQ2ODc1YTY0MTky`

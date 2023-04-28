@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Arlo Parks
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,325,999 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,325,995 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 22 | [AM/FM](https://open.spotify.com/track/5PCW8qWmZfqBhs5UmuG5wU) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [AM/FM](https://open.spotify.com/album/5C7wsbtvtoVg24iVKGqSD1) | 2:45 |
 | 23 | [Satellite](https://open.spotify.com/track/2ZePtlVh7zuwJuRsyDf0wv) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Satellite](https://open.spotify.com/album/7CqjJX9zyeD5oGqhItutRJ) | 2:59 |
 | 24 | [Warning Sign](https://open.spotify.com/track/4E76b5eScYyjahibva76Bk) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Warning Sign](https://open.spotify.com/album/3vJUWpd8WbFx2nCu7EfKmV) | 3:26 |
-| 25 | [Pressure Bump](https://open.spotify.com/track/6CdHl9Bw10isdinuz9jn3k) | [Beshken](https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB) | [Pressure Bump](https://open.spotify.com/album/67h21Mpdd5ME56hbAX8IbE) | 3:15 |
+| 25 | [Pressure Bump](https://open.spotify.com/track/1tRZYVoJJ02b7a6b8VfeP1) | [Beshken](https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB) | [Pressure Bump](https://open.spotify.com/album/6k8EuSWWpLf7LvQUjXs71s) | 3:15 |
 | 26 | [NOT ALONE](https://open.spotify.com/track/42RpLZC6rKzQZyLMaJMsDJ) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [NOT ALONE](https://open.spotify.com/album/06osQucbdoBctWgXgdFblC) | 3:03 |
 | 27 | [Madres](https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5) | 3:56 |
 | 28 | [HEAVEN TO ME](https://open.spotify.com/track/4Z1ZlABSKDlVByJL3y5OVs) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 99 | [Weightless](https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Weightless](https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp) | 4:02 |
 | 100 | [Same Problems?](https://open.spotify.com/track/3jpZwYrDbX2lQMhHwXjyUD) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Same Problems?](https://open.spotify.com/album/3MwuzX0j37H9SYVH78Oavt) | 4:22 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDNhZDc3ZDM2MTRjMDNmZTkyMzAwNDM1MGViMjNlY2Zj`
+Snapshot ID: `MCwxMWNhZWQ0ZTY2MjNkMTQwYzhjMmM0NzM4MmE5N2FjNmY0ZTAyZThm`

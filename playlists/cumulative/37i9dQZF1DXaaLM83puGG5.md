@@ -4,7 +4,7 @@
 
 > Keeping the party going w/ Designer, LaQuan Smith for \#NYFW
 
-459 songs - 1 day 3 hr 53 min
+460 songs - 1 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,8 @@
 | [Funny Thing](https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 1:56 | 2022-03-05 | 2022-04-09 |
 | [Fyre](https://open.spotify.com/track/6C0UVv0Z8zk4IzUBn9I6qP) | [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [Fyre](https://open.spotify.com/album/3tTg7USCRy5MtCOgEu4SHV) | 3:31 | 2022-10-25 | 2022-12-02 |
 | [Gal Pon De Side](https://open.spotify.com/track/5pt1qqweoMxQ4qfk1jgpb2) | [Frisco Kid](https://open.spotify.com/artist/3FQmk40XXoExWndDiA28I7) | [Showtime Jam](https://open.spotify.com/album/5PnAfHfi3VanhMFdmkI31T) | 2:35 | 2022-09-03 | 2022-10-26 |
-| [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/6Ntj4LvgVgjlprxD2JyhZS) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:39 | 2023-02-13 |  |
+| [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/2g5q0UpOOFMNOcHGaMG4b0) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg) | 2:39 | 2023-02-13 |  |
+| [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/6Ntj4LvgVgjlprxD2JyhZS) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:39 | 2023-02-13 | 2023-04-28 |
 | [GANGSTA PARTY](https://open.spotify.com/track/0wUnKWRBSBG4BN3WJPCLws) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Duke Nukem](https://open.spotify.com/album/5zHRmdMoG6VOj5cQS9Ngg9) | 2:29 | 2022-01-28 | 2022-04-09 |
 | [Get Away](https://open.spotify.com/track/7z7YdeM87GplcOag7m08tb) | [ADO](https://open.spotify.com/artist/2OAEsMvEXwG6AQQ7lHkHZ4), [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Focus](https://open.spotify.com/album/0aBn2yFmfeYbfhEYpFMEy9) | 4:24 | 2021-11-10 | 2022-01-29 |
 | [Get Me Home](https://open.spotify.com/track/6Xo9osN1HErsEJoqwj4eDg) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 3:49 | 2022-09-03 | 2022-10-26 |

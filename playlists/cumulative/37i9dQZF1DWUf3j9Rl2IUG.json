@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Afrobeats' hottest singles. Cover: <a href=\"https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL?si=uflhdFTJTcChHYghWx3RoA\"> L.A.X</a> ",
+  "description": "Afrobeats' hottest singles. Cover: <a href=\"https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI?si=LQYbpLmESgm81tBc0t3L9Q\"> Young Jonn </a> ",
   "name": "Gbedu",
   "tracks": [
     {
@@ -173,6 +173,24 @@
     },
     {
       "album": {
+        "name": "Aquafina",
+        "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168103,
+      "name": "Aquafina",
+      "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
+    },
+    {
+      "album": {
         "name": "Ara (Gen Gen Tin)",
         "url": "https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO"
       },
@@ -242,7 +260,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 171921,
       "name": "Astalavista",
       "url": "https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE"
@@ -1010,7 +1028,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 135000,
       "name": "Energy (feat. DJ Obi)",
       "url": "https://open.spotify.com/track/3EklQCmvvd8kjZ5YtGoXnF"
@@ -2378,6 +2396,24 @@
       "duration_ms": 186446,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/47FuxUowVBxua1XxsbLKKX"
+    },
+    {
+      "album": {
+        "name": "Omo Ologo",
+        "url": "https://open.spotify.com/album/74BlJC2C7ifL7mgPCRFpKN"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156897,
+      "name": "Rara",
+      "url": "https://open.spotify.com/track/7Ko1e2popoynx9jsU0wj6S"
     },
     {
       "album": {

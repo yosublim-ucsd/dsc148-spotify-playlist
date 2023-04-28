@@ -634,7 +634,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-25",
+      "date_removed": null,
       "duration_ms": 225175,
       "name": "Beat it Up 2k23",
       "url": "https://open.spotify.com/track/7dW44unUq1kL0Hku6wq7uj"
@@ -1030,6 +1030,24 @@
       "duration_ms": 126955,
       "name": "Can You Bounce? - Remix",
       "url": "https://open.spotify.com/track/0NEFhpfDe0ObM1mg1J7paV"
+    },
+    {
+      "album": {
+        "name": "Club Soda Vol. 3",
+        "url": "https://open.spotify.com/album/4BbClEFUGxAdwWViJdMDS2"
+      },
+      "artists": [
+        {
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116800,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/5XRBpyoHqvWl6sB5vIocwn"
     },
     {
       "album": {
@@ -2158,7 +2176,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 85861,
       "name": "Hips Real Sturdy (Touch Dem Hips) - Sped Up Version",
       "url": "https://open.spotify.com/track/3jZPyE3RMZLTFfGoBrsK17"
@@ -2491,6 +2509,24 @@
     },
     {
       "album": {
+        "name": "Jersey Club Movie",
+        "url": "https://open.spotify.com/album/5dwSceWZg4NNLabLstdnDN"
+      },
+      "artists": [
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97342,
+      "name": "Jersey Club Movie",
+      "url": "https://open.spotify.com/track/0kLyN93Q5LbMY8Ac1rR4sR"
+    },
+    {
+      "album": {
         "name": "Jimmy Crooks",
         "url": "https://open.spotify.com/album/6fYt6tWcPaURUSfzovB2vG"
       },
@@ -2794,7 +2830,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 102187,
       "name": "Look Back It (Club Mix)",
       "url": "https://open.spotify.com/track/7lPL2wD5oCwBuqBLJhCFEa"
@@ -2966,6 +3002,24 @@
       "duration_ms": 162196,
       "name": "miles (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D"
+    },
+    {
+      "album": {
+        "name": "Millions (Jumbo Sounds Mix)",
+        "url": "https://open.spotify.com/album/3oMxuwT3lWVKT9C6NZabpJ"
+      },
+      "artists": [
+        {
+          "name": "Tierra Whack",
+          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Millions - Jumbo Sounds Mix",
+      "url": "https://open.spotify.com/track/6vXb4B2xZTNXPFJGaOMO5q"
     },
     {
       "album": {
@@ -3776,7 +3830,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 135211,
       "name": "Push It - UNIIQU3 Remix",
       "url": "https://open.spotify.com/track/072REW0b0PT7z1K7sKAE9I"
@@ -4764,7 +4818,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 145655,
       "name": "Vacation",
       "url": "https://open.spotify.com/track/2eAcey7KS6TmHulCNjxABW"

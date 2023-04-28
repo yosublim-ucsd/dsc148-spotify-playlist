@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zondag met deze zachte pop liedjes.
 
-112 songs - 6 hr 27 min
+113 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Blind Spot](https://open.spotify.com/track/5UHIwUItXXFoSUSuPulnpP) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Blind Spot](https://open.spotify.com/album/3FBrrFX3ePFvenJ3VJD5kN) | 3:21 | 2022-12-22 |  |
 | [Broken](https://open.spotify.com/track/7H0LEHtKUsz5bwp1juDZvw) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [Broken](https://open.spotify.com/album/7oikaRbWRSqMSUYh3BDMSj) | 3:51 | 2022-12-22 |  |
 | [Brother Sun/Sister Moon \- acoustic](https://open.spotify.com/track/1BbWvpPdh9rpy0ELSgfx6e) | [LYS](https://open.spotify.com/artist/6Kp9gMLqYA14HIrTitRJEQ) | [Brother Sun/Sister Moon \(acoustic\)](https://open.spotify.com/album/19OUAko1152hDfFkY9PM4F) | 3:34 | 2022-12-22 |  |
+| [Burning Bodies \- Stripped Down Sessions](https://open.spotify.com/track/6u9zuTh8p4mZ6reEmtRY28) | [Sophie van Hasselt](https://open.spotify.com/artist/3r68N4ZRD3j8AfGrGvhMVm), [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [Burning Bodies \(Stripped Down Sessions\)](https://open.spotify.com/album/5wVHMsxeEQWolOug4Z2odi) | 2:46 | 2023-04-27 |  |
 | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU) | 2:10 | 2023-02-16 |  |
 | [Cat 13](https://open.spotify.com/track/5nFCcnOHsn6ORG0nzEctKo) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Cat 13](https://open.spotify.com/album/2F0d12TCgGRc5RbYHitxAN) | 3:03 | 2022-12-22 |  |
 | [Choose](https://open.spotify.com/track/0ALBvFlwYodhGu6COmVspJ) | [Joseph & Maia](https://open.spotify.com/artist/2dXGyySsUY7yYzCfMf6OSZ) | [Choose](https://open.spotify.com/album/5uXVaWOm6gjQLj4KQL3Cyc) | 2:50 | 2023-04-13 |  |

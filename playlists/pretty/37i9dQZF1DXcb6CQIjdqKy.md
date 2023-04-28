@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\.   Cover:  <a href="https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD?si=ZKOL\_11\_SlWkqMthacOUQQ">Housefires</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,542,264 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,542,548 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Look Around](https://open.spotify.com/track/45MwQxfmmHhYFGQuyPOpt3) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Cecily Hennigan](https://open.spotify.com/artist/3zYhPKXlVf8jlSHqlpiqWh) | [How To Start A Housefire \(Pt\. II\)](https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk) | 7:21 |
+| 1 | [Look Around](https://open.spotify.com/track/45MwQxfmmHhYFGQuyPOpt3) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [How To Start A Housefire \(Pt\. II\)](https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk) | 7:21 |
 | 2 | [This Is The Gospel](https://open.spotify.com/track/1M3Y52bIexPAMJlcRju6zB) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [This Is The Gospel](https://open.spotify.com/album/0cyL91vJpH6BgbY7zGwktn) | 5:05 |
 | 3 | [Sunday Is Coming](https://open.spotify.com/track/08eMkrkp2sobR0zNs4kVtK) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Sunday Is Coming](https://open.spotify.com/album/4dkpEziADCqKpBvszDfPua) | 4:52 |
 | 4 | [Grace To Grace \(Staring Out Into The Old City\) \- Live](https://open.spotify.com/track/7FqbZmbhvGeKu0E0V5cumF) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64) | [Of Dirt And Grace: Live From The Land \(Expanded Edition\)](https://open.spotify.com/album/1GUEempDMheicK14bjCtv0) | 6:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 99 | [Never Walk Alone \- Live At Team Night](https://open.spotify.com/track/6i7YX1pSS23xCdfW1vzjBf) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Team Night \(Live\)](https://open.spotify.com/album/7eJTb3VeQuRdefsPSQ5lzO) | 4:33 |
 | 100 | [Got What You Need](https://open.spotify.com/track/3OcUVWhubdvvmQ6YFH0ySA) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Everyone Loves A Comeback Story](https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20) | 3:11 |
 
-Snapshot ID: `MTY4MjA3NzY4NywwMDAwMDAwMGViZWQ2NWNiYTQyMDk0NWI5MWY3OTUxNGQwM2EyOTg2`
+Snapshot ID: `MCw0N2JlOGQzYzY0YzBmMjZiMzU2YzFjMWQ1MmU4MjY3ZWFkNmY3Mzlh`

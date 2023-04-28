@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 
 > In partnership with <a href="https://goldhouse.org/">Gold House</a>, we are excited to announce our first Gold House Future Music Guild artists: Anik Khan, Ruby Ibarra & thuy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,001 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,025 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 | 49 | [February Song](https://open.spotify.com/track/69fLVwZ9rQImSXMJSwYb39) | [Melissa Polinar](https://open.spotify.com/artist/2O6S01fSY6YHfZT6qLAgxG), [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [February Song](https://open.spotify.com/album/3iNMX5Rjd4IS8bsl8NrQo3) | 3:20 |
 | 50 | [OMG](https://open.spotify.com/track/1nLtR8vhySvat85DR0W1Zt) | [Annalé](https://open.spotify.com/artist/7A3a8XrIxL8NZgqaKlnPrW) | [OMG](https://open.spotify.com/album/7wpAiiFQAADL1pLwH0iCf8) | 2:43 |
 
-Snapshot ID: `MTY2MDU4MDMwOCwwMDAwMDAwMDJmYjFiZGViMTRiMjc5OTY5YjAzNDA5MTBiZTMxYmY3`
+Snapshot ID: `MCwzYTBmMDYxOTlmY2ZkNDRiMzk0MGQ1NTNjNjYyOTRiNDZiMmI2NWZh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Anitta, Matheus & Kauan, Mari Fernandez com Luiza Sonza, Luccas Carlos, Molejo com Thiaguinho e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,864,403 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,864,709 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 99 | [VAI MENINA ABRE UM SORRISO](https://open.spotify.com/track/6p0aLvHYRRrnHbFt1ss9nm) | [mc mulekinho](https://open.spotify.com/artist/4p1M3kepbRAalRfTEsLdXE), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [DJ DH](https://open.spotify.com/artist/628RT3hV9yv9lcU3qwfSfL), [CLUB DA DZ7](https://open.spotify.com/artist/0OYVtrqGQ97ub2QGLNbOql), [DJ P7](https://open.spotify.com/artist/6mACLfkeOp2ZwZWyrbLIMM) | [VAI MENINA ABRE UM SORRISO](https://open.spotify.com/album/7F9k60hXtqcT9I1i07m75J) | 2:09 |
 | 100 | [Bota pra Descer](https://open.spotify.com/track/2FkhPcDwCogTOXU6lm9EJn) | [Ramon e Randinho](https://open.spotify.com/artist/1rp9xp9dkHqxRRhlunXWID), [Fabinho Testado](https://open.spotify.com/artist/29OyPpZR54SPGzG4YmQ8gY) | [Bota pra Descer](https://open.spotify.com/album/7x00LThpknHNYX4XNaLU8r) | 2:36 |
 
-Snapshot ID: `MTY4MjA0NjA2MCwwMDAwMDAwMDY5YTljOGI4ZDM2MzM0ODk3ODQyNzA4Y2EyNGUxYWNj`
+Snapshot ID: `MCw3MjU0NjY1M2I0M2MzOTNiZDI0ZWRkM2E3NTM2NzBhOGJhZTIzYWQ2`

@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: Becky G & Omega",
-  "num_followers": 590645,
+  "num_followers": 590733,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyNjIzNywwMDAwMDAwMDBjMzMzZTU4MmQyODlhOWI2Nzc3NTY3YmQwMzUzNmE1",
+  "snapshot_id": "MCw1Y2I0Yzk5ZmY5ZWZhMjE1ZTc5ZGQ3ODBhYTBiOWM3ZWM3OWVjYWEx",
   "tracks": [
     {
       "added_at": "2023-04-13 22:50:37",
@@ -267,26 +267,6 @@
     {
       "added_at": "2023-04-13 22:50:37",
       "album": {
-        "name": "De Adentro Pa Afuera",
-        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 212813,
-      "name": "Ambulancia",
-      "url": "https://open.spotify.com/track/5OPte07J5hRK1pTn0f7ldr"
-    },
-    {
-      "added_at": "2023-04-13 22:50:37",
-      "album": {
         "name": "De Vuelta Pa' La Vuelta",
         "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 231593,
       "name": "De Vuelta Pa' La Vuelta",
       "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
+    },
+    {
+      "added_at": "2023-04-13 22:50:37",
+      "album": {
+        "name": "De Adentro Pa Afuera",
+        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 212813,
+      "name": "Ambulancia",
+      "url": "https://open.spotify.com/track/5OPte07J5hRK1pTn0f7ldr"
     },
     {
       "added_at": "2023-04-13 22:50:37",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-04-13 22:50:37",
       "album": {
+        "name": "Vida de Rico",
+        "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 187426,
+      "name": "Vida de Rico",
+      "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
+    },
+    {
+      "added_at": "2023-04-13 22:50:37",
+      "album": {
         "name": "Canci\u00f3n Bonita",
         "url": "https://open.spotify.com/album/0MykRhKNiatX85K4bCHL8U"
       },
@@ -419,30 +435,6 @@
       "duration_ms": 169559,
       "name": "Canci\u00f3n Bonita",
       "url": "https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0"
-    },
-    {
-      "added_at": "2023-04-13 22:50:37",
-      "album": {
-        "name": "Dharma",
-        "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
-        },
-        {
-          "name": "Rosario",
-          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
-        }
-      ],
-      "duration_ms": 195760,
-      "name": "Dharma",
-      "url": "https://open.spotify.com/track/5tpAcJ47UgF4udM5YXcDd2"
     },
     {
       "added_at": "2023-04-13 22:50:37",
@@ -471,18 +463,26 @@
     {
       "added_at": "2023-04-13 22:50:37",
       "album": {
-        "name": "Vida de Rico",
-        "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
+        "name": "Dharma",
+        "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
       },
       "artists": [
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
+          "name": "Rosario",
+          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
         }
       ],
-      "duration_ms": 187426,
-      "name": "Vida de Rico",
-      "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
+      "duration_ms": 195760,
+      "name": "Dharma",
+      "url": "https://open.spotify.com/track/5tpAcJ47UgF4udM5YXcDd2"
     },
     {
       "added_at": "2023-04-13 22:50:37",
@@ -523,18 +523,22 @@
     {
       "added_at": "2023-04-13 22:50:37",
       "album": {
-        "name": "Encanto (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+        "name": "BEB\u00c9",
+        "url": "https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai"
       },
       "artists": [
         {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         }
       ],
-      "duration_ms": 175280,
-      "name": "Colombia, Mi Encanto",
-      "url": "https://open.spotify.com/track/2Q5q1q01KOdHt5fM00WUJ8"
+      "duration_ms": 198706,
+      "name": "BEB\u00c9",
+      "url": "https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1"
     },
     {
       "added_at": "2023-04-13 22:50:37",
@@ -551,6 +555,22 @@
       "duration_ms": 216737,
       "name": "Sus Huellas",
       "url": "https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw"
+    },
+    {
+      "added_at": "2023-04-13 22:50:37",
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 175280,
+      "name": "Colombia, Mi Encanto",
+      "url": "https://open.spotify.com/track/2Q5q1q01KOdHt5fM00WUJ8"
     },
     {
       "added_at": "2023-04-13 22:50:37",
@@ -651,26 +671,6 @@
     {
       "added_at": "2023-04-13 22:50:37",
       "album": {
-        "name": "BEB\u00c9",
-        "url": "https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 198706,
-      "name": "BEB\u00c9",
-      "url": "https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1"
-    },
-    {
-      "added_at": "2023-04-13 22:50:37",
-      "album": {
         "name": "F\u00f3rmula, Vol. 3",
         "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
       },
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-04-13 22:50:37",
       "album": {
-        "name": "Lao' a Lao'",
-        "url": "https://open.spotify.com/album/1tvJvDz3tXfhq0xfABFuU9"
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY"
       },
       "artists": [
         {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 184341,
-      "name": "Lao' a Lao'",
-      "url": "https://open.spotify.com/track/7FERDnffKGQKul3P32Sm37"
+      "duration_ms": 228966,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn"
     },
     {
       "added_at": "2023-04-13 22:50:37",
@@ -771,18 +771,18 @@
     {
       "added_at": "2023-04-13 22:50:37",
       "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY"
+        "name": "Lao' a Lao'",
+        "url": "https://open.spotify.com/album/1tvJvDz3tXfhq0xfABFuU9"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         }
       ],
-      "duration_ms": 228966,
-      "name": "Mala",
-      "url": "https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn"
+      "duration_ms": 184341,
+      "name": "Lao' a Lao'",
+      "url": "https://open.spotify.com/track/7FERDnffKGQKul3P32Sm37"
     },
     {
       "added_at": "2023-04-13 22:50:37",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-04-13 22:50:37",
       "album": {
-        "name": "Cu\u00e1ndo",
-        "url": "https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp"
-      },
-      "artists": [
-        {
-          "name": "Gusi",
-          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
-        }
-      ],
-      "duration_ms": 206412,
-      "name": "Cu\u00e1ndo",
-      "url": "https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3"
-    },
-    {
-      "added_at": "2023-04-13 22:50:37",
-      "album": {
         "name": "Kitipun",
         "url": "https://open.spotify.com/album/7Hp43M9ZedO6dhIOa3O3fN"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 216946,
       "name": "Kitipun",
       "url": "https://open.spotify.com/track/04elniHFWwwFHxi3SZlGI6"
+    },
+    {
+      "added_at": "2023-04-13 22:50:37",
+      "album": {
+        "name": "Pegao / Me Miro y La Mire (TikTok Hit)",
+        "url": "https://open.spotify.com/album/2owNg3nikzMzLuQy9n0Jqz"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Pegao / Me Miro y La Mire - TikTok Hit",
+      "url": "https://open.spotify.com/track/4Pzk85DqWoLqptyA5IlhLk"
     },
     {
       "added_at": "2023-04-13 22:50:37",
@@ -875,34 +875,18 @@
     {
       "added_at": "2023-04-13 22:50:37",
       "album": {
-        "name": "Pa'lla Voy",
-        "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
+        "name": "Cu\u00e1ndo",
+        "url": "https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
         }
       ],
-      "duration_ms": 246787,
-      "name": "Pa'lla Voy",
-      "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
-    },
-    {
-      "added_at": "2023-04-13 22:50:37",
-      "album": {
-        "name": "Pegao / Me Miro y La Mire (TikTok Hit)",
-        "url": "https://open.spotify.com/album/2owNg3nikzMzLuQy9n0Jqz"
-      },
-      "artists": [
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
-        }
-      ],
-      "duration_ms": 216666,
-      "name": "Pegao / Me Miro y La Mire - TikTok Hit",
-      "url": "https://open.spotify.com/track/4Pzk85DqWoLqptyA5IlhLk"
+      "duration_ms": 206412,
+      "name": "Cu\u00e1ndo",
+      "url": "https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3"
     },
     {
       "added_at": "2023-04-13 22:50:37",
@@ -919,6 +903,22 @@
       "duration_ms": 229200,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/71WrR2qgwisH0tJZnI5xiQ"
+    },
+    {
+      "added_at": "2023-04-13 22:50:37",
+      "album": {
+        "name": "Pa'lla Voy",
+        "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 246787,
+      "name": "Pa'lla Voy",
+      "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
     },
     {
       "added_at": "2023-04-13 22:50:37",
@@ -959,22 +959,6 @@
       "duration_ms": 204324,
       "name": "Nuestro Amor",
       "url": "https://open.spotify.com/track/197PCRC6OSRsJvYCurlsdz"
-    },
-    {
-      "added_at": "2023-04-13 22:50:37",
-      "album": {
-        "name": "Pa'lla Voy",
-        "url": "https://open.spotify.com/album/463Gp4DWFkicvZ3DCfgj0S"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 252100,
-      "name": "Nada de Nada",
-      "url": "https://open.spotify.com/track/4CX96IInUaO0d6COMz62Qp"
     },
     {
       "added_at": "2023-04-13 22:50:37",
@@ -1067,22 +1051,6 @@
     {
       "added_at": "2023-04-13 22:50:37",
       "album": {
-        "name": "OPUS",
-        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 374053,
-      "name": "Tu Vida en la M\u00eda",
-      "url": "https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc"
-    },
-    {
-      "added_at": "2023-04-13 22:50:37",
-      "album": {
         "name": "Cartas Sobre La Mesa",
         "url": "https://open.spotify.com/album/2vHiGSGYRjcoJMarvktzhi"
       },
@@ -1095,6 +1063,22 @@
       "duration_ms": 191081,
       "name": "Cartas Sobre La Mesa",
       "url": "https://open.spotify.com/track/0uXqpDkoW72tss8cbja7Ew"
+    },
+    {
+      "added_at": "2023-04-13 22:50:37",
+      "album": {
+        "name": "Pa'lla Voy",
+        "url": "https://open.spotify.com/album/463Gp4DWFkicvZ3DCfgj0S"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 252100,
+      "name": "Nada de Nada",
+      "url": "https://open.spotify.com/track/4CX96IInUaO0d6COMz62Qp"
     },
     {
       "added_at": "2023-04-13 22:50:37",
@@ -1267,6 +1251,22 @@
     {
       "added_at": "2023-04-13 22:50:37",
       "album": {
+        "name": "OPUS",
+        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 374053,
+      "name": "Tu Vida en la M\u00eda",
+      "url": "https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc"
+    },
+    {
+      "added_at": "2023-04-13 22:50:37",
+      "album": {
         "name": "Lado A Lado B",
         "url": "https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n"
       },
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-04-13 22:50:37",
       "album": {
-        "name": "atravesao",
-        "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 200510,
-      "name": "atravesao",
-      "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
-    },
-    {
-      "added_at": "2023-04-13 22:50:37",
-      "album": {
         "name": "Vallenato Apretao",
         "url": "https://open.spotify.com/album/5bNX7w96OZ2J8cZUaA33jo"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 158120,
       "name": "Vallenato Apretao",
       "url": "https://open.spotify.com/track/35iMl0FlgdxgOycezlyrPz"
+    },
+    {
+      "added_at": "2023-04-13 22:50:37",
+      "album": {
+        "name": "atravesao",
+        "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 200510,
+      "name": "atravesao",
+      "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
     },
     {
       "added_at": "2023-04-13 22:50:37",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-04-13 22:50:37",
       "album": {
-        "name": "Leandro D\u00edaz Special Edition",
-        "url": "https://open.spotify.com/album/15YN8Utsvs8BZuxgWGccns"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        }
-      ],
-      "duration_ms": 227900,
-      "name": "Matilde Lina",
-      "url": "https://open.spotify.com/track/2uTXEOD9TzgYoD6iupAxab"
-    },
-    {
-      "added_at": "2023-04-13 22:50:37",
-      "album": {
         "name": "Religi\u00f3n",
         "url": "https://open.spotify.com/album/59M5urdBBastXOof10375B"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 185575,
       "name": "Sincero - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/5mQtZ1tv8of7sHwdOOiW6T"
+    },
+    {
+      "added_at": "2023-04-13 22:50:37",
+      "album": {
+        "name": "Leandro D\u00edaz Special Edition",
+        "url": "https://open.spotify.com/album/15YN8Utsvs8BZuxgWGccns"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "duration_ms": 227900,
+      "name": "Matilde Lina",
+      "url": "https://open.spotify.com/track/2uTXEOD9TzgYoD6iupAxab"
     },
     {
       "added_at": "2023-04-13 22:50:37",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2023-04-13 22:50:37",
       "album": {
-        "name": "Sopita",
-        "url": "https://open.spotify.com/album/7aeqawsfMYRteFQJ3Srl5I"
-      },
-      "artists": [
-        {
-          "name": "KYEN?ES?",
-          "url": "https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx"
-        },
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
-        }
-      ],
-      "duration_ms": 206442,
-      "name": "Sopita",
-      "url": "https://open.spotify.com/track/4eXzQyAZ4jow5Hh41vqfgb"
-    },
-    {
-      "added_at": "2023-04-13 22:50:37",
-      "album": {
         "name": "Si Me Das Tu Amor",
         "url": "https://open.spotify.com/album/4HnkFvcWujnLxUcPQkPjRM"
       },
@@ -1655,6 +1635,26 @@
       "duration_ms": 213186,
       "name": "Si Me Das Tu Amor",
       "url": "https://open.spotify.com/track/1O34fFJyV7djSqRtOuRSVh"
+    },
+    {
+      "added_at": "2023-04-13 22:50:37",
+      "album": {
+        "name": "Sopita",
+        "url": "https://open.spotify.com/album/7aeqawsfMYRteFQJ3Srl5I"
+      },
+      "artists": [
+        {
+          "name": "KYEN?ES?",
+          "url": "https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        }
+      ],
+      "duration_ms": 206442,
+      "name": "Sopita",
+      "url": "https://open.spotify.com/track/4eXzQyAZ4jow5Hh41vqfgb"
     },
     {
       "added_at": "2023-04-13 22:50:37",
@@ -1711,6 +1711,22 @@
       "duration_ms": 205090,
       "name": "Vuela Muy Alto",
       "url": "https://open.spotify.com/track/6r6jKUKCzpjzJXPCVkz7yT"
+    },
+    {
+      "added_at": "2023-04-13 22:50:37",
+      "album": {
+        "name": "No Te Vayas",
+        "url": "https://open.spotify.com/album/5LWzkXfz3kWsZ6mAc122X9"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 226128,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/587xp1Yt8CAPzbHsAuN5nD"
     },
     {
       "added_at": "2023-04-13 22:50:37",
@@ -1787,22 +1803,6 @@
       "duration_ms": 219049,
       "name": "Si T\u00fa Me Dices Ven - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/0JNQYjX9aVmAI2KZMvlp9E"
-    },
-    {
-      "added_at": "2023-04-13 22:50:37",
-      "album": {
-        "name": "No Te Vayas",
-        "url": "https://open.spotify.com/album/5LWzkXfz3kWsZ6mAc122X9"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 226128,
-      "name": "No Te Vayas",
-      "url": "https://open.spotify.com/track/587xp1Yt8CAPzbHsAuN5nD"
     },
     {
       "added_at": "2023-04-13 22:50:37",

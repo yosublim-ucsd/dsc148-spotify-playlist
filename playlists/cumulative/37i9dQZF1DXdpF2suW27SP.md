@@ -2,9 +2,9 @@
 
 ### [Na Zona](https://open.spotify.com/playlist/37i9dQZF1DXdpF2suW27SP)
 
-> Kappa Jotta entra na zona.
+> Ivandro e Julinho Ksd entram na zona.
 
-259 songs - 14 hr 7 min
+261 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [CARO](https://open.spotify.com/track/0zjmhKBOuslq0d26IEbVKD) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [CARO](https://open.spotify.com/album/4IwuZcwCQmHt7SEX2TUrxP) | 3:57 | 2022-11-25 |  |
 | [Carry On](https://open.spotify.com/track/73ff7ZfBrSYRue9IYa2I2C) | [Rapaz 100 Juiz](https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5), [Maura Delgado](https://open.spotify.com/artist/4aLDuAbkEccl1k0h3oZpkc) | [Carry On](https://open.spotify.com/album/6sA3Dj0tNkOJd8l8igV4RQ) | 3:10 | 2023-03-03 | 2023-03-25 |
 | [Casado Com A Vitória](https://open.spotify.com/track/53QlEnbQ27ngYXnGz9s6kb) | [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5) | [PRODIGIA\-TE \(Di Tchon Deluxe\)](https://open.spotify.com/album/745Ii4Ue5tQeLiGEna5lsZ) | 2:10 | 2022-07-16 | 2022-08-02 |
+| [Chakras](https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Chakras](https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K) | 3:16 | 2023-04-27 |  |
 | [Chance](https://open.spotify.com/track/1AClteNHhuIF4uGgPCHKhA) | [BCKappa](https://open.spotify.com/artist/2XAxChRi8QlO5rKAoL0DZi), [Juh](https://open.spotify.com/artist/5eviHRz2iMhA8NSTP176u8) | [Chance](https://open.spotify.com/album/0iSgo1smaFKzYKguM5Kws9) | 3:16 | 2023-01-06 | 2023-02-17 |
 | [Chauffeur](https://open.spotify.com/track/3ARuPTEPMpbr7mz1aHa0a6) | [Regula](https://open.spotify.com/artist/6pyqBc7HaffcZJhyfjnceP), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Chauffeur](https://open.spotify.com/album/4LAYeC7gWp1jFiS1q101OK) | 4:26 | 2022-10-13 |  |
 | [Cheques \(feat\. Julinho KSD, Kibow, Trista & Yuran\)](https://open.spotify.com/track/1D8cZxGppgdcMwflIWNsp9) | [Instinto 26](https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV), [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Kibow](https://open.spotify.com/artist/09R2ZnVOtZJjYH5CkDkA0M), [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw), [Yuran](https://open.spotify.com/artist/3zvbATHitSjEZ54l7QnJN0) | [Cheques \(feat\. Julinho KSD, Kibow, Trista & Yuran\)](https://open.spotify.com/album/0zUpP8WYAIlKKWR4IsnNvg) | 3:21 | 2022-07-21 | 2022-09-16 |
@@ -70,6 +71,7 @@
 | [Cor de Canela](https://open.spotify.com/track/0N679zBdgZFHkm2CFY0WZg) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l) | [Cor de Canela](https://open.spotify.com/album/4S2WqT9XRlW8pVNzLo8sb0) | 2:44 | 2022-07-16 | 2022-07-22 |
 | [Coração](https://open.spotify.com/track/1dmgHNSeYDyqb6TwLatTfc) | [GROGNation](https://open.spotify.com/artist/1rtrFjartQj3xws8TZ1dXu) | [Anatomia de GROG](https://open.spotify.com/album/333cuKMpbc1kaTufa6Uu2y) | 4:42 | 2022-07-16 |  |
 | [Correria](https://open.spotify.com/track/1WtxmzuEmFhoiIaUl5mlvA) | [Mota JR](https://open.spotify.com/artist/6ifumpAV0R9kdjfy6pWzHc) | [Correria](https://open.spotify.com/album/3DsFF9RF9Q5is4XlSYM4ut) | 2:17 | 2022-09-01 | 2022-09-23 |
+| [DAKAR](https://open.spotify.com/track/63q6I2XT4bhSaauCQWOYM1) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [DAKAR](https://open.spotify.com/album/6a0RFiFtvOADiIpxS3SfVR) | 3:44 | 2023-04-27 |  |
 | [Damas dos Opps](https://open.spotify.com/track/6yyirBOiGfQQhuqpIim06A) | [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [Damas dos Opps](https://open.spotify.com/album/2bgd8LSar1o1zWZLgJfwfy) | 3:03 | 2022-09-01 | 2022-09-23 |
 | [DEADOPPS](https://open.spotify.com/track/4KE7b7hmPjdiCpgPrak4PX) | [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK), [Noname](https://open.spotify.com/artist/6xf1SJx82RDLL6wdSDDZXI), [R9](https://open.spotify.com/artist/4n62j4kWVDlqKf0i3NYq0z) | [DEADOPPS](https://open.spotify.com/album/1RGxQoFNd33Cc42YUwrxeR) | 2:49 | 2023-04-20 |  |
 | [Dentu Di Espanha](https://open.spotify.com/track/7glOAznlQuVCZ3KcqkUqWL) | [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK), [Casp3r](https://open.spotify.com/artist/2dNyGUrMkoGzDHTMTukhf6) | [Dentu Di Espanha](https://open.spotify.com/album/3iC4A749XyBNEGTJUvGGGi) | 3:33 | 2022-07-21 | 2022-08-19 |
@@ -97,7 +99,7 @@
 | [Estrela Maior](https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Estrela Maior](https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0) | 4:25 | 2023-02-20 |  |
 | [EU SEI](https://open.spotify.com/track/7BN2gjCwesbpg6fk2AgRvB) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [EU SEI](https://open.spotify.com/album/7Ks72VKkVAbJqTbvz8VwVa) | 3:43 | 2023-04-13 |  |
 | [EUROPA \(feat\. Gson\)](https://open.spotify.com/track/5bBQI31u2eqXJE5OyP4hxq) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [EUROPA \(feat\. Gson\)](https://open.spotify.com/album/4mJPvU4b5VgvQNgyuDcD0Q) | 3:36 | 2022-07-16 | 2023-02-03 |
-| [EViL](https://open.spotify.com/track/2VaLKyJgR9lIVoTqf4oIyY) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [EViL](https://open.spotify.com/album/3fCwkZDlvmzwqx0O2j3ASt) | 2:50 | 2022-08-01 |  |
+| [EViL](https://open.spotify.com/track/2VaLKyJgR9lIVoTqf4oIyY) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [EViL](https://open.spotify.com/album/3fCwkZDlvmzwqx0O2j3ASt) | 2:50 | 2022-08-01 | 2023-04-28 |
 | [FAMA](https://open.spotify.com/track/35uZfu8sybuugk9DkelTFv) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [FAMA](https://open.spotify.com/album/2wehAGXNEm5zttICwk1ERI) | 2:29 | 2023-01-06 |  |
 | [Fato treino do City](https://open.spotify.com/track/6FnE1Y3iWcvVHFB3oLC0vB) | [Sippinpurpp](https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z) | [Fato treino do City](https://open.spotify.com/album/4fcBL2OWo3Gpw2Jg1GHE1Q) | 3:36 | 2022-07-16 | 2022-12-16 |
 | [FAX](https://open.spotify.com/track/3f7DEE3i9IzH7ieoKOLdvr) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [FAX](https://open.spotify.com/album/7hu0vKYovlQFVdu0KXVi1J) | 2:45 | 2022-07-16 | 2022-10-07 |
@@ -264,7 +266,7 @@
 | [WINNER](https://open.spotify.com/track/2UkcmJbpicpLOVxDLgU9Pl) | [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs) | [WINNER](https://open.spotify.com/album/1oLcRnUJaJ9upTO41XxszJ) | 2:43 | 2022-09-22 | 2022-10-14 |
 | [WUOW](https://open.spotify.com/track/0eXD7LAkqQ9LWyXa0hQkBG) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [WUOW](https://open.spotify.com/album/4KNT4vVQJeSgBmZYRalkHb) | 2:55 | 2022-07-16 | 2022-10-07 |
 | [É ASSIM](https://open.spotify.com/track/20EeqYWivW9x7F9ij2GC71) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [É ASSIM](https://open.spotify.com/album/6wZWOmhGZq8IWu1OwXIxtu) | 4:09 | 2022-07-16 | 2022-10-28 |
-| [É Verdade](https://open.spotify.com/track/3pnhXjwXLLMfNrS9k9HbKh) | [9 Miller](https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX), [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I) | [É Verdade](https://open.spotify.com/album/4sPk4ZLCKNjScABbBrTYFw) | 3:29 | 2023-03-03 |  |
+| [É Verdade](https://open.spotify.com/track/3pnhXjwXLLMfNrS9k9HbKh) | [9 Miller](https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX), [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I) | [É Verdade](https://open.spotify.com/album/4sPk4ZLCKNjScABbBrTYFw) | 3:29 | 2023-03-03 | 2023-04-28 |
 | [Última Dança](https://open.spotify.com/track/6lLgpFIJPvP1icvdDjp8Tx) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Última Dança](https://open.spotify.com/album/1isrIpzfyNisCx6ImFOdVq) | 3:12 | 2023-03-03 |  |
 | [Última Vez](https://open.spotify.com/track/3IBrb6eBXyPo1EN4ElkLQI) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ) | [Última Vez](https://open.spotify.com/album/5qUi6QhO9E4cbVKvJHDiOW) | 3:25 | 2022-09-30 | 2022-10-21 |
 

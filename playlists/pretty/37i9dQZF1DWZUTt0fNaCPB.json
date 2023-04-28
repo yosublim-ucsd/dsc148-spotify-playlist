@@ -1,12 +1,12 @@
 {
   "description": "No need for a gadget, just play these rock songs to set your pace!",
-  "num_followers": 986812,
+  "num_followers": 987231,
   "original_name": "Running to Rock 170-190 BPM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgwOTYwMiwwMDAwMDAwMDQ3MDJkNmQ3YWMyNWE5N2Q1ZjVkNzExMWQ3ZDcxOWM5",
+  "snapshot_id": "MCw0NmY3YTQzNzQwODdhZGU1Mzg1ZmVlNjMyY2IxMTgwOWIzYjMxMWU5",
   "tracks": [
     {
       "added_at": "2023-01-27 08:53:22",
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-01-27 08:53:22",
       "album": {
-        "name": "Black Rain (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6wiS0vTk9GfsiUKJEOav8Z"
+        "name": "Hellbilly Deluxe",
+        "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
       },
       "artists": [
         {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 239826,
-      "name": "I Don't Wanna Stop",
-      "url": "https://open.spotify.com/track/5axOkQnmQmwtjr4bv1Xt7i"
+      "duration_ms": 220266,
+      "name": "Superbeast",
+      "url": "https://open.spotify.com/track/4eNnMvUrSu2TRpySjVC0Pv"
     },
     {
       "added_at": "2023-01-27 08:53:22",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-01-27 08:53:22",
       "album": {
-        "name": "Hellbilly Deluxe",
-        "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
+        "name": "Black Rain (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6wiS0vTk9GfsiUKJEOav8Z"
       },
       "artists": [
         {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
         }
       ],
-      "duration_ms": 220266,
-      "name": "Superbeast",
-      "url": "https://open.spotify.com/track/4eNnMvUrSu2TRpySjVC0Pv"
+      "duration_ms": 239826,
+      "name": "I Don't Wanna Stop",
+      "url": "https://open.spotify.com/track/5axOkQnmQmwtjr4bv1Xt7i"
     },
     {
       "added_at": "2023-01-27 08:53:22",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-01-27 08:53:22",
       "album": {
+        "name": "The Oracle (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6yOWKkrlpmUWOC5yndULeq"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Cryin' Like A Bitch!!",
+      "url": "https://open.spotify.com/track/4a9i7rCLfPjbS1sNamZeQN"
+    },
+    {
+      "added_at": "2023-01-27 08:53:22",
+      "album": {
         "name": "Amaryllis",
         "url": "https://open.spotify.com/album/2WvIDc4wdKshyFh2EzLAs0"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 187346,
       "name": "You're Going Down",
       "url": "https://open.spotify.com/track/5omWAB5iNMHvbAfBSzkdu8"
-    },
-    {
-      "added_at": "2023-01-27 08:53:22",
-      "album": {
-        "name": "The Oracle (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6yOWKkrlpmUWOC5yndULeq"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Cryin' Like A Bitch!!",
-      "url": "https://open.spotify.com/track/4a9i7rCLfPjbS1sNamZeQN"
     },
     {
       "added_at": "2023-01-27 08:53:22",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-01-27 08:53:22",
       "album": {
+        "name": "Bad Vibrations (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 200676,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW"
+    },
+    {
+      "added_at": "2023-01-27 08:53:22",
+      "album": {
         "name": "ATTENTION ATTENTION",
         "url": "https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7"
       },
@@ -683,18 +699,18 @@
     {
       "added_at": "2023-01-27 08:53:22",
       "album": {
-        "name": "Bad Vibrations (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU"
+        "name": "When Legends Rise",
+        "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
       },
       "artists": [
         {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
         }
       ],
-      "duration_ms": 200676,
-      "name": "Paranoia",
-      "url": "https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW"
+      "duration_ms": 172826,
+      "name": "When Legends Rise",
+      "url": "https://open.spotify.com/track/1Si7crvw1M6Kgz9XiAtMiJ"
     },
     {
       "added_at": "2023-01-27 08:53:22",
@@ -731,22 +747,6 @@
     {
       "added_at": "2023-01-27 08:53:22",
       "album": {
-        "name": "When Legends Rise",
-        "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 172826,
-      "name": "When Legends Rise",
-      "url": "https://open.spotify.com/track/1Si7crvw1M6Kgz9XiAtMiJ"
-    },
-    {
-      "added_at": "2023-01-27 08:53:22",
-      "album": {
         "name": "Ten Thousand Fists",
         "url": "https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-01-27 08:53:22",
       "album": {
-        "name": "Berserker",
-        "url": "https://open.spotify.com/album/499iZ0iesrciB5jO9jSOWx"
-      },
-      "artists": [
-        {
-          "name": "Beast In Black",
-          "url": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH"
-        }
-      ],
-      "duration_ms": 304596,
-      "name": "Blind And Frozen",
-      "url": "https://open.spotify.com/track/7iOSeHfKU2EhSKcX7TbjKG"
-    },
-    {
-      "added_at": "2023-01-27 08:53:22",
-      "album": {
         "name": "Disclaimer",
         "url": "https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 168560,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/5ih5herXfvp5coBVFhmoAW"
+    },
+    {
+      "added_at": "2023-01-27 08:53:22",
+      "album": {
+        "name": "Berserker",
+        "url": "https://open.spotify.com/album/499iZ0iesrciB5jO9jSOWx"
+      },
+      "artists": [
+        {
+          "name": "Beast In Black",
+          "url": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH"
+        }
+      ],
+      "duration_ms": 304596,
+      "name": "Blind And Frozen",
+      "url": "https://open.spotify.com/track/7iOSeHfKU2EhSKcX7TbjKG"
     },
     {
       "added_at": "2023-01-27 08:53:22",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-01-27 08:53:22",
       "album": {
-        "name": "Prequelle",
-        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 261573,
-      "name": "Rats",
-      "url": "https://open.spotify.com/track/4u39IY2QjY1utpNCCF4is0"
-    },
-    {
-      "added_at": "2023-01-27 08:53:22",
-      "album": {
         "name": "Reverence",
         "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 233079,
       "name": "The Void",
       "url": "https://open.spotify.com/track/5znIVOv7RucpCHGkbonySq"
+    },
+    {
+      "added_at": "2023-01-27 08:53:22",
+      "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 261573,
+      "name": "Rats",
+      "url": "https://open.spotify.com/track/4u39IY2QjY1utpNCCF4is0"
     },
     {
       "added_at": "2023-01-27 08:53:22",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-01-27 08:53:22",
       "album": {
-        "name": "From Hell With Love",
-        "url": "https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr"
-      },
-      "artists": [
-        {
-          "name": "Beast In Black",
-          "url": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH"
-        }
-      ],
-      "duration_ms": 235295,
-      "name": "From Hell With Love",
-      "url": "https://open.spotify.com/track/3iKSyNDGzJ3FcjXoDKqehS"
-    },
-    {
-      "added_at": "2023-01-27 08:53:22",
-      "album": {
         "name": "The Sinister Urge",
         "url": "https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 224306,
       "name": "Demon Speeding",
       "url": "https://open.spotify.com/track/605hJIiMrdsUjr4Vx4BFD6"
+    },
+    {
+      "added_at": "2023-01-27 08:53:22",
+      "album": {
+        "name": "From Hell With Love",
+        "url": "https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr"
+      },
+      "artists": [
+        {
+          "name": "Beast In Black",
+          "url": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH"
+        }
+      ],
+      "duration_ms": 235295,
+      "name": "From Hell With Love",
+      "url": "https://open.spotify.com/track/3iKSyNDGzJ3FcjXoDKqehS"
     },
     {
       "added_at": "2023-01-27 08:53:22",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-01-27 08:53:22",
       "album": {
-        "name": "The Revelry",
-        "url": "https://open.spotify.com/album/3nmvg9pydv2QR8q1JV0fmp"
-      },
-      "artists": [
-        {
-          "name": "Bullets And Octane",
-          "url": "https://open.spotify.com/artist/6Ku6HNSfgFrk2c3KIlf2j9"
-        }
-      ],
-      "duration_ms": 139640,
-      "name": "Pirates",
-      "url": "https://open.spotify.com/track/0L639McB94IkUvIgZKM1E5"
-    },
-    {
-      "added_at": "2023-01-27 08:53:22",
-      "album": {
         "name": "Life Is Not Beautiful",
         "url": "https://open.spotify.com/album/37Kj4n1FrQ0mtDQdpN0KSt"
       },
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2023-01-27 08:53:22",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm"
+        "name": "The Revelry",
+        "url": "https://open.spotify.com/album/3nmvg9pydv2QR8q1JV0fmp"
       },
       "artists": [
         {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          "name": "Bullets And Octane",
+          "url": "https://open.spotify.com/artist/6Ku6HNSfgFrk2c3KIlf2j9"
         }
       ],
-      "duration_ms": 267360,
-      "name": "The Pretender",
-      "url": "https://open.spotify.com/track/6HNruFQlzQx4ulL4ppRLYI"
+      "duration_ms": 139640,
+      "name": "Pirates",
+      "url": "https://open.spotify.com/track/0L639McB94IkUvIgZKM1E5"
     },
     {
       "added_at": "2023-01-27 08:53:22",
@@ -1131,6 +1115,22 @@
       "duration_ms": 210200,
       "name": "Watch Me Burn",
       "url": "https://open.spotify.com/track/4Y33fbX6KcOfP0xZhYMwO5"
+    },
+    {
+      "added_at": "2023-01-27 08:53:22",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 267360,
+      "name": "The Pretender",
+      "url": "https://open.spotify.com/track/6HNruFQlzQx4ulL4ppRLYI"
     },
     {
       "added_at": "2023-01-27 08:53:22",

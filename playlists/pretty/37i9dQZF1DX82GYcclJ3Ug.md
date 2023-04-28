@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. Cover: Barns Courtney
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,126,868 likes - 129 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,127,094 likes - 129 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 128 | [Don't Be Another](https://open.spotify.com/track/3qaqxocTgqVSMT9GE82sbg) | [Skinny Pelembe](https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN) | [Don't Be Another](https://open.spotify.com/album/1CLxNR4c7WeJ6c6gwjkPGl) | 3:39 |
 | 129 | [More Than Fine](https://open.spotify.com/track/4BAT0xxJnymne7WzeT0Upq) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [More Than Fine](https://open.spotify.com/album/7z7MswXt77DjYaKSuUOmHV) | 3:27 |
 
-Snapshot ID: `MTY4MjQ2ODAwNSwwMDAwMDAwMGEzZWRjMDI1OTc2MmJhM2FiYmIyMzAwOTAzNDlmZjg0`
+Snapshot ID: `MCwwNDdmY2VjNWZlYWYwMzY4NTFkMzA1YzNlM2U3ZmNjMTY0NTllZjBj`

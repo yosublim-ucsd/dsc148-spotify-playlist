@@ -104,7 +104,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 123351,
       "name": "BLOODY TEXTS",
       "url": "https://open.spotify.com/track/7dcBpya1pwmRYb66unLz2s"
@@ -406,7 +406,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 186177,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/2CgftIycIHQ1fp5QGUD3NM"
@@ -450,6 +450,24 @@
       "duration_ms": 157100,
       "name": "Hey! - A COLORS SHOW",
       "url": "https://open.spotify.com/track/7LDMiQocR2DFVu12nG2TKP"
+    },
+    {
+      "album": {
+        "name": "i just want you",
+        "url": "https://open.spotify.com/album/44Ut5MnUWlRUVt9J6Vbg00"
+      },
+      "artists": [
+        {
+          "name": "ZUBIN",
+          "url": "https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "i just want you",
+      "url": "https://open.spotify.com/track/08UEjr8Y5oRSyHf3krYiNM"
     },
     {
       "album": {
@@ -588,7 +606,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 120500,
       "name": "Lie/Idle",
       "url": "https://open.spotify.com/track/3RkdAeulXA3SWvX4yXwMrg"
@@ -831,6 +849,42 @@
     },
     {
       "album": {
+        "name": "Play It Cool",
+        "url": "https://open.spotify.com/album/3j1vdXv8b0C1JNbpdHGUSa"
+      },
+      "artists": [
+        {
+          "name": "Miss Sxvage",
+          "url": "https://open.spotify.com/artist/1UvegJsquodsZbxdHPjRzo"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Play It Cool",
+      "url": "https://open.spotify.com/track/1pkX9NtzyU9fkmEPdYxDt3"
+    },
+    {
+      "album": {
+        "name": "Pretty Lil Psycho",
+        "url": "https://open.spotify.com/album/0Vaa1DOf1Fc55zaEYAJqxj"
+      },
+      "artists": [
+        {
+          "name": "KVSE",
+          "url": "https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177384,
+      "name": "Pretty Lil Psycho",
+      "url": "https://open.spotify.com/track/5sYN77e1LaHtO54ZtlUl4I"
+    },
+    {
+      "album": {
         "name": "Sanguine (Pastel Remix)",
         "url": "https://open.spotify.com/album/0DggHQp8mTvxxLBKy7pANP"
       },
@@ -991,6 +1045,24 @@
     },
     {
       "album": {
+        "name": "Bastard Jargon",
+        "url": "https://open.spotify.com/album/3nE6brVq6wCo0RnBvfN5W6"
+      },
+      "artists": [
+        {
+          "name": "Nakhane",
+          "url": "https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186640,
+      "name": "The Caring",
+      "url": "https://open.spotify.com/track/2L8AxY1xtptdIkjbjaxHtH"
+    },
+    {
+      "album": {
         "name": "The Girl and the Time Machine",
         "url": "https://open.spotify.com/album/4XsGm3iq4Bg2q6vTZ72lCF"
       },
@@ -1136,7 +1208,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 167857,
       "name": "Vanity",
       "url": "https://open.spotify.com/track/4CiNVnqNQX05t0e4IWwVO1"
@@ -1172,10 +1244,28 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 150508,
       "name": "What's the Vibe",
       "url": "https://open.spotify.com/track/0FKkw6p2t57VZp8Ae8Gc1V"
+    },
+    {
+      "album": {
+        "name": "YOU A KILLER",
+        "url": "https://open.spotify.com/album/7os16OIbe823TPlSR5OpHH"
+      },
+      "artists": [
+        {
+          "name": "Nu Fvnk",
+          "url": "https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130666,
+      "name": "YOU A KILLER",
+      "url": "https://open.spotify.com/track/4ndMSH7CMcN8z5xPZMCxhn"
     },
     {
       "album": {

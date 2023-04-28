@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\u661f\uff01Cover: L\u00dcCY x Andr \u5b89\u5fb7 x Everydaze x \u80e1\u5bb6\u8aa0",
+  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\u661f\uff01Cover: Everydaze",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -1515,6 +1515,24 @@
     },
     {
       "album": {
+        "name": "Room247",
+        "url": "https://open.spotify.com/album/5o3vb0aBtrdSm9JzRHywoD"
+      },
+      "artists": [
+        {
+          "name": "Everydaze",
+          "url": "https://open.spotify.com/artist/3zl0vHEKbb53bbQg9ZaN3g"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231397,
+      "name": "Room247",
+      "url": "https://open.spotify.com/track/6iFn69S297cgPduLovu9D6"
+    },
+    {
+      "album": {
         "name": "A Bedroom of One's Own",
         "url": "https://open.spotify.com/album/106w7wcRpHY8hqHhajG3nb"
       },
@@ -1802,7 +1820,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 229772,
       "name": "Tangerine Dream",
       "url": "https://open.spotify.com/track/0l466Sdh5FNmn8kSYzSO0E"
@@ -1878,7 +1896,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 206074,
       "name": "Utopia Reimagined: \u5b81\u9759\u7684\u6d77\u6d0b",
       "url": "https://open.spotify.com/track/2F92epgieVe49h9qkKkQHX"
@@ -2324,6 +2342,24 @@
       "duration_ms": 235822,
       "name": "\u4e0d\u6416\u5c31\u6efe",
       "url": "https://open.spotify.com/track/2FyxwNkn5XCtuGniro1IqE"
+    },
+    {
+      "album": {
+        "name": "\u4e0d\u9060\u8655",
+        "url": "https://open.spotify.com/album/3OfDmuDl9aMma0I8JxtYeA"
+      },
+      "artists": [
+        {
+          "name": "Marz23",
+          "url": "https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300110,
+      "name": "\u4e0d\u9060\u8655",
+      "url": "https://open.spotify.com/track/7GuLOwT5EWHUzf6xm1Paw7"
     },
     {
       "album": {
@@ -2903,6 +2939,24 @@
     },
     {
       "album": {
+        "name": "\u5361\u5229\u65af\u6258",
+        "url": "https://open.spotify.com/album/6wQvQqX4FTkfhz34QzdheW"
+      },
+      "artists": [
+        {
+          "name": "OHMYMEITING",
+          "url": "https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151307,
+      "name": "\u5361\u5229\u65af\u6258",
+      "url": "https://open.spotify.com/track/1OXzOnNMDQ24SLsVog2jn3"
+    },
+    {
+      "album": {
         "name": "\u538c\u5026\u538c\u5026 (feat. Juice Boy)",
         "url": "https://open.spotify.com/album/71g4mXQADVcwS3YMQ7G1Cq"
       },
@@ -3154,7 +3208,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 205367,
       "name": "\u570b\u738b",
       "url": "https://open.spotify.com/track/4xKIzpn8Q2cRDU6UVq8FTn"
@@ -4335,6 +4389,24 @@
     },
     {
       "album": {
+        "name": "\u64c1\u6709\u4f46\u4e0d\u5c6c\u65bc",
+        "url": "https://open.spotify.com/album/1RA8E97keYKxHP8zxTEBYw"
+      },
+      "artists": [
+        {
+          "name": "\u80e1\u5bb6\u8aa0",
+          "url": "https://open.spotify.com/artist/200pQawht4r55tBNrWTVpx"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195483,
+      "name": "\u64c1\u6709\u4f46\u4e0d\u5c6c\u65bc",
+      "url": "https://open.spotify.com/track/5t9UX4x1aujbr6moOh88KM"
+    },
+    {
+      "album": {
         "name": "\u653e\u68c4",
         "url": "https://open.spotify.com/album/2MD2XlJ9XntKndK3Pkhec7"
       },
@@ -4538,7 +4610,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 303090,
       "name": "\u6717\u51ac",
       "url": "https://open.spotify.com/track/6uUW1J9dGjrrfHDe6F0Vu1"
@@ -5004,7 +5076,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 172250,
       "name": "\u7121\u6240\u8b02",
       "url": "https://open.spotify.com/track/1dPtFcK3m7dTtIBe3AwurO"
@@ -5070,6 +5142,28 @@
       "duration_ms": 239755,
       "name": "\u7368\u89d2\u7378",
       "url": "https://open.spotify.com/track/75UPoLCSlqmD8ns7yByWai"
+    },
+    {
+      "album": {
+        "name": "\u7406\u6027\u72af\u9189",
+        "url": "https://open.spotify.com/album/5uGVVgPwhSamNrTkWMzcpW"
+      },
+      "artists": [
+        {
+          "name": "Jocelyn 9.4.0",
+          "url": "https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ"
+        },
+        {
+          "name": "FR\u03b1NKIE\u963f\u6cd5",
+          "url": "https://open.spotify.com/artist/3NvVbjPU6W2AOEWitAUqwe"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167322,
+      "name": "\u7406\u6027\u72af\u9189",
+      "url": "https://open.spotify.com/track/4ZNNx48MdTGwbnedJkogUd"
     },
     {
       "album": {
@@ -5684,7 +5778,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 169326,
       "name": "\u8cc7\u672c\u4e3b\u7fa9",
       "url": "https://open.spotify.com/track/3gUJXFl5gmY0lGx6BFdqgT"
@@ -6076,7 +6170,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 306546,
       "name": "\u966a\u4f60\u5931\u6557 (feat. \u5bfa\u4e8c)",
       "url": "https://open.spotify.com/track/53EYK5DubMOz2x71TZERPl"

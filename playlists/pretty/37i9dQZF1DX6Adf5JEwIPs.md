@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover:  Gabito Ballesteros
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,848 likes - 58 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,911 likes - 58 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 57 | [A Tu Lado](https://open.spotify.com/track/4VWjRBUprkEmgl9UuJxWR6) | [Edgar Alejandro](https://open.spotify.com/artist/2bCTVmSdXV1fwUmt2qpkri) | [A Tu Lado](https://open.spotify.com/album/7CIMcgqQBV2snPkWfJ3IZb) | 2:44 |
 | 58 | [Dos Gotas de Agua \(En Vivo\)](https://open.spotify.com/track/7jIKSUeu2HMqA2NOTgDtsm) | [Paquito Herrera](https://open.spotify.com/artist/5fgcvuTTUJYY4qaG3fNyMO) | [Dos Gotas de Agua \(En Vivo\)](https://open.spotify.com/album/2Ge6nvKpGyiqYMZ0xUBcOS) | 3:08 |
 
-Snapshot ID: `MTY4MjA1NDk4MywwMDAwMDAwMDNiMzE5MTdjNjNlOWMwZjVmZGRiMmJhZDcxNzZiYzdi`
+Snapshot ID: `MCxhMGY0ZGRmNGI1OTQ3OGEzNDVhYjJmNDBmMGQ1NDRhYWVkY2MwNGNh`

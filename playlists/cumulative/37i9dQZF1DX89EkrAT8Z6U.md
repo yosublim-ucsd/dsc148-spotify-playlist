@@ -4,7 +4,7 @@
 
 > A mixtape for the perfect anime fight scene.
 
-194 songs - 8 hr 37 min
+195 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [e girl](https://open.spotify.com/track/1Sdf8Z17iHkcJGX2H5q6df) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT), [Letoa](https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV) | [e girl](https://open.spotify.com/album/1UHAkH3U5IhqOYISO518LN) | 2:01 | 2022-06-01 | 2022-10-08 |
 | [E\-GIRLS ARE RUINING MY LIFE!](https://open.spotify.com/track/7bCfHiRcfUjG0YVVNUL7Ve) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk) | [E\-GIRLS ARE RUINING MY LIFE!](https://open.spotify.com/album/1wrJvDOGOMQKn2v0iRiSJT) | 1:45 | 2022-05-25 | 2022-08-27 |
 | [Erase Your Social](https://open.spotify.com/track/4uhvMW7ly7tJil31YYscAN) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [The Perfect LUV Tape](https://open.spotify.com/album/6LX75kNicFqjjiAOeZgN67) | 3:19 | 2022-05-25 |  |
+| [EXORCIST](https://open.spotify.com/track/6qwEeAl6Cl32odNr2GIMjm) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [KILL!](https://open.spotify.com/album/2Bk3pomO5BGIJrNhwjzqRE) | 1:34 | 2023-04-25 |  |
 | [Flashy \(Tengen Uzui\)](https://open.spotify.com/track/5jyezs0yT1ID8JiSHJQOvR) | [Daddyphatsnaps](https://open.spotify.com/artist/6xini6REf0CP8muuVvDa91) | [Flashy \(Tengen Uzui\)](https://open.spotify.com/album/42r6YTHBs9vzYpm8vY4sOS) | 3:33 | 2022-05-25 | 2022-07-28 |
 | [FLY HIGH!!](https://open.spotify.com/track/3YOZLPRiTuYgItSGO41gPT) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [檸檬](https://open.spotify.com/album/48IbAUpWY9uLHfJNaiXnkP) | 4:04 | 2022-07-08 | 2023-01-06 |
 | [Freak Show](https://open.spotify.com/track/2Rb6nYmuLEblpq4KIAjngL) | [Punkinloveee](https://open.spotify.com/artist/6CrThJMQVJfWaHeliiLHuw), [H3artcrush](https://open.spotify.com/artist/1tHZYGc37FSzvOJ0eHbglI) | [Freak Show](https://open.spotify.com/album/13JoBPPaKWh2eusprVgAFu) | 2:05 | 2022-05-27 |  |
@@ -152,7 +153,7 @@
 | [Slump](https://open.spotify.com/track/7c3WeEXTZly72n38QzZdKL) | [NxxxxxS](https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Slump](https://open.spotify.com/album/1uv38vrwfRawvt1fB77Azo) | 1:37 | 2023-03-09 |  |
 | [Sorcery Fight!](https://open.spotify.com/track/3KHQQuZGyk1wve6SQwifwt) | [Breeton Boi](https://open.spotify.com/artist/2Dr2lb79b7I1gj10FI6ljA), [Diggz Da Prophecy](https://open.spotify.com/artist/1HYQNCFOvaVxl9Zr5HvPrH), [HalaCG](https://open.spotify.com/artist/0Tbadays3Z2K3BxmvjL34J), [Shwabadi](https://open.spotify.com/artist/7CCLirH6tIf750hgYn1Y4X), [FrivolousShara](https://open.spotify.com/artist/4BZbaSD54IoBseVr142kiH), [Ty Wild](https://open.spotify.com/artist/2uE23RLfCmZurbJzYgjKMm), [WYT](https://open.spotify.com/artist/0zex3dTN4Mk9oTujAJnIHW) | [Sorcery Fight!](https://open.spotify.com/album/5Xoj8mbqvPBrC382GxHvf3) | 5:27 | 2022-05-25 | 2022-07-28 |
 | [Spark \(Rengoku\)](https://open.spotify.com/track/4zpFlIpvNbbNx5BbKsMsRO) | [Daddyphatsnaps](https://open.spotify.com/artist/6xini6REf0CP8muuVvDa91) | [Spark \(Rengoku\)](https://open.spotify.com/album/2ypWjv7cvswBIJ4crjuHJq) | 3:01 | 2022-06-21 | 2022-06-24 |
-| [Speak Up](https://open.spotify.com/track/2rqB2I2stqNPaVBaObZnDx) | [Is0kenny](https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb) | [Speak Up](https://open.spotify.com/album/4G2TAC3hSBxLh9A2Ee2WZi) | 1:44 | 2022-12-14 |  |
+| [Speak Up](https://open.spotify.com/track/2rqB2I2stqNPaVBaObZnDx) | [Is0kenny](https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb) | [Speak Up](https://open.spotify.com/album/4G2TAC3hSBxLh9A2Ee2WZi) | 1:44 | 2022-12-14 | 2023-04-28 |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 | 2022-11-21 |  |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-11-21 | 2022-12-10 |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 | 2022-11-21 | 2022-12-25 |

@@ -31,6 +31,24 @@
     },
     {
       "album": {
+        "name": "AI-Music",
+        "url": "https://open.spotify.com/album/5c8MgxHLFTH0vrBGoFvldU"
+      },
+      "artists": [
+        {
+          "name": "Dean Staffs",
+          "url": "https://open.spotify.com/artist/36e0RyjykLGS9GkOp7rG8W"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "AI-Music",
+      "url": "https://open.spotify.com/track/3Av9I4jCysxCP4IscYJ3wJ"
+    },
+    {
+      "album": {
         "name": "Green Memory Grass",
         "url": "https://open.spotify.com/album/00ZmLKljHmPHYtB3nJtDFX"
       },
@@ -64,7 +82,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 231285,
       "name": "Amalfi",
       "url": "https://open.spotify.com/track/0Ge9juv7gNX6B3LaYICwk5"
@@ -546,7 +564,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 143437,
       "name": "El Platanal",
       "url": "https://open.spotify.com/track/5euxtzHFyA4WAbbERfT0eg"
@@ -782,7 +800,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 187647,
       "name": "Gemstone",
       "url": "https://open.spotify.com/track/2peUYTOZ5tOHSl6opQ8955"
@@ -1196,7 +1214,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 211200,
       "name": "L'Autofilteur",
       "url": "https://open.spotify.com/track/4woeoi4CZ8tcsWDImypP5n"
@@ -2304,7 +2322,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 151232,
       "name": "Tiger Balm",
       "url": "https://open.spotify.com/track/6VziXuKwKUhpOi1odKcVT9"

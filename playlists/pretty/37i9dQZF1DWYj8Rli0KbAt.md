@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYj8Rli0KbAt.md) - [plain]
 
 > Transport yourself to the underground world of <a href="spotify:artist:40JyDxGqtYSowWYT2jaive">Alan Fitzpatrick</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,210 likes - 16 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,211 likes - 16 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYj8Rli0KbAt.md) - [plain]
 | 15 | [Bourgeois Imagery \- Mixed](https://open.spotify.com/track/3RCxwbcBw9MdW4QAeQIuSj) | [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [Bourgeois Imagery \(Mixed\)](https://open.spotify.com/album/4uBMHjF2KadqKwuZztTTk3) | 2:41 |
 | 16 | [Something Wonderful \- Mathew Jonson Remix \- Mixed](https://open.spotify.com/track/32xgqsQNFMHps6v8YMp1fK) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Mathew Jonson](https://open.spotify.com/artist/6PTy8QkZxHr7Thp8SPYE71) | [Something Wonderful \- Mathew Jonson Remix \(Mixed\)](https://open.spotify.com/album/6ppI1wYZlAJfU3TNeO24V9) | 4:10 |
 
-Snapshot ID: `MTY1MjQ1MzYxMSwwMDAwMDAwMDhiNjA2ZGIzZjgxYzVhNTVhZWMyMGU4NzA0Y2NhMjFk`
+Snapshot ID: `MCw3OGZiYmMyODNhY2Q5ZjA5NzkxOTEyMzM4ZjM2YTE5OTkyNGU1YTkw`

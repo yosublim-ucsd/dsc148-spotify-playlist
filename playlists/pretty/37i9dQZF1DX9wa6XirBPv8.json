@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: My Chemical Romance",
-  "num_followers": 1501738,
+  "num_followers": 1502584,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzEwOTAzMSwwMDAwMDAwMDYwYTEzMWI2ZjYwYzc3ZmRiM2M5Mjg1Yjc0MzE3ZmUy",
+  "snapshot_id": "MCxhMTM5MDZlNDhkMjg4NWFkYTk3NDkwNGIzOWNiYzE4NTQzYjRjY2Rl",
   "tracks": [
     {
       "added_at": "2022-08-02 18:47:58",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "American Football",
-        "url": "https://open.spotify.com/album/70OkRXiiwdTCtZ9YiPBzPp"
-      },
-      "artists": [
-        {
-          "name": "American Football",
-          "url": "https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4"
-        }
-      ],
-      "duration_ms": 268333,
-      "name": "Never Meant",
-      "url": "https://open.spotify.com/track/6kZqCqD1r08sJAQ1TjuEpM"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "Deja Entendu",
         "url": "https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "The Artist In The Ambulance",
-        "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
+        "name": "American Football",
+        "url": "https://open.spotify.com/album/70OkRXiiwdTCtZ9YiPBzPp"
       },
       "artists": [
         {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+          "name": "American Football",
+          "url": "https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4"
         }
       ],
-      "duration_ms": 219266,
-      "name": "The Artist In The Ambulance",
-      "url": "https://open.spotify.com/track/0arNrzPygksLY2pEbRgBjw"
+      "duration_ms": 268333,
+      "name": "Never Meant",
+      "url": "https://open.spotify.com/track/6kZqCqD1r08sJAQ1TjuEpM"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -847,6 +831,22 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
+        "name": "The Artist In The Ambulance",
+        "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "duration_ms": 219266,
+      "name": "The Artist In The Ambulance",
+      "url": "https://open.spotify.com/track/0arNrzPygksLY2pEbRgBjw"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
         "name": "They're Only Chasing Safety",
         "url": "https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19"
       },
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/47IWLfIKOKhFnz1FUEUIkE"
     },
     {
-      "added_at": "2023-04-27 00:57:04",
+      "added_at": "2023-04-28 01:24:05",
       "album": {
         "name": "Discovering The Waterfront",
         "url": "https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ"
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "Dusk And Summer",
-        "url": "https://open.spotify.com/album/6HNDip6KYIQapVTDziA91U"
-      },
-      "artists": [
-        {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
-        }
-      ],
-      "duration_ms": 201346,
-      "name": "Vindicated",
-      "url": "https://open.spotify.com/track/1EotcFbWTbMCXeKFVEtX6Y"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "Say It Like You Mean It",
         "url": "https://open.spotify.com/album/72ogyoH8DeqTMLYhFwgVx6"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 258266,
       "name": "The Best Of Me",
       "url": "https://open.spotify.com/track/1Up4RdOBpChNDytatxKDXP"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "Dusk And Summer",
+        "url": "https://open.spotify.com/album/6HNDip6KYIQapVTDziA91U"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "duration_ms": 201346,
+      "name": "Vindicated",
+      "url": "https://open.spotify.com/track/1EotcFbWTbMCXeKFVEtX6Y"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -1021,7 +1021,7 @@
       "url": "https://open.spotify.com/track/4OsLDuaH0bWR6xM6nj66F8"
     },
     {
-      "added_at": "2023-04-27 00:57:04",
+      "added_at": "2023-04-28 01:24:05",
       "album": {
         "name": "Deja Entendu",
         "url": "https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX"
@@ -1101,7 +1101,7 @@
       "url": "https://open.spotify.com/track/6gxupt6imt0qIdbE8e356n"
     },
     {
-      "added_at": "2023-04-27 00:57:04",
+      "added_at": "2023-04-28 01:24:05",
       "album": {
         "name": "Is a Real Boy",
         "url": "https://open.spotify.com/album/67GbWmsrvtIdOOUYRo7do7"

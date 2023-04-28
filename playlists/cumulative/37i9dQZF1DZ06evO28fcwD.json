@@ -42,6 +42,24 @@
     {
       "album": {
         "name": "In Harmony",
+        "url": "https://open.spotify.com/album/0Ei2iU4AG1Qgz23S5pNpjf"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218173,
+      "name": "Abezizwe (D'influence Mix)",
+      "url": "https://open.spotify.com/track/0mMhQtlkrSllR19G5PL9Zj"
+    },
+    {
+      "album": {
+        "name": "In Harmony",
         "url": "https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr"
       },
       "artists": [
@@ -746,7 +764,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 255880,
       "name": "Homeless (with Ladysmith Black Mambazo) - Live at Hyde Park, London, UK - July 2012",
       "url": "https://open.spotify.com/track/4YDjXXVSAKYEICaQPKKL5G"

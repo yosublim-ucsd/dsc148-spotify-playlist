@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Dubdogz, Maxximal, Mc Hollywood
 
-[Spotify](https://open.spotify.com/user/spotify) - 683,329 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 683,454 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Falling for You](https://open.spotify.com/track/5CG0mHrltJxCqMV0YHZ62x) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [Briana](https://open.spotify.com/artist/4EK5SSlytCE7of3wEUqiDE) | [Falling for You](https://open.spotify.com/album/3PlHIJHpzzxNtRzzCy5YUr) | 2:20 |
 | 50 | [Fall To Pieces \(feat\. Jex\)](https://open.spotify.com/track/0hgRmK0ouFXfDeYPCsezNv) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9), [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Fall To Pieces \(feat\. Jex\)](https://open.spotify.com/album/1RZp0MwiZpYwUaRmhsx5fv) | 2:51 |
 
-Snapshot ID: `MTY4MjA0NjE4MCwwMDAwMDAwMGIzMzRlZjZjZWVkNmMzMjU2NzA2MDNjNjkyNTg0ZWY2`
+Snapshot ID: `MCxmYWIxMWE5MTlhMzM0ZDZjZjI0NDA1OTdiNTg1OWNjNmNmZDI5YjI3`

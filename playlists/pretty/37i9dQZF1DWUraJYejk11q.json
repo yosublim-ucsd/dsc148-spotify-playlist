@@ -1,12 +1,12 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 451636,
+  "num_followers": 451688,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTUyNDczNiwwMDAwMDAwMGQ0NmM2MWI5MWVjMzE4ZTM3YzBlMjkwYTliODVhN2Q1",
+  "snapshot_id": "MCw4YzEyYjUyMzc0YTYwOTExMjM4ZTQ0ODZlNGQ5M2JhYTU5NmEzZTQx",
   "tracks": [
     {
       "added_at": "2023-02-15 18:09:51",
@@ -301,22 +301,6 @@
       "url": "https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ"
     },
     {
-      "added_at": "2022-03-30 04:42:42",
-      "album": {
-        "name": "Chamas Do Cerrado",
-        "url": "https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h"
-      },
-      "artists": [
-        {
-          "name": "LAZA",
-          "url": "https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D"
-        }
-      ],
-      "duration_ms": 213708,
-      "name": "Vale Da Lua",
-      "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
-    },
-    {
       "added_at": "2023-01-07 03:51:32",
       "album": {
         "name": "Crass",
@@ -333,40 +317,20 @@
       "url": "https://open.spotify.com/track/2Gh7Fv6yk1sgbwT6kMVV0U"
     },
     {
-      "added_at": "2022-11-11 06:20:07",
+      "added_at": "2022-03-30 04:42:42",
       "album": {
-        "name": "Ultra Truth",
-        "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
+        "name": "Chamas Do Cerrado",
+        "url": "https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h"
       },
       "artists": [
         {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        },
-        {
-          "name": "HAAi",
-          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+          "name": "LAZA",
+          "url": "https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D"
         }
       ],
-      "duration_ms": 287198,
-      "name": "Wall of Sleep",
-      "url": "https://open.spotify.com/track/1zii8HjrZpVEIsAECYGwrV"
-    },
-    {
-      "added_at": "2022-07-15 18:13:54",
-      "album": {
-        "name": "Eden Portal",
-        "url": "https://open.spotify.com/album/5MSQc9lUHv65o5sF6HTtA2"
-      },
-      "artists": [
-        {
-          "name": "Otik",
-          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
-        }
-      ],
-      "duration_ms": 366500,
-      "name": "Eden Portal",
-      "url": "https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo"
+      "duration_ms": 213708,
+      "name": "Vale Da Lua",
+      "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
     },
     {
       "added_at": "2022-02-25 05:12:51",
@@ -389,6 +353,42 @@
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
     },
     {
+      "added_at": "2022-07-15 18:13:54",
+      "album": {
+        "name": "Eden Portal",
+        "url": "https://open.spotify.com/album/5MSQc9lUHv65o5sF6HTtA2"
+      },
+      "artists": [
+        {
+          "name": "Otik",
+          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
+        }
+      ],
+      "duration_ms": 366500,
+      "name": "Eden Portal",
+      "url": "https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo"
+    },
+    {
+      "added_at": "2022-11-11 06:20:07",
+      "album": {
+        "name": "Ultra Truth",
+        "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "duration_ms": 287198,
+      "name": "Wall of Sleep",
+      "url": "https://open.spotify.com/track/1zii8HjrZpVEIsAECYGwrV"
+    },
+    {
       "added_at": "2022-08-03 03:56:04",
       "album": {
         "name": "Planta Dance",
@@ -405,22 +405,6 @@
       "url": "https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS"
     },
     {
-      "added_at": "2023-01-24 20:42:42",
-      "album": {
-        "name": "Arcadian Daze",
-        "url": "https://open.spotify.com/album/4mJHhsOMF0pNejI56iArI6"
-      },
-      "artists": [
-        {
-          "name": "RUMTUM",
-          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
-        }
-      ],
-      "duration_ms": 196222,
-      "name": "Arcadian Daze",
-      "url": "https://open.spotify.com/track/4JGozkruuZZRH9I5RZYFuc"
-    },
-    {
       "added_at": "2022-02-25 03:39:39",
       "album": {
         "name": "Exotic Contents / Pulse at the Centre of Being",
@@ -435,6 +419,22 @@
       "duration_ms": 346588,
       "name": "Exotic Contents",
       "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
+    },
+    {
+      "added_at": "2023-01-24 20:42:42",
+      "album": {
+        "name": "Arcadian Daze",
+        "url": "https://open.spotify.com/album/4mJHhsOMF0pNejI56iArI6"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "duration_ms": 196222,
+      "name": "Arcadian Daze",
+      "url": "https://open.spotify.com/track/4JGozkruuZZRH9I5RZYFuc"
     },
     {
       "added_at": "2022-07-08 04:48:31",
@@ -457,22 +457,6 @@
       "url": "https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa"
     },
     {
-      "added_at": "2022-08-03 02:49:15",
-      "album": {
-        "name": "Shallots",
-        "url": "https://open.spotify.com/album/1rKFlOuwvqORkzO0tQiyPw"
-      },
-      "artists": [
-        {
-          "name": "Frequent",
-          "url": "https://open.spotify.com/artist/71Q5SkUpc26h0swrRjrGEc"
-        }
-      ],
-      "duration_ms": 221298,
-      "name": "Shallots",
-      "url": "https://open.spotify.com/track/3un8NWwFpSvbN0m0JZ29da"
-    },
-    {
       "added_at": "2021-10-15 03:56:52",
       "album": {
         "name": "Dopamine",
@@ -487,6 +471,22 @@
       "duration_ms": 349575,
       "name": "Warm Electronics Box",
       "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
+    },
+    {
+      "added_at": "2022-08-03 02:49:15",
+      "album": {
+        "name": "Shallots",
+        "url": "https://open.spotify.com/album/1rKFlOuwvqORkzO0tQiyPw"
+      },
+      "artists": [
+        {
+          "name": "Frequent",
+          "url": "https://open.spotify.com/artist/71Q5SkUpc26h0swrRjrGEc"
+        }
+      ],
+      "duration_ms": 221298,
+      "name": "Shallots",
+      "url": "https://open.spotify.com/track/3un8NWwFpSvbN0m0JZ29da"
     },
     {
       "added_at": "2021-10-15 03:56:52",
@@ -569,22 +569,6 @@
       "url": "https://open.spotify.com/track/55CCxcBWmurfDqbrJfphD0"
     },
     {
-      "added_at": "2022-12-07 01:09:17",
-      "album": {
-        "name": "Jump & Shuffle (Live at the Hardware Store)",
-        "url": "https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb"
-      },
-      "artists": [
-        {
-          "name": "Kid Koala",
-          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "Jump & Shuffle - Live at the Hardware Store",
-      "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
-    },
-    {
       "added_at": "2023-01-07 02:50:03",
       "album": {
         "name": "ITSAME",
@@ -599,6 +583,22 @@
       "duration_ms": 461613,
       "name": "ITSAME [group hugg]",
       "url": "https://open.spotify.com/track/2H9n9r52CvPOTYM3WCCl82"
+    },
+    {
+      "added_at": "2022-12-07 01:09:17",
+      "album": {
+        "name": "Jump & Shuffle (Live at the Hardware Store)",
+        "url": "https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb"
+      },
+      "artists": [
+        {
+          "name": "Kid Koala",
+          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "Jump & Shuffle - Live at the Hardware Store",
+      "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
     },
     {
       "added_at": "2022-12-16 06:00:00",
@@ -657,22 +657,6 @@
       "url": "https://open.spotify.com/track/4FYpGNDeh57Dmop6EgNEAI"
     },
     {
-      "added_at": "2021-10-15 03:56:52",
-      "album": {
-        "name": "Put Your Head Above The Parakeets",
-        "url": "https://open.spotify.com/album/6SJSwXUsU7XAuI32YfX2iC"
-      },
-      "artists": [
-        {
-          "name": "HAAi",
-          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
-        }
-      ],
-      "duration_ms": 436052,
-      "name": "Head Above The Parakeets",
-      "url": "https://open.spotify.com/track/1F7wFVvXwazyZdy4jq3Bj8"
-    },
-    {
       "added_at": "2022-04-29 18:24:26",
       "album": {
         "name": "Cruda",
@@ -687,6 +671,22 @@
       "duration_ms": 329596,
       "name": "Cheve",
       "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
+    },
+    {
+      "added_at": "2021-10-15 03:56:52",
+      "album": {
+        "name": "Put Your Head Above The Parakeets",
+        "url": "https://open.spotify.com/album/6SJSwXUsU7XAuI32YfX2iC"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "duration_ms": 436052,
+      "name": "Head Above The Parakeets",
+      "url": "https://open.spotify.com/track/1F7wFVvXwazyZdy4jq3Bj8"
     },
     {
       "added_at": "2023-03-03 04:19:45",
@@ -705,22 +705,6 @@
       "url": "https://open.spotify.com/track/1MmksCcZL31uJu8J4swpsC"
     },
     {
-      "added_at": "2022-03-18 05:02:00",
-      "album": {
-        "name": "Trusted EP",
-        "url": "https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9"
-      },
-      "artists": [
-        {
-          "name": "mach\u00ecna",
-          "url": "https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn"
-        }
-      ],
-      "duration_ms": 194358,
-      "name": "Trusted",
-      "url": "https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi"
-    },
-    {
       "added_at": "2022-03-30 05:10:26",
       "album": {
         "name": "tracing Rays [reality glo]",
@@ -737,28 +721,20 @@
       "url": "https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q"
     },
     {
-      "added_at": "2022-12-20 19:12:56",
+      "added_at": "2022-03-18 05:02:00",
       "album": {
-        "name": "Dreamy Hamilton (Remixes)",
-        "url": "https://open.spotify.com/album/4X40gozRTAuJrosoKxf9M6"
+        "name": "Trusted EP",
+        "url": "https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9"
       },
       "artists": [
         {
-          "name": "Arhkota",
-          "url": "https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ"
-        },
-        {
-          "name": "Lubna Maher",
-          "url": "https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb"
-        },
-        {
-          "name": "Subxet",
-          "url": "https://open.spotify.com/artist/5dxUiR8ZvHWBoMS1iRdDey"
+          "name": "mach\u00ecna",
+          "url": "https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn"
         }
       ],
-      "duration_ms": 287582,
-      "name": "In Your Head - Subxet Remix",
-      "url": "https://open.spotify.com/track/50mIPnnh5NYXF3I6HapVjq"
+      "duration_ms": 194358,
+      "name": "Trusted",
+      "url": "https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi"
     },
     {
       "added_at": "2022-05-06 03:38:46",
@@ -801,20 +777,28 @@
       "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
     },
     {
-      "added_at": "2023-03-03 04:17:23",
+      "added_at": "2022-12-20 19:12:56",
       "album": {
-        "name": "Flooding Meadow",
-        "url": "https://open.spotify.com/album/53VcxaUbWyXPn47Wzl89bn"
+        "name": "Dreamy Hamilton (Remixes)",
+        "url": "https://open.spotify.com/album/4X40gozRTAuJrosoKxf9M6"
       },
       "artists": [
         {
-          "name": "Doc Sleep",
-          "url": "https://open.spotify.com/artist/5o1pKpYbHcqZanSu2DCrJI"
+          "name": "Arhkota",
+          "url": "https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ"
+        },
+        {
+          "name": "Lubna Maher",
+          "url": "https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb"
+        },
+        {
+          "name": "Subxet",
+          "url": "https://open.spotify.com/artist/5dxUiR8ZvHWBoMS1iRdDey"
         }
       ],
-      "duration_ms": 290526,
-      "name": "Flooding Meadow",
-      "url": "https://open.spotify.com/track/4p8K4d12HW1fzQv3EkDWFh"
+      "duration_ms": 287582,
+      "name": "In Your Head - Subxet Remix",
+      "url": "https://open.spotify.com/track/50mIPnnh5NYXF3I6HapVjq"
     },
     {
       "added_at": "2022-01-19 22:44:25",
@@ -833,20 +817,20 @@
       "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
     },
     {
-      "added_at": "2023-01-04 00:21:35",
+      "added_at": "2023-03-03 04:17:23",
       "album": {
-        "name": "Baby, We're Ascending",
-        "url": "https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48"
+        "name": "Flooding Meadow",
+        "url": "https://open.spotify.com/album/53VcxaUbWyXPn47Wzl89bn"
       },
       "artists": [
         {
-          "name": "HAAi",
-          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+          "name": "Doc Sleep",
+          "url": "https://open.spotify.com/artist/5o1pKpYbHcqZanSu2DCrJI"
         }
       ],
-      "duration_ms": 399240,
-      "name": "Pigeon Barron",
-      "url": "https://open.spotify.com/track/3J4QilICdLFiPX7lB3lyOJ"
+      "duration_ms": 290526,
+      "name": "Flooding Meadow",
+      "url": "https://open.spotify.com/track/4p8K4d12HW1fzQv3EkDWFh"
     },
     {
       "added_at": "2023-03-28 06:23:11",
@@ -863,6 +847,22 @@
       "duration_ms": 252601,
       "name": "Desert Viper",
       "url": "https://open.spotify.com/track/07Ee8FQCrmxyseMqszOATP"
+    },
+    {
+      "added_at": "2023-01-04 00:21:35",
+      "album": {
+        "name": "Baby, We're Ascending",
+        "url": "https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "duration_ms": 399240,
+      "name": "Pigeon Barron",
+      "url": "https://open.spotify.com/track/3J4QilICdLFiPX7lB3lyOJ"
     },
     {
       "added_at": "2022-03-11 06:33:02",

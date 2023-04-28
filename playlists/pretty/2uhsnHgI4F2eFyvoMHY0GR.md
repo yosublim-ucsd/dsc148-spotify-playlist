@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2uhsnHgI4F2eFyvoMHY0GR.md) - [plain]
 
 > Rock your workday lyric free with classic rock favorites, meditative heavy metal, and art rock wonders.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,612 likes - 42 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,620 likes - 42 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/2uhsnHgI4F2eFyvoMHY0GR.md) - [plain]
 | 26 | [The Call Of Ktulu](https://open.spotify.com/track/3RNaege6IhTKGHVpRA3PQo) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning](https://open.spotify.com/album/7a1dlwArQK6OCHkr2SNlZR) | 8:53 |
 | 27 | [Whale & Wasp](https://open.spotify.com/track/3lZ0Z0HNs4Jg2xXGbuutN5) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Jar Of Flies](https://open.spotify.com/album/0PfrlodUEUaAvfUgGPAR5C) | 2:37 |
 | 28 | [Miserlou](https://open.spotify.com/track/625T5HOILOVCzGTF6l4FLJ) | [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [Guitar Legend: The Very Best Of Dick Dale](https://open.spotify.com/album/1mGTsvhJFaoSFhb2580Lse) | 2:14 |
-| 29 | [Pet Sounds \- Mono / Remastered](https://open.spotify.com/track/6CcgkjU9891S2S4lHKXaYh) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix Versions\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:23 |
+| 29 | [Pet Sounds \- Mono](https://open.spotify.com/track/6CcgkjU9891S2S4lHKXaYh) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:23 |
 | 30 | [Wipe Out](https://open.spotify.com/track/6uudeEvl6t5WrFgobojt3D) | [The Surfaris](https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv) | [Surf Party: Best Of The Surfaris \- Live!](https://open.spotify.com/album/6Sxn3U1oloIaKAZl8pc0Y4) | 2:30 |
 | 31 | [Penetration](https://open.spotify.com/track/751qscrbvFMjXkXJHfzDOf) | [The Pyramids](https://open.spotify.com/artist/7Krj6vYZibCNyVu9iLqlt8) | [Ultra\-Surf Presents: Catch A Wave](https://open.spotify.com/album/4MziGfB4FFbTkSEnu64ZPO) | 2:02 |
 | 32 | [Groovin' With Mr.Bloe](https://open.spotify.com/track/639lNEj4fKiHA6uB5mF0ml) | [Harmonica Dreamsound](https://open.spotify.com/artist/5BsSlSXeHxUshwLEPOgKIG) | [Romantic Hits On Harmonica](https://open.spotify.com/album/7cVUh8sIyxAQuybNdyt0Uo) | 2:57 |

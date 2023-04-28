@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6NYc6NOT7sQ.md) - [plain]
 
 > <a href="spotify:artist:3gNEIgLeknpwkNViU8WAhg">Oceanvs Orientalis</a>' favorite tracks\. Updated regularly\. Curated by Oceanvs Orientalis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,151 likes - 85 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,205 likes - 85 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6NYc6NOT7sQ.md) - [plain]
 | 31 | [18 & Over](https://open.spotify.com/track/62UTBl5LVd6HOCFvT57Axt) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [18 & Over](https://open.spotify.com/album/1sd55O8hXHGhK2qH2WvsLn) | 3:38 |
 | 32 | [Sultan\-ı Yegah](https://open.spotify.com/track/0cZgkcbssrcJeetG4GXoLc) | [Nur Yoldas](https://open.spotify.com/artist/5ayzrYOahi5XNF9eRwYMKv) | [Sultan\-ı Yegah](https://open.spotify.com/album/7abktSnLSSqWJkYFAePMT6) | 3:13 |
 | 33 | [On Again](https://open.spotify.com/track/2srxLxwPkmZkFgS6Jrwmbi) | [Gerardo Frisina](https://open.spotify.com/artist/5TW4eUAdUAz7llrJJfBllc) | [Soul Drum](https://open.spotify.com/album/29hrsLp9WgEFp6kVRyUuxO) | 6:07 |
-| 34 | [All I Want is You](https://open.spotify.com/track/44OZPn5il5c0XA7KTU1lnS) | [Kenneth Bager](https://open.spotify.com/artist/4MDM56W6RidntU2HH9mQUU), [WALTHER](https://open.spotify.com/artist/4ubJTb2psOOKpUmglNcrFN), [OliO](https://open.spotify.com/artist/2v6bV7Uez5MobbfVPaDwCN), [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [All I Want is You](https://open.spotify.com/album/2CGvJdm4QW7nhWUVP099DK) | 9:58 |
+| 34 | [All I Want is You](https://open.spotify.com/track/44OZPn5il5c0XA7KTU1lnS) | [Kenneth Bager](https://open.spotify.com/artist/4MDM56W6RidntU2HH9mQUU), [OliO](https://open.spotify.com/artist/2v6bV7Uez5MobbfVPaDwCN), [WALTHER](https://open.spotify.com/artist/4ubJTb2psOOKpUmglNcrFN), [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [All I Want is You](https://open.spotify.com/album/2CGvJdm4QW7nhWUVP099DK) | 9:58 |
 | 35 | [Jumprope \- SAFER Remix](https://open.spotify.com/track/44iTLYoLiuuyRuFfnyjrfA) | [Psymon Spine](https://open.spotify.com/artist/44iSvW0fck77wQAmWaDdzm), [Safer](https://open.spotify.com/artist/4QaLRgZsBK2wfrWWDo0CZy) | [Charismatic Mutations](https://open.spotify.com/album/4WOI2T2P1M13uSPomRWZ9L) | 4:38 |
 | 36 | [Intertwined](https://open.spotify.com/track/0Mnk5ZV0xWVSPf2lXGqxtq) | [Arutani](https://open.spotify.com/artist/7g48EWSZL2Zb40hnBcFd1K) | [Intertwined](https://open.spotify.com/album/4VmxgE6vmKjNvGZ7HlcqVj) | 7:06 |
 | 37 | [What Kinda Music](https://open.spotify.com/track/47w6S27JF4Zvrz1Wd6R66Z) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music](https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI) | 3:50 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6NYc6NOT7sQ.md) - [plain]
 | 84 | [Marmara](https://open.spotify.com/track/0mWySChvIoNiwwjrseycdT) | [Muno](https://open.spotify.com/artist/1DZGRRvmPsjC8o8F8MwpRe) | [Marmara](https://open.spotify.com/album/4j0YbHO2ronLXxxVXHEMt2) | 5:50 |
 | 85 | [Lyre](https://open.spotify.com/track/6sFgqgE20JJ3whmxIOoP8h) | [NINZE & OKAXY](https://open.spotify.com/artist/4yJU0dWTxh9cmKKjXWOneJ) | [Cranes at Night](https://open.spotify.com/album/7CTizjF89XdarzPdTPMmdW) | 5:35 |
 
-Snapshot ID: `MTY4MjAyNDQwMCwwMDAwMDAwMDQyMDMzMjI4ZmVlYmYyNWNkNTVmYzg1MzkxMWYyMTIw`
+Snapshot ID: `MCxiNGQ5N2FmZmVhODcxYjA2N2I3ODE2YzU3MTgzZDA1MWU0ZWY5NmEx`

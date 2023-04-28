@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 
 > Are you afraid of the dark?
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,461 likes - 90 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,636 likes - 90 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 89 | [Alivve](https://open.spotify.com/track/712J1MIoG92zG8IDmNHayC) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pink Songs](https://open.spotify.com/album/1CfNEJDcCiHkBnuFsjuFK9) | 2:19 |
 | 90 | [Love Is a Real Place](https://open.spotify.com/track/35a1pcDwARb6heYFO3gkKx) | [The Crayon Set](https://open.spotify.com/artist/5w7xIHvMgSdV2rjkNRVKnW) | [Love Is a Real Place](https://open.spotify.com/album/6x6pxXPd1eRXZzpEFNS2Av) | 3:42 |
 
-Snapshot ID: `MTY3OTUyODMzMSwwMDAwMDAwMGQ1NTIxOWY3ODY2MjU2YzExN2I2Nzg2MzlkOGY2ZmJk`
+Snapshot ID: `MCxhMzMzODllOWI5NGYzYTZkMzgxNDY5YTNjMzEwZWQ2ZmY2NGMxNzE1`

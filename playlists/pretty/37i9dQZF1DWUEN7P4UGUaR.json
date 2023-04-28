@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Louis Pascal",
-  "num_followers": 323,
+  "num_followers": 338,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAzNTE0MCwwMDAwMDAwMDNlNjZhY2IyYjkyMjg5NGE2ODU1M2YzNTgyZGNmMzNk",
+  "snapshot_id": "MCxmMTY2ZTNiYTRkZjU5NzE1M2Q4OTg4YzQzNTliYjdiNmMwZTcwYTQ5",
   "tracks": [
     {
       "added_at": "2023-04-20 23:59:00",
@@ -491,18 +491,22 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Who Say God No Dey",
-        "url": "https://open.spotify.com/album/4jy0Yrg8U6CacwTwChNtti"
+        "name": "Ghana Local Praise Medley",
+        "url": "https://open.spotify.com/album/6JMeaFneyim4EC2BxMYMGw"
       },
       "artists": [
         {
-          "name": "Kofi Karikari",
-          "url": "https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE"
+          "name": "DOXA WAVE GH",
+          "url": "https://open.spotify.com/artist/1zqLzdhDVwbe35i4IFrgf6"
+        },
+        {
+          "name": "Shadrach Mensah Kwesi",
+          "url": "https://open.spotify.com/artist/6WRzw7R2P5DfMPXZAulY7e"
         }
       ],
-      "duration_ms": 174236,
-      "name": "Who Say God No Dey",
-      "url": "https://open.spotify.com/track/3Ff4Jeg1zd09LYVABJ4YUU"
+      "duration_ms": 566414,
+      "name": "Ghana Local Praise Medley",
+      "url": "https://open.spotify.com/track/5EpTEpmbU57I9FMGR9m9sV"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -539,22 +543,18 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Ghana Local Praise Medley",
-        "url": "https://open.spotify.com/album/6JMeaFneyim4EC2BxMYMGw"
+        "name": "Who Say God No Dey",
+        "url": "https://open.spotify.com/album/4jy0Yrg8U6CacwTwChNtti"
       },
       "artists": [
         {
-          "name": "DOXA WAVE GH",
-          "url": "https://open.spotify.com/artist/1zqLzdhDVwbe35i4IFrgf6"
-        },
-        {
-          "name": "Shadrach Mensah Kwesi",
-          "url": "https://open.spotify.com/artist/6WRzw7R2P5DfMPXZAulY7e"
+          "name": "Kofi Karikari",
+          "url": "https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE"
         }
       ],
-      "duration_ms": 566414,
-      "name": "Ghana Local Praise Medley",
-      "url": "https://open.spotify.com/track/5EpTEpmbU57I9FMGR9m9sV"
+      "duration_ms": 174236,
+      "name": "Who Say God No Dey",
+      "url": "https://open.spotify.com/track/3Ff4Jeg1zd09LYVABJ4YUU"
     },
     {
       "added_at": "2023-04-20 23:59:00",

@@ -460,7 +460,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 160250,
       "name": "c\u00f3mo quieres que me enfade",
       "url": "https://open.spotify.com/track/1JoZpWoOpDZWCbfhVgjRiC"
@@ -1760,6 +1760,24 @@
       "duration_ms": 184666,
       "name": "Segundos Platos",
       "url": "https://open.spotify.com/track/1pHZf30WYm6CQukt7TvNPM"
+    },
+    {
+      "album": {
+        "name": "ESENCIA",
+        "url": "https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222346,
+      "name": "serotonina",
+      "url": "https://open.spotify.com/track/0cvNgL1H2mrGMxYZJmagUP"
     },
     {
       "album": {

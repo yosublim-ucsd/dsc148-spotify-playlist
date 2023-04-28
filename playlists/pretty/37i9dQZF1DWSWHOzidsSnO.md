@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 > ¡Mujeres de los Andes, a todo volumen! Con Susana Cala en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,169 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,168 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 11 | [Refugio](https://open.spotify.com/track/5iGcOpA2ZVzmpi5gqjHQEA) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Refugio](https://open.spotify.com/album/0USsWJfpUn9FLFTy4TaImn) | 3:13 |
 | 12 | [Netflix & Chill](https://open.spotify.com/track/0KPDkJ5UfDsGKw7gsieU54) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Netflix & Chill](https://open.spotify.com/album/6ifGExbAC6E7OlfRiwMx7U) | 2:44 |
 | 13 | [Quema](https://open.spotify.com/track/1qvEn0FGwIhvvUggNcV9k5) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [TORQUE: Vol\. 1](https://open.spotify.com/album/1GTyjbV1GQXFWjOCDsmNne) | 2:36 |
-| 14 | [Azúcar](https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [Azúcar](https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG) | 3:25 |
+| 14 | [AZÚCAR](https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [AZÚCAR](https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG) | 3:25 |
 | 15 | [Amante y Amigo](https://open.spotify.com/track/4UvRhamcRD4kpjEFtVN2ef) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [Mi Historia](https://open.spotify.com/album/2FQg1fzHKwyTEZgk1XziKf) | 3:04 |
 | 16 | [Bad Bitch](https://open.spotify.com/track/7ee38maLm32TKcmcWQglD5) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [Bad Bitch](https://open.spotify.com/album/3IlcNC5faMHH6gboTQ8XwQ) | 2:07 |
 | 17 | [AL NATURAL](https://open.spotify.com/track/2Hr2c6kxojvdyu5eJzq4NE) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [AL NATURAL](https://open.spotify.com/album/1BmvwEPLkAqdVOeW19LW4t) | 3:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 74 | [El Favorcito](https://open.spotify.com/track/4nHJp4ynAQQZgSlurkpBen) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Canciones Crudas](https://open.spotify.com/album/047ARD5KCqUWxg11bIll8Q) | 3:28 |
 | 75 | [Cubeta](https://open.spotify.com/track/1JDoIz8IWcNubVpKW2hXIR) | [Mayte Montero](https://open.spotify.com/artist/2Z3ytThcszxwnP0nR6ZafC) | [Cubeta](https://open.spotify.com/album/2pTRMkCYKcwVilF1OkC9il) | 3:40 |
 
-Snapshot ID: `MTY4MDY3MDg2MCwwMDAwMDAwMGNkMzBlZmJjYWQ0MWY1N2Y1ODllYzNkMTM3Mzk0MzU5`
+Snapshot ID: `MCxhNjdiY2Y4ZmY0NTkyOGRlMGZjM2Y1YzI5NWZjODhhYzM2NzViOTMy`

@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 234496,
+  "num_followers": 234740,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2MTAxNCwwMDAwMDAwMDgyNDE4MDU0ODAyZDFlNzBlZTU4NjBmNTFkNDVkODE2",
+  "snapshot_id": "MCw0Yzg2ZTJmYmNmZGUzOWZlNDZlMzNlYzdjOWUzOTk2MjM3MjkyYjFi",
   "tracks": [
     {
       "added_at": "2022-11-18 01:42:16",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Flowers of Evil",
-        "url": "https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV"
-      },
-      "artists": [
-        {
-          "name": "Ulver",
-          "url": "https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Russian Doll",
-      "url": "https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Telescope",
         "url": "https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 249979,
       "name": "Telescope",
       "url": "https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Flowers of Evil",
+        "url": "https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV"
+      },
+      "artists": [
+        {
+          "name": "Ulver",
+          "url": "https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Russian Doll",
+      "url": "https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1221,6 +1221,22 @@
       "url": "https://open.spotify.com/track/6ss6OkJFKQHnqO84sizM4w"
     },
     {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Downer",
+        "url": "https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5"
+      },
+      "artists": [
+        {
+          "name": "ten56.",
+          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
+        }
+      ],
+      "duration_ms": 153931,
+      "name": "Diazepam",
+      "url": "https://open.spotify.com/track/2I2lcRhPdvzfpC8Q3Eb6uO"
+    },
+    {
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "Going Under",
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "80486DX",
-        "url": "https://open.spotify.com/album/7KEr4XNYaRFzpF0qjVr72f"
-      },
-      "artists": [
-        {
-          "name": "MASTER BOOT RECORD",
-          "url": "https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "80486DX",
-      "url": "https://open.spotify.com/track/42K6S2MOIYrtqaTpCNcqHU"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "\u00c1mr",
         "url": "https://open.spotify.com/album/5w24JkPfkFs4PPVSnrzO1y"
       },
@@ -1291,6 +1291,22 @@
       "duration_ms": 293173,
       "name": "Arcana Imperii",
       "url": "https://open.spotify.com/track/3Vv0Lsh8rGZZSckd5PsOzd"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "80486DX",
+        "url": "https://open.spotify.com/album/7KEr4XNYaRFzpF0qjVr72f"
+      },
+      "artists": [
+        {
+          "name": "MASTER BOOT RECORD",
+          "url": "https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "80486DX",
+      "url": "https://open.spotify.com/track/42K6S2MOIYrtqaTpCNcqHU"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1339,22 +1355,6 @@
       "duration_ms": 211759,
       "name": "Demon Supreme",
       "url": "https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Downer",
-        "url": "https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5"
-      },
-      "artists": [
-        {
-          "name": "ten56.",
-          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
-        }
-      ],
-      "duration_ms": 153931,
-      "name": "Diazepam",
-      "url": "https://open.spotify.com/track/2I2lcRhPdvzfpC8Q3Eb6uO"
     },
     {
       "added_at": "2022-11-18 01:42:16",

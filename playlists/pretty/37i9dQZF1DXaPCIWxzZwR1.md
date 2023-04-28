@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop Cover: Lauren Spencer Smith, GAYLE & Em Beihold
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,260,056 likes - 101 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,260,239 likes - 101 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 100 | [Dirty Thoughts](https://open.spotify.com/track/7zZDRq9CLl37OAywR39KVy) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [The Monster You Made Me](https://open.spotify.com/album/3aLOGvykDskOiDaLnTghjH) | 2:09 |
 | 101 | [moon and back](https://open.spotify.com/track/4228YpK0ZZuY4CZzBDVi3q) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 2:28 |
 
-Snapshot ID: `MTY4MjQzMjU1MSwwMDAwMDAwMDRkMjNiNjU5MDMzMzg2YWE1ZGRjNTQzNDMzYTdkZjE0`
+Snapshot ID: `MCwxYzM1MjI3MzE1NWEyMDRiNmNkODA1MjgyNzBhNzk1ZjRjYzU0YTA5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9if5QDLdzCa.md) - [plain]
 
 > The calm sound of crashing waves on the beach.
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,329 likes - 203 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,358 likes - 203 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,7 +138,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9if5QDLdzCa.md) - [plain]
 | 128 | [Ocean Sunset Tide](https://open.spotify.com/track/6XBqAyN43UglCHM0sWZLS3) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [California Ocean Sounds](https://open.spotify.com/album/3or8OyLPvGttkcdl1TwXtQ) | 2:49 |
 | 129 | [Tropical Waves](https://open.spotify.com/track/1HGtfBNK5UeGauqcghOVWs) | [Relaxed Minds](https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R) | [Relaxed Minds](https://open.spotify.com/album/4g2wYVgU9tOSzng518xSmm) | 2:35 |
 | 130 | [Waves Before Dawn](https://open.spotify.com/track/6GttsqaEPKPJ0JWk75Ssdy) | [Underwater Sound](https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq) | [Venice Beach Night Waves](https://open.spotify.com/album/6CF71cuLiDydgs6cSnAyPD) | 2:30 |
-| 131 | [Stormy Sea](https://open.spotify.com/track/056HAdAfs0Xh7HDEpP41UB) | [Rainframe](https://open.spotify.com/artist/75LnSU5XRGI4oD4g9LXoRL) | [Ocean Hd](https://open.spotify.com/album/5L8JRoz2nPLViWAJL9zwDf) | 2:47 |
+| 131 | [Stormy Sea](https://open.spotify.com/track/5STiJhJ8wVjofGiEah0Izu) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Ocean HD Vol\. 4](https://open.spotify.com/album/7fFcVyns1uBinjiBOGbcbv) | 2:47 |
 | 132 | [Soothing Mediterranean Waves 2](https://open.spotify.com/track/7GUIUopUV2y3PaGx0xUZcc) | [Seascapers](https://open.spotify.com/artist/1OCxhMsilRRM68yBUkQ3NA) | [Soothing Mediterranean Waves](https://open.spotify.com/album/1vghmld08G61LHeiw0ULMq) | 3:34 |
 | 133 | [Chill Waves](https://open.spotify.com/track/5WG22XDxMdU2dmnJ3CuVhQ) | [Factorial FX](https://open.spotify.com/artist/16weRDppbG11cOcQQtKjFu) | [Relax Waves](https://open.spotify.com/album/6Qvj2A6BbHE0449Y6DD7Pf) | 2:12 |
 | 134 | [Healing Sea](https://open.spotify.com/track/4n5BmXTjGNof69csvvudV2) | [Outside HD Samples](https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ) | [Outside HD Samples](https://open.spotify.com/album/4YmuO6PMPy57kSKSCLqfG0) | 2:21 |
@@ -212,4 +212,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9if5QDLdzCa.md) - [plain]
 | 202 | [Misty Waves](https://open.spotify.com/track/0NMm7e8hghkc45813KsWOn) | [Microdynamic Recordings](https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9) | [Sunday Night Waves](https://open.spotify.com/album/5Lu8V4pKtLpaS8Q6OwABjs) | 2:54 |
 | 203 | [Waves of Bliss](https://open.spotify.com/track/4ujz8hsDEAURnqFSyH0wGt) | [Shoreline Sounds](https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw) | [Waves of the Monterey Peninsula](https://open.spotify.com/album/40IKIiamZMzBVNMPgrSTpN) | 3:00 |
 
-Snapshot ID: `MTY3NjQ1NzUxNSwwMDAwMDAwMGZmNGYyNGJmZWVkNTU4NjRjN2MwMjUwNzVkNjM5NDlm`
+Snapshot ID: `MCxjYmI4MGUzM2VmMmFmNjgyZGM1YWU1NTU0M2U0Y2QxNDgzYWVkYzdl`

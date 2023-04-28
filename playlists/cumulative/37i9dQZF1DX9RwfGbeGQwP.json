@@ -2881,6 +2881,28 @@
     },
     {
       "album": {
+        "name": "Cat in the Box",
+        "url": "https://open.spotify.com/album/5WmnhaE67jSCe4MrseI5Be"
+      },
+      "artists": [
+        {
+          "name": "Mosalla",
+          "url": "https://open.spotify.com/artist/2MlmctFTcQ5Qhjq5ataD5C"
+        },
+        {
+          "name": "Joe Sunrise",
+          "url": "https://open.spotify.com/artist/4mvWLbsizI6uxbelCP9LRy"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116883,
+      "name": "Cat in the Box",
+      "url": "https://open.spotify.com/track/2k9QU8szGSVS8b2N7xW6MC"
+    },
+    {
+      "album": {
         "name": "Cathartic",
         "url": "https://open.spotify.com/album/1qn7HpgYuij9FtWD1KIxHd"
       },
@@ -3084,7 +3106,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 166000,
       "name": "Chick",
       "url": "https://open.spotify.com/track/0WzdK813v8tzO8uUgT2rYf"
@@ -6390,7 +6412,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 105974,
       "name": "Felspar",
       "url": "https://open.spotify.com/track/5vMqu4Xw3C9DFx4SFp4ROC"
@@ -6650,7 +6672,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 130588,
       "name": "Float",
       "url": "https://open.spotify.com/track/0XSq6J7KEeR5IH7GjfeDfX"
@@ -7180,6 +7202,24 @@
       "duration_ms": 140760,
       "name": "Freeine",
       "url": "https://open.spotify.com/track/7ufMGmS5G5wUdv3mWm4spT"
+    },
+    {
+      "album": {
+        "name": "Fresh Fruit Brunch",
+        "url": "https://open.spotify.com/album/4xslyXDxBu8eo4J2MZwh9e"
+      },
+      "artists": [
+        {
+          "name": "Yoga at the Disco",
+          "url": "https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138795,
+      "name": "Fresh Fruit Brunch",
+      "url": "https://open.spotify.com/track/1XvjgA7MDT5F7Zpa9rGUR5"
     },
     {
       "album": {
@@ -10956,7 +10996,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 116771,
       "name": "Lets go",
       "url": "https://open.spotify.com/track/60kWezFmMkvKndSPlkUtO7"
@@ -11260,7 +11300,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 153753,
       "name": "Long for",
       "url": "https://open.spotify.com/track/5clFQSNR2BFzgfYf9CNQPJ"
@@ -11886,7 +11926,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 99259,
       "name": "Magical Dreams",
       "url": "https://open.spotify.com/track/1IJ6kStfmEO702IvVLNQcN"
@@ -12188,6 +12228,24 @@
       "duration_ms": 159069,
       "name": "Memphis",
       "url": "https://open.spotify.com/track/5bIGzdHT1CQzFLx3oM5HEk"
+    },
+    {
+      "album": {
+        "name": "Mentor",
+        "url": "https://open.spotify.com/album/0XRicJ10jdVBKieWYBZSbY"
+      },
+      "artists": [
+        {
+          "name": "Random Dinu",
+          "url": "https://open.spotify.com/artist/3mfI1TXFW4tXPQEklMqSsP"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111891,
+      "name": "Mentor",
+      "url": "https://open.spotify.com/track/11tfbPbvwBnDeiB0coMi4G"
     },
     {
       "album": {
@@ -14626,7 +14684,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 154074,
       "name": "Osmo",
       "url": "https://open.spotify.com/track/3Lk8aG313wpVAjCm6AFqTz"
@@ -15370,6 +15428,32 @@
       "duration_ms": 161294,
       "name": "Playground",
       "url": "https://open.spotify.com/track/1pYaPio8CxOx60lhr74LuM"
+    },
+    {
+      "album": {
+        "name": "Playground",
+        "url": "https://open.spotify.com/album/11CcFmSsiIODypVZC4rXRt"
+      },
+      "artists": [
+        {
+          "name": "Eu93ne",
+          "url": "https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4"
+        },
+        {
+          "name": "Adrian Planitz",
+          "url": "https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa"
+        },
+        {
+          "name": "okwow",
+          "url": "https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143004,
+      "name": "Playground Days",
+      "url": "https://open.spotify.com/track/3Z4xamn5gkIDOxcbQWTZbI"
     },
     {
       "album": {
@@ -17126,7 +17210,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 132000,
       "name": "See The Flowers",
       "url": "https://open.spotify.com/track/77MvpbDU4b23vr2rkEYOsq"
@@ -18054,6 +18138,28 @@
       "duration_ms": 209695,
       "name": "Sometimes It Rains In My Living Room",
       "url": "https://open.spotify.com/track/0vrXkAFL5bMYVSgScDnTav"
+    },
+    {
+      "album": {
+        "name": "Sonimo",
+        "url": "https://open.spotify.com/album/4i6AJbaSZgBl7fLv4PFUHX"
+      },
+      "artists": [
+        {
+          "name": "Prime8",
+          "url": "https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP"
+        },
+        {
+          "name": "Uevo",
+          "url": "https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128640,
+      "name": "Sonimo",
+      "url": "https://open.spotify.com/track/7hkfa38BwJQfjsWeN3ssep"
     },
     {
       "album": {
@@ -20166,7 +20272,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 131900,
       "name": "The return of Mr. Swing",
       "url": "https://open.spotify.com/track/3pfsUjWIY8mcs5aQQRm9Fl"
@@ -20245,6 +20351,32 @@
     },
     {
       "album": {
+        "name": "Theme 9",
+        "url": "https://open.spotify.com/album/6XubX20LZ423SxdObUHFkZ"
+      },
+      "artists": [
+        {
+          "name": "Phil Tyler",
+          "url": "https://open.spotify.com/artist/00hdgbWnNqR00WnuChfLf2"
+        },
+        {
+          "name": "Peter Thomas Sound Orchester",
+          "url": "https://open.spotify.com/artist/2guRkkGBMKiboUZJr0NhZF"
+        },
+        {
+          "name": "Golden Ticket Tapes",
+          "url": "https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191873,
+      "name": "Theme 9",
+      "url": "https://open.spotify.com/track/3Rwjlw8iBHUH8Kd7SLFQeX"
+    },
+    {
+      "album": {
         "name": "Things I Should Have Said (Emmavie Remix)",
         "url": "https://open.spotify.com/album/6CZ0DpfxuIewEssPbF45LS"
       },
@@ -20260,7 +20392,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 250517,
       "name": "Things I Should Have Said - Emmavie Remix Instrumental",
       "url": "https://open.spotify.com/track/0VcpC5axCOrxCC9pmlEPGs"
@@ -22618,7 +22750,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 141573,
       "name": "Zeal",
       "url": "https://open.spotify.com/track/7gWksPQCd3aSdB7phjMTXy"

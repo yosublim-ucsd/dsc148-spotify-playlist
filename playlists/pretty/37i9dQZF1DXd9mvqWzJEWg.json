@@ -1,32 +1,28 @@
 {
-  "description": "It's not just about the music, it's about the culture. Cover: \n<a href=\"https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy?si=j5RBm471QpeiVU8IHM3GfQ\">Omagoqa</a>.",
-  "num_followers": 49873,
+  "description": "It's not just about the music, it's about the culture. Cover: \n<a href=\"https://open.spotify.com/artist/2Y4YLJHlF2q5jg5pTE5CSz?si=WPwr0OIRShqKT4KNPq2udw\">NV Funk</a>.",
+  "num_followers": 49902,
   "original_name": "GQOM Power House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQyNDQ3OSwwMDAwMDAwMDdmYWZjYTRmYTZkNDMxNTY3YjBkOTIyYzZhODNhY2M0",
+  "snapshot_id": "MCw3YzU5MzYyYWMxOWY4NTczZDk0NGJjYzE4NDJiNjdiMDljNjNjNzQy",
   "tracks": [
     {
-      "added_at": "2022-12-08 21:59:00",
+      "added_at": "2023-04-27 21:59:00",
       "album": {
-        "name": "Ngeke",
-        "url": "https://open.spotify.com/album/0QYvoihSPn22fsyyHFU459"
+        "name": "Non Greater",
+        "url": "https://open.spotify.com/album/4KseeLWsWc5ymGt6Fk9Aan"
       },
       "artists": [
         {
-          "name": "Big Nuz",
-          "url": "https://open.spotify.com/artist/0YeWW8LhLaoI9dM6YTFXKp"
-        },
-        {
-          "name": "Dj Yamza",
-          "url": "https://open.spotify.com/artist/6qT6hEK1WU1zJ3Ebsn7NDU"
+          "name": "NV Funk",
+          "url": "https://open.spotify.com/artist/2Y4YLJHlF2q5jg5pTE5CSz"
         }
       ],
-      "duration_ms": 362834,
-      "name": "Ngeke",
-      "url": "https://open.spotify.com/track/03WpImRRBMoMSI8Ch8aayl"
+      "duration_ms": 309315,
+      "name": "Non Greater",
+      "url": "https://open.spotify.com/track/44udvR3dQhCTNEL8gpxPdo"
     },
     {
       "added_at": "2022-10-24 14:43:46",
@@ -63,98 +59,6 @@
       "duration_ms": 367090,
       "name": "Sikilidi",
       "url": "https://open.spotify.com/track/23luTVNXuCGC05B59KV7gO"
-    },
-    {
-      "added_at": "2023-02-03 11:39:47",
-      "album": {
-        "name": "Back To Ebombeni (Deluxe)",
-        "url": "https://open.spotify.com/album/2PPmVL7PqOfCT2p12gSTYO"
-      },
-      "artists": [
-        {
-          "name": "Omagoqa",
-          "url": "https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy"
-        },
-        {
-          "name": "Chumza",
-          "url": "https://open.spotify.com/artist/0C2qrnrnaf8B3R43gPRxoI"
-        }
-      ],
-      "duration_ms": 286451,
-      "name": "GWY",
-      "url": "https://open.spotify.com/track/0sfYxexj1Sma2UfzLuCyhb"
-    },
-    {
-      "added_at": "2022-06-30 23:11:47",
-      "album": {
-        "name": "Uhayizelani",
-        "url": "https://open.spotify.com/album/18NjQSo84NAi032NOZSGVV"
-      },
-      "artists": [
-        {
-          "name": "Abangani Bethu",
-          "url": "https://open.spotify.com/artist/4K8D2RZjEKU0ZXrqrtEwXT"
-        },
-        {
-          "name": "Formation Boyz",
-          "url": "https://open.spotify.com/artist/1PpqhQEi4YnNyRVAatLKCW"
-        }
-      ],
-      "duration_ms": 311092,
-      "name": "Uhayizelani",
-      "url": "https://open.spotify.com/track/5HamRh4oj341Q336qcQZEE"
-    },
-    {
-      "added_at": "2020-03-11 08:05:56",
-      "album": {
-        "name": "Make Cape Town Great Again",
-        "url": "https://open.spotify.com/album/1kQBFelXMmWhHhGkyPyJok"
-      },
-      "artists": [
-        {
-          "name": "Mshayi",
-          "url": "https://open.spotify.com/artist/0eIT5Ol4P6JU77oHfyVpmb"
-        },
-        {
-          "name": "Mr Thela",
-          "url": "https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle"
-        },
-        {
-          "name": "T-Man",
-          "url": "https://open.spotify.com/artist/5p0SkCjy1OmhoXPSM5dvW2"
-        }
-      ],
-      "duration_ms": 355395,
-      "name": "Iparty",
-      "url": "https://open.spotify.com/track/7J0vho7Fc0aYCdE8GDlX0L"
-    },
-    {
-      "added_at": "2021-08-18 14:23:14",
-      "album": {
-        "name": "Umshunqo Reloaded",
-        "url": "https://open.spotify.com/album/44NyWnqunTOXcpInnoepuk"
-      },
-      "artists": [
-        {
-          "name": "Dladla Mshunqisi",
-          "url": "https://open.spotify.com/artist/5M9mFjVaPT2T1HFYFFSoCt"
-        },
-        {
-          "name": "Sizwe Mdlalose",
-          "url": "https://open.spotify.com/artist/3w6f762ECxkOr6byVbNS0X"
-        },
-        {
-          "name": "Assiye Bongzin",
-          "url": "https://open.spotify.com/artist/4LGkmVg5ZuWf8aH9L9C3rC"
-        },
-        {
-          "name": "DJ Tira",
-          "url": "https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn"
-        }
-      ],
-      "duration_ms": 260952,
-      "name": "Uphetheni Esandleni",
-      "url": "https://open.spotify.com/track/0wmof7ZBxnuZGmvDkBIxQc"
     },
     {
       "added_at": "2022-08-04 21:59:00",
@@ -195,6 +99,66 @@
       "duration_ms": 337002,
       "name": "Thayela",
       "url": "https://open.spotify.com/track/3nPRu3yG0hVuUOJOiW6zo3"
+    },
+    {
+      "added_at": "2022-12-08 21:59:00",
+      "album": {
+        "name": "Ngeke",
+        "url": "https://open.spotify.com/album/0QYvoihSPn22fsyyHFU459"
+      },
+      "artists": [
+        {
+          "name": "Big Nuz",
+          "url": "https://open.spotify.com/artist/0YeWW8LhLaoI9dM6YTFXKp"
+        },
+        {
+          "name": "Dj Yamza",
+          "url": "https://open.spotify.com/artist/6qT6hEK1WU1zJ3Ebsn7NDU"
+        }
+      ],
+      "duration_ms": 362834,
+      "name": "Ngeke",
+      "url": "https://open.spotify.com/track/03WpImRRBMoMSI8Ch8aayl"
+    },
+    {
+      "added_at": "2022-06-30 23:11:47",
+      "album": {
+        "name": "Uhayizelani",
+        "url": "https://open.spotify.com/album/18NjQSo84NAi032NOZSGVV"
+      },
+      "artists": [
+        {
+          "name": "Abangani Bethu",
+          "url": "https://open.spotify.com/artist/4K8D2RZjEKU0ZXrqrtEwXT"
+        },
+        {
+          "name": "Formation Boyz",
+          "url": "https://open.spotify.com/artist/1PpqhQEi4YnNyRVAatLKCW"
+        }
+      ],
+      "duration_ms": 311092,
+      "name": "Uhayizelani",
+      "url": "https://open.spotify.com/track/5HamRh4oj341Q336qcQZEE"
+    },
+    {
+      "added_at": "2023-02-03 11:39:47",
+      "album": {
+        "name": "Back To Ebombeni (Deluxe)",
+        "url": "https://open.spotify.com/album/2PPmVL7PqOfCT2p12gSTYO"
+      },
+      "artists": [
+        {
+          "name": "Omagoqa",
+          "url": "https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy"
+        },
+        {
+          "name": "Chumza",
+          "url": "https://open.spotify.com/artist/0C2qrnrnaf8B3R43gPRxoI"
+        }
+      ],
+      "duration_ms": 286451,
+      "name": "GWY",
+      "url": "https://open.spotify.com/track/0sfYxexj1Sma2UfzLuCyhb"
     },
     {
       "added_at": "2022-11-07 15:59:00",
@@ -355,26 +319,6 @@
       "duration_ms": 309722,
       "name": "uMgqibelo",
       "url": "https://open.spotify.com/track/6oOESqnGfjidIGm9hvczPZ"
-    },
-    {
-      "added_at": "2021-08-19 21:59:00",
-      "album": {
-        "name": "P.A.B (People Are Burning) (feat. Madanon)",
-        "url": "https://open.spotify.com/album/0mzcPb75OxCKOKi0rfmutl"
-      },
-      "artists": [
-        {
-          "name": "QUE DJ",
-          "url": "https://open.spotify.com/artist/6ZKszbUwWSNSc0VydBBAka"
-        },
-        {
-          "name": "Madanon",
-          "url": "https://open.spotify.com/artist/0MnqNJsyaYr24L9bN7PpJQ"
-        }
-      ],
-      "duration_ms": 245736,
-      "name": "P.A.B (People Are Burning) (feat. Madanon)",
-      "url": "https://open.spotify.com/track/7DkDpIkiYOVBDidQWVhaG9"
     },
     {
       "added_at": "2022-02-24 21:59:00",
@@ -1067,6 +1011,230 @@
       "duration_ms": 375198,
       "name": "Time Splitter",
       "url": "https://open.spotify.com/track/1Hnt3TjNLtFpOv1LqKsbh1"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "London Gin (EDM)",
+        "url": "https://open.spotify.com/album/4iMRDu8ACme4caM3C7f9Op"
+      },
+      "artists": [
+        {
+          "name": "BlaQ Zombies",
+          "url": "https://open.spotify.com/artist/0hRJjbeLC6NJ3ErYbmUoKz"
+        },
+        {
+          "name": "GqoMLorD",
+          "url": "https://open.spotify.com/artist/6vFMjOEA3AVavs4vc2qcE5"
+        }
+      ],
+      "duration_ms": 343733,
+      "name": "London Gin (EDM)",
+      "url": "https://open.spotify.com/track/3EKdjtKrQ6rtqaFrRfXm6c"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "AK47",
+        "url": "https://open.spotify.com/album/6dDFU8LUav3oZnFVGXbewu"
+      },
+      "artists": [
+        {
+          "name": "GqoMLorD",
+          "url": "https://open.spotify.com/artist/6vFMjOEA3AVavs4vc2qcE5"
+        }
+      ],
+      "duration_ms": 327328,
+      "name": "AK47",
+      "url": "https://open.spotify.com/track/3QilMDeDIelmgWloV3cXa1"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Ibhasi",
+        "url": "https://open.spotify.com/album/3bHIOci71PkzUQjMpNz9UU"
+      },
+      "artists": [
+        {
+          "name": "Msetash",
+          "url": "https://open.spotify.com/artist/11gwYkHZtfGtIzDXE10xac"
+        },
+        {
+          "name": "Dlala Lazz",
+          "url": "https://open.spotify.com/artist/56conUHVIKn4Tr02Gis3pN"
+        }
+      ],
+      "duration_ms": 336457,
+      "name": "Ibhasi",
+      "url": "https://open.spotify.com/track/17s4JoacgNUVQSR6G8s2Ql"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Klap Klap",
+        "url": "https://open.spotify.com/album/3NEGgDXgN72kX6XkbNDwdY"
+      },
+      "artists": [
+        {
+          "name": "Temple Boys Cpt",
+          "url": "https://open.spotify.com/artist/4xFNz56JhznT2ic3fhEg8n"
+        }
+      ],
+      "duration_ms": 183405,
+      "name": "Klap Klap",
+      "url": "https://open.spotify.com/track/3GGvTviqpbhc9L9XHRk1Uj"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Imali",
+        "url": "https://open.spotify.com/album/1QTu1sPc5EYFeufpGVVfnc"
+      },
+      "artists": [
+        {
+          "name": "Mr Thela",
+          "url": "https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle"
+        },
+        {
+          "name": "Nobantu Vilakazi",
+          "url": "https://open.spotify.com/artist/3qo2q05gFa09MXrEZltr7q"
+        }
+      ],
+      "duration_ms": 334493,
+      "name": "Imali",
+      "url": "https://open.spotify.com/track/4u0RKHQuHzEiXySDbRYy1B"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Woza Ndik'xelele",
+        "url": "https://open.spotify.com/album/1cjkpazJbOpNVxSovgYEBl"
+      },
+      "artists": [
+        {
+          "name": "Shandrac",
+          "url": "https://open.spotify.com/artist/7iXakmMRoWkb7WnYEeodKm"
+        }
+      ],
+      "duration_ms": 305371,
+      "name": "Woza Ndik'xelele",
+      "url": "https://open.spotify.com/track/7EYkHOPlCfjuVXUwNoKxpZ"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Underworld",
+        "url": "https://open.spotify.com/album/6MExFZ1jDwPkEpP6IQ61M9"
+      },
+      "artists": [
+        {
+          "name": "Woza Spice",
+          "url": "https://open.spotify.com/artist/5jXhHXqQusFuDslFf7VJYQ"
+        }
+      ],
+      "duration_ms": 331363,
+      "name": "Underworld",
+      "url": "https://open.spotify.com/track/3nMfPEFkrNxZSYbKVe99hf"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Green Light",
+        "url": "https://open.spotify.com/album/6wc5kA4Opm6zkyoSAXjQTt"
+      },
+      "artists": [
+        {
+          "name": "Vida-Soul",
+          "url": "https://open.spotify.com/artist/6u8wlBgWGcHLUvSDNfAYXu"
+        }
+      ],
+      "duration_ms": 396640,
+      "name": "Dirty Scooter",
+      "url": "https://open.spotify.com/track/4al36LCHp4eEYc5op7O76p"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Rock the Club",
+        "url": "https://open.spotify.com/album/7clvgkwDTvqPXx2ulXmbUd"
+      },
+      "artists": [
+        {
+          "name": "Blaq Q",
+          "url": "https://open.spotify.com/artist/1W1hzqcELRUz3pjLiQtUa1"
+        }
+      ],
+      "duration_ms": 351529,
+      "name": "Rock the Club",
+      "url": "https://open.spotify.com/track/6ZORv7p5vbe1ugYijPebnH"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Shona Phantsi",
+        "url": "https://open.spotify.com/album/7LRAb1nUeBBJtEnTnWjUBZ"
+      },
+      "artists": [
+        {
+          "name": "Hume Da Muzika",
+          "url": "https://open.spotify.com/artist/5sMk0h3nPvjOmjqG4BunmY"
+        },
+        {
+          "name": "T-Man",
+          "url": "https://open.spotify.com/artist/5p0SkCjy1OmhoXPSM5dvW2"
+        }
+      ],
+      "duration_ms": 366628,
+      "name": "Shona Phantsi",
+      "url": "https://open.spotify.com/track/14KEZJsz3lLCZaCKzNFc9B"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Umhlaka 2",
+        "url": "https://open.spotify.com/album/06tkCF1OAZz0Z8XwDSpE6n"
+      },
+      "artists": [
+        {
+          "name": "Dr Dope",
+          "url": "https://open.spotify.com/artist/511VpiGCdzuECpteBjWKuT"
+        },
+        {
+          "name": "The Elevatorz",
+          "url": "https://open.spotify.com/artist/5yu1Qzlob7mdCvXWByKuEZ"
+        },
+        {
+          "name": "JR IGhost",
+          "url": "https://open.spotify.com/artist/4V824x6HB7yHu8Sr7sXOUH"
+        },
+        {
+          "name": "Ainch",
+          "url": "https://open.spotify.com/artist/3KyYbO8vsDfPpXOGGVUSHF"
+        }
+      ],
+      "duration_ms": 324094,
+      "name": "Umhlaka 2",
+      "url": "https://open.spotify.com/track/5Yd1gtpJTGDphBNbnDIMVU"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "I Gqom E Durban",
+        "url": "https://open.spotify.com/album/3bRtkj0sCYw8E6TMatIb9r"
+      },
+      "artists": [
+        {
+          "name": "DJ Fanele",
+          "url": "https://open.spotify.com/artist/6M8jIo6oHncJ1oIvHFtbY3"
+        },
+        {
+          "name": "Veela",
+          "url": "https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR"
+        }
+      ],
+      "duration_ms": 335238,
+      "name": "Lokishi",
+      "url": "https://open.spotify.com/track/1jVN9BUFM36NzjbZ1zYWc0"
     }
   ],
   "unique_name": "GQOM Power House",

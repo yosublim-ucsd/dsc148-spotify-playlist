@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica rica y antig\u00fcita!",
-  "num_followers": 31257,
+  "num_followers": 31298,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTM0Mzg4MSwwMDAwMDAwMGMxODJiYzJmODQ2N2Y0Zjg1MWI4ZjkzODJlMDIyZDA4",
+  "snapshot_id": "MCxlNTUzMjQyNDJmMjYzZDg5NDA5Y2QyZjlkNDRhYzU1YWI1YzFjMjhl",
   "tracks": [
     {
       "added_at": "2020-05-28 20:45:13",
@@ -565,22 +565,6 @@
       "url": "https://open.spotify.com/track/6Ds432SUei6nfYwOl4io93"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "La Llorona",
-        "url": "https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP"
-      },
-      "artists": [
-        {
-          "name": "Lhasa De Sela",
-          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
-        }
-      ],
-      "duration_ms": 250360,
-      "name": "Floricanto",
-      "url": "https://open.spotify.com/track/0E1jfqTSwFlGFskSYqn3ZM"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Pa'lante",
@@ -595,6 +579,22 @@
       "duration_ms": 188355,
       "name": "Aguacate",
       "url": "https://open.spotify.com/track/43AzdM8V36FFQZ5Kc5QYkZ"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "La Llorona",
+        "url": "https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP"
+      },
+      "artists": [
+        {
+          "name": "Lhasa De Sela",
+          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
+        }
+      ],
+      "duration_ms": 250360,
+      "name": "Floricanto",
+      "url": "https://open.spotify.com/track/0E1jfqTSwFlGFskSYqn3ZM"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -717,22 +717,6 @@
       "url": "https://open.spotify.com/track/3MVUADKwucn7BoLq73cbE6"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Papayas",
-        "url": "https://open.spotify.com/album/2yicqz18D45XpgeHAL2692"
-      },
-      "artists": [
-        {
-          "name": "chicarica",
-          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
-        }
-      ],
-      "duration_ms": 337391,
-      "name": "Papayas",
-      "url": "https://open.spotify.com/track/5IdYwtkWxze5HKIq6uwFEk"
-    },
-    {
       "added_at": "2022-02-04 19:55:03",
       "album": {
         "name": "Caf\u00e9 Caf\u00e9",
@@ -747,6 +731,22 @@
       "duration_ms": 238586,
       "name": "Caf\u00e9 Caf\u00e9",
       "url": "https://open.spotify.com/track/7pOrjaSlEgPsWZhrIar1zf"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Papayas",
+        "url": "https://open.spotify.com/album/2yicqz18D45XpgeHAL2692"
+      },
+      "artists": [
+        {
+          "name": "chicarica",
+          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
+        }
+      ],
+      "duration_ms": 337391,
+      "name": "Papayas",
+      "url": "https://open.spotify.com/track/5IdYwtkWxze5HKIq6uwFEk"
     },
     {
       "added_at": "2022-04-19 19:22:36",
@@ -1105,22 +1105,6 @@
       "url": "https://open.spotify.com/track/2tVkvdgt2Gnf4kTp6bbn7Y"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Las 50 Mejores Grabaciones De Antonio Mach\u00edn En Discophon (1903-1977)",
-        "url": "https://open.spotify.com/album/7A0ccfjjDyCG3HdU5avaf5"
-      },
-      "artists": [
-        {
-          "name": "Antonio Mach\u00edn",
-          "url": "https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG"
-        }
-      ],
-      "duration_ms": 157266,
-      "name": "Tengo una debilidad",
-      "url": "https://open.spotify.com/track/52ZaEmQXC9AtnZb4xUNNoC"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "It's Time",
@@ -1135,6 +1119,22 @@
       "duration_ms": 265373,
       "name": "Caf\u00e9 Con Pan",
       "url": "https://open.spotify.com/track/0kjoUiBRIa3TDMmFXS1fFv"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Las 50 Mejores Grabaciones De Antonio Mach\u00edn En Discophon (1903-1977)",
+        "url": "https://open.spotify.com/album/7A0ccfjjDyCG3HdU5avaf5"
+      },
+      "artists": [
+        {
+          "name": "Antonio Mach\u00edn",
+          "url": "https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG"
+        }
+      ],
+      "duration_ms": 157266,
+      "name": "Tengo una debilidad",
+      "url": "https://open.spotify.com/track/52ZaEmQXC9AtnZb4xUNNoC"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Latin Soul Syndicate",
-        "url": "https://open.spotify.com/album/4RX2MCsif63EAl7nM8JBiO"
-      },
-      "artists": [
-        {
-          "name": "Latin Soul Syndicate",
-          "url": "https://open.spotify.com/artist/7hxIk7Xc5inSXA4uXHUSps"
-        }
-      ],
-      "duration_ms": 239760,
-      "name": "Frida Kahlo aka Mamasita",
-      "url": "https://open.spotify.com/track/0kVOs0kuxFduJQSGA3YA3x"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Bi",
         "url": "https://open.spotify.com/album/5Rnk0JczvdBVg123Mpd483"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 176733,
       "name": "La Sitiera",
       "url": "https://open.spotify.com/track/0B0xMZtJkAgGlYhayJhYcK"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Latin Soul Syndicate",
+        "url": "https://open.spotify.com/album/4RX2MCsif63EAl7nM8JBiO"
+      },
+      "artists": [
+        {
+          "name": "Latin Soul Syndicate",
+          "url": "https://open.spotify.com/artist/7hxIk7Xc5inSXA4uXHUSps"
+        }
+      ],
+      "duration_ms": 239760,
+      "name": "Frida Kahlo aka Mamasita",
+      "url": "https://open.spotify.com/track/0kVOs0kuxFduJQSGA3YA3x"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Mujeres con Cajones",
-        "url": "https://open.spotify.com/album/50lzMlXqpRzP1qcdZJ7KGz"
-      },
-      "artists": [
-        {
-          "name": "Eva Ayll\u00f3n",
-          "url": "https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2"
-        }
-      ],
-      "duration_ms": 171813,
-      "name": "Fina Estampa",
-      "url": "https://open.spotify.com/track/108bZCxgGxeHFQb14rJC1H"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Por siempre Los Panchos, Vol. 1 - Noche de ronda y otros \u00e9xitos (Remastered)",
         "url": "https://open.spotify.com/album/5Z5H3W0jLUyhzY8Fr1CDe8"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 186107,
       "name": "Jacarandosa - Remastered",
       "url": "https://open.spotify.com/track/43gIa4GPVqRnI7xEon9P6j"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Mujeres con Cajones",
+        "url": "https://open.spotify.com/album/50lzMlXqpRzP1qcdZJ7KGz"
+      },
+      "artists": [
+        {
+          "name": "Eva Ayll\u00f3n",
+          "url": "https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2"
+        }
+      ],
+      "duration_ms": 171813,
+      "name": "Fina Estampa",
+      "url": "https://open.spotify.com/track/108bZCxgGxeHFQb14rJC1H"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1377,36 +1377,20 @@
       "url": "https://open.spotify.com/track/3rZpBdMoAhoOGuduKZfDmW"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
+      "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Guapapasea!",
-        "url": "https://open.spotify.com/album/1YjFIHAJ5SGF1x724MoFYP"
+        "name": "Presentando a \u00d1ico Saquito",
+        "url": "https://open.spotify.com/album/78R0uTkfDNPDKVypJ3zI4S"
       },
       "artists": [
         {
-          "name": "Gecko Turner",
-          "url": "https://open.spotify.com/artist/3vGEIjEdCD0TeZDOMkoaFg"
+          "name": "\u00d1ico Saquito",
+          "url": "https://open.spotify.com/artist/0OThc8JLqTb1ThkLfsIGUi"
         }
       ],
-      "duration_ms": 331293,
-      "name": "Limon En La Cabeza",
-      "url": "https://open.spotify.com/track/3NLbpJkkXWoThhEe4RB9t5"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Los Originales Vol. 3",
-        "url": "https://open.spotify.com/album/39Xoa9wbneSzbysFRzkVmw"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz y La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/3WaTkjZxpbGDryRuQTtj1g"
-        }
-      ],
-      "duration_ms": 157352,
-      "name": "Caramelos",
-      "url": "https://open.spotify.com/track/2xirjKVetY5wxvw3hAuELH"
+      "duration_ms": 158453,
+      "name": "Maria Cristina",
+      "url": "https://open.spotify.com/track/3hqjYthxFa5f21ISWn9xdN"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1425,20 +1409,36 @@
       "url": "https://open.spotify.com/track/2hAZYHPp6JLzLNRMdC3lPP"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
+      "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Presentando a \u00d1ico Saquito",
-        "url": "https://open.spotify.com/album/78R0uTkfDNPDKVypJ3zI4S"
+        "name": "Los Originales Vol. 3",
+        "url": "https://open.spotify.com/album/39Xoa9wbneSzbysFRzkVmw"
       },
       "artists": [
         {
-          "name": "\u00d1ico Saquito",
-          "url": "https://open.spotify.com/artist/0OThc8JLqTb1ThkLfsIGUi"
+          "name": "Celia Cruz y La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/3WaTkjZxpbGDryRuQTtj1g"
         }
       ],
-      "duration_ms": 158453,
-      "name": "Maria Cristina",
-      "url": "https://open.spotify.com/track/3hqjYthxFa5f21ISWn9xdN"
+      "duration_ms": 157352,
+      "name": "Caramelos",
+      "url": "https://open.spotify.com/track/2xirjKVetY5wxvw3hAuELH"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Guapapasea!",
+        "url": "https://open.spotify.com/album/1YjFIHAJ5SGF1x724MoFYP"
+      },
+      "artists": [
+        {
+          "name": "Gecko Turner",
+          "url": "https://open.spotify.com/artist/3vGEIjEdCD0TeZDOMkoaFg"
+        }
+      ],
+      "duration_ms": 331293,
+      "name": "Limon En La Cabeza",
+      "url": "https://open.spotify.com/track/3NLbpJkkXWoThhEe4RB9t5"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Guajira Guantanamera (Remastered)",
-        "url": "https://open.spotify.com/album/53nYU70GFZo0FvmWPjOoID"
-      },
-      "artists": [
-        {
-          "name": "Abelardo Barroso",
-          "url": "https://open.spotify.com/artist/54Cvt1RK4llutqZIBDZAVk"
-        }
-      ],
-      "duration_ms": 137530,
-      "name": "Los tamalitos de Olga - Remastered",
-      "url": "https://open.spotify.com/track/5kQcTgQ7TKzOvgslid4Qv2"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Los 22 Grandes \u00c9xitos de P\u00e9rez Prado (Remastered)",
         "url": "https://open.spotify.com/album/4NT0vaw4EP7hApFQCXqmoo"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 147789,
       "name": "Mar\u00eda Cristina - Remastered",
       "url": "https://open.spotify.com/track/5zimrebZIVCXRfcFuVbSqd"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Guajira Guantanamera (Remastered)",
+        "url": "https://open.spotify.com/album/53nYU70GFZo0FvmWPjOoID"
+      },
+      "artists": [
+        {
+          "name": "Abelardo Barroso",
+          "url": "https://open.spotify.com/artist/54Cvt1RK4llutqZIBDZAVk"
+        }
+      ],
+      "duration_ms": 137530,
+      "name": "Los tamalitos de Olga - Remastered",
+      "url": "https://open.spotify.com/track/5kQcTgQ7TKzOvgslid4Qv2"
     },
     {
       "added_at": "2022-01-11 03:10:29",

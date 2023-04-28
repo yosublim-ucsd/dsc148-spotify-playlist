@@ -4,14 +4,14 @@
 
 > Exceptionally vivid icebreaker in your love pursuit.
 
-80 songs - 4 hr 39 min
+81 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aki Wewe](https://open.spotify.com/track/2ee6ViIobYyu2rLwiVmNIA) | [Kwame Rígíi](https://open.spotify.com/artist/2YBmXbjqDbsGjTB9vMbuNf) | [Aki Wewe](https://open.spotify.com/album/3zW32TzDG8V20HM7A8NdOO) | 4:27 | 2022-05-26 | 2022-10-28 |
 | [Amelowa](https://open.spotify.com/track/2EiGkSOY6o01g9gDm1lrzk) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Amelowa](https://open.spotify.com/album/0cb7S8oT18YIVZDoiqlytV) | 2:59 | 2022-09-22 |  |
 | [Ananipenda](https://open.spotify.com/track/4R6vTxggpyMGuSjfwOkPEB) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Ananipenda](https://open.spotify.com/album/4ubtaCtnqlodlNKIXhjijl) | 3:35 | 2023-04-13 |  |
-| [Asali](https://open.spotify.com/track/6zOkUcfqRYE6vc1iIa2KtB) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Asali](https://open.spotify.com/album/1949QLHsnthywLL5n79tAz) | 3:41 | 2022-09-29 |  |
+| [Asali](https://open.spotify.com/track/6zOkUcfqRYE6vc1iIa2KtB) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Asali](https://open.spotify.com/album/1949QLHsnthywLL5n79tAz) | 3:41 | 2022-09-29 | 2023-04-28 |
 | [Beautiful \(Worth Living\) \[feat\. Barnaba\]](https://open.spotify.com/track/28EDIv29TAG4NvhfoIJPCJ) | [Cedo](https://open.spotify.com/artist/4XnL8ClOo3yWrWU4VJWa6q), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Ceduction](https://open.spotify.com/album/72CVdgTmhjPyGh78LRv1Gy) | 3:06 | 2022-09-08 | 2023-01-13 |
 | [Cheche \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/07oL9PG3HyIpMEtKTEI8Fp) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Cheche \(feat\. Diamond Platnumz\)](https://open.spotify.com/album/5esLD4g5piSeeAalViPWkG) | 3:08 | 2022-05-26 | 2022-11-08 |
 | [Chombo](https://open.spotify.com/track/5iyiGl2swMh2Hoo3WtjMof) | [Cheed](https://open.spotify.com/artist/2qB04YVOV3cm2YSEn5L90z) | [Endless Love EP](https://open.spotify.com/album/293vnq26EV2uVbehBuavxk) | 3:24 | 2022-08-11 | 2023-02-04 |
@@ -75,6 +75,7 @@
 | [No Body \(feat\. Bien\)](https://open.spotify.com/track/3h8WG1R3M5bWYiRkCB1xYQ) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [No Body \(feat\. Bien\)](https://open.spotify.com/album/1Ak0wGHeJQaTQJKoVrid6d) | 3:23 | 2023-03-30 |  |
 | [Peddi](https://open.spotify.com/track/3aHrxlOER0GudlLbdejqyq) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Qwarantunes](https://open.spotify.com/album/3cg69VcGmpzSHxSV1OA1E5) | 3:47 | 2022-05-26 |  |
 | [Pillow Talk](https://open.spotify.com/track/0Cd9nATh0j7UMsDpIYmLxD) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW) | [Pillow Talk](https://open.spotify.com/album/6JK8SmKPlxH5OeYR1Kh47j) | 2:47 | 2023-04-06 |  |
+| [Popo](https://open.spotify.com/track/68vAcSVvyxY1j5peKjNYzS) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Miss P](https://open.spotify.com/artist/47oczcod6F5RvQVXD7hDV0) | [Popo](https://open.spotify.com/album/2WeLLoRbfIgWDBvXwnIzFx) | 3:15 | 2023-04-27 |  |
 | [Simuachi](https://open.spotify.com/track/7JYv26TNZe13Uqyv0yXPv2) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Simuachi](https://open.spotify.com/album/7FD2xZiU0uSv12RfbpD0BC) | 3:16 | 2022-06-23 | 2022-11-25 |
 | [Sina Neno](https://open.spotify.com/track/2Yk3KiXjSg8ORhcZDyyAzv) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Sina Neno](https://open.spotify.com/album/0VKiClYPw1xnyj40w0wVnD) | 3:04 | 2022-05-26 |  |
 | [Single](https://open.spotify.com/track/0NEiPNvusJPXBP826yQbR7) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Single](https://open.spotify.com/album/6CKL3hUQV87q3XFkeqabGb) | 2:16 | 2023-01-19 |  |

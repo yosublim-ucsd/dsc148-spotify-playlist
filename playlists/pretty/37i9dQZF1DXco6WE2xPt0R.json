@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 89761,
+  "num_followers": 89820,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0MTI2MCwwMDAwMDAwMDgwNDU3YThiOTcwN2YyMjBlMjhhM2NkNDZkNmI4OTkx",
+  "snapshot_id": "MCxlODgwNzUwNTNkNzkwMDA4NTdlODEzODZhZWQ2YjRhODE1ZDA4M2Q4",
   "tracks": [
     {
       "added_at": "2023-04-14 03:01:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 255800,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
         "name": "Obsession (feat. Muni Long) [Remix]",
         "url": "https://open.spotify.com/album/5hvRuMXz1hAZUAR7dep0h1"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 201869,
       "name": "Obsession (feat. Muni Long) - Remix",
       "url": "https://open.spotify.com/track/5BeLd9BErYOPAsHSFIWK3C"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 255800,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/6tJKIc90Q5FuHbAWsrBPkI"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "duration_ms": 206304,
+      "name": "GLA",
+      "url": "https://open.spotify.com/track/15hiUMS0HDjcyWzVlBEh1y"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
         "name": "Still Wonder",
         "url": "https://open.spotify.com/album/2UUBiQAfkxgPcMGBbfy5zi"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 238153,
       "name": "Still Wonder",
       "url": "https://open.spotify.com/track/48Ni2LTyeTjTzWBD69q9Dm"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
-        "name": "Back Home",
-        "url": "https://open.spotify.com/album/6tJKIc90Q5FuHbAWsrBPkI"
-      },
-      "artists": [
-        {
-          "name": "Trey Songz",
-          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
-        }
-      ],
-      "duration_ms": 206304,
-      "name": "GLA",
-      "url": "https://open.spotify.com/track/15hiUMS0HDjcyWzVlBEh1y"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "Midnight Snacks",
-        "url": "https://open.spotify.com/album/69SluMWHbTMoVRPTa4qVmh"
+        "name": "Little Men (Deluxe)",
+        "url": "https://open.spotify.com/album/4j5hckSfZgpxQZ2cMmqVaB"
       },
       "artists": [
         {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Midnight Snacks",
-      "url": "https://open.spotify.com/track/3dfnjL5M28ZkSZU0SSSSGa"
+      "duration_ms": 240074,
+      "name": "Crash for a Couple",
+      "url": "https://open.spotify.com/track/4QZftmaKVCq83BdkmnEIna"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "Little Men (Deluxe)",
-        "url": "https://open.spotify.com/album/4j5hckSfZgpxQZ2cMmqVaB"
+        "name": "Midnight Snacks",
+        "url": "https://open.spotify.com/album/69SluMWHbTMoVRPTa4qVmh"
       },
       "artists": [
         {
-          "name": "Marc E. Bassy",
-          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
         }
       ],
-      "duration_ms": 240074,
-      "name": "Crash for a Couple",
-      "url": "https://open.spotify.com/track/4QZftmaKVCq83BdkmnEIna"
+      "duration_ms": 195000,
+      "name": "Midnight Snacks",
+      "url": "https://open.spotify.com/track/3dfnjL5M28ZkSZU0SSSSGa"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -1607,6 +1607,26 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
+        "name": "chuu",
+        "url": "https://open.spotify.com/album/2DiDH1MgKKSS6NhEPLrVuU"
+      },
+      "artists": [
+        {
+          "name": "anaiis",
+          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
+        },
+        {
+          "name": "Topaz Jones",
+          "url": "https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l"
+        }
+      ],
+      "duration_ms": 253346,
+      "name": "chuu",
+      "url": "https://open.spotify.com/track/6KBafFD2vzzXjMLSBISNNw"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
         "name": "Make Me (Remix)",
         "url": "https://open.spotify.com/album/5mtHKQCQXayMQo3XzmsPaG"
       },
@@ -1647,26 +1667,6 @@
       "duration_ms": 157640,
       "name": "Wait On Me - Pt. 2 / Remix",
       "url": "https://open.spotify.com/track/7t58YUFLnYocFypBbBlRHC"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
-        "name": "chuu",
-        "url": "https://open.spotify.com/album/2DiDH1MgKKSS6NhEPLrVuU"
-      },
-      "artists": [
-        {
-          "name": "anaiis",
-          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
-        },
-        {
-          "name": "Topaz Jones",
-          "url": "https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l"
-        }
-      ],
-      "duration_ms": 253346,
-      "name": "chuu",
-      "url": "https://open.spotify.com/track/6KBafFD2vzzXjMLSBISNNw"
     },
     {
       "added_at": "2023-04-14 03:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 
 > Anthems from a new generation of party starters\. Cover: piri & tommy
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,081 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,094 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 | 49 | [Feel Like That](https://open.spotify.com/track/2GlzL3MAoqg6sKFEC3tKFQ) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Feel Like That](https://open.spotify.com/album/3VrM26Y9zVHzAVHov5uzWE) | 2:39 |
 | 50 | [Vibes](https://open.spotify.com/track/2S1qVuKPYZM2uhKn0lpncg) | [Mango X MathMan](https://open.spotify.com/artist/4DNzWICHEOAYjJjJhn1dJh), [MC Creed](https://open.spotify.com/artist/6abMSOfq8xfhJXV9WRblCd) | [Vibes](https://open.spotify.com/album/64U3N5GzsXigu5GL8QTLBL) | 3:20 |
 
-Snapshot ID: `MTY2OTk5MTUzNywwMDAwMDAwMGU5OGVjMjUyNWI2NDVmZTRkNTMyODNiNmE5ODFmZTk0`
+Snapshot ID: `MCw3OTE0OWI3ZDhjZTQ3ZDI5NjBlOTRkYjllYTRlNTEzNTQ3NWQxNTg3`

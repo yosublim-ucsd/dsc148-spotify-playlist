@@ -1,12 +1,12 @@
 {
   "description": "Nothing but classic blues tracks",
-  "num_followers": 1074156,
+  "num_followers": 1074787,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ5MDk3MiwwMDAwMDAwMGY1ZmIzNzUzNmRmNDZhZDZiOGRmYjE2ZWUyMmJiMzRm",
+  "snapshot_id": "MCw3MjNhYjA0YjQyMzFmYzI3YjNmM2M3ODAwMDNlMTk0ODUyOTY4Yjhi",
   "tracks": [
     {
       "added_at": "2020-01-15 21:29:46",
@@ -221,6 +221,22 @@
       "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
     },
     {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Give It Up (2008 Remaster)",
+        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 192200,
+      "name": "Love Me Like a Man - 2008 Remaster",
+      "url": "https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk"
+    },
+    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "Bluesbreakers",
@@ -243,22 +259,6 @@
       "duration_ms": 212600,
       "name": "All Your Love - Stereo",
       "url": "https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0"
-    },
-    {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "Give It Up (2008 Remaster)",
-        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 192200,
-      "name": "Love Me Like a Man - 2008 Remaster",
-      "url": "https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -629,22 +629,6 @@
       "url": "https://open.spotify.com/track/1cXc92MX9kFjMrrDsvdf9w"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "Bad News Is Coming",
-        "url": "https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT"
-      },
-      "artists": [
-        {
-          "name": "Luther Allison",
-          "url": "https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv"
-        }
-      ],
-      "duration_ms": 445533,
-      "name": "Bad News Is Coming",
-      "url": "https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT"
-    },
-    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "T-Bone Blues",
@@ -659,6 +643,22 @@
       "duration_ms": 247373,
       "name": "Mean Old World",
       "url": "https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Bad News Is Coming",
+        "url": "https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT"
+      },
+      "artists": [
+        {
+          "name": "Luther Allison",
+          "url": "https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv"
+        }
+      ],
+      "duration_ms": 445533,
+      "name": "Bad News Is Coming",
+      "url": "https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -937,22 +937,6 @@
       "url": "https://open.spotify.com/track/0PUWmPna5P0hKtSwXWin9o"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "Two Bugs and a Roach",
-        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 259760,
-      "name": "Two Bugs and a Roach",
-      "url": "https://open.spotify.com/track/79lwbvYgFFw3eNbBx4bBRw"
-    },
-    {
       "added_at": "2021-06-18 04:29:20",
       "album": {
         "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
@@ -983,6 +967,22 @@
       "duration_ms": 367533,
       "name": "Sadie",
       "url": "https://open.spotify.com/track/2XBeWZJeIojOrFOfVvn2dF"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Two Bugs and a Roach",
+        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 259760,
+      "name": "Two Bugs and a Roach",
+      "url": "https://open.spotify.com/track/79lwbvYgFFw3eNbBx4bBRw"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -1049,22 +1049,6 @@
       "url": "https://open.spotify.com/track/0tYJ6uY0ETQOtOM8KySMSp"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "Two Bugs and a Roach",
-        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 316666,
-      "name": "You Don't Want Me",
-      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
-    },
-    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "The Complete Chess Masters",
@@ -1079,6 +1063,38 @@
       "duration_ms": 189133,
       "name": "Reconsider Baby",
       "url": "https://open.spotify.com/track/6KSa2Y1HnG0XlPQfEN4Xgi"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "The Son Seals Blues Band",
+        "url": "https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke"
+      },
+      "artists": [
+        {
+          "name": "Son Seals",
+          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
+        }
+      ],
+      "duration_ms": 362400,
+      "name": "Now That I'm Down",
+      "url": "https://open.spotify.com/track/5KZrHPwscBkXturVJCJlM4"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Fast Fingers",
+        "url": "https://open.spotify.com/album/6lcVXsUyWa9WvgBMTuLz5l"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Dawkins",
+          "url": "https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc"
+        }
+      ],
+      "duration_ms": 239266,
+      "name": "Little Angel Child",
+      "url": "https://open.spotify.com/track/512gC8sU5PxZAFrskHEfzk"
     },
     {
       "added_at": "2021-06-18 04:29:20",
@@ -1099,50 +1115,34 @@
     {
       "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "Fast Fingers",
-        "url": "https://open.spotify.com/album/6lcVXsUyWa9WvgBMTuLz5l"
+        "name": "Two Bugs and a Roach",
+        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
       },
       "artists": [
         {
-          "name": "Jimmy Dawkins",
-          "url": "https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc"
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
         }
       ],
-      "duration_ms": 239266,
-      "name": "Little Angel Child",
-      "url": "https://open.spotify.com/track/512gC8sU5PxZAFrskHEfzk"
+      "duration_ms": 316666,
+      "name": "You Don't Want Me",
+      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
     },
     {
       "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "The Son Seals Blues Band",
-        "url": "https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke"
+        "name": "The Best Of Duke-Peacock Blues",
+        "url": "https://open.spotify.com/album/5h1La90cicQpR7bSjnbq3Q"
       },
       "artists": [
         {
-          "name": "Son Seals",
-          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
+          "name": "Larry Davis",
+          "url": "https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A"
         }
       ],
-      "duration_ms": 362400,
-      "name": "Now That I'm Down",
-      "url": "https://open.spotify.com/track/5KZrHPwscBkXturVJCJlM4"
-    },
-    {
-      "added_at": "2021-06-18 04:29:20",
-      "album": {
-        "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
-        "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
-      },
-      "artists": [
-        {
-          "name": "Hound Dog Taylor",
-          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
-        }
-      ],
-      "duration_ms": 214520,
-      "name": "Give Me Back My Wig - Remastered",
-      "url": "https://open.spotify.com/track/3kkCpDqhrOEBf0eOR2igEE"
+      "duration_ms": 163373,
+      "name": "Texas Flood",
+      "url": "https://open.spotify.com/track/7BbQQzr1suaBHpJDXDXIj9"
     }
   ],
   "unique_name": "Blues Classics",

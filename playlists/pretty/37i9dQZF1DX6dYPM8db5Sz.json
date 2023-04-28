@@ -1,13 +1,29 @@
 {
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj?si=jCYYZ3r6RRuQOwyG5Q8ZBw\">Year of Dogs</a>",
-  "num_followers": 5816,
+  "description": "The best new indie music from South Africa and beyond. Cover: <https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH?si=KDRnLQ71TTKPrX5qGUd50Q\">Nakhane</a>",
+  "num_followers": 5822,
   "original_name": "SAlt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA3MDU2NywwMDAwMDAwMDc1MDdhNWI2NDczMDQ1MzcyZGJlMjU1YTVmM2EzMGZh",
+  "snapshot_id": "MCwwOTQwYzcwOWI3ZTVkYThkN2ZjZjMxNmJjNmZmYzNlMWQwM2RmNzM4",
   "tracks": [
+    {
+      "added_at": "2023-03-30 21:59:00",
+      "album": {
+        "name": "Bastard Jargon",
+        "url": "https://open.spotify.com/album/3nE6brVq6wCo0RnBvfN5W6"
+      },
+      "artists": [
+        {
+          "name": "Nakhane",
+          "url": "https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH"
+        }
+      ],
+      "duration_ms": 186640,
+      "name": "The Caring",
+      "url": "https://open.spotify.com/track/2L8AxY1xtptdIkjbjaxHtH"
+    },
     {
       "added_at": "2023-04-21 04:18:52",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 189426,
       "name": "Little Lifetime",
       "url": "https://open.spotify.com/track/1P1D1Oqq0cLfEniVHzBIsk"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Open My Door",
+        "url": "https://open.spotify.com/album/0CLN8x2MGw8htb94l0tBGv"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 153110,
+      "name": "Open My Door",
+      "url": "https://open.spotify.com/track/6lVMcnULyl94wDrZ2HAuCT"
     },
     {
       "added_at": "2023-04-21 09:49:17",
@@ -41,6 +73,22 @@
       "url": "https://open.spotify.com/track/6DcALE029s14ahdYNY1u15"
     },
     {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Legacy Of Love",
+        "url": "https://open.spotify.com/album/2lOAlyLmeM55Bp0Q59aerP"
+      },
+      "artists": [
+        {
+          "name": "JPson",
+          "url": "https://open.spotify.com/artist/4s9YSRHrBFUpUZPWk2mwIG"
+        }
+      ],
+      "duration_ms": 221368,
+      "name": "Legacy Of Love",
+      "url": "https://open.spotify.com/track/4Xfvcx1T2VpZsw56emLdAk"
+    },
+    {
       "added_at": "2023-04-21 04:18:52",
       "album": {
         "name": "City Lights",
@@ -55,6 +103,22 @@
       "duration_ms": 214928,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/2W7biOBllmeGg1tF56n5Gt"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Diamonds On The Sea",
+        "url": "https://open.spotify.com/album/37xjNVuUVqS7T2aXTEc4NE"
+      },
+      "artists": [
+        {
+          "name": "Justin Lee",
+          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
+        }
+      ],
+      "duration_ms": 186250,
+      "name": "Diamonds On The Sea",
+      "url": "https://open.spotify.com/track/6Ubq2WEsUWAGx9CPGnI24d"
     },
     {
       "added_at": "2023-04-14 03:46:05",
@@ -73,6 +137,26 @@
       "url": "https://open.spotify.com/track/1YpFyv72TTr3ysGlJb1tXU"
     },
     {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6UDVIOMw5Bd6z7dpmpn5ZW"
+      },
+      "artists": [
+        {
+          "name": "Senna-Marie",
+          "url": "https://open.spotify.com/artist/3PlSwDe9Gb6aJDuFhEZSKW"
+        },
+        {
+          "name": "Ryan Schultze",
+          "url": "https://open.spotify.com/artist/5H7kc18IXWo03weqplDFPX"
+        }
+      ],
+      "duration_ms": 311060,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/5MztgDmgTL0mDCXOZR5aJ0"
+    },
+    {
       "added_at": "2023-04-21 04:18:52",
       "album": {
         "name": "Dance Fever (Complete Edition)",
@@ -87,6 +171,22 @@
       "duration_ms": 275319,
       "name": "Mermaids",
       "url": "https://open.spotify.com/track/1rZsn9K890Goymfl7YIdgY"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Roll With It",
+        "url": "https://open.spotify.com/album/12P0mDZjb0vbWzoTinRCxI"
+      },
+      "artists": [
+        {
+          "name": "Amor Amor",
+          "url": "https://open.spotify.com/artist/7FB4gfPdf6h403oi9QiPVm"
+        }
+      ],
+      "duration_ms": 219084,
+      "name": "Roll With It",
+      "url": "https://open.spotify.com/track/3pHcJJSYKPGSSrzGIU3SP4"
     },
     {
       "added_at": "2023-04-21 04:18:52",
@@ -105,6 +205,22 @@
       "url": "https://open.spotify.com/track/5T8w9j0O1F2uwxUde65PC3"
     },
     {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Play It Cool",
+        "url": "https://open.spotify.com/album/3j1vdXv8b0C1JNbpdHGUSa"
+      },
+      "artists": [
+        {
+          "name": "Miss Sxvage",
+          "url": "https://open.spotify.com/artist/1UvegJsquodsZbxdHPjRzo"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Play It Cool",
+      "url": "https://open.spotify.com/track/1pkX9NtzyU9fkmEPdYxDt3"
+    },
+    {
       "added_at": "2023-04-21 04:18:52",
       "album": {
         "name": "Smells Like Teen Spirit",
@@ -119,6 +235,22 @@
       "duration_ms": 108631,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/3356dkgock4bD4j7a0fec6"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Dream State",
+        "url": "https://open.spotify.com/album/2akH8BvfJ3sqfsLM7Lmab7"
+      },
+      "artists": [
+        {
+          "name": "Wren Hinds",
+          "url": "https://open.spotify.com/artist/58U71aw2hYsogUxtiM4NWX"
+        }
+      ],
+      "duration_ms": 276052,
+      "name": "Dream State",
+      "url": "https://open.spotify.com/track/76ZaAhiof5vIHJWbI5Lmvj"
     },
     {
       "added_at": "2023-04-21 04:18:52",
@@ -137,6 +269,22 @@
       "url": "https://open.spotify.com/track/7s59X5LAdm9G2HUV7k62DS"
     },
     {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Midnight Scenes",
+        "url": "https://open.spotify.com/album/5G1qCDPJ4GyCHdsRuTuMrB"
+      },
+      "artists": [
+        {
+          "name": "Pixie Whip",
+          "url": "https://open.spotify.com/artist/29dQnPAvvIDHL1Gi3CFQVU"
+        }
+      ],
+      "duration_ms": 238317,
+      "name": "Midnight Scenes",
+      "url": "https://open.spotify.com/track/2nSVgBiacRtyOwC3dt1MU4"
+    },
+    {
       "added_at": "2023-04-21 04:18:52",
       "album": {
         "name": "Wishes",
@@ -151,6 +299,22 @@
       "duration_ms": 185504,
       "name": "Wishes",
       "url": "https://open.spotify.com/track/203two1At4kMewDcqlWMEv"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "must be dumb",
+        "url": "https://open.spotify.com/album/5nJ1fHIeF65fmZ2Add0nLL"
+      },
+      "artists": [
+        {
+          "name": "Conn",
+          "url": "https://open.spotify.com/artist/46JYMwEYsvRprcluO5f2n7"
+        }
+      ],
+      "duration_ms": 108027,
+      "name": "must be dumb",
+      "url": "https://open.spotify.com/track/7KfPJGrYjRZIRt2P3aMxK9"
     },
     {
       "added_at": "2023-04-21 04:18:52",
@@ -287,22 +451,6 @@
       "duration_ms": 185546,
       "name": "streetlights",
       "url": "https://open.spotify.com/track/17QqOrzmlENNS0PFCyASiE"
-    },
-    {
-      "added_at": "2023-03-30 21:59:00",
-      "album": {
-        "name": "Bastard Jargon",
-        "url": "https://open.spotify.com/album/3nE6brVq6wCo0RnBvfN5W6"
-      },
-      "artists": [
-        {
-          "name": "Nakhane",
-          "url": "https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH"
-        }
-      ],
-      "duration_ms": 186640,
-      "name": "The Caring",
-      "url": "https://open.spotify.com/track/2L8AxY1xtptdIkjbjaxHtH"
     },
     {
       "added_at": "2023-04-14 03:46:05",

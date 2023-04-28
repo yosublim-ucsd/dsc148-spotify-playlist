@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Rodrigo",
-  "num_followers": 595023,
+  "num_followers": 595245,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjM0MzgyMywwMDAwMDAwMDg1ZTY3ZDhmN2NjODgzYTQ3ZDJjNzllM2RiMTVjNTFi",
+  "snapshot_id": "MCwyYWViZmQ2NDE5NjE0NDRlY2Y2MDg0YjljM2JmNzI2MjMyOGJhMjVj",
   "tracks": [
     {
       "added_at": "2023-04-24 13:43:43",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-04-24 13:43:43",
       "album": {
+        "name": "Monotonia",
+        "url": "https://open.spotify.com/album/5jiTvWYPYaqRd2UnrkhSNR"
+      },
+      "artists": [
+        {
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+        }
+      ],
+      "duration_ms": 142361,
+      "name": "Monotonia",
+      "url": "https://open.spotify.com/track/7ld9nV736wh6d0e2ktxGwL"
+    },
+    {
+      "added_at": "2023-04-24 13:43:43",
+      "album": {
         "name": "Ferxxo 100",
         "url": "https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 200362,
       "name": "La Bella y la Bestia",
       "url": "https://open.spotify.com/track/71BayRBmRYO3UPK2PxoMvy"
-    },
-    {
-      "added_at": "2023-04-24 13:43:43",
-      "album": {
-        "name": "Monotonia",
-        "url": "https://open.spotify.com/album/5jiTvWYPYaqRd2UnrkhSNR"
-      },
-      "artists": [
-        {
-          "name": "Banda Mix",
-          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
-        }
-      ],
-      "duration_ms": 142361,
-      "name": "Monotonia",
-      "url": "https://open.spotify.com/track/7ld9nV736wh6d0e2ktxGwL"
     },
     {
       "added_at": "2023-04-24 13:43:43",
@@ -1207,6 +1207,70 @@
       "duration_ms": 254053,
       "name": "Usted Se Me Llevo la Vida",
       "url": "https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz"
+    },
+    {
+      "added_at": "2023-04-24 13:43:43",
+      "album": {
+        "name": "Eran dos locos de amor",
+        "url": "https://open.spotify.com/album/5zrpSkFRI1dBpTnoY5JmV4"
+      },
+      "artists": [
+        {
+          "name": "Los Reyes del Cuarteto",
+          "url": "https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm"
+        }
+      ],
+      "duration_ms": 169496,
+      "name": "Eran dos locos de amor",
+      "url": "https://open.spotify.com/track/5ggd3IXmVD3GM7uHu81K4a"
+    },
+    {
+      "added_at": "2023-04-24 13:43:43",
+      "album": {
+        "name": "Tacones Rojos",
+        "url": "https://open.spotify.com/album/2vipfyylc4YxP4J2tgf23r"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "duration_ms": 184661,
+      "name": "Tacones Rojos",
+      "url": "https://open.spotify.com/track/5rZQYQVNMw1yz3zs3VTTBD"
+    },
+    {
+      "added_at": "2023-04-24 13:43:43",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7bPY6lL00xmDVS4VURDFCl"
+      },
+      "artists": [
+        {
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+        }
+      ],
+      "duration_ms": 178816,
+      "name": "Castillo de Arena / Me Quieres Olvidar - En Vivo",
+      "url": "https://open.spotify.com/track/1J3RQBT8ST47hEVjQQCNq4"
+    },
+    {
+      "added_at": "2023-04-24 13:43:43",
+      "album": {
+        "name": "Esta de Moda",
+        "url": "https://open.spotify.com/album/3Ayz2Jfqes6ru6NBNh3Ng3"
+      },
+      "artists": [
+        {
+          "name": "Pitty Murua",
+          "url": "https://open.spotify.com/artist/625kGlmcaDymYRSEawXlI9"
+        }
+      ],
+      "duration_ms": 204382,
+      "name": "Lo Aprend\u00ed de Ti",
+      "url": "https://open.spotify.com/track/2ZWhVHSByxcaM3n74G06L7"
     },
     {
       "added_at": "2023-04-24 13:43:43",
@@ -1283,66 +1347,22 @@
     {
       "added_at": "2023-04-24 13:43:43",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7bPY6lL00xmDVS4VURDFCl"
+        "name": "Muero (feat. Eugenia Quevedo)",
+        "url": "https://open.spotify.com/album/1sw7RzeT2J98lbW73sjxcS"
       },
       "artists": [
         {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
-        }
-      ],
-      "duration_ms": 178816,
-      "name": "Castillo de Arena / Me Quieres Olvidar - En Vivo",
-      "url": "https://open.spotify.com/track/1J3RQBT8ST47hEVjQQCNq4"
-    },
-    {
-      "added_at": "2023-04-24 13:43:43",
-      "album": {
-        "name": "Esta de Moda",
-        "url": "https://open.spotify.com/album/3Ayz2Jfqes6ru6NBNh3Ng3"
-      },
-      "artists": [
+          "name": "Sabroso",
+          "url": "https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO"
+        },
         {
-          "name": "Pitty Murua",
-          "url": "https://open.spotify.com/artist/625kGlmcaDymYRSEawXlI9"
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
         }
       ],
-      "duration_ms": 204382,
-      "name": "Lo Aprend\u00ed de Ti",
-      "url": "https://open.spotify.com/track/2ZWhVHSByxcaM3n74G06L7"
-    },
-    {
-      "added_at": "2023-04-24 13:43:43",
-      "album": {
-        "name": "Eran dos locos de amor",
-        "url": "https://open.spotify.com/album/5zrpSkFRI1dBpTnoY5JmV4"
-      },
-      "artists": [
-        {
-          "name": "Los Reyes del Cuarteto",
-          "url": "https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm"
-        }
-      ],
-      "duration_ms": 169496,
-      "name": "Eran dos locos de amor",
-      "url": "https://open.spotify.com/track/5ggd3IXmVD3GM7uHu81K4a"
-    },
-    {
-      "added_at": "2023-04-24 13:43:43",
-      "album": {
-        "name": "Tacones Rojos",
-        "url": "https://open.spotify.com/album/2vipfyylc4YxP4J2tgf23r"
-      },
-      "artists": [
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        }
-      ],
-      "duration_ms": 184661,
-      "name": "Tacones Rojos",
-      "url": "https://open.spotify.com/track/5rZQYQVNMw1yz3zs3VTTBD"
+      "duration_ms": 264563,
+      "name": "Muero (feat. Eugenia Quevedo)",
+      "url": "https://open.spotify.com/track/29MFesnqGPh4zA66sViKt9"
     },
     {
       "added_at": "2023-04-24 13:43:43",
@@ -1363,26 +1383,6 @@
       "duration_ms": 174292,
       "name": "El Pa\u00f1uelo",
       "url": "https://open.spotify.com/track/7Mg5Hrttpnys754rC7vmwA"
-    },
-    {
-      "added_at": "2023-04-24 13:43:43",
-      "album": {
-        "name": "Muero (feat. Eugenia Quevedo)",
-        "url": "https://open.spotify.com/album/1sw7RzeT2J98lbW73sjxcS"
-      },
-      "artists": [
-        {
-          "name": "Sabroso",
-          "url": "https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO"
-        },
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        }
-      ],
-      "duration_ms": 264563,
-      "name": "Muero (feat. Eugenia Quevedo)",
-      "url": "https://open.spotify.com/track/29MFesnqGPh4zA66sViKt9"
     },
     {
       "added_at": "2023-04-24 13:43:43",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-04-24 13:43:43",
       "album": {
-        "name": "A Pura Sangre",
-        "url": "https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi"
-      },
-      "artists": [
-        {
-          "name": "Walter Olmos",
-          "url": "https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N"
-        }
-      ],
-      "duration_ms": 246360,
-      "name": "Adicto A Ti",
-      "url": "https://open.spotify.com/track/0Ldh6OMRNPUAkDazVwnKWP"
-    },
-    {
-      "added_at": "2023-04-24 13:43:43",
-      "album": {
         "name": "Miel",
         "url": "https://open.spotify.com/album/2mpT7VctDY0tWKhI6qOr3f"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 168757,
       "name": "Miel",
       "url": "https://open.spotify.com/track/77Q6quYnxwWZg8ESqC1mUf"
+    },
+    {
+      "added_at": "2023-04-24 13:43:43",
+      "album": {
+        "name": "Adelantos (Live)",
+        "url": "https://open.spotify.com/album/0DzC0PpclYWg9AXWE2hUOO"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Marquez",
+          "url": "https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN"
+        }
+      ],
+      "duration_ms": 239726,
+      "name": "Devu\u00e9lveme el coraz\u00f3n - Live",
+      "url": "https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb"
     },
     {
       "added_at": "2023-04-24 13:43:43",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2023-04-24 13:43:43",
       "album": {
-        "name": "Adelantos (Live)",
-        "url": "https://open.spotify.com/album/0DzC0PpclYWg9AXWE2hUOO"
+        "name": "A Pura Sangre",
+        "url": "https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi"
       },
       "artists": [
         {
-          "name": "Lisandro Marquez",
-          "url": "https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN"
+          "name": "Walter Olmos",
+          "url": "https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N"
         }
       ],
-      "duration_ms": 239726,
-      "name": "Devu\u00e9lveme el coraz\u00f3n - Live",
-      "url": "https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb"
+      "duration_ms": 246360,
+      "name": "Adicto A Ti",
+      "url": "https://open.spotify.com/track/0Ldh6OMRNPUAkDazVwnKWP"
     },
     {
       "added_at": "2023-04-24 13:43:43",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2023-04-24 13:43:43",
       "album": {
+        "name": "A Cu\u00e1nto Me Qued\u00e9",
+        "url": "https://open.spotify.com/album/0GwTvMjZgh63HJ1ReRw87g"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "duration_ms": 196970,
+      "name": "A Cu\u00e1nto Me Qued\u00e9",
+      "url": "https://open.spotify.com/track/0UQZuEiQtoaNZqIoGhBWeR"
+    },
+    {
+      "added_at": "2023-04-24 13:43:43",
+      "album": {
         "name": "Si Pudiera Tenerte - Camina y Ven",
         "url": "https://open.spotify.com/album/3dq2T8zw23NO8ZFJ0DkdH9"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 187220,
       "name": "Ma\u00f1ana sin vos",
       "url": "https://open.spotify.com/track/0yDCUzTHRAmNSnMeCLPSgi"
-    },
-    {
-      "added_at": "2023-04-24 13:43:43",
-      "album": {
-        "name": "A Cu\u00e1nto Me Qued\u00e9",
-        "url": "https://open.spotify.com/album/0GwTvMjZgh63HJ1ReRw87g"
-      },
-      "artists": [
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        }
-      ],
-      "duration_ms": 196970,
-      "name": "A Cu\u00e1nto Me Qued\u00e9",
-      "url": "https://open.spotify.com/track/0UQZuEiQtoaNZqIoGhBWeR"
     },
     {
       "added_at": "2023-04-24 13:43:43",
@@ -1779,18 +1779,26 @@
     {
       "added_at": "2023-04-24 13:43:43",
       "album": {
-        "name": "Luna En Capricornio",
-        "url": "https://open.spotify.com/album/34uPUL6FICdnyNOULxTuEe"
+        "name": "Todo de T\u00ed",
+        "url": "https://open.spotify.com/album/1vKjLZv22Uvl7CHtgLfGK4"
       },
       "artists": [
         {
-          "name": "Monada",
-          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "El Joaco",
+          "url": "https://open.spotify.com/artist/126j2pVbpt1Ai1frvJzUeA"
         }
       ],
-      "duration_ms": 179957,
-      "name": "Luna En Capricornio",
-      "url": "https://open.spotify.com/track/08gFXg5f9sbvI76AiXHquF"
+      "duration_ms": 179855,
+      "name": "Todo de T\u00ed",
+      "url": "https://open.spotify.com/track/1DeyreZEMTeGKKPgSvzppL"
     }
   ],
   "unique_name": "100% Cuarteto",

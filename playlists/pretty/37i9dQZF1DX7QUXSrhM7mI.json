@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to snuggling on the sofa.",
-  "num_followers": 37745,
+  "num_followers": 37866,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDJiYWQ0OGM1YjViYzRmMjQyZDBkODFhMGVmZGM2OGFm",
+  "snapshot_id": "MCw1Nzk2NWNlOGI1ODM4N2ZmNDZhMjZjMDMzNDhhZWEyNzBhMmE1M2Fk",
   "tracks": [
     {
       "added_at": "2023-04-21 04:00:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 240200,
-      "name": "River",
-      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "July (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 152280,
       "name": "July (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 240200,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Naked All the Time",
-        "url": "https://open.spotify.com/album/4QcHsIfSbjgNzZmxqfRP7N"
-      },
-      "artists": [
-        {
-          "name": "Sports",
-          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
-        }
-      ],
-      "duration_ms": 172506,
-      "name": "You Are the Right One",
-      "url": "https://open.spotify.com/track/2qpacEyFxmbxCpIEqZkqvC"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "The Pains Of Growing",
         "url": "https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 227693,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Naked All the Time",
+        "url": "https://open.spotify.com/album/4QcHsIfSbjgNzZmxqfRP7N"
+      },
+      "artists": [
+        {
+          "name": "Sports",
+          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
+        }
+      ],
+      "duration_ms": 172506,
+      "name": "You Are the Right One",
+      "url": "https://open.spotify.com/track/2qpacEyFxmbxCpIEqZkqvC"
     },
     {
       "added_at": "2023-04-21 04:00:00",

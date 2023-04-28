@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this Peaceful Indie Ambient mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,928 likes - 110 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,983 likes - 110 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 56 | [Friends Make Garbage \(Good Friends Take It Out\)](https://open.spotify.com/track/0h3CnJ0DLrVcxggoDBDcNR) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [Low Roar](https://open.spotify.com/album/3lETJkavciTauiSyOV1gZC) | 5:34 |
 | 57 | [Neptune](https://open.spotify.com/track/2JU3S0fBRx71WdoPNxjJTf) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [James McAlister](https://open.spotify.com/artist/2TvVB6B050Aj5y2Hk4H84z), [Nico Muhly](https://open.spotify.com/artist/2vObsQCPsbVfkqHlQOu2zc), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Planetarium](https://open.spotify.com/album/1wQiDPyqj92SnCIejeVn9P) | 3:04 |
 | 58 | [Kith](https://open.spotify.com/track/7aHdqt74mSDldMC6pbQcNv) | [Hilary Woods](https://open.spotify.com/artist/4S05GVttpg3rjOte0SX749) | [Colt](https://open.spotify.com/album/29JeAsTyeysxFx6v21v8N8) | 5:36 |
-| 59 | [The Upswing](https://open.spotify.com/track/2W0bzuej3umee9qrmJ9oYL) | [Bell X1](https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I) | [Arms](https://open.spotify.com/album/3yXgDtquomtcp1AnU41fLs) | 4:59 |
-| 60 | [Heading Home](https://open.spotify.com/track/2J7w7iXgOW2o5QTxNWveoY) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Will](https://open.spotify.com/album/4KwHbfz70XklNDO1ZNC8EE) | 3:57 |
+| 59 | [Heading Home](https://open.spotify.com/track/2J7w7iXgOW2o5QTxNWveoY) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Will](https://open.spotify.com/album/4KwHbfz70XklNDO1ZNC8EE) | 3:57 |
+| 60 | [The Upswing](https://open.spotify.com/track/2W0bzuej3umee9qrmJ9oYL) | [Bell X1](https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I) | [Arms](https://open.spotify.com/album/3yXgDtquomtcp1AnU41fLs) | 4:59 |
 | 61 | [I Fell in Love](https://open.spotify.com/track/39hJ5R7L6AvL4DyApOPRmH) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Xenia Rubinos](https://open.spotify.com/artist/17UUkxLWmRP5P47W5kwVVb) | [I Fell In Love](https://open.spotify.com/album/4rT4HtEqudtBqg1tqa25Vw) | 4:20 |
 | 62 | [Obrecht](https://open.spotify.com/track/4J7vzAszpwf1jWNiUhzv4S) | [Analogue Dear](https://open.spotify.com/artist/0BXba0ldes9O3QN8JPi1sX) | [Stories We Tell Ourselves EP](https://open.spotify.com/album/19TcHZVTXfny21vIBmAx5w) | 3:36 |
 | 63 | [When We Fall](https://open.spotify.com/track/7gePpUawLnGf1l1fnltiIR) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 2:07 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 71 | [Names and Races](https://open.spotify.com/track/4RrePp7ou4Uw9fCxnj4mD5) | [Foreign Fields](https://open.spotify.com/artist/74l5kLfO33c4T39eAROuEL) | [Anywhere But Where I Am](https://open.spotify.com/album/6jaGzAFeqYrMWt08lz4dtH) | 6:48 |
 | 72 | [Boy 1904](https://open.spotify.com/track/3oww3hQ0kv9b2QjEkvyer0) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps](https://open.spotify.com/album/7MPzpbeTmxvlYVNZyn3LSf) | 5:03 |
 | 73 | [idk](https://open.spotify.com/track/32ghUIiUVKsuiyhGVfr7cf) | [la.nskey](https://open.spotify.com/artist/43QXDtaNDeOWxICsbMhIXH) | [ABSURDITIES](https://open.spotify.com/album/1Wp8unEyTBrN49ZXUaky2A) | 5:13 |
-| 74 | [Aeroplane Bathroom](https://open.spotify.com/track/7h4zBf5NntSiGrYy2hmDJE) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Our Two Skins](https://open.spotify.com/album/2E9Blcx45loakuMKKsn5lw) | 5:44 |
-| 75 | [Better Man](https://open.spotify.com/track/1SUETdQFhL1AztBJhnnJWY) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Better Man](https://open.spotify.com/album/16Qyxh5RzD90SCLNazBqQr) | 4:55 |
+| 74 | [Better Man](https://open.spotify.com/track/1SUETdQFhL1AztBJhnnJWY) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Better Man](https://open.spotify.com/album/16Qyxh5RzD90SCLNazBqQr) | 4:55 |
+| 75 | [Aeroplane Bathroom](https://open.spotify.com/track/7h4zBf5NntSiGrYy2hmDJE) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Our Two Skins](https://open.spotify.com/album/2E9Blcx45loakuMKKsn5lw) | 5:44 |
 | 76 | [Noise](https://open.spotify.com/track/22W6gfcddD3TeZbykBt4eR) | [Zsela](https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6) | [Noise](https://open.spotify.com/album/4d5ozUYjkVhiVCYxGTk5rO) | 4:00 |
 | 77 | [Fleur](https://open.spotify.com/track/28a0RlnfHnnJ5tBA7OIPos) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC), [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Fleur](https://open.spotify.com/album/0HAiMf04OeW4qcgoN4wU82) | 4:19 |
 | 78 | [Fire\-scene](https://open.spotify.com/track/3gMm2hNU0B9vMiJJGSMWfk) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Range of Light](https://open.spotify.com/album/1vZXJuVIRT18sZjea6ME2H) | 4:35 |
@@ -112,11 +112,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 102 | [new forever](https://open.spotify.com/track/7Bep0HEgNNeoygVMpXq5Gl) | [trayer tryon](https://open.spotify.com/artist/2gD51qPCP8XNnk0D2ugS4R) | [new forever](https://open.spotify.com/album/1QGB1cjB3c26YNJZmJfiqt) | 2:55 |
 | 103 | [One Half](https://open.spotify.com/track/08x8v6ae79NWlwZ6canmWD) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Nepenthe](https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku) | 3:41 |
 | 104 | [Comply](https://open.spotify.com/track/5wJVRxZ0PozaBePGEEYylP) | [Llynks](https://open.spotify.com/artist/6hZmTXUiBvYnUAEKtWUom8) | [Comply](https://open.spotify.com/album/0VcMzAIpzRzAbWeEMwQB8I) | 3:26 |
-| 105 | [I Wish I Knew](https://open.spotify.com/track/4s0mvp3ewGOiPt4Ie8wGBt) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [I Wish I Knew](https://open.spotify.com/album/55MEStsCnRChtFW0bCnz1N) | 3:49 |
-| 106 | [Half\-Light \(feat\. Kelly Zutrau\) \- Instupendo Remix](https://open.spotify.com/track/47Muud0OYLe0a5B2LiE6nR) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT), [Kelly Zutrau](https://open.spotify.com/artist/2gaJCrcUIWj6bQyiszAAdY), [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Half\-Light Remixes: EP1](https://open.spotify.com/album/66VEN2zYHfOvggPZPZlyUB) | 3:34 |
+| 105 | [Half\-Light \(feat\. Kelly Zutrau\) \- Instupendo Remix](https://open.spotify.com/track/47Muud0OYLe0a5B2LiE6nR) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT), [Kelly Zutrau](https://open.spotify.com/artist/2gaJCrcUIWj6bQyiszAAdY), [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Half\-Light Remixes: EP1](https://open.spotify.com/album/66VEN2zYHfOvggPZPZlyUB) | 3:34 |
+| 106 | [I Wish I Knew](https://open.spotify.com/track/4s0mvp3ewGOiPt4Ie8wGBt) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [I Wish I Knew](https://open.spotify.com/album/55MEStsCnRChtFW0bCnz1N) | 3:49 |
 | 107 | [Cold Wave](https://open.spotify.com/track/4HVdVA4dUhUgPBa9hj8JZY) | [Dear Criminals](https://open.spotify.com/artist/0RRHsaFaNgJg9vHSWsQ4kg) | [Another Picture](https://open.spotify.com/album/5tsP7DKJAWQCjKbrp00Wzx) | 4:28 |
 | 108 | [The Time To Sleep](https://open.spotify.com/track/1DkCFx03ZLCpGmGzHxZeIT) | [Marble Sounds](https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp) | [Nice Is Good](https://open.spotify.com/album/4Wsgd7FXs6a55vbrrwqxz3) | 4:10 |
 | 109 | [Juniper](https://open.spotify.com/track/2hydT7CjDeOfmzEQMwVKxo) | [Nearly Oratorio](https://open.spotify.com/artist/30daoc0SCzQpNd6ZWjaoZi) | [A Comforting Fact](https://open.spotify.com/album/4wP6C0ZAL1TiMFPrUVxEI3) | 4:19 |
 | 110 | [St\. Marie](https://open.spotify.com/track/4YUIJXxriyGEzbEeRnPjJn) | [High Highs](https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4) | [St\. Marie](https://open.spotify.com/album/58Fruc4TccCK1aM2ZuKmWl) | 2:29 |
 
-Snapshot ID: `MTY3MTAzNjc0MCwwMDAwMDAwMGQ0ZDM1NGVkMzNmODJiN2U0ZDI3MDdjZDk4OTc2NTNl`
+Snapshot ID: `MCw5MzNhYjhmMDkyZDg1Mzk5Yzk4MDFlMDExMjkxNTY5ODYyYzRlMjY1`

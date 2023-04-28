@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-317 songs - 18 hr 16 min
+318 songs - 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Aquí Vinimos \- El Que Busca Mix](https://open.spotify.com/track/4XYDvFGIzgCg3QGqpwB1I8) | [Cheo & Ulises Hadjis](https://open.spotify.com/artist/7IKuQRkkcfoycYLQVDGLpg) | [Aquí Vinimos \(El Que Busca Mix\)](https://open.spotify.com/album/4pCn6UMCYtGWObf3x9vBp6) | 2:30 | 2022-04-07 | 2022-04-21 |
 | [Aquí voy a estar](https://open.spotify.com/track/6YIDc3upMMQlfqCcsQIPCz) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM), [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Aquí voy a estar](https://open.spotify.com/album/1gtfWLpH8iADoYRAs0QnHe) | 4:30 | 2022-04-07 | 2023-04-12 |
 | [Ausente](https://open.spotify.com/track/5Y7TAGEM42zS5MOxkBr1nD) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Ausente](https://open.spotify.com/album/7DEyRK52e2b6N00hNO1UF7) | 3:54 | 2021-12-09 | 2022-12-31 |
+| [Ausente](https://open.spotify.com/track/7uR5yFqTHZYqPlO9zXTR2M) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Para Echar la Lloradita](https://open.spotify.com/album/1JkjAUi5VkRPtiVbT273KR) | 3:54 | 2023-04-03 |  |
 | [Ay De Mi](https://open.spotify.com/track/1Wxg4UUmjKL8yVmXL97aB0) | [Natalia Doco](https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN) | [Mucho Chino](https://open.spotify.com/album/1l8i1gKfgAXi2tMoKvpsDR) | 2:49 | 2022-05-14 | 2022-10-28 |
 | [Ay de Mi!](https://open.spotify.com/track/4wI84MgkVbVyP9VQ8A8xIU) | [Natalia Doco](https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN) | [Mucho Chino](https://open.spotify.com/album/02j0e4gNaEeGdo4qK6fgfD) | 2:49 | 2022-04-07 | 2022-07-07 |
 | [Azul \(with Rodrigo Amarante\)](https://open.spotify.com/track/58iNllszkXpDOcYRgcfLfH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 4:51 | 2021-12-09 | 2022-10-28 |
@@ -300,7 +301,7 @@
 | [Tú Con Él](https://open.spotify.com/track/3Olb1S4AGjZcD5pB0CXG55) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Canciones del Alma](https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi) | 3:25 | 2021-12-09 | 2022-03-22 |
 | [Tú Me Dijíste Que Venías](https://open.spotify.com/track/1HGuh9bVVWEaPhPvQ5woRm) | [Anthony Escandón](https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J) | [Tú Me Dijíste Que Venías](https://open.spotify.com/album/4AgWVLq6Yh25oqreliWR23) | 2:37 | 2021-12-09 | 2023-04-13 |
 | [Un Amor Violento](https://open.spotify.com/track/5boCZfOIDyELEfYoD94fky) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Un Amor Violento](https://open.spotify.com/album/1oKMUZGbpNkXrMYd2UJ2NU) | 4:49 | 2022-04-07 | 2022-10-28 |
-| [Un Beso Más \(Versión Acústica\)](https://open.spotify.com/track/7dS19L0dDQwgWJfAgT4xZG) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32) | [Un Beso Más \(Versión Acústica\)](https://open.spotify.com/album/6GMLQCfFP8LAkMu5gmb15l) | 3:18 | 2021-12-09 |  |
+| [Un Beso Más \(Versión Acústica\)](https://open.spotify.com/track/7dS19L0dDQwgWJfAgT4xZG) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32) | [Un Beso Más \(Versión Acústica\)](https://open.spotify.com/album/6GMLQCfFP8LAkMu5gmb15l) | 3:18 | 2021-12-09 | 2023-04-28 |
 | [Un Cariñito](https://open.spotify.com/track/2gzjpDzWlfAcazV5WNz9z6) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Un Cariñito](https://open.spotify.com/album/1lAFc7CVkN6tec14ZR6Z8x) | 3:03 | 2021-12-09 | 2022-07-29 |
 | [Un Cariñito](https://open.spotify.com/track/64opElgLEfcSoh4YotloB4) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 3:03 | 2022-05-14 |  |
 | [Un Chingo](https://open.spotify.com/track/7nIMGS6kTXvlci76i6neKb) | [Carlos Neda](https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9) | [Un Chingo](https://open.spotify.com/album/5JvTVY2AYNpX6g4KIXzkdT) | 2:57 | 2022-09-21 |  |

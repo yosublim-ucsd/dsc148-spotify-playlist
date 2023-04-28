@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1980s. ",
-  "num_followers": 422682,
+  "num_followers": 423810,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc5ODAwMCwwMDAwMDAwMDk5MTUxMmMxZTA1ODU4MDFmZjRhMTI1ZTFmMGFkN2Iw",
+  "snapshot_id": "MCxmMWRhNzIwZjE4ZGNiYjRkZmEzZDk3ODY2ZDU1M2JmM2ZkOTJkYWZj",
   "tracks": [
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1125,22 +1125,6 @@
       "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
-      },
-      "artists": [
-        {
-          "name": "Talk Talk",
-          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
-        }
-      ],
-      "duration_ms": 232400,
-      "name": "It's My Life - 1997 Remaster",
-      "url": "https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Chinese Wall (Expanded Edition)",
@@ -1159,6 +1143,22 @@
       "duration_ms": 305866,
       "name": "Easy Lover",
       "url": "https://open.spotify.com/track/5LYJ631w9ps5h9tdvac7yP"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
+      },
+      "artists": [
+        {
+          "name": "Talk Talk",
+          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
+        }
+      ],
+      "duration_ms": 232400,
+      "name": "It's My Life - 1997 Remaster",
+      "url": "https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ"
     },
     {
       "added_at": "2021-12-14 07:35:59",
@@ -1389,22 +1389,6 @@
       "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Organisation",
-        "url": "https://open.spotify.com/album/3bouQtY9H1DP39yxqHuFf8"
-      },
-      "artists": [
-        {
-          "name": "Orchestral Manoeuvres In The Dark",
-          "url": "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
-        }
-      ],
-      "duration_ms": 213693,
-      "name": "Enola Gay - Remastered 2003",
-      "url": "https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Whenever You Need Somebody",
@@ -1419,6 +1403,22 @@
       "duration_ms": 205533,
       "name": "Together Forever",
       "url": "https://open.spotify.com/track/5eFiEFtrq5dLgVHSZANUNl"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Organisation",
+        "url": "https://open.spotify.com/album/3bouQtY9H1DP39yxqHuFf8"
+      },
+      "artists": [
+        {
+          "name": "Orchestral Manoeuvres In The Dark",
+          "url": "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
+        }
+      ],
+      "duration_ms": 213693,
+      "name": "Enola Gay - Remastered 2003",
+      "url": "https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "True Blue",
-        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 268533,
-      "name": "Papa Don't Preach",
-      "url": "https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Around The World In A Day",
         "url": "https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 215173,
       "name": "Raspberry Beret",
       "url": "https://open.spotify.com/track/2I1W3hcSsPIsEJfD69pHrW"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "True Blue",
+        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 268533,
+      "name": "Papa Don't Preach",
+      "url": "https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
+        "name": "Back In The High Life",
+        "url": "https://open.spotify.com/album/1VV4tdUYIjRlhKxu1gMw4d"
+      },
+      "artists": [
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        }
+      ],
+      "duration_ms": 351506,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
         "name": "Keep On Movin'",
         "url": "https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 228266,
       "name": "Back To Life",
       "url": "https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Back In The High Life",
-        "url": "https://open.spotify.com/album/1VV4tdUYIjRlhKxu1gMw4d"
-      },
-      "artists": [
-        {
-          "name": "Steve Winwood",
-          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
-        }
-      ],
-      "duration_ms": 351506,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1887,22 +1887,6 @@
       "duration_ms": 208573,
       "name": "Hands Up - Single Version",
       "url": "https://open.spotify.com/track/5xQr5TxQ77siaKfuyiJbT0"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Like a Prayer",
-        "url": "https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 340866,
-      "name": "Like a Prayer",
-      "url": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1951,6 +1935,22 @@
       "duration_ms": 254000,
       "name": "Conga!",
       "url": "https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Like a Prayer",
+        "url": "https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 340866,
+      "name": "Like a Prayer",
+      "url": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Love Songs (A Compilation Old and New)",
-        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 204386,
-      "name": "Two Hearts",
-      "url": "https://open.spotify.com/track/2BgWv15eKCDfiubKo6o76k"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 268186,
       "name": "Love Changes (Everything)",
       "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Love Songs (A Compilation Old and New)",
+        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 204386,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/2BgWv15eKCDfiubKo6o76k"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -2081,22 +2081,6 @@
       "url": "https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "One Night In Bangkok (Radio Edit / From \u201cChess\u201d / Remastered 2016)",
-        "url": "https://open.spotify.com/album/0t3C9Mp3pJceakRaQmwr9g"
-      },
-      "artists": [
-        {
-          "name": "Murray Head",
-          "url": "https://open.spotify.com/artist/479Yp6DvyXoIaCssAxB4QR"
-        }
-      ],
-      "duration_ms": 193440,
-      "name": "One Night In Bangkok - Radio Edit / From \u201cChess\u201d / Remastered 2016",
-      "url": "https://open.spotify.com/track/1xgqGXZW1udHCjuwjeRDVO"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Get Close (Expanded & Remastered)",
@@ -2131,6 +2115,22 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
+        "name": "One Night In Bangkok (Radio Edit / From \u201cChess\u201d / Remastered 2016)",
+        "url": "https://open.spotify.com/album/0t3C9Mp3pJceakRaQmwr9g"
+      },
+      "artists": [
+        {
+          "name": "Murray Head",
+          "url": "https://open.spotify.com/artist/479Yp6DvyXoIaCssAxB4QR"
+        }
+      ],
+      "duration_ms": 193440,
+      "name": "One Night In Bangkok - Radio Edit / From \u201cChess\u201d / Remastered 2016",
+      "url": "https://open.spotify.com/track/1xgqGXZW1udHCjuwjeRDVO"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
         "name": "The Innocents",
         "url": "https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd"
       },
@@ -2143,6 +2143,38 @@
       "duration_ms": 213373,
       "name": "A Little Respect",
       "url": "https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Another Step",
+        "url": "https://open.spotify.com/album/7g47QK9nosKX9B2zdd8yTs"
+      },
+      "artists": [
+        {
+          "name": "Kim Wilde",
+          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
+        }
+      ],
+      "duration_ms": 255220,
+      "name": "You Keep Me Hangin On",
+      "url": "https://open.spotify.com/track/1wEeNtO7z41aUqC80shxqK"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Brothers in Arms",
+        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 252466,
+      "name": "Walk of Life",
+      "url": "https://open.spotify.com/track/423o3ZHIaBtGXyhF1uH41a"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2167,38 +2199,6 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Brothers in Arms",
-        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 252466,
-      "name": "Walk of Life",
-      "url": "https://open.spotify.com/track/423o3ZHIaBtGXyhF1uH41a"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Another Step",
-        "url": "https://open.spotify.com/album/7g47QK9nosKX9B2zdd8yTs"
-      },
-      "artists": [
-        {
-          "name": "Kim Wilde",
-          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
-        }
-      ],
-      "duration_ms": 255220,
-      "name": "You Keep Me Hangin On",
-      "url": "https://open.spotify.com/track/1wEeNtO7z41aUqC80shxqK"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
         "name": "Fantastic",
         "url": "https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR"
       },
@@ -2211,22 +2211,6 @@
       "duration_ms": 265600,
       "name": "Club Tropicana",
       "url": "https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Madonna",
-        "url": "https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 231560,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2243,6 +2227,22 @@
       "duration_ms": 161133,
       "name": "Whip It",
       "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 231560,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2425,22 +2425,6 @@
       "url": "https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Frantic Romantic",
-        "url": "https://open.spotify.com/album/3OCmVGmewrfW3eZmLhRAIX"
-      },
-      "artists": [
-        {
-          "name": "Jermaine Stewart",
-          "url": "https://open.spotify.com/artist/7FAkzV0YOw0EIXFhmY4RE3"
-        }
-      ],
-      "duration_ms": 293240,
-      "name": "We Don't Have To Take Our Clothes Off",
-      "url": "https://open.spotify.com/track/7o9KG7iQY8KACz7PZXYpyv"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Crazy Nights",
@@ -2455,6 +2439,22 @@
       "duration_ms": 227600,
       "name": "Crazy Crazy Nights",
       "url": "https://open.spotify.com/track/3YSfGJNDtF8KrHlwCAaVns"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Frantic Romantic",
+        "url": "https://open.spotify.com/album/3OCmVGmewrfW3eZmLhRAIX"
+      },
+      "artists": [
+        {
+          "name": "Jermaine Stewart",
+          "url": "https://open.spotify.com/artist/7FAkzV0YOw0EIXFhmY4RE3"
+        }
+      ],
+      "duration_ms": 293240,
+      "name": "We Don't Have To Take Our Clothes Off",
+      "url": "https://open.spotify.com/track/7o9KG7iQY8KACz7PZXYpyv"
     }
   ],
   "unique_name": "80s Party",

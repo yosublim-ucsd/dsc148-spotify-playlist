@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: As Everything Unfolds
 
-[Spotify](https://open.spotify.com/user/spotify) - 682,900 likes - 56 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 683,097 likes - 56 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 55 | [Mechanic Convergence](https://open.spotify.com/track/64cNZnY6AvyaER20zbj5ga) | [Fearmonger](https://open.spotify.com/artist/3H3nB78HmxyT0LI964izF3) | [Singularity](https://open.spotify.com/album/6N8Etw7b6sCcq2VqpXkcFv) | 3:55 |
 | 56 | [Insane](https://open.spotify.com/track/4aaSKQerAUzEhJSE6zDyhN) | [contrast.](https://open.spotify.com/artist/59oX1Yy4grDdU4lelm4jbA) | [Insane](https://open.spotify.com/album/6LuOHpO9DsT1jReMC6r0Zc) | 3:10 |
 
-Snapshot ID: `MTY4MjA5NTc4MCwwMDAwMDAwMGQyMmNlZTg5YmZkYTY3NGQ2M2Q5NzIwYTk3ZjZhNTQ1`
+Snapshot ID: `MCxlODExNjFkZjMyZDY2YmIxYzhlZjYwYjI4MDJkMDc3YWNlZDFiMDUz`

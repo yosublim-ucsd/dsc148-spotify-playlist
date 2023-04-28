@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sounds of acoustic blues and folk.",
-  "num_followers": 70433,
+  "num_followers": 70442,
   "original_name": "Rockin' Chair Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQwMTc3MiwwMDAwMDAwMGM3Njk4ZTc4Njk5MzU4Zjc2MzZmMDM0YzViMjkzMzky",
+  "snapshot_id": "MCxmM2Y2OWI5NTNlZDI1MDIwNDI4NGViNTY3MTQ4MmM0NDQzMDRiYzVm",
   "tracks": [
     {
       "added_at": "2023-04-07 00:01:00",
@@ -183,22 +183,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Guitar Music",
-        "url": "https://open.spotify.com/album/45GOwuG1VZqnLfdvPuZ2oj"
-      },
-      "artists": [
-        {
-          "name": "Leo Kottke",
-          "url": "https://open.spotify.com/artist/6cjuHeJM6CHRUhIhApwFwx"
-        }
-      ],
-      "duration_ms": 164200,
-      "name": "Tumbling Tumbleweeds",
-      "url": "https://open.spotify.com/track/6nHsZuDMPSyRQ90gBhaXoS"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "The Midnight Broadcast",
         "url": "https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 214933,
       "name": "Bumble Bee",
       "url": "https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Guitar Music",
+        "url": "https://open.spotify.com/album/45GOwuG1VZqnLfdvPuZ2oj"
+      },
+      "artists": [
+        {
+          "name": "Leo Kottke",
+          "url": "https://open.spotify.com/artist/6cjuHeJM6CHRUhIhApwFwx"
+        }
+      ],
+      "duration_ms": 164200,
+      "name": "Tumbling Tumbleweeds",
+      "url": "https://open.spotify.com/track/6nHsZuDMPSyRQ90gBhaXoS"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -341,7 +341,7 @@
       "url": "https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0"
     },
     {
-      "added_at": "2023-04-27 00:50:10",
+      "added_at": "2023-04-28 01:06:33",
       "album": {
         "name": "Blues Jumped a Rabbit",
         "url": "https://open.spotify.com/album/5cOjiagbLZqw85RJNk8lQ4"
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "County Farm Blues",
-        "url": "https://open.spotify.com/album/0xQyiVS5BLQzBmfOuUxIzx"
-      },
-      "artists": [
-        {
-          "name": "Johnny Stachela",
-          "url": "https://open.spotify.com/artist/0S1BmerVaINiJar88KgNzi"
-        }
-      ],
-      "duration_ms": 164285,
-      "name": "County Farm Blues",
-      "url": "https://open.spotify.com/track/1ycQB39KcU6DcdfY3XFyXR"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Detroit Blues",
         "url": "https://open.spotify.com/album/5r7zpXdCkM4wED1dVgXI70"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 169039,
       "name": "Detroit Blues",
       "url": "https://open.spotify.com/track/5rJbBdz2yN7ZPIPjX70Foq"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "County Farm Blues",
+        "url": "https://open.spotify.com/album/0xQyiVS5BLQzBmfOuUxIzx"
+      },
+      "artists": [
+        {
+          "name": "Johnny Stachela",
+          "url": "https://open.spotify.com/artist/0S1BmerVaINiJar88KgNzi"
+        }
+      ],
+      "duration_ms": 164285,
+      "name": "County Farm Blues",
+      "url": "https://open.spotify.com/track/1ycQB39KcU6DcdfY3XFyXR"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Presenting Robert Nighthawk",
-        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
-      },
-      "artists": [
-        {
-          "name": "Robert Nighthawk",
-          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
-        }
-      ],
-      "duration_ms": 174093,
-      "name": "Friar's Point Blues",
-      "url": "https://open.spotify.com/track/3cwOZlayYhxMNQgEJEyp8r"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "A Savage Life",
         "url": "https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B"
       },
@@ -1123,18 +1107,34 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Turn Me Loose: Outsiders of Old-Time Music",
-        "url": "https://open.spotify.com/album/690HtrG9fKZnEp5fq8ed7Y"
+        "name": "Presenting Robert Nighthawk",
+        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
       },
       "artists": [
         {
-          "name": "Lemuel Turner",
-          "url": "https://open.spotify.com/artist/6W3S0STPYle2QmDNLGAzmS"
+          "name": "Robert Nighthawk",
+          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
         }
       ],
-      "duration_ms": 192946,
-      "name": "Way Down Yonder Blues",
-      "url": "https://open.spotify.com/track/5cMLUxRl1dO83NLNgo8by9"
+      "duration_ms": 174093,
+      "name": "Friar's Point Blues",
+      "url": "https://open.spotify.com/track/3cwOZlayYhxMNQgEJEyp8r"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Nickel for Your Troubles",
+        "url": "https://open.spotify.com/album/7BehaPSDwpwY35CddZrreY"
+      },
+      "artists": [
+        {
+          "name": "Will Harrison",
+          "url": "https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt"
+        }
+      ],
+      "duration_ms": 168254,
+      "name": "Keepin On",
+      "url": "https://open.spotify.com/track/2o63bYzr3IwgehTtlU0Fk3"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Nickel for Your Troubles",
-        "url": "https://open.spotify.com/album/7BehaPSDwpwY35CddZrreY"
+        "name": "Turn Me Loose: Outsiders of Old-Time Music",
+        "url": "https://open.spotify.com/album/690HtrG9fKZnEp5fq8ed7Y"
       },
       "artists": [
         {
-          "name": "Will Harrison",
-          "url": "https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt"
+          "name": "Lemuel Turner",
+          "url": "https://open.spotify.com/artist/6W3S0STPYle2QmDNLGAzmS"
         }
       ],
-      "duration_ms": 168254,
-      "name": "Keepin On",
-      "url": "https://open.spotify.com/track/2o63bYzr3IwgehTtlU0Fk3"
+      "duration_ms": 192946,
+      "name": "Way Down Yonder Blues",
+      "url": "https://open.spotify.com/track/5cMLUxRl1dO83NLNgo8by9"
     },
     {
       "added_at": "2023-04-07 00:01:00",

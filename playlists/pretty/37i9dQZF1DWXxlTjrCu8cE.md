@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 
 > Pagodeira apresenta..\. O Melhor do Pagode 2022
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,167 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,179 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 | 35 | [Dupla De Invejar \- Ao Vivo](https://open.spotify.com/track/72dBt6344yHyHglE0gLFmn) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Pagode Do Pericão II, Pt\. 2 \(Ao Vivo\)](https://open.spotify.com/album/65vNfWkaQhnrT7ndLZQ0Z0) | 2:34 |
 | 36 | [Lábia \- Ao Vivo](https://open.spotify.com/track/1tRSvPFbMdl8CTTJG1k2hk) | [Guga Nandes](https://open.spotify.com/artist/3vqgT6FvYBxEFbipoT9nYH), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [No Seu Tempo \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/0kr2Ok2SeMR5Qh10YqiUbX) | 3:06 |
 | 37 | [Toma Cuidado \(feat\. Mr\. Dan\) \- Ao Vivo](https://open.spotify.com/track/6ft3SONlfgxcwOMRoECNHd) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq), [Mr\. Dan](https://open.spotify.com/artist/0tEbPIVxu2YOmZXOWAkJ52) | [Live Mixturadin](https://open.spotify.com/album/2KrDjAWQ4FR4M2QKwAhOCW) | 3:00 |
-| 38 | [Outra Recaída \- Ao Vivo](https://open.spotify.com/track/0Gxp5rPpn6vceyp0aTvufj) | [Binho Simões](https://open.spotify.com/artist/3YYITXjPoYKyWyssTc4X12), [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Binho Simões \(Ao Vivo\)](https://open.spotify.com/album/3crfvoGmVH91dYEsfezZYU) | 2:43 |
+| 38 | [Outra Recaída \- Ao Vivo](https://open.spotify.com/track/0HJbGMGkeYoRX2ZVJn0iR6) | [Binho Simões](https://open.spotify.com/artist/3YYITXjPoYKyWyssTc4X12), [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Binho Simões \(Ao Vivo\)](https://open.spotify.com/album/1uvxxd9rtz4hBSjxweqhVE) | 2:43 |
 | 39 | [Pela Última Vez \- Ao Vivo](https://open.spotify.com/track/2oXJFYMQZKRU3CdWHV2fHN) | [Davizinho](https://open.spotify.com/artist/0leY58CMUMTPeBsj4wT74R) | [Pela Última Vez \(Ao Vivo\)](https://open.spotify.com/album/693gdgaYRDFttiYA3WHuue) | 3:15 |
 | 40 | [Pensando Em Nós Dois](https://open.spotify.com/track/1kak3tKcHTQGqV5IaV7dup) | [Grupo Revelação](https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw) | [Pensando Em Nós Dois](https://open.spotify.com/album/1S83eAHHYicWwgzJ4EKYQ0) | 2:59 |
 | 41 | [Juntos \- Ao Vivo](https://open.spotify.com/track/7kSoZkPVxqT6JNscnHgNZf) | [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Juntos \(Ao Vivo\)](https://open.spotify.com/album/29SZFtVfb9IXC9lJpJT1I4) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 | 49 | [Metade Vai, Metade Fica \- Ao Vivo](https://open.spotify.com/track/2wjPolk9weQkKhsNtjaTSs) | [Suel](https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK) | [Close Friends \(Ao Vivo\)](https://open.spotify.com/album/0JDiWK0YzOeg45K86BLY8S) | 2:43 |
 | 50 | [Não Vai Ter Fim \- Ao Vivo](https://open.spotify.com/track/4Iza3iQfmkWrY1dVEa51Sv) | [BG](https://open.spotify.com/artist/1z87T3GgfHTjKxQ6QYAtU9) | [Oi, Prazer BG! Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/0ev4mqX85Oa3g2TnNYN4LO) | 3:07 |
 
-Snapshot ID: `MTY2OTgxNTkwMCwwMDAwMDAwMDAzODMzZmE0ZTA3YmJiZjFjNzA4MzMyNmU1NjZhZWYw`
+Snapshot ID: `MCw2YjRmOThhMmNiNWMxNWI1MjhmMjI3MjlmNGYzNDZhMmU5ZjQyYTk0`

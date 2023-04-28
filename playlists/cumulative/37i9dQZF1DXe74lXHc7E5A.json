@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-06",
-  "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Odumodublvck",
+  "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Jack Harlow",
   "name": "Hype List",
   "tracks": [
     {
@@ -546,7 +546,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 137806,
       "name": "Blackout",
       "url": "https://open.spotify.com/track/5xKXBeEv4mJKG9vDw1Zkc8"
@@ -712,6 +712,28 @@
       "duration_ms": 198039,
       "name": "Breaking The Yoke Of Love",
       "url": "https://open.spotify.com/track/4Qpilnxi20LRgYr3a9iOJA"
+    },
+    {
+      "album": {
+        "name": "BRICK & LACE",
+        "url": "https://open.spotify.com/album/0kD6nPywwJ2sXIBQNfo8w7"
+      },
+      "artists": [
+        {
+          "name": "Ossaiofficial",
+          "url": "https://open.spotify.com/artist/2aLiV8RwMwIo9KyfaGCJW5"
+        },
+        {
+          "name": "MOJO AF",
+          "url": "https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158014,
+      "name": "BRICK & LACE",
+      "url": "https://open.spotify.com/track/4ey7sZjre5UqI8Hfvlab0r"
     },
     {
       "album": {
@@ -1530,7 +1552,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 159370,
       "name": "Gangsta Boo (with Lil Tjay)",
       "url": "https://open.spotify.com/track/2g5q0UpOOFMNOcHGaMG4b0"
@@ -1862,7 +1884,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 193322,
       "name": "Honest (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0"
@@ -2230,7 +2252,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 227096,
       "name": "Keep It Real",
       "url": "https://open.spotify.com/track/6UX9WrpJFv5LZW4hTH6svZ"
@@ -2786,7 +2808,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 196562,
       "name": "NO M\u00c1S (feat. Quavo, J. Balvin, Anitta, and Pharrell)",
       "url": "https://open.spotify.com/track/0ZWNQi6wgNjKFcQx6QuLm0"
@@ -2894,6 +2916,32 @@
       "duration_ms": 184555,
       "name": "Obaa Hemaa",
       "url": "https://open.spotify.com/track/5ngy0dLyezwaO15C51TrMB"
+    },
+    {
+      "album": {
+        "name": "Omo Ologo",
+        "url": "https://open.spotify.com/album/74BlJC2C7ifL7mgPCRFpKN"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178347,
+      "name": "Oganigwe",
+      "url": "https://open.spotify.com/track/7DRGQ7JVWzXxHbPXOU172t"
     },
     {
       "album": {
@@ -3574,6 +3622,40 @@
       "duration_ms": 262941,
       "name": "Same Problems?",
       "url": "https://open.spotify.com/track/3jpZwYrDbX2lQMhHwXjyUD"
+    },
+    {
+      "album": {
+        "name": "SAUCE (feat. Silverstone Barz, Dee Koala, Money Badoo & DETO BLACK)",
+        "url": "https://open.spotify.com/album/12ErBakQQDRspBJCN3NulR"
+      },
+      "artists": [
+        {
+          "name": "Immaculate Taste",
+          "url": "https://open.spotify.com/artist/7EqcUzt8S9Gh3nKcCZDXlE"
+        },
+        {
+          "name": "Silverstone Barz",
+          "url": "https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg"
+        },
+        {
+          "name": "Dee Koala",
+          "url": "https://open.spotify.com/artist/7gYT0XHEBgTgfgNK0566DT"
+        },
+        {
+          "name": "Money Badoo",
+          "url": "https://open.spotify.com/artist/3RLZh7s3TdS5bL08ATw7Ba"
+        },
+        {
+          "name": "DETO BLACK",
+          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209148,
+      "name": "SAUCE (feat. Silverstone Barz, Dee Koala, Money Badoo & DETO BLACK)",
+      "url": "https://open.spotify.com/track/3jEWgcZ0K3mg9T2Iwp7jVR"
     },
     {
       "album": {
@@ -4288,6 +4370,28 @@
       "duration_ms": 181393,
       "name": "What Happened To Virgil (feat. Gunna)",
       "url": "https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P"
+    },
+    {
+      "album": {
+        "name": "Where Dem Dey",
+        "url": "https://open.spotify.com/album/2wR1umN5UBv0lE9NGvbJ6d"
+      },
+      "artists": [
+        {
+          "name": "Laime",
+          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Where Dem Dey",
+      "url": "https://open.spotify.com/track/5urCHNHBnnucIoZvnzns48"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > maxime\. makes anti pop
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,181 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,200 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 99 | [Bite Me](https://open.spotify.com/track/58o9R5b5BKmVzyJWpVDB37) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Over & Over](https://open.spotify.com/album/6blr4YVJ0xwdx1qJWBtz76) | 2:17 |
 | 100 | [Borderline Insane](https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Borderline Insane](https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB) | 2:19 |
 
-Snapshot ID: `MTY4MjUzMDQ0NiwwMDAwMDAwMGM0YzYzYWM1NGY2NTYzZGY3YTEyM2MyNTc5ODE2MDkw`
+Snapshot ID: `MCxhZDIyMzRiMzRlMmMzNDk4ZTA1ZmJmMmY0ZGIwYWQ5ZDNhNjMyMjI2`

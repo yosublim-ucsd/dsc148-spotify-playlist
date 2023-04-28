@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 
 > The official playlist for To All The Boys: Always and Forever\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,387 likes - 85 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,480 likes - 85 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 | 84 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 |
 | 85 | [Then He Kissed Me](https://open.spotify.com/track/7jeOETwLUP84mPQzxlD5nh) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Da Doo Ron Ron: The Very Best of The Crystals](https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm) | 2:38 |
 
-Snapshot ID: `MTY0NDQ0NzMxMywwMDAwMDAwMGUyZjM5MmI1ZDAzMjhmOGI5YWFjZjk1NjE5NGFhZjRk`
+Snapshot ID: `MCxiM2RhNTJjZjhlNzhlY2RlZmYyMzE3YmE3NGU5OGNkMzY1Y2I3MzU3`

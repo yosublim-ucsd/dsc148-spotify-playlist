@@ -4,7 +4,7 @@
 
 > El sonido urbano de RD, pa' lo tígueres de alta gama\. En portada: Bulin 47
 
-140 songs - 6 hr 56 min
+141 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [Tan Bajando](https://open.spotify.com/track/1zw2QH6AwZQCrZ2UhEDJGT) | [Don Forty Five](https://open.spotify.com/artist/10MSXbNvnGF8Hv1VyZdvNT), [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F) | [Tan Bajando](https://open.spotify.com/album/6k2PVJduVsYe9pzkhm51I1) | 2:27 | 2022-12-23 |  |
 | [Tan Quedao](https://open.spotify.com/track/252C5FtbrETqo6ZJE1vmyx) | [Briante](https://open.spotify.com/artist/7lrpjS4SyP3jdyB7i27Yf4), [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F) | [Tan Quedao](https://open.spotify.com/album/3mSxOqShLIxTkePLdEDo8Q) | 2:22 | 2023-01-06 |  |
 | [Tiembla](https://open.spotify.com/track/1L96UQiYAT2AGzHir0eXNf) | [Aron Luix](https://open.spotify.com/artist/0g8PbULxKIoYGWwYtpaVqv), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Tiembla](https://open.spotify.com/album/6UPZluwCWXaysCKvksMikq) | 2:33 | 2022-03-15 | 2022-04-15 |
-| [Tiguere](https://open.spotify.com/track/3LqhDUTrzOxYrGw5nEEAwr) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Tiguere](https://open.spotify.com/album/1jHkDImQbWVY9sJPDnwHJo) | 3:33 | 2022-03-15 |  |
+| [Tiguere](https://open.spotify.com/track/3LqhDUTrzOxYrGw5nEEAwr) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Tiguere](https://open.spotify.com/album/1jHkDImQbWVY9sJPDnwHJo) | 3:33 | 2022-03-15 | 2023-04-28 |
+| [Tiguere](https://open.spotify.com/track/4o8I9koGgKdoHKIdGZxIur) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Tiguere](https://open.spotify.com/album/2HTmHES25qSL1wiSmWtI0e) | 3:33 | 2023-03-17 |  |
 | [Tigueron y Bonitillo](https://open.spotify.com/track/2APOvBpM9UovumcRC11X9X) | [La Manta](https://open.spotify.com/artist/3omyT5zHz9QmE63xEk10OV) | [Tigueron y Bonitillo](https://open.spotify.com/album/6BsIsxWct0WJ1jYS561HuN) | 2:20 | 2022-11-11 | 2022-12-24 |
 | [Tiradera Para Braulio Fogon](https://open.spotify.com/track/0WIIWnNfi7AJGWwDtEtREd) | [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk), [R\-M MUSIC PUBLISHING](https://open.spotify.com/artist/5YIeIkkDMdWDiX1sr8CGhf) | [Tiradera Para Braulio Fogon](https://open.spotify.com/album/4UG62zAYxdIA3r6f0Vz0eu) | 2:18 | 2022-03-15 | 2022-11-12 |
 | [Tirale](https://open.spotify.com/track/2rm1Gjkqmi0XPnO0mjsFwO) | [La Manta](https://open.spotify.com/artist/3omyT5zHz9QmE63xEk10OV), [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0) | [Tirale](https://open.spotify.com/album/1HduXNBh6MGtCti3E4bhMX) | 2:59 | 2022-03-15 | 2022-04-15 |

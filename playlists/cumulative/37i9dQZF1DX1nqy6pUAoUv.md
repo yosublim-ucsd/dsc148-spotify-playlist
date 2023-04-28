@@ -4,7 +4,7 @@
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Jake Blount
 
-231 songs - 15 hr 5 min
+232 songs - 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [River](https://open.spotify.com/track/4B7iMBGmm5woNqs6Oj3GpT) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Mellow Summer](https://open.spotify.com/album/7rdNrR0gVmevOWDO0CO6Xl) | 3:58 | 2022-02-25 | 2022-11-14 |
 | [River](https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 4:00 | 2022-02-25 |  |
 | [River Floor](https://open.spotify.com/track/1IFfxA7q1t1Pd06KFYrwQK) | [Joe Henry](https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r) | [River Floor](https://open.spotify.com/album/7yBghFRECy1ZbyIu1PFRyX) | 4:34 | 2021-10-13 | 2022-07-28 |
-| [Rosey](https://open.spotify.com/track/6hQyok9o5eHVrOTrAnHKro) | [Bermuda Triangle](https://open.spotify.com/artist/7wPvbZRRBwR2rzVrxz6ixE) | [Rosey](https://open.spotify.com/album/3q96oj9JSBra41e2rCBPlG) | 3:45 | 2021-10-13 |  |
+| [Rosey](https://open.spotify.com/track/6hQyok9o5eHVrOTrAnHKro) | [Bermuda Triangle](https://open.spotify.com/artist/7wPvbZRRBwR2rzVrxz6ixE) | [Rosey](https://open.spotify.com/album/3q96oj9JSBra41e2rCBPlG) | 3:45 | 2021-10-13 | 2023-04-28 |
 | [Saint Elizabeth](https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs) | 3:59 | 2021-10-13 |  |
 | [Sammi's Song](https://open.spotify.com/track/5yxGc3FatVpON8FM0lpIJU) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [You, Yeah, You](https://open.spotify.com/album/2iAobQN7dau5q1S83OXrvY) | 1:59 | 2021-10-13 |  |
 | [Save My Life \- Radio Edit](https://open.spotify.com/track/2s5QYW4Ls3GsxWKhEKGraJ) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Save My Life \(Radio Edit\)](https://open.spotify.com/album/20BcK0UDu480rOworsrKLF) | 3:37 | 2021-10-13 |  |
@@ -226,6 +226,7 @@
 | [Warped Window](https://open.spotify.com/track/19cLwp9WS5E4CTYxcM7Wi1) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Idle Mind](https://open.spotify.com/album/74nVJp60GIsz0j7QTQymWB) | 4:55 | 2021-10-13 | 2022-07-29 |
 | [Warped Window](https://open.spotify.com/track/7jd2h2mIeyKpqkFsrl5EHN) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Idle Mind](https://open.spotify.com/album/5jz07RajgJtqxfBAwWULOW) | 4:55 | 2022-02-25 |  |
 | [Watch Fire \(feat\. Sufjan Stevens\)](https://open.spotify.com/track/3zpF0SCzigrNp1Dv4lxYqC) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [The Lookout](https://open.spotify.com/album/1smxZw0GMboL6blOJcleGW) | 2:36 | 2021-10-13 | 2022-07-26 |
+| [Watch Fire \(feat\. Sufjan Stevens\)](https://open.spotify.com/track/5qBIE0fTOJshddCJfLzzYh) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [The Lookout](https://open.spotify.com/album/6zxxQJ1GyzHqosrD6HsqwG) | 2:36 | 2022-02-25 |  |
 | [What Then Cried Jo Soap](https://open.spotify.com/track/2mJmHq00bqo5hpsF5sEB4K) | [David Keenan](https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG) | ["WHAT THEN?"](https://open.spotify.com/album/1Yx2bNjkNd8bWZ9uM5Aexu) | 4:05 | 2021-10-15 | 2022-07-25 |
 | [When I Was a Girl in Colorado](https://open.spotify.com/track/0GtgXo2HxsL1Ja0EXxC0s3) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [Spellbound](https://open.spotify.com/album/5r7E20BjrX92gBt3cI14E5) | 5:00 | 2022-02-25 |  |
 | [Where Did You Sleep Last Night](https://open.spotify.com/track/1vCmZCVNwCKw51Q5S8177Z) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [Spider Tales](https://open.spotify.com/album/3S2GACXwN1hHxSKHxkGvKb) | 3:56 | 2021-10-13 | 2022-07-29 |

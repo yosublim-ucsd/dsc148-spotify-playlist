@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,068 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,091 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 22 | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/track/7cnS0EPwBnP9ZIdGOAOY7c) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/album/7pKuRGliZzRAHJaFED7y6Q) | 2:06 |
 | 23 | [My Tribe \- Melody Cut](https://open.spotify.com/track/1ItcvRIbDjboaBcuuojkAB) | [Brandon Lucas](https://open.spotify.com/artist/42qJzNLnCckP7GR44Yj10j), [Afriqua](https://open.spotify.com/artist/4x9k6DMgS8vPNv48Yol5Kp), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO), [Cornel West](https://open.spotify.com/artist/3FLOwpW1KWqfCrJFuzpsbY) | [My Tribe](https://open.spotify.com/album/19RHtUMUXEwTh0kHtzVAoG) | 4:02 |
 | 24 | [Little Woman \(feat\. Tristan Henry\)](https://open.spotify.com/track/4QHRhcnKlhgsGrhGwlkjEy) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU), [Tristan Henry](https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T) | [Little Woman \(feat\. Tristan Henry\)](https://open.spotify.com/album/5q7xui0sb5WxnQ6T8o3oI1) | 3:48 |
-| 25 | [Werser](https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16) | [Choplife Soundsystem](https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Werser](https://open.spotify.com/album/1GkNzKt3pj4Gg2by8cokBI) | 4:08 |
+| 25 | [Werser](https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16) | [ChopLife SoundSystem](https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Werser](https://open.spotify.com/album/1GkNzKt3pj4Gg2by8cokBI) | 4:08 |
 | 26 | [Sway \(feat\. Dope Earth Alien\)](https://open.spotify.com/track/0KgDKuaHnbZOzz8adnnfxd) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Sway \(feat\. Dope Earth Alien\)](https://open.spotify.com/album/5TFBzrKDfvyAfqfkWiqETf) | 2:47 |
 | 27 | [Pussy Power \- DESIREE Remix](https://open.spotify.com/track/3p4obn8kIkhvsGSji3CuXM) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Nomi Ruiz](https://open.spotify.com/artist/5VNCplADfySxatpXe5jjDM), [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Pussy Power \(Desiree Remix\)](https://open.spotify.com/album/1Rhg4uHx4AITp2cOnykPur) | 5:57 |
 | 28 | [Tetema](https://open.spotify.com/track/5emv0gRnEk4dVXWETqewAC) | [TOSS](https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4) | [Tetema](https://open.spotify.com/album/0ceNIR1fRMz6vRGvccv3eS) | 6:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 99 | [Party All Night Long](https://open.spotify.com/track/5qnwoviJNQzB7VepePEGdI) | [Paul Johnson](https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G) | [P.J\. Classics ep](https://open.spotify.com/album/7J9OztpoSi0hYJAH6qzPeV) | 6:15 |
 | 100 | [Work That Body](https://open.spotify.com/track/1h3LHD3iDbP4MGYNeQG4N5) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [Sounds](https://open.spotify.com/album/6639iZ8oPeMPXZqgh8Vd0V) | 6:42 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDQyMTY1ZjZhMGYwM2U2MmU0OTliY2VkNjhhMDNiNjU3`
+Snapshot ID: `MCw2ODQ3Y2QyYjg2YWZjMmRmMjc4ZjQyN2IyMDFkN2RjZmI2MmRiMTI1`

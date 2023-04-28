@@ -1,12 +1,12 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: Camila Moreno",
-  "num_followers": 127853,
+  "num_followers": 127856,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0NjAwMCwwMDAwMDAwMGE2MDY1ZDdmN2ZkZGJiNzU4MDk1YTFlODQxNTBhMTlm",
+  "snapshot_id": "MCxjMTBhMjkyNjZiZDIwMWZiOTE3NjlkMWVlYjgyNzUyMzJkYWY4N2Zi",
   "tracks": [
     {
       "added_at": "2023-04-21 03:00:00",
@@ -243,22 +243,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "CIELO",
-        "url": "https://open.spotify.com/album/0KyvNuaS3Sy2N5dLXAgVlM"
+        "name": "Vuela Lejos",
+        "url": "https://open.spotify.com/album/4Mtqk5qyOZqIzzkC9fX5cO"
       },
       "artists": [
         {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
         },
         {
-          "name": "Joe Vasconcellos",
-          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
         }
       ],
-      "duration_ms": 203636,
-      "name": "CIELO",
-      "url": "https://open.spotify.com/track/1mXLf0jnxS9Uevkds7rEvy"
+      "duration_ms": 307414,
+      "name": "Vuela Lejos",
+      "url": "https://open.spotify.com/track/2lX9GYcMQYmZSs7vgonJf6"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -283,38 +283,38 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Vuela Lejos",
-        "url": "https://open.spotify.com/album/4Mtqk5qyOZqIzzkC9fX5cO"
+        "name": "CIELO",
+        "url": "https://open.spotify.com/album/0KyvNuaS3Sy2N5dLXAgVlM"
       },
       "artists": [
         {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
         },
         {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+          "name": "Joe Vasconcellos",
+          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
         }
       ],
-      "duration_ms": 307414,
-      "name": "Vuela Lejos",
-      "url": "https://open.spotify.com/track/2lX9GYcMQYmZSs7vgonJf6"
+      "duration_ms": 203636,
+      "name": "CIELO",
+      "url": "https://open.spotify.com/track/1mXLf0jnxS9Uevkds7rEvy"
     },
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "AMOR MINIMAL",
-        "url": "https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq"
+        "name": "RAYEN",
+        "url": "https://open.spotify.com/album/7uS98Xv6bQHFlBNYy5CvBN"
       },
       "artists": [
         {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+          "name": "White MJ",
+          "url": "https://open.spotify.com/artist/7AAFbMxbkCk1nFDMHdrdoT"
         }
       ],
-      "duration_ms": 206750,
-      "name": "Decid\u00ed",
-      "url": "https://open.spotify.com/track/526Et8BPKtXBTIctZsrm3Z"
+      "duration_ms": 187519,
+      "name": "RAYEN",
+      "url": "https://open.spotify.com/track/2gVk6HZ2pXhXYyBzDIAJbV"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -351,18 +351,18 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "RAYEN",
-        "url": "https://open.spotify.com/album/7uS98Xv6bQHFlBNYy5CvBN"
+        "name": "AMOR MINIMAL",
+        "url": "https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq"
       },
       "artists": [
         {
-          "name": "White MJ",
-          "url": "https://open.spotify.com/artist/7AAFbMxbkCk1nFDMHdrdoT"
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
         }
       ],
-      "duration_ms": 187519,
-      "name": "RAYEN",
-      "url": "https://open.spotify.com/track/2gVk6HZ2pXhXYyBzDIAJbV"
+      "duration_ms": 206750,
+      "name": "Decid\u00ed",
+      "url": "https://open.spotify.com/track/526Et8BPKtXBTIctZsrm3Z"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -432,25 +432,25 @@
           "url": "https://open.spotify.com/artist/1IjFBSOVrbTedyO0yIJg39"
         }
       ],
-      "duration_ms": 222544,
+      "duration_ms": 222543,
       "name": "Inventar",
       "url": "https://open.spotify.com/track/77puljFXglT7MBdWQbNIZQ"
     },
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "GARZA",
-        "url": "https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ"
+        "name": "No Hay Otra Igual",
+        "url": "https://open.spotify.com/album/7G6dIHEEIgoSkAeXO9OKUa"
       },
       "artists": [
         {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+          "name": "Astronautiko",
+          "url": "https://open.spotify.com/artist/4jtlM7KkUGZi5N3DWFZLbw"
         }
       ],
-      "duration_ms": 206018,
-      "name": "GARZA",
-      "url": "https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD"
+      "duration_ms": 173994,
+      "name": "No Hay Otra Igual",
+      "url": "https://open.spotify.com/track/2F7BLXkhLMjSd3L9YN5Mc1"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "No Hay Otra Igual",
-        "url": "https://open.spotify.com/album/7G6dIHEEIgoSkAeXO9OKUa"
+        "name": "GARZA",
+        "url": "https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ"
       },
       "artists": [
         {
-          "name": "Astronautiko",
-          "url": "https://open.spotify.com/artist/4jtlM7KkUGZi5N3DWFZLbw"
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
         }
       ],
-      "duration_ms": 173994,
-      "name": "No Hay Otra Igual",
-      "url": "https://open.spotify.com/track/2F7BLXkhLMjSd3L9YN5Mc1"
+      "duration_ms": 206018,
+      "name": "GARZA",
+      "url": "https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -523,6 +523,22 @@
       "duration_ms": 230400,
       "name": "Te lo pido por favor",
       "url": "https://open.spotify.com/track/6g3VvDH5AX42fx2KfcCsmb"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Que no se corte la cadena",
+        "url": "https://open.spotify.com/album/70PkbVHGZ1OLMRTlSQ6aYu"
+      },
+      "artists": [
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        }
+      ],
+      "duration_ms": 156166,
+      "name": "Que no se corte la cadena",
+      "url": "https://open.spotify.com/track/5j2f1ZYDqLjUsePKpokkkg"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -571,18 +587,18 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Que no se corte la cadena",
-        "url": "https://open.spotify.com/album/70PkbVHGZ1OLMRTlSQ6aYu"
+        "name": "Lo Nuestro",
+        "url": "https://open.spotify.com/album/7zFP43NJrnzwVwDqF9ksRz"
       },
       "artists": [
         {
-          "name": "Pedropiedra",
-          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
         }
       ],
-      "duration_ms": 156166,
-      "name": "Que no se corte la cadena",
-      "url": "https://open.spotify.com/track/5j2f1ZYDqLjUsePKpokkkg"
+      "duration_ms": 113852,
+      "name": "Lo Nuestro",
+      "url": "https://open.spotify.com/track/3QvNiDrsc51gBlSEnpfidy"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -603,22 +619,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Lo Nuestro",
-        "url": "https://open.spotify.com/album/7zFP43NJrnzwVwDqF9ksRz"
-      },
-      "artists": [
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        }
-      ],
-      "duration_ms": 113852,
-      "name": "Lo Nuestro",
-      "url": "https://open.spotify.com/track/3QvNiDrsc51gBlSEnpfidy"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "<3",
         "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
       },
@@ -631,22 +631,6 @@
       "duration_ms": 142106,
       "name": "<3",
       "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "Ella Me Dijo",
-        "url": "https://open.spotify.com/album/0Md6dUyqlF0v2i3NpyRYSK"
-      },
-      "artists": [
-        {
-          "name": "Crist\u00f3bal Brice\u00f1o",
-          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
-        }
-      ],
-      "duration_ms": 187062,
-      "name": "Ella Me Dijo",
-      "url": "https://open.spotify.com/track/0ysVoswBZh3USWAWpjBnVu"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -667,18 +651,18 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
-        "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
+        "name": "Ella Me Dijo",
+        "url": "https://open.spotify.com/album/0Md6dUyqlF0v2i3NpyRYSK"
       },
       "artists": [
         {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
         }
       ],
-      "duration_ms": 326961,
-      "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
-      "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
+      "duration_ms": 187062,
+      "name": "Ella Me Dijo",
+      "url": "https://open.spotify.com/track/0ysVoswBZh3USWAWpjBnVu"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -711,6 +695,22 @@
       "duration_ms": 150623,
       "name": "Tri\u00e1logo",
       "url": "https://open.spotify.com/track/7jhOHdaEHGCiGnRaNFNHTG"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
+        "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
+      },
+      "artists": [
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        }
+      ],
+      "duration_ms": 326961,
+      "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
+      "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "intento 2: pi\u00e9nsalo bien",
-        "url": "https://open.spotify.com/album/0Cb6g0K5lKTdOspMOOBW47"
+        "name": "Al Norte",
+        "url": "https://open.spotify.com/album/3CcKgmkQavh5eKM1RgXsgp"
       },
       "artists": [
         {
-          "name": "ataquemos",
-          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
+          "name": "Los Animales Tambi\u00e9n Se Suicidan",
+          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
         }
       ],
-      "duration_ms": 224604,
-      "name": "intento 2: pi\u00e9nsalo bien",
-      "url": "https://open.spotify.com/track/2aWrpGxJbltjwBK1gloSPn"
+      "duration_ms": 173336,
+      "name": "Al Norte",
+      "url": "https://open.spotify.com/track/7xexZoqppz49baUdMuGjW9"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Al Norte",
-        "url": "https://open.spotify.com/album/3CcKgmkQavh5eKM1RgXsgp"
+        "name": "intento 2: pi\u00e9nsalo bien",
+        "url": "https://open.spotify.com/album/0Cb6g0K5lKTdOspMOOBW47"
       },
       "artists": [
         {
-          "name": "Los Animales Tambi\u00e9n Se Suicidan",
-          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
+          "name": "ataquemos",
+          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
         }
       ],
-      "duration_ms": 173336,
-      "name": "Al Norte",
-      "url": "https://open.spotify.com/track/7xexZoqppz49baUdMuGjW9"
+      "duration_ms": 224604,
+      "name": "intento 2: pi\u00e9nsalo bien",
+      "url": "https://open.spotify.com/track/2aWrpGxJbltjwBK1gloSPn"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "El Encanto Del Fuego",
-        "url": "https://open.spotify.com/album/6tbGgz0PeqFJNXD4rhuZ97"
-      },
-      "artists": [
-        {
-          "name": "Paracaidistas",
-          "url": "https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP"
-        }
-      ],
-      "duration_ms": 242240,
-      "name": "Mirandonos",
-      "url": "https://open.spotify.com/track/4lZKP62LTSaJld949qz9ho"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Periferia",
         "url": "https://open.spotify.com/album/6YgO7igOx9TKfZ8rKBQ0y0"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 185333,
       "name": "Periferia",
       "url": "https://open.spotify.com/track/1CY1iQFjmW1m64qXSEtB8d"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "El Encanto Del Fuego",
+        "url": "https://open.spotify.com/album/6tbGgz0PeqFJNXD4rhuZ97"
+      },
+      "artists": [
+        {
+          "name": "Paracaidistas",
+          "url": "https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP"
+        }
+      ],
+      "duration_ms": 242240,
+      "name": "Mirandonos",
+      "url": "https://open.spotify.com/track/4lZKP62LTSaJld949qz9ho"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "diez de espadas",
-        "url": "https://open.spotify.com/album/3Nm1oWNavNYYIf1O2EPsNL"
-      },
-      "artists": [
-        {
-          "name": "( Me Llamo ) Sebasti\u00e1n",
-          "url": "https://open.spotify.com/artist/5PoJhiT21fXvZitg3guhiJ"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "A la vez",
-      "url": "https://open.spotify.com/track/3kIrn2c1Kg8Gpk8DOCB5XR"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Casinaranja",
         "url": "https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 219031,
       "name": "Tenemos que cocinar",
       "url": "https://open.spotify.com/track/1YbGVGstbsBL4rYrtHREEv"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "diez de espadas",
+        "url": "https://open.spotify.com/album/3Nm1oWNavNYYIf1O2EPsNL"
+      },
+      "artists": [
+        {
+          "name": "( Me Llamo ) Sebasti\u00e1n",
+          "url": "https://open.spotify.com/artist/5PoJhiT21fXvZitg3guhiJ"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "A la vez",
+      "url": "https://open.spotify.com/track/3kIrn2c1Kg8Gpk8DOCB5XR"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Altar",
-        "url": "https://open.spotify.com/album/5Of6u6hOh4T6cSfvPss2A1"
-      },
-      "artists": [
-        {
-          "name": "I.O.",
-          "url": "https://open.spotify.com/artist/0W7i4dR3G2zB88NtkMkVgf"
-        },
-        {
-          "name": "Paz Court",
-          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
-        }
-      ],
-      "duration_ms": 244650,
-      "name": "Hoy So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/1Fc1OHnVMXVhkJTgAZtKM9"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Viejita M\u00cda",
         "url": "https://open.spotify.com/album/4sNqiULYzQn616xc9J08Jt"
       },
@@ -1531,22 +1511,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Rally",
-        "url": "https://open.spotify.com/album/6QfsP07cjoW5kXagEQ4pUU"
+        "name": "Altar",
+        "url": "https://open.spotify.com/album/5Of6u6hOh4T6cSfvPss2A1"
       },
       "artists": [
         {
-          "name": "Gato Seco",
-          "url": "https://open.spotify.com/artist/2NLUJSt3guR3neAYbIkoeN"
+          "name": "I.O.",
+          "url": "https://open.spotify.com/artist/0W7i4dR3G2zB88NtkMkVgf"
         },
         {
-          "name": "Broken Pupil",
-          "url": "https://open.spotify.com/artist/5JAaAOkiGzGNIKi53DlGKE"
+          "name": "Paz Court",
+          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
         }
       ],
-      "duration_ms": 124009,
-      "name": "Rally",
-      "url": "https://open.spotify.com/track/7qq884i3tcpxJ1UIMPuH8g"
+      "duration_ms": 244650,
+      "name": "Hoy So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/1Fc1OHnVMXVhkJTgAZtKM9"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1563,6 +1543,26 @@
       "duration_ms": 241500,
       "name": "Las Piedras",
       "url": "https://open.spotify.com/track/5FMyNDgr11zcBsxfilA005"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Rally",
+        "url": "https://open.spotify.com/album/6QfsP07cjoW5kXagEQ4pUU"
+      },
+      "artists": [
+        {
+          "name": "Gato Seco",
+          "url": "https://open.spotify.com/artist/2NLUJSt3guR3neAYbIkoeN"
+        },
+        {
+          "name": "Broken Pupil",
+          "url": "https://open.spotify.com/artist/5JAaAOkiGzGNIKi53DlGKE"
+        }
+      ],
+      "duration_ms": 124009,
+      "name": "Rally",
+      "url": "https://open.spotify.com/track/7qq884i3tcpxJ1UIMPuH8g"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "Florecer",
+        "url": "https://open.spotify.com/album/1qs77TorQo8steHqvrmvKK"
+      },
+      "artists": [
+        {
+          "name": "D\u00e9jenme Dormir",
+          "url": "https://open.spotify.com/artist/0wlw3iBVFnAzSviZyLjxDJ"
+        }
+      ],
+      "duration_ms": 180500,
+      "name": "Florecer",
+      "url": "https://open.spotify.com/track/2t9pRdwTzwgI3ZW6GKC8LO"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "Sal (Reversi\u00f3n)",
         "url": "https://open.spotify.com/album/5ROTJPrKaWvaKNkIRn1ZgL"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 152517,
       "name": "Sal - Reversi\u00f3n",
       "url": "https://open.spotify.com/track/3ftpY64u6Vgv6KzerJJs8U"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "Florecer",
-        "url": "https://open.spotify.com/album/1qs77TorQo8steHqvrmvKK"
-      },
-      "artists": [
-        {
-          "name": "D\u00e9jenme Dormir",
-          "url": "https://open.spotify.com/artist/0wlw3iBVFnAzSviZyLjxDJ"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "Florecer",
-      "url": "https://open.spotify.com/track/2t9pRdwTzwgI3ZW6GKC8LO"
     },
     {
       "added_at": "2023-04-21 03:00:00",

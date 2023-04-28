@@ -1,12 +1,12 @@
 {
   "description": "Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles. Cover: Ezra Koenig",
-  "num_followers": 100989,
+  "num_followers": 101002,
   "original_name": "Spotify Singles: Indie & Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ3NzY3MywwMDAwMDAwMGRlZDVjNzgwNGVlZjZmMjEwODg5NzcwOWQ4MDBlMzI2",
+  "snapshot_id": "MCwwN2YyYjkxZmUyMDVhZmU4MWI4NGE2NTkxOWIwODEwOTY4ZjJlOTEz",
   "tracks": [
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1344,26 +1344,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1q9zrdj7DWcEjLbnHNbc3M"
-      },
-      "artists": [
-        {
-          "name": "Teddy Geiger",
-          "url": "https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC"
-        },
-        {
-          "name": "teddy<3",
-          "url": "https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW"
-        }
-      ],
-      "duration_ms": 241193,
-      "name": "Brass in Pocket",
-      "url": "https://open.spotify.com/track/1WWjk9bvVsFDcMgpG3hG7t"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5aWs6pUwG4gPNJxCF4wOwy"
       },
       "artists": [
@@ -1379,6 +1359,26 @@
       "duration_ms": 257712,
       "name": "Come On Up To The House (feat. X Ambassadors) - Spotify Singles",
       "url": "https://open.spotify.com/track/2DVBF5MoZYTzxmfZl8ex2H"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1q9zrdj7DWcEjLbnHNbc3M"
+      },
+      "artists": [
+        {
+          "name": "Teddy Geiger",
+          "url": "https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC"
+        },
+        {
+          "name": "teddy<3",
+          "url": "https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW"
+        }
+      ],
+      "duration_ms": 241193,
+      "name": "Brass in Pocket",
+      "url": "https://open.spotify.com/track/1WWjk9bvVsFDcMgpG3hG7t"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1416,22 +1416,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0KXD9ty7gjj5C6XKAFezMg"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 463336,
-      "name": "Taste - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6sCUJD28AaThoqhras0jcu"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4HKJv2TGDJlUektNzVgFzQ"
       },
       "artists": [
@@ -1443,6 +1427,22 @@
       "duration_ms": 209542,
       "name": "Ride - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5pKJwIFF2FVHAV2DCYzjHh"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0KXD9ty7gjj5C6XKAFezMg"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 463336,
+      "name": "Taste - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6sCUJD28AaThoqhras0jcu"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1484,22 +1484,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 213480,
-      "name": "Dead Boys - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/1Ng4nksVkQboROGiRsvjBS"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS"
       },
       "artists": [
@@ -1511,6 +1495,22 @@
       "duration_ms": 192870,
       "name": "La Tirana - Spotify Singles",
       "url": "https://open.spotify.com/track/5UzRLiSBXVQh3rrxWUmBhc"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 213480,
+      "name": "Dead Boys - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/1Ng4nksVkQboROGiRsvjBS"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1580,6 +1580,22 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/68eMz3o7xJZLO9P2RJj2eI"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 221115,
+      "name": "Whole Wide World - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1r6JOvVgGQ2QU2uNrvk98g"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1KX4ZoGCzeRAkgHDXv0Wdz"
       },
       "artists": [
@@ -1596,17 +1612,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/68eMz3o7xJZLO9P2RJj2eI"
+        "url": "https://open.spotify.com/album/3PtrWbEYEoqYWpgMeIAFb9"
       },
       "artists": [
         {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 221115,
-      "name": "Whole Wide World - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1r6JOvVgGQ2QU2uNrvk98g"
+      "duration_ms": 214410,
+      "name": "Lay It on Me - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3WkcZXy8frwOqLdlzrOdph"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1639,22 +1655,6 @@
       "duration_ms": 151680,
       "name": "Panic - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3Fq3PEdN2zuw2SsDD732eg"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3PtrWbEYEoqYWpgMeIAFb9"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 214410,
-      "name": "Lay It on Me - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3WkcZXy8frwOqLdlzrOdph"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -2032,17 +2032,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0VPhyqqDEary03vLt02DtZ"
+        "url": "https://open.spotify.com/album/5G3oIEkrH07sffZrAEJwGN"
       },
       "artists": [
         {
-          "name": "Tom Speight",
-          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
         }
       ],
-      "duration_ms": 171821,
-      "name": "Medicine - Recorded at RAK Studios, London",
-      "url": "https://open.spotify.com/track/1A3NiaB0GaoMEknklRTuX9"
+      "duration_ms": 277563,
+      "name": "Don't Delete The Kisses - Recorded at Spotify Studios London",
+      "url": "https://open.spotify.com/track/1hZyADicbo5k0OQbwcxVEo"
     }
   ],
   "unique_name": "Spotify Singles: Indie & Alternative",

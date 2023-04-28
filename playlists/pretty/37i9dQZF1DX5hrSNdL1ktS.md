@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Lo nuevo del popetón y reggaetón emergente en MX, con Yng Lvcas y Peso Pluma en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,671 likes - 55 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,715 likes - 55 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 34 | [La Oportunidad \- Spotify Singles](https://open.spotify.com/track/4TSdm4ySoU7RMVhTFWLp2m) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [La Oportunidad \- Spotify Singles](https://open.spotify.com/album/1dVeSK7GcCkjb9Q8MaiyQy) | 3:27 |
 | 35 | [La Última Noche](https://open.spotify.com/track/4ECQfOTkdWbWpd62UJk796) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [La Última Noche](https://open.spotify.com/album/5C8YQntAB1w3a3l76DJY9N) | 2:42 |
 | 36 | [Las Gatas](https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Las Gatas](https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n) | 2:26 |
-| 37 | [Maldita Urgencia](https://open.spotify.com/track/5fhriWk2qGy6ZopaKcek6g) | [Mendoza](https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Maldita Urgencia](https://open.spotify.com/album/4j3yFFcDocw8Da3MKxPFy9) | 2:58 |
-| 38 | [Kawasaki](https://open.spotify.com/track/2PsoB4xiGvxgpkYVbUj2TQ) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Kawasaki](https://open.spotify.com/album/7bNlYJL23unjxt02PnnefB) | 2:38 |
+| 37 | [Kawasaki](https://open.spotify.com/track/2PsoB4xiGvxgpkYVbUj2TQ) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Kawasaki](https://open.spotify.com/album/7bNlYJL23unjxt02PnnefB) | 2:38 |
+| 38 | [Maldita Urgencia](https://open.spotify.com/track/5fhriWk2qGy6ZopaKcek6g) | [Mendoza](https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Maldita Urgencia](https://open.spotify.com/album/4j3yFFcDocw8Da3MKxPFy9) | 2:58 |
 | 39 | [Equivocado](https://open.spotify.com/track/371Q3sLN68N4rwkw4ObnTp) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Equivocado](https://open.spotify.com/album/5J8KXckopyAatMvWk2nyvI) | 4:06 |
 | 40 | [Se Siente Bien](https://open.spotify.com/track/1XEmFjZdshi5oQ6qsV44TQ) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Gitana Kamp](https://open.spotify.com/artist/55SWiLP14cnNXQKVJj36ps) | [Gitana Kamp, Vol\. I](https://open.spotify.com/album/2pgf9362aDcXAR8V5pE2A2) | 2:26 |
 | 41 | [Prende y Fuma](https://open.spotify.com/track/2l1gClWNT7axdvdHiHCBy1) | [Kevin Santin](https://open.spotify.com/artist/0CH20f2zSaGWyFnuJM9EsW), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Prende y Fuma](https://open.spotify.com/album/5LpJAVFzv017KcuUppdoj8) | 2:53 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 54 | [Discotequera](https://open.spotify.com/track/5nUbVeL78iikt7qEnNSij5) | [Fran Lorenz](https://open.spotify.com/artist/1ZwW6tG1kVnq1XBGfu3tOB), [Ale Mix](https://open.spotify.com/artist/2uxoElzOZDIX9L5Dc7Oa2F), [Riko Mix](https://open.spotify.com/artist/4tLNdBKmqrgKBjgcnKCdeP) | [Discotequera](https://open.spotify.com/album/4cpDqJY2bMij4QTCylkjTI) | 2:53 |
 | 55 | [Mala Suerte](https://open.spotify.com/track/5DlIHONh8EZTGHhLYJX8ch) | [Sofi Mata](https://open.spotify.com/artist/3k49gtP15SIgPmlKMSiD1V) | [Mala Suerte](https://open.spotify.com/album/2GN3UKyz4WVNfFHqriMc33) | 3:18 |
 
-Snapshot ID: `MTY4MjExMTEwMywwMDAwMDAwMDQ0YmRmODVhMDBjNWJlMDdjNTY2Zjc5ZmY2N2Y0Yzhk`
+Snapshot ID: `MCwxZTZhZjE0NmI1OGMzYmUyNzQ3MWMyZDI1ZGZhMDI1Y2M4YTU2MjQ0`

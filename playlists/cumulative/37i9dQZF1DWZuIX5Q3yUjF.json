@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: AISHA",
+  "description": "Il meglio dell'R&B italiano. Cover: cura",
   "name": "anima R&B",
   "tracks": [
     {
@@ -574,7 +574,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 159351,
       "name": "Calibro (feat. Pitta)",
       "url": "https://open.spotify.com/track/2M3fqyXX32HvADmoMfsV8s"
@@ -824,6 +824,24 @@
       "duration_ms": 127500,
       "name": "Chill Dans",
       "url": "https://open.spotify.com/track/4q7Z57pZSuSDOPC2m7Ni7W"
+    },
+    {
+      "album": {
+        "name": "ci sono anch'io",
+        "url": "https://open.spotify.com/album/2696jVbzYukZXG85xwsDds"
+      },
+      "artists": [
+        {
+          "name": "Dale",
+          "url": "https://open.spotify.com/artist/7ldxWvmHhkRb9VUV3D2dMv"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177945,
+      "name": "ci sono anch'io",
+      "url": "https://open.spotify.com/track/3vaJKoqZhrzXKakku9mLlG"
     },
     {
       "album": {
@@ -3295,6 +3313,24 @@
     },
     {
       "album": {
+        "name": "MareBuio",
+        "url": "https://open.spotify.com/album/535MtuAm0mq98dzcDPM8vt"
+      },
+      "artists": [
+        {
+          "name": "cura",
+          "url": "https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188640,
+      "name": "MareBuio",
+      "url": "https://open.spotify.com/track/734XqvVA3DDtVQq2GXEXFJ"
+    },
+    {
+      "album": {
         "name": "Margherita",
         "url": "https://open.spotify.com/album/4o8npqjy32DTAcpWqOVrlb"
       },
@@ -3520,6 +3556,24 @@
       "duration_ms": 187624,
       "name": "Nessuno",
       "url": "https://open.spotify.com/track/7EV3ONJpL7lmlQb75rlP2D"
+    },
+    {
+      "album": {
+        "name": "Nevada",
+        "url": "https://open.spotify.com/album/0msa8PlSu30TQYiU5RKbb7"
+      },
+      "artists": [
+        {
+          "name": "Dalya",
+          "url": "https://open.spotify.com/artist/5gGuTkbkyFWGnKtWzQ5NIS"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Nevada",
+      "url": "https://open.spotify.com/track/2lWNfdvULQlAg8abVzLRVi"
     },
     {
       "album": {
@@ -3936,7 +3990,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 169600,
       "name": "Ora per Ora",
       "url": "https://open.spotify.com/track/3AE0cJVoZIjDdTpOT7B2ZX"
@@ -4132,7 +4186,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 176003,
       "name": "Perdo Tempo",
       "url": "https://open.spotify.com/track/0QUbRVMAHMxiPt0TCUlNZM"
@@ -4948,7 +5002,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 182401,
       "name": "Sesto Senso",
       "url": "https://open.spotify.com/track/402WgUURAGH1QY4QXUPX9j"
@@ -5614,6 +5668,24 @@
       "duration_ms": 155320,
       "name": "Tra Mille",
       "url": "https://open.spotify.com/track/4fS7KNScimKvqgeUeASIW0"
+    },
+    {
+      "album": {
+        "name": "Il canto del villaggio (Atto I - Atto II)",
+        "url": "https://open.spotify.com/album/1sKRYlgEJNyLWHp2mcZwlL"
+      },
+      "artists": [
+        {
+          "name": "Livrea",
+          "url": "https://open.spotify.com/artist/64fhIeqXVHuWtTrmoT8HG0"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327705,
+      "name": "Tracce amare",
+      "url": "https://open.spotify.com/track/249hgXSjY6afOd2ncCoS7y"
     },
     {
       "album": {

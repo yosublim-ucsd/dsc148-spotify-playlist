@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: DRAM",
-  "num_followers": 40911,
+  "num_followers": 40924,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMGY1Y2VhZDc4MTcxMjA5NWQ5YjcyY2JkMzY4NGJjNzU1",
+  "snapshot_id": "MCxjOThkZWFlYTBmYzY1ZTQ0ODNmMjFkN2QwN2UyYzBhMTE3NzQ5M2E5",
   "tracks": [
     {
       "added_at": "2023-04-21 04:00:00",
@@ -657,22 +657,6 @@
       "url": "https://open.spotify.com/track/1muiS9jrDUTADqIE7yKuYV"
     },
     {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 197094,
-      "name": "Constant Bullshit",
-      "url": "https://open.spotify.com/track/1luvsaicSpNDRLgOtRZxWO"
-    },
-    {
       "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Soulection Takeover: 2K23 Edition",
@@ -691,6 +675,22 @@
       "duration_ms": 110400,
       "name": "Step 2 Me",
       "url": "https://open.spotify.com/track/57tg0m3Iu8YzWyaDfFfDtR"
+    },
+    {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 197094,
+      "name": "Constant Bullshit",
+      "url": "https://open.spotify.com/track/1luvsaicSpNDRLgOtRZxWO"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -985,22 +985,6 @@
       "url": "https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL"
     },
     {
-      "added_at": "2022-10-28 04:22:42",
-      "album": {
-        "name": "Bout Mine",
-        "url": "https://open.spotify.com/album/6Sw7bDrqFYxuHZT7eSHhEK"
-      },
-      "artists": [
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 147613,
-      "name": "Bout Mine",
-      "url": "https://open.spotify.com/track/2LvIbGvUKWgVhkKG1SfpYZ"
-    },
-    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "Still Over It",
@@ -1015,6 +999,22 @@
       "duration_ms": 200472,
       "name": "You Don\u2019t Know Me",
       "url": "https://open.spotify.com/track/7gpIj4wMeTKptFxetrNKzY"
+    },
+    {
+      "added_at": "2022-10-28 04:22:42",
+      "album": {
+        "name": "Bout Mine",
+        "url": "https://open.spotify.com/album/6Sw7bDrqFYxuHZT7eSHhEK"
+      },
+      "artists": [
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 147613,
+      "name": "Bout Mine",
+      "url": "https://open.spotify.com/track/2LvIbGvUKWgVhkKG1SfpYZ"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1201,22 +1201,6 @@
       "url": "https://open.spotify.com/track/1X2Ec2pLTtapRlpECgnGdN"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "World In My Hands",
-        "url": "https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT"
-      },
-      "artists": [
-        {
-          "name": "LAVI$H",
-          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
-        }
-      ],
-      "duration_ms": 194401,
-      "name": "World In My Hands",
-      "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
-    },
-    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "TOP BOY",
@@ -1235,6 +1219,22 @@
       "duration_ms": 123157,
       "name": "Bow Down",
       "url": "https://open.spotify.com/track/6PoD6ZYOAMkCJAbpAgpT1T"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "World In My Hands",
+        "url": "https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT"
+      },
+      "artists": [
+        {
+          "name": "LAVI$H",
+          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
+        }
+      ],
+      "duration_ms": 194401,
+      "name": "World In My Hands",
+      "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -1337,22 +1337,6 @@
       "url": "https://open.spotify.com/track/4Yd30sxNlXmpsf5IYsoMhf"
     },
     {
-      "added_at": "2023-03-03 05:16:10",
-      "album": {
-        "name": "Myself",
-        "url": "https://open.spotify.com/album/3PsH9MTBkf2eyhFb8mHB6a"
-      },
-      "artists": [
-        {
-          "name": "August Alsina",
-          "url": "https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM"
-        }
-      ],
-      "duration_ms": 152545,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/1MSKQ5sxTezNLajz0CBlWk"
-    },
-    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Glowin 4 Me",
@@ -1369,6 +1353,22 @@
       "url": "https://open.spotify.com/track/5jI8xKMCIEToPXuXdFCoFJ"
     },
     {
+      "added_at": "2023-03-03 05:16:10",
+      "album": {
+        "name": "Myself",
+        "url": "https://open.spotify.com/album/3PsH9MTBkf2eyhFb8mHB6a"
+      },
+      "artists": [
+        {
+          "name": "August Alsina",
+          "url": "https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM"
+        }
+      ],
+      "duration_ms": 152545,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/1MSKQ5sxTezNLajz0CBlWk"
+    },
+    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "$weet n $our",
@@ -1383,22 +1383,6 @@
       "duration_ms": 183588,
       "name": "$weet n $our",
       "url": "https://open.spotify.com/track/6xxPmqOp8AbM32rEiJ3AQ4"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/78caTHJtZQmmxYWS6xRyzi"
-      },
-      "artists": [
-        {
-          "name": "Reggie Becton",
-          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
-        }
-      ],
-      "duration_ms": 175999,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1431,6 +1415,22 @@
       "duration_ms": 187484,
       "name": "Overrated",
       "url": "https://open.spotify.com/track/70Kv6vWsCZeQryTBebFvbX"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/78caTHJtZQmmxYWS6xRyzi"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        }
+      ],
+      "duration_ms": 175999,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1469,22 +1469,6 @@
       "url": "https://open.spotify.com/track/4V4hP1FCrFDuDOx7s5KKtY"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "uni",
-        "url": "https://open.spotify.com/album/7rrvVm50jHKqjQ8wbjFRsm"
-      },
-      "artists": [
-        {
-          "name": "80purppp",
-          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "uni",
-      "url": "https://open.spotify.com/track/3zMZ4ymzVVzRCFpcKpBM6M"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "SATIN",
@@ -1499,6 +1483,22 @@
       "duration_ms": 141428,
       "name": "DOWN BAD",
       "url": "https://open.spotify.com/track/48pi6NxVvt4npqDnLBi0iK"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "uni",
+        "url": "https://open.spotify.com/album/7rrvVm50jHKqjQ8wbjFRsm"
+      },
+      "artists": [
+        {
+          "name": "80purppp",
+          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "uni",
+      "url": "https://open.spotify.com/track/3zMZ4ymzVVzRCFpcKpBM6M"
     },
     {
       "added_at": "2023-03-03 05:16:10",
@@ -1521,6 +1521,22 @@
       "url": "https://open.spotify.com/track/73Vj0bDzuk77zsgxA0ujKG"
     },
     {
+      "added_at": "2022-10-28 04:22:42",
+      "album": {
+        "name": "Dreams 2 Reality",
+        "url": "https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 170937,
+      "name": "Divide",
+      "url": "https://open.spotify.com/track/4cGpNrOWFOonEF9yt9Z1Xi"
+    },
+    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "What It Do",
@@ -1539,22 +1555,6 @@
       "duration_ms": 185566,
       "name": "What It Do (with Fridayy)",
       "url": "https://open.spotify.com/track/6KkeXDWP0gvoJkouKmF6De"
-    },
-    {
-      "added_at": "2022-10-28 04:22:42",
-      "album": {
-        "name": "Dreams 2 Reality",
-        "url": "https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 170937,
-      "name": "Divide",
-      "url": "https://open.spotify.com/track/4cGpNrOWFOonEF9yt9Z1Xi"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1605,22 +1605,6 @@
       "url": "https://open.spotify.com/track/1vE21myOaFwE4GQzTfXKfS"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Standards",
-        "url": "https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ"
-      },
-      "artists": [
-        {
-          "name": "Keke Palmer",
-          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
-        }
-      ],
-      "duration_ms": 186294,
-      "name": "Standards",
-      "url": "https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe"
-    },
-    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Pressure (Remix)",
@@ -1639,6 +1623,22 @@
       "duration_ms": 180013,
       "name": "Pressure - Remix",
       "url": "https://open.spotify.com/track/36TzL54XxuCR91U5wBSR6h"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Standards",
+        "url": "https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ"
+      },
+      "artists": [
+        {
+          "name": "Keke Palmer",
+          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
+        }
+      ],
+      "duration_ms": 186294,
+      "name": "Standards",
+      "url": "https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -1693,20 +1693,20 @@
       "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
+      "added_at": "2022-08-05 04:11:54",
       "album": {
-        "name": "Thanks 4 Nothing",
-        "url": "https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi"
+        "name": "flora + fana",
+        "url": "https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg"
       },
       "artists": [
         {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
         }
       ],
-      "duration_ms": 149020,
-      "name": "New Nigga",
-      "url": "https://open.spotify.com/track/03sBdwtbA0t5mGOcqHxBXB"
+      "duration_ms": 164163,
+      "name": "pieces",
+      "url": "https://open.spotify.com/track/2o9aMaRxK62Nw8KdONNoZU"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1725,20 +1725,20 @@
       "url": "https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN"
     },
     {
-      "added_at": "2022-08-05 04:11:54",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "flora + fana",
-        "url": "https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg"
+        "name": "Thanks 4 Nothing",
+        "url": "https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi"
       },
       "artists": [
         {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
         }
       ],
-      "duration_ms": 164163,
-      "name": "pieces",
-      "url": "https://open.spotify.com/track/2o9aMaRxK62Nw8KdONNoZU"
+      "duration_ms": 149020,
+      "name": "New Nigga",
+      "url": "https://open.spotify.com/track/03sBdwtbA0t5mGOcqHxBXB"
     },
     {
       "added_at": "2023-03-17 04:00:00",

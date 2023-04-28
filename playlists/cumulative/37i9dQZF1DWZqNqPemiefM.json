@@ -1895,6 +1895,28 @@
     },
     {
       "album": {
+        "name": "Dreamers",
+        "url": "https://open.spotify.com/album/6qmhfgJbhUzovh7CFJkI8u"
+      },
+      "artists": [
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+        },
+        {
+          "name": "Priscilla Ahn",
+          "url": "https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Dreamers",
+      "url": "https://open.spotify.com/track/6nBlbZBSMEgawmi7nF7H1Y"
+    },
+    {
+      "album": {
         "name": "Re:",
         "url": "https://open.spotify.com/album/4Z1jNDMJ1v7O38ZlD5wM90"
       },
@@ -2612,7 +2634,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 97866,
       "name": "Going To The Sea",
       "url": "https://open.spotify.com/track/2e9PA5stDJoLkcLWN3KVCI"

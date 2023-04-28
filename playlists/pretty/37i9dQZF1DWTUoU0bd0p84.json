@@ -1,12 +1,12 @@
 {
   "description": "The songs from the 2000s that will make you dance all summer long!",
-  "num_followers": 226819,
+  "num_followers": 226911,
   "original_name": "Summer Hits of the 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTMyMzIwMCwwMDAwMDAwMGU0YjEzMmIwZjU1Yzk2NmZiMGQ3YmNjYTNmNTM4YzU5",
+  "snapshot_id": "MCwwYTA0NWRhMDQ5ZDBiNmVmMjlhMjdlOTk5MTNkN2E4MTBiODQ0MWQ0",
   "tracks": [
     {
       "added_at": "2022-05-14 23:40:23",
@@ -1763,22 +1763,18 @@
     {
       "added_at": "2022-05-14 23:40:23",
       "album": {
-        "name": "One Love (Deluxe)",
-        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
+        "name": "Songs In A Minor (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 195853,
-      "name": "Sexy Bitch (feat. Akon)",
-      "url": "https://open.spotify.com/track/0uXO2GrNiIb1xHT9LUdxZE"
+      "duration_ms": 210200,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/3unsLiH5FXmaDWtT5Imolu"
     }
   ],
   "unique_name": "Summer Hits of the 00s",

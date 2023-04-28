@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Silent Bob",
+  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Neima Ezza",
   "name": "Plus Ultra",
   "tracks": [
+    {
+      "album": {
+        "name": "100 OPPS",
+        "url": "https://open.spotify.com/album/4wYRRwVSMgQY5YBwqo67w6"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167771,
+      "name": "100 OPPS",
+      "url": "https://open.spotify.com/track/32VGaGAXpPFYh0XgmHp7lI"
+    },
     {
       "album": {
         "name": "Teoria Del Contrario Mixtape Vol. 2",
@@ -164,7 +182,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 182562,
       "name": "ACQUA TONICA (feat. Geolier & Junior K)",
       "url": "https://open.spotify.com/track/3WVXxfB3B76CkG2wglKotj"
@@ -230,7 +248,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 160051,
       "name": "Alleluia (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/1MboxS3hV7Wr8UVO59uRth"
@@ -2100,7 +2118,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 217086,
       "name": "FIUMI ROS\u00c9 (feat. Ernia & Neima Ezza)",
       "url": "https://open.spotify.com/track/2LGYGPBAl0Vm4mJ9jjcRcd"
@@ -5955,6 +5973,28 @@
     },
     {
       "album": {
+        "name": "Vida Mala (feat. Medy)",
+        "url": "https://open.spotify.com/album/4UbeTkpOQKC95anCPKd7q0"
+      },
+      "artists": [
+        {
+          "name": "Vale Pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        },
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154778,
+      "name": "Vida Mala (feat. Medy)",
+      "url": "https://open.spotify.com/track/0ejEtuL3QsV1xvnHysuoVp"
+    },
+    {
+      "album": {
         "name": "Milano Demons",
         "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
       },
@@ -5974,6 +6014,28 @@
       "duration_ms": 191257,
       "name": "Vorrei (feat. Lazza)",
       "url": "https://open.spotify.com/track/5IbrGxWxB427KJEDrphgRN"
+    },
+    {
+      "album": {
+        "name": "WAO",
+        "url": "https://open.spotify.com/album/6nMTRVyMQdql9a5Afk1lOD"
+      },
+      "artists": [
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        },
+        {
+          "name": "Blssd",
+          "url": "https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149464,
+      "name": "WAO",
+      "url": "https://open.spotify.com/track/24mzKw9LcwPNUMHSFAarvJ"
     },
     {
       "album": {

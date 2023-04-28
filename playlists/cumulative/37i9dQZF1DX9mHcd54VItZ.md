@@ -2,9 +2,9 @@
 
 ### [SA Rock ](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
 
-> The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce?si=dHdeyPu5R\_iPqhI61YYh1A">The Tazers</a>
+> The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL?si=2tuFGhMOTQq74hieYvJjVw">Ruff Majik</a>
 
-243 songs - 14 hr 31 min
+247 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Allan](https://open.spotify.com/track/7EsJj7ryKHTThQpDxqP3ND) | [the klubs](https://open.spotify.com/artist/6hbEqXIhCdWLuQn3SUgibF) | [Allan](https://open.spotify.com/album/19kis2Tm2560bvWxFGBIoW) | 3:18 | 2022-10-06 | 2023-02-17 |
 | [Always Remember](https://open.spotify.com/track/4MFcHNGVFZn3IKGvC5hLxx) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Always Remember](https://open.spotify.com/album/3zb6zrs37yKTXMHdwPFkx9) | 3:49 | 2021-12-09 | 2022-11-18 |
 | [Anima](https://open.spotify.com/track/4Qyg5bCO8wA2K5KB3iZf7D) | [Sueños](https://open.spotify.com/artist/3AOLvJjBisGaLoFRWsVOPL) | [Anima](https://open.spotify.com/album/1d5hvQ7OYkZmpVfMLf9Vqj) | 5:22 | 2023-03-02 |  |
-| [Anker](https://open.spotify.com/track/7vcdnzmzZS0oNDpqLgfn3g) | [Arnold Bailie](https://open.spotify.com/artist/7xttIqt236FLfWKVsIDMxp) | [Anker](https://open.spotify.com/album/1Viibdh9TgQh4TGpkmnLth) | 2:47 | 2022-12-08 |  |
+| [Anker](https://open.spotify.com/track/7vcdnzmzZS0oNDpqLgfn3g) | [Arnold Bailie](https://open.spotify.com/artist/7xttIqt236FLfWKVsIDMxp) | [Anker](https://open.spotify.com/album/1Viibdh9TgQh4TGpkmnLth) | 2:47 | 2022-12-08 | 2023-04-28 |
 | [Aquarius Girl](https://open.spotify.com/track/7qPMIsXE4pVqzAVIN436va) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Love Bite](https://open.spotify.com/album/6oriENkGeG0n3RT2EJVFZo) | 3:38 | 2022-02-10 | 2022-05-27 |
 | [As Ek Jou Hoor Lag](https://open.spotify.com/track/1W5M5PXjBeLKgac4uMrbHO) | [Jan Bloukaas](https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic) | [As Ek Jou Hoor Lag](https://open.spotify.com/album/3GW8Df9g7461vot9mVJN29) | 2:46 | 2022-11-24 |  |
 | [As I Turn Away](https://open.spotify.com/track/6CwB8nrDMcPa9WhLdvYlUv) | [Jack Hammer Band](https://open.spotify.com/artist/33IsTMCKx8LrRejpXlG7tZ) | [As I Turn Away](https://open.spotify.com/album/62Ho9iSsrb6yX7lLMx36FS) | 4:35 | 2023-02-03 | 2023-03-18 |
@@ -94,6 +94,7 @@
 | [Flashlight](https://open.spotify.com/track/4Wyp39FezkRqfmm1m862ve) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Flashlight](https://open.spotify.com/album/6GfNLxzDAHsoYuVBylzslj) | 2:37 | 2021-07-01 | 2022-11-18 |
 | [For the Pain](https://open.spotify.com/track/2PQ7EO8J48fdluJVXHCcBi) | [Hawema](https://open.spotify.com/artist/6CWA38UpeY34SNOKY29peK) | [For the Pain](https://open.spotify.com/album/62lgMNaKQtizxmRYQSQu4I) | 4:01 | 2023-02-23 | 2023-03-18 |
 | [For You](https://open.spotify.com/track/4MVv8yUbBY2ISaZnCXSp1c) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx) | [For You](https://open.spotify.com/album/3gsHYTOr6ItG0LhHhj6S4J) | 3:34 | 2021-06-10 | 2022-03-04 |
+| [Free to Be Me](https://open.spotify.com/track/6k4VU38pmcRDCn2mRJIpQK) | [Billy Inglish](https://open.spotify.com/artist/6DuvxqW15mmbh6Dc9Nm6EC) | [Free to Be Me](https://open.spotify.com/album/2ESGR81JXO3gCEB0u3LdKR) | 3:39 | 2023-04-27 |  |
 | [Get Over Here](https://open.spotify.com/track/4hOMIOJ0aQCFDv14JMFNva) | [Aimee deBeer](https://open.spotify.com/artist/3c3FUUJYZOv8Le1htg2Gl6) | [Get Over Here](https://open.spotify.com/album/26wwYmk7xmAl7YaTNZjhQ8) | 3:16 | 2022-05-26 | 2023-02-03 |
 | [Get Over Here](https://open.spotify.com/track/6DuZOFGc4LBr0HSbbd03q3) | [Aimee deBeer](https://open.spotify.com/artist/3c3FUUJYZOv8Le1htg2Gl6) | [Get Over Here](https://open.spotify.com/album/23aiLlsImhhiuCfYGcBpfC) | 3:16 | 2022-05-26 | 2023-01-28 |
 | [Gimme Love](https://open.spotify.com/track/4LSR4g2XMq2jbZtYUxhbUo) | [Kahn Morbee](https://open.spotify.com/artist/2iWHEO8h8v3D9lITyyB6GF) | [A World at Suicide](https://open.spotify.com/album/1qxiiW0tmFS9RtARMdxXXe) | 3:33 | 2021-10-07 | 2022-08-05 |
@@ -115,7 +116,7 @@
 | [In Die Son](https://open.spotify.com/track/3FWouV30HIUtD9cs89Aiou) | [Frans Karoo](https://open.spotify.com/artist/327EzTZc6z3mGwHbdaNKBO) | [Braambos Radio](https://open.spotify.com/album/7DUqi6xcyUDNkdCS4gvKal) | 3:45 | 2023-01-26 | 2023-03-25 |
 | [In My Mind](https://open.spotify.com/track/4QIujxtLqnP1AGndp7fNlR) | [The Tazers](https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce) | [In My mind](https://open.spotify.com/album/6t2MjbEdLrdir2i4bIN0kL) | 3:03 | 2023-03-02 | 2023-04-21 |
 | [In Search of Better Days](https://open.spotify.com/track/3jywquF2vpOwQoKfQ5Nv2Y) | [Kahn Morbee](https://open.spotify.com/artist/2iWHEO8h8v3D9lITyyB6GF) | [A World at Suicide](https://open.spotify.com/album/1qxiiW0tmFS9RtARMdxXXe) | 4:44 | 2021-09-23 | 2022-04-01 |
-| [IN TIME](https://open.spotify.com/track/6y7Y65Klj3xweqD4aGMJeC) | [FAXXON](https://open.spotify.com/artist/09g0uGvlDQ3TmMnZgjl4rf) | [IN TIME](https://open.spotify.com/album/4ARwLOhAqcNho5PfqJt9wl) | 2:43 | 2023-02-02 |  |
+| [IN TIME](https://open.spotify.com/track/6y7Y65Klj3xweqD4aGMJeC) | [FAXXON](https://open.spotify.com/artist/09g0uGvlDQ3TmMnZgjl4rf) | [IN TIME](https://open.spotify.com/album/4ARwLOhAqcNho5PfqJt9wl) | 2:43 | 2023-02-02 | 2023-04-28 |
 | [Invisible Visitor](https://open.spotify.com/track/4NjEqKPBOXbKI88kdDPA9s) | [Far from Who We Are](https://open.spotify.com/artist/5942rdEHlZewFlsd3ThJvO) | [Invisible Visitor](https://open.spotify.com/album/5rMsebBa22S17tSHVcgUGP) | 3:51 | 2021-11-11 | 2022-03-25 |
 | [It's Hard](https://open.spotify.com/track/3EngfC1jCb8CtLQK1eWiWj) | [No Handshake](https://open.spotify.com/artist/4RPJk5WdHHuekc4UbGRErk) | [It's Hard](https://open.spotify.com/album/1v8tCzFlpw6f2VRAj6xgVM) | 3:06 | 2021-09-02 | 2022-04-01 |
 | [Jou Skoene](https://open.spotify.com/track/7FHRJmJRWB3qjUsn4B65HM) | [Arnold Bailie](https://open.spotify.com/artist/7xttIqt236FLfWKVsIDMxp) | [Jou Skoene](https://open.spotify.com/album/3uduux6dMKTobDSo6e6DAG) | 3:36 | 2023-02-09 | 2023-04-22 |
@@ -166,6 +167,7 @@
 | [OVERTHINKING](https://open.spotify.com/track/4hZR6HRe5UnXs5CqdIjIen) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Christian James](https://open.spotify.com/artist/3vIPpGcOC1CWD5MVg9xX8x) | [OVERTHINKING](https://open.spotify.com/album/5N6VbOBsJUIaMlihQn6S5M) | 1:48 | 2022-05-26 | 2022-12-16 |
 | [Parasite](https://open.spotify.com/track/1wJsjT1Oo2Kh2H3J9WOmde) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Distopia](https://open.spotify.com/album/1D37tFbgePiH2NuBrzOAm9) | 3:33 | 2022-10-06 | 2022-12-16 |
 | [Parasite](https://open.spotify.com/track/30QoZ68McWKW7jNcznqYAc) | [Hunter Kennedy](https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi) | [Parasite](https://open.spotify.com/album/03kcrEFLCsPQ5pnev44X5S) | 2:42 | 2022-03-18 | 2022-08-05 |
+| [Partners in Crime](https://open.spotify.com/track/0nwyYEJoZAhx1lkj0C95Qs) | [Marene](https://open.spotify.com/artist/5CMKKbyPMl9Ry6Kl1m8u1I) | [Partners in Crime](https://open.spotify.com/album/1qjw3P90aCqZ4jGJIWNn7D) | 3:39 | 2023-04-27 |  |
 | [PITY PARTY](https://open.spotify.com/track/275HPZ0ZqO7aVvP0oNqO5b) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Brogan the band](https://open.spotify.com/artist/6hyyfSQkg85RaqUiyflfZc) | [PITY PARTY](https://open.spotify.com/album/44aRUzG8io87BE9XUIhYy8) | 2:27 | 2022-09-22 | 2023-01-27 |
 | [Prodigal Son](https://open.spotify.com/track/3CJRVQvgxk4vA5ezsADTRf) | [Wonderboom](https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx) | [Prodigal Son](https://open.spotify.com/album/7rNLF1btPIbjQ0OKHArllT) | 3:31 | 2021-11-11 | 2022-08-05 |
 | [Psycho Killer \- Single Version](https://open.spotify.com/track/52pS1roeMc4TUNkBDiSUYW) | [The Medicine Dolls](https://open.spotify.com/artist/2kmitkJxxZXckoOmXtAese) | [Psycho Killer](https://open.spotify.com/album/7cTCOfxcE0S8iHCGCCrdXG) | 3:59 | 2021-05-06 | 2022-09-03 |
@@ -173,6 +175,7 @@
 | [Questions Later](https://open.spotify.com/track/2WBMiKKv3yltabqkdxEgWD) | [Yorxe](https://open.spotify.com/artist/6S4m4nLUKn7OuavvVKQWv8) | [Questions Later](https://open.spotify.com/album/6EVHtMDTZt2V13x7uDGEUb) | 2:45 | 2023-03-09 |  |
 | [Quit It](https://open.spotify.com/track/0EcRozLgRMqpcoaZK92xHd) | [Black Cat Bones](https://open.spotify.com/artist/1qg7JzFBXX7rU711SFfPgO) | [Quit It](https://open.spotify.com/album/1YoAazxKlSbG2lvw6PYygm) | 4:29 | 2022-03-17 | 2022-12-09 |
 | [Raise a Glass](https://open.spotify.com/track/27RgZXuRhyJpxhomzhFi70) | [Kabaal Klankbaan](https://open.spotify.com/artist/4HrNCPJFdxokdkYcRHk4mb) | [Hunted Women](https://open.spotify.com/album/1NLDUu7ubHfSYJhJG8nEUp) | 3:08 | 2021-11-11 | 2022-03-18 |
+| [Rave to the Grave](https://open.spotify.com/track/0yidnSQ53CqoAEhb4ZqNBK) | [Ruff Majik](https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL) | [Elektrik Ram](https://open.spotify.com/album/4HpDEF8FVhuaXWAz1Sr4Je) | 2:52 | 2023-04-27 |  |
 | [Ready to Die](https://open.spotify.com/track/0s0DYUz6tg1Ma14AV2zD9R) | [The Tazers](https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce) | [Ready to Die](https://open.spotify.com/album/3stCq0SbASgsSGZH2cjMb1) | 3:50 | 2022-03-17 | 2022-09-23 |
 | [Red Handed](https://open.spotify.com/track/2G0YeSyBBpGRDk1p2xMZe8) | [Shortstraw](https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt) | [Fine thanks, and you?](https://open.spotify.com/album/7w9HwmPatYwQd2MgIUqyM8) | 5:07 | 2022-03-31 | 2022-11-18 |
 | [Redgrave](https://open.spotify.com/track/0hhRBa8XLU01VpjzrBdmTZ) | [Mann Friday](https://open.spotify.com/artist/5mIQ8NjjqcuGvlboXVzJV8) | [Redgrave](https://open.spotify.com/album/77dtolOhRvRmsPHpu2FuIY) | 3:33 | 2023-04-14 |  |
@@ -201,7 +204,7 @@
 | [Something To Believe In](https://open.spotify.com/track/2RvRa53Ni5Nd5H1IJpjjNl) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7) | [Something To Believe In](https://open.spotify.com/album/6JFNJNx2lZRM61wq2Ov4Cp) | 3:21 | 2022-02-10 | 2022-09-23 |
 | [Somewhere Chill \- Radio Edit](https://open.spotify.com/track/0bW4UyOIu9XqLxboQwzdKO) | [John Niel](https://open.spotify.com/artist/4Ad2R0V0nC2N2AmXCmq9NA) | [Somewhere Chill \(Radio Edit\)](https://open.spotify.com/album/2aGoeqEDHNVVSOk2NGwJto) | 3:05 | 2021-12-09 | 2022-08-05 |
 | [Soul Parasite](https://open.spotify.com/track/3iRDYHlQZqw3B4SQJqAREz) | [Dan Patlansky](https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5) | [Shelter Of Bones](https://open.spotify.com/album/67yaompS5Qlr7T4OZxiyJr) | 3:31 | 2022-02-25 | 2022-11-25 |
-| [Stars](https://open.spotify.com/track/2FWNe8tTLt0bCJBOY9nPWc) | [3's and 7's](https://open.spotify.com/artist/1kVg5h8vTlaeO6BG4Tpf5H) | [Stars](https://open.spotify.com/album/7gx4tHQGiQWj7JP0McroDJ) | 5:16 | 2023-01-12 |  |
+| [Stars](https://open.spotify.com/track/2FWNe8tTLt0bCJBOY9nPWc) | [3's and 7's](https://open.spotify.com/artist/1kVg5h8vTlaeO6BG4Tpf5H) | [Stars](https://open.spotify.com/album/7gx4tHQGiQWj7JP0McroDJ) | 5:16 | 2023-01-12 | 2023-04-28 |
 | [State of Emergency](https://open.spotify.com/track/14DeZipuC3gNdBBrKXnoSN) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7) | [State of Emergency](https://open.spotify.com/album/307UnF5MmOp0ilqPRPqGIj) | 3:12 | 2021-10-14 | 2022-03-25 |
 | [Stay](https://open.spotify.com/track/1pc4xCCi7VhemQGSk8eQyz) | [CrashCarBurn](https://open.spotify.com/artist/184sdcjHnD6iVWbPEhxJoC) | [Stay](https://open.spotify.com/album/41bORE1k7ez2pWNJDXz0Ls) | 3:16 | 2022-09-22 | 2023-02-24 |
 | [Stay With Me](https://open.spotify.com/track/6Ka2NTLf6eD4oZEUAbLgt7) | [Yorxe](https://open.spotify.com/artist/6S4m4nLUKn7OuavvVKQWv8) | [Stay With Me](https://open.spotify.com/album/5Ok4qSR9XObWzkpgZlyK0B) | 2:45 | 2023-04-14 |  |
@@ -210,7 +213,7 @@
 | [STUPID](https://open.spotify.com/track/5BQUqHbrXfVOkxPXk8wOA5) | [Rachel Ralphs](https://open.spotify.com/artist/45AKtfze9DRVc86JgbtMT6) | [STUPID](https://open.spotify.com/album/33aejrX5zsSzKJTvNyMqvR) | 2:55 | 2023-03-23 |  |
 | [Suburban Casualty](https://open.spotify.com/track/0dfdQeAFmqYU73QISETk7K) | [Julian Place](https://open.spotify.com/artist/0l5bLIu2lwaoE2Jp15kVcr) | [Suburban Casualty](https://open.spotify.com/album/7tUR8nLZ32a4UoimsM3hmI) | 3:54 | 2022-12-08 | 2023-03-31 |
 | [Sugar](https://open.spotify.com/track/2zFcrZtmrvIftt0ZDcm6BI) | [Hellcats](https://open.spotify.com/artist/2AowMnfwcOgR3RuSuM8Hu8) | [Sugar](https://open.spotify.com/album/1OOERXBgIWpe4b2G0I6bpJ) | 2:57 | 2022-07-28 | 2022-09-16 |
-| [Sugar Tits](https://open.spotify.com/track/4zvgJZD3bm6V4axDHFErc3) | [Elle E](https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C) | [Sugar Tits](https://open.spotify.com/album/7pc2tW0f3iIfBeBjDmGQzv) | 3:27 | 2022-12-15 |  |
+| [Sugar Tits](https://open.spotify.com/track/4zvgJZD3bm6V4axDHFErc3) | [Elle E](https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C) | [Sugar Tits](https://open.spotify.com/album/7pc2tW0f3iIfBeBjDmGQzv) | 3:27 | 2022-12-15 | 2023-04-28 |
 | [Summer Sunshine](https://open.spotify.com/track/3P7P02UIJbX4tAHn999Db8) | [Howie Combrink](https://open.spotify.com/artist/4lGRkSUk4yUwS2qd5inP4J) | [Summer Sunshine](https://open.spotify.com/album/7baEJf3STZnHaHSyUkGp4y) | 4:00 | 2022-08-04 | 2023-02-10 |
 | [Swine Tooth Grin \- Single Mix](https://open.spotify.com/track/4ACcJ7UeiHv8x38bZGglYc) | [Ruff Majik](https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL) | [Swine Tooth Grin](https://open.spotify.com/album/6TdwPkCuK3VjO11HRwJIqT) | 3:33 | 2021-06-24 | 2022-03-25 |
 | [Taste of Freedom](https://open.spotify.com/track/57z2oHMHeYZqjr3db5dspc) | [Apollo Motel](https://open.spotify.com/artist/7ztNWtpfiEIPWu13f62d8t) | [Taste of Freedom](https://open.spotify.com/album/6meVX62WRMvgdkhmStMLIL) | 3:52 | 2023-03-16 |  |
@@ -236,6 +239,7 @@
 | [Until I Forget You](https://open.spotify.com/track/505KIwDfwJFpwVpza70TmC) | [Wayne Cumming](https://open.spotify.com/artist/7yOrr8uio6byKlQC6NLufS) | [Until I Forget You](https://open.spotify.com/album/5FLo5HPAAhRiKtNnpxuvqg) | 3:32 | 2022-02-03 | 2022-07-22 |
 | [Use Me](https://open.spotify.com/track/3SAvq5q3kuXSQ2qKxuBGMI) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Love Bite](https://open.spotify.com/album/6oriENkGeG0n3RT2EJVFZo) | 2:58 | 2022-02-10 | 2022-11-18 |
 | [Vanilla Sky](https://open.spotify.com/track/5RA1vsHu0BBAns6A7tZaAr) | [Wonderwolf](https://open.spotify.com/artist/5v2qeKbxQBq5iKIZNp9w5A) | [Vanilla Sky](https://open.spotify.com/album/1W3iNe6Kn0pvJ9h4OqjjZO) | 4:06 | 2022-02-17 | 2022-12-09 |
+| [Verlede](https://open.spotify.com/track/4Rv72ElRdcLDMi7r5ENtRz) | [X\_C\_Xreece](https://open.spotify.com/artist/5K7YIVq5HTLQROahka7QyZ) | [Verlede](https://open.spotify.com/album/03WqCunPsGa51cHENo2QYc) | 3:10 | 2023-04-27 |  |
 | [Vodka and Smoke](https://open.spotify.com/track/514tQtj7uyLHMn2yGgJkmj) | [Metro Villa](https://open.spotify.com/artist/5ix8M9VgoCHupwSJu5022W) | [Vodka and Smoke](https://open.spotify.com/album/3oDXIxLl40ilYOg0yfIfZm) | 4:36 | 2023-03-09 | 2023-04-21 |
 | [Wabaleka](https://open.spotify.com/track/3hYjSz0QfFeaG9CTP8hNJF) | [Hawema](https://open.spotify.com/artist/6CWA38UpeY34SNOKY29peK) | [Hawema](https://open.spotify.com/album/5QZq4FHvOHdlgr1mts4T89) | 4:47 | 2023-04-20 |  |
 | [WAR](https://open.spotify.com/track/45rrUms7GQkfj6XkWoNsmi) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz) | [WAR](https://open.spotify.com/album/2TBi0FV18WhlGi1zGbkgxE) | 1:46 | 2022-07-21 | 2022-11-25 |

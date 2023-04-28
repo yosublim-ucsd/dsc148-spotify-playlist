@@ -1,12 +1,12 @@
 {
   "description": "Leaders of the new school...Alternative R&B. Cover: Jordan Ward",
-  "num_followers": 1377437,
+  "num_followers": 1377820,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMGEzYzMzODMxYTMwNjE5MzczYmJjY2ZkMTA0YWQ5MTg3",
+  "snapshot_id": "MCw3NDEzZjQ5N2I3YzI2MzM0NjNiZmMyZWE0NjBmOWQ4ODlkMjIyODU0",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -713,24 +713,24 @@
       "url": "https://open.spotify.com/track/5wT0AQeYT09WqR7r0eYZWs"
     },
     {
-      "added_at": "2022-09-23 04:05:05",
+      "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "PERFECT PACE",
-        "url": "https://open.spotify.com/album/7L3Xv0EUHVTefGIbeNPHqM"
+        "name": "All For You",
+        "url": "https://open.spotify.com/album/37dpSVOfI1x0CIiDzlIc6i"
       },
       "artists": [
         {
-          "name": "Asha Imuno",
-          "url": "https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT"
-        },
-        {
           "name": "Amaria",
           "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        },
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 158000,
-      "name": "PERFECT PACE",
-      "url": "https://open.spotify.com/track/5sr3Cp0w8kIefyKKU3YnnV"
+      "duration_ms": 183354,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/7rPWZTM7nnaySX8a6Pmeg7"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -765,24 +765,24 @@
       "url": "https://open.spotify.com/track/42RpLZC6rKzQZyLMaJMsDJ"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
+      "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "All For You",
-        "url": "https://open.spotify.com/album/37dpSVOfI1x0CIiDzlIc6i"
+        "name": "PERFECT PACE",
+        "url": "https://open.spotify.com/album/7L3Xv0EUHVTefGIbeNPHqM"
       },
       "artists": [
         {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+          "name": "Asha Imuno",
+          "url": "https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT"
         },
         {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
         }
       ],
-      "duration_ms": 183354,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/7rPWZTM7nnaySX8a6Pmeg7"
+      "duration_ms": 158000,
+      "name": "PERFECT PACE",
+      "url": "https://open.spotify.com/track/5sr3Cp0w8kIefyKKU3YnnV"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -817,6 +817,22 @@
       "url": "https://open.spotify.com/track/3Kfh2IIk7nehym6iv2Ru8P"
     },
     {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Young Boy Problems",
+        "url": "https://open.spotify.com/album/0KwxesDI97ypNuvm1KZoOF"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "duration_ms": 169516,
+      "name": "Young Boy Problems",
+      "url": "https://open.spotify.com/track/5RkVymJxVbc8oy0OnaIjQo"
+    },
+    {
       "added_at": "2022-10-14 04:01:00",
       "album": {
         "name": "Figures",
@@ -831,22 +847,6 @@
       "duration_ms": 152590,
       "name": "Figures",
       "url": "https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Getaway",
-        "url": "https://open.spotify.com/album/2WtfCHRb8cy4a2x8vOMVkM"
-      },
-      "artists": [
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 220893,
-      "name": "pressure",
-      "url": "https://open.spotify.com/track/1uf4itZeNCVYDHExNH9Ov3"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -883,6 +883,22 @@
       "duration_ms": 231533,
       "name": "STEREO DRIVER",
       "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Getaway",
+        "url": "https://open.spotify.com/album/2WtfCHRb8cy4a2x8vOMVkM"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 220893,
+      "name": "pressure",
+      "url": "https://open.spotify.com/track/1uf4itZeNCVYDHExNH9Ov3"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -933,22 +949,6 @@
       "url": "https://open.spotify.com/track/4N9CjZCmixsudkya5a7MtW"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Young Boy Problems",
-        "url": "https://open.spotify.com/album/0KwxesDI97ypNuvm1KZoOF"
-      },
-      "artists": [
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        }
-      ],
-      "duration_ms": 169516,
-      "name": "Young Boy Problems",
-      "url": "https://open.spotify.com/track/5RkVymJxVbc8oy0OnaIjQo"
-    },
-    {
       "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Go\u00fbter +",
@@ -963,6 +963,22 @@
       "duration_ms": 208192,
       "name": "in ur motion",
       "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
+    },
+    {
+      "added_at": "2022-07-22 04:15:47",
+      "album": {
+        "name": "Suspension of Disbelief",
+        "url": "https://open.spotify.com/album/3dUPM1NIw5YPL4YQhU7aG2"
+      },
+      "artists": [
+        {
+          "name": "Christian Kuria",
+          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
+        }
+      ],
+      "duration_ms": 236206,
+      "name": "Sunbleach",
+      "url": "https://open.spotify.com/track/0SOqMJNpQyB2QkSaZqUQzV"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1005,22 +1021,6 @@
       "url": "https://open.spotify.com/track/7BNvivBdgxjl80EugbEHFA"
     },
     {
-      "added_at": "2022-07-22 04:15:47",
-      "album": {
-        "name": "Suspension of Disbelief",
-        "url": "https://open.spotify.com/album/3dUPM1NIw5YPL4YQhU7aG2"
-      },
-      "artists": [
-        {
-          "name": "Christian Kuria",
-          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
-        }
-      ],
-      "duration_ms": 236206,
-      "name": "Sunbleach",
-      "url": "https://open.spotify.com/track/0SOqMJNpQyB2QkSaZqUQzV"
-    },
-    {
       "added_at": "2022-07-15 04:02:46",
       "album": {
         "name": "Dog Daze",
@@ -1053,6 +1053,22 @@
       "url": "https://open.spotify.com/track/3wY2Adin3oA1aIF9VgZ0Kr"
     },
     {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 255401,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/5EKjnrnyrw688C3yoMfbwK"
+    },
+    {
       "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "WHITE CROCS (with Ryan Trey)",
@@ -1073,38 +1089,6 @@
       "url": "https://open.spotify.com/track/45uwA5e851qa3xWqKGYxGC"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Raven",
-        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 255401,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/5EKjnrnyrw688C3yoMfbwK"
-    },
-    {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
-        "name": "LUV (I KNOW I WANT THIS FOR REAL)",
-        "url": "https://open.spotify.com/album/1Tra5Ed1LWPGdmblM9ojiU"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "LUV (I KNOW I WANT THIS FOR REAL)",
-      "url": "https://open.spotify.com/track/1SiV9ERoyjtUPrNnuJCj21"
-    },
-    {
       "added_at": "2022-07-15 04:02:46",
       "album": {
         "name": "Circmvnt",
@@ -1123,6 +1107,22 @@
       "duration_ms": 220781,
       "name": "Luvaroq",
       "url": "https://open.spotify.com/track/5mlirWXPq6KoroAUgy6Wdq"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "LUV (I KNOW I WANT THIS FOR REAL)",
+        "url": "https://open.spotify.com/album/1Tra5Ed1LWPGdmblM9ojiU"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "LUV (I KNOW I WANT THIS FOR REAL)",
+      "url": "https://open.spotify.com/track/1SiV9ERoyjtUPrNnuJCj21"
     },
     {
       "added_at": "2022-08-19 04:17:01",
@@ -1221,22 +1221,6 @@
       "url": "https://open.spotify.com/track/6KCL9FON6UWWymafgIwECG"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Most Men - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 253375,
-      "name": "Most Men - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO"
-    },
-    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Raven",
@@ -1251,6 +1235,22 @@
       "duration_ms": 216178,
       "name": "Washed Away",
       "url": "https://open.spotify.com/track/1o6heh4aefLv3GJYjtfLa6"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Most Men - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 253375,
+      "name": "Most Men - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1369,6 +1369,22 @@
       "url": "https://open.spotify.com/track/31DhZKH7E1T41TAnK0qyC5"
     },
     {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Is It Magic?",
+        "url": "https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 188727,
+      "name": "Is It Magic?",
+      "url": "https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht"
+    },
+    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Xtasy (Remix) [feat. Doechii]",
@@ -1387,58 +1403,6 @@
       "duration_ms": 270497,
       "name": "Xtasy (Remix) [feat. Doechii]",
       "url": "https://open.spotify.com/track/610faOY46uYOBi3KXazpSj"
-    },
-    {
-      "added_at": "2023-02-24 05:23:50",
-      "album": {
-        "name": "Water My Heart (feat. Mereba)",
-        "url": "https://open.spotify.com/album/3s8P0go7OUTdf9NzZFS15a"
-      },
-      "artists": [
-        {
-          "name": "rum.gold",
-          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
-        },
-        {
-          "name": "Mereba",
-          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
-        }
-      ],
-      "duration_ms": 222334,
-      "name": "Water My Heart (feat. Mereba)",
-      "url": "https://open.spotify.com/track/5CisgeB65yWttE54rFIfZ4"
-    },
-    {
-      "added_at": "2023-02-24 05:23:50",
-      "album": {
-        "name": "World In My Hands",
-        "url": "https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT"
-      },
-      "artists": [
-        {
-          "name": "LAVI$H",
-          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
-        }
-      ],
-      "duration_ms": 194401,
-      "name": "World In My Hands",
-      "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
-    },
-    {
-      "added_at": "2022-07-29 04:14:33",
-      "album": {
-        "name": "safety",
-        "url": "https://open.spotify.com/album/4hIil1T0kwD96mdWyCOaNT"
-      },
-      "artists": [
-        {
-          "name": "greek",
-          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "safety",
-      "url": "https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk"
     },
     {
       "added_at": "2022-07-29 04:14:33",
@@ -1461,6 +1425,90 @@
       "url": "https://open.spotify.com/track/3Sk51FK0sTdiRQN477u5oq"
     },
     {
+      "added_at": "2023-02-24 05:23:50",
+      "album": {
+        "name": "Water My Heart (feat. Mereba)",
+        "url": "https://open.spotify.com/album/3s8P0go7OUTdf9NzZFS15a"
+      },
+      "artists": [
+        {
+          "name": "rum.gold",
+          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
+        },
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+        }
+      ],
+      "duration_ms": 222334,
+      "name": "Water My Heart (feat. Mereba)",
+      "url": "https://open.spotify.com/track/5CisgeB65yWttE54rFIfZ4"
+    },
+    {
+      "added_at": "2022-07-29 04:14:33",
+      "album": {
+        "name": "safety",
+        "url": "https://open.spotify.com/album/4hIil1T0kwD96mdWyCOaNT"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "safety",
+      "url": "https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk"
+    },
+    {
+      "added_at": "2023-02-24 05:23:50",
+      "album": {
+        "name": "World In My Hands",
+        "url": "https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT"
+      },
+      "artists": [
+        {
+          "name": "LAVI$H",
+          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
+        }
+      ],
+      "duration_ms": 194401,
+      "name": "World In My Hands",
+      "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/4psYJ4ruuGaqH25CBWKqMp"
+      },
+      "artists": [
+        {
+          "name": "Puma Blue",
+          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/0WJ8tNBfJRwUPfE8ibBwAF"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Seltzer",
+        "url": "https://open.spotify.com/album/1Nifv5zMNTM89Q1m98U32a"
+      },
+      "artists": [
+        {
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Seltzer",
+      "url": "https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Exodus the North Star",
@@ -1481,22 +1529,6 @@
       "url": "https://open.spotify.com/track/6uAWmu9PkZ7l7OAVeQljus"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Seltzer",
-        "url": "https://open.spotify.com/album/1Nifv5zMNTM89Q1m98U32a"
-      },
-      "artists": [
-        {
-          "name": "Cruza",
-          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Seltzer",
-      "url": "https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg"
-    },
-    {
       "added_at": "2022-10-14 04:01:00",
       "album": {
         "name": "As Days Go By",
@@ -1513,22 +1545,6 @@
       "url": "https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Is It Magic?",
-        "url": "https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e"
-      },
-      "artists": [
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 188727,
-      "name": "Is It Magic?",
-      "url": "https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht"
-    },
-    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "On My Way",
@@ -1543,22 +1559,6 @@
       "duration_ms": 180545,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/1JrcjXpkAEIALeX9tqIAVA"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Pretty",
-        "url": "https://open.spotify.com/album/4psYJ4ruuGaqH25CBWKqMp"
-      },
-      "artists": [
-        {
-          "name": "Puma Blue",
-          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "Pretty",
-      "url": "https://open.spotify.com/track/0WJ8tNBfJRwUPfE8ibBwAF"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1617,6 +1617,22 @@
       "url": "https://open.spotify.com/track/2ug9Wg4LgcyBDirbl6mgvP"
     },
     {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Suspension of Disbelief",
+        "url": "https://open.spotify.com/album/3dUPM1NIw5YPL4YQhU7aG2"
+      },
+      "artists": [
+        {
+          "name": "Christian Kuria",
+          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
+        }
+      ],
+      "duration_ms": 204224,
+      "name": "23rd Street",
+      "url": "https://open.spotify.com/track/0mPU13KnWqvIgrfeNkXKLx"
+    },
+    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "SUGAR DIVE",
@@ -1637,20 +1653,20 @@
       "url": "https://open.spotify.com/track/3p3tezl8FJHkm68tczR0yP"
     },
     {
-      "added_at": "2022-12-02 05:00:00",
+      "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Suspension of Disbelief",
-        "url": "https://open.spotify.com/album/3dUPM1NIw5YPL4YQhU7aG2"
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/6BMAUmCmD1hlFLjp3OjaSS"
       },
       "artists": [
         {
-          "name": "Christian Kuria",
-          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
         }
       ],
-      "duration_ms": 204224,
-      "name": "23rd Street",
-      "url": "https://open.spotify.com/track/0mPU13KnWqvIgrfeNkXKLx"
+      "duration_ms": 155115,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/5WUKybZ2qvtWjZOKbK8JwF"
     },
     {
       "added_at": "2022-07-24 02:54:27",
@@ -1667,22 +1683,6 @@
       "duration_ms": 99454,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Drifting",
-        "url": "https://open.spotify.com/album/6BMAUmCmD1hlFLjp3OjaSS"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 155115,
-      "name": "Drifting",
-      "url": "https://open.spotify.com/track/5WUKybZ2qvtWjZOKbK8JwF"
     },
     {
       "added_at": "2022-07-15 04:02:46",

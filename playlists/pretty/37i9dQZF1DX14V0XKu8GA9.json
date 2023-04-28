@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop from the U.S. Cover: Speak",
-  "num_followers": 21747,
+  "num_followers": 21770,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ4NTc3MywwMDAwMDAwMDU4MzA5ZDJhZDFmZDBlOTk1ZDMxNjM4NTE4NjRiN2Qy",
+  "snapshot_id": "MCw1YTA3Mjk3MzBiOWFiYmI1ZDMxMjdjNTUxNTEyYzMxNjA3ZDQxMDky",
   "tracks": [
     {
       "added_at": "2023-03-10 22:02:53",
@@ -375,6 +375,22 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
+        "name": "Parkside Santa",
+        "url": "https://open.spotify.com/album/6oKqbmIOIR3y4PS717x9KR"
+      },
+      "artists": [
+        {
+          "name": "MoneySign Suede",
+          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
+        }
+      ],
+      "duration_ms": 139594,
+      "name": "Red on My Mind",
+      "url": "https://open.spotify.com/track/0XnVY1Ws3KQrRa6yMiS0Cs"
+    },
+    {
+      "added_at": "2023-03-10 22:02:53",
+      "album": {
         "name": "Frontline",
         "url": "https://open.spotify.com/album/7o5wg3VJWGXlp27Tc6rM5j"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 184272,
       "name": "Frontline",
       "url": "https://open.spotify.com/track/50PDNBs87SWHijwXKCM35T"
-    },
-    {
-      "added_at": "2023-03-10 22:02:53",
-      "album": {
-        "name": "Parkside Santa",
-        "url": "https://open.spotify.com/album/6oKqbmIOIR3y4PS717x9KR"
-      },
-      "artists": [
-        {
-          "name": "MoneySign Suede",
-          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
-        }
-      ],
-      "duration_ms": 139594,
-      "name": "Red on My Mind",
-      "url": "https://open.spotify.com/track/0XnVY1Ws3KQrRa6yMiS0Cs"
     },
     {
       "added_at": "2023-03-10 22:02:53",
@@ -507,30 +507,6 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
-        "name": "Thicker Than Water",
-        "url": "https://open.spotify.com/album/0Rm2QWl2jMihQP5Ml1398x"
-      },
-      "artists": [
-        {
-          "name": "Coyote",
-          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
-        },
-        {
-          "name": "Doeman",
-          "url": "https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F"
-        },
-        {
-          "name": "Emilio Rojas",
-          "url": "https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co"
-        }
-      ],
-      "duration_ms": 265049,
-      "name": "One Day Left",
-      "url": "https://open.spotify.com/track/7MohmRhHrAwJ3kkAE5H02O"
-    },
-    {
-      "added_at": "2023-03-10 22:02:53",
-      "album": {
         "name": "Cost of Loyalty",
         "url": "https://open.spotify.com/album/0ppVLYcxxEO9sF8oW6pFkS"
       },
@@ -615,6 +591,30 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
+        "name": "Thicker Than Water",
+        "url": "https://open.spotify.com/album/0Rm2QWl2jMihQP5Ml1398x"
+      },
+      "artists": [
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        },
+        {
+          "name": "Doeman",
+          "url": "https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F"
+        },
+        {
+          "name": "Emilio Rojas",
+          "url": "https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co"
+        }
+      ],
+      "duration_ms": 265049,
+      "name": "One Day Left",
+      "url": "https://open.spotify.com/track/7MohmRhHrAwJ3kkAE5H02O"
+    },
+    {
+      "added_at": "2023-03-10 22:02:53",
+      "album": {
         "name": "El Cantante",
         "url": "https://open.spotify.com/album/5AMPEhbfGqSNfhImCslYzS"
       },
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
+        "name": "N.Y Minute",
+        "url": "https://open.spotify.com/album/5dCxzCwyBmKntm5TkQZ1Q7"
+      },
+      "artists": [
+        {
+          "name": "Bodega Bamz",
+          "url": "https://open.spotify.com/artist/6tIgdyPfc6RVQJKCDd9ep9"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "N.Y Minute",
+      "url": "https://open.spotify.com/track/0ix2WlhdehNXbRd2ONcj2P"
+    },
+    {
+      "added_at": "2023-03-10 22:02:53",
+      "album": {
         "name": "Money in the Shoebox , $tonehardt & Dexter Cayn)",
         "url": "https://open.spotify.com/album/0e2WqMgxffeQDR5V29cAfk"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 145953,
       "name": "Scared Of My Love",
       "url": "https://open.spotify.com/track/1BOyx09F81OnamZyYU3jFL"
-    },
-    {
-      "added_at": "2023-03-10 22:02:53",
-      "album": {
-        "name": "N.Y Minute",
-        "url": "https://open.spotify.com/album/5dCxzCwyBmKntm5TkQZ1Q7"
-      },
-      "artists": [
-        {
-          "name": "Bodega Bamz",
-          "url": "https://open.spotify.com/artist/6tIgdyPfc6RVQJKCDd9ep9"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "N.Y Minute",
-      "url": "https://open.spotify.com/track/0ix2WlhdehNXbRd2ONcj2P"
     },
     {
       "added_at": "2023-03-10 22:02:53",

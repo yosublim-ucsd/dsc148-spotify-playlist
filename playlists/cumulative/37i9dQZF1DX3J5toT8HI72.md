@@ -4,7 +4,7 @@
 
 > Grandes músicas para você curtir com seu amor.
 
-61 songs - 3 hr 34 min
+62 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Não É Comum Mas É Normal](https://open.spotify.com/track/3qK4cPOkKJ00tAWeFBFMXm) | [Lan Lanh](https://open.spotify.com/artist/7uPgOaM3jjmkwuua1RgZHg), [Nanda Costa](https://open.spotify.com/artist/1zWJTFpRoMlT21OaXniRsb) | [Não É Comum Mas É Normal](https://open.spotify.com/album/2BLOshVN7dKtfMzA89mQhH) | 3:25 | 2021-09-03 |  |
 | [O Amor é o Segredo](https://open.spotify.com/track/7tOXo8dzQYKgWHWB9nxBVg) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [A Bolha](https://open.spotify.com/album/26Tbxt6xagipSQItYUBCeE) | 3:03 | 2021-09-03 |  |
 | [O Leãozinho \- Ao Vivo Em São Paulo / 2017](https://open.spotify.com/track/3ejU8JMenktibKkNz9dPBL) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK) | [Ofertório \(Ao Vivo\)](https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv) | 2:56 | 2021-09-03 |  |
-| [Ouro](https://open.spotify.com/track/6QcHZSh7EV7EvhUnovI1Bw) | [Jhama](https://open.spotify.com/artist/5mXYWM38dlAs01e3XQEtma) | [Ouro](https://open.spotify.com/album/3crtjM7DJVNSvXfn2v65Lq) | 2:58 | 2021-09-03 |  |
+| [Ouro](https://open.spotify.com/track/1VJ93t38cXKJc58CZxyO2O) | [Jhama](https://open.spotify.com/artist/5mXYWM38dlAs01e3XQEtma) | [Ouro](https://open.spotify.com/album/52gcfCi6jBmWSEg3DuNVeR) | 2:58 | 2021-09-03 |  |
+| [Ouro](https://open.spotify.com/track/6QcHZSh7EV7EvhUnovI1Bw) | [Jhama](https://open.spotify.com/artist/5mXYWM38dlAs01e3XQEtma) | [Ouro](https://open.spotify.com/album/3crtjM7DJVNSvXfn2v65Lq) | 2:58 | 2021-09-03 | 2023-04-28 |
 | [Outono](https://open.spotify.com/track/30i1uYhaut3vanP6wM4AFh) | [Priscila Tossan](https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA) | [Céu Azul](https://open.spotify.com/album/77r7XnNrwge6RH38NUVOvY) | 3:30 | 2021-09-03 |  |
 | [Ouvi Dizer](https://open.spotify.com/track/1qCLx3nX25NuhfPjM5E1qV) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J) | 3:30 | 2021-09-03 |  |
 | [Partilhar](https://open.spotify.com/track/3WVBQjDRoUUTJnWVaUUEHL) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Casas](https://open.spotify.com/album/4srydLleGSH7OmLav3nCTX) | 5:37 | 2021-09-03 |  |

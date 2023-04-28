@@ -1,12 +1,12 @@
 {
   "description": "Los mejor de los 90s. The Best of the 90s.",
-  "num_followers": 632758,
+  "num_followers": 633074,
   "original_name": "Salsa Hits: Los 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAxNDA5NCwwMDAwMDAwMDhhN2IwMTdkNzhmN2IyMDk3ZmNmMDc1ZTEzZWI2MmRl",
+  "snapshot_id": "MCwxOWUwNDY3MzdkMzI4ZjU1MGNiNjdmMDgxMTEzZmI0NzNmOWEyMmNj",
   "tracks": [
     {
       "added_at": "2023-03-17 00:48:14",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
+        "name": "Sed\u00faceme",
+        "url": "https://open.spotify.com/album/4xyafxVu1q9xRQ5qtMlBkb"
+      },
+      "artists": [
+        {
+          "name": "Viti Ruiz",
+          "url": "https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT"
+        }
+      ],
+      "duration_ms": 321178,
+      "name": "Caricias Prohibidas",
+      "url": "https://open.spotify.com/track/0sljB20lnodRcHT2il1m3J"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/2olA7NVTMFYdWOp14n8YLK"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Sed\u00faceme",
-        "url": "https://open.spotify.com/album/4xyafxVu1q9xRQ5qtMlBkb"
-      },
-      "artists": [
-        {
-          "name": "Viti Ruiz",
-          "url": "https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT"
-        }
-      ],
-      "duration_ms": 321178,
-      "name": "Caricias Prohibidas",
-      "url": "https://open.spotify.com/track/0sljB20lnodRcHT2il1m3J"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "El Sonero Quel El Pueblo Prefiere",
-        "url": "https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G"
-      },
-      "artists": [
-        {
-          "name": "Raulin Rosendo",
-          "url": "https://open.spotify.com/artist/4pYTSh5LpqCVVSejQ4v6AF"
-        }
-      ],
-      "duration_ms": 300106,
-      "name": "Lady Laura",
-      "url": "https://open.spotify.com/track/2kzquEERgcPf5uO55ARVRR"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
         "name": "Lo Esencial",
         "url": "https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 281013,
       "name": "Todo",
       "url": "https://open.spotify.com/track/03T7M7m00T0WMGdS3z3WWn"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
+        "name": "El Sonero Quel El Pueblo Prefiere",
+        "url": "https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G"
+      },
+      "artists": [
+        {
+          "name": "Raulin Rosendo",
+          "url": "https://open.spotify.com/artist/4pYTSh5LpqCVVSejQ4v6AF"
+        }
+      ],
+      "duration_ms": 300106,
+      "name": "Lady Laura",
+      "url": "https://open.spotify.com/track/2kzquEERgcPf5uO55ARVRR"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Uno Mismo",
-        "url": "https://open.spotify.com/album/01z0qSqxPmPHUZMLu1qbeD"
+        "name": "Edici\u00f3n Limitada",
+        "url": "https://open.spotify.com/album/7JyQeX40JXO24zFZrdSWpl"
       },
       "artists": [
         {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
         }
       ],
-      "duration_ms": 316226,
-      "name": "Esa Mujer",
-      "url": "https://open.spotify.com/track/0cLjHVBsx3bmdK1nwTMNZw"
+      "duration_ms": 286306,
+      "name": "Amor Traicionero",
+      "url": "https://open.spotify.com/track/236m1GMOYO0k7WhbZ5Jdyq"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -923,34 +923,18 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Edici\u00f3n Limitada",
-        "url": "https://open.spotify.com/album/7JyQeX40JXO24zFZrdSWpl"
+        "name": "Uno Mismo",
+        "url": "https://open.spotify.com/album/01z0qSqxPmPHUZMLu1qbeD"
       },
       "artists": [
         {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
         }
       ],
-      "duration_ms": 286306,
-      "name": "Amor Traicionero",
-      "url": "https://open.spotify.com/track/236m1GMOYO0k7WhbZ5Jdyq"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
-        "name": "Con La Musica Por Dentro",
-        "url": "https://open.spotify.com/album/7Cy84J50vfGKkeJFr2vFqx"
-      },
-      "artists": [
-        {
-          "name": "Nino Segarra",
-          "url": "https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK"
-        }
-      ],
-      "duration_ms": 306826,
-      "name": "Porque Te Amo",
-      "url": "https://open.spotify.com/track/2mjcSFZm71YuqETWajjWFj"
+      "duration_ms": 316226,
+      "name": "Esa Mujer",
+      "url": "https://open.spotify.com/track/0cLjHVBsx3bmdK1nwTMNZw"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -971,6 +955,22 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
+        "name": "Con La Musica Por Dentro",
+        "url": "https://open.spotify.com/album/7Cy84J50vfGKkeJFr2vFqx"
+      },
+      "artists": [
+        {
+          "name": "Nino Segarra",
+          "url": "https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK"
+        }
+      ],
+      "duration_ms": 306826,
+      "name": "Porque Te Amo",
+      "url": "https://open.spotify.com/track/2mjcSFZm71YuqETWajjWFj"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
         "name": "Pal Pueblo",
         "url": "https://open.spotify.com/album/07JdIFh18naO244frEGUqi"
       },
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Serie Millennium 21: Paquito Guzman",
-        "url": "https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn"
-      },
-      "artists": [
-        {
-          "name": "Paquito Guzman",
-          "url": "https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5"
-        }
-      ],
-      "duration_ms": 309253,
-      "name": "Cinco Noches",
-      "url": "https://open.spotify.com/track/15bMjRos3fdlgwfQOXchez"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
         "name": "Fabricando Fantas\u00edas",
         "url": "https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 204306,
       "name": "Ya No Queda Nada - Salsa Version",
       "url": "https://open.spotify.com/track/2Jcr5m0dP68G1Zlrp7iKp3"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
+        "name": "Serie Millennium 21: Paquito Guzman",
+        "url": "https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn"
+      },
+      "artists": [
+        {
+          "name": "Paquito Guzman",
+          "url": "https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5"
+        }
+      ],
+      "duration_ms": 309253,
+      "name": "Cinco Noches",
+      "url": "https://open.spotify.com/track/15bMjRos3fdlgwfQOXchez"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
+        "name": "The Greatest Salsa Ever",
+        "url": "https://open.spotify.com/album/29JoW88csZRXtKP9YhoFeM"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 309840,
+      "name": "De M\u00ed Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/4hgk2iBQfSupmzye4LfTQE"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
         "name": "A Pesar De Todo",
         "url": "https://open.spotify.com/album/5kRD3WwNuUNVk2ig8PIw5t"
       },
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "The Greatest Salsa Ever",
-        "url": "https://open.spotify.com/album/29JoW88csZRXtKP9YhoFeM"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 309840,
-      "name": "De M\u00ed Enam\u00f3rate",
-      "url": "https://open.spotify.com/track/4hgk2iBQfSupmzye4LfTQE"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
         "name": "Sensual",
         "url": "https://open.spotify.com/album/6UN6viB3vjqwZM1rMZGS1A"
       },
@@ -1131,22 +1131,6 @@
       "duration_ms": 277706,
       "name": "Me Mata La Soledad",
       "url": "https://open.spotify.com/track/3EKsRQDRXgXHmNxQZ76MFc"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
-        "name": "Lo Mio Es Amor",
-        "url": "https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK"
-      },
-      "artists": [
-        {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
-        }
-      ],
-      "duration_ms": 299893,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/1rnRQBxmem5kmb967ptQUa"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -1167,22 +1151,6 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Cuando Parar\u00e1 La Lluvia",
-        "url": "https://open.spotify.com/album/7wPHaKaBhYBlruGndq64gJ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Rivera",
-          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
-        }
-      ],
-      "duration_ms": 302733,
-      "name": "Voy A Conquistar Tu Amor",
-      "url": "https://open.spotify.com/track/1RbjmUfYA4rH0OXpS1JvYx"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
         "name": "14 \u00c9xitos Duros Como Guayacan",
         "url": "https://open.spotify.com/album/36uyTCJM4iwiMY9OJ0kFI9"
       },
@@ -1199,6 +1167,38 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
+        "name": "Cuando Parar\u00e1 La Lluvia",
+        "url": "https://open.spotify.com/album/7wPHaKaBhYBlruGndq64gJ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Rivera",
+          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
+        }
+      ],
+      "duration_ms": 302733,
+      "name": "Voy A Conquistar Tu Amor",
+      "url": "https://open.spotify.com/track/1RbjmUfYA4rH0OXpS1JvYx"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
+        "name": "Lo Mio Es Amor",
+        "url": "https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "duration_ms": 299893,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/1rnRQBxmem5kmb967ptQUa"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
         "name": "Super Exitos",
         "url": "https://open.spotify.com/album/4ny39fXV8NndHMSBu1V0bT"
       },
@@ -1211,6 +1211,22 @@
       "duration_ms": 305440,
       "name": "Juguete De Nadie",
       "url": "https://open.spotify.com/track/25gKDYktpgqSQGdxwDoTsh"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
+        "name": "Muy Agradecido",
+        "url": "https://open.spotify.com/album/2kn0CaGJauvm8apjq6a08i"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 273746,
+      "name": "La Salsa Vive",
+      "url": "https://open.spotify.com/track/2CwVYhTdEkCWF1qNkkAa3M"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -1259,22 +1275,6 @@
       "duration_ms": 446333,
       "name": "Amor M\u00edo No Te Vayas - En Vivo Desde El Carnegie Hall Version",
       "url": "https://open.spotify.com/track/4d6AEuczMXLXDIbUYevHSp"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
-        "name": "Muy Agradecido",
-        "url": "https://open.spotify.com/album/2kn0CaGJauvm8apjq6a08i"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 273746,
-      "name": "La Salsa Vive",
-      "url": "https://open.spotify.com/track/2CwVYhTdEkCWF1qNkkAa3M"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
+        "name": "Ironias",
+        "url": "https://open.spotify.com/album/2xwNxVeLxGwduVdMVOqRzd"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 291800,
+      "name": "Qu\u00e9 Habr\u00eda Sido de M\u00ed",
+      "url": "https://open.spotify.com/track/7Kz4ntJk8ACKH7sojsfTTv"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
         "name": "Una Historia Musical",
         "url": "https://open.spotify.com/album/3Upn5Xs3hq5NC0SXlI4W79"
       },
@@ -1431,18 +1447,18 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Ironias",
-        "url": "https://open.spotify.com/album/2xwNxVeLxGwduVdMVOqRzd"
+        "name": "Te Sigo Esperando",
+        "url": "https://open.spotify.com/album/1nrtNO5m2b5wX95GuqgtTn"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+          "name": "Brenda K. Starr",
+          "url": "https://open.spotify.com/artist/5Ne8hQEmy0eZu9hlE3j58B"
         }
       ],
-      "duration_ms": 291800,
-      "name": "Qu\u00e9 Habr\u00eda Sido de M\u00ed",
-      "url": "https://open.spotify.com/track/7Kz4ntJk8ACKH7sojsfTTv"
+      "duration_ms": 292480,
+      "name": "Herida",
+      "url": "https://open.spotify.com/track/6a09sAXkgnkfSW8HEDJzBf"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -1459,22 +1475,6 @@
       "duration_ms": 307386,
       "name": "Bailemos Otra Vez",
       "url": "https://open.spotify.com/track/7CElrb5b1CNzbbLUaBynyO"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
-        "name": "Te Sigo Esperando",
-        "url": "https://open.spotify.com/album/1nrtNO5m2b5wX95GuqgtTn"
-      },
-      "artists": [
-        {
-          "name": "Brenda K. Starr",
-          "url": "https://open.spotify.com/artist/5Ne8hQEmy0eZu9hlE3j58B"
-        }
-      ],
-      "duration_ms": 292480,
-      "name": "Herida",
-      "url": "https://open.spotify.com/track/6a09sAXkgnkfSW8HEDJzBf"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Greatest Hits (Serie Cristal)",
-        "url": "https://open.spotify.com/album/2zWUGZTsdpLSDIQDasNUv6"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alberto \"El Canario\"",
-          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
-        }
-      ],
-      "duration_ms": 265733,
-      "name": "Hoy Quiero Confesar",
-      "url": "https://open.spotify.com/track/04VVASURM79ZfORL5XsJHG"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
         "name": "20th Anniversary",
         "url": "https://open.spotify.com/album/6T8WrnfmEISgQiDThcNGwW"
       },
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Con Amor Se Gana",
-        "url": "https://open.spotify.com/album/3MaqSrmpWmDkg3kFo7nhbV"
+        "name": "Greatest Hits (Serie Cristal)",
+        "url": "https://open.spotify.com/album/2zWUGZTsdpLSDIQDasNUv6"
       },
       "artists": [
         {
-          "name": "Frankie Negr\u00f3n",
-          "url": "https://open.spotify.com/artist/3QPEwHBLL8xX8p8HaT4S16"
+          "name": "Jos\u00e9 Alberto \"El Canario\"",
+          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
         }
       ],
-      "duration_ms": 275133,
-      "name": "Inolvidable",
-      "url": "https://open.spotify.com/track/6JeEtAKTZj4hz7KqxmhJpU"
+      "duration_ms": 265733,
+      "name": "Hoy Quiero Confesar",
+      "url": "https://open.spotify.com/track/04VVASURM79ZfORL5XsJHG"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -1619,6 +1603,22 @@
       "duration_ms": 250773,
       "name": "No Puedo Prescindir De Ti",
       "url": "https://open.spotify.com/track/7LDZh6bVrES7Z9RuD4HMTC"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
+        "name": "Con Amor Se Gana",
+        "url": "https://open.spotify.com/album/3MaqSrmpWmDkg3kFo7nhbV"
+      },
+      "artists": [
+        {
+          "name": "Frankie Negr\u00f3n",
+          "url": "https://open.spotify.com/artist/3QPEwHBLL8xX8p8HaT4S16"
+        }
+      ],
+      "duration_ms": 275133,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/6JeEtAKTZj4hz7KqxmhJpU"
     },
     {
       "added_at": "2023-03-17 00:48:14",

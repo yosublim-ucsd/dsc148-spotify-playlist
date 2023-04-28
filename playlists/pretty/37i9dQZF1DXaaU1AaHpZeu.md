@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Ivana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,839 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,873 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Fuimos](https://open.spotify.com/track/44TiJHnzGE1VbKf3GXBf5j) | [Cata Claro](https://open.spotify.com/artist/4fn4Adu7mtG06Ysp1wzw6F) | [Fuimos](https://open.spotify.com/album/74YrRIvRIkjP70l2ru57rG) | 3:17 |
 | 50 | [Soy un volcán](https://open.spotify.com/track/0dGwAktrgm2gwLCcU3NLfG) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD), [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [Luz de perla](https://open.spotify.com/album/6ENurOBs5BwrZNvGvJ2VIY) | 2:49 |
 
-Snapshot ID: `MTY4MjA1NjgwMCwwMDAwMDAwMDA1ZTBkNTliYzFlYWQ1NDY2YzJmMDc4ZjYzMGNlZTU2`
+Snapshot ID: `MCxlMmRjNjVmYTZiN2FmYzBmNjkwNzAxMzA4NjA1MDJhMGMxZThhYjNk`

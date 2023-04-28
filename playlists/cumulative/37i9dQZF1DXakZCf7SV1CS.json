@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 205447,
       "name": "1UL",
       "url": "https://open.spotify.com/track/4sPCKi7i8DAdWc1WpQrmOG"
@@ -288,7 +288,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 227750,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/0YAywhODGdHhWxuvFFhjE3"
@@ -582,6 +582,28 @@
       "duration_ms": 149390,
       "name": "claws",
       "url": "https://open.spotify.com/track/7Dexi5Z2IowCkHrnzlWysc"
+    },
+    {
+      "album": {
+        "name": "cloak n dagger",
+        "url": "https://open.spotify.com/album/2IyyUm6A2nD0UpwhQwMY00"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        },
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "cloak n dagger",
+      "url": "https://open.spotify.com/track/5PK7AzBXo9hiOWxxqkSC1S"
     },
     {
       "album": {
@@ -976,7 +998,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 150612,
       "name": "fantasize",
       "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
@@ -1066,7 +1088,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 205000,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/1lgIlt243DVXg597hMx3Uf"
@@ -1301,6 +1323,28 @@
     },
     {
       "album": {
+        "name": "then i'll be happy",
+        "url": "https://open.spotify.com/album/1vt6o574MwqdmPm8ktkT7s"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        },
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111875,
+      "name": "heather",
+      "url": "https://open.spotify.com/track/3OnhO4po4yLW2uNoiKGUYX"
+    },
+    {
+      "album": {
         "name": "Hello Kitty",
         "url": "https://open.spotify.com/album/4cbs7e96BjbFaKqafPA8ZR"
       },
@@ -1316,6 +1360,24 @@
       "duration_ms": 179541,
       "name": "Hello Kitty",
       "url": "https://open.spotify.com/track/2EZHO9OoxZoaBs669GtWZv"
+    },
+    {
+      "album": {
+        "name": "Ezekiel Singles \u201918-\u201820",
+        "url": "https://open.spotify.com/album/2myOeDsuEGTSUhmkRQMH0v"
+      },
+      "artists": [
+        {
+          "name": "Ezekiel",
+          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139651,
+      "name": "help_urself",
+      "url": "https://open.spotify.com/track/6bxKECVRnkLmtpeU22Ve9p"
     },
     {
       "album": {
@@ -1352,7 +1414,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 235567,
       "name": "Hey QT",
       "url": "https://open.spotify.com/track/7nJoufbWvXXIcOLyDEci8t"
@@ -1686,6 +1748,24 @@
       "duration_ms": 157144,
       "name": "i hate it here",
       "url": "https://open.spotify.com/track/6SRDHDKG6sXZO64rRVERVr"
+    },
+    {
+      "album": {
+        "name": "i know you hate me",
+        "url": "https://open.spotify.com/album/4ZJoNTkzmI2R9iG5CURjWh"
+      },
+      "artists": [
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124516,
+      "name": "i know you hate me",
+      "url": "https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP"
     },
     {
       "album": {
@@ -2053,6 +2133,24 @@
     },
     {
       "album": {
+        "name": "hi, i'm dante",
+        "url": "https://open.spotify.com/album/7y89IwnXil6Rg4Vw6LVKnV"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116349,
+      "name": "movinglikeazombie",
+      "url": "https://open.spotify.com/track/2BVNa4XQsy01eGNJrdVwe1"
+    },
+    {
+      "album": {
         "name": "movinglikeazombie (remix)",
         "url": "https://open.spotify.com/album/4957sJfqFx4kPR2pqrfXlL"
       },
@@ -2162,7 +2260,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 465424,
       "name": "movinglikeazombie - remix",
       "url": "https://open.spotify.com/track/7xvyaMqkhnqnpTMgv7j3A2"
@@ -2242,7 +2340,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 213770,
       "name": "popular",
       "url": "https://open.spotify.com/track/7IpmgwR3K4wFzWTS1ESWZj"
@@ -2272,6 +2370,24 @@
       "duration_ms": 213761,
       "name": "popular",
       "url": "https://open.spotify.com/track/6Z0WtLUdjwl67Xw2Xszdi6"
+    },
+    {
+      "album": {
+        "name": "prism",
+        "url": "https://open.spotify.com/album/6dVBs7hZT8Y0W0V0I9bqE7"
+      },
+      "artists": [
+        {
+          "name": "monty.pk",
+          "url": "https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152967,
+      "name": "prism",
+      "url": "https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa"
     },
     {
       "album": {
@@ -2366,7 +2482,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 137142,
       "name": "Second hand embarrassment",
       "url": "https://open.spotify.com/track/7tVMsJriHeO3DoPV1d7L1j"
@@ -2402,7 +2518,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 180000,
       "name": "So Clear",
       "url": "https://open.spotify.com/track/4oQ0egre0XoHGsGSm28rlP"
@@ -2790,6 +2906,28 @@
       "duration_ms": 185813,
       "name": "When I Rule the World",
       "url": "https://open.spotify.com/track/7nu0Lc0jJltztDxsGeoPiG"
+    },
+    {
+      "album": {
+        "name": "you don't love me",
+        "url": "https://open.spotify.com/album/16Ed3EtdYHhasSdABo7g6m"
+      },
+      "artists": [
+        {
+          "name": "Rebzyyx",
+          "url": "https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno"
+        },
+        {
+          "name": "Xaxanity",
+          "url": "https://open.spotify.com/artist/10m6Fvz501byHhoObkMPVy"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122227,
+      "name": "you don't love me",
+      "url": "https://open.spotify.com/track/4GdFtfWORB3JQvsjjWvE4y"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXakZCf7SV1CS"

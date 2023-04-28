@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti. Mutonia in cover!",
+  "description": "La playlist che \u00e8 come andare ai concerti. Sidea in cover!",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 149629,
       "name": "0 SENTIMENTO",
       "url": "https://open.spotify.com/track/5WCw5MPG167COqxJu6c42Y"
@@ -114,6 +114,24 @@
       "duration_ms": 182503,
       "name": "A casa dei miei",
       "url": "https://open.spotify.com/track/5CyM9AldfTQmuvs0Tmy3B8"
+    },
+    {
+      "album": {
+        "name": "A Lie Is A Lie",
+        "url": "https://open.spotify.com/album/3gyUFMjyoLcco8QG1Hnxw8"
+      },
+      "artists": [
+        {
+          "name": "The Scurbats",
+          "url": "https://open.spotify.com/artist/4d8AvpY3Yxd7OitgKNnqGw"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142188,
+      "name": "A Lie Is A Lie",
+      "url": "https://open.spotify.com/track/1nWqcFW8v8TOr5hHaU2va8"
     },
     {
       "album": {
@@ -600,7 +618,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 197360,
       "name": "Battelli ebbri",
       "url": "https://open.spotify.com/track/2PHcFq8CAordszMzLS1dAs"
@@ -1318,7 +1336,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 234200,
       "name": "Church Superdelay",
       "url": "https://open.spotify.com/track/6Zj3IHsLkBvsO0QrTybErF"
@@ -1358,6 +1376,24 @@
       "duration_ms": 233558,
       "name": "Citt\u00e0 foresta",
       "url": "https://open.spotify.com/track/4GPeaXpFwD2ju3fwnfZQ2Z"
+    },
+    {
+      "album": {
+        "name": "Claudio",
+        "url": "https://open.spotify.com/album/1dRqIynMDy4rKbG8mus1Tp"
+      },
+      "artists": [
+        {
+          "name": "Turbetto",
+          "url": "https://open.spotify.com/artist/5RMf5E5n45iyMgwo8uQQyA"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135573,
+      "name": "Claudio",
+      "url": "https://open.spotify.com/track/1FCZL1dhHzXjNQ41PudYm0"
     },
     {
       "album": {
@@ -1686,6 +1722,32 @@
       "duration_ms": 210328,
       "name": "Dead",
       "url": "https://open.spotify.com/track/6H3NSyefUL4tm6yvWuQ8FR"
+    },
+    {
+      "album": {
+        "name": "X SALVARSI",
+        "url": "https://open.spotify.com/album/4ToEwnAtv09o3oNfd48ziU"
+      },
+      "artists": [
+        {
+          "name": "Jack Out",
+          "url": "https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI"
+        },
+        {
+          "name": "Becko",
+          "url": "https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU"
+        },
+        {
+          "name": "IN6N",
+          "url": "https://open.spotify.com/artist/1ijW7A83I3DKVmVID7kjuE"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198612,
+      "name": "Dead Or Alive",
+      "url": "https://open.spotify.com/track/2t4qXJ8xOup0zA34v07TX4"
     },
     {
       "album": {
@@ -2534,7 +2596,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 246323,
       "name": "Funeral Rave Party - Radio Edit",
       "url": "https://open.spotify.com/track/7dq8SMrfvB6UU1kO9p5P8e"
@@ -2654,6 +2716,24 @@
       "duration_ms": 235519,
       "name": "Ghibli",
       "url": "https://open.spotify.com/track/034Z4bIOzqWhWaQNxOZMDU"
+    },
+    {
+      "album": {
+        "name": "Quanti Me Ne Dai",
+        "url": "https://open.spotify.com/album/7CixYqA6aKwMXEGcaHq3Lr"
+      },
+      "artists": [
+        {
+          "name": "MILLE",
+          "url": "https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188437,
+      "name": "Giovane Distratta",
+      "url": "https://open.spotify.com/track/5HVNmsurfkqtCs6Wkj2TEQ"
     },
     {
       "album": {
@@ -3557,6 +3637,24 @@
     },
     {
       "album": {
+        "name": "LA PESTE",
+        "url": "https://open.spotify.com/album/0b9iFdSpeJdXkXN7x84oua"
+      },
+      "artists": [
+        {
+          "name": "LUK",
+          "url": "https://open.spotify.com/artist/2yAYxQNQD9CJQqCiGYrka7"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199286,
+      "name": "LA PESTE",
+      "url": "https://open.spotify.com/track/1Yn1JtWWc7193IHkHe9kUV"
+    },
+    {
+      "album": {
         "name": "La stessa parte della luna",
         "url": "https://open.spotify.com/album/0AxuaJx5LvpAl59UyPmUUG"
       },
@@ -3926,7 +4024,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 168593,
       "name": "Mark Mothersbaugh Alterego",
       "url": "https://open.spotify.com/track/51AXx0yeXKZ9i87yvPwFF5"
@@ -4064,6 +4162,24 @@
       "duration_ms": 192739,
       "name": "Milioni di strade",
       "url": "https://open.spotify.com/track/3WkO6y6Q8AAkoUkHgg4WqH"
+    },
+    {
+      "album": {
+        "name": "Mille pare",
+        "url": "https://open.spotify.com/album/2Yz4jWAU8rcdhN8ZLYySPO"
+      },
+      "artists": [
+        {
+          "name": "Etta",
+          "url": "https://open.spotify.com/artist/2U2hbzE2tUhswaUQipbQVB"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174063,
+      "name": "Mille pare",
+      "url": "https://open.spotify.com/track/2XzN0SolJ8TVddPRcfLeUN"
     },
     {
       "album": {
@@ -4319,6 +4435,24 @@
     },
     {
       "album": {
+        "name": "Nervosa",
+        "url": "https://open.spotify.com/album/5QYiZwNxEQWbjzQOaPWkkr"
+      },
+      "artists": [
+        {
+          "name": "VIAFENICE",
+          "url": "https://open.spotify.com/artist/5R2ACrtNid7ggqjAdSUcP0"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197438,
+      "name": "Nervosa",
+      "url": "https://open.spotify.com/track/76YfuESrceGIpXf4jbrsW2"
+    },
+    {
+      "album": {
         "name": "Nofriends",
         "url": "https://open.spotify.com/album/4vbvTWiEw13mHoQ3f3c9Ob"
       },
@@ -4544,6 +4678,24 @@
       "duration_ms": 231613,
       "name": "Nubifragio",
       "url": "https://open.spotify.com/track/2I3pXS5CzCm8sfgdMJYaTQ"
+    },
+    {
+      "album": {
+        "name": "Dmfl",
+        "url": "https://open.spotify.com/album/1GGgNyorw5yOKWWmoCB9FQ"
+      },
+      "artists": [
+        {
+          "name": "Death Mantra for Lazarus",
+          "url": "https://open.spotify.com/artist/4psOy0yl6xHgFs06QfRNja"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263400,
+      "name": "Nude",
+      "url": "https://open.spotify.com/track/3ZkU7e2sWEnPiQXXyizsbx"
     },
     {
       "album": {
@@ -6151,6 +6303,24 @@
     },
     {
       "album": {
+        "name": "Mendoza",
+        "url": "https://open.spotify.com/album/06gLriJFCE05iO1fS7ri8L"
+      },
+      "artists": [
+        {
+          "name": "Mendoza",
+          "url": "https://open.spotify.com/artist/39Ymw3rkE5Q6ilJBvDiVrd"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91560,
+      "name": "STRANA PUZZA",
+      "url": "https://open.spotify.com/track/6vjMt1zbeLDJWULnRlVagD"
+    },
+    {
+      "album": {
         "name": "Strappati Lungo i Bordi (Music from the Original TV Series \u201cStrappare lungo i bordi\u201d)",
         "url": "https://open.spotify.com/album/18jzdWKRrSxdgDr9IRe0RM"
       },
@@ -6588,7 +6758,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 204112,
       "name": "Topi",
       "url": "https://open.spotify.com/track/5GCBuDynnVjvmxAjqJBEEl"
@@ -6739,6 +6909,24 @@
     },
     {
       "album": {
+        "name": "Tropea",
+        "url": "https://open.spotify.com/album/47AhTKYqtuBUZpnbF6EyMl"
+      },
+      "artists": [
+        {
+          "name": "GALASSIE",
+          "url": "https://open.spotify.com/artist/7uh7wtN8jxoPL6GRPEChqs"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161744,
+      "name": "Tropea",
+      "url": "https://open.spotify.com/track/5VguwzuBH9qWhVTmF02MgN"
+    },
+    {
+      "album": {
         "name": "TRE",
         "url": "https://open.spotify.com/album/6KgWi7Dq7eGztZzC9ExYmn"
       },
@@ -6870,6 +7058,24 @@
       "duration_ms": 174187,
       "name": "Un equilibrio da proteggere",
       "url": "https://open.spotify.com/track/3ddt91PaOtE9LQ4UCaN3ge"
+    },
+    {
+      "album": {
+        "name": "UN FIGLIO",
+        "url": "https://open.spotify.com/album/4M2OxwfxLA5QkHmA1hyers"
+      },
+      "artists": [
+        {
+          "name": "Stramare",
+          "url": "https://open.spotify.com/artist/5oAifDTzCGqpz9YWvTrLOW"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176346,
+      "name": "UN FIGLIO",
+      "url": "https://open.spotify.com/track/5xFvuYKHf6PqQ7M7hLzRs1"
     },
     {
       "album": {

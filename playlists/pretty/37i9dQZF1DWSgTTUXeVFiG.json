@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 16233,
+  "num_followers": 16283,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMGQ1NWRlNjQwODM2YzAwNTE1MDQ0MjQ0OWY1YzhiYTM5",
+  "snapshot_id": "MCw2Y2RhZjhlNmM4NGIwNjc1MGRjMGQ3OWMzZmUyNmNlMmNiNGIzOWI1",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -543,30 +543,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Live At The Red Garter, Vol. 1",
-        "url": "https://open.spotify.com/album/5Qz2Pe94CCMTG7QmfCFYxM"
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
       },
       "artists": [
         {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        },
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        },
-        {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
         }
       ],
-      "duration_ms": 320000,
-      "name": "Sabor Sabor - Live",
-      "url": "https://open.spotify.com/track/5VTPcuOVHyIPxh0T6SxoBJ"
+      "duration_ms": 343786,
+      "name": "Yo No S\u00e9 Ma\u00f1ana - Live Version",
+      "url": "https://open.spotify.com/track/6sc28e5O4zPT3N1VY7N5Q3"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -603,18 +591,30 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+        "name": "Live At The Red Garter, Vol. 1",
+        "url": "https://open.spotify.com/album/5Qz2Pe94CCMTG7QmfCFYxM"
       },
       "artists": [
         {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        },
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        },
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
         }
       ],
-      "duration_ms": 343786,
-      "name": "Yo No S\u00e9 Ma\u00f1ana - Live Version",
-      "url": "https://open.spotify.com/track/6sc28e5O4zPT3N1VY7N5Q3"
+      "duration_ms": 320000,
+      "name": "Sabor Sabor - Live",
+      "url": "https://open.spotify.com/track/5VTPcuOVHyIPxh0T6SxoBJ"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "El Cantante - Live",
+      "url": "https://open.spotify.com/track/1xKIjS9jwPmMBCa40RvoS1"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "Live At The Red Garter, Vol. 1",
         "url": "https://open.spotify.com/album/5Qz2Pe94CCMTG7QmfCFYxM"
       },
@@ -847,22 +863,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "El Cantante - Live",
-      "url": "https://open.spotify.com/track/1xKIjS9jwPmMBCa40RvoS1"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "Va por Ti, Frankie (Concierto Homenaje a Frankie Ruiz)",
         "url": "https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q"
       },
@@ -879,18 +879,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Ismael Miranda (En Vivo)",
-        "url": "https://open.spotify.com/album/40DjMiB2wSxUTCuXiX1Egk"
+        "name": "Victor Manuelle Desde El Carnegie Hall",
+        "url": "https://open.spotify.com/album/4Cod19wOYqojpBfb6G8pdE"
       },
       "artists": [
         {
-          "name": "Ismael Miranda",
-          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
         }
       ],
-      "duration_ms": 330426,
-      "name": "Se\u00f1or Sereno - En Vivo",
-      "url": "https://open.spotify.com/track/5sGbO1yZxuXVGT6B7c7XP4"
+      "duration_ms": 406440,
+      "name": "Tengo Ganas - Live Carnegie Version",
+      "url": "https://open.spotify.com/track/0dfKQSS9o3pfSducqHXaCy"
     }
   ],
   "unique_name": "Vivo de Salsa",

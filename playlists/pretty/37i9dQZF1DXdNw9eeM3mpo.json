@@ -1,12 +1,12 @@
 {
   "description": "100 % ska latinoamericano. Los Caligaris en portada.",
-  "num_followers": 420890,
+  "num_followers": 421011,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA1NjgwMCwwMDAwMDAwMGFlZTY0NGNiNDM2MTVmNzQwZDY4NzkwYmQ4NWQ1ODU0",
+  "snapshot_id": "MCwyN2IwZmMzYmU4NzM2ZWVhYzIyYjJjYTY3NjJiMzI3ZDRmMTRmZTM3",
   "tracks": [
     {
       "added_at": "2021-12-21 17:00:46",
@@ -403,22 +403,6 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "La Luz Del Ritmo",
-        "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 272640,
-      "name": "Padre Nuestro",
-      "url": "https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
         "name": "Chanchos Amigos",
         "url": "https://open.spotify.com/album/4CVKkxqqOZmGCNqEqAvvOY"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 262066,
       "name": "Quereme As\u00ed",
       "url": "https://open.spotify.com/track/5SYefHqRXNFjmBLICBseWw"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "La Luz Del Ritmo",
+        "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 272640,
+      "name": "Padre Nuestro",
+      "url": "https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -563,18 +563,18 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/0mr1iGqJHUSpa4ObJ4q2uc"
+        "name": "Circolog\u00eda",
+        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
       },
       "artists": [
         {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
         }
       ],
-      "duration_ms": 243293,
-      "name": "Mal Bicho",
-      "url": "https://open.spotify.com/track/4lq31N4E4eWqVMZv93sbhJ"
+      "duration_ms": 179720,
+      "name": "Que Corran",
+      "url": "https://open.spotify.com/track/54XgbXUqrmXVG7D4QfpQy1"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -595,18 +595,18 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Circolog\u00eda",
-        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/0mr1iGqJHUSpa4ObJ4q2uc"
       },
       "artists": [
         {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
         }
       ],
-      "duration_ms": 179720,
-      "name": "Que Corran",
-      "url": "https://open.spotify.com/track/54XgbXUqrmXVG7D4QfpQy1"
+      "duration_ms": 243293,
+      "name": "Mal Bicho",
+      "url": "https://open.spotify.com/track/4lq31N4E4eWqVMZv93sbhJ"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Lucha Rock",
-        "url": "https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii"
-      },
-      "artists": [
-        {
-          "name": "Victimas Del Doctor Cerebro",
-          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
-        }
-      ],
-      "duration_ms": 223013,
-      "name": "El Esqueleto",
-      "url": "https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
         "name": "Latin Ska Force",
         "url": "https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt"
       },
@@ -735,18 +719,34 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Los Fabulosos Cadillacs - Vol. V",
-        "url": "https://open.spotify.com/album/5yv3ZFKygQ7PtOe91V8H1L"
+        "name": "Lucha Rock",
+        "url": "https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii"
       },
       "artists": [
         {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+          "name": "Victimas Del Doctor Cerebro",
+          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
         }
       ],
-      "duration_ms": 252426,
-      "name": "Demasiada Presi\u00f3n - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/1CwyfupBufLXfYdPr8LhDF"
+      "duration_ms": 223013,
+      "name": "El Esqueleto",
+      "url": "https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Bailar\u00edn Apocal\u00edptico",
+        "url": "https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 278343,
+      "name": "Entre Vos y Yo",
+      "url": "https://open.spotify.com/track/3H7wULYr0I5lTucP1hS3Wt"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -767,18 +767,18 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Bailar\u00edn Apocal\u00edptico",
-        "url": "https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ"
+        "name": "Los Fabulosos Cadillacs - Vol. V",
+        "url": "https://open.spotify.com/album/5yv3ZFKygQ7PtOe91V8H1L"
       },
       "artists": [
         {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
         }
       ],
-      "duration_ms": 278343,
-      "name": "Entre Vos y Yo",
-      "url": "https://open.spotify.com/track/3H7wULYr0I5lTucP1hS3Wt"
+      "duration_ms": 252426,
+      "name": "Demasiada Presi\u00f3n - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/1CwyfupBufLXfYdPr8LhDF"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -885,6 +885,22 @@
       "url": "https://open.spotify.com/track/1CDM8ubMSiRrmBzOB44YT0"
     },
     {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "En la Kalle",
+        "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
+      },
+      "artists": [
+        {
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Skalari Rude Klub (SRK)",
+      "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
+    },
+    {
       "added_at": "2022-09-07 01:07:35",
       "album": {
         "name": "Batuco",
@@ -903,22 +919,6 @@
       "duration_ms": 328680,
       "name": "Mi Vida sin tu Amor (featuring Mi\u00f1o)",
       "url": "https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
-        "name": "En la Kalle",
-        "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
-      },
-      "artists": [
-        {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Skalari Rude Klub (SRK)",
-      "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -957,22 +957,6 @@
       "url": "https://open.spotify.com/track/3Osgqk5IT0FTUc9HehVjXP"
     },
     {
-      "added_at": "2022-09-29 00:17:43",
-      "album": {
-        "name": "Todo Alg\u00fan D\u00eda Termina",
-        "url": "https://open.spotify.com/album/6ee0nmx2mLFnanzvX32pSK"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        }
-      ],
-      "duration_ms": 248014,
-      "name": "Todo Alg\u00fan D\u00eda Termina",
-      "url": "https://open.spotify.com/track/45YYcOVAIAFxGV0kR4pMq0"
-    },
-    {
       "added_at": "2021-12-21 17:00:46",
       "album": {
         "name": "Jaula De Grillos",
@@ -987,6 +971,22 @@
       "duration_ms": 257959,
       "name": "Resistir\u00e9",
       "url": "https://open.spotify.com/track/2yV2H6tLETd64BapUezE95"
+    },
+    {
+      "added_at": "2022-09-29 00:17:43",
+      "album": {
+        "name": "Todo Alg\u00fan D\u00eda Termina",
+        "url": "https://open.spotify.com/album/6ee0nmx2mLFnanzvX32pSK"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        }
+      ],
+      "duration_ms": 248014,
+      "name": "Todo Alg\u00fan D\u00eda Termina",
+      "url": "https://open.spotify.com/track/45YYcOVAIAFxGV0kR4pMq0"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Una cosa es el ska y otra cosa es el rocksteady",
-        "url": "https://open.spotify.com/album/6O50zOjFZO8TeOxE9IfUBs"
-      },
-      "artists": [
-        {
-          "name": "Melodycans",
-          "url": "https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF"
-        }
-      ],
-      "duration_ms": 235602,
-      "name": "Seamos m\u00e1s que amigos - Remastered",
-      "url": "https://open.spotify.com/track/217Vkz8qvDOtpjqFrIENok"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
         "name": "Sound System",
         "url": "https://open.spotify.com/album/2AO1JqXocz1rRdJS2qhg8N"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 187385,
       "name": "Sue\u00f1os",
       "url": "https://open.spotify.com/track/6btqDJJrlwzfv9YNRH9Gj1"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Una cosa es el ska y otra cosa es el rocksteady",
+        "url": "https://open.spotify.com/album/6O50zOjFZO8TeOxE9IfUBs"
+      },
+      "artists": [
+        {
+          "name": "Melodycans",
+          "url": "https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF"
+        }
+      ],
+      "duration_ms": 235602,
+      "name": "Seamos m\u00e1s que amigos - Remastered",
+      "url": "https://open.spotify.com/track/217Vkz8qvDOtpjqFrIENok"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Yo Te Avis\u00e9",
-        "url": "https://open.spotify.com/album/2DJSgXqWhU2iJT2hPP2HCu"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 174306,
-      "name": "Yo No Me Sentar\u00eda en Tu Mesa - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/7Jy41XI7wVBnXvOifdoaxG"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
         "name": "Solo Para Fan\u00e1ticos",
         "url": "https://open.spotify.com/album/7dNOmvrSi7gvtxQWrG8K8w"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 278693,
       "name": "El Matador",
       "url": "https://open.spotify.com/track/3SWdfkBnN5YWgnJ4jKnqxe"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Yo Te Avis\u00e9",
+        "url": "https://open.spotify.com/album/2DJSgXqWhU2iJT2hPP2HCu"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 174306,
+      "name": "Yo No Me Sentar\u00eda en Tu Mesa - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/7Jy41XI7wVBnXvOifdoaxG"
     },
     {
       "added_at": "2021-12-21 17:00:46",

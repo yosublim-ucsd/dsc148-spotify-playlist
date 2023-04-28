@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,752 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,760 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,10 +86,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 76 | [The Barbara Song](https://open.spotify.com/track/1mnhCmPsFNpUxJWKE5J20M) | [Gil Evans](https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ) | [The Individualism Of Gil Evans](https://open.spotify.com/album/3dmkH0MnFScU9uB1naCAms) | 9:59 |
 | 77 | [Dream A Little Dream Of Me](https://open.spotify.com/track/4ps03HgH3kNBA91PjRQlkQ) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Decca Singles 1949\-1958](https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1) | 3:06 |
 | 78 | [Worlds Outside](https://open.spotify.com/track/5as828xQewhAy2JBXwakAj) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [The Very Best of Chris Botti](https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD) | 4:37 |
-| 79 | [You Need To Rock](https://open.spotify.com/track/3lta7AUv6eu5QSjiGPqKYz) | [Johnny Hodges & His Orchestra](https://open.spotify.com/artist/586u2f7H540oCefUIazflT) | [Side By Side](https://open.spotify.com/album/24gavJ6O46xWEAW2nDJX1m) | 5:51 |
-| 80 | [Pocket City](https://open.spotify.com/track/1s3h7rpQMB1Sm2SuQDXnIp) | [Art Porter](https://open.spotify.com/artist/47nj6OsTDQIuMjmsml6OLu) | [Pocket City](https://open.spotify.com/album/5ScPG1XIrzq2CoJyVRru7C) | 5:18 |
-| 81 | [Norwegian Wood](https://open.spotify.com/track/4sHqA2YvJiPsOQbP63LtbW) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [The New Standard](https://open.spotify.com/album/1eyEiGNcBUytqA9OgU0dSp) | 8:07 |
-| 82 | [Conversation With A Baby](https://open.spotify.com/track/0cPMVEgQVpm6m4uinaydQE) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Wholly Earth](https://open.spotify.com/album/4eojsgohs6cXhmjtekufUE) | 6:37 |
+| 79 | [Pocket City](https://open.spotify.com/track/1s3h7rpQMB1Sm2SuQDXnIp) | [Art Porter](https://open.spotify.com/artist/47nj6OsTDQIuMjmsml6OLu) | [Pocket City](https://open.spotify.com/album/5ScPG1XIrzq2CoJyVRru7C) | 5:18 |
+| 80 | [You Need To Rock](https://open.spotify.com/track/3lta7AUv6eu5QSjiGPqKYz) | [Johnny Hodges & His Orchestra](https://open.spotify.com/artist/586u2f7H540oCefUIazflT) | [Side By Side](https://open.spotify.com/album/24gavJ6O46xWEAW2nDJX1m) | 5:51 |
+| 81 | [Conversation With A Baby](https://open.spotify.com/track/0cPMVEgQVpm6m4uinaydQE) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Wholly Earth](https://open.spotify.com/album/4eojsgohs6cXhmjtekufUE) | 6:37 |
+| 82 | [Norwegian Wood](https://open.spotify.com/track/4sHqA2YvJiPsOQbP63LtbW) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [The New Standard](https://open.spotify.com/album/1eyEiGNcBUytqA9OgU0dSp) | 8:07 |
 | 83 | [Greensleeves](https://open.spotify.com/track/0H1Ps1YpObdbhZOF7DLWId) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Guitar Forms \(Expanded Edition\)](https://open.spotify.com/album/3blcKLkwfmRUFBVUbTyLHc) | 4:11 |
 | 84 | [Somebody Loves Me](https://open.spotify.com/track/30VONnonLwftL8WeCopyLt) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc) | [The Complete Verve Studio Sessions](https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2) | 3:33 |
 | 85 | [Maya](https://open.spotify.com/track/14CS5ex2sEZKyKdCgDOivI) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [High Life](https://open.spotify.com/album/2SN7tuhq5GC1usNNrY74yU) | 5:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 99 | [Close Your Eyes](https://open.spotify.com/track/3RlSNWZozZWOjSLvyjAd3l) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Complete Verve Studio Sessions](https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2) | 2:39 |
 | 100 | [Blue Moon](https://open.spotify.com/track/5aMjgZfUjvHrG23l5fIM4W) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc) | [The Complete Verve Studio Sessions](https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2) | 4:00 |
 
-Snapshot ID: `MTYxOTY5MTI1NCwwMDAwMDAwMGM3YTEwNzJhYWNiNmI1NzgxNzVhNmE1NzJmMzZhZTc3`
+Snapshot ID: `MCw3OTkyMTNjYzFjMmE1ZjJhNzJjNjVkZmI4ZDNlZDIxZTMwMTE1M2Q1`

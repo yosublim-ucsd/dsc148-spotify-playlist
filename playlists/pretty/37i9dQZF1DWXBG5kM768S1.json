@@ -1,12 +1,12 @@
 {
   "description": "De beste norske l\u00e5tene fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 68095,
+  "num_followers": 68111,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAyODAwMCwwMDAwMDAwMDkxMjI2NTAzMDkwN2RkNjA0NWQzYjY1NmVkOGE3MGM4",
+  "snapshot_id": "MCxjYWI5NTE0OTFjYTgzZWE2MTcwMTA3OWY4MzI3ZTgwYjU0NDcwMDkw",
   "tracks": [
     {
       "added_at": "2023-04-13 22:01:00",
@@ -879,22 +879,18 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Pusterom",
-        "url": "https://open.spotify.com/album/1bCimO52g5O7Ahqp9fVO6d"
+        "name": "Hjarteskjell",
+        "url": "https://open.spotify.com/album/5LrKrBAJdrfrqdv6kFnugC"
       },
       "artists": [
         {
-          "name": "Marie Kl\u00e5pbakken",
-          "url": "https://open.spotify.com/artist/2qHlT3DfJoJNI4I8IzQmky"
-        },
-        {
-          "name": "vinni",
-          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
         }
       ],
-      "duration_ms": 186552,
-      "name": "Pusterom",
-      "url": "https://open.spotify.com/track/1pa2qaCSAloisRVL8YSMUT"
+      "duration_ms": 195906,
+      "name": "Bror",
+      "url": "https://open.spotify.com/track/1585fzVgMIK5BzPXA5a2iS"
     }
   ],
   "unique_name": "Norske viser",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 
 > Southern boogie, swinging blues rock and classic boogie rock\. Cover: ZZ Top
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,193 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,270 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 23 | [Going Back Home](https://open.spotify.com/track/5g3LDYg0JQaXLXx0YAAraG) | [Dr\. Feelgood](https://open.spotify.com/artist/25IRTisJjqI6JlkyCVMBsV) | [Malpractice](https://open.spotify.com/album/39Xqo3qBji9NgSuDA60fvO) | 4:00 |
 | 24 | [Spinning Wheel Blues](https://open.spotify.com/track/0KX5tEsBMLQRmUgYJniMtm) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Down the Dustpipe](https://open.spotify.com/album/4D2lzYrLn7Jg8tIuuSF36L) | 3:19 |
 | 25 | [Had Me a Real Good Time \- 2010 Remaster](https://open.spotify.com/track/6dICmF2LPReh0BjgImRfOn) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Snakes and Ladders: The Best of Faces](https://open.spotify.com/album/19ucGKnLlswEfPk4XEfFbc) | 2:54 |
-| 26 | [Maggie's Farm \- Remastered](https://open.spotify.com/track/2TsY408zarh6FNtc7YsMGf) | [The Blues Band](https://open.spotify.com/artist/68GsFZshoiZmFCfcCv9ArW) | [The Blues Band \- Ready \(Remastered\)](https://open.spotify.com/album/79vGUrA1yoXpJ8FSyhbxKs) | 3:17 |
-| 27 | [Dear Landlord](https://open.spotify.com/track/6N3B6vyRO5V5JwjxJHcZjG) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Joe Cocker!](https://open.spotify.com/album/3MoIn4co8ZN5vhLNekUqnc) | 3:25 |
+| 26 | [Dear Landlord](https://open.spotify.com/track/6N3B6vyRO5V5JwjxJHcZjG) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Joe Cocker!](https://open.spotify.com/album/3MoIn4co8ZN5vhLNekUqnc) | 3:25 |
+| 27 | [Maggie's Farm \- Remastered](https://open.spotify.com/track/2TsY408zarh6FNtc7YsMGf) | [The Blues Band](https://open.spotify.com/artist/68GsFZshoiZmFCfcCv9ArW) | [The Blues Band \- Ready \(Remastered\)](https://open.spotify.com/album/79vGUrA1yoXpJ8FSyhbxKs) | 3:17 |
 | 28 | [Floyd's Hotel](https://open.spotify.com/track/2feQ7CyRZOUeqsct3zwDtn) | [The J\. Geils Band](https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F) | [The Morning After](https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8) | 3:09 |
 | 29 | [Leave This House](https://open.spotify.com/track/3EXwHbECDsXgl0M9iZcfhP) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Leave This House](https://open.spotify.com/album/5FjVzRR2EtfRBJjsmZ1HBi) | 3:29 |
 | 30 | [Whatever You Want](https://open.spotify.com/track/2PkOmx1S4XOwPU1Pgyaoig) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Quotable Quo](https://open.spotify.com/album/4IAafmNssq4xupEIUR7enj) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 49 | [Born To Boogie](https://open.spotify.com/track/3Qd1sMmuPHEgycQOn6Mdve) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Tanx](https://open.spotify.com/album/3I4VF8Hg1aXiCOC3zLxfXG) | 2:04 |
 | 50 | [Keep Playin' That Rock 'n' Roll](https://open.spotify.com/track/0rQf7arPF7Fob1ewkKicL1) | [Edgar Winter's White Trash](https://open.spotify.com/artist/4uOdVRRuTWjJVkcN0LXxwL) | [The Essential Edgar Winter](https://open.spotify.com/album/3a27WqEqhsikCfuxVSq2vW) | 3:44 |
 
-Snapshot ID: `MTYzODg5Njg2OCwwMDAwMDAwMDQ4ZjNlOTI5ZjI2NmQyNWFlYWNjMDEyYTEzN2YyNmIx`
+Snapshot ID: `MCw1MzUzN2Y3NTVkY2JlMDY4YWJjMzljZjc2YmJiZGVjNjgwNzFkNWMw`

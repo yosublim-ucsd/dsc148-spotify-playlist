@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 99398,
+  "num_followers": 99430,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMDA1MzFjNTYyY2EwOWYyMjAyYmNmNDAwMTAwZjg4NjFl",
+  "snapshot_id": "MCxmZTczMDE2MjM1ZDA0ODllOTExYWU0MWUxMjM5OWNiNjQ3YzM4NjA4",
   "tracks": [
     {
       "added_at": "2023-04-14 03:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Paranoia Pop",
-        "url": "https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 219386,
-      "name": "Sin Se\u00f1al",
-      "url": "https://open.spotify.com/track/4CA5GAc6d6zM2ft0MbQ1BW"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "ENCHASTRE",
         "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
       },
@@ -351,6 +335,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Paranoia Pop",
+        "url": "https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 219386,
+      "name": "Sin Se\u00f1al",
+      "url": "https://open.spotify.com/track/4CA5GAc6d6zM2ft0MbQ1BW"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Las Voces",
         "url": "https://open.spotify.com/album/5MlI1naMkXMqRxNS0YsftP"
       },
@@ -363,22 +363,6 @@
       "duration_ms": 210911,
       "name": "Las Voces",
       "url": "https://open.spotify.com/track/4JW6406Y4xsE9ZVE318A7c"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Ojitos de Md",
-        "url": "https://open.spotify.com/album/5CevLKYFXjNzjGl8hRi1lv"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        }
-      ],
-      "duration_ms": 137052,
-      "name": "Ojitos de Md",
-      "url": "https://open.spotify.com/track/0Pkc9prDMNlz3WhP9MkwMx"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -403,18 +387,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Correspondencia",
-        "url": "https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa"
+        "name": "Ojitos de Md",
+        "url": "https://open.spotify.com/album/5CevLKYFXjNzjGl8hRi1lv"
       },
       "artists": [
         {
-          "name": "Tessa Ia",
-          "url": "https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg"
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
         }
       ],
-      "duration_ms": 202053,
-      "name": "Acic\u00e1lame",
-      "url": "https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM"
+      "duration_ms": 137052,
+      "name": "Ojitos de Md",
+      "url": "https://open.spotify.com/track/0Pkc9prDMNlz3WhP9MkwMx"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -435,6 +419,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Correspondencia",
+        "url": "https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa"
+      },
+      "artists": [
+        {
+          "name": "Tessa Ia",
+          "url": "https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg"
+        }
+      ],
+      "duration_ms": 202053,
+      "name": "Acic\u00e1lame",
+      "url": "https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "parkour",
         "url": "https://open.spotify.com/album/5rXCyHFLbBRDCMzcIpkVnL"
       },
@@ -447,38 +447,6 @@
       "duration_ms": 230292,
       "name": "parkour",
       "url": "https://open.spotify.com/track/4tr21CwLteQmwz1E1IwgZY"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Ciencia Exacta",
-        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 158121,
-      "name": "Las Flores",
-      "url": "https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Los D\u00edas en la Sala",
-        "url": "https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 163411,
-      "name": "Siempre Te Voy a Querer",
-      "url": "https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -503,6 +471,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Ciencia Exacta",
+        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 158121,
+      "name": "Las Flores",
+      "url": "https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "PEL\u00cdCULA",
         "url": "https://open.spotify.com/album/0F5ZesfEwl0qPpjnaEzG1L"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 193206,
       "name": "PEL\u00cdCULA",
       "url": "https://open.spotify.com/track/0YkFznftrXHZnJIde7T5v2"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Los D\u00edas en la Sala",
+        "url": "https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 163411,
+      "name": "Siempre Te Voy a Querer",
+      "url": "https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -535,22 +535,6 @@
       "duration_ms": 178392,
       "name": "El Encuentro",
       "url": "https://open.spotify.com/track/0PbDj1Lh8uZJ2ZcTRSBvQf"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Feroza",
-        "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        }
-      ],
-      "duration_ms": 178756,
-      "name": "Susurrito",
-      "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -587,6 +571,22 @@
       "duration_ms": 202804,
       "name": "Cada Letra Que Escribo",
       "url": "https://open.spotify.com/track/06cYrvLQxg2YngN0sx8zXS"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Feroza",
+        "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "duration_ms": 178756,
+      "name": "Susurrito",
+      "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Para Vivir Mejor",
+        "url": "https://open.spotify.com/album/6Hvl1yMEJWYNG72bHkZMZs"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 151729,
+      "name": "Para Vivir Mejor",
+      "url": "https://open.spotify.com/track/3WCJS3iT5DIHYYBd7Obm38"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Ganas",
         "url": "https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0"
       },
@@ -755,22 +771,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Para Vivir Mejor",
-        "url": "https://open.spotify.com/album/6Hvl1yMEJWYNG72bHkZMZs"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 151729,
-      "name": "Para Vivir Mejor",
-      "url": "https://open.spotify.com/track/3WCJS3iT5DIHYYBd7Obm38"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "La Mexicana - Single",
         "url": "https://open.spotify.com/album/4uJT1I6IOjTQoXRgvK5OQy"
       },
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Mi Primer D\u00eda Triste",
-        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
+        "name": "La Danza del Espacio Tiempo",
+        "url": "https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b"
       },
       "artists": [
         {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
         }
       ],
-      "duration_ms": 225264,
-      "name": "Desnuda",
-      "url": "https://open.spotify.com/track/0drLaDtp4SxzUJoLwEpNe1"
+      "duration_ms": 128981,
+      "name": "La Danza del Espacio Tiempo",
+      "url": "https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -855,6 +855,22 @@
       "duration_ms": 122456,
       "name": "Por Amor al Arte",
       "url": "https://open.spotify.com/track/11J0d0cb0J4Xk4PcRyuJ3k"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 225264,
+      "name": "Desnuda",
+      "url": "https://open.spotify.com/track/0drLaDtp4SxzUJoLwEpNe1"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -915,6 +931,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Cerca de Ti",
+        "url": "https://open.spotify.com/album/0F4Mcth9SWbVG0E6RvNyem"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 157849,
+      "name": "Cerca de Ti",
+      "url": "https://open.spotify.com/track/6GvnbcWUY93ck0EO00enpm"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Aparato",
         "url": "https://open.spotify.com/album/1zg2V4L2zBkzcHniquB0FP"
       },
@@ -927,22 +959,6 @@
       "duration_ms": 212574,
       "name": "Aparato",
       "url": "https://open.spotify.com/track/0n35rbkfEiQMKHHOgUcvdV"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "La Danza del Espacio Tiempo",
-        "url": "https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 128981,
-      "name": "La Danza del Espacio Tiempo",
-      "url": "https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -999,6 +1015,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Radar",
+        "url": "https://open.spotify.com/album/3CiE56hBxIZtHpAWZHScv5"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "duration_ms": 162288,
+      "name": "Radar",
+      "url": "https://open.spotify.com/track/4nW9jVbdboPpVCFJ8UWeKX"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Conf\u00eda",
         "url": "https://open.spotify.com/album/6OBErs3AYUFKYyZYDDavCU"
       },
@@ -1035,50 +1067,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Radar",
-        "url": "https://open.spotify.com/album/3CiE56hBxIZtHpAWZHScv5"
+        "name": "Portales",
+        "url": "https://open.spotify.com/album/6UtZXhgIDo8ydcMCo2zZWd"
       },
       "artists": [
         {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        }
-      ],
-      "duration_ms": 162288,
-      "name": "Radar",
-      "url": "https://open.spotify.com/track/4nW9jVbdboPpVCFJ8UWeKX"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Cerca de Ti",
-        "url": "https://open.spotify.com/album/0F4Mcth9SWbVG0E6RvNyem"
-      },
-      "artists": [
+          "name": "Sir Hope",
+          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
+        },
         {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+          "name": "Juanito El Cantor",
+          "url": "https://open.spotify.com/artist/0XOo1UrJtPQjLkILqMGusW"
         }
       ],
-      "duration_ms": 157849,
-      "name": "Cerca de Ti",
-      "url": "https://open.spotify.com/track/6GvnbcWUY93ck0EO00enpm"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Romeo y Violeta",
-        "url": "https://open.spotify.com/album/68s41NxvS7FDQzVdNfqryX"
-      },
-      "artists": [
-        {
-          "name": "Juan Ingaramo",
-          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
-        }
-      ],
-      "duration_ms": 230296,
-      "name": "Romeo y Violeta",
-      "url": "https://open.spotify.com/track/4nVoM4pJT8CUTAJbenU2bx"
+      "duration_ms": 197506,
+      "name": "Cuando Estamos los Dos",
+      "url": "https://open.spotify.com/track/0qbYbugP6J7esmnRJpDThd"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1099,22 +1103,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Portales",
-        "url": "https://open.spotify.com/album/6UtZXhgIDo8ydcMCo2zZWd"
+        "name": "Romeo y Violeta",
+        "url": "https://open.spotify.com/album/68s41NxvS7FDQzVdNfqryX"
       },
       "artists": [
         {
-          "name": "Sir Hope",
-          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
-        },
-        {
-          "name": "Juanito El Cantor",
-          "url": "https://open.spotify.com/artist/0XOo1UrJtPQjLkILqMGusW"
+          "name": "Juan Ingaramo",
+          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
         }
       ],
-      "duration_ms": 197506,
-      "name": "Cuando Estamos los Dos",
-      "url": "https://open.spotify.com/track/0qbYbugP6J7esmnRJpDThd"
+      "duration_ms": 230296,
+      "name": "Romeo y Violeta",
+      "url": "https://open.spotify.com/track/4nVoM4pJT8CUTAJbenU2bx"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Luz de perla",
+        "url": "https://open.spotify.com/album/6ENurOBs5BwrZNvGvJ2VIY"
+      },
+      "artists": [
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        },
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        }
+      ],
+      "duration_ms": 169363,
+      "name": "Soy un volc\u00e1n",
+      "url": "https://open.spotify.com/track/0dGwAktrgm2gwLCcU3NLfG"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "TKM",
         "url": "https://open.spotify.com/album/3nygqNGAb9LEbK4yV20sqt"
       },
@@ -1283,22 +1303,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Luz de perla",
-        "url": "https://open.spotify.com/album/6ENurOBs5BwrZNvGvJ2VIY"
+        "name": "Verano en Invierno",
+        "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
       },
       "artists": [
         {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
-        },
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
         }
       ],
-      "duration_ms": 169363,
-      "name": "Soy un volc\u00e1n",
-      "url": "https://open.spotify.com/track/0dGwAktrgm2gwLCcU3NLfG"
+      "duration_ms": 228437,
+      "name": "Amor de Verano",
+      "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1319,22 +1335,6 @@
       "duration_ms": 216771,
       "name": "Inteligencia Emocional",
       "url": "https://open.spotify.com/track/2xCkOU6IDhwkOIcHO8wNNa"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Verano en Invierno",
-        "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
-      },
-      "artists": [
-        {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
-        }
-      ],
-      "duration_ms": 228437,
-      "name": "Amor de Verano",
-      "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Martes 13",
-        "url": "https://open.spotify.com/album/1cc2UPfqcPeai7bqU8v0hq"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 250790,
-      "name": "Te Dej\u00e9 una Carta",
-      "url": "https://open.spotify.com/track/7vKUZpHXiwMx3NvJyJC0MC"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Tu Vereda",
         "url": "https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 212586,
       "name": "Desde Que Te Vi",
       "url": "https://open.spotify.com/track/5H3mXg5URgTVwHxbx0MX35"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Martes 13",
+        "url": "https://open.spotify.com/album/1cc2UPfqcPeai7bqU8v0hq"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 250790,
+      "name": "Te Dej\u00e9 una Carta",
+      "url": "https://open.spotify.com/track/7vKUZpHXiwMx3NvJyJC0MC"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw"
-      },
-      "artists": [
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        }
-      ],
-      "duration_ms": 133711,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Ni una Gota de Amor",
         "url": "https://open.spotify.com/album/5LgML12Rb7QlWZ9OzPd97y"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 151953,
       "name": "Ni una Gota de Amor",
       "url": "https://open.spotify.com/track/0bhDlHFULrnJgbTnh8B9x3"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "duration_ms": 133711,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Ya ni mis amigos me contestan",
-        "url": "https://open.spotify.com/album/4cRlAWKFa1WSqZ2JDcvP8b"
-      },
-      "artists": [
-        {
-          "name": "Santi Celli",
-          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
-        }
-      ],
-      "duration_ms": 195483,
-      "name": "Ya ni mis amigos me contestan",
-      "url": "https://open.spotify.com/track/0P9nPSZTrFXB5vvVBqEC6n"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Tuami",
         "url": "https://open.spotify.com/album/5szk65Ovv0G5VYInwORa3k"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 186000,
       "name": "Tuami",
       "url": "https://open.spotify.com/track/1UbSaStuc69LXMOTQhlEtS"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Ya ni mis amigos me contestan",
+        "url": "https://open.spotify.com/album/4cRlAWKFa1WSqZ2JDcvP8b"
+      },
+      "artists": [
+        {
+          "name": "Santi Celli",
+          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
+        }
+      ],
+      "duration_ms": 195483,
+      "name": "Ya ni mis amigos me contestan",
+      "url": "https://open.spotify.com/track/0P9nPSZTrFXB5vvVBqEC6n"
     },
     {
       "added_at": "2023-04-14 03:00:00",

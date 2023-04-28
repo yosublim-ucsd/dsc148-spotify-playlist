@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 137796,
+  "num_followers": 137860,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMDg4M2FkZDg3MDFhYWQ0M2JlZDUwYjJjYTJhZTNjYjAz",
+  "snapshot_id": "MCw1MjdmNDA5NDVhNGRjOGU1ZmJjMDE2ZWRkOGMwYTA5NTVkZTkxOGQy",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -593,22 +593,6 @@
       "url": "https://open.spotify.com/track/5z3kHR2Gh892XGcYuln1Gf"
     },
     {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Safe at Home",
-        "url": "https://open.spotify.com/album/3FNy8Kp7h2WoUngSfCNpMM"
-      },
-      "artists": [
-        {
-          "name": "The International Submarine Band",
-          "url": "https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF"
-        }
-      ],
-      "duration_ms": 169133,
-      "name": "Miller's Cave",
-      "url": "https://open.spotify.com/track/2Zq979VWE5SG5WIcd396Ay"
-    },
-    {
       "added_at": "2022-06-01 14:18:36",
       "album": {
         "name": "Road Trip Blues Rock",
@@ -627,6 +611,22 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
+        "name": "Safe at Home",
+        "url": "https://open.spotify.com/album/3FNy8Kp7h2WoUngSfCNpMM"
+      },
+      "artists": [
+        {
+          "name": "The International Submarine Band",
+          "url": "https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF"
+        }
+      ],
+      "duration_ms": 169133,
+      "name": "Miller's Cave",
+      "url": "https://open.spotify.com/track/2Zq979VWE5SG5WIcd396Ay"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
         "name": "No Other",
         "url": "https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 391773,
       "name": "Strength of Strings",
       "url": "https://open.spotify.com/track/0ORYA6kaMWPKtHDPcea16a"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/41AdLTdErVUwftvr1dUVAf"
+      },
+      "artists": [
+        {
+          "name": "Pure Prairie League",
+          "url": "https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s"
+        }
+      ],
+      "duration_ms": 246693,
+      "name": "Two Lane Highway",
+      "url": "https://open.spotify.com/track/0tcq9tNIw5JHUywymB07OA"
     },
     {
       "added_at": "2022-06-01 14:18:36",
@@ -687,22 +703,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/41AdLTdErVUwftvr1dUVAf"
-      },
-      "artists": [
-        {
-          "name": "Pure Prairie League",
-          "url": "https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s"
-        }
-      ],
-      "duration_ms": 246693,
-      "name": "Two Lane Highway",
-      "url": "https://open.spotify.com/track/0tcq9tNIw5JHUywymB07OA"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "Magnetic South (Expanded Edition)",
         "url": "https://open.spotify.com/album/2JdE6W8pxUtwNET1xI3OZ7"
       },
@@ -739,22 +739,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Ton-Ton Macoute!",
-        "url": "https://open.spotify.com/album/5PCm5Bvheyg4QeuF5lfkum"
-      },
-      "artists": [
-        {
-          "name": "Johnny Jenkins",
-          "url": "https://open.spotify.com/artist/3ghDyCR4DJVjwfcjNHUD27"
-        }
-      ],
-      "duration_ms": 205093,
-      "name": "Down Along The Cove",
-      "url": "https://open.spotify.com/track/2jigzHqXdUlpAlmSeaVSeU"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "The Desert Rose Band",
         "url": "https://open.spotify.com/album/4Web53QnajhmXAA6PXK5ih"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 177706,
       "name": "Love Reunited",
       "url": "https://open.spotify.com/track/59kLqy6RhRKWFWFgdFSB63"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Ton-Ton Macoute!",
+        "url": "https://open.spotify.com/album/5PCm5Bvheyg4QeuF5lfkum"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jenkins",
+          "url": "https://open.spotify.com/artist/3ghDyCR4DJVjwfcjNHUD27"
+        }
+      ],
+      "duration_ms": 205093,
+      "name": "Down Along The Cove",
+      "url": "https://open.spotify.com/track/2jigzHqXdUlpAlmSeaVSeU"
     },
     {
       "added_at": "2020-08-05 15:52:11",

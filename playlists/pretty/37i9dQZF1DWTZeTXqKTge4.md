@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Souldia
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,131 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,139 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [César](https://open.spotify.com/track/1SHRlSZ78fklxAMG6bVBVW) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [César](https://open.spotify.com/album/0n3xG3MLvkhq1Jmpuwnv28) | 2:47 |
 | 75 | [NHN](https://open.spotify.com/track/0DfrSA7A8vdk8rDCUlBNac) | [Kay Bandz](https://open.spotify.com/artist/0NhcQOX46LVhK8aUc4vmMd), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [NHN](https://open.spotify.com/album/7s2LzVU7OEMJbKW4DUYsBJ) | 3:44 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDhkMWQwNzhjZDYzMDEzZDJlMjMzNzFjM2JiZDY4ZDg1`
+Snapshot ID: `MCw2NzU1YWM3OTkzZTU4YTc5M2JkNjFmOTNhMzg1OWE4NDcyNzAxODhi`

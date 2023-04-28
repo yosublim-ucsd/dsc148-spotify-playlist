@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwMzQxNjAsMDAwMDAwMDAyYTM1Zjg1NmZlZGE4ZmFkMTNkMDFkYWU3OGRmNmNmYw==",
+  "snapshot_id": "MjgwMzQxNjAsMDAwMDAwMDBjMzM1ZWYwNzQ1ZDI3YjlhNzQzZmVkZDhkMzJlZGI2Yg==",
   "tracks": [
     {
       "added_at": "2023-04-21 04:00:00",
@@ -31,42 +31,98 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/3xPchYxzLZMB0v9QilXjiG"
+        "name": "That You Not Dare To Forget",
+        "url": "https://open.spotify.com/album/6WgNJUxiFSVZTBO6UR4wqH"
       },
       "artists": [
         {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+          "name": "M.E.B.",
+          "url": "https://open.spotify.com/artist/6AjJDwKIPlXjOxGeiCCy9P"
         }
       ],
-      "duration_ms": 181973,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/2qpO61VYdgYDYrrXGfA2yi"
+      "duration_ms": 373533,
+      "name": "Mellow Kisses",
+      "url": "https://open.spotify.com/track/2aCGvsI9wPrmFGUGt3VEXW"
     },
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Don't Let The Devil [Feat. thankugoodsir]",
-        "url": "https://open.spotify.com/album/60rpMY5zgymbCEn7ICfi8M"
+        "name": "Variables",
+        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
       },
       "artists": [
         {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "El-P",
-          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
-        },
-        {
-          "name": "thankugoodsir",
-          "url": "https://open.spotify.com/artist/64wFZ5RSArS1MwJ0N0nJhN"
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
         }
       ],
-      "duration_ms": 164894,
-      "name": "Don't Let The Devil [Feat. thankugoodsir] - Single Version",
-      "url": "https://open.spotify.com/track/2LBwRP4HSUTJiLobjhaaXp"
+      "duration_ms": 403933,
+      "name": "Foreword",
+      "url": "https://open.spotify.com/track/2n0GcL4eZ110vdaU16OBdJ"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6qzKDJBKrbGWvdFNylWM7x"
+      },
+      "artists": [
+        {
+          "name": "Tamika Scott",
+          "url": "https://open.spotify.com/artist/1M8OKqAm4Xxjhqw9qhhO4u"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 242670,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/2imQHlhnuTG3TvgxLEKcGR"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Walking on Sunshine (Metal Version)",
+        "url": "https://open.spotify.com/album/2TQ59UB1pvxvmZ2jACjcp2"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 208312,
+      "name": "Walking on Sunshine (Metal Version)",
+      "url": "https://open.spotify.com/track/0pc94WOnAQaMxRQenwlCDD"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Abbado: Schumann \u2013 Tchaikovsky",
+        "url": "https://open.spotify.com/album/2RTQqBU2yR9eSdYfpLheRW"
+      },
+      "artists": [
+        {
+          "name": "Carl Maria von Weber",
+          "url": "https://open.spotify.com/artist/1p6wR69pnH9LBWZvwliuz2"
+        },
+        {
+          "name": "Alfred Brendel",
+          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "duration_ms": 452000,
+      "name": "Konzertst\u00fcck in F Minor, Op. 79: Adagio - Tempo di marcia - Pi\u00f9 mosso - Presto giocoso",
+      "url": "https://open.spotify.com/track/0uMwn3iVIQ9DwwQU6wmLbS"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -111,54 +167,42 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Variables",
-        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/3xPchYxzLZMB0v9QilXjiG"
       },
       "artists": [
         {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
         }
       ],
-      "duration_ms": 403933,
-      "name": "Foreword",
-      "url": "https://open.spotify.com/track/2n0GcL4eZ110vdaU16OBdJ"
+      "duration_ms": 181973,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/2qpO61VYdgYDYrrXGfA2yi"
     },
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Walking on Sunshine (Metal Version)",
-        "url": "https://open.spotify.com/album/2TQ59UB1pvxvmZ2jACjcp2"
+        "name": "Don't Let The Devil [Feat. thankugoodsir]",
+        "url": "https://open.spotify.com/album/60rpMY5zgymbCEn7ICfi8M"
       },
       "artists": [
         {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
-        }
-      ],
-      "duration_ms": 208312,
-      "name": "Walking on Sunshine (Metal Version)",
-      "url": "https://open.spotify.com/track/0pc94WOnAQaMxRQenwlCDD"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/6qzKDJBKrbGWvdFNylWM7x"
-      },
-      "artists": [
-        {
-          "name": "Tamika Scott",
-          "url": "https://open.spotify.com/artist/1M8OKqAm4Xxjhqw9qhhO4u"
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
         },
         {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+          "name": "El-P",
+          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+        },
+        {
+          "name": "thankugoodsir",
+          "url": "https://open.spotify.com/artist/64wFZ5RSArS1MwJ0N0nJhN"
         }
       ],
-      "duration_ms": 242670,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/2imQHlhnuTG3TvgxLEKcGR"
+      "duration_ms": 164894,
+      "name": "Don't Let The Devil [Feat. thankugoodsir] - Single Version",
+      "url": "https://open.spotify.com/track/2LBwRP4HSUTJiLobjhaaXp"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -179,50 +223,6 @@
       "duration_ms": 287100,
       "name": "South Side - Resound NYC Version",
       "url": "https://open.spotify.com/track/5bANiJIruzVnOpflrMX7VF"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Abbado: Schumann \u2013 Tchaikovsky",
-        "url": "https://open.spotify.com/album/2RTQqBU2yR9eSdYfpLheRW"
-      },
-      "artists": [
-        {
-          "name": "Carl Maria von Weber",
-          "url": "https://open.spotify.com/artist/1p6wR69pnH9LBWZvwliuz2"
-        },
-        {
-          "name": "Alfred Brendel",
-          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        }
-      ],
-      "duration_ms": 452000,
-      "name": "Konzertst\u00fcck in F Minor, Op. 79: Adagio - Tempo di marcia - Pi\u00f9 mosso - Presto giocoso",
-      "url": "https://open.spotify.com/track/0uMwn3iVIQ9DwwQU6wmLbS"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "That You Not Dare To Forget",
-        "url": "https://open.spotify.com/album/6WgNJUxiFSVZTBO6UR4wqH"
-      },
-      "artists": [
-        {
-          "name": "M.E.B.",
-          "url": "https://open.spotify.com/artist/6AjJDwKIPlXjOxGeiCCy9P"
-        }
-      ],
-      "duration_ms": 373533,
-      "name": "Mellow Kisses",
-      "url": "https://open.spotify.com/track/2aCGvsI9wPrmFGUGt3VEXW"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -463,26 +463,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/4JvUT0RuTH3rYTp26QB5o4"
-      },
-      "artists": [
-        {
-          "name": "Scott Bradlee's Postmodern Jukebox",
-          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
-        },
-        {
-          "name": "Jeffrey James",
-          "url": "https://open.spotify.com/artist/0Bm5cFUEv8FGx1wEekHj0D"
-        }
-      ],
-      "duration_ms": 241532,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/4vRlN2qaQbdtpL9caPqh5q"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Cult of Personality (Re-Recorded - Sped Up)",
         "url": "https://open.spotify.com/album/2GrhRj3q9UuIbKhK7opZXK"
       },
@@ -519,6 +499,26 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/4JvUT0RuTH3rYTp26QB5o4"
+      },
+      "artists": [
+        {
+          "name": "Scott Bradlee's Postmodern Jukebox",
+          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
+        },
+        {
+          "name": "Jeffrey James",
+          "url": "https://open.spotify.com/artist/0Bm5cFUEv8FGx1wEekHj0D"
+        }
+      ],
+      "duration_ms": 241532,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/4vRlN2qaQbdtpL9caPqh5q"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "The Dethalbum (Expanded Edition) [Bonus Tracks]",
         "url": "https://open.spotify.com/album/4c6UA2PK8mHXRpOSDmReQK"
       },
@@ -551,8 +551,8 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "PORTALS",
-        "url": "https://open.spotify.com/album/3XxoKjcWSl4uGplV1kiKAp"
+        "name": "PORTALS (Deluxe)",
+        "url": "https://open.spotify.com/album/6lbrHERXve89hrxuCpsJOg"
       },
       "artists": [
         {
@@ -562,7 +562,7 @@
       ],
       "duration_ms": 183974,
       "name": "SPIDER WEB",
-      "url": "https://open.spotify.com/track/54lDUmLUNp653H12lF6NnA"
+      "url": "https://open.spotify.com/track/77wA2WR0WudvUTzeBGYh3d"
     },
     {
       "added_at": "2023-04-21 04:00:00",

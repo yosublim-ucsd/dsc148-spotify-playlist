@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: AJR
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,025 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,108 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 59 | [Naive](https://open.spotify.com/track/15INtZYXu2P3gna6hPigIg) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [BODY](https://open.spotify.com/album/7FkX7kbfwjZLW5UaoyNODY) | 3:15 |
 | 60 | [Nervous System](https://open.spotify.com/track/1F4bLAgSwZkU5VEVSGyhzB) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Nervous System](https://open.spotify.com/album/2tqcwbNuovDs9h1wuQ5vTr) | 2:37 |
 
-Snapshot ID: `MTY4MjM0ODIwNSwwMDAwMDAwMGQ3Y2EzYjBlMTE3NDkwOTNhZTcxMThiNGE0Njk1NDJm`
+Snapshot ID: `MCxhZDQyZDgxNDdjZjlmODM5NWE5MWY4YWRhYzA1OTkwZmIzMTYyY2Vi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > Viral hits in Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,983 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,035 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 11 | [Hamba Juba](https://open.spotify.com/track/4k5FlWz3dfhyQzmRpVPZsW) | [Lady Amar](https://open.spotify.com/artist/63BHCKXCt00q20fd45W4Pk), [JL SA](https://open.spotify.com/artist/1HhlP6BPW4L4zcggfOZstL), [Cici](https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj), [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4) | [Hamba Juba](https://open.spotify.com/album/4FnwIltkf5tGWFXJCcECaz) | 8:00 |
 | 12 | [The King's Affirmation](https://open.spotify.com/track/4RLHj4aXHBZIWPBsXqEGgO) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [The King's Affirmation](https://open.spotify.com/album/5n7GrqzEmcmhhuXmJhHBbD) | 2:39 |
 | 13 | [Favorite Song](https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Favorite Song](https://open.spotify.com/album/4XiUZULpVS6gTgKKU7KTX5) | 3:28 |
-| 14 | [WHY YOU LYING](https://open.spotify.com/track/4CovAhJPgxESUpzN00NIEz) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [WHY YOU LYING](https://open.spotify.com/album/69ocBi0xv91DjHwA4Clkxr) | 2:43 |
+| 14 | [Why You Lying](https://open.spotify.com/track/0Xol9bu4ZcAhxbUYZDKKVf) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [Why You Lying](https://open.spotify.com/album/1iwiVSNUzS3ylg3XqHcmID) | 2:43 |
 | 15 | [Claro](https://open.spotify.com/track/0Lc8dFTLevgeHnXccrjTRm) | [Tobi Adu](https://open.spotify.com/artist/16o16zAhWJZGxny53h8TaU) | [Claro](https://open.spotify.com/album/70qL7kIW9QX4h9K27BVa4R) | 3:10 |
 | 16 | [SySoen](https://open.spotify.com/track/474ACPInPwPBWt1eFwG0fs) | [Wilma Van Heerden](https://open.spotify.com/artist/0vnlEBfwofHzCHw2sI7VmP) | [SySoen](https://open.spotify.com/album/7LfX2CYX7o9jjDtqzxC8LI) | 3:33 |
 | 17 | [Single Again](https://open.spotify.com/track/0h9NbR0ozxlNVnTXOX8xjk) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Single Again](https://open.spotify.com/album/77o4SRMv2fNVXHxwcTO6DI) | 3:44 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 34 | [Who Is Your Guy? \- Remix](https://open.spotify.com/track/3aGroTtXwkWJ7wOwKEI8Px) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Who Is Your Guy? \(Remix\)](https://open.spotify.com/album/3PAkBEUTDOVbETaV0tnR4R) | 3:31 |
 | 35 | [Stamina](https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Stamina](https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm) | 2:46 |
 | 36 | [Air Force](https://open.spotify.com/track/2k9RFuhZTNLyWGu6sMkxEY) | [Yung TS](https://open.spotify.com/artist/4pSznn96jRDqtz3DjalDcn) | [Air Force](https://open.spotify.com/album/6s9AtSAMNHib87xoY9HWNW) | 2:40 |
-| 37 | [People \(feat\. Ayra Starr & Omah Lay\)](https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG) | [Libianca](https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [People \(Remixes\)](https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G) | 3:04 |
+| 37 | [People \(feat\. Ayra Starr & Omah Lay\)](https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [People \(Remixes\)](https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G) | 3:04 |
 | 38 | [NANA](https://open.spotify.com/track/3x14QjUcvBTxIYjMD9RzVO) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [NANA](https://open.spotify.com/album/7KJ1TeVa4Xc9Wv0AOv9o0Y) | 2:26 |
 | 39 | [Nakuja \(feat\. Marioo\)](https://open.spotify.com/track/20LizgAAY10POPIMXXz0dO) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Nakuja \(feat\. Marioo\)](https://open.spotify.com/album/0LMLaFyr0zKTkCSbAjj0Gk) | 3:11 |
 | 40 | [Home For My Heart](https://open.spotify.com/track/1PGc9smXkDk2I7v8zsI0GB) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Home For My Heart](https://open.spotify.com/album/51XNz5aKjz3NjAZNQY40bp) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 49 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 |
 | 50 | [Yatapita](https://open.spotify.com/track/5osJXf9jysiW72jZQ0tTKD) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Yatapita](https://open.spotify.com/album/5uTKAcHVaMTbaEfORUWZrD) | 4:59 |
 
-Snapshot ID: `MTY4MjM2NDAzOCwwMDAwMDAwMDk1MGIyM2RmZWFlOWVkYjUwMGYzZjQyNThjMTViODMw`
+Snapshot ID: `MCxlMjc1ODY0N2QyMzkzMjQ3ZjZjN2IwM2I3YjMyMzZjMGE2ZWQwMWYz`

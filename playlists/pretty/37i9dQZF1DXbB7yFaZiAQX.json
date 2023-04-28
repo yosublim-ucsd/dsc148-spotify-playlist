@@ -1,12 +1,12 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 929324,
+  "num_followers": 929630,
   "original_name": "The '80s All Lined Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzQ5NDkzOSwwMDAwMDAwMDYwZjkwN2UwNTc0NTQzNWQ2NzZjYmFkY2VhYmY1ZGUy",
+  "snapshot_id": "MCw0ZWQ2ZTY0MmEyNjZhMjIzNzRhMWZkZDdiYTg0NmE5ZjM2MWRhYjI1",
   "tracks": [
     {
       "added_at": "2022-06-01 09:47:30",
@@ -225,22 +225,6 @@
       "url": "https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI"
     },
     {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
-        "name": "Violent Femmes",
-        "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
-      },
-      "artists": [
-        {
-          "name": "Violent Femmes",
-          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
-        }
-      ],
-      "duration_ms": 145706,
-      "name": "Blister In The Sun",
-      "url": "https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH"
-    },
-    {
       "added_at": "2020-04-17 14:06:23",
       "album": {
         "name": "Forever Young (Super Deluxe Edition; 2019 Remaster)",
@@ -255,6 +239,22 @@
       "duration_ms": 226000,
       "name": "Forever Young - 2019 Remaster",
       "url": "https://open.spotify.com/track/6XHNIbru8xGohLzHNgxQvF"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "Violent Femmes",
+        "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
+      },
+      "artists": [
+        {
+          "name": "Violent Femmes",
+          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+        }
+      ],
+      "duration_ms": 145706,
+      "name": "Blister In The Sun",
+      "url": "https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -915,22 +915,6 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "Off The Bone",
-        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
-      },
-      "artists": [
-        {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
-        }
-      ],
-      "duration_ms": 136426,
-      "name": "Human Fly",
-      "url": "https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab"
-    },
-    {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 236466,
       "name": "Rain",
       "url": "https://open.spotify.com/track/3Od5XBElZqm5N6rr86LS5r"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "Off The Bone",
+        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "duration_ms": 136426,
+      "name": "Human Fly",
+      "url": "https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab"
     },
     {
       "added_at": "2019-08-01 09:13:54",
@@ -1105,6 +1105,22 @@
       "url": "https://open.spotify.com/track/2JhIaeltCDCcp02K936tgx"
     },
     {
+      "added_at": "2022-07-05 07:37:08",
+      "album": {
+        "name": "Never for Ever (2018 Remaster)",
+        "url": "https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 199226,
+      "name": "Babooshka - 2018 Remaster",
+      "url": "https://open.spotify.com/track/4DkKgGqqfx8C79RFo8ZuTl"
+    },
+    {
       "added_at": "2018-12-12 10:56:53",
       "album": {
         "name": "Surfer Rosa",
@@ -1135,22 +1151,6 @@
       "duration_ms": 219066,
       "name": "Electricity - Remastered 2003",
       "url": "https://open.spotify.com/track/60TmG8cFPMBo7kTTFOLiAB"
-    },
-    {
-      "added_at": "2022-07-05 07:37:08",
-      "album": {
-        "name": "Never for Ever (2018 Remaster)",
-        "url": "https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 199226,
-      "name": "Babooshka - 2018 Remaster",
-      "url": "https://open.spotify.com/track/4DkKgGqqfx8C79RFo8ZuTl"
     },
     {
       "added_at": "2021-11-08 14:30:13",
@@ -1297,22 +1297,6 @@
       "url": "https://open.spotify.com/track/5gS8whHdcpbkdz0qonQZF8"
     },
     {
-      "added_at": "2021-06-15 11:00:16",
-      "album": {
-        "name": "(Who's Afraid Of) The Art Of Noise? [Remastered]",
-        "url": "https://open.spotify.com/album/1l2IntFpOvhD4wdolquWNR"
-      },
-      "artists": [
-        {
-          "name": "The Art Of Noise",
-          "url": "https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU"
-        }
-      ],
-      "duration_ms": 615693,
-      "name": "Moments In Love",
-      "url": "https://open.spotify.com/track/2bsczk82MWGPmTbe6IWYsa"
-    },
-    {
       "added_at": "2018-12-12 10:56:53",
       "album": {
         "name": "Singles (2016 Remaster)",
@@ -1327,6 +1311,22 @@
       "duration_ms": 251973,
       "name": "Blue Monday '88 - 2015 Remaster",
       "url": "https://open.spotify.com/track/3PQEaRs2JEwtk79IqbQYt1"
+    },
+    {
+      "added_at": "2021-06-15 11:00:16",
+      "album": {
+        "name": "(Who's Afraid Of) The Art Of Noise? [Remastered]",
+        "url": "https://open.spotify.com/album/1l2IntFpOvhD4wdolquWNR"
+      },
+      "artists": [
+        {
+          "name": "The Art Of Noise",
+          "url": "https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU"
+        }
+      ],
+      "duration_ms": 615693,
+      "name": "Moments In Love",
+      "url": "https://open.spotify.com/track/2bsczk82MWGPmTbe6IWYsa"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -1425,20 +1425,20 @@
       "url": "https://open.spotify.com/track/78ocJAEFOYKVjYgXZ8fggD"
     },
     {
-      "added_at": "2018-12-12 10:56:53",
+      "added_at": "2022-12-04 12:41:45",
       "album": {
-        "name": "Some Great Reward (2006 Remaster)",
-        "url": "https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ"
+        "name": "Japanese Whispers",
+        "url": "https://open.spotify.com/album/6fFTxlpJPGQbO3CbVz9MOS"
       },
       "artists": [
         {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 232080,
-      "name": "People Are People - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3GREm6zSHwKZsJxl0hqbAQ"
+      "duration_ms": 220093,
+      "name": "The Lovecats",
+      "url": "https://open.spotify.com/track/5rzr3lYGJiw3OXEg8imWgH"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -1457,20 +1457,20 @@
       "url": "https://open.spotify.com/track/4tPHC7YsU3LInUYcIe2UIi"
     },
     {
-      "added_at": "2022-12-04 12:41:45",
+      "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "Japanese Whispers",
-        "url": "https://open.spotify.com/album/6fFTxlpJPGQbO3CbVz9MOS"
+        "name": "Some Great Reward (2006 Remaster)",
+        "url": "https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ"
       },
       "artists": [
         {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
         }
       ],
-      "duration_ms": 220093,
-      "name": "The Lovecats",
-      "url": "https://open.spotify.com/track/5rzr3lYGJiw3OXEg8imWgH"
+      "duration_ms": 232080,
+      "name": "People Are People - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3GREm6zSHwKZsJxl0hqbAQ"
     },
     {
       "added_at": "2019-11-03 11:40:01",
@@ -1569,6 +1569,22 @@
       "url": "https://open.spotify.com/track/5uyJ7fbjk6xZzt5UL5jcQg"
     },
     {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "Viva Hate (2014 Remaster)",
+        "url": "https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou"
+      },
+      "artists": [
+        {
+          "name": "Morrissey",
+          "url": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+        }
+      ],
+      "duration_ms": 235520,
+      "name": "Suedehead - 2011 Remaster",
+      "url": "https://open.spotify.com/track/76HJoPhDFxD7rizsbCmZND"
+    },
+    {
       "added_at": "2021-08-31 07:26:09",
       "album": {
         "name": "Vision Thing",
@@ -1585,20 +1601,20 @@
       "url": "https://open.spotify.com/track/2UV9ahm7JUWHN1zQAoocEq"
     },
     {
-      "added_at": "2018-12-12 10:56:53",
+      "added_at": "2019-08-01 09:50:38",
       "album": {
-        "name": "Viva Hate (2014 Remaster)",
-        "url": "https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou"
+        "name": "Lion and the Cobra",
+        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
       },
       "artists": [
         {
-          "name": "Morrissey",
-          "url": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 235520,
-      "name": "Suedehead - 2011 Remaster",
-      "url": "https://open.spotify.com/track/76HJoPhDFxD7rizsbCmZND"
+      "duration_ms": 227653,
+      "name": "Mandinka",
+      "url": "https://open.spotify.com/track/4x4e63yL8r7tOFcZ0n6KHe"
     },
     {
       "added_at": "2021-03-29 06:58:38",
@@ -1617,20 +1633,20 @@
       "url": "https://open.spotify.com/track/1NXHwS75sCmkMZAE0zvwl0"
     },
     {
-      "added_at": "2019-08-01 09:50:38",
+      "added_at": "2021-01-22 12:17:32",
       "album": {
-        "name": "Lion and the Cobra",
-        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
+        "name": "Pelican West Plus",
+        "url": "https://open.spotify.com/album/6VIiHu2RCwWo4151YCG7ND"
       },
       "artists": [
         {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+          "name": "Haircut 100",
+          "url": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
         }
       ],
-      "duration_ms": 227653,
-      "name": "Mandinka",
-      "url": "https://open.spotify.com/track/4x4e63yL8r7tOFcZ0n6KHe"
+      "duration_ms": 212573,
+      "name": "Love Plus One",
+      "url": "https://open.spotify.com/track/4vwLjB2NRtl9b34jRe6cWd"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -1663,22 +1679,6 @@
       "duration_ms": 204333,
       "name": "Walls Come Tumbling Down",
       "url": "https://open.spotify.com/track/00cn1ynXQhURwsgv69fN0b"
-    },
-    {
-      "added_at": "2021-01-22 12:17:32",
-      "album": {
-        "name": "Pelican West Plus",
-        "url": "https://open.spotify.com/album/6VIiHu2RCwWo4151YCG7ND"
-      },
-      "artists": [
-        {
-          "name": "Haircut 100",
-          "url": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
-        }
-      ],
-      "duration_ms": 212573,
-      "name": "Love Plus One",
-      "url": "https://open.spotify.com/track/4vwLjB2NRtl9b34jRe6cWd"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "Non-Stop Erotic Cabaret",
-        "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
-      },
-      "artists": [
-        {
-          "name": "Soft Cell",
-          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
-        }
-      ],
-      "duration_ms": 323866,
-      "name": "Say Hello, Wave Goodbye - 7\" Single Version",
-      "url": "https://open.spotify.com/track/0Lx6O1tC3CPF1giLJIt5Jv"
-    },
-    {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
         "name": "Viva Hate (2014 Remaster)",
         "url": "https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou"
       },
@@ -1747,6 +1731,22 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
+        "name": "Non-Stop Erotic Cabaret",
+        "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
+      },
+      "artists": [
+        {
+          "name": "Soft Cell",
+          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+        }
+      ],
+      "duration_ms": 323866,
+      "name": "Say Hello, Wave Goodbye - 7\" Single Version",
+      "url": "https://open.spotify.com/track/0Lx6O1tC3CPF1giLJIt5Jv"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
         "name": "Argybargy",
         "url": "https://open.spotify.com/album/7Me29nlWdDxCGAAwupHfSV"
       },
@@ -1759,6 +1759,22 @@
       "duration_ms": 238133,
       "name": "Pulling Mussels (From The Shell)",
       "url": "https://open.spotify.com/track/2TjXzbUt5zQ4PpHG0dEaT1"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "Psychocandy",
+        "url": "https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru"
+      },
+      "artists": [
+        {
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+        }
+      ],
+      "duration_ms": 181746,
+      "name": "Just Like Honey",
+      "url": "https://open.spotify.com/track/1CapNlKgeOWlBEE54CRamd"
     },
     {
       "added_at": "2019-08-07 10:02:33",
@@ -1779,18 +1795,18 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "Psychocandy",
-        "url": "https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru"
+        "name": "Skylarking",
+        "url": "https://open.spotify.com/album/3FVsJiQMI7dp0RfTBdWtMW"
       },
       "artists": [
         {
-          "name": "The Jesus and Mary Chain",
-          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+          "name": "XTC",
+          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
         }
       ],
-      "duration_ms": 181746,
-      "name": "Just Like Honey",
-      "url": "https://open.spotify.com/track/1CapNlKgeOWlBEE54CRamd"
+      "duration_ms": 219506,
+      "name": "Dear God - Remastered 2001",
+      "url": "https://open.spotify.com/track/6nFdjV1Ko66O111x74K2kn"
     },
     {
       "added_at": "2019-08-01 09:23:21",
@@ -1823,22 +1839,6 @@
       "duration_ms": 195293,
       "name": "Lost Weekend",
       "url": "https://open.spotify.com/track/7cMn3Octp5SRRGpv6fTSLE"
-    },
-    {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
-        "name": "Skylarking",
-        "url": "https://open.spotify.com/album/3FVsJiQMI7dp0RfTBdWtMW"
-      },
-      "artists": [
-        {
-          "name": "XTC",
-          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
-        }
-      ],
-      "duration_ms": 219506,
-      "name": "Dear God - Remastered 2001",
-      "url": "https://open.spotify.com/track/6nFdjV1Ko66O111x74K2kn"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -2093,22 +2093,6 @@
       "url": "https://open.spotify.com/track/7bRcgBFPDgWhVuopP5x6MW"
     },
     {
-      "added_at": "2019-08-02 12:45:54",
-      "album": {
-        "name": "A Secret Wish (Analogue Sequence)",
-        "url": "https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW"
-      },
-      "artists": [
-        {
-          "name": "Propaganda",
-          "url": "https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn"
-        }
-      ],
-      "duration_ms": 228733,
-      "name": "p:Machinery",
-      "url": "https://open.spotify.com/track/7ws5COVtdJoCjK8Zumn43b"
-    },
-    {
       "added_at": "2021-10-17 09:47:36",
       "album": {
         "name": "Fehler im System (2023 Remaster)",
@@ -2123,6 +2107,22 @@
       "duration_ms": 303903,
       "name": "Major Tom (V\u00f6llig losgel\u00f6st) - 2022 Remaster",
       "url": "https://open.spotify.com/track/3pR29mXC5gp0UjJSRePU2f"
+    },
+    {
+      "added_at": "2019-08-02 12:45:54",
+      "album": {
+        "name": "A Secret Wish (Analogue Sequence)",
+        "url": "https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW"
+      },
+      "artists": [
+        {
+          "name": "Propaganda",
+          "url": "https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn"
+        }
+      ],
+      "duration_ms": 228733,
+      "name": "p:Machinery",
+      "url": "https://open.spotify.com/track/7ws5COVtdJoCjK8Zumn43b"
     },
     {
       "added_at": "2020-10-21 16:52:43",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "Thirty Thousand Feet Over China",
-        "url": "https://open.spotify.com/album/5Obv3KwOfysf310dXYqXQH"
-      },
-      "artists": [
-        {
-          "name": "The Passions",
-          "url": "https://open.spotify.com/artist/6emLiLQsxkbmQMs0Bn51h3"
-        }
-      ],
-      "duration_ms": 241320,
-      "name": "I'm In Love With A German Film Star",
-      "url": "https://open.spotify.com/track/7A3rywP8wA9HbL36NMnD81"
-    },
-    {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
         "name": "The Golden Age Of Wireless",
         "url": "https://open.spotify.com/album/3V177EgHtR65iBY1NHZxp4"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 243800,
       "name": "Cities In Dust - Single Version",
       "url": "https://open.spotify.com/track/0LvH53IYMdkQ2VHanpCiBi"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "Thirty Thousand Feet Over China",
+        "url": "https://open.spotify.com/album/5Obv3KwOfysf310dXYqXQH"
+      },
+      "artists": [
+        {
+          "name": "The Passions",
+          "url": "https://open.spotify.com/artist/6emLiLQsxkbmQMs0Bn51h3"
+        }
+      ],
+      "duration_ms": 241320,
+      "name": "I'm In Love With A German Film Star",
+      "url": "https://open.spotify.com/track/7A3rywP8wA9HbL36NMnD81"
     },
     {
       "added_at": "2019-08-02 12:01:33",

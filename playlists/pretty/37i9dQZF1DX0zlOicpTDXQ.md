@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zlOicpTDXQ.md) - [plain]
 
 > Listen to the official Netflix playlist featuring music from our holiday features and festive favorites from Netflix talent\. Cover: Lindsay Lohan in Falling for Christmas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,725 likes - 48 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,731 likes - 48 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zlOicpTDXQ.md) - [plain]
 | 47 | [A Christmas Thing \(aka Quince Ballad\)](https://open.spotify.com/track/7oiVBBQVuVeR8vNQT9ip1n) | [Aimee Garcia](https://open.spotify.com/artist/44POz8zc5vKd1BlNQR7hs8) | [Christmas With You \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2vV6PuFDaxyJaibJVVnXBB) | 2:41 |
 | 48 | [Feliz Navidad Mi Amor](https://open.spotify.com/track/2R9qvrvVCmjbDWJt20W7XR) | [Jasmine Lopez](https://open.spotify.com/artist/0UciHsr8qC3FQYNswRPLmd) | [Christmas With You \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2vV6PuFDaxyJaibJVVnXBB) | 2:41 |
 
-Snapshot ID: `MTY3MDYyOTIxNywwMDAwMDAwMGE3YWJhYzE4Yjc1MmZhOTEwNzZiODc1ZDJjMzdkN2E1`
+Snapshot ID: `MCw3Y2UyYzdjMzZiNTQ0YmMzODc1ZGNlMGU5ZDZjNTFhYzRmZTEwNTEx`

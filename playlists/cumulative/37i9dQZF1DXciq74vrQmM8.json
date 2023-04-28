@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. poppy",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. delilah bon",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -1746,6 +1746,24 @@
       "duration_ms": 284880,
       "name": "Crossing Guard",
       "url": "https://open.spotify.com/track/5l5B2UwA8Yp6kp1HwchSLx"
+    },
+    {
+      "album": {
+        "name": "Crumbled",
+        "url": "https://open.spotify.com/album/0WuxkTSMVZa1nWI7YaR6XS"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "Crumbled",
+      "url": "https://open.spotify.com/track/3h4UYObZmzgrym6Gzw35iA"
     },
     {
       "album": {
@@ -4771,6 +4789,24 @@
     },
     {
       "album": {
+        "name": "JUNI",
+        "url": "https://open.spotify.com/album/4j0ct9VWQ3wAzIWlG6iY2t"
+      },
+      "artists": [
+        {
+          "name": "Bobbi Arlo",
+          "url": "https://open.spotify.com/artist/5cudb4Wjab9hm3JH34VzgB"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155716,
+      "name": "JUNI",
+      "url": "https://open.spotify.com/track/4oEohO4fJMvAhcRmoGJ0zM"
+    },
+    {
+      "album": {
         "name": "Just for me",
         "url": "https://open.spotify.com/album/3j2m4CvN4dphBLAv7e2tUt"
       },
@@ -5282,6 +5318,24 @@
       "duration_ms": 196982,
       "name": "Loner",
       "url": "https://open.spotify.com/track/1VDpzf4lahkZqdkFwdmXiY"
+    },
+    {
+      "album": {
+        "name": "Loser Deadbeat",
+        "url": "https://open.spotify.com/album/7fHqMXilgXLPBIj2XbK59g"
+      },
+      "artists": [
+        {
+          "name": "Izzy Camina",
+          "url": "https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185098,
+      "name": "Loser Deadbeat",
+      "url": "https://open.spotify.com/track/2PyWgTGWMJ8tLygUNZXS09"
     },
     {
       "album": {
@@ -9582,6 +9636,24 @@
       "duration_ms": 174782,
       "name": "\u0427\u0435\u0440\u0432\u044c / Worm",
       "url": "https://open.spotify.com/track/3QxOyYp44vD7hkoOr5oslj"
+    },
+    {
+      "album": {
+        "name": "\u042fitual",
+        "url": "https://open.spotify.com/album/405GUW3aweuZJxSAvYXOQX"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84562,
+      "name": "\u042fitual",
+      "url": "https://open.spotify.com/track/4yHYjLDcFlSEYnsmqYxIrA"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8"

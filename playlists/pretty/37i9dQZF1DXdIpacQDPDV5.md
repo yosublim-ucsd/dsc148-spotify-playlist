@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Tiësto
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,407 likes - 85 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,441 likes - 85 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 84 | [Wayside](https://open.spotify.com/track/48IVW1WGlFeJ1USJAa9Y8t) | [Freddie Future](https://open.spotify.com/artist/3TvOtMsG1MPfCem7PyZLXu) | [Loving You](https://open.spotify.com/album/1agmfX6VpIe2ZAxFEBJyBl) | 3:07 |
 | 85 | [Rhythm](https://open.spotify.com/track/1nga9f11uUQS6mSz427Jrz) | [Bodysync](https://open.spotify.com/artist/34KMxwDAHIvM7Kwt1PcClb), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6) | [Rhythm](https://open.spotify.com/album/0HbPiygzxaLpx6ba5Lb1QW) | 2:32 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDhkODExMGZkNmU2ODFmOTdiMGE0NWFmYzhmYWZlOTc5`
+Snapshot ID: `MCw0NDM2M2JhYWI1MTVhZTczZjM1NTYyZDY2YzI5OGJlNDRhOTk3Y2I5`

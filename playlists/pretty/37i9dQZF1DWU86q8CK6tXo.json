@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover:  <a href=\u201cspotify:artist:3uikSah4dwqwuk0EidFI4R\u201d>Caitlyn Smith</a> ",
-  "num_followers": 38370,
+  "num_followers": 38376,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjUyNzQ0OSwwMDAwMDAwMGU1ZGFkMTk0YzkwNDgwMzUzNjU4NDRkZjBiMmI4ZmU0",
+  "snapshot_id": "MCxmYzE0YTkyMWM2ZGQ1YTY3MmI4MGRhY2E1ZGYzZWViMjA0NjU2ZGVi",
   "tracks": [
     {
       "added_at": "2023-04-24 16:47:13",
@@ -519,6 +519,34 @@
     {
       "added_at": "2023-04-24 16:47:13",
       "album": {
+        "name": "You Oughta Know (feat. Ingrid Andress, Madeline Edwards, Morgan Wade) [Spotify Singles]",
+        "url": "https://open.spotify.com/album/6IwwVGLtiflk9IkTcRwE6n"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        },
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        },
+        {
+          "name": "Madeline Edwards",
+          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
+        },
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        }
+      ],
+      "duration_ms": 256217,
+      "name": "You Oughta Know (feat. Ingrid Andress, Madeline Edwards, Morgan Wade) - Spotify Singles",
+      "url": "https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv"
+    },
+    {
+      "added_at": "2023-04-24 16:47:13",
+      "album": {
         "name": "Hunter",
         "url": "https://open.spotify.com/album/7JLqUV9lFZMym6t0uEVGs7"
       },
@@ -547,38 +575,6 @@
       "duration_ms": 183839,
       "name": "Window",
       "url": "https://open.spotify.com/track/6eMPkhwJpkBPagyC54s8wo"
-    },
-    {
-      "added_at": "2023-04-24 16:47:13",
-      "album": {
-        "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) [Spotify Singles]",
-        "url": "https://open.spotify.com/album/6IwwVGLtiflk9IkTcRwE6n"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        },
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        },
-        {
-          "name": "Madeline Edwards",
-          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
-        },
-        {
-          "name": "Morgan Wade",
-          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
-        }
-      ],
-      "duration_ms": 256217,
-      "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) - Spotify Singles",
-      "url": "https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv"
     },
     {
       "added_at": "2023-04-24 16:47:13",

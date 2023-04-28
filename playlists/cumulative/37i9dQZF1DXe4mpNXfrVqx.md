@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Bivolt
 
-133 songs - 5 hr 55 min
+134 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Magia](https://open.spotify.com/track/3gxkgQ5ZihoXGnrPsxS9Vx) | [Anne](https://open.spotify.com/artist/3W3JovBaRZsYyIWY2FslWq) | [Magia](https://open.spotify.com/album/2nhzLLb9DgJ9P75xg0FAxn) | 2:54 | 2022-03-18 |  |
 | [Magnetizar](https://open.spotify.com/track/5SjQLPj91Gx4ZivRRRZd4L) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Magnetizar](https://open.spotify.com/album/0nPC657aR6ctyejVjVmsBo) | 3:14 | 2022-08-26 | 2022-09-24 |
 | [Making Luv](https://open.spotify.com/track/4S8rwnVkJ3P8LgmKavFS9C) | [Brisa Flow](https://open.spotify.com/artist/78XNtbcRuW435NYDYV0rWO), [TiDUS](https://open.spotify.com/artist/7IxX7YZFKExg98w2dxgsXj) | [Making Luv](https://open.spotify.com/album/7eh0moIuvRGns9Hc12ZYj0) | 3:05 | 2022-05-13 |  |
-| [Mal Acostumada](https://open.spotify.com/track/0RWjEc3Y45ZVYHVwqRwiPz) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Mal Acostumada](https://open.spotify.com/album/35BcLJ5tKOzbqKKqIgTeIB) | 2:16 | 2022-07-08 |  |
+| [Mal Acostumada](https://open.spotify.com/track/0RWjEc3Y45ZVYHVwqRwiPz) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Mal Acostumada](https://open.spotify.com/album/35BcLJ5tKOzbqKKqIgTeIB) | 2:16 | 2022-07-08 | 2023-04-28 |
+| [Mal Acostumada](https://open.spotify.com/track/3bSWIdrVx3NYHW0jpsG7ib) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Mal Acostumada](https://open.spotify.com/album/4Lm5ooJw6TpZ9869LKEi9W) | 2:16 | 2023-04-21 |  |
 | [Mal Acostumada](https://open.spotify.com/track/7GnPbQS1aDXXmON7bMxwX4) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Mal Acostumada](https://open.spotify.com/album/0r6xdmo9wYNcHrsIlpDvNh) | 2:16 | 2022-03-18 | 2022-07-29 |
 | [Malas Prontas](https://open.spotify.com/track/5tHCD2TzqXr91NqUCBnTpO) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY), [Kary](https://open.spotify.com/artist/01BlVHDAqPgLw407BsxqzN), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Malas Prontas](https://open.spotify.com/album/3NoLX9JnxmOaC0EfwKezAD) | 2:37 | 2022-04-22 |  |
 | [Malvadeza](https://open.spotify.com/track/1bYDvVrCAWzQnw5orQ9qgB) | [slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvadeza](https://open.spotify.com/album/0eQEgHKRqdWJp4Kf6PtjAy) | 2:00 | 2022-03-18 | 2022-04-23 |

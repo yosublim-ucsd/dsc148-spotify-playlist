@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 
 > This is Little Simz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,881 likes - 33 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,907 likes - 33 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 | 29 | [Back to My Love](https://open.spotify.com/track/3Qw29xE1UoPS5mdqoqVnWm) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Back to My Love](https://open.spotify.com/album/0abytCO5C9R9BHsvQ52Kyk) | 3:55 |
 | 30 | [Backseat](https://open.spotify.com/track/3LGlyLsK0PwfQA9Q0Sg9a8) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Stillness In Wonderland \(Deluxe Edition\)](https://open.spotify.com/album/5Hie74vOip1lR1VOk6i2DI) | 3:31 |
 | 31 | [damn right](https://open.spotify.com/track/3Q1HNg15qwjOlDy5ia1NJc) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 6](https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA) | 2:00 |
-| 32 | [Problems](https://open.spotify.com/track/1mMIFLEa1IZJPfM7gVdssx) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Space Age](https://open.spotify.com/artist/13QFYK4YHs8qXlj0E9THq2) | [Blank Canvas](https://open.spotify.com/album/1o0XDWp8dSojoZ7yZh6fgu) | 6:07 |
-| 33 | [Blank Canvas \(Interlude\)](https://open.spotify.com/track/42cVaoypjCYHO00SEj8d7a) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Blank Canvas](https://open.spotify.com/album/1o0XDWp8dSojoZ7yZh6fgu) | 1:35 |
+| 32 | [Blank Canvas \(Interlude\)](https://open.spotify.com/track/42cVaoypjCYHO00SEj8d7a) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Blank Canvas](https://open.spotify.com/album/1o0XDWp8dSojoZ7yZh6fgu) | 1:35 |
+| 33 | [Problems](https://open.spotify.com/track/1mMIFLEa1IZJPfM7gVdssx) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Space Age](https://open.spotify.com/artist/13QFYK4YHs8qXlj0E9THq2) | [Blank Canvas](https://open.spotify.com/album/1o0XDWp8dSojoZ7yZh6fgu) | 6:07 |
 
-Snapshot ID: `MjgwNDE5MzAsMDAwMDAwMDBjYmE0YzRjNTJiNzg4MTZkY2Q5MGUzMzFlY2M1YWVmNA==`
+Snapshot ID: `MjgwNDMzMjAsMDAwMDAwMDBkYjkzYmUyNWJiNjA5MDU1M2UwMDc0NGQ2NzMzNzJiOQ==`

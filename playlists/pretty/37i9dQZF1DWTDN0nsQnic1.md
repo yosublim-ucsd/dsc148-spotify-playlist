@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 
 > Lush, shimmery guitars\. Cover: Ichika Nito
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,246 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,284 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 | 69 | [Holiday](https://open.spotify.com/track/3yEinCTSzCdXNxbJ1ax7o6) | [jalowo](https://open.spotify.com/artist/2D78J8PPLKuEZqmArTFlQS), [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY), [Alber](https://open.spotify.com/artist/5nJQi88KO8UbkSHDUb57ZS) | [Holiday](https://open.spotify.com/album/1IdapISfbxpMTBCsPTLsvg) | 2:48 |
 | 70 | [This World](https://open.spotify.com/track/5UrRSpJaU8sCp1C8OeurgV) | [Justus West](https://open.spotify.com/artist/1Rr0QwTQSGjUCpYFfXqnWO), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [This World](https://open.spotify.com/album/0VuUpLsPLvDF51IvRGk4jV) | 4:27 |
 
-Snapshot ID: `MTY4MDAxNjI2NywwMDAwMDAwMGEwZDA1MjZjZTBkZGE3MWM5YTY4MTAzN2IyOTVlMjk2`
+Snapshot ID: `MCwzMjZiMTRhYjg2ZjcwODlhMjMzYjhmMDlmOTkxYzczYWZiNTMyZmUx`

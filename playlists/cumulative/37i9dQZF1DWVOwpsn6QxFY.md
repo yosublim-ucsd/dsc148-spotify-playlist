@@ -4,12 +4,12 @@
 
 > Hand\-picked indie to nourish the ears.
 
-239 songs - 14 hr 33 min
+242 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [27 Club](https://open.spotify.com/track/3lLEyB09dGdmsTY8F7P0Kw) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [27 Club](https://open.spotify.com/album/2uWsbp1QOEZj9ofqSkKXQW) | 3:34 | 2023-03-17 |  |
-| [4Runner](https://open.spotify.com/track/3kduxaRADVX6gVfZ6IeqcB) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Changephobia](https://open.spotify.com/album/7v5Vuz4HyHldAgTG9NpcFY) | 3:49 | 2022-06-23 |  |
+| [27 Club](https://open.spotify.com/track/3lLEyB09dGdmsTY8F7P0Kw) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [27 Club](https://open.spotify.com/album/2uWsbp1QOEZj9ofqSkKXQW) | 3:34 | 2023-03-17 | 2023-04-28 |
+| [4Runner](https://open.spotify.com/track/3kduxaRADVX6gVfZ6IeqcB) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Changephobia](https://open.spotify.com/album/7v5Vuz4HyHldAgTG9NpcFY) | 3:49 | 2022-06-23 | 2023-04-28 |
 | [4Runner](https://open.spotify.com/track/6fHORDEAnP4POdVZB9kO9V) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [4Runner](https://open.spotify.com/album/4pK1F2rM5omfZyrv4FEPQZ) | 3:49 | 2021-11-12 | 2022-07-29 |
 | [A Couple Things](https://open.spotify.com/track/0XJShR9YnNtXtZkAnLRNFD) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [A word becomes a sound](https://open.spotify.com/album/7zmEZWG9JfmB7lgg2SGgGu) | 2:40 | 2022-06-23 |  |
 | [A Couple Things](https://open.spotify.com/track/3RMfsHdRlQRlaK7Szrosi6) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [A Couple Things](https://open.spotify.com/album/0nj3aFMmrKfmJ7rCEg38IB) | 2:40 | 2021-11-12 | 2022-07-29 |
@@ -18,6 +18,7 @@
 | [Addicted](https://open.spotify.com/track/0JvKn6XJ3vvoWHU6ahVdRt) | [The Night Café](https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp) | [0151](https://open.spotify.com/album/1nCEkf3saNVR9irE8vwy9q) | 4:41 | 2022-08-12 |  |
 | [Addicted](https://open.spotify.com/track/2kUECVQY40DQoXymT323jg) | [The Night Café](https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp) | [0151](https://open.spotify.com/album/4hGB7HUJu4oD3TqJvYPqr9) | 4:41 | 2021-11-12 | 2022-10-13 |
 | [Alaska](https://open.spotify.com/track/3jfYDfrnp0dseGWZfa3jqt) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Alaska](https://open.spotify.com/album/4rFxEoG9PEDkONioOInJhy) | 2:05 | 2021-11-12 | 2023-03-30 |
+| [Alco](https://open.spotify.com/track/0NTgQB7fb7ovrhx5pfm9Po) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Alco](https://open.spotify.com/album/1kty4m9JKEsD5NZaacdL16) | 3:48 | 2023-04-27 |  |
 | [Alive](https://open.spotify.com/track/6Cwfn3br1dDmZIvpi1CJ89) | [James Beau Barclay](https://open.spotify.com/artist/7B29yidpQNpUy6CgpRz29Q), [Blu Wiley](https://open.spotify.com/artist/2pVkAHRJrMpEjKXIqXUlgy) | [Alive](https://open.spotify.com/album/2uzzPtueFmMKcwGoLeZVmE) | 3:37 | 2022-08-12 | 2022-12-04 |
 | [Alive](https://open.spotify.com/track/6lDeFVC7tCXEzdOcjnqTQj) | [James Beau Barclay](https://open.spotify.com/artist/7B29yidpQNpUy6CgpRz29Q), [Blu Wiley](https://open.spotify.com/artist/2pVkAHRJrMpEjKXIqXUlgy) | [Alive](https://open.spotify.com/album/0X0GLbObJxR2teWozrUTlb) | 3:37 | 2021-11-12 | 2022-07-29 |
 | [Alive](https://open.spotify.com/track/7JYzvdXx2apa4twRQfVOah) | [James Beau Barclay](https://open.spotify.com/artist/7B29yidpQNpUy6CgpRz29Q), [Blu Wiley](https://open.spotify.com/artist/2pVkAHRJrMpEjKXIqXUlgy) | [Alive](https://open.spotify.com/album/5eTNCoC0nFPoBnF4LmubUJ) | 3:37 | 2022-12-28 |  |
@@ -71,6 +72,7 @@
 | [Do This to Me](https://open.spotify.com/track/5UZMirBscG3TgEsX9z4wiG) | [Julia Bardo](https://open.spotify.com/artist/1hRs60foVmjwBiSesXnUdi) | [Do This to Me](https://open.spotify.com/album/7fy2Nc34vbRMVDdULfnWFQ) | 4:20 | 2022-03-31 | 2022-04-21 |
 | [Dreaming](https://open.spotify.com/track/68r0rVwrAruYCc8OFfyPsf) | [NIGHT FLIGHT](https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE) | [Dreaming](https://open.spotify.com/album/45HCY02kLpd5nGfL7GkdKm) | 3:43 | 2021-11-12 | 2022-07-29 |
 | [Eugene](https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Eugene](https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7) | 3:41 | 2021-11-12 |  |
+| [Evelyn](https://open.spotify.com/track/0C0YCeV0rYv315z8twysDt) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Evelyn](https://open.spotify.com/album/3xyqWaDeh8TQ9PMK6noL7i) | 3:21 | 2023-04-27 |  |
 | [Every Bottle \(Is My Boyfriend\)](https://open.spotify.com/track/2hK1rgjpeZT6q4rUdVAP8s) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I'd Be Dead \(Deluxe\)](https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh) | 4:48 | 2022-08-12 | 2023-01-22 |
 | [Every Bottle \(Is My Boyfriend\)](https://open.spotify.com/track/4ABw4YokjGbu3jQ4JRFrQ3) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Every Bottle \(Is My Boyfriend\)](https://open.spotify.com/album/1YWszoYHsF9WamoS9p21GP) | 4:48 | 2022-03-31 | 2022-07-28 |
 | [Every Side Of You](https://open.spotify.com/track/731oIHe1EeEyTEwdtY0lRj) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Every Side Of You](https://open.spotify.com/album/6xLceFaewP4juAD4GjBd45) | 3:24 | 2022-06-06 |  |
@@ -172,6 +174,7 @@
 | [Perdida](https://open.spotify.com/track/7dIlxKSQKC2ND5ortIfAxM) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Big Fan of the Sesh, Vol\. 1](https://open.spotify.com/album/2oD72e7o7hvjaxRI75foFR) | 3:00 | 2022-08-12 |  |
 | [Phoenix](https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:15 | 2022-06-23 |  |
 | [Phoenix \(feat\. Fleet Foxes & Anaïs Mitchell\)](https://open.spotify.com/track/5fwabfmJtYmNbcNd2ISl3x) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Phoenix \(feat\. Fleet Foxes & Anaïs Mitchell\)](https://open.spotify.com/album/3hzBgKpVyownETEhtDeuMS) | 4:15 | 2021-11-12 | 2022-07-29 |
+| [Pick](https://open.spotify.com/track/2opMGBCXLhtv94ffMd6vBf) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Big Picture](https://open.spotify.com/album/08AEeRKieqKS9Z9tU8SnPr) | 2:45 | 2023-04-27 |  |
 | [Pick Apart](https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Pick Apart](https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO) | 3:35 | 2021-11-12 | 2022-10-19 |
 | [Pink Pools](https://open.spotify.com/track/01IeBj8Ep24Pgeh2WilK3E) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Can't Stop The Dawn](https://open.spotify.com/album/0x9Rt5SlVWjeI2TjGkACLL) | 3:18 | 2021-11-12 |  |
 | [Pink Pools](https://open.spotify.com/track/2RR5kSUsSzde2ybCa2VOhP) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Pink Pools](https://open.spotify.com/album/3hwL7txBctOFSiWmIaOofH) | 3:18 | 2021-11-12 | 2022-07-29 |
@@ -206,7 +209,7 @@
 | [Something Holy](https://open.spotify.com/track/47pLIdG3FelOM4aklpMJ98) | [Jealous of the Birds](https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm) | [Something Holy](https://open.spotify.com/album/2RhBeJFBLkhgwmIVFNaQNl) | 3:18 | 2021-11-12 | 2022-07-29 |
 | [Song for Nick Drake](https://open.spotify.com/track/01B4EffzLZbFRVRMyRgta1) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Song for Nick Drake](https://open.spotify.com/album/6AW6SfG4jibbNWdZKqX3tP) | 2:57 | 2021-11-12 | 2022-07-28 |
 | [Song for Nick Drake](https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Song for Nick Drake](https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey) | 2:57 | 2022-06-23 |  |
-| [Sorry I Am](https://open.spotify.com/track/2XbtAowMkaRMktJFII7h0Y) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Sorry I Am](https://open.spotify.com/album/1OckLS0LTnxNRWqGJ8ojoy) | 4:02 | 2021-11-12 |  |
+| [Sorry I Am](https://open.spotify.com/track/2XbtAowMkaRMktJFII7h0Y) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Sorry I Am](https://open.spotify.com/album/1OckLS0LTnxNRWqGJ8ojoy) | 4:02 | 2021-11-12 | 2023-04-28 |
 | [Southwark](https://open.spotify.com/track/0YuFYmdojZmBYD9V5giqTR) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Truth or Consequences](https://open.spotify.com/album/0yss5R3uULkCI7Dc9jKRoV) | 3:22 | 2021-11-12 | 2022-12-02 |
 | [Southwark](https://open.spotify.com/track/1FSPgi8zlBB5Xh4qxrnvws) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Truth or Consequences](https://open.spotify.com/album/6pj8dUGAFuv0epn0R3Lns4) | 3:22 | 2022-12-28 |  |
 | [Spiders](https://open.spotify.com/track/08QzqlCCkyKhL0OpLvfDNC) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Spiders](https://open.spotify.com/album/75Qwc3d50bgNBmzleMEWJK) | 3:48 | 2022-02-04 | 2022-08-13 |

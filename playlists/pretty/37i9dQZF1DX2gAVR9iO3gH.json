@@ -1,12 +1,12 @@
 {
   "description": "Miami me lo confirm\u00f3 featuring Eladio Carrion",
-  "num_followers": 49527,
+  "num_followers": 49596,
   "original_name": "Rompiendo: Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI0NjcyMCwwMDAwMDAwMGJjYzNjOTdjOTc2ZmRhOGQ5NWI3YTg1ZmZlN2FjNjBl",
+  "snapshot_id": "MCwzZTAzNWYzMTg0NmIxY2NkNTQ4MmM0ZDQ3OWY5NDI2Y2Q2NjliNzc3",
   "tracks": [
     {
       "added_at": "2023-03-31 07:10:40",
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/4WiQA1AGWHFvaxBU6bHghs"
     },
     {
-      "added_at": "2023-04-27 00:31:17",
+      "added_at": "2023-04-28 00:32:49",
       "album": {
         "name": "Arranca (feat. Omega)",
         "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
@@ -319,26 +319,6 @@
       "duration_ms": 166529,
       "name": "Arranca (feat. Omega)",
       "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
-    },
-    {
-      "added_at": "2023-03-31 07:10:40",
-      "album": {
-        "name": "ULALA (OOH LA LA)",
-        "url": "https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 188009,
-      "name": "ULALA (OOH LA LA)",
-      "url": "https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv"
     },
     {
       "added_at": "2023-03-31 07:10:40",
@@ -379,22 +359,22 @@
     {
       "added_at": "2023-03-31 07:10:40",
       "album": {
-        "name": "Whiskey y Coco",
-        "url": "https://open.spotify.com/album/6MVcp3C5rcllaSyU9nhGrP"
+        "name": "ULALA (OOH LA LA)",
+        "url": "https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP"
       },
       "artists": [
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
           "name": "Myke Towers",
           "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 186477,
-      "name": "Whiskey y Coco",
-      "url": "https://open.spotify.com/track/0otoSS2m3QjbDLzsHMobgK"
+      "duration_ms": 188009,
+      "name": "ULALA (OOH LA LA)",
+      "url": "https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv"
     },
     {
       "added_at": "2023-03-31 07:10:40",
@@ -415,6 +395,26 @@
       "duration_ms": 267016,
       "name": "La F\u00f3rmula",
       "url": "https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX"
+    },
+    {
+      "added_at": "2023-03-31 07:10:40",
+      "album": {
+        "name": "Whiskey y Coco",
+        "url": "https://open.spotify.com/album/6MVcp3C5rcllaSyU9nhGrP"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 186477,
+      "name": "Whiskey y Coco",
+      "url": "https://open.spotify.com/track/0otoSS2m3QjbDLzsHMobgK"
     },
     {
       "added_at": "2023-03-31 07:10:40",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-03-31 07:10:40",
       "album": {
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 167175,
+      "name": "AGUARDIENTE",
+      "url": "https://open.spotify.com/track/3Z0l8qwMuC376pcutLVsY8"
+    },
+    {
+      "added_at": "2023-03-31 07:10:40",
+      "album": {
         "name": "Marianela (Que Pasa)",
         "url": "https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0"
       },
@@ -499,18 +515,22 @@
     {
       "added_at": "2023-03-31 07:10:40",
       "album": {
-        "name": "LA VIDA ES UNA",
-        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 167175,
-      "name": "AGUARDIENTE",
-      "url": "https://open.spotify.com/track/3Z0l8qwMuC376pcutLVsY8"
+      "duration_ms": 176293,
+      "name": "Cuando Te Toca",
+      "url": "https://open.spotify.com/track/6N5kayELaZsZUOwW9uCBU2"
     },
     {
       "added_at": "2023-03-31 07:10:40",
@@ -531,26 +551,6 @@
       "duration_ms": 206499,
       "name": "CHAO BEBE",
       "url": "https://open.spotify.com/track/2caVKAWz7oM5Hw3LDWWVnQ"
-    },
-    {
-      "added_at": "2023-03-31 07:10:40",
-      "album": {
-        "name": "Resistencia",
-        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 176293,
-      "name": "Cuando Te Toca",
-      "url": "https://open.spotify.com/track/6N5kayELaZsZUOwW9uCBU2"
     },
     {
       "added_at": "2023-03-31 07:10:40",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-03-31 07:10:40",
       "album": {
-        "name": "Yeska",
-        "url": "https://open.spotify.com/album/2HkDziGU1nBIpP9xk5KVAr"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        }
-      ],
-      "duration_ms": 188466,
-      "name": "Yeska",
-      "url": "https://open.spotify.com/track/1cOfhLKpYNsDgYNAKEQslR"
-    },
-    {
-      "added_at": "2023-03-31 07:10:40",
-      "album": {
         "name": "De Revista (Remix)",
         "url": "https://open.spotify.com/album/4t9Zm2EFBwVerXHe93ypW3"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 239921,
       "name": "De Revista - Remix",
       "url": "https://open.spotify.com/track/0jEs4lbM1tLANAulsyDfjR"
+    },
+    {
+      "added_at": "2023-03-31 07:10:40",
+      "album": {
+        "name": "Yeska",
+        "url": "https://open.spotify.com/album/2HkDziGU1nBIpP9xk5KVAr"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        }
+      ],
+      "duration_ms": 188466,
+      "name": "Yeska",
+      "url": "https://open.spotify.com/track/1cOfhLKpYNsDgYNAKEQslR"
     },
     {
       "added_at": "2023-03-31 07:10:40",

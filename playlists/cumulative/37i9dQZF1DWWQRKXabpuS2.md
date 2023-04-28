@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. الغلاف: سلطان المرشد
 
-215 songs - 14 hr 38 min
+216 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Maashar Al Oshag](https://open.spotify.com/track/6ICQlcNHmIY6JTf4pTNCkJ) | [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk), [Layali Dehrab](https://open.spotify.com/artist/5Jm0HiIbPtXDptk9iWN9uf) | [Maashar AlOshag](https://open.spotify.com/album/4SVOCuVTPM93lStypg1RuG) | 3:32 | 2022-08-22 | 2023-03-15 |
 | [Maey Solef](https://open.spotify.com/track/2w9rtSDzKPD2ONLCG6f39o) | [Nariman](https://open.spotify.com/artist/4PGqbi1DtCzG4itqf4UcSh) | [Maey Solef](https://open.spotify.com/album/129Uvupg3zkSumY6XQuoLv) | 5:47 | 2021-12-23 | 2022-03-12 |
 | [Mahad Ymoot](https://open.spotify.com/track/2CqHFZJqvk8nydObpUKc3r) | [Sultan Khalifa](https://open.spotify.com/artist/0CdLlvZEodX7fm7ujXI7HB) | [Mahad Ymoot](https://open.spotify.com/album/4yeVnJMIwINePWRu5ybPtK) | 3:49 | 2022-08-06 | 2023-02-07 |
-| [Majnoun](https://open.spotify.com/track/6MFZIxQGGiqbKMtJXalRsU) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [Majnoun](https://open.spotify.com/album/7lEdeBd6afDZBOtzrAL811) | 3:33 | 2023-04-26 |  |
+| [Majnoun](https://open.spotify.com/track/6MFZIxQGGiqbKMtJXalRsU) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [Majnoun](https://open.spotify.com/album/7lEdeBd6afDZBOtzrAL811) | 3:33 | 2023-04-26 | 2023-04-28 |
 | [Mani Qader](https://open.spotify.com/track/1lJhnoFUqtSkK2BkrxrDVE) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Mani Qader](https://open.spotify.com/album/70j5jro09TU8NtTscyxEyY) | 3:32 | 2022-11-07 | 2023-04-05 |
 | [Maskeen](https://open.spotify.com/track/6y8LpdByQROHKQMTNv7pPe) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Maskeen](https://open.spotify.com/album/6fn1Xqlur9ssQxrfSQKRdv) | 4:11 | 2022-10-10 |  |
 | [Mawed Eyonk](https://open.spotify.com/track/7aq0vVJxIfEJBl0Nca2Yfq) | [Abdulaziz Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [Mawed Eyonk](https://open.spotify.com/album/2f6Pbb9qmPx9PEkOULDmOn) | 5:21 | 2022-08-24 | 2023-03-15 |
@@ -205,6 +205,7 @@
 | [فوق تحت](https://open.spotify.com/track/5rFL1zYLe4HXY7QR6WCSWZ) | [Faris Al Balad](https://open.spotify.com/artist/3HpHVn0w30wsHoLBxP5lNP) | [فوق تحت](https://open.spotify.com/album/3l25EQJ6dkSjMwl99fA460) | 2:29 | 2022-07-20 | 2022-07-27 |
 | [في حفظ الله \| لمياء المالكي](https://open.spotify.com/track/4ElrjJKCDraFudqQMqG5Jj) | [Lamya Almalki \| لمياء المالكي](https://open.spotify.com/artist/78muID98ZZ9qLgjJph0jnf) | [في حفظ الله \| لمياء المالكي](https://open.spotify.com/album/5lA5PY1w6TGLqYZySPiZaA) | 3:57 | 2022-11-06 |  |
 | [ما عرفتك](https://open.spotify.com/track/7HOuUa0bFPdJ4nFoIdK3PH) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [ما عرفتك](https://open.spotify.com/album/4rUz9KqZFlohSdai1fLvu7) | 5:39 | 2023-03-01 |  |
+| [مجنون](https://open.spotify.com/track/74poQorNZ3f9iXMolw7gQx) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [مجنون](https://open.spotify.com/album/1ivQ3SBQ6eWl7NqG3QMyYT) | 3:33 | 2023-04-26 |  |
 | [مرتاح](https://open.spotify.com/track/1eTt5Z7Yhxx0RABA3BLlgQ) | [Essa Almarzoug](https://open.spotify.com/artist/5F0AQAjsHjjT67OBz9GLuz) | [مرتاح](https://open.spotify.com/album/3AjExjqj8TnRdLrmW9RvZT) | 3:29 | 2021-12-23 | 2022-03-12 |
 | [مرحبا بك](https://open.spotify.com/track/7zGF0G34lky0sgWz6uQux8) | [دحوم الطلاسي](https://open.spotify.com/artist/1oqdsH0De57FaORaUIF9gC), [مشجع مسفر](https://open.spotify.com/artist/6xNGM5MRDYPJajquB1R2Ch) | [مرحبا بك](https://open.spotify.com/album/6NoZaRWPTa6i4krd7rGh4I) | 3:25 | 2021-12-23 | 2022-04-05 |
 | [معكازي](https://open.spotify.com/track/68vRWVHLdGaKFI5SYcDVVa) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [رابح صقر ٢٠٢٣](https://open.spotify.com/album/5sBNL3QLKoRAJ88mgVppqZ) | 4:57 | 2023-03-03 |  |

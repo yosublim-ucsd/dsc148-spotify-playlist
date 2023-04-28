@@ -4,7 +4,7 @@
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: ODUMODUBLVCK\. Artwork by Isu Kim\. Updates every Wednesday.
 
-3,790 songs - 8 day 15 hr 48 min
+3,796 songs - 8 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1258,6 +1258,7 @@
 | [Gallows](https://open.spotify.com/track/3HsH8EwEfvhu151P1erqDX) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Gallows](https://open.spotify.com/album/4rWlTRMZieWj6MJV7KsCJh) | 3:06 | 2023-01-25 | 2023-02-02 |
 | [GAME ON LOCK](https://open.spotify.com/track/1gK93HaJnBsIGtWp2H1nsw) | [Jay Willy](https://open.spotify.com/artist/2sEFH0VuUle6GCsSxm0vkG) | [GAME ON LOCK](https://open.spotify.com/album/6H7TJfC91nDB7KGG5HHW0Z) | 1:58 | 2023-03-22 | 2023-03-30 |
 | [Game Over](https://open.spotify.com/track/1dZW33lY36vkumMm5F5RrD) | [Synae](https://open.spotify.com/artist/3Q2nENhSwAYt3rP6LZUoIq) | [Game Over](https://open.spotify.com/album/40xnM71tlIZ299GruGToGD) | 2:20 | 2022-03-16 | 2022-03-24 |
+| [Games](https://open.spotify.com/track/707DkaerHk1Ad2uySczdR4) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Games](https://open.spotify.com/album/3dCdXYs4q7pn3iCdsxzgd9) | 2:36 | 2023-04-27 |  |
 | [GANG!!!](https://open.spotify.com/track/10autmmii4jqigGxSgOTiX) | [Wovvoka](https://open.spotify.com/artist/0pAZH4BCRTfoEudFH245iF) | [GANG!!!](https://open.spotify.com/album/4nP7j30TkBQLpY2wommHRs) | 1:28 | 2022-02-23 | 2022-03-03 |
 | [garbage truck](https://open.spotify.com/track/4DQnPtChUxquO83Fjn6D3S) | [hemlock](https://open.spotify.com/artist/2urQCjxehNpSQWZW83h1L2) | [talk soon](https://open.spotify.com/album/356rRbXibYCUg2gkyRZIZF) | 2:11 | 2022-07-20 | 2022-07-28 |
 | [Garden](https://open.spotify.com/track/3U4lJRdx9MgH42ThXr8GuP) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Garden](https://open.spotify.com/album/3IPCddJutMPZCJHfVeClx5) | 2:55 | 2022-09-21 | 2022-09-29 |
@@ -1401,6 +1402,7 @@
 | [Hair Up High](https://open.spotify.com/track/2Yy2LQe91B18DxooUldFLm) | [H I N A N O](https://open.spotify.com/artist/6tO81LUACIiheJWoVBJ5PY) | [Tomorrow I'll Never Be Twenty\-Two](https://open.spotify.com/album/1P1WOWCim8bfcz6Z1Gqr8s) | 4:20 | 2022-09-28 | 2022-10-06 |
 | [Halcyon](https://open.spotify.com/track/3u01SjV3gxsOvx9HjSqb0x) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg) | [Shiny Things](https://open.spotify.com/album/0ky89qHAbyPxgmUVV5iwWI) | 4:36 | 2023-03-29 | 2023-04-06 |
 | [Hallelujah](https://open.spotify.com/track/7HfhipszjuQRcfHWO9loZ4) | [Anna Mae](https://open.spotify.com/artist/1LqshAgbw4iC1QlZSSR4qv) | [For The Romantics](https://open.spotify.com/album/1yZQkacmUXEp1Ig3ZpuZu6) | 2:59 | 2022-05-18 | 2022-05-26 |
+| [Hand on Chest](https://open.spotify.com/track/1pkmICGyr4tAx6b6R8XChw) | [Brandon Nembhard](https://open.spotify.com/artist/3iz36sr0k9vScDNDRPZtLS) | [Hand on Chest](https://open.spotify.com/album/1A3GYh1Q0vL6FW1kWakDhA) | 2:33 | 2023-04-27 |  |
 | [hands](https://open.spotify.com/track/2GiBkiehYBV0AkGWAJj4Tl) | [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY), [Claire Rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [hands](https://open.spotify.com/album/6qKlBA1sNDwewLVUBcwKbi) | 2:59 | 2022-01-12 | 2022-01-20 |
 | [hands all over](https://open.spotify.com/track/2jDE21s8u8rrMwgXjjZDP4) | [Molly Seger](https://open.spotify.com/artist/0WtS5MfE3iVJN9puXPCjJ9) | [hands all over](https://open.spotify.com/album/5wUT6Z4T4fJbDc6U7Wk9JZ) | 4:24 | 2022-03-02 | 2022-03-10 |
 | [Hang on Sloopy](https://open.spotify.com/track/76PPAlq0Pp36XWGhXbLQab) | [GOLDEN](https://open.spotify.com/artist/1QdEdpB8sfiCulNykJkeZf) | [Hang on Sloopy / Darkness on the Edge of Town](https://open.spotify.com/album/11mfcowehkh5dorhk6u7IJ) | 3:03 | 2022-05-11 | 2022-05-19 |
@@ -2346,6 +2348,7 @@
 | [No Greater Joy](https://open.spotify.com/track/6CGdWGFfTnYvnJ9wQg1IW9) | [Stello](https://open.spotify.com/artist/439Dw5xIEnUHlgIu1QS2uF) | [No Greater Joy](https://open.spotify.com/album/5LuhtFpQCsjCxJn40vF3Hn) | 2:59 | 2022-10-26 | 2022-11-10 |
 | [No Lames](https://open.spotify.com/track/1kqBt8yLmCOevY2Nw7ptVE) | [Jayy Brown](https://open.spotify.com/artist/2fxgXM6gZJD4XlRl2Dg4hE), [Yung Tory](https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx) | [No Lames](https://open.spotify.com/album/3G0a6rQ8Qm9p7kGhosenzQ) | 3:00 | 2022-03-23 | 2022-03-31 |
 | [No Longer Mine](https://open.spotify.com/track/5udICNQ3qaWVi9MjdD9ASC) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [No Longer Mine](https://open.spotify.com/album/5ceDVdOYMtW3NVteZmvebk) | 4:35 | 2022-10-12 | 2022-10-20 |
+| [No More](https://open.spotify.com/track/0yGbLny28yRcgr1S13lluW) | [Devmaccc](https://open.spotify.com/artist/1DfQmW6ftleJPC8rUYhIEh) | [No More](https://open.spotify.com/album/0TG1iHKIaeHA5pAJzwZptr) | 3:12 | 2023-04-27 |  |
 | [No More](https://open.spotify.com/track/2ew6Sp4DaM7K3zqgQK3hDc) | [ItsWill](https://open.spotify.com/artist/4OiW70QEFqUjcIksQm6EPe) | [No More](https://open.spotify.com/album/0ivFRiA5GHzoE7OiM3GNum) | 2:29 | 2023-03-22 | 2023-03-30 |
 | [No More Storm](https://open.spotify.com/track/2Q49Qh9etuNtkOgRep4Ii8) | [Philippe Bronchtein](https://open.spotify.com/artist/0NQU0dfwrMl87RvsFGLreZ) | [Catch My Breath](https://open.spotify.com/album/2MrFpkwVGM7JayuvBMa6jD) | 4:46 | 2022-03-02 | 2022-03-10 |
 | [no reply](https://open.spotify.com/track/7JEElUcn9gusxO706c7XvY) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [home](https://open.spotify.com/album/1mjbcrgdY8PNeFDGBLsa55) | 3:44 | 2022-02-02 | 2022-02-10 |
@@ -2375,6 +2378,7 @@
 | [Not The Right Place](https://open.spotify.com/track/07e5fsdKu1jciVCdrJFIp7) | [SPARKLING](https://open.spotify.com/artist/5vfmqpN6ApOjoiTG0ASdue) | [Not The Right Place](https://open.spotify.com/album/6xqjFr0IJxJE1vzS6kZw9f) | 3:32 | 2022-01-26 | 2022-02-03 |
 | [not this time](https://open.spotify.com/track/5zaDIJxDKZouDM7jP6hwIb) | [Ben Ellis](https://open.spotify.com/artist/3u0GaOtYxsIbwldWs8dgE8) | [not this time](https://open.spotify.com/album/7j3N8YpNnd3wheFpNoJVmy) | 2:38 | 2022-03-16 | 2022-03-24 |
 | [Not Your Girl](https://open.spotify.com/track/6w2DsQu7yQdcetIECH5ANO) | [Shanuka](https://open.spotify.com/artist/57wiktlw2QICiizAd9s2ny) | [Not Your Girl](https://open.spotify.com/album/6gux4v1DkmpgPe1F1kgWeY) | 2:36 | 2022-05-25 | 2022-06-01 |
+| [Nothin' Bout Me](https://open.spotify.com/track/6YEieB26LDm0gxKZSnIgus) | [Tia Bank$](https://open.spotify.com/artist/59rZoAv1GLoq9Iu8pcQbkU) | [Nothin' Bout Me](https://open.spotify.com/album/1SwcWcDfjEHPA8Ye5PbIgI) | 2:38 | 2023-04-27 |  |
 | [Nothing](https://open.spotify.com/track/6ucB0hgH5zcJFfjz4ZjHzX) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Nothing](https://open.spotify.com/album/6dEQBEdT4avjltf11NlwjJ) | 3:16 | 2023-01-25 | 2023-02-02 |
 | [Nothing](https://open.spotify.com/track/0WMgkysLW0mzrYJ2wWb4jw) | [Waeys](https://open.spotify.com/artist/2I5WzC6NbIiTydDnvGGTu9), [Patch Edison](https://open.spotify.com/artist/0i592jj5zkb94alNCGfATI) | [Nothing](https://open.spotify.com/album/5hobeEta5bcDVrz9XHoplf) | 4:28 | 2023-01-25 | 2023-02-02 |
 | [Nothing but Endless Rejections](https://open.spotify.com/track/6PIA1qwY2zEztGYWus9wWp) | [Alejandro Morse](https://open.spotify.com/artist/1aCABCUNTciYIqotcWSry6) | [Adversarial Policies](https://open.spotify.com/album/62Bv4Qi83NM7q3F9bXoCDm) | 7:54 | 2022-03-30 | 2022-04-07 |
@@ -2512,6 +2516,7 @@
 | [owlz](https://open.spotify.com/track/1QhV1fB6S4dZq8YYlJEMIM) | [Dino Gala](https://open.spotify.com/artist/3ILm3k5SKzJCaaTJ4yEw0y) | [Diagonal](https://open.spotify.com/album/6uY20cDnA4MsRjrAFtDYfb) | 3:15 | 2023-01-11 | 2023-01-19 |
 | [Oxygen](https://open.spotify.com/track/5fHomLj0NEDhtQyfnkxTAG) | [MiLES.](https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I) | [Oxygen](https://open.spotify.com/album/1YzZ7Ixf0uQrQ3xWcZf9S5) | 3:29 | 2023-02-22 | 2023-03-02 |
 | [Oysters In My Pocket](https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters In My Pocket](https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES) | 2:42 | 2022-03-16 | 2023-01-12 |
+| [Oysters n' sparklin' water](https://open.spotify.com/track/4oNy9UwKYH13qf1Ze4q2oy) | [El Cousteau](https://open.spotify.com/artist/6jas9NK79dEF6hU1LvmfHB) | [Dirty Harry](https://open.spotify.com/album/3FjGs7LQyf5kq7JIKqWKxr) | 1:45 | 2023-04-27 |  |
 | [P STANDS 4 PLAYA](https://open.spotify.com/track/3ozyV7sAHXaMvrbtziNIEj) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [P PACK](https://open.spotify.com/album/21gk0Gn8JCF9bsu9dThv5e) | 2:51 | 2023-02-15 | 2023-02-23 |
 | [Pain Cargo](https://open.spotify.com/track/5dfH2bnOmN7Gzq1vqOUfNy) | [Reuben Medlin](https://open.spotify.com/artist/3tDEcbdyNcOlDez6jYe3h2) | [Pain Cargo](https://open.spotify.com/album/4eo3URiamCfFl61INOkk8Q) | 2:19 | 2023-03-01 | 2023-03-09 |
 | [PAINTING PICTURES](https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [5LBS OF PRESSURE](https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI) | 2:02 | 2023-02-22 | 2023-03-02 |
@@ -3372,6 +3377,7 @@
 | [This Ain't Love](https://open.spotify.com/track/0IczCbpywu1KpAh7w4QrPc) | [Hood Taylor](https://open.spotify.com/artist/4hDzxvAmdmSeCLFwZN2Anb) | [This Ain't Love](https://open.spotify.com/album/5LO7BclebYOb4yoyNBddKf) | 2:33 | 2022-09-07 | 2022-09-15 |
 | [This Body of Mine](https://open.spotify.com/track/0Eem9ujZYyGOG4J2W2LH5w) | [Franci](https://open.spotify.com/artist/0xzqAXgBTxPtPrKbMZEzjG) | [This Body of Mine](https://open.spotify.com/album/3jCfqpYEjxznVBcPaF5TF5) | 2:14 | 2023-01-18 | 2023-01-26 |
 | [This Far South](https://open.spotify.com/track/1BM4gkXiSUErxCHrrnzlFU) | [Tommy Prine](https://open.spotify.com/artist/73RtFjZdrVkWXAX3SohBtU) | [This Far South](https://open.spotify.com/album/6jOU3mwT8bJD6YVCWFRce9) | 3:15 | 2023-03-08 | 2023-03-16 |
+| [This Is New York](https://open.spotify.com/track/0LH1V0ZodNOfM7jnqyO9S5) | [Scar Lip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [This Is New York](https://open.spotify.com/album/1gsyQrEUfYBX6MV36wmoQM) | 2:13 | 2023-04-27 |  |
 | [This is not my idea of a party](https://open.spotify.com/track/1ZyfvbZVUA21DusJuXnwUe) | [Tj Loft](https://open.spotify.com/artist/2SJuurn3oYAjsbiHaKqXvc) | [This is not my idea of a party](https://open.spotify.com/album/5Z1NUSVwtqJlR48ZhXwt4Q) | 2:40 | 2022-06-08 | 2022-06-16 |
 | [This Is What You're Gonna Get \(Intro\)](https://open.spotify.com/track/3zeIPaQMP64eIM0rI9KyEq) | [Blue Nightmare](https://open.spotify.com/artist/7KjinB2wGyb4N3zvfdOJqX) | [I Don't Think You Know Me That Well](https://open.spotify.com/album/3I2rg6r3sOA7qYEsLdH2NK) | 1:10 | 2023-02-15 | 2023-02-23 |
 | [This Is Why You Shouldn't Do Drugs](https://open.spotify.com/track/1KAsGLVdOWY6nxL1pNN0Xd) | [Cocanina](https://open.spotify.com/artist/6Jwx0B8JhSuBMy5ZBz7GIk) | [This Is Why You Shouldn't Do Drugs](https://open.spotify.com/album/7vqqJ4x520tM6sC1mFD7Ul) | 2:15 | 2023-02-22 | 2023-03-02 |

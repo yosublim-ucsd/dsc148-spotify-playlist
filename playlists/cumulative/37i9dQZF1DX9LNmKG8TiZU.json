@@ -399,6 +399,24 @@
     },
     {
       "album": {
+        "name": "Due Vite",
+        "url": "https://open.spotify.com/album/5rLrnpQAVeBYEw6tH6PUKj"
+      },
+      "artists": [
+        {
+          "name": "Marco Mengoni",
+          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225652,
+      "name": "Due Vite",
+      "url": "https://open.spotify.com/track/5htUUUBlgHZ9fztWTTDEFm"
+    },
+    {
+      "album": {
         "name": "Elliot's Song (From \"Euphoria\" An HBO Original Series)",
         "url": "https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8"
       },

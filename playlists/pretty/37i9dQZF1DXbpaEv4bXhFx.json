@@ -1,12 +1,12 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
-  "num_followers": 8550,
+  "num_followers": 8552,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTY3OSwwMDAwMDAwMGE0N2MyOTc5Mjg0YTU2YTY2NGY3YTI4NGJmN2U1ZGQ4",
+  "snapshot_id": "MCw2ODA2NzBkMTg1NzA4ODk4M2I2OTM5ODcxZTg2ZmU3MjE3NmMyMzk0",
   "tracks": [
     {
       "added_at": "2023-03-11 08:20:06",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-03-11 08:20:06",
       "album": {
+        "name": "Can We Talk Again",
+        "url": "https://open.spotify.com/album/7upDgBOqXuwU72JPeBLIzA"
+      },
+      "artists": [
+        {
+          "name": "PURPLE KISS",
+          "url": "https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq"
+        }
+      ],
+      "duration_ms": 184386,
+      "name": "Can We Talk Again",
+      "url": "https://open.spotify.com/track/0zuOKdFHYFIOTyJi0aOIuo"
+    },
+    {
+      "added_at": "2023-03-11 08:20:06",
+      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 191191,
       "name": "Distance (Feat. I.M of MONSTA X)",
       "url": "https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7"
-    },
-    {
-      "added_at": "2023-03-11 08:20:06",
-      "album": {
-        "name": "Can We Talk Again",
-        "url": "https://open.spotify.com/album/7upDgBOqXuwU72JPeBLIzA"
-      },
-      "artists": [
-        {
-          "name": "PURPLE KISS",
-          "url": "https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq"
-        }
-      ],
-      "duration_ms": 184386,
-      "name": "Can We Talk Again",
-      "url": "https://open.spotify.com/track/0zuOKdFHYFIOTyJi0aOIuo"
     },
     {
       "added_at": "2023-03-11 08:20:06",

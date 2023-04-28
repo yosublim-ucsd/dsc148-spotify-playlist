@@ -1,12 +1,12 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 126310,
+  "num_followers": 126696,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTE0MDQzOCwwMDAwMDAwMDA4NzRlZGE5Nzg3ZDc1NmU1ZTUyNjcyMTY2MTQ1N2Y2",
+  "snapshot_id": "MCw4YzNiODE0ZmRlNjNlOTk1ZTBmYzdkZThlYTM2NTBiNTA4YTZlZjU2",
   "tracks": [
     {
       "added_at": "2023-04-10 15:27:18",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-04-10 15:27:18",
       "album": {
+        "name": "4 Walls - The 4th Album",
+        "url": "https://open.spotify.com/album/6yJdchE7ARS996BxRgplFH"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "duration_ms": 207477,
+      "name": "4 Walls",
+      "url": "https://open.spotify.com/track/2YkjXEab4USTV9uuAgC90E"
+    },
+    {
+      "added_at": "2023-04-10 15:27:18",
+      "album": {
         "name": "1st Single 'S.i.R'",
         "url": "https://open.spotify.com/album/7eZ1MuD9GYRP35jumpZStH"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 169800,
       "name": "Drowning (Feat. SOLE)",
       "url": "https://open.spotify.com/track/7gVFUy4jtXJ6nmk6nHAz2A"
-    },
-    {
-      "added_at": "2023-04-10 15:27:18",
-      "album": {
-        "name": "4 Walls - The 4th Album",
-        "url": "https://open.spotify.com/album/6yJdchE7ARS996BxRgplFH"
-      },
-      "artists": [
-        {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
-        }
-      ],
-      "duration_ms": 207477,
-      "name": "4 Walls",
-      "url": "https://open.spotify.com/track/2YkjXEab4USTV9uuAgC90E"
     },
     {
       "added_at": "2023-04-10 15:27:18",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-04-10 15:27:18",
       "album": {
-        "name": "Taste of Love",
-        "url": "https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/0HqzhHq24yCgB9gz5dVFn8"
-    },
-    {
-      "added_at": "2023-04-10 15:27:18",
-      "album": {
         "name": "IN ITS TIME",
         "url": "https://open.spotify.com/album/3uMb3hF3aAlK7wPU4w8o9D"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 213293,
       "name": "A Song Written Easily",
       "url": "https://open.spotify.com/track/5KqOPtE8nhYtgcXzrIt6N0"
+    },
+    {
+      "added_at": "2023-04-10 15:27:18",
+      "album": {
+        "name": "Taste of Love",
+        "url": "https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/0HqzhHq24yCgB9gz5dVFn8"
     },
     {
       "added_at": "2023-04-10 15:27:18",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-04-10 15:27:18",
       "album": {
-        "name": "Beautiful Night",
-        "url": "https://open.spotify.com/album/3d3Qrwsh70152U0DkClVem"
-      },
-      "artists": [
-        {
-          "name": "Gaho",
-          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
-        }
-      ],
-      "duration_ms": 169813,
-      "name": "Beautiful Night",
-      "url": "https://open.spotify.com/track/5TAVtxiijuCtUAvubAy7bY"
-    },
-    {
-      "added_at": "2023-04-10 15:27:18",
-      "album": {
         "name": "The Red Summer - Summer Mini Album",
         "url": "https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 204833,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/7sEwz6PjhQ1bbSSWb6IBid"
+    },
+    {
+      "added_at": "2023-04-10 15:27:18",
+      "album": {
+        "name": "Beautiful Night",
+        "url": "https://open.spotify.com/album/3d3Qrwsh70152U0DkClVem"
+      },
+      "artists": [
+        {
+          "name": "Gaho",
+          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
+        }
+      ],
+      "duration_ms": 169813,
+      "name": "Beautiful Night",
+      "url": "https://open.spotify.com/track/5TAVtxiijuCtUAvubAy7bY"
     },
     {
       "added_at": "2023-04-10 15:27:18",
@@ -1539,22 +1539,18 @@
     {
       "added_at": "2023-04-10 15:27:18",
       "album": {
-        "name": "OCEAN VIEW",
-        "url": "https://open.spotify.com/album/0w40fqHApJ1JrxddGs9wcF"
+        "name": "BLOOM*IZ",
+        "url": "https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm"
       },
       "artists": [
         {
-          "name": "Rothy",
-          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
-        },
-        {
-          "name": "CHANYEOL",
-          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
+          "name": "IZ*ONE",
+          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
         }
       ],
-      "duration_ms": 187200,
-      "name": "OCEAN VIEW (Feat.CHANYEOL)",
-      "url": "https://open.spotify.com/track/5f8pHuUR6958PQKIdLibdB"
+      "duration_ms": 226786,
+      "name": "DREAMLIKE",
+      "url": "https://open.spotify.com/track/6d3pjHp69A5RABSAJ7zqJH"
     },
     {
       "added_at": "2023-04-10 15:27:18",
@@ -1575,18 +1571,38 @@
     {
       "added_at": "2023-04-10 15:27:18",
       "album": {
-        "name": "BLOOM*IZ",
-        "url": "https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm"
+        "name": "OCEAN VIEW",
+        "url": "https://open.spotify.com/album/0w40fqHApJ1JrxddGs9wcF"
       },
       "artists": [
         {
-          "name": "IZ*ONE",
-          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        },
+        {
+          "name": "CHANYEOL",
+          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
         }
       ],
-      "duration_ms": 226786,
-      "name": "DREAMLIKE",
-      "url": "https://open.spotify.com/track/6d3pjHp69A5RABSAJ7zqJH"
+      "duration_ms": 187200,
+      "name": "OCEAN VIEW (Feat.CHANYEOL)",
+      "url": "https://open.spotify.com/track/5f8pHuUR6958PQKIdLibdB"
+    },
+    {
+      "added_at": "2023-04-10 15:27:18",
+      "album": {
+        "name": "GATEWAY",
+        "url": "https://open.spotify.com/album/5mSkyxRRofx2WkVaij09sW"
+      },
+      "artists": [
+        {
+          "name": "ASTRO",
+          "url": "https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "When You Call My Name",
+      "url": "https://open.spotify.com/track/1e6OozrLhrFOit0DsCPTv2"
     },
     {
       "added_at": "2023-04-10 15:27:18",
@@ -1607,22 +1623,6 @@
       "duration_ms": 199026,
       "name": "Summer or Summer",
       "url": "https://open.spotify.com/track/6tU92qp9bJWAW86IHUggUa"
-    },
-    {
-      "added_at": "2023-04-10 15:27:18",
-      "album": {
-        "name": "GATEWAY",
-        "url": "https://open.spotify.com/album/5mSkyxRRofx2WkVaij09sW"
-      },
-      "artists": [
-        {
-          "name": "ASTRO",
-          "url": "https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "When You Call My Name",
-      "url": "https://open.spotify.com/track/1e6OozrLhrFOit0DsCPTv2"
     },
     {
       "added_at": "2023-04-10 15:27:18",

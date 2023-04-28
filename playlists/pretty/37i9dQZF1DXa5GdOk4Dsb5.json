@@ -1,12 +1,12 @@
 {
   "description": "Para ahogar las penas en el fondo de una botella.",
-  "num_followers": 98065,
+  "num_followers": 98204,
   "original_name": "Rancheras, Despecho & Licor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMDAxODAyZDUyN2ZlNjMzNGQ4NTQxYjhkODQ1OWRiYzZl",
+  "snapshot_id": "MCw2NTYzYzhjZDMzOWI5NTQ5MmMzMDVjYzMzMWRiYzI3ZmExOGQ3YzYw",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "El Rey del Despecho - Internacional",
-        "url": "https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0"
-      },
-      "artists": [
-        {
-          "name": "Dar\u00edo G\u00f3mez",
-          "url": "https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM"
-        }
-      ],
-      "duration_ms": 219559,
-      "name": "Sobrevivir\u00e9",
-      "url": "https://open.spotify.com/track/7q5aOEf299r3G9Xj27UE0H"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Adicta al Dolor",
         "url": "https://open.spotify.com/album/4s8Cb35rdzwYijUoRpXCPL"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 173670,
       "name": "Adicta al Dolor",
       "url": "https://open.spotify.com/track/0V0350NvG0jvbiUTXPzIXU"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "El Rey del Despecho - Internacional",
+        "url": "https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0"
+      },
+      "artists": [
+        {
+          "name": "Dar\u00edo G\u00f3mez",
+          "url": "https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM"
+        }
+      ],
+      "duration_ms": 219559,
+      "name": "Sobrevivir\u00e9",
+      "url": "https://open.spotify.com/track/7q5aOEf299r3G9Xj27UE0H"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "El Rey del Despecho - Internacional",
-        "url": "https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0"
-      },
-      "artists": [
-        {
-          "name": "Dar\u00edo G\u00f3mez",
-          "url": "https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM"
-        }
-      ],
-      "duration_ms": 196884,
-      "name": "Entre Comillas",
-      "url": "https://open.spotify.com/track/4EllcwhWBlSSbwEsZKu1eG"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Te Hubieras Ido Antes",
         "url": "https://open.spotify.com/album/6BIQDuXvqKsUb1jj6yvqFf"
       },
@@ -1383,22 +1367,6 @@
       "duration_ms": 193071,
       "name": "Te Hubieras Ido Antes",
       "url": "https://open.spotify.com/track/0uw9huLXX2ne9bkisvYUFH"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "No Pongan Esas Canciones",
-        "url": "https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 214180,
-      "name": "Olvido Intencional",
-      "url": "https://open.spotify.com/track/2d518N5JSyohQ3JVYdcm2n"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1419,6 +1387,38 @@
       "duration_ms": 189208,
       "name": "Como Si Nada",
       "url": "https://open.spotify.com/track/6fxct5RZKGNgRMcXULezMW"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "No Pongan Esas Canciones",
+        "url": "https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 214180,
+      "name": "Olvido Intencional",
+      "url": "https://open.spotify.com/track/2d518N5JSyohQ3JVYdcm2n"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "El Rey del Despecho - Internacional",
+        "url": "https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0"
+      },
+      "artists": [
+        {
+          "name": "Dar\u00edo G\u00f3mez",
+          "url": "https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM"
+        }
+      ],
+      "duration_ms": 196884,
+      "name": "Entre Comillas",
+      "url": "https://open.spotify.com/track/4EllcwhWBlSSbwEsZKu1eG"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1451,6 +1451,22 @@
       "duration_ms": 182166,
       "name": "Matemos las Ganas",
       "url": "https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Cupido Fall\u00f3",
+        "url": "https://open.spotify.com/album/5dhqkA6KOXgukDTilRTAj0"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "duration_ms": 197642,
+      "name": "Cupido Fall\u00f3",
+      "url": "https://open.spotify.com/track/42RKuMMmSjr4AX3m5RRm8L"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "En Tus Manos",
-        "url": "https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu"
-      },
-      "artists": [
-        {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        }
-      ],
-      "duration_ms": 180165,
-      "name": "Muri\u00f3 El Amor",
-      "url": "https://open.spotify.com/track/2D6SrlLoIjmDX8xhCBA06n"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "De Pura Rabia",
         "url": "https://open.spotify.com/album/3aKCApnTz9ESmKTUenfojX"
       },
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Cupido Fall\u00f3",
-        "url": "https://open.spotify.com/album/5dhqkA6KOXgukDTilRTAj0"
+        "name": "En Tus Manos",
+        "url": "https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu"
       },
       "artists": [
         {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
         }
       ],
-      "duration_ms": 197642,
-      "name": "Cupido Fall\u00f3",
-      "url": "https://open.spotify.com/track/42RKuMMmSjr4AX3m5RRm8L"
+      "duration_ms": 180165,
+      "name": "Muri\u00f3 El Amor",
+      "url": "https://open.spotify.com/track/2D6SrlLoIjmDX8xhCBA06n"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1683,22 +1683,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "La Conquista",
-        "url": "https://open.spotify.com/album/5uZpOJO7pLBQ7nSHE1fjjY"
+        "name": "El Alumno",
+        "url": "https://open.spotify.com/album/4rHTyJISches0y7efQTJbW"
       },
       "artists": [
         {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
         },
         {
           "name": "Jessi Uribe",
           "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
         }
       ],
-      "duration_ms": 186378,
-      "name": "La Conquista",
-      "url": "https://open.spotify.com/track/4o5DwAte1mdSB3YfIKwZjm"
+      "duration_ms": 188567,
+      "name": "El Alumno",
+      "url": "https://open.spotify.com/track/7yy3yQQ9oKCilGJtreLcSe"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1723,22 +1723,38 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "El Alumno",
-        "url": "https://open.spotify.com/album/4rHTyJISches0y7efQTJbW"
+        "name": "Pipe Bueno",
+        "url": "https://open.spotify.com/album/7pbGiwOwBbQrmvPgXyRbgd"
       },
       "artists": [
         {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "duration_ms": 202631,
+      "name": "No voy a Morir",
+      "url": "https://open.spotify.com/track/5r8gJHyLCAwbzLB9RxnkIZ"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "La Conquista",
+        "url": "https://open.spotify.com/album/5uZpOJO7pLBQ7nSHE1fjjY"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
         },
         {
           "name": "Jessi Uribe",
           "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
         }
       ],
-      "duration_ms": 188567,
-      "name": "El Alumno",
-      "url": "https://open.spotify.com/track/7yy3yQQ9oKCilGJtreLcSe"
+      "duration_ms": 186378,
+      "name": "La Conquista",
+      "url": "https://open.spotify.com/track/4o5DwAte1mdSB3YfIKwZjm"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1755,22 +1771,6 @@
       "duration_ms": 211121,
       "name": "Ahora Que Puedo",
       "url": "https://open.spotify.com/track/5ydlSsuMpaqmEg2wKPBe9E"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Pipe Bueno",
-        "url": "https://open.spotify.com/album/7pbGiwOwBbQrmvPgXyRbgd"
-      },
-      "artists": [
-        {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
-        }
-      ],
-      "duration_ms": 202631,
-      "name": "No voy a Morir",
-      "url": "https://open.spotify.com/track/5r8gJHyLCAwbzLB9RxnkIZ"
     }
   ],
   "unique_name": "Rancheras, Despecho & Licor",

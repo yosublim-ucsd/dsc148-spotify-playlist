@@ -4,7 +4,7 @@
 
 > Songs to make your Zumba workout extra fun.
 
-59 songs - 3 hr 38 min
+60 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Balam Pichkari](https://open.spotify.com/track/18e3XXYCv4Tx8uUl1mP3CN) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 4:48 | 2021-11-18 | 2022-12-18 |
 | [Bang Bang](https://open.spotify.com/track/7DonyrUlcVcrtk28mqvWNL) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Bang Bang \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OPaPfgLzRn30767pjwfY3) | 5:20 | 2021-11-18 | 2023-03-15 |
 | [Bang Bang](https://open.spotify.com/track/5R7HpWXej6SiCrd9YJsC5g) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Bang Bang \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zhx5FG1P3Rc9Ufbr9bIgF) | 5:20 | 2021-11-18 | 2022-07-29 |
+| [Bareilly Ke Bazaar \(From "Chatrapathi"\)](https://open.spotify.com/track/4IuqxTkItANJIOGoGXQxvB) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Mayur Puri](https://open.spotify.com/artist/1XUGerdrjDBJxF9ZfxMqDj) | [Bareilly Ke Bazaar \(From "Chatrapathi"\)](https://open.spotify.com/album/6M1jTowR8NgELjYf0okLhl) | 3:23 | 2023-04-27 |  |
 | [Bom Diggy Diggy](https://open.spotify.com/track/1OACsTiYokI4NUgnMonSmt) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP), [Jasmin Walia](https://open.spotify.com/artist/4bWGzsNAtfPp8P7pSBukH8) | [Sonu Ke Titu Ki Sweety](https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX) | 3:58 | 2021-11-18 |  |
 | [Chammak Challo](https://open.spotify.com/track/0EH7sgeiFqDa3eS7ieW2zs) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Hamsika Iyer](https://open.spotify.com/artist/35jsUTwBj5cW9GuNB7Xp61) | [Ra\-One](https://open.spotify.com/album/5x2eTJrbEvmOTEcWWWubLy) | 3:47 | 2021-11-18 |  |
 | [Chhote Chhote Peg](https://open.spotify.com/track/3AQrBSjowqCFu2jiFFuGsv) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Navraj Hans](https://open.spotify.com/artist/4ItzUQL1OI4JNDGNdKHR1K) | [Sonu Ke Titu Ki Sweety](https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX) | 3:23 | 2021-11-18 |  |

@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 64055,
+  "num_followers": 64095,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDAwMDAwYTg0ZjAyNTE5YmJmNzBkYmViMWFlZTJkNTE5MzEx",
+  "snapshot_id": "MCw1ODNkMDVmYjg3MDAyNjA2MjFjNWE4NjkyZjA4OWRiZTM3MzJjZGY4",
   "tracks": [
     {
       "added_at": "2021-12-17 05:01:00",
@@ -407,6 +407,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/0rHlMdFWf9O4Uehk8lbRSE"
+      },
+      "artists": [
+        {
+          "name": "Alci Acosta",
+          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
+        }
+      ],
+      "duration_ms": 175418,
+      "name": "La C\u00e1rcel de Sing Sing",
+      "url": "https://open.spotify.com/track/4IntMZwE9POyG4jfH2fczJ"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "Inolvidable (Boleros)",
         "url": "https://open.spotify.com/album/28FSqSrZWqwnzdtBswzkiv"
       },
@@ -423,22 +439,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Antolog\u00eda 1960 - 1990 (Remastered)",
-        "url": "https://open.spotify.com/album/2xAG4UwtVF0U4rG6xLawfx"
-      },
-      "artists": [
-        {
-          "name": "Lucho Barrios",
-          "url": "https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh"
-        }
-      ],
-      "duration_ms": 132426,
-      "name": "Amor De Pobre",
-      "url": "https://open.spotify.com/track/7b280q5Y2W7X4a6lNTln2B"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Boleros & Baladas: Peruvians Sing For The Brokenhearted",
         "url": "https://open.spotify.com/album/2aKXlmYHTdm68pa9Q289Pk"
       },
@@ -451,6 +451,22 @@
       "duration_ms": 294000,
       "name": "Mil A\u00f1os",
       "url": "https://open.spotify.com/track/5uF6rmLCccjT8C08GUESf4"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Antolog\u00eda 1960 - 1990 (Remastered)",
+        "url": "https://open.spotify.com/album/2xAG4UwtVF0U4rG6xLawfx"
+      },
+      "artists": [
+        {
+          "name": "Lucho Barrios",
+          "url": "https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh"
+        }
+      ],
+      "duration_ms": 132426,
+      "name": "Amor De Pobre",
+      "url": "https://open.spotify.com/track/7b280q5Y2W7X4a6lNTln2B"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -487,22 +503,6 @@
       "duration_ms": 159240,
       "name": "Se Rompio la Cadena",
       "url": "https://open.spotify.com/track/7HO4ZsjFfOy30yhTssf643"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/0rHlMdFWf9O4Uehk8lbRSE"
-      },
-      "artists": [
-        {
-          "name": "Alci Acosta",
-          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
-        }
-      ],
-      "duration_ms": 175418,
-      "name": "La C\u00e1rcel de Sing Sing",
-      "url": "https://open.spotify.com/track/4IntMZwE9POyG4jfH2fczJ"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/0rHlMdFWf9O4Uehk8lbRSE"
+      },
+      "artists": [
+        {
+          "name": "Alci Acosta",
+          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
+        }
+      ],
+      "duration_ms": 152531,
+      "name": "El Contragolpe",
+      "url": "https://open.spotify.com/track/3ee4qpNizzlfrIa0LHR6Se"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "Selecci\u00f3n Especial (Remastered)",
         "url": "https://open.spotify.com/album/5YHzSCQp8knlAlsoEh9DOR"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 307401,
       "name": "Mi Viejo / Recordando a Mi Padre",
       "url": "https://open.spotify.com/track/5sK9OW4DCGyfO7uaIR9pJq"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/0rHlMdFWf9O4Uehk8lbRSE"
-      },
-      "artists": [
-        {
-          "name": "Alci Acosta",
-          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
-        }
-      ],
-      "duration_ms": 152531,
-      "name": "El Contragolpe",
-      "url": "https://open.spotify.com/track/3ee4qpNizzlfrIa0LHR6Se"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "Canta",
+        "url": "https://open.spotify.com/album/3cAzDp7oyxsh1nJiEfWoJr"
+      },
+      "artists": [
+        {
+          "name": "Bobby Capo",
+          "url": "https://open.spotify.com/artist/4HtNNYomY2s6l36CdhOqWW"
+        }
+      ],
+      "duration_ms": 166800,
+      "name": "Lo Que Quiera Lola",
+      "url": "https://open.spotify.com/track/6443igXMStgLhDvCveDZfQ"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "El Rey de las Cantinas",
         "url": "https://open.spotify.com/album/2B0w9D8Ras1AmoZnp6DZcP"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 192040,
       "name": "Corazoncito",
       "url": "https://open.spotify.com/track/4O7oTlSS1fOAmhdXIhRlIU"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "La Voz Elegante del Bolero",
-        "url": "https://open.spotify.com/album/1JLkMWNGLHIp2KWRWXq39H"
-      },
-      "artists": [
-        {
-          "name": "Johnny Farf\u00e1n",
-          "url": "https://open.spotify.com/artist/0Bwzbgfx2UJ7tiHBs2LHwj"
-        }
-      ],
-      "duration_ms": 145426,
-      "name": "Brujerias",
-      "url": "https://open.spotify.com/track/3KMZevenugNMlqN1q5RyKR"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -863,18 +863,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Canta",
-        "url": "https://open.spotify.com/album/3cAzDp7oyxsh1nJiEfWoJr"
+        "name": "La Voz Elegante del Bolero",
+        "url": "https://open.spotify.com/album/1JLkMWNGLHIp2KWRWXq39H"
       },
       "artists": [
         {
-          "name": "Bobby Capo",
-          "url": "https://open.spotify.com/artist/4HtNNYomY2s6l36CdhOqWW"
+          "name": "Johnny Farf\u00e1n",
+          "url": "https://open.spotify.com/artist/0Bwzbgfx2UJ7tiHBs2LHwj"
         }
       ],
-      "duration_ms": 166800,
-      "name": "Lo Que Quiera Lola",
-      "url": "https://open.spotify.com/track/6443igXMStgLhDvCveDZfQ"
+      "duration_ms": 145426,
+      "name": "Brujerias",
+      "url": "https://open.spotify.com/track/3KMZevenugNMlqN1q5RyKR"
     },
     {
       "added_at": "2021-12-17 05:01:00",

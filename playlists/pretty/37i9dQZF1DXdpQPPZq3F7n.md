@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Let these songs be the background score to your love story\. Cover \- Kabir Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 880,538 likes - 75 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,360 likes - 75 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 74 | [Humsafar](https://open.spotify.com/track/6TFESXMfJJWwccviaxGAMa) | [Akhil Sachdeva](https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM), [Mansheel Gujral](https://open.spotify.com/artist/7zfceKY7I04Tc0J2o7043h) | [Badrinath Ki Dulhania](https://open.spotify.com/album/26ska1StQhwbWADLTg2hky) | 4:28 |
 | 75 | [Raabta](https://open.spotify.com/track/6FjbAnaPRPwiP3sciEYctO) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Agent Vinod](https://open.spotify.com/album/2DqQ34i4uuuZWTScsGIgHr) | 4:03 |
 
-Snapshot ID: `MTY4MTI4OTQ2MCwwMDAwMDAwMDA1YzhhOTRhNjFjODIyMzdmMjg1NGU4NGFhODU1NmU4`
+Snapshot ID: `MCwwMDI2Zjg4MWY2NDZjMTVhZmQwY2M4ZGM2YjliNDRmN2ZmN2IwYmYz`

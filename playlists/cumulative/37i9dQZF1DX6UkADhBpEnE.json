@@ -655,6 +655,28 @@
     },
     {
       "album": {
+        "name": "Drink!",
+        "url": "https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        },
+        {
+          "name": "YonYon",
+          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187862,
+      "name": "Drink!",
+      "url": "https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b"
+    },
+    {
+      "album": {
         "name": "DTN",
         "url": "https://open.spotify.com/album/6eOMYDYcATu0l7GFj1Rzmp"
       },
@@ -1098,7 +1120,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 219666,
       "name": "Hachimitsu",
       "url": "https://open.spotify.com/track/5LDRDXk27BnOD1jp5sjmds"
@@ -1769,6 +1791,24 @@
     },
     {
       "album": {
+        "name": "Meltdown",
+        "url": "https://open.spotify.com/album/5YFjep71L0CSTopsrhZ56q"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153037,
+      "name": "Meltdown",
+      "url": "https://open.spotify.com/track/52Rfxu5AUNMV1qhhC2ZCkb"
+    },
+    {
+      "album": {
         "name": "Million Dollar Baby",
         "url": "https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC"
       },
@@ -1838,7 +1878,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 108695,
       "name": "My Crystal Nails",
       "url": "https://open.spotify.com/track/6zIBnhXLG3K95f0OsUCPm0"
@@ -2595,6 +2635,24 @@
     },
     {
       "album": {
+        "name": "Tall Boi",
+        "url": "https://open.spotify.com/album/2VQQWGLQb4mNHAyD5hQrOl"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150090,
+      "name": "Tall Boi",
+      "url": "https://open.spotify.com/track/1pZIZ2XwQufUYv7hQoT8QZ"
+    },
+    {
+      "album": {
         "name": "PSY 9th",
         "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
       },
@@ -2842,7 +2900,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 237200,
       "name": "TRUSTFALL",
       "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
@@ -2994,7 +3052,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 259956,
       "name": "WARUNORI",
       "url": "https://open.spotify.com/track/2D1NcVffFzsLqNFbz5Xdkx"
@@ -3602,6 +3660,24 @@
       "duration_ms": 259853,
       "name": "\u604b\u306f\u3053\u308c\u304b\u3089",
       "url": "https://open.spotify.com/track/7glZoiCUXZ1u0U9YE6mq8X"
+    },
+    {
+      "album": {
+        "name": "\u6625\u306f\u30b0\u30e9\u30c7\u30fc\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/5XGXLJsorSR2qMt3ZmqfNx"
+      },
+      "artists": [
+        {
+          "name": "The Yogurts",
+          "url": "https://open.spotify.com/artist/5Dxf63fwaN5YDewdjxuumR"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256874,
+      "name": "\u6625\u306f\u30b0\u30e9\u30c7\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/1IkCdCF5JlgKQYhgO34G3o"
     },
     {
       "album": {

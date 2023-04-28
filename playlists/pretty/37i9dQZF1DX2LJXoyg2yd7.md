@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 
 > The sweet sounds of Yemen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,882 likes - 40 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,903 likes - 40 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 | 9 | [Allah Jabak](https://open.spotify.com/track/0FaifCfCBMpumWUWF0jwSi) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Allah Jabak](https://open.spotify.com/album/6ykPwvsdl7Yzrzq2HFt0ur) | 4:08 |
 | 10 | [فائق الغزلان](https://open.spotify.com/track/48OuCA67DLWGPuPAIy7cZm) | [Hussain Moheb](https://open.spotify.com/artist/2LUDyDgFsYu4AlnUkBVRMk) | [حبيب ولا غريب](https://open.spotify.com/album/0aUs2ZwUVpT1xr8KIhwF3V) | 5:02 |
 | 11 | [حبيبي ظلمني](https://open.spotify.com/track/2z9zAeVlLl81e9pkRC0lkN) | [Yahya Rassam](https://open.spotify.com/artist/5i5MhtJPyyrHIAqT97DTPd) | [ليالي الانس, Vol\. 2](https://open.spotify.com/album/0FxgMbi7dnrzIsZtdu2Yzq) | 6:01 |
-| 12 | [توصل بالسلامة](https://open.spotify.com/track/05YEZjLYLzPCloIrcljfzy) | [Mohamed Moshajeal](https://open.spotify.com/artist/5SgPuHDX7bw9Ffdqqz2Wvd) | [عاشق القسوة](https://open.spotify.com/album/0rPa8e8OMdEzSYy33TRgGD) | 5:42 |
-| 13 | [Eineik](https://open.spotify.com/track/2fIk79ZPj7BB8GCP3m1zl5) | [Arwa](https://open.spotify.com/artist/25vaZT076LoTTwM5BZ6Dmn) | [Eineik](https://open.spotify.com/album/2osFjuJ98QiX6TaJQKEQjs) | 6:06 |
+| 12 | [Eineik](https://open.spotify.com/track/2fIk79ZPj7BB8GCP3m1zl5) | [Arwa](https://open.spotify.com/artist/25vaZT076LoTTwM5BZ6Dmn) | [Eineik](https://open.spotify.com/album/2osFjuJ98QiX6TaJQKEQjs) | 6:06 |
+| 13 | [توصل بالسلامة](https://open.spotify.com/track/05YEZjLYLzPCloIrcljfzy) | [Mohamed Moshajeal](https://open.spotify.com/artist/5SgPuHDX7bw9Ffdqqz2Wvd) | [عاشق القسوة](https://open.spotify.com/album/0rPa8e8OMdEzSYy33TRgGD) | 5:42 |
 | 14 | [Shofli Hal](https://open.spotify.com/track/3BkkS5TazFwEgg5g3Y0uNe) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Shofli Hal](https://open.spotify.com/album/3PxBBIa5XI6UdJrFjihXNR) | 4:40 |
 | 15 | [Sirr Hobbi](https://open.spotify.com/track/1wwznXiE8586TWHuSFk3GO) | [Abu Baker Salim](https://open.spotify.com/artist/4vbzGXyNwi5mMWvPqHDHib) | [Sirr Hobbi](https://open.spotify.com/album/3VntSLELrNgNlPiJbTnB0W) | 13:54 |
 | 16 | [عاده صغير](https://open.spotify.com/track/6QJLJ7LhunlxbwkobbjJBx) | [Faysal Alawi](https://open.spotify.com/artist/4PRa5qwOK0FRxd0JnutD8x) | [يا بدر يا غصن](https://open.spotify.com/album/63qgOooIYqQ8bLuK4Xw4td) | 9:00 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 | 36 | [ياطير في عالي الغصون](https://open.spotify.com/track/7lft2qvHsmL1P06YcFLN7C) | [Sharaf Al Qaady](https://open.spotify.com/artist/1IdxbAEwj8rBjjtfxWUKLx) | [ليالي الانس, Vol\. 2](https://open.spotify.com/album/0FxgMbi7dnrzIsZtdu2Yzq) | 5:40 |
 | 37 | [افا عليك](https://open.spotify.com/track/5BSLLQTgC8ZWPNNtQ38iK3) | [Ahmed Alwi](https://open.spotify.com/artist/4lvCiUpjys3gvBk1qpK6Z0) | [افا عليك](https://open.spotify.com/album/3OK7HxtdSD9GTB7e85I5bY) | 4:33 |
 | 38 | [Fgadt Al Thakira](https://open.spotify.com/track/12gqeV9CVUq2VSRmTlzryV) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Fgadt Al Thakira](https://open.spotify.com/album/3mHIufFOqkE6A6FpTltUbj) | 3:26 |
-| 39 | [يا مهاجر](https://open.spotify.com/track/3bBj0z4e5PSRKq9uIB8LGD) | [احمد العطاس](https://open.spotify.com/artist/6l0FoPSmxMITuwCK5GEQo1) | [يا مهاجر](https://open.spotify.com/album/1AhnOD0kXo4Nc3B0oMl7eJ) | 7:07 |
+| 39 | [Leman Ashkeeh](https://open.spotify.com/track/2PuOShmbN0ZeagodIh5fSf) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK) | [Faisal Abdulkarim 2021](https://open.spotify.com/album/3UAlvuKYQZY7isdpIlh7iZ) | 4:50 |
 | 40 | [يا جانيات العناقيد](https://open.spotify.com/track/3HIM2MSek0HBoMJU2HOnNQ) | [Yahya Rassam](https://open.spotify.com/artist/5i5MhtJPyyrHIAqT97DTPd) | [ليالي الانس, Vol\. 2](https://open.spotify.com/album/0FxgMbi7dnrzIsZtdu2Yzq) | 5:36 |
 
-Snapshot ID: `MTY1ODkxMzUxNiwwMDAwMDAwMDNmODVjODEzODc0MTZjNzEyMzYxNDViNzgwNDYzZWFh`
+Snapshot ID: `MCwwZTI3NDU3N2QzODk1ODQ4ZTY4NmQxNzJmYjU1MzYxZjQyYmNmNWRj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 
 > Las voces que inmortalizaron las canciones del Divo de Juárez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,511 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,565 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 94 | [Fue un Placer Conocerte](https://open.spotify.com/track/5kKGFC0lpNscOOapSwM8DB) | [Frankie J](https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf), [Emily Bautista](https://open.spotify.com/artist/6kw6B6Enh4eYTH8yGtLrwn) | [Canciones Que Recuerdo](https://open.spotify.com/album/5HJmUCkhjfXNDVyvaZigSj) | 2:59 |
 | 95 | [Amor Eterno](https://open.spotify.com/track/0URvtXxnBiJKzgl0pOauhy) | [Frankie J](https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf) | [Canciones Que Recuerdo](https://open.spotify.com/album/5HJmUCkhjfXNDVyvaZigSj) | 5:11 |
 | 96 | [Ya Lo Sé Que Tu Te Vas](https://open.spotify.com/track/6br5jCk7DvwwHSApUzSURM) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV) | 3:44 |
-| 97 | [Hasta Que Te Conocí](https://open.spotify.com/track/4hVpVysNagHdtH4IipkRqM) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV) | 7:03 |
-| 98 | [No Vale la Pena](https://open.spotify.com/track/61xsekswNv3eCOOwYGY6GH) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta Once Grandes Exitos De Juan Gabriel](https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl) | 2:36 |
+| 97 | [No Vale la Pena](https://open.spotify.com/track/61xsekswNv3eCOOwYGY6GH) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta Once Grandes Exitos De Juan Gabriel](https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl) | 2:36 |
+| 98 | [Hasta Que Te Conocí](https://open.spotify.com/track/4hVpVysNagHdtH4IipkRqM) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV) | 7:03 |
 | 99 | [Fue Tan Poco Tu Cariño](https://open.spotify.com/track/6iU3Z1hIEXctO1xm3JQzfZ) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/7hmSedqLVW3pMXzRPSbJfM) | 3:13 |
 | 100 | [Me Gustas Mucho \- Con Amaia Montero](https://open.spotify.com/track/09WmDckPkEXGRlGH5Kyipy) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Una Estrella En El Cielo](https://open.spotify.com/album/5BKMan1vEF6HtWpj8tNceY) | 3:00 |
 
-Snapshot ID: `MTY0MDgyMTEwNSwwMDAwMDAwMDFjMzNlNDZmZDk3MzUxZDQ3ODdjZGQ0N2FlNTk0MDE1`
+Snapshot ID: `MCxlZjg4ZTNjY2QyODA2ODU0NzRjZTM1MjQ5M2JlY2QxYjZhYzZiMTdh`

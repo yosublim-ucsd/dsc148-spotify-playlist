@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Delilah Bon",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Jim Legxacy ",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -164,6 +164,24 @@
       "duration_ms": 199883,
       "name": "American Boy - Spotify Singles",
       "url": "https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP"
+    },
+    {
+      "album": {
+        "name": "homeless n*gga pop music",
+        "url": "https://open.spotify.com/album/5j9zothL0paSMkfcdjCdHA"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155642,
+      "name": "amnesia111",
+      "url": "https://open.spotify.com/track/4cc73WNl3KdrJNgWk0eySz"
     },
     {
       "album": {

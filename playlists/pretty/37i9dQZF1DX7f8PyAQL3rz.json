@@ -1,12 +1,12 @@
 {
   "description": "kayblack esquece",
-  "num_followers": 1113408,
+  "num_followers": 1114657,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0NjE4MCwwMDAwMDAwMGU0NjFlMjA0N2RiMDMyZDk3ZWY0Yzg5ZDhiMGQ5YzQx",
+  "snapshot_id": "MCw0YzM5ZDA2YmNmMDlhOWQ5YmZkZTdlM2JjMGM1OTUzM2UyMjcxN2Qz",
   "tracks": [
     {
       "added_at": "2023-04-21 03:03:00",
@@ -831,30 +831,6 @@
     {
       "added_at": "2023-04-21 03:03:00",
       "album": {
-        "name": "Doce Veneno",
-        "url": "https://open.spotify.com/album/04GVjCszesD4CSwLqyKkFl"
-      },
-      "artists": [
-        {
-          "name": "Mc Paiva ZS",
-          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        },
-        {
-          "name": "Kotim",
-          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
-        }
-      ],
-      "duration_ms": 208941,
-      "name": "Doce Veneno",
-      "url": "https://open.spotify.com/track/7woVi4HBuv0rsO98Ox2Fcq"
-    },
-    {
-      "added_at": "2023-04-21 03:03:00",
-      "album": {
         "name": "Desabafo",
         "url": "https://open.spotify.com/album/5glFkBO45WBRpvp4dMWPrm"
       },
@@ -883,6 +859,30 @@
       "duration_ms": 150508,
       "name": "Desabafo",
       "url": "https://open.spotify.com/track/37LWZe5mdHIKuXBh8GuwlH"
+    },
+    {
+      "added_at": "2023-04-21 03:03:00",
+      "album": {
+        "name": "Doce Veneno",
+        "url": "https://open.spotify.com/album/04GVjCszesD4CSwLqyKkFl"
+      },
+      "artists": [
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        },
+        {
+          "name": "Kotim",
+          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "Doce Veneno",
+      "url": "https://open.spotify.com/track/7woVi4HBuv0rsO98Ox2Fcq"
     },
     {
       "added_at": "2023-04-21 03:03:00",
@@ -947,6 +947,38 @@
     {
       "added_at": "2023-04-21 03:03:00",
       "album": {
+        "name": "Assault (Joias no Pulso)",
+        "url": "https://open.spotify.com/album/1q9DqRFJxfluFR3iX9rIRs"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        }
+      ],
+      "duration_ms": 274015,
+      "name": "Assault (Joias no Pulso)",
+      "url": "https://open.spotify.com/track/0x4Hiy4evh6K0fkhIsEE9s"
+    },
+    {
+      "added_at": "2023-04-21 03:03:00",
+      "album": {
         "name": "O Fim \u00e9 Triste (feat. DJ BOY)",
         "url": "https://open.spotify.com/album/42olwEoM9dmZzgs97cjdXt"
       },
@@ -991,38 +1023,6 @@
       "duration_ms": 177000,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/0yL7K9MzC20uBesZTPY81r"
-    },
-    {
-      "added_at": "2023-04-21 03:03:00",
-      "album": {
-        "name": "Assault (Joias no Pulso)",
-        "url": "https://open.spotify.com/album/1q9DqRFJxfluFR3iX9rIRs"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        }
-      ],
-      "duration_ms": 274015,
-      "name": "Assault (Joias no Pulso)",
-      "url": "https://open.spotify.com/track/0x4Hiy4evh6K0fkhIsEE9s"
     },
     {
       "added_at": "2023-04-21 03:03:00",

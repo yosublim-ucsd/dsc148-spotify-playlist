@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Teenage Wrist
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,080 likes - 105 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,171 likes - 105 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 104 | [Tidal River](https://open.spotify.com/track/2IAWpK4ez7m987Xxy5hGMl) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Endless Rooms](https://open.spotify.com/album/2inG3MxvNhZYd808mnhbOW) | 4:26 |
 | 105 | [Head On](https://open.spotify.com/track/42vq2Ww3BMk7HE8iL6yWF4) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG), [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Head On](https://open.spotify.com/album/4spRalyH6f1l2kRMxUbU19) | 2:38 |
 
-Snapshot ID: `MTY4MTQ5MDYwMCwwMDAwMDAwMDY0MzhkZWMwOWIzZmVlOTVjNWY0Y2I2MDUzMGQ0NGZh`
+Snapshot ID: `MCwyN2Q2MjgwMTFkNjk2ZDc2YWE0MmNlMzEzNGVlMzQ0MzRjMjJhZmQ3`

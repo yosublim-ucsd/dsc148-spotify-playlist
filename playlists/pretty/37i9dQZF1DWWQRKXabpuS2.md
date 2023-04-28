@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. الغلاف: سلطان المرشد
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,779 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,831 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ya Sokar Eldonia](https://open.spotify.com/track/0NKILlxphoywpUSzHMNKst) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Ya Sokar Eldonia](https://open.spotify.com/album/2KBT9b6WRIiz5d2ETHk77b) | 4:35 |
-| 2 | [Majnoun](https://open.spotify.com/track/6MFZIxQGGiqbKMtJXalRsU) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [Majnoun](https://open.spotify.com/album/7lEdeBd6afDZBOtzrAL811) | 3:33 |
+| 2 | [مجنون](https://open.spotify.com/track/74poQorNZ3f9iXMolw7gQx) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [مجنون](https://open.spotify.com/album/1ivQ3SBQ6eWl7NqG3QMyYT) | 3:33 |
 | 3 | [مكانك](https://open.spotify.com/track/3QLwspqylF5pypDsi63F8r) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [مكانك](https://open.spotify.com/album/6shrlkAp819uLJ9WNXT2DN) | 3:48 |
 | 4 | [نختلف](https://open.spotify.com/track/0saWOpjP5GsSIS8Xg3Yob8) | [هدى الفهد](https://open.spotify.com/artist/0PIckHaNLdTeZbmA8Vstn5) | [نختلف](https://open.spotify.com/album/5Pt6p7tl0DOE93klDxYkfW) | 3:31 |
 | 5 | [Hawah Al Galb](https://open.spotify.com/track/5BlZZscTZ3xbYVPbvqYOK2) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Hawah Al Galb](https://open.spotify.com/album/3EnxQsWBV0QcyMkgxDEdIT) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 49 | [Lail EL Mefarag](https://open.spotify.com/track/2jr8YIesCQsPzjLpjwJx20) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Lail EL Mefarag](https://open.spotify.com/album/4lHyB1fOo2GPI34u47qwSD) | 4:34 |
 | 50 | [Alkhamri](https://open.spotify.com/track/4lUN47aPWKGlKbiWOuYkJR) | [Sheyaab](https://open.spotify.com/artist/4ws4u7WBMXjLtooqt1yQ49), [Bu Belal](https://open.spotify.com/artist/3V5efQdYiGDYq2LLV6dsU2), [Carol](https://open.spotify.com/artist/0t3N6YV4XJtCd93C6c6CIS), [Bu Belall](https://open.spotify.com/artist/6sIFcXYk0GMwlYxHcMV3B2) | [Alkhamri](https://open.spotify.com/album/0Tji72I9mjsExOYcQUN2Ih) | 3:07 |
 
-Snapshot ID: `MTY4MjQ5MjQ2NywwMDAwMDAwMDEwZWNlNWNhOWY3OGI5OTAwNzM1N2M5MzdmNThmNTU0`
+Snapshot ID: `MCw3MWI3MDI3NGEyYzVlZGQ1NTI0YWQ0NDg5ZjE1ZDUwMjIyOGY0OTg5`

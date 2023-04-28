@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 
 > Take another hit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 818,098 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 818,229 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 | 69 | [Dégaine \(feat\. Damso\)](https://open.spotify.com/track/5cqLFudVQryezmVFmmyRJN) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Dégaine \(feat\. Damso\)](https://open.spotify.com/album/0qHraUEsPCcdTqCFBFDQvn) | 3:30 |
 | 70 | [RS](https://open.spotify.com/track/1rL5nZhAgxPBbG3z5hl8it) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [RS](https://open.spotify.com/album/0XmgdVruDUqVgvW8PnayIt) | 3:19 |
 
-Snapshot ID: `MTY4MjM2MDU4OSwwMDAwMDAwMGY3MjhhMTk4YzY3MzI1ZjQwNmIyMzM4OWIwZDc4OWUz`
+Snapshot ID: `MCxkMjQ0NjI2Zjk0M2Q5MzY2MDhmMDVhMWVjYjZjMDljZTA5NjdkMTc3`

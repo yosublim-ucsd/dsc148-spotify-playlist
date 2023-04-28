@@ -1,12 +1,12 @@
 {
   "description": "The most unforgettable love songs from the 70s.",
-  "num_followers": 1278004,
+  "num_followers": 1278572,
   "original_name": "70s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTg4NTYxNSwwMDAwMDAwMDE3ODhmMTJhYTM0ZjdmMzIyZDc1Y2I3NGI1MzdlYjg4",
+  "snapshot_id": "MCxlZDE4ZmFiMTdlZGZiYmJhNjBiYWExZTZjOGEwNmE0OGQ3N2YxZGNm",
   "tracks": [
     {
       "added_at": "2023-03-27 02:53:35",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-03-27 02:53:35",
       "album": {
-        "name": "Commodores",
-        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 256426,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
-    },
-    {
-      "added_at": "2023-03-27 02:53:35",
-      "album": {
         "name": "No Secrets",
         "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 258411,
       "name": "You're so Vain",
       "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
+    },
+    {
+      "added_at": "2023-03-27 02:53:35",
+      "album": {
+        "name": "Commodores",
+        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 256426,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
     },
     {
       "added_at": "2023-03-27 02:53:35",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-03-27 02:53:35",
       "album": {
-        "name": "Mud Slide Slim and the Blue Horizon (2019 Remaster)",
-        "url": "https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "You've Got a Friend - 2019 Remaster",
-      "url": "https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y"
-    },
-    {
-      "added_at": "2023-03-27 02:53:35",
-      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -523,18 +507,18 @@
     {
       "added_at": "2023-03-27 02:53:35",
       "album": {
-        "name": "I Hate the Music",
-        "url": "https://open.spotify.com/album/28L7sCuuF8Zt6dW1FuZqRh"
+        "name": "Mud Slide Slim and the Blue Horizon (2019 Remaster)",
+        "url": "https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX"
       },
       "artists": [
         {
-          "name": "John Paul Young",
-          "url": "https://open.spotify.com/artist/2wMcQIxzH2LYHJZNxo9FcN"
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
         }
       ],
-      "duration_ms": 210293,
-      "name": "Love Is In The Air",
-      "url": "https://open.spotify.com/track/3c4OULLWwgRqBfA2dJtRuY"
+      "duration_ms": 268866,
+      "name": "You've Got a Friend - 2019 Remaster",
+      "url": "https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y"
     },
     {
       "added_at": "2023-03-27 02:53:35",
@@ -551,6 +535,22 @@
       "duration_ms": 277960,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ"
+    },
+    {
+      "added_at": "2023-03-27 02:53:35",
+      "album": {
+        "name": "I Hate the Music",
+        "url": "https://open.spotify.com/album/28L7sCuuF8Zt6dW1FuZqRh"
+      },
+      "artists": [
+        {
+          "name": "John Paul Young",
+          "url": "https://open.spotify.com/artist/2wMcQIxzH2LYHJZNxo9FcN"
+        }
+      ],
+      "duration_ms": 210293,
+      "name": "Love Is In The Air",
+      "url": "https://open.spotify.com/track/3c4OULLWwgRqBfA2dJtRuY"
     },
     {
       "added_at": "2023-03-27 02:53:35",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-03-27 02:53:35",
       "album": {
-        "name": "Cornerstone",
-        "url": "https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh"
-      },
-      "artists": [
-        {
-          "name": "Styx",
-          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
-        }
-      ],
-      "duration_ms": 265973,
-      "name": "Babe",
-      "url": "https://open.spotify.com/track/5W7YROOF6bFfBexY81LFjt"
-    },
-    {
-      "added_at": "2023-03-27 02:53:35",
-      "album": {
         "name": "Make Your Move",
         "url": "https://open.spotify.com/album/6J8P3xCsQr5BPoEoukStSk"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 256666,
       "name": "Do That To Me One More Time",
       "url": "https://open.spotify.com/track/0m4jVVZrsv0bLkAr1uM6UG"
+    },
+    {
+      "added_at": "2023-03-27 02:53:35",
+      "album": {
+        "name": "Cornerstone",
+        "url": "https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh"
+      },
+      "artists": [
+        {
+          "name": "Styx",
+          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
+        }
+      ],
+      "duration_ms": 265973,
+      "name": "Babe",
+      "url": "https://open.spotify.com/track/5W7YROOF6bFfBexY81LFjt"
     },
     {
       "added_at": "2023-03-27 02:53:35",

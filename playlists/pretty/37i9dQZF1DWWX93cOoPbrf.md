@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Codiciado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,053 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,313 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [El Limpia Vidrios](https://open.spotify.com/track/2skux7pFlz7Ca1prdXuYj0) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Pisteando con la Banda](https://open.spotify.com/album/0IJ66UW3br5IZRIL3k0wjp) | 3:30 |
 | 75 | [Tirando Flow Sesh \#9](https://open.spotify.com/track/1eIr2ASXWFEgjhQQflPZTe) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [Tirando Flow Sesh \#9](https://open.spotify.com/album/2zB3LXzrfi3FoNI4kPLgtO) | 3:07 |
 
-Snapshot ID: `MTY4MjA1NjgwMCwwMDAwMDAwMDgyYWI2YTAzODQ3MDdmZjgwNTgyYTAyNjIxYWVlOWI5`
+Snapshot ID: `MCw4OGNiYTc5YjczNzAzMDhmYThiMTA2OTY1MzFkMzQxZmY5OWIzN2Y0`

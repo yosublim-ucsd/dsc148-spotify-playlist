@@ -2,9 +2,9 @@
 
 ### [K\-Pop Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean acoustic tunes\. \(Cover: YUDABINBAND\(유다빈밴드\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
+> Chillout to the coolest Korean acoustic tunes\. \(Cover: Jukjae\(적재\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
-453 songs - 1 day 2 hr 57 min
+454 songs - 1 day 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Officially Missing You](https://open.spotify.com/track/1xyOVyoRq03sR3dAcyZ86q) | [Geeks](https://open.spotify.com/artist/5VxfguafjfSdJcN10ACVZe) | [Officially Missing You](https://open.spotify.com/album/3taD89onznp39CDh6MhGeA) | 3:30 | 2022-03-31 | 2022-04-20 |
 | [Officially Missing You](https://open.spotify.com/track/7CkjU55ROZSwb95dzGan0o) | [Geeks](https://open.spotify.com/artist/5VxfguafjfSdJcN10ACVZe) | [Officially Missing You](https://open.spotify.com/album/6hE4TNufMSOti5r2qdfHAl) | 3:30 | 2022-11-20 |  |
 | [OH NONONO](https://open.spotify.com/track/0rJj6xWfFKbBVNw6dG54yb) | [INYU](https://open.spotify.com/artist/3DGTTI7kUEwQUoBOykiS0t), [Seokman Cheon](https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/7tYKa7avcGAwqcYZOpX8ed) | 3:01 | 2022-03-09 | 2022-03-11 |
+| [Oh, Love](https://open.spotify.com/track/1G0TFPZipyn1bLyQvKtPnx) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Oh, Love](https://open.spotify.com/album/2MujROsBWLNsCZo2B3udec) | 3:44 | 2023-04-27 |  |
 | [Oh, My Sun](https://open.spotify.com/track/5rKJzOs5bVA4v5Tt8vJkqW) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [Oh, My Sun](https://open.spotify.com/album/0ozVQNHtmZz2DdGwCiIjMi) | 4:47 | 2021-12-10 | 2022-07-29 |
 | [On My Way Home](https://open.spotify.com/track/6CZkzTRpn5uK67QAim9jPw) | [KOLAVO](https://open.spotify.com/artist/3yR502TEuKfRu3qwLcn4sx) | [On My Way Home](https://open.spotify.com/album/0huLDoldnbqWCJQnxjCWv3) | 3:59 | 2022-01-10 | 2022-04-13 |
 | [Once again](https://open.spotify.com/track/0397OJPbHsKQVMYK7P34vI) | [Haeun Jang](https://open.spotify.com/artist/2qYrryru6IIfZVMN8HyGnn) | [Once again](https://open.spotify.com/album/2N2GWrRzPjpcEr6Ihy6tpB) | 3:59 | 2022-12-21 | 2023-01-11 |
@@ -273,7 +274,7 @@
 | [Our Forgiveness](https://open.spotify.com/track/6xVlRWDlQDna2yVCwOPE30) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Our Forgiveness](https://open.spotify.com/album/1K8aYJrq8a8WiwNniSuzrw) | 3:19 | 2022-09-05 | 2022-09-28 |
 | [our last winter 그게 우리의 마지막인 줄 알았다면 \(With Sung youngjoo\)](https://open.spotify.com/track/1AHQmB0Q7BpayL8YBanihL) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Seong Young Joo](https://open.spotify.com/artist/1rwgkN9FIOpXgzSOYAE0Nt) | [our last winter 그게 우리의 마지막인 줄 알았다면 \(With Sung youngjoo\)](https://open.spotify.com/album/5M518nxUKbUCvKIdaWujpc) | 3:59 | 2022-03-31 | 2022-04-19 |
 | [Our Road](https://open.spotify.com/track/20xuppDWJjs0KO7XWPhkWo) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Jirisan \(Original Television Soundtrack\) Pt\. 7](https://open.spotify.com/album/0rKLZ5eZFuyezfbkJeza3l) | 3:41 | 2021-12-10 | 2022-04-21 |
-| [Over The Dream](https://open.spotify.com/track/6ZPfR4CgG7KWIUb3FsJCcW) | [YUDABINBAND](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [Over The Dream](https://open.spotify.com/album/2nkhiBXj93Q95RXxxHKRjc) | 3:59 | 2023-04-06 |  |
+| [Over The Dream](https://open.spotify.com/track/6ZPfR4CgG7KWIUb3FsJCcW) | [YUDABINBAND](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [Over The Dream](https://open.spotify.com/album/2nkhiBXj93Q95RXxxHKRjc) | 3:59 | 2023-04-06 | 2023-04-28 |
 | [Paint](https://open.spotify.com/track/4lthTadTs7WMkpn9w2krk4) | [MoonMoon](https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV) | [Paint](https://open.spotify.com/album/5jxRZ8YZanMKXowrQVYf3A) | 3:08 | 2022-07-08 |  |
 | [Paints \(feat\. 1ho\)](https://open.spotify.com/track/4OtqERJlgW34oCFGZVmkF7) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [GODAK](https://open.spotify.com/artist/1ul4BJWyGZ6DGJcQ2LoFrn), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g) | [Paints \(feat\. 1ho\)](https://open.spotify.com/album/5zPPNCnontFzam8kszcCIZ) | 3:02 | 2022-03-31 | 2022-04-21 |
 | [Paper Plane](https://open.spotify.com/track/3Svzw7s61quYcD77evcW3p) | [Swan](https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM) | [In the End of Winter](https://open.spotify.com/album/2OdCK6gCCjJd31DKLH76pW) | 4:01 | 2022-03-31 | 2022-04-14 |

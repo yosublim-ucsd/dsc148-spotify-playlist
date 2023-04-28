@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-357 songs - 19 hr 58 min
+358 songs - 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Dying in the Subtlety](https://open.spotify.com/track/5k9BcVWNFpsU35Ojv7LjGQ) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Dying in the Subtlety](https://open.spotify.com/album/6nJj5oB6KSg74PcIDrp2HP) | 2:19 | 2021-12-15 | 2023-02-10 |
 | [Easy Baby](https://open.spotify.com/track/3trAHivkszyC0kFTGQ7Bf4) | [Denyah](https://open.spotify.com/artist/6zoKZY2wor5ZTbxZ3giOPy) | [Easy Baby](https://open.spotify.com/album/0x7hOg2zE7GSphEDmwI7Ct) | 3:19 | 2022-06-30 | 2023-01-28 |
 | [Easy Baby](https://open.spotify.com/track/4ti63sQWlpSvKUaCqXjcjc) | [Denyah](https://open.spotify.com/artist/6zoKZY2wor5ZTbxZ3giOPy) | [Easy Baby](https://open.spotify.com/album/5nxfGiKqavxhxGZG3VQQ2B) | 3:19 | 2021-12-15 | 2022-07-29 |
-| [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/album/50yfipy2MBrEIxT36zC1gk) | 2:59 | 2023-02-17 |  |
+| [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/album/50yfipy2MBrEIxT36zC1gk) | 2:59 | 2023-02-17 | 2023-04-28 |
 | [Exit](https://open.spotify.com/track/7z6VTwkfEhX25WWy1xC75O) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Exit](https://open.spotify.com/album/7go9k6n1fCuixMOOpW3gej) | 3:16 | 2021-12-15 |  |
 | [Fair Chance](https://open.spotify.com/track/7dZ83x0X0QnZfm1mvJ83bn) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:57 | 2021-12-15 | 2023-01-28 |
 | [Fair Play](https://open.spotify.com/track/2bo0Th0LniI0U1KbwNm9mk) | [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k), [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF) | [Fair Play](https://open.spotify.com/album/2l3uRUskaADSpA7gNAcjkT) | 4:49 | 2021-12-15 | 2022-07-27 |
@@ -337,6 +337,7 @@
 | [Two Worlds Apart](https://open.spotify.com/track/34qvgmIagzNQdZTRL2poiv) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 2:58 | 2022-10-19 | 2023-01-28 |
 | [UNDERSTAND \(feat\. Baby Rose\)](https://open.spotify.com/track/1RHob2sw5X81Ukn4BYPbmF) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [UNDERSTAND](https://open.spotify.com/album/6DQ6LpJlvhoamE6Qg6plAX) | 4:03 | 2023-04-21 |  |
 | [Until The End Of Time \- Spotify Singles](https://open.spotify.com/track/0XdwIG7p28SeTam3DVdMX6) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Spotify Singles](https://open.spotify.com/album/6SL03KQzLNrxyO6AfIBe7y) | 4:43 | 2023-02-14 |  |
+| [Until The Morning](https://open.spotify.com/track/2mI4R8Mafb3y6I1gytvkDe) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Until The Morning](https://open.spotify.com/album/5QGpibxEBGfcPjY4zS4uwf) | 2:58 | 2023-04-21 |  |
 | [Valentine](https://open.spotify.com/track/4JoDBcODOajOx3ZRQlSa7o) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Starry Ache](https://open.spotify.com/album/1yRRZvO7YIPHzSkvX94YOR) | 3:01 | 2021-12-15 | 2022-04-08 |
 | [Verbs](https://open.spotify.com/track/4yurN9uKsooqpAjMhfPfRh) | [Peyton](https://open.spotify.com/artist/0uIVCKSl2eNhWQ1yXxO5xV), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Verbs](https://open.spotify.com/album/47o1uI5KDCQEHdZjUOMBdT) | 3:33 | 2022-03-04 | 2022-12-24 |
 | [Verbs \(feat\. Steve Lacy\)](https://open.spotify.com/track/53cvnLRalWWOb42dcHL0yZ) | [Peyton](https://open.spotify.com/artist/0uIVCKSl2eNhWQ1yXxO5xV), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Verbs \(feat\. Steve Lacy\)](https://open.spotify.com/album/7oh3RIfZdxMGTNgkN6HBNB) | 3:33 | 2022-11-09 |  |

@@ -340,7 +340,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 116500,
       "name": "Ba\u0308, ba\u0308, vita lamm",
       "url": "https://open.spotify.com/track/6htveJwcC07JoPa71x8ljE"
@@ -772,7 +772,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 87130,
       "name": "Every Dream",
       "url": "https://open.spotify.com/track/3iCWZyQVbNBHw4CGd5JE4k"
@@ -1474,7 +1474,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 90010,
       "name": "Long Distance Goodnight",
       "url": "https://open.spotify.com/track/18G48jLXQXKPcMpXkIh1pZ"
@@ -1607,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "Miranda the Rabbit",
+        "url": "https://open.spotify.com/album/517hLmf6a8MtUcwZTrIYUE"
+      },
+      "artists": [
+        {
+          "name": "Clouds of Cotton",
+          "url": "https://open.spotify.com/artist/0b05eJ6CKVyTRZO1mDA70I"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89907,
+      "name": "Miranda the Rabbit - Bells Version",
+      "url": "https://open.spotify.com/track/7fh0fPTo7LpCSV7RlJ928T"
+    },
+    {
+      "album": {
         "name": "Moment of the Stars",
         "url": "https://open.spotify.com/album/09zbOlD7GzE37jLVBk2uLY"
       },
@@ -1712,6 +1730,24 @@
       "duration_ms": 102539,
       "name": "Mrs Frog's Daydream",
       "url": "https://open.spotify.com/track/0vXRZnhZxqGqZpOf0xKvrG"
+    },
+    {
+      "album": {
+        "name": "My Baby Bracelet",
+        "url": "https://open.spotify.com/album/6PlSbfkj1h1VVkjkkCS5lU"
+      },
+      "artists": [
+        {
+          "name": "Junie Tang",
+          "url": "https://open.spotify.com/artist/4E43N01BbqKtjVtr7jKCBl"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104611,
+      "name": "My Baby Bracelet",
+      "url": "https://open.spotify.com/track/56GyoOJYMSYPzfyYzMYuU6"
     },
     {
       "album": {
@@ -2273,6 +2309,24 @@
     },
     {
       "album": {
+        "name": "Sailing",
+        "url": "https://open.spotify.com/album/302DS3hIpWsygb3zXNi49F"
+      },
+      "artists": [
+        {
+          "name": "Loona Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/2k0OWZxkmZYagyvm0lP2Jz"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115084,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/32t4PH74sP5OdpRJ2dfigr"
+    },
+    {
+      "album": {
         "name": "See You Soon Racoon",
         "url": "https://open.spotify.com/album/18qy74Bj6I9aZEjSNK1eIS"
       },
@@ -2356,7 +2410,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 135228,
       "name": "Sleep Tight",
       "url": "https://open.spotify.com/track/5hmt1Zpg1h9VdD7Y4NYUbf"
@@ -2590,7 +2644,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 111428,
       "name": "Sweet Sleep (Music Box Version)",
       "url": "https://open.spotify.com/track/56MgQbk9BpmwzgYn1JBwBO"
@@ -3004,7 +3058,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 101621,
       "name": "Waterfalls In The Paradise",
       "url": "https://open.spotify.com/track/4oo3zhbO8fjDhxXI3wbBKZ"
@@ -3119,6 +3173,24 @@
     },
     {
       "album": {
+        "name": "Willow Song",
+        "url": "https://open.spotify.com/album/3cigHmA7Wpa54H5Y29IViy"
+      },
+      "artists": [
+        {
+          "name": "Algot Malkolmsson",
+          "url": "https://open.spotify.com/artist/4BV3JZZRbxITWwgpbgZHtQ"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98095,
+      "name": "Willow Song",
+      "url": "https://open.spotify.com/track/7qsDNM1RiJ3jqkkER7rQug"
+    },
+    {
+      "album": {
         "name": "Write to Me",
         "url": "https://open.spotify.com/album/2hOLsqSymCvbq6dtD8JGIK"
       },
@@ -3130,7 +3202,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 67567,
       "name": "Write to Me",
       "url": "https://open.spotify.com/track/1EXfPEm8YJeO0Y55FSnLkE"
@@ -3152,6 +3224,24 @@
       "duration_ms": 102791,
       "name": "Yawn at Dawn",
       "url": "https://open.spotify.com/track/0DcbhT9Gkji3MzxHzjkBGU"
+    },
+    {
+      "album": {
+        "name": "You Are My Happiness",
+        "url": "https://open.spotify.com/album/0G9zj5Mr84OCwR0ZqL16sB"
+      },
+      "artists": [
+        {
+          "name": "Chiara Almanza",
+          "url": "https://open.spotify.com/artist/1moO688fElQ5uMSbixmBya"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101081,
+      "name": "You Are My Happiness",
+      "url": "https://open.spotify.com/track/0NfMcfc5bjLGrXVeGZysuc"
     },
     {
       "album": {

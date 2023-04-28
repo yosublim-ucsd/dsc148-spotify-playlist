@@ -982,7 +982,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-25",
+      "date_removed": null,
       "duration_ms": 356973,
       "name": "Lady - 2020",
       "url": "https://open.spotify.com/track/0lr6629pdCnastEgrPtl1r"
@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 272436,
       "name": "Lamp",
       "url": "https://open.spotify.com/track/0pdzquGBpJs3hndcMnhFK9"
@@ -1839,6 +1839,24 @@
     },
     {
       "album": {
+        "name": "9.",
+        "url": "https://open.spotify.com/album/1yj4g4NAlimjHHL2CF74Y7"
+      },
+      "artists": [
+        {
+          "name": "TOGITO",
+          "url": "https://open.spotify.com/artist/102etpERD7ol169sTsFdQK"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176222,
+      "name": "Sweet dream",
+      "url": "https://open.spotify.com/track/0Ru3TRhknBC8a9MjJyKKxV"
+    },
+    {
+      "album": {
         "name": "Hikare Inochi",
         "url": "https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas"
       },
@@ -2250,7 +2268,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 401173,
       "name": "\u304a\u3042\u3044\u3053",
       "url": "https://open.spotify.com/track/0ekuGQhxcrmTsFJbwNnNX6"

@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 142124,
       "name": "27",
       "url": "https://open.spotify.com/track/7E20kJmoke3aQhtzZrKimq"
@@ -789,6 +789,24 @@
     },
     {
       "album": {
+        "name": "Die Kids sind alright",
+        "url": "https://open.spotify.com/album/48XnW5Nr0BE4F8s2g2iPib"
+      },
+      "artists": [
+        {
+          "name": "OK KID",
+          "url": "https://open.spotify.com/artist/5syyAQTWJ2BaLtjOKE99MK"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156653,
+      "name": "Die Kids sind alright",
+      "url": "https://open.spotify.com/track/4qpWACJqsqRgZ7qAuZ72w2"
+    },
+    {
+      "album": {
         "name": "Die Pointe",
         "url": "https://open.spotify.com/album/3F23UM3HxW2aUPiGBEKlxK"
       },
@@ -1060,6 +1078,42 @@
       "duration_ms": 164063,
       "name": "Einsame Insel",
       "url": "https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76"
+    },
+    {
+      "album": {
+        "name": "einszweidrei",
+        "url": "https://open.spotify.com/album/0HKPJdELR01L0oro2hcPBg"
+      },
+      "artists": [
+        {
+          "name": "Kasi",
+          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121734,
+      "name": "einszweidrei",
+      "url": "https://open.spotify.com/track/2B5cENn0VFxcyK3SFFzNpZ"
+    },
+    {
+      "album": {
+        "name": "Eklig Hohe Mieten",
+        "url": "https://open.spotify.com/album/64Ruv975spS8FwKAyxiCrF"
+      },
+      "artists": [
+        {
+          "name": "SWEED",
+          "url": "https://open.spotify.com/artist/1gM5MrKbRvvQuG1SShfkVG"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178918,
+      "name": "Eklig Hohe Mieten",
+      "url": "https://open.spotify.com/track/764zM7lBdDnejx0VgufPM6"
     },
     {
       "album": {
@@ -2346,7 +2400,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 162360,
       "name": "Liebesbrief",
       "url": "https://open.spotify.com/track/1HQ3MZ6FTXFXLiRyhmSIsP"
@@ -2552,7 +2606,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 183419,
       "name": "Milliard\u00e4r",
       "url": "https://open.spotify.com/track/6JKkLoETnqXMe2OL17Waet"
@@ -2878,7 +2932,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 170146,
       "name": "passt nicht",
       "url": "https://open.spotify.com/track/0xFqVm6MhfcTr8pC69W6qY"
@@ -2990,6 +3044,24 @@
       "duration_ms": 141154,
       "name": "Raum 37",
       "url": "https://open.spotify.com/track/2PWaVvsSaOQTciQZM7eoX1"
+    },
+    {
+      "album": {
+        "name": "Regen",
+        "url": "https://open.spotify.com/album/7wKFIo8jw7UUkN4mJ7FJoT"
+      },
+      "artists": [
+        {
+          "name": "BIBIZA",
+          "url": "https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242520,
+      "name": "Regen",
+      "url": "https://open.spotify.com/track/0N04TB81H5OxuhPq2qURSp"
     },
     {
       "album": {
@@ -3228,6 +3300,24 @@
       "duration_ms": 124161,
       "name": "Sonne",
       "url": "https://open.spotify.com/track/6XWGkUp5gJEd9Jhaipw13x"
+    },
+    {
+      "album": {
+        "name": "Endstation",
+        "url": "https://open.spotify.com/album/6xryVW2EPOunePnaCH1NIW"
+      },
+      "artists": [
+        {
+          "name": "kevin",
+          "url": "https://open.spotify.com/artist/3AnRJXttxRO7191Fxwkaxz"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122960,
+      "name": "Spiegelbild",
+      "url": "https://open.spotify.com/track/3cubpQ3kOp2Pm32YoSjpva"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > ตอนนี้หน้าร้อน แต่ทำไมมองเธอแล้วเจอแต่น่ารัก \#คลั่งรัก
 
-106 songs - 6 hr 37 min
+107 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,13 +14,14 @@
 | [Hidden Track](https://open.spotify.com/track/1XfzWbu66N3Pl1Q8rOUmJH) | [TRINITY](https://open.spotify.com/artist/70iyLnJ4uH2zMmLLdGM9oM) | [TRINITY : THE 1ST MINI ALBUM “THE ELEMENTS”](https://open.spotify.com/album/2PFKJTwY7Zqh2uTl5ZkDKz) | 4:04 | 2023-02-10 |  |
 | [I JUST WANNA PEN FAN YOU DAI BOR ? \(อ้ายจัสวอนน่าเป็นแฟนยูได้บ่ ?\)](https://open.spotify.com/track/7DLdnWK7OYDsRf7I15Ze0L) | [Singto Numchok](https://open.spotify.com/artist/780z5aP7EUHfDT6Q5YERKL) | [I JUST WANNA PEN FAN YOU DAI BOR ? \(อ้ายจัสวอนน่าเป็นแฟนยูได้บ่ ?\)](https://open.spotify.com/album/6G2oqaD3wdiXVAgubTcDzP) | 3:48 | 2023-02-10 |  |
 | [I LOVE YOU](https://open.spotify.com/track/3zDfauunufdNjP8gBhlte0) | [Singto Numchok](https://open.spotify.com/artist/780z5aP7EUHfDT6Q5YERKL) | [I LOVE YOU](https://open.spotify.com/album/0qaSGustJqBqXqG0ZQy320) | 2:34 | 2023-02-10 | 2023-04-17 |
-| [I ไม่ O \(IXO\)](https://open.spotify.com/track/3VSMRXCmLmcgb4p5irSJmf) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [I ไม่ O \(IXO\)](https://open.spotify.com/album/6Zl21EDgJdMwQougq7bt9J) | 3:55 | 2023-02-10 |  |
+| [I ไม่ O \(IXO\)](https://open.spotify.com/track/3VSMRXCmLmcgb4p5irSJmf) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [I ไม่ O \(IXO\)](https://open.spotify.com/album/6Zl21EDgJdMwQougq7bt9J) | 3:55 | 2023-02-10 | 2023-04-28 |
 | [I'll Do It How You Like It](https://open.spotify.com/track/0GEfa5zT6C6ryDExkiJ2Zh) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [I'll Do It How You Like It](https://open.spotify.com/album/5jJ39vXfSuJl5x13eh1Ne6) | 3:07 | 2023-02-10 |  |
 | [Luxury](https://open.spotify.com/track/1EOWBTE1GPKcxz3wlR08tW) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [Luxury](https://open.spotify.com/album/0T8k6o8VFOi8Ve5ey2h6Yk) | 4:06 | 2023-02-10 |  |
 | [Melbourne](https://open.spotify.com/track/0nYZ6GR0fCPmxqjPOaPGjJ) | [Morvasu](https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8), [TangBadVoice](https://open.spotify.com/artist/2feGNLrcUrcsQNA1QJBaIe) | [Melbourne](https://open.spotify.com/album/24u4TYFCGbRZA6t19j4B8w) | 3:02 | 2023-02-10 |  |
 | [Sunkissed](https://open.spotify.com/track/52h8p62Jx8KzQynM6heq7n) | [Urworld](https://open.spotify.com/artist/4l5kOTi1YvQy386sH7rldN) | [Sunkissed](https://open.spotify.com/album/7zKKltrA8661h1AlUsGezL) | 4:02 | 2023-02-10 |  |
 | [Wish](https://open.spotify.com/track/1ecud9LC1clhcuhjLIyyMB) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [You \(Are\) Mean a Lot to Me](https://open.spotify.com/album/1qYFmgwv3gwRwqa2oFGgbq) | 4:31 | 2023-02-10 |  |
 | [YOU YOU YOU](https://open.spotify.com/track/2rse2ZT8eV8MT3nuglWeEb) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV), [Ammy The Bottom Blues](https://open.spotify.com/artist/4mNN31oshOzZr3yx4aXI3n) | [เอิ๊ต ภัทรวี](https://open.spotify.com/album/3iz6z2BBom6ssqUtHYj1Bx) | 3:40 | 2023-02-10 |  |
+| [กอดในใจ](https://open.spotify.com/track/5OLQ6wJUkyVsqL13NpMZJ4) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [JAYLERR](https://open.spotify.com/artist/72eVco16BxQJe5nE1vY72F) | [กอดในใจ](https://open.spotify.com/album/6cjIQVmyudC1FZ1xNnMQai) | 3:37 | 2023-02-21 |  |
 | [กะทันหัน](https://open.spotify.com/track/71rZCPjOAU8WBlXYPHNgRu) | [Fymme Bongkot](https://open.spotify.com/artist/5DU5PyU8u0JZSRyJdMWgsl), [Ruj Supharuj](https://open.spotify.com/artist/3OBLHdh35n5TrEeYQawkO0), [LOWFAT](https://open.spotify.com/artist/6NqYduReZoJZDuPLNiqqGR) | [All You Need is Love 3](https://open.spotify.com/album/5mv8MrHfjarF9xeT1DHSpD) | 4:40 | 2023-02-10 | 2023-04-03 |
 | [ของขวัญ](https://open.spotify.com/track/5hXcptJwH8dr3s9ibOZUvp) | [Musketeers](https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9) | [Left Right And Something](https://open.spotify.com/album/3GPJ0Z4IvhB948RrCGIoPj) | 5:22 | 2023-02-10 |  |
 | [ข้อยกเว้น \(Exceptional\)](https://open.spotify.com/track/0T7uw5pfozE3gvom4ALE8D) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [ข้อยกเว้น \(Exceptional\)](https://open.spotify.com/album/6B21RxfWjt5eiNo9QchBIv) | 3:03 | 2023-02-10 |  |

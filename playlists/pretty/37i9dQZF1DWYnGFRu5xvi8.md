@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 
 > New arrival from FINAL FANTASY VII REMAKE Original Soundtrack + essential tracks from the series\. ©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,042 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,080 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 | 46 | [Paradigm Shift](https://open.spotify.com/track/2vWEcYBAFGf3PxPl6B7Sem) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:49 |
 | 47 | [SUTEKI DA NE \(Isn't It Wonderful?\) \- Orchestra Version](https://open.spotify.com/track/3Y9niDtvTxk0efj8IUQb9z) | [RIKKI](https://open.spotify.com/artist/6dpDHCzVviITtfGiB7S5HG) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 6:19 |
 | 48 | [Safe Haven](https://open.spotify.com/track/5kgn3gekLoeUwsPUOmzC1T) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/2zKqD5DUNUE4isjGLixU8v) | 2:21 |
-| 49 | [This Is Your Story](https://open.spotify.com/track/0rxs6IUm0NeyvIDn9vhPnZ) | [仲野順也](https://open.spotify.com/artist/46QWOpfMFKehkcchUZmCfB) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 2:20 |
+| 49 | [Run !!](https://open.spotify.com/track/1jcYcW06CNvqtWoZrd8LdV) | [仲野順也](https://open.spotify.com/artist/46QWOpfMFKehkcchUZmCfB) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 2:40 |
 | 50 | [Ultima \(Scions & Sinners\)](https://open.spotify.com/track/4bTm1Gwiuf5wJk9QNyDgRL) | [祖堅 正慶](https://open.spotify.com/artist/2mpgGfU9ADJWttbCdUbjqe) | [DEATH UNTO DAWN: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/0hGoHb95AIckR7hpOdCW3B) | 3:46 |
 | 51 | [FINAL FANTASY XIII\-2 \- Wishes \-](https://open.spotify.com/track/50BlgWI61TOVUE1Pc37yKm) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 1:56 |
 | 52 | [Noel's Theme \- Final Journey \-](https://open.spotify.com/track/0FdnNMadX8aP0gQkrJfhSM) | [KOKIA](https://open.spotify.com/artist/0gUsuVOGa73jzUAJ0WEJgo) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 4:20 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 | 55 | [Home Sweet Home \- Theme of EPISODE PROMPTO](https://open.spotify.com/track/7ko7gRGHntBuoK3kypwTnT) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【1/2】\)](https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237) | 3:14 |
 | 56 | [Eruyt Village](https://open.spotify.com/track/0JNorLMJ9CR3wcFp7t2gJM) | [崎元仁](https://open.spotify.com/artist/5IgtFW3mCaIGAuPbx7qE04) | [FINAL FANTASY XII Original Soundtrack](https://open.spotify.com/album/6BUaUV4g19n1zwF6iwkh4C) | 4:13 |
 | 57 | [Shirma's Theme](https://open.spotify.com/track/4kqGwLAACGAWsQTzyStHLk) | [川上 泰広](https://open.spotify.com/artist/0i4WzcDJUxEP87qiDTKwj6) | [Chocobo's Dungeon 2\(Original Soundtrack\)](https://open.spotify.com/album/4UH6RNedh8HuSmhX2PlTPB) | 1:29 |
-| 58 | [Enemy Attack](https://open.spotify.com/track/7oQxntBpX9Fh6kO8njQpke) | [仲野順也](https://open.spotify.com/artist/46QWOpfMFKehkcchUZmCfB) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 2:41 |
+| 58 | [This Is Your Story](https://open.spotify.com/track/0rxs6IUm0NeyvIDn9vhPnZ) | [仲野順也](https://open.spotify.com/artist/46QWOpfMFKehkcchUZmCfB) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 2:20 |
 | 59 | [Kaine \- Final Fantasy Main Theme Version](https://open.spotify.com/track/4ODm6Dbqxesdb6bOFaCIJY) | [祖堅 正慶](https://open.spotify.com/artist/2mpgGfU9ADJWttbCdUbjqe) | [DEATH UNTO DAWN: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/0hGoHb95AIckR7hpOdCW3B) | 4:56 |
 | 60 | [Full Speed Ahead](https://open.spotify.com/track/5wPrzT7xRJ0RPw5Hlje4b1) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:54 |
 | 61 | [Plains of Eternity](https://open.spotify.com/track/0gp5D3qcl0u74WUEILRkOT) | [Joelle](https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:36 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 | 64 | [Otherworld](https://open.spotify.com/track/094ROwNMso3g8wHYg89dAV) | [Bill Xtillidiex Muir](https://open.spotify.com/artist/1sshOKBw5a0pPxCfyRbULD) | [DISSIDIA FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) | 3:14 |
 | 65 | [Opening](https://open.spotify.com/track/2ega5twcEqXE03JPv2UhuW) | [Hitoshi Sakimoto](https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 1:09 |
 | 66 | [The Beginning of the End](https://open.spotify.com/track/1GhottKACE62L2Sq24LFmW) | [Takeharu Ishimoto](https://open.spotify.com/artist/04LEJd8eE8sDCre2pUpoW9) | [FINAL FANTASY Type\-0 HD Original Soundtrack](https://open.spotify.com/album/3V2dLYYcNOPycBOCML2LMa) | 4:27 |
-| 67 | [Run !!](https://open.spotify.com/track/1jcYcW06CNvqtWoZrd8LdV) | [仲野順也](https://open.spotify.com/artist/46QWOpfMFKehkcchUZmCfB) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 2:40 |
+| 67 | [Enemy Attack](https://open.spotify.com/track/7oQxntBpX9Fh6kO8njQpke) | [仲野順也](https://open.spotify.com/artist/46QWOpfMFKehkcchUZmCfB) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 2:41 |
 | 68 | [Sunset Path](https://open.spotify.com/track/75NI6pNNvOvpeb8SsBkedd) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [LIGHTNING RETURNS:FINAL FANTASY XIII ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5AAlUHdWLoL1ih4vroqWSI) | 5:43 |
 | 69 | [Shield of the King \- Theme of EPISODE GLADIOLUS](https://open.spotify.com/track/0WNbPyB5oFHqoYA8aiRPk7) | [岡部啓一](https://open.spotify.com/artist/0y0nI8lwDB2HRUPwDQuuiu) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【1/2】\)](https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237) | 2:16 |
 | 70 | [Serah's Theme \- Memories \-](https://open.spotify.com/track/3qHXeYe8zOcogPoEjuK073) | [frances maya](https://open.spotify.com/artist/3vjb2VixFQA4dzL83dYgOT) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 | 99 | [Glory's Fanfare](https://open.spotify.com/track/6idpJnDsimxtLBiXxrnj4B) | [鈴木光人](https://open.spotify.com/artist/3d72A9fpAQyib60DkaqAIM) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 1:54 |
 | 100 | [UTAKATA](https://open.spotify.com/track/6KBhmo3rW6tgIpKanqFpYw) | [Takeharu Ishimoto](https://open.spotify.com/artist/04LEJd8eE8sDCre2pUpoW9) | [FINAL FANTASY Type\-0 HD Original Soundtrack](https://open.spotify.com/album/3V2dLYYcNOPycBOCML2LMa) | 6:22 |
 
-Snapshot ID: `MTY3NjU1OTYwMCwwMDAwMDAwMGYyM2QxMWY1NWFmODA4OWJmZmM3MDA3NzNmYjIyNTY4`
+Snapshot ID: `MCxiOWVlOWMyNTk4MmY4ODllZjRjMjQ2MTY4NDZlZGZlMmE1YWZhZTM1`

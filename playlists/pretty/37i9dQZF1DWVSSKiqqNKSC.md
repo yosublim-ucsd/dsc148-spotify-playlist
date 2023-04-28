@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,973 likes - 48 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,097 likes - 48 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,13 +48,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 38 | [Venenosa](https://open.spotify.com/track/0BAQ2NB5guuQs5fr1L2elE) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [La Vuelta al Mundo](https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG) | 4:07 |
 | 39 | [Agua De Clavelito](https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Hector Casanova](https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4) | [Los Amigos](https://open.spotify.com/album/2ijH9wDqj60doCygkf1ieY) | 6:22 |
 | 40 | [El Negro Esta Cocinando](https://open.spotify.com/track/0id4prYPcy8PkGkbWy4bcP) | [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [Llego..\. Van Van](https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW) | 5:28 |
-| 41 | [Historia de un Amor](https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY) | [Leo Marini](https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Latin Trumpets \- Bolero](https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K) | 2:48 |
-| 42 | [La Cosa Mala](https://open.spotify.com/track/4xBGFG4pHD5hstJQDACxlQ) | [El Niño y la Verdad](https://open.spotify.com/artist/5iarY4wc4dUF6b4SbDT95n) | [De Vuelta al Barrio](https://open.spotify.com/album/0gVY0zm89oBzVfWSpAPUu8) | 5:46 |
-| 43 | [Qué Sorpresa](https://open.spotify.com/track/0WEUAHwL8buyzLIM5NMgN5) | [Alexander Abreu and Havana D' Primera](https://open.spotify.com/artist/6SE3JOfUEXlxp0iUKzzLLI) | [Qué Sorpresa](https://open.spotify.com/album/6rUbV5YhPvlqsYTXO3Mjig) | 6:00 |
-| 44 | [El Tren Bala](https://open.spotify.com/track/77yYv9YWmd8KLui0RRsTMF) | [Barbaro Fines y su Mayimbe](https://open.spotify.com/artist/3U5KffZYriorcfC62Lca43) | [De la Habana a Perú](https://open.spotify.com/album/01U5RgaIfsSHyB6yw4nRj0) | 5:30 |
-| 45 | [Temba, Tumba, Timba](https://open.spotify.com/track/621LLhcTYkEbt1fwJuSdWi) | [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [Llego..\. Van Van](https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW) | 4:48 |
-| 46 | [Yo Vengo de Cuba \(feat\. Havana D' Primera\)](https://open.spotify.com/track/2Tq5qXd9wmX2dxE69EV8od) | [FredyClan](https://open.spotify.com/artist/1rsRdI8sk9RqrfdPzLqmWE), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Yo Vengo de Cuba \(feat\. Havana D' Primera\)](https://open.spotify.com/album/2rvfJUNyzz6JrSdqgHZGi6) | 4:48 |
+| 41 | [El Tren Bala](https://open.spotify.com/track/77yYv9YWmd8KLui0RRsTMF) | [Barbaro Fines y su Mayimbe](https://open.spotify.com/artist/3U5KffZYriorcfC62Lca43) | [De la Habana a Perú](https://open.spotify.com/album/01U5RgaIfsSHyB6yw4nRj0) | 5:30 |
+| 42 | [Historia de un Amor](https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY) | [Leo Marini](https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Latin Trumpets \- Bolero](https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K) | 2:48 |
+| 43 | [La Cosa Mala](https://open.spotify.com/track/4xBGFG4pHD5hstJQDACxlQ) | [El Niño y la Verdad](https://open.spotify.com/artist/5iarY4wc4dUF6b4SbDT95n) | [De Vuelta al Barrio](https://open.spotify.com/album/0gVY0zm89oBzVfWSpAPUu8) | 5:46 |
+| 44 | [Qué Sorpresa](https://open.spotify.com/track/0WEUAHwL8buyzLIM5NMgN5) | [Alexander Abreu and Havana D' Primera](https://open.spotify.com/artist/6SE3JOfUEXlxp0iUKzzLLI) | [Qué Sorpresa](https://open.spotify.com/album/6rUbV5YhPvlqsYTXO3Mjig) | 6:00 |
+| 45 | [Yo Vengo de Cuba \(feat\. Havana D' Primera\)](https://open.spotify.com/track/2Tq5qXd9wmX2dxE69EV8od) | [FredyClan](https://open.spotify.com/artist/1rsRdI8sk9RqrfdPzLqmWE), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Yo Vengo de Cuba \(feat\. Havana D' Primera\)](https://open.spotify.com/album/2rvfJUNyzz6JrSdqgHZGi6) | 4:48 |
+| 46 | [Temba, Tumba, Timba](https://open.spotify.com/track/621LLhcTYkEbt1fwJuSdWi) | [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [Llego..\. Van Van](https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW) | 4:48 |
 | 47 | [Marcando la Distancia](https://open.spotify.com/track/70BDblSjPfj6Pe24avWzK2) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Marcando la Distancia \(La Nueva Generación de la musica Cubana\)](https://open.spotify.com/album/1atq4NCh5u5kzxbRVN5Uyo) | 5:42 |
 | 48 | [Represent](https://open.spotify.com/track/19J9QEDo6N6dVGfzWUz5LZ) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT) | [A Lo Cubano](https://open.spotify.com/album/0ZHx4gXoe1FquHnBZpNTKv) | 3:46 |
 
-Snapshot ID: `MTY3MjQyNDQ0NSwwMDAwMDAwMDU5YWVmMzQxZDlkZDU2NDIyN2Y4ODUyZDEzMzE3NmRi`
+Snapshot ID: `MCwxZTJjY2EyYWU2ZWQ4NDM2YzQzZjk0NDdmZDI0ZDkzMjc3Y2YyYWIx`

@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Tex Tex 3",
+        "url": "https://open.spotify.com/album/3yd7QnbMmZ5uDiYb1u28Pi"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185861,
+      "name": "Cosas de Hotel",
+      "url": "https://open.spotify.com/track/6U2RdHVvy4OD81Wns7uB60"
+    },
+    {
+      "album": {
         "name": "Rock En Espa\u00f1ol - Lo Mejor De Tex Tex",
         "url": "https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG"
       },
@@ -394,7 +412,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 58586,
       "name": "El Bailable",
       "url": "https://open.spotify.com/track/1w8DzpklmbRnIhWEiRbLOI"

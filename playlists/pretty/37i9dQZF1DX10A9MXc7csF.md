@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: ERRE
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,563 likes - 79 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,582 likes - 79 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 54 | [Mi Propuesta](https://open.spotify.com/track/6z9oIE3c1QFaJxuaQW1I7u) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Mi Propuesta](https://open.spotify.com/album/1rgY4OhGCcJRrWaz4BoCSA) | 3:25 |
 | 55 | [Lágrimas De Dolor](https://open.spotify.com/track/62BFMRJTwMV0ID8Svk3rLD) | [Zexta Alianza](https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX) | [Lágrimas De Dolor](https://open.spotify.com/album/7ltR6C6ExOrExTTkZlRAmY) | 3:49 |
 | 56 | [Golpe de Suerte \(En Vivo\)](https://open.spotify.com/track/0MEEO56ULnC24ZLp0V4Ov2) | [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [Golpe de Suerte \(En Vivo\)](https://open.spotify.com/album/62bReN6yDjgYG3Aw3oKt4S) | 3:10 |
-| 57 | [Ahora](https://open.spotify.com/track/2h3zkX27P38Y8iX4LsWbU9) | [Giovanni Y Su Equipo Escoltado](https://open.spotify.com/artist/10skaFqBCaTCTmxh3kjFRe), [Abelardo Quintanilla](https://open.spotify.com/artist/4jxLeijuzA7Ik1MWMULuob) | [Malandro Enamorado 2](https://open.spotify.com/album/2FF7rAoQlASr5oL8dysdsz) | 3:54 |
-| 58 | [Fuerza De Voluntad](https://open.spotify.com/track/2O75oyAguhcpgpDkP5k0Wm) | [Misael Gutiérrez](https://open.spotify.com/artist/4TAlMkVgr4FK7INJXQLzfS) | [Fuerza De Voluntad](https://open.spotify.com/album/59x39WBJbbolx68Dt9Di27) | 2:43 |
+| 57 | [Fuerza De Voluntad](https://open.spotify.com/track/2O75oyAguhcpgpDkP5k0Wm) | [Misael Gutiérrez](https://open.spotify.com/artist/4TAlMkVgr4FK7INJXQLzfS) | [Fuerza De Voluntad](https://open.spotify.com/album/59x39WBJbbolx68Dt9Di27) | 2:43 |
+| 58 | [Ahora](https://open.spotify.com/track/2h3zkX27P38Y8iX4LsWbU9) | [Giovanni Y Su Equipo Escoltado](https://open.spotify.com/artist/10skaFqBCaTCTmxh3kjFRe), [Abelardo Quintanilla](https://open.spotify.com/artist/4jxLeijuzA7Ik1MWMULuob) | [Malandro Enamorado 2](https://open.spotify.com/album/2FF7rAoQlASr5oL8dysdsz) | 3:54 |
 | 59 | [Para El Barrio](https://open.spotify.com/track/2F9M3yMeJCiAzIJpnbSWRE) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e), [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO) | [Para El Barrio](https://open.spotify.com/album/1KscIu4gQDfRNqPw0CEqMy) | 3:12 |
 | 60 | [Nuestra Canción](https://open.spotify.com/track/0Wsi12i9lVK054jWHIhkkZ) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc) | [Nuestra Canción](https://open.spotify.com/album/3EQ5tfMWami2tNp5FW3Ux4) | 3:21 |
 | 61 | [LMV](https://open.spotify.com/track/3VX6Iwk3LMKWLWZCX4xJwD) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY), [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [LMV](https://open.spotify.com/album/5S4OjWHkDANBQJUyRwRlNX) | 2:51 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 78 | [Envidiada](https://open.spotify.com/track/70YwTegvGKryJg2NZPFCf1) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8) | [Envidiada](https://open.spotify.com/album/1heIfYvOpnyO6C6n2aOweE) | 2:45 |
 | 79 | [Tus Fotos](https://open.spotify.com/track/4C4USvr4GemqacUhUZ3Km9) | [Ehlyan Chacon](https://open.spotify.com/artist/2D2fre4AIeXh7bw4oo2A5V) | [Tus Fotos](https://open.spotify.com/album/6pWbGCNM2ebZP0Ja7xWAhu) | 2:36 |
 
-Snapshot ID: `MTY4MjA1ODE1NiwwMDAwMDAwMGQ3Y2M5MmFjMTkxOTA2MjViZTJmZTYyNjAzNjliZjIz`
+Snapshot ID: `MCwxNzFiZDA2Mjg2NmYzYjEyZDEyMGE1OTM2NzE1YTA3ZDU4ZTM0ODc0`

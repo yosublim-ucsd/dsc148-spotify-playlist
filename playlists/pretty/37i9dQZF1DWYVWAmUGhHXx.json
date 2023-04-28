@@ -1,12 +1,12 @@
 {
   "description": "Ritmos latinos para encender la llama de la pasi\u00f3n.",
-  "num_followers": 78402,
+  "num_followers": 78465,
   "original_name": "cachondea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjEwMzIxMywwMDAwMDAwMGQ2ZmY1ZmFkMTAxZDc2N2YwODIyNjg2NzBjNTgyZTI2",
+  "snapshot_id": "MCxjYjRiYjUxNGUyOGRlZjUxYzY4MDYyNjFmOTE0OTc1NzJiNjcwMGRk",
   "tracks": [
     {
       "added_at": "2023-04-21 18:53:33",
@@ -313,7 +313,7 @@
       "artists": [
         {
           "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF"
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
         },
         {
           "name": "Becky G",
@@ -547,6 +547,26 @@
     {
       "added_at": "2023-04-21 18:53:33",
       "album": {
+        "name": "LEGENDADDY",
+        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 192477,
+      "name": "X \u00daLTIMA VEZ",
+      "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"
+    },
+    {
+      "added_at": "2023-04-21 18:53:33",
+      "album": {
         "name": "Delincuente",
         "url": "https://open.spotify.com/album/3QySYdsvCpB84Tvzkj24Ta"
       },
@@ -571,26 +591,6 @@
     {
       "added_at": "2023-04-21 18:53:33",
       "album": {
-        "name": "LEGENDADDY",
-        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 192477,
-      "name": "X \u00daLTIMA VEZ",
-      "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"
-    },
-    {
-      "added_at": "2023-04-21 18:53:33",
-      "album": {
         "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
       },
@@ -603,26 +603,6 @@
       "duration_ms": 250640,
       "name": "Eres M\u00eda",
       "url": "https://open.spotify.com/track/6I86RF3odBlcuZA9Vfjzeq"
-    },
-    {
-      "added_at": "2023-04-21 18:53:33",
-      "album": {
-        "name": "We Broke The Rules",
-        "url": "https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        },
-        {
-          "name": "Judy Santos",
-          "url": "https://open.spotify.com/artist/1seU2dut8PjGSZbgrPl7by"
-        }
-      ],
-      "duration_ms": 254720,
-      "name": "Obsesion",
-      "url": "https://open.spotify.com/track/65H6t1WQBim6q93yM8fEwn"
     },
     {
       "added_at": "2023-04-21 18:53:33",
@@ -643,6 +623,26 @@
       "duration_ms": 209453,
       "name": "Otra vez (feat. J Balvin)",
       "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
+    },
+    {
+      "added_at": "2023-04-21 18:53:33",
+      "album": {
+        "name": "We Broke The Rules",
+        "url": "https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        },
+        {
+          "name": "Judy Santos",
+          "url": "https://open.spotify.com/artist/1seU2dut8PjGSZbgrPl7by"
+        }
+      ],
+      "duration_ms": 254720,
+      "name": "Obsesion",
+      "url": "https://open.spotify.com/track/65H6t1WQBim6q93yM8fEwn"
     },
     {
       "added_at": "2023-04-21 18:53:33",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-04-21 18:53:33",
       "album": {
-        "name": "God's Project",
-        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 263346,
-      "name": "Un Beso",
-      "url": "https://open.spotify.com/track/1SaEt8dwTuLDzenUu5BqI6"
-    },
-    {
-      "added_at": "2023-04-21 18:53:33",
-      "album": {
         "name": "Persona Ideal",
         "url": "https://open.spotify.com/album/3YuzaY1bX9uhlhWR0f19mP"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 205933,
       "name": "Azul",
       "url": "https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1"
+    },
+    {
+      "added_at": "2023-04-21 18:53:33",
+      "album": {
+        "name": "God's Project",
+        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 263346,
+      "name": "Un Beso",
+      "url": "https://open.spotify.com/track/1SaEt8dwTuLDzenUu5BqI6"
     },
     {
       "added_at": "2023-04-21 18:53:33",
@@ -831,22 +831,6 @@
       "duration_ms": 217142,
       "name": "El Efecto",
       "url": "https://open.spotify.com/track/4SJHHpKhcuXwDsCsPqshXj"
-    },
-    {
-      "added_at": "2023-04-21 18:53:33",
-      "album": {
-        "name": "K.O.B. Live",
-        "url": "https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 257186,
-      "name": "Los Infieles",
-      "url": "https://open.spotify.com/track/0HDHY6RSHHG2ZTE0cMT4GJ"
     },
     {
       "added_at": "2023-04-21 18:53:33",
@@ -927,6 +911,22 @@
       "duration_ms": 314013,
       "name": "Ven Dev\u00f3rame Otra Vez",
       "url": "https://open.spotify.com/track/5mg6sU732O35VMfCYk3lmX"
+    },
+    {
+      "added_at": "2023-04-21 18:53:33",
+      "album": {
+        "name": "K.O.B. Live",
+        "url": "https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 257186,
+      "name": "Los Infieles",
+      "url": "https://open.spotify.com/track/0HDHY6RSHHG2ZTE0cMT4GJ"
     },
     {
       "added_at": "2023-04-21 18:53:33",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-04-21 18:53:33",
       "album": {
+        "name": "La Historia... Los \u00c9xitos",
+        "url": "https://open.spotify.com/album/5hVmKtEt52RcmAk6LYB2vJ"
+      },
+      "artists": [
+        {
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+        }
+      ],
+      "duration_ms": 273763,
+      "name": "Virgen",
+      "url": "https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv"
+    },
+    {
+      "added_at": "2023-04-21 18:53:33",
+      "album": {
         "name": "Fabricando Fantas\u00edas",
         "url": "https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 201596,
       "name": "Poblado",
       "url": "https://open.spotify.com/track/47gSYfwFBbV1BXHfXEq1qs"
-    },
-    {
-      "added_at": "2023-04-21 18:53:33",
-      "album": {
-        "name": "La Historia... Los \u00c9xitos",
-        "url": "https://open.spotify.com/album/5hVmKtEt52RcmAk6LYB2vJ"
-      },
-      "artists": [
-        {
-          "name": "Adolescent's Orquesta",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
-        }
-      ],
-      "duration_ms": 273763,
-      "name": "Virgen",
-      "url": "https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv"
     },
     {
       "added_at": "2023-04-21 18:53:33",
@@ -1399,6 +1399,38 @@
     {
       "added_at": "2023-04-21 18:53:33",
       "album": {
+        "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 1",
+        "url": "https://open.spotify.com/album/4rtetkd2vcIDjOIn8CsJBM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Caneo",
+          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
+        }
+      ],
+      "duration_ms": 261472,
+      "name": "Punta a Punta",
+      "url": "https://open.spotify.com/track/1mQbPN7dPldCLlDVvWbMKO"
+    },
+    {
+      "added_at": "2023-04-21 18:53:33",
+      "album": {
+        "name": "30 Exitos Insuperables",
+        "url": "https://open.spotify.com/album/7DXKWP4a12stMxz3idZZl2"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 264933,
+      "name": "Hasta Aqu\u00ed Te Fui Fiel",
+      "url": "https://open.spotify.com/track/7zridhiD9txjjYAcDoC0qY"
+    },
+    {
+      "added_at": "2023-04-21 18:53:33",
+      "album": {
         "name": "A.B. Quintanilla III Presents Kumbia Kings Greatest Hits \"Album Versions\"",
         "url": "https://open.spotify.com/album/1RGWEZOK9E2fH75E6D3cqZ"
       },
@@ -1423,22 +1455,6 @@
     {
       "added_at": "2023-04-21 18:53:33",
       "album": {
-        "name": "30 Exitos Insuperables",
-        "url": "https://open.spotify.com/album/7DXKWP4a12stMxz3idZZl2"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 264933,
-      "name": "Hasta Aqu\u00ed Te Fui Fiel",
-      "url": "https://open.spotify.com/track/7zridhiD9txjjYAcDoC0qY"
-    },
-    {
-      "added_at": "2023-04-21 18:53:33",
-      "album": {
         "name": "Siempre Una Aventura",
         "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 316106,
       "name": "Una Aventura",
       "url": "https://open.spotify.com/track/4F8IB14Sjvqb9qJUOxndRZ"
-    },
-    {
-      "added_at": "2023-04-21 18:53:33",
-      "album": {
-        "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 1",
-        "url": "https://open.spotify.com/album/4rtetkd2vcIDjOIn8CsJBM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Caneo",
-          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
-        }
-      ],
-      "duration_ms": 261472,
-      "name": "Punta a Punta",
-      "url": "https://open.spotify.com/track/1mQbPN7dPldCLlDVvWbMKO"
     },
     {
       "added_at": "2023-04-21 18:53:33",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2023-04-21 18:53:33",
       "album": {
+        "name": "Sed\u00faceme",
+        "url": "https://open.spotify.com/album/4xyafxVu1q9xRQ5qtMlBkb"
+      },
+      "artists": [
+        {
+          "name": "Viti Ruiz",
+          "url": "https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT"
+        }
+      ],
+      "duration_ms": 321178,
+      "name": "Caricias Prohibidas",
+      "url": "https://open.spotify.com/track/0sljB20lnodRcHT2il1m3J"
+    },
+    {
+      "added_at": "2023-04-21 18:53:33",
+      "album": {
         "name": "Tesoros De Coleccion",
         "url": "https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 279173,
       "name": "Amiga",
       "url": "https://open.spotify.com/track/4WWHSJEw4nRPlxCZeLFhym"
-    },
-    {
-      "added_at": "2023-04-21 18:53:33",
-      "album": {
-        "name": "Sed\u00faceme",
-        "url": "https://open.spotify.com/album/4xyafxVu1q9xRQ5qtMlBkb"
-      },
-      "artists": [
-        {
-          "name": "Viti Ruiz",
-          "url": "https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT"
-        }
-      ],
-      "duration_ms": 321178,
-      "name": "Caricias Prohibidas",
-      "url": "https://open.spotify.com/track/0sljB20lnodRcHT2il1m3J"
     },
     {
       "added_at": "2023-04-21 18:53:33",

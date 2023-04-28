@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: slipmami, Ebony, LARINHX
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,023 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,118 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 41 | [TE AMO!](https://open.spotify.com/track/2UZ7xwWTffAbB6nWa9NAfV) | [Duda Spice](https://open.spotify.com/artist/1xPBtxnaXMu5djES3yvlYt), [Goldlab Records](https://open.spotify.com/artist/6ISiV08ogOBFqv2KFVgmFp) | [TE AMO!](https://open.spotify.com/album/6jqmXRHdKBZUwxR9y6TWkc) | 2:13 |
 | 42 | [Morango no Gin](https://open.spotify.com/track/64AaCofmb0AqrN7vWuXO5c) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Morango no Gin](https://open.spotify.com/album/6nkJrMukU7V3XXfVKLujjA) | 2:29 |
 | 43 | [Chapolin](https://open.spotify.com/track/6iRILQOnZXr8M35Rdoa1Dt) | [Savanah](https://open.spotify.com/artist/3tl4oPzp0yYMwLEmRFv0vT), [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf) | [Chapolin](https://open.spotify.com/album/0CynnWGCBgeMRUGbycuVPA) | 2:41 |
-| 44 | [Quando a Onda Bater](https://open.spotify.com/track/1YwvT983g3Br5dDY1agT6U) | [Mih](https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Quando a Onda Bater](https://open.spotify.com/album/53JD3XpyaAjTtQvlZb3Gev) | 2:36 |
-| 45 | [Mob](https://open.spotify.com/track/4Lj7Jipbh9Z4QqGJvcIpuN) | [Fenda](https://open.spotify.com/artist/2MOzAmZ3VnuQuUYD1slLSq), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Púrpura](https://open.spotify.com/album/0cdIIZgZt1izXSmjPL045h) | 3:39 |
+| 44 | [Mob](https://open.spotify.com/track/4Lj7Jipbh9Z4QqGJvcIpuN) | [Fenda](https://open.spotify.com/artist/2MOzAmZ3VnuQuUYD1slLSq), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Púrpura](https://open.spotify.com/album/0cdIIZgZt1izXSmjPL045h) | 3:39 |
+| 45 | [Quando a Onda Bater](https://open.spotify.com/track/1YwvT983g3Br5dDY1agT6U) | [Mih](https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Quando a Onda Bater](https://open.spotify.com/album/53JD3XpyaAjTtQvlZb3Gev) | 2:36 |
 | 46 | [A Cuca](https://open.spotify.com/track/6kdqevDkFJvZeIwYCJZxLh) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [A Cuca](https://open.spotify.com/album/29QITg4lHccmO94R4qX5xK) | 3:18 |
 | 47 | [Fiz Minha Unha](https://open.spotify.com/track/5IYtUJ9foHzJi2CzzARkIe) | [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo), [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Fiz Minha Unha](https://open.spotify.com/album/55IqlpNBxtJPpfGbWHOayn) | 2:26 |
 | 48 | [Faz o Pix](https://open.spotify.com/track/5P0HSsTQmYVR6zq3ztnHZO) | [Zeferina](https://open.spotify.com/artist/0R5sBkXY9VEYCpsheNOiDr) | [Faz o Pix](https://open.spotify.com/album/5wsT1hROBOq9uM9Gtahgja) | 2:11 |
 | 49 | [Preta Patrícia](https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Preta Patrícia](https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX) | 4:14 |
 | 50 | [Fartura E Riqueza](https://open.spotify.com/track/4vn6W7bT3fqHG466IfaJck) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [Buarky](https://open.spotify.com/artist/2jWvN8tmcpkgiQFpdEQnce), [NATH](https://open.spotify.com/artist/6dAUWqdIfuQKFV9i2kMiFx), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt), [DJ Maxnosbeatz](https://open.spotify.com/artist/4FMpb2dZnasTgrWwyKCQuN) | [Betty](https://open.spotify.com/album/3OUm1Sti08w8fJRkImQUaI) | 3:01 |
 
-Snapshot ID: `MTY4MjA0NjA2MCwwMDAwMDAwMGVmZGIyYzE1OThhNDJhODI1OWQ2MDJiYjk1MzAwNjc1`
+Snapshot ID: `MCxlMGRlNjE1ODY4NTk0ZmRjNzdjNDcyMzg5ODZlYWI4Y2VkZWRjYjk3`

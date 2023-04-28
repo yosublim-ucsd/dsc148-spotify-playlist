@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Tribo da Periferia, Hungria Hip Hop, MC Ryan SP
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,884 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,890 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lote 88](https://open.spotify.com/track/18aAhKnY56Codi4iWzcj09) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Lote 88](https://open.spotify.com/album/7qFrlTmb3wvGgtgeXo9flY) | 3:42 |
+| 1 | [Lote 88](https://open.spotify.com/track/18aAhKnY56Codi4iWzcj09) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Lote 88](https://open.spotify.com/album/7qFrlTmb3wvGgtgeXo9flY) | 3:42 |
 | 2 | [Celebrando](https://open.spotify.com/track/1ZynCssuMvuqVH5fwFeSOw) | [PH Original](https://open.spotify.com/artist/1vxO2TvhCnd9dhox0Rpgf1), [Davilexx](https://open.spotify.com/artist/5nvcmhyNlyInqkHwNkxgzb), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Celebrando](https://open.spotify.com/album/6j6OZKPSgWlYic3ZtIdufN) | 2:18 |
 | 3 | [Nasci pra Brilhar](https://open.spotify.com/track/1Xg1iIBGh8NwVFL1JL6cQU) | [Dkria](https://open.spotify.com/artist/2ePVbElTLzV4pYWxwuTciH), [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T), [JR ON](https://open.spotify.com/artist/6Z49It3vdzrqiSuu9dxeVA), [Firma é Forte](https://open.spotify.com/artist/7CPUMb3I6hyvnjYRW0YUro) | [Nasci pra Brilhar](https://open.spotify.com/album/4BBqa46ffUIg4TXuKfvKTW) | 3:15 |
 | 4 | [Me Avista](https://open.spotify.com/track/7lV9R7nUSQE4ojcec3KOkM) | [Peziinho](https://open.spotify.com/artist/34dsFeNJO3am3bnNd9yxxd), [DJ Nemo NTR](https://open.spotify.com/artist/7LioJE25SJYNLAFe1Opar0), [A Matilha](https://open.spotify.com/artist/5sgcMUmYMaHj2Rd99rGOWk) | [Me Avista](https://open.spotify.com/album/3CAiO71ECZWc8oGXVMfFuX) | 2:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 74 | [Todo Tímido](https://open.spotify.com/track/6xs35sD9WnoShqmJXfOj27) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Dono das Esquinas](https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK) | 2:56 |
 | 75 | [Bandida](https://open.spotify.com/track/5nzxFD95Uijg8YyhRGYylY) | [Gabri](https://open.spotify.com/artist/3i468cz7CVoisTnRQV6TDB), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l) | [Bandida](https://open.spotify.com/album/675uZGQiA6OGmEt8LsG70p) | 3:23 |
 
-Snapshot ID: `MTY4MjA0NjA2MCwwMDAwMDAwMDZmNTRjMjVhZDM4NzY3ODdiMDhiZWI5NzAyNzllY2U1`
+Snapshot ID: `MCw0OTVlZTY5ZDM2Y2UwZDhhZDljOGQ4OGI3ZjEzMjdkYWJiYTIxNzc3`

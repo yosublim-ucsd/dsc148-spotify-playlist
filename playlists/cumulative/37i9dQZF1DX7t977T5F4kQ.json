@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:  <a href=\"https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9?si=GfxlfFB8QF-zvacXwbVGrQ\"> Kirani Ayat </a>  ",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:  <a href=\"https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V?si=_Z6tjKSOQ0Cm5b-xElnpPg\"> KiDi </a>  ",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -64,6 +64,24 @@
       "duration_ms": 172972,
       "name": "A B C D",
       "url": "https://open.spotify.com/track/5iqTS5Ge7PwRaM0E09Cu1H"
+    },
+    {
+      "album": {
+        "name": "Abofra",
+        "url": "https://open.spotify.com/album/0t7PPoLJESwhAoG48GfrXc"
+      },
+      "artists": [
+        {
+          "name": "Rjz",
+          "url": "https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166250,
+      "name": "Abofra",
+      "url": "https://open.spotify.com/track/77gnkds6DeIlK8wZ96tyUY"
     },
     {
       "album": {
@@ -722,7 +740,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 221624,
       "name": "Dime Piece",
       "url": "https://open.spotify.com/track/6bgjMZChZYKtzs8XphG5it"
@@ -962,7 +980,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 159268,
       "name": "Fall",
       "url": "https://open.spotify.com/track/7l9vMTJJpeRwCJh5dSSAkW"
@@ -1308,7 +1326,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 157263,
       "name": "Hold Your Hand (feat. Cina Soul)",
       "url": "https://open.spotify.com/track/10g2YHyH9nUwnwZxN1sFnN"
@@ -1352,10 +1370,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 216946,
       "name": "How It Feels",
       "url": "https://open.spotify.com/track/6FHrYFvLQF44jPGnCbY5kS"
+    },
+    {
+      "album": {
+        "name": "I Lied",
+        "url": "https://open.spotify.com/album/1Fkg0HRPJ5NsY570H1KpsL"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157541,
+      "name": "I Lied",
+      "url": "https://open.spotify.com/track/1qZUGjuBSXh5sJfjYqOXWo"
     },
     {
       "album": {
@@ -1643,6 +1679,24 @@
     },
     {
       "album": {
+        "name": "Man Down",
+        "url": "https://open.spotify.com/album/0M7Q84WZQSbgYhjDgBpa32"
+      },
+      "artists": [
+        {
+          "name": "Ahkan",
+          "url": "https://open.spotify.com/artist/5KMfDX3ykXbSVQoCRdcIuT"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196306,
+      "name": "Man Down",
+      "url": "https://open.spotify.com/track/5ueJRYPP0DVeTsBmUAlZlk"
+    },
+    {
+      "album": {
         "name": "The Golden Boy",
         "url": "https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX"
       },
@@ -1872,7 +1926,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 186306,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/70FKWQNSTDcmcXNQYemy0P"
@@ -2354,6 +2408,28 @@
       "duration_ms": 203093,
       "name": "Ring My Line (feat. Headie One)",
       "url": "https://open.spotify.com/track/3zSxIsQe6ezMc1Xr8Fuvz4"
+    },
+    {
+      "album": {
+        "name": "5th Dimension",
+        "url": "https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Run AM",
+      "url": "https://open.spotify.com/track/2lByANPWtcbcJJR9fETLNW"
     },
     {
       "album": {
@@ -2907,6 +2983,28 @@
     },
     {
       "album": {
+        "name": "Tornado",
+        "url": "https://open.spotify.com/album/339rnWvetNqZTAZzxrlv35"
+      },
+      "artists": [
+        {
+          "name": "Tripcy",
+          "url": "https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn"
+        },
+        {
+          "name": "Nektunez",
+          "url": "https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158239,
+      "name": "Tornado",
+      "url": "https://open.spotify.com/track/52L1OTjUe8Zmz8xQH9HENi"
+    },
+    {
+      "album": {
         "name": "Touch It",
         "url": "https://open.spotify.com/album/3VDgHI9zYEzSeH1dv8ij1c"
       },
@@ -2944,7 +3042,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 141212,
       "name": "Vibrate",
       "url": "https://open.spotify.com/track/4HThzBtkiSPncs7d3kEnTp"
@@ -3162,6 +3260,24 @@
       "duration_ms": 174432,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/7Iro07haSFYU2yVx149Tcu"
+    },
+    {
+      "album": {
+        "name": "Yeni Abre",
+        "url": "https://open.spotify.com/album/1C9Xf13fBpa09nVuwlxaWW"
+      },
+      "artists": [
+        {
+          "name": "FRA!",
+          "url": "https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258081,
+      "name": "Yeni Abre",
+      "url": "https://open.spotify.com/track/5PR0Mk6xqpMoKh8D9GXbeQ"
     },
     {
       "album": {

@@ -300,7 +300,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 166812,
       "name": "Animalistic",
       "url": "https://open.spotify.com/track/7Hvn6MDsWBj3aOVvJRu9Np"
@@ -1845,6 +1845,28 @@
     },
     {
       "album": {
+        "name": "5th Dimension",
+        "url": "https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185257,
+      "name": "Life & Money",
+      "url": "https://open.spotify.com/track/5smSKFma3LioFp4HNK1wq8"
+    },
+    {
+      "album": {
         "name": "ANXIETY+",
         "url": "https://open.spotify.com/album/7dxx181PWmsSWdb59f4upZ"
       },
@@ -2562,7 +2584,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 255333,
       "name": "Romantic Rivals",
       "url": "https://open.spotify.com/track/3icpxCljEDRZ0OgMs5wXIY"
@@ -3464,6 +3486,28 @@
       "duration_ms": 165451,
       "name": "Ye x4",
       "url": "https://open.spotify.com/track/488crYdGxAi7RdJxKjEWGb"
+    },
+    {
+      "album": {
+        "name": "Worldwide Eye",
+        "url": "https://open.spotify.com/album/2Gm3w2P10YFNchgf6slgSS"
+      },
+      "artists": [
+        {
+          "name": "Kiddo CSA",
+          "url": "https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW"
+        },
+        {
+          "name": "Monique Lawz",
+          "url": "https://open.spotify.com/artist/2Xc9NBi6MXNg9CFy8zYRsM"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "You\u2019re Mine (feat. Moniqu\u00e9 Lawz)",
+      "url": "https://open.spotify.com/track/22JgHiHqc3QaTRJo9Xb6vk"
     },
     {
       "album": {

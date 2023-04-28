@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Tra storytelling e barre affilate, il meglio del rap game italiano. Cover: MadMan",
+  "description": "Tra storytelling e barre affilate, il meglio del rap game italiano. Cover: Noyz Narcos",
   "name": "Liricisti",
   "tracks": [
     {
@@ -344,7 +344,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 161538,
       "name": "Bruno Barbieri (feat. Kira & Mostro) - prod. 2nd Roof - scratch by DJ Gengis",
       "url": "https://open.spotify.com/track/6gcQBQNLvbc8EVZ1IKk7RP"
@@ -638,7 +638,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 192905,
       "name": "Cicatrici (feat. Tedua)",
       "url": "https://open.spotify.com/track/4tnNQ9nSgMCj0xjE2Q4spX"
@@ -766,7 +766,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 148083,
       "name": "FANGORIA (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/2X2MteIqOjRSozQACNDtEo"
@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 182068,
       "name": "Legame (feat. Ensi & Nerone) - prod. Strage",
       "url": "https://open.spotify.com/track/1p7ftSxJvrS3w35mjjIxJE"
@@ -1234,7 +1234,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 146079,
       "name": "Lewandowski VII",
       "url": "https://open.spotify.com/track/37hdLoozh7mKLbDeO5GAt8"
@@ -1965,6 +1965,32 @@
     },
     {
       "album": {
+        "name": "FEDE",
+        "url": "https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT"
+      },
+      "artists": [
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        },
+        {
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+        },
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "STO CHIN (feat. MadMan & Gemitaiz)",
+      "url": "https://open.spotify.com/track/4wiYIygHmce1gYERsSICnX"
+    },
+    {
+      "album": {
         "name": "Eclissi",
         "url": "https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S"
       },
@@ -2006,6 +2032,32 @@
       "duration_ms": 206493,
       "name": "TOPBOY (feat. Noyz Narcos)",
       "url": "https://open.spotify.com/track/0FvfjiQZ5vEO4XLGX5Uubk"
+    },
+    {
+      "album": {
+        "name": "VIRUS",
+        "url": "https://open.spotify.com/album/1sLrrbc4ZAivtSdEApAi3q"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        },
+        {
+          "name": "Sine",
+          "url": "https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152142,
+      "name": "TRAPHOUSE (feat. Massimo Pericolo)",
+      "url": "https://open.spotify.com/track/6WuGf5uKp3zOEv70OuErP7"
     },
     {
       "album": {

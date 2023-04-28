@@ -203,6 +203,28 @@
     },
     {
       "album": {
+        "name": "Burning Bodies (Stripped Down Sessions)",
+        "url": "https://open.spotify.com/album/5wVHMsxeEQWolOug4Z2odi"
+      },
+      "artists": [
+        {
+          "name": "Sophie van Hasselt",
+          "url": "https://open.spotify.com/artist/3r68N4ZRD3j8AfGrGvhMVm"
+        },
+        {
+          "name": "Iris Jean",
+          "url": "https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166930,
+      "name": "Burning Bodies - Stripped Down Sessions",
+      "url": "https://open.spotify.com/track/6u9zuTh8p4mZ6reEmtRY28"
+    },
+    {
+      "album": {
         "name": "Butterflies (feat. AURORA)",
         "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
       },

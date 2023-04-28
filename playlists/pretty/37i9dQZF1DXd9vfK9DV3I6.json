@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 245419,
+  "num_followers": 245664,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0NjYzOCwwMDAwMDAwMDIxNDlmMDQxNDNiYmFhMWQzOWUyMGUxMjQ1ODhiNmE5",
+  "snapshot_id": "MCxlM2Q2NDBkMjM5MTU3ZDIyNTI5YTE1OWZmZWQ4NGQ2OGQ0YWZjMWU1",
   "tracks": [
     {
       "added_at": "2023-04-21 03:10:38",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-04-21 03:10:38",
       "album": {
+        "name": "Ahwak (Deeper Remix)",
+        "url": "https://open.spotify.com/album/5GDwXSsWyY5h7nFTT9UJ90"
+      },
+      "artists": [
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        }
+      ],
+      "duration_ms": 300582,
+      "name": "Ahwak (Deeper Remix)",
+      "url": "https://open.spotify.com/track/7czCBbKR2qXJRkf5pwml1V"
+    },
+    {
+      "added_at": "2023-04-21 03:10:38",
+      "album": {
         "name": "Time Flies",
         "url": "https://open.spotify.com/album/12uSZ3ULhwSOonJm0I0FMO"
       },
@@ -1147,38 +1163,6 @@
     {
       "added_at": "2023-04-21 03:10:38",
       "album": {
-        "name": "Ahwak (Deeper Remix)",
-        "url": "https://open.spotify.com/album/5GDwXSsWyY5h7nFTT9UJ90"
-      },
-      "artists": [
-        {
-          "name": "Jad Halal",
-          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
-        }
-      ],
-      "duration_ms": 300582,
-      "name": "Ahwak (Deeper Remix)",
-      "url": "https://open.spotify.com/track/7czCBbKR2qXJRkf5pwml1V"
-    },
-    {
-      "added_at": "2023-04-21 03:10:38",
-      "album": {
-        "name": "Anlar",
-        "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
-      },
-      "artists": [
-        {
-          "name": "Valeron",
-          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
-        }
-      ],
-      "duration_ms": 430769,
-      "name": "Anlar",
-      "url": "https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7"
-    },
-    {
-      "added_at": "2023-04-21 03:10:38",
-      "album": {
         "name": "Ormila",
         "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 298867,
       "name": "Ormila",
       "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
+    },
+    {
+      "added_at": "2023-04-21 03:10:38",
+      "album": {
+        "name": "Anlar",
+        "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
+      },
+      "artists": [
+        {
+          "name": "Valeron",
+          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
+        }
+      ],
+      "duration_ms": 430769,
+      "name": "Anlar",
+      "url": "https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7"
     },
     {
       "added_at": "2023-04-21 03:10:38",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2023-04-21 03:10:38",
       "album": {
-        "name": "Tributaries: A Remix Album (El B\u00faho Remixes)",
-        "url": "https://open.spotify.com/album/3YmXLGfXziIb8W6loQuskm"
-      },
-      "artists": [
-        {
-          "name": "Bukahara",
-          "url": "https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W"
-        },
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        }
-      ],
-      "duration_ms": 276299,
-      "name": "Shibren - El B\u00faho Remix",
-      "url": "https://open.spotify.com/track/4roiNsekTEbswR2eofsjFN"
-    },
-    {
-      "added_at": "2023-04-21 03:10:38",
-      "album": {
         "name": "My Useless Life",
         "url": "https://open.spotify.com/album/4C5Dq5Vagx9VoXmsGnBVpc"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 141779,
       "name": "My Useless Life",
       "url": "https://open.spotify.com/track/1J7uqXKTytSifeP2ouKtIm"
+    },
+    {
+      "added_at": "2023-04-21 03:10:38",
+      "album": {
+        "name": "Tributaries: A Remix Album (El B\u00faho Remixes)",
+        "url": "https://open.spotify.com/album/3YmXLGfXziIb8W6loQuskm"
+      },
+      "artists": [
+        {
+          "name": "Bukahara",
+          "url": "https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 276299,
+      "name": "Shibren - El B\u00faho Remix",
+      "url": "https://open.spotify.com/track/4roiNsekTEbswR2eofsjFN"
     },
     {
       "added_at": "2023-04-21 03:10:38",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2023-04-21 03:10:38",
       "album": {
+        "name": "Izvor",
+        "url": "https://open.spotify.com/album/7zfqQQ0mzEutNin8LTuW71"
+      },
+      "artists": [
+        {
+          "name": "Tebra",
+          "url": "https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P"
+        }
+      ],
+      "duration_ms": 400000,
+      "name": "Izvor",
+      "url": "https://open.spotify.com/track/4z7tWC9yzgcCD23hY8uQaV"
+    },
+    {
+      "added_at": "2023-04-21 03:10:38",
+      "album": {
         "name": "El Hawa",
         "url": "https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 347855,
       "name": "El Hawa",
       "url": "https://open.spotify.com/track/6T7WDZFKTZVGxZyRMBZ4AR"
-    },
-    {
-      "added_at": "2023-04-21 03:10:38",
-      "album": {
-        "name": "Izvor",
-        "url": "https://open.spotify.com/album/7zfqQQ0mzEutNin8LTuW71"
-      },
-      "artists": [
-        {
-          "name": "Tebra",
-          "url": "https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "Izvor",
-      "url": "https://open.spotify.com/track/4z7tWC9yzgcCD23hY8uQaV"
     },
     {
       "added_at": "2023-04-21 03:10:38",
@@ -1651,26 +1651,6 @@
       "duration_ms": 136800,
       "name": "Arab Money",
       "url": "https://open.spotify.com/track/13hILdDfGkOKcpnQwp3VhC"
-    },
-    {
-      "added_at": "2023-04-21 03:10:38",
-      "album": {
-        "name": "3ala bali",
-        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
-      },
-      "artists": [
-        {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Pamela Antoun",
-          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
-        }
-      ],
-      "duration_ms": 210132,
-      "name": "3ala bali",
-      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
     },
     {
       "added_at": "2023-04-21 03:10:38",
@@ -1771,24 +1751,8 @@
     {
       "added_at": "2023-04-21 03:10:38",
       "album": {
-        "name": "Lane Moje",
-        "url": "https://open.spotify.com/album/6NnOkaGVXBevjn8lWFDACE"
-      },
-      "artists": [
-        {
-          "name": "DJ Dark",
-          "url": "https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn"
-        }
-      ],
-      "duration_ms": 179478,
-      "name": "Lane Moje - Radio Edit",
-      "url": "https://open.spotify.com/track/3X2n6qNzVzZYhf3MqYC7c4"
-    },
-    {
-      "added_at": "2023-04-21 03:10:38",
-      "album": {
-        "name": "Moulayiten",
-        "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
+        "name": "3ala bali",
+        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
       },
       "artists": [
         {
@@ -1796,13 +1760,13 @@
           "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
         },
         {
-          "name": "Ahmad Sleiman",
-          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
+          "name": "Pamela Antoun",
+          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
         }
       ],
-      "duration_ms": 297593,
-      "name": "Moulayiten",
-      "url": "https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR"
+      "duration_ms": 210132,
+      "name": "3ala bali",
+      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
     },
     {
       "added_at": "2023-04-21 03:10:38",
@@ -1827,6 +1791,22 @@
     {
       "added_at": "2023-04-21 03:10:38",
       "album": {
+        "name": "Lane Moje",
+        "url": "https://open.spotify.com/album/6NnOkaGVXBevjn8lWFDACE"
+      },
+      "artists": [
+        {
+          "name": "DJ Dark",
+          "url": "https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn"
+        }
+      ],
+      "duration_ms": 179478,
+      "name": "Lane Moje - Radio Edit",
+      "url": "https://open.spotify.com/track/3X2n6qNzVzZYhf3MqYC7c4"
+    },
+    {
+      "added_at": "2023-04-21 03:10:38",
+      "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm"
       },
@@ -1839,26 +1819,6 @@
       "duration_ms": 213737,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM"
-    },
-    {
-      "added_at": "2023-04-21 03:10:38",
-      "album": {
-        "name": "Beirut",
-        "url": "https://open.spotify.com/album/61uVxj8RLLQfkF584hWAqb"
-      },
-      "artists": [
-        {
-          "name": "Rodge",
-          "url": "https://open.spotify.com/artist/3F9PS1VPIjbbkQyYZCZDDG"
-        },
-        {
-          "name": "Nina Abdel Malak",
-          "url": "https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Beirut",
-      "url": "https://open.spotify.com/track/0XnojCdBGCLuoeOTZUfaM7"
     },
     {
       "added_at": "2023-04-21 03:10:38",
@@ -1883,22 +1843,42 @@
     {
       "added_at": "2023-04-21 03:10:38",
       "album": {
-        "name": "Isla Bonita",
-        "url": "https://open.spotify.com/album/2ce99b3oA0Bb5pK4Hm8qmU"
+        "name": "Moulayiten",
+        "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
       },
       "artists": [
         {
-          "name": "DJ Dark",
-          "url": "https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn"
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
         },
         {
-          "name": "MD DJ",
-          "url": "https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD"
+          "name": "Ahmad Sleiman",
+          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
         }
       ],
-      "duration_ms": 181000,
-      "name": "Isla Bonita - Radio Edit",
-      "url": "https://open.spotify.com/track/3cJdavr0QMtSbaWdC6CFD6"
+      "duration_ms": 297593,
+      "name": "Moulayiten",
+      "url": "https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR"
+    },
+    {
+      "added_at": "2023-04-21 03:10:38",
+      "album": {
+        "name": "Beirut",
+        "url": "https://open.spotify.com/album/61uVxj8RLLQfkF584hWAqb"
+      },
+      "artists": [
+        {
+          "name": "Rodge",
+          "url": "https://open.spotify.com/artist/3F9PS1VPIjbbkQyYZCZDDG"
+        },
+        {
+          "name": "Nina Abdel Malak",
+          "url": "https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Beirut",
+      "url": "https://open.spotify.com/track/0XnojCdBGCLuoeOTZUfaM7"
     },
     {
       "added_at": "2023-04-21 03:10:38",
@@ -1947,6 +1927,34 @@
       "duration_ms": 198200,
       "name": "Mawjou3 Galbi",
       "url": "https://open.spotify.com/track/6TG4s4lyrLJ8OpaGbgfqGl"
+    },
+    {
+      "added_at": "2023-04-21 03:10:38",
+      "album": {
+        "name": "The Universe of Buddha Bar",
+        "url": "https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm"
+      },
+      "artists": [
+        {
+          "name": "Buddha-Bar",
+          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
+        },
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        },
+        {
+          "name": "Momo Ryuk",
+          "url": "https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE"
+        },
+        {
+          "name": "Salah Hammadi",
+          "url": "https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T"
+        }
+      ],
+      "duration_ms": 355886,
+      "name": "Lbechra",
+      "url": "https://open.spotify.com/track/5zTSZWYD9bIhrpeJbt42sp"
     }
   ],
   "unique_name": "mosaic",

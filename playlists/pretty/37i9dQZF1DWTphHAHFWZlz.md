@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 
 > La nueva ola del rock argentino\. Foto: Riel
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,649 likes - 101 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,650 likes - 101 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 | 100 | [Todo el Mal](https://open.spotify.com/track/7knGtNtfz5FOPEpBHtxn4h) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [Todo el Mal](https://open.spotify.com/album/0dfayvjKUsbOs8ghUixZpY) | 3:14 |
 | 101 | [Armagedón](https://open.spotify.com/track/1YAkwbM8f7yFRyu5OyG2xy) | [Camila López](https://open.spotify.com/artist/6VHcngSiHE3Y9Lzip0Dta2), [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR) | [Armagedón](https://open.spotify.com/album/0ubs2oQKjr2uLaSifiIapF) | 3:01 |
 
-Snapshot ID: `MTY2NjkyNjAwMCwwMDAwMDAwMDVmM2FlMWMwMGNjYWE5NGUzOGZhNGRlOThkM2JlZDlj`
+Snapshot ID: `MCwxNDdkYjY5ZWIxZTk4YjUxNWVmYTIxNWY5ZTMzZmFmMzQxZTViMTRm`

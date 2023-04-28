@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/6bqpDp9MHIzsa9wx0DTKZT"
+      },
+      "artists": [
+        {
+          "name": "Laura van Kaam",
+          "url": "https://open.spotify.com/artist/4ywz66EHjNFUszU6lXLsXe"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173053,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/4o5tHS1nMLrBZD2WfUPMn8"
+    },
+    {
+      "album": {
         "name": "Bronco",
         "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
       },
@@ -200,7 +218,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 238018,
       "name": "California",
       "url": "https://open.spotify.com/track/2TeTcoh9iB1uOOLiQBeTkT"
@@ -218,7 +236,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 203772,
       "name": "Can't Nobody",
       "url": "https://open.spotify.com/track/3QjMxiTf0OBM729FA0AqZy"
@@ -236,7 +254,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 232725,
       "name": "Colours",
       "url": "https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50"
@@ -294,6 +312,24 @@
       "duration_ms": 173840,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/4YQubPuAYJpL7oXYCDvw0L"
+    },
+    {
+      "album": {
+        "name": "Driving Like A Dream Car Should",
+        "url": "https://open.spotify.com/album/0PUtR0ic8SMHYtj6CF77cQ"
+      },
+      "artists": [
+        {
+          "name": "Deborah Parlor",
+          "url": "https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187355,
+      "name": "Driving Like A Dream Car Should",
+      "url": "https://open.spotify.com/track/5yeaDXxrodUEbYGxfDXZej"
     },
     {
       "album": {
@@ -362,7 +398,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 202223,
       "name": "High Heels",
       "url": "https://open.spotify.com/track/4M3uKxjhfTLfQidMDgEEgC"
@@ -398,7 +434,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 279919,
       "name": "Home Is Where...",
       "url": "https://open.spotify.com/track/3joE5kBQ4R85LrU8NG4SdZ"
@@ -506,7 +542,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-19",
+      "date_removed": null,
       "duration_ms": 208933,
       "name": "Loose Future",
       "url": "https://open.spotify.com/track/1f7mKDuWfkhMXOnRcdI8Vz"
@@ -542,7 +578,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 194396,
       "name": "Love You So",
       "url": "https://open.spotify.com/track/7oFbkIDSxQTZN2n4y7cULK"
@@ -922,6 +958,24 @@
       "duration_ms": 299306,
       "name": "Tower Of Song",
       "url": "https://open.spotify.com/track/2HHXqnrD7PaUIUSj9lz3xK"
+    },
+    {
+      "album": {
+        "name": "Underneath This Skin",
+        "url": "https://open.spotify.com/album/0VUhmsdVl0KYWCYcRVe2Ox"
+      },
+      "artists": [
+        {
+          "name": "Pieternel",
+          "url": "https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221905,
+      "name": "Underneath This Skin",
+      "url": "https://open.spotify.com/track/0aobMBLmusskREM8uF8UMB"
     },
     {
       "album": {

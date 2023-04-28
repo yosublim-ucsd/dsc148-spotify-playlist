@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Enter Shikari",
+  "description": "The UK's biggest rock playlist. Cover: Calva Louise ",
   "name": "The Rock List",
   "tracks": [
     {
@@ -262,6 +262,24 @@
       "duration_ms": 197660,
       "name": "Alive",
       "url": "https://open.spotify.com/track/3GUQHwDdoziJz9wTcBC1TZ"
+    },
+    {
+      "album": {
+        "name": "All The Problems",
+        "url": "https://open.spotify.com/album/5tApkeDzogxfZB7DOoukd2"
+      },
+      "artists": [
+        {
+          "name": "Shelf Lives",
+          "url": "https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176907,
+      "name": "All The Problems",
+      "url": "https://open.spotify.com/track/0yMBgZk0AkUKBqx4noEW19"
     },
     {
       "album": {
@@ -813,6 +831,24 @@
     },
     {
       "album": {
+        "name": "Easier",
+        "url": "https://open.spotify.com/album/4PnhLX8zjgFP9PTGEe6eyS"
+      },
+      "artists": [
+        {
+          "name": "Superlove",
+          "url": "https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Easier",
+      "url": "https://open.spotify.com/track/6p2CaYsLkNeXpqFhA1RJRA"
+    },
+    {
+      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/6DUWfrmH8uTH33wMFOBJDu"
       },
@@ -918,6 +954,24 @@
       "duration_ms": 192000,
       "name": "Feast Is Over",
       "url": "https://open.spotify.com/track/1ajCWFb64q72MfXMftyNlV"
+    },
+    {
+      "album": {
+        "name": "Oportunista",
+        "url": "https://open.spotify.com/album/0bcLhYRcisUhImKFtAxxEh"
+      },
+      "artists": [
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Feast Is Over",
+      "url": "https://open.spotify.com/track/323zigumohnXlWeUO9fqcK"
     },
     {
       "album": {
@@ -1246,7 +1300,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 168280,
       "name": "GOSSIP (feat. Tom Morello)",
       "url": "https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx"
@@ -1528,6 +1582,24 @@
       "duration_ms": 192000,
       "name": "How Am I Still Alive? (with Lydia Night)",
       "url": "https://open.spotify.com/track/2ymOJYGe3noIiQF83yAysV"
+    },
+    {
+      "album": {
+        "name": "How Far Can You Push A Man?",
+        "url": "https://open.spotify.com/album/1CiNOzyjptv27RvizVglFg"
+      },
+      "artists": [
+        {
+          "name": "The Pale White",
+          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243947,
+      "name": "How Far Can You Push A Man?",
+      "url": "https://open.spotify.com/track/7znL77EO0Ezhze36hnK8uN"
     },
     {
       "album": {
@@ -2394,7 +2466,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 155603,
       "name": "Play My Favourite Song",
       "url": "https://open.spotify.com/track/4uBs8miGwBykRYjrbAO5kV"
@@ -2794,6 +2866,24 @@
       "duration_ms": 167287,
       "name": "Supernatural",
       "url": "https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV"
+    },
+    {
+      "album": {
+        "name": "Swoon",
+        "url": "https://open.spotify.com/album/0o2rQghOwZtxz3OoIf8N08"
+      },
+      "artists": [
+        {
+          "name": "Tigercub",
+          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197947,
+      "name": "Swoon",
+      "url": "https://open.spotify.com/track/6c6GZ9GwIFCrKLXviFKt2e"
     },
     {
       "album": {

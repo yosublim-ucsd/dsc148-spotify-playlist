@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Adi Oasis
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,468 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,547 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [Coming Around](https://open.spotify.com/track/7nEZs0rR5vKoZa1m1fRkeO) | [Lazy Habits](https://open.spotify.com/artist/3Bwm7GVj1bGNj6fxf80OKP), [Baby Sol](https://open.spotify.com/artist/2f6oNClshLxDWI8rrVm6wQ) | [Vermillion Sands](https://open.spotify.com/album/22DvsqJ1U6RUjR3oYeFhQx) | 3:59 |
 | 100 | [Talking Fast](https://open.spotify.com/track/5Hwrze2uuRlNa4lHOoDeeT) | [En Rie](https://open.spotify.com/artist/3P18mn1T53JU82867PDYbM), [Roboti Niro](https://open.spotify.com/artist/6F6xHCnBygWXQO5VSnSRAS) | [Talking Fast](https://open.spotify.com/album/64XyaoGndTmMnRYAmGtBX9) | 3:47 |
 
-Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMGFjOGE0ZDMyNWQyZWFkNDI0NGIxODE2MDJhYjYwMzAx`
+Snapshot ID: `MCxhMWMwZmVlYzc5M2RhYjcxMjQyNjE2MzRhMzM2ZjA1NWNlZjY0ZWFl`

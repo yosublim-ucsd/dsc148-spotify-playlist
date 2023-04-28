@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULHbs82dshJ.md) - [plain]
 
 > Trapperz Brasil apresenta..\. O Melhor do Hip Hop 2022
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,500 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,685 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULHbs82dshJ.md) - [plain]
 | 12 | [WILLY](https://open.spotify.com/track/2nmfojpIbGRmDa2UCfddYW) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [WILLY](https://open.spotify.com/album/5voxHC8bWiqFAw4toUcsZs) | 2:45 |
 | 13 | [A Nova Era](https://open.spotify.com/track/4phWuswkCNopB7piK6E8Mb) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Racovi Oficial](https://open.spotify.com/artist/4wKMCoPdqFIdM8I1jDERYX), [Bren Oficial](https://open.spotify.com/artist/2kz0IOC0n4w9Zg7X7HigTB), [Victor WAO](https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [A Nova Era](https://open.spotify.com/album/2BbG0JEEVGpO2xscs9AYxT) | 3:14 |
 | 14 | [Assault \(Carro Forte\)](https://open.spotify.com/track/7BwjZ1jy4B0ZyXTY4YQM9A) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP) | [Assault \(Carro Forte\)](https://open.spotify.com/album/4K5XemHceyhOJtQVVVtQqO) | 5:04 |
-| 15 | [Cruzeiro da Revoada](https://open.spotify.com/track/2TkyXnE0OB6Yo9zuzv9B4e) | [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Universo Particular](https://open.spotify.com/album/0Wg1HsbVatKcEZznPZ62Ev) | 3:42 |
+| 15 | [Cruzeiro da Revoada](https://open.spotify.com/track/2TkyXnE0OB6Yo9zuzv9B4e) | [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Universo Particular](https://open.spotify.com/album/0Wg1HsbVatKcEZznPZ62Ev) | 3:42 |
 | 16 | [Pílula Vermelha, Pílula Azul \(Incidental: Banditismo por uma Questão de Classe\)](https://open.spotify.com/track/6dax1ewiAtKBMI3JiLybwQ) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Movimento Rápido dos Olhos](https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog) | 3:09 |
 | 17 | [TEIA](https://open.spotify.com/track/1evXKFqr2K7DS643Odndhj) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [WaraBeats](https://open.spotify.com/artist/2MYzGKXSphHn7Z2G6dRbBd) | [FLORA DE CONTROLE](https://open.spotify.com/album/4BGYI7zvyPcAkwG8e0agSz) | 3:05 |
 | 18 | [Balazul](https://open.spotify.com/track/1RgJ4lexKGNBlKnyxB5SRt) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU) | [Mateca x Teto](https://open.spotify.com/album/6UxAHRNJAQpp9Rd1aGrQd7) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULHbs82dshJ.md) - [plain]
 | 49 | [Oi, Como Ce Tá?](https://open.spotify.com/track/5Z4TYur0O9OxmxIo6GC2Gq) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Oi, Como Ce Tá?](https://open.spotify.com/album/4Y0n73TdglcGIKQLuaRVou) | 2:36 |
 | 50 | [Posturadão](https://open.spotify.com/track/0ToPj749UPF7MGE6KDyrIp) | [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Posturadão](https://open.spotify.com/album/2IH59QF9TV9xbbtRAQKhEO) | 2:42 |
 
-Snapshot ID: `MTY2OTkyMTk4NSwwMDAwMDAwMDA1ODBlNDRmNDY2Y2NhOTQ4MGUzMGQ1NzI1NzI4OTI2`
+Snapshot ID: `MCxmMzc3NGJlYzk3MjQ4ZTU0YzUyNGYzODcyYTNmMzc5NDIwMWQwNzhj`

@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: INNA",
-  "num_followers": 892236,
+  "num_followers": 892217,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ3NDMxNiwwMDAwMDAwMDIyODEzZjQwOWVjMzZhNWQ2MWQzNTg4ZjFjYjQ5Zjgy",
+  "snapshot_id": "MCw5MTk1YzI1N2Y2MDA0MDY1MTg0NDlmYjQ4Y2MxMTU1MTAxZDQxNGQz",
   "tracks": [
     {
       "added_at": "2023-04-05 04:00:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "No Business On The Dancefloor",
-        "url": "https://open.spotify.com/album/2PBGkaNBeBpkHedZ9J7eXH"
-      },
-      "artists": [
-        {
-          "name": "Keira",
-          "url": "https://open.spotify.com/artist/5DEU6xCvrSgrpI5GsMFZng"
-        }
-      ],
-      "duration_ms": 167574,
-      "name": "No Business On The Dancefloor",
-      "url": "https://open.spotify.com/track/47EttOPfJblOFsztpSseEm"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "Just Because",
         "url": "https://open.spotify.com/album/4KE1Eeu0tO0f2czX9pfaRc"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 193246,
       "name": "Just Because",
       "url": "https://open.spotify.com/track/3Ues7YM3y8JYnTeu2OYFVH"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "No Business On The Dancefloor",
+        "url": "https://open.spotify.com/album/2PBGkaNBeBpkHedZ9J7eXH"
+      },
+      "artists": [
+        {
+          "name": "Keira",
+          "url": "https://open.spotify.com/artist/5DEU6xCvrSgrpI5GsMFZng"
+        }
+      ],
+      "duration_ms": 167574,
+      "name": "No Business On The Dancefloor",
+      "url": "https://open.spotify.com/track/47EttOPfJblOFsztpSseEm"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "JANAINDAYO",
-        "url": "https://open.spotify.com/album/7zLiRSoGuRjO4d5Ebmkqy0"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 180300,
-      "name": "JANAINDAYO",
-      "url": "https://open.spotify.com/track/2Ee7RTET4ZrfKJl6gXZTup"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "Aye Khuda",
         "url": "https://open.spotify.com/album/6cRFB01oyEXqAQCIH5qFos"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 544565,
       "name": "Aye Khuda",
       "url": "https://open.spotify.com/track/7vIEXrKp0MXaGkiqJ8qVhx"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "JANAINDAYO",
+        "url": "https://open.spotify.com/album/7zLiRSoGuRjO4d5Ebmkqy0"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 180300,
+      "name": "JANAINDAYO",
+      "url": "https://open.spotify.com/track/2Ee7RTET4ZrfKJl6gXZTup"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "La flor (Mov.1: La Flor)",
-        "url": "https://open.spotify.com/album/2Ngrngggmplmt5fVkqI1XT"
-      },
-      "artists": [
-        {
-          "name": "S\u00edlvia P\u00e9rez Cruz",
-          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
-        }
-      ],
-      "duration_ms": 200985,
-      "name": "La flor - Mov.1: La Flor",
-      "url": "https://open.spotify.com/track/4GJGDhm3mINXAghS4mkpjK"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "Can't Control",
         "url": "https://open.spotify.com/album/7nez9h7CDSZtWNVyAuC8Co"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 177139,
       "name": "Can't Control",
       "url": "https://open.spotify.com/track/5ZJE92mDnbh9jr7XgJs5lQ"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "La flor (Mov.1: La Flor)",
+        "url": "https://open.spotify.com/album/2Ngrngggmplmt5fVkqI1XT"
+      },
+      "artists": [
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        }
+      ],
+      "duration_ms": 200985,
+      "name": "La flor - Mov.1: La Flor",
+      "url": "https://open.spotify.com/track/4GJGDhm3mINXAghS4mkpjK"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
+        "name": "Mis Mejores Poses",
+        "url": "https://open.spotify.com/album/4mqqDapNQ10WynQPGRCkol"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Mis Mejores Poses",
+      "url": "https://open.spotify.com/track/7FZ5Dtc1RbWd0qXgFqZ4zS"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
         "name": "Lotus Glow",
         "url": "https://open.spotify.com/album/0e4dBWmBHPevyfC9Zle4mv"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 232857,
       "name": "Ana Wein",
       "url": "https://open.spotify.com/track/5FUkSeyQJaH4kZ8frwvKYo"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
-        "name": "Mis Mejores Poses",
-        "url": "https://open.spotify.com/album/4mqqDapNQ10WynQPGRCkol"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Mis Mejores Poses",
-      "url": "https://open.spotify.com/track/7FZ5Dtc1RbWd0qXgFqZ4zS"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "We\u017a skr\u0119\u0107",
-        "url": "https://open.spotify.com/album/7bZeRcZQbmGKoaxGZv1hDK"
-      },
-      "artists": [
-        {
-          "name": "DOROTA",
-          "url": "https://open.spotify.com/artist/2fEs4vr7qFxwyrzmTrXxYE"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "We\u017a skr\u0119\u0107",
-      "url": "https://open.spotify.com/track/42HeuVcP5xaOkQUmOkAOMp"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "Szia",
         "url": "https://open.spotify.com/album/5Ni6GqciWF1Uy4YiD6cPIw"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 147924,
       "name": "Szia",
       "url": "https://open.spotify.com/track/4kMfc4jVR0Eyp5GJJgNgwL"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "We\u017a skr\u0119\u0107",
+        "url": "https://open.spotify.com/album/7bZeRcZQbmGKoaxGZv1hDK"
+      },
+      "artists": [
+        {
+          "name": "DOROTA",
+          "url": "https://open.spotify.com/artist/2fEs4vr7qFxwyrzmTrXxYE"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "We\u017a skr\u0119\u0107",
+      "url": "https://open.spotify.com/track/42HeuVcP5xaOkQUmOkAOMp"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -1185,6 +1185,22 @@
       "url": "https://open.spotify.com/track/7BokHWSjR5wKAcytz1y6S4"
     },
     {
+      "added_at": "2023-04-14 12:11:56",
+      "album": {
+        "name": "OLE",
+        "url": "https://open.spotify.com/album/72Gkfhx9bDh2LMrO2vMaPy"
+      },
+      "artists": [
+        {
+          "name": "Baaba J",
+          "url": "https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek"
+        }
+      ],
+      "duration_ms": 151932,
+      "name": "OLE",
+      "url": "https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF"
+    },
+    {
       "added_at": "2023-04-05 04:00:00",
       "album": {
         "name": "space",
@@ -1215,22 +1231,6 @@
       "duration_ms": 216405,
       "name": "Forest song - Original Soundtrack \u00abMavka. The Forest Song",
       "url": "https://open.spotify.com/track/1D0yDJG72EFzFsbPrINzXG"
-    },
-    {
-      "added_at": "2023-04-14 12:11:56",
-      "album": {
-        "name": "OLE",
-        "url": "https://open.spotify.com/album/72Gkfhx9bDh2LMrO2vMaPy"
-      },
-      "artists": [
-        {
-          "name": "Baaba J",
-          "url": "https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek"
-        }
-      ],
-      "duration_ms": 151932,
-      "name": "OLE",
-      "url": "https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF"
     },
     {
       "added_at": "2023-04-05 04:00:00",

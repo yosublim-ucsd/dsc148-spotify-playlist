@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Mitch Santiago\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,568 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,578 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [Scary Movies](https://open.spotify.com/track/4hoEpxUAvw2tn8Octl8812) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Scary Movies](https://open.spotify.com/album/5UItYWGjmw86QPdAKdAWur) | 3:15 |
 | 100 | [Surf Club](https://open.spotify.com/track/7dGEnyQELR5CC5jmJW41cP) | [Coast Arcade](https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC) | [Surf Club](https://open.spotify.com/album/7pDf8TRH7CzRwgVdRk0ygg) | 3:35 |
 
-Snapshot ID: `MTY4MjQ4ODY3MSwwMDAwMDAwMDg2NjNlODkxZDBhYThiNTg2YzlmYTNmNDM3ZGM2MjEy`
+Snapshot ID: `MCxmYjIyZmNlNGUxNzZhZWJkMGEzODA3ZDNlZGFkMzkyNDc3YTVjYzNm`

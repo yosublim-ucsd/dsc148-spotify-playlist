@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover:\bSOLE & Sung Si Kyung(\uc3e0 & \uc131\uc2dc\uacbd)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 318664,
+  "num_followers": 318706,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTc4NTI5MCwwMDAwMDAwMDUzZTBjMDA0ZWY2YmNmOWU4YmQ0MWRiNjBlOGU1MzAx",
+  "snapshot_id": "MCw1Y2QwOTY5NzY1NDZiMmU3Njc3OTdkMWMwNzNiMDUwYmZkMjE4MGYx",
   "tracks": [
     {
       "added_at": "2023-04-18 02:34:50",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-04-18 02:34:50",
       "album": {
-        "name": "New Year",
-        "url": "https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 168760,
-      "name": "Fuckin' New Year",
-      "url": "https://open.spotify.com/track/4njyS3c6btHwlhVuYt4ks5"
-    },
-    {
-      "added_at": "2023-04-18 02:34:50",
-      "album": {
         "name": "When it snows(Feat.Heize)",
         "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 232026,
       "name": "When it snows(Feat.Heize)",
       "url": "https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR"
+    },
+    {
+      "added_at": "2023-04-18 02:34:50",
+      "album": {
+        "name": "New Year",
+        "url": "https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 168760,
+      "name": "Fuckin' New Year",
+      "url": "https://open.spotify.com/track/4njyS3c6btHwlhVuYt4ks5"
     },
     {
       "added_at": "2023-04-18 02:34:50",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-04-18 02:34:50",
       "album": {
-        "name": "my life",
-        "url": "https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS"
-      },
-      "artists": [
-        {
-          "name": "Mark Tuan",
-          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
-        }
-      ],
-      "duration_ms": 174990,
-      "name": "my life",
-      "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
-    },
-    {
-      "added_at": "2023-04-18 02:34:50",
-      "album": {
         "name": "in the bed",
         "url": "https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 265058,
       "name": "in the bed",
       "url": "https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe"
+    },
+    {
+      "added_at": "2023-04-18 02:34:50",
+      "album": {
+        "name": "my life",
+        "url": "https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS"
+      },
+      "artists": [
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        }
+      ],
+      "duration_ms": 174990,
+      "name": "my life",
+      "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
     },
     {
       "added_at": "2023-04-18 02:34:50",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-04-18 02:34:50",
       "album": {
-        "name": "Divorce Attorney Shin (Original Television Soundtrack, Pt. 4)",
-        "url": "https://open.spotify.com/album/3AhxpeM0oqlgkdio5NVmp6"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 205560,
-      "name": "Far away",
-      "url": "https://open.spotify.com/track/43iomf0oLrC9449yN58E4c"
-    },
-    {
-      "added_at": "2023-04-18 02:34:50",
-      "album": {
         "name": "Drunken confession at night",
         "url": "https://open.spotify.com/album/6ckoOynVQtEj04mbOAyGAh"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 246491,
       "name": "Drunken confession at night (Prod. 2soo)",
       "url": "https://open.spotify.com/track/2Jvl8m0bAt7bS76pLsMeJk"
+    },
+    {
+      "added_at": "2023-04-18 02:34:50",
+      "album": {
+        "name": "Divorce Attorney Shin (Original Television Soundtrack, Pt. 4)",
+        "url": "https://open.spotify.com/album/3AhxpeM0oqlgkdio5NVmp6"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 205560,
+      "name": "Far away",
+      "url": "https://open.spotify.com/track/43iomf0oLrC9449yN58E4c"
     },
     {
       "added_at": "2023-04-18 02:34:50",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2023-04-18 02:34:50",
       "album": {
-        "name": "Unlock My Boss, Pt. 1 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5BJ9IiO5MevsSlzjHoOPK9"
+        "name": "Faith OST",
+        "url": "https://open.spotify.com/album/0uFJieT8zGkryWddYK7Vkd"
       },
       "artists": [
         {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+          "name": "Shin Yong Jae",
+          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
         }
       ],
-      "duration_ms": 202858,
-      "name": "Lie to me",
-      "url": "https://open.spotify.com/track/49kvzhrGeGe4drWi8NNj1A"
+      "duration_ms": 267937,
+      "name": "Walking Slowly",
+      "url": "https://open.spotify.com/track/2zahaztD28KVpM84zFoeQ9"
     },
     {
       "added_at": "2023-04-18 02:34:50",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2023-04-18 02:34:50",
       "album": {
-        "name": "Faith OST",
-        "url": "https://open.spotify.com/album/0uFJieT8zGkryWddYK7Vkd"
+        "name": "Unlock My Boss, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5BJ9IiO5MevsSlzjHoOPK9"
       },
       "artists": [
         {
-          "name": "Shin Yong Jae",
-          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
         }
       ],
-      "duration_ms": 267937,
-      "name": "Walking Slowly",
-      "url": "https://open.spotify.com/track/2zahaztD28KVpM84zFoeQ9"
+      "duration_ms": 202858,
+      "name": "Lie to me",
+      "url": "https://open.spotify.com/track/49kvzhrGeGe4drWi8NNj1A"
     },
     {
       "added_at": "2023-04-18 02:34:50",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2023-04-18 02:34:50",
       "album": {
+        "name": "&10",
+        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 273292,
+      "name": "Days without you",
+      "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
+    },
+    {
+      "added_at": "2023-04-18 02:34:50",
+      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -1495,22 +1511,6 @@
     {
       "added_at": "2023-04-18 02:34:50",
       "album": {
-        "name": "&10",
-        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 273292,
-      "name": "Days without you",
-      "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
-    },
-    {
-      "added_at": "2023-04-18 02:34:50",
-      "album": {
         "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 13",
         "url": "https://open.spotify.com/album/30LZlh9d2k2GMQOPbJvdxd"
       },
@@ -1527,22 +1527,6 @@
       "duration_ms": 251160,
       "name": "You're My End and My Beginning",
       "url": "https://open.spotify.com/track/1q3axbxKGkwHdLLQtxmyl2"
-    },
-    {
-      "added_at": "2023-04-18 02:34:50",
-      "album": {
-        "name": "Crash Course in Romance OST Part 3",
-        "url": "https://open.spotify.com/album/1ngSqp4QFiMFePyYQnjvsH"
-      },
-      "artists": [
-        {
-          "name": "Lee Juck",
-          "url": "https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa"
-        }
-      ],
-      "duration_ms": 250831,
-      "name": "The opposite side",
-      "url": "https://open.spotify.com/track/63jQ5Els02lQZFwZSqn8Dh"
     },
     {
       "added_at": "2023-04-18 02:34:50",
@@ -1579,18 +1563,18 @@
     {
       "added_at": "2023-04-18 02:34:50",
       "album": {
-        "name": "Always with you",
-        "url": "https://open.spotify.com/album/1nmOHceICDLOOI3IgPHvdu"
+        "name": "Crash Course in Romance OST Part 3",
+        "url": "https://open.spotify.com/album/1ngSqp4QFiMFePyYQnjvsH"
       },
       "artists": [
         {
-          "name": "Kim MinSeok",
-          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
+          "name": "Lee Juck",
+          "url": "https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa"
         }
       ],
-      "duration_ms": 262000,
-      "name": "Always with you",
-      "url": "https://open.spotify.com/track/6tNtfR4sJfEzQmjhg7gWzy"
+      "duration_ms": 250831,
+      "name": "The opposite side",
+      "url": "https://open.spotify.com/track/63jQ5Els02lQZFwZSqn8Dh"
     },
     {
       "added_at": "2023-04-18 02:34:50",
@@ -1623,6 +1607,42 @@
       "duration_ms": 240840,
       "name": "First Line",
       "url": "https://open.spotify.com/track/2jyX7hcIU3N4DY1n9EKIab"
+    },
+    {
+      "added_at": "2023-04-18 02:34:50",
+      "album": {
+        "name": "Ode To The Stars",
+        "url": "https://open.spotify.com/album/5AYHR2HOnxZuZJnXTvJaGA"
+      },
+      "artists": [
+        {
+          "name": "MAKTUB",
+          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
+        },
+        {
+          "name": "Leeraon",
+          "url": "https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane"
+        }
+      ],
+      "duration_ms": 282853,
+      "name": "Ode To The Stars",
+      "url": "https://open.spotify.com/track/1pFgar9U2S5FfrNdnSVOJK"
+    },
+    {
+      "added_at": "2023-04-18 02:34:50",
+      "album": {
+        "name": "Always with you",
+        "url": "https://open.spotify.com/album/1nmOHceICDLOOI3IgPHvdu"
+      },
+      "artists": [
+        {
+          "name": "Kim MinSeok",
+          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Always with you",
+      "url": "https://open.spotify.com/track/6tNtfR4sJfEzQmjhg7gWzy"
     },
     {
       "added_at": "2023-04-18 02:34:50",
@@ -1671,22 +1691,6 @@
       "duration_ms": 246320,
       "name": "Walk With Me",
       "url": "https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0"
-    },
-    {
-      "added_at": "2023-04-18 02:34:50",
-      "album": {
-        "name": "Eternal",
-        "url": "https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3"
-      },
-      "artists": [
-        {
-          "name": "Young K",
-          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
-        }
-      ],
-      "duration_ms": 208649,
-      "name": "come as you are",
-      "url": "https://open.spotify.com/track/6YAkb5lCO5mFePA6hvb4Qb"
     }
   ],
   "unique_name": "v o K a l",

@@ -1,12 +1,12 @@
 {
   "description": "Enjoy trendy & chill Korean R&B music. (Cover: TAEYANG & LISA(\ud0dc\uc591 & \ub9ac\uc0ac))",
-  "num_followers": 837843,
+  "num_followers": 838005,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjQxMzQ5NSwwMDAwMDAwMGNlYTg0ZWVjNmY5ODIyNjA4M2E0M2FiMzFkM2YwMTNk",
+  "snapshot_id": "MCxmNmFhZWJkOWZiZmFlZjU0MTUzYjkyOWZmNGQwYjgyYWE3NmM3OWMw",
   "tracks": [
     {
       "added_at": "2023-04-25 09:04:55",
@@ -515,22 +515,18 @@
     {
       "added_at": "2023-04-25 09:04:55",
       "album": {
-        "name": "GANADARA",
-        "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
+        "name": "I AM SHAMPOO",
+        "url": "https://open.spotify.com/album/2MH5K8RTLoLzkpgtIYWFUe"
       },
       "artists": [
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
         }
       ],
-      "duration_ms": 203727,
-      "name": "GANADARA (Feat. IU)",
-      "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
+      "duration_ms": 141259,
+      "name": "I AM SHAMPOO",
+      "url": "https://open.spotify.com/track/164rrRJLHNzPKIR82BCDQU"
     },
     {
       "added_at": "2023-04-25 09:04:55",
@@ -567,18 +563,22 @@
     {
       "added_at": "2023-04-25 09:04:55",
       "album": {
-        "name": "I AM SHAMPOO",
-        "url": "https://open.spotify.com/album/2MH5K8RTLoLzkpgtIYWFUe"
+        "name": "GANADARA",
+        "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
       },
       "artists": [
         {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 141259,
-      "name": "I AM SHAMPOO",
-      "url": "https://open.spotify.com/track/164rrRJLHNzPKIR82BCDQU"
+      "duration_ms": 203727,
+      "name": "GANADARA (Feat. IU)",
+      "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
     },
     {
       "added_at": "2023-04-25 09:04:55",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-04-25 09:04:55",
       "album": {
+        "name": "Sour & Sweet",
+        "url": "https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET"
+      },
+      "artists": [
+        {
+          "name": "BamBam",
+          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
+        }
+      ],
+      "duration_ms": 134933,
+      "name": "TIPPY TOE",
+      "url": "https://open.spotify.com/track/4QZ822qY72CrhhPaJAvQZ0"
+    },
+    {
+      "added_at": "2023-04-25 09:04:55",
+      "album": {
         "name": "Gotta Get Back (feat. Pink Sweat$)",
         "url": "https://open.spotify.com/album/1jdmu8Za7AUiiHTOi6u5tO"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 179333,
       "name": "Gotta Get Back (feat. Pink Sweat$)",
       "url": "https://open.spotify.com/track/5760o7vIytByWNmmf115wj"
-    },
-    {
-      "added_at": "2023-04-25 09:04:55",
-      "album": {
-        "name": "Sour & Sweet",
-        "url": "https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET"
-      },
-      "artists": [
-        {
-          "name": "BamBam",
-          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
-        }
-      ],
-      "duration_ms": 134933,
-      "name": "TIPPY TOE",
-      "url": "https://open.spotify.com/track/4QZ822qY72CrhhPaJAvQZ0"
     },
     {
       "added_at": "2023-04-25 09:04:55",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-04-25 09:04:55",
       "album": {
-        "name": "Seasonal Hiatus",
-        "url": "https://open.spotify.com/album/0aIwKONwBn7YD25RrM4445"
-      },
-      "artists": [
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        }
-      ],
-      "duration_ms": 218706,
-      "name": "One Moment",
-      "url": "https://open.spotify.com/track/3TYs2qtL4hCfZbMypOHYvQ"
-    },
-    {
-      "added_at": "2023-04-25 09:04:55",
-      "album": {
         "name": "Lovers In The Night",
         "url": "https://open.spotify.com/album/5qewqwnafgBx455s6LNcWv"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 210546,
       "name": "Lovers In The Night",
       "url": "https://open.spotify.com/track/2dX2W20qzwqM6G910woDKo"
+    },
+    {
+      "added_at": "2023-04-25 09:04:55",
+      "album": {
+        "name": "Seasonal Hiatus",
+        "url": "https://open.spotify.com/album/0aIwKONwBn7YD25RrM4445"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        }
+      ],
+      "duration_ms": 218706,
+      "name": "One Moment",
+      "url": "https://open.spotify.com/track/3TYs2qtL4hCfZbMypOHYvQ"
     },
     {
       "added_at": "2023-04-25 09:04:55",
@@ -1179,42 +1179,6 @@
     {
       "added_at": "2023-04-25 09:04:55",
       "album": {
-        "name": "nostalgia",
-        "url": "https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        },
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "nostalgia",
-      "url": "https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi"
-    },
-    {
-      "added_at": "2023-04-25 09:04:55",
-      "album": {
-        "name": "Irene",
-        "url": "https://open.spotify.com/album/1lQl6XgV5kmfxQQDGNo71F"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        }
-      ],
-      "duration_ms": 199672,
-      "name": "Irene",
-      "url": "https://open.spotify.com/track/3TaUP2qulb5m6gKDdPqV3k"
-    },
-    {
-      "added_at": "2023-04-25 09:04:55",
-      "album": {
         "name": "Spring in Winter",
         "url": "https://open.spotify.com/album/6P7fxKRc6pVe7Ae21s0Re9"
       },
@@ -1255,6 +1219,42 @@
       "duration_ms": 210853,
       "name": "\uae34 \ubc24 (feat. GIRIBOY)",
       "url": "https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E"
+    },
+    {
+      "added_at": "2023-04-25 09:04:55",
+      "album": {
+        "name": "nostalgia",
+        "url": "https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi"
+    },
+    {
+      "added_at": "2023-04-25 09:04:55",
+      "album": {
+        "name": "Irene",
+        "url": "https://open.spotify.com/album/1lQl6XgV5kmfxQQDGNo71F"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 199672,
+      "name": "Irene",
+      "url": "https://open.spotify.com/track/3TaUP2qulb5m6gKDdPqV3k"
     },
     {
       "added_at": "2023-04-25 09:04:55",

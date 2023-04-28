@@ -1,12 +1,12 @@
 {
   "description": "2010 highlights from the home of indie music. Cover: Gorillaz.",
-  "num_followers": 163932,
+  "num_followers": 164181,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM3NzQ4NSwwMDAwMDAwMDc1YTdiNGQwNGNkZmQ3MTEwNjRjODJkNmE2MjUxOWU4",
+  "snapshot_id": "MCxkMjU1MjRlZmY2YzIxMTRiNDNiOTQxZTNmOTg1ZjlkNWVjN2MzNzNj",
   "tracks": [
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1127,8 +1127,8 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "The Suburbs",
-        "url": "https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI"
+        "name": "The Suburbs (Deluxe)",
+        "url": "https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F"
       },
       "artists": [
         {
@@ -1136,25 +1136,9 @@
           "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
         }
       ],
-      "duration_ms": 301400,
-      "name": "We Used to Wait",
-      "url": "https://open.spotify.com/track/37EmPMVwdBaKs7UhJOkHUU"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
-        "name": "Before Today",
-        "url": "https://open.spotify.com/album/4dFE0GGL1lOGd76kx6yl4J"
-      },
-      "artists": [
-        {
-          "name": "Ariel Pink",
-          "url": "https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN"
-        }
-      ],
-      "duration_ms": 308680,
-      "name": "Round and Round",
-      "url": "https://open.spotify.com/track/0IpxdHYUGxYvhZTeCdppH6"
+      "duration_ms": 279746,
+      "name": "Modern Man",
+      "url": "https://open.spotify.com/track/5VWRCDKukSgYRAhXMriSCu"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1171,6 +1155,22 @@
       "duration_ms": 321496,
       "name": "One Life Stand",
       "url": "https://open.spotify.com/track/1BfXy0gM3tmB6Jc1QdtaLj"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Before Today",
+        "url": "https://open.spotify.com/album/4dFE0GGL1lOGd76kx6yl4J"
+      },
+      "artists": [
+        {
+          "name": "Ariel Pink",
+          "url": "https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN"
+        }
+      ],
+      "duration_ms": 308680,
+      "name": "Round and Round",
+      "url": "https://open.spotify.com/track/0IpxdHYUGxYvhZTeCdppH6"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1223,8 +1223,8 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "The Suburbs (Deluxe)",
-        "url": "https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F"
+        "name": "The Suburbs",
+        "url": "https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI"
       },
       "artists": [
         {
@@ -1232,9 +1232,9 @@
           "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
         }
       ],
-      "duration_ms": 279746,
-      "name": "Modern Man",
-      "url": "https://open.spotify.com/track/5VWRCDKukSgYRAhXMriSCu"
+      "duration_ms": 301400,
+      "name": "We Used to Wait",
+      "url": "https://open.spotify.com/track/37EmPMVwdBaKs7UhJOkHUU"
     },
     {
       "added_at": "2021-10-05 08:40:49",

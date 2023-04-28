@@ -1,12 +1,12 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 156823,
+  "num_followers": 157086,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjAwNjQwMCwwMDAwMDAwMDlhYzcwODA0ZTJkYWRlMzFjMTg5YjdkODc2NTQ4MjIw",
+  "snapshot_id": "MCxjNDNmNmIxZjUwZTU0NDBkNzVlYWFhOWUyMzIzZGI0MTg4YzkyNjcw",
   "tracks": [
     {
       "added_at": "2023-04-20 16:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-04-20 16:00:00",
       "album": {
+        "name": "L7 Blues",
+        "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "duration_ms": 141974,
+      "name": "L7 Blues",
+      "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
+    },
+    {
+      "added_at": "2023-04-20 16:00:00",
+      "album": {
         "name": "Head In The Clouds Forever",
         "url": "https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 152910,
       "name": "Best Lover",
       "url": "https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq"
-    },
-    {
-      "added_at": "2023-04-20 16:00:00",
-      "album": {
-        "name": "L7 Blues",
-        "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
-      },
-      "artists": [
-        {
-          "name": "LANA",
-          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
-        }
-      ],
-      "duration_ms": 141974,
-      "name": "L7 Blues",
-      "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
     },
     {
       "added_at": "2023-04-20 16:00:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-04-20 16:00:00",
       "album": {
+        "name": "plum blossom",
+        "url": "https://open.spotify.com/album/6awIkxDLnbvhD1Wxrvwvb5"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 124853,
+      "name": "feelings are fatal",
+      "url": "https://open.spotify.com/track/6GGdkwYk4NXuiIcQD16AZg"
+    },
+    {
+      "added_at": "2023-04-20 16:00:00",
+      "album": {
         "name": "Steal The Show",
         "url": "https://open.spotify.com/album/33wEkd2cvVdHa8dS3gusji"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 180640,
       "name": "Steal The Show",
       "url": "https://open.spotify.com/track/2xGRrcajSvRlBbAXds2l7u"
-    },
-    {
-      "added_at": "2023-04-20 16:00:00",
-      "album": {
-        "name": "plum blossom",
-        "url": "https://open.spotify.com/album/6awIkxDLnbvhD1Wxrvwvb5"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 124853,
-      "name": "feelings are fatal",
-      "url": "https://open.spotify.com/track/6GGdkwYk4NXuiIcQD16AZg"
     },
     {
       "added_at": "2023-04-20 16:00:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-04-20 16:00:00",
       "album": {
+        "name": "Dancing with my phone",
+        "url": "https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 203532,
+      "name": "Dancing with my phone",
+      "url": "https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict"
+    },
+    {
+      "added_at": "2023-04-20 16:00:00",
+      "album": {
         "name": "Nicole",
         "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 207013,
       "name": "Split",
       "url": "https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0"
-    },
-    {
-      "added_at": "2023-04-20 16:00:00",
-      "album": {
-        "name": "Dancing with my phone",
-        "url": "https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 203532,
-      "name": "Dancing with my phone",
-      "url": "https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict"
     },
     {
       "added_at": "2023-04-20 16:00:00",
@@ -1403,6 +1403,30 @@
     {
       "added_at": "2023-04-20 16:00:00",
       "album": {
+        "name": "Good Care",
+        "url": "https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        },
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        },
+        {
+          "name": "asiatic.wav",
+          "url": "https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx"
+        }
+      ],
+      "duration_ms": 194550,
+      "name": "Good Care",
+      "url": "https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8"
+    },
+    {
+      "added_at": "2023-04-20 16:00:00",
+      "album": {
         "name": "Fade (English Version)",
         "url": "https://open.spotify.com/album/0KTF15ps0q5IfKX8Ec7mZR"
       },
@@ -1451,30 +1475,6 @@
     {
       "added_at": "2023-04-20 16:00:00",
       "album": {
-        "name": "Good Care",
-        "url": "https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        },
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        },
-        {
-          "name": "asiatic.wav",
-          "url": "https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx"
-        }
-      ],
-      "duration_ms": 194550,
-      "name": "Good Care",
-      "url": "https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8"
-    },
-    {
-      "added_at": "2023-04-20 16:00:00",
-      "album": {
         "name": "Things I Could Never Say to You",
         "url": "https://open.spotify.com/album/6R2naLxf7L5f1G2OLTY6wC"
       },
@@ -1487,6 +1487,30 @@
       "duration_ms": 198466,
       "name": "Things I Could Never Say to You",
       "url": "https://open.spotify.com/track/2J4ZN4hnqbF4UFsVtJB7Ox"
+    },
+    {
+      "added_at": "2023-04-20 16:00:00",
+      "album": {
+        "name": "No Explanations",
+        "url": "https://open.spotify.com/album/5DfXqXeruwDNlfcCxxjKN9"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        },
+        {
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "ZHANG YANQI",
+          "url": "https://open.spotify.com/artist/0ygjYRcmPUdSwSnN47xq8F"
+        }
+      ],
+      "duration_ms": 187062,
+      "name": "No Explanations",
+      "url": "https://open.spotify.com/track/6C8nmYYiWCess3VeX3z8ub"
     },
     {
       "added_at": "2023-04-20 16:00:00",
@@ -1527,46 +1551,18 @@
     {
       "added_at": "2023-04-20 16:00:00",
       "album": {
-        "name": "No Explanations",
-        "url": "https://open.spotify.com/album/5DfXqXeruwDNlfcCxxjKN9"
+        "name": "Making Steak",
+        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
       },
       "artists": [
         {
-          "name": "Stephanie Poetri",
-          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
-        },
-        {
-          "name": "Elephante",
-          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
-        },
-        {
-          "name": "ZHANG YANQI",
-          "url": "https://open.spotify.com/artist/0ygjYRcmPUdSwSnN47xq8F"
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
         }
       ],
-      "duration_ms": 187062,
-      "name": "No Explanations",
-      "url": "https://open.spotify.com/track/6C8nmYYiWCess3VeX3z8ub"
-    },
-    {
-      "added_at": "2023-04-20 16:00:00",
-      "album": {
-        "name": "I Choose U (feat. RINI)",
-        "url": "https://open.spotify.com/album/0DcgdM3SS9A8wEig25dsqh"
-      },
-      "artists": [
-        {
-          "name": "RIMON",
-          "url": "https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm"
-        },
-        {
-          "name": "RINI",
-          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
-        }
-      ],
-      "duration_ms": 202706,
-      "name": "I Choose U (feat. RINI)",
-      "url": "https://open.spotify.com/track/7zHOs0OLz4CmB8LHcf1NNv"
+      "duration_ms": 202750,
+      "name": "Would You Mind",
+      "url": "https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa"
     },
     {
       "added_at": "2023-04-20 16:00:00",
@@ -1587,18 +1583,22 @@
     {
       "added_at": "2023-04-20 16:00:00",
       "album": {
-        "name": "Making Steak",
-        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
+        "name": "I Choose U (feat. RINI)",
+        "url": "https://open.spotify.com/album/0DcgdM3SS9A8wEig25dsqh"
       },
       "artists": [
         {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+          "name": "RIMON",
+          "url": "https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm"
+        },
+        {
+          "name": "RINI",
+          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
         }
       ],
-      "duration_ms": 202750,
-      "name": "Would You Mind",
-      "url": "https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa"
+      "duration_ms": 202706,
+      "name": "I Choose U (feat. RINI)",
+      "url": "https://open.spotify.com/track/7zHOs0OLz4CmB8LHcf1NNv"
     },
     {
       "added_at": "2023-04-20 16:00:00",
@@ -1631,34 +1631,6 @@
       "duration_ms": 230000,
       "name": "Chilly",
       "url": "https://open.spotify.com/track/6H3TW6uEe3RxW8CcnXJfq2"
-    },
-    {
-      "added_at": "2023-04-20 16:00:00",
-      "album": {
-        "name": "Good In Me",
-        "url": "https://open.spotify.com/album/7kRF85QX88b5aPkxE2jbRX"
-      },
-      "artists": [
-        {
-          "name": "Bones & The Boy",
-          "url": "https://open.spotify.com/artist/0AF2gJIJJdCVC4nNRcYI9B"
-        },
-        {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
-        },
-        {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
-        },
-        {
-          "name": "Yung Lee Records",
-          "url": "https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw"
-        }
-      ],
-      "duration_ms": 148027,
-      "name": "Good In Me",
-      "url": "https://open.spotify.com/track/1JuUVeHRjVl081qqccxySe"
     },
     {
       "added_at": "2023-04-20 16:00:00",
@@ -1707,6 +1679,34 @@
       "duration_ms": 133897,
       "name": "24",
       "url": "https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429"
+    },
+    {
+      "added_at": "2023-04-20 16:00:00",
+      "album": {
+        "name": "Good In Me",
+        "url": "https://open.spotify.com/album/7kRF85QX88b5aPkxE2jbRX"
+      },
+      "artists": [
+        {
+          "name": "Bones & The Boy",
+          "url": "https://open.spotify.com/artist/0AF2gJIJJdCVC4nNRcYI9B"
+        },
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        },
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        },
+        {
+          "name": "Yung Lee Records",
+          "url": "https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw"
+        }
+      ],
+      "duration_ms": 148027,
+      "name": "Good In Me",
+      "url": "https://open.spotify.com/track/1JuUVeHRjVl081qqccxySe"
     }
   ],
   "unique_name": "tapioca",

@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Septeto Acarey
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,632 likes - 80 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,715 likes - 80 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cómo Se Cura una Herida](https://open.spotify.com/track/08wrPjhluxqZ14lOkoZiel) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Cómo Se Cura una Herida](https://open.spotify.com/album/0mmyV7UsBA9DgZJurgWqqL) | 4:59 |
-| 2 | [Mala y Peligrosa \(feat\. Bad Bunny\)](https://open.spotify.com/track/0afpbPmRHldjP59YRslQz9) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Mala y Peligrosa \(feat\. Bad Bunny\)](https://open.spotify.com/album/5g7QwZJvDLvaSGjqFVex0d) | 4:24 |
-| 3 | [Ese Hombre](https://open.spotify.com/track/0j91VTv3PrBm4qtHSnzjqw) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK), [Los Barraza](https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs) | [Ese Hombre](https://open.spotify.com/album/7sBMGYMGE2bJLQwjoc2o0c) | 4:36 |
-| 4 | [Usted No Sabe](https://open.spotify.com/track/35CmU6oPcyuzqxUk1nD5FJ) | [Bamboleo](https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4) | [De Cuba a Perú](https://open.spotify.com/album/3Xbra0UAgQW7JPl6BEpvep) | 4:55 |
-| 5 | [No Te Contaron Mal](https://open.spotify.com/track/0jLNtXSoXNQ09T3zyhBPDl) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU) | [No Te Contaron Mal](https://open.spotify.com/album/6aELgtAHSfkmKVNKqDxE86) | 4:36 |
-| 6 | [Probablemente](https://open.spotify.com/track/2eM20Ku7jc2DVpV1EHNpra) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Probablemente](https://open.spotify.com/album/32AgR7Sj131DnYVqwzAELP) | 5:00 |
-| 7 | [La Fórmula](https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [La Fórmula](https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2) | 4:27 |
-| 8 | [De Qué Manera](https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [De Qué Manera](https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH) | 3:13 |
-| 9 | [Gotas De Lluvia](https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [20th Anniversary](https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW) | 5:54 |
-| 10 | [Conteo Regresivo \- Salsa Version](https://open.spotify.com/track/37nXsqE1XW0cxOQvIMsmFc) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Contraste](https://open.spotify.com/album/00LOUiA5823qxkOcHiio0W) | 4:26 |
-| 11 | [Ya No Te Amo](https://open.spotify.com/track/4oEHUVWr6GnvaszaHqSdoi) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Ya No Te Amo](https://open.spotify.com/album/70clE19xMTQeZRbMx5DIMM) | 3:56 |
-| 12 | [La Llamada](https://open.spotify.com/track/2CPXNiBLtEqrk0C8POsnW5) | [Josimar y Su Yambú](https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs) | [La Llamada](https://open.spotify.com/album/2KfaELlsmIPx2oQka4ZMZY) | 3:42 |
+| 1 | [Mala y Peligrosa \(feat\. Bad Bunny\)](https://open.spotify.com/track/0afpbPmRHldjP59YRslQz9) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Mala y Peligrosa \(feat\. Bad Bunny\)](https://open.spotify.com/album/5g7QwZJvDLvaSGjqFVex0d) | 4:24 |
+| 2 | [No Te Contaron Mal](https://open.spotify.com/track/0jLNtXSoXNQ09T3zyhBPDl) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU) | [No Te Contaron Mal](https://open.spotify.com/album/6aELgtAHSfkmKVNKqDxE86) | 4:36 |
+| 3 | [El Que Ama Sufre](https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:49 |
+| 4 | [Probablemente](https://open.spotify.com/track/2eM20Ku7jc2DVpV1EHNpra) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Probablemente](https://open.spotify.com/album/32AgR7Sj131DnYVqwzAELP) | 5:00 |
+| 5 | [Cómo Se Cura una Herida](https://open.spotify.com/track/08wrPjhluxqZ14lOkoZiel) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Cómo Se Cura una Herida](https://open.spotify.com/album/0mmyV7UsBA9DgZJurgWqqL) | 4:59 |
+| 6 | [Ese Hombre](https://open.spotify.com/track/0j91VTv3PrBm4qtHSnzjqw) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK), [Los Barraza](https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs) | [Ese Hombre](https://open.spotify.com/album/7sBMGYMGE2bJLQwjoc2o0c) | 4:36 |
+| 7 | [Usted No Sabe](https://open.spotify.com/track/35CmU6oPcyuzqxUk1nD5FJ) | [Bamboleo](https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4) | [De Cuba a Perú](https://open.spotify.com/album/3Xbra0UAgQW7JPl6BEpvep) | 4:55 |
+| 8 | [Ya Te Olvidé](https://open.spotify.com/track/6eXiusG4axQAXMTyY7Ic1n) | [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I) | [Ya Te Olvidé](https://open.spotify.com/album/7mtNsYPDkbixPzprApB0j0) | 4:15 |
+| 9 | [La Fórmula](https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [La Fórmula](https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2) | 4:27 |
+| 10 | [De Qué Manera](https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [De Qué Manera](https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH) | 3:13 |
+| 11 | [Gotas De Lluvia](https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [20th Anniversary](https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW) | 5:54 |
+| 12 | [Conteo Regresivo \- Salsa Version](https://open.spotify.com/track/37nXsqE1XW0cxOQvIMsmFc) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Contraste](https://open.spotify.com/album/00LOUiA5823qxkOcHiio0W) | 4:26 |
 | 13 | [Hasta Mañana](https://open.spotify.com/track/0E7la0I7QrV6RKtBaCQqvg) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU), [Amy Gutiérrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Hasta Mañana](https://open.spotify.com/album/28IZL9yZMubsra0WDYmL3o) | 3:52 |
 | 14 | [Fabricando Fantasías](https://open.spotify.com/track/5wtobh7w5HnPnZse4dRd8s) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Fabricando Fantasías](https://open.spotify.com/album/4FKwqeMsUmUsNCS2EXtjZJ) | 3:57 |
 | 15 | [Ahora \- \(Nueva Versión\)](https://open.spotify.com/track/7zi38N4DOCN6Rge2x2tzZM) | [Jayo Y Los Que Son](https://open.spotify.com/artist/4PBNiPbHphKFQElFxwDSLW), [N'Samble](https://open.spotify.com/artist/7Ksq8BTaGcbM7OgVQi3y8f) | [Ahora \(Nueva Versión\)](https://open.spotify.com/album/2d17SB6GGlRGML8e2iRnmF) | 4:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 | 79 | [Amarte Duele Así](https://open.spotify.com/track/5TE1mAaQJZS8VQPBN0eADT) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Amarte Duele Así](https://open.spotify.com/album/5SoaSY0mexom8MbC4sbzSP) | 4:28 |
 | 80 | [Si No Es Contigo](https://open.spotify.com/track/50GLVAzqvKamz7pArlrHST) | [Los Barraza](https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs) | [Si No Es Contigo](https://open.spotify.com/album/6oM1bBU97ZRAduzNcBCCqj) | 4:44 |
 
-Snapshot ID: `MTY4MjA1MzI2MCwwMDAwMDAwMGY3MzBmYzNlMTA0YTk2YmNkOTI4ZDg5MzEwYmYxZTZk`
+Snapshot ID: `MCxiNDJlNzZlZDQwNzkwYTJjZGI3MmQ4NTFhODJjZTQ2ZThlYTIxNmVm`

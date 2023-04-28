@@ -4,7 +4,7 @@
 
 > Prendete con tu lista favorita de Dembow\. Foto: Angel Dior & Flow 28
 
-338 songs - 18 hr 48 min
+339 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [La Chapa Que Vibran](https://open.spotify.com/track/6cFckWKvl4IrBmRZI995kG) | [La Materialista](https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6) | [Trayectoria](https://open.spotify.com/album/1dovid8Cb5WCdaUCccteeh) | 3:35 | 2021-12-10 |  |
 | [La Cueva de los Indios \- Remix](https://open.spotify.com/track/4f35SGCtFl13L0PrEWCrXK) | [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj) | [Desacatao](https://open.spotify.com/album/68MjsIj25Rbk2DLSneBafM) | 3:18 | 2021-12-10 | 2022-07-28 |
 | [La Gente Ta' Loca \- Remix](https://open.spotify.com/track/1xnkJ7O4Sz7D6vxPyjZkQt) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj) | [La Gente Ta' Loca \(Remix\)](https://open.spotify.com/album/7FSljR58CzFZISeEMj5bO1) | 3:38 | 2021-12-10 |  |
-| [La Gomita](https://open.spotify.com/track/0QQbO11ji2wf2VitEQpCZL) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [La Gomita](https://open.spotify.com/album/1TQ1nTb1tVfHnQOUtXKTx4) | 2:43 | 2021-12-10 |  |
+| [La Gomita](https://open.spotify.com/track/0QQbO11ji2wf2VitEQpCZL) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [La Gomita](https://open.spotify.com/album/1TQ1nTb1tVfHnQOUtXKTx4) | 2:43 | 2021-12-10 | 2023-04-28 |
 | [La Lata](https://open.spotify.com/track/7Irs3xFqYdiNobk4WoXQUz) | [Principe Baru](https://open.spotify.com/artist/7pqTCXbnpkMutsNHe9nsdR) | [La Lata](https://open.spotify.com/album/13jw4VHvJs7a4j2o7bqnxq) | 3:39 | 2022-01-04 | 2022-07-18 |
 | [La Lata](https://open.spotify.com/track/6v12ojSTCebuRwkHVzit0G) | [Principe Baru](https://open.spotify.com/artist/7pqTCXbnpkMutsNHe9nsdR) | [La Lata](https://open.spotify.com/album/0E3fHngM4igfBCqYUghz4O) | 3:39 | 2022-11-21 |  |
 | [La Lengua](https://open.spotify.com/track/7evzE113CP4zTR5dsCAjjY) | [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj) | [Exitos del Dembow](https://open.spotify.com/album/58UaKpvZpeuefnHUhIrap0) | 3:43 | 2022-01-04 | 2022-07-26 |
@@ -293,6 +293,7 @@
 | [Subete](https://open.spotify.com/track/7IKPzIshm586JYCchDyfAc) | [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Subete](https://open.spotify.com/album/7goblZdJaGWwVHICaveWJm) | 3:44 | 2022-10-14 | 2022-11-13 |
 | [Suena Rum Rum \- Remix](https://open.spotify.com/track/3UT7UGEQ6kWJquGus7QLAg) | [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV), [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [El Fecho RD](https://open.spotify.com/artist/2qHuI4Avg4Dbowhu8whV9e) | [Suena Rum Rum \(Remix\)](https://open.spotify.com/album/7kwmtvsBvSqqNCifTMaaYD) | 3:49 | 2021-12-10 | 2022-07-27 |
 | [Superman Sin Capa](https://open.spotify.com/track/1UuZIUgkiVPhIkhbYlLTeD) | [El Super Nuevo](https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu) | [Superman Sin Capa](https://open.spotify.com/album/54sBUl14e0fc7YZGX8dWdP) | 3:50 | 2022-08-19 | 2023-04-27 |
+| [Superman Sin Capa](https://open.spotify.com/track/5bLkmB9V0QHFgWp5l6tjTu) | [El Super Nuevo](https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu) | [Superman Sin Capa](https://open.spotify.com/album/0f56MwqUhzcublt1lQvycw) | 3:50 | 2023-03-10 |  |
 | [Superman Sin Capa](https://open.spotify.com/track/7enqOzlUkUH0M1tHYwRTYO) | [El Super Nuevo](https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu) | [Exitos 2016](https://open.spotify.com/album/6E4LSrujttW94zndcvmhfl) | 3:50 | 2021-12-10 | 2022-09-09 |
 | [Superman Sin Capa Remix / Sientate en ese Deo / Dale Paya / Trompeta / Tan Celoso / La Malondra / Hoy Me Desacato](https://open.spotify.com/track/1942qHTkX9BH5eWlcFUzDY) | [La Nueva Escuela Del Dembow](https://open.spotify.com/artist/1LWSIkk5LVBICKZCavZSid) | [Suena El Dembow \(Vol\. 3\)](https://open.spotify.com/album/7C5LZiJ9Ai3tMUX8Y7O4V3) | 20:28 | 2021-12-10 | 2022-07-29 |
 | [Súbete \- Remix](https://open.spotify.com/track/05WXONH3xdiHxSu5DhpiEn) | [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Súbete \(Remix\)](https://open.spotify.com/album/78QWGK9gFkGl3eB2Iur6Q5) | 4:54 | 2021-12-10 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "It\u2019s a swing thing.",
-  "num_followers": 111206,
+  "num_followers": 111247,
   "original_name": "Swing Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NDc5OCwwMDAwMDAwMDczYWNjODdiNWNmZmUxODY1OTdiZjQ2N2I2ZDZjYzJh",
+  "snapshot_id": "MCw5YzczNDEzMmZlZmNkNjM4NDIxOTBjOGRmY2JjZGI0ZDAwN2QyMjcz",
   "tracks": [
     {
       "added_at": "2022-03-28 19:13:18",
@@ -459,18 +459,18 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "One Hour Mama",
-        "url": "https://open.spotify.com/album/2xkUpEUdHYEuXk0iZGZRsk"
+        "name": "Blue Pariah",
+        "url": "https://open.spotify.com/album/48gnAQBwCcEqxXj9nfsYpS"
       },
       "artists": [
         {
-          "name": "Lavay Smith & Her Red Hot Skillet Lickers",
-          "url": "https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2"
+          "name": "Big Rude Jake",
+          "url": "https://open.spotify.com/artist/27A12UIlenEiLoCbYk8KaA"
         }
       ],
-      "duration_ms": 193453,
-      "name": "Oo Poppa Do",
-      "url": "https://open.spotify.com/track/6RTsr8eiHVhCYxqbYFs0eX"
+      "duration_ms": 202466,
+      "name": "Swing Baby!",
+      "url": "https://open.spotify.com/track/19ckX4sy4F87WkxwbKcksC"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -491,50 +491,18 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Blue Pariah",
-        "url": "https://open.spotify.com/album/48gnAQBwCcEqxXj9nfsYpS"
+        "name": "One Hour Mama",
+        "url": "https://open.spotify.com/album/2xkUpEUdHYEuXk0iZGZRsk"
       },
       "artists": [
         {
-          "name": "Big Rude Jake",
-          "url": "https://open.spotify.com/artist/27A12UIlenEiLoCbYk8KaA"
+          "name": "Lavay Smith & Her Red Hot Skillet Lickers",
+          "url": "https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2"
         }
       ],
-      "duration_ms": 202466,
-      "name": "Swing Baby!",
-      "url": "https://open.spotify.com/track/19ckX4sy4F87WkxwbKcksC"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
-        "name": "Salutes the Great Entertainers",
-        "url": "https://open.spotify.com/album/5j6NI2UTBAJ1NcptiLqI1s"
-      },
-      "artists": [
-        {
-          "name": "Ray Gelato",
-          "url": "https://open.spotify.com/artist/5w106KVVwKZfzawD8dCYa3"
-        }
-      ],
-      "duration_ms": 165933,
-      "name": "The Joint is Jumpin'",
-      "url": "https://open.spotify.com/track/3LrDcOzd4gpkXanl4Xeqf1"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
-        "name": "Big Bad Voodoo Daddy",
-        "url": "https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj"
-      },
-      "artists": [
-        {
-          "name": "Big Bad Voodoo Daddy",
-          "url": "https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB"
-        }
-      ],
-      "duration_ms": 307493,
-      "name": "Mambo Swing",
-      "url": "https://open.spotify.com/track/54B4Cfi9Q4q17tDrs9YFzW"
+      "duration_ms": 193453,
+      "name": "Oo Poppa Do",
+      "url": "https://open.spotify.com/track/6RTsr8eiHVhCYxqbYFs0eX"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -555,6 +523,38 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
+        "name": "Big Bad Voodoo Daddy",
+        "url": "https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj"
+      },
+      "artists": [
+        {
+          "name": "Big Bad Voodoo Daddy",
+          "url": "https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB"
+        }
+      ],
+      "duration_ms": 307493,
+      "name": "Mambo Swing",
+      "url": "https://open.spotify.com/track/54B4Cfi9Q4q17tDrs9YFzW"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "Salutes the Great Entertainers",
+        "url": "https://open.spotify.com/album/5j6NI2UTBAJ1NcptiLqI1s"
+      },
+      "artists": [
+        {
+          "name": "Ray Gelato",
+          "url": "https://open.spotify.com/artist/5w106KVVwKZfzawD8dCYa3"
+        }
+      ],
+      "duration_ms": 165933,
+      "name": "The Joint is Jumpin'",
+      "url": "https://open.spotify.com/track/3LrDcOzd4gpkXanl4Xeqf1"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
         "name": "Calling All Jitterbugs!",
         "url": "https://open.spotify.com/album/0kfpd3xBZlh9hKGuUvDEbI"
       },
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "prozac nation",
-        "url": "https://open.spotify.com/album/3jQFs8CCV6r1pHgXadCGh5"
-      },
-      "artists": [
-        {
-          "name": "Bellevue Cadillac",
-          "url": "https://open.spotify.com/artist/5cuTmUgh0ZeNgiwcPchqs2"
-        }
-      ],
-      "duration_ms": 146760,
-      "name": "pull the plug",
-      "url": "https://open.spotify.com/track/1P1KQJ6d5Ri9VI1ljEpkdT"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
         "name": "Spread a Little Happiness",
         "url": "https://open.spotify.com/album/4V135Rn6LNvAchAyu6OUC7"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 164505,
       "name": "Simple Things",
       "url": "https://open.spotify.com/track/19HwojO9ZITydllvtcjVw8"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "prozac nation",
+        "url": "https://open.spotify.com/album/3jQFs8CCV6r1pHgXadCGh5"
+      },
+      "artists": [
+        {
+          "name": "Bellevue Cadillac",
+          "url": "https://open.spotify.com/artist/5cuTmUgh0ZeNgiwcPchqs2"
+        }
+      ],
+      "duration_ms": 146760,
+      "name": "pull the plug",
+      "url": "https://open.spotify.com/track/1P1KQJ6d5Ri9VI1ljEpkdT"
     },
     {
       "added_at": "2022-03-28 19:13:18",

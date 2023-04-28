@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-275 songs - 11 hr 48 min
+276 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [Great Moments](https://open.spotify.com/track/6VQ4N5ybijwCc6ugRlFztv) | [Manuel Boltano](https://open.spotify.com/artist/1VPn9LztA72am356jYFyMH) | [Great Moments](https://open.spotify.com/album/5omrW0RAtTjG9JIvvPpUW4) | 3:03 | 2022-03-04 | 2022-03-19 |
 | [Green Grass](https://open.spotify.com/track/3sh5zwu0r6FQWLtuhJciXv) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [Under The Oak](https://open.spotify.com/album/2kzu9YIymsuwYuTz8QFLgS) | 2:00 | 2022-03-04 | 2022-09-17 |
 | [Green Grove](https://open.spotify.com/track/254HGk3wJX7S8YgGaB6zWK) | [A.J\. Meadow](https://open.spotify.com/artist/6hqhZGNThHWF0vmysPbPAo) | [Green Grove](https://open.spotify.com/album/53RGo4pZgU1DslHViFKJ8N) | 2:17 | 2022-10-07 | 2022-11-05 |
-| [Green Grove](https://open.spotify.com/track/73bTH63konIKl1kFuZ26oI) | [A.J\. Meadow](https://open.spotify.com/artist/6hqhZGNThHWF0vmysPbPAo) | [Green Grove](https://open.spotify.com/album/5Sv7JHCWTANTxR8DzZA2GE) | 2:17 | 2022-10-28 |  |
+| [Green Grove](https://open.spotify.com/track/4baYQ5DpueDfAowcLUeBC9) | [A.J\. Meadow](https://open.spotify.com/artist/6hqhZGNThHWF0vmysPbPAo) | [Green Grove](https://open.spotify.com/album/0FqK8sZ2n2byVILgKSZJfN) | 2:17 | 2023-04-21 |  |
+| [Green Grove](https://open.spotify.com/track/73bTH63konIKl1kFuZ26oI) | [A.J\. Meadow](https://open.spotify.com/artist/6hqhZGNThHWF0vmysPbPAo) | [Green Grove](https://open.spotify.com/album/5Sv7JHCWTANTxR8DzZA2GE) | 2:17 | 2022-10-28 | 2023-04-28 |
 | [Green Meadow](https://open.spotify.com/track/0z2dmmunpl2LB0iozr4yYv) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Green Meadow](https://open.spotify.com/album/5w03krSmnpaXsVoF56X1Kc) | 2:04 | 2022-03-04 | 2022-07-01 |
 | [Grow](https://open.spotify.com/track/5cTMLXoFQg9KWOV6Z3kyd6) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Grow](https://open.spotify.com/album/5p37Dm2MrzMPi0V1DztLVj) | 2:38 | 2023-01-06 |  |
 | [Guarnieri](https://open.spotify.com/track/0rWUcQHJNWLZ4tkCJGhfpg) | [Oscar Roland](https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH) | [Foi Assim](https://open.spotify.com/album/0tA8gFpl3KiocUkvLWAtQH) | 2:57 | 2022-09-02 |  |

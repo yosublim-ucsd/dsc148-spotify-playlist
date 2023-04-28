@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 
 > Relax and take it slow today
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,724 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,731 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 | 99 | [Stay for a While](https://open.spotify.com/track/4Un0UIwMc6h7NYa4ZkjnCf) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [A Face Like Mine](https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk) | 4:04 |
 | 100 | [I Can't \(Acoustic\)](https://open.spotify.com/track/7jjeVkCrL7K9ej9Pxt76bb) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova Acoustic](https://open.spotify.com/album/6osrioku931TjO8ybo7oGX) | 3:32 |
 
-Snapshot ID: `MTY4MjA0OTY2MCwwMDAwMDAwMDcyZjE5MDczNmJkNjY2MDkzZjJlZWU2YTEwNmE0MWRl`
+Snapshot ID: `MCxhOWI4ZTg2Nzc4NWYzNDFkMGNjNDFiOGU1MzI1MDE5ZmRmMjY3ODg5`

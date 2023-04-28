@@ -2813,6 +2813,28 @@
     },
     {
       "album": {
+        "name": "Les Choristes (Bande originale du film)",
+        "url": "https://open.spotify.com/album/4vpt4mDNgzAnJN3a9Uonky"
+      },
+      "artists": [
+        {
+          "name": "Bruno Coulais",
+          "url": "https://open.spotify.com/artist/5kjb55jtwPnbYXXDvP4x7R"
+        },
+        {
+          "name": "Les Petits Chanteurs de Saint-Marc",
+          "url": "https://open.spotify.com/artist/026nk210FPO26xMwpoew70"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139773,
+      "name": "Vois sur ton chemin",
+      "url": "https://open.spotify.com/track/0HfK6NPVb69533dKqTPokh"
+    },
+    {
+      "album": {
         "name": "The Chorus (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4VVDHVgGIOh68k2VRq9tq0"
       },
@@ -2828,7 +2850,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 139773,
       "name": "Vois sur ton chemin",
       "url": "https://open.spotify.com/track/6Q00zs8KvmXWdwlHD7PZZ2"

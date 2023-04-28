@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: Jackson Wang and Ciara",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: Miguel",
   "name": "mood.",
   "tracks": [
     {
@@ -755,6 +755,24 @@
     },
     {
       "album": {
+        "name": "bum 2 me",
+        "url": "https://open.spotify.com/album/1TRVM0jgIiI8Sv61MGHPjM"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "bum 2 me",
+      "url": "https://open.spotify.com/track/6lKn8JoOM1Rgob6ebmAaGD"
+    },
+    {
+      "album": {
         "name": "buzz cut",
         "url": "https://open.spotify.com/album/4FHh7OcRS13Whv41NW30ux"
       },
@@ -878,7 +896,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 225246,
       "name": "Cheatback",
       "url": "https://open.spotify.com/track/157HuQLoRKG4r3zqQU2bwN"
@@ -1999,6 +2017,24 @@
     },
     {
       "album": {
+        "name": "Give It To Me",
+        "url": "https://open.spotify.com/album/26O1NsCrNRAVXBbHaNgkGn"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243539,
+      "name": "Give It To Me",
+      "url": "https://open.spotify.com/track/676xTEyKfYBOGYD0EuVrTq"
+    },
+    {
+      "album": {
         "name": "Glass",
         "url": "https://open.spotify.com/album/3Jf9qj802fXyKNLhFr6oQs"
       },
@@ -2601,6 +2637,24 @@
     },
     {
       "album": {
+        "name": "How Soon",
+        "url": "https://open.spotify.com/album/4jdF1Zm7qKtorqthSwAokK"
+      },
+      "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190596,
+      "name": "How Soon",
+      "url": "https://open.spotify.com/track/3xYN1E1k2yKo542ORTXM0G"
+    },
+    {
+      "album": {
         "name": "re-connecting....",
         "url": "https://open.spotify.com/album/1ogi6AzPjORdSXp11Vv1sg"
       },
@@ -2652,6 +2706,24 @@
       "duration_ms": 161411,
       "name": "i don\u2019t mind - RED",
       "url": "https://open.spotify.com/track/2Tr70FkraG5kJEsEehyRjC"
+    },
+    {
+      "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/0924Bbk86ZdrT2wbR2TaWG"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197459,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/4l1KcERjKWbbGw36LUza1c"
     },
     {
       "album": {
@@ -3914,7 +3986,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 185185,
       "name": "Moon Sailing",
       "url": "https://open.spotify.com/track/5ePFwKxJjoI7CotOENBfon"
@@ -4016,7 +4088,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 152238,
       "name": "My Luv (feat. Bibi Bourelly)",
       "url": "https://open.spotify.com/track/5nrzA4GIsgS1wdwY3q7cnt"
@@ -4216,7 +4288,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 182867,
       "name": "NO THANKS",
       "url": "https://open.spotify.com/track/1v50Kck2hGkYz3kqCGtFMa"
@@ -4912,7 +4984,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 121159,
       "name": "Pull My Hair",
       "url": "https://open.spotify.com/track/37X6Jr8cHBOCD9tsuv25MA"
@@ -5524,7 +5596,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 192181,
       "name": "Slow (with Ciara)",
       "url": "https://open.spotify.com/track/3ZrtBTReHr1xFDglmHwCX5"
@@ -6126,7 +6198,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 178333,
       "name": "Temporary (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/0bTiLwSo2xmhA6BcCXTOkx"
@@ -6432,7 +6504,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 174545,
       "name": "To be, or not to be ugly",
       "url": "https://open.spotify.com/track/25cJX61SWZCOlgNuvHf20c"
@@ -6494,7 +6566,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 199040,
       "name": "TODAY (Feat. Kim Mi Jeong)",
       "url": "https://open.spotify.com/track/6zgRMguVIineEcfwdy1ftt"
@@ -6516,6 +6588,24 @@
       "duration_ms": 211867,
       "name": "Too Far",
       "url": "https://open.spotify.com/track/45HLGBHegbepv8pcUsR7wI"
+    },
+    {
+      "album": {
+        "name": "Top Bop",
+        "url": "https://open.spotify.com/album/1AlFUvBhjG8jF3SR3dDOg0"
+      },
+      "artists": [
+        {
+          "name": "Iman Fandi",
+          "url": "https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151285,
+      "name": "Top Bop",
+      "url": "https://open.spotify.com/track/2MYQdWKJS2OFWDYcsTKhvo"
     },
     {
       "album": {
@@ -6668,7 +6758,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 213933,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/3htVhQPsTXWAkAXYRkfRSz"
@@ -6806,7 +6896,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 154531,
       "name": "Valentina",
       "url": "https://open.spotify.com/track/0s7Z1RtnsmiYOfSIbB3btD"
@@ -6886,7 +6976,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 200142,
       "name": "Wait On Me",
       "url": "https://open.spotify.com/track/1p1wnXfPEaVrMqk2tEZ2BH"

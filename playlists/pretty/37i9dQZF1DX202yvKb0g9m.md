@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 
 > A collection of tracks produced with the legendary TB\-303 rhythm composer\. Cover: Richie Hawtin
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,313 likes - 50 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,404 likes - 50 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 | 15 | [Acperience 1](https://open.spotify.com/track/2IQ61J0AFfjnxBm4lQEU0W) | [Hardfloor](https://open.spotify.com/artist/6z9JhbmcTrVKITp9ah4mJk) | [TB Resucitation](https://open.spotify.com/album/2ucG4BEW3uOUQgjdJ9c5GN) | 9:02 |
 | 16 | [Bassline](https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w) | [Mantronix](https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY) | [The Album](https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K) | 5:26 |
 | 17 | [DEFIANT ORDER](https://open.spotify.com/track/1GFVCLOATBClL1I1zLGjvO) | [Birdy Nam Nam](https://open.spotify.com/artist/4e7qJTThm5uI3CplqZObfT) | [Defiant Order](https://open.spotify.com/album/1MsCuVWBWkuk7sORdaFL4B) | 3:41 |
-| 18 | [I Love Acid](https://open.spotify.com/track/4BR6nukSZQ2AhNAoaHrtdw) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [YosepH](https://open.spotify.com/album/3qbvYXMKBxCEP6WHZBJktD) | 4:17 |
-| 19 | [Do I Do \- Extended Mix](https://open.spotify.com/track/26qBSwDTiiydtbXibx6fuq) | [Maurice McGee](https://open.spotify.com/artist/5LjPmruRksinKkKw8s81H2) | [Do I Do](https://open.spotify.com/album/1HVxSZYaIqn7ckoaIUhy5C) | 7:14 |
+| 18 | [Do I Do \- Extended Mix](https://open.spotify.com/track/26qBSwDTiiydtbXibx6fuq) | [Maurice McGee](https://open.spotify.com/artist/5LjPmruRksinKkKw8s81H2) | [Do I Do](https://open.spotify.com/album/1HVxSZYaIqn7ckoaIUhy5C) | 7:14 |
+| 19 | [I Love Acid](https://open.spotify.com/track/4BR6nukSZQ2AhNAoaHrtdw) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [YosepH](https://open.spotify.com/album/3qbvYXMKBxCEP6WHZBJktD) | 4:17 |
 | 20 | [Cardiology \(Isolée Mix\) \- Mixed](https://open.spotify.com/track/4AC2gUCUq3n1Iaxz2aYskJ) | [Recloose](https://open.spotify.com/artist/2klQbxaAVeQMof4GsPFH5S) | [DJ\-Kicks \(Motor City Drum Ensemble\) \[DJ Mix\]](https://open.spotify.com/album/2Z0yypS9AyYAbuxzeOAMhx) | 5:45 |
 | 21 | [No Way Back](https://open.spotify.com/track/7nQaBI1NTv5kpPyeMruTTK) | [Adonis](https://open.spotify.com/artist/3DxtKajg4nhMlf0qBES7sz) | [No Way Back](https://open.spotify.com/album/2VNvQnGB9tXRpLV2aOVrmX) | 4:55 |
 | 22 | [Charlie can't dance](https://open.spotify.com/track/1SPtQ4u1JIz7u4PRXYCqiY) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [stuff i used to do](https://open.spotify.com/album/3NqLE9V39dR0Pikwv1hYAA) | 2:21 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 | 27 | [Bowie in Harmony](https://open.spotify.com/track/0h3h7Mcu8m3Iw6MUQAWbsK) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Alientronic](https://open.spotify.com/album/72KCHzc8HIXxkpkErPbnPy) | 6:22 |
 | 28 | [Sumo Acid Crew](https://open.spotify.com/track/1AFkWwrrMMdeOocF4yB9rd) | [Palms Trax](https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA) | [In Gold](https://open.spotify.com/album/6RuqX6Qra8dmcmYJQ5ffcR) | 6:19 |
 | 29 | [Auto Machine](https://open.spotify.com/track/16qMkS25a2cS1xEV9S3wwC) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Basic Sketches For Beginners](https://open.spotify.com/album/61MlV5v8LMdY0wR13gZMuq) | 9:50 |
-| 30 | [Acid Thunder](https://open.spotify.com/track/25cVyUYzONCdHUeFWKbOol) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Jack to the Sound](https://open.spotify.com/album/3igGT17KIQSSgdugsQELLh) | 4:32 |
-| 31 | [Substance Abuse](https://open.spotify.com/track/3yo5BnK1cWRuAIMbJReCMZ) | [F.U.S.E.](https://open.spotify.com/artist/6qRKwyDhiTu2n9cOhbHict), [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy) | [Substance Abuse](https://open.spotify.com/album/2KLpnpPRuDx24So8bHiBXw) | 5:06 |
+| 30 | [Substance Abuse](https://open.spotify.com/track/3yo5BnK1cWRuAIMbJReCMZ) | [F.U.S.E.](https://open.spotify.com/artist/6qRKwyDhiTu2n9cOhbHict), [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy) | [Substance Abuse](https://open.spotify.com/album/2KLpnpPRuDx24So8bHiBXw) | 5:06 |
+| 31 | [Acid Thunder](https://open.spotify.com/track/25cVyUYzONCdHUeFWKbOol) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Jack to the Sound](https://open.spotify.com/album/3igGT17KIQSSgdugsQELLh) | 4:32 |
 | 32 | [Firecracker](https://open.spotify.com/track/61FZNafhhexdpEngWny5Wx) | [Todd Terje & The Olsens](https://open.spotify.com/artist/6JClxoCdn17qYJRwYDWDqq) | [The Big Cover\-Up](https://open.spotify.com/album/1p5C7xu6fz7z6IOVPWCIGt) | 6:31 |
 | 33 | [Acid Tracks](https://open.spotify.com/track/63eiF9VouGtmhiBKjm1LHU) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Acid Tracks](https://open.spotify.com/album/3yXJAOqJTv38NrPlwzCZro) | 12:19 |
 | 34 | [What Time Is Love / Time Of Love](https://open.spotify.com/track/2zxLPxHy1VCVfjayfTEV3u) | [K.l.f.s.](https://open.spotify.com/artist/0KlyyTMu0e8jWOmSfjt4Sj) | [What Time Is Love](https://open.spotify.com/album/50K3nUg5BsHNbzs79p2Zh7) | 6:15 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 | 44 | [Acid Trax](https://open.spotify.com/track/5j72kVstS2gHKl8zWJDNz0) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Phuture and Other Classics from DJ Pierre](https://open.spotify.com/album/1L4MtfrtI8QiieQPDfnBxy) | 11:49 |
 | 45 | [Ready My Black Asz](https://open.spotify.com/track/6XDdcBC0hQkRcQfYovxd4c) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI) | [Thank You for Letting Me Be Myself](https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi) | 5:24 |
 | 46 | [TAKE YOUR LIFE](https://open.spotify.com/track/2nl2twiYDrw6PAT4cy2Uev) | [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV), [Koogan](https://open.spotify.com/artist/0NDsaErrMCFW3S8PmwO5za) | [HAVEL](https://open.spotify.com/album/3pFWjCpLWiqqzuTcKRxwl7) | 3:30 |
-| 47 | [Acid Bit \(feat\. Addison Groove\)](https://open.spotify.com/track/2L2PKs5qpu0atU6MBVfIyS) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [Addison Groove](https://open.spotify.com/artist/6LG1BzyImz45pwMF6ft7Yr) | [Double Cup](https://open.spotify.com/album/21dsgJBSUM6IvAGFjfotgF) | 3:24 |
+| 47 | [Everybody Needs A 303](https://open.spotify.com/track/3JoEudxv4MYugQXrxMSUVs) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Better Living Through Chemistry](https://open.spotify.com/album/4q9EafI4cNCb3yMjEPoPCB) | 5:49 |
 | 48 | [Land Of Confusion](https://open.spotify.com/track/7o266LwHT9ITAHO8EJ4ETH) | [Armando](https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53) | [Trax Classix](https://open.spotify.com/album/1wrnRD0sIEcAvmpaW4QEHv) | 2:58 |
-| 49 | [Everybody Needs A 303](https://open.spotify.com/track/3JoEudxv4MYugQXrxMSUVs) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Better Living Through Chemistry](https://open.spotify.com/album/4q9EafI4cNCb3yMjEPoPCB) | 5:49 |
-| 50 | [Fantasy Girl \- Acid Mix](https://open.spotify.com/track/2NLiNwWW6wffgvQ11CTqN1) | [Pierre's Pfantasy Club](https://open.spotify.com/artist/40BpVERJ6kAjii1gogXcEk), [J.R.](https://open.spotify.com/artist/0NBCjCwv45St1Vqpv5bjyP) | [Fantasy Girl](https://open.spotify.com/album/5OAK0SGieqJ1jwW6vrVHjK) | 7:02 |
+| 49 | [Fantasy Girl \- Acid Mix](https://open.spotify.com/track/2NLiNwWW6wffgvQ11CTqN1) | [Pierre's Pfantasy Club](https://open.spotify.com/artist/40BpVERJ6kAjii1gogXcEk), [J.R.](https://open.spotify.com/artist/0NBCjCwv45St1Vqpv5bjyP) | [Fantasy Girl](https://open.spotify.com/album/5OAK0SGieqJ1jwW6vrVHjK) | 7:02 |
+| 50 | [Do You Feel The Same?](https://open.spotify.com/track/0irwK3Hld6BTGAWH9CFjop) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [The Feast Of The Broken Heart](https://open.spotify.com/album/6fyz9Ic9kY0zdayyNOpoKH) | 4:41 |
 
-Snapshot ID: `MTYzNTI1NjAyOSwwMDAwMDAwMDYwZmQ4MDU2MmM5Y2Y4OWEwOTY1ZTg3ZTY5MjAyZGY4`
+Snapshot ID: `MCw0NGY4MDM0ZmYyMjEwNDg4MWRiMjFmMjA1MThhYjZjM2VkYmNhMDU2`

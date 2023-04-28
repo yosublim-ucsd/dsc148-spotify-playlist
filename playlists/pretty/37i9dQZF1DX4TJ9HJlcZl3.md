@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 
 > Still yachting\. Cover: Young Gun Silver Fox
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,521 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,545 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 | 49 | [Everything To Everyone](https://open.spotify.com/track/50EIC4ElPCZgtyzwlmdNxj) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Earthtones](https://open.spotify.com/album/1K3XPBfAfPO7jJhqTq4xME) | 4:45 |
 | 50 | [Emily](https://open.spotify.com/track/0gAvRZbaMrnUsH8bmo8eg8) | [State Cows](https://open.spotify.com/artist/5O1GkdCKBSYzioJb4Jysiv), [Fredrik Lundgren](https://open.spotify.com/artist/5yRJ7bDOd8MvTsM8kaaWNz) | [High and Dry](https://open.spotify.com/album/6msgsUb3ZihJbdWcaSc7fd) | 3:54 |
 
-Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMDg4MzBkNzI0YTkyMjdiZDI0OGRjZTRlYjdkNDBmMDcx`
+Snapshot ID: `MCwxMGY4YjljNzQ0YThhYTIzY2Y2MzllZTViN2RhNzgyOWY4NzU4NzYy`

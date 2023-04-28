@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSy1uHq5qF1L.md) - [plain]
 
 > Beautiful mandolin music to accompany your Italian supper\. Buon appetito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,736 likes - 53 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,920 likes - 53 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSy1uHq5qF1L.md) - [plain]
 | 52 | [Cinque terre](https://open.spotify.com/track/5tlkjgGNPvGVOSdtlEz03i) | [Riccardo Gioggi](https://open.spotify.com/artist/6xRCOPh9hUpwCgPG4peyZL) | [Traditional music of italy](https://open.spotify.com/album/21lcrjRLEIAxkyQf9Ablgc) | 2:16 |
 | 53 | [Tutta pe' me](https://open.spotify.com/track/1Eq0N8Dobd5zbDwXp4UvRg) | [Mario Maglione](https://open.spotify.com/artist/5vGCZz8J0jZ5URIGoZkC3Y) | [Napoli...in smoking, vol\. 4](https://open.spotify.com/album/6voHe2KKZ6r55r0obEyYvi) | 4:05 |
 
-Snapshot ID: `MTYyODg1MzU4NSwwMDAwMDAwMGVkMzFlMjE1OTdiOTliZjAwMTQwZWIwNzQ4ODA3MTlh`
+Snapshot ID: `MCxiNjMzNzRjMjE1NWRkYWQ0MTdjNDYwMmVhZTczZDI4N2Q4NTY2MTZk`

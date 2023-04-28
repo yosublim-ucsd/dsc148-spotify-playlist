@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Lele Pons & Guaynaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,153 likes - 207 songs - 10 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,167 likes - 207 songs - 10 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -216,4 +216,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 206 | [Si La Ves](https://open.spotify.com/track/5tEw2szqiBIEnCKMOPFnfR) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [SI AYER FUERA HOY](https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts) | 3:48 |
 | 207 | [Debí Suponerlo](https://open.spotify.com/track/2pIIRKRwWSi1Sb29VYLOOa) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [SI AYER FUERA HOY](https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts) | 2:24 |
 
-Snapshot ID: `MTY4MjA4OTE1NywwMDAwMDAwMGFhYTkyNjJkZjdmNDZjZDk5YzgyNmZkMDU5MWE5ZDNm`
+Snapshot ID: `MCw4ZWYzMjMyYTM0ZTJmYTg4YzgzZDYxOTQ3ZmU3YTA0MzRiYzhhN2Q0`

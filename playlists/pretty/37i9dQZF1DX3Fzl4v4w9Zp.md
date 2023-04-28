@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: The Wood Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,900 likes - 149 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,939 likes - 149 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 148 | [Promise Rings](https://open.spotify.com/track/5JaHVcRCP2pBAYIes1VrjK) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Monoflora](https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE) | 4:14 |
 | 149 | [See The Light](https://open.spotify.com/track/28DIGBWD9YtAIit4ASWY3C) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Dreamland](https://open.spotify.com/album/1Mik9EmHCENXPMjHOgOwRB) | 2:50 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDA5NjQxZjk2ZDhiOWU0OTdkOTA3YmZjYWQ2ZTBjOGE3`
+Snapshot ID: `MCwxYjU1MTg4OWI5MzAzOGYyNzdhODk5YTI2M2MzYTllZTYxZDc4YWFk`

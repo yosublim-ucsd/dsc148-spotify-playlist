@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2zbyJVaPNZ.md) - [plain]
 
 > Ambient waves for ethereal days
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,873 likes - 150 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,955 likes - 150 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2zbyJVaPNZ.md) - [plain]
 | 149 | [Yes I](https://open.spotify.com/track/6S2QPyA5Lx2Y4wNxUT4HMd) | [Answer Code Request](https://open.spotify.com/artist/52NOZYgYNsmv3nS0me6cqO), [Jan Wagner](https://open.spotify.com/artist/2SoZ45FJ4E7EP43kPdtPxX) | [Yes I](https://open.spotify.com/album/4zrkxvozf8sXclGZVuGQMR) | 5:41 |
 | 150 | [Cosmic Dust](https://open.spotify.com/track/0yuKkb9X0PxKU5WWhpPD2i) | [Muffler](https://open.spotify.com/artist/4HSQ4ALTUXgWlSrhfc4LNA) | [Starburst](https://open.spotify.com/album/0lBv6vqeXWUSt8WKyIhv8j) | 3:51 |
 
-Snapshot ID: `MTY4MDc5MjQ5MiwwMDAwMDAwMDFiYWJkOWMwOTRlMTVkMjkyZjdhODljYjQyY2ZlNDcw`
+Snapshot ID: `MCw0MDNlMGY3MWMyZTJlMGM5YTM4Y2YwNWRjNTRmODc1MGU0YTcwY2Zm`

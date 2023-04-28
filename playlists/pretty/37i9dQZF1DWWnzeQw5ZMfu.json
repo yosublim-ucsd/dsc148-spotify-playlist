@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there. ",
-  "num_followers": 53950,
+  "num_followers": 54017,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDUyY2JmYTcwM2I0MDE4NjVlNzUxYTExYTZhMDZkMTJi",
+  "snapshot_id": "MCxmZGYyYzJhOGE0ZTk0NzU3NjMzZjI2YmEzZTgyZmE3ZTE2MWVlN2Nj",
   "tracks": [
     {
       "added_at": "2023-04-14 04:01:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Where the Light Is: John Mayer Live In Los Angeles",
-        "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 319226,
-      "name": "Slow Dancing in a Burning Room - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
-      "url": "https://open.spotify.com/track/4OT8GH9u9Gx7ydJ49ULunN"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "BLACKPINK 2018 TOUR 'IN YOUR AREA' SEOUL (Live)",
         "url": "https://open.spotify.com/album/4i0XmhtxZBPxwpgNeJ1Tvg"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 210268,
       "name": "DDU-DU DDU-DU - Live",
       "url": "https://open.spotify.com/track/437Wn1icOBdhQaVnpJpl0F"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Where the Light Is: John Mayer Live In Los Angeles",
+        "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 319226,
+      "name": "Slow Dancing in a Burning Room - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "url": "https://open.spotify.com/track/4OT8GH9u9Gx7ydJ49ULunN"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Live and in Session",
-        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 285930,
-      "name": "I See Fire - Live and in Session",
-      "url": "https://open.spotify.com/track/3pA38Vfw2Q3T1LSL5wcPk7"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Where the Light Is: John Mayer Live In Los Angeles",
         "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 230800,
       "name": "Waiting On the World to Change - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
       "url": "https://open.spotify.com/track/75LltETkbWa2OKmJ1AEoM3"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Live and in Session",
+        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 285930,
+      "name": "I See Fire - Live and in Session",
+      "url": "https://open.spotify.com/track/3pA38Vfw2Q3T1LSL5wcPk7"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Hurts So Good (Live From The Studio)",
-        "url": "https://open.spotify.com/album/629SuCWLMZ0BoQDciPUV24"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 202833,
-      "name": "Hurts So Good - Live From The Studio",
-      "url": "https://open.spotify.com/track/4n8FLFUeTBJeY1PlPKwYJ0"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
         "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 362216,
       "name": "Freedom! '90 - Live from MTV Unplugged, 1996",
       "url": "https://open.spotify.com/track/0tLa4mib11WGc1YbSa1AFq"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Hurts So Good (Live From The Studio)",
+        "url": "https://open.spotify.com/album/629SuCWLMZ0BoQDciPUV24"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 202833,
+      "name": "Hurts So Good - Live From The Studio",
+      "url": "https://open.spotify.com/track/4n8FLFUeTBJeY1PlPKwYJ0"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Elton 60 - Live At Madison Square Garden",
-        "url": "https://open.spotify.com/album/1hBjd4MuIWjv6uwik1bA68"
+        "name": "Unplugged (Live At MTV Unplugged, New York, NY/2009)",
+        "url": "https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 249666,
-      "name": "Your Song - Live At Madison Square Garden",
-      "url": "https://open.spotify.com/track/1PohdWJ1WMBL82q4GBeFN6"
+      "duration_ms": 250586,
+      "name": "I Kissed A Girl - Live At MTV Unplugged, 2009",
+      "url": "https://open.spotify.com/track/7IdznjcKCOWhydUH02Istz"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -951,18 +951,18 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Unplugged (Live At MTV Unplugged, New York, NY/2009)",
-        "url": "https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG"
+        "name": "Elton 60 - Live At Madison Square Garden",
+        "url": "https://open.spotify.com/album/1hBjd4MuIWjv6uwik1bA68"
       },
       "artists": [
         {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 250586,
-      "name": "I Kissed A Girl - Live At MTV Unplugged, 2009",
-      "url": "https://open.spotify.com/track/7IdznjcKCOWhydUH02Istz"
+      "duration_ms": 249666,
+      "name": "Your Song - Live At Madison Square Garden",
+      "url": "https://open.spotify.com/track/1PohdWJ1WMBL82q4GBeFN6"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "One Night Only",
-        "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 198760,
-      "name": "Goodbye Yellow Brick Road - Live",
-      "url": "https://open.spotify.com/track/16rY0iVeZej75AUQZlx2sx"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Lovers Live",
         "url": "https://open.spotify.com/album/5g8gop9VnKLxoXePOoVVAF"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 319401,
       "name": "Sing - Live and in Session",
       "url": "https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "One Night Only",
+        "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 198760,
+      "name": "Goodbye Yellow Brick Road - Live",
+      "url": "https://open.spotify.com/track/16rY0iVeZej75AUQZlx2sx"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "One Night Only",
-        "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 320400,
-      "name": "Sacrifice - Live",
-      "url": "https://open.spotify.com/track/0fChKGukh7abSJjcpRStVb"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Michael Bubl\u00e9 Meets Madison Square Garden",
         "url": "https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 300953,
       "name": "You Give Me Something - Live At The Hospital Club",
       "url": "https://open.spotify.com/track/2ZSZ3DVneZwm825D6FueYS"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "One Night Only",
+        "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 320400,
+      "name": "Sacrifice - Live",
+      "url": "https://open.spotify.com/track/0fChKGukh7abSJjcpRStVb"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "On the Road to Nashville (Live)",
-        "url": "https://open.spotify.com/album/0OemsjkWbTZFRm2XzM4fLk"
-      },
-      "artists": [
-        {
-          "name": "Erasure",
-          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
-        }
-      ],
-      "duration_ms": 218240,
-      "name": "A Little Respect - Live in Nashville",
-      "url": "https://open.spotify.com/track/7z0xCVXPn6gESV6dygIj5W"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Live Friday The 13th",
         "url": "https://open.spotify.com/album/07hPT8Ndirhuv2NeurOD6C"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 379013,
       "name": "She Will Be Loved - Live",
       "url": "https://open.spotify.com/track/4CbFaTmshnLTEKYS2v3t2L"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "On the Road to Nashville (Live)",
+        "url": "https://open.spotify.com/album/0OemsjkWbTZFRm2XzM4fLk"
+      },
+      "artists": [
+        {
+          "name": "Erasure",
+          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
+        }
+      ],
+      "duration_ms": 218240,
+      "name": "A Little Respect - Live in Nashville",
+      "url": "https://open.spotify.com/track/7z0xCVXPn6gESV6dygIj5W"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "7 Years (Later) [Live]",
-        "url": "https://open.spotify.com/album/1p2dYhZNoJb4PikibWUskn"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 256896,
-      "name": "7 Years - (Later) [Live]",
-      "url": "https://open.spotify.com/track/4Qlrlz9qODmwbCJFQb6iUW"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Olivia's Live Hits",
         "url": "https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 274200,
       "name": "Magic - Live",
       "url": "https://open.spotify.com/track/0C1okCpaUOIftyYFSyyHZi"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "7 Years (Later) [Live]",
+        "url": "https://open.spotify.com/album/1p2dYhZNoJb4PikibWUskn"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 256896,
+      "name": "7 Years - (Later) [Live]",
+      "url": "https://open.spotify.com/track/4Qlrlz9qODmwbCJFQb6iUW"
     },
     {
       "added_at": "2023-04-14 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > The playlist sin fronteras\. Cover: Grupo Firme & Los Tucanes de Tijuana
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,040,392 likes - 62 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,041,230 likes - 62 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 | 61 | [Si Fuera Fácil](https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Si Fuera Fácil](https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE) | 2:50 |
 | 62 | [Mentiras](https://open.spotify.com/track/3jRZg6U0m9Ir115Wt66ebU) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Pura Manzanita Vol\. 3](https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7) | 3:54 |
 
-Snapshot ID: `MTY4MjMxMTM4MiwwMDAwMDAwMDIwOGI1MTI3Y2I0NzdjY2YwMmViMGVkOTYxNTA2MTgw`
+Snapshot ID: `MCwyMjc2MGNjZTU1ZDA0MjYxNTAwYWQ3MGU3NjFjMmY3MWMxMmM1MTgw`

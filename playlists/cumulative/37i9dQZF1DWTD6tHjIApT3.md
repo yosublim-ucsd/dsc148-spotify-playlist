@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 大比良瑞希
 
-1,307 songs - 3 day 13 hr 8 min
+1,308 songs - 3 day 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,7 +453,7 @@
 | [NEO時をかける少女](https://open.spotify.com/track/7wDSjOaAfSwyQz4fpjc4He) | [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu) | [NEO時をかける少女](https://open.spotify.com/album/6Lu2olLkfVkUJZxlo3grQh) | 2:33 | 2023-02-16 | 2023-02-22 |
 | [Never Fear](https://open.spotify.com/track/1WXGIXUZJjvA0hW7fNgLks) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Never Fear](https://open.spotify.com/album/7Am4DaBuhF6LVo4II4Y43N) | 3:49 | 2023-01-10 | 2023-01-12 |
 | [Never Fear](https://open.spotify.com/track/6Wc3ht8CQwssQHH8RiJ9N3) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Never Fear](https://open.spotify.com/album/4r5HxFiF4zT8gLn5dpWIgT) | 3:49 | 2023-01-10 | 2023-02-18 |
-| [Never Fear](https://open.spotify.com/track/5jG4OWaAkMo4JATFSkCrpc) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Not Unusual](https://open.spotify.com/album/3gx3krICQA5Q62l56pEHcB) | 3:49 | 2023-03-09 |  |
+| [Never Fear](https://open.spotify.com/track/5jG4OWaAkMo4JATFSkCrpc) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Not Unusual](https://open.spotify.com/album/3gx3krICQA5Q62l56pEHcB) | 3:49 | 2023-03-09 | 2023-04-28 |
 | [Never going back](https://open.spotify.com/track/56FDc2R7i8x9WiNeOEJVp4) | [Beverly](https://open.spotify.com/artist/5AJRsYTgSVuUTT2SbhLLxu) | [Never going back](https://open.spotify.com/album/7k3P0S9TBThJOMytSU6KZK) | 3:48 | 2022-06-30 | 2022-07-02 |
 | [Neverland](https://open.spotify.com/track/1BxnL3aEItRwwdclyksOpQ) | [Fuyumi Abe](https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej) | [Neverland](https://open.spotify.com/album/0yJdJurfPk87zYjirjJvRx) | 3:10 | 2023-02-21 | 2023-03-08 |
 | [New Life](https://open.spotify.com/track/6bV1wH2YpYrMv3GB7v892I) | [Predawn](https://open.spotify.com/artist/7nK2GWw6SsLKb5OgEcfbF5) | [New Life](https://open.spotify.com/album/4UIP2Smckh0TOMFVNsC1mX) | 3:00 | 2022-07-14 | 2022-07-19 |
@@ -628,6 +628,7 @@
 | [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 | 2022-09-29 | 2022-11-14 |
 | [Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 3:58 | 2022-11-10 |  |
 | [Sway](https://open.spotify.com/track/50Opxhj5GxjF47Fc5SXoZl) | [petalhead](https://open.spotify.com/artist/7qmQptfWpKjLSxu8EpvFPW) | [Sway](https://open.spotify.com/album/3ZYTXFJA0ju3dk4PErgh5O) | 4:26 | 2023-02-07 | 2023-02-15 |
+| [Sweet dream](https://open.spotify.com/track/0Ru3TRhknBC8a9MjJyKKxV) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [9.](https://open.spotify.com/album/1yj4g4NAlimjHHL2CF74Y7) | 2:56 | 2023-04-27 |  |
 | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/track/6Whj4AAx1Y2xSCJhpRvTpt) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/album/6QWulBLmOcERqXcs2tSxh6) | 3:53 | 2022-08-09 | 2022-11-04 |
 | [Sweet Escape \- feat\. RAENE](https://open.spotify.com/track/6O4hhUbrwqobHXPNb0xmJK) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [RAENE](https://open.spotify.com/artist/6fTa2ugChlaoRIF6jvrZdV) | [Sweet Escape \(feat\. RAENE\)](https://open.spotify.com/album/3qhwaCo1QY2898oye3nAtj) | 3:25 | 2023-03-16 | 2023-03-22 |
 | [Sweet Impact \- The Greatest Ver.](https://open.spotify.com/track/5h7oS1pmpvvEghGMMB4Kgx) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Sweet Impact \(The Greatest Ver.\)](https://open.spotify.com/album/3p5tbMMENw5CaJYGGF3bwv) | 5:09 | 2022-05-31 | 2022-06-24 |
@@ -704,7 +705,7 @@
 | [WAVE OF LUV](https://open.spotify.com/track/3Fn5clpuHqb0bTJZd9xfpo) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [WAVE OF LUV](https://open.spotify.com/album/4g7rIcO104YEdvAw3EuPuA) | 3:12 | 2022-10-25 | 2022-11-02 |
 | [Waver](https://open.spotify.com/track/74y0bBWpiyOoWsB442cniT) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [neon](https://open.spotify.com/album/6MFq8UGpeyZW8dxFR6PNMp) | 4:30 | 2022-06-02 | 2022-07-01 |
 | [wavy flow](https://open.spotify.com/track/5qfFXRzbfiPrxRmYUdv9Of) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [wavy flow](https://open.spotify.com/album/6Q6nv2x3HSl4WZ5s0I7lzo) | 3:25 | 2022-06-02 | 2023-01-11 |
-| [We Are](https://open.spotify.com/track/1qLc9IbANqjD79IHj47wU9) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [We Are](https://open.spotify.com/album/3DJS8K78UQGkumu2QMa2uB) | 3:32 | 2023-03-14 |  |
+| [We Are](https://open.spotify.com/track/1qLc9IbANqjD79IHj47wU9) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [We Are](https://open.spotify.com/album/3DJS8K78UQGkumu2QMa2uB) | 3:32 | 2023-03-14 | 2023-04-28 |
 | [WE ARE](https://open.spotify.com/track/6WJy6lQqRkj2WMm348ieps) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [WE ARE](https://open.spotify.com/album/7GV1xZuvSu7f3Xqfecgi3a) | 3:32 | 2023-03-14 | 2023-03-16 |
 | [We Are](https://open.spotify.com/track/0BlScWuZF7uu4bJdt1xEZT) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [We Are](https://open.spotify.com/album/2xtTnFp57oSOS3VWu4w6ob) | 3:33 | 2022-08-23 | 2022-10-19 |
 | [We are](https://open.spotify.com/track/3bfrNRRF94n5zrD0lDOsvk) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [We are](https://open.spotify.com/album/64IjHxJpoN3QeR5OWOanDa) | 3:33 | 2022-08-23 | 2022-08-25 |
@@ -1079,7 +1080,7 @@
 | [夜になって](https://open.spotify.com/track/3ohNS5Eax4EhZAhLougF08) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [夜になって](https://open.spotify.com/album/566G21112Ia3rfedoo4hSk) | 4:08 | 2022-05-29 | 2022-07-05 |
 | [夜になって](https://open.spotify.com/track/0FEv7hqfEcVSf02wMogOgd) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [1999](https://open.spotify.com/album/322uTZewuhwVaanjOO92Av) | 4:11 | 2022-07-28 | 2022-08-03 |
 | [夜の魔物](https://open.spotify.com/track/1clpIi0TBP2DduJGa5m0F4) | [みぃなとルーチ](https://open.spotify.com/artist/3y3QVcRaHp6wskSfDQsNKZ) | [夜の魔物](https://open.spotify.com/album/3KgfV1XgQMmxBrwcMFmQwT) | 3:13 | 2023-02-07 | 2023-02-15 |
-| [夜をループ](https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [NIGHT TAPE](https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB) | 4:26 | 2022-08-17 | 2023-04-26 |
+| [夜をループ](https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [NIGHT TAPE](https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB) | 4:26 | 2022-08-17 |  |
 | [夜逃げ](https://open.spotify.com/track/6DtpRO1A0MRiGsWgKXlmzB) | [Ran](https://open.spotify.com/artist/79b158VP6p9yoQpqIqU4UR) | [夜逃げ](https://open.spotify.com/album/46sPxSwFOOq2zjACGq1grI) | 4:02 | 2022-06-02 | 2022-07-27 |
 | [夜風](https://open.spotify.com/track/6Ml6Al2FULhS5MmKHX5HGO) | [笹生実久](https://open.spotify.com/artist/0rV9s5ykUdPnpBWYoGVFeY) | [She was a girl](https://open.spotify.com/album/7sgwDnLuYnrgxdh0AiDANx) | 4:06 | 2022-06-25 | 2022-06-28 |
 | [夢うらら](https://open.spotify.com/track/3OMpSwsfADNdcCnyE8bjzT) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [夢うらら](https://open.spotify.com/album/4OdbtCRb5hZUE9legqRuF7) | 4:07 | 2022-09-01 | 2022-09-07 |

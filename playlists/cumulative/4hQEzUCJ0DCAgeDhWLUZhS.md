@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: All Time Low
 
-363 songs - 21 hr 37 min
+364 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Good Times Bad Times](https://open.spotify.com/track/2Y9vBlthOtlpUkafR9jRAE) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Good Times Bad Times](https://open.spotify.com/album/6quGCuC6rPXfMAN9UT2ZAU) | 2:49 | 2021-11-12 |  |
 | [Graveyard Love](https://open.spotify.com/track/6CxSCda7mkSetFnBpFpZ8f) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Graveyard Love](https://open.spotify.com/album/02vvZsSjHWwJ6FDOTNb6NN) | 3:14 | 2022-07-08 |  |
 | [Growing Up](https://open.spotify.com/track/01MGjcd27q8hqHiv3jztV3) | [Alex the Astronaut](https://open.spotify.com/artist/42NjRVKqEGe2DkGvlUd5qM) | [Growing Up](https://open.spotify.com/album/3Edg3KMG3X3IqQUvO2tQEl) | 4:50 | 2021-11-19 |  |
+| [Guilt](https://open.spotify.com/track/31mA7LoZx6ot2Jkg1ro5IA) | [Somber Hills](https://open.spotify.com/artist/32ERIC9nktHUbxT63ML95P) | [Guilt](https://open.spotify.com/album/2siQNet39SgvMihAHEhd8j) | 3:13 | 2023-04-27 |  |
 | [Guilty Love](https://open.spotify.com/track/4RGXedMqIrohHTmhMXPnLc) | [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Guilty Love](https://open.spotify.com/album/3nIzN4pn6G17EXctMPCSNS) | 3:00 | 2021-03-08 | 2022-03-18 |
 | [Hallelujah Moment](https://open.spotify.com/track/1UOkwtqARzu9QW4IMQjeO0) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire](https://open.spotify.com/album/4aufPz4ZGcxWHNt2lp2lTf) | 2:15 | 2022-09-29 |  |
 | [Hard Luck](https://open.spotify.com/track/7Cpn5JqDJR22FoF6c94lHd) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [You Deserve Love](https://open.spotify.com/album/2hzRKcoWZUPY5M1qMrgtmR) | 3:59 | 2020-10-10\* | 2021-02-25 |
@@ -227,7 +228,7 @@
 | [No Plans](https://open.spotify.com/track/4CZHbzrzXSNDagymnv99TB) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04) | [No Plans](https://open.spotify.com/album/7AHkP6mbv9D3qpHVwqJl3n) | 3:21 | 2020-10-10\* | 2021-05-13 |
 | [North Of No South \- Edit](https://open.spotify.com/track/3WorLcUF718S4k5LetzDBU) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [North Of No South \(Edit\)](https://open.spotify.com/album/71u1QkBnNqfPdz6ZUKvztb) | 3:36 | 2021-02-25 | 2022-03-18 |
 | [Not the One](https://open.spotify.com/track/5jpqyokFLz5Atb9Ve6f0FH) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Not the One](https://open.spotify.com/album/6zBLkJVa4eSXgP7o7ta7IO) | 4:26 | 2022-03-24 |  |
-| [Not Without My Ghosts \(feat\. Phem\)](https://open.spotify.com/track/2rlkdPZr9BmPEMC7wlg11e) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK), [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [Not Without My Ghosts \(feat\. Phem\)](https://open.spotify.com/album/62RMowdYBDDnzabAVX5Ifu) | 3:30 | 2023-04-21 |  |
+| [Not Without My Ghosts \(feat\. phem\)](https://open.spotify.com/track/2rlkdPZr9BmPEMC7wlg11e) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK), [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [Not Without My Ghosts \(feat\. phem\)](https://open.spotify.com/album/62RMowdYBDDnzabAVX5Ifu) | 3:30 | 2023-04-21 |  |
 | [Notion](https://open.spotify.com/track/4cHKd6qPMR1TMx55KHlida) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Futureproof](https://open.spotify.com/album/3SmiRZtLKHDHk5bmLpOvtg) | 3:15 | 2021-11-30 |  |
 | [Now That I've Found You](https://open.spotify.com/track/4QSxcUAwEx5sFitOKZfQDN) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Why Me? Why Not\. \(Deluxe Edition\)](https://open.spotify.com/album/6iInyjotj1rYpx3vbX0MxX) | 3:20 | 2020-10-10\* | 2021-02-25 |
 | [Oblivion](https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:41 | 2021-05-03 |  |

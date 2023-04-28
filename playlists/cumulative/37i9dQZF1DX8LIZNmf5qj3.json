@@ -469,6 +469,24 @@
     },
     {
       "album": {
+        "name": "Don't Doubt It",
+        "url": "https://open.spotify.com/album/7misvvbAa72HkMvqBPNfRN"
+      },
+      "artists": [
+        {
+          "name": "Sam Wills",
+          "url": "https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182493,
+      "name": "Don't Doubt It",
+      "url": "https://open.spotify.com/track/28yYqgatnEJFxN8JOmvxUk"
+    },
+    {
+      "album": {
         "name": "Entice Me",
         "url": "https://open.spotify.com/album/78GOlXZOeGFibF6M4E7auT"
       },
@@ -925,6 +943,24 @@
     },
     {
       "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/0924Bbk86ZdrT2wbR2TaWG"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197459,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/4l1KcERjKWbbGw36LUza1c"
+    },
+    {
+      "album": {
         "name": "i hate the drunk you",
         "url": "https://open.spotify.com/album/0Jb8Ge54mIv6kJzVtMOREG"
       },
@@ -976,7 +1012,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 205869,
       "name": "I'm Baby (ft. Jvck James) - Acoustic",
       "url": "https://open.spotify.com/track/3xT5b5eHJ4j5XZO1jiqzUi"
@@ -1222,7 +1258,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 178466,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/3Ht8o27JNTz70EKcfFLYc2"
@@ -1879,6 +1915,28 @@
     },
     {
       "album": {
+        "name": "Since You've Been Gone",
+        "url": "https://open.spotify.com/album/1SC9B04nmP42O8ckTuelR8"
+      },
+      "artists": [
+        {
+          "name": "Kadeem Tyrell",
+          "url": "https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh"
+        },
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226112,
+      "name": "Since You've Been Gone",
+      "url": "https://open.spotify.com/track/0xm6AATpiaDaVQce6DecIZ"
+    },
+    {
+      "album": {
         "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
         "url": "https://open.spotify.com/album/4KkdTV3S7boFNngZAWsg1Q"
       },
@@ -2464,7 +2522,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 190188,
       "name": "Worked Up",
       "url": "https://open.spotify.com/track/1vE21myOaFwE4GQzTfXKfS"

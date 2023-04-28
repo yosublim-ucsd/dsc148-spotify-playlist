@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 
 > Songs of love, hope and positivity for the world\.   Listen with Spirit!  Cover: Hannah Kerr
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,429 likes - 65 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,471 likes - 65 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 64 | [You Are Good](https://open.spotify.com/track/4n5opjW4KMNUr3NhOgCgwp) | [Shanny Jeann](https://open.spotify.com/artist/3QFEQDqiDb6FQhA5XA4fnI) | [You Are Good](https://open.spotify.com/album/1j9s8mN2uXbo9RGYLFrmT8) | 2:53 |
 | 65 | [From the Roof \(feat\. YB\)](https://open.spotify.com/track/01RdXpTlzMDLakg6lDaC8j) | [Quinten Coblentz](https://open.spotify.com/artist/7w28aj6tyhuIdcOIA7Ex2Z), [YB](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [From the Roof \(feat\. YB\)](https://open.spotify.com/album/7MxN9VOPa5nVdX7eHQYMe0) | 3:00 |
 
-Snapshot ID: `MTY3NjcwMTMyMiwwMDAwMDAwMGUzNDY5YTcxZGYzZDNmYzE0YTBlNzFlMzk2NWY5ZWFh`
+Snapshot ID: `MCxmYmMwMmNjZDc1NjY3MjZiYzE3YzYwODVjMjM0ZGJhYzRhNWVlNDhm`

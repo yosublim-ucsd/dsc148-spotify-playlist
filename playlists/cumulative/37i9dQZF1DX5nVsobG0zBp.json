@@ -1842,7 +1842,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 304600,
       "name": "O Re$To",
       "url": "https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R"
@@ -2836,6 +2836,28 @@
       "duration_ms": 249078,
       "name": "\u00c9 ASSIM",
       "url": "https://open.spotify.com/track/20EeqYWivW9x7F9ij2GC71"
+    },
+    {
+      "album": {
+        "name": "\u00c9 Verdade",
+        "url": "https://open.spotify.com/album/4sPk4ZLCKNjScABbBrTYFw"
+      },
+      "artists": [
+        {
+          "name": "9 Miller",
+          "url": "https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX"
+        },
+        {
+          "name": "Mizzy Miles",
+          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "\u00c9 Verdade",
+      "url": "https://open.spotify.com/track/3pnhXjwXLLMfNrS9k9HbKh"
     },
     {
       "album": {

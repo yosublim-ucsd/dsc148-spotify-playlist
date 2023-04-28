@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,282 likes - 150 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,349 likes - 150 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 | 149 | [My Own Blue Sky](https://open.spotify.com/track/4MKxJnVZOBoVqTOLm9HIvB) | [Lo Larsen](https://open.spotify.com/artist/1RsZrWsACeuDkqAISdeFDi) | [My Own Blue Sky](https://open.spotify.com/album/1dATMrsJlfFyQebwsQqTYA) | 3:01 |
 | 150 | [La Storia D'Amor](https://open.spotify.com/track/2FNvWhfz1C20qwZaADbkcz) | [Indigo Mazati](https://open.spotify.com/artist/4qJEsoXFek6XB6R2GjJzJw) | [La Storia D'amor](https://open.spotify.com/album/1TlO2EbMobeLY5DQncxm1Q) | 2:50 |
 
-Snapshot ID: `MTY3OTAxNDgwMCwwMDAwMDAwMDA4OTdmYjBkM2FmZjEzMTNkZGY2OTliNDExZTFmNjMx`
+Snapshot ID: `MCw2YjlkODliOTFmZDA1NTgxNmQ0YzZiZjhkNWJkZGJmMTc2ZjU1MGFk`

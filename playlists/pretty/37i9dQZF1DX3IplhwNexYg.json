@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: Gengahr",
-  "num_followers": 111267,
+  "num_followers": 111271,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyNjgwMCwwMDAwMDAwMDk4MjczOTA2M2YyMDU1NDNlNDQ1NTgxN2FmODk4MDcy",
+  "snapshot_id": "MCxhMjVmMzkxZGNkMDVhYjI3MmYzOWJiNjJjZmQ0ZTBmNzZhODRlZWU3",
   "tracks": [
     {
       "added_at": "2023-04-13 23:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Waste My Life",
-        "url": "https://open.spotify.com/album/4Xt5HkbBZXyBGDomKr3gvG"
-      },
-      "artists": [
-        {
-          "name": "Alice Merton",
-          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
-        }
-      ],
-      "duration_ms": 160853,
-      "name": "Waste My Life",
-      "url": "https://open.spotify.com/track/3jLMVF5HDdh10eAi8DgiHD"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/2rUWCf2wXA1PMK3NUckp2p"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 202693,
       "name": "Weeds",
       "url": "https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Waste My Life",
+        "url": "https://open.spotify.com/album/4Xt5HkbBZXyBGDomKr3gvG"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "duration_ms": 160853,
+      "name": "Waste My Life",
+      "url": "https://open.spotify.com/track/3jLMVF5HDdh10eAi8DgiHD"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Everybody's Saying Thursday's The Weekend",
-        "url": "https://open.spotify.com/album/4S0L38drU7rEOg4KzvN5lY"
-      },
-      "artists": [
-        {
-          "name": "DMA'S",
-          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
-        }
-      ],
-      "duration_ms": 184333,
-      "name": "Everybody's Saying Thursday's The Weekend",
-      "url": "https://open.spotify.com/track/1uK65VcfQeZ6cPxnUm0TCv"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Swampy & Sombre Two",
         "url": "https://open.spotify.com/album/5GDEoqKD2xARNtyX5EiTh5"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 262346,
       "name": "Time",
       "url": "https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Everybody's Saying Thursday's The Weekend",
+        "url": "https://open.spotify.com/album/4S0L38drU7rEOg4KzvN5lY"
+      },
+      "artists": [
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "duration_ms": 184333,
+      "name": "Everybody's Saying Thursday's The Weekend",
+      "url": "https://open.spotify.com/track/1uK65VcfQeZ6cPxnUm0TCv"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -955,34 +955,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "A Fistful of Peaches",
-        "url": "https://open.spotify.com/album/66f2AJfIYSpWtiDMac7Wea"
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V"
       },
       "artists": [
         {
-          "name": "Black Honey",
-          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
+          "name": "Nabihah Iqbal",
+          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
         }
       ],
-      "duration_ms": 212288,
-      "name": "Cut the Cord",
-      "url": "https://open.spotify.com/track/3nrPemlBKtA9Ggcnl3JpHu"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Young & Naive",
-        "url": "https://open.spotify.com/album/1TxGtjJWDD0k1WZPHmnNMJ"
-      },
-      "artists": [
-        {
-          "name": "Nieve Ella",
-          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
-        }
-      ],
-      "duration_ms": 193017,
-      "name": "19 in a Week",
-      "url": "https://open.spotify.com/track/3rhwcOaX6HbsUmZCizAc06"
+      "duration_ms": 233600,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1003,6 +987,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "Young & Naive",
+        "url": "https://open.spotify.com/album/1TxGtjJWDD0k1WZPHmnNMJ"
+      },
+      "artists": [
+        {
+          "name": "Nieve Ella",
+          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
+        }
+      ],
+      "duration_ms": 193017,
+      "name": "19 in a Week",
+      "url": "https://open.spotify.com/track/3rhwcOaX6HbsUmZCizAc06"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "What You Did",
         "url": "https://open.spotify.com/album/3zJKF1QzRphIyM2V2qEbnP"
       },
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V"
+        "name": "A Fistful of Peaches",
+        "url": "https://open.spotify.com/album/66f2AJfIYSpWtiDMac7Wea"
       },
       "artists": [
         {
-          "name": "Nabihah Iqbal",
-          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+          "name": "Black Honey",
+          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
         }
       ],
-      "duration_ms": 233600,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
+      "duration_ms": 212288,
+      "name": "Cut the Cord",
+      "url": "https://open.spotify.com/track/3nrPemlBKtA9Ggcnl3JpHu"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Alright",
-        "url": "https://open.spotify.com/album/0gGGoMyxPz6CKGjmoWJGmv"
+        "name": "Exotico",
+        "url": "https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ"
       },
       "artists": [
         {
-          "name": "Bad Nerves",
-          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
+          "name": "Temples",
+          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
         }
       ],
-      "duration_ms": 156600,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/1J5d0ELID0QInebg1Sl3JJ"
+      "duration_ms": 213053,
+      "name": "Oval Stones",
+      "url": "https://open.spotify.com/track/5jumXLjj8yhQ0j1Af8XZS1"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Exotico",
-        "url": "https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ"
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/0gGGoMyxPz6CKGjmoWJGmv"
       },
       "artists": [
         {
-          "name": "Temples",
-          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
+          "name": "Bad Nerves",
+          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
         }
       ],
-      "duration_ms": 213053,
-      "name": "Oval Stones",
-      "url": "https://open.spotify.com/track/5jumXLjj8yhQ0j1Af8XZS1"
+      "duration_ms": 156600,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/1J5d0ELID0QInebg1Sl3JJ"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "I Shimmer",
-        "url": "https://open.spotify.com/album/6RglJDuv1mPMAe0honLo8A"
-      },
-      "artists": [
-        {
-          "name": "Jadu Heart",
-          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
-        }
-      ],
-      "duration_ms": 265278,
-      "name": "I Shimmer",
-      "url": "https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Miss Power",
         "url": "https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 137840,
       "name": "Kamikaze",
       "url": "https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "I Shimmer",
+        "url": "https://open.spotify.com/album/6RglJDuv1mPMAe0honLo8A"
+      },
+      "artists": [
+        {
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
+        }
+      ],
+      "duration_ms": 265278,
+      "name": "I Shimmer",
+      "url": "https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/3LdfZrdlKsanntRZHYncJr"
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/7sHDo7EBwVqJXaXOYAIEhB"
       },
       "artists": [
         {
-          "name": "The Big Moon",
-          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
+          "name": "Temples",
+          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
         }
       ],
-      "duration_ms": 231684,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/2NZyf2jJaf0PntMfTe5fPf"
+      "duration_ms": 226373,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/4RHjB7f6wc1mkIHno5bsNG"
     }
   ],
   "unique_name": "pulp",

@@ -1,12 +1,12 @@
 {
   "description": "The perfect mix of the biggest <a href=\"https://www.instagram.com/sonymusiclatin/\">Sony Music Latin</a> hits! Follow this playlist for hot new updates. Cover: Marshmello, Farruko",
-  "num_followers": 56458,
+  "num_followers": 56454,
   "original_name": "Top Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "Mzc4NSwxNjU4NTI0NGI5YzVlNjk0MGUzZjkzNDk3NWU3ZTMxZWU3YzM2ZjI1",
+  "snapshot_id": "Mzc5MCxmZDkyMzg1NTQxNzZhM2JmNjRjZTU4OTJlMzZmZTA4ZjkzY2NjYTM1",
   "tracks": [
     {
       "added_at": "2023-04-14 00:02:14",
@@ -29,6 +29,102 @@
       "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
     },
     {
+      "added_at": "2023-04-28 00:02:15",
+      "album": {
+        "name": "Qu\u00e9date",
+        "url": "https://open.spotify.com/album/6Jf2rqjSUSC6dYTwks1g9n"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/2h7pX9EhOdpFSM0PEO9NYn"
+    },
+    {
+      "added_at": "2023-04-28 00:07:16",
+      "album": {
+        "name": "Ando Sad",
+        "url": "https://open.spotify.com/album/3YK7JmTZQmwnSNbNv9asHS"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 158875,
+      "name": "Ando Sad",
+      "url": "https://open.spotify.com/track/2kkXtrMcusksHbshFn8kPf"
+    },
+    {
+      "added_at": "2023-04-27 14:04:25",
+      "album": {
+        "name": "Rom\u00e1ntica Champeta",
+        "url": "https://open.spotify.com/album/1eEgcFThThSorfmePy4VvO"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Kevin Florez",
+          "url": "https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf"
+        },
+        {
+          "name": "The Busy Twist",
+          "url": "https://open.spotify.com/artist/0jPcvO2Jz1kkvANItu53jI"
+        }
+      ],
+      "duration_ms": 202641,
+      "name": "Rom\u00e1ntica Champeta",
+      "url": "https://open.spotify.com/track/3G6dSSbZvaBUVgXcvmXjKF"
+    },
+    {
+      "added_at": "2023-04-27 22:44:08",
+      "album": {
+        "name": "Clavaito",
+        "url": "https://open.spotify.com/album/04EvopsobNB5TNIzzAp0w0"
+      },
+      "artists": [
+        {
+          "name": "Chanel",
+          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
+        },
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "duration_ms": 162740,
+      "name": "Clavaito",
+      "url": "https://open.spotify.com/track/26V1bLUk0SBYkLEwl4caPR"
+    },
+    {
+      "added_at": "2023-04-20 22:05:47",
+      "album": {
+        "name": "Me EnRD",
+        "url": "https://open.spotify.com/album/3BumcT1ophGlEOHCi1fzoW"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 185822,
+      "name": "Me EnRD",
+      "url": "https://open.spotify.com/track/3GkctxmZmeGmW4K5Oya0Z1"
+    },
+    {
       "added_at": "2023-04-20 00:23:06",
       "album": {
         "name": "qu\u00e9 le pasa conmigo?",
@@ -47,22 +143,6 @@
       "duration_ms": 167251,
       "name": "qu\u00e9 le pasa conmigo?",
       "url": "https://open.spotify.com/track/4TrYGTVgWOe2s3ZPn5qFTa"
-    },
-    {
-      "added_at": "2023-04-20 22:05:47",
-      "album": {
-        "name": "Me EnRD",
-        "url": "https://open.spotify.com/album/3BumcT1ophGlEOHCi1fzoW"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 185822,
-      "name": "Me EnRD",
-      "url": "https://open.spotify.com/track/3GkctxmZmeGmW4K5Oya0Z1"
     },
     {
       "added_at": "2023-04-21 13:56:04",
@@ -1625,7 +1705,7 @@
       "artists": [
         {
           "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF"
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
         }
       ],
       "duration_ms": 184791,

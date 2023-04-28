@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Grupo Frontera & Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,336 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,410 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [Mientras Me Curo Del Cora](https://open.spotify.com/track/4Q8yDvjEOqFSSNEtW5ndFw) | [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V) | [Mientras Me Curo Del Cora](https://open.spotify.com/album/56gWHoyCWNx1v9AsCuLMr9) | 2:34 |
 | 50 | [Una Copa de Más \- En Vivo](https://open.spotify.com/track/0SwkOOtQpkKDTUFOSIijpr) | [Sonido Caracol](https://open.spotify.com/artist/2QoRWNLJ6A9M8f9F0ovGcM), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Una Copa de Más \(En Vivo\)](https://open.spotify.com/album/7LlRV4bIsP2akGc5deG4sL) | 5:16 |
 
-Snapshot ID: `MTY4MjA1NjgwMCwwMDAwMDAwMGJiNzczZmU3NWM5N2ZmMmE2YzVhNmIwMWNhZDBlODI3`
+Snapshot ID: `MCwxNGEzZGIwMDUxZTFiZjQyOWUyNjkzZTYzNmRlMWU3OTU0MTU2Yjcy`

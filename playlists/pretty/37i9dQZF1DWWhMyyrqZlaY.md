@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhMyyrqZlaY.md) - [plain]
 
 > Los corridos más placosos que suenan en las calles\. Natanael Cano y Dan Sanchez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,686 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,326 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhMyyrqZlaY.md) - [plain]
 | 49 | [Vida Loca](https://open.spotify.com/track/7fHq0gNmcwpuqL18pO2W7K) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff) | [Vida Loca](https://open.spotify.com/album/1jVYLrYW2bIIgdP17xXzFv) | 4:07 |
 | 50 | [El Sueño Se Cumplió](https://open.spotify.com/track/4lXzUIG9TKSvKXxqIyCZbA) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [El Sueño Se Cumplió](https://open.spotify.com/album/4g42wQCHXwxJL4r59FzDUC) | 3:54 |
 
-Snapshot ID: `MTY4MTQ5OTM3NCwwMDAwMDAwMDM1Y2FjMzY0NTgyOGQ1YmVkMmJjN2JhMzNiZDljYmIw`
+Snapshot ID: `MCxmNjcxNjM4MDQzNzRjODM1NDM0NTdhOTQwZWM2MTBkM2VkNjU1ZTY2`

@@ -1,12 +1,12 @@
 {
   "description": "Revive la \u00e9poca de los pantalones acampanados en compa\u00f1\u00eda de mam\u00e1.",
-  "num_followers": 33553,
+  "num_followers": 33587,
   "original_name": "Mam\u00e1 70era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTU4NjE3NSwwMDAwMDAwMDhjYjBlMzVjNWU1MWJlMGJiMTk0MjBiYzhmMjE1ZWQw",
+  "snapshot_id": "MCwzZjdlN2I3YmI4NDE1OTIyMmE4MTIyY2UwNDcwOTJlZjRkMGIzMjhl",
   "tracks": [
     {
       "added_at": "2021-04-28 05:02:55",
@@ -443,22 +443,6 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
-        "name": "Camilo",
-        "url": "https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ"
-      },
-      "artists": [
-        {
-          "name": "Camilo Sesto",
-          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
-        }
-      ],
-      "duration_ms": 249666,
-      "name": "\u00bfQuieres Ser Mi Amante?",
-      "url": "https://open.spotify.com/track/1Y7q2zwCBjt9zgIHZ0Ku7J"
-    },
-    {
-      "added_at": "2021-04-28 05:02:55",
-      "album": {
         "name": "Reencuentro",
         "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 234773,
       "name": "El Amar y el Querer",
       "url": "https://open.spotify.com/track/7wUt1v2ddVqPayC8EKDp5P"
+    },
+    {
+      "added_at": "2021-04-28 05:02:55",
+      "album": {
+        "name": "Camilo",
+        "url": "https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ"
+      },
+      "artists": [
+        {
+          "name": "Camilo Sesto",
+          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
+        }
+      ],
+      "duration_ms": 249666,
+      "name": "\u00bfQuieres Ser Mi Amante?",
+      "url": "https://open.spotify.com/track/1Y7q2zwCBjt9zgIHZ0Ku7J"
     },
     {
       "added_at": "2021-04-28 05:02:55",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
-        "name": "The B-52's",
-        "url": "https://open.spotify.com/album/3eXETk1esvZPRluDCWH3GN"
-      },
-      "artists": [
-        {
-          "name": "The B-52's",
-          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
-        }
-      ],
-      "duration_ms": 409400,
-      "name": "Rock Lobster",
-      "url": "https://open.spotify.com/track/2Q5wSOwq6BDSu7sSVMNrtT"
-    },
-    {
-      "added_at": "2021-04-28 05:02:55",
-      "album": {
         "name": "Back To Front",
         "url": "https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 268293,
       "name": "Endless Love - From \"The Endless Love\" Soundtrack",
       "url": "https://open.spotify.com/track/0rt0dZ11FVsvprbarag5tk"
+    },
+    {
+      "added_at": "2021-04-28 05:02:55",
+      "album": {
+        "name": "The B-52's",
+        "url": "https://open.spotify.com/album/3eXETk1esvZPRluDCWH3GN"
+      },
+      "artists": [
+        {
+          "name": "The B-52's",
+          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+        }
+      ],
+      "duration_ms": 409400,
+      "name": "Rock Lobster",
+      "url": "https://open.spotify.com/track/2Q5wSOwq6BDSu7sSVMNrtT"
     },
     {
       "added_at": "2021-04-28 05:02:55",

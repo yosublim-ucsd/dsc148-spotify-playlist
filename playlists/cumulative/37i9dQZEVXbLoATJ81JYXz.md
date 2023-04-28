@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,322 songs - 2 day 20 hr 30 min
+1,323 songs - 2 day 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [4](https://open.spotify.com/track/1SGweEqQ6DbMye9qAGSbq2) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Jag fortsätter glömma](https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW) | 3:35 | 2022-05-28 | 2022-05-30 |
 | [4 grabbar](https://open.spotify.com/track/5BtXbZ4dArIaZka8pNzSp0) | [Lee Bloccboy](https://open.spotify.com/artist/2bclmMgssdBFMBzHa64tnw) | [4 grabbar](https://open.spotify.com/album/482jRh8WulwsYwi4iiUwVa) | 2:24 | 2022-10-07 | 2022-11-06 |
 | [458](https://open.spotify.com/track/6Eug49joEqS3HOrduV5TxD) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Barn av vår tid](https://open.spotify.com/album/1StOdefPDHrQiwQLm3teNm) | 3:06 | 2021-10-03 | 2021-10-17 |
+| [5 SHOTS](https://open.spotify.com/track/5CqyzTnsaP20NBBiDZZe5H) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [5 SHOTS](https://open.spotify.com/album/5TXQMV2n7TjC64TNQDmzln) | 2:08 | 2023-04-27 |  |
 | [5AM](https://open.spotify.com/track/69eo1z40ivxcT5oMkX5peC) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Wow 2](https://open.spotify.com/album/4KXjjprbUmEVaQfw0OERWW) | 3:48 | 2021-10-17 | 2021-10-31 |
 | [90\-talet](https://open.spotify.com/track/6O27WBEqkGeyq3hNYE0BdS) | [WAHL](https://open.spotify.com/artist/5tDnwIxYT1LAYH37yBqg4Z), [SAMI](https://open.spotify.com/artist/0GYJScAPulF6GTFYJOpHVr) | [90\-talet](https://open.spotify.com/album/5xdHq3shCsEXuyt3hTPBvn) | 2:56 | 2021-03-27\* | 2021-04-14 |
 | [a m a r i](https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:28 | 2021-05-16 | 2021-05-17 |
@@ -248,7 +249,7 @@
 | [Det kommer aldrig va över för mig](https://open.spotify.com/track/3SjXx3rbNGk8nCho8YEoz5) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Det kommer aldrig va över för mig](https://open.spotify.com/album/4y7g9dQcKkmBBNtMYhHxQs) | 4:27 | 2022-06-25 | 2022-09-02 |
 | [Det mesta regnar bort](https://open.spotify.com/track/7coCwMI4TaMaF08vJPZuce) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Det mesta regnar bort](https://open.spotify.com/album/3Uq12qpAnhRiAWhcoFVKJH) | 2:56 | 2023-01-21 | 2023-01-27 |
 | [Det stora röda huset](https://open.spotify.com/track/7HMjYD6vVNaHpHPQGR2W63) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [En gång i tiden \(del 2\)](https://open.spotify.com/album/2D0NU2s1xrC8wGRkMrJUjP) | 2:58 | 2021-04-18 | 2021-05-12 |
-| [Det Är Jag Inte Du](https://open.spotify.com/track/7LcRyueVx91UF5kfMeDsnt) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Det Är Jag Inte Du](https://open.spotify.com/album/4zeo0umVdWldGkVvMiY9h7) | 2:21 | 2023-04-22 |  |
+| [Det Är Jag Inte Du](https://open.spotify.com/track/7LcRyueVx91UF5kfMeDsnt) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Det Är Jag Inte Du](https://open.spotify.com/album/4zeo0umVdWldGkVvMiY9h7) | 2:21 | 2023-04-22 | 2023-04-28 |
 | [Det är ju dej jag går och väntar på](https://open.spotify.com/track/2sbjPQE3sS9H6i8BOmtZbr) | [Lucianoz](https://open.spotify.com/artist/3RhiF9RmgXoDzqEOW3dWoP) | [Det är ju dej jag går och väntar på](https://open.spotify.com/album/65Uq5PyD7Fe01psCrIblPv) | 2:57 | 2023-01-28 | 2023-04-25 |
 | [Det är nog aldrig för sent för oss två](https://open.spotify.com/track/06oh2gh4AXIapbn0UeHXad) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Det är nog aldrig för sent för oss två](https://open.spotify.com/album/5U6Z8kuGYsb9RHNRM6Q7cp) | 3:33 | 2021-05-03 | 2021-05-16 |
 | [Det Är Slut](https://open.spotify.com/track/04QgZlzLxbu9YNEjYIpUPU) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Ingen Aning Vart Jag Landar](https://open.spotify.com/album/3N8DSgKPVNUoit6kBArz01) | 2:36 | 2022-08-27 | 2022-09-07 |
@@ -903,7 +904,7 @@
 | [Pengamotiv](https://open.spotify.com/track/2HQnQODxqlfaWDVTwlRZZb) | [Sickan](https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl) | [Pengamotiv](https://open.spotify.com/album/2gbG0QZ4qYOTXF3aImSTPb) | 2:51 | 2022-08-20 | 2022-09-04 |
 | [Pengar Bänga](https://open.spotify.com/track/0wZjEtjXpkoO3PGjCsvF3Y) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Tusen Flows 2](https://open.spotify.com/album/1H93HESE9yuPqelE36PLCM) | 2:07 | 2022-04-30 | 2022-06-12 |
 | [Penny](https://open.spotify.com/track/2HUfLne6AoEqEp0vDQ7KD0) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Penny](https://open.spotify.com/album/4HOKhXQjEraaYaunMelIUX) | 3:09 | 2023-04-01 | 2023-04-15 |
-| [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-01-12 |  |
+| [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-01-12 |  |
 | [Pepas](https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 4:47 | 2021-12-31 | 2023-01-03 |
 | [Peru](https://open.spotify.com/track/4hJhHbkhZFnxmWbAkZRoe0) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru](https://open.spotify.com/album/5SLXbErenG3tJrVdIMpQHk) | 3:07 | 2021-12-27 | 2022-01-17 |
 | [PICK ME UP](https://open.spotify.com/track/3wx0fGGBY8Csos0ZDsKXFE) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [PICK ME UP](https://open.spotify.com/album/47nAM4UWvRCjvXMWYsx8W9) | 2:27 | 2023-02-25 | 2023-03-19 |

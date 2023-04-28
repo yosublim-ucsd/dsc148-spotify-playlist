@@ -1,12 +1,12 @@
 {
   "description": "Music from \"Aikatsu!\", a story of young girls dreaming of becoming a top idol. \u30c8\u30c3\u30d7\u30a2\u30a4\u30c9\u30eb\u3092\u76ee\u6307\u3059\u5c11\u5973\u9054\u306e\u7269\u8a9e\u3001<a href=\"http://www.aikatsu.net/01/\">\u30a2\u30a4\u30ab\u30c4\uff01</a>\u306e\u714c\u3081\u304f\u4e16\u754c\u3078\u3002(C)BNP/BANDAI, DENTSU, TV TOKYO",
-  "num_followers": 24573,
+  "num_followers": 24589,
   "original_name": "Let's Aikatsu! -\u30a2\u30a4\u30ab\u30c4-\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg1MjIxNiwwMDAwMDAwMGY0MThjOWFhNzExOWU5Mzc4MjUxNzUxMmFlNGU1ODMz",
+  "snapshot_id": "MCxjMmYyMjdkY2VmMjhlYWNjY2Y1ODA2N2FhZjcxZDk1Y2RkZGFhNDZi",
   "tracks": [
     {
       "added_at": "2022-07-26 16:16:56",
@@ -420,6 +420,22 @@
       },
       "artists": [
         {
+          "name": "\u308f\u304b\u30fb\u3075\u3046\u308a\u30fb\u3059\u306a\u304a\u30fb\u308c\u307f\u30fb\u3082\u3048 from STAR\u2606ANIS",
+          "url": "https://open.spotify.com/artist/5luj8dLsbPa7sDj57qTmvK"
+        }
+      ],
+      "duration_ms": 283706,
+      "name": "fashion check!",
+      "url": "https://open.spotify.com/track/3EkrkoXhZ47Wuz7YTkpJgL"
+    },
+    {
+      "added_at": "2022-07-26 16:16:56",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS7",
+        "url": "https://open.spotify.com/album/2Sem3JWBAq2Mj07a7WMQD2"
+      },
+      "artists": [
+        {
           "name": "\u308c\u307f\u30fb\u3075\u3046\u308a from STAR\u2606ANIS",
           "url": "https://open.spotify.com/artist/3F5qIrsmmNc7q2qIb3sY0f"
         }
@@ -443,22 +459,6 @@
       "duration_ms": 283720,
       "name": "\u30c1\u30e5\u30c1\u30e5\u30fb\u30d0\u30ec\u30ea\u30fc\u30ca",
       "url": "https://open.spotify.com/track/3G3z3lpTbmN62PSQ3K3zfA"
-    },
-    {
-      "added_at": "2022-07-26 16:16:56",
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS7",
-        "url": "https://open.spotify.com/album/2Sem3JWBAq2Mj07a7WMQD2"
-      },
-      "artists": [
-        {
-          "name": "\u308f\u304b\u30fb\u3075\u3046\u308a\u30fb\u3059\u306a\u304a\u30fb\u308c\u307f\u30fb\u3082\u3048 from STAR\u2606ANIS",
-          "url": "https://open.spotify.com/artist/5luj8dLsbPa7sDj57qTmvK"
-        }
-      ],
-      "duration_ms": 283706,
-      "name": "fashion check!",
-      "url": "https://open.spotify.com/track/3EkrkoXhZ47Wuz7YTkpJgL"
     },
     {
       "added_at": "2022-07-26 16:16:56",
@@ -627,8 +627,8 @@
     {
       "added_at": "2022-07-26 16:16:56",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS12",
-        "url": "https://open.spotify.com/album/6oGCfLrXyvdxGPqE16cqgk"
+        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS6",
+        "url": "https://open.spotify.com/album/3A3hNMSWlGtOWnN5OeAyYw"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/1NaE2Fjd4zGS4locbVUAAq"
         }
       ],
-      "duration_ms": 313240,
-      "name": "\u8f1d\u304d\u306e\u30a8\u30c1\u30e5\u30fc\u30c9",
-      "url": "https://open.spotify.com/track/7oJ09B2zdbrNO3f1fc0XYl"
+      "duration_ms": 201026,
+      "name": "Growing for a dream",
+      "url": "https://open.spotify.com/track/06DjATSo7mVXy3fSxzct1e"
     },
     {
       "added_at": "2022-07-26 16:16:56",
@@ -743,8 +743,8 @@
     {
       "added_at": "2022-07-26 16:16:56",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS6",
-        "url": "https://open.spotify.com/album/3A3hNMSWlGtOWnN5OeAyYw"
+        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS12",
+        "url": "https://open.spotify.com/album/6oGCfLrXyvdxGPqE16cqgk"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/1NaE2Fjd4zGS4locbVUAAq"
         }
       ],
-      "duration_ms": 201026,
-      "name": "Growing for a dream",
-      "url": "https://open.spotify.com/track/06DjATSo7mVXy3fSxzct1e"
+      "duration_ms": 313240,
+      "name": "\u8f1d\u304d\u306e\u30a8\u30c1\u30e5\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/7oJ09B2zdbrNO3f1fc0XYl"
     },
     {
       "added_at": "2022-07-26 16:16:56",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Alfa Mist",
+  "description": "The best jazz new releases. Cover: Samara Joy",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -206,7 +206,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 246400,
       "name": "Aged Eyes",
       "url": "https://open.spotify.com/track/7xtWxotWjZAFB1rw5J3HHz"
@@ -224,7 +224,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 161090,
       "name": "Agony",
       "url": "https://open.spotify.com/track/0F74dT9SZEtGzd8bg7bd3c"
@@ -424,7 +424,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 309360,
       "name": "Asta",
       "url": "https://open.spotify.com/track/7Bd5QBn1WRxcDXXzCS1DSB"
@@ -612,6 +612,32 @@
       "duration_ms": 263400,
       "name": "Bizarre",
       "url": "https://open.spotify.com/track/5gBNcgLVzIUktu6E6GJqMZ"
+    },
+    {
+      "album": {
+        "name": "Black Classical Music (feat. Venna & Charlie Stacey)",
+        "url": "https://open.spotify.com/album/7L63PL897aTm0Xu1pt8Fbo"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Charlie Stacey",
+          "url": "https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319040,
+      "name": "Black Classical Music (feat. Venna & Charlie Stacey)",
+      "url": "https://open.spotify.com/track/3cWCTxaFlebwEnQXibNwAu"
     },
     {
       "album": {
@@ -876,7 +902,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 360093,
       "name": "Chic O'Clock",
       "url": "https://open.spotify.com/track/5823hf55oABckejkndnNXR"
@@ -2173,6 +2199,24 @@
     },
     {
       "album": {
+        "name": "I Miss You So",
+        "url": "https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223060,
+      "name": "I Miss You So",
+      "url": "https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul"
+    },
+    {
+      "album": {
         "name": "Your Mother Should Know: Brad Mehldau Plays The Beatles",
         "url": "https://open.spotify.com/album/6w9YYlUOAu5gtirkVUZQFT"
       },
@@ -2583,6 +2627,24 @@
     },
     {
       "album": {
+        "name": "Come On & Get It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/544v2wHRMwPAc7frjbukKf"
+      },
+      "artists": [
+        {
+          "name": "Judith Owen",
+          "url": "https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232343,
+      "name": "King Size Papa",
+      "url": "https://open.spotify.com/track/4jUTtGnhdBKqxWQycVgIEh"
+    },
+    {
+      "album": {
         "name": "La \u00d1apa",
         "url": "https://open.spotify.com/album/3irpaaj5nCOgJSZe56PNWt"
       },
@@ -2722,7 +2784,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 246672,
       "name": "Little Jazz Bird",
       "url": "https://open.spotify.com/track/1rRCoIYM6CVJ2iWiSFMGQG"
@@ -2840,6 +2902,24 @@
       "duration_ms": 182412,
       "name": "Lookin' Up",
       "url": "https://open.spotify.com/track/3wvWXBrtNOSjf3LOZhpfNX"
+    },
+    {
+      "album": {
+        "name": "Nina",
+        "url": "https://open.spotify.com/album/6z7RipHovotv8iZtjz3hIt"
+      },
+      "artists": [
+        {
+          "name": "Kareen Guiock-Thuram",
+          "url": "https://open.spotify.com/artist/0YXx07hUxn2vNcy8Cdj5ER"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194863,
+      "name": "Love me or leave me",
+      "url": "https://open.spotify.com/track/735MKgrGONAiSTofyRMQ5C"
     },
     {
       "album": {
@@ -3374,6 +3454,28 @@
       "duration_ms": 219800,
       "name": "Nobody Else But Me",
       "url": "https://open.spotify.com/track/5Ke5AnORQzHKS1xkvXG0uI"
+    },
+    {
+      "album": {
+        "name": "Not Here / Not Now",
+        "url": "https://open.spotify.com/album/0pO4nHmz5vGINmvO31sE5N"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255953,
+      "name": "Not Here / Not Now",
+      "url": "https://open.spotify.com/track/7fopfIiFlzdFIdHwqtNsIG"
     },
     {
       "album": {
@@ -4392,7 +4494,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 261614,
       "name": "Sudra Funk",
       "url": "https://open.spotify.com/track/6DFJkfHrSzpBT8vU2APNDe"
@@ -4472,7 +4574,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 224320,
       "name": "Sweet Pumpkin (feat. Gerald Clayton) - Duo Version",
       "url": "https://open.spotify.com/track/4gmxdNHKgBmE8x0CyKnvc0"
@@ -4566,6 +4668,24 @@
       "duration_ms": 243314,
       "name": "Taking Me Higher",
       "url": "https://open.spotify.com/track/5ZfnFMQcDepyO0QO7faF8A"
+    },
+    {
+      "album": {
+        "name": "Talent Stick",
+        "url": "https://open.spotify.com/album/6iHyp8p7M8TYEZegzZxUBW"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240352,
+      "name": "Talent Stick",
+      "url": "https://open.spotify.com/track/7yukuMCiNS57X6amD5MMwe"
     },
     {
       "album": {
@@ -4694,6 +4814,36 @@
       "duration_ms": 214204,
       "name": "The Light Shines Brightest In The Dark From \"Marlowe\" - From \"Marlowe\"",
       "url": "https://open.spotify.com/track/3zQ2vKWOflKo0wH6PyvfP2"
+    },
+    {
+      "album": {
+        "name": "California Hang",
+        "url": "https://open.spotify.com/album/0Ji9tqt7Mo6DUOogkvmThp"
+      },
+      "artists": [
+        {
+          "name": "Nicola Sabato",
+          "url": "https://open.spotify.com/artist/3FGx234zwmXTXt33Psei1n"
+        },
+        {
+          "name": "Jeff Hamilton",
+          "url": "https://open.spotify.com/artist/1qWu3D3Lp6hCk4XFNaeZ18"
+        },
+        {
+          "name": "Graham Dechter",
+          "url": "https://open.spotify.com/artist/0UcqfzkKurNT3cfrtULTwd"
+        },
+        {
+          "name": "Tamir Hendelman",
+          "url": "https://open.spotify.com/artist/73eFsz9XC6cCUi6C8fshV4"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383346,
+      "name": "The Masquerade Is Over",
+      "url": "https://open.spotify.com/track/2xEr1lMQwQtcvW7m2sAo44"
     },
     {
       "album": {

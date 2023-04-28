@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: محمود الليثى
 
-202 songs - 15 hr 29 min
+203 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Al Set Lama](https://open.spotify.com/track/35gNlZHGMNWH1gcA3RVz1s) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Mahmoud Ellithy's Songs](https://open.spotify.com/album/4pCg7FV1hI503OwG7YSMyK) | 5:10 | 2021-12-16 | 2022-07-29 |
 | [Ala Wadaak](https://open.spotify.com/track/0ADAMHFnD7Bah3YuBRHOqk) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Ala Wadaak](https://open.spotify.com/album/5H3MIjRkSENZxSHhRIYrKj) | 4:41 | 2021-12-16 | 2022-07-27 |
 | [Alb Akhok](https://open.spotify.com/track/4koneNxLYSL43LF9n5ua4k) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Alb Akhok](https://open.spotify.com/album/67k3Nzh6LtOIlGBME6nEzK) | 3:49 | 2022-04-23 |  |
-| [Alf Mara](https://open.spotify.com/track/5dclDyXVPEGp7NwZCSvO0I) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Alf Mara](https://open.spotify.com/album/0OXqtj6hYnSjabFF8jaagf) | 4:09 | 2021-12-16 |  |
+| [Alf Mara](https://open.spotify.com/track/5dclDyXVPEGp7NwZCSvO0I) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Alf Mara](https://open.spotify.com/album/0OXqtj6hYnSjabFF8jaagf) | 4:09 | 2021-12-16 | 2023-04-28 |
 | [Allah Yesamhak](https://open.spotify.com/track/1lgiikqSik6rMhFp115ilC) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Allah Yesamhak](https://open.spotify.com/album/7AUjIpQmu8YfU9635Db5Rp) | 4:51 | 2021-12-16 | 2022-07-29 |
 | [Am Ya Sayyad](https://open.spotify.com/track/2sOg3LnhEYvlEw55TYmif8) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Hareea](https://open.spotify.com/album/2tRSG1MIGCH9vgHxfaJxs9) | 4:33 | 2022-07-14 | 2023-02-08 |
 | [Am Ya Sayyad](https://open.spotify.com/track/3q1TWyi5VzCqemyfEyC24Q) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Am Ya Sayyad](https://open.spotify.com/album/1rYMhT7sqQg3ZsgQysjoou) | 4:33 | 2021-12-16 | 2022-07-29 |
@@ -120,6 +120,7 @@
 | [Togar Saada](https://open.spotify.com/track/5VWGBXKbb8xrAjwcbmAxtv) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Togar Saada](https://open.spotify.com/album/0tp0RCyY4MU5KdmQsZSt0T) | 4:27 | 2021-12-16 |  |
 | [TooT Pary](https://open.spotify.com/track/6W2N4jzO7OspZe1awu6zPH) | [Hoda Bondoq](https://open.spotify.com/artist/7N1jZbsOz4SC1shdg87eMY), [Naaoum](https://open.spotify.com/artist/3pnV3zaWjl7WpOVmTWLxW9) | [توت برى](https://open.spotify.com/album/3aCUEAIozhVmuhFPZeF3SL) | 3:24 | 2021-12-16 |  |
 | [Wallahy Ma Yanfaa](https://open.spotify.com/track/3AnnlxYSltiDIey3R4IRZK) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Wallahy Ma Yanfaa](https://open.spotify.com/album/2REtyeLZsoheWYqgJ3Oij4) | 3:09 | 2021-12-16 | 2023-03-31 |
+| [Wallahy Ma Yanfaa](https://open.spotify.com/track/3a1hHwnITWPMW8ynj24JgH) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Wallahy Ma Yanfaa](https://open.spotify.com/album/38BlK3oSLFV5HcCK2nS1Fb) | 3:09 | 2023-04-20 |  |
 | [Wasa3 Wasa3](https://open.spotify.com/track/2hZb0DuHOlqka9VYhHlTpM) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Wasa3 Wasa3](https://open.spotify.com/album/4ejC21FFgQLYmMCm1OfSKh) | 3:58 | 2022-07-06 | 2022-07-09 |
 | [Ya Bay](https://open.spotify.com/track/01UNrIexMipixuxs3rsgU2) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Ya Bay 2022](https://open.spotify.com/album/0p4kpGpxg5vjnvMX7ndZGp) | 3:07 | 2023-04-11 |  |
 | [Ya Bay](https://open.spotify.com/track/1tIjCjZggwGIIviiOn4qkB) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Ya Bay](https://open.spotify.com/album/3pLAjS8pQIbluq04CPZMVB) | 3:07 | 2021-12-16 | 2023-03-30 |

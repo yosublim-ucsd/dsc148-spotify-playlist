@@ -4,7 +4,7 @@
 
 > consider this an RSVP to littest wedding parties
 
-76 songs - 4 hr 0 min
+77 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Stand By You](https://open.spotify.com/track/4uSn4uo2QYTJcENcvVri96) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Stand By You](https://open.spotify.com/album/4xyk3drYz00n2co5h3h2Kc) | 2:55 | 2023-01-29 | 2023-04-23 |
 | [Surrender](https://open.spotify.com/track/3IQ3XI5Q2RjGYKGzkwCA65) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:42 | 2022-02-11 |  |
 | [The Love Song \(feat\. Wande Coal\)](https://open.spotify.com/track/1Dv2XVRbsgjdvGVqFSVYUE) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [The Guy](https://open.spotify.com/album/29rxfdTVf1LiDLwAF1qW8u) | 2:56 | 2022-08-18 |  |
+| [Tornado](https://open.spotify.com/track/52L1OTjUe8Zmz8xQH9HENi) | [Tripcy](https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Tornado](https://open.spotify.com/album/339rnWvetNqZTAZzxrlv35) | 2:38 | 2023-04-27 |  |
 | [Wetin](https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Wetin](https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb) | 1:18 | 2023-01-29 |  |
 | [Whenever](https://open.spotify.com/track/0yOviZhkPwCUtOfWRRP6nd) | [Ugoccie](https://open.spotify.com/artist/23NKFSnR8yAUDQdub4vnIN), [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW) | [A Piece Of Me](https://open.spotify.com/album/0enq2ODADHlUOmFWjxatEj) | 2:36 | 2022-11-24 | 2023-01-13 |
 | [Winner](https://open.spotify.com/track/0Bmw1fmFi01PvyIKT0akqt) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [The Brother's Keeper](https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX) | 3:08 | 2022-08-26 |  |

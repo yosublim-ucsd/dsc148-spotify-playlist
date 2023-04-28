@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Hook, Karun and Steph Kapela",
+  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Amara Tari",
   "name": "NairoBae",
   "tracks": [
     {
@@ -2206,7 +2206,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 222545,
       "name": "Turn It Off",
       "url": "https://open.spotify.com/track/1juwVlJ15TZZXFo4vIEexs"
@@ -2328,6 +2328,28 @@
       "duration_ms": 216979,
       "name": "Want You",
       "url": "https://open.spotify.com/track/4soHwOdoVbeY0HgXI8K5vS"
+    },
+    {
+      "album": {
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/4HYPMdHDoTzGLCeB9nVxxZ"
+      },
+      "artists": [
+        {
+          "name": "Colossal Music",
+          "url": "https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520"
+        },
+        {
+          "name": "Amara Tari",
+          "url": "https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246666,
+      "name": "WARNING",
+      "url": "https://open.spotify.com/track/6HOOJ2LbasnZqxuqlaNSfk"
     },
     {
       "album": {

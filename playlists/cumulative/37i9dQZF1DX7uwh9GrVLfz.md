@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Hi\-STANDARD
 
-540 songs - 1 day 5 hr 20 min
+541 songs - 1 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [CHANGES](https://open.spotify.com/track/2LJu1JfpZw1ekxaHGMIam3) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [CHANGES](https://open.spotify.com/album/0N9hph6Prr4UgH9ah1EZaH) | 3:23 | 2022-05-12 | 2022-11-13 |
 | [Chopped Grill Chicken](https://open.spotify.com/track/0KgDHXpxRbjpJVDzBbScCu) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Chopped Grill Chicken](https://open.spotify.com/album/5zXUaK0xAXkUJt6yqk2B5Y) | 1:46 | 2022-05-12 | 2022-07-25 |
 | [CLOSE MY EYES](https://open.spotify.com/track/107o82eC8ysPIwxKcp3pBZ) | [Upper](https://open.spotify.com/artist/69w8lpKIuZ07GiNtdL7SCm) | [NOT OVER YET](https://open.spotify.com/album/1Ffe5GprhhUzC8KWIUWoVt) | 3:44 | 2022-06-07 | 2022-06-26 |
-| [Colorful Hip](https://open.spotify.com/track/4FCYSyFoltl1F5pZIozd1B) | [KAZUKIYAMAMORI](https://open.spotify.com/artist/0WUQd2fb6RypKU9htBzm6i) | [PSIKAZUKIYAMAMORI](https://open.spotify.com/album/3vglzqT2CU1OMIypbkZB3R) | 2:25 | 2023-01-10 |  |
+| [Colorful Hip](https://open.spotify.com/track/4FCYSyFoltl1F5pZIozd1B) | [KAZUKIYAMAMORI](https://open.spotify.com/artist/0WUQd2fb6RypKU9htBzm6i) | [PSIKAZUKIYAMAMORI](https://open.spotify.com/album/3vglzqT2CU1OMIypbkZB3R) | 2:25 | 2023-01-10 | 2023-04-28 |
 | [Come On,Let's Do The Pogo](https://open.spotify.com/track/4glSDAuqHUmUZzidvMhdP9) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Ken Yokoyama VS NAMBA69](https://open.spotify.com/album/2PG2LrM2OO1F68bz5xx0li) | 2:19 | 2022-05-17 | 2022-07-16 |
 | [count](https://open.spotify.com/track/2pUrr0QCUnDn09xfiDSOs6) | [Fated Lyeno](https://open.spotify.com/artist/7o0LH2g7bxIJez5DQiZQav) | [get over trials](https://open.spotify.com/album/5cacCmIKiq9p9L77lCjNFC) | 3:37 | 2022-05-12 | 2022-07-08 |
 | [Crap! Crap! Crap!](https://open.spotify.com/track/0uVkElZjeS9ujWnMALt6T7) | [NUBO](https://open.spotify.com/artist/7slpt682HvHguesqFJjqit) | [Crap! Crap! Crap!](https://open.spotify.com/album/5Hlisacn7iiNRJmtsy422T) | 2:22 | 2022-05-12 | 2022-07-27 |
@@ -149,6 +149,7 @@
 | [Hurdle Race](https://open.spotify.com/track/4IUjUIp4f2a54RNstS6qUX) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Blooming Harvest](https://open.spotify.com/album/18k6aVfVyInbeSQOzJiTQb) | 2:35 | 2022-05-12 | 2022-07-20 |
 | [I know](https://open.spotify.com/track/15fphhO291Ut1Uu3LpS6tY) | [SEPTALUCK](https://open.spotify.com/artist/5SzyFQjwKUq5jq3qeENnZo) | [I know](https://open.spotify.com/album/3NBx35slNN8loaFNeEInB8) | 3:44 | 2022-08-25 | 2022-09-15 |
 | [I Like You](https://open.spotify.com/track/1heOMysisFUHkzn76lMBgB) | [HONEST](https://open.spotify.com/artist/59iGba2GaoFVPVlnwy5J1G) | [HONEST](https://open.spotify.com/album/22DUKrSmkz2H86ew2lsVgJ) | 1:48 | 2023-01-31 | 2023-03-01 |
+| [I LOVE HIS SONG I COULD DIE](https://open.spotify.com/track/7bxyTGWClbH0JXhG1lYx9W) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [I LOVE HIS SONG I COULD DIE](https://open.spotify.com/album/0Ib48h7MauySf6xS7xgxoC) | 3:01 | 2023-04-27 |  |
 | [I Love You ja ai mai](https://open.spotify.com/track/7zApMvRtAq12Mk5x8rzFdm) | [音武者](https://open.spotify.com/artist/6sDl2vWL0zSjk9vqK6Ze9k) | [I Love You ja ai mai](https://open.spotify.com/album/0qHnl5doc0FCUvz2mSyePs) | 2:19 | 2022-07-07 | 2022-07-20 |
 | [I MADE YOU BLACK](https://open.spotify.com/track/13vBqDAqQBta8FF1oedWkd) | [S.M.N.](https://open.spotify.com/artist/1D6MlbV9yHTOrlmMNhtEc5) | [BAD HOP](https://open.spotify.com/album/1oud6zNyNjCKTF6lnyTMke) | 2:14 | 2022-05-17 | 2022-07-11 |
 | [I Want to Be Wrong](https://open.spotify.com/track/55kk1gFvPshLGQi9rW3si6) | [HOTSQUALL](https://open.spotify.com/artist/6DkswbIQ8sHITQC6KqBFMP) | [A Tribute To NO USE FOR A NAME](https://open.spotify.com/album/3RHnxCI12A7417md6Fsc5l) | 2:41 | 2022-06-21 | 2022-07-18 |

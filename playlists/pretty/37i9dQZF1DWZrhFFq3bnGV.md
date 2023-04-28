@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Azimah Fada
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,529 likes - 105 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,532 likes - 105 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 | 104 | [Melawan Takdir](https://open.spotify.com/track/5NT81HlBEmoi8IEhL5jV8m) | [Hezky Jo](https://open.spotify.com/artist/4xJoIawErbqny2Yj6X6xdy), [Azizah Hanum](https://open.spotify.com/artist/5mEePWMgxiwAULqU0nrQig) | [Melawan Takdir](https://open.spotify.com/album/32Rr9t1JgFxjFAXLXY1vmQ) | 3:09 |
 | 105 | [Pengungkapan Hatimu Feat\. Andien](https://open.spotify.com/track/1U2HfAJLJp6TXt60qPh34d) | [Candra Darusman](https://open.spotify.com/artist/27w64nGa7wM8hN7oz7INCt) | [Pengungkapan Hatimu](https://open.spotify.com/album/4QsOHvGDtaXUXvn8uHv8yf) | 3:56 |
 
-Snapshot ID: `MTY3OTYzNzQ5MCwwMDAwMDAwMDQ2MzM1ZGY2MDlmOTVjOGI4YzhkMjlhMTExYzVlMGIw`
+Snapshot ID: `MCw3YzZjNTRjYTY1NzRiZTg0NTA0ZDgyMWU2NGYwMTRlMGRkOWY5OTRl`

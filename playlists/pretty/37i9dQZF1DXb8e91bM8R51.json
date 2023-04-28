@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 38964,
+  "num_followers": 38995,
   "original_name": "No corre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0NjA2MCwwMDAwMDAwMGI2NmNkNjA4ZmVkMGVmZjJiOTMzMTE1ZGM2MjI1NDFi",
+  "snapshot_id": "MCw2OTM1YmRlODI2YzNkMzRiMDkxZTZhYmIzYTBkOTc3N2YxYWYyZDIy",
   "tracks": [
     {
       "added_at": "2023-04-21 03:01:00",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "DOGTOOTH",
-        "url": "https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 161041,
-      "name": "DOGTOOTH",
-      "url": "https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
         "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
         "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 182906,
       "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
       "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
+        "name": "DOGTOOTH",
+        "url": "https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 161041,
+      "name": "DOGTOOTH",
+      "url": "https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
         "name": "The Infamous",
         "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 325506,
       "name": "Shook Ones, Pt. II",
       "url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -655,22 +655,18 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "Tommy Lee (feat. Post Malone)",
-        "url": "https://open.spotify.com/album/2PFiZ23ZyPTcgwmXk4X6o0"
+        "name": "K.I.D.S.",
+        "url": "https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg"
       },
       "artists": [
         {
-          "name": "Tyla Yaweh",
-          "url": "https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 224638,
-      "name": "Tommy Lee (feat. Post Malone)",
-      "url": "https://open.spotify.com/track/5QZKcQDp0tCcvMdyqEciBV"
+      "duration_ms": 164631,
+      "name": "Nikes on My Feet",
+      "url": "https://open.spotify.com/track/7cAFB83sEKAmwekVvQtGZj"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -691,18 +687,22 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "K.I.D.S.",
-        "url": "https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg"
+        "name": "Tommy Lee (feat. Post Malone)",
+        "url": "https://open.spotify.com/album/2PFiZ23ZyPTcgwmXk4X6o0"
       },
       "artists": [
         {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          "name": "Tyla Yaweh",
+          "url": "https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 164631,
-      "name": "Nikes on My Feet",
-      "url": "https://open.spotify.com/track/7cAFB83sEKAmwekVvQtGZj"
+      "duration_ms": 224638,
+      "name": "Tommy Lee (feat. Post Malone)",
+      "url": "https://open.spotify.com/track/5QZKcQDp0tCcvMdyqEciBV"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
+        "name": "Straightenin",
+        "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 255532,
+      "name": "Straightenin",
+      "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
         "name": "Ain\u2019t Safe (feat. Don Toliver)",
         "url": "https://open.spotify.com/album/2XlxXuumhYX4lIU2nXoUXw"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 166514,
       "name": "Ain\u2019t Safe (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
-        "name": "Straightenin",
-        "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 255532,
-      "name": "Straightenin",
-      "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "Crossroads",
-        "url": "https://open.spotify.com/album/6ULznds6F3HJlHA5dIWIuW"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 170654,
-      "name": "Crossroads",
-      "url": "https://open.spotify.com/track/400CcnDumUGLEJLleSzMKj"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
         "name": "Sremm 4 Life",
         "url": "https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67"
       },
@@ -1455,18 +1439,18 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "King's Disease III",
-        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/6ULznds6F3HJlHA5dIWIuW"
       },
       "artists": [
         {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
         }
       ],
-      "duration_ms": 167724,
-      "name": "Michael & Quincy",
-      "url": "https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH"
+      "duration_ms": 170654,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/400CcnDumUGLEJLleSzMKj"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -1487,6 +1471,22 @@
       "duration_ms": 233093,
       "name": "Eazy (Feat. Kanye West)",
       "url": "https://open.spotify.com/track/7CbHgNrlybV0uyP1wJINDd"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
+        "name": "King's Disease III",
+        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 167724,
+      "name": "Michael & Quincy",
+      "url": "https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -1527,22 +1527,6 @@
       "duration_ms": 108387,
       "name": "In my lifetime (feat. Action Bronson)",
       "url": "https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
-        "name": "Denial",
-        "url": "https://open.spotify.com/album/7pU5A0t0YLo1BMH5OE67Uc"
-      },
-      "artists": [
-        {
-          "name": "Rae Sremmurd",
-          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Denial",
-      "url": "https://open.spotify.com/track/4MQnXVR8DJvsySuXYuzUtf"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -1591,22 +1575,34 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "King's Disease II",
-        "url": "https://open.spotify.com/album/6CM5qhYBvpgYNek5kYwuOJ"
+        "name": "Kool Aid and Frozen Pizza",
+        "url": "https://open.spotify.com/album/7xHyZoZLGHVUCdZwG16Zd3"
       },
       "artists": [
         {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 282192,
-      "name": "Nobody (feat. Ms. Lauryn Hill)",
-      "url": "https://open.spotify.com/track/1W7gmQ7AgRMIUthrV0OD0h"
+      "duration_ms": 157737,
+      "name": "Kool Aid and Frozen Pizza",
+      "url": "https://open.spotify.com/track/3VmrLy4WZLHDgTXENCIz2p"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
+        "name": "Denial",
+        "url": "https://open.spotify.com/album/7pU5A0t0YLo1BMH5OE67Uc"
+      },
+      "artists": [
+        {
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Denial",
+      "url": "https://open.spotify.com/track/4MQnXVR8DJvsySuXYuzUtf"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -1623,22 +1619,6 @@
       "duration_ms": 171826,
       "name": "Do What I Want",
       "url": "https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
-        "name": "Kool Aid and Frozen Pizza",
-        "url": "https://open.spotify.com/album/7xHyZoZLGHVUCdZwG16Zd3"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 157737,
-      "name": "Kool Aid and Frozen Pizza",
-      "url": "https://open.spotify.com/track/3VmrLy4WZLHDgTXENCIz2p"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -1663,38 +1643,6 @@
       "duration_ms": 175639,
       "name": "I Won",
       "url": "https://open.spotify.com/track/1viUV5EGlKGCiSveBfFeQg"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
-        "name": "Vinyl Days",
-        "url": "https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        }
-      ],
-      "duration_ms": 124973,
-      "name": "Tetris",
-      "url": "https://open.spotify.com/track/7tQpKKS4Jis0pCotemeLdz"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
-        "name": "Stakes Is High",
-        "url": "https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 330408,
-      "name": "Stakes Is High",
-      "url": "https://open.spotify.com/track/5sfXK6yQlY9vSzuR3f3oD8"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -1731,6 +1679,58 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
+        "name": "King's Disease II",
+        "url": "https://open.spotify.com/album/6CM5qhYBvpgYNek5kYwuOJ"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 282192,
+      "name": "Nobody (feat. Ms. Lauryn Hill)",
+      "url": "https://open.spotify.com/track/1W7gmQ7AgRMIUthrV0OD0h"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
+        "name": "Vinyl Days",
+        "url": "https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "duration_ms": 124973,
+      "name": "Tetris",
+      "url": "https://open.spotify.com/track/7tQpKKS4Jis0pCotemeLdz"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
+        "name": "Stakes Is High",
+        "url": "https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "duration_ms": 330408,
+      "name": "Stakes Is High",
+      "url": "https://open.spotify.com/track/5sfXK6yQlY9vSzuR3f3oD8"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
         "name": "Therapy pt. 2 [Feat. Mac Miller]",
         "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
       },
@@ -1747,30 +1747,6 @@
       "duration_ms": 202225,
       "name": "Therapy pt. 2 [Feat. Mac Miller]",
       "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
-        "name": "King's Disease II",
-        "url": "https://open.spotify.com/album/6CM5qhYBvpgYNek5kYwuOJ"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "EPMD",
-          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
-        }
-      ],
-      "duration_ms": 214434,
-      "name": "EPMD 2 (feat. Eminem & EPMD)",
-      "url": "https://open.spotify.com/track/4bRPecD9suGW8CfNZhzjS1"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -1831,6 +1807,30 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
+        "name": "King's Disease II",
+        "url": "https://open.spotify.com/album/6CM5qhYBvpgYNek5kYwuOJ"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "EPMD",
+          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        }
+      ],
+      "duration_ms": 214434,
+      "name": "EPMD 2 (feat. Eminem & EPMD)",
+      "url": "https://open.spotify.com/track/4bRPecD9suGW8CfNZhzjS1"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
         "name": "RAMONA PARK BROKE MY HEART",
         "url": "https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW"
       },
@@ -1867,26 +1867,6 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "[BUMP] Pick Me Up",
-        "url": "https://open.spotify.com/album/6zRk8SdWozgrlByoZJkCjM"
-      },
-      "artists": [
-        {
-          "name": "Bas",
-          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 157777,
-      "name": "[Admire Her] (with Gunna)",
-      "url": "https://open.spotify.com/track/4wJKTG3bAleqUXmylh83Id"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
         "name": "Faces",
         "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
       },
@@ -1907,22 +1887,22 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "Miss My Dawgs",
-        "url": "https://open.spotify.com/album/3tWXlBpvbJN1F0cLtOc47a"
+        "name": "[BUMP] Pick Me Up",
+        "url": "https://open.spotify.com/album/6zRk8SdWozgrlByoZJkCjM"
       },
       "artists": [
         {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
         },
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 163205,
-      "name": "Miss My Dawgs (with Lil Wayne)",
-      "url": "https://open.spotify.com/track/5fCBPjWjqaa0vuRO0ZRWPC"
+      "duration_ms": 157777,
+      "name": "[Admire Her] (with Gunna)",
+      "url": "https://open.spotify.com/track/4wJKTG3bAleqUXmylh83Id"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -1939,6 +1919,26 @@
       "duration_ms": 180826,
       "name": "Head High",
       "url": "https://open.spotify.com/track/1TUNcLZZImGkNlviSpQp6H"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
+        "name": "Miss My Dawgs",
+        "url": "https://open.spotify.com/album/3tWXlBpvbJN1F0cLtOc47a"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 163205,
+      "name": "Miss My Dawgs (with Lil Wayne)",
+      "url": "https://open.spotify.com/track/5fCBPjWjqaa0vuRO0ZRWPC"
     },
     {
       "added_at": "2023-04-21 03:01:00",

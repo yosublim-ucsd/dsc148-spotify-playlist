@@ -4014,10 +4014,28 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 183974,
       "name": "SPIDER WEB",
       "url": "https://open.spotify.com/track/54lDUmLUNp653H12lF6NnA"
+    },
+    {
+      "album": {
+        "name": "PORTALS (Deluxe)",
+        "url": "https://open.spotify.com/album/6lbrHERXve89hrxuCpsJOg"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183974,
+      "name": "SPIDER WEB",
+      "url": "https://open.spotify.com/track/77wA2WR0WudvUTzeBGYh3d"
     },
     {
       "album": {

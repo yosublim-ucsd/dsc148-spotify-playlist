@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-594 songs - 1 day 1 hr 11 min
+596 songs - 1 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,7 @@
 | [Hideaway](https://open.spotify.com/track/3y4t41pbQBDpmD60HdCMRN) | [Dunham Froebel](https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT) | [Hideaway](https://open.spotify.com/album/2Ng37Ew03H9E7Q01Oao765) | 2:39 | 2022-05-27 | 2022-07-21 |
 | [Hideaway](https://open.spotify.com/track/3poVmAGCtZCM3Y0iRO1zWA) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Deep Blue Sea](https://open.spotify.com/album/0i5XbMBrhhikBCn2ExEWSt) | 2:56 | 2022-05-27 | 2022-09-24 |
 | [Highlands](https://open.spotify.com/track/5lszZIR5GNQubgdMefwp2T) | [Steve Jones Swiff](https://open.spotify.com/artist/3z1Zuq8iUJqouUmX3ugLml) | [Highlands](https://open.spotify.com/album/3dIFhoR2URHhpLMEVrv4eC) | 2:05 | 2022-05-27 | 2022-09-24 |
-| [Higo](https://open.spotify.com/track/4oBfjodJjWjJmYgDlZp7PV) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Higo](https://open.spotify.com/album/4fgRDKhFP0XVWAYXgGdsH0) | 2:54 | 2022-05-27 |  |
+| [Higo](https://open.spotify.com/track/4oBfjodJjWjJmYgDlZp7PV) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Higo](https://open.spotify.com/album/4fgRDKhFP0XVWAYXgGdsH0) | 2:54 | 2022-05-27 | 2023-04-28 |
 | [Hinoki](https://open.spotify.com/track/2IeuNWrM2UvBPsxPgzcW3l) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Hinoki](https://open.spotify.com/album/7JSNOlYLvEIgJp7WoJIRei) | 2:14 | 2022-05-27 | 2022-09-24 |
 | [Holding On To A Dream](https://open.spotify.com/track/3JckG2zBLn2DMyaB7kInQ1) | [Tedosio](https://open.spotify.com/artist/3El5MgGZoJYZvUhnn9O94A) | [Holding On To A Dream](https://open.spotify.com/album/7xWCR5yrTl5TquNUxPEnq4) | 2:23 | 2022-05-27 | 2022-09-24 |
 | [Home full of solipsism](https://open.spotify.com/track/0i5RkqFU2XfihIcxTxG3h1) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Home full of solipsism](https://open.spotify.com/album/6lO17gFILD6VAk71WT29dA) | 2:57 | 2022-05-27 |  |
@@ -219,7 +219,7 @@
 | [Horizon](https://open.spotify.com/track/2olHCqvx5Ww94jrUL6gmOp) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Horizon](https://open.spotify.com/album/7hmRly9ceFMBZirRQcy8ne) | 2:15 | 2022-05-27 | 2023-04-25 |
 | [Horizon](https://open.spotify.com/track/7Dlxj1vwhHVd6PeTWV50Gf) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Horizon](https://open.spotify.com/album/5BiNmrCJrBo2Tpd4PcAJqR) | 2:30 | 2023-02-06 | 2023-03-28 |
 | [Horizon](https://open.spotify.com/track/1nQ2WCJTn89CnirpfDHV60) | [Tamara Eden](https://open.spotify.com/artist/4bRMSKrWQRQXELuI73lXLD) | [Horizon](https://open.spotify.com/album/76wQZPok3Inlxf5aSPp9gF) | 2:22 | 2022-05-27 | 2023-01-21 |
-| [Hour Glass](https://open.spotify.com/track/5OU3bBYoT7TqGOlPrZqq7N) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [Hour Glass](https://open.spotify.com/album/7om9KUlSTFqdUeQfO9Rm4P) | 2:51 | 2022-05-27 |  |
+| [Hour Glass](https://open.spotify.com/track/5OU3bBYoT7TqGOlPrZqq7N) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [Hour Glass](https://open.spotify.com/album/7om9KUlSTFqdUeQfO9Rm4P) | 2:51 | 2022-05-27 | 2023-04-28 |
 | [Hour of Rest](https://open.spotify.com/track/0sCPbmOcdRcTWVDjHh22id) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Hour of Rest](https://open.spotify.com/album/6vtn108mEHEwVw0Lu1I4HO) | 1:52 | 2022-05-27 | 2022-07-21 |
 | [How Soon](https://open.spotify.com/track/3MScOhpysH4pW5PVziEpxS) | [Lucile Garett](https://open.spotify.com/artist/6VcRNGf7V9o2TJSW6leoCZ) | [How Soon](https://open.spotify.com/album/2ZaihQBGWPP9tOy1dprbks) | 2:50 | 2022-05-27 | 2022-11-12 |
 | [Human](https://open.spotify.com/track/2SMT5fwEqzZIu5VGFYL6qH) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Seasons](https://open.spotify.com/album/2ev06zAeaGpVlOkOTD1JUb) | 3:22 | 2022-05-27 | 2022-09-24 |
@@ -236,6 +236,7 @@
 | [Imbolc](https://open.spotify.com/track/0Lac4ar1MABDEvZ0RFIA36) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [Imbolc](https://open.spotify.com/album/0J6pG8QWSeb8jShtQ0MWi3) | 2:56 | 2022-07-20 |  |
 | [Impuissance](https://open.spotify.com/track/3W5GfZBvDJQKovjdCww4pL) | [Luisa Amogida](https://open.spotify.com/artist/6G62bUbzGc5W2y0yxeHEKj) | [Impuissance](https://open.spotify.com/album/7Md0Z0mUYIC9WVmnIGTuay) | 2:03 | 2022-05-27 |  |
 | [In The Presence Of Starlight](https://open.spotify.com/track/1S0sSgUfWpqvPET73lU7Hv) | [Rusyav](https://open.spotify.com/artist/31Cm8F7MLg9rGw3vnmSk6w) | [In The Presence Of Starlight](https://open.spotify.com/album/4lmyXqbmLgTESZMGlm7XXX) | 3:19 | 2022-05-27 |  |
+| [In Three Times](https://open.spotify.com/track/3XPVVb16gMFT9PFAGcKsNq) | [ODELIO](https://open.spotify.com/artist/69WozQ1x904JxonDiYM4ax) | [In Three Times](https://open.spotify.com/album/3delB5I5sP74zsVtzd4yf4) | 2:15 | 2023-04-25 |  |
 | [Indigo](https://open.spotify.com/track/0CtEIiyMbfaRDamb6Xuowz) | [Laila Lawson](https://open.spotify.com/artist/7FkVtLkKm15RmW66X3x23z) | [Indigo \| Serendipity](https://open.spotify.com/album/5iWWHiqGGNmgANGeomXzFt) | 3:09 | 2022-05-27 | 2022-09-24 |
 | [Innamorarsi](https://open.spotify.com/track/07DOQ7ce43Q5ICTdzG8M97) | [Irene Gaifana](https://open.spotify.com/artist/6gdy6anlAQAem03BVY6m83) | [Innamorarsi](https://open.spotify.com/album/47kowrH6Cijbzn3xy0FMV6) | 2:32 | 2022-05-27 | 2022-08-10 |
 | [Inner Haze](https://open.spotify.com/track/3A5ebpvRHl0yEpyRzbnOYN) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Inner Haze](https://open.spotify.com/album/4aIAblykyScKNEnwHi2okD) | 2:04 | 2022-05-27 | 2022-09-24 |
@@ -432,6 +433,7 @@
 | [Route To Rio De Janeiro](https://open.spotify.com/track/6S7KWlTlZzKM1QraYjEOvV) | [Enrico Giaretta](https://open.spotify.com/artist/4sUR1rcNQemMzHyAtW1lyS) | [Airways To Brazil](https://open.spotify.com/album/0A9uf2RSSsd5D3c7azMOCq) | 3:29 | 2022-05-27 | 2022-09-24 |
 | [Routourne](https://open.spotify.com/track/71YEjyMEYCFKrC2OiN4SGq) | [Petit Lilou](https://open.spotify.com/artist/6TjSQf8b2FKQ0iLI9F1l1v) | [Routourne](https://open.spotify.com/album/2D9wDkuWPVh6rvyB9gnldf) | 3:52 | 2022-05-27 | 2022-09-24 |
 | [Rue Au Pain](https://open.spotify.com/track/43pVgyjB9yACAHeoJzsVpg) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Rue Au Pain](https://open.spotify.com/album/2aASt56NiEervWgl35oO23) | 3:11 | 2022-05-27 | 2022-09-24 |
+| [Rébus](https://open.spotify.com/track/1RaP4GkSYdKzKyRJdXxBJ6) | [Christophe Pouget](https://open.spotify.com/artist/6NMPthFB3FbixffuRKpIGU) | [Rébus](https://open.spotify.com/album/4pJZ7dbo8FXYh3NwS7wOvl) | 2:29 | 2023-04-25 |  |
 | [Rêves d'éternité](https://open.spotify.com/track/013h40ZaPMhd98D3SCqrjC) | [Amélie Chantal](https://open.spotify.com/artist/5zuXGJ6hQt9pckfi7JOLVO) | [Rêves d'éternité](https://open.spotify.com/album/45b289J4ODP1WeI9RYjgjR) | 1:56 | 2022-05-27 | 2023-03-02 |
 | [Røgslør](https://open.spotify.com/track/16zbo4n31PEtvx6eDCWJqe) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Røgslør](https://open.spotify.com/album/13DfNvc23HtZrIJRQ0hkMN) | 2:12 | 2022-05-27 |  |
 | [Sagittabondo](https://open.spotify.com/track/6L73Pb4dv5p9OOlY1ja32c) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Sagittabondo](https://open.spotify.com/album/5xA0kiXHUSL1wFWY52fu5O) | 2:13 | 2022-05-27 | 2022-09-24 |

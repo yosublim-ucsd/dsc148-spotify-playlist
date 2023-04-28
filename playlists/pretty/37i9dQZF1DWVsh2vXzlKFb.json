@@ -1,12 +1,12 @@
 {
   "description": "The t-shirt weather essentials.",
-  "num_followers": 268557,
+  "num_followers": 269679,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgxODMxOSwwMDAwMDAwMGUwYWJkNzUwYWUwMzU5Y2Q2NTQ3MzI1ODBkMjRhOGFj",
+  "snapshot_id": "MCwzZTZhYzY3NGJiYTczNmFmZWNjNzUzZTU3OGVmYWVmOGYwY2Y2NjAx",
   "tracks": [
     {
       "added_at": "2023-03-11 00:52:02",
@@ -263,6 +263,22 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
+        "name": "K.I.D.S. (Deluxe)",
+        "url": "https://open.spotify.com/album/6TFm9KGW7Lbxrl2Zsg4X9R"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 195873,
+      "name": "The Spins",
+      "url": "https://open.spotify.com/track/7FAFkQQZFeNwOFzTrSDFIh"
+    },
+    {
+      "added_at": "2023-03-11 00:52:02",
+      "album": {
         "name": "Apollo XXI",
         "url": "https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 209200,
       "name": "AMAZING",
       "url": "https://open.spotify.com/track/3OM6qQmdFV6uy61GIqpRtf"
-    },
-    {
-      "added_at": "2023-03-11 00:52:02",
-      "album": {
-        "name": "K.I.D.S. (Deluxe)",
-        "url": "https://open.spotify.com/album/6TFm9KGW7Lbxrl2Zsg4X9R"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 195873,
-      "name": "The Spins",
-      "url": "https://open.spotify.com/track/7FAFkQQZFeNwOFzTrSDFIh"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
-        "name": "Year of the Caprese",
-        "url": "https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas"
-      },
-      "artists": [
-        {
-          "name": "Cherub",
-          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
-        }
-      ],
-      "duration_ms": 323253,
-      "name": "Doses & Mimosas",
-      "url": "https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN"
-    },
-    {
-      "added_at": "2023-03-11 00:52:02",
-      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 198805,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
+    },
+    {
+      "added_at": "2023-03-11 00:52:02",
+      "album": {
+        "name": "Year of the Caprese",
+        "url": "https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas"
+      },
+      "artists": [
+        {
+          "name": "Cherub",
+          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
+        }
+      ],
+      "duration_ms": 323253,
+      "name": "Doses & Mimosas",
+      "url": "https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -583,6 +583,26 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "Silk Chiffon",
+      "url": "https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f"
+    },
+    {
+      "added_at": "2023-03-11 00:52:02",
+      "album": {
         "name": "The Shave Experiment (Director's Cut)",
         "url": "https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 164690,
       "name": "Cologne",
       "url": "https://open.spotify.com/track/1NaDK3atogQEn9glK5fYuy"
-    },
-    {
-      "added_at": "2023-03-11 00:52:02",
-      "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 206586,
-      "name": "Silk Chiffon",
-      "url": "https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -923,18 +923,18 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
-        "name": "Here Comes Everybody",
-        "url": "https://open.spotify.com/album/5lnbzrucSAV8KKxTDtfvER"
+        "name": "Softly",
+        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
       },
       "artists": [
         {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 196533,
-      "name": "Lots of Nothing",
-      "url": "https://open.spotify.com/track/2WtFN7eLf5gvhJNgwBvGP6"
+      "duration_ms": 188780,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -955,18 +955,18 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
-        "name": "Softly",
-        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
+        "name": "Here Comes Everybody",
+        "url": "https://open.spotify.com/album/5lnbzrucSAV8KKxTDtfvER"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
         }
       ],
-      "duration_ms": 188780,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
+      "duration_ms": 196533,
+      "name": "Lots of Nothing",
+      "url": "https://open.spotify.com/track/2WtFN7eLf5gvhJNgwBvGP6"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
+        "name": "Foolish Loving Spaces (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0yMTm5gz3ZoUItDgE2kVru"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "duration_ms": 161293,
+      "name": "Your Girlfriend",
+      "url": "https://open.spotify.com/track/3tzU46wNOVaFiYRNtNYY66"
+    },
+    {
+      "added_at": "2023-03-11 00:52:02",
+      "album": {
         "name": "Lots of Nothing (feat. BENEE)",
         "url": "https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI"
       },
@@ -1039,18 +1055,18 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
-        "name": "Foolish Loving Spaces (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0yMTm5gz3ZoUItDgE2kVru"
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
       "artists": [
         {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 161293,
-      "name": "Your Girlfriend",
-      "url": "https://open.spotify.com/track/3tzU46wNOVaFiYRNtNYY66"
+      "duration_ms": 213024,
+      "name": "Anything But Me",
+      "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -1067,22 +1083,6 @@
       "duration_ms": 261911,
       "name": "Rose Pink Cadillac",
       "url": "https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa"
-    },
-    {
-      "added_at": "2023-03-11 00:52:02",
-      "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 213024,
-      "name": "Anything But Me",
-      "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
-        "name": "Glitra",
-        "url": "https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b"
-      },
-      "artists": [
-        {
-          "name": "Brijs",
-          "url": "https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV"
-        }
-      ],
-      "duration_ms": 210360,
-      "name": "Mol y Sol",
-      "url": "https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL"
-    },
-    {
-      "added_at": "2023-03-11 00:52:02",
-      "album": {
         "name": "Youth is Only Ever Fun in Retrospect",
         "url": "https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 225653,
       "name": "She Said",
       "url": "https://open.spotify.com/track/3ZJZjjKFxTqVGJ8QIYKMjp"
+    },
+    {
+      "added_at": "2023-03-11 00:52:02",
+      "album": {
+        "name": "Glitra",
+        "url": "https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b"
+      },
+      "artists": [
+        {
+          "name": "Brijs",
+          "url": "https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV"
+        }
+      ],
+      "duration_ms": 210360,
+      "name": "Mol y Sol",
+      "url": "https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
-        "name": "Worst Case Kid",
-        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "Worst Case Kid",
-      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
-    },
-    {
-      "added_at": "2023-03-11 00:52:02",
-      "album": {
         "name": "Hi-Fidelity",
         "url": "https://open.spotify.com/album/0ZNelJy2iPIK2YtGHCuB3t"
       },
@@ -1463,6 +1447,38 @@
       "duration_ms": 199088,
       "name": "Hi-Fidelity",
       "url": "https://open.spotify.com/track/2d9UdLMMe80RNfuQcGmuIe"
+    },
+    {
+      "added_at": "2023-03-11 00:52:02",
+      "album": {
+        "name": "Worst Case Kid",
+        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "Worst Case Kid",
+      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
+    },
+    {
+      "added_at": "2023-03-11 00:52:02",
+      "album": {
+        "name": "Ode to a Conversation Stuck in Your Throat",
+        "url": "https://open.spotify.com/album/5e8S6KvNbnZBbNzaL2YcLJ"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 198927,
+      "name": "Ode to a Conversation Stuck in Your Throat",
+      "url": "https://open.spotify.com/track/6JwkAGwClwUzcOi0ZBbSLe"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -1529,7 +1545,7 @@
       "url": "https://open.spotify.com/track/1SdItcSOTD14tvIo8UzA6k"
     },
     {
-      "added_at": "2023-04-27 01:03:18",
+      "added_at": "2023-04-28 00:34:24",
       "album": {
         "name": "Cub",
         "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
@@ -1543,22 +1559,6 @@
       "duration_ms": 202653,
       "name": "Purple",
       "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
-    },
-    {
-      "added_at": "2023-03-11 00:52:02",
-      "album": {
-        "name": "Ode to a Conversation Stuck in Your Throat",
-        "url": "https://open.spotify.com/album/5e8S6KvNbnZBbNzaL2YcLJ"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 198927,
-      "name": "Ode to a Conversation Stuck in Your Throat",
-      "url": "https://open.spotify.com/track/6JwkAGwClwUzcOi0ZBbSLe"
     },
     {
       "added_at": "2023-03-11 00:52:02",

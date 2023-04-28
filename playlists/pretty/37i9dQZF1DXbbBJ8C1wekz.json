@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o.",
-  "num_followers": 108217,
+  "num_followers": 108381,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI5NTQ3NiwwMDAwMDAwMDg1MGEzMDgwNDMzNjNhNTY4M2I5YmIwZDE2MjY1Mjkz",
+  "snapshot_id": "MCw2ZjcxZTA0MTE2ZGZlMjhlZDg4NTAyN2I4MWYwOWRkM2MxMGQ1MDdj",
   "tracks": [
     {
       "added_at": "2023-02-07 20:52:54",
@@ -657,7 +657,7 @@
       "url": "https://open.spotify.com/track/69ebm9wovT0UJX3vBp571J"
     },
     {
-      "added_at": "2023-04-27 01:40:41",
+      "added_at": "2023-04-28 01:38:01",
       "album": {
         "name": "Menino Ney",
         "url": "https://open.spotify.com/album/3IWRs9fZhKc4i7lCkqNPHU"
@@ -931,6 +931,78 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
+        "name": "Bvlgari",
+        "url": "https://open.spotify.com/album/4KSMA20Et20Z4BBhxSYzrS"
+      },
+      "artists": [
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "4tune",
+          "url": "https://open.spotify.com/artist/74YW92zTlgNdYgHDWndEZZ"
+        }
+      ],
+      "duration_ms": 188035,
+      "name": "Bvlgari",
+      "url": "https://open.spotify.com/track/1qIQO5BW2AyVVkTCzBwcUu"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
+        "name": "Avi\u00e3o",
+        "url": "https://open.spotify.com/album/3qB0aw6UmDycNX9pWvyjXf"
+      },
+      "artists": [
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Avi\u00e3o",
+      "url": "https://open.spotify.com/track/3vG5tTQZsAPTDqMiXFhKJy"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
+        "name": "Ak Forty Seven",
+        "url": "https://open.spotify.com/album/3nBoAaBT5TqSgu2BSrtgV3"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        }
+      ],
+      "duration_ms": 172973,
+      "name": "Ak Forty Seven",
+      "url": "https://open.spotify.com/track/7jYpr1CDp4NQDo0uGekLdG"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
+        "name": "Bendito",
+        "url": "https://open.spotify.com/album/0VkG6GIwPJ7SoWE4pbocIm"
+      },
+      "artists": [
+        {
+          "name": "NGC Daddy",
+          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
+        }
+      ],
+      "duration_ms": 177869,
+      "name": "Bendito",
+      "url": "https://open.spotify.com/track/7hmUr86smWd2FeviTU1P72"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
         "name": "Criminal Influencer",
         "url": "https://open.spotify.com/album/4c14Voy3lrcEd4pseEreG3"
       },
@@ -979,78 +1051,6 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
-        "name": "Ak Forty Seven",
-        "url": "https://open.spotify.com/album/3nBoAaBT5TqSgu2BSrtgV3"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        }
-      ],
-      "duration_ms": 172973,
-      "name": "Ak Forty Seven",
-      "url": "https://open.spotify.com/track/7jYpr1CDp4NQDo0uGekLdG"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
-        "name": "Bendito",
-        "url": "https://open.spotify.com/album/0VkG6GIwPJ7SoWE4pbocIm"
-      },
-      "artists": [
-        {
-          "name": "NGC Daddy",
-          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
-        }
-      ],
-      "duration_ms": 177869,
-      "name": "Bendito",
-      "url": "https://open.spotify.com/track/7hmUr86smWd2FeviTU1P72"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
-        "name": "Bvlgari",
-        "url": "https://open.spotify.com/album/4KSMA20Et20Z4BBhxSYzrS"
-      },
-      "artists": [
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "4tune",
-          "url": "https://open.spotify.com/artist/74YW92zTlgNdYgHDWndEZZ"
-        }
-      ],
-      "duration_ms": 188035,
-      "name": "Bvlgari",
-      "url": "https://open.spotify.com/track/1qIQO5BW2AyVVkTCzBwcUu"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
-        "name": "Avi\u00e3o",
-        "url": "https://open.spotify.com/album/3qB0aw6UmDycNX9pWvyjXf"
-      },
-      "artists": [
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Avi\u00e3o",
-      "url": "https://open.spotify.com/track/3vG5tTQZsAPTDqMiXFhKJy"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
         "name": "Como a chuva cai",
         "url": "https://open.spotify.com/album/4RF07dFHIZhmBLFU9kUU4R"
       },
@@ -1060,7 +1060,7 @@
           "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
         },
         {
-          "name": "Hungria Hip Hop",
+          "name": "Hungria",
           "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
         }
       ],
@@ -1107,6 +1107,30 @@
       "duration_ms": 247680,
       "name": "Maleta",
       "url": "https://open.spotify.com/track/4PZ3p6D3GQcpiaFirr3VNW"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
+        "name": "Meu Corre",
+        "url": "https://open.spotify.com/album/1jFY75tKVWiLmiCRe6WFGr"
+      },
+      "artists": [
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        }
+      ],
+      "duration_ms": 170181,
+      "name": "Meu Corre",
+      "url": "https://open.spotify.com/track/0iTTbJikpkTpjn4FUwH9lW"
     },
     {
       "added_at": "2023-02-07 20:52:54",
@@ -1175,30 +1199,6 @@
       "duration_ms": 221490,
       "name": "Olha Pro Oclin",
       "url": "https://open.spotify.com/track/7BWjPllXbBJu4BMNAOJSSw"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
-        "name": "Meu Corre",
-        "url": "https://open.spotify.com/album/1jFY75tKVWiLmiCRe6WFGr"
-      },
-      "artists": [
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        }
-      ],
-      "duration_ms": 170181,
-      "name": "Meu Corre",
-      "url": "https://open.spotify.com/track/0iTTbJikpkTpjn4FUwH9lW"
     },
     {
       "added_at": "2023-02-07 20:52:54",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
+        "name": "Obrigado, M\u00e3e.",
+        "url": "https://open.spotify.com/album/7rFtXsg1Do5pAEfk44qfmL"
+      },
+      "artists": [
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        }
+      ],
+      "duration_ms": 157090,
+      "name": "Obrigado, M\u00e3e.",
+      "url": "https://open.spotify.com/track/6skR4ZtK9TWsLpbxTbectM"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
         "name": "Oclin e Evoque",
         "url": "https://open.spotify.com/album/1lm0ePGaAMF91JfN3O9sI7"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 212581,
       "name": "Oclin e Evoque",
       "url": "https://open.spotify.com/track/3PnDIGbfmswMaxX386zp3X"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
-        "name": "Obrigado, M\u00e3e.",
-        "url": "https://open.spotify.com/album/7rFtXsg1Do5pAEfk44qfmL"
-      },
-      "artists": [
-        {
-          "name": "Dfideliz",
-          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
-        }
-      ],
-      "duration_ms": 157090,
-      "name": "Obrigado, M\u00e3e.",
-      "url": "https://open.spotify.com/track/6skR4ZtK9TWsLpbxTbectM"
     },
     {
       "added_at": "2023-02-07 20:52:54",

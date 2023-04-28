@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 2000s.",
-  "num_followers": 27320,
+  "num_followers": 27374,
   "original_name": "00s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzg3NjA4MiwwMDAwMDAwMDRkNTgzZWRjZTU4ZDRhN2Q2YmFlOTJmNTdjYmUyNzVh",
+  "snapshot_id": "MCwyZDg3YWFmNjE4NTVhODk5ZDA1NTI5M2FiYjFkZTE4NmU5MTJlYWZm",
   "tracks": [
     {
       "added_at": "2021-04-09 06:36:41",
@@ -751,22 +751,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Language.Sex.Violence.Other?",
-        "url": "https://open.spotify.com/album/1DwcGY8AK9RS0IgmozyvyP"
-      },
-      "artists": [
-        {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
-        }
-      ],
-      "duration_ms": 297426,
-      "name": "Dakota",
-      "url": "https://open.spotify.com/track/3qaSqrrevBrb84xl5JlptU"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "How To Save A Life",
         "url": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 236266,
       "name": "Over My Head (Cable Car)",
       "url": "https://open.spotify.com/track/1N62wozuHCvczCkY4QidpP"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "Language.Sex.Violence.Other?",
+        "url": "https://open.spotify.com/album/1DwcGY8AK9RS0IgmozyvyP"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "duration_ms": 297426,
+      "name": "Dakota",
+      "url": "https://open.spotify.com/track/3qaSqrrevBrb84xl5JlptU"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -975,22 +975,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "You Gotta Go There To Come Back",
-        "url": "https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8"
-      },
-      "artists": [
-        {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
-        }
-      ],
-      "duration_ms": 272946,
-      "name": "Maybe Tomorrow",
-      "url": "https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "More Than You Think You Are",
         "url": "https://open.spotify.com/album/7fv4OVYUiixcwCGDRwvcH8"
       },
@@ -1007,18 +991,18 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Come Clean",
-        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
+        "name": "You Gotta Go There To Come Back",
+        "url": "https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8"
       },
       "artists": [
         {
-          "name": "Puddle Of Mudd",
-          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
         }
       ],
-      "duration_ms": 303920,
-      "name": "Blurry",
-      "url": "https://open.spotify.com/track/0FLBNqc5oAiTt4J2e3fe3y"
+      "duration_ms": 272946,
+      "name": "Maybe Tomorrow",
+      "url": "https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -1039,6 +1023,22 @@
       "duration_ms": 200480,
       "name": "Hero (feat. Josey Scott)",
       "url": "https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "Come Clean",
+        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
+      },
+      "artists": [
+        {
+          "name": "Puddle Of Mudd",
+          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+        }
+      ],
+      "duration_ms": 303920,
+      "name": "Blurry",
+      "url": "https://open.spotify.com/track/0FLBNqc5oAiTt4J2e3fe3y"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Just Enough Education To Perform",
-        "url": "https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4"
-      },
-      "artists": [
-        {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
-        }
-      ],
-      "duration_ms": 205066,
-      "name": "Have A Nice Day",
-      "url": "https://open.spotify.com/track/6JWddKPdqvDc2WkPEi9grC"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "The Young and The Hopeless",
         "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 183493,
       "name": "Girls & Boys",
       "url": "https://open.spotify.com/track/65mxB9IWpmVo4qUjdGSxRB"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "Just Enough Education To Perform",
+        "url": "https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "duration_ms": 205066,
+      "name": "Have A Nice Day",
+      "url": "https://open.spotify.com/track/6JWddKPdqvDc2WkPEi9grC"
     },
     {
       "added_at": "2021-04-09 06:36:41",

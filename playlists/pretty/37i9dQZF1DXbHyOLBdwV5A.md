@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar\. Foto: Kennto, YoungJhow, JoyFull
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,920 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,971 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 47 | [Você Me Amou](https://open.spotify.com/track/3Qgh8ad1gvpCMUCmimytUQ) | [Débora Ulhoa](https://open.spotify.com/artist/0WBHp81TcpbOKldBXWTSYz), [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr) | [Você Me Amou](https://open.spotify.com/album/4h29dNFAppnSIFqZ83P5ZK) | 2:59 |
 | 48 | [O Leão \- Dj Del Mag Remix](https://open.spotify.com/track/5pkIdWURz7CU2UwW4CBpun) | [Dj Del Mag](https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4), [Victor Rodrigues](https://open.spotify.com/artist/7dvzwrXo4iBUJAlZ3TBcXQ) | [O Leão \(Dj Del Mag Remix\)](https://open.spotify.com/album/76oy0F6n4KZ2pzhcKs8oyp) | 3:31 |
 | 49 | [Meu Lugar](https://open.spotify.com/track/3rBml8mLLTLkf8avEPl9O8) | [Jacobnew](https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI), [DJ Vitor Capoia](https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp), [Jessi Dias](https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83) | [Meu Lugar](https://open.spotify.com/album/4MmaAurB8pIM6tOj1nd3Au) | 2:41 |
-| 50 | [Tropa de Jesus Eletro](https://open.spotify.com/track/46lNXSFqlJWN4kS3s79Vdw) | [MC Jamil](https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc), [Igor Dj](https://open.spotify.com/artist/5X7UJPMUcLHr9bdcnnRxSw), [Junior Souto](https://open.spotify.com/artist/0NQgbieTc1NAJnrc2ZH6F2) | [Tropa de Jesus Eletro](https://open.spotify.com/album/0ahzYa0d2h5snCgZ5UIpAf) | 2:45 |
-| 51 | [A Sua Chance](https://open.spotify.com/track/328Xjnw4Oqehh3kHCfPrm1) | [Dj Roony Moura](https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL), [Diego Tiguez](https://open.spotify.com/artist/1ghipBHakOKPGsliNK7ZPP) | [A Sua Chance](https://open.spotify.com/album/3Mx7c1qi99FGGlTjEFW2dY) | 4:01 |
+| 50 | [A Sua Chance](https://open.spotify.com/track/328Xjnw4Oqehh3kHCfPrm1) | [Dj Roony Moura](https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL), [Diego Tiguez](https://open.spotify.com/artist/1ghipBHakOKPGsliNK7ZPP) | [A Sua Chance](https://open.spotify.com/album/3Mx7c1qi99FGGlTjEFW2dY) | 4:01 |
+| 51 | [Tropa de Jesus Eletro](https://open.spotify.com/track/46lNXSFqlJWN4kS3s79Vdw) | [MC Jamil](https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc), [Igor Dj](https://open.spotify.com/artist/5X7UJPMUcLHr9bdcnnRxSw), [Junior Souto](https://open.spotify.com/artist/0NQgbieTc1NAJnrc2ZH6F2) | [Tropa de Jesus Eletro](https://open.spotify.com/album/0ahzYa0d2h5snCgZ5UIpAf) | 2:45 |
 | 52 | [Vem Com Josué Lutar em Jericó](https://open.spotify.com/track/4906T93wcLNpENXsVAbfHb) | [Dois Irmãos](https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE) | [Vem Com Josué Lutar em Jericó](https://open.spotify.com/album/5FcbFy9wrhcBcSfWdg3xWN) | 2:38 |
 | 53 | [Balada do Senhor \(Slap House Gospel\)](https://open.spotify.com/track/6qK8RrdvUSBKWoBjgAqyoV) | [DJ Emerson MK](https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX), [DJ Vitor Capoia](https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp), [Cleyton & Johnny](https://open.spotify.com/artist/7MLppR1QSf2lpb5ljhiTwT) | [Balada do Senhor \(Remixes\)](https://open.spotify.com/album/3qN9BR6Mv6kjTj1RvvMJ3N) | 2:58 |
 | 54 | [Imparável](https://open.spotify.com/track/3NxAIuH9Wz0HBEp7uJMVuN) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH) | [Imparável](https://open.spotify.com/album/7sYy4zBX7EUhGNbn9AfxF4) | 3:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 74 | [Não Sou Merecedor \- Remix](https://open.spotify.com/track/1LAUZbs9Tjou8sb5nXPz1h) | [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Avipa](https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq) | [Não Sou Merecedor \(Remix\)](https://open.spotify.com/album/6Nup7hhcwHVEfVT9dC9yG8) | 2:55 |
 | 75 | [Preso a Ti \- Remix](https://open.spotify.com/track/476Qd4m9IgQIw7GDIWWeQ2) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Ton Molinari](https://open.spotify.com/artist/2qdD7yDxhXo9DVvyYQveao) | [Preso a Ti \(Remix\)](https://open.spotify.com/album/0rFkK4UCEHCq5l4bqn3jCC) | 3:44 |
 
-Snapshot ID: `MTY4MTU4MzM1NiwwMDAwMDAwMDY4ZTBkNGM1OTNmYTkwZDZkNzA5MGNiM2M2NTU4ZjJi`
+Snapshot ID: `MCw2MzBlMTNiNDZiMWI0YWExMGI0MDM3YzA2YmZmMzFjMTE1NDA5YTg5`

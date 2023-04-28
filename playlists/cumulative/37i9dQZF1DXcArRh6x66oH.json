@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Albuquerque",
+        "url": "https://open.spotify.com/album/5x86pNR8YiqkNXhwkeusNb"
+      },
+      "artists": [
+        {
+          "name": "Logan Mize",
+          "url": "https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189440,
+      "name": "Albuquerque",
+      "url": "https://open.spotify.com/track/3gkLQWgABigJvtmdA2hJfj"
+    },
+    {
+      "album": {
         "name": "Country Squire",
         "url": "https://open.spotify.com/album/2T9P5dSm786uuxA5tkI1Xb"
       },

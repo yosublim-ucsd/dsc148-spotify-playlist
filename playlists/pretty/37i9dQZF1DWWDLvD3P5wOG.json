@@ -1,12 +1,12 @@
 {
   "description": "Throwbacks you can catch a wine to.",
-  "num_followers": 498284,
+  "num_followers": 498774,
   "original_name": "Dancehall Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzE1ODMzNSwwMDAwMDAwMDRkNGNiMzRjYmY2YTliMmJiYjA5YWZkMzcwZDQ4OGQ1",
+  "snapshot_id": "MCxlNjk5NDZiMzY2NDQ5Nzk2MjUzNjE0NjAxOTUwYzZmYTk2ZDNiOTcz",
   "tracks": [
     {
       "added_at": "2021-02-24 08:50:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/3688VgiRVASa05x5FHEmc9"
-      },
-      "artists": [
-        {
-          "name": "Sanchez",
-          "url": "https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf"
-        }
-      ],
-      "duration_ms": 202600,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/5BkEtAa7LHwm5qs2vLegX3"
-    },
-    {
-      "added_at": "2021-02-24 08:50:00",
-      "album": {
         "name": "Dutty Whine",
         "url": "https://open.spotify.com/album/7fv1oxFvj0feUywPYZKpR0"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 193413,
       "name": "Dutty Whine",
       "url": "https://open.spotify.com/track/0faQCjG6E7VecroZfmSA3J"
+    },
+    {
+      "added_at": "2021-02-24 08:50:00",
+      "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/3688VgiRVASa05x5FHEmc9"
+      },
+      "artists": [
+        {
+          "name": "Sanchez",
+          "url": "https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf"
+        }
+      ],
+      "duration_ms": 202600,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/5BkEtAa7LHwm5qs2vLegX3"
     },
     {
       "added_at": "2021-02-24 08:50:00",

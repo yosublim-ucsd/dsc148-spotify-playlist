@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 
 > Tangueros \- Rockeros, Rockeros \- Tangueros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,128 likes - 45 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,151 likes - 45 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,15 +16,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 | 6 | [Cacho de Buenos Aires](https://open.spotify.com/track/4PhXYZCCN94hBeWYBTiikR) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ), [Cacho Castaña](https://open.spotify.com/artist/3lwRbCTt1qmo0QgXUai8ao) | [Cacho de Buenos Aires](https://open.spotify.com/album/0E3s1yVPKs8jp4DQoqK2GJ) | 4:37 |
 | 7 | [Naranjo En Flor](https://open.spotify.com/track/058IA4FZ3oSj0wJbSLtcWi) | [Juan Carlos Baglietto](https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9) | [Postales De Este Lado Del Mundo](https://open.spotify.com/album/4dR2dfCJaLvateYFEB9tKp) | 3:09 |
 | 8 | [No Soy Un Extraño \- Live](https://open.spotify.com/track/6KxhnLR6OlcieIudHZqL2V) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Unplugged](https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R) | 4:22 |
-| 9 | [Codigo de barra](https://open.spotify.com/track/6IEKmDAJZxOlXM5kcJXVWm) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O) | [Presente](https://open.spotify.com/album/0ajrl96QETMiLmTXeit8zY) | 3:01 |
-| 10 | [Límites](https://open.spotify.com/track/7iLRaN2zGfHJUJfTpRoAjZ) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Señales](https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy) | 3:38 |
+| 9 | [Límites](https://open.spotify.com/track/7iLRaN2zGfHJUJfTpRoAjZ) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Señales](https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy) | 3:38 |
+| 10 | [Codigo de barra](https://open.spotify.com/track/6IEKmDAJZxOlXM5kcJXVWm) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O) | [Presente](https://open.spotify.com/album/0ajrl96QETMiLmTXeit8zY) | 3:01 |
 | 11 | [Tango en Segunda](https://open.spotify.com/track/34NGjr3W7K9E484f7C5xVf) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Pequenas Anécdotas Sobre Las Instituciones](https://open.spotify.com/album/2bW96QNHxL6oDb7kERQrA1) | 3:32 |
 | 12 | [Los Piratas \- MTV Unplugged](https://open.spotify.com/track/69ni0mzLxPJ1ipk7ENsXWi) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 2:56 |
 | 13 | [Nostalgias](https://open.spotify.com/track/6pexRB1QZYbsUCQkwWpA42) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Tinta roja](https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS) | 4:03 |
 | 14 | [La Bestia Pop](https://open.spotify.com/track/0whYWhGNZ2YuTiiXF0AQXS) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:30 |
-| 15 | [El Mareo](https://open.spotify.com/track/7gmLydEZS9b8F0dNGZ6d8h) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Mar Dulce](https://open.spotify.com/album/1tEqTQTkgGkvQBIQZzggFA) | 4:35 |
-| 16 | [Gris](https://open.spotify.com/track/2v7rhTFwDVQSdRiheHpYWS) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q) | 5:09 |
-| 17 | [Desencuentro](https://open.spotify.com/track/2mQRs9iO7qI0F0r2FTXw74) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Señales](https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy) | 2:21 |
+| 15 | [Gris](https://open.spotify.com/track/2v7rhTFwDVQSdRiheHpYWS) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q) | 5:09 |
+| 16 | [Desencuentro](https://open.spotify.com/track/2mQRs9iO7qI0F0r2FTXw74) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Señales](https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy) | 2:21 |
+| 17 | [El Mareo](https://open.spotify.com/track/7gmLydEZS9b8F0dNGZ6d8h) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Mar Dulce](https://open.spotify.com/album/1tEqTQTkgGkvQBIQZzggFA) | 4:35 |
 | 18 | [El día que me quieras](https://open.spotify.com/track/4S5rS6t4INfDEgBHYQYj99) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Tinta roja](https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS) | 4:32 |
 | 19 | [Como Dos Extraños \(feat\. Nestor Marconi\)](https://open.spotify.com/track/3LhNWmhwBdNiaOd30U3Kwl) | [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6), [Néstor Marconi](https://open.spotify.com/artist/0ZWO3TxKWBb6QvvGEDe38H) | [Cuerpo y Alma](https://open.spotify.com/album/7oJZTQbJsNJ5qKDdTBwpUH) | 2:54 |
 | 20 | [Gricel](https://open.spotify.com/track/5L32suuyXCkGrpaZNAXxEY) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [La La La](https://open.spotify.com/album/7e9eBk99v3kYbGO79ZKKVz) | 4:31 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 | 32 | [Plegaria para un niño dormido](https://open.spotify.com/track/3hW3s0ClWYEKdDVZnwKZYU) | [Mariano Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Invierno](https://open.spotify.com/album/7d20OGQ2xh0Io9rsPBjtUa) | 3:47 |
 | 33 | [Siga El Baile \- Versión Cantada por Alberto Castillo](https://open.spotify.com/track/0W1R6AOWnBzeRZPLcrkJKW) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Alberto Castillo](https://open.spotify.com/artist/14KUc7zg3OndrAMbCNxPBD) | [Obras Cumbres](https://open.spotify.com/album/1IT1pWbVY68eVznVAKm1Ye) | 2:29 |
 | 34 | [La Despedida \(feat\. Fito Páez & Paula Pomeraniek\)](https://open.spotify.com/track/3p9ebspnr6evao7kZ99BpH) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc), [Fito Páez](https://open.spotify.com/artist/4ZgWNQWb0Qz9QeF67IUVk8), [Paula Pomeraniek](https://open.spotify.com/artist/31dHfRj6P93GP3be6JsYIe) | [Avellaneda](https://open.spotify.com/album/49Xq9ybXE17iQoJox5qegK) | 4:39 |
-| 35 | [Imágenes Paganas](https://open.spotify.com/track/3lmGeqAuMWrplZLL378Cng) | [Cucuza Castiello](https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE) | [Menesunda: Tangolencia Rockera](https://open.spotify.com/album/1IpvQiqJN7fIQCgXBQqXGf) | 2:22 |
-| 36 | [Volver Ni A Palos](https://open.spotify.com/track/1sVcH6JpkTidkzcfKQuioM) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Otro Le Travaladna](https://open.spotify.com/album/78CgEIHzH8TtgNmV63lMbF) | 2:55 |
+| 35 | [Volver Ni A Palos](https://open.spotify.com/track/1sVcH6JpkTidkzcfKQuioM) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Otro Le Travaladna](https://open.spotify.com/album/78CgEIHzH8TtgNmV63lMbF) | 2:55 |
+| 36 | [Imágenes Paganas](https://open.spotify.com/track/3lmGeqAuMWrplZLL378Cng) | [Cucuza Castiello](https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE) | [Menesunda: Tangolencia Rockera](https://open.spotify.com/album/1IpvQiqJN7fIQCgXBQqXGf) | 2:22 |
 | 37 | [Mano a mano](https://open.spotify.com/track/1AqNn5SBTndUxzCqFI6brK) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Tinta roja](https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS) | 3:18 |
 | 38 | [Tomo y Obligo](https://open.spotify.com/track/7vom0QDBkmCppCpusL97zQ) | [Javier Calamaro](https://open.spotify.com/artist/6tPLRbaYWgZXppgsyKQ2M5) | [Villavicio](https://open.spotify.com/album/0caLBmefMPuGsowMfTuMeh) | 2:42 |
 | 39 | [El Deseo de Evita](https://open.spotify.com/track/3ExTwPNogl9gEbjSTw5SMC) | [Los Visitantes](https://open.spotify.com/artist/28DInKJA1f9LhVK1LqMaHW) | [Espiritango](https://open.spotify.com/album/5v9b18KRapHDZ1I8Hxlige) | 1:55 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 | 44 | [Salvavidas de Plomo](https://open.spotify.com/track/7vfkvaLx1g6b8iWJoWrOaI) | [Juan Subira](https://open.spotify.com/artist/1TQCf74SMH4NMVPHUC7ohk), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Fisura Expuesta](https://open.spotify.com/album/3xMB06xJvBVJJeEnmC4VC3) | 6:44 |
 | 45 | [Barro Tal Vez](https://open.spotify.com/track/0X5l6Oljnw9PPU1zVCn3PO) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2), [Mariano Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Antología, Vol.2: Viejas Alegrias](https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS) | 3:42 |
 
-Snapshot ID: `MTY4MTQ0MTIwMCwwMDAwMDAwMGJhMjdkYzdjNGYxZDU4ZjE5ZmMxODI0MzY4Yjg5N2Uy`
+Snapshot ID: `MCw2Zjg5NjU1YzkyNjQ3ODQ3MWMxMjkzNDExMDJmMTc1M2M2YWY1Zjcz`

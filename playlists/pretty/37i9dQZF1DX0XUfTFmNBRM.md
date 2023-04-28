@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 
 > Hottest Hindi music served here\. Cover \- Pathaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,436,954 likes - 65 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,438,789 likes - 65 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 | 64 | [Shayad \(From "Love Aaj Kal"\)](https://open.spotify.com/track/018eOid2aGaPdxon7T6GsC) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Shayad \(From "Love Aaj Kal"\)](https://open.spotify.com/album/3Q6oDVihOpQVi2FC0Mfjlm) | 4:07 |
 | 65 | [Tu Hi Yaar Mera \(From "Pati Patni Aur Woh"\)](https://open.spotify.com/track/57jOEZtoLQK4zF2x55bdkp) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Tu Hi Yaar Mera \(From "Pati Patni Aur Woh"\)](https://open.spotify.com/album/7aJiY5GW8uSpZItQXcmeVM) | 3:20 |
 
-Snapshot ID: `MTY4MTcxNzM3NSwwMDAwMDAwMDczNGZmNGZmYjlkMjI4MzlkZjQ3YmMyZTc4ZDgyZWFj`
+Snapshot ID: `MCxmMGVhMTcyZGVkYjVjMDNhZTVhM2M0ZDZkYThhNDcxNDVkMWIxNWRh`

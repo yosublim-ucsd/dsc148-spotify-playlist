@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 16069,
+  "num_followers": 16096,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjUxMzU4NCwwMDAwMDAwMGNmMzBhNzU3M2E4MWQwZTViN2MzYWYyNTNmMjkxMDdi",
+  "snapshot_id": "MCxjMmRlMGYxNDMwODFhNGJjMjg0Mzg3Mjc5NTY0YmRjZmVlYTYwZjEx",
   "tracks": [
     {
       "added_at": "2023-04-26 12:53:04",
@@ -79,6 +79,22 @@
     {
       "added_at": "2023-04-26 12:53:04",
       "album": {
+        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 220520,
+      "name": "Red Pepper Blues",
+      "url": "https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ"
+    },
+    {
+      "added_at": "2023-04-26 12:53:04",
+      "album": {
         "name": "Jeru",
         "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
       },
@@ -95,18 +111,18 @@
     {
       "added_at": "2023-04-26 12:53:04",
       "album": {
-        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
+        "name": "In New York [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/65zkV2jjroxi3mwOEddvDJ"
       },
       "artists": [
         {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 220520,
-      "name": "Red Pepper Blues",
-      "url": "https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ"
+      "duration_ms": 453506,
+      "name": "Blue Thoughts",
+      "url": "https://open.spotify.com/track/6A2tYCT1Wcd5RT6DhyCqhm"
     },
     {
       "added_at": "2023-04-26 12:53:04",
@@ -131,22 +147,6 @@
       "duration_ms": 503013,
       "name": "Litha",
       "url": "https://open.spotify.com/track/0x9z9zmypzjXdRHiMyQ1gd"
-    },
-    {
-      "added_at": "2023-04-26 12:53:04",
-      "album": {
-        "name": "In New York [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/65zkV2jjroxi3mwOEddvDJ"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 453506,
-      "name": "Blue Thoughts",
-      "url": "https://open.spotify.com/track/6A2tYCT1Wcd5RT6DhyCqhm"
     },
     {
       "added_at": "2023-04-26 12:53:04",
@@ -183,22 +183,18 @@
     {
       "added_at": "2023-04-26 12:53:04",
       "album": {
-        "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time",
-        "url": "https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv"
+        "name": "Art Pepper + Eleven: Modern Jazz Classics",
+        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
       },
       "artists": [
         {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        },
-        {
-          "name": "Paul Desmond Quartet",
-          "url": "https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc"
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
         }
       ],
-      "duration_ms": 345920,
-      "name": "Fall Out",
-      "url": "https://open.spotify.com/track/2RgIbUm4wAUhR5s78O8OoI"
+      "duration_ms": 210533,
+      "name": "Walkin' Shoes",
+      "url": "https://open.spotify.com/track/3wqWq1ZOBIO0NQo98kmIFC"
     },
     {
       "added_at": "2023-04-26 12:53:04",
@@ -243,6 +239,42 @@
     {
       "added_at": "2023-04-26 12:53:04",
       "album": {
+        "name": "Chet is Back",
+        "url": "https://open.spotify.com/album/7BsY0CO8mqyXnLf4KiB5AM"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 235133,
+      "name": "Chetty's Lullaby",
+      "url": "https://open.spotify.com/track/3CfVHLrRxTLDqGZA25w5Eh"
+    },
+    {
+      "added_at": "2023-04-26 12:53:04",
+      "album": {
+        "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time",
+        "url": "https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        },
+        {
+          "name": "Paul Desmond Quartet",
+          "url": "https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc"
+        }
+      ],
+      "duration_ms": 345920,
+      "name": "Fall Out",
+      "url": "https://open.spotify.com/track/2RgIbUm4wAUhR5s78O8OoI"
+    },
+    {
+      "added_at": "2023-04-26 12:53:04",
+      "album": {
         "name": "Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster)",
         "url": "https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH"
       },
@@ -259,8 +291,8 @@
     {
       "added_at": "2023-04-26 12:53:04",
       "album": {
-        "name": "Art Pepper + Eleven: Modern Jazz Classics",
-        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
+        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
       },
       "artists": [
         {
@@ -268,25 +300,25 @@
           "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
         }
       ],
-      "duration_ms": 210533,
-      "name": "Walkin' Shoes",
-      "url": "https://open.spotify.com/track/3wqWq1ZOBIO0NQo98kmIFC"
+      "duration_ms": 355546,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi"
     },
     {
       "added_at": "2023-04-26 12:53:04",
       "album": {
-        "name": "Chet is Back",
-        "url": "https://open.spotify.com/album/7BsY0CO8mqyXnLf4KiB5AM"
+        "name": "Time Further Out",
+        "url": "https://open.spotify.com/album/0eMXd1VtCXCkuGWn9JjRDT"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
         }
       ],
-      "duration_ms": 235133,
-      "name": "Chetty's Lullaby",
-      "url": "https://open.spotify.com/track/3CfVHLrRxTLDqGZA25w5Eh"
+      "duration_ms": 277706,
+      "name": "Far More Blue",
+      "url": "https://open.spotify.com/track/2djpFaL4yqTH3fvDKijsMv"
     },
     {
       "added_at": "2023-04-26 12:53:04",
@@ -311,18 +343,18 @@
     {
       "added_at": "2023-04-26 12:53:04",
       "album": {
-        "name": "Time Further Out",
-        "url": "https://open.spotify.com/album/0eMXd1VtCXCkuGWn9JjRDT"
+        "name": "Harold In The Land Of Jazz",
+        "url": "https://open.spotify.com/album/4VvgRg2qKq70YWZjKGepiG"
       },
       "artists": [
         {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+          "name": "Harold Land",
+          "url": "https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD"
         }
       ],
-      "duration_ms": 277706,
-      "name": "Far More Blue",
-      "url": "https://open.spotify.com/track/2djpFaL4yqTH3fvDKijsMv"
+      "duration_ms": 426533,
+      "name": "Grooveyard",
+      "url": "https://open.spotify.com/track/2DS10kEktKybLiPI30WvFG"
     },
     {
       "added_at": "2023-04-26 12:53:04",
@@ -343,22 +375,6 @@
     {
       "added_at": "2023-04-26 12:53:04",
       "album": {
-        "name": "Harold In The Land Of Jazz",
-        "url": "https://open.spotify.com/album/4VvgRg2qKq70YWZjKGepiG"
-      },
-      "artists": [
-        {
-          "name": "Harold Land",
-          "url": "https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD"
-        }
-      ],
-      "duration_ms": 426533,
-      "name": "Grooveyard",
-      "url": "https://open.spotify.com/track/2DS10kEktKybLiPI30WvFG"
-    },
-    {
-      "added_at": "2023-04-26 12:53:04",
-      "album": {
         "name": "The Latin Side Of Vince Guaraldi",
         "url": "https://open.spotify.com/album/6pyKEXTSWmqvSGGg7Hc1t4"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 216440,
       "name": "Star Song",
       "url": "https://open.spotify.com/track/2JRsstA67i53C1GQiIdUUd"
-    },
-    {
-      "added_at": "2023-04-26 12:53:04",
-      "album": {
-        "name": "My Fair Lady",
-        "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
-      },
-      "artists": [
-        {
-          "name": "Shelly Manne And His Friends",
-          "url": "https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf"
-        }
-      ],
-      "duration_ms": 362040,
-      "name": "With A Little Bit Of Luck - Instrumental",
-      "url": "https://open.spotify.com/track/2sYInNWcg7ZL9cLobvs0oo"
     },
     {
       "added_at": "2023-04-26 12:53:04",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-04-26 12:53:04",
       "album": {
+        "name": "My Fair Lady",
+        "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
+      },
+      "artists": [
+        {
+          "name": "Shelly Manne And His Friends",
+          "url": "https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf"
+        }
+      ],
+      "duration_ms": 362040,
+      "name": "With A Little Bit Of Luck - Instrumental",
+      "url": "https://open.spotify.com/track/2sYInNWcg7ZL9cLobvs0oo"
+    },
+    {
+      "added_at": "2023-04-26 12:53:04",
+      "album": {
         "name": "Jimmy Raney Featuring Bob Brookmeyer",
         "url": "https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 246466,
       "name": "Isn't It Romantic",
       "url": "https://open.spotify.com/track/7gQmV1v83oPr2BwBaw89Qr"
-    },
-    {
-      "added_at": "2023-04-26 12:53:04",
-      "album": {
-        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 355546,
-      "name": "Imagination",
-      "url": "https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi"
     },
     {
       "added_at": "2023-04-26 12:53:04",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-04-26 12:53:04",
       "album": {
-        "name": "My Fair Lady",
-        "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
-      },
-      "artists": [
-        {
-          "name": "Shelly Manne And His Friends",
-          "url": "https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf"
-        }
-      ],
-      "duration_ms": 338773,
-      "name": "On The Street Where You Live - Instrumental",
-      "url": "https://open.spotify.com/track/5kvgi3kVbX8AQ8kjpgEyuv"
-    },
-    {
-      "added_at": "2023-04-26 12:53:04",
-      "album": {
         "name": "Afro-Cuban Influence",
         "url": "https://open.spotify.com/album/6eTeF2FhtgBmKn6ya2RWn5"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 289360,
       "name": "Blue Steel",
       "url": "https://open.spotify.com/track/6A5n5BZfgR2IhzlV1GbGWf"
+    },
+    {
+      "added_at": "2023-04-26 12:53:04",
+      "album": {
+        "name": "My Fair Lady",
+        "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
+      },
+      "artists": [
+        {
+          "name": "Shelly Manne And His Friends",
+          "url": "https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf"
+        }
+      ],
+      "duration_ms": 338773,
+      "name": "On The Street Where You Live - Instrumental",
+      "url": "https://open.spotify.com/track/5kvgi3kVbX8AQ8kjpgEyuv"
     },
     {
       "added_at": "2023-04-26 12:53:04",

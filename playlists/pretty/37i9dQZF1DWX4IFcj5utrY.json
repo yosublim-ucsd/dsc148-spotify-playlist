@@ -1,12 +1,12 @@
 {
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu?si=uL8MB4V6QKKndZPV9dp_Ww\">Hyenah</a>",
-  "num_followers": 59467,
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105?si=DwxKMXoLT8WWzxBhWNLNyA\">Darque</a>",
+  "num_followers": 59486,
   "original_name": "mint South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjM0MzkyMSwwMDAwMDAwMGZjNGIyNmQ1YjhmZWNlMmIzMTA4NTU3ODUyN2YwMzZi",
+  "snapshot_id": "MCw1MDE3NzY1ZmIyY2RlYjhjMmZhMzg5NTUxODg4ZTg0NWM0OTQ4Mjhh",
   "tracks": [
     {
       "added_at": "2023-04-24 13:45:21",
@@ -31,6 +31,26 @@
       "duration_ms": 427160,
       "name": "Mohigan Sun",
       "url": "https://open.spotify.com/track/5U6zQqXCVZokE7UH4kdAB1"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Mngani",
+        "url": "https://open.spotify.com/album/64or43KyUgR5Wxymf9lSNx"
+      },
+      "artists": [
+        {
+          "name": "Darque",
+          "url": "https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105"
+        },
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        }
+      ],
+      "duration_ms": 377503,
+      "name": "Mngani",
+      "url": "https://open.spotify.com/track/4HwbvqQZpVvaYJB7uGlcAe"
     },
     {
       "added_at": "2023-04-24 13:45:21",
@@ -521,6 +541,26 @@
       "url": "https://open.spotify.com/track/35SNaNea9zk1oWk3IzrSKJ"
     },
     {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Live Without Love",
+        "url": "https://open.spotify.com/album/2Win77LZ47jEOcVu6HcMhX"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 190476,
+      "name": "Live Without Love",
+      "url": "https://open.spotify.com/track/4V1SO4C2wG9bTq6Cp7yYyA"
+    },
+    {
       "added_at": "2023-04-24 13:45:21",
       "album": {
         "name": "Abandon the Rule (Ahadadream Remix)",
@@ -717,6 +757,34 @@
       "url": "https://open.spotify.com/track/5goEUjSkFPIia3wGuRRugG"
     },
     {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Shalimar",
+        "url": "https://open.spotify.com/album/0KEbXJXtwRVmX1ju4srqJd"
+      },
+      "artists": [
+        {
+          "name": "Animalic Drum",
+          "url": "https://open.spotify.com/artist/5S1tAIKalqheP3LE6hcJTw"
+        },
+        {
+          "name": "Kreative Nativez",
+          "url": "https://open.spotify.com/artist/4s2DjPiXzoh6KErcgfMl6G"
+        },
+        {
+          "name": "James Sakala",
+          "url": "https://open.spotify.com/artist/7j359uimKMUqPxQy3VHCRa"
+        },
+        {
+          "name": "Lu Lu (ZM)",
+          "url": "https://open.spotify.com/artist/0BuNvvRXG3eIt8ZjS3y3Fq"
+        }
+      ],
+      "duration_ms": 198688,
+      "name": "Shalimar - Radio Edit",
+      "url": "https://open.spotify.com/track/5amzkj62Ava82GoKmsPyxN"
+    },
+    {
       "added_at": "2023-04-24 13:45:21",
       "album": {
         "name": "Sfede",
@@ -795,22 +863,6 @@
       "duration_ms": 404000,
       "name": "Imikhuleko",
       "url": "https://open.spotify.com/track/1dztH332bWfzJLWLtjseLy"
-    },
-    {
-      "added_at": "2023-04-24 13:45:21",
-      "album": {
-        "name": "Kare Kare",
-        "url": "https://open.spotify.com/album/3gyiqg5LA7XR9cVNMUigcS"
-      },
-      "artists": [
-        {
-          "name": "Blanka Mazimela",
-          "url": "https://open.spotify.com/artist/5FgjaJZKmTjnJyfvE3UU2C"
-        }
-      ],
-      "duration_ms": 455986,
-      "name": "Kare Kare",
-      "url": "https://open.spotify.com/track/0NXZXOULYHtEQ8lO6wKAVD"
     },
     {
       "added_at": "2023-04-24 13:45:21",
@@ -903,30 +955,6 @@
     {
       "added_at": "2023-04-24 13:45:21",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/3zr4GVQ0J0N7Ko9q6M4PKP"
-      },
-      "artists": [
-        {
-          "name": "&friends",
-          "url": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
-        },
-        {
-          "name": "Dr Feel",
-          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
-        },
-        {
-          "name": "Phina Asa",
-          "url": "https://open.spotify.com/artist/4PcBXZOhw0X3TQzKpKc9v8"
-        }
-      ],
-      "duration_ms": 260156,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/0Kq38drV2CpPeaxkFqjJvg"
-    },
-    {
-      "added_at": "2023-04-24 13:45:21",
-      "album": {
         "name": "Subconsciously",
         "url": "https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw"
       },
@@ -947,26 +975,6 @@
       "duration_ms": 191258,
       "name": "Drive - Edit",
       "url": "https://open.spotify.com/track/3XsNRi2cypsksscysYbyaF"
-    },
-    {
-      "added_at": "2023-04-24 13:45:21",
-      "album": {
-        "name": "Caught A Body (feat. Ty Dolla $ign)",
-        "url": "https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 149110,
-      "name": "Caught A Body (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq"
     },
     {
       "added_at": "2023-04-24 13:45:21",
@@ -1057,68 +1065,44 @@
       "url": "https://open.spotify.com/track/2w442q66slN1JJFgnPgaXh"
     },
     {
-      "added_at": "2023-04-24 13:45:21",
+      "added_at": "2023-04-27 21:59:00",
       "album": {
-        "name": "Run Till Dark (with Now United)",
-        "url": "https://open.spotify.com/album/0hxfJ0C3ggfGV0OmszUMOV"
+        "name": "Down To Earth",
+        "url": "https://open.spotify.com/album/7sGpOYniLG9vzBH898x5kj"
       },
       "artists": [
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
         },
         {
-          "name": "Now United",
-          "url": "https://open.spotify.com/artist/1dXQpSjXcTO288b5D5IIE6"
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
         }
       ],
-      "duration_ms": 139874,
-      "name": "Run Till Dark (with Now United)",
-      "url": "https://open.spotify.com/track/0HJ4Tedj2QSKLQJWRH30Aw"
+      "duration_ms": 217142,
+      "name": "Down To Earth",
+      "url": "https://open.spotify.com/track/1qylaDunQs1eEcDN5m1ZpE"
     },
     {
-      "added_at": "2023-04-24 13:45:21",
+      "added_at": "2023-04-27 21:59:00",
       "album": {
-        "name": "Woman EP",
-        "url": "https://open.spotify.com/album/6KSZ4RpMMTsm9zk2CbMyAu"
+        "name": "When I'm Alone",
+        "url": "https://open.spotify.com/album/4UMsTVhkLkDmUj02ttuAva"
       },
       "artists": [
         {
-          "name": "The Phat Ones",
-          "url": "https://open.spotify.com/artist/0ijR7s38xnjBA0uaB9XMUm"
+          "name": "GoldFish",
+          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
         },
         {
-          "name": "Aquadeep",
-          "url": "https://open.spotify.com/artist/0n2IlfSYardosNRNdCLWPd"
-        },
-        {
-          "name": "Veesoul",
-          "url": "https://open.spotify.com/artist/3Tv5NqamdRmZYzblrn2aBr"
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
         }
       ],
-      "duration_ms": 397248,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/4BVrEiAJBUJ2xZwwtBTy5W"
-    },
-    {
-      "added_at": "2023-04-24 13:45:21",
-      "album": {
-        "name": "Take Me Home",
-        "url": "https://open.spotify.com/album/4covYFWbZzjHIjLciUFO2E"
-      },
-      "artists": [
-        {
-          "name": "Keerthin",
-          "url": "https://open.spotify.com/artist/1Oz7qUi3GFmZiwAaMmyNjt"
-        },
-        {
-          "name": "Reverse Prime",
-          "url": "https://open.spotify.com/artist/1ViYDWPfb0pD6hAeD8xnxv"
-        }
-      ],
-      "duration_ms": 141774,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/6wvg23QPvpHmgJNJbVsSyD"
+      "duration_ms": 200200,
+      "name": "When I'm Alone",
+      "url": "https://open.spotify.com/track/5WwnSIlom58yAxG4j2EVRK"
     }
   ],
   "unique_name": "mint South Africa",

@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214080,
+      "name": "Amor Sincero",
+      "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
+    },
+    {
+      "album": {
         "name": "Antes de Perderte",
         "url": "https://open.spotify.com/album/1l6jE76o3QeZOXPt6G5Je7"
       },
@@ -477,6 +495,24 @@
     },
     {
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148723,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/53ZLUs4cvMmPvodm3mVTPi"
+    },
+    {
+      "album": {
         "name": "Cuando Te Vi",
         "url": "https://open.spotify.com/album/0g86BYs9lyfA3LkhIbkw2b"
       },
@@ -506,7 +542,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 188598,
       "name": "Dejar\u00eda Todo",
       "url": "https://open.spotify.com/track/1ZN2Dat0KrO0xqr9t8QP9r"
@@ -575,6 +611,24 @@
     },
     {
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "Enfocado",
+      "url": "https://open.spotify.com/track/0FvENwVY1jcqwyVjM367Mo"
+    },
+    {
+      "album": {
         "name": "Espina De Rosa - Spotify Singles",
         "url": "https://open.spotify.com/album/7Hr9xc5g0bm0POgzqC1YHc"
       },
@@ -626,7 +680,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 248546,
       "name": "Eva",
       "url": "https://open.spotify.com/track/3kof23H8ZheEzzhARBlf4o"
@@ -772,7 +826,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 224999,
       "name": "La Primera Vez",
       "url": "https://open.spotify.com/track/3AS2NiyobOcS454xthOByC"
@@ -1042,7 +1096,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 205082,
       "name": "No S\u00e9 Querer",
       "url": "https://open.spotify.com/track/0QnOCHmZ6yH5J0gajW9jf2"
@@ -1068,7 +1122,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 199277,
       "name": "Noche Primavera",
       "url": "https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg"
@@ -1188,7 +1242,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 173098,
       "name": "Poco - Versi\u00f3n Pop",
       "url": "https://open.spotify.com/track/4DAWpeE7iV2vJ6dL4SVPCo"
@@ -1236,6 +1290,24 @@
       "duration_ms": 209712,
       "name": "Porfa no te vayas",
       "url": "https://open.spotify.com/track/4J2HLNTxiVxxs6kWgTIN43"
+    },
+    {
+      "album": {
+        "name": "Portales (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184511,
+      "name": "Que Se Parezca A Ti",
+      "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
     },
     {
       "album": {
@@ -1297,6 +1369,24 @@
     },
     {
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Si Dios Fuera Poeta",
+      "url": "https://open.spotify.com/track/0UHtz5TdWehAXurroIfemG"
+    },
+    {
+      "album": {
         "name": "Si Te Interesa",
         "url": "https://open.spotify.com/album/38vRC3Dknur2wDrauTiyTW"
       },
@@ -1312,6 +1402,28 @@
       "duration_ms": 232500,
       "name": "Si Te Interesa",
       "url": "https://open.spotify.com/track/3cuxPiF5W1ID8R5Mmr36gS"
+    },
+    {
+      "album": {
+        "name": "Si T\u00fa Me Quieres",
+        "url": "https://open.spotify.com/album/74rEKU2G8oF2VRMjd14IcY"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204454,
+      "name": "Si T\u00fa Me Quieres",
+      "url": "https://open.spotify.com/track/6EjZfW6C5msXQNaf1kquu7"
     },
     {
       "album": {

@@ -2207,6 +2207,24 @@
     },
     {
       "album": {
+        "name": "Guilt",
+        "url": "https://open.spotify.com/album/2siQNet39SgvMihAHEhd8j"
+      },
+      "artists": [
+        {
+          "name": "Somber Hills",
+          "url": "https://open.spotify.com/artist/32ERIC9nktHUbxT63ML95P"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193682,
+      "name": "Guilt",
+      "url": "https://open.spotify.com/track/31mA7LoZx6ot2Jkg1ro5IA"
+    },
+    {
+      "album": {
         "name": "Guilty Love",
         "url": "https://open.spotify.com/album/3nIzN4pn6G17EXctMPCSNS"
       },
@@ -4059,7 +4077,7 @@
     },
     {
       "album": {
-        "name": "Not Without My Ghosts (feat. Phem)",
+        "name": "Not Without My Ghosts (feat. phem)",
         "url": "https://open.spotify.com/album/62RMowdYBDDnzabAVX5Ifu"
       },
       "artists": [
@@ -4076,7 +4094,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 210531,
-      "name": "Not Without My Ghosts (feat. Phem)",
+      "name": "Not Without My Ghosts (feat. phem)",
       "url": "https://open.spotify.com/track/2rlkdPZr9BmPEMC7wlg11e"
     },
     {

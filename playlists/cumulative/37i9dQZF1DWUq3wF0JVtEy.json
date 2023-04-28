@@ -2754,7 +2754,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 181935,
       "name": "How it is",
       "url": "https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j"
@@ -5466,6 +5466,24 @@
       "duration_ms": 230046,
       "name": "shit i like",
       "url": "https://open.spotify.com/track/7iBx3dJNTfXWf5vOJ9Vqg0"
+    },
+    {
+      "album": {
+        "name": "Sick",
+        "url": "https://open.spotify.com/album/1IEHHhA8ZT0AqC6LLiWOp2"
+      },
+      "artists": [
+        {
+          "name": "Breathe Carolina",
+          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Sick",
+      "url": "https://open.spotify.com/track/2GbDbMyyLggfBWh8NCMBLj"
     },
     {
       "album": {

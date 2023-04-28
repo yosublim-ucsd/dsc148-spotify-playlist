@@ -1,12 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
-  "num_followers": 211631,
+  "num_followers": 211664,
   "original_name": "Sax and the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMDUxYTE3ZWY1Y2YwMDY2MDgzOTBmNTMzNDFlM2UzOGY4",
+  "snapshot_id": "MCxhNTcwZDg1NzA1ZGQzN2RlNDUxZWViNWFhYjQzMmM0MjI0Zjc0NzUx",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Just Once (Radio Edit)",
-        "url": "https://open.spotify.com/album/5Or7bdT4M623kfAR3Lvp6t"
-      },
-      "artists": [
-        {
-          "name": "Vandell Andrew",
-          "url": "https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW"
-        }
-      ],
-      "duration_ms": 244450,
-      "name": "Just Once (Radio Edit)",
-      "url": "https://open.spotify.com/track/0gg4oTlnC2lKRPtxcZ43Cn"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Songs From The Night Before",
         "url": "https://open.spotify.com/album/1qABZigBQzuvHXnvjfcLCe"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 303680,
       "name": "Rikke",
       "url": "https://open.spotify.com/track/1wvb7JFKm9QeLJ7VNRmncw"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Just Once (Radio Edit)",
+        "url": "https://open.spotify.com/album/5Or7bdT4M623kfAR3Lvp6t"
+      },
+      "artists": [
+        {
+          "name": "Vandell Andrew",
+          "url": "https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW"
+        }
+      ],
+      "duration_ms": 244450,
+      "name": "Just Once (Radio Edit)",
+      "url": "https://open.spotify.com/track/0gg4oTlnC2lKRPtxcZ43Cn"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -383,6 +383,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Supersonic",
+        "url": "https://open.spotify.com/album/2KylbEyOJLnnHSAaVphBPV"
+      },
+      "artists": [
+        {
+          "name": "Will Donato",
+          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
+        }
+      ],
+      "duration_ms": 220440,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/2gGhIxqwahRw0tcrNRoy6f"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "The Golden Hour",
         "url": "https://open.spotify.com/album/60IyGGYt7i028SO7QQdSb1"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 185340,
       "name": "Today",
       "url": "https://open.spotify.com/track/2q31jbhT4UKTd0hD79yPJQ"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Supersonic",
-        "url": "https://open.spotify.com/album/2KylbEyOJLnnHSAaVphBPV"
-      },
-      "artists": [
-        {
-          "name": "Will Donato",
-          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
-        }
-      ],
-      "duration_ms": 220440,
-      "name": "Supersonic",
-      "url": "https://open.spotify.com/track/2gGhIxqwahRw0tcrNRoy6f"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -995,22 +995,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Summer Madness",
-        "url": "https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 243146,
-      "name": "Cachaca",
-      "url": "https://open.spotify.com/track/4cKdYSn1NdPawP7qCQrFH1"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "James Vargas",
         "url": "https://open.spotify.com/album/3RoZERiO1xREfMW5ZId0jh"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 312800,
       "name": "Lasting Impression",
       "url": "https://open.spotify.com/track/4eJIsCmuhgkuxnB2qmoHx4"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Summer Madness",
+        "url": "https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 243146,
+      "name": "Cachaca",
+      "url": "https://open.spotify.com/track/4cKdYSn1NdPawP7qCQrFH1"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Quintastic",
-        "url": "https://open.spotify.com/album/4LzFSL2q6GErS6Kq1PnOxS"
-      },
-      "artists": [
-        {
-          "name": "Deon Yates",
-          "url": "https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO"
-        }
-      ],
-      "duration_ms": 243685,
-      "name": "Quintastic",
-      "url": "https://open.spotify.com/track/7CBCAj6NaFYKjFhIEMYtBf"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Gratitude",
         "url": "https://open.spotify.com/album/5fe2fP7BIfmGBTnw5UUcdO"
       },
@@ -1087,22 +1071,6 @@
       "duration_ms": 258453,
       "name": "Soho",
       "url": "https://open.spotify.com/track/5D3zhloazy4TDWxClQAkIo"
-    },
-    {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
-        "name": "Say What",
-        "url": "https://open.spotify.com/album/4Sv7jKSOmNE0Lhagi9DKlo"
-      },
-      "artists": [
-        {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
-        }
-      ],
-      "duration_ms": 227077,
-      "name": "Say What",
-      "url": "https://open.spotify.com/track/7vrvAwJcZTprmPELVAPmir"
     },
     {
       "added_at": "2021-08-13 04:01:00",
@@ -1119,6 +1087,38 @@
       "duration_ms": 259838,
       "name": "West Coast Soul",
       "url": "https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Quintastic",
+        "url": "https://open.spotify.com/album/4LzFSL2q6GErS6Kq1PnOxS"
+      },
+      "artists": [
+        {
+          "name": "Deon Yates",
+          "url": "https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO"
+        }
+      ],
+      "duration_ms": 243685,
+      "name": "Quintastic",
+      "url": "https://open.spotify.com/track/7CBCAj6NaFYKjFhIEMYtBf"
+    },
+    {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
+        "name": "Say What",
+        "url": "https://open.spotify.com/album/4Sv7jKSOmNE0Lhagi9DKlo"
+      },
+      "artists": [
+        {
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+        }
+      ],
+      "duration_ms": 227077,
+      "name": "Say What",
+      "url": "https://open.spotify.com/track/7vrvAwJcZTprmPELVAPmir"
     },
     {
       "added_at": "2022-04-15 04:02:00",
@@ -1237,22 +1237,6 @@
       "url": "https://open.spotify.com/track/6O0FDghGmoL5w0WOVaoNIP"
     },
     {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "On The Move",
-        "url": "https://open.spotify.com/album/4pBNj3JonyIgHr9VBzjUUS"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 250093,
-      "name": "On The Move",
-      "url": "https://open.spotify.com/track/2Q6XPRLwgglQSYVAoCRaEI"
-    },
-    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "As the Days Go by...",
@@ -1287,6 +1271,22 @@
       "duration_ms": 244613,
       "name": "Solux",
       "url": "https://open.spotify.com/track/2eEQtEfr7JdPSSwYjNsznv"
+    },
+    {
+      "added_at": "2021-08-13 04:01:00",
+      "album": {
+        "name": "On The Move",
+        "url": "https://open.spotify.com/album/4pBNj3JonyIgHr9VBzjUUS"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 250093,
+      "name": "On The Move",
+      "url": "https://open.spotify.com/track/2Q6XPRLwgglQSYVAoCRaEI"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1489,22 +1489,6 @@
       "url": "https://open.spotify.com/track/5Eug7AiCUq449ZsPpDae7P"
     },
     {
-      "added_at": "2021-10-08 04:02:00",
-      "album": {
-        "name": "No Shade",
-        "url": "https://open.spotify.com/album/6Q8xVgUdOXmVC8tajioGQw"
-      },
-      "artists": [
-        {
-          "name": "Isaac Norris",
-          "url": "https://open.spotify.com/artist/7Jk3V5UnyugLjWSQ0Knt0G"
-        }
-      ],
-      "duration_ms": 248472,
-      "name": "No Shade",
-      "url": "https://open.spotify.com/track/6E94ZUOgN9UazkFmGxEu5q"
-    },
-    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Prime Time",
@@ -1519,6 +1503,22 @@
       "duration_ms": 239506,
       "name": "Prime Time",
       "url": "https://open.spotify.com/track/73y1mF0koz768FqU0BkgK5"
+    },
+    {
+      "added_at": "2021-10-08 04:02:00",
+      "album": {
+        "name": "No Shade",
+        "url": "https://open.spotify.com/album/6Q8xVgUdOXmVC8tajioGQw"
+      },
+      "artists": [
+        {
+          "name": "Isaac Norris",
+          "url": "https://open.spotify.com/artist/7Jk3V5UnyugLjWSQ0Knt0G"
+        }
+      ],
+      "duration_ms": 248472,
+      "name": "No Shade",
+      "url": "https://open.spotify.com/track/6E94ZUOgN9UazkFmGxEu5q"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Steppin' Up",
+        "url": "https://open.spotify.com/album/0DITfrhUVScJdnsT4OmgMT"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Ward",
+          "url": "https://open.spotify.com/artist/3yroTvZKrVMjmu5yufiWJG"
+        }
+      ],
+      "duration_ms": 284093,
+      "name": "City Vibe",
+      "url": "https://open.spotify.com/track/79x2Lkq33VN2rQdrs9i6h6"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Pulling Off The Covers",
         "url": "https://open.spotify.com/album/1cl7i0OKKnt75YYUmpiwN4"
       },
@@ -1559,18 +1575,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Steppin' Up",
-        "url": "https://open.spotify.com/album/0DITfrhUVScJdnsT4OmgMT"
+        "name": "Breakin' Thru",
+        "url": "https://open.spotify.com/album/37OBARgecVcRJ385LQO7Je"
       },
       "artists": [
         {
-          "name": "Andr\u00e9 Ward",
-          "url": "https://open.spotify.com/artist/3yroTvZKrVMjmu5yufiWJG"
+          "name": "Eric Darius",
+          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
         }
       ],
-      "duration_ms": 284093,
-      "name": "City Vibe",
-      "url": "https://open.spotify.com/track/79x2Lkq33VN2rQdrs9i6h6"
+      "duration_ms": 270968,
+      "name": "Breakin' Thru",
+      "url": "https://open.spotify.com/track/0In4huETTZX9XmkZHPGATo"
     },
     {
       "added_at": "2021-07-12 18:23:33",
@@ -1591,22 +1607,6 @@
       "duration_ms": 238529,
       "name": "In the Moment",
       "url": "https://open.spotify.com/track/4cEmNYuJF3sRAHTHcV16c4"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Breakin' Thru",
-        "url": "https://open.spotify.com/album/37OBARgecVcRJ385LQO7Je"
-      },
-      "artists": [
-        {
-          "name": "Eric Darius",
-          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
-        }
-      ],
-      "duration_ms": 270968,
-      "name": "Breakin' Thru",
-      "url": "https://open.spotify.com/track/0In4huETTZX9XmkZHPGATo"
     },
     {
       "added_at": "2021-07-12 18:09:21",

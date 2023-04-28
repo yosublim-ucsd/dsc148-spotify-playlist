@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: d4vd",
-  "num_followers": 424368,
+  "num_followers": 424590,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc4NTQ5MSwwMDAwMDAwMGE1OTM4ZTRlN2JjZjY5NjNlYTZlMGM5ZjIyYTU5MzA1",
+  "snapshot_id": "MCwzNDc3YjgxZjNmZGJjNTM5YTg0ZTdiMTY1YWE5YzUyM2M0MjExZmQ3",
   "tracks": [
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1029,22 +1029,6 @@
       "url": "https://open.spotify.com/track/0bhmQgTeqAcxvfoHo5NPk7"
     },
     {
-      "added_at": "2022-12-13 12:51:47",
-      "album": {
-        "name": "Let It Pass",
-        "url": "https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS"
-      },
-      "artists": [
-        {
-          "name": "Teenage Priest",
-          "url": "https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34"
-        }
-      ],
-      "duration_ms": 268909,
-      "name": "Let It Pass",
-      "url": "https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S"
-    },
-    {
       "added_at": "2022-09-13 23:04:24",
       "album": {
         "name": "Wednesday",
@@ -1059,6 +1043,22 @@
       "duration_ms": 312400,
       "name": "Deaf",
       "url": "https://open.spotify.com/track/4XxcYQq3q2hxjTTKKyiyR4"
+    },
+    {
+      "added_at": "2022-12-13 12:51:47",
+      "album": {
+        "name": "Let It Pass",
+        "url": "https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS"
+      },
+      "artists": [
+        {
+          "name": "Teenage Priest",
+          "url": "https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34"
+        }
+      ],
+      "duration_ms": 268909,
+      "name": "Let It Pass",
+      "url": "https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1091,6 +1091,22 @@
       "duration_ms": 239343,
       "name": "Into",
       "url": "https://open.spotify.com/track/22lOyosVUdyq7X0P7rzbWy"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Fade",
+        "url": "https://open.spotify.com/album/7mvQaGNnewjly0RNWdfiNT"
+      },
+      "artists": [
+        {
+          "name": "Launder",
+          "url": "https://open.spotify.com/artist/34oS6XgB17t0Gm7623KXLh"
+        }
+      ],
+      "duration_ms": 203444,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/56aGCgQHz0eRCNXcuNY99B"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Fade",
-        "url": "https://open.spotify.com/album/7mvQaGNnewjly0RNWdfiNT"
-      },
-      "artists": [
-        {
-          "name": "Launder",
-          "url": "https://open.spotify.com/artist/34oS6XgB17t0Gm7623KXLh"
-        }
-      ],
-      "duration_ms": 203444,
-      "name": "Fade",
-      "url": "https://open.spotify.com/track/56aGCgQHz0eRCNXcuNY99B"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0"
       },
@@ -1159,22 +1159,6 @@
       "duration_ms": 237398,
       "name": "Baby",
       "url": "https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "ALLTHETIME",
-        "url": "https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T"
-      },
-      "artists": [
-        {
-          "name": "POLICE CAR COLLECTIVE",
-          "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
-        }
-      ],
-      "duration_ms": 425680,
-      "name": "ALLTHETIME",
-      "url": "https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1195,6 +1179,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "ALLTHETIME",
+        "url": "https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T"
+      },
+      "artists": [
+        {
+          "name": "POLICE CAR COLLECTIVE",
+          "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
+        }
+      ],
+      "duration_ms": 425680,
+      "name": "ALLTHETIME",
+      "url": "https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "LIFE ON EARTH",
         "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
       },
@@ -1207,6 +1207,22 @@
       "duration_ms": 242053,
       "name": "PIERCED ARROWS",
       "url": "https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Maybe the Problem Is Me",
+        "url": "https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB"
+      },
+      "artists": [
+        {
+          "name": "dexter in the newsagent",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "duration_ms": 133090,
+      "name": "Maybe the Problem Is Me",
+      "url": "https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1251,18 +1267,18 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Maybe the Problem Is Me",
-        "url": "https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/3EfT0FhcsFzflCWBTxJd2k"
       },
       "artists": [
         {
-          "name": "dexter in the newsagent",
-          "url": "https://open.spotify.com/artist/1ey2ESMWC5HEj2CmxvD7Mp"
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
         }
       ],
-      "duration_ms": 133090,
-      "name": "Maybe the Problem Is Me",
-      "url": "https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh"
+      "duration_ms": 180295,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/2zAzuCsqsZkSkozxTXqtSn"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1279,22 +1295,6 @@
       "duration_ms": 96363,
       "name": "heat waves - lofi version",
       "url": "https://open.spotify.com/track/5t0Dbc52fLBCsMTIXMYGo8"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/3EfT0FhcsFzflCWBTxJd2k"
-      },
-      "artists": [
-        {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
-        }
-      ],
-      "duration_ms": 180295,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/2zAzuCsqsZkSkozxTXqtSn"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "i want to die in your arms",
-        "url": "https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 136506,
-      "name": "i want to die in your arms",
-      "url": "https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "dirt",
         "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 176268,
       "name": "4th of july",
       "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "i want to die in your arms",
+        "url": "https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 136506,
+      "name": "i want to die in your arms",
+      "url": "https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "i run like this",
-        "url": "https://open.spotify.com/album/5dTdx1hbSnJtbLnvGajIRc"
-      },
-      "artists": [
-        {
-          "name": "Vanillaroma",
-          "url": "https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7"
-        }
-      ],
-      "duration_ms": 182250,
-      "name": "buzzkill bummer",
-      "url": "https://open.spotify.com/track/1wMBG8bzSjlupviNxOxsyX"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "at least, I tried",
         "url": "https://open.spotify.com/album/1QnA67cEEW7GV8izg8ZGwT"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 194060,
       "name": "at least, I tried",
       "url": "https://open.spotify.com/track/1EznNhpm2q1HaAFxIO8k2h"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "i run like this",
+        "url": "https://open.spotify.com/album/5dTdx1hbSnJtbLnvGajIRc"
+      },
+      "artists": [
+        {
+          "name": "Vanillaroma",
+          "url": "https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7"
+        }
+      ],
+      "duration_ms": 182250,
+      "name": "buzzkill bummer",
+      "url": "https://open.spotify.com/track/1wMBG8bzSjlupviNxOxsyX"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "softcore mourn",
-        "url": "https://open.spotify.com/album/6JpYbHo988mjDqGjUCDxwR"
-      },
-      "artists": [
-        {
-          "name": "pizzagirl",
-          "url": "https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA"
-        }
-      ],
-      "duration_ms": 243102,
-      "name": "sugar ray",
-      "url": "https://open.spotify.com/track/41edVQe0lQk74BxzcC7odS"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Reality",
         "url": "https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 132323,
       "name": "OH GOD",
       "url": "https://open.spotify.com/track/6WE3Ai38FIfTiBvOWLZwA1"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "softcore mourn",
+        "url": "https://open.spotify.com/album/6JpYbHo988mjDqGjUCDxwR"
+      },
+      "artists": [
+        {
+          "name": "pizzagirl",
+          "url": "https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA"
+        }
+      ],
+      "duration_ms": 243102,
+      "name": "sugar ray",
+      "url": "https://open.spotify.com/track/41edVQe0lQk74BxzcC7odS"
     },
     {
       "added_at": "2022-09-13 23:04:24",

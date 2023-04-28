@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Larry June & Alchemist
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,244,382 likes - 99 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,244,967 likes - 99 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 98 | [Radioactive](https://open.spotify.com/track/45AIuD8zNP8MzT7KyuoBcA) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [The Drive in Theatre Part 2](https://open.spotify.com/album/6OvScHfJd924SQc0tYWUSA) | 3:08 |
 | 99 | [PARIS](https://open.spotify.com/track/52LNZKzoEyx0KzV0IMclnc) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Lyrics to GO, Vol\. 4](https://open.spotify.com/album/0E6Fb92KU7h8jRdHfZxNm3) | 2:24 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDQ4ODRlOTQ4YzVlNTRiMDFiYzJjN2Y1MDE4NzFhODg2`
+Snapshot ID: `MCwwMjIyOTlmNDNiMGFmZTAzYmFmYTRkYjk3YTc4YzdjZjdiNGQ3N2Ez`

@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Saiko",
-  "num_followers": 21611,
+  "num_followers": 21623,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTk0MTY2MCwwMDAwMDAwMDgxOGFlNDM5ODM4NzVmOWRlNzZhMzViN2Y5ZWU4NmRl",
+  "snapshot_id": "MCwwZTgxNzEwZjY0MTI2MWI5Njg4NTQzY2UzN2Q5ZWY0ZDMyMTI1OTE5",
   "tracks": [
     {
       "added_at": "2023-04-19 22:01:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-04-19 22:01:00",
       "album": {
-        "name": "Porque t\u00fa lo sabr\u00edas",
-        "url": "https://open.spotify.com/album/2UuIYup88kaMFhScMfUAa0"
-      },
-      "artists": [
-        {
-          "name": "Jimena Amarillo",
-          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
-        }
-      ],
-      "duration_ms": 191806,
-      "name": "Porque t\u00fa lo sabr\u00edas",
-      "url": "https://open.spotify.com/track/0LfPtLzOOPZDulnDVWn9g3"
-    },
-    {
-      "added_at": "2023-04-19 22:01:00",
-      "album": {
         "name": "favorita",
         "url": "https://open.spotify.com/album/1S7trDsVlwschptph947TY"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 127634,
       "name": "favorita",
       "url": "https://open.spotify.com/track/1GD7Rao8kRvGAoXBI8Aott"
+    },
+    {
+      "added_at": "2023-04-19 22:01:00",
+      "album": {
+        "name": "Porque t\u00fa lo sabr\u00edas",
+        "url": "https://open.spotify.com/album/2UuIYup88kaMFhScMfUAa0"
+      },
+      "artists": [
+        {
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        }
+      ],
+      "duration_ms": 191806,
+      "name": "Porque t\u00fa lo sabr\u00edas",
+      "url": "https://open.spotify.com/track/0LfPtLzOOPZDulnDVWn9g3"
     },
     {
       "added_at": "2023-04-19 22:01:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-04-19 22:01:00",
       "album": {
+        "name": "Indie esperanzador",
+        "url": "https://open.spotify.com/album/1RW1vuElxJa3J9pSvjgWZc"
+      },
+      "artists": [
+        {
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        }
+      ],
+      "duration_ms": 170285,
+      "name": "Indie esperanzador",
+      "url": "https://open.spotify.com/track/3Lf9uNTAy4aMlKxSPdTktH"
+    },
+    {
+      "added_at": "2023-04-19 22:01:00",
+      "album": {
         "name": "qu\u00e9 voy a hacer",
         "url": "https://open.spotify.com/album/5AXWainYQGafkbtRpzqz1L"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 192500,
       "name": "Solo me gustas cuando yo te gusto a ti",
       "url": "https://open.spotify.com/track/6PdT8A35WPRr4r7JNjyTWO"
-    },
-    {
-      "added_at": "2023-04-19 22:01:00",
-      "album": {
-        "name": "Indie esperanzador",
-        "url": "https://open.spotify.com/album/1RW1vuElxJa3J9pSvjgWZc"
-      },
-      "artists": [
-        {
-          "name": "Jimena Amarillo",
-          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
-        }
-      ],
-      "duration_ms": 170285,
-      "name": "Indie esperanzador",
-      "url": "https://open.spotify.com/track/3Lf9uNTAy4aMlKxSPdTktH"
     },
     {
       "added_at": "2023-04-19 22:01:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-04-19 22:01:00",
       "album": {
+        "name": "Roma No Es Amor",
+        "url": "https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD"
+      },
+      "artists": [
+        {
+          "name": "DePol",
+          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
+        }
+      ],
+      "duration_ms": 193243,
+      "name": "Roma No Es Amor",
+      "url": "https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm"
+    },
+    {
+      "added_at": "2023-04-19 22:01:00",
+      "album": {
         "name": "quien me quiere (no me quiere contigo)",
         "url": "https://open.spotify.com/album/3pM1o2Lmf6sKyQCFHqKKyp"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 167722,
       "name": "quien me quiere (no me quiere contigo)",
       "url": "https://open.spotify.com/track/5wXsiahlfpyEdY152cbimc"
-    },
-    {
-      "added_at": "2023-04-19 22:01:00",
-      "album": {
-        "name": "Roma No Es Amor",
-        "url": "https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD"
-      },
-      "artists": [
-        {
-          "name": "DePol",
-          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
-        }
-      ],
-      "duration_ms": 193243,
-      "name": "Roma No Es Amor",
-      "url": "https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm"
     },
     {
       "added_at": "2023-04-19 22:01:00",

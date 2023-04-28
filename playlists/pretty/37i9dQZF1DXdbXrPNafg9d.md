@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new indie songs every Friday\. Cover: MUNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,276,762 likes - 200 songs - 11 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,276,818 likes - 200 songs - 11 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 199 | [To be honest](https://open.spotify.com/track/3G1rPeSTMK5MNno47y1Ll0) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [To be honest](https://open.spotify.com/album/2zqbBftrJpAiOeHwhO9W6X) | 3:41 |
 | 200 | [Wings Of Time \- From the Motion Picture Dungeons & Dragons: Honor Among Thieves](https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Wings Of Time \(From the Motion Picture Dungeons & Dragons: Honor Among Thieves\)](https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ) | 2:48 |
 
-Snapshot ID: `MTY4MjExNjI0MSwwMDAwMDAwMGFhNjgzOGZhYTM2ZDBmNjQxNDE4MmU4YjA2OGU4NmZj`
+Snapshot ID: `MCxkYzM4ZTc4YmRlNTkwZGM0YzcyNjliM2QyNmYyZWQ0ZDk0MDUzN2Vh`

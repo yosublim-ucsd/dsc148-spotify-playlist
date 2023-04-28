@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wOwTzGsYKA.md) - [plain]
 | 19 | [Walking On Sunshine](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Katrina & The Waves](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) | 3:58 |
 | 20 | [Faith \- Remastered](https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 3:13 |
 
-Snapshot ID: `MTY2NDkxOTc4MywwMDAwMDAwMDI1MGRlNmM4MDBhMmRlN2IwYmI1MWI3ZWM0N2Y5YmFl`
+Snapshot ID: `MCxkNThjZjQ0Y2I1MzUzNGUxMDgwZWRjZTc5YjIxOWE5NzFmZmFmYzc5`

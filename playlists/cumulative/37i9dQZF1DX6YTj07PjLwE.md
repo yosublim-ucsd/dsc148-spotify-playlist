@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 90s rock! Cover: Pixies.
 
-638 songs - 1 day 22 hr 49 min
+639 songs - 1 day 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,7 +396,7 @@
 | [Pity For A Dime](https://open.spotify.com/track/7AMkh36MntX0MkZzBFemFc) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [My Own Prison](https://open.spotify.com/album/50EmY7MXVsXoUEdwieYbud) | 5:29 | 2022-04-28 | 2022-07-02 |
 | [Please](https://open.spotify.com/track/7DwqzWCSdLEYvzqU30Pd4L) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pop](https://open.spotify.com/album/5mojJwWgWNJcY3odUGgQc3) | 5:02 | 2022-04-28 | 2022-07-27 |
 | [Popular](https://open.spotify.com/track/48sJGpBLqQTs0sZ2ImHJof) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [High/Low](https://open.spotify.com/album/4o7LG3LUbq67bPNMitn00L) | 3:40 | 2022-04-28 |  |
-| [Pretty](https://open.spotify.com/track/3mayeyaPg5DQGBa78LJM59) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 2:16 | 2022-04-28 |  |
+| [Pretty](https://open.spotify.com/track/3mayeyaPg5DQGBa78LJM59) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 2:16 | 2022-04-28 | 2023-04-28 |
 | [Pretty Noose](https://open.spotify.com/track/6ZzeXWwDvMzrgCWt9RwBj1) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Down On The Upside](https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B) | 4:11 | 2022-04-28 | 2023-04-27 |
 | [Pretty Tied Up \(The Perils Of Rock N' Roll Decadence\)](https://open.spotify.com/track/2hAt6y582UsTcwvCKTcTMs) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C) | 4:47 | 2022-04-28 | 2022-07-12 |
 | [Promises](https://open.spotify.com/track/15Trb1S2FDZSMLDzWfnlbg) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 5:27 | 2022-04-28 |  |
@@ -583,6 +583,7 @@
 | [Trippin' on a Hole in a Paper Heart](https://open.spotify.com/track/2gdtLnVGGg80Kj9GiqP0vH) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Tiny Music...Songs from the Vatican Gift Shop](https://open.spotify.com/album/2JJEIN6LvQJQTJDfnYdDAe) | 2:55 | 2022-04-28 |  |
 | [Try Not To Breathe](https://open.spotify.com/track/0bPg0OA0ep90qVCYfymwO6) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q) | 3:50 | 2022-04-28 | 2022-07-19 |
 | [Tunnel Vision](https://open.spotify.com/track/1IuhMns4MRmjIlAdCDE1jR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Circus](https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0) | 4:19 | 2022-04-28 | 2022-07-28 |
+| [Twenty One](https://open.spotify.com/track/3ZTO8o61SH2xmdVACrGaUk) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 3:07 | 2023-01-18 |  |
 | [Twenty One](https://open.spotify.com/track/2Uovs7m5wttaD4qkr8vrzo) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue](https://open.spotify.com/album/5GugLrmYMl5VRoe2zNgLGp) | 3:07 | 2022-04-28 | 2022-07-29 |
 | [Twice As Hard](https://open.spotify.com/track/4nJlfdLIucLBkXEJPsSCSp) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Shake Your Money Maker](https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3) | 4:09 | 2022-04-28 |  |
 | [U\-Mass](https://open.spotify.com/track/1awOrbCnB720JvXYCY2Lmg) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Trompe le Monde](https://open.spotify.com/album/1xtaONLuwdb5STNnLGNVGi) | 3:00 | 2022-04-28 | 2022-07-29 |

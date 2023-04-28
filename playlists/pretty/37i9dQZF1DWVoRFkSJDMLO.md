@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > Inspired by African drums\. Cover: Shenseea 🇯🇲
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,591 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,690 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 35 | [Hookah](https://open.spotify.com/track/5fhHD1iPMuVNP3H0UWpZxu) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Johnny Roxx](https://open.spotify.com/artist/4Yb284R1KgCHr3RH9Rvkgn), [DJ Moiz](https://open.spotify.com/artist/5cjU6BX3PuLO7f510Fa65P) | [Hookah](https://open.spotify.com/album/3dHxz9EOUJQvNQ6KvUN4be) | 2:57 |
 | 36 | [Ha Ke Tsebe](https://open.spotify.com/track/2zcX47cMqiX6JPOmI5tMG8) | [Ma Gang Official](https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB), [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S) | [Ha Ke Tsebe](https://open.spotify.com/album/0sB19m4iBuRnlabh29k1O9) | 5:56 |
 | 37 | [Bend It Over](https://open.spotify.com/track/4kx5UasR27nS6Bw6huHhj1) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Bend It Over](https://open.spotify.com/album/0NfwvKG89hS98kD3dCaVX1) | 2:55 |
-| 38 | [People \(feat\. Ayra Starr & Omah Lay\)](https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG) | [Libianca](https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [People \(Remixes\)](https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G) | 3:04 |
+| 38 | [People \(feat\. Ayra Starr & Omah Lay\)](https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [People \(Remixes\)](https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G) | 3:04 |
 | 39 | [Bruk Luv](https://open.spotify.com/track/0AAi8ZG3LB21MT4WIKp8kh) | [Kim Kelly](https://open.spotify.com/artist/0VKDm3EjL3n93uaRNlq8eP) | [Bruk Luv](https://open.spotify.com/album/2kIWopEkww09IPHUcKIHk8) | 2:33 |
 | 40 | [Over You](https://open.spotify.com/track/4zqSYxKE9K6B4eghImq7pz) | [Tina \(Hoodcelebrityy\)](https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9), [Massive B](https://open.spotify.com/artist/36fJ2Mx3ktclhSlBbsUbFY), [Bobby Konders](https://open.spotify.com/artist/1AEHGLRSBHwSr4VmU7IOXj) | [Over You](https://open.spotify.com/album/3lge68HMMFfdxpVlh9xwrt) | 1:56 |
 | 41 | [Reckless & Sweet](https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Reckless & Sweet](https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz) | 2:39 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 79 | [Straight To The Moon](https://open.spotify.com/track/7KAUmjBuc9AnuJoC7dRhjY) | [Lex Junior](https://open.spotify.com/artist/3dvvkiXIRyaeLve9BMHdo9), [Jayd Ink](https://open.spotify.com/artist/6TfJcKCr5hFsYZkq2k1Pac) | [Straight To The Moon](https://open.spotify.com/album/2qcCljNxGNFrifXcTZt3P6) | 2:53 |
 | 80 | [Gbese](https://open.spotify.com/track/41DLxR8Dt5Fh6LpqBjAnnJ) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Gbese](https://open.spotify.com/album/0BKZkxzh5KPV9CKQiQ23mC) | 2:42 |
 | 81 | [GWAGWALADA](https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [GWAGWALADA](https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc) | 3:08 |
-| 82 | [Werser](https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16) | [Choplife Soundsystem](https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Werser](https://open.spotify.com/album/1GkNzKt3pj4Gg2by8cokBI) | 4:08 |
+| 82 | [Werser](https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16) | [ChopLife SoundSystem](https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Werser](https://open.spotify.com/album/1GkNzKt3pj4Gg2by8cokBI) | 4:08 |
 | 83 | [MOVE \(feat\. Grace Jones & Tems\)](https://open.spotify.com/track/5YLGlPYkZBDXieMwzVve7g) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:23 |
 | 84 | [Sability](https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sability](https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy) | 2:46 |
 | 85 | [Werk](https://open.spotify.com/track/4BRjLVJKJQIyFPvz60QEKV) | [Karlie Redd](https://open.spotify.com/artist/0oPdBO6Dh9AgHDRLjpDJpz), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [Werk](https://open.spotify.com/album/49RXeprrZJb40n9Ee2r6p6) | 2:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 99 | [Dumebi](https://open.spotify.com/track/0SjQBdIddPvKSWxr8vk6QX) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rema](https://open.spotify.com/album/4l8Gg5qk0QodyJ12SNtdUf) | 2:59 |
 | 100 | [Sans effet](https://open.spotify.com/track/30RBuEKVJ2UXimaPtwAEIa) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/1uPEctEKBVjCRO5iGsya3b) | 2:40 |
 
-Snapshot ID: `MTY4MjA0OTY2MCwwMDAwMDAwMGEwNzlhZTFjMGE4ODhmODI2ZmUwZGQ1NTRlOGQ0ODEz`
+Snapshot ID: `MCw3MGViYzE0ZjczMWQxZTMxZDJlYTA3MDJhNGUzNTczNDBkOTYxMzdk`

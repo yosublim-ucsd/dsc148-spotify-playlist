@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 
 > Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Pooja Hegde
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,710 likes - 44 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,752 likes - 44 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 | 12 | [Pachchadanamey](https://open.spotify.com/track/49nQCpklrhXuaK5s1TQwOl) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Clinton](https://open.spotify.com/artist/0kEZTiAxUemQeqP06npWMG) | [Sakhi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6KNE9uOJSeK3uEwn92bRTY) | 5:57 |
 | 13 | [Urumulu Nimuvvalai](https://open.spotify.com/track/2rTmVSZOPnS9jrgcl6EjV0) | [Rajesh, Sujatha](https://open.spotify.com/artist/13Da3IxfSztUGGPXJOy6i4) | [Chandralekha](https://open.spotify.com/album/0u0QnbKBaBNm3yRNps6KRl) | 4:31 |
 | 14 | [Buttabomma \- Telugu](https://open.spotify.com/track/0dnDTvdUco2UbaBjUtPxNS) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Ala Vaikunthapurramuloo](https://open.spotify.com/album/2dnfny8QAiGbUk9NI2P9c2) | 3:18 |
-| 15 | [Oy..Oy..](https://open.spotify.com/track/7o20g3bZRdwy6MtiUP9pOx) | [Siddharth, Prasanthini](https://open.spotify.com/artist/3N1VJl9iRAk5HtIP1KghgX) | [Oye](https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8) | 4:42 |
+| 15 | [Oy..Oy..](https://open.spotify.com/track/7o20g3bZRdwy6MtiUP9pOx) | [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P), [Prashanthini](https://open.spotify.com/artist/4joteb3wCfZYGKjvF0XvLx) | [Oye](https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8) | 4:42 |
 | 16 | [Aakasam](https://open.spotify.com/track/4wKiaLGUIAdgRBSv80aeBW) | [Sumangali, Kid Sathya](https://open.spotify.com/artist/0msjNpDNwMgjbKmjbcwGHU) | [Kalusukovalani](https://open.spotify.com/album/2z84b5n0ZwZa3exP90AHiu) | 4:46 |
 | 17 | [Inthandham \(From "Sita Ramam \(Telugu\)"\)](https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja) | [Inthandham \[From "Sita Ramam \(Telugu\)"\]](https://open.spotify.com/album/6J9Jhm6rr5RboOPtvzkNrX) | 3:38 |
 | 18 | [Nagumomu Thaarale \(From "Radhe Shyam"\)](https://open.spotify.com/track/5fnYbqciSco0Y0uMNilDTt) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr) | [Nagumomu Thaarale \(From "Radhe Shyam"\)](https://open.spotify.com/album/1ZCjfkLge20C5RUuULA5v7) | 4:54 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 | 43 | [Athiloka Sundari](https://open.spotify.com/track/7agbQBEJYIaKJ8lGVdq1bv) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Sarrainodu](https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8) | 4:14 |
 | 44 | [Nee Neeli Kannullona \(From "Dear Comrade"\)](https://open.spotify.com/track/0Vjckx1G9Nt1S4GVfVKEdo) | [Gowtham Bharadwaj](https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L), [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr) | [Nee Neeli Kannullona \(From "Dear Comrade"\)](https://open.spotify.com/album/3RcUaHobHgt8eRQY7fPADf) | 2:26 |
 
-Snapshot ID: `MTY3NTg0MTg0NiwwMDAwMDAwMDVjODc1NDYwZDhmOTJiNWMxNjVlN2JjNTNiNWYwMDQz`
+Snapshot ID: `MCw2MTVlZGZiMzRjNjdhODcxMjVlYTZjOTRlZDI5ZjM4YTQyMjAwNzFi`

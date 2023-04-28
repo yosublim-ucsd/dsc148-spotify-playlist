@@ -4,7 +4,7 @@
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-375 songs - 20 hr 50 min
+376 songs - 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Nobody Like You](https://open.spotify.com/track/56g5Uk1PQinVoOK8y8bt5S) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Nobody Like You](https://open.spotify.com/album/0DKHpIt25jPZ3uUrlu3Wi6) | 3:06 | 2021-10-31 | 2022-06-17 |
 | [Nostalgia](https://open.spotify.com/track/6wJlHOOiL3zByo3kE7esCx) | [ISLY](https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW) | [Nostalgia](https://open.spotify.com/album/340FbhdsCrkuXovyIzOJUD) | 4:56 | 2023-02-08 |  |
 | [Not Today \- Remix](https://open.spotify.com/track/65RTyZesurf9xxf7FZVL1u) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Cole Walowac](https://open.spotify.com/artist/3F0U7DCVTndyOFP6ncOX5C) | [Not Today](https://open.spotify.com/album/3wNAcHO8vZNoUyhaVopRb3) | 3:39 | 2021-10-31 | 2023-02-08 |
+| [Nothing But The Truth](https://open.spotify.com/track/7trY7vybnipAG4fbm53TMT) | [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [Truth](https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh) | 3:24 | 2023-04-28 |  |
 | [NOW!](https://open.spotify.com/track/3zQTibEtR6c4c0MaOjnrNb) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Better](https://open.spotify.com/album/32gl65iGiX83BcWQtohszk) | 2:59 | 2021-10-31 | 2022-07-23 |
 | [On The Way Up 2.0](https://open.spotify.com/track/3u8YEAVRbJEozzWp9WZLVR) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Out Of Body](https://open.spotify.com/album/740c1lmrFgWszOD0auolea) | 3:16 | 2021-10-31 | 2022-07-28 |
 | [One More Day](https://open.spotify.com/track/6Iu1RH6TuDAnxXDsJ6UbxV) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [One More Day](https://open.spotify.com/album/7ozw8j9l3KhVi4wnP6wwar) | 3:14 | 2021-10-31 | 2023-02-08 |
@@ -303,7 +304,7 @@
 | [Silhouettes](https://open.spotify.com/track/3AoFd9WAOOCjnkXh5PsmYG) | [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [Silhouettes](https://open.spotify.com/album/7BpeLRl1PyJkIjQ8sZ5U9x) | 3:43 | 2021-10-31 | 2023-02-08 |
 | [SIMPLE \(feat\. Joe L Barnes\)](https://open.spotify.com/track/4ukZ5RUJMbIyS2tOhooPNY) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [SIMPLE \(feat\. Joe L Barnes\)](https://open.spotify.com/album/4owcAzyMj5nmT6aYRaahtJ) | 2:32 | 2021-10-31 | 2023-02-08 |
 | [SLINGSHOT](https://open.spotify.com/track/1Rk9TO61bMjJFhDD46TOe0) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab) | [PANORAMA](https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33) | 3:00 | 2021-10-31 | 2023-02-08 |
-| [Smell The Roses](https://open.spotify.com/track/1esEL6SOBktZDjIpieZiFg) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Smell The Roses](https://open.spotify.com/album/0s8jsjHp6xAzZfre4Nzm8f) | 4:13 | 2023-03-16 |  |
+| [Smell The Roses](https://open.spotify.com/track/1esEL6SOBktZDjIpieZiFg) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Smell The Roses](https://open.spotify.com/album/0s8jsjHp6xAzZfre4Nzm8f) | 4:13 | 2023-03-16 | 2023-04-28 |
 | [So Alive](https://open.spotify.com/track/4t3XwK9hpZNRVwUuy3Q2Lw) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab) | [HEATHEN](https://open.spotify.com/album/5yL0xTL7SRjBeK8Yko0wJG) | 3:25 | 2021-10-31 | 2022-07-19 |
 | [Source](https://open.spotify.com/track/5P8f4IKLbTap8ua0DKepcX) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6) | [Source](https://open.spotify.com/album/1dqLRB8MrN9zlkSEAhQtIZ) | 3:04 | 2023-02-08 |  |
 | [Spring Theory](https://open.spotify.com/track/3sVffzt7erAmEJtWLAWevy) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [Growing Up, Pt.2](https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr) | 3:41 | 2023-02-08 |  |

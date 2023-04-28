@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax after a hard day.",
-  "num_followers": 51359,
+  "num_followers": 51454,
   "original_name": "Home at Last",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA3MjcwOCwwMDAwMDAwMDM3MDAwMjI3NmE5YWUzNmJmNmJmNGNlN2FjNzE5MDVj",
+  "snapshot_id": "MCw0OTgyN2Y3NjQ3Yjg1ZDUzN2RkYWY1YmMzOGNjYzlhMGI4MTU5Y2I4",
   "tracks": [
     {
       "added_at": "2023-04-21 10:25:08",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-04-21 10:25:08",
       "album": {
-        "name": "Getting Ready... (World)",
-        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 239893,
-      "name": "Same Old Blues",
-      "url": "https://open.spotify.com/track/1vkEVT81wJQtMZ23FJ1q1i"
-    },
-    {
-      "added_at": "2023-04-21 10:25:08",
-      "album": {
         "name": "Better Than Home (Deluxe Edition)",
         "url": "https://open.spotify.com/album/45blvARBYrViZz3eYg50sH"
       },
@@ -475,18 +459,18 @@
     {
       "added_at": "2023-04-21 10:25:08",
       "album": {
-        "name": "Last Forever",
-        "url": "https://open.spotify.com/album/6x1MGYK2DX76UNJPfBh59J"
+        "name": "Getting Ready... (World)",
+        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
       },
       "artists": [
         {
-          "name": "Shanice Green",
-          "url": "https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb"
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
         }
       ],
-      "duration_ms": 226131,
-      "name": "Last Forever",
-      "url": "https://open.spotify.com/track/3ETWwN2Fa8ihTN2LKpryV2"
+      "duration_ms": 239893,
+      "name": "Same Old Blues",
+      "url": "https://open.spotify.com/track/1vkEVT81wJQtMZ23FJ1q1i"
     },
     {
       "added_at": "2023-04-21 10:25:08",
@@ -503,6 +487,22 @@
       "duration_ms": 208167,
       "name": "Does Anybody Know",
       "url": "https://open.spotify.com/track/68hRjnbmGNKjGObSdmB5ZL"
+    },
+    {
+      "added_at": "2023-04-21 10:25:08",
+      "album": {
+        "name": "Last Forever",
+        "url": "https://open.spotify.com/album/6x1MGYK2DX76UNJPfBh59J"
+      },
+      "artists": [
+        {
+          "name": "Shanice Green",
+          "url": "https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb"
+        }
+      ],
+      "duration_ms": 226131,
+      "name": "Last Forever",
+      "url": "https://open.spotify.com/track/3ETWwN2Fa8ihTN2LKpryV2"
     },
     {
       "added_at": "2023-04-21 10:25:08",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-04-21 10:25:08",
       "album": {
+        "name": "London Bridge",
+        "url": "https://open.spotify.com/album/3xPsEsaCmA1EFrl8TmGtPQ"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 327469,
+      "name": "London Bridge",
+      "url": "https://open.spotify.com/track/1qjQcAWTxlglnGID55ZggL"
+    },
+    {
+      "added_at": "2023-04-21 10:25:08",
+      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -615,22 +631,6 @@
     {
       "added_at": "2023-04-21 10:25:08",
       "album": {
-        "name": "Pensive Pop",
-        "url": "https://open.spotify.com/album/1IzsXEGSZ0XlZtL4XANZqR"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 262693,
-      "name": "Chained To The Rhythm",
-      "url": "https://open.spotify.com/track/1KLyyQ9B4URptPsozR44l8"
-    },
-    {
-      "added_at": "2023-04-21 10:25:08",
-      "album": {
         "name": "Kingfish",
         "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
       },
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-04-21 10:25:08",
       "album": {
-        "name": "London Bridge",
-        "url": "https://open.spotify.com/album/3xPsEsaCmA1EFrl8TmGtPQ"
+        "name": "Pensive Pop",
+        "url": "https://open.spotify.com/album/1IzsXEGSZ0XlZtL4XANZqR"
       },
       "artists": [
         {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
         }
       ],
-      "duration_ms": 327469,
-      "name": "London Bridge",
-      "url": "https://open.spotify.com/track/1qjQcAWTxlglnGID55ZggL"
+      "duration_ms": 262693,
+      "name": "Chained To The Rhythm",
+      "url": "https://open.spotify.com/track/1KLyyQ9B4URptPsozR44l8"
     },
     {
       "added_at": "2023-04-21 10:25:08",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-04-21 10:25:08",
       "album": {
-        "name": "Other Side of Goodbye",
-        "url": "https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ"
-      },
-      "artists": [
-        {
-          "name": "Matt Andersen",
-          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
-        }
-      ],
-      "duration_ms": 154226,
-      "name": "Other Side of Goodbye",
-      "url": "https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe"
-    },
-    {
-      "added_at": "2023-04-21 10:25:08",
-      "album": {
         "name": "Done Come Too Far",
         "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 210731,
       "name": "Barefoot In Heaven",
       "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
+    },
+    {
+      "added_at": "2023-04-21 10:25:08",
+      "album": {
+        "name": "Other Side of Goodbye",
+        "url": "https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ"
+      },
+      "artists": [
+        {
+          "name": "Matt Andersen",
+          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
+        }
+      ],
+      "duration_ms": 154226,
+      "name": "Other Side of Goodbye",
+      "url": "https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe"
     },
     {
       "added_at": "2023-04-21 10:25:08",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-04-21 10:25:08",
       "album": {
+        "name": "Moving On",
+        "url": "https://open.spotify.com/album/1qY0nhVKw2rSpWMcp6KfSP"
+      },
+      "artists": [
+        {
+          "name": "Soulmate",
+          "url": "https://open.spotify.com/artist/6LIdpnR12HZc07v8FcVxPk"
+        }
+      ],
+      "duration_ms": 295346,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/6Azn3tb7ESz1J7NRRemeYB"
+    },
+    {
+      "added_at": "2023-04-21 10:25:08",
+      "album": {
         "name": "Gunsmoke Blues (feat. Jason Isbell)",
         "url": "https://open.spotify.com/album/0VxKgrOCKdcF9PSAvn1rx2"
       },
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2023-04-21 10:25:08",
       "album": {
-        "name": "Moving On",
-        "url": "https://open.spotify.com/album/1qY0nhVKw2rSpWMcp6KfSP"
+        "name": "John Lyons Band",
+        "url": "https://open.spotify.com/album/2wpLg9E3kJhep1R6mL8Yxh"
       },
       "artists": [
         {
-          "name": "Soulmate",
-          "url": "https://open.spotify.com/artist/6LIdpnR12HZc07v8FcVxPk"
+          "name": "John Lyons",
+          "url": "https://open.spotify.com/artist/7n0U6JSH12Ekv3XM5fADc2"
         }
       ],
-      "duration_ms": 295346,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/6Azn3tb7ESz1J7NRRemeYB"
+      "duration_ms": 438204,
+      "name": "Lonely Fool",
+      "url": "https://open.spotify.com/track/0CcySM3v6xGWPdqkYFPZWZ"
     },
     {
       "added_at": "2023-04-21 10:25:08",
@@ -1207,22 +1223,6 @@
       "duration_ms": 289960,
       "name": "It Hurts Me Too",
       "url": "https://open.spotify.com/track/7tPJRpGrQow5dUO1xJijy0"
-    },
-    {
-      "added_at": "2023-04-21 10:25:08",
-      "album": {
-        "name": "John Lyons Band",
-        "url": "https://open.spotify.com/album/2wpLg9E3kJhep1R6mL8Yxh"
-      },
-      "artists": [
-        {
-          "name": "John Lyons",
-          "url": "https://open.spotify.com/artist/7n0U6JSH12Ekv3XM5fADc2"
-        }
-      ],
-      "duration_ms": 438204,
-      "name": "Lonely Fool",
-      "url": "https://open.spotify.com/track/0CcySM3v6xGWPdqkYFPZWZ"
     },
     {
       "added_at": "2023-04-21 10:25:08",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-04-21 10:25:08",
       "album": {
-        "name": "Got Me a Party",
-        "url": "https://open.spotify.com/album/1B4cCMYAWsjT2YZ8rBpsBk"
-      },
-      "artists": [
-        {
-          "name": "Andy Fairweather Low",
-          "url": "https://open.spotify.com/artist/0lZmP91eT6v4c9N9eoMmJD"
-        }
-      ],
-      "duration_ms": 140600,
-      "name": "Got Me a Party",
-      "url": "https://open.spotify.com/track/4IxOjrh1QDVQLwcYvrJB0L"
-    },
-    {
-      "added_at": "2023-04-21 10:25:08",
-      "album": {
         "name": "Tempting Fate",
         "url": "https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 205333,
       "name": "Fortunate Few",
       "url": "https://open.spotify.com/track/1TM8MjSqGQGUIENVLlmROp"
+    },
+    {
+      "added_at": "2023-04-21 10:25:08",
+      "album": {
+        "name": "How Many Times?",
+        "url": "https://open.spotify.com/album/7kHS26d1CwereSBwSSpxrK"
+      },
+      "artists": [
+        {
+          "name": "Phillip-Michael Scales",
+          "url": "https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ"
+        }
+      ],
+      "duration_ms": 285701,
+      "name": "How Many Times?",
+      "url": "https://open.spotify.com/track/3dzG0Hd5xXFgFIiB9lMSzq"
     },
     {
       "added_at": "2023-04-21 10:25:08",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2023-04-21 10:25:08",
       "album": {
-        "name": "How Many Times?",
-        "url": "https://open.spotify.com/album/7kHS26d1CwereSBwSSpxrK"
+        "name": "Got Me a Party",
+        "url": "https://open.spotify.com/album/1B4cCMYAWsjT2YZ8rBpsBk"
       },
       "artists": [
         {
-          "name": "Phillip-Michael Scales",
-          "url": "https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ"
+          "name": "Andy Fairweather Low",
+          "url": "https://open.spotify.com/artist/0lZmP91eT6v4c9N9eoMmJD"
         }
       ],
-      "duration_ms": 285701,
-      "name": "How Many Times?",
-      "url": "https://open.spotify.com/track/3dzG0Hd5xXFgFIiB9lMSzq"
+      "duration_ms": 140600,
+      "name": "Got Me a Party",
+      "url": "https://open.spotify.com/track/4IxOjrh1QDVQLwcYvrJB0L"
     },
     {
       "added_at": "2023-04-21 10:25:08",
@@ -1615,6 +1615,26 @@
     {
       "added_at": "2023-04-21 10:25:08",
       "album": {
+        "name": "Underground Railroad",
+        "url": "https://open.spotify.com/album/6ubhqCcDBYw0DabUMhxnIO"
+      },
+      "artists": [
+        {
+          "name": "Shaneeka Simon",
+          "url": "https://open.spotify.com/artist/5Ppc0aChlO1gqw6s3yZNwN"
+        },
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "duration_ms": 254862,
+      "name": "Underground Railroad",
+      "url": "https://open.spotify.com/track/6LtBXwNr2MJboOD3w5Zt4R"
+    },
+    {
+      "added_at": "2023-04-21 10:25:08",
+      "album": {
         "name": "I Shouldn\u2019t Care (Bonus Track)",
         "url": "https://open.spotify.com/album/2LnL8tzJFM6ZQXonISL2ng"
       },
@@ -1659,26 +1679,6 @@
       "duration_ms": 264506,
       "name": "Country Girl",
       "url": "https://open.spotify.com/track/3o34jLExYxt9nkMr8Q88oF"
-    },
-    {
-      "added_at": "2023-04-21 10:25:08",
-      "album": {
-        "name": "Underground Railroad",
-        "url": "https://open.spotify.com/album/6ubhqCcDBYw0DabUMhxnIO"
-      },
-      "artists": [
-        {
-          "name": "Shaneeka Simon",
-          "url": "https://open.spotify.com/artist/5Ppc0aChlO1gqw6s3yZNwN"
-        },
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        }
-      ],
-      "duration_ms": 254862,
-      "name": "Underground Railroad",
-      "url": "https://open.spotify.com/track/6LtBXwNr2MJboOD3w5Zt4R"
     },
     {
       "added_at": "2023-04-21 10:25:08",

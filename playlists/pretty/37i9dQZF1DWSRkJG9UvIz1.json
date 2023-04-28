@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 124866,
+  "num_followers": 124898,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMGRkYmViZGE0NGMzYTFiYTQzOTZjMjY0OWRkMWFjYzM0",
+  "snapshot_id": "MCw3ZThiZWM2ZTBkNmExNjQ1ZmI2NjFmZDk0YjYyMTZmMDAxM2YwMjYz",
   "tracks": [
     {
       "added_at": "2023-03-11 03:38:22",
@@ -655,18 +655,26 @@
     {
       "added_at": "2023-03-11 03:38:22",
       "album": {
-        "name": "Achados e Perdidos",
-        "url": "https://open.spotify.com/album/0LAhdzSnR5XGs75Ial3VEk"
+        "name": "O Agora",
+        "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
       },
       "artists": [
         {
-          "name": "Curumin",
-          "url": "https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI"
+          "name": "Morcego",
+          "url": "https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Dj Codi",
+          "url": "https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv"
         }
       ],
-      "duration_ms": 259040,
-      "name": "Vem Menina",
-      "url": "https://open.spotify.com/track/2c4Ecmj9hYHm21KOmnZZ9B"
+      "duration_ms": 194730,
+      "name": "O Agora",
+      "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
     },
     {
       "added_at": "2023-03-11 03:38:22",
@@ -699,26 +707,18 @@
     {
       "added_at": "2023-03-11 03:38:22",
       "album": {
-        "name": "O Agora",
-        "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
+        "name": "Achados e Perdidos",
+        "url": "https://open.spotify.com/album/0LAhdzSnR5XGs75Ial3VEk"
       },
       "artists": [
         {
-          "name": "Morcego",
-          "url": "https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Dj Codi",
-          "url": "https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv"
+          "name": "Curumin",
+          "url": "https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI"
         }
       ],
-      "duration_ms": 194730,
-      "name": "O Agora",
-      "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
+      "duration_ms": 259040,
+      "name": "Vem Menina",
+      "url": "https://open.spotify.com/track/2c4Ecmj9hYHm21KOmnZZ9B"
     },
     {
       "added_at": "2023-03-11 03:38:22",
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/5eQ2eEO7mDnJlN8mtRaN6i"
     },
     {
-      "added_at": "2023-04-27 00:45:08",
+      "added_at": "2023-04-28 00:56:54",
       "album": {
         "name": "Esque\u00e7o das Horas (Always On Replay)",
         "url": "https://open.spotify.com/album/7vvNWY6dc9BK3glpycLOf6"

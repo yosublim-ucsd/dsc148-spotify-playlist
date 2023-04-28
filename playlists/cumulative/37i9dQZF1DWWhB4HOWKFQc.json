@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Elsya, Aan Story",
+  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: JISOO",
   "name": "Lagi Viral",
   "tracks": [
     {
@@ -374,7 +374,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 215728,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/5izrZx8Op6kcEv6LB3eqlL"
@@ -737,6 +737,24 @@
     },
     {
       "album": {
+        "name": "ME",
+        "url": "https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173134,
+      "name": "FLOWER",
+      "url": "https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s"
+    },
+    {
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax"
       },
@@ -864,7 +882,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 131957,
       "name": "I Can't Wait",
       "url": "https://open.spotify.com/track/0X6urbVPZcWoeb68fTsmV3"
@@ -1255,6 +1273,24 @@
     },
     {
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187557,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
+    },
+    {
+      "album": {
         "name": "Return To Sender",
         "url": "https://open.spotify.com/album/3jOzdF8WPsqwUp9OznStfw"
       },
@@ -1435,7 +1471,7 @@
       "artists": [
         {
           "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF"
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
         }
       ],
       "date_added": "2023-03-23",
@@ -1453,7 +1489,7 @@
       "artists": [
         {
           "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF"
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
         },
         {
           "name": "Cian Ducrot",
@@ -1624,7 +1660,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 174506,
       "name": "Rover",
       "url": "https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA"
@@ -1856,6 +1892,24 @@
       "duration_ms": 236390,
       "name": "Suzume",
       "url": "https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5"
+    },
+    {
+      "album": {
+        "name": "Tak Dianggap",
+        "url": "https://open.spotify.com/album/1yUpoKb32fCYfxXWsCvmTS"
+      },
+      "artists": [
+        {
+          "name": "Nabila Taqiyyah",
+          "url": "https://open.spotify.com/artist/1DXD8TeBVbTyBrvOI186K3"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252032,
+      "name": "Tak Dianggap",
+      "url": "https://open.spotify.com/track/2tz7YAtoy5Mx6NJXq2b0LD"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Maud Elka",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Lynda & Soolking",
   "name": "R&Bae",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 214613,
       "name": "Atasant\u00e9 (feat. Hamza)",
       "url": "https://open.spotify.com/track/1oXn8nhl44cH6HXqGQnOgY"
@@ -194,6 +194,24 @@
       "duration_ms": 155333,
       "name": "Baby Love",
       "url": "https://open.spotify.com/track/3wz016yrz7dXAtF8WLShSg"
+    },
+    {
+      "album": {
+        "name": "BB",
+        "url": "https://open.spotify.com/album/1aJnsqQzrqxCvcTxXxM50M"
+      },
+      "artists": [
+        {
+          "name": "Dessplora",
+          "url": "https://open.spotify.com/artist/3VZU5ip7b3Bwywo1ST9xif"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125574,
+      "name": "BB",
+      "url": "https://open.spotify.com/track/1LuYLVEVdXwHpgnEM7BNeq"
     },
     {
       "album": {
@@ -317,6 +335,24 @@
     },
     {
       "album": {
+        "name": "NIOUMI",
+        "url": "https://open.spotify.com/album/1hay46KXDEmG1NGlFjohYl"
+      },
+      "artists": [
+        {
+          "name": "Lylah",
+          "url": "https://open.spotify.com/artist/6rMyZCzpGGloxJODqWyYRF"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176213,
+      "name": "CHOUCHOU",
+      "url": "https://open.spotify.com/track/1XzdJhNSc3GGvdQ6aBAi1V"
+    },
+    {
+      "album": {
         "name": "Colombe",
         "url": "https://open.spotify.com/album/4icE1928MumHUI9Y1sxnHq"
       },
@@ -328,7 +364,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 162533,
       "name": "Colombe",
       "url": "https://open.spotify.com/track/5TABk5YGMSEzSfiY4wml4j"
@@ -430,6 +466,28 @@
       "duration_ms": 174240,
       "name": "CV (feat. RK)",
       "url": "https://open.spotify.com/track/7cS0iYSpeBa0qxLsXMELC4"
+    },
+    {
+      "album": {
+        "name": "Un peu de moi",
+        "url": "https://open.spotify.com/album/03CXLjZdsRA4eZymG5RhAj"
+      },
+      "artists": [
+        {
+          "name": "Lynda",
+          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
+        },
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166906,
+      "name": "C\u00e2lin (feat. Soolking)",
+      "url": "https://open.spotify.com/track/4pqcE2mKv6aEiDkgtObDJK"
     },
     {
       "album": {
@@ -716,7 +774,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 208813,
       "name": "Fini d'esp\u00e9rer",
       "url": "https://open.spotify.com/track/0DMQwNGCiSzLB2HsfHNAtb"
@@ -918,7 +976,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 137229,
       "name": "J'\u00e9limine",
       "url": "https://open.spotify.com/track/1U13A13YafzmqthKXiul91"
@@ -1294,7 +1352,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 185729,
       "name": "Ma Raison",
       "url": "https://open.spotify.com/track/1NFS8awse8TQhKZO0ilJXp"
@@ -1687,6 +1745,24 @@
     },
     {
       "album": {
+        "name": "Pas l\u00e0",
+        "url": "https://open.spotify.com/album/5EzYNyHB5oRjRpB1zcUdnc"
+      },
+      "artists": [
+        {
+          "name": "Zokush",
+          "url": "https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147003,
+      "name": "Pas l\u00e0",
+      "url": "https://open.spotify.com/track/5GIRSbbvKHSmY4p2pEnZke"
+    },
+    {
+      "album": {
         "name": "Pervers narcissique",
         "url": "https://open.spotify.com/album/5WZ0HDVic3khelXu0bQu4B"
       },
@@ -1940,7 +2016,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 153240,
       "name": "Soeurci\u00e8re",
       "url": "https://open.spotify.com/track/5uguWUlKcGKjt9RB2NE3r7"
@@ -1984,10 +2060,32 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 190937,
       "name": "Souvenirs",
       "url": "https://open.spotify.com/track/39S74tThedRDddGIRPKtfC"
+    },
+    {
+      "album": {
+        "name": "T'avais raison",
+        "url": "https://open.spotify.com/album/41zHFFsPyr6i85IP4LKbYQ"
+      },
+      "artists": [
+        {
+          "name": "NL",
+          "url": "https://open.spotify.com/artist/44CpDft3h6UMOzq06YrHFO"
+        },
+        {
+          "name": "Ma\u00efssa",
+          "url": "https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162971,
+      "name": "T'avais raison",
+      "url": "https://open.spotify.com/track/1xlVMFQ2d7ceUYjUOp431H"
     },
     {
       "album": {
@@ -2148,6 +2246,24 @@
       "duration_ms": 170500,
       "name": "Une Femme",
       "url": "https://open.spotify.com/track/5QV9n75vtzTzXuVUZDWyt9"
+    },
+    {
+      "album": {
+        "name": "VIBESTARS #6",
+        "url": "https://open.spotify.com/album/3ZRItbt48UvxlbEuIFRFVI"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "VIBESTARS #6",
+      "url": "https://open.spotify.com/track/3GHI1jhIgtflWj1zBcAKQw"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks\. Cover: The Linda Lindas
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,787 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,786 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 40 | [The Season's Upon Us](https://open.spotify.com/track/1gSmN84niQf7DZSCCWfOyN) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Season's Upon Us](https://open.spotify.com/album/0eX2dIB3Ce7t32RjWoppJJ) | 4:02 |
 | 41 | [O Come, O Come Emmanuel](https://open.spotify.com/track/16qtpiIyiTmsN2Dnl5ZPj9) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Christmas Songs](https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS) | 2:07 |
 | 42 | [Christmas Song](https://open.spotify.com/track/5zQHYpjKOHlo86BVVh2jym) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Christmas Song](https://open.spotify.com/album/1xQ5XJsYtbSUvsJrEkZCW9) | 2:54 |
-| 43 | [Carol of the Bells](https://open.spotify.com/track/5mGmOpL9PsVLVmSd9qSlnb) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Lost Messengers: The Outtakes](https://open.spotify.com/album/67STyBXAKtNyQsSIsVvPLC) | 2:44 |
-| 44 | [Hava Nagila](https://open.spotify.com/track/7ybZEUwDsHGMkWGoNSgmCg) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Ruin Jonny's Bar Mitzvah](https://open.spotify.com/album/2ghotUjHKIAK4g2FYb316n) | 3:41 |
+| 43 | [Hava Nagila](https://open.spotify.com/track/7ybZEUwDsHGMkWGoNSgmCg) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Ruin Jonny's Bar Mitzvah](https://open.spotify.com/album/2ghotUjHKIAK4g2FYb316n) | 3:41 |
+| 44 | [Carol of the Bells](https://open.spotify.com/track/5mGmOpL9PsVLVmSd9qSlnb) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Lost Messengers: The Outtakes](https://open.spotify.com/album/67STyBXAKtNyQsSIsVvPLC) | 2:44 |
 | 45 | [Alone This Holiday \- Recorded for KROQ](https://open.spotify.com/track/2JeHW3MNfFLHxmVjfJ40LN) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Maybe Memories](https://open.spotify.com/album/1jnsarG7BdXCoxvIAejkbJ) | 2:54 |
 | 46 | [12 Days Of A Pop\-Punk Christmas](https://open.spotify.com/track/3a0JYuE4yo9xtGon59a7t9) | [Jarrod Alonge](https://open.spotify.com/artist/3zLWOB0I86EiVgG5NrX1ht) | [Punk Goes Christmas \(Deluxe\)](https://open.spotify.com/album/6pj3sxkEUpAOlix05HpxmF) | 3:27 |
 | 47 | [We Wish You a Merry Christmas](https://open.spotify.com/track/2dFbGpUtgwwkB169RoSB9B) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Let It Snow Baby...Let It Reindeer](https://open.spotify.com/album/6RwCnJnuTKo9yjxXwAQEo6) | 2:12 |
@@ -64,16 +64,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 54 | [Grandma Got Run Over By A Reindeer](https://open.spotify.com/track/2Vo0CHZltnh18JAPNOSfS3) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Happy Skalidays](https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x) | 3:02 |
 | 55 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/2owWbedyDiJaXvEbW4krLl) | [Joey Ramone](https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx) | [Christmas Spirit...In My House](https://open.spotify.com/album/0XMxz3mrpWkF5ssipEvaBv) | 3:26 |
 | 56 | [Blue Christmas](https://open.spotify.com/track/2IHqPevgWedxpKHPVMHX5g) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Horror Xmas](https://open.spotify.com/album/51xCpAiS0IrrmV2t7evgiR) | 1:42 |
-| 57 | [I Had A Heart](https://open.spotify.com/track/32l3HV3vwkoVjagjLGdJll) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 2:37 |
-| 58 | [It's Christmas And I Fucking Miss You](https://open.spotify.com/track/2FZmLofghTBI3Gq6HhOxuz) | [Charly Bliss](https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh), [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [It's Christmas And I Fucking Miss You](https://open.spotify.com/album/59gyPN2FnzfC6w9mrkebEn) | 2:41 |
+| 57 | [It's Christmas And I Fucking Miss You](https://open.spotify.com/track/2FZmLofghTBI3Gq6HhOxuz) | [Charly Bliss](https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh), [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [It's Christmas And I Fucking Miss You](https://open.spotify.com/album/59gyPN2FnzfC6w9mrkebEn) | 2:41 |
+| 58 | [I Had A Heart](https://open.spotify.com/track/32l3HV3vwkoVjagjLGdJll) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 2:37 |
 | 59 | [Ex\-Miss](https://open.spotify.com/track/0GematrDvLx1cEh5tTZY4Y) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [New Found Glory \- 10th Anniversary Edition](https://open.spotify.com/album/485PPCvKNtmAJBfzpyw3wk) | 3:37 |
 | 60 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/6myYlIrIBlKhGxYpRwfh03) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Christmas With Weezer](https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq) | 1:32 |
 | 61 | [Mr\. Winter](https://open.spotify.com/track/3dboEgQj1XkorQYxcj62PY) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | […And A Happy New Year](https://open.spotify.com/album/0nvXgp11ABRjr2BFuBm3rP) | 3:21 |
 | 62 | [Somewhere in My Memory](https://open.spotify.com/track/0w06ax9ZDaTbFFmD2wOCnu) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Somewhere in My Memory](https://open.spotify.com/album/3aCzUZ1LlCUINl0yKQaGHa) | 2:29 |
 | 63 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/64q83lEZPlPy88UMvdbiTB) | [Issues](https://open.spotify.com/artist/3zRstk92RGCVDyslSySNsm) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:47 |
-| 64 | [Feliz Navidad](https://open.spotify.com/track/79HjzWum0xKMnUSZvytgmM) | [El Vez](https://open.spotify.com/artist/6AWwTgQn3JoqkdTnL9eDob) | [Merry MeX\-mas](https://open.spotify.com/album/1pkoU5zx8QKbfaNdLcTvY4) | 2:33 |
-| 65 | [Decemberism](https://open.spotify.com/track/2vgsDqkE5dyAveetWyhVHk) | [Man Overboard](https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO) | [The Human Highlight Reel](https://open.spotify.com/album/2zZVFYoDYMcehQkiKHYpj3) | 3:04 |
-| 66 | [New Year's Revolution](https://open.spotify.com/track/55traEc0RnXsRFajtZZMDd) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Stoke Extinguisher](https://open.spotify.com/album/0SS7CfFFNUNdpAgL3NRma7) | 2:19 |
+| 64 | [New Year's Revolution](https://open.spotify.com/track/55traEc0RnXsRFajtZZMDd) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Stoke Extinguisher](https://open.spotify.com/album/0SS7CfFFNUNdpAgL3NRma7) | 2:19 |
+| 65 | [Feliz Navidad](https://open.spotify.com/track/79HjzWum0xKMnUSZvytgmM) | [El Vez](https://open.spotify.com/artist/6AWwTgQn3JoqkdTnL9eDob) | [Merry MeX\-mas](https://open.spotify.com/album/1pkoU5zx8QKbfaNdLcTvY4) | 2:33 |
+| 66 | [Decemberism](https://open.spotify.com/track/2vgsDqkE5dyAveetWyhVHk) | [Man Overboard](https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO) | [The Human Highlight Reel](https://open.spotify.com/album/2zZVFYoDYMcehQkiKHYpj3) | 3:04 |
 | 67 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/2Symnv19lk0n4TsYRzM6O4) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Goldfinger Christmas EP](https://open.spotify.com/album/01EZvMeQxgkRFmVQ2LiR5a) | 1:26 |
 | 68 | [Santa Baby](https://open.spotify.com/track/2wPMolA9qDw7RvUUy56sx1) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Santa Baby](https://open.spotify.com/album/0LIJnUqnGXu85JBSVwioNH) | 2:38 |
 | 69 | [Skank For Christmas](https://open.spotify.com/track/3VblSLAooy2B3mFwHbApLy) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Happy Skalidays](https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x) | 3:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 74 | [Things I Want](https://open.spotify.com/track/7gfa6TiFiesmwQjUbIzv8c) | [Tenacious D](https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh), [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Christmas Calling](https://open.spotify.com/album/3dxUAJGxReRRdWdDGze7EL) | 3:54 |
 | 75 | [This Christmas](https://open.spotify.com/track/7E7UX0xNqCJ6GBfoG1S9iJ) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:03 |
 
-Snapshot ID: `MTY3MTE0ODgwMCwwMDAwMDAwMDBlMGM1N2RkMTY4NzUzODY3MTZkNjc5YjE1ZGIwOTUw`
+Snapshot ID: `MCxhYzMwMmYwNTExMjQ1YzlmZTQ2MjNmNjgzNTBkMTY1ZjZlZWZhYjQ3`

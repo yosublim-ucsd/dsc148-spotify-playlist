@@ -4,7 +4,7 @@
 
 > The hottest alternative music from Nairobi to Dar!
 
-158 songs - 8 hr 16 min
+159 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Doing U Better](https://open.spotify.com/track/7trZEJ00tghFf93kvkyb7S) | [Tangaza](https://open.spotify.com/artist/2ud6k0Vv2jiXXg78RuPmaS), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [Doing U Better](https://open.spotify.com/album/3OM6ultAF9mWPZZ5QC5Wdh) | 2:51 | 2023-03-17 |  |
 | [Echoes \- Remix](https://open.spotify.com/track/3B7XQSWXPAsz50D3NZTmZi) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729), [K!MERA](https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN) | [Echoes \(Remix\)](https://open.spotify.com/album/21mY94BhJNjVcHXuTuBElI) | 2:47 | 2021-10-29 |  |
 | [Entebbe](https://open.spotify.com/track/7JUJDegbbXHmYLtWIb811E) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [Entebbe](https://open.spotify.com/album/59vlQB3gPrQV9VLhU120ub) | 3:52 | 2022-03-25 |  |
-| [Ex Wako Hawezi](https://open.spotify.com/track/3lHMAXPEoikE95Diavz31s) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Ex Wako Hawezi](https://open.spotify.com/album/1Dc1YLXcQXRuNn55VaWxGc) | 3:48 | 2022-03-10 |  |
+| [Ex Wako Hawezi](https://open.spotify.com/track/3lHMAXPEoikE95Diavz31s) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Ex Wako Hawezi](https://open.spotify.com/album/1Dc1YLXcQXRuNn55VaWxGc) | 3:48 | 2022-03-10 | 2023-04-28 |
 | [Fair Game](https://open.spotify.com/track/0N6jiFbnIPADb0ywO2Chqs) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Fair Game](https://open.spotify.com/album/1IxoYVkTwUXmMnfnPpxQXo) | 2:12 | 2022-01-27 | 2022-08-06 |
 | [Fall In Love](https://open.spotify.com/track/35meyoYQd5k0mDKpk6RlAW) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Fall In Love](https://open.spotify.com/album/1Ity1cTX8gNylmJi5CNtcf) | 1:14 | 2022-04-28 | 2023-02-24 |
 | [Feel A Vibe](https://open.spotify.com/track/3sDAbZpJWBxgxry5ATbW9g) | [Iminza](https://open.spotify.com/artist/6zjQD2awFMEfRnNakBu9Br) | [Feel A Vibe](https://open.spotify.com/album/4EjSGOjlSpwN4Kdv3gvALp) | 2:59 | 2021-12-09 | 2023-03-25 |
@@ -164,6 +164,7 @@
 | [WHO’S LOVING YOU?](https://open.spotify.com/track/0ODyFLoeeVJwWhZCAzLyf1) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Full Circle](https://open.spotify.com/album/4PhEHRqWfgTnTwDXAVq4SN) | 2:34 | 2021-11-11 | 2022-10-07 |
 | [Yearning \(Holy Waters\)](https://open.spotify.com/track/0pIjPNbkjUrhpJ3VMlSIQE) | [Mucyo](https://open.spotify.com/artist/3s38cQ7PO3JUUWYL7jasmi) | [The Waters](https://open.spotify.com/album/6sddINYuCb3Rfm6XH1WIMD) | 3:58 | 2021-10-15 | 2022-05-06 |
 | [Yesu Bambi \- Acoustic](https://open.spotify.com/track/2DfjhHcH0ZPxP2l6WKcSFu) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Yesu Bambi \(Acoustic\)](https://open.spotify.com/album/1rvEvZJWpif6hAjpUHst8n) | 2:43 | 2021-10-29 | 2022-06-03 |
+| [YOU A KILLER](https://open.spotify.com/track/4ndMSH7CMcN8z5xPZMCxhn) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [YOU A KILLER](https://open.spotify.com/album/7os16OIbe823TPlSR5OpHH) | 2:10 | 2023-04-27 |  |
 | [Your Secret](https://open.spotify.com/track/3fdwsco6xvuzUjIMuxxdoY) | [Kingsley Ndegwa](https://open.spotify.com/artist/3tsG1yXbIKihK5LVPIaEz4) | [Your Secret](https://open.spotify.com/album/4iW3k6TT4RfCE6flNgbxPC) | 3:51 | 2021-10-15 | 2022-02-12 |
 | [Your Turn](https://open.spotify.com/track/17RkBa8mTYvRgI52res7Eu) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Your Turn](https://open.spotify.com/album/1D7WjiRRPQqKDvDLY0Jh0e) | 3:54 | 2022-11-17 |  |
 

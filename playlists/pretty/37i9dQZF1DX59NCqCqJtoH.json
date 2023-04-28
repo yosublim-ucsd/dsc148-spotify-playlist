@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1138015,
+  "num_followers": 1138224,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjUyOTY4NSwwMDAwMDAwMGJmZDZiN2YwYjdlMDkyZTQzNmIyNGU2MGFkYzA5OWIx",
+  "snapshot_id": "MCxjMDdjZTQzNzYyZmQyZGQxMWJjMmM5MDA0NmVkNGE2ZmQ3ZDE4NTNm",
   "tracks": [
     {
       "added_at": "2023-04-26 17:21:25",
@@ -315,26 +315,6 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "homies",
-        "url": "https://open.spotify.com/album/7by5M1CXms39FAGvXTlB9X"
-      },
-      "artists": [
-        {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
-        },
-        {
-          "name": "Tiana Major9",
-          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
-        }
-      ],
-      "duration_ms": 225068,
-      "name": "homies",
-      "url": "https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv"
-    },
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
         "name": "I'm Not Enough and I'm Sorry",
         "url": "https://open.spotify.com/album/55el5L9WQeGe5LUm73cWL7"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 120000,
       "name": "I'm Not Enough and I'm Sorry",
       "url": "https://open.spotify.com/track/4P1L6AniTDJzANaubzWGYs"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
+        "name": "homies",
+        "url": "https://open.spotify.com/album/7by5M1CXms39FAGvXTlB9X"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        },
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        }
+      ],
+      "duration_ms": 225068,
+      "name": "homies",
+      "url": "https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "whore",
-        "url": "https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 163384,
-      "name": "whore",
-      "url": "https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6"
-    },
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
         "name": "goodnight moon (demos)",
         "url": "https://open.spotify.com/album/1nClgygrTl1OYhaPssJsgz"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 107344,
       "name": "i'll never fall in love with myself (demo)",
       "url": "https://open.spotify.com/track/1LwwYjfoClXVx4lJAngPpp"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
+        "name": "whore",
+        "url": "https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 163384,
+      "name": "whore",
+      "url": "https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "Cotton Candy",
-        "url": "https://open.spotify.com/album/3XUxXmuRsKJAmzCUrBwKR4"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 93871,
-      "name": "Cotton Candy",
-      "url": "https://open.spotify.com/track/4FF0tP9mkoiFKLiXFeXm0q"
-    },
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
         "name": "London Is Lonely",
         "url": "https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG"
       },
@@ -667,22 +651,34 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "Safe.",
-        "url": "https://open.spotify.com/album/59kgTkOxM40wktDHGhDEuH"
+        "name": "Cotton Candy",
+        "url": "https://open.spotify.com/album/3XUxXmuRsKJAmzCUrBwKR4"
       },
       "artists": [
         {
-          "name": "Sarah Meow",
-          "url": "https://open.spotify.com/artist/3O7oOXK7KPniAPEUorctsi"
-        },
-        {
-          "name": "Shiloh",
-          "url": "https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS"
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
         }
       ],
-      "duration_ms": 119089,
-      "name": "I Know You so Well",
-      "url": "https://open.spotify.com/track/17eeKDTWiREsr23gIYahtE"
+      "duration_ms": 93871,
+      "name": "Cotton Candy",
+      "url": "https://open.spotify.com/track/4FF0tP9mkoiFKLiXFeXm0q"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
+        "name": "Dark Corners and Alchemy",
+        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 153915,
+      "name": "princes of melancholia",
+      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -707,18 +703,22 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "Dark Corners and Alchemy",
-        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
+        "name": "Safe.",
+        "url": "https://open.spotify.com/album/59kgTkOxM40wktDHGhDEuH"
       },
       "artists": [
         {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+          "name": "Sarah Meow",
+          "url": "https://open.spotify.com/artist/3O7oOXK7KPniAPEUorctsi"
+        },
+        {
+          "name": "Shiloh",
+          "url": "https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS"
         }
       ],
-      "duration_ms": 153915,
-      "name": "princes of melancholia",
-      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
+      "duration_ms": 119089,
+      "name": "I Know You so Well",
+      "url": "https://open.spotify.com/track/17eeKDTWiREsr23gIYahtE"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU"
+      },
+      "artists": [
+        {
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
+        }
+      ],
+      "duration_ms": 202346,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/6nctEN4lXyz9KV7ujHaAKb"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
         "name": "Carbon Monoxide",
         "url": "https://open.spotify.com/album/29wCCY467y1WfvF427K8Q2"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 190558,
       "name": "Carbon Monoxide",
       "url": "https://open.spotify.com/track/7lpEGQi4FdLnuT6gRT9sZ1"
-    },
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
-        "name": "Slow Down",
-        "url": "https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU"
-      },
-      "artists": [
-        {
-          "name": "Peter McPoland",
-          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
-        }
-      ],
-      "duration_ms": 202346,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/6nctEN4lXyz9KV7ujHaAKb"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
+        "name": "Never Gets Old",
+        "url": "https://open.spotify.com/album/4SFmWILl18Ol37dQ9WLFpO"
+      },
+      "artists": [
+        {
+          "name": "Verzache",
+          "url": "https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T"
+        }
+      ],
+      "duration_ms": 200506,
+      "name": "Never Gets Old",
+      "url": "https://open.spotify.com/track/4RIPTau9DhWdg0rozoyttq"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
         "name": "Flight Risk EP",
         "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 172137,
       "name": "summer nights",
       "url": "https://open.spotify.com/track/0o9t52kMt1yNHE0IDmdu43"
-    },
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
-        "name": "Never Gets Old",
-        "url": "https://open.spotify.com/album/4SFmWILl18Ol37dQ9WLFpO"
-      },
-      "artists": [
-        {
-          "name": "Verzache",
-          "url": "https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T"
-        }
-      ],
-      "duration_ms": 200506,
-      "name": "Never Gets Old",
-      "url": "https://open.spotify.com/track/4RIPTau9DhWdg0rozoyttq"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "squares / y 13",
-        "url": "https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6"
+        "name": "Wavvy",
+        "url": "https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0"
       },
       "artists": [
         {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+          "name": "Lav",
+          "url": "https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl"
         }
       ],
-      "duration_ms": 267031,
-      "name": "squares",
-      "url": "https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne"
+      "duration_ms": 187546,
+      "name": "Wavvy",
+      "url": "https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk"
     }
   ],
   "unique_name": "idk.",

@@ -4,7 +4,7 @@
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Septeto Acarey
 
-128 songs - 9 hr 36 min
+130 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [El Color de Tus Ojos](https://open.spotify.com/track/55wQTdI8Z52zw0FGPSHFhP) | [Bembe Orquesta](https://open.spotify.com/artist/6fsXrJHIeY3ukc4xVP23cP) | [El Color de Tus Ojos](https://open.spotify.com/album/0Jw0sxH3kuVRIVgAqqXLHC) | 4:03 | 2022-05-13 | 2022-07-29 |
 | [El Color de Tus Ojos](https://open.spotify.com/track/0HyN13StsSADhbAOY68PdD) | [Bembe Orquesta](https://open.spotify.com/artist/6fsXrJHIeY3ukc4xVP23cP) | [El Color de Tus Ojos](https://open.spotify.com/album/008Ys7V09mrkoKkKaxI7G0) | 4:03 | 2022-07-15 |  |
 | [El Dolor De Mi Vida \- Versión Salsa](https://open.spotify.com/track/3WSAA6uLjnYNAnYACNa5F7) | [Ezio Oliva](https://open.spotify.com/artist/7MP3vdAhPGxCkUVgOP1Nln), [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [El Dolor De Mi Vida \(Versión Salsa\)](https://open.spotify.com/album/0ZN7GfXpjhltsNAgaYum5U) | 3:56 | 2022-08-12 |  |
+| [El Que Ama Sufre](https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:49 | 2023-04-27 |  |
 | [En Barranquilla Me Quedo](https://open.spotify.com/track/72MkzD8gSET1ofpIuvTNe0) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [En Barranquilla Me Quedo \(Homenaje a Joe Arroyo\)](https://open.spotify.com/album/4UiHiuhosaIa2229YiJXKn) | 4:44 | 2022-05-13 | 2022-07-29 |
 | [En Barranquilla Me Quedo](https://open.spotify.com/track/7C3Czet53d8yHPg6S97L29) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [En Barranquilla Me Quedo \(Homenaje a Joe Arroyo\)](https://open.spotify.com/album/6OjhfiVCYhYx1Qne6IfChP) | 4:44 | 2022-07-15 |  |
 | [En Peligro de Extinción](https://open.spotify.com/track/2zPUGkFAw3gCMcEqWLLWpP) | [Bembe Orquesta](https://open.spotify.com/artist/6fsXrJHIeY3ukc4xVP23cP), [Farik Grippa](https://open.spotify.com/artist/00Xr47kjidyk1Kimx2Ypd2) | [En Peligro de Extinción](https://open.spotify.com/album/7FmHYPGkYb9Ojdfxg5eNRC) | 4:01 | 2022-07-15 |  |
@@ -67,7 +68,7 @@
 | [Hoy Que Te Vuelvo a Ver \- Versión Salsa](https://open.spotify.com/track/68ci2Ioh4qYJEoMalSb1Rv) | [Idéntico](https://open.spotify.com/artist/1rRFD7wAhD9VekIljwlLs1) | [Hoy Que Te Vuelvo a Ver \(Versión Salsa\)](https://open.spotify.com/album/4l2g8GJDkvB6PGTMXm3rhf) | 4:21 | 2022-05-13 |  |
 | [Infiel](https://open.spotify.com/track/3kCxeBjJ81jJtWH52LeNvS) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU) | [Infiel](https://open.spotify.com/album/2FKYbCNaZv18t27If5BkUE) | 4:57 | 2022-05-13 | 2023-02-04 |
 | [La Fórmula](https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [La Fórmula](https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2) | 4:27 | 2023-02-03 |  |
-| [La Llamada](https://open.spotify.com/track/2CPXNiBLtEqrk0C8POsnW5) | [Josimar y Su Yambú](https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs) | [La Llamada](https://open.spotify.com/album/2KfaELlsmIPx2oQka4ZMZY) | 3:42 | 2023-02-03 |  |
+| [La Llamada](https://open.spotify.com/track/2CPXNiBLtEqrk0C8POsnW5) | [Josimar y Su Yambú](https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs) | [La Llamada](https://open.spotify.com/album/2KfaELlsmIPx2oQka4ZMZY) | 3:42 | 2023-02-03 | 2023-04-28 |
 | [La Mejor Versión de Mi](https://open.spotify.com/track/2yWjS7QcpqtDI5KmmQyxkn) | [Los Barraza](https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs) | [La Mejor Versión de Mi](https://open.spotify.com/album/4tzJ6ghCYh5fZ61k5s8k5G) | 4:29 | 2022-05-13 | 2022-07-29 |
 | [La Mejor Versión de Mi](https://open.spotify.com/track/62WQGsG4lHE0gQhLjBeAO6) | [Los Barraza](https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs) | [La Mejor Versión de Mi](https://open.spotify.com/album/0WWfQgz8vCAqLeg7TcdBMJ) | 4:29 | 2022-07-15 |  |
 | [La Peruana](https://open.spotify.com/track/3GwmnvymwiVxTQ02d1wWB1) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [La Peruana](https://open.spotify.com/album/69yHTiNzBYqJVtzYj1fOT1) | 3:52 | 2022-10-07 |  |
@@ -133,8 +134,9 @@
 | [Vamos a Escapar \- Salsa Version](https://open.spotify.com/track/2KT9Lol8Mpv2XKTDJFHoC7) | [Alvaro Rod](https://open.spotify.com/artist/5UjFDinYOVndyri7JqzcAP), [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU), [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Vamos a Escapar](https://open.spotify.com/album/5E8fSgJjFljUaSf7z8A8RM) | 4:34 | 2022-05-13 | 2022-07-29 |
 | [Ven y Dime](https://open.spotify.com/track/5oehfo4iOEb2qdTdKxxgRj) | [Bembe Orquesta](https://open.spotify.com/artist/6fsXrJHIeY3ukc4xVP23cP) | [Ven y Dime](https://open.spotify.com/album/4IRFm0IENRUI4qRcWuOvZS) | 4:37 | 2022-05-13 |  |
 | [Ya No Me Llames Mas](https://open.spotify.com/track/1P8jEZ9Nr4RNjkh4nsEEFM) | [Janco Janner](https://open.spotify.com/artist/35WCIgNwjL6uCOXb8MGWhn) | [Ya No Me Llames Mas](https://open.spotify.com/album/75cfkR9HaYCbWRUfDyJbNh) | 4:13 | 2022-05-13 |  |
-| [Ya No Te Amo](https://open.spotify.com/track/4oEHUVWr6GnvaszaHqSdoi) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Ya No Te Amo](https://open.spotify.com/album/70clE19xMTQeZRbMx5DIMM) | 3:56 | 2023-03-03 |  |
+| [Ya No Te Amo](https://open.spotify.com/track/4oEHUVWr6GnvaszaHqSdoi) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Ya No Te Amo](https://open.spotify.com/album/70clE19xMTQeZRbMx5DIMM) | 3:56 | 2023-03-03 | 2023-04-28 |
 | [Ya para Que](https://open.spotify.com/track/3dzX3gSpIkQPFID4CcdrGN) | [Hey Hey Camaguey](https://open.spotify.com/artist/0DOadkS5Kr2hnrkkGCS9uo) | [Rendido Ante Ti](https://open.spotify.com/album/6YQbz2amnceEATuoen42u0) | 4:03 | 2022-07-15 |  |
 | [Ya para qué](https://open.spotify.com/track/6o9LsVJ2wmVS26HIKsxBIL) | [Hey Hey Camaguey](https://open.spotify.com/artist/0DOadkS5Kr2hnrkkGCS9uo) | [Rendido ante ti](https://open.spotify.com/album/4xPuNmZW2uIj067i75SIhm) | 4:03 | 2022-05-13 | 2022-07-29 |
+| [Ya Te Olvidé](https://open.spotify.com/track/6eXiusG4axQAXMTyY7Ic1n) | [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I) | [Ya Te Olvidé](https://open.spotify.com/album/7mtNsYPDkbixPzprApB0j0) | 4:15 | 2023-04-27 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

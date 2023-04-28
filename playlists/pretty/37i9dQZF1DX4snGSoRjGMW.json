@@ -1,12 +1,12 @@
 {
   "description": "Soul meets blues. Cover: Joe Louis Walker",
-  "num_followers": 11346,
+  "num_followers": 11399,
   "original_name": "Soul Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMDFlYTkwZDUxYzVkNzQ4MTkxMTgzOTJlZWI3YTIxMWU3",
+  "snapshot_id": "MCw3ZTg2YTBkOWJjY2RlM2MzMGI3MjY3ODcxOTQ3NGM4ZTZlZGJhMjE1",
   "tracks": [
     {
       "added_at": "2023-01-13 05:01:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "I'll Sing the Blues for You",
-        "url": "https://open.spotify.com/album/71qKNQK5RuvudVIVuWVhq4"
-      },
-      "artists": [
-        {
-          "name": "Trudy Lynn",
-          "url": "https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz"
-        }
-      ],
-      "duration_ms": 295626,
-      "name": "Thru Chasin' You",
-      "url": "https://open.spotify.com/track/0UdgsIuqTM5WNL1SZADszx"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "In The Mood",
         "url": "https://open.spotify.com/album/3GC2tIQGFII8o9Awi5SpUB"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 300160,
       "name": "Cold This Winter",
       "url": "https://open.spotify.com/track/2UhYPOsrE0iluqm288o6l9"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb"
+      },
+      "artists": [
+        {
+          "name": "Tutu Jones",
+          "url": "https://open.spotify.com/artist/2YJ9frh2VN2BXKVtEjiV2L"
+        }
+      ],
+      "duration_ms": 288400,
+      "name": "I'm So Proud",
+      "url": "https://open.spotify.com/track/5t6lSg9siTTeRc5WHOdqkH"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -547,18 +547,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb"
+        "name": "I'll Sing the Blues for You",
+        "url": "https://open.spotify.com/album/71qKNQK5RuvudVIVuWVhq4"
       },
       "artists": [
         {
-          "name": "Tutu Jones",
-          "url": "https://open.spotify.com/artist/2YJ9frh2VN2BXKVtEjiV2L"
+          "name": "Trudy Lynn",
+          "url": "https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz"
         }
       ],
-      "duration_ms": 288400,
-      "name": "I'm So Proud",
-      "url": "https://open.spotify.com/track/5t6lSg9siTTeRc5WHOdqkH"
+      "duration_ms": 295626,
+      "name": "Thru Chasin' You",
+      "url": "https://open.spotify.com/track/0UdgsIuqTM5WNL1SZADszx"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Blues Keep Knockin'",
-        "url": "https://open.spotify.com/album/3TkTF2vFl6agmhQ3F6dSaz"
-      },
-      "artists": [
-        {
-          "name": "Trudy Lynn",
-          "url": "https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz"
-        }
-      ],
-      "duration_ms": 194933,
-      "name": "One Monkey Don't Stop No Show",
-      "url": "https://open.spotify.com/track/46CVcMYhTAfH5ls1XCcGne"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Royal Blue",
         "url": "https://open.spotify.com/album/43Cno5hKwJP94M2CndXwkJ"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 437360,
       "name": "Whisper Away",
       "url": "https://open.spotify.com/track/3ZUbWKDZxdFuI2HHGH8enX"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Blues Keep Knockin'",
+        "url": "https://open.spotify.com/album/3TkTF2vFl6agmhQ3F6dSaz"
+      },
+      "artists": [
+        {
+          "name": "Trudy Lynn",
+          "url": "https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz"
+        }
+      ],
+      "duration_ms": 194933,
+      "name": "One Monkey Don't Stop No Show",
+      "url": "https://open.spotify.com/track/46CVcMYhTAfH5ls1XCcGne"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "People Love The Blues",
-        "url": "https://open.spotify.com/album/7bfoTZkMiZ6GzNvTydX9ax"
-      },
-      "artists": [
-        {
-          "name": "Sista Monica",
-          "url": "https://open.spotify.com/artist/22FdZlPVKxIeNwRHvx74A7"
-        }
-      ],
-      "duration_ms": 332826,
-      "name": "Honey It's Your Fault",
-      "url": "https://open.spotify.com/track/5YpqRyGuBn5etkcVncz6fv"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Sweet Dreams",
         "url": "https://open.spotify.com/album/3W8UBKrVDYpY9sXhDB7cDi"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 206466,
       "name": "On The Surface",
       "url": "https://open.spotify.com/track/0qQTdGIA3YPcC1L3kaJpm4"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "People Love The Blues",
+        "url": "https://open.spotify.com/album/7bfoTZkMiZ6GzNvTydX9ax"
+      },
+      "artists": [
+        {
+          "name": "Sista Monica",
+          "url": "https://open.spotify.com/artist/22FdZlPVKxIeNwRHvx74A7"
+        }
+      ],
+      "duration_ms": 332826,
+      "name": "Honey It's Your Fault",
+      "url": "https://open.spotify.com/track/5YpqRyGuBn5etkcVncz6fv"
     },
     {
       "added_at": "2020-12-01 05:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. AKRIILA. \nDales play, dales power.",
-  "num_followers": 11834,
+  "num_followers": 11839,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDY2MzYwMCwwMDAwMDAwMDJlMDg2M2VhNThlMDdjMDY2NDI2MmY0MGVkYTJjYTZl",
+  "snapshot_id": "MCxjZTU1ODVlNmUxNGJmOGZiNmEzMDRiNGRiZmRiOWM3M2M2YTNkZDc1",
   "tracks": [
     {
       "added_at": "2023-04-05 03:00:00",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
-        "name": "Antes Que",
-        "url": "https://open.spotify.com/album/3nxTxqohB4uES4GJxnBG6c"
-      },
-      "artists": [
-        {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
-        }
-      ],
-      "duration_ms": 147533,
-      "name": "Antes Que",
-      "url": "https://open.spotify.com/track/3WPrnwpxefLYwGejFCpP7W"
-    },
-    {
-      "added_at": "2023-04-05 03:00:00",
-      "album": {
         "name": "Agarra",
         "url": "https://open.spotify.com/album/36zOI4pViRyY786coy335g"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 181855,
       "name": "Agarra",
       "url": "https://open.spotify.com/track/5thlCBlPWSXxUJFdG0fEyH"
+    },
+    {
+      "added_at": "2023-04-05 03:00:00",
+      "album": {
+        "name": "Antes Que",
+        "url": "https://open.spotify.com/album/3nxTxqohB4uES4GJxnBG6c"
+      },
+      "artists": [
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        }
+      ],
+      "duration_ms": 147533,
+      "name": "Antes Que",
+      "url": "https://open.spotify.com/track/3WPrnwpxefLYwGejFCpP7W"
     },
     {
       "added_at": "2023-04-05 03:00:00",

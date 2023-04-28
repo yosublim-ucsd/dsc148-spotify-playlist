@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 
 > This is Chiquis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,931 likes - 41 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,936 likes - 41 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 | 40 | [Feliz de la vida](https://open.spotify.com/track/1hR8dT8YKiUP8gM9XbUa3F) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Ahora](https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO) | 3:25 |
 | 41 | [Amor Eterno](https://open.spotify.com/track/2Jba4ttLKDiYBW3zqFIHXK) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Ahora](https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO) | 4:09 |
 
-Snapshot ID: `MjgwNDE5MjksMDAwMDAwMDA0Y2UwNjUxYTMwYTJiNDE1YzU0YjY2MTFiMmIwYTE0Yw==`
+Snapshot ID: `MjgwNDMzMjAsMDAwMDAwMDBhYTU5ZmQ4YThjYjY0MTBhY2ZjOTUzMzZmNzdlZGZiNA==`

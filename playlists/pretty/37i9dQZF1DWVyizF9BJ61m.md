@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 
 > From Lagos to Zambia, find classic African psychedelic rock & funk jams here! Cover: <a href="spotify:artist:05LK9pT8ScfWNT0UbDsyqe">Ofege</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,730 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,902 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 | 8 | [Greetings](https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0) | 6:13 |
 | 9 | [Chant To Mother Earth](https://open.spotify.com/track/29hGEpz5e8binaL8xQT1EI) | [BLO](https://open.spotify.com/artist/6Occ6ZTaLDgVUjzpQMkTTq) | [Phases 1972\-1982](https://open.spotify.com/album/1b0BiKBuU7ibqv7GEtynD9) | 6:09 |
 | 10 | [Awa adounia](https://open.spotify.com/track/4oYwvjJ2Yq3Yn4Fqgn3uOg) | [Liya Ag Ablil](https://open.spotify.com/artist/5hMboy5Fq7s4pF0Q5ebJj5), [Nadia Nid El Mourid](https://open.spotify.com/artist/4Xuwu3Fe7lYLHIkvGVlpsb), [Abdallah Ag Ahmed](https://open.spotify.com/artist/1vve6wGaMkX00i8HShL2wS), [Mathias Vaguenez](https://open.spotify.com/artist/7w1rIetgb3qOd0TA5OEZ0d), [Sanou Ag Ahmed](https://open.spotify.com/artist/78RQ22utV6xA4BoB0dUQWY), [Yamina Nid El Mourid](https://open.spotify.com/artist/6yvYW6kcEnqrFPZc8CYoxS) | [Kel Tamasheq \(Deluxe Edition\)](https://open.spotify.com/album/2rMmfXa4lfk9o4vkcOeVRH) | 4:44 |
-| 11 | [Running](https://open.spotify.com/track/2TBhRXwBxfIJwhrB9gLlnn) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 1 \(1972\-1977\)](https://open.spotify.com/album/4910t2DpHO9RQd2XctS8wT) | 3:54 |
+| 11 | [Running](https://open.spotify.com/track/2TBhRXwBxfIJwhrB9gLlnn) | [Blackfoot](https://open.spotify.com/artist/2TI0KeX2tlQh8g6urDeufh) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 1 \(1972\-1977\)](https://open.spotify.com/album/4910t2DpHO9RQd2XctS8wT) | 3:54 |
 | 12 | [Bargain](https://open.spotify.com/track/5EmO5ZBXJuJSHjzzTavxW9) | [Rob](https://open.spotify.com/artist/4bhBtxtDWGCSaRXztdrDMq) | [Make It Fast, Make It Slow](https://open.spotify.com/album/6iWID1WMXCAsuZ51uhheWc) | 5:17 |
 | 13 | [Watch Your Life](https://open.spotify.com/track/2vbRZMSsenMBhpF6am4uRc) | [Itadi](https://open.spotify.com/artist/4VJPktEOBTcv5oRRXrPhne) | [Itadi](https://open.spotify.com/album/0FPxNka2LFpFgHTT5zCtRj) | 6:10 |
 | 14 | [Keleya](https://open.spotify.com/track/22wOMwqWNjm49RCPyX8H5c) | [Moussa Doumbia](https://open.spotify.com/artist/2yRG7OVkS0IXvJfntYxHfV) | [World Psychedelic Classics 3: Love's a Real Thing](https://open.spotify.com/album/507y3UUuDaYdeBaQGhqRW6) | 6:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 | 49 | [Free My People](https://open.spotify.com/track/49qxdrRnO6980P99Ujl1Wz) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Soul Jazz Records Presents Nigeria Soul Fever: Afro Funk, Disco And Boogie: West African Disco Mayhem!](https://open.spotify.com/album/4d3MEgvIZKX9J5oZmIDp9G) | 4:52 |
 | 50 | [Never \(Lagos Never Gonna Be the Same\)](https://open.spotify.com/track/4aTcopxonBr4JVajnsGi6K) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [Rejoice](https://open.spotify.com/album/061q5E43gIp25oJxVxvAav) | 3:53 |
 
-Snapshot ID: `MTY3OTA1MzU3NSwwMDAwMDAwMGNlMDRjY2I0YTFkOWU2ZDI1MjNlYWY1ZWVhYjI3NTE4`
+Snapshot ID: `MCwyZmQzN2NlNTJhNTIyZTQ5MGI5MTgzMGIyNzYwZjExNTJiNWYyMzQ3`

@@ -4,7 +4,7 @@
 
 > ¡Y qué retumbe la bandona, pariente! Joan Sebastian en portada
 
-193 songs - 10 hr 46 min
+194 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Como Perro Con Rabia](https://open.spotify.com/track/16BvcgxOhZDnHIXl5r8Ihd) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Rey Del Jaripeo](https://open.spotify.com/album/0YMffBHath50IgFqdb36LB) | 3:14 | 2022-07-18 | 2022-07-29 |
 | [Compárame](https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [La Otra Cara De La Moneda](https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC) | 3:45 | 2021-12-09 | 2023-04-27 |
 | [Creo Estar Sonañdo](https://open.spotify.com/track/2pDG22gxgPsxFjh7aVcDHY) | [Jessie Morales El Original De La Sierra](https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW) | [Ranchero y Mucho Más](https://open.spotify.com/album/1s2tmVGQkMd6nlVaRxqM4W) | 2:43 | 2021-12-09 | 2022-11-14 |
+| [Creo Estar Soñando](https://open.spotify.com/track/6LOJGtfyJW14lMEj06qxQZ) | [Jessie Morales El Original De La Sierra](https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW) | [Mis 20 Exitos Originales](https://open.spotify.com/album/2EY8NXsnOxgj4E70kSA4xL) | 2:43 | 2023-04-27 |  |
 | [Cuando Fuimos Nada](https://open.spotify.com/track/4V3oSMh34oj9SP4KX9do3Y) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Hecho a Mano](https://open.spotify.com/album/4XQWbicaoDhiiqXEaxBciJ) | 3:37 | 2021-12-09 |  |
 | [Cuatro Rosas](https://open.spotify.com/track/4MNshDc0FgyiddMjlGbeCV) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [Volver a Verte](https://open.spotify.com/album/7Fr4KyfCljns3TO7M0gS1S) | 4:08 | 2021-12-09 |  |
 | [Cuatro Rosas](https://open.spotify.com/track/5a53BoBNOKSUW6n4lEZOAk) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [Volver A Verte](https://open.spotify.com/album/7aEMpk1yvAh8MA6dgpMuQ2) | 4:08 | 2021-12-09 | 2022-07-29 |
@@ -166,7 +167,7 @@
 | [Te Dirán](https://open.spotify.com/track/1PB6yA6o4CuJZUcVQ8UWh8) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Durmiendo en el Lugar Equivocado](https://open.spotify.com/album/50x6RBfdV0Ao2eX3T2ekty) | 3:15 | 2023-04-27 |  |
 | [Te Estaré Esperando](https://open.spotify.com/track/3IyUWwRHrMYHNdatyRcCEr) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Más Adelante](https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB) | 4:04 | 2023-04-27 |  |
 | [Te He Prometido](https://open.spotify.com/track/3aQRk1Dtsj7PAvqVsfgJof) | [El Original De La Sierra](https://open.spotify.com/artist/1P1EzVmigkt3xQa2M2Xerc) | [Te He Prometido](https://open.spotify.com/album/4gra8sqNVzAnLtHt8ImFTG) | 3:12 | 2021-12-09 | 2022-07-29 |
-| [Te He Prometido](https://open.spotify.com/track/2vdVI9ya3CLLXKCRr4rryJ) | [Jessie Morales El Original De La Sierra](https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW) | [Mis 20 Exitos Originales](https://open.spotify.com/album/2EY8NXsnOxgj4E70kSA4xL) | 3:12 | 2021-12-09 |  |
+| [Te He Prometido](https://open.spotify.com/track/2vdVI9ya3CLLXKCRr4rryJ) | [Jessie Morales El Original De La Sierra](https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW) | [Mis 20 Exitos Originales](https://open.spotify.com/album/2EY8NXsnOxgj4E70kSA4xL) | 3:12 | 2021-12-09 | 2023-04-28 |
 | [Te Hubieras Ido Antes](https://open.spotify.com/track/2jPufybqAAmiF16Jirt9Ez) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 3:11 | 2022-06-20 |  |
 | [Te Presumo](https://open.spotify.com/track/3EjuEvxoNgHV6urIdPA4cl) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Te Presumo](https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK) | 3:12 | 2021-12-09 |  |
 | [Tu Eterno Enamorado](https://open.spotify.com/track/1DWHKFDQ4xy1U9ncNNbm4P) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui) | 3:40 | 2021-12-09 |  |

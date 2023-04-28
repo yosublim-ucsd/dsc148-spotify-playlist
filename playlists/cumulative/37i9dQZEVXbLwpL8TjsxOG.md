@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-591 songs - 1 day 11 hr 32 min
+592 songs - 1 day 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 | 2021-10-31 | 2022-06-12 |
 | [Shivers](https://open.spotify.com/track/6bQfNiqyCX7UaQSvVVGo4I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/5kFCfioZraFsRWpoitQjmx) | 3:27 | 2021-09-12 | 2021-09-17 |
 | [Shivers](https://open.spotify.com/track/75MNhvTCCKsST3YqqUiU9r) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/531c37GGv5IvddCvBv3sWT) | 3:27 | 2021-09-17 | 2021-10-31 |
+| [Shoong! \(feat\. LISA of BLACKPINK\)](https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 3:25 | 2023-04-27 |  |
 | [Shut Down](https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:55 | 2022-09-17 |  |
 | [Skate](https://open.spotify.com/track/2sXf2JdbB2GlNju00kw9WE) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Skate](https://open.spotify.com/album/4AsebSFI8STBGRcVUJ3Tmo) | 3:23 | 2021-08-03 | 2021-08-08 |
 | [Sleigh Ride](https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Sleigh Ride](https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s) | 3:01 | 2021-12-25 | 2022-12-28 |
@@ -569,7 +570,7 @@
 | [追](https://open.spotify.com/track/66cBlqEs1viJJCE74CDfGB) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [寵愛](https://open.spotify.com/album/3vTH8NPADshZKutRSeVWDJ) | 5:23 | 2021-04-03 | 2023-04-05 |
 | [逆時車站](https://open.spotify.com/track/2EU1uVEUCgSA5aiBiHJDAk) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [逆時車站](https://open.spotify.com/album/6b5wLYHfOYRSkW1jnSWcuQ) | 3:20 | 2021-07-30 | 2022-02-17 |
 | [遲了悔改 \- ViuTV電視劇《太平紋身店》主題曲](https://open.spotify.com/track/0Os0RD1apkQsWOeF2cV5w2) | [Yan Ting](https://open.spotify.com/artist/1VSepPOw3REo0L6LFeii0Q) | [遲了悔改 \(ViuTV電視劇《太平紋身店》主題曲\)](https://open.spotify.com/album/76CJR7OqDn0eP3YhY2efl8) | 4:24 | 2021-03-27\* | 2021-05-25 |
-| [遺忘了初心的我們](https://open.spotify.com/track/46Ntxwf4zWxhWHjtqWul6h) | [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [遺忘了初心的我們](https://open.spotify.com/album/1QLNBeaZlehK6srJjVg7VN) | 4:17 | 2023-04-25 |  |
+| [遺忘了初心的我們](https://open.spotify.com/track/46Ntxwf4zWxhWHjtqWul6h) | [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [遺忘了初心的我們](https://open.spotify.com/album/1QLNBeaZlehK6srJjVg7VN) | 4:17 | 2023-04-25 | 2023-04-28 |
 | [還原淚](https://open.spotify.com/track/4knMu3Cbg277Di6oEkpeRA) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [還原淚](https://open.spotify.com/album/2VO3cKcPm5noVSuRsS4NPx) | 3:33 | 2022-10-06 | 2023-03-04 |
 | [還在流浪](https://open.spotify.com/track/35xilew5nalcetOeytaDFj) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:25 | 2022-07-16 | 2022-08-07 |
 | [邊一個發明了ENCORE](https://open.spotify.com/track/2MBaZXaQ7VKmDTr7cPPHP4) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [MEMENTO](https://open.spotify.com/album/2EGs23HGMWvVUYxfiMzlgK) | 4:46 | 2022-08-13 | 2023-01-07 |

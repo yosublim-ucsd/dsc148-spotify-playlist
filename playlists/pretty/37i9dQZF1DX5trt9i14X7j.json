@@ -1,12 +1,12 @@
 {
   "description": "Dedicated to all the programmers out there.",
-  "num_followers": 337835,
+  "num_followers": 338065,
   "original_name": "Coding Mode  ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTEyMjk3MSwwMDAwMDAwMDNjYTUwZDgwYjQ3ODg2ODE1YzA0NTIyNDRlYzI1ZGRk",
+  "snapshot_id": "MCxkNDEyNTc2YjI0Nzc2ZTJhNGExZDZmODA0ODQ0ZTk4YzUyZGRkZmZm",
   "tracks": [
     {
       "added_at": "2023-04-10 10:36:11",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Selected Ambient Works 85-92",
-        "url": "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 293751,
-      "name": "Xtal",
-      "url": "https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "efflorescence",
         "url": "https://open.spotify.com/album/5gTuNZ0GwWQLNH0YiwsDZr"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 143500,
       "name": "efflorescence",
       "url": "https://open.spotify.com/track/7qa14fkhxgOwWgJ2cbDTyc"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Selected Ambient Works 85-92",
+        "url": "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 293751,
+      "name": "Xtal",
+      "url": "https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Flamagra",
-        "url": "https://open.spotify.com/album/6tC2ERExm7n7JEDkHOEFs5"
-      },
-      "artists": [
-        {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        }
-      ],
-      "duration_ms": 71520,
-      "name": "FF4",
-      "url": "https://open.spotify.com/track/39nSL4qbk0rsGNSVJb5TWK"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Look At The Stars",
         "url": "https://open.spotify.com/album/1zq2gcTCCKtXMsF9qg8xvR"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 216315,
       "name": "Look At The Stars",
       "url": "https://open.spotify.com/track/4YhxXaf6Qrn5DrmgEfhwLH"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Flamagra",
+        "url": "https://open.spotify.com/album/6tC2ERExm7n7JEDkHOEFs5"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "duration_ms": 71520,
+      "name": "FF4",
+      "url": "https://open.spotify.com/track/39nSL4qbk0rsGNSVJb5TWK"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/2JualanmCPX3pupSVgIMWZ"
-      },
-      "artists": [
-        {
-          "name": "Hers Lake",
-          "url": "https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Horizons",
-      "url": "https://open.spotify.com/track/53TsZT0ySAHpRJ8GClsekU"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Collapse Into Light",
         "url": "https://open.spotify.com/album/0rUgWKzUwGMo0XAHN6R2eY"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 179500,
       "name": "Collapse Into Light",
       "url": "https://open.spotify.com/track/3jP962JoLAn9p4wCDdx4My"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/2JualanmCPX3pupSVgIMWZ"
+      },
+      "artists": [
+        {
+          "name": "Hers Lake",
+          "url": "https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Horizons",
+      "url": "https://open.spotify.com/track/53TsZT0ySAHpRJ8GClsekU"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Piety of Ashes",
-        "url": "https://open.spotify.com/album/6Nap8Im1EOFrqTVdoD8fAf"
-      },
-      "artists": [
-        {
-          "name": "The Flashbulb",
-          "url": "https://open.spotify.com/artist/6mMCSCuTbGU6kNr4303LwH"
-        }
-      ],
-      "duration_ms": 130720,
-      "name": "Precipice",
-      "url": "https://open.spotify.com/track/4CHIJuqR1jLfzA72THSzUm"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Stillness Within",
         "url": "https://open.spotify.com/album/1f3Ddyah41RiBNg8hVM4Vd"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 188371,
       "name": "two",
       "url": "https://open.spotify.com/track/39xRHgkRG13GJYOw8sOaQJ"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Piety of Ashes",
+        "url": "https://open.spotify.com/album/6Nap8Im1EOFrqTVdoD8fAf"
+      },
+      "artists": [
+        {
+          "name": "The Flashbulb",
+          "url": "https://open.spotify.com/artist/6mMCSCuTbGU6kNr4303LwH"
+        }
+      ],
+      "duration_ms": 130720,
+      "name": "Precipice",
+      "url": "https://open.spotify.com/track/4CHIJuqR1jLfzA72THSzUm"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Agile",
-        "url": "https://open.spotify.com/album/5aaxGHW6MyyYF8TSjBeGyF"
-      },
-      "artists": [
-        {
-          "name": "Pontus De Bjorn",
-          "url": "https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Agile",
-      "url": "https://open.spotify.com/track/6mib8jl6fASfaAahkDoCr8"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Noir",
         "url": "https://open.spotify.com/album/74H4kh761bl6UDTOWfYC8G"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 246462,
       "name": "Bacall",
       "url": "https://open.spotify.com/track/1bhSnPeBGo1cSPgjDZXujj"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Agile",
+        "url": "https://open.spotify.com/album/5aaxGHW6MyyYF8TSjBeGyF"
+      },
+      "artists": [
+        {
+          "name": "Pontus De Bjorn",
+          "url": "https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Agile",
+      "url": "https://open.spotify.com/track/6mib8jl6fASfaAahkDoCr8"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
+        "name": "By the Deep Sea",
+        "url": "https://open.spotify.com/album/364G2DGbhBt4xwR5KCZC82"
+      },
+      "artists": [
+        {
+          "name": "Federico Albanese",
+          "url": "https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL"
+        }
+      ],
+      "duration_ms": 241114,
+      "name": "Mauer Blues",
+      "url": "https://open.spotify.com/track/1lLuJ1PTq8wXAorPqHwMOd"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
         "name": "The Beauty Around Us",
         "url": "https://open.spotify.com/album/1wP2Dwzd5uMCzzGjvCKV8l"
       },
@@ -1207,18 +1223,18 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "By the Deep Sea",
-        "url": "https://open.spotify.com/album/364G2DGbhBt4xwR5KCZC82"
+        "name": "Residuum",
+        "url": "https://open.spotify.com/album/1KcRjaSyfxRWSV8vjJvgIR"
       },
       "artists": [
         {
-          "name": "Federico Albanese",
-          "url": "https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL"
+          "name": "Silver Maple",
+          "url": "https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6"
         }
       ],
-      "duration_ms": 241114,
-      "name": "Mauer Blues",
-      "url": "https://open.spotify.com/track/1lLuJ1PTq8wXAorPqHwMOd"
+      "duration_ms": 163150,
+      "name": "Particle Emission",
+      "url": "https://open.spotify.com/track/7svM6oRnsecnQd30A6prDc"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1235,22 +1251,6 @@
       "duration_ms": 147000,
       "name": "Finding Hope",
       "url": "https://open.spotify.com/track/1ZxqvIpfcqYDcV4nP6jxms"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
-        "name": "Residuum",
-        "url": "https://open.spotify.com/album/1KcRjaSyfxRWSV8vjJvgIR"
-      },
-      "artists": [
-        {
-          "name": "Silver Maple",
-          "url": "https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6"
-        }
-      ],
-      "duration_ms": 163150,
-      "name": "Particle Emission",
-      "url": "https://open.spotify.com/track/7svM6oRnsecnQd30A6prDc"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Oasis Sky",
-        "url": "https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10"
-      },
-      "artists": [
-        {
-          "name": "Tor",
-          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
-        }
-      ],
-      "duration_ms": 281882,
-      "name": "Riverline",
-      "url": "https://open.spotify.com/track/4LgL0LKDAVGylgyab5hZWn"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Midnight Thoughts",
         "url": "https://open.spotify.com/album/6u1pNJvksMfMkHaZAVOL3a"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 161927,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/1UWlVOM5NZdkFZobaYeAv5"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Oasis Sky",
+        "url": "https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10"
+      },
+      "artists": [
+        {
+          "name": "Tor",
+          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
+        }
+      ],
+      "duration_ms": 281882,
+      "name": "Riverline",
+      "url": "https://open.spotify.com/track/4LgL0LKDAVGylgyab5hZWn"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "O R B I T",
-        "url": "https://open.spotify.com/album/3eCwJk6D1j7ViqMItXa10G"
-      },
-      "artists": [
-        {
-          "name": "SwuM",
-          "url": "https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "The Dream",
-      "url": "https://open.spotify.com/track/7wlNWkXeVgJZNCVy0EXh7j"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/3TLh6c8432sO36wuKhtrFM"
       },
@@ -1483,18 +1467,18 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Late Night Tales: Khruangbin",
-        "url": "https://open.spotify.com/album/6G9fIqCsV0qEiBsdwLOACy"
+        "name": "O R B I T",
+        "url": "https://open.spotify.com/album/3eCwJk6D1j7ViqMItXa10G"
       },
       "artists": [
         {
-          "name": "Brilliantes Del Vuelo",
-          "url": "https://open.spotify.com/artist/1Ng076kHQlxAUjKL50VnxJ"
+          "name": "SwuM",
+          "url": "https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m"
         }
       ],
-      "duration_ms": 320337,
-      "name": "I Know That",
-      "url": "https://open.spotify.com/track/0XulKJA4eRQZBGx2dwV8jD"
+      "duration_ms": 153600,
+      "name": "The Dream",
+      "url": "https://open.spotify.com/track/7wlNWkXeVgJZNCVy0EXh7j"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
+        "name": "Late Night Tales: Khruangbin",
+        "url": "https://open.spotify.com/album/6G9fIqCsV0qEiBsdwLOACy"
+      },
+      "artists": [
+        {
+          "name": "Brilliantes Del Vuelo",
+          "url": "https://open.spotify.com/artist/1Ng076kHQlxAUjKL50VnxJ"
+        }
+      ],
+      "duration_ms": 320337,
+      "name": "I Know That",
+      "url": "https://open.spotify.com/track/0XulKJA4eRQZBGx2dwV8jD"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
         "name": "India",
         "url": "https://open.spotify.com/album/7tWlk2K6jN6TaCxUTtkYFd"
       },
@@ -1527,6 +1527,22 @@
       "duration_ms": 535370,
       "name": "India",
       "url": "https://open.spotify.com/track/2SetYZYntcZBRG4PnKYej8"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Sjangeli",
+        "url": "https://open.spotify.com/album/2m7iZ2BHRYm8Et8ah0Qdgb"
+      },
+      "artists": [
+        {
+          "name": "Luwaks",
+          "url": "https://open.spotify.com/artist/74m92HtAJpU0X1B8h54RIr"
+        }
+      ],
+      "duration_ms": 168648,
+      "name": "Stay Near",
+      "url": "https://open.spotify.com/track/0bDLgavXGx0Nskjydn1NpF"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1559,22 +1575,6 @@
       "duration_ms": 352357,
       "name": "Angel's Flight",
       "url": "https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
-        "name": "Sjangeli",
-        "url": "https://open.spotify.com/album/2m7iZ2BHRYm8Et8ah0Qdgb"
-      },
-      "artists": [
-        {
-          "name": "Luwaks",
-          "url": "https://open.spotify.com/artist/74m92HtAJpU0X1B8h54RIr"
-        }
-      ],
-      "duration_ms": 168648,
-      "name": "Stay Near",
-      "url": "https://open.spotify.com/track/0bDLgavXGx0Nskjydn1NpF"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Ambient Introspection",
-        "url": "https://open.spotify.com/album/3lWuCWKOZ5Wghrq02zlsqd"
-      },
-      "artists": [
-        {
-          "name": "Prashanth Srinivas",
-          "url": "https://open.spotify.com/artist/2KYeJm60817LSIQtkgOffu"
-        }
-      ],
-      "duration_ms": 126258,
-      "name": "Relief",
-      "url": "https://open.spotify.com/track/6zEj2eiPUquOGLvpEVcJw0"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Tunnels",
         "url": "https://open.spotify.com/album/5um9AFcLYg0xUejlloAyE9"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 224312,
       "name": "Voyager 22",
       "url": "https://open.spotify.com/track/2DChgRQfFPgJjRJnTbdAYw"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Ambient Introspection",
+        "url": "https://open.spotify.com/album/3lWuCWKOZ5Wghrq02zlsqd"
+      },
+      "artists": [
+        {
+          "name": "Prashanth Srinivas",
+          "url": "https://open.spotify.com/artist/2KYeJm60817LSIQtkgOffu"
+        }
+      ],
+      "duration_ms": 126258,
+      "name": "Relief",
+      "url": "https://open.spotify.com/track/6zEj2eiPUquOGLvpEVcJw0"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Monsters (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4xj5LGumbT2M7wq25RLNjl"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 295853,
-      "name": "Monsters Theme",
-      "url": "https://open.spotify.com/track/6aiR4OPo4GSpsiRzuubaZg"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Lover Boy",
         "url": "https://open.spotify.com/album/7d8Lt4YEN9P6DkaT7FwPd1"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 244375,
       "name": "Mind",
       "url": "https://open.spotify.com/track/77jK2QjSXOGX3eFxT9Opuk"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Monsters (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4xj5LGumbT2M7wq25RLNjl"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 295853,
+      "name": "Monsters Theme",
+      "url": "https://open.spotify.com/track/6aiR4OPo4GSpsiRzuubaZg"
     },
     {
       "added_at": "2023-04-10 10:36:11",

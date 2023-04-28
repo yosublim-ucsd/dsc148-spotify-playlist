@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > All the indescribable feelings that music gives you\. cover: The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,034,356 likes - 99 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,035,170 likes - 99 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 98 | [ELECTRIFY TONIGHT](https://open.spotify.com/track/0nifVdzF4R6WT2qITFJKeu) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [ALLIGATOR](https://open.spotify.com/album/2fS7BLnNrjXc9s7WmGmyoH) | 2:34 |
 | 99 | [All That](https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:46 |
 
-Snapshot ID: `MTY4MjM3NDg2MywwMDAwMDAwMGNjN2NhYjE2ZjhiNWY4YTQ4YjUyYTdjMGU0ZDRhM2Iy`
+Snapshot ID: `MCw0ODA0YWE1M2QwZmQzMjZkZjAyYzRiOTgyYmEyOTc4ZmQ1NTYzMTNm`

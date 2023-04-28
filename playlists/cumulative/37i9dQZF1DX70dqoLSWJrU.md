@@ -4,13 +4,14 @@
 
 > Heartbreaking and sad instrumental and vocal Jazz.
 
-136 songs - 7 hr 58 min
+137 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Round Midnight](https://open.spotify.com/track/4DZTYXrIy4fvNa1HhxxNC2) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Around Midnight](https://open.spotify.com/album/65qYYKLROzIJ1qN7CFaA0d) | 2:52 | 2022-05-25 |  |
 | [A Certain Sadness](https://open.spotify.com/track/3vHcprrLUS7hJ7sGljPVgf) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Walter Wanderley](https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA) | [A Certain Smile, A Certain Sadness \(Expanded Edition\)](https://open.spotify.com/album/1vLQYFvmDj7hTYvlvdMSQ4) | 3:08 | 2022-04-13 |  |
 | [After You've Gone](https://open.spotify.com/track/6D0AvLMvmAWXzYqGQK1Uh4) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Rhythm Is My Business](https://open.spotify.com/album/2YmioRpHchcSObTv10OkEu) | 4:18 | 2022-04-13 |  |
+| [April Fooled Me](https://open.spotify.com/track/4Lfn9B6tlGER7NVIHinhfX) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Mark Limacher](https://open.spotify.com/artist/2FyolspKay4voViiywFNFs) | [April Fooled Me](https://open.spotify.com/album/4dNnVif4W3SPzwH9vvjOid) | 3:51 | 2023-04-27 |  |
 | [Autumn Leaves](https://open.spotify.com/track/3k42wvwwogIJyZ4HK5YswY) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [Songbird](https://open.spotify.com/album/14vOTJhsfQIlJeHgLajs7r) | 4:42 | 2022-11-19 |  |
 | [Autumn Leaves \(with Paul Weston & His Music From Hollywood\)](https://open.spotify.com/track/4WqvEcqLyjXgrWspu7P7Ki) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Day By Day \(with Paul Weston & His Music From Hollywood\)](https://open.spotify.com/album/24BolRWKmaJV85C5tMkmbO) | 3:03 | 2022-04-13 | 2022-08-18 |
 | [Autumn Leaves \- Remastered](https://open.spotify.com/track/3AgqQbQWYLGsemeBHk1U1d) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Sings For Two In Love](https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi) | 2:40 | 2022-08-17 | 2022-11-19 |
@@ -84,7 +85,7 @@
 | [It Never Entered My Mind](https://open.spotify.com/track/2SSK6RiaaoQDCdXbfI5gcc) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [The Voice That Is!](https://open.spotify.com/album/0RkrY8dapTpIRls7tOw1Cw) | 3:39 | 2022-04-13 |  |
 | [It's Easy to Remember](https://open.spotify.com/track/2zKcVjhrP5r8vwxmEaANUm) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Smooth Songs](https://open.spotify.com/album/0bTi6NaKZTPdu3G2a4fePf) | 3:36 | 2022-04-13 |  |
 | [Just Friends](https://open.spotify.com/track/2I5ldN3uVqEx5h87xxDmVo) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Jazz Masters](https://open.spotify.com/album/3KMfI5xTOhcuwOSN8OvZhD) | 3:18 | 2022-05-03 | 2022-07-29 |
-| [Just Friends](https://open.spotify.com/track/6Ju6ic1OHvHbvf8VphSYhC) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Drinking Again](https://open.spotify.com/album/1Yc1wrf2bgbRKcrrb7hZzA) | 3:18 | 2022-06-29 |  |
+| [Just Friends](https://open.spotify.com/track/6Ju6ic1OHvHbvf8VphSYhC) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Drinking Again](https://open.spotify.com/album/1Yc1wrf2bgbRKcrrb7hZzA) | 3:18 | 2022-06-29 | 2023-04-28 |
 | [Just Friends](https://open.spotify.com/track/6RqomqKVORIwNJCKNxvc3F) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [After Hours](https://open.spotify.com/album/3F0Q6zKxvJJbxWR4hZWcef) | 3:01 | 2022-04-13 | 2022-04-29 |
 | [Just One More Chance \- 1931 Single Version](https://open.spotify.com/track/1TmJIO8XZkItg9p1p9gFoZ) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing\-His Legendary Years 1931\-1957](https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw) | 3:30 | 2022-04-13 |  |
 | [Losing You](https://open.spotify.com/track/20QthMrVYk5Ji64YFRdZJC) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Interlude](https://open.spotify.com/album/2z72SdeVR3kLHOp9I2zS4S) | 3:24 | 2022-06-29 |  |

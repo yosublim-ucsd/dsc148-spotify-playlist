@@ -4,7 +4,7 @@
 
 > Set the mood for your romantic date night with some soft and cozy Jazz.
 
-282 songs - 18 hr 20 min
+284 songs - 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Last Call](https://open.spotify.com/track/2nUhKiUfVdLcGmcdYHdjBw) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 2:49 | 2023-02-16 |  |
 | [Last Time I Saw You](https://open.spotify.com/track/2Qyrr1fiYwV3bShAZqiivZ) | [West Village Trio](https://open.spotify.com/artist/6cIFYOs23Aowktaez0d6ew) | [Rue Saint\-Rustique](https://open.spotify.com/album/1IJrePjVbCWRK31hmKa3jB) | 3:55 | 2022-12-08 |  |
 | [Late Reflections](https://open.spotify.com/track/76RWGx3zZ46aIY4WPjsLuo) | [Douglas Ruby Trio](https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM) | [Late Reflections](https://open.spotify.com/album/2iJH0ujIwbtlQ41b3CBcaO) | 3:41 | 2023-04-13 |  |
+| [Lemon Tart](https://open.spotify.com/track/1cPvmbaYDC33sTkNlfTuIB) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Lemon Tart](https://open.spotify.com/album/6zS3RKFsnWW7oIpYMGL1XW) | 3:31 | 2023-04-27 |  |
 | [Let's go uptown](https://open.spotify.com/track/4zYPDHYsvTdUMMy8gRkBAA) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [Let's go uptown](https://open.spotify.com/album/30OyjkGuNWO3QGGtlcjZw3) | 2:20 | 2023-01-26 |  |
 | [Like Someone in Love](https://open.spotify.com/track/1p3hY7tPdrThCuXtFXCKG7) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Like Someone in Love](https://open.spotify.com/album/7InaTkdgWcexr7kSmGFv0w) | 3:35 | 2021-12-14 | 2022-06-01 |
 | [Live Off The Juice](https://open.spotify.com/track/7tRueocYJ2FyjtLbHBOZlz) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [Live Off The Juice](https://open.spotify.com/album/4h1h2Wb9Q8FGElrdovvgHA) | 3:22 | 2023-03-16 |  |
@@ -206,7 +207,7 @@
 | [Save Your Love For Me](https://open.spotify.com/track/4ur0Fd4coSwWtP8MWpkjR9) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 2:44 | 2022-01-26 | 2022-08-18 |
 | [She's A Class Act](https://open.spotify.com/track/7L8qE08pnMxr4JvvtYJxis) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [She's A Class Act](https://open.spotify.com/album/0MpvWeiSTn4OERhT97V4sw) | 3:37 | 2023-02-02 |  |
 | [She's Funny That Way](https://open.spotify.com/track/4fn0kfdUbc5LlAjTwG4RX4) | [Tonic and their Time](https://open.spotify.com/artist/4f9dZJd9mswxGvKKoTJSZT) | [She's Funny That Way](https://open.spotify.com/album/0BSvGhV8CykM0MenOFaZtA) | 3:46 | 2023-04-13 |  |
-| [Silent Dreams](https://open.spotify.com/track/6Io5TW0gliTyIZIssh5vS5) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Silent Dreams](https://open.spotify.com/album/0ZURk7Qh9lzCPyxLKT3DVa) | 4:08 | 2021-12-14 |  |
+| [Silent Dreams](https://open.spotify.com/track/6Io5TW0gliTyIZIssh5vS5) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Silent Dreams](https://open.spotify.com/album/0ZURk7Qh9lzCPyxLKT3DVa) | 4:08 | 2021-12-14 | 2023-04-28 |
 | [Skylark](https://open.spotify.com/track/6jP72hTXs5lZyTEihOkWRi) | [Hoagy Carmichael](https://open.spotify.com/artist/7j8I1aIBA9Z9bMy7mTwWKk) | [Hoagy Sings Carmichael](https://open.spotify.com/album/3iD6ISdIHwtCZfgBRT8Psv) | 4:03 | 2022-02-10 | 2022-08-18 |
 | [Skylark](https://open.spotify.com/track/59BoB64SnmEA40zVsKVmND) | [Mark Turner](https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP) | [Ballad Session](https://open.spotify.com/album/6ymLizMskVol73exzqzOBQ) | 5:55 | 2021-12-14 |  |
 | [Solitaire](https://open.spotify.com/track/0loeb8Q4ErFkJWqr2wmNeq) | [Leeluck & Co](https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL) | [Solitaire](https://open.spotify.com/album/71qxttrdClPi0LYz05vJhw) | 3:31 | 2023-02-23 |  |
@@ -281,7 +282,7 @@
 | [Witchcraft](https://open.spotify.com/track/66aAqXbtPixOM1WDoEuhHb) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [Witchcraft](https://open.spotify.com/album/37mjWYjc42OJuWa65ZyFBQ) | 3:02 | 2022-11-10 | 2023-03-10 |
 | [With You](https://open.spotify.com/track/2ZKc7hQb9ZmC1N44viyo1J) | [Rebekka Blöndal](https://open.spotify.com/artist/1xdFWOYUpVYbPU1s3VRs5I), [Sigmar Matthiasson](https://open.spotify.com/artist/7KTpau3S6cd2QmC4s3UtdO), [Asgeir Asgeirsson](https://open.spotify.com/artist/6GBsjZ8qGJpZuuVlsurdku), [Matthias Hemstock](https://open.spotify.com/artist/4gkcifXmpsFYaKUGedJBuv) | [With You](https://open.spotify.com/album/7JD5AJgOju0DTV3F1hrSjd) | 4:30 | 2022-04-07 | 2022-09-09 |
 | [Without A Song](https://open.spotify.com/track/1nsMASRDWwUwlBMmOuh80d) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Without A Song](https://open.spotify.com/album/7KckOMQ11H9HTjolar2ch7) | 3:56 | 2022-09-08 |  |
-| [Yet another dream](https://open.spotify.com/track/5tJwP1uR77rBWkFUdzmB2Y) | [Tom Bates](https://open.spotify.com/artist/2HyugLj7NVwGIowZWzX2D1) | [Just a fool](https://open.spotify.com/album/293iki1PCPrjghcqs9r8dY) | 4:46 | 2021-12-14 |  |
+| [Yet another dream](https://open.spotify.com/track/5tJwP1uR77rBWkFUdzmB2Y) | [Tom Bates](https://open.spotify.com/artist/2HyugLj7NVwGIowZWzX2D1) | [Just a fool](https://open.spotify.com/album/293iki1PCPrjghcqs9r8dY) | 4:46 | 2021-12-14 | 2023-04-28 |
 | [You Do Something To Me](https://open.spotify.com/track/064k0lT6tP4AdWull7SSz0) | [Belmont Central](https://open.spotify.com/artist/0A1I0z7snq8RVRDjVA5qzE) | [You Do Something To Me](https://open.spotify.com/album/3Lbgbr1X5ACTAeWIYgsFEU) | 3:10 | 2023-03-23 |  |
 | [You Do Something To Me](https://open.spotify.com/track/7lZagRCKskAjzZ40Kdx4bB) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 2:22 | 2022-01-26 | 2022-08-18 |
 | [You Go to My Head](https://open.spotify.com/track/2M0kwHGj606VbCDNo1I5YJ) | [Heidi Skjerve](https://open.spotify.com/artist/7yQwGCbUgmOy5uK5GpqUQB), [Daniel Formo](https://open.spotify.com/artist/1TE9dWxNyEb7IHOyJRFHLz), [Bjørn Marius Hegge](https://open.spotify.com/artist/0iXjovxW8QucGrQeA8KzKj), [Håkon Mjåset Johansen](https://open.spotify.com/artist/34geeAnKKUjjNBe6byjL5I), [Mona Krogstad](https://open.spotify.com/artist/4VTic06AgSPI4CjWjxofOm) | [I'm Glad There Is You](https://open.spotify.com/album/2C6nFIz4Dc9zkXldL1cxbl) | 4:55 | 2022-04-07 | 2022-11-18 |
@@ -289,6 +290,7 @@
 | [You Never Say You're Sorry](https://open.spotify.com/track/1bB1538FOBYVUs2z06ssQ3) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Lazy Art](https://open.spotify.com/album/0nwE46ZJn2ggRiBKmrN7Vi) | 4:18 | 2022-10-27 |  |
 | [You Turned The Tables On Me](https://open.spotify.com/track/1Aa2phci2wSI0PWyoESUJA) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 3:26 | 2021-12-14 | 2022-08-31 |
 | [You're Just Full of Inspiration](https://open.spotify.com/track/2Y79E6uTFHlZWhF6m2tYyO) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [The Flow of Your Way](https://open.spotify.com/album/2DjphKfzhL1u4YCdraGRCq) | 2:24 | 2022-09-29 |  |
+| [Your Shining Eyes](https://open.spotify.com/track/5Enjr7Vz1J8inrynMzgmc6) | [Wildflower Trio](https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6) | [Your Shining Eyes](https://open.spotify.com/album/4lsQ8Bj4OfJHhSjB0byELm) | 3:06 | 2023-04-27 |  |
 | [Zero\-sum game](https://open.spotify.com/track/7vdtTzPYgvVuwyYgZ7oRYJ) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Zero\-sum game](https://open.spotify.com/album/6LgrhBvbpECgH7WWJjuXwo) | 3:24 | 2023-04-13 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

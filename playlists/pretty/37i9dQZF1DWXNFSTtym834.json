@@ -1,12 +1,12 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Slipknot",
-  "num_followers": 1006566,
+  "num_followers": 1007811,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTg3OTQ4MywwMDAwMDAwMGU0YjY1YWE4YjMzZjA0M2FjOTE2NWYzYjkyOTYxN2Qz",
+  "snapshot_id": "MCwxZjgwMmNlOGRlZTAwNjhiMGMyMjNiOGQwNjk4ZGEyYzkwYmJhODU0",
   "tracks": [
     {
       "added_at": "2023-02-08 17:32:03",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "10,000 Days",
-        "url": "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk"
-      },
-      "artists": [
-        {
-          "name": "TOOL",
-          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
-        }
-      ],
-      "duration_ms": 426680,
-      "name": "Vicarious",
-      "url": "https://open.spotify.com/track/65ShmiE5aLBdcIGr7tHX35"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Worlds Collide",
         "url": "https://open.spotify.com/album/1rmhml18o2KDLUpYMXq6VQ"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 237346,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/1WxF4gMsFXnKCyh48CW2RI"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "10,000 Days",
+        "url": "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "duration_ms": 426680,
+      "name": "Vicarious",
+      "url": "https://open.spotify.com/track/65ShmiE5aLBdcIGr7tHX35"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Babylon (Revised Online Music)",
-        "url": "https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 236013,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/581mukhDjta60CCwpvnjL9"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "The Sinister Urge",
         "url": "https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 441560,
       "name": "Through the Fire and Flames",
       "url": "https://open.spotify.com/track/6nnacTL5on2aVsRhVDNUSo"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Babylon (Revised Online Music)",
+        "url": "https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 236013,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/581mukhDjta60CCwpvnjL9"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "The Strength / The Sound / The Songs",
-        "url": "https://open.spotify.com/album/3jg1rZalHpRBBUmpNmRwI5"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 164093,
-      "name": "I Only Wanna Be With You",
-      "url": "https://open.spotify.com/track/2MAJJJu89ogKPctelr3F7f"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Reinventing the Steel",
         "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 316493,
       "name": "Revolution Is My Name",
       "url": "https://open.spotify.com/track/6LhUsJiXAuxoalUz01evh0"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "The Strength / The Sound / The Songs",
+        "url": "https://open.spotify.com/album/3jg1rZalHpRBBUmpNmRwI5"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 164093,
+      "name": "I Only Wanna Be With You",
+      "url": "https://open.spotify.com/track/2MAJJJu89ogKPctelr3F7f"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "The Silent Force",
-        "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
+        "name": "Perseverance",
+        "url": "https://open.spotify.com/album/2UPZ06izR1OtTX80U30AfG"
       },
       "artists": [
         {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+          "name": "Hatebreed",
+          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
         }
       ],
-      "duration_ms": 240440,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/4QWLhGVitrCCysR3ugX9Xw"
+      "duration_ms": 178666,
+      "name": "I Will Be Heard",
+      "url": "https://open.spotify.com/track/4Lxn1JlGJwmmXpODrNvPA6"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Perseverance",
-        "url": "https://open.spotify.com/album/2UPZ06izR1OtTX80U30AfG"
+        "name": "The Silent Force",
+        "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
       },
       "artists": [
         {
-          "name": "Hatebreed",
-          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 178666,
-      "name": "I Will Be Heard",
-      "url": "https://open.spotify.com/track/4Lxn1JlGJwmmXpODrNvPA6"
+      "duration_ms": 240440,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/4QWLhGVitrCCysR3ugX9Xw"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
+        "name": "Supremacy",
+        "url": "https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky"
+      },
+      "artists": [
+        {
+          "name": "Hatebreed",
+          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "Destroy Everything",
+      "url": "https://open.spotify.com/track/501CSzS4gwNOJnlWHuBt9r"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
         "name": "Inferno",
         "url": "https://open.spotify.com/album/7jGmwdQeJQ7kZ8LN7uN4lD"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 231933,
       "name": "Fall Into Sleep",
       "url": "https://open.spotify.com/track/0UvuqCD6ktYwIW97Pn4p2o"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
-        "name": "Supremacy",
-        "url": "https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky"
-      },
-      "artists": [
-        {
-          "name": "Hatebreed",
-          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "Destroy Everything",
-      "url": "https://open.spotify.com/track/501CSzS4gwNOJnlWHuBt9r"
     },
     {
       "added_at": "2023-02-08 17:32:03",

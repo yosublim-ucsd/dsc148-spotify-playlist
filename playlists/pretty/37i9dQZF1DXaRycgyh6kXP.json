@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 171747,
+  "num_followers": 171933,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzg1NjIwNiwwMDAwMDAwMDdkNGZlNGY3MTk0YTY1ZGIzZmYyMGQ0NzE5NGVlYTU1",
+  "snapshot_id": "MCwwM2Y4ZTNjYjQ1MjdkNTIzZjg2ZDU4YTYzNDI2ZGYzOGJiY2I0OTg0",
   "tracks": [
     {
       "added_at": "2022-02-03 02:43:26",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Ardour",
-        "url": "https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY"
-      },
-      "artists": [
-        {
-          "name": "Teebs",
-          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
-        }
-      ],
-      "duration_ms": 91010,
-      "name": "While You Doooo",
-      "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Nothing Is Still",
         "url": "https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 231640,
       "name": "Movements (Chapter III)",
       "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Ardour",
+        "url": "https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY"
+      },
+      "artists": [
+        {
+          "name": "Teebs",
+          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
+        }
+      ],
+      "duration_ms": 91010,
+      "name": "While You Doooo",
+      "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "EARS",
-        "url": "https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "Stratus",
-      "url": "https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Faith in Strangers",
         "url": "https://open.spotify.com/album/1BzMONuUlgUnqOrg2aQeAY"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 389186,
       "name": "Faith in Strangers",
       "url": "https://open.spotify.com/track/4wSMi5urWxpBPbnWqfI1Ht"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "EARS",
+        "url": "https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "Stratus",
+      "url": "https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Within and Without",
-        "url": "https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 287720,
-      "name": "Eyes Be Closed",
-      "url": "https://open.spotify.com/track/3Qp1ja1oYotWn5K0XBRrUV"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Six Songs for Invisible Gardens",
         "url": "https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 328000,
       "name": "Soft Meadow",
       "url": "https://open.spotify.com/track/4Xe5aArRgoUutgD8MP00Qs"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Within and Without",
+        "url": "https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 287720,
+      "name": "Eyes Be Closed",
+      "url": "https://open.spotify.com/track/3Qp1ja1oYotWn5K0XBRrUV"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "To You EP",
-        "url": "https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 342604,
-      "name": "Lonely Romance",
-      "url": "https://open.spotify.com/track/31SXKJBLm38BkGB3I2nVsZ"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Night Owl",
         "url": "https://open.spotify.com/album/0eJCk5W0VKQ4qIuoAhn5ns"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 376082,
       "name": "Night Owl",
       "url": "https://open.spotify.com/track/3i0IiglJ0nzjxlpU3s7wXr"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "To You EP",
+        "url": "https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 342604,
+      "name": "Lonely Romance",
+      "url": "https://open.spotify.com/track/31SXKJBLm38BkGB3I2nVsZ"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "ANTH01",
-        "url": "https://open.spotify.com/album/53wStBoNAK1lhbfbuCJ2zd"
-      },
-      "artists": [
-        {
-          "name": "Jacques Greene",
-          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
-        }
-      ],
-      "duration_ms": 403080,
-      "name": "Another Girl",
-      "url": "https://open.spotify.com/track/1tsoKfM2I3a1VGpkjhzFTw"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Bright Serpent",
         "url": "https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 232960,
       "name": "At Height",
       "url": "https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "ANTH01",
+        "url": "https://open.spotify.com/album/53wStBoNAK1lhbfbuCJ2zd"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "duration_ms": 403080,
+      "name": "Another Girl",
+      "url": "https://open.spotify.com/track/1tsoKfM2I3a1VGpkjhzFTw"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "FTLOG",
-        "url": "https://open.spotify.com/album/5d73JRRxvRybm2a7rRt21l"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        }
-      ],
-      "duration_ms": 247869,
-      "name": "FTLOG",
-      "url": "https://open.spotify.com/track/2KirxdpyaTzzgVEcnq1u1i"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Come To Canada You Will Like It",
         "url": "https://open.spotify.com/album/5LjAEHX12P2fgWYMbVpVQ9"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 245510,
       "name": "Fine Match",
       "url": "https://open.spotify.com/track/0IJCYY1FqfnoTFUw31YBZ4"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "FTLOG",
+        "url": "https://open.spotify.com/album/5d73JRRxvRybm2a7rRt21l"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "duration_ms": 247869,
+      "name": "FTLOG",
+      "url": "https://open.spotify.com/track/2KirxdpyaTzzgVEcnq1u1i"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Radio Amor",
-        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 262813,
-      "name": "Trade Winds, White Heat",
-      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Not For Threes",
         "url": "https://open.spotify.com/album/25HKkAZz1rpzQXkWSLpWZL"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 278933,
       "name": "Lilith",
       "url": "https://open.spotify.com/track/4QcR7D7O1O7OUNVI2ICuwY"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Radio Amor",
+        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 262813,
+      "name": "Trade Winds, White Heat",
+      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Holding Hands",
+        "url": "https://open.spotify.com/album/4KRFIkXsDR60MnQV5K9N4J"
+      },
+      "artists": [
+        {
+          "name": "Liam Mour",
+          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
+        }
+      ],
+      "duration_ms": 170420,
+      "name": "Holding Hands",
+      "url": "https://open.spotify.com/track/5Ai7N5FmqnQ8ZSP7uNz9sX"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Natura Sophia",
         "url": "https://open.spotify.com/album/1m9tfsXeu1A6GOh7lzVphq"
       },
@@ -1459,18 +1475,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Holding Hands",
-        "url": "https://open.spotify.com/album/4KRFIkXsDR60MnQV5K9N4J"
+        "name": "Permanence",
+        "url": "https://open.spotify.com/album/0SkPmxCUValW4Zpy91uVz3"
       },
       "artists": [
         {
-          "name": "Liam Mour",
-          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
+          "name": "Lomea",
+          "url": "https://open.spotify.com/artist/5p7mJWhUVX9sTV1nr2bBsx"
         }
       ],
-      "duration_ms": 170420,
-      "name": "Holding Hands",
-      "url": "https://open.spotify.com/track/5Ai7N5FmqnQ8ZSP7uNz9sX"
+      "duration_ms": 229158,
+      "name": "Permanence",
+      "url": "https://open.spotify.com/track/5dxeMseehuQ30ZaIsPKmoC"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1503,22 +1519,6 @@
       "duration_ms": 333706,
       "name": "Implosion-Explosion",
       "url": "https://open.spotify.com/track/3XFE2WVHJ8VpSue33r9POm"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "Permanence",
-        "url": "https://open.spotify.com/album/0SkPmxCUValW4Zpy91uVz3"
-      },
-      "artists": [
-        {
-          "name": "Lomea",
-          "url": "https://open.spotify.com/artist/5p7mJWhUVX9sTV1nr2bBsx"
-        }
-      ],
-      "duration_ms": 229158,
-      "name": "Permanence",
-      "url": "https://open.spotify.com/track/5dxeMseehuQ30ZaIsPKmoC"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Under The Sun (Expanded Vol. 1)",
-        "url": "https://open.spotify.com/album/7oCVk3zWkNB6ByYbjkxYk2"
-      },
-      "artists": [
-        {
-          "name": "Mark Pritchard",
-          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
-        }
-      ],
-      "duration_ms": 181440,
-      "name": "Light Bodied",
-      "url": "https://open.spotify.com/track/2ZItZwBUl47tieac2NBBcP"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Far Away Trains Passing By",
         "url": "https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ"
       },
@@ -1627,6 +1611,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Under The Sun (Expanded Vol. 1)",
+        "url": "https://open.spotify.com/album/7oCVk3zWkNB6ByYbjkxYk2"
+      },
+      "artists": [
+        {
+          "name": "Mark Pritchard",
+          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
+        }
+      ],
+      "duration_ms": 181440,
+      "name": "Light Bodied",
+      "url": "https://open.spotify.com/track/2ZItZwBUl47tieac2NBBcP"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Encores 2",
         "url": "https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg"
       },
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "White Flower, Dark Hill",
+        "url": "https://open.spotify.com/album/7xN23zlYPM0GNRd93Z8pZD"
+      },
+      "artists": [
+        {
+          "name": "Nailah Hunter",
+          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
+        }
+      ],
+      "duration_ms": 148396,
+      "name": "White Flower, Dark Hill",
+      "url": "https://open.spotify.com/track/7xMCTA7bAlOcryEnnkj4h6"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "L.O.S.S.",
         "url": "https://open.spotify.com/album/5hoCeLU7jHWwUu0lRcKA58"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 267250,
       "name": "Nobody New Around You",
       "url": "https://open.spotify.com/track/2W9Cep5fuDrezWUZJpUJvG"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "acceptance",
-        "url": "https://open.spotify.com/album/2kmkFFCsPR5G9HpelajrXs"
-      },
-      "artists": [
-        {
-          "name": "poolsideconvo",
-          "url": "https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ"
-        }
-      ],
-      "duration_ms": 311978,
-      "name": "acceptance",
-      "url": "https://open.spotify.com/track/0hXKwRpwWlhq1wKvntu6j0"
     }
   ],
   "unique_name": "Electronica Romantica",

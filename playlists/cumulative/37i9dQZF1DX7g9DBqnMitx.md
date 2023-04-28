@@ -4,7 +4,7 @@
 
 > Le cinéma ça s'écoute aussi.
 
-153 songs - 8 hr 55 min
+154 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,8 @@
 | [Tuyo \(Narcos Theme\) \- A Netflix Original Series Soundtrack](https://open.spotify.com/track/6Dc2tCivms1s2X9myWe4ni) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Tuyo \(Narcos Theme\) \[A Netflix Original Series Soundtrack\]](https://open.spotify.com/album/3GelLDk6XCrXCT4ok0jjGU) | 1:29 | 2022-09-07 | 2023-02-25 |
 | [Twin Peaks Theme \- Instrumental](https://open.spotify.com/track/7FO7BolIZsl1o8DDSjeOph) | [Angelo Badalamenti](https://open.spotify.com/artist/3Eeb1U0VJTDaFpBHV4DmHl) | [Soundtrack From Twin Peaks](https://open.spotify.com/album/6iGX2bbzKEocRY0HzdQ9zX) | 5:10 | 2022-09-07 |  |
 | [Unchained Melody \(From "Ghost"\) \- Orchestral Version](https://open.spotify.com/track/6M2LKerOxhlmymtAiuJynC) | [Maurice Jarre](https://open.spotify.com/artist/6iyQYs37mRXLW04Z9NOnNT) | [Ghost \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6PlZUV3FMYqf1OG5mRWGtV) | 3:59 | 2023-02-24 |  |
-| [Vois sur ton chemin](https://open.spotify.com/track/6Q00zs8KvmXWdwlHD7PZZ2) | [Bruno Coulais](https://open.spotify.com/artist/5kjb55jtwPnbYXXDvP4x7R), [Les Petits Chanteurs de Saint\-Marc](https://open.spotify.com/artist/026nk210FPO26xMwpoew70) | [The Chorus \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4VVDHVgGIOh68k2VRq9tq0) | 2:19 | 2023-02-24 |  |
+| [Vois sur ton chemin](https://open.spotify.com/track/0HfK6NPVb69533dKqTPokh) | [Bruno Coulais](https://open.spotify.com/artist/5kjb55jtwPnbYXXDvP4x7R), [Les Petits Chanteurs de Saint\-Marc](https://open.spotify.com/artist/026nk210FPO26xMwpoew70) | [Les Choristes \(Bande originale du film\)](https://open.spotify.com/album/4vpt4mDNgzAnJN3a9Uonky) | 2:19 | 2023-02-24 |  |
+| [Vois sur ton chemin](https://open.spotify.com/track/6Q00zs8KvmXWdwlHD7PZZ2) | [Bruno Coulais](https://open.spotify.com/artist/5kjb55jtwPnbYXXDvP4x7R), [Les Petits Chanteurs de Saint\-Marc](https://open.spotify.com/artist/026nk210FPO26xMwpoew70) | [The Chorus \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4VVDHVgGIOh68k2VRq9tq0) | 2:19 | 2023-02-24 | 2023-04-28 |
 | [Watercolor Eyes \- From “Euphoria” An HBO Original Series](https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Watercolor Eyes \(From “Euphoria” An HBO Original Series\)](https://open.spotify.com/album/12fNudihprFoc3Jj5nGFkF) | 3:31 | 2022-09-07 | 2023-02-25 |
 | [Wayward Sisters](https://open.spotify.com/track/0d0oCKpagxERDFdn0jxrcj) | [Abel Korzeniowski](https://open.spotify.com/artist/5RGAUCWFZyymaMSAZJeice) | [Nocturnal Animals \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3i5Qw5hFvhY9Zms1gPVVkW) | 2:55 | 2022-09-07 | 2023-01-17 |
 | [We Don't Talk About Bruno](https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz) | [Carolina Gaitán \- La Gaita](https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv), [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I), [Adassa](https://open.spotify.com/artist/72kqSqk124Vnl1wtT6q9Fh), [Rhenzy Feliz](https://open.spotify.com/artist/2as15AH2BTrPk8v4gyElmr), [Diane Guerrero](https://open.spotify.com/artist/18MFcGBHtyW0mU3ufcm0X1), [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr), [Encanto \- Cast](https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:36 | 2022-09-07 | 2023-02-25 |

@@ -1,12 +1,12 @@
 {
   "description": "Music from \"Idle Master SideM\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fcSideM\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n",
-  "num_followers": 20168,
+  "num_followers": 20176,
   "original_name": "THE IDOLM@STER SideM \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc SideM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTIzOTg3NCwwMDAwMDAwMGM5MTM3OWFlMGViMTM2YWUwNzljY2Q0NGMzMDAwNzdh",
+  "snapshot_id": "MCw3OWNkYTRmZjBhODlhNWY3ZGMzYzZiYjBmMmUxYjZhNjQ5NzhjZDM4",
   "tracks": [
     {
       "added_at": "2023-04-11 19:04:34",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-04-11 19:04:34",
       "album": {
-        "name": "THE IDOLM@STER SideM GROWING SIGN@L 05 Legenders",
-        "url": "https://open.spotify.com/album/2RRf2NPY2BepCu4SrlymaE"
-      },
-      "artists": [
-        {
-          "name": "Legenders",
-          "url": "https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR"
-        }
-      ],
-      "duration_ms": 220026,
-      "name": "Time Before Time",
-      "url": "https://open.spotify.com/track/3u2raQM6PDsLd263rRniC9"
-    },
-    {
-      "added_at": "2023-04-11 19:04:34",
-      "album": {
         "name": "THE IDOLM@STER SideM GROWING SIGN@L 02 C.FIRST",
         "url": "https://open.spotify.com/album/5OvSepSC3wL0Ok1sBzPNHt"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 247120,
       "name": "Not Alone",
       "url": "https://open.spotify.com/track/0DMWqErybyah6CoWS1H2q5"
+    },
+    {
+      "added_at": "2023-04-11 19:04:34",
+      "album": {
+        "name": "THE IDOLM@STER SideM GROWING SIGN@L 05 Legenders",
+        "url": "https://open.spotify.com/album/2RRf2NPY2BepCu4SrlymaE"
+      },
+      "artists": [
+        {
+          "name": "Legenders",
+          "url": "https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR"
+        }
+      ],
+      "duration_ms": 220026,
+      "name": "Time Before Time",
+      "url": "https://open.spotify.com/track/3u2raQM6PDsLd263rRniC9"
     },
     {
       "added_at": "2023-04-11 19:04:34",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-04-11 19:04:34",
       "album": {
+        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 04",
+        "url": "https://open.spotify.com/album/5Yet8gOB7zDw4ao5hA0WNS"
+      },
+      "artists": [
+        {
+          "name": "Legenders",
+          "url": "https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR"
+        }
+      ],
+      "duration_ms": 278026,
+      "name": "Make New Legend",
+      "url": "https://open.spotify.com/track/4TzriFqTsiD4AMR0FBuXtA"
+    },
+    {
+      "added_at": "2023-04-11 19:04:34",
+      "album": {
         "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 06",
         "url": "https://open.spotify.com/album/3FPBLf9wQsO8XR1aWQfXzA"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 349000,
       "name": "\u3044\u3064\u304b\u306e\u30c8\u30e9\u30a4\u30a2\u30f3\u30b0\u30eb",
       "url": "https://open.spotify.com/track/1HFMjPsihGlVX4MiECVlgp"
-    },
-    {
-      "added_at": "2023-04-11 19:04:34",
-      "album": {
-        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 04",
-        "url": "https://open.spotify.com/album/5Yet8gOB7zDw4ao5hA0WNS"
-      },
-      "artists": [
-        {
-          "name": "Legenders",
-          "url": "https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR"
-        }
-      ],
-      "duration_ms": 278026,
-      "name": "Make New Legend",
-      "url": "https://open.spotify.com/track/4TzriFqTsiD4AMR0FBuXtA"
     },
     {
       "added_at": "2023-04-11 19:04:34",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-04-11 19:04:34",
       "album": {
+        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 03",
+        "url": "https://open.spotify.com/album/5ipJceUikIQdd5bgLaQsuX"
+      },
+      "artists": [
+        {
+          "name": "\u3082\u3075\u3082\u3075\u3048\u3093",
+          "url": "https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS"
+        }
+      ],
+      "duration_ms": 251386,
+      "name": "\u306f\u3093\u3069\u3081\u3044\u3069\u30fb\u304d\u307f\u306f\u30fc\u3068!",
+      "url": "https://open.spotify.com/track/2hLA2UCmK6hS3yMDUzqXsx"
+    },
+    {
+      "added_at": "2023-04-11 19:04:34",
+      "album": {
         "name": "ALL nOR NOTHING",
         "url": "https://open.spotify.com/album/7LnoJObwR1wnOPSNRCmtzt"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 255506,
       "name": "ALL nOR NOTHING",
       "url": "https://open.spotify.com/track/6yZiC2A5dpF8ArLqG73PCx"
-    },
-    {
-      "added_at": "2023-04-11 19:04:34",
-      "album": {
-        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 03",
-        "url": "https://open.spotify.com/album/5ipJceUikIQdd5bgLaQsuX"
-      },
-      "artists": [
-        {
-          "name": "\u3082\u3075\u3082\u3075\u3048\u3093",
-          "url": "https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS"
-        }
-      ],
-      "duration_ms": 251386,
-      "name": "\u306f\u3093\u3069\u3081\u3044\u3069\u30fb\u304d\u307f\u306f\u30fc\u3068!",
-      "url": "https://open.spotify.com/track/2hLA2UCmK6hS3yMDUzqXsx"
     },
     {
       "added_at": "2023-04-11 19:04:34",
@@ -1251,6 +1251,38 @@
     {
       "added_at": "2023-04-11 19:04:34",
       "album": {
+        "name": "THE IDOLM@STER SideM ST@RTING LINE-13 \u3082\u3075\u3082\u3075\u3048\u3093",
+        "url": "https://open.spotify.com/album/6fDhBe9uCNQcEJU5RoVjlB"
+      },
+      "artists": [
+        {
+          "name": "\u3082\u3075\u3082\u3075\u3048\u3093",
+          "url": "https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS"
+        }
+      ],
+      "duration_ms": 244720,
+      "name": "\u3082\u3063\u3075\u30fb\u3044\u3093\u3056\u307c\u3063\u304f\u3059",
+      "url": "https://open.spotify.com/track/13WoTc4bqZFbEZf0M2v77m"
+    },
+    {
+      "added_at": "2023-04-11 19:04:34",
+      "album": {
+        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 01",
+        "url": "https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG"
+      },
+      "artists": [
+        {
+          "name": "Altessimo",
+          "url": "https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "Tone's Destiny",
+      "url": "https://open.spotify.com/track/3L0J09Vkwx7OupyfRNAv22"
+    },
+    {
+      "added_at": "2023-04-11 19:04:34",
+      "album": {
         "name": "THE IDOLM@STER SideM WORLD TRE@SURE 12",
         "url": "https://open.spotify.com/album/44oPjnMG6Kb3ly0IWB7R1C"
       },
@@ -1275,22 +1307,6 @@
     {
       "added_at": "2023-04-11 19:04:34",
       "album": {
-        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 01",
-        "url": "https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG"
-      },
-      "artists": [
-        {
-          "name": "Altessimo",
-          "url": "https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8"
-        }
-      ],
-      "duration_ms": 279333,
-      "name": "Tone's Destiny",
-      "url": "https://open.spotify.com/track/3L0J09Vkwx7OupyfRNAv22"
-    },
-    {
-      "added_at": "2023-04-11 19:04:34",
-      "album": {
         "name": "THE IDOLM@STER SideM WORLD TRE@SURE 09",
         "url": "https://open.spotify.com/album/2ISzgwWVgaMlpRy0pymmCw"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 258453,
       "name": "\u7720\u3089\u306c\u591c\u306b\u30b9\u30d1\u30b7\u30fc\u30d0!",
       "url": "https://open.spotify.com/track/4SJ8Erz6FFM0GsOKt5j0KO"
-    },
-    {
-      "added_at": "2023-04-11 19:04:34",
-      "album": {
-        "name": "THE IDOLM@STER SideM ST@RTING LINE-13 \u3082\u3075\u3082\u3075\u3048\u3093",
-        "url": "https://open.spotify.com/album/6fDhBe9uCNQcEJU5RoVjlB"
-      },
-      "artists": [
-        {
-          "name": "\u3082\u3075\u3082\u3075\u3048\u3093",
-          "url": "https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS"
-        }
-      ],
-      "duration_ms": 244720,
-      "name": "\u3082\u3063\u3075\u30fb\u3044\u3093\u3056\u307c\u3063\u304f\u3059",
-      "url": "https://open.spotify.com/track/13WoTc4bqZFbEZf0M2v77m"
     },
     {
       "added_at": "2023-04-11 19:04:34",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > All new indie rock\. Featuring new music from Mac Demarco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,671 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,696 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [Something Wrong](https://open.spotify.com/track/2GPoi1FxpeHyX9felyqesM) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Something Wrong](https://open.spotify.com/album/6MHCdB8CInfFwX56eX9JUw) | 3:03 |
 | 100 | [L\-Trip](https://open.spotify.com/track/3wQj6B79bhlBVLzkMLN2im) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [L\-Trip](https://open.spotify.com/album/6PPjJNSpggzj6xyB5ebU5i) | 3:31 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMGRlZDk3YzIyNDZkYTk1OWE5OTRjZmZiN2IyODAxYjEx`
+Snapshot ID: `MCwyNzg0NDcxZDgwMmRjZWJkZTI1NTEzM2IzM2IzZjAxY2NiMjlhOGMw`

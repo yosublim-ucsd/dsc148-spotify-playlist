@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: vf7",
-  "num_followers": 516478,
+  "num_followers": 516524,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA2MTM1NCwwMDAwMDAwMDRiZmU4YzBkZDZkZDJhM2QyZjg0NTY3ODU4OGNmM2Y3",
+  "snapshot_id": "MCw5OTQ3MmQyODE2MDZiYWJjMGFmZWFhMTNlMGFlY2Y4ZjMxNGI4ZGQy",
   "tracks": [
     {
       "added_at": "2023-04-21 07:15:54",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-04-21 07:15:54",
       "album": {
+        "name": "Helicoptero",
+        "url": "https://open.spotify.com/album/6OOgmb8FF0GxEH0FzttnLD"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 137014,
+      "name": "Helicoptero",
+      "url": "https://open.spotify.com/track/4xGuA6Amh6K4MVoxXgYrKU"
+    },
+    {
+      "added_at": "2023-04-21 07:15:54",
+      "album": {
         "name": "Tu Recuerdo",
         "url": "https://open.spotify.com/album/0BmSD2UxwSB1g6ptVMv3xy"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 209203,
       "name": "Tu Recuerdo",
       "url": "https://open.spotify.com/track/3K4vutqVlY3eINQWb6jSJF"
-    },
-    {
-      "added_at": "2023-04-21 07:15:54",
-      "album": {
-        "name": "Helicoptero",
-        "url": "https://open.spotify.com/album/6OOgmb8FF0GxEH0FzttnLD"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 137014,
-      "name": "Helicoptero",
-      "url": "https://open.spotify.com/track/4xGuA6Amh6K4MVoxXgYrKU"
     },
     {
       "added_at": "2023-04-21 07:15:54",
@@ -1243,30 +1243,6 @@
     {
       "added_at": "2023-04-21 07:15:54",
       "album": {
-        "name": "Fendi & Valentino",
-        "url": "https://open.spotify.com/album/2aXzhaV9TkNFsmUnkOUBy9"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        },
-        {
-          "name": "Sahir",
-          "url": "https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Fendi & Valentino",
-      "url": "https://open.spotify.com/track/6zfmaPzczHb0NiXglOxamn"
-    },
-    {
-      "added_at": "2023-04-21 07:15:54",
-      "album": {
         "name": "Aunque Me Caigo Me Paro",
         "url": "https://open.spotify.com/album/4C0T20K8J4UIVt8jOjjgNG"
       },
@@ -1303,6 +1279,30 @@
       "duration_ms": 177667,
       "name": "Me Pone Mal",
       "url": "https://open.spotify.com/track/1i7WoaZrt8jGH9vM0GKYdn"
+    },
+    {
+      "added_at": "2023-04-21 07:15:54",
+      "album": {
+        "name": "Fendi & Valentino",
+        "url": "https://open.spotify.com/album/2aXzhaV9TkNFsmUnkOUBy9"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Sahir",
+          "url": "https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Fendi & Valentino",
+      "url": "https://open.spotify.com/track/6zfmaPzczHb0NiXglOxamn"
     },
     {
       "added_at": "2023-04-21 07:15:54",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-04-21 07:15:54",
       "album": {
-        "name": "Down",
-        "url": "https://open.spotify.com/album/4d2O4fr026apliDVapi0j0"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 164494,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/70o0EBxSSXpd2qcI74S9uR"
-    },
-    {
-      "added_at": "2023-04-21 07:15:54",
-      "album": {
         "name": "G Spot",
         "url": "https://open.spotify.com/album/0OGm90v3LUf6pZyeI55yTc"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 211840,
       "name": "G Spot",
       "url": "https://open.spotify.com/track/7qcG5K5O8XjmKT2DFdxWl4"
+    },
+    {
+      "added_at": "2023-04-21 07:15:54",
+      "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/4d2O4fr026apliDVapi0j0"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 164494,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/70o0EBxSSXpd2qcI74S9uR"
     },
     {
       "added_at": "2023-04-21 07:15:54",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-04-21 07:15:54",
       "album": {
-        "name": "Bora Bora",
-        "url": "https://open.spotify.com/album/0vaSbVCQgVtVT8ARtkDu5f"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 151304,
-      "name": "Bora Bora",
-      "url": "https://open.spotify.com/track/0DlxKvlTkBtWr6vnHVcWQm"
-    },
-    {
-      "added_at": "2023-04-21 07:15:54",
-      "album": {
         "name": "Twerk",
         "url": "https://open.spotify.com/album/5DBAnbo3V3KnEf6Gvkq5Ua"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 160128,
       "name": "Twerk",
       "url": "https://open.spotify.com/track/4RChFXDIxsaWg8QTkpSWlo"
+    },
+    {
+      "added_at": "2023-04-21 07:15:54",
+      "album": {
+        "name": "Bora Bora",
+        "url": "https://open.spotify.com/album/0vaSbVCQgVtVT8ARtkDu5f"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 151304,
+      "name": "Bora Bora",
+      "url": "https://open.spotify.com/track/0DlxKvlTkBtWr6vnHVcWQm"
     },
     {
       "added_at": "2023-04-21 07:15:54",
@@ -1811,6 +1811,26 @@
     {
       "added_at": "2023-04-21 07:15:54",
       "album": {
+        "name": "UuU",
+        "url": "https://open.spotify.com/album/0Bv985mz2ttFowbxdfJZHq"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 175840,
+      "name": "UuU",
+      "url": "https://open.spotify.com/track/2HNLYWAbTkk0qvOlCz0aT2"
+    },
+    {
+      "added_at": "2023-04-21 07:15:54",
+      "album": {
         "name": "Jugando con la Nieve",
         "url": "https://open.spotify.com/album/2MzO7ZX3uRtJS4zuf6Koor"
       },
@@ -1831,26 +1851,6 @@
       "duration_ms": 160714,
       "name": "Jugando con la Nieve",
       "url": "https://open.spotify.com/track/6HnlIqJUzp4kv4QvPzolem"
-    },
-    {
-      "added_at": "2023-04-21 07:15:54",
-      "album": {
-        "name": "UuU",
-        "url": "https://open.spotify.com/album/0Bv985mz2ttFowbxdfJZHq"
-      },
-      "artists": [
-        {
-          "name": "ROA",
-          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 175840,
-      "name": "UuU",
-      "url": "https://open.spotify.com/track/2HNLYWAbTkk0qvOlCz0aT2"
     },
     {
       "added_at": "2023-04-21 07:15:54",

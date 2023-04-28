@@ -447,6 +447,24 @@
     },
     {
       "album": {
+        "name": "Stony Hill",
+        "url": "https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4"
+      },
+      "artists": [
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277693,
+      "name": "Looks Are Deceiving",
+      "url": "https://open.spotify.com/track/3BkCURiZj3EflNF0zqzURs"
+    },
+    {
+      "album": {
         "name": "Heaux Tales",
         "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
       },
@@ -1002,7 +1020,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 263923,
       "name": "Timmy's Prayer",
       "url": "https://open.spotify.com/track/16bQdxSVtmvL2hc4h3OJE3"

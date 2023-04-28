@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,537 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,580 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [Nightfall](https://open.spotify.com/track/6bGPsVqyQyTs1QPus8AFAP) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Sami Turunen](https://open.spotify.com/artist/2xLnJ9osiiSOHRiJT28qiO), [Strat Carter](https://open.spotify.com/artist/4xBUsH1MTjkIJ70brUkFSx) | [Nightfall](https://open.spotify.com/album/0iQgv8ZvUhQlNylLYRfFJ7) | 3:07 |
 | 100 | [In His Vision](https://open.spotify.com/track/5Db5oB7ScEzWsmkr8nH5Pb) | [Christian de Mesones](https://open.spotify.com/artist/2Uq8ahSNRMMHAUuneYKOeS) | [In His Vision](https://open.spotify.com/album/6tk1atOoS2lhV6CT1wv0ae) | 3:51 |
 
-Snapshot ID: `MTY4MjA0OTY2MCwwMDAwMDAwMGNhNzBjZjJkMzc0NWI4ZWY4NTA5NWUzZWRjNjI0Yjdl`
+Snapshot ID: `MCw2MDNmMWM4MzRhZmUwOWQzYmZjNjdlMjhhYzM2YzcyNjRiZWQ5MDM4`

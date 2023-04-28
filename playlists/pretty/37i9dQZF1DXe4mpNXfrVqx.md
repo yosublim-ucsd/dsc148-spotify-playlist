@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Bivolt
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,228 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,225 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 | 43 | [Pra Te Envolver](https://open.spotify.com/track/31vJOmz9qawxWqIGadYLq2) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Pra Te Envolver](https://open.spotify.com/album/5gZptLNPQo1jl93XlyIFF1) | 2:15 |
 | 44 | [Sagaz](https://open.spotify.com/track/29bg2slgQdSLT0tjsR95b9) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Sagaz](https://open.spotify.com/album/1qysRiSfDDpuxQNaS8AG6p) | 2:15 |
 | 45 | [Campo Minado](https://open.spotify.com/track/2uPmyJMVozLNBE6YermhOM) | [Luacih](https://open.spotify.com/artist/7zsL7ceYrzvikWVlI7BnTI), [kvns](https://open.spotify.com/artist/2sjuykDI11jxTPdj2qosn4) | [Campo Minado](https://open.spotify.com/album/1GVoV2r9U7dZNKWXvXFX27) | 3:15 |
-| 46 | [Mal Acostumada](https://open.spotify.com/track/0RWjEc3Y45ZVYHVwqRwiPz) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Mal Acostumada](https://open.spotify.com/album/35BcLJ5tKOzbqKKqIgTeIB) | 2:16 |
+| 46 | [Mal Acostumada](https://open.spotify.com/track/3bSWIdrVx3NYHW0jpsG7ib) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Mal Acostumada](https://open.spotify.com/album/4Lm5ooJw6TpZ9869LKEi9W) | 2:16 |
 | 47 | [Brincando com Fogo](https://open.spotify.com/track/5PBBFVKYsPBj5qUs2O9QwI) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Brincando com Fogo](https://open.spotify.com/album/4fTVijJjlJ0oR9HpGHW1yk) | 3:02 |
 | 48 | [Malas Prontas](https://open.spotify.com/track/5tHCD2TzqXr91NqUCBnTpO) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY), [Kary](https://open.spotify.com/artist/01BlVHDAqPgLw407BsxqzN), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Malas Prontas](https://open.spotify.com/album/3NoLX9JnxmOaC0EfwKezAD) | 2:37 |
 | 49 | [Sinto Te Dizer](https://open.spotify.com/track/5O1UvWpcxMjT5ZoCjfAy2u) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [Sinto Te Dizer](https://open.spotify.com/album/6HEscFE5brELtlw4Nfl76V) | 3:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 | 74 | [Facetime](https://open.spotify.com/track/3jlHHNWI4zDED91EaX5ttE) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Facetime](https://open.spotify.com/album/2l1e5lXljgsDSAbZShQacr) | 2:43 |
 | 75 | [Quatro Paredes](https://open.spotify.com/track/21ASd2aAIQClF0qoOGX7KX) | [Indi Jade](https://open.spotify.com/artist/3InLZ7IdbIvIlpkMw7k9xV) | [Quatro Paredes](https://open.spotify.com/album/0NN1rT8qJ500FoBN7xV9Aw) | 3:44 |
 
-Snapshot ID: `MTY4MjA0NjA2MCwwMDAwMDAwMGM1NTZkYTczNjYzN2JhNzg3NWMzODhiNjlmZmYxMjg0`
+Snapshot ID: `MCwyZmE1NjA4Y2VhY2ZkOTljZTM0ZDc2OGQwM2ZiMjQ2NzEyMWM2MGVi`

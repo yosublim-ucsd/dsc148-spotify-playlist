@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 
 > Unwind to these calm classical guitar pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,968,959 likes - 303 songs - 12 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,969,091 likes - 303 songs - 12 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,7 +127,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 117 | [Situatie](https://open.spotify.com/track/6gppQeAHYa7eary500daO1) | [Elle Vorink](https://open.spotify.com/artist/1qY54CD9iY4Y5yKywqCYqG) | [Situatie](https://open.spotify.com/album/398miCQf8mAmxGt7agtqGI) | 3:09 |
 | 118 | [Atracción Total](https://open.spotify.com/track/3h65slquvDXuKKEsV97ujv) | [Ferne Dado](https://open.spotify.com/artist/5iExMiaCIV50ySAqjiDJ8e) | [Atracción Total](https://open.spotify.com/album/6bxb7581ZoRs7woNYVFQhD) | 3:02 |
 | 119 | [De temps en temps](https://open.spotify.com/track/78wLZdPFQtcAccKza4LTlY) | [Thaisa Deboys](https://open.spotify.com/artist/1mIbAzEXDPLycJNcDcck5B) | [De temps en temps](https://open.spotify.com/album/7b44a6bx4AdAXbgW9rIiHy) | 2:17 |
-| 120 | [Hidden](https://open.spotify.com/track/3phR4mqdFYMEhv2EMTrq2d) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Hidden](https://open.spotify.com/album/4hqXlZoDQ5dCMQ9aR3DpQp) | 2:24 |
+| 120 | [Hidden](https://open.spotify.com/track/6xXgL3PxqD9B3jxDwaQotd) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Hidden](https://open.spotify.com/album/0aceUd7djbL48tUHNTEZq2) | 2:24 |
 | 121 | [Pacifiquement](https://open.spotify.com/track/5Ge0efczeqLMSLW7PuYezG) | [Antoine Gasquet](https://open.spotify.com/artist/1fXaIo98PufpTCJsXLtRVt) | [Pacifiquement](https://open.spotify.com/album/3zmOaoYfYtYtsZXPYJKmmn) | 2:26 |
 | 122 | [Elegia](https://open.spotify.com/track/72dTSVm9IsZD0eYft7H7XV) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Elegia](https://open.spotify.com/album/5akwFZfzBFG3ISUpHfIju8) | 2:28 |
 | 123 | [Rest Sea](https://open.spotify.com/track/5UcoxNaxIuTV1WQ4eOzvYm) | [Glen Beasley](https://open.spotify.com/artist/46Xi2XceJCdHvaqnh55jyP) | [Rest Sea](https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq) | 2:13 |
@@ -312,4 +312,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 302 | [Poetic Tale](https://open.spotify.com/track/1ztfVPH2xKNEFIGgT1Ea7n) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [Poetic Tale](https://open.spotify.com/album/62GH2jdUVGtUrHnN1EI06M) | 3:28 |
 | 303 | [Stando Solo](https://open.spotify.com/track/2kPLnIedP1tABSr0zwJwL3) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Stando Solo](https://open.spotify.com/album/5KXSQosrVZTcDVYf1N78G1) | 2:36 |
 
-Snapshot ID: `MTY4MjAzODgwMCwwMDAwMDAwMDkzNjAyYTg2NTc4YWIyOTJkNTZkZmY4ODBiN2Y0NDM3`
+Snapshot ID: `MCwyZGE4ZWJhODQ1NDYxZGIwMDliNTFlODFjY2NiYjViNTdlZDFhYjUz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 
 > Música navideña para las fiestas decembrinas\. Foto: Nuevo Elemento
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,785 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,784 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,12 +66,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 56 | [Tristes Navidades](https://open.spotify.com/track/0HloBd2QQWB51uOp4Y52WN) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Tristes Navidades](https://open.spotify.com/album/0eHkoehUngElAFuWvDzKVc) | 3:59 |
 | 57 | [Navidad Sin Ti](https://open.spotify.com/track/1Ha7nokU33XTvjzGtrU7Hy) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Navidad Sin Ti](https://open.spotify.com/album/6rXlCEugrnZmmfz3lbFNut) | 3:45 |
 | 58 | [El Niño del Tambor \- Edición Especial](https://open.spotify.com/track/1C0Uip3Flj5zCvpUeKcLmF) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Navidad Con Angela \(Edición Especial\)](https://open.spotify.com/album/602qxwQA6vuw9d8ukke3XX) | 3:16 |
-| 59 | [Alrededor del Árbol de Navidad](https://open.spotify.com/track/12u3AcZo0voBCuVl3iG1lk) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Alrededor del Árbol de Navidad](https://open.spotify.com/album/5EaoTSoWM1LVE5QmbpHz9m) | 2:04 |
-| 60 | [Año Con Año](https://open.spotify.com/track/21myc3PUNMz1v4pq56VgIn) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [Año Con Año](https://open.spotify.com/album/4HBt50u7DA3fA3sBxa9Cul) | 3:53 |
+| 59 | [Año Con Año](https://open.spotify.com/track/21myc3PUNMz1v4pq56VgIn) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [Año Con Año](https://open.spotify.com/album/4HBt50u7DA3fA3sBxa9Cul) | 3:53 |
+| 60 | [Alrededor del Árbol de Navidad](https://open.spotify.com/track/12u3AcZo0voBCuVl3iG1lk) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Alrededor del Árbol de Navidad](https://open.spotify.com/album/5EaoTSoWM1LVE5QmbpHz9m) | 2:04 |
 | 61 | [Mi Burrito Sabanero](https://open.spotify.com/track/0iGJYuwI3jOn6lo0JeUvAB) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Mi Burrito Sabanero](https://open.spotify.com/album/3Jjt4XVl9u8bNHxii9jrk2) | 2:58 |
-| 62 | [Navidad Sin Ti](https://open.spotify.com/track/04HcDTsj4KUQxRH0xXS9ex) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 4:17 |
+| 62 | [Todo Lo Que Quiero Es a Ti](https://open.spotify.com/track/266VR3x043LPRwwuBaVIGS) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Navidad Adictiva](https://open.spotify.com/album/4OK1cq5KoIDnw2w8lcOsNA) | 3:31 |
 | 63 | [Oye Santa Claus](https://open.spotify.com/track/5WoDuB0AMXIH16UJYOpVD4) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [En Esta Navidad](https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv) | 4:13 |
-| 64 | [Todo Lo Que Quiero Es a Ti](https://open.spotify.com/track/266VR3x043LPRwwuBaVIGS) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Navidad Adictiva](https://open.spotify.com/album/4OK1cq5KoIDnw2w8lcOsNA) | 3:31 |
+| 64 | [Navidad Sin Ti](https://open.spotify.com/track/04HcDTsj4KUQxRH0xXS9ex) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 4:17 |
 | 65 | [Llegó Navidad](https://open.spotify.com/track/57uFE2xndHxWXXp1KkmTZO) | [El Poder Del Norte De Arturo Buenrostro](https://open.spotify.com/artist/369DgLEdifFiRIfXMYaFFI), [Joe Lopez Y Grupo Mazz](https://open.spotify.com/artist/1xcx85w0ByWnWlf5GKf8iQ), [Sangre Felina](https://open.spotify.com/artist/2PrBdIj2KxOVejt2oZiIVm), [Fievre Looka](https://open.spotify.com/artist/0CDFocAKVNgMrgKnQXW7Fd), [El Pega Pega de Emilio Reyna](https://open.spotify.com/artist/0x52e0YL0cI2UXC6w3C630), [Impacto De Montemorelos](https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm), [KUMBIAMBEROS RS](https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak), [Los Chikos RK Ritmo Kumbiero](https://open.spotify.com/artist/0n7BQ1iMKUbfBP6QCxTqBt), [FABIAN Murillo](https://open.spotify.com/artist/4i73eoFGJR41wLSYeu9s9E), [Grupo Lega2](https://open.spotify.com/artist/7bcqkDEfp87vVefVVutfLJ), [La Decision Vallenata](https://open.spotify.com/artist/66wbpZEgeQEqvaUw3FkXFM) | [Llegó Navidad](https://open.spotify.com/album/1xF1Z0gC69q1fSYXPBO3gR) | 2:54 |
 | 66 | [Amarga navidad \(Ranchera\)](https://open.spotify.com/track/0OrGmIMphBPEGj786A1RVO) | [Amalia Mendoza](https://open.spotify.com/artist/3zH5WktZU1xXqBZMsgV0IC), [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78), [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [La última canción](https://open.spotify.com/album/1dn55Gp93D5VmsFCeEJ279) | 2:36 |
 | 67 | [Ya Viene Nochebuena](https://open.spotify.com/track/6VxuFIWWqa9Z2TGgFFgMB7) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Ya Viene Nochebuena](https://open.spotify.com/album/7mQ9Rtxz3EdY7sghH66OR3) | 3:16 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 79 | [Navidad, Feel The Magic](https://open.spotify.com/track/2YFFGpByfTYoNviZcFUEBy) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Navidad, Feel The Magic](https://open.spotify.com/album/0DkhKm7p0QeE3hmiwfr2cO) | 2:45 |
 | 80 | [Los Peces En El Río](https://open.spotify.com/track/1fg5yTwVBmUFWIVRTvZDT5) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Eterna Navidad Celebremos](https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu) | 2:46 |
 
-Snapshot ID: `MTY3MTczNDUzMiwwMDAwMDAwMDBkZGRjYTYyZTdlNzlhZGM3YjkyMzUxYzk3MDY5YjI2`
+Snapshot ID: `MCxiYjc1ZDFlZjJiYjZlMjAwMDRlYzg3MzIxZDFlYzEwNTc5ZmIwMDdm`

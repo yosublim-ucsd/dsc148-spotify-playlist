@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-330 songs - 1 day 0 hr 4 min
+331 songs - 1 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [fly with the night](https://open.spotify.com/track/12PJ1yyFK9ksMl1vlFF1du) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [fly with the night](https://open.spotify.com/album/6AB9VDT1C7eTy8HGp82AEI) | 4:00 | 2022-09-20 | 2023-03-18 |
 | [glee glee glee!](https://open.spotify.com/track/4JGA3qbiGKjOpV2THH1vSD) | [Glitter\*Green](https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz) | [Don't be afraid!](https://open.spotify.com/album/2z4rn5CogIc1wieoxjKHvu) | 3:31 | 2022-06-23 | 2022-10-02 |
 | [Glee! Glee! Glee!](https://open.spotify.com/track/7zFCL7EJojUeI9kil08Rfz) | [Glitter\*Green](https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz) | [Don't be afraid!](https://open.spotify.com/album/6v5jRwRCLeZKUFJ4rxomtc) | 3:31 | 2022-05-17 | 2022-07-21 |
-| [Glee! Glee! Glee!](https://open.spotify.com/track/0spL1ckbyCxLJMb7ZgQgdy) | [Glitter\*Green](https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz) | [Don't be afraid!](https://open.spotify.com/album/23rMEQCxhIP52O2kkvgkjL) | 3:31 | 2022-09-20 |  |
+| [Glee! Glee! Glee!](https://open.spotify.com/track/0spL1ckbyCxLJMb7ZgQgdy) | [Glitter\*Green](https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz) | [Don't be afraid!](https://open.spotify.com/album/23rMEQCxhIP52O2kkvgkjL) | 3:31 | 2022-09-20 | 2023-04-28 |
 | [GO! GO! MANIAC](https://open.spotify.com/track/3LgVlvdNcEa4iKhLxgdexo) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection](https://open.spotify.com/album/1kkgobIs7hST3jqja1LUMd) | 4:07 | 2022-06-23 | 2022-10-02 |
 | [GO! GO! MANIAC](https://open.spotify.com/track/789UN0IFmblfGjNPaiJoqb) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [バンドリ! ガールズバンドパーティ! カバコレ \(Special Selection\)](https://open.spotify.com/album/0JowuUZyfttpDW76rq0rze) | 4:07 | 2022-05-17 | 2022-07-29 |
 | [Hanazono Electric Guitar!!!](https://open.spotify.com/track/3PepTcSJv2jHSnrSIzDGyR) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [Hanazono Electric Guitar!!!](https://open.spotify.com/album/53BaJSVpvAGh6QiuefarPe) | 3:17 | 2022-06-23 | 2022-10-02 |
@@ -309,6 +309,7 @@
 | [天下卜ーイツA to Z☆](https://open.spotify.com/track/5ZasKT10YVbrMx5CIyPwZp) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [TITLE IDOL](https://open.spotify.com/album/40dDOmQivDb9fIraBn82i5) | 3:38 | 2022-06-23 | 2022-10-02 |
 | [天下卜ーイツA to Z☆](https://open.spotify.com/track/42hnGkRABK2E8HsgUPAMQk) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [天下卜ーイツA to Z☆](https://open.spotify.com/album/3EPw6jwPxa1xZuRABvNQTg) | 3:39 | 2022-05-17 | 2022-07-28 |
 | [寄る辺のSunny, Sunny](https://open.spotify.com/track/0PUwA4Cjz4LE5rUzCqQPpJ) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [寄る辺のSunny, Sunny](https://open.spotify.com/album/6VWXDvHRhzJ5ylROdK18W2) | 3:35 | 2023-03-14 | 2023-03-16 |
+| [影色舞](https://open.spotify.com/track/4W3fjoneOyCnevKl1HFuKM) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [音一会](https://open.spotify.com/album/3y0omCicK4HNM90n08oFmN) | 3:29 | 2023-04-11 |  |
 | [影色舞](https://open.spotify.com/track/4caYPoCfxiIzrxjIm0nr4y) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [影色舞](https://open.spotify.com/album/2FjnF7hRrVMzUKnqaWRDf4) | 3:29 | 2023-04-11 | 2023-04-13 |
 | [最高\(さあ行こう\)!](https://open.spotify.com/track/2SrYQHwBT8mQI7uVOLIUhp) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [二重の虹\(ダブル レインボウ\)/最高\(さあ行こう\)!](https://open.spotify.com/album/0Gx04Qm99qA17JAPscYy4s) | 3:48 | 2022-05-17 | 2022-07-15 |
 | [残酷な天使のテーゼ](https://open.spotify.com/track/2mEX3FAVxS2fIcAxnrzqfm) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection2](https://open.spotify.com/album/5WSYF1uz2bWL9XO7sKoCG2) | 4:21 | 2022-05-17 | 2022-07-29 |

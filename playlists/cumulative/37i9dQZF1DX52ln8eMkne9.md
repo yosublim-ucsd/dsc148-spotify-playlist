@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Melody Gardot
 
-265 songs - 19 hr 46 min
+266 songs - 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [I'm Glad There Is You](https://open.spotify.com/track/4hzhqGOEoAjcFekGHmouO0) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan with Clifford Brown \(Expanded, Hd Remastered\)](https://open.spotify.com/album/16vuKfE2bGmNv3hvG7K7dT) | 5:09 | 2021-12-17 | 2022-07-29 |
 | [I'm Never Happy Anymore](https://open.spotify.com/track/6sQmzCpG7ODbngsZU0pMw0) | [Gary Smulyan](https://open.spotify.com/artist/0MiVmp7Os3I5vpMQU01yly) | [Tadd's All, Folks](https://open.spotify.com/album/0haNdQSDRCh0Nz4cKMTuoT) | 7:38 | 2022-12-06 | 2023-01-24 |
 | [If I Had You](https://open.spotify.com/track/6htL8eAdOScorA0ooaoL5k) | [Lara Luppi](https://open.spotify.com/artist/0TMpMNYlHlLT6Ey6BjcklA), [Luca Filastro](https://open.spotify.com/artist/7bRZhdSt3rftBwfmQRe5zR), [Aldo Zunino](https://open.spotify.com/artist/2ZQKolsIe5WgidiDRxLsCr), [Emanuele Zappia](https://open.spotify.com/artist/0yx2tQrSKPmyeVV1D82i6D) | [Day Dream](https://open.spotify.com/album/0IGv0S7wFk9QnyvMA0bIK2) | 5:28 | 2022-03-25 |  |
+| [If It Was](https://open.spotify.com/track/0JQTyfPaUcW0xt2jdsi3KA) | [Silva & Steini](https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c), [Jóel Pálsson](https://open.spotify.com/artist/01hW0ABfVzBMOl7o9fOnLB) | [More Than You Know](https://open.spotify.com/album/3E1qoQI2HeUjrizaAi5eY0) | 3:41 | 2023-04-27 |  |
 | [If It Was](https://open.spotify.com/track/0WzwQNa3Nn5VxNiFL46XMx) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF), [Jóel Pálsson](https://open.spotify.com/artist/01hW0ABfVzBMOl7o9fOnLB) | [More Than You Know](https://open.spotify.com/album/5RXXDpraIIfdtZjGLKqp95) | 3:41 | 2023-02-16 | 2023-04-20 |
 | [If It Was \(feat\. Jóel Pálsson\)](https://open.spotify.com/track/3jRhwpzXmmYr0lyHn4aZa3) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF), [Jóel Pálsson](https://open.spotify.com/artist/01hW0ABfVzBMOl7o9fOnLB) | [If It Was \(feat\. Jóel Pálsson\)](https://open.spotify.com/album/2ftcjZRb2ne1GyJZnBNCQZ) | 3:41 | 2022-04-14 | 2023-02-18 |
 | [Imagine](https://open.spotify.com/track/2tsqu3KVPqofbieVP3zYU3) | [Junity](https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm) | [Reimagined](https://open.spotify.com/album/0ktnG2z63HI3M19iuJLUOq) | 3:35 | 2022-03-25 |  |
@@ -269,7 +270,7 @@
 | [Yesteryear](https://open.spotify.com/track/2qbPX1fQUyknyc7cZw2L8W) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ) | [Yesteryear](https://open.spotify.com/album/5XqLTTwrDqietv4GjKIXuD) | 4:19 | 2023-02-16 | 2023-03-23 |
 | [You Fascinate Me So](https://open.spotify.com/track/1Y3kXcTWqJLZZ0JzgX4MNQ) | [Alice Carreri](https://open.spotify.com/artist/2qErnWAGdPnpxE1GmQjloh), [The Sidecar Trio](https://open.spotify.com/artist/2wOhxGipTeYeM9FcbjbF0A) | [You Fascinate Me So](https://open.spotify.com/album/5m5aJtFsnO7fkk4vy6ZSt5) | 4:18 | 2022-05-19 | 2022-07-28 |
 | [You Fascinate Me So](https://open.spotify.com/track/4U4GeHxfnBnVFEUINkrfZn) | [Alice Carreri](https://open.spotify.com/artist/2qErnWAGdPnpxE1GmQjloh), [The Sidecar Trio](https://open.spotify.com/artist/2wOhxGipTeYeM9FcbjbF0A) | [Alice Carreri & The Sidecar Trio](https://open.spotify.com/album/3xBomY6Gc4o0LG0wvssp4V) | 4:18 | 2022-10-11 |  |
-| [You Go to My Head](https://open.spotify.com/track/2pbIJmUuLTgQhiyQxrZYJG) | [Hila Hutmacher](https://open.spotify.com/artist/0jMVNWZAjSmbQffwsfrBtW) | [Just Friends](https://open.spotify.com/album/1cDB19llZ9d3TrdU2hRl2M) | 6:39 | 2022-05-19 |  |
+| [You Go to My Head](https://open.spotify.com/track/2pbIJmUuLTgQhiyQxrZYJG) | [Hila Hutmacher](https://open.spotify.com/artist/0jMVNWZAjSmbQffwsfrBtW) | [Just Friends](https://open.spotify.com/album/1cDB19llZ9d3TrdU2hRl2M) | 6:39 | 2022-05-19 | 2023-04-28 |
 | [You Go To My Head](https://open.spotify.com/track/7FtvTA5t8yH8UmKs1s4xoT) | [Judy Whitmore](https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5) | [Isn't It Romantic?](https://open.spotify.com/album/3pizrquomee0WmQEuksn08) | 5:20 | 2022-09-27 | 2023-01-15 |
 | [You Go To My Head](https://open.spotify.com/track/2P6Phi5zCiCnQKyFyjz7Kj) | [Susannah McCorkle](https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu) | [From Bessie To Brazil](https://open.spotify.com/album/7qUvlbKeYnFEfQqlosrm7L) | 4:09 | 2021-12-17 |  |
 | [You've Changed](https://open.spotify.com/track/6R8E6KJoBLcSEtWRUcKali) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [Because Of Billie](https://open.spotify.com/album/6Bz3G8ZBPt3raos669LnuB) | 4:30 | 2021-12-17 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "The unforgettable romantic Jazz songs. Cover: Nat King Cole",
-  "num_followers": 186975,
+  "num_followers": 187338,
   "original_name": "Jazz for Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjQ5MjIyNiwwMDAwMDAwMDEzNjNiYzg3YWE4NzM5M2U4OWMxMDQ4NzI2ZWY4NjA5",
+  "snapshot_id": "MCwyODNjYTA0Y2VmZTMwYWMyNTgxOThiZjE0M2JkZTVlNzMyZmY1YzE2",
   "tracks": [
     {
       "added_at": "2023-04-26 06:57:06",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-04-26 06:57:06",
       "album": {
-        "name": "Something Nice",
-        "url": "https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 126293,
-      "name": "Till There Was You",
-      "url": "https://open.spotify.com/track/7n8HjcaEQzwwpyxHdjWjQq"
-    },
-    {
-      "added_at": "2023-04-26 06:57:06",
-      "album": {
         "name": "The Complete Ella And Louis On Verve",
         "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 280000,
       "name": "They Can't Take That Away From Me",
       "url": "https://open.spotify.com/track/1V4NaFlrUCK49MXcdOcVeS"
+    },
+    {
+      "added_at": "2023-04-26 06:57:06",
+      "album": {
+        "name": "Something Nice",
+        "url": "https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 126293,
+      "name": "Till There Was You",
+      "url": "https://open.spotify.com/track/7n8HjcaEQzwwpyxHdjWjQq"
     },
     {
       "added_at": "2023-04-26 06:57:06",
@@ -363,26 +363,6 @@
     {
       "added_at": "2023-04-26 06:57:06",
       "album": {
-        "name": "Ella Fitzgerald Sings The Jerome Kern Songbook",
-        "url": "https://open.spotify.com/album/5h4aTZVRSMxo9JzQojpUSx"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
-        }
-      ],
-      "duration_ms": 195666,
-      "name": "All The Things You Are",
-      "url": "https://open.spotify.com/track/5gPetRvxQKyOjjwZX1dzbt"
-    },
-    {
-      "added_at": "2023-04-26 06:57:06",
-      "album": {
         "name": "Love Swings",
         "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 232280,
       "name": "Stars Fell On Alabama",
       "url": "https://open.spotify.com/track/3q634ZiAdA9bcg135bdJxo"
+    },
+    {
+      "added_at": "2023-04-26 06:57:06",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Jerome Kern Songbook",
+        "url": "https://open.spotify.com/album/5h4aTZVRSMxo9JzQojpUSx"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+        }
+      ],
+      "duration_ms": 195666,
+      "name": "All The Things You Are",
+      "url": "https://open.spotify.com/track/5gPetRvxQKyOjjwZX1dzbt"
     },
     {
       "added_at": "2023-04-26 06:57:06",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-04-26 06:57:06",
       "album": {
-        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
-        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 142520,
-      "name": "You Do Something To Me",
-      "url": "https://open.spotify.com/track/7lZagRCKskAjzZ40Kdx4bB"
-    },
-    {
-      "added_at": "2023-04-26 06:57:06",
-      "album": {
         "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
         "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 161173,
       "name": "It's Magic",
       "url": "https://open.spotify.com/track/3Dwj9k9GC0Tm8nDvE9U5Pg"
+    },
+    {
+      "added_at": "2023-04-26 06:57:06",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 142520,
+      "name": "You Do Something To Me",
+      "url": "https://open.spotify.com/track/7lZagRCKskAjzZ40Kdx4bB"
     },
     {
       "added_at": "2023-04-26 06:57:06",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-04-26 06:57:06",
       "album": {
+        "name": "Billie Holiday With Ray Ellis And His Orchestra",
+        "url": "https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 152346,
+      "name": "All Of You",
+      "url": "https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq"
+    },
+    {
+      "added_at": "2023-04-26 06:57:06",
+      "album": {
         "name": "September In The Rain",
         "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
       },
@@ -591,6 +607,38 @@
       "duration_ms": 118000,
       "name": "As Long As I'm In Your Arms",
       "url": "https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0"
+    },
+    {
+      "added_at": "2023-04-26 06:57:06",
+      "album": {
+        "name": "Love Swings",
+        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 104773,
+      "name": "The More I See You",
+      "url": "https://open.spotify.com/track/5Vtq6dHdwbjHqifCeSL4d3"
+    },
+    {
+      "added_at": "2023-04-26 06:57:06",
+      "album": {
+        "name": "The Very Thought Of You (Expanded Edition)",
+        "url": "https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 228693,
+      "name": "The Very Thought Of You",
+      "url": "https://open.spotify.com/track/63tbczwYZv3Mctr064eQR4"
     },
     {
       "added_at": "2023-04-26 06:57:06",
@@ -615,38 +663,6 @@
     {
       "added_at": "2023-04-26 06:57:06",
       "album": {
-        "name": "Billie Holiday With Ray Ellis And His Orchestra",
-        "url": "https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 152346,
-      "name": "All Of You",
-      "url": "https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq"
-    },
-    {
-      "added_at": "2023-04-26 06:57:06",
-      "album": {
-        "name": "The Very Thought Of You (Expanded Edition)",
-        "url": "https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 228693,
-      "name": "The Very Thought Of You",
-      "url": "https://open.spotify.com/track/63tbczwYZv3Mctr064eQR4"
-    },
-    {
-      "added_at": "2023-04-26 06:57:06",
-      "album": {
         "name": "Hello, Dolly! (Remastered)",
         "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 271333,
       "name": "A Kiss To Build A Dream On",
       "url": "https://open.spotify.com/track/6GtJqo0vr7DqWOHQtp77cV"
-    },
-    {
-      "added_at": "2023-04-26 06:57:06",
-      "album": {
-        "name": "Love Swings",
-        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 104773,
-      "name": "The More I See You",
-      "url": "https://open.spotify.com/track/5Vtq6dHdwbjHqifCeSL4d3"
     },
     {
       "added_at": "2023-04-26 06:57:06",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-04-26 06:57:06",
       "album": {
-        "name": "September In The Rain",
-        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 167160,
-      "name": "I Can't Believe That You're In Love With Me",
-      "url": "https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO"
-    },
-    {
-      "added_at": "2023-04-26 06:57:06",
-      "album": {
         "name": "Sleep Warm",
         "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
       },
@@ -747,22 +731,6 @@
     {
       "added_at": "2023-04-26 06:57:06",
       "album": {
-        "name": "All of You",
-        "url": "https://open.spotify.com/album/2cN5fPkdSSmUlWhFxpsVrk"
-      },
-      "artists": [
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        }
-      ],
-      "duration_ms": 178960,
-      "name": "The Nearness of You",
-      "url": "https://open.spotify.com/track/1lk5RIC2NMUMLgyOVMSCKs"
-    },
-    {
-      "added_at": "2023-04-26 06:57:06",
-      "album": {
         "name": "Ultimate Peggy Lee",
         "url": "https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX"
       },
@@ -775,6 +743,22 @@
       "duration_ms": 150053,
       "name": "Hallelujah, I Love Him So",
       "url": "https://open.spotify.com/track/499GXjmRXzKrZLmiWrhvuY"
+    },
+    {
+      "added_at": "2023-04-26 06:57:06",
+      "album": {
+        "name": "September In The Rain",
+        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 167160,
+      "name": "I Can't Believe That You're In Love With Me",
+      "url": "https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO"
     },
     {
       "added_at": "2023-04-26 06:57:06",
@@ -811,6 +795,22 @@
     {
       "added_at": "2023-04-26 06:57:06",
       "album": {
+        "name": "All of You",
+        "url": "https://open.spotify.com/album/2cN5fPkdSSmUlWhFxpsVrk"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        }
+      ],
+      "duration_ms": 178960,
+      "name": "The Nearness of You",
+      "url": "https://open.spotify.com/track/1lk5RIC2NMUMLgyOVMSCKs"
+    },
+    {
+      "added_at": "2023-04-26 06:57:06",
+      "album": {
         "name": "The Essential Rosemary Clooney",
         "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
       },
@@ -839,6 +839,22 @@
       "duration_ms": 224226,
       "name": "My Romance",
       "url": "https://open.spotify.com/track/4y8icjzu6fZP503Mg31Tpn"
+    },
+    {
+      "added_at": "2023-04-26 06:57:06",
+      "album": {
+        "name": "Dream with Dean",
+        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 182653,
+      "name": "Fools Rush In",
+      "url": "https://open.spotify.com/track/0j3ideT0tRuIyRhOOUQjYa"
     },
     {
       "added_at": "2023-04-26 06:57:06",
@@ -879,22 +895,6 @@
     {
       "added_at": "2023-04-26 06:57:06",
       "album": {
-        "name": "Dream with Dean",
-        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 182653,
-      "name": "Fools Rush In",
-      "url": "https://open.spotify.com/track/0j3ideT0tRuIyRhOOUQjYa"
-    },
-    {
-      "added_at": "2023-04-26 06:57:06",
-      "album": {
         "name": "You Better Go Now",
         "url": "https://open.spotify.com/album/7jMUkrz9wcdHbW67l1gm8i"
       },
@@ -907,6 +907,22 @@
       "duration_ms": 182693,
       "name": "You Better Go Now",
       "url": "https://open.spotify.com/track/5AkSRiCUdA4ozdXslHez1j"
+    },
+    {
+      "added_at": "2023-04-26 06:57:06",
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 173920,
+      "name": "I Only Have Eyes For You",
+      "url": "https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V"
     },
     {
       "added_at": "2023-04-26 06:57:06",
@@ -943,18 +959,18 @@
     {
       "added_at": "2023-04-26 06:57:06",
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+        "name": "Amore",
+        "url": "https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 173920,
-      "name": "I Only Have Eyes For You",
-      "url": "https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V"
+      "duration_ms": 195626,
+      "name": "Dream A Little Dream Of Me - 1998 Remaster",
+      "url": "https://open.spotify.com/track/50zTR9gR9NGol94nv0rZXf"
     },
     {
       "added_at": "2023-04-26 06:57:06",
@@ -991,22 +1007,6 @@
     {
       "added_at": "2023-04-26 06:57:06",
       "album": {
-        "name": "Winners",
-        "url": "https://open.spotify.com/album/5t0NxBH6oTG4ycs7l7Qtgr"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "What a Difference a Day Makes",
-      "url": "https://open.spotify.com/track/1qJZMKfspF92mDSeQtkjb6"
-    },
-    {
-      "added_at": "2023-04-26 06:57:06",
-      "album": {
         "name": "In Blue",
         "url": "https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp"
       },
@@ -1019,6 +1019,22 @@
       "duration_ms": 339893,
       "name": "How Long Has This Been Going On?",
       "url": "https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV"
+    },
+    {
+      "added_at": "2023-04-26 06:57:06",
+      "album": {
+        "name": "Winners",
+        "url": "https://open.spotify.com/album/5t0NxBH6oTG4ycs7l7Qtgr"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "What a Difference a Day Makes",
+      "url": "https://open.spotify.com/track/1qJZMKfspF92mDSeQtkjb6"
     },
     {
       "added_at": "2023-04-26 06:57:06",
@@ -1039,22 +1055,6 @@
       "duration_ms": 239266,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/35jMzVgRFxGkSg7N0ZMVTw"
-    },
-    {
-      "added_at": "2023-04-26 06:57:06",
-      "album": {
-        "name": "Amore",
-        "url": "https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 195626,
-      "name": "Dream A Little Dream Of Me - 1998 Remaster",
-      "url": "https://open.spotify.com/track/50zTR9gR9NGol94nv0rZXf"
     },
     {
       "added_at": "2023-04-26 06:57:06",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-04-26 06:57:06",
       "album": {
-        "name": "Meet Me Around Midnight",
-        "url": "https://open.spotify.com/album/62haqQCNJuhlujx5lqsYaO"
-      },
-      "artists": [
-        {
-          "name": "Ida Sand",
-          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
-        }
-      ],
-      "duration_ms": 229613,
-      "name": "One for My Baby",
-      "url": "https://open.spotify.com/track/7K0B3d8hgj9cAhku48eGwN"
-    },
-    {
-      "added_at": "2023-04-26 06:57:06",
-      "album": {
         "name": "Things Are Swingin'",
         "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 162000,
       "name": "You're Getting To Be A Habit With Me",
       "url": "https://open.spotify.com/track/3JrECZZVBiWeL9GJMMfzdj"
+    },
+    {
+      "added_at": "2023-04-26 06:57:06",
+      "album": {
+        "name": "Meet Me Around Midnight",
+        "url": "https://open.spotify.com/album/62haqQCNJuhlujx5lqsYaO"
+      },
+      "artists": [
+        {
+          "name": "Ida Sand",
+          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
+        }
+      ],
+      "duration_ms": 229613,
+      "name": "One for My Baby",
+      "url": "https://open.spotify.com/track/7K0B3d8hgj9cAhku48eGwN"
     },
     {
       "added_at": "2023-04-26 06:57:06",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-04-26 06:57:06",
       "album": {
-        "name": "Sings The Music Of Cole Porter",
-        "url": "https://open.spotify.com/album/7FyTUyjduHNUKGU1uTbvak"
-      },
-      "artists": [
-        {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
-        }
-      ],
-      "duration_ms": 232226,
-      "name": "I've Got You Under My Skin",
-      "url": "https://open.spotify.com/track/0iYxYs1kiiStzdaK29yHP2"
-    },
-    {
-      "added_at": "2023-04-26 06:57:06",
-      "album": {
         "name": "Anita O'Day Swings Cole Porter With Billy May",
         "url": "https://open.spotify.com/album/7fW57iJNSmeL29fUnBTTIO"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 119000,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/25uHdsKbJ51ovqUODbz00P"
+    },
+    {
+      "added_at": "2023-04-26 06:57:06",
+      "album": {
+        "name": "Sings The Music Of Cole Porter",
+        "url": "https://open.spotify.com/album/7FyTUyjduHNUKGU1uTbvak"
+      },
+      "artists": [
+        {
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        }
+      ],
+      "duration_ms": 232226,
+      "name": "I've Got You Under My Skin",
+      "url": "https://open.spotify.com/track/0iYxYs1kiiStzdaK29yHP2"
     },
     {
       "added_at": "2023-04-26 06:57:06",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-04-26 06:57:06",
       "album": {
-        "name": "Songs from the Heart (Remastered 2013)",
-        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 150720,
-      "name": "I'm Glad There Is You",
-      "url": "https://open.spotify.com/track/7g4vp6gM7cpMCZabF6vWm6"
-    },
-    {
-      "added_at": "2023-04-26 06:57:06",
-      "album": {
         "name": "Pointless Nostalgic",
         "url": "https://open.spotify.com/album/4AD8H57Um3MlSuuqN4fZNv"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 306840,
       "name": "A Time For Love",
       "url": "https://open.spotify.com/track/1R0wvgE1PnzLoE9YyXkkzb"
+    },
+    {
+      "added_at": "2023-04-26 06:57:06",
+      "album": {
+        "name": "Songs from the Heart (Remastered 2013)",
+        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 150720,
+      "name": "I'm Glad There Is You",
+      "url": "https://open.spotify.com/track/7g4vp6gM7cpMCZabF6vWm6"
     },
     {
       "added_at": "2023-04-26 06:57:06",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-04-26 06:57:06",
       "album": {
+        "name": "I Feel a Song Coming On: Lost Radio Recordings",
+        "url": "https://open.spotify.com/album/3pTvid1kfdxgbJA6GlLj0F"
+      },
+      "artists": [
+        {
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        }
+      ],
+      "duration_ms": 167723,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/2ecdYdhDTfQ3P9rGQzFVi5"
+    },
+    {
+      "added_at": "2023-04-26 06:57:06",
+      "album": {
         "name": "L.A. Is My Lady",
         "url": "https://open.spotify.com/album/4zvku3SSgsUaVRsvcCZ1aU"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 225933,
       "name": "Teach Me Tonight",
       "url": "https://open.spotify.com/track/4waAobn5tpdqVoH9R8oDqc"
-    },
-    {
-      "added_at": "2023-04-26 06:57:06",
-      "album": {
-        "name": "I Feel a Song Coming On: Lost Radio Recordings",
-        "url": "https://open.spotify.com/album/3pTvid1kfdxgbJA6GlLj0F"
-      },
-      "artists": [
-        {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
-        }
-      ],
-      "duration_ms": 167723,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/2ecdYdhDTfQ3P9rGQzFVi5"
     },
     {
       "added_at": "2023-04-26 06:57:06",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-04-26 06:57:06",
       "album": {
-        "name": "Time To Swing",
-        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
-      },
-      "artists": [
-        {
-          "name": "Dakota Staton",
-          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
-        }
-      ],
-      "duration_ms": 132840,
-      "name": "The Song Is You",
-      "url": "https://open.spotify.com/track/1rS6vXiY6b6KDKWA18IIlc"
-    },
-    {
-      "added_at": "2023-04-26 06:57:06",
-      "album": {
         "name": "More Of The Great",
         "url": "https://open.spotify.com/album/4tOYSnvlOdsUNvkJIZpUr0"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 255480,
       "name": "But Beautiful",
       "url": "https://open.spotify.com/track/27pinS5wo39H0ShDd6CvkN"
+    },
+    {
+      "added_at": "2023-04-26 06:57:06",
+      "album": {
+        "name": "Time To Swing",
+        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
+      },
+      "artists": [
+        {
+          "name": "Dakota Staton",
+          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
+        }
+      ],
+      "duration_ms": 132840,
+      "name": "The Song Is You",
+      "url": "https://open.spotify.com/track/1rS6vXiY6b6KDKWA18IIlc"
     },
     {
       "added_at": "2023-04-26 06:57:06",

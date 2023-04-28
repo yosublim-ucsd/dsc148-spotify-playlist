@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 
 > A different shade of the blues\. Cover: Ash Grunwald
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,545 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,605 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 74 | [One Thing \(2020\)](https://open.spotify.com/track/5AU6psoPKvjkfgISTSrbCS) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Get That Feeling, Vol\. I](https://open.spotify.com/album/12etpmMvVYThaqygVi0UKE) | 4:06 |
 | 75 | [Quarantine](https://open.spotify.com/track/7gde4dG4lg1LDEVAgwTeYE) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [Quarantine](https://open.spotify.com/album/2WjzcRa6XEfaLmYqTMBrEE) | 2:52 |
 
-Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMDdkNTA5ZjM4Y2Q0ZTgzY2VkMmRlYmNmOGVhODdjMjc5`
+Snapshot ID: `MCxlZGMwM2U3NTU0ZTA1YTZhNjljYzIzNWFhNjMyYmQ1NTRkOTg1NmEz`

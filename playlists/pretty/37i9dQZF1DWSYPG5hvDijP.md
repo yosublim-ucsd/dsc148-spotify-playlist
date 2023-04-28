@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > New Hip Hop from India\. Cover\- Raftaar & Prabh Deep
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,550 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,580 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 10 | [SLATT](https://open.spotify.com/track/6lvgkN6qlE9RDp0BzfPUDu) | [Ynxiety](https://open.spotify.com/artist/2csj16wTsXZ6kmvAw6R86s) | [SLATT](https://open.spotify.com/album/16KxB4wDVIwGSwhUqftEAs) | 4:57 |
 | 11 | [Glacier Gang](https://open.spotify.com/track/4oPPeiS1itm0FKJxRzEG8m) | [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Infinite](https://open.spotify.com/album/4XeEBSXQZI0LISx8a81mLe) | 2:13 |
 | 12 | [THAPPAD!](https://open.spotify.com/track/044qR6dTjjF8NkVeD1Q55Y) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [THAPPAD!](https://open.spotify.com/album/18ZE60hq43zlGSZkIuF9N0) | 1:54 |
-| 13 | [Dard\-E\-Dil](https://open.spotify.com/track/3uJFFaqnvX6mFPJCqonnDv) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0), [Ankee](https://open.spotify.com/artist/3kOjQePaLYnHq6GtVpSrAc) | [Dard\-E\-Dil](https://open.spotify.com/album/73msXI225qoOzfMKoJ5RyW) | 3:46 |
+| 13 | [Dard\-E\-Dil](https://open.spotify.com/track/3uJFFaqnvX6mFPJCqonnDv) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0), [Ankee](https://open.spotify.com/artist/0eJO7NuzYBNE2tVGcxiRfn) | [Dard\-E\-Dil](https://open.spotify.com/album/73msXI225qoOzfMKoJ5RyW) | 3:46 |
 | 14 | [Spaceship](https://open.spotify.com/track/5qox4CsUE4Lq669aGbZDnm) | [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Shah Rule](https://open.spotify.com/artist/0GG56bFqGJ0zGjkOx7NTwm), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Spaceship](https://open.spotify.com/album/3ITMvDdM7ZeOsLzv96tKZP) | 3:11 |
 | 15 | [NAZAR](https://open.spotify.com/track/2suAYGhBT7vR26s5dNy9OL) | [Kaam Bhaari](https://open.spotify.com/artist/5bTYVMQ6vmt4Bm12hM59N3), [Bhaari Beatz](https://open.spotify.com/artist/6v9M80x40ECfeJwd7RH8Vk) | [NAZAR](https://open.spotify.com/album/1JDJOJc1gOg4oo5ljm9siA) | 2:38 |
 | 16 | [GHAM](https://open.spotify.com/track/3k1WE3i06G4xQb7ZrOWF15) | [Yash Narvekar](https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK), [A$AD](https://open.spotify.com/artist/1iWxOoFaMdE2nyGG4oqcdL) | [GHAM](https://open.spotify.com/album/2ERqJtsLSUW44zqdAs4ixM) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 49 | [Dil Se Dil Tak](https://open.spotify.com/track/7AX0yf9UCmJbEhpnzLnGJe) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [Dil Se Dil Tak](https://open.spotify.com/album/25f0ZsyO89A2hV2rJpMaRE) | 2:57 |
 | 50 | [Making The Moves](https://open.spotify.com/track/61LflvrT3qT2P3nvgeJPpW) | [Young Galib](https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o) | [Making The Moves](https://open.spotify.com/album/5LIFHZSsZpwmk7CBpq2uDz) | 2:48 |
 
-Snapshot ID: `MTY4MjMxODUwMywwMDAwMDAwMGZmNDRlOTM3NmIwYWIyZmE5YzM2MGRiNThlNWY4YjNi`
+Snapshot ID: `MCxiODVmOWFlZmE0NTU5NzRhZDQyNjQxNzg3NWM2MDUxMzE1MDNkYzNh`

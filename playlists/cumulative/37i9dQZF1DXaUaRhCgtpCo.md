@@ -2,7 +2,7 @@
 
 ### [Best of Star Wars](https://open.spotify.com/playlist/37i9dQZF1DXaUaRhCgtpCo)
 
-> May the Force be with you\. Listen to all the best Star Wars tracks, all in one place\. Cover: Star Wars: Andor
+> May the Force be with you\. Listen to all the best Star Wars tracks, all in one place.
 
 132 songs - 7 hr 1 min
 

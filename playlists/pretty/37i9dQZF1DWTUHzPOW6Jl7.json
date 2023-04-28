@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 442072,
+  "num_followers": 442633,
   "original_name": "Energy Booster: R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI4MzQ0NiwwMDAwMDAwMGM0NDEwOGU3N2Y5YzcwYzA4YmM2ODA2MjI0NDg0YjYx",
+  "snapshot_id": "MCw2ODZiOGZhMGEzYjZiYzE3MGUyNDUzNTdhZTRkYTZjNmQ4M2NhZjdj",
   "tracks": [
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1169,20 +1169,24 @@
       "url": "https://open.spotify.com/track/58oryymPZNdtS2z8Une6NJ"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-04-28 00:20:39",
       "album": {
-        "name": "Body Do",
-        "url": "https://open.spotify.com/album/11PXeg2viVWXqcI4yN1wcN"
+        "name": "In Pieces",
+        "url": "https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI"
       },
       "artists": [
         {
           "name": "Chl\u00f6e",
           "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
         }
       ],
-      "duration_ms": 142809,
-      "name": "Body Do",
-      "url": "https://open.spotify.com/track/4TiUFzVFDc17Gt0m1ktH2N"
+      "duration_ms": 204832,
+      "name": "Told Ya",
+      "url": "https://open.spotify.com/track/0yMAkO3xc2KwtVcFYQITcy"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1293,24 +1297,20 @@
       "url": "https://open.spotify.com/track/4x2YdtTppdbL4kHPOjaunq"
     },
     {
-      "added_at": "2023-04-27 00:19:18",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "In Pieces",
-        "url": "https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI"
+        "name": "Body Do",
+        "url": "https://open.spotify.com/album/11PXeg2viVWXqcI4yN1wcN"
       },
       "artists": [
         {
           "name": "Chl\u00f6e",
           "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
         }
       ],
-      "duration_ms": 204832,
-      "name": "Told Ya",
-      "url": "https://open.spotify.com/track/0yMAkO3xc2KwtVcFYQITcy"
+      "duration_ms": 142809,
+      "name": "Body Do",
+      "url": "https://open.spotify.com/track/4TiUFzVFDc17Gt0m1ktH2N"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Don't Waste My Time (feat. Ella Mai)",
-        "url": "https://open.spotify.com/album/2veUi52T9SqSvwXJYd5aIT"
-      },
-      "artists": [
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 199720,
-      "name": "Don't Waste My Time (feat. Ella Mai)",
-      "url": "https://open.spotify.com/track/3Ey11v2aiX14s4wBaYbhlp"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "Ms. Kelly",
         "url": "https://open.spotify.com/album/2aBdyOINaz4J1aap1eoLPW"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 215853,
       "name": "Like This (feat. Eve)",
       "url": "https://open.spotify.com/track/3sfydNh0QQAdnIAtDVG16H"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Don't Waste My Time (feat. Ella Mai)",
+        "url": "https://open.spotify.com/album/2veUi52T9SqSvwXJYd5aIT"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 199720,
+      "name": "Don't Waste My Time (feat. Ella Mai)",
+      "url": "https://open.spotify.com/track/3Ey11v2aiX14s4wBaYbhlp"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/1fRr47hbp60yegltnsvkEH"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 225533,
+      "name": "Get Right",
+      "url": "https://open.spotify.com/track/0rLzyBecRbTpnBWvMtPVFR"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
         "name": "Know Myself",
         "url": "https://open.spotify.com/album/3yQsZtQbpsk62l4Yq5pjIK"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 167493,
       "name": "Know Myself",
       "url": "https://open.spotify.com/track/0d8anwJJGti8jE79Y4tXUD"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/1fRr47hbp60yegltnsvkEH"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 225533,
-      "name": "Get Right",
-      "url": "https://open.spotify.com/track/0rLzyBecRbTpnBWvMtPVFR"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1639,30 +1639,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Jenny From The Block - The Remixes",
-        "url": "https://open.spotify.com/album/7pJj6tOX5HCBaYfLPiHfDn"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Jadakiss",
-          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
-        },
-        {
-          "name": "Styles P",
-          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
-        }
-      ],
-      "duration_ms": 189764,
-      "name": "Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix",
-      "url": "https://open.spotify.com/track/0jiBVBJkLrlGLgrIVmd3VK"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "Miss E... So Addictive",
         "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
       },
@@ -1683,6 +1659,30 @@
       "duration_ms": 275600,
       "name": "One Minute Man (feat. Jay-Z) - Remix",
       "url": "https://open.spotify.com/track/4Z1GSvE92RKsxjzrrBJAIT"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Jenny From The Block - The Remixes",
+        "url": "https://open.spotify.com/album/7pJj6tOX5HCBaYfLPiHfDn"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+        },
+        {
+          "name": "Styles P",
+          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
+        }
+      ],
+      "duration_ms": 189764,
+      "name": "Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix",
+      "url": "https://open.spotify.com/track/0jiBVBJkLrlGLgrIVmd3VK"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1817,6 +1817,26 @@
       "url": "https://open.spotify.com/track/2qib0282oGZPZWyJHqJaVi"
     },
     {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Girls Night Out",
+        "url": "https://open.spotify.com/album/2GvkwzYNhDZaSyVoj8fxBw"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 201528,
+      "name": "Girls Night Out (with Doechii)",
+      "url": "https://open.spotify.com/track/3HZHverk07jdOVU4Rmsn5t"
+    },
+    {
       "added_at": "2022-08-02 10:25:51",
       "album": {
         "name": "This Is Me...Then",
@@ -1843,26 +1863,6 @@
       "duration_ms": 172240,
       "name": "I'm Gonna Be Alright (feat. Nas)",
       "url": "https://open.spotify.com/track/3SHSWxOXqCrw55LiXAB8J1"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Girls Night Out",
-        "url": "https://open.spotify.com/album/2GvkwzYNhDZaSyVoj8fxBw"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 201528,
-      "name": "Girls Night Out (with Doechii)",
-      "url": "https://open.spotify.com/track/3HZHverk07jdOVU4Rmsn5t"
     },
     {
       "added_at": "2022-08-02 10:25:51",

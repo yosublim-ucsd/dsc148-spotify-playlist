@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-209 songs - 12 hr 33 min
+210 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [King of a Land](https://open.spotify.com/track/7ccZ3toxjL7khuJWMKGEIx) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [King of a Land](https://open.spotify.com/album/1qocDvSTyeZxCa2MbW5YcE) | 4:14 | 2023-04-25 |  |
 | [kiss me before u go.](https://open.spotify.com/track/1n6wEo9WEfUHm2VcOx67dw) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn), [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [kiss me before u go.](https://open.spotify.com/album/0qXF4bLph1rkzuE1x6ZLcJ) | 4:03 | 2022-10-20 | 2022-12-14 |
 | [La La Lost You \- Acoustic Version](https://open.spotify.com/track/5WkCcSa78lM1Ym4LXzJUiN) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh), [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs) | [NIKI Acoustic Sessions: Head In The Clouds II](https://open.spotify.com/album/00ikjZ4maHRaqxMI96NPQD) | 3:28 | 2022-10-20 |  |
+| [Latch \- Acoustic](https://open.spotify.com/track/5vUNRJsvEOUsz4sbKkJpFr) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 3:43 | 2023-04-25 |  |
 | [Lemon Cake](https://open.spotify.com/track/3V2ox5LEU3dB1n5z39P6MS) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Lemon Cake](https://open.spotify.com/album/353xKZreMjkmqKAHg4f9aX) | 5:23 | 2023-02-09 |  |
 | [Let It Go](https://open.spotify.com/track/0gVbkmFqq5fIkXtJJ3UTfM) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Let It Go](https://open.spotify.com/album/77pO3mE0cJA9SPinHHXkKL) | 4:15 | 2022-10-20 | 2022-11-16 |
 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 | 2022-12-14 |  |
@@ -163,7 +164,7 @@
 | [Still \(feat.KIHIRO\)](https://open.spotify.com/track/13jzKEiX06c1PPrnBaUmYa) | [K](https://open.spotify.com/artist/0dojDHJmkEgWlNa7iyOMFK), [Kihiro](https://open.spotify.com/artist/5PRhTlrNZtoeCOSee6sZcr) | [Orange Ave.](https://open.spotify.com/album/2yzobjzYcxxhXOi0HnwnsD) | 3:03 | 2023-01-03 | 2023-01-27 |
 | [Still Falling For You \- From "Bridget Jones's Baby"](https://open.spotify.com/track/3odrUVQ9tvRpkC9II2oWzx) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Still Falling For You \(From "Bridget Jones's Baby" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6YIaqFvhOWma5gbjcB18Nu) | 4:00 | 2022-12-14 |  |
 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:56 | 2023-03-16 |  |
-| [Sunsets For Somebody Else](https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [All The Light Above It Too](https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5) | 3:30 | 2023-04-13 |  |
+| [Sunsets For Somebody Else](https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [All The Light Above It Too](https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5) | 3:30 | 2023-04-13 | 2023-04-28 |
 | [Sweet Creature](https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:44 | 2022-10-20 |  |
 | [Take My Breath Away](https://open.spotify.com/track/6Hrk4OKWYn7LQenJzWzPyh) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Jaclyn Davies](https://open.spotify.com/artist/5MKHjGZGjZ7mZV0JPs9iot) | [Take My Breath Away](https://open.spotify.com/album/7zwbQsecbWMGDZZyJfLga3) | 4:18 | 2022-10-20 | 2023-04-14 |
 | [Take on Me](https://open.spotify.com/track/1KUPfNsRaZbZB3NUeXhUcm) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Take on Me](https://open.spotify.com/album/12NMWW1pgidVHBD6XU8vfz) | 3:09 | 2022-10-20 | 2022-12-14 |

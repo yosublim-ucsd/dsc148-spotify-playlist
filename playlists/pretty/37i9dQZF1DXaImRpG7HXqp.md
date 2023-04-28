@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 
 > Keep calm with instrumental acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 719,561 likes - 268 songs - 11 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 719,688 likes - 268 songs - 11 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,7 +185,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 | 175 | [Colors Of Spirit](https://open.spotify.com/track/0usXBNEX4RoDTQODT1ZJEO) | [Iron Ore](https://open.spotify.com/artist/4kgygMrQyq2ABMHuhm07fZ) | [Colors Of Spirit](https://open.spotify.com/album/75y49kivSa0YKGV050ODBr) | 4:03 |
 | 176 | [The Knowing Of Being](https://open.spotify.com/track/2TxTHFS6q7R8FyiWyTtocs) | [Darcy Burke](https://open.spotify.com/artist/317AmUS3g0hGGM7bNCNXYw) | [The Knowing Of Being](https://open.spotify.com/album/05rR4u0vaHUJoBIw3tq8Nq) | 3:12 |
 | 177 | [Love Forever](https://open.spotify.com/track/62in71BXkesE9Y5nGCvHSY) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Love Forever](https://open.spotify.com/album/4h2qFwZR8EDXUpN7cBSw6d) | 2:24 |
-| 178 | [Pine Barrens](https://open.spotify.com/track/1moLhzV03IwcCSlbyq0q0I) | [A.J\. Meadow](https://open.spotify.com/artist/6hqhZGNThHWF0vmysPbPAo) | [Pine Barrens](https://open.spotify.com/album/3tXbPp7iD9LQJ2dV4RR1W7) | 2:09 |
+| 178 | [Pine Barrens](https://open.spotify.com/track/5bLgfdDvNBcuVUgczhA4j5) | [A.J\. Meadow](https://open.spotify.com/artist/6hqhZGNThHWF0vmysPbPAo) | [Pine Barrens](https://open.spotify.com/album/1YeRrk4HCZp0xjRWU73YcU) | 2:09 |
 | 179 | [While You Dream](https://open.spotify.com/track/64JfbQmVniAnDa0ulwkNDx) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [While You Dream](https://open.spotify.com/album/377iurKSfWPriVKdTisxYQ) | 2:09 |
 | 180 | [Say it First](https://open.spotify.com/track/629DN0qMDPVhEyQnQ3LxHy) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Say it First](https://open.spotify.com/album/6YdeDCvJraTDzS5F7BPXrQ) | 2:56 |
 | 181 | [Come With Me](https://open.spotify.com/track/0RafPtjiIYR2VcS9JortFA) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Used To Be You](https://open.spotify.com/album/2lcIAj5uXylIb7Lz8QRIdW) | 2:56 |
@@ -277,4 +277,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 | 267 | [Drawing Board](https://open.spotify.com/track/4V3hWllK49K8uZVecugi7B) | [Anisha Gale](https://open.spotify.com/artist/0R9PTFYaGHm7AgJAZjerfr) | [Break of Day](https://open.spotify.com/album/1k6gJNxCkFgHbdWu8C00HR) | 2:06 |
 | 268 | [Everything Works](https://open.spotify.com/track/11jKvrtLFbV0xALgUCTZLe) | [Colton Rhodes](https://open.spotify.com/artist/2s0UVTXzeFVuHYKKYcJNbk) | [Everything Works](https://open.spotify.com/album/5CC9fWU5JHy9usLNe9ZusV) | 3:31 |
 
-Snapshot ID: `MTY4MjA4MjQ1MywwMDAwMDAwMDU4NzU4M2RkMmVjOGQ4NWIwMTIwNjMzNzFjZGU1MTBk`
+Snapshot ID: `MCw4ZDFkNDJmMzQ2YWY3NjEyMGQ1YjIwNGYwZDRlNTExOWEyZmZhZTU3`

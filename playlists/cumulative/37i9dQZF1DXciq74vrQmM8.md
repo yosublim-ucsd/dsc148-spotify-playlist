@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. poppy
+> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. delilah bon
 
-508 songs - 23 hr 58 min
+512 songs - 1 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/track/79MYMgdLnfA9aEkRB2MlQu) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\) – Nightcore ‘Sped\-up’ Version](https://open.spotify.com/album/0FeB4UDbTDXtxCvGC5WAMe) | 2:39 | 2023-03-03 | 2023-03-12 |
 | [COZ I'M THAT MOTHERF\*CKIN](https://open.spotify.com/track/2yjfNNjUEWLsnIp7N21PNt) | [MISFYA](https://open.spotify.com/artist/1O8tZYYaRppS0CGIAVI8sc) | [COZ I'M THAT MOTHERF\*CKIN](https://open.spotify.com/album/0vPUz1x0IchSUrBZqFKUb1) | 2:06 | 2023-01-13 | 2023-03-03 |
 | [Crossing Guard](https://open.spotify.com/track/5l5B2UwA8Yp6kp1HwchSLx) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Crossing Guard](https://open.spotify.com/album/3kKS6RMfZJ8TMZJz8cTIxn) | 4:44 | 2023-01-20 | 2023-03-10 |
+| [Crumbled](https://open.spotify.com/track/3h4UYObZmzgrym6Gzw35iA) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Crumbled](https://open.spotify.com/album/0WuxkTSMVZa1nWI7YaR6XS) | 3:10 | 2023-04-27 |  |
 | [Crying In Nightclub Bathrooms](https://open.spotify.com/track/6WMsGpTydHmOtmgtkygmHH) | [gürl](https://open.spotify.com/artist/7AYAOzmAp9u45wGPVfi3DL) | [Crying In Nightclub Bathrooms](https://open.spotify.com/album/4hW3UI3MkBkDHYzpcx6v7g) | 3:15 | 2022-11-25 | 2023-01-22 |
 | [CUT](https://open.spotify.com/track/4PfmDu5FfaGBX5wYUE6xzK) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [CUT](https://open.spotify.com/album/49XT5V5ifCiMj7IM4a2x5O) | 2:58 | 2022-01-19 | 2022-07-08 |
 | [Cut It](https://open.spotify.com/track/380qafcE09hZXE5g5ubju9) | [VLURE](https://open.spotify.com/artist/0Ev1tqYsfzq2eF5qqXhkYm) | [Cut It](https://open.spotify.com/album/6VNsH5eNH0HYI6UHJNiGl9) | 2:58 | 2023-01-27 | 2023-03-10 |
@@ -261,6 +262,7 @@
 | [IVE OFFICIALLY LOST ViSiON!!!!](https://open.spotify.com/track/4PXuZYWhkyGXQzfSRy2PW1) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 5:22 | 2023-01-27 | 2023-03-03 |
 | [Jazz Music](https://open.spotify.com/track/6FeygLA7IUp6ivUbt1nwVk) | [Tokky Horror](https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp) | [Jazz Music](https://open.spotify.com/album/3bE8szzTz6SrNJLjAo0En7) | 2:14 | 2022-09-01 | 2022-10-14 |
 | [Jump](https://open.spotify.com/track/3wGVgIe8CvDxGEJEdrAKfh) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [Party At The Cemetery](https://open.spotify.com/album/3kT0vXJqRNILDVVUX5LhkQ) | 2:49 | 2021-12-27 | 2022-01-29 |
+| [JUNI](https://open.spotify.com/track/4oEohO4fJMvAhcRmoGJ0zM) | [Bobbi Arlo](https://open.spotify.com/artist/5cudb4Wjab9hm3JH34VzgB) | [JUNI](https://open.spotify.com/album/4j0ct9VWQ3wAzIWlG6iY2t) | 2:35 | 2023-04-27 |  |
 | [Just for me](https://open.spotify.com/track/67lOnPna7dewLKizrVu31v) | [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [Just for me](https://open.spotify.com/album/3j2m4CvN4dphBLAv7e2tUt) | 2:23 | 2021-12-27 | 2022-02-13 |
 | [Justice](https://open.spotify.com/track/6ZJMpKYUdNjs4V7fmr8ewY) | [THE RIOT](https://open.spotify.com/artist/0bBGGhs1QuXp7FxPKT0QfN) | [HAPPY TEARS!](https://open.spotify.com/album/3o8RAFb9pxdgag6rMCZG3y) | 3:29 | 2023-03-30 |  |
 | [K.K.O](https://open.spotify.com/track/3c7HwgYVv6d3kxOQGrYk0G) | [Piers James](https://open.spotify.com/artist/1M5jchd0rXJneek1xALRFW) | [K.K.O](https://open.spotify.com/album/6QMZWUgeNUjAqwaxgFsPFm) | 1:56 | 2023-02-03 | 2023-03-10 |
@@ -288,6 +290,7 @@
 | [Living & Surfing](https://open.spotify.com/track/2xicgtm6ERHswB3w5LAXDH) | [BAD WITH PHONES](https://open.spotify.com/artist/6pCduVf5CPK2i5C6FdWfaC) | [Living & Surfing](https://open.spotify.com/album/2RdtBKGtz77ptP08DE4qX3) | 2:51 | 2022-01-28 | 2022-02-13 |
 | [Loathe](https://open.spotify.com/track/06lunGWo5mSF7wdERI8jh4) | [FKA Rayne](https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt) | [Loathe](https://open.spotify.com/album/0KtkJuIHKm4E6E2WdGX12E) | 2:21 | 2023-02-10 |  |
 | [Loner](https://open.spotify.com/track/1VDpzf4lahkZqdkFwdmXiY) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp) | [Silly Little Dream, Pt\. 1](https://open.spotify.com/album/7EA7NiPEaF7LXUueRDfRo6) | 3:16 | 2022-04-07 | 2022-06-24 |
+| [Loser Deadbeat](https://open.spotify.com/track/2PyWgTGWMJ8tLygUNZXS09) | [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [Loser Deadbeat](https://open.spotify.com/album/7fHqMXilgXLPBIj2XbK59g) | 3:05 | 2023-04-27 |  |
 | [Lost](https://open.spotify.com/track/3xd4GVGAuzJGdVZLEKvWea) | [Crim3s](https://open.spotify.com/artist/1ARDx2oCR7sJEjbnHsbbRU) | [Stay Ugly EP](https://open.spotify.com/album/4SdrdBBRHRo1CL6u3vJrR7) | 2:28 | 2022-02-12 | 2022-12-01 |
 | [LOTTO BOY](https://open.spotify.com/track/3WF1NUbFv0iBIFSJAoDn0i) | [Rex Arcum](https://open.spotify.com/artist/2aESSO1rH5zYGmkTqvLQfI), [Syano](https://open.spotify.com/artist/58OyCAJb1NYuQMhCeuq8Rt) | [LOTTO BOY](https://open.spotify.com/album/3a7bN2cMrozuYGKdVJI20V) | 3:07 | 2023-02-10 | 2023-03-10 |
 | [Love Is Dead And We Killed Her](https://open.spotify.com/track/1R0GUadaco9898cWY7pO2O) | [Doll Skin](https://open.spotify.com/artist/7vmwILw7lLaOfDnbGJB3iy) | [Love Is Dead And We Killed Her](https://open.spotify.com/album/35xqb0JcBZm8WHClGfiv7Z) | 3:07 | 2022-08-27 | 2022-09-02 |
@@ -516,5 +519,6 @@
 | [ZERO FIVE STARS](https://open.spotify.com/track/2HXLC1alUzezTMoBM0Sxkb) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [ONE](https://open.spotify.com/album/6iEbn9hlgnnd9wa7qgemhO) | 2:36 | 2021-12-27 | 2022-02-18 |
 | [ZERO FIVE STARS](https://open.spotify.com/track/7pLPs5Yph0xTeEMAA4Heff) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [ONE](https://open.spotify.com/album/5nFvLGogWjDGiJ25xBknPG) | 2:36 | 2021-12-27 | 2022-01-12 |
 | [Червь / Worm](https://open.spotify.com/track/3QxOyYp44vD7hkoOr5oslj) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8), [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Червь / Worm](https://open.spotify.com/album/0D0aIv3n85HJFtNuuXOxUc) | 2:54 | 2022-02-04 | 2022-04-01 |
+| [Яitual](https://open.spotify.com/track/4yHYjLDcFlSEYnsmqYxIrA) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Яitual](https://open.spotify.com/album/405GUW3aweuZJxSAvYXOQX) | 1:24 | 2023-04-27 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

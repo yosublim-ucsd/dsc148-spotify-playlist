@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Ruben Hein
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,284 likes - 98 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,300 likes - 98 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Heartaches](https://open.spotify.com/track/356RuMLuflEhfFuK2CrzZd) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Heartaches](https://open.spotify.com/album/68taUYP2jqsYXxBwTcth54) | 3:37 |
-| 2 | [People \(feat\. Cian Ducrot\)](https://open.spotify.com/track/0SCOKZU2gpsrvLa4T1VStt) | [Libianca](https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF), [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [People \(Remixes\)](https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G) | 3:04 |
+| 2 | [People \(feat\. Cian Ducrot\)](https://open.spotify.com/track/0SCOKZU2gpsrvLa4T1VStt) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [People \(Remixes\)](https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G) | 3:04 |
 | 3 | [Tell Me More](https://open.spotify.com/track/1jBN9OHMe8Fi39mazoXHvS) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Tell Me More](https://open.spotify.com/album/2l7I3NR8pYbyDaTdwjYkMU) | 3:23 |
 | 4 | [Dive](https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive](https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee) | 3:20 |
 | 5 | [Boat](https://open.spotify.com/track/55tN1esXmaKoCnAyBTXast) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Boat](https://open.spotify.com/album/0MC4ylr8NtdNRRhPUyjvdS) | 3:05 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 97 | [Still Got It Goin' On \- Radio Edit](https://open.spotify.com/track/0s29NsEfTyZQ5FFeQbVWWs) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Still Got It Goin' On \(Radio Edit\)](https://open.spotify.com/album/70IIzf8VDiLTvmKIVFQjzz) | 4:03 |
 | 98 | [Paper Crown](https://open.spotify.com/track/2fB0qwP98V9Yrv3mgR6IJJ) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Paper Crown](https://open.spotify.com/album/7sQDzWYBQavRBvvamkslFe) | 3:12 |
 
-Snapshot ID: `MTY4MjQzMjA1NCwwMDAwMDAwMGJkMDUzZDk4MWNlMzExZjRjMWJmMjY5ZjE0MTBiMjNm`
+Snapshot ID: `MCw1ZWM1YTNmNmJmYzRjOTJhYWUzMmFmNGYyNzI0Yjk1NmQ4YjM0NGU4`

@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 25712,
+  "num_followers": 25720,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg1NTMwNSwwMDAwMDAwMGI0YjA2NWM1ZWM4YjRhNGZiOTE2YTkxMGIwYjk0N2I3",
+  "snapshot_id": "MCw4OWMxYTEyNDdmZWVjM2E5NWZjMDYxNGQxNjk3NTFmOGI5ZTNlNTAz",
   "tracks": [
     {
       "added_at": "2023-02-26 01:59:39",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "I Can't Go On",
-        "url": "https://open.spotify.com/album/22O77Vq7bj0khJd5Blhjp3"
-      },
-      "artists": [
-        {
-          "name": "Robin Bengtsson",
-          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
-        }
-      ],
-      "duration_ms": 183990,
-      "name": "I Can\u00b4t Go On",
-      "url": "https://open.spotify.com/track/715cD5vOTffsOR3MnNYveJ"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "H\u00f6gt \u00f6ver havet",
         "url": "https://open.spotify.com/album/0lTGL5FPRV2cL926HKbUaS"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 169226,
       "name": "H\u00f6gt \u00f6ver havet",
       "url": "https://open.spotify.com/track/4J5KXnvaoSPa7yHrsNnqda"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "I Can't Go On",
+        "url": "https://open.spotify.com/album/22O77Vq7bj0khJd5Blhjp3"
+      },
+      "artists": [
+        {
+          "name": "Robin Bengtsson",
+          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
+        }
+      ],
+      "duration_ms": 183990,
+      "name": "I Can\u00b4t Go On",
+      "url": "https://open.spotify.com/track/715cD5vOTffsOR3MnNYveJ"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "R\u00f6k 'n Roll",
-        "url": "https://open.spotify.com/album/0aO5uIWhe2UVcnI7ZrjdSc"
-      },
-      "artists": [
-        {
-          "name": "Brandsta City Sl\u00e4ckers",
-          "url": "https://open.spotify.com/artist/10bzvni38ThO7h6KOaHO9l"
-        }
-      ],
-      "duration_ms": 177160,
-      "name": "Kom och ta mig",
-      "url": "https://open.spotify.com/track/3NVIuvSnsjBMWR8RCXQbHi"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 174720,
       "name": "V\u00e4xeln hall\u00e5",
       "url": "https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "R\u00f6k 'n Roll",
+        "url": "https://open.spotify.com/album/0aO5uIWhe2UVcnI7ZrjdSc"
+      },
+      "artists": [
+        {
+          "name": "Brandsta City Sl\u00e4ckers",
+          "url": "https://open.spotify.com/artist/10bzvni38ThO7h6KOaHO9l"
+        }
+      ],
+      "duration_ms": 177160,
+      "name": "Kom och ta mig",
+      "url": "https://open.spotify.com/track/3NVIuvSnsjBMWR8RCXQbHi"
     },
     {
       "added_at": "2023-02-26 01:59:39",

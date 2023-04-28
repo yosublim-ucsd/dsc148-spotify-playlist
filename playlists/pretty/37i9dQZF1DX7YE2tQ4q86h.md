@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > It's a main pop girl emergency 🆘  Cover: Kim Petras & Nicki Minaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,948 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,184 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 99 | [BRAND NEW BITCH](https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [BRAND NEW BITCH](https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb) | 3:16 |
 | 100 | [Animal](https://open.spotify.com/track/3WdijbYmphZ8N0MYblXDnF) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 3:01 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMGY2MDYyNWQ0YWFkNGEzZGU3ODUxY2E2ZDE0ZmRhNjlh`
+Snapshot ID: `MCw4NmVlNjU3Zjc2MjJhOTM5N2I1ZDAyYTU1ODI4NTc2OGQ3MjAxZjE3`

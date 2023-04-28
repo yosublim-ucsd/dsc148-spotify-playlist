@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest house bangers popping off in the UK, let's go! Cover: D.O.D",
+  "description": "The biggest house bangers popping off in the UK, let's go! Cover: Skepta, Jammer",
   "name": "UK House Music",
   "tracks": [
     {
@@ -2175,6 +2175,24 @@
     },
     {
       "album": {
+        "name": "Deep Deep Down",
+        "url": "https://open.spotify.com/album/0mgOvOm270LZfacLHsAxZb"
+      },
+      "artists": [
+        {
+          "name": "Zac Samuel",
+          "url": "https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188280,
+      "name": "Deep Deep Down - Radio Edit",
+      "url": "https://open.spotify.com/track/0as4kO2ITP4MIsQSXcm9b7"
+    },
+    {
+      "album": {
         "name": "Deny It",
         "url": "https://open.spotify.com/album/6lIxoZV2okhpBngVJvXi8i"
       },
@@ -2186,7 +2204,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 242250,
       "name": "Deny It",
       "url": "https://open.spotify.com/track/2G0pIL19syX70AXLc9ykPj"
@@ -3246,7 +3264,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 187251,
       "name": "Freefall (feat. Moxie Knox) - Edit",
       "url": "https://open.spotify.com/track/5imVAY20zvISpCoBuoeqZ2"
@@ -4941,6 +4959,32 @@
     },
     {
       "album": {
+        "name": "Let's Really Have Some Fun",
+        "url": "https://open.spotify.com/album/4JqTO1Oj6MeRdAXfDx9DqH"
+      },
+      "artists": [
+        {
+          "name": "R Plus",
+          "url": "https://open.spotify.com/artist/0lnAZ68xKGysVy084bTQmh"
+        },
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        },
+        {
+          "name": "Amelia Fox",
+          "url": "https://open.spotify.com/artist/3I4pqS75HcWouwU39LjRdM"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Let's Really Have Some Fun",
+      "url": "https://open.spotify.com/track/7COmInb3InhuD3er4KYrAS"
+    },
+    {
+      "album": {
         "name": "Let's Work (Radio Edit)",
         "url": "https://open.spotify.com/album/5Gx2vMTRqTurmCQh5SdXfo"
       },
@@ -5491,6 +5535,28 @@
     },
     {
       "album": {
+        "name": "Make Me Happy (feat. Might Delete Later)",
+        "url": "https://open.spotify.com/album/6weN60IhSCAWjhlt6jjaKs"
+      },
+      "artists": [
+        {
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        },
+        {
+          "name": "Might Delete Later",
+          "url": "https://open.spotify.com/artist/71j4PhDtWqw0LIG5MXBLxT"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204545,
+      "name": "Make Me Happy (feat. Might Delete Later)",
+      "url": "https://open.spotify.com/track/3O4mzMMjxZpCQUSYtq4So4"
+    },
+    {
+      "album": {
         "name": "Make The Night Last",
         "url": "https://open.spotify.com/album/0eBsV99mKaO1uMEBi8n75J"
       },
@@ -5636,6 +5702,28 @@
       "duration_ms": 244687,
       "name": "Manizer",
       "url": "https://open.spotify.com/track/32MHis9ga5UmCo2hivlkEs"
+    },
+    {
+      "album": {
+        "name": "Mas Murder",
+        "url": "https://open.spotify.com/album/4SkE5JHPFLZRiF9LCeUn0L"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Jammer",
+          "url": "https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438000,
+      "name": "Mas Murder",
+      "url": "https://open.spotify.com/track/2aV0jGk1i8jIuZUpz8IcLk"
     },
     {
       "album": {
@@ -5940,7 +6028,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 189248,
       "name": "Moving All Around (Jumpin') (feat. Kim English)",
       "url": "https://open.spotify.com/track/3rN9iG9QDHFQfBdbym2uel"
@@ -7698,7 +7786,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 245669,
       "name": "Smack Yo'",
       "url": "https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR"

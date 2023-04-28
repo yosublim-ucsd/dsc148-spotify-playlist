@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 
 > Instrumental guitar shreddery\. Cover: Angel Vivaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,163 likes - 100 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,246 likes - 100 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 | 99 | [Riverside Cake](https://open.spotify.com/track/2srAO5RpA2itSztEfbhRsR) | [Keanu Ienco](https://open.spotify.com/artist/13kGFdMMZXBatYiqXx2Wuw) | [Celestial Desire](https://open.spotify.com/album/6yHsXLT981Lxq675nClwrJ) | 5:05 |
 | 100 | [Elysium](https://open.spotify.com/track/2QSPTVVCczdil3ixvn7OvR) | [Al Joseph](https://open.spotify.com/artist/21PirAYDy86Fxofydxphxu) | [All of Creation](https://open.spotify.com/album/4JnTiM4k8PskSpoT1ORTIa) | 4:38 |
 
-Snapshot ID: `MTY4MDg0MDA2MCwwMDAwMDAwMGRjNzRlMzFmYzFmMDRhNTQ5OGZhZjNmN2QyNzczZTVh`
+Snapshot ID: `MCxhNmI2NDE4YmU3ZDkzNTU1NmZmOWFkMjdmNWYzOTBkMjYxMmY3NWVh`

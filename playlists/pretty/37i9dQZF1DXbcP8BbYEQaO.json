@@ -1,12 +1,12 @@
 {
   "description": "sparkling, shimmery synth pop \u2728",
-  "num_followers": 189335,
+  "num_followers": 189443,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDI5ZjI1Zjc1M2RjMWIyZWNmZDViYWFjMzM0NTFhMGQ0",
+  "snapshot_id": "MCw0ZmNiNDc0Mzg5MTkzOGNmNGM0NTMxYjU4ZjRlOGQzNGQ5MWM2Njll",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -673,20 +673,24 @@
       "url": "https://open.spotify.com/track/5aNjxmDikP3zGMHfO9dop5"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "To be honest",
-        "url": "https://open.spotify.com/album/2zqbBftrJpAiOeHwhO9W6X"
+        "name": "True love (feat. 070 Shake)",
+        "url": "https://open.spotify.com/album/21ZlnuYMvzSLNOAYWH318k"
       },
       "artists": [
         {
           "name": "Christine and the Queens",
           "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
         }
       ],
-      "duration_ms": 221823,
-      "name": "To be honest",
-      "url": "https://open.spotify.com/track/3G1rPeSTMK5MNno47y1Ll0"
+      "duration_ms": 347713,
+      "name": "True love (feat. 070 Shake)",
+      "url": "https://open.spotify.com/track/6PdUV3DjQAT4Hk9Hz7UNZ5"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -707,22 +711,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "THE ONE",
-        "url": "https://open.spotify.com/album/70XMWmygOBc9zAC2MuGa0n"
-      },
-      "artists": [
-        {
-          "name": "INJI",
-          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
-        }
-      ],
-      "duration_ms": 160661,
-      "name": "THE ONE",
-      "url": "https://open.spotify.com/track/0NHMIpUN5tk0zbHNvkIiav"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/3ZFmdgfTOEBGApsmwbYIQy"
       },
@@ -735,6 +723,22 @@
       "duration_ms": 172563,
       "name": "Stay",
       "url": "https://open.spotify.com/track/4WNrx9GTx4RvdnxR6qVysR"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "THE ONE",
+        "url": "https://open.spotify.com/album/70XMWmygOBc9zAC2MuGa0n"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "duration_ms": 160661,
+      "name": "THE ONE",
+      "url": "https://open.spotify.com/track/0NHMIpUN5tk0zbHNvkIiav"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -785,24 +789,20 @@
       "url": "https://open.spotify.com/track/2BHbnX2TI08CyUa9gWFeqK"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "True love (feat. 070 Shake)",
-        "url": "https://open.spotify.com/album/21ZlnuYMvzSLNOAYWH318k"
+        "name": "To be honest",
+        "url": "https://open.spotify.com/album/2zqbBftrJpAiOeHwhO9W6X"
       },
       "artists": [
         {
           "name": "Christine and the Queens",
           "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
         }
       ],
-      "duration_ms": 347713,
-      "name": "True love (feat. 070 Shake)",
-      "url": "https://open.spotify.com/track/6PdUV3DjQAT4Hk9Hz7UNZ5"
+      "duration_ms": 221823,
+      "name": "To be honest",
+      "url": "https://open.spotify.com/track/3G1rPeSTMK5MNno47y1Ll0"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "LUV (I KNOW I WANT THIS FOR REAL)",
-        "url": "https://open.spotify.com/album/1Tra5Ed1LWPGdmblM9ojiU"
+        "name": "CGI",
+        "url": "https://open.spotify.com/album/0YTny8rNHTIhYKSApVcHcy"
       },
       "artists": [
         {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+          "name": "corook",
+          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
         }
       ],
-      "duration_ms": 193400,
-      "name": "LUV (I KNOW I WANT THIS FOR REAL)",
-      "url": "https://open.spotify.com/track/1SiV9ERoyjtUPrNnuJCj21"
+      "duration_ms": 195257,
+      "name": "CGI",
+      "url": "https://open.spotify.com/track/0yinijG2Ju2VOeLLB8BgVe"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1111,18 +1111,34 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "CGI",
-        "url": "https://open.spotify.com/album/0YTny8rNHTIhYKSApVcHcy"
+        "name": "LUV (I KNOW I WANT THIS FOR REAL)",
+        "url": "https://open.spotify.com/album/1Tra5Ed1LWPGdmblM9ojiU"
       },
       "artists": [
         {
-          "name": "corook",
-          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
         }
       ],
-      "duration_ms": 195257,
-      "name": "CGI",
-      "url": "https://open.spotify.com/track/0yinijG2Ju2VOeLLB8BgVe"
+      "duration_ms": 193400,
+      "name": "LUV (I KNOW I WANT THIS FOR REAL)",
+      "url": "https://open.spotify.com/track/1SiV9ERoyjtUPrNnuJCj21"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Naked In Manhattan",
+        "url": "https://open.spotify.com/album/6nMbaV420wdCbTqJNU6Dnp"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 211057,
+      "name": "Naked In Manhattan",
+      "url": "https://open.spotify.com/track/1IfgSUsltB1wGK9SzK7SDa"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1141,20 +1157,20 @@
       "url": "https://open.spotify.com/track/54liA2Xwyb7ZCrh9sDGQ3B"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Naked In Manhattan",
-        "url": "https://open.spotify.com/album/6nMbaV420wdCbTqJNU6Dnp"
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/5qcM2sHUlFeaZh6bvNEw7B"
       },
       "artists": [
         {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 211057,
-      "name": "Naked In Manhattan",
-      "url": "https://open.spotify.com/track/1IfgSUsltB1wGK9SzK7SDa"
+      "duration_ms": 137647,
+      "name": "Watch Me",
+      "url": "https://open.spotify.com/track/6319BpXP42QAaXeELaPLmU"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1235,22 +1251,6 @@
       "duration_ms": 176813,
       "name": "Dance Away The Pain",
       "url": "https://open.spotify.com/track/1ZVzr825BOBAyGZoQqCSRg"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Hold On Baby",
-        "url": "https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 215621,
-      "name": "For My Friends",
-      "url": "https://open.spotify.com/track/6IEzGhvKEeUprf0pVk21ye"
     }
   ],
   "unique_name": "night pop",

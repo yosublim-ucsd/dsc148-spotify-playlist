@@ -1,12 +1,12 @@
 {
   "description": "Soul, R'n'B all with a tinge of electronic goodness. Cover: Jitwam",
-  "num_followers": 301924,
+  "num_followers": 302079,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDRkNWI3ODYxZGRhZjIyMzNkMDM3MzMyOTlhMjgwYTk2",
+  "snapshot_id": "MCwyODFhODM0OWJiODcyZDk4ZDFkNWZmNjFjMzQwZjEwYjRjNzk1NjQy",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "La Linda",
+        "url": "https://open.spotify.com/album/36BV0UIqHyq9RG7a2Q0x0K"
+      },
+      "artists": [
+        {
+          "name": "Tei Shi",
+          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
+        },
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 250920,
+      "name": "Even If It Hurts (feat. Blood Orange)",
+      "url": "https://open.spotify.com/track/3awUAAKKgqpvQUKSxvcqYM"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "Heart-Shaped Box",
         "url": "https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz"
       },
@@ -1083,22 +1103,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "La Linda",
-        "url": "https://open.spotify.com/album/36BV0UIqHyq9RG7a2Q0x0K"
+        "name": "All Mine",
+        "url": "https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO"
       },
       "artists": [
         {
-          "name": "Tei Shi",
-          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
+          "name": "Ted Jasper",
+          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
         },
         {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+          "name": "John Givez",
+          "url": "https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB"
         }
       ],
-      "duration_ms": 250920,
-      "name": "Even If It Hurts (feat. Blood Orange)",
-      "url": "https://open.spotify.com/track/3awUAAKKgqpvQUKSxvcqYM"
+      "duration_ms": 148529,
+      "name": "All Mine",
+      "url": "https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1131,26 +1151,6 @@
       "duration_ms": 205893,
       "name": "It's Nice to Be Alive",
       "url": "https://open.spotify.com/track/0KmxMouBQhAihwTJLKxQgW"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "All Mine",
-        "url": "https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO"
-      },
-      "artists": [
-        {
-          "name": "Ted Jasper",
-          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
-        },
-        {
-          "name": "John Givez",
-          "url": "https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB"
-        }
-      ],
-      "duration_ms": 148529,
-      "name": "All Mine",
-      "url": "https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt"
     },
     {
       "added_at": "2022-06-20 14:19:42",

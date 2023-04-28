@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
 
-201 songs - 11 hr 57 min
+202 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Lights Down Low](https://open.spotify.com/track/5A6BJLZArq1MPjsnmcuk5f) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Hell's Kitchen Angel](https://open.spotify.com/album/1fVVnWHdCvIas2Rdmc25Oc) | 3:43 | 2022-06-03 |  |
 | [Lights Down Low](https://open.spotify.com/track/5brHijrNA7UAFw74p4f5v3) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Lights Down Low](https://open.spotify.com/album/0KWtVo7Q9QIpXycrm9MuWI) | 3:43 | 2021-11-24 | 2022-07-29 |
 | [Lights Down Low](https://open.spotify.com/track/4FO19heaoF2X1IecIfPURV) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [NOW That's What I Call Music, Vol\. 65](https://open.spotify.com/album/161uSmI2QrypiAIdlOLYJW) | 3:43 | 2022-11-03 | 2022-11-13 |
+| [Little Astronaut](https://open.spotify.com/track/196uxW1pQXIHeAfai0YqRt) | [Moonloops](https://open.spotify.com/artist/2rXIqzzsMByBxUJhiZPXWo) | [Little Astronaut](https://open.spotify.com/album/0zzegLKJsDpDaTUJ7YjGke) | 3:32 | 2023-04-27 |  |
 | [Little Birds](https://open.spotify.com/track/3mgFa4MC92Q6iaT1fLKJkm) | [Midas](https://open.spotify.com/artist/7eNngegCrDK76btqeQ78wD) | [Little Birds](https://open.spotify.com/album/3pwDJLTeuu2f1JAkWS6Vnj) | 3:19 | 2022-08-23 |  |
 | [Lonely Nights](https://open.spotify.com/track/1NDRPRFMVnmjqfyfokw2Kq) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6), [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [Lonely Nights](https://open.spotify.com/album/0vJAXq86NlUT3gAKfuohvm) | 3:39 | 2022-06-03 |  |
 | [Lonely Nights](https://open.spotify.com/track/6huqz7x5E4UXQnPFU9MBGe) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6), [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [Hello](https://open.spotify.com/album/6e2JVuCWiGeSK70X9PhPNX) | 3:39 | 2022-11-03 | 2022-11-13 |

@@ -4,11 +4,11 @@
 
 > 🚂  Aqui é só o trem caro do trap! Foto: L7NNON, MC Ryan SP, Tz da Coronel, Filipe Ret, Big Bllakk, Derxan
 
-275 songs - 14 hr 30 min
+276 songs - 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/0uGpWtQgtZ6UcFXnFiNhNq) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Nunca Sozinho](https://open.spotify.com/album/5UDKZWc01Bse8OGYCR2wpb) | 0:00 | 2023-03-17 |  |
+| [](https://open.spotify.com/track/0uGpWtQgtZ6UcFXnFiNhNq) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Nunca Sozinho](https://open.spotify.com/album/5UDKZWc01Bse8OGYCR2wpb) | 0:00 | 2023-03-17 | 2023-04-28 |
 | [12 Chivas](https://open.spotify.com/track/0WwhC11l4afABOd1rSntp3) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po) | [12 CHIVAS](https://open.spotify.com/album/6vfL9pYdrNR5HHNxYeGXqo) | 2:55 | 2022-05-20 | 2022-07-30 |
 | [2 Cordões](https://open.spotify.com/track/5LCqgzxRZc73VXObHCddwe) | [DNASTY](https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [2 Cordões](https://open.spotify.com/album/4T2BxDiQkKbmlqUkrlLthW) | 3:19 | 2022-06-13 | 2022-07-30 |
 | [202](https://open.spotify.com/track/3imzmQM2DPPVBLMiBBexRL) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Thomie](https://open.spotify.com/artist/5UkeFCuymumzsQizZ1xzsW) | [202](https://open.spotify.com/album/5F5QjUVSgXHrXj7xbhSRW6) | 2:50 | 2022-08-23 | 2022-11-08 |
@@ -159,6 +159,7 @@
 | [Malokeragem](https://open.spotify.com/track/4xdMBPkevffdDNHv1VsiQo) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0) | [Malokeragem](https://open.spotify.com/album/7AJ5F18Xp1EWst3lLu6eeR) | 2:53 | 2022-05-30 | 2022-06-07 |
 | [Maluca Surtada](https://open.spotify.com/track/1OeI3e0dz9qX2dkaM8fxTY) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5) | [Maluca Surtada](https://open.spotify.com/album/61vY6i4ZCFKhIqynMI6SDy) | 2:59 | 2022-05-20 | 2022-06-18 |
 | [Mansão da Nadamal](https://open.spotify.com/track/1mt7mgPFH8YoJHIUFG8yF3) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Anezzi](https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Mansão da Nadamal](https://open.spotify.com/album/0LnEZovsRCo7uDMNLOLWGk) | 4:02 | 2022-04-29 | 2022-05-20 |
+| [Maridão \(feat\. Kizzy & Feek\)](https://open.spotify.com/track/66H84rhrbf31Tm8Mv9GAtJ) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic), [Feek](https://open.spotify.com/artist/7rVT3dNwCamCtw5rC7salV) | [Maridão \(feat\. Kizzy & Feek\)](https://open.spotify.com/album/0aSsD1WItij77UITRQNCxP) | 5:22 | 2023-04-27 |  |
 | [Matemática](https://open.spotify.com/track/1xRxdXBGDY5O89pKp40i0L) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 2:14 | 2022-04-29 | 2022-06-18 |
 | [Maturidade](https://open.spotify.com/track/5RHOhXxMVhpEaBcG6hIydA) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Maturidade](https://open.spotify.com/album/2QWzXzDW94VU4E9KBSJehg) | 2:22 | 2023-02-27 | 2023-04-18 |
 | [Maturidade](https://open.spotify.com/track/7GvJL7IG958R87MphADwR6) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Maturidade](https://open.spotify.com/album/6vPBEJpr7ZvMTBR0GiQL9L) | 2:22 | 2022-09-19 | 2023-03-03 |

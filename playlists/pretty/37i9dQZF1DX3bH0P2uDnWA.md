@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,709 likes - 120 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,906 likes - 120 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 119 | [Mañana \- Jojo Effect & Gardener of Delight Remix](https://open.spotify.com/track/27FA1rNL2xN9u8XZyHrxup) | [Jojo Effect](https://open.spotify.com/artist/3kHTdAZm5aaYxF2WowH1nL), [The Mills Brothers](https://open.spotify.com/artist/3nxAXv48I7VKMXT8ScbRlg), [Gardener of Delight](https://open.spotify.com/artist/3hSjJFU2I7AkyEDa4nop7i) | [Mañana \(Jojo Effect & Gardener of Delight Remix\)](https://open.spotify.com/album/07HP7HE5ivpEfRj5c9JAqp) | 2:48 |
 | 120 | [Take It Easy](https://open.spotify.com/track/15tFVhuNMklFTudioIzRF5) | [Carola Jasmins](https://open.spotify.com/artist/3rbi2ewJrPClkNNr0K1Pgo) | [Electro Carousel Club Night \(Selected by Dr Cat\)](https://open.spotify.com/album/1fM5x33jVkuJiA1Hf3F5Jm) | 3:20 |
 
-Snapshot ID: `MTY4MjA0OTY2MCwwMDAwMDAwMDVjZWNjNDhiMmQyN2M4NDcxNGZmNDlkNmRjNWExYmMy`
+Snapshot ID: `MCwyZGY1ODdiNDBkMzBhODA2N2VjMWU3YTU1ODZlYTZiMjVhOGMzZjg4`

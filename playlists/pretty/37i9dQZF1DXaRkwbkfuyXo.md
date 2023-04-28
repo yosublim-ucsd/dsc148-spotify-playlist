@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 
 > Seguimos arremangados, pariente\. Voz de Mando en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,799 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,201 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 | 74 | [25 de Diciembre](https://open.spotify.com/track/0vkWhjZgixnhhvMQjzLa9v) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Musica, Polvora y Sangre](https://open.spotify.com/album/1EoN3U7I9CrVgLDUbEHEJV) | 3:03 |
 | 75 | [J\. Walker](https://open.spotify.com/track/59sVHAfxiIX1uAKXjFksAI) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN) | [Sueño Guajiro](https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr) | 2:25 |
 
-Snapshot ID: `MTY3NzE5MzMyNCwwMDAwMDAwMGI4NzRkNTc3MTUwZTM2YzI5MGZkZDNmMzNjNDNmZGRj`
+Snapshot ID: `MCwxYjgzMzNhZDQ4NjdmNTk3Yjc3MDkxMGM4YzI0ZmZmZmEyZjViYWE4`

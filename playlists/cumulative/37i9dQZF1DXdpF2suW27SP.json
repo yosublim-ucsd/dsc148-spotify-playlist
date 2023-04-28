@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Kappa Jotta entra na zona. ",
+  "description": "Ivandro e Julinho Ksd entram na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -997,6 +997,28 @@
     },
     {
       "album": {
+        "name": "Chakras",
+        "url": "https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196384,
+      "name": "Chakras",
+      "url": "https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4"
+    },
+    {
+      "album": {
         "name": "Chance",
         "url": "https://open.spotify.com/album/0iSgo1smaFKzYKguM5Kws9"
       },
@@ -1262,6 +1284,24 @@
       "duration_ms": 137067,
       "name": "Correria",
       "url": "https://open.spotify.com/track/1WtxmzuEmFhoiIaUl5mlvA"
+    },
+    {
+      "album": {
+        "name": "DAKAR",
+        "url": "https://open.spotify.com/album/6a0RFiFtvOADiIpxS3SfVR"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224653,
+      "name": "DAKAR",
+      "url": "https://open.spotify.com/track/63q6I2XT4bhSaauCQWOYM1"
     },
     {
       "album": {
@@ -1830,7 +1870,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 170218,
       "name": "EViL",
       "url": "https://open.spotify.com/track/2VaLKyJgR9lIVoTqf4oIyY"
@@ -5212,7 +5252,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 209000,
       "name": "\u00c9 Verdade",
       "url": "https://open.spotify.com/track/3pnhXjwXLLMfNrS9k9HbKh"

@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "in defense of my own happiness (complete)",
+        "url": "https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204720,
+      "name": "lost",
+      "url": "https://open.spotify.com/track/7bvq2OKntVXLVnbEIo0nOx"
+    },
+    {
+      "album": {
         "name": "Memphis",
         "url": "https://open.spotify.com/album/3Q4xfrse6fqosRqjAzqF7s"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Con un poco de buena salsa todo queda limpio y reluciente.",
-  "num_followers": 24048,
+  "num_followers": 24073,
   "original_name": "\u00a1A Limpiar con Salsa!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjMzODA4NiwwMDAwMDAwMDQwMTFmYzBhY2UxZmI0MGE5MWE0OWUzZmUxNTY2ZmNi",
+  "snapshot_id": "MCxhZDlkMDE0NjZmNTZjOTU2ZTdmODc1ZGNkYzc4NGIyNGRhYTVjN2Vm",
   "tracks": [
     {
       "added_at": "2023-02-14 01:28:06",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-02-14 01:28:06",
       "album": {
-        "name": "El Rey Bravo",
-        "url": "https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 274018,
-      "name": "Oye C\u00f3mo Va",
-      "url": "https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE"
-    },
-    {
-      "added_at": "2023-02-14 01:28:06",
-      "album": {
         "name": "20th Anniversary",
         "url": "https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 261333,
       "name": "Ojos Chinos",
       "url": "https://open.spotify.com/track/4zOZQdgs7nSjMkqB7keSM5"
+    },
+    {
+      "added_at": "2023-02-14 01:28:06",
+      "album": {
+        "name": "El Rey Bravo",
+        "url": "https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 274018,
+      "name": "Oye C\u00f3mo Va",
+      "url": "https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE"
     },
     {
       "added_at": "2023-02-14 01:28:06",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-02-14 01:28:06",
       "album": {
-        "name": "Charanga Moderna",
-        "url": "https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf"
-      },
-      "artists": [
-        {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
-        }
-      ],
-      "duration_ms": 160115,
-      "name": "El Watusi",
-      "url": "https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd"
-    },
-    {
-      "added_at": "2023-02-14 01:28:06",
-      "album": {
         "name": "Numero 7",
         "url": "https://open.spotify.com/album/0VaX081B3DVzrDJOxWVqGS"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 298515,
       "name": "Un verano en Nueva York",
       "url": "https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9"
+    },
+    {
+      "added_at": "2023-02-14 01:28:06",
+      "album": {
+        "name": "Charanga Moderna",
+        "url": "https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        }
+      ],
+      "duration_ms": 160115,
+      "name": "El Watusi",
+      "url": "https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd"
     },
     {
       "added_at": "2023-02-14 01:28:06",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-02-14 01:28:06",
       "album": {
-        "name": "Creativo",
-        "url": "https://open.spotify.com/album/6tN89OXbeSQoc0YU1zBOlq"
-      },
-      "artists": [
-        {
-          "name": "Henry Fiol",
-          "url": "https://open.spotify.com/artist/3mnx8ehcNQEYMFSGXWOaVB"
-        }
-      ],
-      "duration_ms": 305057,
-      "name": "Zumbale",
-      "url": "https://open.spotify.com/track/6M5z2Pca6OuN4l5n5kId3E"
-    },
-    {
-      "added_at": "2023-02-14 01:28:06",
-      "album": {
         "name": "La Universidad de La Salsa",
         "url": "https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 301373,
       "name": "Y No Hago Mas Na'",
       "url": "https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5"
+    },
+    {
+      "added_at": "2023-02-14 01:28:06",
+      "album": {
+        "name": "Creativo",
+        "url": "https://open.spotify.com/album/6tN89OXbeSQoc0YU1zBOlq"
+      },
+      "artists": [
+        {
+          "name": "Henry Fiol",
+          "url": "https://open.spotify.com/artist/3mnx8ehcNQEYMFSGXWOaVB"
+        }
+      ],
+      "duration_ms": 305057,
+      "name": "Zumbale",
+      "url": "https://open.spotify.com/track/6M5z2Pca6OuN4l5n5kId3E"
     },
     {
       "added_at": "2023-02-14 01:28:06",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-02-14 01:28:06",
       "album": {
+        "name": "25th Anniversary",
+        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 249373,
+      "name": "Azuquita Pa'l Cafe",
+      "url": "https://open.spotify.com/track/3ZmIxCahvjC07OaxCIoCsM"
+    },
+    {
+      "added_at": "2023-02-14 01:28:06",
+      "album": {
         "name": "La Perfecta Combinaci\u00f3n",
         "url": "https://open.spotify.com/album/4iaNq48hB9AJQiZ0x3phc0"
       },
@@ -479,26 +495,6 @@
       "duration_ms": 246720,
       "name": "La Esencia Del Guaguanc\u00f3",
       "url": "https://open.spotify.com/track/5NTB60qZtpRwFtDlNANKCt"
-    },
-    {
-      "added_at": "2023-02-14 01:28:06",
-      "album": {
-        "name": "La Verdad de Joe Arroyo",
-        "url": "https://open.spotify.com/album/74zkwPCMHbyZhPnLE0fSE3"
-      },
-      "artists": [
-        {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        },
-        {
-          "name": "La Verdad",
-          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
-        }
-      ],
-      "duration_ms": 270626,
-      "name": "Yamulemau",
-      "url": "https://open.spotify.com/track/0UCVLx34GEdkVkjDuSfB45"
     },
     {
       "added_at": "2023-02-14 01:28:06",
@@ -523,6 +519,26 @@
       "duration_ms": 334080,
       "name": "La Murga",
       "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
+    },
+    {
+      "added_at": "2023-02-14 01:28:06",
+      "album": {
+        "name": "La Verdad de Joe Arroyo",
+        "url": "https://open.spotify.com/album/74zkwPCMHbyZhPnLE0fSE3"
+      },
+      "artists": [
+        {
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        },
+        {
+          "name": "La Verdad",
+          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
+        }
+      ],
+      "duration_ms": 270626,
+      "name": "Yamulemau",
+      "url": "https://open.spotify.com/track/0UCVLx34GEdkVkjDuSfB45"
     },
     {
       "added_at": "2023-02-14 01:28:06",
@@ -583,22 +599,6 @@
       "duration_ms": 282981,
       "name": "El Manicero",
       "url": "https://open.spotify.com/track/1xTtQuHbtAh6WvzZZNXbIu"
-    },
-    {
-      "added_at": "2023-02-14 01:28:06",
-      "album": {
-        "name": "25th Anniversary",
-        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 249373,
-      "name": "Azuquita Pa'l Cafe",
-      "url": "https://open.spotify.com/track/3ZmIxCahvjC07OaxCIoCsM"
     },
     {
       "added_at": "2023-02-14 01:28:06",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-02-14 01:28:06",
       "album": {
+        "name": "Salsa De La Mata, Vol. 2",
+        "url": "https://open.spotify.com/album/4szcF2VzqktkY6LMSVuMbk"
+      },
+      "artists": [
+        {
+          "name": "Wayne Gorbea",
+          "url": "https://open.spotify.com/artist/0tvNMJ8jl7lHOHv3ykLYvD"
+        }
+      ],
+      "duration_ms": 291970,
+      "name": "Alo Alo",
+      "url": "https://open.spotify.com/track/5X67X7Nfl8V9EigDe1p4cE"
+    },
+    {
+      "added_at": "2023-02-14 01:28:06",
+      "album": {
         "name": "Desde Puerto Rico A Nueva York",
         "url": "https://open.spotify.com/album/1vqHcNBGzfBymZFfceTcML"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 312386,
       "name": "Prende El Fog\u00f3n",
       "url": "https://open.spotify.com/track/5o1kiwkFXoJET4FW4pKtlE"
-    },
-    {
-      "added_at": "2023-02-14 01:28:06",
-      "album": {
-        "name": "Salsa De La Mata, Vol. 2",
-        "url": "https://open.spotify.com/album/4szcF2VzqktkY6LMSVuMbk"
-      },
-      "artists": [
-        {
-          "name": "Wayne Gorbea",
-          "url": "https://open.spotify.com/artist/0tvNMJ8jl7lHOHv3ykLYvD"
-        }
-      ],
-      "duration_ms": 291970,
-      "name": "Alo Alo",
-      "url": "https://open.spotify.com/track/5X67X7Nfl8V9EigDe1p4cE"
     },
     {
       "added_at": "2023-02-14 01:28:06",

@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 271626,
       "name": "A Life of Our Own - Live",
       "url": "https://open.spotify.com/track/2XNVRAKXXpumeXjueNEo0z"
@@ -2430,7 +2430,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 351640,
       "name": "Join Together - Live At Wembley, UK / 2019",
       "url": "https://open.spotify.com/track/0Ok5Jq9ufMC2mPuHggUkhq"
@@ -3018,6 +3018,24 @@
       "duration_ms": 446400,
       "name": "Master the Hurricane - Live",
       "url": "https://open.spotify.com/track/71U0mFB7NRzZPRFxCiRR30"
+    },
+    {
+      "album": {
+        "name": "Pirates over Wacken (Live)",
+        "url": "https://open.spotify.com/album/3FrOHRVCQ41hHbg7NhpWc0"
+      },
+      "artists": [
+        {
+          "name": "Visions of Atlantis",
+          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282580,
+      "name": "Melancholy Angel - Live",
+      "url": "https://open.spotify.com/track/5AyWG0hMC7bMOn00dqXPh0"
     },
     {
       "album": {
@@ -5429,6 +5447,28 @@
     },
     {
       "album": {
+        "name": "The Who With Orchestra: Live At Wembley",
+        "url": "https://open.spotify.com/album/0ZM1dVIT9Yb2BtWDGM1ZXx"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        },
+        {
+          "name": "Isobel Griffiths Orchestra",
+          "url": "https://open.spotify.com/artist/0LI0zBCk7MqZmKDAsD2aDz"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413186,
+      "name": "Who Are You - Live At Wembley, UK / 2019",
+      "url": "https://open.spotify.com/track/5pNqiPmmVcBPWk3HKNeNg9"
+    },
+    {
+      "album": {
         "name": "Wicked Place",
         "url": "https://open.spotify.com/album/4ZVuN0AfvqrZCUWv5tyScu"
       },
@@ -5576,6 +5616,24 @@
       "duration_ms": 156000,
       "name": "You Already Know",
       "url": "https://open.spotify.com/track/2gfFcnPwV3MyI1Qq0jlanv"
+    },
+    {
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423013,
+      "name": "You Must Burn!",
+      "url": "https://open.spotify.com/track/1ALXFmNr7lrTug2LAE989q"
     },
     {
       "album": {

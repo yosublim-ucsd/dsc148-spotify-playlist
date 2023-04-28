@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 893564,
+  "num_followers": 893740,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDlmNzlhMmRiZmU0YjY4YjFjZGY1NGFjYWQ4Y2NjNGM1",
+  "snapshot_id": "MCxlYTZjODRlMDk0N2RiYTYxZjhlNzgzYzQxNzBlMDZjMGVlOGU3ZDNk",
   "tracks": [
     {
       "added_at": "2023-04-21 04:00:00",
@@ -583,26 +583,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "RESET",
-        "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
-      },
-      "artists": [
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        },
-        {
-          "name": "Lil Gnar",
-          "url": "https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB"
-        }
-      ],
-      "duration_ms": 121849,
-      "name": "Spirits Pt. 2",
-      "url": "https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "BRAVE",
         "url": "https://open.spotify.com/album/5brsR3l3zFhJ4jGXh0wfF7"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 220839,
       "name": "DAMN",
       "url": "https://open.spotify.com/track/3sI0ekqQTE7NxdZhNFqF93"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "RESET",
+        "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        {
+          "name": "Lil Gnar",
+          "url": "https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB"
+        }
+      ],
+      "duration_ms": 121849,
+      "name": "Spirits Pt. 2",
+      "url": "https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -699,26 +699,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/703aZZCaGU2kRGjo0pGzDL"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        },
-        {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/48fPdAwGVoSkGK8GSez9yx"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Limelight (NGHTMRE Remix)",
         "url": "https://open.spotify.com/album/7MO44tEY67dEVPnfT8DD2y"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 254896,
       "name": "Limelight (NGHTMRE Remix)",
       "url": "https://open.spotify.com/track/3mof6Z6vz6gonsuIEQXank"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/703aZZCaGU2kRGjo0pGzDL"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/48fPdAwGVoSkGK8GSez9yx"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1619,18 +1619,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Apocalyptic",
-        "url": "https://open.spotify.com/album/6QupCtenijUBkVdEJx7dar"
+        "name": "Rumor",
+        "url": "https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh"
       },
       "artists": [
         {
-          "name": "3LAU",
-          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        },
+        {
+          "name": "WYN",
+          "url": "https://open.spotify.com/artist/1mFo3mR5ZWTQbNg1RgWj2D"
         }
       ],
-      "duration_ms": 204480,
-      "name": "Apocalyptic",
-      "url": "https://open.spotify.com/track/3E5Go2swucT0A6NmqOEChM"
+      "duration_ms": 278808,
+      "name": "Rumor",
+      "url": "https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1655,22 +1659,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Rumor",
-        "url": "https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh"
+        "name": "Apocalyptic",
+        "url": "https://open.spotify.com/album/6QupCtenijUBkVdEJx7dar"
       },
       "artists": [
         {
-          "name": "Moore Kismet",
-          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
-        },
-        {
-          "name": "WYN",
-          "url": "https://open.spotify.com/artist/1mFo3mR5ZWTQbNg1RgWj2D"
+          "name": "3LAU",
+          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
         }
       ],
-      "duration_ms": 278808,
-      "name": "Rumor",
-      "url": "https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR"
+      "duration_ms": 204480,
+      "name": "Apocalyptic",
+      "url": "https://open.spotify.com/track/3E5Go2swucT0A6NmqOEChM"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Let You Go",
-        "url": "https://open.spotify.com/album/2yCztLk81wZsugtw4DGuMQ"
-      },
-      "artists": [
-        {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        }
-      ],
-      "duration_ms": 201857,
-      "name": "Let You Go",
-      "url": "https://open.spotify.com/track/4Jw61X9JLDhHMXnYyUszad"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "SABER TOOTH",
         "url": "https://open.spotify.com/album/6vFjfQyWHawj5cplov6tR9"
       },
@@ -1795,6 +1779,38 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/2yCztLk81wZsugtw4DGuMQ"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "duration_ms": 201857,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/4Jw61X9JLDhHMXnYyUszad"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Active",
+        "url": "https://open.spotify.com/album/23cA8OTwFVZZ4pIXgcDxJi"
+      },
+      "artists": [
+        {
+          "name": "Duke & Jones",
+          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
+        }
+      ],
+      "duration_ms": 150370,
+      "name": "Active",
+      "url": "https://open.spotify.com/track/7jcP7f7Gol3IS01nfj7zbG"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Take My Breath Away (feat. Linney)",
         "url": "https://open.spotify.com/album/5DPdR5DXrXQ2sV7H1yMJKe"
       },
@@ -1815,18 +1831,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Active",
-        "url": "https://open.spotify.com/album/23cA8OTwFVZZ4pIXgcDxJi"
+        "name": "Moondance (Move Together)",
+        "url": "https://open.spotify.com/album/1WYArFyJAyDTrCskmxRBvJ"
       },
       "artists": [
         {
-          "name": "Duke & Jones",
-          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "XAELO",
+          "url": "https://open.spotify.com/artist/4jz58WEDWGF8fy6s58F2nV"
         }
       ],
-      "duration_ms": 150370,
-      "name": "Active",
-      "url": "https://open.spotify.com/track/7jcP7f7Gol3IS01nfj7zbG"
+      "duration_ms": 250214,
+      "name": "Moondance (Move Together)",
+      "url": "https://open.spotify.com/track/3K9OoTcAxpBcYozungwRHw"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1879,6 +1899,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Moving Points",
+        "url": "https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE"
+      },
+      "artists": [
+        {
+          "name": "Jerry Folk",
+          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+        }
+      ],
+      "duration_ms": 121007,
+      "name": "Red Ish",
+      "url": "https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "PHASE III",
         "url": "https://open.spotify.com/album/4zY1gyzLYtfBYLHw9pEFzo"
       },
@@ -1899,58 +1935,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Moving Points",
-        "url": "https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE"
-      },
-      "artists": [
-        {
-          "name": "Jerry Folk",
-          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
-        }
-      ],
-      "duration_ms": 121007,
-      "name": "Red Ish",
-      "url": "https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Kindred",
-        "url": "https://open.spotify.com/album/18utaWOKDrEGnQBsj1PWTE"
-      },
-      "artists": [
-        {
-          "name": "Ekali",
-          "url": "https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Kindred",
-      "url": "https://open.spotify.com/track/7a9XJvHtk48KWlbXoFST5e"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Moondance (Move Together)",
-        "url": "https://open.spotify.com/album/1WYArFyJAyDTrCskmxRBvJ"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        },
-        {
-          "name": "XAELO",
-          "url": "https://open.spotify.com/artist/4jz58WEDWGF8fy6s58F2nV"
-        }
-      ],
-      "duration_ms": 250214,
-      "name": "Moondance (Move Together)",
-      "url": "https://open.spotify.com/track/3K9OoTcAxpBcYozungwRHw"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Twitter",
         "url": "https://open.spotify.com/album/1Wx5ndC4uft7G0V3DwY9Cu"
       },
@@ -1967,6 +1951,26 @@
       "duration_ms": 165350,
       "name": "Twitter",
       "url": "https://open.spotify.com/track/45NRSkN11nKunCO8gwswug"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "HOMETOWN HEROES",
+        "url": "https://open.spotify.com/album/370OsF7iXElQn5eBK7R6B4"
+      },
+      "artists": [
+        {
+          "name": "Mr. Carmack",
+          "url": "https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn"
+        },
+        {
+          "name": "Dilip",
+          "url": "https://open.spotify.com/artist/5PcwbyuOX1pnaeVYatEEB2"
+        }
+      ],
+      "duration_ms": 270422,
+      "name": "GOD (MUSIC)",
+      "url": "https://open.spotify.com/track/0JwXTGM7R2KGSfck5EZ9xm"
     }
   ],
   "unique_name": "Trap Mojito",

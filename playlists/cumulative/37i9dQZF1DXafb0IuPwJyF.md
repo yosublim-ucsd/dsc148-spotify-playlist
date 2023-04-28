@@ -4,7 +4,7 @@
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover:  BE:FIRST
 
-812 songs - 2 day 2 hr 47 min
+813 songs - 2 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,7 +418,7 @@
 | [TRUMAN](https://open.spotify.com/track/22ddh4soKM3Soz0SMHzlAP) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [WHOOPEE](https://open.spotify.com/album/1tINlOaFYbmxyk5PhNEUJK) | 3:36 | 2023-01-22 | 2023-01-30 |
 | [TSUBASA](https://open.spotify.com/track/27Taz9Ae2IUhdvJbkiXnn5) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [Yomi Jah](https://open.spotify.com/artist/2vdDL7Bk14vZT3Gj4DjF6q) | [TSUBASA](https://open.spotify.com/album/6ZRFx0mD4Juzy5QP3Y4o2m) | 3:47 | 2022-05-22 | 2022-06-06 |
 | [Tsumugu](https://open.spotify.com/track/6uqDqDf5OVAyVj6lxwWrAx) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Tsumugu](https://open.spotify.com/album/3WJSzExzoaymFUgJNy1ABs) | 3:51 | 2023-02-05 | 2023-04-06 |
-| [Tsumugu](https://open.spotify.com/track/0vfBB5CXn4CwpmQ2M5EZOe) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Oidaki](https://open.spotify.com/album/5FGKmIasXlcphIo9Z3ihS5) | 3:52 | 2023-04-05 |  |
+| [Tsumugu](https://open.spotify.com/track/0vfBB5CXn4CwpmQ2M5EZOe) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Oidaki](https://open.spotify.com/album/5FGKmIasXlcphIo9Z3ihS5) | 3:52 | 2023-04-05 | 2023-04-28 |
 | [TURN IT UP \- feat\. Candee & ZOT on the WAVE](https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [TURN IT UP \(feat\. Candee & ZOT on the WAVE\)](https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z) | 3:13 | 2023-02-09 | 2023-03-20 |
 | [Two of Us feat\. Momoko Hayashi](https://open.spotify.com/track/1JfW3U00sxOpF3puJu0DCu) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm), [Momoko Hayashi](https://open.spotify.com/artist/5vvuay91t1WlmMwMEFsTsI) | [Two of Us feat\. Momoko Hayashi](https://open.spotify.com/album/4Q8sbj7WiRVrHcWN8Vtj4a) | 3:48 | 2022-10-09 | 2022-10-31 |
 | [Umbrella](https://open.spotify.com/track/7okiGeaZtMAjH5YnYY5CIf) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Umbrella](https://open.spotify.com/album/6G8DaKmaUuwZmOVOYUHP5C) | 4:32 | 2022-07-31 | 2022-08-29 |
@@ -536,6 +536,7 @@
 | [クワイエットジャーニー](https://open.spotify.com/track/20JzWoOgYiVP0tDrqIBG73) | [Masaki Suda](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [クワイエットジャーニー \- EP](https://open.spotify.com/album/1xm9DKgJbrF4ffRfzfow9x) | 2:05 | 2022-10-30 | 2022-11-07 |
 | [グッドな音楽を](https://open.spotify.com/track/2FNkUZUdx0PVTwtzBCoPTt) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [ワンダーランドに愛情を!](https://open.spotify.com/album/52s8JzniZA0dZA1D6sQOih) | 3:35 | 2022-09-18 | 2022-12-19 |
 | [グラデーション](https://open.spotify.com/track/5jWH9i9C8haNGbyEm9vFHg) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [グラデーション](https://open.spotify.com/album/37TBI4DrZdU5Ne3wxRiSrJ) | 4:00 | 2023-04-09 |  |
+| [ケセラセラ](https://open.spotify.com/track/406ZlqOP9nLQxJFBY7d9S4) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ケセラセラ](https://open.spotify.com/album/2Qo9j2bmgZlGOkismqdPpN) | 4:32 | 2023-04-27 |  |
 | [コイコガレ](https://open.spotify.com/track/1RtxMS6dcQuxK5y8TKh4Md) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [コイコガレ](https://open.spotify.com/album/71gRqLVrm4OMLRUYXMkWbu) | 3:35 | 2023-04-23 |  |
 | [コズミック](https://open.spotify.com/track/2wIGnFXppV7dbp8I1bmA9B) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [コズミック](https://open.spotify.com/album/5XhlBoKq69TkOtXF8uN6CA) | 2:38 | 2022-08-21 | 2022-09-12 |
 | [サイダー](https://open.spotify.com/track/1pgT2Ue3CjtILtKHkifnmS) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [サイダー](https://open.spotify.com/album/3hCLUq4eAthQqGFZ3KfJbY) | 4:27 | 2022-07-10 | 2022-07-25 |

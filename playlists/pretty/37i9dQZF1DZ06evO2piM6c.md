@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2piM6c.md) - [plain]
 
 > This is Sade\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,100 likes - 46 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,203 likes - 46 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2piM6c.md) - [plain]
 | 40 | [Soldier of Love](https://open.spotify.com/track/0bgsj8kz5zWbQ6njk2Oqoz) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Soldier of Love](https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU) | 5:56 |
 | 41 | [Turn My Back On You](https://open.spotify.com/track/7aiN4fPcpFmZeF88SiVdpS) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 6:06 |
 | 42 | [Frankie's First Affair](https://open.spotify.com/track/67r1nqpzlKj3x0khmvdFoD) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Diamond Life](https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0) | 4:38 |
-| 43 | [Flower of the Universe \(From Disney's "A Wrinkle in Time"\)](https://open.spotify.com/track/3F6dDV4voQ5OTTYpzpIVYt) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Flower of the Universe \(From Disney's "A Wrinkle in Time"\)](https://open.spotify.com/album/4vdEa3KgM0G1paD9aMhLh2) | 3:49 |
-| 44 | [Tar Baby](https://open.spotify.com/track/0vOBoaUAgYwDUfATb01HLU) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 3:58 |
+| 43 | [Tar Baby](https://open.spotify.com/track/0vOBoaUAgYwDUfATb01HLU) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 3:58 |
+| 44 | [Flower of the Universe \(From Disney's "A Wrinkle in Time"\)](https://open.spotify.com/track/3F6dDV4voQ5OTTYpzpIVYt) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Flower of the Universe \(From Disney's "A Wrinkle in Time"\)](https://open.spotify.com/album/4vdEa3KgM0G1paD9aMhLh2) | 3:49 |
 | 45 | [Love Is Found](https://open.spotify.com/track/5Mxq7vByHJGcKLsSb85J8G) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 4:08 |
 | 46 | [Fear](https://open.spotify.com/track/6iaOeExRsgRStLOhSOmJUx) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 4:09 |
 
-Snapshot ID: `MjgwNDE5MzAsMDAwMDAwMDBhYWM4N2YxNmNlNjIwYzk0MzQ2ZWVjZTE5NzcyYTg0Nw==`
+Snapshot ID: `MjgwNDMzMjAsMDAwMDAwMDBhYmMwMzhjNmU3M2VmOTg5ZTc3MWM4NGJjZjNjYmNjZQ==`

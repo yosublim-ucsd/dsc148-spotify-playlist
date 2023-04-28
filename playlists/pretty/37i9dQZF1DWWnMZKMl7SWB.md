@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 
 > Bases suaves para inspirarte mientras trabajas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,846 likes - 225 songs - 13 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,855 likes - 225 songs - 13 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 27 | [2day](https://open.spotify.com/track/1dQFJczFI9rVXbDXvavD03) | [crackle n bop](https://open.spotify.com/artist/7geWyYxsW6YdSKLBjB6mir) | [2day](https://open.spotify.com/album/5j9RWutbmSJQ8bHo9bOlL7) | 1:49 |
 | 28 | [Deserts](https://open.spotify.com/track/6GVNYDhJgcZtHPuWqmcRVd) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Deserts](https://open.spotify.com/album/2IiyhvS8gB0qynFD0GJQKk) | 3:07 |
 | 29 | [Sisu](https://open.spotify.com/track/3uQ33vLHvYhUC5EJvd4RuK) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Sisu](https://open.spotify.com/album/5fDif78W0imKj7ZVnsEjGP) | 2:33 |
-| 30 | [Gummy Bears and Sleeping In Alone](https://open.spotify.com/track/6MZt6HHIWlPZeyhi1C4ysJ) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Gummy Bears and Sleeping In Alone](https://open.spotify.com/album/0xVUJmFne9VNKRjIAqmXxh) | 3:18 |
+| 30 | [Gummy Bears and Sleeping In Alone](https://open.spotify.com/track/6P9XVaETOPRPdBicqVvdfX) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Sea Monster](https://open.spotify.com/album/3stiziFaUdaFlDL6BGD4R6) | 3:18 |
 | 31 | [SDDS](https://open.spotify.com/track/64KlnwwIJFZiyTx2npti1W) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT) | [Branko Presents: Enchufada Na Zona Vol\. 2](https://open.spotify.com/album/2qKCTElpP87LV5PdqDFgxt) | 3:35 |
 | 32 | [when I met you](https://open.spotify.com/track/0cylOa4HJsPfwuCqidVHpU) | [Silk Mhake](https://open.spotify.com/artist/6TMEF8gGAMgtb4tRfGQGyD) | [Surfin'](https://open.spotify.com/album/1JGXsngHExaIt6y4qDOTYT) | 2:07 |
 | 33 | [Midnight Diner](https://open.spotify.com/track/01lpL7ZN4x3znSlYCGFV89) | [oksami](https://open.spotify.com/artist/1b0Xogb0sa1XfgUXFWPb26) | [Midnight Diner](https://open.spotify.com/album/6TtrE0YPHoYdOqWKeTZ8Kw) | 2:50 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 224 | [Rose's Thorn](https://open.spotify.com/track/0VCUjtHZm8SRvKLWGzQKBf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 4:24 |
 | 225 | [A Bird's Call](https://open.spotify.com/track/0zDeGbSeyIloTRHQhTXhys) | [Nebulae](https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v) | [A Bird's Call](https://open.spotify.com/album/3PD5R09YXs4zCo34UoDmP2) | 3:02 |
 
-Snapshot ID: `MTY3OTkyOTE0NywwMDAwMDAwMGEwMTVkNjI5YTlhNDkxNjg5ZGYyOGEzZTVjZjkxYWVi`
+Snapshot ID: `MCxmNzkxYTdlNTJjNGYyN2MxZWVhMjI1N2YwYmQ5OTJhYzdmOTkyZTQ1`

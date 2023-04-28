@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Against The Current
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,345 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,535 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Standing on Thin Air Pt\. 2](https://open.spotify.com/track/2Ng1l8gKm6TY6xorzztiwd) | [Localles](https://open.spotify.com/artist/4dQDTpNdaZCQTr4ysNh8nB) | [Standing on Thin Air](https://open.spotify.com/album/4ExkbUQvT7Mw88UycRwREO) | 3:39 |
 | 50 | [Endangered Species](https://open.spotify.com/track/72sLl4HctOs6vyNP6Vdjrv) | [Vertigo](https://open.spotify.com/artist/5IqZL9rExFZmANYQkR3dxg) | [Endangered Species](https://open.spotify.com/album/1fJGzmjmYCORPFTfq5jLL3) | 4:08 |
 
-Snapshot ID: `MTY4MjA0OTY2MCwwMDAwMDAwMDhmZThiNWYxOTk0ZmNjYTE5NmZiMmNjMzk2ZDRlNTBk`
+Snapshot ID: `MCwyNzFlN2U1NzM4MThkYTMyYThiODE1ZDI5YWU2ZTc4MDE5MDNhZGE1`

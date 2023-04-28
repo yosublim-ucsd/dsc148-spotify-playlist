@@ -1,12 +1,12 @@
 {
   "description": "Celebrando el Festival de Av\u00e1ndaro, hito del rock mexicano. \u00a1Paz y amor! Portada: Los Dug Dug's.",
-  "num_followers": 38446,
+  "num_followers": 38457,
   "original_name": "Rock Mexicano Av\u00e1ndaro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDM1MzE2NSwwMDAwMDAwMGM4ZjEzYmIwOTAxZDZmMmY2NjhkNDFkMjZkM2I3NjQw",
+  "snapshot_id": "MCwzZWEwZWZjZTEyOWE3MTQ3Y2VmYTUwNWRiOTM4YTI5Y2ZiYjdkYjhh",
   "tracks": [
     {
       "added_at": "2021-09-06 15:34:44",
@@ -559,18 +559,18 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Regreso al Origen",
-        "url": "https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn"
+        "name": "Pebbles Vol. 12, Mexico Pt. 1, Originals Artifacts From The Psychedelic Era",
+        "url": "https://open.spotify.com/album/4KLAjeofXYCHrB1s3tDZDy"
       },
       "artists": [
         {
-          "name": "Grupo Ciruela",
-          "url": "https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S"
+          "name": "Los Monjes",
+          "url": "https://open.spotify.com/artist/6PjH1bMbi3GPcgur2egQMO"
         }
       ],
-      "duration_ms": 192893,
-      "name": "Nada Nos Detendr\u00e1",
-      "url": "https://open.spotify.com/track/6bpu24bVKDCEyFHdpcNEMA"
+      "duration_ms": 125982,
+      "name": "Mi Mami Dijo",
+      "url": "https://open.spotify.com/track/6SqepgrJ8ThiNLmZZW0IcT"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -623,18 +623,18 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Pebbles Vol. 12, Mexico Pt. 1, Originals Artifacts From The Psychedelic Era",
-        "url": "https://open.spotify.com/album/4KLAjeofXYCHrB1s3tDZDy"
+        "name": "Regreso al Origen",
+        "url": "https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn"
       },
       "artists": [
         {
-          "name": "Los Monjes",
-          "url": "https://open.spotify.com/artist/6PjH1bMbi3GPcgur2egQMO"
+          "name": "Grupo Ciruela",
+          "url": "https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S"
         }
       ],
-      "duration_ms": 125982,
-      "name": "Mi Mami Dijo",
-      "url": "https://open.spotify.com/track/6SqepgrJ8ThiNLmZZW0IcT"
+      "duration_ms": 192893,
+      "name": "Nada Nos Detendr\u00e1",
+      "url": "https://open.spotify.com/track/6bpu24bVKDCEyFHdpcNEMA"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -703,22 +703,6 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Regreso al Origen",
-        "url": "https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ciruela",
-          "url": "https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S"
-        }
-      ],
-      "duration_ms": 237320,
-      "name": "Regreso al Origen",
-      "url": "https://open.spotify.com/track/27T3luqWg01rUHNaO6RB5X"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
         "name": "Los Nuggetz - 60's Punk, Pop and Psychedelic From Latin America",
         "url": "https://open.spotify.com/album/3Wmj1OJev6LrgjS9SIPBk7"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 113266,
       "name": "Pobre Nina",
       "url": "https://open.spotify.com/track/7B9yavzlfIDl1rxyiicNQY"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "Regreso al Origen",
+        "url": "https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ciruela",
+          "url": "https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S"
+        }
+      ],
+      "duration_ms": 237320,
+      "name": "Regreso al Origen",
+      "url": "https://open.spotify.com/track/27T3luqWg01rUHNaO6RB5X"
     },
     {
       "added_at": "2021-09-06 15:34:44",

@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-224 songs - 13 hr 56 min
+225 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [AM/FM](https://open.spotify.com/track/5PCW8qWmZfqBhs5UmuG5wU) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [AM/FM](https://open.spotify.com/album/5C7wsbtvtoVg24iVKGqSD1) | 2:45 | 2023-04-14 |  |
 | [Ambience](https://open.spotify.com/track/1o2DoGaoIMHOqkB5XwCsrt) | [Nia Sultana](https://open.spotify.com/artist/1L8An7RfJbMW7zBy2fE0Tz) | [Ambience](https://open.spotify.com/album/3HuyQxn9Fefhl7jxYZAnzE) | 2:48 | 2021-12-03 | 2022-07-29 |
 | [Ambience](https://open.spotify.com/track/1V7Hrt7ek8rzl2tn29UgXi) | [Nia Sultana](https://open.spotify.com/artist/1L8An7RfJbMW7zBy2fE0Tz) | [Bigger Dreams](https://open.spotify.com/album/7g0ZUn505parZAzW477hHd) | 2:48 | 2022-03-11 | 2023-04-01 |
-| [Angels & Queens](https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens](https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK) | 3:19 | 2022-09-09 |  |
+| [Angels & Queens](https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens](https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK) | 3:19 | 2022-09-09 | 2023-04-28 |
 | [Another Life](https://open.spotify.com/track/2f9mmR37OEceYERbXml0Nj) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 5:58 | 2022-03-11 | 2023-02-17 |
 | [Anything For You](https://open.spotify.com/track/3buWaZh2ajXTWsdp8XTBKk) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Anything For You](https://open.spotify.com/album/4lqRBrPHyGCFw8SuQPEwBI) | 4:16 | 2021-12-03 | 2022-07-29 |
 | [Anything For You](https://open.spotify.com/track/3yP27QF0cTGw5RlfjqKL4R) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [The Wild Card](https://open.spotify.com/album/1k61cWVj8AgcXdZUwRaCai) | 4:17 | 2022-03-11 | 2023-04-01 |
@@ -182,6 +182,7 @@
 | [Sensitive](https://open.spotify.com/track/59aIuvxf1TpntfDqbeynWt) | [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [Sometimes, I'm Speechless](https://open.spotify.com/album/45Mb8i8kcqmoh1jZkqbLqE) | 2:54 | 2022-12-16 | 2023-04-16 |
 | [Shine \[Feat\. D Smoke + Tiffany Gouché\]](https://open.spotify.com/track/2mHenqaNpcU7q3JP4V4Oee) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [Tiffany Gouché](https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba) | [Shine \[Feat\. D Smoke + Tiffany Gouché\]](https://open.spotify.com/album/7tOJroeUUAj21SaBgC1DZe) | 6:27 | 2022-02-25 | 2022-09-19 |
 | [Show & Prove](https://open.spotify.com/track/449FBzMELJSNmcZOhobcyq) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Show & Prove](https://open.spotify.com/album/1OeiauwrDJM0ZhHsqwsQd9) | 2:29 | 2023-02-24 |  |
+| [Show Her The Way](https://open.spotify.com/track/05JIFzIzIFqS9Gms1b4TUr) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Show Her The Way](https://open.spotify.com/album/5l7H2sueEPAHGGly08PkJS) | 4:02 | 2023-04-21 |  |
 | [SIDE OF YOU](https://open.spotify.com/track/1cHBuQf2xa55GghN4eBp1H) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [SIDE OF YOU](https://open.spotify.com/album/4bl5UiLHsOJc2OIaO9ugmG) | 2:45 | 2022-09-23 |  |
 | [Slow Down \- Acoustic](https://open.spotify.com/track/3ugCSRkkewHctDELil9Ixq) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Slow Down \(Acoustic\)](https://open.spotify.com/album/6oucPVEBijDE1a4Ef2vEU4) | 4:11 | 2021-12-03 | 2022-09-12 |
 | [Something Keeps Calling \(feat\. Rob Bacon\)](https://open.spotify.com/track/2TuRqxy7EI8gMGDQFt3iTV) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo), [Rob "Fonksta" Bacon](https://open.spotify.com/artist/0PBJAklxGVi4C4OOVPRmaO) | [Something Keeps Calling \(feat\. Rob Bacon\)](https://open.spotify.com/album/2bbtGylMVav9dn2QWNiGIw) | 4:44 | 2021-12-03 | 2021-12-31 |

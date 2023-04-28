@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 
 > The sound and soul that keeps Mauritius jamming
 
-[Spotify](https://open.spotify.com/user/spotify) - 787 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 788 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 15 | [Di pain griyé](https://open.spotify.com/track/7oHhCJYWfrQC6000ZhGrEk) | [Désiré François](https://open.spotify.com/artist/7uq44YtefJQWMa2Gkz66C9), [Cassiya](https://open.spotify.com/artist/2OIKHs5XFIbEcwpLaIdLSo) | [Di pain griyé](https://open.spotify.com/album/2jCW2gVLxfJ7Sj1KtNyWgr) | 4:02 |
 | 16 | [Ena Ennta Zetwal](https://open.spotify.com/track/7dMsbTGUUg06S0j75VdbQT) | [Bigg Frankii](https://open.spotify.com/artist/2Xi6Sscx1ZPJ3opKWFm8ya) | [ZENFAN LAKAZ TOL](https://open.spotify.com/album/1GBg8Y6eqNGic3rLWVg5DR) | 4:12 |
 | 17 | [Dhobi de classe](https://open.spotify.com/track/18D0UnZXdzRDDMgHvSdaJT) | [Jean\-Claude](https://open.spotify.com/artist/0UhmK26kiuevCeuvexjdp5) | [Les meilleurs ségas de Jean\-Claude \(Folk Music of Mauritius Island\)](https://open.spotify.com/album/5PJ8ITlQfwJ7exo1QAPZSJ) | 5:52 |
-| 18 | [Zoli mamzel \(Remix 2016\) \[feat\. Kymai, DJ Cutson & DJ Cedrik\]](https://open.spotify.com/track/16xNpqUqRcTEMIrpu1NNYH) | [Gary Victor](https://open.spotify.com/artist/34uDf9D2S1QCyFIt8TNcm1), [Kymaï](https://open.spotify.com/artist/4oMiFNFu7BdGvGD4dusuhn), [DJ Cutson](https://open.spotify.com/artist/3DHm7ZLJ4OeVF8eAzbAUh2), [Dj Cedrik](https://open.spotify.com/artist/5qnz040bwCnHXrqgBAv4f5) | [Elle danse](https://open.spotify.com/album/6Vzxd84ITvDqoJSZGchxYV) | 3:36 |
-| 19 | [Met dan la joie](https://open.spotify.com/track/0hBgxcNkXmsVY26iW0ytmZ) | [AUBIN](https://open.spotify.com/artist/280VCDJJf0MzVkC3EAws19) | [La vie est belle \(Best Of\)](https://open.spotify.com/album/7b4DC8vFmz0jt4NtmTJpHZ) | 4:10 |
+| 18 | [Met dan la joie](https://open.spotify.com/track/0hBgxcNkXmsVY26iW0ytmZ) | [AUBIN](https://open.spotify.com/artist/280VCDJJf0MzVkC3EAws19) | [La vie est belle \(Best Of\)](https://open.spotify.com/album/7b4DC8vFmz0jt4NtmTJpHZ) | 4:10 |
+| 19 | [Zoli mamzel \(Remix 2016\) \[feat\. Kymai, DJ Cutson & DJ Cedrik\]](https://open.spotify.com/track/16xNpqUqRcTEMIrpu1NNYH) | [Gary Victor](https://open.spotify.com/artist/34uDf9D2S1QCyFIt8TNcm1), [Kymaï](https://open.spotify.com/artist/4oMiFNFu7BdGvGD4dusuhn), [DJ Cutson](https://open.spotify.com/artist/3DHm7ZLJ4OeVF8eAzbAUh2), [Dj Cedrik](https://open.spotify.com/artist/5qnz040bwCnHXrqgBAv4f5) | [Elle danse](https://open.spotify.com/album/6Vzxd84ITvDqoJSZGchxYV) | 3:36 |
 | 20 | [Prisonnier](https://open.spotify.com/track/543ZS2a1HhMZ3pRLzcbyc8) | [Alain Ramanisum](https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1) | [La Réunion lé la](https://open.spotify.com/album/1jK8H9Ggjm2U1FdVIbAeSk) | 4:15 |
 | 21 | [Moris](https://open.spotify.com/track/3QU5nBA3JzyXtAXQcfUcQG) | [Evoloziq](https://open.spotify.com/artist/7MFxyq8uWZZo0eP48b80m8) | [Koleksyon Dor](https://open.spotify.com/album/7x2ysdP957dBY4KY2oKDUD) | 3:24 |
 | 22 | [Medley marcel](https://open.spotify.com/track/5QQhJPbtk9b75jlM0bg8t9) | [Morgan](https://open.spotify.com/artist/0WuwdC5RXZ3UNa1CI64O6p) | [Crazé séga 2019](https://open.spotify.com/album/3gcsbOnQDbwUzjGMgbJNnF) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 49 | [SA FAM LA](https://open.spotify.com/track/7klLrUyJHtye2IxxvD1Zv6) | [Demaiko](https://open.spotify.com/artist/1UyUSYFkEpupx2tFIatBHD) | [SA FAM LA](https://open.spotify.com/album/2hzpC1T8nikTIB6j0fJbzb) | 3:35 |
 | 50 | [Touletemp \(feat\. Sista Queen\)](https://open.spotify.com/track/1fx4MLYw7whk15f4dvhqpX) | [Jah Mike](https://open.spotify.com/artist/5feVIF1cBHjeTWCFFVivoH), [Sista Queen](https://open.spotify.com/artist/7cI26ISQuWm0h8rlYL1so8) | [Enn lot kouler](https://open.spotify.com/album/3j1W3VSJEYDOJIK4V8RQok) | 3:57 |
 
-Snapshot ID: `MTY2MDIxMjMxNiwwMDAwMDAwMDk0ODg3MmZjMzExYjE3MTcxMmI3YWU1NDQzOWM4NmQ3`
+Snapshot ID: `MCwwYTE0NjhiYjQ1ZWFiOGViNzdiNTAzNjQxMWQ5YWI4ZDI4M2YzN2Qz`

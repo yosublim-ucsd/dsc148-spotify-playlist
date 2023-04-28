@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 83868,
+  "num_followers": 83937,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjIyNDIzNSwwMDAwMDAwMDIwYmFhY2Q3ZjY5NjMxMzQwNGEyZGVlYWQ2YjNmODRi",
+  "snapshot_id": "MCxhYzliZWMyMzU0NzZhM2Y2ODVmOTQwY2FmYmQzZGE0ZWM2N2FmM2Ez",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -559,6 +559,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/3Lxyo5wFt4lYA5XzG4ye7V"
+      },
+      "artists": [
+        {
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+        }
+      ],
+      "duration_ms": 190290,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/1oKB6sCR5aeEip3I93EuEf"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Chino \" De Viaje \" ..... Camino Al Cielo",
         "url": "https://open.spotify.com/album/5fWfAVXPS3buPNuv0tCViu"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 214785,
       "name": "No Puedo Ni Quiero",
       "url": "https://open.spotify.com/track/5gxQHWnI9FhKlGwAMvE3b3"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Si Te Vas",
-        "url": "https://open.spotify.com/album/3Lxyo5wFt4lYA5XzG4ye7V"
-      },
-      "artists": [
-        {
-          "name": "Omy Alka",
-          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
-        }
-      ],
-      "duration_ms": 190290,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/1oKB6sCR5aeEip3I93EuEf"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -715,6 +715,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Quinto Elemento",
+        "url": "https://open.spotify.com/album/1Jlnu4bxr0NhJZLg9SZ8qx"
+      },
+      "artists": [
+        {
+          "name": "Ariel Kelly",
+          "url": "https://open.spotify.com/artist/4BYn8aKDAf0keMvw8k28Kb"
+        }
+      ],
+      "duration_ms": 191549,
+      "name": "Va Cae",
+      "url": "https://open.spotify.com/track/7zyrVOD70rjN3QMVTcERBq"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Ancla",
         "url": "https://open.spotify.com/album/3Hfdb0KVrFw3gix8Xc0t38"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 207333,
       "name": "Ancla",
       "url": "https://open.spotify.com/track/4vWqtYT69Ivi5dXOisjL62"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Quinto Elemento",
-        "url": "https://open.spotify.com/album/1Jlnu4bxr0NhJZLg9SZ8qx"
-      },
-      "artists": [
-        {
-          "name": "Ariel Kelly",
-          "url": "https://open.spotify.com/artist/4BYn8aKDAf0keMvw8k28Kb"
-        }
-      ],
-      "duration_ms": 191549,
-      "name": "Va Cae",
-      "url": "https://open.spotify.com/track/7zyrVOD70rjN3QMVTcERBq"
     },
     {
       "added_at": "2020-11-24 13:23:55",

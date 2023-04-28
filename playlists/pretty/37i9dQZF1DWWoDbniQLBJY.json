@@ -1,12 +1,12 @@
 {
   "description": "Pop Ac\u00fastico para tu d\u00eda.",
-  "num_followers": 2016226,
+  "num_followers": 2016240,
   "original_name": "Mediod\u00eda Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDY0MDg2OSwwMDAwMDAwMDE5ZTQxYzRjYzBjOWFmMDI2YmYyOTA5YWI0N2YyMTM1",
+  "snapshot_id": "MCxhMWQ4NWQ2ZjhlZWZlMDY4MzYxZGY1MTU5MmE3ZjEyYTAzZTdhZDQy",
   "tracks": [
     {
       "added_at": "2023-04-04 20:41:09",
@@ -483,42 +483,6 @@
     {
       "added_at": "2023-04-04 20:41:09",
       "album": {
-        "name": "Planeando Madrid",
-        "url": "https://open.spotify.com/album/6VdOHTCfGTHltUhXr7Nre7"
-      },
-      "artists": [
-        {
-          "name": "Gonza Silva",
-          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
-        }
-      ],
-      "duration_ms": 252736,
-      "name": "Planeando Madrid",
-      "url": "https://open.spotify.com/track/1pJ9wvdICdBrCB9M1VGEnc"
-    },
-    {
-      "added_at": "2023-04-04 20:41:09",
-      "album": {
-        "name": "Julieta Venegas - MTV Unplugged",
-        "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 226373,
-      "name": "Ilusion (Unplugged) (En Vivo) (with Marisa Monte)",
-      "url": "https://open.spotify.com/track/2EGDo3bF1gbRvRqFxoKoV3"
-    },
-    {
-      "added_at": "2023-04-04 20:41:09",
-      "album": {
         "name": "El Embrujo",
         "url": "https://open.spotify.com/album/0LcKYsPViudGlqmWEoIvH7"
       },
@@ -543,6 +507,42 @@
     {
       "added_at": "2023-04-04 20:41:09",
       "album": {
+        "name": "Julieta Venegas - MTV Unplugged",
+        "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Ilusion (Unplugged) (En Vivo) (with Marisa Monte)",
+      "url": "https://open.spotify.com/track/2EGDo3bF1gbRvRqFxoKoV3"
+    },
+    {
+      "added_at": "2023-04-04 20:41:09",
+      "album": {
+        "name": "Planeando Madrid",
+        "url": "https://open.spotify.com/album/6VdOHTCfGTHltUhXr7Nre7"
+      },
+      "artists": [
+        {
+          "name": "Gonza Silva",
+          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
+        }
+      ],
+      "duration_ms": 252736,
+      "name": "Planeando Madrid",
+      "url": "https://open.spotify.com/track/1pJ9wvdICdBrCB9M1VGEnc"
+    },
+    {
+      "added_at": "2023-04-04 20:41:09",
+      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
       },
@@ -555,6 +555,22 @@
       "duration_ms": 344666,
       "name": "Vivir Sin Aire - Unplugged",
       "url": "https://open.spotify.com/track/6ccgxTZ8boW6g80rXPplS6"
+    },
+    {
+      "added_at": "2023-04-04 20:41:09",
+      "album": {
+        "name": "Soldadito de Hierro",
+        "url": "https://open.spotify.com/album/4aF473yAU7HOafe47RWrLk"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "duration_ms": 142964,
+      "name": "Soldadito de Hierro",
+      "url": "https://open.spotify.com/track/3DfUO7e24abpbIreUpUK4B"
     },
     {
       "added_at": "2023-04-04 20:41:09",
@@ -591,22 +607,6 @@
     {
       "added_at": "2023-04-04 20:41:09",
       "album": {
-        "name": "Soldadito de Hierro",
-        "url": "https://open.spotify.com/album/4aF473yAU7HOafe47RWrLk"
-      },
-      "artists": [
-        {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        }
-      ],
-      "duration_ms": 142964,
-      "name": "Soldadito de Hierro",
-      "url": "https://open.spotify.com/track/3DfUO7e24abpbIreUpUK4B"
-    },
-    {
-      "added_at": "2023-04-04 20:41:09",
-      "album": {
         "name": "Para Siempre",
         "url": "https://open.spotify.com/album/4S960SG2fqdAUmVGfcmwCQ"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 201452,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/2CwOQJ5gCpn1MgQqyTna5d"
+    },
+    {
+      "added_at": "2023-04-04 20:41:09",
+      "album": {
+        "name": "Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas M\u00e1s (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/7EHPmV9Jm3PIc0SK90ISIR"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 231990,
+      "name": "C\u00f3mo Te Atreves - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/1hGcChJGpozz03cXw0aOjB"
     },
     {
       "added_at": "2023-04-04 20:41:09",
@@ -659,22 +675,6 @@
       "duration_ms": 255669,
       "name": "Solo M\u00eda",
       "url": "https://open.spotify.com/track/7bLfGfZ8FQ7uZ3iLJIQISf"
-    },
-    {
-      "added_at": "2023-04-04 20:41:09",
-      "album": {
-        "name": "Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas M\u00e1s (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/7EHPmV9Jm3PIc0SK90ISIR"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 231990,
-      "name": "C\u00f3mo Te Atreves - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/1hGcChJGpozz03cXw0aOjB"
     },
     {
       "added_at": "2023-04-04 20:41:09",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-04-04 20:41:09",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/1t3e3Py0eA1SPRC1vETI3i"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 258412,
-      "name": "Volv\u00ed a Nacer - Live from Spotify",
-      "url": "https://open.spotify.com/track/3BEuTuiAgJLROYMELwLujm"
-    },
-    {
-      "added_at": "2023-04-04 20:41:09",
-      "album": {
         "name": "Tr3s Presents Juanes MTV Unplugged",
         "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
       },
@@ -811,18 +795,18 @@
     {
       "added_at": "2023-04-04 20:41:09",
       "album": {
-        "name": "Pablo Albor\u00e1n Spotify Sessions",
-        "url": "https://open.spotify.com/album/2MvBTwo2wis5ucqYxOJANe"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/1t3e3Py0eA1SPRC1vETI3i"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
         }
       ],
-      "duration_ms": 266104,
-      "name": "Pasos de cero - Live from Spotify NYC",
-      "url": "https://open.spotify.com/track/4SsgDQo4lLoFKbfoWhf5hh"
+      "duration_ms": 258412,
+      "name": "Volv\u00ed a Nacer - Live from Spotify",
+      "url": "https://open.spotify.com/track/3BEuTuiAgJLROYMELwLujm"
     },
     {
       "added_at": "2023-04-04 20:41:09",
@@ -839,6 +823,22 @@
       "duration_ms": 220862,
       "name": "Tiempo Para Perder",
       "url": "https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5"
+    },
+    {
+      "added_at": "2023-04-04 20:41:09",
+      "album": {
+        "name": "Pablo Albor\u00e1n Spotify Sessions",
+        "url": "https://open.spotify.com/album/2MvBTwo2wis5ucqYxOJANe"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 266104,
+      "name": "Pasos de cero - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/4SsgDQo4lLoFKbfoWhf5hh"
     },
     {
       "added_at": "2023-04-04 20:41:09",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-04-04 20:41:09",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 185975,
-      "name": "Veneno - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW"
-    },
-    {
-      "added_at": "2023-04-04 20:41:09",
-      "album": {
         "name": "el jardinero",
         "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 177391,
       "name": "el jardinero",
       "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
+    },
+    {
+      "added_at": "2023-04-04 20:41:09",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 185975,
+      "name": "Veneno - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW"
     },
     {
       "added_at": "2023-04-04 20:41:09",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-04-04 20:41:09",
       "album": {
-        "name": "Saudade (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/5xc4bjwFbmiCkJkgUvIjeG"
-      },
-      "artists": [
-        {
-          "name": "Ale Aguirre",
-          "url": "https://open.spotify.com/artist/4wShOBFUmcgdpWRF5v6KIS"
-        }
-      ],
-      "duration_ms": 238817,
-      "name": "Saudade - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6bBLBYvXLXDNvpxX6ZcGn0"
-    },
-    {
-      "added_at": "2023-04-04 20:41:09",
-      "album": {
         "name": "Para Amarte Mejor",
         "url": "https://open.spotify.com/album/3eWJK3Ina0YU2DxDkGXLw9"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 220264,
       "name": "Pronostico",
       "url": "https://open.spotify.com/track/3EFx1JzjOdJQCd6FypuAmh"
+    },
+    {
+      "added_at": "2023-04-04 20:41:09",
+      "album": {
+        "name": "Saudade (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/5xc4bjwFbmiCkJkgUvIjeG"
+      },
+      "artists": [
+        {
+          "name": "Ale Aguirre",
+          "url": "https://open.spotify.com/artist/4wShOBFUmcgdpWRF5v6KIS"
+        }
+      ],
+      "duration_ms": 238817,
+      "name": "Saudade - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6bBLBYvXLXDNvpxX6ZcGn0"
     },
     {
       "added_at": "2023-04-04 20:41:09",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2023-04-04 20:41:09",
       "album": {
-        "name": "Qu\u00e9 Dulce",
-        "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
-      },
-      "artists": [
-        {
-          "name": "Jorge Caj\u00edas",
-          "url": "https://open.spotify.com/artist/2z2C1fMK0nlrWR2pGqfdNe"
-        },
-        {
-          "name": "Claudia Prieto",
-          "url": "https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG"
-        }
-      ],
-      "duration_ms": 133666,
-      "name": "Qu\u00e9 Dulce",
-      "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
-    },
-    {
-      "added_at": "2023-04-04 20:41:09",
-      "album": {
         "name": "Velero",
         "url": "https://open.spotify.com/album/7tBeAWDG3WD9AtaxpAjpU4"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 136595,
       "name": "Velero",
       "url": "https://open.spotify.com/track/4mQ4EM1rxdOo7Cc9g5dXK2"
+    },
+    {
+      "added_at": "2023-04-04 20:41:09",
+      "album": {
+        "name": "Qu\u00e9 Dulce",
+        "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
+      },
+      "artists": [
+        {
+          "name": "Jorge Caj\u00edas",
+          "url": "https://open.spotify.com/artist/2z2C1fMK0nlrWR2pGqfdNe"
+        },
+        {
+          "name": "Claudia Prieto",
+          "url": "https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG"
+        }
+      ],
+      "duration_ms": 133666,
+      "name": "Qu\u00e9 Dulce",
+      "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
     },
     {
       "added_at": "2023-04-04 20:41:09",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2023-04-04 20:41:09",
       "album": {
+        "name": "Agua Del Pozo",
+        "url": "https://open.spotify.com/album/08C8LxgyBqG84Xv8Wbrokd"
+      },
+      "artists": [
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "De Camino",
+      "url": "https://open.spotify.com/track/0OnfT8ZB33ST5fRBzJjaIo"
+    },
+    {
+      "added_at": "2023-04-04 20:41:09",
+      "album": {
         "name": "tensi\u00f3n",
         "url": "https://open.spotify.com/album/0hnC4bP1PMMt18ZPdMftFX"
       },
@@ -1707,18 +1723,18 @@
     {
       "added_at": "2023-04-04 20:41:09",
       "album": {
-        "name": "Agua Del Pozo",
-        "url": "https://open.spotify.com/album/08C8LxgyBqG84Xv8Wbrokd"
+        "name": "Voy Cantando",
+        "url": "https://open.spotify.com/album/27rvAk3yuyxiv5cdKihsXY"
       },
       "artists": [
         {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+          "name": "Andr\u00e9s Obreg\u00f3n",
+          "url": "https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve"
         }
       ],
-      "duration_ms": 206800,
-      "name": "De Camino",
-      "url": "https://open.spotify.com/track/0OnfT8ZB33ST5fRBzJjaIo"
+      "duration_ms": 262050,
+      "name": "Voy Cantando",
+      "url": "https://open.spotify.com/track/0iROP0Xo315A0ImonYR499"
     },
     {
       "added_at": "2023-04-04 20:41:09",
@@ -1735,22 +1751,6 @@
       "duration_ms": 191474,
       "name": "Cenizas y Miel",
       "url": "https://open.spotify.com/track/7j5n02hf4Biqj1rA6AhFiJ"
-    },
-    {
-      "added_at": "2023-04-04 20:41:09",
-      "album": {
-        "name": "Voy Cantando",
-        "url": "https://open.spotify.com/album/27rvAk3yuyxiv5cdKihsXY"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Obreg\u00f3n",
-          "url": "https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve"
-        }
-      ],
-      "duration_ms": 262050,
-      "name": "Voy Cantando",
-      "url": "https://open.spotify.com/track/0iROP0Xo315A0ImonYR499"
     },
     {
       "added_at": "2023-04-04 20:41:09",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2023-04-04 20:41:09",
       "album": {
+        "name": "Hasta Que Te Encontr\u00e9",
+        "url": "https://open.spotify.com/album/11ko98CxEiWwgoyQdQKynL"
+      },
+      "artists": [
+        {
+          "name": "Juliana Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/5NfNMKwOPzCw9S1s3OMS6z"
+        }
+      ],
+      "duration_ms": 191052,
+      "name": "Hasta Que Te Encontr\u00e9",
+      "url": "https://open.spotify.com/track/5I98QzrVJF7r7QZFDLyDMr"
+    },
+    {
+      "added_at": "2023-04-04 20:41:09",
+      "album": {
         "name": "Arr\u00e1ncame (Live)",
         "url": "https://open.spotify.com/album/4GZQdBChz0ovBo3L6wu4eb"
       },
@@ -1811,18 +1827,18 @@
     {
       "added_at": "2023-04-04 20:41:09",
       "album": {
-        "name": "Hasta Que Te Encontr\u00e9",
-        "url": "https://open.spotify.com/album/11ko98CxEiWwgoyQdQKynL"
+        "name": "Mocca",
+        "url": "https://open.spotify.com/album/0phsHpTN3MkMVVN74oyM3Q"
       },
       "artists": [
         {
-          "name": "Juliana Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/5NfNMKwOPzCw9S1s3OMS6z"
+          "name": "Melanie Espinosa",
+          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
         }
       ],
-      "duration_ms": 191052,
-      "name": "Hasta Que Te Encontr\u00e9",
-      "url": "https://open.spotify.com/track/5I98QzrVJF7r7QZFDLyDMr"
+      "duration_ms": 95000,
+      "name": "Mocca",
+      "url": "https://open.spotify.com/track/55TZBuEIVVCIAKMmITvrFe"
     },
     {
       "added_at": "2023-04-04 20:41:09",
@@ -1839,22 +1855,6 @@
       "duration_ms": 177807,
       "name": "el buf\u00f3n",
       "url": "https://open.spotify.com/track/21BSvkIPRTD4noWUoXrjGd"
-    },
-    {
-      "added_at": "2023-04-04 20:41:09",
-      "album": {
-        "name": "Mocca",
-        "url": "https://open.spotify.com/album/0phsHpTN3MkMVVN74oyM3Q"
-      },
-      "artists": [
-        {
-          "name": "Melanie Espinosa",
-          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
-        }
-      ],
-      "duration_ms": 95000,
-      "name": "Mocca",
-      "url": "https://open.spotify.com/track/55TZBuEIVVCIAKMmITvrFe"
     },
     {
       "added_at": "2023-04-04 20:41:09",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2023-04-04 20:41:09",
       "album": {
-        "name": "Para Verte",
-        "url": "https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 182053,
-      "name": "Para Verte",
-      "url": "https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk"
-    },
-    {
-      "added_at": "2023-04-04 20:41:09",
-      "album": {
         "name": "Como Antes (Remix Acustico)",
         "url": "https://open.spotify.com/album/4kmeebwvosASgsi4bDHIIi"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 250200,
       "name": "Me Quem\u00e9",
       "url": "https://open.spotify.com/track/2HqDV3t9ImPT7P9UWVNRzz"
+    },
+    {
+      "added_at": "2023-04-04 20:41:09",
+      "album": {
+        "name": "Para Verte",
+        "url": "https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 182053,
+      "name": "Para Verte",
+      "url": "https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk"
     },
     {
       "added_at": "2023-04-04 20:41:09",

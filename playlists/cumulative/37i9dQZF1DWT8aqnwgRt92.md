@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-653 songs - 1 day 17 hr 32 min
+655 songs - 1 day 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,6 +363,7 @@
 | [Way to go](https://open.spotify.com/track/5CZ9ZyPs6di7ScOJa6YQmJ) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Way to go](https://open.spotify.com/album/7zEQZQRLbiXZynF6MCJFxW) | 4:03 | 2023-01-10 | 2023-04-09 |
 | [WE WILL!!](https://open.spotify.com/track/1LJhBOJ0WD4n28K8Tp9AOg) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [WE WILL!!](https://open.spotify.com/album/1tOOzv1BUFulpiX5uiKnih) | 3:36 | 2022-08-02 | 2022-08-24 |
 | [Welcome to RAINBOW WONDERLAND!](https://open.spotify.com/track/0G9J0B4paCSANpUFpXKlIN) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [Welcome to MY WONDERLAND](https://open.spotify.com/album/0yReU2G889wJ9bJmNnGhHb) | 3:53 | 2022-09-27 | 2022-10-28 |
+| [Where Do We Go?](https://open.spotify.com/track/3n2YaCic0C3gjCgkTkwfOz) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [Where Do We Go?](https://open.spotify.com/album/13ukRIGlCs6RbRAvDVzhF8) | 3:22 | 2023-04-27 |  |
 | [Wherever](https://open.spotify.com/track/6APr8sy2QQ069Semu8mHLI) | [Minori Suzuki](https://open.spotify.com/artist/3Ath9xfI4WBdrZPFQ4VX9A) | [Wherever](https://open.spotify.com/album/7uLHf7YtnW93JodSYUl7AE) | 3:30 | 2022-08-16 | 2022-10-19 |
 | [White Love](https://open.spotify.com/track/3B1EQrVkFiaHHTFbspLrwX) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [White Love](https://open.spotify.com/album/4Mk7ZN64AnujZEE2lgZ2JA) | 5:36 | 2022-11-24 | 2022-12-07 |
 | [White Noise](https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [White Noise](https://open.spotify.com/album/5QFR0drgoyEhPvfFh5zulf) | 4:14 | 2023-01-10 |  |
@@ -503,7 +504,8 @@
 | [メリーゴーランド](https://open.spotify.com/track/1llk0Ducps2jpfNDtKwO1h) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [メリーゴーランド](https://open.spotify.com/album/51rgXBzk8MYv4IEN0ZeBdI) | 4:15 | 2022-12-22 | 2023-02-15 |
 | [メロウ](https://open.spotify.com/track/6cGU6sOzRem6E8S7tCme1n) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [メロウ](https://open.spotify.com/album/0jkxbnOM0JnTw4c3Uegf6e) | 4:09 | 2023-04-04 |  |
 | [モンスターディスコ](https://open.spotify.com/track/2ywX0NwXU9gEbMoK6x2sFn) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj), [ヒャダイン](https://open.spotify.com/artist/38ViTxLM3iCWNj27wXtYgF) | [モンスターディスコ](https://open.spotify.com/album/2Ui9xGGvuKFnTN0OJFTneK) | 3:15 | 2022-07-12 | 2022-07-29 |
-| [ユメみロ](https://open.spotify.com/track/2nVtGNCqlbzjsLGvlZ8xpT) | [シークフェルト音楽学院中等部](https://open.spotify.com/artist/2VM8C3BgM9NRLvAbthlc8K) | [ユメみロ](https://open.spotify.com/album/3Y3HRhrSvNE6uk4YlRa5Hy) | 4:31 | 2023-04-11 |  |
+| [ユキハルアメ](https://open.spotify.com/track/34TDoy5rHQObkInUiGAMuQ) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [ユキハルアメ](https://open.spotify.com/album/6r16r6voiBI65yufhL5fBd) | 4:30 | 2023-04-27 |  |
+| [ユメみロ](https://open.spotify.com/track/2nVtGNCqlbzjsLGvlZ8xpT) | [シークフェルト音楽学院中等部](https://open.spotify.com/artist/2VM8C3BgM9NRLvAbthlc8K) | [ユメみロ](https://open.spotify.com/album/3Y3HRhrSvNE6uk4YlRa5Hy) | 4:31 | 2023-04-11 | 2023-04-28 |
 | [ヨダカ](https://open.spotify.com/track/1pENjqVLkeZDBXqausOwtY) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [ヨダカ](https://open.spotify.com/album/3jTKNvug9FVJgwACEYIvT6) | 3:38 | 2022-05-28 | 2022-07-06 |
 | [ヨトギバナシ](https://open.spotify.com/track/5QpeqvtbIzy8wCWQLzBEf1) | [KanoeRana](https://open.spotify.com/artist/41xWPhTGTkBVZwftEX2Xft) | [ヨトギバナシ](https://open.spotify.com/album/7uoZJ3vla3xRXzn9quVO88) | 3:27 | 2023-01-10 | 2023-04-09 |
 | [ラストシーン](https://open.spotify.com/track/76rwHMqKcw9v9IWBwQWItn) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [ラストシーン](https://open.spotify.com/album/1vPjwkJ6P8GWadlPrlvYY3) | 3:11 | 2023-02-14 | 2023-04-12 |

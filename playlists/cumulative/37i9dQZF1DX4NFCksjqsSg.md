@@ -4,7 +4,7 @@
 
 > Pas mal "tes tounes de karaoké préférées".
 
-89 songs - 6 hr 4 min
+90 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Je ne sais plus comment je m'appelle](https://open.spotify.com/track/1HxaNnYOPR4J8Vl1GyujGP) | [Martine St Clair](https://open.spotify.com/artist/7mj0ykOd4nU43TFvJobbyq) | [Caribou](https://open.spotify.com/album/43hrsuXAxYjK61wHmnS9KE) | 3:47 | 2020-04-07 | 2022-11-13 |
 | [Je reviendrai à montréal](https://open.spotify.com/track/3Gp1eVrLVzHzjhylilDFFb) | [Robert Charlebois](https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO) | [Volume un](https://open.spotify.com/album/5mlYAjASxORUY5zmJ1j6Bd) | 3:24 | 2020-04-07 |  |
 | [Je sais je sais](https://open.spotify.com/track/13ZsSDfT1P3zmDEkq1eBrZ) | [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Tant qu'il y aura des enfants](https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur) | 4:19 | 2020-04-07 |  |
-| [Je survivrai](https://open.spotify.com/track/6v3fLj8kHDReIpSgOjYREa) | [Michèle Richard](https://open.spotify.com/artist/2fLojwlojepWCZdtsAZVi0) | [Les années 70](https://open.spotify.com/album/2YORsznrjRnPuC1RbmY6Hk) | 3:30 | 2020-04-07 |  |
+| [Je survivrai](https://open.spotify.com/track/6v3fLj8kHDReIpSgOjYREa) | [Michèle Richard](https://open.spotify.com/artist/2fLojwlojepWCZdtsAZVi0) | [Les années 70](https://open.spotify.com/album/2YORsznrjRnPuC1RbmY6Hk) | 3:30 | 2020-04-07 | 2023-04-28 |
 | [Je vais t'aimer](https://open.spotify.com/track/7CLGJ43kUYypc1t3nVZ7jD) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [Coffret 2CD\-3](https://open.spotify.com/album/04E38Naw2fZK4wHwev6gzm) | 5:27 | 2020-04-07 |  |
 | [Je voudrais voir la mer](https://open.spotify.com/track/49PbjFOCzUYDUbjUJxin8V) | [Michel Rivard](https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN) | [Un trou dans les nuages](https://open.spotify.com/album/1wLEC5NI6C2Cq4Ap4TpDKN) | 5:19 | 2020-04-07 |  |
 | [Je voudrais voir New\-York](https://open.spotify.com/track/3Io2XSb6fY3MZTDujUkyux) | [Daniel Lavoie](https://open.spotify.com/artist/6S4WAihWktrOYeJdslsjcM) | [Vue sur la mer](https://open.spotify.com/album/4RnJlOpXOYuuxScSUANVhL) | 3:30 | 2020-04-07 |  |
@@ -93,6 +93,7 @@
 | [Une belle histoire](https://open.spotify.com/track/5jWaYdEILLzuElA854tfXV) | [Michel Fugain](https://open.spotify.com/artist/3Uitc0uNSbhVrqJON4NCMY), [Le Big Bazar](https://open.spotify.com/artist/3Flcm9X9nGdFzBfptzOI3K) | [Fais comme l'oiseau](https://open.spotify.com/album/3OElRBTgFwCluz9sF4wlSt) | 3:14 | 2020-04-07 |  |
 | [Une belle histoire](https://open.spotify.com/track/1GdtMDRiaF1EnG2LJpELme) | [Michel Fugain & Le Big Bazar](https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY) | [Fais Comme L'Oiseau](https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn) | 3:15 | 2020-04-07 | 2023-04-05 |
 | [Une femme avec toi](https://open.spotify.com/track/3LIghH0HLWzawM5n5Vu8Cc) | [Nicole Croisille](https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV) | [Une femme avec toi \- Single](https://open.spotify.com/album/76bKZd3b4fuLRTY446i1lc) | 4:23 | 2020-04-07 |  |
+| [Victoire \- Radio Edit](https://open.spotify.com/track/1O6uYqexF293mZKf9Nmf7x) | [Shy'm](https://open.spotify.com/artist/3nXQmlliJxvfXOm3naZf3B) | [Victoire \(Radio Edit\)](https://open.spotify.com/album/7MoypL7O3vSdhqhbzycqD6) | 3:16 | 2020-04-07 |  |
 | [Vivre Avec Celui Qu'on Aime](https://open.spotify.com/track/3QeHjFpa62YmVG4rCVhQ1g) | [Francine Raymond](https://open.spotify.com/artist/4XhSu04KR47kzRHF6esYas) | [Francine Raymond](https://open.spotify.com/album/7yduHV2iKYQgiQHPb9ECkL) | 3:43 | 2020-04-07 |  |
 | [Vivre dans la nuit \- Version Microsillon](https://open.spotify.com/track/6dP8GoWxIQtRDJptpgPtkh) | [Nuance](https://open.spotify.com/artist/56EV8wiS6RIrYrNG8uuiDl) | [Vivre dans la nuit](https://open.spotify.com/album/3AqKphs5MQe12H6EHj4lC4) | 4:45 | 2020-04-07 |  |
 | [Voyage voyage](https://open.spotify.com/track/2d8D7uk3tbAThjRkdfrx9c) | [Desireless](https://open.spotify.com/artist/1yjAx9cww4f1QuAaN3dUI2) | [François](https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q) | 4:26 | 2020-04-07 |  |

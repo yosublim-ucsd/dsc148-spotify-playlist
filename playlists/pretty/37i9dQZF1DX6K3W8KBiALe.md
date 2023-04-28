@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3W8KBiALe.md) - [plain]
 
 > Chill to the familiar classical pieces featured in award\-winning films.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,691 likes - 69 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,805 likes - 69 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3W8KBiALe.md) - [plain]
 | 3 | [Barber: Adagio for Strings](https://open.spotify.com/track/1CSaCKPIp2yCIDL3t7Fyau) | [Samuel Barber](https://open.spotify.com/artist/4XDJurjQCnWLlE7KLZCT9x), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z), [Sir Simon Rattle](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp) | [Samuel Barber \- Adagio](https://open.spotify.com/album/4zW79KZjDenZMLXSGU0Mqu) | 8:57 |
 | 4 | [An der schönen blauen Donau, Op\. 314](https://open.spotify.com/track/4J0e4gEqaLQlG5EM0wws1K) | [Johann Strauss II](https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z), [Herbert von Karajan](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) | [Strauss, J.: An der schönen blauen Donau \(The Blue Danube\)](https://open.spotify.com/album/4Hq6U8NMSqCCXKIxTtO2uX) | 11:47 |
 | 5 | [Kinderszenen, Op\. 15: No\. 10 Fast zu ernst](https://open.spotify.com/track/4x6N6LIKIiab4gV4cdbtPZ) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Wilhelm Kempff](https://open.spotify.com/artist/4F0h097DbL1XBqIbDw2xOj) | [Schumann: Kinderszenen; Kreisleriana; Waldszenen](https://open.spotify.com/album/7f9V9jwebM6tVDpItA1O8m) | 1:38 |
-| 6 | [Vois sur ton chemin](https://open.spotify.com/track/6Q00zs8KvmXWdwlHD7PZZ2) | [Bruno Coulais](https://open.spotify.com/artist/5kjb55jtwPnbYXXDvP4x7R), [Les Petits Chanteurs de Saint\-Marc](https://open.spotify.com/artist/026nk210FPO26xMwpoew70) | [The Chorus \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4VVDHVgGIOh68k2VRq9tq0) | 2:19 |
+| 6 | [Vois sur ton chemin](https://open.spotify.com/track/0HfK6NPVb69533dKqTPokh) | [Bruno Coulais](https://open.spotify.com/artist/5kjb55jtwPnbYXXDvP4x7R), [Les Petits Chanteurs de Saint\-Marc](https://open.spotify.com/artist/026nk210FPO26xMwpoew70) | [Les Choristes \(Bande originale du film\)](https://open.spotify.com/album/4vpt4mDNgzAnJN3a9Uonky) | 2:19 |
 | 7 | [Nocturne, B\. 49: Lento con gran espressione in C\-Sharp Minor](https://open.spotify.com/track/664fcA80WZzNL7uJWcCkLe) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Janusz Olejniczak](https://open.spotify.com/artist/0MeUJOSv5a75mNQzh266Ay) | [The Pianist \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3wzrKpVf1i1ef4HxabBU83) | 4:04 |
 | 8 | [Symphony No\. 5 in C\-Sharp Minor: IV\. Adagietto: Sehr langsam \(Death in Venice\)](https://open.spotify.com/track/0AyL01xejvrvvS0qqLODgr) | [Gustav Mahler](https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [James DePreist](https://open.spotify.com/artist/6dg4xqm9InvCIZwVil23Yg) | [Classical Music: 50 of the Best Film Classics](https://open.spotify.com/album/4RqJLaVkFhOYsn72FUS2iQ) | 10:39 |
 | 9 | [The Ecstasy of Gold \- L'Estasi Dell'oro](https://open.spotify.com/track/6m4HWTYMRSJkaUuvXTaNmE) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C), [Edda Dell'Orso](https://open.spotify.com/artist/44oCA91Zsi73fzubIX6Sqh) | [The Good, The Bad and The Ugly \(Original Motion Picture Soundtrack\) \[Remastered Edition\]](https://open.spotify.com/album/1pDYxCrFTy971V4zaN5Anq) | 3:23 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3W8KBiALe.md) - [plain]
 | 68 | [Concerto For Clarinet & String Orchestra](https://open.spotify.com/track/7jmaYAqOm1jV782F84HeDI) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve), [Aaron Copland](https://open.spotify.com/artist/0nJvyjVTb8sAULPYyA1bqU) | [The War: A Ken Burns Film \- The Soundtrack](https://open.spotify.com/album/2hhJvyE5fXeLWYNiOhZFhv) | 7:42 |
 | 69 | [Adagio](https://open.spotify.com/track/1ChvXhm9HA2bwtYuwTx2ZM) | [Arcangelo Corelli](https://open.spotify.com/artist/5dmMpIyAVaH6b9FLFgWPrF), [Christopher Gordon](https://open.spotify.com/artist/2ysZkdT4RS1FePKkpQ0rKC) | [Master & Commander: Original Soundtrack](https://open.spotify.com/album/508jmMfd6u661YGVAYhayT) | 1:55 |
 
-Snapshot ID: `MTY2Mzc0ODk1OCwwMDAwMDAwMGYyYTAyYTMwNDk4MTQwOGJkYTQ4MDJhMGI1NzFjNGY2`
+Snapshot ID: `MCxmMjg2MDViNDViN2MyNzY4NzhkMTk0ZDk4ODgzM2U5YTE4NWU4YmUy`

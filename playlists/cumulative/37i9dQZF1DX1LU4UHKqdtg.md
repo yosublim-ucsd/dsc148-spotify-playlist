@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: SEVENTEEN
 
-567 songs - 1 day 7 hr 15 min
+570 songs - 1 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [I LOVE U](https://open.spotify.com/track/02Vb9vfZUmqAKNhQwFjPSZ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [HOLIDAY](https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH) | 2:56 | 2022-07-28 | 2022-08-31 |
 | [I LOVE U](https://open.spotify.com/track/5C4LYdOg6MoaRcuPFnu7CC) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [HOLIDAY](https://open.spotify.com/album/7GzeKow6a3UwRNvJESxl3m) | 2:56 | 2022-07-05 | 2022-07-29 |
 | [I want you to be happy](https://open.spotify.com/track/3VaPpNx6tSFotl2NywDpiy) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [I want you to be happy](https://open.spotify.com/album/3G6X4oBhIf8Xqgg8vxirjv) | 3:47 | 2022-04-19 | 2022-06-29 |
+| [I WISH](https://open.spotify.com/track/1ySR5Dpq8XTY35Ona8Sqqy) | [Lee Dongwon\(KNK\)](https://open.spotify.com/artist/6yC7v5MUs8vO5VyHhqr6V1) | [HappyMerryEnding Original Sound Track](https://open.spotify.com/album/0e9YjyyyNUrQxQxegNBFG1) | 3:19 | 2023-04-27 |  |
 | [If with U](https://open.spotify.com/track/0Qqo0BxJWQGdvYWLoIOWq2) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [If with U](https://open.spotify.com/album/7pxzFpELZglI6l6Ssw5lcw) | 3:07 | 2022-07-08 | 2022-09-17 |
 | [Illusion](https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Illusion](https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST) | 3:15 | 2022-06-01 | 2023-01-21 |
 | [imysm](https://open.spotify.com/track/1fnzWwpiHUxppDQ8EQccvW) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [imysm](https://open.spotify.com/album/77f8dmnqzJfEHel3QxTbsB) | 2:27 | 2022-06-30 | 2022-08-20 |
@@ -331,6 +332,7 @@
 | [Nerdy](https://open.spotify.com/track/6KExHY2Eo0DphK63s2dfYi) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Geekyland](https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4) | 2:58 | 2022-07-28 | 2022-10-19 |
 | [Nights Into Days \(Prod\. by Naul\)](https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Naul <Ballad Pop City>](https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ) | 4:20 | 2023-02-02 | 2023-03-22 |
 | [Nirvana \(feat\. pH\-1 & WDBZ\)](https://open.spotify.com/track/36DcCSKGShF6p3h2JMcPDg) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [WDBZ](https://open.spotify.com/artist/01q9uYIoLmTfAFQaKiNnbh) | [The Story : RETOLD](https://open.spotify.com/album/1W8HpoJr9zJmNxBYP8uCT9) | 3:39 | 2022-11-24 | 2023-01-25 |
+| [Nolza](https://open.spotify.com/track/0wLGK1RAecE26M9gbavG9v) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE POYZ NOLZA](https://open.spotify.com/album/6BKzodImJNGQce8WlHILwD) | 2:37 | 2023-04-27 |  |
 | [Nxde](https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 2:58 | 2022-10-18 | 2023-02-15 |
 | [Nxde \(Steve Aoki Remix\)](https://open.spotify.com/track/6HXVUmiqWSg3OW6yr5mJCJ) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Nxde \(Steve Aoki Remix\)](https://open.spotify.com/album/6khD0lw8LFHvPWoRfhAfym) | 2:47 | 2022-12-16 | 2023-03-18 |
 | [O](https://open.spotify.com/track/2tBsQUWGLdVDWytQwMQcas) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [SERIES 'O' \[ROUND 0 : WHO\]](https://open.spotify.com/album/3RoFKfin5pPGRfXkiupgXR) | 3:15 | 2022-03-23 | 2022-05-18 |
@@ -442,6 +444,7 @@
 | [Stay](https://open.spotify.com/track/1osAGR6bvsjgHjRp3XacCW) | [MATZ](https://open.spotify.com/artist/55vjGKmlvpOxuYjwGjBKrD), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Stay](https://open.spotify.com/album/5HvtKqkHmrQITKvap0leZ4) | 3:11 | 2022-07-26 | 2022-09-21 |
 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 | 2022-02-11 | 2022-05-18 |
 | [Stay This Way](https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from our Memento Box](https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo) | 3:15 | 2022-06-28 | 2022-09-07 |
+| [Stealer](https://open.spotify.com/track/6m9ZVtogbcJimt1GCcDCby) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Stealer : The treasure keeper, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5uMTcXSdeSZXaONNRuirPB) | 3:09 | 2023-04-27 |  |
 | [Step Back](https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx) | [GOT the beat](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) | [Step Back](https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk) | 3:48 | 2022-01-04 | 2022-04-29 |
 | [Sticker \- Will Not Fear Remix](https://open.spotify.com/track/1X4hW7NBxflvlNPlJnN6vQ) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH), [Will Not Fear](https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N) | [iScreaM Vol.13 : Sticker Remixes](https://open.spotify.com/album/0p4f9Nw20DLlu1cWzrToB8) | 3:24 | 2022-01-03 | 2022-02-09 |
 | [Still Life](https://open.spotify.com/track/4ba6mmxFtg8kRyqQ4PaAi4) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/0StZAtafrYrNtHULz4n3iS) | 3:08 | 2022-04-05 | 2022-07-01 |

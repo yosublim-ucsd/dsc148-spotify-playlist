@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 
 > Uplifting and happy jazz christmas classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,168 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,161 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 48 | [Ring Those Christmas Bells](https://open.spotify.com/track/2YA3CMWrGfQeLxtiS4zFZO) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Ultimate Christmas](https://open.spotify.com/album/4NVXNilJI92yp86NwlVc87) | 2:19 |
 | 49 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/2T00SUWXZJoRl5nyvNGeST) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui) | 3:28 |
 | 50 | [Little Drummer Boy](https://open.spotify.com/track/5lyN0bsNMnEp7NuAuHs9xY) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [A Very Swingin’ Basie Christmas!](https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S) | 4:50 |
-| 51 | [Little Jack Frost Get Lost \(with Marjorie Hughes\) \- 78rpm Version](https://open.spotify.com/track/4FmnUrA4cN7bsTuHNuEOqv) | [Frankie Carle](https://open.spotify.com/artist/40SRPccslwLmXEIf9hZUJu), [Marjorie Hughes](https://open.spotify.com/artist/0uLyz5wCWsQt9C96NkQhiO) | [From The Sony Vault: Christmas With The Big Bands](https://open.spotify.com/album/12i6rxeB8sFG8jMIEZV2N8) | 2:44 |
-| 52 | [Dig That Crazy Santa Claus](https://open.spotify.com/track/4O5E6N6uBTIydv9A3eQD4k) | [Ralph Marterie](https://open.spotify.com/artist/6RMVDGTwRURNgXI8gjgi38), [Ralph Marterie and His Orchestra](https://open.spotify.com/artist/44LkEyiTIZeDfX8ZPbtZfg) | [Merry Christmas](https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx) | 2:32 |
+| 51 | [Dig That Crazy Santa Claus](https://open.spotify.com/track/4O5E6N6uBTIydv9A3eQD4k) | [Ralph Marterie](https://open.spotify.com/artist/6RMVDGTwRURNgXI8gjgi38), [Ralph Marterie and His Orchestra](https://open.spotify.com/artist/44LkEyiTIZeDfX8ZPbtZfg) | [Merry Christmas](https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx) | 2:32 |
+| 52 | [Little Jack Frost Get Lost \(with Marjorie Hughes\) \- 78rpm Version](https://open.spotify.com/track/4FmnUrA4cN7bsTuHNuEOqv) | [Frankie Carle](https://open.spotify.com/artist/40SRPccslwLmXEIf9hZUJu), [Marjorie Hughes](https://open.spotify.com/artist/0uLyz5wCWsQt9C96NkQhiO) | [From The Sony Vault: Christmas With The Big Bands](https://open.spotify.com/album/12i6rxeB8sFG8jMIEZV2N8) | 2:44 |
 | 53 | [Little White Berry](https://open.spotify.com/track/04i0n52ZpDuITt7uQpaWnt) | [Joe Stilgoe](https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am), [Ben Castle](https://open.spotify.com/artist/3cMu4zqTDHd01cuFpaA9a4) | [Joe Stilgoe's Christmas Album](https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1) | 3:24 |
 | 54 | [Carol Of The Bells](https://open.spotify.com/track/5YmJtoST7bbcxCycpyw2yL) | [Dianne Reeves](https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh) | [Christmas Time Is Here](https://open.spotify.com/album/2I3uMBceHIZ4NXGM2HMl3Y) | 3:57 |
 | 55 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/0xKTdKwBalLkjGh5wKfGaD) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Crescent City Christmas Card](https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6) | 3:06 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 69 | [Santa Claus Got Stuck \(In My Chimney\)](https://open.spotify.com/track/37DyuqC8sgnnfmqxA5I1Fq) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Complete Decca Singles Vol\. 4: 1950\-1955](https://open.spotify.com/album/3nXCCfwBpz0FlUdxJrMfwM) | 3:09 |
 | 70 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/79Vow814grawUCdrBlYZbs) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella & Louis Christmas](https://open.spotify.com/album/4Stxbm7asfnEVduhRpWpzl) | 2:44 |
 
-Snapshot ID: `MTY3MTgwMDY5MywwMDAwMDAwMDFiZjQ2NmJhNzU5MGJlYjkwOTBhYzMxMWRkMmNjMzZj`
+Snapshot ID: `MCxhZWY2ZGM2Yjg3MGM1M2Q3ODE3OGIzNmIwY2M2YjU4MTZlNWU2MmI3`

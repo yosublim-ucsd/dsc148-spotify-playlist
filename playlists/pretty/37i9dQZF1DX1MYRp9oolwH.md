@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Custody
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,148 likes - 51 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,176 likes - 51 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 7 | [Chamkeela Angeelesi \(From "Dasara"\)](https://open.spotify.com/track/7Do3XWnRkEkyspwibizaBa) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Chamkeela Angeelesi \(From "Dasara"\) \- Single](https://open.spotify.com/album/35UNTC9xxXUCYSjwDbmBYb) | 3:23 |
 | 8 | [Kanula Chatu Meghama](https://open.spotify.com/track/6aptM1jYkNgayyLtLmvl3t) | [Kalyani Malik](https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ), [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI), [Lipsika](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1) | [Phalana Abbayi Phalana Ammayi](https://open.spotify.com/album/3Vqgue7sXnuzKCjVyAVuIS) | 4:21 |
 | 9 | [Sogasuke Soku](https://open.spotify.com/track/7us2M7qEm5z0N8Pi4r9vCO) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Ghantadi Krishna](https://open.spotify.com/artist/0pllOO8uQzMCl9IDGBxr8J) | [Risk \(Telugu\)](https://open.spotify.com/album/1x1YOnezfxRM5uq4E4LAp9) | 3:59 |
-| 10 | [Naa Tholi Chinnari Premo](https://open.spotify.com/track/2rbAtAj9tMcALtA28zaYBu) | [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6) | [Naa Tholi Chinnari Premo \(From "Month Of Madhu"\)](https://open.spotify.com/album/6n7Aal3Aw1V5jffuFBGSxN) | 4:47 |
+| 10 | [Naa Tholi Chinnari Premo \(From "Month Of Madhu"\)](https://open.spotify.com/track/6K8eAwWX94NjGQA5X5smfA) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6), [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Naa Tholi Chinnari Premo \(From "Month of Madhu"\) \- Single](https://open.spotify.com/album/4Z57hS6cSu9rLUZqF057dw) | 4:47 |
 | 11 | [Naa Ninnalaloo](https://open.spotify.com/track/1qZWMbGQ9F9Dvo6YLM9xv7) | [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP), [Satyan](https://open.spotify.com/artist/2aqF9xrw27sC5wAtvX9n2m) | [Richie Gadi Pelli](https://open.spotify.com/album/07zmBMXF0Tc0ZcKJ7Pjykp) | 3:35 |
 | 12 | [Mastaaru Mastaaru](https://open.spotify.com/track/59eeV0SIeyd431uyjAWCRe) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Sir](https://open.spotify.com/album/7qJBv6QEwl0DQDlNg3mBvc) | 3:45 |
 | 13 | [Endhe Endhe \(From "Agent"\)](https://open.spotify.com/track/6Pu2h98HTGs437yCGnK16b) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Padmalatha](https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk) | [Endhe Endhe \(From "Agent"\)](https://open.spotify.com/album/4jLEzKrOoUFyJzlTTrKwCy) | 3:36 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 50 | [Kalalo Kooda](https://open.spotify.com/track/5Tn2aBp45QypSmCpmhKtJN) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Vaishnavi Kovvuri](https://open.spotify.com/artist/4x2ISDzC44n2AmVAiBTp4g) | [Liger \(Telugu\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0bI7C4I6FzlNlZZDqJOfDJ) | 4:06 |
 | 51 | [Seethakoka Chiluka](https://open.spotify.com/track/4V1B6HlZ7UABy0FBuyqaHU) | [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C) | [Urvasivo Rakshasivo](https://open.spotify.com/album/1Mf6cONL3hjHRkxXXbFbWX) | 4:05 |
 
-Snapshot ID: `MTY4MjQyMDc1OSwwMDAwMDAwMGIxZjE0NjFkMzhhN2RmZDNiZGM5NzVkMDdlZDFjNzJh`
+Snapshot ID: `MCxmNzBjYzMyYWVmM2E3YmRkNjM3ZjBhYmI2YmY3YzgxMTE0NjAyYTA0`

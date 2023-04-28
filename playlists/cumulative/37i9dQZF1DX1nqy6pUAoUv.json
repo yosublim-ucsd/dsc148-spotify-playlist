@@ -3158,7 +3158,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 225999,
       "name": "Rosey",
       "url": "https://open.spotify.com/track/6hQyok9o5eHVrOTrAnHKro"
@@ -4142,6 +4142,24 @@
       "duration_ms": 156172,
       "name": "Watch Fire (feat. Sufjan Stevens)",
       "url": "https://open.spotify.com/track/3zpF0SCzigrNp1Dv4lxYqC"
+    },
+    {
+      "album": {
+        "name": "The Lookout",
+        "url": "https://open.spotify.com/album/6zxxQJ1GyzHqosrD6HsqwG"
+      },
+      "artists": [
+        {
+          "name": "Laura Veirs",
+          "url": "https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156172,
+      "name": "Watch Fire (feat. Sufjan Stevens)",
+      "url": "https://open.spotify.com/track/5qBIE0fTOJshddCJfLzzYh"
     },
     {
       "album": {

@@ -2854,10 +2854,28 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 213641,
       "name": "Tiguere",
       "url": "https://open.spotify.com/track/3LqhDUTrzOxYrGw5nEEAwr"
+    },
+    {
+      "album": {
+        "name": "Tiguere",
+        "url": "https://open.spotify.com/album/2HTmHES25qSL1wiSmWtI0e"
+      },
+      "artists": [
+        {
+          "name": "Dowba Montana",
+          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213641,
+      "name": "Tiguere",
+      "url": "https://open.spotify.com/track/4o8I9koGgKdoHKIdGZxIur"
     },
     {
       "album": {

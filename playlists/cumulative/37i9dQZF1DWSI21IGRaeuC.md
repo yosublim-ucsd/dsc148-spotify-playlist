@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-162 songs - 13 hr 59 min
+163 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Dilemma](https://open.spotify.com/track/3yGIQywO2T8BK6ANMTrjcs) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Dilemma](https://open.spotify.com/album/3Davr9dzq7S23vh9R7Fq2i) | 3:05 | 2022-08-12 |  |
 | [Distress](https://open.spotify.com/track/5fiDIqVrR0l9P1pdO5Sr5C) | [Natalia Roth](https://open.spotify.com/artist/62ukgypcwfh2mbtvRcXPK8) | [Sérial Noceur](https://open.spotify.com/album/580Qb2oZyp81gqru8v5jQH) | 6:39 | 2022-07-15 | 2022-07-28 |
 | [DJ Lover \- Original Mix](https://open.spotify.com/track/186UsZ2lMmYMwDA9UzQEfA) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Welcome EP](https://open.spotify.com/album/1dpQcHaazDFmLzLzz0VsEh) | 6:47 | 2022-07-01 | 2023-03-25 |
-| [Don't Look Back](https://open.spotify.com/track/3h1plqqVGhOLV0TbBYnQKW) | [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [Riveron](https://open.spotify.com/artist/3qzu7R3PzRDAHC2NsrcRLL) | [Don't Look Back](https://open.spotify.com/album/0lStU7LtwbnoZXXyI3oL68) | 3:13 | 2023-03-10 |  |
+| [Don't Look Back](https://open.spotify.com/track/3h1plqqVGhOLV0TbBYnQKW) | [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [Riveron](https://open.spotify.com/artist/3qzu7R3PzRDAHC2NsrcRLL) | [Don't Look Back](https://open.spotify.com/album/0lStU7LtwbnoZXXyI3oL68) | 3:13 | 2023-03-10 | 2023-04-28 |
 | [Don't Wanna Go](https://open.spotify.com/track/7Egwrj96WlechP11rChGK9) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Stephen Kirkwood](https://open.spotify.com/artist/2B3Vmzyhy4QFnY02UKyMi5) | [Don't Wanna Go](https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp) | 3:00 | 2022-09-09 |  |
 | [Encoding](https://open.spotify.com/track/2fnS9uEeunmh1NwlkmSGqb) | [Classmatic](https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m), [Gabe](https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu) | [Encoding EP](https://open.spotify.com/album/7m526KE380DYpcaItIMVad) | 6:03 | 2022-06-03 | 2022-07-29 |
 | [Energy](https://open.spotify.com/track/3h2DNWJn3GLNVhBQKpgxpK) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [YM006](https://open.spotify.com/album/0UtLUMq1i1r8nwbYNTkO3V) | 6:31 | 2022-06-03 | 2022-07-22 |
@@ -147,6 +147,7 @@
 | [That's Right](https://open.spotify.com/track/4DQQw8ILU9DUpkXhfVJYtQ) | [Will Taylor \(UK\)](https://open.spotify.com/artist/53PVBEKRk4Fvq8w8cLydLX) | [That's Right / The Maze](https://open.spotify.com/album/4Ea6xrbMghxpsECU18mqBS) | 5:58 | 2022-06-03 | 2022-07-28 |
 | [The Attention Deficit Track \- Edit](https://open.spotify.com/track/4Quui2la1NwpqLDXUgi5tm) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Jackmaster](https://open.spotify.com/artist/1VQgvnkH9rOB2YkNr1ovuB) | [The Attention Deficit Track](https://open.spotify.com/album/20PFDRbltmy3mHCn7vPl2Y) | 3:48 | 2022-06-24 |  |
 | [The Ciggie](https://open.spotify.com/track/1r8ZqfggYqW1R2JjiDGBQV) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [The Ciggie](https://open.spotify.com/album/5TijfininJwDUX6P1iSyf7) | 6:13 | 2022-06-03 |  |
+| [The Joint](https://open.spotify.com/track/4ARzhxqybRXS2VUzBNmCrS) | [Cla$$ & JCult](https://open.spotify.com/artist/1lDbjaD50tkeLZnqAMtU1i), [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M) | [The Joint](https://open.spotify.com/album/2M1mgjq4GL4imAn0PdQAme) | 3:04 | 2023-04-07 |  |
 | [The Key](https://open.spotify.com/track/1JqC0dklBZxfMeiqtsuUqP) | [Umberto Pagliaroli](https://open.spotify.com/artist/4wShOgYAKFtg2grzqostEI), [Calypse](https://open.spotify.com/artist/5AlXpYWCJe4VSQmk7up88A), [Grasso & Maxim](https://open.spotify.com/artist/2CEohVbXylc1fCqUlGh2Rk) | [Movements, Pt.3](https://open.spotify.com/album/0zkmWtgsX7D4Jkslo3qHX2) | 6:40 | 2022-06-10 | 2022-07-29 |
 | [The Mascot](https://open.spotify.com/track/0buZKE91rR2IQlUVYv6KMo) | [Mihalis Safras](https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf) | [The Mascot](https://open.spotify.com/album/4UXxHyBwW1lOedH3vV9x4O) | 3:15 | 2022-07-15 | 2022-08-30 |
 | [The Smoke](https://open.spotify.com/track/4i4eLhWPTCFoX0TnKqZvqa) | [Ryan Shepherd](https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx) | [The Smoke](https://open.spotify.com/album/3Ujm77CyBTFg3fyKm3fTt3) | 3:10 | 2023-04-07 |  |

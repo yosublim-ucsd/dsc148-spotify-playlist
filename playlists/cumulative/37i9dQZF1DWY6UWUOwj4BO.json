@@ -1129,6 +1129,24 @@
     },
     {
       "album": {
+        "name": "The Ballet Girl EP - Part 2",
+        "url": "https://open.spotify.com/album/3LGjHu7cfkesscGwoUP5gV"
+      },
+      "artists": [
+        {
+          "name": "Aden Foyer",
+          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176338,
+      "name": "The Ballet Girl (Adagio)",
+      "url": "https://open.spotify.com/track/0dsqEnxjtvkUan8zePPjLT"
+    },
+    {
+      "album": {
         "name": "Wasted Love (feat. Lagique) [Acoustic]",
         "url": "https://open.spotify.com/album/2CgvyrhuhDiXBAmXQz52Js"
       },

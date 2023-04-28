@@ -2,9 +2,9 @@
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Harmonize
+> Get your fill of vibes straight out of Tanzania\. Cover: Barnaba
 
-229 songs - 12 hr 59 min
+230 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [My Way](https://open.spotify.com/track/6XdVKBJLMLl2v26lPJIoS0) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Made For Us](https://open.spotify.com/album/2H5LMQ3oXWcd2lxP3nW8NR) | 3:28 | 2022-10-27 |  |
 | [Na Enjoy \(feat\. Darassa\)](https://open.spotify.com/track/1NshVUwUc5B163Z2wfkLJK) | [Ruby Afrika](https://open.spotify.com/artist/0LJ10K0IJWJ3kLT2lWe7wW), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Na Enjoy \(feat\. Darassa\)](https://open.spotify.com/album/44zwMeBG6iizss8HvneIQ1) | 3:37 | 2021-06-25 | 2022-01-14 |
 | [Naanzaje](https://open.spotify.com/track/0ryJsVr3xjiaZdnCPrk9zK) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Naanzaje](https://open.spotify.com/album/2PtTNJNz9aIkxIYPXPgYnD) | 3:19 | 2021-09-16 | 2022-11-18 |
-| [Nakuja](https://open.spotify.com/track/35KK909BtLG8ozuGhJNkhd) | [Nay Wa Mitego](https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq), [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Nakuja](https://open.spotify.com/album/4iaHJ3zRqwOELpHOZzFTqV) | 3:04 | 2023-01-19 |  |
+| [Nakuja](https://open.spotify.com/track/35KK909BtLG8ozuGhJNkhd) | [Nay Wa Mitego](https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq), [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Nakuja](https://open.spotify.com/album/4iaHJ3zRqwOELpHOZzFTqV) | 3:04 | 2023-01-19 | 2023-04-28 |
 | [Nakumpenda](https://open.spotify.com/track/262sNgqKP7SVpyDODmKdV7) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [jd muliki](https://open.spotify.com/artist/2cqAJuc0T3yYDGM1HJlvrl) | [Nakumpenda](https://open.spotify.com/album/0tkAhCJgYZdKLiCIzQQJpO) | 3:26 | 2022-02-04 | 2022-06-03 |
 | [Nakupenda](https://open.spotify.com/track/3TlutO6C5h7LgLcH0X8GMc) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Nakupenda](https://open.spotify.com/album/0rupjiEp0TDMmvIx5nmTzN) | 3:14 | 2022-07-21 |  |
 | [Nampenda](https://open.spotify.com/track/3OV9LcFiJZn4CMulAiPoGP) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Nampenda](https://open.spotify.com/album/0N3ZA8EsUB5qBk2cJUxpx8) | 3:18 | 2022-09-23 | 2023-03-25 |
@@ -180,6 +180,7 @@
 | [Pwi Pwi](https://open.spotify.com/track/2mLo2SWYWjzXfC2mqvJoVY) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX) | [Pwi Pwi](https://open.spotify.com/album/3Pbtdd5ArfOYHr73MIChnX) | 3:09 | 2023-03-16 |  |
 | [Rafiki](https://open.spotify.com/track/4lh8Whj4Uk8o4c4LWelSfc) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Rafiki](https://open.spotify.com/album/55TGRN5FPMfEz42zQSmjRr) | 4:42 | 2023-04-20 |  |
 | [Rara](https://open.spotify.com/track/7bcYejtryMBwpWehedwsse) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Rara](https://open.spotify.com/album/3rdA7AosUizjDVtRQUREUK) | 3:22 | 2022-04-14 | 2022-10-14 |
+| [Rockabye](https://open.spotify.com/track/20QBNMa1J6DgJErBLLF9ZM) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Rockabye](https://open.spotify.com/album/0jLdOcmIppSM5XCIMZIAtd) | 3:08 | 2023-04-27 |  |
 | [Sasambu](https://open.spotify.com/track/6tfVC1Ghg5KvIh8NItSPQh) | [Gigy Money](https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e) | [Sasambu](https://open.spotify.com/album/0VCZszjUueH3WySk5EPrcz) | 2:37 | 2022-03-03 | 2022-05-06 |
 | [Sawa](https://open.spotify.com/track/7Brx47p9jy0bF0NoZ6MYdB) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Sawa](https://open.spotify.com/album/5UjFk656mvckQJGUhW1Bg8) | 3:23 | 2023-03-02 |  |
 | [Selema \(Po Po\)](https://open.spotify.com/track/1bnWGzdaZw0FPZddeGk9yv) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5) | [Selema \(Po Po\)](https://open.spotify.com/album/4EdPLVn4ZEZeRLkEw8ikiR) | 5:40 | 2022-02-10 | 2022-11-18 |

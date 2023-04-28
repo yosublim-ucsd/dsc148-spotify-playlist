@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 
 > Pas mal "tes tounes de karaoké préférées".
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,032 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,043 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 28 | [Chats sauvages](https://open.spotify.com/track/0clO0QOJszhztY2jKzT1k3) | [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Celle qui va](https://open.spotify.com/album/5A8miUxbmrkHnXpbCkWKr2) | 4:28 |
 | 29 | [Le temps des cathédrales](https://open.spotify.com/track/6KoolqHOo79c4lTmAko7NQ) | [Bruno Pelletier](https://open.spotify.com/artist/7quDJwv2BxxaCkzeuLXzT2) | [Notre Dame de Paris \- Version intégrale, acte 1](https://open.spotify.com/album/0rfs8rhKsVsnKnwscx9cdY) | 3:22 |
 | 30 | [Les yeux du coeur](https://open.spotify.com/track/2T9wXXxMx8IKfGdK2FrHPa) | [Gerry Boulet](https://open.spotify.com/artist/1byKIdu4GbAYNkwsrfN6mv), [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Rendez\-vous doux](https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu) | 4:16 |
-| 31 | [J't'aime comme un fou](https://open.spotify.com/track/17vt4SGpyI9ONYIuxDbWm7) | [Robert Charlebois](https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO) | [1ère période](https://open.spotify.com/album/7AukTabhSosvxYl4LvG62v) | 3:50 |
+| 31 | [Tous les cris, les S.O.S.](https://open.spotify.com/track/071HK2nrQvUajbjJcHANrL) | [Marie Denise Pelletier](https://open.spotify.com/artist/1Uxer84r7rkh5OFQKMXd1l) | [Les introuvables](https://open.spotify.com/album/6Ow5AKypdyGHNHk4F4BDgo) | 5:18 |
 | 32 | [Une femme avec toi](https://open.spotify.com/track/3LIghH0HLWzawM5n5Vu8Cc) | [Nicole Croisille](https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV) | [Une femme avec toi \- Single](https://open.spotify.com/album/76bKZd3b4fuLRTY446i1lc) | 4:23 |
-| 33 | [Tous les cris, les S.O.S.](https://open.spotify.com/track/071HK2nrQvUajbjJcHANrL) | [Marie Denise Pelletier](https://open.spotify.com/artist/1Uxer84r7rkh5OFQKMXd1l) | [Les introuvables](https://open.spotify.com/album/6Ow5AKypdyGHNHk4F4BDgo) | 5:18 |
+| 33 | [J't'aime comme un fou](https://open.spotify.com/track/17vt4SGpyI9ONYIuxDbWm7) | [Robert Charlebois](https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO) | [1ère période](https://open.spotify.com/album/7AukTabhSosvxYl4LvG62v) | 3:50 |
 | 34 | [Mon mec à moi](https://open.spotify.com/track/69cjFYQg0lE0e48bgOPhfy) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Rien ne s'arrête \(1987 \- 2001\)](https://open.spotify.com/album/6sklF5x3mauqDdLFPgIqJw) | 4:13 |
 | 35 | [Tue\-moi](https://open.spotify.com/track/7quS8uRNMPWff5JhxnXPYs) | [Dan Bigras](https://open.spotify.com/artist/2QDARvkBIhaQQYcNMgQkyb) | [1992\-2002 tout...](https://open.spotify.com/album/2rhTxraeZq3zndPHogXMtC) | 3:25 |
 | 36 | [Je l'ai jamais dit à personne](https://open.spotify.com/track/7cxWHyonvdK6l64sEeSpnM) | [Étienne Drapeau](https://open.spotify.com/artist/29v1NWROhbx8Zfjh2DuWW5) | [Je l'ai jamais dit à personne](https://open.spotify.com/album/1OTwwEKQGXrw0lsHiuy5ni) | 3:22 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 72 | [Le ciel est à moi](https://open.spotify.com/track/7rei6qkJoTI00AaYWB7a0k) | [Marie\-Élaine Thibert](https://open.spotify.com/artist/4dCRlMJfHuq6GTTVNyxjNH) | [Marie\-Élaine Thibert](https://open.spotify.com/album/7u5RRckpk4riXBpIiIwCFs) | 4:35 |
 | 73 | [Repartir à zéro](https://open.spotify.com/track/2ztfB558UQpT91wYiC6zCV) | [Joe Bocan](https://open.spotify.com/artist/1fJvKwUjP79m8uMA8kBOfW) | [Joe Bocan](https://open.spotify.com/album/6DkLs7Xzj8Be9HojhiwQUb) | 3:21 |
 | 74 | [Bye Bye Mon Cowboy \- Original Version](https://open.spotify.com/track/1J9by690rO1VvQGrliaR0J) | [Mitsou](https://open.spotify.com/artist/2uaGBnwCVIftDwC3dcbS80) | [La Collection](https://open.spotify.com/album/2pq3KQJYOgxpyQo27Bg0rX) | 3:46 |
-| 75 | [Je survivrai](https://open.spotify.com/track/6v3fLj8kHDReIpSgOjYREa) | [Michèle Richard](https://open.spotify.com/artist/2fLojwlojepWCZdtsAZVi0) | [Les années 70](https://open.spotify.com/album/2YORsznrjRnPuC1RbmY6Hk) | 3:30 |
+| 75 | [Victoire \- Radio Edit](https://open.spotify.com/track/1O6uYqexF293mZKf9Nmf7x) | [Shy'm](https://open.spotify.com/artist/3nXQmlliJxvfXOm3naZf3B) | [Victoire \(Radio Edit\)](https://open.spotify.com/album/7MoypL7O3vSdhqhbzycqD6) | 3:16 |
 
-Snapshot ID: `MTU4NjI3MjY5OCwwMDAwMDAwMGZlYzFlNzE3YWY3Zjg2YWRkODk1ZjE0NDFmMDAzZTE2`
+Snapshot ID: `MCxjMTVjMmQzNjBjOTQyNThiYTVhMzcwMzczNmQ4MGYyNmRhYTcyMmMw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: JP THE WAVE & Sik\-K
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,782 likes - 77 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,802 likes - 77 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 15 | [Grown Man](https://open.spotify.com/track/5VKG8ary0JW6iKemhmznzS) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN) | [Grown Man](https://open.spotify.com/album/282shVOXRHSfBqexKhADTN) | 1:46 |
 | 16 | [Hot Sauce](https://open.spotify.com/track/0Mtk1CAT9lAISJjvBY8CbT) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Hot Sauce](https://open.spotify.com/album/6jeeHsOvUDczcJ17R7ozlc) | 2:57 |
 | 17 | [Motion God](https://open.spotify.com/track/75ZoVrZ4mXEsDxv1bQbEAS) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Motion God](https://open.spotify.com/album/1TwrnBDlShNlNIn20c5h31) | 2:23 |
-| 18 | [Location](https://open.spotify.com/track/1elcu8IXCUBRUYObThbyZU) | [Noizy](https://open.spotify.com/artist/4A0V8wrSmivwhA6DAeQxqP), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [ALPHA](https://open.spotify.com/album/4iLm0b2BMkkeVLhcMgLij0) | 2:55 |
+| 18 | [Location](https://open.spotify.com/track/1elcu8IXCUBRUYObThbyZU) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [ALPHA](https://open.spotify.com/album/4iLm0b2BMkkeVLhcMgLij0) | 2:55 |
 | 19 | [YEAH](https://open.spotify.com/track/64lp69KnGmOUNnu9EaRTTI) | [OG BOBBY](https://open.spotify.com/artist/43dGDLrsposfk1tD7omTDe), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [YEAH](https://open.spotify.com/album/6Si3b37FOS0251tjPO3hB5) | 3:27 |
 | 20 | [Blackout](https://open.spotify.com/track/0B0Xu2ih8fWpcwyxAt1c7m) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Blackout](https://open.spotify.com/album/55ZLjifyJc6wpZ07D2DcLV) | 3:09 |
 | 21 | [SHOOTING STAR \- BARS REMIXX FEAT\. RICO NASTY](https://open.spotify.com/track/5v3qDpknNxse3vx19aJ6RX) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [JAKOPS](https://open.spotify.com/artist/5Rgh1bKqT34PM9G5kYmlgE) | [SHOOTING STAR REMIXX \(PROD BY JAKOPS\)](https://open.spotify.com/album/7FlCBCFnKH1J5ud88NfjzC) | 3:23 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 76 | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr) | 2:32 |
 | 77 | [No 808’s \(feat\. Vory\)](https://open.spotify.com/track/7E68rHH6CrKbBYPfpiCLiQ) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [No 808’s \(feat\. Vory\)](https://open.spotify.com/album/2XToR89sscO3iyINxEvv7Z) | 3:20 |
 
-Snapshot ID: `MTY4MjAwMjgwMCwwMDAwMDAwMDBjNTcyMjI3M2M3MjhmYzUxZDkwYTZhZDI1YjZjMzMx`
+Snapshot ID: `MCw3NDJhMWJmZWQ4MTM2NWI4MWIwMGZjNjBmMzQyNjRhMjVlNTEyN2Fm`

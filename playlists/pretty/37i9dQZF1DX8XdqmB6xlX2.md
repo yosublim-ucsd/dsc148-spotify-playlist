@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XdqmB6xlX2.md) - [plain]
 
 > El hogar de tu nueva canción favorita\. Foto: Gorillaz, Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,084 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,181 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XdqmB6xlX2.md) - [plain]
 | 69 | [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 |
 | 70 | [Running Away](https://open.spotify.com/track/2lDODk7inZnmUHbIjUnIwP) | [VANO 3000](https://open.spotify.com/artist/770glnH67Mk4u2D41sxAhx), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [Running Away](https://open.spotify.com/album/0qD1Ymect5I2EamO4HE8ZB) | 1:51 |
 
-Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDdjZWRlM2E1NTAwNmZkYTA0M2RmOGNlOTIwYzkwZjlj`
+Snapshot ID: `MCxmMWE2ZjY2ZDQ2MmE4MjhmMzJmODkwMTYzYWYyNTMxMjc0M2M4NGMx`

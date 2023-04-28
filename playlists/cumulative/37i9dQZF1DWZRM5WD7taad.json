@@ -2094,10 +2094,28 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 215413,
       "name": "Me Siento High",
       "url": "https://open.spotify.com/track/5YSAbiuIJFLYXbgQLAStAX"
+    },
+    {
+      "album": {
+        "name": "Me Siento High",
+        "url": "https://open.spotify.com/album/5ytGAaKu8lpiRuIyZXlga8"
+      },
+      "artists": [
+        {
+          "name": "Santa Griega",
+          "url": "https://open.spotify.com/artist/6Y7LaIJtLawCz1tW0QPHeu"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215573,
+      "name": "Me Siento High",
+      "url": "https://open.spotify.com/track/4qK81tn4abwqZLcohf2dXx"
     },
     {
       "album": {

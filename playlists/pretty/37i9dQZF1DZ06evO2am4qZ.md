@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 
 > This is Baby Tate\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,072 likes - 51 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,074 likes - 51 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 | 50 | [Let It Rain \(feat\. 6lack\)](https://open.spotify.com/track/59Vf2uyRLPrVqXkCKRhyjE) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [After The Rain](https://open.spotify.com/album/0ne4ND8fxiwMDH8OK0sAn6) | 3:06 |
 | 51 | [What's Love](https://open.spotify.com/track/7mu9vxVH3VJVvSGepIay0q) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [What's Love / Sl\*t Him Out](https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9) | 4:10 |
 
-Snapshot ID: `MjgwNDE5MzAsMDAwMDAwMDAzNjJjZmVjMDliMGY5YjI0NTdjN2ZlNzE0NTRhNTdkZg==`
+Snapshot ID: `MjgwNDMzMjAsMDAwMDAwMDAwNWM5YWZiZTMwMjQ1ZDhmNGIzOTAzZWE1NmM4OGI0YQ==`

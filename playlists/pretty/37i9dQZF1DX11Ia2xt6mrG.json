@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Mr. Pig en portada.",
-  "num_followers": 54289,
+  "num_followers": 54294,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQzNTQyNCwwMDAwMDAwMGNjMWExMjMwZTVjMzQ5YTAwOWFlNTU4YjM4YmMzYWVh",
+  "snapshot_id": "MCwwZGRhYWRlMmIxNDc3ZjZkZDVkODY1ZGQ5NDMwYTBmZmNhYzZkMWE0",
   "tracks": [
     {
       "added_at": "2023-02-28 03:47:10",
@@ -153,6 +153,22 @@
       "url": "https://open.spotify.com/track/6FdTVq8ly0NVSli7Xl9z2p"
     },
     {
+      "added_at": "2023-03-14 03:54:47",
+      "album": {
+        "name": "Lunar Spirits",
+        "url": "https://open.spotify.com/album/7gZaCDSfzWTxJ0arszwSI0"
+      },
+      "artists": [
+        {
+          "name": "Can\u00f8",
+          "url": "https://open.spotify.com/artist/61y7GkU4OOPseS05owEXtL"
+        }
+      ],
+      "duration_ms": 399677,
+      "name": "Lunar Spirits",
+      "url": "https://open.spotify.com/track/26TzE87XsAR0zd9SkruqxB"
+    },
+    {
       "added_at": "2022-08-02 18:48:01",
       "album": {
         "name": "Lunita (J.Pool Remix)",
@@ -171,22 +187,6 @@
       "duration_ms": 380878,
       "name": "Lunita - J.Pool Remix",
       "url": "https://open.spotify.com/track/4jeBHPvew0cmOwkBplcZcH"
-    },
-    {
-      "added_at": "2023-03-14 03:54:47",
-      "album": {
-        "name": "Lunar Spirits",
-        "url": "https://open.spotify.com/album/7gZaCDSfzWTxJ0arszwSI0"
-      },
-      "artists": [
-        {
-          "name": "Can\u00f8",
-          "url": "https://open.spotify.com/artist/61y7GkU4OOPseS05owEXtL"
-        }
-      ],
-      "duration_ms": 399677,
-      "name": "Lunar Spirits",
-      "url": "https://open.spotify.com/track/26TzE87XsAR0zd9SkruqxB"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -433,20 +433,20 @@
       "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
     },
     {
-      "added_at": "2022-12-16 01:54:16",
+      "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Amanece",
-        "url": "https://open.spotify.com/album/0MQWqKc8nJ1rmrmQFZx8a8"
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/4ziNF7cZ5W49BUHBNLyB1f"
       },
       "artists": [
         {
-          "name": "Plano",
-          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
+          "name": "Iker Azcu\u00e9",
+          "url": "https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp"
         }
       ],
-      "duration_ms": 332560,
-      "name": "Amanece",
-      "url": "https://open.spotify.com/track/6HKuxsAa6tCoIcBi8pCsZe"
+      "duration_ms": 171707,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/2QFiBCEWlCAjMeuqC4Qmbb"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -469,20 +469,20 @@
       "url": "https://open.spotify.com/track/6yAGKyOvFquLOnrM75re5N"
     },
     {
-      "added_at": "2022-08-02 18:48:01",
+      "added_at": "2022-12-16 01:54:16",
       "album": {
-        "name": "Back To You",
-        "url": "https://open.spotify.com/album/4ziNF7cZ5W49BUHBNLyB1f"
+        "name": "Amanece",
+        "url": "https://open.spotify.com/album/0MQWqKc8nJ1rmrmQFZx8a8"
       },
       "artists": [
         {
-          "name": "Iker Azcu\u00e9",
-          "url": "https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp"
+          "name": "Plano",
+          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
         }
       ],
-      "duration_ms": 171707,
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/2QFiBCEWlCAjMeuqC4Qmbb"
+      "duration_ms": 332560,
+      "name": "Amanece",
+      "url": "https://open.spotify.com/track/6HKuxsAa6tCoIcBi8pCsZe"
     },
     {
       "added_at": "2023-02-21 03:03:01",
@@ -551,30 +551,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Quem\u00e1",
-        "url": "https://open.spotify.com/album/5hKdaI14cybTq3muwkWHxB"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "Andrew Mathers",
-          "url": "https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0"
-        }
-      ],
-      "duration_ms": 149250,
-      "name": "Quem\u00e1",
-      "url": "https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Deep Lies",
         "url": "https://open.spotify.com/album/48n5az0Eky1MyA3LQMNRLz"
       },
@@ -599,6 +575,30 @@
       "duration_ms": 205460,
       "name": "Deep Lies",
       "url": "https://open.spotify.com/track/1uzLk7oQmjOcH1qtexmNXM"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Quem\u00e1",
+        "url": "https://open.spotify.com/album/5hKdaI14cybTq3muwkWHxB"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "Andrew Mathers",
+          "url": "https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0"
+        }
+      ],
+      "duration_ms": 149250,
+      "name": "Quem\u00e1",
+      "url": "https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -735,8 +735,8 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Scare",
-        "url": "https://open.spotify.com/album/6BPhjXdUpmMAOkJSCqelmC"
+        "name": "SWAP",
+        "url": "https://open.spotify.com/album/79zRxuTTkqE9NexZ9ds3LH"
       },
       "artists": [
         {
@@ -744,17 +744,13 @@
           "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
         },
         {
-          "name": "Gerard Butler",
-          "url": "https://open.spotify.com/artist/7H25O93TTUoaZ0ZaFk318U"
-        },
-        {
           "name": "S & L",
           "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Scare",
-      "url": "https://open.spotify.com/track/6XGF8hGFGgbr7rzCwpRRLd"
+      "duration_ms": 153750,
+      "name": "SWAP",
+      "url": "https://open.spotify.com/track/2xfHRGswktlqJTfgccrZW4"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -887,6 +883,22 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
+        "name": "Give Me Your Heart (Somos Uno)",
+        "url": "https://open.spotify.com/album/5lg33u4vnAOXOobeLNqyR1"
+      },
+      "artists": [
+        {
+          "name": "Sisster",
+          "url": "https://open.spotify.com/artist/6d7Gn9vZrwwN9gBnKHzdzF"
+        }
+      ],
+      "duration_ms": 209267,
+      "name": "Give Me Your Heart (Somos Uno)",
+      "url": "https://open.spotify.com/track/4EHJhHKvitOo3ULmIzt4hx"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
         "name": "Time (feat. Alexia Langis)",
         "url": "https://open.spotify.com/album/4SElNkH0p7XWGmRZSNoDsi"
       },
@@ -935,18 +947,26 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Give Me Your Heart (Somos Uno)",
-        "url": "https://open.spotify.com/album/5lg33u4vnAOXOobeLNqyR1"
+        "name": "Scare",
+        "url": "https://open.spotify.com/album/6BPhjXdUpmMAOkJSCqelmC"
       },
       "artists": [
         {
-          "name": "Sisster",
-          "url": "https://open.spotify.com/artist/6d7Gn9vZrwwN9gBnKHzdzF"
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+        },
+        {
+          "name": "Gerard Butler",
+          "url": "https://open.spotify.com/artist/7H25O93TTUoaZ0ZaFk318U"
+        },
+        {
+          "name": "S & L",
+          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
         }
       ],
-      "duration_ms": 209267,
-      "name": "Give Me Your Heart (Somos Uno)",
-      "url": "https://open.spotify.com/track/4EHJhHKvitOo3ULmIzt4hx"
+      "duration_ms": 204000,
+      "name": "Scare",
+      "url": "https://open.spotify.com/track/6XGF8hGFGgbr7rzCwpRRLd"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -967,26 +987,6 @@
       "duration_ms": 181726,
       "name": "No Vas A Volver",
       "url": "https://open.spotify.com/track/3GxgAU7u9bwmfnaIWvk57p"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "SWAP",
-        "url": "https://open.spotify.com/album/79zRxuTTkqE9NexZ9ds3LH"
-      },
-      "artists": [
-        {
-          "name": "SAMMY & LESEN",
-          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
-        },
-        {
-          "name": "S & L",
-          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "SWAP",
-      "url": "https://open.spotify.com/track/2xfHRGswktlqJTfgccrZW4"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1021,24 +1021,20 @@
       "url": "https://open.spotify.com/track/6AUlcDivRD0L1EbeljUoLr"
     },
     {
-      "added_at": "2022-08-02 18:48:01",
+      "added_at": "2023-01-07 03:40:04",
       "album": {
-        "name": "Covalent Bond",
-        "url": "https://open.spotify.com/album/5jZ5hLf3m4UenDBUFjfsNK"
+        "name": "ENCORE",
+        "url": "https://open.spotify.com/album/2yTFKloSOxRQA29lkcqTiT"
       },
       "artists": [
         {
-          "name": "Erick T",
-          "url": "https://open.spotify.com/artist/0oL2gjYOTpcRB9aFqFMLw0"
-        },
-        {
-          "name": "The Second Wave",
-          "url": "https://open.spotify.com/artist/7IFy6bk5Xwsf0f58o1al0o"
+          "name": "SANTO BEATS",
+          "url": "https://open.spotify.com/artist/7DqK1Dh8pT3MLdsf9Nomml"
         }
       ],
-      "duration_ms": 159359,
-      "name": "Covalent Bond",
-      "url": "https://open.spotify.com/track/2TZLm2KyyWHlNhyFXAhvCK"
+      "duration_ms": 121937,
+      "name": "FUEL",
+      "url": "https://open.spotify.com/track/04IaS7b2qlJGviIMQDJm2A"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1061,20 +1057,24 @@
       "url": "https://open.spotify.com/track/0F5rIeJwd3hEUELOAPGvV4"
     },
     {
-      "added_at": "2023-01-07 03:40:04",
+      "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "ENCORE",
-        "url": "https://open.spotify.com/album/2yTFKloSOxRQA29lkcqTiT"
+        "name": "Covalent Bond",
+        "url": "https://open.spotify.com/album/5jZ5hLf3m4UenDBUFjfsNK"
       },
       "artists": [
         {
-          "name": "SANTO BEATS",
-          "url": "https://open.spotify.com/artist/7DqK1Dh8pT3MLdsf9Nomml"
+          "name": "Erick T",
+          "url": "https://open.spotify.com/artist/0oL2gjYOTpcRB9aFqFMLw0"
+        },
+        {
+          "name": "The Second Wave",
+          "url": "https://open.spotify.com/artist/7IFy6bk5Xwsf0f58o1al0o"
         }
       ],
-      "duration_ms": 121937,
-      "name": "FUEL",
-      "url": "https://open.spotify.com/track/04IaS7b2qlJGviIMQDJm2A"
+      "duration_ms": 159359,
+      "name": "Covalent Bond",
+      "url": "https://open.spotify.com/track/2TZLm2KyyWHlNhyFXAhvCK"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "DiabloTeam (The Night After)",
-        "url": "https://open.spotify.com/album/5sJ3mPiyNF1H8H0wMCRf2Y"
-      },
-      "artists": [
-        {
-          "name": "Dapuntobeat",
-          "url": "https://open.spotify.com/artist/1V45Te1AQmLsqtRGylNLKs"
-        }
-      ],
-      "duration_ms": 290483,
-      "name": "DiabloTeam (The Night After)",
-      "url": "https://open.spotify.com/track/5EWYl7g5Kr1dMY6fpRApbh"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "I Saw You",
         "url": "https://open.spotify.com/album/4gxbyW1dpyW55B5YxRzw8w"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 228923,
       "name": "I Saw You",
       "url": "https://open.spotify.com/track/0S7Z61F0tievPImUOKNnXy"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "DiabloTeam (The Night After)",
+        "url": "https://open.spotify.com/album/5sJ3mPiyNF1H8H0wMCRf2Y"
+      },
+      "artists": [
+        {
+          "name": "Dapuntobeat",
+          "url": "https://open.spotify.com/artist/1V45Te1AQmLsqtRGylNLKs"
+        }
+      ],
+      "duration_ms": 290483,
+      "name": "DiabloTeam (The Night After)",
+      "url": "https://open.spotify.com/track/5EWYl7g5Kr1dMY6fpRApbh"
     },
     {
       "added_at": "2022-08-02 18:48:01",

@@ -1,12 +1,12 @@
 {
   "description": "2011 highlights from the home of indie music.",
-  "num_followers": 88160,
+  "num_followers": 88292,
   "original_name": "Best of Indie 2011",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0NCwwMDAwMDAwMDY4MDg5ODMxZjI2ZTRmYWYwNTA1ZjRkZjcyNmE4NWNl",
+  "snapshot_id": "MCwyMjhjODg3ZjNlYzY2ODJmOTQ1ZjY4NmE4NDA2YTA0Zjc4NzA2Y2Ez",
   "tracks": [
     {
       "added_at": "2021-09-02 08:15:11",
@@ -379,22 +379,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 259120,
-      "name": "Lost in My Mind",
-      "url": "https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "The Oh Hellos EP",
         "url": "https://open.spotify.com/album/4W1OKkOGiLJdfOCz4JQp1W"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 256006,
       "name": "Hello My Old Heart",
       "url": "https://open.spotify.com/track/66MXa8qDIQRtwuxuNtjNCu"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 259120,
+      "name": "Lost in My Mind",
+      "url": "https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -603,22 +603,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Last Night On Earth",
-        "url": "https://open.spotify.com/album/2BAYuyT9kP620VgwpowIQK"
-      },
-      "artists": [
-        {
-          "name": "Noah And The Whale",
-          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "L.I.F.E.G.O.E.S.O.N.",
-      "url": "https://open.spotify.com/track/6y468DyY1V67RBNCwzrMrC"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "The Head And The Heart",
         "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 303653,
       "name": "Down in the Valley",
       "url": "https://open.spotify.com/track/7IcKs2XXHnQBtBJtzEyqqS"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Last Night On Earth",
+        "url": "https://open.spotify.com/album/2BAYuyT9kP620VgwpowIQK"
+      },
+      "artists": [
+        {
+          "name": "Noah And The Whale",
+          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "L.I.F.E.G.O.E.S.O.N.",
+      "url": "https://open.spotify.com/track/6y468DyY1V67RBNCwzrMrC"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -715,22 +715,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Nine Types of Light",
-        "url": "https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV"
-      },
-      "artists": [
-        {
-          "name": "TV On The Radio",
-          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
-        }
-      ],
-      "duration_ms": 224986,
-      "name": "Will Do",
-      "url": "https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "On the Water",
         "url": "https://open.spotify.com/album/6jP0e39bcK8jrfc1Tg0rVk"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 246426,
       "name": "Balance",
       "url": "https://open.spotify.com/track/5waH4K1bmTMlikre01uqKi"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Nine Types of Light",
+        "url": "https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV"
+      },
+      "artists": [
+        {
+          "name": "TV On The Radio",
+          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+        }
+      ],
+      "duration_ms": 224986,
+      "name": "Will Do",
+      "url": "https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -763,22 +763,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Never Trust a Happy Song",
-        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 257786,
-      "name": "Colours",
-      "url": "https://open.spotify.com/track/6gSKswfcoWvaadqvuMF3Y7"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Megalithic Symphony",
         "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "The English Riviera",
-        "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
+        "name": "Never Trust a Happy Song",
+        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
       },
       "artists": [
         {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
         }
       ],
-      "duration_ms": 210080,
-      "name": "Everything Goes My Way",
-      "url": "https://open.spotify.com/track/67wcAJeaNwGm0fcB4HzzYm"
+      "duration_ms": 257786,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/6gSKswfcoWvaadqvuMF3Y7"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -823,6 +807,22 @@
       "duration_ms": 254386,
       "name": "Santa Fe",
       "url": "https://open.spotify.com/track/2bxQP85JNU11CQV4KXCnau"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "The English Riviera",
+        "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "duration_ms": 210080,
+      "name": "Everything Goes My Way",
+      "url": "https://open.spotify.com/track/67wcAJeaNwGm0fcB4HzzYm"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Bon Iver",
-        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 232440,
-      "name": "Minnesota, WI",
-      "url": "https://open.spotify.com/track/6dmqnKIOvBfqjP317AT2tT"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "BTSTU (Edit)",
         "url": "https://open.spotify.com/album/1y2SUIU3BjdIsBsdTRJtBe"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 209493,
       "name": "BTSTU - Edit",
       "url": "https://open.spotify.com/track/5hqVCLyCQJA24IupqEEmvL"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 232440,
+      "name": "Minnesota, WI",
+      "url": "https://open.spotify.com/track/6dmqnKIOvBfqjP317AT2tT"
     },
     {
       "added_at": "2021-09-02 08:15:11",

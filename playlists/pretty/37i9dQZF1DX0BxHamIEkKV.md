@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BxHamIEkKV.md) - [plain]
 
 > Smart, engaging podcasts that go beyond the headlines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,702 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 25,700 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MTYxNDAxMTgxMSwwMDAwMDAwMGJjMDQ4MTNlMTAyZWQ5ZmMyYWJhOTYzYTk2YzZhMGQw`
+Snapshot ID: `MCwzNTEyOTZiNTJkNjE2YzBlOTc4Y2M0Y2RiMGRkNmIxZDI4MGVmYzkz`

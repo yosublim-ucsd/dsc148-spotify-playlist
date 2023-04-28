@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 
 > This is Patoranking\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,569 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,572 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 24 | [Sing My Name \(feat\. Patoranking\)](https://open.spotify.com/track/49ON6nzE795sVqUQ0o01l2) | [MzVee](https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Sing My Name \(feat\. Patoranking\)](https://open.spotify.com/album/54wYyB89BpQsUSsNv87zdb) | 3:34 |
 | 25 | [Together](https://open.spotify.com/track/0X425kX0UGmBnmrzsZlztm) | [Rudeboy](https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Together](https://open.spotify.com/album/5y6mPZFSHQbPx4j8qVGng2) | 4:12 |
 | 26 | [Feelings \- A COLORS SHOW](https://open.spotify.com/track/6pM36Gc15BBIwefH7Zy4GI) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Feelings \- A COLORS SHOW](https://open.spotify.com/album/5LJvUFehOgLrzRpDzMAH9o) | 3:26 |
-| 27 | [Is It Because I Love You](https://open.spotify.com/track/2AdSFvM8oRvXkL7y0HqP7r) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Yagi](https://open.spotify.com/album/4dH19g7BC3ric2uEAGgEcv) | 3:54 |
-| 28 | [Love Town](https://open.spotify.com/track/2xcjNO0DriNFkGhKihOIcZ) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [God Over Everything](https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R) | 3:22 |
+| 27 | [Love Town](https://open.spotify.com/track/2xcjNO0DriNFkGhKihOIcZ) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [God Over Everything](https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R) | 3:22 |
+| 28 | [Is It Because I Love You](https://open.spotify.com/track/2AdSFvM8oRvXkL7y0HqP7r) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Yagi](https://open.spotify.com/album/4dH19g7BC3ric2uEAGgEcv) | 3:54 |
 | 29 | [Yo Body](https://open.spotify.com/track/7gw2JZuedwF7jQEaoG8vPP) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Three](https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K) | 3:09 |
 | 30 | [Confirm \(feat\. Davido\)](https://open.spotify.com/track/2J7gUMdczimfHm5gSDn3Hz) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Confirm \(feat\. Davido\)](https://open.spotify.com/album/3e9N0u3qAe6273h949AsFy) | 3:49 |
 | 31 | [After Party](https://open.spotify.com/track/2mgcd1yyXVz0mMvFE9yCGo) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [After Party](https://open.spotify.com/album/7A5sOBdTQwFUlE3D0JbIVB) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 49 | [Happy Day](https://open.spotify.com/track/2SWqkpJmHPnLFaEf4HW7xr) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Happy Day](https://open.spotify.com/album/34hT5nhS00WwzxLY9IhbUD) | 4:20 |
 | 50 | [Open Fire \(feat\. Busiswa\)](https://open.spotify.com/track/00X3BV84d52AMLuHC3bjvY) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Busiswa](https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7) | [Wilmer](https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc) | 3:46 |
 
-Snapshot ID: `MjgwNDE5MzAsMDAwMDAwMDA0MDA5MjQ0YWE4NjdlMTIyNDUwOWZiMzQ0Njc1ZDY1Zg==`
+Snapshot ID: `MjgwNDMzMjAsMDAwMDAwMDBkOTUzMDFlOWFmMGNmNGE5NmM2MmVhNzEyNzczZmI1ZA==`

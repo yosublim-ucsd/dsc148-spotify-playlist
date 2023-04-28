@@ -1,12 +1,12 @@
 {
   "description": "2015 highlights from the home of indie music.",
-  "num_followers": 44992,
+  "num_followers": 45050,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTIxOTg5NiwwMDAwMDAwMDVkYWJhMzVhNGUyNjE2NDAxNTY4NjNjZDVhOGQzOWIw",
+  "snapshot_id": "MCw5MWZmNDM4Mjk4MzNlMmI4NzQ2YzFiNmFjMDAwZjA5MzQzMjY5MjQz",
   "tracks": [
     {
       "added_at": "2021-09-14 05:14:45",
@@ -899,22 +899,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Strangers to Ourselves",
-        "url": "https://open.spotify.com/album/6iKqPv9C5oU29LR82N8lJf"
-      },
-      "artists": [
-        {
-          "name": "Modest Mouse",
-          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
-        }
-      ],
-      "duration_ms": 187720,
-      "name": "Lampshades on Fire",
-      "url": "https://open.spotify.com/track/5jJ69cMDMC0aeWPjZo6VP2"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "I Love You, Honeybear",
         "url": "https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 170826,
       "name": "Chateau Lobby #4 (in C for Two Virgins)",
       "url": "https://open.spotify.com/track/3wfF0Nw234zHY1vdIWIc2g"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Strangers to Ourselves",
+        "url": "https://open.spotify.com/album/6iKqPv9C5oU29LR82N8lJf"
+      },
+      "artists": [
+        {
+          "name": "Modest Mouse",
+          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "duration_ms": 187720,
+      "name": "Lampshades on Fire",
+      "url": "https://open.spotify.com/track/5jJ69cMDMC0aeWPjZo6VP2"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -979,22 +979,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Sound & Color (Deluxe)",
-        "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 182466,
-      "name": "Sound & Color",
-      "url": "https://open.spotify.com/track/26HaY4D7AV0gVxmkz11bIz"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
         "url": "https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 233769,
       "name": "Clearest Blue",
       "url": "https://open.spotify.com/track/7LvgXDcFRcu9zgWfZm65H0"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Sound & Color (Deluxe)",
+        "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 182466,
+      "name": "Sound & Color",
+      "url": "https://open.spotify.com/track/26HaY4D7AV0gVxmkz11bIz"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Peripheral Vision",
-        "url": "https://open.spotify.com/album/5On8s1irA6JETiDvt2VUy7"
-      },
-      "artists": [
-        {
-          "name": "Turnover",
-          "url": "https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52"
-        }
-      ],
-      "duration_ms": 195984,
-      "name": "Cutting My Fingers Off",
-      "url": "https://open.spotify.com/track/0Wl2RALqRacaIJhnlRHK8J"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
         "url": "https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 222040,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/5hRzAbY2AAO258hL6oqsqO"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Peripheral Vision",
+        "url": "https://open.spotify.com/album/5On8s1irA6JETiDvt2VUy7"
+      },
+      "artists": [
+        {
+          "name": "Turnover",
+          "url": "https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52"
+        }
+      ],
+      "duration_ms": 195984,
+      "name": "Cutting My Fingers Off",
+      "url": "https://open.spotify.com/track/0Wl2RALqRacaIJhnlRHK8J"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Sound & Color (Deluxe)",
-        "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 232530,
-      "name": "Don't Wanna Fight",
-      "url": "https://open.spotify.com/track/4gm6JpO3YOcogcjdtPqHWK"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "In Colour",
         "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 283066,
       "name": "Loud Places",
       "url": "https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Sound & Color (Deluxe)",
+        "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 232530,
+      "name": "Don't Wanna Fight",
+      "url": "https://open.spotify.com/track/4gm6JpO3YOcogcjdtPqHWK"
     },
     {
       "added_at": "2021-09-14 05:14:45",

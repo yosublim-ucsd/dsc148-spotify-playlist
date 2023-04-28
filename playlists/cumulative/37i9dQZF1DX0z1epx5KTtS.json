@@ -744,7 +744,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 220500,
       "name": "D\u00e9bordement",
       "url": "https://open.spotify.com/track/1O5ZMazV82oegjqaXrphT5"
@@ -868,7 +868,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 196533,
       "name": "Gb\u00eass\u00ea",
       "url": "https://open.spotify.com/track/4HnSuaffFKg2FveLpOubAr"
@@ -948,10 +948,28 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 232933,
       "name": "Goumin",
       "url": "https://open.spotify.com/track/0s8ImFfo5vmtAnGDo426ZV"
+    },
+    {
+      "album": {
+        "name": "Grimper",
+        "url": "https://open.spotify.com/album/0CBbnnVg6MP4rtmHH8ocBf"
+      },
+      "artists": [
+        {
+          "name": "Renard Barakissa",
+          "url": "https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197511,
+      "name": "Grimper",
+      "url": "https://open.spotify.com/track/1MhIUr4BPM6djNmuyIRmFm"
     },
     {
       "album": {
@@ -1010,6 +1028,24 @@
       "duration_ms": 238504,
       "name": "Ils n'ont pas cru",
       "url": "https://open.spotify.com/track/4NmG4x6MnVtv1SPDYkYf7b"
+    },
+    {
+      "album": {
+        "name": "Ils Sont O\u00f9?",
+        "url": "https://open.spotify.com/album/03HpoLkthTOHlr8pLLD42l"
+      },
+      "artists": [
+        {
+          "name": "Safarel Obiang",
+          "url": "https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212845,
+      "name": "Ils Sont O\u00f9?",
+      "url": "https://open.spotify.com/track/3uNyP0B7IietcPg91GXqAT"
     },
     {
       "album": {
@@ -1676,6 +1712,24 @@
       "duration_ms": 248000,
       "name": "Nanakafra",
       "url": "https://open.spotify.com/track/5xeXI8AUH8HOD67jVqAczp"
+    },
+    {
+      "album": {
+        "name": "O'cho",
+        "url": "https://open.spotify.com/album/3MmFDejF43RBq4ZepgixWM"
+      },
+      "artists": [
+        {
+          "name": "Fior 2 Bior",
+          "url": "https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195134,
+      "name": "O'cho",
+      "url": "https://open.spotify.com/track/4VJhgXDBohg0UXEzTFM0NW"
     },
     {
       "album": {

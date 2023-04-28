@@ -288,7 +288,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 199796,
       "name": "Angels & Queens",
       "url": "https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO"
@@ -3442,6 +3442,28 @@
       "duration_ms": 149890,
       "name": "Show & Prove",
       "url": "https://open.spotify.com/track/449FBzMELJSNmcZOhobcyq"
+    },
+    {
+      "album": {
+        "name": "Show Her The Way",
+        "url": "https://open.spotify.com/album/5l7H2sueEPAHGGly08PkJS"
+      },
+      "artists": [
+        {
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        },
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242431,
+      "name": "Show Her The Way",
+      "url": "https://open.spotify.com/track/05JIFzIzIFqS9Gms1b4TUr"
     },
     {
       "album": {

@@ -1953,6 +1953,24 @@
     },
     {
       "album": {
+        "name": "Press\u00e1gio",
+        "url": "https://open.spotify.com/album/7LhUawCpzHAfH4MZ3zBLlb"
+      },
+      "artists": [
+        {
+          "name": "Marcio Philomena",
+          "url": "https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397571,
+      "name": "Press\u00e1gio",
+      "url": "https://open.spotify.com/track/5BdyZTa9TXXdLfOvvwhgGH"
+    },
+    {
+      "album": {
         "name": "Puxar Do Amor",
         "url": "https://open.spotify.com/album/3NA3vF96CZMerNw6J4hGAC"
       },
@@ -2148,6 +2166,24 @@
       "duration_ms": 171482,
       "name": "Serenidad",
       "url": "https://open.spotify.com/track/1AFomBCec7hQLhPhgouIpQ"
+    },
+    {
+      "album": {
+        "name": "Every Time We Say Goodbye",
+        "url": "https://open.spotify.com/album/40tqbMBeLUEkJsVN6VKJB0"
+      },
+      "artists": [
+        {
+          "name": "Yorkville",
+          "url": "https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213931,
+      "name": "So In Love",
+      "url": "https://open.spotify.com/track/2su3D4cHfobQLqFUdYc3xs"
     },
     {
       "album": {

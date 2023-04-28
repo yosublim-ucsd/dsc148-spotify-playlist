@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,521 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,532 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 | 99 | [Until I Met You](https://open.spotify.com/track/7uil4nygkuyV7Fnv3ujt7f) | [cleaveland jones](https://open.spotify.com/artist/0sCCnNKvvYWRFZqJQRoiqM) | [Heart & Sol](https://open.spotify.com/album/4vMxEkLHiF6ETEtqB85EmD) | 3:20 |
 | 100 | [Perpetual Conduit of Positivity](https://open.spotify.com/track/5Zx3OUrH7UjnDPkVGlQpnV) | [Mojoflo](https://open.spotify.com/artist/4aFQlnbkc73QGmqlw5N9ED) | [Perpetual Conduit of Positivity](https://open.spotify.com/album/2CQXUHTqVMPts2S6TxHQaC) | 5:51 |
 
-Snapshot ID: `MTY4MDg0MDA2MCwwMDAwMDAwMGY2NTFmNDMzMGZkODJjYjk2MzY5OWMzYzkyODFhNzU3`
+Snapshot ID: `MCwxNmI4NzMxOWQ3MWEyOTVlODRiNjFjODU4NTI3MmMxNzgxODYxYzA4`

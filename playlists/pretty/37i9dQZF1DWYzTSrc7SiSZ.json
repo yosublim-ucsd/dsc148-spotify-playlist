@@ -1,12 +1,12 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 654242,
+  "num_followers": 654321,
   "original_name": "Chill Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMDNlZGUxMmNiMzM1MDMzZGZhYTM1NzU1OGVkZGIxMmNi",
+  "snapshot_id": "MCw3ZmM0NTU1Mjk0ZGMzNmEyNzNhYTgzMjIwNmY0M2Q1YzJiNjkzYjNm",
   "tracks": [
     {
       "added_at": "2023-04-21 04:00:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Un D\u00eda A La Vez",
-        "url": "https://open.spotify.com/album/4kcxAdBocSXh8pz7fSqFXJ"
-      },
-      "artists": [
-        {
-          "name": "Mario Puglia",
-          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
-        }
-      ],
-      "duration_ms": 160106,
-      "name": "Eucalipto",
-      "url": "https://open.spotify.com/track/4JFZ0ilVg7CenXhnDcJb4u"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Siempre tengo sue\u00f1o",
         "url": "https://open.spotify.com/album/4yUFJKvE11HBabznJjKRt3"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 165909,
       "name": "Siempre tengo sue\u00f1o",
       "url": "https://open.spotify.com/track/7kE9OWd9b7mFOA9GUXVMpX"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Un D\u00eda A La Vez",
+        "url": "https://open.spotify.com/album/4kcxAdBocSXh8pz7fSqFXJ"
+      },
+      "artists": [
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        }
+      ],
+      "duration_ms": 160106,
+      "name": "Eucalipto",
+      "url": "https://open.spotify.com/track/4JFZ0ilVg7CenXhnDcJb4u"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Planeando Madrid",
-        "url": "https://open.spotify.com/album/6VdOHTCfGTHltUhXr7Nre7"
-      },
-      "artists": [
-        {
-          "name": "Gonza Silva",
-          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
-        }
-      ],
-      "duration_ms": 252736,
-      "name": "Planeando Madrid",
-      "url": "https://open.spotify.com/track/1pJ9wvdICdBrCB9M1VGEnc"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Mi Condena",
         "url": "https://open.spotify.com/album/34qk2J2dzqK6tgTxBZktuR"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 172319,
       "name": "Mi Condena",
       "url": "https://open.spotify.com/track/0UGxC1uqeDHBmAU4Pvd8xi"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Planeando Madrid",
+        "url": "https://open.spotify.com/album/6VdOHTCfGTHltUhXr7Nre7"
+      },
+      "artists": [
+        {
+          "name": "Gonza Silva",
+          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
+        }
+      ],
+      "duration_ms": 252736,
+      "name": "Planeando Madrid",
+      "url": "https://open.spotify.com/track/1pJ9wvdICdBrCB9M1VGEnc"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Canciones Que Hice en Mi Habitaci\u00f3n",
+        "url": "https://open.spotify.com/album/0RszZKHUVrUvtiaJZIVLcn"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Solo Me Quieres Cuando Est\u00e1s Triste",
+      "url": "https://open.spotify.com/track/3g8vUQKuz1k5FIxxASjyS1"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Toma Mi Mano",
         "url": "https://open.spotify.com/album/4RYwM9s2eKNtcj6ErnLirj"
       },
@@ -759,18 +775,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Canciones Que Hice en Mi Habitaci\u00f3n",
-        "url": "https://open.spotify.com/album/0RszZKHUVrUvtiaJZIVLcn"
+        "name": "Ya",
+        "url": "https://open.spotify.com/album/1Kk33rOeAVRk4VP0PuLIpA"
       },
       "artists": [
         {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+          "name": "Flavio",
+          "url": "https://open.spotify.com/artist/2PpQXJidwYjlmvUyyWqsxN"
+        },
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
         }
       ],
-      "duration_ms": 183000,
-      "name": "Solo Me Quieres Cuando Est\u00e1s Triste",
-      "url": "https://open.spotify.com/track/3g8vUQKuz1k5FIxxASjyS1"
+      "duration_ms": 197910,
+      "name": "Ya",
+      "url": "https://open.spotify.com/track/3WcZfSkqdtVbNYVw9IwAAT"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -835,26 +855,6 @@
       "duration_ms": 177391,
       "name": "el jardinero",
       "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Ya",
-        "url": "https://open.spotify.com/album/1Kk33rOeAVRk4VP0PuLIpA"
-      },
-      "artists": [
-        {
-          "name": "Flavio",
-          "url": "https://open.spotify.com/artist/2PpQXJidwYjlmvUyyWqsxN"
-        },
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 197910,
-      "name": "Ya",
-      "url": "https://open.spotify.com/track/3WcZfSkqdtVbNYVw9IwAAT"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -971,26 +971,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "I Fell In Love",
-        "url": "https://open.spotify.com/album/4rT4HtEqudtBqg1tqa25Vw"
-      },
-      "artists": [
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        },
-        {
-          "name": "Xenia Rubinos",
-          "url": "https://open.spotify.com/artist/17UUkxLWmRP5P47W5kwVVb"
-        }
-      ],
-      "duration_ms": 260186,
-      "name": "I Fell in Love",
-      "url": "https://open.spotify.com/track/39hJ5R7L6AvL4DyApOPRmH"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "fr\u00edo",
         "url": "https://open.spotify.com/album/1KNTUzCpkgLV9v7lgHdPmT"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 278490,
       "name": "fr\u00edo",
       "url": "https://open.spotify.com/track/0V6H31xM6WbPL1Bjsiqplx"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "I Fell In Love",
+        "url": "https://open.spotify.com/album/4rT4HtEqudtBqg1tqa25Vw"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        },
+        {
+          "name": "Xenia Rubinos",
+          "url": "https://open.spotify.com/artist/17UUkxLWmRP5P47W5kwVVb"
+        }
+      ],
+      "duration_ms": 260186,
+      "name": "I Fell in Love",
+      "url": "https://open.spotify.com/track/39hJ5R7L6AvL4DyApOPRmH"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Paola",
-          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
-        }
-      ],
-      "duration_ms": 187649,
-      "name": "M\u00e1s",
-      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "UNA LUZ",
         "url": "https://open.spotify.com/album/6JXgkVDyf9IFhyfn1TGNSY"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 127275,
       "name": "UNA LUZ",
       "url": "https://open.spotify.com/track/1c3qAaZrwvcTHHOL8XrHLJ"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Paola",
+          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
+        }
+      ],
+      "duration_ms": 187649,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Paralizado",
-        "url": "https://open.spotify.com/album/2MdDdIH9TlOkMeQztj5rLa"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Paralizado",
-      "url": "https://open.spotify.com/track/1FEYsHYeKFrNzWm6R3OM30"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Conf\u00eden En M\u00ed",
         "url": "https://open.spotify.com/album/3Zh7CHXu7JfbaRThiXjfDy"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 108586,
       "name": "No Eres T\u00fa, Soy Yo",
       "url": "https://open.spotify.com/track/0yyXYlCgvoiKjm9T7k23q1"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Paralizado",
+        "url": "https://open.spotify.com/album/2MdDdIH9TlOkMeQztj5rLa"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 187933,
+      "name": "Paralizado",
+      "url": "https://open.spotify.com/track/1FEYsHYeKFrNzWm6R3OM30"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Visa",
-        "url": "https://open.spotify.com/album/3d77pCQ3luC9ZkqQZhE45o"
-      },
-      "artists": [
-        {
-          "name": "Noreh",
-          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
-        }
-      ],
-      "duration_ms": 187386,
-      "name": "Visa",
-      "url": "https://open.spotify.com/track/0LpaAAP3MhLIX28nJGKAvd"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Soy capaz",
         "url": "https://open.spotify.com/album/0iRDEkUzhawgH0wKfIW5iT"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 205452,
       "name": "Soy capaz",
       "url": "https://open.spotify.com/track/1fW4YuVGQWPxDRh7mH2JYF"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Visa",
+        "url": "https://open.spotify.com/album/3d77pCQ3luC9ZkqQZhE45o"
+      },
+      "artists": [
+        {
+          "name": "Noreh",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        }
+      ],
+      "duration_ms": 187386,
+      "name": "Visa",
+      "url": "https://open.spotify.com/track/0LpaAAP3MhLIX28nJGKAvd"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Amsterdam (Versi\u00f3n En Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 237518,
-      "name": "Amsterdam - Versi\u00f3n En Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Qu\u00e9 Dulce",
         "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 133666,
       "name": "Qu\u00e9 Dulce",
       "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Amsterdam (Versi\u00f3n En Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 237518,
+      "name": "Amsterdam - Versi\u00f3n En Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1399,6 +1399,38 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "No Te Pude Soltar",
+        "url": "https://open.spotify.com/album/4YJJwMucL3nteBymNw1cc4"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 164683,
+      "name": "No Te Pude Soltar",
+      "url": "https://open.spotify.com/track/6b8FXDatwJCnc5jZ4RfMz8"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Guitarra",
         "url": "https://open.spotify.com/album/4jwMD9PMiLkb0tkDnv1cZn"
       },
@@ -1435,54 +1467,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Somos Nada",
-        "url": "https://open.spotify.com/album/5m1jCoLncBreQFQOaUK3Zl"
-      },
-      "artists": [
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Somos Nada",
-      "url": "https://open.spotify.com/track/4PjP5gxDF09ceeiOPx4POn"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "No Te Pude Soltar",
-        "url": "https://open.spotify.com/album/4YJJwMucL3nteBymNw1cc4"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 164683,
-      "name": "No Te Pude Soltar",
-      "url": "https://open.spotify.com/track/6b8FXDatwJCnc5jZ4RfMz8"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "no est\u00e1s",
         "url": "https://open.spotify.com/album/7CBHvoGmfRDfC9lqFUIeFc"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 164369,
       "name": "no est\u00e1s",
       "url": "https://open.spotify.com/track/7itgLKp7i4CmGi0FglXcbP"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Somos Nada",
+        "url": "https://open.spotify.com/album/5m1jCoLncBreQFQOaUK3Zl"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Somos Nada",
+      "url": "https://open.spotify.com/track/4PjP5gxDF09ceeiOPx4POn"
     },
     {
       "added_at": "2023-04-21 04:00:00",

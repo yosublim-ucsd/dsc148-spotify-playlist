@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > eu so qria um mozinho p tatuar minha digital no braço q sacoooooooooooo eh pedir mto sabe????
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,038,477 likes - 65 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,039,383 likes - 65 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 64 | [No Ouvidinho](https://open.spotify.com/track/4QWumyD2uwiePBBha9XBHI) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [No Ouvidinho](https://open.spotify.com/album/4Ljc7jLwnwltjgugXbGOoq) | 3:03 |
 | 65 | [Balanço da Rede](https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Balanço da Rede](https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP) | 2:46 |
 
-Snapshot ID: `MTY4MjUzMjEyOCwwMDAwMDAwMGYxN2I5ZTNlMTEwYjE3Y2I4YmQ5NDVkMmY2Mzk0NjM2`
+Snapshot ID: `MCwyNzE1YWQ0MThiODQ0ZDc3M2ZlZWQ0OTFkYjM5YTJmMmU5ODk4ODE5`

@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS!! Cover: Brothers Osborne\n",
-  "num_followers": 538948,
+  "num_followers": 539281,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA4ODMzMiwwMDAwMDAwMDIwZjlhYzNlOWI1NjVkMTk4NDc2ZGJiMzRiOTUwZDA5",
+  "snapshot_id": "MCw0MTZhNDUzNTAwYjcwZTkyMjZkMzc2YmUxZWUwYzAxNTliY2NlYzli",
   "tracks": [
     {
       "added_at": "2023-04-21 14:45:32",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-04-21 14:45:32",
       "album": {
-        "name": "Jackson Dean",
-        "url": "https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp"
-      },
-      "artists": [
-        {
-          "name": "Jackson Dean",
-          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
-        }
-      ],
-      "duration_ms": 187957,
-      "name": "Don't Come Lookin'",
-      "url": "https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV"
-    },
-    {
-      "added_at": "2023-04-21 14:45:32",
-      "album": {
         "name": "Anything Goes",
         "url": "https://open.spotify.com/album/5NG7WZaCZZ12M5LJm0JcVc"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 230586,
       "name": "Dirt",
       "url": "https://open.spotify.com/track/5CXnIPD6rTjszYYQm6fY2P"
+    },
+    {
+      "added_at": "2023-04-21 14:45:32",
+      "album": {
+        "name": "Jackson Dean",
+        "url": "https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp"
+      },
+      "artists": [
+        {
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+        }
+      ],
+      "duration_ms": 187957,
+      "name": "Don't Come Lookin'",
+      "url": "https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV"
     },
     {
       "added_at": "2023-04-21 14:45:32",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-04-21 14:45:32",
       "album": {
-        "name": "Black Powder Soul",
-        "url": "https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy"
-      },
-      "artists": [
-        {
-          "name": "Taylor McCall",
-          "url": "https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT"
-        }
-      ],
-      "duration_ms": 216153,
-      "name": "Black Powder Soul",
-      "url": "https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe"
-    },
-    {
-      "added_at": "2023-04-21 14:45:32",
-      "album": {
         "name": "Meat and Candy",
         "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 208480,
       "name": "Wrong Turns",
       "url": "https://open.spotify.com/track/74uXfGRDayyx7UIV1irrhK"
+    },
+    {
+      "added_at": "2023-04-21 14:45:32",
+      "album": {
+        "name": "Black Powder Soul",
+        "url": "https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy"
+      },
+      "artists": [
+        {
+          "name": "Taylor McCall",
+          "url": "https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT"
+        }
+      ],
+      "duration_ms": 216153,
+      "name": "Black Powder Soul",
+      "url": "https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe"
     },
     {
       "added_at": "2023-04-21 14:45:32",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-04-21 14:45:32",
       "album": {
-        "name": "Hurt No More",
-        "url": "https://open.spotify.com/album/2XYMwjnmcRzpGAPmJQrQyG"
-      },
-      "artists": [
-        {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
-        }
-      ],
-      "duration_ms": 214582,
-      "name": "Hurt No More",
-      "url": "https://open.spotify.com/track/3qJ5OBunIPNIvU4WAI6RYh"
-    },
-    {
-      "added_at": "2023-04-21 14:45:32",
-      "album": {
         "name": "Find a Light",
         "url": "https://open.spotify.com/album/3l5leCt5ddRcUmcQvx1KG7"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 225165,
       "name": "Till the Wheels Fall Off",
       "url": "https://open.spotify.com/track/5jsFP9UeOXngDEslmUVozc"
+    },
+    {
+      "added_at": "2023-04-21 14:45:32",
+      "album": {
+        "name": "Hurt No More",
+        "url": "https://open.spotify.com/album/2XYMwjnmcRzpGAPmJQrQyG"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "duration_ms": 214582,
+      "name": "Hurt No More",
+      "url": "https://open.spotify.com/track/3qJ5OBunIPNIvU4WAI6RYh"
     },
     {
       "added_at": "2023-04-21 14:45:32",

@@ -1,12 +1,12 @@
 {
   "description": "Nada que un buen danz\u00f3n no pueda curar. ",
-  "num_followers": 12991,
+  "num_followers": 13015,
   "original_name": "Danz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ4MjkwMiwwMDAwMDAwMDYxYmY5Mzc5NzVhZTRjOTkwMDExODMxZjI5ZTBmMTU2",
+  "snapshot_id": "MCxiM2Y5ZjcyYzJkZjA0ZjI1ZjAzOGE0MTAyMWQ4NWFhMjNmMDFlNzBj",
   "tracks": [
     {
       "added_at": "2022-08-02 23:28:22",
@@ -499,22 +499,18 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Sones y Tradiciones (feat. Cachao)",
-        "url": "https://open.spotify.com/album/7COrF1dEussKfi9YzTEFte"
+        "name": "Danzon Cubano, Vol. I",
+        "url": "https://open.spotify.com/album/5DRDkmsYbw7aQ9P4CWfOCa"
       },
       "artists": [
         {
-          "name": "Enrique Chia",
-          "url": "https://open.spotify.com/artist/3EQoDMzsInptAXiIs8sVt9"
-        },
-        {
-          "name": "Cachao",
-          "url": "https://open.spotify.com/artist/1Qa5p9ajnRIvq7bfsdtzqQ"
+          "name": "Mariano Merceron",
+          "url": "https://open.spotify.com/artist/7vgusS7tDPWgOQsZsfuBx0"
         }
       ],
-      "duration_ms": 251866,
-      "name": "Isora Club (Danzon)",
-      "url": "https://open.spotify.com/track/1NaLxDm29Sw7ecSYVt29Ii"
+      "duration_ms": 186644,
+      "name": "Emilio Amarra A Tu Perro",
+      "url": "https://open.spotify.com/track/5IT4KXtDnBXfW0ZJ8gAYTC"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -567,18 +563,22 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Danzon Cubano, Vol. I",
-        "url": "https://open.spotify.com/album/5DRDkmsYbw7aQ9P4CWfOCa"
+        "name": "Sones y Tradiciones (feat. Cachao)",
+        "url": "https://open.spotify.com/album/7COrF1dEussKfi9YzTEFte"
       },
       "artists": [
         {
-          "name": "Mariano Merceron",
-          "url": "https://open.spotify.com/artist/7vgusS7tDPWgOQsZsfuBx0"
+          "name": "Enrique Chia",
+          "url": "https://open.spotify.com/artist/3EQoDMzsInptAXiIs8sVt9"
+        },
+        {
+          "name": "Cachao",
+          "url": "https://open.spotify.com/artist/1Qa5p9ajnRIvq7bfsdtzqQ"
         }
       ],
-      "duration_ms": 186644,
-      "name": "Emilio Amarra A Tu Perro",
-      "url": "https://open.spotify.com/track/5IT4KXtDnBXfW0ZJ8gAYTC"
+      "duration_ms": 251866,
+      "name": "Isora Club (Danzon)",
+      "url": "https://open.spotify.com/track/1NaLxDm29Sw7ecSYVt29Ii"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
+        "name": "Danzon Cubano, Vol. I",
+        "url": "https://open.spotify.com/album/5DRDkmsYbw7aQ9P4CWfOCa"
+      },
+      "artists": [
+        {
+          "name": "Mariano Merceron",
+          "url": "https://open.spotify.com/artist/7vgusS7tDPWgOQsZsfuBx0"
+        }
+      ],
+      "duration_ms": 206837,
+      "name": "Mi Amigo Pancho",
+      "url": "https://open.spotify.com/track/40KxEG2XjtDbXnDwwmS1dc"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
         "name": "El Embrujo del Danz\u00f3n",
         "url": "https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 259765,
       "name": "Salvaje",
       "url": "https://open.spotify.com/track/3X0dPC4fhVM09yXmlzQkfc"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
-        "name": "Danzon Cubano, Vol. I",
-        "url": "https://open.spotify.com/album/5DRDkmsYbw7aQ9P4CWfOCa"
-      },
-      "artists": [
-        {
-          "name": "Mariano Merceron",
-          "url": "https://open.spotify.com/artist/7vgusS7tDPWgOQsZsfuBx0"
-        }
-      ],
-      "duration_ms": 206837,
-      "name": "Mi Amigo Pancho",
-      "url": "https://open.spotify.com/track/40KxEG2XjtDbXnDwwmS1dc"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -747,26 +747,6 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "El Embrujo del Danz\u00f3n",
-        "url": "https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge"
-      },
-      "artists": [
-        {
-          "name": "Danzonera Veracruz",
-          "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
-        },
-        {
-          "name": "Vicente Labastida Velasco",
-          "url": "https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "Agust\u00edn Lara",
-      "url": "https://open.spotify.com/track/3h7gEY56y4nddwrsqqHoPi"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
         "name": "Aut\u00e9ntico Danz\u00f3n",
         "url": "https://open.spotify.com/album/1UNE8jXyivdeLYRGmUZbJL"
       },
@@ -811,6 +791,22 @@
       "duration_ms": 226150,
       "name": "De Canela y Huevo",
       "url": "https://open.spotify.com/track/4vfGT2H5qXI8JTrxlBX51l"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "La Leyenda Viviente del Danz\u00f3n",
+        "url": "https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD"
+      },
+      "artists": [
+        {
+          "name": "Danzonera Veracruz",
+          "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
+        }
+      ],
+      "duration_ms": 293040,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/6a3E473gvUNtcVfpn3UeVO"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -927,22 +923,6 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "La Danzonera Joven de Mexico del Chamaco Aguilar, Vol. 2",
-        "url": "https://open.spotify.com/album/60Naej3w02R25knHK4eZwr"
-      },
-      "artists": [
-        {
-          "name": "La Danzonera Joven De M\u00e9xico Del \"Chamaco Aguilar\"",
-          "url": "https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W"
-        }
-      ],
-      "duration_ms": 260040,
-      "name": "Egipto Her\u00f3ico",
-      "url": "https://open.spotify.com/track/01xlbAqU0ztqPLkuozMYuD"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
         "name": "Dios Mio Amparame",
         "url": "https://open.spotify.com/album/6thL8AWh901D4ACVXuNB6A"
       },
@@ -955,6 +935,22 @@
       "duration_ms": 379626,
       "name": "Hay Que Echar Manteca",
       "url": "https://open.spotify.com/track/2gp3a4KYsboX8thnGHtpmH"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "La Danzonera Joven de Mexico del Chamaco Aguilar, Vol. 2",
+        "url": "https://open.spotify.com/album/60Naej3w02R25knHK4eZwr"
+      },
+      "artists": [
+        {
+          "name": "La Danzonera Joven De M\u00e9xico Del \"Chamaco Aguilar\"",
+          "url": "https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W"
+        }
+      ],
+      "duration_ms": 260040,
+      "name": "Egipto Her\u00f3ico",
+      "url": "https://open.spotify.com/track/01xlbAqU0ztqPLkuozMYuD"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -1023,22 +1019,6 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "La Leyenda Viviente del Danz\u00f3n",
-        "url": "https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD"
-      },
-      "artists": [
-        {
-          "name": "Danzonera Veracruz",
-          "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
-        }
-      ],
-      "duration_ms": 293040,
-      "name": "Cecilia",
-      "url": "https://open.spotify.com/track/6a3E473gvUNtcVfpn3UeVO"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
         "name": "Cl\u00e1sicos en Danz\u00f3n",
         "url": "https://open.spotify.com/album/1oO1wKwoQXZW5j7fNiD3v9"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 163186,
       "name": "El Danubio Azul",
       "url": "https://open.spotify.com/track/6OeP7ycmBYPJ0Fy5I4Wpze"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "El Embrujo del Danz\u00f3n",
+        "url": "https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge"
+      },
+      "artists": [
+        {
+          "name": "Danzonera Veracruz",
+          "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
+        },
+        {
+          "name": "Vicente Labastida Velasco",
+          "url": "https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "Agust\u00edn Lara",
+      "url": "https://open.spotify.com/track/3h7gEY56y4nddwrsqqHoPi"
     },
     {
       "added_at": "2022-08-02 23:28:22",

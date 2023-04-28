@@ -4,7 +4,7 @@
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: FIFTY FIFTY
 
-393 songs - 21 hr 33 min
+399 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 | 2022-08-12 | 2022-10-04 |
 | [Forgive Me](https://open.spotify.com/track/4TXo3KpvdwHSdrPJlWDfgn) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Forgive Me \- The 3rd Mini Album](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) | 2:48 | 2022-11-25 | 2023-01-10 |
 | [Freak](https://open.spotify.com/track/53NYRM8s4mm4yeCsmsvTik) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Grown Ass Kid](https://open.spotify.com/album/5gHJyHBTHBZlgFsODXj7HZ) | 2:49 | 2022-07-28 | 2022-08-19 |
+| [Freakin' Bad](https://open.spotify.com/track/3wntBaOJD8AZrJ8ix97Lwg) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Deadlock](https://open.spotify.com/album/6nePUewVYxSkvIbG9nkB0M) | 3:03 | 2023-04-27 |  |
 | [Free](https://open.spotify.com/track/44QDTpkTR3eLLfXEKTjyul) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X) | [Twenty\-Five Twenty\-One OST Part 8](https://open.spotify.com/album/5TAaxv56fHpUoRZOyOppbl) | 3:46 | 2022-04-05 | 2022-06-04 |
 | [Free Falling](https://open.spotify.com/track/1t2fPE8rClkb0ZACu26ebN) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Free Falling](https://open.spotify.com/album/0V2vQVVSUJXXqSnikWNcZq) | 3:37 | 2022-09-28 | 2022-11-11 |
 | [Future Perfect \(Pass the MIC\)](https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:00 | 2022-07-21 | 2022-10-04 |
@@ -256,6 +257,7 @@
 | [PING PONG](https://open.spotify.com/track/0Z99Xe1lGBmq60RwJ5YU18) | [HyunA&DAWN](https://open.spotify.com/artist/6JTCN21ovvrR3iPViZTXz4) | [1+1=1](https://open.spotify.com/album/3LmraKOB9oNrXrifwrYePf) | 2:38 | 2022-04-05 | 2022-10-04 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-19 | 2022-09-20 |
 | [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-19 |  |
+| [PINK YOUR MOMENT](https://open.spotify.com/track/0Z4g9s48umnsfDYGKj7jOT) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [PINK YOUR MOMENT](https://open.spotify.com/album/0XJXxqADyzn0ed4QbTvsBD) | 2:57 | 2023-04-27 |  |
 | [Pity Party](https://open.spotify.com/track/3hmjSgK0gSytIf3sbCFShk) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Pity Party](https://open.spotify.com/album/2yMHiLYBnrMsdUCUL3bFkU) | 3:10 | 2022-04-05 | 2022-05-27 |
 | [Play](https://open.spotify.com/track/4zw0hc13H9fbzj2UpD6Rfu) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [\[REC.\]](https://open.spotify.com/album/6ofVW04Q32gN1Hxk50S9Fi) | 3:21 | 2022-04-05 | 2022-04-21 |
 | [PLAY DUMB](https://open.spotify.com/track/3GJSLbB36rXHI2WmXxW91m) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [Story Written in Music](https://open.spotify.com/album/6ZpvLJfgF2S4NlUbrh0TIo) | 3:25 | 2022-06-17 | 2022-07-29 |
@@ -299,6 +301,7 @@
 | [SET ME FREE \(ENG\)](https://open.spotify.com/track/6bkTxw6m6vl8Oc3xtKBXN0) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 | 2023-03-13 |  |
 | [Set Me Free Pt.2](https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Set Me Free Pt.2](https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz) | 3:20 | 2023-03-21 |  |
 | [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/track/1XkMxUilV0E3ChDERZJUEq) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Omega Sapien](https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU), [bj wnjn](https://open.spotify.com/artist/4E4TZnDHlrhclSJgeund1d), [Mudd the student](https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/album/7osIz9TFdxYQAm4fgakanT) | 3:49 | 2022-09-12 | 2023-01-06 |
+| [Shoong! \(feat\. LISA of BLACKPINK\)](https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 3:25 | 2023-04-27 |  |
 | [Shut Down](https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:55 | 2022-09-19 |  |
 | [SHUT DOWN](https://open.spotify.com/track/55nWobiFbQcUSXSP0ZjkfN) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [CLASS IS OVER](https://open.spotify.com/album/0mToIKyUNLglEM7VXqdCt8) | 3:26 | 2022-06-09 | 2022-07-29 |
 | [SMARTPHONE](https://open.spotify.com/track/3660VWl7PCUsXhZlakn0KY) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [SMARTPHONE](https://open.spotify.com/album/0lbUf1aVf8xmveSuspuNW0) | 3:18 | 2022-08-05 | 2022-09-02 |
@@ -331,6 +334,7 @@
 | [Sweet Juice](https://open.spotify.com/track/2th6UWbfVz3hsSDzQAKqy2) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Cabin Fever](https://open.spotify.com/album/4uIqXyViDoMKFuuw12kYMO) | 3:12 | 2023-02-20 |  |
 | [Sweet Sorrow of Mother](https://open.spotify.com/track/6s7KK3ktVQaLNjiIVxlmV2) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Sweet Sorrow of Mother](https://open.spotify.com/album/5JeeP4rSAS41KjuC7c6cvJ) | 1:06 | 2022-11-03 | 2022-11-26 |
 | [Switch](https://open.spotify.com/track/4e378M6XRmJBW30gNws2TE) | [Gguggugi](https://open.spotify.com/artist/0SLGKxtZbiQFfJGtJ8TDTo) | [BOYS PLANET \- ARTIST BATTLE](https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC) | 2:59 | 2023-04-06 |  |
+| [Tantara](https://open.spotify.com/track/2zbuoOgDU8rRvCqwJC91n0) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Tantara](https://open.spotify.com/album/5kXppcDQWMMADHJTzE1nOB) | 2:47 | 2023-04-27 |  |
 | [TAP](https://open.spotify.com/track/2akAk7J7bCvf1aXwoqnYVx) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [TAP](https://open.spotify.com/album/0AV5eIIcY9AXVLIXKgPoGl) | 3:26 | 2022-11-25 | 2023-01-10 |
 | [Teddy Bear](https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Teddy Bear](https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x) | 3:09 | 2023-02-20 |  |
 | [Telepathy](https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n) | [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [Under the Oak Tree \(Original Soundtrack\), Part\. 4](https://open.spotify.com/album/5zJVeHgHrwJ3m24sSMSrTV) | 3:12 | 2022-06-17 | 2022-08-06 |
@@ -359,7 +363,9 @@
 | [Today's Weather](https://open.spotify.com/track/5qFmtbxP5KjekiXwv0axsh) | [Son Dong Woon](https://open.spotify.com/artist/5UzpNJd6zHGN9syxBN8fRY) | [Happy Birthday](https://open.spotify.com/album/0NKjnMeZCTbRLZrMsbuMYg) | 3:06 | 2022-06-09 | 2022-07-29 |
 | [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 | 2022-05-02 |  |
 | [Top Tier](https://open.spotify.com/track/70UObiGz3vxO2Gv9myhlVi) | [PARK WOO JIN](https://open.spotify.com/artist/0kS1oLtVdBidgH2aKloRKR) | [oWn](https://open.spotify.com/album/2wGcS6TVNM0DBxdAEidf4g) | 2:50 | 2023-02-28 | 2023-03-30 |
+| [TRICKY HOUSE](https://open.spotify.com/track/2MeEPaL5HsW9njvrtP0Agj) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [HOUSE OF TRICKY : Doorbell Ringing](https://open.spotify.com/album/6AO0SV6HUmKSu85OECxtYK) | 3:04 | 2023-04-27 |  |
 | [Trippy](https://open.spotify.com/track/5VuH5mBWdaZi5oNzrFhigj) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Trippy](https://open.spotify.com/album/4m2Thl6ktgiZTkCxUpKpX5) | 3:27 | 2023-02-02 | 2023-03-07 |
+| [TTM](https://open.spotify.com/track/0lLvhNSlV5homLbgJ5SBvM) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [TTM](https://open.spotify.com/album/4ErAS9ZcC2UPWyX9cSGFi4) | 3:17 | 2023-04-27 |  |
 | [Tuning In To You](https://open.spotify.com/track/0Xpc3mahBga9f9fAcFK6W4) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Extraordinary Attorney Woo \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/7CkYfRXfHB3QMeIe1aBXxi) | 3:01 | 2022-07-28 | 2022-08-06 |
 | [Twinkle, Twinkle](https://open.spotify.com/track/5RonLpKNWLO6lXmt7R07W8) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [A Dream Of ILY:1](https://open.spotify.com/album/142c1ICdvzVtOftdswYEaG) | 3:21 | 2023-01-05 | 2023-01-10 |
 | [Typa Girl](https://open.spotify.com/track/0L8LOav65XwLjCLS11gNPD) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:59 | 2022-10-07 |  |

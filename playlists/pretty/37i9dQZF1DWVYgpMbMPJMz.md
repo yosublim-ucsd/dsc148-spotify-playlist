@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP?si=WbS4KLxRSOaVvzHf2H\_0yw">Amanda Cook</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 964,057 likes - 100 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 964,190 likes - 100 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [There's Nothing](https://open.spotify.com/track/6DFMPHda9HkxZzz2p7DzkE) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [There's Nothing](https://open.spotify.com/album/04dNGGce0Fc3Qiy3gTJoUI) | 4:42 |
 | 2 | [Paul & Silas \(At Midnight\) \- Live](https://open.spotify.com/track/5ayC8O7yZHMjdIGUSomCZK) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Paul & Silas \(At Midnight\) \[Live\]](https://open.spotify.com/album/4gnmUbth0pCoIhhWlQuanM) | 10:28 |
-| 3 | [Look Around](https://open.spotify.com/track/45MwQxfmmHhYFGQuyPOpt3) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Cecily Hennigan](https://open.spotify.com/artist/3zYhPKXlVf8jlSHqlpiqWh) | [How To Start A Housefire \(Pt\. II\)](https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk) | 7:21 |
+| 3 | [Look Around](https://open.spotify.com/track/45MwQxfmmHhYFGQuyPOpt3) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [How To Start A Housefire \(Pt\. II\)](https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk) | 7:21 |
 | 4 | [Good Plans](https://open.spotify.com/track/3K89A6tH60vfgeRRtAGiGn) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Good Plans](https://open.spotify.com/album/2cihnWnZpAOZFcGPBsZSWa) | 5:46 |
 | 5 | [More Than Able \(feat\. Chandler Moore & Tiffany Hudson\)](https://open.spotify.com/track/0W8ibUIT6xe9LtWNJmyPim) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [More Than Able \(feat\. Chandler Moore & Tiffany Hudson\)](https://open.spotify.com/album/6Vb59gcwclWzcY5iFkrTOV) | 9:58 |
 | 6 | [Grace To Grace \(Staring Out Into The Old City\) \- Live](https://open.spotify.com/track/7FqbZmbhvGeKu0E0V5cumF) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64) | [Of Dirt And Grace: Live From The Land \(Expanded Edition\)](https://open.spotify.com/album/1GUEempDMheicK14bjCtv0) | 6:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 99 | [Let It Out \- Live](https://open.spotify.com/track/130Z8jENclLxJuOzXuAAXc) | [Motion Worship](https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m) | [Let The River Flow \(Live\)](https://open.spotify.com/album/6pauFB6htKQaTjyiHOhmK2) | 5:37 |
 | 100 | [How Good It Is \(Even In The Winter\)](https://open.spotify.com/track/0CEaIQxIFxpvVsZqDIpkcz) | [Krissy Nordhoff](https://open.spotify.com/artist/6JuQ1D9qv2atxeYHJmkgw0), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [How Good It Is \(Even In The Winter\)](https://open.spotify.com/album/46oRc7TlVThSB8eLUIEjLL) | 5:05 |
 
-Snapshot ID: `MTY4MjA3ODI4OCwwMDAwMDAwMGQxNDdhM2Q0YTlmMGEyNWNiOTdjMTkwMWQxNGRlM2M5`
+Snapshot ID: `MCw4ODkxNDcwMzcxMDE2ZmM5NTUxYWU3NDliM2EyYTVmNjMwZDUyYWRj`

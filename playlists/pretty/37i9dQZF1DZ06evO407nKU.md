@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,319 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,327 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 | 19 | [Rosas](https://open.spotify.com/track/6eWEXLzMHL4frTepZXwziY) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Rosas](https://open.spotify.com/album/3hZlM7TdcIkHMyBiUB2dbh) | 4:47 |
 | 20 | [Nuestro Adios](https://open.spotify.com/track/1zLX72SYG0YsB4IEKaBYx1) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Estas Perdida](https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb) | 3:17 |
 | 21 | [Ya Duele Menos](https://open.spotify.com/track/6JeHDdT9XS85PUhpylH2eJ) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Ya Duele Menos](https://open.spotify.com/album/6LqH5ZKr2oQKEQDEmuS5CW) | 3:04 |
-| 22 | [Te Soñé](https://open.spotify.com/track/7J9QZv972WMhZlxZBvswN8) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [La Adixión](https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9), [Banda La Perdida](https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl) | [Te Soñé](https://open.spotify.com/album/1MxOELHpth8E33rUByRI37) | 3:55 |
-| 23 | [Convénceme \(En Vivo\)](https://open.spotify.com/track/3U4yzfEaeIMTHrPx9vQhWO) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [La Adixión](https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9) | [Dariel Party, Vol\. 1](https://open.spotify.com/album/7q7VCZFD7JAVKztbMysdk3) | 4:03 |
+| 22 | [Convénceme \(En Vivo\)](https://open.spotify.com/track/3U4yzfEaeIMTHrPx9vQhWO) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [La Adixión](https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9) | [Dariel Party, Vol\. 1](https://open.spotify.com/album/7q7VCZFD7JAVKztbMysdk3) | 4:03 |
+| 23 | [Te Soñé](https://open.spotify.com/track/7J9QZv972WMhZlxZBvswN8) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [La Adixión](https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9), [Banda La Perdida](https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl) | [Te Soñé](https://open.spotify.com/album/1MxOELHpth8E33rUByRI37) | 3:55 |
 | 24 | [Juro Por Dios \- En Vivo](https://open.spotify.com/track/3RT87P7CZdHibJViDNbQ66) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 3:22 |
 | 25 | [O Me Voy O Te Vas \(En Vivo\)](https://open.spotify.com/track/2Jz2lb2VQe3wsGE7Q5jGrP) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [O Me Voy O Te Vas \(En Vivo\)](https://open.spotify.com/album/0nuXdDMOIDHxiddTlmBXGF) | 3:57 |
 | 26 | [Queda Restringido](https://open.spotify.com/track/3ipC7qMwC2TN4zNucgJYTB) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Soy Lo Que Soy](https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK) | 4:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 | 49 | [Una Pregunta Obvia](https://open.spotify.com/track/7iiOtyfWI3IJqVIV7CaEfi) | [Dariel Ramirez Y Sus Perdidos](https://open.spotify.com/artist/3acX5lZj9MKXR1NcWyMeNU), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Sesión Acústica](https://open.spotify.com/album/1DmVpertYtEh2c3YPqnVak) | 4:14 |
 | 50 | [Así Es La Vida](https://open.spotify.com/track/5SLb3jDGQLp7lZ9ZZ82azI) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Grupo La Marcha](https://open.spotify.com/artist/3bNKT7a1hETHCKqKviwsmK) | [Así Es La Vida](https://open.spotify.com/album/78JNnp2Sd9uTkJBOkezx7u) | 3:53 |
 
-Snapshot ID: `MjgwNDE5MzAsMDAwMDAwMDA5OTdiY2M3ZjZiNzEwZDcyMTEyZjUxY2Y5MDZjOTAwMA==`
+Snapshot ID: `MjgwNDMzMjAsMDAwMDAwMDA2YTQyOWE5YjU3YzU3NjU2Y2QxOTM5YjFlODM4MGJmNA==`

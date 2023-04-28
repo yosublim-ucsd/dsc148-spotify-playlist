@@ -1,12 +1,12 @@
 {
   "description": "beber gin em casa, nada melhor",
-  "num_followers": 109184,
+  "num_followers": 109240,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyMTg4NSwwMDAwMDAwMGUwODQ0M2M5MDJlNDZlN2Y3OWM2ZGNlZTc5ZjczOTNh",
+  "snapshot_id": "MCxlMjY1NDBjOGQxMDIxYjkwMjM2ODRkYmUwMWEwZTYxZDY4YTNlYjA4",
   "tracks": [
     {
       "added_at": "2023-02-10 12:58:10",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-02-10 12:58:10",
       "album": {
-        "name": "Odyss\u00e9e - EP",
-        "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 248892,
-      "name": "Agitations tropicales",
-      "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
-    },
-    {
-      "added_at": "2023-02-10 12:58:10",
-      "album": {
         "name": "BUBBA",
         "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 183786,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA"
+    },
+    {
+      "added_at": "2023-02-10 12:58:10",
+      "album": {
+        "name": "Odyss\u00e9e - EP",
+        "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 248892,
+      "name": "Agitations tropicales",
+      "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
     },
     {
       "added_at": "2023-02-10 12:58:10",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-02-10 12:58:10",
       "album": {
-        "name": "Keeping Me Under",
-        "url": "https://open.spotify.com/album/0pim63nTKBI42Cm7FVeCMu"
-      },
-      "artists": [
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        }
-      ],
-      "duration_ms": 218926,
-      "name": "Keeping Me Under",
-      "url": "https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh"
-    },
-    {
-      "added_at": "2023-02-10 12:58:10",
-      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -539,22 +523,18 @@
     {
       "added_at": "2023-02-10 12:58:10",
       "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/4ZaeYUM5vgvkpexijZ3w2r"
+        "name": "Keeping Me Under",
+        "url": "https://open.spotify.com/album/0pim63nTKBI42Cm7FVeCMu"
       },
       "artists": [
         {
-          "name": "M\u00f8me",
-          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
-        },
-        {
-          "name": "Merryn Jeann",
-          "url": "https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT"
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
         }
       ],
-      "duration_ms": 218480,
-      "name": "Aloha",
-      "url": "https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0"
+      "duration_ms": 218926,
+      "name": "Keeping Me Under",
+      "url": "https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh"
     },
     {
       "added_at": "2023-02-10 12:58:10",
@@ -575,6 +555,26 @@
       "duration_ms": 253800,
       "name": "9",
       "url": "https://open.spotify.com/track/3e90JC8EKLsSDUHmPpxkfp"
+    },
+    {
+      "added_at": "2023-02-10 12:58:10",
+      "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/4ZaeYUM5vgvkpexijZ3w2r"
+      },
+      "artists": [
+        {
+          "name": "M\u00f8me",
+          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
+        },
+        {
+          "name": "Merryn Jeann",
+          "url": "https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT"
+        }
+      ],
+      "duration_ms": 218480,
+      "name": "Aloha",
+      "url": "https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0"
     },
     {
       "added_at": "2023-02-10 12:58:10",
@@ -655,6 +655,26 @@
     {
       "added_at": "2023-02-10 12:58:10",
       "album": {
+        "name": "33 000 FT.",
+        "url": "https://open.spotify.com/album/1DP1CM6GndWiLkYKMudhek"
+      },
+      "artists": [
+        {
+          "name": "Kazy Lambist",
+          "url": "https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH"
+        },
+        {
+          "name": "Glasses",
+          "url": "https://open.spotify.com/artist/1aZqKXeEfZFRR4QvKvqi1g"
+        }
+      ],
+      "duration_ms": 170868,
+      "name": "Love Song (feat. Glasses)",
+      "url": "https://open.spotify.com/track/0fD6vPYWty2Jy4VVozWzfp"
+    },
+    {
+      "added_at": "2023-02-10 12:58:10",
+      "album": {
         "name": "For Ever",
         "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 188780,
       "name": "Softly",
       "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
-    },
-    {
-      "added_at": "2023-02-10 12:58:10",
-      "album": {
-        "name": "33 000 FT.",
-        "url": "https://open.spotify.com/album/1DP1CM6GndWiLkYKMudhek"
-      },
-      "artists": [
-        {
-          "name": "Kazy Lambist",
-          "url": "https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH"
-        },
-        {
-          "name": "Glasses",
-          "url": "https://open.spotify.com/artist/1aZqKXeEfZFRR4QvKvqi1g"
-        }
-      ],
-      "duration_ms": 170868,
-      "name": "Love Song (feat. Glasses)",
-      "url": "https://open.spotify.com/track/0fD6vPYWty2Jy4VVozWzfp"
     },
     {
       "added_at": "2023-02-10 12:58:10",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-02-10 12:58:10",
       "album": {
-        "name": "Superclean, Vol. II",
-        "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 247455,
-      "name": "Ruthless",
-      "url": "https://open.spotify.com/track/1mbuSss0OVqfS00y7yCNCZ"
-    },
-    {
-      "added_at": "2023-02-10 12:58:10",
-      "album": {
         "name": "LOVE AND COMPROMISE",
         "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 203066,
       "name": "I Wish I Missed My Ex",
       "url": "https://open.spotify.com/track/3f50PY0yOtMHo9BgCX9WRJ"
+    },
+    {
+      "added_at": "2023-02-10 12:58:10",
+      "album": {
+        "name": "Superclean, Vol. II",
+        "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 247455,
+      "name": "Ruthless",
+      "url": "https://open.spotify.com/track/1mbuSss0OVqfS00y7yCNCZ"
     },
     {
       "added_at": "2023-02-10 12:58:10",

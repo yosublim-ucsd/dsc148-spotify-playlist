@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: Hook, Karun and Steph Kapela
+> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: Amara Tari
 
-123 songs - 6 hr 56 min
+124 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,12 +119,13 @@
 | [Three Little Birds](https://open.spotify.com/track/7vGO9525GQZMGfc6qEY6BZ) | [Jason Sibi\-Okumu](https://open.spotify.com/artist/62RxzBJ449g8jS0gZp4X06), [Lullaby Club](https://open.spotify.com/artist/4NRmTiCjbKDTSJmwhOjDnq) | [Three Little Birds](https://open.spotify.com/album/22uuw7dC7oXrWHITQ2DHjh) | 2:48 | 2023-02-23 |  |
 | [Tosheka](https://open.spotify.com/track/3rqJOJNbeyxBDOas8W6CRN) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Dive In](https://open.spotify.com/album/3OkzNe6vIcb7ZhVtDGO9vP) | 4:02 | 2021-12-28 | 2022-08-14 |
 | [Tosheka](https://open.spotify.com/track/5g1YeZeEGyPOMwnz0TpGeO) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Dive In](https://open.spotify.com/album/7nuk7Wcfcv8UyMDfRimD4I) | 4:02 | 2021-12-28 | 2023-03-25 |
-| [Turn It Off](https://open.spotify.com/track/1juwVlJ15TZZXFo4vIEexs) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd), [Mbithi](https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH) | [TURN IT OFF](https://open.spotify.com/album/4ylxBzU0yxcLNsDGkBQnVS) | 3:42 | 2022-10-21 |  |
+| [Turn It Off](https://open.spotify.com/track/1juwVlJ15TZZXFo4vIEexs) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd), [Mbithi](https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH) | [TURN IT OFF](https://open.spotify.com/album/4ylxBzU0yxcLNsDGkBQnVS) | 3:42 | 2022-10-21 | 2023-04-28 |
 | [Uko Poa \- Full Version](https://open.spotify.com/track/3xfM0L04g8E0F7Pz111Pf3) | [Ethan Muziki](https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn) | [Uko Poa \(Full Version\)](https://open.spotify.com/album/1aKKwECJHnLPpHF6zJ9vi1) | 3:24 | 2022-04-28 |  |
 | [Usiende Mbali](https://open.spotify.com/track/2T80rcru064O2vpGt9zU9S) | [Antonio Carmona](https://open.spotify.com/artist/1YVEF2N8QHkkQ84LM51Xyo), [Romantico](https://open.spotify.com/artist/0M3CMDbz66AlRsb6AEwbf6), [Samaki Mkuu](https://open.spotify.com/artist/6DUSQDYQbsaKtEISmpWIou), [Jabali Afrika](https://open.spotify.com/artist/5qF9WAxB1C3SxPdE1xp0wC), [Sanaipei Tande](https://open.spotify.com/artist/1kP9asYdOE5UeBmNVYZX1J) | [Usiende Mbali](https://open.spotify.com/album/3gWHpGUHpc8u90J3oReY8M) | 4:34 | 2021-12-28 | 2022-06-17 |
 | [Waiting](https://open.spotify.com/track/5XCYhCn9eDYIrfrdBiVhAy) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Waiting](https://open.spotify.com/album/4bRnHj1ApFBEVMbvEw4H7E) | 2:44 | 2022-02-04 | 2022-10-22 |
 | [Wanja](https://open.spotify.com/track/4qlhfTcBkuDo7wByAZERiz) | [Waithaka](https://open.spotify.com/artist/5Ro7QwcAlsSBGQuv5FWTs4), [Wanjine](https://open.spotify.com/artist/73iU9QFpEWlHM2Op6wAQqe) | [Blk2541](https://open.spotify.com/album/77yeDBzL9v308FeLoyypPd) | 3:06 | 2021-12-28 | 2022-03-04 |
 | [Want You](https://open.spotify.com/track/4soHwOdoVbeY0HgXI8K5vS) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [Mi$taK](https://open.spotify.com/artist/5RdL0s8UACHhmacD8FB73h) | [Want You](https://open.spotify.com/album/0J0VXiDkLDuf8CyYsQSXlO) | 3:36 | 2021-12-28 | 2022-05-27 |
+| [WARNING](https://open.spotify.com/track/6HOOJ2LbasnZqxuqlaNSfk) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [WARNING](https://open.spotify.com/album/4HYPMdHDoTzGLCeB9nVxxZ) | 4:06 | 2023-04-27 |  |
 | [We're Made For Each Other](https://open.spotify.com/track/2G5EyrYbvXoUIpwqzGLgK1) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Love Letters II](https://open.spotify.com/album/4YPEUtBlXYKlVpxAezEElY) | 2:28 | 2022-03-03 |  |
 | [Wendo Mwaki \- From Un\-Adult\-Erated](https://open.spotify.com/track/4FQ7pGtcUpFVMGLxDHij79) | [Tuku Kantu](https://open.spotify.com/artist/4XOkxpgkjiajWy1yEb1o24) | [Wendo Mwaki \- From Un\-Adult\-Erated](https://open.spotify.com/album/2mkFVIgMDrSG6BaHVQdFiM) | 3:36 | 2023-03-30 |  |
 | [What I See](https://open.spotify.com/track/7jDkmNjxPQ0F2b7D4agmTG) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [What I See](https://open.spotify.com/album/1GeUTD1xqgMWH0qzOffTMX) | 2:54 | 2021-12-28 |  |

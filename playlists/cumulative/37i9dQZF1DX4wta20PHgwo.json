@@ -2048,7 +2048,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 204040,
       "name": "Falsa Balada",
       "url": "https://open.spotify.com/track/3xSPYYsmwXaSnN9e8gxFqC"
@@ -2926,7 +2926,7 @@
       ],
       "date_added": "2021-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 190706,
       "name": "In The Wee Small Hours Of The Morning",
       "url": "https://open.spotify.com/track/5gtIMCsxsCn9wxlfed5Doy"
@@ -4550,7 +4550,7 @@
       ],
       "date_added": "2020-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-26",
+      "date_removed": null,
       "duration_ms": 160999,
       "name": "Quiet Corner",
       "url": "https://open.spotify.com/track/21jcuHw9kBHPvvkAjYOOi6"
@@ -5880,6 +5880,24 @@
       "duration_ms": 405480,
       "name": "The Duke",
       "url": "https://open.spotify.com/track/6V0opjIJTcAfcrwPVgDfb6"
+    },
+    {
+      "album": {
+        "name": "Hope Renewed",
+        "url": "https://open.spotify.com/album/3hrTzAFPkrCmAD8YbXqX4i"
+      },
+      "artists": [
+        {
+          "name": "Nat Bartsch",
+          "url": "https://open.spotify.com/artist/0bNFLt1QSMjhpqWh9yiePD"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294133,
+      "name": "The End Of The Decade",
+      "url": "https://open.spotify.com/track/3dY61u37zJKzRZyIJdKLAg"
     },
     {
       "album": {

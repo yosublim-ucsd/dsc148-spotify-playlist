@@ -1,12 +1,12 @@
 {
   "description": "Black, death and beyond. Recent tracks and classics from the world of extreme metal. Cover: Darkthrone",
-  "num_followers": 429770,
+  "num_followers": 429973,
   "original_name": "Extreme Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTY2MCwwMDAwMDAwMGE1ODIyYWYxMjA4NDI3MjJkNjVlODc3NWIxMDcwMzNk",
+  "snapshot_id": "MCwwMDUyNWM5OTBiZjEwY2ViNTg0MzEzNDRkZGE3M2QxZDYyZGJkYjlj",
   "tracks": [
     {
       "added_at": "2023-04-21 04:01:00",
@@ -187,18 +187,18 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Zeal & Ardor",
-        "url": "https://open.spotify.com/album/4lh0rl7eI2w9Rik8JECk9l"
+        "name": "Black Metal",
+        "url": "https://open.spotify.com/album/1e6Osda6t8UDFYQ29sFVlV"
       },
       "artists": [
         {
-          "name": "Zeal & Ardor",
-          "url": "https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y"
+          "name": "Venom",
+          "url": "https://open.spotify.com/artist/5fwaejlOHVBAw1KhIPPaQe"
         }
       ],
-      "duration_ms": 183106,
-      "name": "G\u00f6tterd\u00e4mmerung",
-      "url": "https://open.spotify.com/track/6pXKSo89ne9mbPInCWk8dw"
+      "duration_ms": 221693,
+      "name": "Black Metal",
+      "url": "https://open.spotify.com/track/3yNoEJifUJdly8ucYoWRwl"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Black Metal",
-        "url": "https://open.spotify.com/album/1e6Osda6t8UDFYQ29sFVlV"
+        "name": "Zeal & Ardor",
+        "url": "https://open.spotify.com/album/4lh0rl7eI2w9Rik8JECk9l"
       },
       "artists": [
         {
-          "name": "Venom",
-          "url": "https://open.spotify.com/artist/5fwaejlOHVBAw1KhIPPaQe"
+          "name": "Zeal & Ardor",
+          "url": "https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y"
         }
       ],
-      "duration_ms": 221693,
-      "name": "Black Metal",
-      "url": "https://open.spotify.com/track/3yNoEJifUJdly8ucYoWRwl"
+      "duration_ms": 183106,
+      "name": "G\u00f6tterd\u00e4mmerung",
+      "url": "https://open.spotify.com/track/6pXKSo89ne9mbPInCWk8dw"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "The Past is Alive (The Early Misschief)",
+        "url": "https://open.spotify.com/album/3S2EmM7VIO2P3TMCdTtM5I"
+      },
+      "artists": [
+        {
+          "name": "Dissection",
+          "url": "https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe"
+        }
+      ],
+      "duration_ms": 208039,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/0PsZiLg0dJTSktbRT7FnHd"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "Dom Andra",
         "url": "https://open.spotify.com/album/0ozRtnZ9AjY2DwWDQTAiby"
       },
@@ -963,22 +979,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Arsenal of War",
-        "url": "https://open.spotify.com/album/4TBnmvcrvmEakXFQzDwX07"
-      },
-      "artists": [
-        {
-          "name": "Frozen Soul",
-          "url": "https://open.spotify.com/artist/1hwwmQI1vhQamuIksyDKG6"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "Arsenal of War",
-      "url": "https://open.spotify.com/track/0Y97m8mQOrCI5z0JfkTel6"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "The Ravening",
         "url": "https://open.spotify.com/album/6lKXbIQC11I56j86FZMo5y"
       },
@@ -995,18 +995,18 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "The Past is Alive (The Early Misschief)",
-        "url": "https://open.spotify.com/album/3S2EmM7VIO2P3TMCdTtM5I"
+        "name": "Arsenal of War",
+        "url": "https://open.spotify.com/album/4TBnmvcrvmEakXFQzDwX07"
       },
       "artists": [
         {
-          "name": "Dissection",
-          "url": "https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe"
+          "name": "Frozen Soul",
+          "url": "https://open.spotify.com/artist/1hwwmQI1vhQamuIksyDKG6"
         }
       ],
-      "duration_ms": 208039,
-      "name": "Frozen",
-      "url": "https://open.spotify.com/track/0PsZiLg0dJTSktbRT7FnHd"
+      "duration_ms": 245400,
+      "name": "Arsenal of War",
+      "url": "https://open.spotify.com/track/0Y97m8mQOrCI5z0JfkTel6"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Modern Primitive",
-        "url": "https://open.spotify.com/album/2Mys40rXrG4GNkRDeJMZ88"
-      },
-      "artists": [
-        {
-          "name": "Septicflesh",
-          "url": "https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b"
-        }
-      ],
-      "duration_ms": 290146,
-      "name": "Coming Storm",
-      "url": "https://open.spotify.com/track/1QISerMz8cRzCGBhJkTC64"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "MARIA",
         "url": "https://open.spotify.com/album/5XRR2Lnc7grEl7FXyrS0qz"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 289853,
       "name": "IRMOS I",
       "url": "https://open.spotify.com/track/2ogB6fMaIdNa3cQsEoHrAt"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Modern Primitive",
+        "url": "https://open.spotify.com/album/2Mys40rXrG4GNkRDeJMZ88"
+      },
+      "artists": [
+        {
+          "name": "Septicflesh",
+          "url": "https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b"
+        }
+      ],
+      "duration_ms": 290146,
+      "name": "Coming Storm",
+      "url": "https://open.spotify.com/track/1QISerMz8cRzCGBhJkTC64"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Anima",
-        "url": "https://open.spotify.com/album/7M0gsNq0pmdXsjZrSIUSUm"
-      },
-      "artists": [
-        {
-          "name": "Heretoir",
-          "url": "https://open.spotify.com/artist/4W1aTc1mS8IudqNaxfGKar"
-        }
-      ],
-      "duration_ms": 269453,
-      "name": "Anima",
-      "url": "https://open.spotify.com/track/77VGFCWFgsGLIWjoDTzJiq"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "In The Sign... (Re-issue + Bonus) [Deluxe Version]",
         "url": "https://open.spotify.com/album/3rG83VdcvygOrL6BJGYitt"
       },
@@ -1103,26 +1087,6 @@
       "duration_ms": 274093,
       "name": "Open the Gates",
       "url": "https://open.spotify.com/track/0LsNJ1h4WWX8T9wZJW9u8l"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Intestinal Wrap",
-        "url": "https://open.spotify.com/album/420l4HT9cFaWz2zv2ymvv8"
-      },
-      "artists": [
-        {
-          "name": "Creeping Death",
-          "url": "https://open.spotify.com/artist/0m8C12hSt640ovLaxlsd5u"
-        },
-        {
-          "name": "Corpsegrinder",
-          "url": "https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Intestinal Wrap",
-      "url": "https://open.spotify.com/track/3qXfb5Wd4A6EqU7DgAtdXy"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1159,6 +1123,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "Anima",
+        "url": "https://open.spotify.com/album/7M0gsNq0pmdXsjZrSIUSUm"
+      },
+      "artists": [
+        {
+          "name": "Heretoir",
+          "url": "https://open.spotify.com/artist/4W1aTc1mS8IudqNaxfGKar"
+        }
+      ],
+      "duration_ms": 269453,
+      "name": "Anima",
+      "url": "https://open.spotify.com/track/77VGFCWFgsGLIWjoDTzJiq"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "Where Fear and Weapons Meet",
         "url": "https://open.spotify.com/album/05u8REOHWoW9b25e7KvZvW"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 354249,
       "name": "Fn .380 Acp#19074",
       "url": "https://open.spotify.com/track/3yYfPXQ5hRYVV7lgOFlPWr"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Intestinal Wrap",
+        "url": "https://open.spotify.com/album/420l4HT9cFaWz2zv2ymvv8"
+      },
+      "artists": [
+        {
+          "name": "Creeping Death",
+          "url": "https://open.spotify.com/artist/0m8C12hSt640ovLaxlsd5u"
+        },
+        {
+          "name": "Corpsegrinder",
+          "url": "https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Intestinal Wrap",
+      "url": "https://open.spotify.com/track/3qXfb5Wd4A6EqU7DgAtdXy"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "The Calling",
-        "url": "https://open.spotify.com/album/6mNPBN9o73Hon2zGRVvQC0"
-      },
-      "artists": [
-        {
-          "name": "Saturnus",
-          "url": "https://open.spotify.com/artist/7HY8HFHBM9zrY5R9rlY3Id"
-        }
-      ],
-      "duration_ms": 419650,
-      "name": "The Calling",
-      "url": "https://open.spotify.com/track/0FqwZuGCQLvXIMwbob6bo1"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Reinkaos",
         "url": "https://open.spotify.com/album/4va3x8PEXjTkguSQy70YPw"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 366333,
       "name": "Maha-Kali",
       "url": "https://open.spotify.com/track/0Jt4oMpZKEFRrHYBNglgzt"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "The Calling",
+        "url": "https://open.spotify.com/album/6mNPBN9o73Hon2zGRVvQC0"
+      },
+      "artists": [
+        {
+          "name": "Saturnus",
+          "url": "https://open.spotify.com/artist/7HY8HFHBM9zrY5R9rlY3Id"
+        }
+      ],
+      "duration_ms": 419650,
+      "name": "The Calling",
+      "url": "https://open.spotify.com/track/0FqwZuGCQLvXIMwbob6bo1"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Gnavh\u00f2l",
-        "url": "https://open.spotify.com/album/29tEXGPKxJiVyiXIVspBgb"
-      },
-      "artists": [
-        {
-          "name": "Nordjevel",
-          "url": "https://open.spotify.com/artist/3Pfim1uupYVYG87GDtdw8r"
-        }
-      ],
-      "duration_ms": 229498,
-      "name": "Within the Eyes",
-      "url": "https://open.spotify.com/track/5XlrveQ8VNb4ZjAByD7Ktj"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Rashomon",
         "url": "https://open.spotify.com/album/3iErNnoi1sc1pqKntalRN2"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 454920,
       "name": "Kagutsuchi",
       "url": "https://open.spotify.com/track/33jOwx7sKn4ugMYsGgJG41"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Gnavh\u00f2l",
+        "url": "https://open.spotify.com/album/29tEXGPKxJiVyiXIVspBgb"
+      },
+      "artists": [
+        {
+          "name": "Nordjevel",
+          "url": "https://open.spotify.com/artist/3Pfim1uupYVYG87GDtdw8r"
+        }
+      ],
+      "duration_ms": 229498,
+      "name": "Within the Eyes",
+      "url": "https://open.spotify.com/track/5XlrveQ8VNb4ZjAByD7Ktj"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Latrodectus",
-        "url": "https://open.spotify.com/album/6Ii6CnoWpYAlwfoKACn6iH"
-      },
-      "artists": [
-        {
-          "name": "Blood Red Throne",
-          "url": "https://open.spotify.com/artist/38shFuJO9k0kOEQSf854u4"
-        }
-      ],
-      "duration_ms": 262439,
-      "name": "Latrodectus",
-      "url": "https://open.spotify.com/track/7u1Ng0a75DPuSQDnRL2whv"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Human Scum",
         "url": "https://open.spotify.com/album/5cSjClzqXAx0MXW6kUodZF"
       },
@@ -1495,6 +1479,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "Latrodectus",
+        "url": "https://open.spotify.com/album/6Ii6CnoWpYAlwfoKACn6iH"
+      },
+      "artists": [
+        {
+          "name": "Blood Red Throne",
+          "url": "https://open.spotify.com/artist/38shFuJO9k0kOEQSf854u4"
+        }
+      ],
+      "duration_ms": 262439,
+      "name": "Latrodectus",
+      "url": "https://open.spotify.com/track/7u1Ng0a75DPuSQDnRL2whv"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "Outstrider",
         "url": "https://open.spotify.com/album/2hisOnLbwHGc0D6v14w1pQ"
       },
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Apocalypse",
-        "url": "https://open.spotify.com/album/3j2VfQygnXCYgQBNlenxwg"
-      },
-      "artists": [
-        {
-          "name": "Rotten Sound",
-          "url": "https://open.spotify.com/artist/4aglyvdJ7ApTfDC6aQ2LFf"
-        }
-      ],
-      "duration_ms": 76972,
-      "name": "Digital Bliss",
-      "url": "https://open.spotify.com/track/3tPbY0ktUrddToNjVKnAWG"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Ecclesia",
         "url": "https://open.spotify.com/album/10CWKHbZuG36qSkRDLBy3q"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 464896,
       "name": "Ecclesia",
       "url": "https://open.spotify.com/track/0ldDRR8LVWKQkAv5th9ZtY"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Apocalypse",
+        "url": "https://open.spotify.com/album/3j2VfQygnXCYgQBNlenxwg"
+      },
+      "artists": [
+        {
+          "name": "Rotten Sound",
+          "url": "https://open.spotify.com/artist/4aglyvdJ7ApTfDC6aQ2LFf"
+        }
+      ],
+      "duration_ms": 76972,
+      "name": "Digital Bliss",
+      "url": "https://open.spotify.com/track/3tPbY0ktUrddToNjVKnAWG"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Noktvrn",
-        "url": "https://open.spotify.com/album/6zwADRYkyJFcMmuwE48r7A"
-      },
-      "artists": [
-        {
-          "name": "Der Weg einer Freiheit",
-          "url": "https://open.spotify.com/artist/7e823b0KQoVtLG86Ui5xGD"
-        }
-      ],
-      "duration_ms": 497740,
-      "name": "Am Rande der Dunkelheit",
-      "url": "https://open.spotify.com/track/0ZnZp0Fo1Gxwx8dC8ol65F"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "The Shadowthrone (Remastered 2021)",
         "url": "https://open.spotify.com/album/1CqVugK1U61uHDGONlHnzy"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 507640,
       "name": "Hvite Krists D\u00f8d - Remastered 2021",
       "url": "https://open.spotify.com/track/31LJZdWVxmboDQW0kPKZcw"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Noktvrn",
+        "url": "https://open.spotify.com/album/6zwADRYkyJFcMmuwE48r7A"
+      },
+      "artists": [
+        {
+          "name": "Der Weg einer Freiheit",
+          "url": "https://open.spotify.com/artist/7e823b0KQoVtLG86Ui5xGD"
+        }
+      ],
+      "duration_ms": 497740,
+      "name": "Am Rande der Dunkelheit",
+      "url": "https://open.spotify.com/track/0ZnZp0Fo1Gxwx8dC8ol65F"
     }
   ],
   "unique_name": "Extreme Metal",

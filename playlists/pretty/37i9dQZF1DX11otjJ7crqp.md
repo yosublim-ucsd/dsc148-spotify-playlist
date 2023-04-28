@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: The Chainsmokers & 347aidan
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,293 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,336 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [Happy Tears](https://open.spotify.com/track/3Th68P4JXLLk4931WwMXOC) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Happy Tears](https://open.spotify.com/album/2sYco8v6FzZk4EHjZ0xWTf) | 2:56 |
 | 100 | [TIMEZONE](https://open.spotify.com/track/71N11HZCLEolNgAxvcj2cb) | [Olivia Lunny](https://open.spotify.com/artist/7542b5kIvrKX0Zvp5iNpl9) | [TIMEZONE](https://open.spotify.com/album/3t3Z3avQW3hVQbOw5aSj4R) | 3:08 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMGQ5MzVlMjI2YjRhOTUxMWY4NGY5NWEyOGQ0NjMxMzE2`
+Snapshot ID: `MCw3NjYyZmIyMmU0NTc3ZjZkYmQ2ZjkzOGI2NjM0MTA1MWU5NTY1YWNl`

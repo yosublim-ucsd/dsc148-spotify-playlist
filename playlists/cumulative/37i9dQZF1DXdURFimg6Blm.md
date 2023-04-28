@@ -4,7 +4,7 @@
 
 > Dance tracks for a big workout.
 
-387 songs - 19 hr 21 min
+388 songs - 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7) | 2:28 | 2022-12-16 |  |
 | [Baila Conmigo](https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Baila Conmigo](https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G) | 2:26 | 2022-09-09 |  |
 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 | 2023-04-21 |  |
+| [Beggin'](https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Beggin'](https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V) | 3:03 | 2023-04-21 |  |
 | [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 | 2023-02-24 |  |
 | [Believe \(feat\. Goodboys\)](https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Believe \(feat\. Goodboys\)](https://open.spotify.com/album/6OcqONrf7kWx0jE3yNI2Nx) | 3:08 | 2022-10-28 |  |
 | [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 | 2022-04-29 |  |
@@ -77,7 +78,7 @@
 | [Dance Tonight](https://open.spotify.com/track/1dN8YYO1s6an0mb3MIWrox) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm) | [Dance Tonight](https://open.spotify.com/album/18gPaM10W8ih7qQp4mhdxV) | 2:57 | 2022-01-07 | 2022-04-15 |
 | [Dancing Alone](https://open.spotify.com/track/7A9y0ywTGS4iPM5huZAhKf) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Dancing Alone](https://open.spotify.com/album/2KlV3JdXb7XIlj78Rdo53i) | 2:52 | 2022-01-28 | 2022-04-15 |
 | [dashstar\* \- VIP](https://open.spotify.com/track/0zXiTthYKCfvfwixJdn92o) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [dashstar\* \(VIP\)](https://open.spotify.com/album/1evGUMi2rIAvUewPRHm3sl) | 2:20 | 2022-10-29 | 2023-01-07 |
-| [dashstar\* \- VIP](https://open.spotify.com/track/4FKRT4uPFx2L4exy9DCs1o) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [dashstar\* \(VIP\)](https://open.spotify.com/album/014iFORUzGJCv81enXjJMg) | 2:20 | 2023-02-10 |  |
+| [dashstar\* \- VIP](https://open.spotify.com/track/4FKRT4uPFx2L4exy9DCs1o) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [dashstar\* \(VIP\)](https://open.spotify.com/album/014iFORUzGJCv81enXjJMg) | 2:20 | 2023-02-10 | 2023-04-28 |
 | [Dead Or Alive](https://open.spotify.com/track/4ebye8oxJ3SaTi3MD50lbn) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Dead Or Alive](https://open.spotify.com/album/1iELNSuo6I77ZYPo8BJl3o) | 2:14 | 2022-01-07 | 2022-04-16 |
 | [Deep \(with DJ Snake & Yung Felix\)](https://open.spotify.com/track/0hSdx0sbSmYRVJzZTuspu0) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu) | [Deep \(with DJ Snake & Yung Felix\)](https://open.spotify.com/album/3WpS9W69UKt59YFj744I0u) | 3:33 | 2022-10-28 | 2022-10-30 |
 | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI) | 2:45 | 2022-06-17 |  |

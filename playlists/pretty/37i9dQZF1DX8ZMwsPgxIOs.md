@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Yazzus
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,411 likes - 80 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,423 likes - 80 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 79 | [Mare's Nest](https://open.spotify.com/track/0irFHzbR7gMo1WpAp9FKRh) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Mare's Nest](https://open.spotify.com/album/1dwa6pWl6Lv51tYEO1fCOe) | 6:37 |
 | 80 | [Sugar](https://open.spotify.com/track/3WVYDLSVgs1mnUsGeI0ezM) | [Kincaid](https://open.spotify.com/artist/4VjtN4stqJG01LHASZjXxP) | [Sugar](https://open.spotify.com/album/6aKsy0z4QRDDcAgoWp7Nvx) | 5:16 |
 
-Snapshot ID: `MTY4MDcwMTA5NywwMDAwMDAwMDE1NWY0NGFiMDZlNDlkZmMwZDA0MGNjNDkwM2M1YzEw`
+Snapshot ID: `MCxlY2NhNjY5NzhlNTVjNDgyOGM0ZTk1NzE2YjJhMzNkN2JjNTUzZTE5`

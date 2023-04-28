@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 
 > Strings and pianos to accompany your latest great read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,900 likes - 63 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,997 likes - 63 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 33 | [Floating on Land](https://open.spotify.com/track/0LAAlLIm2o7FwShCvPmUCc) | [Svvn](https://open.spotify.com/artist/43wgBNJ8ZZd9AYotJvzDzW) | [Floating on Land](https://open.spotify.com/album/2nq7JfT3k2eSy1kRm2Fk1X) | 3:27 |
 | 34 | [Walking on the Sand \- Piano & Waves](https://open.spotify.com/track/0sjTR8qQqGXyFS8QcccqMJ) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8) | [Walking on the Sand](https://open.spotify.com/album/2EYGPQArAHH1cbaGELf7j4) | 3:27 |
 | 35 | [Autumn](https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Autumn](https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q) | 2:33 |
-| 36 | [Rêverie](https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy) | [Jack Hopkins](https://open.spotify.com/artist/0RwM3W2gHbLUjWhdF35JtV) | [Rêverie](https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK) | 3:52 |
-| 37 | [Sérénité](https://open.spotify.com/track/4KwJZiykCwZTDNF8ArSMWZ) | [Jérémie Fauquet](https://open.spotify.com/artist/2JfYFXAwjWCX0EY9ZdPiob) | [Sérénité](https://open.spotify.com/album/1XdeturncHpWMnATLRATPZ) | 1:48 |
+| 36 | [Sérénité](https://open.spotify.com/track/4KwJZiykCwZTDNF8ArSMWZ) | [Jérémie Fauquet](https://open.spotify.com/artist/2JfYFXAwjWCX0EY9ZdPiob) | [Sérénité](https://open.spotify.com/album/1XdeturncHpWMnATLRATPZ) | 1:48 |
+| 37 | [Rêverie](https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy) | [Jack Hopkins](https://open.spotify.com/artist/0RwM3W2gHbLUjWhdF35JtV) | [Rêverie](https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK) | 3:52 |
 | 38 | [What If](https://open.spotify.com/track/7vXfjSymSmza9Boy5pUedX) | [Franco Robert](https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx) | [Transcend](https://open.spotify.com/album/48TZuG4b6WDgNJgvM2IEI1) | 3:32 |
 | 39 | [Drifter](https://open.spotify.com/track/5qylsVTG6k9vStN40LcpwW) | [Takaaki Izumi](https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p) | [Life](https://open.spotify.com/album/3Ly89MLIwLM1ECNLJUTJRa) | 2:37 |
 | 40 | [How Time Works](https://open.spotify.com/track/4xqfOnP7Mue9j5JJVfLFyh) | [Eric Carlson](https://open.spotify.com/artist/3rBIitlyjzAPUDj80fM3TE) | [How Time Works](https://open.spotify.com/album/70cJVjIxPDkseZhzGy5kkE) | 3:45 |
@@ -56,20 +56,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 46 | [Ascension](https://open.spotify.com/track/2VIXkigavUSZO66aQifzeZ) | [Cysur](https://open.spotify.com/artist/4HCIz5lkrc1mvJwHrGFL8l) | [Ascension](https://open.spotify.com/album/0ebShmigwYPVYWM3avAn4U) | 2:12 |
 | 47 | [Be Here Now](https://open.spotify.com/track/6FC7o2qC7oU1Aa6qJAnptQ) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Be Here Now](https://open.spotify.com/album/5uXs3lwuibE9vUFisIoGmH) | 2:16 |
 | 48 | [Kärlek](https://open.spotify.com/track/3biDlhK0lzErVCKW1Yoafk) | [Ruben Fjellner](https://open.spotify.com/artist/44oQBciAO9OkwefVrQUFLG) | [Kärlek](https://open.spotify.com/album/5zlFzaQwZqdmwEJuFkVzX8) | 2:28 |
-| 49 | [Fade Far Away](https://open.spotify.com/track/29JEQ9F09fK6pyyEwy66am) | [Nicholas & Sebastian](https://open.spotify.com/artist/2ZhGLAopjPHOCwtBpNPRVV) | [Reveries](https://open.spotify.com/album/6VXf0ZqeNciAwRPVJRL1b7) | 3:31 |
-| 50 | [Sóliton](https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [Sóliton](https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE) | 2:02 |
+| 49 | [Sóliton](https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [Sóliton](https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE) | 2:02 |
+| 50 | [Fade Far Away](https://open.spotify.com/track/29JEQ9F09fK6pyyEwy66am) | [Nicholas & Sebastian](https://open.spotify.com/artist/2ZhGLAopjPHOCwtBpNPRVV) | [Reveries](https://open.spotify.com/album/6VXf0ZqeNciAwRPVJRL1b7) | 3:31 |
 | 51 | [A Winter's Tale](https://open.spotify.com/track/40Vn1ZHFzVdtTYLJ4huCfa) | [Malin Eriksson](https://open.spotify.com/artist/43yDuFWdDwDW8hDwjfAxUU) | [Words Left Unspoken](https://open.spotify.com/album/4P09SKvRAbJhBrNwDv7ABc) | 2:45 |
 | 52 | [Biding Time](https://open.spotify.com/track/6gy6hOA6rtxL8LHCKm7hYC) | [George Wilson](https://open.spotify.com/artist/3crBavkxFGH8HktUgUqUDY) | [Balance](https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI) | 2:54 |
 | 53 | [Piano Trio No\. 2 in E Minor, Op\. 92: III\. Andante con moto](https://open.spotify.com/track/0gV4E8Muwz7pCkzxmyCYmG) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Trio Zadig](https://open.spotify.com/artist/7oWMf0cOlv11D8rSquhOd0) | [Orpheus\. Hommage à Saint\-Saëns](https://open.spotify.com/album/3ygvZKfgahI5BQfOFqV0FJ) | 4:08 |
 | 54 | [The Sky Cracked](https://open.spotify.com/track/16MckwrwnXAFgDoseVsm4U) | [Bea Boethius](https://open.spotify.com/artist/63QcI4ykgbf0wor4YYOQz5) | [The Sky Cracked](https://open.spotify.com/album/0N1bObtjCQm3wOGTZT9QsG) | 1:52 |
 | 55 | [Innocence](https://open.spotify.com/track/5IUQOzC9u2IMs6FcGEe5pX) | [Takaaki Izumi](https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p) | [Life](https://open.spotify.com/album/3Ly89MLIwLM1ECNLJUTJRa) | 2:43 |
 | 56 | [First Time Of Heaven \- Piano and Strings](https://open.spotify.com/track/28xXlF8sz0TgNL52WI7VkT) | [Charlie Ward](https://open.spotify.com/artist/2DAW0Yp7gDtFqrJk4v3zt2), [Kelly Lerner](https://open.spotify.com/artist/1qEe8TfUNdAIGm9ZBe23hO) | [First Time Of Heaven \(Piano and Strings\)](https://open.spotify.com/album/5J4JVqt7PgLD5RzwYt5FjG) | 2:16 |
-| 57 | [EGUZKIA GALDU](https://open.spotify.com/track/3EsMeZfc60xWznnM6QgHBq) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [EGUZKIA GALDU](https://open.spotify.com/album/6mHmrZX37v9XTVUJWVavXv) | 2:41 |
-| 58 | [Adventure](https://open.spotify.com/track/6hAQReL2lY2ygoJF0nXQic) | [Mahmoud Valanejad](https://open.spotify.com/artist/4qCb7k3NdlqIqh0fXl2Kor) | [Adventure](https://open.spotify.com/album/5AuYjfOuvm2mcAoJiQV0Sn) | 3:42 |
+| 57 | [Adventure](https://open.spotify.com/track/6hAQReL2lY2ygoJF0nXQic) | [Mahmoud Valanejad](https://open.spotify.com/artist/4qCb7k3NdlqIqh0fXl2Kor) | [Adventure](https://open.spotify.com/album/5AuYjfOuvm2mcAoJiQV0Sn) | 3:42 |
+| 58 | [EGUZKIA GALDU](https://open.spotify.com/track/3EsMeZfc60xWznnM6QgHBq) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [EGUZKIA GALDU](https://open.spotify.com/album/6mHmrZX37v9XTVUJWVavXv) | 2:41 |
 | 59 | [Things of the World \- Piano and Strings](https://open.spotify.com/track/5e7rOKu6CZxntaa8gKOihj) | [Amelie Bernard](https://open.spotify.com/artist/1VcWfPz5hcVdwJwmkzp37N), [Andy Muller](https://open.spotify.com/artist/3GJdStK9xNIA5iOpesGg4d) | [Things of the World \(Piano and Strings\)](https://open.spotify.com/album/2yxNHqEapsxfDnheg65zrI) | 1:40 |
 | 60 | [Musica Desolata](https://open.spotify.com/track/3Yxr6ErXlxOZlKpHopaOZ4) | [Alexei Aigui](https://open.spotify.com/artist/5LaWJYIJaRFtx0HbieOTE5), [Arkady Marto](https://open.spotify.com/artist/2EgSk5VfvU0eFTdX3J7tWx) | [Musica Desolata](https://open.spotify.com/album/6d2zEv374iiL8FmTRbuklB) | 4:44 |
 | 61 | [Perceptions](https://open.spotify.com/track/2AmTV3F2vLsWjDyALrga6T) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Spirituality](https://open.spotify.com/album/5BcPRt3YRZyq9vKkjMXuvF) | 2:53 |
 | 62 | [Low Sun](https://open.spotify.com/track/4CLkN6PDHrMkYbiQIigVz3) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Hristo Dunev](https://open.spotify.com/artist/4MLvUhJnm30eDAF8ZfC6UF) | [Low Sun](https://open.spotify.com/album/2rZV82DIS8DASudAIoBEHK) | 3:16 |
 | 63 | [Zerachiel](https://open.spotify.com/track/0APuGGovBTro3z0a3pdZUn) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [Zerachiel](https://open.spotify.com/album/1qD1l9X0SPLyPhkjoE9C2R) | 3:11 |
 
-Snapshot ID: `MTY2NzgzMTMxMCwwMDAwMDAwMDg1MDU1ODlmYTk3NzRiYmExNjZmMTljNzQ2NTA4OGM3`
+Snapshot ID: `MCxlNWQ3Y2FkNzlkNmUxZTIyMGNkMTMxM2VjZWY1ZjlmZGU3NDMwOGFi`

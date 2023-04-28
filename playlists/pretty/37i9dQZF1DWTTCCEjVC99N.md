@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 
 > Get ready for some serious 00s nostalgia\. Cover : Nancy Ajram
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,719 likes - 101 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,883 likes - 101 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 | 100 | [ياعيبو](https://open.spotify.com/track/5dO1DVK8yI01YNzfeBfEKT) | [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [ياعيبو](https://open.spotify.com/album/7CebL91fa4J3Vx86Z20h88) | 3:42 |
 | 101 | [El Hawa Sultan](https://open.spotify.com/track/0WL1sLdWPecxG3qn764QOp) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Café Arabia Volume 2](https://open.spotify.com/album/6J7G9xjjysTRe9MZVImAaf) | 7:02 |
 
-Snapshot ID: `MTY4MTkyMjM5MiwwMDAwMDAwMDgzY2IwMDE5ZWEyYzAzNTRmMjdlZjM3Mzc0YjQyY2Jh`
+Snapshot ID: `MCw0MzJjMzI1MGNjNmE3M2UzNzk1ZjgxZjJjNzE2ZjFjOWQ1MjE2N2Ew`

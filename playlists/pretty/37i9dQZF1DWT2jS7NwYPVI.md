@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: James Mantis
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,775 likes - 110 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,836 likes - 110 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 109 | [Hybrid](https://open.spotify.com/track/1KcSoLTbW95AiUj8RLcPxr) | [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [God, I Hate This Place](https://open.spotify.com/album/506D0KoP1j3ttcJACqWd3T) | 2:33 |
 | 110 | [my apartment](https://open.spotify.com/track/5xM66YoPHW9XQTEFrpQlK4) | [James Droll](https://open.spotify.com/artist/3lPtB78D5puSWQ7ltAafQw), [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [my apartment](https://open.spotify.com/album/5hPKVtotgBGsoK6eTWvl8w) | 2:40 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDQ2NzcyMGRkM2ZhOWFkODEyNzc4Yzg1MGE3NWRmMjA4`
+Snapshot ID: `MCwxYjY0ODI0NzQyNzU5MjczMjA3NTZjZDU5OTViYjlhY2U4N2Q5MmRm`

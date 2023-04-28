@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: SKALA\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,141 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,203 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [So High](https://open.spotify.com/track/5bl9e2nxUeJRNBw8nR7MiA) | [FOLEY \(UK\)](https://open.spotify.com/artist/6anTdfcXpebpP1MVwq4BZD) | [So High](https://open.spotify.com/album/7IIRB44IyFtcsIebT7nizx) | 6:16 |
 | 100 | [Chimes \- Original Mix](https://open.spotify.com/track/2nY29ALA1fzASz4lHdk0HX) | [BJORN](https://open.spotify.com/artist/06dkssYdUIWLAvgpsVTFNU) | [Chimes EP](https://open.spotify.com/album/1Ih60PxbPxipjtj9xIrOak) | 6:39 |
 
-Snapshot ID: `MTY4MjUzMTc2MywwMDAwMDAwMDRiNWQ3NjM4N2EwYzFiNTBkOGEzNjMxZDA3ZjlkNTE2`
+Snapshot ID: `MCw5MmU0ZjZjY2RlOTQxYTZhZTg2ODUxNWZhNzMzMDUxOTIzMzUxYWM3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 
 > For body and mind, blues straight from the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,498 likes - 70 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,602 likes - 70 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 69 | [Plenty Good Room](https://open.spotify.com/track/06aouHeZQx45YdKPCnxgt6) | [Lynda Randle](https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI) | [Plenty Good Room](https://open.spotify.com/album/5YRDhVX5npZe6l8s8NcKyA) | 3:57 |
 | 70 | [I Have No One \- Remastered 2022](https://open.spotify.com/track/308gSPfGJpzLK9rnYCZZtB) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [South Side Of Soul Street: The SSS Sessions \(Remastered 2022\)](https://open.spotify.com/album/3u1omgR0jZ23t1KdAmsaef) | 3:09 |
 
-Snapshot ID: `MTY4MTQwMTc0MywwMDAwMDAwMDgyZTljODhhZGI2MDU4OTIyYmRjZTAyYWE4NjkwYjlk`
+Snapshot ID: `MCwwODNjZWY3MDBmNDRhMTZjMWZmZmQxNTNmZDY1YzAxYmI3MDhiYzhh`

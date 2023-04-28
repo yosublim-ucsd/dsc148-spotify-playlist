@@ -1,12 +1,12 @@
 {
   "description": "It's like rock, but softer. Cover: Fleetwood Mac",
-  "num_followers": 3583247,
+  "num_followers": 3583384,
   "original_name": "Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTUxMTQzNiwwMDAwMDAwMDE3NDdiNWRjOWFkNzA4YTIwYjM3OTIyNTRlMzY3NTQ5",
+  "snapshot_id": "MCxmNWQzYWViNGFkNDFhMmI0ZDlhMzM4NmE5NmRjYmJlZDEzZjQ5ZDQ1",
   "tracks": [
     {
       "added_at": "2023-03-20 17:07:41",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "The Nightfly",
-        "url": "https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8"
-      },
-      "artists": [
-        {
-          "name": "Donald Fagen",
-          "url": "https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb"
-        }
-      ],
-      "duration_ms": 363413,
-      "name": "I.G.Y.",
-      "url": "https://open.spotify.com/track/6bzwsAtj4TqaBysLDrGiO3"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "What Were Once Vices Are Now Habits",
         "url": "https://open.spotify.com/album/6Jnw1MZ5lrICgurtzc3WqB"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 267800,
       "name": "Another Park, Another Sunday",
       "url": "https://open.spotify.com/track/6K1Wr66UPDkfsS4lrNdY9e"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "The Nightfly",
+        "url": "https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8"
+      },
+      "artists": [
+        {
+          "name": "Donald Fagen",
+          "url": "https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb"
+        }
+      ],
+      "duration_ms": 363413,
+      "name": "I.G.Y.",
+      "url": "https://open.spotify.com/track/6bzwsAtj4TqaBysLDrGiO3"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "The Dream Weaver",
-        "url": "https://open.spotify.com/album/0tFPDkiH2TpnjoVcrWtZHp"
-      },
-      "artists": [
-        {
-          "name": "Gary Wright",
-          "url": "https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84"
-        }
-      ],
-      "duration_ms": 230106,
-      "name": "Love Is Alive",
-      "url": "https://open.spotify.com/track/5vVuiXoHyRGxJeCaHUpgae"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Diamond Girl",
         "url": "https://open.spotify.com/album/11hw0WWSfcwWTNKaMk5kmr"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 253400,
       "name": "Diamond Girl",
       "url": "https://open.spotify.com/track/7CQQBWqFfROA5RWyY04ifv"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "The Dream Weaver",
+        "url": "https://open.spotify.com/album/0tFPDkiH2TpnjoVcrWtZHp"
+      },
+      "artists": [
+        {
+          "name": "Gary Wright",
+          "url": "https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84"
+        }
+      ],
+      "duration_ms": 230106,
+      "name": "Love Is Alive",
+      "url": "https://open.spotify.com/track/5vVuiXoHyRGxJeCaHUpgae"
     },
     {
       "added_at": "2023-03-20 17:07:41",

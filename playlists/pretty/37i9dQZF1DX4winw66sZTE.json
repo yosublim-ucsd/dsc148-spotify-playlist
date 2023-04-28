@@ -1,12 +1,12 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 10823,
+  "num_followers": 10862,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNDU2ODA0MiwwMDAwMDAwMDFiY2JhNGI5NWJlMDVmZDNkYmNiMTM1OGVkYTM1NTQz",
+  "snapshot_id": "MCxhYjY1NzJlOTFlZDk5NTYwMzhlYjMwNzJhNTIyYzVmNWE5NjYwOTY1",
   "tracks": [
     {
       "added_at": "2021-03-01 03:07:22",
@@ -75,6 +75,22 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "The Perfect Red Velvet - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 210817,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "Guardian (Original Television Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/6Pr1DaOWfT6hEewhZMRyqg"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 192441,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/1HYzRuWjmS9LXCkdVHi25K"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "The Perfect Red Velvet - The 2nd Album Repackage",
-        "url": "https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 210817,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -411,6 +411,22 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "FATE NUMBER FOR",
+        "url": "https://open.spotify.com/album/7aUSYOs4iSl0qx28lelrs0"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "duration_ms": 203056,
+      "name": "REALLY REALLY",
+      "url": "https://open.spotify.com/track/4iJyTp1KwCeBKhf7h0SwsD"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 229359,
       "name": "D (Half Moon)",
       "url": "https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "FATE NUMBER FOR",
-        "url": "https://open.spotify.com/album/7aUSYOs4iSl0qx28lelrs0"
-      },
-      "artists": [
-        {
-          "name": "WINNER",
-          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
-        }
-      ],
-      "duration_ms": 203056,
-      "name": "REALLY REALLY",
-      "url": "https://open.spotify.com/track/4iJyTp1KwCeBKhf7h0SwsD"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -511,22 +511,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Another Miss Oh (Original Television Soundtrack), Pt 5",
-        "url": "https://open.spotify.com/album/02A9jQnxsbsumaRTj3nxQr"
-      },
-      "artists": [
-        {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
-        }
-      ],
-      "duration_ms": 272847,
-      "name": "If It Is You",
-      "url": "https://open.spotify.com/track/5i6gHFXg4aLK5xvc2jJJC5"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "HANN (Alone)",
         "url": "https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 205820,
       "name": "HANN (Alone)",
       "url": "https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Another Miss Oh (Original Television Soundtrack), Pt 5",
+        "url": "https://open.spotify.com/album/02A9jQnxsbsumaRTj3nxQr"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "duration_ms": 272847,
+      "name": "If It Is You",
+      "url": "https://open.spotify.com/track/5i6gHFXg4aLK5xvc2jJJC5"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -575,22 +575,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "REAL",
-        "url": "https://open.spotify.com/album/4WY1pPvmP9sBlVICuPxBQh"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 233586,
-      "name": "Good day",
-      "url": "https://open.spotify.com/track/1SwZVVH9BnXtLRLi2cbFhw"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "Stand Up",
         "url": "https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 256359,
       "name": "Haru Haru",
       "url": "https://open.spotify.com/track/1L4d2lafz1odpIMe8va21X"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "REAL",
+        "url": "https://open.spotify.com/album/4WY1pPvmP9sBlVICuPxBQh"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 233586,
+      "name": "Good day",
+      "url": "https://open.spotify.com/track/1SwZVVH9BnXtLRLi2cbFhw"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -659,22 +659,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "\uc3d8\ub9ac \uc3d8\ub9ac Sorry, Sorry - The 3rd Album",
-        "url": "https://open.spotify.com/album/3v5XUoZzxbmJbxs7vWTua3"
-      },
-      "artists": [
-        {
-          "name": "SUPER JUNIOR",
-          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "\uc3d8\ub9ac \uc3d8\ub9ac Sorry, Sorry",
-      "url": "https://open.spotify.com/track/5w18nowVMRZrC5Na9Vxoth"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "GFRIEND 3rd Mini Album 'SNOWFLAKE'",
         "url": "https://open.spotify.com/album/0COnSwFb5qOhABUyWNw6Kp"
       },
@@ -687,6 +671,38 @@
       "duration_ms": 209104,
       "name": "Rough",
       "url": "https://open.spotify.com/track/3CVeGXpoPKJQ9JuhPp3mpL"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 231748,
+      "name": "FXXK IT",
+      "url": "https://open.spotify.com/track/3lYvepDz6yYj29z7e4r5z0"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "\uc3d8\ub9ac \uc3d8\ub9ac Sorry, Sorry - The 3rd Album",
+        "url": "https://open.spotify.com/album/3v5XUoZzxbmJbxs7vWTua3"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "\uc3d8\ub9ac \uc3d8\ub9ac Sorry, Sorry",
+      "url": "https://open.spotify.com/track/5w18nowVMRZrC5Na9Vxoth"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -719,22 +735,6 @@
       "duration_ms": 190821,
       "name": "View",
       "url": "https://open.spotify.com/track/46E1ic6n099e76t5J1TbHn"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "MADE",
-        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 231748,
-      "name": "FXXK IT",
-      "url": "https://open.spotify.com/track/3lYvepDz6yYj29z7e4r5z0"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -807,6 +807,22 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 211926,
+      "name": "LET'S NOT FALL IN LOVE",
+      "url": "https://open.spotify.com/track/6UgkB0xM45TR3Zjqm3GQ6T"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "NCT 2018 EMPATHY",
         "url": "https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX"
       },
@@ -875,22 +891,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "MADE",
-        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 211926,
-      "name": "LET'S NOT FALL IN LOVE",
-      "url": "https://open.spotify.com/track/6UgkB0xM45TR3Zjqm3GQ6T"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "Ma Boy",
         "url": "https://open.spotify.com/album/76EJZHFfzKIOrf97HE4at7"
       },
@@ -939,6 +939,22 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 233098,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/4LOLvDtzykDC7y9WehFoOi"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "CRUSH",
         "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
       },
@@ -967,38 +983,6 @@
       "duration_ms": 243323,
       "name": "Every moment of you \ub108\uc758 \ubaa8\ub4e0 \uc21c\uac04",
       "url": "https://open.spotify.com/track/4YTvuLSqKshDOJvwyDmAYS"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "20",
-        "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
-      },
-      "artists": [
-        {
-          "name": "HYUKOH",
-          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
-        }
-      ],
-      "duration_ms": 194866,
-      "name": "Wi Ing Wi Ing",
-      "url": "https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "ALIVE",
-        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 233098,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/4LOLvDtzykDC7y9WehFoOi"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "THE THIRD SINGLE CATALLENA",
-        "url": "https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY"
+        "name": "20",
+        "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
       },
       "artists": [
         {
-          "name": "Orange Caramel",
-          "url": "https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK"
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
         }
       ],
-      "duration_ms": 193153,
-      "name": "Catallena",
-      "url": "https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j"
+      "duration_ms": 194866,
+      "name": "Wi Ing Wi Ing",
+      "url": "https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1063,6 +1047,22 @@
       "duration_ms": 201325,
       "name": "Give it to me",
       "url": "https://open.spotify.com/track/1t88m8JUlqn9kf0FLmVta5"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "THE THIRD SINGLE CATALLENA",
+        "url": "https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY"
+      },
+      "artists": [
+        {
+          "name": "Orange Caramel",
+          "url": "https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK"
+        }
+      ],
+      "duration_ms": 193153,
+      "name": "Catallena",
+      "url": "https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "My Last Love OST Part.4",
-        "url": "https://open.spotify.com/album/58CBwM98Y356zD5AVGZkZG"
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 195216,
-      "name": "Hold my hand",
-      "url": "https://open.spotify.com/track/0KVClXxsZEKkyWRNXeRFrE"
+      "duration_ms": 279655,
+      "name": "LAST DANCE",
+      "url": "https://open.spotify.com/track/7ijWcf4FsoxoyPK4B9WGp6"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "MADE",
-        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
+        "name": "My Last Love OST Part.4",
+        "url": "https://open.spotify.com/album/58CBwM98Y356zD5AVGZkZG"
       },
       "artists": [
         {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 279655,
-      "name": "LAST DANCE",
-      "url": "https://open.spotify.com/track/7ijWcf4FsoxoyPK4B9WGp6"
+      "duration_ms": 195216,
+      "name": "Hold my hand",
+      "url": "https://open.spotify.com/track/0KVClXxsZEKkyWRNXeRFrE"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1339,6 +1339,26 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "duration_ms": 219306,
+      "name": "I Need A Girl (Feat. G-DRAGON)",
+      "url": "https://open.spotify.com/track/34oRc4INwO7000LJUQLy5X"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "ME",
         "url": "https://open.spotify.com/album/3STCVlFXF9KGz3ATBo56a3"
       },
@@ -1367,26 +1387,6 @@
       "duration_ms": 217085,
       "name": "Only One",
       "url": "https://open.spotify.com/track/3Hyl7YrOtBcnh1geON2kSO"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "Solar",
-        "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        },
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        }
-      ],
-      "duration_ms": 219306,
-      "name": "I Need A Girl (Feat. G-DRAGON)",
-      "url": "https://open.spotify.com/track/34oRc4INwO7000LJUQLy5X"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "180\u02da",
-        "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
+        "name": "Yanghwa BRDG",
+        "url": "https://open.spotify.com/album/3g3lXFXBEo6u3xbfzYNcd4"
       },
       "artists": [
         {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
         }
       ],
-      "duration_ms": 229187,
-      "name": "180 Degree",
-      "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
+      "duration_ms": 229349,
+      "name": "Yanghwa BRDG",
+      "url": "https://open.spotify.com/track/7saJl9V0kRYGWuyeURHYNU"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Yanghwa BRDG",
-        "url": "https://open.spotify.com/album/3g3lXFXBEo6u3xbfzYNcd4"
+        "name": "180\u02da",
+        "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
       },
       "artists": [
         {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
         }
       ],
-      "duration_ms": 229349,
-      "name": "Yanghwa BRDG",
-      "url": "https://open.spotify.com/track/7saJl9V0kRYGWuyeURHYNU"
+      "duration_ms": 229187,
+      "name": "180 Degree",
+      "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
     },
     {
       "added_at": "2021-03-01 03:07:22",

@@ -211,6 +211,28 @@
     },
     {
       "album": {
+        "name": "5th Dimension",
+        "url": "https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "Apotheke",
+      "url": "https://open.spotify.com/track/4rijFxOY3GvhHopiWwHX71"
+    },
+    {
+      "album": {
         "name": "Ara (Gen Gen Tin)",
         "url": "https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO"
       },
@@ -262,7 +284,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 171921,
       "name": "Astalavista",
       "url": "https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE"
@@ -786,7 +808,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 214285,
       "name": "Bunda",
       "url": "https://open.spotify.com/track/2Sd6kW3eOWZBe86hIA8YNm"
@@ -1128,7 +1150,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 161538,
       "name": "Dada",
       "url": "https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT"
@@ -1240,7 +1262,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 209968,
       "name": "Different Size (feat. Victony)",
       "url": "https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6"
@@ -1306,6 +1328,24 @@
       "duration_ms": 205085,
       "name": "Don't Shout",
       "url": "https://open.spotify.com/track/7F9SLE2RyEJzT8fo0wOvXO"
+    },
+    {
+      "album": {
+        "name": "Duffel Bag",
+        "url": "https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127067,
+      "name": "Duffel Bag",
+      "url": "https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3"
     },
     {
       "album": {
@@ -1581,6 +1621,24 @@
     },
     {
       "album": {
+        "name": "For Daddy",
+        "url": "https://open.spotify.com/album/3i534DhtsQpI3SVgoBH6mf"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153232,
+      "name": "For Daddy",
+      "url": "https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT"
+    },
+    {
+      "album": {
         "name": "Freaky Friday",
         "url": "https://open.spotify.com/album/3F94KLNyE0b4tifAUqrvcL"
       },
@@ -1754,7 +1812,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 162991,
       "name": "Gbese",
       "url": "https://open.spotify.com/track/41DLxR8Dt5Fh6LpqBjAnnJ"
@@ -2316,12 +2374,12 @@
           "url": "https://open.spotify.com/artist/31pQP1G762IF86wGrd2f3v"
         },
         {
-          "name": "Yung D3mz",
-          "url": "https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf"
-        },
-        {
           "name": "Frontback",
           "url": "https://open.spotify.com/artist/4uuYNKIR4DjaMJCerKYcCD"
+        },
+        {
+          "name": "Yung D3mz",
+          "url": "https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf"
         }
       ],
       "date_added": "2023-04-20",
@@ -2622,6 +2680,28 @@
       "duration_ms": 153495,
       "name": "KAMBA",
       "url": "https://open.spotify.com/track/3Kvzzly09Ziy1UUzsn5sZx"
+    },
+    {
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194040,
+      "name": "KANTE (feat. Fave)",
+      "url": "https://open.spotify.com/track/7vKXc90NT5WBm3UTT4iTVG"
     },
     {
       "album": {
@@ -3977,6 +4057,24 @@
     },
     {
       "album": {
+        "name": "Omo Ologo",
+        "url": "https://open.spotify.com/album/74BlJC2C7ifL7mgPCRFpKN"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156897,
+      "name": "Rara",
+      "url": "https://open.spotify.com/track/7Ko1e2popoynx9jsU0wj6S"
+    },
+    {
+      "album": {
         "name": "Reconsider",
         "url": "https://open.spotify.com/album/4vdQCk3kk6k2AKpszDDfmw"
       },
@@ -4811,6 +4909,28 @@
     },
     {
       "album": {
+        "name": "Tornado",
+        "url": "https://open.spotify.com/album/339rnWvetNqZTAZzxrlv35"
+      },
+      "artists": [
+        {
+          "name": "Tripcy",
+          "url": "https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn"
+        },
+        {
+          "name": "Nektunez",
+          "url": "https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158239,
+      "name": "Tornado",
+      "url": "https://open.spotify.com/track/52L1OTjUe8Zmz8xQH9HENi"
+    },
+    {
+      "album": {
         "name": "Turkey Nla",
         "url": "https://open.spotify.com/album/2XuIjzprhWmIMOjSHdNMAL"
       },
@@ -5096,7 +5216,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 248697,
       "name": "Werser",
       "url": "https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16"

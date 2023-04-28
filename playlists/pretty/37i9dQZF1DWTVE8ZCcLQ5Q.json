@@ -1,12 +1,12 @@
 {
   "description": "Descubra MC Luanna e novos talentos brasileiros no horizonte.",
-  "num_followers": 421878,
+  "num_followers": 421894,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjM3MTY2MywwMDAwMDAwMDhiZTBhY2ZiZWUxZDljZTRjYWY5OTEyZGZjYzUyZDhi",
+  "snapshot_id": "MCw2ZGUwMjA5MmNhNGFiYTEyZmFjZmUwNzY3MGNlMmExOWJkNmVjOTVl",
   "tracks": [
     {
       "added_at": "2023-04-24 21:27:43",
@@ -483,6 +483,26 @@
     {
       "added_at": "2023-04-24 21:27:43",
       "album": {
+        "name": "COSTA QUENTE",
+        "url": "https://open.spotify.com/album/262D8mrqEGl3kNjV4n0RH8"
+      },
+      "artists": [
+        {
+          "name": "Flacko",
+          "url": "https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        }
+      ],
+      "duration_ms": 166285,
+      "name": "COSTA QUENTE",
+      "url": "https://open.spotify.com/track/0Lv1yqE8zkffbocnMcY8vN"
+    },
+    {
+      "added_at": "2023-04-24 21:27:43",
+      "album": {
         "name": "Levado - Spotify Singles",
         "url": "https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 190722,
       "name": "Homens Como Voc\u00ea",
       "url": "https://open.spotify.com/track/1M6VDhgs95sHQSnsSOocIj"
-    },
-    {
-      "added_at": "2023-04-24 21:27:43",
-      "album": {
-        "name": "COSTA QUENTE",
-        "url": "https://open.spotify.com/album/262D8mrqEGl3kNjV4n0RH8"
-      },
-      "artists": [
-        {
-          "name": "Flacko",
-          "url": "https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        }
-      ],
-      "duration_ms": 166285,
-      "name": "COSTA QUENTE",
-      "url": "https://open.spotify.com/track/0Lv1yqE8zkffbocnMcY8vN"
     },
     {
       "added_at": "2023-04-24 21:27:43",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-04-24 21:27:43",
       "album": {
+        "name": "Viciado em Voc\u00ea",
+        "url": "https://open.spotify.com/album/0cpzXFyvb1RroJP0sS4VYb"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 147476,
+      "name": "Viciado em Voc\u00ea",
+      "url": "https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D"
+    },
+    {
+      "added_at": "2023-04-24 21:27:43",
+      "album": {
         "name": "Set Ajc",
         "url": "https://open.spotify.com/album/3DymWr7vqMdUQbX7ko9OFh"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 343399,
       "name": "Set Ajc",
       "url": "https://open.spotify.com/track/4Rm0KWTctjT6Fw0yny87Gq"
-    },
-    {
-      "added_at": "2023-04-24 21:27:43",
-      "album": {
-        "name": "Viciado em Voc\u00ea",
-        "url": "https://open.spotify.com/album/0cpzXFyvb1RroJP0sS4VYb"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 147476,
-      "name": "Viciado em Voc\u00ea",
-      "url": "https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D"
     },
     {
       "added_at": "2023-04-24 21:27:43",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-04-24 21:27:43",
       "album": {
-        "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
-        "url": "https://open.spotify.com/album/068AREijgAvQQuZkiAfap3"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 141557,
-      "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
-      "url": "https://open.spotify.com/track/66T9qmi90u64HeZHTZSH2j"
-    },
-    {
-      "added_at": "2023-04-24 21:27:43",
-      "album": {
         "name": "Favelinha",
         "url": "https://open.spotify.com/album/46iB1eRPEXsHE2IqPr1qHd"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 150857,
       "name": "Me liga",
       "url": "https://open.spotify.com/track/4ia06gVwN3wMDpZXRMFcX6"
+    },
+    {
+      "added_at": "2023-04-24 21:27:43",
+      "album": {
+        "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
+        "url": "https://open.spotify.com/album/068AREijgAvQQuZkiAfap3"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 141557,
+      "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
+      "url": "https://open.spotify.com/track/66T9qmi90u64HeZHTZSH2j"
     },
     {
       "added_at": "2023-04-24 21:27:43",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-04-24 21:27:43",
       "album": {
-        "name": "Phone",
-        "url": "https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 166103,
-      "name": "Phone",
-      "url": "https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM"
-    },
-    {
-      "added_at": "2023-04-24 21:27:43",
-      "album": {
         "name": "Imaginar",
         "url": "https://open.spotify.com/album/7vkh9ZNyMOGNT6buIpje3x"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 131071,
       "name": "Eu Te Dei, Amor",
       "url": "https://open.spotify.com/track/295aNQC63tnXBPFfohPcqO"
+    },
+    {
+      "added_at": "2023-04-24 21:27:43",
+      "album": {
+        "name": "Phone",
+        "url": "https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 166103,
+      "name": "Phone",
+      "url": "https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM"
     },
     {
       "added_at": "2023-04-24 21:27:43",
@@ -1207,30 +1207,6 @@
     {
       "added_at": "2023-04-24 21:27:43",
       "album": {
-        "name": "Rompe",
-        "url": "https://open.spotify.com/album/283BKOpijdldRWEsKOfAmT"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "PK Delas",
-          "url": "https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3"
-        },
-        {
-          "name": "Dj Alle da coro",
-          "url": "https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x"
-        }
-      ],
-      "duration_ms": 153004,
-      "name": "Rompe",
-      "url": "https://open.spotify.com/track/5ay5pvM8CuZTsbrr0wfxRH"
-    },
-    {
-      "added_at": "2023-04-24 21:27:43",
-      "album": {
         "name": "Tu tem jeito de quem gosta",
         "url": "https://open.spotify.com/album/5vrKMwJ2laISjYY0nWzZ2o"
       },
@@ -1287,6 +1263,30 @@
       "duration_ms": 243548,
       "name": "Putaria e Crime",
       "url": "https://open.spotify.com/track/37FfXMaqjD664lk7VcXEqr"
+    },
+    {
+      "added_at": "2023-04-24 21:27:43",
+      "album": {
+        "name": "Rompe",
+        "url": "https://open.spotify.com/album/283BKOpijdldRWEsKOfAmT"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "PK Delas",
+          "url": "https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3"
+        },
+        {
+          "name": "Dj Alle da coro",
+          "url": "https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x"
+        }
+      ],
+      "duration_ms": 153004,
+      "name": "Rompe",
+      "url": "https://open.spotify.com/track/5ay5pvM8CuZTsbrr0wfxRH"
     },
     {
       "added_at": "2023-04-24 21:27:43",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2023-04-24 21:27:43",
       "album": {
-        "name": "Vai Com Calma",
-        "url": "https://open.spotify.com/album/5ZaAnTOSuwFfbslG3rhZQQ"
-      },
-      "artists": [
-        {
-          "name": "SH1FT",
-          "url": "https://open.spotify.com/artist/4Jd5igGCAn61KCtrznCuCD"
-        },
-        {
-          "name": "Bruxo 021",
-          "url": "https://open.spotify.com/artist/3yofl1khzdO4vkH6tyMg0t"
-        }
-      ],
-      "duration_ms": 136289,
-      "name": "Vai Com Calma",
-      "url": "https://open.spotify.com/track/4AN6cNIdzN87leIjzcYHE7"
-    },
-    {
-      "added_at": "2023-04-24 21:27:43",
-      "album": {
         "name": "Contrai",
         "url": "https://open.spotify.com/album/5O2GGOafAOjpSG6yr6Krgm"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 180008,
       "name": "Contrai",
       "url": "https://open.spotify.com/track/43bcJZ3Q0sxxPXPW9o5xE6"
+    },
+    {
+      "added_at": "2023-04-24 21:27:43",
+      "album": {
+        "name": "Vai Com Calma",
+        "url": "https://open.spotify.com/album/5ZaAnTOSuwFfbslG3rhZQQ"
+      },
+      "artists": [
+        {
+          "name": "SH1FT",
+          "url": "https://open.spotify.com/artist/4Jd5igGCAn61KCtrznCuCD"
+        },
+        {
+          "name": "Bruxo 021",
+          "url": "https://open.spotify.com/artist/3yofl1khzdO4vkH6tyMg0t"
+        }
+      ],
+      "duration_ms": 136289,
+      "name": "Vai Com Calma",
+      "url": "https://open.spotify.com/track/4AN6cNIdzN87leIjzcYHE7"
     },
     {
       "added_at": "2023-04-24 21:27:43",

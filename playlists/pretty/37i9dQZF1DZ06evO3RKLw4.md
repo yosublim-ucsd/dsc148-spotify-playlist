@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 
 > This is Rancid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,831 likes - 51 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,859 likes - 51 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 | 50 | [Spirit of '87](https://open.spotify.com/track/11LLAA8ur0h06BjAJmG4zl) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Indestructible](https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg) | 3:22 |
 | 51 | [Corruption](https://open.spotify.com/track/4pMLW2yaVg2QKCP27ZcZus) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid \(5\)](https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw) | 1:27 |
 
-Snapshot ID: `MjgwNDE5MzAsMDAwMDAwMDAxNjAyMjRhMWIwMzljNGE5MjcyOTljNzljYWVkYWM1NQ==`
+Snapshot ID: `MjgwNDMzMjAsMDAwMDAwMDBjZWQ1MTNhYmFiODY5ZTI4NmMzNTc1ZTViODlhODZmZA==`

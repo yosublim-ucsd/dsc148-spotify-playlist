@@ -8542,7 +8542,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 229920,
       "name": "Never Fear",
       "url": "https://open.spotify.com/track/5jG4OWaAkMo4JATFSkCrpc"
@@ -11913,6 +11913,24 @@
     },
     {
       "album": {
+        "name": "9.",
+        "url": "https://open.spotify.com/album/1yj4g4NAlimjHHL2CF74Y7"
+      },
+      "artists": [
+        {
+          "name": "TOGITO",
+          "url": "https://open.spotify.com/artist/102etpERD7ol169sTsFdQK"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176222,
+      "name": "Sweet dream",
+      "url": "https://open.spotify.com/track/0Ru3TRhknBC8a9MjJyKKxV"
+    },
+    {
+      "album": {
         "name": "Sweet Escape (feat. \u3072\u304b\u308a)",
         "url": "https://open.spotify.com/album/6QWulBLmOcERqXcs2tSxh6"
       },
@@ -13408,7 +13426,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 212372,
       "name": "We Are",
       "url": "https://open.spotify.com/track/1qLc9IbANqjD79IHj47wU9"
@@ -20454,7 +20472,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 266900,
       "name": "\u591c\u3092\u30eb\u30fc\u30d7",
       "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"

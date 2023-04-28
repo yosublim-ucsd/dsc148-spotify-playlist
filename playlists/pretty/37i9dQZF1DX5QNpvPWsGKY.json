@@ -1,12 +1,12 @@
 {
   "description": "Un buffet de ritmos sabrositos para satisfacer tu paladar.",
-  "num_followers": 83919,
+  "num_followers": 84042,
   "original_name": "Taco Placero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2MDg1MCwwMDAwMDAwMDFlNmYzMzgyNWQ0MWM2NmNmNjBhYTk2ODgzZjQzYzM0",
+  "snapshot_id": "MCw0Yzc1YjdlZTczMDljMGQ0MjlhZTQxYzIxMmFkZWMyNjU4NjZlNGRh",
   "tracks": [
     {
       "added_at": "2022-01-25 19:05:16",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Con La Fuerza Del Destino",
-        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 177106,
-      "name": "C\u00f3mo Est\u00e1s T\u00fa",
-      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "Tesoros De Coleccion",
         "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 203560,
       "name": "Me Estoy Enamorando",
       "url": "https://open.spotify.com/track/6TyDYuV7w2BwEFnGiMkIn6"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Con La Fuerza Del Destino",
+        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "C\u00f3mo Est\u00e1s T\u00fa",
+      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -573,6 +573,22 @@
       "url": "https://open.spotify.com/track/1InGWsgNYr5cYTE4JWqGqu"
     },
     {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
+      },
+      "artists": [
+        {
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+        }
+      ],
+      "duration_ms": 203253,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/5o4hMBr9ovkytff8TBHreg"
+    },
+    {
       "added_at": "2023-01-10 17:48:12",
       "album": {
         "name": "Los Felinos",
@@ -603,22 +619,6 @@
       "duration_ms": 281129,
       "name": "Echarme Al Olvido",
       "url": "https://open.spotify.com/track/4mxSPzxq7VDUIDgALWsrKB"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
-      },
-      "artists": [
-        {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
-        }
-      ],
-      "duration_ms": 203253,
-      "name": "Nuestra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/5o4hMBr9ovkytff8TBHreg"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Qu\u00e9 Cante El Amor",
-        "url": "https://open.spotify.com/album/0vPT6w0dqWEo45IJuqqAuo"
-      },
-      "artists": [
-        {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
-        }
-      ],
-      "duration_ms": 202613,
-      "name": "Al Despertar",
-      "url": "https://open.spotify.com/track/0GCM7zzCulIbsU07Tt8trk"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "Enamorado De Un Fantasma",
         "url": "https://open.spotify.com/album/4XX1NXGCEwomxl6cYRcW2d"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 269466,
       "name": "Enamorado De Un Fantasma",
       "url": "https://open.spotify.com/track/47zLjYjuaWunbmMrn6jLLj"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Qu\u00e9 Cante El Amor",
+        "url": "https://open.spotify.com/album/0vPT6w0dqWEo45IJuqqAuo"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        }
+      ],
+      "duration_ms": 202613,
+      "name": "Al Despertar",
+      "url": "https://open.spotify.com/track/0GCM7zzCulIbsU07Tt8trk"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Desde El Corazon",
-        "url": "https://open.spotify.com/album/6f0iQNDK9xsmaWfiuhFUj5"
-      },
-      "artists": [
-        {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
-        }
-      ],
-      "duration_ms": 173626,
-      "name": "Notas de Sociedad",
-      "url": "https://open.spotify.com/track/1SZCsIFSRXG2m6J6GFqv4g"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "20 Cumbias Andinas",
         "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
       },
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Cumbias Chichadelicas: Peruvian Psychedelic Chicha",
-        "url": "https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo"
+        "name": "Desde El Corazon",
+        "url": "https://open.spotify.com/album/6f0iQNDK9xsmaWfiuhFUj5"
       },
       "artists": [
         {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
         }
       ],
-      "duration_ms": 171600,
-      "name": "Cumbia de los Pajaritos",
-      "url": "https://open.spotify.com/track/0fNwZHd0wq3eQEOppEqUEG"
+      "duration_ms": 173626,
+      "name": "Notas de Sociedad",
+      "url": "https://open.spotify.com/track/1SZCsIFSRXG2m6J6GFqv4g"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1263,6 +1247,22 @@
       "duration_ms": 420333,
       "name": "Caballo Viejo",
       "url": "https://open.spotify.com/track/1anvIYY3hAtLL72lJA5z44"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Cumbias Chichadelicas: Peruvian Psychedelic Chicha",
+        "url": "https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo"
+      },
+      "artists": [
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "duration_ms": 171600,
+      "name": "Cumbia de los Pajaritos",
+      "url": "https://open.spotify.com/track/0fNwZHd0wq3eQEOppEqUEG"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Viva el Amor",
-        "url": "https://open.spotify.com/album/6agj4FL2hImOYAV3WAGXBN"
+        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 2",
+        "url": "https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv"
       },
       "artists": [
         {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
         }
       ],
-      "duration_ms": 159306,
-      "name": "Dulcemente Enamorada",
-      "url": "https://open.spotify.com/track/2hWTlxqGczIVUC3tl6LaMJ"
+      "duration_ms": 235240,
+      "name": "Cari\u00f1ito Sin MI",
+      "url": "https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm"
     },
     {
       "added_at": "2023-01-10 17:48:12",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 2",
-        "url": "https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 235240,
-      "name": "Cari\u00f1ito Sin MI",
-      "url": "https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "Cumbias Con Amor",
         "url": "https://open.spotify.com/album/5GebqosGDuhpy9unAu9nvN"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 208266,
       "name": "Culpable O No",
       "url": "https://open.spotify.com/track/7pFkCMjIYl91V7oRIo0Sat"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Viva el Amor",
+        "url": "https://open.spotify.com/album/6agj4FL2hImOYAV3WAGXBN"
+      },
+      "artists": [
+        {
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+        }
+      ],
+      "duration_ms": 159306,
+      "name": "Dulcemente Enamorada",
+      "url": "https://open.spotify.com/track/2hWTlxqGczIVUC3tl6LaMJ"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Amor Vendido, Vol. 4",
-        "url": "https://open.spotify.com/album/6iC3acGZhPbKigho8pZNU3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Pegasso",
-          "url": "https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv"
-        }
-      ],
-      "duration_ms": 199807,
-      "name": "Hola, \u00bfC\u00f3mo Est\u00e1s?",
-      "url": "https://open.spotify.com/track/3z3BcSmA92dr3J8LP51Kit"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "Locura De Amor",
         "url": "https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 237080,
       "name": "Amor Carnal",
       "url": "https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Amor Vendido, Vol. 4",
+        "url": "https://open.spotify.com/album/6iC3acGZhPbKigho8pZNU3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Pegasso",
+          "url": "https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv"
+        }
+      ],
+      "duration_ms": 199807,
+      "name": "Hola, \u00bfC\u00f3mo Est\u00e1s?",
+      "url": "https://open.spotify.com/track/3z3BcSmA92dr3J8LP51Kit"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Caramelo",
-        "url": "https://open.spotify.com/album/1WgwIZMerQkpGMTesIlBHX"
-      },
-      "artists": [
-        {
-          "name": "Los Fantasmas del Caribe",
-          "url": "https://open.spotify.com/artist/5XiDsBqpcVgouOX1o9n6OQ"
-        }
-      ],
-      "duration_ms": 244506,
-      "name": "Muchacha Triste",
-      "url": "https://open.spotify.com/track/5aJtDBC3y4jyK63Af8yFbX"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "Me Volvi A Acordar De Ti",
         "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 205346,
       "name": "Donde Estas",
       "url": "https://open.spotify.com/track/2zfeUz2xzgrtM2kF5bprCY"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Caramelo",
+        "url": "https://open.spotify.com/album/1WgwIZMerQkpGMTesIlBHX"
+      },
+      "artists": [
+        {
+          "name": "Los Fantasmas del Caribe",
+          "url": "https://open.spotify.com/artist/5XiDsBqpcVgouOX1o9n6OQ"
+        }
+      ],
+      "duration_ms": 244506,
+      "name": "Muchacha Triste",
+      "url": "https://open.spotify.com/track/5aJtDBC3y4jyK63Af8yFbX"
     },
     {
       "added_at": "2023-01-10 17:48:12",
@@ -1753,24 +1753,20 @@
       "url": "https://open.spotify.com/track/3KTfwLP1ohmZNPLGbWxcjb"
     },
     {
-      "added_at": "2022-01-25 19:05:16",
+      "added_at": "2023-01-10 17:48:12",
       "album": {
-        "name": "M\u00fasica Tropical de Colombia, Vol. 3",
-        "url": "https://open.spotify.com/album/2GDi9jf5Xtc1f8BGWOSHs9"
+        "name": "El Pollo No Falla",
+        "url": "https://open.spotify.com/album/5bTmjye8Z3uYMKwM9Q4KYP"
       },
       "artists": [
         {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        },
-        {
-          "name": "Margarita",
-          "url": "https://open.spotify.com/artist/0L921lGxWEpNId5sF8rBbl"
+          "name": "Grupo Pegasso Del Pollo Esteban",
+          "url": "https://open.spotify.com/artist/0niB6NrGI4xxvwDtEmVnhM"
         }
       ],
-      "duration_ms": 250760,
-      "name": "Capullo y Sorullo",
-      "url": "https://open.spotify.com/track/6ZsHgpnSsHr87zwnxRp2Pw"
+      "duration_ms": 207173,
+      "name": "La Vi Llorar",
+      "url": "https://open.spotify.com/track/6HBI3f4k8qikkuJJiyoZ0b"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1789,20 +1785,24 @@
       "url": "https://open.spotify.com/track/6jPNqIc5llDGJ9hr5GfIhV"
     },
     {
-      "added_at": "2023-01-10 17:48:12",
+      "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "El Pollo No Falla",
-        "url": "https://open.spotify.com/album/5bTmjye8Z3uYMKwM9Q4KYP"
+        "name": "M\u00fasica Tropical de Colombia, Vol. 3",
+        "url": "https://open.spotify.com/album/2GDi9jf5Xtc1f8BGWOSHs9"
       },
       "artists": [
         {
-          "name": "Grupo Pegasso Del Pollo Esteban",
-          "url": "https://open.spotify.com/artist/0niB6NrGI4xxvwDtEmVnhM"
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        },
+        {
+          "name": "Margarita",
+          "url": "https://open.spotify.com/artist/0L921lGxWEpNId5sF8rBbl"
         }
       ],
-      "duration_ms": 207173,
-      "name": "La Vi Llorar",
-      "url": "https://open.spotify.com/track/6HBI3f4k8qikkuJJiyoZ0b"
+      "duration_ms": 250760,
+      "name": "Capullo y Sorullo",
+      "url": "https://open.spotify.com/track/6ZsHgpnSsHr87zwnxRp2Pw"
     },
     {
       "added_at": "2023-01-10 17:48:12",

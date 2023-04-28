@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Latto, OHGEESY, and more\. Cover: Moneybagg Yo
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,579 likes - 47 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,684 likes - 47 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 38 | [the rounds](https://open.spotify.com/track/4gSjbUyr2zl4VpzNCwaAq7) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [i changed my mind](https://open.spotify.com/album/1wiRhb9OGGa5ovAbsEXXtq) | 3:23 |
 | 39 | [S.M.P.](https://open.spotify.com/track/1aSvIlZK7bRfPO6GQIQxiz) | [E the profit](https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP) | [S.M.P.](https://open.spotify.com/album/6lo4OgP3TKKFHttZgP1OIp) | 1:46 |
 | 40 | [They Forgot](https://open.spotify.com/track/3wi1eX69hrWTUXArhA5KeS) | [2FeetBino](https://open.spotify.com/artist/5sw4vau0N1fwalr2ACVN9M) | [They Forgot](https://open.spotify.com/album/3t6d1nnXu0Y8nvvJ2PEnHF) | 2:21 |
-| 41 | [Female Gucci Mane](https://open.spotify.com/track/6GfhoE4A0qgC3eO4WxKVBN) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Female Gucci Mane](https://open.spotify.com/album/5TXHSbMLqg6hgNbTAuDaJ9) | 2:31 |
+| 41 | [Female Gucci Mane](https://open.spotify.com/track/6GfhoE4A0qgC3eO4WxKVBN) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Female Gucci Mane](https://open.spotify.com/album/5TXHSbMLqg6hgNbTAuDaJ9) | 2:29 |
 | 42 | [I Deserve](https://open.spotify.com/track/6pQEztfgRIKQGSPrP47xfI) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [I Deserve](https://open.spotify.com/album/0rBNiJ8KjGnpEMJHx9ErUW) | 2:22 |
 | 43 | [Rolling Dice](https://open.spotify.com/track/1NMpvFmtQTyvlP9mOIdZHv) | [Father](https://open.spotify.com/artist/10AY17ALos2o3akPqrPydw) | [Rolling Dice](https://open.spotify.com/album/3zzXknl2vtYwKxXeo7iHC5) | 2:29 |
 | 44 | [Thru The Town](https://open.spotify.com/track/7Cojm688CxexwiESIjZ2Ou) | [DCG BROTHERS](https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J) | [Thru The Town](https://open.spotify.com/album/1aMsSHYGis79SWIKjulvhg) | 2:49 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 46 | [PEACOAT](https://open.spotify.com/track/1hKUkZX9fHMj6Tk1jqDGUh) | [Esparo](https://open.spotify.com/artist/5ZPKRdlxEfhf3p48Fmk8tS) | [PEACOAT](https://open.spotify.com/album/0QuXeLKPgB1yX5Rt74FYJh) | 1:43 |
 | 47 | [Games](https://open.spotify.com/track/707DkaerHk1Ad2uySczdR4) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Games](https://open.spotify.com/album/3dCdXYs4q7pn3iCdsxzgd9) | 2:36 |
 
-Snapshot ID: `MTY4MjQ1OTc0MiwwMDAwMDAwMGY1MDRjNzM5YTljYzI3NmFlNThmYTgwMmQ1YjMxZWVh`
+Snapshot ID: `MCwwNWQ2YTJiMGEzMTg5ODA0ZjQyODFmZmIwYjUwNDRmNTllZjkwNDVk`

@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "A Quiet Message",
+        "url": "https://open.spotify.com/album/2oXytMuBdpnQjKnqnSgqdT"
+      },
+      "artists": [
+        {
+          "name": "Morris Lafleur",
+          "url": "https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165545,
+      "name": "A Quiet Message",
+      "url": "https://open.spotify.com/track/71cuAghXvaIQVBKGRwPDcK"
+    },
+    {
+      "album": {
         "name": "A Sky Full of Stars",
         "url": "https://open.spotify.com/album/7m0M3PVmOoJDlhWGDFSvH1"
       },
@@ -113,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Afternoon hovers",
+        "url": "https://open.spotify.com/album/2VMThT0iQUWcvbKm6OUOW7"
+      },
+      "artists": [
+        {
+          "name": "Oceane Bardot",
+          "url": "https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146867,
+      "name": "Afternoon hovers",
+      "url": "https://open.spotify.com/track/7JaU9CgUhv6I6DqryPyg1C"
+    },
+    {
+      "album": {
         "name": "Agate",
         "url": "https://open.spotify.com/album/6m6MYjcJWvX2PaBmfO28S0"
       },
@@ -142,7 +178,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 149631,
       "name": "Alahazy Basin",
       "url": "https://open.spotify.com/track/01Whyc3tjloWGRTPoK8MKR"
@@ -185,6 +221,42 @@
     },
     {
       "album": {
+        "name": "Amanda's Rose",
+        "url": "https://open.spotify.com/album/7qFUeny2ZIqb4hMfs7JyzV"
+      },
+      "artists": [
+        {
+          "name": "Jacob Ledger",
+          "url": "https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115065,
+      "name": "Amanda's Rose",
+      "url": "https://open.spotify.com/track/7irnzCCAnHTmWyH8KfIp2j"
+    },
+    {
+      "album": {
+        "name": "Any Day Now",
+        "url": "https://open.spotify.com/album/3PLBn83wOzdXLaJBej3kuX"
+      },
+      "artists": [
+        {
+          "name": "Tim Hans",
+          "url": "https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176058,
+      "name": "Any Day Now",
+      "url": "https://open.spotify.com/track/1nQc7JxHc1cg1hPVqCnQ04"
+    },
+    {
+      "album": {
         "name": "Appalachian Hike",
         "url": "https://open.spotify.com/album/1gkHmZmkrqGiP1X6Gso7WX"
       },
@@ -214,7 +286,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 127752,
       "name": "Arizona Sunsets",
       "url": "https://open.spotify.com/track/3vBZ5BwSoqcDdab0ks2AEx"
@@ -527,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/6Gcvlj6eQHvDSpU9nMM3M2"
+      },
+      "artists": [
+        {
+          "name": "K.C Brown",
+          "url": "https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149729,
+      "name": "Blush",
+      "url": "https://open.spotify.com/track/02lN91c8sceWQBD7JVhYaz"
+    },
+    {
+      "album": {
         "name": "Bonfire Blues",
         "url": "https://open.spotify.com/album/0aYVVLBqWT6v5s7hHk4r5n"
       },
@@ -542,6 +632,24 @@
       "duration_ms": 87465,
       "name": "Bonfire Blues",
       "url": "https://open.spotify.com/track/75pGTQsLr1M2nQWrNQxBSn"
+    },
+    {
+      "album": {
+        "name": "Broader Perspective",
+        "url": "https://open.spotify.com/album/634j9Sa1Mc5dCBqtYsdjdQ"
+      },
+      "artists": [
+        {
+          "name": "Argun North",
+          "url": "https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Broader Perspective",
+      "url": "https://open.spotify.com/track/4FFQNhG63aCcAVGSOkTEeR"
     },
     {
       "album": {
@@ -1046,7 +1154,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 156874,
       "name": "El Jacal",
       "url": "https://open.spotify.com/track/65gLeiH2oi3AKIcb62nbnR"
@@ -1154,7 +1262,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 171282,
       "name": "Fair Game",
       "url": "https://open.spotify.com/track/2FPEeTcNxk9qk8TxwwcxOL"
@@ -1914,10 +2022,28 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 128764,
       "name": "I Will Always Love You",
       "url": "https://open.spotify.com/track/1xqVie2iDsSZe1ZtL3XiG8"
+    },
+    {
+      "album": {
+        "name": "I'll Go South In The Winter",
+        "url": "https://open.spotify.com/album/53O4GY498LMzHCyUrrMyOC"
+      },
+      "artists": [
+        {
+          "name": "Lo Larsen",
+          "url": "https://open.spotify.com/artist/1RsZrWsACeuDkqAISdeFDi"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199007,
+      "name": "I'll Go South In The Winter",
+      "url": "https://open.spotify.com/track/4hkthEhEPIwQolnhMNAvi8"
     },
     {
       "album": {
@@ -2206,6 +2332,24 @@
       "duration_ms": 125413,
       "name": "Lakeside",
       "url": "https://open.spotify.com/track/2Igh5u0Gj6TtitvFY2eRhB"
+    },
+    {
+      "album": {
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/1LLh6WHQyFxRJSvMAw1kav"
+      },
+      "artists": [
+        {
+          "name": "Taylor Ellis",
+          "url": "https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151968,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/4CLVSuWpDxHuUXyIuGTVQ0"
     },
     {
       "album": {
@@ -2508,7 +2652,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 75863,
       "name": "Manana",
       "url": "https://open.spotify.com/track/1PMhQP6JaeKbIkzDbILOjk"
@@ -2814,7 +2958,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 163124,
       "name": "Ocean View",
       "url": "https://open.spotify.com/track/5pBeteeE2OuxTCkPbykuhb"
@@ -3138,7 +3282,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 181669,
       "name": "Readers",
       "url": "https://open.spotify.com/track/4tkACn8vZjisGUrhTzlmRX"
@@ -3505,6 +3649,24 @@
     },
     {
       "album": {
+        "name": "Sommersby",
+        "url": "https://open.spotify.com/album/5q7aaYPfvt8uOpaLJudHjH"
+      },
+      "artists": [
+        {
+          "name": "Joseph Cline",
+          "url": "https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108029,
+      "name": "Sommersby",
+      "url": "https://open.spotify.com/track/01n9zpPrEWCKsH6o27WwWR"
+    },
+    {
+      "album": {
         "name": "Soon Enough",
         "url": "https://open.spotify.com/album/3QQXybzOkugKZwfe9kX2lV"
       },
@@ -3714,7 +3876,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 160741,
       "name": "Sweet Disposition",
       "url": "https://open.spotify.com/track/5gNlgxqfMX2G1ptN8hGniT"
@@ -3736,6 +3898,24 @@
       "duration_ms": 180533,
       "name": "Sweet Sky",
       "url": "https://open.spotify.com/track/2HUz7Vn3QcsmCPrHmJojvi"
+    },
+    {
+      "album": {
+        "name": "Swingset",
+        "url": "https://open.spotify.com/album/3axglViVIh3CaSZZg8drYA"
+      },
+      "artists": [
+        {
+          "name": "Antonio y Lola",
+          "url": "https://open.spotify.com/artist/744WzucF7FBLg5nkA15b41"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126976,
+      "name": "Swingset",
+      "url": "https://open.spotify.com/track/0OBHK3hxUn0HSRg4TodKsu"
     },
     {
       "album": {
@@ -3793,6 +3973,42 @@
     },
     {
       "album": {
+        "name": "Tennessee Whisky",
+        "url": "https://open.spotify.com/album/5Yo1rUTQvWftDiCJnyshF8"
+      },
+      "artists": [
+        {
+          "name": "El Mar",
+          "url": "https://open.spotify.com/artist/4fxnolyScxkPqZc7WVxNEq"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361999,
+      "name": "TENNESSEE WHISKY",
+      "url": "https://open.spotify.com/track/5lBoLsqUSgMSqGUBNzRcxh"
+    },
+    {
+      "album": {
+        "name": "The Dust Settles",
+        "url": "https://open.spotify.com/album/06u42yAuNFUuzO2CLrJWCh"
+      },
+      "artists": [
+        {
+          "name": "Andrei Smirnova",
+          "url": "https://open.spotify.com/artist/6wLqG3xZFWS0M5pFimbbyr"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147096,
+      "name": "The Dust Settles",
+      "url": "https://open.spotify.com/track/0EVXNRFGjdC9xap72VhV7C"
+    },
+    {
+      "album": {
         "name": "The little road to Elling Bay",
         "url": "https://open.spotify.com/album/4PN2TaBXEt9l3RQBERhF96"
       },
@@ -3840,7 +4056,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 253586,
       "name": "The Pioneers",
       "url": "https://open.spotify.com/track/6cuKQazicx5r7o5NQEp1uL"
@@ -4006,6 +4222,24 @@
       "duration_ms": 147027,
       "name": "Timespell",
       "url": "https://open.spotify.com/track/7DU07JAnqCz5YRjvFZxUnI"
+    },
+    {
+      "album": {
+        "name": "Tintern Abbey",
+        "url": "https://open.spotify.com/album/1z2U5VHq0Zz7pWypdxUjUp"
+      },
+      "artists": [
+        {
+          "name": "Ciara Lowry",
+          "url": "https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149693,
+      "name": "Tintern Abbey",
+      "url": "https://open.spotify.com/track/3aWttEx2k00f2UEZDgZBX1"
     },
     {
       "album": {
@@ -4290,10 +4524,28 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 130787,
       "name": "Walking In Your Shoes",
       "url": "https://open.spotify.com/track/2rzB7UPdvMTfedZzHmDA5v"
+    },
+    {
+      "album": {
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/1F5ltuidSbJFydkutXmMMl"
+      },
+      "artists": [
+        {
+          "name": "Pether Walth",
+          "url": "https://open.spotify.com/artist/7KsO5zRoKDB9DumlFYRNW1"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112657,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/4yfJrK5whv2XCvp6JEwayO"
     },
     {
       "album": {
@@ -4423,6 +4675,24 @@
     },
     {
       "album": {
+        "name": "Whisper",
+        "url": "https://open.spotify.com/album/0CSv2I9G6woAROWzuNAGCw"
+      },
+      "artists": [
+        {
+          "name": "Marty Defough",
+          "url": "https://open.spotify.com/artist/5IeOpT1hJjJsbhpQTpErpt"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127285,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/6FNat5nqFlDpksBlvTX4n2"
+    },
+    {
+      "album": {
         "name": "Wholeness",
         "url": "https://open.spotify.com/album/2A6ZqxxcjPGoCkl8299S39"
       },
@@ -4542,7 +4812,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 272951,
       "name": "You Will Never Understand",
       "url": "https://open.spotify.com/track/2c5HAbpl8XOnc4a5LybluN"

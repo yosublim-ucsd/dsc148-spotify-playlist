@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: Paolo Sandejas (Phillipines)",
+  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: DURDN (Japan/South Korea)",
   "name": ".ORG",
   "tracks": [
     {
@@ -530,6 +530,24 @@
       "duration_ms": 167166,
       "name": "Am I Overthinking This?",
       "url": "https://open.spotify.com/track/0nHm0hPOwDYwwCbZUs0XKv"
+    },
+    {
+      "album": {
+        "name": "hipernatural",
+        "url": "https://open.spotify.com/album/0BT0MdbDqzC1K1rYyTyexv"
+      },
+      "artists": [
+        {
+          "name": "Melati ESP",
+          "url": "https://open.spotify.com/artist/2yHzkL2Cb1qMhEtFeeyr68"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179627,
+      "name": "ANDA KATAKAN",
+      "url": "https://open.spotify.com/track/562w9oAArQNuj9wtajeO1K"
     },
     {
       "album": {
@@ -1198,7 +1216,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 189656,
       "name": "Bichulae (feat. Luli Lee)",
       "url": "https://open.spotify.com/track/0Ygqbr8k7lp9VQpmRWVkzY"
@@ -2820,7 +2838,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 234820,
       "name": "dear abbey",
       "url": "https://open.spotify.com/track/6lB7gr1uRPWAV4UN6OgseI"
@@ -2838,7 +2856,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 228887,
       "name": "December",
       "url": "https://open.spotify.com/track/3RCFh2ThOaWvDTiMLetFrQ"
@@ -3387,6 +3405,28 @@
     },
     {
       "album": {
+        "name": "Drink!",
+        "url": "https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        },
+        {
+          "name": "YonYon",
+          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187862,
+      "name": "Drink!",
+      "url": "https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b"
+    },
+    {
+      "album": {
         "name": "Earth",
         "url": "https://open.spotify.com/album/72W91ap1swKyQxPxhWIHgJ"
       },
@@ -3474,6 +3514,24 @@
       "duration_ms": 198222,
       "name": "Em Trong \u0110\u1ea7u",
       "url": "https://open.spotify.com/track/0ON38MgDpAMcRC9ULx7NOf"
+    },
+    {
+      "album": {
+        "name": "Pesimistik",
+        "url": "https://open.spotify.com/album/1IuMn0e4DVNTmDScLBK8w3"
+      },
+      "artists": [
+        {
+          "name": "Simatakaca",
+          "url": "https://open.spotify.com/artist/32eydlLWmEtGzeCe7mGyJm"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225189,
+      "name": "Entah Sampai Kapan",
+      "url": "https://open.spotify.com/track/3SIoZXo5TVkyNqzua1X3SJ"
     },
     {
       "album": {
@@ -4988,7 +5046,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 254383,
       "name": "Holiday Only",
       "url": "https://open.spotify.com/track/13xSCpapdAiR1bPWwoZp1y"
@@ -5107,6 +5165,24 @@
     },
     {
       "album": {
+        "name": "Hopelessly",
+        "url": "https://open.spotify.com/album/7aceEsnN7sznnw0R39Lvfe"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180013,
+      "name": "Hopelessly",
+      "url": "https://open.spotify.com/track/6HtxhZWccYHCxJrItfrglg"
+    },
+    {
+      "album": {
         "name": "How",
         "url": "https://open.spotify.com/album/3JTNuOXSNm8Se4JKUrDpA4"
       },
@@ -5212,7 +5288,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 179750,
       "name": "I Don't Wanna",
       "url": "https://open.spotify.com/track/2a6e6wgk47p5ZKfiRsfo1D"
@@ -5368,6 +5444,24 @@
       "duration_ms": 214003,
       "name": "i love u",
       "url": "https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4"
+    },
+    {
+      "album": {
+        "name": "I Love You Anyway (Acoustic Version)",
+        "url": "https://open.spotify.com/album/7kzcFpEnjJpl8phGr1muVl"
+      },
+      "artists": [
+        {
+          "name": "Mocca",
+          "url": "https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269250,
+      "name": "I Love You Anyway - Acoustic Version",
+      "url": "https://open.spotify.com/track/3XR9axdsYln68aCkbcMwtW"
     },
     {
       "album": {
@@ -6908,7 +7002,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 154437,
       "name": "Little Balcony",
       "url": "https://open.spotify.com/track/0ALdUxWVaIDeuPjP78hgIe"
@@ -8410,7 +8504,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 162258,
       "name": "ODDESSY",
       "url": "https://open.spotify.com/track/6RDEv3g48vfu0B51BoEeSp"
@@ -8505,6 +8599,42 @@
     },
     {
       "album": {
+        "name": "Once Upon The End",
+        "url": "https://open.spotify.com/album/3dBDP3noYghnGpGZsKLxdZ"
+      },
+      "artists": [
+        {
+          "name": "mindfreakkk",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279183,
+      "name": "Once Upon The End",
+      "url": "https://open.spotify.com/track/1D3Xr7mOle4JAcjn0GThV9"
+    },
+    {
+      "album": {
+        "name": "One Day I Might Have A Say",
+        "url": "https://open.spotify.com/album/1cRFDmJbaxC3nxWmqU84TI"
+      },
+      "artists": [
+        {
+          "name": "Kiri T",
+          "url": "https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220210,
+      "name": "One Day I Might Have A Say",
+      "url": "https://open.spotify.com/track/1HlT3pKWWPPWriV2E44oEB"
+    },
+    {
+      "album": {
         "name": "Only",
         "url": "https://open.spotify.com/album/1zX1x4Ccl9yXvqdCQmqXdu"
       },
@@ -8592,6 +8722,28 @@
       "duration_ms": 208490,
       "name": "OUT OF YOU",
       "url": "https://open.spotify.com/track/7vMcexHRs6bnRaIAWNjXtG"
+    },
+    {
+      "album": {
+        "name": "Out To Eat",
+        "url": "https://open.spotify.com/album/7xJanb6TnNcMcMBzDOUCq6"
+      },
+      "artists": [
+        {
+          "name": "Chara Kai-Le",
+          "url": "https://open.spotify.com/artist/0S6PVCIrYIIr2nmdaVTg3n"
+        },
+        {
+          "name": "Sam Florian",
+          "url": "https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138173,
+      "name": "Out To Eat",
+      "url": "https://open.spotify.com/track/7ElUAFXBTExwiK9I3fZqRh"
     },
     {
       "album": {
@@ -9232,7 +9384,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 121159,
       "name": "Pull My Hair",
       "url": "https://open.spotify.com/track/37X6Jr8cHBOCD9tsuv25MA"
@@ -9724,7 +9876,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 198623,
       "name": "SatuSatu",
       "url": "https://open.spotify.com/track/6qrMfvxfp0APuc4hoZ6VRP"
@@ -9872,7 +10024,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 186874,
       "name": "Shine",
       "url": "https://open.spotify.com/track/5WYgNDkw0VsDIZwfwQWlXp"
@@ -10848,6 +11000,24 @@
       "duration_ms": 174720,
       "name": "Super Happy (feat. Ariza)",
       "url": "https://open.spotify.com/track/7xKuZzXNNgOZ3HVx1HtyXu"
+    },
+    {
+      "album": {
+        "name": "Surel",
+        "url": "https://open.spotify.com/album/0Cg5DfqjXLaJqWThh9lDmr"
+      },
+      "artists": [
+        {
+          "name": "Normal Eve",
+          "url": "https://open.spotify.com/artist/6c7nlW5vkowcTcgspuXUIS"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258450,
+      "name": "Surel",
+      "url": "https://open.spotify.com/track/28qaZVU6Wuk1cgA3MqkZKO"
     },
     {
       "album": {
@@ -12564,7 +12734,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 188815,
       "name": "working holiday",
       "url": "https://open.spotify.com/track/2vgpjJNqLYTf7nDYdvoXY6"
@@ -12706,6 +12876,24 @@
       "duration_ms": 248545,
       "name": "You and I (feat. Dandy Hendstyo)",
       "url": "https://open.spotify.com/track/0WdVQ5vPvbXY10Joz6BJJ1"
+    },
+    {
+      "album": {
+        "name": "You Warned Me",
+        "url": "https://open.spotify.com/album/4mOGui3wOoI1h6xEQtg5xg"
+      },
+      "artists": [
+        {
+          "name": "RESORT",
+          "url": "https://open.spotify.com/artist/5xuLRF6Q5vKklxMJ3ZXJng"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "You Warned Me",
+      "url": "https://open.spotify.com/track/4snAXuSiQjsNYoF8j9M6ng"
     },
     {
       "album": {
@@ -12996,6 +13184,24 @@
       "duration_ms": 229966,
       "name": "\u0e15\u0e48\u0e2d\u0e43\u0e2b\u0e49...\u0e01\u0e47\u0e41\u0e1e\u0e49 (Runner-Up)",
       "url": "https://open.spotify.com/track/3BmrklQXiokfMUSYVpoDTe"
+    },
+    {
+      "album": {
+        "name": "\u0e16\u0e49\u0e32\u0e23\u0e39\u0e49\u0e27\u0e48\u0e32\u0e08\u0e30\u0e2b\u0e32\u0e22\u0e44\u0e1b",
+        "url": "https://open.spotify.com/album/77lLAs7qgkQPHcMhXi1WIk"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290909,
+      "name": "\u0e16\u0e49\u0e32\u0e23\u0e39\u0e49\u0e27\u0e48\u0e32\u0e08\u0e30\u0e2b\u0e32\u0e22\u0e44\u0e1b",
+      "url": "https://open.spotify.com/track/1QdtmtakBfgvdXz1wEm2S9"
     },
     {
       "album": {

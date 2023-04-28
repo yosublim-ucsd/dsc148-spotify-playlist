@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,470 likes - 34 songs - 1 hr 39 min
+[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,471 likes - 34 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 | 33 | [Euphoria](https://open.spotify.com/track/7l9iHqc96MliysA243IK2V) | [Odd Language](https://open.spotify.com/artist/6jo39RCQ903pfIWvev74XB) | [Euphoria](https://open.spotify.com/album/41ANCAUNiWvzR9cjxq5iVD) | 2:52 |
 | 34 | [Anarchy](https://open.spotify.com/track/7EQr5uQA2EafjldVAV2vkx) | [MT11](https://open.spotify.com/artist/1dupVc2k1FzwKcGNPX08ks) | [Anarchy](https://open.spotify.com/album/5jTGJaYpZ8ifetpJAjRQmK) | 3:17 |
 
-Snapshot ID: `NjE5NiwwMTRkYzBhODlmOTY5NGViZjA1YzMxODYwYzRlZGQ4ZWNjY2FmYzM4`
+Snapshot ID: `NjE5OCw3NWI3ZmIzNDk1OThiZmQ5ZDE0OTM4YjRkNmNjMjVlMzM1NWU1NDEy`

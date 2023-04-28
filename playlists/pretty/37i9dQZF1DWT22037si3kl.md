@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Aka Rasta, Dalua
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,851 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,955 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [Melhor Gestão](https://open.spotify.com/track/22yszoADkRxUuvJosP9hNg) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx) | [Melhor Gestão](https://open.spotify.com/album/7cEPHEZOTSlTztMevEMXRT) | 3:26 |
 | 50 | [3S](https://open.spotify.com/track/7IUjxiS0HGn45BePSWJDK7) | [YG Saull](https://open.spotify.com/artist/5JsdUwOF1q652VQpSdeC5Z), [SAWAN](https://open.spotify.com/artist/56G1wIDgBMECUHzUPaeS6Z), [Sailler YG](https://open.spotify.com/artist/6zqFwN56P0aZwZrUqNulML), [SLIME DREAMS](https://open.spotify.com/artist/1vrfZnY0gHgFpP4aOAbFAY) | [3S](https://open.spotify.com/album/6aAotKbE8C0TLA0RNFGwA4) | 2:53 |
 
-Snapshot ID: `MTY4MjA0NjA2MCwwMDAwMDAwMDg2MjdiNzA2MjAwZTE5YjJhY2Y0YzQxOTFkNTE5ZGU3`
+Snapshot ID: `MCwzNzVjZWFiYjgwYTI3YjlkZDM3MGE5OGJlYTE1MzY2NDAyYTIzZDEy`

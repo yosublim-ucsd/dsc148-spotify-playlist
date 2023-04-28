@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 648,
+  "num_followers": 679,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ5MDQ2NCwwMDAwMDAwMGFjOWUxM2MzZDE1YTAxZjIzNWU5NDNlN2ZjZGEyZTkz",
+  "snapshot_id": "MCxkMzk3OWNjZjk5OTAwY2FhMTVlZTZiNzlhMDRlY2YwNDk5NzQyN2Q2",
   "tracks": [
     {
       "added_at": "2023-04-14 16:41:04",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-04-14 16:41:04",
       "album": {
+        "name": "Names of God",
+        "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 628354,
+      "name": "Worthy Is the Lamb (Hallelujah Challenge Praise Medley 2)",
+      "url": "https://open.spotify.com/track/5kZvQyDPB33N9yb99rdc3V"
+    },
+    {
+      "added_at": "2023-04-14 16:41:04",
+      "album": {
         "name": "God of Miracles",
         "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 381520,
       "name": "Amen (feat. Ntokozo Mbambo)",
       "url": "https://open.spotify.com/track/18iiY88WV4ma0OLvCMC6p5"
-    },
-    {
-      "added_at": "2023-04-14 16:41:04",
-      "album": {
-        "name": "Names of God",
-        "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        }
-      ],
-      "duration_ms": 628354,
-      "name": "Worthy Is the Lamb (Hallelujah Challenge Praise Medley 2)",
-      "url": "https://open.spotify.com/track/5kZvQyDPB33N9yb99rdc3V"
     },
     {
       "added_at": "2023-04-14 16:41:04",
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-04-14 16:41:04",
       "album": {
-        "name": "On Top of the World",
-        "url": "https://open.spotify.com/album/27L74fWY70e6BpJV85QPYn"
+        "name": "The Encounter",
+        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
       },
       "artists": [
         {
-          "name": "Samsong",
-          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
         }
       ],
-      "duration_ms": 289008,
-      "name": "Turn Me Around",
-      "url": "https://open.spotify.com/track/0pvx4EQPY5ag9KKQzTYTNu"
+      "duration_ms": 139385,
+      "name": "Jehovah Praise",
+      "url": "https://open.spotify.com/track/0cY0ylpZTnazJcEuGTxnhf"
     },
     {
       "added_at": "2023-04-14 16:41:04",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-04-14 16:41:04",
       "album": {
+        "name": "On Top of the World",
+        "url": "https://open.spotify.com/album/27L74fWY70e6BpJV85QPYn"
+      },
+      "artists": [
+        {
+          "name": "Samsong",
+          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
+        }
+      ],
+      "duration_ms": 289008,
+      "name": "Turn Me Around",
+      "url": "https://open.spotify.com/track/0pvx4EQPY5ag9KKQzTYTNu"
+    },
+    {
+      "added_at": "2023-04-14 16:41:04",
+      "album": {
         "name": "Xperience with Love",
         "url": "https://open.spotify.com/album/7JRYRjbrM7mNZ2SUtYWXVi"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 586443,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/1ZRSxZVgRM5Xv7edLmp7nL"
-    },
-    {
-      "added_at": "2023-04-14 16:41:04",
-      "album": {
-        "name": "The Encounter",
-        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 139385,
-      "name": "Jehovah Praise",
-      "url": "https://open.spotify.com/track/0cY0ylpZTnazJcEuGTxnhf"
     },
     {
       "added_at": "2023-04-14 16:41:04",

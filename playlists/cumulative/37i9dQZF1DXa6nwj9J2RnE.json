@@ -306,7 +306,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 161000,
       "name": "Closure",
       "url": "https://open.spotify.com/track/2FWpnZjDPW23wSRefDcVn9"
@@ -372,6 +372,24 @@
       "duration_ms": 215455,
       "name": "Dit Is Alles",
       "url": "https://open.spotify.com/track/5au9uaIhhA51N27U68JXve"
+    },
+    {
+      "album": {
+        "name": "excuses",
+        "url": "https://open.spotify.com/album/3WS0r3RjStJi2DIYioq6QW"
+      },
+      "artists": [
+        {
+          "name": "stay away from dante!",
+          "url": "https://open.spotify.com/artist/5y47Otq6VIrBjaLR7Zl8nd"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346200,
+      "name": "excuses",
+      "url": "https://open.spotify.com/track/1rB3CxWVX9GlNIfLoIuLXb"
     },
     {
       "album": {
@@ -1374,7 +1392,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 192878,
       "name": "Zo Zijn",
       "url": "https://open.spotify.com/track/1q30hUyUUZyjytlKTJz4cI"
@@ -1396,6 +1414,24 @@
       "duration_ms": 165500,
       "name": "Zondagskind",
       "url": "https://open.spotify.com/track/5hWgdvdXXvq6l9ezrFeI8F"
+    },
+    {
+      "album": {
+        "name": "Zonder",
+        "url": "https://open.spotify.com/album/1yPgri8VVGPHaHoI8Mc18h"
+      },
+      "artists": [
+        {
+          "name": "Meis",
+          "url": "https://open.spotify.com/artist/5F2t3lvOUglnG8ZqUUWDKW"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205360,
+      "name": "Zonder",
+      "url": "https://open.spotify.com/track/4ZMYnbAOkyOIhfuA0hHHq0"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXa6nwj9J2RnE"

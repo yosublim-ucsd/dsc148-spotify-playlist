@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Bella White
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,398 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,504 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 99 | [Bittersweet, TN](https://open.spotify.com/track/0merkJ9dgvkemPaR3urDWs) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF), [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [This Is A Photograph](https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6) | 4:13 |
 | 100 | [Lyin' low](https://open.spotify.com/track/2dXGmRWNxNwSakbBPxAbiH) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [How the Mighty Fall](https://open.spotify.com/album/7jo6e3KUvEk7DqwfI9eS6w) | 4:18 |
 
-Snapshot ID: `MTY4MjA0OTYwMCwwMDAwMDAwMDBkNDYzZDljZTQwNjc3NzVjOTY4MzdlZGRmNzg2MDM3`
+Snapshot ID: `MCw0OGYzNTIxNmJmMjllZjZhMDMwMDMyNWMzMjBlMzVmMGY2YzZmOGE1`

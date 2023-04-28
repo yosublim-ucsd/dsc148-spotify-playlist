@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover:  <a href=“spotify:artist:3uikSah4dwqwuk0EidFI4R”>Caitlyn Smith</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,370 likes - 45 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,376 likes - 45 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 27 | [Rewind.\. \(But I Love You\)](https://open.spotify.com/track/2v5lLKdZG0PsXGWfvigk55) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Someone You Can Count On](https://open.spotify.com/album/5wj4dMktjUCPq8BfsQCMR2) | 2:53 |
 | 28 | [Salivate](https://open.spotify.com/track/00ieljc71OVNDOvJ22tbiN) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Salivate](https://open.spotify.com/album/5wEDBwUDtEWwuPKTT8Y77g) | 2:27 |
 | 29 | [Kaleidoscope](https://open.spotify.com/track/7N1tjTxJe6k5wakOqpNbCj) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Kaleidoscope](https://open.spotify.com/album/7Gw4m9PhmzpBp3MjKa6V4d) | 3:42 |
-| 30 | [Hunter](https://open.spotify.com/track/5ipJCn0tOI0qAUwhQ0Onhk) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Hunter](https://open.spotify.com/album/7JLqUV9lFZMym6t0uEVGs7) | 3:48 |
-| 31 | [Window](https://open.spotify.com/track/6eMPkhwJpkBPagyC54s8wo) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Window](https://open.spotify.com/album/5PtBmayc1Rf9a9bqrj43cW) | 3:03 |
-| 32 | [You Oughta Know \(feat\. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade\) \- Spotify Singles](https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa), [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [You Oughta Know \(feat\. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade\) \[Spotify Singles\]](https://open.spotify.com/album/6IwwVGLtiflk9IkTcRwE6n) | 4:16 |
+| 30 | [You Oughta Know \(feat\. Ingrid Andress, Madeline Edwards, Morgan Wade\) \- Spotify Singles](https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa), [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [You Oughta Know \(feat\. Ingrid Andress, Madeline Edwards, Morgan Wade\) \[Spotify Singles\]](https://open.spotify.com/album/6IwwVGLtiflk9IkTcRwE6n) | 4:16 |
+| 31 | [Hunter](https://open.spotify.com/track/5ipJCn0tOI0qAUwhQ0Onhk) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Hunter](https://open.spotify.com/album/7JLqUV9lFZMym6t0uEVGs7) | 3:48 |
+| 32 | [Window](https://open.spotify.com/track/6eMPkhwJpkBPagyC54s8wo) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Window](https://open.spotify.com/album/5PtBmayc1Rf9a9bqrj43cW) | 3:03 |
 | 33 | [Big God](https://open.spotify.com/track/3vrD1zG1gJeGTkscxOMnO3) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Big God](https://open.spotify.com/album/3neRBcOUW8ZMem3hBAU1u1) | 3:11 |
 | 34 | [Lunch](https://open.spotify.com/track/2aTVnAU5Kde8I9Nzw4Js20) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Lunch](https://open.spotify.com/album/40kQno3S1o90Nxn2POzNTe) | 2:52 |
 | 35 | [Smog](https://open.spotify.com/track/4iRtrvu2GVOCImocv42Wz2) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Smog](https://open.spotify.com/album/64loLOKtAxLC6IdlfTZzbD) | 3:14 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 44 | [YOU](https://open.spotify.com/track/3ZMh5ZG2KPAyhfzR7C99vj) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [YOU](https://open.spotify.com/album/6VvEgJ1Ji4sTik5Kqdh7dL) | 2:13 |
 | 45 | [Metamorphosis](https://open.spotify.com/track/3RS6yYUhrAbxdHm2vALIwv) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Metamorphosis](https://open.spotify.com/album/6Bee4WtLGFdXUA1ylcBNZn) | 3:23 |
 
-Snapshot ID: `MTY4MjUyNzQ0OSwwMDAwMDAwMGU1ZGFkMTk0YzkwNDgwMzUzNjU4NDRkZjBiMmI4ZmU0`
+Snapshot ID: `MCxmYzE0YTkyMWM2ZGQ1YTY3MmI4MGRhY2E1ZGYzZWViMjA0NjU2ZGVi`

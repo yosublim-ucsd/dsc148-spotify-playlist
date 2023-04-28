@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con No Te Va Gustar en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,485 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,498 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Cita en el psicólogo](https://open.spotify.com/track/2gSEZdn0qRHoxBsSoBSzd5) | [Those Bitches!](https://open.spotify.com/artist/57Ped0Bq4v3HJqhqPa1CGO) | [Cita en el psicólogo](https://open.spotify.com/album/60wQYMUtwKkxyeqbSE3s4d) | 2:36 |
 | 50 | [De chispa fuego](https://open.spotify.com/track/4D1OaK6yej6RknDhKvAyc7) | [Privia](https://open.spotify.com/artist/6YNt4OQyBcr8Hc45UAS8z4) | [De chispa fuego](https://open.spotify.com/album/7GUzCwTB2tvoXHof5vxWds) | 2:41 |
 
-Snapshot ID: `MTY4MjA1NzI4MCwwMDAwMDAwMGNkOWU3OTdkZjcxNTBjZGJiOWMxOThlMzY4MmU2YjI1`
+Snapshot ID: `MCwwOWY2YTYxNTFmNzBhODk1NmVjZTZmZDU2OTcyNjdjNjMzMTgyZTA2`

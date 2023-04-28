@@ -4,7 +4,7 @@
 
 > Let these calm Jazz tracks lull you to sleep.
 
-309 songs - 17 hr 0 min
+314 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Conversation](https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Conversation](https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs) | 2:45 | 2022-05-09 |  |
 | [Cry Me A River](https://open.spotify.com/track/67iXiDkmgd5cy2Tfcowx1G) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Past Closing Time](https://open.spotify.com/album/1E9xMRwRNCkkIW1sCTZm9z) | 3:28 | 2021-12-07 | 2022-08-30 |
 | [Darn That Dream](https://open.spotify.com/track/7wyqQSiefHCrYQ3xqAqfwJ) | [Ray Royston](https://open.spotify.com/artist/4Z8ZqLJlYjb7gGt3eFWfFG) | [Darn That Dream](https://open.spotify.com/album/1Hs8Ia3HjN1JzaXNEwJ6Y3) | 3:52 | 2021-12-07 |  |
+| [Day By Day](https://open.spotify.com/track/21rmrbV8sWD6G0DBErDASD) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [Day By Day](https://open.spotify.com/album/2TLjiBB9ln1kQpKIzGapDN) | 3:11 | 2023-04-27 |  |
 | [Days of Wine and Roses](https://open.spotify.com/track/2QRUDqfSSNCY6MpTUxP7We) | [Esther Davis](https://open.spotify.com/artist/42VoGaT6ypUMD1ZzOVu6hz) | [Days of Wine and Roses](https://open.spotify.com/album/0ymqZlyx7gyoeyV0RiG2uL) | 2:24 | 2022-06-21 |  |
 | [Dear Old Stockholm](https://open.spotify.com/track/33aKJ1s1QC94WW868ygr3p) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [Dear Old Stockholm](https://open.spotify.com/album/0OsqjFlBduMGeyZuh34U8b) | 2:40 | 2022-08-29 |  |
 | [Dedicated To You](https://open.spotify.com/track/47k5XrHgnwF7yMRUALGOyt) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Dedicated To You](https://open.spotify.com/album/1d7Uj2w97J6ctIoXXAWxnP) | 4:45 | 2022-03-16 |  |
@@ -148,11 +149,12 @@
 | [In A Sentimental Mood](https://open.spotify.com/track/2RJQsdpr5CzWzRA8mYx1ur) | [Stan Stead](https://open.spotify.com/artist/7AqhE9vlxr6U5KpdDP1PzD) | [In A Sentimental Mood](https://open.spotify.com/album/3t5hzRfv1qKoIgTRCh7Aan) | 2:52 | 2021-12-07 | 2022-10-14 |
 | [In Another Day](https://open.spotify.com/track/21uYfxqePi9cX2aHvsEGAI) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [In Another Day](https://open.spotify.com/album/326l5lpeuTwSNNyZ9GpbHc) | 3:14 | 2022-03-01 |  |
 | [In My Solitude](https://open.spotify.com/track/22NftQ2VUEMoD1DqUbi8rF) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [My Shining Hour](https://open.spotify.com/album/4RFgQUMZWRpdqP28HhEQH4) | 3:44 | 2022-08-09 |  |
+| [In the Still of the Night](https://open.spotify.com/track/5pIMrMuwl2lJEG76fOF8s3) | [Seth Bluebird](https://open.spotify.com/artist/1DyC6srMJye16IeKdJYplZ) | [In the Still of the Night](https://open.spotify.com/album/4n4at7yvCzw3knrToEAd9S) | 2:19 | 2023-04-27 |  |
 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/3D9ZRDk1Z4XjAYp3BI4Chr) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [In The Wee Small Hours Of The Morning](https://open.spotify.com/album/3F4oK6pX76BDYYT3ujho8m) | 3:54 | 2021-12-07 |  |
 | [Infant Eyes](https://open.spotify.com/track/5DxtTMAODwWNThoTt33YgQ) | [Maxence Capoue](https://open.spotify.com/artist/67haUq5f5DHveaHN9u4vmy) | [Infant Eyes](https://open.spotify.com/album/7FMCO2zoEfzaHzpXoP8YZc) | 3:40 | 2023-04-13 |  |
 | [It Could Happen To You](https://open.spotify.com/track/3JSz6DZZBRSLhIr4LMIkDD) | [Danny Walgreen](https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5) | [It Could Happen To You](https://open.spotify.com/album/1ehoJKWcjUnHtLVseVCAmS) | 3:28 | 2021-12-07 |  |
 | [It Could Happen to You](https://open.spotify.com/track/2RDjWEu4n4V7lGshySL4a2) | [Maurillo](https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg) | [It Could Happen to You](https://open.spotify.com/album/1FKkv7Mk67dv2gHkCqFdrf) | 2:35 | 2022-10-06 |  |
-| [It Might As Well Be Spring](https://open.spotify.com/track/4FUkmFYogSz8ScvhdJG0xL) | [Simone Bergenson](https://open.spotify.com/artist/2Te2jrf7Kk0rShhNq3Dcyz) | [It Might As Well Be Spring](https://open.spotify.com/album/1ReSvJJz053zU2Gs93LvmY) | 4:24 | 2022-01-04 |  |
+| [It Might As Well Be Spring](https://open.spotify.com/track/4FUkmFYogSz8ScvhdJG0xL) | [Simone Bergenson](https://open.spotify.com/artist/2Te2jrf7Kk0rShhNq3Dcyz) | [It Might As Well Be Spring](https://open.spotify.com/album/1ReSvJJz053zU2Gs93LvmY) | 4:24 | 2022-01-04 | 2023-04-28 |
 | [It Never Entered My Mind](https://open.spotify.com/track/0t4r5IuT6FzrNGEEpCJmf9) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [It Never Entered My Mind](https://open.spotify.com/album/1wyMm8UqtOocJahYqDXThd) | 4:46 | 2022-01-04 |  |
 | [It's Only A Paper Moon](https://open.spotify.com/track/7naIptuhLR1lTnnxx4Dx46) | [Maki Yuoma](https://open.spotify.com/artist/3VUflANX1g7LBvBXRZKatX) | [I Keep Clinging To Close](https://open.spotify.com/album/4rCMPGvTEERHD29NspCuC7) | 4:26 | 2021-12-07 | 2022-12-02 |
 | [je vivrai sans toi](https://open.spotify.com/track/1U7yoZQ8k0wFyyp43HU4Nf) | [Carla Moses](https://open.spotify.com/artist/1j2urkthF3dcGi8RVFlyuI) | [I Will Say Goodbye](https://open.spotify.com/album/7FLkgY12vVuv2fjVisxn7f) | 2:18 | 2021-12-07 | 2022-05-03 |
@@ -232,6 +234,7 @@
 | [Si nous vivons](https://open.spotify.com/track/5vtgdFd6HsxfCZaVfGElRP) | [Sholiha](https://open.spotify.com/artist/03bXfVH9PnjzravJ7UJpD4) | [Si nous vivons](https://open.spotify.com/album/1OFhNarYwv2I2Yig4xcwLT) | 3:56 | 2021-12-07 |  |
 | [Skating in Central Park](https://open.spotify.com/track/5DL2qEB0QeLlMNFjcYfcDm) | [Sean Eastman](https://open.spotify.com/artist/4SMptkAtq8f31ziDjPuint) | [Skating in Central Park](https://open.spotify.com/album/3dgfesW8kzGn0ePWdsZlMo) | 2:58 | 2023-01-05 |  |
 | [Skylark](https://open.spotify.com/track/5XzlyI2iS6Km2SNsEQ4O91) | [Edward France](https://open.spotify.com/artist/6rPvE9uUU2fm3TaL12b8Hp) | [Skylark](https://open.spotify.com/album/6DEaWap07T8LIFfnHVSVIr) | 3:29 | 2021-12-07 |  |
+| [Slowing Down](https://open.spotify.com/track/1aItJE8RukUc0lnMdj45FJ) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [Slowing Down](https://open.spotify.com/album/4DOFbLvmNKJhD0mcEv0hUt) | 3:28 | 2023-04-27 |  |
 | [Small Hours](https://open.spotify.com/track/0QWQfOY7qO0YvA6Uspn9bP) | [Lee Bendroth](https://open.spotify.com/artist/1asg7ElYSc6LhJ7b9fMaFF) | [Small Hours](https://open.spotify.com/album/2vgcZW7MMDbkfHXelDzvEY) | 2:55 | 2021-12-07 | 2022-11-25 |
 | [Smile](https://open.spotify.com/track/5UbnuRgMvmJXNfVQwtnMeJ) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [Smile](https://open.spotify.com/album/264uDpoSYiQWeHXvwQcAa0) | 3:50 | 2021-12-07 |  |
 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/6LJWQLh4DaQqiYrimdO5Ep) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [Smoke Gets In Your Eyes](https://open.spotify.com/album/4ZY1K4JlzmoxdCJF6M18O5) | 4:40 | 2021-12-07 |  |
@@ -254,6 +257,7 @@
 | [Still in Love With You](https://open.spotify.com/track/0ih8Jf1BQ3TpVHiPKW9WTZ) | [Angelina Winter](https://open.spotify.com/artist/59hnRNabyJTGrtAmliJFEl) | [Still in Love With You](https://open.spotify.com/album/7a5LKBZ7B5093OFghLDbic) | 2:36 | 2021-12-07 |  |
 | [Stormy Weather](https://open.spotify.com/track/46ryjq76whaLHkJVrvkAqo) | [Marc Leigh](https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY) | [Stormy Weather](https://open.spotify.com/album/3ys62gvyRiXgQDeaedo7VO) | 4:07 | 2021-12-07 |  |
 | [Street Of Dreams](https://open.spotify.com/track/783BlsF88Ae8b0Xs4ZDzQy) | [Mannie Goldings](https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY) | [Street Of Dreams](https://open.spotify.com/album/1bM7zzY2xmI0TMMFQKeNFu) | 2:39 | 2023-03-23 |  |
+| [Streets of Gold](https://open.spotify.com/track/5CLGKbMa7u0QZe6nLOQEe9) | [Karl\-Erik](https://open.spotify.com/artist/3zHaWg01z30TzjlWqSpeB4) | [Streets of Gold](https://open.spotify.com/album/3HRAv95HLT2CXEVQRJSvhV) | 2:02 | 2023-04-27 |  |
 | [Summer Nights](https://open.spotify.com/track/6D6GDjjDDWU3nnxQt3Rh9z) | [Mia Bartlett](https://open.spotify.com/artist/6u5Do41YWoyiW2fgAAthlP) | [Summer Nights](https://open.spotify.com/album/0XTX6KnTG5hBnBBds9N9no) | 2:53 | 2022-12-01 |  |
 | [Sweet And Lovely](https://open.spotify.com/track/0M2JImhfpQDeIw08Auazxl) | [Ray Royston](https://open.spotify.com/artist/4Z8ZqLJlYjb7gGt3eFWfFG) | [Sweet And Lovely](https://open.spotify.com/album/68praxj4zGWVqDHxwN7wex) | 3:30 | 2022-12-08 |  |
 | [Sweet Dreams](https://open.spotify.com/track/1VqEgVFBYgZPbx7wQYKGqY) | [Ellie Manne](https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf) | [Sweet Dreams](https://open.spotify.com/album/0q8gPe14lThzUj7859i7MZ) | 3:31 | 2022-05-31 |  |
@@ -296,6 +300,7 @@
 | [Very Early](https://open.spotify.com/track/233mHTkvc7567uCXc7XsHR) | [Ottilie Lebau](https://open.spotify.com/artist/361nXBd8zOp4m6PB7Gjnie) | [Very Early](https://open.spotify.com/album/0Gdo0WpxqvA4s8UGxFO3Hf) | 2:10 | 2022-01-18 |  |
 | [Violets for Your Furs](https://open.spotify.com/track/4TQmSFLxAR8ffhfIh7c7xg) | [Jeanette Ives](https://open.spotify.com/artist/4lCw6AiRMMQqIGrJrUOZSO) | [Violets for Your Furs](https://open.spotify.com/album/6VNdeRbUZ82LobBqfTYypw) | 2:29 | 2022-08-09 |  |
 | [Wake Up In Spring](https://open.spotify.com/track/3kL5yKlAPOzcF1fS7qYyhq) | [Bill Swindon](https://open.spotify.com/artist/7C4qb62TIDk7IbyMORyqTs) | [Wake Up In Spring](https://open.spotify.com/album/4cmHB9tOt4uybZdEVuDpIS) | 2:33 | 2023-02-02 |  |
+| [We've Never Been Here](https://open.spotify.com/track/4ymZ6dNuL9uXOPKztxaGti) | [Tyler Marshall](https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k) | [We've Never Been Here](https://open.spotify.com/album/5m8PIlJl2gw8F5iCCX8HUM) | 3:13 | 2023-04-27 |  |
 | [We´ll Be Together Again](https://open.spotify.com/track/02albk71PUNANHHJ4HUZZE) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [Songs](https://open.spotify.com/album/5O6H1Ig47a51pxpxLyMc2v) | 5:05 | 2021-12-07 | 2022-08-17 |
 | [What a Difference a Day Makes](https://open.spotify.com/track/7q6N6Z5RCtFdFjZFzxQORo) | [Joel Goldberg](https://open.spotify.com/artist/16EJw0CNON2hdNWFcg2AMJ) | [What a Difference a Day Makes](https://open.spotify.com/album/1Ab7w12BMWh5QutkkLAxz2) | 2:07 | 2022-08-09 |  |
 | [What Are You Doing For The Rest Of Your Life](https://open.spotify.com/track/61pLCvDlCUFAIb7tNvV2Rb) | [Oliver Black](https://open.spotify.com/artist/65XIBHuMetyeCnP9YwZCS1) | [What Are You Doing For The Rest Of Your Life](https://open.spotify.com/album/78MpDn9r2KLpTNN8Lv8xBY) | 6:02 | 2022-04-01 |  |

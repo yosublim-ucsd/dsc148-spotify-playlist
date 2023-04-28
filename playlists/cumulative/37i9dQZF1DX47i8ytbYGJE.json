@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-07-08",
-  "description": "Hillbilly and Rock music fusing together called Rockabilly!  Thankyouverymuch...",
-  "name": "Country 101: Rockabilly",
+  "description": "Rockabilly pioneers and revivalists. Cover: Stray Cats",
+  "name": "Rockabilly",
   "tracks": [
     {
       "album": {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 148600,
       "name": "A White Sport Coat (with Ray Conniff)",
       "url": "https://open.spotify.com/track/3Iy8UTb7n8QpYcQK23ZjG9"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 143333,
       "name": "All I Have to Do Is Dream",
       "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 125500,
       "name": "All Mama's Children",
       "url": "https://open.spotify.com/track/4k4qYa4t0WxZgvorkNTn8W"
@@ -186,7 +186,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 117080,
       "name": "All Shook Up",
       "url": "https://open.spotify.com/track/5ueyLj6e6oVaTY0KQ6yLaA"
@@ -204,10 +204,46 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 159094,
       "name": "All the Time",
       "url": "https://open.spotify.com/track/1AC5FjLF94e52A8naaOiat"
+    },
+    {
+      "album": {
+        "name": "A Boy From Tupelo: The Complete 1953-1955 Recordings",
+        "url": "https://open.spotify.com/album/1obc6uvzMsDUd6Q76MP1kI"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139040,
+      "name": "Baby, Let's Play House",
+      "url": "https://open.spotify.com/track/5j8cflZIx0GwvlkzPImbtK"
+    },
+    {
+      "album": {
+        "name": "The Full Custom Gospel Sounds Of . . .",
+        "url": "https://open.spotify.com/album/3NdsTGAiD22JPGhbuSwizc"
+      },
+      "artists": [
+        {
+          "name": "The Reverend Horton Heat",
+          "url": "https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131600,
+      "name": "Bales Of Cocaine",
+      "url": "https://open.spotify.com/track/1bfuN6xnKqbF4etWTpHq7p"
     },
     {
       "album": {
@@ -222,10 +258,28 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 130826,
       "name": "Ballad of a Teenage Queen",
       "url": "https://open.spotify.com/track/5HwAaXDLVDgVcoGIjDRANK"
+    },
+    {
+      "album": {
+        "name": "Presenting Janis Martin",
+        "url": "https://open.spotify.com/album/5abkpFt631EzDivxIIzm7E"
+      },
+      "artists": [
+        {
+          "name": "Janis Martin",
+          "url": "https://open.spotify.com/artist/4pjH9s7TgSke527nRDcgqq"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120853,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/4ThhGr14tIhTIYda38OHZu"
     },
     {
       "album": {
@@ -240,7 +294,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 122626,
       "name": "Be-Bop Baby",
       "url": "https://open.spotify.com/track/3io1qVR88GIzD0hsNt9JLo"
@@ -276,7 +330,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 125466,
       "name": "Believe What You Say - Remastered",
       "url": "https://open.spotify.com/track/2Cr8d39cOPBWzmVKwcjmmP"
@@ -294,7 +348,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 151426,
       "name": "Big River",
       "url": "https://open.spotify.com/track/6tSlcd8gcp3XGstYNhL3It"
@@ -312,7 +366,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 96226,
       "name": "Bip Bop Boom",
       "url": "https://open.spotify.com/track/0xlIxteRTdT0Iu4AwurYpT"
@@ -330,7 +384,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 136426,
       "name": "Bird Dog",
       "url": "https://open.spotify.com/track/2ZCkqAo0tzzCVOth7ityh5"
@@ -384,7 +438,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 126933,
       "name": "Black Slacks",
       "url": "https://open.spotify.com/track/5g9jlZ27Kff9JuhO0MnXEZ"
@@ -456,10 +510,28 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 126986,
       "name": "Blue Moon of Kentucky",
       "url": "https://open.spotify.com/track/18LwhRYqFsJjUH3Q4dMIr7"
+    },
+    {
+      "album": {
+        "name": "The Dance Album",
+        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
+      },
+      "artists": [
+        {
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134445,
+      "name": "Blue Suede Shoes",
+      "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
     },
     {
       "album": {
@@ -474,7 +546,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 136960,
       "name": "Blue Suede Shoes",
       "url": "https://open.spotify.com/track/6YMYrOPAIKah6RHOkPP0oS"
@@ -492,10 +564,28 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 113240,
       "name": "Blue, Blue Day",
       "url": "https://open.spotify.com/track/0lgckCZ94ZjtCBpjfRL5Su"
+    },
+    {
+      "album": {
+        "name": "Blue Jean Bop",
+        "url": "https://open.spotify.com/album/28VDX5GZcFakGBuh2Uf5En"
+      },
+      "artists": [
+        {
+          "name": "Gene Vincent & His Blue Caps",
+          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142560,
+      "name": "Bluejean Bop",
+      "url": "https://open.spotify.com/track/2BgekYyyiCcvina0Ihoii9"
     },
     {
       "album": {
@@ -510,7 +600,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 145106,
       "name": "Bluejean Bop",
       "url": "https://open.spotify.com/track/0GqDASY1mJUA6eKMJzyoyx"
@@ -582,7 +672,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 167840,
       "name": "Boppin' The Blues",
       "url": "https://open.spotify.com/track/0wNnwLgq5N9lWYib8eUnu6"
@@ -690,7 +780,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 142906,
       "name": "Bye Bye Love",
       "url": "https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6"
@@ -708,7 +798,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 168160,
       "name": "Can't Hardly Stand It",
       "url": "https://open.spotify.com/track/3ZVOIu02drSOsMf6gLE31J"
@@ -744,7 +834,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 170026,
       "name": "Chantilly Lace",
       "url": "https://open.spotify.com/track/0o218zC3mFf0zqyiCR19We"
@@ -762,10 +852,28 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 145266,
       "name": "Chantilly Lace",
       "url": "https://open.spotify.com/track/07GtDOCxmye5KDWsTSACPk"
+    },
+    {
+      "album": {
+        "name": "Gotta Have the Rumble",
+        "url": "https://open.spotify.com/album/6Y4c5dgnOrQjzWM9NrKguN"
+      },
+      "artists": [
+        {
+          "name": "Brian Setzer",
+          "url": "https://open.spotify.com/artist/4xiBg5AwhlWtuxAJO9rO6f"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245175,
+      "name": "Checkered Flag",
+      "url": "https://open.spotify.com/track/5ZGBKoa6sydhYUMiv4g1a4"
     },
     {
       "album": {
@@ -780,7 +888,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 148826,
       "name": "Choo Choo Ch'Boogie",
       "url": "https://open.spotify.com/track/4vxJetXHUgrK4KRsg7jZ9y"
@@ -852,7 +960,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 170761,
       "name": "Confessin' The Blues",
       "url": "https://open.spotify.com/track/345rzmHabzRUdtoO08DWWA"
@@ -870,7 +978,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 148240,
       "name": "Cry, Cry, Cry",
       "url": "https://open.spotify.com/track/2lIXp2jqjR5B04dnsx8buP"
@@ -888,7 +996,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 183000,
       "name": "Cry, Cry, Cry - Long Version",
       "url": "https://open.spotify.com/track/7DP5q4CQMx5hf4K5RnVVYP"
@@ -906,10 +1014,28 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 118226,
       "name": "C\u2019Mon Everybody",
       "url": "https://open.spotify.com/track/7ItZM6DMZE2m1X7yIaRxjq"
+    },
+    {
+      "album": {
+        "name": "Kim Lenz And Her Jaguars",
+        "url": "https://open.spotify.com/album/1S8GKcUi2QMBDN6AtSZLOL"
+      },
+      "artists": [
+        {
+          "name": "Kim Lenz & Her Jaguars",
+          "url": "https://open.spotify.com/artist/2yG5isAT56JzRO1qpmmwnB"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157426,
+      "name": "Devil On My Shoulder",
+      "url": "https://open.spotify.com/track/3UZo90wgkXdNPtSVIMYfdu"
     },
     {
       "album": {
@@ -924,7 +1050,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 132226,
       "name": "Devil Woman",
       "url": "https://open.spotify.com/track/5qwJb7o2X9HUFEV3ohX2v6"
@@ -942,7 +1068,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 144240,
       "name": "Dixie Fried",
       "url": "https://open.spotify.com/track/2BJtt5HqkcG4OLcbLjl7GB"
@@ -1032,7 +1158,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 144013,
       "name": "Do Me No Wrong (Demo)",
       "url": "https://open.spotify.com/track/61vCg9VRY7AXw3rFRd39g9"
@@ -1072,7 +1198,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 168906,
       "name": "Don't",
       "url": "https://open.spotify.com/track/3GmyQPjj9nPQx5LHQb4k5J"
@@ -1112,7 +1238,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 122893,
       "name": "Don't Be Cruel",
       "url": "https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk"
@@ -1130,7 +1256,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 194160,
       "name": "Don't Worry",
       "url": "https://open.spotify.com/track/0dPfKBYyPmoSfoLJqeKAs4"
@@ -1256,7 +1382,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 194114,
       "name": "Drinking Wine, Spo-dee-o-dee, Drinking Wine",
       "url": "https://open.spotify.com/track/7mTYgMATyKkwMLqvJrmVc6"
@@ -1310,10 +1436,28 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 129052,
       "name": "Drugstore Rock'n'roll",
       "url": "https://open.spotify.com/track/2CSc9piC2paA385jhFIXcR"
+    },
+    {
+      "album": {
+        "name": "Ducktail",
+        "url": "https://open.spotify.com/album/6KYidozJ61dPn7ZKgkskgm"
+      },
+      "artists": [
+        {
+          "name": "Joe Clay",
+          "url": "https://open.spotify.com/artist/3w7hXodvq8XPcisRfQRh7t"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148720,
+      "name": "Ducktail",
+      "url": "https://open.spotify.com/track/6Rwh7GfFZQNMcbkYbFgtQB"
     },
     {
       "album": {
@@ -1328,7 +1472,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 148733,
       "name": "Ducktail",
       "url": "https://open.spotify.com/track/2kFrxPhzJY8jmxULJiEZki"
@@ -1346,7 +1490,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 143680,
       "name": "Endless Sleep",
       "url": "https://open.spotify.com/track/7cb19X9Bavre8c1kUR1cGH"
@@ -1418,7 +1562,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 135653,
       "name": "Everybody's Loving My Baby",
       "url": "https://open.spotify.com/track/4OfknCeMu935f6nD7kvo7q"
@@ -1436,7 +1580,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 162493,
       "name": "Everybody's Movin'",
       "url": "https://open.spotify.com/track/4NnJxkpRJzfKMJM1H3VlYt"
@@ -1472,7 +1616,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 133009,
       "name": "Everybody's Trying to Be My Baby",
       "url": "https://open.spotify.com/track/75MzeS5tyJDX7a5ZytcqS8"
@@ -1526,7 +1670,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 115133,
       "name": "Fire of Love",
       "url": "https://open.spotify.com/track/26VaTFK760o5VaDPcSyV5B"
@@ -1562,10 +1706,28 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 128919,
       "name": "Flip flop Mama",
       "url": "https://open.spotify.com/track/2opuQE3MDx92ujXUPqdFcb"
+    },
+    {
+      "album": {
+        "name": "Flyin' Saucers Rock & Roll / I Want You Baby",
+        "url": "https://open.spotify.com/album/21VQE8cleE2is06r3F6dQS"
+      },
+      "artists": [
+        {
+          "name": "Billy Lee Riley",
+          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122108,
+      "name": "Flyin' Saucers Rock & Roll",
+      "url": "https://open.spotify.com/track/61NxE9hAjnvplyUKdY6jKv"
     },
     {
       "album": {
@@ -1580,7 +1742,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 123320,
       "name": "Flying Saucers Rock and Roll",
       "url": "https://open.spotify.com/track/5mif5BuwDD9yCZrWc9Bnxe"
@@ -1598,7 +1760,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 172026,
       "name": "Folsom Prison Blues",
       "url": "https://open.spotify.com/track/5UMiYb0Np44O59EgCcyPuC"
@@ -1616,10 +1778,28 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 133746,
       "name": "Fujiyama Mama - Remastered",
       "url": "https://open.spotify.com/track/0QJfFSRDRKq9LEkFpiJkI5"
+    },
+    {
+      "album": {
+        "name": "Rockin' With Wanda",
+        "url": "https://open.spotify.com/album/1tRcetV95YbV88bAtT3Jca"
+      },
+      "artists": [
+        {
+          "name": "Wanda Jackson",
+          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134733,
+      "name": "Fujiyama Mama - Remastered",
+      "url": "https://open.spotify.com/track/5GZKrlylsU8zoILY2aiDJz"
     },
     {
       "album": {
@@ -1682,7 +1862,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 124160,
       "name": "Get with It",
       "url": "https://open.spotify.com/track/16GMlvbWHeWXHYzJCVtD6d"
@@ -1718,7 +1898,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 99630,
       "name": "Glad All Over",
       "url": "https://open.spotify.com/track/6Xs8va9c9ZgR2cLKSlo466"
@@ -1754,7 +1934,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 163426,
       "name": "Gone, Gone, Gone",
       "url": "https://open.spotify.com/track/5GxbUY95ye3OPh8YaULWMN"
@@ -1772,10 +1952,28 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 131573,
       "name": "Good Rockin' Tonight",
       "url": "https://open.spotify.com/track/6k3FE2tlTymnsPMTkL8slE"
+    },
+    {
+      "album": {
+        "name": "A Boy From Tupelo: The Complete 1953-1955 Recordings",
+        "url": "https://open.spotify.com/album/1obc6uvzMsDUd6Q76MP1kI"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135053,
+      "name": "Good Rockin' Tonight",
+      "url": "https://open.spotify.com/track/0DZZctFgqmFbVayvOUhm0C"
     },
     {
       "album": {
@@ -1826,7 +2024,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 169800,
       "name": "Good Rocking Tonight",
       "url": "https://open.spotify.com/track/4KkPswolFJD095NNLNP2AX"
@@ -1880,7 +2078,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 125626,
       "name": "Grandaddy's Rockin'",
       "url": "https://open.spotify.com/track/5XTKNlsQKuozZ44degiPhc"
@@ -1898,7 +2096,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 111240,
       "name": "Great Balls of Fire",
       "url": "https://open.spotify.com/track/7xe3EQCvXnx6Q0zs41Y65n"
@@ -1916,7 +2114,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 108525,
       "name": "Guess Things Happen That Way",
       "url": "https://open.spotify.com/track/2bf1OisollYj8Dnp5S8hMl"
@@ -1934,10 +2132,28 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 140333,
       "name": "Hallelujah, I Love Her So",
       "url": "https://open.spotify.com/track/5X73lUMvlt0ykafye2TASW"
+    },
+    {
+      "album": {
+        "name": "There's A Party Goin' On",
+        "url": "https://open.spotify.com/album/0Dm58udBVJS1Txruhgk5fC"
+      },
+      "artists": [
+        {
+          "name": "Wanda Jackson",
+          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119386,
+      "name": "Hard Headed Woman",
+      "url": "https://open.spotify.com/track/6xBLtOsKoqt22G3smOAQy6"
     },
     {
       "album": {
@@ -1952,7 +2168,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 123346,
       "name": "Have Guitar Will Travel",
       "url": "https://open.spotify.com/track/1gfpCX2IYvCdqZVdC4CkHs"
@@ -1970,7 +2186,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 158333,
       "name": "Have I Told You Lately That I Love You",
       "url": "https://open.spotify.com/track/28oQwvCYJ6Z22Q3bYzkBwK"
@@ -1988,7 +2204,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 127560,
       "name": "Heartbreak Hotel",
       "url": "https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio"
@@ -2006,10 +2222,28 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 138840,
       "name": "Hello Mary Lou",
       "url": "https://open.spotify.com/track/0YOasUp8fxPk3FXEa3fZ9z"
+    },
+    {
+      "album": {
+        "name": "Rick Is 21",
+        "url": "https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe"
+      },
+      "artists": [
+        {
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138546,
+      "name": "Hello Mary Lou, Goodbye Heart - Remastered",
+      "url": "https://open.spotify.com/track/6ImmlZj8ysK2jDnqqbKp60"
     },
     {
       "album": {
@@ -2024,10 +2258,28 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 143627,
       "name": "Hey! Baby - Remastered",
       "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
+    },
+    {
+      "album": {
+        "name": "Gene Vincent And The Blue Caps",
+        "url": "https://open.spotify.com/album/0hiKWm7WLBpTtzIlnwTnrk"
+      },
+      "artists": [
+        {
+          "name": "Gene Vincent & His Blue Caps",
+          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135373,
+      "name": "Hold Me, Hug Me, Rock Me",
+      "url": "https://open.spotify.com/track/0P9wPwqLUHzp5jeY1cHeAd"
     },
     {
       "album": {
@@ -2042,7 +2294,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 161493,
       "name": "Home of the Blues",
       "url": "https://open.spotify.com/track/6n0RbelQggTcHBXzVhvYpL"
@@ -2078,7 +2330,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 135360,
       "name": "Honey Bop",
       "url": "https://open.spotify.com/track/2Wsm0caLiFxjqm8QNp8R8q"
@@ -2114,7 +2366,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 134466,
       "name": "Honey Bop - 2002 Remaster",
       "url": "https://open.spotify.com/track/5ZLC0eMF81vCNNHeiduNeN"
@@ -2132,7 +2384,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 169420,
       "name": "Honey Don't",
       "url": "https://open.spotify.com/track/0T0qUG5LFTSDNSLtTPXvBA"
@@ -2186,7 +2438,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 144693,
       "name": "Honey Don't",
       "url": "https://open.spotify.com/track/5wHNN87jPpD6ouu1pWegAj"
@@ -2240,7 +2492,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 167162,
       "name": "Honey Hush",
       "url": "https://open.spotify.com/track/727t9ZIfHHfCjset1WleLW"
@@ -2258,7 +2510,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 121785,
       "name": "Honey Hush - Johnny Burnette And The Rock And Roll Trio",
       "url": "https://open.spotify.com/track/00CA6syECrKaIDm1jHqInG"
@@ -2276,7 +2528,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 130933,
       "name": "Honky Tonk Man",
       "url": "https://open.spotify.com/track/7m44TrK4qxvhRUh1vaibHL"
@@ -2312,7 +2564,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 160200,
       "name": "Hot Dog! That Made Him Mad - Remastered",
       "url": "https://open.spotify.com/track/1r0qsbI9hQu5v5aSCTTqJR"
@@ -2334,6 +2586,24 @@
       "duration_ms": 160200,
       "name": "Hot Dog! That Made Him Mad - Remastered",
       "url": "https://open.spotify.com/track/7FSIjZL0LbWuWWsxfAm4Bq"
+    },
+    {
+      "album": {
+        "name": "Hot Rock - A Full-Throttle Rockabilly Anthology",
+        "url": "https://open.spotify.com/album/7cQs3ix5kgvQwp6g9AuvCM"
+      },
+      "artists": [
+        {
+          "name": "Johnny Carroll And His Hot Rocks",
+          "url": "https://open.spotify.com/artist/2yTwfUAU0DrsnNCzNmPEi1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138533,
+      "name": "Hot Rock",
+      "url": "https://open.spotify.com/track/6qiZaVwiUT2EEKFOIpysyB"
     },
     {
       "album": {
@@ -2420,7 +2690,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 119040,
       "name": "Hoy Hoy",
       "url": "https://open.spotify.com/track/5ZRcMUNtkPJINR4lMPK10e"
@@ -2438,7 +2708,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 238333,
       "name": "I Can Help",
       "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
@@ -2456,7 +2726,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 151400,
       "name": "I Forgot to Remember to Forget",
       "url": "https://open.spotify.com/track/2hGohVrYrnwk1TIwAdbhuZ"
@@ -2510,10 +2780,28 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 150493,
       "name": "I Gotta Know - Remastered",
       "url": "https://open.spotify.com/track/5ASGrJFUPzKDnMiDtvEv7r"
+    },
+    {
+      "album": {
+        "name": "Single Trax 1970-1981",
+        "url": "https://open.spotify.com/album/4Zk0R6PCTujeSb9ppg1vQi"
+      },
+      "artists": [
+        {
+          "name": "Dave Edmunds",
+          "url": "https://open.spotify.com/artist/65Gh3BfK84aTIugiRCgLBA"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174440,
+      "name": "I Knew the Bride",
+      "url": "https://open.spotify.com/track/20tupebVMJ8J726PbJmbWr"
     },
     {
       "album": {
@@ -2528,7 +2816,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 173773,
       "name": "I Need A Man",
       "url": "https://open.spotify.com/track/3vk6HvWYYlzwXaPxijyV2K"
@@ -2546,7 +2834,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 154546,
       "name": "I Walk the Line",
       "url": "https://open.spotify.com/track/0SHqu1Nlm2Cu6eNbmxHvRA"
@@ -2564,7 +2852,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 117066,
       "name": "I Want You Baby",
       "url": "https://open.spotify.com/track/15FFXCQ1l04oGPs4SvNiDa"
@@ -2582,7 +2870,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 159920,
       "name": "I Want You, I Need You, I Love You",
       "url": "https://open.spotify.com/track/60tEaPHRJLnMzbyOPTeh3A"
@@ -2600,7 +2888,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 155306,
       "name": "I'm Left, You're Right, She's Gone",
       "url": "https://open.spotify.com/track/3FuJEZ6AeRaIDM5ND9sMty"
@@ -2618,7 +2906,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 116093,
       "name": "I'm Lookin' For Someone To Love",
       "url": "https://open.spotify.com/track/7oC0KDOtMskJWCoTCR0wZC"
@@ -2654,7 +2942,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 145510,
       "name": "I'm Sorry I'm Not Sorry",
       "url": "https://open.spotify.com/track/6A0El1qrmKJdfbGzQp1dh2"
@@ -2708,7 +2996,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 141693,
       "name": "If I Had Me A Woman",
       "url": "https://open.spotify.com/track/1FP1yL9ukEYX0z0IX5ir7Y"
@@ -2726,7 +3014,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 127400,
       "name": "If You Want It Enough - Single Version",
       "url": "https://open.spotify.com/track/1Tvqy5LHaNKR9eQsOxD58D"
@@ -2744,7 +3032,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 125906,
       "name": "In The Jailhouse Now",
       "url": "https://open.spotify.com/track/5xcJtLxdprEWBR2jRqcQPW"
@@ -2762,10 +3050,28 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 120160,
       "name": "It's Late",
       "url": "https://open.spotify.com/track/72B9TNuORSW235TKZxvnWM"
+    },
+    {
+      "album": {
+        "name": "Love Tattoo",
+        "url": "https://open.spotify.com/album/1QFPnggq5et7r2SUymBOap"
+      },
+      "artists": [
+        {
+          "name": "Imelda May",
+          "url": "https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179400,
+      "name": "Johnny Got A Boom Boom",
+      "url": "https://open.spotify.com/track/7psi2y1Mm973ZkYynLYuEC"
     },
     {
       "album": {
@@ -2787,6 +3093,28 @@
     },
     {
       "album": {
+        "name": "Hey! Teenager",
+        "url": "https://open.spotify.com/album/2Q6oQgCF54ugtgOiUaKZ4t"
+      },
+      "artists": [
+        {
+          "name": "Crazy Cavan",
+          "url": "https://open.spotify.com/artist/1GpRTQRruGUoxhRYV0RtEv"
+        },
+        {
+          "name": "The Rhythm Rockers",
+          "url": "https://open.spotify.com/artist/2vUb000rRvIR0OySDVJSat"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151706,
+      "name": "Jumpin' Jive",
+      "url": "https://open.spotify.com/track/62WEmyTLJRfgTz76pj3Oma"
+    },
+    {
+      "album": {
         "name": "Jungle Rock",
         "url": "https://open.spotify.com/album/21kqXS5qnYmFwDFZ9buKHb"
       },
@@ -2798,7 +3126,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 168120,
       "name": "Jungle Rock",
       "url": "https://open.spotify.com/track/0XSHcO8JNMSA8kXvppB5bS"
@@ -2841,6 +3169,28 @@
     },
     {
       "album": {
+        "name": "50s Dance Party",
+        "url": "https://open.spotify.com/album/02gR0WnRMMkFVGwtZaFFnV"
+      },
+      "artists": [
+        {
+          "name": "James Intveld",
+          "url": "https://open.spotify.com/artist/3PaZvRc0695xVyvwWZmsNt"
+        },
+        {
+          "name": "Tony Brown",
+          "url": "https://open.spotify.com/artist/1YMlmDFaMoScXDaII6e5tQ"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "King Cry-Baby",
+      "url": "https://open.spotify.com/track/0YtOA9MiHBCjKelmZtkf0V"
+    },
+    {
+      "album": {
         "name": "20 Rock 'N' Roll Hits",
         "url": "https://open.spotify.com/album/12uadrsBO9OStSXlXLV6cW"
       },
@@ -2852,7 +3202,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 131826,
       "name": "Let's Have A Party",
       "url": "https://open.spotify.com/track/4upLu0R3npTDnk4jSBa6Ju"
@@ -2888,7 +3238,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 133853,
       "name": "Little Pig",
       "url": "https://open.spotify.com/track/08AV9I042r4kDcpfC5DjRT"
@@ -2906,7 +3256,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 167993,
       "name": "Lollipop Mama",
       "url": "https://open.spotify.com/track/7k7VA1ZIX4qry6957bNwu0"
@@ -2924,7 +3274,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 105120,
       "name": "Lonely Weekends",
       "url": "https://open.spotify.com/track/1A9W9Honiy2E2sR5c2bOcX"
@@ -2942,7 +3292,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 112680,
       "name": "Lonesome for a Letter",
       "url": "https://open.spotify.com/track/5WCwv3bW8SF7fhQ1tSFWSM"
@@ -2978,10 +3328,28 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 121875,
       "name": "Lonesome Train - Johnny Burnette And The Rock And Roll Trio",
       "url": "https://open.spotify.com/track/5caolimSqKw9H3Q6lJ5CLN"
+    },
+    {
+      "album": {
+        "name": "Presenting Johnny Powers",
+        "url": "https://open.spotify.com/album/17APoK2Yrq0BfvRTzahaX4"
+      },
+      "artists": [
+        {
+          "name": "Johnny Powers",
+          "url": "https://open.spotify.com/artist/1jjlLYpFTUwpzzC2wXnHfB"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129785,
+      "name": "Long Blond Hair",
+      "url": "https://open.spotify.com/track/5bCO0YQXBlEKBTI9YLXuXg"
     },
     {
       "album": {
@@ -3014,7 +3382,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 119733,
       "name": "Long Tall Sally",
       "url": "https://open.spotify.com/track/3EyvLmKst3E6osm8ly5v5A"
@@ -3032,7 +3400,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 127426,
       "name": "Long Tall Sally (The Thing)",
       "url": "https://open.spotify.com/track/507IFqPuG8mBQoKebfGG9t"
@@ -3072,10 +3440,28 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 119586,
       "name": "Love's Made A Fool Of You",
       "url": "https://open.spotify.com/track/2xuR5zcTAfxZGTTXnVO88W"
+    },
+    {
+      "album": {
+        "name": "Rockabilly Cats",
+        "url": "https://open.spotify.com/album/2FYlqHuVW1L4jnyU8eYJO2"
+      },
+      "artists": [
+        {
+          "name": "The Polecats",
+          "url": "https://open.spotify.com/artist/0ySLj2XiEOFtixInK1GAD4"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175573,
+      "name": "Make A Circuit With Me",
+      "url": "https://open.spotify.com/track/3Z50lyyjBpQ8X5aPz4d9kU"
     },
     {
       "album": {
@@ -3090,7 +3476,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 122200,
       "name": "Man We Had A Party",
       "url": "https://open.spotify.com/track/1M31v0Ao5kEkOyJ1Ux4ebY"
@@ -3162,7 +3548,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 121840,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/78wR6H9u9RcFftZgy1vfdp"
@@ -3198,7 +3584,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 125986,
       "name": "Mean Little Mama",
       "url": "https://open.spotify.com/track/552y9ticHaU7N3oQWJCrLC"
@@ -3270,7 +3656,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 132400,
       "name": "Midnight Shift",
       "url": "https://open.spotify.com/track/4P3SLPL58a0u1F1XPZ4q2U"
@@ -3288,7 +3674,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 131039,
       "name": "Midnight Train - Single Version",
       "url": "https://open.spotify.com/track/5WfcopSSlhZMEi6TZaPwA8"
@@ -3342,7 +3728,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 146728,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/6bhTvzvIPjOLtsGAhyaHfH"
@@ -3360,7 +3746,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 135786,
       "name": "Money Honey - Remastered",
       "url": "https://open.spotify.com/track/0wad7mR238px30uUsnkWik"
@@ -3396,7 +3782,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 148333,
       "name": "Mule Skinner Blues",
       "url": "https://open.spotify.com/track/6WHF5nnnZpkcCxkPTImpPD"
@@ -3414,10 +3800,32 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 132346,
       "name": "My Baby Left Me",
       "url": "https://open.spotify.com/track/1ZwHq094yOjH9hFYyouTOW"
+    },
+    {
+      "album": {
+        "name": "Our Own Way Of Rockin'",
+        "url": "https://open.spotify.com/album/3Tig4FmFOmfxWrwwQhN1DO"
+      },
+      "artists": [
+        {
+          "name": "Crazy Cavan",
+          "url": "https://open.spotify.com/artist/1GpRTQRruGUoxhRYV0RtEv"
+        },
+        {
+          "name": "The Rhythm Rockers",
+          "url": "https://open.spotify.com/artist/2vUb000rRvIR0OySDVJSat"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165293,
+      "name": "My Little Sister Gotta Motorbike",
+      "url": "https://open.spotify.com/track/3jdD1a7GJXh3Q9pMYxLagY"
     },
     {
       "album": {
@@ -3432,7 +3840,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 111373,
       "name": "My Pink Cadillac - Remastered Single Version",
       "url": "https://open.spotify.com/track/2vpKWQaouXsQE9FHXLR4PG"
@@ -3450,7 +3858,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 144946,
       "name": "Mystery Train",
       "url": "https://open.spotify.com/track/0GvhHQbWSnGltjl0je61dI"
@@ -3468,7 +3876,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 134453,
       "name": "Never Be Anyone Else But You",
       "url": "https://open.spotify.com/track/0ieEUN8bAkSh4eAW7cGf1F"
@@ -3486,7 +3894,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 138986,
       "name": "New Rock The Joint",
       "url": "https://open.spotify.com/track/2msqQpB7YcypMKIx6W5qG5"
@@ -3504,10 +3912,40 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 140826,
       "name": "Not Fade Away",
       "url": "https://open.spotify.com/track/0RbdQUJ42v3ngVYfsMIksL"
+    },
+    {
+      "album": {
+        "name": "Fool's Paradise",
+        "url": "https://open.spotify.com/album/3SGlVZOJK0Xoao28PNVDBb"
+      },
+      "artists": [
+        {
+          "name": "HeadCat",
+          "url": "https://open.spotify.com/artist/5WM7w7zSrYevTJZtuKgvvO"
+        },
+        {
+          "name": "Lemmy",
+          "url": "https://open.spotify.com/artist/0bmuibaBeiMxAqN2HwUqhd"
+        },
+        {
+          "name": "Danny B. Harvey",
+          "url": "https://open.spotify.com/artist/7rnGpkRXprZHH7rwKwEMy2"
+        },
+        {
+          "name": "Slim Jim Phantom",
+          "url": "https://open.spotify.com/artist/3HfEn2cgHnv9NDtw9tS6ps"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136546,
+      "name": "Not Fade Away",
+      "url": "https://open.spotify.com/track/4O2MqQFRBB6E8darwh6CSn"
     },
     {
       "album": {
@@ -3522,10 +3960,28 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 140506,
       "name": "Oh Baby Babe - Single Version",
       "url": "https://open.spotify.com/track/1lhSVCcPspFV7XAdvWSazI"
+    },
+    {
+      "album": {
+        "name": "Streets Of Fire",
+        "url": "https://open.spotify.com/album/1DU5fmQDMYfS6g1tntqKdK"
+      },
+      "artists": [
+        {
+          "name": "The Blasters",
+          "url": "https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147800,
+      "name": "One Bad Stud",
+      "url": "https://open.spotify.com/track/10KrbfGcD0SZMFyGcoP3ar"
     },
     {
       "album": {
@@ -3558,7 +4014,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 123600,
       "name": "One Cup of Coffee",
       "url": "https://open.spotify.com/track/5XUiqQLF5mSkBs16ohiEXQ"
@@ -3616,7 +4072,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 241813,
       "name": "One Piece at a Time",
       "url": "https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3"
@@ -3685,6 +4141,24 @@
     },
     {
       "album": {
+        "name": "Shiverin' and Shakin' Hop Rockers & Sleazy Instros, Pt. One: 1958-1965",
+        "url": "https://open.spotify.com/album/20aqYvCMQqkqa1LwWl52XC"
+      },
+      "artists": [
+        {
+          "name": "Kip Tyler & His Flips",
+          "url": "https://open.spotify.com/artist/0FbyYmnNfSFWzI94IWlIhm"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147373,
+      "name": "Ooh Yeah Baby",
+      "url": "https://open.spotify.com/track/2rDe6Ry7o1FrPGZnea3REh"
+    },
+    {
+      "album": {
         "name": "Buddy Knox",
         "url": "https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc"
       },
@@ -3696,7 +4170,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 135173,
       "name": "Party Doll",
       "url": "https://open.spotify.com/track/3SNEFR9U8CCEUN3iZfkVgW"
@@ -3714,7 +4188,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 155973,
       "name": "Pearly Lee",
       "url": "https://open.spotify.com/track/2A6a9rKh4NYl9XJ8WckLLQ"
@@ -3736,7 +4210,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 148546,
       "name": "Peggy Sue",
       "url": "https://open.spotify.com/track/2MvTUatppQVNsis0xnsWXi"
@@ -3754,7 +4228,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 126213,
       "name": "Pledging My Love",
       "url": "https://open.spotify.com/track/4GaGTwioDaGXu2n5r8KBud"
@@ -3772,7 +4246,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 153933,
       "name": "Poor Little Fool - Remastered",
       "url": "https://open.spotify.com/track/5ayybTSXNwcarDtxQKqvWX"
@@ -3808,7 +4282,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 133813,
       "name": "Pretty Bad Blues",
       "url": "https://open.spotify.com/track/2BPCXh7gvljrtcGq4vRLKH"
@@ -3844,7 +4318,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 162373,
       "name": "Pretty Mama",
       "url": "https://open.spotify.com/track/6jsAanjR4XKcu6LpJbAgbN"
@@ -3862,7 +4336,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 174240,
       "name": "Put Your Cat Clothes on",
       "url": "https://open.spotify.com/track/41i8T9OsxytM0m2UkZWPYC"
@@ -3880,7 +4354,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 124946,
       "name": "Race With The Devil",
       "url": "https://open.spotify.com/track/0RN5zLnG2VlOS5Z6qNo23h"
@@ -3916,7 +4390,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 144826,
       "name": "Raunchy",
       "url": "https://open.spotify.com/track/5gsVdCTBKYHzzGcYNg1TXT"
@@ -3938,7 +4412,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 108093,
       "name": "Rave On",
       "url": "https://open.spotify.com/track/1tnXBnAgdWlNgEn4WBH9pZ"
@@ -3992,7 +4466,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 92680,
       "name": "Ready Teddy",
       "url": "https://open.spotify.com/track/1bqTuo0PxNAhitHnHcTHzV"
@@ -4010,7 +4484,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 126680,
       "name": "Ready Teddy",
       "url": "https://open.spotify.com/track/5wbZ3sbWf4PppzZiRxkxou"
@@ -4028,10 +4502,28 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 129400,
       "name": "Red Headed Woman",
       "url": "https://open.spotify.com/track/25WJq089zZfqxfzHRbwkZq"
+    },
+    {
+      "album": {
+        "name": "The Sun Records Sound of Billy Lee Riley (20 Rockabilly Originals)",
+        "url": "https://open.spotify.com/album/12nGZsto8BTrIMNIEr4JRk"
+      },
+      "artists": [
+        {
+          "name": "Billy Lee Riley",
+          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149584,
+      "name": "Red Hot",
+      "url": "https://open.spotify.com/track/31ajddT1F78QGsGLWonOaq"
     },
     {
       "album": {
@@ -4046,7 +4538,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 150586,
       "name": "Red Hot",
       "url": "https://open.spotify.com/track/57mkcwZRCiQqvbsN4P5Tqw"
@@ -4118,7 +4610,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 159066,
       "name": "Right Or Wrong",
       "url": "https://open.spotify.com/track/6yodxkUjWFbAE8VV4XkuDv"
@@ -4154,7 +4646,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 138520,
       "name": "Rip It Up",
       "url": "https://open.spotify.com/track/6xUxkmhGnzv5810XzAplE4"
@@ -4172,7 +4664,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 175864,
       "name": "Rock & Roll Ruby",
       "url": "https://open.spotify.com/track/6xaCoxc3yqOEwqrHW7A3qT"
@@ -4190,7 +4682,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 138066,
       "name": "Rock Around With Ollie Vee - Alternate Version",
       "url": "https://open.spotify.com/track/5b0KMebx2ZOPv91U42xOSv"
@@ -4208,10 +4700,28 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 156426,
       "name": "Rock Billy Boogie",
       "url": "https://open.spotify.com/track/4NazHwfKb4e9WSkFM2OC52"
+    },
+    {
+      "album": {
+        "name": "Rock Billy Boogie",
+        "url": "https://open.spotify.com/album/10xfK1QoJAKJTatrJTp4Wt"
+      },
+      "artists": [
+        {
+          "name": "Robert Gordon",
+          "url": "https://open.spotify.com/artist/1coQ4GcxuazfjZ0MP9JnBF"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153333,
+      "name": "Rock Billy Boogie",
+      "url": "https://open.spotify.com/track/6kJ86Zi4x1LY9KEdjQA5S2"
     },
     {
       "album": {
@@ -4244,7 +4754,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 123000,
       "name": "Rock House",
       "url": "https://open.spotify.com/track/36YXD9jFfw446zqlOVGFD2"
@@ -4298,7 +4808,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 111266,
       "name": "Rock Me My Baby",
       "url": "https://open.spotify.com/track/7szZdsgoKUIEzwc3Q94rWx"
@@ -4338,7 +4848,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 131400,
       "name": "Rock Pretty Mama",
       "url": "https://open.spotify.com/track/08SmrLq3o5AE5da5RYS9Ao"
@@ -4392,7 +4902,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 155933,
       "name": "Rock the Joint",
       "url": "https://open.spotify.com/track/3i1pqfP4SQVAw0iWh8GDsG"
@@ -4482,7 +4992,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 131748,
       "name": "Rock with Me Baby",
       "url": "https://open.spotify.com/track/7chd9tmRcxbUFN8zUn5LFC"
@@ -4507,6 +5017,46 @@
     },
     {
       "album": {
+        "name": "All American Rock 'N' Roll from Fraternity Records",
+        "url": "https://open.spotify.com/album/7n8d7Wzpu2LxkchyD1Jfyn"
+      },
+      "artists": [
+        {
+          "name": "Sparkle Moore",
+          "url": "https://open.spotify.com/artist/4SPbyaeJhJ2vkRM61jsMYe"
+        },
+        {
+          "name": "Dan Belloc's Orchestra",
+          "url": "https://open.spotify.com/artist/4PIkVqtgrm8JIoyUaWytqX"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134826,
+      "name": "Rock-a-Bop",
+      "url": "https://open.spotify.com/track/2pJnxaBbts4d1p1iiuo0NS"
+    },
+    {
+      "album": {
+        "name": "Rockabilly Cats",
+        "url": "https://open.spotify.com/album/2FYlqHuVW1L4jnyU8eYJO2"
+      },
+      "artists": [
+        {
+          "name": "The Polecats",
+          "url": "https://open.spotify.com/artist/0ySLj2XiEOFtixInK1GAD4"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152026,
+      "name": "Rockabilly Guy",
+      "url": "https://open.spotify.com/track/3vrRAugNjfi7UkW4Ktxxyl"
+    },
+    {
+      "album": {
         "name": "Sun Records - Turn It Up! Rock 'N' Roll",
         "url": "https://open.spotify.com/album/1bIGw9IlSWHA5NZIXrpsW5"
       },
@@ -4518,10 +5068,28 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 119368,
       "name": "Rockin Daddy",
       "url": "https://open.spotify.com/track/7CyHhyn57wzUc9mCQBvMsh"
+    },
+    {
+      "album": {
+        "name": "Ronnie Dawson Presents Rockin' Bones",
+        "url": "https://open.spotify.com/album/1hCRjgooSVFgMKvZMHWa9n"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Dawson",
+          "url": "https://open.spotify.com/artist/2Fgg6KYXIgeRY3VxQjX9lP"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118040,
+      "name": "Rockin' Bones",
+      "url": "https://open.spotify.com/track/2KP1nhjeI0bOwzO9o9HTKC"
     },
     {
       "album": {
@@ -4590,7 +5158,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 133480,
       "name": "Rumble Rock",
       "url": "https://open.spotify.com/track/2Uo5oKoHZdgnJ1pDC44AJd"
@@ -4608,7 +5176,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 137066,
       "name": "Sag, Drag And Fall",
       "url": "https://open.spotify.com/track/3xw9oodXlV5TLFSXKdcKqt"
@@ -4626,7 +5194,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 124680,
       "name": "School of Rock 'N Roll - Remastered Single Version",
       "url": "https://open.spotify.com/track/67FVXjSMaBHpUEWREDrkdE"
@@ -4644,7 +5212,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 165360,
       "name": "See You Later, Alligator",
       "url": "https://open.spotify.com/track/1s4hyUFWmLWiAamsclb4xA"
@@ -4662,7 +5230,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 150466,
       "name": "Shake, Rattle And Roll - Single Version",
       "url": "https://open.spotify.com/track/2JoXjemDQe0fSmk26CpfrP"
@@ -4734,7 +5302,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 145640,
       "name": "Singing the Blues",
       "url": "https://open.spotify.com/track/4vcHOxfV846dVjyToPFBRp"
@@ -4752,7 +5320,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 121800,
       "name": "Sittin' In The Balcony",
       "url": "https://open.spotify.com/track/7ijofjiPGEUYhU2WreUL0n"
@@ -4777,6 +5345,24 @@
     },
     {
       "album": {
+        "name": "The Blasters Collection",
+        "url": "https://open.spotify.com/album/5bFPCsAzT5pb4BiQIUleh1"
+      },
+      "artists": [
+        {
+          "name": "The Blasters",
+          "url": "https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141306,
+      "name": "So Long Baby Goodbye",
+      "url": "https://open.spotify.com/track/6VpVEeczEpC5OeIqgb7JZD"
+    },
+    {
+      "album": {
         "name": "12 Of His Biggest Hits",
         "url": "https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6"
       },
@@ -4795,6 +5381,24 @@
     },
     {
       "album": {
+        "name": "Built For Speed",
+        "url": "https://open.spotify.com/album/65PptxxbOFNvpAK9oBeVV1"
+      },
+      "artists": [
+        {
+          "name": "Stray Cats",
+          "url": "https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Stray Cat Strut",
+      "url": "https://open.spotify.com/track/5yogRsv5ggT6iCnFgvdpho"
+    },
+    {
+      "album": {
         "name": "20 Rock 'N' Roll Hits",
         "url": "https://open.spotify.com/album/12uadrsBO9OStSXlXLV6cW"
       },
@@ -4806,7 +5410,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 135426,
       "name": "Stupid Cupid",
       "url": "https://open.spotify.com/track/05k9zkL0InhFtrByAYNVJa"
@@ -4824,10 +5428,28 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 180613,
       "name": "Stutterin' Papa",
       "url": "https://open.spotify.com/track/0gAZEGr57UbadUEYz2b2Z1"
+    },
+    {
+      "album": {
+        "name": "La Bamba (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1WXtfqXeeROVckzEtoYvdk"
+      },
+      "artists": [
+        {
+          "name": "Brian Setzer",
+          "url": "https://open.spotify.com/artist/4xiBg5AwhlWtuxAJO9rO6f"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160733,
+      "name": "Summertime Blues",
+      "url": "https://open.spotify.com/track/6lQwleGzfHjfBiM4v2R5IN"
     },
     {
       "album": {
@@ -4860,10 +5482,28 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 128866,
       "name": "Sunglasses After Dark",
       "url": "https://open.spotify.com/track/0VL7bjfwdWsGOOwhGjEe7c"
+    },
+    {
+      "album": {
+        "name": "Presenting Dale Hawkins (65th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7nzkS6FcHKXtAQmVYP5miw"
+      },
+      "artists": [
+        {
+          "name": "Dale Hawkins",
+          "url": "https://open.spotify.com/artist/7kcPzHlsyJm5tDv7JMcr6T"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133373,
+      "name": "Susie-Q",
+      "url": "https://open.spotify.com/track/2XTBQyBapzuWbx3ZByfOrn"
     },
     {
       "album": {
@@ -4878,10 +5518,28 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 146586,
       "name": "Sweet Love On My Mind",
       "url": "https://open.spotify.com/track/4dkrqvsEqNSpciVBHobLBR"
+    },
+    {
+      "album": {
+        "name": "The Good The Bad The Rockin'",
+        "url": "https://open.spotify.com/album/6eym42OPzXegn6k7BcQOsK"
+      },
+      "artists": [
+        {
+          "name": "The Rockats",
+          "url": "https://open.spotify.com/artist/3EHd8azqALUq76v5HZXRVU"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123600,
+      "name": "Tattooed Lady",
+      "url": "https://open.spotify.com/track/1HenyvhDS3QDnngcCzbLUR"
     },
     {
       "album": {
@@ -4932,7 +5590,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 134493,
       "name": "That Ain't Nothin' But Right",
       "url": "https://open.spotify.com/track/5iew5fKwA9mdqP3vbn3Ynb"
@@ -4972,7 +5630,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 135066,
       "name": "That'll Be The Day",
       "url": "https://open.spotify.com/track/69F1iyhE7ef4iRCaeCzjeT"
@@ -5026,7 +5684,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 176973,
       "name": "That's All Right",
       "url": "https://open.spotify.com/track/7qOFo8CJMGexuOkSOynx6b"
@@ -5044,7 +5702,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 115280,
       "name": "That's All Right",
       "url": "https://open.spotify.com/track/0tHcXWIYt99GY8BONrPIfA"
@@ -5116,10 +5774,28 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 149440,
       "name": "The Girl Can\u2019t Help It",
       "url": "https://open.spotify.com/track/7cTyhsiWD9dSWrxkyIwxZu"
+    },
+    {
+      "album": {
+        "name": "Johnny Burnette And The Rock 'N Roll Trio",
+        "url": "https://open.spotify.com/album/0WDDlUimET7qIVjs0Sm3mM"
+      },
+      "artists": [
+        {
+          "name": "Johnny Burnette & The Rock 'N' Roll Trio",
+          "url": "https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139453,
+      "name": "The Train Kept A Rollin'",
+      "url": "https://open.spotify.com/track/7s8spWIA65WP6vG18bXDP1"
     },
     {
       "album": {
@@ -5134,7 +5810,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 139865,
       "name": "The Train Kept A-Rolling",
       "url": "https://open.spotify.com/track/0DBGjMhMstXc86F8DmJq74"
@@ -5152,7 +5828,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 146666,
       "name": "There Stands The Glass",
       "url": "https://open.spotify.com/track/0VxX3RBKO46Ky6XgvN0bME"
@@ -5170,10 +5846,28 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 126546,
       "name": "There's A Party Goin' On",
       "url": "https://open.spotify.com/track/5Aqaqk643o13mVm4UFhLYp"
+    },
+    {
+      "album": {
+        "name": "This Ole House",
+        "url": "https://open.spotify.com/album/0X2mbcnFCW3xu4YKXurMLw"
+      },
+      "artists": [
+        {
+          "name": "Shakin' Stevens",
+          "url": "https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185866,
+      "name": "This Ole House",
+      "url": "https://open.spotify.com/track/1Fovcw2l65GDnf3utzqdGC"
     },
     {
       "album": {
@@ -5206,7 +5900,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 148600,
       "name": "Three Alley Cats",
       "url": "https://open.spotify.com/track/0F5y2kUM1sHixExHp7IK4a"
@@ -5278,7 +5972,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 163666,
       "name": "Ting-A-Ling",
       "url": "https://open.spotify.com/track/3xYpfBGYFStEey5zBCGO2Y"
@@ -5296,7 +5990,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 116253,
       "name": "Tongue-Tied Jill",
       "url": "https://open.spotify.com/track/59t9IJpB1WH537Ve9dF5zY"
@@ -5351,6 +6045,24 @@
     },
     {
       "album": {
+        "name": "It's All True!",
+        "url": "https://open.spotify.com/album/4LClhwjnWnclx0uJ9fNoWi"
+      },
+      "artists": [
+        {
+          "name": "Kim Lenz & Her Jaguars",
+          "url": "https://open.spotify.com/artist/2yG5isAT56JzRO1qpmmwnB"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161986,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/5x1B2AjKhCVtYNHDbVAV1F"
+    },
+    {
+      "album": {
         "name": "Million Sellers",
         "url": "https://open.spotify.com/album/0sevjKKvHuAMrYwgonINsQ"
       },
@@ -5362,7 +6074,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 143226,
       "name": "Travelin' Man",
       "url": "https://open.spotify.com/track/4KwYpkcfrzcM8JSXQal6vr"
@@ -5405,6 +6117,24 @@
     },
     {
       "album": {
+        "name": "The Sun Records Sound of Warren Smith (20 Rockabilly Favorites)",
+        "url": "https://open.spotify.com/album/7EbBwkAHlqxaQGlKpsODQ6"
+      },
+      "artists": [
+        {
+          "name": "Warren Smith",
+          "url": "https://open.spotify.com/artist/3EPmCVUm7QNc1fSrLsXGq5"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118257,
+      "name": "Ubangi Stomp",
+      "url": "https://open.spotify.com/track/0QXWOUB7LGccPIhfEGJcCU"
+    },
+    {
+      "album": {
         "name": "The Legendary Sun Classics",
         "url": "https://open.spotify.com/album/6LnPtBT7JcJWNsnONzNtgY"
       },
@@ -5416,7 +6146,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 120520,
       "name": "Ubangi Stomp",
       "url": "https://open.spotify.com/track/3qYNCi2R5PBer8Ypj4JyIR"
@@ -5434,7 +6164,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 123520,
       "name": "Wake up Little Susie",
       "url": "https://open.spotify.com/track/11fNLqDB47gMKj7BHhR2Qr"
@@ -5452,10 +6182,28 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 143106,
       "name": "We Wanna Boogie",
       "url": "https://open.spotify.com/track/0zUrqiVhuc5siPuEGmi3l6"
+    },
+    {
+      "album": {
+        "name": "The Sun Records Sound of Sonny Burgess (20 Rockabilly Originals)",
+        "url": "https://open.spotify.com/album/4m3SwxCJImq2wzmxhkdDrC"
+      },
+      "artists": [
+        {
+          "name": "Sonny Burgess",
+          "url": "https://open.spotify.com/artist/0wYcRO9uOuCpQZ8qrQ1uRT"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143116,
+      "name": "We Wanna Boogie",
+      "url": "https://open.spotify.com/track/6GZ1WlVhXloeDGdhm83L6z"
     },
     {
       "album": {
@@ -5470,7 +6218,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 160253,
       "name": "Who Do You Love - Single Version; Remastered",
       "url": "https://open.spotify.com/track/4BiwW4Yu4v2QFO47XnTi6p"
@@ -5488,7 +6236,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 118506,
       "name": "Who Slapped John?",
       "url": "https://open.spotify.com/track/081t37hdBbQVjWGuBd42z6"
@@ -5614,7 +6362,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 118213,
       "name": "Will You Willyum",
       "url": "https://open.spotify.com/track/650HIE3VxMtF4R50Vwaj4U"
@@ -5650,7 +6398,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 152666,
       "name": "Woman Love",
       "url": "https://open.spotify.com/track/14L1YscHThuXgXZDtGd7hp"
@@ -5675,6 +6423,24 @@
     },
     {
       "album": {
+        "name": "50s Rock 'N' Roll",
+        "url": "https://open.spotify.com/album/3ffeGGfqpP4DmM7LuKmkiY"
+      },
+      "artists": [
+        {
+          "name": "The Rock-A-Teens",
+          "url": "https://open.spotify.com/artist/4vbR9DeELloVAWieVRcN5O"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126600,
+      "name": "Woo Hoo",
+      "url": "https://open.spotify.com/track/1W5dAotc2fxSCmob5zDvQr"
+    },
+    {
+      "album": {
         "name": "Pecker",
         "url": "https://open.spotify.com/album/4iuzCjy7MH0IKaY7njmHXi"
       },
@@ -5686,10 +6452,28 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 129586,
       "name": "Woo-Hoo",
       "url": "https://open.spotify.com/track/0WzNOvVsACcCQXr8XJXSkG"
+    },
+    {
+      "album": {
+        "name": "The Singles",
+        "url": "https://open.spotify.com/album/53KAbX9gBq9qmZLmEpxyrF"
+      },
+      "artists": [
+        {
+          "name": "Jets",
+          "url": "https://open.spotify.com/artist/5lYoBmQmOncqIVZgVxzFzy"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194586,
+      "name": "Yes Tonight Josephine",
+      "url": "https://open.spotify.com/track/27swcnouYa2UVqqjtMPHUI"
     },
     {
       "album": {
@@ -5708,7 +6492,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 149573,
       "name": "You Gotta Have a Duck Tail",
       "url": "https://open.spotify.com/track/0iISFypEXBujqd3btzBqD9"
@@ -5726,7 +6510,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 123440,
       "name": "You Oughta See Grandma Rock",
       "url": "https://open.spotify.com/track/1RwS7W9aa6083IWOGCQg44"
@@ -5762,7 +6546,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 141493,
       "name": "You Told A Fib",
       "url": "https://open.spotify.com/track/7aOLJZ7DR8u7WmOMhHE4b3"
@@ -5787,6 +6571,24 @@
     },
     {
       "album": {
+        "name": "Presenting Don Woody",
+        "url": "https://open.spotify.com/album/68SDcakAuK13CwP1UrVFsK"
+      },
+      "artists": [
+        {
+          "name": "Don Woody",
+          "url": "https://open.spotify.com/artist/1SkfhhVFZWKdLrXJCwZJ1T"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141853,
+      "name": "You're Barking up the Wrong Tree",
+      "url": "https://open.spotify.com/track/532VRAxBBqFd6IrSLZpL7t"
+    },
+    {
+      "album": {
         "name": "At the Rock House",
         "url": "https://open.spotify.com/album/6QYaVdJsm6MNqKO9tEBUMm"
       },
@@ -5798,7 +6600,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 124500,
       "name": "You're My Baby",
       "url": "https://open.spotify.com/track/4cOquRwkJ1nD6DoP2v4Em5"
@@ -5888,7 +6690,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 163845,
       "name": "Your True Love",
       "url": "https://open.spotify.com/track/7hLxbX6zSRGa4kZ1U6CAlR"

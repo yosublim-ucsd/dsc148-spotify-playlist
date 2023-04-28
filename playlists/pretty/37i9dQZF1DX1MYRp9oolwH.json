@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Custody",
-  "num_followers": 81148,
+  "num_followers": 81176,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjQyMDc1OSwwMDAwMDAwMGIxZjE0NjFkMzhhN2RmZDNiZGM5NzVkMDdlZDFjNzJh",
+  "snapshot_id": "MCxmNzBjYzMyYWVmM2E3YmRkNjM3ZjBhYmI2YmY3YzgxMTE0NjAyYTA0",
   "tracks": [
     {
       "added_at": "2023-04-24 06:03:36",
@@ -211,14 +211,10 @@
     {
       "added_at": "2023-04-22 11:54:53",
       "album": {
-        "name": "Naa Tholi Chinnari Premo (From \"Month Of Madhu\")",
-        "url": "https://open.spotify.com/album/6n7Aal3Aw1V5jffuFBGSxN"
+        "name": "Naa Tholi Chinnari Premo (From \"Month of Madhu\") - Single",
+        "url": "https://open.spotify.com/album/4Z57hS6cSu9rLUZqF057dw"
       },
       "artists": [
-        {
-          "name": "Achu",
-          "url": "https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY"
-        },
         {
           "name": "Haricharan",
           "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
@@ -226,11 +222,19 @@
         {
           "name": "Aditi Bhavaraju",
           "url": "https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6"
+        },
+        {
+          "name": "Achu",
+          "url": "https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
         }
       ],
       "duration_ms": 287741,
-      "name": "Naa Tholi Chinnari Premo",
-      "url": "https://open.spotify.com/track/2rbAtAj9tMcALtA28zaYBu"
+      "name": "Naa Tholi Chinnari Premo (From \"Month Of Madhu\")",
+      "url": "https://open.spotify.com/track/6K8eAwWX94NjGQA5X5smfA"
     },
     {
       "added_at": "2023-04-04 03:17:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 
 > Iconic women from the history of the Blues\. Cover: Bessie Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,426 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,478 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,22 +66,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 56 | [I'm Getting 'Long Alright](https://open.spotify.com/track/7xhxXOiHwzKEcwQuTQgD9P) | [Big Maybelle](https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0) | [The Complete Okeh Sessions 1952\-1955](https://open.spotify.com/album/4ENn66pgc12XTse3zDQAxZ) | 3:34 |
 | 57 | [Honey Dripper Blues](https://open.spotify.com/track/1Os8Vy3lPy5jV1pvbWhVb1) | [Hattie North & Roosevelt Sykes](https://open.spotify.com/artist/7sD5sKsFCqEVKUIluXkIpx) | [Those Dirty Blues, Vol\. 2](https://open.spotify.com/album/0zDMxkrHTiWACsChYUqCNl) | 3:25 |
 | 58 | [Don't Worry 'Bout Strangers](https://open.spotify.com/track/1ZgAzwDAC6AtgA4CbztYir) | [Mildred Bailey](https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix) | [Sings..\. Me And The Blues](https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u) | 3:00 |
-| 59 | [Crazy Blues \(Alternate Take\)](https://open.spotify.com/track/1ligDVAloDQL9v7vQzGN6p) | [Mamie Smith](https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk) | [Presenting Mamie Smith](https://open.spotify.com/album/5uHc3ZtdzPgRH4Jea9Yo7F) | 3:24 |
-| 60 | [Every Night \(a.k.a\. Baby Baby Every Night\)](https://open.spotify.com/track/1IGDi02X5YvVMuY9NSynH5) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Heart & Soul: A Retrospective](https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH) | 2:22 |
-| 61 | [Boogie'n My Woogie](https://open.spotify.com/track/2Psc3t5okX2ss8oUDi3lZl) | [Gladys Bentley](https://open.spotify.com/artist/5byQk5bPDb10356SOJJeU9) | [Boogie Woogie Gals](https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ) | 2:35 |
+| 59 | [Every Night \(a.k.a\. Baby Baby Every Night\)](https://open.spotify.com/track/1IGDi02X5YvVMuY9NSynH5) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Heart & Soul: A Retrospective](https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH) | 2:22 |
+| 60 | [Boogie'n My Woogie](https://open.spotify.com/track/2Psc3t5okX2ss8oUDi3lZl) | [Gladys Bentley](https://open.spotify.com/artist/5byQk5bPDb10356SOJJeU9) | [Boogie Woogie Gals](https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ) | 2:35 |
+| 61 | [Crazy Blues \(Alternate Take\)](https://open.spotify.com/track/1ligDVAloDQL9v7vQzGN6p) | [Mamie Smith](https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk) | [Presenting Mamie Smith](https://open.spotify.com/album/5uHc3ZtdzPgRH4Jea9Yo7F) | 3:24 |
 | 62 | [Evil Mama Blues](https://open.spotify.com/track/22ytr8Lkn7HH7DDSIt80Ee) | [Ada Brown](https://open.spotify.com/artist/5GiCHhSywK8JwLeR149WAI) | [Territory Singers Vol\. 1 \(1922\-1928\)](https://open.spotify.com/album/3LupTSTBpB0MDBKDgCbyae) | 3:04 |
 | 63 | [My Castle's Rocking](https://open.spotify.com/track/4Yza9eguJ9gSLPK7HypTIF) | [Alberta Hunter](https://open.spotify.com/artist/4ZdfXQkef0hnTSqmhpGarA) | [Downhearted Blues](https://open.spotify.com/album/0uGxY4y7NJupIs7b5Keeep) | 2:31 |
-| 64 | [How Come You Do Me Like You Do?](https://open.spotify.com/track/0t0zHxsrim0OQv0dkqy9EL) | [Edith Wilson](https://open.spotify.com/artist/5elEUmHT71U4DXo5QV52pH) | [Stationary Mama](https://open.spotify.com/album/7r099iFTUtERJVckKP5O7E) | 2:48 |
-| 65 | [I Crave Your Lovin' Every Day](https://open.spotify.com/track/2PyvydBuudmwj7BtCNY45U) | [Ora Alexander](https://open.spotify.com/artist/1PQwSb0u9VGGk4yqojZYgl) | [Female Blues Singers Vol\. 1 A/B \(1924\-1932\)](https://open.spotify.com/album/0taoz29EBZr4cz9UKTrbIB) | 3:03 |
+| 64 | [I Crave Your Lovin' Every Day](https://open.spotify.com/track/2PyvydBuudmwj7BtCNY45U) | [Ora Alexander](https://open.spotify.com/artist/1PQwSb0u9VGGk4yqojZYgl) | [Female Blues Singers Vol\. 1 A/B \(1924\-1932\)](https://open.spotify.com/album/0taoz29EBZr4cz9UKTrbIB) | 3:03 |
+| 65 | [How Come You Do Me Like You Do?](https://open.spotify.com/track/0t0zHxsrim0OQv0dkqy9EL) | [Edith Wilson](https://open.spotify.com/artist/5elEUmHT71U4DXo5QV52pH) | [Stationary Mama](https://open.spotify.com/album/7r099iFTUtERJVckKP5O7E) | 2:48 |
 | 66 | [New That Ain't Right](https://open.spotify.com/track/2DP2o8uBWk14XUdRzVf91L) | [Perline Ellison](https://open.spotify.com/artist/07lfk5rYOlkkPfbpTPEarh) | [Female Blues \- The Remaining Titles Vol\. 2 \(1938\-1949\)](https://open.spotify.com/album/5Cdll1bM00Aeg588xttgyU) | 2:59 |
 | 67 | [Tight in Chicago](https://open.spotify.com/track/4k67bWm6tosvIFUjuv9zpV) | [Mozelle Alderson](https://open.spotify.com/artist/7s0emFTwgBW7DQw7n3X4Yu) | [Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum](https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3) | 2:59 |
 | 68 | [Butcher Shop Blues](https://open.spotify.com/track/3r4yrl1dkGdMFfd6xfXZqr) | [Bernice Edwards](https://open.spotify.com/artist/7cJROigYPhe94mk64bXOKA) | [Raunchy Business: Hot Nuts & Lollypops](https://open.spotify.com/album/3cROUoUhbx4nqE1dUyYadx) | 3:06 |
 | 69 | [There's Good Blues Tonight](https://open.spotify.com/track/1VqlaUqWBQQPbiU3IKOlN5) | [Lucky Millinder Orchestra](https://open.spotify.com/artist/5VuUyxdHLvgIhVzCvC65xk), [Annisteen Allen](https://open.spotify.com/artist/1NL2N25zWc4cTacQTntwi4) | [Classics by Lucky Millinder Orchestra](https://open.spotify.com/album/2N9wYYSikvi6QIyNopvzaq) | 2:28 |
 | 70 | [Dirty Moaner Blues](https://open.spotify.com/track/35BLeCm8rHg2Z0g7xrTcDP) | [Fannie May Goosby](https://open.spotify.com/artist/4jFXUMT7f5Wgv0RyTiQs2n), [Peter Harris](https://open.spotify.com/artist/23VN21wIWQLjWFCRwQyUVz) | [Grievous Blues](https://open.spotify.com/album/3NEoLNpzJ1PXhjCGOop7ly) | 2:43 |
-| 71 | [East and West Blues](https://open.spotify.com/track/0dTUDvCC9x6a6UUPjOrOM2) | [Marie Grinter](https://open.spotify.com/artist/5xNjHH7UcOnDXIb6SnK1qr) | [East and West Blues](https://open.spotify.com/album/2CpcUaXSolfue1LCymEctZ) | 3:26 |
-| 72 | [The Bluest Blues](https://open.spotify.com/track/7LZa39RPiKZSTxBKq7sbDo) | [Annisteen Allen](https://open.spotify.com/artist/1NL2N25zWc4cTacQTntwi4) | [Fujiyama Mama](https://open.spotify.com/album/7FTc1eu8VZfYfKSybTquyA) | 2:51 |
+| 71 | [The Bluest Blues](https://open.spotify.com/track/7LZa39RPiKZSTxBKq7sbDo) | [Annisteen Allen](https://open.spotify.com/artist/1NL2N25zWc4cTacQTntwi4) | [Fujiyama Mama](https://open.spotify.com/album/7FTc1eu8VZfYfKSybTquyA) | 2:51 |
+| 72 | [East and West Blues](https://open.spotify.com/track/0dTUDvCC9x6a6UUPjOrOM2) | [Marie Grinter](https://open.spotify.com/artist/5xNjHH7UcOnDXIb6SnK1qr) | [East and West Blues](https://open.spotify.com/album/2CpcUaXSolfue1LCymEctZ) | 3:26 |
 | 73 | [Any Woman's Blues](https://open.spotify.com/track/3FJtZTsF3e7gWmaWXjfkvZ) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 1](https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7) | 3:25 |
 | 74 | [I'm His And He's Mine](https://open.spotify.com/track/4ow8NW6mODvHBzeLlSiYXB) | [The Soul Satisfiers Of Philadelphia](https://open.spotify.com/artist/0WzaN470FTMx6xff6BbHwL) | [Powerhouse Gospel](https://open.spotify.com/album/2tT0KrE7bqEef6GnIeVfuZ) | 2:36 |
 | 75 | [Jack I'm Mellow \(Alternate Take 2\)](https://open.spotify.com/track/5d72jeEFlnQLM8crLgRPX3) | [Trixie Smith](https://open.spotify.com/artist/2PZOCtYZ3hDMpMVN8yIHc9) | [Presenting Trixie Smith](https://open.spotify.com/album/0PA8ZMSJS3KJuwaogi90lu) | 2:45 |
 
-Snapshot ID: `MTY3Nzg2NzA4MSwwMDAwMDAwMDcwODdkNGY4MWFkNmI0OWQ2NDhhOTRiNmM4NDQwNTQy`
+Snapshot ID: `MCw2YmRiZjA4ZDMyYmZkNDQzYmQ5ZWY2ZjY2YmU2YzQ3YWZkMTE4ODdi`

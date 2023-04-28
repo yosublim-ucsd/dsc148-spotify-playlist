@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:6wMr4zKPrrR0UVz08WtUWc\">Black Coffee</a>'s favorite tracks. Updated regularly. Curated by Black Coffee. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 105552,
+  "num_followers": 105650,
   "original_name": "Black Coffee's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTM3OTUyNywwMDAwMDAwMDljMDdiZTUzMmU2YTg3YjI0N2JhNmFkNDEwNjZhNzEz",
+  "snapshot_id": "MCw1YWFjM2M2ZmMxNzAzN2ViZWExZjUwZDk1NzEwYzFmNDBkNjk0ZGQ5",
   "tracks": [
     {
       "added_at": "2023-04-13 09:52:07",
@@ -57,52 +57,108 @@
       "url": "https://open.spotify.com/track/2ieFaRzeA5yfRjanzaBS8Q"
     },
     {
-      "added_at": "2023-04-13 09:52:07",
+      "added_at": "2023-04-27 10:02:41",
       "album": {
-        "name": "There's Music in the Air",
-        "url": "https://open.spotify.com/album/3y0xLQNdKdxlrKzVmmvbYS"
+        "name": "DO 4 LOVE (Black Coffee Remix)",
+        "url": "https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2"
       },
       "artists": [
         {
-          "name": "Ami Faku",
-          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
-        },
-        {
-          "name": "Gallo Remixed",
-          "url": "https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8"
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
         },
         {
           "name": "Black Coffee",
           "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
         }
       ],
-      "duration_ms": 234673,
-      "name": "There's Music in the Air",
-      "url": "https://open.spotify.com/track/2Eg5ArHjWEzUMnjishGZQK"
+      "duration_ms": 224281,
+      "name": "DO 4 LOVE - Black Coffee Remix",
+      "url": "https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6"
     },
     {
-      "added_at": "2023-04-13 09:52:07",
+      "added_at": "2023-04-27 10:02:41",
       "album": {
-        "name": "Wawukhona Yini E New York (Henrik Schwarz Rework)",
-        "url": "https://open.spotify.com/album/5G687DzENzadV4d7a61VCz"
+        "name": "7 Seconds",
+        "url": "https://open.spotify.com/album/3qR13zIAjDhKtsXquwIJfQ"
       },
       "artists": [
         {
-          "name": "Henrik Schwarz",
-          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
+          "name": "Joezi",
+          "url": "https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B"
         },
         {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+          "name": "Coco",
+          "url": "https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl"
         },
         {
-          "name": "Gallo Remixed",
-          "url": "https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8"
+          "name": "Pape Diouf",
+          "url": "https://open.spotify.com/artist/0aAH5CDDcmMd1vFReOPxeA"
         }
       ],
-      "duration_ms": 389866,
-      "name": "Wawukhona Yini E New York (Henrik Schwarz Rework)",
-      "url": "https://open.spotify.com/track/6YBb18AzBBqnv1IFAvQ3Ts"
+      "duration_ms": 315380,
+      "name": "7 Seconds",
+      "url": "https://open.spotify.com/track/0oTlIKCkZIoDlNR6TMZsGn"
+    },
+    {
+      "added_at": "2023-04-27 10:02:41",
+      "album": {
+        "name": "Horizon Red",
+        "url": "https://open.spotify.com/album/5UAkI4o2tcyvoISpG0s9Wb"
+      },
+      "artists": [
+        {
+          "name": "Made By Pete",
+          "url": "https://open.spotify.com/artist/4yLpA3QZ00hrlmJ0yX0TVa"
+        },
+        {
+          "name": "Zoe Kypri",
+          "url": "https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX"
+        }
+      ],
+      "duration_ms": 259672,
+      "name": "Horizon Red",
+      "url": "https://open.spotify.com/track/0PgOKL49AVmYzcdPCwpwng"
+    },
+    {
+      "added_at": "2023-04-27 10:02:41",
+      "album": {
+        "name": "Deeper Feelings EP",
+        "url": "https://open.spotify.com/album/6BRrbrzkM4igreHoesdlHr"
+      },
+      "artists": [
+        {
+          "name": "Fiona Kraft",
+          "url": "https://open.spotify.com/artist/6Gbq71ILuMLRVn0jwC6Glt"
+        },
+        {
+          "name": "Manoo",
+          "url": "https://open.spotify.com/artist/0SWJzERYiO2LLxoUqMXDsz"
+        }
+      ],
+      "duration_ms": 453197,
+      "name": "Deeper Feelings - Manoo The Remix / Piano Interpretation By Bacanito",
+      "url": "https://open.spotify.com/track/7brTFadt3W5raca02gGzrb"
+    },
+    {
+      "added_at": "2023-04-27 10:02:41",
+      "album": {
+        "name": "Voices of Hope 2",
+        "url": "https://open.spotify.com/album/1gc3So3LI6WyTrrdrkourS"
+      },
+      "artists": [
+        {
+          "name": "DJ Fresh (SA)",
+          "url": "https://open.spotify.com/artist/0dRfyK6U2asVL1dtAd7Oub"
+        },
+        {
+          "name": "Shona SA",
+          "url": "https://open.spotify.com/artist/2JrL1KzeVKLTNLSzxBtfvk"
+        }
+      ],
+      "duration_ms": 444000,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2lcpA76ZpQt37FAFcV3BQ4"
     },
     {
       "added_at": "2023-04-13 09:52:07",
@@ -143,6 +199,78 @@
       "duration_ms": 251803,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/0UT2ita1i2C7nt8gQMcQXD"
+    },
+    {
+      "added_at": "2023-04-13 09:52:07",
+      "album": {
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/7ueceAJ4XTWPVkaxRoFZEk"
+      },
+      "artists": [
+        {
+          "name": "El Mukuka",
+          "url": "https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd"
+        },
+        {
+          "name": "Argento Dust",
+          "url": "https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt"
+        },
+        {
+          "name": "Marocco",
+          "url": "https://open.spotify.com/artist/5B9vLiWjfK3LnZRBqCSizt"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "Simple Things",
+      "url": "https://open.spotify.com/track/6hqHaIC9pdRDvPtUGmjlfp"
+    },
+    {
+      "added_at": "2023-04-13 09:52:07",
+      "album": {
+        "name": "Wawukhona Yini E New York (Henrik Schwarz Rework)",
+        "url": "https://open.spotify.com/album/5G687DzENzadV4d7a61VCz"
+      },
+      "artists": [
+        {
+          "name": "Henrik Schwarz",
+          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        },
+        {
+          "name": "Gallo Remixed",
+          "url": "https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8"
+        }
+      ],
+      "duration_ms": 389866,
+      "name": "Wawukhona Yini E New York (Henrik Schwarz Rework)",
+      "url": "https://open.spotify.com/track/6YBb18AzBBqnv1IFAvQ3Ts"
+    },
+    {
+      "added_at": "2023-04-13 09:52:07",
+      "album": {
+        "name": "There's Music in the Air",
+        "url": "https://open.spotify.com/album/3y0xLQNdKdxlrKzVmmvbYS"
+      },
+      "artists": [
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
+        },
+        {
+          "name": "Gallo Remixed",
+          "url": "https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "duration_ms": 234673,
+      "name": "There's Music in the Air",
+      "url": "https://open.spotify.com/track/2Eg5ArHjWEzUMnjishGZQK"
     },
     {
       "added_at": "2023-04-13 09:52:07",
@@ -201,6 +329,26 @@
       "url": "https://open.spotify.com/track/5gxbSGshbeAUqLzSsxUKFA"
     },
     {
+      "added_at": "2023-04-27 10:02:41",
+      "album": {
+        "name": "Emotion 2",
+        "url": "https://open.spotify.com/album/6lhiqYZAVGaqqbltuZPx78"
+      },
+      "artists": [
+        {
+          "name": "K.O.D.",
+          "url": "https://open.spotify.com/artist/0OqVmcdtJGnlPkQwSwStum"
+        },
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        }
+      ],
+      "duration_ms": 414000,
+      "name": "Out Of Love",
+      "url": "https://open.spotify.com/track/0diyPyTz1ayLreUT4BAQ1N"
+    },
+    {
       "added_at": "2023-04-13 09:52:07",
       "album": {
         "name": "NDAU",
@@ -251,30 +399,6 @@
       "duration_ms": 378295,
       "name": "Neuru - Euggy & Dylan-S Remix",
       "url": "https://open.spotify.com/track/2HWef9uHmEl3l7DvAIrbls"
-    },
-    {
-      "added_at": "2023-04-13 09:52:07",
-      "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/7ueceAJ4XTWPVkaxRoFZEk"
-      },
-      "artists": [
-        {
-          "name": "El Mukuka",
-          "url": "https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd"
-        },
-        {
-          "name": "Argento Dust",
-          "url": "https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt"
-        },
-        {
-          "name": "Marocco",
-          "url": "https://open.spotify.com/artist/5B9vLiWjfK3LnZRBqCSizt"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Simple Things",
-      "url": "https://open.spotify.com/track/6hqHaIC9pdRDvPtUGmjlfp"
     },
     {
       "added_at": "2023-04-13 09:52:07",

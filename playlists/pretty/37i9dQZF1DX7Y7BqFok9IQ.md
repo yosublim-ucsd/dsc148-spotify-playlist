@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Tyler Bryant & the Shakedown
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,017 likes - 150 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,231 likes - 150 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 149 | [Just Takes Time](https://open.spotify.com/track/4NfUTIqcPzLTcL7Owbezt7) | [Simon McBride](https://open.spotify.com/artist/4S2kddUZy77NYpLH50f3qC) | [The Fighter](https://open.spotify.com/album/52jRQHJzlln2SkAfYQnLQC) | 3:09 |
 | 150 | [Higher Power](https://open.spotify.com/track/0u70IdyL5XsnryWI99Haqr) | [Cody Jasper](https://open.spotify.com/artist/5TUeTFpidqbyGqXeOj5I1H) | [Higher Power](https://open.spotify.com/album/1IUvobngXGOyJ4BdtlYILD) | 4:14 |
 
-Snapshot ID: `MTY4MjQyNzQxOSwwMDAwMDAwMDA2OWFmOWIwM2E2NDJkOWRkMWYzNzcyNWIwYmY4NTc5`
+Snapshot ID: `MCw0NjM5ZGFhZWQ5NTM5ZjY3NWIxYjdiMGYxMDUwZTE4Y2Q5ODM5MTNh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: VIC MENSA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,337 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,356 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 28 | [I'm Geekin](https://open.spotify.com/track/4jQF77FelHaw2u1CB0sIfp) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [I'm Geekin](https://open.spotify.com/album/4tgQ15beC7oqscFBlSJWfo) | 1:41 |
 | 29 | [Chrome Hearted \(feat\. Tyga\)](https://open.spotify.com/track/7xNgrfKL4Ih82SbJIU9S1q) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Chrome Hearted \(feat\. Tyga\)](https://open.spotify.com/album/5vrfdCvUGoxtqXBeGnY5qQ) | 2:33 |
 | 30 | [Duffle Bag Boy](https://open.spotify.com/track/54qYFtMYRIRYhnA6VjJhWY) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Duffle Bag Boy](https://open.spotify.com/album/2b3V2DChk8PotFyjeWJA4J) | 2:55 |
-| 31 | [Location](https://open.spotify.com/track/1elcu8IXCUBRUYObThbyZU) | [Noizy](https://open.spotify.com/artist/4A0V8wrSmivwhA6DAeQxqP), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [ALPHA](https://open.spotify.com/album/4iLm0b2BMkkeVLhcMgLij0) | 2:55 |
+| 31 | [Location](https://open.spotify.com/track/1elcu8IXCUBRUYObThbyZU) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [ALPHA](https://open.spotify.com/album/4iLm0b2BMkkeVLhcMgLij0) | 2:55 |
 | 32 | [SWEET](https://open.spotify.com/track/6uXqSveySAsOe4WptrKUbi) | [APB](https://open.spotify.com/artist/3vUy9wmklGDZ5r2sEPk7N8) | [SWEET](https://open.spotify.com/album/1KENqXH4vW5il6jproVU6O) | 2:36 |
 | 33 | [LTW](https://open.spotify.com/track/5Z6THsfkXDJRvcBCEHonHs) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [LTW](https://open.spotify.com/album/7eGd8NyvAe5DUjUjTU20JM) | 3:02 |
 | 34 | [Love Me Better](https://open.spotify.com/track/6MmXaaySSEC7pvfutqiA5F) | [Eric Reprid](https://open.spotify.com/artist/1f2Bnuuv7FxEx2x8iiEBzR) | [Love Me Better](https://open.spotify.com/album/7m246GiCLYhNhngFGCqtsB) | 2:11 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 42 | [SKIN](https://open.spotify.com/track/1eyXPx1G1nEqXvsVOOGkAN) | [Charlie Noiir](https://open.spotify.com/artist/3jAbhB16sbyvBKSpvQzRdO) | [SKIN](https://open.spotify.com/album/2SP7CaELGWy4BUyd90EeUo) | 3:02 |
 | 43 | [Get$](https://open.spotify.com/track/51oU5GT2Hv2W9HGYYOps3Q) | [Blacka Da Don](https://open.spotify.com/artist/0NoDb6USzMqpV5dvANBJiG) | [Get$](https://open.spotify.com/album/1rolRhJBwK4VXNjpN5Eq05) | 3:08 |
 | 44 | [Took A Trip](https://open.spotify.com/track/5dfLLn4ypq5tJaJw5INCNZ) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Took A Trip](https://open.spotify.com/album/3HCiWvxfdUL1ptV9u4YgR6) | 1:56 |
-| 45 | [Female Gucci Mane](https://open.spotify.com/track/6GfhoE4A0qgC3eO4WxKVBN) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Female Gucci Mane](https://open.spotify.com/album/5TXHSbMLqg6hgNbTAuDaJ9) | 2:31 |
+| 45 | [Female Gucci Mane](https://open.spotify.com/track/6GfhoE4A0qgC3eO4WxKVBN) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Female Gucci Mane](https://open.spotify.com/album/5TXHSbMLqg6hgNbTAuDaJ9) | 2:29 |
 | 46 | [STARBOY](https://open.spotify.com/track/4BaS1Ot5tUQ3eZU8P9FJdF) | [XORA](https://open.spotify.com/artist/314rLbir7Cluk4nKOszw8I) | [STARBOY](https://open.spotify.com/album/6Wyjs4BHZNlp05JmYcqHfR) | 2:09 |
 | 47 | [EID](https://open.spotify.com/track/5ova97I2OeUnE3NlQnuvju) | [Kresnt](https://open.spotify.com/artist/7B6gRPGS1V6bA0DkxqJktA) | [EID](https://open.spotify.com/album/0TAxxgjHtDP3O2D9MBYjeh) | 1:32 |
 | 48 | [Heat Up](https://open.spotify.com/track/6T9lkBfPiStdyf9M6LbLNn) | [Adrian Dey](https://open.spotify.com/artist/41TTSjdfiIV7sFPCgWwCzA) | [Heat Up](https://open.spotify.com/album/6dU3vLNqcHFKgQGgLpqBfk) | 2:31 |
 | 49 | [The Game](https://open.spotify.com/track/1FTQhbMT3Wl7CoRS4jA2LK) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [The LOX](https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP) | [The Game](https://open.spotify.com/album/1iFw5aFJCIV4xLrvWdSdoH) | 3:53 |
 | 50 | [Vroom Vroom](https://open.spotify.com/track/0HQyuRr2uYDXaGcXvWfbHT) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [C Dot Castro](https://open.spotify.com/artist/1EEH91ujjE6eIlYtEjrHv6), [halfBREED](https://open.spotify.com/artist/2OKpImEHt9ug1QUHp56tQj) | [3P](https://open.spotify.com/album/7oct4g7sEmjOy2kw8RkrCd) | 2:20 |
 
-Snapshot ID: `MTY4MjE4OTM1MiwwMDAwMDAwMDU3NzYxNDQxYmUwOTZmMTI1YmYwZWRlOGJhMjI0MWQ4`
+Snapshot ID: `MCw2NjdjZmY1YTQxZTg2ODI5YzRkYTI4MGI4NThkNDk0NjkwYjQ5MTA2`

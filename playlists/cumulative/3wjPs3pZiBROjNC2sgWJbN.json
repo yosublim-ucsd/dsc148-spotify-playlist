@@ -727,6 +727,24 @@
     },
     {
       "album": {
+        "name": "Southern Delicacy",
+        "url": "https://open.spotify.com/album/2GqVdnApGsHmQrQWX0rVY2"
+      },
+      "artists": [
+        {
+          "name": "Jai'Len Josey",
+          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165090,
+      "name": "Good Soup",
+      "url": "https://open.spotify.com/track/5xMWNzqWHBrUld2AIEVXoH"
+    },
+    {
+      "album": {
         "name": "Gotta Move On (feat. Bryson Tiller)",
         "url": "https://open.spotify.com/album/0JZyDPMrhPEnsuJEbVymJJ"
       },

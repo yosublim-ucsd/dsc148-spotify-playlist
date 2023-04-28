@@ -1,12 +1,12 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.",
-  "num_followers": 268343,
+  "num_followers": 268700,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0NjAwMCwwMDAwMDAwMGJhMGMyYjhjMGJhNzFiYzdlYThiNGFjNTA0ZjZlOTZi",
+  "snapshot_id": "MCw5OWNhMmM5YTBmMmQzOGUxZDA0NzI1ZWVhNGI1ODFmMGU4ZWI3Yjhh",
   "tracks": [
     {
       "added_at": "2023-04-21 03:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "A Casa \u00c9 Sua",
-        "url": "https://open.spotify.com/album/5LxNxpv73DPN54DAbtcntR"
-      },
-      "artists": [
-        {
-          "name": "Casa Worship",
-          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
-        }
-      ],
-      "duration_ms": 346697,
-      "name": "Eu Te Vejo Em Tudo",
-      "url": "https://open.spotify.com/track/7DWmnmZJicTPIxoZb0m9Go"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Isaias Saad",
         "url": "https://open.spotify.com/album/2zhh6n9B7raoERBUOxINYc"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 333902,
       "name": "Ousado Amor",
       "url": "https://open.spotify.com/track/5qyFts6geTWeNbMeYQcPai"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "A Casa \u00c9 Sua",
+        "url": "https://open.spotify.com/album/5LxNxpv73DPN54DAbtcntR"
+      },
+      "artists": [
+        {
+          "name": "Casa Worship",
+          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
+        }
+      ],
+      "duration_ms": 346697,
+      "name": "Eu Te Vejo Em Tudo",
+      "url": "https://open.spotify.com/track/7DWmnmZJicTPIxoZb0m9Go"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -491,22 +491,18 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Ruja o Le\u00e3o / Que Se Abram Os C\u00e9us (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4PSU1YDNjWdpb4xErJpQRt"
+        "name": "Raridade",
+        "url": "https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc"
       },
       "artists": [
         {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
         }
       ],
-      "duration_ms": 454133,
-      "name": "Ruja o Le\u00e3o / Que Se Abram Os C\u00e9us - Ao Vivo",
-      "url": "https://open.spotify.com/track/36OnXKUU9pAKRYs9jfusbl"
+      "duration_ms": 297726,
+      "name": "Raridade",
+      "url": "https://open.spotify.com/track/3Gam4UbOwnwQQQKuItui39"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -527,18 +523,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Raridade",
-        "url": "https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc"
+        "name": "Ruja o Le\u00e3o / Que Se Abram Os C\u00e9us (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4PSU1YDNjWdpb4xErJpQRt"
       },
       "artists": [
         {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 297726,
-      "name": "Raridade",
-      "url": "https://open.spotify.com/track/3Gam4UbOwnwQQQKuItui39"
+      "duration_ms": 454133,
+      "name": "Ruja o Le\u00e3o / Que Se Abram Os C\u00e9us - Ao Vivo",
+      "url": "https://open.spotify.com/track/36OnXKUU9pAKRYs9jfusbl"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 311936,
+      "name": "J\u00f3",
+      "url": "https://open.spotify.com/track/50rAuUPCO4xCW4cYGY6gRE"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "Girassol",
         "url": "https://open.spotify.com/album/3NpsEXK612BTwLLIFQECxO"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 224725,
       "name": "Girassol",
       "url": "https://open.spotify.com/track/22rcaYTa2UgcLCbeO0NoNj"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "Milagre",
-        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 311936,
-      "name": "J\u00f3",
-      "url": "https://open.spotify.com/track/50rAuUPCO4xCW4cYGY6gRE"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Ele N\u00e3o Desiste de Voc\u00ea",
-        "url": "https://open.spotify.com/album/66e3vt8NHTng82HAKQJxGW"
-      },
-      "artists": [
-        {
-          "name": "Marquinhos Gomes",
-          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
-        }
-      ],
-      "duration_ms": 290763,
-      "name": "Ele N\u00e3o Desiste de Voc\u00ea",
-      "url": "https://open.spotify.com/track/344vyXHCBYXPGV4jO8Jo8X"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Advogado Fiel",
         "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 288995,
       "name": "Sou Humano",
       "url": "https://open.spotify.com/track/7HRyi2scNjqDmGDhwqj9Bp"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Ele N\u00e3o Desiste de Voc\u00ea",
+        "url": "https://open.spotify.com/album/66e3vt8NHTng82HAKQJxGW"
+      },
+      "artists": [
+        {
+          "name": "Marquinhos Gomes",
+          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
+        }
+      ],
+      "duration_ms": 290763,
+      "name": "Ele N\u00e3o Desiste de Voc\u00ea",
+      "url": "https://open.spotify.com/track/344vyXHCBYXPGV4jO8Jo8X"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "Livres ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1nOKQhet5BeWlwtzkNbc8C"
+      },
+      "artists": [
+        {
+          "name": "Juliano Son",
+          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
+        }
+      ],
+      "duration_ms": 447843,
+      "name": "Lindo \u00c9s + S\u00f3 Quero Ver Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/35IN0nKkbuQh4DMxIv4R1E"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "Maranata",
         "url": "https://open.spotify.com/album/5Xb81Si0VxpVIWL1LJUJ5b"
       },
@@ -995,34 +1011,18 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Livres ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/1nOKQhet5BeWlwtzkNbc8C"
+        "name": "Nada Al\u00e9m da Gra\u00e7a",
+        "url": "https://open.spotify.com/album/26MpPUKXvsjaCPxwdPvOaV"
       },
       "artists": [
         {
-          "name": "Juliano Son",
-          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
         }
       ],
-      "duration_ms": 447843,
-      "name": "Lindo \u00c9s + S\u00f3 Quero Ver Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/35IN0nKkbuQh4DMxIv4R1E"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "Com Muito Louvor",
-        "url": "https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 227369,
-      "name": "Hino da Vit\u00f3ria",
-      "url": "https://open.spotify.com/track/2MHtGSaW12T738131nTj0d"
+      "duration_ms": 271209,
+      "name": "Deus \u00e9 Deus",
+      "url": "https://open.spotify.com/track/2zIUZPKNlGrnlxagZmKTFd"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Nada Al\u00e9m da Gra\u00e7a",
-        "url": "https://open.spotify.com/album/26MpPUKXvsjaCPxwdPvOaV"
+        "name": "Com Muito Louvor",
+        "url": "https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw"
       },
       "artists": [
         {
-          "name": "Delino Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 271209,
-      "name": "Deus \u00e9 Deus",
-      "url": "https://open.spotify.com/track/2zIUZPKNlGrnlxagZmKTFd"
+      "duration_ms": 227369,
+      "name": "Hino da Vit\u00f3ria",
+      "url": "https://open.spotify.com/track/2MHtGSaW12T738131nTj0d"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Saudade, Vol. 2",
-        "url": "https://open.spotify.com/album/2Zg8Q0hCbXr56S86f1C918"
+        "name": "\u00danico (Live)",
+        "url": "https://open.spotify.com/album/1lOiNzzfdghtwLHhr2Jikh"
       },
       "artists": [
         {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
         }
       ],
-      "duration_ms": 241881,
-      "name": "Escolho Deus",
-      "url": "https://open.spotify.com/track/4DlUWz3HnEoQrwKN0fFfwO"
+      "duration_ms": 419280,
+      "name": "\u00danico - Live",
+      "url": "https://open.spotify.com/track/00E2KxBwL0B3idGMJcRoEh"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1191,6 +1191,22 @@
       "duration_ms": 489859,
       "name": "Pra Onde Eu Irei? - Live Church",
       "url": "https://open.spotify.com/track/5l2nA65AMfg7GdZvFMyXI4"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Saudade, Vol. 2",
+        "url": "https://open.spotify.com/album/2Zg8Q0hCbXr56S86f1C918"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 241881,
+      "name": "Escolho Deus",
+      "url": "https://open.spotify.com/track/4DlUWz3HnEoQrwKN0fFfwO"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1227,6 +1243,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "Voc\u00ea N\u00e3o Vai Parar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/43JgTgcJ0OZP4Em9ZlkFYs"
+      },
+      "artists": [
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        }
+      ],
+      "duration_ms": 260481,
+      "name": "Voc\u00ea N\u00e3o Vai Parar (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2chAXWVbGV6kgirxLbxsQu"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "No Other Name (Deluxe Edition/Live)",
         "url": "https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP"
       },
@@ -1247,22 +1279,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Voc\u00ea N\u00e3o Vai Parar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/43JgTgcJ0OZP4Em9ZlkFYs"
-      },
-      "artists": [
-        {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
-        }
-      ],
-      "duration_ms": 260481,
-      "name": "Voc\u00ea N\u00e3o Vai Parar (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2chAXWVbGV6kgirxLbxsQu"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Entre Amigos",
         "url": "https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 197800,
       "name": "Eu Te Amo Tanto (feat. Marquinhos Gomes)",
       "url": "https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "\u00danico (Live)",
-        "url": "https://open.spotify.com/album/1lOiNzzfdghtwLHhr2Jikh"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 419280,
-      "name": "\u00danico - Live",
-      "url": "https://open.spotify.com/track/00E2KxBwL0B3idGMJcRoEh"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Grande \u00c9 O Meu Deus",
-        "url": "https://open.spotify.com/album/2ysGfbNjEcDLoCqP1u20cq"
-      },
-      "artists": [
-        {
-          "name": "Soraya Moraes",
-          "url": "https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp"
-        }
-      ],
-      "duration_ms": 325533,
-      "name": "Qu\u00e3o Grande \u00e9 o Meu Deus",
-      "url": "https://open.spotify.com/track/7DhiPsmpu4kzIQyCtvWqzd"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Inexplic\u00e1vel Amor (Ao Vivo)",
         "url": "https://open.spotify.com/album/5omeFeze6ByNZC4A7xWYpu"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 385063,
       "name": "Tudo a Ver Com Ele",
       "url": "https://open.spotify.com/track/726jL4DA03vptKr05so4Zu"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Grande \u00c9 O Meu Deus",
+        "url": "https://open.spotify.com/album/2ysGfbNjEcDLoCqP1u20cq"
+      },
+      "artists": [
+        {
+          "name": "Soraya Moraes",
+          "url": "https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp"
+        }
+      ],
+      "duration_ms": 325533,
+      "name": "Qu\u00e3o Grande \u00e9 o Meu Deus",
+      "url": "https://open.spotify.com/track/7DhiPsmpu4kzIQyCtvWqzd"
     },
     {
       "added_at": "2023-04-21 03:00:00",

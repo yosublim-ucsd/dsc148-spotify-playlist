@@ -481,6 +481,24 @@
     },
     {
       "album": {
+        "name": "Rave & Roses Ultra",
+        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204750,
+      "name": "Charm",
+      "url": "https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k"
+    },
+    {
+      "album": {
         "name": "Nightshot",
         "url": "https://open.spotify.com/album/0L9LtAbap45bpiJsqX05fG"
       },
@@ -1184,7 +1202,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 164557,
       "name": "For Days",
       "url": "https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz"
@@ -3759,6 +3777,32 @@
     },
     {
       "album": {
+        "name": "Wena",
+        "url": "https://open.spotify.com/album/0onz8qjTUpigfkiOyqjSpw"
+      },
+      "artists": [
+        {
+          "name": "ChopLife SoundSystem",
+          "url": "https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194819,
+      "name": "Wena",
+      "url": "https://open.spotify.com/track/0IzpcaxNAkTbXMCjKce63a"
+    },
+    {
+      "album": {
         "name": "What To Expect When Expecting",
         "url": "https://open.spotify.com/album/2VkmTYOfZ1zTHQBhfK1Rbf"
       },
@@ -3992,7 +4036,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 175504,
       "name": "you",
       "url": "https://open.spotify.com/track/5Wdl4yFoXOX1xmA53udLyZ"

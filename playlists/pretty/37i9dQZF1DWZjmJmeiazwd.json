@@ -1,12 +1,12 @@
 {
   "description": "Rock out while you game.",
-  "num_followers": 482883,
+  "num_followers": 483281,
   "original_name": "Ultimate Rock Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDllNTc1NzE5MGVkY2M3MmY4Y2NmYzIwMzAxYTc2ZTUw",
+  "snapshot_id": "MCw4ODJlMmI5ZGRkMTM4NDEwNmZkZWVlZDQzMjRhYmMzYjU4MWNkODZk",
   "tracks": [
     {
       "added_at": "2023-02-09 19:51:15",
@@ -509,6 +509,22 @@
       "url": "https://open.spotify.com/track/2l57cfmCnOkwNX1tky02n1"
     },
     {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Meteora 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 201428,
+      "name": "Fighting Myself",
+      "url": "https://open.spotify.com/track/2ipYQ6pcabz1NovVrr9LKH"
+    },
+    {
       "added_at": "2023-02-09 19:51:15",
       "album": {
         "name": "What Separates Me From You",
@@ -555,22 +571,6 @@
       "duration_ms": 316717,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Meteora 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 201428,
-      "name": "Fighting Myself",
-      "url": "https://open.spotify.com/track/2ipYQ6pcabz1NovVrr9LKH"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "Crooked Teeth (Deluxe)",
-        "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 227847,
-      "name": "Born For Greatness",
-      "url": "https://open.spotify.com/track/5cRPdqpWkaNmIbPi6wJDg2"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
         "name": "California",
         "url": "https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 235613,
       "name": "Bored To Death",
       "url": "https://open.spotify.com/track/44TuSOP6xIAEeJmZsN3nXO"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
+        "name": "Crooked Teeth (Deluxe)",
+        "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 227847,
+      "name": "Born For Greatness",
+      "url": "https://open.spotify.com/track/5cRPdqpWkaNmIbPi6wJDg2"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "Teardrops",
-        "url": "https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 215003,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
         "name": "Aggressive",
         "url": "https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 211430,
       "name": "Hated",
       "url": "https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
+        "name": "Teardrops",
+        "url": "https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 215003,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "Disease",
-        "url": "https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 228372,
-      "name": "Disease",
-      "url": "https://open.spotify.com/track/1hkm127hnTSa2xjGNw8IAE"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
         "name": "Stay Away (feat. Machine Gun Kelly & Goody Grace)",
         "url": "https://open.spotify.com/album/6zZPJvmylSQbrCYsWwW5rK"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 151890,
       "name": "Stay Away (feat. Machine Gun Kelly & Goody Grace)",
       "url": "https://open.spotify.com/track/00okrW9OfjmG0PZJSY3fJd"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 228372,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/1hkm127hnTSa2xjGNw8IAE"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "Below",
-        "url": "https://open.spotify.com/album/5AQKqldLehNX6p4rxFFwAz"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 198927,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/75KnjXtPMCZf60zlEp5m1D"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
         "name": "To Better Days",
         "url": "https://open.spotify.com/album/0R8nkP9bWyoCi6NuetVq5p"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 211235,
       "name": "Talk to a Friend",
       "url": "https://open.spotify.com/track/6nqCVzh5uUc85E0Kctky9r"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
+        "name": "Below",
+        "url": "https://open.spotify.com/album/5AQKqldLehNX6p4rxFFwAz"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 198927,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/75KnjXtPMCZf60zlEp5m1D"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "Home of the Strange",
-        "url": "https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG"
-      },
-      "artists": [
-        {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Something to Believe In",
-      "url": "https://open.spotify.com/track/6L3VWDPDTQkQFkqvmpAUMU"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
         "name": "Who Do You Trust?",
         "url": "https://open.spotify.com/album/4o6vvGb6VGYz725fP45kAx"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 210961,
       "name": "Come Around",
       "url": "https://open.spotify.com/track/6Mf8ozEDo35UcgKgKajrBY"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
+        "name": "Home of the Strange",
+        "url": "https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG"
+      },
+      "artists": [
+        {
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Something to Believe In",
+      "url": "https://open.spotify.com/track/6L3VWDPDTQkQFkqvmpAUMU"
     },
     {
       "added_at": "2023-02-09 19:51:15",

@@ -237,6 +237,24 @@
     },
     {
       "album": {
+        "name": "Air",
+        "url": "https://open.spotify.com/album/1RJ3zvMBc4NB9VSXEF1EUy"
+      },
+      "artists": [
+        {
+          "name": "Marcus & Martinus",
+          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/7DBQIEXuFIXMWNAWyGsTTm"
+    },
+    {
+      "album": {
         "name": "Aktiverad",
         "url": "https://open.spotify.com/album/62hMMhEg7v6zLLyaYzU9Ng"
       },
@@ -780,7 +798,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-31",
+      "date_removed": null,
       "duration_ms": 182995,
       "name": "Beroendeframkallande",
       "url": "https://open.spotify.com/track/1r5nCkDun9Rg73A5KGWZB0"
@@ -890,7 +908,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 139422,
       "name": "Body Talk",
       "url": "https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN"
@@ -966,7 +984,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 131013,
       "name": "Boy's a liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
@@ -2645,6 +2663,24 @@
     },
     {
       "album": {
+        "name": "F\u00e5nga mig n\u00e4r jag faller",
+        "url": "https://open.spotify.com/album/4NsssUJj3cxavJQDU8axoG"
+      },
+      "artists": [
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147880,
+      "name": "F\u00e5nga mig n\u00e4r jag faller",
+      "url": "https://open.spotify.com/track/6HuNgzEw9b4tDcSDCQBS1O"
+    },
+    {
+      "album": {
         "name": "f\u00f6r oss",
         "url": "https://open.spotify.com/album/2hgV0AVu9hB4smSue0gPoV"
       },
@@ -2732,6 +2768,24 @@
       "duration_ms": 162214,
       "name": "Genom Dalarna",
       "url": "https://open.spotify.com/track/2izd2Ke23axCcWGUkAyKyG"
+    },
+    {
+      "album": {
+        "name": "Genom eld (Spotify Singles)",
+        "url": "https://open.spotify.com/album/4VKWJKb38zp0Af7WURVc0n"
+      },
+      "artists": [
+        {
+          "name": "BELL",
+          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166875,
+      "name": "Genom eld - Spotify Singles",
+      "url": "https://open.spotify.com/track/2JbyhLIxJLeUtFz5hYR4Bi"
     },
     {
       "album": {
@@ -2950,6 +3004,24 @@
       "duration_ms": 189683,
       "name": "Haglar \u2013 Spotify Studio It\u2019s Hits Recording",
       "url": "https://open.spotify.com/track/5yoafZ4sNIlX4BuQwlKQCX"
+    },
+    {
+      "album": {
+        "name": "PISTOLER POESI OCH SEX",
+        "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202954,
+      "name": "Har Dig",
+      "url": "https://open.spotify.com/track/4FGvRqZ1pPaflN2jjLBMB9"
     },
     {
       "album": {
@@ -3272,7 +3344,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 184000,
       "name": "Hon sa",
       "url": "https://open.spotify.com/track/3LHWa0MK1AlEI9hukUSxn1"
@@ -3957,6 +4029,24 @@
     },
     {
       "album": {
+        "name": "It Takes a Fool to Remain Sane (Spotify Singles)",
+        "url": "https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf"
+      },
+      "artists": [
+        {
+          "name": "Cornelia Jakobs",
+          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228065,
+      "name": "It Takes a Fool to Remain Sane - Spotify Singles",
+      "url": "https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ"
+    },
+    {
+      "album": {
         "name": "It'll Be Okay",
         "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
       },
@@ -4102,7 +4192,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 158000,
       "name": "KOMMER DU IH\u00c5G?",
       "url": "https://open.spotify.com/track/7yfMu3Ez41fQXuD9gUbFjQ"
@@ -4272,7 +4362,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 153442,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
@@ -4739,6 +4829,24 @@
     },
     {
       "album": {
+        "name": "Mer av dig",
+        "url": "https://open.spotify.com/album/3waGWjneO6tOSEAzfHusNp"
+      },
+      "artists": [
+        {
+          "name": "Theoz",
+          "url": "https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Mer av dig",
+      "url": "https://open.spotify.com/track/7xzgJNufqvox5oQQa1dP1O"
+    },
+    {
+      "album": {
         "name": "Million Dollar Baby",
         "url": "https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC"
       },
@@ -4997,6 +5105,24 @@
     },
     {
       "album": {
+        "name": "M\u00e5ndagsbarn (Spotify Singles)",
+        "url": "https://open.spotify.com/album/19WGMtXFnntmUQvqfAdmPC"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180372,
+      "name": "M\u00e5ndagsbarn - Spotify Singles",
+      "url": "https://open.spotify.com/track/6sLEtc4bWznxS0ERA6lt1k"
+    },
+    {
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
@@ -5030,6 +5156,24 @@
       "duration_ms": 206321,
       "name": "Nattbuss",
       "url": "https://open.spotify.com/track/1kZQyJRQi9PcWwzpPHVxwc"
+    },
+    {
+      "album": {
+        "name": "+3 bpm",
+        "url": "https://open.spotify.com/album/7fZMtaTLaGtmxTr92ELKbq"
+      },
+      "artists": [
+        {
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135318,
+      "name": "Nej tack, det \u00e4r bra!",
+      "url": "https://open.spotify.com/track/3C23RjOroCMUmbdtmpSPX4"
     },
     {
       "album": {
@@ -5409,7 +5553,7 @@
       "artists": [
         {
           "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7LXT8qoNctHQaTcI5Z2hOF"
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
         }
       ],
       "date_added": "2023-01-05",
@@ -5610,7 +5754,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 172125,
       "name": "Princess Diana (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
@@ -5974,7 +6118,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 185093,
       "name": "Rush",
       "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
@@ -7341,6 +7485,24 @@
     },
     {
       "album": {
+        "name": "Ends & Begins",
+        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197465,
+      "name": "The Feels",
+      "url": "https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD"
+    },
+    {
+      "album": {
         "name": "The Joker And The Queen (feat. Taylor Swift)",
         "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
       },
@@ -7560,7 +7722,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 237200,
       "name": "TRUSTFALL",
       "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
@@ -7886,7 +8048,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 184773,
       "name": "Vet Hon Om?",
       "url": "https://open.spotify.com/track/0078peqORcMMXbcYEfeLkk"
@@ -8176,7 +8338,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 171253,
       "name": "Where Did You Go",
       "url": "https://open.spotify.com/track/1tPzSRXNZbPKQbVh3yv7rs"
@@ -8246,6 +8408,24 @@
       "duration_ms": 157326,
       "name": "WINNER (feat. A36)",
       "url": "https://open.spotify.com/track/0i0ZCP4Yh3kLl1Z0k9BhBX"
+    },
+    {
+      "album": {
+        "name": "Wish You The Best",
+        "url": "https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210880,
+      "name": "Wish You The Best",
+      "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"
     },
     {
       "album": {

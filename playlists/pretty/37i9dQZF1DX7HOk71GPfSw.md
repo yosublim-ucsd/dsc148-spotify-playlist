@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > this heylog song is crazy\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,325 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,824 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 99 | [The Fairy, the Wizard and the Moon](https://open.spotify.com/track/6U4O5hDzujciV75r6OKOfa) | [Ryan Leahan](https://open.spotify.com/artist/4BX7bOS5nj3842rKfEnTIg) | [The Fairy, the Wizard and the Moon](https://open.spotify.com/album/6ATJCnlR0nXQxw3gvamMGc) | 2:22 |
 | 100 | [4get](https://open.spotify.com/track/2mlgFhBe2shVc1ITY0ri9B) | [Delto](https://open.spotify.com/artist/1WlSGhncfBqk79KNYuTicp), [Canna](https://open.spotify.com/artist/3UQddXFBR9NoYWpcxwAYkh) | [4get](https://open.spotify.com/album/6fDcYde0k1VUiSaK5hTCc6) | 2:19 |
 
-Snapshot ID: `MTY4MjUxNzgxNiwwMDAwMDAwMGEzMTVkYzMxYThlOThjZWEwNTFkNzU0NTIwNWY4YTAx`
+Snapshot ID: `MCw3ZjMxMjJmZDcxYzFmYjM5MTYyZGM2MTE5MjgwODkxNTcyMzhiZjI1`

@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 78672,
+  "num_followers": 78804,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQzMDQ2MCwwMDAwMDAwMDVlMTc3MzY4YTk2MzAzZDA0MzExNzZjNTAwZTAxY2M4",
+  "snapshot_id": "MCwwMmIyN2UzMzk1MmY2MDBjNTMxYzVkYTczMjljNTQ0YjJkODY3NGUz",
   "tracks": [
     {
       "added_at": "2023-04-14 00:01:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 418880,
-      "name": "Rememberin' Stevie",
-      "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
         "name": "Then Play On (2013 Remaster; Expanded Edition)",
         "url": "https://open.spotify.com/album/4Ji83LjzvEzFoCpN85m5lW"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 275201,
       "name": "Without You - 2013 Remaster",
       "url": "https://open.spotify.com/track/7JS6aAiymUcmAqEYEnCrlX"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 418880,
+      "name": "Rememberin' Stevie",
+      "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 295666,
+      "name": "Reap What You Sow",
+      "url": "https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
         "name": "Track Record",
         "url": "https://open.spotify.com/album/5XlHrs7XH33wS6SaHCRNmR"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 226840,
       "name": "RHYTHMS OF THE NIGHT",
       "url": "https://open.spotify.com/track/2EoSICrErU4WI3QSSu61Xf"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 295666,
-      "name": "Reap What You Sow",
-      "url": "https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Wish Her Well",
-        "url": "https://open.spotify.com/album/3omllPlq6CTSlr2DVzDW5c"
-      },
-      "artists": [
-        {
-          "name": "Emma Wilson",
-          "url": "https://open.spotify.com/artist/4BNyTaev3qfEqB2nyQrnm2"
-        }
-      ],
-      "duration_ms": 263037,
-      "name": "Wish Her Well",
-      "url": "https://open.spotify.com/track/5vfgPEOY5GGJfZ7AnWAheB"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
         "name": "Night Shift",
         "url": "https://open.spotify.com/album/0Z6lLiESF2XyG5EBJbI3OE"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 451560,
       "name": "Night Shift Blues",
       "url": "https://open.spotify.com/track/037n7AwN2sVP4EFtpY6eMo"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
+        "name": "Wish Her Well",
+        "url": "https://open.spotify.com/album/3omllPlq6CTSlr2DVzDW5c"
+      },
+      "artists": [
+        {
+          "name": "Emma Wilson",
+          "url": "https://open.spotify.com/artist/4BNyTaev3qfEqB2nyQrnm2"
+        }
+      ],
+      "duration_ms": 263037,
+      "name": "Wish Her Well",
+      "url": "https://open.spotify.com/track/5vfgPEOY5GGJfZ7AnWAheB"
     },
     {
       "added_at": "2023-04-14 00:01:00",

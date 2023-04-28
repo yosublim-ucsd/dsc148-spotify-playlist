@@ -1,12 +1,12 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
-  "num_followers": 43064,
+  "num_followers": 43126,
   "original_name": "Upbeat Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQzMDQ2MCwwMDAwMDAwMGU1NGMzNDUzZjg4ZTI1NzcwNjY4OGJhNzJjYWI5MTcz",
+  "snapshot_id": "MCxlZTE4NDY3MDJlMzE1YmUxNTY4ZDM1ZjQzYWRiYTU0ODM3YWI1YmJk",
   "tracks": [
     {
       "added_at": "2023-04-14 00:01:00",
@@ -299,8 +299,8 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "The Excello Singles Anthology",
-        "url": "https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi"
+        "name": "Sings Raining In My Heart",
+        "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
         }
       ],
-      "duration_ms": 149800,
-      "name": "Shake Your Hips - Single Version",
-      "url": "https://open.spotify.com/track/5H28g1Be16hLJaz3RrWCpQ"
+      "duration_ms": 166240,
+      "name": "I've Got Love If You Want It",
+      "url": "https://open.spotify.com/track/4hQb2apmM2FUNaqXDOmHgA"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -459,8 +459,8 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Sings Raining In My Heart",
-        "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
+        "name": "The Excello Singles Anthology",
+        "url": "https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi"
       },
       "artists": [
         {
@@ -468,25 +468,9 @@
           "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
         }
       ],
-      "duration_ms": 166240,
-      "name": "I've Got Love If You Want It",
-      "url": "https://open.spotify.com/track/4hQb2apmM2FUNaqXDOmHgA"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
-        "name": "Crossroads (Original Sountrack)",
-        "url": "https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE"
-      },
-      "artists": [
-        {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
-        }
-      ],
-      "duration_ms": 264200,
-      "name": "Crossroads - 2008 Remaster",
-      "url": "https://open.spotify.com/track/6mGy6bzPJ6hrgPnVJZCEd4"
+      "duration_ms": 149800,
+      "name": "Shake Your Hips - Single Version",
+      "url": "https://open.spotify.com/track/5H28g1Be16hLJaz3RrWCpQ"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -503,6 +487,22 @@
       "duration_ms": 169613,
       "name": "Rocket 88",
       "url": "https://open.spotify.com/track/4IiEsxrgzIMdqoN3dwxk6g"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
+        "name": "Crossroads (Original Sountrack)",
+        "url": "https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE"
+      },
+      "artists": [
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "duration_ms": 264200,
+      "name": "Crossroads - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6mGy6bzPJ6hrgPnVJZCEd4"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Sings Raining In My Heart",
-        "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
-      },
-      "artists": [
-        {
-          "name": "Slim Harpo",
-          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
-        }
-      ],
-      "duration_ms": 132173,
-      "name": "Don't Start Crying Now",
-      "url": "https://open.spotify.com/track/3Q7RuFIaAf7iJ2sd5R0NXQ"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
         "name": "Bob Corritore & Friends: Women In Blues Showcase",
         "url": "https://open.spotify.com/album/2I4QimPw04GHkkxKzPAQis"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 166975,
       "name": "You're Gonna Be Sorry",
       "url": "https://open.spotify.com/track/4FZgwsFaXm8Xsr7SqRM1Ov"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
+        "name": "Sings Raining In My Heart",
+        "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
+      },
+      "artists": [
+        {
+          "name": "Slim Harpo",
+          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
+        }
+      ],
+      "duration_ms": 132173,
+      "name": "Don't Start Crying Now",
+      "url": "https://open.spotify.com/track/3Q7RuFIaAf7iJ2sd5R0NXQ"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+        "name": "Last of the Blues Shouters",
+        "url": "https://open.spotify.com/album/3r0loF6keIGuDG7n6YQ1t0"
       },
       "artists": [
         {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+          "name": "Big Miller",
+          "url": "https://open.spotify.com/artist/4c8m7LzbeEJdqVMfNAW2xn"
         }
       ],
-      "duration_ms": 201826,
-      "name": "Shufflin' the Blues",
-      "url": "https://open.spotify.com/track/5I9dM2pwqMAQm266lUII5P"
+      "duration_ms": 249840,
+      "name": "Hello Little Girl",
+      "url": "https://open.spotify.com/track/2nof4LgSAxUeJPiwLAvkND"
     }
   ],
   "unique_name": "Upbeat Blues",

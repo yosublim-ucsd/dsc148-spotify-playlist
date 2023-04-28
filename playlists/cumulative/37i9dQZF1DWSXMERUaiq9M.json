@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "Bananas",
+        "url": "https://open.spotify.com/album/1bpgQaBBbuBJKFsBBCBpUT"
+      },
+      "artists": [
+        {
+          "name": "Black Girl / White Girl",
+          "url": "https://open.spotify.com/artist/4suufHyoFCOPWuFgTdQVPz"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191001,
+      "name": "Bananas",
+      "url": "https://open.spotify.com/track/6Hze42mslIeUDRGeq8NnlQ"
+    },
+    {
+      "album": {
         "name": "BLOODY ASS SHOES",
         "url": "https://open.spotify.com/album/28PKjKbNF9M3MjzyZ9Gz1n"
       },
@@ -376,7 +394,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 329312,
       "name": "Feel You (Beside Me)",
       "url": "https://open.spotify.com/track/2Y7TA1fnjoZWHvAhi70TUv"
@@ -478,7 +496,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 416318,
       "name": "Haze - Marlon Hoffstadt AKA DJ Daddy Trance Remix",
       "url": "https://open.spotify.com/track/3IAxJkFW0AeEHhmSFHjX0G"
@@ -540,6 +558,50 @@
       "duration_ms": 377419,
       "name": "I Am Machine",
       "url": "https://open.spotify.com/track/7A8ec8nBw1BEwGgdSL5H90"
+    },
+    {
+      "album": {
+        "name": "Irre",
+        "url": "https://open.spotify.com/album/6XEuoKZxz5zuNkYFFx5doW"
+      },
+      "artists": [
+        {
+          "name": "Alfred Heinrichs",
+          "url": "https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo"
+        },
+        {
+          "name": "Haexxa",
+          "url": "https://open.spotify.com/artist/0GY1LiRaEjFG0n8rP8wvrC"
+        },
+        {
+          "name": "KomaCasper",
+          "url": "https://open.spotify.com/artist/5yYwA7jmFlU01EKoLfeNpV"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200687,
+      "name": "Irre - Komacasper Remix",
+      "url": "https://open.spotify.com/track/1jlxES60xD5USpvzckJDNO"
+    },
+    {
+      "album": {
+        "name": "It's That Time",
+        "url": "https://open.spotify.com/album/0kUIijubTS9zx7cBu6HiVv"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240250,
+      "name": "It's That Time",
+      "url": "https://open.spotify.com/track/2YlrFLQMDvkvnAlyS94zo8"
     },
     {
       "album": {
@@ -692,7 +754,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 176142,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/2ekhJNuxeoQ9Q84dFtknP7"
@@ -718,7 +780,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 206966,
       "name": "Luft - Blue Hawaii, DJ Kirby Remix",
       "url": "https://open.spotify.com/track/4aqxIaQLsEkeqqKQC3jsAg"
@@ -744,6 +806,46 @@
       "duration_ms": 329188,
       "name": "Luzifer - feat. Ufo361",
       "url": "https://open.spotify.com/track/5UnIFgOpnUaKsukuB66GXg"
+    },
+    {
+      "album": {
+        "name": "Make It Thru",
+        "url": "https://open.spotify.com/album/4jlRkCwvRARTe4ua3T1Lzb"
+      },
+      "artists": [
+        {
+          "name": "Narciss",
+          "url": "https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221750,
+      "name": "Make It Thru",
+      "url": "https://open.spotify.com/track/2jD9uQeNEPIqFEJmJ33zuk"
+    },
+    {
+      "album": {
+        "name": "Mayday Anthem (Thomas Schumacher Remix)",
+        "url": "https://open.spotify.com/album/52DgryHGie1RWvB99nbVT3"
+      },
+      "artists": [
+        {
+          "name": "Members Of Mayday",
+          "url": "https://open.spotify.com/artist/76QERaQEFTh2VKRUL7wz7m"
+        },
+        {
+          "name": "Thomas Schumacher",
+          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253548,
+      "name": "Mayday Anthem - Thomas Schumacher Remix",
+      "url": "https://open.spotify.com/track/0h5bjHIioNsHAV58lcNVqs"
     },
     {
       "album": {
@@ -816,7 +918,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 249250,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/23LmGBgZLAnBLxrEIYd16O"
@@ -838,6 +940,24 @@
       "duration_ms": 203684,
       "name": "No Type",
       "url": "https://open.spotify.com/track/4tNCSo5ZDCDWjUnlggKqnU"
+    },
+    {
+      "album": {
+        "name": "Nothing Is Easy EP",
+        "url": "https://open.spotify.com/album/4nm8MRARxw1YRlVX8m2BBW"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191328,
+      "name": "Nothing Is Easy",
+      "url": "https://open.spotify.com/track/5iKzJujKsuWtQcZ1JqrRIH"
     },
     {
       "album": {
@@ -1322,7 +1442,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 349393,
       "name": "Vigour - Julian Muller Remix",
       "url": "https://open.spotify.com/track/0Wh4YlbUtNSrgHq6HnfD0c"

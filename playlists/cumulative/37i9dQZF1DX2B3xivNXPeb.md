@@ -4,7 +4,7 @@
 
 > Whether you're cooking or pottering about, here's an all\-day soundtrack to enjoy in the comfort of your own home.
 
-276 songs - 17 hr 9 min
+277 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Baltimore](https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Baltimore](https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS) | 4:38 | 2023-01-10 |  |
 | [Banana Pancakes](https://open.spotify.com/track/451GvHwY99NKV4zdKPRWmv) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:11 | 2022-02-14 | 2022-12-28 |
 | [Barcelona](https://open.spotify.com/track/5kHZyXRjBXpBrwlWn9vzsd) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Walking Like We Do](https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU) | 3:46 | 2022-02-14 | 2022-07-25 |
-| [BBQ Energy](https://open.spotify.com/track/2DtJPbqKr5w4wBXwPGemCn) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Adam Flowers](https://open.spotify.com/artist/1SggEYhzQY4qw4c9lDIIaq), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Tunnel Vision](https://open.spotify.com/album/5a5AWTfvxSSezaBEHng2ms) | 3:06 | 2023-01-10 |  |
+| [BBQ Energy](https://open.spotify.com/track/2DtJPbqKr5w4wBXwPGemCn) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Adam Flowers](https://open.spotify.com/artist/1SggEYhzQY4qw4c9lDIIaq), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Tunnel Vision](https://open.spotify.com/album/5a5AWTfvxSSezaBEHng2ms) | 3:06 | 2023-01-10 | 2023-04-28 |
+| [BBQ Energy](https://open.spotify.com/track/4DtcpnCRFpCTlTEX8KF0j2) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Adam Flowers](https://open.spotify.com/artist/1SggEYhzQY4qw4c9lDIIaq), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Tunnel Vision](https://open.spotify.com/album/5H4AuKv8BhLdZjW8Ra0Ovv) | 3:06 | 2023-03-24 |  |
 | [BBQ Energy](https://open.spotify.com/track/6W3dlYnYTWG1dWj4a80FrH) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Adam Flowers](https://open.spotify.com/artist/1SggEYhzQY4qw4c9lDIIaq), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [BBQ Energy](https://open.spotify.com/album/5b0iUTl7LtbFBruq7nNm0d) | 3:06 | 2022-02-14 | 2022-07-24 |
 | [Be In Love](https://open.spotify.com/track/4pCgWcsFaqtNX6IXhoDjZY) | [Rachel Mae Hannon](https://open.spotify.com/artist/4rwzqtDRqtNiXyoUuNl8Fc) | [Be In Love](https://open.spotify.com/album/5JZx64wap8bpRrpTDZfr8m) | 3:53 | 2022-02-14 | 2022-07-29 |
 | [Bennie And The Jets \- Remastered 2014](https://open.spotify.com/track/5Wj1rJnCLpMHdLaxsFtJLs) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 5:22 | 2022-12-28 | 2023-01-11 |

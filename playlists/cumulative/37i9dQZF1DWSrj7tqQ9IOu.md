@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover: Christine and the Queens
+> The best French indie tracks right now\. Cover: blond
 
-327 songs - 18 hr 0 min
+329 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Au Revoir](https://open.spotify.com/track/2zgdLtgbKNKbCxu9XNY02C) | [Jeanne Added](https://open.spotify.com/artist/5TEGxYftTkeKmLXkZjHNUE) | [Au Revoir](https://open.spotify.com/album/0yMMkD2mABHk4OcGNDQDYd) | 4:01 | 2022-09-08 | 2022-10-07 |
 | [Aux larmes](https://open.spotify.com/track/3zOw6BCIkalIfA8pS9bYTX) | [Clément Froissart](https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt) | [Aux larmes](https://open.spotify.com/album/0aBMvGMa1RpW4CuSI0lD9E) | 4:36 | 2022-11-17 | 2023-03-03 |
 | [Avant ou après](https://open.spotify.com/track/6hA8rl7PJa05qrYwGP2gsd) | [Julia Jean\-Baptiste](https://open.spotify.com/artist/6YJvTbBj1vgz35rqWrhv81) | [Cinérama](https://open.spotify.com/album/5P2ENyl9oYsqKXVdyhJkcc) | 2:24 | 2023-01-26 | 2023-03-10 |
-| [Avec toi](https://open.spotify.com/track/62rMUsBq25arP2VjtnLBZU) | [Adam Berry](https://open.spotify.com/artist/3Ma3J6YHlbHed5aTv7ALyh) | [Avec toi](https://open.spotify.com/album/42VJztoVrm7BjOphJ7pMfI) | 2:39 | 2023-03-09 |  |
+| [Avec toi](https://open.spotify.com/track/62rMUsBq25arP2VjtnLBZU) | [Adam Berry](https://open.spotify.com/artist/3Ma3J6YHlbHed5aTv7ALyh) | [Avec toi](https://open.spotify.com/album/42VJztoVrm7BjOphJ7pMfI) | 2:39 | 2023-03-09 | 2023-04-28 |
 | [Avec toi](https://open.spotify.com/track/7Id3qONAw6sXE92FlfZEWI) | [MAGENTA](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA), [Lola Le Lann](https://open.spotify.com/artist/3xH7GdfxfMJyUIZESCKDuY) | [Avec toi](https://open.spotify.com/album/3prGiOjw38nyiOKV12uO4N) | 3:43 | 2021-12-16 | 2022-01-28 |
 | [BB toi & moi](https://open.spotify.com/track/1CyELRjfViP1ihdN8i0GKI) | [Petit Nuage](https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg) | [BB toi & moi](https://open.spotify.com/album/3kV1bmXtcOSdv8nEyZpuBv) | 2:52 | 2022-12-01 | 2023-03-18 |
 | [bedroom walls](https://open.spotify.com/track/7AQocoPIOuhVfdxnogZgf8) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls](https://open.spotify.com/album/2SF5uQ1lC1OmlnpMYlOv9U) | 2:23 | 2022-02-24 | 2022-04-01 |
@@ -39,7 +39,7 @@
 | [Bloqué](https://open.spotify.com/track/4km8XxyYCw5CSHM5H36K47) | [Météo Mirage](https://open.spotify.com/artist/76eO2ty9LXEKOITbJq6pCc) | [Bloqué](https://open.spotify.com/album/4AghyVNlGwrNpvj8uL7cPG) | 3:11 | 2021-12-16 | 2022-04-08 |
 | [blueberry stains](https://open.spotify.com/track/6YPIckxQBC4boFjWSAtlkb) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [postcard from L.A.](https://open.spotify.com/album/2dIT5g4FDrWXxKscvZkJs5) | 3:06 | 2022-07-28 | 2022-09-23 |
 | [Boom Boom](https://open.spotify.com/track/7ytIPPfpyCWMhnPC5bp5iB) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [Boom Boom](https://open.spotify.com/album/1DQ15XaG2nFt9dTMJwtbYA) | 3:29 | 2021-12-16 | 2022-02-04 |
-| [Bossa Supernova](https://open.spotify.com/track/5OaX0qy9jy6cDerIpMQF4o) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Bossa Supernova](https://open.spotify.com/album/5x7YwAgcrxksduNQwllHZf) | 3:12 | 2023-03-23 |  |
+| [Bossa Supernova](https://open.spotify.com/track/5OaX0qy9jy6cDerIpMQF4o) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Bossa Supernova](https://open.spotify.com/album/5x7YwAgcrxksduNQwllHZf) | 3:12 | 2023-03-23 | 2023-04-28 |
 | [Brain empty/heart fucked](https://open.spotify.com/track/5ZKsOqztR15ukpcFGSH8VW) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Brain empty/heart fucked](https://open.spotify.com/album/72P9MbmIOjmHql5eHn0djV) | 2:39 | 2022-12-15 | 2023-01-27 |
 | [Burn](https://open.spotify.com/track/2zkXYQrGkffMqvQvYrtxg8) | [Waves](https://open.spotify.com/artist/6OAt6nE577DixeDhfNFVkH) | [Burn](https://open.spotify.com/album/7HHPXRjZpDWRG262GcKyQb) | 4:25 | 2022-05-19 | 2022-07-01 |
 | [By the Beach](https://open.spotify.com/track/6YTphVWLG14d3eUiQ5grmU) | [Degree](https://open.spotify.com/artist/1WsU8n1hX7sjHqGryYXp1w) | [By the Beach](https://open.spotify.com/album/7DchkXMv3PHncobatgHBzX) | 2:43 | 2021-12-16 | 2022-01-28 |
@@ -95,6 +95,7 @@
 | [Fireflies](https://open.spotify.com/track/2w5qTNK3kadYOs8pgc2JRM) | [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Coast 2 Coast](https://open.spotify.com/album/6y5kCZvxD1Oq5M385icFT9) | 2:44 | 2023-04-20 |  |
 | [first flight](https://open.spotify.com/track/2a4Dy0Gd6LxJ5lvrT1XK2o) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [first flight](https://open.spotify.com/album/3oSCYW6kooJ9tZqrBCy5qi) | 3:31 | 2022-09-15 | 2022-10-14 |
 | [Flashdance](https://open.spotify.com/track/1TOpTNqzED5PB8rTKufluy) | [Antonin Appaix](https://open.spotify.com/artist/2Pcy7ggRL3s3gI8YBiMNPj) | [Flashdance](https://open.spotify.com/album/2EVsAOPUeB6o1SNJVH3bQg) | 3:06 | 2022-01-20 | 2022-04-15 |
+| [Flight To Vienna](https://open.spotify.com/track/3CoBGFdnpBTVv4gbf5H1Km) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren) | [Flight To Vienna](https://open.spotify.com/album/69WrckSdGdNlDQiJrrjxP5) | 2:23 | 2023-04-27 |  |
 | [Flowers](https://open.spotify.com/track/7ogQYxp96INp4fbzOYitRq) | [Deluxe](https://open.spotify.com/artist/4EePV5BljRSXJnYww4d5Qa) | [Flowers](https://open.spotify.com/album/5rvVfYlcboTW6usum9qWoK) | 3:41 | 2022-02-24 | 2022-03-04 |
 | [Folle](https://open.spotify.com/track/4u0dpuvdgKBBGljlKYRkf2) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [La vitesse](https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF) | 3:26 | 2022-11-24 |  |
 | [For You](https://open.spotify.com/track/0op37JDMnP0HjclpLQiDn4) | [Little Animal](https://open.spotify.com/artist/6KPezj9yK8mv2pHkn7jftz) | [For You](https://open.spotify.com/album/5t97GHautbE5U3tSb7yDAG) | 3:11 | 2023-03-02 | 2023-03-25 |
@@ -115,6 +116,7 @@
 | [Hey Boy](https://open.spotify.com/track/28goX2uKr53LeijjP2waQV) | [Jeanne Added](https://open.spotify.com/artist/5TEGxYftTkeKmLXkZjHNUE) | [Hey Boy](https://open.spotify.com/album/1KnLWdAOEeuSF4wGSdbas0) | 3:49 | 2022-06-23 | 2022-08-26 |
 | [Hiroshima](https://open.spotify.com/track/6FOcmhnINLjPcsMbbwUzVA) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Hiroshima](https://open.spotify.com/album/5DGO0wF5Sn3uXMTModz4p9) | 2:46 | 2022-10-13 | 2022-12-16 |
 | [Holidays](https://open.spotify.com/track/2R0tA1s4ZzSqrgBDMMCXZl) | [Pirogue](https://open.spotify.com/artist/5tgaa8U6nLhdyPCsfd8p7L) | [Pirogue](https://open.spotify.com/album/41akXmvvyrc6hd7P3zfnfn) | 3:41 | 2022-04-14 | 2022-07-01 |
+| [Home](https://open.spotify.com/track/1D6fumCcnKImzoePwxyPFT) | [Sandór Waïss](https://open.spotify.com/artist/7CEkLAfSHCRAohsAWypk8z) | [Broken Blue](https://open.spotify.com/album/2JhJRJ0THwPL5GAdcoz2mh) | 3:24 | 2023-04-27 |  |
 | [Hometown](https://open.spotify.com/track/4Ixz0HGptQPRbZTXADWUfg) | [Saavan](https://open.spotify.com/artist/7HIN13S8A6wfupCwXRNv6U) | [Chapters](https://open.spotify.com/album/6tohQzrYlnWEqctbpz9aRy) | 3:28 | 2022-06-09 | 2022-09-30 |
 | [Hommage](https://open.spotify.com/track/6vYU6WUEReNiuQ8zoy7dMT) | [Perez](https://open.spotify.com/artist/0IBv6kVhrcKaUDgSMWka5T) | [SADOS](https://open.spotify.com/album/7dF1KlRv4vzCLyfE8sfDRG) | 3:53 | 2022-01-13 | 2022-02-18 |
 | [Honey](https://open.spotify.com/track/1BOv46ISdg4Xuv5Ou7M1cG) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Honey Please Be Soft & Tender](https://open.spotify.com/album/4QT6KOT5bn4560EwVH55hi) | 4:07 | 2021-12-16 | 2022-01-21 |

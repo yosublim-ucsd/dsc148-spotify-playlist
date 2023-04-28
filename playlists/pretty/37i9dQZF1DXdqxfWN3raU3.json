@@ -1,12 +1,12 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B creado en el continente y Espa\u00f1a. Tiago PZK en portada.",
-  "num_followers": 95719,
+  "num_followers": 95760,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA1NjgwMCwwMDAwMDAwMDg0MTM1ZDczNTFkNGM2OGE4OTM4ZWJmOTExOGVhM2Q0",
+  "snapshot_id": "MCw1MWRmZDljNzI5ODg2MTlhMmFhZTYxOWY1ZjM1MmJhMTlmMzI1ZDIw",
   "tracks": [
     {
       "added_at": "2023-04-21 06:00:00",
@@ -871,30 +871,6 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
-        "name": "Tus Ojos Me Hablaron",
-        "url": "https://open.spotify.com/album/1DB93h9fw0dyrn9LOoYHeM"
-      },
-      "artists": [
-        {
-          "name": "Desert Ni\u00f1os",
-          "url": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
-        },
-        {
-          "name": "Slim Ans",
-          "url": "https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO"
-        },
-        {
-          "name": "Ms. Ambar",
-          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "Tus Ojos Me Hablaron",
-      "url": "https://open.spotify.com/track/2lwPsHNyohO98CZY0ag3YQ"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
         "name": "Curvas",
         "url": "https://open.spotify.com/album/4epp2PoR2TdOkYN90EG1MT"
       },
@@ -919,18 +895,26 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
-        "name": "Modelo",
-        "url": "https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD"
+        "name": "Tus Ojos Me Hablaron",
+        "url": "https://open.spotify.com/album/1DB93h9fw0dyrn9LOoYHeM"
       },
       "artists": [
         {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+          "name": "Desert Ni\u00f1os",
+          "url": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
+        },
+        {
+          "name": "Slim Ans",
+          "url": "https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
         }
       ],
-      "duration_ms": 160243,
-      "name": "Modelo",
-      "url": "https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS"
+      "duration_ms": 201290,
+      "name": "Tus Ojos Me Hablaron",
+      "url": "https://open.spotify.com/track/2lwPsHNyohO98CZY0ag3YQ"
     },
     {
       "added_at": "2023-04-21 06:00:00",
@@ -947,6 +931,22 @@
       "duration_ms": 171063,
       "name": "Ketamina",
       "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "Modelo",
+        "url": "https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD"
+      },
+      "artists": [
+        {
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        }
+      ],
+      "duration_ms": 160243,
+      "name": "Modelo",
+      "url": "https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS"
     },
     {
       "added_at": "2023-04-21 06:00:00",

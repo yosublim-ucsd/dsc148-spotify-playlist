@@ -4,7 +4,7 @@
 
 > Covers of classic songs with a touch of Jazz\. Cover: Jamie Cullum
 
-146 songs - 11 hr 29 min
+147 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Here, There and Everywhere](https://open.spotify.com/track/2hOd88IAX1JT3EfktlSp4D) | [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn), [Andrew Simpkins](https://open.spotify.com/artist/0NDc5hTBeKzBrfUnVSdUdg) | [The Many Facets of George Shearing](https://open.spotify.com/album/0TP4AAOdv1UszCHzTRXxK1) | 4:56 | 2022-09-13 |  |
 | [Here, There and Everywhere](https://open.spotify.com/track/1tY4JU86oLsEfp3hnUtjwo) | [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl), [Flavio Romero](https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl), [Fernando Moreno](https://open.spotify.com/artist/56IVhkzxUrZKf0VJJ7B8vp) | [Here, There and Everywhere](https://open.spotify.com/album/7CC7BwM6EdBIFIDmM0tdq1) | 6:35 | 2022-09-13 |  |
 | [Hey Jude](https://open.spotify.com/track/69WRDCEjZS2Tejw5FSSqoD) | [Jesse Palter](https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX) | [Nothing Standard](https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH) | 6:28 | 2022-09-13 |  |
-| [Hey, That's No Way To Say Goodbye](https://open.spotify.com/track/3hYpCh0PFTvXBLmtFs5E6Y) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Luciana Souza](https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM) | [Here It Is: A Tribute to Leonard Cohen](https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff) | 4:12 | 2022-10-13 |  |
+| [Hey, That's No Way To Say Goodbye](https://open.spotify.com/track/3hYpCh0PFTvXBLmtFs5E6Y) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Luciana Souza](https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM) | [Here It Is: A Tribute to Leonard Cohen](https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff) | 4:12 | 2022-10-13 | 2023-04-28 |
 | [High And Dry](https://open.spotify.com/track/32MYjAA4HpI6il0dZ7pe8e) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Pointless Nostalgic](https://open.spotify.com/album/4AD8H57Um3MlSuuqN4fZNv) | 4:54 | 2022-09-13 |  |
 | [High And Dry \- Live On The South Bank Show / 2014](https://open.spotify.com/track/0IOb6D22mnQIxsGo0db6lI) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething \(Special Edition\)](https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh) | 5:34 | 2022-09-13 |  |
 | [House of the Rising Sun](https://open.spotify.com/track/2jMSBk8jNymJngmMj9jGxT) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA) | [House of the Rising Sun](https://open.spotify.com/album/4ywreEPoWhZilE0Asy9Wof) | 3:45 | 2022-09-13 |  |
@@ -148,6 +148,7 @@
 | [Wichita Lineman](https://open.spotify.com/track/4ytxg5HNzbG1Y8CdZLtQj2) | [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80) | [My New Old Friend](https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr) | 5:58 | 2023-02-15 |  |
 | [Wind Cries Mary](https://open.spotify.com/track/3jUSBrXmLIYVdlXbHIcTzm) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o) | 3:36 | 2022-09-13 |  |
 | [Wonderwall](https://open.spotify.com/track/0qjQ47pkjxL9Oodg8lp0os) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Rock Swings](https://open.spotify.com/album/68hTTrAwPFA0dWrxkAUMVl) | 3:36 | 2022-09-20 | 2022-10-06 |
+| [Wonderwall](https://open.spotify.com/track/3sODcw4hHaxjzUrTzgzdfl) | [tea](https://open.spotify.com/artist/6cgMG5W1mDsh4OssT7OhN4) | [Songbird](https://open.spotify.com/album/3N4bJn9W92OsBk8caft5LO) | 4:41 | 2023-04-26 |  |
 | [Yellow](https://open.spotify.com/track/7MF6TekcON2t7g8aGijtqI) | [Ive Mendes](https://open.spotify.com/artist/536ylK53FB0GDGfTmwk7ZN) | [Magnetism, Vol\. 1](https://open.spotify.com/album/7rqgZCddN1qd5kfkrjiZgw) | 3:40 | 2022-09-13 |  |
 | [Yesterday](https://open.spotify.com/track/6c6XaTu2VM32NHxtYZUWMY) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [Oliver Nelson Plays Michelle](https://open.spotify.com/album/4gpVcA06Od08ym7LDyQ0qw) | 2:42 | 2022-09-13 |  |
 | [You've Got A Friend](https://open.spotify.com/track/7CbgvHE083TAjaRuEfwwgm) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [The Boy Next Door \(Special Edition\)](https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc) | 4:21 | 2022-09-13 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "It's not just about the music, it's about the culture. Cover: \n<a href=\"https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy?si=j5RBm471QpeiVU8IHM3GfQ\">Omagoqa</a>.",
+  "description": "It's not just about the music, it's about the culture. Cover: \n<a href=\"https://open.spotify.com/artist/2Y4YLJHlF2q5jg5pTE5CSz?si=WPwr0OIRShqKT4KNPq2udw\">NV Funk</a>.",
   "name": "GQOM Power House",
   "tracks": [
     {
@@ -54,6 +54,24 @@
       "duration_ms": 321581,
       "name": "ABC",
       "url": "https://open.spotify.com/track/3wNzCrezD09qjzWMct5WXM"
+    },
+    {
+      "album": {
+        "name": "AK47",
+        "url": "https://open.spotify.com/album/6dDFU8LUav3oZnFVGXbewu"
+      },
+      "artists": [
+        {
+          "name": "GqoMLorD",
+          "url": "https://open.spotify.com/artist/6vFMjOEA3AVavs4vc2qcE5"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327328,
+      "name": "AK47",
+      "url": "https://open.spotify.com/track/3QilMDeDIelmgWloV3cXa1"
     },
     {
       "album": {
@@ -323,6 +341,24 @@
     },
     {
       "album": {
+        "name": "Green Light",
+        "url": "https://open.spotify.com/album/6wc5kA4Opm6zkyoSAXjQTt"
+      },
+      "artists": [
+        {
+          "name": "Vida-Soul",
+          "url": "https://open.spotify.com/artist/6u8wlBgWGcHLUvSDNfAYXu"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396640,
+      "name": "Dirty Scooter",
+      "url": "https://open.spotify.com/track/4al36LCHp4eEYc5op7O76p"
+    },
+    {
+      "album": {
         "name": "Elevate",
         "url": "https://open.spotify.com/album/0oR6mfFuulK6jJHX7Vi0Lk"
       },
@@ -577,6 +613,28 @@
     },
     {
       "album": {
+        "name": "Ibhasi",
+        "url": "https://open.spotify.com/album/3bHIOci71PkzUQjMpNz9UU"
+      },
+      "artists": [
+        {
+          "name": "Msetash",
+          "url": "https://open.spotify.com/artist/11gwYkHZtfGtIzDXE10xac"
+        },
+        {
+          "name": "Dlala Lazz",
+          "url": "https://open.spotify.com/artist/56conUHVIKn4Tr02Gis3pN"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336457,
+      "name": "Ibhasi",
+      "url": "https://open.spotify.com/track/17s4JoacgNUVQSR6G8s2Ql"
+    },
+    {
+      "album": {
         "name": "iCombo",
         "url": "https://open.spotify.com/album/4dDCfi3lzZ7wSpsotDEz4H"
       },
@@ -622,6 +680,28 @@
       "duration_ms": 363886,
       "name": "iKhehla",
       "url": "https://open.spotify.com/track/7K03DZjeaGXGwWxjpvGX3g"
+    },
+    {
+      "album": {
+        "name": "Imali",
+        "url": "https://open.spotify.com/album/1QTu1sPc5EYFeufpGVVfnc"
+      },
+      "artists": [
+        {
+          "name": "Mr Thela",
+          "url": "https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle"
+        },
+        {
+          "name": "Nobantu Vilakazi",
+          "url": "https://open.spotify.com/artist/3qo2q05gFa09MXrEZltr7q"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334493,
+      "name": "Imali",
+      "url": "https://open.spotify.com/track/4u0RKHQuHzEiXySDbRYy1B"
     },
     {
       "album": {
@@ -758,7 +838,7 @@
       ],
       "date_added": "2020-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 355395,
       "name": "Iparty",
       "url": "https://open.spotify.com/track/7J0vho7Fc0aYCdE8GDlX0L"
@@ -883,6 +963,24 @@
     },
     {
       "album": {
+        "name": "Klap Klap",
+        "url": "https://open.spotify.com/album/3NEGgDXgN72kX6XkbNDwdY"
+      },
+      "artists": [
+        {
+          "name": "Temple Boys Cpt",
+          "url": "https://open.spotify.com/artist/4xFNz56JhznT2ic3fhEg8n"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183405,
+      "name": "Klap Klap",
+      "url": "https://open.spotify.com/track/3GGvTviqpbhc9L9XHRk1Uj"
+    },
+    {
+      "album": {
         "name": "Left Right",
         "url": "https://open.spotify.com/album/6V0MP070Ds8jjmG6iwP72j"
       },
@@ -923,6 +1021,28 @@
     },
     {
       "album": {
+        "name": "I Gqom E Durban",
+        "url": "https://open.spotify.com/album/3bRtkj0sCYw8E6TMatIb9r"
+      },
+      "artists": [
+        {
+          "name": "DJ Fanele",
+          "url": "https://open.spotify.com/artist/6M8jIo6oHncJ1oIvHFtbY3"
+        },
+        {
+          "name": "Veela",
+          "url": "https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335238,
+      "name": "Lokishi",
+      "url": "https://open.spotify.com/track/1jVN9BUFM36NzjbZ1zYWc0"
+    },
+    {
+      "album": {
         "name": "Lokshin Gqom Wave",
         "url": "https://open.spotify.com/album/0XQbkUa14wTzXzFTUbkugi"
       },
@@ -960,6 +1080,28 @@
       "duration_ms": 275453,
       "name": "Loluthando",
       "url": "https://open.spotify.com/track/6XCzC2gTsp20Qrm5TALZ0i"
+    },
+    {
+      "album": {
+        "name": "London Gin (EDM)",
+        "url": "https://open.spotify.com/album/4iMRDu8ACme4caM3C7f9Op"
+      },
+      "artists": [
+        {
+          "name": "BlaQ Zombies",
+          "url": "https://open.spotify.com/artist/0hRJjbeLC6NJ3ErYbmUoKz"
+        },
+        {
+          "name": "GqoMLorD",
+          "url": "https://open.spotify.com/artist/6vFMjOEA3AVavs4vc2qcE5"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343733,
+      "name": "London Gin (EDM)",
+      "url": "https://open.spotify.com/track/3EKdjtKrQ6rtqaFrRfXm6c"
     },
     {
       "album": {
@@ -1183,6 +1325,24 @@
     },
     {
       "album": {
+        "name": "Non Greater",
+        "url": "https://open.spotify.com/album/4KseeLWsWc5ymGt6Fk9Aan"
+      },
+      "artists": [
+        {
+          "name": "NV Funk",
+          "url": "https://open.spotify.com/artist/2Y4YLJHlF2q5jg5pTE5CSz"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309315,
+      "name": "Non Greater",
+      "url": "https://open.spotify.com/track/44udvR3dQhCTNEL8gpxPdo"
+    },
+    {
+      "album": {
         "name": "Essential Music",
         "url": "https://open.spotify.com/album/6LaMZwolqqvaPBMBtmXuqL"
       },
@@ -1232,7 +1392,7 @@
       ],
       "date_added": "2021-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 245736,
       "name": "P.A.B (People Are Burning) (feat. Madanon)",
       "url": "https://open.spotify.com/track/7DkDpIkiYOVBDidQWVhaG9"
@@ -1372,6 +1532,24 @@
       "duration_ms": 372741,
       "name": "Rock My World",
       "url": "https://open.spotify.com/track/74WgBR29qv8O3dSi4sckoh"
+    },
+    {
+      "album": {
+        "name": "Rock the Club",
+        "url": "https://open.spotify.com/album/7clvgkwDTvqPXx2ulXmbUd"
+      },
+      "artists": [
+        {
+          "name": "Blaq Q",
+          "url": "https://open.spotify.com/artist/1W1hzqcELRUz3pjLiQtUa1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351529,
+      "name": "Rock the Club",
+      "url": "https://open.spotify.com/track/6ZORv7p5vbe1ugYijPebnH"
     },
     {
       "album": {
@@ -1518,6 +1696,28 @@
       "duration_ms": 366654,
       "name": "Semi Automatic",
       "url": "https://open.spotify.com/track/22E86Ci3ewtSAqIXEd3NLV"
+    },
+    {
+      "album": {
+        "name": "Shona Phantsi",
+        "url": "https://open.spotify.com/album/7LRAb1nUeBBJtEnTnWjUBZ"
+      },
+      "artists": [
+        {
+          "name": "Hume Da Muzika",
+          "url": "https://open.spotify.com/artist/5sMk0h3nPvjOmjqG4BunmY"
+        },
+        {
+          "name": "T-Man",
+          "url": "https://open.spotify.com/artist/5p0SkCjy1OmhoXPSM5dvW2"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366628,
+      "name": "Shona Phantsi",
+      "url": "https://open.spotify.com/track/14KEZJsz3lLCZaCKzNFc9B"
     },
     {
       "album": {
@@ -1849,6 +2049,36 @@
     },
     {
       "album": {
+        "name": "Umhlaka 2",
+        "url": "https://open.spotify.com/album/06tkCF1OAZz0Z8XwDSpE6n"
+      },
+      "artists": [
+        {
+          "name": "Dr Dope",
+          "url": "https://open.spotify.com/artist/511VpiGCdzuECpteBjWKuT"
+        },
+        {
+          "name": "The Elevatorz",
+          "url": "https://open.spotify.com/artist/5yu1Qzlob7mdCvXWByKuEZ"
+        },
+        {
+          "name": "JR IGhost",
+          "url": "https://open.spotify.com/artist/4V824x6HB7yHu8Sr7sXOUH"
+        },
+        {
+          "name": "Ainch",
+          "url": "https://open.spotify.com/artist/3KyYbO8vsDfPpXOGGVUSHF"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324094,
+      "name": "Umhlaka 2",
+      "url": "https://open.spotify.com/track/5Yd1gtpJTGDphBNbnDIMVU"
+    },
+    {
+      "album": {
         "name": "We Are S.A.M, Vol. 4",
         "url": "https://open.spotify.com/album/0hSdddIjaUiKdj1whq1vIa"
       },
@@ -1868,6 +2098,24 @@
       "duration_ms": 397635,
       "name": "Umthandazo Wesizwe",
       "url": "https://open.spotify.com/track/2KTINo3ozg7TELi3PHWitx"
+    },
+    {
+      "album": {
+        "name": "Underworld",
+        "url": "https://open.spotify.com/album/6MExFZ1jDwPkEpP6IQ61M9"
+      },
+      "artists": [
+        {
+          "name": "Woza Spice",
+          "url": "https://open.spotify.com/artist/5jXhHXqQusFuDslFf7VJYQ"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331363,
+      "name": "Underworld",
+      "url": "https://open.spotify.com/track/3nMfPEFkrNxZSYbKVe99hf"
     },
     {
       "album": {
@@ -1912,7 +2160,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 260952,
       "name": "Uphetheni Esandleni",
       "url": "https://open.spotify.com/track/0wmof7ZBxnuZGmvDkBIxQc"
@@ -2052,6 +2300,24 @@
       "duration_ms": 406804,
       "name": "World We Live In",
       "url": "https://open.spotify.com/track/5Aie9qiaZBJuPDMiqTk56S"
+    },
+    {
+      "album": {
+        "name": "Woza Ndik'xelele",
+        "url": "https://open.spotify.com/album/1cjkpazJbOpNVxSovgYEBl"
+      },
+      "artists": [
+        {
+          "name": "Shandrac",
+          "url": "https://open.spotify.com/artist/7iXakmMRoWkb7WnYEeodKm"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305371,
+      "name": "Woza Ndik'xelele",
+      "url": "https://open.spotify.com/track/7EYkHOPlCfjuVXUwNoKxpZ"
     },
     {
       "album": {

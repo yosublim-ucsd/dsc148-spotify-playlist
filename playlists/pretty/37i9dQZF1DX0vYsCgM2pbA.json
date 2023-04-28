@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 119010,
+  "num_followers": 119039,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTk5ODg2OCwwMDAwMDAwMDYyZDc2NzQ1NjgzZTY1NWRmNzZiYjJkODJhZWNlZmQ0",
+  "snapshot_id": "MCwwNmJlZmMwYWM2OTNjNWQ2NmQzYjBlOWQ0YTRiNDY1NzJhZDhkMjlk",
   "tracks": [
     {
       "added_at": "2023-04-20 13:54:28",
@@ -555,26 +555,18 @@
     {
       "added_at": "2023-04-20 13:54:28",
       "album": {
-        "name": "So Far to Go",
-        "url": "https://open.spotify.com/album/2xVOsuiQzvlvkKBIVXxjtc"
+        "name": "Falling for You",
+        "url": "https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA"
       },
       "artists": [
         {
-          "name": "Cabu",
-          "url": "https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE"
-        },
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "No\u00e9",
-          "url": "https://open.spotify.com/artist/5FoIen3mGXGHRUeKIE7ymi"
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
         }
       ],
-      "duration_ms": 154500,
-      "name": "Sun Moon",
-      "url": "https://open.spotify.com/track/3PdWdN2ATpRSWOsZMdChgp"
+      "duration_ms": 190000,
+      "name": "Falling for You",
+      "url": "https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S"
     },
     {
       "added_at": "2023-04-20 13:54:28",
@@ -595,18 +587,26 @@
     {
       "added_at": "2023-04-20 13:54:28",
       "album": {
-        "name": "Falling for You",
-        "url": "https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA"
+        "name": "So Far to Go",
+        "url": "https://open.spotify.com/album/2xVOsuiQzvlvkKBIVXxjtc"
       },
       "artists": [
         {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+          "name": "Cabu",
+          "url": "https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE"
+        },
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "No\u00e9",
+          "url": "https://open.spotify.com/artist/5FoIen3mGXGHRUeKIE7ymi"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Falling for You",
-      "url": "https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S"
+      "duration_ms": 154500,
+      "name": "Sun Moon",
+      "url": "https://open.spotify.com/track/3PdWdN2ATpRSWOsZMdChgp"
     },
     {
       "added_at": "2023-04-20 13:54:28",
@@ -735,26 +735,6 @@
     {
       "added_at": "2023-04-20 13:54:28",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1"
-      },
-      "artists": [
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        },
-        {
-          "name": "Flansie",
-          "url": "https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI"
-        }
-      ],
-      "duration_ms": 246832,
-      "name": "You",
-      "url": "https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk"
-    },
-    {
-      "added_at": "2023-04-20 13:54:28",
-      "album": {
         "name": "OoooH",
         "url": "https://open.spotify.com/album/0GFRCYzjZQJDNCnu4z4FOa"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 202017,
       "name": "OoooH",
       "url": "https://open.spotify.com/track/0pirokrbgCxZ0nvZsl5qEU"
+    },
+    {
+      "added_at": "2023-04-20 13:54:28",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        },
+        {
+          "name": "Flansie",
+          "url": "https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI"
+        }
+      ],
+      "duration_ms": 246832,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk"
     },
     {
       "added_at": "2023-04-20 13:54:28",
@@ -827,6 +827,26 @@
     {
       "added_at": "2023-04-20 13:54:28",
       "album": {
+        "name": "Touch (feat. Rromarin)",
+        "url": "https://open.spotify.com/album/6oqqJXzVvb3hHcdGxRCfxm"
+      },
+      "artists": [
+        {
+          "name": "Golden Features",
+          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
+        },
+        {
+          "name": "Rromarin",
+          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Touch (feat. Rromarin)",
+      "url": "https://open.spotify.com/track/2HirdhcyrBod79Utk0acmI"
+    },
+    {
+      "added_at": "2023-04-20 13:54:28",
+      "album": {
         "name": "Changes (Timmy Trumpet Remix)",
         "url": "https://open.spotify.com/album/57YOijzcUtmTsqIDoKuT2J"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 146250,
       "name": "Changes - Timmy Trumpet Remix",
       "url": "https://open.spotify.com/track/5JZMjnhb3rcAJXn9L1xTIU"
-    },
-    {
-      "added_at": "2023-04-20 13:54:28",
-      "album": {
-        "name": "Touch (feat. Rromarin)",
-        "url": "https://open.spotify.com/album/6oqqJXzVvb3hHcdGxRCfxm"
-      },
-      "artists": [
-        {
-          "name": "Golden Features",
-          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
-        },
-        {
-          "name": "Rromarin",
-          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Touch (feat. Rromarin)",
-      "url": "https://open.spotify.com/track/2HirdhcyrBod79Utk0acmI"
     },
     {
       "added_at": "2023-04-20 13:54:28",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-04-20 13:54:28",
       "album": {
-        "name": "Between The Head & The Heart",
-        "url": "https://open.spotify.com/album/0oSNfuiXDJ01zODQnZGMdH"
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/2tQMlxXnIuH9bdnytpKZCz"
       },
       "artists": [
         {
-          "name": "Boo Seeka",
-          "url": "https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO"
+          "name": "RONA.",
+          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
         }
       ],
-      "duration_ms": 179120,
-      "name": "Finish What You Started",
-      "url": "https://open.spotify.com/track/00H3S427pckJf5DtsKCbeY"
+      "duration_ms": 293775,
+      "name": "Feel It Too",
+      "url": "https://open.spotify.com/track/2orNXSkyIRgWWAVHRjjchs"
     },
     {
       "added_at": "2023-04-20 13:54:28",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2023-04-20 13:54:28",
       "album": {
-        "name": "Closure",
-        "url": "https://open.spotify.com/album/2tQMlxXnIuH9bdnytpKZCz"
+        "name": "Between The Head & The Heart",
+        "url": "https://open.spotify.com/album/0oSNfuiXDJ01zODQnZGMdH"
       },
       "artists": [
         {
-          "name": "RONA.",
-          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
+          "name": "Boo Seeka",
+          "url": "https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO"
         }
       ],
-      "duration_ms": 293775,
-      "name": "Feel It Too",
-      "url": "https://open.spotify.com/track/2orNXSkyIRgWWAVHRjjchs"
+      "duration_ms": 179120,
+      "name": "Finish What You Started",
+      "url": "https://open.spotify.com/track/00H3S427pckJf5DtsKCbeY"
     },
     {
       "added_at": "2023-04-20 13:54:28",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-04-20 13:54:28",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/5OiqeHLzyFUUMjnDzMkfue"
-      },
-      "artists": [
-        {
-          "name": "JYYE",
-          "url": "https://open.spotify.com/artist/1KNafMiV5Y3OhOr1A5tWwb"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "Feelings",
-      "url": "https://open.spotify.com/track/25FYMUzUb4f7juGbmfG6El"
-    },
-    {
-      "added_at": "2023-04-20 13:54:28",
-      "album": {
         "name": "Tied to You",
         "url": "https://open.spotify.com/album/2NYRONIjh6mVjU25O4V2bn"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 223728,
       "name": "Tied to You",
       "url": "https://open.spotify.com/track/5Ocqb8QuiwSfqHHFE7cz4X"
+    },
+    {
+      "added_at": "2023-04-20 13:54:28",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/5OiqeHLzyFUUMjnDzMkfue"
+      },
+      "artists": [
+        {
+          "name": "JYYE",
+          "url": "https://open.spotify.com/artist/1KNafMiV5Y3OhOr1A5tWwb"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/25FYMUzUb4f7juGbmfG6El"
     }
   ],
   "unique_name": "Sunday Sessions",

@@ -650,7 +650,7 @@
       ],
       "date_added": "2020-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 210746,
       "name": "Je survivrai",
       "url": "https://open.spotify.com/track/6v3fLj8kHDReIpSgOjYREa"
@@ -1552,6 +1552,24 @@
       "duration_ms": 263520,
       "name": "Une femme avec toi",
       "url": "https://open.spotify.com/track/3LIghH0HLWzawM5n5Vu8Cc"
+    },
+    {
+      "album": {
+        "name": "Victoire (Radio Edit)",
+        "url": "https://open.spotify.com/album/7MoypL7O3vSdhqhbzycqD6"
+      },
+      "artists": [
+        {
+          "name": "Shy'm",
+          "url": "https://open.spotify.com/artist/3nXQmlliJxvfXOm3naZf3B"
+        }
+      ],
+      "date_added": "2020-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196479,
+      "name": "Victoire - Radio Edit",
+      "url": "https://open.spotify.com/track/1O6uYqexF293mZKf9Nmf7x"
     },
     {
       "album": {

@@ -933,6 +933,24 @@
     },
     {
       "album": {
+        "name": "Qalt Habiby",
+        "url": "https://open.spotify.com/album/1DNvSjT7MA0CB9o0EwE1sG"
+      },
+      "artists": [
+        {
+          "name": "Ayman Qusailah",
+          "url": "https://open.spotify.com/artist/5rhRBRSACiwECuHLhk5b8D"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245304,
+      "name": "Qalt Habiby",
+      "url": "https://open.spotify.com/track/6tz18XXepNwclwplcUpGO9"
+    },
+    {
+      "album": {
         "name": "Qatlni Hobak",
         "url": "https://open.spotify.com/album/5rM0FdvjpBafPkf7ojIeVQ"
       },

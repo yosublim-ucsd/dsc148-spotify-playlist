@@ -1,12 +1,12 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 160541,
+  "num_followers": 160654,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI1NjIzNiwwMDAwMDAwMGNmMDQ1YTFkNjg5YjNmMjk0NmQ0MDY0ZmY3Y2M0OTUx",
+  "snapshot_id": "MCxkNmQyMTM3ODI4Mzk3ZTlhY2JkNDQ4MjgwNjRiYmUxNzE0MDNhZmZj",
   "tracks": [
     {
       "added_at": "2023-02-24 16:30:36",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
+        "name": "Las Romanticas Favoritas de Fuerza Regida",
+        "url": "https://open.spotify.com/album/0ffWcvGsLQbPnA4aLJLdFj"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 197880,
+      "name": "No Puedo Olvidarla",
+      "url": "https://open.spotify.com/track/7b1TG0vsbfYWRvMtnR4t7Z"
+    },
+    {
+      "added_at": "2023-02-24 16:30:36",
+      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/6pgeDuCc02j6JhZi9dYyEv"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 236093,
       "name": "Pero Te Vas A Arrepentir",
       "url": "https://open.spotify.com/track/7EMsb3h7OaPZ44lwqRCgaq"
-    },
-    {
-      "added_at": "2023-02-24 16:30:36",
-      "album": {
-        "name": "Las Romanticas Favoritas de Fuerza Regida",
-        "url": "https://open.spotify.com/album/0ffWcvGsLQbPnA4aLJLdFj"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 197880,
-      "name": "No Puedo Olvidarla",
-      "url": "https://open.spotify.com/track/7b1TG0vsbfYWRvMtnR4t7Z"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
-        "name": "Necesito una Compa\u00f1era",
-        "url": "https://open.spotify.com/album/1xCTONzIVInu4NuiFV169l"
-      },
-      "artists": [
-        {
-          "name": "La Furia del Bravo",
-          "url": "https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3"
-        }
-      ],
-      "duration_ms": 186920,
-      "name": "Necesito una Compa\u00f1era",
-      "url": "https://open.spotify.com/track/2m2QR2IBpKL2JbVBj0BlYA"
-    },
-    {
-      "added_at": "2023-02-24 16:30:36",
-      "album": {
         "name": "Homenaje A Los Bukis",
         "url": "https://open.spotify.com/album/2R2Jh0U1XVnthWL63gZy3K"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 619382,
       "name": "Homenaje A Los Bukis",
       "url": "https://open.spotify.com/track/2uIA8ma0GIFyvJqCUhjlLv"
+    },
+    {
+      "added_at": "2023-02-24 16:30:36",
+      "album": {
+        "name": "Necesito una Compa\u00f1era",
+        "url": "https://open.spotify.com/album/1xCTONzIVInu4NuiFV169l"
+      },
+      "artists": [
+        {
+          "name": "La Furia del Bravo",
+          "url": "https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3"
+        }
+      ],
+      "duration_ms": 186920,
+      "name": "Necesito una Compa\u00f1era",
+      "url": "https://open.spotify.com/track/2m2QR2IBpKL2JbVBj0BlYA"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
-        "name": "Inalcanzable",
-        "url": "https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 211586,
-      "name": "Tu Ingratitud",
-      "url": "https://open.spotify.com/track/2wdHaBjNttqV26lrI0rwoY"
-    },
-    {
-      "added_at": "2023-02-24 16:30:36",
-      "album": {
         "name": "Si Me Recuerdas",
         "url": "https://open.spotify.com/album/0HtYh5CyT365ONA1d46IRC"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 235133,
       "name": "Y Ahora Te Vas",
       "url": "https://open.spotify.com/track/5e62PInKsU8hyMTMwvSA1l"
+    },
+    {
+      "added_at": "2023-02-24 16:30:36",
+      "album": {
+        "name": "Inalcanzable",
+        "url": "https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 211586,
+      "name": "Tu Ingratitud",
+      "url": "https://open.spotify.com/track/2wdHaBjNttqV26lrI0rwoY"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -2239,8 +2239,8 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
-        "name": "35 Aniversario",
-        "url": "https://open.spotify.com/album/4WPfZE0Nv2FI3MtP6exBRB"
+        "name": "Quiereme",
+        "url": "https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6"
       },
       "artists": [
         {
@@ -2248,9 +2248,9 @@
           "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 231520,
-      "name": "Si Ya No Te Vuelvo A Ver",
-      "url": "https://open.spotify.com/track/62kDLRQwHua33e3fLrOVPJ"
+      "duration_ms": 171160,
+      "name": "Vi\u00e9ndolo Bien",
+      "url": "https://open.spotify.com/track/4xz67gCRJvFPjYOWTwrquw"
     }
   ],
   "unique_name": "Cancionero Marco Antonio Solis",

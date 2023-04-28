@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 
 > The perfect soundtrack to your morning yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,003 likes - 235 songs - 11 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,036 likes - 235 songs - 11 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -244,4 +244,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 | 234 | [Repeating](https://open.spotify.com/track/0tBmAvHj80wggdNsNXj2aa) | [Gargantis](https://open.spotify.com/artist/5GXKQgbYHVdRFSznRp5trz) | [Repeating](https://open.spotify.com/album/01BlV7fiIRik4h9Gw4fRVu) | 2:32 |
 | 235 | [Safety](https://open.spotify.com/track/3EcvMo6Td4Kuv05GMNXZrs) | [Gabriel Verci](https://open.spotify.com/artist/5fwefxhrUGOhSbrg5GfIF1) | [Mindful](https://open.spotify.com/album/3feONECTQLJQie9tsNFuX5) | 2:48 |
 
-Snapshot ID: `MTY3MzYxMzM1NSwwMDAwMDAwMGUwMGNmODZlYTllMzNhZmNjOGVkOTM3YmQyZjU3M2Fl`
+Snapshot ID: `MCwwZTk4OGU2MTZiZDM4YjkxODY0MDkyMGZmMjI1MTc5M2YxNDU5M2Ex`

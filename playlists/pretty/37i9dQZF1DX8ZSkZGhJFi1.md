@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZSkZGhJFi1.md) - [plain]
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,802 likes - 134 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,806 likes - 134 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZSkZGhJFi1.md) - [plain]
 | 133 | [the simmer down](https://open.spotify.com/track/54FEr0qrTnmTsXoYsVwlJf) | [Farmor](https://open.spotify.com/artist/6PSXPlcJRWbnLFb5XZRK63) | [innercity beatloops](https://open.spotify.com/album/5on8BGb50hANx3oVg8zGHO) | 1:51 |
 | 134 | [YVR](https://open.spotify.com/track/0yr5SOfo3cErueF3GAoITq) | [GEO\-X](https://open.spotify.com/artist/5VjntCrceRx7AkVib6leeR) | [White Criss](https://open.spotify.com/album/4CZ5iModUePvfKst8fN5gR) | 3:05 |
 
-Snapshot ID: `MTY3Njk5MDQzNSwwMDAwMDAwMDk1MDI2ZjgxMTM2YWY5ZGFhNzFmNjAyMTQzNGNkY2Ez`
+Snapshot ID: `MCxjZTlhMjkxOWJkNjAxMmU5OTYwOWNiMjEzYzEzYTliOGE4NDI4MTYz`

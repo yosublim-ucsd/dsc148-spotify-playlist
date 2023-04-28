@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 ### [Carta Malaysia 50](https://open.spotify.com/playlist/37i9dQZF1DXb1RLKxkHZ77)
 
-> Lagu\-lagu yang terbaik di Malaysia\. Cover: Amir Jahari
+> Lagu\-lagu yang terbaik di Malaysia\. Cover: Luqman Podolski, Tish Errda
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,767 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,813 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hasrat \(OST Imaginur\)](https://open.spotify.com/track/3Q6DYlT649Y1tgyf5We71c) | [Amir Jahari](https://open.spotify.com/artist/0NZxMMytnzLqPuCTb0ChGu) | [Hasrat \(OST Imaginur\)](https://open.spotify.com/album/3ABD4eXxckIrnVXKYRkClU) | 3:58 |
-| 2 | [Terasa Ada](https://open.spotify.com/track/1VGVxZIHPiKh3Y4vZv6ChL) | [Sufian Suhaimi](https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa) | [Terasa Ada](https://open.spotify.com/album/0vYQ7xIaQQhh8fZAsbFSdf) | 4:02 |
-| 3 | [Langit Yang Sama](https://open.spotify.com/track/2CJvBRL5ZevYir3mbFdcm6) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg) | [Langit Yang Sama](https://open.spotify.com/album/6K1IgEqIElbpdvorDrwEkZ) | 4:05 |
-| 4 | [Sial](https://open.spotify.com/track/6dXiWwFrcGieqnoLYzPNp5) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/6iBh7T1cUR8MPrtly5xugU) | 4:03 |
-| 5 | [Mungkin Aku Tak Penting? \(feat\. Tish Errda\)](https://open.spotify.com/track/3SSe3pzhdtPrVN0AqzUkx0) | [Luqman Podolski](https://open.spotify.com/artist/3OhGgq6XTlkr8Q99UA12Mh), [Tish Errda](https://open.spotify.com/artist/4WnVvYBKHRliSEu7uGORsG) | [Mungkin Aku Tak Penting? \(feat\. Tish Errda\)](https://open.spotify.com/album/34fD5ynm6YJHkcwjADFnpr) | 3:07 |
+| 2 | [Mungkin Aku Tak Penting? \(feat\. Tish Errda\)](https://open.spotify.com/track/3SSe3pzhdtPrVN0AqzUkx0) | [Luqman Podolski](https://open.spotify.com/artist/3OhGgq6XTlkr8Q99UA12Mh), [Tish Errda](https://open.spotify.com/artist/4WnVvYBKHRliSEu7uGORsG) | [Mungkin Aku Tak Penting? \(feat\. Tish Errda\)](https://open.spotify.com/album/34fD5ynm6YJHkcwjADFnpr) | 3:07 |
+| 3 | [Terasa Ada](https://open.spotify.com/track/1VGVxZIHPiKh3Y4vZv6ChL) | [Sufian Suhaimi](https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa) | [Terasa Ada](https://open.spotify.com/album/0vYQ7xIaQQhh8fZAsbFSdf) | 4:02 |
+| 4 | [Langit Yang Sama](https://open.spotify.com/track/2CJvBRL5ZevYir3mbFdcm6) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg) | [Langit Yang Sama](https://open.spotify.com/album/6K1IgEqIElbpdvorDrwEkZ) | 4:05 |
+| 5 | [Sial](https://open.spotify.com/track/6dXiWwFrcGieqnoLYzPNp5) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/6iBh7T1cUR8MPrtly5xugU) | 4:03 |
 | 6 | [Muak](https://open.spotify.com/track/3N2WeXxSjngB1DSi8vrI8C) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1) | [Muak](https://open.spotify.com/album/4Zt66ubcxeKkfB3MvTYvCq) | 4:24 |
 | 7 | [Inilah JalanNya](https://open.spotify.com/track/6u2B9FZFAEFKEQhSWhKg4z) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Inilah JalanNya](https://open.spotify.com/album/3ddYz2fYJB0jUPsyICvKYH) | 2:40 |
 | 8 | [Komang](https://open.spotify.com/track/2AaaE0qvFWtyT8srKNfRhH) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Komang](https://open.spotify.com/album/2N8JUijzZsT2IJnplY4vAE) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Menanti](https://open.spotify.com/track/6ML4LAPC9WmSyoorNSkSOD) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Menanti](https://open.spotify.com/album/7lnZheJKj0Fwy0DkC0WzBE) | 3:05 |
 | 50 | [Masuk](https://open.spotify.com/track/1MjcAJQWeWwDgXIB8aQ9nM) | [Fariz Jabba](https://open.spotify.com/artist/5euTSdDookRvAEl8yOXhHh) | [Masuk](https://open.spotify.com/album/6N5gdazIpVUbG1WIjNid1g) | 2:39 |
 
-Snapshot ID: `MTY4MjQ3NjA0MSwwMDAwMDAwMDk0NTM2MzVlZmNiYjIxNWI3NTZhYjUxMzhkODc2NDU0`
+Snapshot ID: `MCxkZTZmM2Y0ZTY1ZWYxNTgzNzRjNTlkMGZkY2FhMDliYWY0Mjk0MTVl`

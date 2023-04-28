@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 36114,
+  "num_followers": 36138,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU1NzI2OSwwMDAwMDAwMDQ0ZGI5MjUzZDkyYTEzMThkNzY4NjFjNDE5YWEzNjMw",
+  "snapshot_id": "MCxlYmZjNTY3MzA2MWZmOGE4MDdmNmFlNzNhNmZjNzM2NGU0ODgyODk0",
   "tracks": [
     {
       "added_at": "2023-01-10 17:34:17",
@@ -123,22 +123,18 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
-        "name": "Deuces Wild",
-        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
+        "name": "Rock Me Daddy, Vol. 1",
+        "url": "https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD"
       },
       "artists": [
         {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        },
-        {
-          "name": "Jools Holland",
-          "url": "https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e"
+          "name": "Camille Howard",
+          "url": "https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX"
         }
       ],
-      "duration_ms": 218626,
-      "name": "Pauly's Birthday Boogie",
-      "url": "https://open.spotify.com/track/088NmJPi9Tnn6BKn6xyo9r"
+      "duration_ms": 154840,
+      "name": "Boogie In \"G\"",
+      "url": "https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ"
     },
     {
       "added_at": "2023-01-10 17:34:17",
@@ -175,18 +171,22 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
-        "name": "Rock Me Daddy, Vol. 1",
-        "url": "https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD"
+        "name": "Deuces Wild",
+        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
       },
       "artists": [
         {
-          "name": "Camille Howard",
-          "url": "https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "Jools Holland",
+          "url": "https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e"
         }
       ],
-      "duration_ms": 154840,
-      "name": "Boogie In \"G\"",
-      "url": "https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ"
+      "duration_ms": 218626,
+      "name": "Pauly's Birthday Boogie",
+      "url": "https://open.spotify.com/track/088NmJPi9Tnn6BKn6xyo9r"
     },
     {
       "added_at": "2023-01-10 17:34:17",
@@ -883,18 +883,22 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
-        "name": "Cincinnati Stomp",
-        "url": "https://open.spotify.com/album/6WnCUskbBhW2Mt9JWk35Jz"
+        "name": "Boogie Stomp",
+        "url": "https://open.spotify.com/album/6xDmwJpXD2As3RklDuigJ8"
       },
       "artists": [
         {
-          "name": "Big Joe Duskin",
-          "url": "https://open.spotify.com/artist/2qQLjtrCXMHvWF31LiQbyB"
+          "name": "Bob Seeley",
+          "url": "https://open.spotify.com/artist/6sw1qBIAwEhCbSUZTqbn5r"
+        },
+        {
+          "name": "Bob Baldori",
+          "url": "https://open.spotify.com/artist/04FQlkgLlC8C7k4GgTLp9W"
         }
       ],
-      "duration_ms": 146066,
-      "name": "Dollar Bill Boogie",
-      "url": "https://open.spotify.com/track/2cPqoxtyPKsoOXPTZpH0OA"
+      "duration_ms": 287190,
+      "name": "Boogie Stomp",
+      "url": "https://open.spotify.com/track/1gmOL5hmvpMkFlYAhDSIBp"
     },
     {
       "added_at": "2023-01-10 17:34:17",
@@ -915,22 +919,18 @@
     {
       "added_at": "2023-01-10 17:34:17",
       "album": {
-        "name": "Boogie Stomp",
-        "url": "https://open.spotify.com/album/6xDmwJpXD2As3RklDuigJ8"
+        "name": "Cincinnati Stomp",
+        "url": "https://open.spotify.com/album/6WnCUskbBhW2Mt9JWk35Jz"
       },
       "artists": [
         {
-          "name": "Bob Seeley",
-          "url": "https://open.spotify.com/artist/6sw1qBIAwEhCbSUZTqbn5r"
-        },
-        {
-          "name": "Bob Baldori",
-          "url": "https://open.spotify.com/artist/04FQlkgLlC8C7k4GgTLp9W"
+          "name": "Big Joe Duskin",
+          "url": "https://open.spotify.com/artist/2qQLjtrCXMHvWF31LiQbyB"
         }
       ],
-      "duration_ms": 287190,
-      "name": "Boogie Stomp",
-      "url": "https://open.spotify.com/track/1gmOL5hmvpMkFlYAhDSIBp"
+      "duration_ms": 146066,
+      "name": "Dollar Bill Boogie",
+      "url": "https://open.spotify.com/track/2cPqoxtyPKsoOXPTZpH0OA"
     },
     {
       "added_at": "2023-01-10 17:34:17",

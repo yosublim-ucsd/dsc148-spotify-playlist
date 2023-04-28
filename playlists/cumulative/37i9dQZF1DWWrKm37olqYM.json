@@ -1188,10 +1188,32 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 145841,
       "name": "Move 2 da Beat",
       "url": "https://open.spotify.com/track/0MDE0kSE3rCKm1mOopNMiA"
+    },
+    {
+      "album": {
+        "name": "Move 2 Da Beat",
+        "url": "https://open.spotify.com/album/1V96WlEQoP4m896y5vDZdv"
+      },
+      "artists": [
+        {
+          "name": "Rye Rye",
+          "url": "https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu"
+        },
+        {
+          "name": "Djjoker106",
+          "url": "https://open.spotify.com/artist/1sA9IBc9mm8WMNLHpVdmpL"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145841,
+      "name": "Move 2 Da Beat",
+      "url": "https://open.spotify.com/track/6aWFRTlMqIopuvCxiEXzfc"
     },
     {
       "album": {

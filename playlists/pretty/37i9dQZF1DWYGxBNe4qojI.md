@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 
 > Where it all started\. Cover: 50 Cent
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,133 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,599 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 | 49 | [Who Got Da Props](https://open.spotify.com/track/5CRM9TgBcwRbK3LyHUJhrQ) | [Black Moon](https://open.spotify.com/artist/2yN6bq26wynQcRuPkBYTDb) | [Enta Da Stage](https://open.spotify.com/album/5Di7sTCL8zU5rHMl98qliQ) | 4:30 |
 | 50 | [Bucktown](https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6) | [Smif\-N\-Wessun](https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0) | [Dah Shinin'](https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM) | 3:57 |
 
-Snapshot ID: `MTY3NTIxMjkwMSwwMDAwMDAwMDdkNTQ2ODNmMjUzNzY5MmM3NzI5ZjY2Yjk5OGI1Mzk1`
+Snapshot ID: `MCwxNWRmMTA2MGY0MDBiNTIxMzQ3Yjc5N2JlODA0ZWQ2NjY5YzEwNjgy`

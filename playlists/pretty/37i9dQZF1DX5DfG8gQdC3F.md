@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from The Weeknd & Future, Belly, Kim Petras & Nicki Minaj, and Foo Fighters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,685 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,706 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 13 | [Young Boy Problems](https://open.spotify.com/track/5RkVymJxVbc8oy0OnaIjQo) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Young Boy Problems](https://open.spotify.com/album/0KwxesDI97ypNuvm1KZoOF) | 2:49 |
 | 14 | [What You Say \(feat\. Post Malone & The Kid LAROI\)](https://open.spotify.com/track/112EmZwJNonJymivU3KOVl) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Don't Try This At Home](https://open.spotify.com/album/6mS81Go5P5wQKoybVT68NW) | 4:03 |
 | 15 | [Mermaids](https://open.spotify.com/track/1rZsn9K890Goymfl7YIdgY) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever \(Complete Edition\)](https://open.spotify.com/album/6a15PoOmOueHCdogzhHRbh) | 4:35 |
-| 16 | [You Oughta Know \(feat\. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade\) \- Spotify Singles](https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa), [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [You Oughta Know \(feat\. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade\) \[Spotify Singles\]](https://open.spotify.com/album/6IwwVGLtiflk9IkTcRwE6n) | 4:16 |
+| 16 | [You Oughta Know \(feat\. Ingrid Andress, Madeline Edwards, Morgan Wade\) \- Spotify Singles](https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa), [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [You Oughta Know \(feat\. Ingrid Andress, Madeline Edwards, Morgan Wade\) \[Spotify Singles\]](https://open.spotify.com/album/6IwwVGLtiflk9IkTcRwE6n) | 4:16 |
 | 17 | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/track/6jSvgAwRVrJIP0VYz5L2J8) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/album/2FJeCuU3JcO6EQWsjAGIdu) | 2:44 |
 | 18 | [Jacaré](https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Jacaré](https://open.spotify.com/album/6tVrvnbU1sLGGegMIEYexO) | 2:36 |
 | 19 | [$WISH ft\. G\-Eazy and Chance The Rapper](https://open.spotify.com/track/2xWTbOsDclkxRarvshyReu) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [$WISH ft\. G\-Eazy and Chance The Rapper](https://open.spotify.com/album/0suVVYEcV3LWxREKaLyOGn) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Rebuilding Year](https://open.spotify.com/track/5ENWw8fKaApzb9m7dYEQzy) | [Brutal Youth](https://open.spotify.com/artist/5BJrQw60XksRtVfwNVFu0W) | [Rebuilding Year](https://open.spotify.com/album/6V9J0hh6rAc1Rkl1RvTATV) | 2:30 |
 | 100 | [drive faster](https://open.spotify.com/track/7hdes67sicWJ4oR1zVchuQ) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [drive faster](https://open.spotify.com/album/6Z819jCN4dzySQfY0HLdER) | 1:56 |
 
-Snapshot ID: `MTY4MjA1MDE1NiwwMDAwMDAwMDkxY2U1ZDRiMjJkMTc5ZmRjY2U5NjlhNWRiZmQ4ZDVl`
+Snapshot ID: `MCw3ODVkNWU0YzYyZDc2ZDNmNjcwNDE4Yjc3ZTBmMzY1ZGNlZjlkY2Fh`

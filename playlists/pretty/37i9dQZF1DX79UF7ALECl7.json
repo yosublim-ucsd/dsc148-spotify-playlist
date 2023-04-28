@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee",
-  "num_followers": 117296,
+  "num_followers": 117315,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjIzOTY4NiwwMDAwMDAwMGZjNTFiODE1ZTg3YzdhODI0Yjk1NzUyYmQ1MmExZTA4",
+  "snapshot_id": "MCwzNDBlNzQzZjY3MDI2NmU3YTM2NjQ5NDgyYzQ0MzJmNDQ4YThkYjJm",
   "tracks": [
     {
       "added_at": "2023-04-13 22:00:00",
@@ -215,6 +215,22 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
+        "name": "Obscure",
+        "url": "https://open.spotify.com/album/0mrJoQMHdOz37Zd4Ucpo6F"
+      },
+      "artists": [
+        {
+          "name": "LYANE",
+          "url": "https://open.spotify.com/artist/0cQEcLmC43QHccKlphpAYK"
+        }
+      ],
+      "duration_ms": 153345,
+      "name": "Obscure",
+      "url": "https://open.spotify.com/track/636E5CfJPN1GlWhhYcQMzY"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
         "name": "Fidelity Radio Club",
         "url": "https://open.spotify.com/album/7eu46qXLNv9FAagjqNhFZb"
       },
@@ -239,18 +255,18 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Obscure",
-        "url": "https://open.spotify.com/album/0mrJoQMHdOz37Zd4Ucpo6F"
+        "name": "Endurance / Heart",
+        "url": "https://open.spotify.com/album/62QvEUJymDy8luwuJQFALW"
       },
       "artists": [
         {
-          "name": "LYANE",
-          "url": "https://open.spotify.com/artist/0cQEcLmC43QHccKlphpAYK"
+          "name": "Road Kahan",
+          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
         }
       ],
-      "duration_ms": 153345,
-      "name": "Obscure",
-      "url": "https://open.spotify.com/track/636E5CfJPN1GlWhhYcQMzY"
+      "duration_ms": 200126,
+      "name": "Endurance",
+      "url": "https://open.spotify.com/track/2PEQZNjNKN4GEsUbo3yD8d"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -267,22 +283,6 @@
       "duration_ms": 215743,
       "name": "Suburban Sunrise",
       "url": "https://open.spotify.com/track/3kIyVa8Rnp80iREwvmdTip"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "Endurance / Heart",
-        "url": "https://open.spotify.com/album/62QvEUJymDy8luwuJQFALW"
-      },
-      "artists": [
-        {
-          "name": "Road Kahan",
-          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
-        }
-      ],
-      "duration_ms": 200126,
-      "name": "Endurance",
-      "url": "https://open.spotify.com/track/2PEQZNjNKN4GEsUbo3yD8d"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
+        "name": "Just for a Moment",
+        "url": "https://open.spotify.com/album/7xsTvotryV8cW8m9RuiIEO"
+      },
+      "artists": [
+        {
+          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
+          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Just for a Moment",
+      "url": "https://open.spotify.com/track/1yzYunxXOdl5sQNy1WmOYO"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
         "name": "Overdrive",
         "url": "https://open.spotify.com/album/5swcUAvJoBBxKmwH60xs18"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 304440,
       "name": "Pro\u2019s & Con\u2019s - Kraak & Smaak Remix",
       "url": "https://open.spotify.com/track/17BrcbqJAd1VT7rZHZEGyU"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "Just for a Moment",
-        "url": "https://open.spotify.com/album/7xsTvotryV8cW8m9RuiIEO"
-      },
-      "artists": [
-        {
-          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
-          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Just for a Moment",
-      "url": "https://open.spotify.com/track/1yzYunxXOdl5sQNy1WmOYO"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -747,38 +747,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Arturia",
-        "url": "https://open.spotify.com/album/1x6NXAtpBEYXOLLsB78cI2"
-      },
-      "artists": [
-        {
-          "name": "Gavinco",
-          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
-        }
-      ],
-      "duration_ms": 331960,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/5rUwnnAkh9XcZsLt5hdgoF"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "Golden Cage EP",
-        "url": "https://open.spotify.com/album/4rF9lZgtSHe1blrCPGFyGY"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        }
-      ],
-      "duration_ms": 239249,
-      "name": "Mercury Moments",
-      "url": "https://open.spotify.com/track/3c8hntpeHHoS8BxppJoBBW"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "Don't Stop the Dance (Kraak & Smaak Radio Edit)",
         "url": "https://open.spotify.com/album/1Mbgn2dBhxJZUDP5nAaRgY"
       },
@@ -803,6 +771,38 @@
       "duration_ms": 213611,
       "name": "Don't Stop the Dance - Kraak & Smaak Radio Edit",
       "url": "https://open.spotify.com/track/1zoI4kALck0KVXw8wYJEfY"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Golden Cage EP",
+        "url": "https://open.spotify.com/album/4rF9lZgtSHe1blrCPGFyGY"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "duration_ms": 239249,
+      "name": "Mercury Moments",
+      "url": "https://open.spotify.com/track/3c8hntpeHHoS8BxppJoBBW"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Arturia",
+        "url": "https://open.spotify.com/album/1x6NXAtpBEYXOLLsB78cI2"
+      },
+      "artists": [
+        {
+          "name": "Gavinco",
+          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
+        }
+      ],
+      "duration_ms": 331960,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/5rUwnnAkh9XcZsLt5hdgoF"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -999,6 +999,26 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/4mNntEEGm90nZKu3AaYmcD"
+      },
+      "artists": [
+        {
+          "name": "Luminous",
+          "url": "https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u"
+        },
+        {
+          "name": "R.O",
+          "url": "https://open.spotify.com/artist/7HjjdBLZHCZEIjlLbGVLi0"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/2uLNusBKHvDrY5kH2Ymu4f"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
         "name": "V\u00edn",
         "url": "https://open.spotify.com/album/2N4UzYs2Qk7xRyc67kaehi"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 309596,
       "name": "April",
       "url": "https://open.spotify.com/track/6KmIwU5i6sCvyeNgP8QB4o"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "Infinity (The Remixes)",
-        "url": "https://open.spotify.com/album/2CpBDYbLROR0mt45dswpiD"
-      },
-      "artists": [
-        {
-          "name": "Bluma Petersen",
-          "url": "https://open.spotify.com/artist/1I7A8xBGgo3BLIWoG8B91h"
-        },
-        {
-          "name": "SLCT",
-          "url": "https://open.spotify.com/artist/1WblOSbQMKczLhoK041oOM"
-        }
-      ],
-      "duration_ms": 176356,
-      "name": "Infinity (SLCT Remix) (Instrumental Version)",
-      "url": "https://open.spotify.com/track/3XZu6dyTtjOlvskuMfJPTM"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1051,22 +1051,22 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Let Me",
-        "url": "https://open.spotify.com/album/4mNntEEGm90nZKu3AaYmcD"
+        "name": "Infinity (The Remixes)",
+        "url": "https://open.spotify.com/album/2CpBDYbLROR0mt45dswpiD"
       },
       "artists": [
         {
-          "name": "Luminous",
-          "url": "https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u"
+          "name": "Bluma Petersen",
+          "url": "https://open.spotify.com/artist/1I7A8xBGgo3BLIWoG8B91h"
         },
         {
-          "name": "R.O",
-          "url": "https://open.spotify.com/artist/7HjjdBLZHCZEIjlLbGVLi0"
+          "name": "SLCT",
+          "url": "https://open.spotify.com/artist/1WblOSbQMKczLhoK041oOM"
         }
       ],
-      "duration_ms": 220800,
-      "name": "Let Me",
-      "url": "https://open.spotify.com/track/2uLNusBKHvDrY5kH2Ymu4f"
+      "duration_ms": 176356,
+      "name": "Infinity (SLCT Remix) (Instrumental Version)",
+      "url": "https://open.spotify.com/track/3XZu6dyTtjOlvskuMfJPTM"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
+        "name": "Now You're Gone",
+        "url": "https://open.spotify.com/album/2wYWPmW2sxUo047gtSg8Fg"
+      },
+      "artists": [
+        {
+          "name": "ARTO",
+          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Now You're Gone",
+      "url": "https://open.spotify.com/track/32ivmY7bC6SU6j6mYgWTJW"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
         "name": "small talk",
         "url": "https://open.spotify.com/album/0gnsZmbviCp5VN6QFcihfh"
       },
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Now You're Gone",
-        "url": "https://open.spotify.com/album/2wYWPmW2sxUo047gtSg8Fg"
-      },
-      "artists": [
-        {
-          "name": "ARTO",
-          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Now You're Gone",
-      "url": "https://open.spotify.com/track/32ivmY7bC6SU6j6mYgWTJW"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "Chill Executive Officer (CEO), Vol. 7 [Selected by Maykel Piron]",
         "url": "https://open.spotify.com/album/4wvrrh7LugJVuufRSpE4pt"
       },
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Voyage Direct (2020 Remaster)",
-        "url": "https://open.spotify.com/album/6oiM1TCgVPIIr6UHym5eN7"
-      },
-      "artists": [
-        {
-          "name": "Tom Trago",
-          "url": "https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK"
-        }
-      ],
-      "duration_ms": 277899,
-      "name": "Lost in the Streets of NYC - 2020 Remaster",
-      "url": "https://open.spotify.com/track/7sCHLirrIq2Ap5UfL8gbZ9"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "Hachi",
         "url": "https://open.spotify.com/album/5Z9u65XxlamRAfn05tClOI"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 165517,
       "name": "Hachi",
       "url": "https://open.spotify.com/track/0xlK5pNlJjTqpKFHIY63r0"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Voyage Direct (2020 Remaster)",
+        "url": "https://open.spotify.com/album/6oiM1TCgVPIIr6UHym5eN7"
+      },
+      "artists": [
+        {
+          "name": "Tom Trago",
+          "url": "https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK"
+        }
+      ],
+      "duration_ms": 277899,
+      "name": "Lost in the Streets of NYC - 2020 Remaster",
+      "url": "https://open.spotify.com/track/7sCHLirrIq2Ap5UfL8gbZ9"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
+        "name": "Wax Casting",
+        "url": "https://open.spotify.com/album/1S6wyTKwsHD4heZDkpm9hx"
+      },
+      "artists": [
+        {
+          "name": "Mr. Woodcole",
+          "url": "https://open.spotify.com/artist/38AUTCj4EteaGRYKghL9qg"
+        }
+      ],
+      "duration_ms": 195971,
+      "name": "Blue Orchid",
+      "url": "https://open.spotify.com/track/5S5BANAZW6Z3w7QNieTDLm"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
         "name": "Fading Memories",
         "url": "https://open.spotify.com/album/1DrA0ZU45wJOm46XoAO2Sd"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 483808,
       "name": "Fading Memories",
       "url": "https://open.spotify.com/track/2gCzNuIjZQnKj9lMqHjk7X"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "Wax Casting",
-        "url": "https://open.spotify.com/album/1S6wyTKwsHD4heZDkpm9hx"
-      },
-      "artists": [
-        {
-          "name": "Mr. Woodcole",
-          "url": "https://open.spotify.com/artist/38AUTCj4EteaGRYKghL9qg"
-        }
-      ],
-      "duration_ms": 195971,
-      "name": "Blue Orchid",
-      "url": "https://open.spotify.com/track/5S5BANAZW6Z3w7QNieTDLm"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Dub 002",
-        "url": "https://open.spotify.com/album/1izE0AfZaQbrXmcDRrpcw6"
-      },
-      "artists": [
-        {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
-        }
-      ],
-      "duration_ms": 370006,
-      "name": "Dub 002",
-      "url": "https://open.spotify.com/track/23gIyPfmbczIngg3vvvu3P"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "No More / You Like Me",
         "url": "https://open.spotify.com/album/2J3FizlVKqLcGKYCYP3KNc"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 158563,
       "name": "No More",
       "url": "https://open.spotify.com/track/1XHCxvbJuVLd6n8Tj9oiCy"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Dub 002",
+        "url": "https://open.spotify.com/album/1izE0AfZaQbrXmcDRrpcw6"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        }
+      ],
+      "duration_ms": 370006,
+      "name": "Dub 002",
+      "url": "https://open.spotify.com/track/23gIyPfmbczIngg3vvvu3P"
     }
   ],
   "unique_name": "Coffee Club",

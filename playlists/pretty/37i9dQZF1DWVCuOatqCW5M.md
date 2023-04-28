@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Tulsi Kumar
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,739 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,794 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 15 | [Kahan](https://open.spotify.com/track/4VzcfqIfxSM4TcKEqlJWWT) | [Aanchal Shrivastava](https://open.spotify.com/artist/5jQ7dwP6Bg20NgOKozwTI4), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Kahan](https://open.spotify.com/album/2qE35FkmOscXTVvAGqaIhx) | 2:28 |
 | 16 | [Khamakha](https://open.spotify.com/track/26DJYPe9JOHmRMBFtmTTxH) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Akshayraje Shinde](https://open.spotify.com/artist/4VrMHDJPCXIca1awQrc1wc) | [Khamakha](https://open.spotify.com/album/0QTTNX9Ltv63Sm7uf5UGJa) | 2:49 |
 | 17 | [Mehndi Rach Gayi](https://open.spotify.com/track/4r2fV0KNndCU7txcDtozPp) | [Rahul Vaidya](https://open.spotify.com/artist/6XypcJDBmfuRjq52PFUVwd), [Priya Mallick](https://open.spotify.com/artist/7sRTObHviBKE6HTIHV9nUw), [Raghav](https://open.spotify.com/artist/3eU2hgCTO4RdLni6qYMEtr) | [Mehndi Rach Gayi](https://open.spotify.com/album/1QWCGnoYkQ1nHH31CMIxbs) | 3:48 |
-| 18 | [Dard\-E\-Dil](https://open.spotify.com/track/3uJFFaqnvX6mFPJCqonnDv) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0), [Ankee](https://open.spotify.com/artist/3kOjQePaLYnHq6GtVpSrAc) | [Dard\-E\-Dil](https://open.spotify.com/album/73msXI225qoOzfMKoJ5RyW) | 3:46 |
+| 18 | [Dard\-E\-Dil](https://open.spotify.com/track/3uJFFaqnvX6mFPJCqonnDv) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0), [Ankee](https://open.spotify.com/artist/0eJO7NuzYBNE2tVGcxiRfn) | [Dard\-E\-Dil](https://open.spotify.com/album/73msXI225qoOzfMKoJ5RyW) | 3:46 |
 | 19 | [baahon mein](https://open.spotify.com/track/6CH7FkFlviqrLbi1QzLSuo) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI) | [baahon mein](https://open.spotify.com/album/7znjFjXnF0V95qQRLARwcZ) | 3:00 |
 | 20 | [Kaaga](https://open.spotify.com/track/2tvtZHOzJlczUAcE2fMMlj) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Ram Sampath](https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx) | [Kaaga](https://open.spotify.com/album/4cW6zibgka2Um6W18DzdjL) | 2:45 |
 | 21 | [Muskurana Tera \- Unplugged Version](https://open.spotify.com/track/0JOjfYJcZSKRQU0ghAxoTA) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj) | [Muskurana Tera \(Unplugged Version\)](https://open.spotify.com/album/6Ayl5AMKkiZsUWTAGmJqU8) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Choo Liya](https://open.spotify.com/track/3CCKZEmtnCCbq2jrEihxgr) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [MEER](https://open.spotify.com/artist/4Qtx4aI2TxoK7IDTDZgvti), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Choo Liya](https://open.spotify.com/album/0bm7EwOK7BLJUrrx0J9Sm6) | 3:03 |
 | 50 | [Jadoo](https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Jadoo](https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1) | 3:10 |
 
-Snapshot ID: `MTY4MjA0MzQ4MCwwMDAwMDAwMGJhYTJlMjRlZTY5NWUxM2UzZjE0MGJiYTMyN2VjMThj`
+Snapshot ID: `MCxiNWNiYWEwYWNkN2Q5MTdkZTRmODQ5ZDU3MTkzMDJkMGJjZDE4YzI3`

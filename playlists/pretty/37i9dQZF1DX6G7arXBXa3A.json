@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 381781,
+  "num_followers": 381840,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTI2MCwwMDAwMDAwMGZmODJhOGM4NTIwMDk3ODc4MWUwYTQyYzRkMDVkODRl",
+  "snapshot_id": "MCw2MzYxMWQyNmIzZjgxZGY3ZDY5OGU0MWJhZmM2YTNlZDNmMTlkOGMz",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "More Smiles",
-        "url": "https://open.spotify.com/album/4Pyfz10lCoDGuFISUxLZmg"
-      },
-      "artists": [
-        {
-          "name": "The Kenny Clarke-Francy Boland Big Band",
-          "url": "https://open.spotify.com/artist/7C6sfpvSQJ9V0i4hDW9ciO"
-        }
-      ],
-      "duration_ms": 254413,
-      "name": "Lullaby of the Leaves",
-      "url": "https://open.spotify.com/track/6FyP9sU6l9JhHIPW2yfJnu"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Welcome to My Dream",
         "url": "https://open.spotify.com/album/0DdGWUa83ELS8iOT66bo1o"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 195030,
       "name": "Woodchopper\u2019s Ball",
       "url": "https://open.spotify.com/track/28Ku0JK5FGK2tNdfI0rzXz"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "More Smiles",
+        "url": "https://open.spotify.com/album/4Pyfz10lCoDGuFISUxLZmg"
+      },
+      "artists": [
+        {
+          "name": "The Kenny Clarke-Francy Boland Big Band",
+          "url": "https://open.spotify.com/artist/7C6sfpvSQJ9V0i4hDW9ciO"
+        }
+      ],
+      "duration_ms": 254413,
+      "name": "Lullaby of the Leaves",
+      "url": "https://open.spotify.com/track/6FyP9sU6l9JhHIPW2yfJnu"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -849,6 +849,22 @@
       "url": "https://open.spotify.com/track/0C5Pl5iQGnqrnguPjrriUP"
     },
     {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Inspiration (A Tribute To Nat King Cole)",
+        "url": "https://open.spotify.com/album/7CVBlFmDZnYjHyP6G0aj0m"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 162080,
+      "name": "Just One Of Those Things",
+      "url": "https://open.spotify.com/track/6QZ4ZhD8hGVTfwoN2Ypl4Z"
+    },
+    {
       "added_at": "2022-07-22 04:02:00",
       "album": {
         "name": "I Can't Turn You Loose",
@@ -875,30 +891,6 @@
       "duration_ms": 314973,
       "name": "I Can't Turn You Loose",
       "url": "https://open.spotify.com/track/7oo9DCy6AxzkWkzxF3GTzb"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Your Mind Is on Vacation",
-        "url": "https://open.spotify.com/album/7lDZoPjoOVUJaO08NtTGzK"
-      },
-      "artists": [
-        {
-          "name": "Lou Pomanti",
-          "url": "https://open.spotify.com/artist/4dSjbjQP6Si6yNXMCG19UW"
-        },
-        {
-          "name": "David Clayton-Thomas",
-          "url": "https://open.spotify.com/artist/0iC9XXKywTVieFeRoYSZoa"
-        },
-        {
-          "name": "John Finley",
-          "url": "https://open.spotify.com/artist/5jUfKEW1EYW7tpOerSOWWr"
-        }
-      ],
-      "duration_ms": 186598,
-      "name": "Your Mind Is on Vacation",
-      "url": "https://open.spotify.com/track/7F0owhC3XEnUACoLcnyCHJ"
     }
   ],
   "unique_name": "Big Band",

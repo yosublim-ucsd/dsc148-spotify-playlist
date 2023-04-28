@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 746189,
+  "num_followers": 746257,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MjA0OTYwMCwwMDAwMDAwMGE2MWQyNjRiNWVjNjQ3MWQ3N2MzYWZlZGI0NzRkY2Iw",
+  "snapshot_id": "MCw1ZjEzYmQxMDkzZjZkZTJiM2I3ZmZkNzc2YWQ0OTJkYTYwYTFmYzFl",
   "tracks": [
     {
       "added_at": "2023-04-07 04:00:00",
@@ -321,20 +321,28 @@
       "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
+      "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Breaking Point",
-        "url": "https://open.spotify.com/album/4dyk9fUSB7SfSQE0CbyQI4"
+        "name": "Good & Plenty",
+        "url": "https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl"
       },
       "artists": [
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "Jack Dine",
+          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
         }
       ],
-      "duration_ms": 293571,
-      "name": "Breaking Point",
-      "url": "https://open.spotify.com/track/2Eg5fW5yInLRGszS4s9eN6"
+      "duration_ms": 204705,
+      "name": "Good & Plenty",
+      "url": "https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe"
     },
     {
       "added_at": "2022-10-03 05:27:10",
@@ -385,28 +393,20 @@
       "url": "https://open.spotify.com/track/5n6pFWEIz6KlcAsZL4J7O3"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Good & Plenty",
-        "url": "https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl"
+        "name": "Breaking Point",
+        "url": "https://open.spotify.com/album/4dyk9fUSB7SfSQE0CbyQI4"
       },
       "artists": [
         {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "Jack Dine",
-          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 204705,
-      "name": "Good & Plenty",
-      "url": "https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe"
+      "duration_ms": 293571,
+      "name": "Breaking Point",
+      "url": "https://open.spotify.com/track/2Eg5fW5yInLRGszS4s9eN6"
     },
     {
       "added_at": "2022-08-26 04:46:22",
@@ -1157,6 +1157,22 @@
       "url": "https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH"
     },
     {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/2GZLxm0djV5NUNdes4kYv0"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "duration_ms": 156622,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/4UZxlB4kClh746mupKTDer"
+    },
+    {
       "added_at": "2022-09-09 04:08:19",
       "album": {
         "name": "Queen Space (with Summer Walker)",
@@ -1199,22 +1215,6 @@
       "duration_ms": 221893,
       "name": "Mulholland Drive",
       "url": "https://open.spotify.com/track/70RUzztH81zpAMm9jbMLDi"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/2GZLxm0djV5NUNdes4kYv0"
-      },
-      "artists": [
-        {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
-        }
-      ],
-      "duration_ms": 156622,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/4UZxlB4kClh746mupKTDer"
     },
     {
       "added_at": "2022-09-30 04:06:57",
@@ -1281,6 +1281,38 @@
       "url": "https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh"
     },
     {
+      "added_at": "2022-10-03 05:27:10",
+      "album": {
+        "name": "age/sex/location",
+        "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 243085,
+      "name": "Mean Mug",
+      "url": "https://open.spotify.com/track/4a125pvXw0CxxpN7yHDgUY"
+    },
+    {
+      "added_at": "2022-10-03 05:27:10",
+      "album": {
+        "name": "Pineapple Cognac",
+        "url": "https://open.spotify.com/album/29R9YV27YP2ZZI7P8x58mM"
+      },
+      "artists": [
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        }
+      ],
+      "duration_ms": 134166,
+      "name": "Pineapple Cognac",
+      "url": "https://open.spotify.com/track/6WWBltBaOkJ7qpcNVO4jeV"
+    },
+    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "All About You",
@@ -1301,36 +1333,20 @@
       "url": "https://open.spotify.com/track/2uddLj27GIDBIdwRuIomE4"
     },
     {
-      "added_at": "2022-10-03 05:27:10",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Pineapple Cognac",
-        "url": "https://open.spotify.com/album/29R9YV27YP2ZZI7P8x58mM"
+        "name": "AM/FM",
+        "url": "https://open.spotify.com/album/5C7wsbtvtoVg24iVKGqSD1"
       },
       "artists": [
         {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+          "name": "rum.gold",
+          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
         }
       ],
-      "duration_ms": 134166,
-      "name": "Pineapple Cognac",
-      "url": "https://open.spotify.com/track/6WWBltBaOkJ7qpcNVO4jeV"
-    },
-    {
-      "added_at": "2022-10-03 05:27:10",
-      "album": {
-        "name": "age/sex/location",
-        "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 243085,
-      "name": "Mean Mug",
-      "url": "https://open.spotify.com/track/4a125pvXw0CxxpN7yHDgUY"
+      "duration_ms": 165752,
+      "name": "AM/FM",
+      "url": "https://open.spotify.com/track/5PCW8qWmZfqBhs5UmuG5wU"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1351,22 +1367,6 @@
       "duration_ms": 244620,
       "name": "How Deep Is Your Love - Acoustic Version",
       "url": "https://open.spotify.com/track/1iovqTYo2kvTWRGhRQPDPV"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "AM/FM",
-        "url": "https://open.spotify.com/album/5C7wsbtvtoVg24iVKGqSD1"
-      },
-      "artists": [
-        {
-          "name": "rum.gold",
-          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
-        }
-      ],
-      "duration_ms": 165752,
-      "name": "AM/FM",
-      "url": "https://open.spotify.com/track/5PCW8qWmZfqBhs5UmuG5wU"
     },
     {
       "added_at": "2022-08-26 04:46:22",
@@ -1473,22 +1473,6 @@
       "url": "https://open.spotify.com/track/0mGuqhdpKtKv6KajTmCLFI"
     },
     {
-      "added_at": "2023-02-12 14:52:23",
-      "album": {
-        "name": "I Need To Know",
-        "url": "https://open.spotify.com/album/18jbgIaS5OO0tDykAUMs07"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 240889,
-      "name": "I Need To Know",
-      "url": "https://open.spotify.com/track/2pQb0GnMbJHdUJu5dIQ3hw"
-    },
-    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "Kaleidoscope",
@@ -1503,6 +1487,22 @@
       "duration_ms": 199903,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/6WS3DY0dzclqrAZae3E2KV"
+    },
+    {
+      "added_at": "2023-02-12 14:52:23",
+      "album": {
+        "name": "I Need To Know",
+        "url": "https://open.spotify.com/album/18jbgIaS5OO0tDykAUMs07"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 240889,
+      "name": "I Need To Know",
+      "url": "https://open.spotify.com/track/2pQb0GnMbJHdUJu5dIQ3hw"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1561,22 +1561,6 @@
       "url": "https://open.spotify.com/track/52sbd2ZlFF3PLm0wO3EFL6"
     },
     {
-      "added_at": "2022-11-18 18:12:42",
-      "album": {
-        "name": "I'll Wait",
-        "url": "https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR"
-      },
-      "artists": [
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
-        }
-      ],
-      "duration_ms": 231879,
-      "name": "I'll Wait",
-      "url": "https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I"
-    },
-    {
       "added_at": "2022-09-09 04:08:19",
       "album": {
         "name": "GREENZONE 108",
@@ -1593,20 +1577,20 @@
       "url": "https://open.spotify.com/track/5MzQInSkVMQhfrSGIPE2JT"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2022-11-18 18:12:42",
       "album": {
-        "name": "God Herself",
-        "url": "https://open.spotify.com/album/4gD5t8iVHYQSNLPd43u58H"
+        "name": "I'll Wait",
+        "url": "https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR"
       },
       "artists": [
         {
-          "name": "Madison McFerrin",
-          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
         }
       ],
-      "duration_ms": 152405,
-      "name": "God Herself",
-      "url": "https://open.spotify.com/track/10bH3xbZFCRWpOLecfKpLe"
+      "duration_ms": 231879,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1623,6 +1607,22 @@
       "duration_ms": 246680,
       "name": "Get it Got it",
       "url": "https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "God Herself",
+        "url": "https://open.spotify.com/album/4gD5t8iVHYQSNLPd43u58H"
+      },
+      "artists": [
+        {
+          "name": "Madison McFerrin",
+          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
+        }
+      ],
+      "duration_ms": 152405,
+      "name": "God Herself",
+      "url": "https://open.spotify.com/track/10bH3xbZFCRWpOLecfKpLe"
     },
     {
       "added_at": "2022-08-26 04:46:22",
@@ -1657,6 +1657,26 @@
       "url": "https://open.spotify.com/track/36m5Fi9MUE98AtYnOjsYJp"
     },
     {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Show Her The Way",
+        "url": "https://open.spotify.com/album/5l7H2sueEPAHGGly08PkJS"
+      },
+      "artists": [
+        {
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        },
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        }
+      ],
+      "duration_ms": 242431,
+      "name": "Show Her The Way",
+      "url": "https://open.spotify.com/track/05JIFzIzIFqS9Gms1b4TUr"
+    },
+    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Go b/w Fight Club",
@@ -1687,42 +1707,6 @@
       "duration_ms": 312373,
       "name": "Like a Ship - Live from Strange Manor",
       "url": "https://open.spotify.com/track/6J6InHh9eVYIxva60QTB5e"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "beat of a slow dance",
-        "url": "https://open.spotify.com/album/6QWYbXVAi3YgX7ei2ktF3d"
-      },
-      "artists": [
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        },
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        }
-      ],
-      "duration_ms": 234799,
-      "name": "beat of a slow dance",
-      "url": "https://open.spotify.com/track/1lhSO8JusksTEPOV7zchg1"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "SEA/SONS",
-        "url": "https://open.spotify.com/album/5uS5w8V1auSyzYDsVgDQIQ"
-      },
-      "artists": [
-        {
-          "name": "Abraham Alexander",
-          "url": "https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN"
-        }
-      ],
-      "duration_ms": 198321,
-      "name": "D\u00e9j\u00e0 Vu (ft. Mavis Staples)",
-      "url": "https://open.spotify.com/track/2copPxM13iCTKG9rJNNxGr"
     },
     {
       "added_at": "2022-09-09 04:08:19",
@@ -1759,6 +1743,42 @@
       "duration_ms": 228000,
       "name": "Foolish",
       "url": "https://open.spotify.com/track/3FmHd3XrPO1zIkPq5QvPj5"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "SEA/SONS",
+        "url": "https://open.spotify.com/album/5uS5w8V1auSyzYDsVgDQIQ"
+      },
+      "artists": [
+        {
+          "name": "Abraham Alexander",
+          "url": "https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN"
+        }
+      ],
+      "duration_ms": 198321,
+      "name": "D\u00e9j\u00e0 Vu (ft. Mavis Staples)",
+      "url": "https://open.spotify.com/track/2copPxM13iCTKG9rJNNxGr"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "beat of a slow dance",
+        "url": "https://open.spotify.com/album/6QWYbXVAi3YgX7ei2ktF3d"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "duration_ms": 234799,
+      "name": "beat of a slow dance",
+      "url": "https://open.spotify.com/track/1lhSO8JusksTEPOV7zchg1"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1803,22 +1823,6 @@
       "duration_ms": 257153,
       "name": "Of Another Kind (feat. Milan Ring & Jerome Farah)",
       "url": "https://open.spotify.com/track/7jLsZNfZHaUfWtdQw5tmvK"
-    },
-    {
-      "added_at": "2022-09-09 04:08:19",
-      "album": {
-        "name": "Angels & Queens",
-        "url": "https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 199796,
-      "name": "Angels & Queens",
-      "url": "https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO"
     }
   ],
   "unique_name": "Soul Coffee",

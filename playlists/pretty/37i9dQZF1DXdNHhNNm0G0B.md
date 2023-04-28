@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 
 > Relax to the sounds of acoustic blues and folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,433 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,442 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 8 | [Cumberland Gap](https://open.spotify.com/track/1W3WoQ2ECZzQnpOEt3XZVK) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Nothing We Say \- EP](https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7) | 2:13 |
 | 9 | [Better Day](https://open.spotify.com/track/4iSvnsxzZBte3qgstEd5qI) | [Sonny Terry and Brownie McGhee](https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw) | [Brownie McGhee and Sonny Terry Sing](https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv) | 3:04 |
 | 10 | [Mesquite Shade](https://open.spotify.com/track/39vGhSkzHBGwEnSi5PNKNn) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW) | [Mercury](https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv) | 1:36 |
-| 11 | [Tumbling Tumbleweeds](https://open.spotify.com/track/6nHsZuDMPSyRQ90gBhaXoS) | [Leo Kottke](https://open.spotify.com/artist/6cjuHeJM6CHRUhIhApwFwx) | [Guitar Music](https://open.spotify.com/album/45GOwuG1VZqnLfdvPuZ2oj) | 2:44 |
-| 12 | [Bumble Bee](https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R) | [Peter Case](https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3) | [The Midnight Broadcast](https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6) | 3:34 |
+| 11 | [Bumble Bee](https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R) | [Peter Case](https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3) | [The Midnight Broadcast](https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6) | 3:34 |
+| 12 | [Tumbling Tumbleweeds](https://open.spotify.com/track/6nHsZuDMPSyRQ90gBhaXoS) | [Leo Kottke](https://open.spotify.com/artist/6cjuHeJM6CHRUhIhApwFwx) | [Guitar Music](https://open.spotify.com/album/45GOwuG1VZqnLfdvPuZ2oj) | 2:44 |
 | 13 | [They're Red Hot \- SA.2627\-1](https://open.spotify.com/track/4vrPulRxzgljqsYtgGQrpk) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [The Centennial Collection](https://open.spotify.com/album/0MG8ODOjmgu62MpgeS9dRF) | 2:58 |
 | 14 | [Butter and Eggs](https://open.spotify.com/track/1ba8qyfCD9olHnAfGGgxts) | [Julian Lage & Chris Eldridge](https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf) | [Avalon](https://open.spotify.com/album/1UC7rVuAprZfBehFxiAGDr) | 3:24 |
 | 15 | [Well Well Well](https://open.spotify.com/track/6Gr0nYfH4DpKYrAggRGGZZ) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Blues In Mono](https://open.spotify.com/album/2IQagMayRx6kAilOpLcBhs) | 2:30 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 42 | [Trouble In Mind](https://open.spotify.com/track/0ESNFiz1ATKj4fQyqJHmhE) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Blowin' The Fuses](https://open.spotify.com/album/01wckDXMEr0cA2tCTwu1jT) | 2:57 |
 | 43 | [Hemet Pine Singer](https://open.spotify.com/track/0aNyZsNQZykSvoiwrjhBFB) | [Will Stratton](https://open.spotify.com/artist/7vy0OevOpPswNjEUxXPhaR) | [Imaginational Anthem Vol\. 5](https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE) | 3:49 |
 | 44 | [Meet Me In The City](https://open.spotify.com/track/3Sb7h17Qy7WXTakdLyLacB) | [Duwayne Burnside](https://open.spotify.com/artist/7nJeSjRUD2PUN4aSYhXkA3) | [Acoustic Burnside](https://open.spotify.com/album/1LLHOFLIfGw0mebbkQrkHr) | 3:17 |
-| 45 | [County Farm Blues](https://open.spotify.com/track/1ycQB39KcU6DcdfY3XFyXR) | [Johnny Stachela](https://open.spotify.com/artist/0S1BmerVaINiJar88KgNzi) | [County Farm Blues](https://open.spotify.com/album/0xQyiVS5BLQzBmfOuUxIzx) | 2:44 |
-| 46 | [Detroit Blues](https://open.spotify.com/track/5rJbBdz2yN7ZPIPjX70Foq) | [Danny Kroha](https://open.spotify.com/artist/0amf91cUep3YKQ5R7NJ1Mb) | [Detroit Blues](https://open.spotify.com/album/5r7zpXdCkM4wED1dVgXI70) | 2:49 |
+| 45 | [Detroit Blues](https://open.spotify.com/track/5rJbBdz2yN7ZPIPjX70Foq) | [Danny Kroha](https://open.spotify.com/artist/0amf91cUep3YKQ5R7NJ1Mb) | [Detroit Blues](https://open.spotify.com/album/5r7zpXdCkM4wED1dVgXI70) | 2:49 |
+| 46 | [County Farm Blues](https://open.spotify.com/track/1ycQB39KcU6DcdfY3XFyXR) | [Johnny Stachela](https://open.spotify.com/artist/0S1BmerVaINiJar88KgNzi) | [County Farm Blues](https://open.spotify.com/album/0xQyiVS5BLQzBmfOuUxIzx) | 2:44 |
 | 47 | [Trouble in Mind](https://open.spotify.com/track/1ymBUTnXZpFaefVJxvoDjL) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [New Orleans Street Singer](https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu) | 2:50 |
 | 48 | [Sarah Anne](https://open.spotify.com/track/6G6eM490aDeluKpsDeCLyb) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Jesus I'm a Sinner](https://open.spotify.com/album/398IZHABZSTKg102AxTtTO) | 6:52 |
 | 49 | [Plains of Waterloo / James Connolly](https://open.spotify.com/track/2JL9T7W6C9O0dYR8TO1FLg) | [Martin Simpson](https://open.spotify.com/artist/5nUScDmyGIvoX7ol79YnBQ) | [Bootleg USA](https://open.spotify.com/album/3ceu61cumgwBG11W6fUVvJ) | 5:39 |
@@ -74,12 +74,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 64 | [The Drifter Blues](https://open.spotify.com/track/7xYH9C4xkI1xIW4Juq5bf6) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [New Orleans Street Singer](https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu) | 3:51 |
 | 65 | [When You Got a Good Friend](https://open.spotify.com/track/1NPWchV6p9SBsGEVTqoFyc) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Doyle Bramhall II](https://open.spotify.com/artist/7Chzu4eSaqDHFXFvjaycAV) | [Brother Johnny](https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa) | 3:52 |
 | 66 | [There Is a Place in This Old Town](https://open.spotify.com/track/3s6SkrBG4hBEZ0t1XpyXz7) | [Nick Schillace](https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM) | [Imaginational Anthem Vol\. 5](https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE) | 4:48 |
-| 67 | [Friar's Point Blues](https://open.spotify.com/track/3cwOZlayYhxMNQgEJEyp8r) | [Robert Nighthawk](https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG) | [Presenting Robert Nighthawk](https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS) | 2:54 |
-| 68 | [The Man From Nowhere](https://open.spotify.com/track/6LAiCNbCebsCf5M8w8A2Ws) | [Dom Martin](https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ) | [A Savage Life](https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B) | 3:06 |
-| 69 | [Way Down Yonder Blues](https://open.spotify.com/track/5cMLUxRl1dO83NLNgo8by9) | [Lemuel Turner](https://open.spotify.com/artist/6W3S0STPYle2QmDNLGAzmS) | [Turn Me Loose: Outsiders of Old\-Time Music](https://open.spotify.com/album/690HtrG9fKZnEp5fq8ed7Y) | 3:12 |
+| 67 | [The Man From Nowhere](https://open.spotify.com/track/6LAiCNbCebsCf5M8w8A2Ws) | [Dom Martin](https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ) | [A Savage Life](https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B) | 3:06 |
+| 68 | [Friar's Point Blues](https://open.spotify.com/track/3cwOZlayYhxMNQgEJEyp8r) | [Robert Nighthawk](https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG) | [Presenting Robert Nighthawk](https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS) | 2:54 |
+| 69 | [Keepin On](https://open.spotify.com/track/2o63bYzr3IwgehTtlU0Fk3) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Nickel for Your Troubles](https://open.spotify.com/album/7BehaPSDwpwY35CddZrreY) | 2:48 |
 | 70 | [Long Nights I](https://open.spotify.com/track/0sqPuYdMB9O4OYRuPybCsB) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Seven Pines](https://open.spotify.com/album/6dn1vnsJx3NmheYFTjbaJV) | 4:05 |
 | 71 | [Right Kind of Trouble](https://open.spotify.com/track/1CZ8Z3XLlhWuR8XH509ZDp) | [Elly Wininger](https://open.spotify.com/artist/3k76bXCZIz5biiGbFrUBMJ) | [The Blues Never End](https://open.spotify.com/album/43w78hH7AEQmunINV8bxw1) | 4:21 |
-| 72 | [Keepin On](https://open.spotify.com/track/2o63bYzr3IwgehTtlU0Fk3) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Nickel for Your Troubles](https://open.spotify.com/album/7BehaPSDwpwY35CddZrreY) | 2:48 |
+| 72 | [Way Down Yonder Blues](https://open.spotify.com/track/5cMLUxRl1dO83NLNgo8by9) | [Lemuel Turner](https://open.spotify.com/artist/6W3S0STPYle2QmDNLGAzmS) | [Turn Me Loose: Outsiders of Old\-Time Music](https://open.spotify.com/album/690HtrG9fKZnEp5fq8ed7Y) | 3:12 |
 | 73 | [How Long Blues](https://open.spotify.com/track/7oqooYaiu59aIVRxWWKQX9) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Country Blues Of John Lee Hooker](https://open.spotify.com/album/0CHr7nfBBFriUQqSqQw8pt) | 2:14 |
 | 74 | [Top Cat](https://open.spotify.com/track/14SADKuKjAiMLlPfTkKUok) | [Ruth Wyand](https://open.spotify.com/artist/6DeVlBIJsrUt0kvPFkUYBh) | [Guitar Routes](https://open.spotify.com/album/3DLyhtsqBSyJem8dSVXqTb) | 2:34 |
 | 75 | [Frisco Blues](https://open.spotify.com/track/7e1WYEzC9wZwlAaCmvSJPW) | [Bayless Rose](https://open.spotify.com/artist/3IUvB4k0XiutzRg2utdL9M) | [Black Dog Blues](https://open.spotify.com/album/7IHg6vllMBDdKuIcx9Lu72) | 3:09 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 79 | [Hurt Me](https://open.spotify.com/track/5Ul9TZbc9nKI9BWlq4vHZO) | [Jackson Lynch](https://open.spotify.com/artist/2scbHpKBvC3nXnWHkWluvb) | [Hurt Me](https://open.spotify.com/album/3BJs6falFjNzolCOEBYDUB) | 2:35 |
 | 80 | [Wayfaring Stranger](https://open.spotify.com/track/4cQfiT5DgSOew8bZp1WaOW) | [Shake the Disease](https://open.spotify.com/artist/1YQSXwt14XWwFm2PI9VcFs) | [St\. James Infirmary Blues / Wayfaring Stranger \(Radio Edit\)](https://open.spotify.com/album/0iZaqrALa2jaXEvXNlqhuL) | 3:42 |
 
-Snapshot ID: `MTY4MTQwMTc3MiwwMDAwMDAwMGM3Njk4ZTc4Njk5MzU4Zjc2MzZmMDM0YzViMjkzMzky`
+Snapshot ID: `MCxmM2Y2OWI5NTNlZDI1MDIwNDI4NGViNTY3MTQ4MmM0NDQzMDRiYzVm`

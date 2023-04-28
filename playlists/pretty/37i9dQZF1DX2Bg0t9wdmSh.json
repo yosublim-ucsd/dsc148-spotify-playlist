@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/justinlaboy/\">Justin LaBoy</a>",
-  "num_followers": 3891,
+  "num_followers": 3917,
   "original_name": "Justin Laboy's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDU5NiwwMDAwMDAwMGQxMWZiZjcxMTkxODQ5NTBlYjFmNzc3MTNiMjAyYWNj",
+  "snapshot_id": "MCwwZjg0MDJkMmVlYjQ1YmRhMzFiZjdkZGFjYjVjZWJhYjExYzZkZmZm",
   "tracks": [
     {
       "added_at": "2022-10-01 16:09:56",
@@ -451,6 +451,22 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
+        "name": "Raydiation",
+        "url": "https://open.spotify.com/album/6ZLE8nIut6t3CXt1dIpSh6"
+      },
+      "artists": [
+        {
+          "name": "Ray J",
+          "url": "https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0"
+        }
+      ],
+      "duration_ms": 337640,
+      "name": "One Wish",
+      "url": "https://open.spotify.com/track/2TFsx3B0hLSSTambrudXs3"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
         "name": "Collection One",
         "url": "https://open.spotify.com/album/6SInUyQqx0RZaVTSEioHkD"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 228796,
       "name": "That\u2019s It",
       "url": "https://open.spotify.com/track/5n6gBhdEjCuj3obgCoTEFD"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "Raydiation",
-        "url": "https://open.spotify.com/album/6ZLE8nIut6t3CXt1dIpSh6"
-      },
-      "artists": [
-        {
-          "name": "Ray J",
-          "url": "https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0"
-        }
-      ],
-      "duration_ms": 337640,
-      "name": "One Wish",
-      "url": "https://open.spotify.com/track/2TFsx3B0hLSSTambrudXs3"
     },
     {
       "added_at": "2022-10-01 16:09:56",

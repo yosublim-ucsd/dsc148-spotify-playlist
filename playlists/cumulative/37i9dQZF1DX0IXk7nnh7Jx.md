@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI?si=f757c25bb9da48e0">Madison Ryann Ward</a>
 
-327 songs - 20 hr 3 min
+328 songs - 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Little Bit of Faith](https://open.spotify.com/track/3EW6m7ejAsPQklHPqvkOCI) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [Zeal](https://open.spotify.com/album/1p9qFUWDth0hWAQYiKUB37) | 3:03 | 2020-12-18 | 2023-02-19 |
 | [A New Thing](https://open.spotify.com/track/1lzFtxdNGEUf3mWeqb6aBi) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [A New Thing](https://open.spotify.com/album/5e2Kuvl2v660idmQZMzXVz) | 3:37 | 2023-04-21 |  |
 | [Adoration](https://open.spotify.com/track/4JEZLVhxcUs3LDJlShOVKc) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a) | [Adoration](https://open.spotify.com/album/66aPP7iMWgeSRJ6mx0hKYI) | 1:53 | 2023-02-19 |  |
+| [All the Way Back](https://open.spotify.com/track/7IVb5aC9nepiHr4BlwLPtN) | [Calah Mikal](https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [All the Way Back](https://open.spotify.com/album/461UGIq9xPPZnqmnFzfV5k) | 4:21 | 2023-04-21 |  |
 | [All Things New](https://open.spotify.com/track/5tQ74kq8tXuYy3xjQGVvTw) | [Ethan Nathaniel](https://open.spotify.com/artist/5tGobqZ8J0XMtFl3H589Sv), [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [All Things New](https://open.spotify.com/album/39b7VyDouHisfAYV7cfzFf) | 3:34 | 2023-02-19 |  |
 | [All Things New](https://open.spotify.com/track/3Qh3FjLQl6VnJfXiXfe1jf) | [Page CXVI](https://open.spotify.com/artist/5TB43hYVZMxI193JCzyQJb) | [All Things New](https://open.spotify.com/album/1MKddIk19oLE9oyw3bJ4vN) | 4:19 | 2020-12-18 | 2022-07-29 |
 | [Alone Together](https://open.spotify.com/track/6U9KXC0ziE2wqjZVxZvBNr) | [Wild Harbors](https://open.spotify.com/artist/4cBdaEPEMs4Wp3H3ahLwYQ) | [Monument Part One](https://open.spotify.com/album/0xMYtMANdl7wBLmvnq7Gys) | 3:41 | 2020-12-18 | 2022-07-28 |
@@ -190,7 +191,7 @@
 | [Needed](https://open.spotify.com/track/7uUYwH6moimJ0iQmHVW9Jq) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Needed](https://open.spotify.com/album/17hveC08PQdEHxFQRTMsOd) | 2:55 | 2023-02-20 |  |
 | [Never Grow Tired](https://open.spotify.com/track/68m3fFj8up50boqi077Yr8) | [The Evidence](https://open.spotify.com/artist/4MED9DlaFRdyMhD445Wqxe) | [Never Grow Tired](https://open.spotify.com/album/6YsIjF6Wr2kPr25CVI3F7M) | 4:21 | 2020-12-18 | 2022-11-15 |
 | [New Song \(Psalm 40\)](https://open.spotify.com/track/5nCSaFxaoliN2NyUtFQOUU) | [The Dodds](https://open.spotify.com/artist/19PhCtCPPzv4CCepliG4hl) | [New Song \(Psalm 40\)](https://open.spotify.com/album/5SKIaSs8T7xHbPAfQMBvaY) | 4:14 | 2020-12-18 | 2023-02-19 |
-| [No Height No Depth \- Live](https://open.spotify.com/track/0lcDv3jjwGTMDzA63ML2BZ) | [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz) | [No Height No Depth \(Live\)](https://open.spotify.com/album/1RrxjsU3bsvORs3mD8HvFO) | 6:33 | 2023-02-19 |  |
+| [No Height No Depth \- Live](https://open.spotify.com/track/0lcDv3jjwGTMDzA63ML2BZ) | [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz) | [No Height No Depth \(Live\)](https://open.spotify.com/album/1RrxjsU3bsvORs3mD8HvFO) | 6:33 | 2023-02-19 | 2023-04-28 |
 | [No More Wasted Years](https://open.spotify.com/track/16ezlD3gIKOeY7hb2911Dm) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Royce Lovett](https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N), [Nikki Holguin](https://open.spotify.com/artist/0al1p0MaMEwJmrbteVu3rw) | [No More Wasted Years](https://open.spotify.com/album/3HIwxeFNEU6MfZ5N7iK1EG) | 3:18 | 2023-04-07 | 2023-04-22 |
 | [No Name Higher](https://open.spotify.com/track/1TtHwXMFMn08FbV7xLOolu) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [No Name Higher](https://open.spotify.com/album/0OixCbdiXloh7UGgnY4f7n) | 4:48 | 2023-02-19 |  |
 | [None Like You](https://open.spotify.com/track/23gYKYjZWdaSmug23zfKyQ) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Rory Mckenna](https://open.spotify.com/artist/3nfMxP6LLKjO9D6BfSmg2c) | [Hymns + Disparity](https://open.spotify.com/album/2HWxsVil1BGXvWhSZ55M8f) | 1:16 | 2023-02-19 |  |

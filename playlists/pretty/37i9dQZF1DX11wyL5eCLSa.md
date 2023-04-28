@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. El Mató a un Policía Motorizado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,273 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,359 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 74 | [Asi Estoy Yo Sin Ti](https://open.spotify.com/track/29BVNooeLb4Q7ua0e4H0K3) | [INSITE](https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX) | [Así Estoy Yo Sin Ti](https://open.spotify.com/album/4JPFmNJVYsKvAPTwxomYu0) | 4:40 |
 | 75 | [Brillando](https://open.spotify.com/track/0LWWuL2b4xRHe0AzerNRl6) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Brillando](https://open.spotify.com/album/3cpu7Bc6c6VQw6VBnHw6i6) | 4:31 |
 
-Snapshot ID: `MTY4MjA1NjgwMCwwMDAwMDAwMGM5NDFjMTBmMDUxMTkyMmU2YjIxZWMyNWNjMjA0NmMz`
+Snapshot ID: `MCw1Mzg5NWQ1ZmMyZGQxYjEyZjA0Njc4MzkwYzc3ZjI1ODE3YmNlNTU2`

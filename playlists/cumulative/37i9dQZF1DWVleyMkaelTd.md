@@ -4,7 +4,7 @@
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-144 songs - 9 hr 12 min
+146 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Over the Rainbow](https://open.spotify.com/track/4oVtVfH5Byf8mRThHC8ZSb) | [Xavier Mendoza](https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73) | [Over the Rainbow](https://open.spotify.com/album/4QHX19CSzvmLopSHU6XIiE) | 3:06 | 2022-12-08 | 2023-01-13 |
 | [Pra Machucar Meu Coração](https://open.spotify.com/track/5uhAtnaJcQcPuR8bHU6TKe) | [Rosa Passos](https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP) | [Letra & Música Ary Barroso – Rosa Passos e Lula Galvão](https://open.spotify.com/album/24mfpDgch1Xr8qzJuqUi1Q) | 6:16 | 2022-04-26 |  |
 | [Praia à noite](https://open.spotify.com/track/5nSgChBrcg32gzwJprrrIt) | [C\. Moreira](https://open.spotify.com/artist/3k0cZx5vqDLFwJFYJwbD02) | [Praia à noite](https://open.spotify.com/album/2qGrmHUuZHRkayn9YdZxH7) | 3:00 | 2022-04-26 |  |
+| [Presságio](https://open.spotify.com/track/5BdyZTa9TXXdLfOvvwhgGH) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Presságio](https://open.spotify.com/album/7LhUawCpzHAfH4MZ3zBLlb) | 6:37 | 2023-04-27 |  |
 | [Puxar Do Amor](https://open.spotify.com/track/3156vqIutz0l7K9rfn3Hyg) | [Vitor Vagner](https://open.spotify.com/artist/18kiPS1TIJ9akOTddrW7DH) | [Puxar Do Amor](https://open.spotify.com/album/3NA3vF96CZMerNw6J4hGAC) | 2:05 | 2022-04-26 |  |
 | [Pão de Açúcar](https://open.spotify.com/track/07ZdqvJ37JIGrbybE2iVPZ) | [El Equipo Del Norte](https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U) | [Pão de Açúcar](https://open.spotify.com/album/5qz7sVtLSdqQatSiYUpJWM) | 3:42 | 2022-04-26 |  |
 | [Pôr Do Sol Perfeito](https://open.spotify.com/track/3dwbmNoBG2cGFeOtVtPJ8H) | [Jeferson Rios](https://open.spotify.com/artist/4PswPp5S57DQ5RJ39Y5Fj6) | [O Sabor Mais Doce](https://open.spotify.com/album/1sdxkpmLhPsz8JI1dunCFo) | 3:27 | 2022-04-26 |  |
@@ -127,6 +128,7 @@
 | [River of Dreams](https://open.spotify.com/track/303q7nGbVGdxUvbhbEfHzS) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [River of Dreams](https://open.spotify.com/album/7IID5V4pzViAAal8scWxWA) | 3:03 | 2022-10-13 |  |
 | [Sentido](https://open.spotify.com/track/11UuEgcia8bJ4lS1uaFdAE) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Sentido](https://open.spotify.com/album/0jmt8MYM4dZvhJ5sxsCAQa) | 2:28 | 2022-04-26 |  |
 | [Serenidad](https://open.spotify.com/track/1AFomBCec7hQLhPhgouIpQ) | [Emma dos Santos](https://open.spotify.com/artist/5BCrXE0QF0mUKYmQTk43gp) | [Serenidad](https://open.spotify.com/album/7aVycit4E2ZeTlVXU9J2xz) | 2:51 | 2022-04-26 |  |
+| [So In Love](https://open.spotify.com/track/2su3D4cHfobQLqFUdYc3xs) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Every Time We Say Goodbye](https://open.spotify.com/album/40tqbMBeLUEkJsVN6VKJB0) | 3:33 | 2023-04-27 |  |
 | [Something In The Air Between Us](https://open.spotify.com/track/1PMMDeHkTvLZBQiZU860BU) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Make Someone Happy](https://open.spotify.com/album/4n4OIAks8f10DuIhb4aLlm) | 4:12 | 2022-04-26 | 2022-08-11 |
 | [Song for My Father](https://open.spotify.com/track/6m4SAo4N6YGD5JJCLFoPDU) | [Sydney Taylor Band](https://open.spotify.com/artist/2M3GH9JFk7Z62j2XarUJ1g) | [Killer Joe](https://open.spotify.com/album/27bI53AGLeovNbXmBzUnN2) | 3:42 | 2022-04-26 |  |
 | [Sonhar Acordado](https://open.spotify.com/track/19mMhSofoLJlqIEDy46fZ2) | [Davide Sosa](https://open.spotify.com/artist/6h3NI13Spsuh4zJEuDjeY4) | [Insônia](https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ) | 4:37 | 2022-04-26 |  |

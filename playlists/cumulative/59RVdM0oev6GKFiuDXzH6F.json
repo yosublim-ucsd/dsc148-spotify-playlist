@@ -42,7 +42,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 145161,
       "name": "A Little Bit More",
       "url": "https://open.spotify.com/track/33bAyg26EB6VbKt6K1p1xd"
@@ -130,6 +130,28 @@
       "duration_ms": 151904,
       "name": "Al Perreo - Mixed",
       "url": "https://open.spotify.com/track/0BN9P0UYB4PUWpRrAG9wXt"
+    },
+    {
+      "album": {
+        "name": "All About U",
+        "url": "https://open.spotify.com/album/4G6sfkzJS5XDXQF2uAf2nh"
+      },
+      "artists": [
+        {
+          "name": "RSCL",
+          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
+        },
+        {
+          "name": "Marco Nobel",
+          "url": "https://open.spotify.com/artist/5PZS7XY3NZHDnI6g3wGyAB"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144193,
+      "name": "All About U",
+      "url": "https://open.spotify.com/track/1kqCF2ZDz4TLNE79MfmFVR"
     },
     {
       "album": {
@@ -312,7 +334,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 222439,
       "name": "Back To Back",
       "url": "https://open.spotify.com/track/1udsDxRlROykMOdAYY25Ms"
@@ -370,7 +392,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 297994,
       "name": "Bass A+",
       "url": "https://open.spotify.com/track/3bAnYvCjUiJlCso6mUKZHB"
@@ -392,6 +414,28 @@
       "duration_ms": 144677,
       "name": "Body To Body",
       "url": "https://open.spotify.com/track/66ApsTpsJru1RynMvTmR4V"
+    },
+    {
+      "album": {
+        "name": "Bossy",
+        "url": "https://open.spotify.com/album/0UaROBpNn1QFRlg2DHd8io"
+      },
+      "artists": [
+        {
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+        },
+        {
+          "name": "Krizman Toni",
+          "url": "https://open.spotify.com/artist/1gs5auXmVRzKT318H1yRJ0"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189119,
+      "name": "Bossy",
+      "url": "https://open.spotify.com/track/2LymA0AbWOxhdobdlHdhUL"
     },
     {
       "album": {
@@ -548,7 +592,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 205000,
       "name": "Comin' Back",
       "url": "https://open.spotify.com/track/3u672pLueDfjhsLBvERzKh"
@@ -1074,7 +1118,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 201659,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/6BSm5agl8YBZIbtYHconLX"
@@ -1143,6 +1187,24 @@
     },
     {
       "album": {
+        "name": "ICANEXPLAINIT",
+        "url": "https://open.spotify.com/album/5Uk0vSb5T0C7Vf47LGvDgg"
+      },
+      "artists": [
+        {
+          "name": "Costel Van Dein",
+          "url": "https://open.spotify.com/artist/2yA021LnprERtbeHcjAquF"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169211,
+      "name": "ICANEXPLAINIT",
+      "url": "https://open.spotify.com/track/6XM5bcDkY3IcRblU4TQguz"
+    },
+    {
+      "album": {
         "name": "IDGAF",
         "url": "https://open.spotify.com/album/2C4BfIuaOsejtPb6efGfOM"
       },
@@ -1162,7 +1224,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 130341,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/2NDU2YmIjgyOjiDx5rKK3O"
@@ -1437,6 +1499,24 @@
     },
     {
       "album": {
+        "name": "Like This",
+        "url": "https://open.spotify.com/album/5c2BKb5ZyD3H3h5tenKJSU"
+      },
+      "artists": [
+        {
+          "name": "Robert Falcon",
+          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170551,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/0ivA7bMXyVNFaQOceVI8EX"
+    },
+    {
+      "album": {
         "name": "Lluvia en Colombia (feat. El Mayam)",
         "url": "https://open.spotify.com/album/3f2u3ZowZuBrLbLqGyz0fi"
       },
@@ -1518,6 +1598,28 @@
       "duration_ms": 167468,
       "name": "Losing Control",
       "url": "https://open.spotify.com/track/4GEnreXJT5oRBx5LOB4MhA"
+    },
+    {
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/37A0GOcoVgdqwdiBzWf0bf"
+      },
+      "artists": [
+        {
+          "name": "Kitone",
+          "url": "https://open.spotify.com/artist/0G8avcrSozHqt8AJDrd4Xj"
+        },
+        {
+          "name": "Kapuzen",
+          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158095,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/0BsSe6UOLAyHjB0v6lgPmY"
     },
     {
       "album": {
@@ -1927,6 +2029,32 @@
     },
     {
       "album": {
+        "name": "Nikes (Vibratto Remix)",
+        "url": "https://open.spotify.com/album/6wMvy3jWbuYClWraGJMXOf"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Ron Carroll",
+          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
+        },
+        {
+          "name": "Vibratto",
+          "url": "https://open.spotify.com/artist/30ImX6Sl7GjwuAXE66eKlX"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153543,
+      "name": "Nikes (Vibratto Remix)",
+      "url": "https://open.spotify.com/track/7dZUxsCFtzly8XT2dqGMPN"
+    },
+    {
+      "album": {
         "name": "NYC BABY",
         "url": "https://open.spotify.com/album/6Ym9zpIrOmmfZmVI1ArSjE"
       },
@@ -1960,7 +2088,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 216368,
       "name": "One Time",
       "url": "https://open.spotify.com/track/5Sq0xF5p4Wf8Cma4u8RLkp"
@@ -2296,7 +2424,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 141093,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/4N4xtDgLIqGhPG5ikMqP3k"
@@ -2435,6 +2563,24 @@
     },
     {
       "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/1sWUGNM4LPioPu0Ydw74so"
+      },
+      "artists": [
+        {
+          "name": "Timothy Allen",
+          "url": "https://open.spotify.com/artist/1J3F8i76zPIBrnfF8blMBN"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131428,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/4U89t1EEap9oPaqz0p9z08"
+    },
+    {
+      "album": {
         "name": "Sleep Alone",
         "url": "https://open.spotify.com/album/698xAEjzQVWB3yuPvkSpRY"
       },
@@ -2512,6 +2658,24 @@
       "duration_ms": 140783,
       "name": "STRESS - Andry J Remix",
       "url": "https://open.spotify.com/track/2Zie9bbu0a4d8n4AHMuQjN"
+    },
+    {
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/56eNIDF7UTbl3Z8jw1Gofs"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200318,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/5Ly2w3jKYFvHbOv6Jf4HNM"
     },
     {
       "album": {
@@ -2698,7 +2862,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 140175,
       "name": "The Beat",
       "url": "https://open.spotify.com/track/7pACtmPKSQzRI2gFv0Idg7"
@@ -2822,7 +2986,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 245669,
       "name": "To The Night - Radio Edit",
       "url": "https://open.spotify.com/track/3rgcuqW66rKotXsCfrwkQJ"

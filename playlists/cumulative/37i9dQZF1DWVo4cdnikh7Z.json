@@ -11950,10 +11950,32 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-28",
       "duration_ms": 226800,
       "name": "Thaniye Thaniye",
       "url": "https://open.spotify.com/track/1w2GmkHbWAw9pOk7ZiXBzH"
+    },
+    {
+      "album": {
+        "name": "Thaniye Thaniye (From \"Nodigalal Naam Karaiya\") - Single",
+        "url": "https://open.spotify.com/album/3GtLshAvumYTqH3ImsCMQQ"
+      },
+      "artists": [
+        {
+          "name": "Madan Dhanasekaran",
+          "url": "https://open.spotify.com/artist/3bZGLnvP5jj9PzvqlEnr6O"
+        },
+        {
+          "name": "Kandhavel Muthukumar",
+          "url": "https://open.spotify.com/artist/0HSmpoD5y8KKajyoNBu7iN"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226800,
+      "name": "Thaniye Thaniye (From \"Nodigalal Naam Karaiya\")",
+      "url": "https://open.spotify.com/track/11G6aSQaCE8ASg5apqotMJ"
     },
     {
       "album": {
