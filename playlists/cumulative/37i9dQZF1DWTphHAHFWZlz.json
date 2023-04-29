@@ -363,6 +363,24 @@
     },
     {
       "album": {
+        "name": "Principio del Fin",
+        "url": "https://open.spotify.com/album/0I1uNlrv0RNdmWoUOIXe0m"
+      },
+      "artists": [
+        {
+          "name": "Riel",
+          "url": "https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196016,
+      "name": "Blanco & Negro",
+      "url": "https://open.spotify.com/track/2va2BhevjFmDTDU8QmgJxF"
+    },
+    {
+      "album": {
         "name": "Blanco & Negro",
         "url": "https://open.spotify.com/album/4wG2YePvIfmyUN61cFXSzO"
       },
@@ -374,7 +392,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 196016,
       "name": "Blanco & Negro",
       "url": "https://open.spotify.com/track/4SwidOXMXm7I4hJMziEPfA"
@@ -2042,7 +2060,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 196082,
       "name": "Los Chicos No Entienden",
       "url": "https://open.spotify.com/track/4qCfrEVTxcqvgWQucSUqyB"
@@ -2729,6 +2747,24 @@
     },
     {
       "album": {
+        "name": "Quimera",
+        "url": "https://open.spotify.com/album/1JI9ZZLKRWzQVzq38OsE0H"
+      },
+      "artists": [
+        {
+          "name": "Escorpia",
+          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302484,
+      "name": "Quebrada",
+      "url": "https://open.spotify.com/track/1L3xA6uzfTr0GVJU4fJZL4"
+    },
+    {
+      "album": {
         "name": "Parientes",
         "url": "https://open.spotify.com/album/0p22bJMkBBhstlPWua0iRI"
       },
@@ -3156,7 +3192,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 194847,
       "name": "Todo el Mal",
       "url": "https://open.spotify.com/track/7knGtNtfz5FOPEpBHtxn4h"

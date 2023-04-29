@@ -1,12 +1,12 @@
 {
   "description": "MADE of latin roots, MADE in the U.S. MADE to shine! Cover: DannyLux",
-  "num_followers": 19630,
+  "num_followers": 19635,
   "original_name": "MADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmY2ODg1NjY4ZjliN2UwNGQ5MjYzNDIzMzIxM2Y0ZWJmMDk4ZGEz",
+  "snapshot_id": "MCw4NDkyOGQzZDIyM2EyZjAwNzUxNWZiY2YxZDI5YTUyNDUwMTY4ZTVm",
   "tracks": [
     {
       "added_at": "2023-04-21 05:16:07",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "ALERGICA",
-        "url": "https://open.spotify.com/album/128gRYuCA4HlmI3vCiwl6l"
-      },
-      "artists": [
-        {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
-        }
-      ],
-      "duration_ms": 185389,
-      "name": "ALERGICA",
-      "url": "https://open.spotify.com/track/11Sakrqqq61WNucb48QGWy"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
         "name": "La Cancion",
         "url": "https://open.spotify.com/album/64WFuqvj8ABvZHvo9BoV0c"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 205600,
       "name": "La Canci\u00f3n",
       "url": "https://open.spotify.com/track/2weKT5Gn2nOEKSjtchYGUR"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
+        "name": "ALERGICA",
+        "url": "https://open.spotify.com/album/128gRYuCA4HlmI3vCiwl6l"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 185389,
+      "name": "ALERGICA",
+      "url": "https://open.spotify.com/track/11Sakrqqq61WNucb48QGWy"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "Futuro",
-        "url": "https://open.spotify.com/album/3f1hF4eTrVUq71O4Nj0Puf"
-      },
-      "artists": [
-        {
-          "name": "COASTCITY",
-          "url": "https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj"
-        }
-      ],
-      "duration_ms": 242374,
-      "name": "Futuro",
-      "url": "https://open.spotify.com/track/3jHL68prXOOuDrgz9jbIoT"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
         "name": "De La Nada",
         "url": "https://open.spotify.com/album/26d7Q4AHlzN1hBrXPvFIvQ"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "amorlove",
-        "url": "https://open.spotify.com/album/2fr723OoqF6nYM0ucTIuQ8"
+        "name": "Futuro",
+        "url": "https://open.spotify.com/album/3f1hF4eTrVUq71O4Nj0Puf"
       },
       "artists": [
         {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+          "name": "COASTCITY",
+          "url": "https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj"
         }
       ],
-      "duration_ms": 207720,
-      "name": "d\u00e9jame vivir",
-      "url": "https://open.spotify.com/track/087sEV24d6VtERT2aiW9T2"
+      "duration_ms": 242374,
+      "name": "Futuro",
+      "url": "https://open.spotify.com/track/3jHL68prXOOuDrgz9jbIoT"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -927,6 +911,22 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
+        "name": "amorlove",
+        "url": "https://open.spotify.com/album/2fr723OoqF6nYM0ucTIuQ8"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 207720,
+      "name": "d\u00e9jame vivir",
+      "url": "https://open.spotify.com/track/087sEV24d6VtERT2aiW9T2"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
         "name": "Funeral",
         "url": "https://open.spotify.com/album/6Foa8yfowcB9oqqD4NcjHA"
       },
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "La Ingenua",
-        "url": "https://open.spotify.com/album/7F9ZVsDDH12Z7L0sQULRt5"
-      },
-      "artists": [
-        {
-          "name": "La Cassandra",
-          "url": "https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw"
-        }
-      ],
-      "duration_ms": 217072,
-      "name": "La Ingenua",
-      "url": "https://open.spotify.com/track/4WuGyMWj0g7BO5WfiDyVJU"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
         "name": "BULLET PUT DOWN",
         "url": "https://open.spotify.com/album/6NVPlVd0X90je1Sd9rlriH"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 154302,
       "name": "BULLET PUT DOWN",
       "url": "https://open.spotify.com/track/7lNXNRgoTKXrbb2nr8mBGh"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
+        "name": "La Ingenua",
+        "url": "https://open.spotify.com/album/7F9ZVsDDH12Z7L0sQULRt5"
+      },
+      "artists": [
+        {
+          "name": "La Cassandra",
+          "url": "https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw"
+        }
+      ],
+      "duration_ms": 217072,
+      "name": "La Ingenua",
+      "url": "https://open.spotify.com/track/4WuGyMWj0g7BO5WfiDyVJU"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "Ideas In Mind",
-        "url": "https://open.spotify.com/album/1iiFx24WGvey7d0rIJtk1D"
-      },
-      "artists": [
-        {
-          "name": "Aroe Phoenix",
-          "url": "https://open.spotify.com/artist/6AkFDQFapnYQswNRaqPSVO"
-        }
-      ],
-      "duration_ms": 218076,
-      "name": "Ideas In Mind",
-      "url": "https://open.spotify.com/track/5zS8EhKARJ1G6wfTXuNBu0"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
         "name": "TQD",
         "url": "https://open.spotify.com/album/2oHIws9KI1JMfmbzmNEXoA"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 200022,
       "name": "TQD",
       "url": "https://open.spotify.com/track/3nY5WkZfpPbEesL0suAVqq"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
+        "name": "Ideas In Mind",
+        "url": "https://open.spotify.com/album/1iiFx24WGvey7d0rIJtk1D"
+      },
+      "artists": [
+        {
+          "name": "Aroe Phoenix",
+          "url": "https://open.spotify.com/artist/6AkFDQFapnYQswNRaqPSVO"
+        }
+      ],
+      "duration_ms": 218076,
+      "name": "Ideas In Mind",
+      "url": "https://open.spotify.com/track/5zS8EhKARJ1G6wfTXuNBu0"
     },
     {
       "added_at": "2023-04-21 05:16:07",

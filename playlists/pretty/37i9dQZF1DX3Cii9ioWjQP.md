@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Hanna Kim\(해나킴\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,422 likes - 95 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,427 likes - 95 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 94 | [Consolation](https://open.spotify.com/track/33SBaRtJMTaOVsqNZvYg2p) | [준킴 X 이한얼](https://open.spotify.com/artist/1zq70EDZpkLQXiNUsvdlI5) | [위로](https://open.spotify.com/album/6D4cKP9spFxsWYdbFkjQWu) | 9:39 |
 | 95 | [Purple Wave](https://open.spotify.com/track/34Shh5noYkuYyheOnzWs5g) | [J&](https://open.spotify.com/artist/1yt0psswSKE37IwwZVFeuc) | [Rising](https://open.spotify.com/album/0KNNPQuVGnTdmyuka4re6q) | 4:09 |
 
-Snapshot ID: `MCwxMGIzZmJiYTEzN2QyNTM2NzMzM2NkYTE5MjY2Njg3YzIzMzY2OGZl`
+Snapshot ID: `MCw3OWU0MDUzNTJjNWVmZjU1OGIwODFmM2NkYzlhYWQ2MjA5ZDc0YmUz`

@@ -1915,6 +1915,36 @@
     },
     {
       "album": {
+        "name": "Maybe Love | Shucked (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/5zsSxKEYbI8QpXNi2yyI6a"
+      },
+      "artists": [
+        {
+          "name": "Caroline Innerbichler",
+          "url": "https://open.spotify.com/artist/2azTMlva8DehSZ0wuIPUIL"
+        },
+        {
+          "name": "Grey Henson",
+          "url": "https://open.spotify.com/artist/3iMYbOWvKWy8lsjhf7Dkcf"
+        },
+        {
+          "name": "Ashley D. Kelley",
+          "url": "https://open.spotify.com/artist/7bvuydm8j7yzSIB9oQphUj"
+        },
+        {
+          "name": "Original Broadway Cast of Shucked",
+          "url": "https://open.spotify.com/artist/2Dc5cmoiYcZNXnI6BkDHDj"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151008,
+      "name": "Maybe Love",
+      "url": "https://open.spotify.com/track/1f9NPtObzwBvyBDcx737O6"
+    },
+    {
+      "album": {
         "name": "Cabaret (New Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/0MKMfSWHaerNA66swrz4he"
       },
@@ -3486,7 +3516,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 227173,
       "name": "We Don't Need Another Hero",
       "url": "https://open.spotify.com/track/33PhDXTlXEaEm8BvBVR3B7"

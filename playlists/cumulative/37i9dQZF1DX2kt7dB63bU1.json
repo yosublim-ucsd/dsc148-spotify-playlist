@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Songs From Sweetwater (The Motion Picture)",
+        "url": "https://open.spotify.com/album/6A9UjWvIFWBPGoz2VIBAdp"
+      },
+      "artists": [
+        {
+          "name": "Emmaline",
+          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216786,
+      "name": "After You've Gone",
+      "url": "https://open.spotify.com/track/6gKgpHghyWdA1YkzsUWTRe"
+    },
+    {
+      "album": {
         "name": "Fifty",
         "url": "https://open.spotify.com/album/1qYfeHecAvcQ75M8TSFIbf"
       },
@@ -726,6 +744,28 @@
       "duration_ms": 146797,
       "name": "Anything Goes",
       "url": "https://open.spotify.com/track/5fnjz2gnBth73KZE7wbyUX"
+    },
+    {
+      "album": {
+        "name": "April Fooled Me",
+        "url": "https://open.spotify.com/album/4dNnVif4W3SPzwH9vvjOid"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Mark Limacher",
+          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231400,
+      "name": "April Fooled Me",
+      "url": "https://open.spotify.com/track/4Lfn9B6tlGER7NVIHinhfX"
     },
     {
       "album": {
@@ -2154,7 +2194,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 138706,
       "name": "Comment Allez Vous",
       "url": "https://open.spotify.com/track/6lz582LMeRURcWgJIozmzm"
@@ -4064,7 +4104,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 170306,
       "name": "How High the Moon",
       "url": "https://open.spotify.com/track/3C3VHurxO0DQibbmDs9tvD"
@@ -4450,6 +4490,24 @@
       "duration_ms": 302920,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/091sKVcByJjBQVc8uZHZtK"
+    },
+    {
+      "album": {
+        "name": "I Miss You So",
+        "url": "https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223060,
+      "name": "I Miss You So",
+      "url": "https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul"
     },
     {
       "album": {
@@ -8708,10 +8766,40 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 397453,
       "name": "Seahorse Tranquilizer",
       "url": "https://open.spotify.com/track/5frZ1YDgUhJJ3CznAIhG4F"
+    },
+    {
+      "album": {
+        "name": "Fresh Pepper",
+        "url": "https://open.spotify.com/album/5Q1rvm5FvDUjLRzS6WDvT7"
+      },
+      "artists": [
+        {
+          "name": "Fresh Pepper",
+          "url": "https://open.spotify.com/artist/66DwP6G6LK15xMmKu1hNBY"
+        },
+        {
+          "name": "Joseph Shabason",
+          "url": "https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS"
+        },
+        {
+          "name": "Andre Ethier",
+          "url": "https://open.spotify.com/artist/6gkurAgv7a4GoBMv87hLyF"
+        },
+        {
+          "name": "Destroyer",
+          "url": "https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397453,
+      "name": "Seahorse Tranquilizer",
+      "url": "https://open.spotify.com/track/6Wsm9HgQEyFs6BR8ABa7eA"
     },
     {
       "album": {
@@ -9210,7 +9298,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 321256,
       "name": "Someone Like You - Spotify Singles",
       "url": "https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv"

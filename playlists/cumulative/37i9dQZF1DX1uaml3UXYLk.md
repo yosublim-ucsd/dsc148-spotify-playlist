@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-533 songs - 1 day 10 hr 2 min
+534 songs - 1 day 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Chasing the Now](https://open.spotify.com/track/63ypmPFNZJXv4SgTtsPdG3) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Chasing The Now](https://open.spotify.com/album/4RDnaZuk2ZBBZORVqVdrYT) | 2:27 | 2021-11-10 | 2022-04-06 |
 | [Cheerful Gecko](https://open.spotify.com/track/1Czt8WIBLWwHqRwxvUBnUS) | [Ben Jonovski](https://open.spotify.com/artist/01lzF0kz4osCQXfUDFmOnC) | [Cheerful Gecko](https://open.spotify.com/album/7KQccSlxHaRNIX9eJ1IZMP) | 2:24 | 2021-07-09 | 2021-08-25 |
 | [Cheers Mate](https://open.spotify.com/track/2p7HOQKGCmhqygolKziWKb) | [Dia Louge](https://open.spotify.com/artist/71TnN2RDUMrNrcFS1kYZdl) | [New Start](https://open.spotify.com/album/2UcZ7xUeS17aNKDVyORQrf) | 3:17 | 2022-10-28 |  |
-| [Chihiro](https://open.spotify.com/track/092E6eXdo0UbGyDk0CjNTi) | [TOMATOSLICE](https://open.spotify.com/artist/6EqyBfmaGsykcIF15BCATj) | [Chihiro](https://open.spotify.com/album/3qlSKN4HP5Q3tV8Wlx2LID) | 5:10 | 2020-12-24 |  |
+| [Chihiro](https://open.spotify.com/track/092E6eXdo0UbGyDk0CjNTi) | [TOMATOSLICE](https://open.spotify.com/artist/6EqyBfmaGsykcIF15BCATj) | [Chihiro](https://open.spotify.com/album/3qlSKN4HP5Q3tV8Wlx2LID) | 5:10 | 2020-12-24 | 2023-04-29 |
 | [Chinook](https://open.spotify.com/track/0m3Ssbp73eDEtjIoPGqNis) | [Alfa State](https://open.spotify.com/artist/09XYEnqYotzkQdZIyltRtW), [Mystic District](https://open.spotify.com/artist/2PDVBt3lvTrglJpt2yYGaF) | [Chinook EP](https://open.spotify.com/album/4bhtTw2nU27UZEpxHH4RfG) | 7:26 | 2020-12-24 | 2021-01-15 |
 | [Chlorine](https://open.spotify.com/track/1B8IrVSNTA8KgHG8MJQaH1) | [Swank Doral](https://open.spotify.com/artist/1zgVVdHt2QiytBSufPLLaV) | [Chlorine](https://open.spotify.com/album/4SCPxSvn4cdrjeZSHSfnMY) | 2:59 | 2021-08-25 |  |
 | [Cho](https://open.spotify.com/track/7qMHP3EvSdQV7fpmJgx1h6) | [Maiwan](https://open.spotify.com/artist/7Bv1SZbrpTYQixKfQgCzsI) | [Cho](https://open.spotify.com/album/3SdoRxeJXEy0GnALHjAI1G) | 3:29 | 2020-10-20\* | 2021-06-23 |
@@ -275,6 +275,7 @@
 | [Lush](https://open.spotify.com/track/6jYbK7o3pOMbNeMT3IuqQL) | [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [Lush](https://open.spotify.com/album/0QwKoNYrNK9g0cTMkXvl46) | 3:06 | 2021-06-04 |  |
 | [Magic Island](https://open.spotify.com/track/62yKRARApFEWm5uvSOK0oH) | [Matobolo](https://open.spotify.com/artist/5yyRFQuROpERkosmUmah5j) | [Magic Island](https://open.spotify.com/album/5mGr8IY17cQFas7lHxxFv2) | 2:17 | 2021-05-13 | 2022-08-05 |
 | [Mahalia](https://open.spotify.com/track/1ZXylApbxdxYJ4fXVtccyO) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Fool My Conscience](https://open.spotify.com/album/59MzDOlJAYBFZn8LFFtjfg) | 3:23 | 2021-06-04 |  |
+| [Maison](https://open.spotify.com/track/060YtWGbCO961oFFSYmc01) | [YLLW](https://open.spotify.com/artist/45QzUwjKLqscIWSjWvO9Z6) | [Maison](https://open.spotify.com/album/6zfQ2NE0sTuzia4AmEXM6h) | 2:16 | 2023-04-28 |  |
 | [Majestic Diver](https://open.spotify.com/track/5kl9KNQIIV3xPGvBP2xPmw) | [Manatee Commune](https://open.spotify.com/artist/41JNAYVuPs7zwJbQBQ6tec) | [Majestic Diver](https://open.spotify.com/album/46HzGw31BxoYlARH6kIspC) | 4:10 | 2020-10-20\* | 2021-03-25 |
 | [Makes Me Feel](https://open.spotify.com/track/3M2yTiUW78Qy0Ns0b1RLGn) | [Alex Dovo](https://open.spotify.com/artist/2dFwWoBhOLLBO9bfTUvqaL) | [Makes Me Feel](https://open.spotify.com/album/29svWGr4NecSbSwbsLakw6) | 7:05 | 2020-10-20\* | 2020-10-30 |
 | [Malibu](https://open.spotify.com/track/2MWvKZWDgGZEZrcnf31ncO) | [Candrian](https://open.spotify.com/artist/63cZ0PSG0ATAKRWRmTcYAJ) | [Malibu](https://open.spotify.com/album/7caM8UC7Fff0eCgIOVfTLS) | 2:39 | 2021-03-25 | 2021-06-23 |

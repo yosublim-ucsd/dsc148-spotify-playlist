@@ -4,7 +4,7 @@
 
 > Get ready for some serious 00s nostalgia\. Cover : Nancy Ajram
 
-142 songs - 10 hr 57 min
+143 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Mshit Khalas](https://open.spotify.com/track/67sFOE0IZ1UlbbVvFjU112) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [Mshit Khalas](https://open.spotify.com/album/7wRB4ezPgs9olmgZ4ll1hP) | 4:38 | 2023-04-19 |  |
 | [Nasini El Donya](https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [El Hob El Kebir](https://open.spotify.com/album/1dj55G9LZC4mbe8KaFFmHa) | 4:30 | 2021-12-06 |  |
 | [Nour Einy](https://open.spotify.com/track/3QfXJGWOGQfST5XsTUPFj5) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Enaya Bet\-hebbak](https://open.spotify.com/album/1KwWs7TGIb880VM14E9kq0) | 4:03 | 2021-12-06 |  |
+| [Nour El Ein](https://open.spotify.com/track/3ZTuYuaV1fhdNnuIBuzTYy) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Nour El Ein](https://open.spotify.com/album/3qZ0kZ8d3F8EpvEyx0yemA) | 5:07 | 2023-04-28 |  |
 | [Oum O'aaf](https://open.spotify.com/track/02hyp5EqS8Wu6F3gbAGYLM) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7), [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Oum O'aaf](https://open.spotify.com/album/7cyeJu1PlHROs9F0au7XCR) | 3:26 | 2021-12-06 |  |
 | [Romeo \- \(Remix\)](https://open.spotify.com/track/5t8zynpImoaWW7lWsbjL23) | [Essam Karika](https://open.spotify.com/artist/0c8w2lYzFdZkCOVtJj7QdW) | [El Wad El Afreet](https://open.spotify.com/album/67t6yJFj6PZ1RDMiRIlOWC) | 3:10 | 2021-12-06 |  |
 | [Sabry Aalil](https://open.spotify.com/track/7qLXBcYW78is9LygQBziAU) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Garh Tany](https://open.spotify.com/album/7iykGeMdxOdYtNRtYCNaMA) | 4:49 | 2021-12-06 |  |

@@ -1061,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "Sir Woman",
+        "url": "https://open.spotify.com/album/1YrapTceavDda547u6Z9yg"
+      },
+      "artists": [
+        {
+          "name": "Sir Woman",
+          "url": "https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201733,
+      "name": "Cape Town Plush",
+      "url": "https://open.spotify.com/track/4PdK2TKrwf7uI69F1rYru1"
+    },
+    {
+      "album": {
         "name": "Cape Town Plush",
         "url": "https://open.spotify.com/album/76XdnaXob283oq6LDyLESW"
       },
@@ -1072,7 +1090,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 201733,
       "name": "Cape Town Plush",
       "url": "https://open.spotify.com/track/4lrI3nGipSJnyL8YoI7bVF"
@@ -1284,7 +1302,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 182574,
       "name": "closure",
       "url": "https://open.spotify.com/track/10B7inTJO0QRBskRuEZ6mr"
@@ -2202,7 +2220,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 218248,
       "name": "First Avenue",
       "url": "https://open.spotify.com/track/2ICzjmxUrrS0x5YgLqpXqh"
@@ -2498,6 +2516,24 @@
       "duration_ms": 168045,
       "name": "Givin'",
       "url": "https://open.spotify.com/track/0miEcUq0VOQnaJ1oJL4Qum"
+    },
+    {
+      "album": {
+        "name": "Glad U Came",
+        "url": "https://open.spotify.com/album/2H37NHuufU0kkwLhMwhdLj"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178080,
+      "name": "Glad U Came",
+      "url": "https://open.spotify.com/track/3g5OlVimHO0rK6qmRiwokX"
     },
     {
       "album": {
@@ -4278,6 +4314,28 @@
       "duration_ms": 191088,
       "name": "No ID",
       "url": "https://open.spotify.com/track/54rpd5FzFEJZCPBydvW4tF"
+    },
+    {
+      "album": {
+        "name": "No More Lies",
+        "url": "https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327217,
+      "name": "No More Lies",
+      "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
     },
     {
       "album": {

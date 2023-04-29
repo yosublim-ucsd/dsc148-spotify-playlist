@@ -4,7 +4,7 @@
 
 > La nueva ola del rock argentino\. Foto: Riel
 
-184 songs - 10 hr 49 min
+186 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Avenida Vacía](https://open.spotify.com/track/7iVyf30YjmmRFHct0h8AOE) | [Doctor Brown](https://open.spotify.com/artist/4E97sUnBxVIE4LsUDYvyFh) | [Avenida Vacía](https://open.spotify.com/album/4WPsJyLgeqOvgDjqpfriwg) | 3:55 | 2022-06-29 | 2022-07-20 |
 | [Bandolera](https://open.spotify.com/track/1SjGkMkBgIvDDMcZqyXJ0N) | [Terapia](https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH) | [Bandolera](https://open.spotify.com/album/1k6i5BOlJCY8QFaEeuEvQ3) | 4:34 | 2022-09-09 |  |
 | [Batalla Naval](https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Batalla Naval](https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh) | 3:23 | 2022-10-14 |  |
-| [Blanco & Negro](https://open.spotify.com/track/4SwidOXMXm7I4hJMziEPfA) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Blanco & Negro](https://open.spotify.com/album/4wG2YePvIfmyUN61cFXSzO) | 3:16 | 2022-07-19 |  |
+| [Blanco & Negro](https://open.spotify.com/track/2va2BhevjFmDTDU8QmgJxF) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Principio del Fin](https://open.spotify.com/album/0I1uNlrv0RNdmWoUOIXe0m) | 3:16 | 2023-04-28 |  |
+| [Blanco & Negro](https://open.spotify.com/track/4SwidOXMXm7I4hJMziEPfA) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Blanco & Negro](https://open.spotify.com/album/4wG2YePvIfmyUN61cFXSzO) | 3:16 | 2022-07-19 | 2023-04-29 |
 | [Bondi](https://open.spotify.com/track/2DxwhvccoBibFxHHHJ8jVd) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Cuentito](https://open.spotify.com/album/7AvIdnQjY3mjZ8NexvRruR) | 3:29 | 2022-07-19 |  |
 | [Burbuja Loca](https://open.spotify.com/track/1CXKwOnD3ijncZIgV9DaWg) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg) | [Burbuja Loca](https://open.spotify.com/album/2ggx4yXZYKVp21lz16hO33) | 2:56 | 2022-06-29 | 2022-07-20 |
 | [Canción de Flora](https://open.spotify.com/track/4wE4VCSYSNJEjCjr4jGIiB) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Canción de Flora](https://open.spotify.com/album/7cVg7x1aVZYh0qP7oB1Lxw) | 3:49 | 2022-06-29 | 2022-07-20 |
@@ -115,7 +116,7 @@
 | [Llave](https://open.spotify.com/track/6GIJNt8kpPdvviJTEUT83u) | [Cu4tro Cu4rtos](https://open.spotify.com/artist/2afoXYN0RY5wWIJCSydf2v), [Damián Palacios](https://open.spotify.com/artist/6cAzrlKrcDZE6afA3ksm2S), [Gabriel Simonet](https://open.spotify.com/artist/4JyTKHn394pexqe2CFPt9q), [Hernán Romero](https://open.spotify.com/artist/3IFe0nS1QsWfow70RzaAaH) | [Llave](https://open.spotify.com/album/31emrUvnCBsaL1UO9xmKeh) | 2:53 | 2022-06-29 | 2022-07-20 |
 | [Lo Que Guarden Tus Ojos](https://open.spotify.com/track/71fxuzel9fUGYTOTaQDb4g) | [Las Sombras](https://open.spotify.com/artist/5el5cbPZc64RtoKhnL2Bzw) | [Lo Que Guarden Tus Ojos](https://open.spotify.com/album/7At1MTQ5r0FoGocoMMR68k) | 3:16 | 2022-07-19 | 2022-08-13 |
 | [Lo Quiero Mucho a Ese Muchacho](https://open.spotify.com/track/0kH9rVfxHWkDoBMJxAL5Sw) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Bestia Bebé](https://open.spotify.com/album/2A9T82s4U3Ia0z2VATTIZb) | 3:59 | 2022-07-19 |  |
-| [Los Chicos No Entienden](https://open.spotify.com/track/4qCfrEVTxcqvgWQucSUqyB) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [A los Amigos](https://open.spotify.com/album/7GyrUntLwyy6TPN0ytvP2Y) | 3:16 | 2022-07-19 |  |
+| [Los Chicos No Entienden](https://open.spotify.com/track/4qCfrEVTxcqvgWQucSUqyB) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [A los Amigos](https://open.spotify.com/album/7GyrUntLwyy6TPN0ytvP2Y) | 3:16 | 2022-07-19 | 2023-04-29 |
 | [Los Fantasmas](https://open.spotify.com/track/0aGYVf5anL1ZHeXR9ZBMKe) | [Gimena Alvarez Cela](https://open.spotify.com/artist/3pswrpKhrhyiwP8J5SQMm5) | [Los Fantasmas](https://open.spotify.com/album/29yX1nvE4qPlHePfgn0AOY) | 4:14 | 2022-06-29 |  |
 | [MANIQUÍ](https://open.spotify.com/track/51kIOy4U7wxwhV8Ys697zH) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Buenas Noches Terrícolas](https://open.spotify.com/album/2JMMzWW3FcrPSEseYLhEuD) | 4:07 | 2022-10-14 |  |
 | [Manto Negro](https://open.spotify.com/track/52jWtWtmqVyjB6AEBcV5BT) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7), [Paul Higgs](https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V), [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [Isla de Oro](https://open.spotify.com/album/2WsKLQLu05HwbbGSIFOQsH) | 3:44 | 2022-08-19 |  |
@@ -152,6 +153,7 @@
 | [Preguntame](https://open.spotify.com/track/7BdzqCXydkS6l1wwMvCxS5) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Preguntame](https://open.spotify.com/album/3pk0T946c4iXSPjaFTaVGD) | 3:24 | 2022-06-29 | 2022-07-29 |
 | [Que No](https://open.spotify.com/track/3xoF6TyldRJh0Fa2zIhEif) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Ubicación en Tiempo Real](https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp) | 3:50 | 2022-07-19 |  |
 | [Que no y quemó](https://open.spotify.com/track/7DDubrKJQoblQZ4d2HHusk) | [La Skandalosa Tripulación](https://open.spotify.com/artist/3dTtKHXPMLmyevUFZO941G), [Jaff](https://open.spotify.com/artist/1f7HGPEqtFLyYvQkUsqz6c) | [Que no y quemó](https://open.spotify.com/album/63o1jRlXK5dXLqktB6FSGR) | 3:45 | 2022-06-29 | 2022-07-20 |
+| [Quebrada](https://open.spotify.com/track/1L3xA6uzfTr0GVJU4fJZL4) | [Escorpia](https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv) | [Quimera](https://open.spotify.com/album/1JI9ZZLKRWzQVzq38OsE0H) | 5:02 | 2023-04-28 |  |
 | [Radio de la mañana](https://open.spotify.com/track/1NgZYkt0KGPrkROQdRxDmo) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [Parientes](https://open.spotify.com/album/0p22bJMkBBhstlPWua0iRI) | 3:16 | 2022-08-12 | 2022-10-15 |
 | [Relajar](https://open.spotify.com/track/1kwQdi5SzOveKrlgEEfDnR) | [Rey Hindú](https://open.spotify.com/artist/0IdZ8iwao6oUqBJ2gfjSIW) | [Relajar](https://open.spotify.com/album/4XyQAtwJkj8XGLr1uObFWF) | 3:21 | 2022-06-29 |  |
 | [Remera](https://open.spotify.com/track/0TRuSKE4Bg12qdFi2oZVHG) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE), [Francisco Lago](https://open.spotify.com/artist/3vBvFZBnjjDdjV35dDvL9L) | [Remera](https://open.spotify.com/album/0K4fJa7MxlrX46oCOymaxY) | 3:33 | 2022-09-09 |  |
@@ -174,7 +176,7 @@
 | [Temporal](https://open.spotify.com/track/2HaEWrHRPZ2mG06Rdlngbu) | [Romina Peluffo](https://open.spotify.com/artist/002eNGtf6Rd05jJbriqoMS), [Gonzalo Silva](https://open.spotify.com/artist/3vkk4b4g3KdMlhOhtzyIHm) | [Temporal](https://open.spotify.com/album/6ZkEGm4ZA8WScR7uLVfg1t) | 2:50 | 2022-06-29 | 2022-10-29 |
 | [Tiempo](https://open.spotify.com/track/6MifdTQLwM8PQEzM9S2TRb) | [Juku Ares](https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw) | [Tiempo](https://open.spotify.com/album/7hdrzPuHfK4VbgQVpvP8lA) | 3:12 | 2022-06-29 |  |
 | [TKM](https://open.spotify.com/track/3IojTR6Zm6U9hnToRnW55L) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [TKM](https://open.spotify.com/album/2Qi4p3mBPmfTSyx6bCAEEX) | 2:34 | 2022-10-28 |  |
-| [Todo el Mal](https://open.spotify.com/track/7knGtNtfz5FOPEpBHtxn4h) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [Todo el Mal](https://open.spotify.com/album/0dfayvjKUsbOs8ghUixZpY) | 3:14 | 2022-06-29 |  |
+| [Todo el Mal](https://open.spotify.com/track/7knGtNtfz5FOPEpBHtxn4h) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [Todo el Mal](https://open.spotify.com/album/0dfayvjKUsbOs8ghUixZpY) | 3:14 | 2022-06-29 | 2023-04-29 |
 | [Tus Asuntos](https://open.spotify.com/track/0tlQiM6xM6frP0jdYHT1Aw) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE), [IZARO](https://open.spotify.com/artist/2brDaxeIxhXevIcKDrGMAb) | [Contratiempos](https://open.spotify.com/album/57M8d2JDEqjdz9LVzDtK3V) | 3:19 | 2022-07-19 |  |
 | [Un demonio](https://open.spotify.com/track/0NwKbZrsXH5FqFQMFKeeDg) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Un demonio](https://open.spotify.com/album/2ZSLCx4FVuCAb6R5df0zax) | 1:12 | 2022-06-29 | 2022-07-20 |
 | [Un Documental Sobre Mí](https://open.spotify.com/track/1zaSe09Z9HQQBSj3SjzSZj) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Gracias Por Nada](https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte) | 4:40 | 2022-06-29 | 2022-07-20 |

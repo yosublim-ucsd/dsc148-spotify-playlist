@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-486 songs - 1 day 3 hr 14 min
+487 songs - 1 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Between You & I](https://open.spotify.com/track/5bXNVJIJTnb1iaHKxTOKRh) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Between You & I](https://open.spotify.com/album/3XuQWYtFZQKxyQ0cDWHuve) | 4:13 | 2019-08-02 | 2019-09-27 |
 | [Big World](https://open.spotify.com/track/3Zb7q3OoEbRJIl7cIgW1se) | [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [LIFE](https://open.spotify.com/album/5NPUViV7mLNEGSsRBsdhpe) | 3:55 | 2019-10-01 | 2019-10-11 |
 | [Bigger Man \(with Maren Morris\)](https://open.spotify.com/track/1caDc5BER7nRlSRf7XnDyj) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Bigger Man](https://open.spotify.com/album/64fIaMIuwVr0P7Bckb8Df8) | 3:06 | 2021-06-18 | 2021-06-28 |
-| [Birthday Cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Birthday Cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-02-09 |  |
+| [birthday cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [birthday cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-02-09 |  |
 | [Bits and Pieces](https://open.spotify.com/track/5MTZS8M1OvEDntOc3g87rf) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Bits and Pieces](https://open.spotify.com/album/18xGcnwJkEeGQtrVfVmBID) | 3:00 | 2020-02-21 | 2021-04-07 |
 | [Black & Blue](https://open.spotify.com/track/0GbbYkMmWczA8FrBaxwFVv) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Black & Blue](https://open.spotify.com/album/25OGHbAyrSO4e0fv1rQXhI) | 3:11 | 2019-09-13 | 2020-02-21 |
 | [Black Hole \- Acoustic Version](https://open.spotify.com/track/1cpVLszZnKUHUjsJDTEi3D) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole \(Acoustic Version\)](https://open.spotify.com/album/009oQ3UChouWgXe3XWU2gD) | 2:55 | 2021-04-07 | 2022-08-05 |
@@ -479,7 +479,8 @@
 | [Whirlwind](https://open.spotify.com/track/4FdlrVG63Nsx9I7dBtsh6J) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Whirlwind](https://open.spotify.com/album/419Peyo7a60OWSj0M03YQY) | 3:28 | 2021-03-06 | 2021-06-28 |
 | [Who](https://open.spotify.com/track/0qTBo7ExHHGI7RLCk3CwDS) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Who](https://open.spotify.com/album/4d1xo2PYAhvn7Udjo1rBxs) | 3:08 | 2019-08-02 | 2019-08-30 |
 | [Wildest Ones](https://open.spotify.com/track/0EiTmP7qmDMsURvrMAdkGD) | [Eves Karydas](https://open.spotify.com/artist/7MbSdIkdgkwmVxObpCg87e) | [summerskin](https://open.spotify.com/album/67fLUpkTxDPe1nkjHb5mHe) | 4:04 | 2019-07-29\* | 2019-08-02 |
-| [Winter City](https://open.spotify.com/track/6pdvuLmF736BybOwSYEXeg) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Winter City](https://open.spotify.com/album/3MUZrFCwm6v0aUQaawLcFG) | 2:41 | 2020-12-11 |  |
+| [Winter City](https://open.spotify.com/track/2KtH6OayZaFH5Zowhglw1Y) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [I Got 3](https://open.spotify.com/album/7g0CXNdiVVnAGj1f9yle7e) | 2:41 | 2023-03-30 |  |
+| [Winter City](https://open.spotify.com/track/6pdvuLmF736BybOwSYEXeg) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Winter City](https://open.spotify.com/album/3MUZrFCwm6v0aUQaawLcFG) | 2:41 | 2020-12-11 | 2023-04-29 |
 | [Wish We Had History](https://open.spotify.com/track/32rW37r60HLUJj8qlleba7) | [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [Wish We Had History](https://open.spotify.com/album/0bH31JVkxjZKgTeXCCNPsK) | 3:40 | 2019-08-02 | 2019-12-09 |
 | [wish you were here](https://open.spotify.com/track/0DEVHeqxATyAmwUMFGFTfv) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wish you were here](https://open.spotify.com/album/30ssp982Ym9GCQstBVvEve) | 3:22 | 2021-09-14 | 2022-09-09 |
 | [Wishing Well](https://open.spotify.com/track/4gaQdwANCTQ8b5RKJzvJnm) | [Niko Walters](https://open.spotify.com/artist/0iWMmFScSBxj1z3IisnGkB) | [Wishing Well](https://open.spotify.com/album/6bVMjMxX4J3KAI4t4wmcHT) | 3:01 | 2019-08-02 | 2019-09-27 |

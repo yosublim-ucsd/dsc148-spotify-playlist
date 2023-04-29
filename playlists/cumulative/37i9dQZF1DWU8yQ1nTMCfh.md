@@ -4,7 +4,7 @@
 
 > Las nuevas vibras del rock en español\. Cover: Rodrigo y Gabriela
 
-200 songs - 11 hr 9 min
+201 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Amigos](https://open.spotify.com/track/03Ut12qXLWyH7pn20nsNMh) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [Amigos](https://open.spotify.com/album/1qVba1vMR9T1DsuCgD3E5P) | 3:12 | 2022-07-19 | 2022-12-17 |
 | [Amores Mios \- Poca Madre Dancing Club](https://open.spotify.com/track/7c7MNnmBtzNWRwUYT4nmcS) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL) | [Amores Mios \(Poca Madre Dancing Club\)](https://open.spotify.com/album/09NRH51HivrhkAkIedt5Gu) | 3:52 | 2022-04-15 | 2022-12-10 |
 | [Amores Prohibidos](https://open.spotify.com/track/7GpNKzUbcQ5wJfY6IWrQWe) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Amores Prohibidos](https://open.spotify.com/album/3UtKEUIbn6eO4buBE826We) | 3:15 | 2022-12-13 | 2023-01-14 |
+| [Antes que el sol nos queme](https://open.spotify.com/track/5In0QvvpyuKt8FHVviuRre) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Antes que el sol nos queme](https://open.spotify.com/album/1s5MJq7KIQpR5z5clJ0ixU) | 4:15 | 2023-04-28 |  |
 | [Araña Subnormal](https://open.spotify.com/track/65aiOgU3pRWB6tA7BoPlXy) | [Revólver Plateado](https://open.spotify.com/artist/73GjkmYVJJkhT0S4FweayO) | [Araña Subnormal](https://open.spotify.com/album/51IevSRC4jUK4h6xMahZA4) | 4:01 | 2022-04-15 | 2022-12-10 |
 | [Bad Kiss](https://open.spotify.com/track/1pXdYW93QYTfReu4hhXozQ) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Bad Kiss](https://open.spotify.com/album/6k9wPtpVp9mfAOwp56g5LJ) | 2:22 | 2022-04-15 | 2022-12-17 |
 | [Baila](https://open.spotify.com/track/4PtZLOZWhq26oPaGegF1BF) | [Costera](https://open.spotify.com/artist/5JpCxwOe867Dbf62kLcQQM) | [Baila](https://open.spotify.com/album/1T6x46OfNbckEzfniu5kCn) | 4:16 | 2022-04-15 | 2022-12-10 |
@@ -148,7 +149,7 @@
 | [Piensa Bien](https://open.spotify.com/track/2VVuf7qikMtZW0JavPW7S6) | [El Viaje de Lázaro](https://open.spotify.com/artist/5BaL7UhFbZfIv7FzOD9so0) | [Piensa Bien](https://open.spotify.com/album/7qAQxZI1x9I7r2ymQcncGb) | 4:33 | 2022-04-15 | 2022-12-10 |
 | [Piñas Coladas en Abril](https://open.spotify.com/track/48Q3lH5qyYYN58giKJOZDF) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL) | [Piñas Coladas en Abril](https://open.spotify.com/album/6sv8VKsvtW927EUcuPrDBA) | 3:18 | 2022-04-15 | 2022-12-10 |
 | [Plan A](https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Plan A](https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg) | 2:58 | 2022-04-15 |  |
-| [PLAYBOY](https://open.spotify.com/track/5sJ92rb60DbHLOY91y2NoU) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [PLAYBOY](https://open.spotify.com/album/7tGoCupmv66uD6hFI451P7) | 1:52 | 2023-04-07 |  |
+| [PLAYBOY](https://open.spotify.com/track/5sJ92rb60DbHLOY91y2NoU) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [PLAYBOY](https://open.spotify.com/album/7tGoCupmv66uD6hFI451P7) | 1:52 | 2023-04-07 | 2023-04-29 |
 | [Plaza en el cielo](https://open.spotify.com/track/0HCN1c8AGVd0AJKqdw7WOr) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [AAAAAA](https://open.spotify.com/album/6vR3IjKZz96v4RXVdcN39q) | 3:26 | 2023-03-10 | 2023-04-05 |
 | [Plaza en el cielo](https://open.spotify.com/track/2gCUxvwaDqfzp6zDiijnfr) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Al menos ahora](https://open.spotify.com/album/2Sa9nqApJXS2hx9Ff0jf6R) | 3:26 | 2023-04-14 |  |
 | [Plaza en el cielo](https://open.spotify.com/track/330mS1U6KJ9Gie5PL4gkAo) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Plaza en el cielo](https://open.spotify.com/album/1oXFlNOxGfnSw9329hsgoT) | 3:26 | 2023-01-27 | 2023-03-08 |

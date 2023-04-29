@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5W4wuxak2hE.md) - [plain]
 
 > Here's a taste of power pop\. <a href="spotify:genre:0JQ5IMCbQBLk5woFi85yOT">Click here for further discovery.</a> Cover: Cheap Trick
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,010 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,044 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5W4wuxak2hE.md) - [plain]
 | 33 | [Black and White \- Don Dixon Mix](https://open.spotify.com/track/3kkRw4UoDWF6J85H6FC2dq) | [The dB's](https://open.spotify.com/artist/1CYmYyxlWBVY80Kvq5lTDg), [Don Dixon](https://open.spotify.com/artist/3LdLKmvFl65YydnIc2ZA9c) | [I Thought You Wanted to Know: 1978\-1981](https://open.spotify.com/album/0j4WgK71dkSPuK1HnWEtaI) | 2:56 |
 | 34 | [Every Word Means No](https://open.spotify.com/track/1HipoaSYHoDxgMxwTmGxQ7) | [Let's Active](https://open.spotify.com/artist/6HRtcKFPKPw6FtbGpvQviZ) | [Every Word Means No](https://open.spotify.com/album/4EDxkB8mdhOqeVHGn2GXiu) | 2:53 |
 | 35 | [Sink to the Bottom](https://open.spotify.com/track/32uXfxJERzv4RK1gMLXbOA) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Fountains of Wayne](https://open.spotify.com/album/4I9PfbZ1ErduBZWTimzz2s) | 3:12 |
-| 36 | [Cruel to Be Kind](https://open.spotify.com/track/7D5ycpIrqwGNTQFKmzhDIg) | [Nick Lowe](https://open.spotify.com/artist/3BqaUtuQmqIHg7B5Bc7fP7) | [Labour of Lust](https://open.spotify.com/album/7c8NVsxXciWMbAMN51GKim) | 3:30 |
+| 36 | [Cruel to Be Kind](https://open.spotify.com/track/6k2cLXLnrAnFFqt3W6sjT8) | [Nick Lowe](https://open.spotify.com/artist/3BqaUtuQmqIHg7B5Bc7fP7) | [Labour of Lust](https://open.spotify.com/album/1gej2up6QoCmt1GeQSlKx5) | 3:30 |
 | 37 | [Can't Get You on My Mind](https://open.spotify.com/track/347mu5DVqh9NUMlUeHMp4H) | [Adam Schmitt](https://open.spotify.com/artist/3xqtGRF60qJk2fQkYRf0JX) | [World So Bright](https://open.spotify.com/album/0svQoqgccZGXRisHJbuDeH) | 3:27 |
 | 38 | [Teacher Teacher](https://open.spotify.com/track/4Vb8fzZfCOI351qz1g0ExT) | [Rockpile](https://open.spotify.com/artist/4eBRIkqBA2GyYKzLvXD9a4) | [Seconds Of Pleasure \(Expanded Edition\)](https://open.spotify.com/album/0dkVeZHLACjaN92aUHwu02) | 2:34 |
 | 39 | [Fox On The Run](https://open.spotify.com/track/66gG8RzSA2sVQwME8e43wX) | [Sweet](https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz) | [Best Of Sweet](https://open.spotify.com/album/7I5IWDrFPKeqhRSnd6QrXG) | 3:25 |
@@ -63,20 +63,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5W4wuxak2hE.md) - [plain]
 | 53 | [Go All The Way](https://open.spotify.com/track/75GQIYnRaBg7ndHxhfYuQy) | [Raspberries](https://open.spotify.com/artist/7Kkx4dACo6kFSeT9wjfVA5) | [Raspberries](https://open.spotify.com/album/03iBvX63qBQrMazNWU2iKv) | 3:25 |
 | 54 | [I Think We're Alone Now](https://open.spotify.com/track/2imlSz1OkvN8QyAkQ4WL2a) | [The Rubinoos](https://open.spotify.com/artist/0ShV0veaBj1NvWRORhuwlI) | [The Rubinoos](https://open.spotify.com/album/5xRZXzP4EdjJTfTXlliId1) | 2:56 |
 | 55 | [Sucked Out](https://open.spotify.com/track/4YN94yxYWFfhk9YbmOIqR4) | [Superdrag](https://open.spotify.com/artist/1UGwqiX4QA7R9hNBwzjavF) | [Regretfully Yours](https://open.spotify.com/album/6b2RjEtZ2jIYVlCkgCIW9C) | 2:46 |
-| 56 | [I Go Wild](https://open.spotify.com/track/0EN1NBUVjdYCuU0qxtz91d) | [The Three O'Clock](https://open.spotify.com/artist/3iayA3QkB3jfkUgcXqsL7C) | [Baroque Hoedown](https://open.spotify.com/album/7CTdTktHffHXyuQsOupDf6) | 2:49 |
+| 56 | [I Go Wild](https://open.spotify.com/track/4mipXE0NSZwqGkqv7ZoRth) | [The Three O'Clock](https://open.spotify.com/artist/3iayA3QkB3jfkUgcXqsL7C) | [Baroque Hoedown](https://open.spotify.com/album/1JVVrK1m0XY19jutSoGC1Z) | 2:49 |
 | 57 | [Another Girl Another Planet](https://open.spotify.com/track/0PDZ4Rgj36MxVgvoMv3sk5) | [The Only Ones](https://open.spotify.com/artist/16VudBYGOd9sMpOtA0szfp) | [Another Girl Another Planet The Best Of](https://open.spotify.com/album/5G4f8hTTzGH0QGqGeQjsS1) | 3:00 |
 | 58 | [She Goes out with Everybody](https://open.spotify.com/track/4wLASW3FebRjyPPlNpK0NP) | [The Spongetones](https://open.spotify.com/artist/2kDyODn1VxVZXZQxsEvHFG) | [Beat & Torn](https://open.spotify.com/album/4bCRz96o1dE2pG9mTo5YUU) | 2:26 |
-| 59 | [Cynical Girl](https://open.spotify.com/track/1EXkKLZNY5XOj60QGQHHSf) | [Marshall Crenshaw](https://open.spotify.com/artist/73YLmyaazO66GncUVHP0KV) | [Marshall Crenshaw](https://open.spotify.com/album/1ezi8hGLdxQ7eWRFU9foAZ) | 2:35 |
+| 59 | [Cynical Girl](https://open.spotify.com/track/1PXH8AAA8xFxcUJp9sbX2q) | [Marshall Crenshaw](https://open.spotify.com/artist/73YLmyaazO66GncUVHP0KV) | [Marshall Crenshaw](https://open.spotify.com/album/72Xq9V0lCN12Ml84PeLHOl) | 2:35 |
 | 60 | [I Want You to Want Me](https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [In Color](https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR) | 3:11 |
 | 61 | [Girl Of My Dreams](https://open.spotify.com/track/2NyaZECpJZCAqFJFCWPDRz) | [Bram Tchaikovsky](https://open.spotify.com/artist/0typb8qieEFeIgmQ4K03qZ) | [Strange Man / Changed Man](https://open.spotify.com/album/3aa2RkYs8cNnfDrunsuUuA) | 4:08 |
 | 62 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 |
 | 63 | [Monument of Me](https://open.spotify.com/track/5ZHuNrsjaPOGdoo2Gu9Dn4) | [The Merrymakers](https://open.spotify.com/artist/630GKUdfGN9gcScA8S8PDw) | [No Sleep 'Til Famous](https://open.spotify.com/album/0rKoI5lPh56WEhJfIwf4BQ) | 3:28 |
-| 64 | [Drive Me Down](https://open.spotify.com/track/5ftFciYQrVswUy6VsBHzBn) | [Velvet Crush](https://open.spotify.com/artist/3d1zFz2gPJbDaQDTsyNmbZ) | [In The Presence Of Greatness](https://open.spotify.com/album/06vX1nkwy1ZXfBD50VhtjB) | 3:55 |
-| 65 | [Places That Are Gone](https://open.spotify.com/track/5UB05M7pQk2i9RtPITIDjw) | [Tommy Keene](https://open.spotify.com/artist/4nnvwFUhvSQ1WLcMbKJB9V) | [Tommy Keene You Hear Me: A Retrospective 1983\-2009](https://open.spotify.com/album/16fgXywPsNgwdg7PZZ4nMg) | 3:51 |
+| 64 | [Drive Me Down](https://open.spotify.com/track/2aNdc37YEkejmcZIWzPRSU) | [Velvet Crush](https://open.spotify.com/artist/3d1zFz2gPJbDaQDTsyNmbZ) | [In The Presence Of Greatness](https://open.spotify.com/album/3XdW6yQqC0m4kh5zIIrcyH) | 3:55 |
+| 65 | [Places That Are Gone](https://open.spotify.com/track/0T7IlRAIysAHVTunAu3DZi) | [Tommy Keene](https://open.spotify.com/artist/4nnvwFUhvSQ1WLcMbKJB9V) | [Tommy Keene You Hear Me: A Retrospective 1983\-2009](https://open.spotify.com/album/17oWyKkE9HsDtuFGaE91QY) | 3:51 |
 | 66 | [Picture Book](https://open.spotify.com/track/451lXmfCoq5KvTo83Mk1Co) | [The Young Fresh Fellows](https://open.spotify.com/artist/6IfaumPVXMZ8iDue5QhuCY) | [This One's for the Ladies](https://open.spotify.com/album/50L65FLZnHXMe5WdGcHG93) | 2:19 |
 | 67 | [Couldn't I Just Tell You](https://open.spotify.com/track/02jZSvPG0SNsBwj6g9yRCo) | [Todd Rundgren](https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb) | [Something / Anything?](https://open.spotify.com/album/3fRCOoTbBsOITBWlCRCJQr) | 3:22 |
 | 68 | [Dyslexic Heart](https://open.spotify.com/track/6h0lrpGtRIwbBiPHthDB3o) | [Paul Westerberg](https://open.spotify.com/artist/3N6WAAPHoIjo6na008793X) | [The Resterberg](https://open.spotify.com/album/1hBpssm4RfS8lD3CqmL5z2) | 4:31 |
 | 69 | [Boys Don't Lie](https://open.spotify.com/track/3r4zJhOS92RECuCXKyCcO2) | [Shoes](https://open.spotify.com/artist/1SyCQtKtDtMfJBBKGm0A8B) | [Black Vinyl Shoes](https://open.spotify.com/album/0wOTP7wVEQqYwIVaPWqQNo) | 1:57 |
 | 70 | [Erica's Word](https://open.spotify.com/track/3zPnLX5UZgXX6eaAtSROHt) | [Game Theory](https://open.spotify.com/artist/3aCS3JvkoSr84i7ge9pA9o) | [The Big Shot Chronicles](https://open.spotify.com/album/2XauMPQuWJF0QAMBYU1kzV) | 3:54 |
 
-Snapshot ID: `MCw1M2M3YzI3ZDMxMDA1ZWVmODBmNmRiNTE2OWIyYTUyMzMyNzNhZTNj`
+Snapshot ID: `MCxhZjIyN2I2MTRmM2Q5NzcxZTk5MmJjOTEzNmRkNjdlZjEzZmM3NDg2`

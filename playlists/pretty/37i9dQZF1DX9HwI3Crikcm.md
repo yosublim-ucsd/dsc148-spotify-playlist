@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 
 > Relive last night's fun with jigs and reels out of Ireland – alongside trad tracks inspired and influenced by Celtic traditions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,531 likes - 86 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,622 likes - 86 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 | 54 | [Cooley's Jig](https://open.spotify.com/track/7yY6EPqQsRMO3DYI19wDaX) | [Noel Hill](https://open.spotify.com/artist/3mOxdrvnnFAGKWE29vW7qx), [Tony MacMahon](https://open.spotify.com/artist/1suQ05WMwsctRnmYZrh9CG) | [I gCnoc Na Graí](https://open.spotify.com/album/0M6T36GQGzhrlk89SINXvG) | 3:18 |
 | 55 | [An Buailteoir Aerach, The Enchanted Lady, The Holy Land](https://open.spotify.com/track/7gaK8OBsNGcD1JcaN8FEcc) | [Mick O'Brien & Caoimhín Ó Raghallaigh](https://open.spotify.com/artist/2AIraDzN7ffFkrKJMAbzu1) | [Deadly Buzz \| Aoibhinn Crónán](https://open.spotify.com/album/1OkRTaAOZHZCADcU5Qh7FC) | 3:41 |
 | 56 | [Girls Put the Fags Out: Ashplant \- Red Haired Lass.](https://open.spotify.com/track/04JYZ3q9FOCb9wZ2b9qX2l) | [Oige](https://open.spotify.com/artist/1DjvIbQK1vNuJOy25Y0w7g) | [Live](https://open.spotify.com/album/4AImfr97hklSUt6PrFhwrh) | 3:21 |
-| 57 | [Roaring Mary / Stormy Weather](https://open.spotify.com/track/1La2rKoNWzTT4KD5qlz1Sn) | [John Doherty](https://open.spotify.com/artist/6qN1MlgBXAnLRxGALRVevQ) | [Bundle And Go](https://open.spotify.com/album/0D33Hb2cWuuD2bhxVY9VGL) | 2:17 |
+| 57 | [Roaring Mary / Stormy Weather](https://open.spotify.com/track/2dmoX3HaohxkJ6ubNJAkAP) | [John Doherty](https://open.spotify.com/artist/6qN1MlgBXAnLRxGALRVevQ) | [Bundle And Go](https://open.spotify.com/album/1qFZXECDg894gYOU3PX8zG) | 2:17 |
 | 58 | [Poirt: Delia Keane's/ the Horse's Leotard/ Seán Buí/ the Dawn Chorus](https://open.spotify.com/track/6AXL9fFoqoXLkro46Asher) | [Téada](https://open.spotify.com/artist/1VBQhu7f3xYuYPxCo0ddQF) | [Inné Amárach](https://open.spotify.com/album/2pP4o0xgCTMyRQftQk5Ikk) | 4:55 |
 | 59 | [The Ships Are Sailing/The Cup Of Tea](https://open.spotify.com/track/1AoBoAOHEE2n5iQ99ngKf6) | [Alan McCartney & Paul Bradley & Jason O'Rourke & Brendan O'Hare & Ray Gallen](https://open.spotify.com/artist/0IMlCgkOv8meUbMYENZ1zq) | [Traditional Irish Music From Belfast](https://open.spotify.com/album/4ZZPVBEYihkdUgctMNeFSD) | 4:25 |
 | 60 | [Cronin's / I Do Not Incline](https://open.spotify.com/track/3n1bWif204sqx4WEKNsC5o) | [Jack Talty & Cormac Begley](https://open.spotify.com/artist/60mipt3IynE5fA4ofslbBW) | [Na Fir Bolg](https://open.spotify.com/album/3y1G4HdofbXTslkCJzMiBt) | 3:25 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 | 71 | [The Black Rogue / Morrisons](https://open.spotify.com/track/3ooiN8bT2gx1hzDokGpQpI) | [Sean Maguire](https://open.spotify.com/artist/7dP7qNfHowP143GPBag31y) | [A Man Apart](https://open.spotify.com/album/1V3dMzrf32ZQaxUaK2cC7U) | 2:15 |
 | 72 | [The Concert Flute / Upstairs in a Tent](https://open.spotify.com/track/3BivsfcYy64qLcqkoKOJ0d) | [Finbar Dwyer](https://open.spotify.com/artist/5jd2q2xbCDBpQz21Ertr18) | [Kitty's Rambles](https://open.spotify.com/album/2ZmM3CZPJ3UHmtzhBJWofJ) | 2:20 |
 | 73 | [The Track for the Craic](https://open.spotify.com/track/2eT2QheRFkPxf4yElE0vQV) | [Socks in the Frying Pan](https://open.spotify.com/artist/2T1zXgma5xEKe7xyd08npf) | [Socks in the Frying Pan](https://open.spotify.com/album/2OH2E5ZrceCAjq32c1d6zp) | 4:36 |
-| 74 | [Caoineadh An Spailpín \(The Spalpeen's Lament\)](https://open.spotify.com/track/3sQcd81KocTl0ZVQvcqh2n) | [Willie Clancy](https://open.spotify.com/artist/4KK08Oc4Xupje3eUyq8SJS) | [The Minstrel From Clare](https://open.spotify.com/album/6QK8bIcu19iuEPfyenHHDl) | 5:05 |
+| 74 | [Caoineadh An Spailpín \(The Spalpeen's Lament\)](https://open.spotify.com/track/2VoNApWzE4XWtE90e4BFJw) | [Willie Clancy](https://open.spotify.com/artist/4KK08Oc4Xupje3eUyq8SJS) | [The Minstrel From Clare](https://open.spotify.com/album/4alXmlXENnuZnPQUJkYKVC) | 5:05 |
 | 75 | [Lucy Campbell's / The Flogging \(Reels\)](https://open.spotify.com/track/3REVXft7xiqwFBLhdFa1ux) | [Ciaran Tourish](https://open.spotify.com/artist/7JgJRLk3nWbYCeMyzSXXMj) | [Down the Line](https://open.spotify.com/album/2CcYzfVX4bPO2vFgOe9Ac0) | 2:32 |
 | 76 | [Coleraine Jig / Derrane's / John Stenson's / Moher Reel \- 2022 Remaster](https://open.spotify.com/track/4lXHEHTVVB4sQGZSfswd9A) | [De Dannan](https://open.spotify.com/artist/09RBtr6JUJprt2li2NsdU8) | [The Star Spangled Molly \(2022 Remaster\)](https://open.spotify.com/album/6X0QjmyympxMvV0CcUMoCT) | 5:39 |
 | 77 | [Dhá Pholca Dálaigh](https://open.spotify.com/track/6QC8MC3maNNp2uHsOMxxSP) | [Brendan Begley & Caoimhín Ó Raghallaigh](https://open.spotify.com/artist/6L8DJIpiJWVhKhYX5M6Rlu) | [A Moment of Madness](https://open.spotify.com/album/43XQxNecha4Lu72o3s3W48) | 2:46 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 | 85 | [Reels: Kylebrack Ramblers / Graf Spee](https://open.spotify.com/track/6tWVMFlSwTPVOgeWBQMapG) | [The Shaskeen Ceili Band](https://open.spotify.com/artist/6mgGW54iUPDPt07UwID5Kn) | [Pure Irish Céilí](https://open.spotify.com/album/0lVaM9oQ9SvE6K0P39vsNI) | 3:29 |
 | 86 | [Last Night's Fun / The Chattering Magpie / The Black Haired Lass / The Commodore](https://open.spotify.com/track/3FnKOidmaJJzdP52XBWZ5f) | [Billy McComiskey](https://open.spotify.com/artist/0NPDkWpnQnjowxXozNrWeR) | [The Girls Won't Leave The Boys Alone](https://open.spotify.com/album/45q1rezuYBdULvvO2Oh1Bn) | 4:53 |
 
-Snapshot ID: `MCw3YTU4NmYxNTVlNmE5N2NjOWJmOWQxYzI3MzFjZTk3NGJjN2NmZjli`
+Snapshot ID: `MCwyNTEwNjBjZTg3YThlZTFiOTk3MGI3ZmRhM2JhYjRhZjFjNzhjYThk`

@@ -4,7 +4,7 @@
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-113 songs - 10 hr 6 min
+115 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Deep in the Water](https://open.spotify.com/track/6223sSiNuaTxGCyyshUYGl) | [Nina Mya](https://open.spotify.com/artist/7mbxECrkKzOUyiEsIEMXPQ) | [Deep in the Water](https://open.spotify.com/album/1MCtSnHVmiI9CaL0My2jUO) | 3:59 | 2022-09-02 | 2022-09-23 |
 | [demolish, transform](https://open.spotify.com/track/689sPjFknUEvyyQvXHqEfA) | [Silva Kallionpää Quartet](https://open.spotify.com/artist/5NiJ3sFkmmxyhLFr1NpLTd) | [demolish, transform](https://open.spotify.com/album/7inP2RNk891EPvKCeJojEu) | 3:48 | 2022-09-02 |  |
 | [Denmark: Lek](https://open.spotify.com/track/6bAVVD3He4f1r5UbyMV7Qq) | [Elifantree](https://open.spotify.com/artist/4L9zNR0MD7lpDDJnlK4t0F), [Lisbeth Diers](https://open.spotify.com/artist/67tBWsm9buSmRL2GxMCvdz) | [Hachi](https://open.spotify.com/album/3RZx7LhWPO1xm5dbXXUDnp) | 2:29 | 2022-09-02 | 2022-09-23 |
+| [Duke](https://open.spotify.com/track/412Ze3X4P5Bndx4XnWAJwG) | [Soft Power](https://open.spotify.com/artist/3DlOpL8UHL8my5Dl8twYxA) | [Duke](https://open.spotify.com/album/5Ypwfjq7GbjGHXYiKeLxeN) | 4:44 | 2023-04-28 |  |
 | [Dägä Dägä](https://open.spotify.com/track/1ClFUVHYgThdnktoMhcDVE) | [Pope Puolitaival](https://open.spotify.com/artist/2S6F5kcokdkRZaS31KaYsx) | [Dägä Dägä](https://open.spotify.com/album/5ZhvBUKPpFqFrNAAQaTIfi) | 2:54 | 2022-09-02 |  |
 | [Déjà Vu](https://open.spotify.com/track/4euYzAGkmIbdykP4wYxAQq) | [Sylvain Rifflet](https://open.spotify.com/artist/29UYO17BFU01uHhncAy8ni), [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX) | [Déjà Vu](https://open.spotify.com/album/3qOl5KWXYlKBZTJhI4Lz9j) | 3:35 | 2022-09-02 |  |
 | [Elastic Energy](https://open.spotify.com/track/43p6GKAUMfmhdlmAC6PN8i) | [Atte Aho](https://open.spotify.com/artist/4KroGS9rbUIFxtTNtsdsYA) | [Atte Aho](https://open.spotify.com/album/2sy1yT0aK3Bg3UV8xyuqbp) | 5:53 | 2022-09-02 |  |
@@ -65,7 +66,7 @@
 | [Kullankaivaja](https://open.spotify.com/track/0SW6Bq46YRsVDzn3MtXc1u) | [Sofia Perhomaa](https://open.spotify.com/artist/7I6tcN1kF9cD5sqOLuqgAW) | [Kullankaivaja](https://open.spotify.com/album/512ObtUfgxYWN5pAqgK572) | 3:51 | 2022-09-02 |  |
 | [Liar](https://open.spotify.com/track/7HSKioNnSt9EDYJSrUrxX4) | [Peela](https://open.spotify.com/artist/5vgx2GUNPPiJ7tyE9xtVZA) | [Liar](https://open.spotify.com/album/1kbcdOfwC0dFUOK2DmAWzj) | 4:57 | 2023-03-03 |  |
 | [Like Steel](https://open.spotify.com/track/0zvp0m468qwkERmjMPnVfB) | [Esa Pethman](https://open.spotify.com/artist/19tCGRoeUzAegnBcvMfLZg) | [In Belgium 1967](https://open.spotify.com/album/7K7ZPq67v0pdmlyQXhr4ph) | 5:07 | 2022-09-22 |  |
-| [Lost in Marrakech Souk](https://open.spotify.com/track/5upMlh6OdTk0aG5x3OeYnA) | [Janne Huttunen](https://open.spotify.com/artist/2vnmi19CBiKUjsjyrLfyhA) | [Lost in Marrakech Souk](https://open.spotify.com/album/4sCJR6VSHWfVD7nnwInL0B) | 6:23 | 2023-03-29 |  |
+| [Lost in Marrakech Souk](https://open.spotify.com/track/5upMlh6OdTk0aG5x3OeYnA) | [Janne Huttunen](https://open.spotify.com/artist/2vnmi19CBiKUjsjyrLfyhA) | [Lost in Marrakech Souk](https://open.spotify.com/album/4sCJR6VSHWfVD7nnwInL0B) | 6:23 | 2023-03-29 | 2023-04-29 |
 | [Love and Maladies](https://open.spotify.com/track/5kHdEAX0zIB3DV2Yg8AsSy) | [Alder Ego](https://open.spotify.com/artist/5lnac6VXp2oB9RSmUFV67V), [Joonas Leppänen](https://open.spotify.com/artist/7tssiqMSglLWZRKPMFW3Fg), [Tomi Nikku](https://open.spotify.com/artist/4PePBixKLlpOaotcULtg7o), [Jarno Tikka](https://open.spotify.com/artist/5xFUZqOD0dGWFwF7cDdIzL), [Nathan Francis](https://open.spotify.com/artist/5jf2gBULW0kRu9YXQ0L6oL) | [III](https://open.spotify.com/album/2GmTfaTiwX055jsxaiKPuE) | 8:16 | 2022-09-02 | 2022-09-23 |
 | [Löyly](https://open.spotify.com/track/5PajsYtW5p4Ouut9qxesuZ) | [Teea Aarnio](https://open.spotify.com/artist/4OOpIlBLL7ldq83P15jkQM) | [Löyly](https://open.spotify.com/album/4rlRsxnaAZusRH6DtiLrQc) | 5:22 | 2023-03-29 |  |
 | [Made In Finland](https://open.spotify.com/track/3tshGD2GGqWYPPnB5L9DL7) | [Markus Venehsalo](https://open.spotify.com/artist/5WgO7f5jW1v9d0WhVQa6f2), [Mavon Safia](https://open.spotify.com/artist/3kbUjuq9gPGEYlzhP1nCit) | [Made in Finland](https://open.spotify.com/album/49Fi3MgqfxOr16AnpIa9M7) | 4:26 | 2023-03-31 |  |
@@ -79,6 +80,7 @@
 | [Nocturne](https://open.spotify.com/track/0iwtrXQ6hkcuRqSuAhWplA) | [Emma Salokoski](https://open.spotify.com/artist/4lkbQDGu2L3lpSmZnb0b8U), [Jarmo Saari](https://open.spotify.com/artist/37iScztCuS0YBVo4ta3Gcn) | [Nocturne](https://open.spotify.com/album/54j1wZqvFpfXHSdj2joxkF) | 4:30 | 2023-02-17 |  |
 | [Northern Journey](https://open.spotify.com/track/7fJ1mBSGYpNtT6tgOHfovt) | [Manuel Dunkel](https://open.spotify.com/artist/7j2FF5LqjO8mB3iT2PxnV8) | [Northern Journey](https://open.spotify.com/album/7l0MEB1zSQrL6ISBLpJCxf) | 7:17 | 2022-09-02 | 2023-01-28 |
 | [November](https://open.spotify.com/track/5Jvk0Oe071dMpFzvdhD8DC) | [Artturi Rönkä](https://open.spotify.com/artist/5OUO2uQgJ6P0eWW4SxMdac), [Daniel Sommer](https://open.spotify.com/artist/3BWDiqu2vlyz18ZDMsZ5VO) | [Varo](https://open.spotify.com/album/1v0xTiCWYokedWuVT8GBTW) | 3:10 | 2022-09-02 |  |
+| [One Perfect Morning](https://open.spotify.com/track/0E6lLl60PZYQIVRVsdTzVV) | [Janne Huttunen](https://open.spotify.com/artist/2vnmi19CBiKUjsjyrLfyhA) | [One Perfect Morning](https://open.spotify.com/album/7b9GDccYEQB9ccL7rPxuK3) | 5:18 | 2023-04-28 |  |
 | [One small step](https://open.spotify.com/track/0oXgF2YDoQ9o4GgYWjHz5F) | [Ville Tomminen](https://open.spotify.com/artist/3z05cHmgpoxtH09pPL5sYD) | [One small step](https://open.spotify.com/album/0GY9ODHnnp43DXGAIrjiap) | 4:49 | 2022-09-22 |  |
 | [Orlo](https://open.spotify.com/track/6JHImit1Hmvx8x7Qx6cAJd) | [Timo Lassy](https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq) | [Orlo](https://open.spotify.com/album/77VgiOCIC8xoZv7KNLnooh) | 4:55 | 2022-09-02 | 2023-02-18 |
 | [Parade](https://open.spotify.com/track/2Ut23DFEzsvCywpleGYDXv) | [Kerkko Koskinen](https://open.spotify.com/artist/2UY9x8QKk1ZIRgNuBtzvxo), [Linda Fredriksson](https://open.spotify.com/artist/341VCWqMvdMnDP98GjaGYL), [UMO Helsinki Jazz Orchestra](https://open.spotify.com/artist/7wfO8pXRKhjRBFVKdSvdWq) | [Agatha 2](https://open.spotify.com/album/0Z0wyJ2AhSoqihYUpCCCvC) | 4:06 | 2022-09-02 |  |

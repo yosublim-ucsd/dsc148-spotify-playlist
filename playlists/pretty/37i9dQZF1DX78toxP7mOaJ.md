@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Friko \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,024 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,062 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 6 | [Something Good](https://open.spotify.com/track/5t1MLxm9vWYxK3m13QoHts) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [Something Good](https://open.spotify.com/album/5TXmQygkvgmQyWOZbAaZuq) | 3:45 |
 | 7 | [Beige Bouquet](https://open.spotify.com/track/1ToWM2CFH8xJW3GekCKFKX) | [The Thing](https://open.spotify.com/artist/7dQ8sxeaPMgVhWn2R1jd9L) | [Here's The Thing](https://open.spotify.com/album/7D6T266nZIgvmwmihILOHK) | 2:48 |
 | 8 | [Wire](https://open.spotify.com/track/6QENvtADv9BFPu9i8y1BLj) | [BERMUD](https://open.spotify.com/artist/11bu3VqvH6SseXWsovc64V) | [Chetter Hummin](https://open.spotify.com/album/0RcoPkoz89KvevyQ2sCSfr) | 3:38 |
-| 9 | [Crimson to Chrome](https://open.spotify.com/track/7Glc8vWNMAozw6DDK9KMm7) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Crimson to Chrome](https://open.spotify.com/album/2QzqfzIEOEOsT5edrAyniD) | 3:28 |
+| 9 | [Crimson to Chrome](https://open.spotify.com/track/51z0dKznDBCOYTumpGJXoj) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Crimson to Chrome](https://open.spotify.com/album/4AxFhcAdZ2mZQsijvKpcOr) | 3:28 |
 | 10 | [Forestry](https://open.spotify.com/track/7o4drHsPt66rh7Nepak0eX) | [Day We Ran](https://open.spotify.com/artist/6dtbK89qIT2XjIsCQHjTxS) | [Forestry](https://open.spotify.com/album/6pyWW8Sn7NLREgza1UZW0S) | 3:12 |
 | 11 | [London](https://open.spotify.com/track/729YjD3jEppSHMZ8cya2v9) | [Pynch](https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9) | [London](https://open.spotify.com/album/6SyduDDcnQD27aApxjogtX) | 4:59 |
 | 12 | [Overrater](https://open.spotify.com/track/33TEgO3KXWg0YF2l4alGxW) | [Superviolet](https://open.spotify.com/artist/49B8mk1ywQNFmIYthC2p8P) | [Overrater](https://open.spotify.com/album/431ylF1klJ09GIR8AHicoV) | 3:51 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 54 | [To the Slaughter](https://open.spotify.com/track/5S3bAaXKpNIIg7WuBhobr9) | [Marlo The Barbarian](https://open.spotify.com/artist/7m1BqrwcrLup29cVvXTQ6I) | [To the Slaughter](https://open.spotify.com/album/4bmZaCI5IvSbLimZXFTfFR) | 1:33 |
 | 55 | [Time](https://open.spotify.com/track/4Yw8Asmn9g1R2rQYp28iF0) | [Object of Affection](https://open.spotify.com/artist/1U4tj1OPey66HhgVXGdlSY) | [Field of Appearances](https://open.spotify.com/album/0VanY2kjOAoWoAki0lDZLA) | 2:22 |
 | 56 | [Keep Me Sane](https://open.spotify.com/track/2WOICHVDt9A9xDwWG4i8Jw) | [Loose Lips](https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND) | [Keep Me Sane](https://open.spotify.com/album/2qgPRNfb783lWEpKc3Gmpj) | 3:10 |
-| 57 | [Lose the Shoes](https://open.spotify.com/track/2jXhuA9SU1NvrNzci2kdSe) | [Holm](https://open.spotify.com/artist/5AiyVqvMHyMNysmAYdo7ZQ) | [Lose the Shoes](https://open.spotify.com/album/4vJMQUOUCJX3AWUm2NUCnq) | 2:31 |
+| 57 | [Lose the Shoes](https://open.spotify.com/track/5VKvzYYYR0sFhBbjZgcugi) | [Holm](https://open.spotify.com/artist/5AiyVqvMHyMNysmAYdo7ZQ) | [Lose the Shoes](https://open.spotify.com/album/7EQCC4jW26E24NkReakwv3) | 2:31 |
 | 58 | [Buck](https://open.spotify.com/track/2yE7012fgUjyzzmbWL8yS6) | [SNAYX](https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0) | [Buck](https://open.spotify.com/album/5Ac4lXopdeGd0IztFzEZ13) | 3:59 |
 | 59 | [Crumbling](https://open.spotify.com/track/2EJgEVwGWA0tvt3xgDUAOh) | [Sign Language](https://open.spotify.com/artist/3KdIx1AzUI5DQCazdl4yKg) | [Crumbling](https://open.spotify.com/album/5k67HhKmzB4FrsIk7PUkzy) | 3:13 |
 | 60 | [A Thousand Times](https://open.spotify.com/track/41XpzuuYGBLjABDxKUmyfb) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [A Thousand Times](https://open.spotify.com/album/1q6NkoCxsql18p375cHgm7) | 3:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [We Can Start Over](https://open.spotify.com/track/6DT2cBHPFHcu7XSil5WB9m) | [Johnny Lloyd](https://open.spotify.com/artist/2e3MqeCoPC7BSElTEf0y89), [Clif Norrell](https://open.spotify.com/artist/764aj7OJ6vswtZn1C4tLxD) | [Reanimate](https://open.spotify.com/album/227KS6xrpjU61XKwQraxDx) | 3:11 |
 | 100 | [Opossum! My Possum!](https://open.spotify.com/track/5yghSwq7jePANBrd72J8Ly) | [Thanks! I Hate It](https://open.spotify.com/artist/2AXYLreE6e33pDQgQNNNyu) | [Lovers Lane](https://open.spotify.com/album/66VJJVlE4sn1PlZVIRKW58) | 3:45 |
 
-Snapshot ID: `MCw2ODlkMTk2YWVjODA5Yjg0ODcxMzZmZjNlNGNlM2NiMTIxYzBkZDIx`
+Snapshot ID: `MCw3MTg3ZTdjZTNiOGEzOWEzMmE4YzJlNWI3MjY1OTAyYjIyNWYzMmQy`

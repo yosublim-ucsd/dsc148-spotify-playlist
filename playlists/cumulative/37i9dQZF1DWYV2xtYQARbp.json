@@ -168,7 +168,7 @@
     {
       "album": {
         "name": "All You Can Eat!!",
-        "url": "https://open.spotify.com/album/0SZdR12aWXo9aZRurBvADH"
+        "url": "https://open.spotify.com/album/6PEL9tRZqgzzxq3RmpOm9O"
       },
       "artists": [
         {
@@ -179,6 +179,24 @@
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 237173,
+      "name": "Crackalacka",
+      "url": "https://open.spotify.com/track/6cxujOKEfegpNfIhb7Ma6v"
+    },
+    {
+      "album": {
+        "name": "All You Can Eat!!",
+        "url": "https://open.spotify.com/album/0SZdR12aWXo9aZRurBvADH"
+      },
+      "artists": [
+        {
+          "name": "Left Lane Cruiser",
+          "url": "https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
       "duration_ms": 237173,
       "name": "Crackalacka",
       "url": "https://open.spotify.com/track/7hOazEoGmlZrK63w6wMMwA"
@@ -564,7 +582,7 @@
     {
       "album": {
         "name": "Rock Them Back to Hell",
-        "url": "https://open.spotify.com/album/69r2ctILSEOWoln10Cv7pL"
+        "url": "https://open.spotify.com/album/1a8q2lXWcdJdo0v1JP8S2E"
       },
       "artists": [
         {
@@ -575,6 +593,24 @@
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 143360,
+      "name": "Juice To Get Loose",
+      "url": "https://open.spotify.com/track/1untagwh1UZVlcY41ctNmU"
+    },
+    {
+      "album": {
+        "name": "Rock Them Back to Hell",
+        "url": "https://open.spotify.com/album/69r2ctILSEOWoln10Cv7pL"
+      },
+      "artists": [
+        {
+          "name": "Left Lane Cruiser",
+          "url": "https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
       "duration_ms": 143360,
       "name": "Juice To Get Loose",
       "url": "https://open.spotify.com/track/22iRJyuVt7nm19ww7pRHKu"

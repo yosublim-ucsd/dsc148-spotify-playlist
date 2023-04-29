@@ -4,10 +4,11 @@
 
 > Relax and take it slow today
 
-173 songs - 9 hr 41 min
+176 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [18](https://open.spotify.com/track/0xMDAZkHccTgIi87Tdd1An) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [18](https://open.spotify.com/album/0rfFKuEbn9Ez9qPGJQfFzf) | 2:51 | 2023-04-28 |  |
 | [A Few Days](https://open.spotify.com/track/7JFj0OKnXDafgLc7LNPl9w) | [Summer Overstreet](https://open.spotify.com/artist/73z6hYt1jsBWSbm2irWqlz) | [A Few Days](https://open.spotify.com/album/71uN4BV7Vb8c1CanxlHVGV) | 3:07 | 2021-04-19 | 2022-09-24 |
 | [A Simple Song](https://open.spotify.com/track/1XXl9pl7ObojHbyJetY75n) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 3:36 | 2021-04-19 | 2022-04-29 |
 | [Ain't My Place \- Acoustic](https://open.spotify.com/track/1aEleT5rCGxHHK0IGbHjq8) | [Brett Sheroky](https://open.spotify.com/artist/4pj3a0izNOahe0XGIuqAQB) | [Ain't My Place \(Acoustic\)](https://open.spotify.com/album/4MK30nUaWHXS8sFZQL96aT) | 3:36 | 2021-04-19 | 2023-02-04 |
@@ -102,7 +103,8 @@
 | [Only Child](https://open.spotify.com/track/2h5ojbptFkRmt4f6PIFmSf) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:27 | 2022-09-16 |  |
 | [Other Side of Goodbye](https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Other Side of Goodbye](https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ) | 2:34 | 2022-01-14 |  |
 | [Part of Me](https://open.spotify.com/track/7aG1xKK3cdvg7JUKaECwJ4) | [Good Old War](https://open.spotify.com/artist/33szNKNcVX8x0jl8X7hxHL) | [Part of Me](https://open.spotify.com/album/0aQ29oayqhH1KEspyySPZh) | 3:02 | 2021-04-19 | 2022-04-29 |
-| [Passengers \- Acoustic](https://open.spotify.com/track/75LVQ838VkwnnUoIbenc0p) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Passengers](https://open.spotify.com/album/6v14NJ0x1lStiPzpm1iBnW) | 3:36 | 2022-03-25 |  |
+| [Passengers \- Acoustic](https://open.spotify.com/track/3kZgtM2p8Ep5dZnpiwc4iH) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Passengers](https://open.spotify.com/album/1eVGS5kWPR0cndQ60wg4Gz) | 3:36 | 2022-03-25 |  |
+| [Passengers \- Acoustic](https://open.spotify.com/track/75LVQ838VkwnnUoIbenc0p) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Passengers](https://open.spotify.com/album/6v14NJ0x1lStiPzpm1iBnW) | 3:36 | 2022-03-25 | 2023-04-29 |
 | [People Get Old](https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Tree](https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm) | 3:42 | 2021-04-19 |  |
 | [phase of me](https://open.spotify.com/track/7n8W0rzwYi0Z8PW84tqrr7) | [Raleigh Keegan](https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV) | [phase of me](https://open.spotify.com/album/7p7RgglpB7caGq30EHubrm) | 2:55 | 2021-04-19 | 2022-04-29 |
 | [Pick up Our Boots](https://open.spotify.com/track/4Smq0MN0zQWg2fjUE54evF) | [100 mile house](https://open.spotify.com/artist/5t7Du7mr4SuO68pIFCdCVc) | [Hiraeth](https://open.spotify.com/album/4mwUeQptlQ9im6Vdv3QPDu) | 3:08 | 2021-04-19 | 2022-04-29 |
@@ -123,7 +125,7 @@
 | [Safe](https://open.spotify.com/track/4pXP1x8noxi1sNU6s70QCJ) | [Ward Thomas](https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw) | [Cartwheels](https://open.spotify.com/album/13Qj9WO3Udtb1cHO0C55gE) | 4:04 | 2021-04-19 |  |
 | [Salvation Bound](https://open.spotify.com/track/2oiOrBjI5jCAHzxsk94Tne) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | ['87](https://open.spotify.com/album/55gCIl2LqtXopTZHUtMqp3) | 4:18 | 2021-04-19 | 2022-04-29 |
 | [Secrets](https://open.spotify.com/track/09JkoxugEb7f647ZOYJWKr) | [Holly Auna](https://open.spotify.com/artist/2aefoxhYo07rsDSSWgPUO1) | [Love Shouldn't Be so Hard](https://open.spotify.com/album/5LT7V0tguPUv9AWIjXZ8E1) | 3:45 | 2021-04-19 |  |
-| [Shadows](https://open.spotify.com/track/1YQqDS69c6OhMMeEZ2PbQY) | [Johnson Crook](https://open.spotify.com/artist/56oIzWywvNu41cJQVc6ico) | [The Album](https://open.spotify.com/album/0L4UdA9Ik2aGpDIHJEwCU3) | 4:59 | 2021-04-19 |  |
+| [Shadows](https://open.spotify.com/track/1YQqDS69c6OhMMeEZ2PbQY) | [Johnson Crook](https://open.spotify.com/artist/56oIzWywvNu41cJQVc6ico) | [The Album](https://open.spotify.com/album/0L4UdA9Ik2aGpDIHJEwCU3) | 4:59 | 2021-04-19 | 2023-04-29 |
 | [Sing Along](https://open.spotify.com/track/1zb4ZZelw0x6HSlAElN2VR) | [Corey Smith](https://open.spotify.com/artist/2Da6v0shOpKrOG07ZxonXo) | [Sing Along](https://open.spotify.com/album/1SVQFBoPhymTt2uTkEUY9H) | 3:06 | 2021-04-19 | 2022-06-04 |
 | [Sit Here And Love Me](https://open.spotify.com/track/0i9bJuIk23kzlUIZY0vUPG) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Mint Condition](https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794) | 3:25 | 2021-04-19 |  |
 | [Sit Here And Love Me](https://open.spotify.com/track/3HNmRvdUy8Ms0iefdvM0nk) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Sit Here And Love Me](https://open.spotify.com/album/1uxkoe2SMjfBabPr6MWSJP) | 3:25 | 2021-04-19 | 2022-07-29 |
@@ -131,7 +133,7 @@
 | [Stand Like an Oak](https://open.spotify.com/track/6VXHUPu7zooSbuu8ZyKu9M) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Stand Like an Oak](https://open.spotify.com/album/3hMbzAsZb8Wl78Ob7aGhGO) | 3:01 | 2021-04-19 | 2022-07-29 |
 | [Stand Like An Oak](https://open.spotify.com/track/77TcbXD97SC7XFkiwPf1AA) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Stand Like An Oak](https://open.spotify.com/album/5Jgrs4V3LjPJ5tSxt4FkPO) | 3:01 | 2021-04-19 | 2022-09-30 |
 | [Stand Like An Oak](https://open.spotify.com/track/7m7D0k9Whqisn2eDyVrPNO) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Stand Like An Oak](https://open.spotify.com/album/2HcVT6N62n55L2TAMDgqid) | 3:01 | 2021-04-19 |  |
-| [Stay for a While](https://open.spotify.com/track/4Un0UIwMc6h7NYa4ZkjnCf) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [A Face Like Mine](https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk) | 4:04 | 2021-04-19 |  |
+| [Stay for a While](https://open.spotify.com/track/4Un0UIwMc6h7NYa4ZkjnCf) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [A Face Like Mine](https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk) | 4:04 | 2021-04-19 | 2023-04-29 |
 | [Stupid Heart](https://open.spotify.com/track/2D7lpPTMZIiUjzdVbcfbiE) | [Kira Isabella](https://open.spotify.com/artist/67Dpp3kDh6tqv9TcIzOi38) | [Side A](https://open.spotify.com/album/34bb5VRuc8xCORxsIXSCyw) | 3:02 | 2021-04-19 | 2022-11-13 |
 | [Stupid Heart](https://open.spotify.com/track/49LO8TA171dpEzwGZlBO91) | [Kira Isabella](https://open.spotify.com/artist/67Dpp3kDh6tqv9TcIzOi38) | [Sides](https://open.spotify.com/album/7JCQA4uw0BpFSlvO1PYgRE) | 3:02 | 2021-04-19 | 2022-07-29 |
 | [Stupid Heart](https://open.spotify.com/track/6flMnPKgGGP9YDM6CmlLBc) | [Kira Isabella](https://open.spotify.com/artist/67Dpp3kDh6tqv9TcIzOi38) | [Sides](https://open.spotify.com/album/5ZvsZpIUyeslcbkaICxJP5) | 3:02 | 2021-04-19 |  |
@@ -155,6 +157,7 @@
 | [Things You Hate, Things I Love \(Acoustic\)](https://open.spotify.com/track/3ZNl15kE12wwsqSainoMpy) | [Stevenson Everett](https://open.spotify.com/artist/2VjaUsXjLqXvqNjLR08SyZ) | [Things You Hate, Things I Love \(Acoustic\)](https://open.spotify.com/album/5gbEV03eIWJTb3gjIwDjpX) | 3:26 | 2021-04-19 |  |
 | [This Feeling](https://open.spotify.com/track/6qpVj3AuwobyWyDdg7TPay) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe\)](https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA) | 4:28 | 2021-12-03 |  |
 | [Til the River Takes Us Home](https://open.spotify.com/track/3EiIk1CUYBxFhDo2c38Elp) | [Sam Teskey](https://open.spotify.com/artist/5tXk98OKpmBXhjUkBsQxfZ) | [Til the River Takes Us Home](https://open.spotify.com/album/3fDaftBNXBv1wNCGUmi7Ms) | 4:21 | 2021-08-27 | 2022-08-13 |
+| [Time](https://open.spotify.com/track/34ncyljvlMvfj2yJDhPaJf) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [West on I\-10](https://open.spotify.com/album/2Xz0fS1DBBIjLRVkImPFD0) | 3:26 | 2023-04-28 |  |
 | [Tin Man](https://open.spotify.com/track/4ckQIgBy1gVeevf7UAereE) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 4:19 | 2021-04-19 | 2022-04-29 |
 | [To Be Alone](https://open.spotify.com/track/2rMRJx6otE8fMl5hXQn91g) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [I'm With You](https://open.spotify.com/album/5aUd0ggP3UhS9irzEqy6J7) | 3:36 | 2022-03-11 |  |
 | [To Be Alone](https://open.spotify.com/track/2yqWZjDv5jJaBdco4z5kkp) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [To Be Alone](https://open.spotify.com/album/2weElGUGM0TUzRMLmpcayX) | 3:36 | 2022-03-11 | 2022-10-21 |

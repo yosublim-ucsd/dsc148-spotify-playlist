@@ -1,12 +1,12 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 122257,
+  "num_followers": 122273,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDQ3NjJlZjFhNmZmNWE5OTcwODg3ZDczYTc2ZTcxMTE3MmRlNmUz",
+  "snapshot_id": "MCwyODZkYWYzMzI5ZTNkMDQzZWVhYWJkZDYxMWIzZDA0OTUyMDMyMzdh",
   "tracks": [
     {
       "added_at": "2023-02-17 05:58:00",
@@ -183,26 +183,6 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/6OevmK3tcivYCuZKtJ6PRC"
-      },
-      "artists": [
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        },
-        {
-          "name": "Minuk",
-          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
-        }
-      ],
-      "duration_ms": 254815,
-      "name": "Coraz\u00f3n de Rub\u00ed",
-      "url": "https://open.spotify.com/track/4zBYQGO8dU0SVpm3Zld6q2"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
         "name": "Tristes Tr\u00f3picos",
         "url": "https://open.spotify.com/album/5Db5UP6d1ccr8UvILSxv0L"
       },
@@ -259,22 +239,6 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Amansara",
-        "url": "https://open.spotify.com/album/2XJlMNLjYOr31TTFd21GED"
-      },
-      "artists": [
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        }
-      ],
-      "duration_ms": 233012,
-      "name": "Sueno en Paraguay",
-      "url": "https://open.spotify.com/track/7BEt4czPOQAMLHVszAQ3XR"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
         "name": "Mirla",
         "url": "https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7"
       },
@@ -287,6 +251,22 @@
       "duration_ms": 264066,
       "name": "Mirla",
       "url": "https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "Amansara",
+        "url": "https://open.spotify.com/album/2XJlMNLjYOr31TTFd21GED"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 233012,
+      "name": "Sueno en Paraguay",
+      "url": "https://open.spotify.com/track/7BEt4czPOQAMLHVszAQ3XR"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -819,22 +799,6 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Lo Mejor de los Kjarkas",
-        "url": "https://open.spotify.com/album/4AioSjCy9kSATUkERbkzo9"
-      },
-      "artists": [
-        {
-          "name": "Los Kjarkas",
-          "url": "https://open.spotify.com/artist/0tkboyBYNymYytYlb9EXkN"
-        }
-      ],
-      "duration_ms": 216372,
-      "name": "Sunch'u T'ikitay - Remastered",
-      "url": "https://open.spotify.com/track/1kuH31to6yBPXaAvVUmisu"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
         "name": "Hasta Donde Mande el Cuerpo",
         "url": "https://open.spotify.com/album/0wxoLfkWTTIyym169xRgfE"
       },
@@ -851,6 +815,22 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
+        "name": "Lo Mejor de los Kjarkas",
+        "url": "https://open.spotify.com/album/4AioSjCy9kSATUkERbkzo9"
+      },
+      "artists": [
+        {
+          "name": "Los Kjarkas",
+          "url": "https://open.spotify.com/artist/0tkboyBYNymYytYlb9EXkN"
+        }
+      ],
+      "duration_ms": 216372,
+      "name": "Sunch'u T'ikitay - Remastered",
+      "url": "https://open.spotify.com/track/1kuH31to6yBPXaAvVUmisu"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
         "name": "Morena Esperanza (Remasterizado)",
         "url": "https://open.spotify.com/album/5XKPz8xM5PTS5vzaC7gyrY"
       },
@@ -863,6 +843,22 @@
       "duration_ms": 266080,
       "name": "Isla Negra",
       "url": "https://open.spotify.com/track/4HK6iuNDF0SC5Vz7jznprn"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "Eso Que Tu Haces",
+        "url": "https://open.spotify.com/album/4JGmH3z4Hr3xhUEWvnAqz7"
+      },
+      "artists": [
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        }
+      ],
+      "duration_ms": 273067,
+      "name": "Eso Que Tu Haces",
+      "url": "https://open.spotify.com/track/3KXaCW6XnAJnon4VwwVJWY"
     }
   ],
   "unique_name": "Entre los Andes",

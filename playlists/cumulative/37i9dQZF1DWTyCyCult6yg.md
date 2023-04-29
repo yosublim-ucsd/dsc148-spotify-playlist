@@ -4,7 +4,7 @@
 
 > Caterina Barbieri's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambiente</a>.
 
-31 songs - 4 hr 39 min
+32 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [The Dance No\. 1](https://open.spotify.com/track/2z7VAEi6i9GMkQloRUzyu1) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 3: Day Of Radiance](https://open.spotify.com/album/42Lahj8mKJKxPgncRXPuPw) | 9:15 | 2023-01-10 |  |
 | [The Landscape Listens](https://open.spotify.com/track/6qQTNojH1JExNttv0NthOb) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Spirit Exit](https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH) | 8:17 | 2023-01-10 |  |
 | [Titik Titik Kenai Ujan \(The Sound of Rain\)](https://open.spotify.com/track/0QjeE0Xx4uDwjnGzlzboGU) | [Tusau Padan](https://open.spotify.com/artist/6118mSy0ooADEhDqoS6B2X) | [Masters of the Sarawakian Sape, Featuring Tusau Padan](https://open.spotify.com/album/6SBMB6gFg8FtPV3blJFFis) | 9:10 | 2023-01-10 |  |
-| [Variation \#9: Pantelleria](https://open.spotify.com/track/2jlUqwqE1bXbo0Lfd0D8jq) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Variations For Piano & Tape](https://open.spotify.com/album/6MvIw0T6gV58pmiqxylymi) | 44:37 | 2023-01-10 |  |
+| [Variation \#9: Pantelleria](https://open.spotify.com/track/2OdF7JWprGAps570PA57dS) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Variations For Piano & Tape](https://open.spotify.com/album/3YajhQtcNYZbLooxeVp4KA) | 44:37 | 2023-01-10 |  |
+| [Variation \#9: Pantelleria](https://open.spotify.com/track/2jlUqwqE1bXbo0Lfd0D8jq) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Variations For Piano & Tape](https://open.spotify.com/album/6MvIw0T6gV58pmiqxylymi) | 44:37 | 2023-01-10 | 2023-04-29 |
 | [Void](https://open.spotify.com/track/5CSCXD6XejaxTHBG57Ap2m) | [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K) | [Cracks](https://open.spotify.com/album/0SKz3oXHcgtANIjmTDO2yJ) | 4:27 | 2023-01-10 |  |
 | [Voyager](https://open.spotify.com/track/4VWqW5L7atG0psu8TtCVyN) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [In Free Fall](https://open.spotify.com/album/6SG8tzZmlQBCQQSNzMmqQ2) | 4:04 | 2023-01-10 |  |
 

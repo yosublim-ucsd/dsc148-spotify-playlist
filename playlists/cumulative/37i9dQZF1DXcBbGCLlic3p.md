@@ -4,7 +4,7 @@
 
 > Restorative piano and ambient music.
 
-263 songs - 12 hr 51 min
+264 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [](https://open.spotify.com/track/7vK9F11sa8mdyAgUp3CthS) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6xrIXzPQXnLe2pwkzKsK3o) | 0:00 | 2021-12-23 | 2022-12-21 |
 | [](https://open.spotify.com/track/7xzeJbiPtEJY5aYqkB2fwY) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1wRozGRs0G4auZhSA4UseC) | 0:00 | 2021-12-23 | 2022-09-03 |
 | [& Wishes](https://open.spotify.com/track/4hkCo5wgTmVLuVRUUgPDu7) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [Bittersweet World](https://open.spotify.com/album/6S14GsEPWVumGwNoc4t0Zw) | 2:43 | 2021-12-23 | 2022-07-29 |
-| [& Wishes](https://open.spotify.com/track/73hY81aqUHZF1KHCY7P5Mk) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [Bittersweet World](https://open.spotify.com/album/6btauNVZRPm75SILUUOLJY) | 2:44 | 2022-07-22 |  |
+| [& Wishes](https://open.spotify.com/track/73hY81aqUHZF1KHCY7P5Mk) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [Bittersweet World](https://open.spotify.com/album/6btauNVZRPm75SILUUOLJY) | 2:44 | 2022-07-22 | 2023-04-29 |
 | [A Hundred Years](https://open.spotify.com/track/4An6hT0FiW9RijAIej8NEp) | [Sleeptone](https://open.spotify.com/artist/62K5MlkTYIHSpF8pqbuf5m) | [Shine](https://open.spotify.com/album/11QoIoyTLRMCtRTdGmRqJY) | 2:26 | 2022-12-02 |  |
 | [A l'aube](https://open.spotify.com/track/4kyq9I3MUOK4UCt9KojulV) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [A l'aube](https://open.spotify.com/album/2PiAhpMBDjNqN85uHRf60G) | 3:24 | 2021-12-23 | 2023-01-10 |
 | [A Mind At Peace](https://open.spotify.com/track/6HreYBZASx5JJR82jvZCNs) | [Ramos Goya](https://open.spotify.com/artist/51ZB0MgNvM5OYR47z0wEDj) | [A Mind At Peace](https://open.spotify.com/album/3Uh5lwdmIItGFysG7thSkz) | 2:42 | 2022-11-11 |  |
@@ -100,6 +100,7 @@
 | [Healing Sun](https://open.spotify.com/track/71Fs3eUdUvsUdBK0r2qERV) | [St/llar](https://open.spotify.com/artist/1gfLjawL26XCWfHI8lyi5B) | [Healing Sun](https://open.spotify.com/album/4Im2u0xbcI5VJIZvnD3x1B) | 2:42 | 2023-02-17 |  |
 | [Hearts Made of Gold](https://open.spotify.com/track/3saEHBnU9n5mDGwXchbre6) | [Lisa Rex](https://open.spotify.com/artist/2phMpVsIMBg1Htuv0lF9Pq) | [Hearts Made of Gold](https://open.spotify.com/album/6wd4w4oIY1olCuu689poNo) | 3:05 | 2021-12-23 | 2022-10-15 |
 | [Heaven's Shore](https://open.spotify.com/track/1pAmp7cLogyrAnOyxrTdYY) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Mindful Sleep](https://open.spotify.com/album/2kFyWqR5s7lvq8uNYGx6mj) | 3:32 | 2021-12-23 |  |
+| [Heavy Cloud](https://open.spotify.com/track/3PnhtonoNabJjbuTxFqT2Z) | [Warren Blues](https://open.spotify.com/artist/3YG7KJgAF3q7udoynLzWXU) | [The East Wind](https://open.spotify.com/album/14GlV5L5ms2sQx8TQ2ygYW) | 3:42 | 2023-04-28 |  |
 | [Hesperus](https://open.spotify.com/track/5BPskS9THo8GzpNB1prEOM) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Hesperus](https://open.spotify.com/album/3HzGSOjcVYWlvhLBIf60JH) | 3:20 | 2022-01-07 |  |
 | [Hidden Principles](https://open.spotify.com/track/3DHSM5fxFWtCCS57USzgPU) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Sense of Unity](https://open.spotify.com/album/4N9bbWQC5sE5d3QeIdYLaT) | 3:11 | 2021-12-23 | 2022-12-31 |
 | [Hiraeth](https://open.spotify.com/track/5DNpEwASbbGXz9wbr0ex6v) | [Chieloka](https://open.spotify.com/artist/3IBhxjT8AiBiz7DpMUEjEj) | [Hiraeth](https://open.spotify.com/album/5Ez2Xog7cRrcbx0W95g32V) | 3:01 | 2021-12-23 | 2022-09-03 |

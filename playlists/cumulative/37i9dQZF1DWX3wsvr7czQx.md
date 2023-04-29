@@ -4,7 +4,7 @@
 
 > Icons only\. Cover: Michael Bolton
 
-80 songs - 5 hr 17 min
+81 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [All Is Well](https://open.spotify.com/track/2I92BoMwz7ChEbSeuKEnQh) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [All Is Well](https://open.spotify.com/album/592OJr6HhuC1przr7bDMoL) | 4:32 | 2021-10-22 | 2023-04-09 |
 | [Always Have, Always Will](https://open.spotify.com/track/02p16pYf7Hk0zgkwGF5EzL) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [So Happy It Hurts](https://open.spotify.com/album/5tccDKivQOkZJSlAbVwWHI) | 3:46 | 2022-03-11 |  |
 | [Another One Like You](https://open.spotify.com/track/7LG4q9SfTN7JKSXfR9TjPP) | [Eric Johnson](https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb) | [The Book of Making / Yesterday Meets Today](https://open.spotify.com/album/37fPofkMlxgccr5E7sRXz3) | 3:46 | 2022-07-29 | 2023-04-15 |
-| [Anything Can Happen \(feat\. Leon Russell\)](https://open.spotify.com/track/6XFMd8YMUYptBu7A4FBPJj) | [Bruce Hornsby](https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo), [Leon Russell](https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN) | [Anything Can Happen \(feat\. Leon Russell\)](https://open.spotify.com/album/2ArblNA5QAgMt05M22CG78) | 3:44 | 2021-10-22 |  |
+| [Anything Can Happen \(feat\. Leon Russell\)](https://open.spotify.com/track/6XFMd8YMUYptBu7A4FBPJj) | [Bruce Hornsby](https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo), [Leon Russell](https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN) | [Anything Can Happen \(feat\. Leon Russell\)](https://open.spotify.com/album/2ArblNA5QAgMt05M22CG78) | 3:44 | 2021-10-22 | 2023-04-29 |
 | [Bang A Gong \(Get It On\)](https://open.spotify.com/track/53D3QRrXV0vyy2PSXAhuxG) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Bang A Gong \(Get It On\)](https://open.spotify.com/album/0aptgsGtrV5XvnopE7ZjSo) | 4:26 | 2021-10-22 |  |
 | [Beautiful Sunshine](https://open.spotify.com/track/06vruaOv6AAjmL0lGhimEI) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai) | [The Journey](https://open.spotify.com/album/5wqUZZr1E77YnRSBYD0Y5E) | 2:55 | 2021-11-05 |  |
 | [Beautiful World \(From “American Song Contest”\)](https://open.spotify.com/track/2UKJt37EGeYkSc4qx13cq8) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [American Song Contest](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) | [Beautiful World \(From “American Song Contest”\)](https://open.spotify.com/album/4nkhERcJG0Zg9dlfrgA55B) | 3:17 | 2022-03-25 |  |
@@ -84,6 +84,7 @@
 | [Walls](https://open.spotify.com/track/4Re3AZ3OmQWxQHX0NtOzid) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Walls](https://open.spotify.com/album/5QDnUqAeP7Zq51NASyfri1) | 3:32 | 2021-10-22 |  |
 | [We Are The People \(feat\. Bono & The Edge\) \- Official UEFA EURO 2020 Song](https://open.spotify.com/track/1LFVyrx9ZRJ2IyDLRPG8VK) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bono](https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ), [The Edge](https://open.spotify.com/artist/1X8wFHJFucBUmBc7spQ4jP) | [We Are The People \(feat\. Bono & The Edge\) \[Official UEFA EURO 2020 Song\]](https://open.spotify.com/album/4Y3TDAf1jKhdithIywJKCb) | 3:37 | 2021-10-22 | 2022-03-26 |
 | [We Gotta Find Love](https://open.spotify.com/track/0TyXBdGk2qGLrZLWcj8qJd) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [One World](https://open.spotify.com/album/54Z9zCRlk506q4mS2MXwIL) | 4:46 | 2021-10-22 |  |
+| [What You Heard](https://open.spotify.com/track/4y4C6YlIAf9Wjx65uU7nOg) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [What You Heard](https://open.spotify.com/album/5egLTfkAIvzX8y5FWFerxV) | 3:44 | 2023-04-28 |  |
 | [When You Danced With Me](https://open.spotify.com/track/46OKHucGhjhskazqD8tKnH) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voyage](https://open.spotify.com/album/0uUtGVj0y9FjfKful7cABY) | 2:50 | 2021-11-05 |  |
 | [Where Is Our Love Song \(feat\. Gary Clark Jr.\)](https://open.spotify.com/track/7d41wCresuSZFzFh2VRnd2) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Where Is Our Love Song](https://open.spotify.com/album/3rgaqrCj7z4EdOwuDTTjBi) | 3:37 | 2021-10-22 | 2022-08-13 |
 | [Why Can't We Live Together](https://open.spotify.com/track/7fjju295nRrFMwK7bunuEL) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Why Can't We Live Together](https://open.spotify.com/album/3fGr7K47n7t7OYckvx3gpr) | 3:44 | 2023-03-17 |  |

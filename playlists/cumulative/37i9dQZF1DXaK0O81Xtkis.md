@@ -2,9 +2,9 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> make it pop! cover: AJR
+> make it pop! cover: The Aces
 
-622 songs - 1 day 7 hr 19 min
+628 songs - 1 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,11 +72,14 @@
 | [body goes](https://open.spotify.com/track/5UiYm9CRlk2h4IHX1112nF) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [body goes](https://open.spotify.com/album/3BfU5W65mj2eQAR2JjHrVU) | 2:20 | 2022-02-11 | 2022-02-26 |
 | [Body Language](https://open.spotify.com/track/4bBmkUUotaleotNdgSwsen) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Body Language](https://open.spotify.com/album/5TsfSsuDSUjNWuAJ3KoPdW) | 3:23 | 2022-06-17 | 2022-08-27 |
 | [Bowie](https://open.spotify.com/track/5tm0PjvJrLgWlePHirgmo2) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Bowie](https://open.spotify.com/album/3WZEjiV5Zl6lYT2CIlYS80) | 4:41 | 2021-10-29 | 2021-12-25 |
+| [boyfriends/girlfriends](https://open.spotify.com/track/6pnGJhKuluYoxJMuJwuhy0) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [i really like being here](https://open.spotify.com/album/37CgwpUsINEYuVPdYG9Ub1) | 2:42 | 2023-04-28 |  |
 | [Brad Pitt](https://open.spotify.com/track/5F1TZVziCp4TuXIMCsIxwM) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Brad Pitt](https://open.spotify.com/album/2b1tEVkENOaP3ptVK0Zo9D) | 3:36 | 2022-03-11 | 2022-03-26 |
 | [Brand New Morning](https://open.spotify.com/track/6thkkefXGo4swLl5eN60W7) | [Sun Heat](https://open.spotify.com/artist/7bvsCuLF2FR79zNzUbv18f) | [Brand New Morning](https://open.spotify.com/album/2Vc8eJZC4zLgIOLMOSRtWS) | 2:36 | 2022-04-22 | 2022-07-16 |
+| [Break For You](https://open.spotify.com/track/3Y37BUtMctTp22i1LC1sE7) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Break For You](https://open.spotify.com/album/6mRtETwPNimVfkeyKOMzBH) | 2:34 | 2023-04-28 |  |
 | [break up with that guy.](https://open.spotify.com/track/4OhTm6quMnqHRbzntToUKG) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi) | [break up with that guy.](https://open.spotify.com/album/1eUtqH9UpAY4SR6Cst8oSL) | 2:23 | 2022-11-25 | 2023-03-25 |
 | [Broken](https://open.spotify.com/track/1jA53SLb7NDWeWZU74Uvoo) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Broken](https://open.spotify.com/album/0FbgQx8a9EbsFO2TFcTn12) | 3:12 | 2022-02-04 | 2022-03-18 |
 | [Brooklyn\. Friday\. Love.](https://open.spotify.com/track/5y9HfnJfcHDfXZG84RWFz5) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Brooklyn\. Friday\. Love.](https://open.spotify.com/album/7asmUloIMh9aEq4SQBEbKg) | 3:52 | 2022-08-05 | 2022-08-27 |
+| [bubble boi](https://open.spotify.com/track/0g1o9HmpAmCLYYDESbhfZm) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [bubble boi](https://open.spotify.com/album/2DlARJZSNkxBMXQ1xqGug8) | 2:48 | 2023-04-28 |  |
 | [Buy American](https://open.spotify.com/track/7FWgmusJFhVVa41hMBcnsX) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Buy American](https://open.spotify.com/album/6ACtTKubJIs8oJjwHPkjfr) | 3:22 | 2022-01-14 | 2022-02-26 |
 | [Buzzkill Baby](https://open.spotify.com/track/5ylZhwfwtqtACJ9IDYnKkA) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Bittersweet 16](https://open.spotify.com/album/5NrdpIaUiVzSp9dfPxMPO5) | 3:12 | 2023-03-03 |  |
 | [Caffeine](https://open.spotify.com/track/3kEegRRwwQnQ7sik2oRoaJ) | [Max Drazen](https://open.spotify.com/artist/2gxdQj1Dy77p45uTuve030) | [Caffeine](https://open.spotify.com/album/7qOX8bMACIwT1T2wGRNj08) | 2:26 | 2022-07-29 | 2022-09-17 |
@@ -134,6 +137,7 @@
 | [Dead Man Walking](https://open.spotify.com/track/2ol8FEyh73HwRoirGIbNh8) | [Lost Stars](https://open.spotify.com/artist/22LWBhZGE9ycuFtLV6jJYG) | [Dead Man Walking](https://open.spotify.com/album/5d4OHlY3hciR9R7QKBK2vF) | 3:07 | 2022-01-28 | 2022-04-16 |
 | [Deep End](https://open.spotify.com/track/3NE8bmyye8sEOQtWknh8Vi) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Deep End](https://open.spotify.com/album/3UbtakzdZAkZlaZxRfm35p) | 3:38 | 2022-08-19 | 2022-09-24 |
 | [Deja Vu](https://open.spotify.com/track/5BE0hyWcl6EiRrLaW7ef2p) | [LeyeT](https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb) | [Deja Vu](https://open.spotify.com/album/4kfE30WhdmfdBrrRly5WPY) | 2:31 | 2022-06-10 | 2022-08-13 |
+| [Designer](https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Designer](https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l) | 3:10 | 2023-04-28 |  |
 | [Destination](https://open.spotify.com/track/49JXBEa33UUqVb0sdiGIQS) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Destination](https://open.spotify.com/album/5WFKsYhq4eXgAx0mbEYkw6) | 2:43 | 2022-09-23 | 2022-12-15 |
 | [Destination](https://open.spotify.com/track/6UdTm1JRcm4c5iKTWANe9Q) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Destination](https://open.spotify.com/album/0rp4hHB8wUkhM5z3bVZWc5) | 2:43 | 2022-09-23 | 2023-01-14 |
 | [Destination](https://open.spotify.com/track/7C7bJ7Y8ifewQHwWJn0cHj) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Destination](https://open.spotify.com/album/3HNG2SeXfTjlK6uB714dns) | 2:43 | 2022-09-23 | 2022-11-06 |
@@ -177,6 +181,7 @@
 | [Feel Something](https://open.spotify.com/track/1jTxFF7FjIW4USQnnoplX9) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Feel Something](https://open.spotify.com/album/3LFMOM2H8eBY7VRHRbKNzp) | 2:30 | 2022-04-08 | 2022-06-25 |
 | [Figure You Out \(Remix\)](https://open.spotify.com/track/6Tsdf2lE4mFAa6sE052pEP) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Figure You Out \(Remix\)](https://open.spotify.com/album/2UHY1Y6eDdUf1zMPWnJWPH) | 3:12 | 2022-02-11 | 2022-02-26 |
 | [Fine Lines](https://open.spotify.com/track/6adCqDwVKcdXK8f4JHkOfo) | [Alt Bloom](https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP) | [Fine Lines](https://open.spotify.com/album/7oHo3runeV3nHPtjOy4uK3) | 2:27 | 2023-02-24 |  |
+| [Fireworks](https://open.spotify.com/track/2bzo9vmgupmbM5VFuRl0ig) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Fireworks](https://open.spotify.com/album/6CIPuH9t8tX5p5fjuUFr2Q) | 3:18 | 2023-04-28 |  |
 | [FIRST HELLO](https://open.spotify.com/track/2ONSelZb6rxDw98aIzTLHt) | [Grant Knoche](https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J) | [FIRST HELLO](https://open.spotify.com/album/6g7aDEkCteSnfHx2ZSOZYU) | 3:17 | 2022-09-09 | 2023-02-11 |
 | [flowers](https://open.spotify.com/track/6trA1yKo3IGgLyvg9lBwOJ) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [flowers](https://open.spotify.com/album/1ZmIdhZgJn91DMGk86iC1R) | 3:12 | 2022-11-18 | 2023-02-04 |
 | [For My Friends](https://open.spotify.com/track/6vs83ufnw4IVbotV0qv6C8) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [For My Friends](https://open.spotify.com/album/7hfIFmFhdPoLzeeDGPaYAw) | 3:35 | 2022-03-18 | 2022-05-28 |
@@ -281,6 +286,7 @@
 | [i wish you loved me](https://open.spotify.com/track/1azXAzGWeQvgzwlkwmOlo7) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [i wish you loved me](https://open.spotify.com/album/6MG2hzpDZauvVJRVqB9tYi) | 3:20 | 2022-11-18 | 2023-03-25 |
 | [I Won't](https://open.spotify.com/track/1y8ooe9Zr1PMIxrOwNeeOi) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [I Won't](https://open.spotify.com/album/7vXjnE5noLdqc9EIsOhLpQ) | 2:48 | 2022-07-29 | 2022-10-08 |
 | [I'll Call You Mine](https://open.spotify.com/track/0RQoxryvRJZD9CShaRLASb) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 3:21 | 2022-02-18 | 2022-04-29 |
+| [I've Loved You For So Long](https://open.spotify.com/track/0j1AlYnUBAiYOuVBDwCT20) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [I've Loved You For So Long](https://open.spotify.com/album/1d4SG4S7oEKwHcPCyQsC2J) | 2:56 | 2023-04-28 |  |
 | [Iced Coffee](https://open.spotify.com/track/0zH2HR19fqhvxCBzBPi6H2) | [Arthur Hill](https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg) | [Iced Coffee](https://open.spotify.com/album/4eWF5c0nAas9soMtcpP3sj) | 2:35 | 2022-10-21 | 2023-02-18 |
 | [Iced Coffee](https://open.spotify.com/track/7CumsQizElvUqb3205E2Vo) | [Arthur Hill](https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg) | [Iced Coffee](https://open.spotify.com/album/6LU5bn9sw0mk0faXIHTdNd) | 2:35 | 2023-02-03 | 2023-03-04 |
 | [Icee Pop](https://open.spotify.com/track/1zKOagmkCtXuGmCivG8HZE) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Icee Pop](https://open.spotify.com/album/0N75npNB8Wo93bY41XjHr7) | 2:27 | 2022-01-28 | 2022-02-26 |
@@ -448,7 +454,7 @@
 | [Radio](https://open.spotify.com/track/10SOOaAA0JVdnroFkcZT7w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/6qXDmHqkVW2O8FQUKWiHh4) | 3:14 | 2022-10-07 | 2022-10-13 |
 | [Radio](https://open.spotify.com/track/53KTjvFbNcybDOxhdDRoio) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:14 | 2022-10-07 | 2023-01-28 |
 | [Record Player \(with AJR\)](https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB), [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Record Player \(with AJR\)](https://open.spotify.com/album/0zs9o2NkQxcRTlGlcOteP5) | 2:29 | 2021-10-29 | 2022-03-26 |
-| [Red Hot](https://open.spotify.com/track/2oBS99VNVMUPFp1m4S7Omn) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [madwoman EP](https://open.spotify.com/album/0kzWo1WLOms89dJaNSCdIw) | 2:49 | 2023-03-31 |  |
+| [Red Hot](https://open.spotify.com/track/2oBS99VNVMUPFp1m4S7Omn) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [madwoman EP](https://open.spotify.com/album/0kzWo1WLOms89dJaNSCdIw) | 2:49 | 2023-03-31 | 2023-04-29 |
 | [Remember November / Bitcrush\*Yr\*Life](https://open.spotify.com/track/6GQnAjlwkyqoDE7xBJSc2n) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [It's All Smiles](https://open.spotify.com/album/1nx7N9E7k5AfKwjWIb2DQd) | 3:08 | 2021-12-03 | 2022-01-15 |
 | [Repeat Caller](https://open.spotify.com/track/69zIlo9KqVoQjenSCh10Wb) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [Repeat Caller](https://open.spotify.com/album/4gmKqHoxwAaQw7meJMJ1Mz) | 2:21 | 2021-11-05 | 2022-01-22 |
 | [Replace Me](https://open.spotify.com/track/2WbIdh9RxH4V0xv465tQzQ) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Replace Me](https://open.spotify.com/album/5Z5eUGnz4aZrWjHJF5PBr5) | 3:17 | 2022-03-04 | 2022-04-29 |

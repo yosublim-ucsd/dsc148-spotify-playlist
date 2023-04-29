@@ -1276,10 +1276,28 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 182000,
       "name": "Internationalen",
       "url": "https://open.spotify.com/track/4pQOo9ypR5yYV5O5xVq9mr"
+    },
+    {
+      "album": {
+        "name": "I V\u00e4ntan P\u00e5 Jan Myrdals D\u00f6d",
+        "url": "https://open.spotify.com/album/4hWEP5LLjHwtogEaeIHzz3"
+      },
+      "artists": [
+        {
+          "name": "Franska Trion",
+          "url": "https://open.spotify.com/artist/1oDZOVYmQduTh3G4nmsyqv"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Internationalen",
+      "url": "https://open.spotify.com/track/5slD6swSS3XtDiSzOOoL5h"
     },
     {
       "album": {

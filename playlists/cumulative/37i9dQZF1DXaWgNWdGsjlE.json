@@ -96,7 +96,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 174586,
       "name": "AI",
       "url": "https://open.spotify.com/track/4OcxBd349UIgErVz81V2TY"
@@ -244,7 +244,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 173819,
       "name": "BATTERY NOT INCLUDED",
       "url": "https://open.spotify.com/track/7ypHme2lqJbZQjk3LOAqPD"
@@ -553,6 +553,24 @@
     },
     {
       "album": {
+        "name": "Church Outfit",
+        "url": "https://open.spotify.com/album/4lkW9DiMaD9PQZhaIRQUnH"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114351,
+      "name": "Church Outfit",
+      "url": "https://open.spotify.com/track/0R13zftuNe1WECTSBeT6ri"
+    },
+    {
+      "album": {
         "name": "Cleopatra",
         "url": "https://open.spotify.com/album/79QALKmJRQgzHWHTutvg5O"
       },
@@ -794,7 +812,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 301560,
       "name": "DEAD FLOWERS",
       "url": "https://open.spotify.com/track/3w7z4dBOVFXwNbS0xfD3ow"
@@ -892,6 +910,46 @@
       "duration_ms": 123571,
       "name": "EAT SPIT! (feat. Royal & the Serpent)",
       "url": "https://open.spotify.com/track/1aFP0G0GHQAAH9gfC95wT1"
+    },
+    {
+      "album": {
+        "name": "ELECTRO_SHOCK_THERAPY",
+        "url": "https://open.spotify.com/album/4OY8GwV5p98TV7cRFFGAXG"
+      },
+      "artists": [
+        {
+          "name": "CONNIE",
+          "url": "https://open.spotify.com/artist/1DevMHY3GQWCIDWbkoaHQe"
+        },
+        {
+          "name": "nascar aloe",
+          "url": "https://open.spotify.com/artist/03LEDukdM723NRLz4UXeNv"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147118,
+      "name": "ELECTRO_SHOCK_THERAPY",
+      "url": "https://open.spotify.com/track/0LKCYdFKSwCtRsw7yd1u3h"
+    },
+    {
+      "album": {
+        "name": "ELVIRA",
+        "url": "https://open.spotify.com/album/1TaTRenPe1g6acHgv4gX3q"
+      },
+      "artists": [
+        {
+          "name": "TeZATalks",
+          "url": "https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111750,
+      "name": "ELVIRA",
+      "url": "https://open.spotify.com/track/5Zzylb0t4kLOGzYw1LDHOg"
     },
     {
       "album": {
@@ -1311,6 +1369,24 @@
     },
     {
       "album": {
+        "name": "HATEFUL",
+        "url": "https://open.spotify.com/album/5bNClD13l1fc6BosE5EKoN"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248273,
+      "name": "HATEFUL",
+      "url": "https://open.spotify.com/track/6QtiPaRRcSIne26CN4zNla"
+    },
+    {
+      "album": {
         "name": "Haylo",
         "url": "https://open.spotify.com/album/7t9bnEaLxctp8lexAFEb5F"
       },
@@ -1574,7 +1650,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 193499,
       "name": "I Disagree",
       "url": "https://open.spotify.com/track/5M1OSRePFJzlQCTJRKVGQQ"
@@ -1730,7 +1806,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 314718,
       "name": "ISN\u2019T EVERYONE",
       "url": "https://open.spotify.com/track/0c2OTdcvtEtz3EEoNrs3ge"
@@ -3180,7 +3256,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 220408,
       "name": "WDYT",
       "url": "https://open.spotify.com/track/4Rrh3SOlwRtC3ivaGfW7qX"
@@ -3264,6 +3340,24 @@
       "duration_ms": 168736,
       "name": "We Did It!!!",
       "url": "https://open.spotify.com/track/6nebUmkUoc7fITIKPjS47K"
+    },
+    {
+      "album": {
+        "name": "Weaponize This",
+        "url": "https://open.spotify.com/album/6Ju8h0MO81dfkW43SO76Og"
+      },
+      "artists": [
+        {
+          "name": "DEAR-GOD",
+          "url": "https://open.spotify.com/artist/6Fnr4z4XxrLyioZquy1WhO"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160600,
+      "name": "Weaponize This",
+      "url": "https://open.spotify.com/track/5DLeSJtjxhoNQRUm2zCWyk"
     },
     {
       "album": {

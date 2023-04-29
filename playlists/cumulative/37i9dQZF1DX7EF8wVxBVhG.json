@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Alpha Relief 94 Hz",
+        "url": "https://open.spotify.com/album/6UG8gpJjygEMaIXIlYyxuR"
+      },
+      "artists": [
+        {
+          "name": "Unconscious Mind",
+          "url": "https://open.spotify.com/artist/4z2YcYMIwrt57Yr2REOia0"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188910,
+      "name": "Alpha Relief 94 Hz",
+      "url": "https://open.spotify.com/track/2X4GzC2AF0Mq46fjE3IFRd"
+    },
+    {
+      "album": {
         "name": "Binaural Sleep Beats",
         "url": "https://open.spotify.com/album/7lHKcPjSRQsXDfWKzOrXOp"
       },
@@ -600,6 +618,24 @@
       "duration_ms": 192000,
       "name": "Alpha Sinus",
       "url": "https://open.spotify.com/track/5dMfTDcIPnebZk9Opm9GQw"
+    },
+    {
+      "album": {
+        "name": "Alpha Sinus - The Shrine - 146 Hz -153 Hz",
+        "url": "https://open.spotify.com/album/4bsjDI58pp3cRNTpdzjBtH"
+      },
+      "artists": [
+        {
+          "name": "Delta Hz",
+          "url": "https://open.spotify.com/artist/5DeI5zDGqIRRmW5o1TrYD0"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "Alpha Sinus - The Shrine - 146 Hz -153 Hz",
+      "url": "https://open.spotify.com/track/0Z5OXX6LKeN85fm3MyMJiS"
     },
     {
       "album": {

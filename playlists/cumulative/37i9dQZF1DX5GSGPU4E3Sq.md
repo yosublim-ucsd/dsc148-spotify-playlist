@@ -4,7 +4,7 @@
 
 > Piérdete en el misterio del bosque y sus poderes sanadores.
 
-281 songs - 15 hr 53 min
+282 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Driftwood](https://open.spotify.com/track/6g11H9Qg8lcJwEIS39e6GN) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Driftwood](https://open.spotify.com/album/1moMGvFXtkeC7TH0J1vV3Q) | 2:46 | 2022-06-29 |  |
 | [Dusty Dreams](https://open.spotify.com/track/6b4RgLPHXlHhFmQPQAGvHR) | [Gloomscape](https://open.spotify.com/artist/1MjyCytp4mykFQFzY4Eaxr) | [Impulse](https://open.spotify.com/album/1Xw82vyc5q3JSm74fJGexh) | 3:06 | 2022-07-19 | 2022-07-29 |
 | [Earth Shapes: Nature](https://open.spotify.com/track/6F2VfHRVN9JGHfu8wcYeCG) | [Sverre Knut Johansen](https://open.spotify.com/artist/1lwjp3HkW6gREisFqZrj7S) | [Earth Shapes](https://open.spotify.com/album/2Agc5QqZw24ihceuYA3Btg) | 4:11 | 2022-06-29 |  |
+| [Epilogue](https://open.spotify.com/track/3DYp7eXItuMz0ZglmgEgFF) | [Gentle Dreams](https://open.spotify.com/artist/57Ou0NcsDXfjiznEPmZfaC) | [Epilogue](https://open.spotify.com/album/4ceBv4Qeku7zcXLAakwCh1) | 3:07 | 2023-03-30 |  |
 | [Epilogue](https://open.spotify.com/track/3YEoriryySI6V3qvGaWMhi) | [Gentle Dreams](https://open.spotify.com/artist/57Ou0NcsDXfjiznEPmZfaC) | [Epilogue](https://open.spotify.com/album/35tY6f0RQolHGEoipgL7Sl) | 3:07 | 2022-06-29 | 2022-07-29 |
 | [Expanded Reality](https://open.spotify.com/track/3UO6cBUGTh5uE6rxmGSC8O) | [Axial Flow](https://open.spotify.com/artist/4H4cCqLCwCRQVxbQhGrjtL) | [Expanded Reality](https://open.spotify.com/album/6t6vT0VGZRO8S8ud6wGxIN) | 2:42 | 2023-01-10 |  |
 | [Falling Autumn Leaves](https://open.spotify.com/track/5dXGR9SCZjX1a82NG87QKF) | [Roy Holtz](https://open.spotify.com/artist/7bmRaidlj0sx7EKFWBLnl2) | [Falling Autumn Leaves](https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S) | 2:14 | 2022-06-29 |  |
@@ -141,7 +142,7 @@
 | [It Feels Like Floating](https://open.spotify.com/track/1aFLwFLsTdqSl7tDGTAreU) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [It Feels Like Floating](https://open.spotify.com/album/0dHj3cuRmt0WUDpF1I8V3E) | 11:31 | 2022-07-19 | 2022-07-28 |
 | [It Feels Like Floating](https://open.spotify.com/track/5P0cbDhsv6wCqyAqfhBxaW) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Hundreds of Days](https://open.spotify.com/album/3htG3vw3Y9SZuoKFEvQ9FI) | 11:31 | 2022-07-19 |  |
 | [Joy](https://open.spotify.com/track/4uZAkcN4TU1TYyNK1hCOHO) | [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [Tracing Back the Radiance](https://open.spotify.com/album/3pW85ZtP8lSFoo2Tmcgpb0) | 5:00 | 2022-07-19 | 2022-07-24 |
-| [Joy](https://open.spotify.com/track/7EeryB0GNXvD5taPP2U5fB) | [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [Tracing Back the Radiance](https://open.spotify.com/album/5kdVD9PtZicTzx47uOOg2Z) | 5:00 | 2022-07-19 |  |
+| [Joy](https://open.spotify.com/track/7EeryB0GNXvD5taPP2U5fB) | [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [Tracing Back the Radiance](https://open.spotify.com/album/5kdVD9PtZicTzx47uOOg2Z) | 5:00 | 2022-07-19 | 2023-04-29 |
 | [Kaolin](https://open.spotify.com/track/2wlu4KMCvR202beZHns8Mb) | [Noon2Nine](https://open.spotify.com/artist/1IkCT4cMi56FGqY7Y6KOrS) | [Kaolin](https://open.spotify.com/album/6CR7aqDABp8BtTiuMKvaJB) | 3:14 | 2022-07-19 | 2022-07-29 |
 | [Kaolin](https://open.spotify.com/track/7CPRnvO2o4BJmGDVxh46VN) | [Noon2Nine](https://open.spotify.com/artist/1IkCT4cMi56FGqY7Y6KOrS) | [Kaolin](https://open.spotify.com/album/6fvXg0ETAANzFd06M5KnzI) | 3:14 | 2022-07-19 | 2023-02-28 |
 | [Kellisti](https://open.spotify.com/track/4BSvtsVtimM5upqvQ5MYR9) | [LO18](https://open.spotify.com/artist/701amBt5qJYnTqG611GkJQ) | [Maa](https://open.spotify.com/album/353xsSqmLzlb0C52VUOMzF) | 3:46 | 2022-06-29 | 2022-07-26 |

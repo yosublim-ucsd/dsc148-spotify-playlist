@@ -4,7 +4,7 @@
 
 > Press play and let's dance with the biggest Brazilian DJ!
 
-147 songs - 7 hr 9 min
+148 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Love Love \(feat\. Gilsons\)](https://open.spotify.com/track/3tkPQfYq3NybNRdMTdww3p) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [ALL WE HAVE IS N:OW](https://open.spotify.com/album/7keB6Min15oq3l7AUmHDX1) | 3:16 | 2022-10-07 | 2022-11-13 |
 | [Love Love \(feat\. Gilsons\)](https://open.spotify.com/track/5DUKWjGZOVwdPN048FIHc4) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Love Love \(feat\. Gilsons\)](https://open.spotify.com/album/2YBubTKCWWX3681kCrq4AF) | 3:16 | 2021-12-03 | 2022-07-29 |
 | [Love Love \(feat\. Gilsons\)](https://open.spotify.com/track/5o5A0Ww1nQsetGUelp5RJl) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Love Love \(feat\. Gilsons\)](https://open.spotify.com/album/7mSkA7d35tqJAddf4SBgeM) | 3:16 | 2022-06-17 |  |
+| [Mami Mami](https://open.spotify.com/track/3tWx4p1GQpPnRmjTvVw8DV) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Mami Mami](https://open.spotify.com/album/6v136RUEpdzC5ixs6AoR85) | 2:01 | 2023-04-28 |  |
 | [Me & You \(feat\. IRO\)](https://open.spotify.com/track/2WTCoQLkQ9FPdvThkf8nN1) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [iRO](https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF) | [XOXO \(Music from the Netflix Original Film\)](https://open.spotify.com/album/7GII7KZDArYqZ14xcyshb4) | 5:27 | 2021-12-03 |  |
 | [Metaphor](https://open.spotify.com/track/1UTXQrmAL4oladIwc1PWSh) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Metaphor](https://open.spotify.com/album/2ds371eeP7JXPUhBCk26eH) | 3:22 | 2021-12-03 |  |
 | [Meu Amor](https://open.spotify.com/track/4fSAzexU19fbxl8OzbyhXH) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ixã](https://open.spotify.com/artist/44fxF9nKWZaTM2IKcJbdaf) | [Meu Amor](https://open.spotify.com/album/2ElhtOxvJeTj0UfBjJgAeQ) | 2:41 | 2022-03-04 |  |

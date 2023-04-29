@@ -1,13 +1,33 @@
 {
-  "description": "The soundtrack to the internet. Cover: BLP KOSHER",
-  "num_followers": 1347463,
+  "description": "The soundtrack to the internet. Cover: Kanii",
+  "num_followers": 1348449,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmJmNTdlMmQzOWI1ZTE0NzMwOTFmOGE3MGViMGYwYzA5ODEzODY5",
+  "snapshot_id": "MCw1NTBmM2RkMTAyNDc1MWQzODA4ZjJjNGM1YTg3Y2UxZTc5NDg5ZmMw",
   "tracks": [
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Go (Xtayalive 2)",
+        "url": "https://open.spotify.com/album/3RX4kmM0BYSknfrs69XkMi"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        },
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        }
+      ],
+      "duration_ms": 106307,
+      "name": "Go (Xtayalive 2)",
+      "url": "https://open.spotify.com/track/1slDsIJxew9AOOA3v0xFzn"
+    },
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
@@ -45,20 +65,24 @@
       "url": "https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "rockhardt",
-        "url": "https://open.spotify.com/album/193IYs1YZemD7CXQCSyXfc"
+        "name": "Dogs",
+        "url": "https://open.spotify.com/album/0aeFhCrLjwgqM1WRahtWhX"
       },
       "artists": [
         {
-          "name": "Carbon",
-          "url": "https://open.spotify.com/artist/56yUYQQyWtboyoDEIEvN3J"
+          "name": "IShowSpeed",
+          "url": "https://open.spotify.com/artist/2DZw407Bgg2Hu9E6NDgRTb"
+        },
+        {
+          "name": "Kai Cenat",
+          "url": "https://open.spotify.com/artist/5pOnZ90CPqPp4FjW9AOVHU"
         }
       ],
-      "duration_ms": 158108,
-      "name": "rockhardt",
-      "url": "https://open.spotify.com/track/2DcwwZtauRU5s2ZxzGRJQi"
+      "duration_ms": 100869,
+      "name": "Dogs",
+      "url": "https://open.spotify.com/track/2sR6a3qfX3yHU03pyC2zqA"
     },
     {
       "added_at": "2023-04-12 21:15:31",
@@ -81,6 +105,54 @@
       "url": "https://open.spotify.com/track/3vcLw8QA3yCOkrj9oLSZNs"
     },
     {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "rockhardt",
+        "url": "https://open.spotify.com/album/193IYs1YZemD7CXQCSyXfc"
+      },
+      "artists": [
+        {
+          "name": "Carbon",
+          "url": "https://open.spotify.com/artist/56yUYQQyWtboyoDEIEvN3J"
+        }
+      ],
+      "duration_ms": 158108,
+      "name": "rockhardt",
+      "url": "https://open.spotify.com/track/2DcwwZtauRU5s2ZxzGRJQi"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "kenopsia",
+        "url": "https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp"
+      },
+      "artists": [
+        {
+          "name": "quannnic",
+          "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
+        }
+      ],
+      "duration_ms": 203294,
+      "name": "life imitates life",
+      "url": "https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7"
+    },
+    {
+      "added_at": "2022-11-21 20:50:38",
+      "album": {
+        "name": "I Can't Wait",
+        "url": "https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7"
+      },
+      "artists": [
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        }
+      ],
+      "duration_ms": 134322,
+      "name": "FreakyT",
+      "url": "https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa"
+    },
+    {
       "added_at": "2023-01-04 15:02:53",
       "album": {
         "name": "Players",
@@ -95,6 +167,22 @@
       "duration_ms": 139560,
       "name": "Players",
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "5 O'Clock",
+        "url": "https://open.spotify.com/album/0BvuoUOJ8MvkQRMfRwmYSG"
+      },
+      "artists": [
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 193878,
+      "name": "5 O'Clock",
+      "url": "https://open.spotify.com/track/0N1GBe2yFs6rl9K2EwYVZu"
     },
     {
       "added_at": "2023-04-17 20:18:19",
@@ -129,20 +217,36 @@
       "url": "https://open.spotify.com/track/6sMos8CBjRScWJktutm8ek"
     },
     {
-      "added_at": "2022-11-21 20:50:38",
+      "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "I Can't Wait",
-        "url": "https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7"
+        "name": "I love freaks",
+        "url": "https://open.spotify.com/album/3yLJCP0lB551rk7Hd1atC1"
       },
       "artists": [
         {
-          "name": "TiaCorine",
-          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+          "name": "Lijay",
+          "url": "https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ"
         }
       ],
-      "duration_ms": 134322,
-      "name": "FreakyT",
-      "url": "https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa"
+      "duration_ms": 101198,
+      "name": "I love freaks",
+      "url": "https://open.spotify.com/track/2OwdUZPORY0EAdRBF9hSZD"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Snot or Not",
+        "url": "https://open.spotify.com/album/4PtaK9Se4jUaKwyeTMqnRN"
+      },
+      "artists": [
+        {
+          "name": "Homixide Gang",
+          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
+        }
+      ],
+      "duration_ms": 158837,
+      "name": "5!RE",
+      "url": "https://open.spotify.com/track/5dpguvEDjvEljrnIScoXpV"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -173,12 +277,28 @@
       "artists": [
         {
           "name": "IShowSpeed",
-          "url": "https://open.spotify.com/artist/2DZw407Bgg2Hu9E6NDgRTb"
+          "url": "https://open.spotify.com/artist/6fq2794JwAdmCXVaz5tDym"
         }
       ],
       "duration_ms": 73153,
       "name": "Chill Speedy",
       "url": "https://open.spotify.com/track/2e6nLAMw6z7H4gFmClyxhZ"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Leave Her",
+        "url": "https://open.spotify.com/album/1kLl5rrXewZ0SP0wcNSWcc"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        }
+      ],
+      "duration_ms": 137026,
+      "name": "Leave Her",
+      "url": "https://open.spotify.com/track/0MZGwYb5mTATbmoi671wEg"
     },
     {
       "added_at": "2023-04-10 20:02:31",
@@ -233,6 +353,22 @@
       "url": "https://open.spotify.com/track/16nsXcNJEwseNbQlu1NRpX"
     },
     {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "FED UP",
+        "url": "https://open.spotify.com/album/1wFO7GlDJCrVXWFO3tu64r"
+      },
+      "artists": [
+        {
+          "name": "THOTTWAT",
+          "url": "https://open.spotify.com/artist/16SkmlqKt2Xf6mqurZgpdt"
+        }
+      ],
+      "duration_ms": 302799,
+      "name": "FED UP",
+      "url": "https://open.spotify.com/track/0ZZgCLtt6QvRIKIWjeByaO"
+    },
+    {
       "added_at": "2023-04-26 17:45:45",
       "album": {
         "name": "Tomioka",
@@ -279,6 +415,22 @@
       "duration_ms": 194213,
       "name": "if looks could kill",
       "url": "https://open.spotify.com/track/1cdqNRXIRrvT4HnApj6yw6"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Toxic Ish",
+        "url": "https://open.spotify.com/album/6wdCYDNMmP5C8cdePXGmWh"
+      },
+      "artists": [
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        }
+      ],
+      "duration_ms": 187103,
+      "name": "Toxic Ish",
+      "url": "https://open.spotify.com/track/13IyPWwTjRTWW62z6L349L"
     },
     {
       "added_at": "2023-04-14 04:00:00",

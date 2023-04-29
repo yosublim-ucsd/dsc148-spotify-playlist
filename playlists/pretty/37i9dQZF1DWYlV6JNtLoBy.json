@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 472,
+  "num_followers": 481,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmN2VhODM4ZmE0ZDBjOTQyM2M1MmIyMzU0YzBmOTBhN2Q3NThiZWJh",
+  "snapshot_id": "MCxkNTkxYjAyNzJlYjhmMjgzMDNiMmNmZWZiNDkyYjA1MjJkNGMyOWEw",
   "tracks": [
     {
       "added_at": "2023-04-14 00:30:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Nikumbushe Wema Wako",
-        "url": "https://open.spotify.com/album/5u0BBGqAaYEgN3Kkrk41AX"
-      },
-      "artists": [
-        {
-          "name": "Angel Benard",
-          "url": "https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD"
-        }
-      ],
-      "duration_ms": 439588,
-      "name": "Nikumbushe Wema Wako",
-      "url": "https://open.spotify.com/track/62cnrFkQOy5jBuOoCBm5qT"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
         "name": "Sweetie Sweetie",
         "url": "https://open.spotify.com/album/1gp2BVV3amp3NTsJN59IOg"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 316473,
       "name": "Sweetie Sweetie",
       "url": "https://open.spotify.com/track/3mnMhG3NCpHuWixUJSZADP"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Nikumbushe Wema Wako",
+        "url": "https://open.spotify.com/album/5u0BBGqAaYEgN3Kkrk41AX"
+      },
+      "artists": [
+        {
+          "name": "Angel Benard",
+          "url": "https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD"
+        }
+      ],
+      "duration_ms": 439588,
+      "name": "Nikumbushe Wema Wako",
+      "url": "https://open.spotify.com/track/62cnrFkQOy5jBuOoCBm5qT"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -547,18 +547,18 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Uinuliwe Baba",
-        "url": "https://open.spotify.com/album/0Gv7L9BwjC0tmSKRYS3OpX"
+        "name": "Wewe ni mungu",
+        "url": "https://open.spotify.com/album/4EPQZLH7dmSyngXFG7D0OP"
       },
       "artists": [
         {
-          "name": "Rose Muhando",
-          "url": "https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87"
+          "name": "Daddy Owen",
+          "url": "https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy"
         }
       ],
-      "duration_ms": 418560,
-      "name": "Yesu Nakupenda",
-      "url": "https://open.spotify.com/track/17xj9O92AfXMEBVvf8ACSN"
+      "duration_ms": 262321,
+      "name": "Wewe ni mungu",
+      "url": "https://open.spotify.com/track/6mmr75lBVZnN3iWl8Jk3jO"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Wewe ni mungu",
-        "url": "https://open.spotify.com/album/4EPQZLH7dmSyngXFG7D0OP"
+        "name": "Uinuliwe Baba",
+        "url": "https://open.spotify.com/album/0Gv7L9BwjC0tmSKRYS3OpX"
       },
       "artists": [
         {
-          "name": "Daddy Owen",
-          "url": "https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy"
+          "name": "Rose Muhando",
+          "url": "https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87"
         }
       ],
-      "duration_ms": 262321,
-      "name": "Wewe ni mungu",
-      "url": "https://open.spotify.com/track/6mmr75lBVZnN3iWl8Jk3jO"
+      "duration_ms": 418560,
+      "name": "Yesu Nakupenda",
+      "url": "https://open.spotify.com/track/17xj9O92AfXMEBVvf8ACSN"
     },
     {
       "added_at": "2023-04-21 00:01:00",
@@ -681,6 +681,26 @@
       "url": "https://open.spotify.com/track/6PsXyv0ljD3fuOTZRiOw4Z"
     },
     {
+      "added_at": "2023-04-21 00:01:00",
+      "album": {
+        "name": "Praise Him",
+        "url": "https://open.spotify.com/album/0gQuGIBnEH02dMRsj76gKZ"
+      },
+      "artists": [
+        {
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        },
+        {
+          "name": "Joel Lwaga",
+          "url": "https://open.spotify.com/artist/1CGmb8fVUO9TGKBiFu6WTW"
+        }
+      ],
+      "duration_ms": 324808,
+      "name": "Praise Him",
+      "url": "https://open.spotify.com/track/0Q4g7Rwa40qx134hPutVFx"
+    },
+    {
       "added_at": "2023-04-14 00:30:00",
       "album": {
         "name": "Sure (Counting on You)",
@@ -701,22 +721,6 @@
       "url": "https://open.spotify.com/track/6631GJTIN4OwoKTeAoIk3Q"
     },
     {
-      "added_at": "2023-04-21 00:01:00",
-      "album": {
-        "name": "Confessions",
-        "url": "https://open.spotify.com/album/50MXoiG4gRL47tdW5ui6VP"
-      },
-      "artists": [
-        {
-          "name": "Daniel Mundos",
-          "url": "https://open.spotify.com/artist/3aLEhh4HY2Sdl0v0lWhZwc"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Confessions",
-      "url": "https://open.spotify.com/track/2g9awZdAvsvtNQjWBcVO4n"
-    },
-    {
       "added_at": "2023-04-06 20:59:00",
       "album": {
         "name": "Yesu Mtaani",
@@ -735,22 +739,18 @@
     {
       "added_at": "2023-04-21 00:01:00",
       "album": {
-        "name": "Praise Him",
-        "url": "https://open.spotify.com/album/0gQuGIBnEH02dMRsj76gKZ"
+        "name": "Confessions",
+        "url": "https://open.spotify.com/album/50MXoiG4gRL47tdW5ui6VP"
       },
       "artists": [
         {
-          "name": "Celestine Donkor",
-          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
-        },
-        {
-          "name": "Joel Lwaga",
-          "url": "https://open.spotify.com/artist/1CGmb8fVUO9TGKBiFu6WTW"
+          "name": "Daniel Mundos",
+          "url": "https://open.spotify.com/artist/3aLEhh4HY2Sdl0v0lWhZwc"
         }
       ],
-      "duration_ms": 324808,
-      "name": "Praise Him",
-      "url": "https://open.spotify.com/track/0Q4g7Rwa40qx134hPutVFx"
+      "duration_ms": 210731,
+      "name": "Confessions",
+      "url": "https://open.spotify.com/track/2g9awZdAvsvtNQjWBcVO4n"
     },
     {
       "added_at": "2023-04-06 20:59:00",

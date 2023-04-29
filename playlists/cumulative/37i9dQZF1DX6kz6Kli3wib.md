@@ -4,7 +4,7 @@
 
 > Soft electronic music for your dinner.
 
-262 songs - 12 hr 50 min
+263 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Forest Spirit](https://open.spotify.com/track/3Y0InfIgRhpHbxFiAmPtkm) | [Koke Ki](https://open.spotify.com/artist/1PPu0ysYNA8rWJKXwQ0cGP) | [Cabana Boy](https://open.spotify.com/album/6LxrC3VnSgTtwuMl01LesL) | 4:12 | 2021-11-11 |  |
 | [Forever Yours](https://open.spotify.com/track/6uviz3fvF7MzJobVeJCXsZ) | [Reza Solhi](https://open.spotify.com/artist/1Tm9n1qxzzLEpXGSu3nWIJ) | [Forever Yours](https://open.spotify.com/album/0nWeoNfUl2JRU8yWd88KLL) | 4:07 | 2021-11-11 | 2022-01-22 |
 | [Foundation](https://open.spotify.com/track/0n5EQPSY4Gm8ckMKuprHzy) | [Hazel Calm](https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl) | [Foundation](https://open.spotify.com/album/54rJNwktOmmRTnukRyMxTL) | 2:27 | 2021-11-11 |  |
-| [foxy](https://open.spotify.com/track/5ulkTVmdOUNaymBoWKA9Ng) | [QOOKi](https://open.spotify.com/artist/5TOUzS7Af3LJBfnTF7E0sq) | [foxy](https://open.spotify.com/album/7AvbXLf6cNq3QUEyZLQ4M4) | 2:00 | 2022-04-05 |  |
+| [foxy](https://open.spotify.com/track/5ulkTVmdOUNaymBoWKA9Ng) | [QOOKi](https://open.spotify.com/artist/5TOUzS7Af3LJBfnTF7E0sq) | [foxy](https://open.spotify.com/album/7AvbXLf6cNq3QUEyZLQ4M4) | 2:00 | 2022-04-05 | 2023-04-29 |
 | [French Pink](https://open.spotify.com/track/1hNVgS6zFUasAyXMQYnPoP) | [Sitza](https://open.spotify.com/artist/3KeghQlQsaQ4ANmN9v80CC) | [French Pink](https://open.spotify.com/album/42Al4KDJEapvINkmsovE7X) | 2:21 | 2022-01-21 |  |
 | [Frivolous](https://open.spotify.com/track/1fVj0isyvpOfiLYonUNnte) | [Joe Franzoni](https://open.spotify.com/artist/0hgnhbFQrceUMjdC3L3Ugn) | [Frivolous](https://open.spotify.com/album/0aRy2vynizabbfMoWyIHLC) | 3:18 | 2021-11-11 | 2022-01-22 |
 | [Gambia](https://open.spotify.com/track/3dFgvv8ft1DHbW28Akce50) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Gambia](https://open.spotify.com/album/6MBaL1snqhQFgwVM5SwaFT) | 3:57 | 2021-11-11 | 2022-04-15 |
@@ -184,6 +184,7 @@
 | [Palm Beach](https://open.spotify.com/track/4Xcocmxxkxzrq6D0qehBTh) | [Blissmo](https://open.spotify.com/artist/5Yfb88eP2CrvvhWpKEeFdg) | [Palm Beach](https://open.spotify.com/album/2kNlHYQYErsgYW8UbGWQrE) | 2:45 | 2021-11-11 | 2022-02-11 |
 | [Peaches & Cream](https://open.spotify.com/track/2DLTtKF8Y5tvBuCj8eUzsk) | [Dennis Straat](https://open.spotify.com/artist/2QclRlSL9gUvxOoFVr9PA8) | [Peaches & Cream](https://open.spotify.com/album/7jjZhJW3zP3kZ6mEQHHu74) | 3:36 | 2021-11-11 |  |
 | [Piano Park](https://open.spotify.com/track/7MYP5ACQrR73wJ4CQkzhaZ) | [Ben Jonovski](https://open.spotify.com/artist/01lzF0kz4osCQXfUDFmOnC) | [Piano Park](https://open.spotify.com/album/6u0PJfhQLlBRArcd2T5iNr) | 2:08 | 2022-02-10 |  |
+| [Picking Up](https://open.spotify.com/track/4pqm5iHPtHAHSwyAWnmIi1) | [Floatational](https://open.spotify.com/artist/0n71HQhO8y90tbTIQzVRHY) | [Picking Up](https://open.spotify.com/album/1PikbvLSFTc0eXbwSlOWNb) | 2:38 | 2023-04-28 |  |
 | [Pina Colada](https://open.spotify.com/track/5kdAsrSLFycGMkziF7vgNT) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [Pina Colada](https://open.spotify.com/album/3OMdzGnHYTefjOZqzWXefu) | 2:58 | 2022-07-01 |  |
 | [Pinch Punch](https://open.spotify.com/track/1gmfpLdj099PQIZ8S9tz94) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [Pinch Punch](https://open.spotify.com/album/6rO4FmexBBwdyqXMRwYUAT) | 2:55 | 2022-07-29 |  |
 | [Pineapple Mist](https://open.spotify.com/track/4ndh3toTLQ5E3BSAFN2ohZ) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Pineapple Mist](https://open.spotify.com/album/5twCNvcGLOYE8JtLnndxnb) | 3:31 | 2021-11-11 | 2022-07-01 |

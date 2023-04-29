@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2EFsfh1zewsSWhDINv7j1I">Logic1000's </a> favourite tracks\.  Updated regularly\. Curated by Logic1000\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-101 songs - 8 hr 18 min
+102 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Fatherless](https://open.spotify.com/track/5Bs93ZX1NAjAT5tPyPLJRA) | [Breach](https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC) | [Fatherless](https://open.spotify.com/album/4FhBOsnkUXVVSnRkG7ikcr) | 6:20 | 2022-03-01 | 2022-11-19 |
 | [Fatherless](https://open.spotify.com/track/6njoiANKTAdL1QQcFnPmUu) | [Breach](https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC) | [Fatherless](https://open.spotify.com/album/37lKlkS7VUd7F7A958ZIeU) | 6:20 | 2022-03-01 | 2022-10-18 |
 | [Flashing](https://open.spotify.com/track/5nK7GgQilC7XB1MfSuJEtT) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Believer](https://open.spotify.com/album/6L0IdiiAC6ELOGyksKclzn) | 2:40 | 2022-03-01 | 2022-11-19 |
-| [Footworkin on Air](https://open.spotify.com/track/6KmFqDL2TsfzoK4QJqTXjL) | [Traxman](https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh) | [Da Mind of Traxman](https://open.spotify.com/album/3NCTZXvanzWpQeafprDljK) | 4:01 | 2022-11-18 |  |
+| [Footworkin on Air](https://open.spotify.com/track/5Mdt2roSDTFn6wR4nMLo0f) | [Traxman](https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh) | [Da Mind of Traxman](https://open.spotify.com/album/3azkH7wZWh4aT1MUJ8TEbj) | 4:01 | 2022-11-18 |  |
+| [Footworkin on Air](https://open.spotify.com/track/6KmFqDL2TsfzoK4QJqTXjL) | [Traxman](https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh) | [Da Mind of Traxman](https://open.spotify.com/album/3NCTZXvanzWpQeafprDljK) | 4:01 | 2022-11-18 | 2023-04-29 |
 | [For These Times \- Original Mix](https://open.spotify.com/track/45by5RY3OL9PmKecKej79H) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Think & Change](https://open.spotify.com/album/6OFlmBDfwGMBQce1sh1ylG) | 4:57 | 2022-03-01 | 2022-11-19 |
 | [Forsaken](https://open.spotify.com/track/5zY3OVGdFR7Pj6n1fAWCW9) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [Peven Everett](https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY), [SpectraSoul](https://open.spotify.com/artist/5OvI3XKz7Y1TJAxPbn848T) | [1984](https://open.spotify.com/album/2fzARPEkcMwRoYqoSZhcsc) | 6:01 | 2022-03-01 | 2022-11-19 |
 | [Friendly Pressure \- Into The Sunshine Mix](https://open.spotify.com/track/0RZmpy15J6VSzx3IPuNEmR) | [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau) | [Is This Real](https://open.spotify.com/album/3ae504ho747nwloxNn2CH8) | 5:34 | 2022-03-01 | 2022-11-19 |

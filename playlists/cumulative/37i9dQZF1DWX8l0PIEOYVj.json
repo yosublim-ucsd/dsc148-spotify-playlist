@@ -78,7 +78,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 236800,
       "name": "Afraid To Love",
       "url": "https://open.spotify.com/track/0jNC36dKx4iqoOZ0fb49aJ"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 244235,
       "name": "All That Really Matters",
       "url": "https://open.spotify.com/track/5zviMoAeuerK1Rd58qXASv"
@@ -1020,7 +1020,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 231832,
       "name": "Colors (with Eyelar)",
       "url": "https://open.spotify.com/track/6ur4bHIfXz7v38Ug4c7sb9"
@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 177777,
       "name": "Come Clean (feat. Justin Jesso)",
       "url": "https://open.spotify.com/track/4PyEdtiTEPNvsNSXPDQDDL"
@@ -1896,7 +1896,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-24",
+      "date_removed": null,
       "duration_ms": 156428,
       "name": "Endgame (feat. AERIA)",
       "url": "https://open.spotify.com/track/2ttJwF0jzKnfdBgAqsTQoG"
@@ -2146,7 +2146,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 231440,
       "name": "Fall Into Me",
       "url": "https://open.spotify.com/track/1iA7DyrJbukpd4X2EcT9Xd"
@@ -2264,7 +2264,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 203076,
       "name": "far away - Crankdat Remix",
       "url": "https://open.spotify.com/track/4fj1ITLZ06PioSOZK8rhUc"
@@ -2432,7 +2432,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 190546,
       "name": "Flare",
       "url": "https://open.spotify.com/track/4CmHVTshjFsRm89G0rPRTF"
@@ -2768,7 +2768,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 222400,
       "name": "Give It All",
       "url": "https://open.spotify.com/track/2z320ljvSDmS5t7jqwHoQh"
@@ -3254,7 +3254,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 187200,
       "name": "Hide It",
       "url": "https://open.spotify.com/track/23Thz223KX6H9BOS5VLM9e"
@@ -3672,6 +3672,28 @@
       "duration_ms": 224000,
       "name": "I Know",
       "url": "https://open.spotify.com/track/3brpA4wjNrlW1xwqmfm72E"
+    },
+    {
+      "album": {
+        "name": "I Love You Enough To Let You Go",
+        "url": "https://open.spotify.com/album/2h6xcXDL7B2DoacHZq7Qbx"
+      },
+      "artists": [
+        {
+          "name": "Last Heroes",
+          "url": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224516,
+      "name": "I Love You Enough To Let You Go",
+      "url": "https://open.spotify.com/track/6MSjU24zzBgu6wRHsR4eRI"
     },
     {
       "album": {
@@ -5480,7 +5502,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 285616,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/0ciBdxlofdSf1AePCpXGVF"
@@ -7594,7 +7616,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 266470,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/4OecGYEp7UPOrhrt2IhQ0o"
@@ -7642,6 +7664,32 @@
       "duration_ms": 195200,
       "name": "You Are My Pain",
       "url": "https://open.spotify.com/track/5Xij03tXBHCEdbKSgs0cBf"
+    },
+    {
+      "album": {
+        "name": "ILLENIUM",
+        "url": "https://open.spotify.com/album/0ValflNlWce21wm5PlwV60"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235200,
+      "name": "You Were Right",
+      "url": "https://open.spotify.com/track/0m3EsIfqAfo48vGr18KVpq"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWX8l0PIEOYVj"

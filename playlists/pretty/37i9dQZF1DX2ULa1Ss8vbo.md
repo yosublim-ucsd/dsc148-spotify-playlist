@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ULa1Ss8vbo.md) - [plain]
 
 > Songs from the old country: the essential traditional Irish ballads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,930 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,980 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ULa1Ss8vbo.md) - [plain]
 | 40 | [I Dreamt I Dwelt in Marble Halls](https://open.spotify.com/track/0FZxhprYVBPuzskKdBv6tG) | [Méav](https://open.spotify.com/artist/0nBRo87bTZegzYDnIiWkH7) | [Méav](https://open.spotify.com/album/3W5BZfrxfWBa6J3IFEr7dS) | 3:52 |
 | 41 | [Arbour Hill](https://open.spotify.com/track/3dZpG1lCzOollQ3qrylOS0) | [Eugene McEldowney](https://open.spotify.com/artist/0PUpXAEPVuX0CShc4oGdwG) | [James Connolly \- The Irish Rebel](https://open.spotify.com/album/0y3rEtlF9sLwtzVfjUebxM) | 2:35 |
 | 42 | [Erin\-Go\-Bragh / Rakish Paddy](https://open.spotify.com/track/7JoxTFpjZjTbkO0UZV5GkO) | [Kate Burke & Ruth Hazleton](https://open.spotify.com/artist/1TSPyEkn57ocOLWJ2zGk1M) | [The Bee\-Loud Glade](https://open.spotify.com/album/7knf7ebylad5fMw2ofsWno) | 5:41 |
-| 43 | [Dicey Riley](https://open.spotify.com/track/2jK40Z0sAfpgev1oZw0tO5) | [Dominic Behan](https://open.spotify.com/artist/1sYhVYXHOlKPY1L5LvRrhF) | [Down By The Liffeyside: Irish Street Balads](https://open.spotify.com/album/245YuwE5DWF9LbbDiG4rqx) | 1:05 |
+| 43 | [Dicey Riley](https://open.spotify.com/track/5VWOa1qWDVjt2ElhIIJImR) | [Dominic Behan](https://open.spotify.com/artist/1sYhVYXHOlKPY1L5LvRrhF) | [Down By The Liffeyside: Irish Street Balads](https://open.spotify.com/album/0khzZCeOFVjhm4AMry75Jw) | 1:05 |
 | 44 | [The West's Awake](https://open.spotify.com/track/28JJX47fHJppvYapuoHeRr) | [Johnny McEvoy](https://open.spotify.com/artist/0wK5QhuLtbY2K4Rmm2FHE9) | [1916 Easter Rising \(Commemorative Collection\)](https://open.spotify.com/album/58MT6pI2o0dAiAkTUyo0a6) | 3:27 |
 | 45 | [The Time Has Come](https://open.spotify.com/track/11EhHpCJA9ztjUG13pVXjb) | [Christy Moore](https://open.spotify.com/artist/3Ebn7mKYzD0L3DaUB1gNJZ) | [The Time Has Come](https://open.spotify.com/album/2FYYQ2GMMzRtR6hGuxTjFb) | 3:19 |
 | 46 | [Danny Boy](https://open.spotify.com/track/5f2ml25PS6hLYtADGsiTVk) | [Frank Patterson](https://open.spotify.com/artist/3UZc24DOYrUhFnDPNw1L8A) | [Memories of Ireland](https://open.spotify.com/album/570ebwhbkrU1bGIpG1zpGN) | 4:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ULa1Ss8vbo.md) - [plain]
 | 49 | [The Rose Of Tralee](https://open.spotify.com/track/5iPqNP3HIuyyOQmUkO1vYs) | [The Irish Tenors](https://open.spotify.com/artist/2QehFI9eDvwgtDxEharMPu) | [Live From Ellis Island](https://open.spotify.com/album/67UDn5SBqvaofJRqzJaIcJ) | 4:48 |
 | 50 | [James Connolly](https://open.spotify.com/track/1hoXIRlsnmnW6DP64mJmBM) | [Damien Dempsey](https://open.spotify.com/artist/0bmF1w9eyJrY4CHyjpTQOW) | [No Force On Earth](https://open.spotify.com/album/5NTLr7uctFVYnAIiPqVkfN) | 5:06 |
 
-Snapshot ID: `MCxhMzFkOGQ3ZWViN2EzYWY2ODRmZjBkZGFmMTUyNzUwYmFlYjg3MGMx`
+Snapshot ID: `MCxiN2IyZGFiNTc4ZmE4ZWJlMGM0MWVjODZkOWFmZGY4MzM2MWM1YzZh`

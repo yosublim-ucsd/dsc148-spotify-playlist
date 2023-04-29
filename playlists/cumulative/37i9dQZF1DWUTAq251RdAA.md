@@ -4,7 +4,7 @@
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the <a href="https://artists.spotify.com/songwriter/3EOfjHuLO7f2VbwNGu0Tqg">songwriter's</a> own covers.
 
-82 songs - 6 hr 5 min
+84 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Both Sides Now \(feat\. Natalie Prass\)](https://open.spotify.com/track/1rBmszepBsy1Wgq8ijQ8ak) | [Alva Leigh](https://open.spotify.com/artist/0Gfyhc754mTJyx0XAxXnD5), [Natalie Prass](https://open.spotify.com/artist/0EmUT6i9rTu9ZHy1Tl1iuX) | [In Nashville](https://open.spotify.com/album/1yQ0wwJJHexIeAK2fOqt4r) | 4:42 | 2021-06-22 |  |
 | [Cactus Tree](https://open.spotify.com/track/4QRPPdqljd6gxrvPNwkzR9) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn), [Shawn Colvin](https://open.spotify.com/artist/0K7VN4aHxHcEb7PqkfoIVA) | [Bohemian](https://open.spotify.com/album/1BbcFbPYX2W12yMETD2pJ8) | 4:48 | 2021-06-22 |  |
 | [California](https://open.spotify.com/track/6nyNxFIOPz0CQBa2dI68zX) | [Who Is Fancy](https://open.spotify.com/artist/5QSx2vpiSchSeCwc0qmfNI) | [When We Rise \(Original Television Soundtrack\)](https://open.spotify.com/album/1U15HyG9LIxbSitBJOLGBC) | 4:07 | 2021-06-22 |  |
-| [Carey](https://open.spotify.com/track/2dWdBBlGwOVt0oSVxjiTsd) | [Barnstar!](https://open.spotify.com/artist/6mq7fEW2j0CKd5fRk7M0A7) | [Signature Sounds 20th Anniversary Collection: Favorites and Rarities from the Second Decade](https://open.spotify.com/album/7eYCfiBKynNZ6V5W3iP3cE) | 4:43 | 2021-06-22 |  |
+| [Carey](https://open.spotify.com/track/2dWdBBlGwOVt0oSVxjiTsd) | [Barnstar!](https://open.spotify.com/artist/6mq7fEW2j0CKd5fRk7M0A7) | [Signature Sounds 20th Anniversary Collection: Favorites and Rarities from the Second Decade](https://open.spotify.com/album/7eYCfiBKynNZ6V5W3iP3cE) | 4:43 | 2021-06-22 | 2023-04-29 |
+| [Carey](https://open.spotify.com/track/7ghutWGTqrfxumja5reNZT) | [Barnstar!](https://open.spotify.com/artist/6mq7fEW2j0CKd5fRk7M0A7) | [Signature Sounds 20th Anniversary Collection: Favorites and Rarities from the Second Decade](https://open.spotify.com/album/1em3LFkzBu9h4zN7iWwCmA) | 4:43 | 2021-06-22 |  |
 | [Carey](https://open.spotify.com/track/2nMcRihdrrNeQRxk7TkBP9) | [Sara Gazarek](https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc) | [Return To You](https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj) | 4:54 | 2021-06-22 |  |
 | [Chelsea Morning](https://open.spotify.com/track/25k4vodN4qp6yo1KeytvlX) | [Fairport Convention](https://open.spotify.com/artist/2LIdnZDzySb04oH40be1fR) | [Meet On The Ledge: The Classic Years \(1967\-1975\)](https://open.spotify.com/album/6lHi6BAQFyyoEviq9ii9ii) | 3:02 | 2021-06-22 |  |
 | [Chelsea Morning](https://open.spotify.com/track/5Hv9gBKGezbnOXnQOrm1zC) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Rainbow](https://open.spotify.com/album/79Qpu9YWSEFSmSUDosy5wH) | 2:32 | 2021-06-22 |  |
@@ -52,7 +53,8 @@
 | [Ethiopia](https://open.spotify.com/track/3GjhPSNVYrI4cSda8IXbfq) | [Terri Lyne Carrington](https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP), [Greg Osby](https://open.spotify.com/artist/1O62I5mxJcYBXcIzY6IMYT), [Adam Rogers](https://open.spotify.com/artist/68u79CqTqTgKncfDRbjDLH), [Jimmy Haslip](https://open.spotify.com/artist/5ngGllFz8UMTMeazVphrPb) | [Structure \(with Greg Osby, Adam Rogers & Jimmy Haslip\)](https://open.spotify.com/album/62zlq22V59fklTvj3V63DC) | 6:20 | 2021-06-22 |  |
 | [For Free](https://open.spotify.com/track/2lhfd0CF0dFlwRVH8NG8vv) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 4:11 | 2021-06-22 |  |
 | [For Free](https://open.spotify.com/track/0pWTvPtO2sEUfjgdxNWHm8) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [The Byrds](https://open.spotify.com/album/0PpKmZbzykVcXRjA7xNW9z) | 3:50 | 2021-06-22 |  |
-| [For Free](https://open.spotify.com/track/4k2CLQIUsaZCeV4Qq5y4y9) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Traveling Companion](https://open.spotify.com/album/4l5Q6s5tM1tmzdzv3MxvKp) | 4:57 | 2021-06-22 |  |
+| [For Free](https://open.spotify.com/track/3nyfbWgY1vLUxYju5EIHc5) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Traveling Companion](https://open.spotify.com/album/40ROVX9mREfN3iGzAAketD) | 4:57 | 2021-06-22 |  |
+| [For Free](https://open.spotify.com/track/4k2CLQIUsaZCeV4Qq5y4y9) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Traveling Companion](https://open.spotify.com/album/4l5Q6s5tM1tmzdzv3MxvKp) | 4:57 | 2021-06-22 | 2023-04-29 |
 | [Goodbye Pork Pie Hat](https://open.spotify.com/track/2XdyqBpsCKVVVoNjBcZICQ) | [Nadja Stoller Trio](https://open.spotify.com/artist/269eEY49DrWMe2pGCFf2zK) | [Once Upon A Summer Time](https://open.spotify.com/album/25QaoeaX1BfiwUmGjjVACL) | 6:23 | 2021-06-22 |  |
 | [He Comes For Conversation](https://open.spotify.com/track/3gjw8s33u7PlpzsK42QRjs) | [Klaudia & Rico With The Flying Helmets](https://open.spotify.com/artist/0P0FsLVbO0NyvOgmbzYkoY) | [At The Same Place Twice In Life](https://open.spotify.com/album/1DN9FlBmzIrU5nVmCOUuJ7) | 6:05 | 2021-06-22 |  |
 | [Hejira \(Live Demo\)](https://open.spotify.com/track/0LnIL6KeV5td0uDcuA1dvZ) | [Dirk Blanchart](https://open.spotify.com/artist/6NxnRlf6TuBhDVDorOCYrN) | [Europe Blue \(Remastered\) \[Extended Edition 2012\]](https://open.spotify.com/album/76EKsVb9CJHQMoijcrodEz) | 6:43 | 2021-06-22 |  |

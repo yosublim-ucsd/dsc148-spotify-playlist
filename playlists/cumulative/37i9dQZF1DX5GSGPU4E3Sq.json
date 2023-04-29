@@ -1476,6 +1476,24 @@
     {
       "album": {
         "name": "Epilogue",
+        "url": "https://open.spotify.com/album/4ceBv4Qeku7zcXLAakwCh1"
+      },
+      "artists": [
+        {
+          "name": "Gentle Dreams",
+          "url": "https://open.spotify.com/artist/57Ou0NcsDXfjiznEPmZfaC"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187727,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/3DYp7eXItuMz0ZglmgEgFF"
+    },
+    {
+      "album": {
+        "name": "Epilogue",
         "url": "https://open.spotify.com/album/35tY6f0RQolHGEoipgL7Sl"
       },
       "artists": [
@@ -2422,7 +2440,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 300000,
       "name": "Joy",
       "url": "https://open.spotify.com/track/7EeryB0GNXvD5taPP2U5fB"

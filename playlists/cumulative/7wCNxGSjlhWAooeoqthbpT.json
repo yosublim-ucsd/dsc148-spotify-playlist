@@ -1323,6 +1323,24 @@
     },
     {
       "album": {
+        "name": "GOODSEX",
+        "url": "https://open.spotify.com/album/7vy0aVfHqIRjtbTwk93z7d"
+      },
+      "artists": [
+        {
+          "name": "Kid Culture",
+          "url": "https://open.spotify.com/artist/2BaeUcNB0I5fVO5W1UskiU"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164956,
+      "name": "GOODSEX",
+      "url": "https://open.spotify.com/track/6zRlpxpNBRIqqDb6HqRbhS"
+    },
+    {
+      "album": {
         "name": "Goosebumps (Remix)",
         "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
       },
@@ -1715,6 +1733,24 @@
     },
     {
       "album": {
+        "name": "Kills Me",
+        "url": "https://open.spotify.com/album/1We5M24aUK1pQKN5hGCoGr"
+      },
+      "artists": [
+        {
+          "name": "Bahari",
+          "url": "https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188129,
+      "name": "Kills Me",
+      "url": "https://open.spotify.com/track/2IZZrIXBfMqWtbhNZUfLrz"
+    },
+    {
+      "album": {
         "name": "KISS N' TELL (feat. Dro Kenji)",
         "url": "https://open.spotify.com/album/6v6K6TQa2Scbn2OKhDCnDp"
       },
@@ -1770,6 +1806,24 @@
       "duration_ms": 147580,
       "name": "KU LO SA - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
+    },
+    {
+      "album": {
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/4aAHlX9XKBRfdqUp4JVvr0"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232606,
+      "name": "Last Train To London (I Won't Look Back)",
+      "url": "https://open.spotify.com/track/3KRKN196F3i6G1HnIqd2e5"
     },
     {
       "album": {
@@ -2572,7 +2626,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 153000,
       "name": "Place",
       "url": "https://open.spotify.com/track/109zbOmrUeunCHnZ76B0Kx"
@@ -2718,7 +2772,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 225446,
       "name": "Roles Reversed",
       "url": "https://open.spotify.com/track/7iinMLIDWw5QA7d6x0d5HJ"
@@ -2838,7 +2892,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 197280,
       "name": "Show No Love (feat. Fredo Bang)",
       "url": "https://open.spotify.com/track/0B1kYE1ZJHVEtiYhmNPEda"

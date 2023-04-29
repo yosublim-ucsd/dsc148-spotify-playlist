@@ -4,13 +4,14 @@
 
 > Gentle, soft Ambient music for focus and concentration.
 
-134 songs - 6 hr 19 min
+135 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A New Dawn](https://open.spotify.com/track/3ryZ7hLaGnTUKYq7lgOaUD) | [Castillo Indigo](https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv) | [A New Dawn](https://open.spotify.com/album/5bQ4sBfMtuTYkl5opCWS04) | 2:52 | 2022-10-12 | 2023-02-09 |
 | [Aaraam Karo](https://open.spotify.com/track/6PL2VOzmCEuUDh3x7Q8biM) | [Dhriti Tiwari](https://open.spotify.com/artist/22nMXe6y9TxPBF0ebouNPy) | [Aaraam Karo](https://open.spotify.com/album/3g2dLMTcAcpTqORAACWumB) | 2:55 | 2022-10-12 |  |
 | [Already Missing Summer](https://open.spotify.com/track/4ISntdSrLq20YiFzT96SkN) | [Esmay Gouin](https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx) | [Already Missing Summer](https://open.spotify.com/album/03yKIwxKmKaByMWsnN15Zq) | 2:46 | 2022-10-12 | 2023-04-07 |
+| [Among The Pines](https://open.spotify.com/track/32lsiyicjwKIKyeDL0L8ij) | [Zenon](https://open.spotify.com/artist/0dChfqND0qSnlhrNZF7NlL) | [Among The Pines](https://open.spotify.com/album/22aZul65rFrWztnDT2NB7F) | 3:07 | 2023-04-28 |  |
 | [Anchor](https://open.spotify.com/track/5PByK88P0mNCJqPnS3Yxml) | [Lulu Helensworth](https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j) | [Haven](https://open.spotify.com/album/0O6MiQUPJwtZaw9Eaa1oeF) | 2:36 | 2023-03-09 |  |
 | [Aquarium](https://open.spotify.com/track/4FQIwSmM1RkrJoYo7ys5gP) | [Aquatic Dreamer](https://open.spotify.com/artist/5J0V2NU23Rfh99C1bQJMiM) | [Aquarium](https://open.spotify.com/album/7IJ2VDv8IKaL0ilSwI9Syf) | 2:40 | 2022-10-12 |  |
 | [Ascending](https://open.spotify.com/track/2b3ajnlClLNs4qPu3gxlLc) | [Tone Jacobs](https://open.spotify.com/artist/3uDLX7j7thpPkEANovcmlT) | [Ascending](https://open.spotify.com/album/2C9DeBnFjZUKi8J3FrpVsr) | 2:42 | 2022-10-12 |  |
@@ -26,7 +27,7 @@
 | [Blastoff](https://open.spotify.com/track/4lBx54a1sJREjMjjK8NlSZ) | [CONNXCT](https://open.spotify.com/artist/0KxtmUPKJe0Rz1TWFaSb4B), [Rippling](https://open.spotify.com/artist/4TqiKIyB4xErPAwK4oynTG), [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Blastoff](https://open.spotify.com/album/4VBSe7kVHOwuCdQvwIRlhr) | 2:14 | 2022-10-12 |  |
 | [Blume](https://open.spotify.com/track/1HOuETpEjrYbU5Azt6iKjZ) | [Forsintha](https://open.spotify.com/artist/3YPvZWXdCmGaEVkMoCFYML) | [Blume](https://open.spotify.com/album/7moo1Qd1CWo8DIcTLrZLqr) | 2:29 | 2022-10-12 |  |
 | [Brief Moment](https://open.spotify.com/track/5OfZLjDUzrke9xWALBYVD7) | [Megan Elofius](https://open.spotify.com/artist/5L1XP5AqWWx7KskdRSiYFo) | [Brief Moment](https://open.spotify.com/album/2aDP4doHSJRMY2ldK185fD) | 3:04 | 2022-10-12 |  |
-| [Circadian Rhythm](https://open.spotify.com/track/3m9NEFjwEFYj9wrv2f7t30) | [Realizer](https://open.spotify.com/artist/7I2pqQX5c5XTjyl8InIrbt) | [Circadian Rhythm](https://open.spotify.com/album/3Fcw5o1jdQqnEFi669cUIr) | 2:30 | 2022-10-12 |  |
+| [Circadian Rhythm](https://open.spotify.com/track/3m9NEFjwEFYj9wrv2f7t30) | [Realizer](https://open.spotify.com/artist/7I2pqQX5c5XTjyl8InIrbt) | [Circadian Rhythm](https://open.spotify.com/album/3Fcw5o1jdQqnEFi669cUIr) | 2:30 | 2022-10-12 | 2023-04-29 |
 | [Circle Of Everything](https://open.spotify.com/track/3rydBdAYaK1gslIS8JSm5D) | [Dance Of Centuries](https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD) | [Circle Of Everything](https://open.spotify.com/album/0wHGczI6bIhfsYgCB0niAL) | 2:42 | 2022-10-12 |  |
 | [Climbing](https://open.spotify.com/track/1x7zBpMIdrySvhENuSY5JV) | [Barbena](https://open.spotify.com/artist/0DorMBZ5PrujJquR3bbTdL) | [Climbing](https://open.spotify.com/album/1O1JvywjelQdazDkPI9Lei) | 2:35 | 2022-10-12 | 2023-04-22 |
 | [Cloud Dance](https://open.spotify.com/track/7vOfAUgHjLDiHwgjAKn9c4) | [Pitouu](https://open.spotify.com/artist/2w475xthfIP9cwGqBUqfSG) | [Cloud Dance](https://open.spotify.com/album/4vcFJNkXXMDI4VgUnhfVk7) | 2:36 | 2022-10-12 |  |

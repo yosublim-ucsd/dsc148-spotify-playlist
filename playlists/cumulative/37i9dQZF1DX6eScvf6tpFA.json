@@ -1366,6 +1366,24 @@
     {
       "album": {
         "name": "Water",
+        "url": "https://open.spotify.com/album/2D5DPrv69Besl8VmuQENg9"
+      },
+      "artists": [
+        {
+          "name": "Lotic",
+          "url": "https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400480,
+      "name": "Oblivious",
+      "url": "https://open.spotify.com/track/10mGDiPiiTx0hk3SoM3Eb0"
+    },
+    {
+      "album": {
+        "name": "Water",
         "url": "https://open.spotify.com/album/7neio4srvDRACrUSTdpMMf"
       },
       "artists": [
@@ -1376,7 +1394,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 400480,
       "name": "Oblivious",
       "url": "https://open.spotify.com/track/1JyokA2F8V2Q3RHshyJB75"

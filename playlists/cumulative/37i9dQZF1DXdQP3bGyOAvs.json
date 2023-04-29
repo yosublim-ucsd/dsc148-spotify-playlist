@@ -999,6 +999,24 @@
     },
     {
       "album": {
+        "name": "Come Along",
+        "url": "https://open.spotify.com/album/2Ou8k6aCc2zhJ9Dk3weDIy"
+      },
+      "artists": [
+        {
+          "name": "Hello Papyrus",
+          "url": "https://open.spotify.com/artist/7te6RqAY9rZmgnmZKEkQCv"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162782,
+      "name": "Come Along",
+      "url": "https://open.spotify.com/track/4h8QHgPPriNxU1LP7q2Qes"
+    },
+    {
+      "album": {
         "name": "Copycat / Sunspot",
         "url": "https://open.spotify.com/album/5rgFFppEQzw3lOlzgIPmKV"
       },
@@ -2800,6 +2818,24 @@
       "duration_ms": 148000,
       "name": "Lush Nights",
       "url": "https://open.spotify.com/track/7FMafxQjkfXCWsxofUr014"
+    },
+    {
+      "album": {
+        "name": "Lux",
+        "url": "https://open.spotify.com/album/1w40aoGmgckodC4xEf1nyQ"
+      },
+      "artists": [
+        {
+          "name": "Colton Jefferson",
+          "url": "https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142767,
+      "name": "Lux",
+      "url": "https://open.spotify.com/track/6xCLzgEhnX5lLSBYkyiYnd"
     },
     {
       "album": {

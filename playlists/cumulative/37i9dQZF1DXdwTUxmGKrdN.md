@@ -4,7 +4,7 @@
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-210 songs - 15 hr 28 min
+211 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Happy Go Lucky](https://open.spotify.com/track/1vr8HYGVMK0lQn7DgLPewS) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [Hardcastle 8](https://open.spotify.com/album/1HAH0iyAYIFMOmD6AqGmDP) | 4:13 | 2023-03-09 | 2023-04-09 |
 | [Happy Go Lucky](https://open.spotify.com/track/1qgmJ4zIuP3PX0M5Exdv98) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [Paul Hardcastle 8](https://open.spotify.com/album/2s9Zd05UpwRAoTQnwAmCIU) | 4:14 | 2021-12-27 | 2022-07-24 |
 | [Heading Wes](https://open.spotify.com/track/3hTbwwtKP9wNaBXRO07jAw) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Heart To Heart](https://open.spotify.com/album/7ghPikFRfeqmMqpQDkwLIZ) | 3:21 | 2022-08-15 |  |
+| [High Five](https://open.spotify.com/track/5pcG9pIhfDfCoPCeChSuSu) | [Chuck Loeb](https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ) | [Listen](https://open.spotify.com/album/1w8CYaO0C4L3H9BNZsPHgL) | 4:55 | 2023-04-25 |  |
 | [High Five](https://open.spotify.com/track/7ma00O08o0Lt5GZNwvJndk) | [Chuck Loeb](https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ) | [\#1 Smooth Jazz Radio Hits!](https://open.spotify.com/album/6xHtFEfao5zXEbu1BJXFyY) | 4:57 | 2022-04-11 | 2022-04-21 |
 | [His Coolness](https://open.spotify.com/track/3EQ5NnNUxhE9oRnRk4HPuL) | [Alex Bugnon](https://open.spotify.com/artist/5bDmz2qpZCbOJ4XHHYe5y1) | [As Promised](https://open.spotify.com/album/0bs64b2YWZp3oMOw297F6U) | 5:24 | 2021-12-27 | 2022-07-01 |
 | [Hope](https://open.spotify.com/track/1pPpKGYsZIMWYaX10gx7uR) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [G\-Stream](https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS) | 4:20 | 2021-12-27 |  |
@@ -179,7 +180,7 @@
 | [Soul Vibration](https://open.spotify.com/track/5KaSTemL2bEHw5HDFFIZyB) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Ten](https://open.spotify.com/album/6vw1IOlxgQy2otoKPOng7e) | 4:26 | 2021-12-27 |  |
 | [Soulfood Sunday](https://open.spotify.com/track/7CkzM33RNqE8PyUdsVUBBZ) | [Ben Tankard](https://open.spotify.com/artist/60nfj9O2pKtlqIPfxp3FEg) | [Shine!](https://open.spotify.com/album/1TFKjCxkfw8XVb6nh7o9VY) | 4:02 | 2022-01-03 | 2022-10-03 |
 | [Soulfully](https://open.spotify.com/track/6QIv6nsWBk84KgNbN618O8) | [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF) | [Soulfully](https://open.spotify.com/album/4bRm3UKAKAmfLJ6bWuDigT) | 4:10 | 2021-12-27 |  |
-| [Southern Style](https://open.spotify.com/track/18xGFscyHeMxrlgyti66gX) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Smooth Grooves, Vol\. 2](https://open.spotify.com/album/2dWhDa6kTyZlw7ip13EhTm) | 6:05 | 2022-08-29 |  |
+| [Southern Style](https://open.spotify.com/track/18xGFscyHeMxrlgyti66gX) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Smooth Grooves, Vol\. 2](https://open.spotify.com/album/2dWhDa6kTyZlw7ip13EhTm) | 6:05 | 2022-08-29 | 2023-04-29 |
 | [Spray Bay](https://open.spotify.com/track/3KHLV5FTalpbnNmmznJcVk) | [Jeremy Sean Hector](https://open.spotify.com/artist/1akYcPyDtIQAN54HFVHbWR) | [Ascension](https://open.spotify.com/album/5wZPP4EBzRTbOltJNGPdDi) | 4:47 | 2022-04-11 | 2022-04-20 |
 | [Static in the Attic](https://open.spotify.com/track/69cpqIccenZsg4tO3lYgrK) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Sunlight](https://open.spotify.com/album/0kx7WayUflfeiYpDKhsbnB) | 4:49 | 2022-04-11 | 2022-12-24 |
 | [Steppin' Out](https://open.spotify.com/track/1TQEe8NQLc3ml4p23ueRzq) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [All For Love](https://open.spotify.com/album/2DmMf1bOCZniiHjBNPlTyt) | 4:05 | 2021-12-27 | 2022-07-28 |

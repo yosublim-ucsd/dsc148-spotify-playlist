@@ -50,6 +50,28 @@
     {
       "album": {
         "name": "Memories of the Future",
+        "url": "https://open.spotify.com/album/5pzzcf5f4XrtraLFkwaArO"
+      },
+      "artists": [
+        {
+          "name": "Kode9",
+          "url": "https://open.spotify.com/artist/5Z3GyWBvJZgJ35TS0cmXll"
+        },
+        {
+          "name": "The Spaceape",
+          "url": "https://open.spotify.com/artist/4XKXnYIBqC96yXPs3zwMYn"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220173,
+      "name": "9 Samurai",
+      "url": "https://open.spotify.com/track/1zcJcDKezSErbI5lHvrQK5"
+    },
+    {
+      "album": {
+        "name": "Memories of the Future",
         "url": "https://open.spotify.com/album/0xwyFwOryqHzqyoSO8M2TC"
       },
       "artists": [
@@ -64,7 +86,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 220173,
       "name": "9 Samurai",
       "url": "https://open.spotify.com/track/5jI2dUCSi7BUupLnve1zi4"
@@ -1040,10 +1062,28 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 368613,
       "name": "Night Vision",
       "url": "https://open.spotify.com/track/0GJcq541zsRxJDZyL5M7q2"
+    },
+    {
+      "album": {
+        "name": "My Demons",
+        "url": "https://open.spotify.com/album/1sCbi3aAF4l9jAxVzgbvzt"
+      },
+      "artists": [
+        {
+          "name": "Distance",
+          "url": "https://open.spotify.com/artist/1FvQZpPhaVvSoQnpslxnvb"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368613,
+      "name": "Night Vision",
+      "url": "https://open.spotify.com/track/3OCSMbkczPfWlH44AjlfeW"
     },
     {
       "album": {
@@ -1130,10 +1170,28 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 360266,
       "name": "Pop Pop",
       "url": "https://open.spotify.com/track/5f3jdKbkROgRuODuA5w9aL"
+    },
+    {
+      "album": {
+        "name": "Degenerate",
+        "url": "https://open.spotify.com/album/59MZBvyA6KWvBCfbUZaTzc"
+      },
+      "artists": [
+        {
+          "name": "Vex'd",
+          "url": "https://open.spotify.com/artist/7367B0qtTtTTGorscfxrqm"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360266,
+      "name": "Pop Pop",
+      "url": "https://open.spotify.com/track/74bwJnCzgzyYrLn5Tr5KK0"
     },
     {
       "album": {
@@ -1214,6 +1272,24 @@
     {
       "album": {
         "name": "10 Tons Heavy",
+        "url": "https://open.spotify.com/album/2KijsPxVLWeObtHjipd80R"
+      },
+      "artists": [
+        {
+          "name": "Pinch",
+          "url": "https://open.spotify.com/artist/09S8AYFuaa9PQKSNsXxweW"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319480,
+      "name": "Qawwali",
+      "url": "https://open.spotify.com/track/1Mjh2PRRpbUEhQhei6GkcH"
+    },
+    {
+      "album": {
+        "name": "10 Tons Heavy",
         "url": "https://open.spotify.com/album/4c8z8N2B9MCE90BR3fH9sf"
       },
       "artists": [
@@ -1224,7 +1300,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 319480,
       "name": "Qawwali",
       "url": "https://open.spotify.com/track/5TyinkpuFzpSNDAJRYpNay"

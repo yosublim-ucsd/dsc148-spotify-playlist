@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-397 songs - 23 hr 42 min
+399 songs - 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [DIGIT "ALL" ANTHEM\-BLACKSHEEP TV](https://open.spotify.com/track/1Fd9CucoQHCdfI9OkJaaY8) | [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [Aravind Karneeswaran](https://open.spotify.com/artist/6WhCmwXKt1znjtpjt9Xcvi) | [DIGIT "ALL" ANTHEM\-BLACKSHEEP TV](https://open.spotify.com/album/2CrINPwYd8VJxwjErnjMDI) | 4:45 | 2023-02-10 |  |
 | [Dolu Dolu](https://open.spotify.com/track/7qG4GUCpzFW2ipC9cV0Ek4) | [David Shone](https://open.spotify.com/artist/3DJaqdCBdN9HZX880w2uoo), [Ranjith Govind](https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth) | [Dolu Dolu](https://open.spotify.com/album/3vTEBAk2S0U5XNfoKyD4CP) | 5:13 | 2022-12-02 | 2023-02-22 |
 | [Dooram](https://open.spotify.com/track/34p2ECAu54Jm3Bhfmk1ykH) | [Pavan Partha](https://open.spotify.com/artist/1x975ksdHtocx05ePZ2Xnt), [Bhavani R](https://open.spotify.com/artist/1gYyuaOQtl0ibPYHFwjTNG) | [Dooram](https://open.spotify.com/album/42qjYngA4LGkRuzTJrGkXT) | 3:47 | 2023-03-29 | 2023-04-01 |
+| [Dope](https://open.spotify.com/track/2XOd9q0WTWFemw9YOPp6UA) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [Killa K](https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf) | [Dope](https://open.spotify.com/album/3HvyVRO6AEYvuITlntbDk1) | 2:21 | 2023-04-28 |  |
 | [Durai Sleeping \- From "Think Originals"](https://open.spotify.com/track/197dZDgejcTSZ8RYPEDowe) | [Durai](https://open.spotify.com/artist/17g7q1dOGhKiEfUY1BRQNe), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Durai Sleeping \(From "Think Originals"\)](https://open.spotify.com/album/6mYSDtZpONcrjnJCqFXPR1) | 2:31 | 2023-03-03 | 2023-03-23 |
 | [Ean Machi](https://open.spotify.com/track/6IxYter8iWxtHJgQzK0DPQ) | [Vidushaan](https://open.spotify.com/artist/6yr59RSWCxLvcjZIytt1OB), [Sagishna Xavier](https://open.spotify.com/artist/6Jdi3gLwRWKNEyCQDUQnex) | [Ean Machi](https://open.spotify.com/album/7JPauQxNNTAYPLXnxSOZlx) | 3:37 | 2022-12-15 | 2023-02-07 |
 | [Edhuvum Kedaikalana? \- From "Think Indie"](https://open.spotify.com/track/5Qbu0YMMuM7CfiAmPhhFlb) | [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Edhuvum Kedaikalana? \(From "Think Indie"\)](https://open.spotify.com/album/15uNR5mPqm88Kj5Y614Oxc) | 2:49 | 2022-10-10 |  |
@@ -325,6 +326,7 @@
 | [Scene Podaathadi](https://open.spotify.com/track/0KSC5FHBDUGJ0HH0rjBvCV) | [Sajay ARS](https://open.spotify.com/artist/4CiDnvUhyQmU50RYWMGfD2), [Ruthra Kabi](https://open.spotify.com/artist/4vsRVAC4QikMjYBxYjj3KV) | [Scene Podaathadi](https://open.spotify.com/album/1s5Jr6YVAiBmdssiIQPbmE) | 3:54 | 2023-02-02 |  |
 | [Scene\-U Singaari](https://open.spotify.com/track/7MUFv0xMRBgA0zqgdMaI7A) | [Saisharan](https://open.spotify.com/artist/3SacyJu97cFJNxXbVNuzg3), [Sridhar Sena](https://open.spotify.com/artist/5YSYUHw3olaxG4SZhtCPET), [Bharath K Rajesh](https://open.spotify.com/artist/13n9V5dYM3IMUSIJQp0i45) | [Scene\-U Singaari](https://open.spotify.com/album/0vuhvk9LTtGNPer0oEQh8G) | 3:40 | 2022-01-06 | 2022-07-08 |
 | [Semma Bodha \(From "Think Originals"\)](https://open.spotify.com/track/4tugggYmgNVjmMPIMzLC45) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Hyde Karty](https://open.spotify.com/artist/5diOq1Qfzspw7pN99vd8bH) | [Semma Bodha \(From "Think Originals"\)](https://open.spotify.com/album/7nC9Y3QpO4fWpj0FfqMJMA) | 3:16 | 2021-12-01 | 2023-02-07 |
+| [Serithaana](https://open.spotify.com/track/5cdUR8s0paGuX4G2qANUeu) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt) | [Serithaana](https://open.spotify.com/album/3qUobbcOQKOPuzJBOiSGF6) | 3:22 | 2023-04-28 |  |
 | [Shades of Kadhal](https://open.spotify.com/track/7kJVLzF7COXgFVlKRaYwoK) | [Maran](https://open.spotify.com/artist/7JhSxGPLRqMPRncKAaNCmU) | [Shades of Kadhal](https://open.spotify.com/album/17zOJvxutXuxVYYx9O1Zsk) | 2:56 | 2021-12-01 | 2023-02-07 |
 | [She](https://open.spotify.com/track/58HUT7xifgToUC45ol5YsI) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Lost In Your Love](https://open.spotify.com/album/5XeSjQGfJiI8kJ9jjvO1Gl) | 3:00 | 2023-02-09 |  |
 | [Siragukal](https://open.spotify.com/track/71JsLclzOWuItFYo6qbI6Z) | [ML Sudharsun](https://open.spotify.com/artist/7qShjZOQN4jHHdkXamhLhC), [Sanjay Romauld](https://open.spotify.com/artist/06LNABO6f8L8bO9gWCrjoq) | [Siragukal](https://open.spotify.com/album/5lVz8dbskvLAdpHdD34MWX) | 3:57 | 2023-01-20 | 2023-04-04 |

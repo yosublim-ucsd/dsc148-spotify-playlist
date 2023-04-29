@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 78,577 likes - 50 songs - 3 hr 40 min
+[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 78,579 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 | 10 | [Summer Glass](https://open.spotify.com/track/08SHXQxXq1UZERSVWLhN77) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [Summer Glass](https://open.spotify.com/album/3aFZOCDGN6YZLH6F3vgDc6) | 4:19 |
 | 11 | [Blue Over Blue](https://open.spotify.com/track/3GHxQ1rlb8nvZEYRrB7eB2) | [The Clientele](https://open.spotify.com/artist/3xZBpeXHkSjTKQIR1OeKN0) | [Blue Over Blue](https://open.spotify.com/album/4MdmtxBC2ByJnRWWsYXzw7) | 3:16 |
 | 12 | [On and Ever Onward \(Live from Housing Works 2009\)](https://open.spotify.com/track/2u1ImCvsSyDhNBSH8nLrOj) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [On And Ever Onward \(Live From Housing Works 2009\)](https://open.spotify.com/album/2yQFVTCDcHgwPkX3AKjNSY) | 2:21 |
-| 13 | [Suicide Dream 1 \- Claire Rousay presents 'Suicide Dreams'](https://open.spotify.com/track/1eQYk19nwftc74b9OE4DMX) | [How To Dress Well](https://open.spotify.com/artist/4jLcgJjDGmW0HmvbSf6lEI), [Claire Rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [What Remains \(Remixes\)](https://open.spotify.com/album/106vLquuGTSOmZnGl9lHBq) | 7:37 |
+| 13 | [Suicide Dream 1 \- Claire Rousay presents 'Suicide Dreams'](https://open.spotify.com/track/1eQYk19nwftc74b9OE4DMX) | [How To Dress Well](https://open.spotify.com/artist/4jLcgJjDGmW0HmvbSf6lEI), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [What Remains \(Remixes\)](https://open.spotify.com/album/106vLquuGTSOmZnGl9lHBq) | 7:37 |
 | 14 | [Elevation \- Paul Woolford Remix Edit](https://open.spotify.com/track/7tW66gGa6fIo8DluDWANKN) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Elevation \(Paul Woolford Remix\)](https://open.spotify.com/album/3B9oGr5gd5u2VDkHVuM44X) | 3:12 |
 | 15 | [Star](https://open.spotify.com/track/4fCeKZHKZt5PTMEEGxHYQj) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [Star](https://open.spotify.com/album/79H8ASriYHc6JBmxm4vq6f) | 5:21 |
 | 16 | [punkt](https://open.spotify.com/track/2jZVRBClSWt3Vc9fPkyRCi) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [punkt](https://open.spotify.com/album/1MZG06naKW8R00sHwVY40y) | 2:25 |

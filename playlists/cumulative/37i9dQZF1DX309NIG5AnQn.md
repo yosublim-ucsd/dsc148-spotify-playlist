@@ -2,9 +2,9 @@
 
 ### [el under](https://open.spotify.com/playlist/37i9dQZF1DX309NIG5AnQn)
 
-> Nuevo rock alternativo argentino\. <br/>📷 Nenagenix
+> Nuevo rock alternativo argentino\. <br/>📷 Winona Riders.
 
-132 songs - 7 hr 26 min
+133 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Cruel \- Budaya Remix](https://open.spotify.com/track/21ixBRM8MSmYWmTNIdcqep) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy), [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [Cruel \- Budaya Remix](https://open.spotify.com/album/7Ii1h7NZyiL3uBI1b5NkJK) | 3:24 | 2022-03-25 | 2023-03-25 |
 | [Culpable](https://open.spotify.com/track/1F2MEdnUuZDV23rEFw6ZcM) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT), [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [Arde](https://open.spotify.com/album/2eZrZxOfzdQKvNthFD5IDJ) | 3:07 | 2022-03-25 | 2022-07-29 |
 | [Culpable](https://open.spotify.com/track/7gCYnJTLrgYgfO6qU7gHIt) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT), [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [ARDE](https://open.spotify.com/album/3XlbISNBUWfa7dPO9rZoDm) | 3:07 | 2022-03-25 | 2023-03-25 |
+| [D.I.E \(Dance In Ecstasy\)](https://open.spotify.com/track/03y9Y3WXf2A4RvNl7c4FN2) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [Esto es lo que Obtenés cuando te Cansás de lo que Ya Obtuviste](https://open.spotify.com/album/4N2YIuYGbn5P0pyTbrwend) | 5:49 | 2023-04-28 |  |
 | [De Cero A Cien X Essentials \#1](https://open.spotify.com/track/3HsgtlddNm8Q9zoKkgwsUo) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [Tygas](https://open.spotify.com/artist/1mLmCADd22UpYNqCAykYKT), [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [Elsidechain](https://open.spotify.com/artist/0DubQNvKAkkXWIIC2jImhU) | [De Cero A Cien X Essentials \#1](https://open.spotify.com/album/4JDgTCvoC6nbyjDkE2F9OW) | 3:01 | 2022-03-25 | 2023-03-25 |
 | [Denadie](https://open.spotify.com/track/6JuEz0iSyCHLCMUOM0hsY2) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Denadie](https://open.spotify.com/album/2tcipp41d0bfl5mkpWo50G) | 3:06 | 2022-03-25 | 2023-03-25 |
 | [Desmotivada](https://open.spotify.com/track/647413f98cYW3U09g3tHjq) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [Desmotivada](https://open.spotify.com/album/0fuevSufdQPDZTWoyeEu5H) | 2:22 | 2022-03-25 | 2023-03-25 |

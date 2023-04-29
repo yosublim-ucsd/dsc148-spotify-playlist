@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Rancid
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,271 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,321 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [MADHATTAN](https://open.spotify.com/track/7kGuKjgZvyPTJKwHgnvPw5) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos), [The OBGMs](https://open.spotify.com/artist/3Sp7HTc7BNbSx0SPiHVeRI), [DENZ JUNIOR](https://open.spotify.com/artist/6hiy2sLG05CnoB3Kv7Qeox) | [MADHATTAN](https://open.spotify.com/album/4l9rowUxTu47lnDjI8TDs8) | 1:59 |
 | 100 | [Sad Dumb Game](https://open.spotify.com/track/21IiYgR0LsCZMat4qaeoyD) | [Single Mothers](https://open.spotify.com/artist/2FW1jqwbJgwWT8hTWHgBrq) | [Head Shrunk / Sad Dumb Game](https://open.spotify.com/album/7ikoCgdYh59PwvS3T1BliZ) | 2:19 |
 
-Snapshot ID: `MCxjYzcwMTYzNDUzNWFmOWFmMGZjNDI3NDBhMjUxMTczNzAxYTgzMmZl`
+Snapshot ID: `MCw3ZjNlMDJmNDJhYjYyZGZlZWRmMTM3ODhhOTI0ZmMwNTRjNjkwYWE1`

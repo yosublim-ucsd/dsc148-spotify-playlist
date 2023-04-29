@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Kid Yugi in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,269 likes - 55 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,307 likes - 55 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 8 | [MARE D'INVERNO](https://open.spotify.com/track/4Swgi2Bhc5tOItkVV6kRWD) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [MARE D'INVERNO](https://open.spotify.com/album/4loYrn68GcsB61ERQMaG2J) | 3:06 |
 | 9 | [Snobbava](https://open.spotify.com/track/7KGOocrNaKZBPQr4VLDz49) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Snobbava](https://open.spotify.com/album/0I4nw0CPX7J1MLRzy9jBXs) | 2:33 |
 | 10 | [MISTRESS](https://open.spotify.com/track/1vT1yACp1rSZCvq6QEjUwd) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [MISTRESS](https://open.spotify.com/album/3zUKwXcMpAuxPCTRwSZQao) | 2:36 |
-| 11 | [Progressi \(feat\. Vale pain\)](https://open.spotify.com/track/1Pyj0bfp0E6xvDjJdBR662) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [Progressi \(feat\. Vale pain\)](https://open.spotify.com/album/4TXJALE2louD30G0onu9zl) | 2:30 |
+| 11 | [Progressi \(feat\. Vale Pain\)](https://open.spotify.com/track/1Pyj0bfp0E6xvDjJdBR662) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [Progressi \(feat\. Vale Pain\)](https://open.spotify.com/album/4TXJALE2louD30G0onu9zl) | 2:30 |
 | 12 | [GTA](https://open.spotify.com/track/1sMzjYyFSWexHB145BgD6O) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd), [Voleur pnz](https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN) | [Ghettosuperstar](https://open.spotify.com/album/4EjqOuqjcPm50M6cMZwGYN) | 2:37 |
 | 13 | [Captato](https://open.spotify.com/track/4kSEO7zOY10fak3s1KF04k) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [Cultura](https://open.spotify.com/album/2dsU9lVMag4W7Fu12cdQEt) | 2:03 |
 | 14 | [4088 \(feat\. RRARI DAL TACCO, Nathys, Young Hash & Blocka Beatz\)](https://open.spotify.com/track/4L0XMwD32Mq76N3agNpoKG) | [Welo](https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Blocka Beatz](https://open.spotify.com/artist/1AnTVUsrFRQ3HBhpUZHi5p) | [4088 \(feat\. RRARI DAL TACCO, Nathys, Young Hash & Blocka Beatz\)](https://open.spotify.com/album/47I5eWAahrkjPWPXXcLcG8) | 3:24 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 54 | [Esperienze Nuove](https://open.spotify.com/track/1LR432zhaAgcgpqdozne3O) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Esperienze Nuove](https://open.spotify.com/album/4tmfSfLFpuOf6iCIH8K1zE) | 3:03 |
 | 55 | [Pronto](https://open.spotify.com/track/34KXZcVcIaivELMEGQgk9M) | [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L) | [Pronto](https://open.spotify.com/album/3WaCFgHj2H2dWIlzvbTb47) | 1:55 |
 
-Snapshot ID: `MCw3ZmU1ZjEwMDJhMGFiNzA3MGFlOWUzOGU5Nzc0MTFjMTQ3NzczNmFl`
+Snapshot ID: `MCwwMzA1NjUwNDc0MzUwZGVjZTdiMjljODU0ZDZlZGRkZTY5MzljZDk0`

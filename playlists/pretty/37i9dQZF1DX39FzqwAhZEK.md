@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39FzqwAhZEK.md) - [plain]
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,414 likes - 202 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,434 likes - 202 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39FzqwAhZEK.md) - [plain]
 | 201 | [The Lonely Mountain](https://open.spotify.com/track/79Yt5NGbPCEECa3rlpbOve) | [Simon Folwar](https://open.spotify.com/artist/45yzAR4CenLlWxGsoWRbaQ) | [The Lonely Mountain](https://open.spotify.com/album/1wUv8HDDx9WWbPF2okGNE7) | 3:18 |
 | 202 | [](https://open.spotify.com/track/0inD1pyAgjkhFgB0RxnuDS) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1IuaImavIC1ZBkDSMOudZL) | 0:00 |
 
-Snapshot ID: `MCw0YWIyZDU5MGE5ZjA4MzUwNTY1MmQwZDM5N2YzYzJiODc2MmY1YTcy`
+Snapshot ID: `MCw0N2NlN2Y1MGRmOTg5MWEwMjE4YWMzMTMxNjViOGI0OTc1NTlkOTg2`

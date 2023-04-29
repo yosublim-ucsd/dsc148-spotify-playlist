@@ -4,7 +4,7 @@
 
 > Music from "Gintama" Series !「銀魂」シリーズの楽曲を1つのプレイリストで。 ©空知英秋／集英社・テレビ東京・電通・BNP・アニプレックス
 
-85 songs - 4 hr 39 min
+87 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [バクチ・ダンサー](https://open.spotify.com/track/6ucFUDwLvzlDkpKOC6vS2b) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [バクチ・ダンサー](https://open.spotify.com/album/00ixDln80gSiTu0jLoY0lJ) | 2:56 | 2023-04-27 |  |
 | [バランスドール](https://open.spotify.com/track/1EWaP7mX1IRFfF4gUwoVUj) | [Prague](https://open.spotify.com/artist/0KxIciZ1cJrk3N0xknsEnR) | [バランスドール](https://open.spotify.com/album/2cwAXc0xG1Ru0ZSKCrpDjj) | 4:22 | 2023-04-27 |  |
 | [ヒカリ証明論](https://open.spotify.com/track/1gTilQEziwJYdBHDPfXcX1) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ヒカリ証明論](https://open.spotify.com/album/75ffnBvgLbwr4WKiHWMPul) | 4:34 | 2023-04-27 |  |
+| [ブレイクダウン](https://open.spotify.com/track/48a9tMP9KQsrjZHX63YwTX) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [道楽心情](https://open.spotify.com/album/0U7oKS8tnOvaeDlBilqYX7) | 5:00 | 2023-04-28 |  |
 | [プライド革命](https://open.spotify.com/track/2UfQ8bejhARFxIOUCScLsD) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [プライド革命](https://open.spotify.com/album/6I2PYDBXF1GpzXZeagvFo8) | 3:55 | 2023-04-27 |  |
 | [ムーンウォーク](https://open.spotify.com/track/0UbBl0B1qSHz7MNojsqagi) | [MONOBRIGHT](https://open.spotify.com/artist/1fA0ExNzbvrQiX84L8SqQk) | [ムーンウォーク](https://open.spotify.com/album/1rLEyhXHeDgITs9u7JoeXr) | 3:32 | 2023-04-27 |  |
 | [ワンダフルデイズ](https://open.spotify.com/track/5OJoszBRioqAtvsdBYmUZ6) | [ONE☆DRAFT](https://open.spotify.com/artist/3x57ie4pExcYUjPJCOexrY) | [ワンダフルデイズ](https://open.spotify.com/album/3aMLeaNmJyhcd6ekjIx0ib) | 4:09 | 2023-04-27 |  |
@@ -86,6 +87,7 @@
 | [茨ガキと薔薇ガキ](https://open.spotify.com/track/43NptdH7JkT1D8N48EeCmt) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂 オリジナル・サウンドトラック 4](https://open.spotify.com/album/7ihGpH9VlBe7tfGXVLo6g9) | 2:14 | 2023-04-27 |  |
 | [輝いた](https://open.spotify.com/track/3Ncn1jHLPFyI21J1lXhk4J) | [Shigi](https://open.spotify.com/artist/7vNbDBlCRm8tiYA2bAcGPo) | [輝いた](https://open.spotify.com/album/10OJiDGqLYsxrM4wupwHBa) | 4:10 | 2023-04-27 |  |
 | [轍\~Wadachi\~](https://open.spotify.com/track/0AuEHmUQAMbqf9hrXBQcuT) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [轍\~Wadachi\~](https://open.spotify.com/album/5IgvSUIyXgrR0cvpcOVqho) | 3:42 | 2023-04-27 |  |
+| [道楽心情](https://open.spotify.com/track/5sFRbi81LzEk9ENVUVs81h) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [道楽心情](https://open.spotify.com/album/0U7oKS8tnOvaeDlBilqYX7) | 3:49 | 2023-04-28 |  |
 | [遠い匂い](https://open.spotify.com/track/1ZnCGRli0nf3lmEQrqCtF2) | [YO\-KING](https://open.spotify.com/artist/0ti4j9gpoZf2p1BKTeQjAL) | [遠い匂い](https://open.spotify.com/album/5dp5UrsT1TmsGWXvSQV7hj) | 3:54 | 2023-04-27 |  |
 | [鉄を叩きながら てめーの魂を叩き上げろ](https://open.spotify.com/track/5RL3YwSu4XXPe84fLspU2l) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂 オリジナル・サウンドトラック 2](https://open.spotify.com/album/4fudLJR0b4QJVtshkOYGzf) | 2:37 | 2023-04-27 |  |
 | [銀色の空](https://open.spotify.com/track/2QhNy6CIibtY4fsSw1HfH5) | [redballoon](https://open.spotify.com/artist/5Vy3sqkiOe2QlsbGQw0CPy) | [銀色の空](https://open.spotify.com/album/3c4fofZe3UKLaGqImuj9oj) | 3:37 | 2023-04-27 |  |

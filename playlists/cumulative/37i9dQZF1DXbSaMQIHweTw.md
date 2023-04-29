@@ -2,9 +2,9 @@
 
 ### [Bambai Bantai](https://open.spotify.com/playlist/37i9dQZF1DXbSaMQIHweTw)
 
-> Rapping into your hearts from the alleys of Mumbai\. Cover\- MC Stan
+> Rapping into your hearts from the alleys of Mumbai\. Cover\- Yashraj
 
-99 songs - 5 hr 24 min
+100 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Blessings](https://open.spotify.com/track/7J0CxEcl1dUxX9IG6R5Xfb) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:44 | 2023-04-24 |  |
 | [Blew up](https://open.spotify.com/track/3QP9yuBbDgy9tmTeG6aIaz) | [GAUSH](https://open.spotify.com/artist/5UPhqOBfNq83B0vOaLocFM), [Placidchills](https://open.spotify.com/artist/4DOiFiwOoLhBQOniziQ7V6) | [Blew up](https://open.spotify.com/album/5yyAPCWjdJmJxI3HVLbPdb) | 3:05 | 2023-03-17 | 2023-04-25 |
 | [Bol Bala](https://open.spotify.com/track/7FgTOompOyqXdjsKwkg9ol) | [100RBH](https://open.spotify.com/artist/767XlRPKZyZdDnBgTL6pcc), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Bol Bala](https://open.spotify.com/album/1rUO5Qjm64YnqqtOAUtTUl) | 3:36 | 2023-03-17 | 2023-04-25 |
+| [Bombay Coast](https://open.spotify.com/track/1RNW6JS1eZhvO2LzodiX3B) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [MLHVR](https://open.spotify.com/artist/1HZOuRhXA49pAZEdZbvKTn), [Adil](https://open.spotify.com/artist/3iTfVWPV4ur3XkrBwz41VZ), [Deorachit](https://open.spotify.com/artist/2ZtfmE2WlGjnaHwtwHbZXh) | [Bombay Coast](https://open.spotify.com/album/1h90h4U91NLlMP57WZxtBK) | 3:08 | 2023-04-28 |  |
 | [Bombay Ke Don](https://open.spotify.com/track/499tKmOFPlTHY91jx68WVN) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [Bombay Ke Don](https://open.spotify.com/album/7s0QOGNHppvKS3J4IUsZb7) | 3:16 | 2023-03-17 |  |
 | [Bombay to Punjab](https://open.spotify.com/track/1xoQjCAP6a63tZXbsMziXk) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Down to Earth](https://open.spotify.com/album/5q3xcIxiEhCrxwSaiiAqQ3) | 4:03 | 2023-03-17 | 2023-04-25 |
 | [Bura / Bhala](https://open.spotify.com/track/38RAyq4LnGYflc2W7hXuGa) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Akash Shravan](https://open.spotify.com/artist/4jFzbVrYw3ARhalxPjFfU0) | [Bura / Bhala](https://open.spotify.com/album/3Weyfjbzr8k74d0eBPH5dS) | 3:03 | 2023-03-17 | 2023-04-25 |
@@ -50,7 +51,7 @@
 | [Haalaat](https://open.spotify.com/track/78mlRr3vhLikHTWNkPhlOf) | [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2) | [Haalaat](https://open.spotify.com/album/20TsuaBtaR4x4Sci8r3HLz) | 3:56 | 2023-03-17 | 2023-04-25 |
 | [Heal](https://open.spotify.com/track/63fTryyhjbkCk8njSv4i18) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Heal](https://open.spotify.com/album/5QcuKHa15Dq0hEOUDIrOYT) | 3:04 | 2023-03-17 | 2023-04-25 |
 | [Industry Galat](https://open.spotify.com/track/6MaMlGQWYcgDgooYJVOmSq) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Zero Chill](https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M), [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2) | [Industry Galat](https://open.spotify.com/album/4jM5gTMAaDkaFtgGyOcnmP) | 3:08 | 2023-03-17 |  |
-| [Jama Kar](https://open.spotify.com/track/0zyMXraAjJoqD7EWSnRqHS) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Jama Kar](https://open.spotify.com/album/63zSAE7el24bx7PvQKex5B) | 3:27 | 2023-03-17 |  |
+| [Jama Kar](https://open.spotify.com/track/0zyMXraAjJoqD7EWSnRqHS) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Jama Kar](https://open.spotify.com/album/63zSAE7el24bx7PvQKex5B) | 3:27 | 2023-03-17 | 2023-04-29 |
 | [Jawab De](https://open.spotify.com/track/4wnwcrCyOODzxlMJ0nHKjw) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Jawab De](https://open.spotify.com/album/4T0NkUVDD4NeeE67deXR3g) | 3:03 | 2023-03-17 |  |
 | [Kaam 25 \- Sacred Games](https://open.spotify.com/track/6Kynli1iHBqJRWUCohcV9h) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Kaam 25 \(Sacred Games\)](https://open.spotify.com/album/22kgtYXKwgjccIu3kxC75m) | 2:29 | 2023-03-17 |  |
 | [KAHA PAR HUN](https://open.spotify.com/track/2IQ9BhK3MTBlt22BmK71gH) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [KAHA PAR HUN](https://open.spotify.com/album/0mIhlf6fjxtrMtwZwnuPH4) | 2:23 | 2023-03-17 | 2023-04-25 |

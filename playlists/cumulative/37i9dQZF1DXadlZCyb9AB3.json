@@ -384,7 +384,7 @@
     {
       "album": {
         "name": "Pottymouth (Remastered)",
-        "url": "https://open.spotify.com/album/5B3FlfoWVwLazsuELgRcAC"
+        "url": "https://open.spotify.com/album/0gslg0u8VjLBWPBuInwjsr"
       },
       "artists": [
         {
@@ -395,6 +395,24 @@
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 121720,
+      "name": "Cool Schmool",
+      "url": "https://open.spotify.com/track/1Ztdel2rhBxoPdRbp9km8z"
+    },
+    {
+      "album": {
+        "name": "Pottymouth (Remastered)",
+        "url": "https://open.spotify.com/album/5B3FlfoWVwLazsuELgRcAC"
+      },
+      "artists": [
+        {
+          "name": "Bratmobile",
+          "url": "https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
       "duration_ms": 121720,
       "name": "Cool Schmool",
       "url": "https://open.spotify.com/track/5SQhahcpnWJ6AXZ1N4YIvT"
@@ -816,7 +834,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 216000,
       "name": "Feels Blind",
       "url": "https://open.spotify.com/track/3VKly1IGagrEfPAAyw96M4"
@@ -838,6 +856,24 @@
       "duration_ms": 216000,
       "name": "Feels Blind",
       "url": "https://open.spotify.com/track/3lo5PYzZV2Rdyg2tovBdrd"
+    },
+    {
+      "album": {
+        "name": "Kill Rock Stars",
+        "url": "https://open.spotify.com/album/2e22AyUWBTo2jzZTd6NERs"
+      },
+      "artists": [
+        {
+          "name": "Bikini Kill",
+          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Feels Blind",
+      "url": "https://open.spotify.com/track/4iYOZJecMwcK1bh7D9a1nB"
     },
     {
       "album": {
@@ -1346,7 +1382,7 @@
     {
       "album": {
         "name": "Pottymouth (Remastered)",
-        "url": "https://open.spotify.com/album/5B3FlfoWVwLazsuELgRcAC"
+        "url": "https://open.spotify.com/album/0gslg0u8VjLBWPBuInwjsr"
       },
       "artists": [
         {
@@ -1357,6 +1393,24 @@
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 99880,
+      "name": "Love Thing",
+      "url": "https://open.spotify.com/track/0Tun80hNL7L2kwQlroehnb"
+    },
+    {
+      "album": {
+        "name": "Pottymouth (Remastered)",
+        "url": "https://open.spotify.com/album/5B3FlfoWVwLazsuELgRcAC"
+      },
+      "artists": [
+        {
+          "name": "Bratmobile",
+          "url": "https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
       "duration_ms": 99880,
       "name": "Love Thing",
       "url": "https://open.spotify.com/track/3sZGf2xRNLODdA76WELYBg"
@@ -1500,10 +1554,28 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 177884,
       "name": "Oh Me I'm Never",
       "url": "https://open.spotify.com/track/3QkXPqDZ1iGFxc1A2LVBAV"
+    },
+    {
+      "album": {
+        "name": "Oh Me I'm Never",
+        "url": "https://open.spotify.com/album/27G2pLuayZzhTsLILZ2Jk4"
+      },
+      "artists": [
+        {
+          "name": "ShitKid",
+          "url": "https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177884,
+      "name": "Oh Me I'm Never",
+      "url": "https://open.spotify.com/track/6qvBKnJebNW8SITZP9ZvVR"
     },
     {
       "album": {
@@ -1706,7 +1778,7 @@
     {
       "album": {
         "name": "Singles and Sessions 1979-1981",
-        "url": "https://open.spotify.com/album/1MF35ofwAGikdUzvhIFr7Z"
+        "url": "https://open.spotify.com/album/7dyzbiN0P6EfoxdRIgk6lL"
       },
       "artists": [
         {
@@ -1717,6 +1789,24 @@
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 160200,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/0LXibkUgRjhgjl6LIBvMpk"
+    },
+    {
+      "album": {
+        "name": "Singles and Sessions 1979-1981",
+        "url": "https://open.spotify.com/album/1MF35ofwAGikdUzvhIFr7Z"
+      },
+      "artists": [
+        {
+          "name": "Delta 5",
+          "url": "https://open.spotify.com/artist/2qe52cWdi4IRtgg14CLInb"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
       "duration_ms": 160200,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/3WLxWQTE7bIYQ6ceZww7Mm"
@@ -1778,7 +1868,7 @@
     {
       "album": {
         "name": "Standing in the Way of Control",
-        "url": "https://open.spotify.com/album/7kT3bu386sQNmb8C6GS1Dr"
+        "url": "https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW"
       },
       "artists": [
         {
@@ -1789,6 +1879,24 @@
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 256398,
+      "name": "Standing In the Way of Control",
+      "url": "https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl"
+    },
+    {
+      "album": {
+        "name": "Standing in the Way of Control",
+        "url": "https://open.spotify.com/album/7kT3bu386sQNmb8C6GS1Dr"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
       "duration_ms": 256399,
       "name": "Standing In the Way of Control",
       "url": "https://open.spotify.com/track/0hd4rC19ldUBmabhSHxiwS"

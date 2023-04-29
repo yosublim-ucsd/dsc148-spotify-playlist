@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: Veil Of Maya
 
-[Spotify](https://open.spotify.com/user/spotify) - 879,757 likes - 76 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 879,937 likes - 76 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 75 | [Dead Inside](https://open.spotify.com/track/4hZIolup6cgYhrzzGq46aq) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Run](https://open.spotify.com/album/3PsbQWb1jzu1TieGQwvjd7) | 3:24 |
 | 76 | [Circles](https://open.spotify.com/track/0JIEEyj0EsqTZORin5bxnM) | [Dark Divine](https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX) | [Circles](https://open.spotify.com/album/48yuoZ91DAKQGAvfPwNYF0) | 3:02 |
 
-Snapshot ID: `MCxiNWVmYzJlZDY5YWE4YmRiODY4OTliNDc2MzJlNmUyNDViYWMxZTky`
+Snapshot ID: `MCxjNDk2MGFmYzBlZDI3ZGE3ZWE0YTA0YjY4YmRiNDFiZjYwMTdhYmQy`

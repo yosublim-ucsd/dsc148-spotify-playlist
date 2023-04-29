@@ -351,6 +351,32 @@
     },
     {
       "album": {
+        "name": "Life Will Humble You",
+        "url": "https://open.spotify.com/album/4RhJ3rxqGdeYwyOy2GLQdZ"
+      },
+      "artists": [
+        {
+          "name": "Malford Milligan",
+          "url": "https://open.spotify.com/artist/2QJLuDh3Dcw0RrNMusUMHz"
+        },
+        {
+          "name": "The Southern Aces",
+          "url": "https://open.spotify.com/artist/3mwhEzwbXlTrbVojkG9LVI"
+        },
+        {
+          "name": "JW Roy",
+          "url": "https://open.spotify.com/artist/3i31y6LSpJEgV5ny8fw66d"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288578,
+      "name": "Feel Like Going Home (feat. The Southern Aces & Jw Roy)",
+      "url": "https://open.spotify.com/track/5vJxxRPswssA0WWHzd1g6s"
+    },
+    {
+      "album": {
         "name": "For The Better Of Me",
         "url": "https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg"
       },
@@ -366,6 +392,28 @@
       "duration_ms": 230431,
       "name": "For The Better Of Me",
       "url": "https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ"
+    },
+    {
+      "album": {
+        "name": "Dangers Mood",
+        "url": "https://open.spotify.com/album/2vwbTmsYqcMqePxrfPRV4z"
+      },
+      "artists": [
+        {
+          "name": "Robbert Duijf",
+          "url": "https://open.spotify.com/artist/479RX3LATApuM30lH2cemD"
+        },
+        {
+          "name": "Maud Knubben",
+          "url": "https://open.spotify.com/artist/109tzSrdsNx4IQJvJBTRXV"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192640,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/79Y9I1GYMaNEfVwEDmWh28"
     },
     {
       "album": {
@@ -470,7 +518,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 204840,
       "name": "I Waited for You",
       "url": "https://open.spotify.com/track/72ekaAHOCACTFM9C5DQ9uw"
@@ -697,6 +745,24 @@
     },
     {
       "album": {
+        "name": "Rollin' with the Punches",
+        "url": "https://open.spotify.com/album/5VLNC9q4WqKqG3tOQsPKEw"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5ipXUWgnE57t4sz9mfPRW1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253194,
+      "name": "Rollin' with the Punches",
+      "url": "https://open.spotify.com/track/0n3dt5BM0wJm6kLvUfB7hK"
+    },
+    {
+      "album": {
         "name": "Russell County Line",
         "url": "https://open.spotify.com/album/7oKoqz8mBYP0HNsNJ0fW4h"
       },
@@ -882,7 +948,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 156021,
       "name": "Today I Started Loving You Again",
       "url": "https://open.spotify.com/track/0SUeDxIX7QXvA9uVkkYYWs"
@@ -1030,7 +1096,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 124986,
       "name": "Whatever Turns You On",
       "url": "https://open.spotify.com/track/1IiRUmC1fhDscYS90FxWKz"

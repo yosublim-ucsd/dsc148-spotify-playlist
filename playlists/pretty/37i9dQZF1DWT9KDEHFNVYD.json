@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.",
-  "num_followers": 9341,
+  "num_followers": 9360,
   "original_name": "Krautrock Highway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjM3MmEyMjczMjEyNjMyMTVkYTYxY2E5MWM2YTdjZGM0YzdjZjQ1",
+  "snapshot_id": "MCw4YWMxMTc0OWI5ZWE1ZjRkZTE0ZGEzN2FjZjVkMTFhMzgyOTc4OTQ2",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -545,38 +545,6 @@
       "url": "https://open.spotify.com/track/6ny7YlXEPYSN2iDdXX50Xs"
     },
     {
-      "added_at": "2023-03-23 21:21:38",
-      "album": {
-        "name": "L'\u00e9t\u00e9 suivant...",
-        "url": "https://open.spotify.com/album/1sKHdsjlXudKAI9TEOpnbM"
-      },
-      "artists": [
-        {
-          "name": "Limousine",
-          "url": "https://open.spotify.com/artist/28TS6lsqvm8EKRdBzMigTh"
-        }
-      ],
-      "duration_ms": 387200,
-      "name": "Autoroute",
-      "url": "https://open.spotify.com/track/4YJYDa5V3ewbQMwkR6Maja"
-    },
-    {
-      "added_at": "2023-03-23 20:53:14",
-      "album": {
-        "name": "Matters",
-        "url": "https://open.spotify.com/album/3rU0SnUhb72OOyxaSM5c99"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00f6st",
-          "url": "https://open.spotify.com/artist/0thj1Xly1i0lA2XKQLH9gE"
-        }
-      ],
-      "duration_ms": 209630,
-      "name": "Record Still Spinning",
-      "url": "https://open.spotify.com/track/0DbK7EyGqza8QqzKpYZTCo"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Before And After Science",
@@ -591,6 +559,38 @@
       "duration_ms": 236239,
       "name": "King's Lead Hat - 2004 Digital Remaster",
       "url": "https://open.spotify.com/track/4kWkthAKzqYgI2tk0iHOqv"
+    },
+    {
+      "added_at": "2023-03-23 20:53:14",
+      "album": {
+        "name": "Matters",
+        "url": "https://open.spotify.com/album/3T0gHeXi1e900Bb9eue4e5"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00f6st",
+          "url": "https://open.spotify.com/artist/0thj1Xly1i0lA2XKQLH9gE"
+        }
+      ],
+      "duration_ms": 209630,
+      "name": "Record Still Spinning",
+      "url": "https://open.spotify.com/track/6h2jvV3Gwg6onowB0366IB"
+    },
+    {
+      "added_at": "2023-03-23 21:21:38",
+      "album": {
+        "name": "L'\u00e9t\u00e9 suivant...",
+        "url": "https://open.spotify.com/album/1sKHdsjlXudKAI9TEOpnbM"
+      },
+      "artists": [
+        {
+          "name": "Limousine",
+          "url": "https://open.spotify.com/artist/28TS6lsqvm8EKRdBzMigTh"
+        }
+      ],
+      "duration_ms": 387200,
+      "name": "Autoroute",
+      "url": "https://open.spotify.com/track/4YJYDa5V3ewbQMwkR6Maja"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -757,6 +757,22 @@
       "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
     },
     {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "A Ghost Is Born (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 642200,
+      "name": "Spiders (Kidsmoke)",
+      "url": "https://open.spotify.com/track/5VT6IkQWpeXhWa7ZWjKDQp"
+    },
+    {
       "added_at": "2023-01-25 02:05:47",
       "album": {
         "name": "Blackouts",
@@ -791,22 +807,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "A Ghost Is Born (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 642200,
-      "name": "Spiders (Kidsmoke)",
-      "url": "https://open.spotify.com/track/5VT6IkQWpeXhWa7ZWjKDQp"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Floating Coffin",
         "url": "https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c"
       },
@@ -819,22 +819,6 @@
       "duration_ms": 266120,
       "name": "No Spell",
       "url": "https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Primary Colours",
-        "url": "https://open.spotify.com/album/22Nn88o4b8qGFXt2IkaFXV"
-      },
-      "artists": [
-        {
-          "name": "The Horrors",
-          "url": "https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd"
-        }
-      ],
-      "duration_ms": 478493,
-      "name": "Sea Within a Sea",
-      "url": "https://open.spotify.com/track/4PeCRnvmRc60UBEEHZuSQO"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -853,20 +837,20 @@
       "url": "https://open.spotify.com/track/2eipVzPVCl3N2gWMXoEU1h"
     },
     {
-      "added_at": "2022-03-29 02:06:14",
+      "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "QUAKENBR\u00dcCK [Version]",
-        "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
+        "name": "Primary Colours",
+        "url": "https://open.spotify.com/album/22Nn88o4b8qGFXt2IkaFXV"
       },
       "artists": [
         {
-          "name": "Bitchin Bajas",
-          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
+          "name": "The Horrors",
+          "url": "https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd"
         }
       ],
-      "duration_ms": 279601,
-      "name": "Quakenbr\u00fcck - version",
-      "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
+      "duration_ms": 478493,
+      "name": "Sea Within a Sea",
+      "url": "https://open.spotify.com/track/4PeCRnvmRc60UBEEHZuSQO"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -917,20 +901,20 @@
       "url": "https://open.spotify.com/track/6Y9i9fI9HrYXMyJAHANLTm"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
+      "added_at": "2022-03-29 02:06:14",
       "album": {
-        "name": "Codes and Keys",
-        "url": "https://open.spotify.com/album/26HVbJdxW1zC799gz8yzUr"
+        "name": "QUAKENBR\u00dcCK [Version]",
+        "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
       },
       "artists": [
         {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+          "name": "Bitchin Bajas",
+          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
         }
       ],
-      "duration_ms": 337346,
-      "name": "Doors Unlocked and Open",
-      "url": "https://open.spotify.com/track/15pPMD8QmGMK28iFmUd0l8"
+      "duration_ms": 279601,
+      "name": "Quakenbr\u00fcck - version",
+      "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -947,6 +931,22 @@
       "duration_ms": 310040,
       "name": "All Your Love is Gone",
       "url": "https://open.spotify.com/track/7kNMIOkd0XgCFvwVvAIQAT"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Codes and Keys",
+        "url": "https://open.spotify.com/album/26HVbJdxW1zC799gz8yzUr"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 337346,
+      "name": "Doors Unlocked and Open",
+      "url": "https://open.spotify.com/track/15pPMD8QmGMK28iFmUd0l8"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/4bTWH5P6CykNnANLOAzKCR"
+      },
+      "artists": [
+        {
+          "name": "Colder",
+          "url": "https://open.spotify.com/artist/1z7SXnaVwt0Fnncfrz94SG"
+        }
+      ],
+      "duration_ms": 311600,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/0McxNzcP8DB1VKDLqZ0T3h"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Love Comes In Waves",
         "url": "https://open.spotify.com/album/6H1YKdZQvIuOVQkKUpOHtR"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 184013,
       "name": "Final Weapon",
       "url": "https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/4bTWH5P6CykNnANLOAzKCR"
-      },
-      "artists": [
-        {
-          "name": "Colder",
-          "url": "https://open.spotify.com/artist/1z7SXnaVwt0Fnncfrz94SG"
-        }
-      ],
-      "duration_ms": 311600,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/0McxNzcP8DB1VKDLqZ0T3h"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "NEU! 75",
-        "url": "https://open.spotify.com/album/7B9AA0Yw2rGbOVZ2ExZjE2"
+        "name": "No Shouts, No Calls",
+        "url": "https://open.spotify.com/album/0l9mVAWNzHKX0B7o9IEIeB"
       },
       "artists": [
         {
-          "name": "NEU!",
-          "url": "https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf"
+          "name": "Electrelane",
+          "url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
         }
       ],
-      "duration_ms": 431800,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/4I6yqyOzRr3gI0yjVfYVBq"
+      "duration_ms": 295026,
+      "name": "To the East",
+      "url": "https://open.spotify.com/track/1OfR8T0YBBwKXxt7nbAJaT"
     },
     {
       "added_at": "2022-11-19 05:33:06",
@@ -1147,22 +1147,6 @@
       "duration_ms": 239107,
       "name": "Nightcrawler",
       "url": "https://open.spotify.com/track/58J2w5yqne5YfzbmYi2mvY"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "No Shouts, No Calls",
-        "url": "https://open.spotify.com/album/0l9mVAWNzHKX0B7o9IEIeB"
-      },
-      "artists": [
-        {
-          "name": "Electrelane",
-          "url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
-        }
-      ],
-      "duration_ms": 295026,
-      "name": "To the East",
-      "url": "https://open.spotify.com/track/1OfR8T0YBBwKXxt7nbAJaT"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "With Dim Light",
+        "url": "https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B"
+      },
+      "artists": [
+        {
+          "name": "Minami Deutsch",
+          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
+        }
+      ],
+      "duration_ms": 346883,
+      "name": "Tunnel",
+      "url": "https://open.spotify.com/track/2UDfFY1kuDF9h0rw1PhohE"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Stars Are the Light",
         "url": "https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5"
       },
@@ -1227,22 +1227,6 @@
       "duration_ms": 250029,
       "name": "Conductor 71",
       "url": "https://open.spotify.com/track/1dqjTVRISUGI2eKjgcndIz"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "With Dim Light",
-        "url": "https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B"
-      },
-      "artists": [
-        {
-          "name": "Minami Deutsch",
-          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
-        }
-      ],
-      "duration_ms": 346883,
-      "name": "Tunnel",
-      "url": "https://open.spotify.com/track/2UDfFY1kuDF9h0rw1PhohE"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1283,22 +1267,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "F\u00fcr mich",
-        "url": "https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO"
-      },
-      "artists": [
-        {
-          "name": "Thomas Dinger",
-          "url": "https://open.spotify.com/artist/35aFCAq2lreYMf2nrhtgfm"
-        }
-      ],
-      "duration_ms": 566520,
-      "name": "F\u00fcr Dich",
-      "url": "https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Zuckerzeit",
         "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
       },
@@ -1311,6 +1279,22 @@
       "duration_ms": 141160,
       "name": "Hei\u00dfe Lippen",
       "url": "https://open.spotify.com/track/7gZZfNIWxgA8zs5YxVdiFe"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "F\u00fcr mich",
+        "url": "https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dinger",
+          "url": "https://open.spotify.com/artist/35aFCAq2lreYMf2nrhtgfm"
+        }
+      ],
+      "duration_ms": 566520,
+      "name": "F\u00fcr Dich",
+      "url": "https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1379,22 +1363,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
-        "url": "https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ"
-      },
-      "artists": [
-        {
-          "name": "Kosmischer L\u00e4ufer",
-          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
-        }
-      ],
-      "duration_ms": 386173,
-      "name": "Sandtrommel",
-      "url": "https://open.spotify.com/track/4IkU7Se7vWYxQPqPMday4O"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "I Am Not Afraid Of You And I Will Beat Your Ass",
         "url": "https://open.spotify.com/album/7dU9MbmRJaTX7JJzAd5bqL"
       },
@@ -1407,6 +1375,22 @@
       "duration_ms": 646960,
       "name": "Pass The Hatchet, I Think I'm Goodkind",
       "url": "https://open.spotify.com/track/2Sz8LPsM6ltd9sb34H6Oz8"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
+        "url": "https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ"
+      },
+      "artists": [
+        {
+          "name": "Kosmischer L\u00e4ufer",
+          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
+        }
+      ],
+      "duration_ms": 386173,
+      "name": "Sandtrommel",
+      "url": "https://open.spotify.com/track/4IkU7Se7vWYxQPqPMday4O"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1587,22 +1571,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Musik von Harmonia",
-        "url": "https://open.spotify.com/album/5uPRvwQy9NmNMeEhgs99bW"
-      },
-      "artists": [
-        {
-          "name": "Harmonia",
-          "url": "https://open.spotify.com/artist/0tHDVpPzMs1JqKTAuGQkQR"
-        }
-      ],
-      "duration_ms": 211013,
-      "name": "Dino",
-      "url": "https://open.spotify.com/track/4msdGxw6WCALEE00oVOf3V"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Emperor Tomato Ketchup",
         "url": "https://open.spotify.com/album/0haIl1ZqGy5akbazF8nxLs"
       },
@@ -1647,6 +1615,38 @@
       "duration_ms": 217133,
       "name": "Like Foxes Through Fences",
       "url": "https://open.spotify.com/track/05e1tN9mBd1qky5SdIGGTI"
+    },
+    {
+      "added_at": "2022-08-19 02:50:25",
+      "album": {
+        "name": "El Veh\u00edculo de las Transformaciones",
+        "url": "https://open.spotify.com/album/4gAHX2JkEm6RWRLw9cp4xd"
+      },
+      "artists": [
+        {
+          "name": "Mirror Revelations",
+          "url": "https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9"
+        }
+      ],
+      "duration_ms": 352542,
+      "name": "El Veh\u00edculo de las Transformaciones",
+      "url": "https://open.spotify.com/track/7F4GU3OKcPJOgeLG1jrSrx"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "A World of Masks",
+        "url": "https://open.spotify.com/album/0R1du3OpntlnAoctD8EL1a"
+      },
+      "artists": [
+        {
+          "name": "The Heliocentrics",
+          "url": "https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv"
+        }
+      ],
+      "duration_ms": 331453,
+      "name": "The Uncertainty Principle",
+      "url": "https://open.spotify.com/track/1KcoD4YKx4uydopVkBqb0Q"
     }
   ],
   "unique_name": "Krautrock Highway",

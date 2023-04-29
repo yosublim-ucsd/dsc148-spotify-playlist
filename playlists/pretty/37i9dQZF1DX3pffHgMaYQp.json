@@ -1,13 +1,29 @@
 {
-  "description": "m\u00fasica para insubordinados. Blnko en portada. ",
-  "num_followers": 72454,
+  "description": "M\u00fasica para insubordinados. Dillom en portada. ",
+  "num_followers": 72473,
   "original_name": "lo hice por el punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDFjZWExMmY0M2Q4NDAyYjZlYWIzODE5ZWI1YmMyZGUzOWY2MTAw",
+  "snapshot_id": "MCwzYjE4NzkzYjU1M2E2M2Y3YjYwNDM3N2QwMmQyNDMxN2NiOGNmMzM1",
   "tracks": [
+    {
+      "added_at": "2023-04-14 19:25:22",
+      "album": {
+        "name": "OLA DE SUICIDIOS",
+        "url": "https://open.spotify.com/album/5cslTHbdAe79CyaKfAzYdM"
+      },
+      "artists": [
+        {
+          "name": "Dillom",
+          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
+        }
+      ],
+      "duration_ms": 154373,
+      "name": "OLA DE SUICIDIOS",
+      "url": "https://open.spotify.com/track/0v2ESDRpC6X8k82tOnY91N"
+    },
     {
       "added_at": "2023-03-23 23:21:27",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 139066,
       "name": "90",
       "url": "https://open.spotify.com/track/51tqaIE3zBKbhiVVXq3FYi"
-    },
-    {
-      "added_at": "2023-04-14 19:25:22",
-      "album": {
-        "name": "OLA DE SUICIDIOS",
-        "url": "https://open.spotify.com/album/5cslTHbdAe79CyaKfAzYdM"
-      },
-      "artists": [
-        {
-          "name": "Dillom",
-          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
-        }
-      ],
-      "duration_ms": 154373,
-      "name": "OLA DE SUICIDIOS",
-      "url": "https://open.spotify.com/track/0v2ESDRpC6X8k82tOnY91N"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -972,7 +972,7 @@
       "added_at": "2022-03-25 17:01:02",
       "album": {
         "name": "Hijos del Sol",
-        "url": "https://open.spotify.com/album/0syY8WEuVTi39vVHfrCbjq"
+        "url": "https://open.spotify.com/album/2eWUzFnTmSu12e9N88TJ9y"
       },
       "artists": [
         {
@@ -982,7 +982,7 @@
       ],
       "duration_ms": 190640,
       "name": "Danza de Sol",
-      "url": "https://open.spotify.com/track/2IHswTTnpUppvV8jn7PHqH"
+      "url": "https://open.spotify.com/track/52pIvwmblgM5ZC34WQsmVW"
     },
     {
       "added_at": "2022-03-25 17:01:02",

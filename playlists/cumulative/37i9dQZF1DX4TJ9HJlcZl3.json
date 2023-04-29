@@ -248,7 +248,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 285906,
       "name": "Everything To Everyone",
       "url": "https://open.spotify.com/track/50EIC4ElPCZgtyzwlmdNxj"
@@ -368,7 +368,7 @@
     {
       "album": {
         "name": "Let The Morning Come",
-        "url": "https://open.spotify.com/album/5RnpvaRRVTovVqy099c0ve"
+        "url": "https://open.spotify.com/album/64BdSNPkLVXReRgCVNe29H"
       },
       "artists": [
         {
@@ -379,6 +379,24 @@
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 300506,
+      "name": "I Don't Think We Should Wait",
+      "url": "https://open.spotify.com/track/4V9DevlYomf95xOhfYqBlI"
+    },
+    {
+      "album": {
+        "name": "Let The Morning Come",
+        "url": "https://open.spotify.com/album/5RnpvaRRVTovVqy099c0ve"
+      },
+      "artists": [
+        {
+          "name": "sir Was",
+          "url": "https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
       "duration_ms": 300506,
       "name": "I Don't Think We Should Wait",
       "url": "https://open.spotify.com/track/59PWRSbpBHbeI5pw6llR5v"
@@ -498,6 +516,24 @@
       "duration_ms": 195750,
       "name": "Lakers Town (feat. Michael McBolton)",
       "url": "https://open.spotify.com/track/4QMipGuTpebExVmTOA2s3C"
+    },
+    {
+      "album": {
+        "name": "Le Parapluie",
+        "url": "https://open.spotify.com/album/65DVyR9E39jseLEfXe1gaR"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247789,
+      "name": "Le Parapluie",
+      "url": "https://open.spotify.com/track/08KYx5dQxdD33irLEt8WQH"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-132 songs - 9 hr 56 min
+134 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Lyot Remix \- Edit](https://open.spotify.com/track/7LHfXGLdbxAaRJp6Jq0lAn) | [Basic Channel](https://open.spotify.com/artist/37um1uxI92g4ll61LzrtB5) | [Bcd](https://open.spotify.com/album/3QiuQrKMLpt7MDgjUDvv8d) | 6:28 | 2023-02-09 |  |
 | [Marixylo](https://open.spotify.com/track/6hCpieIoM2tBlpn8JBBvUJ) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7) | [Marixylo / Log 0ut](https://open.spotify.com/album/1RVJiWQ10iL6LdIwSwqCyI) | 3:55 | 2022-10-27 | 2023-03-31 |
 | [Meditation \(feat\. Arca\)](https://open.spotify.com/track/02wBXlCNUSRwccrcz42f6D) | [Babyfather](https://open.spotify.com/artist/3DmDJOQgrwlq8MxXGLeFvA), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Meditation](https://open.spotify.com/album/5qHAXlxVDmINXncIJfdB7k) | 5:20 | 2022-10-27 | 2022-11-13 |
-| [Meditation \(feat\. Arca\)](https://open.spotify.com/track/4G2wDx4EztZCPNz4sVHOFF) | [Babyfather](https://open.spotify.com/artist/3DmDJOQgrwlq8MxXGLeFvA), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | ["BBF" Hosted By DJ Escrow](https://open.spotify.com/album/5cfMh4xCZIr5kZs5ryEpeS) | 5:20 | 2022-10-27 |  |
+| [Meditation \(feat\. Arca\)](https://open.spotify.com/track/3wxiQcLMIcJqua7VCZOVMg) | [Babyfather](https://open.spotify.com/artist/3DmDJOQgrwlq8MxXGLeFvA), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | ["BBF" Hosted By DJ Escrow](https://open.spotify.com/album/3Y0EqAgYnf04X2U72D6z2I) | 5:20 | 2023-04-06 |  |
+| [Meditation \(feat\. Arca\)](https://open.spotify.com/track/4G2wDx4EztZCPNz4sVHOFF) | [Babyfather](https://open.spotify.com/artist/3DmDJOQgrwlq8MxXGLeFvA), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | ["BBF" Hosted By DJ Escrow](https://open.spotify.com/album/5cfMh4xCZIr5kZs5ryEpeS) | 5:20 | 2022-10-27 | 2023-04-29 |
 | [mess it up](https://open.spotify.com/track/2gpNArSO3LwEgD91do4BpG) | [Catnapp](https://open.spotify.com/artist/2W47Nby5KFaS1pdUt7qmCU) | [TRUST](https://open.spotify.com/album/1bvrpTqzbfMe4HvdbzwGu2) | 2:31 | 2022-10-27 | 2022-11-20 |
 | [mess it up](https://open.spotify.com/track/4WBvIJCTmSg1IWoxw3Q78B) | [Catnapp](https://open.spotify.com/artist/2W47Nby5KFaS1pdUt7qmCU) | [TRUST](https://open.spotify.com/album/558F6R7m4TZSKYb4xnANuF) | 2:31 | 2022-10-27 |  |
 | [Misty Winter](https://open.spotify.com/track/7r3BrzYsLmxLiMmlL3hx5u) | [Mala](https://open.spotify.com/artist/0QTEYauMG3DrAVPXCYMseu), [Crazy D](https://open.spotify.com/artist/0c07oVZL07jYpUOCk0I6Zh) | [Misty Winter](https://open.spotify.com/album/6mXscqvoSqI0lQUCEl8cAc) | 4:52 | 2022-10-27 |  |
@@ -111,7 +112,8 @@
 | [Soap Cube](https://open.spotify.com/track/12xikjelcZYCxUxT56EQs2) | [Solid Blake](https://open.spotify.com/artist/7HUuzFIFu1CIESXaklBXyo) | [Warp Room](https://open.spotify.com/album/6aV86khpGOFDAvJwitOGwM) | 3:44 | 2022-10-27 | 2023-02-10 |
 | [Soap Cube](https://open.spotify.com/track/2dKCoSWw0dvJnFz1f0ZWSs) | [Solid Blake](https://open.spotify.com/artist/7HUuzFIFu1CIESXaklBXyo) | [Warp Room](https://open.spotify.com/album/5KJIgL2wKgshgOz1xLWqvg) | 3:44 | 2022-10-27 | 2022-11-20 |
 | [Stinky](https://open.spotify.com/track/4Q3KThNMzTk1Sa66vGOArJ) | [Ploy](https://open.spotify.com/artist/3mYbIK47UNTYkexhqoJOBN) | [Stinky](https://open.spotify.com/album/1KlnL0USOuaQdCOLQ4L9hY) | 5:42 | 2022-10-27 | 2023-01-21 |
-| [Streetlands](https://open.spotify.com/track/3G3wD7ovEtCLcrljv6IYRd) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Streetlands EP](https://open.spotify.com/album/5ahm26Lxj4lpSs6Cd5IhUe) | 14:15 | 2022-10-27 |  |
+| [Streetlands](https://open.spotify.com/track/3G3wD7ovEtCLcrljv6IYRd) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Streetlands EP](https://open.spotify.com/album/5ahm26Lxj4lpSs6Cd5IhUe) | 14:15 | 2022-10-27 | 2023-04-29 |
+| [Streetlands](https://open.spotify.com/track/55PZY75Fpf26SiiTohiov8) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Streetlands EP](https://open.spotify.com/album/7DWTPht64rxNCelkEGQwxO) | 14:15 | 2023-04-06 |  |
 | [Tacken](https://open.spotify.com/track/66KXSLfCiAoZkcjyF3Uujm) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [Extended](https://open.spotify.com/album/595ckypY5Dho4okbAw24bz) | 3:20 | 2022-10-27 | 2022-11-20 |
 | [Tacken](https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [Extended](https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC) | 3:20 | 2022-10-27 |  |
 | [Taro](https://open.spotify.com/track/0svb2SpratxjWjQQUp8xEx) | [Tomás Urquieta](https://open.spotify.com/artist/0FvPx0jMxVB5f1B9SECQXh) | [Calatea \- EP](https://open.spotify.com/album/0moITSwsvMsQ7BUediIgEK) | 5:47 | 2023-03-30 |  |

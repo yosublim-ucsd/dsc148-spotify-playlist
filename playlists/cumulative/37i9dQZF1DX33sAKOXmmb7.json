@@ -1020,7 +1020,7 @@
     {
       "album": {
         "name": "The Lion's Roar",
-        "url": "https://open.spotify.com/album/5Wblz3wiSHrbGB9FdLBJmt"
+        "url": "https://open.spotify.com/album/2ClpsMzeeVVoevHkK2N1vs"
       },
       "artists": [
         {
@@ -1031,6 +1031,24 @@
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Emmylou",
+      "url": "https://open.spotify.com/track/2bU3gg0M8GGBs7ItBKsJX9"
+    },
+    {
+      "album": {
+        "name": "The Lion's Roar",
+        "url": "https://open.spotify.com/album/5Wblz3wiSHrbGB9FdLBJmt"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
       "duration_ms": 258000,
       "name": "Emmylou",
       "url": "https://open.spotify.com/track/5yQrOvXWli8C7R6j56rowR"

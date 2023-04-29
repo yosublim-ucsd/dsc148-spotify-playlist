@@ -1,29 +1,13 @@
 {
   "description": "Ska 100% hecho en M\u00e9xico con chilito del que pica. La Tremenda Korte en portada. ",
-  "num_followers": 8032,
+  "num_followers": 8037,
   "original_name": "MexSka ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDdiYmYxN2Y5NTViN2MyMjAxN2FkNmJkMmU5M2YwOTA2MDkzYmFm",
+  "snapshot_id": "MCxlYWM3ODhjYmQ1NWIyZmFjYmZlMjkwOWMyMmI2MzQ1OGEwNGUwMTJi",
   "tracks": [
-    {
-      "added_at": "2023-04-21 02:57:37",
-      "album": {
-        "name": "Somos",
-        "url": "https://open.spotify.com/album/5X8S69HVzok5dsfLRcoRVA"
-      },
-      "artists": [
-        {
-          "name": "Kotardo",
-          "url": "https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P"
-        }
-      ],
-      "duration_ms": 145285,
-      "name": "Somos",
-      "url": "https://open.spotify.com/track/32cN25vFyAg3SlY5UrwNyr"
-    },
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
@@ -39,22 +23,6 @@
       "duration_ms": 214880,
       "name": "Como te extra\u00f1o mi amor",
       "url": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
-    },
-    {
-      "added_at": "2023-03-31 06:00:00",
-      "album": {
-        "name": "Entre Marzo Y Abril",
-        "url": "https://open.spotify.com/album/5Pj2lJ790IKbuxXCFRan3h"
-      },
-      "artists": [
-        {
-          "name": "Maskatesta",
-          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
-        }
-      ],
-      "duration_ms": 197869,
-      "name": "Me Amborracho",
-      "url": "https://open.spotify.com/track/7akA6GnMQrTGrnUHWokYG7"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -91,22 +59,6 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
-        "name": "Piel De Banqueta",
-        "url": "https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        }
-      ],
-      "duration_ms": 179973,
-      "name": "Me Enamor\u00e9 En La Cola De Las Torillas",
-      "url": "https://open.spotify.com/track/5dQxHCVmt6PNqNsza6XI63"
-    },
-    {
-      "added_at": "2023-03-31 06:00:00",
-      "album": {
         "name": "Alma En Fuego",
         "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
       },
@@ -121,56 +73,24 @@
       "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
     },
     {
-      "added_at": "2023-03-31 06:00:00",
+      "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Sirvala m\u00e1s",
-        "url": "https://open.spotify.com/album/6FswQydKb5MDSQ2vsEDeSj"
+        "name": "Impermeable",
+        "url": "https://open.spotify.com/album/2Ep365xchKBZC0RtLSKBjw"
       },
       "artists": [
         {
-          "name": "THE MARGINADOS 2 TONE FROM L. A.",
-          "url": "https://open.spotify.com/artist/567IFwIs3pkx9T8AKHqf76"
-        }
-      ],
-      "duration_ms": 224516,
-      "name": "Sirvala m\u00e1s",
-      "url": "https://open.spotify.com/track/2JSEOpKXYQiIEkQNw3NP3p"
-    },
-    {
-      "added_at": "2023-03-31 06:00:00",
-      "album": {
-        "name": "T\u00fa Lo Decidiste",
-        "url": "https://open.spotify.com/album/4yGz0D0KtUEXKFgqO41nVM"
-      },
-      "artists": [
-        {
-          "name": "Los Choclok",
-          "url": "https://open.spotify.com/artist/2iEDalkx4bi0VkRuW0QkYD"
+          "name": "Timo Pacheco",
+          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
         },
         {
-          "name": "Los S\u00faper Caracoles",
-          "url": "https://open.spotify.com/artist/34yN3W6hGSIpvWEJLKHsX7"
+          "name": "Bibi Mar\u00edn",
+          "url": "https://open.spotify.com/artist/2WUDNYnIWyyjzPLcXoTKql"
         }
       ],
-      "duration_ms": 218064,
-      "name": "T\u00fa Lo Decidiste",
-      "url": "https://open.spotify.com/track/0ys6yLVGYNKHqoV5YgDKG8"
-    },
-    {
-      "added_at": "2023-03-31 06:00:00",
-      "album": {
-        "name": "Monstruo de Bares",
-        "url": "https://open.spotify.com/album/47ZjISrfM9FkXYAMxjSTKZ"
-      },
-      "artists": [
-        {
-          "name": "Radio Catoche",
-          "url": "https://open.spotify.com/artist/5xghcJVVg0kwNKpf0aUdNm"
-        }
-      ],
-      "duration_ms": 142898,
-      "name": "Las Chicas Como T\u00fa",
-      "url": "https://open.spotify.com/track/262jGMuFthtLE5JrmRhQec"
+      "duration_ms": 234250,
+      "name": "Impermeable",
+      "url": "https://open.spotify.com/track/0SrYQV1yFWPMU4i395FUx8"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -191,26 +111,6 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
-        "name": "Embicia2",
-        "url": "https://open.spotify.com/album/71s2nblaTatY28pUkpJaZq"
-      },
-      "artists": [
-        {
-          "name": "RA LA CULEBRA",
-          "url": "https://open.spotify.com/artist/1mTHqIdrMZ8UlwFI3CD2EY"
-        },
-        {
-          "name": "Salon Victoria",
-          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Embicia2",
-      "url": "https://open.spotify.com/track/4oaJqoY1zTYObJzsRkv5bQ"
-    },
-    {
-      "added_at": "2023-03-31 06:00:00",
-      "album": {
         "name": "Rock En Espa\u00f1ol - Lo Mejor De Tijuana No!",
         "url": "https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g"
       },
@@ -223,6 +123,22 @@
       "duration_ms": 282120,
       "name": "Pobre de Ti",
       "url": "https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
+        "name": "96 - 05",
+        "url": "https://open.spotify.com/album/0pwnHJD1my6WUATRg69Eag"
+      },
+      "artists": [
+        {
+          "name": "Salon Victoria",
+          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
+        }
+      ],
+      "duration_ms": 131039,
+      "name": "Si Tu Boquita Fuera",
+      "url": "https://open.spotify.com/track/32CYkcjOSCbiIoBeBheUx7"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -255,22 +171,6 @@
       "duration_ms": 225826,
       "name": "Y Que",
       "url": "https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6"
-    },
-    {
-      "added_at": "2023-03-31 06:00:00",
-      "album": {
-        "name": "96 - 05",
-        "url": "https://open.spotify.com/album/0pwnHJD1my6WUATRg69Eag"
-      },
-      "artists": [
-        {
-          "name": "Salon Victoria",
-          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
-        }
-      ],
-      "duration_ms": 131039,
-      "name": "Si Tu Boquita Fuera",
-      "url": "https://open.spotify.com/track/32CYkcjOSCbiIoBeBheUx7"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -367,38 +267,6 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
-        "name": "Compa\u00f1eros Musicales",
-        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 213720,
-      "name": "La Carencia",
-      "url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
-    },
-    {
-      "added_at": "2023-03-31 06:00:00",
-      "album": {
-        "name": "Frecuencia Rebelde",
-        "url": "https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj"
-      },
-      "artists": [
-        {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
-        }
-      ],
-      "duration_ms": 196093,
-      "name": "Total",
-      "url": "https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa"
-    },
-    {
-      "added_at": "2023-03-31 06:00:00",
-      "album": {
         "name": "Ska a La Carta",
         "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
       },
@@ -415,18 +283,42 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
-        "name": "Circular Colectivo",
-        "url": "https://open.spotify.com/album/414o3Z4kf1C9dGdpxGmkBk"
+        "name": "Compa\u00f1eros Musicales",
+        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
       },
       "artists": [
         {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 245480,
-      "name": "Quinto Patio Ska",
-      "url": "https://open.spotify.com/track/1Zs96OM6QHyb00sVAFOZ2g"
+      "duration_ms": 213720,
+      "name": "La Carencia",
+      "url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
+        "name": "Latin Ska Force",
+        "url": "https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt"
+      },
+      "artists": [
+        {
+          "name": "Los De Abajo",
+          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
+        },
+        {
+          "name": "Diego Benlliure",
+          "url": "https://open.spotify.com/artist/632hZrvw4igilYgJr25TNF"
+        },
+        {
+          "name": "Jos\u00e9 Grela",
+          "url": "https://open.spotify.com/artist/6asUVMkGHy6e5CeyRtygEn"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "War 4 Peace",
+      "url": "https://open.spotify.com/track/3beXppvBycZ5qD0ZNpRiXb"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -447,6 +339,58 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
+        "name": "T\u00fa Lo Decidiste",
+        "url": "https://open.spotify.com/album/4yGz0D0KtUEXKFgqO41nVM"
+      },
+      "artists": [
+        {
+          "name": "Los Choclok",
+          "url": "https://open.spotify.com/artist/2iEDalkx4bi0VkRuW0QkYD"
+        },
+        {
+          "name": "Los S\u00faper Caracoles",
+          "url": "https://open.spotify.com/artist/34yN3W6hGSIpvWEJLKHsX7"
+        }
+      ],
+      "duration_ms": 218064,
+      "name": "T\u00fa Lo Decidiste",
+      "url": "https://open.spotify.com/track/0ys6yLVGYNKHqoV5YgDKG8"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
+        "name": "Frecuencia Rebelde",
+        "url": "https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj"
+      },
+      "artists": [
+        {
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+        }
+      ],
+      "duration_ms": 196093,
+      "name": "Total",
+      "url": "https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
+        "name": "Circular Colectivo",
+        "url": "https://open.spotify.com/album/414o3Z4kf1C9dGdpxGmkBk"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 245480,
+      "name": "Quinto Patio Ska",
+      "url": "https://open.spotify.com/track/1Zs96OM6QHyb00sVAFOZ2g"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
         "name": "Lucha Rock",
         "url": "https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii"
       },
@@ -459,6 +403,54 @@
       "duration_ms": 223013,
       "name": "El Esqueleto",
       "url": "https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
+        "name": "El Precio del Sudor",
+        "url": "https://open.spotify.com/album/3GeVKe0S3AIyGRbt5L40tc"
+      },
+      "artists": [
+        {
+          "name": "Los Rude Boys",
+          "url": "https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA"
+        }
+      ],
+      "duration_ms": 164186,
+      "name": "Somos del Barrio",
+      "url": "https://open.spotify.com/track/4f3B6Ts5LUR2X0DLwr00JV"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "Fantasma de la Rana",
+      "url": "https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 215680,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -488,65 +480,13 @@
           "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
         },
         {
-          "name": "Diego Benlliure",
-          "url": "https://open.spotify.com/artist/632hZrvw4igilYgJr25TNF"
-        },
-        {
-          "name": "Jos\u00e9 Grela",
-          "url": "https://open.spotify.com/artist/6asUVMkGHy6e5CeyRtygEn"
+          "name": "Salvador Moreno",
+          "url": "https://open.spotify.com/artist/2Qp5tnyK98GOW3IZcM69yP"
         }
       ],
-      "duration_ms": 206333,
-      "name": "War 4 Peace",
-      "url": "https://open.spotify.com/track/3beXppvBycZ5qD0ZNpRiXb"
-    },
-    {
-      "added_at": "2023-03-31 06:00:00",
-      "album": {
-        "name": "El Precio del Sudor",
-        "url": "https://open.spotify.com/album/3GeVKe0S3AIyGRbt5L40tc"
-      },
-      "artists": [
-        {
-          "name": "Los Rude Boys",
-          "url": "https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA"
-        }
-      ],
-      "duration_ms": 164186,
-      "name": "Somos del Barrio",
-      "url": "https://open.spotify.com/track/4f3B6Ts5LUR2X0DLwr00JV"
-    },
-    {
-      "added_at": "2023-03-31 06:00:00",
-      "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 215680,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
-    },
-    {
-      "added_at": "2023-03-31 06:00:00",
-      "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
-      },
-      "artists": [
-        {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
-        }
-      ],
-      "duration_ms": 237346,
-      "name": "Fantasma de la Rana",
-      "url": "https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL"
+      "duration_ms": 219320,
+      "name": "Labios Rojos",
+      "url": "https://open.spotify.com/track/4TgMjUl6V83bU03XiQADz7"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -607,22 +547,6 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
-        "name": "15 A\u00f1os de Fuerza, Coraz\u00f3n y Resistencia",
-        "url": "https://open.spotify.com/album/3HJqnp5b9tcTOYGcYkX4nu"
-      },
-      "artists": [
-        {
-          "name": "Royal Club",
-          "url": "https://open.spotify.com/artist/6nvwIE7PkdPwNx48i5scxu"
-        }
-      ],
-      "duration_ms": 237586,
-      "name": "Suda Mi Cuerpo",
-      "url": "https://open.spotify.com/track/3UAN9TI0GfhBtPnZYd9Llk"
-    },
-    {
-      "added_at": "2023-03-31 06:00:00",
-      "album": {
         "name": "Unidad, Cerveza y Ska",
         "url": "https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd"
       },
@@ -639,42 +563,18 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
-        "name": "Infiernos",
-        "url": "https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1"
+        "name": "15 A\u00f1os de Fuerza, Coraz\u00f3n y Resistencia",
+        "url": "https://open.spotify.com/album/3HJqnp5b9tcTOYGcYkX4nu"
       },
       "artists": [
         {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        },
-        {
-          "name": "Dub Inc",
-          "url": "https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U"
+          "name": "Royal Club",
+          "url": "https://open.spotify.com/artist/6nvwIE7PkdPwNx48i5scxu"
         }
       ],
-      "duration_ms": 274653,
-      "name": "El \u00daltimo Ska",
-      "url": "https://open.spotify.com/track/3Up8K9cqZGOUnoyzgDY3ZZ"
-    },
-    {
-      "added_at": "2023-03-31 06:00:00",
-      "album": {
-        "name": "Latin Ska Force",
-        "url": "https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt"
-      },
-      "artists": [
-        {
-          "name": "Los De Abajo",
-          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
-        },
-        {
-          "name": "Salvador Moreno",
-          "url": "https://open.spotify.com/artist/2Qp5tnyK98GOW3IZcM69yP"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "Labios Rojos",
-      "url": "https://open.spotify.com/track/4TgMjUl6V83bU03XiQADz7"
+      "duration_ms": 237586,
+      "name": "Suda Mi Cuerpo",
+      "url": "https://open.spotify.com/track/3UAN9TI0GfhBtPnZYd9Llk"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -691,6 +591,22 @@
       "duration_ms": 165046,
       "name": "Ay! Ay! Amor!",
       "url": "https://open.spotify.com/track/08JLwvbfZmox8i1hIvjHPp"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
+        "name": "Mejores Tiempos",
+        "url": "https://open.spotify.com/album/4XJpYmsQZSIMcvENsWz2Nx"
+      },
+      "artists": [
+        {
+          "name": "Los Rude Boys",
+          "url": "https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA"
+        }
+      ],
+      "duration_ms": 273893,
+      "name": "Mejores Tiempos",
+      "url": "https://open.spotify.com/track/7jBIWPsJJ09O0ffutG92Hw"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -715,18 +631,22 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
-        "name": "Mejores Tiempos",
-        "url": "https://open.spotify.com/album/4XJpYmsQZSIMcvENsWz2Nx"
+        "name": "Infiernos",
+        "url": "https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1"
       },
       "artists": [
         {
-          "name": "Los Rude Boys",
-          "url": "https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA"
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "Dub Inc",
+          "url": "https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U"
         }
       ],
-      "duration_ms": 273893,
-      "name": "Mejores Tiempos",
-      "url": "https://open.spotify.com/track/7jBIWPsJJ09O0ffutG92Hw"
+      "duration_ms": 274653,
+      "name": "El \u00daltimo Ska",
+      "url": "https://open.spotify.com/track/3Up8K9cqZGOUnoyzgDY3ZZ"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -747,22 +667,6 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/47IVDbiDtwhwHd1kk4XlDk"
-      },
-      "artists": [
-        {
-          "name": "Royal Club",
-          "url": "https://open.spotify.com/artist/6nvwIE7PkdPwNx48i5scxu"
-        }
-      ],
-      "duration_ms": 170826,
-      "name": "Cenizas en el Mar",
-      "url": "https://open.spotify.com/track/6W92iAWlEVfiKTr9zZYseg"
-    },
-    {
-      "added_at": "2023-03-31 06:00:00",
-      "album": {
         "name": "Contra-Revolucion Avenue",
         "url": "https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2"
       },
@@ -779,6 +683,22 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/47IVDbiDtwhwHd1kk4XlDk"
+      },
+      "artists": [
+        {
+          "name": "Royal Club",
+          "url": "https://open.spotify.com/artist/6nvwIE7PkdPwNx48i5scxu"
+        }
+      ],
+      "duration_ms": 170826,
+      "name": "Cenizas en el Mar",
+      "url": "https://open.spotify.com/track/6W92iAWlEVfiKTr9zZYseg"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
         "name": "Flores para los Muertos",
         "url": "https://open.spotify.com/album/4MG3GEmrAnhWtKOkyP5BjV"
       },
@@ -791,6 +711,22 @@
       "duration_ms": 217133,
       "name": "Nada Que Perder",
       "url": "https://open.spotify.com/track/2yZsGhvrL3dRlbMLhAcy0E"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
+        "name": "Piel De Banqueta",
+        "url": "https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        }
+      ],
+      "duration_ms": 179973,
+      "name": "Me Enamor\u00e9 En La Cola De Las Torillas",
+      "url": "https://open.spotify.com/track/5dQxHCVmt6PNqNsza6XI63"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -843,6 +779,22 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
+        "name": "15 A\u00f1os de Fuerza, Coraz\u00f3n y Resistencia",
+        "url": "https://open.spotify.com/album/3HJqnp5b9tcTOYGcYkX4nu"
+      },
+      "artists": [
+        {
+          "name": "Royal Club",
+          "url": "https://open.spotify.com/artist/6nvwIE7PkdPwNx48i5scxu"
+        }
+      ],
+      "duration_ms": 209306,
+      "name": "No Hemos Muerto",
+      "url": "https://open.spotify.com/track/6r6qsNxpxO75px7lsH3VXn"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
         "name": "Sonora Skandalera",
         "url": "https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n"
       },
@@ -855,6 +807,22 @@
       "duration_ms": 254589,
       "name": "Algo De Suerte",
       "url": "https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
+        "name": "Armada Hasta los Dientes V 1.5",
+        "url": "https://open.spotify.com/album/3mcGUxLcbiPvIrVkXQ4XK9"
+      },
+      "artists": [
+        {
+          "name": "Nana Pancha",
+          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
+        }
+      ],
+      "duration_ms": 132146,
+      "name": "Nana Punk",
+      "url": "https://open.spotify.com/track/5z4NEn8aaE25kxcE3LORdQ"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -875,22 +843,6 @@
       "duration_ms": 197998,
       "name": "Amor Regresa - Ska",
       "url": "https://open.spotify.com/track/3EttA2xMqB72QD0QKfdNFR"
-    },
-    {
-      "added_at": "2023-03-31 06:00:00",
-      "album": {
-        "name": "15 A\u00f1os de Fuerza, Coraz\u00f3n y Resistencia",
-        "url": "https://open.spotify.com/album/3HJqnp5b9tcTOYGcYkX4nu"
-      },
-      "artists": [
-        {
-          "name": "Royal Club",
-          "url": "https://open.spotify.com/artist/6nvwIE7PkdPwNx48i5scxu"
-        }
-      ],
-      "duration_ms": 209306,
-      "name": "No Hemos Muerto",
-      "url": "https://open.spotify.com/track/6r6qsNxpxO75px7lsH3VXn"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -919,18 +871,18 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
-        "name": "Armada Hasta los Dientes V 1.5",
-        "url": "https://open.spotify.com/album/3mcGUxLcbiPvIrVkXQ4XK9"
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
       },
       "artists": [
         {
-          "name": "Nana Pancha",
-          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
         }
       ],
-      "duration_ms": 132146,
-      "name": "Nana Punk",
-      "url": "https://open.spotify.com/track/5z4NEn8aaE25kxcE3LORdQ"
+      "duration_ms": 249026,
+      "name": "Ruperta",
+      "url": "https://open.spotify.com/track/5fFWruyNL7FZL1nLrkCTcM"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -949,20 +901,20 @@
       "url": "https://open.spotify.com/track/30qRh0j4htHrsroySiDh57"
     },
     {
-      "added_at": "2023-03-31 06:00:00",
+      "added_at": "2023-04-21 02:57:37",
       "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/5X8S69HVzok5dsfLRcoRVA"
       },
       "artists": [
         {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+          "name": "Kotardo",
+          "url": "https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P"
         }
       ],
-      "duration_ms": 249026,
-      "name": "Ruperta",
-      "url": "https://open.spotify.com/track/5fFWruyNL7FZL1nLrkCTcM"
+      "duration_ms": 145285,
+      "name": "Somos",
+      "url": "https://open.spotify.com/track/32cN25vFyAg3SlY5UrwNyr"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -983,22 +935,6 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
-        "name": "Una cosa es el ska y otra cosa es el rocksteady",
-        "url": "https://open.spotify.com/album/6O50zOjFZO8TeOxE9IfUBs"
-      },
-      "artists": [
-        {
-          "name": "Melodycans",
-          "url": "https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF"
-        }
-      ],
-      "duration_ms": 209442,
-      "name": "Me cambiaste la vida",
-      "url": "https://open.spotify.com/track/0ryQ6jI5uGf8oymICMTpRH"
-    },
-    {
-      "added_at": "2023-03-31 06:00:00",
-      "album": {
         "name": "Armada Hasta los Dientes V 1.5",
         "url": "https://open.spotify.com/album/3mcGUxLcbiPvIrVkXQ4XK9"
       },
@@ -1011,6 +947,22 @@
       "duration_ms": 236840,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2mvbq4eTb7dJPY6yzC7qlL"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
+        "name": "Una cosa es el ska y otra cosa es el rocksteady",
+        "url": "https://open.spotify.com/album/6O50zOjFZO8TeOxE9IfUBs"
+      },
+      "artists": [
+        {
+          "name": "Melodycans",
+          "url": "https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF"
+        }
+      ],
+      "duration_ms": 209442,
+      "name": "Me cambiaste la vida",
+      "url": "https://open.spotify.com/track/0ryQ6jI5uGf8oymICMTpRH"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -1031,22 +983,6 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
-        "name": "Cumbia Feminista",
-        "url": "https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ"
-      },
-      "artists": [
-        {
-          "name": "Las Decapitadas",
-          "url": "https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ"
-        }
-      ],
-      "duration_ms": 233513,
-      "name": "Cumbia Feminista",
-      "url": "https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d"
-    },
-    {
-      "added_at": "2023-03-31 06:00:00",
-      "album": {
         "name": "Salon Victoria",
         "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
       },
@@ -1063,6 +999,54 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
+        "name": "Cumbia Feminista",
+        "url": "https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ"
+      },
+      "artists": [
+        {
+          "name": "Las Decapitadas",
+          "url": "https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ"
+        }
+      ],
+      "duration_ms": 233513,
+      "name": "Cumbia Feminista",
+      "url": "https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
+        "name": "Entre Marzo Y Abril",
+        "url": "https://open.spotify.com/album/5Pj2lJ790IKbuxXCFRan3h"
+      },
+      "artists": [
+        {
+          "name": "Maskatesta",
+          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
+        }
+      ],
+      "duration_ms": 197869,
+      "name": "Me Amborracho",
+      "url": "https://open.spotify.com/track/7akA6GnMQrTGrnUHWokYG7"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
+        "name": "Monstruo de Bares",
+        "url": "https://open.spotify.com/album/47ZjISrfM9FkXYAMxjSTKZ"
+      },
+      "artists": [
+        {
+          "name": "Radio Catoche",
+          "url": "https://open.spotify.com/artist/5xghcJVVg0kwNKpf0aUdNm"
+        }
+      ],
+      "duration_ms": 142898,
+      "name": "Las Chicas Como T\u00fa",
+      "url": "https://open.spotify.com/track/262jGMuFthtLE5JrmRhQec"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
         "name": "Frecuencia Rebelde",
         "url": "https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj"
       },
@@ -1075,6 +1059,26 @@
       "duration_ms": 217800,
       "name": "Ni un paso atras",
       "url": "https://open.spotify.com/track/0DAixqXelWP3hwdUrJKP0F"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
+        "name": "Embicia2",
+        "url": "https://open.spotify.com/album/71s2nblaTatY28pUkpJaZq"
+      },
+      "artists": [
+        {
+          "name": "RA LA CULEBRA",
+          "url": "https://open.spotify.com/artist/1mTHqIdrMZ8UlwFI3CD2EY"
+        },
+        {
+          "name": "Salon Victoria",
+          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Embicia2",
+      "url": "https://open.spotify.com/track/4oaJqoY1zTYObJzsRkv5bQ"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -1263,6 +1267,22 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
+        "name": "Sirvala m\u00e1s",
+        "url": "https://open.spotify.com/album/6FswQydKb5MDSQ2vsEDeSj"
+      },
+      "artists": [
+        {
+          "name": "THE MARGINADOS 2 TONE FROM L. A.",
+          "url": "https://open.spotify.com/artist/567IFwIs3pkx9T8AKHqf76"
+        }
+      ],
+      "duration_ms": 224516,
+      "name": "Sirvala m\u00e1s",
+      "url": "https://open.spotify.com/track/2JSEOpKXYQiIEkQNw3NP3p"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
         "name": "Nunca Nos Compusimos",
         "url": "https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up"
       },
@@ -1327,22 +1347,6 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
-        "name": "Buena Vibra Social Sound, Vol. 1",
-        "url": "https://open.spotify.com/album/6gPi5aG2BtnE1gBVWUDCAu"
-      },
-      "artists": [
-        {
-          "name": "Buena Vibra Social Sound",
-          "url": "https://open.spotify.com/artist/5qUgKXhgE42KrDsz6K4m01"
-        }
-      ],
-      "duration_ms": 233299,
-      "name": "Bum Bum",
-      "url": "https://open.spotify.com/track/2qJVf6eIISbjq21DYHauO3"
-    },
-    {
-      "added_at": "2023-03-31 06:00:00",
-      "album": {
         "name": "Ska, Vol. 2",
         "url": "https://open.spotify.com/album/7GrWjBPVOAzYFdFFwHRAvZ"
       },
@@ -1355,22 +1359,6 @@
       "duration_ms": 157675,
       "name": "Estambul Ska",
       "url": "https://open.spotify.com/track/6DPAbdD7Wik0WxdpIwQRmH"
-    },
-    {
-      "added_at": "2023-03-31 06:00:00",
-      "album": {
-        "name": "Ciao",
-        "url": "https://open.spotify.com/album/6yQCx1G68XrLOIQkHBXlce"
-      },
-      "artists": [
-        {
-          "name": "Girls Go Ska",
-          "url": "https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo"
-        }
-      ],
-      "duration_ms": 263000,
-      "name": "Ciao",
-      "url": "https://open.spotify.com/track/136wILyBKYq1Su7fXQQJNH"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -1391,18 +1379,34 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
-        "name": "Marcando El Ritmo",
-        "url": "https://open.spotify.com/album/537Yl2DlSZ58rPkV07E5aE"
+        "name": "Ciao",
+        "url": "https://open.spotify.com/album/6yQCx1G68XrLOIQkHBXlce"
       },
       "artists": [
         {
-          "name": "Moon Stomper",
-          "url": "https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE"
+          "name": "Girls Go Ska",
+          "url": "https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo"
         }
       ],
-      "duration_ms": 155965,
-      "name": "Stay Rude",
-      "url": "https://open.spotify.com/track/1GTsw9fJdctqyT7iVQS35i"
+      "duration_ms": 263000,
+      "name": "Ciao",
+      "url": "https://open.spotify.com/track/136wILyBKYq1Su7fXQQJNH"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
+        "name": "Buena Vibra Social Sound, Vol. 1",
+        "url": "https://open.spotify.com/album/6gPi5aG2BtnE1gBVWUDCAu"
+      },
+      "artists": [
+        {
+          "name": "Buena Vibra Social Sound",
+          "url": "https://open.spotify.com/artist/5qUgKXhgE42KrDsz6K4m01"
+        }
+      ],
+      "duration_ms": 233299,
+      "name": "Bum Bum",
+      "url": "https://open.spotify.com/track/2qJVf6eIISbjq21DYHauO3"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -1451,6 +1455,22 @@
       "duration_ms": 387922,
       "name": "Revoluciones",
       "url": "https://open.spotify.com/track/5OjXaJ32H7olIakpiNSDbS"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
+        "name": "Marcando El Ritmo",
+        "url": "https://open.spotify.com/album/537Yl2DlSZ58rPkV07E5aE"
+      },
+      "artists": [
+        {
+          "name": "Moon Stomper",
+          "url": "https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE"
+        }
+      ],
+      "duration_ms": 155965,
+      "name": "Stay Rude",
+      "url": "https://open.spotify.com/track/1GTsw9fJdctqyT7iVQS35i"
     },
     {
       "added_at": "2023-03-31 06:00:00",

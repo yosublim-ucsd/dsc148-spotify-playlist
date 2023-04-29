@@ -2378,7 +2378,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 256765,
       "name": "Saving Us a Riot",
       "url": "https://open.spotify.com/track/2n1mukIntnIGBzhf8Ifkr2"
@@ -2754,6 +2754,24 @@
       "duration_ms": 166291,
       "name": "Stick with You",
       "url": "https://open.spotify.com/track/6TZ9adRRarZhhfzBD1b4GF"
+    },
+    {
+      "album": {
+        "name": "Summer Glass",
+        "url": "https://open.spotify.com/album/3aFZOCDGN6YZLH6F3vgDc6"
+      },
+      "artists": [
+        {
+          "name": "Julie Byrne",
+          "url": "https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259568,
+      "name": "Summer Glass",
+      "url": "https://open.spotify.com/track/08SHXQxXq1UZERSVWLhN77"
     },
     {
       "album": {

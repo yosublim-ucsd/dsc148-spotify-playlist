@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 23774,
+  "num_followers": 23822,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjhjYWE3MzYwMmEzOGM0Y2I2MzA3MWU1OGRlOTk4YWM1ZDQyYTQz",
+  "snapshot_id": "MCxhODU0NWE1YjI4OTk1OWRlNmQ3ZTJiYjg2NzU5MTE5MWQxY2MzOWZj",
   "tracks": [
     {
       "added_at": "2022-05-13 10:49:08",
@@ -28,7 +28,7 @@
       "added_at": "2022-05-13 10:49:08",
       "album": {
         "name": "Dr. John Plays Mac Rebennack The Legendary Sessions V. 1",
-        "url": "https://open.spotify.com/album/2YmByjFIRpY2ZX3c8OHkHF"
+        "url": "https://open.spotify.com/album/6pqnO3wDzP4fdXWbK9KaaL"
       },
       "artists": [
         {
@@ -38,7 +38,7 @@
       ],
       "duration_ms": 256265,
       "name": "Wade in the Water",
-      "url": "https://open.spotify.com/track/72vdux2aW6a1EBRdZoUpXi"
+      "url": "https://open.spotify.com/track/2bA54TGaCqV3gCrE3ETzJm"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Johnnie B. Bad",
-        "url": "https://open.spotify.com/album/6kCsbrIJOMSRdZI0T3wsRD"
-      },
-      "artists": [
-        {
-          "name": "Johnnie Johnson",
-          "url": "https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY"
-        }
-      ],
-      "duration_ms": 202400,
-      "name": "Key to the Highway",
-      "url": "https://open.spotify.com/track/0KmVzmqMXi24EusC3MwlBB"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Jumpin' With Joe",
         "url": "https://open.spotify.com/album/20iEYnDg4FqOWLfomgxWhM"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 223386,
       "name": "Take It Easy",
       "url": "https://open.spotify.com/track/7LmI63pR8aUSjKNySdbffC"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Johnnie B. Bad",
+        "url": "https://open.spotify.com/album/6kCsbrIJOMSRdZI0T3wsRD"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Johnson",
+          "url": "https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY"
+        }
+      ],
+      "duration_ms": 202400,
+      "name": "Key to the Highway",
+      "url": "https://open.spotify.com/track/0KmVzmqMXi24EusC3MwlBB"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "From North Dallas to the East Side",
-        "url": "https://open.spotify.com/album/0y2COhaSasf9M8hQ0JwKb9"
-      },
-      "artists": [
-        {
-          "name": "Alex Moore",
-          "url": "https://open.spotify.com/artist/7xy38VWf17uAjb1ZOSJGq1"
-        }
-      ],
-      "duration_ms": 187160,
-      "name": "Whistling Alex Moore's Blues",
-      "url": "https://open.spotify.com/track/3HMJk1q9EfFSvvDPxqhAte"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Good Candy",
         "url": "https://open.spotify.com/album/2QYfgujx2IpnAuTm0zgHea"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 392600,
       "name": "West Side Woman",
       "url": "https://open.spotify.com/track/1GW9zg3nvC65TTkOcDhZYm"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "From North Dallas to the East Side",
+        "url": "https://open.spotify.com/album/0y2COhaSasf9M8hQ0JwKb9"
+      },
+      "artists": [
+        {
+          "name": "Alex Moore",
+          "url": "https://open.spotify.com/artist/7xy38VWf17uAjb1ZOSJGq1"
+        }
+      ],
+      "duration_ms": 187160,
+      "name": "Whistling Alex Moore's Blues",
+      "url": "https://open.spotify.com/track/3HMJk1q9EfFSvvDPxqhAte"
     },
     {
       "added_at": "2022-05-13 10:49:08",

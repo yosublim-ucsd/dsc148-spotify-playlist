@@ -1538,10 +1538,28 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 161026,
       "name": "Old Flame",
       "url": "https://open.spotify.com/track/4A3OM57jy51hcJfPv06za1"
+    },
+    {
+      "album": {
+        "name": "Chances",
+        "url": "https://open.spotify.com/album/0HQalCiuviEhDvPhcBODoS"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "date_added": "2020-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161026,
+      "name": "Old Flame",
+      "url": "https://open.spotify.com/track/5KJ1xOE9SaFsYFJKqxf5RX"
     },
     {
       "album": {
@@ -2266,6 +2284,24 @@
     {
       "album": {
         "name": "Allow Me to Confess",
+        "url": "https://open.spotify.com/album/34puSs63TscNNMGLCjF7qY"
+      },
+      "artists": [
+        {
+          "name": "Gina Sicilia",
+          "url": "https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ"
+        }
+      ],
+      "date_added": "2020-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194373,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/1OqIafVbegBpzFIONJsSX2"
+    },
+    {
+      "album": {
+        "name": "Allow Me to Confess",
         "url": "https://open.spotify.com/album/2c2cFKHtezKf5Fna1rZO4T"
       },
       "artists": [
@@ -2294,7 +2330,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 194373,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/7fdF1y8Sm2dWryO5kRDlGL"

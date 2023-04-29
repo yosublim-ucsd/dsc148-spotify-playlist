@@ -4,7 +4,7 @@
 
 > Are you ready for the floor? Cover: Jessica Winter
 
-69 songs - 4 hr 43 min
+70 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Mr Blue](https://open.spotify.com/track/2PFM2HeWNP1omytVmtq9PQ) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Mr Blue \(Jadu Heart Mix\)](https://open.spotify.com/album/7m2SFt28E8jIawTtSBOW9F) | 4:32 | 2021-10-28 |  |
 | [No Forever](https://open.spotify.com/track/2VcKkrj7UKpUfep0RG9ZQV) | [Elaine Mai](https://open.spotify.com/artist/0wRHsCARScopB5WmbQzMcy), [MayKay](https://open.spotify.com/artist/3OalRjoYt3pFvLf8u37QFI) | [No Forever](https://open.spotify.com/album/4YRPQaPAFfgRXrB8maGWF3) | 3:43 | 2021-10-28 |  |
 | [Oh Me, Oh My \(Nicotine Patch\)](https://open.spotify.com/track/5ChMHAcbkE4lv4wnoqBflX) | [Real Lies](https://open.spotify.com/artist/1jucBaHU995Lf7ViACscFu) | [Oh Me, Oh My \(Nicotine Patch\)](https://open.spotify.com/album/1ToXN4pZa9a16vHZNeGMzQ) | 4:04 | 2021-10-28 |  |
-| [On and On \(Till the End of Us\)](https://open.spotify.com/track/2ugQ6rCdoQ5TSF2JZvhzgl) | [De Lux](https://open.spotify.com/artist/6go0iwCisHtnyywarV5OEZ) | [On and On \(Till the End of Us\)](https://open.spotify.com/album/3TmABFDEL1pZ7e4xk0IwDB) | 5:26 | 2021-10-28 |  |
+| [On and On \(Till the End of Us\)](https://open.spotify.com/track/0fQf23AVDUFO3ra88x61hx) | [De Lux](https://open.spotify.com/artist/6go0iwCisHtnyywarV5OEZ) | [Do You Need A Release?](https://open.spotify.com/album/1FKKx9w0SyP341MkT0mf4K) | 5:26 | 2021-10-28 |  |
+| [On and On \(Till the End of Us\)](https://open.spotify.com/track/2ugQ6rCdoQ5TSF2JZvhzgl) | [De Lux](https://open.spotify.com/artist/6go0iwCisHtnyywarV5OEZ) | [On and On \(Till the End of Us\)](https://open.spotify.com/album/3TmABFDEL1pZ7e4xk0IwDB) | 5:26 | 2021-10-28 | 2023-04-29 |
 | [Opal](https://open.spotify.com/track/5sJyL8UvFs6onfikqUjUqY) | [Nikonn](https://open.spotify.com/artist/1IUR872zLRlWXAfr7Uls4Q), [Chloe Ann](https://open.spotify.com/artist/1irwQnIWoD6cV6QTmN8zZ6), [Melllo](https://open.spotify.com/artist/78ks8w7ilnLHMKd3lLqNTc) | [Opal](https://open.spotify.com/album/5qCDHuUXdrQSWCjG8kkpo3) | 4:07 | 2021-10-28 |  |
 | [Ordinary Boy \- \(Floating Points Remix\) \[Edit\]](https://open.spotify.com/track/4OSKgRRE1w2HVwc7roVFbz) | [Ultraísta](https://open.spotify.com/artist/2f88S1uYsEwP0n4x36wvG7), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Ordinary Boy \(Floating Points Remix\)](https://open.spotify.com/album/0pxewF1XKjORMEIKwMPimk) | 3:59 | 2021-10-28 |  |
 | [Perfectly Broken](https://open.spotify.com/track/21RK93h8VJjBKaGgefZ1ro) | [HÆLOS](https://open.spotify.com/artist/132sZpCaM8ie6byAEcOcRs) | [Perfectly Broken](https://open.spotify.com/album/7yEPOcf4i368II6RXOGq5N) | 4:00 | 2021-10-28 |  |

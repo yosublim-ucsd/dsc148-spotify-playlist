@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/25wn6E4IiaAaTH6HBnGJ8y.md) - [plain]
 
 > bangers
 
-[Carson Howard](https://open.spotify.com/user/21yj6grazxctqzqdtvfi7nkzy) - 6,066 likes - 245 songs - 15 hr 15 min
+[Carson Howard](https://open.spotify.com/user/21yj6grazxctqzqdtvfi7nkzy) - 6,063 likes - 245 songs - 15 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/25wn6E4IiaAaTH6HBnGJ8y.md) - [plain]
 | 29 | [Touch](https://open.spotify.com/track/5JKU2tXiG3yvJtefNwe7ZQ) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5), [Carly Paige](https://open.spotify.com/artist/047WXnK2tIG3FGth7FyXaK) | [Ultraviolet](https://open.spotify.com/album/6sBjS0wHbzcwe8Eh4bOm97) | 3:25 |
 | 30 | [Daddy Issues](https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Wiped Out!](https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF) | 4:20 |
 | 31 | [Ways to Go](https://open.spotify.com/track/57nNNkgk768QVXq3uHxu5e) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spreading Rumours](https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf) | 3:35 |
-| 32 | [It’s Only \(feat\. Zyra\) \- ODESZA VIP Remix](https://open.spotify.com/track/2XyNLoEWc4IDt9OVzXZUXl) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Zyra](https://open.spotify.com/artist/0DGAOR3KtqWwWSwDzhzqOa) | [A Moment Apart \(Deluxe Edition\)](https://open.spotify.com/album/4MRcN8PhMhBe84tcPLe2QJ) | 4:00 |
+| 32 | [It’s Only \- ODESZA VIP Remix](https://open.spotify.com/track/2XyNLoEWc4IDt9OVzXZUXl) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Zyra](https://open.spotify.com/artist/0DGAOR3KtqWwWSwDzhzqOa) | [A Moment Apart \(Deluxe Edition\)](https://open.spotify.com/album/4MRcN8PhMhBe84tcPLe2QJ) | 4:00 |
 | 33 | [Intro](https://open.spotify.com/track/2TkO6n63MCMM0LQRlYP1g5) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [A Moment Apart \(Deluxe Edition\)](https://open.spotify.com/album/4MRcN8PhMhBe84tcPLe2QJ) | 1:03 |
 | 34 | [A Moment Apart](https://open.spotify.com/track/5XOyL7enRCDxMsXtPSeaXD) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [A Moment Apart \(Deluxe Edition\)](https://open.spotify.com/album/4MRcN8PhMhBe84tcPLe2QJ) | 3:54 |
-| 35 | [Just A Memory \(feat\. Regina Spektor\)](https://open.spotify.com/track/0mfSivZmglC3Hfn0NzssOY) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [A Moment Apart \(Deluxe Edition\)](https://open.spotify.com/album/4MRcN8PhMhBe84tcPLe2QJ) | 3:56 |
+| 35 | [Just A Memory](https://open.spotify.com/track/0mfSivZmglC3Hfn0NzssOY) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [A Moment Apart \(Deluxe Edition\)](https://open.spotify.com/album/4MRcN8PhMhBe84tcPLe2QJ) | 3:56 |
 | 36 | [Run](https://open.spotify.com/track/6p8eEdiZLKJH8tcjGZuNTK) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Run](https://open.spotify.com/album/6vC3YjRy755VljFSemBUu7) | 3:15 |
 | 37 | [Thé à la menthe \(The Lazer Dance Version\) \[Instrumental\]](https://open.spotify.com/track/126HWk9JuCt4PHZJAAsgOv) | [La Caution](https://open.spotify.com/artist/1MBqzcu6aiY7GzP5BfG56T) | [Peines de Maures / Arc\-en\-ciel pour daltoniens \(Instrumental Version\)](https://open.spotify.com/album/3cM2sVPdaob0zL1rbrMyG2) | 4:15 |
 | 38 | [Heads Will Roll \- A\-Trak Remix](https://open.spotify.com/track/2idmlkd8oUaQvYEtINpLBX) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Heads Will Roll](https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV) | 6:23 |
@@ -218,7 +218,7 @@ pretty - [cumulative](/playlists/cumulative/25wn6E4IiaAaTH6HBnGJ8y.md) - [plain]
 | 208 | [6 Days](https://open.spotify.com/track/5ilKR6ucV43TXQFLoLVpsb) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Colonel Bagshot](https://open.spotify.com/artist/1tmpv57VTq9XG346FRsgqW) | [ONE](https://open.spotify.com/album/6SR1pa617ollNQjRM2RyRp) | 4:20 |
 | 209 | [I Loved You](https://open.spotify.com/track/0uq88T5irdgDj8myFCcu7q) | [Dj Sava](https://open.spotify.com/artist/0rDSGIC4lIxx1zc0eGJY42), [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [I Loved You](https://open.spotify.com/album/6yxCi3OEM3xhKiXvVOEspO) | 3:41 |
 | 210 | [SKYBOX](https://open.spotify.com/track/7GwYENSg87oERcW0Wacd6m) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [SKYBOX](https://open.spotify.com/album/5v6VnHvsnu2GnmQmZElrP8) | 2:58 |
-| 211 | [Across The Room \(feat\. Leon Bridges\)](https://open.spotify.com/track/4YaNLEPw3MrIgkGOkBrAh2) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [A Moment Apart](https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ) | 4:43 |
+| 211 | [Across The Room](https://open.spotify.com/track/4YaNLEPw3MrIgkGOkBrAh2) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [A Moment Apart](https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ) | 4:43 |
 | 212 | [NO HALO](https://open.spotify.com/track/694vvR5o19xHPhhJ5QdLN7) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [GINGER](https://open.spotify.com/album/1jToVugwBEzcak8gJNZG2f) | 4:19 |
 | 213 | [Jessie's Girl](https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Working Class Dog](https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa) | 3:14 |
 | 214 | [Beverly Blues](https://open.spotify.com/track/2QVKA9L7gJSronH3Jmns8e) | [Opia](https://open.spotify.com/artist/70zHrrrPfBkVV44AEhFyyh) | [Beverly Blues](https://open.spotify.com/album/40Ad9vHww2P1xNc9Fjwm4y) | 3:01 |

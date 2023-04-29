@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 
 > Avant\-garde, experimental and free jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,139 likes - 94 songs - 11 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,162 likes - 94 songs - 11 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 | 75 | [From Before \- Remastered 2009/Rudy Van Gelder Edition](https://open.spotify.com/track/5RrbXcAuz20QkziDZAHS08) | [Anthony Williams](https://open.spotify.com/artist/0FO6iwNxAbcjc8IStwizj6) | [Spring \(Remastered\)](https://open.spotify.com/album/7IikPqlk47jXyUaXYJmM10) | 6:52 |
 | 76 | [Ra Comm 43](https://open.spotify.com/track/0jnNk2OwmJzUlMf05xYmCu) | [Jairus Sharif](https://open.spotify.com/artist/4YdyabAhjPkZEJ77ML7q4x) | [Water & Tools](https://open.spotify.com/album/45SgGNuaRkSXVbkgyqTB0K) | 4:52 |
 | 77 | [Round Trip](https://open.spotify.com/track/19nWocKXsR6KsD8PLbeNha) | [Ornette Coleman](https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P) | [New York Is Now](https://open.spotify.com/album/5YExsVX6QRDHsLJLLm4ogy) | 6:18 |
-| 78 | [Fractured Gatherings](https://open.spotify.com/track/06njugsiOINoCxXCr0fvCI) | [Jonah Rosenberg](https://open.spotify.com/artist/6ZhtuL1nt69JO0Q0OR9UN8) | [Jonah Rosenberg’s Fabulous Trio \- The Bulbous and The Budding](https://open.spotify.com/album/0On5P1MK3poldhDSaB2wBl) | 12:40 |
+| 78 | [Fractured Gatherings](https://open.spotify.com/track/5DApkx3lXuxlCMVZHCHRTS) | [Jonah Rosenberg](https://open.spotify.com/artist/6ZhtuL1nt69JO0Q0OR9UN8) | [Jonah Rosenberg’s Fabulous Trio \- The Bulbous and The Budding](https://open.spotify.com/album/65eWWXsoL2YmJT8J8fhYTY) | 12:40 |
 | 79 | [Knknighgh 3](https://open.spotify.com/track/34sjpLJnGPzcCV3QyMlaC2) | [Nate Wooley](https://open.spotify.com/artist/151kdGxCPmdZZqaYsd79F5), [Dre Hocevar](https://open.spotify.com/artist/0hC3NhaOJFQbfIMOcciGna), [Brandon Lopez](https://open.spotify.com/artist/6doW8xA7H2Utrsofmg2jNe), [Chris Pitsiokos](https://open.spotify.com/artist/5QHolFgux963cIORgueJxs) | [Knknighgh \(Minimal Poetry for Aram Saroyan\)](https://open.spotify.com/album/2XXg6AelSK0HtagamH1qJM) | 16:19 |
 | 80 | [Everything I Love](https://open.spotify.com/track/1eBwxDeN0OjfRGcFSE0YxY) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Life Between The Exit Signs](https://open.spotify.com/album/1PluOanzqH0rOxjiAJV5Oq) | 4:33 |
 | 81 | [Broken Cycles](https://open.spotify.com/track/0wnIDv8Za64PpMPK08z3Jk) | [Peter Evans](https://open.spotify.com/artist/3js0AfR1xKDKNWyCMi1FM3) | [Zebulon](https://open.spotify.com/album/1fnzZglampHKANe3S2MT4l) | 15:37 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 | 93 | [Breaking Point](https://open.spotify.com/track/08didpMJM0vsICBS3uu2Xd) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [The Essential Blue Note Collection](https://open.spotify.com/album/7dDZGuJMNFpIHa2J2jSdJT) | 10:19 |
 | 94 | [Conduction No.186 \- Live](https://open.spotify.com/track/6A5tDkKTk3BMW5WmMUn7BS) | [Nublu Orchestra](https://open.spotify.com/artist/3kir4KuUljdyYGWpQ3tPX9), [Butch Morris](https://open.spotify.com/artist/180iBifQGB9dLM5dSelaAK) | [Live in Lisbon](https://open.spotify.com/album/67pCebpACpdf8YhxGji4Kj) | 43:14 |
 
-Snapshot ID: `MCxjYzk0YTU0YjA1Yzk3YmJhMzdiMDUxYjY4MGRjNTQyNmJkNjhiOWRj`
+Snapshot ID: `MCwzOGY3MmNmZWY5NzJkZDUzNTVhMzNmMzllOWQyOWMyNWQ1ZmNjMjY1`

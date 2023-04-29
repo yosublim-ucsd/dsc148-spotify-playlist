@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 
 > Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,654 likes - 174 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,819 likes - 174 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 16 | [Welcome To Jamrock](https://open.spotify.com/track/0alTdGNJ19j0K34NzLAyaw) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 3:33 |
 | 17 | [Abandoned Mansion](https://open.spotify.com/track/5jx534PdMJacYZ2PZ5unAP) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Abandoned Mansion](https://open.spotify.com/album/298WNanMReraImGBQRGxio) | 5:22 |
 | 18 | [Destroy The Empire](https://open.spotify.com/track/6V5aJTWbHRs7clhcQ4em0f) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [The Return of…](https://open.spotify.com/album/0tZCmPAsUZYi71wZWg8suA) | 3:24 |
-| 19 | [No Cup No Broke](https://open.spotify.com/track/2NAd3OwwSyMwZ0hA3dEd50) | [African Brothers](https://open.spotify.com/artist/11k2m9qpCFizHgqiXn1549) | [Collector's Edition: Rare Reggae From Studio One](https://open.spotify.com/album/3FkTrxRbPBGXrf2y3VlFbc) | 2:22 |
+| 19 | [No Cup No Broke](https://open.spotify.com/track/6GxVxdukFe3VciIN5gT2yc) | [African Brothers](https://open.spotify.com/artist/11k2m9qpCFizHgqiXn1549) | [Collector's Edition: Rare Reggae From Studio One](https://open.spotify.com/album/74Nf0X7UlkT999DGNlae92) | 2:22 |
 | 20 | [More Mess on My Thing](https://open.spotify.com/track/3HgPOHHJWnMfv1Zw27Jh2V) | [The Poets Of Rhythm](https://open.spotify.com/artist/1i4iT0Sw4OUeMp7egnsbxR) | [Practice What You Preach](https://open.spotify.com/album/0ylXNmVsj1bZzJdZg7tOVF) | 4:12 |
 | 21 | [Sunday Morning](https://open.spotify.com/track/7rFu5IhLj50r2tNM2d2cat) | [Amanaz](https://open.spotify.com/artist/7dZiPXbSCTAgUpmpgNoLjt) | [Africa](https://open.spotify.com/album/1oX2uFCr3pIDL5M2ByEmm3) | 4:59 |
 | 22 | [You And Me](https://open.spotify.com/track/39FFlqltctkj6vkIcVgkec) | [Penny & The Quarters](https://open.spotify.com/artist/76sXjAhV0Hc3Pdb6bH3waC) | [Penny & the Quarters EP](https://open.spotify.com/album/6zmwrJVYFvWE4xOVFBP04V) | 2:40 |
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 101 | [Fun](https://open.spotify.com/track/4v7prkc928rArBPIwxGJKa) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Fragments](https://open.spotify.com/album/0sr9FWHQ3ckzVkFYk3NPrL) | 3:17 |
 | 102 | [Morning Song](https://open.spotify.com/track/01WQr2XhNnZMu4bjkgLN5s) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Today](https://open.spotify.com/album/5e6aNHa0O1MIO79GfIQDW3) | 3:24 |
 | 103 | [Wiya Waist](https://open.spotify.com/track/4lVHvQoC3VMvF0fVpj7c3k) | [the Garifuna Collective](https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm) | [Aban](https://open.spotify.com/album/2KlF5Rk0eZZbOIwLThaiU1) | 3:13 |
-| 104 | [Baby Why](https://open.spotify.com/track/7lTLHyXU0OvDf0Es0PffpS) | [The Cables](https://open.spotify.com/artist/7w8k2o1qnc2FXFq5o48ZJV) | [What Kind of World](https://open.spotify.com/album/76PUXnKLSKNPLih9haUnau) | 5:14 |
+| 104 | [Baby Why](https://open.spotify.com/track/0I6g8aa5qwDmK8g4gUS8LH) | [The Cables](https://open.spotify.com/artist/7w8k2o1qnc2FXFq5o48ZJV) | [What Kind of World](https://open.spotify.com/album/6oCEHWNjXieygQN2mYKL25) | 5:14 |
 | 105 | [Never in My Wildest Dreams](https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 2:56 |
 | 106 | [Not Another Drop](https://open.spotify.com/track/0lIZwOOHDL1eNr45rbrrKH) | [Ikebe Shakedown](https://open.spotify.com/artist/5ABBZoXY5r0UL1txACjinb) | [Kings Left Behind](https://open.spotify.com/album/3xtjT9ABeqldfL6SysRIoI) | 3:56 |
 | 107 | [Crashed My Bike](https://open.spotify.com/track/0DX6TehELIsI9N3wKAM0fV) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Crashed My Bike](https://open.spotify.com/album/2pRVYKpvfRzCCGCEImrvTr) | 3:03 |
@@ -161,7 +161,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 151 | [Something That You're Missing](https://open.spotify.com/track/2uYozG9El78dWTKLReHMI2) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Sol Del Sur](https://open.spotify.com/album/5Lw6V8cz834Wa097FaphAn) | 2:50 |
 | 152 | [I Have Got No Money](https://open.spotify.com/track/7pcNgV4TOctgEErMh0ozNq) | [Peace](https://open.spotify.com/artist/5004yOPsD3IERvvTtaRM9h) | [Black Power](https://open.spotify.com/album/5apqfs9GaJvTa0MGXFbtWU) | 4:05 |
 | 153 | [Boys in the Better Land](https://open.spotify.com/track/0iJX82OGewFWpyRtB8zzo4) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dogrel](https://open.spotify.com/album/7wMhg0YqDuqylEVnLQQ02R) | 5:00 |
-| 154 | [Lake Song](https://open.spotify.com/track/3jlyPvK2T1UYigUIaR3u7K) | [Deeper](https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S) | [Auto\-Pain](https://open.spotify.com/album/7sM244G1DwSq9Cqvv59xxz) | 3:25 |
+| 154 | [Lake Song](https://open.spotify.com/track/3DcgW2YEdjr5tTwd0mTJtr) | [Deeper](https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S) | [Auto\-Pain](https://open.spotify.com/album/0ysuZ27s6yTQDmREAaAp1I) | 3:25 |
 | 155 | [Ideruni \(Help\)](https://open.spotify.com/track/5rhJHP0DlXVvocptvKWk0V) | [the Garifuna Collective](https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm) | [Aban](https://open.spotify.com/album/2KlF5Rk0eZZbOIwLThaiU1) | 3:42 |
 | 156 | [Legalize](https://open.spotify.com/track/1dk9a1TgBZ6TDPKKdUFZg1) | [Black River Assembly](https://open.spotify.com/artist/3tHuD8jeAX2vlwluLKWxlg) | [Marsh Land EP](https://open.spotify.com/album/3sHRFNWrczJOdTiwVk26Qx) | 2:30 |
 | 157 | [Aftermath](https://open.spotify.com/track/5L7IV2oz935HS8kekbIneh) | [David Wingo](https://open.spotify.com/artist/7mRf8eSpaoh4FD8D4mtvRk) | [Mud \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/713MVG5cxRcOHLPsqVKRCD) | 2:17 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 173 | [Never Gonna Let You Go](https://open.spotify.com/track/5LDysQO7wtl5rTdgCggcfj) | [Michael Miglio](https://open.spotify.com/artist/0aWCcfZbLCP2iqA8YHtlJF) | [Never Gonna Let You Go b/w Everytime It Rains](https://open.spotify.com/album/3YZTPPJrD1pj8tg43O6n1a) | 2:31 |
 | 174 | [The Raft](https://open.spotify.com/track/34WtaNeWz7O2W9ivsCGAt1) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Dr\. Boondigga & The Big BW](https://open.spotify.com/album/5ynDiqo0C63GVjc9q1ijAO) | 7:11 |
 
-Snapshot ID: `MCxlY2UyODVlZDJlZjNjOTQ1YWQ1OTk2MmY5NmQ2ZTUwYmYwMTM3MDRj`
+Snapshot ID: `MCxlYWZlYTVjMmYzMmZmYjM5MWI4NWY1MjMwYTY4NTRmYjBlYzM4NTFl`

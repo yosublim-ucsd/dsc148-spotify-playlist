@@ -4,7 +4,7 @@
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-115 songs - 7 hr 57 min
+116 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Give It Up](https://open.spotify.com/track/1fob4CISofwxucGAjaXI14) | [King's X](https://open.spotify.com/artist/3tn79LMMIdIT1T0TXumjaH) | [Give It Up](https://open.spotify.com/album/2JfYe3kVt5Q9euIFJOvAUx) | 2:59 | 2022-07-29 |  |
 | [Good Grief](https://open.spotify.com/track/4uNr9f4s35mXouHntXwVl6) | [Urban Dance Squad](https://open.spotify.com/artist/0Vo614yFlepUdpdbkggrmC) | [The Singles Collection](https://open.spotify.com/album/6MIl1ERfeaobCbKVAG7y3i) | 4:24 | 2020-01-08 |  |
 | [Got It Goin' On](https://open.spotify.com/track/0bsHXFE0GGn2HonbA8G0yf) | [24\-7 Spyz](https://open.spotify.com/artist/5EvYDcSvmVxZuMe4faStNq) | [Strength In Numbers](https://open.spotify.com/album/4cIsAEkxSuMadGd9B3KbXX) | 4:57 | 2020-01-08 |  |
+| [High Steppa](https://open.spotify.com/track/7xTg3npAWRMFYToVZGhDFv) | [The Dogon Lights](https://open.spotify.com/artist/3G29JVikNQJAJjzfFUMCIM), [Vir McCoy](https://open.spotify.com/artist/4lQbdxWVeDoHJIiyL05i44), [Evan Fraser](https://open.spotify.com/artist/43KGNBtCYujVFg0pbqJiaA), [Ashel Seazuns](https://open.spotify.com/artist/4BQDwzeKdjVjJ6Zw06hMUQ) | [High Steppa](https://open.spotify.com/album/3veA7ihN3jrojlJrs2DZCZ) | 3:26 | 2023-04-28 |  |
 | [Holy Roller](https://open.spotify.com/track/3P4TrKsWjKeFakkZXu1Yt2) | [Mother Love Bone](https://open.spotify.com/artist/3XR64HmFo4OvexUUNW7TP0) | [Mother Love Bone](https://open.spotify.com/album/5ohJawP6UajQ6ZIjWxnvM6) | 4:28 | 2020-01-08 |  |
 | [Honey, Forgive Me](https://open.spotify.com/track/338qTQyYiQXFGNqVKATTmo) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Black Magic](https://open.spotify.com/album/08ZyzICPRguPlORDzrCze2) | 2:22 | 2022-02-04 |  |
 | [I Know Somethin \(Bout You\)](https://open.spotify.com/track/358XBWJ3pa71P4U89v393N) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Facelift](https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj) | 4:22 | 2020-01-08 |  |
@@ -106,7 +107,7 @@
 | [The Shape I'm Takin'](https://open.spotify.com/track/4UEMZFRrxVUkuMVaHhWoKQ) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [The Shape I'm Takin'](https://open.spotify.com/album/7D2jhStmJWw2u8DhMWnORp) | 3:35 | 2022-11-25 |  |
 | [They Say I'm Different](https://open.spotify.com/track/7yQpHgbDPweCZhTD5ZtXES) | [Betty Davis](https://open.spotify.com/artist/5Ryxgm3uLvQOsw4H5ZpHDn) | [They Say I'm Different](https://open.spotify.com/album/6cnH06Wxjb2QqUHFa8PEwc) | 4:15 | 2020-01-08 |  |
 | [Thumb](https://open.spotify.com/track/7pt7AcxYHyVLOpthh9IxHZ) | [TM Stevens](https://open.spotify.com/artist/1JQSaRDeBgD9qxqotg6n6y) | [Shocka Zooloo](https://open.spotify.com/album/4Ykpxtr1YHvEIPQwJDXNyu) | 4:20 | 2020-01-08 |  |
-| [Tippa My Tongue](https://open.spotify.com/track/3s53zBEi1ZU6dJj19eFOxW) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Tippa My Tongue](https://open.spotify.com/album/58As6ZmLLmhtkF8l5voV9p) | 4:20 | 2022-08-19 |  |
+| [Tippa My Tongue](https://open.spotify.com/track/3s53zBEi1ZU6dJj19eFOxW) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Tippa My Tongue](https://open.spotify.com/album/58As6ZmLLmhtkF8l5voV9p) | 4:20 | 2022-08-19 | 2023-04-29 |
 | [Tobacco Road](https://open.spotify.com/track/5qE0ehKYj0Mp0XH5BsOKqZ) | [Eric Burdon](https://open.spotify.com/artist/3miNucraVWk4hdVsIxn7id), [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [The Hits & More](https://open.spotify.com/album/4sDlPp3lFxvY3HgKQTOBMG) | 3:57 | 2020-01-08 | 2022-07-29 |
 | [Tobacco Road](https://open.spotify.com/track/4qEOCUBvjk1za4pDYWFsab) | [Eric Burdon](https://open.spotify.com/artist/3miNucraVWk4hdVsIxn7id), [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [The Best of Eric Burdon & War](https://open.spotify.com/album/0Pm5PksODNsUnZjy9ia4Nc) | 3:57 | 2022-02-04 |  |
 | [Tommy The Cat](https://open.spotify.com/track/1efp2bPw7ssJpCi0Almgsx) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [They Can't All Be Zingers](https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT) | 4:14 | 2020-01-08 |  |

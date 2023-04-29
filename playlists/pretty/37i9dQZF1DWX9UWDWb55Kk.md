@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Escucha la música de las seis temporadas de Élite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,099 likes - 354 songs - 22 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,154 likes - 354 songs - 22 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 105 | [Bailar](https://open.spotify.com/track/29WDzFwyuYZC2pOPCygqoS) | [Finesse](https://open.spotify.com/artist/0AUUGd16M55jGRXZNbsfj9), [BNMP](https://open.spotify.com/artist/6lQ1BWAXAl2sBmtFvsfuy7), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3), [Ellegas](https://open.spotify.com/artist/4xD2oueqRvCDui9NWjdPQu) | [El Dorado](https://open.spotify.com/album/0eLoADTd1HpL3Fm9wYUzOw) | 3:48 |
 | 106 | [5AM Empanada with You](https://open.spotify.com/track/0UQF9Z1szgyxbMjfJGqdKb) | [Bubble Tea and Cigarettes](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [5AM Empanada with You](https://open.spotify.com/album/3i52R3QnIBb4knh1CZf3n6) | 5:41 |
 | 107 | [C'était un loup](https://open.spotify.com/track/75vjzLRf20xOD3UsEsE9GK) | [Palatine](https://open.spotify.com/artist/4eJdfmQbRaPDjYJ1JNgXTp) | [Grand Paon de Nuit](https://open.spotify.com/album/65Tk6BUEhq8rLyCFUUtWZy) | 3:40 |
-| 108 | [You Are the One](https://open.spotify.com/track/4Gbz85VVwnbNbrnwkuTMPJ) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Amador](https://open.spotify.com/album/4KLLfHTlpdPMbZEyeVwnD8) | 3:36 |
+| 108 | [You Are the One](https://open.spotify.com/track/4ZWmHquNez0tTqRKCAu7TQ) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Amador](https://open.spotify.com/album/27scONugjs898tPlDCKo3p) | 3:36 |
 | 109 | [Inmortal](https://open.spotify.com/track/71ZPU4m7TYxlPoqjqIld8T) | [Choley](https://open.spotify.com/artist/498vJ548Oigp5VEGisWq1q) | [Inmortal](https://open.spotify.com/album/6I3OAl6Sp1f6gz5rVSOXBn) | 3:56 |
 | 110 | [Get Up](https://open.spotify.com/track/12bx4pzcP6tIBnUOP990Ev) | [Custom Model](https://open.spotify.com/artist/6TtCqu3TdJqxo7iDALD0FM) | [Get Up](https://open.spotify.com/album/4M8gjMOyh0OqzEdWzigIyc) | 3:34 |
 | 111 | [Jackie Junior \(Junior Boys Remix\)](https://open.spotify.com/track/34BX9Kif91ZnODTmRrtfHE) | [Sally Shapiro](https://open.spotify.com/artist/0Guuvi7P0R6ZuX2DeL1m9M), [Junior Boys](https://open.spotify.com/artist/39x9e2QDpAxK8xTuJDwRqR) | [Remix Romance, Vol\. 1 & 2 \(Expanded Edition\)](https://open.spotify.com/album/7MoyJJnwA6EzDmzbpXXCNj) | 5:05 |
@@ -354,7 +354,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 344 | [Dido and Aeneas, Z\. 626: Act III: 1st Sailor and Chorus: Come away, fellow sailors](https://open.spotify.com/track/0v81snM3IW91SE8IOQnBYv) | [Henry Purcell](https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq), [Kym Amps](https://open.spotify.com/artist/56oDszbm45yCU64AkDCjST), [David van Asch](https://open.spotify.com/artist/1pkHduzgfdb8ahbhAFZQl3), [Anna Crookes](https://open.spotify.com/artist/3rHaFUOEX0zmjTCpz2ldCj), [The Scholars Baroque Ensemble](https://open.spotify.com/artist/79zqMJ0Tc0wATqK0eszdsJ) | [Purcell: Dido and Aeneas](https://open.spotify.com/album/7jVOb1LO22X5POgSSWZ69K) | 1:32 |
 | 345 | [I Want To Die By Your Side](https://open.spotify.com/track/5lSefILPPXL9WbOqXKQuNN) | [The Magic Theatre](https://open.spotify.com/artist/4dsqiX7DwmvBXNh1DrYKtZ) | [I Want To Die By Your Side](https://open.spotify.com/album/6880NTfHXJUImJjcB0519U) | 4:15 |
 | 346 | [Fresh](https://open.spotify.com/track/3yVBidLF7bN2ZUeRAX7nMj) | [neumodel](https://open.spotify.com/artist/4wiTMr3PA4rslJzqx4QO5f), [Tessa B](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [Mechanical \- EP](https://open.spotify.com/album/1eP0frM1FVcB2KDZdAKoHh) | 3:23 |
-| 347 | [You Are the One](https://open.spotify.com/track/4Gbz85VVwnbNbrnwkuTMPJ) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Amador](https://open.spotify.com/album/4KLLfHTlpdPMbZEyeVwnD8) | 3:36 |
+| 347 | [You Are the One](https://open.spotify.com/track/4ZWmHquNez0tTqRKCAu7TQ) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Amador](https://open.spotify.com/album/27scONugjs898tPlDCKo3p) | 3:36 |
 | 348 | [1987 \- Original mix](https://open.spotify.com/track/2w74y6Iy98dFo2buhXu4fU) | [Ticon](https://open.spotify.com/artist/1UjhKEWO8s7Vvidh2LzwZ1) | [Iboga Revival Vol.01](https://open.spotify.com/album/24Sc7Xy1Gpauxjp8f3rfV1) | 8:27 |
 | 349 | [I Hid In Him](https://open.spotify.com/track/5pWOK5bEv5TDkBpPv9cEHu) | [vōx](https://open.spotify.com/artist/4epdWRtuY7tFHyV7mIW7pE) | [I Hid In Him](https://open.spotify.com/album/39A0a8LBVTiM4k85PRkCox) | 3:05 |
 | 350 | [Best Life](https://open.spotify.com/track/1np1otMZ9768P4xFzOKytG) | [KOYOTIE](https://open.spotify.com/artist/1MBXMFPj3IwgmUkHJATWm8) | [Best Life](https://open.spotify.com/album/63HDcZ5lNZttuD9Pp7MHA5) | 2:59 |
@@ -363,4 +363,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 353 | [Out Of Touch](https://open.spotify.com/track/3DgjbN7e2gppallutVbat6) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [A Small Group Of Individuals](https://open.spotify.com/album/5QQRlQ7JnXy6c7HNDWVibk) | 4:01 |
 | 354 | [Witch Hunt](https://open.spotify.com/track/5nTCnGR4NtI3yyOp66NuOI) | [HXXS](https://open.spotify.com/artist/4zBSDjtYyrLC99ot3LV8hF) | [MKDRONE](https://open.spotify.com/album/2NtylLjjafbzfoAOPOMsO1) | 3:57 |
 
-Snapshot ID: `MCxiYWZhYzhmMzMxYWJkZWEwNWQyOWRlOTVkZWEwMDhkZGY1ODI0ODk4`
+Snapshot ID: `MCxlMzQ2M2ExOTZlNDBkN2YzOGY1OTIxN2Q0NjJmYTc4ZmE5MGFhODIy`

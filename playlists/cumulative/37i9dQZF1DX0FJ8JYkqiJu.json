@@ -439,6 +439,24 @@
     },
     {
       "album": {
+        "name": "Cycles",
+        "url": "https://open.spotify.com/album/4QcAUh6pdYblA72Kqd1L26"
+      },
+      "artists": [
+        {
+          "name": "Late June",
+          "url": "https://open.spotify.com/artist/5zMJZTfga0uJURmLLymnoh"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216774,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/3elkKVNxiqudFAogVJi8Aw"
+    },
+    {
+      "album": {
         "name": "There is no Neil Frances",
         "url": "https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M"
       },
@@ -942,7 +960,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 242711,
       "name": "hollatchu",
       "url": "https://open.spotify.com/track/4uYOA92uCIEShlFD7YoHiU"
@@ -1198,7 +1216,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 221606,
       "name": "Lies",
       "url": "https://open.spotify.com/track/7vYSljwfq9zqQzLaHU7Jot"
@@ -1223,7 +1241,7 @@
     },
     {
       "album": {
-        "name": "Light Of Day (feat. \u00d3lafur Arnalds)",
+        "name": "Light Of Day",
         "url": "https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu"
       },
       "artists": [
@@ -1240,7 +1258,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 400130,
-      "name": "Light Of Day (feat. \u00d3lafur Arnalds)",
+      "name": "Light Of Day",
       "url": "https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo"
     },
     {
@@ -1486,7 +1504,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 207280,
       "name": "No Need 2 Be Sorry, Call Me? (ft. Maverick Sabre)",
       "url": "https://open.spotify.com/track/1DpjVHeNTz2UIXkAd4CBF8"
@@ -1855,6 +1873,28 @@
     },
     {
       "album": {
+        "name": "Shapes",
+        "url": "https://open.spotify.com/album/1YLn7DOkqIlDBbszOhPgA3"
+      },
+      "artists": [
+        {
+          "name": "Floating Anarchy",
+          "url": "https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d"
+        },
+        {
+          "name": "Kairoh",
+          "url": "https://open.spotify.com/artist/1Frlf4JDGlf6OrwQvSR7I2"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140963,
+      "name": "Shapes",
+      "url": "https://open.spotify.com/track/21MsNjTGZ0b2tbVa0m7nNi"
+    },
+    {
+      "album": {
         "name": "Soldiner",
         "url": "https://open.spotify.com/album/6WO1C0s3KUsMVT4ne3hcZu"
       },
@@ -1997,6 +2037,24 @@
     },
     {
       "album": {
+        "name": "Three Drums",
+        "url": "https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 495858,
+      "name": "Three Drums",
+      "url": "https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN"
+    },
+    {
+      "album": {
         "name": "Tidal Waves",
         "url": "https://open.spotify.com/album/5JUNGkyetUR1RC0svtR772"
       },
@@ -2059,7 +2117,7 @@
     },
     {
       "album": {
-        "name": "To Be Yours (feat. Claud)",
+        "name": "To Be Yours",
         "url": "https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf"
       },
       "artists": [
@@ -2076,7 +2134,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 211782,
-      "name": "To Be Yours (feat. Claud)",
+      "name": "To Be Yours",
       "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
     },
     {

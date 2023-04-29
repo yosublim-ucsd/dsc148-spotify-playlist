@@ -180,7 +180,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 205840,
       "name": "Amiga",
       "url": "https://open.spotify.com/track/5fB1anQrnZBMnSjilCnAZ8"
@@ -326,6 +326,24 @@
       "duration_ms": 190961,
       "name": "Aventurero",
       "url": "https://open.spotify.com/track/0ftcn4ddKESqQMA784Ebc0"
+    },
+    {
+      "album": {
+        "name": "Bebiendo Me Entretengo",
+        "url": "https://open.spotify.com/album/2OmnOo0O8JNaklxLeCc1Qc"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Colorado",
+          "url": "https://open.spotify.com/artist/4X5JWaBP73DBk4nxNFV1uQ"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167333,
+      "name": "Bebiendo Me Entretengo",
+      "url": "https://open.spotify.com/track/2mPvmRtUoUIFS2JCERwUz0"
     },
     {
       "album": {
@@ -511,6 +529,24 @@
     },
     {
       "album": {
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142656,
+      "name": "Consejos Gratis",
+      "url": "https://open.spotify.com/track/2xTLTU2K901snq53FLWZKE"
+    },
+    {
+      "album": {
         "name": "Maldita Traicion",
         "url": "https://open.spotify.com/album/5xYcQs87dQWn1hNYn0dc7h"
       },
@@ -642,7 +678,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 151968,
       "name": "Desarmada - Spotify Singles",
       "url": "https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG"
@@ -751,6 +787,24 @@
     },
     {
       "album": {
+        "name": "Direcci\u00f3n Equivocada",
+        "url": "https://open.spotify.com/album/6xdmbSBueb704E5lGXGqfL"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189093,
+      "name": "Direcci\u00f3n Equivocada",
+      "url": "https://open.spotify.com/track/4rS0DRx5wKCNmdLsyFb9Pk"
+    },
+    {
+      "album": {
         "name": "Distancia 83",
         "url": "https://open.spotify.com/album/3hxmMGEW4KzM4HBCsn0xUE"
       },
@@ -762,7 +816,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 181001,
       "name": "Distancia 83",
       "url": "https://open.spotify.com/track/74wblrz6ymCY45Ftco0qqK"
@@ -1230,6 +1284,28 @@
       "duration_ms": 141756,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/2eBECLFWzlAHqJtEJhm5Ya"
+    },
+    {
+      "album": {
+        "name": "La Interesada",
+        "url": "https://open.spotify.com/album/0e6DoOVWobtACCRavXpCkF"
+      },
+      "artists": [
+        {
+          "name": "Pasabordo",
+          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
+        },
+        {
+          "name": "Lucas Arnau",
+          "url": "https://open.spotify.com/artist/5vLOlJcOKe9DfBC5LeLpSs"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158116,
+      "name": "La Interesada",
+      "url": "https://open.spotify.com/track/2yJqNAtTReCz7JAs5eCRXu"
     },
     {
       "album": {
@@ -1734,7 +1810,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 167449,
       "name": "No Copio de Nada",
       "url": "https://open.spotify.com/track/7GUU8AOCa3lTVSNlLlsVW0"

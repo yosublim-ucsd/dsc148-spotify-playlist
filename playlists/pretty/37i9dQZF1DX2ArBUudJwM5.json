@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Saramalacara.\nDales play, dales power.",
-  "num_followers": 29492,
+  "num_followers": 29496,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjQyMGRkZWY4OWJlNzNiODg2MmU2NDA4YmNmMTBkMjcxMGM1ZTJj",
+  "snapshot_id": "MCxjYzAwMmYzYmU3ZTIzMWViYTFlNmIzMWRjYjU2Nzg5NmIyMzg4NDA1",
   "tracks": [
     {
       "added_at": "2023-04-05 03:00:00",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
-        "name": "pensando en ti",
-        "url": "https://open.spotify.com/album/6bLJ9EbgSDl3rksxqhQfg9"
-      },
-      "artists": [
-        {
-          "name": "Lara91k",
-          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
-        }
-      ],
-      "duration_ms": 197508,
-      "name": "pensando en ti",
-      "url": "https://open.spotify.com/track/3G6Mo5GUWdzPZdsmdU4juo"
-    },
-    {
-      "added_at": "2023-04-05 03:00:00",
-      "album": {
         "name": "Guarra",
         "url": "https://open.spotify.com/album/2WauUfgrULSkNdWaS9pIDV"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 74762,
       "name": "Guarra",
       "url": "https://open.spotify.com/track/0suYildavolzFBL51vwnkU"
+    },
+    {
+      "added_at": "2023-04-05 03:00:00",
+      "album": {
+        "name": "pensando en ti",
+        "url": "https://open.spotify.com/album/6bLJ9EbgSDl3rksxqhQfg9"
+      },
+      "artists": [
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        }
+      ],
+      "duration_ms": 197508,
+      "name": "pensando en ti",
+      "url": "https://open.spotify.com/track/3G6Mo5GUWdzPZdsmdU4juo"
     },
     {
       "added_at": "2023-04-05 03:00:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
+        "name": "Paranormal",
+        "url": "https://open.spotify.com/album/2O23fQIEXMr2vD1DpYnqDA"
+      },
+      "artists": [
+        {
+          "name": "MU\u00d1EKI77A",
+          "url": "https://open.spotify.com/artist/4vPj1iAE8l3VAQNenIOGt8"
+        }
+      ],
+      "duration_ms": 157088,
+      "name": "Paranormal",
+      "url": "https://open.spotify.com/track/2DBkKyH9T63bvfNRmXlPRZ"
+    },
+    {
+      "added_at": "2023-04-05 03:00:00",
+      "album": {
         "name": "M\u00e1gica Intuici\u00f3n",
         "url": "https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 190393,
       "name": "M\u00e1gica Intuici\u00f3n",
       "url": "https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8"
-    },
-    {
-      "added_at": "2023-04-05 03:00:00",
-      "album": {
-        "name": "Paranormal",
-        "url": "https://open.spotify.com/album/2O23fQIEXMr2vD1DpYnqDA"
-      },
-      "artists": [
-        {
-          "name": "MU\u00d1EKI77A",
-          "url": "https://open.spotify.com/artist/4vPj1iAE8l3VAQNenIOGt8"
-        }
-      ],
-      "duration_ms": 157088,
-      "name": "Paranormal",
-      "url": "https://open.spotify.com/track/2DBkKyH9T63bvfNRmXlPRZ"
     },
     {
       "added_at": "2023-04-05 03:00:00",

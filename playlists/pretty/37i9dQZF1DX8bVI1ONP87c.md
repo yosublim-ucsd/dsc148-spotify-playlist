@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8bVI1ONP87c.md) - [plain]
 
 > All the best of Elevation Worship, in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,716 likes - 65 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,921 likes - 65 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8bVI1ONP87c.md) - [plain]
 | 64 | [Glory is Yours](https://open.spotify.com/track/6JQi0IUQ4tWHVFSmHxMpMO) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Only King Forever](https://open.spotify.com/album/6ojPMWx8YMfdd2idb8rM9h) | 4:16 |
 | 65 | [Be Lifted High \- Live](https://open.spotify.com/track/2ilqQ7D484m3p582yys0sq) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Nothing Is Wasted](https://open.spotify.com/album/50vKZm0cwX5ZWF37apQCSO) | 5:17 |
 
-Snapshot ID: `MCw2ODRhYTY3MDI2YmIwZGQ1ZTdkNzdjMTFiMGMyMzBjNWYxNDM3OGJl`
+Snapshot ID: `MCxkNGM1MGVkYmVlZWUzNjM3MWU4OGE4OTdjM2I1NzkwNGMwOTVjNzc3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Kim Petras & Nicki Minaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,327 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,352 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 96 | [Perfume](https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD) | [NCT DOJAEJUNG](https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw) | [Perfume \- The 1st Mini Album](https://open.spotify.com/album/3sVBVr420an61GAwib9AYk) | 2:47 |
 | 97 | [Girl in the Mirror](https://open.spotify.com/track/6QXHw9vBEbzQU7GuZSWMLh) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Girl in the Mirror](https://open.spotify.com/album/7hlebW7mJimUe2JOfq3NrA) | 3:10 |
 | 98 | [メロウ](https://open.spotify.com/track/6cGU6sOzRem6E8S7tCme1n) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [メロウ](https://open.spotify.com/album/0jkxbnOM0JnTw4c3Uegf6e) | 4:09 |
-| 99 | [BIJIN \(Remix\) \[feat\. Awich\]](https://open.spotify.com/track/5SM8QpMEOij9cNxKsSP00T) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [BIJIN \(Remix\) \[feat\. Awich\]](https://open.spotify.com/album/7bGgGsoAvQVXeKeZBJGro3) | 2:39 |
+| 99 | [BIJIN \(Remix\) \[feat\. Awich\]](https://open.spotify.com/track/1rfUCbfXaJexlYGjL3HZaa) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Naked](https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd) | 2:39 |
 | 100 | [あなたと](https://open.spotify.com/track/7v45tfLZKsWZyOV0zB89Ff) | [20th Century](https://open.spotify.com/artist/3LJ6xDae4k9J6ephrhB1xD) | [あなたと](https://open.spotify.com/album/0vvUKwF025POLCnITKKYuo) | 5:08 |
 
-Snapshot ID: `MCxkZjQ1MmE1ZDJjOTMyMTBlOWNmMTRiZWEzYjUyZmVlZGJlNGNkYzU5`
+Snapshot ID: `MCw0N2E1NTE3MzQ5YmI5NDRmZjY4MDljNWU4YjYzYWY1ZmUwNGI2ZTIz`

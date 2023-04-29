@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-932 songs - 2 day 8 hr 59 min
+933 songs - 2 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Alguien Me Dijo](https://open.spotify.com/track/48CjbkCVCHQGqZQaLoKe59) | [Lalo Aguilar](https://open.spotify.com/artist/40PQkQuxGIVuTQztXIXNOD), [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [Alguien Me Dijo](https://open.spotify.com/album/0E6Onz6gASgSOX1In0B8Wd) | 3:08 | 2022-03-28 | 2022-04-18 |
 | [Alpargatas Negras](https://open.spotify.com/track/3JFMqpqCJDLZx91khicJks) | [Julieta Curotto](https://open.spotify.com/artist/1vBR13anfFA4J67nMOWNGb) | [Alpargatas Negras](https://open.spotify.com/album/12uI8Cy3PfBp6WEps1f1t6) | 3:00 | 2022-04-08 | 2022-04-19 |
 | [Always On My Mind](https://open.spotify.com/track/3VeCrupHghYMiLQNhsIeCn) | [Taylor Manns](https://open.spotify.com/artist/008yUYD9avjHlXXmT47dz9) | [Always On My Mind](https://open.spotify.com/album/6fEji3YIRWFLPtBM8UCULk) | 3:13 | 2022-03-28 | 2022-04-12 |
+| [Amanece](https://open.spotify.com/track/7s41MjYTO8bOQblhtYj3RP) | [Mar Marzo](https://open.spotify.com/artist/4WnBdEl64Zs4DiEBAaAFlc) | [Amanece](https://open.spotify.com/album/0PUiFHhRgYG6mUYVzyQ5bv) | 3:08 | 2023-04-28 |  |
 | [Amanece En La Ruta](https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:14 | 2021-12-24 | 2022-07-29 |
 | [Amaneciendo](https://open.spotify.com/track/61mW9bAYqLhksOQvQ2mGJ8) | [Javi B](https://open.spotify.com/artist/66zyXLjB2O4DiQYQbXIzjd) | [Amaneciendo](https://open.spotify.com/album/0kCvSCUM0Em2bafiFWsCcv) | 3:31 | 2022-03-24 | 2022-04-12 |
 | [Amante Moderno](https://open.spotify.com/track/4V9YtKCwkZTK7B5pKRC7il) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Amante Moderno](https://open.spotify.com/album/0pAV7SeQ2Y6zhKO3D5CyBD) | 2:55 | 2022-03-24 | 2022-04-18 |
@@ -930,7 +931,7 @@
 | [Ya Lo Sabés](https://open.spotify.com/track/5mMFnSDg8Jz0BDToHPahlg) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Es Así](https://open.spotify.com/album/2UE88brWNLJTYpJpnxTN16) | 3:28 | 2022-01-07 | 2022-07-28 |
 | [Ya Me Hiciste Mal \- Remix](https://open.spotify.com/track/3VUOdXoxnuOPiDm80AsuZR) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Ya Me Hiciste Mal \(Remix\)](https://open.spotify.com/album/4z11zYLcNsJZip4UeN9amB) | 3:19 | 2022-03-24 | 2022-05-19 |
 | [Ya No Me Siento Solo](https://open.spotify.com/track/7rv7xwuYCQz6LOvmrIJWJW) | [Son De Ahi](https://open.spotify.com/artist/4cNcu87QWS5dHHaRHMXTgE) | [Ya No Me Siento Solo](https://open.spotify.com/album/3wfj6UdOyZjz8c6ZIhv2tR) | 3:24 | 2022-04-01 | 2022-04-19 |
-| [Yo No Te Pido la Luna](https://open.spotify.com/track/20ltlI3KqpAnJJgo4mr32Q) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Yo No Te Pido la Luna](https://open.spotify.com/album/64RDIlFxajlL9xg1XuXCTW) | 2:51 | 2022-09-23 |  |
+| [Yo No Te Pido la Luna](https://open.spotify.com/track/20ltlI3KqpAnJJgo4mr32Q) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Yo No Te Pido la Luna](https://open.spotify.com/album/64RDIlFxajlL9xg1XuXCTW) | 2:51 | 2022-09-23 | 2023-04-29 |
 | [Yo Quiero Ver Un Tren \- Live](https://open.spotify.com/track/5r6xyRtNLEXZ5L9cWpzryO) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Obras Cumbres](https://open.spotify.com/album/2jRV6FSPqiJaNSwgVBD4G4) | 4:59 | 2022-03-24 | 2022-04-11 |
 | [Yo Te Diré](https://open.spotify.com/track/2K6QTldAHBRFk3c6BHWYr5) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Yo Te Diré](https://open.spotify.com/album/3SkgP7RqJZs5PdQQPcDK7J) | 3:27 | 2023-01-20 |  |
 | [Yo Vengo a Ofrecer Mi Corazón](https://open.spotify.com/track/3RiO4NBbz19Syk0VRCSswm) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7), [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV), [Facundo Guevara](https://open.spotify.com/artist/6964LUCtdUXz5FyLEeTgK4) | [Yo Vengo a Ofrecer Mi Corazón](https://open.spotify.com/album/5HmPgOERsgqZ66AHx26vJD) | 3:42 | 2022-03-28 | 2022-04-14 |

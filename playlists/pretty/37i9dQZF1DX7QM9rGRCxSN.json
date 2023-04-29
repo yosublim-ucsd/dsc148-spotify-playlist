@@ -1,63 +1,15 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Con te vi en un planetario, en portada.",
-  "num_followers": 22986,
+  "num_followers": 23020,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMWI5NGFkNjk5OTIzZTI5YWMxM2ZhYTA0YmE5MWI1NTg2MjhhOTNh",
+  "snapshot_id": "MCw1Y2Q0YzhlNTA4MzU0YTJjNjliZTAwNmQ4MjcwZjI0YThiMjI5ZjI3",
   "tracks": [
     {
-      "added_at": "2023-03-24 06:00:00",
-      "album": {
-        "name": "reina de primavera",
-        "url": "https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y"
-      },
-      "artists": [
-        {
-          "name": "te vi en un planetario",
-          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
-        }
-      ],
-      "duration_ms": 245840,
-      "name": "reina de primavera",
-      "url": "https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6"
-    },
-    {
-      "added_at": "2023-03-17 17:31:33",
-      "album": {
-        "name": "Animita",
-        "url": "https://open.spotify.com/album/2gz1tfqRhfFjD4noTtqKUs"
-      },
-      "artists": [
-        {
-          "name": "Adelaida",
-          "url": "https://open.spotify.com/artist/5ugKDsPNjtGyV7WxD7nTYS"
-        }
-      ],
-      "duration_ms": 265606,
-      "name": "Efervecencia",
-      "url": "https://open.spotify.com/track/2YYyNYvGBlobj2UjpWGcNo"
-    },
-    {
-      "added_at": "2023-01-30 21:05:27",
-      "album": {
-        "name": "El Primero",
-        "url": "https://open.spotify.com/album/1SXArpME4RyxxFkwgXQM8H"
-      },
-      "artists": [
-        {
-          "name": "Apartamentos Acapulco",
-          "url": "https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT"
-        }
-      ],
-      "duration_ms": 191573,
-      "name": "El Primero",
-      "url": "https://open.spotify.com/track/4cIDUCqPKBoFmpYhb3iKU9"
-    },
-    {
-      "added_at": "2021-10-19 01:46:50",
+      "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "Dynamo (Remastered)",
         "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
@@ -73,7 +25,7 @@
       "url": "https://open.spotify.com/track/0MHENKo7srNABaALyzrYlX"
     },
     {
-      "added_at": "2022-04-01 06:18:29",
+      "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "Vuelta en U",
         "url": "https://open.spotify.com/album/2XQUbze1bkSR86N8XbAOEy"
@@ -93,7 +45,7 @@
       "url": "https://open.spotify.com/track/2uSQpyjWJpSaoxjc27VAZ3"
     },
     {
-      "added_at": "2021-10-19 01:46:50",
+      "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "tdbn",
         "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
@@ -109,23 +61,7 @@
       "url": "https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1"
     },
     {
-      "added_at": "2023-03-13 17:27:23",
-      "album": {
-        "name": "Traicion / Cruz de Navajas",
-        "url": "https://open.spotify.com/album/6X0R8jBws2cprXv3lIIgvr"
-      },
-      "artists": [
-        {
-          "name": "Beyond Sadness",
-          "url": "https://open.spotify.com/artist/4D6riy0MljyHs3LtsWMPxb"
-        }
-      ],
-      "duration_ms": 318688,
-      "name": "Cruz de navajas",
-      "url": "https://open.spotify.com/track/3Iw2JGQOIx5LtmpPX5HTz6"
-    },
-    {
-      "added_at": "2021-10-19 01:46:50",
+      "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "Los Movimientos",
         "url": "https://open.spotify.com/album/5y42cHtbjVLQhuLWbcEwja"
@@ -141,7 +77,23 @@
       "url": "https://open.spotify.com/track/7FDjq6dp6gUjsqsSWchDZ1"
     },
     {
-      "added_at": "2023-03-31 18:23:41",
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "D\u00ednamo",
+        "url": "https://open.spotify.com/album/6IE6bOCP0rgHHAGMaEfDba"
+      },
+      "artists": [
+        {
+          "name": "Lorelle Meets The Obsolete",
+          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
+        }
+      ],
+      "duration_ms": 207560,
+      "name": "D\u00ednamo",
+      "url": "https://open.spotify.com/track/4ilX4HWxfVFE9VRzwuxsGq"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "vampiro",
         "url": "https://open.spotify.com/album/0Mic1a4JCZSEf1dAujC8x4"
@@ -157,39 +109,7 @@
       "url": "https://open.spotify.com/track/50swtPDEWetyPIuK4Pug08"
     },
     {
-      "added_at": "2023-03-24 06:00:00",
-      "album": {
-        "name": "te odio",
-        "url": "https://open.spotify.com/album/3RkgXX6vMLvfQVJ9cocFVt"
-      },
-      "artists": [
-        {
-          "name": "te vi en un planetario",
-          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
-        }
-      ],
-      "duration_ms": 170126,
-      "name": "te odio",
-      "url": "https://open.spotify.com/track/4UBuT5jRH2VG7BmrfWWpX7"
-    },
-    {
-      "added_at": "2021-10-19 01:46:50",
-      "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 194640,
-      "name": "tdbn",
-      "url": "https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t"
-    },
-    {
-      "added_at": "2021-10-19 01:46:50",
+      "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "Molten Young Lovers",
         "url": "https://open.spotify.com/album/0KeUr8fbOh5vPUsVN6SQ8Z"
@@ -205,7 +125,23 @@
       "url": "https://open.spotify.com/track/28afz1iY04Elvc7YhHDYTt"
     },
     {
-      "added_at": "2021-10-19 01:46:50",
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "tdbn",
+        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 194640,
+      "name": "tdbn",
+      "url": "https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "Nubes",
         "url": "https://open.spotify.com/album/7t0vBigNHXs9SuwH1AaJXd"
@@ -221,7 +157,23 @@
       "url": "https://open.spotify.com/track/03DwGjU8lK4wiDdgSett0i"
     },
     {
-      "added_at": "2021-10-19 01:46:50",
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Traicion / Cruz de Navajas",
+        "url": "https://open.spotify.com/album/6X0R8jBws2cprXv3lIIgvr"
+      },
+      "artists": [
+        {
+          "name": "Beyond Sadness",
+          "url": "https://open.spotify.com/artist/4D6riy0MljyHs3LtsWMPxb"
+        }
+      ],
+      "duration_ms": 318688,
+      "name": "Cruz de navajas",
+      "url": "https://open.spotify.com/track/3Iw2JGQOIx5LtmpPX5HTz6"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "Duramos Ma\u0301s Cuando Menos Nos Conocemos",
         "url": "https://open.spotify.com/album/5RwW7blxdp4AtsWPKJ9Qk2"
@@ -237,7 +189,23 @@
       "url": "https://open.spotify.com/track/4bFLWgZkJuPoa1Js25VQU8"
     },
     {
-      "added_at": "2021-10-19 01:46:50",
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "te odio",
+        "url": "https://open.spotify.com/album/3RkgXX6vMLvfQVJ9cocFVt"
+      },
+      "artists": [
+        {
+          "name": "te vi en un planetario",
+          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
+        }
+      ],
+      "duration_ms": 170126,
+      "name": "te odio",
+      "url": "https://open.spotify.com/track/4UBuT5jRH2VG7BmrfWWpX7"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "Almost Reach the Sun",
         "url": "https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS"
@@ -253,7 +221,39 @@
       "url": "https://open.spotify.com/track/1HXLeO8G18z1LLxk3FbqWD"
     },
     {
-      "added_at": "2021-10-19 01:46:50",
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Animita",
+        "url": "https://open.spotify.com/album/2gz1tfqRhfFjD4noTtqKUs"
+      },
+      "artists": [
+        {
+          "name": "Adelaida",
+          "url": "https://open.spotify.com/artist/5ugKDsPNjtGyV7WxD7nTYS"
+        }
+      ],
+      "duration_ms": 265606,
+      "name": "Efervecencia",
+      "url": "https://open.spotify.com/track/2YYyNYvGBlobj2UjpWGcNo"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "BILLY",
+        "url": "https://open.spotify.com/album/1ivkMDnb2NCYgRUtNmwrk7"
+      },
+      "artists": [
+        {
+          "name": "Dominiko",
+          "url": "https://open.spotify.com/artist/0XKJA6syL4JLUeXqEh8qfD"
+        }
+      ],
+      "duration_ms": 252633,
+      "name": "BILLY",
+      "url": "https://open.spotify.com/track/1g4B7jOmIU52X1PzEiKqST"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "Super 8",
         "url": "https://open.spotify.com/album/6b4l8rVWImW1hkCshXichu"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/5Alh9ZUF8clLNm1UmFLcSv"
     },
     {
-      "added_at": "2021-10-19 01:46:50",
+      "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "D'arcy",
         "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
     },
     {
-      "added_at": "2021-10-19 01:46:50",
+      "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "Margaritas Podridas",
         "url": "https://open.spotify.com/album/0zEZh5PgV10xk2VM0GJ3Lm"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/3jtaAUbFSzfoKv6bVVo563"
     },
     {
-      "added_at": "2022-01-14 04:09:17",
+      "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "Lejos de M\u00ed",
         "url": "https://open.spotify.com/album/4TKcF68kvvylJaqNwaeFwk"
@@ -317,7 +317,39 @@
       "url": "https://open.spotify.com/track/3xu8MJIRspNhJilbRnI5mI"
     },
     {
-      "added_at": "2021-10-19 01:46:50",
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "reina de primavera",
+        "url": "https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y"
+      },
+      "artists": [
+        {
+          "name": "te vi en un planetario",
+          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
+        }
+      ],
+      "duration_ms": 245840,
+      "name": "reina de primavera",
+      "url": "https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "El Primero",
+        "url": "https://open.spotify.com/album/1SXArpME4RyxxFkwgXQM8H"
+      },
+      "artists": [
+        {
+          "name": "Apartamentos Acapulco",
+          "url": "https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT"
+        }
+      ],
+      "duration_ms": 191573,
+      "name": "El Primero",
+      "url": "https://open.spotify.com/track/4cIDUCqPKBoFmpYhb3iKU9"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "Ubicaci\u00f3n en Tiempo Real",
         "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
@@ -337,7 +369,7 @@
       "url": "https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI"
     },
     {
-      "added_at": "2022-04-23 04:35:02",
+      "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "Ghost In The Machine",
         "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
@@ -353,7 +385,7 @@
       "url": "https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ"
     },
     {
-      "added_at": "2021-10-19 01:46:50",
+      "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "Unidad De Desplazamiento",
         "url": "https://open.spotify.com/album/3CALAHUrBmAtGjVj82x5tz"
@@ -369,7 +401,7 @@
       "url": "https://open.spotify.com/track/1L4irrN3TGmOHS65WM1g4W"
     },
     {
-      "added_at": "2022-03-04 03:33:48",
+      "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "Cometa",
         "url": "https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww"
@@ -385,7 +417,7 @@
       "url": "https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK"
     },
     {
-      "added_at": "2022-04-22 18:40:23",
+      "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "Especial",
         "url": "https://open.spotify.com/album/4FSNPjZJIRazbypUcTzIH3"
@@ -401,39 +433,7 @@
       "url": "https://open.spotify.com/track/6M0iMWjgLJi6ndo5n0fCI8"
     },
     {
-      "added_at": "2021-11-10 05:29:10",
-      "album": {
-        "name": "Sigo",
-        "url": "https://open.spotify.com/album/0XcwHtwzFbnrXuX1CzhFKQ"
-      },
-      "artists": [
-        {
-          "name": "Ana Sanz",
-          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
-        }
-      ],
-      "duration_ms": 199294,
-      "name": "Sigo",
-      "url": "https://open.spotify.com/track/2D9fsqNw4aMABpchC5Once"
-    },
-    {
-      "added_at": "2021-10-19 01:46:50",
-      "album": {
-        "name": "Sentimiento Mundial",
-        "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
-      },
-      "artists": [
-        {
-          "name": "Mint Field",
-          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "Delicadeza",
-      "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
-    },
-    {
-      "added_at": "2021-10-19 01:46:50",
+      "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "Wow",
         "url": "https://open.spotify.com/album/2h85rsLHSwAMdaBJvNnirH"
@@ -449,23 +449,23 @@
       "url": "https://open.spotify.com/track/6dH0yTwptrQIb6qMLPg1As"
     },
     {
-      "added_at": "2021-10-19 01:46:50",
+      "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp"
+        "name": "Sigo",
+        "url": "https://open.spotify.com/album/0XcwHtwzFbnrXuX1CzhFKQ"
       },
       "artists": [
         {
-          "name": "Lorelle Meets The Obsolete",
-          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
+          "name": "Ana Sanz",
+          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
         }
       ],
-      "duration_ms": 381868,
-      "name": "The Sound of all Things",
-      "url": "https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM"
+      "duration_ms": 199294,
+      "name": "Sigo",
+      "url": "https://open.spotify.com/track/2D9fsqNw4aMABpchC5Once"
     },
     {
-      "added_at": "2021-10-19 01:46:50",
+      "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "Cielos Desconocidos",
         "url": "https://open.spotify.com/album/0seWnTPky0KP5OxP7Qh5tt"
@@ -481,39 +481,39 @@
       "url": "https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD"
     },
     {
-      "added_at": "2021-10-19 01:46:50",
+      "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Sintetica",
-        "url": "https://open.spotify.com/album/6D2b3pORKyOOwZwJ4InjXe"
+        "name": "Sentimiento Mundial",
+        "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
       },
       "artists": [
         {
-          "name": "Nudozurdo",
-          "url": "https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0"
+          "name": "Mint Field",
+          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
         }
       ],
-      "duration_ms": 273493,
-      "name": "Mil Espejos",
-      "url": "https://open.spotify.com/track/5W7CsTIjb4LNKujDtqutGc"
+      "duration_ms": 178146,
+      "name": "Delicadeza",
+      "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
     },
     {
-      "added_at": "2021-10-19 01:46:50",
+      "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Jungla",
-        "url": "https://open.spotify.com/album/0s8OB2LMGu6l9NyfJgvsvC"
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp"
       },
       "artists": [
         {
-          "name": "Rayo",
-          "url": "https://open.spotify.com/artist/1r5mgN3pd36xjsZSZOvST9"
+          "name": "Lorelle Meets The Obsolete",
+          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
         }
       ],
-      "duration_ms": 183080,
-      "name": "Mapas",
-      "url": "https://open.spotify.com/track/4KBhtcvm7Rb91wTMIVtZKP"
+      "duration_ms": 381868,
+      "name": "The Sound of all Things",
+      "url": "https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM"
     },
     {
-      "added_at": "2021-10-19 01:46:50",
+      "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "Como Rei Ayanami",
         "url": "https://open.spotify.com/album/30LJvOyd3yd4Otb6LLuQCW"
@@ -529,7 +529,39 @@
       "url": "https://open.spotify.com/track/0tYNvkWztbz331kXOHXf8n"
     },
     {
-      "added_at": "2021-10-19 01:46:50",
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Sintetica",
+        "url": "https://open.spotify.com/album/6D2b3pORKyOOwZwJ4InjXe"
+      },
+      "artists": [
+        {
+          "name": "Nudozurdo",
+          "url": "https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0"
+        }
+      ],
+      "duration_ms": 273493,
+      "name": "Mil Espejos",
+      "url": "https://open.spotify.com/track/5W7CsTIjb4LNKujDtqutGc"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Jungla",
+        "url": "https://open.spotify.com/album/0s8OB2LMGu6l9NyfJgvsvC"
+      },
+      "artists": [
+        {
+          "name": "Rayo",
+          "url": "https://open.spotify.com/artist/1r5mgN3pd36xjsZSZOvST9"
+        }
+      ],
+      "duration_ms": 183080,
+      "name": "Mapas",
+      "url": "https://open.spotify.com/track/4KBhtcvm7Rb91wTMIVtZKP"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "D'arcy",
         "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
@@ -545,7 +577,7 @@
       "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
     },
     {
-      "added_at": "2021-10-19 01:46:50",
+      "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "Almost Reach the Sun",
         "url": "https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS"
@@ -561,7 +593,7 @@
       "url": "https://open.spotify.com/track/223R25sVUNY4QCvA7XjkNk"
     },
     {
-      "added_at": "2022-08-29 23:42:14",
+      "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "El Tiempo",
         "url": "https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su"
@@ -577,7 +609,7 @@
       "url": "https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC"
     },
     {
-      "added_at": "2022-06-20 23:05:56",
+      "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "Otra Vez",
         "url": "https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp"
@@ -593,7 +625,7 @@
       "url": "https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR"
     },
     {
-      "added_at": "2022-06-30 17:46:11",
+      "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "Todo Va a Estar Bien",
         "url": "https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw"
@@ -609,7 +641,7 @@
       "url": "https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT"
     },
     {
-      "added_at": "2021-10-19 01:46:50",
+      "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "Tri\u00e1ngulo de Amor Bizarro",
         "url": "https://open.spotify.com/album/5g6VFGlvYtGIOuIVy4zU8m"
@@ -625,7 +657,7 @@
       "url": "https://open.spotify.com/track/1tnyObmkojHC10zaTFV0rT"
     },
     {
-      "added_at": "2022-03-18 05:38:21",
+      "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "Osa Polar",
         "url": "https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys"
@@ -641,7 +673,7 @@
       "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
     },
     {
-      "added_at": "2023-01-26 02:39:41",
+      "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "Fuera de Lugar",
         "url": "https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO"
@@ -657,7 +689,7 @@
       "url": "https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW"
     },
     {
-      "added_at": "2021-10-19 01:46:50",
+      "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "Estrella Fugaz",
         "url": "https://open.spotify.com/album/1zlpHqJLyYmfqzSOytAT5D"
@@ -673,71 +705,7 @@
       "url": "https://open.spotify.com/track/3ksdl0YWfOTHAReDo9lkYa"
     },
     {
-      "added_at": "2021-10-19 01:46:50",
-      "album": {
-        "name": "Ceremonia",
-        "url": "https://open.spotify.com/album/0eJvHrZXZkkUDVMQuEJq07"
-      },
-      "artists": [
-        {
-          "name": "Margaritas Podridas",
-          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Ceremonia",
-      "url": "https://open.spotify.com/track/1ycIEEREuhHTHtmPCaJiMg"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/1YeMVUEEBUcehIKC8PQkK5"
-      },
-      "artists": [
-        {
-          "name": "Norwayy",
-          "url": "https://open.spotify.com/artist/2Oco3IVZNWcII3kGXRaNaU"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/0oj0QRfjA5WsLvZkoOQk6f"
-    },
-    {
-      "added_at": "2022-08-01 16:15:05",
-      "album": {
-        "name": "I Can Show You Wonders",
-        "url": "https://open.spotify.com/album/5BLy1t6Xz0XNBrHN2VIMeM"
-      },
-      "artists": [
-        {
-          "name": "Trementina",
-          "url": "https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X"
-        }
-      ],
-      "duration_ms": 165587,
-      "name": "I Can Show You Wonders",
-      "url": "https://open.spotify.com/track/59nLZfSfprwxAA2NeESxey"
-    },
-    {
-      "added_at": "2021-10-19 01:46:50",
-      "album": {
-        "name": "Chambers",
-        "url": "https://open.spotify.com/album/0m1gWnu2DZOnk0lIqSbyBh"
-      },
-      "artists": [
-        {
-          "name": "Lorelle Meets The Obsolete",
-          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
-        }
-      ],
-      "duration_ms": 298122,
-      "name": "What\u2019s holding you?",
-      "url": "https://open.spotify.com/track/2dv9U9fWdxk7wKLi2gPpSW"
-    },
-    {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "Amor de Furgoneta",
         "url": "https://open.spotify.com/album/3Cs0GE7gaKWqfKYKoVH7jy"
@@ -753,7 +721,71 @@
       "url": "https://open.spotify.com/track/3uZndqZtdBxtnLe875iPSR"
     },
     {
-      "added_at": "2022-04-20 13:46:53",
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Ceremonia",
+        "url": "https://open.spotify.com/album/0eJvHrZXZkkUDVMQuEJq07"
+      },
+      "artists": [
+        {
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Ceremonia",
+      "url": "https://open.spotify.com/track/1ycIEEREuhHTHtmPCaJiMg"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/1YeMVUEEBUcehIKC8PQkK5"
+      },
+      "artists": [
+        {
+          "name": "Norwayy",
+          "url": "https://open.spotify.com/artist/2Oco3IVZNWcII3kGXRaNaU"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/0oj0QRfjA5WsLvZkoOQk6f"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Chambers",
+        "url": "https://open.spotify.com/album/0m1gWnu2DZOnk0lIqSbyBh"
+      },
+      "artists": [
+        {
+          "name": "Lorelle Meets The Obsolete",
+          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
+        }
+      ],
+      "duration_ms": 298122,
+      "name": "What\u2019s holding you?",
+      "url": "https://open.spotify.com/track/2dv9U9fWdxk7wKLi2gPpSW"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "I Can Show You Wonders",
+        "url": "https://open.spotify.com/album/5BLy1t6Xz0XNBrHN2VIMeM"
+      },
+      "artists": [
+        {
+          "name": "Trementina",
+          "url": "https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X"
+        }
+      ],
+      "duration_ms": 165587,
+      "name": "I Can Show You Wonders",
+      "url": "https://open.spotify.com/track/59nLZfSfprwxAA2NeESxey"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "Las Olas Contra Todos",
         "url": "https://open.spotify.com/album/4J8d90YhrrYBiZbSeRiacK"
@@ -769,7 +801,7 @@
       "url": "https://open.spotify.com/track/67QxnzLtZh9NiD7NzlBgs1"
     },
     {
-      "added_at": "2021-10-19 01:46:50",
+      "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "La Carretera",
         "url": "https://open.spotify.com/album/6pCTij28fog7AIWLFsdtko"
@@ -783,42 +815,6 @@
       "duration_ms": 251595,
       "name": "La Carretera",
       "url": "https://open.spotify.com/track/4eSXJnfSowWSP9kefNFiww"
-    },
-    {
-      "added_at": "2021-10-19 01:46:50",
-      "album": {
-        "name": "Sentimiento Mundial",
-        "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
-      },
-      "artists": [
-        {
-          "name": "Mint Field",
-          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
-        }
-      ],
-      "duration_ms": 214466,
-      "name": "Aterrizar",
-      "url": "https://open.spotify.com/track/4b6k0q2chMQGuAvwCxBYNn"
-    },
-    {
-      "added_at": "2021-11-25 12:00:00",
-      "album": {
-        "name": "Morning Sun",
-        "url": "https://open.spotify.com/album/5ASteoHCRzSBltEuaP1kmh"
-      },
-      "artists": [
-        {
-          "name": "Karen y Los Remedios",
-          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
-        },
-        {
-          "name": "Z.A.M.P.A",
-          "url": "https://open.spotify.com/artist/2Om6U6DwLuSX7WTVC9Nce2"
-        }
-      ],
-      "duration_ms": 267019,
-      "name": "Morning Sun",
-      "url": "https://open.spotify.com/track/5ObGH4iynfz5WQ8KJAYpbZ"
     }
   ],
   "unique_name": "Shoegaze & Dreampop en espa\u00f1ol",

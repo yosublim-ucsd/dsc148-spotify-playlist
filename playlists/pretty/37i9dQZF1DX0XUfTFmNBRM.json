@@ -1,15 +1,15 @@
 {
   "description": "Hottest Hindi music served here. Cover - Pathaan\n",
-  "num_followers": 1438789,
+  "num_followers": 1440703,
   "original_name": "Hot Hits Hindi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGVhMTcyZGVkYjVjMDNhZTVhM2M0ZDZkYThhNDcxNDVkMWIxNWRh",
+  "snapshot_id": "MCw2ZTUyOTM3MjAzZDc4OTZiYWFiZmM1M2QxN2M1NWFiNjQ1MTcyNWVl",
   "tracks": [
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Pyaar Hota Kayi Baar Hai (From \"Tu Jhoothi Main Makkaar\")",
         "url": "https://open.spotify.com/album/1cttjZoENYipDCPgISthpY"
@@ -37,7 +37,7 @@
       "url": "https://open.spotify.com/track/2vPrBucKCfKmafHhSfJ2pt"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Pathaan",
         "url": "https://open.spotify.com/album/2ooWY7xriwwyj23dAI32C2"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/6FAYpZ4jve8vpvTwUvjK6H"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Champagne Talk",
         "url": "https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/1418IuVKQPTYqt7QNJ9RXN"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "O Bedardeya (From \"Tu Jhoothi Main Makkaar\")",
         "url": "https://open.spotify.com/album/7kXEDaT5yy8IUT7Fmqs1i2"
@@ -113,7 +113,23 @@
       "url": "https://open.spotify.com/track/0czcoKJbJt08NqKrvSbbz7"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
+      "album": {
+        "name": "Manjha",
+        "url": "https://open.spotify.com/album/1N9rGbn2M9lzU6YcJ6081E"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        }
+      ],
+      "duration_ms": 191647,
+      "name": "Manjha",
+      "url": "https://open.spotify.com/track/0UZLaEOSIc5kg0cc7eszqC"
+    },
+    {
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Kahani Suno 2.0",
         "url": "https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV"
@@ -129,7 +145,7 @@
       "url": "https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Rang Lageya - Single",
         "url": "https://open.spotify.com/album/0qLoPEAr0CLQfEJRtzRb1r"
@@ -149,7 +165,7 @@
       "url": "https://open.spotify.com/track/4svSc7BE6r9xMEk0GosnVu"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Besharam Rang (From \"Pathaan\")",
         "url": "https://open.spotify.com/album/5CvI5ppsG522pV554VLezD"
@@ -185,7 +201,7 @@
       "url": "https://open.spotify.com/track/0CtZpaOhtzvLV3FfcsVpQo"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Tere Pyaar Mein (From \"Tu Jhoothi Main Makkaar\")",
         "url": "https://open.spotify.com/album/5uAi4ZZc7zRdd6PsKNcJXO"
@@ -213,7 +229,7 @@
       "url": "https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Malang Sajna",
         "url": "https://open.spotify.com/album/7khRLZe8P6XcUoRgOa3nnf"
@@ -237,7 +253,7 @@
       "url": "https://open.spotify.com/track/73K33p4Vyz9koXGqmL5eFs"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Manike (From \"Thank God\")",
         "url": "https://open.spotify.com/album/30CfQvXOWrJx6kCglMcbo3"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/0zlGnseLGzRIBA0TJcb3Bo"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Character Dheela 2.0 (From \"Shehzada\")",
         "url": "https://open.spotify.com/album/4e4MkpVHb3EZKjBVxNoFQj"
@@ -301,7 +317,7 @@
       "url": "https://open.spotify.com/track/0QT9B8Yfrz0vi66oXMrKJg"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Main Khiladi (From \"Selfiee\")",
         "url": "https://open.spotify.com/album/7MFOyviMDG0SSRDOUbFnki"
@@ -325,7 +341,35 @@
       "url": "https://open.spotify.com/track/7E0A86Yhc0ZyOl6aAPE5wN"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
+      "album": {
+        "name": "Farzi (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2W4AYutWKIjmtGVnU6q3Xz"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Mellow D",
+          "url": "https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp"
+        },
+        {
+          "name": "Jigar Saraiya",
+          "url": "https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op"
+        }
+      ],
+      "duration_ms": 188586,
+      "name": "Paisa Hai Toh",
+      "url": "https://open.spotify.com/track/5kwldaZvtbiTmRYsmlyxAN"
+    },
+    {
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Show Me The Thumka (From \"Tu Jhoothi Main Makkaar\")",
         "url": "https://open.spotify.com/album/3l9BJEi2OZmt0S16AuLe2r"
@@ -353,7 +397,7 @@
       "url": "https://open.spotify.com/track/1t39FBb0zsKv5krZaqZKCB"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Jehda Nasha (From \"An Action Hero\")",
         "url": "https://open.spotify.com/album/2ishN6ZECK81K6uRwPd7RH"
@@ -385,7 +429,7 @@
       "url": "https://open.spotify.com/track/45C7tXCrmp3R5E65XUtLLj"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Kesariya (From \"Brahmastra\")",
         "url": "https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS"
@@ -409,7 +453,31 @@
       "url": "https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
+      "album": {
+        "name": "Laal Singh Chaddha",
+        "url": "https://open.spotify.com/album/5OLQiL6HaWJl734EqPjoY9"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        }
+      ],
+      "duration_ms": 346290,
+      "name": "Tere Hawaale",
+      "url": "https://open.spotify.com/track/1ByVM9F8HeekD3aGXatRWd"
+    },
+    {
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Shershaah (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5BLwx5IlfoWOrjJJ3i7gbK"
@@ -437,7 +505,7 @@
       "url": "https://open.spotify.com/track/0v77QqHiZUvfJkCk2rGRqw"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Tu Mile Dil Khile - Single",
         "url": "https://open.spotify.com/album/5ZdPS2Lm1DvnFwni3DX4pm"
@@ -457,31 +525,7 @@
       "url": "https://open.spotify.com/track/6SnqFFm7Qp68efuVygvwtU"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
-      "album": {
-        "name": "Laal Singh Chaddha",
-        "url": "https://open.spotify.com/album/5OLQiL6HaWJl734EqPjoY9"
-      },
-      "artists": [
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Shilpa Rao",
-          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
-        }
-      ],
-      "duration_ms": 346290,
-      "name": "Tere Hawaale",
-      "url": "https://open.spotify.com/track/1ByVM9F8HeekD3aGXatRWd"
-    },
-    {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Tu Jhoothi Main Makkaar",
         "url": "https://open.spotify.com/album/1t1gWslYejaaqicumEbdKU"
@@ -505,7 +549,7 @@
       "url": "https://open.spotify.com/track/5iydgkuP2lJFDT9CgyY26x"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Munda Sona Hoon Main (From \"Shehzada\")",
         "url": "https://open.spotify.com/album/1d8jt3TJEbsTf6bTDnfyK9"
@@ -533,7 +577,7 @@
       "url": "https://open.spotify.com/track/0NODNDsiY0sK5P0TnmDMSE"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Bhool Bhulaiyaa 2 Title Track (From \"Bhool Bhulaiyaa 2\")",
         "url": "https://open.spotify.com/album/1pDOFak83OlJVuXnMRkXHq"
@@ -557,7 +601,7 @@
       "url": "https://open.spotify.com/track/2cbaCL38j8eUXBQjvLawET"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Heer Ranjha",
         "url": "https://open.spotify.com/album/5jZOJxJvZj63YKrPEWPy63"
@@ -581,7 +625,7 @@
       "url": "https://open.spotify.com/track/3wwLWFRLiReDf5AqgmAJwT"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Piya Re",
         "url": "https://open.spotify.com/album/2zklsctWucPQfdsOrpwLaF"
@@ -597,7 +641,7 @@
       "url": "https://open.spotify.com/track/00ifzzUnDbVVdwGLAzm9Fo"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Ghodey Pe Sawaar (From \"Qala\")",
         "url": "https://open.spotify.com/album/2wNtwIrKPDj6uOV6VlM8pJ"
@@ -621,7 +665,7 @@
       "url": "https://open.spotify.com/track/1a8w8nlIyIhE2W1HIayKnl"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Galliyan Returns (From \"Ek Villain Returns\")",
         "url": "https://open.spotify.com/album/0vjQeipdlzH33n9vnCwAAD"
@@ -641,7 +685,7 @@
       "url": "https://open.spotify.com/track/2eTkxblLeqdTSsb2ivafDX"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Chaand Baaliyan",
         "url": "https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe"
@@ -657,7 +701,7 @@
       "url": "https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Raataan Lambiyan (From \"Shershaah\")",
         "url": "https://open.spotify.com/album/2DKSZvMj7Da6rzNVPMgREj"
@@ -681,7 +725,7 @@
       "url": "https://open.spotify.com/track/2rOnSn2piaqLAlYjtfUBlY"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Aaj Sajeya - Single",
         "url": "https://open.spotify.com/album/5K07SMgR7RxfpsgDcNmD2o"
@@ -697,7 +741,7 @@
       "url": "https://open.spotify.com/track/1Oyfarj5ipZwEup8DUM7hA"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Qala (Music From The Netflix Film)",
         "url": "https://open.spotify.com/album/3yVX4sKtPoqFjBKOVyJenW"
@@ -729,7 +773,7 @@
       "url": "https://open.spotify.com/track/2I0MIQhICYnKHvaxUHYH49"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Mismatched: Season 2 (Music from the Netflix Series)",
         "url": "https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX"
@@ -749,7 +793,7 @@
       "url": "https://open.spotify.com/track/2QophXhN2Ls2URfoPmiviC"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Rangisari (From \"Jugjugg Jeeyo\")",
         "url": "https://open.spotify.com/album/5MB6DWb1irSWaalYH07Uzg"
@@ -769,7 +813,7 @@
       "url": "https://open.spotify.com/track/0DXfJ2iKRDEG7rPgssWFea"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Kyaa Baat Haii 2.0 (From \"Govinda Naam Mera\")",
         "url": "https://open.spotify.com/album/2WGf3hNRhDAbcI29cAFolO"
@@ -793,7 +837,7 @@
       "url": "https://open.spotify.com/track/3SxOgJihDKlbZ9C1OvLgNs"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Rasiya (From \"Brahmastra\")",
         "url": "https://open.spotify.com/album/5pjSP9gi3qIDK9NvI0uY88"
@@ -817,7 +861,7 @@
       "url": "https://open.spotify.com/track/4Hv055xg1SZZgwwGBx8Cr5"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "OOPS",
         "url": "https://open.spotify.com/album/23Xu8xOIyGOKQvmsM24ESK"
@@ -833,7 +877,7 @@
       "url": "https://open.spotify.com/track/5RrOyaV2xOAnf62uWj24dB"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Dil De Diya (From \"Thank God\")",
         "url": "https://open.spotify.com/album/6NlGIZL3C8d4yHF8PkpF0S"
@@ -861,7 +905,7 @@
       "url": "https://open.spotify.com/track/2vSaZJ3gyDDyVy81zu1LGc"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Doobey (From \"Gehraiyaan\")",
         "url": "https://open.spotify.com/album/48VomBCSqAsYmxI3C3TNSC"
@@ -889,7 +933,7 @@
       "url": "https://open.spotify.com/track/7MBqVOzb8C3f0FXr2LBLiq"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Tu Jhoothi Main Makkaar",
         "url": "https://open.spotify.com/album/1t1gWslYejaaqicumEbdKU"
@@ -917,7 +961,7 @@
       "url": "https://open.spotify.com/track/0OezGqk104NQrcaLpWuYL4"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Deva Deva (From \"Brahmastra\")",
         "url": "https://open.spotify.com/album/6zwucxlWusEUCZt6DeQJCu"
@@ -945,7 +989,7 @@
       "url": "https://open.spotify.com/track/0IGXY47K2ha3AHfX57wY1O"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Naacho Naacho (From \"Rrr\")",
         "url": "https://open.spotify.com/album/1i4dE3ZSEKUVNA85Lr5nbA"
@@ -969,7 +1013,7 @@
       "url": "https://open.spotify.com/track/208sMwgVcaFt2mT79Df1KG"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Jugnu",
         "url": "https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP"
@@ -989,7 +1033,7 @@
       "url": "https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Srivalli (From \"Pushpa The Rise Part - 01\")",
         "url": "https://open.spotify.com/album/0o80h7hMTz2wjzJSvckOcr"
@@ -1009,7 +1053,7 @@
       "url": "https://open.spotify.com/track/7sVEoPc5ZUUQerRkgTypUZ"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Baarish Mein Tum",
         "url": "https://open.spotify.com/album/0KQnsx1cgAMIIStVxLs4Df"
@@ -1037,7 +1081,7 @@
       "url": "https://open.spotify.com/track/4xA7TokHI9HTapV4wO3W5I"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Baarishein",
         "url": "https://open.spotify.com/album/4ysOhipyMXKstywus51VXS"
@@ -1053,7 +1097,7 @@
       "url": "https://open.spotify.com/track/5iCY0TXNImK4hyKfcplQsg"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Hum Nashe Mein Toh Nahin (From \"Bhool Bhulaiyaa 2\")",
         "url": "https://open.spotify.com/album/3i3rwvDDpdY1BZmIW2pAvT"
@@ -1077,7 +1121,7 @@
       "url": "https://open.spotify.com/track/6XZWokIxs4leaSmXmU8b26"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Baarishon Mein",
         "url": "https://open.spotify.com/album/0HsLFcmpM2dtnQ30RuiCjT"
@@ -1093,7 +1137,7 @@
       "url": "https://open.spotify.com/track/7doebiokA0utWXWcw7rD82"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Rait Zara Si (From \"Atrangi Re\")",
         "url": "https://open.spotify.com/album/2L1otdfoUvp3MKdaT4knVK"
@@ -1117,7 +1161,7 @@
       "url": "https://open.spotify.com/track/4uK0M8AI6gyFmyzUneQpbi"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Gangubai Kathiawadi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3kT50JTcaeVQMIh0NUNjyM"
@@ -1133,7 +1177,7 @@
       "url": "https://open.spotify.com/track/080Snoc5O7MuKyu5TkH4TD"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Aashiqui Aa Gayi (From \"Radhe Shyam\")",
         "url": "https://open.spotify.com/album/4c5CZEoxiWQs8KugdzpvJd"
@@ -1153,7 +1197,7 @@
       "url": "https://open.spotify.com/track/7I6mwEFQwpTu5ciVZWFpd4"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Dhokha",
         "url": "https://open.spotify.com/album/7I8VnIahW5LQ03YmifHQ1u"
@@ -1177,7 +1221,7 @@
       "url": "https://open.spotify.com/track/2aV8nAkyt5nsWdQTruzgmJ"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Dance Meri Rani",
         "url": "https://open.spotify.com/album/6IxNw3TC6ZD4dKiwTsAUQq"
@@ -1201,7 +1245,7 @@
       "url": "https://open.spotify.com/track/2Og3TvRiujRDfgnkmgaOhW"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Najaa (From \"Sooryavanshi\")",
         "url": "https://open.spotify.com/album/5zP4OuD73f42dogIjNid68"
@@ -1225,7 +1269,7 @@
       "url": "https://open.spotify.com/track/09vHbIezp9NP31CZWysk3v"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Nadiyon Paar (Let the Music Play Again) [From \"Roohi\"]",
         "url": "https://open.spotify.com/album/2O5eyYEtqdbdixyQxDzCxi"
@@ -1253,7 +1297,7 @@
       "url": "https://open.spotify.com/track/2PEo8JQ48mfEv8a2HLqDvt"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Kusu Kusu (From \"Satyameva Jayate 2\")",
         "url": "https://open.spotify.com/album/4QsZTMq6EZp26T67ou6ch9"
@@ -1277,7 +1321,7 @@
       "url": "https://open.spotify.com/track/6G699QfN1BWYWXfiblH51F"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Sakhiyan2.0 (From \"BellBottom\") - Single",
         "url": "https://open.spotify.com/album/3T7z9uyd25hw8zLcxkS5Yc"
@@ -1301,7 +1345,7 @@
       "url": "https://open.spotify.com/track/1y5beX4vn7QPfg36r4jiWo"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Mere Yaaraa (From \"Sooryavanshi\")",
         "url": "https://open.spotify.com/album/1XO82yE4raeQEBSHxrNuSe"
@@ -1325,7 +1369,7 @@
       "url": "https://open.spotify.com/track/0tpwqQhdfJXRcUDSNRjb9O"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Dil Galti Kar Baitha Hai",
         "url": "https://open.spotify.com/album/3IVKZaNM28VJVl74XDSKpR"
@@ -1349,7 +1393,7 @@
       "url": "https://open.spotify.com/track/7HPM13Xek5XoRWxRzHfvkB"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "The Carnival",
         "url": "https://open.spotify.com/album/7uftfPn8f7lwtRLUrEVRYM"
@@ -1365,7 +1409,7 @@
       "url": "https://open.spotify.com/track/0yCWDaAgOtg6TKlNCg9rwA"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Tip Tip (From \"Sooryavanshi\")",
         "url": "https://open.spotify.com/album/5xhnmuzC2RnvShBs631Q2y"
@@ -1389,7 +1433,7 @@
       "url": "https://open.spotify.com/track/5zfRl79umXWvKoA7p4KEPa"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Mimi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0DUOcMjmHGVLqFkWqfNC0z"
@@ -1409,27 +1453,7 @@
       "url": "https://open.spotify.com/track/3KeMulXbLDJBQdY5PZbGEh"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
-      "album": {
-        "name": "Paani Paani",
-        "url": "https://open.spotify.com/album/5fkjWQSbKMhpA7NMh3JEjJ"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Aastha Gill",
-          "url": "https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ"
-        }
-      ],
-      "duration_ms": 174002,
-      "name": "Paani Paani",
-      "url": "https://open.spotify.com/track/1myzcUZDmZ5m1EgGv19c76"
-    },
-    {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Shiddat",
         "url": "https://open.spotify.com/album/2ifXB65SLpF97vWZjKGpQ9"
@@ -1457,7 +1481,7 @@
       "url": "https://open.spotify.com/track/6qZyM6JV8ohLC4S2EL5sFh"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Lut Gaye",
         "url": "https://open.spotify.com/album/2IgqTqUjGQsmahYITOCdBX"
@@ -1485,27 +1509,7 @@
       "url": "https://open.spotify.com/track/2ufLEVbzvEcJ3subW8jBUp"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
-      "album": {
-        "name": "Oo Bolega Ya Oo Oo Bolega (From \"Pushpa The Rise Part - 01\")",
-        "url": "https://open.spotify.com/album/7g0kaXuNdjtdEvsnvYribr"
-      },
-      "artists": [
-        {
-          "name": "Kanika Kapoor",
-          "url": "https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8"
-        },
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        }
-      ],
-      "duration_ms": 226313,
-      "name": "Oo Bolega Ya Oo Oo Bolega (From \"Pushpa The Rise Part - 01\")",
-      "url": "https://open.spotify.com/track/4oglYe270D9yn6Gc0JWc03"
-    },
-    {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Shayad (From \"Love Aaj Kal\")",
         "url": "https://open.spotify.com/album/3Q6oDVihOpQVi2FC0Mfjlm"
@@ -1525,7 +1529,7 @@
       "url": "https://open.spotify.com/track/018eOid2aGaPdxon7T6GsC"
     },
     {
-      "added_at": "2023-04-17 07:42:55",
+      "added_at": "2023-04-28 04:08:20",
       "album": {
         "name": "Tu Hi Yaar Mera (From \"Pati Patni Aur Woh\")",
         "url": "https://open.spotify.com/album/7aJiY5GW8uSpZItQXcmeVM"

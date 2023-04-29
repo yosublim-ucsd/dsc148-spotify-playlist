@@ -7184,7 +7184,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 216000,
       "name": "\u4f38\u7e2e\u81ea\u5982\u7684\u611b",
       "url": "https://open.spotify.com/track/605Qt7cEa5igrpWkX3B76j"
@@ -10206,6 +10206,24 @@
       "duration_ms": 177560,
       "name": "\u82b1\u6d77",
       "url": "https://open.spotify.com/track/4EtIyBLHlEJoNPsb3Kv3CQ"
+    },
+    {
+      "album": {
+        "name": "\u842c\u4e00\u4f60\u662f\u500b\u597d\u4eba",
+        "url": "https://open.spotify.com/album/7l4sUDR6RnR3DVrsfrmo3g"
+      },
+      "artists": [
+        {
+          "name": "Terence Lam",
+          "url": "https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185357,
+      "name": "\u842c\u4e00\u4f60\u662f\u500b\u597d\u4eba",
+      "url": "https://open.spotify.com/track/6lwMbAQ6RLzlXrX5Zh1rG6"
     },
     {
       "album": {

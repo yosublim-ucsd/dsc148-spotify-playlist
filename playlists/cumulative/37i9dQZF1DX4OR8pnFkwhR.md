@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Tele
 
-820 songs - 2 day 2 hr 32 min
+822 songs - 2 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [escape](https://open.spotify.com/track/54I4yCRiTczv8HGgc97h9j) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [escape](https://open.spotify.com/album/3hb7VMqpZB6di5amB32mdh) | 3:41 | 2022-07-28 | 2022-08-03 |
 | [Euphoric Escape](https://open.spotify.com/track/3J50EjeL59ZYfJAYmWdLdW) | [samayuzame](https://open.spotify.com/artist/35rpDiXIsvLFJx0KaGvxK2), [SOMBRA](https://open.spotify.com/artist/4FsJdqeI2pBKVDyhGm19Dw) | [Euphoric Escape](https://open.spotify.com/album/6gMqQPVrchyoXtf1aKVnCw) | 3:23 | 2023-02-24 | 2023-03-29 |
 | [Even if the world hates me](https://open.spotify.com/track/2a2alZCw8oZlDGciBUlZvl) | [ヤングスキニー](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Even if the world hates me](https://open.spotify.com/album/3Giq65QDe2WwZXf7MKWfnR) | 3:30 | 2023-01-12 | 2023-02-02 |
+| [Even if the world hates me \(2023 ver.\)](https://open.spotify.com/track/5OtLyHGENq0YNpo6jNSo8d) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Even if the world hates me \(2023 ver.\)](https://open.spotify.com/album/3Mw3CdZ9Zt838W2gQ8yhqz) | 4:32 | 2023-04-27 |  |
 | [Ever](https://open.spotify.com/track/19JoPgaVzWEY9Yj6gBHH2M) | [Misekai](https://open.spotify.com/artist/3D3rPrHQXf7RGhWPNtVNHk) | [Ever](https://open.spotify.com/album/4bTkAHeOUJY47d38kki6Pu) | 4:10 | 2023-02-01 | 2023-02-22 |
 | [Fallin’](https://open.spotify.com/track/2XXjUayYjoXXryVMj5KwaB) | [moeki](https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM) | [Fallin’](https://open.spotify.com/album/0fJAMatgtuw8ux3zSExPFz) | 3:05 | 2022-05-26 | 2022-07-13 |
 | [FINE LINE \(feat\. Skaai\) \(Prod\. uin\)](https://open.spotify.com/track/2y449AvZEi4dbGoSjnsgSY) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [uin](https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [FINE LINE \(feat\. Skaai\) \(Prod\. uin\)](https://open.spotify.com/album/6YJVSyedYS0JQhntp53G4P) | 2:59 | 2023-03-28 |  |
@@ -309,6 +310,7 @@
 | [Old Fashioned](https://open.spotify.com/track/6ZWKRmmYetfk6LsEVbSIk6) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [SiNNER MOON](https://open.spotify.com/artist/7uNmdZ8FJkmZjsHEQWM5Xw), [Peatle](https://open.spotify.com/artist/0iIymgyAW3hH5oY7kRMVsp) | [Old Fashioned](https://open.spotify.com/album/3Rv9kwdTjYAdyUsVLz2gZh) | 3:19 | 2023-02-16 | 2023-04-14 |
 | [Omocha Teikoku](https://open.spotify.com/track/3WpKIipnEpE5hSDbjqTnne) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Omocha Teikoku](https://open.spotify.com/album/43wX4DrD0IYYtMhlfiYevx) | 3:02 | 2023-02-14 | 2023-03-29 |
 | [ORANGE](https://open.spotify.com/track/67fIYaw4rsHDl24r2iXQrI) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR) | [ORANGE](https://open.spotify.com/album/6dNCmvgmk5gaT9y0qMTQRP) | 4:02 | 2022-10-04 | 2022-11-09 |
+| [Otetetsunaide](https://open.spotify.com/track/5iJbOUH3PG9Fu5jXf6y78M) | [Yamato Mori](https://open.spotify.com/artist/6oekdBDEP3aA9j07IEal9w) | [Otetetsunaide](https://open.spotify.com/album/2J0trvBDEnhwjxJrDlMCfS) | 3:34 | 2023-04-27 |  |
 | [Othello](https://open.spotify.com/track/4TAnJMwy3dFjRMyYsvQ9Fh) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Othello](https://open.spotify.com/album/3i2MhTc7yo7UNtpSSP3Lzp) | 4:29 | 2022-08-02 | 2023-02-02 |
 | [Oto mafia](https://open.spotify.com/track/3SXEFa76DF0fU0n808MKwF) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [4EP3](https://open.spotify.com/album/121Dw9WwB5xcoCd2oU60qa) | 5:15 | 2022-05-31 | 2022-07-13 |
 | [Our Moon \- feat\. London Lawhon](https://open.spotify.com/track/415TXcyD71rjZrOgrfa5o3) | [ArrowArrow](https://open.spotify.com/artist/6f6aiorf7uXCX4qDTDRTIv) | [Our Moon \(feat\. London Lawhon\)](https://open.spotify.com/album/5tRYMPoFkm3thb7JemPGOf) | 2:54 | 2022-04-27 | 2022-05-18 |
@@ -553,7 +555,7 @@
 | [わたしの生きる物語](https://open.spotify.com/track/06kv0bfU931FtGMRs9x1Ev) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [わたしの生きる物語](https://open.spotify.com/album/5xE4L1XJgmNEiCcKLZn4cr) | 7:08 | 2022-02-22 | 2022-03-30 |
 | [エイプリル](https://open.spotify.com/track/5niOS9Rq12nDEsrGPL043o) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [エイプリル](https://open.spotify.com/album/3iL2VkEt1Z1GsTDRA2YaHG) | 3:04 | 2022-04-05 | 2022-06-08 |
 | [エールを送るよ](https://open.spotify.com/track/1GvR2vfbnw6ZLNGKiXXYJh) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [エールを送るよ](https://open.spotify.com/album/4eZVTG3ttCrm7eU1813aGV) | 3:04 | 2022-09-20 | 2022-10-19 |
-| [オテテツナイデ](https://open.spotify.com/track/7uqxVfZInRa9C1ePmf8lci) | [森 大翔](https://open.spotify.com/artist/0SdqRgSNvDSHYfLebQuKdC) | [オテテツナイデ](https://open.spotify.com/album/3yjp1MxsgIgBbQM4wWjUrt) | 3:34 | 2023-04-27 |  |
+| [オテテツナイデ](https://open.spotify.com/track/7uqxVfZInRa9C1ePmf8lci) | [森 大翔](https://open.spotify.com/artist/0SdqRgSNvDSHYfLebQuKdC) | [オテテツナイデ](https://open.spotify.com/album/3yjp1MxsgIgBbQM4wWjUrt) | 3:34 | 2023-04-27 | 2023-04-29 |
 | [オールグリーン](https://open.spotify.com/track/2o38jQDB10QLiIvKCrS26F) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [オールグリーン](https://open.spotify.com/album/3i8Z1Ovo47wujwJYzxOcHe) | 3:13 | 2022-07-19 | 2022-07-29 |
 | [カウントダウン・ラグ](https://open.spotify.com/track/1QkF34AEAxWrHRYRXpI4CU) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [インナーダイアログ](https://open.spotify.com/album/1jmlZ6JfnYsgzi6WGnYXmh) | 5:25 | 2023-04-18 | 2023-04-20 |
 | [カスミソウ](https://open.spotify.com/track/5ZcXYs8O3q6melv9GF5VEd) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [カスミソウ](https://open.spotify.com/album/7aEiuGRM1CVprvce4RkQ15) | 3:42 | 2022-11-13 | 2023-03-01 |
@@ -643,7 +645,7 @@
 | [一弦](https://open.spotify.com/track/05uQEjzJxKTpGXbB0el7lX) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [oidaki](https://open.spotify.com/album/5ruTjVEuHfYAsVcV53GIU9) | 3:34 | 2023-02-21 | 2023-04-09 |
 | [一筋差す](https://open.spotify.com/track/3nUxOIrdcQ63xKVg0PpXzn) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [一筋差す](https://open.spotify.com/album/1GxaPl9ZoBUyicgM43GUUm) | 3:05 | 2022-12-31 | 2023-01-13 |
 | [世田谷代田](https://open.spotify.com/track/27B6088aPHsSSEyQ7wMcZ8) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [世田谷代田](https://open.spotify.com/album/5hRvRnJcXZkJsV5yA8xE7V) | 4:46 | 2022-03-22 | 2022-05-11 |
-| [世界が僕を嫌いになっても \(2023 ver.\)](https://open.spotify.com/track/4PrieVZcLYKhv90hNGt9i9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [世界が僕を嫌いになっても \(2023 ver.\)](https://open.spotify.com/album/0vbubUchyOq3wbOG0MZIQK) | 4:32 | 2023-04-27 |  |
+| [世界が僕を嫌いになっても \(2023 ver.\)](https://open.spotify.com/track/4PrieVZcLYKhv90hNGt9i9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [世界が僕を嫌いになっても \(2023 ver.\)](https://open.spotify.com/album/0vbubUchyOq3wbOG0MZIQK) | 4:32 | 2023-04-27 | 2023-04-29 |
 | [世間の歩き方 \-The Guide to Life in Public\-](https://open.spotify.com/track/1GWnxsoRijVWpxRCgD4OBj) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [世間の歩き方 \-The Guide to Life in Public\-](https://open.spotify.com/album/2Izrvd9XdffSNVZCnJaHdi) | 3:38 | 2022-02-17 | 2022-03-02 |
 | [二人の答え](https://open.spotify.com/track/0BcAenJKFywFoN2iStmt33) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM), [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [日々は季節をめくって](https://open.spotify.com/album/2tPoolR1yMJTg72mRl1WD6) | 4:17 | 2022-11-08 | 2023-01-13 |
 | [交差点](https://open.spotify.com/track/2OSlif0ZfiSjEWpDMFE5PA) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [交差点](https://open.spotify.com/album/61dC5V6eLuvLGpJKZqLSWO) | 4:29 | 2022-03-01 | 2022-03-23 |

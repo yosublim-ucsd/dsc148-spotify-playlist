@@ -784,7 +784,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 181356,
       "name": "Loco (Version Mariachi)",
       "url": "https://open.spotify.com/track/1n2PoW1W7t6u2OtHPfYHYq"
@@ -932,6 +932,28 @@
       "duration_ms": 200040,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/7AorFcJZgjpAdfLbKF95YF"
+    },
+    {
+      "album": {
+        "name": "El de los Cuernos de Chivo",
+        "url": "https://open.spotify.com/album/1o8Wwo3txBEGvhHqNDK8SQ"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        },
+        {
+          "name": "Los Leopardos Del Norte",
+          "url": "https://open.spotify.com/artist/07s5F9MdKBJVPg2NtCFA5j"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123668,
+      "name": "Por Ti Prietita",
+      "url": "https://open.spotify.com/track/0KudKgGZQJUz7mvLYxeZv4"
     },
     {
       "album": {

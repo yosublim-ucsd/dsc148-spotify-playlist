@@ -1432,7 +1432,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 131276,
       "name": "Chasing Love",
       "url": "https://open.spotify.com/track/5HCMc28iow2u67EgxHejfZ"
@@ -1936,7 +1936,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 182222,
       "name": "Curious Morning",
       "url": "https://open.spotify.com/track/5lZyYNi8OfFWKiX1p9zDQP"
@@ -1972,7 +1972,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 130024,
       "name": "Dakota",
       "url": "https://open.spotify.com/track/7pR7yPgbYcipmTUHT5g68p"
@@ -4032,7 +4032,7 @@
       ],
       "date_added": "2020-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 222000,
       "name": "Hypnagogia Well",
       "url": "https://open.spotify.com/track/2jpL7mFOMzRnbaSj790BfQ"
@@ -4576,6 +4576,24 @@
       "duration_ms": 180689,
       "name": "Kaolnite",
       "url": "https://open.spotify.com/track/4fItBSHKBcgKWixN1Idie5"
+    },
+    {
+      "album": {
+        "name": "Keep It Together",
+        "url": "https://open.spotify.com/album/6UBjXJGSkp2eFCWmJc6GLN"
+      },
+      "artists": [
+        {
+          "name": "Na\u00f3mi Sun",
+          "url": "https://open.spotify.com/artist/4KWsYCRBojWuRg9TWP7Vqu"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135700,
+      "name": "Keep It Together",
+      "url": "https://open.spotify.com/track/5IYnFJVBmhQGGluaHAHZaf"
     },
     {
       "album": {
@@ -6250,7 +6268,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 183181,
       "name": "Open Fields",
       "url": "https://open.spotify.com/track/24CJS73HBvYtVguUZBnyAn"
@@ -8108,7 +8126,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 186542,
       "name": "Suhpratti",
       "url": "https://open.spotify.com/track/4A6C6K8c8IukPda2f0rI8J"
@@ -9178,7 +9196,7 @@
       ],
       "date_added": "2019-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 116007,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/2dqeTHHeyLioSSCn9L3xbc"

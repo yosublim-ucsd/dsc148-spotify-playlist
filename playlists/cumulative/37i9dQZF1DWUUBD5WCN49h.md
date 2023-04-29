@@ -4,7 +4,7 @@
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu?si=lXygR8XNTOmWchcoEDKwcQ"> Suté Iwar</a>
 
-370 songs - 18 hr 22 min
+371 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Addicted](https://open.spotify.com/track/1L2WtJL0cZQFWWl0JvXWhK) | [Josh Dre](https://open.spotify.com/artist/03764xHwcDofSPmUTP3LK6) | [Addicted](https://open.spotify.com/album/5wIsI33BxVQC0bJFfETjR6) | 3:41 | 2022-12-02 | 2023-02-11 |
 | [Addicted](https://open.spotify.com/track/0sBGPSNKWP1a8DUHbgkGeS) | [YungAce](https://open.spotify.com/artist/2wyVEXXTxGKgx6fZYReUzO) | [Addicted](https://open.spotify.com/album/7kKLblSvwgfS78ZSir4pUo) | 2:24 | 2023-02-10 | 2023-02-24 |
 | [Again](https://open.spotify.com/track/6zDZvJJRxofaA7c9ombPIH) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc) | [Again](https://open.spotify.com/album/0FbNfX2DcyFNvgrSe0ZLba) | 3:04 | 2023-03-10 |  |
+| [All me want](https://open.spotify.com/track/7adgAmDZIKq3qfEEty0xD4) | [Badman Dafe](https://open.spotify.com/artist/1aSWLzulwEXGJ6fkx6N4o3) | [All me want](https://open.spotify.com/album/6jvig8XxQpR6CiA44lASt4) | 2:21 | 2023-04-28 |  |
 | [Alone](https://open.spotify.com/track/4NAEUOMQAGzQ5qO7pzZSjn) | [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [Alone](https://open.spotify.com/album/174mHmspreZdu8DOUGwFHg) | 2:46 | 2022-06-30 | 2022-12-09 |
 | [Already](https://open.spotify.com/track/33tWiffFIoxx7uoIFbqKjn) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Amexin](https://open.spotify.com/artist/2IKBoibZDvoYFcmUV4wELI) | [Already](https://open.spotify.com/album/5FzcG2ckb02UCAkt2QF12y) | 2:47 | 2023-01-20 | 2023-04-28 |
 | [Alright](https://open.spotify.com/track/7BNlmLj1MYpOt6vccfSch6) | [Tibu](https://open.spotify.com/artist/4N1R7xLRHuniYlZADe2767) | [After Hours](https://open.spotify.com/album/2pAvG0vKCrtWtLVYbScV5i) | 3:31 | 2023-02-03 | 2023-02-11 |
@@ -100,7 +101,7 @@
 | [Elastic](https://open.spotify.com/track/5m4cCMBhJYLhWUDh6dmQkp) | [SOLU](https://open.spotify.com/artist/6HLMSqpfFuN2s2AW04nyCt), [Nana Dinero](https://open.spotify.com/artist/7AAizi9ZwavkXbtg7MLeIx), [Klue](https://open.spotify.com/artist/4EtGe6B8EF4QeSK3m8nNNg), [Zel X](https://open.spotify.com/artist/7wvdLJerMHrlCnpVo7zdmt) | [Elastic](https://open.spotify.com/album/1pTw4tFwUjDXXZBCLtQ4aS) | 2:31 | 2023-02-03 | 2023-02-17 |
 | [Emu Oguro](https://open.spotify.com/track/6vFtcu7AenyFL4wBdDdOOZ) | [Dolapo Martins](https://open.spotify.com/artist/4I7iWiZjm7vAJvePf3iRQT) | [Emu Oguro](https://open.spotify.com/album/5XDeRDMJP5DYQ2LfZD9uP5) | 3:13 | 2023-03-31 | 2023-04-15 |
 | [Energy Deluxe](https://open.spotify.com/track/6d9Y2I0IkTJmidbK7XXwtK) | [PhanxxSungChild](https://open.spotify.com/artist/0uqYSiKFzfhX67Grz9r2Fx), [Kristina Ray](https://open.spotify.com/artist/53AGyRLNiAqPKiFrdtbnZo) | [Energy Deluxe](https://open.spotify.com/album/3Iik7ZP7wYDFgZeOVtHcM5) | 3:28 | 2023-02-16 | 2023-03-18 |
-| [Escape](https://open.spotify.com/track/2syWCWxrwfqBqBLKMRCb1N) | [Novemba](https://open.spotify.com/artist/2Eiiy3N1dxC8elC8kIkoHJ) | [Escapade](https://open.spotify.com/album/5Crdlhgl0QFmuOGxfTvjke) | 3:14 | 2023-01-13 |  |
+| [Escape](https://open.spotify.com/track/2syWCWxrwfqBqBLKMRCb1N) | [Novemba](https://open.spotify.com/artist/2Eiiy3N1dxC8elC8kIkoHJ) | [Escapade](https://open.spotify.com/album/5Crdlhgl0QFmuOGxfTvjke) | 3:14 | 2023-01-13 | 2023-04-29 |
 | [Evergreen](https://open.spotify.com/track/5h9qLZBQSuSrpNlOQldU86) | [UAX](https://open.spotify.com/artist/5KIcYbv98M0MozhLs5lHnT) | [Evergreen](https://open.spotify.com/album/6ApVH27GE5u86dQs11WiuB) | 2:44 | 2023-04-14 |  |
 | [Every Girl’s Boyfriend](https://open.spotify.com/track/236uspPWnM0MLm6dHooe34) | [Xbusta](https://open.spotify.com/artist/4MXhHvUOSehGxYEXHioArJ) | [Every Girl’s Boyfriend](https://open.spotify.com/album/0tGRl65KAW1eXqn5ZOU25H) | 2:44 | 2022-09-29 | 2022-10-14 |
 | [Everything](https://open.spotify.com/track/6XdD9cvWoitwEGtCkZHeck) | [Vïceroy](https://open.spotify.com/artist/7p2jD6PBT4zUbfWmaWOXoo) | [Everything](https://open.spotify.com/album/6u4PXo0s9gMMUW35Hq56Je) | 1:58 | 2023-01-13 | 2023-01-20 |

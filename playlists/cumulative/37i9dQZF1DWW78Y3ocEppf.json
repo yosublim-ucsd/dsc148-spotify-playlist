@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "Let the songs speak. Cover: DRAM",
+  "description": "Let the songs speak. Cover: Sy Ari Da Kid",
   "name": "Some Kinda Way",
   "tracks": [
     {
@@ -198,7 +198,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 242222,
       "name": "A B****",
       "url": "https://open.spotify.com/track/2oPfGV1t4GfNk0M0h2yIFd"
@@ -1400,6 +1400,24 @@
       "duration_ms": 183133,
       "name": "Closure (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/4QZlnnZzr2ikWn4jdiyFfk"
+    },
+    {
+      "album": {
+        "name": "Acceptance",
+        "url": "https://open.spotify.com/album/4UQeISwHr20Fxmz6UiMT6E"
+      },
+      "artists": [
+        {
+          "name": "Young Deji",
+          "url": "https://open.spotify.com/artist/1t5tAYJj9NvTlAYjj7wXwX"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159385,
+      "name": "Cocaina",
+      "url": "https://open.spotify.com/track/5ZIFTynXkVLyMtB0nGsrGZ"
     },
     {
       "album": {
@@ -3301,6 +3319,24 @@
     },
     {
       "album": {
+        "name": "Toxicity At It's Finest (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1NgMOYIBY8EvNWNGNoT8Gf"
+      },
+      "artists": [
+        {
+          "name": "Sy Ari Da Kid",
+          "url": "https://open.spotify.com/artist/5ZI5pbnKxA6Qy1fVNsjCp0"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198501,
+      "name": "Grand Rising",
+      "url": "https://open.spotify.com/track/1QAZDfOQHp63hkoJqKSM6n"
+    },
+    {
+      "album": {
         "name": "Mama's Gun",
         "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
       },
@@ -4565,6 +4601,28 @@
     },
     {
       "album": {
+        "name": "Lethal Weapon (feat. Gemaine)",
+        "url": "https://open.spotify.com/album/6qxZ2LgzTGVSmLOOLjI5LT"
+      },
+      "artists": [
+        {
+          "name": "Lily Massie",
+          "url": "https://open.spotify.com/artist/2kQ4RPZzQ5YVAcWNC162x9"
+        },
+        {
+          "name": "Gemaine",
+          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206002,
+      "name": "Lethal Weapon (feat. Gemaine)",
+      "url": "https://open.spotify.com/track/6fN1VPY1mndv67dhGXbJWc"
+    },
+    {
+      "album": {
         "name": "Letter To Ur Ex",
         "url": "https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf"
       },
@@ -5288,7 +5346,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 149020,
       "name": "New Nigga",
       "url": "https://open.spotify.com/track/03sBdwtbA0t5mGOcqHxBXB"
@@ -7550,7 +7608,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 219500,
       "name": "Strip for You (feat. Vedo)",
       "url": "https://open.spotify.com/track/5KyaW4SQOARjggwgcSvcrI"

@@ -1476,7 +1476,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 128918,
       "name": "Pulse",
       "url": "https://open.spotify.com/track/20C59ZiRbuRZIY2Xbup9Wl"
@@ -2288,6 +2288,24 @@
       "duration_ms": 162711,
       "name": "Your Way",
       "url": "https://open.spotify.com/track/6FDJwjtEaug5O8F8R1j5A4"
+    },
+    {
+      "album": {
+        "name": "Soyogu",
+        "url": "https://open.spotify.com/album/0udr94g55aVGIq8zXy60X7"
+      },
+      "artists": [
+        {
+          "name": "Michiru Aoyama",
+          "url": "https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "yuugata",
+      "url": "https://open.spotify.com/track/65pNFP4VlE4PFKuEKbkpT4"
     },
     {
       "album": {

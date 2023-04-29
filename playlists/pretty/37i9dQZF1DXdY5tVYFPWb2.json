@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 139519,
+  "num_followers": 139576,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGUwMTdjNTE1ZjAwNTk4M2M2OGVkMDQ5MzA0N2VlNmE0NWM1ZjY2",
+  "snapshot_id": "MCwzN2I2ZmY2NGU5NzIwZmNlZmQ5NWI3NDhlNTM2ZTQzYmNiOTNiNDY2",
   "tracks": [
     {
       "added_at": "2023-04-27 15:00:00",
@@ -871,38 +871,6 @@
     {
       "added_at": "2023-04-27 15:00:00",
       "album": {
-        "name": "Nightmare",
-        "url": "https://open.spotify.com/album/6BNkiD2XOV1g2BZGHSOKQJ"
-      },
-      "artists": [
-        {
-          "name": "Kiyotaka Sugiyama",
-          "url": "https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC"
-        }
-      ],
-      "duration_ms": 337573,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/58Zd2a3J4bLMV2iPTHZSSO"
-    },
-    {
-      "added_at": "2023-04-27 15:00:00",
-      "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/0omU25qz419rVoQj8b2ePf"
-      },
-      "artists": [
-        {
-          "name": "yonawo",
-          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
-        }
-      ],
-      "duration_ms": 313561,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/171kFwAAFjLusKsyR2p1kp"
-    },
-    {
-      "added_at": "2023-04-27 15:00:00",
-      "album": {
         "name": "U.F.O",
         "url": "https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0"
       },
@@ -923,18 +891,34 @@
     {
       "added_at": "2023-04-27 15:00:00",
       "album": {
-        "name": "Solotrip",
-        "url": "https://open.spotify.com/album/56pMu3efEN0UjMQ55cDDCo"
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/0omU25qz419rVoQj8b2ePf"
       },
       "artists": [
         {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
         }
       ],
-      "duration_ms": 192142,
-      "name": "Solotrip",
-      "url": "https://open.spotify.com/track/0r3bAaZO1NsoKcWMT6zfEL"
+      "duration_ms": 313561,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/171kFwAAFjLusKsyR2p1kp"
+    },
+    {
+      "added_at": "2023-04-27 15:00:00",
+      "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/6BNkiD2XOV1g2BZGHSOKQJ"
+      },
+      "artists": [
+        {
+          "name": "Kiyotaka Sugiyama",
+          "url": "https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC"
+        }
+      ],
+      "duration_ms": 337573,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/58Zd2a3J4bLMV2iPTHZSSO"
     },
     {
       "added_at": "2023-04-27 15:00:00",
@@ -951,6 +935,22 @@
       "duration_ms": 201642,
       "name": "Amber",
       "url": "https://open.spotify.com/track/39KmklB5budgAsuow00krX"
+    },
+    {
+      "added_at": "2023-04-27 15:00:00",
+      "album": {
+        "name": "Solotrip",
+        "url": "https://open.spotify.com/album/56pMu3efEN0UjMQ55cDDCo"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 192142,
+      "name": "Solotrip",
+      "url": "https://open.spotify.com/track/0r3bAaZO1NsoKcWMT6zfEL"
     },
     {
       "added_at": "2023-04-27 15:00:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-04-27 15:00:00",
       "album": {
+        "name": "I'm In Love",
+        "url": "https://open.spotify.com/album/79kiFZwsTsMA0R3GvMIiw0"
+      },
+      "artists": [
+        {
+          "name": "haruno",
+          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
+        }
+      ],
+      "duration_ms": 190141,
+      "name": "I'm In Love",
+      "url": "https://open.spotify.com/track/6WDzwUTAOcCRVTiOi87yO3"
+    },
+    {
+      "added_at": "2023-04-27 15:00:00",
+      "album": {
         "name": "AURORA TOKIO",
         "url": "https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R"
       },
@@ -1071,6 +1087,22 @@
     {
       "added_at": "2023-04-27 15:00:00",
       "album": {
+        "name": "ADVENTURE",
+        "url": "https://open.spotify.com/album/1VBTH11KSAOmymdocgM4qR"
+      },
+      "artists": [
+        {
+          "name": "Momoko Kikuchi",
+          "url": "https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs"
+        }
+      ],
+      "duration_ms": 279240,
+      "name": "Adventure",
+      "url": "https://open.spotify.com/track/0pDqeRO43GzZTNqrMbahJl"
+    },
+    {
+      "added_at": "2023-04-27 15:00:00",
+      "album": {
         "name": "\u5f37\u304f\u511a\u3044\u8005\u305f\u3061",
         "url": "https://open.spotify.com/album/4nirXTonRjgnjwfc9vCg6J"
       },
@@ -1087,38 +1119,6 @@
       "duration_ms": 227253,
       "name": "\u5f37\u304f\u511a\u3044\u8005\u305f\u3061",
       "url": "https://open.spotify.com/track/2ivtIgteLtEs6Z0UDSVsGU"
-    },
-    {
-      "added_at": "2023-04-27 15:00:00",
-      "album": {
-        "name": "I'm In Love",
-        "url": "https://open.spotify.com/album/79kiFZwsTsMA0R3GvMIiw0"
-      },
-      "artists": [
-        {
-          "name": "haruno",
-          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
-        }
-      ],
-      "duration_ms": 190141,
-      "name": "I'm In Love",
-      "url": "https://open.spotify.com/track/6WDzwUTAOcCRVTiOi87yO3"
-    },
-    {
-      "added_at": "2023-04-27 15:00:00",
-      "album": {
-        "name": "ADVENTURE",
-        "url": "https://open.spotify.com/album/1VBTH11KSAOmymdocgM4qR"
-      },
-      "artists": [
-        {
-          "name": "Momoko Kikuchi",
-          "url": "https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs"
-        }
-      ],
-      "duration_ms": 279240,
-      "name": "Adventure",
-      "url": "https://open.spotify.com/track/0pDqeRO43GzZTNqrMbahJl"
     },
     {
       "added_at": "2023-04-27 15:00:00",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2023-04-27 15:00:00",
       "album": {
+        "name": "tonun 2",
+        "url": "https://open.spotify.com/album/0N00X1lERWXeDOcu8Fhid3"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 205253,
+      "name": "Amber Bare Skin",
+      "url": "https://open.spotify.com/track/2lvZHA4ic46LLgBJjEClD1"
+    },
+    {
+      "added_at": "2023-04-27 15:00:00",
+      "album": {
         "name": "A.Y.A e.p",
         "url": "https://open.spotify.com/album/0DqIJCwOCkKi4HLuxuSbn3"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 273719,
       "name": "Rain Of Your Heart",
       "url": "https://open.spotify.com/track/15ZcdsP8WZcifDH1AwAm9O"
-    },
-    {
-      "added_at": "2023-04-27 15:00:00",
-      "album": {
-        "name": "\u3053\u306e\u4e2d\u3067",
-        "url": "https://open.spotify.com/album/4tE6yGPwcQ93uWrrF70GN3"
-      },
-      "artists": [
-        {
-          "name": "Miyake Ken",
-          "url": "https://open.spotify.com/artist/6jxv5njEC0TQ7R6zYvcmHb"
-        }
-      ],
-      "duration_ms": 248280,
-      "name": "\u3053\u306e\u4e2d\u3067",
-      "url": "https://open.spotify.com/track/3l9fQYoLOqtuT9VKrNSkW0"
     },
     {
       "added_at": "2023-04-27 15:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-04-27 15:00:00",
       "album": {
-        "name": "tonun 2",
-        "url": "https://open.spotify.com/album/0N00X1lERWXeDOcu8Fhid3"
-      },
-      "artists": [
-        {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
-        }
-      ],
-      "duration_ms": 205253,
-      "name": "Amber Bare Skin",
-      "url": "https://open.spotify.com/track/2lvZHA4ic46LLgBJjEClD1"
-    },
-    {
-      "added_at": "2023-04-27 15:00:00",
-      "album": {
         "name": "Good Morning",
         "url": "https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R"
       },
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2023-04-27 15:00:00",
       "album": {
+        "name": "\u3053\u306e\u4e2d\u3067",
+        "url": "https://open.spotify.com/album/4tE6yGPwcQ93uWrrF70GN3"
+      },
+      "artists": [
+        {
+          "name": "Miyake Ken",
+          "url": "https://open.spotify.com/artist/6jxv5njEC0TQ7R6zYvcmHb"
+        }
+      ],
+      "duration_ms": 248280,
+      "name": "\u3053\u306e\u4e2d\u3067",
+      "url": "https://open.spotify.com/track/3l9fQYoLOqtuT9VKrNSkW0"
+    },
+    {
+      "added_at": "2023-04-27 15:00:00",
+      "album": {
         "name": "friends",
         "url": "https://open.spotify.com/album/6fxDSk0nnIRStLtvRRGJl8"
       },
@@ -1519,6 +1519,22 @@
       "duration_ms": 229653,
       "name": "friends",
       "url": "https://open.spotify.com/track/0K958nrYqQ94HznXAQ8cWi"
+    },
+    {
+      "added_at": "2023-04-27 15:00:00",
+      "album": {
+        "name": "Happy Sad",
+        "url": "https://open.spotify.com/album/3JKIClnWT8iBjb6IOiPDmQ"
+      },
+      "artists": [
+        {
+          "name": "FIVE NEW OLD",
+          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
+        }
+      ],
+      "duration_ms": 170294,
+      "name": "Happy Sad",
+      "url": "https://open.spotify.com/track/7APs1QSzMsX4STHf4ZJnxp"
     },
     {
       "added_at": "2023-04-27 15:00:00",
@@ -1543,22 +1559,6 @@
     {
       "added_at": "2023-04-27 15:00:00",
       "album": {
-        "name": "Happy Sad",
-        "url": "https://open.spotify.com/album/3JKIClnWT8iBjb6IOiPDmQ"
-      },
-      "artists": [
-        {
-          "name": "FIVE NEW OLD",
-          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
-        }
-      ],
-      "duration_ms": 170294,
-      "name": "Happy Sad",
-      "url": "https://open.spotify.com/track/7APs1QSzMsX4STHf4ZJnxp"
-    },
-    {
-      "added_at": "2023-04-27 15:00:00",
-      "album": {
         "name": "TWO",
         "url": "https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO"
       },
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-04-27 15:00:00",
       "album": {
-        "name": "Danceless Island",
-        "url": "https://open.spotify.com/album/1syVDDqzi6brKX5hosWs8u"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Danceless Island",
-      "url": "https://open.spotify.com/track/1HveaXiH8hnI1spsowkeCL"
-    },
-    {
-      "added_at": "2023-04-27 15:00:00",
-      "album": {
         "name": "PLASMA",
         "url": "https://open.spotify.com/album/4gqRmcXiuzlxB9nEnFiK4y"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 376533,
       "name": "Drive\u2019n The Rain",
       "url": "https://open.spotify.com/track/5PixDfOQbLTEG2YFPcXA1e"
+    },
+    {
+      "added_at": "2023-04-27 15:00:00",
+      "album": {
+        "name": "Danceless Island",
+        "url": "https://open.spotify.com/album/1syVDDqzi6brKX5hosWs8u"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Danceless Island",
+      "url": "https://open.spotify.com/track/1HveaXiH8hnI1spsowkeCL"
     },
     {
       "added_at": "2023-04-27 15:00:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-04-27 15:00:00",
       "album": {
-        "name": "\u30e4\u30c3\u30c1\u30de\u30a4\u30ca!",
-        "url": "https://open.spotify.com/album/7LrZpZh8gj3P5cHEon11UI"
-      },
-      "artists": [
-        {
-          "name": "\u30d5\u30ec\u30f3\u30ba",
-          "url": "https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh"
-        }
-      ],
-      "duration_ms": 188709,
-      "name": "\u30e4\u30c3\u30c1\u30de\u30a4\u30ca!",
-      "url": "https://open.spotify.com/track/7zdHVg51ysEcEgOUT3ewpb"
-    },
-    {
-      "added_at": "2023-04-27 15:00:00",
-      "album": {
         "name": "Left Alone feat. \u571f\u5c90\u9ebb\u5b50",
         "url": "https://open.spotify.com/album/1UBA1poMb5uU40hvC6ld9r"
       },
@@ -1743,6 +1727,26 @@
       "duration_ms": 250400,
       "name": "Left Alone feat. \u571f\u5c90\u9ebb\u5b50",
       "url": "https://open.spotify.com/track/1lIbuuAIcqM0Ft7nHixt25"
+    },
+    {
+      "added_at": "2023-04-27 15:00:00",
+      "album": {
+        "name": "your room",
+        "url": "https://open.spotify.com/album/3JijWekYCz4gBkWB1jFeX6"
+      },
+      "artists": [
+        {
+          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
+          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
+        },
+        {
+          "name": "Mikeneko Homeless",
+          "url": "https://open.spotify.com/artist/2I9uX6V9umuZP9CH5ufBEB"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "your room",
+      "url": "https://open.spotify.com/track/0ny70e6ql2HOEmQVfnWI8N"
     },
     {
       "added_at": "2023-04-27 15:00:00",

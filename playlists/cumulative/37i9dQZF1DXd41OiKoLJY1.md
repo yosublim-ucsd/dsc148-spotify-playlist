@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Aaron Obra Artwork: Isu Kim
 
-1,118 songs - 2 day 18 hr 46 min
+1,119 songs - 2 day 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -530,6 +530,7 @@
 | [Kompletos Rekados](https://open.spotify.com/track/11UAVqbEwWNtmTWoWmuuM7) | [SNG On Da Track](https://open.spotify.com/artist/497uh8Q5OmAzaNpaZDVL35), [Rish Mel](https://open.spotify.com/artist/2ENtIAo6CMZB7bLmJj3Owf), [Big Drimm](https://open.spotify.com/artist/3VbppAr11BTMOgcltTTDqZ), [Rove](https://open.spotify.com/artist/4xWG2T3Q14InL7VoQbthUB), [Abat](https://open.spotify.com/artist/4zHrke1vCIgYcWeSO5vfEr) | [Kompletos Rekados](https://open.spotify.com/album/2Rw1EwXRvceQoCRT2KHVGv) | 3:43 | 2023-04-13 |  |
 | [Kulay](https://open.spotify.com/track/3J32OU1Sx6PkFTZfxVKyLl) | [KYRT.](https://open.spotify.com/artist/6r19U1nFGfYHgO8rI5ycLs) | [Kulay](https://open.spotify.com/album/0W6U3ItYhykwTScAGd1QBf) | 3:13 | 2023-02-09 | 2023-02-17 |
 | [Kulet](https://open.spotify.com/track/1LIHsueuahhzNWb1TRaZQf) | [Fateeha](https://open.spotify.com/artist/3UcBSssnznTxEyznb5C5z8) | [Kulet](https://open.spotify.com/album/6S7jTg2RjVsyXtOos0sEvr) | 3:24 | 2022-08-19 | 2022-09-23 |
+| [Kung mayaman lang ako](https://open.spotify.com/track/3wcCuldo3kT47C9hZfoSaD) | [Uncle Dags](https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l) | [Kung mayaman lang ako](https://open.spotify.com/album/0r8XVbx36ukJ8dMDCuudbS) | 2:48 | 2023-04-27 |  |
 | [Kung Napapagod Ka](https://open.spotify.com/track/2knkrIxnrHQ92M3rYzoeTC) | [Petsanity](https://open.spotify.com/artist/1OVaCQucAYwylVm6HxeqXm), [Ian Angeles](https://open.spotify.com/artist/6IxJnxBngSEJOBexOeM0Kj), [Steven Peregrina](https://open.spotify.com/artist/5KrSUjqj2SRoveNRwgm2rZ) | [Kung Napapagod Ka](https://open.spotify.com/album/0GbQxyblzhTIeMGLS53FQi) | 4:33 | 2023-03-16 | 2023-04-07 |
 | [Kung Nasa'n Ka Man](https://open.spotify.com/track/4YQa1Ov5dO26UBiQ9HmicI) | [mirasol](https://open.spotify.com/artist/1EvvsCwJnJeYlEJeffzSAl) | [Ang Buwan Na May Liwanag Sa Gabi, Ang Oras Na Walang Pagsisisi.](https://open.spotify.com/album/0IcK8GvnXRU0PZYhyqzOIx) | 4:04 | 2022-01-13 | 2022-02-11 |
 | [Kung Sakali Lang](https://open.spotify.com/track/3AEbulG1jUZ94z6E3QxpOi) | [Jude Pastor](https://open.spotify.com/artist/476EcJSai8XaduuaLuneiW) | [Kung Sakali Lang](https://open.spotify.com/album/09Flm1k4e3vsvzcEvrSugp) | 4:22 | 2023-03-16 | 2023-04-07 |

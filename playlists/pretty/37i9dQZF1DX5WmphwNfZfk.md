@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: Zeina
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,185 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,194 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 27 | [LIFE OF LUST](https://open.spotify.com/track/4TP5vupmMspaP4PBULDT8N) | [COTIS](https://open.spotify.com/artist/63CZNEytugjFnZBdjBmWc8) | [LIFE OF LUST](https://open.spotify.com/album/3hGT0EPp0JLqtD9PK0mv3n) | 2:18 |
 | 28 | [Ghini](https://open.spotify.com/track/00FJ5yEF2dIPNfU1HsYrc7) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Ghini](https://open.spotify.com/album/5OXJX7joS4bXunacsHcTTu) | 2:29 |
 | 29 | [Rebel Child](https://open.spotify.com/track/6dXaVKAmAwZOkjZMAvXiqy) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [A Traveler's Lament](https://open.spotify.com/album/5Y9jJvKOoXP2AtjrePET8o) | 3:49 |
-| 30 | [Cheese](https://open.spotify.com/track/70Ui5PlefBqCOW3uvqNRAa) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Crispy Crunchy Nothing](https://open.spotify.com/album/0cJXjTHI3rmuDoeSNb0YeU) | 2:19 |
+| 30 | [Cheese](https://open.spotify.com/track/1MD78xqTQoIXvZCn0CFyvF) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Crispy Crunchy Nothing](https://open.spotify.com/album/6iZCdzygVnM4rMAPNW5I5F) | 2:19 |
 | 31 | [GLT Freestyle](https://open.spotify.com/track/2KiH3ZHLrWifFpmtzz9veg) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [GLT Freestyle](https://open.spotify.com/album/5YdDjGB5ARWBpHkna6ZyJr) | 2:28 |
 | 32 | [we are one and this is forever](https://open.spotify.com/track/5TpRxgTH3nlJXaa6xqk5IA) | [Mandaworld](https://open.spotify.com/artist/2N6Ed6g2uFyP2D03Bxo3x3) | [For Emotional Use Only](https://open.spotify.com/album/0Nd2F0PQUbQOKVOHUSc4uz) | 2:39 |
 | 33 | [We Make Sense](https://open.spotify.com/track/6Uv0pRytdE99Op5MYIfiJs) | [LAVI$H](https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32) | [We Make Sense](https://open.spotify.com/album/7pD9IBIvAiHjT4nKKnA3D1) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [It's The Life](https://open.spotify.com/track/17vvwuzQ2enu7fL93nexIP) | [Fleece](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [It's The Life](https://open.spotify.com/album/0povJrlVpXe4j2HgW6SvEh) | 2:37 |
 | 50 | [Your Friday Night](https://open.spotify.com/track/64c0SxMQsaYgzghaS7inLw) | [Jason Benoit](https://open.spotify.com/artist/0Xi32ldFYxsc4g2vQ7b20w) | [Time Traveller \- The Album](https://open.spotify.com/album/2HbQQ5TmHk2TjcVlHajf1D) | 3:16 |
 
-Snapshot ID: `MCw4ZmRlYWZiZjczMTY5ZDVlNzY3YTAyOTgzMzI4NmE2YWMzYTYwZDQ3`
+Snapshot ID: `MCw3NGVkNzY0NGQ0Nzc2NDI0NTlmYjI4NjVhYTBlMDNkODg4ODgzZjAx`

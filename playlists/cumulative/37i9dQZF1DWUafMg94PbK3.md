@@ -4,7 +4,7 @@
 
 > If you're driving a car, flying a plane, or riding a bus \- these songs about transportation are for you.
 
-103 songs - 3 hr 31 min
+104 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Bus Song](https://open.spotify.com/track/0m9Ljem9PxyE6cQ5dGXfE6) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Nursery Rhymes & Children's Songs, Vol\. 15 \(Sing & Learn with LittleBabyBum\)](https://open.spotify.com/album/0E2rvJamSYembnyuuduOLc) | 1:56 | 2019-10-29 |  |
 | [Bus Song](https://open.spotify.com/track/4jVQqZszu2Rd5bk1bVZmm7) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Vehicle Songs, Vol\. 2](https://open.spotify.com/album/1VW3sLTTqeQjDpRje85ThB) | 1:56 | 2019-10-29 | 2022-07-29 |
 | [Can You Canoe?](https://open.spotify.com/track/0IjbQr3DnBtbe32g6oKnki) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Can You Canoe?](https://open.spotify.com/album/0X9kV7a991TAzgWqAsvCno) | 3:04 | 2019-10-29 | 2022-07-29 |
-| [Can You Canoe?](https://open.spotify.com/track/2pot9T6V7bZQ8EQ6PzpjC9) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Can You Canoe? A Mississippi River Adventure Album](https://open.spotify.com/album/61vBZ7aI8HfnBTTrVMC68v) | 3:04 | 2019-10-29 |  |
+| [Can You Canoe?](https://open.spotify.com/track/0WhyyOzUomECzP2vkSLmJC) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Can You Canoe? A Mississippi River Adventure Album](https://open.spotify.com/album/5RjOtvEVZ7cHpfvGoscBxd) | 3:04 | 2019-10-29 |  |
+| [Can You Canoe?](https://open.spotify.com/track/2pot9T6V7bZQ8EQ6PzpjC9) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Can You Canoe? A Mississippi River Adventure Album](https://open.spotify.com/album/61vBZ7aI8HfnBTTrVMC68v) | 3:04 | 2019-10-29 | 2023-04-29 |
 | [Choo Choo Train](https://open.spotify.com/track/3CetOnQ4zzhKZsvgv1QMBn) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Vehicle Songs, Vol 1](https://open.spotify.com/album/6M4hu1ubzcihIDsAZFnlFX) | 1:56 | 2019-10-29 | 2022-07-29 |
 | [Choo Choo Train](https://open.spotify.com/track/2dIpzVC9RzJIYca6fGcPTT) | [Patty Shukla](https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc) | [Jump, Wiggle and Hop](https://open.spotify.com/album/4uJG3vSCOT155ZdrfOsljQ) | 2:20 | 2019-10-29 |  |
 | [Choo Choo Train](https://open.spotify.com/track/1V04M7wFRFxzDlcjChlLsh) | [Patty Shukla](https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc) | [Wiggle It!](https://open.spotify.com/album/6Ir95G9kmDceHbOPeZUM9U) | 2:23 | 2019-10-29 | 2022-07-29 |

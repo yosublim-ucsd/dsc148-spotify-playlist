@@ -1,15 +1,35 @@
 {
   "description": "salvador \u00e9 AULAS ",
-  "num_followers": 1242099,
+  "num_followers": 1242146,
   "original_name": "AULAS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTY3ZmYyMzMzYjhjZmZhOWNlZWIyMzliZTFhYzMyNWUyMDkxNjQ1",
+  "snapshot_id": "MCxkNGIwYzg1MWI5MGMyZDY3OTlkNTViYWQ2ZjAwNGNjNTExMTM4N2Ri",
   "tracks": [
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
+        "name": "Aben\u00e7oado",
+        "url": "https://open.spotify.com/album/2wmoonsjdu80s2YBtu5Knr"
+      },
+      "artists": [
+        {
+          "name": "DJ Caique",
+          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
+        },
+        {
+          "name": "Matheusiddy",
+          "url": "https://open.spotify.com/artist/61Zw1DZ8Use6z9JATEiV93"
+        }
+      ],
+      "duration_ms": 149536,
+      "name": "Aben\u00e7oado",
+      "url": "https://open.spotify.com/track/4KdbIsaPbgBke0NNwcu2Te"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "S\u00f3 Quero Que Me Escute, Pt. 1",
         "url": "https://open.spotify.com/album/6yMm0cQwl7SBZVSeAXR7iu"
@@ -29,7 +49,7 @@
       "url": "https://open.spotify.com/track/0oFlsBCVASjwqcGFIzhZtC"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Me Espera",
         "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
@@ -53,7 +73,7 @@
       "url": "https://open.spotify.com/track/0571RzyEWagSsz0pA45VxJ"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Imprevisto",
         "url": "https://open.spotify.com/album/4KbiGCm9vDI0dLXwGGXktY"
@@ -77,7 +97,27 @@
       "url": "https://open.spotify.com/track/0oZrvoCYEbKGCsU7cQqNnw"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
+        "name": "Mil Motivos",
+        "url": "https://open.spotify.com/album/3qTDI8YeiQAZjQVxxkILim"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "duration_ms": 188592,
+      "name": "Mil Motivos",
+      "url": "https://open.spotify.com/track/46107kkgYPfPy8sC1WTJ6q"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "* da Anitta",
         "url": "https://open.spotify.com/album/5vrDahFF5TU32GwPMxP4SC"
@@ -101,7 +141,7 @@
       "url": "https://open.spotify.com/track/0VhG6qzFZo9JrHu56Wq7gh"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Energia",
         "url": "https://open.spotify.com/album/3BYtn3F4LyZZbXkAbkfAzp"
@@ -129,7 +169,31 @@
       "url": "https://open.spotify.com/track/4gtHqyZMvcppVuv32fXl9Y"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
+        "name": "Respeito \u00c9 Pra Quem Tem",
+        "url": "https://open.spotify.com/album/67HLqaZEz4uQoOb4Pf9uoE"
+      },
+      "artists": [
+        {
+          "name": "Sabotage",
+          "url": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        }
+      ],
+      "duration_ms": 234090,
+      "name": "Respeito \u00c9 Pra Quem Tem",
+      "url": "https://open.spotify.com/track/7yR749AmdqgnIrl393nYIo"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Dior",
         "url": "https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR"
@@ -157,27 +221,7 @@
       "url": "https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
-      "album": {
-        "name": "Mil Motivos",
-        "url": "https://open.spotify.com/album/3qTDI8YeiQAZjQVxxkILim"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        }
-      ],
-      "duration_ms": 188592,
-      "name": "Mil Motivos",
-      "url": "https://open.spotify.com/track/46107kkgYPfPy8sC1WTJ6q"
-    },
-    {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Lote 88",
         "url": "https://open.spotify.com/album/7qFrlTmb3wvGgtgeXo9flY"
@@ -201,27 +245,31 @@
       "url": "https://open.spotify.com/track/18aAhKnY56Codi4iWzcj09"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "O Retorno do Boom Bap",
-        "url": "https://open.spotify.com/album/78P3DjnaXto02ICg8AJCQU"
+        "name": "Tropa do Unlock",
+        "url": "https://open.spotify.com/album/66OyjBZ9BEkx17weB5sP0m"
       },
       "artists": [
         {
-          "name": "Haikaiss",
-          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
+          "name": "Dalsin",
+          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
         },
         {
-          "name": "Nicz",
-          "url": "https://open.spotify.com/artist/3zrfpaMeAt3fzvXkB80zE4"
+          "name": "DJ Gui",
+          "url": "https://open.spotify.com/artist/3ojbgoniv6UU4eR2HM22wK"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
         }
       ],
-      "duration_ms": 238654,
-      "name": "O Retorno do Boom Bap",
-      "url": "https://open.spotify.com/track/4lxQLYOpjDDBIcX0MBmyaa"
+      "duration_ms": 125163,
+      "name": "Tropa do Unlock",
+      "url": "https://open.spotify.com/track/02OXgwzsb4jNrcUAFbI1kO"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Jogo do Milh\u00e3o",
         "url": "https://open.spotify.com/album/3eMouVrdJSJgk1Joj172dL"
@@ -249,7 +297,7 @@
       "url": "https://open.spotify.com/track/5XvbaX4eAeNkScND1tInpr"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "O inquilino",
         "url": "https://open.spotify.com/album/0w5CdIH3n8venOuphx13yZ"
@@ -269,7 +317,7 @@
       "url": "https://open.spotify.com/track/7f3uGk70qlfUrX1n3nvSRC"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Nuvem Negra",
         "url": "https://open.spotify.com/album/5lNwerLY6IY3nJMFkIYoOd"
@@ -285,7 +333,31 @@
       "url": "https://open.spotify.com/track/1QTRxtnPMeuw9cFU6nFucO"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
+        "name": "Voc\u00ea Est\u00e1 Com Febre?",
+        "url": "https://open.spotify.com/album/7l5juy0pUDeyF9sKXt8mkL"
+      },
+      "artists": [
+        {
+          "name": "Febre90s",
+          "url": "https://open.spotify.com/artist/3Igua105OJq78XPcPKPGku"
+        },
+        {
+          "name": "pumapjl",
+          "url": "https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM"
+        },
+        {
+          "name": "SonoTWS",
+          "url": "https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE"
+        }
+      ],
+      "duration_ms": 165473,
+      "name": "Voc\u00ea Est\u00e1 Com Febre?",
+      "url": "https://open.spotify.com/track/6hC66C3uYkWWqCXBmyLpLd"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Favela Vive 5",
         "url": "https://open.spotify.com/album/0HIqiDgY7xzP0vzbg8aGT8"
@@ -317,7 +389,7 @@
       "url": "https://open.spotify.com/track/5svioJ5BlJIYfQFPT1eq7v"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "MV Bill Sessions - Dr. Drill",
         "url": "https://open.spotify.com/album/5euM5nZL5qqDuVJRmXvfjY"
@@ -345,7 +417,7 @@
       "url": "https://open.spotify.com/track/18VjBDBdbXoe0FKCCl21AH"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "O S\u00e1bio",
         "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
@@ -373,7 +445,7 @@
       "url": "https://open.spotify.com/track/6WHGZ8voLYNlgYlUyBhQm9"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Coisas Que Eu S\u00f3 Falaria Brincando",
         "url": "https://open.spotify.com/album/0YtlM9VXtus41Th3TpIONE"
@@ -401,7 +473,7 @@
       "url": "https://open.spotify.com/track/0a3Bfmq7czUFUsk2VZUA28"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Ponto30",
         "url": "https://open.spotify.com/album/78TZEQR8XQssslEdxOFnIk"
@@ -433,7 +505,7 @@
       "url": "https://open.spotify.com/track/1z32Wd0Z1wJIsgrVZxt0h2"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Respeitosamente",
         "url": "https://open.spotify.com/album/1JcZLFNFMDpXGJGVlCCJ5x"
@@ -461,7 +533,7 @@
       "url": "https://open.spotify.com/track/11Kl9alN9okNVqew0BIdQw"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Fa\u00e7a Dinheiro, Se Mantenha Vivo",
         "url": "https://open.spotify.com/album/67FpK5RVgcIG9LexjpWHv4"
@@ -481,7 +553,7 @@
       "url": "https://open.spotify.com/track/6XGN9afKuLwmXEipg53yqz"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Vim de L\u00e1",
         "url": "https://open.spotify.com/album/0FPaL1Vcjhppw7HCW0Jibb"
@@ -501,7 +573,7 @@
       "url": "https://open.spotify.com/track/4VAlW0vTLKn5YPFbEhyawL"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Primeiro Lugar do P\u00f3dio",
         "url": "https://open.spotify.com/album/0nnlmV8iDmTxj4Bon4EvNZ"
@@ -521,7 +593,7 @@
       "url": "https://open.spotify.com/track/2o3NKh8bYMKSkJmBTQo5B5"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Vida Cara",
         "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
@@ -553,7 +625,7 @@
       "url": "https://open.spotify.com/track/3AdKHZtW6IapFJRgYmBTgv"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "QVVJFA?",
         "url": "https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq"
@@ -569,7 +641,7 @@
       "url": "https://open.spotify.com/track/6MvaRZ6JZgJuXz9b1CMB1y"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Vim da Lama",
         "url": "https://open.spotify.com/album/5m9mQG6q7vWB16c4FPVoa5"
@@ -593,7 +665,7 @@
       "url": "https://open.spotify.com/track/3xEYmdp7hQKQBKOorimBs4"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Por Mim",
         "url": "https://open.spotify.com/album/2GnNEgGmlPonEmhi1SAKy6"
@@ -609,7 +681,7 @@
       "url": "https://open.spotify.com/track/5K2Xo21OoSpjA6asllBxvP"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "S\u00f3 Era N\u00f3s",
         "url": "https://open.spotify.com/album/4xm2JGYOqNOYNkHdqGG7bf"
@@ -625,31 +697,7 @@
       "url": "https://open.spotify.com/track/7nJ4wRW6vdHLR7FosmdeAT"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
-      "album": {
-        "name": "Filhas do Improv\u00e1vel",
-        "url": "https://open.spotify.com/album/10VElbFY3stDclLObB9NZ1"
-      },
-      "artists": [
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Rizzi Get Busy",
-          "url": "https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO"
-        }
-      ],
-      "duration_ms": 217142,
-      "name": "Filhas do Improv\u00e1vel",
-      "url": "https://open.spotify.com/track/1PRtKlhyg4iHT3827dGHvd"
-    },
-    {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "O Dono do Lugar",
         "url": "https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4"
@@ -673,7 +721,7 @@
       "url": "https://open.spotify.com/track/7CW1spLNtlpsLXpxpZu78C"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Bug do Mil\u00eanio (A Cone Voltou)",
         "url": "https://open.spotify.com/album/4izW6bYoT5TLnGF64JBkMi"
@@ -689,7 +737,7 @@
       "url": "https://open.spotify.com/track/2AL89TC0tGo2dxvpDjve3n"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Tocaia",
         "url": "https://open.spotify.com/album/1H86cfv3CQSqeqrg3QmjBq"
@@ -709,31 +757,7 @@
       "url": "https://open.spotify.com/track/6wb640UDLelevIzL7qjtz2"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
-      "album": {
-        "name": "Towner",
-        "url": "https://open.spotify.com/album/0DHD5E2JbEYJ9qwza5ToCb"
-      },
-      "artists": [
-        {
-          "name": "Dalsin",
-          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
-        },
-        {
-          "name": "Alaska",
-          "url": "https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7"
-        },
-        {
-          "name": "Original Quality",
-          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
-        }
-      ],
-      "duration_ms": 121363,
-      "name": "Towner",
-      "url": "https://open.spotify.com/track/1aNyb2vXdCSS21ooeDatUI"
-    },
-    {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "ICARUS",
         "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
@@ -761,7 +785,7 @@
       "url": "https://open.spotify.com/track/2Pwb1vbghtrkNBNVzlNf7N"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Pura Ilus\u00e3o",
         "url": "https://open.spotify.com/album/3X9sTASPhchWD2ThIvdyph"
@@ -785,7 +809,7 @@
       "url": "https://open.spotify.com/track/79BnBZ90gDoxrORXGU1zOY"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "O Dono do Lugar",
         "url": "https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4"
@@ -805,7 +829,7 @@
       "url": "https://open.spotify.com/track/4VC3XmGu302imYYjIJuS9L"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Sigo na F\u00e9 do Pai",
         "url": "https://open.spotify.com/album/5goTGEm2ey7n2DEa2tIcm8"
@@ -837,7 +861,7 @@
       "url": "https://open.spotify.com/track/7zcQ56JRoNd4JAwGKcrxiZ"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Movimento R\u00e1pido dos Olhos",
         "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
@@ -857,7 +881,7 @@
       "url": "https://open.spotify.com/track/2U0m94Ibhvj7UYhBfIwViP"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Cora\u00e7\u00e3o de Carro Forte",
         "url": "https://open.spotify.com/album/2KW1zlCk6DMuDEHarANoVQ"
@@ -873,23 +897,7 @@
       "url": "https://open.spotify.com/track/1Fhmi7jJSOP6GrStpJrj4t"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
-      "album": {
-        "name": "Me Diz Se Vem",
-        "url": "https://open.spotify.com/album/2bpBWh3uOTFcjEb5EcPINx"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 177612,
-      "name": "Me Diz Se Vem",
-      "url": "https://open.spotify.com/track/34nTmKkxQhgqqxoqJAMz9l"
-    },
-    {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Universo Particular",
         "url": "https://open.spotify.com/album/0Wg1HsbVatKcEZznPZ62Ev"
@@ -909,7 +917,7 @@
       "url": "https://open.spotify.com/track/2TkyXnE0OB6Yo9zuzv9B4e"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Facilitei",
         "url": "https://open.spotify.com/album/0b7ZE4V0Mxam2npJu2nYJC"
@@ -929,7 +937,7 @@
       "url": "https://open.spotify.com/track/6pIsaJ0bFpoajxz45FvopF"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Retrato #1 - O Que Eu N\u00e3o Sei",
         "url": "https://open.spotify.com/album/59vjYc18WBcUKa1wRl5bhH"
@@ -953,7 +961,7 @@
       "url": "https://open.spotify.com/track/07Kfl5a8EQdy2nxeQmQ2QZ"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Me Sinto Aben\u00e7oado",
         "url": "https://open.spotify.com/album/0CuUCSHvpqUcuXffl0rcQD"
@@ -981,7 +989,7 @@
       "url": "https://open.spotify.com/track/7HjZD0NPC1hzFpjUjo45GR"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Lideran\u00e7a",
         "url": "https://open.spotify.com/album/1VnaJPgFvfAzcQaegraRDc"
@@ -1009,7 +1017,7 @@
       "url": "https://open.spotify.com/track/7dKz6xy1ZMywmrrP5HMw8u"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Poesia Ac\u00fastica 11: Nada Mudou",
         "url": "https://open.spotify.com/album/3716y3qiVChUSJv24nvCUB"
@@ -1061,7 +1069,7 @@
       "url": "https://open.spotify.com/track/6giaOyDFbE4J8iclhCdW7E"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Deus \u00c9 o Meu Guia",
         "url": "https://open.spotify.com/album/5hBNe9L3XC3xU4pDZUtNm3"
@@ -1081,7 +1089,7 @@
       "url": "https://open.spotify.com/track/4BfppnNi6ZQTI8Ezo97zX6"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Cereja Hollywood",
         "url": "https://open.spotify.com/album/2qgahgUUb652yrlX3hqUuu"
@@ -1109,7 +1117,7 @@
       "url": "https://open.spotify.com/track/0b7uj4KMIlKCsV1sO2EAWB"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Imaterial (Deluxe)",
         "url": "https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn"
@@ -1133,7 +1141,7 @@
       "url": "https://open.spotify.com/track/68qqVn5kHBv4zc45SDGLnh"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "LITTLE HAIR",
         "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
@@ -1161,7 +1169,7 @@
       "url": "https://open.spotify.com/track/7fA1lo7delfwVjq7Ccg0fp"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Quer Voar",
         "url": "https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e"
@@ -1177,7 +1185,7 @@
       "url": "https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz"
     },
     {
-      "added_at": "2023-04-26 18:47:51",
+      "added_at": "2023-04-28 03:01:00",
       "album": {
         "name": "Vida Toda - Spotify Singles",
         "url": "https://open.spotify.com/album/0nA8Q6u0LdcF2vaJt1l3WC"

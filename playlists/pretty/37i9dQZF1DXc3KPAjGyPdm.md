@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 
 > Music from and inspired by Stranger Things\. Watch Season 4 now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,100,649 likes - 198 songs - 11 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,100,876 likes - 198 songs - 11 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 | 22 | [Separate Ways \(Worlds Apart\) \- Steve Perry & Bryce Miller Extended Remix](https://open.spotify.com/track/4QQL5qNwVZ1FctLoVqN9rn) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt), [Steve Perry](https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w) | 3:17 |
 | 23 | [What's the Internet?](https://open.spotify.com/track/7xMIdaVtT9ElM0IOgmbRVZ) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 4 \(Original Score From The Netflix Series\)](https://open.spotify.com/album/5qRG8S2ClNtl71wEf2TKPp) | 2:47 |
 | 24 | [You’re The Heart](https://open.spotify.com/track/3ukoPvhHj5GWDIiDApO3UD) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 4 \(Original Score From The Netflix Series\)](https://open.spotify.com/album/5qRG8S2ClNtl71wEf2TKPp) | 3:14 |
-| 25 | [Natty Dread On The Go](https://open.spotify.com/track/2nHoCN8OT5UWrWjGdBLX0F) | [Lone Ranger](https://open.spotify.com/artist/3Hzw8xWrukU2WgGxqZ5SV3) | [On The Other Side Of Dub \(Deluxe Version\)](https://open.spotify.com/album/7JpAENwKVKiDiZrAvnFWis) | 2:40 |
+| 25 | [Natty Dread On The Go](https://open.spotify.com/track/4pGVjKT8DdyhREiDQcFSms) | [Lone Ranger](https://open.spotify.com/artist/3Hzw8xWrukU2WgGxqZ5SV3) | [On The Other Side Of Dub \(Deluxe Version\)](https://open.spotify.com/album/3f3oCxlEaKzjKodyRXm5N6) | 2:40 |
 | 26 | [Twilight's Fires](https://open.spotify.com/track/42oCqSWKMxVnBZlJqm5YZU) | [The Red Army Choir](https://open.spotify.com/artist/4yNluGAiPbYXLwlA9KspbG) | [The CCCP Years](https://open.spotify.com/album/0VxATEaN6KiKbszFYcrPyB) | 3:19 |
 | 27 | [Up Around The Bend](https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory \(Expanded Edition\)](https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK) | 2:41 |
 | 28 | [Fine Time](https://open.spotify.com/track/0hePnybCyyhHn97nRWLgp5) | [Free Beer](https://open.spotify.com/artist/1EwicW2et3B7nOzkOmKaIT) | [Free Beer® \- Best](https://open.spotify.com/album/2yATWjO3BytnvQ1Xd0hzhL) | 3:11 |
@@ -207,4 +207,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 | 197 | [Ghostbusters](https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Arista Heritage Series: Ray Parker](https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg) | 4:00 |
 | 198 | [Eight Fifteen](https://open.spotify.com/track/7bocrcIvqXs0tBFM5VI6Rf) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B) | 1:25 |
 
-Snapshot ID: `MCxhODBhZjIzMmM2NmU5NTYyMDg3MmY2Y2YzMDBhMTM2OTY1NDIyNGNi`
+Snapshot ID: `MCw3NGY3YWFlZmYxYzBjYmY4ZGQyYzA2YjJiMmZiM2JiNjVmZmFjODgw`

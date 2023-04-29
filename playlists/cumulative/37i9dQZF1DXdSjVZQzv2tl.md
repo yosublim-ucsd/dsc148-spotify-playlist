@@ -2,7 +2,7 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Clayton & Romário, Luan Santana
+> O melhor do sertanejo em uma só playlist! Foto: Hugo & Guilherme
 
 132 songs - 6 hr 17 min
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Alfa Mist",
+  "description": "New jazz for open minds. Cover: Yussef Dayes",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -1525,6 +1525,24 @@
     },
     {
       "album": {
+        "name": "Mischief",
+        "url": "https://open.spotify.com/album/25iqoFgWQLkIYtgzs07Sws"
+      },
+      "artists": [
+        {
+          "name": "Mark Guiliana",
+          "url": "https://open.spotify.com/artist/798TUNb6IfpsZzMkkzVGu1"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473890,
+      "name": "Audience Am\u00e9ricain",
+      "url": "https://open.spotify.com/track/4GqaViuPZGR5184P1NOS11"
+    },
+    {
+      "album": {
         "name": "Auditorium",
         "url": "https://open.spotify.com/album/3gUTxP8aVrkNBG6lB2GTAf"
       },
@@ -1988,7 +2006,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 184116,
       "name": "BEZU",
       "url": "https://open.spotify.com/track/5Nvb6ZXeAoBDhXBlpDVNLK"
@@ -2134,6 +2152,32 @@
       "duration_ms": 360874,
       "name": "Black Alchemy/Hall of Mirrors",
       "url": "https://open.spotify.com/track/36tF6eoNw42PF9KsHV25wg"
+    },
+    {
+      "album": {
+        "name": "Black Classical Music (feat. Venna & Charlie Stacey)",
+        "url": "https://open.spotify.com/album/7L63PL897aTm0Xu1pt8Fbo"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Charlie Stacey",
+          "url": "https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319040,
+      "name": "Black Classical Music (feat. Venna & Charlie Stacey)",
+      "url": "https://open.spotify.com/track/3cWCTxaFlebwEnQXibNwAu"
     },
     {
       "album": {
@@ -4602,7 +4646,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 344173,
       "name": "Electric Face",
       "url": "https://open.spotify.com/track/5n42PZq02lNYjIp2PbDdHY"
@@ -4972,6 +5016,36 @@
       "duration_ms": 158143,
       "name": "Existential Being",
       "url": "https://open.spotify.com/track/0GSc04FDZiOY7DVJ3Ya1z8"
+    },
+    {
+      "album": {
+        "name": "Extra Careless",
+        "url": "https://open.spotify.com/album/32IDleorcUx73pIkV3IBeR"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Robert Sput Searight",
+          "url": "https://open.spotify.com/artist/2XI18vjUTx9nsGBHMlXxcV"
+        },
+        {
+          "name": "Mono Neon",
+          "url": "https://open.spotify.com/artist/0FlgFDbLxMB0JIAzijg1Cu"
+        },
+        {
+          "name": "Ruslan Sirota",
+          "url": "https://open.spotify.com/artist/0KSDq54pisOcm1pnpoQfGm"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170451,
+      "name": "Extra Careless",
+      "url": "https://open.spotify.com/track/08TvszYfAO8OYcpizm5R82"
     },
     {
       "album": {
@@ -10736,7 +10810,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 230250,
       "name": "Never In My Short Sweet Life",
       "url": "https://open.spotify.com/track/0ZGcGhWehtDgTNzXtS1OTj"
@@ -11248,6 +11322,32 @@
       "duration_ms": 303066,
       "name": "Older But Not Less Confused",
       "url": "https://open.spotify.com/track/1N2zt93hkfw01OeWQuSj2x"
+    },
+    {
+      "album": {
+        "name": "Quietly",
+        "url": "https://open.spotify.com/album/4aNDswPAhlIuuz6jzhKieO"
+      },
+      "artists": [
+        {
+          "name": "Antonio Zambrini",
+          "url": "https://open.spotify.com/artist/6TW82eCj0y0x0l5lyP77RL"
+        },
+        {
+          "name": "Jesper Bodilsen",
+          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
+        },
+        {
+          "name": "Martin Maretti Andersen",
+          "url": "https://open.spotify.com/artist/1pjHY4vNthS2YoK8R4Ty0G"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257962,
+      "name": "Olha Maria",
+      "url": "https://open.spotify.com/track/06J8E2lWKBGSjblUZm1sqy"
     },
     {
       "album": {
@@ -11854,7 +11954,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 207194,
       "name": "Plate",
       "url": "https://open.spotify.com/track/3vFG1ZcB68ACOdeY99aYIm"
@@ -12572,6 +12672,28 @@
       "duration_ms": 344295,
       "name": "Remembering",
       "url": "https://open.spotify.com/track/1Iqeeci1aIDfZpelLxMSni"
+    },
+    {
+      "album": {
+        "name": "Renewal",
+        "url": "https://open.spotify.com/album/53lb1aZRFeouaILyUq3sOT"
+      },
+      "artists": [
+        {
+          "name": "Slowly Rolling Camera",
+          "url": "https://open.spotify.com/artist/5kH36nIamlV0iSe6ESDWvb"
+        },
+        {
+          "name": "Josh Arcoleo",
+          "url": "https://open.spotify.com/artist/1QLZJdUJBKFcoxWa6FYWsn"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339133,
+      "name": "Renewal",
+      "url": "https://open.spotify.com/track/5IUOEqMpmnd8zQB35gDOWc"
     },
     {
       "album": {
@@ -13452,7 +13574,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 844005,
       "name": "Shadow Forces",
       "url": "https://open.spotify.com/track/0Vh8ykJFAowwy7w5ila6xC"
@@ -17302,7 +17424,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 311729,
       "name": "Un Poco Loco",
       "url": "https://open.spotify.com/track/4MYy4v2SBgzBSYQ0vg5NEE"

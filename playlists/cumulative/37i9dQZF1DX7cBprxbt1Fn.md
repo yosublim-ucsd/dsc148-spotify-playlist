@@ -2,7 +2,7 @@
 
 ### [Gentle Classical](https://open.spotify.com/playlist/37i9dQZF1DX7cBprxbt1Fn)
 
-> Gentle, relaxing <a href="spotify:genre:classical">classical</a> music.
+> Gentle, relaxing classical music.
 
 91 songs - 8 hr 1 min
 

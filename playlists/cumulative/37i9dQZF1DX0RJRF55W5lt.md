@@ -4,7 +4,7 @@
 
 > Classic anthems from a classic era\. Cover: Wookie
 
-116 songs - 9 hr 34 min
+117 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Joyrider \- Y Tribe's Underground Remix](https://open.spotify.com/track/01GLLCecGsPfuPmFHDqMCu) | [Colour Girl](https://open.spotify.com/artist/3KZJwlDEn12LcMe7y1uPlH), [Y Tribe](https://open.spotify.com/artist/2oJ21FASyQQIfQEcl4G8Nj) | [Raw Talent: 3 Years In The Makin' \(2007\-2010\)](https://open.spotify.com/album/6GvInLag1pb1mhCn11p5iw) | 3:59 | 2023-01-18 |  |
 | [Joyrider \- Y Tribe's Underground Remix \(Remastered\)](https://open.spotify.com/track/7bJa8zmm44PHf0YfAcIuKM) | [Colour Girl](https://open.spotify.com/artist/3KZJwlDEn12LcMe7y1uPlH), [Y Tribe](https://open.spotify.com/artist/2oJ21FASyQQIfQEcl4G8Nj) | [Joyrider \(Deluxe\)](https://open.spotify.com/album/5XAgyRzeHoKLKE5UPKkpfX) | 5:13 | 2022-12-28 | 2023-01-19 |
 | [Just Gets Better \- Dub](https://open.spotify.com/track/6b39Omc3UnVjD8VY6EdxaO) | [TJR](https://open.spotify.com/artist/2mOi0sQN0m20JitMkBLkWP), [Xavier](https://open.spotify.com/artist/6CO9AMgdkYPAC1rPyChGwB) | [Just Gets Better](https://open.spotify.com/album/3WSB8rJfDTxT192dR3ZXkR) | 3:35 | 2022-12-28 | 2023-01-19 |
+| [Just Gets Better \- Extended Dub](https://open.spotify.com/track/4yF939fEIyto1xOaxb6GmA) | [TJR](https://open.spotify.com/artist/2mOi0sQN0m20JitMkBLkWP), [Xavier](https://open.spotify.com/artist/6CO9AMgdkYPAC1rPyChGwB) | [Just Gets Better](https://open.spotify.com/album/3WSB8rJfDTxT192dR3ZXkR) | 7:19 | 2023-01-18 |  |
 | [Just In Case \- Dub\-A\-Holics Roller's Revival Mix Edit](https://open.spotify.com/track/6wzw5660L5NK8WAMRORDOg) | [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Summer Heat](https://open.spotify.com/album/46QSMAy6Q1fX9IirJpFDPH) | 3:39 | 2023-01-18 |  |
 | [Kinda Funky](https://open.spotify.com/track/5ABH4ccLx4VJvW5cwMcq3K) | [Jammin](https://open.spotify.com/artist/7J8jh7qiVyMn1XDCi6JSLO) | [Kinda Funky / Drifting](https://open.spotify.com/album/3FaGMdjRi9UHR0rYug6rNq) | 5:36 | 2022-12-28 | 2023-01-19 |
 | [Know We](https://open.spotify.com/track/6p9bPloBN4uahRkH9hdV9n) | [Pay As You Go Cartel](https://open.spotify.com/artist/3MVsVFX794P5jAoAnGVYXJ) | [Know We](https://open.spotify.com/album/3DxfVl1EGI4qnlsj6XhgIc) | 3:44 | 2022-12-28 | 2023-01-19 |
@@ -88,7 +89,7 @@
 | [Pleasure \- Radio Edit](https://open.spotify.com/track/2wj7trLFGECTtGmOLYFj7A) | [Brasstooth](https://open.spotify.com/artist/6mR9xd8UBMUsLmKekY5wBj), [DJ Truce](https://open.spotify.com/artist/41MxByuwqP9PVaEYNBcJGb) | [Pleasure \(DJ Truce Remixes\)](https://open.spotify.com/album/4rDeHsBTGMgJfDi7cjp1Sr) | 2:57 | 2022-12-28 | 2023-01-19 |
 | [Poision](https://open.spotify.com/track/03vwrapDLyriXEYpM1GJPj) | [DJ Luck & MC Neat](https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF), [Scott Garcia](https://open.spotify.com/artist/4pmXP4rg8C8WmWtoCWdC9b), [Shy Cookie](https://open.spotify.com/artist/65wWCNrpeb8t3A6707RG5B) | [Poision](https://open.spotify.com/album/5hZRHbGRokvmSvRFsEdLGL) | 5:05 | 2022-12-28 |  |
 | [R U Sleeping \- Bump 'N' Flex Remix](https://open.spotify.com/track/1iNeRmlqIPPcxyCAuCOi3m) | [Indo](https://open.spotify.com/artist/4gt3u2InsxUukBFlEpri1l), [Bump N Flex](https://open.spotify.com/artist/0LvmNTiOy87XfAsYd1ubZp) | [R U Sleeping](https://open.spotify.com/album/2nRTDFUgW236bepQTOA5ST) | 5:04 | 2023-01-18 |  |
-| [Realise](https://open.spotify.com/track/2cIg9G9VSyYMsHiDSBzqyz) | [Jeremy Sylvester](https://open.spotify.com/artist/7BRot2uprkudBUXhqv9R9l) | [UK Garage Classics \- Jeremy Sylvester in the Mix \(feat\. Tj Lewis\)](https://open.spotify.com/album/47tJaiF83pAwYUFetzOaDM) | 5:20 | 2023-01-18 |  |
+| [Realise](https://open.spotify.com/track/2cIg9G9VSyYMsHiDSBzqyz) | [Jeremy Sylvester](https://open.spotify.com/artist/7BRot2uprkudBUXhqv9R9l) | [UK Garage Classics \- Jeremy Sylvester in the Mix \(feat\. Tj Lewis\)](https://open.spotify.com/album/47tJaiF83pAwYUFetzOaDM) | 5:20 | 2023-01-18 | 2023-04-29 |
 | [Rewind](https://open.spotify.com/track/5hultE7GeExA3RkTvtsear) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Born to Do It](https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY) | 5:33 | 2023-01-18 |  |
 | [RIP Groove \- Radio Edit](https://open.spotify.com/track/5FO1NUarjrRlFpOTnyritk) | [Double 99](https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3) | [RIP Groove](https://open.spotify.com/album/22IqOTt63ddQffgEDoghxf) | 3:29 | 2023-01-18 |  |
 | [Sambuca](https://open.spotify.com/track/0RTVgbqTQmse8ttPORexQj) | [Wideboys](https://open.spotify.com/artist/2fLCjXwadBsnYmn05uxFpi), [Dennis G.](https://open.spotify.com/artist/7gNfNrp54riRjOw5Z03BDY) | [Pure Garage Rewind](https://open.spotify.com/album/2SUjSPglsVlIv9pom5A9vq) | 3:19 | 2022-12-28 | 2023-01-19 |

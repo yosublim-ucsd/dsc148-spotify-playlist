@@ -149,6 +149,28 @@
     },
     {
       "album": {
+        "name": "Beggin'",
+        "url": "https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183397,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz"
+    },
+    {
+      "album": {
         "name": "Blow (La Trompeta)",
         "url": "https://open.spotify.com/album/6IwrSyiDnALzOXDY53gq5P"
       },
@@ -164,7 +186,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 152903,
       "name": "Blow (La Trompeta)",
       "url": "https://open.spotify.com/track/2NZgoxwBK0Y2h2BDCnGXYq"
@@ -578,7 +600,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 288750,
       "name": "Givin My Love (Jerome Robins Remix)",
       "url": "https://open.spotify.com/track/0U3WJYeVdygyFgojRaBVNB"
@@ -618,7 +640,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 172523,
       "name": "Helter Skelter",
       "url": "https://open.spotify.com/track/6c47kb1UyEDDK6r3EJu1Dj"
@@ -658,7 +680,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 221010,
       "name": "Hit It (feat. NEZ)",
       "url": "https://open.spotify.com/track/7hLnFu1Pv6u32fOYLLEc1t"
@@ -676,7 +698,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 344886,
       "name": "I Am One, I Am Many",
       "url": "https://open.spotify.com/track/1nfxYoiCrP9tttV3UjOAIu"
@@ -926,7 +948,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 200028,
       "name": "It's A Killa",
       "url": "https://open.spotify.com/track/2cAYjs1WvosMFadzTDmmzD"
@@ -1279,6 +1301,28 @@
     },
     {
       "album": {
+        "name": "Lost In The Music",
+        "url": "https://open.spotify.com/album/0w3VfrflmlU2PBY0tvlZAz"
+      },
+      "artists": [
+        {
+          "name": "Josh Hunter",
+          "url": "https://open.spotify.com/artist/3DWpDqNBdUvlSfzRk27N4z"
+        },
+        {
+          "name": "ESSED",
+          "url": "https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199285,
+      "name": "Lost In The Music",
+      "url": "https://open.spotify.com/track/54gS6bVunGcyHEJAYWp41b"
+    },
+    {
+      "album": {
         "name": "Make You Happy",
         "url": "https://open.spotify.com/album/2eRJAVu552WFHPtGuorxQ0"
       },
@@ -1324,7 +1368,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 382649,
       "name": "MAW Apes Groove",
       "url": "https://open.spotify.com/track/74K4cmvuQh2qysZ7zoXbAb"
@@ -1397,6 +1441,24 @@
     },
     {
       "album": {
+        "name": "MYB",
+        "url": "https://open.spotify.com/album/4d6ZTKxFTiNBdQYwCbXJVT"
+      },
+      "artists": [
+        {
+          "name": "Janika Tenn",
+          "url": "https://open.spotify.com/artist/5JJ2mNTKFgulclDJxMIyOC"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403000,
+      "name": "MYB",
+      "url": "https://open.spotify.com/track/2tA7OipNGwIJCAOpGdfqP1"
+    },
+    {
+      "album": {
         "name": "Nothing Left To Lose",
         "url": "https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69"
       },
@@ -1430,6 +1492,42 @@
       "duration_ms": 222580,
       "name": "Oh Why - Edit",
       "url": "https://open.spotify.com/track/4kuvUV3BqWEkY3SWRFRG2K"
+    },
+    {
+      "album": {
+        "name": "Oshun",
+        "url": "https://open.spotify.com/album/1JYpngK4SJ65s6HRA0fz2i"
+      },
+      "artists": [
+        {
+          "name": "ROB-LO",
+          "url": "https://open.spotify.com/artist/4E7snTbdD4kE2m6D5pkLw1"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366203,
+      "name": "Oshun",
+      "url": "https://open.spotify.com/track/43fIZwn9Ix0J3oLZur21pD"
+    },
+    {
+      "album": {
+        "name": "Out My Way",
+        "url": "https://open.spotify.com/album/0WPkePMGxiycpMHKthno89"
+      },
+      "artists": [
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190080,
+      "name": "Out My Way",
+      "url": "https://open.spotify.com/track/1W67Y84L9500hrERiRRgBB"
     },
     {
       "album": {
@@ -1584,6 +1682,24 @@
       "duration_ms": 190630,
       "name": "Ride On Time",
       "url": "https://open.spotify.com/track/2J7Dtaz1NYcUBbAmpUzRmw"
+    },
+    {
+      "album": {
+        "name": "Rider",
+        "url": "https://open.spotify.com/album/63D2yF1X4qE6nTenMMlEXg"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184761,
+      "name": "Rider - Edit",
+      "url": "https://open.spotify.com/track/1qmZSebyLneylQFhZ85Gt8"
     },
     {
       "album": {
@@ -1913,6 +2029,28 @@
     },
     {
       "album": {
+        "name": "The One (feat. ARA)",
+        "url": "https://open.spotify.com/album/3sew2wh9h3aeNeVkrhZPAp"
+      },
+      "artists": [
+        {
+          "name": "Hannah Wants",
+          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
+        },
+        {
+          "name": "ARA",
+          "url": "https://open.spotify.com/artist/2hhItOB9DuMhxXkU26wgZK"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177036,
+      "name": "The One (feat. ARA)",
+      "url": "https://open.spotify.com/track/0W44iKwnweZAID1cCMw3B5"
+    },
+    {
+      "album": {
         "name": "The Promoter (Todd Terry x Butter Rush London City Remix)",
         "url": "https://open.spotify.com/album/0s7eIaqf6FPFOSRqUDOxo5"
       },
@@ -1943,6 +2081,28 @@
     },
     {
       "album": {
+        "name": "The Sound",
+        "url": "https://open.spotify.com/album/28B5eFQYYnRhYpqUkk7145"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Leia Contois",
+          "url": "https://open.spotify.com/artist/40ZOcK6mdly2Ni7ruJUEPP"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187619,
+      "name": "The Sound",
+      "url": "https://open.spotify.com/track/6Bl0ROqU636RO6UHMU1NVg"
+    },
+    {
+      "album": {
         "name": "The Whip",
         "url": "https://open.spotify.com/album/115wHgWz0aGblQkiSn2xbb"
       },
@@ -1962,7 +2122,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 278000,
       "name": "The Whip",
       "url": "https://open.spotify.com/track/7zrjgXWXMV5jtb6Sd9vi5Q"
@@ -1984,7 +2144,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 192401,
       "name": "This Is The Sound",
       "url": "https://open.spotify.com/track/7L6ZDYK13nVfc6j3QlKNJj"
@@ -2188,6 +2348,32 @@
       "duration_ms": 178304,
       "name": "World Hold On - FISHER Rework",
       "url": "https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR"
+    },
+    {
+      "album": {
+        "name": "You Can't Stop Me",
+        "url": "https://open.spotify.com/album/1IMWabPHigaYU8LKwQ0jjQ"
+      },
+      "artists": [
+        {
+          "name": "MadMoosah",
+          "url": "https://open.spotify.com/artist/20PMACnsRbvvdrRDyaUjk8"
+        },
+        {
+          "name": "Dwayne Pugh",
+          "url": "https://open.spotify.com/artist/4D7toURS8C81RB0q1VzFgj"
+        },
+        {
+          "name": "David Anthony",
+          "url": "https://open.spotify.com/artist/75frj8UB2JwByVGCHxGbpy"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226341,
+      "name": "You Can't Stop Me - David Anthony House Remix Radio",
+      "url": "https://open.spotify.com/track/6WurQwbDgwLHNdZgi1v7ZJ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7N1p58R7iUl"

@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Robert Finley
 
-264 songs - 17 hr 54 min
+265 songs - 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Black Horizon](https://open.spotify.com/track/3E6epwRVuuksTZDlvc24VH) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 4:49 | 2021-11-12 | 2022-04-23 |
 | [Black Mountain Blues](https://open.spotify.com/track/1D2tVcQFbPmJP9FAjGkvJV) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1) | [Black Mountain Blues](https://open.spotify.com/album/2gKdg1viykgX8jVJrvR71l) | 5:08 | 2021-04-23 | 2022-04-23 |
 | [Blacksnake Blues](https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Blacksnake Blues](https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz) | 11:14 | 2022-01-28 |  |
-| [Blue Blue Water](https://open.spotify.com/track/6YqNOEJY1xQw1Zbgxa10Bu) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Oscar Wilson](https://open.spotify.com/artist/3Dlel3io4wOjaKcj6YL7rV) | [Bob Corritore & Friends: You Shocked Me](https://open.spotify.com/album/18rXZSxt8oRqSMZChCNEPE) | 3:17 | 2022-09-09 |  |
+| [Blue Blue Water](https://open.spotify.com/track/6YqNOEJY1xQw1Zbgxa10Bu) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Oscar Wilson](https://open.spotify.com/artist/3Dlel3io4wOjaKcj6YL7rV) | [Bob Corritore & Friends: You Shocked Me](https://open.spotify.com/album/18rXZSxt8oRqSMZChCNEPE) | 3:17 | 2022-09-09 | 2023-04-29 |
 | [Blues All Around](https://open.spotify.com/track/1cs8jvOVEgaCiKwpjhLxIf) | [Savoy Brown](https://open.spotify.com/artist/17obwOahRWI121iMUZznh2) | [Blues All Around](https://open.spotify.com/album/68SUS4uQ8vrpd1McyF6uNq) | 4:08 | 2023-02-17 |  |
 | [Blues For The Weepers](https://open.spotify.com/track/1uOKBuziYCCioYymiwI8zi) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Blackbirds](https://open.spotify.com/album/3gX2IvOKb8zxDJTTnyeLkf) | 3:46 | 2020-12-14 | 2022-02-26 |
 | [Blues For Yesterday](https://open.spotify.com/track/42s2qNbcElKqt29lcWXapw) | [New Moon Jelly Roll Freedom Rockers](https://open.spotify.com/artist/4x6x20x5537T3IiZoRl8DO), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Blues For Yesterday](https://open.spotify.com/album/68rzkssnJO0oFdwvVAfFO0) | 4:32 | 2021-03-26 | 2022-04-23 |
@@ -41,6 +41,7 @@
 | [Book of My Blues](https://open.spotify.com/track/5K2s01sTtbulyPO92xh0O7) | [Mark Collie](https://open.spotify.com/artist/6kMOabD0AtCGJB632jMilU) | [Book of My Blues](https://open.spotify.com/album/3voqYXLVkXBjUZFReufQWA) | 3:28 | 2021-05-14 | 2022-04-23 |
 | [Break on Free \(Radio Edit\)](https://open.spotify.com/track/3DSBR09kCm9YmwjZ2p2HSd) | [St\. Paul Peterson](https://open.spotify.com/artist/6oFjk6cifvMQN7Gl4hPcva), [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Break on Free \(Radio Edit\)](https://open.spotify.com/album/6JtVrM7vhAHScW65sijAie) | 3:46 | 2022-07-29 |  |
 | [Burn Bright](https://open.spotify.com/track/5suOlPxijvD4kWVXBQLs9e) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [Sons](https://open.spotify.com/album/7cIZqD2nH2CXlAGG1jrNP6) | 3:06 | 2020-12-14 | 2022-02-26 |
+| [Caldonia](https://open.spotify.com/track/3JhhFy0eBmSqNOegoaIUff) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Savoy](https://open.spotify.com/album/6CSit6rVjX6qqPrwHCaWdF) | 3:32 | 2023-04-28 |  |
 | [Call Me King](https://open.spotify.com/track/54lWZZ8Mx6dlHeGoGrga6l) | [Son Of Dave](https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae) | [Call Me King](https://open.spotify.com/album/7s3GreHgKwTs879knH8VWp) | 2:54 | 2022-04-08 |  |
 | [Can't Take No More](https://open.spotify.com/track/40ytn62ocVWKqwktVNo9Fs) | [John Mayall](https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Can't Take No More](https://open.spotify.com/album/3ukHMBQUuVEbX3Nrphqdf8) | 3:45 | 2021-12-17 | 2022-01-29 |
 | [Catfish Blues](https://open.spotify.com/track/22AC1MxK4QD3RiS7BeTIXt) | [Jimmy "Duck" Holmes](https://open.spotify.com/artist/366oWbbebUqu4ovO0F0V5D) | [Cypress Grove](https://open.spotify.com/album/6fgTw3IgOwR0YN0YyRhAws) | 4:11 | 2020-12-14 | 2022-02-26 |

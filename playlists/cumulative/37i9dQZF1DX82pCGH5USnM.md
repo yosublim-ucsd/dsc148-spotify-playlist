@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-715 songs - 1 day 16 hr 59 min
+716 songs - 1 day 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Air Zones](https://open.spotify.com/track/6QwkdlobqveOUlXfddLJGK) | [Tippy Ro](https://open.spotify.com/artist/7sgxEpfnodusFKzUSTSFIY) | [Air Zones](https://open.spotify.com/album/2hjZkraFr9q2gmMZwRSXD6) | 3:22 | 2021-09-09 | 2022-07-29 |
 | [Airglow](https://open.spotify.com/track/3leeQGS5ZOJRXrQ8I2juxI) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Airglow](https://open.spotify.com/album/5eiuYQuowBrhyX2WIEYxxa) | 2:10 | 2023-01-06 |  |
 | [ALFA](https://open.spotify.com/track/5aSNqR86hrZvqGURovp9wH) | [Ralf](https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR) | [ALFA\-DELTA](https://open.spotify.com/album/7n9lRpIn21zIeAjtuFMM2a) | 5:09 | 2021-02-24 | 2021-09-09 |
+| [All Flow](https://open.spotify.com/track/4UNikpZvuGygYQsK5nbdF1) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [All Flow](https://open.spotify.com/album/2ozaXysOH70zHLPoppcQNL) | 3:02 | 2023-04-28 |  |
 | [All Out of Love](https://open.spotify.com/track/2irwCQHAO9XO0DFxMJFliF) | [Larry Poppinz](https://open.spotify.com/artist/16CYOuSOMLdhvKDWr5f65A) | [Arild Was Here](https://open.spotify.com/album/78cN1uIKRgl1Y0aBknEe17) | 4:08 | 2021-08-20 | 2021-09-09 |
 | [All The Way?](https://open.spotify.com/track/3DmK1vfrf8PWdTDNgAt0Hp) | [Paul Rietz](https://open.spotify.com/artist/0xvfumiS0sx0xXJshA2uwW) | [All The Way?](https://open.spotify.com/album/5pSZ9S6gthesTuWzeSlyNw) | 2:49 | 2022-12-09 |  |
 | [Alla Prima](https://open.spotify.com/track/5qIGheFvtMbdmffqHvaBvV) | [Voodulce](https://open.spotify.com/artist/0oaRcSFPFh6FaAgZjSVYfr) | [Viridian](https://open.spotify.com/album/5kfojidGkqgfaHxyr2Gbvi) | 4:35 | 2020-04-03\* | 2021-01-18 |
@@ -153,7 +154,7 @@
 | [Daiane's Samba](https://open.spotify.com/track/5SQTB8jJNdMHKQslwg1GX2) | [Keknou](https://open.spotify.com/artist/37iv6CM0QO9ZqPJsxT1ZPy) | [Daiane's Samba](https://open.spotify.com/album/5BnKfRcJNRnbWvYTiTy3vU) | 2:43 | 2021-01-27 | 2022-06-24 |
 | [Dawncaller](https://open.spotify.com/track/68RwfkkJ1VFOr5g3Apeif7) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Raincaller](https://open.spotify.com/album/0ZHvIq9zoftFWPbBeRpgVc) | 4:04 | 2020-04-14 | 2021-01-18 |
 | [Days.Spent Alone](https://open.spotify.com/track/0ms65AqkeniLWjSmR6y7Iw) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Days.Spent Alone](https://open.spotify.com/album/2dReQBDfSGNihzZQ5M9qbf) | 2:17 | 2022-08-19 |  |
-| [Deep Deep Waters](https://open.spotify.com/track/6vkn2C9DRfYh8YeIo8O9VH) | [SLCT](https://open.spotify.com/artist/1WblOSbQMKczLhoK041oOM) | [Deep Deep Waters](https://open.spotify.com/album/2xTnT76L2MKnoUOWlVBJpG) | 3:47 | 2023-01-20 |  |
+| [Deep Deep Waters](https://open.spotify.com/track/6vkn2C9DRfYh8YeIo8O9VH) | [SLCT](https://open.spotify.com/artist/1WblOSbQMKczLhoK041oOM) | [Deep Deep Waters](https://open.spotify.com/album/2xTnT76L2MKnoUOWlVBJpG) | 3:47 | 2023-01-20 | 2023-04-29 |
 | [Deep in a Dream](https://open.spotify.com/track/36Dn2xN9wrCfVSGu4NlJBu) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Don’t Stop](https://open.spotify.com/album/7sQFQyKIQL2CSrRCqqkszF) | 6:05 | 2021-04-29 | 2021-09-09 |
 | [Deep Mist](https://open.spotify.com/track/3ShpwQAo4AYXGZzkcXbq4H) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Deep Mist](https://open.spotify.com/album/4g2Ez00eOO0Cm1Dduppv7S) | 3:09 | 2021-11-08 |  |
 | [deep swim](https://open.spotify.com/track/34GgOWtvEh28eFmPaKo9CT) | [Souvren](https://open.spotify.com/artist/1bK9FSWyc2AxzWyR9SEMlX) | [deep swim](https://open.spotify.com/album/29l4sL3pTRXmuXZOMOEDm0) | 4:07 | 2023-01-13 |  |

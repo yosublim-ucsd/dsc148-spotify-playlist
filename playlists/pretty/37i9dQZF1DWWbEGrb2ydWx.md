@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 
 > <a href="spotify:artist:2EFsfh1zewsSWhDINv7j1I">Logic1000's </a> favourite tracks\.  Updated regularly\. Curated by Logic1000\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,659 likes - 35 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,670 likes - 35 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 | 19 | [The Omega](https://open.spotify.com/track/3e7i4ux1lbOJIWEAJxzNwj) | [Maestro UK](https://open.spotify.com/artist/3J95syHP0aZS2aHtKTauEi) | [This Is Housupa](https://open.spotify.com/album/1gtfsGXrX0TCK6O6wGNzTf) | 5:56 |
 | 20 | [Long Lasting](https://open.spotify.com/track/0kVwU9vTrpFLPzdmoRloFz) | [Native Soul](https://open.spotify.com/artist/1YhcreGr3lGJf6nOne2AIv) | [Teenage Dreams](https://open.spotify.com/album/6088Sj5rAfVFzUxPKDq6jm) | 8:20 |
 | 21 | [If I Was Your Girlfriend \- 2020 Remaster](https://open.spotify.com/track/2laui4O0tY1GDZcsB7iJtK) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign O' The Times](https://open.spotify.com/album/2QuHyvguNhl5kfdoE17RRe) | 5:03 |
-| 22 | [Footworkin on Air](https://open.spotify.com/track/6KmFqDL2TsfzoK4QJqTXjL) | [Traxman](https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh) | [Da Mind of Traxman](https://open.spotify.com/album/3NCTZXvanzWpQeafprDljK) | 4:01 |
+| 22 | [Footworkin on Air](https://open.spotify.com/track/5Mdt2roSDTFn6wR4nMLo0f) | [Traxman](https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh) | [Da Mind of Traxman](https://open.spotify.com/album/3azkH7wZWh4aT1MUJ8TEbj) | 4:01 |
 | 23 | [Brain Dead](https://open.spotify.com/track/73EgprFohLuoyplgq6RdcH) | [Big Ever](https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56) | [Studio Productions](https://open.spotify.com/album/09aGGMPXDAQL0P4Re59bTO) | 4:14 |
 | 24 | [Revolution 909](https://open.spotify.com/track/5pgZpHqfv4TSomtkfGZGrG) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 5:35 |
 | 25 | [419](https://open.spotify.com/track/4tdaILNdlZ1sw06bC6ZQNA) | [G4 Boyz](https://open.spotify.com/artist/4ZtqSJYEh407LR6NM5hNcS) | [419](https://open.spotify.com/album/33PUnGYebYvH18jn3AhB0n) | 2:08 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 | 34 | [Bout It](https://open.spotify.com/track/4otz99vDZEYwE8DBPk8EW7) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Bout It](https://open.spotify.com/album/5VGDL0LsNukMUzmmXmLJSI) | 3:50 |
 | 35 | [Give It Up 2 Me](https://open.spotify.com/track/3X7wVYr4XpzGgoXmQVnrJo) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [B4 I Breakdown](https://open.spotify.com/album/2KAWX279th7yUtgVIfD6TU) | 2:58 |
 
-Snapshot ID: `MCxjMTYyYzViMDM2NzE0NTYwM2I1MjQyNDBmZTVkYTIzZDgyYjM3MTA0`
+Snapshot ID: `MCxlMTM3OGEwMWY5M2ZiNjUyYzgyY2MxZjBhM2E3Yjc5NDMzZDRmMTBm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー:  新しい学校のリーダーズ \(ATARASHII GAKKO!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,592 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,601 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [Look At Me](https://open.spotify.com/track/7F38cYOAZBuCjf3YoAmIZn) | [Kawaguchi Yurina](https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr) | [Look At Me](https://open.spotify.com/album/3mp41Up4LNhAVLGxl7BAUR) | 3:03 |
 | 50 | [FIRST STEP](https://open.spotify.com/track/0jlgX7f6gbUX3xuCZyCHmP) | [ExWHYZ](https://open.spotify.com/artist/0xOkccCl0pVdhuLBpcHDJx) | [FIRST STEP](https://open.spotify.com/album/2la9wHGIteZN8ipPkXgkfQ) | 3:29 |
 
-Snapshot ID: `MCxjN2NjZjllYjIzYzMxZDVjMjc3ODFiZGVjMWExZGIwNDY5ZGYzYzJj`
+Snapshot ID: `MCw1ZTMxZTY1ZWZhMjE5ZmE4NjU0YTNjOWE3N2ZmZDRhMzc4YmI2Y2Rh`

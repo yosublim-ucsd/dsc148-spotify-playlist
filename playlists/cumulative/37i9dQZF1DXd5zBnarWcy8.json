@@ -468,10 +468,28 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 396773,
       "name": "Keepin' It Funky",
       "url": "https://open.spotify.com/track/14hdi3R1TVvH5qGEIZfMD0"
+    },
+    {
+      "album": {
+        "name": "On the Spot",
+        "url": "https://open.spotify.com/album/2OlkUpfFyca0jPZSfLYnO9"
+      },
+      "artists": [
+        {
+          "name": "Hot 8 Brass Band",
+          "url": "https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396773,
+      "name": "Keepin' It Funky",
+      "url": "https://open.spotify.com/track/3DwJcbUHZmoQKvNz5tU7Ua"
     },
     {
       "album": {
@@ -512,7 +530,7 @@
     {
       "album": {
         "name": "Love Will Tear Us Apart",
-        "url": "https://open.spotify.com/album/25IyZfmmpK5FWSqvhla76M"
+        "url": "https://open.spotify.com/album/4BOdO6NVndpFv6P1bLNCZU"
       },
       "artists": [
         {
@@ -523,6 +541,24 @@
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 216124,
+      "name": "Love Will Tear Us Apart",
+      "url": "https://open.spotify.com/track/1j2iplFjazFwShpHmlx10W"
+    },
+    {
+      "album": {
+        "name": "Love Will Tear Us Apart",
+        "url": "https://open.spotify.com/album/25IyZfmmpK5FWSqvhla76M"
+      },
+      "artists": [
+        {
+          "name": "Hot 8 Brass Band",
+          "url": "https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
       "duration_ms": 216124,
       "name": "Love Will Tear Us Apart",
       "url": "https://open.spotify.com/track/7n6pjSxN5rnIzNgr11zX7Z"

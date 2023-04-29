@@ -1261,6 +1261,28 @@
     },
     {
       "album": {
+        "name": "Dama de Vermelho",
+        "url": "https://open.spotify.com/album/2pksnUtr8DU9I6ufkHLh1V"
+      },
+      "artists": [
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Gree Cassua",
+          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162585,
+      "name": "Dama de Vermelho",
+      "url": "https://open.spotify.com/track/7JCd1CnqOfGAYjRiSFtzKE"
+    },
+    {
+      "album": {
         "name": "De Verdade",
         "url": "https://open.spotify.com/album/5mZUtd3HyC0dIz77KpScOF"
       },
@@ -4212,7 +4234,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 270000,
       "name": "Se Ela Quer Me Dar",
       "url": "https://open.spotify.com/track/5Z74eXMUY5d0NARy82j8S2"
@@ -4660,6 +4682,40 @@
       "duration_ms": 643200,
       "name": "Set dos Casados",
       "url": "https://open.spotify.com/track/2xebCnKCjYWBhJ4Ai8hO5E"
+    },
+    {
+      "album": {
+        "name": "Set Vida Errada 3",
+        "url": "https://open.spotify.com/album/0pj0PkR10MPKIjCxEG1nbg"
+      },
+      "artists": [
+        {
+          "name": "Ninbr\u00ea",
+          "url": "https://open.spotify.com/artist/725NzNUfGYCqOYno36v2SC"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "X Sem Peita",
+          "url": "https://open.spotify.com/artist/082vDMJAfkNZ3U13mjBYfY"
+        },
+        {
+          "name": "Pexande",
+          "url": "https://open.spotify.com/artist/2q0FHjgmI45xHxbdXkxYAK"
+        },
+        {
+          "name": "tzxn",
+          "url": "https://open.spotify.com/artist/30qcTskEK8yNFTIX0O7vMF"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324000,
+      "name": "Set Vida Errada 3",
+      "url": "https://open.spotify.com/track/50VBWokNXnmStGE13Rm0ck"
     },
     {
       "album": {
@@ -5250,7 +5306,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 162812,
       "name": "Xurrasco Freestyle",
       "url": "https://open.spotify.com/track/7JkJMKjvNT4jOWcOh6alIG"

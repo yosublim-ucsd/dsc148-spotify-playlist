@@ -2,7 +2,7 @@
 
 ### [10s Rock Anthems](https://open.spotify.com/playlist/37i9dQZF1DX99DRG9N39X3)
 
-> These songs rocked the 10s\. Cover: Arctic Monkeys
+> These songs rocked the 10s\. Cover: Twenty One Pilots
 
 149 songs - 9 hr 12 min
 

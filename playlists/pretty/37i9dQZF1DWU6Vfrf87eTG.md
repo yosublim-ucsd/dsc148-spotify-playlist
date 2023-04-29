@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 676,675 likes - 116 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 676,657 likes - 116 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 19 | [Shadrach](https://open.spotify.com/track/0ksfRvHljT8MW9dlhmQMia) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Axis Mundi](https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY) | 2:51 |
 | 20 | [La Mer Peu Profonde](https://open.spotify.com/track/78ep8sfWvue1CtCfgWijad) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Deadeye](https://open.spotify.com/album/2jqeCy5ydYWWWYB11VMS2V) | 1:00 |
 | 21 | [On the Atlantic Ocean](https://open.spotify.com/track/3vg9nZQobzG9cilihGqMta) | [Ben Sollee](https://open.spotify.com/artist/3Zzs4IqjV4b0yEFWqRv1si) | [Maidentrip \(Original Motion Picture Score\)](https://open.spotify.com/album/29IZsEj13xjbIBODaUXrNa) | 2:52 |
-| 22 | [Across White Oak Mountain](https://open.spotify.com/track/6mFuM7qrH8p57mgYeG3IRI) | [Chuck Johnson](https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f) | [Crows in the Basilica](https://open.spotify.com/album/08ukVwsvdLCb4GSplKE3u6) | 3:50 |
+| 22 | [Across White Oak Mountain](https://open.spotify.com/track/2MNdcZ5yBHnMeww6jVITzc) | [Chuck Johnson](https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f) | [Crows in the Basilica](https://open.spotify.com/album/1D6s8KszoqLt9o6i0nyf9K) | 3:50 |
 | 23 | [Interlude](https://open.spotify.com/track/7qWRxZQ6YTNDxUV3MRuZiV) | [Lindsay Lou & the Flatbellys](https://open.spotify.com/artist/5shNy8PK3d0GaOUEoygZB3) | [Ionia](https://open.spotify.com/album/2WozLvN6TyURivAK0kNoHZ) | 0:31 |
 | 24 | [The Beekeeper](https://open.spotify.com/track/1yel3umsN1EwEH1w5Qvugb) | [Danny Black](https://open.spotify.com/artist/1acLmH4vW6PaaqDCDyNf46) | [Adventure Soundtrack](https://open.spotify.com/album/7vDrf98OtFN8yvlHy7wZPU) | 2:09 |
 | 25 | [Cedarsmoke](https://open.spotify.com/track/6xBv2Rlq9DiYeTBFno0uR5) | [Sea Wolf](https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x) | [Song Spells, No.1: Cedarsmoke](https://open.spotify.com/album/3Q4S1bRlEEeztfrM4KsMFQ) | 3:34 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 65 | [Duet For Guitars \#3](https://open.spotify.com/track/20VJ9S6Pj1dTQIANhJgEwu) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration of Vincent](https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS) | 1:52 |
 | 66 | [The Day Is Past and Gone \(Variations\)](https://open.spotify.com/track/5R1dfc92To7lWXqn9ddFyC) | [Sarah Louise](https://open.spotify.com/artist/2lGwVpVjE5WrnI4pP5Lu0y) | [Field Guide](https://open.spotify.com/album/6RoKkTKlYJ9uXJkH4pFdg7) | 4:43 |
 | 67 | [All Along the Watchtower \(feat\. Gabe Witcher\) \- From Sons of Anarchy \(Instrumental\)](https://open.spotify.com/track/7gP40cgwzUeDkypRwpSNrf) | [The Forest Rangers](https://open.spotify.com/artist/46xMgypLHP8GNsYME3vRnV), [Gabe Witcher](https://open.spotify.com/artist/3MjRrLK3oWzDniKxjbKPYm) | [All Along the Watchtower \(feat\. Gabe Witcher\) \[From Sons of Anarchy \(Instrumental\)\]](https://open.spotify.com/album/2NkTkCkwPwGrljRyMZnA2q) | 2:52 |
-| 68 | [Angi](https://open.spotify.com/track/7pDKAoUXi0IpkcSF3lEJd7) | [Davy Graham](https://open.spotify.com/artist/72zalCfn9P7eU6oGje7tyJ) | [3/4 AD](https://open.spotify.com/album/6qsqaKBusLJDMcTfDfOd4N) | 2:27 |
+| 68 | [Angi](https://open.spotify.com/track/24mF7MHU2S7NfkvyhKbHHZ) | [Davy Graham](https://open.spotify.com/artist/72zalCfn9P7eU6oGje7tyJ) | [3/4 AD](https://open.spotify.com/album/7dyUtGBLV46N0MpFIHTd67) | 2:27 |
 | 69 | [Si No Te Vas \(Instrumental\)](https://open.spotify.com/track/3dRkBf8fXhph6yQtQR7uBL) | [Carrie Rodriguez](https://open.spotify.com/artist/4bMTBaNiudO7K7Tz8jzNRF) | [Lola](https://open.spotify.com/album/58hQMhoiyYayFc1pLHwnEa) | 4:21 |
 | 70 | [Ocean](https://open.spotify.com/track/59tcQJiHwApzE4h6yVnL9i) | [John Butler](https://open.spotify.com/artist/7czrHF19KySaSs3dnBnPCR) | [Ocean](https://open.spotify.com/album/0GeL4qG8LeNZU2yyHNpP1h) | 11:39 |
 | 71 | [Dance of Death](https://open.spotify.com/track/5Mq9nSMTjHzhiVuB5jxQtw) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Fingerlings 4](https://open.spotify.com/album/5hjvdBMM2fat8FJ4H6EL5R) | 3:47 |
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 103 | [Sally Goodin](https://open.spotify.com/track/3srImJt4dJOSRdX0qov2Yo) | [Pharis & Jason Romero](https://open.spotify.com/artist/7d143d171ut6oHKSXv1ztS) | [Long Gone Out West Blues](https://open.spotify.com/album/4QKgVxB8jIrH7vSlYfLFpE) | 2:45 |
 | 104 | [Everything That Can Be Invented](https://open.spotify.com/track/1sNHnNghTXeVqhWfklniyl) | [Tvärvägen](https://open.spotify.com/artist/5Ms2wJn8fZ2TbJGkaLgNCF) | [Staring Directly Into the Sun](https://open.spotify.com/album/5jmGz6ggQWnhCNjkEfYCcL) | 4:47 |
 | 105 | [What What What](https://open.spotify.com/track/63hW7Mq0KWWwExEjYOdSUY) | [Caoimhín Ó Raghallaigh](https://open.spotify.com/artist/2w5HzcbBTCyYSWqbmM5UxA) | [Music for an Elliptical Orbit](https://open.spotify.com/album/5LhZRYUiTKV27lfZqjozzd) | 3:05 |
-| 106 | [Carol Kaye \(Instrumental\)](https://open.spotify.com/track/2EB7aZJY5imWcpnuqJPmoB) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [Hello I Must Be Going](https://open.spotify.com/album/3KLh2kSBl64Wa0ygg4agyC) | 2:45 |
+| 106 | [Carol Kaye \(Instrumental\)](https://open.spotify.com/track/6KaPEuQFd8KKMzwJTAoGIR) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [Hello I Must Be Going](https://open.spotify.com/album/7gixF6cRUF4ZpuO7sNMcfq) | 2:45 |
 | 107 | [Quiet Voices](https://open.spotify.com/track/7zjVZdRtsQcyjISYINrLza) | [Mike Vass](https://open.spotify.com/artist/0JioBnavwTuX6mCdAS5j2D) | [In the Wake of Neil Gunn](https://open.spotify.com/album/1ksTLw7Isus59pU22ntTVK) | 3:48 |
 | 108 | [Itasca](https://open.spotify.com/track/3qsfBj0XK75ndx6adpE656) | [Paul Spring](https://open.spotify.com/artist/3nm10RPR7Ts3qPCwhQBUew) | [Borderline EP](https://open.spotify.com/album/1VxX55qCuKaP5gjHspVWgb) | 2:49 |
 | 109 | [HEIR I](https://open.spotify.com/track/3IKiNuyOCj1lDYjGbFK5UC) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [HEIR](https://open.spotify.com/album/0Oi7ckCMLBoLuqL9IdC8Uv) | 5:00 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 115 | [\(Interlude\)](https://open.spotify.com/track/6KzRwSrGHZVYn7rfSIAC0g) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [Into The Wide](https://open.spotify.com/album/4hWx4cKcQKjq6uNGRJAnfL) | 1:21 |
 | 116 | [Silence Is Sincerity](https://open.spotify.com/track/73hk94lqe5AE2B4heXzivd) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 1:12 |
 
-Snapshot ID: `MCxmZTkxMzJjODI0ODA5NGMwZWJjNTZlMzVmZDIzMmYyYjRmNWRjOGUx`
+Snapshot ID: `MCw1ODg1YTUzMzkwODFhOTgyMjk3NmJhOGM0NDg0ZGM1MGIyYTMxYWU3`

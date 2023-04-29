@@ -1,13 +1,29 @@
 {
   "description": "All live, all jazz. Cover: Erroll Garner",
-  "num_followers": 5653,
+  "num_followers": 5657,
   "original_name": "Jazz Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmE2OTlmNmEzNzE0ZmUyMDkxZGIyNzhmMDFjZjRmNzE1NGY0YjUz",
+  "snapshot_id": "MCw1NjgwYzE5MjhkZmUwMzk3MGI1MGEzODU3NzQ0NDJlZjdhN2RiYjQ1",
   "tracks": [
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Universal Gratitude (Trio - Live)",
+        "url": "https://open.spotify.com/album/16SnKeimPpAsiEbXKtKnOY"
+      },
+      "artists": [
+        {
+          "name": "Mike Casey",
+          "url": "https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2"
+        }
+      ],
+      "duration_ms": 324625,
+      "name": "Universal Gratitude (Trio - Live)",
+      "url": "https://open.spotify.com/track/6y9XVP0HsYr3SVtHmzbj1n"
+    },
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
@@ -368,7 +384,7 @@
       "added_at": "2022-10-21 04:01:00",
       "album": {
         "name": "live from the archives * BOOTLEG JUNE 15, 2000",
-        "url": "https://open.spotify.com/album/565nqUGfccsa9YwebyrFGo"
+        "url": "https://open.spotify.com/album/2hCxogjHMvleKKenbxi9sP"
       },
       "artists": [
         {
@@ -378,7 +394,7 @@
       ],
       "duration_ms": 118414,
       "name": "The Fall of Summer - Live",
-      "url": "https://open.spotify.com/track/27dBFWTZzH74nYlZOFm93r"
+      "url": "https://open.spotify.com/track/54MsYlUGqbA4bJP2E2r4nM"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1467,30 +1483,6 @@
       "duration_ms": 1285440,
       "name": "The Prophet - Live",
       "url": "https://open.spotify.com/track/4e9XzXMa094Kw40320Htjw"
-    },
-    {
-      "added_at": "2021-11-12 05:14:12",
-      "album": {
-        "name": "Friday Night in San Francisco",
-        "url": "https://open.spotify.com/album/2zJMxui25tclR2FYj8jDYT"
-      },
-      "artists": [
-        {
-          "name": "Al Di Meola",
-          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
-        },
-        {
-          "name": "John McLaughlin",
-          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
-        },
-        {
-          "name": "Paco de Luc\u00eda",
-          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
-        }
-      ],
-      "duration_ms": 691306,
-      "name": "Mediterranean Sundance / Rio Ancho - Live at Warfield Theatre, San Francisco, CA - December 5, 1980",
-      "url": "https://open.spotify.com/track/0og2U8tsBAR7NJysRR6uBU"
     },
     {
       "added_at": "2021-11-12 05:14:12",

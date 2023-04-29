@@ -1216,7 +1216,7 @@
     {
       "album": {
         "name": "Standing in the Way of Control",
-        "url": "https://open.spotify.com/album/7kT3bu386sQNmb8C6GS1Dr"
+        "url": "https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW"
       },
       "artists": [
         {
@@ -1227,6 +1227,24 @@
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 256398,
+      "name": "Standing In the Way of Control",
+      "url": "https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl"
+    },
+    {
+      "album": {
+        "name": "Standing in the Way of Control",
+        "url": "https://open.spotify.com/album/7kT3bu386sQNmb8C6GS1Dr"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "date_added": "2021-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
       "duration_ms": 256399,
       "name": "Standing In the Way of Control",
       "url": "https://open.spotify.com/track/0hd4rC19ldUBmabhSHxiwS"

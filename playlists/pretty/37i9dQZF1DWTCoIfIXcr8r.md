@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCoIfIXcr8r.md) - [plain]
 
 > Find your flow with a classical Indian soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,242 likes - 48 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,271 likes - 48 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCoIfIXcr8r.md) - [plain]
 | 41 | [Raga Kalavati \- Alaap](https://open.spotify.com/track/38W5klddZEyd4qw1DpTuFt) | [Satish Vyas](https://open.spotify.com/artist/5VjvnatSJPsJtYQIX2qOlV) | [Dreamwaves](https://open.spotify.com/album/1Fli4PL8CCyZ3KuhF6GPan) | 9:25 |
 | 42 | [Raga Shivaranjani \- Alaap and Jod](https://open.spotify.com/track/0mJb387czeAT18YUjtBSIS) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Mukundraj Deo](https://open.spotify.com/artist/4JMS6zNavFjxoH09RQq78D) | [Finesse On Flute](https://open.spotify.com/album/7dzYA4LH7OgBLoY4YYwpco) | 13:14 |
 | 43 | [Raag Jan Sammohini](https://open.spotify.com/track/5sOR6MZkrHWHKmHqvmrQuS) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Baluji Shrivastav](https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238) | [Baluji Shrivastav: Shadow of the Lotus \- Classical Indian Ragas](https://open.spotify.com/album/7sq7QZGY6o4mFaFnXns4DN) | 10:10 |
-| 44 | [Prema Chakor](https://open.spotify.com/track/6pwSMTkChJf5uYM5vzjWKN) | [Debashish Bhattacharya](https://open.spotify.com/artist/1gluErp8xTWWbjs6kh3Qjb) | [Calcutta Slide\-Guitar](https://open.spotify.com/album/10xA7rIoH7opaKQHlG4SBv) | 9:20 |
+| 44 | [Prema Chakor](https://open.spotify.com/track/1jQrEqbsOc7k3pW8MIoLSs) | [Debashish Bhattacharya](https://open.spotify.com/artist/1gluErp8xTWWbjs6kh3Qjb) | [Calcutta Slide\-Guitar](https://open.spotify.com/album/0RpC7t66S5SJB788nmngRc) | 9:20 |
 | 45 | [Beauty and Power of the Vina \- Malay Marutam](https://open.spotify.com/track/31VI1XppAaDdThtsNeUSzr) | [Music for Deep Meditation](https://open.spotify.com/artist/7rZubTb0F8TCTUsNBgfy9I) | [Classical Indian Music for Healing and Relaxation \- The Ancient Beauty of the Veena With Young Virtuosa Gayatri Govindarajan](https://open.spotify.com/album/6dJxnAd9TI4qc4PeEoVqxr) | 7:20 |
 | 46 | [Relaxing Into The Self \- Maya Malav Gaulay](https://open.spotify.com/track/4LHPsWgpZieOaXZDWqREYR) | [Music for Deep Meditation](https://open.spotify.com/artist/7rZubTb0F8TCTUsNBgfy9I) | [Classical Indian Music for Healing and Relaxation \- The Ancient Beauty of the Veena With Young Virtuosa Gayatri Govindarajan](https://open.spotify.com/album/6dJxnAd9TI4qc4PeEoVqxr) | 6:04 |
 | 47 | [Alap & Jor](https://open.spotify.com/track/5z2AySosw7Cokl8HLq1mPd) | [Ken Zuckerman](https://open.spotify.com/artist/0Qlqyvs4Clg3MhIRwxx5ku) | [Hemant \- an evening Raga](https://open.spotify.com/album/341RD2w3IhyPqjspyD1Ux4) | 19:06 |
 | 48 | [Chants\-Raag Bhatiyar, Pt\. 1](https://open.spotify.com/track/5aQTfzi7ph9kgOrN6d2WaX) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Sunil Das](https://open.spotify.com/artist/4a37LwWvVvqwiwdakKi6OB) | [Sacred Mantras of India](https://open.spotify.com/album/4qmDo5H84uQT50aCdPVPxE) | 2:48 |
 
-Snapshot ID: `MCwyZTc2OWRhNTAwMWMwNjFiYTZkYzA2NzY0Y2EwYzZkMWE0NTQ0ZTA1`
+Snapshot ID: `MCwzOWViNWZkNTI2MDFiY2QwYTBiYzFlYjQwY2RkOTQxNjQ0MThkZGIw`

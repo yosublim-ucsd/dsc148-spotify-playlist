@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "The Minus 5",
+        "url": "https://open.spotify.com/album/5Xcmey2FF0QPeFPLDEOOk0"
+      },
+      "artists": [
+        {
+          "name": "The Minus 5",
+          "url": "https://open.spotify.com/artist/7k8oHbK8ratXIVlYX7fVRU"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264520,
+      "name": "Cigarettes Coffee and Booze",
+      "url": "https://open.spotify.com/track/0mFNgFQCUGjy1qsKQzkTwr"
+    },
+    {
+      "album": {
         "name": "Alternative Country Masterpieces",
         "url": "https://open.spotify.com/album/5kJyeKSrgev5PyfsdYZUgP"
       },
@@ -380,7 +398,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 264520,
       "name": "Cigarettes Coffee and Booze",
       "url": "https://open.spotify.com/track/5sccRpcrBlsSIbIjSj4Xtt"
@@ -1068,10 +1086,28 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 235680,
       "name": "Nights Like These",
       "url": "https://open.spotify.com/track/5W6mFdtLbNllkRh6Q07IbT"
+    },
+    {
+      "album": {
+        "name": "Tennessee",
+        "url": "https://open.spotify.com/album/7pNGqfOAI7z0PrwJrdjh1A"
+      },
+      "artists": [
+        {
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/1MspPfENB9nzFGaagXmF7R"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235680,
+      "name": "Nights Like These",
+      "url": "https://open.spotify.com/track/7wdsny4I4vMLY4wCF9FDkr"
     },
     {
       "album": {
@@ -1396,10 +1432,28 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 247466,
       "name": "Silence",
       "url": "https://open.spotify.com/track/5g79xHG0De0dDHe1Hkum66"
+    },
+    {
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/73hOVQXTcPiNfesPkxS7O0"
+      },
+      "artists": [
+        {
+          "name": "The Autumn Defense",
+          "url": "https://open.spotify.com/artist/71I7zoXe7aIZvzN19S1gIo"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247466,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/7dbkd6nYE7hkpNohBKzyjr"
     },
     {
       "album": {

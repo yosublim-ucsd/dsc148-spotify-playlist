@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Jonathan Butler",
-  "num_followers": 47580,
+  "num_followers": 47625,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDNmMWM4MzRhZmUwOWQzYmZjNjdlMjhhYzM2YzcyNjRiZWQ5MDM4",
+  "snapshot_id": "MCwzN2NhOTMxNzNmZWEzMmE3Y2M3MGJhYmQ1ODUwYzA1ZTVjNDVjODRl",
   "tracks": [
     {
       "added_at": "2023-04-07 04:01:00",
@@ -23,6 +23,22 @@
       "duration_ms": 304039,
       "name": "Ubuntu",
       "url": "https://open.spotify.com/track/2zUN9GrY3kNkt1WNk0wtPZ"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Groove Factor",
+        "url": "https://open.spotify.com/album/2Hluf4SuDadLbjEcPH9u9N"
+      },
+      "artists": [
+        {
+          "name": "Skinny Hightower",
+          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
+        }
+      ],
+      "duration_ms": 314506,
+      "name": "Groove Factor",
+      "url": "https://open.spotify.com/track/7yhNFPUSYSygjoKIt2epLT"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -69,6 +85,38 @@
       "url": "https://open.spotify.com/track/3wo1wi09snMqZ9T3KQu3VT"
     },
     {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Taboo",
+        "url": "https://open.spotify.com/album/5CU4FiM0dodXZWKSW8vfdd"
+      },
+      "artists": [
+        {
+          "name": "Damien Escobar",
+          "url": "https://open.spotify.com/artist/2GkMspzmKKkaeX62pwJZhG"
+        }
+      ],
+      "duration_ms": 202693,
+      "name": "Taboo",
+      "url": "https://open.spotify.com/track/2RB3BwwCXlFEKO06jUL0Dr"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/7GKX3h5NvbhW93BSoj8rw3"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+        }
+      ],
+      "duration_ms": 245717,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/2QMncvsysL74Zs8EHYWaCz"
+    },
+    {
       "added_at": "2022-01-21 05:02:00",
       "album": {
         "name": "Essence",
@@ -83,6 +131,26 @@
       "duration_ms": 246665,
       "name": "Essence",
       "url": "https://open.spotify.com/track/0GXwCLCJgQZEEIBDjk3apT"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Here's the Thing",
+        "url": "https://open.spotify.com/album/3vT5YoaOxXO6rY7YPmHxv2"
+      },
+      "artists": [
+        {
+          "name": "The Smooth Jazz Alley",
+          "url": "https://open.spotify.com/artist/3rpiTLuutXBtuveSbsmpkJ"
+        },
+        {
+          "name": "Nathan East",
+          "url": "https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ"
+        }
+      ],
+      "duration_ms": 338866,
+      "name": "Whatever You Like",
+      "url": "https://open.spotify.com/track/1U05WLPnnMpGFS99PAyj0n"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -103,6 +171,22 @@
       "duration_ms": 231874,
       "name": "Let's Do This (feat. Nils) - Radio Edit",
       "url": "https://open.spotify.com/track/062XGbLtbdC2jyvuZdrgEx"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Ubuntu",
+        "url": "https://open.spotify.com/album/4LXDvWeh10zukOZS0Dl8Bz"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Butler",
+          "url": "https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD"
+        }
+      ],
+      "duration_ms": 319280,
+      "name": "Bon App\u00e9tit",
+      "url": "https://open.spotify.com/track/2JrwkF8KdIaKclovniPunt"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -135,6 +219,22 @@
       "duration_ms": 294252,
       "name": "I Wanna Be Down",
       "url": "https://open.spotify.com/track/4cxZb1OMmlLdGoZYTJegDL"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Skyway",
+        "url": "https://open.spotify.com/album/5rlf26FLZWrcLBZWzxT6Z6"
+      },
+      "artists": [
+        {
+          "name": "Steve Oliver",
+          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
+        }
+      ],
+      "duration_ms": 221677,
+      "name": "Skyway",
+      "url": "https://open.spotify.com/track/1FGGYZhdSmyCNuu4jFPljf"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -351,26 +451,6 @@
       "duration_ms": 318733,
       "name": "Savoir Faire",
       "url": "https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Deep Into You",
-        "url": "https://open.spotify.com/album/0N4DaL3j9Awcu941nalsE4"
-      },
-      "artists": [
-        {
-          "name": "The Smooth Jazz Alley",
-          "url": "https://open.spotify.com/artist/3rpiTLuutXBtuveSbsmpkJ"
-        },
-        {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
-        }
-      ],
-      "duration_ms": 250813,
-      "name": "Deep Into You",
-      "url": "https://open.spotify.com/track/1K0U3DzDQ3bohci5WRgmkd"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -1109,22 +1189,6 @@
       "url": "https://open.spotify.com/track/72ZZhAjKqZbx6u33C7jghZ"
     },
     {
-      "added_at": "2022-10-17 15:45:13",
-      "album": {
-        "name": "Look Both Ways",
-        "url": "https://open.spotify.com/album/6S2AOidMcHGkQDOiDpAxrj"
-      },
-      "artists": [
-        {
-          "name": "Ken Navarro",
-          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
-        }
-      ],
-      "duration_ms": 283760,
-      "name": "Look Both Ways",
-      "url": "https://open.spotify.com/track/1v1SJOhvTYwMbamGubPw34"
-    },
-    {
       "added_at": "2022-10-28 04:01:00",
       "album": {
         "name": "Breakthrough (Radio Version)",
@@ -1301,22 +1365,6 @@
       "url": "https://open.spotify.com/track/01T4bEtV47xjJQ2ER7rZj2"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Make Up Your Mind (Radio Edit)",
-        "url": "https://open.spotify.com/album/7euOjpEALM3P4Q2p0U6hVC"
-      },
-      "artists": [
-        {
-          "name": "Dee Brown",
-          "url": "https://open.spotify.com/artist/5KQWbnjf2snsqPD9e3NNt7"
-        }
-      ],
-      "duration_ms": 240280,
-      "name": "Make Up Your Mind - Radio Edit",
-      "url": "https://open.spotify.com/track/0RGZmBcov71tCy54JdHwcu"
-    },
-    {
       "added_at": "2022-10-24 14:43:12",
       "album": {
         "name": "Unspeakable",
@@ -1395,34 +1443,6 @@
       "duration_ms": 237586,
       "name": "Pioneer Town",
       "url": "https://open.spotify.com/track/53djpTONT01aF8xYjuLosr"
-    },
-    {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Think Critically",
-        "url": "https://open.spotify.com/album/3yqlMgLOD7vcIr709YGGt5"
-      },
-      "artists": [
-        {
-          "name": "Matthew Shell",
-          "url": "https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9"
-        },
-        {
-          "name": "Arun Shenoy",
-          "url": "https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU"
-        },
-        {
-          "name": "Douglas Lira",
-          "url": "https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI"
-        },
-        {
-          "name": "Jonathan Wesley",
-          "url": "https://open.spotify.com/artist/4PzdAdVyRd6Un66vHOD6st"
-        }
-      ],
-      "duration_ms": 251076,
-      "name": "Think Critically",
-      "url": "https://open.spotify.com/track/7td9QhTIGCmNMP1UCNIWdp"
     },
     {
       "added_at": "2022-03-04 05:01:00",
@@ -1527,22 +1547,6 @@
       "duration_ms": 239893,
       "name": "When and Where",
       "url": "https://open.spotify.com/track/1VR8txe3fStPrSSzqeDOPc"
-    },
-    {
-      "added_at": "2022-03-04 05:01:00",
-      "album": {
-        "name": "Simply Worship",
-        "url": "https://open.spotify.com/album/7o99jciAk5Pr2myTCnMWh9"
-      },
-      "artists": [
-        {
-          "name": "Uriel Vega",
-          "url": "https://open.spotify.com/artist/1m9G79dw6i91jo4o5k6AEg"
-        }
-      ],
-      "duration_ms": 249720,
-      "name": "Way Maker",
-      "url": "https://open.spotify.com/track/5mwRmYIiy0rISoe74f1Hol"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -1759,38 +1763,6 @@
       "duration_ms": 257410,
       "name": "Lavish",
       "url": "https://open.spotify.com/track/7HWcoYr38NGhW8yIXcTLib"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/0iQgv8ZvUhQlNylLYRfFJ7"
-      },
-      "artists": [
-        {
-          "name": "Matthew Shell",
-          "url": "https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9"
-        },
-        {
-          "name": "Arun Shenoy",
-          "url": "https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU"
-        },
-        {
-          "name": "Douglas Lira",
-          "url": "https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI"
-        },
-        {
-          "name": "Sami Turunen",
-          "url": "https://open.spotify.com/artist/2xLnJ9osiiSOHRiJT28qiO"
-        },
-        {
-          "name": "Strat Carter",
-          "url": "https://open.spotify.com/artist/4xBUsH1MTjkIJ70brUkFSx"
-        }
-      ],
-      "duration_ms": 187818,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/6bGPsVqyQyTs1QPus8AFAP"
     },
     {
       "added_at": "2022-07-01 04:02:00",

@@ -4,7 +4,7 @@
 
 > Driving electronic grooves for improved motivation and performance.
 
-138 songs - 7 hr 42 min
+139 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Casa Commercial](https://open.spotify.com/track/4wwrQNY2AjrCt2mGc7HcQA) | [Palo Santo](https://open.spotify.com/artist/52lmTJ5n4YL6wqaVelJ3mJ) | [Casa Commercial](https://open.spotify.com/album/2TtYOujCGZcesSm6FEe24g) | 2:48 | 2023-03-10 |  |
 | [Chapter Two](https://open.spotify.com/track/0LOGcNCFLfCWLh9mzTmaG5) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Chapter Two](https://open.spotify.com/album/2k4TuEENRlXWOp9sJLAnDr) | 5:11 | 2022-09-23 |  |
 | [Clearance](https://open.spotify.com/track/4Xs8dQwj1Ic4FyCcCyRKYq) | [Shiruky](https://open.spotify.com/artist/1Tr7ffkJ66E8bXTm2g7uEM) | [Clearance](https://open.spotify.com/album/32i7uXRwJK36jBrjndQ7m8) | 5:26 | 2022-10-07 |  |
+| [Clearly](https://open.spotify.com/track/4jQFk9HpGI7J4h8DqAUKsW) | [Vince Violet](https://open.spotify.com/artist/4rEFfTuw86reS4wKHIp9Np) | [Clearly](https://open.spotify.com/album/3QX8yDjkNZ2S0By7xwTL7r) | 2:28 | 2023-04-28 |  |
 | [cloudless](https://open.spotify.com/track/5XCUn3nfOkGJYOyGshdFhC) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [cloudless](https://open.spotify.com/album/6HyFrG0HkKZILVZJCwXt8U) | 3:03 | 2023-02-17 |  |
 | [Clouds of Saturn](https://open.spotify.com/track/0P3NmkTGRUF0Asg8FuAOTv) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Primordial](https://open.spotify.com/album/17yAydXl6iXvXJojFXYDVp) | 5:50 | 2022-09-23 |  |
 | [Creatures](https://open.spotify.com/track/2Xu88uUM8dvRSzsZa8Tm2W) | [Justin Berghart](https://open.spotify.com/artist/2U8TggBhPjlTITew6Z3Dgt) | [Creatures](https://open.spotify.com/album/4GSSe42yWKGReogQuuUfuE) | 4:58 | 2022-09-23 |  |
@@ -127,7 +128,7 @@
 | [Something in the Water](https://open.spotify.com/track/4mDWO0QP4kZ37nHonhCHtd) | [Jo Lange](https://open.spotify.com/artist/1IoUhC61gvcKQiYvbus1me) | [Rise Together](https://open.spotify.com/album/6v5H9zuekGF6sK9iDOd6vZ) | 3:19 | 2022-09-23 |  |
 | [stories 13](https://open.spotify.com/track/6HNgWzpxQl1qukSKeIuqid) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [stories 13](https://open.spotify.com/album/56rTivunke1UwRpxEe8yMP) | 2:42 | 2023-01-06 |  |
 | [Strando](https://open.spotify.com/track/5w7VoQPLh12DPLASLcd4ew) | [Pablo Funke](https://open.spotify.com/artist/2XsRJTf7BZQTrb3BumlhHm) | [Strando](https://open.spotify.com/album/00RDUWlShtyBYbZvdpB89W) | 2:57 | 2022-09-23 |  |
-| [Sweet Harmony \- Erdi Irmak Remix](https://open.spotify.com/track/0ZEGR6XcO7gG8aFhTMPofm) | [David Hasert](https://open.spotify.com/artist/5k3tGz3uryhQGnQryA2b6d), [Beatamines](https://open.spotify.com/artist/12q8WblexNLJ0QGejfoeXK), [Erdi Irmak](https://open.spotify.com/artist/5KIoXQYGj3bWNxCVkiW7M6) | [Sweet Harmony \(Remixed\)](https://open.spotify.com/album/02MzP5OO5FfTgyH1OlpEnS) | 6:46 | 2023-03-10 |  |
+| [Sweet Harmony \- Erdi Irmak Remix](https://open.spotify.com/track/0ZEGR6XcO7gG8aFhTMPofm) | [David Hasert](https://open.spotify.com/artist/5k3tGz3uryhQGnQryA2b6d), [Beatamines](https://open.spotify.com/artist/12q8WblexNLJ0QGejfoeXK), [Erdi Irmak](https://open.spotify.com/artist/5KIoXQYGj3bWNxCVkiW7M6) | [Sweet Harmony \(Remixed\)](https://open.spotify.com/album/02MzP5OO5FfTgyH1OlpEnS) | 6:46 | 2023-03-10 | 2023-04-29 |
 | [talking to the stars](https://open.spotify.com/track/7nPMoLmBEkX5RZJFu69yBJ) | [Petrossi](https://open.spotify.com/artist/292Qxue6mDhhn2lAb1UTPY) | [talking to the stars](https://open.spotify.com/album/0QYLpRpeFBLc9ZluwNesya) | 3:10 | 2023-01-06 |  |
 | [tanlines](https://open.spotify.com/track/1q3rZdIOgKe4LQPpcBqiyo) | [metricity](https://open.spotify.com/artist/3GyvrTet9xaits2vMSrVlT) | [tanlines](https://open.spotify.com/album/3eD0id4j2SrYRn9VeX5nkm) | 3:00 | 2022-09-23 |  |
 | [Tempted](https://open.spotify.com/track/6hiA6WO0DRm9D480BIGqOT) | [Summon U](https://open.spotify.com/artist/0TyHSpKbAEP2QoXB7jVxCE) | [Technically Sane](https://open.spotify.com/album/3zVigb4My48jZIPLWVDiRW) | 2:55 | 2022-12-09 |  |

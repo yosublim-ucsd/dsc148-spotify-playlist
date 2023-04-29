@@ -240,6 +240,24 @@
     {
       "album": {
         "name": "The Minstrel From Clare",
+        "url": "https://open.spotify.com/album/4alXmlXENnuZnPQUJkYKVC"
+      },
+      "artists": [
+        {
+          "name": "Willie Clancy",
+          "url": "https://open.spotify.com/artist/4KK08Oc4Xupje3eUyq8SJS"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305813,
+      "name": "Caoineadh An Spailp\u00edn (The Spalpeen's Lament)",
+      "url": "https://open.spotify.com/track/2VoNApWzE4XWtE90e4BFJw"
+    },
+    {
+      "album": {
+        "name": "The Minstrel From Clare",
         "url": "https://open.spotify.com/album/6QK8bIcu19iuEPfyenHHDl"
       },
       "artists": [
@@ -250,7 +268,7 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 305813,
       "name": "Caoineadh An Spailp\u00edn (The Spalpeen's Lament)",
       "url": "https://open.spotify.com/track/3sQcd81KocTl0ZVQvcqh2n"
@@ -1592,7 +1610,7 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 137093,
       "name": "Roaring Mary / Stormy Weather",
       "url": "https://open.spotify.com/track/1La2rKoNWzTT4KD5qlz1Sn"
@@ -1614,6 +1632,24 @@
       "duration_ms": 137093,
       "name": "Roaring Mary / Stormy Weather",
       "url": "https://open.spotify.com/track/1ObSUAb8X6yH2rnJruvltj"
+    },
+    {
+      "album": {
+        "name": "Bundle And Go",
+        "url": "https://open.spotify.com/album/1qFZXECDg894gYOU3PX8zG"
+      },
+      "artists": [
+        {
+          "name": "John Doherty",
+          "url": "https://open.spotify.com/artist/6qN1MlgBXAnLRxGALRVevQ"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137093,
+      "name": "Roaring Mary / Stormy Weather",
+      "url": "https://open.spotify.com/track/2dmoX3HaohxkJ6ubNJAkAP"
     },
     {
       "album": {

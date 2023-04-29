@@ -4,7 +4,7 @@
 
 > Från PJ Harvey via Jenny Wilson till Amanda Bergman och Slowgold\. Här hör du några av alla kvinnor som är med och skriver indiehistoria.
 
-174 songs - 11 hr 14 min
+176 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Brief Moment](https://open.spotify.com/track/3TmvPWfJ0KPI3q0I70D9wE) | [Oh Land](https://open.spotify.com/artist/46CuxapoPjUfIOiXdNq7qM) | [Brief Moment](https://open.spotify.com/album/2fCrcBpl2zsrRGrEjARtc6) | 3:37 | 2021-06-15 |  |
 | [Chasing Shadows](https://open.spotify.com/track/1vr8QWVT3ibyaFdqQxiMwI) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Chasing Shadows](https://open.spotify.com/album/7y6iOcabqDVuQF148KPrg0) | 3:15 | 2021-06-15 | 2022-07-29 |
 | [Chasing Shadows](https://open.spotify.com/track/1wXWuZgVO52kWbiQNTaBb1) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [99 Cents](https://open.spotify.com/album/0DOzmXcSztIomiurOwMivk) | 3:15 | 2021-06-15 |  |
-| [Cry](https://open.spotify.com/track/55of3FNGaCpt5scLKZyas3) | [Saga Back](https://open.spotify.com/artist/6FRCzy12LTGeWQs6mKfX3R) | [Cry](https://open.spotify.com/album/0wFkZ4pDDUJg2IiOpYiEjc) | 4:31 | 2021-06-15 |  |
+| [Cry](https://open.spotify.com/track/55of3FNGaCpt5scLKZyas3) | [Saga Back](https://open.spotify.com/artist/6FRCzy12LTGeWQs6mKfX3R) | [Cry](https://open.spotify.com/album/0wFkZ4pDDUJg2IiOpYiEjc) | 4:31 | 2021-06-15 | 2023-04-29 |
+| [Cry](https://open.spotify.com/track/5VqIdl5ibhCUmv2wRfNKhS) | [Saga Back](https://open.spotify.com/artist/6FRCzy12LTGeWQs6mKfX3R) | [Cry](https://open.spotify.com/album/5wZFpbg0FfDVEU1t5uAgjD) | 4:31 | 2021-06-15 |  |
 | [Daniel](https://open.spotify.com/track/5VvsZvy1mwx4teyvI7O9rs) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Two Suns](https://open.spotify.com/album/7cj1dERc5yhFBqtxlRYGSe) | 4:11 | 2021-06-15 |  |
 | [deep end](https://open.spotify.com/track/3LYSQacvVpDkPkxzuWEBUc) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [so sad so sexy](https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE) | 3:05 | 2021-06-15 |  |
 | [Demands](https://open.spotify.com/track/0o3CUHx38Z22LRYTYf5aPO) | [Makthaverskan](https://open.spotify.com/artist/57MIstrTi3Sw9J9yJybN0E) | [Demands](https://open.spotify.com/album/6jW0ajGzlKJOLIRtIl4q5h) | 2:59 | 2021-06-15 | 2022-07-29 |
@@ -69,7 +70,8 @@
 | [Hurt Me](https://open.spotify.com/track/2MMFpdctgwEkUlfP3kyPDG) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Long Way Home](https://open.spotify.com/album/6yhHW85d9Z6D3uyvLZSZxI) | 3:51 | 2021-06-15 | 2022-07-29 |
 | [Hurt Me](https://open.spotify.com/track/7fApw5FcXz2wAEMaIwT52E) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Long Way Home](https://open.spotify.com/album/5h5HjSBjZ2dAuGxGL6L2EB) | 3:51 | 2021-06-15 |  |
 | [Hurt Me](https://open.spotify.com/track/4VzsPe0dBP2TlCixBySlmF) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Common Culture, Vol\. VI](https://open.spotify.com/album/5POaAwJzc1QmcqFuvrfNGr) | 3:52 | 2021-06-15 | 2022-11-14 |
-| [I Don't Have To](https://open.spotify.com/track/2wCw9Y4cOsjiv8xaCb1BTs) | [Sibille Attar](https://open.spotify.com/artist/4hCWXPfrkKQKDVVbRUmkTq) | [I Don't Have To](https://open.spotify.com/album/3x4aQqDtVVFFVdhNfUAUtM) | 4:45 | 2021-06-15 |  |
+| [I Don't Have To](https://open.spotify.com/track/2wCw9Y4cOsjiv8xaCb1BTs) | [Sibille Attar](https://open.spotify.com/artist/4hCWXPfrkKQKDVVbRUmkTq) | [I Don't Have To](https://open.spotify.com/album/3x4aQqDtVVFFVdhNfUAUtM) | 4:45 | 2021-06-15 | 2023-04-29 |
+| [I Don't Have To](https://open.spotify.com/track/5vgPGkZXSt8g5RoS0gzO6D) | [Sibille Attar](https://open.spotify.com/artist/4hCWXPfrkKQKDVVbRUmkTq) | [I Don't Have To](https://open.spotify.com/album/6aPouQIdUltYjgMQQlgdUT) | 4:45 | 2021-06-15 |  |
 | [I Don't Have To](https://open.spotify.com/track/6yvNOi2oi4LWqmFFN89l2r) | [Sibille Attar](https://open.spotify.com/artist/4hCWXPfrkKQKDVVbRUmkTq) | [Paloma's Hand](https://open.spotify.com/album/1NEth2lgFszWWglSzD9VZh) | 4:45 | 2021-06-15 | 2022-07-29 |
 | [I Never Really](https://open.spotify.com/track/7IRBl1chlnhFklccDFJ5v1) | [Anna Leone](https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj) | [I Never Really](https://open.spotify.com/album/777KZLWjGNfxUPVmZK6URM) | 3:58 | 2021-06-15 | 2022-07-29 |
 | [I Never Really](https://open.spotify.com/track/7F83IxwksIdCgxk30MUPXM) | [Anna Leone](https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj) | [Wandered Away](https://open.spotify.com/album/1x6WXEqvgHDBxGKpxLAaz1) | 3:59 | 2021-06-15 |  |

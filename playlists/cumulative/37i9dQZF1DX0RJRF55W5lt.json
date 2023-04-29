@@ -1107,6 +1107,28 @@
     },
     {
       "album": {
+        "name": "Just Gets Better",
+        "url": "https://open.spotify.com/album/3WSB8rJfDTxT192dR3ZXkR"
+      },
+      "artists": [
+        {
+          "name": "TJR",
+          "url": "https://open.spotify.com/artist/2mOi0sQN0m20JitMkBLkWP"
+        },
+        {
+          "name": "Xavier",
+          "url": "https://open.spotify.com/artist/6CO9AMgdkYPAC1rPyChGwB"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439083,
+      "name": "Just Gets Better - Extended Dub",
+      "url": "https://open.spotify.com/track/4yF939fEIyto1xOaxb6GmA"
+    },
+    {
+      "album": {
         "name": "Summer Heat",
         "url": "https://open.spotify.com/album/46QSMAy6Q1fX9IirJpFDPH"
       },
@@ -1680,7 +1702,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 320546,
       "name": "Realise",
       "url": "https://open.spotify.com/track/2cIg9G9VSyYMsHiDSBzqyz"

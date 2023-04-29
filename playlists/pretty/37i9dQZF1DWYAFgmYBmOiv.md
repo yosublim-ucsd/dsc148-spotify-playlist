@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 
 > POV: It's your last night with your high school sweetheart, curated by Jordan Fisher from Hello, Goodbye, and Everything in Between
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,744 likes - 52 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,779 likes - 52 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 | 30 | [Lo Mejor de Mi Vida Eres Tú \(feat\. Natalia Jiménez\)](https://open.spotify.com/track/2uhaDVmfG7pT94VO5jl2r4) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Más Música + Alma + Sexo](https://open.spotify.com/album/0a9o88R6EXFDtbcbdYqKD2) | 3:36 |
 | 31 | [Who Are You?](https://open.spotify.com/track/4CvTWDcyTOCDVY4SbXZvqF) | [Cal Scruby](https://open.spotify.com/artist/2wcrc3fjebDRLVdtRUa3pu) | [Unsigned](https://open.spotify.com/album/7yzQttn0wrkF1ivIPyYvq8) | 2:33 |
 | 32 | [Mover Awayer](https://open.spotify.com/track/1yyIxshSIfW89EPTW0xkPH) | [Hobo Johnson](https://open.spotify.com/artist/05SdqPzK4m3k1ljK2wrTSP) | [The Fall of Hobo Johnson](https://open.spotify.com/album/3QrkHSj8pBzE1Kwhpnktkw) | 3:35 |
-| 33 | [Camera](https://open.spotify.com/track/7eSjpSUNaP55QMwPY2C7fb) | [Charly Bliss](https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh) | [Young Enough](https://open.spotify.com/album/1r4TaIR9nZHCM2umwoEiWB) | 3:11 |
+| 33 | [Camera](https://open.spotify.com/track/1E7JG4gjPsuld6KGc3q4ON) | [Charly Bliss](https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh) | [Young Enough](https://open.spotify.com/album/1Aq2sk7wwC80eOmjvU9Suk) | 3:11 |
 | 34 | [Groceries](https://open.spotify.com/track/3II5NhDhjzIessLfaSjPQn) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In the Sky](https://open.spotify.com/album/0WuS7pRWpHnsSjOqizOZix) | 3:37 |
 | 35 | [dancing around](https://open.spotify.com/track/5UAOuU3YK9xo76vtrhyDng) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [ley lines](https://open.spotify.com/album/0gSkJ8vX0yW1mkNKORxhMP) | 3:55 |
 | 36 | [Drift](https://open.spotify.com/track/1bJulrRtEET3KyjpYpaAlX) | [Peached](https://open.spotify.com/artist/7ihtWddopw2KlLH90xZQiL) | [Peached](https://open.spotify.com/album/1JXoCmmLYvbifDmKOOneYM) | 3:30 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 | 51 | [If You Think It's Love](https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen](https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG) | 3:23 |
 | 52 | [Seventeen](https://open.spotify.com/track/4gsR34XSIE2fUY4odwZqym) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Seventeen](https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p) | 3:45 |
 
-Snapshot ID: `MCw3MjNlNTI1N2Q3MjI2YmE4MTQzZmQ5MDMyMmE0NmZjNjExZjRkMGQ1`
+Snapshot ID: `MCw1M2VmYWMyMWU2ZjY0MmMwNzk1ZTc5NzNmMzIyM2NlYTJmZTg5MWI0`

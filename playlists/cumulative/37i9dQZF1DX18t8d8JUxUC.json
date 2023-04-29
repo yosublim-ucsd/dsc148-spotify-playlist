@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "This is what folk sounds like en espa\u00f1ol. Cover: selines",
+  "description": "This is what folk sounds like en espa\u00f1ol. Cover: Y La Bamba",
   "name": "Latin Folk",
   "tracks": [
     {
@@ -338,7 +338,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 213993,
       "name": "El Conticinio",
       "url": "https://open.spotify.com/track/6dDhaHqJ3wUD3jbjGUBwzh"
@@ -718,6 +718,24 @@
       "duration_ms": 190312,
       "name": "Norte",
       "url": "https://open.spotify.com/track/1oro7qxc5WjpcOGhaE0yA3"
+    },
+    {
+      "album": {
+        "name": "Lucha",
+        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262184,
+      "name": "Nunca",
+      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
     },
     {
       "album": {

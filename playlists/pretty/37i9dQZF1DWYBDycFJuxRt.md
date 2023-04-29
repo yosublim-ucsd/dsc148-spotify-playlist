@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Mrs\. GREEN APPLE \*👉 <a href="https://spice.eplus.jp/articles/317605?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,412 likes - 79 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,597 likes - 79 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 33 | [LUV IN GRAVE](https://open.spotify.com/track/27i0N9eZ4QFFGXDbNy5M8G) | [e5](https://open.spotify.com/artist/5UOj6C1InE5WTmBXNuemt4) | [LUV IN GRAVE](https://open.spotify.com/album/6gU0ej3oslGgYUKtenTEXo) | 2:12 |
 | 34 | [Cosmos](https://open.spotify.com/track/3plVtRi5jEt5P8ID4WNPgH) | [Taichi Mukai](https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH) | [Cosmos](https://open.spotify.com/album/1PRWyjzjtBYC2nZOA4tHZt) | 3:32 |
 | 35 | [GO](https://open.spotify.com/track/1Ui54Whd5iCFbpdkFwdFae) | [gb](https://open.spotify.com/artist/7Ll3Cj9QGaAJ42YdRcFKG6) | [GO](https://open.spotify.com/album/4NVFXN8Hzc53QPggvt7Hb3) | 3:16 |
-| 36 | [SHOUDOU DO FEAT.ZAINICHI FUNK](https://open.spotify.com/track/4RppPjQKAsUSOWksGuTRch) | [s\*\*t kingz](https://open.spotify.com/artist/4eRPT3dCcYsuZ2dFqqcaYx), [ZAINICHI FUNK](https://open.spotify.com/artist/7BRVxPmJQskxNWHYYaMeBk) | [SHOUDOU DO FEAT.ZAINICHI FUNK](https://open.spotify.com/album/6EcH1dMUc0HQTDMqc95Jrv) | 3:54 |
+| 36 | [SHOUDOU DO FEAT.ZAINICHI FUNK](https://open.spotify.com/track/4RppPjQKAsUSOWksGuTRch) | [s\*\*t kingz](https://open.spotify.com/artist/4eRPT3dCcYsuZ2dFqqcaYx), [Zainichi Funk](https://open.spotify.com/artist/37hqgMV84m06updLlBFhIa) | [SHOUDOU DO FEAT.ZAINICHI FUNK](https://open.spotify.com/album/6EcH1dMUc0HQTDMqc95Jrv) | 3:54 |
 | 37 | [Seimei Oka](https://open.spotify.com/track/1X0ryvast6yk2en45qhvKl) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Zeitaku](https://open.spotify.com/album/0l6eHIUnUiOmzPUYsflA4q) | 3:09 |
 | 38 | [ブレーメン feat\. 優里](https://open.spotify.com/track/5zUVDALiILv9EvbvZydVXu) | [BAK](https://open.spotify.com/artist/1WmnQSoQxUa4x14IWgHCiD), [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [ブレーメン feat\. 優里](https://open.spotify.com/album/540MyYAU8u99BcijqR7z65) | 2:54 |
 | 39 | [絆](https://open.spotify.com/track/3WkoXpSOBUBDFO0j3BP1NC) | [竹内唯人](https://open.spotify.com/artist/2OpX0FyI9sULjE7pmpT0eh) | [絆](https://open.spotify.com/album/3rVbbEJcY40JeEfrEUx2OB) | 4:23 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 60 | [RODEO](https://open.spotify.com/track/3TNnABL3T1O4fsF3WU81oM) | [JAY'ED](https://open.spotify.com/artist/3vlAUneucinIokaOUeYbrv) | [RODEO](https://open.spotify.com/album/0FEnQ35sFw2yeSZLy4UQ6D) | 2:29 |
 | 61 | [Reflection](https://open.spotify.com/track/1h6phpaTD6CX7uIZ50VK8l) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [Reflection](https://open.spotify.com/album/5A6qp1Olvm4y6VRjeSpdYH) | 3:55 |
 | 62 | [Reason](https://open.spotify.com/track/7qqxXmYJxkWzDFyVisW5Cm) | [EXILE](https://open.spotify.com/artist/6zGmypGQUBXD4ZC9EbfMme) | [Reason](https://open.spotify.com/album/3O9KOYys6M3UjMJzyV30ll) | 3:23 |
-| 63 | [Flash Light](https://open.spotify.com/track/1502rJ1m8tYycaTk7UMID3) | [FANCYLABO](https://open.spotify.com/artist/34MPZmd0trUjRPtfDVUrwo), [Aoi Yagawa](https://open.spotify.com/artist/7w3N4hKPh9CssP6wIKDaww), [Miori Ichikawa](https://open.spotify.com/artist/47FeV9K8iEFuZTUwneophb) | [Flash Light](https://open.spotify.com/album/6D2ywV4KDJnnWv3zMcz35m) | 3:11 |
+| 63 | [Flash Light](https://open.spotify.com/track/1502rJ1m8tYycaTk7UMID3) | [FANCYLABO](https://open.spotify.com/artist/34MPZmd0trUjRPtfDVUrwo), [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Aoi Yagawa](https://open.spotify.com/artist/7w3N4hKPh9CssP6wIKDaww), [Miori Ichikawa](https://open.spotify.com/artist/47FeV9K8iEFuZTUwneophb) | [Flash Light](https://open.spotify.com/album/6D2ywV4KDJnnWv3zMcz35m) | 3:11 |
 | 64 | [barla \(feat\. BBY NABE\)](https://open.spotify.com/track/6zOjUZky4Yxf9huQ2vH0W3) | [bala](https://open.spotify.com/artist/2LCojy3bUYWczKPT4tdPos), [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp), [BBY NABE](https://open.spotify.com/artist/4zb2mUkgFg9NGwAJnzlS8B), [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3), [SUNNY ONLY 1](https://open.spotify.com/artist/1PcuXbYDyLM8zEsZT1EQtc) | [barla \(feat\. BBY NABE\)](https://open.spotify.com/album/3qxizPUi3fGBw0f9W5JY0R) | 2:50 |
 | 65 | [Pussy Wet](https://open.spotify.com/track/61WhutFRiu5dAQcqw4V0Nj) | [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj) | [PENTHOUSE](https://open.spotify.com/album/0LkcgrsOPVvh3RhDHeeoc6) | 2:46 |
 | 66 | [Deep Down Inside](https://open.spotify.com/track/7JIEt8gTy7R1H8PHRG2yRa) | [FRME](https://open.spotify.com/artist/7vswuB7NaevgoAvBhshwJ0), [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [Steps On The Hill](https://open.spotify.com/album/7fBjMPFSeFiKxzGLpFLiCc) | 3:18 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 78 | [春をかぐ街で](https://open.spotify.com/track/6JAfs28b4i8pqvQDkX0zLw) | [弁天ランド](https://open.spotify.com/artist/5b2XKPrpk1lCZlabEwUpjZ) | [春をかぐ街で](https://open.spotify.com/album/5HK1MYvKZv9aCHaoqxb1Cg) | 4:50 |
 | 79 | [Pretty in pink](https://open.spotify.com/track/4xCy0UyJ5qMx0bbt4F9B0d) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Pretty in pink](https://open.spotify.com/album/5Cgh8OZAJ8Y6haJyxMzBVH) | 2:56 |
 
-Snapshot ID: `MCwzNDUxNDcxODExNzA1MGM0ZWUyMDQyZGExYWYxNWMzM2Q0MjQ2ODBk`
+Snapshot ID: `MCxmMmI2N2IxYmM5NDA2NGJmOTAzNDhkNTI5NmI4NjcxZGJhNDFmMjkw`

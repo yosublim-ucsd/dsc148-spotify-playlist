@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,899 likes - 106 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,183 likes - 106 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 3 | [La Vie En Rose](https://open.spotify.com/track/2U0WWWzYhnFieMhO9ONB1F) | [Les Sales Gosses](https://open.spotify.com/artist/3ysjzjJYSYv6Rp4j2Buspn) | [La Vie En Rose](https://open.spotify.com/album/3OG7njGt1Efjfyy1T1wwEs) | 3:02 |
 | 4 | [La Mer](https://open.spotify.com/track/1oUv4nTiR8Fq0eS4KiAIyE) | [Léandre Porcher Orchestra](https://open.spotify.com/artist/4ohj4TI0oVXXRZR21JghI7) | [Songs in a Parisian Cafe](https://open.spotify.com/album/0zZVqcIwJ2Z5gGs9oooaO5) | 2:00 |
 | 5 | [Suzette](https://open.spotify.com/track/15G8JWzGHoxH7vryK5v2g4) | [Carré Bleu](https://open.spotify.com/artist/1QV54AIfd6OK9AbHFG19es) | [Les feuilles mortes](https://open.spotify.com/album/3OtWDcUB17fVR7UtlQof1c) | 3:12 |
-| 6 | [L'amour est bleu](https://open.spotify.com/track/7Bb0mYUZIkeNqkMwXMHmAK) | [Trio Musette](https://open.spotify.com/artist/2Kka3QLLTIlz98RWXh24is) | [L'amour est bleu](https://open.spotify.com/album/38ykcbUhDpC4h020SF900Y) | 2:58 |
+| 6 | [L'amour est bleu](https://open.spotify.com/track/7Bb0mYUZIkeNqkMwXMHmAK) | [Trio Musette](https://open.spotify.com/artist/2ePIFH8jgBe6Cqe2uc8s6A) | [L'amour est bleu](https://open.spotify.com/album/38ykcbUhDpC4h020SF900Y) | 2:58 |
 | 7 | [Ombrages](https://open.spotify.com/track/54B05cOuy6NpnZPx9KVfdh) | [Daniel Colin](https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F) | [Passion Gitane](https://open.spotify.com/album/3dQ85ldFwfDtl2WNdaED1l) | 2:57 |
 | 8 | [La Madrague](https://open.spotify.com/track/2viNrPziE44xoKvk80yLSD) | [Maurice Green](https://open.spotify.com/artist/0I2MdtSSCg5xHyymlJpnN3) | [La Madrague](https://open.spotify.com/album/7EuR137u6AEX6I36XJU822) | 2:40 |
 | 9 | [Aux Champs\-Elyseés](https://open.spotify.com/track/7i4BGa7PRBJeXqhZMJxeFG) | [Le Bleu Ensemble](https://open.spotify.com/artist/3cyV8AxHAoyulOGudi2PGG) | [Aux Champs\-Elyseés](https://open.spotify.com/album/63UeIk6OkauXHONXtVhFU9) | 2:12 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 105 | [Moon River](https://open.spotify.com/track/4P902IvZ9cyL3HiiuzNzYn) | [Cafe Accordion Orcherstra](https://open.spotify.com/artist/08vqZfm3Whj0wYPjBhILIc) | [Cinema](https://open.spotify.com/album/5G5cAxKMd5LFD4t5FKNI7V) | 3:09 |
 | 106 | [Happy Go Lucky](https://open.spotify.com/track/1pi75PZXe1OGVX6RRUXfLx) | [Craig Sharmat](https://open.spotify.com/artist/7AOYuTczmJd2pICRBxEPn4) | [Paris Nights: French Gyspy Jazz](https://open.spotify.com/album/03Winiv70Ae2uEgNgDkjvN) | 1:38 |
 
-Snapshot ID: `MCwxM2Y3NzNkYjQ4NjQ1YjVkYzUxZGI4MjIxZjAyNDllMTFkNjdiNDA5`
+Snapshot ID: `MCw1MmRhNTBkZDRjZWFjZmZlMWU5NzI3ZDdjODc4NmVjMmY4YjUzOGY3`

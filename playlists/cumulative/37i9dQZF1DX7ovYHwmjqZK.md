@@ -4,7 +4,7 @@
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-130 songs - 7 hr 46 min
+131 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Maria e o Samba](https://open.spotify.com/track/6dCTNvsRrNdYTRxExM2AnP) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Quem Foi Que Disse Que Eu Não Faço Samba...](https://open.spotify.com/album/1ohAo7XvtqAnByfw9N0GTf) | 3:14 | 2021-11-26 |  |
 | [Marinheiro](https://open.spotify.com/track/5iaG80CUlrQrMte5ZiBXMY) | [Giordano Rosa](https://open.spotify.com/artist/3iapiuDh6JQb6xxMsZA0TU) | [Giordano Rosa](https://open.spotify.com/album/0SHzAgEULVIquqUqZmm7ni) | 2:31 | 2021-11-26 |  |
 | [Mediação](https://open.spotify.com/track/2PQ4hwZReLwEZADXDse7Qw) | [Bossa Brothers](https://open.spotify.com/artist/4faMqe3bWK2ptjqMFqtejc) | [Mediação](https://open.spotify.com/album/54pb8DDox8wz1e6BIRj1L1) | 2:31 | 2021-11-26 |  |
-| [Meios](https://open.spotify.com/track/5Rudj6giXiwtgrKrzcCqJN) | [Tiganá Santana](https://open.spotify.com/artist/2Xgh3UMlVReiRdvCELwiK9) | [Vida Código](https://open.spotify.com/album/1SM0FwKInAuPooN8WDEclV) | 3:36 | 2021-11-26 |  |
+| [Meios](https://open.spotify.com/track/1h9pUIVYwc0Hjp9ZEMisy1) | [Tiganá Santana](https://open.spotify.com/artist/2Xgh3UMlVReiRdvCELwiK9) | [Vida Código](https://open.spotify.com/album/4pCNLcYtZ7g9KU3LMtVpBk) | 3:36 | 2023-03-17 |  |
+| [Meios](https://open.spotify.com/track/5Rudj6giXiwtgrKrzcCqJN) | [Tiganá Santana](https://open.spotify.com/artist/2Xgh3UMlVReiRdvCELwiK9) | [Vida Código](https://open.spotify.com/album/1SM0FwKInAuPooN8WDEclV) | 3:36 | 2021-11-26 | 2023-04-29 |
 | [Meios](https://open.spotify.com/track/7q4faaRT3g62sSowXwxtgg) | [Tiganá Santana](https://open.spotify.com/artist/2Xgh3UMlVReiRdvCELwiK9) | [Vida Codigo / Meios](https://open.spotify.com/album/6wo2oFZ5LnxYolpz4G4SQF) | 3:37 | 2022-10-14 | 2022-11-13 |
 | [Meios](https://open.spotify.com/track/03w5Y87L53zqYGvTIlUj2W) | [Tiganá Santana](https://open.spotify.com/artist/2Xgh3UMlVReiRdvCELwiK9), [Jorge Solovera](https://open.spotify.com/artist/3Tjm4zNHgFByjq82aLX9N1), [Sebastian Notini](https://open.spotify.com/artist/29pYaUWQ3RYaJfkJ14ELm6), [Aline Falcão](https://open.spotify.com/artist/3XlZKXZNlvhOyPJe9TaGHn), [ldson galter](https://open.spotify.com/artist/64UaxNjcHxcChL4253pwYV) | [Vida\-Código + Meios](https://open.spotify.com/album/1ehdOI4YPYd30lWnwKdl2W) | 3:37 | 2021-11-26 | 2022-07-29 |
 | [Muito a Vontade](https://open.spotify.com/track/0BSWuRqJLmv4EwN75FVWib) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [100% João Donato, Vol\. 1](https://open.spotify.com/album/3UL46vZZmblSru32OvgrlA) | 2:36 | 2021-11-26 |  |

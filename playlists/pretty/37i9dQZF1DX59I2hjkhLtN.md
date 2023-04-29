@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Lukky Boy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,099 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,107 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 99 | [Não](https://open.spotify.com/track/3BoOl2GNbhf9an8wsRHhF0) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN) | [Não](https://open.spotify.com/album/1d2c3KSL2HHoiIatAeMSEZ) | 3:30 |
 | 100 | [Sente a Pose](https://open.spotify.com/track/0EsAFX2pzFf3negTeCbURp) | [D´Lucca](https://open.spotify.com/artist/6QJtFKFdjqKMKfpEriBX0x), [Mil1](https://open.spotify.com/artist/6Y5PdeaQemhwIrkIDHslc3) | [Sente a Pose](https://open.spotify.com/album/05shwUvnw2zuF9JImbyagS) | 2:14 |
 
-Snapshot ID: `MCw3MmIxOGZhZDAzYTA1M2Q1NmVhMTI4MDYzMmI3MzM3ZjhhMWUyNjlm`
+Snapshot ID: `MCw4NjFhZGQ4ZDdkYmRkNWQ0ZmFhOTgxMWQ0NjNhNTNiM2U5YmY0ZTU1`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. El Mat\u00f3 a un Polic\u00eda Motorizado en portada.",
+  "description": "Sangre fresca en las escenas del indie y el rock. Juan Carlos Bodoque en Portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 341000,
       "name": "AAP",
       "url": "https://open.spotify.com/track/5KoFGCIAuX9aFVUXaJawvW"
@@ -356,7 +356,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 280889,
       "name": "Asi Estoy Yo Sin Ti",
       "url": "https://open.spotify.com/track/29BVNooeLb4Q7ua0e4H0K3"
@@ -472,7 +472,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 271336,
       "name": "Brillando",
       "url": "https://open.spotify.com/track/0LWWuL2b4xRHe0AzerNRl6"
@@ -606,7 +606,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 212826,
       "name": "Chain Reactionary",
       "url": "https://open.spotify.com/track/6duCXF5ciZHEEmzEcVIAAK"
@@ -997,6 +997,28 @@
     },
     {
       "album": {
+        "name": "DE ESTE SUE\u00d1O NO ME DESPIERTO",
+        "url": "https://open.spotify.com/album/68mnlQeSr1hXXOPZxYaRJa"
+      },
+      "artists": [
+        {
+          "name": "Daniel Qui\u00e9n",
+          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
+        },
+        {
+          "name": "Yonatan Mazor",
+          "url": "https://open.spotify.com/artist/3vIIkATsfM6dzKmHgv7qlZ"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197200,
+      "name": "DE ESTE SUE\u00d1O NO ME DESPIERTO",
+      "url": "https://open.spotify.com/track/7jNBgXRCQ8HWnSIX19vho7"
+    },
+    {
+      "album": {
         "name": "De la Orqu\u00eddea y la Avispa",
         "url": "https://open.spotify.com/album/7L50tSXXmpzbpIDpNDyv5d"
       },
@@ -1044,7 +1066,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 137058,
       "name": "Demasiado",
       "url": "https://open.spotify.com/track/12URqDQygL3AlD2wF5WbhN"
@@ -1282,6 +1304,24 @@
       "duration_ms": 185640,
       "name": "D\u00edas De Fuego",
       "url": "https://open.spotify.com/track/0llXG2KrSGVjW3fVJrrmcE"
+    },
+    {
+      "album": {
+        "name": "D\u00ednamo",
+        "url": "https://open.spotify.com/album/6IE6bOCP0rgHHAGMaEfDba"
+      },
+      "artists": [
+        {
+          "name": "Lorelle Meets The Obsolete",
+          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207560,
+      "name": "D\u00ednamo",
+      "url": "https://open.spotify.com/track/4ilX4HWxfVFE9VRzwuxsGq"
     },
     {
       "album": {
@@ -1609,6 +1649,24 @@
     },
     {
       "album": {
+        "name": "Plaza Futura",
+        "url": "https://open.spotify.com/album/7dmqZcDMJyCQuMapnNNkGP"
+      },
+      "artists": [
+        {
+          "name": "Los Romanticos de Zacatecas",
+          "url": "https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190232,
+      "name": "Fresno",
+      "url": "https://open.spotify.com/track/3S1L6zZ7cPVdNiK2cYXc74"
+    },
+    {
+      "album": {
         "name": "mix pa llorar en tu cuarto",
         "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
       },
@@ -1920,6 +1978,28 @@
       "duration_ms": 204963,
       "name": "Inevitable",
       "url": "https://open.spotify.com/track/1gptFG7KprUHogyVXLZytK"
+    },
+    {
+      "album": {
+        "name": "Jaula de Oro",
+        "url": "https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238926,
+      "name": "Jaula de Oro",
+      "url": "https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs"
     },
     {
       "album": {
@@ -2869,6 +2949,28 @@
     },
     {
       "album": {
+        "name": "S\u00f3lo D\u2019Lira",
+        "url": "https://open.spotify.com/album/2MTZC4iUhirPNczmmKPjTT"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        },
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234416,
+      "name": "Money In The Bank",
+      "url": "https://open.spotify.com/track/2X68b1UFH15ozldcKW4AeF"
+    },
+    {
+      "album": {
         "name": "Muerte en el Jard\u00edn Bot\u00e1nico",
         "url": "https://open.spotify.com/album/1xtbJb0nDQuoex12w7yILl"
       },
@@ -2898,7 +3000,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 188242,
       "name": "Mujer Divina",
       "url": "https://open.spotify.com/track/4LXv2G6XU4wbLY4c9AShpe"
@@ -3864,6 +3966,24 @@
       "duration_ms": 158478,
       "name": "Se\u00f1orita Revoluci\u00f3n",
       "url": "https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn"
+    },
+    {
+      "album": {
+        "name": "Sicario",
+        "url": "https://open.spotify.com/album/2WwerTFeLcncB0hVvx63t3"
+      },
+      "artists": [
+        {
+          "name": "The Americojones Experience",
+          "url": "https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270920,
+      "name": "Sicario",
+      "url": "https://open.spotify.com/track/7BzuY3JvxY3CW5yRmHXGYB"
     },
     {
       "album": {

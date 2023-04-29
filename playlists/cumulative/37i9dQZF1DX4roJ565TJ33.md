@@ -4,7 +4,7 @@
 
 > Svensk jazz när den är som bäst.
 
-143 songs - 10 hr 56 min
+144 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [I'm Through With Love](https://open.spotify.com/track/1GhJvKil3tRxTEay1Wt9uz) | [Frida Öhrn](https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq), [Patrik Boman](https://open.spotify.com/artist/6UJ3XmKfJ3nQmmfbkRRDxw), [The Blue Sounds](https://open.spotify.com/artist/0BhOoT9vdEhNihifcTqPMi), [Carl Orrje](https://open.spotify.com/artist/5dXBn9OSUXHhAJ1ChTq7T1), [Jesper Kviberg](https://open.spotify.com/artist/6NMvOwbJ1v5QAvJHRW4xSb) | [Me and You](https://open.spotify.com/album/5vcwRllDQfL0mehRfCqvxs) | 4:43 | 2022-12-01 |  |
 | [Il Cauboi](https://open.spotify.com/track/31uW2ynHWoji8SdhjxV8el) | [Nils Berg Cinemascope](https://open.spotify.com/artist/2VACX6wISeQjVQapXgWvm3) | [Basilicata Dreaming](https://open.spotify.com/album/1Tr9H9tqWTfCWEB62i1B6v) | 2:57 | 2023-01-26 |  |
 | [In This Moment](https://open.spotify.com/track/5ntssQtDHWUdKBYiQDQP5I) | [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [In This Moment](https://open.spotify.com/album/0UFAX4kDWFNLpXWAjrBq4G) | 3:43 | 2023-02-02 |  |
-| [Internationalen](https://open.spotify.com/track/4pQOo9ypR5yYV5O5xVq9mr) | [Franska Trion](https://open.spotify.com/artist/1oDZOVYmQduTh3G4nmsyqv) | [I Väntan På Jan Myrdals Död](https://open.spotify.com/album/0sNF0ybyLYMMIenRroSKXE) | 3:02 | 2021-11-08 |  |
+| [Internationalen](https://open.spotify.com/track/4pQOo9ypR5yYV5O5xVq9mr) | [Franska Trion](https://open.spotify.com/artist/1oDZOVYmQduTh3G4nmsyqv) | [I Väntan På Jan Myrdals Död](https://open.spotify.com/album/0sNF0ybyLYMMIenRroSKXE) | 3:02 | 2021-11-08 | 2023-04-29 |
+| [Internationalen](https://open.spotify.com/track/5slD6swSS3XtDiSzOOoL5h) | [Franska Trion](https://open.spotify.com/artist/1oDZOVYmQduTh3G4nmsyqv) | [I Väntan På Jan Myrdals Död](https://open.spotify.com/album/4hWEP5LLjHwtogEaeIHzz3) | 3:02 | 2023-04-27 |  |
 | [It Ends Now](https://open.spotify.com/track/2VNHGQazdShPrH1wxz5evd) | [Hannes Bennich](https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET), [Helen Salim](https://open.spotify.com/artist/6zpAdBSCeXbX1umJhUTuEI) | [It Ends Now](https://open.spotify.com/album/2n5vb0l7yIB44vb7H1DDF4) | 6:03 | 2022-09-15 |  |
 | [Jag kan se dig när](https://open.spotify.com/track/0IGyv2Zt8gTxMWTcj9PDjP) | [Carin Lundin](https://open.spotify.com/artist/4IMhnUPdhWUd6LkgL4GgV3), [Johan Setterlind](https://open.spotify.com/artist/1nDRkqtVQVGIKNJ53IppRp), [Erik Söderlind](https://open.spotify.com/artist/299uBqkrkdHLIcVLOUa9U6), [Mattias Welin](https://open.spotify.com/artist/2FadNpVetw7adOruTqDuZ2), [Mathias Algotsson](https://open.spotify.com/artist/5cxbLasvz3bRsChqr96Qy6), [Daniel Fredriksson](https://open.spotify.com/artist/7hKJYQtmuy2g7QAp5dmTle) | [Smulor och parafraser](https://open.spotify.com/album/6Dk2rnIv3koxtcUWaLM6fN) | 4:11 | 2021-11-08 |  |
 | [Jag vill nå dig \(Längtans samba\)](https://open.spotify.com/track/3Z15lR065tmY3RMGs60DwH) | [Jazzagenturen](https://open.spotify.com/artist/0PfYT2Yk58IWMc83t0iuiO), [Leo Lindberg Trio](https://open.spotify.com/artist/46jpwHnuLDnmEjcHMggddG) | [Jag vill nå dig \(Längtans samba\)](https://open.spotify.com/album/4UekZD3DLM9OvBryTTBWCE) | 3:44 | 2021-11-08 |  |

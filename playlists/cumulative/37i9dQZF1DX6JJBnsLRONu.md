@@ -4,13 +4,14 @@
 
 > Pushing the boundaries of instrumental Folk and Americana.
 
-79 songs - 5 hr 24 min
+82 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [34 Ghosts IV](https://open.spotify.com/track/2vXOjiwfjobOqrezcuSBok) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Ghosts I\-IV](https://open.spotify.com/album/0lOn8nKk4dzzRfnCCCRbwp) | 5:52 | 2022-02-10 |  |
+| [Across White Oak Mountain](https://open.spotify.com/track/2MNdcZ5yBHnMeww6jVITzc) | [Chuck Johnson](https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f) | [Crows in the Basilica](https://open.spotify.com/album/1D6s8KszoqLt9o6i0nyf9K) | 3:50 | 2023-04-14 |  |
 | [Across White Oak Mountain](https://open.spotify.com/track/6I7U9PRJPSLrmnieJA4B8U) | [Chuck Johnson](https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f) | [Crows In The Basilica](https://open.spotify.com/album/6haBtUE6M80jxNgGFRgcFw) | 3:50 | 2022-02-10 | 2022-07-29 |
-| [Across White Oak Mountain](https://open.spotify.com/track/6mFuM7qrH8p57mgYeG3IRI) | [Chuck Johnson](https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f) | [Crows in the Basilica](https://open.spotify.com/album/08ukVwsvdLCb4GSplKE3u6) | 3:50 | 2022-04-22 |  |
+| [Across White Oak Mountain](https://open.spotify.com/track/6mFuM7qrH8p57mgYeG3IRI) | [Chuck Johnson](https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f) | [Crows in the Basilica](https://open.spotify.com/album/08ukVwsvdLCb4GSplKE3u6) | 3:50 | 2022-04-22 | 2023-04-29 |
 | [Afar](https://open.spotify.com/track/2xYXPFalEjva3zI8ZYe2yQ) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Serpent \(In Quicksilver\)](https://open.spotify.com/album/3btBOcfiQYdEhYoiAKR4tl) | 2:34 | 2022-02-10 | 2023-02-02 |
 | [Afar](https://open.spotify.com/track/7ix5BtN2K7vsTpFWDqN8Bk) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 2:34 | 2022-09-30 |  |
 | [Agave](https://open.spotify.com/track/0DifKkrphdk37zLMFppXM2) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Belladonna](https://open.spotify.com/album/2WjEpzE4jtsoClOCYAxxQ4) | 1:58 | 2022-02-10 | 2022-07-29 |
@@ -34,7 +35,8 @@
 | [Dreaming of the Kelly Pool](https://open.spotify.com/track/2oiA79pJ9Y901ZS2qd6Jl1) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [Paul Sukeena](https://open.spotify.com/artist/2BATlF7iN0eToMP3ev80mH) | [Dreaming of the Kelly Pool](https://open.spotify.com/album/7L5ViL8FXX0tr7ccEByRfH) | 3:55 | 2022-04-22 |  |
 | [Dreaming of the Kelly Pool](https://open.spotify.com/track/3tLvxAAZi8EWFT5fW6R763) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [Paul Sukeena](https://open.spotify.com/artist/2BATlF7iN0eToMP3ev80mH) | [Dreaming of the Kelly Pool](https://open.spotify.com/album/67O2wOdn2nqHitF5e3Yim3) | 3:55 | 2022-02-10 | 2022-07-29 |
 | [Elk River](https://open.spotify.com/track/75s7uFrBUhwHH4sVbsSn0a) | [Six Organs Of Admittance](https://open.spotify.com/artist/5jX8L7D6vWHYlNj9k361vI) | [For Octavio Paz](https://open.spotify.com/album/1KsF9degqPu3DEJTQLalNI) | 3:11 | 2022-02-10 |  |
-| [Elsewhere](https://open.spotify.com/track/4COm8ZWRV6EgPqQLNglZaS) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Elsewhere](https://open.spotify.com/album/66qlDjIdK3xlEWCD8LxNfE) | 5:28 | 2023-04-14 |  |
+| [Elsewhere](https://open.spotify.com/track/08H9q3gCKeyj5VTU77I6s5) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Elsewhere](https://open.spotify.com/album/4K1vuIiWDUTu8tr9BCwyH9) | 5:28 | 2023-04-14 |  |
+| [Elsewhere](https://open.spotify.com/track/4COm8ZWRV6EgPqQLNglZaS) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Elsewhere](https://open.spotify.com/album/66qlDjIdK3xlEWCD8LxNfE) | 5:28 | 2023-04-14 | 2023-04-29 |
 | [Estancia](https://open.spotify.com/track/6JSZq2FkHOZGZ5hV85fBa2) | [Bill Elm](https://open.spotify.com/artist/2TWP5hw802RnTGqBo0GhaW), [Woody Jackson](https://open.spotify.com/artist/6VYtpsmVgSqOFf3ttfqnVX) | [Red Dead Redemption Original Soundtrack](https://open.spotify.com/album/7vtoDPM9m1Bs4srekUEpCK) | 2:02 | 2022-09-30 |  |
 | [Estancia](https://open.spotify.com/track/56wSQCknk5Fp0gOt9EaT2e) | [Bill Elm & Woody Jackson](https://open.spotify.com/artist/4bvAYuLthEXwoUpNhCc15S) | [Red Dead Redemption Original Soundtrack](https://open.spotify.com/album/22H5XKyHXkxHbty4jtBibg) | 2:02 | 2022-02-10 | 2022-11-30 |
 | [Flower Turned Inside\-Out](https://open.spotify.com/track/25ISO5GDUQU94hqhjFFQIS) | [Glenn Jones](https://open.spotify.com/artist/7HY8lCkyEUSL5jfENlkshV) | [Fleeting](https://open.spotify.com/album/1nJRtI9d5gAd3HZjN2IXLA) | 4:20 | 2022-02-10 |  |
@@ -46,7 +48,8 @@
 | [Huron](https://open.spotify.com/track/1pTkkX3dARoW4FOIBQv4rv) | [LaCerte](https://open.spotify.com/artist/3BtWF0iqzutntjuCfxh6NN) | [Huron](https://open.spotify.com/album/1eYlcFAGA6Nh0nMjlqrQZF) | 2:32 | 2022-02-10 |  |
 | [In a Cistern](https://open.spotify.com/track/4l9qE7OMktnSUGwvU7kLNU) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [In a Cistern b/w Into Clouds](https://open.spotify.com/album/6xlCxwfhcHoAB9QFPltjU3) | 4:20 | 2022-02-10 |  |
 | [Jericho](https://open.spotify.com/track/5oNvZprFIEffLJv5jVa9h9) | [Laurel Premo](https://open.spotify.com/artist/1xb97sU2gSPLt2TBtKQeVT) | [Jericho](https://open.spotify.com/album/0Vq9bdUGdZUCW2i1rmnjfk) | 4:52 | 2022-02-10 |  |
-| [Lena's Spanish Fandango](https://open.spotify.com/track/6OCTtpocRWu99aukOBx5Ho) | [Cameron Knowler](https://open.spotify.com/artist/23AZoLIuQTmTt3jK7VOMkP) | [Lena's Spanish Fandango](https://open.spotify.com/album/6l5BY7ev03UzlbJxKrq1bH) | 2:13 | 2022-02-10 |  |
+| [Lena's Spanish Fandango](https://open.spotify.com/track/3FknYgCiy9dsgoftmVgMIs) | [Cameron Knowler](https://open.spotify.com/artist/23AZoLIuQTmTt3jK7VOMkP) | [Places of Consequence](https://open.spotify.com/album/09rJ0SbyOwy3bjm8PUiiLG) | 2:13 | 2023-04-14 |  |
+| [Lena's Spanish Fandango](https://open.spotify.com/track/6OCTtpocRWu99aukOBx5Ho) | [Cameron Knowler](https://open.spotify.com/artist/23AZoLIuQTmTt3jK7VOMkP) | [Lena's Spanish Fandango](https://open.spotify.com/album/6l5BY7ev03UzlbJxKrq1bH) | 2:13 | 2022-02-10 | 2023-04-29 |
 | [Letting Go](https://open.spotify.com/track/0hsN9kGuV9J9KLcaB2l6Es) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/1uxQAxembtxvtTk1AoS7KQ) | 3:24 | 2022-02-10 | 2022-07-29 |
 | [Letting Go](https://open.spotify.com/track/2sYKMfMLXwmK6idbtpxYTD) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/46N1u5BuUGsZlj7pij2JRK) | 3:24 | 2022-04-22 |  |
 | [Lord It Over](https://open.spotify.com/track/1ep4SZNTde7rDftHhY9Yq1) | [Dylan Golden Aycock](https://open.spotify.com/artist/5LO5Gtv41xC0058NdQsDmZ) | [Church of Level Track](https://open.spotify.com/album/0naTNqCkQO4hukkSaWk9Md) | 4:38 | 2022-02-10 |  |

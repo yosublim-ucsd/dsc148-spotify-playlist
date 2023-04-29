@@ -673,6 +673,24 @@
     },
     {
       "album": {
+        "name": "Are You All In?",
+        "url": "https://open.spotify.com/album/6klnug3Zh3k8lgvRGfZBpX"
+      },
+      "artists": [
+        {
+          "name": "Boo Seeka",
+          "url": "https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189061,
+      "name": "Are You All In?",
+      "url": "https://open.spotify.com/track/3wsRCFsnAde4Ko1fMJ6wCg"
+    },
+    {
+      "album": {
         "name": "Ashes",
         "url": "https://open.spotify.com/album/41gMZm0ib3Je8hU0eFNUwS"
       },
@@ -1026,6 +1044,24 @@
       "duration_ms": 178088,
       "name": "BED",
       "url": "https://open.spotify.com/track/7jXQUrVhEpXdymfFWNDnQW"
+    },
+    {
+      "album": {
+        "name": "Been Thinking",
+        "url": "https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187275,
+      "name": "Been Thinking",
+      "url": "https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz"
     },
     {
       "album": {
@@ -3956,6 +3992,24 @@
       "duration_ms": 158048,
       "name": "Fear of the Dark",
       "url": "https://open.spotify.com/track/60piyPVEOV2eeB1Qg9VEDx"
+    },
+    {
+      "album": {
+        "name": "Feed Your Soul",
+        "url": "https://open.spotify.com/album/5Xp8o0mNfZpJmTgPP6PxSo"
+      },
+      "artists": [
+        {
+          "name": "Interupt",
+          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "Feed Your Soul",
+      "url": "https://open.spotify.com/track/0dIAyQaDukaRWePNPC8l4h"
     },
     {
       "album": {
@@ -7826,7 +7880,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 206019,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
@@ -10410,7 +10464,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 214945,
       "name": "Shakira: Bzrp Music Sessions, Vol. 53",
       "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
@@ -13894,7 +13948,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 161577,
       "name": "You Know What I Need - Shadow Child Classic Vocal Mix",
       "url": "https://open.spotify.com/track/2m4K9s4opg5e87UttVzT41"

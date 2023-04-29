@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Nickel Creek
 
-268 songs - 16 hr 53 min
+270 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [The Tide](https://open.spotify.com/track/7H60aEC32oOX4Fy4Ug2l0r) | [The Lonely Heartstring Band](https://open.spotify.com/artist/3d7YNQ39OxBxWOn1VX4J26) | [Deep Waters](https://open.spotify.com/album/3GzqeSQTMzPpo6Ernuzh2c) | 4:18 | 2022-07-22 |  |
 | [The Unfinished Path](https://open.spotify.com/track/2vWSZ03MsOyvZdHKn7PdNE) | [Jeff Picker](https://open.spotify.com/artist/3RrojqFzLBxlTfW6QQVtN1) | [The Unfinished Path](https://open.spotify.com/album/0b3dXmFRNJTZ3hdEk35GoG) | 4:10 | 2022-10-07 |  |
 | [This Time, Last Week](https://open.spotify.com/track/7Hth94P5JfHnyKNRhhN7sH) | [Sprig of That](https://open.spotify.com/artist/53VgTWcTeCcxwCYDS7voMa) | [This Time, Last Week](https://open.spotify.com/album/5CH6yP1XBrLDhIyVvq73o9) | 4:41 | 2023-02-10 |  |
+| [Three By Three](https://open.spotify.com/track/7xEQvXKOQepPgVbw9UV57M) | [Laura Cortese & The Dance Cards](https://open.spotify.com/artist/0jHvVCEhCmKwd3Aqz2Jwh3), [Laura Cortese](https://open.spotify.com/artist/5T5BMVZGSvhRXSx3alNp2n) | [Three By Three](https://open.spotify.com/album/7dEkDi7U2MZXTV7a606fDM) | 3:50 | 2023-04-28 |  |
 | [Throw Me in the Thicket \(When I Die\)](https://open.spotify.com/track/1L0yEDWiwrPGmtWOmBGrpn) | [The Local Honeys](https://open.spotify.com/artist/3KXxNSegk9keTDArt5YQMm) | [The Local Honeys](https://open.spotify.com/album/52832G1sKqnP5kcPigVPVs) | 3:27 | 2023-01-13 |  |
 | [Too Many Places](https://open.spotify.com/track/4fnrm2oUPL2SyOasYm31lQ) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [Turning Up The Ground](https://open.spotify.com/album/28oUDXddkgbgHpl4OJPWp5) | 3:23 | 2022-08-11 |  |
 | [Traveler](https://open.spotify.com/track/1d8RnzcjBkxDjnotF8KaAp) | [The Foreign Landers](https://open.spotify.com/artist/2sVahQ0cbVn83ccFg0klQv) | [Traveler](https://open.spotify.com/album/66IADnbHU3X1kasqfUtenr) | 3:36 | 2022-07-08 | 2022-12-03 |
@@ -252,6 +253,7 @@
 | [Updraft](https://open.spotify.com/track/6RMTeqT4f712BeGA6bdlyz) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Updraft](https://open.spotify.com/album/3rK9kArUsB3JSYZTo62gCJ) | 5:56 | 2022-07-22 |  |
 | [Valley Forge](https://open.spotify.com/track/0YdGjKALJmizKhcWEmM3Cp) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Sorrow Bound](https://open.spotify.com/album/0myjOWBNRcumLchBSeZCDj) | 2:05 | 2021-10-01 |  |
 | [Wagon Wheel](https://open.spotify.com/track/359krpyCKcFF8SFvqWES9L) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [O.C.M.S.](https://open.spotify.com/album/0ogkqQa8hPAtL02IqwJ36x) | 3:52 | 2021-10-01 | 2022-01-22 |
+| [Wake Me When It's Over](https://open.spotify.com/track/0J10lTnQV1rosvX0jYYX5J) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Wake Me When It's Over \[feat\. Sara Watkins, Sarah Jarosz, Aoife O'Donovan\]](https://open.spotify.com/album/0TagfK04olSVvnfHtWbhJz) | 4:18 | 2023-04-28 |  |
 | [Weevils in the Grits](https://open.spotify.com/track/5npvIsHPd35M5JioSnVJHs) | [Sami Braman](https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre), [Brittany Haas](https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP) | [Weevils in the Grits](https://open.spotify.com/album/40Yxmocscw8TzoyID1h45C) | 3:41 | 2023-02-17 |  |
 | [West of Houston \(Bonus Track\)](https://open.spotify.com/track/4x43n4J7FLEz92AYNKsEgi) | [Gavin Powell](https://open.spotify.com/artist/6PXQ7OwfxHb3IxWAjMMi3k) | [Jacksonville Sunrise](https://open.spotify.com/album/5EnUVtwTiJmNlwPRF6Gml3) | 3:29 | 2021-10-01 |  |
 | [Where the Long Line Leads](https://open.spotify.com/track/11U64nYtfHfPXpKmy8O29c) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Where the Long Line Leads](https://open.spotify.com/album/14lpUo1KioAmaEksNyAyAC) | 3:24 | 2023-03-24 |  |

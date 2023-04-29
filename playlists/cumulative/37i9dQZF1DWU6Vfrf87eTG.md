@@ -4,7 +4,7 @@
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-175 songs - 10 hr 25 min
+178 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,14 +12,16 @@
 | [\(Interlude\)](https://open.spotify.com/track/6KzRwSrGHZVYn7rfSIAC0g) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [Into The Wide](https://open.spotify.com/album/4hWx4cKcQKjq6uNGRJAnfL) | 1:21 | 2020-07-13 |  |
 | [A Prairie Tale](https://open.spotify.com/track/0gygA1P80G8a5l3vfFdCNn) | [King Creosote](https://open.spotify.com/artist/5SP6T04F8Ic9oftMVfdKkp) | [From Scotland With Love](https://open.spotify.com/album/3r5q6Gn99wKBamIRySGvWI) | 1:36 | 2020-07-13 |  |
 | [A Prairie Tale](https://open.spotify.com/track/3a9w7n6rSXCBe0PVnk208y) | [King Creosote](https://open.spotify.com/artist/5SP6T04F8Ic9oftMVfdKkp) | [From Scotland With Love](https://open.spotify.com/album/0rXZ7L03XlBerKk7eP7Phw) | 1:36 | 2020-07-13 | 2022-07-29 |
+| [Across White Oak Mountain](https://open.spotify.com/track/2MNdcZ5yBHnMeww6jVITzc) | [Chuck Johnson](https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f) | [Crows in the Basilica](https://open.spotify.com/album/1D6s8KszoqLt9o6i0nyf9K) | 3:50 | 2023-01-20 |  |
 | [Across White Oak Mountain](https://open.spotify.com/track/6I7U9PRJPSLrmnieJA4B8U) | [Chuck Johnson](https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f) | [Crows In The Basilica](https://open.spotify.com/album/6haBtUE6M80jxNgGFRgcFw) | 3:50 | 2020-07-13 | 2022-07-29 |
-| [Across White Oak Mountain](https://open.spotify.com/track/6mFuM7qrH8p57mgYeG3IRI) | [Chuck Johnson](https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f) | [Crows in the Basilica](https://open.spotify.com/album/08ukVwsvdLCb4GSplKE3u6) | 3:50 | 2020-07-13 |  |
+| [Across White Oak Mountain](https://open.spotify.com/track/6mFuM7qrH8p57mgYeG3IRI) | [Chuck Johnson](https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f) | [Crows in the Basilica](https://open.spotify.com/album/08ukVwsvdLCb4GSplKE3u6) | 3:50 | 2020-07-13 | 2023-04-29 |
 | [All Along the Watchtower \(feat\. Gabe Witcher\) \- From Sons of Anarchy \(Instrumental\)](https://open.spotify.com/track/7gP40cgwzUeDkypRwpSNrf) | [The Forest Rangers](https://open.spotify.com/artist/46xMgypLHP8GNsYME3vRnV), [Gabe Witcher](https://open.spotify.com/artist/3MjRrLK3oWzDniKxjbKPYm) | [All Along the Watchtower \(feat\. Gabe Witcher\) \[From Sons of Anarchy \(Instrumental\)\]](https://open.spotify.com/album/2NkTkCkwPwGrljRyMZnA2q) | 2:52 | 2020-07-13 |  |
 | [Alpine Star](https://open.spotify.com/track/1SM7koUWwATTH13pTyGS7l) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Goes West](https://open.spotify.com/album/7vPbJA9o9NKBqjoI7StDmq) | 5:26 | 2020-07-13 |  |
 | [Alpine Star](https://open.spotify.com/track/3QDwa1AZKMBPrEMmme8gXo) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Goes West](https://open.spotify.com/album/0JbGIBNY8NDj1rpV6BAOCD) | 5:26 | 2020-07-13 | 2022-07-29 |
+| [Angi](https://open.spotify.com/track/24mF7MHU2S7NfkvyhKbHHZ) | [Davy Graham](https://open.spotify.com/artist/72zalCfn9P7eU6oGje7tyJ) | [3/4 AD](https://open.spotify.com/album/7dyUtGBLV46N0MpFIHTd67) | 2:27 | 2023-01-20 |  |
 | [Angi](https://open.spotify.com/track/2wxpgRChMOPsE9lebeEzMj) | [Davy Graham](https://open.spotify.com/artist/72zalCfn9P7eU6oGje7tyJ) | [3/4 AD](https://open.spotify.com/album/5jCLZRSd8CyV34s7iEvqYZ) | 2:27 | 2020-07-13 | 2022-07-29 |
 | [Angi](https://open.spotify.com/track/6jXd3IhCFUJxDJ0wEtk010) | [Davy Graham](https://open.spotify.com/artist/72zalCfn9P7eU6oGje7tyJ) | [3/4 AD](https://open.spotify.com/album/4UE3bjQpfPwVlPtKFPAxB3) | 2:27 | 2020-07-13 | 2023-02-26 |
-| [Angi](https://open.spotify.com/track/7pDKAoUXi0IpkcSF3lEJd7) | [Davy Graham](https://open.spotify.com/artist/72zalCfn9P7eU6oGje7tyJ) | [3/4 AD](https://open.spotify.com/album/6qsqaKBusLJDMcTfDfOd4N) | 2:27 | 2023-01-20 |  |
+| [Angi](https://open.spotify.com/track/7pDKAoUXi0IpkcSF3lEJd7) | [Davy Graham](https://open.spotify.com/artist/72zalCfn9P7eU6oGje7tyJ) | [3/4 AD](https://open.spotify.com/album/6qsqaKBusLJDMcTfDfOd4N) | 2:27 | 2023-01-20 | 2023-04-29 |
 | [Ashoken Farewell](https://open.spotify.com/track/1F8eHbbrXTSRQTPLEREItt) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [All Will Prosper](https://open.spotify.com/album/675K5zFrbNiUcuHMfLVKix) | 2:30 | 2020-07-13 | 2022-07-29 |
 | [Ashoken Farewell](https://open.spotify.com/track/5nNn40GNviPx4GxmPP1ebd) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [All Will Prosper](https://open.spotify.com/album/7huOk44bNnAx5VRlNzthz6) | 2:30 | 2020-07-13 |  |
 | [Barragán](https://open.spotify.com/track/0w2kb2POWcEtGbbqhXu4IF) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Barragán](https://open.spotify.com/album/4XvtXHbIkZVLp65p5KBHMP) | 2:13 | 2020-07-13 | 2022-10-13 |
@@ -44,7 +46,8 @@
 | [Can the Gwot Save Us?](https://open.spotify.com/track/5rNaSws9k7wzVLOyJ508IO) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [Legs to Make us Longer](https://open.spotify.com/album/2gAagCBpgV4wa8KBMUBYWL) | 4:20 | 2020-07-13 |  |
 | [Carbon Scores and Smoke](https://open.spotify.com/track/6EpOTSgOGRXvMV12nkC0z8) | [Mappe Of](https://open.spotify.com/artist/02Zxif3WoHx6ujXBSfBKOr) | [A Northern Star, A Perfect Stone \(2021\)](https://open.spotify.com/album/4SO25UH7HeZSVGNzHhYiCJ) | 6:05 | 2020-07-13 |  |
 | [Carbon Scores and Smoke](https://open.spotify.com/track/7sGdAmegA4tEPFaW21ImxR) | [Mappe Of](https://open.spotify.com/artist/02Zxif3WoHx6ujXBSfBKOr) | [A Northern Star, A Perfect Stone](https://open.spotify.com/album/6MSMnmGlM59bIm7Oc7l6kR) | 6:05 | 2020-07-13 | 2022-07-29 |
-| [Carol Kaye \(Instrumental\)](https://open.spotify.com/track/2EB7aZJY5imWcpnuqJPmoB) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [Hello I Must Be Going](https://open.spotify.com/album/3KLh2kSBl64Wa0ygg4agyC) | 2:45 | 2020-07-13 |  |
+| [Carol Kaye \(Instrumental\)](https://open.spotify.com/track/2EB7aZJY5imWcpnuqJPmoB) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [Hello I Must Be Going](https://open.spotify.com/album/3KLh2kSBl64Wa0ygg4agyC) | 2:45 | 2020-07-13 | 2023-04-29 |
+| [Carol Kaye \(Instrumental\)](https://open.spotify.com/track/6KaPEuQFd8KKMzwJTAoGIR) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [Hello I Must Be Going](https://open.spotify.com/album/7gixF6cRUF4ZpuO7sNMcfq) | 2:45 | 2023-01-20 |  |
 | [Carol Kaye \(Instrumental\)](https://open.spotify.com/track/6U8HTPdHHVg5foiqoCRSdy) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [Hello I Must Be Going](https://open.spotify.com/album/1keHZZJfcJjTaVy3hn1Os1) | 2:45 | 2020-07-13 | 2022-07-29 |
 | [Cascade](https://open.spotify.com/track/2pVag1pfuQLxFW3k8FFth1) | [Danny Black](https://open.spotify.com/artist/1acLmH4vW6PaaqDCDyNf46) | [Adventure Soundtrack](https://open.spotify.com/album/7vDrf98OtFN8yvlHy7wZPU) | 2:11 | 2020-07-13 |  |
 | [Cascade](https://open.spotify.com/track/7th5cSpLRONE5nrvzkSiLS) | [Danny Black](https://open.spotify.com/artist/1acLmH4vW6PaaqDCDyNf46) | [Adventure Soundtrack](https://open.spotify.com/album/5yLqVDYBeB03t52Nm0myXi) | 2:11 | 2020-07-13 | 2022-07-29 |

@@ -3297,6 +3297,24 @@
     },
     {
       "album": {
+        "name": "ON MY WAY",
+        "url": "https://open.spotify.com/album/4vuD3eA8e1R7gLCAcXC4Ut"
+      },
+      "artists": [
+        {
+          "name": "Lana Lubany",
+          "url": "https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212275,
+      "name": "ON MY WAY",
+      "url": "https://open.spotify.com/track/4ROX1uuhzvVlVAb1JD4QLt"
+    },
+    {
+      "album": {
         "name": "Once Again",
         "url": "https://open.spotify.com/album/6fW2puJsm7B130FA1KSSAz"
       },
@@ -3988,7 +4006,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 158746,
       "name": "SOLD",
       "url": "https://open.spotify.com/track/4hMcamMdjiJmZ3thozEqOR"

@@ -4,7 +4,7 @@
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: ODUMODUBLVCK\. Artwork by Isu Kim\. Updates every Wednesday.
 
-3,796 songs - 8 day 16 hr 3 min
+3,797 songs - 8 day 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1895,7 +1895,8 @@
 | [let's stay the same?](https://open.spotify.com/track/23EXsfh1TuK7MBN930N8Bc) | [planet girl](https://open.spotify.com/artist/40DgzqFfLrkIx2mas3Bpfv), [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v) | [let's stay the same?](https://open.spotify.com/album/2UDpidKSNBRDS0MhH6cgSx) | 3:28 | 2022-09-28 | 2022-10-06 |
 | [Let's Try This Again](https://open.spotify.com/track/61wN5H9ijd5gZ3wR5e2zDv) | [eliza elliott](https://open.spotify.com/artist/0HLxtYwwRy4qx1r8utJRAq) | [Let's Try This Again](https://open.spotify.com/album/5910XemVAodsss8PX7PoBo) | 3:08 | 2023-01-18 | 2023-01-26 |
 | [Lets Play](https://open.spotify.com/track/7wEWnGFd5Ux7dwQhaLhKAi) | [Dwalk](https://open.spotify.com/artist/6eTtN1ArNtkXCPZJ8riM0T) | [Lets Play](https://open.spotify.com/album/3VW4YruQAZ1HOYLNvo8H8T) | 1:20 | 2022-07-06 | 2022-07-21 |
-| [Letters](https://open.spotify.com/track/3KQcNnIIXCN4V8uvDs1dd5) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Mind Palace Music](https://open.spotify.com/album/0woHX3PSXbPo52iqriVSFa) | 2:26 | 2023-04-26 |  |
+| [Letters](https://open.spotify.com/track/0B6xHxWg4g7C9174Cx1d0m) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Mind Palace Music](https://open.spotify.com/album/7h3MMJMKzY03w8VVYgrYWr) | 2:26 | 2023-04-26 |  |
+| [Letters](https://open.spotify.com/track/3KQcNnIIXCN4V8uvDs1dd5) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Mind Palace Music](https://open.spotify.com/album/0woHX3PSXbPo52iqriVSFa) | 2:26 | 2023-04-26 | 2023-04-29 |
 | [Letting Go](https://open.spotify.com/track/7xGvSmXj5IbeZUn69nJKNl) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [Motions](https://open.spotify.com/album/7J3dsYgtL3FJBpvh8kuJpm) | 3:15 | 2022-11-09 | 2022-12-01 |
 | [Levels](https://open.spotify.com/track/19317BXBu7jgBfuZvzsPya) | [Quon](https://open.spotify.com/artist/4imMTIlAYPS7dd1YfzLSel) | [Levels](https://open.spotify.com/album/7odS1Jx0CfMysO9z1gDII4) | 3:52 | 2022-04-06 | 2022-04-14 |
 | [lexapro](https://open.spotify.com/track/61KFAZbfP6fnb8lEZU20yG) | [Jack Price](https://open.spotify.com/artist/3LX53Q6Lfgpr309q3yiHMh) | [lexapro](https://open.spotify.com/album/0ftQ4DSqbNkIUrKM7uc0Kh) | 2:43 | 2022-10-26 | 2022-11-10 |

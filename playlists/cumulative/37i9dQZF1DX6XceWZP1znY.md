@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-734 songs - 2 day 0 hr 38 min
+736 songs - 2 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,6 +403,7 @@
 | [Z.E.R.O.](https://open.spotify.com/track/72q1f85sG2GZRo3i9GdkOg) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [Z.E.R.O.](https://open.spotify.com/album/1Oz6fVlYIPMO4VKT8UmPPx) | 4:05 | 2022-10-20 | 2022-11-23 |
 | [Zenzenzense \- movie ver.](https://open.spotify.com/track/7md7CglfYIdzVPco9bdQMy) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name\. \(Deluxe Edition / Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QAbGrQVTzyUDTS9ld0OEN) | 4:44 | 2022-06-07 | 2022-07-25 |
 | [Zenzenzense \- movie ver.](https://open.spotify.com/track/2DLrgv7HhJanCuD8L9uJLR) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 4:45 | 2022-06-07 |  |
+| [あてもなく](https://open.spotify.com/track/0xO5jkEJFwOJubHFVPJZCQ) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [あてもなく](https://open.spotify.com/album/4bCJ9NCd5jxC0udzWCQCAG) | 3:54 | 2023-04-21 |  |
 | [あなたがいる](https://open.spotify.com/track/0zrqEdXxtNbM9ksb3WJjsv) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [あなたがいる](https://open.spotify.com/album/6YfYZIqDNCQ1iVMJ6Silga) | 4:15 | 2022-06-07 | 2022-07-24 |
 | [あなたがくれたヒカリ](https://open.spotify.com/track/3NQD8vGjo6YSSzxSBz9uGg) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [あなたがくれたヒカリ](https://open.spotify.com/album/42OKISLKJmxfBmTlg1U9x0) | 4:33 | 2022-06-07 | 2022-07-25 |
 | [あのね。](https://open.spotify.com/track/10gPxTuQ6ckAl5pk8YuT6D) | [ユナ \(CV: 河瀬茉希\)](https://open.spotify.com/artist/2FOfj9c49IYJQUTagvRmTj) | [あのね。](https://open.spotify.com/album/40P0Pqf3ohI1eKeSYMKJCE) | 4:11 | 2022-06-07 | 2022-07-29 |
@@ -495,7 +496,7 @@
 | [サムライハート\(Some Like It Hot!!\)](https://open.spotify.com/track/5G0NPSOTLepHxUhEMlVjWj) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Rockin' the World](https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE) | 3:11 | 2022-06-07 |  |
 | [サンタになりたい](https://open.spotify.com/track/7rLcsWvwvY4veaaxX0AVRE) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [サンタになりたい](https://open.spotify.com/album/5ikaZleIZErtAzbav5BVSL) | 5:15 | 2022-06-07 | 2022-07-21 |
 | [シオン](https://open.spotify.com/track/26KOrgIIGuxWVmFJszeYJs) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [シオン](https://open.spotify.com/album/0t4lKfdG0ANs46z3GUEbm7) | 3:51 | 2022-06-07 | 2022-07-25 |
-| [シャル・ウィ・ダンス?](https://open.spotify.com/track/3scQcXcg9nOfWVQDQTeDXF) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [シャル・ウィ・ダンス?](https://open.spotify.com/album/0bJE38pebBIRov35fJG5jZ) | 4:26 | 2022-08-11 |  |
+| [シャル・ウィ・ダンス?](https://open.spotify.com/track/3scQcXcg9nOfWVQDQTeDXF) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [シャル・ウィ・ダンス?](https://open.spotify.com/album/0bJE38pebBIRov35fJG5jZ) | 4:26 | 2022-08-11 | 2023-04-29 |
 | [シュークリーム・ファンク](https://open.spotify.com/track/275ULfjS2XcfhP7u4XXyft) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [シュークリーム・ファンク](https://open.spotify.com/album/7CyrqVpM8tZFbhOJyHuI2o) | 3:35 | 2023-04-21 |  |
 | [シルエット](https://open.spotify.com/track/1di1C0QI6Y92yZPYn6XYAZ) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [TIME](https://open.spotify.com/album/45z2ntx53Y0d42S9IpN6OH) | 4:00 | 2022-06-07 |  |
 | [シルエット](https://open.spotify.com/track/3vWRsBKvOpj8iITRh8ERlZ) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [TIME](https://open.spotify.com/album/3MFXQmlK8U6Zwe3GjNSoxN) | 4:00 | 2022-06-07 | 2022-07-29 |
@@ -567,6 +568,7 @@
 | [レイメイ](https://open.spotify.com/track/1s0QbmRVJ6AK4ICc44tJtB) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz), [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Dawn](https://open.spotify.com/album/7hdGjytOu9ziptlaNwbtwK) | 5:15 | 2022-06-07 | 2022-07-28 |
 | [レイメイ](https://open.spotify.com/track/3D8dMWN3O6hbIlts9FXi9Z) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz), [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [レイメイ](https://open.spotify.com/album/2IvwlWOCgabwi9iELRtMZ6) | 5:15 | 2022-06-07 | 2022-08-13 |
 | [ロングホープ・フィリア](https://open.spotify.com/track/2tPQxzloliTGZHSnuoblD8) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [LOVE](https://open.spotify.com/album/6P7vdw5AEZECkX8dwZAt6B) | 4:55 | 2022-06-07 |  |
+| [ワスレガタキ](https://open.spotify.com/track/24PaqdVWQBvwnJmbRsvV5a) | [Huwie Ishizaki](https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr) | [ワスレガタキ](https://open.spotify.com/album/3soHYtUh1ITKtBAHPPBJwO) | 2:57 | 2023-04-21 |  |
 | [ワンミーツハー](https://open.spotify.com/track/5vxdx4dpfLkWHNYwOajM8x) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [DEEPER](https://open.spotify.com/album/2iuMWTvNNkGiw7Trdj1NQ5) | 3:23 | 2022-08-11 | 2022-11-12 |
 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 | 2022-06-07 | 2023-04-12 |
 | [三原色](https://open.spotify.com/track/4EG10OLde2d8EisbYoKTuZ) | [PELICAN FANCLUB](https://open.spotify.com/artist/2eKvpW2lCmgqTJHRNrbbIn) | [解放のヒント](https://open.spotify.com/album/24ZL98yLu2zbulCTwba8Z2) | 3:25 | 2022-06-07 |  |
@@ -650,7 +652,7 @@
 | [最後の花弁 \(The meaning of love\)](https://open.spotify.com/track/6P0Nb6NCHckoZtZI54XS2l) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [最後の花弁 \(The meaning of love\)](https://open.spotify.com/album/13yUbPloFlPSQoQ3Ju8DR3) | 3:51 | 2022-06-07 | 2022-08-12 |
 | [最果て](https://open.spotify.com/track/0GiepUHAIfTH1WzpHqtVXT) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [最果て](https://open.spotify.com/album/6JffqDdgFVwPOjHmLte6kC) | 3:00 | 2022-11-22 |  |
 | [最深](https://open.spotify.com/track/40tZIkyZZGw1a4oQAFZL2P) | [ACCAMER](https://open.spotify.com/artist/6fl8KnCZzMYMHTklUPWlX2) | [最深](https://open.spotify.com/album/2Gh6LdxVej8gzAPU68hHSj) | 4:03 | 2022-06-07 | 2022-07-16 |
-| [朝が来る](https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [朝が来る](https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx) | 4:54 | 2022-06-07 |  |
+| [朝が来る](https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [朝が来る](https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx) | 4:54 | 2022-06-07 | 2023-04-29 |
 | [未来](https://open.spotify.com/track/7M2ZtqHQWtrDW9oGodD6vm) | [KOBUKURO](https://open.spotify.com/artist/0llYwFIMgF9Jzmp4ZY7wbr) | [TIMELESS WORLD](https://open.spotify.com/album/3PRhAHRAHkiPGCIDMi02LC) | 5:16 | 2022-06-07 | 2023-04-22 |
 | [東京サニーパーティー](https://open.spotify.com/track/1HBxmRc7PCEw7Vtw3ykr8J) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [涼海ひより（CV：水瀬いのり）](https://open.spotify.com/artist/5M0mn4erXCP6tSuakm8yuI), [服部樹里\(CV:佐倉綾音\)](https://open.spotify.com/artist/01NcNfcHfdCwrHIuALeHJ0), [中村千鶴\(CV:早見沙織\)](https://open.spotify.com/artist/27KTqdwWTPQL5HqhXOnOLf) | [東京サニーパーティー](https://open.spotify.com/album/2EfBXXdiFkhQdxthS4RXO0) | 4:02 | 2022-06-07 | 2022-06-13 |
 | [楽園](https://open.spotify.com/track/6X9m9JRk2ypGusClUBraII) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL) | [楽園](https://open.spotify.com/album/0Mr39HG5mzEClMKWpQGrGo) | 3:45 | 2022-06-07 |  |

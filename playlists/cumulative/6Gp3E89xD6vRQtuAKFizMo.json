@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "All I Wanted (feat. MelonRose)",
+        "url": "https://open.spotify.com/album/14ZIyqeMexADGW43gZbuxi"
+      },
+      "artists": [
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        },
+        {
+          "name": "MelonRose",
+          "url": "https://open.spotify.com/artist/65LJ7hn9wYfgtLGdFzW00J"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296666,
+      "name": "All I Wanted (feat. MelonRose)",
+      "url": "https://open.spotify.com/track/11dxsj1dc2NRRDN3gNqu4l"
+    },
+    {
+      "album": {
         "name": "All The Time",
         "url": "https://open.spotify.com/album/04Er7EWQFPjGPTthhPLh7n"
       },
@@ -1493,6 +1515,28 @@
     },
     {
       "album": {
+        "name": "Lavender Dreams & Scarlet Nightmares",
+        "url": "https://open.spotify.com/album/0GasuMeALUBC4Kk55XjgLP"
+      },
+      "artists": [
+        {
+          "name": "juuku",
+          "url": "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
+        },
+        {
+          "name": "Jolina El\u00edsh",
+          "url": "https://open.spotify.com/artist/36XHszB4UC3UDGGcamfclK"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195371,
+      "name": "Lavender (feat. Jolina El\u00edsh)",
+      "url": "https://open.spotify.com/track/6DQUJXeQbpzVcB2sT0rrlA"
+    },
+    {
+      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/699pfQZ7g6XRHPeTC6Oxf0"
       },
@@ -2178,6 +2222,24 @@
       "duration_ms": 179306,
       "name": "Older ft Jimmie Allen & Dixie D'Amelio",
       "url": "https://open.spotify.com/track/4ofGcbHRWhIsrYJswteQkU"
+    },
+    {
+      "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf"
+      },
+      "artists": [
+        {
+          "name": "Saint Punk",
+          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140196,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv"
     },
     {
       "album": {

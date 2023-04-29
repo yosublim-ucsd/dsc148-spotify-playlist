@@ -4,7 +4,7 @@
 
 > Ease into the day
 
-343 songs - 20 hr 49 min
+344 songs - 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,7 +306,7 @@
 | [Superglue](https://open.spotify.com/track/2PT6irzoP482s4ziCla3XS) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [SUPERGLUE](https://open.spotify.com/album/67NJuyd4ElTpVyEZYoh9UX) | 3:34 | 2023-03-03 |  |
 | [Sweet Heaven](https://open.spotify.com/track/0LUH5TC2Jt3SSSy0tSfmRh) | [Hil St\. Soul](https://open.spotify.com/artist/7bYgUzgUILyzwkf6RHZf9J) | [Back In Love](https://open.spotify.com/album/0lFauHBsiqfXQmIXDmIXKY) | 4:11 | 2022-11-18 | 2022-11-26 |
 | [Sweeter Than Peaches](https://open.spotify.com/track/5TQr5GihbdY4GuYURxW4Lx) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Sweeter Than Peaches](https://open.spotify.com/album/2lZUEwvmSL9NWgggV28n6T) | 2:07 | 2021-07-16 | 2022-07-23 |
-| [Temptation](https://open.spotify.com/track/30YAMud3jbVG4tWkwmuH3E) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Temptation](https://open.spotify.com/album/4mIbuUoAWuVUJQHwdVwZxp) | 2:55 | 2022-04-15 |  |
+| [Temptation](https://open.spotify.com/track/30YAMud3jbVG4tWkwmuH3E) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Temptation](https://open.spotify.com/album/4mIbuUoAWuVUJQHwdVwZxp) | 2:55 | 2022-04-15 | 2023-04-29 |
 | [Thang \(hips\)](https://open.spotify.com/track/45NhEzSuvE5M5i3cYwphuL) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [12 Little Spells](https://open.spotify.com/album/3mWCkfWvAFi8FSgfLNrVfg) | 4:35 | 2020-10-17 | 2022-04-21 |
 | [Thank You](https://open.spotify.com/track/1Z6ND9vhUdc2fXG7vAgfbl) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:26 | 2022-01-06 |  |
 | [Thank You](https://open.spotify.com/track/4mVm8cTbilqoIWCYNNjCxt) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Thank You](https://open.spotify.com/album/5e9eqwm0zjc9FLaRhVfdTo) | 3:26 | 2021-12-16 | 2022-07-29 |
@@ -315,6 +315,7 @@
 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 | 2022-02-11 |  |
 | [the last laugh](https://open.spotify.com/track/4j25oHEZNvFt1m3P9WUJlv) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [the last laugh](https://open.spotify.com/album/2Ph3wOGu6UwYZz5UqicIHL) | 3:17 | 2023-03-31 |  |
 | [The Night We Met \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/0jZO7p0nBUi9VHedWUBS9l) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [13 Reasons Why \(Season 2\)](https://open.spotify.com/album/4RpgjxgSxcRwGNuWnImneN) | 3:28 | 2020-10-17 | 2023-02-04 |
+| [The Talking Palm Tree \- Acoustic \- Bonus Track](https://open.spotify.com/track/3ilIAhXsas81LwPnDB0zMS) | [ALYSS](https://open.spotify.com/artist/6h6jp2XsW3RvXdQs7Pfu4m) | [Answers](https://open.spotify.com/album/6iaeBc7rxIgd9ow4BPieUd) | 2:42 | 2023-04-28 |  |
 | [The Way It Was Before](https://open.spotify.com/track/5MkeG5rfMXRthy1HtpO7Kx) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [The Way It Was Before](https://open.spotify.com/album/21WzCHmaKB5boZZdxf4jRN) | 3:00 | 2022-01-28 | 2023-03-04 |
 | [The Weather](https://open.spotify.com/track/4xxF57q6wmLa400D3AA2u2) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [The Weather](https://open.spotify.com/album/3vuzxiXjlgj16rGerO98UL) | 2:49 | 2020-10-17 | 2022-07-29 |
 | [The Wire](https://open.spotify.com/track/6Od1mTxBuSQL4UovOVWHEi) | [Fulton Lee](https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS) | [Baby Blue](https://open.spotify.com/album/6hUpdnASL9lujsw8vbMSU6) | 3:45 | 2020-10-17 | 2022-04-21 |

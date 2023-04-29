@@ -15117,6 +15117,24 @@
     },
     {
       "album": {
+        "name": "Jackman.",
+        "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113292,
+      "name": "They Don't Love It",
+      "url": "https://open.spotify.com/track/2dSKFFNoNXKo3hPnlwUdPe"
+    },
+    {
+      "album": {
         "name": "They Wouldn't Let Me In",
         "url": "https://open.spotify.com/album/0eiFbTOOnsB0uLhgeoESSW"
       },
@@ -15297,7 +15315,7 @@
     },
     {
       "album": {
-        "name": "To Be Yours (feat. Claud)",
+        "name": "To Be Yours",
         "url": "https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf"
       },
       "artists": [
@@ -15314,7 +15332,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 211782,
-      "name": "To Be Yours (feat. Claud)",
+      "name": "To Be Yours",
       "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
     },
     {

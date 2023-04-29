@@ -1073,6 +1073,24 @@
     },
     {
       "album": {
+        "name": "Nirmal Mann",
+        "url": "https://open.spotify.com/album/1R8PSYd2anNIBCLkcXuRJG"
+      },
+      "artists": [
+        {
+          "name": "Dyal Dalavi",
+          "url": "https://open.spotify.com/artist/3L4z8r6PG78sYh5wtXDw0u"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231419,
+      "name": "Kabira",
+      "url": "https://open.spotify.com/track/20nB2JG804edG8Dvudr9zJ"
+    },
+    {
+      "album": {
         "name": "Kailashi",
         "url": "https://open.spotify.com/album/3xnVdpJCC98xufKIo0LMa6"
       },
@@ -1668,10 +1686,28 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 368800,
       "name": "Papa Tau (A Tribute to Papa Tau Moe)",
       "url": "https://open.spotify.com/track/4ALOB46Dbms57RBlFE3y5N"
+    },
+    {
+      "album": {
+        "name": "Hawaii to Calcutta: A Tribute to Tau Moe",
+        "url": "https://open.spotify.com/album/1Cp0LRQxzKZ2PbG8lNYGr7"
+      },
+      "artists": [
+        {
+          "name": "Debashish Bhattacharya",
+          "url": "https://open.spotify.com/artist/1gluErp8xTWWbjs6kh3Qjb"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368800,
+      "name": "Papa Tau (A Tribute to Papa Tau Moe)",
+      "url": "https://open.spotify.com/track/7aJUSnGZYW4S5YsGu6hYei"
     },
     {
       "album": {

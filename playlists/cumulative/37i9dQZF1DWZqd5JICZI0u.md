@@ -4,7 +4,7 @@
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-471 songs - 1 day 0 hr 27 min
+472 songs - 1 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Conversations](https://open.spotify.com/track/3P0iYHT4L8qRKcTtnYhTv5) | [Cieri](https://open.spotify.com/artist/5UuRXvPONj8EeWpeppEoAL) | [Conversations](https://open.spotify.com/album/0JQwCGixx76DYvEltMAIQC) | 3:04 | 2022-02-18 |  |
 | [Convince Me](https://open.spotify.com/track/2Voua6X82CCcgADavNaBwo) | [Aysha Mathis](https://open.spotify.com/artist/0ONhDd13hkXTpzbP8tkBSy) | [Convince Me](https://open.spotify.com/album/3i2bKg8UkKFYrEWsLuO9k1) | 3:35 | 2020-11-19 |  |
 | [Cosmos](https://open.spotify.com/track/211l6gKeErP58kN2gvzuQZ) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Divine](https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp) | 4:31 | 2020-09-30\* | 2021-09-14 |
+| [Cosmosis](https://open.spotify.com/track/0bvAQZ7fx0opg1XDY0CCHT) | [Embertone](https://open.spotify.com/artist/64wQLdtq3qw5sCdJlK4CwY) | [Cosmosis](https://open.spotify.com/album/5e26lAWV8Sindc9WXm83dY) | 3:04 | 2023-04-28 |  |
 | [Covering the Sun](https://open.spotify.com/track/1IUe9CBv83sg56rTorIVLp) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Ivory Clouds](https://open.spotify.com/album/4nYrgdNmIyEbayYyjdmppr) | 3:13 | 2020-12-03 | 2022-03-25 |
 | [Cross A Line](https://open.spotify.com/track/1IkrL2wE6aWYzOmWjZmNO9) | [Sean Altar](https://open.spotify.com/artist/3Jo70Smt1IRBEAGBeXnczk) | [Cross A Line](https://open.spotify.com/album/32PoI04cGJfCgmH003knVN) | 2:18 | 2022-03-15 |  |
 | [Cuidada](https://open.spotify.com/track/0DjPkjHwrelEO2WEfoaxOM) | [Lucinda Pasillas](https://open.spotify.com/artist/1VIx3IfD02xy9yWri9U0Ac) | [Cuidada](https://open.spotify.com/album/2q0u4ZvLivxNchLRUJ6Su9) | 2:52 | 2022-09-13 |  |
@@ -98,7 +99,7 @@
 | [Decompress](https://open.spotify.com/track/0fA88Mx1JI2ixuWtOGef6i) | [Lucy Vincent](https://open.spotify.com/artist/3aZqkX0ePw0fBoERFYCD6Z) | [Decompress](https://open.spotify.com/album/56YSx23wvhofLJh70sunBG) | 4:43 | 2020-09-30\* | 2021-09-14 |
 | [Decumbent](https://open.spotify.com/track/45nNKzH7nKMfyFhUUqdyGY) | [Clifford Solum](https://open.spotify.com/artist/7fU4kMtmQKYqCJoJGEEjnu) | [Decumbent](https://open.spotify.com/album/5bf2DjnmsLeJOYVdDeUM5E) | 3:11 | 2020-09-30\* | 2022-08-13 |
 | [Deep breaths](https://open.spotify.com/track/1XhhBtMKmNGM4yfgMZQVxf) | [Jirou Soller](https://open.spotify.com/artist/0gTSb6SH0iohVVodJGSUlH) | [Deep breaths](https://open.spotify.com/album/3JEiMxMBlySWYU9dpuSMoA) | 2:11 | 2021-05-05 |  |
-| [Deep Down](https://open.spotify.com/track/0reoP6d2gauomTnn8eEF3H) | [Aurora Blue](https://open.spotify.com/artist/7mGqBs7GKrbPVzHZmw637f) | [Deep Down](https://open.spotify.com/album/2rnC5NylKztR1CFSStORe2) | 2:37 | 2021-06-16 |  |
+| [Deep Down](https://open.spotify.com/track/0reoP6d2gauomTnn8eEF3H) | [Aurora Blue](https://open.spotify.com/artist/7mGqBs7GKrbPVzHZmw637f) | [Deep Down](https://open.spotify.com/album/2rnC5NylKztR1CFSStORe2) | 2:37 | 2021-06-16 | 2023-04-29 |
 | [Deep Dream](https://open.spotify.com/track/6uZqFdxRsSXgswqtKKBYK7) | [Niigata](https://open.spotify.com/artist/74md3IYnYrHUTG6GBfem9N) | [Deep Dream](https://open.spotify.com/album/6ymPraYfnqVUPHQVQ8fiNZ) | 3:44 | 2020-09-30\* | 2021-09-14 |
 | [Deep Eyes](https://open.spotify.com/track/3HBzTLiE1KmE0jcxZaYmVe) | [Mikael Arvo](https://open.spotify.com/artist/2RlRTTL9u7o7tf8dGgb78C) | [Deep Eyes](https://open.spotify.com/album/5WrYPWDyABuP2AIZERufky) | 4:40 | 2020-09-30\* | 2022-12-31 |
 | [Deep Waters](https://open.spotify.com/track/2I4CdMdb7m5VSFjVtYBPLP) | [Mind Explorer](https://open.spotify.com/artist/22v0hyVYFwW9gLflr83IF8) | [Deep Waters](https://open.spotify.com/album/18MTNwzRQUk1HHTHI3k5Bf) | 2:42 | 2021-09-04 |  |

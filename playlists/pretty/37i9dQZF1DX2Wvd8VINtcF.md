@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,294 likes - 111 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,280 likes - 111 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 74 | [For Real](https://open.spotify.com/track/6sYC0737gy4Fwhjsv0Jjr2) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Everything's Fine](https://open.spotify.com/album/2OOTl13Kx9KxMF1ESG2u58) | 4:02 |
 | 75 | [Mike \(desert island duvet\)](https://open.spotify.com/track/6cqcmtaxNL7YCKKsuYAPJo) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Mike \(desert island duvet\)](https://open.spotify.com/album/3lYzZoDorEtJsL3uRZ5dPa) | 4:24 |
 | 76 | [glued to the floor](https://open.spotify.com/track/20Y7AHrMDTxzOxMfw0jCv5) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [glued to the floor](https://open.spotify.com/album/0kA1PVu4d8eMmN0kc7EL9o) | 2:18 |
-| 77 | [\_2gether\_4ever](https://open.spotify.com/track/63RhlW6kxgnaoClxphMaIO) | [sonic girl](https://open.spotify.com/artist/31vO4IuGYTlzTeEPIVw8TR) | [\_2gether\_4ever](https://open.spotify.com/album/3tqDJqYcxyGuhxvEtvGxgj) | 2:37 |
+| 77 | [\_2gether\_4ever](https://open.spotify.com/track/7I3yccUc60IX8N3daEkJyV) | [sonic girl](https://open.spotify.com/artist/31vO4IuGYTlzTeEPIVw8TR) | [STARBORN \(mixtape\)](https://open.spotify.com/album/0yPEAiOzEmWEDeRd1tj78N) | 2:37 |
 | 78 | [Work For Free](https://open.spotify.com/track/1UHLpmEsT3YPNnS7HW5Uap) | [Lover's Skit](https://open.spotify.com/artist/6NacK2pS3t12iQPaNzsadu) | [Work For Free](https://open.spotify.com/album/0UyHAJrwsR8Ywj2toxAG4w) | 2:42 |
 | 79 | [Ceremony](https://open.spotify.com/track/4DmqWDZUtoxBX7wg9eCgzF) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Don’t Get Too Close](https://open.spotify.com/album/5TG8nNzWlr4lsL6XBURDs0) | 3:12 |
 | 80 | [motherfuckas](https://open.spotify.com/track/3RZupdn3A58dEuoP03ooy0) | [Planet Ibiza](https://open.spotify.com/artist/2f0fVIP8exBDlW5SHhKosW) | [Planet Ibiza](https://open.spotify.com/album/02USP5nVgijbmVuU6IbNcR) | 2:43 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 110 | [Got Time For Me \(with Channel Tres\)](https://open.spotify.com/track/3YQNUCe3btF2wUQpzfaodu) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Got Time For Me \(with Channel Tres\)](https://open.spotify.com/album/02YZvXUwPEvxb0YLdI7oEk) | 2:59 |
 | 111 | [TELEPROMPTER](https://open.spotify.com/track/7hEzvp2pZoN3wyypz6ttQB) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [TELEPROMPTER](https://open.spotify.com/album/3CJzg4C1y6BqWBNlxUd58P) | 2:24 |
 
-Snapshot ID: `MCxmNGJkNDBjOWI3NjZmZDIwYjczZmFlZjRhZmQ0ZmY2MWUyMjIyZjJl`
+Snapshot ID: `MCw1MzdlNWJmNzViZGJiODUxODI3YWEwNGM2ZjUwYWMzYTNhZDA5ZGY2`

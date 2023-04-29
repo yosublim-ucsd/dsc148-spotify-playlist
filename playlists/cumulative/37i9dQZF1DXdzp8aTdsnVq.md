@@ -4,7 +4,7 @@
 
 > Novedades y clásicos del popular género colombiano\. Foto: Diomedes Díaz
 
-99 songs - 6 hr 59 min
+100 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [El Confite](https://open.spotify.com/track/5yzGHMlHHMf859Aek6QgB9) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Sigo Invicto](https://open.spotify.com/album/5nrVqq5BEfcoOYJ1eQQ0ki) | 3:28 | 2022-09-02 |  |
 | [El Encarte](https://open.spotify.com/track/2M4GHQUCurlGyb9FVAdCUd) | [Rafa Perez](https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ) | [El Encarte](https://open.spotify.com/album/70snN06pgigNR1FYYaoQfT) | 3:43 | 2022-09-02 | 2023-04-06 |
 | [El Santo Cachón \(feat\. Robinson Damian & Los Gigantes\)](https://open.spotify.com/track/1WWb9zdw08TEAESKJZ8mXW) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Robinson Damián](https://open.spotify.com/artist/2e28tOJGCLOJQBYNhGkxat), [Los Gigantes](https://open.spotify.com/artist/34tB6r0jRHdedlIlVrECP1) | [El Santo Cachón \(feat\. Robinson Damian & Los Gigantes\)](https://open.spotify.com/album/6bJiE0zCTa75ZZFBHtOmx8) | 3:59 | 2022-09-02 |  |
-| [El Terremoto](https://open.spotify.com/track/58vsQ15Dc9NwY5zqaLpWOJ) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [Grandes Éxitos](https://open.spotify.com/album/77PKmLnC3sggIXSYh56Vwh) | 4:40 | 2022-09-02 |  |
+| [El Terremoto](https://open.spotify.com/track/1W7CMs1bSqQvdEBvkaUexF) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [El Terremoto Musical](https://open.spotify.com/album/2bWsAObvGNg2GOwlIPRRZc) | 4:40 | 2023-04-14 |  |
+| [El Terremoto](https://open.spotify.com/track/58vsQ15Dc9NwY5zqaLpWOJ) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [Grandes Éxitos](https://open.spotify.com/album/77PKmLnC3sggIXSYh56Vwh) | 4:40 | 2022-09-02 | 2023-04-29 |
 | [Ella Es La Que Manda](https://open.spotify.com/track/1osVENXDR2Okt3K5Ph5mIy) | [Rafa Perez](https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ), [Omar Geles](https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR) | [El Disco Del Año Vol\. 53](https://open.spotify.com/album/0mKBMKcJDra8yVTcDaAQgK) | 3:57 | 2022-10-21 | 2022-11-13 |
 | [Ella Es La Que Manda](https://open.spotify.com/track/6yN62z36DL4HBfwC56n3YH) | [Rafa Perez](https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ), [Omar Geles](https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR) | [Ella Es La Que Manda](https://open.spotify.com/album/2JpYEmqBLHAI9IhhKAs9nf) | 3:57 | 2022-09-02 |  |
 | [Es Mejor No Decirlo](https://open.spotify.com/track/4dnqlAVeaEb69s7sXAK8Cr) | [Alex Martinez](https://open.spotify.com/artist/1mI8LQvP73Y5IMXN0KstBZ), [Tavo Montiel](https://open.spotify.com/artist/0YY5wGjkB19VWOJ9N6n1dr) | [Es Mejor No Decirlo](https://open.spotify.com/album/1778QxBnBDY5YmbieRKzV4) | 4:52 | 2022-09-02 |  |

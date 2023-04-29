@@ -1128,7 +1128,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 254825,
       "name": "Chica Plastica",
       "url": "https://open.spotify.com/track/3sVpw06XTctdLcq1lnc3Cu"
@@ -1814,6 +1814,24 @@
       "duration_ms": 248406,
       "name": "D\u00e9jale Caer To' El Peso (feat. Yomo)",
       "url": "https://open.spotify.com/track/6eyrEbsUwKUPXNxv6FuCqv"
+    },
+    {
+      "album": {
+        "name": "Casa De Leones",
+        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214360,
+      "name": "Eh Oh Eh Oh",
+      "url": "https://open.spotify.com/track/6cMmRhuplhTj33YhLtfiQt"
     },
     {
       "album": {
@@ -2770,7 +2788,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 240200,
       "name": "Guasa, Guasa",
       "url": "https://open.spotify.com/track/6sfBQReZH9v9tYSs82Xt1O"
@@ -3680,7 +3698,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 269844,
       "name": "Me Falla",
       "url": "https://open.spotify.com/track/3PcbolDBYyVAjYmZSqfHCx"
@@ -4878,7 +4896,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 282133,
       "name": "Pegaito a la Pared (feat. Plan B) - Remix",
       "url": "https://open.spotify.com/track/34hqsdmzodHbk50EnoSefY"
@@ -7266,7 +7284,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 196053,
       "name": "Vampiresa",
       "url": "https://open.spotify.com/track/644Kky1J5BsAX9zUxziIsX"

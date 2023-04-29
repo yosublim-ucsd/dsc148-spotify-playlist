@@ -4,7 +4,7 @@
 
 > Tapping Gallant, ANOHNI, and more, the Canadian duo forge a Pride list that defines eclecticism\. Listen for a new tune with Ingrid Michaelson.
 
-51 songs - 3 hr 21 min
+53 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Holiday](https://open.spotify.com/track/49ul7T6QlHsbnwYYNXE87O) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Wedding Singer \(More Music From The Motion Picture\)](https://open.spotify.com/album/2qrkWwNyjy7zwFgueA5slQ) | 3:51 | 2022-11-12 | 2022-11-13 |
 | [Holiday](https://open.spotify.com/track/7arHM2KZ0KzIZXFVDRGClI) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/1DWWb4Q39mp1T3NgyscowF) | 3:51 | 2017-06-02 | 2022-07-29 |
 | [In the House of Yes](https://open.spotify.com/track/2dSOk0ME7K6LjHfW2Bh4ww) | [Mr Twin Sister](https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz) | [Mr Twin Sister](https://open.spotify.com/album/5d1EnTsM3SBkly6fENKprF) | 6:40 | 2017-06-02 | 2022-07-29 |
-| [In the House of Yes](https://open.spotify.com/track/7eeNU3Zm56wzyl7MQDvEAH) | [Mr Twin Sister](https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz) | [Mr Twin Sister](https://open.spotify.com/album/65PiA4pb8RyCLOzwjsqP3X) | 6:40 | 2022-07-29 |  |
+| [In the House of Yes](https://open.spotify.com/track/5YnJi2oTur4ZkignPo2squ) | [Mr Twin Sister](https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz) | [Mr Twin Sister](https://open.spotify.com/album/1o0pW0OH2T1AHRGX3Qubkb) | 6:40 | 2023-04-29 |  |
+| [In the House of Yes](https://open.spotify.com/track/7eeNU3Zm56wzyl7MQDvEAH) | [Mr Twin Sister](https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz) | [Mr Twin Sister](https://open.spotify.com/album/65PiA4pb8RyCLOzwjsqP3X) | 6:40 | 2022-07-29 | 2023-04-29 |
 | [Mountains Have a Face Too](https://open.spotify.com/track/4s8TIlBHfnpFNgYRxmrpnW) | [Billion One](https://open.spotify.com/artist/72xr3FQtagwbPYSErz7JYt), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Minerva](https://open.spotify.com/album/66Bald0jPvIiN6FzRrZTSP) | 4:27 | 2017-06-02 | 2022-07-29 |
 | [Mountains Have a Face Too](https://open.spotify.com/track/7bJyIcYNVDhGHerkDswuyh) | [Billion One](https://open.spotify.com/artist/72xr3FQtagwbPYSErz7JYt), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Minerva](https://open.spotify.com/album/4LZSCfxSKPlr8nEkRy9ydH) | 4:27 | 2022-07-29 |  |
 | [No Problem \(feat\. Lil Wayne & 2 Chainz\)](https://open.spotify.com/track/0v9Wz8o0BT8DU38R4ddjeH) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 5:04 | 2017-06-02 |  |
@@ -42,7 +43,8 @@
 | [Sprained Ankle](https://open.spotify.com/track/5mHTg6cqhyP0BmsTQKzN1X) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Sprained Ankle](https://open.spotify.com/album/4dRzxZm69k9s0nzKmKb8Gj) | 2:22 | 2017-06-02 | 2022-07-29 |
 | [Talking to Myself](https://open.spotify.com/track/5ivOiIOSkypt3P1jqjlmcf) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Ology](https://open.spotify.com/album/4VZh7EI0gjL2FkLWNBVIWf) | 3:57 | 2017-06-02 |  |
 | [Tangled Memories](https://open.spotify.com/track/1lRidQjEY5OrBB0QrOdBuS) | [GEMS](https://open.spotify.com/artist/1hjVmBR8STjix0vBUe5YfN) | [Tangled Memories](https://open.spotify.com/album/0o4evpsxawqnPzfplaYyYS) | 4:00 | 2017-06-02 | 2022-07-29 |
-| [Tangled Memories](https://open.spotify.com/track/48hWxQRcZhSbXnyJ5y2qe1) | [GEMS](https://open.spotify.com/artist/1hjVmBR8STjix0vBUe5YfN) | [Kill the One You Love](https://open.spotify.com/album/37cusz6UdL545qeHFJkUWq) | 4:00 | 2022-07-29 |  |
+| [Tangled Memories](https://open.spotify.com/track/3qdEvPz96sSJEmVxVCnfv2) | [GEMS](https://open.spotify.com/artist/1hjVmBR8STjix0vBUe5YfN) | [Kill the One You Love](https://open.spotify.com/album/56kylfTHcLe9y8jwKpeD6O) | 4:00 | 2023-04-29 |  |
+| [Tangled Memories](https://open.spotify.com/track/48hWxQRcZhSbXnyJ5y2qe1) | [GEMS](https://open.spotify.com/artist/1hjVmBR8STjix0vBUe5YfN) | [Kill the One You Love](https://open.spotify.com/album/37cusz6UdL545qeHFJkUWq) | 4:00 | 2022-07-29 | 2023-04-29 |
 | [Tegan and Sara on "Boyfriend"](https://open.spotify.com/track/6cVrx71STTft6XxOcNWX63) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Tegan and Sara \- Spotify Pride](https://open.spotify.com/album/0xYvIMRxFzd25UqhFOeSIq) | 0:21 | 2017-06-02 |  |
 | [Tegan and Sara on Madonna](https://open.spotify.com/track/0NJIw3OZN1e1NtPhoUGs7o) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Tegan and Sara \- Spotify Pride](https://open.spotify.com/album/0xYvIMRxFzd25UqhFOeSIq) | 0:33 | 2017-06-02 |  |
 | [Tegan and Sara on Their Music](https://open.spotify.com/track/2pU9KIVKzkq30Ie8hcEzgn) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Tegan and Sara \- Spotify Pride](https://open.spotify.com/album/0xYvIMRxFzd25UqhFOeSIq) | 0:28 | 2017-06-02 |  |

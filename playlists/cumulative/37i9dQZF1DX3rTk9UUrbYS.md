@@ -4,7 +4,7 @@
 
 > Avant\-garde, experimental and free jazz.
 
-115 songs - 14 hr 48 min
+116 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Fiasco : In the Moment](https://open.spotify.com/track/2m1SZ7PJXRIQUjQ2LC6njG) | [Rope](https://open.spotify.com/artist/3N0PjNFTj32WSkDS31jbAO) | [In The Moment \(The Music of Charlie Haden\)](https://open.spotify.com/album/5frTCZPZdaT4Zp3tUmosWs) | 3:34 | 2021-12-03 |  |
 | [First Step](https://open.spotify.com/track/5l1UfmhKMQZCavGhxOuUY6) | [Matthew Shipp Quartet](https://open.spotify.com/artist/1iBj0pGFzWo1DPeudiGCuT) | [Sonic Fiction](https://open.spotify.com/album/4bEca57AFNS7bUp9gWmyBB) | 3:24 | 2020-08-25 |  |
 | [First Step](https://open.spotify.com/track/6prtfMlXq8ER0zknYsZCDw) | [Matthew Shipp Quartet](https://open.spotify.com/artist/1iBj0pGFzWo1DPeudiGCuT) | [Sonic Fiction](https://open.spotify.com/album/60DNNisiBJAHC9aiFNx7Qo) | 3:24 | 2020-08-25 | 2022-07-29 |
-| [Fractured Gatherings](https://open.spotify.com/track/06njugsiOINoCxXCr0fvCI) | [Jonah Rosenberg](https://open.spotify.com/artist/6ZhtuL1nt69JO0Q0OR9UN8) | [Jonah Rosenberg’s Fabulous Trio \- The Bulbous and The Budding](https://open.spotify.com/album/0On5P1MK3poldhDSaB2wBl) | 12:40 | 2021-09-17 |  |
+| [Fractured Gatherings](https://open.spotify.com/track/06njugsiOINoCxXCr0fvCI) | [Jonah Rosenberg](https://open.spotify.com/artist/6ZhtuL1nt69JO0Q0OR9UN8) | [Jonah Rosenberg’s Fabulous Trio \- The Bulbous and The Budding](https://open.spotify.com/album/0On5P1MK3poldhDSaB2wBl) | 12:40 | 2021-09-17 | 2023-04-29 |
+| [Fractured Gatherings](https://open.spotify.com/track/5DApkx3lXuxlCMVZHCHRTS) | [Jonah Rosenberg](https://open.spotify.com/artist/6ZhtuL1nt69JO0Q0OR9UN8) | [Jonah Rosenberg’s Fabulous Trio \- The Bulbous and The Budding](https://open.spotify.com/album/65eWWXsoL2YmJT8J8fhYTY) | 12:40 | 2021-10-01 |  |
 | [From Before](https://open.spotify.com/track/5xNLSDTG2TL62XufqAnvWN) | [Anthony Williams](https://open.spotify.com/artist/0FO6iwNxAbcjc8IStwizj6) | [Creative Jazz 101](https://open.spotify.com/album/3QvXwS7tpdWuz9ZC2GqvOR) | 6:51 | 2020-08-25 | 2022-07-29 |
 | [From Before \- Remastered 2009/Rudy Van Gelder Edition](https://open.spotify.com/track/5RrbXcAuz20QkziDZAHS08) | [Anthony Williams](https://open.spotify.com/artist/0FO6iwNxAbcjc8IStwizj6) | [Spring \(Remastered\)](https://open.spotify.com/album/7IikPqlk47jXyUaXYJmM10) | 6:52 | 2020-08-25 |  |
 | [Fuchsia Swing Song](https://open.spotify.com/track/1MrNi6XiF5JB3rucU0sDsO) | [Sam Rivers](https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5) | [Fuchsia Swing Song](https://open.spotify.com/album/0tsowrhCb9ezNEbhG7Xy0W) | 6:03 | 2020-08-25 |  |

@@ -4,14 +4,15 @@
 
 > From Fela Kuti to Antibalas, enjoy a collection of timeless Afrobeat music!
 
-69 songs - 6 hr 24 min
+70 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aay Lolo](https://open.spotify.com/track/1FQzFJMUdcqw9v2SK3uRGr) | [The Barbecues](https://open.spotify.com/artist/78qlfsD6MuIyf7g2krns0Q) | [Ghana special\-Modern Highlife,Afro\-sounds, Ghanaian & blues 1968\-81](https://open.spotify.com/album/6zFfgnjXWVtbVGYKQT5wgW) | 3:48 | 2019-08-09 | 2022-07-29 |
 | [Aaya Lolo](https://open.spotify.com/track/0xatU2C2OypO3VhdujMIjf) | [The Barbecues](https://open.spotify.com/artist/78qlfsD6MuIyf7g2krns0Q) | [Ghana Special: Modern Highlife, Afro Sounds & Ghanaian Blues 1968\-81](https://open.spotify.com/album/6Q7IHMtwm5rvoTuPL8lUkz) | 3:48 | 2019-08-09 |  |
-| [Africa Is Home](https://open.spotify.com/track/2ZOzTk3mHHYCktEFIIMPC9) | [Joe Mensah](https://open.spotify.com/artist/6nXxAcUehTGROEbFtHlmFf) | [Cry Laughter](https://open.spotify.com/album/0RRbMJomlvcqq74zyFg7JI) | 8:56 | 2019-08-09 |  |
+| [Africa Is Home](https://open.spotify.com/track/2ZOzTk3mHHYCktEFIIMPC9) | [Joe Mensah](https://open.spotify.com/artist/6nXxAcUehTGROEbFtHlmFf) | [Cry Laughter](https://open.spotify.com/album/0RRbMJomlvcqq74zyFg7JI) | 8:56 | 2019-08-09 | 2023-04-29 |
 | [Africa Is Home](https://open.spotify.com/track/5jh3f8fy8a335XYDyJ7x9R) | [Joe Mensah](https://open.spotify.com/artist/6nXxAcUehTGROEbFtHlmFf) | [Cry Laughter](https://open.spotify.com/album/0L0N20B9ZRD5M9rfrz83Nw) | 8:56 | 2019-08-09 | 2022-07-29 |
+| [Africa Is Home](https://open.spotify.com/track/6dhk1SvZFRECnpAs1D7a4o) | [Joe Mensah](https://open.spotify.com/artist/6nXxAcUehTGROEbFtHlmFf) | [Cry Laughter](https://open.spotify.com/album/7gErJQ1bmcxZdALOof56Yk) | 8:56 | 2022-09-26 |  |
 | [Africa Will Be Great Again](https://open.spotify.com/track/3tByzh69xblgCQMxbCE2ZM) | [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [One People One World](https://open.spotify.com/album/4D4pbycsZl6eUNIeudPJON) | 4:47 | 2019-08-09 |  |
 | [African Dialects](https://open.spotify.com/track/5y9sTZ2UKkddohU5k4gccl) | [Peter King](https://open.spotify.com/artist/5FP5tCzBeZnOemocPb8bOo) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/3oMy0b5i9EbBUR02bYIKZv) | 4:56 | 2019-08-09 | 2022-07-29 |
 | [African Dialects](https://open.spotify.com/track/6wzaQuyl0USnmocC6MK5CD) | [Peter King](https://open.spotify.com/artist/5FP5tCzBeZnOemocPb8bOo) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/4b70sW0HimeoxeDa6Ugnv6) | 4:56 | 2019-08-09 |  |

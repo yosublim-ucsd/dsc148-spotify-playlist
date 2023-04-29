@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZOFbVrnsA55.md) - [plain]
 
 > Slow down and embrace the immensity of time\. This is just an ambient blip in the long now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,151 likes - 291 songs - 4 day 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,198 likes - 291 songs - 4 day 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [2679 miles away](https://open.spotify.com/track/4B4jWWkkgJ13lSbph0T3GQ) | [Weatherson](https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky) | [Paradoxically, forgetting](https://open.spotify.com/album/4Pwr8F2x5SWLapkvscTJVN) | 13:55 |
 | 2 | [Ola De Luz](https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH) | [OKRAA](https://open.spotify.com/artist/1ZfxnR3DTdddhuKtkIGIKU) | [1994](https://open.spotify.com/album/1p75jJjxx7Eu2nlAlQEtGE) | 10:45 |
-| 3 | [Variation \#9: Pantelleria](https://open.spotify.com/track/2jlUqwqE1bXbo0Lfd0D8jq) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Variations For Piano & Tape](https://open.spotify.com/album/6MvIw0T6gV58pmiqxylymi) | 44:37 |
+| 3 | [Variation \#9: Pantelleria](https://open.spotify.com/track/2OdF7JWprGAps570PA57dS) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Variations For Piano & Tape](https://open.spotify.com/album/3YajhQtcNYZbLooxeVp4KA) | 44:37 |
 | 4 | [Spectacle Of Ritual](https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD) | 10:53 |
 | 5 | [SOTRS](https://open.spotify.com/track/2FlB3fJcGaohJORO93cNWv) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Patterns Of Consciousness](https://open.spotify.com/album/0NzTh2r6EOk9JDWkRHkeYS) | 9:30 |
 | 6 | [Structures from Silence](https://open.spotify.com/track/6fWQiphelkd7NF3CoPegB1) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Structures From Silence](https://open.spotify.com/album/46AY6JPcDEFWYF8YcYOQWh) | 28:33 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZOFbVrnsA55.md) - [plain]
 | 83 | [Lear](https://open.spotify.com/track/58tXLPg2DQsrg5ts5CqWrR) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi), [Stuart Dempster](https://open.spotify.com/artist/174yhQdHRtoWDlvtZ15NuK), [Panaiotis](https://open.spotify.com/artist/3nNs3fKoNiAHgx4B6p5fYA) | [Deep Listening](https://open.spotify.com/album/1h4VM1Nsgav7liCdWBoGlC) | 24:56 |
 | 84 | [Quiet Friend](https://open.spotify.com/track/7eyrOUEsP04DjbMAIUKXEV) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Structures From Silence](https://open.spotify.com/album/46AY6JPcDEFWYF8YcYOQWh) | 13:23 |
 | 85 | [Meciendo El Engaño](https://open.spotify.com/track/0HbaFS42e5PhQ0UWGpO4x7) | [Música Esporádica](https://open.spotify.com/artist/0h71X1g6FJuanP96HHvGmg), [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Orquesta de las Nubes](https://open.spotify.com/artist/7CqUn7HsQQ3OrCyMvBnwRS) | [Música Esporádica](https://open.spotify.com/album/7dnlyE1XLw84eNn4UJSU0j) | 11:01 |
-| 86 | [For David Robert Jones](https://open.spotify.com/track/7oFi295nEHtVCTJmn8jtA8) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [A Shadow in Time](https://open.spotify.com/album/5gZJNL5rLQNPJAIIwpMJJU) | 20:19 |
-| 87 | [Flux \(A Big, Bright, Colourful World\)](https://open.spotify.com/track/63UbIBRjfi8273JzExI9Mk) | [David Sylvian & Holger Czukay](https://open.spotify.com/artist/26GDS2n5mUuLoIJPJtiNU7) | [Plight & Premonition Flux & Mutability](https://open.spotify.com/album/6iiBcOISDBWY0J1n3jNcRP) | 16:55 |
+| 86 | [For David Robert Jones](https://open.spotify.com/track/6pHed29FQxKvWgvVdpOzla) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [A Shadow In Time](https://open.spotify.com/album/7pPLyyapgTvJaUZUONzjVa) | 20:19 |
+| 87 | [Flux \(A Big, Bright, Colourful World\)](https://open.spotify.com/track/4LUvsUCGIqyKXIEQIsvgsl) | [David Sylvian & Holger Czukay](https://open.spotify.com/artist/26GDS2n5mUuLoIJPJtiNU7) | [Plight & Premonition Flux & Mutability](https://open.spotify.com/album/51e9U6NoYboyOSzPOEIoos) | 16:55 |
 | 88 | [Reflection](https://open.spotify.com/track/7MMXFqR5OagEJbZLzkxTL6) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Reflection](https://open.spotify.com/album/4M33Lu2f5yApwDiPjVKXTl) | 1:05:24 |
 | 89 | [Meditation: I\. Part I](https://open.spotify.com/track/3jmVssDLvTVSRTVZQzCZcW) | [Eberhard Schoener](https://open.spotify.com/artist/4qJqNV3gKCl9cgitoUPujz) | [Schoener, Eberhard: Meditation](https://open.spotify.com/album/3YUWFn0j9YmB8BQjMUvAlb) | 17:29 |
 | 90 | [above the northern skies shown, Pt\. 2](https://open.spotify.com/track/6WfCPjQVIdPHJGEHaMcrzT) | [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [above the northern skies shown](https://open.spotify.com/album/6ix0ytl7g6oX25BhW6omzW) | 18:49 |
@@ -241,7 +241,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZOFbVrnsA55.md) - [plain]
 | 231 | [On a Shattered Shell Beach](https://open.spotify.com/track/255C4p9eZAJD1hNf4xjk7y) | [Abul Mogard](https://open.spotify.com/artist/4bNteCe0Beu161GmkB8Rq7) | [In Immobile Air](https://open.spotify.com/album/7cYshrWMa1tEd4S9wLu4rR) | 11:09 |
 | 232 | [Emergence](https://open.spotify.com/track/2lXskERZ6yY6m4EZ4u66ep) | [Adham Shaikh](https://open.spotify.com/artist/5jYKOT6F4yFRxLripcUnRu) | [Journey To The Sun](https://open.spotify.com/album/70OSyM8j556xNzncAHDa3y) | 10:00 |
 | 233 | [14:31](https://open.spotify.com/track/3gpLIMd0ySkcorvVIMtmTp) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/4y0wXNP3t9rUv1y58Peuj1) | 14:38 |
-| 234 | [Nocturnes](https://open.spotify.com/track/57FizDl8UjMM8VKVHY7J13) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Nocturnes](https://open.spotify.com/album/0xNeob38WS4kTjmjttQQry) | 40:55 |
+| 234 | [Nocturnes](https://open.spotify.com/track/0lPtLygfoiOQxJb2iry7OL) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Nocturnes](https://open.spotify.com/album/6YWiU1Sds3c9ftBjdkqlgS) | 40:55 |
 | 235 | [Reverie 2](https://open.spotify.com/track/47rK9XSpMyRYdgeK8GMGfa) | [Noveller](https://open.spotify.com/artist/3MqYHtX48uiYNf0gPaNBW2), [Thisquietarmy](https://open.spotify.com/artist/0DpQjnQLcu01O2o6lqCPiL) | [Reveries](https://open.spotify.com/album/5cJv1WbZ3eRaCFRbanrc5p) | 10:54 |
 | 236 | [The Ascent](https://open.spotify.com/track/5v1ucXIMPDgWYveqEmAYCp) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [Transcendence: Flute Meditations](https://open.spotify.com/album/6xyvXQYAkNYjINgig3bTia) | 10:53 |
 | 237 | [Towards the Bottomless Sea](https://open.spotify.com/track/3og4XblU59UJ2eUJWGVYBM) | [Max Corbacho](https://open.spotify.com/artist/0Qg8V53QwgXLDtN0xMUL5q) | [The Ocean Inside](https://open.spotify.com/album/07ldtWPfUap2nQvPhAYce1) | 29:31 |
@@ -300,4 +300,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZOFbVrnsA55.md) - [plain]
 | 290 | [Flux 2](https://open.spotify.com/track/0cQ2AFeqZoopVS8zetcyra) | [R\. Turman](https://open.spotify.com/artist/5fZZnv5EfMpAL3DiQHegFe), [Robert Turman](https://open.spotify.com/artist/2W2BiVgO5bISQejnz7HPhE) | [Flux](https://open.spotify.com/album/50MNzElaJpGcQNnxV6JC9c) | 10:40 |
 | 291 | [Knot of Spirit](https://open.spotify.com/track/16OWbcIekAVw9vEdiL93My) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm) | [Knot of Spirit](https://open.spotify.com/album/6OQQ3ImfeWkqIIRhMr4L5V) | 10:18 |
 
-Snapshot ID: `MCxiN2E0OGQ0Y2FkMWNkNTgxNGNjMjVmNWM4YjY3MmJjNTA4NzdjMWU3`
+Snapshot ID: `MCwyMjI4YmE4MWE1ZGM2MjBjZDQyOTdkY2NmMTNlNjYzOWQ3YmIxNWFj`

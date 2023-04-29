@@ -746,10 +746,28 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 268002,
       "name": "Levia",
       "url": "https://open.spotify.com/track/3IGhQg2Kto8vFgj3cTVyNL"
+    },
+    {
+      "album": {
+        "name": "Levia",
+        "url": "https://open.spotify.com/album/7db13r50iuCjvrau6eRcHM"
+      },
+      "artists": [
+        {
+          "name": "Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268002,
+      "name": "Levia",
+      "url": "https://open.spotify.com/track/7KHzVYe0fVMqvHLacHBZHT"
     },
     {
       "album": {

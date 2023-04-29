@@ -1697,6 +1697,28 @@
     },
     {
       "album": {
+        "name": "Raavana Kottam",
+        "url": "https://open.spotify.com/album/13GOZsEZb3fB4Ho3lGStbv"
+      },
+      "artists": [
+        {
+          "name": "Justin Prabhakaran",
+          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
+        },
+        {
+          "name": "Diwakar",
+          "url": "https://open.spotify.com/artist/5BdXSKDC9KQQpdQ7V3cZxD"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243491,
+      "name": "Raavana Kottathula",
+      "url": "https://open.spotify.com/track/7bCo86nA52IUWcJsuNu81F"
+    },
+    {
+      "album": {
         "name": "Pathu Thala (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6y3yImd357ZGmMfb0mb1ts"
       },

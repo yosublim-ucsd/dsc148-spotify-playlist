@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
-  "num_followers": 270214,
+  "num_followers": 270485,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjY2NjFhNWMwZWJjM2NmOWJmZTkwMTg2MTIyYTA2NGNiMTkzMmFi",
+  "snapshot_id": "MCw4MGRhZjBlYjI5ZTY3OGE4NmYyNmJhYjU3NmI2OGJiNjY5ZjY2MTkw",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -39,6 +39,26 @@
       "duration_ms": 541826,
       "name": "Mister Magic",
       "url": "https://open.spotify.com/track/2fmXnPfzguSp3zKDibCBgv"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Not Here / Not Now",
+        "url": "https://open.spotify.com/album/0pO4nHmz5vGINmvO31sE5N"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        }
+      ],
+      "duration_ms": 255953,
+      "name": "Not Here / Not Now",
+      "url": "https://open.spotify.com/track/7fopfIiFlzdFIdHwqtNsIG"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -125,6 +145,22 @@
       "url": "https://open.spotify.com/track/2zQl59dZMzwhrmeSBEgiXY"
     },
     {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Talent Stick",
+        "url": "https://open.spotify.com/album/6iHyp8p7M8TYEZegzZxUBW"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "duration_ms": 240352,
+      "name": "Talent Stick",
+      "url": "https://open.spotify.com/track/7yukuMCiNS57X6amD5MMwe"
+    },
+    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Cosmos",
@@ -155,6 +191,26 @@
       "duration_ms": 377171,
       "name": "Jimmy's Groove",
       "url": "https://open.spotify.com/track/2sSi5vdL5eEpg3I53oa9Xx"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Fleet Streak",
+        "url": "https://open.spotify.com/album/5vDEj1kU0gpIOw34y19iuj"
+      },
+      "artists": [
+        {
+          "name": "Kerbside Collection",
+          "url": "https://open.spotify.com/artist/6OOY4mJJDFE32QIWK171zh"
+        },
+        {
+          "name": "Golden Rules",
+          "url": "https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz"
+        }
+      ],
+      "duration_ms": 237679,
+      "name": "Fleet Streak",
+      "url": "https://open.spotify.com/track/4NoeaUoJv9u8cuopFuVedF"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1509,22 +1565,6 @@
       "url": "https://open.spotify.com/track/1PLbAq2vbYJTAP9pbEoGmY"
     },
     {
-      "added_at": "2021-12-03 05:02:00",
-      "album": {
-        "name": "Sir Somebody",
-        "url": "https://open.spotify.com/album/4SQDM8myIkEa4MDA5hz5fH"
-      },
-      "artists": [
-        {
-          "name": "Family Company",
-          "url": "https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0"
-        }
-      ],
-      "duration_ms": 242226,
-      "name": "Sir Somebody",
-      "url": "https://open.spotify.com/track/7aHHRCZdz4ZW9tCN3nX5uv"
-    },
-    {
       "added_at": "2021-04-09 04:01:00",
       "album": {
         "name": "Lifeline",
@@ -2639,22 +2679,6 @@
     {
       "added_at": "2021-12-03 05:02:00",
       "album": {
-        "name": "Glaze",
-        "url": "https://open.spotify.com/album/4J5ZNleIjACZZWp633TO6m"
-      },
-      "artists": [
-        {
-          "name": "Kerbside Collection",
-          "url": "https://open.spotify.com/artist/6OOY4mJJDFE32QIWK171zh"
-        }
-      ],
-      "duration_ms": 273586,
-      "name": "Glaze",
-      "url": "https://open.spotify.com/track/05OOwdPf6R9McIukghw4w9"
-    },
-    {
-      "added_at": "2021-12-03 05:02:00",
-      "album": {
         "name": "Swing Praxis (Kaidi Tatham Remix)",
         "url": "https://open.spotify.com/album/1yrVoalR2Bk3DSYKJb5gwl"
       },
@@ -2956,7 +2980,7 @@
       "added_at": "2021-04-09 04:01:00",
       "album": {
         "name": "Doug Carn JID005",
-        "url": "https://open.spotify.com/album/2NECEnZwEaR6at7uEP8Kmj"
+        "url": "https://open.spotify.com/album/7KGmy3wpG6ofn4ZC79Ih7W"
       },
       "artists": [
         {
@@ -2974,7 +2998,7 @@
       ],
       "duration_ms": 227222,
       "name": "Desert Rain",
-      "url": "https://open.spotify.com/track/3BhIyhUaz8s4QeJqyWc6R5"
+      "url": "https://open.spotify.com/track/3KfBhRPQ7AaxQYh6r1CAXw"
     },
     {
       "added_at": "2021-04-09 04:01:00",
@@ -3667,50 +3691,6 @@
       "duration_ms": 186324,
       "name": "Pizza Pie",
       "url": "https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Youngstown 1",
-        "url": "https://open.spotify.com/album/6aRxj78dfEM7HNnTLnpswl"
-      },
-      "artists": [
-        {
-          "name": "Unc D",
-          "url": "https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO"
-        },
-        {
-          "name": "Thin Thicket",
-          "url": "https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng"
-        },
-        {
-          "name": "Winston Bell",
-          "url": "https://open.spotify.com/artist/0Izs56yAnVoK3Cgy4Y68h2"
-        },
-        {
-          "name": "Damon the Soulful Samurai",
-          "url": "https://open.spotify.com/artist/6B7G3EEuNog0pIB4IYqXtp"
-        },
-        {
-          "name": "Antonio Labra",
-          "url": "https://open.spotify.com/artist/27zwBTNwuN786OvS6BpzD4"
-        },
-        {
-          "name": "Drehova",
-          "url": "https://open.spotify.com/artist/2WYpO40KD8lWY8YAC7L4DO"
-        },
-        {
-          "name": "Thomas Russell",
-          "url": "https://open.spotify.com/artist/68xOAUse5cObr1No8jPoel"
-        },
-        {
-          "name": "Nate Yingling",
-          "url": "https://open.spotify.com/artist/580mPpv8hFKzL8f849ABLi"
-        }
-      ],
-      "duration_ms": 152948,
-      "name": "Youngstown 1",
-      "url": "https://open.spotify.com/track/22APBlIRGvgdsEELXZZmox"
     },
     {
       "added_at": "2021-04-09 04:01:00",

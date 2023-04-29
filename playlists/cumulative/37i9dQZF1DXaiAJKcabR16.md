@@ -4,7 +4,7 @@
 
 > Slide and steel\. Set your soundtrack to some moody, gritty blues folk.
 
-96 songs - 6 hr 24 min
+97 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,8 +90,9 @@
 | [The Dirt](https://open.spotify.com/track/5VB9VqBUzxR8lj49Scmly0) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/1yqDoOZkNFPbZVwELwWieW) | 3:35 | 2021-07-30 | 2022-07-29 |
 | [The Hounds](https://open.spotify.com/track/36PkUgkmr1hVGLY5VJIXJ5) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [The Hounds](https://open.spotify.com/album/1Uoi1Ki0DQxCTWpNuYH7FE) | 4:04 | 2021-07-30 |  |
 | [The Mark \- Live Solo](https://open.spotify.com/track/5QJMMpa8ihBI2CFEhhmOi4) | [Cold Specks](https://open.spotify.com/artist/2DMHBCdboDAYJWzt2lDSP5) | [Spotify Session](https://open.spotify.com/album/4Vt7lG6HA70tiPDMkK6Cch) | 2:18 | 2021-07-30 |  |
+| [Thousand Mile Night](https://open.spotify.com/track/7daWU6T6qzj6W2e8wVDg3D) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Thousand Mile Night](https://open.spotify.com/album/61RF8IAtnbqiwQbENoVqQS) | 3:53 | 2023-03-28 |  |
 | [Thousand Mile Night](https://open.spotify.com/track/34Uf3UWc5oUd5f0NxZ1KJR) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Thousand Mile Night](https://open.spotify.com/album/3NrqvphiHgZq1golNdpyKv) | 3:55 | 2021-07-30 | 2022-11-13 |
-| [Thousand Mile Night](https://open.spotify.com/track/4q4F2OEZJ2EQuRNBKytiDr) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Thousand Mile Night](https://open.spotify.com/album/4LkEoMZMHwVWLByjtt4wQf) | 3:55 | 2021-07-30 |  |
+| [Thousand Mile Night](https://open.spotify.com/track/4q4F2OEZJ2EQuRNBKytiDr) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Thousand Mile Night](https://open.spotify.com/album/4LkEoMZMHwVWLByjtt4wQf) | 3:55 | 2021-07-30 | 2023-04-29 |
 | [Thousand Mile Night](https://open.spotify.com/track/5yeM63cXgGvSN2VrcHbv6x) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Thousand Mile Night \- Single](https://open.spotify.com/album/3ARIeQHdKOLeGnSqGi1g40) | 3:55 | 2021-07-30 | 2022-07-29 |
 | [Three More Days](https://open.spotify.com/track/2pDOP7lUpO5LGUz798H0me) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Till The Sun Turns Black](https://open.spotify.com/album/6teArUjXEHY8nEbWiOf1Hq) | 3:36 | 2021-07-30 |  |
 | [To Be Alone](https://open.spotify.com/track/32G6qOwK5SuBEA9D6pth34) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 5:23 | 2021-07-30 |  |

@@ -1146,10 +1146,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 170760,
       "name": "Girls, Girls, Girls",
       "url": "https://open.spotify.com/track/1gemgwHfru1nmQOZlEaxt9"
+    },
+    {
+      "album": {
+        "name": "White Tiger",
+        "url": "https://open.spotify.com/album/1cLsI0tJ76BKZZePhwVRxi"
+      },
+      "artists": [
+        {
+          "name": "Ana Egge",
+          "url": "https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170760,
+      "name": "Girls, Girls, Girls",
+      "url": "https://open.spotify.com/track/3ZF4gOd2g6x4yY8UYr3n6V"
     },
     {
       "album": {

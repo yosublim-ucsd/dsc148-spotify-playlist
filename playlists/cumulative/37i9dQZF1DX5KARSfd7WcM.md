@@ -4,7 +4,7 @@
 
 > The official playlist for Heartstopper\. Watch now on Netflix!
 
-43 songs - 2 hr 30 min
+44 songs - 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Colours Of You](https://open.spotify.com/track/7hjPM7rlZo3netjXWOZqcT) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Colours Of You](https://open.spotify.com/album/6VJe4cAIDoLXMbntuNpbO3) | 4:15 | 2022-05-02 |  |
 | [Dance with Me](https://open.spotify.com/track/2sBKLT7bFa38yVAYxYltUX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:54 | 2022-05-02 |  |
 | [Don't Delete The Kisses](https://open.spotify.com/track/3K94Fd5ZQkPCW8wV6oyk22) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Visions Of A Life](https://open.spotify.com/album/7BJmbXNSX1tUPmVjvrlqvz) | 4:35 | 2022-05-02 |  |
-| [Don’t Leave Me \(Chapter 1: Despair\)](https://open.spotify.com/track/7nhItOdjPls6dqewYNSXRT) | [HMLTD](https://open.spotify.com/artist/0yd6o6a2MaOjsF1SglI4Hw) | [Don't Leave Me](https://open.spotify.com/album/5younwrp5jJoG1iopcoLRV) | 3:32 | 2022-05-02 |  |
+| [Don’t Leave Me \(Chapter 1: Despair\)](https://open.spotify.com/track/1JIlGLcnahiv1eWoqJK1m6) | [HMLTD](https://open.spotify.com/artist/0yd6o6a2MaOjsF1SglI4Hw) | [Don't Leave Me](https://open.spotify.com/album/5d8faanLu8YO39Q73Hzbqt) | 3:32 | 2022-05-02 |  |
+| [Don’t Leave Me \(Chapter 1: Despair\)](https://open.spotify.com/track/7nhItOdjPls6dqewYNSXRT) | [HMLTD](https://open.spotify.com/artist/0yd6o6a2MaOjsF1SglI4Hw) | [Don't Leave Me](https://open.spotify.com/album/5younwrp5jJoG1iopcoLRV) | 3:32 | 2022-05-02 | 2023-04-29 |
 | [Dover Beach](https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [The Yearbook](https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe) | 3:38 | 2022-05-02 |  |
 | [fever dream](https://open.spotify.com/track/4UCSbPweLRQNfkr5MCRooZ) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy) | 3:16 | 2022-05-02 |  |
 | [fever dream](https://open.spotify.com/track/5WHgAhE3VlGpBiNKUWEyDY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/6VtEyh4lKKk1Yjui9wWKhV) | 3:16 | 2022-05-02 | 2022-10-14 |

@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "About Damn Time",
+        "url": "https://open.spotify.com/album/2USTIARqwExVDvfbNi2mHR"
+      },
+      "artists": [
+        {
+          "name": "Leyland Rogers",
+          "url": "https://open.spotify.com/artist/6P5vbqhRX2ZrMmFLQHZ3Mr"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140975,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/5uoOSG79SKKkw7F7wyqkRJ"
+    },
+    {
+      "album": {
         "name": "Both Sides Now",
         "url": "https://open.spotify.com/album/6em41apjqOtmJadQCcmysZ"
       },
@@ -996,7 +1014,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 218715,
       "name": "Dancing on my own",
       "url": "https://open.spotify.com/track/3x85o71j8PyDEhvnQJEtUn"
@@ -1090,6 +1108,24 @@
       "duration_ms": 177457,
       "name": "Diamonds and Pearls",
       "url": "https://open.spotify.com/track/3WKpflEjBgrePheA5AzsU1"
+    },
+    {
+      "album": {
+        "name": "Die 4 Me",
+        "url": "https://open.spotify.com/album/4zluT7uuTQrgz55gESxfZe"
+      },
+      "artists": [
+        {
+          "name": "Lana Jax",
+          "url": "https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156500,
+      "name": "Die 4 Me",
+      "url": "https://open.spotify.com/track/6UFkfO4Hn0RCiUoL270dpq"
     },
     {
       "album": {
@@ -1511,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "Ghosts Again",
+        "url": "https://open.spotify.com/album/6xTKawI8bmXF7IN23OQ1ym"
+      },
+      "artists": [
+        {
+          "name": "Rita May",
+          "url": "https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250670,
+      "name": "Ghost Again",
+      "url": "https://open.spotify.com/track/0dTy1UqD6BblPJtTFXVheS"
+    },
+    {
+      "album": {
         "name": "Girl on fire",
         "url": "https://open.spotify.com/album/2zOAwVXSVxjxbp74MFl1oQ"
       },
@@ -1907,6 +1961,24 @@
     },
     {
       "album": {
+        "name": "Hey Jude",
+        "url": "https://open.spotify.com/album/6bd2EjJWCn1OZaETntRyED"
+      },
+      "artists": [
+        {
+          "name": "Sheep Counting",
+          "url": "https://open.spotify.com/artist/4y3z52Aw8gXJ5iHFiTJXeP"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84002,
+      "name": "Hey Jude",
+      "url": "https://open.spotify.com/track/5R0Ltvrb5N8FnXOIbLUAos"
+    },
+    {
+      "album": {
         "name": "Bad Habits & Hey Jude (Piano)",
         "url": "https://open.spotify.com/album/6Je7JdE3y16Y6mysHv2MWJ"
       },
@@ -1936,7 +2008,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 189091,
       "name": "Hey Jude - Piano",
       "url": "https://open.spotify.com/track/4dzQ4QOgu5anxrxTAaz4BK"
@@ -2339,6 +2411,24 @@
     },
     {
       "album": {
+        "name": "I won't let the sun go down on me",
+        "url": "https://open.spotify.com/album/0jjBB5aIr8mMgypCdwSmkw"
+      },
+      "artists": [
+        {
+          "name": "Elisa Mosel",
+          "url": "https://open.spotify.com/artist/2VNM8Yu05cK0W9sy9Ln2wM"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244916,
+      "name": "I won't let the sun go down on me",
+      "url": "https://open.spotify.com/track/3m9bYHLtgpXCUqEdsjhvLh"
+    },
+    {
+      "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/3f3Mho7fXcTS7nIqHQwcoL"
       },
@@ -2494,7 +2584,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 122452,
       "name": "Isn't She Lovely",
       "url": "https://open.spotify.com/track/09sIhNxVdgMezbzeGcRLIx"
@@ -2548,7 +2638,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 191000,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/3Qy8L9VXIGqV51ZMqgqy8y"
@@ -2717,6 +2807,24 @@
     },
     {
       "album": {
+        "name": "Laughter In The Rain",
+        "url": "https://open.spotify.com/album/24lVcFHXsMjvT0PXtR1uvr"
+      },
+      "artists": [
+        {
+          "name": "Paul Fredricksen",
+          "url": "https://open.spotify.com/artist/3Hjrzyvu2ObuIwfZJucm6S"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199213,
+      "name": "Laughter In The Rain",
+      "url": "https://open.spotify.com/track/44ubwqcWT4BEiTPxdZ0Wyh"
+    },
+    {
+      "album": {
         "name": "Relaxing Pop Piano Covers",
         "url": "https://open.spotify.com/album/6RInRZcSuXuuJFAMFkKdEy"
       },
@@ -2822,6 +2930,24 @@
       "duration_ms": 173644,
       "name": "Let It Be - Piano Version",
       "url": "https://open.spotify.com/track/6WTikw3wYizU78xt0ahfKv"
+    },
+    {
+      "album": {
+        "name": "Let me love you",
+        "url": "https://open.spotify.com/album/5rHBl1BPlHZsc9BB7DWO0o"
+      },
+      "artists": [
+        {
+          "name": "Tindra Rosenlind",
+          "url": "https://open.spotify.com/artist/4JpM15j7tnB2O5mBqGo6E4"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252519,
+      "name": "Let me love you",
+      "url": "https://open.spotify.com/track/2I7NvGmHkgxrXp3FziqJGj"
     },
     {
       "album": {
@@ -3524,7 +3650,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 175609,
       "name": "Paint It Black (Piano Instrumental)",
       "url": "https://open.spotify.com/track/1JIZyPwBqHje2dzKXoONSy"
@@ -3744,6 +3870,24 @@
       "duration_ms": 184137,
       "name": "Rocket Man",
       "url": "https://open.spotify.com/track/6ff2TinoXWHCn0JnfUAp2b"
+    },
+    {
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/3BUyqgRsdfypzDEeNISpe5"
+      },
+      "artists": [
+        {
+          "name": "Aleron Lapointe",
+          "url": "https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175537,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/2uM09IwC6W4Txne0cCZWmp"
     },
     {
       "album": {
@@ -4017,6 +4161,24 @@
     },
     {
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/1vSL1Nh777cMwnHw7wUYGj"
+      },
+      "artists": [
+        {
+          "name": "Lenowa Parson",
+          "url": "https://open.spotify.com/artist/3zSc3Docwdph96gfgwmxNp"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269994,
+      "name": "Shape Of You",
+      "url": "https://open.spotify.com/track/4SXxhTeElT0VzF5ZCrc1Fj"
+    },
+    {
+      "album": {
         "name": "Relaxing Piano Covers, Vol. 1 (Best of 2017)",
         "url": "https://open.spotify.com/album/1IRBLlv9NLMaF7ibUlrWvf"
       },
@@ -4226,10 +4388,28 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 161500,
       "name": "Starboy",
       "url": "https://open.spotify.com/track/7rzu7S7kLowCaxlGpZ8MBP"
+    },
+    {
+      "album": {
+        "name": "STAY",
+        "url": "https://open.spotify.com/album/2rB55ubwvBGMkWYaAow5Uw"
+      },
+      "artists": [
+        {
+          "name": "Nora Gray",
+          "url": "https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188391,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/4jxD83ZUvK2YkOGN7IgfBq"
     },
     {
       "album": {
@@ -4640,7 +4820,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 173374,
       "name": "The Rose",
       "url": "https://open.spotify.com/track/5qSl1ycvNC62IAa9CXWcKC"
@@ -5404,7 +5584,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 191459,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/6L6OwV5VpL1pVETRcTmt7B"

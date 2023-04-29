@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Tsuki",
-  "num_followers": 42223,
+  "num_followers": 42289,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWE5YWI3NDQ1NWViZGY4YmZlYTYyOTUxM2ZhZTIyMWQ4Zjg5MGYx",
+  "snapshot_id": "MCxmMDdiOWIzNjZlOGZlNDMwMmRmZWY1NDc3MTVmMDg2ZGJkOWJkMmE3",
   "tracks": [
     {
       "added_at": "2022-08-12 16:34:51",
@@ -1019,22 +1019,18 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/2EMenP3Cn1Ely4hLp6bhHy"
+        "name": "Five A DAY",
+        "url": "https://open.spotify.com/album/4Eh4Uz2Aeu1hRi5GcUdYXB"
       },
       "artists": [
         {
-          "name": "Lee Mvtthews",
-          "url": "https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC"
-        },
-        {
-          "name": "Freaks & Geeks",
-          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+          "name": "Refracta",
+          "url": "https://open.spotify.com/artist/1xlnNlzIKpl7Yc5Xto4Xxg"
         }
       ],
-      "duration_ms": 249655,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/1EY6HivuyFfBETSEyDAPys"
+      "duration_ms": 267428,
+      "name": "Grape",
+      "url": "https://open.spotify.com/track/7wobm0ZyzQHe7G3Q6rzLe3"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -1083,18 +1079,22 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Five A DAY",
-        "url": "https://open.spotify.com/album/4Eh4Uz2Aeu1hRi5GcUdYXB"
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/2EMenP3Cn1Ely4hLp6bhHy"
       },
       "artists": [
         {
-          "name": "Refracta",
-          "url": "https://open.spotify.com/artist/1xlnNlzIKpl7Yc5Xto4Xxg"
+          "name": "Lee Mvtthews",
+          "url": "https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC"
+        },
+        {
+          "name": "Freaks & Geeks",
+          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
         }
       ],
-      "duration_ms": 267428,
-      "name": "Grape",
-      "url": "https://open.spotify.com/track/7wobm0ZyzQHe7G3Q6rzLe3"
+      "duration_ms": 249655,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/1EY6HivuyFfBETSEyDAPys"
     },
     {
       "added_at": "2022-08-12 16:34:51",

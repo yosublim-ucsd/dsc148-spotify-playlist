@@ -4,7 +4,7 @@
 
 > Soothing drones, ambient piano and new age music.
 
-338 songs - 17 hr 22 min
+340 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Conscious Jorney](https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Benny Bernstein](https://open.spotify.com/album/0H6fiGx3oWLzmtCvxhr2lM) | 2:34 | 2022-05-25 | 2022-09-03 |
 | [Cosmogyral](https://open.spotify.com/track/4WT82kpk9JXBnyN564LZS4) | [Szigeti Aliz](https://open.spotify.com/artist/5MYqSmIAMjoiBp8suHqGaA) | [Cosmogyral](https://open.spotify.com/album/0ZgO9uGL5SY607snj6pG5f) | 3:19 | 2022-05-25 | 2022-09-28 |
 | [Cosmos](https://open.spotify.com/track/211l6gKeErP58kN2gvzuQZ) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Divine](https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp) | 4:31 | 2022-05-25 | 2022-09-28 |
+| [Cosmosis](https://open.spotify.com/track/0bvAQZ7fx0opg1XDY0CCHT) | [Embertone](https://open.spotify.com/artist/64wQLdtq3qw5sCdJlK4CwY) | [Cosmosis](https://open.spotify.com/album/5e26lAWV8Sindc9WXm83dY) | 3:04 | 2023-04-28 |  |
 | [Crystals](https://open.spotify.com/track/7Cp3NybYCY181kPYDXtS1t) | [Crystals](https://open.spotify.com/artist/0WO63gX2KR2lMmeAgNf8gY) | [Crystals](https://open.spotify.com/album/4KyUloQONRdcmdTjidzpwI) | 2:58 | 2022-05-25 |  |
 | [Cyclic dreams](https://open.spotify.com/track/7tLKgqGT3YHx4xv6FrBk4A) | [Static Garden](https://open.spotify.com/artist/3uuH2jEYv8ZArIf83io4hN) | [Cyclic dreams](https://open.spotify.com/album/1LClOBWsmb9ZsSKnQI82vc) | 3:50 | 2022-05-25 | 2022-09-28 |
 | [Dark Light](https://open.spotify.com/track/10UIoOEhsy1iX1mYubyw96) | [Everaire](https://open.spotify.com/artist/1XXCZ1aVZDPxP4pXYm3YfV) | [Dark Light](https://open.spotify.com/album/5zQmXJUkxJzmyNsYmmSrhx) | 3:20 | 2022-05-25 | 2022-09-28 |
@@ -245,6 +246,7 @@
 | [Relaxar](https://open.spotify.com/track/517MFgG7lzEZn286TL5F74) | [Miranda Moniz](https://open.spotify.com/artist/5kpJ18Oz0PCOMeSQH8ELOT) | [Relaxamento](https://open.spotify.com/album/4EtRcn4zeWMP65uM0j5u1s) | 3:57 | 2022-05-25 | 2023-04-07 |
 | [Relaxing Pillow](https://open.spotify.com/track/15GJW2ovskjK0dKwr6hgAf) | [Mr Pillow](https://open.spotify.com/artist/3V7GUrlrlXrhNa35wzdqUx) | [Getting Sleepy](https://open.spotify.com/album/145nFBu19qqrs9qGzElwj8) | 3:30 | 2022-05-25 | 2022-09-28 |
 | [Release](https://open.spotify.com/track/3WvLmahT84IZwXfK5S8cIb) | [Danoa](https://open.spotify.com/artist/2VD5PP13OpMEyul7NfnLa2) | [Release](https://open.spotify.com/album/4jBVlTEpIx48NPGSxfBAKr) | 2:17 | 2022-12-06 |  |
+| [Release Me](https://open.spotify.com/track/5yd9MBabXglxnZF8ZH5MQP) | [Vincent La Rossi](https://open.spotify.com/artist/54F0MoWcnkdbHEcjEWmQd3) | [From Above](https://open.spotify.com/album/3kWUF7SSQJzsSHwUVwr1GQ) | 2:49 | 2023-04-28 |  |
 | [Remembering](https://open.spotify.com/track/466TP56KLeLMOeUqe5KVnr) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Remembering](https://open.spotify.com/album/3bAILbgsbNPeiiRKSTcmyT) | 3:03 | 2022-05-25 |  |
 | [Repouso](https://open.spotify.com/track/41Fp3VZmyloxKUUcWDUrH2) | [Polysomni](https://open.spotify.com/artist/3ULKIOVe2bR3iZF1jFqzMN) | [Repouso](https://open.spotify.com/album/0FOLb3AIWL91ig6CEQu09c) | 3:56 | 2022-05-25 |  |
 | [Rhythms](https://open.spotify.com/track/2ZvyrcGO1JLsfc2XqD7oio) | [Pascal Dirac](https://open.spotify.com/artist/55UOeJ9KXXCNAQ0b4REsiR) | [Rhythms](https://open.spotify.com/album/3r2nphYPieVtEcbWCfWMP3) | 2:28 | 2022-09-02 |  |

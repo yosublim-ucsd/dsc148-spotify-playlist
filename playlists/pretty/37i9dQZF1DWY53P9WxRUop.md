@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY53P9WxRUop.md) - [plain]
 
 > Summer fun for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,307 likes - 76 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,312 likes - 76 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Are You Ready for the Summer?](https://open.spotify.com/track/2A86c1BHXoAt1JJKEvihKt) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Camp Lisa](https://open.spotify.com/album/4ifCn1MLPTtbVYbbEGWOeS) | 1:21 |
+| 1 | [Are You Ready for the Summer?](https://open.spotify.com/track/5TPTF6jjfJERlFj8TbLOvX) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Camp Lisa](https://open.spotify.com/album/5vwzr0ct9GkSIDz1B7LlUR) | 1:21 |
 | 2 | [1\-2\-3 Fun Camp!](https://open.spotify.com/track/1fIjjOyu3ftxRUvCmwoNLj) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [1\-2\-3 Fun Camp!](https://open.spotify.com/album/2SxkoAjwKwE5G7PpRgvnb1) | 1:39 |
 | 3 | [Wake Up](https://open.spotify.com/track/750gu0SlvvJ5lGhkjM9bKs) | [Recess Monkey](https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb) | [Family Photo Album](https://open.spotify.com/album/5ReK6CXisDMoAfz8dKf1nD) | 2:30 |
 | 4 | [Let's Go Outside](https://open.spotify.com/track/5gwhvjQvq5CudsONgBJB9c) | [Sarah Pirtle](https://open.spotify.com/artist/5G0zt4pPtUa8KW6QIHedRa) | [Pocketful of Wonder](https://open.spotify.com/album/0TkEqgYEwPXCSki5NFUSnE) | 2:25 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY53P9WxRUop.md) - [plain]
 | 59 | [More S'mores \(feat\. Grotch the Sasquatch\)](https://open.spotify.com/track/541XBZAT8BZAsUgBZtAdb3) | [DJ WILLY WOW!](https://open.spotify.com/artist/1wrWCOgGgDPnyplXzAyphY), [Grotch the Sasquatch](https://open.spotify.com/artist/6ynQJFv4NqfOtgNcLGOANV) | [It's All Good in the Naturehood! \(feat\. Grotch the Sasquatch\)](https://open.spotify.com/album/4GEZmb9oHRzVc4SVtArNaU) | 2:31 |
 | 60 | [Sidewalk Chalk](https://open.spotify.com/track/66NiIMKlV477Yxy3FySgIl) | [Rebecca Frezza & Big Truck](https://open.spotify.com/artist/1SeulqPitSZkVs2NChVAlO) | [Special Kind Of Day](https://open.spotify.com/album/50P0yHZsEryCZ8Uy98b5ET) | 3:27 |
 | 61 | [Surfer Shake](https://open.spotify.com/track/3KrrtXZHE3w9Aiy5E9pZl1) | [The Baby Grands](https://open.spotify.com/artist/5utOgNLzDC1fg5EuztlYbC) | [The Baby Grands](https://open.spotify.com/album/4QNuQTPY9OzOSoiY6BWYc9) | 1:56 |
-| 62 | [Campin' Tent](https://open.spotify.com/track/55ArNFldGIcodb1Ai6Re6m) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Can You Canoe? A Mississippi River Adventure Album](https://open.spotify.com/album/61vBZ7aI8HfnBTTrVMC68v) | 3:00 |
+| 62 | [Campin' Tent](https://open.spotify.com/track/51OVen4fkgobiLXxTmZTrQ) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Can You Canoe? A Mississippi River Adventure Album](https://open.spotify.com/album/5RjOtvEVZ7cHpfvGoscBxd) | 3:00 |
 | 63 | [On My Bike](https://open.spotify.com/track/7pnqGRRdqOYRDjd3qzFyL3) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [A Potluck](https://open.spotify.com/album/4uBGyDlwFP7tlfLma1DDJk) | 3:03 |
 | 64 | [A Neighborhood is a Friendly Place](https://open.spotify.com/track/7iSul9jFKaa0MUQWkiewUw) | [Ella Jenkins](https://open.spotify.com/artist/2AdaJlzNcOpdrvMSBN92Wp) | [Growing Up with Ella Jenkins: Rhythms, Songs, and Rhymes](https://open.spotify.com/album/468gIpOuQApGaXw9UFRHMt) | 2:46 |
 | 65 | [Out in Nature](https://open.spotify.com/track/1udZomeP0QjwkUP9VjhnV7) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Fantastic Voyages](https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7) | 1:56 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY53P9WxRUop.md) - [plain]
 | 75 | [Let's Go Fly a Kite](https://open.spotify.com/track/0E13OCGuZX4pWcbAttmRpb) | [Wendy and DB](https://open.spotify.com/artist/2DA994szci8jCCBDsPFbpM) | [Hey Big World](https://open.spotify.com/album/7qrmKYtBMFrc7iwhe1I5xR) | 2:05 |
 | 76 | [Summer Sunshine](https://open.spotify.com/track/0QfYy4pgfxQ2Af3ScScLWY) | [Rebecca Frezza & Big Truck](https://open.spotify.com/artist/1SeulqPitSZkVs2NChVAlO) | [Special Kind Of Day](https://open.spotify.com/album/50P0yHZsEryCZ8Uy98b5ET) | 2:42 |
 
-Snapshot ID: `MCw1NTI4ZDkwNjQ4Nzc5MDZmYzMwYjAzNzk0ZTE5NTAxOTg5ZjkyNjRj`
+Snapshot ID: `MCw3MTc0Mzg5MDYyN2M5MDc4NTMwMTk4ODkyMjNmNWZkMWZjOWI5YmU0`

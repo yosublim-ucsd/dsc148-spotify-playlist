@@ -24886,10 +24886,28 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 177360,
       "name": "Sydney",
       "url": "https://open.spotify.com/track/0MQiSFUtYcgcyLWFABBqoC"
+    },
+    {
+      "album": {
+        "name": "Turbulence",
+        "url": "https://open.spotify.com/album/46sUyBzswdVzGjveaAnU18"
+      },
+      "artists": [
+        {
+          "name": "SL",
+          "url": "https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177360,
+      "name": "Sydney",
+      "url": "https://open.spotify.com/track/5hts2Az7bkqMZLaMWgMkoW"
     },
     {
       "album": {

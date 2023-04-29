@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All new indie rock. Featuring new music from Mac Demarco.",
+  "description": "All new indie rock. Featuring new music from Indigo De Souza.",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -584,7 +584,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 185276,
       "name": "After The Earthquake",
       "url": "https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL"
@@ -1304,6 +1304,24 @@
     {
       "album": {
         "name": "Baby",
+        "url": "https://open.spotify.com/album/4VkFxoy7lD6uSHNZPPXLow"
+      },
+      "artists": [
+        {
+          "name": "HalfNoise",
+          "url": "https://open.spotify.com/artist/0y0UzT7xPdd9niCbsODXES"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174843,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/2f3nKktmEGhZsQGXhmA5aN"
+    },
+    {
+      "album": {
+        "name": "Baby",
         "url": "https://open.spotify.com/album/1bSMgGLERBaeOJgsgt3ldN"
       },
       "artists": [
@@ -1480,7 +1498,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 172867,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4"
@@ -1869,6 +1887,24 @@
     },
     {
       "album": {
+        "name": "Black Ice",
+        "url": "https://open.spotify.com/album/6QcKLMSP1CvWqO5vfJTX0E"
+      },
+      "artists": [
+        {
+          "name": "Varsity",
+          "url": "https://open.spotify.com/artist/339XMxg3AyRbEfeIAlxB2c"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218933,
+      "name": "Black Ice",
+      "url": "https://open.spotify.com/track/6cduuTXxZ5UFlqnOVCZ5vZ"
+    },
+    {
+      "album": {
         "name": "Black Sheep (Brie Larson Vocal Version)",
         "url": "https://open.spotify.com/album/3blvQlrV0IeDBOWqDz2yYd"
       },
@@ -2032,6 +2068,24 @@
       "duration_ms": 191764,
       "name": "Blue Copper",
       "url": "https://open.spotify.com/track/1W7FKWfoWQa0RMJ4ETdnjB"
+    },
+    {
+      "album": {
+        "name": "Blue Sea",
+        "url": "https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz"
+      },
+      "artists": [
+        {
+          "name": "RICEWINE",
+          "url": "https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195514,
+      "name": "Blue Sea",
+      "url": "https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0"
     },
     {
       "album": {
@@ -2749,6 +2803,24 @@
     },
     {
       "album": {
+        "name": "Call My Own",
+        "url": "https://open.spotify.com/album/20wRw9fnJoQ23gVbnsC0iD"
+      },
+      "artists": [
+        {
+          "name": "Verzache",
+          "url": "https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228874,
+      "name": "Call My Own",
+      "url": "https://open.spotify.com/track/4bQpveBEjy4EzOXzk79Fmn"
+    },
+    {
+      "album": {
         "name": "Call You Right Now",
         "url": "https://open.spotify.com/album/13W6NZY00onLgaDrDYiI56"
       },
@@ -2872,6 +2944,24 @@
       "duration_ms": 254056,
       "name": "cant celebrate",
       "url": "https://open.spotify.com/track/7FASEsOoEfBpUjdkIuz40V"
+    },
+    {
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/6X6fxlY1QU0ZUfeJ5sdzt3"
+      },
+      "artists": [
+        {
+          "name": "Summer Salt",
+          "url": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171373,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/7DCUovUQQadbbid2HGF7ae"
     },
     {
       "album": {
@@ -5001,6 +5091,24 @@
     },
     {
       "album": {
+        "name": "Slacker Poetry",
+        "url": "https://open.spotify.com/album/08xIsmuAlxYO1rEESgJAvJ"
+      },
+      "artists": [
+        {
+          "name": "Austin Weber",
+          "url": "https://open.spotify.com/artist/05bnFEwruBiBgJH8uW4vo6"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226500,
+      "name": "Edith from the Third Floor (Central AC)",
+      "url": "https://open.spotify.com/track/27UkJ04rO64RPgxY9PgRNq"
+    },
+    {
+      "album": {
         "name": "Eggshells",
         "url": "https://open.spotify.com/album/1a7DBuyuqgQA7cGLvkiJVN"
       },
@@ -5462,7 +5570,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 220533,
       "name": "Eyez",
       "url": "https://open.spotify.com/track/4gP55KOAwtv0qGuKq4YjLA"
@@ -5902,7 +6010,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 109714,
       "name": "Fish Maan",
       "url": "https://open.spotify.com/track/6osmPkzt0Ap9LA9lta3rOV"
@@ -6406,7 +6514,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 171000,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/2WSbMaSstjDFlY30mRaRz5"
@@ -7282,7 +7390,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 183852,
       "name": "Horizons",
       "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
@@ -11546,7 +11654,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 162338,
       "name": "Oysters In My Pocket",
       "url": "https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux"
@@ -11824,7 +11932,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 124130,
       "name": "Pharmacist",
       "url": "https://open.spotify.com/track/3r2vyNnqFKr6IraCqLtoBI"
@@ -14873,6 +14981,24 @@
     },
     {
       "album": {
+        "name": "The Clutch",
+        "url": "https://open.spotify.com/album/3Ke3jZ4dYcOaa4jzyWAOtD"
+      },
+      "artists": [
+        {
+          "name": "Palehound",
+          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190091,
+      "name": "The Clutch",
+      "url": "https://open.spotify.com/track/5Xm5b2ORltrEHCgiqptGPb"
+    },
+    {
+      "album": {
         "name": "PAINLESS",
         "url": "https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7"
       },
@@ -15072,6 +15198,24 @@
       "duration_ms": 214240,
       "name": "The Sulking Poet",
       "url": "https://open.spotify.com/track/3ZCVtNy6NDzG0SUx5VBkvH"
+    },
+    {
+      "album": {
+        "name": "All of This Will End",
+        "url": "https://open.spotify.com/album/15eosxhQvPKQ1g0tfrnAt2"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203116,
+      "name": "The Water",
+      "url": "https://open.spotify.com/track/0N0qxAHq26ZK91AcUXyq9C"
     },
     {
       "album": {
@@ -16054,6 +16198,24 @@
       "duration_ms": 138209,
       "name": "UR SO FULL OF IT (ILY NYC) - Spotify Singles",
       "url": "https://open.spotify.com/track/2UhF4UzGzUeVEvyd8Hq7in"
+    },
+    {
+      "album": {
+        "name": "Used To It",
+        "url": "https://open.spotify.com/album/1wKmS7A41gfVYHnFUnD2HR"
+      },
+      "artists": [
+        {
+          "name": "Ethan P. Flynn",
+          "url": "https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182002,
+      "name": "Used To It",
+      "url": "https://open.spotify.com/track/7EeCwTGR2ct1WTo0OvkWag"
     },
     {
       "album": {
@@ -17110,7 +17272,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 223542,
       "name": "worth it",
       "url": "https://open.spotify.com/track/0j7cIOFS3nNTZyzkAuS2Rm"

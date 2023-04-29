@@ -1,13 +1,33 @@
 {
   "description": "Grooves so crispy you can snack on them. Cover: Donny Ben\u00e9t",
-  "num_followers": 16108,
+  "num_followers": 16148,
   "original_name": "Crisp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTkyNDJmMTNlYWE4NDhiMjZjN2I2OTdlYjA0OTAwNDk4NDNjMjNh",
+  "snapshot_id": "MCxlYjFjNDg1NmJiYmE2ZDMzM2NhZWZiMTJmNTYzMjlhZWEwNGY0Mzkx",
   "tracks": [
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Replacements (feat. La Roux)",
+        "url": "https://open.spotify.com/album/677Ket8qKGVOMtXgE4Gpfk"
+      },
+      "artists": [
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        },
+        {
+          "name": "La Roux",
+          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
+        }
+      ],
+      "duration_ms": 229960,
+      "name": "Replacements (feat. La Roux)",
+      "url": "https://open.spotify.com/track/067mO4njSpF7qUEE96lbpH"
+    },
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {

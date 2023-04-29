@@ -1,12 +1,12 @@
 {
   "description": "Dark, hard hitting pop. Cover: Madelline",
-  "num_followers": 350431,
+  "num_followers": 350803,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzA5MTgyN2YxZDZmOGIwYWVhYTExMjRkYzYwNjIwNzg4MGQ2NGJm",
+  "snapshot_id": "MCw0NzM2ZDc2ZDQ1ZWFlZDUwMTIxOWI0MTA3OGUwY2Y2NmEwNzdiYmI2",
   "tracks": [
     {
       "added_at": "2023-04-21 04:00:00",
@@ -25,20 +25,36 @@
       "url": "https://open.spotify.com/track/3EwCOs6Dh5tlsbIpvMjH4I"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-04-28 04:04:49",
       "album": {
-        "name": "Watch Me",
-        "url": "https://open.spotify.com/album/5qcM2sHUlFeaZh6bvNEw7B"
+        "name": "k",
+        "url": "https://open.spotify.com/album/2IoAmQn8rBf4YNpGyJarxM"
       },
       "artists": [
         {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+          "name": "KINGS",
+          "url": "https://open.spotify.com/artist/6YQuBpbzdPGNFnyADC9QC3"
         }
       ],
-      "duration_ms": 137647,
-      "name": "Watch Me",
-      "url": "https://open.spotify.com/track/6319BpXP42QAaXeELaPLmU"
+      "duration_ms": 166873,
+      "name": "k",
+      "url": "https://open.spotify.com/track/5WtdLOSLk1tuAifMaqQjX7"
+    },
+    {
+      "added_at": "2023-04-28 04:04:49",
+      "album": {
+        "name": "UPSAHL PRESENTS: THE PHX TAPES V1",
+        "url": "https://open.spotify.com/album/7hF7nGQXoQhkWjz7y1uTPk"
+      },
+      "artists": [
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "duration_ms": 139844,
+      "name": "GOOD GIRL ERA (SIDE A)",
+      "url": "https://open.spotify.com/track/5whdFux566Ve7KTpR0Hk73"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -65,20 +81,20 @@
       "url": "https://open.spotify.com/track/5Ldhogrc9RWAjXUQ3tXuUD"
     },
     {
-      "added_at": "2023-04-11 21:36:31",
+      "added_at": "2023-04-28 04:04:49",
       "album": {
-        "name": "Hooked",
-        "url": "https://open.spotify.com/album/6fvvgoTSS7hVS1X6nyWBwl"
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/09Pmkia3NOqY9TOhTgS2Un"
       },
       "artists": [
         {
-          "name": "Sam Short",
-          "url": "https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz"
+          "name": "Leah Kate",
+          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
         }
       ],
-      "duration_ms": 148394,
-      "name": "Hooked",
-      "url": "https://open.spotify.com/track/4f0pJ7NNHAsrWbQBwiHMRJ"
+      "duration_ms": 164466,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/6DXI5kHhGs2yrWFPFsecm1"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -95,6 +111,134 @@
       "duration_ms": 225800,
       "name": "DEBBIE DOWNER",
       "url": "https://open.spotify.com/track/3AD4e2BU7UqmESFDIrQa72"
+    },
+    {
+      "added_at": "2023-04-28 04:04:49",
+      "album": {
+        "name": "boyfriend",
+        "url": "https://open.spotify.com/album/32IYSWV4RkXN5bqWPS486t"
+      },
+      "artists": [
+        {
+          "name": "lleo",
+          "url": "https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4"
+        }
+      ],
+      "duration_ms": 168548,
+      "name": "boyfriend",
+      "url": "https://open.spotify.com/track/7I5Nx5XlEAolrnQEnDcblx"
+    },
+    {
+      "added_at": "2023-04-28 04:04:49",
+      "album": {
+        "name": "sickly sweet",
+        "url": "https://open.spotify.com/album/5BlMzd8siEvlbtsCV5rGJD"
+      },
+      "artists": [
+        {
+          "name": "kenzie",
+          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
+        }
+      ],
+      "duration_ms": 134117,
+      "name": "sickly sweet",
+      "url": "https://open.spotify.com/track/5VmWAuIo8jMKef4DcPy6S5"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/5qcM2sHUlFeaZh6bvNEw7B"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 137647,
+      "name": "Watch Me",
+      "url": "https://open.spotify.com/track/6319BpXP42QAaXeELaPLmU"
+    },
+    {
+      "added_at": "2023-04-28 04:04:49",
+      "album": {
+        "name": "Little Girl Gone",
+        "url": "https://open.spotify.com/album/1vTHLsE6MttzdRfg2ZkU4I"
+      },
+      "artists": [
+        {
+          "name": "CHINCHILLA",
+          "url": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
+        }
+      ],
+      "duration_ms": 188596,
+      "name": "Little Girl Gone",
+      "url": "https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp"
+    },
+    {
+      "added_at": "2023-04-11 21:36:31",
+      "album": {
+        "name": "Hooked",
+        "url": "https://open.spotify.com/album/6fvvgoTSS7hVS1X6nyWBwl"
+      },
+      "artists": [
+        {
+          "name": "Sam Short",
+          "url": "https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz"
+        }
+      ],
+      "duration_ms": 148394,
+      "name": "Hooked",
+      "url": "https://open.spotify.com/track/4f0pJ7NNHAsrWbQBwiHMRJ"
+    },
+    {
+      "added_at": "2023-04-28 04:04:49",
+      "album": {
+        "name": "WHEN THE PARTY'S OVER",
+        "url": "https://open.spotify.com/album/0tG7VIxGjt3aDZW2tUGVUz"
+      },
+      "artists": [
+        {
+          "name": "Cami Petyn",
+          "url": "https://open.spotify.com/artist/6JqGJJoqtihzki7F0bbc39"
+        }
+      ],
+      "duration_ms": 191554,
+      "name": "WHEN THE PARTY'S OVER",
+      "url": "https://open.spotify.com/track/0ycbYEcMjQ40iYsVnNiYJh"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Father, Son, Holy Ghost",
+        "url": "https://open.spotify.com/album/1yYflK4Y3nuKYeA7LyPyhF"
+      },
+      "artists": [
+        {
+          "name": "BAYBE",
+          "url": "https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS"
+        }
+      ],
+      "duration_ms": 153384,
+      "name": "Father, Son, Holy Ghost",
+      "url": "https://open.spotify.com/track/0aJb0z0Izv8Hjr3Oh4nC4Y"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "labour",
+        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 237744,
+      "name": "labour",
+      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -129,22 +273,6 @@
       "url": "https://open.spotify.com/track/2BMhTcquomJgCq3MfNkY1P"
     },
     {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "labour",
-        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 237744,
-      "name": "labour",
-      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "BADDER",
@@ -161,20 +289,20 @@
       "url": "https://open.spotify.com/track/5hvxB7vZ8p6YDLlt7iC7o8"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Father, Son, Holy Ghost",
-        "url": "https://open.spotify.com/album/1yYflK4Y3nuKYeA7LyPyhF"
+        "name": "SAD B!TCH",
+        "url": "https://open.spotify.com/album/1YKrir8bqPzZKr6RyL2GTZ"
       },
       "artists": [
         {
-          "name": "BAYBE",
-          "url": "https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS"
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
         }
       ],
-      "duration_ms": 153384,
-      "name": "Father, Son, Holy Ghost",
-      "url": "https://open.spotify.com/track/0aJb0z0Izv8Hjr3Oh4nC4Y"
+      "duration_ms": 132794,
+      "name": "SAD B!TCH",
+      "url": "https://open.spotify.com/track/4nfyxpiejEPrUHLnejED7i"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -207,6 +335,22 @@
       "duration_ms": 132793,
       "name": "Dolls",
       "url": "https://open.spotify.com/track/5lXddHmtOgU4ZXZno3nypA"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "Nosebleed",
+        "url": "https://open.spotify.com/album/47SX20nouYkuWaMtczHvE7"
+      },
+      "artists": [
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Nosebleed",
+      "url": "https://open.spotify.com/track/1ElDn0WlZ4ELXHksk0Z8mu"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -319,22 +463,6 @@
       "duration_ms": 144923,
       "name": "RUDE",
       "url": "https://open.spotify.com/track/2PXHdc5d8Uuckc2e9hhBEV"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "Nosebleed",
-        "url": "https://open.spotify.com/album/47SX20nouYkuWaMtczHvE7"
-      },
-      "artists": [
-        {
-          "name": "Sophie Powers",
-          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Nosebleed",
-      "url": "https://open.spotify.com/track/1ElDn0WlZ4ELXHksk0Z8mu"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -551,22 +679,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "SAD B!TCH",
-        "url": "https://open.spotify.com/album/1YKrir8bqPzZKr6RyL2GTZ"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 132794,
-      "name": "SAD B!TCH",
-      "url": "https://open.spotify.com/track/4nfyxpiejEPrUHLnejED7i"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Bored",
         "url": "https://open.spotify.com/album/0cgafe2qKB3lu4F8JDhWIS"
       },
@@ -711,22 +823,6 @@
       "duration_ms": 164566,
       "name": "Did It Hurt?",
       "url": "https://open.spotify.com/track/2hTeOCShIAHRpNCV6sHGOW"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "What You Need",
-        "url": "https://open.spotify.com/album/2YWW63Kn9RPJehvYaXEUJV"
-      },
-      "artists": [
-        {
-          "name": "Ashley Sienna",
-          "url": "https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi"
-        }
-      ],
-      "duration_ms": 196470,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/0IvlCZFHDCgeHqZJHO7ghW"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1107,22 +1203,6 @@
       "duration_ms": 145788,
       "name": "martyr",
       "url": "https://open.spotify.com/track/4BaYa88YtE0WBDVKfTeUTP"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "MONSTERS IN MY MIND",
-        "url": "https://open.spotify.com/album/1q1jARykCzN5uVVHRtKxbZ"
-      },
-      "artists": [
-        {
-          "name": "marg\u00f8",
-          "url": "https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "MONSTERS IN MY MIND",
-      "url": "https://open.spotify.com/track/1OFpHG8xgfp7NnmJRjpNsK"
     },
     {
       "added_at": "2023-03-10 05:00:00",

@@ -883,6 +883,32 @@
     },
     {
       "album": {
+        "name": "Hora de Adorar",
+        "url": "https://open.spotify.com/album/6sO9RyVqEKxYhryRHagDL9"
+      },
+      "artists": [
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "DJ Albery",
+          "url": "https://open.spotify.com/artist/7llQ9fy7iFlGZPCcFncgQV"
+        },
+        {
+          "name": "Jessi Dias",
+          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190384,
+      "name": "Hora de Louvar",
+      "url": "https://open.spotify.com/track/6Klwfr1Bq30suJCpGD0WBt"
+    },
+    {
+      "album": {
         "name": "Impar\u00e1vel",
         "url": "https://open.spotify.com/album/7sYy4zBX7EUhGNbn9AfxF4"
       },
@@ -1198,7 +1224,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 161485,
       "name": "Meu Lugar",
       "url": "https://open.spotify.com/track/3rBml8mLLTLkf8avEPl9O8"

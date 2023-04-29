@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-428 songs - 19 hr 10 min
+430 songs - 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Blink Of An Eye](https://open.spotify.com/track/7bwF8qvBd0DAquB1DVNSfV) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Blink Of An Eye](https://open.spotify.com/album/3k5r1aVVzWQVjufWyUMhYn) | 2:28 | 2021-11-10 | 2022-07-08 |
 | [Blip\-A\-Thon](https://open.spotify.com/track/40RUbTmKa8OCmtXai1KN2l) | [Jakkalz](https://open.spotify.com/artist/1WoIRFMlTR84QzDZE8kZaG) | [Blip\-A\-Thon](https://open.spotify.com/album/44OHKDhuwWKyvzeQfS9t0f) | 1:41 | 2022-05-27 |  |
 | [Bloomin'](https://open.spotify.com/track/4V84CYLnNvkP3YzhL5cpLx) | [Austeria](https://open.spotify.com/artist/6nImttseHjHeRnSY68rFBj) | [Bloomin'](https://open.spotify.com/album/6lgNSOo9OivZS0jLaWeXwB) | 2:16 | 2022-01-21 |  |
+| [Blue Flame](https://open.spotify.com/track/7lqiHYSx2uqlKKeHCa4zRP) | [T.O.M](https://open.spotify.com/artist/68rwVO9em9O2JzESsN2whJ) | [Blue Flame](https://open.spotify.com/album/71y8evCIrRvKHW2TpiQQrv) | 2:12 | 2023-04-28 |  |
 | [Blue Skies](https://open.spotify.com/track/5fwI0Nxl5PFk1EFdpl1Pp5) | [Maurea](https://open.spotify.com/artist/6GqXPQOxk9y94VmCzjZMEj) | [Blue Skies](https://open.spotify.com/album/6QlN0zhSD9Ni0urapqE805) | 2:38 | 2022-12-09 |  |
 | [Brainbreeze](https://open.spotify.com/track/5bl0PsxNJRP8zsMyTvvKMJ) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Ambrosial](https://open.spotify.com/album/3K4kc2ITYarXk6nCXHJja9) | 3:17 | 2021-11-10 | 2023-01-21 |
 | [Brainwaves](https://open.spotify.com/track/1upsUbZSRONTmWYq8iXTvR) | [Demurely](https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j) | [Brainwaves](https://open.spotify.com/album/337H8IQR3KiJLmdFTaX8T4) | 2:31 | 2023-02-24 |  |
@@ -118,6 +119,7 @@
 | [Estuary](https://open.spotify.com/track/0uvXmStLwVQFAnhP6YD9TR) | [Post Op](https://open.spotify.com/artist/2QLZFqNC0yRXuhZi3VvOqS) | [Estuary](https://open.spotify.com/album/4RHtv2ncUKuH3TVzbLFtB8) | 3:13 | 2021-11-10 | 2022-09-09 |
 | [Etoile](https://open.spotify.com/track/3NhKzgs0nq8YNsxFcydt3m) | [Boyakaza](https://open.spotify.com/artist/7CwH4lMBbUZGz10FTJodF5) | [Etoile](https://open.spotify.com/album/3MQsERyDqkYLQztXDBofaV) | 2:29 | 2021-11-10 |  |
 | [evening cafe](https://open.spotify.com/track/7G37dmyKJB2ElUyPzPS4ss) | [cingie](https://open.spotify.com/artist/3LRWwnmhuhlhZilHht5dYw) | [evening cafe](https://open.spotify.com/album/5ZEtTCbokCZxMwptMrNBQR) | 2:03 | 2022-07-01 |  |
+| [Everything Fun In The Way You Dance](https://open.spotify.com/track/5KJe3Lh1UYFfZqrns2mN8w) | [Madbank](https://open.spotify.com/artist/0PWa4U2yMdW9jOhrKv6SzI), [Smokestack](https://open.spotify.com/artist/4fCYV8QWYzc8BDm1M2lhrz) | [Soul Endeavors](https://open.spotify.com/album/1uHUfHUvN8aN5S43XeBZVu) | 3:03 | 2023-04-28 |  |
 | [Extramundane](https://open.spotify.com/track/0qNjkWic8JEiXurIgxi89s) | [Aliassime](https://open.spotify.com/artist/65WqXbSddn4P1GiACs8GT5) | [Extramundane](https://open.spotify.com/album/7iw6EuNKOKSBonMQ4iqE2c) | 2:32 | 2021-11-10 | 2022-05-11 |
 | [Fallen Angel](https://open.spotify.com/track/2HPpdNLzGv3sal6DYLRq5d) | [Wolfgang Laux](https://open.spotify.com/artist/1B7wnKyiBhdKUDAWQB5tHu) | [Fallen Angel](https://open.spotify.com/album/0RdQWXdOdLmWAKtnVgb0lJ) | 2:55 | 2021-11-10 |  |
 | [Falling Again](https://open.spotify.com/track/7rBWL83LuXHYCv5ZenKTVU) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [Close Call](https://open.spotify.com/album/7Id0c14GxNXDkz38Io070t) | 3:05 | 2021-11-10 | 2022-05-20 |

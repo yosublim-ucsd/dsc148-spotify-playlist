@@ -713,6 +713,24 @@
     },
     {
       "album": {
+        "name": "Ubuntu",
+        "url": "https://open.spotify.com/album/4LXDvWeh10zukOZS0Dl8Bz"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Butler",
+          "url": "https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319280,
+      "name": "Bon App\u00e9tit",
+      "url": "https://open.spotify.com/track/2JrwkF8KdIaKclovniPunt"
+    },
+    {
+      "album": {
         "name": "Crossroads",
         "url": "https://open.spotify.com/album/5bI7Vhpz1VVa9kGCaZVxcH"
       },
@@ -1300,7 +1318,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 250813,
       "name": "Deep Into You",
       "url": "https://open.spotify.com/track/1K0U3DzDQ3bohci5WRgmkd"
@@ -1626,6 +1644,24 @@
       "duration_ms": 200000,
       "name": "Early Sunrise",
       "url": "https://open.spotify.com/track/4ZNXj5RoCXuczRCth4t0DT"
+    },
+    {
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/7GKX3h5NvbhW93BSoj8rw3"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245717,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/2QMncvsysL74Zs8EHYWaCz"
     },
     {
       "album": {
@@ -2286,6 +2322,24 @@
       "duration_ms": 251432,
       "name": "Good On You",
       "url": "https://open.spotify.com/track/7cpU9JiLhdxF75HXFBcNh6"
+    },
+    {
+      "album": {
+        "name": "Groove Factor",
+        "url": "https://open.spotify.com/album/2Hluf4SuDadLbjEcPH9u9N"
+      },
+      "artists": [
+        {
+          "name": "Skinny Hightower",
+          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314506,
+      "name": "Groove Factor",
+      "url": "https://open.spotify.com/track/7yhNFPUSYSygjoKIt2epLT"
     },
     {
       "album": {
@@ -3402,7 +3456,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 283760,
       "name": "Look Both Ways",
       "url": "https://open.spotify.com/track/1v1SJOhvTYwMbamGubPw34"
@@ -3456,7 +3510,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 240280,
       "name": "Make Up Your Mind - Radio Edit",
       "url": "https://open.spotify.com/track/0RGZmBcov71tCy54JdHwcu"
@@ -3882,7 +3936,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 187818,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/6bGPsVqyQyTs1QPus8AFAP"
@@ -4783,6 +4837,24 @@
     },
     {
       "album": {
+        "name": "Skyway",
+        "url": "https://open.spotify.com/album/5rlf26FLZWrcLBZWzxT6Z6"
+      },
+      "artists": [
+        {
+          "name": "Steve Oliver",
+          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221677,
+      "name": "Skyway",
+      "url": "https://open.spotify.com/track/1FGGYZhdSmyCNuu4jFPljf"
+    },
+    {
+      "album": {
         "name": "Slick",
         "url": "https://open.spotify.com/album/3keeHfxRE4zD6YahhiyEY8"
       },
@@ -5559,6 +5631,24 @@
     },
     {
       "album": {
+        "name": "Taboo",
+        "url": "https://open.spotify.com/album/5CU4FiM0dodXZWKSW8vfdd"
+      },
+      "artists": [
+        {
+          "name": "Damien Escobar",
+          "url": "https://open.spotify.com/artist/2GkMspzmKKkaeX62pwJZhG"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202693,
+      "name": "Taboo",
+      "url": "https://open.spotify.com/track/2RB3BwwCXlFEKO06jUL0Dr"
+    },
+    {
+      "album": {
         "name": "A Little Driving Music",
         "url": "https://open.spotify.com/album/04ZsYsWBmmOm5yAu5KR434"
       },
@@ -5774,7 +5864,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 251076,
       "name": "Think Critically",
       "url": "https://open.spotify.com/track/7td9QhTIGCmNMP1UCNIWdp"
@@ -6094,7 +6184,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 249720,
       "name": "Way Maker",
       "url": "https://open.spotify.com/track/5mwRmYIiy0rISoe74f1Hol"
@@ -6192,6 +6282,28 @@
       "duration_ms": 297750,
       "name": "What You Do To Me",
       "url": "https://open.spotify.com/track/6KvdalfItAMjqd8KeQMcdl"
+    },
+    {
+      "album": {
+        "name": "Here's the Thing",
+        "url": "https://open.spotify.com/album/3vT5YoaOxXO6rY7YPmHxv2"
+      },
+      "artists": [
+        {
+          "name": "The Smooth Jazz Alley",
+          "url": "https://open.spotify.com/artist/3rpiTLuutXBtuveSbsmpkJ"
+        },
+        {
+          "name": "Nathan East",
+          "url": "https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338866,
+      "name": "Whatever You Like",
+      "url": "https://open.spotify.com/track/1U05WLPnnMpGFS99PAyj0n"
     },
     {
       "album": {

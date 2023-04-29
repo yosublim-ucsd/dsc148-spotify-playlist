@@ -4,11 +4,12 @@
 
 > Fire up the grill and enjoy this playlist with the whole family.
 
-66 songs - 3 hr 19 min
+67 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Are You Ready for the Summer?](https://open.spotify.com/track/2A86c1BHXoAt1JJKEvihKt) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Camp Lisa](https://open.spotify.com/album/4ifCn1MLPTtbVYbbEGWOeS) | 1:21 | 2021-05-25 |  |
+| [Are You Ready for the Summer?](https://open.spotify.com/track/2A86c1BHXoAt1JJKEvihKt) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Camp Lisa](https://open.spotify.com/album/4ifCn1MLPTtbVYbbEGWOeS) | 1:21 | 2021-05-25 | 2023-04-29 |
+| [Are You Ready for the Summer?](https://open.spotify.com/track/5TPTF6jjfJERlFj8TbLOvX) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Camp Lisa](https://open.spotify.com/album/5vwzr0ct9GkSIDz1B7LlUR) | 1:21 | 2021-05-25 |  |
 | [Backyard Swimsuit](https://open.spotify.com/track/2b7pVukPLhe7PkzapD4sMy) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb), [Sims](https://open.spotify.com/artist/3REPW9qXSD6VjeAHr0OENv) | [Backyard Swimsuit](https://open.spotify.com/album/21W8fov6jwV3Y8TCFo2SNz) | 3:04 | 2021-05-25 |  |
 | [Best Day Ever](https://open.spotify.com/track/1JGUj6Cjj3pJHle2QSixMf) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Best Day Ever](https://open.spotify.com/album/7DdIJ7bu3xrpsUT2JKy8C5) | 2:30 | 2021-05-25 |  |
 | [Best Day Of My Life](https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Oh, What A Life](https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv) | 3:14 | 2021-05-25 |  |

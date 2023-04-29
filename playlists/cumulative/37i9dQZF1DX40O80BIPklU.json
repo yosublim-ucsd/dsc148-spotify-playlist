@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Nuestro hip-hop se escribe con \u00d1, aqu\u00ed los que dominan el\u00a0juego de las rimas. SFDK en portada.",
+  "description": "Nuestro hip-hop se escribe con \u00d1, aqu\u00ed los que dominan el\u00a0juego de las rimas. Vico C en portada. ",
   "name": "Rap en Espa\u00f1ol",
   "tracks": [
     {
@@ -1171,6 +1171,28 @@
     },
     {
       "album": {
+        "name": "Especies",
+        "url": "https://open.spotify.com/album/38MDL6mhsLPxRBd4nGN1Gk"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "name": "Trafikante de Almas",
+          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218863,
+      "name": "Especies",
+      "url": "https://open.spotify.com/track/0wfvhjv5cqqSuwJD84WYZ8"
+    },
+    {
+      "album": {
         "name": "Estetograma",
         "url": "https://open.spotify.com/album/5g2NbpwACR5K3maWs2uaJu"
       },
@@ -1668,6 +1690,28 @@
       "duration_ms": 208250,
       "name": "La Pistola",
       "url": "https://open.spotify.com/track/7xZKsJJriFzemuLslrkXx5"
+    },
+    {
+      "album": {
+        "name": "La Profec\u00eda (The Eagle & The Condor)",
+        "url": "https://open.spotify.com/album/23oTd0d19ex5sQWEEt3xma"
+      },
+      "artists": [
+        {
+          "name": "BIGG B",
+          "url": "https://open.spotify.com/artist/3qFYbL5KyojWPNOp7jPNqK"
+        },
+        {
+          "name": "Eduardo Rico",
+          "url": "https://open.spotify.com/artist/5nhTZIp9cOhQ1ArBJZwEPz"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201102,
+      "name": "La Profec\u00eda (The Eagle & The Condor)",
+      "url": "https://open.spotify.com/track/4gJD13mp8IhO7PtTkbmaaX"
     },
     {
       "album": {
@@ -2228,6 +2272,24 @@
       "duration_ms": 196243,
       "name": "Mitolo G's",
       "url": "https://open.spotify.com/track/1TSK9oQ4O9eltqaYDRaVJM"
+    },
+    {
+      "album": {
+        "name": "Monumental",
+        "url": "https://open.spotify.com/album/1fkoPsQUgGHOqwNamgSzNL"
+      },
+      "artists": [
+        {
+          "name": "Crack Family",
+          "url": "https://open.spotify.com/artist/7zXRgSpjJkQmB9SnPLq1Qk"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214615,
+      "name": "Monumental",
+      "url": "https://open.spotify.com/track/4f4YujJOnlV5XOt0oorZz6"
     },
     {
       "album": {

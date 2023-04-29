@@ -1241,6 +1241,32 @@
     },
     {
       "album": {
+        "name": "Kon Disa Mein (Trending) - Single",
+        "url": "https://open.spotify.com/album/1Jw1KEO549hAEMyX0jPnlN"
+      },
+      "artists": [
+        {
+          "name": "Varsha Singh Dhanoa",
+          "url": "https://open.spotify.com/artist/2cnUcVqQnQyVJnQLoNNZI5"
+        },
+        {
+          "name": "Guru Dhanoa",
+          "url": "https://open.spotify.com/artist/3ydmgo5zUaJBNi3jFF2Tci"
+        },
+        {
+          "name": "Maddy Sharma",
+          "url": "https://open.spotify.com/artist/2xA2yHPINunPF0MvZq2sIQ"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209814,
+      "name": "Kon Disa Mein (Trending)",
+      "url": "https://open.spotify.com/track/2nuZrzGzd1wxPTDmK2r5Wz"
+    },
+    {
+      "album": {
         "name": "Kudi Nu Nachne De (From \"Angrezi Medium\")",
         "url": "https://open.spotify.com/album/6KAlqL1GjrVMBTMWkiPlH5"
       },
@@ -2050,7 +2076,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 157659,
       "name": "Saara Jahaan",
       "url": "https://open.spotify.com/track/6PCFM6hZ5CZb6MZhNXvX92"

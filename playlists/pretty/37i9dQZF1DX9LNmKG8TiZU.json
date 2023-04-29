@@ -1,12 +1,12 @@
 {
   "description": "Des nouveaut\u00e9s pop, tout en douceur.",
-  "num_followers": 107598,
+  "num_followers": 107622,
   "original_name": "Douceur Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzE3OTYxZTc1ZTBhNGVjOGQxY2Q2Mzg4ODI3MTM1NDdjM2ZmY2M1",
+  "snapshot_id": "MCxjZTc2YTk3M2UxODJlNjg2YTU3NmQ2ZGQ3MzYwMTE0NmQ4YzlkZGNi",
   "tracks": [
     {
       "added_at": "2023-04-27 22:01:00",
@@ -491,7 +491,7 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "Birthday Cake",
+        "name": "birthday cake",
         "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
       },
       "artists": [
@@ -501,7 +501,7 @@
         }
       ],
       "duration_ms": 205280,
-      "name": "Birthday Cake",
+      "name": "birthday cake",
       "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
     },
     {

@@ -4699,6 +4699,24 @@
     },
     {
       "album": {
+        "name": "just friends",
+        "url": "https://open.spotify.com/album/5T6znI9GDd2LiMkTq2oK6z"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179320,
+      "name": "just friends",
+      "url": "https://open.spotify.com/track/0lyQfWU4187x4YKopYsxua"
+    },
+    {
+      "album": {
         "name": "Just Like That",
         "url": "https://open.spotify.com/album/3xml1yNnc0XUO1oOnOSoDU"
       },
@@ -5789,6 +5807,28 @@
     },
     {
       "album": {
+        "name": "moving on / sugarhoneyiceicetea",
+        "url": "https://open.spotify.com/album/6bKEgno07WC8rhuhSwMb8n"
+      },
+      "artists": [
+        {
+          "name": "SEB",
+          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
+        },
+        {
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179080,
+      "name": "moving on (feat. Khary)",
+      "url": "https://open.spotify.com/track/3YNUrsQihHuKSE1xQs6MdG"
+    },
+    {
+      "album": {
         "name": "age tape 8",
         "url": "https://open.spotify.com/album/5cYaUdDHrHhOIsTlHU9Tbk"
       },
@@ -6182,6 +6222,24 @@
       "duration_ms": 143620,
       "name": "NOTHING IS REAL",
       "url": "https://open.spotify.com/track/6bzQq9ucC73NrFeycJGkkQ"
+    },
+    {
+      "album": {
+        "name": "Nothing Last Forever",
+        "url": "https://open.spotify.com/album/1KBW5j3M9VEKbfgUCMvV0C"
+      },
+      "artists": [
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178745,
+      "name": "Nothing Last Forever",
+      "url": "https://open.spotify.com/track/6qMt0E05ZeHbinh3SlJkTX"
     },
     {
       "album": {

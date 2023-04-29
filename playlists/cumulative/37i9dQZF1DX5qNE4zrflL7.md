@@ -4,7 +4,7 @@
 
 > The songs that influenced everything that has happened since\. Cover: Jimi Hendrix
 
-149 songs - 8 hr 2 min
+151 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [I'm A Man](https://open.spotify.com/track/5zWehIgPMCGysidrvbltlU) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [I'm A Man / I Can't Get Enough Of It](https://open.spotify.com/album/4ILV3dYfHY0dfvLxYORAFb) | 2:56 | 2021-10-06 | 2022-07-29 |
 | [I'm A Man \- Remastered 2010](https://open.spotify.com/track/4c1OV8KQINR16nYgl3lFbG) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [Punk Music](https://open.spotify.com/album/3Pca1TfQuqUzUIhN0JjD0A) | 2:56 | 2021-10-06 | 2022-11-13 |
 | [I'm Five Years Ahead of My Time](https://open.spotify.com/track/1pS5b7vdEMS4fP1KLfgH1B) | [The Third Bardo](https://open.spotify.com/artist/6SdO3dLXggmHcby5EkO06o) | [I'm Five Years Ahead Of My Time](https://open.spotify.com/album/3hNScATzwVp4uxCq9xOiDN) | 2:14 | 2021-10-06 | 2022-07-29 |
-| [I'm Five Years Ahead of My Time](https://open.spotify.com/track/15g66KeELSbN00rFTweCj8) | [The Third Bardo](https://open.spotify.com/artist/6SdO3dLXggmHcby5EkO06o) | [I'm Five Years Ahead of My Time](https://open.spotify.com/album/4m178B3EPDzMyOrrJvFS7u) | 2:16 | 2021-10-06 |  |
+| [I'm Five Years Ahead of My Time](https://open.spotify.com/track/15g66KeELSbN00rFTweCj8) | [The Third Bardo](https://open.spotify.com/artist/6SdO3dLXggmHcby5EkO06o) | [I'm Five Years Ahead of My Time](https://open.spotify.com/album/4m178B3EPDzMyOrrJvFS7u) | 2:16 | 2021-10-06 | 2023-04-29 |
+| [I'm Five Years Ahead of My Time](https://open.spotify.com/track/7tdPaJEmAVKrqMQh1YtlP3) | [The Third Bardo](https://open.spotify.com/artist/6SdO3dLXggmHcby5EkO06o) | [I'm Five Years Ahead of My Time](https://open.spotify.com/album/5KPFfApr6yPp50whO9kYV9) | 2:16 | 2021-10-06 |  |
 | [I'm Waiting For The Man](https://open.spotify.com/track/6F2Uc3jCFb7ABEvHup4u9K) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [Punk Music](https://open.spotify.com/album/3Pca1TfQuqUzUIhN0JjD0A) | 4:37 | 2021-10-06 | 2022-11-14 |
 | [I'm Waiting For The Man](https://open.spotify.com/track/3fElupNRLRJ0tbUDahPrAb) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 4:39 | 2021-10-06 |  |
 | [I'm Waiting For The Man \- Album Version \(Stereo\)](https://open.spotify.com/track/0zggnUZPh8kg69Jm7w7zZs) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary \(Deluxe Edition\)](https://open.spotify.com/album/3o7MFtKiZazZfZnW7dqwHA) | 4:39 | 2021-10-06 | 2022-07-29 |
@@ -135,7 +136,8 @@
 | [Sunshine Of Your Love](https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears \(Deluxe Edition\)](https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4) | 4:10 | 2021-10-06 |  |
 | [Surfin' Bird](https://open.spotify.com/track/5KNczSQTZWBeinc8llD3hI) | [The Malibus](https://open.spotify.com/artist/4Og6zB4xs2S2kz5sDoyn7T) | [Surfin' Bird](https://open.spotify.com/album/461AocUIsr2cfg8aoymfbh) | 2:23 | 2021-10-06 | 2022-11-13 |
 | [Surfin' Bird](https://open.spotify.com/track/58iN7HVZWCEfKhHmjYspcI) | [The Trashmen](https://open.spotify.com/artist/5QEA3sofVt5QckQA6QX2nN) | [Surfin' Bird Bird Dance Beat](https://open.spotify.com/album/6T2ZwfmmQ0EFvFMz2biYpj) | 2:14 | 2021-10-06 | 2022-07-29 |
-| [Surfin' Bird](https://open.spotify.com/track/2Mik4RyMTMGXscX9QGiDoX) | [The Trashmen](https://open.spotify.com/artist/5QEA3sofVt5QckQA6QX2nN) | [Surfin' Bird](https://open.spotify.com/album/0Jd1JEB052GzXxma58o1nX) | 2:23 | 2021-10-06 |  |
+| [Surfin' Bird](https://open.spotify.com/track/2Mik4RyMTMGXscX9QGiDoX) | [The Trashmen](https://open.spotify.com/artist/5QEA3sofVt5QckQA6QX2nN) | [Surfin' Bird](https://open.spotify.com/album/0Jd1JEB052GzXxma58o1nX) | 2:23 | 2021-10-06 | 2023-04-29 |
+| [Surfin' Bird](https://open.spotify.com/track/091roQPTeXtncbG9qXvvXK) | [The Trashmen](https://open.spotify.com/artist/5QEA3sofVt5QckQA6QX2nN) | [Surfin' Bird](https://open.spotify.com/album/3iV70bItwMPFyhfFFMRMtp) | 2:24 | 2021-10-06 |  |
 | [Telstar](https://open.spotify.com/track/2rtaHm5SkgFzVa5Gr8oTW6) | [The Tornados](https://open.spotify.com/artist/3SblTU11ZKURsHhWGwPpt9) | [Telstar](https://open.spotify.com/album/75gluO7f8LULnkoHouCwqe) | 3:15 | 2021-10-06 |  |
 | [Terry](https://open.spotify.com/track/2RGoQSyesiUe15WN5ybjKw) | [Twinkle](https://open.spotify.com/artist/3crDJ76ifWM4gBITlJjEsW) | [Golden Lights](https://open.spotify.com/album/4g4r84cgJiFNLevs491U0W) | 3:11 | 2021-10-06 |  |
 | [The Hedgehog's Song \- 2010 Remaster](https://open.spotify.com/track/7IyDLBtIXS2EKZEt8trS03) | [The Incredible String Band](https://open.spotify.com/artist/0tQzBYPjAardhWpGkqVdNW) | [The 5000 Spirits Or The Layers Of The Onion](https://open.spotify.com/album/3htu0UsV5JuouSfugMHNgS) | 3:27 | 2021-10-06 |  |

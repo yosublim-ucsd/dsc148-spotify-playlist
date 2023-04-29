@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea80XwOJRgD.md) - [plain]
 
 > Some heart and soul for those up late.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,480 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,485 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea80XwOJRgD.md) - [plain]
 | 23 | [Is This Love](https://open.spotify.com/track/5FvapYqWK6TEuh4csYwQ9O) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [The Love E.P.](https://open.spotify.com/album/4EeUxjtOwbspRduBfwJYHs) | 3:28 |
 | 24 | [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 |
 | 25 | [I've Got a Feelin'](https://open.spotify.com/track/32JdlAIA6rwrwURWnOncJA) | [Macy Todd](https://open.spotify.com/artist/36LLquZpLrRaGaMRivV2CD) | [I've Got a Feelin'](https://open.spotify.com/album/3K7KeQdVFZHaYzOkGX0eG0) | 3:40 |
-| 26 | [So Good Today \(feat\. The Dap\-Kings\)](https://open.spotify.com/track/0jJSIuK4FbK3yisVwGGMus) | [Ben Westbeech](https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM), [The Dap\-Kings](https://open.spotify.com/artist/2HEQPwrF1aP28bTk1GCONU) | [Welcome to the Remixes](https://open.spotify.com/album/0FQQn9kTrlOFGcbtfy9b7v) | 3:20 |
+| 26 | [So Good Today \(feat\. The Dap\-Kings\)](https://open.spotify.com/track/256ON2IeHHjywvuDUUl0mB) | [Ben Westbeech](https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM), [The Dap\-Kings](https://open.spotify.com/artist/2HEQPwrF1aP28bTk1GCONU) | [Welcome to the Remixes](https://open.spotify.com/album/3DnQGTavEHxPUM8FnkAjy9) | 3:20 |
 | 27 | [Drop of Honey](https://open.spotify.com/track/6e2RwVYEGnsH20GsRBVlNW) | [Eric Kufs](https://open.spotify.com/artist/18KeavvXnAdX2lYib7wgyr) | [The Long \- EP](https://open.spotify.com/album/0UO14h8YsBVpz9GgkllwMo) | 4:17 |
 | 28 | [Better Man](https://open.spotify.com/track/321cXoYTsPtmNaVGubsz4o) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Caustic Love](https://open.spotify.com/album/7M0WhcuEYzzeQwTNy1bDDO) | 5:29 |
 | 29 | [After Last Night \(with Thundercat & Bootsy Collins\)](https://open.spotify.com/track/3jiKUMXqwEodB7gVv1RMZU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea80XwOJRgD.md) - [plain]
 | 49 | [Your Love Will Blow Me Away When My Heart Aches](https://open.spotify.com/track/7mTXXQLhBp3W0UCx4bLfYf) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Son Little \(Deluxe Edition\)](https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ) | 3:03 |
 | 50 | [I'd Rather Go Blind](https://open.spotify.com/track/7xtpbJoe4D8NxpK6jMn88a) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [Loving You More…In The Spirit Of Etta James](https://open.spotify.com/album/5SCIDpdnpyjDm2bjCj8cuF) | 4:11 |
 
-Snapshot ID: `MCw4ZjhlOWExMjU0ZTkxYTA5YjcxMTMxNDlmMDk0MmVjYTc0NDg3YmRl`
+Snapshot ID: `MCxmOTI4MzAzYzQ5OWI0MjUzNWQ2NzMxNTFhMTJiYmM3NzIyY2FkODky`

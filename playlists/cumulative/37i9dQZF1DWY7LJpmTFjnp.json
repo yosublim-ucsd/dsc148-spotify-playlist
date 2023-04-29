@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Amandititita en portada.",
+  "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Molotov en portada. ",
   "name": "La + Chingona",
   "tracks": [
     {
@@ -198,7 +198,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 255268,
       "name": "Antes que el sol nos queme",
       "url": "https://open.spotify.com/track/5In0QvvpyuKt8FHVviuRre"
@@ -260,6 +260,24 @@
       "duration_ms": 343826,
       "name": "Botas Negras",
       "url": "https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT"
+    },
+    {
+      "album": {
+        "name": "Brillo de Sol",
+        "url": "https://open.spotify.com/album/79Meec6gttJaCauGA6nvKm"
+      },
+      "artists": [
+        {
+          "name": "Los Dug Dug's",
+          "url": "https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202713,
+      "name": "Brillo de Sol",
+      "url": "https://open.spotify.com/track/1DMwAQVf5iQYvczjFH6hsb"
     },
     {
       "album": {
@@ -574,7 +592,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 156946,
       "name": "El Microbito",
       "url": "https://open.spotify.com/track/0wTrY23ot5A0aog0JNzXLS"
@@ -910,7 +928,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 250640,
       "name": "Gimme Tha Power",
       "url": "https://open.spotify.com/track/6grtIVjVPuZWup0fIXF900"
@@ -1372,6 +1390,28 @@
       "duration_ms": 328680,
       "name": "Mi Vida sin tu Amor (featuring Mi\u00f1o)",
       "url": "https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB"
+    },
+    {
+      "album": {
+        "name": "S\u00f3lo D\u2019Lira",
+        "url": "https://open.spotify.com/album/2MTZC4iUhirPNczmmKPjTT"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        },
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234416,
+      "name": "Money In The Bank",
+      "url": "https://open.spotify.com/track/2X68b1UFH15ozldcKW4AeF"
     },
     {
       "album": {
@@ -1950,7 +1990,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 259573,
       "name": "Santa Luc\u00eda - En directo 2023",
       "url": "https://open.spotify.com/track/2dOaLeSHVbBJranHRO3b2g"
@@ -2040,7 +2080,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 145285,
       "name": "Somos",
       "url": "https://open.spotify.com/track/32cN25vFyAg3SlY5UrwNyr"
@@ -2156,6 +2196,24 @@
       "duration_ms": 156000,
       "name": "Te Odio y Te Quiero",
       "url": "https://open.spotify.com/track/2jezH0QQ6Eatu4xuP76Eir"
+    },
+    {
+      "album": {
+        "name": "Absolutamente Lo Mejor",
+        "url": "https://open.spotify.com/album/0qPgD8NiIxP96puwmuGwSq"
+      },
+      "artists": [
+        {
+          "name": "Ricky Luis",
+          "url": "https://open.spotify.com/artist/5AuBm72UJZcnMDCG1Ar3Vb"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196280,
+      "name": "Tengo un mes con el mismo pantal\u00f3n",
+      "url": "https://open.spotify.com/track/6qzyLZX4s24iCB5AI8Xenv"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo?si=UhWovZ8tTNmDIC-HmBdOSQ\">Jon Keith</a>",
+  "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy?si=31be8d0d68a64c36\">Trip Lee</a>",
   "name": "The Flow",
   "tracks": [
     {
@@ -1003,6 +1003,28 @@
     },
     {
       "album": {
+        "name": "At The Cross",
+        "url": "https://open.spotify.com/album/42SoxbHZ54eR9GpdMkpOnZ"
+      },
+      "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        },
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184805,
+      "name": "At The Cross",
+      "url": "https://open.spotify.com/track/2te0zilIbpYuFm9S6btNx8"
+    },
+    {
+      "album": {
         "name": "Attributes of Mercy",
         "url": "https://open.spotify.com/album/0K5LKC8zfe44DuZkrJxc1o"
       },
@@ -1542,7 +1564,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 155094,
       "name": "believe",
       "url": "https://open.spotify.com/track/7cwcU3UHeJs4RejjIhDoKt"
@@ -2450,7 +2472,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 150535,
       "name": "CALL IT LYFE",
       "url": "https://open.spotify.com/track/0YUduu1mX5ctL1hHMMnaLt"
@@ -11892,7 +11914,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 242564,
       "name": "Red Light Green Light",
       "url": "https://open.spotify.com/track/7vhLO7AIWYlMjLk2aAED7x"

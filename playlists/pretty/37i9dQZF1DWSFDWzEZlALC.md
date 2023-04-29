@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: BRUCKNER
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,682 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,798 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Fluch](https://open.spotify.com/track/29psttIS4krdh6Ontzt2EI) | [BECKS](https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57) | [Fluch](https://open.spotify.com/album/1s9T6GwxiNw8mTifI5YEZh) | 2:07 |
 | 75 | [7SD](https://open.spotify.com/track/0uSPEMHkNHifMbwYUP4LwH) | [Trille](https://open.spotify.com/artist/7z7UeKh2Y7m3DLpVs0458h), [Bonnie Strange](https://open.spotify.com/artist/5Jc1lyOYKyNogbbh6Rs5dh) | [7SD](https://open.spotify.com/album/2ciBwnxtCe6oY62gAw3YAh) | 2:32 |
 
-Snapshot ID: `MCw2NGRiNzFjMDg4MzYyMTkxYWY4MWI4YWE4NjRhMjQxZTI3YmUzNDBl`
+Snapshot ID: `MCw5MGNkMGQ5YTYyMjY3MWFlYzkwMDVhNjQxN2Y3NDg2ZGQwNzEyYjlm`

@@ -1448,7 +1448,7 @@
     {
       "album": {
         "name": "Dr. John Plays Mac Rebennack The Legendary Sessions V. 1",
-        "url": "https://open.spotify.com/album/2YmByjFIRpY2ZX3c8OHkHF"
+        "url": "https://open.spotify.com/album/6pqnO3wDzP4fdXWbK9KaaL"
       },
       "artists": [
         {
@@ -1459,6 +1459,24 @@
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 256265,
+      "name": "Wade in the Water",
+      "url": "https://open.spotify.com/track/2bA54TGaCqV3gCrE3ETzJm"
+    },
+    {
+      "album": {
+        "name": "Dr. John Plays Mac Rebennack The Legendary Sessions V. 1",
+        "url": "https://open.spotify.com/album/2YmByjFIRpY2ZX3c8OHkHF"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
       "duration_ms": 256265,
       "name": "Wade in the Water",
       "url": "https://open.spotify.com/track/72vdux2aW6a1EBRdZoUpXi"

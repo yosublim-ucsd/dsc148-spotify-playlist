@@ -1,12 +1,12 @@
 {
   "description": "It's like rock, but softer. Cover: Fleetwood Mac",
-  "num_followers": 3583384,
+  "num_followers": 3583483,
   "original_name": "Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWQzYWViNGFkNDFhMmI0ZDlhMzM4NmE5NmRjYmJlZDEzZjQ5ZDQ1",
+  "snapshot_id": "MCxjYjM0OGZlYzdjYjJjNGYzZWZkNjU5YTE0ZDRhYTJiOTA4NTg2ZTdi",
   "tracks": [
     {
       "added_at": "2023-03-20 17:07:41",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "The Nightfly",
-        "url": "https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8"
-      },
-      "artists": [
-        {
-          "name": "Donald Fagen",
-          "url": "https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb"
-        }
-      ],
-      "duration_ms": 363413,
-      "name": "I.G.Y.",
-      "url": "https://open.spotify.com/track/6bzwsAtj4TqaBysLDrGiO3"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Chicago XI",
         "url": "https://open.spotify.com/album/2Uq6uCf2FOmVl30J6028N1"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 183666,
       "name": "Baby, What a Big Surprise - Edit",
       "url": "https://open.spotify.com/track/11dAtktxQQzipxuLqljEfY"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "The Nightfly",
+        "url": "https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8"
+      },
+      "artists": [
+        {
+          "name": "Donald Fagen",
+          "url": "https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb"
+        }
+      ],
+      "duration_ms": 363413,
+      "name": "I.G.Y.",
+      "url": "https://open.spotify.com/track/6bzwsAtj4TqaBysLDrGiO3"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Robbie Dupree",
-        "url": "https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW"
-      },
-      "artists": [
-        {
-          "name": "Robbie Dupree",
-          "url": "https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz"
-        }
-      ],
-      "duration_ms": 221432,
-      "name": "Hot Rod Hearts - Remastered",
-      "url": "https://open.spotify.com/track/1QEZIhNmz28cJ2Lr45MKJ4"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Gaucho",
         "url": "https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L"
       },
@@ -991,18 +975,18 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Arc Of A Diver",
-        "url": "https://open.spotify.com/album/6st1dtm8abvdd1S9vWLUQL"
+        "name": "Robbie Dupree",
+        "url": "https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW"
       },
       "artists": [
         {
-          "name": "Steve Winwood",
-          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+          "name": "Robbie Dupree",
+          "url": "https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz"
         }
       ],
-      "duration_ms": 313493,
-      "name": "While You See A Chance",
-      "url": "https://open.spotify.com/track/4tFumK7mnlcpNeHCNEQ4wc"
+      "duration_ms": 221432,
+      "name": "Hot Rod Hearts - Remastered",
+      "url": "https://open.spotify.com/track/1QEZIhNmz28cJ2Lr45MKJ4"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -1019,6 +1003,22 @@
       "duration_ms": 221066,
       "name": "Moonlight Feels Right - 2023 Remaster",
       "url": "https://open.spotify.com/track/4LEHKN2fPgz1uDJKacHIEO"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "Arc Of A Diver",
+        "url": "https://open.spotify.com/album/6st1dtm8abvdd1S9vWLUQL"
+      },
+      "artists": [
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        }
+      ],
+      "duration_ms": 313493,
+      "name": "While You See A Chance",
+      "url": "https://open.spotify.com/track/4tFumK7mnlcpNeHCNEQ4wc"
     },
     {
       "added_at": "2023-03-20 17:07:41",

@@ -889,6 +889,28 @@
     },
     {
       "album": {
+        "name": "Incr\u00edvel",
+        "url": "https://open.spotify.com/album/1xS3qTC20EJQkCjjMnG7Rg"
+      },
+      "artists": [
+        {
+          "name": "Theus Costa",
+          "url": "https://open.spotify.com/artist/4qNZfaBcaNA2Q2a9danTGP"
+        },
+        {
+          "name": "Qu\u00e9zia Lima",
+          "url": "https://open.spotify.com/artist/4ItRsVQGClDa3B2r5bgoeP"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122120,
+      "name": "Incr\u00edvel",
+      "url": "https://open.spotify.com/track/21tUE1e9Z0St05vcAAD8zq"
+    },
+    {
+      "album": {
         "name": "V\u00edcio",
         "url": "https://open.spotify.com/album/1Xc3wQDbAv60BjFIcUoy59"
       },
@@ -926,7 +948,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 199655,
       "name": "Inten\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/40rijjvXbyX6alCMtM2r3Z"
@@ -1624,7 +1646,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 178285,
       "name": "Olhos de Cigana",
       "url": "https://open.spotify.com/track/1dJu8nGmVqdHiGBsy7gxRl"
@@ -1905,6 +1927,32 @@
     },
     {
       "album": {
+        "name": "Repete",
+        "url": "https://open.spotify.com/album/5bz020wy4TMxX0kspDnGaD"
+      },
+      "artists": [
+        {
+          "name": "Lav\u00ed",
+          "url": "https://open.spotify.com/artist/3yHeTTNgCEOPgYMvgFpDfC"
+        },
+        {
+          "name": "Mutanx",
+          "url": "https://open.spotify.com/artist/7pH4KBMOUOnzAWnbtgDhiM"
+        },
+        {
+          "name": "Christoffer",
+          "url": "https://open.spotify.com/artist/1e4TwMRNTZmlnnwa0ymxHG"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Repete",
+      "url": "https://open.spotify.com/track/2LgllGIs3VERZRwrNc36AT"
+    },
+    {
+      "album": {
         "name": "Respostas",
         "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
       },
@@ -2160,7 +2208,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 186382,
       "name": "Suplicar",
       "url": "https://open.spotify.com/track/2HmwK2dChMGAOv3gd2HQiN"
@@ -2304,6 +2352,32 @@
       "duration_ms": 189230,
       "name": "Teu Sinal",
       "url": "https://open.spotify.com/track/1Jdsw1yunMP4tRTLibsY0J"
+    },
+    {
+      "album": {
+        "name": "Tomboy",
+        "url": "https://open.spotify.com/album/0hOPXn449nuIQQpajCowa5"
+      },
+      "artists": [
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Duzz",
+          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
+        },
+        {
+          "name": "Gibin",
+          "url": "https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204444,
+      "name": "Tomboy",
+      "url": "https://open.spotify.com/track/1ZZzHoGd7vUBO4WpVbrgg8"
     },
     {
       "album": {

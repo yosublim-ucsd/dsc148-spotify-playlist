@@ -1,12 +1,12 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 375636,
+  "num_followers": 375777,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzMzODllOWI5NGYzYTZkMzgxNDY5YTNjMzEwZWQ2ZmY2NGMxNzE1",
+  "snapshot_id": "MCw1ZmFmYWQyMDg2NzY5ZjI3NWU5ZThmODg4NzNmOTA5ODg5ODYzZDM5",
   "tracks": [
     {
       "added_at": "2023-03-22 23:38:51",
@@ -269,6 +269,22 @@
       "url": "https://open.spotify.com/track/7lkUDDKw8Xce33MtJTfvpO"
     },
     {
+      "added_at": "2023-04-28 12:42:21",
+      "album": {
+        "name": "Used To It",
+        "url": "https://open.spotify.com/album/1wKmS7A41gfVYHnFUnD2HR"
+      },
+      "artists": [
+        {
+          "name": "Ethan P. Flynn",
+          "url": "https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z"
+        }
+      ],
+      "duration_ms": 182002,
+      "name": "Used To It",
+      "url": "https://open.spotify.com/track/7EeCwTGR2ct1WTo0OvkWag"
+    },
+    {
       "added_at": "2023-03-22 23:38:51",
       "album": {
         "name": "Hotel",
@@ -459,6 +475,22 @@
       "duration_ms": 289306,
       "name": "Gooey",
       "url": "https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX"
+    },
+    {
+      "added_at": "2023-04-28 12:42:21",
+      "album": {
+        "name": "Almighty",
+        "url": "https://open.spotify.com/album/4D2yVILnAA47VroVLFcB8B"
+      },
+      "artists": [
+        {
+          "name": "Creams",
+          "url": "https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc"
+        }
+      ],
+      "duration_ms": 245125,
+      "name": "Almighty",
+      "url": "https://open.spotify.com/track/6RpiN5H6IpDWNTaVEZUhrH"
     },
     {
       "added_at": "2023-03-22 23:38:51",
@@ -964,7 +996,7 @@
       "added_at": "2023-03-22 23:38:51",
       "album": {
         "name": "Flower of Devotion",
-        "url": "https://open.spotify.com/album/0kn1V8vpoxtEw69CcMDlik"
+        "url": "https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N"
       },
       "artists": [
         {
@@ -974,7 +1006,7 @@
       ],
       "duration_ms": 177316,
       "name": "Flood",
-      "url": "https://open.spotify.com/track/2rdHpC57kfwsxuQKfaEjjQ"
+      "url": "https://open.spotify.com/track/49WW6BCMjCCYt6V6UEhy4H"
     },
     {
       "added_at": "2023-03-22 23:38:51",

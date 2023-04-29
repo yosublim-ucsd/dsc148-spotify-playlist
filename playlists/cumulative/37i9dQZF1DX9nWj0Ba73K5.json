@@ -877,6 +877,24 @@
     },
     {
       "album": {
+        "name": "Big City Blues",
+        "url": "https://open.spotify.com/album/5erpYYkqMHqj4pQGRTDCdg"
+      },
+      "artists": [
+        {
+          "name": "Keith Gattis",
+          "url": "https://open.spotify.com/artist/3JvvMZuSDpReAGChQX7p7k"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358600,
+      "name": "El Cerrito Place",
+      "url": "https://open.spotify.com/track/22RZDqi5xPHTPqk2Whwozf"
+    },
+    {
+      "album": {
         "name": "Somewhere There's A Light On",
         "url": "https://open.spotify.com/album/3rjcBeGtdpZRAPuytz0kok"
       },

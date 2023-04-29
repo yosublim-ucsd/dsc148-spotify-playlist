@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,475 likes - 70 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,491 likes - 70 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 24 | [NEON RATS \- SHERELLE's Sleepless in Philadelphia Remix](https://open.spotify.com/track/2FlPHfGs4KUe2GDtNQfb3P) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy), [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [EVEN MORE D4TA](https://open.spotify.com/album/1Jezw4Z2jKAhBF193bY5qM) | 4:50 |
 | 25 | [Shwele](https://open.spotify.com/track/49U7pqWPRT73VZE1iqv3bh) | [Rudeboyz](https://open.spotify.com/artist/3De9bGnGSaxAu4sJz4Y9Wk), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn), [Dladla Mshunqisi](https://open.spotify.com/artist/5M9mFjVaPT2T1HFYFFSoCt), [Shayo](https://open.spotify.com/artist/7Kmks7qr2g78bOMsAa8ocF) | [Shwele](https://open.spotify.com/album/2lNfSss7OrD82hvs3XQFSH) | 5:22 |
 | 26 | [Digital Them](https://open.spotify.com/track/6pbMw79R8vAMYvOrAuCuJ9) | [E\-Saggila](https://open.spotify.com/artist/2TGknI5Y6WbbxgvzVodku6) | [Blaze](https://open.spotify.com/album/5imr4nLw9J2Pbt0G4eXZYD) | 4:35 |
-| 27 | [Streetlands](https://open.spotify.com/track/3G3wD7ovEtCLcrljv6IYRd) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Streetlands EP](https://open.spotify.com/album/5ahm26Lxj4lpSs6Cd5IhUe) | 14:15 |
+| 27 | [Streetlands](https://open.spotify.com/track/55PZY75Fpf26SiiTohiov8) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Streetlands EP](https://open.spotify.com/album/7DWTPht64rxNCelkEGQwxO) | 14:15 |
 | 28 | [Is U](https://open.spotify.com/track/4Z3RGx7Be5plLoIw7i83wX) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Is U](https://open.spotify.com/album/4jO5B8uUoYusn8Yb8iSoVo) | 3:48 |
 | 29 | [Hype Beast](https://open.spotify.com/track/6whBYdE8GepAR0X27SuYXo) | [Byrell The Great](https://open.spotify.com/artist/2xNGjguhmBjjP3ViK07IJO), [Princess Precious](https://open.spotify.com/artist/4GwCanrqEtG8SVYYY21rH5) | [Snack Time](https://open.spotify.com/album/3Z4pnbIrUyyOCDcQuHtzLG) | 2:35 |
 | 30 | [Interlock](https://open.spotify.com/track/5rO4SLcRMIA4qVRGSjes1e) | [Fraxinus](https://open.spotify.com/artist/5d0OxGSqpm65ffCbEugA9y) | [Powerplant Blue](https://open.spotify.com/album/1DtaayLkVUDBdxboteogfU) | 5:46 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 48 | [Misty Winter](https://open.spotify.com/track/7r3BrzYsLmxLiMmlL3hx5u) | [Mala](https://open.spotify.com/artist/0QTEYauMG3DrAVPXCYMseu), [Crazy D](https://open.spotify.com/artist/0c07oVZL07jYpUOCk0I6Zh) | [Misty Winter](https://open.spotify.com/album/6mXscqvoSqI0lQUCEl8cAc) | 4:52 |
 | 49 | [TMMD \(IMMMD\)](https://open.spotify.com/track/4bTpWhufYEvdQhAgDBFUGC) | [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Club Sentimientos, Vol\. 2](https://open.spotify.com/album/1WqqVCRyfP39WZXLJyXSf5) | 4:13 |
 | 50 | [Dancing and Blood](https://open.spotify.com/track/23r92m2ABmBYCjQ55hncxY) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Double Negative](https://open.spotify.com/album/0fWKkkVCj14CllpjPLjU9P) | 6:22 |
-| 51 | [Meditation \(feat\. Arca\)](https://open.spotify.com/track/4G2wDx4EztZCPNz4sVHOFF) | [Babyfather](https://open.spotify.com/artist/3DmDJOQgrwlq8MxXGLeFvA), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | ["BBF" Hosted By DJ Escrow](https://open.spotify.com/album/5cfMh4xCZIr5kZs5ryEpeS) | 5:20 |
+| 51 | [Meditation \(feat\. Arca\)](https://open.spotify.com/track/3wxiQcLMIcJqua7VCZOVMg) | [Babyfather](https://open.spotify.com/artist/3DmDJOQgrwlq8MxXGLeFvA), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | ["BBF" Hosted By DJ Escrow](https://open.spotify.com/album/3Y0EqAgYnf04X2U72D6z2I) | 5:20 |
 | 52 | [mess it up](https://open.spotify.com/track/4WBvIJCTmSg1IWoxw3Q78B) | [Catnapp](https://open.spotify.com/artist/2W47Nby5KFaS1pdUt7qmCU) | [TRUST](https://open.spotify.com/album/558F6R7m4TZSKYb4xnANuF) | 2:31 |
 | 53 | [DOOM HYPE](https://open.spotify.com/track/5imLtAtvD8FnYFqDh60QxQ) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz) | 4:06 |
 | 54 | [Near Disco Dawn at Wmf](https://open.spotify.com/track/6sOtAwQpcCsnmX5Ek65K7P) | [Errorsmith](https://open.spotify.com/artist/0GBfmQlQSoO1OBxO8Y73vB) | [Near Disco Dawn](https://open.spotify.com/album/6OfsfAYZt7qbHXYh3DMwPK) | 4:48 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 69 | [Night Journeys II \- Jessy Lanza Remix](https://open.spotify.com/track/60VjArH5XWBvpahor9I7RF) | [Courtesy](https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Night Journeys Remixes](https://open.spotify.com/album/6evedkkGMc4VTjdL5CROVz) | 4:37 |
 | 70 | [Phantom Pain](https://open.spotify.com/track/5yhGuC5zHoRs0mjDRApQV4) | [Ital Tek](https://open.spotify.com/artist/6Auo6gEPwhb9aZindgVpZJ) | [Timeproof](https://open.spotify.com/album/1DcFjMNnfcu2SgJ60ByRGE) | 6:37 |
 
-Snapshot ID: `MCxiYWU4M2QwOTViZWEzMmI0YTU4OTFiNDI5ZDAzYjQ4NDdiMmU5Y2E0`
+Snapshot ID: `MCw4ODg2NTRmZjJmOWRhZDdhYTcxNjA0Mjk2NzdlMzZiMzlhODY4N2Rj`

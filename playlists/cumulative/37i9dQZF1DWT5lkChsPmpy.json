@@ -841,6 +841,24 @@
     },
     {
       "album": {
+        "name": "Blue Flame",
+        "url": "https://open.spotify.com/album/71y8evCIrRvKHW2TpiQQrv"
+      },
+      "artists": [
+        {
+          "name": "T.O.M",
+          "url": "https://open.spotify.com/artist/68rwVO9em9O2JzESsN2whJ"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Blue Flame",
+      "url": "https://open.spotify.com/track/7lqiHYSx2uqlKKeHCa4zRP"
+    },
+    {
+      "album": {
         "name": "Blue Skies",
         "url": "https://open.spotify.com/album/6QlN0zhSD9Ni0urapqE805"
       },
@@ -2006,6 +2024,28 @@
       "duration_ms": 123821,
       "name": "evening cafe",
       "url": "https://open.spotify.com/track/7G37dmyKJB2ElUyPzPS4ss"
+    },
+    {
+      "album": {
+        "name": "Soul Endeavors",
+        "url": "https://open.spotify.com/album/1uHUfHUvN8aN5S43XeBZVu"
+      },
+      "artists": [
+        {
+          "name": "Madbank",
+          "url": "https://open.spotify.com/artist/0PWa4U2yMdW9jOhrKv6SzI"
+        },
+        {
+          "name": "Smokestack",
+          "url": "https://open.spotify.com/artist/4fCYV8QWYzc8BDm1M2lhrz"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Everything Fun In The Way You Dance",
+      "url": "https://open.spotify.com/track/5KJe3Lh1UYFfZqrns2mN8w"
     },
     {
       "album": {

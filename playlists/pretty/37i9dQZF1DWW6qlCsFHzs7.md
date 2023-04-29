@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6qlCsFHzs7.md) - [plain]
 
 > <a href="spotify:artist:1lMcg4Y7nW5hHgIVsN9Shn">Conducta</a>'s favorite tracks\. Updated regularly\. Curated by Conducta\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,972 likes - 70 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,979 likes - 70 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Trinitron](https://open.spotify.com/track/7qGdBTlPz7wUfoYTCBFdo9) | [GRRL](https://open.spotify.com/artist/0JpzRsUcCKSyr44mQiosNg) | [Operator](https://open.spotify.com/album/3wEmwv77Wz8xn29SQBg5S0) | 3:23 |
-| 2 | [It Means I Love You](https://open.spotify.com/track/0qCoUxF5gYy1BJShQFVDwP) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Oh No](https://open.spotify.com/album/2s2Er5s8074i57yrBwUfOd) | 4:41 |
+| 2 | [It Means I Love You](https://open.spotify.com/track/0xqJgZflGHDGaZ9hYn48pB) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Oh No](https://open.spotify.com/album/2B7wZKa7So8lr4YSPfS0bu) | 4:41 |
 | 3 | [Complete Me \(feat\. Self Esteem\)](https://open.spotify.com/track/4PLpEoutbbBKXQX4Ymkgvq) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab), [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Complete Me \(feat\. Self Esteem\)](https://open.spotify.com/album/6YQ5IjxTphaqI365Y8CNiO) | 4:46 |
 | 4 | [You](https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI) | [You](https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1) | 4:06 |
 | 5 | [Pull Up \- Tim Reaper Remix](https://open.spotify.com/track/6GE30aCTN2fAInCxcfLvf9) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Hooversound Presents: Special Request and Tim Reaper](https://open.spotify.com/album/2Qtn6rWtRti5CknQiWh6pi) | 6:09 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6qlCsFHzs7.md) - [plain]
 | 69 | [Make Me Feel](https://open.spotify.com/track/2bq4FFDPno3B2rN2ysh28x) | [Prozak](https://open.spotify.com/artist/1cFxOHBhTZDQuzNaIvzBel) | [Make Me Feel](https://open.spotify.com/album/759Lkn1ERq1SMekDhuvnbb) | 5:11 |
 | 70 | [Stronger](https://open.spotify.com/track/33ZNh2kqjSpLsJPmOZnMgd) | [Wilfred Giroux](https://open.spotify.com/artist/7bSQhATneiWf5I7uSQVCGH) | [Stronger](https://open.spotify.com/album/5Hz3RQToT3CNvuT5H0Y9Qf) | 5:47 |
 
-Snapshot ID: `MCwwZjAxZTI3ZmI3ZTA5ODNmNWYwYzg1N2IzM2VkYTRiMDBiNjY5OTky`
+Snapshot ID: `MCwyYmRlMzE0NmIyYzg0ZDUxOTYxN2FiYmY0OTY2OTA1MzNmMTkwYWY5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Zia Jade
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,375 likes - 101 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,427 likes - 101 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 17 | [Steppin'](https://open.spotify.com/track/6LhYmfgh0BQoHf0ehTE0pz) | [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy), [Ray Foxx](https://open.spotify.com/artist/3rBUMhb9YTlfKpOEBZ0AQK) | [Steppin'](https://open.spotify.com/album/7vLTmSvxJbPAgQomCk19qC) | 3:07 |
 | 18 | [Cycles](https://open.spotify.com/track/3elkKVNxiqudFAogVJi8Aw) | [Late June](https://open.spotify.com/artist/5zMJZTfga0uJURmLLymnoh) | [Cycles](https://open.spotify.com/album/4QcAUh6pdYblA72Kqd1L26) | 3:36 |
 | 19 | [Broken \- Lost Frequencies Cut](https://open.spotify.com/track/1C1zuA0hSfyNYFOTUddCzO) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Broken \(Lost Frequencies Cut\)](https://open.spotify.com/album/2aKRgqvnqmAJ0NxZ6VD9Jc) | 2:52 |
-| 20 | [On & On \(Again\)](https://open.spotify.com/track/1tYwSPYzoCZLQKbFbvt0fS) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [On & On \(Again\)](https://open.spotify.com/album/6icyrehEsAbRwrnVPvGn5u) | 3:15 |
+| 20 | [On & On \(Again\) \- Edit](https://open.spotify.com/track/1tYwSPYzoCZLQKbFbvt0fS) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [On & On \(Again\) \[Edit\]](https://open.spotify.com/album/6icyrehEsAbRwrnVPvGn5u) | 3:15 |
 | 21 | [This Time](https://open.spotify.com/track/5LBihcn6fJvhIDzn4zujym) | [Kaiya](https://open.spotify.com/artist/1T5pp4vXssZbZZbMWYo5tA), [Adrian Dzvuke](https://open.spotify.com/artist/3fgolNSZnidBlbm5dFi4go) | [This Time](https://open.spotify.com/album/35ZgJpPaEXxa6dmnKMkSQU) | 3:05 |
 | 22 | [Tell Me](https://open.spotify.com/track/4gc5FbQJ6yuBg1eBkT46t7) | [Race Banyon](https://open.spotify.com/artist/5btOKBbjh04dkX7iqFERLL) | [Tell Me / AM](https://open.spotify.com/album/7CSYqjNd0E8C007HUrzDaH) | 4:16 |
 | 23 | [Blow Ya Mind](https://open.spotify.com/track/21hxN3cxOJoDmQwg2tXUpN) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Lee Cabrera](https://open.spotify.com/artist/4h8hm6TjKsvgmLajBgaI9w), [Lock 'N Load](https://open.spotify.com/artist/36WpsQfa32ou67lhwl8RQ9), [Bleech](https://open.spotify.com/artist/0az6y7AjCCOAZzAF3i1Jaq) | [Blow Ya Mind](https://open.spotify.com/album/6GK4SX32R65JWHOCeZqdiA) | 2:29 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 100 | [ctrl alt delete](https://open.spotify.com/track/1jRi3WhVIz8W1PCUkLkP1V) | [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x), [Ūla](https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8) | [ctrl alt delete](https://open.spotify.com/album/5kkcH9I0e0vxRH1za848fX) | 3:25 |
 | 101 | [Hollywood](https://open.spotify.com/track/6BSm5agl8YBZIbtYHconLX) | [Danny Rhys](https://open.spotify.com/artist/2M6Re1FK8R8PfaKrlpF19S), [Rion S](https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7) | [Hollywood](https://open.spotify.com/album/0Xb5A3SSvc17t8kTz9JhXh) | 3:21 |
 
-Snapshot ID: `MCwyMTIzM2Y3YTY0MzI2YTgxNzUyYzI5YmU1YzNmODUwOWFjZGY0ZmFm`
+Snapshot ID: `MCw1NTU0ZDQ2YTYyNGE0ZDEyOWE1Nzc5MGEzY2JjMzdlNDRjMGU2Nzli`

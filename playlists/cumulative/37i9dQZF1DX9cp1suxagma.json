@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2023-02-18",
-  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Mike Bah\u00eda y Greeicy",
+  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Vale",
   "name": "Pop Colombia",
   "tracks": [
+    {
+      "album": {
+        "name": "+ y +",
+        "url": "https://open.spotify.com/album/5BsntI7dLvrjB4YFyhCcHY"
+      },
+      "artists": [
+        {
+          "name": "Natalia Medina",
+          "url": "https://open.spotify.com/artist/2haUacIubkfPdJdpiZ2PnC"
+        },
+        {
+          "name": "Elkin Robinson",
+          "url": "https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237117,
+      "name": "+ y +",
+      "url": "https://open.spotify.com/track/56kgFiVB5tgtQszv8GGuTJ"
+    },
     {
       "album": {
         "name": "19y33",
@@ -16,7 +38,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 176973,
       "name": "19y33",
       "url": "https://open.spotify.com/track/37QRr3OCmTEFobKk7m7Rft"
@@ -146,7 +168,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 206872,
       "name": "Amiga M\u00eda - Spotify Singles",
       "url": "https://open.spotify.com/track/1ErWnacP0i3my6KJn35b6q"
@@ -186,7 +208,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 217805,
       "name": "Aqu\u00ed",
       "url": "https://open.spotify.com/track/7tcZXVCBzWYqoL5xlW35yc"
@@ -524,7 +546,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 233290,
       "name": "El Gran Teatro",
       "url": "https://open.spotify.com/track/2n9rHWOVp9Dyy64MNPH3Sf"
@@ -688,6 +710,42 @@
       "duration_ms": 178373,
       "name": "Fantas\u00eda",
       "url": "https://open.spotify.com/track/3vytOevJomYPaAZM2OXwn5"
+    },
+    {
+      "album": {
+        "name": "F\u00f3rmula 1",
+        "url": "https://open.spotify.com/album/03AqKstdfmHhXioC73KQ3B"
+      },
+      "artists": [
+        {
+          "name": "Susana Cala",
+          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157968,
+      "name": "F\u00f3rmula 1",
+      "url": "https://open.spotify.com/track/0LxCc5e6eYqCytwaiXDTXB"
+    },
+    {
+      "album": {
+        "name": "Idiota",
+        "url": "https://open.spotify.com/album/5fR1etMEVPIUUR2BdDFD0J"
+      },
+      "artists": [
+        {
+          "name": "Arevalo",
+          "url": "https://open.spotify.com/artist/66q4aUeE6L8715QQ2yD68G"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149428,
+      "name": "Idiota",
+      "url": "https://open.spotify.com/track/7IXKGPuB0D0yFvfLoJFFWo"
     },
     {
       "album": {
@@ -923,6 +981,24 @@
     },
     {
       "album": {
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/0fHMjHobSboBcY2NQ4JfAN"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160666,
+      "name": "Lo Que Me Har\u00edas En Otra Parte",
+      "url": "https://open.spotify.com/track/1gCTNc0Jrk78CHiHbuT63w"
+    },
+    {
+      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/1uFr2PCsnDVZ71AiJnZYrb"
       },
@@ -1076,7 +1152,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 203456,
       "name": "Me Gustas M\u00e1s Que Salir a Fumar",
       "url": "https://open.spotify.com/track/3e5qNP3CSArQiLLBMJQkUM"
@@ -1199,6 +1275,24 @@
     },
     {
       "album": {
+        "name": "Nadie Me Vuelve A Joder",
+        "url": "https://open.spotify.com/album/5K1qmDGAxNiXSHFYK1DWHr"
+      },
+      "artists": [
+        {
+          "name": "Pitizion",
+          "url": "https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161160,
+      "name": "Nadie Me Vuelve A Joder",
+      "url": "https://open.spotify.com/track/4ysIQ2AalFEvYMBN7XgtDv"
+    },
+    {
+      "album": {
         "name": "MANTRA",
         "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
       },
@@ -1232,6 +1326,28 @@
       "duration_ms": 205082,
       "name": "No S\u00e9 Querer",
       "url": "https://open.spotify.com/track/0QnOCHmZ6yH5J0gajW9jf2"
+    },
+    {
+      "album": {
+        "name": "X Revisitado",
+        "url": "https://open.spotify.com/album/0VHJPkZR0bh3dOE67Fog6v"
+      },
+      "artists": [
+        {
+          "name": "Superlitio",
+          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
+        },
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262441,
+      "name": "No S\u00e9 Si Volver\u00e1",
+      "url": "https://open.spotify.com/track/4KZrzzj4Js25wBYhmUBRNr"
     },
     {
       "album": {
@@ -1852,7 +1968,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 192346,
       "name": "Tengo Que Partir",
       "url": "https://open.spotify.com/track/5NP1C17UB2I1UN2a9Tkx2o"

@@ -1844,6 +1844,24 @@
     {
       "album": {
         "name": "Infamous Angel",
+        "url": "https://open.spotify.com/album/2GA3HnSHqkdonyJbfEcz6o"
+      },
+      "artists": [
+        {
+          "name": "Iris DeMent",
+          "url": "https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300933,
+      "name": "Our Town",
+      "url": "https://open.spotify.com/track/43nP4jKb7yRoyN6onAJ684"
+    },
+    {
+      "album": {
+        "name": "Infamous Angel",
         "url": "https://open.spotify.com/album/4LluPNK62d1cUvD1ZL46bf"
       },
       "artists": [
@@ -1854,7 +1872,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 300933,
       "name": "Our Town",
       "url": "https://open.spotify.com/track/44gq8zKiyisjDCKRfcuk3N"
@@ -2989,6 +3007,24 @@
     },
     {
       "album": {
+        "name": "Traveling Alone",
+        "url": "https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R"
+      },
+      "artists": [
+        {
+          "name": "Tift Merritt",
+          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284960,
+      "name": "Traveling Alone",
+      "url": "https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk"
+    },
+    {
+      "album": {
         "name": "Traveling Alone (Bonus Track Version)",
         "url": "https://open.spotify.com/album/3Vb6O2QNaM9JOGQIchjgdw"
       },
@@ -3000,7 +3036,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 284960,
       "name": "Traveling Alone",
       "url": "https://open.spotify.com/track/5xHKErgmLzIqY6qQcsZRKW"

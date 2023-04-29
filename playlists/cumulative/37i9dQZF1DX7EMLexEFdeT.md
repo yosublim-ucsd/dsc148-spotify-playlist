@@ -4,7 +4,7 @@
 
 > Did you hear that?
 
-93 songs - 6 hr 8 min
+95 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Silent Shout](https://open.spotify.com/track/6JQFuxLwhvtHRmRMebgiLB) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Silent Shout](https://open.spotify.com/album/6rdNbdV3T4muFFFSjGdOj9) | 4:53 | 2022-09-23 |  |
 | [Slowdance I](https://open.spotify.com/track/4G0LxX3BHpxI6QJZbw0iK6) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [When I Have Fears](https://open.spotify.com/album/17ozByfYT9iEhfGNcT6mdz) | 4:01 | 2022-09-23 |  |
 | [Smoking Section](https://open.spotify.com/track/2Kkg6KwQDY6hOHIoTxFL8d) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 3:37 | 2022-09-23 |  |
-| [Special Death](https://open.spotify.com/track/1Y7SunUEcwxyev6VtXRnZd) | [Mirah](https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj) | [Advisory Committee](https://open.spotify.com/album/4PFZFBAC72pNx0PuJaBNui) | 2:32 | 2022-09-23 |  |
+| [Special Death](https://open.spotify.com/track/1Y7SunUEcwxyev6VtXRnZd) | [Mirah](https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj) | [Advisory Committee](https://open.spotify.com/album/4PFZFBAC72pNx0PuJaBNui) | 2:32 | 2022-09-23 | 2023-04-29 |
+| [Special Death](https://open.spotify.com/track/5kRgOJD7wN77OHjiGhkpjL) | [Mirah](https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj) | [Advisory Committee](https://open.spotify.com/album/0gQWuaPBjGRe4S4lV7gtlC) | 2:32 | 2022-09-23 |  |
 | [Spellbound](https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:17 | 2022-09-23 |  |
 | [Spellwork](https://open.spotify.com/track/5ww5lzQmXVaEmVJXCtFR4J) | [Austra](https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g) | [Feel It Break](https://open.spotify.com/album/5Q4twEkKreQ54pnMSBKYrU) | 5:09 | 2022-09-23 |  |
 | [Teardrop](https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 5:30 | 2022-09-23 |  |
@@ -94,7 +95,8 @@
 | [White Foxes](https://open.spotify.com/track/5OU6ugivZfNo8IBAm9yc7A) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [The Silicone Veil](https://open.spotify.com/album/5dI4gXLOWDJ25XuWUIznmt) | 4:16 | 2022-09-23 | 2022-11-14 |
 | [White Foxes](https://open.spotify.com/track/6HcR7kgWHEPTStbJyjEEEO) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [The Silicone Veil](https://open.spotify.com/album/1EZyuV7Oo23PeUdKxZkq9t) | 4:21 | 2022-09-23 |  |
 | [Widow's Peak](https://open.spotify.com/track/60Q9G9OhXkfe5Hfla12kd0) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [Widow's Peak](https://open.spotify.com/album/0FyLW7baFYzM7hOWKt8zXF) | 3:51 | 2022-09-23 | 2022-11-13 |
-| [Widow's Peak](https://open.spotify.com/track/70rmykCzXyK5F4Xzh3xLww) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [Old Rockhounds Never Die](https://open.spotify.com/album/3Jb4Qyb0nmKWW7JXhZQ3wA) | 3:51 | 2022-09-23 |  |
+| [Widow's Peak](https://open.spotify.com/track/70rmykCzXyK5F4Xzh3xLww) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [Old Rockhounds Never Die](https://open.spotify.com/album/3Jb4Qyb0nmKWW7JXhZQ3wA) | 3:51 | 2022-09-23 | 2023-04-29 |
+| [Widow's Peak](https://open.spotify.com/track/7HZXCvX14bnNOW0o8AbAmA) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [Old Rockhounds Never Die](https://open.spotify.com/album/32Qe8dNUwWqPzsXn9efgz8) | 3:51 | 2022-09-23 |  |
 | [With Strangers](https://open.spotify.com/track/0eWNkNTMpXTtvWdxoMkOSp) | [Little Joy](https://open.spotify.com/artist/0aLsJXIaJ6MMCZIzaGpMaX) | [Little Joy](https://open.spotify.com/album/2SctzR3lb5YN3EJzTf9Kbs) | 2:51 | 2022-09-23 |  |
 | [You Make Me Feel Like It’s Halloween](https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:00 | 2022-09-23 |  |
 | [you should see me in a crown](https://open.spotify.com/track/4yjhdHa1dNxhNSWVcitnBZ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Female Festival Stars](https://open.spotify.com/album/1rKblOrzCHglTx5Z9gMOqR) | 3:00 | 2022-09-23 | 2022-11-13 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  <a href=\"https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS?si=xz-UVVtbR0yvegN5muklCQ\">Pastor Mike Jr.</a>",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  <a href=\"https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8?si=963a2e94a41e47eb\">Rudy Currence.</a>",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -758,7 +758,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 522994,
       "name": "Canvas & Clay (King of My Heart) [feat. DOE & Jonathan Traylor]",
       "url": "https://open.spotify.com/track/6amNHx1sQVZpsuAYkNO9n4"
@@ -1765,6 +1765,24 @@
     },
     {
       "album": {
+        "name": "He Can Handle It (Live)",
+        "url": "https://open.spotify.com/album/1GzTFUmq8Kd3f6j3IZosN7"
+      },
+      "artists": [
+        {
+          "name": "Crystal Aikin",
+          "url": "https://open.spotify.com/artist/5AfDeAE9DebBuxecThmRsf"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309019,
+      "name": "He Can Handle It - Live",
+      "url": "https://open.spotify.com/track/5E6qPtR1Riful1E9rZUNjx"
+    },
+    {
+      "album": {
         "name": "He Did It for Me (Live)",
         "url": "https://open.spotify.com/album/75mPsKFQ2OBXqc5lRYk1t2"
       },
@@ -2004,7 +2022,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 253090,
       "name": "Healing",
       "url": "https://open.spotify.com/track/2XBO1WycGB40uSfzLrBtiF"
@@ -4433,6 +4451,24 @@
     },
     {
       "album": {
+        "name": "Stained Glass Windows",
+        "url": "https://open.spotify.com/album/5IlQakSgyg5MaLlyUlTieh"
+      },
+      "artists": [
+        {
+          "name": "Rudy Currence",
+          "url": "https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275620,
+      "name": "Ransom",
+      "url": "https://open.spotify.com/track/6YlAikG2vnFgcMO4tfijub"
+    },
+    {
+      "album": {
         "name": "Straight From The Heart",
         "url": "https://open.spotify.com/album/40AYOEkeglfYhit20I5Ciu"
       },
@@ -4843,6 +4879,24 @@
     },
     {
       "album": {
+        "name": "Gospel Music Changed My Life",
+        "url": "https://open.spotify.com/album/2Wzln30Vd0PbmmLawqof8u"
+      },
+      "artists": [
+        {
+          "name": "Charles Jenkins",
+          "url": "https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242770,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/2WS7AJ9C5YVvaBRP9VFdDc"
+    },
+    {
+      "album": {
         "name": "Something About The Name Jesus (feat. Lewis Sky & Rance Allen)",
         "url": "https://open.spotify.com/album/0eY86V1qRQIaCdlOi3c7Xt"
       },
@@ -4976,6 +5030,24 @@
       "duration_ms": 166963,
       "name": "Speak To Me",
       "url": "https://open.spotify.com/track/0CZmy9ctYRi2Ux5uFLGqSr"
+    },
+    {
+      "album": {
+        "name": "Speak Your Name",
+        "url": "https://open.spotify.com/album/2cidAYdXd5N47PfrCKmMTe"
+      },
+      "artists": [
+        {
+          "name": "Anthony Brown & group therAPy",
+          "url": "https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233409,
+      "name": "Speak Your Name - Radio Version",
+      "url": "https://open.spotify.com/track/1hkE2Z4cKoHraPgJjYynHG"
     },
     {
       "album": {
@@ -5662,7 +5734,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 234328,
       "name": "Vans X Adidas",
       "url": "https://open.spotify.com/track/0iKldjsTD0Z7eNZub4PAf5"
@@ -6158,7 +6230,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 183098,
       "name": "World On Fire (feat. Ryan Avery)",
       "url": "https://open.spotify.com/track/5prMdiyfZQz4mpusWW8HNy"

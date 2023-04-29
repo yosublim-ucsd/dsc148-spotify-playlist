@@ -467,6 +467,28 @@
     },
     {
       "album": {
+        "name": "Bad Habits",
+        "url": "https://open.spotify.com/album/2PHZo9XEoXtXH04JiY4Qsc"
+      },
+      "artists": [
+        {
+          "name": "Scott Bradlee's Postmodern Jukebox",
+          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
+        },
+        {
+          "name": "Ashley Campbell",
+          "url": "https://open.spotify.com/artist/49mvmawPDTzmEaEPY5z0ew"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250667,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/10uxiQ0BCHOmUgnkSF5MgN"
+    },
+    {
+      "album": {
         "name": "Bad Man (Kordhell Remix)",
         "url": "https://open.spotify.com/album/5Wba2K5Jx1RopwbFp07GRE"
       },
@@ -544,6 +566,28 @@
       "duration_ms": 555386,
       "name": "Beautiful Black Eyes",
       "url": "https://open.spotify.com/track/7aN0EpKfV5J4IJJi0WCna0"
+    },
+    {
+      "album": {
+        "name": "Beggin'",
+        "url": "https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183397,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz"
     },
     {
       "album": {
@@ -704,7 +748,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 169906,
       "name": "Blood Ocean",
       "url": "https://open.spotify.com/track/0mTMA4DszJEuviUhbUxfKf"
@@ -776,7 +820,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 145312,
       "name": "California",
       "url": "https://open.spotify.com/track/2tP1TRZs1sMhnS0WA3xVdo"
@@ -982,7 +1026,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 264026,
       "name": "Continue as a Guest",
       "url": "https://open.spotify.com/track/5PbPvcgxCZF677hZEVbxWM"
@@ -1026,7 +1070,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 396564,
       "name": "Cult of Personality - Re-Recorded - Slowed",
       "url": "https://open.spotify.com/track/6ZFJTLRVmMLP0yuv5SvvyP"
@@ -1044,7 +1088,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 237912,
       "name": "Cult of Personality - Re-Recorded - Sped Up",
       "url": "https://open.spotify.com/track/0eNAwfluEGtgbdURTceEtx"
@@ -2088,7 +2132,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 215593,
       "name": "Hill Billy",
       "url": "https://open.spotify.com/track/6cLtxcSqxHInbrgT1vobQT"
@@ -2432,7 +2476,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 144000,
       "name": "JUMPIN",
       "url": "https://open.spotify.com/track/0qLrNIdgLhNw2sBEGqq1mY"
@@ -2524,7 +2568,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 452000,
       "name": "Konzertst\u00fcck in F Minor, Op. 79: Adagio - Tempo di marcia - Pi\u00f9 mosso - Presto giocoso",
       "url": "https://open.spotify.com/track/0uMwn3iVIQ9DwwQU6wmLbS"
@@ -2546,6 +2590,24 @@
       "duration_ms": 328564,
       "name": "Land of Confusion (Metal Version)",
       "url": "https://open.spotify.com/track/1oe1dxFxBEVZK6YdPIShkn"
+    },
+    {
+      "album": {
+        "name": "Continue as a Guest",
+        "url": "https://open.spotify.com/album/4W7yoLgWewZv3rdhGjLB3B"
+      },
+      "artists": [
+        {
+          "name": "The New Pornographers",
+          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257733,
+      "name": "Last and Beautiful",
+      "url": "https://open.spotify.com/track/4FHM1Jv01RI8KbQq0eJkN6"
     },
     {
       "album": {
@@ -2762,7 +2824,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 241532,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/4vRlN2qaQbdtpL9caPqh5q"
@@ -3097,6 +3159,28 @@
     },
     {
       "album": {
+        "name": "Night In Milan",
+        "url": "https://open.spotify.com/album/5mjEC5XuALfFLI7XlpnAXL"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174220,
+      "name": "Misbehave",
+      "url": "https://open.spotify.com/track/4ehgjSurE3QV1A29IKjnlC"
+    },
+    {
+      "album": {
         "name": "Mota",
         "url": "https://open.spotify.com/album/7BCjqTxD74UnueM9ZGJiiG"
       },
@@ -3120,6 +3204,24 @@
       "duration_ms": 188614,
       "name": "Mota",
       "url": "https://open.spotify.com/track/32XtK3PD1oI0PXgrQPHgOM"
+    },
+    {
+      "album": {
+        "name": "The Dethalbum (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0NADZfQoyOerevGXzMqWru"
+      },
+      "artists": [
+        {
+          "name": "Metalocalypse: Dethklok",
+          "url": "https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213306,
+      "name": "Murdertrain a Comin'",
+      "url": "https://open.spotify.com/track/1o0y9me9vP1DQyrIrFuSa1"
     },
     {
       "album": {
@@ -3453,6 +3555,36 @@
     },
     {
       "album": {
+        "name": "Abbado: Schumann \u2013 Tchaikovsky",
+        "url": "https://open.spotify.com/album/2RTQqBU2yR9eSdYfpLheRW"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Alfred Brendel",
+          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 948461,
+      "name": "Piano Concerto in A Minor, Op. 54: 1. Allegro affettuoso",
+      "url": "https://open.spotify.com/track/0VbgxKHLT0AODoNG0e5rfy"
+    },
+    {
+      "album": {
         "name": "Piece Of Me (Remix)",
         "url": "https://open.spotify.com/album/3pIl6V36ZA1KOnZzrnzOJW"
       },
@@ -3472,6 +3604,28 @@
       "duration_ms": 277064,
       "name": "Piece Of Me (Remix)",
       "url": "https://open.spotify.com/track/0ox0UnhHQNvNPt1RbVqOWq"
+    },
+    {
+      "album": {
+        "name": "Please Take a Step Back",
+        "url": "https://open.spotify.com/album/0qcIsdY8AQS0XkdaSp75ag"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "GaryVee",
+          "url": "https://open.spotify.com/artist/1S2KSo7xLd5okhXnUkTy88"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205424,
+      "name": "Please Take a Step Back",
+      "url": "https://open.spotify.com/track/2MSa8kf0unz5ZYoDwKSvNn"
     },
     {
       "album": {
@@ -3716,7 +3870,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 258648,
       "name": "Rescued",
       "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
@@ -4032,7 +4186,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 183974,
       "name": "SPIDER WEB",
       "url": "https://open.spotify.com/track/77wA2WR0WudvUTzeBGYh3d"
@@ -4072,6 +4226,36 @@
       "duration_ms": 236466,
       "name": "Staffan (Var En Stalledr\u00e4ng)",
       "url": "https://open.spotify.com/track/5NH850HLE8EKalHHtbQj0i"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/4SUZUsDERmGX6pUtDSBmEK"
+      },
+      "artists": [
+        {
+          "name": "David Garfield",
+          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
+        },
+        {
+          "name": "Lilliana De Los Reyes",
+          "url": "https://open.spotify.com/artist/1DX1GXLfSp6njcWzDZSTRk"
+        },
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        },
+        {
+          "name": "David Sanborn",
+          "url": "https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359288,
+      "name": "Stay - JR Version",
+      "url": "https://open.spotify.com/track/1a7eacaVhQwDgibGLTDqsX"
     },
     {
       "album": {
@@ -4444,6 +4628,24 @@
       "duration_ms": 138057,
       "name": "The Jaguar God",
       "url": "https://open.spotify.com/track/7HR9sbOvvTrGiazxEpDdbn"
+    },
+    {
+      "album": {
+        "name": "The JoPlaysViolin Poop Song",
+        "url": "https://open.spotify.com/album/24jgH4R0XV4h86zjcVx0iY"
+      },
+      "artists": [
+        {
+          "name": "The Odd Man Who Sings About Poop, Puke and Pee",
+          "url": "https://open.spotify.com/artist/7zM4smYl6oC7yMLzfpK7I4"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111452,
+      "name": "The JoPlaysViolin Poop Song",
+      "url": "https://open.spotify.com/track/1KT399H7thJBjZaE5OH9ne"
     },
     {
       "album": {
@@ -4881,6 +5083,28 @@
     },
     {
       "album": {
+        "name": "VOID",
+        "url": "https://open.spotify.com/album/1aouMKjJAa4vMHngy0Zt3p"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        },
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206618,
+      "name": "VOID - Sped Up Version",
+      "url": "https://open.spotify.com/track/0KpU1OoP5ddAJago8RDU7k"
+    },
+    {
+      "album": {
         "name": "Walk With Me",
         "url": "https://open.spotify.com/album/5E1hgax8y4HNmdqgTz0zUD"
       },
@@ -5214,7 +5438,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 249677,
       "name": "You Only Die Once (feat. Snoop Dogg)",
       "url": "https://open.spotify.com/track/1zSROLwDPEvO58gt28VKfW"

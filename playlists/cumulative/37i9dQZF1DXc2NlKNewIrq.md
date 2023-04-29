@@ -4,7 +4,7 @@
 
 > Dive in to the Ambient of the 1980s.
 
-90 songs - 8 hr 36 min
+91 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [FEET](https://open.spotify.com/track/2XBXn7yluQZ6bFReesUjrt) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 6:13 | 2021-12-23 |  |
 | [Finally II](https://open.spotify.com/track/1WtvDfy0K96R0vnJPD21Gi) | [Pieter Nooten And Michael Brook](https://open.spotify.com/artist/1AhA5UAPUefljVYKupe1xp) | [Sleeps with the Fishes](https://open.spotify.com/album/3dtF7JTVFodlTm83YWcLYS) | 1:53 | 2021-12-23 |  |
 | [Flux \(A Big, Bright, Colourful World\)](https://open.spotify.com/track/0Zb7JYBY19QVnhH0h1paLG) | [David Sylvian & Holger Czukay](https://open.spotify.com/artist/26GDS2n5mUuLoIJPJtiNU7) | [Plight & Premonition Flux & Mutability](https://open.spotify.com/album/3UYuOW8AdhGr2LLAlpj8bN) | 16:55 | 2021-12-23 | 2022-07-29 |
-| [Flux \(A Big, Bright, Colourful World\)](https://open.spotify.com/track/63UbIBRjfi8273JzExI9Mk) | [David Sylvian & Holger Czukay](https://open.spotify.com/artist/26GDS2n5mUuLoIJPJtiNU7) | [Plight & Premonition Flux & Mutability](https://open.spotify.com/album/6iiBcOISDBWY0J1n3jNcRP) | 16:55 | 2022-06-14 |  |
+| [Flux \(A Big, Bright, Colourful World\)](https://open.spotify.com/track/4LUvsUCGIqyKXIEQIsvgsl) | [David Sylvian & Holger Czukay](https://open.spotify.com/artist/26GDS2n5mUuLoIJPJtiNU7) | [Plight & Premonition Flux & Mutability](https://open.spotify.com/album/51e9U6NoYboyOSzPOEIoos) | 16:55 | 2022-12-30 |  |
+| [Flux \(A Big, Bright, Colourful World\)](https://open.spotify.com/track/63UbIBRjfi8273JzExI9Mk) | [David Sylvian & Holger Czukay](https://open.spotify.com/artist/26GDS2n5mUuLoIJPJtiNU7) | [Plight & Premonition Flux & Mutability](https://open.spotify.com/album/6iiBcOISDBWY0J1n3jNcRP) | 16:55 | 2022-06-14 | 2023-04-29 |
 | [Four Paths](https://open.spotify.com/track/4FelvwNQdtIoO8lxOEdiai) | [K\. Leimer](https://open.spotify.com/artist/5m1jRZQE4BjLrFrV33jIql) | [Land of Look Behind \(Remastered + Expanded\)](https://open.spotify.com/album/5PfXgN1QUM9hpwdyyDeB5N) | 2:53 | 2021-12-23 |  |
 | [Golden Cloud Layers](https://open.spotify.com/track/426vkEldQjsWIMCEx26Wee) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [The Space Between](https://open.spotify.com/album/4nsIXN8ladhBrdhXHeye51) | 6:36 | 2022-06-14 |  |
 | [Golden Cloud Layers](https://open.spotify.com/track/46doTykO7orQMvEZg58BCE) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [The Space Between](https://open.spotify.com/album/7JO8XrLsnzmn6cBP5kyMUH) | 6:36 | 2021-12-23 | 2022-07-29 |

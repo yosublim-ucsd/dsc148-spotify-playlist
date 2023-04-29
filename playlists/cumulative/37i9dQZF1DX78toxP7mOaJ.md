@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: Friko \| Artwork: Jim Klok
 
-908 songs - 2 day 1 hr 31 min
+910 songs - 2 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,8 @@
 | [Crawling](https://open.spotify.com/track/0P4A7IE22FzgcerZuf0fTs) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Raw Emotion](https://open.spotify.com/album/5giGovo1IyngRkyi58nxtY) | 2:44 | 2022-06-29 | 2022-12-18 |
 | [Crawling](https://open.spotify.com/track/3uXRPo8BHWB3ZJIfL4PrgB) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Soft Slam](https://open.spotify.com/album/6qexqy400QLAyDIu8Cf5Fe) | 2:44 | 2022-11-30 | 2022-12-19 |
 | [Crawling](https://open.spotify.com/track/7q9CCkU2CpUodkMx02V11R) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Raw Emotion](https://open.spotify.com/album/5Xfy7lIiqneDoEf3jEQwQY) | 2:44 | 2022-11-30 | 2023-01-12 |
-| [Crimson to Chrome](https://open.spotify.com/track/7Glc8vWNMAozw6DDK9KMm7) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Crimson to Chrome](https://open.spotify.com/album/2QzqfzIEOEOsT5edrAyniD) | 3:28 | 2023-03-22 |  |
+| [Crimson to Chrome](https://open.spotify.com/track/51z0dKznDBCOYTumpGJXoj) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Crimson to Chrome](https://open.spotify.com/album/4AxFhcAdZ2mZQsijvKpcOr) | 3:28 | 2023-04-26 |  |
+| [Crimson to Chrome](https://open.spotify.com/track/7Glc8vWNMAozw6DDK9KMm7) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Crimson to Chrome](https://open.spotify.com/album/2QzqfzIEOEOsT5edrAyniD) | 3:28 | 2023-03-22 | 2023-04-29 |
 | [Crocodile Tears](https://open.spotify.com/track/1Ogx9hdaApNyMTDLIYLh4L) | [Baseball Game](https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK) | [Crocodile Tears](https://open.spotify.com/album/50z98bFMiIfpH5ZoTfhTTG) | 4:03 | 2022-03-30 | 2022-06-30 |
 | [Crocodile Tears](https://open.spotify.com/track/6m1VlQPcjfEEBdWniFuhI7) | [Baseball Game](https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK) | [Crocodile Tears](https://open.spotify.com/album/7n0RbDSBuZtgSV4V7pPUWQ) | 4:03 | 2022-11-30 | 2023-01-12 |
 | [Crumbling](https://open.spotify.com/track/2EJgEVwGWA0tvt3xgDUAOh) | [Sign Language](https://open.spotify.com/artist/3KdIx1AzUI5DQCazdl4yKg) | [Crumbling](https://open.spotify.com/album/5k67HhKmzB4FrsIk7PUkzy) | 3:13 | 2023-04-12 |  |
@@ -502,7 +503,8 @@
 | [Long, Long Road](https://open.spotify.com/track/6DyB0Dyay5wmihQMR5BR1B) | [The Mease](https://open.spotify.com/artist/7ljqSAWy2NRWgBtBHTgHMy) | [Long, Long Road](https://open.spotify.com/album/1wwOT7p7c9ccs63kf7PAct) | 3:06 | 2022-09-14 | 2022-12-01 |
 | [Look Back](https://open.spotify.com/track/5xcuHR24FJg5rcnFHEYz85) | [Opal Skies](https://open.spotify.com/artist/6XQGAZR5GyGEd9b6Jhzzn5) | [Look Back](https://open.spotify.com/album/7EoB7ytstKsiutihjTGeLM) | 3:44 | 2021-12-01 | 2022-01-20 |
 | [Lose My Head](https://open.spotify.com/track/5BVU00dNS7omvWFfOFmV52) | [Little Dume](https://open.spotify.com/artist/0FNLTSzwVeV9mcsOYSCVbp) | [Lose My Head](https://open.spotify.com/album/2TlqNmrasZ9OV3qigvsIxy) | 3:45 | 2022-07-27 | 2022-10-06 |
-| [Lose the Shoes](https://open.spotify.com/track/2jXhuA9SU1NvrNzci2kdSe) | [Holm](https://open.spotify.com/artist/5AiyVqvMHyMNysmAYdo7ZQ) | [Lose the Shoes](https://open.spotify.com/album/4vJMQUOUCJX3AWUm2NUCnq) | 2:31 | 2023-04-26 |  |
+| [Lose the Shoes](https://open.spotify.com/track/2jXhuA9SU1NvrNzci2kdSe) | [Holm](https://open.spotify.com/artist/5AiyVqvMHyMNysmAYdo7ZQ) | [Lose the Shoes](https://open.spotify.com/album/4vJMQUOUCJX3AWUm2NUCnq) | 2:31 | 2023-04-26 | 2023-04-29 |
+| [Lose the Shoes](https://open.spotify.com/track/5VKvzYYYR0sFhBbjZgcugi) | [Holm](https://open.spotify.com/artist/5AiyVqvMHyMNysmAYdo7ZQ) | [Lose the Shoes](https://open.spotify.com/album/7EQCC4jW26E24NkReakwv3) | 2:31 | 2023-04-26 |  |
 | [Loser](https://open.spotify.com/track/3Owt7XwR5mvtLbfFdMdbj9) | [Light Grey](https://open.spotify.com/artist/7hc1azqwLVlCwtE6acW1mZ) | [Loser](https://open.spotify.com/album/3fl1PTS9pEXnTMTDWI8k50) | 3:02 | 2022-10-19 | 2022-12-01 |
 | [Lost Control](https://open.spotify.com/track/0Ip6tIOjiMgzLZha4vZH8s) | [Benjamin Carter](https://open.spotify.com/artist/2mN6M9Kde408WNk0YrHnQn) | [Lost Control](https://open.spotify.com/album/7uyZW8DRosI4AvQJjZ9QP6) | 3:17 | 2022-05-04 | 2022-06-30 |
 | [Lost My Zen](https://open.spotify.com/track/03qyZ5gs13lPMNWgaC86ZB) | [Magg Dylan](https://open.spotify.com/artist/5aICAPSzhYhtN8v3F1UwT1) | [Lost My Zen](https://open.spotify.com/album/4gdT48WAFO1zyts5GIOGkJ) | 3:26 | 2022-05-25 | 2022-06-09 |

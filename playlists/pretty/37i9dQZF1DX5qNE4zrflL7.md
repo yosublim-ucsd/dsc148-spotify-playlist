@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qNE4zrflL7.md) - [plain]
 
 > The songs that influenced everything that has happened since\. Cover: Jimi Hendrix
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,570 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,652 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qNE4zrflL7.md) - [plain]
 | 43 | [I Want Candy](https://open.spotify.com/track/7JoPxqrnT3eq02AnflBSiN) | [The Strangeloves](https://open.spotify.com/artist/4NMkJqM1SsQP3gk81cqk6K) | [I Want Candy: The Best Of The Strangeloves](https://open.spotify.com/album/1NnmPhfPVSpqCqP6iJ30Vc) | 2:57 |
 | 44 | [Psychotic Reaction](https://open.spotify.com/track/1Tf9p4yyFuSDZpmnniYgNv) | [Positively 13 O'Clock](https://open.spotify.com/artist/6Xvlz7u3wO75CxC0m4VOwf) | [60s Garage Rock Nuggets](https://open.spotify.com/album/0OAE97mnMWohfx5OTjO5Vo) | 2:01 |
 | 45 | [Light My Fire](https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 7:09 |
-| 46 | [I'm Five Years Ahead of My Time](https://open.spotify.com/track/15g66KeELSbN00rFTweCj8) | [The Third Bardo](https://open.spotify.com/artist/6SdO3dLXggmHcby5EkO06o) | [I'm Five Years Ahead of My Time](https://open.spotify.com/album/4m178B3EPDzMyOrrJvFS7u) | 2:16 |
+| 46 | [I'm Five Years Ahead of My Time](https://open.spotify.com/track/7tdPaJEmAVKrqMQh1YtlP3) | [The Third Bardo](https://open.spotify.com/artist/6SdO3dLXggmHcby5EkO06o) | [I'm Five Years Ahead of My Time](https://open.spotify.com/album/5KPFfApr6yPp50whO9kYV9) | 2:16 |
 | 47 | [Turn! Turn! Turn! \(To Everything There Is a Season\)](https://open.spotify.com/track/5qBqBdfTEIWJwAS0Jm2F5R) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Turn! Turn! Turn!](https://open.spotify.com/album/3v0i9qyogPoQEQj2bG6Fmn) | 3:49 |
 | 48 | [Can't Find My Way Home](https://open.spotify.com/track/3VyJGPYr2DF9gdBNosSao4) | [Blind Faith](https://open.spotify.com/artist/5GUVj2b1lJ4DolQyHlzyaO) | [Blind Faith](https://open.spotify.com/album/6xmPL0CddWADJTJkJZkrl2) | 3:16 |
 | 49 | [Debora](https://open.spotify.com/track/5ADiy8c2ir9ewoKnsGWrYs) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Get It On: The Collection](https://open.spotify.com/album/3NvakF8DkALyWdzQabFo1S) | 3:07 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qNE4zrflL7.md) - [plain]
 | 56 | [Waitin' Around to Die](https://open.spotify.com/track/5PHkCHXokZY9u29qLHlgGV) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [For the Sake of the Song](https://open.spotify.com/album/197FVfctDJPLLqTI48OJBs) | 2:25 |
 | 57 | [A Whiter Shade of Pale \- Original Single Version](https://open.spotify.com/track/7DsQgIwg23u9gooCxkRTu3) | [Procol Harum](https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C) | [Hits'n'Flips](https://open.spotify.com/album/03yc1eq0YoS5Bgt6KSY9Wg) | 4:08 |
 | 58 | [Telstar](https://open.spotify.com/track/2rtaHm5SkgFzVa5Gr8oTW6) | [The Tornados](https://open.spotify.com/artist/3SblTU11ZKURsHhWGwPpt9) | [Telstar](https://open.spotify.com/album/75gluO7f8LULnkoHouCwqe) | 3:15 |
-| 59 | [Surfin' Bird](https://open.spotify.com/track/2Mik4RyMTMGXscX9QGiDoX) | [The Trashmen](https://open.spotify.com/artist/5QEA3sofVt5QckQA6QX2nN) | [Surfin' Bird](https://open.spotify.com/album/0Jd1JEB052GzXxma58o1nX) | 2:23 |
+| 59 | [Surfin' Bird](https://open.spotify.com/track/091roQPTeXtncbG9qXvvXK) | [The Trashmen](https://open.spotify.com/artist/5QEA3sofVt5QckQA6QX2nN) | [Surfin' Bird](https://open.spotify.com/album/3iV70bItwMPFyhfFFMRMtp) | 2:24 |
 | 60 | [Johnny Remember Me](https://open.spotify.com/track/1PmLQePsJbx0n4JjX9RFUj) | [John Leyton](https://open.spotify.com/artist/7oht1HPKaMDnuALYWZHgtV) | [Presenting John Leyton](https://open.spotify.com/album/0q4lFrlaWyQBgiWGiTAmDI) | 2:40 |
 | 61 | [Season of the Witch](https://open.spotify.com/track/6MOEQCtAWNSCmvg3SFKF5y) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [Sunshine Superman](https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G) | 4:53 |
 | 62 | [Shifting Sands](https://open.spotify.com/track/3jBCwLVmmfKUH8321N4bdd) | [The West Coast Pop Art Experimental Band](https://open.spotify.com/artist/2z4eiJkDaXYCR9kv2UuSgz) | [Part One](https://open.spotify.com/album/36qtMdwzo4s7lisavSgorV) | 3:54 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qNE4zrflL7.md) - [plain]
 | 79 | [The Hedgehog's Song \- 2010 Remaster](https://open.spotify.com/track/7IyDLBtIXS2EKZEt8trS03) | [The Incredible String Band](https://open.spotify.com/artist/0tQzBYPjAardhWpGkqVdNW) | [The 5000 Spirits Or The Layers Of The Onion](https://open.spotify.com/album/3htu0UsV5JuouSfugMHNgS) | 3:27 |
 | 80 | [Philosophy of the World](https://open.spotify.com/track/2WhRJwrsy57H5Mm1P3lykJ) | [The Shaggs](https://open.spotify.com/artist/5ixdD9E7P9r51AOcSInQbl) | [Philosophy of the World](https://open.spotify.com/album/0TzI1YcMAQVdQ4yUZuy7fA) | 2:57 |
 
-Snapshot ID: `MCwxNGYwMjQ4YjJkODFhM2E2M2U2MmFjYWNhMDZlNmM5YWRjYzljNTMx`
+Snapshot ID: `MCxiMDJjZDI5ODQ3MzMxZmQ2MzEyZWY5M2RmYWFiMzVmYWE0MDI0MmE5`

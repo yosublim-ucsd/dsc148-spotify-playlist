@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ItcQfwbKZJ.md) - [plain]
 
 > From Fela Kuti to Antibalas, enjoy a collection of timeless Afrobeat music!
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,894 likes - 49 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,983 likes - 49 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ItcQfwbKZJ.md) - [plain]
 | 43 | [The Quest](https://open.spotify.com/track/5a42YtdB4TY0yzwurELbPV) | [Afro Cult Foundation](https://open.spotify.com/artist/53zndoyLuGS5qYhiDDLxOG) | [The Quest](https://open.spotify.com/album/2Ybl0TNDbTtvgMDfh1Eykw) | 8:12 |
 | 44 | [Enjoy Yourself](https://open.spotify.com/track/7BgOdtjbfgvip4BJRn9NmI) | [Sahara All Stars Band Jos.](https://open.spotify.com/artist/11E58RQVNMMzzBWpi8J2rW) | [Enjoy Yourself](https://open.spotify.com/album/7gypen6SPcpqjxwc7CAoJA) | 6:02 |
 | 45 | [Kana Sarakabö](https://open.spotify.com/track/3QOllXZu7hOPu3Vv29XVZG) | [Bembeya Jazz National](https://open.spotify.com/artist/1OGuNbASgvINcHfDtrDnj3) | [Discothèque 76](https://open.spotify.com/album/67OQuCcp8yfLRKa49asN8i) | 6:01 |
-| 46 | [Africa Is Home](https://open.spotify.com/track/2ZOzTk3mHHYCktEFIIMPC9) | [Joe Mensah](https://open.spotify.com/artist/6nXxAcUehTGROEbFtHlmFf) | [Cry Laughter](https://open.spotify.com/album/0RRbMJomlvcqq74zyFg7JI) | 8:56 |
+| 46 | [Africa Is Home](https://open.spotify.com/track/6dhk1SvZFRECnpAs1D7a4o) | [Joe Mensah](https://open.spotify.com/artist/6nXxAcUehTGROEbFtHlmFf) | [Cry Laughter](https://open.spotify.com/album/7gErJQ1bmcxZdALOof56Yk) | 8:56 |
 | 47 | [Alabeke](https://open.spotify.com/track/51WXp19Xrhqk36KyqxWYgu) | [Don Satch](https://open.spotify.com/artist/0DG4kQQrHB5rWwz1cQ0Rqu), [and His Atomic Dance Band of Aba](https://open.spotify.com/artist/3zSsXf9i0QRMEErGzer7Di) | [Alabeke](https://open.spotify.com/album/5Lq1mbNk3UoiYk0TVX0Zum) | 4:36 |
 | 48 | [Enwan](https://open.spotify.com/track/616eSjwX3yd5HhtPNCsjCI) | [The Anansa Professionals](https://open.spotify.com/artist/1qvjh1IbEqCRvjkXrd6vgr) | [Enwan](https://open.spotify.com/album/1ZsHa3jQnKwGZOnHHmw70L) | 5:31 |
 | 49 | [No Wrong Show](https://open.spotify.com/track/1lnHRzrx8GLtkPWEQRebWW) | [Thony Shorby Nyenwi](https://open.spotify.com/artist/3HcwWpnDRCp1zhnPRPDQhd) | [Afro Baby: The Evolution of the Afro\-Sound in Nigeria 1970\-79](https://open.spotify.com/album/3MRCjf7Np4Jn3K4bnNv10a) | 5:43 |
 
-Snapshot ID: `MCxlNjBjYzdhMjY5OWM1Njk0ZmIzOTVlNTE4NjE3NjNjOTRjNTc0MzNk`
+Snapshot ID: `MCw1NGM2YzAzNTViZDgzNjBkMzRkMTNkMGIzMzBlNjgyZTcyZDgwYWQ2`

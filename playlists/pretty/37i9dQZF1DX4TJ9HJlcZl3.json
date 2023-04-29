@@ -1,29 +1,13 @@
 {
   "description": "Still yachting. Cover: Young Gun Silver Fox",
-  "num_followers": 6545,
+  "num_followers": 6578,
   "original_name": "Yacht Rock Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGY4YjljNzQ0YThhYTIzY2Y2MzllZTViN2RhNzgyOWY4NzU4NzYy",
+  "snapshot_id": "MCw1MGEzMzM5Yjc1OTE2ZmIyMTYwZTNjYjUzZTc3YjVjZDFhMWU0MDAw",
   "tracks": [
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Waffle House",
-        "url": "https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 145440,
-      "name": "Waffle House",
-      "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
-    },
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
@@ -47,6 +31,22 @@
       "duration_ms": 171216,
       "name": "Strawberry Soju",
       "url": "https://open.spotify.com/track/3Naqjihn2GJjOBZNeenivP"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Waffle House",
+        "url": "https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 145440,
+      "name": "Waffle House",
+      "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
     },
     {
       "added_at": "2023-02-17 05:01:00",
@@ -79,6 +79,22 @@
       "duration_ms": 159200,
       "name": "Young Hearts",
       "url": "https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Le Parapluie",
+        "url": "https://open.spotify.com/album/65DVyR9E39jseLEfXe1gaR"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 247789,
+      "name": "Le Parapluie",
+      "url": "https://open.spotify.com/track/08KYx5dQxdD33irLEt8WQH"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -416,7 +432,7 @@
       "added_at": "2022-10-21 04:01:00",
       "album": {
         "name": "Let The Morning Come",
-        "url": "https://open.spotify.com/album/5RnpvaRRVTovVqy099c0ve"
+        "url": "https://open.spotify.com/album/64BdSNPkLVXReRgCVNe29H"
       },
       "artists": [
         {
@@ -426,7 +442,7 @@
       ],
       "duration_ms": 300506,
       "name": "I Don't Think We Should Wait",
-      "url": "https://open.spotify.com/track/59PWRSbpBHbeI5pw6llR5v"
+      "url": "https://open.spotify.com/track/4V9DevlYomf95xOhfYqBlI"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -819,22 +835,6 @@
       "duration_ms": 248615,
       "name": "I Could Use A Miracle",
       "url": "https://open.spotify.com/track/1GQjRQXL6YcxLhlNAuOkiJ"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
-        "name": "Earthtones",
-        "url": "https://open.spotify.com/album/1K3XPBfAfPO7jJhqTq4xME"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 285906,
-      "name": "Everything To Everyone",
-      "url": "https://open.spotify.com/track/50EIC4ElPCZgtyzwlmdNxj"
     },
     {
       "added_at": "2022-10-21 04:01:00",

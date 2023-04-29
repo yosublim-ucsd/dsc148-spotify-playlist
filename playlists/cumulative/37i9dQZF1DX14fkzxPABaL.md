@@ -4,7 +4,7 @@
 
 > La música que te acompaña en el amor\. Foto: Maria Becerra
 
-178 songs - 9 hr 45 min
+179 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Carretera](https://open.spotify.com/track/2S8eZJU7eyueCMQGY6RHE6) | [Bianca Cristina](https://open.spotify.com/artist/7je08KheHXNdNlIu3EXosb) | [Carretera](https://open.spotify.com/album/1xXmuLEEGybfGE5tlt7UvV) | 3:38 | 2022-01-14 | 2022-07-16 |
 | [Castillos de arena](https://open.spotify.com/track/7njQTsT1xvKVDE0jPJAvrU) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Castillos de arena](https://open.spotify.com/album/0iNZh2qDkWIwcIikCMAeMq) | 4:12 | 2022-01-14 |  |
 | [Chica Ideal](https://open.spotify.com/track/21N4Buj4xsyLb218lYle61) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Chica Ideal](https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct) | 3:03 | 2022-01-14 | 2022-07-23 |
+| [Cobarde \(cumbialada\)](https://open.spotify.com/track/3HvegDkSYo7I9KFH7E4us2) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Cobarde \(cumbialada\)](https://open.spotify.com/album/5JSQZT62fDd4znJwwqPZeQ) | 3:09 | 2023-04-28 |  |
 | [Como Lo Hice Yo](https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Como Lo Hice Yo](https://open.spotify.com/album/1MuEscvBJb4mFRS2wdffug) | 2:57 | 2022-04-15 |  |
 | [Como Yo Te Veo](https://open.spotify.com/track/5N5YIsTtlXI3CyInlykZwa) | [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz) | [Como Yo Te Veo](https://open.spotify.com/album/3v3EhtXPlrA7fb3Vtgo167) | 3:10 | 2022-11-28 |  |
 | [Con la Falta Que Me Haces](https://open.spotify.com/track/04HbA6XyuQ5MduWJUPmwiP) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Con la Falta Que Me Haces](https://open.spotify.com/album/6au2RlG5v26y1S5axAEmWw) | 2:44 | 2022-01-14 | 2022-07-29 |

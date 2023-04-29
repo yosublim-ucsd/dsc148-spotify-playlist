@@ -1,13 +1,49 @@
 {
-  "description": "New music breaking waves. Cover, Jean Deaux",
-  "num_followers": 89586,
+  "description": "New music breaking waves. Cover, Luh Tyler\n",
+  "num_followers": 89601,
   "original_name": "Ripple Effect",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGNhMzc1Y2YxMGM5ZGY3ZDIxZDI2ZTMzMmRhMTA5OWExOGRjZDEy",
+  "snapshot_id": "MCxjNDBlYWM2MmZlNTJhYjc0NTRmYjA4YTExYWQ4ZDIwYjIzNjU2Yjk2",
   "tracks": [
+    {
+      "added_at": "2023-04-28 07:43:40",
+      "album": {
+        "name": "Just Relax",
+        "url": "https://open.spotify.com/album/0Su9sgYg2FJNn6tamiu7Lc"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        }
+      ],
+      "duration_ms": 152213,
+      "name": "Just Relax",
+      "url": "https://open.spotify.com/track/4ZJ58LR9dwGJBFGC8RilBM"
+    },
+    {
+      "added_at": "2023-04-28 07:43:40",
+      "album": {
+        "name": "Check",
+        "url": "https://open.spotify.com/album/0oUW916No7iVMeYUYDENIk"
+      },
+      "artists": [
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 162056,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/17LsSRsnpOJ5910GtSixaC"
+    },
     {
       "added_at": "2023-04-15 09:31:23",
       "album": {
@@ -29,6 +65,62 @@
       "url": "https://open.spotify.com/track/5dRKpEQl3T67smpyWGD7D4"
     },
     {
+      "added_at": "2023-04-28 07:43:40",
+      "album": {
+        "name": "MESSY",
+        "url": "https://open.spotify.com/album/0Qdf4Ed05QWx8pMDMYRjnm"
+      },
+      "artists": [
+        {
+          "name": "HVN",
+          "url": "https://open.spotify.com/artist/61GrWHOtJOXpqQjibezT8i"
+        }
+      ],
+      "duration_ms": 135499,
+      "name": "MESSY",
+      "url": "https://open.spotify.com/track/3TlSPN33s03Tg89wS5EauK"
+    },
+    {
+      "added_at": "2023-04-28 07:43:40",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/6mOTpOg5zP6ieYLe9LBJ00"
+      },
+      "artists": [
+        {
+          "name": "Pote Baby",
+          "url": "https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj"
+        },
+        {
+          "name": "Ryan Palma",
+          "url": "https://open.spotify.com/artist/0ETu1snC8o5NZWmqxai370"
+        }
+      ],
+      "duration_ms": 140094,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/2Ngjdn5Y5MKv4dTa024SF7"
+    },
+    {
+      "added_at": "2023-04-15 09:31:23",
+      "album": {
+        "name": "Back In Office",
+        "url": "https://open.spotify.com/album/3ytxE6VpY5QAeqWQBeI4eg"
+      },
+      "artists": [
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        },
+        {
+          "name": "No I.D.",
+          "url": "https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH"
+        }
+      ],
+      "duration_ms": 173146,
+      "name": "Back In Office",
+      "url": "https://open.spotify.com/track/5rrtDWbFizKTZ7GcsHYHh7"
+    },
+    {
       "added_at": "2023-04-15 09:31:23",
       "album": {
         "name": "HALL OF FAME",
@@ -45,6 +137,74 @@
       "url": "https://open.spotify.com/track/1I9W17vDK31ZHAcLGHe4sR"
     },
     {
+      "added_at": "2023-04-28 07:43:40",
+      "album": {
+        "name": "Dirty Harry",
+        "url": "https://open.spotify.com/album/3FjGs7LQyf5kq7JIKqWKxr"
+      },
+      "artists": [
+        {
+          "name": "El Cousteau",
+          "url": "https://open.spotify.com/artist/6jas9NK79dEF6hU1LvmfHB"
+        }
+      ],
+      "duration_ms": 105750,
+      "name": "Oysters n' sparklin' water",
+      "url": "https://open.spotify.com/track/4oNy9UwKYH13qf1Ze4q2oy"
+    },
+    {
+      "added_at": "2023-04-28 07:43:40",
+      "album": {
+        "name": "Toxic Ish",
+        "url": "https://open.spotify.com/album/6wdCYDNMmP5C8cdePXGmWh"
+      },
+      "artists": [
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        }
+      ],
+      "duration_ms": 187103,
+      "name": "Toxic Ish",
+      "url": "https://open.spotify.com/track/13IyPWwTjRTWW62z6L349L"
+    },
+    {
+      "added_at": "2023-04-28 07:43:40",
+      "album": {
+        "name": "Pound Town (and Tay Keith)",
+        "url": "https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+        }
+      ],
+      "duration_ms": 129429,
+      "name": "Pound Town (and Tay Keith)",
+      "url": "https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3"
+    },
+    {
+      "added_at": "2023-04-28 07:43:40",
+      "album": {
+        "name": "Big 4",
+        "url": "https://open.spotify.com/album/0RqOURh1V2vMtyTyZ8XSWN"
+      },
+      "artists": [
+        {
+          "name": "Flau'jae",
+          "url": "https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC"
+        }
+      ],
+      "duration_ms": 135960,
+      "name": "Big 4",
+      "url": "https://open.spotify.com/track/2nRJZpii4iG0ed19Ogf7Ne"
+    },
+    {
       "added_at": "2023-04-15 09:31:23",
       "album": {
         "name": "B.N.B",
@@ -59,6 +219,42 @@
       "duration_ms": 125070,
       "name": "B.N.B",
       "url": "https://open.spotify.com/track/6hw99R0mfj4eNfZatyaePL"
+    },
+    {
+      "added_at": "2023-04-28 07:43:40",
+      "album": {
+        "name": "Highspeed",
+        "url": "https://open.spotify.com/album/40kJO5DgzChvmEKYNzwSLZ"
+      },
+      "artists": [
+        {
+          "name": "K Carbon",
+          "url": "https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y"
+        },
+        {
+          "name": "Aleza",
+          "url": "https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz"
+        }
+      ],
+      "duration_ms": 150314,
+      "name": "Highspeed",
+      "url": "https://open.spotify.com/track/38tNFrhOn3jDfL6DVgDSkA"
+    },
+    {
+      "added_at": "2023-04-28 07:43:40",
+      "album": {
+        "name": "MAKE A WISH",
+        "url": "https://open.spotify.com/album/1ZxGkAHb0BLB3BlGCQcOzr"
+      },
+      "artists": [
+        {
+          "name": "Kari Faux",
+          "url": "https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB"
+        }
+      ],
+      "duration_ms": 171032,
+      "name": "MAKE A WISH",
+      "url": "https://open.spotify.com/track/1r4vcPwDJMZ9pTEJ4iR4Fc"
     },
     {
       "added_at": "2023-04-15 09:31:23",
@@ -81,6 +277,74 @@
       "url": "https://open.spotify.com/track/1PNr877IPrPPuj4ANiberD"
     },
     {
+      "added_at": "2023-04-28 07:43:40",
+      "album": {
+        "name": "Stop Shop",
+        "url": "https://open.spotify.com/album/54LVPiWHcOFaIAvfgTlsHJ"
+      },
+      "artists": [
+        {
+          "name": "Butch Dawson",
+          "url": "https://open.spotify.com/artist/5OrGPqB2BSIc3I6ar90qIL"
+        }
+      ],
+      "duration_ms": 138094,
+      "name": "Stop Shop",
+      "url": "https://open.spotify.com/track/5yen8iLIsbC82CXuL6gefp"
+    },
+    {
+      "added_at": "2023-04-28 07:43:40",
+      "album": {
+        "name": "Stay Strapped (Freestyle)",
+        "url": "https://open.spotify.com/album/6bbEEALiA72SvJSdHwB7dl"
+      },
+      "artists": [
+        {
+          "name": "Young Crazy",
+          "url": "https://open.spotify.com/artist/0MkYqs9CaYOelt4rdnUGyv"
+        }
+      ],
+      "duration_ms": 189055,
+      "name": "Stay Strapped (Freestyle)",
+      "url": "https://open.spotify.com/track/7csR4532xtoUfTjseCGtx3"
+    },
+    {
+      "added_at": "2023-04-28 07:43:40",
+      "album": {
+        "name": "Acceptance",
+        "url": "https://open.spotify.com/album/4UQeISwHr20Fxmz6UiMT6E"
+      },
+      "artists": [
+        {
+          "name": "Young Deji",
+          "url": "https://open.spotify.com/artist/1t5tAYJj9NvTlAYjj7wXwX"
+        }
+      ],
+      "duration_ms": 159385,
+      "name": "Cocaina",
+      "url": "https://open.spotify.com/track/5ZIFTynXkVLyMtB0nGsrGZ"
+    },
+    {
+      "added_at": "2023-04-28 07:43:40",
+      "album": {
+        "name": "Demos.",
+        "url": "https://open.spotify.com/album/2D3ZXptZ2E56JqgZhk2DWC"
+      },
+      "artists": [
+        {
+          "name": "Hydra",
+          "url": "https://open.spotify.com/artist/04IZ5jHUHqhsKtfpOsbztY"
+        },
+        {
+          "name": "Kaylon Hallman",
+          "url": "https://open.spotify.com/artist/5Q9lWGP71AYQXq3DOeeE1l"
+        }
+      ],
+      "duration_ms": 158876,
+      "name": "Need It",
+      "url": "https://open.spotify.com/track/3ToKJRK12KPRqsdg8XvnkG"
+    },
+    {
       "added_at": "2023-04-15 09:31:23",
       "album": {
         "name": "Misty",
@@ -99,26 +363,6 @@
       "duration_ms": 218920,
       "name": "Misty",
       "url": "https://open.spotify.com/track/0KIOREGplwUG2IYkl2B7LW"
-    },
-    {
-      "added_at": "2023-04-15 09:31:23",
-      "album": {
-        "name": "Back In Office",
-        "url": "https://open.spotify.com/album/3ytxE6VpY5QAeqWQBeI4eg"
-      },
-      "artists": [
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        },
-        {
-          "name": "No I.D.",
-          "url": "https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH"
-        }
-      ],
-      "duration_ms": 173146,
-      "name": "Back In Office",
-      "url": "https://open.spotify.com/track/5rrtDWbFizKTZ7GcsHYHh7"
     },
     {
       "added_at": "2023-04-15 09:31:23",

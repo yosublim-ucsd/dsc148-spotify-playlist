@@ -876,10 +876,28 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 228620,
       "name": "Hypnotic Regression",
       "url": "https://open.spotify.com/track/0AIhZWdCh5A01W5ldiS6Z5"
+    },
+    {
+      "album": {
+        "name": "The New Life",
+        "url": "https://open.spotify.com/album/3x6T1vo4arlGrWZPNCD93N"
+      },
+      "artists": [
+        {
+          "name": "Girls Names",
+          "url": "https://open.spotify.com/artist/4UAxwzDV5PYB11huf5Shs3"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228620,
+      "name": "Hypnotic Regression",
+      "url": "https://open.spotify.com/track/2afI9K1WRY5Nd1CWzfmF4x"
     },
     {
       "album": {
@@ -1894,7 +1912,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 300800,
       "name": "Video Child",
       "url": "https://open.spotify.com/track/4kpRLUBWg4GSNlfmWuMil7"
@@ -1934,6 +1952,24 @@
       "duration_ms": 300800,
       "name": "Video Child",
       "url": "https://open.spotify.com/track/6XRJPmdCErAaOEraEuvsuQ"
+    },
+    {
+      "album": {
+        "name": "Away for All Time",
+        "url": "https://open.spotify.com/album/1daG4UOWDraQHk7Jidm2q1"
+      },
+      "artists": [
+        {
+          "name": "Many Voices Speak",
+          "url": "https://open.spotify.com/artist/58F5GqfOMje69JMa2LIHD6"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300800,
+      "name": "Video Child",
+      "url": "https://open.spotify.com/track/6fZg6RPktKWrtKNH57nDzX"
     },
     {
       "album": {

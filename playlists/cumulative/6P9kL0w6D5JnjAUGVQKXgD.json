@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 193103,
       "name": "Always",
       "url": "https://open.spotify.com/track/5poevcmYCOZ8uZQnUuOPxC"
@@ -2352,7 +2352,7 @@
       ],
       "date_added": "2021-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 168173,
       "name": "BDE (feat. slowthai)",
       "url": "https://open.spotify.com/track/3ed5gMzocnaLWCvljQdCwe"
@@ -2680,9 +2680,9 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-17",
+      "date_removed": null,
       "duration_ms": 168053,
-      "name": "Beg For You (feat. Rina Sawayama)",
+      "name": "Beg for You (feat. Rina Sawayama)",
       "url": "https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq"
     },
     {
@@ -2720,7 +2720,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 194761,
       "name": "Believer",
       "url": "https://open.spotify.com/track/1Ckah0ICBG4AoAY0x6LbSF"
@@ -2848,7 +2848,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 133855,
       "name": "Better",
       "url": "https://open.spotify.com/track/0QdjuCUA97rPLFj6MBoS82"
@@ -4364,7 +4364,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 191250,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/0LsR4TZXku2sMoFTwAivOw"
@@ -4632,7 +4632,7 @@
       ],
       "date_added": "2020-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 165047,
       "name": "Carefree (I Am A Star) - Rocky's Edit",
       "url": "https://open.spotify.com/track/4A31wEIskCxgRkwxp3NLJH"
@@ -5444,7 +5444,7 @@
       ],
       "date_added": "2020-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 150674,
       "name": "Cold",
       "url": "https://open.spotify.com/track/1XFonPPCY4FKTTgJg3B089"
@@ -6160,6 +6160,24 @@
       "duration_ms": 168767,
       "name": "Cubano",
       "url": "https://open.spotify.com/track/4f7zOPXtf4DKqAWgT3FD6x"
+    },
+    {
+      "album": {
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173123,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/4uqh9bualXNHXXwO2wPorc"
     },
     {
       "album": {
@@ -9676,7 +9694,7 @@
       ],
       "date_added": "2020-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 273684,
       "name": "Firestone",
       "url": "https://open.spotify.com/track/2sNvitW3TxiTeC9xT9f2ZZ"
@@ -10380,7 +10398,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 202306,
       "name": "Fun (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/6Zo3wgDE076K2AuiGZF3CS"
@@ -11032,6 +11050,28 @@
     {
       "album": {
         "name": "Goodbye",
+        "url": "https://open.spotify.com/album/6H2mF3DjvXwocyBP5tJkzP"
+      },
+      "artists": [
+        {
+          "name": "Deep Chills",
+          "url": "https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP"
+        },
+        {
+          "name": "Tilsen",
+          "url": "https://open.spotify.com/artist/2RgfDvNnwJPMLSUu6H3kuq"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163530,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/4AIzbOb1gANvhmvL07UXxd"
+    },
+    {
+      "album": {
+        "name": "Goodbye",
         "url": "https://open.spotify.com/album/2wUKHXscUlHKW0tEVVYqRs"
       },
       "artists": [
@@ -11368,7 +11408,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-17",
+      "date_removed": null,
       "duration_ms": 170510,
       "name": "Hands Up",
       "url": "https://open.spotify.com/track/25qhCdtNV7jCiAbcxFxZgx"
@@ -12194,7 +12234,7 @@
       ],
       "date_added": "2020-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
@@ -13198,7 +13238,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 156000,
       "name": "I Feel Good (R3HAB Remix)",
       "url": "https://open.spotify.com/track/1DV04K6TT3Lx2N3dJuRBTi"
@@ -13656,7 +13696,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-17",
+      "date_removed": null,
       "duration_ms": 148750,
       "name": "I Wouldn't Know",
       "url": "https://open.spotify.com/track/2UobzZv0qAgAsz01YGHVxg"
@@ -14680,7 +14720,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 177600,
       "name": "Into The Wild",
       "url": "https://open.spotify.com/track/0WieTfhf6N0alEhBpSiOtd"
@@ -14948,7 +14988,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 296226,
       "name": "Jalisco",
       "url": "https://open.spotify.com/track/0xaAxijxtuzHb67Ai1kouN"
@@ -15638,7 +15678,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 181436,
       "name": "Know Your Worth",
       "url": "https://open.spotify.com/track/0TrPqhAMoaKUFLR7iYDokf"
@@ -17512,7 +17552,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 136000,
       "name": "Love We Lost (with R3HAB)",
       "url": "https://open.spotify.com/track/2ayyzfxamdoNRDI0au3wva"
@@ -18666,7 +18706,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 140698,
       "name": "More Than Friends",
       "url": "https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD"
@@ -19368,7 +19408,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 175500,
       "name": "Never Been Better",
       "url": "https://open.spotify.com/track/0EVbZWxLOZT1siPMzEGNwc"
@@ -19386,7 +19426,7 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-04",
+      "date_removed": null,
       "duration_ms": 170476,
       "name": "Never Change",
       "url": "https://open.spotify.com/track/1SG6r7daFfpzPcU15luVqB"
@@ -22332,7 +22372,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 179032,
       "name": "Problems",
       "url": "https://open.spotify.com/track/2dyrLrVopYKGc3H9oOYSmZ"
@@ -23512,7 +23552,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 170740,
       "name": "Rollerblade",
       "url": "https://open.spotify.com/track/1hz0SWhLPWKqpGiEBnWFpm"
@@ -24254,7 +24294,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 192786,
       "name": "Say My Name - Sidney Samson Remix",
       "url": "https://open.spotify.com/track/0aVgtoMX4a2Av4l4WL56ll"
@@ -25180,7 +25220,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-04",
+      "date_removed": null,
       "duration_ms": 184285,
       "name": "Sing It",
       "url": "https://open.spotify.com/track/3g5uTRDCdcUgylKH4wmkTW"
@@ -25898,7 +25938,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-04",
+      "date_removed": null,
       "duration_ms": 232211,
       "name": "Soul Sacrifice",
       "url": "https://open.spotify.com/track/01fVbxyW9y2oKdXvg56uE5"
@@ -27166,7 +27206,7 @@
       ],
       "date_added": "2021-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 183866,
       "name": "Sweet Side (feat. Caitlyn Scarlett)",
       "url": "https://open.spotify.com/track/6YGq0IfrGMx4KsF0GnFpP3"
@@ -28222,7 +28262,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 183414,
       "name": "The Ocean (feat. Shy Martin)",
       "url": "https://open.spotify.com/track/2CPqh63wRVscbceKcPxwvv"
@@ -28838,6 +28878,32 @@
       "duration_ms": 263373,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/11KJSRSgaDxqydKYiD2Jew"
+    },
+    {
+      "album": {
+        "name": "Too Good To Be True",
+        "url": "https://open.spotify.com/album/7v73acij4sg4HSBfyZOo6n"
+      },
+      "artists": [
+        {
+          "name": "REA",
+          "url": "https://open.spotify.com/artist/4lkrwEmfTJBDsrilxRxCjk"
+        },
+        {
+          "name": "Kevin Ocean",
+          "url": "https://open.spotify.com/artist/3Ok1AieWk4YBRCjjBKzVVT"
+        },
+        {
+          "name": "JAIKO",
+          "url": "https://open.spotify.com/artist/0Z18DUpbXTOfz077PDtmhT"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Too Good To Be True",
+      "url": "https://open.spotify.com/track/6WPyv55LjI56sBgjOTJ5aG"
     },
     {
       "album": {
@@ -30096,7 +30162,7 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 192197,
       "name": "Voices (feat. TZAR)",
       "url": "https://open.spotify.com/track/7aAWrDRy3T52A95bDNfdlO"
@@ -31738,7 +31804,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 217261,
       "name": "Won\u2019t Let You Go",
       "url": "https://open.spotify.com/track/5UZA39t4lX42ApegVubl7f"
@@ -32490,7 +32556,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 126532,
       "name": "You Know",
       "url": "https://open.spotify.com/track/0upmhqjGvyv5E3kmcFls4q"

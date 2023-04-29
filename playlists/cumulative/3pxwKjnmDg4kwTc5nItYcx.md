@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Budjerah
 
-679 songs - 1 day 12 hr 38 min
+680 songs - 1 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [BIG](https://open.spotify.com/track/2Vbl3bHFd4vlc6WSgMbfbX) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [BIG](https://open.spotify.com/album/78UBl7rvKtr1BMdKT7Rfnb) | 3:38 | 2022-09-27 |  |
 | [Big Kid](https://open.spotify.com/track/01LHOmbVULmYKnWFanWJBI) | [Avonlea](https://open.spotify.com/artist/30Ddlk9YPm030og6lClMou) | [Big Kid](https://open.spotify.com/album/2B8GMNzIaujNhf6OBac2JY) | 2:59 | 2019-09-20 | 2020-05-19 |
 | [Bipolar](https://open.spotify.com/track/1agOL1akZePDXe21TBbBM2) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [Bipolar](https://open.spotify.com/album/2y5oeiOOk7synreCnFAy7A) | 3:22 | 2019-09-06 | 2020-05-19 |
-| [Birthday Cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Birthday Cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-02-21 |  |
+| [birthday cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [birthday cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-02-21 |  |
 | [Bittersweet](https://open.spotify.com/track/03Qlgtvz9ux6lmzlv40BEZ) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Bittersweet](https://open.spotify.com/album/7iJOysKUXYwx78G17DT3sh) | 3:56 | 2020-03-09 | 2021-05-12 |
 | [Bittersweet](https://open.spotify.com/track/27lFSJ4Pn4MOQLWqgrbC35) | [Sloan Peterson](https://open.spotify.com/artist/6opB1rIN0KzlWbK5ZlHz61) | [Lost Illusions](https://open.spotify.com/album/5eG6jjphigPxaofS0PAI0T) | 3:04 | 2022-10-21 |  |
 | [Bla Bli Blu](https://open.spotify.com/track/4xPm60nWTJvaqcBj5muISb) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Bla Bli Blu](https://open.spotify.com/album/7N20DwQyvvrcGZW2yOYZXw) | 2:57 | 2022-04-28 |  |
@@ -524,6 +524,7 @@
 | [Say to You](https://open.spotify.com/track/5eH0e7g26zWBwpGNeK3Gb0) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Say to You](https://open.spotify.com/album/22DKvHucok7t6wzlwEMVL0) | 3:14 | 2019-10-18 | 2021-05-12 |
 | [Scars](https://open.spotify.com/track/0HCjXEQF533z8Z9LuX28cL) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Scars](https://open.spotify.com/album/7CPt4lQhUc7zCSpm2EVxIz) | 2:51 | 2020-03-20 | 2021-05-12 |
 | [Scorpio \(feat\. Ralph\)](https://open.spotify.com/track/0MQdw4KqjlaeKCVzWT4j0K) | [Hopium](https://open.spotify.com/artist/3DXcwp1aG9wMyxWIAlysmF), [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Scorpio \(feat\. Ralph\)](https://open.spotify.com/album/5jdrLdhKMOLf7Enj05JqOS) | 2:54 | 2019-08-27\* | 2021-05-12 |
+| [Seasons](https://open.spotify.com/track/6sbqpXpDBb6MNv93lhqKvl) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Bebe](https://open.spotify.com/album/0FWLTTcCKsd3b1PiW9GTEN) | 3:23 | 2023-04-28 |  |
 | [Selfish](https://open.spotify.com/track/3fTd1AN7VM33g7OElNPJGb) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Selfish](https://open.spotify.com/album/3oM3S7CSJPRHjQxPoZs31a) | 2:57 | 2021-02-12 |  |
 | [Selfish](https://open.spotify.com/track/4U8z0N3ELIhn9gys3u4ahp) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Selfish](https://open.spotify.com/album/4fGjZLAfNlFz5hoUFuvyil) | 2:26 | 2020-12-04 |  |
 | [Share That Love \(feat\. G\-Eazy\)](https://open.spotify.com/track/44l9nnCVvOQBbWG6tDViKl) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Share That Love \(feat\. G\-Eazy\)](https://open.spotify.com/album/1zTCnLSvIx3DjsKDV1xcmO) | 2:52 | 2020-08-21 | 2021-05-12 |

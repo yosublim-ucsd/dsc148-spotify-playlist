@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Thundercat ft\. Tame Impala
 
-1,458 songs - 3 day 14 hr 29 min
+1,460 songs - 3 day 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,8 @@
 | [Change Nothing](https://open.spotify.com/track/0eTMfwDd9S4gKAi47sG25A) | [0171](https://open.spotify.com/artist/134QvSuQi0iORVoQQHqXqX) | [Change Nothing](https://open.spotify.com/album/3wyBQ6hKvDUqpUfXoGDYea) | 3:47 | 2020-09-29\* | 2020-11-20 |
 | [Change Your Mind](https://open.spotify.com/track/5qc9mO0i8NaUHbXdSqMkp0) | [iRO](https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF) | [Change Your Mind](https://open.spotify.com/album/10GK5UuPQ0tMXZ8CVIe9V9) | 3:00 | 2021-02-12 | 2021-04-23 |
 | [Chaos Space Marine](https://open.spotify.com/track/6kNYZ2Hf2QCpQhIuPxffkp) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Chaos Space Marine](https://open.spotify.com/album/2huSLowZzNhStzbu9C1Eko) | 3:36 | 2021-10-16 | 2021-10-29 |
-| [Charabanc](https://open.spotify.com/track/6A42vjcmok3QhQzXNu4V9u) | [Skinny Pelembe](https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN) | [Hardly the Same Snake](https://open.spotify.com/album/60elbyC8BYxBuDvbpBUHPk) | 4:07 | 2023-04-27 |  |
+| [Charabanc](https://open.spotify.com/track/43L4mKWSU47ENgThPpidNG) | [Skinny Pelembe](https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN) | [Hardly The Same Snake](https://open.spotify.com/album/5YGnYey5QR9gXmgpxTV6Uw) | 4:07 | 2023-04-27 |  |
+| [Charabanc](https://open.spotify.com/track/6A42vjcmok3QhQzXNu4V9u) | [Skinny Pelembe](https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN) | [Hardly the Same Snake](https://open.spotify.com/album/60elbyC8BYxBuDvbpBUHPk) | 4:07 | 2023-04-27 | 2023-04-29 |
 | [CHARLES JEFFREY](https://open.spotify.com/track/618BwYUA98PyOVoCbckluW) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [CHARLES JEFFREY](https://open.spotify.com/album/1inYWUi6rRiaUyrfzl6qnj) | 2:27 | 2022-11-18 | 2023-02-10 |
 | [Chaser](https://open.spotify.com/track/0DqaeTXTWvmrd8B2gagRGD) | [Glows](https://open.spotify.com/artist/26bQE33uUmcNp1jdowPRz4) | [Chaser](https://open.spotify.com/album/1UVic6tRGXEYDms5GAHtUz) | 4:10 | 2022-07-01 | 2022-07-15 |
 | [Chasing Ghosts](https://open.spotify.com/track/3YMsPW55w8Oou0f5SV1wh1) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Chasing Ghosts](https://open.spotify.com/album/3R98G6k2dyvKnZdwxkkHGN) | 2:59 | 2022-09-22 | 2022-10-13 |
@@ -1315,7 +1316,7 @@
 | [Tiptoeing](https://open.spotify.com/track/3ZptYblxFPhvIJ0RRRozk9) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Tiptoeing](https://open.spotify.com/album/0fi4c4LZKtZuSSbbjygyZv) | 2:35 | 2021-10-22 | 2022-02-04 |
 | [Titanic](https://open.spotify.com/track/0EUwAADV8ggf1CjB4uzZqE) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Titanic](https://open.spotify.com/album/099cD2kVOgBUnfUHnGAIXT) | 3:05 | 2021-08-20 | 2021-10-16 |
 | [To be honest](https://open.spotify.com/track/3G1rPeSTMK5MNno47y1Ll0) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [To be honest](https://open.spotify.com/album/2zqbBftrJpAiOeHwhO9W6X) | 3:41 | 2023-03-10 |  |
-| [To Be Yours \(feat\. Claud\)](https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [To Be Yours \(feat\. Claud\)](https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf) | 3:31 | 2023-03-17 |  |
+| [To Be Yours](https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [To Be Yours](https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf) | 3:31 | 2023-03-17 |  |
 | [To Carry \(On and On\)](https://open.spotify.com/track/664fHE7AIHGUjHC2WWtvmO) | [KOJI](https://open.spotify.com/artist/2YkHarpEDjDNHgqsIzklAs) | [To Carry \(On and On\)](https://open.spotify.com/album/2DWeyUoCGftGOifUTpF5el) | 3:05 | 2021-03-19 | 2021-05-21 |
 | [To Rage](https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf) | 4:45 | 2023-04-06 |  |
 | [To Rage](https://open.spotify.com/track/68el6zBDcxiCAYrOxfKC9R) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/5gajvB2An4u8FXXZHlGsh7) | 4:45 | 2023-04-06 | 2023-04-09 |
@@ -1366,6 +1367,7 @@
 | [Until the End](https://open.spotify.com/track/1NxiyjhHTiqNmZJn7K8KqN) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Home for Now](https://open.spotify.com/album/4PPsdoNggFJevcT7n1W0Wf) | 4:17 | 2020-11-20 | 2021-02-19 |
 | [up all week \(with slowthai\)](https://open.spotify.com/track/1l73bwJECQdHrcep2LNwLG) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [demon time](https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm) | 2:02 | 2022-09-15 | 2022-11-18 |
 | [Use Me \(feat\. 070 Shake\)](https://open.spotify.com/track/6gqZzQyJfKqdc9boOILz4x) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Use Me](https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk) | 3:23 | 2020-09-29\* | 2020-10-09 |
+| [Used To It](https://open.spotify.com/track/7EeCwTGR2ct1WTo0OvkWag) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z) | [Used To It](https://open.spotify.com/album/1wKmS7A41gfVYHnFUnD2HR) | 3:02 | 2023-04-28 |  |
 | [Valentine](https://open.spotify.com/track/52FedMzfIqnAAxp9wj5HXs) | [88/89](https://open.spotify.com/artist/6B1sHGeScDhyK9DEuiokj1) | [Valentine](https://open.spotify.com/album/0Ab3x0o3QprWJ8r6X4y6Lo) | 3:35 | 2021-02-12 | 2021-04-02 |
 | [Vanilla & Light](https://open.spotify.com/track/1AUXx9zBdGPoCOKOrYKgRG) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Vanilla & Light](https://open.spotify.com/album/1TPjSZINRAeXVmpSBMtHAL) | 3:23 | 2021-07-09 | 2021-09-10 |
 | [Vest & Boxers](https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1) | 2:57 | 2022-01-28 | 2022-03-11 |

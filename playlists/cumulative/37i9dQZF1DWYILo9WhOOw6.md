@@ -4,7 +4,7 @@
 
 > Use Delta frequencies for the best night's sleep.
 
-93 songs - 4 hr 49 min
+94 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Binaural Delta Sinus 90 Hz \- L 94 Hz \- R](https://open.spotify.com/track/70PN99PsC7BoqAmmrdxj0H) | [No Placebo](https://open.spotify.com/artist/6PfMowhcQPSNiPw4Fag26i) | [Binaural Gamma Sinus 70 Hz \- L 170 Hz \- R](https://open.spotify.com/album/7E9Zfn9aGdJOSp1YxBiGZg) | 2:16 | 2023-01-20 |  |
 | [Binaural Drone 100 Hz \- 101 Hz](https://open.spotify.com/track/3NCBrdKXGqiiLYccNcESVN) | [Delta Hz](https://open.spotify.com/artist/5DeI5zDGqIRRmW5o1TrYD0) | [Delta 1\-4 Hz Sleep Drones](https://open.spotify.com/album/3PUY5HcJ3F92UCN9SKkMlI) | 3:23 | 2023-01-20 |  |
 | [Binaural Drone 90 Hz \- 91 Hz](https://open.spotify.com/track/53OvBqtojrI9EUmuskfKlJ) | [Delta Hz](https://open.spotify.com/artist/5DeI5zDGqIRRmW5o1TrYD0) | [Delta 1\-4 Hz Sleep Drones](https://open.spotify.com/album/3PUY5HcJ3F92UCN9SKkMlI) | 3:29 | 2023-01-20 |  |
+| [Binaural Sines 2hz Delta 55hz \- 57hz](https://open.spotify.com/track/1Om7a5bQfKfQWFgmDCdFxX) | [Assembly of Sines](https://open.spotify.com/artist/16iSnfmdXqHdufWNzURPFt) | [Delta](https://open.spotify.com/album/01lzymsaF2TaNrcDyW1bdX) | 2:33 | 2023-04-28 |  |
 | [Binaural Waves 120Hz \- 123Hz Delta](https://open.spotify.com/track/44W2LMIF4TmESsTF1uqjIz) | [Orbinaural](https://open.spotify.com/artist/773OVPfLKsc6qeX8adasFj) | [Binaural Dreams](https://open.spotify.com/album/0LpUvovOq0Fh4XFaWtKRZ6) | 2:43 | 2023-01-20 |  |
 | [Calm Body \(Delta Binaural\)](https://open.spotify.com/track/4JTKJY41QWzUkbPKl8iMCx) | [Lucy Vincent](https://open.spotify.com/artist/3aZqkX0ePw0fBoERFYCD6Z) | [Calm Body \(Delta Binaural\)](https://open.spotify.com/album/6jVgqv97W8bopZZNf0RyBF) | 3:02 | 2023-01-20 |  |
 | [Careful Mind \(Delta 83 Hz \- 84 Hz\)](https://open.spotify.com/track/37QKoaOOqKqS7khtF4KNRT) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Careful Mind \(Delta 83 Hz \- 84 Hz\)](https://open.spotify.com/album/4yZmbSxZTXG24qQ0GNoqgX) | 4:37 | 2023-01-20 |  |

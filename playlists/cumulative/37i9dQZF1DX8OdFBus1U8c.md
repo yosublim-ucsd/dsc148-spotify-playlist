@@ -4,7 +4,7 @@
 
 > Set the bars high with Malayalam Hip\-Hop!<br/>Cover : ThirumaLi
 
-65 songs - 3 hr 45 min
+66 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Antham Vittoru Pennu](https://open.spotify.com/track/2sngiZAoGkAyXocp4ycegn) | [Ankit Menon](https://open.spotify.com/artist/4b1Ua3aYPP6ppvnqZdOHjV), [Sarcasanam](https://open.spotify.com/artist/46W1DMC8InVBXW5L0Dqa3c) | [Oh Meri Laila](https://open.spotify.com/album/2lA7PI7Z1VioAJnlARl6mF) | 2:35 | 2022-12-23 | 2023-04-01 |
 | [Antham Vittoru Pennu](https://open.spotify.com/track/6wRQXidgQSSd4tXtl3S7qB) | [Sarcasanam](https://open.spotify.com/artist/46W1DMC8InVBXW5L0Dqa3c) | [Oh Meri Laila \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lTCLlF8ulRo1Cfu1Y9aY1) | 2:36 | 2022-12-23 |  |
 | [Aparaada Panka](https://open.spotify.com/track/6UrEu6rwdoHsULeFFWdTFq) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Aparaada Panka \(From "Maradona" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5fxqH4tL9geSj3V3c6bTxo) | 3:36 | 2022-06-23 |  |
-| [Arivu](https://open.spotify.com/track/7dj8zJse4K39kODoi1eGl2) | [AQIL](https://open.spotify.com/artist/7hI4ELuvUPvCLwAH2vtP1T), [Bhoomee](https://open.spotify.com/artist/35tqXRd3TmQyGqnepe6q9Z) | [Arivu](https://open.spotify.com/album/658jtoKNWFGZ7GOSNr7gRi) | 4:01 | 2022-04-19 |  |
+| [Arivu](https://open.spotify.com/track/6xnTyRAe61t30jupUkB43e) | [AQIL](https://open.spotify.com/artist/7hI4ELuvUPvCLwAH2vtP1T) | [Arivu](https://open.spotify.com/album/2DOmnGFfrkNq3VhcRfbCMX) | 4:01 | 2022-04-19 |  |
+| [Arivu](https://open.spotify.com/track/7dj8zJse4K39kODoi1eGl2) | [AQIL](https://open.spotify.com/artist/7hI4ELuvUPvCLwAH2vtP1T), [Bhoomee](https://open.spotify.com/artist/35tqXRd3TmQyGqnepe6q9Z) | [Arivu](https://open.spotify.com/album/658jtoKNWFGZ7GOSNr7gRi) | 4:01 | 2022-04-19 | 2023-04-29 |
 | [Avastha](https://open.spotify.com/track/34xTAbD9NbfABNGwoAkfUH) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Avastha](https://open.spotify.com/album/4Tpv8xA81bbsYKm3bI2YMT) | 3:44 | 2022-04-18 |  |
 | [Blue Bucket Rebirth](https://open.spotify.com/track/6J77IL7C21HvGmMe6XHzWH) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Blue Bucket Rebirth](https://open.spotify.com/album/4ZEGMUyGGImpKOaTxWIQ29) | 3:46 | 2022-06-23 |  |
 | [Bobby & Sulaiman](https://open.spotify.com/track/4dZg42I2oAMIa86UNeqZhp) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [JUNGLE SPEAKS, Vol\. 1](https://open.spotify.com/album/64hiwux15xTgMb9Fc8u5hM) | 3:23 | 2022-06-23 |  |

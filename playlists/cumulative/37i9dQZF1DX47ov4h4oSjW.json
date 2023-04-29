@@ -651,6 +651,24 @@
     },
     {
       "album": {
+        "name": "fields of forever (sleep rework)",
+        "url": "https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS"
+      },
+      "artists": [
+        {
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221702,
+      "name": "fields of forever - sleep rework",
+      "url": "https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx"
+    },
+    {
+      "album": {
         "name": "Ambrosia (Official Soundtrack)",
         "url": "https://open.spotify.com/album/0I5YQc4ZWo2sraMUEHgjcU"
       },
@@ -734,7 +752,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 254500,
       "name": "Glow",
       "url": "https://open.spotify.com/track/7ooM6rULm5upVZNOKwux3B"
@@ -962,24 +980,6 @@
       "duration_ms": 177000,
       "name": "La Luce Nel Cuore",
       "url": "https://open.spotify.com/track/2PfIOBRbPjXIkJI2cCDxz3"
-    },
-    {
-      "album": {
-        "name": "fields of forever (sleep rework)",
-        "url": "https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS"
-      },
-      "artists": [
-        {
-          "name": "Chad Lawson",
-          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
-        }
-      ],
-      "date_added": "2023-03-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 221702,
-      "name": "Lawson: fields of forever - sleep rework",
-      "url": "https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx"
     },
     {
       "album": {
@@ -2036,6 +2036,24 @@
       "duration_ms": 161624,
       "name": "Un Lent Mouvement",
       "url": "https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe"
+    },
+    {
+      "album": {
+        "name": "Under Cold Water",
+        "url": "https://open.spotify.com/album/6XyVXHLqGPcfa7vAxO1yyq"
+      },
+      "artists": [
+        {
+          "name": "Sarah Spring",
+          "url": "https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126124,
+      "name": "Under Cold Water",
+      "url": "https://open.spotify.com/track/6ECOpOKBN29CzxonEiLEmx"
     },
     {
       "album": {

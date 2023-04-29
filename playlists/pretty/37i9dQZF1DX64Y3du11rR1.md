@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 
 > Acoustic covers of sad songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,890 likes - 122 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,009 likes - 122 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 | 11 | [Another Love](https://open.spotify.com/track/5PPxzfqf3Sw2JAna4kRvuh) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [Another Love](https://open.spotify.com/album/33WYTVCpoFpSj4loynpAay) | 3:25 |
 | 12 | [Say something \- Acoustic](https://open.spotify.com/track/3joOiBGjO4ExbXUQNxafN3) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [A Thousand Years](https://open.spotify.com/album/0gyYpeO6THIOodyYcI7AY6) | 3:26 |
 | 13 | [Visiting Hours \(Acoustic\)](https://open.spotify.com/track/2jf62eJL5GepSpGDy61pcK) | [Fox & Hart](https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH) | [Visiting Hours \(Acoustic\)](https://open.spotify.com/album/5C7zrFEPvQgSyD0wDRLOAW) | 3:17 |
-| 14 | [The Boy's A Liar](https://open.spotify.com/track/1EOdKbgizAfNRV6j2Rm3E3) | [Macy Ellen](https://open.spotify.com/artist/3KwkTBHTZViURYGQrl266L) | [The Boy's A Liar](https://open.spotify.com/album/0ZmhHFfrXJ7ItNaIgHtQXQ) | 3:40 |
+| 14 | [Boy's A Liar](https://open.spotify.com/track/1EOdKbgizAfNRV6j2Rm3E3) | [Macy Ellen](https://open.spotify.com/artist/3KwkTBHTZViURYGQrl266L) | [Boy's A Liar](https://open.spotify.com/album/0ZmhHFfrXJ7ItNaIgHtQXQ) | 3:40 |
 | 15 | [Anti\-Hero](https://open.spotify.com/track/4RcpUHWXC8lgTNyitAFO9m) | [Sighting](https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE) | [Anti\-Hero](https://open.spotify.com/album/6GT70Pr0BdBT9wWM2wsyZm) | 3:43 |
 | 16 | [Running Up That Hill](https://open.spotify.com/track/64nuOnXck45GgD9y6smVBf) | [aeseaes](https://open.spotify.com/artist/52KatchKjz0L2amwBDxxwO) | [Running Up That Hill](https://open.spotify.com/album/7x9C3MvulfI2QC5atdWm3s) | 4:29 |
 | 17 | [Ceilings](https://open.spotify.com/track/50akjhvSXjPASWlkD1XSCd) | [WestSouth](https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0) | [Ceilings](https://open.spotify.com/album/6rnRR1r64FOlvbH2jdEuTT) | 3:19 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 | 121 | [Giant](https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3) | [Linn Brikell](https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu) | [Giant](https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak) | 2:59 |
 | 122 | [The Joke](https://open.spotify.com/track/6KLO6Ycu2Y03i3nLw6PgyW) | [Nicole Serrano](https://open.spotify.com/artist/1Q3Bf69OLRJEZBigSjtUs5) | [The Joke](https://open.spotify.com/album/3NYJFYtOLRXbDJzAHN3eie) | 4:03 |
 
-Snapshot ID: `MCxmYzUwYTMwYzBlOWUwM2VhYzdiZDNlYmM0ZTQ3NDllM2U1MzZkMjhh`
+Snapshot ID: `MCxkZjUyNTU5ODUxZmRjYWIxM2I2YTlhOWNmNDAyZGZkNDdhYWI5Y2U3`

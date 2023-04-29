@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "DMV music breaking waves. Cover: Shy Glizzy",
+  "description": "DMV music breaking waves. Cover: Rico Nasty",
   "name": "Ripple Effect: DMV",
   "tracks": [
     {
@@ -208,7 +208,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 184560,
       "name": "42 Red",
       "url": "https://open.spotify.com/track/1o8zqAgA9qsO4AAKFs4sxI"
@@ -1120,7 +1120,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 187258,
       "name": "Can't Forget",
       "url": "https://open.spotify.com/track/1DexvXGmsZu6mWElq4XRp4"
@@ -1366,7 +1366,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 134383,
       "name": "Contact",
       "url": "https://open.spotify.com/track/5TQSK96ovPsfX7JsWGPxEQ"
@@ -1671,6 +1671,28 @@
     },
     {
       "album": {
+        "name": "LACUNA in The House Of Mirrors",
+        "url": "https://open.spotify.com/album/4IyPe1mOrGKzLY43M59xrn"
+      },
+      "artists": [
+        {
+          "name": "KAMAUU",
+          "url": "https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc"
+        },
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179882,
+      "name": "don't play with my money (feat. Tobe Nwigwe)",
+      "url": "https://open.spotify.com/track/35keKCE6mIlRsBm7Y6Cmer"
+    },
+    {
+      "album": {
         "name": "Wait On It 2",
         "url": "https://open.spotify.com/album/3iNRRQVC4CCgmES0IQY9ua"
       },
@@ -1686,7 +1708,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 266951,
       "name": "Door Swing",
       "url": "https://open.spotify.com/track/6zV9NPorJX72LT8XwiGPS6"
@@ -2183,6 +2205,24 @@
     },
     {
       "album": {
+        "name": "U Street Anthology",
+        "url": "https://open.spotify.com/album/2NvrZxKKfKBN3UBJqdn5Ep"
+      },
+      "artists": [
+        {
+          "name": "rum.gold",
+          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216466,
+      "name": "Forever In A Song",
+      "url": "https://open.spotify.com/track/2JP8F7nwSXIFETVnFgoGVZ"
+    },
+    {
+      "album": {
         "name": "NADAWORLD 2",
         "url": "https://open.spotify.com/album/2xvKxZaBXgG2VfzxL7Cftd"
       },
@@ -2474,7 +2514,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 132630,
       "name": "Goat Flow 2",
       "url": "https://open.spotify.com/track/501pFLEKkiBJ0CPWOdsVQl"
@@ -2528,7 +2568,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 217043,
       "name": "Gratuity",
       "url": "https://open.spotify.com/track/1hegHGW3yUFJxRWOVl5ga9"
@@ -2686,6 +2726,24 @@
       "duration_ms": 170000,
       "name": "History",
       "url": "https://open.spotify.com/track/0O39nIQSeYJP9yHouKKZvP"
+    },
+    {
+      "album": {
+        "name": "Hit the Crowd",
+        "url": "https://open.spotify.com/album/4SR6zUuMlHQwneQdaKaSMI"
+      },
+      "artists": [
+        {
+          "name": "XanMan",
+          "url": "https://open.spotify.com/artist/1cyidXIhLIwg1WAEm7rJQP"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139225,
+      "name": "Hit the Crowd",
+      "url": "https://open.spotify.com/track/5RbBo1PdfAuLZpD3FctWcl"
     },
     {
       "album": {
@@ -2855,6 +2913,24 @@
     },
     {
       "album": {
+        "name": "I LOOK GOOD",
+        "url": "https://open.spotify.com/album/514w1gwfApMBRCSMwMBqg7"
+      },
+      "artists": [
+        {
+          "name": "Misskaniyah",
+          "url": "https://open.spotify.com/artist/6mrlBl4QCM3Fog8Z9fraXl"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98437,
+      "name": "I LOOK GOOD",
+      "url": "https://open.spotify.com/track/1k39bFaE9zehg0vavTxBsd"
+    },
+    {
+      "album": {
         "name": "I Need Love",
         "url": "https://open.spotify.com/album/4KuRwpsYracRUDh6OUYwE5"
       },
@@ -2892,7 +2968,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 117979,
       "name": "I Tried",
       "url": "https://open.spotify.com/track/0blQoUZeDKJEH3gIbkr4XR"
@@ -3052,7 +3128,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 196122,
       "name": "If You Must Go",
       "url": "https://open.spotify.com/track/7l5t0qNaHHMUOWgIrnJ4ft"
@@ -3346,7 +3422,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 130909,
       "name": "Le Fond",
       "url": "https://open.spotify.com/track/224LybpL68A0JachfVey7W"
@@ -3770,7 +3846,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 133069,
       "name": "Lucid",
       "url": "https://open.spotify.com/track/3hiulv9pXgONYtaZOt70VU"
@@ -4044,7 +4120,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 151249,
       "name": "MIDNIGHT",
       "url": "https://open.spotify.com/track/7u7t615DZLnFj4ezYtLms8"
@@ -4358,7 +4434,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 162651,
       "name": "Never End Up Broke Pt. 2 (feat. Pusha T)",
       "url": "https://open.spotify.com/track/3pPpHxBDoEqEcP4NyPp1iT"
@@ -5450,7 +5526,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 217031,
       "name": "Sandbox",
       "url": "https://open.spotify.com/track/5FpA9VUCUquTkHPpn5Uaiq"
@@ -5937,6 +6013,42 @@
     },
     {
       "album": {
+        "name": "Squaaa",
+        "url": "https://open.spotify.com/album/6ngb0wyK7dWyPUTJ9sd7eE"
+      },
+      "artists": [
+        {
+          "name": "Dre Wave$",
+          "url": "https://open.spotify.com/artist/1JmCy4jQegbbMjBWRI0iCt"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Squaaa",
+      "url": "https://open.spotify.com/track/1n4yBLplF4XxZSLx1VvbPu"
+    },
+    {
+      "album": {
+        "name": "Stay Strapped (Freestyle)",
+        "url": "https://open.spotify.com/album/6bbEEALiA72SvJSdHwB7dl"
+      },
+      "artists": [
+        {
+          "name": "Young Crazy",
+          "url": "https://open.spotify.com/artist/0MkYqs9CaYOelt4rdnUGyv"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189055,
+      "name": "Stay Strapped (Freestyle)",
+      "url": "https://open.spotify.com/track/7csR4532xtoUfTjseCGtx3"
+    },
+    {
+      "album": {
         "name": "Steppin On Ants",
         "url": "https://open.spotify.com/album/36cZEt9NeWpgB9AYaK7CxI"
       },
@@ -6036,6 +6148,24 @@
       "duration_ms": 144078,
       "name": "Stop Hatin'",
       "url": "https://open.spotify.com/track/1Q5ePNuK7VvyvjpSIuQ0JA"
+    },
+    {
+      "album": {
+        "name": "Stop Shop",
+        "url": "https://open.spotify.com/album/54LVPiWHcOFaIAvfgTlsHJ"
+      },
+      "artists": [
+        {
+          "name": "Butch Dawson",
+          "url": "https://open.spotify.com/artist/5OrGPqB2BSIc3I6ar90qIL"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138094,
+      "name": "Stop Shop",
+      "url": "https://open.spotify.com/track/5yen8iLIsbC82CXuL6gefp"
     },
     {
       "album": {
@@ -6184,7 +6314,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 174638,
       "name": "TEASE",
       "url": "https://open.spotify.com/track/5M69Wypp38Ea2WPKzIXQzZ"
@@ -6246,7 +6376,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 376075,
       "name": "The Hands - From the Original Motion Picture \u201cThe Inspection\u201d",
       "url": "https://open.spotify.com/track/1VYLPa8PSEeypLXwbncLfx"
@@ -6336,7 +6466,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 128063,
       "name": "TMF",
       "url": "https://open.spotify.com/track/1MtqVeaNkhWE2W0dOvfKOf"
@@ -6358,6 +6488,24 @@
       "duration_ms": 207568,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/2YrsRhp1THQpBhprF7fsQ0"
+    },
+    {
+      "album": {
+        "name": "Turn It Up",
+        "url": "https://open.spotify.com/album/6A0KCC9AaG4ZTK8KhfxRVE"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122699,
+      "name": "Turn It Up",
+      "url": "https://open.spotify.com/track/6ou2irr0bEoGNaTejrOEBl"
     },
     {
       "album": {
@@ -6488,6 +6636,24 @@
       "duration_ms": 225088,
       "name": "Underrated",
       "url": "https://open.spotify.com/track/3WT6yVyFwS38gGiftAG8qv"
+    },
+    {
+      "album": {
+        "name": "Vibrant",
+        "url": "https://open.spotify.com/album/0RQ0KNhY7zQ4XN7z5m4KPi"
+      },
+      "artists": [
+        {
+          "name": "Azizi Gibson",
+          "url": "https://open.spotify.com/artist/2NjfafEappzvGGGDdMRJMP"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168103,
+      "name": "Vibrant",
+      "url": "https://open.spotify.com/track/0fTyX9kIwMaB721WRrFUy0"
     },
     {
       "album": {
@@ -6706,7 +6872,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 122305,
       "name": "What Is Enough",
       "url": "https://open.spotify.com/track/7My876U4p411sBjVvXXZwa"
@@ -6980,7 +7146,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 193629,
       "name": "Xpensive",
       "url": "https://open.spotify.com/track/57MTexDSwasDyOT7ydwJze"

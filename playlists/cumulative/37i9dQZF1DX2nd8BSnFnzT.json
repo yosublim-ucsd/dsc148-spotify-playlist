@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Rea\u00e7\u00e3o em Cadeia",
+  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Hevo 84",
   "name": "P\u00e1tria Rock",
   "tracks": [
     {
@@ -1760,7 +1760,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 191068,
       "name": "Dois Estranhos",
       "url": "https://open.spotify.com/track/33mkezmxRV63f3avjUMZyV"
@@ -2400,6 +2400,24 @@
       "duration_ms": 291973,
       "name": "F\u00e1tima Bernardes Experi\u00eancia",
       "url": "https://open.spotify.com/track/16WKRMVfYCq9gHMPrXLcQt"
+    },
+    {
+      "album": {
+        "name": "Gangorra",
+        "url": "https://open.spotify.com/album/71xr0LGACAo2Xsm3DihPaT"
+      },
+      "artists": [
+        {
+          "name": "Sid",
+          "url": "https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199375,
+      "name": "Gangorra",
+      "url": "https://open.spotify.com/track/2Ww0mvlmvWjSz3vhpBoQNw"
     },
     {
       "album": {
@@ -4095,6 +4113,24 @@
     },
     {
       "album": {
+        "name": "O Sol da Liberdade",
+        "url": "https://open.spotify.com/album/022w0C97MryvMRZSlPiP4n"
+      },
+      "artists": [
+        {
+          "name": "RPM",
+          "url": "https://open.spotify.com/artist/7lfmakKFOeQWdUrbmVK6EQ"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261120,
+      "name": "O Sol da Liberdade",
+      "url": "https://open.spotify.com/track/3t2NlLa4WN491vjAxmh5yI"
+    },
+    {
+      "album": {
         "name": "O Tempo N\u00e3o Vai Curar",
         "url": "https://open.spotify.com/album/6QJKTtSlz0Xe7dtVPpKOtE"
       },
@@ -4706,7 +4742,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 265411,
       "name": "Que Onda - Ao Vivo",
       "url": "https://open.spotify.com/track/2L34UvNfywi6Mqhr7RdwFw"
@@ -5106,7 +5142,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 184945,
       "name": "Saudade D\u00f3i - Ao Vivo",
       "url": "https://open.spotify.com/track/5jzAFg9kFigSq8afOJlNFE"
@@ -5440,6 +5476,24 @@
       "duration_ms": 178106,
       "name": "S\u00f3 Chamar",
       "url": "https://open.spotify.com/track/67XJR4zyKkmq79mqgiPaBP"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Mais Essa Noite",
+        "url": "https://open.spotify.com/album/0lbFykuNne4AWnWmNiLsHK"
+      },
+      "artists": [
+        {
+          "name": "Hevo 84",
+          "url": "https://open.spotify.com/artist/1WDHJzp45TMMfm9YxVPZTG"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185647,
+      "name": "S\u00f3 Mais Essa Noite",
+      "url": "https://open.spotify.com/track/7KI90ezWkHeTmhQ8qZWb8x"
     },
     {
       "album": {

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTcwYzM1MDM1MzNmZmU1ZmU1ZGYyNmIzM2M4ZTZmOGZiNDI1ZGM0",
+  "snapshot_id": "MCw0MGVjNmRjYmZhY2NiY2E5Mzc2ZjY1NmZjNjU1YWE0YTEyMDExZTc1",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -207,18 +207,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Things Have Changed",
-        "url": "https://open.spotify.com/album/4WrWD47QXsRA5IUZAyZmue"
+        "name": "Trilogy, Vol. 1",
+        "url": "https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP"
       },
       "artists": [
         {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+          "name": "Ana Popovic",
+          "url": "https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf"
         }
       ],
-      "duration_ms": 416560,
-      "name": "Things Have Changed",
-      "url": "https://open.spotify.com/track/5KPuSBrMgHRIguurOqAi6r"
+      "duration_ms": 243200,
+      "name": "She Was a Doorman",
+      "url": "https://open.spotify.com/track/1CgGro1rXhkxs7LviofPyT"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -271,18 +271,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Trilogy, Vol. 1",
-        "url": "https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP"
+        "name": "Things Have Changed",
+        "url": "https://open.spotify.com/album/4WrWD47QXsRA5IUZAyZmue"
       },
       "artists": [
         {
-          "name": "Ana Popovic",
-          "url": "https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf"
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
         }
       ],
-      "duration_ms": 243200,
-      "name": "She Was a Doorman",
-      "url": "https://open.spotify.com/track/1CgGro1rXhkxs7LviofPyT"
+      "duration_ms": 416560,
+      "name": "Things Have Changed",
+      "url": "https://open.spotify.com/track/5KPuSBrMgHRIguurOqAi6r"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Love Spin",
-        "url": "https://open.spotify.com/album/0jHM5tctOO79BT3POpCSfd"
-      },
-      "artists": [
-        {
-          "name": "Debbie Davies",
-          "url": "https://open.spotify.com/artist/21OcU2kzq3Oqkl8XxsEli7"
-        }
-      ],
-      "duration_ms": 231080,
-      "name": "Life Of The Party",
-      "url": "https://open.spotify.com/track/0YdyAqpiuGX1GPocApE83R"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Dig In Deep",
         "url": "https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 217920,
       "name": "Call on God",
       "url": "https://open.spotify.com/track/0MY6kBXw8kbDgJiAoO0RUk"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Throw Away Your Blues",
+        "url": "https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe"
+      },
+      "artists": [
+        {
+          "name": "Kyla Brox",
+          "url": "https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42"
+        }
+      ],
+      "duration_ms": 298173,
+      "name": "If You See Him",
+      "url": "https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3"
     }
   ],
   "unique_name": "EQUAL Blues",

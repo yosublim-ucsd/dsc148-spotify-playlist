@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLAuD69zHkT.md) - [plain]
 
 > Slow, soft and sensual \- the laid back sounds of the Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,377 likes - 86 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,403 likes - 86 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLAuD69zHkT.md) - [plain]
 | 15 | [Ferry Crossing Blues](https://open.spotify.com/track/47QhhDihrVeoFbUum7r7NY) | [Frank Muschalle](https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD), [Stephan Holstein](https://open.spotify.com/artist/4x0LaGxB5v6maICwQPwlIA) | [The Spiekeroog Sessions](https://open.spotify.com/album/30tMZui25MlGPKKOp0c9cQ) | 4:25 |
 | 16 | [Blue And Lonesome](https://open.spotify.com/track/2mGIN7Wttje8xPUVyhIwZg) | [Blues Company](https://open.spotify.com/artist/3zL5MUHZLeAAM2ZTSKQr9w) | [Blues, Ballads](https://open.spotify.com/album/58EIwvZRNocQghwEDsrhxx) | 4:05 |
 | 17 | [Me And The Blues](https://open.spotify.com/track/0xxbcXo99r5cJItylWkKNh) | [Mildred Bailey](https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix) | [Sings..\. Me And The Blues](https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u) | 3:09 |
-| 18 | [Another Night to Cry](https://open.spotify.com/track/3nSk8UWlcrnI6mRKwPtAzk) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Down Hearted Blues](https://open.spotify.com/album/1fgrMWdgcvpS0MNEa7I4FU) | 2:53 |
+| 18 | [Another Night to Cry](https://open.spotify.com/track/7Ev8GqcmeJYtd4hB5HOmDa) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Down Hearted Blues](https://open.spotify.com/album/4cKqTrFpWCUAuYXXQdcoKQ) | 2:53 |
 | 19 | [Good Love Had To Die](https://open.spotify.com/track/3waUNDqqEcv8GFLr6w3YNz) | [Gráinne Duffy](https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y) | [Out Of The Dark](https://open.spotify.com/album/00EueLV9XQ46OWV5EnOPlt) | 3:35 |
 | 20 | [As the Years Go Passing By](https://open.spotify.com/track/1kckU867bAQrTpIdNAwrGP) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT), [Malone](https://open.spotify.com/artist/7fBebCCi5DajdmGpG4Avja) | [Slow Blues \- 25 Rare Blues Tracks](https://open.spotify.com/album/5IQlmcuc8I8RlY4h9ELihB) | 4:48 |
 | 21 | [I Loved Another Woman](https://open.spotify.com/track/5G5YA3qzHlEa2RMuf1WDqB) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 2:56 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLAuD69zHkT.md) - [plain]
 | 85 | [I Love to Sing the Blues](https://open.spotify.com/track/5aBTkEM1vy7GaLeNH4ZBsq) | [Eb Davis Blues Band](https://open.spotify.com/artist/5EFzsijVGUq2VWklM2fxgK) | [Good Time Blues](https://open.spotify.com/album/0G4CO1qvIODlarbiaMOcEa) | 5:35 |
 | 86 | [When My Heart Beats Like a Hammer](https://open.spotify.com/track/44FnSZip0XhEBR3l7rPeJ1) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 7:09 |
 
-Snapshot ID: `MCxlNTA5OGI4MzliZDg2MzQ4NGFkYzEwNWE5YmY5NjQwYjJkNTA2ZTYy`
+Snapshot ID: `MCwzZTQ4MjVhMjcwYjViNzA0YzExMGJhYzAwOWU1NWIzOTMyMTE0ODlj`

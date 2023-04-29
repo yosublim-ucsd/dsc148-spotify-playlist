@@ -4,7 +4,7 @@
 
 > Music from and inspired by Wendell & Wild, curated by Tunde Adebimpe of TV on the Radio\. Watch now on Netflix.
 
-46 songs - 2 hr 46 min
+47 songs - 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Cranes In The Sky](https://open.spotify.com/track/7cBzwYUbsPYQjpdTruTdMW) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Cranes In The Sky](https://open.spotify.com/album/1ORpSxBLxcFtDKO3M1cetG) | 5:45 | 2022-10-26 |  |
 | [Ctrl Freak](https://open.spotify.com/track/2B3UbKRkE9zNDrLFU2fKpj) | [Native Son](https://open.spotify.com/artist/0SfWfkaC6bXSQjoHF0qg77) | [Ctrl Freak](https://open.spotify.com/album/7B1boFBooi4y9vVic5yNAY) | 2:13 | 2022-10-26 |  |
 | [Cult of Personality](https://open.spotify.com/track/5e3YOg6fIkP0wD5TyxcHOH) | [Living Colour](https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de) | [Vivid \(Expanded Edition\)](https://open.spotify.com/album/532IlegHv3OfVGgyCFGBTs) | 4:54 | 2022-10-26 |  |
-| [Denial](https://open.spotify.com/track/1jkXblR8Hx9WxvYo9LNPw2) | [Divide And Dissolve](https://open.spotify.com/artist/4YmPo9Zke9OYNmV5WW7CMS) | [Gas Lit](https://open.spotify.com/album/54UM3b274EskTmhCHQdFzY) | 7:37 | 2022-10-26 |  |
+| [Denial](https://open.spotify.com/track/0XfZd6yKJHKdWhT2P9Oi0q) | [Divide And Dissolve](https://open.spotify.com/artist/4YmPo9Zke9OYNmV5WW7CMS) | [Gas Lit](https://open.spotify.com/album/5sDmr73j6wJxde6nAAMpsk) | 7:37 | 2022-10-26 |  |
+| [Denial](https://open.spotify.com/track/1jkXblR8Hx9WxvYo9LNPw2) | [Divide And Dissolve](https://open.spotify.com/artist/4YmPo9Zke9OYNmV5WW7CMS) | [Gas Lit](https://open.spotify.com/album/54UM3b274EskTmhCHQdFzY) | 7:37 | 2022-10-26 | 2023-04-29 |
 | [Every Thing Is Over](https://open.spotify.com/track/7JAo1d99SEqlKLqKwSFdzM) | [Ngozi Family](https://open.spotify.com/artist/60Ec3tL0Z85Jp3f2CTUUu3) | [45,000 Volts](https://open.spotify.com/album/2A4RVobKY6UiftPJiLkGgr) | 4:43 | 2022-10-26 |  |
 | [Fall First](https://open.spotify.com/track/575m8eKKXa0bkR6haOzVPt) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Spirituals](https://open.spotify.com/album/2AMcE13TUlCDdXVBlR0sdo) | 4:09 | 2022-10-26 |  |
 | [For The Homey's](https://open.spotify.com/track/5iLpXhpUmQxBCV7Nll47Ny) | [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr) | [Gay Dog Food](https://open.spotify.com/album/12DcLB3qeCJcUyuX3a1ZaD) | 2:47 | 2022-10-26 |  |

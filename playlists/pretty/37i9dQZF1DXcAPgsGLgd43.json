@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 2933,
+  "num_followers": 2939,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2EyMjk1NTk2ZmU5M2FmYWRhMTMzNjBkZmRlYWUzMmM0ZWE5Yzkw",
+  "snapshot_id": "MCw3MDU0NzkzMDBmNTQ1ZTU0OWMzYmFmYWZlNWMwMzA3YjJhMzkyNGMx",
   "tracks": [
     {
       "added_at": "2022-02-11 17:33:41",
@@ -815,22 +815,18 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Calle EP",
-        "url": "https://open.spotify.com/album/42oVlIMe03B1WQjTRaFlF3"
+        "name": "Ay Papi",
+        "url": "https://open.spotify.com/album/7rUjdLfXmcQ3IYE8WHb0Qe"
       },
       "artists": [
         {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        },
-        {
-          "name": "Villanueva",
-          "url": "https://open.spotify.com/artist/2FOAXoBtjc7RYFwNy1cZ2j"
+          "name": "Local Singles",
+          "url": "https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp"
         }
       ],
-      "duration_ms": 213953,
-      "name": "Calle ft. Villanueva",
-      "url": "https://open.spotify.com/track/4eHlj1PuYqkjmHRlLBpCjU"
+      "duration_ms": 205161,
+      "name": "Ay Papi",
+      "url": "https://open.spotify.com/track/3PVZ7Y6VhTAmrfJGpwRJOu"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -855,18 +851,22 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Ay Papi",
-        "url": "https://open.spotify.com/album/7rUjdLfXmcQ3IYE8WHb0Qe"
+        "name": "Calle EP",
+        "url": "https://open.spotify.com/album/42oVlIMe03B1WQjTRaFlF3"
       },
       "artists": [
         {
-          "name": "Local Singles",
-          "url": "https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp"
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        },
+        {
+          "name": "Villanueva",
+          "url": "https://open.spotify.com/artist/2FOAXoBtjc7RYFwNy1cZ2j"
         }
       ],
-      "duration_ms": 205161,
-      "name": "Ay Papi",
-      "url": "https://open.spotify.com/track/3PVZ7Y6VhTAmrfJGpwRJOu"
+      "duration_ms": 213953,
+      "name": "Calle ft. Villanueva",
+      "url": "https://open.spotify.com/track/4eHlj1PuYqkjmHRlLBpCjU"
     },
     {
       "added_at": "2021-10-15 05:57:00",
@@ -925,20 +925,28 @@
       "url": "https://open.spotify.com/track/261BVXzaPgsLFTSPQ3NmiP"
     },
     {
-      "added_at": "2021-11-05 06:05:00",
+      "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Cumbia Tropical",
-        "url": "https://open.spotify.com/album/1AB9MImjBERGHTLNwhUnUn"
+        "name": "Felicidad (Colombian Mix)",
+        "url": "https://open.spotify.com/album/6IYzRZ6FfbYaueT0vivHSF"
       },
       "artists": [
         {
-          "name": "Ilary Montanari",
-          "url": "https://open.spotify.com/artist/5hSt4Q5c4lReEZr6Uaz8BA"
+          "name": "Cato Anaya",
+          "url": "https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec"
+        },
+        {
+          "name": "The Cube Guys",
+          "url": "https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg"
+        },
+        {
+          "name": "LA GUR\u00da",
+          "url": "https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz"
         }
       ],
-      "duration_ms": 381899,
-      "name": "Cumbia Tropical",
-      "url": "https://open.spotify.com/track/1H8sxtzrwWhFGiGamurqnW"
+      "duration_ms": 355680,
+      "name": "Felicidad - Colombian Mix",
+      "url": "https://open.spotify.com/track/179w55cexITAFHwisxwRaE"
     }
   ],
   "unique_name": "Alma",

@@ -4,7 +4,7 @@
 
 > Slow, soft and sensual \- the laid back sounds of the Blues.
 
-95 songs - 7 hr 2 min
+96 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Ain't No Sunshine](https://open.spotify.com/track/1ebftgRZcnctL8GpBu0nu8) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Cannonball](https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu) | 3:20 | 2022-07-13 |  |
 | [Ain't No Sunshine](https://open.spotify.com/track/474v7dAYMQ922017Y8ZgZ9) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Blues for Breakfast](https://open.spotify.com/album/53U7Q4ep8kXfTcwOISAKah) | 3:20 | 2022-10-14 | 2022-11-13 |
 | [Angel from Montgomery \- 2008 Remaster](https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Streetlights](https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO) | 3:59 | 2022-07-13 |  |
-| [Another Night to Cry](https://open.spotify.com/track/3nSk8UWlcrnI6mRKwPtAzk) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Down Hearted Blues](https://open.spotify.com/album/1fgrMWdgcvpS0MNEa7I4FU) | 2:53 | 2022-07-13 |  |
+| [Another Night to Cry](https://open.spotify.com/track/3nSk8UWlcrnI6mRKwPtAzk) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Down Hearted Blues](https://open.spotify.com/album/1fgrMWdgcvpS0MNEa7I4FU) | 2:53 | 2022-07-13 | 2023-04-29 |
+| [Another Night to Cry](https://open.spotify.com/track/7Ev8GqcmeJYtd4hB5HOmDa) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Down Hearted Blues](https://open.spotify.com/album/4cKqTrFpWCUAuYXXQdcoKQ) | 2:53 | 2023-04-07 |  |
 | [As the Years Go Passing By](https://open.spotify.com/track/1kckU867bAQrTpIdNAwrGP) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT), [Malone](https://open.spotify.com/artist/7fBebCCi5DajdmGpG4Avja) | [Slow Blues \- 25 Rare Blues Tracks](https://open.spotify.com/album/5IQlmcuc8I8RlY4h9ELihB) | 4:48 | 2022-07-13 |  |
 | [Baby What You Want Me To Do](https://open.spotify.com/track/05oMNN5Rbv6rVqyFFG9uTl) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [The Very Best of Jimmy Reed](https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk) | 2:24 | 2022-07-13 |  |
 | [Been Here Before](https://open.spotify.com/track/1R95piP4AI1kIzq9PRJfyF) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 5:54 | 2022-07-13 |  |

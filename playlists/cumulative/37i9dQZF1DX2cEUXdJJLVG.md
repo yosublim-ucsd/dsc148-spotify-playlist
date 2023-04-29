@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-241 songs - 14 hr 34 min
+242 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,8 @@
 | [Satellite](https://open.spotify.com/track/4oHghaXlFoXhq8SZHjvIYr) | [David Blazer](https://open.spotify.com/artist/6fI10k7bFVFS76bHXdBof6), [Birocratic](https://open.spotify.com/artist/60b7IDlGflg5lgyfEGf9yB), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Satellite](https://open.spotify.com/album/0Zca5zGoxzM1HjLw9gMBgV) | 4:02 | 2022-09-09 | 2022-10-15 |
 | [SELFISH](https://open.spotify.com/track/2gdklwx9RchkYL2L8FeYMs) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [SELFISH](https://open.spotify.com/album/4yGpk1A8E6GYkekqwXqUVm) | 3:55 | 2022-09-09 |  |
 | [SHAWTS](https://open.spotify.com/track/2K55xVGnOBFwIlZLsPlYp5) | [Maydien](https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y), [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF) | [SHAWTS](https://open.spotify.com/album/7dkctnbRQ9tsMauVbu4B6s) | 3:23 | 2022-09-09 |  |
-| [Shots](https://open.spotify.com/track/6bBjArs6x5oGYDPtF797DJ) | [The Goods](https://open.spotify.com/artist/4s1VGnynyXN1cZ4oKsyxEx), [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Disco J](https://open.spotify.com/artist/5qX7mVsJNqHMppmcq9s7at) | [II](https://open.spotify.com/album/0oWbmnZr6PPQq582jT4bEV) | 4:31 | 2022-09-09 |  |
+| [Shots](https://open.spotify.com/track/00pRQgbk4YSdyd4Do2RBDZ) | [The Goods](https://open.spotify.com/artist/4s1VGnynyXN1cZ4oKsyxEx), [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Disco J](https://open.spotify.com/artist/5qX7mVsJNqHMppmcq9s7at) | [II](https://open.spotify.com/album/38qnXFBW26kjxrzLY3fRc5) | 4:31 | 2023-04-20 |  |
+| [Shots](https://open.spotify.com/track/6bBjArs6x5oGYDPtF797DJ) | [The Goods](https://open.spotify.com/artist/4s1VGnynyXN1cZ4oKsyxEx), [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Disco J](https://open.spotify.com/artist/5qX7mVsJNqHMppmcq9s7at) | [II](https://open.spotify.com/album/0oWbmnZr6PPQq582jT4bEV) | 4:31 | 2022-09-09 | 2023-04-29 |
 | [Show You the World](https://open.spotify.com/track/5ier31vbYr7fGn5hK7Y8pR) | [Packed Rich](https://open.spotify.com/artist/3VP45ZJW1y1Mz7LEMkxj94), [Jessica Pham](https://open.spotify.com/artist/5cFluXh5aSPpf6ne9VAyIz) | [Show You The World](https://open.spotify.com/album/2R19WR5owthJuZvKKx3P0K) | 3:36 | 2022-09-09 |  |
 | [Signs](https://open.spotify.com/track/1PMn4TOF2HBDFi5dhZL9iT) | [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF) | [Andreas](https://open.spotify.com/album/3iziTSI728p59ZmH5pfIT5) | 3:22 | 2022-09-09 |  |
 | [Slide All Night](https://open.spotify.com/track/1pou1vJsBUcH1y7UmFmDVp) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. III](https://open.spotify.com/album/3n0tNdtuPGksNxuAncvMnM) | 2:55 | 2022-12-09 |  |

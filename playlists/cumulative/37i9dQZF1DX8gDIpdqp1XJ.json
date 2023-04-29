@@ -142,7 +142,7 @@
       ],
       "date_added": "2021-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 210000,
       "name": "A Song About the Sun",
       "url": "https://open.spotify.com/track/2ylXMli4RzeVjIhRsjdoWn"
@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Amoeba",
+        "url": "https://open.spotify.com/album/52FqqjTl9kg5St3EAJMqBz"
+      },
+      "artists": [
+        {
+          "name": "Do Nothing",
+          "url": "https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232212,
+      "name": "Amoeba",
+      "url": "https://open.spotify.com/track/5O4dlgfCLqkyrHWghRfIrT"
+    },
+    {
+      "album": {
         "name": "Banned",
         "url": "https://open.spotify.com/album/2uxqYOWnMBsD7FKVnDkF42"
       },
@@ -568,7 +586,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 160991,
       "name": "Another One",
       "url": "https://open.spotify.com/track/63q9LqTK5iiZLy3cTvLMUf"
@@ -1090,6 +1108,24 @@
       "duration_ms": 213040,
       "name": "Best for You",
       "url": "https://open.spotify.com/track/5cOCrukAObZVCm7M8iKyqp"
+    },
+    {
+      "album": {
+        "name": "Best Of Me",
+        "url": "https://open.spotify.com/album/41ydQPbNKY798LnOihcmC2"
+      },
+      "artists": [
+        {
+          "name": "The Brummies",
+          "url": "https://open.spotify.com/artist/1B9SbgFtfWSlUvAd1y0AaA"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202986,
+      "name": "Best Of Me",
+      "url": "https://open.spotify.com/track/5mIbS6VqztXovDHi0Fx9Zj"
     },
     {
       "album": {
@@ -2750,7 +2786,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 252574,
       "name": "Dibujos De Mi Alma",
       "url": "https://open.spotify.com/track/32c15DJj92CagqUmp7idZ3"
@@ -4092,7 +4128,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 195589,
       "name": "Feels So Good",
       "url": "https://open.spotify.com/track/1X0GH4jrFy1tDUcMXMfhLP"
@@ -4128,7 +4164,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 174363,
       "name": "Fever",
       "url": "https://open.spotify.com/track/7ntbVb2c5nTk2UwM4pBFIw"
@@ -4858,7 +4894,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 324000,
       "name": "Goggles",
       "url": "https://open.spotify.com/track/4ynX5irsZTPYHjWUOwrREQ"
@@ -5826,7 +5862,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 254399,
       "name": "I Just Wanna",
       "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
@@ -8081,6 +8117,28 @@
     },
     {
       "album": {
+        "name": "Meteor Shower",
+        "url": "https://open.spotify.com/album/0mJGb5oXHgyLX5DlJLnt8D"
+      },
+      "artists": [
+        {
+          "name": "Scoobert Doobert",
+          "url": "https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn"
+        },
+        {
+          "name": "Jamie Drake",
+          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231750,
+      "name": "Meteor Shower",
+      "url": "https://open.spotify.com/track/2xWnX3wmodlJgoEgLnyeMG"
+    },
+    {
+      "album": {
         "name": "Emperor Tomato Ketchup (Expanded Edition)",
         "url": "https://open.spotify.com/album/6SI4L8ARoPuOCGcnBrnIkn"
       },
@@ -8154,6 +8212,28 @@
       "duration_ms": 431595,
       "name": "Minor Miracles",
       "url": "https://open.spotify.com/track/0KVyDDdzOn6Vubo7gEPP5r"
+    },
+    {
+      "album": {
+        "name": "Minor Setback",
+        "url": "https://open.spotify.com/album/6olEZ2LGvSTZW74nhiWeFG"
+      },
+      "artists": [
+        {
+          "name": "GUM",
+          "url": "https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW"
+        },
+        {
+          "name": "Ambrose Kenny-Smith",
+          "url": "https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209347,
+      "name": "Minor Setback",
+      "url": "https://open.spotify.com/track/0X20NKGsApgQ09YXfr4O4C"
     },
     {
       "album": {
@@ -8984,6 +9064,24 @@
       "duration_ms": 254871,
       "name": "Nuestra Victoria",
       "url": "https://open.spotify.com/track/3ZRYcxElGx6Yjdj6uzqwYW"
+    },
+    {
+      "album": {
+        "name": "Lucha",
+        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262184,
+      "name": "Nunca",
+      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
     },
     {
       "album": {
@@ -10038,7 +10136,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 228306,
       "name": "Raspberry Jam",
       "url": "https://open.spotify.com/track/4fRpUfyqeqTOeunuvRkJ57"
@@ -10554,7 +10652,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 210653,
       "name": "Sense",
       "url": "https://open.spotify.com/track/2oeqKWbVwK5Ly2vjwWJKHd"
@@ -11846,6 +11944,28 @@
       "duration_ms": 219103,
       "name": "Take",
       "url": "https://open.spotify.com/track/1a47TGHdpraBmuMkoVSiTF"
+    },
+    {
+      "album": {
+        "name": "Take Control (feat. Imad Royal)",
+        "url": "https://open.spotify.com/album/5Mj9VbJSF0SwbWFrvZY5ic"
+      },
+      "artists": [
+        {
+          "name": "Kwon",
+          "url": "https://open.spotify.com/artist/0qneAARS2Tob7enstR4V7e"
+        },
+        {
+          "name": "Imad Royal",
+          "url": "https://open.spotify.com/artist/6OgklJh1e1Z9S1Q2IQsHgy"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168813,
+      "name": "Take Control (feat. Imad Royal)",
+      "url": "https://open.spotify.com/track/4REfjCcvHLxAEybBfZydcS"
     },
     {
       "album": {

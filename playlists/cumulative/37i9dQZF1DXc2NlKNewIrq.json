@@ -540,6 +540,24 @@
     {
       "album": {
         "name": "Plight & Premonition Flux & Mutability",
+        "url": "https://open.spotify.com/album/51e9U6NoYboyOSzPOEIoos"
+      },
+      "artists": [
+        {
+          "name": "David Sylvian & Holger Czukay",
+          "url": "https://open.spotify.com/artist/26GDS2n5mUuLoIJPJtiNU7"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1015686,
+      "name": "Flux (A Big, Bright, Colourful World)",
+      "url": "https://open.spotify.com/track/4LUvsUCGIqyKXIEQIsvgsl"
+    },
+    {
+      "album": {
+        "name": "Plight & Premonition Flux & Mutability",
         "url": "https://open.spotify.com/album/6iiBcOISDBWY0J1n3jNcRP"
       },
       "artists": [
@@ -550,7 +568,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 1015686,
       "name": "Flux (A Big, Bright, Colourful World)",
       "url": "https://open.spotify.com/track/63UbIBRjfi8273JzExI9Mk"

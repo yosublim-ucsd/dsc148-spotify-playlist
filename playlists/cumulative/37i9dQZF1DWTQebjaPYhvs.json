@@ -1636,10 +1636,28 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 191356,
       "name": "Let It Out",
       "url": "https://open.spotify.com/track/42O1JZwHywFbQ0BDU1CDnu"
+    },
+    {
+      "album": {
+        "name": "Out of the Heart of Darkness",
+        "url": "https://open.spotify.com/album/3wwGB8WGNtpi5OEvfQ8RT9"
+      },
+      "artists": [
+        {
+          "name": "L.A. Edwards",
+          "url": "https://open.spotify.com/artist/29Hjc5nLGKpM1XFXxu9HHV"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191356,
+      "name": "Let It Out",
+      "url": "https://open.spotify.com/track/667wEJenBMFpbZuh8wzism"
     },
     {
       "album": {

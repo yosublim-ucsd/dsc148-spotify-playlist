@@ -4,7 +4,7 @@
 
 > Discover new artists on the horizon this 2023.
 
-131 songs - 8 hr 14 min
+132 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [THAT'S MY BABY](https://open.spotify.com/track/0PhsD58bUDnIFacJ7itwzb) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [THAT'S MY BABY](https://open.spotify.com/album/20rpmzk4aqw8CvrHTEMMPe) | 3:55 | 2023-04-13 |  |
 | [The Baddest](https://open.spotify.com/track/7q9NUxTI5vhWNBq94PYURo) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [The Baddest](https://open.spotify.com/album/686RAST484tdwr0GNYZRJA) | 3:16 | 2021-11-25 | 2022-03-25 |
 | [The Beast](https://open.spotify.com/track/40e9mNIqd4wLE3EiwPC3UL) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [The Beast](https://open.spotify.com/album/3flkYNv2VM7Mls9M9ww8HX) | 3:25 | 2023-04-13 |  |
+| [The Fate Of The One Not Chosen](https://open.spotify.com/track/3vuMrOt51GvnIuI61HwSvw) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [The Fate Of The One Not Chosen](https://open.spotify.com/album/1JGW6r7XiIfGurgJQxNNUo) | 3:35 | 2023-04-28 |  |
 | [The Light](https://open.spotify.com/track/2ySkMWsWrVA7rvppQUTn8u) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [The Light](https://open.spotify.com/album/6Q8UbSdYcoTdMCayeAWMqY) | 3:12 | 2021-11-25 | 2022-03-25 |
 | [Tibay 'Yan](https://open.spotify.com/track/7l4NOgPCczq62tTtlhGR35) | [Inigo Pascual](https://open.spotify.com/artist/0XOSmu9Qn1agQULUVe0dAK), [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Tibay 'Yan](https://open.spotify.com/album/1AM76pz4GPDyqOItxyECaB) | 4:10 | 2021-11-25 | 2022-03-25 |
 | [TIKTIKTOKIN](https://open.spotify.com/track/160yGlJuvJx3AnD3IXn7Am) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [TIKTIKTOKIN](https://open.spotify.com/album/1WumZ7GBSO6JoTy2oMzBJs) | 2:05 | 2023-04-13 |  |

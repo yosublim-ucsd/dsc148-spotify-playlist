@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Les Louanges",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Clodelle",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -264,7 +264,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 197744,
       "name": "1994",
       "url": "https://open.spotify.com/track/6rTgr7hrdyBVpGXehD8iWQ"
@@ -786,6 +786,24 @@
       "duration_ms": 267676,
       "name": "911",
       "url": "https://open.spotify.com/track/0Kkq5NPjYbRiZTgLLuvHJk"
+    },
+    {
+      "album": {
+        "name": "ROUGE N\u00c9ON",
+        "url": "https://open.spotify.com/album/7LLEJ0jIS3lfCF79i0dXQj"
+      },
+      "artists": [
+        {
+          "name": "Green Montana",
+          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161906,
+      "name": "92i MAYBACH",
+      "url": "https://open.spotify.com/track/24EO9OXmL4J02RAlabjxgS"
     },
     {
       "album": {
@@ -5368,8 +5386,8 @@
       },
       "artists": [
         {
-          "name": "KIKESA",
-          "url": "https://open.spotify.com/artist/3U0pUvFUMv6gJiTFnXiueY"
+          "name": "KIK",
+          "url": "https://open.spotify.com/artist/1qb9nCDBGHKMaw48eAtW84"
         }
       ],
       "date_added": "2023-04-07",
@@ -9089,6 +9107,42 @@
     },
     {
       "album": {
+        "name": "Eastside Story",
+        "url": "https://open.spotify.com/album/6Lk7hHtq1I1pEYcS6ZHZNs"
+      },
+      "artists": [
+        {
+          "name": "Imposs",
+          "url": "https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Eastside Story",
+      "url": "https://open.spotify.com/track/75XxDL422jppGj97qBCVxy"
+    },
+    {
+      "album": {
+        "name": "EAU DE MARS",
+        "url": "https://open.spotify.com/album/3bmTy2k4jf6KnWhs2djxfu"
+      },
+      "artists": [
+        {
+          "name": "HALO",
+          "url": "https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206056,
+      "name": "EAU DE MARS",
+      "url": "https://open.spotify.com/track/4OjqwWFfbrgsvJSArDXNyq"
+    },
+    {
+      "album": {
         "name": "All\u00f4 Fant\u00f4me",
         "url": "https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8"
       },
@@ -11676,7 +11730,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 160845,
       "name": "Gabriel",
       "url": "https://open.spotify.com/track/4kfbDkVE9R35VQyem72ypS"
@@ -15965,6 +16019,24 @@
     },
     {
       "album": {
+        "name": "L'h\u00e9riti\u00e8re",
+        "url": "https://open.spotify.com/album/6JePXyPg64p8pdMdDPIaat"
+      },
+      "artists": [
+        {
+          "name": "Amay Laoni",
+          "url": "https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210707,
+      "name": "L'h\u00e9riti\u00e8re",
+      "url": "https://open.spotify.com/track/6TFQrEE08PznI4meYKFm5I"
+    },
+    {
+      "album": {
         "name": "L'impasse",
         "url": "https://open.spotify.com/album/2pQ4KWozkrWLmCXFeJJWJf"
       },
@@ -18270,7 +18342,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 206306,
       "name": "Le temps des morts",
       "url": "https://open.spotify.com/track/1OexP2LCoYK896qPpOyNOl"
@@ -18542,6 +18614,24 @@
       "duration_ms": 143069,
       "name": "Les belles filles - Spotify Singles",
       "url": "https://open.spotify.com/track/312JgU2zABk8VkjSdkjonp"
+    },
+    {
+      "album": {
+        "name": "Les coeurs sur la plage",
+        "url": "https://open.spotify.com/album/2WaBxgTnfYlCAeUq4PNnwd"
+      },
+      "artists": [
+        {
+          "name": "Clodelle",
+          "url": "https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198266,
+      "name": "Les c\u0153urs sur la plage",
+      "url": "https://open.spotify.com/track/5imV5MFC9DWMezCz1ewL4Y"
     },
     {
       "album": {
@@ -19394,7 +19484,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 174608,
       "name": "Lose It All",
       "url": "https://open.spotify.com/track/7g0Fo1jbQfEEFIUXAYnbrm"
@@ -23953,6 +24043,28 @@
     },
     {
       "album": {
+        "name": "H\u00c9RITAGE",
+        "url": "https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        },
+        {
+          "name": "Loud",
+          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284801,
+      "name": "PARANO",
+      "url": "https://open.spotify.com/track/0ruI6MkAOhq597eZzFd3Ia"
+    },
+    {
+      "album": {
         "name": "Parano\u00efa",
         "url": "https://open.spotify.com/album/04sXwrxoUbpMQUyEyNX34j"
       },
@@ -24782,6 +24894,24 @@
       "duration_ms": 132466,
       "name": "Petits fruits",
       "url": "https://open.spotify.com/track/0Mi7LNiJufQgLAsFVdAutO"
+    },
+    {
+      "album": {
+        "name": "Dans la lune",
+        "url": "https://open.spotify.com/album/4yF9UgTFxwMbb4EzS3CDND"
+      },
+      "artists": [
+        {
+          "name": "Meghan Oak",
+          "url": "https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189295,
+      "name": "Peur d'\u00eatre aim\u00e9",
+      "url": "https://open.spotify.com/track/62F1TZLqCQKtbx1EOx1DnV"
     },
     {
       "album": {
@@ -28302,7 +28432,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 165693,
       "name": "Sandwich aux tomates",
       "url": "https://open.spotify.com/track/7mxUcpsSjIuTSjiTUGFWEa"
@@ -31698,7 +31828,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 141786,
       "name": "tout recommencer",
       "url": "https://open.spotify.com/track/0AV9tT6p54itcLnpr8YhQa"
@@ -32890,7 +33020,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 182880,
       "name": "Un peu de magie",
       "url": "https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz"
@@ -34510,7 +34640,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 187000,
       "name": "zzz",
       "url": "https://open.spotify.com/track/7dO2JbXPSd8MhXv38IKi2x"
@@ -34764,6 +34894,24 @@
       "duration_ms": 291220,
       "name": "\u00c0 pr\u00e9sent",
       "url": "https://open.spotify.com/track/5WbdB8SuUJ1Rgyhh8Uyq3L"
+    },
+    {
+      "album": {
+        "name": "\u00c0 quoi tu penses",
+        "url": "https://open.spotify.com/album/5NRQmMRMrQHhzkfrZe9DFa"
+      },
+      "artists": [
+        {
+          "name": "LUMI\u00c8RE",
+          "url": "https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236260,
+      "name": "\u00c0 quoi tu penses",
+      "url": "https://open.spotify.com/track/7tS2TnBWC05xJ0GXLZ9kTD"
     },
     {
       "album": {

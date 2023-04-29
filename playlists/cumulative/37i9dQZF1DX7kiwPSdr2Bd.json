@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Mari Borges",
+  "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: N\u00edvea Soares",
   "name": "Mulheres do Gospel",
   "tracks": [
     {
@@ -561,6 +561,24 @@
     },
     {
       "album": {
+        "name": "Cristo / Face a Face (Agnus Dei) [Ensaio Aberto]",
+        "url": "https://open.spotify.com/album/760kAKxycq6NStzZ3vg5rH"
+      },
+      "artists": [
+        {
+          "name": "Paloma Possi",
+          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 479305,
+      "name": "Cristo / Face a Face (Agnus Dei) - Ensaio Aberto",
+      "url": "https://open.spotify.com/track/4tWplPdR7JPZrNO8WpXKCQ"
+    },
+    {
+      "album": {
         "name": "Deixa",
         "url": "https://open.spotify.com/album/2p9EJG0D9VUekQ1FJYNjqI"
       },
@@ -869,6 +887,28 @@
     },
     {
       "album": {
+        "name": "Ele Vivo Est\u00e1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1TfwbOSiKetVgFv3hwXmJ8"
+      },
+      "artists": [
+        {
+          "name": "Ericka Nascimento",
+          "url": "https://open.spotify.com/artist/3T7jWouy5g5iXOJH7uI0ia"
+        },
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 561464,
+      "name": "Ele Vivo Est\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/1rdX7BDE5okxQ3gIVbj1sy"
+    },
+    {
+      "album": {
         "name": "Escolhidas",
         "url": "https://open.spotify.com/album/4ull6HOMUtcjs9hhlOb3YC"
       },
@@ -1018,7 +1058,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 235500,
       "name": "Eu Te Adorarei",
       "url": "https://open.spotify.com/track/1Mlg6pel2dGEIvTrsBdv7T"
@@ -1300,6 +1340,24 @@
       "duration_ms": 325426,
       "name": "Maranata",
       "url": "https://open.spotify.com/track/14DnXcSHiMvK7kHnsuhqm7"
+    },
+    {
+      "album": {
+        "name": "Maravilhado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454587,
+      "name": "Maravilhado - Ao Vivo",
+      "url": "https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY"
     },
     {
       "album": {
@@ -1958,7 +2016,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 240000,
       "name": "Pense Bem",
       "url": "https://open.spotify.com/track/6MbLxZrhRG0aWpL4xYtKGE"
@@ -2204,7 +2262,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 275260,
       "name": "Sangue de Jesus",
       "url": "https://open.spotify.com/track/7DxTA3yeeE2X3OVBcvai5m"

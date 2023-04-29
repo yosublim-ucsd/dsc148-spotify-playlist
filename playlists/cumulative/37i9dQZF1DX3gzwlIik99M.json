@@ -2339,6 +2339,24 @@
     },
     {
       "album": {
+        "name": "Oscuro Plan del Poder",
+        "url": "https://open.spotify.com/album/0Ja02wnS135j7p3CJTfjbJ"
+      },
+      "artists": [
+        {
+          "name": "Malon",
+          "url": "https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218035,
+      "name": "Pacto Pesado",
+      "url": "https://open.spotify.com/track/63MHBrGBDADyDEDHv5uWej"
+    },
+    {
+      "album": {
         "name": "A Deep Dark Dream",
         "url": "https://open.spotify.com/album/2fBvjaaGkLJSZ3as76woZy"
       },
@@ -3240,7 +3258,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 180773,
       "name": "Victimized",
       "url": "https://open.spotify.com/track/6OSb8LkFYX7kUSDzSmphxH"

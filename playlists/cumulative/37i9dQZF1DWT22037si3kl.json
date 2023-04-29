@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Aka Rasta, Dalua",
+  "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Vulgo FK, Kyan",
   "name": "O Drip",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 173548,
       "name": "3S",
       "url": "https://open.spotify.com/track/7IUjxiS0HGn45BePSWJDK7"
@@ -1737,6 +1737,40 @@
     },
     {
       "album": {
+        "name": "Grana",
+        "url": "https://open.spotify.com/album/7BSkB9a1lAbPRNp3bXAutT"
+      },
+      "artists": [
+        {
+          "name": "PJ HOUDINI",
+          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
+        },
+        {
+          "name": "Victor Sabri",
+          "url": "https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Viper",
+          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "Grana",
+      "url": "https://open.spotify.com/track/4D3fTJXYQ0rle71uLKAOvI"
+    },
+    {
+      "album": {
         "name": "Melhor Amigo do Dinheiro",
         "url": "https://open.spotify.com/album/3kqt7zNmCfLdS5q3Hv8qzk"
       },
@@ -1778,7 +1812,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 158709,
       "name": "Gucci Gucci",
       "url": "https://open.spotify.com/track/1QoVBtfK4XMo95WOwRQAI0"
@@ -2558,7 +2592,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 198750,
       "name": "Louis Vuitton",
       "url": "https://open.spotify.com/track/1qskwaEEWMBqkeHINOSTtc"
@@ -2773,6 +2807,36 @@
     },
     {
       "album": {
+        "name": "Mandona (Se eu te dissesse)",
+        "url": "https://open.spotify.com/album/2yvtupawElKVIkRkKQJpdK"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127058,
+      "name": "Mandona (Se eu te dissesse)",
+      "url": "https://open.spotify.com/track/0yZRkiCSy4ra9EykuYyGo0"
+    },
+    {
+      "album": {
         "name": "Mans\u00e3o da Nadamal",
         "url": "https://open.spotify.com/album/0LnEZovsRCo7uDMNLOLWGk"
       },
@@ -2800,6 +2864,40 @@
       "duration_ms": 242500,
       "name": "Mans\u00e3o da Nadamal",
       "url": "https://open.spotify.com/track/1mt7mgPFH8YoJHIUFG8yF3"
+    },
+    {
+      "album": {
+        "name": "Marid\u00e3o (feat. Kizzy & Feek)",
+        "url": "https://open.spotify.com/album/0aSsD1WItij77UITRQNCxP"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+        },
+        {
+          "name": "Feek",
+          "url": "https://open.spotify.com/artist/7rVT3dNwCamCtw5rC7salV"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322622,
+      "name": "Marid\u00e3o (feat. Kizzy & Feek)",
+      "url": "https://open.spotify.com/track/66H84rhrbf31Tm8Mv9GAtJ"
     },
     {
       "album": {
@@ -3468,6 +3566,32 @@
       "duration_ms": 236000,
       "name": "Ouro (Versus Vol. 1) [feat. Tropkillaz]",
       "url": "https://open.spotify.com/track/7i8F768LPwiIlxzmUaTXqi"
+    },
+    {
+      "album": {
+        "name": "Ouro Rose",
+        "url": "https://open.spotify.com/album/7cck41bWwvuVgc20hPXgCC"
+      },
+      "artists": [
+        {
+          "name": "rarefireboy",
+          "url": "https://open.spotify.com/artist/6O5EY8Q7cx4MFhbgcUIAZ8"
+        },
+        {
+          "name": "St.Borges",
+          "url": "https://open.spotify.com/artist/1Yc7h842kGeQTZfdSVQtrQ"
+        },
+        {
+          "name": "Drey",
+          "url": "https://open.spotify.com/artist/5U8u5F9IqRQrUAut8by0wN"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155480,
+      "name": "Ouro Rose",
+      "url": "https://open.spotify.com/track/7CISV57Tvy6FeeRoUV0Mov"
     },
     {
       "album": {
@@ -5380,7 +5504,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 233142,
       "name": "X6",
       "url": "https://open.spotify.com/track/0T6XMC5fc5H5OYabHKKhHR"

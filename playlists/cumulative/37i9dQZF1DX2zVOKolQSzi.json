@@ -1384,10 +1384,32 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 268040,
       "name": "The Wilhelm Scream (feat. Meg Washington)",
       "url": "https://open.spotify.com/track/0x4zqBZSjYvVLuttqcfu9W"
+    },
+    {
+      "album": {
+        "name": "Medicine Man",
+        "url": "https://open.spotify.com/album/4lWBwTzsdHz0fZqAl369FL"
+      },
+      "artists": [
+        {
+          "name": "The Bamboos",
+          "url": "https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K"
+        },
+        {
+          "name": "Meg Washington",
+          "url": "https://open.spotify.com/artist/5AHMfr68CzfjKxMU7MQAeZ"
+        }
+      ],
+      "date_added": "2021-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268040,
+      "name": "The Wilhelm Scream (feat. Meg Washington)",
+      "url": "https://open.spotify.com/track/1GShu7jYDAFp1YqZgD5xtC"
     },
     {
       "album": {

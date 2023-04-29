@@ -4,7 +4,7 @@
 
 > the pearls of an oyster.
 
-509 songs - 1 day 4 hr 9 min
+510 songs - 1 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [6am](https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [6am](https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm) | 3:41 | 2022-11-10 | 2023-03-10 |
 | [89 Earthquake](https://open.spotify.com/track/60QgT3PndeEDhdteZfqXGv) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [89 Earthquake](https://open.spotify.com/album/5cbiVwhOtdorDA5YVPyclL) | 3:12 | 2023-03-02 | 2023-04-07 |
 | [90 Proof \(with J\. Cole\)](https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [90 Proof \(with J\. Cole\)](https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u) | 3:28 | 2022-10-28 | 2022-11-11 |
-| [\_2gether\_4ever](https://open.spotify.com/track/63RhlW6kxgnaoClxphMaIO) | [sonic girl](https://open.spotify.com/artist/31vO4IuGYTlzTeEPIVw8TR) | [\_2gether\_4ever](https://open.spotify.com/album/3tqDJqYcxyGuhxvEtvGxgj) | 2:37 | 2023-04-06 |  |
+| [\_2gether\_4ever](https://open.spotify.com/track/63RhlW6kxgnaoClxphMaIO) | [sonic girl](https://open.spotify.com/artist/31vO4IuGYTlzTeEPIVw8TR) | [\_2gether\_4ever](https://open.spotify.com/album/3tqDJqYcxyGuhxvEtvGxgj) | 2:37 | 2023-04-06 | 2023-04-29 |
+| [\_2gether\_4ever](https://open.spotify.com/track/7I3yccUc60IX8N3daEkJyV) | [sonic girl](https://open.spotify.com/artist/31vO4IuGYTlzTeEPIVw8TR) | [STARBORN \(mixtape\)](https://open.spotify.com/album/0yPEAiOzEmWEDeRd1tj78N) | 2:37 | 2023-04-27 |  |
 | [ACTION MAN](https://open.spotify.com/track/7xmIP39CtageyeY2BPK4vG) | [Joe Lefty](https://open.spotify.com/artist/4Zbjxv6NJcEGkKUkRiLCad) | [ACTION MAN](https://open.spotify.com/album/6rLhk9Kn1w8j8ecAGgBqig) | 2:50 | 2023-02-23 | 2023-03-18 |
 | [ADHD](https://open.spotify.com/track/1VptKlDOriidHrb0eaIo22) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Graduation](https://open.spotify.com/album/6r2LkXt6DqfQGV70OHAilY) | 2:36 | 2023-02-16 | 2023-02-24 |
 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 | 2022-10-28 | 2022-12-16 |

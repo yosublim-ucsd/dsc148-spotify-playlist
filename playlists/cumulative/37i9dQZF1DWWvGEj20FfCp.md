@@ -4,7 +4,7 @@
 
 > Where music meets fashion\. Soundtrack for designer Christopher John Rogers' Collection 012 Runway Show.
 
-460 songs - 1 day 7 hr 3 min
+461 songs - 1 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,8 @@
 | [On Our Own](https://open.spotify.com/track/3ojDU1HhKEfdExIN6QsK8q) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Ghostbusters II](https://open.spotify.com/album/7hb7PW4pEcddvEPyU8WORa) | 4:54 | 2022-08-22 | 2022-09-07 |
 | [One Month Off](https://open.spotify.com/track/40tPgr6VzfwSMwa32pvEwy) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Intimacy](https://open.spotify.com/album/0ZdR2zjN6X6Wvffw8l87yl) | 3:35 | 2023-04-26 |  |
 | [Only Man](https://open.spotify.com/track/2fmtVaFoS0QXb96C38Mx2j) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | ['Til Shiloh \(25th Anniversary Edition\)](https://open.spotify.com/album/44TzM9HNKi898wWhkH8FNu) | 2:51 | 2022-04-29 | 2022-05-03 |
-| [Only You](https://open.spotify.com/track/3hYwZdd2dvngfePGMwkfbN) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K) | 6:21 | 2023-04-26 |  |
+| [Only You](https://open.spotify.com/track/3hYwZdd2dvngfePGMwkfbN) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K) | 6:21 | 2023-04-26 | 2023-04-29 |
+| [Only You](https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm) | 6:21 | 2023-04-26 |  |
 | [Ooo La La La](https://open.spotify.com/track/3lTEXatUG1GWFiDhWsrYAi) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Naked To The World](https://open.spotify.com/album/1wlwKYu34lJ9d05ESCtwaA) | 5:17 | 2022-08-22 | 2022-09-07 |
 | [Other Men](https://open.spotify.com/track/6ZhHnHbRmeJZ5XtANZIPoX) | [Crystal Murray](https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH), [Le Diouck](https://open.spotify.com/artist/1EeZGqKiuxGQlAWqGDkd1C) | [Other Men](https://open.spotify.com/album/1nkFMxznX7i26AlamXEaJr) | 3:27 | 2022-09-06 | 2023-02-11 |
 | [Over Your Head](https://open.spotify.com/track/7JsuXl9Odf3V38ksu4FWDZ) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pluto x Baby Pluto \(Deluxe\)](https://open.spotify.com/album/3aITAVBURujVe8fhI2seeR) | 3:06 | 2022-04-29 | 2022-06-01 |

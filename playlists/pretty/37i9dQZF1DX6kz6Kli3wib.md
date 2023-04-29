@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kz6Kli3wib.md) - [plain]
 
 > Soft electronic music for your dinner.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,578 likes - 148 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,621 likes - 148 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,22 +21,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kz6Kli3wib.md) - [plain]
 | 11 | [Easy Going](https://open.spotify.com/track/0ZcsS6h3lz6651TSvMTCqo) | [Dee Delvechio](https://open.spotify.com/artist/6MGmJoRyVYie4OBBtkvLQ2) | [Easy Going](https://open.spotify.com/album/4IXljxNRUqWInfLbpeUMCJ) | 2:21 |
 | 12 | [Counting Minutes](https://open.spotify.com/track/4SQCH4rJrVxAHcdlLOWtX9) | [Tiles Square](https://open.spotify.com/artist/5d7LjYFnNNpIQbnh3zlFkI) | [Counting Minutes](https://open.spotify.com/album/28z1GRHUJVAiVihlBM1pqe) | 2:18 |
 | 13 | [Thanks To You](https://open.spotify.com/track/1a3kjYRNW9vrvn8VG7wmv5) | [Fuze T](https://open.spotify.com/artist/7Eiei3IWCbX0zxoWoxR1KK) | [Thanks To You](https://open.spotify.com/album/0lHve23h4PTqyf9L9b53Uy) | 3:07 |
-| 14 | [Moment Of Truth](https://open.spotify.com/track/5UtW7NhfDYUmmLy87YKlat) | [Of An Age](https://open.spotify.com/artist/5vbszQaOLYBHG5jjVvF4Le) | [Moment Of Truth](https://open.spotify.com/album/3zgh81HSmMS848FRY1ugqm) | 3:45 |
-| 15 | [Nighttime Flow](https://open.spotify.com/track/2M8UxcYTFMQgTPC16zjiJB) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Nighttime Flow](https://open.spotify.com/album/1BzIrWpww8v3E8fluT75KV) | 2:52 |
-| 16 | [Branches](https://open.spotify.com/track/1sI1OCmoBg5Ty1xN1PRAHs) | [Lazy Driver](https://open.spotify.com/artist/3zkRucjAZeFDqyYYyUylmg) | [Branches](https://open.spotify.com/album/4yU8TPNB2El1nZW23uU1LH) | 2:13 |
-| 17 | [Fives](https://open.spotify.com/track/13UEDh7Imgd0BTOY0n4wnr) | [Chimi Berry](https://open.spotify.com/artist/33n8Oo5k1zPw2yQ5CkJPSc) | [Fives](https://open.spotify.com/album/0lr9HrEbGPxh0JSllsGsMM) | 1:58 |
-| 18 | [Adore](https://open.spotify.com/track/7rLY1ca0qavXjgyhDcETEh) | [Maurea](https://open.spotify.com/artist/6GqXPQOxk9y94VmCzjZMEj) | [Adore](https://open.spotify.com/album/4y0TWPqptIt5Cy94kUEyfm) | 2:07 |
-| 19 | [Shy Papi](https://open.spotify.com/track/3DtljtN2uHPJyPO97g73BY) | [Wibbie Slush](https://open.spotify.com/artist/2f93ehlJ2VtVnE8EahLevj) | [Shy Papi](https://open.spotify.com/album/5hZQPlHDYj6c8jX99bijQ4) | 2:32 |
-| 20 | [Lacando](https://open.spotify.com/track/7FzrMqCONRlc3twQKA3ldI) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Lacando](https://open.spotify.com/album/74GA0mW6J1bRHolW9VzDmg) | 2:10 |
-| 21 | [Packing](https://open.spotify.com/track/7oA7o9GBQfEI3kqST4Jnuf) | [Ash Spark](https://open.spotify.com/artist/4nByMghGme4u8Zq4uSuh6w) | [Packing](https://open.spotify.com/album/43RJIf3KRrDg92P6YTtwwR) | 2:17 |
-| 22 | [Concession](https://open.spotify.com/track/24ad6v49HSgza51bogmg98) | [Ash Spark](https://open.spotify.com/artist/4nByMghGme4u8Zq4uSuh6w) | [Concession](https://open.spotify.com/album/0W9VfRzTmuPzJmoIb39wzf) | 2:49 |
-| 23 | [Rose](https://open.spotify.com/track/0bEixfuWUAwzt6Khi1ccgn) | [Drofty](https://open.spotify.com/artist/0RVQAq5SiopM6KTV68p7FM) | [Rose](https://open.spotify.com/album/6O3C5aOvvsqxAVfcyL1nvV) | 2:59 |
-| 24 | [Crystals](https://open.spotify.com/track/02o4X4FcJr6YeDxsNypNrY) | [Ocean Grape](https://open.spotify.com/artist/6jVI2QqhcksiDyvkBPAgtR) | [Crystals](https://open.spotify.com/album/00jgyv6zuR4TrBNJubM84f) | 2:19 |
-| 25 | [Roads](https://open.spotify.com/track/1MmHFGCOtt5QDYTVxKkZLU) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [Roads](https://open.spotify.com/album/4AI1ZaPqCCQntJGjVTk79S) | 3:02 |
-| 26 | [Looped\-tape excesses](https://open.spotify.com/track/5jXitTj0rgRXOIsxJb6AxE) | [Dove Tales](https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf) | [Looped\-tape excesses](https://open.spotify.com/album/3qnZ5AacXwJJcnAsPpyOth) | 3:32 |
-| 27 | [Beach Vacay](https://open.spotify.com/track/594cKAdPhzneZmpuOJRNQm) | [Pink Beaches](https://open.spotify.com/artist/4BD1682O6X6qea7XWlo6tq) | [Beach Vacay](https://open.spotify.com/album/3GCaSyRf0LPvVGj4s7n3mW) | 2:41 |
-| 28 | [Beau](https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni) | [Cámille](https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW) | [Beau](https://open.spotify.com/album/5BiZr5UfayYF60iP9624TT) | 2:32 |
-| 29 | [foxy](https://open.spotify.com/track/5ulkTVmdOUNaymBoWKA9Ng) | [QOOKi](https://open.spotify.com/artist/5TOUzS7Af3LJBfnTF7E0sq) | [foxy](https://open.spotify.com/album/7AvbXLf6cNq3QUEyZLQ4M4) | 2:00 |
+| 14 | [Picking Up](https://open.spotify.com/track/4pqm5iHPtHAHSwyAWnmIi1) | [Floatational](https://open.spotify.com/artist/0n71HQhO8y90tbTIQzVRHY) | [Picking Up](https://open.spotify.com/album/1PikbvLSFTc0eXbwSlOWNb) | 2:38 |
+| 15 | [Moment Of Truth](https://open.spotify.com/track/5UtW7NhfDYUmmLy87YKlat) | [Of An Age](https://open.spotify.com/artist/5vbszQaOLYBHG5jjVvF4Le) | [Moment Of Truth](https://open.spotify.com/album/3zgh81HSmMS848FRY1ugqm) | 3:45 |
+| 16 | [Nighttime Flow](https://open.spotify.com/track/2M8UxcYTFMQgTPC16zjiJB) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Nighttime Flow](https://open.spotify.com/album/1BzIrWpww8v3E8fluT75KV) | 2:52 |
+| 17 | [Branches](https://open.spotify.com/track/1sI1OCmoBg5Ty1xN1PRAHs) | [Lazy Driver](https://open.spotify.com/artist/3zkRucjAZeFDqyYYyUylmg) | [Branches](https://open.spotify.com/album/4yU8TPNB2El1nZW23uU1LH) | 2:13 |
+| 18 | [Fives](https://open.spotify.com/track/13UEDh7Imgd0BTOY0n4wnr) | [Chimi Berry](https://open.spotify.com/artist/33n8Oo5k1zPw2yQ5CkJPSc) | [Fives](https://open.spotify.com/album/0lr9HrEbGPxh0JSllsGsMM) | 1:58 |
+| 19 | [Adore](https://open.spotify.com/track/7rLY1ca0qavXjgyhDcETEh) | [Maurea](https://open.spotify.com/artist/6GqXPQOxk9y94VmCzjZMEj) | [Adore](https://open.spotify.com/album/4y0TWPqptIt5Cy94kUEyfm) | 2:07 |
+| 20 | [Shy Papi](https://open.spotify.com/track/3DtljtN2uHPJyPO97g73BY) | [Wibbie Slush](https://open.spotify.com/artist/2f93ehlJ2VtVnE8EahLevj) | [Shy Papi](https://open.spotify.com/album/5hZQPlHDYj6c8jX99bijQ4) | 2:32 |
+| 21 | [Lacando](https://open.spotify.com/track/7FzrMqCONRlc3twQKA3ldI) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Lacando](https://open.spotify.com/album/74GA0mW6J1bRHolW9VzDmg) | 2:10 |
+| 22 | [Packing](https://open.spotify.com/track/7oA7o9GBQfEI3kqST4Jnuf) | [Ash Spark](https://open.spotify.com/artist/4nByMghGme4u8Zq4uSuh6w) | [Packing](https://open.spotify.com/album/43RJIf3KRrDg92P6YTtwwR) | 2:17 |
+| 23 | [Concession](https://open.spotify.com/track/24ad6v49HSgza51bogmg98) | [Ash Spark](https://open.spotify.com/artist/4nByMghGme4u8Zq4uSuh6w) | [Concession](https://open.spotify.com/album/0W9VfRzTmuPzJmoIb39wzf) | 2:49 |
+| 24 | [Rose](https://open.spotify.com/track/0bEixfuWUAwzt6Khi1ccgn) | [Drofty](https://open.spotify.com/artist/0RVQAq5SiopM6KTV68p7FM) | [Rose](https://open.spotify.com/album/6O3C5aOvvsqxAVfcyL1nvV) | 2:59 |
+| 25 | [Crystals](https://open.spotify.com/track/02o4X4FcJr6YeDxsNypNrY) | [Ocean Grape](https://open.spotify.com/artist/6jVI2QqhcksiDyvkBPAgtR) | [Crystals](https://open.spotify.com/album/00jgyv6zuR4TrBNJubM84f) | 2:19 |
+| 26 | [Roads](https://open.spotify.com/track/1MmHFGCOtt5QDYTVxKkZLU) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [Roads](https://open.spotify.com/album/4AI1ZaPqCCQntJGjVTk79S) | 3:02 |
+| 27 | [Looped\-tape excesses](https://open.spotify.com/track/5jXitTj0rgRXOIsxJb6AxE) | [Dove Tales](https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf) | [Looped\-tape excesses](https://open.spotify.com/album/3qnZ5AacXwJJcnAsPpyOth) | 3:32 |
+| 28 | [Beach Vacay](https://open.spotify.com/track/594cKAdPhzneZmpuOJRNQm) | [Pink Beaches](https://open.spotify.com/artist/4BD1682O6X6qea7XWlo6tq) | [Beach Vacay](https://open.spotify.com/album/3GCaSyRf0LPvVGj4s7n3mW) | 2:41 |
+| 29 | [Beau](https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni) | [Cámille](https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW) | [Beau](https://open.spotify.com/album/5BiZr5UfayYF60iP9624TT) | 2:32 |
 | 30 | [New Home](https://open.spotify.com/track/3fOHXAfr6vkw7E4rbTs97y) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [Home Sweet Home](https://open.spotify.com/album/1U9SC6WxvpISBIgnlpYaKB) | 2:14 |
 | 31 | [foamy](https://open.spotify.com/track/6g3fCAc9ql4fmYAorTLuUw) | [Milk Malone](https://open.spotify.com/artist/4hkSi4HSY18rlKi0oWX049) | [foamy](https://open.spotify.com/album/4fYioHIsP8bXNUy0xM0SbQ) | 3:05 |
 | 32 | [Meadow Elves](https://open.spotify.com/track/2aBIhGvgolIDZX9MdRUOmX) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Meadow Elves](https://open.spotify.com/album/3ziTYR8sKeEGcqTtD4iqXf) | 2:30 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kz6Kli3wib.md) - [plain]
 | 147 | [Numberless](https://open.spotify.com/track/5ZDSl9sx8sDxzrrcAddsJm) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Numberless](https://open.spotify.com/album/4u2RN3NRm5qXEkI7eE0E24) | 2:46 |
 | 148 | [Torches to the Sky](https://open.spotify.com/track/5aIpECieH9BYbLdUt6iJI4) | [Lighter Days](https://open.spotify.com/artist/2ruDLZUYhNG7PMwQWEt0Pn) | [Torches to the Sky](https://open.spotify.com/album/0lHKzPVZAFbn3LXmtmcp6C) | 3:21 |
 
-Snapshot ID: `MCw5YjJiNWNiZmY2MjYzMjcwYTNjYzcxNzNkYjQ5ZDQyMjM5MzU3YmIy`
+Snapshot ID: `MCxiMWJkNzMzZTYyZWFjNGNiODdmZGQwNjk5MjY1OTExYTViNDMzNWZm`

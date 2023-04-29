@@ -4,7 +4,7 @@
 
 > Celebrate the epic GTA series with memorable moments and hidden gems from the soundtrack.
 
-202 songs - 14 hr 0 min
+203 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,8 +178,9 @@
 | [The MBO Theme](https://open.spotify.com/track/7Dkdo7XT32QWVJEBvMkmkI) | [Klein & M.B.O.](https://open.spotify.com/artist/5MZdKmi0C80e3eu53Vzr6f) | [The MBO Theme](https://open.spotify.com/album/5Yi2duJRmeoYkyLcOLfxk1) | 6:02 | 2021-11-17 | 2022-07-29 |
 | [The Next Episode](https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 2:41 | 2021-11-17 |  |
 | [The People](https://open.spotify.com/track/1fnQT0FTGrWps17gEO9lxB) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [The People](https://open.spotify.com/album/3mifTNqXpNk5WN8fouosdI) | 5:04 | 2021-11-17 | 2022-11-13 |
-| [The People](https://open.spotify.com/track/33vOqfo81CoGi3Pq8monZG) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Waking Hours](https://open.spotify.com/album/22df1sc3QyOGqE1cN9S6YW) | 5:04 | 2021-11-17 |  |
+| [The People](https://open.spotify.com/track/33vOqfo81CoGi3Pq8monZG) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Waking Hours](https://open.spotify.com/album/22df1sc3QyOGqE1cN9S6YW) | 5:04 | 2021-11-17 | 2023-04-29 |
 | [The People](https://open.spotify.com/track/5ivXYN8XooE2s4vDc6Lg4T) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [The People](https://open.spotify.com/album/0iIpPrEfqiSRfkTFFccE8m) | 5:04 | 2021-11-17 | 2022-07-29 |
+| [The People](https://open.spotify.com/track/7eAltT0d9gH2MIMG71zR7G) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Waking Hours](https://open.spotify.com/album/4oXy0JQwkai3lGXpqrx3Di) | 5:04 | 2021-11-17 |  |
 | [The Rhythm of the Night](https://open.spotify.com/track/5IPJsGFKtxKDPCkT8lhEjN) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/5ooTXuDOxCNohug76VGayS) | 4:24 | 2021-11-17 |  |
 | [The Scenic Route \(with Rick Ross & Anderson .Paak\)](https://open.spotify.com/track/4cEmMB907Xi22vV9RIOSQE) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [The Scenic Route \(with Rick Ross & Anderson .Paak\)](https://open.spotify.com/album/4vTOIv2RIvTy8HzyoZCzss) | 3:02 | 2022-02-04 |  |
 | [The Set Up](https://open.spotify.com/track/5ObACsupwtxnYfOWKO0Wzo) | [Favored Nations](https://open.spotify.com/artist/2kwaccOo07oL6joEC5Kc2X) | [The Music of Grand Theft Auto V, Vol\. 1: Original Music](https://open.spotify.com/album/31QCnHMnS7Cb4UdJkubgrr) | 4:03 | 2021-11-17 |  |

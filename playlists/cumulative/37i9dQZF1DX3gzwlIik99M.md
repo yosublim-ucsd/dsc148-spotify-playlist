@@ -4,7 +4,7 @@
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-182 songs - 12 hr 27 min
+183 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Outsider God Creation \(O.G.C\)](https://open.spotify.com/track/5TbhsLhD3xjvjp2uzpfkNJ) | [Tulkas](https://open.spotify.com/artist/4wdDuxUi2q03Md9qXRWDOD) | [The Beginning of the End](https://open.spotify.com/album/2K9YBzwC1T2aSiF3Gh7pBM) | 3:43 | 2020-10-24 | 2022-07-27 |
 | [Oídos Sordos](https://open.spotify.com/track/77LC0Gp1UA0tURs9iTF0Bk) | [Lethal Creation](https://open.spotify.com/artist/4AhluimFPLNnran1jD354B) | [Tierras Muertas](https://open.spotify.com/album/18QMq4GDdBduClwIG2RjUF) | 5:09 | 2020-10-24 | 2022-07-24 |
 | [Oídos Sordos](https://open.spotify.com/track/2O5p5Q5wxrzTD1MUePdeGL) | [Lethal Creation](https://open.spotify.com/artist/4AhluimFPLNnran1jD354B) | [Tierras Muertas](https://open.spotify.com/album/5gZM5ZDTygLJlzi6A7Ya8Q) | 5:09 | 2020-10-24 |  |
+| [Pacto Pesado](https://open.spotify.com/track/63MHBrGBDADyDEDHv5uWej) | [Malon](https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL) | [Oscuro Plan del Poder](https://open.spotify.com/album/0Ja02wnS135j7p3CJTfjbJ) | 3:38 | 2023-04-28 |  |
 | [Pain](https://open.spotify.com/track/3iW7mkx4IRFWlfFfYLdw24) | [Cromlech](https://open.spotify.com/artist/6Cn0i5S3HFlCJqzVBLSksj) | [A Deep Dark Dream](https://open.spotify.com/album/2fBvjaaGkLJSZ3as76woZy) | 4:50 | 2020-10-24 | 2022-07-19 |
 | [Patria Grande](https://open.spotify.com/track/4iLCcS2FPLARpk79K048Xd) | [Ursus](https://open.spotify.com/artist/60cpBRimjYOTTE3jnr7o9L) | [Fuerza Metal](https://open.spotify.com/album/00qPzHDaaXYuQohykbushK) | 3:01 | 2020-10-24 | 2022-07-28 |
 | [Perdí Mi Ojo de Venado](https://open.spotify.com/track/16rUuHp2nGkSAG4gMlXshS) | [Rusty Eye](https://open.spotify.com/artist/7K0XgSCkObkxipvNYoBzfT) | [Saca el Cobre](https://open.spotify.com/album/6RG3MdjAsNxsZGlzYv3Ddy) | 4:46 | 2020-10-24 | 2022-07-29 |
@@ -186,7 +187,7 @@
 | [Trappen in Tomb](https://open.spotify.com/track/50L5VTDedXcSsxcT5bWy77) | [Grotesque Deity](https://open.spotify.com/artist/0cB3yaX6wtduLDGyRlUIpk) | [At the Blackest Way to Death](https://open.spotify.com/album/7lVN7eete03Go5QznXwUcs) | 3:07 | 2020-10-24 | 2022-06-15 |
 | [Veneno en las Palabras](https://open.spotify.com/track/13RW0DQDJXsbjC6jFS54cH) | [Terror Cósmico](https://open.spotify.com/artist/3bALXBt9hpykMePEaZ7Jpj) | [Muerte y Transfiguración](https://open.spotify.com/album/2QrrXjUSMcwNHVieEJjcM4) | 6:00 | 2020-10-24 | 2022-07-23 |
 | [Veritas](https://open.spotify.com/track/6imS4JK0JGsRo5WkMXpob7) | [Nonsense Premonition](https://open.spotify.com/artist/4oHxTB6tK11KKzkHfpjOxt) | [Músicas para a Juventude Se Lembrar de Nós, Vol\. 1](https://open.spotify.com/album/2chSbQs5zt6NKa87Hf9KR8) | 3:09 | 2020-10-24 | 2022-07-28 |
-| [Victimized](https://open.spotify.com/track/6OSb8LkFYX7kUSDzSmphxH) | [Criminal](https://open.spotify.com/artist/2obZTQu3NO5oRcIZKY9fOh) | [Dead Soul](https://open.spotify.com/album/2vW8nOEvd85a5Uz4u6qjcS) | 3:00 | 2020-10-24 |  |
+| [Victimized](https://open.spotify.com/track/6OSb8LkFYX7kUSDzSmphxH) | [Criminal](https://open.spotify.com/artist/2obZTQu3NO5oRcIZKY9fOh) | [Dead Soul](https://open.spotify.com/album/2vW8nOEvd85a5Uz4u6qjcS) | 3:00 | 2020-10-24 | 2023-04-29 |
 | [Vida Eterna](https://open.spotify.com/track/14nEPCQLWtMqV4uE1cRHFv) | [Lörihen](https://open.spotify.com/artist/4HgUPVt7LhvdpUbZhmotgx) | [Bajo la Cruz](https://open.spotify.com/album/66dGx46zunw5g7zcaAJ2Fj) | 4:55 | 2020-10-24 |  |
 | [¡Quémenlos!](https://open.spotify.com/track/65qq9FT1BRPg8CQ5A4WUmK) | [NVLO](https://open.spotify.com/artist/7Gr3eqtmWKT8lF9eLDFU8k) | [Nulo](https://open.spotify.com/album/34MqjCLcRf2VVNc6kqqbAq) | 2:30 | 2020-10-24 |  |
 | [Éxodo](https://open.spotify.com/track/2nv6Rz0mTEAL96uyRM114Q) | [Masacre](https://open.spotify.com/artist/6ybTIsR4n37yT6UspaRR7m) | [Muerte Verdadera Muerte](https://open.spotify.com/album/1MFmNLxH0oGUXDx8EwE9nE) | 4:09 | 2020-10-24 | 2023-04-13 |

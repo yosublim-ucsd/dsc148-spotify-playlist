@@ -1,13 +1,65 @@
 {
   "description": "A little bit of pop, a little bit of rap. Cover: Felly",
-  "num_followers": 191158,
+  "num_followers": 191232,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmM0ZjRjOGEwYTk2YjFkNjFhZjIwMTI4NzI1OGI3YTdkNTdjOGQ0",
+  "snapshot_id": "MCxmZTFkMWMxNmFlMzJiZDVkM2YzM2FiNmYzODg1YjQwYjlkZGRiZGI3",
   "tracks": [
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Nothing Last Forever",
+        "url": "https://open.spotify.com/album/1KBW5j3M9VEKbfgUCMvV0C"
+      },
+      "artists": [
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        }
+      ],
+      "duration_ms": 178745,
+      "name": "Nothing Last Forever",
+      "url": "https://open.spotify.com/track/6qMt0E05ZeHbinh3SlJkTX"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "just friends",
+        "url": "https://open.spotify.com/album/5T6znI9GDd2LiMkTq2oK6z"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 179320,
+      "name": "just friends",
+      "url": "https://open.spotify.com/track/0lyQfWU4187x4YKopYsxua"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "moving on / sugarhoneyiceicetea",
+        "url": "https://open.spotify.com/album/6bKEgno07WC8rhuhSwMb8n"
+      },
+      "artists": [
+        {
+          "name": "SEB",
+          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
+        },
+        {
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+        }
+      ],
+      "duration_ms": 179080,
+      "name": "moving on (feat. Khary)",
+      "url": "https://open.spotify.com/track/3YNUrsQihHuKSE1xQs6MdG"
+    },
     {
       "added_at": "2023-03-24 04:01:00",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pmk7QemwOu.md) - [plain]
 
 > ONE DREAM with TXT! Are you ready for a Sugar Rush Ride?
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,645 likes - 62 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,029 likes - 62 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pmk7QemwOu.md) - [plain]
 | 61 | [Nap of a star](https://open.spotify.com/track/3Rn10yxcNeVzm5OXug2Kwf) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: STAR](https://open.spotify.com/album/5GiLAzb049s1SsDiUPhHVz) | 4:03 |
 | 62 | [Our Summer \(Acoustic Mix\)](https://open.spotify.com/track/5FFtpF6rg5xdz3EwGFbUMg) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Our Summer \(Acoustic Mix\)](https://open.spotify.com/album/0fA75IiylPro5rHnIiD2mf) | 3:41 |
 
-Snapshot ID: `MCxlYTlkNmZiNDI0MTdmZmM0MjdmYzhhZmRjNTJiZjg4YzJlZTUxZDJi`
+Snapshot ID: `MCw0NGY3MWEzYjExMWI2YWU2ZmYyNzQxNTVkNmJjNGZhMjZjZjQ3ZDBk`

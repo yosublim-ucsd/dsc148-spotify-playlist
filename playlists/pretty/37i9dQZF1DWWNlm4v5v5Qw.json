@@ -1,13 +1,29 @@
 {
-  "description": "DMV music breaking waves. Cover: Shy Glizzy",
-  "num_followers": 12298,
+  "description": "DMV music breaking waves. Cover: Rico Nasty",
+  "num_followers": 12318,
   "original_name": "Ripple Effect: DMV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGU4OTUwZjg3OWM5OTY2MjA3MGNhYWNlMWIzY2YxZDdiOTQwOTIw",
+  "snapshot_id": "MCw1ZTk5MjE5NWIxMjkxMDlkZDQ1MjU0YTkzM2Y5MjUyZDZiMDNhNTc2",
   "tracks": [
+    {
+      "added_at": "2023-04-28 06:48:06",
+      "album": {
+        "name": "Turn It Up",
+        "url": "https://open.spotify.com/album/6A0KCC9AaG4ZTK8KhfxRVE"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 122699,
+      "name": "Turn It Up",
+      "url": "https://open.spotify.com/track/6ou2irr0bEoGNaTejrOEBl"
+    },
     {
       "added_at": "2023-04-15 10:44:23",
       "album": {
@@ -27,54 +43,6 @@
       "duration_ms": 202703,
       "name": "Fools Fall N Love (feat.YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/17m8CqeFq32YLpFKu8lSBZ"
-    },
-    {
-      "added_at": "2023-04-15 10:44:23",
-      "album": {
-        "name": "B.N.B",
-        "url": "https://open.spotify.com/album/14o1L3wWJUsxtgKUMkiZUw"
-      },
-      "artists": [
-        {
-          "name": "LeekoMoney",
-          "url": "https://open.spotify.com/artist/03TRS7srPBeikAj9s0OWZZ"
-        }
-      ],
-      "duration_ms": 125070,
-      "name": "B.N.B",
-      "url": "https://open.spotify.com/track/6hw99R0mfj4eNfZatyaePL"
-    },
-    {
-      "added_at": "2023-04-15 10:44:23",
-      "album": {
-        "name": "Steppin On Ants",
-        "url": "https://open.spotify.com/album/36cZEt9NeWpgB9AYaK7CxI"
-      },
-      "artists": [
-        {
-          "name": "3ohBlack",
-          "url": "https://open.spotify.com/artist/1mnnmVJeUTNfWdDx0gVIQT"
-        }
-      ],
-      "duration_ms": 137564,
-      "name": "Steppin On Ants",
-      "url": "https://open.spotify.com/track/5YDASTvCBw2TcJAchOuojX"
-    },
-    {
-      "added_at": "2023-04-15 10:44:23",
-      "album": {
-        "name": "The Postlude",
-        "url": "https://open.spotify.com/album/4QX19K0eMkfCtrxRcbFpU0"
-      },
-      "artists": [
-        {
-          "name": "A$AP ANT",
-          "url": "https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj"
-        }
-      ],
-      "duration_ms": 126094,
-      "name": "Chemical Warfare",
-      "url": "https://open.spotify.com/track/7JUyQq0c85g1reS6tuXjDQ"
     },
     {
       "added_at": "2023-04-15 10:44:23",
@@ -99,6 +67,170 @@
     {
       "added_at": "2023-04-15 10:44:23",
       "album": {
+        "name": "The Postlude",
+        "url": "https://open.spotify.com/album/4QX19K0eMkfCtrxRcbFpU0"
+      },
+      "artists": [
+        {
+          "name": "A$AP ANT",
+          "url": "https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj"
+        }
+      ],
+      "duration_ms": 126094,
+      "name": "Chemical Warfare",
+      "url": "https://open.spotify.com/track/7JUyQq0c85g1reS6tuXjDQ"
+    },
+    {
+      "added_at": "2023-04-28 06:48:06",
+      "album": {
+        "name": "Vibrant",
+        "url": "https://open.spotify.com/album/0RQ0KNhY7zQ4XN7z5m4KPi"
+      },
+      "artists": [
+        {
+          "name": "Azizi Gibson",
+          "url": "https://open.spotify.com/artist/2NjfafEappzvGGGDdMRJMP"
+        }
+      ],
+      "duration_ms": 168103,
+      "name": "Vibrant",
+      "url": "https://open.spotify.com/track/0fTyX9kIwMaB721WRrFUy0"
+    },
+    {
+      "added_at": "2023-04-28 06:48:06",
+      "album": {
+        "name": "LACUNA in The House Of Mirrors",
+        "url": "https://open.spotify.com/album/4IyPe1mOrGKzLY43M59xrn"
+      },
+      "artists": [
+        {
+          "name": "KAMAUU",
+          "url": "https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc"
+        },
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        }
+      ],
+      "duration_ms": 179882,
+      "name": "don't play with my money (feat. Tobe Nwigwe)",
+      "url": "https://open.spotify.com/track/35keKCE6mIlRsBm7Y6Cmer"
+    },
+    {
+      "added_at": "2023-04-28 06:48:06",
+      "album": {
+        "name": "U Street Anthology",
+        "url": "https://open.spotify.com/album/2NvrZxKKfKBN3UBJqdn5Ep"
+      },
+      "artists": [
+        {
+          "name": "rum.gold",
+          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
+        }
+      ],
+      "duration_ms": 216466,
+      "name": "Forever In A Song",
+      "url": "https://open.spotify.com/track/2JP8F7nwSXIFETVnFgoGVZ"
+    },
+    {
+      "added_at": "2023-04-15 10:44:23",
+      "album": {
+        "name": "Steppin On Ants",
+        "url": "https://open.spotify.com/album/36cZEt9NeWpgB9AYaK7CxI"
+      },
+      "artists": [
+        {
+          "name": "3ohBlack",
+          "url": "https://open.spotify.com/artist/1mnnmVJeUTNfWdDx0gVIQT"
+        }
+      ],
+      "duration_ms": 137564,
+      "name": "Steppin On Ants",
+      "url": "https://open.spotify.com/track/5YDASTvCBw2TcJAchOuojX"
+    },
+    {
+      "added_at": "2023-04-28 06:48:06",
+      "album": {
+        "name": "Hit the Crowd",
+        "url": "https://open.spotify.com/album/4SR6zUuMlHQwneQdaKaSMI"
+      },
+      "artists": [
+        {
+          "name": "XanMan",
+          "url": "https://open.spotify.com/artist/1cyidXIhLIwg1WAEm7rJQP"
+        }
+      ],
+      "duration_ms": 139225,
+      "name": "Hit the Crowd",
+      "url": "https://open.spotify.com/track/5RbBo1PdfAuLZpD3FctWcl"
+    },
+    {
+      "added_at": "2023-04-28 06:48:06",
+      "album": {
+        "name": "Stay Strapped (Freestyle)",
+        "url": "https://open.spotify.com/album/6bbEEALiA72SvJSdHwB7dl"
+      },
+      "artists": [
+        {
+          "name": "Young Crazy",
+          "url": "https://open.spotify.com/artist/0MkYqs9CaYOelt4rdnUGyv"
+        }
+      ],
+      "duration_ms": 189055,
+      "name": "Stay Strapped (Freestyle)",
+      "url": "https://open.spotify.com/track/7csR4532xtoUfTjseCGtx3"
+    },
+    {
+      "added_at": "2023-04-28 06:48:06",
+      "album": {
+        "name": "Stop Shop",
+        "url": "https://open.spotify.com/album/54LVPiWHcOFaIAvfgTlsHJ"
+      },
+      "artists": [
+        {
+          "name": "Butch Dawson",
+          "url": "https://open.spotify.com/artist/5OrGPqB2BSIc3I6ar90qIL"
+        }
+      ],
+      "duration_ms": 138094,
+      "name": "Stop Shop",
+      "url": "https://open.spotify.com/track/5yen8iLIsbC82CXuL6gefp"
+    },
+    {
+      "added_at": "2023-04-15 10:44:23",
+      "album": {
+        "name": "B.N.B",
+        "url": "https://open.spotify.com/album/14o1L3wWJUsxtgKUMkiZUw"
+      },
+      "artists": [
+        {
+          "name": "LeekoMoney",
+          "url": "https://open.spotify.com/artist/03TRS7srPBeikAj9s0OWZZ"
+        }
+      ],
+      "duration_ms": 125070,
+      "name": "B.N.B",
+      "url": "https://open.spotify.com/track/6hw99R0mfj4eNfZatyaePL"
+    },
+    {
+      "added_at": "2023-04-28 06:48:06",
+      "album": {
+        "name": "Squaaa",
+        "url": "https://open.spotify.com/album/6ngb0wyK7dWyPUTJ9sd7eE"
+      },
+      "artists": [
+        {
+          "name": "Dre Wave$",
+          "url": "https://open.spotify.com/artist/1JmCy4jQegbbMjBWRI0iCt"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Squaaa",
+      "url": "https://open.spotify.com/track/1n4yBLplF4XxZSLx1VvbPu"
+    },
+    {
+      "added_at": "2023-04-15 10:44:23",
+      "album": {
         "name": "Red Moon In Venus",
         "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
       },
@@ -117,6 +249,22 @@
       "url": "https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v"
     },
     {
+      "added_at": "2023-04-28 06:48:06",
+      "album": {
+        "name": "I LOOK GOOD",
+        "url": "https://open.spotify.com/album/514w1gwfApMBRCSMwMBqg7"
+      },
+      "artists": [
+        {
+          "name": "Misskaniyah",
+          "url": "https://open.spotify.com/artist/6mrlBl4QCM3Fog8Z9fraXl"
+        }
+      ],
+      "duration_ms": 98437,
+      "name": "I LOOK GOOD",
+      "url": "https://open.spotify.com/track/1k39bFaE9zehg0vavTxBsd"
+    },
+    {
       "added_at": "2023-04-15 10:44:23",
       "album": {
         "name": "HALL OF FAME",
@@ -131,6 +279,22 @@
       "duration_ms": 148056,
       "name": "GM3",
       "url": "https://open.spotify.com/track/1I9W17vDK31ZHAcLGHe4sR"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Cowboys Live Forever, Outlaws Never Die",
+        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 144807,
+      "name": "Snake",
+      "url": "https://open.spotify.com/track/6QRDewZDz4f9CJEasgWZKt"
     },
     {
       "added_at": "2023-04-15 10:44:23",
@@ -913,106 +1077,6 @@
       "url": "https://open.spotify.com/track/6ivf0RFitnarjZ6Ozwkt3q"
     },
     {
-      "added_at": "2022-12-02 21:41:29",
-      "album": {
-        "name": "TEASE",
-        "url": "https://open.spotify.com/album/7EsDGakfGYMvtPcroyXaD0"
-      },
-      "artists": [
-        {
-          "name": "Abby T.",
-          "url": "https://open.spotify.com/artist/3J0pnyq0rWJUvhrUP165dz"
-        }
-      ],
-      "duration_ms": 174638,
-      "name": "TEASE",
-      "url": "https://open.spotify.com/track/5M69Wypp38Ea2WPKzIXQzZ"
-    },
-    {
-      "added_at": "2022-12-02 21:41:29",
-      "album": {
-        "name": "The Hands (From the Original Motion Picture \u201cThe Inspection\u201d)",
-        "url": "https://open.spotify.com/album/71nyj9LZWPJwEHViGRvD02"
-      },
-      "artists": [
-        {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
-        }
-      ],
-      "duration_ms": 376075,
-      "name": "The Hands - From the Original Motion Picture \u201cThe Inspection\u201d",
-      "url": "https://open.spotify.com/track/1VYLPa8PSEeypLXwbncLfx"
-    },
-    {
-      "added_at": "2023-01-12 04:03:46",
-      "album": {
-        "name": "Wait On It 2",
-        "url": "https://open.spotify.com/album/3iNRRQVC4CCgmES0IQY9ua"
-      },
-      "artists": [
-        {
-          "name": "Juu2x",
-          "url": "https://open.spotify.com/artist/3JqIvPpTnChI38icIUq4qK"
-        },
-        {
-          "name": "Mererackz",
-          "url": "https://open.spotify.com/artist/1OquaJdXC51DUUzSqTE4dV"
-        }
-      ],
-      "duration_ms": 266951,
-      "name": "Door Swing",
-      "url": "https://open.spotify.com/track/6zV9NPorJX72LT8XwiGPS6"
-    },
-    {
-      "added_at": "2023-01-12 04:03:46",
-      "album": {
-        "name": "42 Red",
-        "url": "https://open.spotify.com/album/4Oz2wpfYxIHpU2RfbQWKv8"
-      },
-      "artists": [
-        {
-          "name": "Baby 9eno",
-          "url": "https://open.spotify.com/artist/2BT3hUh0BM01GqvENJDo7L"
-        }
-      ],
-      "duration_ms": 184560,
-      "name": "42 Red",
-      "url": "https://open.spotify.com/track/1o8zqAgA9qsO4AAKFs4sxI"
-    },
-    {
-      "added_at": "2023-01-12 04:03:46",
-      "album": {
-        "name": "Neighborhood Hero",
-        "url": "https://open.spotify.com/album/2oInAuGX501wx0TnP8Uv6j"
-      },
-      "artists": [
-        {
-          "name": "LIL LO",
-          "url": "https://open.spotify.com/artist/17SUtl275ibg2bA3c31cVj"
-        }
-      ],
-      "duration_ms": 132630,
-      "name": "Goat Flow 2",
-      "url": "https://open.spotify.com/track/501pFLEKkiBJ0CPWOdsVQl"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Cowboys Live Forever, Outlaws Never Die",
-        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 144807,
-      "name": "Snake",
-      "url": "https://open.spotify.com/track/6QRDewZDz4f9CJEasgWZKt"
-    },
-    {
       "added_at": "2022-10-07 04:00:00",
       "album": {
         "name": "IDC",
@@ -1055,226 +1119,6 @@
       "duration_ms": 175250,
       "name": "HEAD TO HADES",
       "url": "https://open.spotify.com/track/58sGcIFRdGOQ7bUi62HBes"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "I Tried",
-        "url": "https://open.spotify.com/album/3mslHmvlKarV3pzjylYTFZ"
-      },
-      "artists": [
-        {
-          "name": "Anweezy",
-          "url": "https://open.spotify.com/artist/1zEx84twaro5PvvD3yTCom"
-        },
-        {
-          "name": "Juveniletristen",
-          "url": "https://open.spotify.com/artist/0DpzEg1qaTcFvCmpiHm4vc"
-        }
-      ],
-      "duration_ms": 117979,
-      "name": "I Tried",
-      "url": "https://open.spotify.com/track/0blQoUZeDKJEH3gIbkr4XR"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Incrementum",
-        "url": "https://open.spotify.com/album/3aLjR6JIlVbHFtajRHtMsR"
-      },
-      "artists": [
-        {
-          "name": "Tre' Amani",
-          "url": "https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0"
-        }
-      ],
-      "duration_ms": 193629,
-      "name": "Xpensive",
-      "url": "https://open.spotify.com/track/57MTexDSwasDyOT7ydwJze"
-    },
-    {
-      "added_at": "2022-09-30 04:26:36",
-      "album": {
-        "name": "Contact",
-        "url": "https://open.spotify.com/album/5seomwiB0N53hjaEoLOdb4"
-      },
-      "artists": [
-        {
-          "name": "3ohBlack",
-          "url": "https://open.spotify.com/artist/1mnnmVJeUTNfWdDx0gVIQT"
-        }
-      ],
-      "duration_ms": 134383,
-      "name": "Contact",
-      "url": "https://open.spotify.com/track/5TQSK96ovPsfX7JsWGPxEQ"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Pit of My Dreams",
-        "url": "https://open.spotify.com/album/5ZiFmjZokDMuuYnbjdEdzZ"
-      },
-      "artists": [
-        {
-          "name": "April + VISTA",
-          "url": "https://open.spotify.com/artist/5XNCS8lVEpHHbaHv0EabAj"
-        }
-      ],
-      "duration_ms": 122305,
-      "name": "What Is Enough",
-      "url": "https://open.spotify.com/track/7My876U4p411sBjVvXXZwa"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Lucid",
-        "url": "https://open.spotify.com/album/1zm4PZhRbAQqXmfzX8xunX"
-      },
-      "artists": [
-        {
-          "name": "CAMP",
-          "url": "https://open.spotify.com/artist/5WlBS3np27mk4KGGU0mONt"
-        }
-      ],
-      "duration_ms": 133069,
-      "name": "Lucid",
-      "url": "https://open.spotify.com/track/3hiulv9pXgONYtaZOt70VU"
-    },
-    {
-      "added_at": "2022-09-30 04:26:36",
-      "album": {
-        "name": "PRELUDE I: LAX",
-        "url": "https://open.spotify.com/album/7w8UM4aYEzINYR6b9NZWWF"
-      },
-      "artists": [
-        {
-          "name": "BADGER",
-          "url": "https://open.spotify.com/artist/3cYU0MrWiLukHpUTuwfH7W"
-        }
-      ],
-      "duration_ms": 151249,
-      "name": "MIDNIGHT",
-      "url": "https://open.spotify.com/track/7u7t615DZLnFj4ezYtLms8"
-    },
-    {
-      "added_at": "2022-09-30 04:26:36",
-      "album": {
-        "name": "TMF",
-        "url": "https://open.spotify.com/album/4j5NRsZgbL7ZvFzfuhPh7D"
-      },
-      "artists": [
-        {
-          "name": "Dada444l",
-          "url": "https://open.spotify.com/artist/4dVmDpC6DBlSBwxvQkT21C"
-        }
-      ],
-      "duration_ms": 128063,
-      "name": "TMF",
-      "url": "https://open.spotify.com/track/1MtqVeaNkhWE2W0dOvfKOf"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Sandbox",
-        "url": "https://open.spotify.com/album/4XH6r97ff6p58FGNxexSBy"
-      },
-      "artists": [
-        {
-          "name": "Free Party",
-          "url": "https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed"
-        }
-      ],
-      "duration_ms": 217031,
-      "name": "Sandbox",
-      "url": "https://open.spotify.com/track/5FpA9VUCUquTkHPpn5Uaiq"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "RIDE OR DIE, Vol. 1",
-        "url": "https://open.spotify.com/album/4DBZZlmJDkG8gLhXFJaa0f"
-      },
-      "artists": [
-        {
-          "name": "HIM$",
-          "url": "https://open.spotify.com/artist/2VYvmMPuZt0YSUjM8yYIe2"
-        },
-        {
-          "name": "A$AP ANT",
-          "url": "https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj"
-        }
-      ],
-      "duration_ms": 130909,
-      "name": "Le Fond",
-      "url": "https://open.spotify.com/track/224LybpL68A0JachfVey7W"
-    },
-    {
-      "added_at": "2022-09-30 04:26:36",
-      "album": {
-        "name": "Can't Forget",
-        "url": "https://open.spotify.com/album/14DO8oPrgLc7gcfF6MbFnH"
-      },
-      "artists": [
-        {
-          "name": "Bandhunta Izzy",
-          "url": "https://open.spotify.com/artist/5nnmjpedVxTOH8KwpDdSZ2"
-        }
-      ],
-      "duration_ms": 187258,
-      "name": "Can't Forget",
-      "url": "https://open.spotify.com/track/1DexvXGmsZu6mWElq4XRp4"
-    },
-    {
-      "added_at": "2022-08-12 06:58:48",
-      "album": {
-        "name": "Never End Up Broke Pt. 2 (feat. Pusha T)",
-        "url": "https://open.spotify.com/album/6gVgQxn4oG3WXmcLhK4sBX"
-      },
-      "artists": [
-        {
-          "name": "Symba",
-          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
-        },
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        }
-      ],
-      "duration_ms": 162651,
-      "name": "Never End Up Broke Pt. 2 (feat. Pusha T)",
-      "url": "https://open.spotify.com/track/3pPpHxBDoEqEcP4NyPp1iT"
-    },
-    {
-      "added_at": "2022-09-30 04:26:36",
-      "album": {
-        "name": "Gratuity",
-        "url": "https://open.spotify.com/album/3RGJQBgfxj2bYWCoEPoc5e"
-      },
-      "artists": [
-        {
-          "name": "Free Party",
-          "url": "https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed"
-        }
-      ],
-      "duration_ms": 217043,
-      "name": "Gratuity",
-      "url": "https://open.spotify.com/track/1hegHGW3yUFJxRWOVl5ga9"
-    },
-    {
-      "added_at": "2022-09-30 04:26:36",
-      "album": {
-        "name": "If You Must Go",
-        "url": "https://open.spotify.com/album/67mwgOp6oS2Gx7AHJ9icFr"
-      },
-      "artists": [
-        {
-          "name": "S\u00e6kyi",
-          "url": "https://open.spotify.com/artist/6I1XGf08ZvqDUBCgpRjqzB"
-        }
-      ],
-      "duration_ms": 196122,
-      "name": "If You Must Go",
-      "url": "https://open.spotify.com/track/7l5t0qNaHHMUOWgIrnJ4ft"
     },
     {
       "added_at": "2022-07-09 03:45:38",

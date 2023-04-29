@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Poslechněte si ženy z Česka a Slovenska na plnou hlasitost\. Cover: Laura Weng
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,485 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,490 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 28 | [Blind Tomorrow](https://open.spotify.com/track/7bHzluTgD7IIIewUklaojd) | [Zuzana Mikulcova](https://open.spotify.com/artist/3DuhjH3LQhXz6nV3rNu7pd), [Graeme Mark Donaldson](https://open.spotify.com/artist/6NMXaCGCG0ug4d111cNDhi) | [Blind Tomorrow](https://open.spotify.com/album/5tPoBNWty5adBjeLQIC4B0) | 3:52 |
 | 29 | [Já Tě Mám](https://open.spotify.com/track/77pGE00XXGXGxLdxwktGqx) | [Anna Vaverková](https://open.spotify.com/artist/6g9ensOdCVDvhlP4pjrShZ) | [Já Tě Mám](https://open.spotify.com/album/0fJ5Sp4v9JydU0WoSirK1m) | 3:28 |
 | 30 | [Fialová mood](https://open.spotify.com/track/3jujCYeVeByXGW2rBnEfOn) | [DIANA](https://open.spotify.com/artist/0mtxg8pzPsL6qZ7aoK0yBX) | [Fialová mood](https://open.spotify.com/album/416qkcu3wyMlW4l4QmgWzU) | 2:22 |
-| 31 | [Born Perfect](https://open.spotify.com/track/7KZwZMrLYazdbvr8VX15HC) | [Natálie Grossová](https://open.spotify.com/artist/4vzgXODPnHlhSXNlUChzxa) | [Born Perfect](https://open.spotify.com/album/3PELAUYJLTMUZlrqCk8ITL) | 2:45 |
+| 31 | [Born Perfect](https://open.spotify.com/track/7KZwZMrLYazdbvr8VX15HC) | [Natally](https://open.spotify.com/artist/18SuS3JGwUxMVBKW7CAJGG) | [Born Perfect](https://open.spotify.com/album/3PELAUYJLTMUZlrqCk8ITL) | 2:45 |
 | 32 | [Instincts](https://open.spotify.com/track/601ysvmx4INBIwtAtGgS0b) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [Instincts](https://open.spotify.com/album/6iVB9kSoSPQUklb6wJnBcg) | 2:28 |
 | 33 | [ghosting](https://open.spotify.com/track/4HZ871AMnHNaI4C0XnkCar) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU) | [ghosting](https://open.spotify.com/album/0YH5HG326jgub6RwcyfLgP) | 2:18 |
 | 34 | [PUMA](https://open.spotify.com/track/2y4OP8swtxH9bf5Pg3e83o) | [Sawsane](https://open.spotify.com/artist/4RqCdNHpABy3V9tfKsf5QG), [Hoodini](https://open.spotify.com/artist/44yW8xgEVHLSHJRePqLIhw) | [PUMA](https://open.spotify.com/album/4vbXkuMgYi4t9PvAsTbLIt) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 49 | [Different Kind](https://open.spotify.com/track/6pUQYrkUf9G8MXdEMOW4pr) | [Nikita Kingston](https://open.spotify.com/artist/3AQCll40tEdIjzCdEOQHXQ) | [Different Kind](https://open.spotify.com/album/3eAjTqG1LTOQMsJxQezFmh) | 3:12 |
 | 50 | [Pohoda jazz](https://open.spotify.com/track/76FKtbVayqE0BXUCm2j0rm) | [Naty Hrychová](https://open.spotify.com/artist/3IdBTyWXb31wzm0OYIZVP3) | [Pohoda jazz](https://open.spotify.com/album/3IrYmzYAiUT9C6JkzdDmp3) | 3:04 |
 
-Snapshot ID: `MCwxMzZhOTJjNGFjNWE3OWU5ZTNlNmVhNjBkZWRlYzg2YmZkZjgyYjc4`
+Snapshot ID: `MCwyZDQ0NmI0YzgxMjU4Njg4MjU1NGYwZWU0ZmYwZGNiZDYyMmJlYWFm`

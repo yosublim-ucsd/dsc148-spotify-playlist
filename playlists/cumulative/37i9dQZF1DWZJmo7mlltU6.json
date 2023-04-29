@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "Beyond genre, beyond language, beyond borders. Cover: d4vd.",
+  "description": "Beyond genre, beyond language, beyond borders. Cover: grentperez.",
   "name": "borderless",
   "tracks": [
     {
@@ -190,6 +190,28 @@
       "duration_ms": 197811,
       "name": "3D Feelings",
       "url": "https://open.spotify.com/track/3wYx7lVNFLeh5nRPVEa5ps"
+    },
+    {
+      "album": {
+        "name": "4.20 <3",
+        "url": "https://open.spotify.com/album/4nU7YhbD347NIjVkMCXcCv"
+      },
+      "artists": [
+        {
+          "name": "Jona",
+          "url": "https://open.spotify.com/artist/4zryVw9oFhHGJRoGPHRAAG"
+        },
+        {
+          "name": "Ana Mancebo",
+          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190161,
+      "name": "4.20 <3",
+      "url": "https://open.spotify.com/track/5ODS0Rchzp5heME6vetD7j"
     },
     {
       "album": {
@@ -404,7 +426,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 151973,
       "name": "Alegr\u00eda",
       "url": "https://open.spotify.com/track/2LDsSHfBfR3tLzMsZvldMC"
@@ -910,7 +932,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 217564,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/2pihPAjIPg5EnitYFKqbYc"
@@ -1308,6 +1330,36 @@
       "duration_ms": 225192,
       "name": "can't let u go",
       "url": "https://open.spotify.com/track/2s47R9iLqKMrWP1MRlCECR"
+    },
+    {
+      "album": {
+        "name": "Can\u2019t Get Over Myself (feat. Zuma.)",
+        "url": "https://open.spotify.com/album/3R5j05cIiE1DmVu2DwYjai"
+      },
+      "artists": [
+        {
+          "name": "Otomodatchi",
+          "url": "https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj"
+        },
+        {
+          "name": "Amiide",
+          "url": "https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR"
+        },
+        {
+          "name": "Jyodan",
+          "url": "https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6"
+        },
+        {
+          "name": "Zuma.",
+          "url": "https://open.spotify.com/artist/5njJbzFJ6lY7tq7ZiuFZX5"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Can\u2019t Get Over Myself - feat. Zuma.",
+      "url": "https://open.spotify.com/track/2BQhm7S8FL2B1bdq0IlRKo"
     },
     {
       "album": {
@@ -2100,7 +2152,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 167787,
       "name": "Cu\u00e1nto tiempo queda",
       "url": "https://open.spotify.com/track/27TQHOVCsJCD4AQ28W92BW"
@@ -2226,7 +2278,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 162421,
       "name": "daydreaming",
       "url": "https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl"
@@ -2316,7 +2368,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 199000,
       "name": "Demasiada velocidad",
       "url": "https://open.spotify.com/track/3DvtwdsEPyu2Cqz4IPbKxP"
@@ -3987,6 +4039,28 @@
     },
     {
       "album": {
+        "name": "galleta de la suerte",
+        "url": "https://open.spotify.com/album/0y3ClrFxeRlQOB82Ab4awS"
+      },
+      "artists": [
+        {
+          "name": "Cheti",
+          "url": "https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7"
+        },
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144170,
+      "name": "galleta de la suerte",
+      "url": "https://open.spotify.com/track/59HnoaodyiRfatK5PbfUiU"
+    },
+    {
+      "album": {
         "name": "On Time For Her",
         "url": "https://open.spotify.com/album/3Y2eQzXDS2MaiRIIPbnXb2"
       },
@@ -4078,6 +4152,24 @@
       "duration_ms": 145086,
       "name": "Ghost in the Machine",
       "url": "https://open.spotify.com/track/2T94eayr7lubesYiSs4kyT"
+    },
+    {
+      "album": {
+        "name": "Princess Forever",
+        "url": "https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211875,
+      "name": "Gimme A Chance",
+      "url": "https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d"
     },
     {
       "album": {
@@ -4787,6 +4879,24 @@
     },
     {
       "album": {
+        "name": "I Think I Know",
+        "url": "https://open.spotify.com/album/69jmO4TNGEicpRwQwOzF11"
+      },
+      "artists": [
+        {
+          "name": "Tappahall",
+          "url": "https://open.spotify.com/artist/3Ghzgg4CEzt9wNdNfKcndW"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185847,
+      "name": "I Think I Know",
+      "url": "https://open.spotify.com/track/0q3yh1B3DmywBPqmCL2Lkl"
+    },
+    {
+      "album": {
         "name": "Panna Cotta",
         "url": "https://open.spotify.com/album/28Ymo5sEs0gwOoZYdaLkNY"
       },
@@ -4930,6 +5040,42 @@
       "duration_ms": 209920,
       "name": "Inhibitions / Intuitions",
       "url": "https://open.spotify.com/track/1Wqp5K08ASR7JcAmu1YjTI"
+    },
+    {
+      "album": {
+        "name": "Inigo",
+        "url": "https://open.spotify.com/album/3DhznXynw9F1GuNYBs8z9P"
+      },
+      "artists": [
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256991,
+      "name": "Inigo",
+      "url": "https://open.spotify.com/track/120oPV0jNIWalyFlMknzY6"
+    },
+    {
+      "album": {
+        "name": "Is It Magic?",
+        "url": "https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188727,
+      "name": "Is It Magic?",
+      "url": "https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht"
     },
     {
       "album": {
@@ -5468,6 +5614,24 @@
       "duration_ms": 221120,
       "name": "La nuit",
       "url": "https://open.spotify.com/track/5qMGT6jepsNyROTcf3LpFu"
+    },
+    {
+      "album": {
+        "name": "La Sonrisa En Tu Mirada",
+        "url": "https://open.spotify.com/album/1za6NmrYp51IicQKkCQpf6"
+      },
+      "artists": [
+        {
+          "name": "Alex Eugenio",
+          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157728,
+      "name": "La Sonrisa En Tu Mirada",
+      "url": "https://open.spotify.com/track/660hma57XtlHO8rHJ1l33p"
     },
     {
       "album": {
@@ -7348,7 +7512,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 208099,
       "name": "non zero sum game",
       "url": "https://open.spotify.com/track/2nzTMqhvjVKJQxEd5Y4Ly9"
@@ -7522,6 +7686,24 @@
       "duration_ms": 212746,
       "name": "OCTEMBRE (feat. Bonnie Banane)",
       "url": "https://open.spotify.com/track/2aDRdU8uFJDZ7tYek3VAgY"
+    },
+    {
+      "album": {
+        "name": "odiarte",
+        "url": "https://open.spotify.com/album/4MfTBFDwxb1Hz0uUxrswPA"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "odiarte",
+      "url": "https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU"
     },
     {
       "album": {
@@ -7754,7 +7936,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 192006,
       "name": "Outplayed",
       "url": "https://open.spotify.com/track/5ri8WSEiMS8zQR4YBpHXqu"
@@ -8768,7 +8950,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 190293,
       "name": "reveal yourself",
       "url": "https://open.spotify.com/track/2l0Z6SnVuMcxsdLbmYhp6q"
@@ -11221,6 +11403,24 @@
     },
     {
       "album": {
+        "name": "up / down",
+        "url": "https://open.spotify.com/album/6UuyLNmYlCl6opJtdewWH5"
+      },
+      "artists": [
+        {
+          "name": "mokina",
+          "url": "https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113603,
+      "name": "up / down",
+      "url": "https://open.spotify.com/track/06rFDcdBI6sZYMySwZ93nr"
+    },
+    {
+      "album": {
         "name": "Vanilla Ice Cream",
         "url": "https://open.spotify.com/album/0xv3zhCfQjHLlWnTeU0Cm6"
       },
@@ -11365,6 +11565,28 @@
     },
     {
       "album": {
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/4HYPMdHDoTzGLCeB9nVxxZ"
+      },
+      "artists": [
+        {
+          "name": "Colossal Music",
+          "url": "https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520"
+        },
+        {
+          "name": "Amara Tari",
+          "url": "https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246666,
+      "name": "WARNING",
+      "url": "https://open.spotify.com/track/6HOOJ2LbasnZqxuqlaNSfk"
+    },
+    {
+      "album": {
         "name": "Waving",
         "url": "https://open.spotify.com/album/6gIiOFp2XCgsVrQNEeFPtz"
       },
@@ -11478,6 +11700,24 @@
       "duration_ms": 183643,
       "name": "WHAT IF WE FALL IN LOVE?",
       "url": "https://open.spotify.com/track/2Y7PDa6oYYTbsTp0fRpizS"
+    },
+    {
+      "album": {
+        "name": "When The Day Is Done",
+        "url": "https://open.spotify.com/album/6lzMbDwLT43JtvRbmcuBLn"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180201,
+      "name": "When The Day Is Done",
+      "url": "https://open.spotify.com/track/3uOxQfsAQH4SJmRdBVLpzQ"
     },
     {
       "album": {
@@ -11952,7 +12192,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 216946,
       "name": "\u00dczg\u00fcn",
       "url": "https://open.spotify.com/track/2LOf0Z0DXw5ShICCGCTZls"

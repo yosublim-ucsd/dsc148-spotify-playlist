@@ -4,7 +4,7 @@
 
 > Set your intentions and guide your practice with these mindful, meditative lyrics.
 
-77 songs - 5 hr 7 min
+78 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Girls Just Want to Have Fun](https://open.spotify.com/track/6AMEC67bMX4EsJTpkozQ1r) | [The Harmaleighs](https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN) | [Girls Just Want to Have Fun](https://open.spotify.com/album/6cgwMTtbl2gvlAQ1vdcJR3) | 2:37 | 2020-05-12 | 2022-07-29 |
 | [Golden Embers](https://open.spotify.com/track/3fOETmGlFv8nCmZSMIPfmL) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/3Z2WGCFNGlAJgiyG2tOkjs) | 4:45 | 2020-05-12 | 2022-07-29 |
 | [Golden Embers](https://open.spotify.com/track/4Cj5yOIUpFWSbPqICA07Fc) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Golden Embers](https://open.spotify.com/album/4kCQSdMOQaw1FoY96UEFNa) | 4:45 | 2020-05-12 | 2022-11-13 |
-| [Golden Embers](https://open.spotify.com/track/7fdwZ9ShF56daUOBH02U7S) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs) | 4:45 | 2020-05-12 |  |
+| [Golden Embers](https://open.spotify.com/track/4OkKz8LhKo846kN3nncNZs) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk) | 4:45 | 2022-12-29 |  |
+| [Golden Embers](https://open.spotify.com/track/7fdwZ9ShF56daUOBH02U7S) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs) | 4:45 | 2020-05-12 | 2023-04-29 |
 | [Here Too Far](https://open.spotify.com/track/383MxeoXVw7bdeBKEz68Po) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of Bees](https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU) | 0:55 | 2020-05-12 |  |
 | [Homeless Child \- Acoustic](https://open.spotify.com/track/1I14oKNk5Cyt3erLwovaWv) | [Anna Tivel](https://open.spotify.com/artist/112l2WmZaTlJcl13f4iFAs) | [Homeless Child \(Acoustic\)](https://open.spotify.com/album/18kuCvlhOvrfGZHriHxgbs) | 3:44 | 2020-05-12 |  |
 | [I Should Live in Salt \- The National Cover \- Live from Spotify, London](https://open.spotify.com/track/1LF3VWJhOqD2VuuruLMSmu) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Spotify Live](https://open.spotify.com/album/315m5F9Xqwhfptakbs0fG8) | 4:12 | 2020-05-12 |  |

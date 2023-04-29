@@ -4,7 +4,7 @@
 
 > Gotta catch 'em all.
 
-344 songs - 21 hr 26 min
+345 songs - 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [I Created a Monster](https://open.spotify.com/track/1F8WE9yIpZ2Te7hHoRA4KL) | [Hello Operator](https://open.spotify.com/artist/4BfhKwASniibfHDVLWwQEu) | [Hello Operator](https://open.spotify.com/album/0L8eoDqsuGx70gpsCKOvST) | 4:10 | 2022-12-29 |  |
 | [I'll Find You](https://open.spotify.com/track/2FUAgbkTJbJPkH8ZFf0XxB) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Ideas Above Our Station](https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM) | 3:06 | 2021-12-15 |  |
 | [I'm Not Part of Me](https://open.spotify.com/track/4LtkzjijkFjaLHT2Az0uAU) | [Cloud Nothings](https://open.spotify.com/artist/6rnbB5fuUuCSsspvFsxIpT) | [Here and Nowhere Else](https://open.spotify.com/album/6BZve8akdJeG6TJ71QC3Bi) | 4:35 | 2021-12-15 | 2022-07-29 |
-| [I'm Not Part Of Me](https://open.spotify.com/track/10Sj9At8dFsEabJcQzOSqu) | [Cloud Nothings](https://open.spotify.com/artist/6rnbB5fuUuCSsspvFsxIpT) | [Here And Nowhere Else](https://open.spotify.com/album/4mbQAXtP8Kuhq04oriFyYy) | 4:35 | 2022-06-23 |  |
+| [I'm Not Part Of Me](https://open.spotify.com/track/10Sj9At8dFsEabJcQzOSqu) | [Cloud Nothings](https://open.spotify.com/artist/6rnbB5fuUuCSsspvFsxIpT) | [Here And Nowhere Else](https://open.spotify.com/album/4mbQAXtP8Kuhq04oriFyYy) | 4:35 | 2022-06-23 | 2023-04-29 |
 | [I'm Not Shallow Anymore](https://open.spotify.com/track/7lFoUyqzPBxIYd8ym94z9b) | [Hallowed Ground](https://open.spotify.com/artist/6YqFkQS9wiZXghL4aavRFh) | [I'm Not Shallow Anymore](https://open.spotify.com/album/62DebgPW62MyV7uLxjzBuf) | 4:25 | 2021-12-15 | 2022-07-10 |
 | [I've Been Bored](https://open.spotify.com/track/3zi9xNpG2WHCdCAxV0BpJm) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 3:23 | 2022-11-02 |  |
 | [If I Could](https://open.spotify.com/track/37mcskMYPUoi0ZlqAPBByr) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Ideas Above Our Station](https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM) | 3:31 | 2022-10-11 |  |
@@ -268,6 +268,7 @@
 | [Son of Steve McQueen](https://open.spotify.com/track/0s3hWZXHYmbylkRhtgurnR) | [Favez](https://open.spotify.com/artist/7skmCYzvvpAhJODHIo72N6) | [From Lausanne, Switzerland](https://open.spotify.com/album/7B5XoK38dnNYX2Aw8InHiy) | 3:35 | 2022-02-02 | 2022-07-16 |
 | [Spinning](https://open.spotify.com/track/1YkNfbVSCVfg5sl7ZG3Vzo) | [Bloody Knees](https://open.spotify.com/artist/6pJ12qda5aKt5NJax5ZJtC) | [Spinning](https://open.spotify.com/album/0VVmdT2rkb6GnoMKIxC8ke) | 4:06 | 2021-12-15 | 2022-07-24 |
 | [Spirit of an Ectomorph](https://open.spotify.com/track/0pUJ7FPvD90FqJWXzdv0jp) | [Stony Sleep](https://open.spotify.com/artist/15cmXs7yoUqce5GKrtu80J) | [Absurd](https://open.spotify.com/album/5kqZAGugHXnDmY4feoJMss) | 2:21 | 2021-12-15 | 2022-07-24 |
+| [Stained Silver](https://open.spotify.com/track/6WnG5MU8GbAiQVFnXZQorG) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [Antenna](https://open.spotify.com/album/4c0qhRcK2cIa7cgxaZf585) | 4:08 | 2023-04-29 |  |
 | [Stars](https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3) | [Hum](https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX) | [You'd Prefer An Astronaut](https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o) | 5:09 | 2021-12-15 |  |
 | [Static King](https://open.spotify.com/track/30c7yitaxCPDer72DuJMpw) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Static King](https://open.spotify.com/album/6Ff2MALnanTK465bO5rIsa) | 3:37 | 2021-12-15 | 2022-07-29 |
 | [Stuck In A Loop](https://open.spotify.com/track/4jjavTdo58RR0CEzTa2TjJ) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Stuck In A Loop](https://open.spotify.com/album/0E35wkZniQNbAxGTu8XqeI) | 2:53 | 2023-03-14 |  |

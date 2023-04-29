@@ -4,7 +4,7 @@
 
 > Music from the ether to focus to.
 
-194 songs - 10 hr 23 min
+195 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Blue Denim](https://open.spotify.com/track/3qY8HWluElA3ttv07Dy6hc) | [Niveous](https://open.spotify.com/artist/3KIXk1rxDXMHyRgUvKplyx) | [Blue Denim](https://open.spotify.com/album/0SbmR5IYDg2Xf9z6mJtOrG) | 3:13 | 2022-03-30 |  |
 | [Borealis](https://open.spotify.com/track/7hYgGeMBarMRK5iGPqKGsb) | [PLACID](https://open.spotify.com/artist/7KQH1xnmFmACcxY4VBCTBn) | [Borealis](https://open.spotify.com/album/1Wkqv78oKngn0nbLuDzs53) | 1:45 | 2022-11-18 |  |
 | [Bortom Träden](https://open.spotify.com/track/4CFlaEtdgeu4mFmnUApAyl) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [I Blomstertid](https://open.spotify.com/album/4tvdL8uzjualif8HIlf6ab) | 4:20 | 2022-03-30 |  |
-| [Breath Chant](https://open.spotify.com/track/47ThqmC48fODEuF38wRc5S) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Breath Chant](https://open.spotify.com/album/2jZBe7W5AvyT2iWPY4UOwV) | 3:50 | 2022-03-30 |  |
+| [Breath Chant](https://open.spotify.com/track/47ThqmC48fODEuF38wRc5S) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Breath Chant](https://open.spotify.com/album/2jZBe7W5AvyT2iWPY4UOwV) | 3:50 | 2022-03-30 | 2023-04-29 |
 | [Buckle Up](https://open.spotify.com/track/7t4gzANxF6BbappbpKzSxG) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [authenticity](https://open.spotify.com/album/0CdkSTJwCTIJRd2BgbPyct) | 3:11 | 2022-06-24 |  |
 | [cape](https://open.spotify.com/track/0nQcoFAJSCbM9SVztsWvMG) | [Sunlight Jr.](https://open.spotify.com/artist/5yuCMtz7erXhuUeOVIvClC), [Open Palm](https://open.spotify.com/artist/6c6NiFmjPb8dE7ea34HFdb), [Michi Oskah](https://open.spotify.com/artist/1UYXB0UUV3eR6KPVq0NZ5j) | [cape](https://open.spotify.com/album/3lQAHh6wD34MlWVKuPgO1A) | 1:51 | 2022-11-22 |  |
 | [Change Of Tides](https://open.spotify.com/track/1RsZcsLDGwVpkhgeoL75gE) | [Stories Seldom Told](https://open.spotify.com/artist/2Iyf4h2Mpja2cBl9HwEqo7) | [Change Of Tides](https://open.spotify.com/album/0ioaA2clUxqGSROCF1vo53) | 2:58 | 2022-03-30 |  |
@@ -165,6 +165,7 @@
 | [The Light We Saw](https://open.spotify.com/track/1V8ldResSotRaJmU14r1IX) | [Parascope Doll](https://open.spotify.com/artist/0W8rgH2l5fMLS6hdxNMT9y) | [The Light We Saw](https://open.spotify.com/album/0JoJa8DNkmRGQwCAo7amaC) | 3:36 | 2023-03-31 |  |
 | [The Real Devil](https://open.spotify.com/track/4cbMi6XGtpDQ8GsBlKXkqv) | [Zelienople](https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY) | [The World Is A House On Fire](https://open.spotify.com/album/2AL66SHj3D8IZD6RrjHh2J) | 5:36 | 2022-03-30 | 2023-04-14 |
 | [The Second Sun](https://open.spotify.com/track/5IzF7aTQ1CHvoq5ifwp75J) | [Under The Zodiac](https://open.spotify.com/artist/7rDI2DTZpZryRfJoZiI4WG) | [The Second Sun](https://open.spotify.com/album/7f4BYiovopoUQKVPqRZhQj) | 3:16 | 2022-09-14 |  |
+| [The Way](https://open.spotify.com/track/0p0skXFLMR13GNiroa5cWQ) | [Auðura](https://open.spotify.com/artist/0DE6DqplF6aes6HrDbH29i) | [The Way](https://open.spotify.com/album/3tI5c6YGOY8VFLgaD89kI5) | 2:20 | 2023-04-28 |  |
 | [thelightestbreeze](https://open.spotify.com/track/7tzn02Ocbvy8M10Qmeup6S) | [Axpro Oum](https://open.spotify.com/artist/4XX60hMPnPt7Y90qRP9XgZ) | [thelightestbreeze](https://open.spotify.com/album/7DFijxI7h9XYmK0EzqrxMB) | 2:34 | 2023-04-14 |  |
 | [Thies](https://open.spotify.com/track/3RfjNVMgziqIzos59Vi586) | [Bottle of Stars](https://open.spotify.com/artist/0l5ciixkdvIhJVQFvkrejW) | [Thies](https://open.spotify.com/album/7omeZxsKnZeYzqe03dzWsc) | 3:16 | 2022-03-30 |  |
 | [Thinking About Thinking](https://open.spotify.com/track/4wRESAxmq6EiKtouyOb2hC) | [Laura Groves](https://open.spotify.com/artist/680a4iDO5tGb0Mb3IIcrVz) | [Thinking About Thinking](https://open.spotify.com/album/7BF0FWt9cJIoWFpQ8j5IZG) | 4:09 | 2022-03-30 | 2023-01-12 |

@@ -4,7 +4,7 @@
 
 > A pastoral, uplifting pan\-African café sound.
 
-119 songs - 8 hr 41 min
+123 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Bougoudani](https://open.spotify.com/track/7ENxFeh3Ca4TIWbUsZ0zH7) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mbalimaou](https://open.spotify.com/album/5VDVsvEYE0VqVvxUNLZ3gO) | 6:26 | 2022-08-05 |  |
 | [Ciew Mawele](https://open.spotify.com/track/57wa2HaWiI2Rpl6z142zes) | [Issa Bagayogo](https://open.spotify.com/artist/3T2iIPbvIyKJdXNrFYiYXn) | [Tassoumakan](https://open.spotify.com/album/4dC5mXjAbdd0JUhQFNMmxX) | 5:13 | 2022-08-05 | 2023-03-15 |
 | [Dary](https://open.spotify.com/track/2IzB8Y4tmp0JtRp5j2dJjK) | [Omar Sosa](https://open.spotify.com/artist/2zyVwasA2QkaVopBFZ2RfX), [Seckou Keita](https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc) | [Transparent Water](https://open.spotify.com/album/05zAa96vJNiqrT9GBc6n3O) | 5:08 | 2022-08-05 |  |
-| [Diamano](https://open.spotify.com/track/5bcboBhwmXLozWCeqViH0Z) | [Amadou Diagne](https://open.spotify.com/artist/2zPsUVCPn1EFeswz8xzkVq) | [Introducing Amadou Diagne](https://open.spotify.com/album/5M2bXzX3xM6FSdpbsLZsrC) | 3:41 | 2022-08-05 |  |
+| [Diamano](https://open.spotify.com/track/2uRORZ6TSZkOOaGjwAm0GW) | [Amadou Diagne](https://open.spotify.com/artist/2zPsUVCPn1EFeswz8xzkVq) | [Introducing Amadou Diagne](https://open.spotify.com/album/644Vjdi1p02r5nekPzVgAV) | 3:41 | 2023-03-14 |  |
+| [Diamano](https://open.spotify.com/track/5bcboBhwmXLozWCeqViH0Z) | [Amadou Diagne](https://open.spotify.com/artist/2zPsUVCPn1EFeswz8xzkVq) | [Introducing Amadou Diagne](https://open.spotify.com/album/5M2bXzX3xM6FSdpbsLZsrC) | 3:41 | 2022-08-05 | 2023-04-29 |
 | [Dianfa](https://open.spotify.com/track/01xdgphr11vxb7pIYAZrp2) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Tchamantché](https://open.spotify.com/album/7fzlbT0KWe5H0fI0zO1f8Q) | 4:32 | 2022-08-05 |  |
 | [Diarra](https://open.spotify.com/track/0KAqd0zMI2WUgIyc2O8TKT) | [Tamala](https://open.spotify.com/artist/5V8tx5yPSD9rIb8ynhyWD7) | [Lumba](https://open.spotify.com/album/3Pg3IQ6LrccO6Cr3WfFYqh) | 4:31 | 2022-08-05 |  |
 | [Djaliya](https://open.spotify.com/track/4FrUmjKqx5lJFmpskAWdiJ) | [Ablaye Cissoko](https://open.spotify.com/artist/7F6474dJ7eusD2MkXm2Lwx) | [Djaliya](https://open.spotify.com/album/05tfcODau1bIZEJ7j2srBm) | 3:40 | 2022-08-05 |  |
@@ -73,7 +74,8 @@
 | [Mama](https://open.spotify.com/track/5r3xXhGutqkW1uw9bewyFW) | [Maher Cissoko](https://open.spotify.com/artist/7v8qNR5OXbOludbhQoLabP) | [Cissoko Heritage](https://open.spotify.com/album/1b1GGqobvbVrPdedaj7w5w) | 5:11 | 2022-08-05 |  |
 | [Mandé](https://open.spotify.com/track/5onjFjpqSWaDbcXmYv2u7I) | [Seckou Keita](https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc) | [Seckou Keita: 22 Strings](https://open.spotify.com/album/5YWNufb3cz5hYYA9Vv0uve) | 4:26 | 2022-08-05 |  |
 | [Mansour](https://open.spotify.com/track/7AVq2voUHwI3iWjYcUGXBv) | [Bao Sissoko](https://open.spotify.com/artist/4CTaCrWrRUUmZt3KJtwg3E), [Mola Sylla](https://open.spotify.com/artist/1OCWAUqRSu9ZUGdpehnEWK), [Wouter Vandenabeele](https://open.spotify.com/artist/0OlrNScJQ7YYGSkij4TFg8) | [Tamala](https://open.spotify.com/album/0HxflxCmZs5FOmTVx2jryV) | 5:47 | 2022-08-05 |  |
-| [Masikini](https://open.spotify.com/track/0ijkkyEW17XuY9U2VsVy8o) | [Eyuphuro](https://open.spotify.com/artist/3xeIPvs8wpKFuSfcWMl3Yz) | [Yellela](https://open.spotify.com/album/6EWBxzSmtY64bKJhCeE4ip) | 5:09 | 2022-08-05 |  |
+| [Masikini](https://open.spotify.com/track/0ijkkyEW17XuY9U2VsVy8o) | [Eyuphuro](https://open.spotify.com/artist/3xeIPvs8wpKFuSfcWMl3Yz) | [Yellela](https://open.spotify.com/album/6EWBxzSmtY64bKJhCeE4ip) | 5:09 | 2022-08-05 | 2023-04-29 |
+| [Masikini](https://open.spotify.com/track/10ZEXvPcsImCV0G8GDYYfC) | [Eyuphuro](https://open.spotify.com/artist/3xeIPvs8wpKFuSfcWMl3Yz) | [Yellela](https://open.spotify.com/album/2iMMv3I2PljSfAuo0Cpwap) | 5:09 | 2023-03-14 |  |
 | [Masikini](https://open.spotify.com/track/2DwmgYmOFim5vpb7rEgLn5) | [Eyuphuro](https://open.spotify.com/artist/3xeIPvs8wpKFuSfcWMl3Yz) | [Rough Guide To Acoustic Africa](https://open.spotify.com/album/2RdS4iINtmF5E6oHc0uUxK) | 5:09 | 2022-08-05 | 2022-11-13 |
 | [Mbog](https://open.spotify.com/track/52UFQ6EwxdzFacdiclDNjG) | [Blick Bassy](https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E) | [Mbog](https://open.spotify.com/album/0itXEXsfQKZnEjNzW1Yptz) | 2:16 | 2022-08-05 |  |
 | [Minmanle?](https://open.spotify.com/track/6dh2Pk67JhkjUof4i3N2ZY) | [Jess Sah Bi](https://open.spotify.com/artist/15aLRR4OIdppLLQ3Kboc95), [Peter One](https://open.spotify.com/artist/0a2PWvcYoeN1ZCzpujQ0qo) | [Our Garden Needs Its Flowers](https://open.spotify.com/album/1jAPqpP7jpLIpZZnXU5Y6u) | 4:07 | 2022-08-05 |  |
@@ -83,7 +85,8 @@
 | [Ngum Nya Ko](https://open.spotify.com/track/1bXhMdba6mVxONY2uewg6y) | [Gerald Toto](https://open.spotify.com/artist/5yGh5A5zAzDYeAeSksnWiW), [Richard Bona](https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT), [Lokua Kanza](https://open.spotify.com/artist/7vzd67tdMCwnIfIU6TX6Nk) | [Bondeko](https://open.spotify.com/album/7clzPL1gMDlSCIKjkncP9Z) | 3:58 | 2022-08-05 |  |
 | [Obiero](https://open.spotify.com/track/0dXF2xOPWR3mPDqA5Lt9nJ) | [Ayub Ogada](https://open.spotify.com/artist/1f8646DgHta6Gl3eLxZTdk) | [En Mana Kuoyo](https://open.spotify.com/album/7kVFZYCVtpYHiuJ0kdua53) | 5:40 | 2022-08-05 |  |
 | [Obili Éba](https://open.spotify.com/track/0nrNIDZjIDFlupCkcPiSd2) | [Sally Nyolo and the Original Bands of Yaounde](https://open.spotify.com/artist/6uBVl1CGtKrAlqASeY4b5M) | [Rough Guide To Acoustic Africa](https://open.spotify.com/album/2RdS4iINtmF5E6oHc0uUxK) | 5:22 | 2022-08-05 | 2022-11-13 |
-| [Obili Éba](https://open.spotify.com/track/2qzJMEchqA8gedge0kXMkL) | [Sally Nyolo and the Original Bands of Yaounde](https://open.spotify.com/artist/6uBVl1CGtKrAlqASeY4b5M) | [Studio Cameroon](https://open.spotify.com/album/6V74TNnndUh9BXTh4lfZ5A) | 5:22 | 2022-08-05 |  |
+| [Obili Éba](https://open.spotify.com/track/2qzJMEchqA8gedge0kXMkL) | [Sally Nyolo and the Original Bands of Yaounde](https://open.spotify.com/artist/6uBVl1CGtKrAlqASeY4b5M) | [Studio Cameroon](https://open.spotify.com/album/6V74TNnndUh9BXTh4lfZ5A) | 5:22 | 2022-08-05 | 2023-04-29 |
+| [Obili Éba](https://open.spotify.com/track/56HGK0lr90IKBmk7flx6VW) | [Sally Nyolo and the Original Bands of Yaounde](https://open.spotify.com/artist/6uBVl1CGtKrAlqASeY4b5M) | [Studio Cameroon](https://open.spotify.com/album/5Xg4oJf8D2fm9tFdjAMYUI) | 5:22 | 2023-03-14 |  |
 | [Oni Yalorde](https://open.spotify.com/track/5iz4vxakmdHfmZIyYdhp6P) | [Omar Sosa](https://open.spotify.com/artist/2zyVwasA2QkaVopBFZ2RfX) | [Transparent Water](https://open.spotify.com/album/05zAa96vJNiqrT9GBc6n3O) | 3:53 | 2022-08-05 |  |
 | [People Talk Too Much](https://open.spotify.com/track/4MBgbO0F3qKav5MuxNpxzm) | [King Ayisoba](https://open.spotify.com/artist/6TQgRLQia206d3QvleDxen) | [People Talk Too Much](https://open.spotify.com/album/2wO8hF43Nb42TrlaDGgSHE) | 3:32 | 2023-03-14 |  |
 | [Pierrette](https://open.spotify.com/track/2oz9cuIJauGZ2HlT9Ei4a5) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mariama](https://open.spotify.com/album/0Byaou7HBAyyOsoSGpp2hI) | 4:12 | 2022-08-05 |  |
@@ -119,8 +122,9 @@
 | [Wanita](https://open.spotify.com/track/6cBLK1pC202FMxthSKg1NN) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Wanita](https://open.spotify.com/album/5NAd6WgCPfR8BxEYWaZcEg) | 5:39 | 2022-08-05 |  |
 | [Warico](https://open.spotify.com/track/5GTYdbtzQpudmlo3Madhjf) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Jamm](https://open.spotify.com/album/4sh5kAaYaucu6sFbAakF2y) | 3:25 | 2022-08-05 |  |
 | [Where We Go](https://open.spotify.com/track/0RTeNUGTnAz0jiDVaNfMZ3) | [Blick Bassy](https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E) | [1958](https://open.spotify.com/album/3uyHh4SFgda0Y3Sjgg26V9) | 2:29 | 2022-08-05 |  |
+| [White Crocodile Blues \(A Song for M\)](https://open.spotify.com/track/0qmQRdMPUuMLHFpOajuzVg) | [Samba Touré](https://open.spotify.com/artist/3XHp0LmHYLkVBPsH3B66zi) | [Crocodile Blues](https://open.spotify.com/album/2R6mHEsnixhPbIqxxaO6sF) | 3:48 | 2023-03-14 |  |
 | [White Crocodile Blues \(A Song for M\)](https://open.spotify.com/track/2ZebEzOh3rhq6rT8bvff65) | [Samba Touré](https://open.spotify.com/artist/3XHp0LmHYLkVBPsH3B66zi) | [Rough Guide to a World of Guitar](https://open.spotify.com/album/3JsN3o5kgJVV82IbqJihg1) | 3:48 | 2022-08-05 | 2022-11-13 |
-| [White Crocodile Blues \(A Song for M\)](https://open.spotify.com/track/5TSrOwcE7x7PoRRYkwaE4T) | [Samba Touré](https://open.spotify.com/artist/3XHp0LmHYLkVBPsH3B66zi) | [Crocodile Blues](https://open.spotify.com/album/1hHOiRh6ooo8V0jdcSHc9Z) | 3:48 | 2022-08-05 |  |
+| [White Crocodile Blues \(A Song for M\)](https://open.spotify.com/track/5TSrOwcE7x7PoRRYkwaE4T) | [Samba Touré](https://open.spotify.com/artist/3XHp0LmHYLkVBPsH3B66zi) | [Crocodile Blues](https://open.spotify.com/album/1hHOiRh6ooo8V0jdcSHc9Z) | 3:48 | 2022-08-05 | 2023-04-29 |
 | [Who Do You Call](https://open.spotify.com/track/0GkuN9Zy932IzxFC6rolo8) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL) | [Something New](https://open.spotify.com/album/5RvKtXooRfP5QEbil7kQ95) | 2:10 | 2022-12-08 |  |
 | [Winter Trees Stand Sleeping](https://open.spotify.com/track/18PMUMZqCeKiZ5sV5fn1kz) | [Dawda Jobarteh](https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh) | [Transitional Times](https://open.spotify.com/album/10yK1rIl0mevzccNi8nlie) | 2:20 | 2022-08-05 |  |
 | [Xarit](https://open.spotify.com/track/1zWqMvDlArrjvNvZr5gfyJ) | [Diali Cissokho & Kaira Ba](https://open.spotify.com/artist/0I5q96SJ25V0fvPDl2EUEx) | [Routes](https://open.spotify.com/album/75oaoHY53aYTaQkWyLESRE) | 3:16 | 2022-08-05 | 2023-03-15 |

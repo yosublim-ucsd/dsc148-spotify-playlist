@@ -6,182 +6,130 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwMzQxNjAsMDAwMDAwMDBjMzM1ZWYwNzQ1ZDI3YjlhNzQzZmVkZDhkMzJlZGI2Yg==",
+  "snapshot_id": "MjgwNDQyNDAsMDAwMDAwMDA2ZTliYWEzMTlkYzI3Njc4ZTRiM2U3OGU3MWQzYjdiOQ==",
   "tracks": [
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "You Only Die Once (feat. Snoop Dogg)",
-        "url": "https://open.spotify.com/album/5gDO2SvkjN3WGEUtnisuYX"
+        "name": "The Dethalbum (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0NADZfQoyOerevGXzMqWru"
       },
       "artists": [
         {
-          "name": "Destructo",
-          "url": "https://open.spotify.com/artist/0BEYTctVmnYa5yStp4Jpab"
+          "name": "Metalocalypse: Dethklok",
+          "url": "https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8"
+        }
+      ],
+      "duration_ms": 213306,
+      "name": "Murdertrain a Comin'",
+      "url": "https://open.spotify.com/track/1o0y9me9vP1DQyrIrFuSa1"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Bad Habits",
+        "url": "https://open.spotify.com/album/2PHZo9XEoXtXH04JiY4Qsc"
+      },
+      "artists": [
+        {
+          "name": "Scott Bradlee's Postmodern Jukebox",
+          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
         },
+        {
+          "name": "Ashley Campbell",
+          "url": "https://open.spotify.com/artist/49mvmawPDTzmEaEPY5z0ew"
+        }
+      ],
+      "duration_ms": 250667,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/10uxiQ0BCHOmUgnkSF5MgN"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Please Take a Step Back",
+        "url": "https://open.spotify.com/album/0qcIsdY8AQS0XkdaSp75ag"
+      },
+      "artists": [
         {
           "name": "Snoop Dogg",
           "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 249677,
-      "name": "You Only Die Once (feat. Snoop Dogg)",
-      "url": "https://open.spotify.com/track/1zSROLwDPEvO58gt28VKfW"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "That You Not Dare To Forget",
-        "url": "https://open.spotify.com/album/6WgNJUxiFSVZTBO6UR4wqH"
-      },
-      "artists": [
-        {
-          "name": "M.E.B.",
-          "url": "https://open.spotify.com/artist/6AjJDwKIPlXjOxGeiCCy9P"
-        }
-      ],
-      "duration_ms": 373533,
-      "name": "Mellow Kisses",
-      "url": "https://open.spotify.com/track/2aCGvsI9wPrmFGUGt3VEXW"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Variables",
-        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 403933,
-      "name": "Foreword",
-      "url": "https://open.spotify.com/track/2n0GcL4eZ110vdaU16OBdJ"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/6qzKDJBKrbGWvdFNylWM7x"
-      },
-      "artists": [
-        {
-          "name": "Tamika Scott",
-          "url": "https://open.spotify.com/artist/1M8OKqAm4Xxjhqw9qhhO4u"
         },
         {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+          "name": "GaryVee",
+          "url": "https://open.spotify.com/artist/1S2KSo7xLd5okhXnUkTy88"
         }
       ],
-      "duration_ms": 242670,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/2imQHlhnuTG3TvgxLEKcGR"
+      "duration_ms": 205424,
+      "name": "Please Take a Step Back",
+      "url": "https://open.spotify.com/track/2MSa8kf0unz5ZYoDwKSvNn"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Walking on Sunshine (Metal Version)",
-        "url": "https://open.spotify.com/album/2TQ59UB1pvxvmZ2jACjcp2"
+        "name": "The JoPlaysViolin Poop Song",
+        "url": "https://open.spotify.com/album/24jgH4R0XV4h86zjcVx0iY"
       },
       "artists": [
         {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+          "name": "The Odd Man Who Sings About Poop, Puke and Pee",
+          "url": "https://open.spotify.com/artist/7zM4smYl6oC7yMLzfpK7I4"
         }
       ],
-      "duration_ms": 208312,
-      "name": "Walking on Sunshine (Metal Version)",
-      "url": "https://open.spotify.com/track/0pc94WOnAQaMxRQenwlCDD"
+      "duration_ms": 111452,
+      "name": "The JoPlaysViolin Poop Song",
+      "url": "https://open.spotify.com/track/1KT399H7thJBjZaE5OH9ne"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Abbado: Schumann \u2013 Tchaikovsky",
-        "url": "https://open.spotify.com/album/2RTQqBU2yR9eSdYfpLheRW"
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/4SUZUsDERmGX6pUtDSBmEK"
       },
       "artists": [
         {
-          "name": "Carl Maria von Weber",
-          "url": "https://open.spotify.com/artist/1p6wR69pnH9LBWZvwliuz2"
+          "name": "David Garfield",
+          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
         },
         {
-          "name": "Alfred Brendel",
-          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
+          "name": "Lilliana De Los Reyes",
+          "url": "https://open.spotify.com/artist/1DX1GXLfSp6njcWzDZSTRk"
         },
         {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
         },
         {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+          "name": "David Sanborn",
+          "url": "https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE"
         }
       ],
-      "duration_ms": 452000,
-      "name": "Konzertst\u00fcck in F Minor, Op. 79: Adagio - Tempo di marcia - Pi\u00f9 mosso - Presto giocoso",
-      "url": "https://open.spotify.com/track/0uMwn3iVIQ9DwwQU6wmLbS"
+      "duration_ms": 359288,
+      "name": "Stay - JR Version",
+      "url": "https://open.spotify.com/track/1a7eacaVhQwDgibGLTDqsX"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "$WISH ft. G-Eazy and Chance The Rapper",
-        "url": "https://open.spotify.com/album/3kIkoRdH0qYoYOqS2FHNjN"
+        "name": "Night In Milan",
+        "url": "https://open.spotify.com/album/5mjEC5XuALfFLI7XlpnAXL"
       },
       "artists": [
         {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
         },
         {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
         }
       ],
-      "duration_ms": 225453,
-      "name": "$WISH ft. G-Eazy and Chance The Rapper",
-      "url": "https://open.spotify.com/track/1019DU4Cv5W7pUISZWSWlO"
+      "duration_ms": 174220,
+      "name": "Misbehave",
+      "url": "https://open.spotify.com/track/4ehgjSurE3QV1A29IKjnlC"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Blades",
-        "url": "https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 221092,
-      "name": "Blades",
-      "url": "https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/3xPchYxzLZMB0v9QilXjiG"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 181973,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/2qpO61VYdgYDYrrXGfA2yi"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "Don't Let The Devil [Feat. thankugoodsir]",
         "url": "https://open.spotify.com/album/60rpMY5zgymbCEn7ICfi8M"
@@ -205,7 +153,159 @@
       "url": "https://open.spotify.com/track/2LBwRP4HSUTJiLobjhaaXp"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Blades",
+        "url": "https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 221092,
+      "name": "Blades",
+      "url": "https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "$WISH ft. G-Eazy and Chance The Rapper",
+        "url": "https://open.spotify.com/album/3kIkoRdH0qYoYOqS2FHNjN"
+      },
+      "artists": [
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 225453,
+      "name": "$WISH ft. G-Eazy and Chance The Rapper",
+      "url": "https://open.spotify.com/track/1019DU4Cv5W7pUISZWSWlO"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Variables",
+        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "duration_ms": 403933,
+      "name": "Foreword",
+      "url": "https://open.spotify.com/track/2n0GcL4eZ110vdaU16OBdJ"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Abbado: Schumann \u2013 Tchaikovsky",
+        "url": "https://open.spotify.com/album/2RTQqBU2yR9eSdYfpLheRW"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Alfred Brendel",
+          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "duration_ms": 948461,
+      "name": "Piano Concerto in A Minor, Op. 54: 1. Allegro affettuoso",
+      "url": "https://open.spotify.com/track/0VbgxKHLT0AODoNG0e5rfy"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/3xPchYxzLZMB0v9QilXjiG"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 181973,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/2qpO61VYdgYDYrrXGfA2yi"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "That You Not Dare To Forget",
+        "url": "https://open.spotify.com/album/6WgNJUxiFSVZTBO6UR4wqH"
+      },
+      "artists": [
+        {
+          "name": "M.E.B.",
+          "url": "https://open.spotify.com/artist/6AjJDwKIPlXjOxGeiCCy9P"
+        }
+      ],
+      "duration_ms": 373533,
+      "name": "Mellow Kisses",
+      "url": "https://open.spotify.com/track/2aCGvsI9wPrmFGUGt3VEXW"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6qzKDJBKrbGWvdFNylWM7x"
+      },
+      "artists": [
+        {
+          "name": "Tamika Scott",
+          "url": "https://open.spotify.com/artist/1M8OKqAm4Xxjhqw9qhhO4u"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 242670,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/2imQHlhnuTG3TvgxLEKcGR"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Walking on Sunshine (Metal Version)",
+        "url": "https://open.spotify.com/album/2TQ59UB1pvxvmZ2jACjcp2"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 208312,
+      "name": "Walking on Sunshine (Metal Version)",
+      "url": "https://open.spotify.com/track/0pc94WOnAQaMxRQenwlCDD"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "South Side (Resound NYC Version)",
         "url": "https://open.spotify.com/album/1pHed1fPsnnyQm79Alnby3"
@@ -225,7 +325,7 @@
       "url": "https://open.spotify.com/track/5bANiJIruzVnOpflrMX7VF"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "Damn (You\u2019ve Got Me Saying) [East & Young Remix]",
         "url": "https://open.spotify.com/album/0j5LQIFpyIZaPIMvr5u74t"
@@ -249,43 +349,7 @@
       "url": "https://open.spotify.com/track/5P75HquAu7iKHhsjM658sB"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Rescued",
-        "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 258648,
-      "name": "Rescued",
-      "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "DRIVE",
-        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 183652,
-      "name": "Chills (LA Hills)",
-      "url": "https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "Double Fantasy",
         "url": "https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm"
@@ -305,27 +369,27 @@
       "url": "https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "JUMPIN",
-        "url": "https://open.spotify.com/album/1ZdWk1Dsey5PV8vm1o9aXK"
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
       },
       "artists": [
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 144000,
-      "name": "JUMPIN",
-      "url": "https://open.spotify.com/track/0qLrNIdgLhNw2sBEGqq1mY"
+      "duration_ms": 183652,
+      "name": "Chills (LA Hills)",
+      "url": "https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "Miracle (with Ellie Goulding) [Mau P Remix]",
         "url": "https://open.spotify.com/album/2F5dzEAJZlxxMI0uGOQfYt"
@@ -349,47 +413,27 @@
       "url": "https://open.spotify.com/track/3lsiqFV6SKhBgzQCpuM1JR"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Hill Billy",
-        "url": "https://open.spotify.com/album/6GeOVU4wnonE5clZuoqQGC"
+        "name": "Beggin'",
+        "url": "https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V"
       },
       "artists": [
         {
-          "name": "Bubba Sparxxx",
-          "url": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
         },
         {
-          "name": "Dusty Leigh",
-          "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
-        },
-        {
-          "name": "Jcrews",
-          "url": "https://open.spotify.com/artist/5y2AgdbbFUpAXM8T7o8Fvb"
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
         }
       ],
-      "duration_ms": 215593,
-      "name": "Hill Billy",
-      "url": "https://open.spotify.com/track/6cLtxcSqxHInbrgT1vobQT"
+      "duration_ms": 183397,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "California",
-        "url": "https://open.spotify.com/album/2LFtKHZpmGiB0u9KIHL7GY"
-      },
-      "artists": [
-        {
-          "name": "Firebeatz",
-          "url": "https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo"
-        }
-      ],
-      "duration_ms": 145312,
-      "name": "California",
-      "url": "https://open.spotify.com/track/2tP1TRZs1sMhnS0WA3xVdo"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "72 Seasons",
         "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
@@ -405,7 +449,7 @@
       "url": "https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "Float (Coco & Breezy Remix)",
         "url": "https://open.spotify.com/album/6zNU2h4HyMVpFz8MdBTIjF"
@@ -425,7 +469,7 @@
       "url": "https://open.spotify.com/track/7MJc1Z7tTRVCCw63JhWyAv"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "Enigmatic Society",
         "url": "https://open.spotify.com/album/57O5Ll1mLkLQgSeOCayVCe"
@@ -461,7 +505,7 @@
       "url": "https://open.spotify.com/track/0TuuzZDwssPfVQvgubXsYV"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "Cult of Personality (Re-Recorded - Sped Up)",
         "url": "https://open.spotify.com/album/2GrhRj3q9UuIbKhK7opZXK"
@@ -472,12 +516,12 @@
           "url": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
         }
       ],
-      "duration_ms": 396564,
-      "name": "Cult of Personality - Re-Recorded - Slowed",
-      "url": "https://open.spotify.com/track/6ZFJTLRVmMLP0yuv5SvvyP"
+      "duration_ms": 237912,
+      "name": "Cult of Personality - Re-Recorded - Sped Up",
+      "url": "https://open.spotify.com/track/0eNAwfluEGtgbdURTceEtx"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "No Tomorrow",
         "url": "https://open.spotify.com/album/66yZzWmZViMvBqYpf0gLNL"
@@ -497,43 +541,27 @@
       "url": "https://open.spotify.com/track/0ctvAQSD8kcQP6VUYF5yLf"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/4JvUT0RuTH3rYTp26QB5o4"
+        "name": "VOID",
+        "url": "https://open.spotify.com/album/1aouMKjJAa4vMHngy0Zt3p"
       },
       "artists": [
         {
-          "name": "Scott Bradlee's Postmodern Jukebox",
-          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
         },
         {
-          "name": "Jeffrey James",
-          "url": "https://open.spotify.com/artist/0Bm5cFUEv8FGx1wEekHj0D"
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
         }
       ],
-      "duration_ms": 241532,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/4vRlN2qaQbdtpL9caPqh5q"
+      "duration_ms": 206618,
+      "name": "VOID - Sped Up Version",
+      "url": "https://open.spotify.com/track/0KpU1OoP5ddAJago8RDU7k"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "The Dethalbum (Expanded Edition) [Bonus Tracks]",
-        "url": "https://open.spotify.com/album/4c6UA2PK8mHXRpOSDmReQK"
-      },
-      "artists": [
-        {
-          "name": "Metalocalypse: Dethklok",
-          "url": "https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8"
-        }
-      ],
-      "duration_ms": 169906,
-      "name": "Blood Ocean",
-      "url": "https://open.spotify.com/track/0mTMA4DszJEuviUhbUxfKf"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "Lost Not Forgotten Archives: The Making of Falling Into Infinity (1997)",
         "url": "https://open.spotify.com/album/6PSF6V0b6eMbuBI8lBMahX"
@@ -549,23 +577,7 @@
       "url": "https://open.spotify.com/track/4KTFtsadHOMKnxX5fCcucu"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "PORTALS (Deluxe)",
-        "url": "https://open.spotify.com/album/6lbrHERXve89hrxuCpsJOg"
-      },
-      "artists": [
-        {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
-        }
-      ],
-      "duration_ms": 183974,
-      "name": "SPIDER WEB",
-      "url": "https://open.spotify.com/track/77wA2WR0WudvUTzeBGYh3d"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "CALL ME IF YOU GET LOST: The Estate Sale",
         "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
@@ -585,7 +597,7 @@
       "url": "https://open.spotify.com/track/6S4WM9LW6oGkAtBFePffh2"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "Continue as a Guest",
         "url": "https://open.spotify.com/album/4W7yoLgWewZv3rdhGjLB3B"
@@ -596,9 +608,9 @@
           "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
         }
       ],
-      "duration_ms": 264026,
-      "name": "Continue as a Guest",
-      "url": "https://open.spotify.com/track/5PbPvcgxCZF677hZEVbxWM"
+      "duration_ms": 257733,
+      "name": "Last and Beautiful",
+      "url": "https://open.spotify.com/track/4FHM1Jv01RI8KbQq0eJkN6"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

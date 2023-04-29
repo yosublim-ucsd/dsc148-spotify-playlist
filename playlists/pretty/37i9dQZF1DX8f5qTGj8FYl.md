@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is just too funky for words to keep up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,445 likes - 80 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,611 likes - 80 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 20 | [7\-T's](https://open.spotify.com/track/008BspjuJpmAPCRi7fWbOY) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Laid Black](https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc) | 5:55 |
 | 21 | [The Vice Yard](https://open.spotify.com/track/3H47SylMu2eMbc5WLZThPm) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Connection](https://open.spotify.com/album/5Tp94nlIqgi6933CP5zoG8) | 4:11 |
 | 22 | [Bounce, Pts\. I + II](https://open.spotify.com/track/1iibuYzHLKlk8SSZic8SGG) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [KINFOLK: Postcards from Everywhere](https://open.spotify.com/album/5ngHFQ0hYDlYirIE5l0if9) | 5:33 |
-| 23 | [Kong](https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mirage](https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv) | 4:47 |
-| 24 | [Saturn](https://open.spotify.com/track/19pDIVteJMebeU3KrB7rYR) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [The Olympians](https://open.spotify.com/album/4XipjE8vNOXj7Xc9FlD962) | 3:37 |
+| 23 | [Saturn](https://open.spotify.com/track/19pDIVteJMebeU3KrB7rYR) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [The Olympians](https://open.spotify.com/album/4XipjE8vNOXj7Xc9FlD962) | 3:37 |
+| 24 | [Kong](https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mirage](https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv) | 4:47 |
 | 25 | [Kenni and the Jets](https://open.spotify.com/track/3BNHpCcu9BaL43SjLIi8o9) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [Tailwinds](https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg) | 4:09 |
 | 26 | [Work Tapes](https://open.spotify.com/track/6IlJLEMA4tkDBFM4joXEzM) | [Magic In Threes](https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay) | [3 \(Remastered\)](https://open.spotify.com/album/38p16DnIi2n5sxiZBat3ML) | 2:18 |
 | 27 | [The Wrangler](https://open.spotify.com/track/2BXKQbIgsKd1ojy5JTfPz3) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [Long in the Tooth](https://open.spotify.com/album/0G6lfCljZy9MEIrlFMhlEf) | 2:59 |
@@ -68,18 +68,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 58 | [Keb's Bucket](https://open.spotify.com/track/6M6JD31lK0TXVg6KzrcjZ8) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Baked, Broiled & Fried](https://open.spotify.com/album/0Uu0RMHsayk00SRB2IY0pX) | 3:30 |
 | 59 | [Down Frenchmen St](https://open.spotify.com/track/7ofSPPgO1q41e6qTdL29U8) | [The Filthy Six](https://open.spotify.com/artist/1AiQK5vJEjhf6pFcWs5nWp) | [The Fox](https://open.spotify.com/album/6jNDtYJlpZtqjEqc0a3I9J) | 5:57 |
 | 60 | [Don't Worry 'Bout What I Do](https://open.spotify.com/track/2NrgFbqq1uCovinEtTw3Mj) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Cold As Weiss](https://open.spotify.com/album/39wAzMaFzTVEN0yqJXYyzK) | 5:14 |
-| 61 | [Chemical Plant Zone](https://open.spotify.com/track/4xhyuLEk3hkOzU0JV1kOPr) | [Black Market Brass](https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW) | [Chemical Plant Zone](https://open.spotify.com/album/2t1cN1Q9rTWzDju37p0vEJ) | 4:21 |
-| 62 | [Assassin \- The Paisley Park Session](https://open.spotify.com/track/00iZlOpfLr21eTSl0Ba3hn) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Assassin \(The Paisley Park Session\)](https://open.spotify.com/album/4sj2In3VzdEOey1GlGlVhl) | 3:22 |
-| 63 | [Bunny Hop](https://open.spotify.com/track/07ma7BgUd9SUyOWSkpQCLp) | [The CB3](https://open.spotify.com/artist/3z9nMmCLIxruNbcL4Iddsl) | [Bunny Hop!](https://open.spotify.com/album/2eZaBE4GDDdOgZH8210Nts) | 5:02 |
-| 64 | [El Camino Del Caballo](https://open.spotify.com/track/3EY95RjI4HbKXgUJqMmgu6) | [Mestizo Beat](https://open.spotify.com/artist/15Jjcp8FbI1GWwMxb5xkns) | [Canoga Madness](https://open.spotify.com/album/6KP257UWJsfOnJ5stxJ2MC) | 3:27 |
-| 65 | [Funkedemia](https://open.spotify.com/track/3Y4OuMnrh3An9tpxGWtd0z) | [Mac James](https://open.spotify.com/artist/2lV3UEHZZ7gYzj5Iv0NLJ3) | [Funkedemia](https://open.spotify.com/album/7HKRAGoXo7IWvMhkpT6NMb) | 2:13 |
+| 61 | [Funkedemia](https://open.spotify.com/track/3Y4OuMnrh3An9tpxGWtd0z) | [Mac James](https://open.spotify.com/artist/2lV3UEHZZ7gYzj5Iv0NLJ3) | [Funkedemia](https://open.spotify.com/album/7HKRAGoXo7IWvMhkpT6NMb) | 2:13 |
+| 62 | [Chemical Plant Zone](https://open.spotify.com/track/4xhyuLEk3hkOzU0JV1kOPr) | [Black Market Brass](https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW) | [Chemical Plant Zone](https://open.spotify.com/album/2t1cN1Q9rTWzDju37p0vEJ) | 4:21 |
+| 63 | [Assassin \- The Paisley Park Session](https://open.spotify.com/track/00iZlOpfLr21eTSl0Ba3hn) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Assassin \(The Paisley Park Session\)](https://open.spotify.com/album/4sj2In3VzdEOey1GlGlVhl) | 3:22 |
+| 64 | [Bunny Hop](https://open.spotify.com/track/07ma7BgUd9SUyOWSkpQCLp) | [The CB3](https://open.spotify.com/artist/3z9nMmCLIxruNbcL4Iddsl) | [Bunny Hop!](https://open.spotify.com/album/2eZaBE4GDDdOgZH8210Nts) | 5:02 |
+| 65 | [El Camino Del Caballo](https://open.spotify.com/track/3EY95RjI4HbKXgUJqMmgu6) | [Mestizo Beat](https://open.spotify.com/artist/15Jjcp8FbI1GWwMxb5xkns) | [Canoga Madness](https://open.spotify.com/album/6KP257UWJsfOnJ5stxJ2MC) | 3:27 |
 | 66 | [Indoor S'mores](https://open.spotify.com/track/2bzch1uNsKXSXE1zoctEag) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [The Fun Ones](https://open.spotify.com/album/4xTGDldacEINrMyVRXUfVH) | 4:41 |
 | 67 | [Just Funkin' Around](https://open.spotify.com/track/07Meko4g3ihmJD5p8h6onU) | [Pieces Of A Dream](https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE) | [Just Funkin' Around](https://open.spotify.com/album/4HWLCdbq197ZA5XfXCKUhT) | 4:07 |
 | 68 | [False Prophets](https://open.spotify.com/track/6sOL29bZBilHSiuFEwtNS9) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [False Prophets](https://open.spotify.com/album/5CujzokHgFMEPtzUdetfyO) | 5:52 |
 | 69 | [In the Groove](https://open.spotify.com/track/5YPvJO7U1HhwuJBLrD1f0q) | [Rock Candy Funk Party](https://open.spotify.com/artist/0n6R1WkjWzYq9NblwRLaBQ) | [The Groove Cubed](https://open.spotify.com/album/0agUvZzRFE3DuNYG4qIPRK) | 6:52 |
-| 70 | [Psychic Powers](https://open.spotify.com/track/4yTdRH0seHLM4QaHC3jKoS) | [Janko Nilovic](https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9), [The Soul Surfers](https://open.spotify.com/artist/1UST9Gt4W7PFIPrBuxTMP8) | [Psychic Powers](https://open.spotify.com/album/4JWBQMTD8OEsmELMJPxcTu) | 2:38 |
+| 70 | [Living Off](https://open.spotify.com/track/7zLbAUkKTTQmNj0kPs55LH) | [Funk Off](https://open.spotify.com/artist/7lis4nJqfPm4jTXZdfAJDy) | [Uh Yeah!](https://open.spotify.com/album/6l1B3uOyqe1kWKQnMNIZdk) | 3:08 |
 | 71 | [The Duke](https://open.spotify.com/track/11V8HzOfn85nFZmDntBvnP) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [The Duke](https://open.spotify.com/album/2FnbvOsZ4x8mnx4eKOKnA9) | 2:46 |
-| 72 | [Living Off](https://open.spotify.com/track/7zLbAUkKTTQmNj0kPs55LH) | [Funk Off](https://open.spotify.com/artist/7lis4nJqfPm4jTXZdfAJDy) | [Uh Yeah!](https://open.spotify.com/album/6l1B3uOyqe1kWKQnMNIZdk) | 3:08 |
+| 72 | [Psychic Powers](https://open.spotify.com/track/4yTdRH0seHLM4QaHC3jKoS) | [Janko Nilovic](https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9), [The Soul Surfers](https://open.spotify.com/artist/1UST9Gt4W7PFIPrBuxTMP8) | [Psychic Powers](https://open.spotify.com/album/4JWBQMTD8OEsmELMJPxcTu) | 2:38 |
 | 73 | [Everybody's Inn](https://open.spotify.com/track/35t1ubxf6jaJ96Ai18zhpY) | [Funky Destination](https://open.spotify.com/artist/2FK2jZ7cuokxYOC5nSM7bK) | [We Are All Shining Stars](https://open.spotify.com/album/3kTEb0hcYGBRtOFIadpjXK) | 3:18 |
 | 74 | [Say Goodbye](https://open.spotify.com/track/1btR46PFIB5xnpIJJxniBB) | [Lucas de Mulder](https://open.spotify.com/artist/7g8fMHhsjLE4d5ItdVjdVQ), [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Say Goodbye](https://open.spotify.com/album/5A2nu2JUX7DpEZ9koqOBaG) | 3:07 |
 | 75 | [Funkafized](https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0) | [Boston Horns](https://open.spotify.com/artist/1c8Oi7jBZp09wJap1wn2Cd) | [Funkafized Plus](https://open.spotify.com/album/7kMk2WjnOqsiD4Jqqp0z7f) | 4:59 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 77 | [Bambu](https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH) | [Chris Hazelton's Boogaloo 7](https://open.spotify.com/artist/74IYxnwsZ1xNeGIDDujtWr) | [The Basement Beat](https://open.spotify.com/album/3JrhYYG6NXmVmLQ2mH8zaB) | 7:50 |
 | 78 | [Royal Highness](https://open.spotify.com/track/42y27OIathcePEZFs5bYSk) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Elevate](https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf) | 5:24 |
 | 79 | [Cornish Hen](https://open.spotify.com/track/7nzJpykzx8lLq6aKKjcMP5) | [Scary Goldings](https://open.spotify.com/artist/7qpDEiYbQJt05vCyAbg3ru), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Cornish Hen](https://open.spotify.com/album/48okKBxYGZwTJar4SWrZZc) | 5:05 |
-| 80 | [Samson](https://open.spotify.com/track/6d2O45piXdSJ1ieRFuYYXn) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Lost Knights](https://open.spotify.com/album/06wmF4jhsHKfmqhKdAZfvi) | 3:42 |
+| 80 | [West Coast Jam](https://open.spotify.com/track/5kg9Jl18Z3XjTYznMtFUED) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Summer Madness](https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt) | 3:58 |
 
-Snapshot ID: `MCwzY2UwNWY3Njc4MjhjMjA2NWQyMTVjOGRjMzcwZTUxYjc1YTA5NmRm`
+Snapshot ID: `MCxjMDQ3YWQ3NGU0MWY5MDUxMWMyODE4MGFkMjQ2OWM2MDc4YTQyMWIy`

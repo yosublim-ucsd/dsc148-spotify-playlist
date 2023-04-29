@@ -4,7 +4,7 @@
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org/conference</a>\. Cover: The Milk Carton Kids
 
-494 songs - 1 day 8 hr 13 min
+495 songs - 1 day 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,8 @@
 | [Hartford's Real](https://open.spotify.com/track/6qwgQpxPquSCoXyKbzRNXM) | [Crying Uncle Bluegrass Band](https://open.spotify.com/artist/07LfNOsqR0Izb4O0ehVd6L), [Chad Manning](https://open.spotify.com/artist/3QiIPBpmoHkQrBG9Efq6Im), [Keith Little](https://open.spotify.com/artist/26P4B5XVTbUFiDFxfCDRp0), [Sharon Gilchrist](https://open.spotify.com/artist/09rxAugrQG94CtwBosZBYx) | [Monroe Bridge](https://open.spotify.com/album/32gqZrDypZZFvRKC8Y9bfZ) | 4:54 | 2021-02-23 | 2022-04-26 |
 | [Headstart](https://open.spotify.com/track/4hvogg26QxhiwZejv9nNae) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Headstart](https://open.spotify.com/album/2MFtg3BQopMqFiEYXQZ9q2) | 2:22 | 2021-02-23 | 2022-04-26 |
 | [Healing Creek](https://open.spotify.com/track/4AsrwPkPDdpzjjdr2SDykN) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Healing Creek](https://open.spotify.com/album/7dF7ZkpIBrkCMDqFEIEzh6) | 3:11 | 2023-01-24 |  |
-| [Heart of Glass](https://open.spotify.com/track/4UWaGuAU5WhyYsTQOveJ8d) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Heart of Glass](https://open.spotify.com/album/6jWAnKAfi97TeaANkk65TO) | 4:29 | 2023-01-24 |  |
+| [Heart of Glass](https://open.spotify.com/track/4UWaGuAU5WhyYsTQOveJ8d) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Heart of Glass](https://open.spotify.com/album/6jWAnKAfi97TeaANkk65TO) | 4:29 | 2023-01-24 | 2023-04-29 |
+| [Heart of Glass](https://open.spotify.com/track/6b0bCg4WD8beGI9HIFtwtj) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Heart of Glass](https://open.spotify.com/album/1so7RpxAxSDG4ymEZSciIG) | 4:29 | 2023-01-24 |  |
 | [Helpless Wanderer](https://open.spotify.com/track/4Ft8AHTuhuRi0e3rMM9LHA) | [Underhill Rose](https://open.spotify.com/artist/3jrCADOrZCtzhNMCOekvPm) | [Something Real](https://open.spotify.com/album/1aLIPBFFED0RqXtI90dM8X) | 3:17 | 2022-04-25 | 2023-01-25 |
 | [Hemfärd](https://open.spotify.com/track/7s4b1Gfre0Jagqcuh534no) | [Northern Resonance](https://open.spotify.com/artist/6xMbUUCiUhAtBQj9KkSi9j) | [Northern Resonance](https://open.spotify.com/album/0ol0FVq0PrbHq3kLmCm2xE) | 4:38 | 2023-01-24 |  |
 | [Her Eyes are a Blue Million Miles](https://open.spotify.com/track/29XoN9EQQ81PmxGRrIcNMu) | [Niamh Regan](https://open.spotify.com/artist/5vQdYaBacVe00yHMbpnRVa) | [Her Eyes are a Blue Million Miles](https://open.spotify.com/album/2kdoljgnAVG8W2gcTpATia) | 4:23 | 2023-01-24 |  |

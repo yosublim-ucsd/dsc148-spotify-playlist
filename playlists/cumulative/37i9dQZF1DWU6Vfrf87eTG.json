@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Crows in the Basilica",
+        "url": "https://open.spotify.com/album/1D6s8KszoqLt9o6i0nyf9K"
+      },
+      "artists": [
+        {
+          "name": "Chuck Johnson",
+          "url": "https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230449,
+      "name": "Across White Oak Mountain",
+      "url": "https://open.spotify.com/track/2MNdcZ5yBHnMeww6jVITzc"
+    },
+    {
+      "album": {
         "name": "Crows In The Basilica",
         "url": "https://open.spotify.com/album/6haBtUE6M80jxNgGFRgcFw"
       },
@@ -106,7 +124,7 @@
       ],
       "date_added": "2020-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 230449,
       "name": "Across White Oak Mountain",
       "url": "https://open.spotify.com/track/6mFuM7qrH8p57mgYeG3IRI"
@@ -172,6 +190,24 @@
     {
       "album": {
         "name": "3/4 AD",
+        "url": "https://open.spotify.com/album/7dyUtGBLV46N0MpFIHTd67"
+      },
+      "artists": [
+        {
+          "name": "Davy Graham",
+          "url": "https://open.spotify.com/artist/72zalCfn9P7eU6oGje7tyJ"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147066,
+      "name": "Angi",
+      "url": "https://open.spotify.com/track/24mF7MHU2S7NfkvyhKbHHZ"
+    },
+    {
+      "album": {
+        "name": "3/4 AD",
         "url": "https://open.spotify.com/album/5jCLZRSd8CyV34s7iEvqYZ"
       },
       "artists": [
@@ -218,7 +254,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 147066,
       "name": "Angi",
       "url": "https://open.spotify.com/track/7pDKAoUXi0IpkcSF3lEJd7"
@@ -668,10 +704,28 @@
       ],
       "date_added": "2020-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 165706,
       "name": "Carol Kaye (Instrumental)",
       "url": "https://open.spotify.com/track/2EB7aZJY5imWcpnuqJPmoB"
+    },
+    {
+      "album": {
+        "name": "Hello I Must Be Going",
+        "url": "https://open.spotify.com/album/7gixF6cRUF4ZpuO7sNMcfq"
+      },
+      "artists": [
+        {
+          "name": "Laura Veirs",
+          "url": "https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165706,
+      "name": "Carol Kaye (Instrumental)",
+      "url": "https://open.spotify.com/track/6KaPEuQFd8KKMzwJTAoGIR"
     },
     {
       "album": {

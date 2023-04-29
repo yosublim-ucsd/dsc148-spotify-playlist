@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 24038,
+  "num_followers": 24186,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmU3YzVjMmJkNWRiMjUxMDgwZTUxZjllNTVkYTM1NTc4ZmExYTNi",
+  "snapshot_id": "MCxmOGVjNmM1NGE0M2RkNTVmMTY3NzNhNTk1NzZkZGU4OWI5MTRmNDM2",
   "tracks": [
     {
       "added_at": "2023-02-09 23:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "A Quick One (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6f4mqM3RNAfO1t6XeeUa8P"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 149533,
-      "name": "Boris The Spider - Mono Version",
-      "url": "https://open.spotify.com/track/1S0F285e5h5BNI2gJAmPqe"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "Pip Paine (Pay The \u00a35000 You Owe)",
         "url": "https://open.spotify.com/album/3PWeJGk1ybkkO5lF9eXVUt"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 281066,
       "name": "Trick or Treatz",
       "url": "https://open.spotify.com/track/3JjiOYtQlAl7AHh2sXBgC6"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "A Quick One (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6f4mqM3RNAfO1t6XeeUa8P"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 149533,
+      "name": "Boris The Spider - Mono Version",
+      "url": "https://open.spotify.com/track/1S0F285e5h5BNI2gJAmPqe"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Veronica Falls",
-        "url": "https://open.spotify.com/album/02oz6Rr7JK31RIRHtzUx2g"
-      },
-      "artists": [
-        {
-          "name": "Veronica Falls",
-          "url": "https://open.spotify.com/artist/0mgbAj6btHW215UxhLq1AV"
-        }
-      ],
-      "duration_ms": 239066,
-      "name": "Found Love in a Graveyard",
-      "url": "https://open.spotify.com/track/7vD8m9ZzsvnnPYd1VpzgUO"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "Hit to Death in the Future Head",
         "url": "https://open.spotify.com/album/1lynS5ouWEeWeMNT0XLqpJ"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 162320,
       "name": "Pumpkin",
       "url": "https://open.spotify.com/track/0AhZO6ezTf9wIY3SySkqnl"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "Skeleton Song",
+        "url": "https://open.spotify.com/album/5WUaj6nUeHUVPqYnOfUORW"
+      },
+      "artists": [
+        {
+          "name": "Bambi L",
+          "url": "https://open.spotify.com/artist/2pcRdJu290vEYb27Az15Vh"
+        }
+      ],
+      "duration_ms": 162127,
+      "name": "Skeleton Song",
+      "url": "https://open.spotify.com/track/7H4N9ufe5nkeyAYvWg8OwB"
     },
     {
       "added_at": "2023-02-09 23:00:00",

@@ -3952,10 +3952,28 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 224853,
       "name": "Keys Down If You Stay",
       "url": "https://open.spotify.com/track/3vamncl7v4nWvIs9iEnFoF"
+    },
+    {
+      "album": {
+        "name": "Keys Down If You Stay",
+        "url": "https://open.spotify.com/album/3MitGCRd6KY8Ttqx1G1jlM"
+      },
+      "artists": [
+        {
+          "name": "Cola",
+          "url": "https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224853,
+      "name": "Keys Down If You Stay",
+      "url": "https://open.spotify.com/track/6CDSQOk2YWOgJ6oecwE4GG"
     },
     {
       "album": {

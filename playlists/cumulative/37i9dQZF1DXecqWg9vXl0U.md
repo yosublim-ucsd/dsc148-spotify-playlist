@@ -2,7 +2,7 @@
 
 ### [✨ dreamy ✨](https://open.spotify.com/playlist/37i9dQZF1DXecqWg9vXl0U)
 
-> como en una nube\. Bedroom pop vibes featuring Kaia Lana.
+> como en una nube\. Bedroom pop vibes featuring Cuco y The Marias.
 
 242 songs - 13 hr 17 min
 
@@ -180,7 +180,7 @@
 | [Poder](https://open.spotify.com/track/5Et9S2tHzF6OQNVR3QyqMk) | [FRNCE](https://open.spotify.com/artist/6JgntWpSBHDYhbJbpMuD4f), [TÉPÚRPURA](https://open.spotify.com/artist/4dYCpuND1Me98DuW9U0gjl) | [Poder](https://open.spotify.com/album/0iyNfA2HmU9EmdXay16qvn) | 3:41 | 2023-04-07 |  |
 | [Polaroid](https://open.spotify.com/track/2FUsz4y7BNzWomZjvK9ebT) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [¿Cómo sonaría un disco?](https://open.spotify.com/album/5ceNhJg1s3D5sm49J9kLHI) | 2:56 | 2023-02-24 |  |
 | [Polaroid](https://open.spotify.com/track/3r5FAJam7uWGVxO9wKERn5) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [¿Cómo sonaría un disco?](https://open.spotify.com/album/5KtjJlDfRo3meKI0oKBg6X) | 2:56 | 2023-02-24 | 2023-03-02 |
-| [Prometimos No Hablar](https://open.spotify.com/track/1aTHKQ5x0tBFmN9yW8jtLF) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Prometimos No Hablar](https://open.spotify.com/album/40jASBMnpbRBj7O8QfLUEU) | 4:19 | 2022-03-25 | 2023-03-31 |
+| [Prometimos No Hablar](https://open.spotify.com/track/1aTHKQ5x0tBFmN9yW8jtLF) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Prometimos No Hablar](https://open.spotify.com/album/40jASBMnpbRBj7O8QfLUEU) | 4:19 | 2022-03-25 |  |
 | [Puente](https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Puente](https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj) | 3:00 | 2022-03-25 | 2022-04-23 |
 | [Quiero Quedarme para Siempre](https://open.spotify.com/track/3du9ocej65TycajaDfw8j9) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Quiero Quedarme para Siempre](https://open.spotify.com/album/7AQmikvyjRWLYx5cey4JIG) | 3:09 | 2022-04-18 |  |
 | [Quiero Ser](https://open.spotify.com/track/6RuBekPX1SfnHlRc3lQlZo) | [Astronaut Project](https://open.spotify.com/artist/6l1UufU4b8ZUjVJcufJWwn) | [Quiero Ser](https://open.spotify.com/album/1FL1yWAmp3TJOnVTSO04ow) | 2:31 | 2022-03-25 | 2022-05-09 |
@@ -229,7 +229,7 @@
 | [un rato](https://open.spotify.com/track/22BWBU9Pwgz3M7fP1mahfk) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [un rato](https://open.spotify.com/album/0LigoTHlglv2GPl0nb2O0F) | 2:48 | 2022-03-25 | 2022-07-29 |
 | [un sueño raro](https://open.spotify.com/track/2ASygHwRhyPWzh6pdiuWYR) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Fosis Met Amor](https://open.spotify.com/album/4lhk0djVeQeioDawW8NkO3) | 3:12 | 2022-04-22 | 2023-04-01 |
 | [Una Más](https://open.spotify.com/track/3gNu60FxbcyyGiVKcUJxNf) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Una Más](https://open.spotify.com/album/7pf7WgkPT215mX6U66Z4dI) | 2:54 | 2022-03-25 | 2022-04-23 |
-| [Una noche que nunca termina](https://open.spotify.com/track/5FsobFWmtzBqmUw9qNkVhE) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Una noche que nunca termina](https://open.spotify.com/album/0xcepcn70088Fgal5hLnsi) | 3:01 | 2022-10-31 |  |
+| [Una noche que nunca termina](https://open.spotify.com/track/5FsobFWmtzBqmUw9qNkVhE) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Una noche que nunca termina](https://open.spotify.com/album/0xcepcn70088Fgal5hLnsi) | 3:01 | 2022-10-31 | 2023-04-29 |
 | [Una Sola Vez](https://open.spotify.com/track/6ppst2BmCySRxbPRIVSrfX) | [Marrón](https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5) | [Una Sola Vez](https://open.spotify.com/album/4WsPV4Bh44VtunOPOeYbmT) | 4:16 | 2022-04-08 | 2022-12-03 |
 | [Unstoppable](https://open.spotify.com/track/47pbvBtWtt7aMHENsw8ehQ) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [Polaroid Paradise](https://open.spotify.com/album/10NBQIh2ZteCveetOTwx01) | 2:00 | 2022-07-25 |  |
 | [VCR](https://open.spotify.com/track/0NUjrv78ONAHIfL4GKkxE5) | [Atomic Rose](https://open.spotify.com/artist/5FA4L7WoQmYt2OzskRBaoI) | [VCR](https://open.spotify.com/album/0EXmhh4KMPZ47A9nS6iIyb) | 3:35 | 2022-09-23 | 2023-01-21 |

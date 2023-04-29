@@ -4,7 +4,7 @@
 
 > Here comes the Maestro with his best of 90s!
 
-147 songs - 12 hr 26 min
+148 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Chinna Chinna](https://open.spotify.com/track/2DOwmdf2cCT8ym34lYa9tv) | [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Rajakumaran](https://open.spotify.com/album/0Et48YJbvpMdhdJnNmKYds) | 5:08 | 2022-03-29 | 2022-07-29 |
 | [Chinna Chinna](https://open.spotify.com/track/0PgRoIy5Q7U40qAMUSLfhh) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Anuradha Sriram](https://open.spotify.com/artist/5ObQXIcqKtQENK14lQyqiy) | [Senthamizh Paattu](https://open.spotify.com/album/7n1Wq0ZOjwRVWcjhrYmPOI) | 5:06 | 2021-11-13 | 2022-07-29 |
 | [Chinna Chinna Sol Eduthu](https://open.spotify.com/track/3HDnb53ze91yOZwHDMF84x) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Rajakumaran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QkKLIAkixHAq9fz2WV4SB) | 5:08 | 2022-03-29 | 2023-04-18 |
-| [Chinna Chinna Thooral](https://open.spotify.com/track/5XtIBJkXRyM4c59FXNFL58) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Anuradha Sriram](https://open.spotify.com/artist/5ObQXIcqKtQENK14lQyqiy) | [Senthamizh Paattu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6BIUjiHiLfXqzkLroyZncU) | 5:06 | 2021-11-13 |  |
+| [Chinna Chinna Thooral](https://open.spotify.com/track/5XtIBJkXRyM4c59FXNFL58) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Anuradha Sriram](https://open.spotify.com/artist/5ObQXIcqKtQENK14lQyqiy) | [Senthamizh Paattu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6BIUjiHiLfXqzkLroyZncU) | 5:06 | 2021-11-13 | 2023-04-29 |
+| [Chinna Chinna Thooral](https://open.spotify.com/track/5gp8jL2dsIKWmaTNWxNTO8) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Anuradha Sriram](https://open.spotify.com/artist/5ObQXIcqKtQENK14lQyqiy) | [Senthamizh Paattu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4JmwVLmJafPHsRoXXvwgR0) | 5:06 | 2021-11-13 |  |
 | [Chinna rasavae](https://open.spotify.com/track/6SME3clf0I0FBBsPesF8Ug) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [Wings, Vol\. 1](https://open.spotify.com/album/7dffP7xDwvd3JeJB49ItV6) | 5:04 | 2021-11-13 |  |
 | [Chinna Rasavae](https://open.spotify.com/track/09u9X6Drsv8OFxih15wIxn) | [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Walter Vetrivel](https://open.spotify.com/album/7qOu7DAM1l3UvU7BvvSQtx) | 4:54 | 2021-11-13 | 2022-07-29 |
 | [Deepangal Pesum](https://open.spotify.com/track/4GieeqxAyuXrzLM8ugxyBF) | [Sandhya](https://open.spotify.com/artist/5pBJLl0z3HoPLzPI95P6PN), [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja) | [Devadai](https://open.spotify.com/album/0BSb0V9tdDtEMjVFHDSTKn) | 5:01 | 2021-11-13 |  |

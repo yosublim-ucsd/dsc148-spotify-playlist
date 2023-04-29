@@ -1,12 +1,12 @@
 {
   "description": "Lush, shimmery guitars. Cover: Ichika Nito",
-  "num_followers": 19284,
+  "num_followers": 19304,
   "original_name": "Shimmer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjZiMTRhYjg2ZjcwODlhMjMzYjhmMDlmOTkxYzczYWZiNTMyZmUx",
+  "snapshot_id": "MCwzMTQ1YzI0NTVjYmEyY2FkODg0MTljYjQxMmFhNjNhODNlYWIxYThh",
   "tracks": [
     {
       "added_at": "2023-03-28 15:11:07",
@@ -47,6 +47,26 @@
       "duration_ms": 249795,
       "name": "kaikou",
       "url": "https://open.spotify.com/track/1AesTrOgTs32vdG8qTnKMq"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Oak",
+        "url": "https://open.spotify.com/album/45A5YR3EFMvAMKiKOOczeE"
+      },
+      "artists": [
+        {
+          "name": "Christian St\u00e4hler",
+          "url": "https://open.spotify.com/artist/7gY7C1j40HhLvboFh7NmeY"
+        },
+        {
+          "name": "Nicklas Myhre",
+          "url": "https://open.spotify.com/artist/4KEJTlpur1CxdHjmRQb71m"
+        }
+      ],
+      "duration_ms": 226052,
+      "name": "Oak",
+      "url": "https://open.spotify.com/track/0VrWUtgY7j4ggyTz3XXSav"
     },
     {
       "added_at": "2022-07-15 04:02:00",

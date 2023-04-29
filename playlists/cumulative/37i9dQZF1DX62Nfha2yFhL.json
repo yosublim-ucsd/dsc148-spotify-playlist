@@ -1261,6 +1261,24 @@
     },
     {
       "album": {
+        "name": "Through and Through",
+        "url": "https://open.spotify.com/album/5K2v8D4FP0jc3tpIIuJwOt"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181706,
+      "name": "Love Bomb",
+      "url": "https://open.spotify.com/track/0WOlNsXvaVJsD2X5dE65HJ"
+    },
+    {
+      "album": {
         "name": "Love Me Like (feat. DUCKWRTH)",
         "url": "https://open.spotify.com/album/2RZUiUCPzbh4hb0IJ9Bh7I"
       },
@@ -1606,6 +1624,28 @@
       "duration_ms": 184647,
       "name": "No Bus",
       "url": "https://open.spotify.com/track/0a8iHqEqV1FAcRGyDTKFym"
+    },
+    {
+      "album": {
+        "name": "No More Lies",
+        "url": "https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327217,
+      "name": "No More Lies",
+      "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
     },
     {
       "album": {
@@ -2380,6 +2420,24 @@
       "duration_ms": 253000,
       "name": "Western World",
       "url": "https://open.spotify.com/track/6SKQvtF2QMELjqpnAyrH6O"
+    },
+    {
+      "album": {
+        "name": "Whenever",
+        "url": "https://open.spotify.com/album/06plvRyV1UnY0OdxJwk4IG"
+      },
+      "artists": [
+        {
+          "name": "Gareth Donkin",
+          "url": "https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205090,
+      "name": "Whenever",
+      "url": "https://open.spotify.com/track/2bD6V29O7EiIA7CKca72as"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX62Nfha2yFhL"

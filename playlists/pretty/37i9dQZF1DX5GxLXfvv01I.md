@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GxLXfvv01I.md) - [plain]
 
 > Music from and inspired by Wendell & Wild, curated by Tunde Adebimpe of TV on the Radio\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,075 likes - 45 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,082 likes - 45 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GxLXfvv01I.md) - [plain]
 | 9 | [I've Seen Footage](https://open.spotify.com/track/7nCONy10IHp7XD3oYZ0lcx) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Money Store](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a) | 3:22 |
 | 10 | [Coming Correct Is Cheaper](https://open.spotify.com/track/5OAhpmAMMm0tv93CF5E8TZ) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Diaspora Problems](https://open.spotify.com/album/2ZYhM0LXHZ38te98EizcQW) | 3:04 |
 | 11 | [...And Loyalty Is A Nuisance Child](https://open.spotify.com/track/30Ch4yWdgbTcYziAvFt9TK) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [The Asymptotical World EP](https://open.spotify.com/album/6eWOqykBzznyzi3NrMWy7y) | 2:13 |
-| 12 | [Denial](https://open.spotify.com/track/1jkXblR8Hx9WxvYo9LNPw2) | [Divide And Dissolve](https://open.spotify.com/artist/4YmPo9Zke9OYNmV5WW7CMS) | [Gas Lit](https://open.spotify.com/album/54UM3b274EskTmhCHQdFzY) | 7:37 |
+| 12 | [Denial](https://open.spotify.com/track/0XfZd6yKJHKdWhT2P9Oi0q) | [Divide And Dissolve](https://open.spotify.com/artist/4YmPo9Zke9OYNmV5WW7CMS) | [Gas Lit](https://open.spotify.com/album/5sDmr73j6wJxde6nAAMpsk) | 7:37 |
 | 13 | [Cranes In The Sky](https://open.spotify.com/track/7cBzwYUbsPYQjpdTruTdMW) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Cranes In The Sky](https://open.spotify.com/album/1ORpSxBLxcFtDKO3M1cetG) | 5:45 |
 | 14 | [Poseur](https://open.spotify.com/track/13GMvznHq9OotzYUmghSbS) | [The Younger Lovers](https://open.spotify.com/artist/0lBYvSxDBZ4Zmjp0DibXsS) | [Young Brothers](https://open.spotify.com/album/015uMGrg5Hnh8uetMrqPeA) | 2:14 |
 | 15 | [Racist, Sexist Boy](https://open.spotify.com/track/6CSLL3sOgYIMSRj69mkGSI) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet) | 1:49 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GxLXfvv01I.md) - [plain]
 | 44 | [Soul In A Jar](https://open.spotify.com/track/54Biz1kZa4d9fXZdgdaHqN) | [The Veldt](https://open.spotify.com/artist/7hcJOolMkn9jRAAhaVSFnu) | [Afrodisiac](https://open.spotify.com/album/5ByAKbC8SjGW2HF1q4V4ZD) | 4:48 |
 | 45 | [Goodbye Horses](https://open.spotify.com/track/7I5eQZFdlPV8LZWH2FeqaW) | [Q Lazzarus](https://open.spotify.com/artist/2EOrSEDPcZ9feKWSi8Fpdi) | [Goodbye Horses \- Single](https://open.spotify.com/album/1Fx6PDY57t5lCqXMvIEdfN) | 3:07 |
 
-Snapshot ID: `MCw4YjljMmJjYzY4ZGQwODBmYWQ3YTZlNzNmNDc5ODU5ZDVmMTlkNmY0`
+Snapshot ID: `MCwxNzcwMWUxNDQ2NzhjY2ZkYTFjNGViMzgwYzFjNGIwOTAzMjU0NDI4`

@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Superviolet \| Visual Artist: Bailey Elder
 
-585 songs - 1 day 11 hr 10 min
+588 songs - 1 day 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,8 @@
 | [Elephants](https://open.spotify.com/track/5ClGaqk09QIrG29vVcU5FN) | [Brooke Garwood](https://open.spotify.com/artist/35RoqIMBXm2rYaD3UOzyW6) | [Elephants](https://open.spotify.com/album/0i5Z61Pgi2AoYTTYWTvtKF) | 4:04 | 2022-09-14 | 2022-12-01 |
 | [Ella](https://open.spotify.com/track/2gaW5ipLhRzLkDJB9ATZNY) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Ella](https://open.spotify.com/album/07emV4JgFOz8ld0BgVakV1) | 3:07 | 2023-01-11 | 2023-03-09 |
 | [Eloise](https://open.spotify.com/track/5iJ0BQYiFqmLaSUEZi1da1) | [HAPPY LANDING](https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6) | [Eloise](https://open.spotify.com/album/3nGr1XT7lFIZfrV2hzkkYk) | 3:54 | 2022-09-07 | 2023-01-12 |
-| [Elsewhere](https://open.spotify.com/track/4COm8ZWRV6EgPqQLNglZaS) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Elsewhere](https://open.spotify.com/album/66qlDjIdK3xlEWCD8LxNfE) | 5:28 | 2023-04-20 |  |
+| [Elsewhere](https://open.spotify.com/track/08H9q3gCKeyj5VTU77I6s5) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Elsewhere](https://open.spotify.com/album/4K1vuIiWDUTu8tr9BCwyH9) | 5:28 | 2023-04-20 |  |
+| [Elsewhere](https://open.spotify.com/track/4COm8ZWRV6EgPqQLNglZaS) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Elsewhere](https://open.spotify.com/album/66qlDjIdK3xlEWCD8LxNfE) | 5:28 | 2023-04-20 | 2023-04-29 |
 | [Empty Hands](https://open.spotify.com/track/2GBIKypnjEstvrRsXaSeOV) | [Shirley Hurt](https://open.spotify.com/artist/0yVyy0jaHPJex2snbCJj0B) | [Shirley Hurt](https://open.spotify.com/album/2zwbcI5dCRCBUO3pjIs2E9) | 4:21 | 2023-01-11 | 2023-02-16 |
 | [End](https://open.spotify.com/track/7bx0K0DXHmQ5pLtXxtP1Jy) | [Lean Year](https://open.spotify.com/artist/5DNcrT0ZrO00AsUqLrUjmR) | [End](https://open.spotify.com/album/2gVBQDFmb1imLhIklGFtQ4) | 3:30 | 2022-08-03 | 2022-10-27 |
 | [Even in the Dark](https://open.spotify.com/track/3ir6zIQ2sulM6wUqTFU6S7) | [Cape Francis](https://open.spotify.com/artist/6tnCYugShRsCcfHNGIUSq3) | [Don't Let Your Heart Walk Away](https://open.spotify.com/album/4J5Rd46FQt4bZBeburzxtP) | 2:45 | 2022-11-30 | 2023-01-12 |
@@ -286,7 +287,8 @@
 | [I'm On Your Team](https://open.spotify.com/track/6CdtjsAgvjmt2vcnWmmUht) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Light Moving Time](https://open.spotify.com/album/7cxAj3AFBFrEGxXyPvn9ER) | 4:18 | 2022-11-30 | 2023-01-12 |
 | [Ice Cream Man](https://open.spotify.com/track/49UWYukd57z7wmPJcGfMER) | [Darling Farm](https://open.spotify.com/artist/51KpzsOhEgF10B7cBROtVC) | [No, Yeah](https://open.spotify.com/album/5VFILulLTqwhiH0CTxFK9p) | 3:25 | 2022-05-25 | 2022-09-09 |
 | [idiot](https://open.spotify.com/track/575GRrlbJiTEAaV8cUhKtB) | [Annamarie Rosanio](https://open.spotify.com/artist/7LtYuMQ3wFY4fGX8Rvq6gD) | [idiot](https://open.spotify.com/album/65UVEBmL5yd1TF4tK7acwL) | 3:08 | 2023-03-01 | 2023-04-13 |
-| [If I Wanted To](https://open.spotify.com/track/0ebpnu4g14P1jiZxTIhCa3) | [Doug Paisley](https://open.spotify.com/artist/2WH0j5DM0bzoj1KRKpJFh9) | [Say What You Like](https://open.spotify.com/album/3xBBmE8fVQLEzau1mRfn2J) | 2:53 | 2023-03-22 |  |
+| [If I Wanted To](https://open.spotify.com/track/0ebpnu4g14P1jiZxTIhCa3) | [Doug Paisley](https://open.spotify.com/artist/2WH0j5DM0bzoj1KRKpJFh9) | [Say What You Like](https://open.spotify.com/album/3xBBmE8fVQLEzau1mRfn2J) | 2:53 | 2023-03-22 | 2023-04-29 |
+| [If I Wanted To](https://open.spotify.com/track/4wqZS9kXewme6hESpPTh7c) | [Doug Paisley](https://open.spotify.com/artist/2WH0j5DM0bzoj1KRKpJFh9) | [Say What You Like](https://open.spotify.com/album/3xcDRGzx04UwxucGTAb8Jf) | 2:53 | 2023-04-12 |  |
 | [If That Ocean's Still Blue](https://open.spotify.com/track/6KzFvsUBJTyuOsnxzwwjzj) | [Ellie Turner](https://open.spotify.com/artist/1bPQDG6agXz5IWtuUCeJeg) | [When The Trouble's All Done](https://open.spotify.com/album/29hwr6aTkvh1Oq2cXRI2aa) | 4:14 | 2023-04-05 |  |
 | [If You Were a Bird](https://open.spotify.com/track/3CpKbo3f0taPTHxSaYx6iQ) | [Jenny Mitchell](https://open.spotify.com/artist/4nuqPXV9cR0OGDbYw0Zwj9) | [Tug of War](https://open.spotify.com/album/3pAtFj7qKN9EqQJPDA70VW) | 3:46 | 2022-10-26 | 2022-12-01 |
 | [in my car](https://open.spotify.com/track/5OC5iFVDl3pRfThoTbs817) | [ella ruby](https://open.spotify.com/artist/2LqBqyJQJJgt2bvjdSyY04) | [baby blue](https://open.spotify.com/album/1TeqZ0X8hqCQNELMmVivks) | 3:30 | 2022-10-19 | 2022-12-01 |
@@ -325,7 +327,8 @@
 | [Let It Lie](https://open.spotify.com/track/7sEnkcuwa1FNMjGxqeL7Pj) | [Mountain Boy](https://open.spotify.com/artist/3qEnPaVdXvWJz4JZfRdqw7) | [Let It Lie](https://open.spotify.com/album/0mcmBaLmhhNA0SgF5NM8AN) | 3:42 | 2023-03-22 |  |
 | [Let This Lie](https://open.spotify.com/track/09lH4PzXtmk4NoefbOkf6d) | [Jules Olson](https://open.spotify.com/artist/7MSHbuGM1HwwXpys6YpuA0) | [Let This Lie](https://open.spotify.com/album/2KBsS0EguoHhTLgLWQDlEy) | 2:59 | 2023-03-01 | 2023-03-30 |
 | [Let's Turn This Back Around](https://open.spotify.com/track/7gQqOrVXYejRdF0IrM3Cu2) | [Far From Saints](https://open.spotify.com/artist/4EEgkAsMjvBxu9iSHS3j7r) | [Let's Turn This Back Around](https://open.spotify.com/album/41Ejbhmbu32mDst4ESoybM) | 5:28 | 2023-01-25 | 2023-03-16 |
-| [Letters](https://open.spotify.com/track/3KQcNnIIXCN4V8uvDs1dd5) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Mind Palace Music](https://open.spotify.com/album/0woHX3PSXbPo52iqriVSFa) | 2:26 | 2023-04-26 |  |
+| [Letters](https://open.spotify.com/track/0B6xHxWg4g7C9174Cx1d0m) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Mind Palace Music](https://open.spotify.com/album/7h3MMJMKzY03w8VVYgrYWr) | 2:26 | 2023-04-26 |  |
+| [Letters](https://open.spotify.com/track/3KQcNnIIXCN4V8uvDs1dd5) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Mind Palace Music](https://open.spotify.com/album/0woHX3PSXbPo52iqriVSFa) | 2:26 | 2023-04-26 | 2023-04-29 |
 | [Life's Got A While](https://open.spotify.com/track/3Ljz2ydMrzGczBPNLKkGuQ) | [yeemz](https://open.spotify.com/artist/3esOPpGsiTP1Rc5lS1Jr6a) | [Life's Got A While](https://open.spotify.com/album/3e7QS762GLrr3qFRIuJp1b) | 3:34 | 2023-01-18 | 2023-03-09 |
 | [Like Me](https://open.spotify.com/track/2vFFhmfdiIRAgp1ZHWsBT2) | [Indy June](https://open.spotify.com/artist/6epWHsU0vZydmL6ko32bkT) | [Like Me](https://open.spotify.com/album/2iMeG6pm1Wh9axgVyLZj38) | 2:47 | 2023-03-15 | 2023-04-27 |
 | [Like the Fruit Falls from the Tree](https://open.spotify.com/track/7e6EM4XDJ1Av4i0ryu46HO) | [Omar Velasco](https://open.spotify.com/artist/7hyKm6cdFkaqtPCN3afkTJ) | [Like the Fruit Falls from the Tree](https://open.spotify.com/album/54olLMg03emJqB4FACmNfW) | 3:11 | 2023-03-01 | 2023-04-13 |

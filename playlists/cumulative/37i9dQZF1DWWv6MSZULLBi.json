@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Feist",
+  "description": "A laid-back trip in the folk scene. Cover: Elisapie",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "18",
+        "url": "https://open.spotify.com/album/0rfFKuEbn9Ez9qPGJQfFzf"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171157,
+      "name": "18",
+      "url": "https://open.spotify.com/track/0xMDAZkHccTgIi87Tdd1An"
+    },
+    {
+      "album": {
         "name": "1994",
         "url": "https://open.spotify.com/album/4gnavG8BfBoQsfQTsp9TS5"
       },
@@ -56,6 +74,24 @@
       "duration_ms": 169195,
       "name": "1994",
       "url": "https://open.spotify.com/track/1TtU43aOawXo1HSMtASG1x"
+    },
+    {
+      "album": {
+        "name": "4Runner",
+        "url": "https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265453,
+      "name": "4Runner",
+      "url": "https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5"
     },
     {
       "album": {
@@ -474,7 +510,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 270387,
       "name": "Are We Good",
       "url": "https://open.spotify.com/track/2rjopNdeDSuLAEqoLKPmOK"
@@ -568,6 +604,24 @@
       "duration_ms": 201567,
       "name": "Beautiful Life",
       "url": "https://open.spotify.com/track/1duM1mVSV3lJzK5ZMnRgA3"
+    },
+    {
+      "album": {
+        "name": "Beautiful View",
+        "url": "https://open.spotify.com/album/3dVN0luiXkpytUScfzB1q8"
+      },
+      "artists": [
+        {
+          "name": "Hannah Georgas",
+          "url": "https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207371,
+      "name": "Beautiful View",
+      "url": "https://open.spotify.com/track/0gdMIAslro1oqM25deOsBP"
     },
     {
       "album": {
@@ -734,7 +788,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 179686,
       "name": "Blissful Lands",
       "url": "https://open.spotify.com/track/2RjmK199jrWZFYn6Z8tLbP"
@@ -1094,7 +1148,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 244946,
       "name": "Circles",
       "url": "https://open.spotify.com/track/6XiJbAvbBrJtO5GBEOhiiy"
@@ -1412,7 +1466,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 194543,
       "name": "Days Go By",
       "url": "https://open.spotify.com/track/1DeYyjLYn23Mf2TB430UAN"
@@ -1572,6 +1626,24 @@
       "duration_ms": 253588,
       "name": "Don't Feel Like Crying",
       "url": "https://open.spotify.com/track/7rbLQE71YypSgiewESHiiw"
+    },
+    {
+      "album": {
+        "name": "Don't Listen to Me",
+        "url": "https://open.spotify.com/album/06dXUUq97AhxSoKp5x5rgt"
+      },
+      "artists": [
+        {
+          "name": "Martin Kerr",
+          "url": "https://open.spotify.com/artist/3Qg69CFtPUh3Uu14OfjV2t"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231113,
+      "name": "Don\u2019t Listen to Me",
+      "url": "https://open.spotify.com/track/3p4o3npb3XvHNtdNNfXdYO"
     },
     {
       "album": {
@@ -2534,7 +2606,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 199179,
       "name": "Full Circle",
       "url": "https://open.spotify.com/track/1agBQVBW2meTYQjmLdCxbB"
@@ -3286,7 +3358,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 143162,
       "name": "In Two",
       "url": "https://open.spotify.com/track/44vJetDdcFOhZhgpk69P41"
@@ -3908,7 +3980,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 153446,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/0eIrSjlA3j1rCNcFNh6Ipl"
@@ -4024,6 +4096,24 @@
       "duration_ms": 130399,
       "name": "Little Bull Of Blithe",
       "url": "https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI"
+    },
+    {
+      "album": {
+        "name": "Lonely As I Can Be",
+        "url": "https://open.spotify.com/album/2H0OI1clmTySCT3RlMBD4V"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Jean",
+          "url": "https://open.spotify.com/artist/3UgVXsc0DrK1yOouslYqKP"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191160,
+      "name": "Lonely As I Can Be",
+      "url": "https://open.spotify.com/track/6WJH5ayBk3kkpRreBcAJT3"
     },
     {
       "album": {
@@ -5657,6 +5747,24 @@
     },
     {
       "album": {
+        "name": "See You Again",
+        "url": "https://open.spotify.com/album/01OTkn838VnG8BIBtzym03"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ra M\u00e9nard",
+          "url": "https://open.spotify.com/artist/5H5gfDCrcb5XzSrhQhzTiO"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216118,
+      "name": "See You Again",
+      "url": "https://open.spotify.com/track/0DhhIQC1QXMbV5EfUwm04g"
+    },
+    {
+      "album": {
         "name": "Seeds",
         "url": "https://open.spotify.com/album/2UWDJDoJRSgCyYpH333UlV"
       },
@@ -5704,7 +5812,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 250106,
       "name": "Sick",
       "url": "https://open.spotify.com/track/3Q892H3lMgoxbrlovHmTsV"
@@ -5856,6 +5964,24 @@
       "duration_ms": 290454,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/2FLk5bJKrv6t2CY8XqjNVs"
+    },
+    {
+      "album": {
+        "name": "Proof Of Life",
+        "url": "https://open.spotify.com/album/0F9RwW1ScEh2gNEADX67BO"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236291,
+      "name": "Somebody Like Me",
+      "url": "https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq"
     },
     {
       "album": {
@@ -6304,7 +6430,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 216167,
       "name": "Taking Things For Granted",
       "url": "https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O"
@@ -6380,6 +6506,28 @@
       "duration_ms": 192706,
       "name": "Tell Me That You Love Me",
       "url": "https://open.spotify.com/track/1a4Tqbgd02QzaWQiK67iWT"
+    },
+    {
+      "album": {
+        "name": "First Two Pages of Frankenstein",
+        "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267773,
+      "name": "The Alcott (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
     },
     {
       "album": {
@@ -6820,6 +6968,24 @@
       "duration_ms": 147000,
       "name": "Touch of Your Lips",
       "url": "https://open.spotify.com/track/2ho9amrBZbxod4VAKW76TN"
+    },
+    {
+      "album": {
+        "name": "Touch the Void",
+        "url": "https://open.spotify.com/album/092JOL9Fk1RgbqaqAaYMSb"
+      },
+      "artists": [
+        {
+          "name": "Joe Grass",
+          "url": "https://open.spotify.com/artist/6WSA0zU18B65jo2QDo58Uv"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237562,
+      "name": "Touch the Void",
+      "url": "https://open.spotify.com/track/5PXpRaVbb7WsUrAzkdgWct"
     },
     {
       "album": {
@@ -7564,6 +7730,24 @@
       "duration_ms": 279447,
       "name": "When The Storm Has Passed",
       "url": "https://open.spotify.com/track/6MQwPbHoKiyfyX1kF32Hch"
+    },
+    {
+      "album": {
+        "name": "When You Lose Her",
+        "url": "https://open.spotify.com/album/4zJJ6j6z9K6FZhb5ssoZQl"
+      },
+      "artists": [
+        {
+          "name": "Hayley Gene Penner",
+          "url": "https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236173,
+      "name": "When You Lose Her",
+      "url": "https://open.spotify.com/track/2RX2B72whvpTmrMjKadHoQ"
     },
     {
       "album": {

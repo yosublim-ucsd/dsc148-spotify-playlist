@@ -4,7 +4,7 @@
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
 
-102 songs - 6 hr 51 min
+103 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Diamonds & Gold](https://open.spotify.com/track/0PnyMytBrk2X9T5pYmati9) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Diamonds & Gold](https://open.spotify.com/album/2TuAEPead6OEKi2AVXvBCl) | 5:17 | 2020-08-21 | 2022-07-29 |
 | [Diamonds & Gold](https://open.spotify.com/track/6ih0RIVI5ZVOOGpYBzV9rd) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Lay It On Down](https://open.spotify.com/album/4D8k0XAtsNjWmRWqjxaYIR) | 5:17 | 2020-08-21 |  |
 | [Don't Be a Fool](https://open.spotify.com/track/4TSxZeL4YBsSL82n21TajD) | [Simon McBride](https://open.spotify.com/artist/4S2kddUZy77NYpLH50f3qC) | [Crossing the Line](https://open.spotify.com/album/1Q1YmewIFPauUvhtlfNPyi) | 3:47 | 2020-08-21 |  |
-| [Fading Away](https://open.spotify.com/track/7FpFxqvwMMR4j1Yi1vndpK) | [Artur Menezes](https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo) | [Fading Away](https://open.spotify.com/album/4rbAfXhaS3CKaDGSfaK9Jb) | 3:44 | 2020-10-31 |  |
+| [Fading Away](https://open.spotify.com/track/4sbG7dJjiG7WjnVdFhyptA) | [Artur Menezes](https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo) | [Fading Away](https://open.spotify.com/album/0Y2F59RRop0f41p7rTFwQS) | 3:44 | 2020-10-31 |  |
+| [Fading Away](https://open.spotify.com/track/7FpFxqvwMMR4j1Yi1vndpK) | [Artur Menezes](https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo) | [Fading Away](https://open.spotify.com/album/4rbAfXhaS3CKaDGSfaK9Jb) | 3:44 | 2020-10-31 | 2023-04-29 |
 | [Few And Far Between](https://open.spotify.com/track/0yThOHWoOPPUFSW4oA6yT1) | [Shannon Curfman](https://open.spotify.com/artist/2sn2g4lNGlsAoJm15MOM7x) | [Loud Guitars, Big Suspicions](https://open.spotify.com/album/31YVnDFP920mK7VVqU3Fyp) | 3:54 | 2020-08-21 |  |
 | [Find a Way](https://open.spotify.com/track/4PTfrK6IhnTOd7SRpH17EK) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB) | 3:56 | 2020-08-21 |  |
 | [Freedom](https://open.spotify.com/track/3VpiTc2hSR4X5VUYQ5Td4Y) | [The Gulls](https://open.spotify.com/artist/2n0FlGHc3OxI0x2WI39BEc) | [Freedom](https://open.spotify.com/album/7sv8d8tHuZTRzEmEOQFeoj) | 3:00 | 2022-11-25 |  |

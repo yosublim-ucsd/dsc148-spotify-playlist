@@ -4,7 +4,7 @@
 
 > May the Force be with you\. Listen to all the best Star Wars tracks, all in one place.
 
-132 songs - 7 hr 1 min
+133 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Enter the Bad Batch \- From "Star Wars: The Bad Batch"/Score](https://open.spotify.com/track/7B7ntJ0B84LVY1CljRSB0o) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW) | [Enter the Bad Batch \(From "Star Wars: The Bad Batch"\)](https://open.spotify.com/album/3LWyxWlbxnBdru77X1GrEQ) | 1:40 | 2021-05-14 |  |
 | [Ewok Celebration and Finale](https://open.spotify.com/track/4f6pN7FdZ0RZiNGAAEyAux) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: Return of the Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gt4PAxdMmq5DUV7tyuNxx) | 8:01 | 2021-05-14 |  |
 | [Fennec and Boba](https://open.spotify.com/track/2EgQoaZnFe59ST1PdgJbNH) | [Joseph Shirley](https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Book of Boba Fett: Vol\. 1 \(Chapters 1\-4\) \[Original Soundtrack\]](https://open.spotify.com/album/36qgdmFn1KjBOSG55PB1Ju) | 2:08 | 2022-01-21 |  |
+| [Fields of Dusk \- Orchestral Version](https://open.spotify.com/track/4zDOsDzhepxaCHzDiMVBEJ) | [Tamuz Dekel](https://open.spotify.com/artist/2qro5TGvNZmeUEB1Rce5H1), [Offir Benjaminov](https://open.spotify.com/artist/0Rj7Rx1KUdSAVeh2xth2mV), [Dan Mayo](https://open.spotify.com/artist/0eVbdzTTWTCvJkwrER5veb) | [Star Wars Jedi: Survivor \(Original Video Game Soundtrack\)](https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741) | 4:41 | 2023-04-28 |  |
 | [Final Showdown](https://open.spotify.com/track/4Ncz6bE3nq4YNGNJp3A7cB) | [Joseph Shirley](https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Book of Boba Fett: Vol\. 2 \(Chapters 5\-7\) \[Original Soundtrack\]](https://open.spotify.com/album/1qC4chTx1ZdqWZHJHS48yC) | 4:13 | 2022-02-11 |  |
 | [Finale](https://open.spotify.com/track/1lL5wgXpI3Wwn6Am13dQIj) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Rise of Skywalker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/26pelVOow8ODvBktJbDiua) | 10:51 | 2021-05-14 |  |
 | [Finale](https://open.spotify.com/track/27xA5HEUnWPBDo0z4hcDq1) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Empire Strikes Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a) | 6:23 | 2021-05-14 |  |

@@ -821,6 +821,32 @@
     },
     {
       "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Tamuz Dekel",
+          "url": "https://open.spotify.com/artist/2qro5TGvNZmeUEB1Rce5H1"
+        },
+        {
+          "name": "Offir Benjaminov",
+          "url": "https://open.spotify.com/artist/0Rj7Rx1KUdSAVeh2xth2mV"
+        },
+        {
+          "name": "Dan Mayo",
+          "url": "https://open.spotify.com/artist/0eVbdzTTWTCvJkwrER5veb"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281333,
+      "name": "Fields of Dusk - Orchestral Version",
+      "url": "https://open.spotify.com/track/4zDOsDzhepxaCHzDiMVBEJ"
+    },
+    {
+      "album": {
         "name": "The Book of Boba Fett: Vol. 2 (Chapters 5-7) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/1qC4chTx1ZdqWZHJHS48yC"
       },

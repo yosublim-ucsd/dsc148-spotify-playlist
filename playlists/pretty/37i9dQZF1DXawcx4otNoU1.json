@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 481848,
+  "num_followers": 482058,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjM1OGFjZmZlMTRiYTY3ZGEyY2YzYzU3NmVjODdjOWY0NTM5ZGJm",
+  "snapshot_id": "MCw0OTg2Njg0MzIwODYxMTJlODA2MDQ2MmNkOTAwZjMyMWYzYzcwNDZi",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 208211,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Confessions (Expanded Edition)",
         "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 223440,
       "name": "My Boo",
       "url": "https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -993,6 +993,22 @@
       "url": "https://open.spotify.com/track/2JqnpexlO9dmvjUMCaLCLJ"
     },
     {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Comfortable",
+        "url": "https://open.spotify.com/album/04w2ildzatiXBlYq4AwIOm"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 255065,
+      "name": "Comfortable",
+      "url": "https://open.spotify.com/track/3f3cliOygeuUpGRwdohy12"
+    },
+    {
       "added_at": "2023-04-14 07:38:09",
       "album": {
         "name": "3000\u00b0",
@@ -1011,22 +1027,6 @@
       "duration_ms": 202755,
       "name": "I'm Baby (ft. Jvck James)",
       "url": "https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Comfortable",
-        "url": "https://open.spotify.com/album/04w2ildzatiXBlYq4AwIOm"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 255065,
-      "name": "Comfortable",
-      "url": "https://open.spotify.com/track/3f3cliOygeuUpGRwdohy12"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Max Jury",
-        "url": "https://open.spotify.com/album/3sGSTThYpx4Udjl0IeuJhZ"
-      },
-      "artists": [
-        {
-          "name": "Max Jury",
-          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
-        }
-      ],
-      "duration_ms": 235936,
-      "name": "Great American Novel",
-      "url": "https://open.spotify.com/track/1x8huXwyN6cqXVBcUt5fQR"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Only Ticket Home",
         "url": "https://open.spotify.com/album/6JpQ684RhKhJJK9ZDIDT88"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 247842,
       "name": "Always",
       "url": "https://open.spotify.com/track/1omCB9Mch8tYugUptnJ0vw"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Max Jury",
+        "url": "https://open.spotify.com/album/3sGSTThYpx4Udjl0IeuJhZ"
+      },
+      "artists": [
+        {
+          "name": "Max Jury",
+          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
+        }
+      ],
+      "duration_ms": 235936,
+      "name": "Great American Novel",
+      "url": "https://open.spotify.com/track/1x8huXwyN6cqXVBcUt5fQR"
     },
     {
       "added_at": "2023-04-21 11:56:43",
@@ -2363,6 +2363,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Eyes on You",
+        "url": "https://open.spotify.com/album/1EyIaOsVGxxr2LKxlxCH9Q"
+      },
+      "artists": [
+        {
+          "name": "Millie Turner",
+          "url": "https://open.spotify.com/artist/53GC8IrnkJXGO7znOiv4tD"
+        }
+      ],
+      "duration_ms": 168080,
+      "name": "Eyes on You",
+      "url": "https://open.spotify.com/track/5ewnuTcT10UI7zOx3OWRmQ"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Put D'Angelo On",
         "url": "https://open.spotify.com/album/1bzYIO6OIHcokJvgbAZj4s"
       },
@@ -2381,20 +2397,20 @@
       "url": "https://open.spotify.com/track/1QJp8dIzUSg9c1pXLmqGNB"
     },
     {
-      "added_at": "2023-02-10 11:00:00",
+      "added_at": "2023-04-21 12:01:04",
       "album": {
-        "name": "Eyes on You",
-        "url": "https://open.spotify.com/album/1EyIaOsVGxxr2LKxlxCH9Q"
+        "name": "Teach",
+        "url": "https://open.spotify.com/album/7cWMXbPvvIVZwy72OuMYjY"
       },
       "artists": [
         {
-          "name": "Millie Turner",
-          "url": "https://open.spotify.com/artist/53GC8IrnkJXGO7znOiv4tD"
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
         }
       ],
-      "duration_ms": 168080,
-      "name": "Eyes on You",
-      "url": "https://open.spotify.com/track/5ewnuTcT10UI7zOx3OWRmQ"
+      "duration_ms": 175774,
+      "name": "Teach",
+      "url": "https://open.spotify.com/track/4YcEc3ZlbW3W2OqbPmjF4V"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2411,22 +2427,6 @@
       "duration_ms": 197706,
       "name": "World Without You",
       "url": "https://open.spotify.com/track/3Lwl2ZFocL6hNMgfSuLrQ0"
-    },
-    {
-      "added_at": "2023-04-21 12:01:04",
-      "album": {
-        "name": "Teach",
-        "url": "https://open.spotify.com/album/7cWMXbPvvIVZwy72OuMYjY"
-      },
-      "artists": [
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        }
-      ],
-      "duration_ms": 175774,
-      "name": "Teach",
-      "url": "https://open.spotify.com/track/4YcEc3ZlbW3W2OqbPmjF4V"
     },
     {
       "added_at": "2023-02-10 11:00:00",

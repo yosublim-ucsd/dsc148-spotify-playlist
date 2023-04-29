@@ -856,7 +856,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 232584,
       "name": "Aperture",
       "url": "https://open.spotify.com/track/3sSWpHdkiwuZaS7tPdDJig"
@@ -2928,7 +2928,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 180000,
       "name": "Dale Vuelta",
       "url": "https://open.spotify.com/track/40tEZ9JmmfpwMUvG2DYgje"
@@ -3730,7 +3730,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 177441,
       "name": "Emerald",
       "url": "https://open.spotify.com/track/2eAzJdGWnNPSSGFDHEBh7B"
@@ -4294,7 +4294,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 238564,
       "name": "Fall Out",
       "url": "https://open.spotify.com/track/7wtkom72nXua4AfEJzE2Tv"
@@ -4504,6 +4504,24 @@
       "duration_ms": 181600,
       "name": "Falling Down",
       "url": "https://open.spotify.com/track/5soL5lwN1YMPkPKls97zFf"
+    },
+    {
+      "album": {
+        "name": "falling down",
+        "url": "https://open.spotify.com/album/28Bn7Rb61877L23Dtn0AkQ"
+      },
+      "artists": [
+        {
+          "name": "th\u00e9os",
+          "url": "https://open.spotify.com/artist/3zyJ0KYR7Zxowqq4T4QKru"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124173,
+      "name": "falling down",
+      "url": "https://open.spotify.com/track/57eYzzXOjMO18x3otqd9MX"
     },
     {
       "album": {
@@ -4830,7 +4848,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 136097,
       "name": "Forgive Me",
       "url": "https://open.spotify.com/track/73UOjDMdNAOXM2FPC4nta0"
@@ -5957,6 +5975,28 @@
     },
     {
       "album": {
+        "name": "Muted Blue",
+        "url": "https://open.spotify.com/album/29NyepPY1H8fk6PrsNfBRs"
+      },
+      "artists": [
+        {
+          "name": "Fells",
+          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
+        },
+        {
+          "name": "Stirling",
+          "url": "https://open.spotify.com/artist/3BJxpRUNoRVY28xuTgwXtA"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198651,
+      "name": "Hold Me Down (with Stirling)",
+      "url": "https://open.spotify.com/track/6UwHaOX022GC2JrXgzYsSH"
+    },
+    {
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/3XcugVPtbESr3O3ApSXZ63"
       },
@@ -6462,6 +6502,28 @@
       "duration_ms": 224000,
       "name": "I Know",
       "url": "https://open.spotify.com/track/6OXeQE9fGrNEDXZZjqWG3k"
+    },
+    {
+      "album": {
+        "name": "I Love You Enough To Let You Go",
+        "url": "https://open.spotify.com/album/2h6xcXDL7B2DoacHZq7Qbx"
+      },
+      "artists": [
+        {
+          "name": "Last Heroes",
+          "url": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224516,
+      "name": "I Love You Enough To Let You Go",
+      "url": "https://open.spotify.com/track/6MSjU24zzBgu6wRHsR4eRI"
     },
     {
       "album": {
@@ -7229,6 +7291,24 @@
     },
     {
       "album": {
+        "name": "Muted Blue",
+        "url": "https://open.spotify.com/album/29NyepPY1H8fk6PrsNfBRs"
+      },
+      "artists": [
+        {
+          "name": "Fells",
+          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185663,
+      "name": "Just Thought You Should Know",
+      "url": "https://open.spotify.com/track/75Llaor4IWf0faRFDva8Cs"
+    },
+    {
+      "album": {
         "name": "KALI",
         "url": "https://open.spotify.com/album/4lKjLdlLVIIduCfms6YnGo"
       },
@@ -7936,7 +8016,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 143437,
       "name": "Lonewolf",
       "url": "https://open.spotify.com/track/1IzcP7dKNW4wfAV1ECfXvM"
@@ -9086,7 +9166,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 256500,
       "name": "My Mind (with Charlie Kim)",
       "url": "https://open.spotify.com/track/6KUZphPDNp0owWVfO5waBK"
@@ -9918,7 +9998,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 242448,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/5F00YTcguy7LICneJYbI89"
@@ -14953,6 +15033,28 @@
     },
     {
       "album": {
+        "name": "Wavecheck",
+        "url": "https://open.spotify.com/album/6vutYAzI1aI9anCnIIrYIk"
+      },
+      "artists": [
+        {
+          "name": "Runnit",
+          "url": "https://open.spotify.com/artist/0kojSSqjZ9LAAHpNwYObKb"
+        },
+        {
+          "name": "broke",
+          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128823,
+      "name": "Wavecheck",
+      "url": "https://open.spotify.com/track/2jPjdjDSZ3FCZJu1k3k3to"
+    },
+    {
+      "album": {
         "name": "Waves (with RYYZN)",
         "url": "https://open.spotify.com/album/39sXUDAbIh5B6o5ola9A3H"
       },
@@ -15232,6 +15334,24 @@
       "duration_ms": 157866,
       "name": "Who Will Save Us - hyperforms Remix",
       "url": "https://open.spotify.com/track/4mBCcNSM2GDYVHTZlImRQJ"
+    },
+    {
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/4A66DpGB7QfaCcG7KzsO3P"
+      },
+      "artists": [
+        {
+          "name": "Mad Miguel",
+          "url": "https://open.spotify.com/artist/21fqKfKRAPydpw3u8KPtRr"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175448,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/2woXOL3Lh25Bs3HwHJDC8Q"
     },
     {
       "album": {

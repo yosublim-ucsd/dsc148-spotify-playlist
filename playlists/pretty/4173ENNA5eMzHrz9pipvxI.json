@@ -1,13 +1,37 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover:  R3HAB, INNA, Sash!",
-  "num_followers": 120614,
+  "num_followers": 120636,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "NjUwOCwxNGJhNjhkZDEzMDRjNmQ2ZTlhZDA4MzYzY2JmNjhjNGY0YTA5OGNl",
+  "snapshot_id": "NjUxMCw0ODA0MmFhNmMxMjFhMmUyZjk2YjVlZDczM2RiZGUyMDFmMzFhNjE2",
   "tracks": [
+    {
+      "added_at": "2023-04-28 07:59:04",
+      "album": {
+        "name": "Rock My Body",
+        "url": "https://open.spotify.com/album/732igpb1mrqh5K5i1fXfSO"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        }
+      ],
+      "duration_ms": 137419,
+      "name": "Rock My Body",
+      "url": "https://open.spotify.com/track/2o97OhRvkc1WGbV20QkB0R"
+    },
     {
       "added_at": "2023-04-27 21:07:24",
       "album": {

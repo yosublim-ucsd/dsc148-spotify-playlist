@@ -4,7 +4,7 @@
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-152 songs - 11 hr 14 min
+153 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Go](https://open.spotify.com/track/08plw345uiLR5bQZNIsfMc) | [Vocal Few](https://open.spotify.com/artist/4XNEA2zwGthyCOdS9znQGd) | [Go](https://open.spotify.com/album/4vuVg0LWXyaxdtBusihvr3) | 4:08 | 2020-08-31 |  |
 | [Go](https://open.spotify.com/track/57DwpDYNbI1QngVijfBKfP) | [Vocal Few](https://open.spotify.com/artist/4XNEA2zwGthyCOdS9znQGd) | [Go](https://open.spotify.com/album/7nTNJAlRgd2pwg40XnYKIp) | 4:08 | 2020-08-31 | 2022-07-29 |
 | [God Evermore](https://open.spotify.com/track/2SBAqasLdtBchU4wMB61pE) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Ever Be](https://open.spotify.com/album/09ErTYDLaRj9MgTr8oEUuj) | 5:06 | 2020-08-31 | 2022-07-10 |
+| [God Evermore](https://open.spotify.com/track/2qgIgDagxmjNA8yhoszVNu) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Ever Be](https://open.spotify.com/album/4Yg6IeCzU0q4OAxu5X2Ks0) | 5:06 | 2020-08-31 |  |
 | [God of the Breakthrough \(Live\)](https://open.spotify.com/track/3IgJjNxYRp86Jqkl3BXmys) | [Milestone Worship](https://open.spotify.com/artist/5NHwVYlsN0C3iBrfzfj3lo) | [God of the Breakthrough \(Live\)](https://open.spotify.com/album/7CRcUGs2g6haLWjZN5Vcza) | 5:53 | 2020-08-31 | 2022-07-27 |
 | [Goodness](https://open.spotify.com/track/2l3jQnu4yQHwojxoEHlzcn) | [RNW Music](https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi) | [Goodness](https://open.spotify.com/album/16a0mCgRA5HPmk86U4UJ3I) | 5:34 | 2020-08-31 | 2022-07-29 |
 | [Goodness](https://open.spotify.com/track/3JyI1zIVyM1N7wb7Qylro6) | [RNW Music](https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi) | [When It Comes to You](https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV) | 5:35 | 2020-08-31 |  |
@@ -127,7 +128,7 @@
 | [Stained Glass](https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [Stained Glass](https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN) | 5:17 | 2020-08-31 |  |
 | [Still I Will Praise \[Live at Burgess Barn\] \[Radio Edit\]](https://open.spotify.com/track/6DMNym6nYxh5VuymM6kGyW) | [Lucy Grimble](https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq), [Bianca Rose](https://open.spotify.com/artist/3L06eylvgeEkGmkNyi4uPo) | [Still I Will Praise \[Live at Burgess Barn\] \[Radio Edit\]](https://open.spotify.com/album/5jTcdgdYuicOViLgJMqOUh) | 4:04 | 2020-08-31 |  |
 | [Take This](https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq) | [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu), [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Now More Than Ever](https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf) | 4:40 | 2020-08-31 |  |
-| [Teach Me](https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Teach Me](https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl) | 3:33 | 2020-08-31 |  |
+| [Teach Me](https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Teach Me](https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl) | 3:33 | 2020-08-31 | 2023-04-29 |
 | [Teach Us That One Song](https://open.spotify.com/track/3hImGfeJiJpKI8o3C3mTzY) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Keeper of Days](https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn) | 5:54 | 2020-08-31 |  |
 | [Teach Us That One Song](https://open.spotify.com/track/5CEAfa46IDXBTnggrK2oAN) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Teach Us That One Song](https://open.spotify.com/album/6LcfPho01IaVl7LO6k39fb) | 5:54 | 2020-08-31 | 2022-07-24 |
 | [That's What I Call Free](https://open.spotify.com/track/45mQtcoDydArdV3L7Fa7Dl) | [Mas](https://open.spotify.com/artist/3f7sxX5HfXXiD3DvLm0CWm) | [That's What I Call Free](https://open.spotify.com/album/7q04MbeIiDZ6ij6EWqmqAb) | 3:51 | 2020-08-31 | 2022-11-14 |

@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 691306,
       "name": "Mediterranean Sundance / Rio Ancho - Live at Warfield Theatre, San Francisco, CA - December 5, 1980",
       "url": "https://open.spotify.com/track/0og2U8tsBAR7NJysRR6uBU"
@@ -2030,10 +2030,28 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 118414,
       "name": "The Fall of Summer - Live",
       "url": "https://open.spotify.com/track/27dBFWTZzH74nYlZOFm93r"
+    },
+    {
+      "album": {
+        "name": "live from the archives * BOOTLEG JUNE 15, 2000",
+        "url": "https://open.spotify.com/album/2hCxogjHMvleKKenbxi9sP"
+      },
+      "artists": [
+        {
+          "name": "Brian Blade & The Fellowship Band",
+          "url": "https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118414,
+      "name": "The Fall of Summer - Live",
+      "url": "https://open.spotify.com/track/54MsYlUGqbA4bJP2E2r4nM"
     },
     {
       "album": {
@@ -2132,6 +2150,24 @@
       "duration_ms": 296415,
       "name": "Theme From M*A*S*H - Live",
       "url": "https://open.spotify.com/track/1kzrdCbFcXxUUHc2eHEdhg"
+    },
+    {
+      "album": {
+        "name": "Universal Gratitude (Trio - Live)",
+        "url": "https://open.spotify.com/album/16SnKeimPpAsiEbXKtKnOY"
+      },
+      "artists": [
+        {
+          "name": "Mike Casey",
+          "url": "https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324625,
+      "name": "Universal Gratitude (Trio - Live)",
+      "url": "https://open.spotify.com/track/6y9XVP0HsYr3SVtHmzbj1n"
     },
     {
       "album": {

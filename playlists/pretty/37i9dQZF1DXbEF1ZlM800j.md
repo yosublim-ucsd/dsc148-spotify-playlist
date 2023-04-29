@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEF1ZlM800j.md) - [plain]
 
 > Get your kids in the holiday spirit with this collection of Hanukkah tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,228 likes - 44 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,231 likes - 44 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEF1ZlM800j.md) - [plain]
 | 4 | [I Have a Little Dreidel](https://open.spotify.com/track/2zsgCCPkehcmC7QZYPScZT) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Hanukkah Songs for Preschool & Kindergarten](https://open.spotify.com/album/1eIq16SWteejKSvRtKFWIt) | 1:35 |
 | 5 | [Oh Hanukkah](https://open.spotify.com/track/5ec60jot43VDKVDSyXGwaT) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [Hanukkah+](https://open.spotify.com/album/75tzhQxgxrZkqfIb4fE5rT) | 1:55 |
 | 6 | [Hanukkah Medley](https://open.spotify.com/track/6dwS0GqDNVYJxzLXdR8Oz1) | [Julia Lester](https://open.spotify.com/artist/5aTwY2xyrJy4cS1jlFg1oG) | [High School Musical: The Musical: The Holiday Special \(Original Soundtrack\)](https://open.spotify.com/album/389VFKfgX6qu3L25ctkEFj) | 2:16 |
-| 7 | [8 Days \(Of Hannukah\)](https://open.spotify.com/track/6YbeDWhX04Bt8c2sztiuzS) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [It's a Holiday Soul Party](https://open.spotify.com/album/73nbM7q1KmaYMYbzD5KsHc) | 3:42 |
+| 7 | [8 Days \(Of Hannukah\)](https://open.spotify.com/track/4062PAj5KS0FpoCyx6tFPC) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [It's a Holiday Soul Party](https://open.spotify.com/album/206CtiH7Yc0YfOtW2UtP7T) | 3:42 |
 | 8 | [Chanukah Bamba](https://open.spotify.com/track/2DiYjmbSUatA6ZeteFQxLY) | [Shira Kline](https://open.spotify.com/artist/6ep4Az6YtBXK0Qf6uknKQO) | [ShirLaLa Chanukah!](https://open.spotify.com/album/2h1Yy4sUMmKFsvs7H2WezR) | 3:41 |
 | 9 | [Nine Little Candles](https://open.spotify.com/track/3yG9MIe4s0oDE4LHxiXROD) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Hanukkah Songs for Preschool & Kindergarten](https://open.spotify.com/album/1eIq16SWteejKSvRtKFWIt) | 1:56 |
 | 10 | [Happy Joyous Hanukkah \- Live](https://open.spotify.com/track/54kQ0tpp9clSdIoC45NsFI) | [Nefesh Mountain](https://open.spotify.com/artist/4JpW8a54yD77lNQAyis8EL) | [Live From Levon Helm Studios: A Hanukkah Holiday Concert](https://open.spotify.com/album/1J2KDHB5lLW91g6WJu8AG6) | 5:38 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEF1ZlM800j.md) - [plain]
 | 43 | [Dreidel, Dreidel, Dreidel](https://open.spotify.com/track/2nJ7khC20N59Oo5gTALYHv) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Let's Eat!](https://open.spotify.com/album/4g7Q9tZW8LxneGkMTSQAWO) | 1:01 |
 | 44 | [Latke Clan](https://open.spotify.com/track/6Yvqjn1jhBlzPmKcpZqD4o) | [The LeeVees](https://open.spotify.com/artist/3YjhwlHwXH3lSZHHDwU4V8) | [Hanukkah Rocks](https://open.spotify.com/album/3wuvsJu2Z1eI61f8ynv7Wl) | 2:51 |
 
-Snapshot ID: `MCw5ZGYwNDFiZDNlMzM4MWFhYjhiMmZhNWMzYzBkYWU1MmQ0NjJhYzA1`
+Snapshot ID: `MCw5NmZhNmMxZTA3NTI3MmY1ZmM0OTkwYzU5NDdhZWJlYTUzNTM3YjNl`

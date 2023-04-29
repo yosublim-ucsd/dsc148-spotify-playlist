@@ -4,7 +4,7 @@
 
 > Music from and inspired by Stranger Things\. Watch Season 4 now on Netflix.
 
-285 songs - 17 hr 4 min
+286 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,8 @@
 | [Moving In Stereo](https://open.spotify.com/track/01BmQnWTLdDojdO5eZU6nm) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Stranger Things: Soundtrack from the Netflix Original Series, Season 3](https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP) | 4:41 | 2019-07-08 |  |
 | [Muscle Kar Klown Jam](https://open.spotify.com/track/3iBI3CVm3BRqQHjE316txP) | [John Massari](https://open.spotify.com/artist/29walRLKlG7M9KUGnhYkDw) | [Killer Klowns From Outer Space: Reimagined \(Music From The Film\)](https://open.spotify.com/album/37jmXMSO79f9oc8KmVi0q2) | 2:40 | 2019-07-10 |  |
 | [My Bologna](https://open.spotify.com/track/5aUTSJltF24eevgzM2j7gE) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Stranger Things: Soundtrack from the Netflix Original Series, Season 3](https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP) | 1:59 | 2019-07-08 |  |
-| [Natty Dread On The Go](https://open.spotify.com/track/2nHoCN8OT5UWrWjGdBLX0F) | [Lone Ranger](https://open.spotify.com/artist/3Hzw8xWrukU2WgGxqZ5SV3) | [On The Other Side Of Dub \(Deluxe Version\)](https://open.spotify.com/album/7JpAENwKVKiDiZrAvnFWis) | 2:40 | 2022-07-01 |  |
+| [Natty Dread On The Go](https://open.spotify.com/track/2nHoCN8OT5UWrWjGdBLX0F) | [Lone Ranger](https://open.spotify.com/artist/3Hzw8xWrukU2WgGxqZ5SV3) | [On The Other Side Of Dub \(Deluxe Version\)](https://open.spotify.com/album/7JpAENwKVKiDiZrAvnFWis) | 2:40 | 2022-07-01 | 2023-04-29 |
+| [Natty Dread On The Go](https://open.spotify.com/track/4pGVjKT8DdyhREiDQcFSms) | [Lone Ranger](https://open.spotify.com/artist/3Hzw8xWrukU2WgGxqZ5SV3) | [On The Other Side Of Dub \(Deluxe Version\)](https://open.spotify.com/album/3f3oCxlEaKzjKodyRXm5N6) | 2:40 | 2023-02-27 |  |
 | [Neutron Dance](https://open.spotify.com/track/73XBEM0gcXc3lku1KwaLGS) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Stranger Things: Soundtrack from the Netflix Original Series, Season 3](https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP) | 4:13 | 2019-07-08 |  |
 | [Never Ending Story](https://open.spotify.com/track/7r6xGsyES2DTacyP6O585i) | [Gaten Matarazzo](https://open.spotify.com/artist/5TLldRzO16khcP3zwBsBB6), [Gabriella Pizzolo](https://open.spotify.com/artist/7FZcgLmT7hkZWlODqmOFNo) | [Stranger Things: Soundtrack from the Netflix Original Series, Season 3](https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP) | 2:05 | 2019-07-08 |  |
 | [Never Surrender](https://open.spotify.com/track/2EaZJ3QueEizd22LdKnQxG) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [Stranger Things: Soundtrack from the Netflix Original Series, Season 3](https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP) | 4:53 | 2019-07-08 |  |

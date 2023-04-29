@@ -4,7 +4,7 @@
 
 > Are you afraid of the dark?
 
-215 songs - 14 hr 29 min
+218 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [ahhh](https://open.spotify.com/track/4viqaCQX1jMEDmTPKT1Bry) | [Chakra Efendi](https://open.spotify.com/artist/3pFSlKAoVnaEycgIcPDctw) | [ahhh](https://open.spotify.com/album/29RF0bLY5JiHMZsOcMvfF2) | 3:04 | 2023-03-22 |  |
 | [Alivve](https://open.spotify.com/track/1R6bmo9w0hxLv0VlCrH0S2) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pink Songs](https://open.spotify.com/album/7HrvucSDN0Bsf3vsyROFnr) | 2:19 | 2021-11-01 | 2023-01-28 |
 | [Alivve](https://open.spotify.com/track/712J1MIoG92zG8IDmNHayC) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pink Songs](https://open.spotify.com/album/1CfNEJDcCiHkBnuFsjuFK9) | 2:19 | 2022-11-01 |  |
+| [Almighty](https://open.spotify.com/track/6RpiN5H6IpDWNTaVEZUhrH) | [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc) | [Almighty](https://open.spotify.com/album/4D2yVILnAA47VroVLFcB8B) | 4:05 | 2023-04-28 |  |
 | [An Uncomfortable Month](https://open.spotify.com/track/37ZSlP83PH8y8u2fErev2y) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Measures \- EP](https://open.spotify.com/album/2hXBZCLBpVHcjfw0jKxP0v) | 5:26 | 2021-11-01 | 2022-10-16 |
 | [And I Drove You Crazy](https://open.spotify.com/track/6kRblaZ5a4V76t7Wd5h9qc) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:31 | 2022-10-23 | 2022-11-01 |
 | [Anti Body](https://open.spotify.com/track/7JaF0id8lWwL5qpscG0lkl) | [Gazelle Twin](https://open.spotify.com/artist/0O9n1swkbCd1KqV2QrSVHl) | [Unflesh](https://open.spotify.com/album/5FPSWe35QjdgAaj0c5ETqp) | 3:18 | 2022-10-23 | 2022-11-01 |
@@ -68,7 +69,8 @@
 | [Feed the Flowers Nightmares](https://open.spotify.com/track/4lyjNOz9dY0ON1y7ZBdU0P) | [Wyldest](https://open.spotify.com/artist/1H5bZEYikISQmR2qY2SASI) | [Feed the Flowers Nightmares](https://open.spotify.com/album/528sbcF31aHnHxnvOf4r1w) | 4:16 | 2022-09-13 |  |
 | [Fester](https://open.spotify.com/track/5zJ2umLMvMqKhtxDqCwMxY) | [Gravedweller](https://open.spotify.com/artist/3TB2BAG8xnarUNFNGLG4RX) | [Gravedweller](https://open.spotify.com/album/4jKTbEe9CxBrWU38GZEinZ) | 3:05 | 2022-10-23 | 2022-11-01 |
 | [flashlight](https://open.spotify.com/track/7IDRXVRJDWg2Y1gUz11VS6) | [spookyghostboy](https://open.spotify.com/artist/3pHAJqPZhCGNoFShXcqD9k) | [flashlight](https://open.spotify.com/album/0d0sW4cetIRnwF4yACl9mu) | 3:05 | 2021-11-01 | 2022-09-15 |
-| [Flood](https://open.spotify.com/track/2rdHpC57kfwsxuQKfaEjjQ) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/0kn1V8vpoxtEw69CcMDlik) | 2:57 | 2021-11-01 |  |
+| [Flood](https://open.spotify.com/track/2rdHpC57kfwsxuQKfaEjjQ) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/0kn1V8vpoxtEw69CcMDlik) | 2:57 | 2021-11-01 | 2023-04-29 |
+| [Flood](https://open.spotify.com/track/49WW6BCMjCCYt6V6UEhy4H) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N) | 2:57 | 2023-03-22 |  |
 | [FOUR TEETH](https://open.spotify.com/track/0EKTuuDuN8bAIwqFB1bPYY) | [True Widow](https://open.spotify.com/artist/7fS59zKuYPKhYlTGdg2PyM) | [Circumambulation](https://open.spotify.com/album/5xkD0KbkpBYK3n8rDA0y6j) | 6:16 | 2022-10-23 | 2022-11-01 |
 | [Frankie Teardrop \- 2019 \- Remaster](https://open.spotify.com/track/2vQRkj2kMwoHKLzxXNsj2h) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Suicide \(2019 \- Remaster\)](https://open.spotify.com/album/0wKU4153oTf5Ne3Wbbcykd) | 10:26 | 2022-10-23 | 2022-11-01 |
 | [Freak](https://open.spotify.com/track/3sYDVtqO35oRSOIMx7dOqR) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Honeymoon](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) | 4:55 | 2021-11-01 |  |
@@ -212,6 +214,7 @@
 | [Tub Erupt](https://open.spotify.com/track/5UagxRDKDj3QyQHAWIJ9ZR) | [Vanishing Twin](https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5) | [Ookii Gekkou](https://open.spotify.com/album/7Gsi59BAXGkBz8nxEYy9n3) | 2:52 | 2021-11-01 | 2023-02-13 |
 | [Ulvinde](https://open.spotify.com/track/1OVCelrSJzzCRslwzJ1Gsd) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Mareridt \(Deluxe Version\)](https://open.spotify.com/album/3ewAlccDDYFoybQaMnkTvW) | 4:23 | 2022-10-23 | 2022-11-01 |
 | [Undress](https://open.spotify.com/track/3vHTp0PSVjgnqocdLHCk19) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Deep Divine](https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ) | 3:59 | 2021-11-01 |  |
+| [Used To It](https://open.spotify.com/track/7EeCwTGR2ct1WTo0OvkWag) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z) | [Used To It](https://open.spotify.com/album/1wKmS7A41gfVYHnFUnD2HR) | 3:02 | 2023-04-28 |  |
 | [Waking The Witch](https://open.spotify.com/track/1f4J04qKp7y3UJCxbUOr7z) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:18 | 2022-11-01 |  |
 | [Waking The Witch \- 2018 Remaster](https://open.spotify.com/track/4mNUtp5LxYkg1mdbSZEcwO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 4:18 | 2022-08-02 | 2023-03-18 |
 | [Wander](https://open.spotify.com/track/1qsFDoKyLYpO2PcMJGpe6r) | [E\_DEATH](https://open.spotify.com/artist/2wSwy8bHoCzFngrIrDCFDd) | [Cloud Spires](https://open.spotify.com/album/0fnKaTnX3f9rjXWp9Tm1q7) | 4:18 | 2022-10-23 | 2022-11-01 |

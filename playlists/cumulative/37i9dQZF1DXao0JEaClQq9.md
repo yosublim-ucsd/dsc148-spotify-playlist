@@ -4,7 +4,7 @@
 
 > eclectic ethereal feeling\. cover: Ethel Cain
 
-504 songs - 1 day 7 hr 24 min
+506 songs - 1 day 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [2021](https://open.spotify.com/track/7sy4upvDMtpz0jDCech44W) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [7G](https://open.spotify.com/album/16NHNs15w1bpkFiBOUgDaB) | 1:56 | 2021-06-03 | 2022-06-04 |
 | [5.17](https://open.spotify.com/track/7i8wAKUOcb9BWK50mFOOHU) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [5.17](https://open.spotify.com/album/7CxtQw1cz4fQW4A0w81eeC) | 4:01 | 2022-04-08 | 2022-07-20 |
 | [5D](https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [EYEYE](https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4) | 3:45 | 2022-05-20 | 2022-07-26 |
+| [6 Underground](https://open.spotify.com/track/7KvSuH86lIT2aTl9PBCAfd) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P) | [Becoming X](https://open.spotify.com/album/74nAYi5aVDBdb5jGx8OM7s) | 3:48 | 2023-04-28 |  |
 | [7\-21\-17\_substitute\_hifi\_v3](https://open.spotify.com/track/6RbZyobWPlfFrkkZARi935) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Soul Trash](https://open.spotify.com/album/1xqK2XpJQx59bppV02Q9OZ) | 2:42 | 2021-06-03 | 2022-07-29 |
 | [8bit](https://open.spotify.com/track/4YIVAkrnb4hplYQtbuqA8K) | [Scotch Mist](https://open.spotify.com/artist/63da4AKQZcSLyqcTFvt8Uu) | [8bit](https://open.spotify.com/album/2y4YzuTRDYHpzdtNW0lMfF) | 2:43 | 2021-10-08 | 2022-04-23 |
 | [A Comma](https://open.spotify.com/track/4XNA6lxhJgZuampAzUGjUg) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Apparition EP](https://open.spotify.com/album/7FCpNm4l9fNtBeakrvpVf8) | 2:47 | 2021-06-03 | 2022-04-18 |
@@ -172,6 +173,7 @@
 | [Fruit](https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Fruit](https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT) | 3:24 | 2022-04-11 | 2022-07-29 |
 | [Gateway](https://open.spotify.com/track/3g91DkQcxcD4n20JKUlULo) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Civilisation](https://open.spotify.com/album/5w4jILMK3xVgqy0dsKGhtm) | 0:55 | 2021-09-10 | 2022-05-09 |
 | [gemstone](https://open.spotify.com/track/6cuH8SCJf51zqFNQam4TvJ) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [Puppet](https://open.spotify.com/artist/0QaiCsyOUjBgLqsbABu07O) | [gemstone](https://open.spotify.com/album/3sEjlfHS2SUceS23TTy7in) | 2:54 | 2021-07-19 | 2022-04-21 |
+| [Genesis](https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:15 | 2023-04-28 |  |
 | [Get My Shit Together](https://open.spotify.com/track/1Z6zf9Wo5OOi0rXnN8VwTs) | [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj), [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [WDYWTBWYGU](https://open.spotify.com/album/6sd1FmCTSPabYh4aHRICTu) | 3:10 | 2022-06-03 | 2022-06-11 |
 | [ghost](https://open.spotify.com/track/0mIZJApcnV5qnNgdfljoHf) | [xxsagexx](https://open.spotify.com/artist/4g1ExmNRjpmwlalG0VzAbH) | [ghost](https://open.spotify.com/album/6d4lsPM1Iaj2ph9HWscfjb) | 2:06 | 2022-01-28 | 2022-04-21 |
 | [girl of my dreams](https://open.spotify.com/track/1yf64DXlkiJ8oMSoUxZzLr) | [Dxvid](https://open.spotify.com/artist/5jSt4R2f03LpayhdOZrC7r) | [girl of my dreams](https://open.spotify.com/album/1HZ8JNnJYVHUoUUJpM6ldD) | 3:42 | 2022-04-22 | 2022-08-03 |
@@ -394,11 +396,11 @@
 | [skin](https://open.spotify.com/track/5fjXYssZZSUbVK1wM5KYV0) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [in the mirror, in the night](https://open.spotify.com/album/2a5Xt0sHOpQcHcCfmNYo0p) | 2:44 | 2022-02-24 | 2022-04-22 |
 | [Skin 2 Skin](https://open.spotify.com/track/21fIsLrnYfJnzVoN9luEDR) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [Skin 2 Skin](https://open.spotify.com/album/0mclvOXYO7qb7jefYYdZLr) | 2:46 | 2021-09-24 | 2022-07-17 |
 | [Skin and Bones](https://open.spotify.com/track/6slWOE0SO6HjBH0fNd13YB) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Skin and Bones](https://open.spotify.com/album/5LCCfjJW4kBomupswapRHE) | 3:34 | 2022-04-22 | 2022-11-19 |
-| [Skin Tight \(Alternate\) \[feat\. Steve Lacy\]](https://open.spotify.com/track/4c16iHPk6g5XQavzEfDpld) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Skin Tight \(Alternate\) \[feat\. Steve Lacy\]](https://open.spotify.com/album/4KkdTV3S7boFNngZAWsg1Q) | 3:58 | 2022-10-14 |  |
+| [Skin Tight \(Alternate\) \[feat\. Steve Lacy\]](https://open.spotify.com/track/4c16iHPk6g5XQavzEfDpld) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Skin Tight \(Alternate\) \[feat\. Steve Lacy\]](https://open.spotify.com/album/4KkdTV3S7boFNngZAWsg1Q) | 3:58 | 2022-10-14 | 2023-04-29 |
 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:47 | 2022-06-03 |  |
 | [skyline, be mine](https://open.spotify.com/track/326pgL0eAAlmlIKYdw6unb) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [forevher](https://open.spotify.com/album/1Gkq8xYCUvIaRshmoLa6ze) | 5:16 | 2021-10-08 | 2022-06-04 |
 | [So Clear](https://open.spotify.com/track/1NI1eV3ekhn0HbfkNp8i6m) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [So Clear](https://open.spotify.com/album/37ePGxUZSQLlOMIE2SxOxf) | 3:00 | 2022-09-09 | 2022-10-22 |
-| [So Clear](https://open.spotify.com/track/5je2hi3IPkN0DnDKYpZWds) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [So Clear](https://open.spotify.com/album/3CIQIdtkViKUEzsNBjXxLI) | 3:32 | 2023-04-14 |  |
+| [So Clear](https://open.spotify.com/track/5je2hi3IPkN0DnDKYpZWds) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [So Clear](https://open.spotify.com/album/3CIQIdtkViKUEzsNBjXxLI) | 3:32 | 2023-04-14 | 2023-04-29 |
 | [So Far Away](https://open.spotify.com/track/5IOEH3MF0ybXAbiWHltJeM) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [True Romance](https://open.spotify.com/album/4NUyHY8HwmpjGDdYGpiBtu) | 3:21 | 2021-10-08 | 2022-03-02 |
 | [So Heavy I Fell Through the Earth \- Art Mix](https://open.spotify.com/track/5pZf7ekhpd3kJbDJPIxYyT) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [So Heavy I Fell Through the Earth](https://open.spotify.com/album/5VMM5s0R9L0eNmDBxyRig6) | 6:13 | 2021-06-03 | 2022-07-28 |
 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 | 2021-06-03 | 2022-10-22 |

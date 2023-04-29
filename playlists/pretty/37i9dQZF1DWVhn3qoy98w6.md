@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: krissia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,199 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,206 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Entre un Somni i la Realitat](https://open.spotify.com/track/2haEscBdlubIuUXSIQCRuj) | [Iglú](https://open.spotify.com/artist/4Wfi7bsHCX2jfKgYvwl4gO) | [ENTRE UN SOMNI I LA REALITAT](https://open.spotify.com/album/2j8tP7DBahP9uPQqABjNC3) | 2:59 |
 | 50 | [depre](https://open.spotify.com/track/5VKr9ogZgGYH50vOkrXC1f) | [HOLOGRAMMA](https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm) | [depre](https://open.spotify.com/album/1dww9M7oFGiLTrYG3QypWb) | 2:58 |
 
-Snapshot ID: `MCw0NjlkNDBkNjU3N2JlOTM4Y2ExMmI4NzgxMjU5ZWIwZTlhYmE2Mjg4`
+Snapshot ID: `MCwyZWZjOTAyODU1ZmY4MGZlNTk3YWUyNTBhMWNlNTlkMzBkMjNmYjFm`

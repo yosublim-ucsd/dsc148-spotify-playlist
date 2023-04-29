@@ -1,13 +1,57 @@
 {
   "description": "The best of today's funk. Cover: Adi Oasis",
-  "num_followers": 297547,
+  "num_followers": 297653,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWMwZmVlYzc5M2RhYjcxMjQyNjE2MzRhMzM2ZjA1NWNlZjY0ZWFl",
+  "snapshot_id": "MCw0YTRhNDU0ODU0ZDBiYWVkZTk5NTY0OTZmOWJmZDlhODY5YmUwNzQ4",
   "tracks": [
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "I Can\u2019t Party",
+        "url": "https://open.spotify.com/album/3DO4ANRqeIoaVPc4ALnhkz"
+      },
+      "artists": [
+        {
+          "name": "Vulfmon",
+          "url": "https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
+        }
+      ],
+      "duration_ms": 145003,
+      "name": "I Can\u2019t Party",
+      "url": "https://open.spotify.com/track/4JyfZTq6nOoAcW5sY4PurE"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/2Bg43PYGoh1o6VL7tiRGfN"
+      },
+      "artists": [
+        {
+          "name": "Gabe Costa",
+          "url": "https://open.spotify.com/artist/6LMyfO4lGSYAkJg3Yc06ZR"
+        },
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+        },
+        {
+          "name": "Giacomo Turra",
+          "url": "https://open.spotify.com/artist/7FZ7QjjU3oULdlzZr6GJCw"
+        }
+      ],
+      "duration_ms": 151372,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/6x6cHK0rqhlBI8majXkXEd"
+    },
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
@@ -31,6 +75,102 @@
       "duration_ms": 172636,
       "name": "Scorpio",
       "url": "https://open.spotify.com/track/6gD4AWNqv0ek0YV6CZRmDk"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "All Night Long (Ruck P Remix)",
+        "url": "https://open.spotify.com/album/2sBfkBNyb4sZBAhfxybsVF"
+      },
+      "artists": [
+        {
+          "name": "Patric Pleasure",
+          "url": "https://open.spotify.com/artist/1S5UyTmyOEpVluYNaC8d5M"
+        },
+        {
+          "name": "Ruck P",
+          "url": "https://open.spotify.com/artist/0SIxAAknV8iR2jHcQJ9Sfn"
+        },
+        {
+          "name": "Emilia Anastazja",
+          "url": "https://open.spotify.com/artist/0cKNOYRTUF2PeSXJCb3jOr"
+        }
+      ],
+      "duration_ms": 188250,
+      "name": "All Night Long - Ruck P Remix",
+      "url": "https://open.spotify.com/track/6fYFZnIsm74om1JFSgZWZM"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Brutal Funk - Xtended Mix",
+        "url": "https://open.spotify.com/album/7tD0G6dKYhC5DuCQWRBCx3"
+      },
+      "artists": [
+        {
+          "name": "Smudge All Stars",
+          "url": "https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU"
+        },
+        {
+          "name": "Culture Club",
+          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
+        },
+        {
+          "name": "Niara Scarlett",
+          "url": "https://open.spotify.com/artist/5C6vNbPezhechk5GRAo8G3"
+        },
+        {
+          "name": "Richie Stevens",
+          "url": "https://open.spotify.com/artist/0EZnKWoAW1x51x8STsHhsl"
+        },
+        {
+          "name": "Mary Pearce",
+          "url": "https://open.spotify.com/artist/0bxWOv7vpuQ6ndnEzFPkhg"
+        },
+        {
+          "name": "DJ D-Zire",
+          "url": "https://open.spotify.com/artist/60ODIW6N3aAyqsESw620Qn"
+        }
+      ],
+      "duration_ms": 305454,
+      "name": "Brutal Funk - Xtended Mix",
+      "url": "https://open.spotify.com/track/2O7i0UkosdvDe8QJngHShB"
+    },
+    {
+      "added_at": "2023-03-17 04:01:00",
+      "album": {
+        "name": "Feels This Good",
+        "url": "https://open.spotify.com/album/5r5Ogv4Wh21YmPEWRDIM4v"
+      },
+      "artists": [
+        {
+          "name": "Jon Mero",
+          "url": "https://open.spotify.com/artist/6MuZFI7KLPBjhmgkkX5LPf"
+        },
+        {
+          "name": "L\u00d2NIS",
+          "url": "https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm"
+        }
+      ],
+      "duration_ms": 132336,
+      "name": "Feels This Good",
+      "url": "https://open.spotify.com/track/14FHeL3ma1NPlSubNAiI61"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Touch My Soul",
+        "url": "https://open.spotify.com/album/08N9IgrPVylNF3EANm2M2p"
+      },
+      "artists": [
+        {
+          "name": "Ivan Neville",
+          "url": "https://open.spotify.com/artist/0xHoBLKrp48wAlwpy54lRv"
+        }
+      ],
+      "duration_ms": 298734,
+      "name": "This Must Be The Place",
+      "url": "https://open.spotify.com/track/0recPimKvrGzvi3Fr6x1fj"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -77,26 +217,6 @@
       "url": "https://open.spotify.com/track/2UauebcRqmfb6NXRxBF5Re"
     },
     {
-      "added_at": "2023-03-17 04:01:00",
-      "album": {
-        "name": "Feels This Good",
-        "url": "https://open.spotify.com/album/5r5Ogv4Wh21YmPEWRDIM4v"
-      },
-      "artists": [
-        {
-          "name": "Jon Mero",
-          "url": "https://open.spotify.com/artist/6MuZFI7KLPBjhmgkkX5LPf"
-        },
-        {
-          "name": "L\u00d2NIS",
-          "url": "https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm"
-        }
-      ],
-      "duration_ms": 132336,
-      "name": "Feels This Good",
-      "url": "https://open.spotify.com/track/14FHeL3ma1NPlSubNAiI61"
-    },
-    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Swim",
@@ -123,6 +243,26 @@
       "duration_ms": 183243,
       "name": "Solid Ground",
       "url": "https://open.spotify.com/track/6nidjaDjgfQSN42dWkAYOM"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Sexy!",
+        "url": "https://open.spotify.com/album/2ioqM4ixub516lz78HjzuL"
+      },
+      "artists": [
+        {
+          "name": "Mike Sabath",
+          "url": "https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu"
+        },
+        {
+          "name": "The Moongirls",
+          "url": "https://open.spotify.com/artist/7vqBwmmEgT8NctGLs3LxDm"
+        }
+      ],
+      "duration_ms": 185738,
+      "name": "Sexy!",
+      "url": "https://open.spotify.com/track/3YX2f5qwFaoTaEpQu2zSoK"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -733,26 +873,6 @@
       "url": "https://open.spotify.com/track/5iM1P5J6esvy7ogV54PNf2"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Doubts (Live from Studio 54, 2022)",
-        "url": "https://open.spotify.com/album/7zsHBrfvL0hk321iiagyAD"
-      },
-      "artists": [
-        {
-          "name": "The Past",
-          "url": "https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU"
-        },
-        {
-          "name": "Robbie Rosen",
-          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
-        }
-      ],
-      "duration_ms": 203228,
-      "name": "Doubts - Live from Studio 54, 2022",
-      "url": "https://open.spotify.com/track/7Fk2ITEI0s2Y6oiust9UKl"
-    },
-    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Love In A Groove",
@@ -983,22 +1103,6 @@
       "duration_ms": 272211,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/7tAC9gjYufg2uOOEDbf36s"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Don't Go Chasing",
-        "url": "https://open.spotify.com/album/3GcqHzKzEcV8xjEYgAiVrj"
-      },
-      "artists": [
-        {
-          "name": "Erez Zobary",
-          "url": "https://open.spotify.com/artist/7CIDRraBIHz8BenhnkJGnz"
-        }
-      ],
-      "duration_ms": 247414,
-      "name": "Don't Go Chasing",
-      "url": "https://open.spotify.com/track/0gTXXfCBlkJgSVokmOgrTz"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1649,46 +1753,6 @@
       "url": "https://open.spotify.com/track/5hax6joZydQKWNE55uQAgF"
     },
     {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Blast Off",
-        "url": "https://open.spotify.com/album/4H3PVX3Zks7zFo7fj252J0"
-      },
-      "artists": [
-        {
-          "name": "Brandon Coleman",
-          "url": "https://open.spotify.com/artist/1bCEhVC3192xS5WteIaXOs"
-        }
-      ],
-      "duration_ms": 108306,
-      "name": "Blast Off",
-      "url": "https://open.spotify.com/track/0szDyQC4IcwNJZVwgagtrm"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "To The Death",
-        "url": "https://open.spotify.com/album/4UAMvlxdpmvec0fQMEh4J5"
-      },
-      "artists": [
-        {
-          "name": "DK the Drummer",
-          "url": "https://open.spotify.com/artist/0idL9ZMTGh1E5UqxgQKAEe"
-        },
-        {
-          "name": "Jessy Wilson",
-          "url": "https://open.spotify.com/artist/16mVBCP9OKYqPuGlzS61uP"
-        },
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        }
-      ],
-      "duration_ms": 230303,
-      "name": "To The Death",
-      "url": "https://open.spotify.com/track/2q6ufQzqSn4Cr26hJhvQiW"
-    },
-    {
       "added_at": "2022-11-25 05:00:00",
       "album": {
         "name": "Humpty Dumpty",
@@ -1851,46 +1915,6 @@
       "duration_ms": 170322,
       "name": "Golden Limousine",
       "url": "https://open.spotify.com/track/2HpWy9P6ZXXWVOsJYMXKQ2"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Vermillion Sands",
-        "url": "https://open.spotify.com/album/22DvsqJ1U6RUjR3oYeFhQx"
-      },
-      "artists": [
-        {
-          "name": "Lazy Habits",
-          "url": "https://open.spotify.com/artist/3Bwm7GVj1bGNj6fxf80OKP"
-        },
-        {
-          "name": "Baby Sol",
-          "url": "https://open.spotify.com/artist/2f6oNClshLxDWI8rrVm6wQ"
-        }
-      ],
-      "duration_ms": 239003,
-      "name": "Coming Around",
-      "url": "https://open.spotify.com/track/7nEZs0rR5vKoZa1m1fRkeO"
-    },
-    {
-      "added_at": "2022-05-27 04:01:00",
-      "album": {
-        "name": "Talking Fast",
-        "url": "https://open.spotify.com/album/64XyaoGndTmMnRYAmGtBX9"
-      },
-      "artists": [
-        {
-          "name": "En Rie",
-          "url": "https://open.spotify.com/artist/3P18mn1T53JU82867PDYbM"
-        },
-        {
-          "name": "Roboti Niro",
-          "url": "https://open.spotify.com/artist/6F6xHCnBygWXQO5VSnSRAS"
-        }
-      ],
-      "duration_ms": 227246,
-      "name": "Talking Fast",
-      "url": "https://open.spotify.com/track/5Hwrze2uuRlNa4lHOoDeeT"
     }
   ],
   "unique_name": "Nu-Funk",

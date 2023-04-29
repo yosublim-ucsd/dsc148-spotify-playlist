@@ -4,7 +4,7 @@
 
 > Usar la imaginación es la solución de un mundo ideal, ¡Vivan lxs niñxs!
 
-116 songs - 5 hr 45 min
+117 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Duermete Negrito](https://open.spotify.com/track/52Q3EaDFDHVqKyYvza7pko) | [Kitzia y Gabriela](https://open.spotify.com/artist/5uyAajpDEh2AaQv10ESEE5) | [Viva La Musica](https://open.spotify.com/album/4zbuL5yhQwMMiKHbKXLcns) | 2:08 | 2020-07-16 | 2022-07-28 |
 | [Duérmete Mi Niño](https://open.spotify.com/track/6CeWENB12o6pQ1JdW5jCCV) | [Jaci Velasquez](https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko), [Dream Baby](https://open.spotify.com/artist/3E1yxE05BnQblIGuJ7yadK) | [Buenas Noches Mi Sol](https://open.spotify.com/album/14I0lzuMWY6oV8be0n16Jm) | 3:33 | 2020-07-16 | 2023-04-28 |
 | [El Ciclo Sin Fin](https://open.spotify.com/track/0DRYjkzPqeVX2gYBFeMmxq) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [El Ciclo Sin Fin](https://open.spotify.com/album/6LFMHq2OerUb17FRbDenAD) | 4:05 | 2020-07-16 | 2023-04-28 |
-| [El Cocodrilo y el Orangután](https://open.spotify.com/track/3NgyGZjfoDxp5EHFBv0jtb) | [Mariana Mallol](https://open.spotify.com/artist/0cQJAFoSWyOndigdmyrYAg) | [Besos, Abrazos y Apapachos](https://open.spotify.com/album/1YFqxqQb8dYKev6PFLn2ic) | 2:11 | 2023-04-27 |  |
+| [El Cocodrilo y el Orangután](https://open.spotify.com/track/3NgyGZjfoDxp5EHFBv0jtb) | [Mariana Mallol](https://open.spotify.com/artist/0cQJAFoSWyOndigdmyrYAg) | [Besos, Abrazos y Apapachos](https://open.spotify.com/album/1YFqxqQb8dYKev6PFLn2ic) | 2:11 | 2023-04-27 | 2023-04-29 |
+| [El Cocodrilo y el Orangután](https://open.spotify.com/track/52kqFv5uzPoNTPPnbo7jYZ) | [Mariana Mallol](https://open.spotify.com/artist/0cQJAFoSWyOndigdmyrYAg) | [Abrazos, Besos y Apapachos](https://open.spotify.com/album/6yQ77MNa0YWbZJIcAPVoLS) | 2:13 | 2023-04-27 |  |
 | [El Gato Hace Miau](https://open.spotify.com/track/7GlXWq8tvrcrQjkHlqVBwd) | [Canciones Infantiles](https://open.spotify.com/artist/2KRUmUbmOXybsu6inukf5C), [Canciones Infantiles En Español](https://open.spotify.com/artist/1FEmVBvJ5naZ1qBKeLcoHv), [Musica Infantil](https://open.spotify.com/artist/0mTNO73sdURw1cFY9dGirU) | [Musica Infantil](https://open.spotify.com/album/2CCA1nSPub1VdTROW7tnB3) | 0:45 | 2020-07-16 | 2023-04-28 |
 | [El Gato Insoportable](https://open.spotify.com/track/6Y9H6V0X5qzMBVf0AafmNw) | [Hermanos Rincon](https://open.spotify.com/artist/2omq33Z1J8zMcAL4hoKaHg) | [Por Todos Los Rincones](https://open.spotify.com/album/3Xkqpa0Hh5a8fsM6LVNEwL) | 3:28 | 2020-07-16 | 2022-07-29 |
 | [El León Duerme esta Noche \(The Lion Sleeps Tonight\)](https://open.spotify.com/track/1k1347MCMjIoFuRSV3rkiK) | [Hermanos Rigual](https://open.spotify.com/artist/72cPgXgKnw3h1vP8YWpxPj) | [Hermanos Rigual \(Cuando Calienta el Sol\)](https://open.spotify.com/album/3LxaFScf42WT4Pw1eWOwNa) | 2:22 | 2020-07-16 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-124 songs - 9 hr 0 min
+125 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Objecting](https://open.spotify.com/track/2VZWcp3QYWVMxj3Bn8r6dX) | [Alexander Mark](https://open.spotify.com/artist/6gah0trDTqv3p6OgjC5F0T) | [Objecting](https://open.spotify.com/album/4f07SHjOfxLqGwaq3YyCBM) | 2:48 | 2022-12-20 |  |
 | [Overture \(For Other Halfs\)](https://open.spotify.com/track/1F7vUCER63VfNzvZKTi2pn) | [Brian McBride](https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs) | [When the Detail Lost Its Freedom](https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs) | 6:38 | 2022-05-19 |  |
 | [Photo With Grey Sky, White Clouds](https://open.spotify.com/track/3xLBY0NMWZqdLCYbPqcUb6) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Passive Aggressive](https://open.spotify.com/album/06CnAHZC6NtWc1f0vuKi9l) | 8:29 | 2022-05-19 |  |
-| [Pulse](https://open.spotify.com/track/20C59ZiRbuRZIY2Xbup9Wl) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [Pulse](https://open.spotify.com/album/3ygr62Q1IfpB70QB9D1HEy) | 2:08 | 2022-07-08 |  |
+| [Pulse](https://open.spotify.com/track/20C59ZiRbuRZIY2Xbup9Wl) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [Pulse](https://open.spotify.com/album/3ygr62Q1IfpB70QB9D1HEy) | 2:08 | 2022-07-08 | 2023-04-29 |
 | [Rebalancing in 528 Hz](https://open.spotify.com/track/0NPCFnX2TkQSYrOi5v9xhQ) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Rebalancing in 528 Hz](https://open.spotify.com/album/2yinRx0UEk2X5OgCOBSXhI) | 3:11 | 2022-11-22 |  |
 | [Recurring Dream](https://open.spotify.com/track/2khbT2HgtSdSwZt60gDe71) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [In Letters](https://open.spotify.com/album/7LynSi0f8LcV6IhOppGeZG) | 4:13 | 2022-05-19 |  |
 | [Red Sheep Fom Hill](https://open.spotify.com/track/5SXXqDmDYBBThqafTiwzni) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XVIII](https://open.spotify.com/album/6KSHRNQJG4N4m3KHA29foi) | 9:03 | 2022-05-19 | 2022-07-29 |
@@ -131,6 +131,7 @@
 | [Weightless Part 1](https://open.spotify.com/track/2UZZtkoLOg7IHxeTAdPFvd) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Weightless \(Ambient Transmission Vol\. 2\)](https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR) | 8:06 | 2022-05-19 |  |
 | [What a day I](https://open.spotify.com/track/4rCMha9h0PZ3ghhnO2ykim) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XXIIVoid XXIIII](https://open.spotify.com/album/2RhfFJKxFTEVTOYlNcqELm) | 5:34 | 2022-05-19 |  |
 | [Your Way](https://open.spotify.com/track/6FDJwjtEaug5O8F8R1j5A4) | [Old Futures](https://open.spotify.com/artist/6GqHocik7Id2Em8f7Gv0Z1) | [Your Way](https://open.spotify.com/album/0k28sUPUtxguPEe9Ww9ruO) | 2:42 | 2022-07-22 |  |
+| [yuugata](https://open.spotify.com/track/65pNFP4VlE4PFKuEKbkpT4) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Soyogu](https://open.spotify.com/album/0udr94g55aVGIq8zXy60X7) | 3:02 | 2023-04-28 |  |
 | [Zenith](https://open.spotify.com/track/5ewt0YJYj6aDSurpOEdc9i) | [Midnight Mind](https://open.spotify.com/artist/1rDV5AYJuH7naNI56lUWIf) | [Zenith](https://open.spotify.com/album/63Jrpo23ArGvLOU0CnJykQ) | 3:01 | 2023-03-03 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

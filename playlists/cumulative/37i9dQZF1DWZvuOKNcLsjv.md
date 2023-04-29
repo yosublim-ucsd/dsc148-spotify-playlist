@@ -4,7 +4,7 @@
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Kim Petras & Nicki Minaj
 
-782 songs - 1 day 21 hr 29 min
+783 songs - 1 day 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Better Love](https://open.spotify.com/track/1UTHkifQMS6znmSx2Svobk) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Better Love](https://open.spotify.com/album/0delJu1UUzdBfufg94lbME) | 2:18 | 2023-03-05 | 2023-03-20 |
 | [Better Man](https://open.spotify.com/track/2BHbnX2TI08CyUa9gWFeqK) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 2:52 | 2023-04-09 | 2023-04-17 |
 | [BETTING](https://open.spotify.com/track/2D4FPjRVAWPGZUnO3Qzz8d) | [香取慎吾](https://open.spotify.com/artist/23aPUZaR8bESXN4UD3T2Sx), [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [BETTING](https://open.spotify.com/album/5tVF9innz1XK3xj72Phi7e) | 3:18 | 2023-01-29 | 2023-02-06 |
-| [BIJIN \(Remix\) \[feat\. Awich\]](https://open.spotify.com/track/5SM8QpMEOij9cNxKsSP00T) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [BIJIN \(Remix\) \[feat\. Awich\]](https://open.spotify.com/album/7bGgGsoAvQVXeKeZBJGro3) | 2:39 | 2023-04-23 |  |
+| [BIJIN \(Remix\) \[feat\. Awich\]](https://open.spotify.com/track/1rfUCbfXaJexlYGjL3HZaa) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Naked](https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd) | 2:39 | 2023-04-23 |  |
+| [BIJIN \(Remix\) \[feat\. Awich\]](https://open.spotify.com/track/5SM8QpMEOij9cNxKsSP00T) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [BIJIN \(Remix\) \[feat\. Awich\]](https://open.spotify.com/album/7bGgGsoAvQVXeKeZBJGro3) | 2:39 | 2023-04-23 | 2023-04-29 |
 | [birthday](https://open.spotify.com/track/595BnrEjRcyGKJRHUhY7pp) | [VaVa](https://open.spotify.com/artist/5JlRv2tBZk1f4c7UULHkUY) | [Love Less](https://open.spotify.com/album/2wpvhHdDAVsvPoPnB8palN) | 2:56 | 2023-04-09 | 2023-04-17 |
 | [BLACK COFFEE](https://open.spotify.com/track/7nVJUCN42beJPJbEbn1lwr) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [BLACK COFFEE](https://open.spotify.com/album/7nlneqSLyMw8mNmqZTAbFm) | 2:59 | 2023-03-26 | 2023-04-17 |
 | [blank](https://open.spotify.com/track/0mCU3aD3HozXVP6njtWPxW) | [claquepot](https://open.spotify.com/artist/1084DFZH8ILq4T5CMqBwe9) | [blank](https://open.spotify.com/album/70EnPXY5zPGvPm0CO4Z89s) | 3:21 | 2023-02-26 | 2023-03-27 |

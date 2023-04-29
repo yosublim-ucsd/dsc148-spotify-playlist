@@ -270,7 +270,7 @@
     {
       "album": {
         "name": "Don't Leave Me",
-        "url": "https://open.spotify.com/album/5younwrp5jJoG1iopcoLRV"
+        "url": "https://open.spotify.com/album/5d8faanLu8YO39Q73Hzbqt"
       },
       "artists": [
         {
@@ -281,6 +281,24 @@
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 212866,
+      "name": "Don\u2019t Leave Me (Chapter 1: Despair)",
+      "url": "https://open.spotify.com/track/1JIlGLcnahiv1eWoqJK1m6"
+    },
+    {
+      "album": {
+        "name": "Don't Leave Me",
+        "url": "https://open.spotify.com/album/5younwrp5jJoG1iopcoLRV"
+      },
+      "artists": [
+        {
+          "name": "HMLTD",
+          "url": "https://open.spotify.com/artist/0yd6o6a2MaOjsF1SglI4Hw"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
       "duration_ms": 212866,
       "name": "Don\u2019t Leave Me (Chapter 1: Despair)",
       "url": "https://open.spotify.com/track/7nhItOdjPls6dqewYNSXRT"

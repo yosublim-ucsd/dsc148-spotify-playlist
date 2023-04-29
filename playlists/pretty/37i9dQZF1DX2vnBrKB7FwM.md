@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 
 > Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: La Etnnia
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,979 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,007 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 | 35 | [Take It Easy](https://open.spotify.com/track/5AlT85aYdhGZu212LSLB8t) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Chuchú Bermudas](https://open.spotify.com/artist/6U7WIxAxxx1PLPfFH8AwHX) | [Take It Easy](https://open.spotify.com/album/3nOR8swBmPBO9f1USrjxp2) | 3:21 |
 | 36 | [Cara/Cruz](https://open.spotify.com/track/2KmRADR0BFvChKNAI24cTc) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Willie DeVille](https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5) | [Cara/Cruz](https://open.spotify.com/album/5EOcbsuFDolPWVLSeZb02m) | 3:44 |
 | 37 | [Caos](https://open.spotify.com/track/7FWgYHUUMKNjQar2oFkLv5) | [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe) | [Juegos de Azar](https://open.spotify.com/album/3COocsnqFmmlyI8W7vSaeY) | 4:07 |
-| 38 | [Discúlpame](https://open.spotify.com/track/31SdxR0JGQ2kX9fCC5z50u) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Palabras del Alma](https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV) | 2:24 |
+| 38 | [Discúlpame](https://open.spotify.com/track/31SdxR0JGQ2kX9fCC5z50u) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Palabras del Alma](https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV) | 2:24 |
 | 39 | [Pantone](https://open.spotify.com/track/0DW6Q5KTqkf1Lh2ROqmKWu) | [No Rules Clan](https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv), [Ignorancia Sofisticada](https://open.spotify.com/artist/2VqPCXF4QWaR9Xto4xN4YX) | [Pantone](https://open.spotify.com/album/4KIYSo2O5ZqH03VeHXsWNX) | 2:37 |
 | 40 | [Vaca Pa' Volar](https://open.spotify.com/track/55GfT7VzO2BTD1it7OO8Hw) | [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [ZetaZeta](https://open.spotify.com/artist/5Njezu4xqAnJWdyzDf5gW7), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Vaca Pa' Volar](https://open.spotify.com/album/5w9B7dTYGWi0UeuKdVPeNF) | 3:09 |
 | 41 | [Parpadeos](https://open.spotify.com/track/7jeTgr89idzEp8uv111bPN) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Vergüenza Propia](https://open.spotify.com/album/6G7bf3U6XL6Fo0E2yh8MXD) | 3:02 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 | 71 | [Coctel Espacial](https://open.spotify.com/track/1JySgFKxTEWqfzoxWZd33U) | [Lianna](https://open.spotify.com/artist/0DvVlPVedwq6LF3jQqkZXa), [Gambeta](https://open.spotify.com/artist/1ansBUwEboqKX6Fm31txU4) | [Coctel Espacial](https://open.spotify.com/album/4wnzzKCaQ0yYYDVHNV0tBk) | 3:46 |
 | 72 | [Dando Saltos](https://open.spotify.com/track/5vGSJRUnhGvQoxEBtn6vez) | [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Serenata Sin Mariachis](https://open.spotify.com/album/35t877YggZ2nnsg5lhC5JD) | 2:16 |
 | 73 | [Quién Pidió Pollo](https://open.spotify.com/track/3eg52bwJ7r5Ma9ZmLOGAts) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Círculo Vicioso](https://open.spotify.com/album/31HSq8pOXZCts7GqWXTRU1) | 3:52 |
-| 74 | [Deja](https://open.spotify.com/track/6Kc4xRgbOxNqoVoXIP6h4e) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Mestizo](https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw) | 3:31 |
+| 74 | [Deja](https://open.spotify.com/track/6Kc4xRgbOxNqoVoXIP6h4e) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Mestizo](https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw) | 3:31 |
 | 75 | [Horas Extras](https://open.spotify.com/track/5oFX4zn4CIDN0l2RCVuObT) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53), [DJ Dmoe](https://open.spotify.com/artist/0UO7aldjXU5OjHiYKXUwrK) | [Todos Tienen Que Comer](https://open.spotify.com/album/6vPnYHNVtdT9V76xUy3e2d) | 3:52 |
 
-Snapshot ID: `MCw1YjQzMmI4M2QzMWVlMzkyNTMyYWViMWU3ZDllYzZkMmNlZjk3ZWRj`
+Snapshot ID: `MCxlMTQ1OGQ0ODA4YmZlMWQzZDgxMzBkM2RmMmRiNDdhNDE5NmQ2MjIy`

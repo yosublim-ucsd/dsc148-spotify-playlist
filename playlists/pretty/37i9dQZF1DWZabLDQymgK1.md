@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 
 > Homoelectric is a legendary queer\-clubbing utopia, creating a safe space at the heart of Manchester’s LGBTQIA+ scene\. This is their sound of Pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,529 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,540 likes - 50 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 | 3 | [Deceptacon \(DFA Rmx\) By Tim Goldsworthy & James Murphy for the Dfa](https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Remix](https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6) | 6:24 |
 | 4 | [Plaything](https://open.spotify.com/track/3CRuaG93yRRpSkPjTwsjF9) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Plaything / Like](https://open.spotify.com/album/2PYTm1KTUE0pwZcUoW8jm1) | 6:03 |
 | 5 | [Closing Shot \(Radio Edit\)](https://open.spotify.com/track/2ffZME1OiF4Qlxz8DVHoZl) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [Closing Shot](https://open.spotify.com/album/1skGl2lZ48OV8KUalrFBPD) | 4:28 |
-| 6 | [Cruel Intentions](https://open.spotify.com/track/3SqAKs0U1O8GRnzSxUPFdN) | [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Anthology: 10 Years of SMD](https://open.spotify.com/album/5PDs76t91ubJ3KJUGUTgiE) | 3:04 |
+| 6 | [Cruel Intentions](https://open.spotify.com/track/2LKMQehYihia1pPFhNEeG6) | [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Anthology: 10 Years of SMD](https://open.spotify.com/album/3fmx23Qtgjkq3jASadS5JC) | 3:04 |
 | 7 | [Things That Dreams Are Made Of \- Instrumental / Remix / Remaster 2002](https://open.spotify.com/track/12Oh5ewLqFbcMpfYpqp9Ux) | [The League Unlimited Orchestra](https://open.spotify.com/artist/7G7TTMHdSQFMmYoFmoVQiY), [Martin Rushent](https://open.spotify.com/artist/1fd2blxXQa111coetJPkUI) | [Love And Dancing](https://open.spotify.com/album/0hwRPVBP33XamxIm0Co1hU) | 5:08 |
 | 8 | [Homosapien](https://open.spotify.com/track/7gBZxDfVolYTmpJ8eBCU68) | [Pete Shelley](https://open.spotify.com/artist/7r2lG8Ui6vGHAgsKlE8Hd8) | [Homosapien](https://open.spotify.com/album/59sf1CK6QyJ5DDaeru4xqG) | 4:34 |
 | 9 | [Hold It/Control It](https://open.spotify.com/track/7wQdeiZwrwMdJTwuw4syaH) | [Rex The Dog](https://open.spotify.com/artist/5zbQoW1WWTzvITE8w4ckoC) | [Crasher](https://open.spotify.com/album/7nhRhJ0XUNWt5malAs9q67) | 6:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 | 49 | [Like a Prayer \(Churchapella\)](https://open.spotify.com/track/4UX7TUsMu6QVPoBdpBEEqB) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like A Prayer](https://open.spotify.com/album/2qmMKmWqpPbsd6dKrZXgSV) | 6:08 |
 | 50 | [Say Hello, Wave Goodbye \- 7" Single Version](https://open.spotify.com/track/0Lx6O1tC3CPF1giLJIt5Jv) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 5:23 |
 
-Snapshot ID: `MCw5N2I5ZjM5ZTFlMDdhYmE1ODMxYWQ0OTU0MmE2NTdkMWQ1NjJmZmYz`
+Snapshot ID: `MCxlYTc3NTNhYzEwMzgwMDczMjJmNGE0MDNhZGFlYWNhY2E2NjVhMTcw`

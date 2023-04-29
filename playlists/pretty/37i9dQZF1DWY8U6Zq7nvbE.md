@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > The best from the world of acoustic songs and pop covers right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,130,693 likes - 179 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,130,711 likes - 179 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 9 | [Pumped Up Kicks](https://open.spotify.com/track/2TfGvs7TY0NB1lblUVVFXy) | [City Sessions](https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g), [Citycreed](https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc) | [Pumped Up Kicks](https://open.spotify.com/album/4nKXb6pbqWLC72Ri695FTf) | 2:09 |
 | 10 | [Body like backroad](https://open.spotify.com/track/4ftzIVYZ1lhBiQO3vuUfq0) | [Samuel Pine](https://open.spotify.com/artist/59FqDnWsY5WbBqDR5YE2nv) | [Body like backroad](https://open.spotify.com/album/2Bg7RrVYb7rjo314fI5vkO) | 2:48 |
 | 11 | [Attention](https://open.spotify.com/track/3gfj8KspdXnjhE60lCtau6) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [Attention](https://open.spotify.com/album/0LFGuTTSzJriA5NueC6uNI) | 2:58 |
-| 12 | [The Boy's A Liar](https://open.spotify.com/track/1EOdKbgizAfNRV6j2Rm3E3) | [Macy Ellen](https://open.spotify.com/artist/3KwkTBHTZViURYGQrl266L) | [The Boy's A Liar](https://open.spotify.com/album/0ZmhHFfrXJ7ItNaIgHtQXQ) | 3:40 |
+| 12 | [Boy's A Liar](https://open.spotify.com/track/1EOdKbgizAfNRV6j2Rm3E3) | [Macy Ellen](https://open.spotify.com/artist/3KwkTBHTZViURYGQrl266L) | [Boy's A Liar](https://open.spotify.com/album/0ZmhHFfrXJ7ItNaIgHtQXQ) | 3:40 |
 | 13 | [Flowers](https://open.spotify.com/track/1AOKBOPdN4pnULaZsp362f) | [Fox & Hart](https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH) | [Flowers](https://open.spotify.com/album/4ESX1cbhfchPo9HXYwethh) | 3:34 |
 | 14 | [Keep You Mine \- Acoustic](https://open.spotify.com/track/0Rp4jmwBigtBymrPsMCt3G) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Keep You Mine \(Acoustic\)](https://open.spotify.com/album/2VdpWk3vlznP9XCDpr3tmG) | 3:03 |
 | 15 | [Golden Hour](https://open.spotify.com/track/4fiMHTOM1LyoqUKxCj540L) | [Sarah Kristine](https://open.spotify.com/artist/6WfvaZWV6UXdkzG9oQCxw9) | [Golden Hour](https://open.spotify.com/album/1hBcP9vQCIkoKfJRtGh4zX) | 3:49 |
@@ -188,4 +188,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 178 | [Thunder](https://open.spotify.com/track/0H20PIDhzGnoOOYE6VC1TX) | [Fink's Mood](https://open.spotify.com/artist/1iUB72crNwlgJybWBA5Fl8) | [Thunder](https://open.spotify.com/album/5DphHIaiZBFZvI1epMUjMZ) | 2:51 |
 | 179 | [Boyfriend](https://open.spotify.com/track/7aq8uaeA9Uo1yu7HkiEGcG) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Boyfriend](https://open.spotify.com/album/7r7rQgJcP9VU2uDV4uQfJo) | 2:59 |
 
-Snapshot ID: `MCwwNjRhZmE2OWMwMzMzNTBlNTJlMmU3NTBlYjQwYTc5OTZmMzIwNmQ5`
+Snapshot ID: `MCwyNDVjNTc5YTAyOTFlMjQzMzc4MGQ0OTEzYjEyZDc5ZDBjYmVjMjc3`

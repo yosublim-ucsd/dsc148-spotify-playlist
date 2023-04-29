@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTAq251RdAA.md) - [plain]
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the <a href="https://artists.spotify.com/songwriter/3EOfjHuLO7f2VbwNGu0Tqg">songwriter's</a> own covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,314 likes - 81 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,316 likes - 81 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTAq251RdAA.md) - [plain]
 | 23 | [Big Yellow Taxi](https://open.spotify.com/track/2BhDazuH5PZqsX0LyM0D56) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Dylan \(1973\)](https://open.spotify.com/album/08D6t1zCh2Csoyw92xmo7p) | 2:13 |
 | 24 | [Both Sides Now](https://open.spotify.com/track/6qodhMsnxzT5AaWJvNm0pz) | [Dave Van Ronk](https://open.spotify.com/artist/6QmHysWvckkQR74oxmLmtz) | [The Mayor Of MacDougal Street: Rarities 1957\-1969](https://open.spotify.com/album/7ppsSKyut4ssQyxbju7itg) | 5:14 |
 | 25 | [Chelsea Morning](https://open.spotify.com/track/25k4vodN4qp6yo1KeytvlX) | [Fairport Convention](https://open.spotify.com/artist/2LIdnZDzySb04oH40be1fR) | [Meet On The Ledge: The Classic Years \(1967\-1975\)](https://open.spotify.com/album/6lHi6BAQFyyoEviq9ii9ii) | 3:02 |
-| 26 | [Carey](https://open.spotify.com/track/2dWdBBlGwOVt0oSVxjiTsd) | [Barnstar!](https://open.spotify.com/artist/6mq7fEW2j0CKd5fRk7M0A7) | [Signature Sounds 20th Anniversary Collection: Favorites and Rarities from the Second Decade](https://open.spotify.com/album/7eYCfiBKynNZ6V5W3iP3cE) | 4:43 |
+| 26 | [Carey](https://open.spotify.com/track/7ghutWGTqrfxumja5reNZT) | [Barnstar!](https://open.spotify.com/artist/6mq7fEW2j0CKd5fRk7M0A7) | [Signature Sounds 20th Anniversary Collection: Favorites and Rarities from the Second Decade](https://open.spotify.com/album/1em3LFkzBu9h4zN7iWwCmA) | 4:43 |
 | 27 | [Banquet](https://open.spotify.com/track/4MKxLTblXPEiqvoQD2oCrV) | [Lani Hall](https://open.spotify.com/artist/6vIMSnFRkGcJNE776F2TEJ) | [Hello It's Me](https://open.spotify.com/album/0coWSG094Dtt06Y6j5qLJ7) | 2:50 |
 | 28 | [Answer Me My Love](https://open.spotify.com/track/0obRrA4TliCSPth0KCB8E4) | [Tierney Sutton](https://open.spotify.com/artist/2jc5EP16xf145WUYvolSVm) | [After Blue](https://open.spotify.com/album/0FnjNNMGnXCh6OYi4sYY8l) | 3:45 |
 | 29 | [A Strange Boy](https://open.spotify.com/track/7mqmXGqSa94HHjxZW89qVs) | [Brian Kennedy](https://open.spotify.com/artist/4xZbU7XXrgG0U2e3MIEXmS) | [A Love Letter to Joni](https://open.spotify.com/album/65OmoZaXDhH6ApwM3WW2BD) | 4:18 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTAq251RdAA.md) - [plain]
 | 32 | [Black Crow](https://open.spotify.com/track/2PGBKxAZJxYGxajZ7iO5ai) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Girl In The Other Room](https://open.spotify.com/album/7dZFqyK7mEYr3tyatC7k0s) | 4:47 |
 | 33 | [Coyote](https://open.spotify.com/track/6q8i85ue3U9b8en5bP2vmJ) | [Colleen Rennison](https://open.spotify.com/artist/0c3wNrQ1fIc6qftYvV9U1Z) | [See The Sky About To Rain](https://open.spotify.com/album/5kQK7JhGUKsQnRQ7fGxxfb) | 5:29 |
 | 34 | [Cherokee Louise](https://open.spotify.com/track/6A5HTcHSCTlE4IIRQ2l0bp) | [Wendy Matthews](https://open.spotify.com/artist/67PiUcvCvLFNUNBiKagzQm) | [She](https://open.spotify.com/album/6Jr70o6UUEwgbgIUaqHX2R) | 4:23 |
-| 35 | [For Free](https://open.spotify.com/track/4k2CLQIUsaZCeV4Qq5y4y9) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Traveling Companion](https://open.spotify.com/album/4l5Q6s5tM1tmzdzv3MxvKp) | 4:57 |
+| 35 | [For Free](https://open.spotify.com/track/3nyfbWgY1vLUxYju5EIHc5) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Traveling Companion](https://open.spotify.com/album/40ROVX9mREfN3iGzAAketD) | 4:57 |
 | 36 | [In France They Kiss On Main Street](https://open.spotify.com/track/6A7tWLzZD2hO029u7wMufG) | [Ian Shaw](https://open.spotify.com/artist/33efc063lJ6SDlp6hGCV1b) | [The Theory of Joy \(Deluxe Edition\)](https://open.spotify.com/album/7Bbuu17enFFMTcgmcF7ba9) | 3:57 |
 | 37 | [Urge for Going](https://open.spotify.com/track/3XRa2o4kHXKMiW5yKExpU4) | [Darrell Scott](https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0) | [Live at the Station Inn](https://open.spotify.com/album/38PPCZq4TzsteLgmgawwFq) | 4:06 |
 | 38 | [He Comes For Conversation](https://open.spotify.com/track/3gjw8s33u7PlpzsK42QRjs) | [Klaudia & Rico With The Flying Helmets](https://open.spotify.com/artist/0P0FsLVbO0NyvOgmbzYkoY) | [At The Same Place Twice In Life](https://open.spotify.com/album/1DN9FlBmzIrU5nVmCOUuJ7) | 6:05 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTAq251RdAA.md) - [plain]
 | 80 | [Woodstock](https://open.spotify.com/track/36MxthZNeNmBEGZLC5TZYN) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 5:19 |
 | 81 | [Down to You \(My Confidante\)](https://open.spotify.com/track/71vOaA56rhZ4UxlCdVhHqn) | [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [Down to You \(My Confidante\)](https://open.spotify.com/album/5kreh8RvjTaep5mnW4w6GJ) | 4:07 |
 
-Snapshot ID: `MCxhMjMzMzhjMTRmMTk1Yjg2YmZiYTFkZThjOTBiYzI5NmJkNzk2YjFm`
+Snapshot ID: `MCxlMjAyYjJiNDYyYzk4MTY2NGNjNjU5ZGJkMDk4ZWFjZjRhMzY0OGEz`

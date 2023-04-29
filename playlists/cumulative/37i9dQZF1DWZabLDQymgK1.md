@@ -4,7 +4,7 @@
 
 > Homoelectric is a legendary queer\-clubbing utopia, creating a safe space at the heart of Manchester’s LGBTQIA+ scene\. This is their sound of Pride.
 
-68 songs - 6 hr 17 min
+69 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Closing Shot \(Radio Edit\)](https://open.spotify.com/track/2ffZME1OiF4Qlxz8DVHoZl) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [Closing Shot](https://open.spotify.com/album/1skGl2lZ48OV8KUalrFBPD) | 4:28 | 2021-06-02 |  |
 | [Closing Shot \- Radio Edit](https://open.spotify.com/track/5CcJXOp5pTsh4rZRMiiNJp) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [Closing Shot](https://open.spotify.com/album/4FTzWteiP0vCyT9h3dz7G3) | 4:28 | 2021-06-02 | 2022-07-29 |
 | [Cruel Intentions](https://open.spotify.com/track/2AniSqPm1vYTTNqUEGkgn3) | [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Temporary Pleasure](https://open.spotify.com/album/0loitStosJM4u6vpb6BfCs) | 3:04 | 2021-06-02 | 2022-11-14 |
-| [Cruel Intentions](https://open.spotify.com/track/3SqAKs0U1O8GRnzSxUPFdN) | [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Anthology: 10 Years of SMD](https://open.spotify.com/album/5PDs76t91ubJ3KJUGUTgiE) | 3:04 | 2021-06-02 |  |
+| [Cruel Intentions](https://open.spotify.com/track/2LKMQehYihia1pPFhNEeG6) | [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Anthology: 10 Years of SMD](https://open.spotify.com/album/3fmx23Qtgjkq3jASadS5JC) | 3:04 | 2021-06-02 |  |
+| [Cruel Intentions](https://open.spotify.com/track/3SqAKs0U1O8GRnzSxUPFdN) | [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Anthology: 10 Years of SMD](https://open.spotify.com/album/5PDs76t91ubJ3KJUGUTgiE) | 3:04 | 2021-06-02 | 2023-04-29 |
 | [Cruel Intentions](https://open.spotify.com/track/4hAIqKaclz1HRb3JckcJPq) | [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Temporary Pleasure](https://open.spotify.com/album/4eGMC4sHGcy1dkf9nPH4fu) | 3:04 | 2021-06-02 | 2022-07-29 |
 | [Dancer](https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4) | [Gino Soccio](https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE) | [Outline](https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V) | 8:28 | 2021-06-02 |  |
 | [Days Like This \(Spinna & Ticklah Mix\)](https://open.spotify.com/track/5Sq75inr2e6CBcUwLEDbLo) | [Shaun Escoffery](https://open.spotify.com/artist/4QQV60vtp1G3XReD6dWgNz) | [Shaun Escoffery](https://open.spotify.com/album/00I8nPkKbU28TjPtArLJWI) | 5:29 | 2021-06-02 |  |

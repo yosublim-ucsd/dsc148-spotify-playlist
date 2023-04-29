@@ -1845,6 +1845,28 @@
     },
     {
       "album": {
+        "name": "If You See Him, If You See Her (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0Q2NGzdPFp05YAaLRqudLk"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        },
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239937,
+      "name": "If You See Him, If You See Her - Acoustic Version",
+      "url": "https://open.spotify.com/track/2BwIm4JJJOv4lbfskscKW1"
+    },
+    {
+      "album": {
         "name": "Greenfields: The Gibb Brothers' Songbook (Vol. 1)",
         "url": "https://open.spotify.com/album/3IFJ7ZGMjHErGmW9NAOdkp"
       },
@@ -3038,6 +3060,28 @@
       "duration_ms": 172314,
       "name": "That Drink (feat. Neal McCoy)",
       "url": "https://open.spotify.com/track/0v7T0g9Uh8LE1x2oOD7f9X"
+    },
+    {
+      "album": {
+        "name": "The Car",
+        "url": "https://open.spotify.com/album/0KsF1unjWjasy5xL1QV1SJ"
+      },
+      "artists": [
+        {
+          "name": "Jeff Carson",
+          "url": "https://open.spotify.com/artist/1THO5gJEaoKK9ey0aZbCQE"
+        },
+        {
+          "name": "Michael Ray",
+          "url": "https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215413,
+      "name": "The Car",
+      "url": "https://open.spotify.com/track/4CDp5Zrb2glB5LmyjzjzUH"
     },
     {
       "album": {

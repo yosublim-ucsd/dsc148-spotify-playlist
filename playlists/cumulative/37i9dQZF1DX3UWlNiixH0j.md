@@ -4,14 +4,14 @@
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: TENDOUJI
 
-425 songs - 1 day 2 hr 46 min
+426 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Da Da Da\) Day Ones \- feat\. Sagiri Sól](https://open.spotify.com/track/0LA15b3Bs8tuTnIA8KeNJn) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb) | [\(Da Da Da\) Day Ones](https://open.spotify.com/album/0JtKzPOrwgHIZVjZruHN38) | 3:02 | 2023-03-30 | 2023-04-28 |
 | [\(許\)](https://open.spotify.com/track/1xs6WitcjTsWEhmGtWFbog) | [the dadadadys](https://open.spotify.com/artist/0WhmTXYYR573yJqqTtU2RL) | [だ](https://open.spotify.com/album/5JcQoeSebNsxWEF3Pu5FiO) | 4:15 | 2023-03-21 | 2023-03-29 |
 | [1/2 SLEEP \-半分寝てる\-](https://open.spotify.com/track/5Fm7NT5HjWONIM00j8ht2R) | [蓮沼執太フィル](https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5) | [1/2 SLEEP \-半分寝てる\-](https://open.spotify.com/album/7zD8nN4p6Qsvg0E8CLPH7Y) | 2:51 | 2023-02-14 | 2023-02-22 |
-| [1096](https://open.spotify.com/track/7Ld2efllkAfXdSOkAqPNwu) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [1096](https://open.spotify.com/album/2Cf2vmP3ffvd5n1Qo1UFNY) | 5:45 | 2023-03-30 |  |
+| [1096](https://open.spotify.com/track/7Ld2efllkAfXdSOkAqPNwu) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [1096](https://open.spotify.com/album/2Cf2vmP3ffvd5n1Qo1UFNY) | 5:45 | 2023-03-30 | 2023-04-29 |
 | [A Bit On The Side](https://open.spotify.com/track/1f9nwOMTtMSLYvVreTnSyg) | [BOARD](https://open.spotify.com/artist/3Gw0SqmSLgqAtdouGnMste) | [EP](https://open.spotify.com/album/2nFumk9wFMFhKU6FgiVcLL) | 2:02 | 2023-04-25 |  |
 | [A Thousand Miles](https://open.spotify.com/track/6TtYOU0GiN4PkN9oCvMvLx) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [A Thousand Miles](https://open.spotify.com/album/3E1GIabiOGaJDlHkX0iX4D) | 3:38 | 2023-04-11 |  |
 | [A.Y.A](https://open.spotify.com/track/69JDZpQd5oHd0BVUh0RDCO) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [A.Y.A](https://open.spotify.com/album/6Ay96Z1STLD5A6pXo9Qudu) | 3:40 | 2023-02-14 |  |
@@ -138,6 +138,7 @@
 | [irk](https://open.spotify.com/track/1v5w6qzUug2apEg3PUsOY7) | [the McFaddin](https://open.spotify.com/artist/7oQqfiFFldAKKVA91oc5Lv) | [WH3Nwh3re](https://open.spotify.com/album/6gwVTUoyp5t5FY9NE17oHx) | 3:44 | 2023-03-21 | 2023-03-29 |
 | [It Is What It Is](https://open.spotify.com/track/68uZVWUH97VOOpelnxhIjN) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [It Is What It Is](https://open.spotify.com/album/4w9Vdz9SzDnqEEWEYN0Kzk) | 2:41 | 2023-01-31 | 2023-03-01 |
 | [It's all about you](https://open.spotify.com/track/4D8vdQENwuYMbcaYG0ZKcr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [It's all about you](https://open.spotify.com/album/2Nle2je0kLudi6kk0PJsuA) | 3:11 | 2023-03-30 |  |
+| [Jam](https://open.spotify.com/track/5xt9N7xhDqEpp6NIdMCUux) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [Jam](https://open.spotify.com/album/6yGcdAn7qspsakb8jdPtbp) | 4:05 | 2023-04-27 |  |
 | [Jimmy](https://open.spotify.com/track/43w8P0srZycFKeKf04etpG) | [Giallo](https://open.spotify.com/artist/4BlSVJE8kmeUwTaDYLZgwU) | [Jimmy](https://open.spotify.com/album/7jsC0HrAcsIjfhrQEwYVT0) | 2:19 | 2023-04-11 | 2023-04-26 |
 | [Just Wanna Live It Up](https://open.spotify.com/track/5cqsYIfTp31RBjyJURiku7) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [Just Wanna Live It Up](https://open.spotify.com/album/0ZovDMTQVxsIrCBffLVH49) | 4:46 | 2023-04-04 | 2023-04-12 |
 | [Kakitai](https://open.spotify.com/track/2zKDI5j1TARoklb76FJ2CW) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Sweet.ep](https://open.spotify.com/album/2D2D5bX44DRCqC9ON4hGJF) | 3:44 | 2023-04-11 |  |

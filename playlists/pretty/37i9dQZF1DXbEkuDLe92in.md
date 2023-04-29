@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEkuDLe92in.md) - [plain]
 
 > Beautiful classical Indian Ragas to soundtrack your Yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,627 likes - 53 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,681 likes - 53 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEkuDLe92in.md) - [plain]
 | 42 | [Raaga Kafi \- Teentaal](https://open.spotify.com/track/4G526MTBK3TpdNBpvvYO3Z) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P), [Ajeet Pathak](https://open.spotify.com/artist/6RewthLD9pGHUn5dmLVaBh) | [Seven Raagas](https://open.spotify.com/album/2DhxWPxZBSFirR62g3I4Zd) | 7:30 |
 | 43 | [Guru: Raga Jogeshwari \- Jod, Jhala](https://open.spotify.com/track/0aoSkr47lLA6irEzU9kfdl) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU), [Kenji Ota](https://open.spotify.com/artist/040krAnKe0UWfJkm7NBMyT) | [Reflections](https://open.spotify.com/album/1PLFjFH557aoApbm2t9OtZ) | 3:59 |
 | 44 | [Raga Jhinjhoti \- Alap](https://open.spotify.com/track/5TwyVQzzKcTVSNqDC9ojWP) | [Satish Vyas](https://open.spotify.com/artist/5VjvnatSJPsJtYQIX2qOlV) | [Cutting Edge](https://open.spotify.com/album/5jrFE5JZsHBnC7UqRx9JV7) | 5:57 |
-| 45 | [Prema Chakor](https://open.spotify.com/track/6pwSMTkChJf5uYM5vzjWKN) | [Debashish Bhattacharya](https://open.spotify.com/artist/1gluErp8xTWWbjs6kh3Qjb) | [Calcutta Slide\-Guitar](https://open.spotify.com/album/10xA7rIoH7opaKQHlG4SBv) | 9:20 |
+| 45 | [Prema Chakor](https://open.spotify.com/track/1jQrEqbsOc7k3pW8MIoLSs) | [Debashish Bhattacharya](https://open.spotify.com/artist/1gluErp8xTWWbjs6kh3Qjb) | [Calcutta Slide\-Guitar](https://open.spotify.com/album/0RpC7t66S5SJB788nmngRc) | 9:20 |
 | 46 | [Raga Malya Maruttam](https://open.spotify.com/track/50T1URhUhohOCwKITl8kKD) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P) | [Pandit Ronu Majumdar: Master of the Indian Bansuri](https://open.spotify.com/album/4fCwRhix5LmrCTnfGhQSyg) | 18:03 |
 | 47 | [Raag Jhinjhoti](https://open.spotify.com/track/4ez9fZqF6ZZhLe9cWxXjQ5) | [Arnab Chakrabarty](https://open.spotify.com/artist/4Q71a45GZQftTkJRMYqtVn) | [De\-Stress Refresh](https://open.spotify.com/album/4KRf8I4ALrGL9vUrALCu2X) | 11:23 |
 | 48 | [Raga Shivaranjani \- Alaap and Jod](https://open.spotify.com/track/0mJb387czeAT18YUjtBSIS) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Mukundraj Deo](https://open.spotify.com/artist/4JMS6zNavFjxoH09RQq78D) | [Finesse On Flute](https://open.spotify.com/album/7dzYA4LH7OgBLoY4YYwpco) | 13:14 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEkuDLe92in.md) - [plain]
 | 52 | [Raag Jan Sammohini](https://open.spotify.com/track/5sOR6MZkrHWHKmHqvmrQuS) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Baluji Shrivastav](https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238) | [Baluji Shrivastav: Shadow of the Lotus \- Classical Indian Ragas](https://open.spotify.com/album/7sq7QZGY6o4mFaFnXns4DN) | 10:10 |
 | 53 | [Raga Shivaranjani \(Yearning\)](https://open.spotify.com/track/0KIsFToKwuGkPALbFxatlE) | [Ustad Usman Khan](https://open.spotify.com/artist/3HywltOSu9HsE3gG7yulzq) | [Nada Yoga: Music of the Mystic](https://open.spotify.com/album/2j2Fs9jZxDeDIQqvbqxyN9) | 9:03 |
 
-Snapshot ID: `MCw5MDVhOTZjZmU1NzcyZTE2Zjc3YWRmMTZmMTFlYzU5YzQ1NjI0MzEz`
+Snapshot ID: `MCxlZjlmODcwNGE5MTNhOWFiN2QxNTJlNjU3ZDE0Y2Y3MTQ5ZGI5YzZi`

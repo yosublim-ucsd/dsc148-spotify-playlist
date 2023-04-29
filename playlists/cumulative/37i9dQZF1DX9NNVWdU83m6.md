@@ -4,7 +4,7 @@
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-147 songs - 13 hr 33 min
+148 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Mezza Luna](https://open.spotify.com/track/4rHvDCZqfrm3yMMOKMwXft) | [PsychCloned](https://open.spotify.com/artist/4xMOnUYYtQbbqEUHxPXa0Y), [Camilo D.G.](https://open.spotify.com/artist/1H1jkHEUqtnoPmJPyCKo1R), [Space Hobo](https://open.spotify.com/artist/3CoCzt2Wu1GPYoKcxVf351) | [Melodic Trance](https://open.spotify.com/album/3EeUEdRJ3niaEtc0Wz0vfN) | 4:55 | 2022-07-15 |  |
 | [Never Ending](https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Never Ending](https://open.spotify.com/album/0SxjpfNg8pDyOEerHOa9uC) | 2:49 | 2021-01-27 |  |
 | [New Life](https://open.spotify.com/track/2FnvK6PpO25DmzCT7WsV2D) | [Flying Machines](https://open.spotify.com/artist/6I8hYLeHelhB4I4WGdxzjf), [Alex Munk](https://open.spotify.com/artist/5E2Y3Yb0uwuTK1400k0LId), [Matt Robinson](https://open.spotify.com/artist/7lGYGsStLXkooPtqVhjuQb), [Conor Chaplin](https://open.spotify.com/artist/4OL6krKLt3oWc2PA0MTSui), [Dave Hamblett](https://open.spotify.com/artist/7FeAapUDNO0OrtDOFuWPcg) | [New Life](https://open.spotify.com/album/1UvvMUsA0XNyyaWKYw5g8X) | 7:14 | 2021-01-27 |  |
+| [Noir Mambo](https://open.spotify.com/track/6nv9bERk9Wobhs1je4El9a) | [Troker](https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G) | [Noir Mambo](https://open.spotify.com/album/6emy3Dpmax22ePiukYrFgJ) | 4:59 | 2023-04-28 |  |
 | [Novruz](https://open.spotify.com/track/1wt244JqwcNQG0rGtbBCGi) | [Isfar Sarabski](https://open.spotify.com/artist/0x0L0GPzpsWGkB153avHaK) | [Planet](https://open.spotify.com/album/6m7NaFcbwtWwMghDnVDotL) | 5:32 | 2021-03-26 |  |
 | [Novruz](https://open.spotify.com/track/5a4psUHksmJQl6OXWSAJLC) | [Isfar Sarabski](https://open.spotify.com/artist/0x0L0GPzpsWGkB153avHaK) | [Novruz](https://open.spotify.com/album/5pUuSd6GdorUyn2dR0wGmm) | 5:32 | 2021-03-26 | 2022-07-27 |
 | [Ornithophobia](https://open.spotify.com/track/7ltIEsCk076HtkZRJaoA9g) | [Troyka](https://open.spotify.com/artist/0BxmFQFbzdxyrUlumvE7zz) | [Ornithophobia](https://open.spotify.com/album/71i59tB4Mw5xifmg0RRIoq) | 4:56 | 2021-01-27 |  |
@@ -112,7 +113,7 @@
 | [Sinopsis](https://open.spotify.com/track/5kGY5RULvvBHr2Y1PpATa7) | [Arthur Liory](https://open.spotify.com/artist/3tmfnaMiCdg2mTvs2RozxK) | [Sinopsis](https://open.spotify.com/album/2DOhAf4SNJeVCQgohwiJld) | 2:12 | 2022-12-09 |  |
 | [Snake Oil](https://open.spotify.com/track/415dIGsxo24JgyqmAun697) | [Tony Williams](https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe) | [Lifetime: The Collection](https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza) | 6:26 | 2021-01-27 |  |
 | [Social Abstract](https://open.spotify.com/track/4hP3qYXLy0xocXYeuEAE8x) | [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu), [Felix Buliks](https://open.spotify.com/artist/5HDeolVBVWUabGnIap2sho), [Ankadiov Subran](https://open.spotify.com/artist/2u0Msra1dmkHl0rRI1bigH), [Denis Junio](https://open.spotify.com/artist/42LqHOacC0AaCbAH9S3B1E) | [Social Abstract](https://open.spotify.com/album/42WoRZI4APMWNomQ7k5bPF) | 3:49 | 2021-09-03 |  |
-| [Sons of Creation](https://open.spotify.com/track/0JuPd6sug8NBmLPLMUsELk) | [Cameron Graves](https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP) | [Seven](https://open.spotify.com/album/24N4zsxdUCnH3340jhDvMX) | 4:21 | 2021-01-27 |  |
+| [Sons of Creation](https://open.spotify.com/track/0JuPd6sug8NBmLPLMUsELk) | [Cameron Graves](https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP) | [Seven](https://open.spotify.com/album/24N4zsxdUCnH3340jhDvMX) | 4:21 | 2021-01-27 | 2023-04-29 |
 | [Sons of Creation](https://open.spotify.com/track/5496y8zaZCBQULCo2lbDxh) | [Cameron Graves](https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP) | [Sons of Creation](https://open.spotify.com/album/1oPoiGcCidtKk1OgRXWCdo) | 4:21 | 2021-01-27 | 2022-07-29 |
 | [Spanish Eddie](https://open.spotify.com/track/0htP653pd2hS4KcpuKlbGt) | [The Aristocrats](https://open.spotify.com/artist/1V4jsLjkic1Mxvdke86Qth) | [You Know What...?](https://open.spotify.com/album/4o8lhtUGjSJxEWmxuy7lvw) | 6:56 | 2021-01-27 |  |
 | [Stadium Jazz](https://open.spotify.com/track/7B5p2XX9Prn5OkI5mye6gE) | [Donny McCaslin](https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M) | [Casting for Gravity \(feat\. Jason Lindner, Tim Lefebvre & Mark Guiliana\)](https://open.spotify.com/album/60GZJyntKspBvsw7J9TTki) | 7:17 | 2021-01-27 |  |

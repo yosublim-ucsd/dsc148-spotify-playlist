@@ -330,10 +330,28 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 204521,
       "name": "Everybody\u2019s Gotta Live",
       "url": "https://open.spotify.com/track/1Og2Qi5XwYdr0YI6rn79Zb"
+    },
+    {
+      "album": {
+        "name": "Reel To Real (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0cFWdL6nkWv8Gikq1RYS47"
+      },
+      "artists": [
+        {
+          "name": "Love",
+          "url": "https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204521,
+      "name": "Everybody\u2019s Gotta Live",
+      "url": "https://open.spotify.com/track/5ZSTPkWpGLrMPRyUhc3tlG"
     },
     {
       "album": {

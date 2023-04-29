@@ -514,7 +514,7 @@
     {
       "album": {
         "name": "Fugazi",
-        "url": "https://open.spotify.com/album/2HGQJZb8cMX6GlLCdNuciB"
+        "url": "https://open.spotify.com/album/0pWA7QKCSJl7pP5KE5ZHPh"
       },
       "artists": [
         {
@@ -525,6 +525,24 @@
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 266320,
+      "name": "Fugazi",
+      "url": "https://open.spotify.com/track/4gif6bJeeX82M3CYG9yJLE"
+    },
+    {
+      "album": {
+        "name": "Fugazi",
+        "url": "https://open.spotify.com/album/2HGQJZb8cMX6GlLCdNuciB"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
       "duration_ms": 266320,
       "name": "Fugazi",
       "url": "https://open.spotify.com/track/6iLpuiKY29qbQbRVJ4jb8O"

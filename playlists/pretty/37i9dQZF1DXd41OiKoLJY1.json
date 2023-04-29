@@ -1,12 +1,12 @@
 {
   "description": "Fresh releases from your future favorite artists. Cover: Aaron Obra Artwork: Isu Kim\n",
-  "num_followers": 54571,
+  "num_followers": 54588,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGJlNTYwNjM2NTM0ODg4MDAyYmI0N2IyMmFhNzk5YmIyNWM2NzIz",
+  "snapshot_id": "MCxiNDFhYjE3MWFmMGEzOWY4NDFhM2E1NjZkYTgyZDEwMjk0MGFmMTAx",
   "tracks": [
     {
       "added_at": "2023-04-27 16:00:00",
@@ -91,6 +91,22 @@
       "duration_ms": 339211,
       "name": "Acrylic Explosion",
       "url": "https://open.spotify.com/track/5E5nJ9F4z6OglKDPypRAQe"
+    },
+    {
+      "added_at": "2023-04-27 16:00:00",
+      "album": {
+        "name": "Kung mayaman lang ako",
+        "url": "https://open.spotify.com/album/0r8XVbx36ukJ8dMDCuudbS"
+      },
+      "artists": [
+        {
+          "name": "Uncle Dags",
+          "url": "https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l"
+        }
+      ],
+      "duration_ms": 168673,
+      "name": "Kung mayaman lang ako",
+      "url": "https://open.spotify.com/track/3wcCuldo3kT47C9hZfoSaD"
     },
     {
       "added_at": "2023-04-27 16:00:00",

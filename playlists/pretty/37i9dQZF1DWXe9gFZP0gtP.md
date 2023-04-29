@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 
 > Calm your mind with gentle piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,090,773 likes - 268 songs - 13 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,090,922 likes - 268 songs - 13 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 9 | [Star Light](https://open.spotify.com/track/2z3jtBK8vqwNIVQpN3lO78) | [Secret Medicine](https://open.spotify.com/artist/0tMQJ9EVT0vfsG67K867kR) | [Atlas Of Beauty](https://open.spotify.com/album/0P5IAGKQmeAU3ZIN0IQyxf) | 2:32 |
 | 10 | [Old Faro](https://open.spotify.com/track/5pmzx6GPMdYemqSxu3OSzi) | [On Dunes](https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x) | [Old Faro](https://open.spotify.com/album/2dQXdC3Npo8WFidjSikHpH) | 3:09 |
 | 11 | [Cinta](https://open.spotify.com/track/7icjqQq16HoJ00MDrkoeMg) | [Dalkhan Panova](https://open.spotify.com/artist/6KMc22ewdnaUlXvuijYVaV) | [Cinta](https://open.spotify.com/album/21BnnBlD0ssE2TzFwS87Pq) | 2:59 |
-| 12 | [The Wish](https://open.spotify.com/track/5KLneBT09UJRMHrCvPCQe0) | [Setareha](https://open.spotify.com/artist/5gV1FzhRvG4WhQXku1tUav) | [The Wish](https://open.spotify.com/album/1tmUGszdvl1lHeEx3IeyuD) | 3:49 |
+| 12 | [Heavy Cloud](https://open.spotify.com/track/3PnhtonoNabJjbuTxFqT2Z) | [Warren Blues](https://open.spotify.com/artist/3YG7KJgAF3q7udoynLzWXU) | [The East Wind](https://open.spotify.com/album/14GlV5L5ms2sQx8TQ2ygYW) | 3:42 |
 | 13 | [Malox](https://open.spotify.com/track/0faN9ArILphMbOj9v2qFfy) | [Dariela Tramma](https://open.spotify.com/artist/6jddJe2ccbe7PUUo6QNy7K) | [Magnetar Breath](https://open.spotify.com/album/2LTLIumOrfSFe4jtFNAWIm) | 3:18 |
 | 14 | [Whispered Views](https://open.spotify.com/track/7d1WTH2d7T3apIa8f6DVbe) | [Jon Laer](https://open.spotify.com/artist/3XZArTk2vsNiSzawsfi3XW) | [Whispered Views](https://open.spotify.com/album/7fmbUfpkcaqkSZOvR60WcY) | 2:52 |
 | 15 | [Zwijgzaam](https://open.spotify.com/track/2bpRF8CLQ9p0fPsuxGxgyF) | [Arend Van de Berg](https://open.spotify.com/artist/63jzbSMufVu89cATqsHgyn) | [Zwijgzaam](https://open.spotify.com/album/66DT8BwYSolG1NFg2sxirA) | 3:14 |
@@ -277,4 +277,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 267 | [Snowdonia](https://open.spotify.com/track/6JMuZsTQprhBrbywStSwer) | [Leah Day](https://open.spotify.com/artist/117FwIxp2OWDSWYr9X4j7o) | [Snowdonia](https://open.spotify.com/album/6OyZMyAiAtD2MJjAI91Irc) | 2:58 |
 | 268 | [Falling Stars](https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU) | [Delle Alpi](https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU) | [Falling Stars](https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS) | 2:38 |
 
-Snapshot ID: `MCxlZmIwYTU2Yjk0YWQzMjYzZDAxZTQ2ZWYzOWM5MTZiODc3ZmM3ZDBl`
+Snapshot ID: `MCwyM2I1ZjM1MzQ2MjA1MWZmYjRjZTdjNWJjMmM5OWU3YzcxZGNlZTA2`

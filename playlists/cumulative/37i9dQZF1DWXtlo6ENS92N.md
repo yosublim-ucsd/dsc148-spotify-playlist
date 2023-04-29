@@ -2,7 +2,7 @@
 
 ### [Bollywood Butter](https://open.spotify.com/playlist/37i9dQZF1DWXtlo6ENS92N)
 
-> B bole toh biggest blockbusters, right here! Koi Shaq? 😎 Cover \- Tu Jhoothi Main Makkaar
+> B bole toh biggest blockbusters, right here! Koi Shaq? 😎 Cover \- Jugjugg Jeeyo
 
 90 songs - 5 hr 51 min
 

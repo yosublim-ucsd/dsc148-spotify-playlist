@@ -2,7 +2,7 @@
 
 ### [FRONTEO](https://open.spotify.com/playlist/37i9dQZF1DX6jW9mPgBGv2)
 
-> El rango más alto\. Ellos lo tienen y lo saben\. Bizarrap y La Marash plantando cara.
+> El rango más alto\. Ellos lo tienen y lo saben\. Eladio "3MEN2 KBRN" Carrión plantando cara.
 
 79 songs - 5 hr 4 min
 

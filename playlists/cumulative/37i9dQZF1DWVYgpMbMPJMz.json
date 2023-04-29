@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP?si=WbS4KLxRSOaVvzHf2H_0yw\">Amanda Cook</a>",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v?si=22c30acde37743c7\">Brandon Lake</a>",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -948,7 +948,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 522994,
       "name": "Canvas & Clay (King of My Heart) [feat. DOE & Jonathan Traylor]",
       "url": "https://open.spotify.com/track/6amNHx1sQVZpsuAYkNO9n4"
@@ -4276,7 +4276,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 598622,
       "name": "More Than Able (feat. Chandler Moore & Tiffany Hudson)",
       "url": "https://open.spotify.com/track/0W8ibUIT6xe9LtWNJmyPim"
@@ -4816,7 +4816,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 559267,
       "name": "One Name (Jesus) - Live",
       "url": "https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c"
@@ -5669,6 +5669,24 @@
     },
     {
       "album": {
+        "name": "Show Me Your Glory (Live)",
+        "url": "https://open.spotify.com/album/1W5zJ4oPEYQbf5scIsfo7u"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 555729,
+      "name": "Show Me Your Glory - Live",
+      "url": "https://open.spotify.com/track/10nGOy0wVKIdn6CYzRiEfj"
+    },
+    {
+      "album": {
         "name": "Simple Kingdom (Live)",
         "url": "https://open.spotify.com/album/22q5gOdmHb6pnG38sTcqZk"
       },
@@ -5908,6 +5926,24 @@
       "duration_ms": 348418,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/3VfYDUvCE3OZWA9TppaI5S"
+    },
+    {
+      "album": {
+        "name": "Surely (Radio Version)",
+        "url": "https://open.spotify.com/album/00cHb3HCdtsBW4EHO7QFdv"
+      },
+      "artists": [
+        {
+          "name": "Fearless",
+          "url": "https://open.spotify.com/artist/1KeuqYY2cbIHQLKp7YcTOD"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212212,
+      "name": "Surely - Radio Version",
+      "url": "https://open.spotify.com/track/75W7u2mAkFmbJFiBxsQArz"
     },
     {
       "album": {
@@ -6390,7 +6426,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 228493,
       "name": "The Rock",
       "url": "https://open.spotify.com/track/3OLV0YgL61iJLi5Emuj4jv"
@@ -6960,6 +6996,28 @@
       "duration_ms": 329786,
       "name": "Trinity Song - Live",
       "url": "https://open.spotify.com/track/7EZTwfaE0nahlAQfNqjxhO"
+    },
+    {
+      "album": {
+        "name": "Trust In God / More Than Able",
+        "url": "https://open.spotify.com/album/0S5WweUHqJ4VLgXOfpmFZj"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442264,
+      "name": "Trust In God (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/5EHMPGhsQY5o1pcjOejbMj"
     },
     {
       "album": {

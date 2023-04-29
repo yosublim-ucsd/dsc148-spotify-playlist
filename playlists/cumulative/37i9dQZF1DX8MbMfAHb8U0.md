@@ -4,7 +4,7 @@
 
 > The tracks that you love from the artists you love\. Cover: Erykah Badu
 
-169 songs - 12 hr 39 min
+170 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,8 @@
 | [What Am I Gonna Do](https://open.spotify.com/track/6IOQR0cX0I8TW3GemSy5bG) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [2000 Watts](https://open.spotify.com/album/3iqLf7BrFWw215CTshTq1J) | 4:40 | 2022-06-16 | 2022-07-29 |
 | [What Am I Gonna Do](https://open.spotify.com/track/7FFQsnjzumC6eyCXRFPQ2f) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [2000 Watts](https://open.spotify.com/album/530wst7qkLIEeDYkOJXWzZ) | 4:40 | 2022-06-16 |  |
 | [What Am I Gonna Do](https://open.spotify.com/track/2xmaKeSaaWinToTUxoyCf5) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Playlist: The Very Best Of Tyrese](https://open.spotify.com/album/39SRzBM5yp3C7YVTtlvpJ5) | 4:40 | 2022-06-16 | 2022-11-13 |
-| [What Kind of Cool \(QuestLove Remix\)](https://open.spotify.com/track/5XjZ01IeBUbqm5s1REy1G3) | [Cody Chesnutt](https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr) | [Landing on A Hundred: B Sides and Remixes](https://open.spotify.com/album/09plLtas5Yq1vBiwv0esDv) | 5:31 | 2022-06-16 |  |
+| [What Kind of Cool \(QuestLove Remix\)](https://open.spotify.com/track/2yJxuLU2AcwyPkEXhdHkER) | [Cody Chesnutt](https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr) | [Landing on A Hundred: B Sides and Remixes](https://open.spotify.com/album/33PRH4Kx8HEVk6P6IdtuYu) | 5:31 | 2022-06-16 |  |
+| [What Kind of Cool \(QuestLove Remix\)](https://open.spotify.com/track/5XjZ01IeBUbqm5s1REy1G3) | [Cody Chesnutt](https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr) | [Landing on A Hundred: B Sides and Remixes](https://open.spotify.com/album/09plLtas5Yq1vBiwv0esDv) | 5:31 | 2022-06-16 | 2023-04-29 |
 | [What Kind of Cool \- QuestLove Remix](https://open.spotify.com/track/3VtoOb3SteJnXAJWHpVlK4) | [Cody Chesnutt](https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr), [?uestlove](https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf) | [Landing On a Hundred: B Sides and Remixes](https://open.spotify.com/album/2H4nWuCGz83gV3uE49x9dS) | 5:31 | 2021-07-09 | 2022-07-29 |
 | [When You're Near](https://open.spotify.com/track/0DrFL4UAerLseMvbDvRU7l) | [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW), [N'Dea Davenport](https://open.spotify.com/artist/2JrR5OwlQ3XXuDwozp9tYT) | [Jazzmatazz Volume 1](https://open.spotify.com/album/64J8girYqmK86ebqBayrjQ) | 4:03 | 2021-07-09 |  |
 | [Will You Love Me?](https://open.spotify.com/track/3cIveITeLwHPpjraBo8umU) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Funk This](https://open.spotify.com/album/7IVmHdUJ0ua2Tydu0199iC) | 4:58 | 2021-07-09 |  |

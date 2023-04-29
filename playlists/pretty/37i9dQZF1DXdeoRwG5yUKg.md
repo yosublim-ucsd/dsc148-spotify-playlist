@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,161 likes - 98 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,193 likes - 98 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 57 | [Who Will Come for Me](https://open.spotify.com/track/7hEsiIvB2jg0BI3Xe8F4eg) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Love Wins Again](https://open.spotify.com/album/5koT5jFcF9Iy0iZjG09rBT) | 4:38 |
 | 58 | [Last Surrender](https://open.spotify.com/track/2qQC0jWfRaUUhGWkPdb7g2) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Honest Man](https://open.spotify.com/album/2ZR9S2HND7WD0zh630IyR1) | 3:17 |
 | 59 | [More Than You Needed](https://open.spotify.com/track/5q3Vbceg2WlCqgMfc9Kosq) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Rooftops and Satellites](https://open.spotify.com/album/1LiAEvcdWVb9qNHFku5YzA) | 3:48 |
-| 60 | [Try Me](https://open.spotify.com/track/7fdF1y8Sm2dWryO5kRDlGL) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Allow Me to Confess](https://open.spotify.com/album/4vcPUYfpoYWXqbucRoATgK) | 3:14 |
+| 60 | [Try Me](https://open.spotify.com/track/1OqIafVbegBpzFIONJsSX2) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Allow Me to Confess](https://open.spotify.com/album/34puSs63TscNNMGLCjF7qY) | 3:14 |
 | 61 | [Mountain](https://open.spotify.com/track/4rVyCobGlhYiLVIVgBaSn6) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Original](https://open.spotify.com/album/5pg0LnXJII43RFJrsfsnfJ) | 4:00 |
 | 62 | [Lay My Head On Your Pillow](https://open.spotify.com/track/6ZN106OpbakIb13AswoWOw) | [Cassie Taylor](https://open.spotify.com/artist/3rHAg1yXbyNq0mnPgsVahe) | [Out Of My Mind](https://open.spotify.com/album/7CJW9YnB3go0zg4oKYc3sD) | 3:59 |
 | 63 | [Now You Want Me Back](https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt) | [Ina Forsman](https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b) | [Ina Forsman](https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y) | 4:09 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 73 | [All on My Mind \- Acoustic](https://open.spotify.com/track/4piJ8pnoRvC5sqMEpbH0FA) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [All on My Mind \(Acoustic\)](https://open.spotify.com/album/7tz2tP0MyzjpNg13tgRyx9) | 3:49 |
 | 74 | [Just As I Am](https://open.spotify.com/track/265GyouACrBchvNoHHkkuu) | [Meena](https://open.spotify.com/artist/7sntqdL07LSVjtlbVJgoui) | [Try Me](https://open.spotify.com/album/7fEch4BxgISBtcklzK1Xex) | 6:23 |
 | 75 | [What I've Known For A Very Long Time](https://open.spotify.com/track/5OtNvAmyUC2DtP4ZSRBD2R) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 5:33 |
-| 76 | [Old Flame](https://open.spotify.com/track/4A3OM57jy51hcJfPv06za1) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chances](https://open.spotify.com/album/1FlYFqevPq4JBfDJ2sA5nu) | 2:41 |
+| 76 | [Old Flame](https://open.spotify.com/track/5KJ1xOE9SaFsYFJKqxf5RX) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chances](https://open.spotify.com/album/0HQalCiuviEhDvPhcBODoS) | 2:41 |
 | 77 | [Tricky Thing](https://open.spotify.com/track/7bpJJDFOR7CQMA2Ssm1yka) | [Jessy Martens and Band](https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt) | [Tricky Thing](https://open.spotify.com/album/4aPtimYS5kIEl8d03ToDUz) | 4:31 |
 | 78 | [Heavenly](https://open.spotify.com/track/7tLvtMMRMSzxqT6wTfGuAI) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Heavenly](https://open.spotify.com/album/6pYjhJeycyRubBoSv2RGjN) | 3:32 |
 | 79 | [Gemini Heart](https://open.spotify.com/track/3gP6wL0DFyrJr4DzGgLhBq) | [Layla Zoe](https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU), [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [The Lily](https://open.spotify.com/album/1SvBVlFYgpG2VmbTqCs5h8) | 6:10 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 97 | [Last Goodbye](https://open.spotify.com/track/0VnXemLs18D2jcH7wXaySJ) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Turn Around](https://open.spotify.com/album/2A7jWbq8sH2XFwXc9oCxWy) | 3:56 |
 | 98 | [Something To Lose](https://open.spotify.com/track/5f43xdMK3oxObiuFNZRkNq) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5), [Amy Helm](https://open.spotify.com/artist/4LBsb3buEAjllAzNraGYtU) | [Halfway Home By Morning](https://open.spotify.com/album/42ly7pyWE5C0o3PFaMRd6e) | 4:48 |
 
-Snapshot ID: `MCw1NGFlMjk0MWY3OWU3YmI3OGZjODc1N2UyZDA2ZGU1NjkxNjk3NWEz`
+Snapshot ID: `MCwyYTBkNTM4M2E3ZDkzNGQyZDZmMWRmNzExOTlkOTM3MTJjZDNjMjgz`

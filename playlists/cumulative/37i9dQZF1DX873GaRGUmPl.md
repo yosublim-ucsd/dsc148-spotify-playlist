@@ -2,9 +2,9 @@
 
 ### [Alternative 10s](https://open.spotify.com/playlist/37i9dQZF1DX873GaRGUmPl)
 
-> The best alternative songs of the decade\. Cover: The 1975
+> The best alternative songs of the decade\. Cover: Glass Animals
 
-317 songs - 21 hr 13 min
+318 songs - 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Holocene](https://open.spotify.com/track/05lBuZWQ2OhQuzoCSIkvUF) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/7pTARJYCVO49nFXB1Mo5re) | 5:36 | 2021-11-15 | 2022-07-14 |
 | [Holocene](https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver \(10th Anniversary Edition\)](https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD) | 5:36 | 2022-09-29 | 2022-11-13 |
 | [Holy City](https://open.spotify.com/track/0YPIETceecHVR0VWuRPRT3) | [Joan As Police Woman](https://open.spotify.com/artist/6PBv8t9YTLggA9ZMwpeoqj) | [The Classic](https://open.spotify.com/album/0IuBCE17kDil7XhQmlkZWH) | 4:44 | 2022-02-21 | 2022-07-05 |
+| [Honey](https://open.spotify.com/track/0XN5vm980boRCELIwD2CIe) | [Swim Deep](https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc) | [Where the Heaven Are We](https://open.spotify.com/album/4pysD7EqnDkRx4mXG42OCo) | 3:39 | 2023-04-28 |  |
 | [I Can Change](https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 5:52 | 2021-11-15 | 2022-07-29 |
 | [I Can't Stand It](https://open.spotify.com/track/16nIdWPjwoNTkADzm6nwBb) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Cool Like You \(Deluxe\)](https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa) | 2:57 | 2022-02-21 | 2022-07-05 |
 | [I Don't Wanna Be Funny Anymore](https://open.spotify.com/track/0kwBATkVUAG7JRMEosNUUs) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Burden](https://open.spotify.com/album/6Ru52lwXvbPaAMSdyPOFsL) | 2:43 | 2021-11-15 | 2022-07-27 |
@@ -214,7 +215,7 @@
 | [R.I.P\. 2 My Youth](https://open.spotify.com/track/07VBqWH6NG8L2ad3l84UKk) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Wiped Out!](https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF) | 3:25 | 2022-02-21 |  |
 | [Ready to Start](https://open.spotify.com/track/01wsKcJ8ptqUmatpJlEGYj) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs](https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI) | 4:15 | 2022-02-21 | 2022-07-29 |
 | [Real Tight](https://open.spotify.com/track/3TohsRo77vDtjKi1t8mqze) | [Methyl Ethel](https://open.spotify.com/artist/3I3Fz1DeUY0icXFvOjbXm7) | [Real Tight](https://open.spotify.com/album/3HwSgJNLyWmTZHKXpcQdrs) | 3:16 | 2021-11-15 | 2022-06-27 |
-| [Red Eyes](https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz) | 4:58 | 2022-02-21 |  |
+| [Red Eyes](https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz) | 4:58 | 2022-02-21 | 2023-04-29 |
 | [Red Eyes](https://open.spotify.com/track/71jGGLe5VtEHjIk5dU2W3S) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5) | 4:58 | 2021-11-15 | 2022-07-29 |
 | [religion \(u can lay your hands on me\)](https://open.spotify.com/track/3sPpFnxfeb2grY6cH9JYk9) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [forevher](https://open.spotify.com/album/336iT9Zlon2t5PozcmH8Hu) | 4:07 | 2021-11-15 | 2022-07-01 |
 | [Return to the Moon \(Political Song for Didi Bloome to Sing, with Crescendo\)](https://open.spotify.com/track/1pKeRK6rB2lsIzCySm4NUg) | [EL VY](https://open.spotify.com/artist/3zsR0Nsw8G2KuzKSdmosPI) | [Return to the Moon](https://open.spotify.com/album/2FcMAqsSGBlDrrCjNxMutN) | 4:13 | 2022-02-21 | 2022-07-20 |

@@ -8742,10 +8742,28 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 120504,
       "name": "Whenever",
       "url": "https://open.spotify.com/track/0XpWIznCUOlkgOT0mqiBsV"
+    },
+    {
+      "album": {
+        "name": "Whenever",
+        "url": "https://open.spotify.com/album/1lQ6jOdtPJXrVAit9k7UzZ"
+      },
+      "artists": [
+        {
+          "name": "Sling Dilly",
+          "url": "https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120504,
+      "name": "Whenever",
+      "url": "https://open.spotify.com/track/4zH1IA6sy4kU4CXavEvOqi"
     },
     {
       "album": {

@@ -6,7 +6,7 @@
     {
       "album": {
         "name": "It's a Holiday Soul Party",
-        "url": "https://open.spotify.com/album/73nbM7q1KmaYMYbzD5KsHc"
+        "url": "https://open.spotify.com/album/206CtiH7Yc0YfOtW2UtP7T"
       },
       "artists": [
         {
@@ -17,6 +17,24 @@
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 222533,
+      "name": "8 Days (Of Hannukah)",
+      "url": "https://open.spotify.com/track/4062PAj5KS0FpoCyx6tFPC"
+    },
+    {
+      "album": {
+        "name": "It's a Holiday Soul Party",
+        "url": "https://open.spotify.com/album/73nbM7q1KmaYMYbzD5KsHc"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
       "duration_ms": 222533,
       "name": "8 Days (Of Hannukah)",
       "url": "https://open.spotify.com/track/6YbeDWhX04Bt8c2sztiuzS"

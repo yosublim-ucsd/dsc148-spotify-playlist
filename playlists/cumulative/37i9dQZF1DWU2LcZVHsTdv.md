@@ -4,11 +4,12 @@
 
 > The country way of testifying\. Cover: Kane Brown
 
-184 songs - 11 hr 13 min
+185 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Little Love](https://open.spotify.com/track/6dtFZkJdNJljSlWI9dL1kg) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6), [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [One On One](https://open.spotify.com/album/5UGVoX8a8k9bh46FWaVWcr) | 3:08 | 2021-12-10 |  |
+| [A Little Right Now](https://open.spotify.com/track/2TB7xUdGMgQb4vdP3TAAyq) | [Charles Esten](https://open.spotify.com/artist/5DOQ7jQ2pnXaiJiIoiEQjz) | [A Little Right Now](https://open.spotify.com/album/76hO8PwW6PSb87RIHRVfpJ) | 3:31 | 2023-04-28 |  |
 | [All I See](https://open.spotify.com/track/1OIhubEHsc9JJskFkqa1h3) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [One On One](https://open.spotify.com/album/5UGVoX8a8k9bh46FWaVWcr) | 2:58 | 2021-12-10 |  |
 | [Almost Home](https://open.spotify.com/track/6FW9MTGMjR5A6q2o7PLuuz) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [I Love It](https://open.spotify.com/album/5cPoNiy9Cwu5Dxd2CUQwVO) | 4:49 | 2021-12-10 |  |
 | [Amazing Grace / My Chains Are Gone](https://open.spotify.com/track/76Sn7FKuDkw4SssotSi5Rr) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [My Chains Are Gone](https://open.spotify.com/album/3ohEFNgpDUA4xmIfdSCkTN) | 4:26 | 2022-03-25 |  |

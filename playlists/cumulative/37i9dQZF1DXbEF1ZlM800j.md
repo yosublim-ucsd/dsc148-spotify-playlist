@@ -4,11 +4,12 @@
 
 > Get your kids in the holiday spirit with this collection of Hanukkah tracks!
 
-44 songs - 2 hr 1 min
+45 songs - 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [8 Days \(Of Hannukah\)](https://open.spotify.com/track/6YbeDWhX04Bt8c2sztiuzS) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [It's a Holiday Soul Party](https://open.spotify.com/album/73nbM7q1KmaYMYbzD5KsHc) | 3:42 | 2022-12-13 |  |
+| [8 Days \(Of Hannukah\)](https://open.spotify.com/track/4062PAj5KS0FpoCyx6tFPC) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [It's a Holiday Soul Party](https://open.spotify.com/album/206CtiH7Yc0YfOtW2UtP7T) | 3:42 | 2022-12-13 |  |
+| [8 Days \(Of Hannukah\)](https://open.spotify.com/track/6YbeDWhX04Bt8c2sztiuzS) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [It's a Holiday Soul Party](https://open.spotify.com/album/73nbM7q1KmaYMYbzD5KsHc) | 3:42 | 2022-12-13 | 2023-04-29 |
 | [Baby Ben's First Hanukkah \- From "Puppy Dog Pals"](https://open.spotify.com/track/2nOGA598YTCMPR2FCxG7PZ) | [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Jump into the Holidays](https://open.spotify.com/album/4ukvskShYg1dv5SQqfPZMa) | 1:11 | 2022-12-13 |  |
 | [Be A Light](https://open.spotify.com/track/7qPnJtDEqKTuaHLVIcR64m) | [Neal Katz](https://open.spotify.com/artist/1sowcvxOwvpU6xyeBMMyVM) | [Be A Light \- Chanukah Songs for Grown\-Ups](https://open.spotify.com/album/4vmG9zWx1AmFIa1RlTvG5J) | 3:53 | 2022-12-13 |  |
 | [Candle Chase](https://open.spotify.com/track/6iCZMzKH08XiEhg2nRRwYy) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Candle Chase](https://open.spotify.com/album/3cfJkWRP8KOOJ4BhnrRDuq) | 3:25 | 2022-12-13 |  |

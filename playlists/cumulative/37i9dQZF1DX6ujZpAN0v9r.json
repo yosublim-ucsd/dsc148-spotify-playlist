@@ -2274,7 +2274,7 @@
     {
       "album": {
         "name": "Outside (briefly)",
-        "url": "https://open.spotify.com/album/4M2Au76G2kkk7jGELIy50T"
+        "url": "https://open.spotify.com/album/0YclCtJHjo26eO6NvNdSl7"
       },
       "artists": [
         {
@@ -2285,6 +2285,24 @@
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 291739,
+      "name": "Passing Thing",
+      "url": "https://open.spotify.com/track/0nTD0BNGH2tiAMn0A9kaQE"
+    },
+    {
+      "album": {
+        "name": "Outside (briefly)",
+        "url": "https://open.spotify.com/album/4M2Au76G2kkk7jGELIy50T"
+      },
+      "artists": [
+        {
+          "name": "Froth",
+          "url": "https://open.spotify.com/artist/1KtOqfwCbclwg7bgvsUJ5U"
+        }
+      ],
+      "date_added": "2021-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
       "duration_ms": 291739,
       "name": "Passing Thing",
       "url": "https://open.spotify.com/track/2BTHDJlCQb689vMYU8f8sd"
@@ -2428,10 +2446,28 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 209630,
       "name": "Record Still Spinning",
       "url": "https://open.spotify.com/track/0DbK7EyGqza8QqzKpYZTCo"
+    },
+    {
+      "album": {
+        "name": "Matters",
+        "url": "https://open.spotify.com/album/3T0gHeXi1e900Bb9eue4e5"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00f6st",
+          "url": "https://open.spotify.com/artist/0thj1Xly1i0lA2XKQLH9gE"
+        }
+      ],
+      "date_added": "2021-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209630,
+      "name": "Record Still Spinning",
+      "url": "https://open.spotify.com/track/6h2jvV3Gwg6onowB0366IB"
     },
     {
       "album": {
@@ -2788,7 +2824,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 344155,
       "name": "Sing to Me Candy",
       "url": "https://open.spotify.com/track/04IPKQyLuMn7vXx44OMOAm"
@@ -2810,6 +2846,24 @@
       "duration_ms": 344155,
       "name": "Sing to Me Candy",
       "url": "https://open.spotify.com/track/47Y4i7hLPazl7BS4sGWsYd"
+    },
+    {
+      "album": {
+        "name": "Parallel Universe Blues",
+        "url": "https://open.spotify.com/album/2wIF23PCyAy715AR8USXMj"
+      },
+      "artists": [
+        {
+          "name": "Papercuts",
+          "url": "https://open.spotify.com/artist/5fN7QZumpTbySswZyiWKXn"
+        }
+      ],
+      "date_added": "2021-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344155,
+      "name": "Sing to Me Candy",
+      "url": "https://open.spotify.com/track/6Jh3TvhozPv7CFPvbyUzYM"
     },
     {
       "album": {
@@ -3448,7 +3502,7 @@
     {
       "album": {
         "name": "Sure (Robin Guthrie Remix)",
-        "url": "https://open.spotify.com/album/4EgClzxWA0H5VKV64SXAxV"
+        "url": "https://open.spotify.com/album/4NYZyflURmFDah8baHKtye"
       },
       "artists": [
         {
@@ -3463,6 +3517,28 @@
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 249545,
+      "name": "Sure - Robin Guthrie Remix",
+      "url": "https://open.spotify.com/track/0zPpsKWrW2w5l3mqCsiOPy"
+    },
+    {
+      "album": {
+        "name": "Sure (Robin Guthrie Remix)",
+        "url": "https://open.spotify.com/album/4EgClzxWA0H5VKV64SXAxV"
+      },
+      "artists": [
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        },
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        }
+      ],
+      "date_added": "2021-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
       "duration_ms": 249545,
       "name": "Sure - Robin Guthrie Remix",
       "url": "https://open.spotify.com/track/3PFmUT9U0Gk6ysvavI1EIv"

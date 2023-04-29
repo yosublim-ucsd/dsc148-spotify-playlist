@@ -1404,6 +1404,28 @@
     {
       "album": {
         "name": "Need Your Light",
+        "url": "https://open.spotify.com/album/4U0hmoTGpAKJEOIrAnQJws"
+      },
+      "artists": [
+        {
+          "name": "Ra Ra Riot",
+          "url": "https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD"
+        },
+        {
+          "name": "Rostam",
+          "url": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280333,
+      "name": "Water (feat. Rostam)",
+      "url": "https://open.spotify.com/track/1dr1B13MHzq77BC5d4zko9"
+    },
+    {
+      "album": {
+        "name": "Need Your Light",
         "url": "https://open.spotify.com/album/1YWO9CZO9auWGUJWR4FlnL"
       },
       "artists": [
@@ -1418,7 +1440,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 280333,
       "name": "Water (feat. Rostam)",
       "url": "https://open.spotify.com/track/4WuDLbPWqwjyRvJK2jRCPS"

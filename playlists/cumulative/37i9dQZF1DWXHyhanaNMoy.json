@@ -1147,6 +1147,28 @@
     },
     {
       "album": {
+        "name": "No Bad Vibes",
+        "url": "https://open.spotify.com/album/7Isz78RyCrtTdtVBexTV0E"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125769,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/11orvpEsFnxuJgLatCiHsR"
+    },
+    {
+      "album": {
         "name": "Balans",
         "url": "https://open.spotify.com/album/1Yn5NL7HFvSZmMeM6CNxdG"
       },
@@ -2944,7 +2966,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 198709,
       "name": "Doe M'n Best",
       "url": "https://open.spotify.com/track/67IJXCN36NMxeDUHccfu2s"

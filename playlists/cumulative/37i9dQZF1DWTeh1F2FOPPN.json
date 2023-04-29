@@ -807,6 +807,24 @@
     },
     {
       "album": {
+        "name": "Honey For Wounds",
+        "url": "https://open.spotify.com/album/6rAjOLYMgyddMcP8LLJLcl"
+      },
+      "artists": [
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394029,
+      "name": "Table For One",
+      "url": "https://open.spotify.com/track/2hQ2Ux2pzBEd20mCyLHvx8"
+    },
+    {
+      "album": {
         "name": "Table for One",
         "url": "https://open.spotify.com/album/4becwqhy3EirbJwxjDYjwq"
       },
@@ -818,7 +836,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 394694,
       "name": "Table for One",
       "url": "https://open.spotify.com/track/6claa4I908IodZZkvZMvuf"

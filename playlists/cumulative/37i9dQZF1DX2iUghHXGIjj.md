@@ -4,7 +4,7 @@
 
 > Raw, emotional, and acoustic\. Cover: Charlie Musselwhite
 
-161 songs - 10 hr 3 min
+163 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,8 +31,9 @@
 | [Break My Fall](https://open.spotify.com/track/6KbHosVLv94wZG6lhZdAp9) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Head Bent](https://open.spotify.com/album/4VXrAdqkFnz2qNJGO0wmKL) | 4:25 | 2020-08-11 |  |
 | [Break My Fall](https://open.spotify.com/track/7FSeN06d370hAEdv7hCqcU) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Head Bent](https://open.spotify.com/album/2rSZBqwYTxFHA9yXxxdXxs) | 4:25 | 2020-08-11 | 2022-07-29 |
 | [Bumble Bee](https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R) | [Peter Case](https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3) | [The Midnight Broadcast](https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6) | 3:34 | 2021-03-12 |  |
+| [Bumble Bee \(Live\)](https://open.spotify.com/track/3qbUXMhOaadA7pSyrjbI4p) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Live at Brighton Road](https://open.spotify.com/album/70hokf3NOWBHAq6tzJV0Do) | 3:40 | 2020-08-11 |  |
 | [Bumble Bee \(Live\)](https://open.spotify.com/track/4eSv18SwAXoQJF6tPqFIyw) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Live at Brighton Road](https://open.spotify.com/album/4rATgGVN4pPWsmDOFMGywb) | 3:40 | 2020-08-11 | 2022-07-29 |
-| [Bumble Bee \(Live\)](https://open.spotify.com/track/4iS4vGzh365Wg0KutUiWoy) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Live at Brighton Road](https://open.spotify.com/album/35HfrF3OsVgByxsWYalUmC) | 3:40 | 2020-08-11 |  |
+| [Bumble Bee \(Live\)](https://open.spotify.com/track/4iS4vGzh365Wg0KutUiWoy) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Live at Brighton Road](https://open.spotify.com/album/35HfrF3OsVgByxsWYalUmC) | 3:40 | 2020-08-11 | 2023-04-29 |
 | [Calling Out To You](https://open.spotify.com/track/4NbmBhEdThmGYpiVakws47) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Made Up Mind](https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA) | 3:46 | 2020-08-11 |  |
 | [Castle](https://open.spotify.com/track/2QIbD38FhRqXHOeQC3SiYu) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ) | 3:28 | 2020-08-11 |  |
 | [Coffee Blues](https://open.spotify.com/track/16GdiwewBf99MhUSVsxUBe) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Complete Studio Recordings](https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ) | 3:47 | 2020-08-11 |  |
@@ -160,7 +161,8 @@
 | [Walking My Troubles Away](https://open.spotify.com/track/6FXNwy7mpnt9jbC2S7Lfl9) | [Leon Redbone](https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5) | [Mystery Man](https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt) | 4:54 | 2021-12-17 |  |
 | [Walking the dog](https://open.spotify.com/track/6TZa0ySHmDrjet5uk1gFSM) | [Hans Theessink](https://open.spotify.com/artist/2e02wACgnPCZ1lPeQEUCom) | [Journey On](https://open.spotify.com/album/3AMhMqVJLR0Gyoz4iDdbnz) | 4:11 | 2020-08-11 |  |
 | [Well Well Well](https://open.spotify.com/track/6Gr0nYfH4DpKYrAggRGGZZ) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Blues In Mono](https://open.spotify.com/album/2IQagMayRx6kAilOpLcBhs) | 2:30 | 2020-11-27 |  |
-| [What They Say](https://open.spotify.com/track/24NvptbNKGs6sPy1Vh1O0v) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [Hundred Dollar Valentine](https://open.spotify.com/album/1OsaTxNg63FgnAqMVvIcC7) | 2:46 | 2020-08-11 |  |
+| [What They Say](https://open.spotify.com/track/1Ksvwp4L3vKsWOJP9j1QoA) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [Hundred Dollar Valentine](https://open.spotify.com/album/2SbPOPZJhWcY5bf81e4PIV) | 2:46 | 2020-08-11 |  |
+| [What They Say](https://open.spotify.com/track/24NvptbNKGs6sPy1Vh1O0v) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [Hundred Dollar Valentine](https://open.spotify.com/album/1OsaTxNg63FgnAqMVvIcC7) | 2:46 | 2020-08-11 | 2023-04-29 |
 | [What They Say](https://open.spotify.com/track/6KbsA9kAmOcECPJeCy58XO) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [Hundred Dollar Valentine](https://open.spotify.com/album/15qeyD4UdDxtNCAQyWEb44) | 2:46 | 2020-08-11 | 2022-07-29 |
 | [When the Hurt Is Over](https://open.spotify.com/track/0FtlOiBxDgFR6wz9N7Arz6) | [Mighty Sam McClain](https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W) | [A Diamond in the Rough](https://open.spotify.com/album/0YKahH7gYqKnCX3eCcvr67) | 6:11 | 2020-08-11 |  |
 | [When the Levee Breaks \(feat\. Jean Jacques Milteau\)](https://open.spotify.com/track/6uJKEvWD4zKL8PGwadftFv) | [Cary Morin](https://open.spotify.com/artist/51oTB1rGltPYEUj9WqBqgh), [Jean\-Jacques Milteau](https://open.spotify.com/artist/4ConspsaeqXp9c2pOc3M0n) | [Tiny Town](https://open.spotify.com/album/2oRSRMtrLn135wYYzdksnA) | 3:18 | 2020-08-11 |  |

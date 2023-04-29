@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 
 > Una selezione speciale a cura di <a href="spotify:artist:7x68038NwGK0HcnZh49aMB">Bebo Ferra</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,578 likes - 49 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,586 likes - 49 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 | 48 | [Ferlinghetti](https://open.spotify.com/track/2FznYmBxVI1sHFDrBH0BBe) | [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi), [Marco Bardoscia](https://open.spotify.com/artist/6nPFcBOpXLW2vzvor5xo6E), [Dino Rubino](https://open.spotify.com/artist/3BatL5ELL5CEN1xjCeDi7S), [Daniele di Bonaventura](https://open.spotify.com/artist/2FfQ9VP66RZxG0lmiMAKT6) | [Ferlinghetti](https://open.spotify.com/album/68AL3VoUvPAaBcS8sSlWvU) | 3:16 |
 | 49 | [Modulus](https://open.spotify.com/track/4kPOrrzzWHaj5Oxm7SHsfJ) | [Enrico Zanisi](https://open.spotify.com/artist/4KDUJ3lepnrI1GSafqwpAK), [Quatuor IXI](https://open.spotify.com/artist/7fgALsTVEOs6dlcDw0tU3W), [Gabriele Mirabassi](https://open.spotify.com/artist/1McRzmSwfysOGYy2GPaSNE), [Michele Rabbia](https://open.spotify.com/artist/0PrEXi9LcYr5j82OZLNyNA) | [Blend Pages](https://open.spotify.com/album/5skV1RyI4YQSPDNgbJLIIr) | 4:20 |
 
-Snapshot ID: `MCwwMzdkY2E0M2Y5MGQwYjA1Nzc0YTBhN2UyNGU5YjI1NGYxYTU1NTFi`
+Snapshot ID: `MCxjOWI3NTAzMDgzNTE3NjY0OWM1NDkzNjYwMDhmZDg4NDY0NjRlOWZl`

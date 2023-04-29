@@ -4,7 +4,7 @@
 
 > Gather 'round and enjoy these far out songs about outer space.
 
-119 songs - 5 hr 19 min
+120 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,8 +124,9 @@
 | [Weightless](https://open.spotify.com/track/6CwOrDlnPYPjgjzUUnXzP7) | [Dave Kinnoin](https://open.spotify.com/artist/69BhB3hQDvkfIpiz9KvHD2), [Grin Brigade](https://open.spotify.com/artist/0KnJAi1HoOGnUdKFUfBfK5), [Oliver Kinnoin](https://open.spotify.com/artist/0Qt4CUKOYwqCqKsE4BVLwR) | [Kidz S.T.E.M\. Songz](https://open.spotify.com/album/3nHt4nMlPuCzLFzrhq1Akg) | 3:11 | 2021-12-06 |  |
 | [Why Does the Sun Shine?](https://open.spotify.com/track/1wfa3vAiIAbSxHbzKoSPuS) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 2:36 | 2021-12-06 |  |
 | [Why Would You Take a Rocketship?](https://open.spotify.com/track/4GtPsTUvpuUmJtNL6GQTqL) | [Jon Samson](https://open.spotify.com/artist/5efIpOAKr1T33Hxq9ztcIO) | [A New Kids Album](https://open.spotify.com/album/4nljOMcH49HcGQszglOqJU) | 2:55 | 2021-12-06 |  |
-| [Zoom a Little Zoom \(Rocket Ship\)](https://open.spotify.com/track/0Eihywf0SKrm5whbVQj1vf) | [Cathy Fink & Marcy Marxer](https://open.spotify.com/artist/3D7loN7XTJukbZaniJwvEr) | [Zoom a Little Zoom: A Ride Through Science](https://open.spotify.com/album/00XJLkpRPzHeWbQI2pvL2F) | 3:21 | 2021-12-06 |  |
+| [Zoom a Little Zoom \(Rocket Ship\)](https://open.spotify.com/track/0Eihywf0SKrm5whbVQj1vf) | [Cathy Fink & Marcy Marxer](https://open.spotify.com/artist/3D7loN7XTJukbZaniJwvEr) | [Zoom a Little Zoom: A Ride Through Science](https://open.spotify.com/album/00XJLkpRPzHeWbQI2pvL2F) | 3:21 | 2021-12-06 | 2023-04-29 |
 | [Zoom a Little Zoom \(Rocket Ship\)](https://open.spotify.com/track/0sNCYp6DreQlLqiUFlcEzA) | [Cathy Fink & Marcy Marxer](https://open.spotify.com/artist/3D7loN7XTJukbZaniJwvEr) | [Zoom a Little Zoom: A Ride Through Science](https://open.spotify.com/album/4Xm4yG07fyqeOlC271pz0F) | 3:21 | 2021-12-06 | 2022-07-29 |
+| [Zoom a Little Zoom \(Rocket Ship\)](https://open.spotify.com/track/1raICern1u7oFxEQ0TPML3) | [Cathy Fink & Marcy Marxer](https://open.spotify.com/artist/3D7loN7XTJukbZaniJwvEr) | [Zoom a Little Zoom: A Ride Through Science](https://open.spotify.com/album/1BsgaauXt7oVJJUA20UEx0) | 3:21 | 2023-02-24 |  |
 | [Zoom, Zoom, Zoom, We're Going to the Moon!](https://open.spotify.com/track/3IprSDFbAfrT2zPZeHuV09) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Top 30 Baby Songs](https://open.spotify.com/album/5Obb6WdYPpNErfM33fcrn0) | 1:33 | 2021-12-06 |  |
 
 \*This playlist was first scraped on 2022-04-19. Prior content cannot be recovered.

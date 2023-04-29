@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: The 046
 
-441 songs - 20 hr 49 min
+442 songs - 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,7 +431,8 @@
 | [When It Rains](https://open.spotify.com/track/2itHu6uRp8ClOUS0nS023X) | [BALLY BOY](https://open.spotify.com/artist/3MCpCeJATfWO5bOy5nf2F9) | [When It Rains](https://open.spotify.com/album/22RrM5weo4B2GrTrW6h0xd) | 2:21 | 2023-04-06 |  |
 | [When It Rains](https://open.spotify.com/track/3nUnPMNtuyOzgIgrF067SZ) | [BALLY BOY](https://open.spotify.com/artist/3MCpCeJATfWO5bOy5nf2F9) | [When It Rains](https://open.spotify.com/album/2Jok9H8f6HamTvZ8cGwA93) | 2:21 | 2022-09-29 | 2023-04-13 |
 | [Where I'm At](https://open.spotify.com/track/2g6AzEuWeAcYePtoGaq6SV) | [Exl](https://open.spotify.com/artist/6j5lxsz5UsEHXTgkwVC4ie) | [Where I'm At](https://open.spotify.com/album/3uBRvGyCCCSh8gMi5PRFsO) | 1:53 | 2023-01-05 | 2023-04-21 |
-| [Where's the Mop](https://open.spotify.com/track/59FS2KVqnHKRmavGPLajRX) | [Young6ix](https://open.spotify.com/artist/1DVLOOIJIQQX0fIKY22m7Q) | [Where's the Mop](https://open.spotify.com/album/60yPoCJMuIf9y9fLUZtv1Y) | 2:16 | 2023-02-23 |  |
+| [Where's the Mop](https://open.spotify.com/track/59FS2KVqnHKRmavGPLajRX) | [Young6ix](https://open.spotify.com/artist/1DVLOOIJIQQX0fIKY22m7Q) | [Where's the Mop](https://open.spotify.com/album/60yPoCJMuIf9y9fLUZtv1Y) | 2:16 | 2023-02-23 | 2023-04-29 |
+| [WHERES THE MOP](https://open.spotify.com/track/5mjXXO1ebDsHXM9Wn9dQSY) | [Young6ix](https://open.spotify.com/artist/1DVLOOIJIQQX0fIKY22m7Q) | [WHERES THE MOP](https://open.spotify.com/album/0rk5N5eWLb4x2MUjRli2ei) | 2:16 | 2023-04-27 |  |
 | [WHO](https://open.spotify.com/track/5UpbNdHBHsWWespVWRBicM) | [Swish Music](https://open.spotify.com/artist/7BU3LRtUwP48t4OYNmYZHI), [TMB The Driver](https://open.spotify.com/artist/1kUBxtJ8z3wybn5wGAu0H2), [Dau Dau](https://open.spotify.com/artist/5zE6gcTHIzl8LuAqhcCDu1), [Perry P](https://open.spotify.com/artist/1hGnXrS3sPLcOmjJ8TtkIQ) | [WHO](https://open.spotify.com/album/3arCfti8W6CPLlmn23nrgq) | 2:40 | 2022-05-12 | 2022-09-23 |
 | [Who You Foolin](https://open.spotify.com/track/0pyDwHz8zCjYxMaXRUfY4q) | [RED Honcho](https://open.spotify.com/artist/2pIfm9a2rMaHkdarjTM5o5), [LDP68](https://open.spotify.com/artist/7mumML0dR6NB5uMSzS8lAN) | [Who You Foolin](https://open.spotify.com/album/3zUhWiR8jNBFmCh68KGgLq) | 3:02 | 2022-08-01 | 2022-11-25 |
 | [WHOA!](https://open.spotify.com/track/6HqWqRn0G2ahugirmSXnZx) | [Jay Zayat](https://open.spotify.com/artist/3RNjL4SvUdzRwyJhqfuZrB) | [WHOA!](https://open.spotify.com/album/6szYpF41PdbfmksjV4blji) | 2:20 | 2023-04-20 |  |

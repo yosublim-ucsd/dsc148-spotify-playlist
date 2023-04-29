@@ -1,12 +1,12 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. my bloody valentine on cover",
-  "num_followers": 509664,
+  "num_followers": 510604,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDk5MTgzMzNmZGQ3MzUxNTVlYjAwMDFkNzBhMWIxNjVkNThlZDI3",
+  "snapshot_id": "MCxhYzU2YjA3NGIyZjFjNTY5OTZlY2I2YmQ0MTY5ZmQ5NDNhYTdiMzRh",
   "tracks": [
     {
       "added_at": "2021-06-03 02:39:04",
@@ -57,22 +57,6 @@
       "url": "https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ"
     },
     {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Loveless",
-        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 251933,
-      "name": "When You Sleep",
-      "url": "https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda"
-    },
-    {
       "added_at": "2022-01-11 02:55:53",
       "album": {
         "name": "Siamese Dream (Deluxe Edition)",
@@ -87,6 +71,22 @@
       "duration_ms": 348773,
       "name": "Mayonaise - 2011 Remaster",
       "url": "https://open.spotify.com/track/0jmKzJmUEKNbC7eU8YfOiA"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 251933,
+      "name": "When You Sleep",
+      "url": "https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -571,22 +571,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Bout des doigts",
-        "url": "https://open.spotify.com/album/1s16vFypthYKIcJwhgDeUm"
-      },
-      "artists": [
-        {
-          "name": "The Brian Jonestown Massacre",
-          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
-        }
-      ],
-      "duration_ms": 426331,
-      "name": "Bout des doigts",
-      "url": "https://open.spotify.com/track/5RQ2HMjTOBJOWK9Me6cpsy"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "The Crow Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 231226,
       "name": "Time Baby III",
       "url": "https://open.spotify.com/track/5tujK4iuRbqaDQv94ZRH98"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Bout des doigts",
+        "url": "https://open.spotify.com/album/1s16vFypthYKIcJwhgDeUm"
+      },
+      "artists": [
+        {
+          "name": "The Brian Jonestown Massacre",
+          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
+        }
+      ],
+      "duration_ms": 426331,
+      "name": "Bout des doigts",
+      "url": "https://open.spotify.com/track/5RQ2HMjTOBJOWK9Me6cpsy"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -739,22 +739,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Spooky",
-        "url": "https://open.spotify.com/album/5NSgxemDL3eSm79jFkqxuw"
-      },
-      "artists": [
-        {
-          "name": "Lush",
-          "url": "https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg"
-        }
-      ],
-      "duration_ms": 354640,
-      "name": "Nothing Natural",
-      "url": "https://open.spotify.com/track/252uwichmLXhrtDY5GTLNi"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Shelter (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3qIcbxymPhXoA1wOR98cLP"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 298080,
       "name": "La nuit marche avec moi",
       "url": "https://open.spotify.com/track/4Ig4lqvambqo9NPYoDklJe"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Spooky",
+        "url": "https://open.spotify.com/album/5NSgxemDL3eSm79jFkqxuw"
+      },
+      "artists": [
+        {
+          "name": "Lush",
+          "url": "https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg"
+        }
+      ],
+      "duration_ms": 354640,
+      "name": "Nothing Natural",
+      "url": "https://open.spotify.com/track/252uwichmLXhrtDY5GTLNi"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -819,22 +819,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Nowhere (Expanded)",
-        "url": "https://open.spotify.com/album/4fW7CblaSvdhPWmcCFgZbQ"
-      },
-      "artists": [
-        {
-          "name": "Ride",
-          "url": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
-        }
-      ],
-      "duration_ms": 368760,
-      "name": "Seagull - 2001 Remaster",
-      "url": "https://open.spotify.com/track/1p75lScKo8XQT0niqFRxNx"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 318800,
       "name": "23",
       "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Nowhere (Expanded)",
+        "url": "https://open.spotify.com/album/4fW7CblaSvdhPWmcCFgZbQ"
+      },
+      "artists": [
+        {
+          "name": "Ride",
+          "url": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+        }
+      ],
+      "duration_ms": 368760,
+      "name": "Seagull - 2001 Remaster",
+      "url": "https://open.spotify.com/track/1p75lScKo8XQT0niqFRxNx"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Molten Young Lovers",
-        "url": "https://open.spotify.com/album/0KeUr8fbOh5vPUsVN6SQ8Z"
-      },
-      "artists": [
-        {
-          "name": "Airiel",
-          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
-        }
-      ],
-      "duration_ms": 279747,
-      "name": "Molten Young Lovers",
-      "url": "https://open.spotify.com/track/5m7HN7LZW6r2IzYYTKVyw9"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "A Strangely Isolated Place",
         "url": "https://open.spotify.com/album/4FhQ1P2yfmyo1axATOCfR9"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 399720,
       "name": "On My Own - 2019 remaster",
       "url": "https://open.spotify.com/track/4Dr5E6cgmQ484OQMDCZ7z0"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Molten Young Lovers",
+        "url": "https://open.spotify.com/album/0KeUr8fbOh5vPUsVN6SQ8Z"
+      },
+      "artists": [
+        {
+          "name": "Airiel",
+          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
+        }
+      ],
+      "duration_ms": 279747,
+      "name": "Molten Young Lovers",
+      "url": "https://open.spotify.com/track/5m7HN7LZW6r2IzYYTKVyw9"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Hover",
-        "url": "https://open.spotify.com/album/1SRaji5f1FPUmN6k94Mt20"
-      },
-      "artists": [
-        {
-          "name": "the sleepover disaster",
-          "url": "https://open.spotify.com/artist/2ZPBeSCFdYZ2WBg1LOgyzk"
-        }
-      ],
-      "duration_ms": 297813,
-      "name": "Dark Star",
-      "url": "https://open.spotify.com/track/1fOkePiratk9GcIDSSg8U0"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Ultra Vivid Scene",
         "url": "https://open.spotify.com/album/7LTgeT90u75BlVhweJAC5f"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 249853,
       "name": "Mercy Seat",
       "url": "https://open.spotify.com/track/5OY9UsxOhXpCqhAbI5csui"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Hover",
+        "url": "https://open.spotify.com/album/1SRaji5f1FPUmN6k94Mt20"
+      },
+      "artists": [
+        {
+          "name": "the sleepover disaster",
+          "url": "https://open.spotify.com/artist/2ZPBeSCFdYZ2WBg1LOgyzk"
+        }
+      ],
+      "duration_ms": 297813,
+      "name": "Dark Star",
+      "url": "https://open.spotify.com/track/1fOkePiratk9GcIDSSg8U0"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "In the Presence of Nothing",
-        "url": "https://open.spotify.com/album/2RWhRlMW0F8urFf7yRLXNP"
+        "name": "Raise",
+        "url": "https://open.spotify.com/album/6dl2WtJnjCL69XLQuMwSJw"
       },
       "artists": [
         {
-          "name": "Lilys",
-          "url": "https://open.spotify.com/artist/2IG2KZZiXaYygnWGCC7uEj"
+          "name": "Swervedriver",
+          "url": "https://open.spotify.com/artist/0Sd7X8SxWV0AyDLbvd4uEu"
         }
       ],
-      "duration_ms": 418866,
-      "name": "Elizabeth Colour Wheel",
-      "url": "https://open.spotify.com/track/3CAuQjMgfYJrqSehDwP0nl"
+      "duration_ms": 306200,
+      "name": "Rave Down",
+      "url": "https://open.spotify.com/track/11MgD2LnjAig9KtK0ePJtj"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Raise",
-        "url": "https://open.spotify.com/album/6dl2WtJnjCL69XLQuMwSJw"
+        "name": "In the Presence of Nothing",
+        "url": "https://open.spotify.com/album/2RWhRlMW0F8urFf7yRLXNP"
       },
       "artists": [
         {
-          "name": "Swervedriver",
-          "url": "https://open.spotify.com/artist/0Sd7X8SxWV0AyDLbvd4uEu"
+          "name": "Lilys",
+          "url": "https://open.spotify.com/artist/2IG2KZZiXaYygnWGCC7uEj"
         }
       ],
-      "duration_ms": 306200,
-      "name": "Rave Down",
-      "url": "https://open.spotify.com/track/11MgD2LnjAig9KtK0ePJtj"
+      "duration_ms": 418866,
+      "name": "Elizabeth Colour Wheel",
+      "url": "https://open.spotify.com/track/3CAuQjMgfYJrqSehDwP0nl"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Love Comes In Waves",
-        "url": "https://open.spotify.com/album/6H1YKdZQvIuOVQkKUpOHtR"
-      },
-      "artists": [
-        {
-          "name": "Andy Bell",
-          "url": "https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc"
-        }
-      ],
-      "duration_ms": 288575,
-      "name": "Love Comes In Waves",
-      "url": "https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Our Goal to Realise",
         "url": "https://open.spotify.com/album/4DXAO9RDzvfI2t5j8URSr1"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 197563,
       "name": "Our Goal to Realise",
       "url": "https://open.spotify.com/track/6msavmTdvB1jthlRJRGuwZ"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Love Comes In Waves",
+        "url": "https://open.spotify.com/album/6H1YKdZQvIuOVQkKUpOHtR"
+      },
+      "artists": [
+        {
+          "name": "Andy Bell",
+          "url": "https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc"
+        }
+      ],
+      "duration_ms": 288575,
+      "name": "Love Comes In Waves",
+      "url": "https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1779,18 +1779,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Parallel Universe Blues",
-        "url": "https://open.spotify.com/album/4lQikOnK4lBEDZwL4SXNDX"
+        "name": "A Gilded Eternity",
+        "url": "https://open.spotify.com/album/6EnYB0SzDQeAUN7qLgCIPs"
       },
       "artists": [
         {
-          "name": "Papercuts",
-          "url": "https://open.spotify.com/artist/5fN7QZumpTbySswZyiWKXn"
+          "name": "Loop",
+          "url": "https://open.spotify.com/artist/0ReGrqp2iQLy9fySkDCIDh"
         }
       ],
-      "duration_ms": 344155,
-      "name": "Sing to Me Candy",
-      "url": "https://open.spotify.com/track/04IPKQyLuMn7vXx44OMOAm"
+      "duration_ms": 367973,
+      "name": "Vapour",
+      "url": "https://open.spotify.com/track/1PsqU9ouv5JaRpdygiv6eu"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1811,54 +1811,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "A Gilded Eternity",
-        "url": "https://open.spotify.com/album/6EnYB0SzDQeAUN7qLgCIPs"
+        "name": "KIN",
+        "url": "https://open.spotify.com/album/20VOMBfnJraeZ0BQ4aPuqd"
       },
       "artists": [
         {
-          "name": "Loop",
-          "url": "https://open.spotify.com/artist/0ReGrqp2iQLy9fySkDCIDh"
+          "name": "Mogwai",
+          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
         }
       ],
-      "duration_ms": 367973,
-      "name": "Vapour",
-      "url": "https://open.spotify.com/track/1PsqU9ouv5JaRpdygiv6eu"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Sure (Robin Guthrie Remix)",
-        "url": "https://open.spotify.com/album/4EgClzxWA0H5VKV64SXAxV"
-      },
-      "artists": [
-        {
-          "name": "Hatchie",
-          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
-        },
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        }
-      ],
-      "duration_ms": 249545,
-      "name": "Sure - Robin Guthrie Remix",
-      "url": "https://open.spotify.com/track/3PFmUT9U0Gk6ysvavI1EIv"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Matters",
-        "url": "https://open.spotify.com/album/3rU0SnUhb72OOyxaSM5c99"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00f6st",
-          "url": "https://open.spotify.com/artist/0thj1Xly1i0lA2XKQLH9gE"
-        }
-      ],
-      "duration_ms": 209630,
-      "name": "Record Still Spinning",
-      "url": "https://open.spotify.com/track/0DbK7EyGqza8QqzKpYZTCo"
+      "duration_ms": 254706,
+      "name": "We\u2019re Not Done (End Title)",
+      "url": "https://open.spotify.com/track/1RBGSieBtIBvojx80RwOfZ"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1879,22 +1843,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "KIN",
-        "url": "https://open.spotify.com/album/20VOMBfnJraeZ0BQ4aPuqd"
-      },
-      "artists": [
-        {
-          "name": "Mogwai",
-          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
-        }
-      ],
-      "duration_ms": 254706,
-      "name": "We\u2019re Not Done (End Title)",
-      "url": "https://open.spotify.com/track/1RBGSieBtIBvojx80RwOfZ"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "The Soft Cavalry",
         "url": "https://open.spotify.com/album/6Psa9gTLJgpYfoxw2XVOXJ"
       },
@@ -1907,22 +1855,6 @@
       "duration_ms": 255384,
       "name": "Dive",
       "url": "https://open.spotify.com/track/3fBK91aUmHgoPavxj1Zgw7"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Outside (briefly)",
-        "url": "https://open.spotify.com/album/4M2Au76G2kkk7jGELIy50T"
-      },
-      "artists": [
-        {
-          "name": "Froth",
-          "url": "https://open.spotify.com/artist/1KtOqfwCbclwg7bgvsUJ5U"
-        }
-      ],
-      "duration_ms": 291739,
-      "name": "Passing Thing",
-      "url": "https://open.spotify.com/track/2BTHDJlCQb689vMYU8f8sd"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -2115,6 +2047,74 @@
       "duration_ms": 353173,
       "name": "Sunshy",
       "url": "https://open.spotify.com/track/5BiVdcPY0rIgP8kEWSwN7J"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Outside (briefly)",
+        "url": "https://open.spotify.com/album/0YclCtJHjo26eO6NvNdSl7"
+      },
+      "artists": [
+        {
+          "name": "Froth",
+          "url": "https://open.spotify.com/artist/1KtOqfwCbclwg7bgvsUJ5U"
+        }
+      ],
+      "duration_ms": 291739,
+      "name": "Passing Thing",
+      "url": "https://open.spotify.com/track/0nTD0BNGH2tiAMn0A9kaQE"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Parallel Universe Blues",
+        "url": "https://open.spotify.com/album/2wIF23PCyAy715AR8USXMj"
+      },
+      "artists": [
+        {
+          "name": "Papercuts",
+          "url": "https://open.spotify.com/artist/5fN7QZumpTbySswZyiWKXn"
+        }
+      ],
+      "duration_ms": 344155,
+      "name": "Sing to Me Candy",
+      "url": "https://open.spotify.com/track/6Jh3TvhozPv7CFPvbyUzYM"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Sure (Robin Guthrie Remix)",
+        "url": "https://open.spotify.com/album/4NYZyflURmFDah8baHKtye"
+      },
+      "artists": [
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        },
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        }
+      ],
+      "duration_ms": 249545,
+      "name": "Sure - Robin Guthrie Remix",
+      "url": "https://open.spotify.com/track/0zPpsKWrW2w5l3mqCsiOPy"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Matters",
+        "url": "https://open.spotify.com/album/3T0gHeXi1e900Bb9eue4e5"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00f6st",
+          "url": "https://open.spotify.com/artist/0thj1Xly1i0lA2XKQLH9gE"
+        }
+      ],
+      "duration_ms": 209630,
+      "name": "Record Still Spinning",
+      "url": "https://open.spotify.com/track/6h2jvV3Gwg6onowB0366IB"
     },
     {
       "added_at": "2021-06-03 02:39:04",

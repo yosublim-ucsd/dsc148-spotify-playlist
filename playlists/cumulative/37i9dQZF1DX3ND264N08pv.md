@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-148 songs - 8 hr 31 min
+149 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,12 +96,13 @@
 | [Mi Madre](https://open.spotify.com/track/7sy5W4vCjRAifgy14muCpP) | [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [Mi Madre](https://open.spotify.com/album/3jpDofUQPIy8xx7lLigl3Q) | 2:40 | 2022-12-08 | 2023-03-07 |
 | [MORE THAN HUMAN](https://open.spotify.com/track/3dKT1n8DfajEoMTyU3hMTU) | [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L) | [MORE THAN HUMAN](https://open.spotify.com/album/3GJfH79LQ6vBNLtA7rvNpF) | 2:53 | 2022-12-08 | 2022-12-25 |
 | [Mutilate](https://open.spotify.com/track/5Th8O9vWzImhIqb1kO8TLE) | [Chapter V](https://open.spotify.com/artist/1YYs95M2z6CIPc0zWfMrab), [Amduscias](https://open.spotify.com/artist/2s2uHpjXIyzhPIXkm8iP2y) | [Mutilate](https://open.spotify.com/album/1N5ZJaQFOrT6GJnqUW2c6b) | 3:50 | 2022-12-08 |  |
-| [Mythology of Hardcore \- Official Masters of Hardcore Russia 2022 Anthem](https://open.spotify.com/track/4Ia0P4lQDTzKYva6OWFSuW) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Mythology of Hardcore \(Official Masters of Hardcore Russia 2022 Anthem\)](https://open.spotify.com/album/6cHbfD9YozJvYcUIDF1J9J) | 4:55 | 2022-12-08 |  |
+| [Mythology of Hardcore \- Official Masters of Hardcore Russia 2022 Anthem](https://open.spotify.com/track/4Ia0P4lQDTzKYva6OWFSuW) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Mythology of Hardcore \(Official Masters of Hardcore Russia 2022 Anthem\)](https://open.spotify.com/album/6cHbfD9YozJvYcUIDF1J9J) | 4:55 | 2022-12-08 | 2023-04-29 |
 | [NARKOS](https://open.spotify.com/track/2gCNvpnuWTcV05hpFzZ1xd) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Parkineos](https://open.spotify.com/artist/1cMiNxpdh0mP5WFnPvr4xf) | [NARKOS](https://open.spotify.com/album/77Nlgy3Pbxf3CdSlcwyOas) | 3:31 | 2022-12-08 | 2023-03-07 |
 | [Never Write](https://open.spotify.com/track/6CMKhTF91JWU1FckJ1pinn) | [Basspunkz](https://open.spotify.com/artist/2Bu4MuM7Ub40rthUcfWxdQ), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [Never Write](https://open.spotify.com/album/5IkpgGQIiKIiasq06enuLo) | 3:06 | 2023-03-23 |  |
 | [No Matter](https://open.spotify.com/track/33C0wJkcVVMIy2aMIhgnVJ) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [No Matter](https://open.spotify.com/album/3HRodgTtyTaMaXqMFIKWsh) | 3:47 | 2022-12-08 | 2023-03-10 |
 | [NO MONEY](https://open.spotify.com/track/6wXivsC50mnHuToD2BAytt) | [GPF](https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4), [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv) | [NO MONEY](https://open.spotify.com/album/0lZNFfgKGF17zcHg86ylLm) | 3:21 | 2022-12-08 | 2023-03-07 |
 | [Not Afraid to Fall](https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Not Afraid to Fall](https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92) | 3:05 | 2023-03-08 |  |
+| [Numb](https://open.spotify.com/track/5v5rbWpEf9toQLUmMo1JdW) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [Numb](https://open.spotify.com/album/3B7aLTKz7ZNanHxu6K7cta) | 3:41 | 2023-04-28 |  |
 | [Oasis \- The Dark Horror Remix](https://open.spotify.com/track/1EBbJK4lkT2dpsgZoaioRD) | [Mark With a K](https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ), [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [Oasis \(The Dark Horror Remix\)](https://open.spotify.com/album/37PYdrUtg45otbte44i8C1) | 3:14 | 2023-01-26 |  |
 | [Omega \- Live Edit](https://open.spotify.com/track/0zC6ICRWrAEDFbyyi0crJ4) | [Ncrypta](https://open.spotify.com/artist/598i9uHpVAukdj6QRUEaq6), [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC) | [Omega \(Live Edit\)](https://open.spotify.com/album/6TYuQciQswy9WLmtBwmBYo) | 3:31 | 2022-12-08 |  |
 | [OMG](https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [OMG](https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc) | 2:58 | 2022-12-08 |  |

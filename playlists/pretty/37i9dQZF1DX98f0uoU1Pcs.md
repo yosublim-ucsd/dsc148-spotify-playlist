@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Teenage Wrist
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,171 likes - 105 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,235 likes - 105 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 13 | [Sucker Punch](https://open.spotify.com/track/1L2AtASJngCKtTgYE91N0G) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Sucker Punch](https://open.spotify.com/album/70a7UgQQSrsHc50Dfcwqdu) | 3:41 |
 | 14 | [Dying Plant](https://open.spotify.com/track/5pl2bLHJA6CPDvVAWcVcG4) | [Early Eyes](https://open.spotify.com/artist/5Vd6nIpBPLzJDQDcvILQu4) | [Look Alive!](https://open.spotify.com/album/1w0j1VEeFATnYcF9Vvh9UQ) | 3:06 |
 | 15 | [What You Did](https://open.spotify.com/track/3PfPDRwntf2v4iohiINx7s) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [What You Did](https://open.spotify.com/album/3zJKF1QzRphIyM2V2qEbnP) | 3:02 |
-| 16 | [Keys Down If You Stay](https://open.spotify.com/track/3vamncl7v4nWvIs9iEnFoF) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Keys Down If You Stay](https://open.spotify.com/album/0i388dpoywonebIluQJNIc) | 3:44 |
+| 16 | [Keys Down If You Stay](https://open.spotify.com/track/6CDSQOk2YWOgJ6oecwE4GG) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Keys Down If You Stay](https://open.spotify.com/album/3MitGCRd6KY8Ttqx1G1jlM) | 3:44 |
 | 17 | [Fingers of Steel](https://open.spotify.com/track/0aanNVtIr5u9qy0MFlzUFz) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 4:21 |
 | 18 | [To Death](https://open.spotify.com/track/1cGM4KM6XcQnq3vSnf5VjE) | [EXES](https://open.spotify.com/artist/39R87tT1qaTxHwu5m87USa) | [To Death](https://open.spotify.com/album/2DxtdOUQLlGZF0HTlwtTo9) | 3:14 |
 | 19 | [FUBAR](https://open.spotify.com/track/0TOoqfApKrOaCgvEFUDXHc) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos) | [FUBAR](https://open.spotify.com/album/6eZo6l9EtVb5hM3MtdFnjx) | 2:52 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 104 | [Tidal River](https://open.spotify.com/track/2IAWpK4ez7m987Xxy5hGMl) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Endless Rooms](https://open.spotify.com/album/2inG3MxvNhZYd808mnhbOW) | 4:26 |
 | 105 | [Head On](https://open.spotify.com/track/42vq2Ww3BMk7HE8iL6yWF4) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG), [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Head On](https://open.spotify.com/album/4spRalyH6f1l2kRMxUbU19) | 2:38 |
 
-Snapshot ID: `MCwyN2Q2MjgwMTFkNjk2ZDc2YWE0MmNlMzEzNGVlMzQ0MzRjMjJhZmQ3`
+Snapshot ID: `MCxhZTMyMjQyOWI3NTI1ZmE3ZDgyN2E1YzYxNTVjZjBlNTcwMzYyNzg2`

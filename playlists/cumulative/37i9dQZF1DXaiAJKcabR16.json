@@ -1486,6 +1486,24 @@
     {
       "album": {
         "name": "Thousand Mile Night",
+        "url": "https://open.spotify.com/album/61RF8IAtnbqiwQbENoVqQS"
+      },
+      "artists": [
+        {
+          "name": "Jonah Tolchin",
+          "url": "https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233173,
+      "name": "Thousand Mile Night",
+      "url": "https://open.spotify.com/track/7daWU6T6qzj6W2e8wVDg3D"
+    },
+    {
+      "album": {
+        "name": "Thousand Mile Night",
         "url": "https://open.spotify.com/album/3NrqvphiHgZq1golNdpyKv"
       },
       "artists": [
@@ -1514,7 +1532,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 235173,
       "name": "Thousand Mile Night",
       "url": "https://open.spotify.com/track/4q4F2OEZJ2EQuRNBKytiDr"

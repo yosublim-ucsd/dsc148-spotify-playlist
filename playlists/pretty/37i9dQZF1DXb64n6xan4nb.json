@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s. (\ud55c \uc2dc\uc808 \uac10\uc131\uc744 \ub300\ud45c\ud588\ub358 \uc2f8\uc774\uc6d4\ub4dc BGM\uc744 \uac10\uc0c1\ud574\ubcf4\uc138\uc694.)",
-  "num_followers": 24234,
+  "num_followers": 24258,
   "original_name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWMwMjQ5YWM4MDk4OTZkYmE5ZTM1MmUzYTYxNWM3Y2Q5NDBjODEz",
+  "snapshot_id": "MCw4ODc0ZTM1YWM2MWRiYTYwMjA0OWU1NDA3NWE5OTdiODRhNjY1NDU0",
   "tracks": [
     {
       "added_at": "2022-06-13 13:22:46",
@@ -483,6 +483,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "Davichi In Wonderland",
+        "url": "https://open.spotify.com/album/1nsgg32Iq4kANSRjdAxRTo"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 219160,
+      "name": "8282",
+      "url": "https://open.spotify.com/track/7y4oE4ATKrE9XIM9XSeyQN"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "Pieces, Part One",
         "url": "https://open.spotify.com/album/1xepnoe8Uet49Nh0nv20lO"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 301720,
       "name": "\uc6b0\uc0b0 (feat. \uc724\ud558)",
       "url": "https://open.spotify.com/track/1VnjByC7TUx5A73A4qtgoo"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "Davichi In Wonderland",
-        "url": "https://open.spotify.com/album/1nsgg32Iq4kANSRjdAxRTo"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 219160,
-      "name": "8282",
-      "url": "https://open.spotify.com/track/7y4oE4ATKrE9XIM9XSeyQN"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/746nbyp8GqmfObP8o4CEZb"
-      },
-      "artists": [
-        {
-          "name": "DELISPICE",
-          "url": "https://open.spotify.com/artist/3zH8Xu8C1GnnmfpBqzdLPf"
-        }
-      ],
-      "duration_ms": 323531,
-      "name": "\uace0\ubc31",
-      "url": "https://open.spotify.com/track/20tWEsVsKU6FfzXGt4IOuV"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Back To The Soul Flight",
         "url": "https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 266506,
       "name": "\uadc0\ub85c",
       "url": "https://open.spotify.com/track/5B6ewNeXBcIDHqzsgAn6Dk"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/746nbyp8GqmfObP8o4CEZb"
+      },
+      "artists": [
+        {
+          "name": "DELISPICE",
+          "url": "https://open.spotify.com/artist/3zH8Xu8C1GnnmfpBqzdLPf"
+        }
+      ],
+      "duration_ms": 323531,
+      "name": "\uace0\ubc31",
+      "url": "https://open.spotify.com/track/20tWEsVsKU6FfzXGt4IOuV"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Made In Korea?",
-        "url": "https://open.spotify.com/album/1Gm4TRAlvSj5RB8pM3wmRk"
-      },
-      "artists": [
-        {
-          "name": "cherryfilter",
-          "url": "https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2"
-        }
-      ],
-      "duration_ms": 230240,
-      "name": "sweet little kitty",
-      "url": "https://open.spotify.com/track/0wdchmE75VwSL2zTAgbFra"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Neo Classicism",
         "url": "https://open.spotify.com/album/2O7fmlpysRtW6rjIqSJsul"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 342491,
       "name": "\ub208\uc758 \uaf43",
       "url": "https://open.spotify.com/track/6feQC1GrcSwO5WqYQqncIW"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Made In Korea?",
+        "url": "https://open.spotify.com/album/1Gm4TRAlvSj5RB8pM3wmRk"
+      },
+      "artists": [
+        {
+          "name": "cherryfilter",
+          "url": "https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2"
+        }
+      ],
+      "duration_ms": 230240,
+      "name": "sweet little kitty",
+      "url": "https://open.spotify.com/track/0wdchmE75VwSL2zTAgbFra"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Longing",
-        "url": "https://open.spotify.com/album/5HOLb1Hdf9asv3tWWiUkva"
-      },
-      "artists": [
-        {
-          "name": "Noel",
-          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "Missing you",
-      "url": "https://open.spotify.com/track/0OnYYBxChwtrOcb9xWdhfS"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Re - Feel",
         "url": "https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 272875,
       "name": "The man and the woman",
       "url": "https://open.spotify.com/track/4m2OYFeg88zIZBKdQKsggf"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Longing",
+        "url": "https://open.spotify.com/album/5HOLb1Hdf9asv3tWWiUkva"
+      },
+      "artists": [
+        {
+          "name": "Noel",
+          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "Missing you",
+      "url": "https://open.spotify.com/track/0OnYYBxChwtrOcb9xWdhfS"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "Re - Feel",
+        "url": "https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w"
+      },
+      "artists": [
+        {
+          "name": "VIBE",
+          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
+        }
+      ],
+      "duration_ms": 245159,
+      "name": "I drink again",
+      "url": "https://open.spotify.com/track/68SpcwzDfyFYaM6dMSEtRk"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "\ub098\ub294\uac00\uc218\ub2e4 \uc2dc\uc98c3 1\ud68c '\uc790\uc2e0\uc758 \ub300\ud45c\uace1'",
         "url": "https://open.spotify.com/album/4taROD1UypCjbIgisuLolT"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 226998,
       "name": "\uc5ec\uc790\uc774\ub2c8\uae4c",
       "url": "https://open.spotify.com/track/0tawSXXpPaKN4zoTpe8dx9"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "Re - Feel",
-        "url": "https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w"
-      },
-      "artists": [
-        {
-          "name": "VIBE",
-          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
-        }
-      ],
-      "duration_ms": 245159,
-      "name": "I drink again",
-      "url": "https://open.spotify.com/track/68SpcwzDfyFYaM6dMSEtRk"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Vivid Summer Edition 1st Amaranth Repackage Album",
-        "url": "https://open.spotify.com/album/506YM58qyGoCHcTB1EZmVS"
+        "name": "Exhibition 2",
+        "url": "https://open.spotify.com/album/0U916uzyklE8bn8hMlrX3t"
       },
       "artists": [
         {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+          "name": "Exhibition",
+          "url": "https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE"
         }
       ],
-      "duration_ms": 259372,
-      "name": "\uc0ac\ub791\uacfc \uc804\uc7c1 - \ud558\ud558 Narration Version",
-      "url": "https://open.spotify.com/track/17nIj0cUDWtrsj5NbTh3E5"
+      "duration_ms": 320055,
+      "name": "Druken Truth",
+      "url": "https://open.spotify.com/track/39FFkPyRLQtYBJkgV6ETAw"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Exhibition 2",
-        "url": "https://open.spotify.com/album/0U916uzyklE8bn8hMlrX3t"
-      },
-      "artists": [
-        {
-          "name": "Exhibition",
-          "url": "https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE"
-        }
-      ],
-      "duration_ms": 320055,
-      "name": "Druken Truth",
-      "url": "https://open.spotify.com/track/39FFkPyRLQtYBJkgV6ETAw"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Kim Hyung Joong",
         "url": "https://open.spotify.com/album/2PqgCecKYA280VFveIfHCN"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 269832,
       "name": "\uadf8\ub7ac\ub098\ubd10",
       "url": "https://open.spotify.com/track/73sCf6xzgU9gJrkxz45HLz"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Vivid Summer Edition 1st Amaranth Repackage Album",
+        "url": "https://open.spotify.com/album/506YM58qyGoCHcTB1EZmVS"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 259372,
+      "name": "\uc0ac\ub791\uacfc \uc804\uc7c1 - \ud558\ud558 Narration Version",
+      "url": "https://open.spotify.com/track/17nIj0cUDWtrsj5NbTh3E5"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "The Wind, The Sea, The Rain",
-        "url": "https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL"
-      },
-      "artists": [
-        {
-          "name": "BROWN EYED SOUL",
-          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
-        }
-      ],
-      "duration_ms": 263533,
-      "name": "Nothing Better",
-      "url": "https://open.spotify.com/track/1c3YKD6HDervPsw0nHxlhh"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "TAKE",
         "url": "https://open.spotify.com/album/78VoNmapJTpUoSgUcJN93v"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 269731,
       "name": "Butterfly Grave (2015)",
       "url": "https://open.spotify.com/track/0e4dVbS45E8d7eB8QtaZAn"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "The Wind, The Sea, The Rain",
+        "url": "https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL"
+      },
+      "artists": [
+        {
+          "name": "BROWN EYED SOUL",
+          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
+        }
+      ],
+      "duration_ms": 263533,
+      "name": "Nothing Better",
+      "url": "https://open.spotify.com/track/1c3YKD6HDervPsw0nHxlhh"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "\uadf8\ub140\uac00 \uc6c3\uc796\uc544",
-        "url": "https://open.spotify.com/album/7khCA52u74RIec1Cpg6uEi"
-      },
-      "artists": [
-        {
-          "name": "\uae40\ud615\uc911",
-          "url": "https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp"
-        }
-      ],
-      "duration_ms": 269362,
-      "name": "\uadf8\ub140\uac00 \uc6c3\uc796\uc544....",
-      "url": "https://open.spotify.com/track/2vx6QD9i5UTKkXQOjJ3DHW"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "So Sniper",
         "url": "https://open.spotify.com/album/6vLSUj4W57HW7H7TudcBFk"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 263485,
       "name": "Bk Love",
       "url": "https://open.spotify.com/track/12WJh701b8EPb7E1sG1U0t"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "\uadf8\ub140\uac00 \uc6c3\uc796\uc544",
+        "url": "https://open.spotify.com/album/7khCA52u74RIec1Cpg6uEi"
+      },
+      "artists": [
+        {
+          "name": "\uae40\ud615\uc911",
+          "url": "https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp"
+        }
+      ],
+      "duration_ms": 269362,
+      "name": "\uadf8\ub140\uac00 \uc6c3\uc796\uc544....",
+      "url": "https://open.spotify.com/track/2vx6QD9i5UTKkXQOjJ3DHW"
     },
     {
       "added_at": "2022-06-13 13:22:46",

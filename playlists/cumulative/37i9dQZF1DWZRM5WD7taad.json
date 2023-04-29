@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Mujeres raperas rompi\u00e9ndola en toda Latinoam\u00e9rica. Young Miko en portada.",
+  "description": "Mujeres raperas rompi\u00e9ndola en toda Latinoam\u00e9rica. Samantha Barr\u00f3n en portada.",
   "name": "Femcees",
   "tracks": [
     {
@@ -2291,6 +2291,28 @@
     },
     {
       "album": {
+        "name": "My Bae",
+        "url": "https://open.spotify.com/album/3BSBuJHqZtZtzEK7ZYmZr9"
+      },
+      "artists": [
+        {
+          "name": "Samanta Duque",
+          "url": "https://open.spotify.com/artist/0tZfsqImQ4jKbuMYIj8rpl"
+        },
+        {
+          "name": "FineSound Music",
+          "url": "https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143834,
+      "name": "My Bae",
+      "url": "https://open.spotify.com/track/2L2d7gAq5yZqXhpudUi61Z"
+    },
+    {
+      "album": {
         "name": "Nada M\u00e1s",
         "url": "https://open.spotify.com/album/0B63I00LvOlF2F4DDWPqv2"
       },
@@ -3392,6 +3414,28 @@
       "duration_ms": 118878,
       "name": "Traka Tra",
       "url": "https://open.spotify.com/track/2VENs7vBhbZqWYJiIzbr0y"
+    },
+    {
+      "album": {
+        "name": "Tu Brillo",
+        "url": "https://open.spotify.com/album/0NrZC0vo1PbWryhZ6CVpz9"
+      },
+      "artists": [
+        {
+          "name": "Astrid Cruz",
+          "url": "https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i"
+        },
+        {
+          "name": "Jose Macario",
+          "url": "https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224571,
+      "name": "Tu Brillo",
+      "url": "https://open.spotify.com/track/6H8hPUeBCKrDlPDkJA80fV"
     },
     {
       "album": {

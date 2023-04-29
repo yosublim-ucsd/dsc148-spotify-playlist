@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 118841,
+  "num_followers": 118890,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOWYyM2U5NmUwMzhhYjY0ZjVkODU3ZmFiYmEzMmU3Yzg2MjU2NTNl",
+  "snapshot_id": "MCxkN2JlYTFkOTk2ZmIzOGM1Zjc2YjE0YjI1NjQ5OGRiNmI3YmRkNGM0",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-01-11 02:53:42",
       "album": {
-        "name": "MGANGA!",
-        "url": "https://open.spotify.com/album/15jEM8o3CyVez6n1I0dERU"
-      },
-      "artists": [
-        {
-          "name": "Tak Shindo",
-          "url": "https://open.spotify.com/artist/5UQlFN6A5bUNcuGnG4d9aR"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Mombasa Love Song",
-      "url": "https://open.spotify.com/track/5PggdfNnUPNg7nwGZSBNiw"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
         "name": "Voodoo!",
         "url": "https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892"
       },
@@ -303,6 +287,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "Hana Hou! Vol. 1",
+        "url": "https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt"
+      },
+      "artists": [
+        {
+          "name": "Genoa Keawe",
+          "url": "https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy"
+        }
+      ],
+      "duration_ms": 276693,
+      "name": "Alika",
+      "url": "https://open.spotify.com/track/5VUZ3kwdQHr9rMVkJot15R"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "Ultra-Lounge: Bossa Novaville",
         "url": "https://open.spotify.com/album/5utRkK1KmqAY9H5UiRT2WM"
       },
@@ -319,22 +319,6 @@
       "duration_ms": 137706,
       "name": "So Nice (Samba De Verao) - Remastered",
       "url": "https://open.spotify.com/track/3xkNsybtI1tNUNhVyI99yO"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Hana Hou! Vol. 1",
-        "url": "https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt"
-      },
-      "artists": [
-        {
-          "name": "Genoa Keawe",
-          "url": "https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy"
-        }
-      ],
-      "duration_ms": 276693,
-      "name": "Alika",
-      "url": "https://open.spotify.com/track/5VUZ3kwdQHr9rMVkJot15R"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -369,38 +353,6 @@
       "url": "https://open.spotify.com/track/5tToPiK5y6qwqTSZNUIds7"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Hawaiian Sunset",
-        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 146733,
-      "name": "Kawohikukupulani",
-      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "The Soul Of The Drums",
-        "url": "https://open.spotify.com/album/5lJ4DgN4VRUi7IUeeGgub0"
-      },
-      "artists": [
-        {
-          "name": "Les Baxter",
-          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
-        }
-      ],
-      "duration_ms": 135946,
-      "name": "Coffee Bean / Calabash Annie",
-      "url": "https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Voodoo!",
@@ -419,6 +371,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "The Soul Of The Drums",
+        "url": "https://open.spotify.com/album/5lJ4DgN4VRUi7IUeeGgub0"
+      },
+      "artists": [
+        {
+          "name": "Les Baxter",
+          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
+        }
+      ],
+      "duration_ms": 135946,
+      "name": "Coffee Bean / Calabash Annie",
+      "url": "https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "The Golden Voice of Hawai'i, Vol. 1",
         "url": "https://open.spotify.com/album/25lpHzBnWxYSxdcBYFrGXp"
       },
@@ -431,6 +399,22 @@
       "duration_ms": 215680,
       "name": "I Kona",
       "url": "https://open.spotify.com/track/0lDQYpyEmJETEUgszTP6Ns"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Hawaiian Sunset",
+        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 146733,
+      "name": "Kawohikukupulani",
+      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -515,22 +499,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Carnival Tropicana (1948) & Lure of the Tropics (1954)",
-        "url": "https://open.spotify.com/album/73y7cyxT1PqKOz9nrGrTYz"
-      },
-      "artists": [
-        {
-          "name": "Andre Kostelanetz & His Orchestra",
-          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
-        }
-      ],
-      "duration_ms": 259519,
-      "name": "Lotus Land",
-      "url": "https://open.spotify.com/track/0OLE9z8MZvut1EoTPmXXL7"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Yellow Bird",
         "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
       },
@@ -543,6 +511,22 @@
       "duration_ms": 164920,
       "name": "Yellow Bird",
       "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Carnival Tropicana (1948) & Lure of the Tropics (1954)",
+        "url": "https://open.spotify.com/album/73y7cyxT1PqKOz9nrGrTYz"
+      },
+      "artists": [
+        {
+          "name": "Andre Kostelanetz & His Orchestra",
+          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
+        }
+      ],
+      "duration_ms": 259519,
+      "name": "Lotus Land",
+      "url": "https://open.spotify.com/track/0OLE9z8MZvut1EoTPmXXL7"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -721,22 +705,6 @@
       "url": "https://open.spotify.com/track/32BuDphsq9t2o2j0L4SRrP"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Ultra-Lounge: Bongoland",
-        "url": "https://open.spotify.com/album/40UF9C7spOXFRsCKddfrnO"
-      },
-      "artists": [
-        {
-          "name": "Terry Snyder",
-          "url": "https://open.spotify.com/artist/0iEZsPAuFqcd3MzuyxMIOc"
-        }
-      ],
-      "duration_ms": 341760,
-      "name": "Deep Night/Softly As In A Morning Sunrise - Medley",
-      "url": "https://open.spotify.com/track/1vazfHobo3MVJPUD9eFSs5"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Quiet Village",
@@ -751,6 +719,22 @@
       "duration_ms": 138133,
       "name": "Hawaiian War Chant",
       "url": "https://open.spotify.com/track/4GuEQQreVfdO89NVhDGjdA"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Ultra-Lounge: Bongoland",
+        "url": "https://open.spotify.com/album/40UF9C7spOXFRsCKddfrnO"
+      },
+      "artists": [
+        {
+          "name": "Terry Snyder",
+          "url": "https://open.spotify.com/artist/0iEZsPAuFqcd3MzuyxMIOc"
+        }
+      ],
+      "duration_ms": 341760,
+      "name": "Deep Night/Softly As In A Morning Sunrise - Medley",
+      "url": "https://open.spotify.com/track/1vazfHobo3MVJPUD9eFSs5"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -833,22 +817,6 @@
       "url": "https://open.spotify.com/track/2IFc95wACtdfB2tCMStLgy"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Vintage Dance Orchestras No. 304 - EP: Provocative Cha Cha Cha",
-        "url": "https://open.spotify.com/album/2lSnwuw4dkzBcVoXFP1RLM"
-      },
-      "artists": [
-        {
-          "name": "Enoch Light And His Orchestra",
-          "url": "https://open.spotify.com/artist/6OoJgs9H4YzzniwXUwY7Yc"
-        }
-      ],
-      "duration_ms": 161595,
-      "name": "Too Young Cha Cha",
-      "url": "https://open.spotify.com/track/0dCWH5s6UEeqsSGSVsdvCS"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Ultra-Lounge/Mondo Exotica: Volume One",
@@ -863,6 +831,22 @@
       "duration_ms": 196226,
       "name": "Hana Maui - Digitally Remastered 1995",
       "url": "https://open.spotify.com/track/0XN9TYjtGswD7jsLsg6xU2"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Vintage Dance Orchestras No. 304 - EP: Provocative Cha Cha Cha",
+        "url": "https://open.spotify.com/album/2lSnwuw4dkzBcVoXFP1RLM"
+      },
+      "artists": [
+        {
+          "name": "Enoch Light And His Orchestra",
+          "url": "https://open.spotify.com/artist/6OoJgs9H4YzzniwXUwY7Yc"
+        }
+      ],
+      "duration_ms": 161595,
+      "name": "Too Young Cha Cha",
+      "url": "https://open.spotify.com/track/0dCWH5s6UEeqsSGSVsdvCS"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -929,22 +913,6 @@
       "url": "https://open.spotify.com/track/0eMTkns8etyZ1JJIJnYxzb"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Kiss Me Love",
-        "url": "https://open.spotify.com/album/0N6oSzUcJjfdctbWbhn1ug"
-      },
-      "artists": [
-        {
-          "name": "Buddy Fo & His Group",
-          "url": "https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI"
-        }
-      ],
-      "duration_ms": 229200,
-      "name": "Mi Nei",
-      "url": "https://open.spotify.com/track/1inCS7eh6vHSqftROoVKEL"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Ultra-Lounge/Mondo Exotica: Volume One",
@@ -963,6 +931,22 @@
       "duration_ms": 179800,
       "name": "Lust",
       "url": "https://open.spotify.com/track/0lF6dbEwpoXr0efP2p2Nsm"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Kiss Me Love",
+        "url": "https://open.spotify.com/album/0N6oSzUcJjfdctbWbhn1ug"
+      },
+      "artists": [
+        {
+          "name": "Buddy Fo & His Group",
+          "url": "https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI"
+        }
+      ],
+      "duration_ms": 229200,
+      "name": "Mi Nei",
+      "url": "https://open.spotify.com/track/1inCS7eh6vHSqftROoVKEL"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -1203,6 +1187,22 @@
       "duration_ms": 154575,
       "name": "Ringo Oiwake",
       "url": "https://open.spotify.com/track/56H0tyRn6CJ5J7vLCVcOe1"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "MGANGA!",
+        "url": "https://open.spotify.com/album/421iMthufbbRmsu87uHsOS"
+      },
+      "artists": [
+        {
+          "name": "Tak Shindo",
+          "url": "https://open.spotify.com/artist/5UQlFN6A5bUNcuGnG4d9aR"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Mombasa Love Song",
+      "url": "https://open.spotify.com/track/4M2Na0IrNuE3oY53fQomTi"
     },
     {
       "added_at": "2021-01-20 03:50:53",

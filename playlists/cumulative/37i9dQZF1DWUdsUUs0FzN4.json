@@ -1,8 +1,34 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Con licuachela en mano y perreando hasta el piso. El Alfa en portada",
+  "description": "Con licuachela en mano y perreando hasta el piso. L-Gante en portada. ",
   "name": "Perreo Bellakoso",
   "tracks": [
+    {
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/0UFpK7CNrmjBhFybF2edXh"
+      },
+      "artists": [
+        {
+          "name": "Den G One",
+          "url": "https://open.spotify.com/artist/51KTxyt8WoLRRcKAZzUHew"
+        },
+        {
+          "name": "Jem Beats",
+          "url": "https://open.spotify.com/artist/4ZRrxRG0VNdLS6rFWt3S91"
+        },
+        {
+          "name": "El Gabo",
+          "url": "https://open.spotify.com/artist/6pZUZREhy1N0zYHO6pDAJb"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113831,
+      "name": "23",
+      "url": "https://open.spotify.com/track/4jlDZhdrDYzeVIjx0tklrM"
+    },
     {
       "album": {
         "name": "A Mover Ese Booty (feat. n-Yel)",
@@ -20,7 +46,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 157347,
       "name": "A Mover Ese Booty (feat. n-Yel)",
       "url": "https://open.spotify.com/track/04SjhfpIKuLzsxCUYY838j"
@@ -42,7 +68,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 197147,
       "name": "A Poto Pe",
       "url": "https://open.spotify.com/track/6iu7Evq3KjMKFWSQlKQnhW"
@@ -397,6 +423,24 @@
     },
     {
       "album": {
+        "name": "BELLAKITA",
+        "url": "https://open.spotify.com/album/6Fj0GkKMMINezcKru5p1ju"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132244,
+      "name": "BELLAKITA",
+      "url": "https://open.spotify.com/track/2l58pc9aJRjkoj5RcesCJF"
+    },
+    {
+      "album": {
         "name": "Bellaqueo",
         "url": "https://open.spotify.com/album/1fmElrJHcZ7h94fcadBbPw"
       },
@@ -482,7 +526,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 163880,
       "name": "Bien Beb\u00e9",
       "url": "https://open.spotify.com/track/74LXuYE8UubyCvLIrslqG5"
@@ -622,7 +666,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 199546,
       "name": "Chakalicious",
       "url": "https://open.spotify.com/track/7nVWFGzVmdwfLqJeptkfda"
@@ -888,7 +932,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 190931,
       "name": "Cumbiatronik",
       "url": "https://open.spotify.com/track/18Ms0QJv4moFhSUJG22Qpk"
@@ -1072,7 +1116,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 215160,
       "name": "Diabla en bellakera",
       "url": "https://open.spotify.com/track/6Tm42ujjFYSmYPG2t0QCbu"
@@ -1784,7 +1828,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 187580,
       "name": "La Mano (feat. Tavo Rayo)",
       "url": "https://open.spotify.com/track/3YFt3sGjTaCL0kj3YfV4VG"
@@ -1802,7 +1846,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 253987,
       "name": "Le Encanta",
       "url": "https://open.spotify.com/track/58WWCAi0pGb9Kw49BnGTXI"
@@ -1901,6 +1945,28 @@
     },
     {
       "album": {
+        "name": "Lo Que Pas\u00f3 Ayer",
+        "url": "https://open.spotify.com/album/3gOy55ITvra2iZ1eTsx6yR"
+      },
+      "artists": [
+        {
+          "name": "Inzunza",
+          "url": "https://open.spotify.com/artist/5Yv10NlxqvTchOR3rwMuNM"
+        },
+        {
+          "name": "Thega Diaz",
+          "url": "https://open.spotify.com/artist/5IikrGLvqxeVqr1Sco72eG"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169142,
+      "name": "Lo Que Pas\u00f3 Ayer",
+      "url": "https://open.spotify.com/track/2RSkodSjQbhRKbozUWLe6u"
+    },
+    {
+      "album": {
         "name": "Los Bellacos 2.0",
         "url": "https://open.spotify.com/album/0jzQMCM8KzCLggzr1XI8MK"
       },
@@ -1942,7 +2008,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 164210,
       "name": "LOS CULOS DE MEDALLO",
       "url": "https://open.spotify.com/track/2CvfXjMfoheLIdjlkIBjXA"
@@ -2180,7 +2246,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 159612,
       "name": "MODO CHAKALON",
       "url": "https://open.spotify.com/track/5YZfSRxRixDOVR2O5AQL1F"
@@ -2232,6 +2298,62 @@
       "duration_ms": 206000,
       "name": "M\u00e1s Tarde (Remix)",
       "url": "https://open.spotify.com/track/46kwFYNCjWyNtc92c8ShxN"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Tarde (Remix)",
+        "url": "https://open.spotify.com/album/3YeYvTtjuhqI0syIeMAhaA"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Elilluminari",
+          "url": "https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq"
+        },
+        {
+          "name": "Ey Gary",
+          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "M\u00e1s Tarde - Remix",
+      "url": "https://open.spotify.com/track/6RE8xvoIrJSBQGPSC6V3mr"
+    },
+    {
+      "album": {
+        "name": "Club16, Jota Rosa Presents Vol. 2",
+        "url": "https://open.spotify.com/album/2wVZ2SzvRStpgyNmXo9s8d"
+      },
+      "artists": [
+        {
+          "name": "Club16",
+          "url": "https://open.spotify.com/artist/2MXDat5eYxVcnHht0N2uSF"
+        },
+        {
+          "name": "Jota Rosa",
+          "url": "https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "DJ Blass",
+          "url": "https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138209,
+      "name": "Nebuleo (feat. DJ Blass)",
+      "url": "https://open.spotify.com/track/1B49GDycK8rmbVqLhFD86z"
     },
     {
       "album": {
@@ -2363,6 +2485,32 @@
     },
     {
       "album": {
+        "name": "Pal Bellakeo",
+        "url": "https://open.spotify.com/album/3mdzmfzXoCh1Ns2DqYQ4kM"
+      },
+      "artists": [
+        {
+          "name": "DJ Pedro Fuentes",
+          "url": "https://open.spotify.com/artist/6Ez7LiWGLxUAl9Gso9zEDs"
+        },
+        {
+          "name": "Mad Fuentes",
+          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
+        },
+        {
+          "name": "Landa Freak",
+          "url": "https://open.spotify.com/artist/5UI5YivmqSABGCxa0umj2D"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212630,
+      "name": "Pal Bellakeo",
+      "url": "https://open.spotify.com/track/3HNJzcAtMDkmyjcIP4AekL"
+    },
+    {
+      "album": {
         "name": "Pal Piso",
         "url": "https://open.spotify.com/album/0e6Nt0OXxodh9djO8Gky7X"
       },
@@ -2470,7 +2618,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 120007,
       "name": "Pasto, Pastillas & Botella",
       "url": "https://open.spotify.com/track/5aBMMJx7RCAEzg2y38APUf"
@@ -2556,7 +2704,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 170400,
       "name": "Perra",
       "url": "https://open.spotify.com/track/1vEHlZqC9x8fVyVjPeIgVn"
@@ -2618,7 +2766,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 136162,
       "name": "Perreo Chakalon",
       "url": "https://open.spotify.com/track/3Mwty5hFEbRARdiMsS6Kyr"
@@ -2732,15 +2880,11 @@
         {
           "name": "Neron Delta",
           "url": "https://open.spotify.com/artist/1ELi0AzjhCOn9DxBAYbyTO"
-        },
-        {
-          "name": "Chiky Dee Jay",
-          "url": "https://open.spotify.com/artist/4z5uBsnmFPLFsGa5hQvLGO"
         }
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 174641,
       "name": "Pi\u00f1a",
       "url": "https://open.spotify.com/track/4tYnor4oKHQ4q9NSFoUUB8"
@@ -2766,7 +2910,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 186122,
       "name": "Ponte Puti",
       "url": "https://open.spotify.com/track/6mNKWF3vmMDmYu0dWyqNT9"
@@ -2932,7 +3076,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 140643,
       "name": "Puta Rara, Puta Dominicana",
       "url": "https://open.spotify.com/track/7K4GdyNrfmE4QmEsDE5Xwi"
@@ -3038,7 +3182,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 149801,
       "name": "REBOTA",
       "url": "https://open.spotify.com/track/1YFVWYOb38ypAtMmS2eWBD"
@@ -3112,7 +3256,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 216032,
       "name": "Rompe La Discoteca",
       "url": "https://open.spotify.com/track/0eQWSNIz6EqM0DybEyOsJR"
@@ -3514,7 +3658,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 131437,
       "name": "Tiki Tiki",
       "url": "https://open.spotify.com/track/2J8lIDwvxPZQQ0I0wt1oRO"
@@ -3532,7 +3676,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 144559,
       "name": "TODOS MIS FLAITES",
       "url": "https://open.spotify.com/track/6up18iDKks8V7PyNnFMUC6"
@@ -3588,7 +3732,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 203478,
       "name": "Toketeo",
       "url": "https://open.spotify.com/track/0pRgURvgp75RPKjTGQodau"
@@ -3658,7 +3802,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 182857,
       "name": "Tu Gato Bellaco - Remix",
       "url": "https://open.spotify.com/track/6eB74UiUNkI7JJBhhr3Y6C"
@@ -3745,6 +3889,24 @@
     },
     {
       "album": {
+        "name": "TUER",
+        "url": "https://open.spotify.com/album/2pObyrcegzMolYO1FfnGXl"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178487,
+      "name": "TUER",
+      "url": "https://open.spotify.com/track/7v8klmTCgbUUXblgOWTZBY"
+    },
+    {
+      "album": {
         "name": "Boricua Reggaeton Clasicos de Barrio, Vol. 1",
         "url": "https://open.spotify.com/album/6bUq5lb8Dgl3whC2xgrXCl"
       },
@@ -3800,7 +3962,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 164210,
       "name": "Vota X Mi",
       "url": "https://open.spotify.com/track/7wJCRaV0z6Ca9b4YjP04wf"

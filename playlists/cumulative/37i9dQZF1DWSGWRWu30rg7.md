@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Allan Andersn
 
-1,792 songs - 4 day 13 hr 47 min
+1,793 songs - 4 day 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,6 +399,7 @@
 | [Divide](https://open.spotify.com/track/6cmYmPQOAOjAazBPrGZKBf) | [Kartik Kuna](https://open.spotify.com/artist/5kA8bovz1xGeNSZ2pjc2du), [Krista Monica](https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz) | [Divide](https://open.spotify.com/album/2u5uQozaNHveKDK3oMVgNu) | 4:11 | 2022-03-24 | 2022-04-15 |
 | [Do Do Do](https://open.spotify.com/track/3LV62s0lpp9WUv6FllH86b) | [Ghaniyya ghazi](https://open.spotify.com/artist/5PIiQ7ZNG2Ij5LHNBtJhbA) | [Transition](https://open.spotify.com/album/0kDyjKn8SPdPUiaaBNd3Ya) | 3:32 | 2022-11-30 | 2023-01-13 |
 | [Do Do Do](https://open.spotify.com/track/7I8fKkJqpLZqJRXar0R8Rj) | [Ghaniyya ghazi](https://open.spotify.com/artist/5PIiQ7ZNG2Ij5LHNBtJhbA) | [Do Do Do](https://open.spotify.com/album/6XUJJ6Zf5ArvFvo603okbN) | 3:32 | 2022-07-07 | 2022-08-06 |
+| [Do Good](https://open.spotify.com/track/305kzvyndabF5p1IqPDys9) | [ALMIRA](https://open.spotify.com/artist/2IO36KLHh4Bydo52Qa5u1m) | [Do Good](https://open.spotify.com/album/6v22orf84J2APwZluLjdB1) | 4:01 | 2023-04-28 |  |
 | [Do U Mind](https://open.spotify.com/track/658yYzdG6uxKJEZw9ezQ3Q) | [Davi Sol](https://open.spotify.com/artist/3zJT799hLRH5sT6AucfyPD) | [Do U Mind](https://open.spotify.com/album/0EebYL7DwRV24NKhxS0Rzg) | 3:33 | 2022-05-26 | 2022-06-10 |
 | [Do What You Came For](https://open.spotify.com/track/0rQyoipBNFkab7WMRJJRxI) | [Christo Edgar](https://open.spotify.com/artist/7i2vbzCSBa8v9jj9BG4jLz) | [Do What You Came For](https://open.spotify.com/album/4lc1pp5tw1O6th9h82H8FC) | 2:48 | 2022-02-17 | 2022-03-05 |
 | [Do What You Came For](https://open.spotify.com/track/39qfZnyA7wbRNsW8gkZCEm) | [Christo Edgar](https://open.spotify.com/artist/7i2vbzCSBa8v9jj9BG4jLz) | [Do What You Came For](https://open.spotify.com/album/6iBPWLmQEssO0bKsZmY4Lg) | 2:48 | 2022-11-30 | 2023-01-13 |

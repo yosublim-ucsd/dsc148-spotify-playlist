@@ -3608,7 +3608,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 198620,
       "name": "Nuvens",
       "url": "https://open.spotify.com/track/2iTTQ8ONwS6Py4Vy2PMDmd"
@@ -4681,6 +4681,28 @@
     },
     {
       "album": {
+        "name": "Reduto Das Ideias",
+        "url": "https://open.spotify.com/album/1xto1QLGb3T2cmqHxgRMec"
+      },
+      "artists": [
+        {
+          "name": "DJ Caique",
+          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
+        },
+        {
+          "name": "Nocivo Shomon",
+          "url": "https://open.spotify.com/artist/7fVTW9oFlXKy9tzG15tcof"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198019,
+      "name": "Reduto das Ideias",
+      "url": "https://open.spotify.com/track/1j4hrfXFmNhoBGssb2q4Fp"
+    },
+    {
+      "album": {
         "name": "Resist\u00eancia de Favela",
         "url": "https://open.spotify.com/album/7ty0nG2K29FeVroOzRfw09"
       },
@@ -5194,7 +5216,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 250212,
       "name": "SIGO REAL",
       "url": "https://open.spotify.com/track/5IsNDWQYkVLupAKZSr3z38"
@@ -5396,7 +5418,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 180618,
       "name": "Suavy na Base",
       "url": "https://open.spotify.com/track/41pUfNomy3oLg4ParN5wbX"

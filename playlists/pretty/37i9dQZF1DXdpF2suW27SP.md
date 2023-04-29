@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Ivandro e Julinho Ksd entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,981 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,038 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [Grafitar Não É Estragar](https://open.spotify.com/track/2u3070e7rTNayuiwWTCiHp) | [MC Caixa Dóculos](https://open.spotify.com/artist/1JoxU0YiJrmtkAHeS1pkwc) | [Grafitar Não É Estragar](https://open.spotify.com/album/73XnO45ut5eRoFeWcnrI1O) | 2:34 |
 | 75 | [ALKiMISTA](https://open.spotify.com/track/3vUNW5Gx2cNtRJ9feEtt0G) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [ALK](https://open.spotify.com/album/0siZdhz3ZguKw6Xrgh4Fw0) | 2:45 |
 
-Snapshot ID: `MCxhZTcwOWRiZGIwYjdlMTExMmIxODcxOWJlODk5YzlhY2IzY2I4Mzlh`
+Snapshot ID: `MCwxZTdkNTNiOTdiOTU2ZTY2ZWZjNWY2ZWI5MTYxN2E4ZDJmM2VjY2Vi`

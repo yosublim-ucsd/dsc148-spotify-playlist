@@ -1838,6 +1838,24 @@
     {
       "album": {
         "name": "Get Out Of My Head",
+        "url": "https://open.spotify.com/album/5VykmMHLPSfh5zFSGssr7u"
+      },
+      "artists": [
+        {
+          "name": "Kin Crew",
+          "url": "https://open.spotify.com/artist/5U2bKwyGTsdlkYQtKLETRA"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128823,
+      "name": "Get Out Of My Head",
+      "url": "https://open.spotify.com/track/3wtP6999cOPF4OrUpBuOCM"
+    },
+    {
+      "album": {
+        "name": "Get Out Of My Head",
         "url": "https://open.spotify.com/album/3rykHBjW6lyquYjnl0jS0D"
       },
       "artists": [
@@ -1848,7 +1866,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 128823,
       "name": "Get Out Of My Head",
       "url": "https://open.spotify.com/track/4HeMLD2QxHLf5NFq6oRmFw"

@@ -278,7 +278,7 @@
     {
       "album": {
         "name": "Prom King",
-        "url": "https://open.spotify.com/album/7dR9fq3NnKFZDBDU44DTXv"
+        "url": "https://open.spotify.com/album/4kB3NXXqZGTtehCAbyGar7"
       },
       "artists": [
         {
@@ -289,6 +289,24 @@
       "date_added": "2015-07-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 249319,
+      "name": "Fiona Coyne",
+      "url": "https://open.spotify.com/track/0dvS6gcGGKvXPWo0mC6UVP"
+    },
+    {
+      "album": {
+        "name": "Prom King",
+        "url": "https://open.spotify.com/album/7dR9fq3NnKFZDBDU44DTXv"
+      },
+      "artists": [
+        {
+          "name": "Skylar Spence",
+          "url": "https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL"
+        }
+      ],
+      "date_added": "2015-07-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
       "duration_ms": 249319,
       "name": "Fiona Coyne",
       "url": "https://open.spotify.com/track/6XkEIIZs0oMUNwaVwHXSZ0"

@@ -4,7 +4,7 @@
 
 > Kindie tunes for the whole family.
 
-185 songs - 8 hr 52 min
+186 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Be the Light \(feat\. SaulPaul\)](https://open.spotify.com/track/5DKgL6ACLMjVfNgCpROmIU) | [Erica Rabner](https://open.spotify.com/artist/3u7iISrtnnqsAGE8gIovMg), [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [We Got This](https://open.spotify.com/album/3muDxQozNwlTlj4lMbPiSq) | 3:33 | 2022-04-15 |  |
 | [Best Day Ever](https://open.spotify.com/track/0FpG7xhSQGo2PJnfD7FM6G) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ) | [Best Day Ever](https://open.spotify.com/album/2grVEoGEw92ONy96YK5bsr) | 3:03 | 2022-04-15 |  |
 | [Best Friend](https://open.spotify.com/track/5Cr9nRs3CLoYAPIgDf2sJ1) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Camp Lisa](https://open.spotify.com/album/0RGVyqQzh7QrRRuiMBCeZ7) | 2:44 | 2022-04-15 | 2022-07-29 |
-| [Best Friend](https://open.spotify.com/track/5OJKJMK5kz4mvBTYlncnLo) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Camp Lisa](https://open.spotify.com/album/4ifCn1MLPTtbVYbbEGWOeS) | 2:44 | 2022-04-15 |  |
+| [Best Friend](https://open.spotify.com/track/5DLmwKgV0xwzGcnohqKzGT) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Camp Lisa](https://open.spotify.com/album/5vwzr0ct9GkSIDz1B7LlUR) | 2:44 | 2023-02-24 |  |
+| [Best Friend](https://open.spotify.com/track/5OJKJMK5kz4mvBTYlncnLo) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Camp Lisa](https://open.spotify.com/album/4ifCn1MLPTtbVYbbEGWOeS) | 2:44 | 2022-04-15 | 2023-04-29 |
 | [Best Friends](https://open.spotify.com/track/3TAVGNdxMAA9k0Sc3i3mXD) | [Blake Wonders](https://open.spotify.com/artist/1EeQbJWCTnmZ5Np6QBEWxu) | [THE REALLY FUN ALBUM!](https://open.spotify.com/album/4nHXMTt1wbxafkzK2DOyxE) | 1:12 | 2022-04-15 |  |
 | [Best Friends](https://open.spotify.com/track/5IxsgalTbvteMzig2nMLP2) | [Blake Wonders](https://open.spotify.com/artist/1EeQbJWCTnmZ5Np6QBEWxu) | [THE REALLY FUN ALBUM!](https://open.spotify.com/album/2y6AcbtwLDtC9EIBZyqZyD) | 1:12 | 2022-04-15 | 2022-07-29 |
 | [Better](https://open.spotify.com/track/4lMSGgltArBFVHrDr8ukDu) | [Tim Kubart](https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp), [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Home](https://open.spotify.com/album/2H0XQvwCPn5Lsw105oQUUK) | 2:40 | 2022-04-15 |  |

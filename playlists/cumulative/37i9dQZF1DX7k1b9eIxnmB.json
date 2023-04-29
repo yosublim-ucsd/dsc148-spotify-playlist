@@ -692,10 +692,32 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 306834,
       "name": "Chinna Chinna Thooral",
       "url": "https://open.spotify.com/track/5XtIBJkXRyM4c59FXNFL58"
+    },
+    {
+      "album": {
+        "name": "Senthamizh Paattu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4JmwVLmJafPHsRoXXvwgR0"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Anuradha Sriram",
+          "url": "https://open.spotify.com/artist/5ObQXIcqKtQENK14lQyqiy"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306834,
+      "name": "Chinna Chinna Thooral",
+      "url": "https://open.spotify.com/track/5gp8jL2dsIKWmaTNWxNTO8"
     },
     {
       "album": {

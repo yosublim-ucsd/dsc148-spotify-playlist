@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,429 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,433 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 79 | [Boo Boo The Fool](https://open.spotify.com/track/5ZfXQYagB0zalPqFBBUMi1) | [Aliah Sheffield](https://open.spotify.com/artist/6qQANHDxlpq5OEz47UBzMJ) | [Boo Boo The Fool](https://open.spotify.com/album/3ydneWhtJWUoGd6ntixfJh) | 2:29 |
 | 80 | [His Story](https://open.spotify.com/track/76q9LzpsmoUdE5aIjUkMii) | [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c), [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [His Story](https://open.spotify.com/album/7HHiVCkgO550Ayv52b29Il) | 2:47 |
 
-Snapshot ID: `MCwyNmRiY2U5ZTIyOTY5YmU0NGZjZGRlMGYwNDgxNWZlOTRmNjgxMDE2`
+Snapshot ID: `MCxkNDNjNzgxYzljMDY0NWMzOGJkMWUzNWM1MmUzMmIzMDJjYTU2NjA3`

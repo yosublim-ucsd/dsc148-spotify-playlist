@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-586 songs - 1 day 2 hr 12 min
+587 songs - 1 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,8 @@
 | [Feynman](https://open.spotify.com/track/34DPkGBdvuvCdNt0YaOsby) | [grooveman Spot](https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa) | [Resynthesis \(Green\)](https://open.spotify.com/album/0bpJi2ZRRx8PNiD5qGEfO2) | 2:23 | 2022-03-24 | 2022-04-20 |
 | [find a way](https://open.spotify.com/track/4gdNaZ3GUe9mDGy5OZQAe4) | [LHRHND](https://open.spotify.com/artist/5Y4wI02HN3fDWmqO0OKGir) | [find a way](https://open.spotify.com/album/1h4KtvcjaJ7kVcs0M47ETp) | 3:14 | 2021-12-23 | 2022-07-29 |
 | [Fireworks](https://open.spotify.com/track/2HPAE9dtpbx385HdUySePp) | [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL) | [Seven Winds](https://open.spotify.com/album/6oePpBmzhdATyTLTAmPAjS) | 2:35 | 2021-12-23 | 2022-07-28 |
-| [Flight Order](https://open.spotify.com/track/25z51TJaTPT1VeUJ4J2WE1) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Flight Order](https://open.spotify.com/album/03QIiy4XJgdC5HxNdJ3ycp) | 3:04 | 2023-04-27 |  |
+| [Flight Order](https://open.spotify.com/track/25z51TJaTPT1VeUJ4J2WE1) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Flight Order](https://open.spotify.com/album/03QIiy4XJgdC5HxNdJ3ycp) | 3:04 | 2023-04-27 | 2023-04-29 |
+| [Flight Order](https://open.spotify.com/track/5LBMaGZxSf2fl6Tctf1Mli) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Flight Order](https://open.spotify.com/album/4sGwqxrViiIjmPdTIJUOzq) | 3:04 | 2023-04-27 |  |
 | [float](https://open.spotify.com/track/0Ohcq7v4TWB3DxOmrAMmm6) | [Leo Iwamura](https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY) | [STAY GOLD](https://open.spotify.com/album/1xRYrNt59Yad8nEKJitDbD) | 2:59 | 2022-01-06 | 2022-01-10 |
 | [Float Islands](https://open.spotify.com/track/1QozoHCq8gUK4AsvEahI7g) | [Matsuyama](https://open.spotify.com/artist/3TgHi7FuyXPEN6IYCU8gvs), [Artsounds Chill](https://open.spotify.com/artist/3PV6UfM0IDdUodkwVieIJS) | [Reset](https://open.spotify.com/album/7LNFUCEHNL2sMlf0OFeKxL) | 1:59 | 2022-03-24 | 2022-05-04 |
 | [Flora](https://open.spotify.com/track/5RbIAZ0gCuUJ483Javg7SG) | [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K) | [Flora](https://open.spotify.com/album/6m6JcSTmUF4PB3wVWNraLP) | 2:08 | 2021-12-23 | 2022-07-28 |
@@ -209,7 +210,7 @@
 | [HANABI](https://open.spotify.com/track/6sRHCRBuZIRGJtdwXDk2Mc) | [Takashi Kobayashi](https://open.spotify.com/artist/1mbhGqrhvIKVy2h9s9ulvw) | [HANABI](https://open.spotify.com/album/3JnH9rEoWKbQSzjebIU5ZP) | 2:22 | 2022-07-07 | 2022-07-23 |
 | [Hapuna](https://open.spotify.com/track/1iJ2MDg18Ufor1crX5TDFy) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Hapuna](https://open.spotify.com/album/1Y1xcpOvUfv6jWhxoQGmmw) | 2:58 | 2022-05-19 |  |
 | [hario island](https://open.spotify.com/track/4pwrnZ6t6KwUgUoQiBe70M) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [hario island](https://open.spotify.com/album/6t6geCz3BtiM0WXFNeWGyY) | 2:36 | 2023-01-19 | 2023-02-05 |
-| [harukaze](https://open.spotify.com/track/0XflCyWk28wErpgiBPnNTK) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [harukaze](https://open.spotify.com/album/3pur6jiK9PCVKajSXvlWjJ) | 2:33 | 2023-03-02 |  |
+| [harukaze](https://open.spotify.com/track/0XflCyWk28wErpgiBPnNTK) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [harukaze](https://open.spotify.com/album/3pur6jiK9PCVKajSXvlWjJ) | 2:33 | 2023-03-02 | 2023-04-29 |
 | [Here, There](https://open.spotify.com/track/1sLOKhpRCBg9FUEsIybTc4) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Here, There](https://open.spotify.com/album/3Nk7pV5iFdtLeplMvGe8dr) | 1:24 | 2022-02-10 | 2022-07-25 |
 | [Hey](https://open.spotify.com/track/2kZtgM0bQyHLfYGeUYno3L) | [Noji](https://open.spotify.com/artist/7M6fek7jt9ASxUjeHa9hQg) | [Hey](https://open.spotify.com/album/7E4h5wksCrCWrvdZlzdnRV) | 2:09 | 2022-01-06 | 2022-07-29 |
 | [Hey](https://open.spotify.com/track/3DP1ar30GyW0PzMs5ZNzVl) | [Noji](https://open.spotify.com/artist/7M6fek7jt9ASxUjeHa9hQg) | [Hey](https://open.spotify.com/album/4oe6eDcPo0sLyEpnyXEeRx) | 2:09 | 2022-07-28 |  |
@@ -249,7 +250,7 @@
 | [K Bye](https://open.spotify.com/track/7K6TygqDoUz9TqhVzZWxVj) | [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [K Bye](https://open.spotify.com/album/5BevqJGwWGDUtatocaA6Ef) | 3:18 | 2021-12-23 | 2022-02-10 |
 | [Kadena Sea Wall](https://open.spotify.com/track/2V6xMEfwzUfjxW4beJlgsu) | [SENZU BEATS](https://open.spotify.com/artist/6pi8VD4XdJYHEesPGqySWV) | [Kadena Sea Wall](https://open.spotify.com/album/2xmvVG7ZhKDDAAWjx2QSWv) | 1:56 | 2021-12-23 | 2022-07-29 |
 | [kageokuri](https://open.spotify.com/track/3Nw9mVyDGmSQ3Ik9BUBBD9) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep) | [kageokuri](https://open.spotify.com/album/0d6OaFJOV6iROQFrRhew6C) | 3:35 | 2022-07-21 | 2022-07-27 |
-| [kageokuri](https://open.spotify.com/track/7iSSU0thqBlc4bfhIb2rxV) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep) | [kageokuri](https://open.spotify.com/album/1wLNWD7YpVkWnWhcy5pRoL) | 3:35 | 2022-12-22 | 2023-04-28 |
+| [kageokuri](https://open.spotify.com/track/7iSSU0thqBlc4bfhIb2rxV) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep) | [kageokuri](https://open.spotify.com/album/1wLNWD7YpVkWnWhcy5pRoL) | 3:35 | 2022-12-22 |  |
 | [Kalanchoe ”Green apple”](https://open.spotify.com/track/6mkbOYTzAoDZAb1rYMGr5r) | [STUDIO75](https://open.spotify.com/artist/426lQwhWajxrxgvl7BRSiH) | [Kalanchoe ”Green apple”](https://open.spotify.com/album/1Ict1AS58yVpuOlhcQbcFc) | 2:12 | 2021-12-23 | 2022-07-29 |
 | [Kanda](https://open.spotify.com/track/2ou6Mgmk9pd1c0rV5AHTGq) | [Mr\. Shirai](https://open.spotify.com/artist/6nndu85w7OaaggJul6H0GH) | [Kanda](https://open.spotify.com/album/6EtFragQz86X5qaPOpW4mk) | 2:23 | 2021-12-23 | 2022-04-21 |
 | [Karma](https://open.spotify.com/track/0yCQJ02WABOcU8uDvYPxLR) | [ID3](https://open.spotify.com/artist/1r1cn1uejHtdYt3VJ95duD), [Enlia](https://open.spotify.com/artist/4pGE3dPAL7rlSvoBgTw91S) | [Karma](https://open.spotify.com/album/5fMuztGxsKpZkh1k6TH3io) | 1:34 | 2022-03-24 | 2022-04-19 |

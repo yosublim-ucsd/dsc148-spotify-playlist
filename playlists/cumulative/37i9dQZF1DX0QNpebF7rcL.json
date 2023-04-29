@@ -424,7 +424,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 197388,
       "name": "Blue Blue Water",
       "url": "https://open.spotify.com/track/6YqNOEJY1xQw1Zbgxa10Bu"
@@ -616,6 +616,24 @@
       "duration_ms": 186884,
       "name": "Burn Bright",
       "url": "https://open.spotify.com/track/5suOlPxijvD4kWVXBQLs9e"
+    },
+    {
+      "album": {
+        "name": "Savoy",
+        "url": "https://open.spotify.com/album/6CSit6rVjX6qqPrwHCaWdF"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212200,
+      "name": "Caldonia",
+      "url": "https://open.spotify.com/track/3JhhFy0eBmSqNOegoaIUff"
     },
     {
       "album": {

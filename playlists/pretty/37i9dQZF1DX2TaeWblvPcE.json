@@ -1,12 +1,12 @@
 {
   "description": "Concentrate comfortably with sweet k-pop accompaniments without lyrics. (\uac00\uc0ac \uc5c6\ub294 \uac10\ubbf8\ub85c\uc6b4 \uac00\uc694 \ubc18\uc8fc\uace1\ub4e4\uacfc \ud3b8\uc548\ud558\uac8c \uc9d1\uc911\ud558\uc138\uc694.)",
-  "num_followers": 6423,
+  "num_followers": 6431,
   "original_name": "K-Pop Instruments (\uac00\uc694 \ubc18\uc8fc\uace1)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzRlODhhOWFjODM5Nzk0MzUxMTcwY2Q1MTlmMjljNTQ4Njg5MjQ2",
+  "snapshot_id": "MCxiMjkxY2I0OWI3NGQ2YTJiNjY2M2U0Mzk4Yzk0Nzg2MjdhOTM4Zjg2",
   "tracks": [
     {
       "added_at": "2022-11-02 13:40:53",
@@ -319,18 +319,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Heart Shaker",
-        "url": "https://open.spotify.com/album/2vmqxFc48LkzwJXbY5Rhw7"
+        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.2",
+        "url": "https://open.spotify.com/album/0rd9znGGrqyiKk4KVRJvqq"
       },
       "artists": [
         {
-          "name": "Chino Bernal",
-          "url": "https://open.spotify.com/artist/7IJm1PMY3Ozh9flQJLBnTN"
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
         }
       ],
-      "duration_ms": 216725,
-      "name": "Heart Shaker",
-      "url": "https://open.spotify.com/track/7lSdsxAbIEfjvTliKEV109"
+      "duration_ms": 253186,
+      "name": "Breath - instrumental",
+      "url": "https://open.spotify.com/track/1AZnSd1alHTdZvienjSRs9"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -351,18 +351,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.2",
-        "url": "https://open.spotify.com/album/0rd9znGGrqyiKk4KVRJvqq"
+        "name": "Heart Shaker",
+        "url": "https://open.spotify.com/album/2vmqxFc48LkzwJXbY5Rhw7"
       },
       "artists": [
         {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+          "name": "Chino Bernal",
+          "url": "https://open.spotify.com/artist/7IJm1PMY3Ozh9flQJLBnTN"
         }
       ],
-      "duration_ms": 253186,
-      "name": "Breath - instrumental",
-      "url": "https://open.spotify.com/track/1AZnSd1alHTdZvienjSRs9"
+      "duration_ms": 216725,
+      "name": "Heart Shaker",
+      "url": "https://open.spotify.com/track/7lSdsxAbIEfjvTliKEV109"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -667,6 +667,22 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
+        "name": "Guardian (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/1t1ECb8EMdEaEPJD8Y0F6O"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "My Eyes - Instrumental",
+      "url": "https://open.spotify.com/track/1Gw0uRu4pDLBJMMVPXrrUb"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
         "name": "Mystic Pop-up Bar, Pt. 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5y5QgjKcmGgMZehvukxm8y"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 253507,
       "name": "\u1112\u1173\u11ab\u1103\u1173\u11af\u1105\u1175\u1102\u1173\u11ab \u1101\u1169\u11be\u1103\u1173\u11af \u1109\u1169\u11a8\u110b\u1166\u1109\u1165 \u1102\u1166 \u1109\u1163\u11b7\u1111\u116e\u1112\u1163\u11bc\u110b\u1175 \u1102\u1173\u1101\u1167\u110c\u1175\u11ab\u1100\u1165\u110b\u1163 Your Shampoo Scent in the Flowers",
       "url": "https://open.spotify.com/track/1MFcbgbZxtoVnRg3zwcU2f"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
-        "name": "Guardian (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/1t1ECb8EMdEaEPJD8Y0F6O"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "My Eyes - Instrumental",
-      "url": "https://open.spotify.com/track/1Gw0uRu4pDLBJMMVPXrrUb"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Chicago Typewriter (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/7wScVzTeRnlBcqlSq96ghT"
-      },
-      "artists": [
-        {
-          "name": "Kevin Oh",
-          "url": "https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy"
-        }
-      ],
-      "duration_ms": 228413,
-      "name": "Be My Light (Inst.)",
-      "url": "https://open.spotify.com/track/3MnViwjwY7UHy70Vre4lIU"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "A Poem a Day (tvN DRAMA) OST Part.12",
         "url": "https://open.spotify.com/album/4U97Mqn59HGk2fDIfPHaX9"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 251483,
       "name": "A Poem For Poetry - Instrumental",
       "url": "https://open.spotify.com/track/3tiwlfxr6X0srg3ya5VXqo"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Chicago Typewriter (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/7wScVzTeRnlBcqlSq96ghT"
+      },
+      "artists": [
+        {
+          "name": "Kevin Oh",
+          "url": "https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy"
+        }
+      ],
+      "duration_ms": 228413,
+      "name": "Be My Light (Inst.)",
+      "url": "https://open.spotify.com/track/3MnViwjwY7UHy70Vre4lIU"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Prison Playbook (Original Television Soundtrack), Pt. 5",
-        "url": "https://open.spotify.com/album/1rpqtEF714fQm37SHwmDIr"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 224366,
-      "name": "Would Be Better - Instrumental",
-      "url": "https://open.spotify.com/track/2rOXWx58B0Lr200p6dbcB9"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "\uc774 \uaca8\uc6b8 \ud53c\uc544\ub178\ub85c \ub9cc\ub098\ub294 \ub530\ub048\ud55c K-Pop K-Pop Hotlist Piano for the Winter",
         "url": "https://open.spotify.com/album/7yd99ZqQC40i1hTjnncf4H"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 298699,
       "name": "\u110b\u1165\u1104\u1165\u11c2\u1100\u1166 \u110b\u1175\u1107\u1167\u11af\u1101\u1161\u110c\u1175 \u1109\u1161\u1105\u1161\u11bc\u1112\u1161\u1100\u1166\u11bb\u110b\u1165, \u1102\u1165\u11af \u1109\u1161\u1105\u1161\u11bc\u1112\u1161\u1102\u1173\u11ab \u1100\u1165\u110c\u1175 How Can I Love the Heartbreak, You're the One I Love",
       "url": "https://open.spotify.com/track/2SVljleA3gTLpujwBM2Xrf"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Prison Playbook (Original Television Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/1rpqtEF714fQm37SHwmDIr"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 224366,
+      "name": "Would Be Better - Instrumental",
+      "url": "https://open.spotify.com/track/2rOXWx58B0Lr200p6dbcB9"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
+        "name": "Prison Playbook (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/3pcwkTF9LdSxNROH4sofFg"
+      },
+      "artists": [
+        {
+          "name": "Park Boram",
+          "url": "https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi"
+        }
+      ],
+      "duration_ms": 182865,
+      "name": "Like A Dream - Instrumental",
+      "url": "https://open.spotify.com/track/79EKhM17rAACcyOuheDqZn"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
         "name": "Backstreet Rookie (Original Television Soundtrack), Pt.6",
         "url": "https://open.spotify.com/album/7BjnXrdKCpf6ehnG1PjUso"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 204893,
       "name": "See Saw - Inst.",
       "url": "https://open.spotify.com/track/6rdtUu5dcx9YN9GZC97gX3"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
-        "name": "Prison Playbook (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/3pcwkTF9LdSxNROH4sofFg"
-      },
-      "artists": [
-        {
-          "name": "Park Boram",
-          "url": "https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi"
-        }
-      ],
-      "duration_ms": 182865,
-      "name": "Like A Dream - Instrumental",
-      "url": "https://open.spotify.com/track/79EKhM17rAACcyOuheDqZn"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1404,9 +1404,9 @@
           "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
         }
       ],
-      "duration_ms": 249931,
-      "name": "I - Piano Version",
-      "url": "https://open.spotify.com/track/4H7RBa63gYxk2nO8F6BAct"
+      "duration_ms": 329355,
+      "name": "REPLAY - Piano Version",
+      "url": "https://open.spotify.com/track/7y2GtIPDukvL7MggApuboS"
     },
     {
       "added_at": "2022-11-02 13:40:53",

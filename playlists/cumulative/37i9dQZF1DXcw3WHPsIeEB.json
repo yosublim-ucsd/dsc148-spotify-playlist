@@ -118,7 +118,7 @@
     {
       "album": {
         "name": "Bonzai View",
-        "url": "https://open.spotify.com/album/4WAq1BnkxlC0GOhdkU7w0j"
+        "url": "https://open.spotify.com/album/6GT1SMUUhwBwbEZrRpabfa"
       },
       "artists": [
         {
@@ -129,6 +129,24 @@
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 212527,
+      "name": "Bonzai View",
+      "url": "https://open.spotify.com/track/5qhfbZ9QWxujhlokGPPY4C"
+    },
+    {
+      "album": {
+        "name": "Bonzai View",
+        "url": "https://open.spotify.com/album/4WAq1BnkxlC0GOhdkU7w0j"
+      },
+      "artists": [
+        {
+          "name": "Potatohead People",
+          "url": "https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
       "duration_ms": 212527,
       "name": "Bonzai View",
       "url": "https://open.spotify.com/track/6fQByeRUNdzB9g1dU5RvcK"

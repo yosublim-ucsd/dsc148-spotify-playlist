@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Simge
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,576 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,573 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 49 | [Tanyeri̇](https://open.spotify.com/track/3BQlNZ02rO2HnRDrhwaXyn) | [Eda Atlas](https://open.spotify.com/artist/7evFI1HE86akQXdNhdWJVd) | [Tanyeri̇](https://open.spotify.com/album/27cRFEvU1AarIFCLaLoawm) | 3:19 |
 | 50 | [Yine Sen](https://open.spotify.com/track/4zWv60X5yerBCi23GTgKgp) | [Seda Yiyin](https://open.spotify.com/artist/1HS9YU5Vpt5zIly4AtU06K) | [Yine Sen](https://open.spotify.com/album/5FmT6YfWCq7Wx2HeeCkW7o) | 3:20 |
 
-Snapshot ID: `MCwxNWIxNzdjYjExZmMyYTUyNGQ3MDcxMWY1NzI4YTI3ODkzZTBiNmYy`
+Snapshot ID: `MCwzY2JjMGE2MjcwZjc0MDRkZTBjZTAwNjNiZDVkNDc2MmNjNTgzZmQ2`

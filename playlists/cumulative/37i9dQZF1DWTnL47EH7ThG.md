@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-329 songs - 19 hr 7 min
+331 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Closer](https://open.spotify.com/track/3Ipyh4Of3hJ4bsMmXnbAKh) | [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ), [Miss Fire](https://open.spotify.com/artist/1POjThbbB3DoTwSglss08D) | [Closer\(feat\. Miss Fire\)](https://open.spotify.com/album/4REnqzhnszZvyYcrxpOQTD) | 4:42 | 2022-02-04 | 2022-10-28 |
 | [Cocoon](https://open.spotify.com/track/069mlD5el7f9hcN4Wh4YXb) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 3:21 | 2022-12-05 |  |
 | [Cold & Clear](https://open.spotify.com/track/6gCx19TvXTF39mQ6VLCKvm) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Ekundayo](https://open.spotify.com/album/1DHs1TPC3rOV2Y9lFpjZxY) | 3:16 | 2022-02-04 | 2022-10-28 |
-| [Combat Baby](https://open.spotify.com/track/7Eb5avO0Ut4p6hAGCaeYEk) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Old World Underground, Where Are You Now?](https://open.spotify.com/album/1OOEOpm5mEmxXlJKhVOFnU) | 3:29 | 2022-04-26 |  |
+| [Combat Baby](https://open.spotify.com/track/2QJ9dLiolwZNPl5etYP2MI) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Old World Underground, Where Are You Now?](https://open.spotify.com/album/4LileDrFwEUFB5UPA3AEia) | 3:29 | 2023-03-08 |  |
+| [Combat Baby](https://open.spotify.com/track/7Eb5avO0Ut4p6hAGCaeYEk) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Old World Underground, Where Are You Now?](https://open.spotify.com/album/1OOEOpm5mEmxXlJKhVOFnU) | 3:29 | 2022-04-26 | 2023-04-29 |
 | [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/track/7j0JiUpuwvPQDtBinFct6E) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/album/2ZFIuteZ2Uqz1r5E1hvnoi) | 2:14 | 2023-03-08 |  |
 | [Conga Mode \- Edit](https://open.spotify.com/track/5QJwvpgZXdMD9lDtdczCVy) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Conga Mode EP](https://open.spotify.com/album/5QH9ZqMTDy5c6yIg6PiLte) | 3:44 | 2022-02-04 | 2022-10-28 |
 | [Constrictor](https://open.spotify.com/track/60SqKl7HkUVzFkhKGNJrAJ) | [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44), [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [KD One](https://open.spotify.com/artist/2KsIqWw1S0S8L8f86GwEMb) | [Constrictor](https://open.spotify.com/album/3es6sDOdgv4pX0XThvsWuc) | 3:00 | 2022-10-27 |  |
@@ -85,7 +86,8 @@
 | [DARE](https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 4:04 | 2022-07-18 |  |
 | [Dats Gadzilla](https://open.spotify.com/track/3rDVSylvnEbqIQoZ7mAiHc) | [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Dats Gadzilla](https://open.spotify.com/album/0DmqZPBWat944nB0vuvWRN) | 3:27 | 2022-02-04 |  |
 | [Daysof8](https://open.spotify.com/track/691LszVx09WFxhFlKHgem6) | [Nora Lilith](https://open.spotify.com/artist/2wCkC8qvmcIU6RYtk5PSr1) | [Daysof8](https://open.spotify.com/album/7uRbWi7y8pY6RgX5ufiCpB) | 2:48 | 2022-02-04 | 2022-10-28 |
-| [Dead Disco](https://open.spotify.com/track/5skHiyNrZ7i7hSMhz9jSTs) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Old World Underground, Where Are You Now?](https://open.spotify.com/album/1OOEOpm5mEmxXlJKhVOFnU) | 3:25 | 2022-04-26 |  |
+| [Dead Disco](https://open.spotify.com/track/0vJPVfyCJ0WwrBQ71FP23s) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Old World Underground, Where Are You Now?](https://open.spotify.com/album/4LileDrFwEUFB5UPA3AEia) | 3:25 | 2023-03-08 |  |
+| [Dead Disco](https://open.spotify.com/track/5skHiyNrZ7i7hSMhz9jSTs) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Old World Underground, Where Are You Now?](https://open.spotify.com/album/1OOEOpm5mEmxXlJKhVOFnU) | 3:25 | 2022-04-26 | 2023-04-29 |
 | [Decemba \(Remix\) \(feat\. $ilk Money & André Benjamin\)](https://open.spotify.com/track/56wkp0dkpjimGfX17Ofihm) | [Divine Council](https://open.spotify.com/artist/1uZtWlFj7GOUOMFIPWwPNG), [$ilkMoney](https://open.spotify.com/artist/0ik4LA18Kee5hT2HaiFt85), [Andre Benjamin](https://open.spotify.com/artist/5lTANVMk0mGnsErXBAutfM) | [Council World](https://open.spotify.com/album/5KpQuDLGm8iN2yyyMg2u9k) | 3:48 | 2022-02-04 | 2022-10-28 |
 | [Destiny](https://open.spotify.com/track/6ILPdvRmMBHFonYRKsnF65) | [Gvijin](https://open.spotify.com/artist/6vavGPmlW0bm7Htzd42d3M) | [Destiny](https://open.spotify.com/album/1guESfM73dMQ6D6UmDCUdx) | 1:56 | 2022-02-04 |  |
 | [Dickie Riddim](https://open.spotify.com/track/7GhoRAPUwlHQGxXwDFWYsm) | [Schlachthofbronx](https://open.spotify.com/artist/5yE68yjrrpSEjUqykhSpFK), [Warrior Queen](https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT) | [Dirty Dancing](https://open.spotify.com/album/70uUNXfztwECIp187kvdi5) | 2:28 | 2022-07-18 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 146581,
+  "num_followers": 146717,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODI4NjcyMmRmYzZhZjljMjMwMDEzMTQxOTNiOTE2YzA0ZGVhZmZj",
+  "snapshot_id": "MCw0OGUzMWZjYmJmNjcxMGU3YTFmYjc1MmRhNTY2MWNhNTYyZWIxMDdj",
   "tracks": [
     {
       "added_at": "2022-11-25 16:56:36",
@@ -603,26 +603,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Celestia EP",
-        "url": "https://open.spotify.com/album/7hBWsXRF3UzahsPs9fgDcp"
-      },
-      "artists": [
-        {
-          "name": "Durante",
-          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
-        },
-        {
-          "name": "HANA",
-          "url": "https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o"
-        }
-      ],
-      "duration_ms": 229249,
-      "name": "Celestia",
-      "url": "https://open.spotify.com/track/3BZ8KRBfIg9Lu9Zl3i2X6N"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "No Judgement (K\u00f6lsch Remix Edit)",
         "url": "https://open.spotify.com/album/6cUbkloy5dDTZ9muvMLiOo"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 257006,
       "name": "No Judgement - K\u00f6lsch Remix Edit",
       "url": "https://open.spotify.com/track/0Dwb20y4Y174GDvLw0Dr51"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Celestia EP",
+        "url": "https://open.spotify.com/album/7hBWsXRF3UzahsPs9fgDcp"
+      },
+      "artists": [
+        {
+          "name": "Durante",
+          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+        },
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o"
+        }
+      ],
+      "duration_ms": 229249,
+      "name": "Celestia",
+      "url": "https://open.spotify.com/track/3BZ8KRBfIg9Lu9Zl3i2X6N"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "\u0421\u0442\u043e\u043b\u0438\u0446\u0430 \u0437\u0430\u043a\u0430\u0442\u043e\u0432",
-        "url": "https://open.spotify.com/album/3RMnzbvkcxMwSqcrq9LqYS"
-      },
-      "artists": [
-        {
-          "name": "Going Deeper",
-          "url": "https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4"
-        }
-      ],
-      "duration_ms": 283628,
-      "name": "\u0421\u0442\u043e\u043b\u0438\u0446\u0430 \u0437\u0430\u043a\u0430\u0442\u043e\u0432",
-      "url": "https://open.spotify.com/track/6DwuQjVWPRRICEqJJedZYb"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Starz",
         "url": "https://open.spotify.com/album/6ABh7hs4z4lrjmp1R22R9t"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 300975,
       "name": "Starz",
       "url": "https://open.spotify.com/track/4QdrjvWnftlEW1tlRwxYvx"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "\u0421\u0442\u043e\u043b\u0438\u0446\u0430 \u0437\u0430\u043a\u0430\u0442\u043e\u0432",
+        "url": "https://open.spotify.com/album/3RMnzbvkcxMwSqcrq9LqYS"
+      },
+      "artists": [
+        {
+          "name": "Going Deeper",
+          "url": "https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4"
+        }
+      ],
+      "duration_ms": 283628,
+      "name": "\u0421\u0442\u043e\u043b\u0438\u0446\u0430 \u0437\u0430\u043a\u0430\u0442\u043e\u0432",
+      "url": "https://open.spotify.com/track/6DwuQjVWPRRICEqJJedZYb"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Vivi",
-        "url": "https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy"
-      },
-      "artists": [
-        {
-          "name": "Elevven",
-          "url": "https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Vivi",
-      "url": "https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Hide",
         "url": "https://open.spotify.com/album/35Qr8Kfqkut5j7WWJTAXdd"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 206612,
       "name": "Hide - Original Mix",
       "url": "https://open.spotify.com/track/2xsQqjipGiLW7yD3Pbepdn"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Vivi",
+        "url": "https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy"
+      },
+      "artists": [
+        {
+          "name": "Elevven",
+          "url": "https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Vivi",
+      "url": "https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Influence",
-        "url": "https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o"
-      },
-      "artists": [
-        {
-          "name": "Joe Turner",
-          "url": "https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup"
-        }
-      ],
-      "duration_ms": 259364,
-      "name": "Influence - Edit",
-      "url": "https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Hiding",
         "url": "https://open.spotify.com/album/2XAdRKNStUZKUDrZ1flBkH"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 431162,
       "name": "Hiding",
       "url": "https://open.spotify.com/track/6rAbSwrfReG9rpcmwIsgPH"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Influence",
+        "url": "https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o"
+      },
+      "artists": [
+        {
+          "name": "Joe Turner",
+          "url": "https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup"
+        }
+      ],
+      "duration_ms": 259364,
+      "name": "Influence - Edit",
+      "url": "https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s"
     },
     {
       "added_at": "2022-11-25 16:56:36",

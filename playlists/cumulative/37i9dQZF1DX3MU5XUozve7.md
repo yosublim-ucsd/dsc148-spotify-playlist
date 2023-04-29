@@ -4,7 +4,7 @@
 
 > A mix of new and classic melodic punk songs.
 
-648 songs - 1 day 8 hr 20 min
+649 songs - 1 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,7 +362,7 @@
 | [My Sanity](https://open.spotify.com/track/0KNKU0I1iNOydBWTjbfJVx) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Age Of Unreason](https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz) | 2:58 | 2020-03-20\* | 2022-07-27 |
 | [Na Na Na \(Na Na Na Na Na Na Na Na Na\)](https://open.spotify.com/track/5BB0Jzw60KyfSTyjJqtely) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 3:25 | 2021-10-10 |  |
 | [Nerve](https://open.spotify.com/track/2aOOsAXjBwaacxERuNXowt) | [Calling All Captains](https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG) | [Nerve](https://open.spotify.com/album/47E4xWTfYACMYZ7kwxvcN5) | 3:04 | 2020-03-20\* | 2021-02-11 |
-| [Nervous Breakdown](https://open.spotify.com/track/3NoOwvxhI2yMYknxqnFUVx) | [Black Flag](https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV) | [Nervous Breakdown](https://open.spotify.com/album/4jBYjoYLD7GOHzVQ8olPlV) | 2:09 | 2021-10-09 |  |
+| [Nervous Breakdown](https://open.spotify.com/track/3NoOwvxhI2yMYknxqnFUVx) | [Black Flag](https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV) | [Nervous Breakdown](https://open.spotify.com/album/4jBYjoYLD7GOHzVQ8olPlV) | 2:09 | 2021-10-09 | 2023-04-29 |
 | [Never Gonna Die](https://open.spotify.com/track/0vOFieMa3Awbz180AGTrz0) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 2:40 | 2020-03-20\* | 2022-07-23 |
 | [Never Looked Better](https://open.spotify.com/track/1j5ekdnaFOw9ZC2otQd3MU) | [We Were Sharks](https://open.spotify.com/artist/5VJPxda81cx3ZGltjWM36I) | [Lost Touch](https://open.spotify.com/album/3FU3OYWetRWVgjvnlHdhec) | 2:49 | 2020-05-06 | 2020-05-07 |
 | [New Eyes Open](https://open.spotify.com/track/2TBPzNkFGFlA8IJZGARQtx) | [The Draft](https://open.spotify.com/artist/52SmkYelPOycpYh4QSFPdZ) | [In A Million Pieces](https://open.spotify.com/album/1IMP4aRGd4n6BIEMEtMY3y) | 3:38 | 2020-03-31 | 2022-07-29 |
@@ -642,6 +642,7 @@
 | [Wild in the Streets](https://open.spotify.com/track/4BZLAm5rqqChHZlBlHuSMV) | [Circle Jerks](https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl) | [Wild in the Streets](https://open.spotify.com/album/1LaoxOUvYzBdQleyW03Keh) | 2:35 | 2021-10-10 | 2022-11-13 |
 | [Wildflowers of Italy](https://open.spotify.com/track/0yiKLW3vGmrFanzN61mtWt) | [Western Addiction](https://open.spotify.com/artist/7xnD2Codf7FyLxsqPh8CIA) | [Frail Bray](https://open.spotify.com/album/5wJ7lrs5A9RhhHbaAsuOKe) | 3:56 | 2020-05-19 | 2020-05-28 |
 | [Wish](https://open.spotify.com/track/3a2J13Qj9knU0sl4lyWjyF) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Anthology](https://open.spotify.com/album/0DCImzCQ4wJvkgpvmA1S2x) | 3:21 | 2021-01-23 | 2022-07-29 |
+| [Wish](https://open.spotify.com/track/3z3bcIS2CBJ5pqWQjKPiIo) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Anthology](https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5) | 3:21 | 2022-07-26 |  |
 | [Wonderful Day for the Race](https://open.spotify.com/track/32Dfh7o4Gs7y6IB8DVp1gD) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Wonderful Day for the Race](https://open.spotify.com/album/6wHa4GeZ6C5aNebczUgqmY) | 3:16 | 2020-04-03 | 2022-06-17 |
 | [World on Fire](https://open.spotify.com/track/7MxF9J0AsAIuYb3A3WEyuy) | [The Bouncing Souls](https://open.spotify.com/artist/3mvTAjG7rcyk7DQzLwauzV) | [World on Fire](https://open.spotify.com/album/4ln6zu5Ru8Ie2YpKA5nxxv) | 2:21 | 2020-05-26 | 2022-06-24 |
 | [Worries](https://open.spotify.com/track/5YtpGJgS6vBDMMaguVeRDG) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Worries](https://open.spotify.com/album/0lR5SeL2xHTOEHh7a4aDoI) | 2:23 | 2020-05-23 | 2022-07-15 |

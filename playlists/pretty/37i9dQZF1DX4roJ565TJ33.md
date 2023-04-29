@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 
 > Svensk jazz när den är som bäst.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,042 likes - 120 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,049 likes - 120 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 | 60 | [Try](https://open.spotify.com/track/6QO8cmea5q5c1cHrQg81nf) | [Selma Pinton](https://open.spotify.com/artist/59okFVLWTYTvszCyx681pI) | [Try](https://open.spotify.com/album/14TmlcJfgPcPlsn4nuzzfn) | 3:59 |
 | 61 | [Alone Again](https://open.spotify.com/track/2zGuiltV7gKrKjJsKssXt3) | [Marie Fredriksson](https://open.spotify.com/artist/4YkPXMsmFf3K2XFHPddqFU), [Max Schultz](https://open.spotify.com/artist/3YOBmFkNme9I1dk58w0lLk), [Magnus Lindgren](https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN) | [Alone Again](https://open.spotify.com/album/2curZu6wCgej263InDSH0t) | 4:31 |
 | 62 | [Sandino](https://open.spotify.com/track/4VAHl7q9VbjGEGRCUOi90I) | [Förnuft och Känsla](https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0) | [Jane Austen Texas](https://open.spotify.com/album/16rdQQ6LjYb7s3qkYALEBC) | 5:30 |
-| 63 | [Internationalen](https://open.spotify.com/track/4pQOo9ypR5yYV5O5xVq9mr) | [Franska Trion](https://open.spotify.com/artist/1oDZOVYmQduTh3G4nmsyqv) | [I Väntan På Jan Myrdals Död](https://open.spotify.com/album/0sNF0ybyLYMMIenRroSKXE) | 3:02 |
+| 63 | [Internationalen](https://open.spotify.com/track/5slD6swSS3XtDiSzOOoL5h) | [Franska Trion](https://open.spotify.com/artist/1oDZOVYmQduTh3G4nmsyqv) | [I Väntan På Jan Myrdals Död](https://open.spotify.com/album/4hWEP5LLjHwtogEaeIHzz3) | 3:02 |
 | 64 | [Alfie](https://open.spotify.com/track/0HKf7o2cKrbsCUelKF8Cri) | [Ellas Kapell](https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb) | [Alfie](https://open.spotify.com/album/6QJsii8JfWE1bUHQnEd2jj) | 5:34 |
 | 65 | [Forever](https://open.spotify.com/track/0d674LjUXnKVU71XGC7W7R) | [Anders Bergcrantz](https://open.spotify.com/artist/4fOuim8RgJ4BZooUlXc6Bu), [Anders Chico Lindvall](https://open.spotify.com/artist/6DbKaZouvwznDutrp8StZx), [Tomas Franck](https://open.spotify.com/artist/1XHcRuSj7C6bFeRBVJO6Uc), [Sven Erik Lundeqvist](https://open.spotify.com/artist/6laUEu5CORUGLI2GiDHynf), [Lasse Lundstrom](https://open.spotify.com/artist/6sOVv5IiRLmoznTqQRBf6U), [Niclas Campagnol](https://open.spotify.com/artist/1VqIpsJWDzAFIxWXCGCLuL) | [Forever](https://open.spotify.com/album/1bNHrxVoJ2ZFQGr5f6Ahcq) | 5:59 |
 | 66 | [The Thrill is Gone](https://open.spotify.com/track/5EptIZcHCWfrhtlmWylkbp) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [The Thrill is Gone](https://open.spotify.com/album/4HCvABj7J5EUJDZ6qh6X0M) | 6:55 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 | 119 | [Little Green Apples](https://open.spotify.com/track/1Fq5zGO9szoi1qhmAmedbT) | [Merit Hemmingson](https://open.spotify.com/artist/5xoFJP7qzaMcSAghFZXI4a) | [Merit!](https://open.spotify.com/album/4vXz5HHVIzciTPmFRaTXSi) | 4:22 |
 | 120 | [The Midnight Sun Never Sets](https://open.spotify.com/track/2CcK7rb2RWa3KU6zd4kfDE) | [Arne Domnérus](https://open.spotify.com/artist/1ouwdRCWsw9IBhPoDMrhFv) | [Guldkorn](https://open.spotify.com/album/6eFrMXMf8qQGGyZFSQill8) | 4:08 |
 
-Snapshot ID: `MCxhYjc4YWMzMmMxNzI5YjllN2ViMjlmMjRmYjJkYTM1Mjc5ZjdmMzA5`
+Snapshot ID: `MCw5YzQ3MWU5NjAwZTU5ZDMyNTY3OTZhYTRmYWRhMjdiMDdmYmQ4M2Zk`

@@ -4,7 +4,7 @@
 
 > Sit back and relax to the smooth sound of blues piano.
 
-59 songs - 3 hr 16 min
+60 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Django Delgado](https://open.spotify.com/track/1TV37Ufwxkv9gjOVlDcLuu) | [Blues Piano All Stars](https://open.spotify.com/artist/3v45sKwSn2bjvr9ETf4HrQ) | [Blues Piano \- Blues Songs and Music](https://open.spotify.com/album/7D3OoVu6zvaS5TLe8cRRj5) | 2:21 | 2021-12-03 |  |
 | [Easy Does It](https://open.spotify.com/track/70z4kWjDKAvQ6s4OYT0Bgv) | [Joe Krown](https://open.spotify.com/artist/6u0LV9Hm6zvvflRqUqav6Q) | [Just the Piano...Just the Blues](https://open.spotify.com/album/4LoZ1QlGwt1Cd644g4bJ5N) | 4:08 | 2021-12-03 |  |
 | [Goodbye Pork Pie Hat](https://open.spotify.com/track/4pwfhJMOpGRd3hABNPd1n2) | [Joshua Ware](https://open.spotify.com/artist/6FMxrKi6qjCJnoY4rMNIHT) | [Midnight Solo Sessions](https://open.spotify.com/album/5G2e2LCTC6MFixt6amtciV) | 2:20 | 2022-01-21 |  |
+| [Harper Street Blues](https://open.spotify.com/track/6gvGs82KUQSdH7Rp7AWTGj) | [Neil Dunker](https://open.spotify.com/artist/0tJbegEI1Xa3pUnlGhwph8) | [Harper Street Blues](https://open.spotify.com/album/65XVY3REOEASfhR6WhvAiW) | 1:47 | 2023-04-28 |  |
 | [In Effigy](https://open.spotify.com/track/53aweR2cvoXfE4zwffiDnt) | [Kevin G\. Pace](https://open.spotify.com/artist/2xiNCnt5ncRZ90Gmvluky7) | [Piano Major Blues \(Playing Major Blues Scales & Songs on the Piano for Moderate Level Pianists\)](https://open.spotify.com/album/6UhMk0Z2lwzbXpEnKmlPlh) | 1:46 | 2021-12-03 |  |
 | [In the Mid\-City](https://open.spotify.com/track/4KIpLlCHvnONpgZ7vtHpKe) | [Relaxing Piano Crew](https://open.spotify.com/artist/09zTbBto6vE4LzVjQluIz2) | [Blues in the City: New Orleans](https://open.spotify.com/album/0OzaSE2OhXaLa3CDKhbuhp) | 2:11 | 2021-12-03 |  |
 | [Instrumental Relaxing Blues](https://open.spotify.com/track/4SAU8yF37ELPRR698YhF6x) | [Músicas Para Relaxar](https://open.spotify.com/artist/1GpHohMWr8ZzO6CkaKOC6G), [Alan Baratieri](https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w) | [Relaxing Blues Piano](https://open.spotify.com/album/300k7CJq6XEXTMs9MGkVfc) | 4:29 | 2021-12-03 | 2022-10-14 |

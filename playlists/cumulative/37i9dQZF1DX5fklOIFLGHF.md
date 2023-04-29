@@ -4,7 +4,7 @@
 
 > Rock sin vueltas\. Foto: EMI
 
-272 songs - 18 hr 5 min
+273 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A la hora de las lentas](https://open.spotify.com/track/6A70dz4k38aramzGjpQ3KK) | [Dino Gastón Ciarlo](https://open.spotify.com/artist/482iqSnaP20OapnXbeXnTx) | [Dino y sus Ciarlobacterias](https://open.spotify.com/album/1VslO3d4STeU28cWpD1QZS) | 3:21 | 2022-07-01 | 2022-07-25 |
 | [A las Nueve](https://open.spotify.com/track/0CgpCtEPvyDizcg2p47VrU) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [El Calor Del Pleno Invierno](https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3) | 3:27 | 2022-07-08 |  |
 | [A las Nueve](https://open.spotify.com/track/0uuEqOyKlABOB7hzWKcEeG) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [El Calor del Pleno Invierno](https://open.spotify.com/album/5GsZdydAX1ccb2XPa056ga) | 3:27 | 2022-05-20 | 2022-07-29 |
+| [Abismo](https://open.spotify.com/track/5jEPrWsnRPJzmeCllVFpSW) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Abismo](https://open.spotify.com/album/405HPdCPF2cZc2DM1PWda8) | 2:53 | 2023-04-21 |  |
 | [Abril sin explicación](https://open.spotify.com/track/6npoOR17VWUletJlkvE5v6) | [Los Chanchos Salvajes](https://open.spotify.com/artist/0BwLNBtgVlCg4tlxjyZP28) | [El Hombre, la Bestia y la Virtud](https://open.spotify.com/album/5afsDsNvMG7q2xVUH8f6KY) | 2:58 | 2022-07-08 | 2022-07-24 |
 | [Adiós](https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:53 | 2022-05-20 |  |
 | [Aire del Bueno](https://open.spotify.com/track/3E2j13eweaiyOqWLjtbHDn) | [Hijos de la Marea](https://open.spotify.com/artist/61jpCm2O5kIdfbzAj58dwB) | [Aire del Bueno](https://open.spotify.com/album/58tTTxvXAXt9ptOk0ysvYz) | 3:04 | 2022-07-08 | 2022-07-18 |
@@ -105,7 +106,7 @@
 | [Fue Tan Bueno](https://open.spotify.com/track/0i2elQQdEZwsDX5icf0Co8) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku), [Emiliano Brancciari](https://open.spotify.com/artist/6Xdjhy4MawcCmBq5MYM5N8) | [Nada Es Tarde](https://open.spotify.com/album/4N2vqVDcAjDpe44wYdDrKU) | 4:55 | 2022-05-20 | 2022-11-13 |
 | [Fénix](https://open.spotify.com/track/6YbKIH1Pyt2LDH0WOdDpMT) | [Socio](https://open.spotify.com/artist/4C7oQCCnEm59KXmNDx8w1l) | [Mini Glorias](https://open.spotify.com/album/20ftPBstPj0YGDlaFFPBCa) | 3:45 | 2022-07-08 | 2022-07-16 |
 | [Glu Glu](https://open.spotify.com/track/6XR1DdEDU6LMMj7Mlyuzyy) | [Cuatro Pesos de Propina](https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND) | [Se Está Complicando](https://open.spotify.com/album/4noFm89bH8KcO9ehXtJSYP) | 4:20 | 2022-05-20 | 2022-07-29 |
-| [Había una Vez ...](https://open.spotify.com/track/11cjhnNrlgv8O5nyDleb0I) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Pajaritos, Bravos Muchachitos](https://open.spotify.com/album/2JpW90SnK1AAOKjDFqQ9Cn) | 4:28 | 2022-09-30 |  |
+| [Había una Vez ...](https://open.spotify.com/track/11cjhnNrlgv8O5nyDleb0I) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Pajaritos, Bravos Muchachitos](https://open.spotify.com/album/2JpW90SnK1AAOKjDFqQ9Cn) | 4:28 | 2022-09-30 | 2023-04-29 |
 | [Había una Vez ...](https://open.spotify.com/track/2mjtPZJEuPaUn4YD2s0BC8) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Pajaritos, Bravos Muchachitos](https://open.spotify.com/album/71SBgWq7XwSn5ihSeCESn1) | 4:28 | 2022-05-20 | 2022-08-30 |
 | [Have You Ever Seen The Rain](https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Pendulum \(Expanded Edition\)](https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF) | 2:40 | 2022-07-08 |  |
 | [Hay Días](https://open.spotify.com/track/0y3mZ1twK3ViKwQJnvtRTY) | [La Triple Nelson](https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM) | [Hay Días](https://open.spotify.com/album/38wSBYX8FNWSX2LvIB5rY8) | 4:11 | 2022-07-01 | 2022-07-29 |

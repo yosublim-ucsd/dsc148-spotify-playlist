@@ -4,7 +4,7 @@
 
 > New Orleans kind of funk\. Cover: Cha Wa
 
-49 songs - 3 hr 28 min
+51 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,10 +32,12 @@
 | [Just Kissed My Baby](https://open.spotify.com/track/1TB0dZqFRQsnf4fLLLRKQV) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [Rejuvenation](https://open.spotify.com/album/3OoFKxuziLv3B3NxhEJwOW) | 4:43 | 2020-04-29 |  |
 | [Justice](https://open.spotify.com/track/1OYRTU6qBHvf4TnFVgdzDA) | [Dumpstaphunk](https://open.spotify.com/artist/3ugJqEReL0yEhRyM4gYvbP), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Justice](https://open.spotify.com/album/2OTNeV0bYLqLdXEUclQGgS) | 4:31 | 2020-04-29 |  |
 | [Keep on Smiling](https://open.spotify.com/track/2KNatZaPy6fOzas5TPf6Va) | [Billy Iuso](https://open.spotify.com/artist/2y2GDrJ10IXjf08XEls0zW) | [Restless Natives](https://open.spotify.com/album/2MNWfX3dYF1tQjHoz1JqWj) | 4:19 | 2020-04-29 |  |
-| [Keepin' It Funky](https://open.spotify.com/track/14hdi3R1TVvH5qGEIZfMD0) | [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [On the Spot](https://open.spotify.com/album/6aM9vFGgaEb2nGMorm3kFl) | 6:36 | 2020-04-29 |  |
+| [Keepin' It Funky](https://open.spotify.com/track/14hdi3R1TVvH5qGEIZfMD0) | [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [On the Spot](https://open.spotify.com/album/6aM9vFGgaEb2nGMorm3kFl) | 6:36 | 2020-04-29 | 2023-04-29 |
+| [Keepin' It Funky](https://open.spotify.com/track/3DwJcbUHZmoQKvNz5tU7Ua) | [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [On the Spot](https://open.spotify.com/album/2OlkUpfFyca0jPZSfLYnO9) | 6:36 | 2020-04-29 |  |
 | [Lie To Me](https://open.spotify.com/track/7c674n0AaxjWQiYv3g0TBG) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Lifted](https://open.spotify.com/album/4jGggj1AJxwhrVqm5oIJlh) | 4:10 | 2022-04-29 |  |
 | [LINEN](https://open.spotify.com/track/2Y5jO0YS2s1bmb7tYGKODq) | [Almas Band](https://open.spotify.com/artist/4SfatfmG6iq3aBk69x8D47) | [LINEN](https://open.spotify.com/album/4WJ1oqMhVKKfrmTgOmsuZk) | 4:43 | 2021-05-07 |  |
-| [Love Will Tear Us Apart](https://open.spotify.com/track/7n6pjSxN5rnIzNgr11zX7Z) | [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [Love Will Tear Us Apart](https://open.spotify.com/album/25IyZfmmpK5FWSqvhla76M) | 3:36 | 2020-04-29 |  |
+| [Love Will Tear Us Apart](https://open.spotify.com/track/1j2iplFjazFwShpHmlx10W) | [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [Love Will Tear Us Apart](https://open.spotify.com/album/4BOdO6NVndpFv6P1bLNCZU) | 3:36 | 2020-04-29 |  |
+| [Love Will Tear Us Apart](https://open.spotify.com/track/7n6pjSxN5rnIzNgr11zX7Z) | [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [Love Will Tear Us Apart](https://open.spotify.com/album/25IyZfmmpK5FWSqvhla76M) | 3:36 | 2020-04-29 | 2023-04-29 |
 | [Monk's Mardi Gras](https://open.spotify.com/track/3ts8VLXkDDZhjXYTSOKB0J) | [Big Chief Monk Boudreaux](https://open.spotify.com/artist/6dEA9IhHWUof5HKLeYRGer) | [Won't Bow Down](https://open.spotify.com/album/5H5loW7aKraS3pVG4BnSLP) | 3:45 | 2020-04-29 |  |
 | [My People](https://open.spotify.com/track/5Oyetsx1wOyE5P9WoyT6OA) | [Cha Wa](https://open.spotify.com/artist/18OO8F6DbNshxJbZ5ugprO) | [My People](https://open.spotify.com/album/5Z1GzBZmKbok1f6iCacE6c) | 3:50 | 2021-01-15 |  |
 | [New Dixieland](https://open.spotify.com/track/5tevPppMv8m87LfX3b0jZh) | [Johnny Sketch & The Dirty Notes](https://open.spotify.com/artist/4euiFJVFE4gijlrQl4b7DF) | [The Big Awesome](https://open.spotify.com/album/2tXbmUF9jIPqE4pPJQX7bP) | 3:57 | 2020-04-29 |  |

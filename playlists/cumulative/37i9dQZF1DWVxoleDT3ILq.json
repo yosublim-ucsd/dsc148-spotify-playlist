@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-16",
-  "description": "Todo el sonido indie de Chile. Foto: Camila Moreno",
+  "description": "Todo el sonido indie de Chile. Foto: Hausi Kuta.",
   "name": "Indie Chile",
   "tracks": [
     {
@@ -548,6 +548,24 @@
       "duration_ms": 167524,
       "name": "Besitos Ricos",
       "url": "https://open.spotify.com/track/2xszQFLHyFgVKDFobxCjRG"
+    },
+    {
+      "album": {
+        "name": "Bien Mal",
+        "url": "https://open.spotify.com/album/0QvML2YRQIjwvDWDHSfNIB"
+      },
+      "artists": [
+        {
+          "name": "FrioLento",
+          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180554,
+      "name": "Bien Mal",
+      "url": "https://open.spotify.com/track/5QZryHp1EN0lCEZWqY0c0V"
     },
     {
       "album": {
@@ -2538,7 +2556,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 192628,
       "name": "Hagamos Como Si Nada de Esto Hubiera Pasado (Emm Ok)",
       "url": "https://open.spotify.com/track/4M4mpwKNwRIXbxuI9fipgX"
@@ -4591,6 +4609,28 @@
     },
     {
       "album": {
+        "name": "Prisma",
+        "url": "https://open.spotify.com/album/43g4QrYuckeoF2NX1o6cr7"
+      },
+      "artists": [
+        {
+          "name": "Hausi Kuta",
+          "url": "https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF"
+        },
+        {
+          "name": "Jo Aedo",
+          "url": "https://open.spotify.com/artist/1Wg86Kw6IFZQJHtv0uuWWt"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233528,
+      "name": "Prisma",
+      "url": "https://open.spotify.com/track/3OrnisN6iubVnRmhNlmQ5g"
+    },
+    {
+      "album": {
         "name": "NAVEGANDO",
         "url": "https://open.spotify.com/album/6Ta9nz4E0FD8udyyCXz2KN"
       },
@@ -5822,7 +5862,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 229985,
       "name": "Tu Momento",
       "url": "https://open.spotify.com/track/1X5tpJelqlfxewgLmzi5R1"

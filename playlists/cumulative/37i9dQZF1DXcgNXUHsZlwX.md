@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-398 songs - 23 hr 32 min
+400 songs - 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Au\-delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/track/2lteOvX9fOLjSQ9oQbCJEN) | [Amylie](https://open.spotify.com/artist/1zUJUkYOBLMRNyot7fHae5) | [Au\-delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/album/77r4k3rT8cj7lzraRrkSNa) | 4:07 | 2021-01-03\* | 2022-07-29 |
 | [Aussi loin](https://open.spotify.com/track/0v6ThdUvh2GFVyoyXW9b0z) | [Cédric Langlois](https://open.spotify.com/artist/58esGBpFFArMIeANHE1FDb) | [Aussi loin](https://open.spotify.com/album/06WpLqlcjUXKn9KPl3qAu9) | 3:39 | 2021-09-20 | 2022-07-24 |
 | [Au​\-​delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/track/0rqY0DYt2aRwhoWBd89EVZ) | [Amylie](https://open.spotify.com/artist/1zUJUkYOBLMRNyot7fHae5) | [Au​\-​delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/album/0U09K98D8jyU0izVJlxOlH) | 4:07 | 2022-07-08 | 2023-02-24 |
-| [Beauté baroque \- Session live H2T](https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [SESSION LIVE H2T](https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz) | 3:31 | 2022-06-03 |  |
+| [Beauté baroque \- Session live H2T](https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [SESSION LIVE H2T](https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz) | 3:31 | 2022-06-03 | 2023-04-29 |
 | [Before the Fall](https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Afternoon Bike Ride](https://open.spotify.com/album/6JO6ME8KqaBNAzrJg05yZT) | 2:59 | 2022-08-30 |  |
 | [Birds](https://open.spotify.com/track/08TmRNaaezzsowLSXk9zYO) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Nameless](https://open.spotify.com/album/1jKa3DaEBF3uBSJQ911noU) | 3:41 | 2021-10-09 |  |
 | [Bloc appartement](https://open.spotify.com/track/7cHDCbp1I6oZVwox0fEFcG) | [Olivier Lessard](https://open.spotify.com/artist/475de0iJKSQa7PebOU27Lk) | [En attendant les normales de saison \- EP](https://open.spotify.com/album/4kbWX80pZW3PzuGC7wk679) | 3:36 | 2021-01-17 | 2022-07-23 |
@@ -92,6 +92,7 @@
 | [Elie](https://open.spotify.com/track/3UDwredvomtpZsvMO2WTJl) | [vice E roi](https://open.spotify.com/artist/6SmN2oQRKkyUlhqg3bOUcz) | [Elie](https://open.spotify.com/album/2SMbJm3dfMEDotP3TC6uyE) | 3:06 | 2021-01-03\* | 2021-10-07 |
 | [Elle](https://open.spotify.com/track/74tfYbU9V6E73Kzf8KoxgE) | [Barrdo](https://open.spotify.com/artist/1OIuW6qlJ2Vhb9YKtQxOlf), [David Bujold](https://open.spotify.com/artist/3erXqFbSNsihvzkRJSHZV7) | [L'éternel retour](https://open.spotify.com/album/0QdAA0cQPcVj2bM4kr7uNn) | 7:29 | 2021-01-16 | 2021-10-08 |
 | [Elle danse](https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN) | [Mimi O'Bonsawin](https://open.spotify.com/artist/7EOjDIhW0ToF3ohvoEkYWt) | [Elle danse](https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy) | 2:29 | 2021-01-03\* |  |
+| [Elle vit dans les bois](https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [Elle vit dans les bois](https://open.spotify.com/album/7zqogW39G3OCAsmbFXN36I) | 3:29 | 2023-04-28 |  |
 | [En attendant l'aube](https://open.spotify.com/track/2j46EsGcn2W7AJrqKTJ9yF) | [Héra Ménard](https://open.spotify.com/artist/5H5gfDCrcb5XzSrhQhzTiO) | [En attendant l'aube](https://open.spotify.com/album/3lGpnDRketjClNuE2F0Wyd) | 3:42 | 2021-01-03\* | 2022-07-27 |
 | [Encore et encore](https://open.spotify.com/track/4kQtxAuiMW992AmzaEparm) | [Suzie Villeneuve](https://open.spotify.com/artist/1LwihJaOQLGpPb9ue7euvj) | [Encore et encore](https://open.spotify.com/album/5hu4NysMSIE8CykyRcYEYs) | 4:20 | 2021-01-03\* | 2021-09-30 |
 | [Endorphine](https://open.spotify.com/track/7FrdYdwPYseFuWGmJGjkb3) | [Junes](https://open.spotify.com/artist/7gVX2tLip13N0qGifgsWQl) | [Endorphine](https://open.spotify.com/album/0KBYgJIJdIoK6CdtepIwZO) | 3:58 | 2021-01-03\* | 2021-01-15 |
@@ -349,6 +350,7 @@
 | [T'aimer est si beau](https://open.spotify.com/track/2QKsAweW504Pv4KgayaKRD) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [T'aimer est si beau](https://open.spotify.com/album/4TTXE3ooJbF4BucR3bCaet) | 7:33 | 2021-06-20 | 2022-01-29 |
 | [Ta robe](https://open.spotify.com/track/0dHKe4bAv3HsL4hVLSzUOH) | [Lynda Lemay](https://open.spotify.com/artist/6rVJyC8TepqtRRPeEFZfi0) | [Ta robe](https://open.spotify.com/album/3xYtKjDMC9AbC3A2BtE6mt) | 3:29 | 2021-01-03\* | 2021-09-29 |
 | [Tabarnouche](https://open.spotify.com/track/4ATXCgzqPn4YfkNOOCXDlF) | [Keith Kouna](https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK) | [Tabarnouche](https://open.spotify.com/album/3X97tveuhYkqB9H4wVP0lV) | 3:53 | 2021-01-03\* | 2021-09-24 |
+| [Taimangalimaaq \(Time After Time\)](https://open.spotify.com/track/6x5PzFq5wazDsvWd9TQCrW) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Taimangalimaaq \(Time After Time\)](https://open.spotify.com/album/291DEaUtgEk7gie1PUbF52) | 4:13 | 2023-04-28 |  |
 | [Tatouage](https://open.spotify.com/track/4df7sF3EBW2MU5FFanAIQB) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Tatouage](https://open.spotify.com/album/6nnyNRzGslhQ1WYM7H31jZ) | 2:59 | 2021-01-03\* | 2023-03-23 |
 | [TDAH](https://open.spotify.com/track/2N1lLLY43Gm7cQyQtnp3TY) | [Rick et les Bons Moments](https://open.spotify.com/artist/3ZTHWlS8bpAA446rY8ntVQ) | [TDAH](https://open.spotify.com/album/5wXYc1N7JnPmdi5owg4UIh) | 2:47 | 2021-01-03\* | 2021-09-17 |
 | [Te manquer de peu](https://open.spotify.com/track/3TSyCR8MlllxxhvzjIAwSc) | [Mylène Vallée](https://open.spotify.com/artist/2Vegs6QP9dOhRbDW6wKl9T) | [Te manquer de peu](https://open.spotify.com/album/0dTRiq3mA3IFRR8iyANWZc) | 3:32 | 2021-01-21 | 2021-05-08 |
@@ -362,7 +364,7 @@
 | [tombeau](https://open.spotify.com/track/5dSPiSs9A6jOHluVuL5i9r) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [tombeau](https://open.spotify.com/album/657xhlrFfq3PAhaB7SDXUa) | 2:47 | 2022-06-10 | 2022-09-24 |
 | [Tombeau \- A COLORS SHOW](https://open.spotify.com/track/0jx14YrpPfyZJIZCRR9alV) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Tombeau \(A COLORS SHOW\)](https://open.spotify.com/album/2WCBxuuuHZB2LE5zfXktRi) | 3:11 | 2022-06-03 | 2022-06-07 |
 | [Ton grand rire](https://open.spotify.com/track/19KGJ8NvfZk2jmDNZ3IYdE) | [Belle Grand Fille](https://open.spotify.com/artist/3xMp2n97jzSF7mQFzqKoL2) | [Nos maisons](https://open.spotify.com/album/7rl9fR8irdz94ALZ90ZELN) | 3:25 | 2021-03-21 | 2021-10-14 |
-| [Ton vieux nom](https://open.spotify.com/track/0N48WjkYqRjnjGpTGAA0Ok) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [The Ballad of the Runaway Girl](https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU) | 4:41 | 2021-01-15 |  |
+| [Ton vieux nom](https://open.spotify.com/track/0N48WjkYqRjnjGpTGAA0Ok) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [The Ballad of the Runaway Girl](https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU) | 4:41 | 2021-01-15 | 2023-04-29 |
 | [Ton équilibre](https://open.spotify.com/track/1PktdmpT9r2gAOQtASLK4z) | [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [Les choses extérieures](https://open.spotify.com/album/3RLBT6Do3B4ZbX5eJBdCH0) | 3:50 | 2022-07-08 |  |
 | [Ton équilibre](https://open.spotify.com/track/2Y10L0A6jX0JmWzYZ4oU2L) | [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [Ton équilibre](https://open.spotify.com/album/3hi8B3keG1GVEzdkKVKVyD) | 3:50 | 2021-01-15 | 2022-07-29 |
 | [Tous les chemins / Darl Bundren](https://open.spotify.com/track/6IRdDBcQLbaCkRnbllf2x1) | [Hôtel Invisible](https://open.spotify.com/artist/7f7YYtcRIuuRYU6KOjxBZD) | [Le Théâtre Zéro](https://open.spotify.com/album/2BCLDUi2WK0GKmJwsr3R6Z) | 3:42 | 2021-04-19 | 2021-05-28 |

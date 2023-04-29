@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The hottest K\-R&B is here\. \(Cover: 그래쓰\(GRASS\)\)
 
-190 songs - 10 hr 51 min
+191 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Would You Still Love Me \(Feat\. MELOH\)](https://open.spotify.com/track/03CC9T66w6i25B8KPGcIxA) | [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg) | [Beginning](https://open.spotify.com/album/7D1eIygExQO5kvrCWF9mf0) | 3:40 | 2022-05-28 | 2022-07-28 |
 | [XNFP \(feat.JUNE\)](https://open.spotify.com/track/6O1DGge7UkQzyLBrb9hSep) | [søye](https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx), [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [XNFP \(feat.JUNE\)](https://open.spotify.com/album/3mYQq0tgwSXvUBkNQFegEl) | 3:29 | 2022-08-02 | 2023-01-21 |
 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 | 2023-02-13 |  |
+| [Yooou \(Feat\. BIG Naughty\)](https://open.spotify.com/track/2iQ77ftQFhdxyBt1DET8Xf) | [PARK HYEON JIN](https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Yooou \(Feat\. BIG Naughty\)](https://open.spotify.com/album/6MLmMlHFNJp5GqZuI7Fwga) | 4:04 | 2023-04-28 |  |
 | [YOU AND I](https://open.spotify.com/track/0t1MauhY0fE0dV1M7V9tnd) | [GRAM](https://open.spotify.com/artist/2qKhaMe5cOdQinPWBXyCHF) | [LOVE](https://open.spotify.com/album/7f3n6Mk3cgGHLtKbveKgE8) | 3:46 | 2023-01-13 |  |
 | [Zero gravity \(feat\. Blueday\)](https://open.spotify.com/track/4CHZmHfpzinqUwWiSYWPn7) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [Blueday](https://open.spotify.com/artist/0eJldGKbkQF8duavnqq9hx) | [Zero gravity](https://open.spotify.com/album/1EyyquQhOTZzRuuwcN1VCF) | 3:16 | 2022-10-04 | 2023-03-28 |
 | [겨울길 \(feat\. 영준\)](https://open.spotify.com/track/7s9ueFmPRPZvu2WnKJPeI9) | [Ray Hill](https://open.spotify.com/artist/37Ez82I2tYUegLiKXfOkUw), [Young Jun](https://open.spotify.com/artist/7n7p8oXuygFVSkrCO9FvAt) | [나의 겨울](https://open.spotify.com/album/7m8rPBnClStMMpVT7BXt9y) | 3:59 | 2022-12-15 |  |

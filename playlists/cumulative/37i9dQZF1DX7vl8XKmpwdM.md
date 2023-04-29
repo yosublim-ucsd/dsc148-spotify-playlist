@@ -4,7 +4,7 @@
 
 > Dance Machi Dance<br/>Cover : Pathu Thala
 
-101 songs - 6 hr 1 min
+102 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Private Party \(From "Don"\)](https://open.spotify.com/track/6eYsOcDdB5b6rTO5ubMxeV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Private Party \(From "Don"\)](https://open.spotify.com/album/1JOGTaUwTOfeW70ed3rRr2) | 3:36 | 2022-04-30 |  |
 | [Puli Manga Pulip \- From "Parris Jeyaraj"](https://open.spotify.com/track/5KbGHaITw0wFsuwWBsfY5C) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Gana Muthu](https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx) | [Puli Manga Pulip \(From "Parris Jeyaraj"\)](https://open.spotify.com/album/1DzuQPgTb4jD5WO9advtbV) | 2:58 | 2021-12-01 | 2023-04-01 |
 | [Ra Ra Rakkamma \(From "Vikrant Rona"\)](https://open.spotify.com/track/2kcizR0QjZNKchPQNGL2bK) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Ra Ra Rakkamma \(From "Vikrant Rona"\)](https://open.spotify.com/album/3uoKayBMRY0SctDyAa6PcL) | 3:38 | 2022-05-26 |  |
+| [Raavana Kottathula](https://open.spotify.com/track/7bCo86nA52IUWcJsuNu81F) | [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr), [Diwakar](https://open.spotify.com/artist/5BdXSKDC9KQQpdQ7V3cZxD) | [Raavana Kottam](https://open.spotify.com/album/13GOZsEZb3fB4Ho3lGStbv) | 4:03 | 2023-04-28 |  |
 | [Raawadi](https://open.spotify.com/track/2akGl5QjvPr5Prw8a5D513) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shuba](https://open.spotify.com/artist/6CeM0KkzPqfufYDUJjYpll), [Nivas](https://open.spotify.com/artist/4xhaMczwBV4FBeTAxr6I7O) | [Pathu Thala \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6y3yImd357ZGmMfb0mb1ts) | 3:11 | 2023-03-19 |  |
 | [Rakita Rakita Rakita \(From "Jagame Thandhiram"\)](https://open.spotify.com/track/2oNRoniEFnPdaCfkOQ9m0C) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Rakita Rakita Rakita \(From "Jagame Thandhiram"\)](https://open.spotify.com/album/3YSoAYHmI70SD6Wb7f4k1q) | 4:07 | 2021-12-01 | 2023-04-18 |
 | [Rangarattinam \- From "Natchathiram Nagargiradhu"](https://open.spotify.com/track/6dmb2PApaoXVYWHgljp8IT) | [Tenma](https://open.spotify.com/artist/2DrwyYWGYEu3ULzRzEGajY), [M.S Krsna](https://open.spotify.com/artist/4qVLx0XPsO5EInvKYH6Pxx), [Gana Muthu](https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx), [Sangita Santhosham](https://open.spotify.com/artist/4dXWYL9FnxG8CKIv2EgBnn), [Kavitha Gopi](https://open.spotify.com/artist/1xDvHwPzrmRQB6CPlyIoTI), [Karthik Manickavasakam](https://open.spotify.com/artist/3YkUMVh7nPai0811Q22WPO), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Rangarattinam \(From "Natchathiram Nagargiradhu"\)](https://open.spotify.com/album/7FmTMzjqegboyCxwAKlj4z) | 4:49 | 2022-08-09 | 2022-10-12 |

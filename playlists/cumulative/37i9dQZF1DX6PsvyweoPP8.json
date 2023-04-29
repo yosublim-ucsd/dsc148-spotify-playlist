@@ -273,6 +273,24 @@
     },
     {
       "album": {
+        "name": "Amor Bandido",
+        "url": "https://open.spotify.com/album/1Hn0T5W7uLjn0CIFaiXyxQ"
+      },
+      "artists": [
+        {
+          "name": "Young Di",
+          "url": "https://open.spotify.com/artist/2YU1M1onw9SekYgpXe1oG8"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171061,
+      "name": "Adrenalina",
+      "url": "https://open.spotify.com/track/4lrCXOBcdVspjbPw8P6hxX"
+    },
+    {
+      "album": {
         "name": "DDD61 (Despedida do Dan)",
         "url": "https://open.spotify.com/album/5WQEMD9nJazCJ7xEUAhtv5"
       },
@@ -1210,6 +1228,28 @@
       "duration_ms": 135384,
       "name": "FDP",
       "url": "https://open.spotify.com/track/3LbPOVdMrVm8yBMDcb5s2F"
+    },
+    {
+      "album": {
+        "name": "Fetiches",
+        "url": "https://open.spotify.com/album/2ZIc8smEdKWnoMuYGG1MOH"
+      },
+      "artists": [
+        {
+          "name": "Wilker",
+          "url": "https://open.spotify.com/artist/6DxZiufdSdVSptIGiQvFB2"
+        },
+        {
+          "name": "Gree Cassua",
+          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198551,
+      "name": "Fetiches",
+      "url": "https://open.spotify.com/track/1DKn6TWLuF9JYuOngK9gKq"
     },
     {
       "album": {
@@ -2282,7 +2322,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 180500,
       "name": "Perna Bamba",
       "url": "https://open.spotify.com/track/0p0X3eZfy33Gc91M8FRsli"
@@ -2646,7 +2686,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 196185,
       "name": "Solo",
       "url": "https://open.spotify.com/track/1ZfUzmhmyxfRCEweqgInsx"

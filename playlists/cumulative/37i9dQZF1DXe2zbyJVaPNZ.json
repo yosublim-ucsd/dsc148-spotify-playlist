@@ -1426,7 +1426,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 532340,
       "name": "Isolation Horizon",
       "url": "https://open.spotify.com/track/5jPLFbehCOcUgkD0rZT2en"
@@ -2462,6 +2462,24 @@
       "duration_ms": 195306,
       "name": "Sphere",
       "url": "https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK"
+    },
+    {
+      "album": {
+        "name": "Dream Gopher",
+        "url": "https://open.spotify.com/album/5zJ429kxoBCNLXJo9ihP4o"
+      },
+      "artists": [
+        {
+          "name": "Kilometre Club",
+          "url": "https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "Sports Team Winners",
+      "url": "https://open.spotify.com/track/0FqD6sslsMNwVxSmZsoV4x"
     },
     {
       "album": {

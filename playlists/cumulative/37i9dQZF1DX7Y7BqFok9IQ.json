@@ -60,7 +60,7 @@
     {
       "album": {
         "name": "John The Conqueror",
-        "url": "https://open.spotify.com/album/5J05LEDQP5q6wzJWuXO1Sp"
+        "url": "https://open.spotify.com/album/0HCt8hhIqeTaXrGpShR2J4"
       },
       "artists": [
         {
@@ -71,6 +71,24 @@
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 229720,
+      "name": "All Alone",
+      "url": "https://open.spotify.com/track/0y4hx5uMm5RYImWtXVl21y"
+    },
+    {
+      "album": {
+        "name": "John The Conqueror",
+        "url": "https://open.spotify.com/album/5J05LEDQP5q6wzJWuXO1Sp"
+      },
+      "artists": [
+        {
+          "name": "John The Conqueror",
+          "url": "https://open.spotify.com/artist/1PEYH4hqPi7Wqa4qNV4184"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
       "duration_ms": 229720,
       "name": "All Alone",
       "url": "https://open.spotify.com/track/4QcFM4sEayM4QjvIQjF3bE"
@@ -3214,7 +3232,7 @@
     {
       "album": {
         "name": "Every Hour Is A Dollar Gone",
-        "url": "https://open.spotify.com/album/6sgZ7yq8F0HZ1xmdgQrcJP"
+        "url": "https://open.spotify.com/album/7wFVw2lcWdzLIlNESYUNFX"
       },
       "artists": [
         {
@@ -3225,6 +3243,24 @@
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 348706,
+      "name": "Them Shoes",
+      "url": "https://open.spotify.com/track/1oADNvkLEOm7hvyxffDRjn"
+    },
+    {
+      "album": {
+        "name": "Every Hour Is A Dollar Gone",
+        "url": "https://open.spotify.com/album/6sgZ7yq8F0HZ1xmdgQrcJP"
+      },
+      "artists": [
+        {
+          "name": "Patrick Sweany",
+          "url": "https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
       "duration_ms": 348706,
       "name": "Them Shoes",
       "url": "https://open.spotify.com/track/4WeeCdOInoH5HyO8xcxiAt"

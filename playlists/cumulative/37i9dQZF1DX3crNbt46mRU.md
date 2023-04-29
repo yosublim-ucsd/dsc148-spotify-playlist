@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Niall Horan
 
-6,465 songs - 13 day 16 hr 14 min
+6,466 songs - 13 day 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,12 +177,12 @@
 | [Aber bei dir](https://open.spotify.com/track/4V2aSXReInkNhS1gmSezYa) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [Aber bei dir](https://open.spotify.com/album/4WU5TVzfP7bP8ZtzPubJMa) | 2:26 | 2022-12-15 | 2022-12-24 |
 | [ABISSALE](https://open.spotify.com/track/3LUaoHfEgHY6GxyFqXRcep) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [ABISSALE](https://open.spotify.com/album/1jhgYKGw2JZZxcMZUQv3fS) | 3:22 | 2022-10-13 | 2022-10-21 |
 | [Aboboyaa \(feat\. Burna Boy\)](https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 2:46 | 2023-01-26 | 2023-02-03 |
+| [Abou Chaker](https://open.spotify.com/track/0oU0jpPHKrqeCy8MX8yljU) | [DAWILL](https://open.spotify.com/artist/7oypIsVGKg4FIyuZM1AmeA), [Kylo Dream](https://open.spotify.com/artist/1infWOgqAl0gZNHumUkkO6) | [Abou Chaker](https://open.spotify.com/album/2vMrFfjVGUNM5UgSTq4dK7) | 2:58 | 2023-04-27 |  |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-04-14 | 2022-04-22 |
 | [About You](https://open.spotify.com/track/5hDjdcUB4Ex143S8BSVsFG) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [About You](https://open.spotify.com/album/2Fs0WFILf3bV6D1Ph6iFhm) | 2:40 | 2023-01-13 | 2023-01-20 |
 | [About You](https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [A Radiant Sign](https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl) | 3:52 | 2022-09-01 | 2022-09-09 |
 | [about you](https://open.spotify.com/track/0Vzrki9UXx6emkXnhNKvG2) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [about you](https://open.spotify.com/album/1XEwApeQfsu29aMeXHHuYe) | 2:47 | 2022-03-10 | 2022-03-18 |
 | [Absolute Body Control](https://open.spotify.com/track/0gOvGfm0mDYmtGNhiVMk8O) | [Trikk](https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY), [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Fauna & Flora](https://open.spotify.com/album/6gtTnH5ho8YBFcoJ8yYbDl) | 3:53 | 2023-02-16 | 2023-02-24 |
-| [Abushaka](https://open.spotify.com/track/0oU0jpPHKrqeCy8MX8yljU) | [DAWILL](https://open.spotify.com/artist/7oypIsVGKg4FIyuZM1AmeA), [Kylo Dream](https://open.spotify.com/artist/1infWOgqAl0gZNHumUkkO6) | [Abushaka](https://open.spotify.com/album/2vMrFfjVGUNM5UgSTq4dK7) | 2:58 | 2023-04-27 |  |
 | [Abziehen](https://open.spotify.com/track/42MbpTDZWKc8uAJDhHcvQO) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [Abziehen](https://open.spotify.com/album/32bNw04jonhRIqvmG2mARJ) | 2:30 | 2023-03-02 | 2023-03-10 |
 | [Achti August](https://open.spotify.com/track/7fI3nZmZyXXnCtYEHWZtON) | [Hecht](https://open.spotify.com/artist/5WesSfZwdtLI1iy05rJF0S) | [Achti August](https://open.spotify.com/album/09cq1w0YjNALaiQkiHaAKo) | 3:02 | 2022-03-24 | 2022-04-01 |
 | [Acid Eyes](https://open.spotify.com/track/4YUcYIRBcVqQ93MnNhtU5F) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Acid Eyes / Petrified In Love](https://open.spotify.com/album/6BuzpB9fGMfmOeQVYcq1lF) | 4:33 | 2022-06-23 | 2022-07-01 |
@@ -5584,6 +5584,7 @@
 | [These Are the Ways](https://open.spotify.com/track/1KtXgVTeu3GUXHrOAef6QQ) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Unlimited Love](https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6) | 3:56 | 2022-03-31 | 2022-04-08 |
 | [These Nights](https://open.spotify.com/track/1GL7vwDnPqCnJ2xGNxNLwG) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [These Nights](https://open.spotify.com/album/6VsiabIfqnY6VH8qJAJVPd) | 2:12 | 2022-07-07 | 2022-07-15 |
 | [These Tears](https://open.spotify.com/track/1Nt4hDwC9bGT8P9NU5TuFX) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [These Tears](https://open.spotify.com/album/60fN3YpVgSWbGeJ1REe2zO) | 2:49 | 2023-01-13 | 2023-01-20 |
+| [They Don't Love It](https://open.spotify.com/track/2dSKFFNoNXKo3hPnlwUdPe) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 1:53 | 2023-04-27 |  |
 | [They Want It, But No](https://open.spotify.com/track/0INhc870cm8AiSzujM3OlA) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 2:37 | 2022-11-04 | 2022-11-11 |
 | [Thick](https://open.spotify.com/track/7Irj2ipTcddi6hQM6PkvUf) | [KeKe](https://open.spotify.com/artist/72uK8geg5BPRRzdGBmmtAF) | [Thick](https://open.spotify.com/album/1zJ8WdjCDHJrEPvwkCojjU) | 2:44 | 2022-08-05 | 2022-08-12 |
 | [Things That You Said](https://open.spotify.com/track/6DfHD0waA3KdXE9G4ACQCB) | [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu), [Cris O'Carroll](https://open.spotify.com/artist/3VFzDf5Hf8mRcJvfTdBr0A) | [Things That You Said](https://open.spotify.com/album/01jyvh8oShPuie0Gf8c4qu) | 3:38 | 2022-04-14 | 2022-04-22 |

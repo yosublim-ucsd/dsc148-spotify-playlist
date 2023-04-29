@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SxUtY6PbgZ.md) - [plain]
 
 > Ambient at the movies; great atmospheric, ethereal film soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,638 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,730 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SxUtY6PbgZ.md) - [plain]
 | 63 | [The Beast \- From "Sicario"](https://open.spotify.com/track/5KwLjZ0oJ5kNl7jGtdiIOC) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Sicario \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04FRFSqcTfN9zfmFfzhbHn) | 3:13 |
 | 64 | [The Thing](https://open.spotify.com/track/6QFLyznMxoXuffRCmxK6CO) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Anthology: Movie Themes 1974\-1998](https://open.spotify.com/album/3ZqJGlPsvDsU1hlaeU2lr9) | 3:37 |
 | 65 | [Vanity](https://open.spotify.com/track/1unH1mDWKxidZvjgnLigXg) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Jackie \(Original Soundtrack Album\)](https://open.spotify.com/album/198sB62Rh8wbNNXDIvMHzD) | 2:59 |
-| 66 | [Manipulated Living](https://open.spotify.com/track/1TFZ7n3bBWT1cN7Zrzx6lF) | [Michael Andrews](https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2) | [Donnie Darko \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/14YY4AaUCXICymdzNYBUS3) | 2:09 |
+| 66 | [Manipulated Living](https://open.spotify.com/track/73yN3DpMfVNLdDFazijDUT) | [Michael Andrews](https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2) | [Donnie Darko \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1mSv7EACPPrgNTlKDo32Kk) | 2:09 |
 | 67 | [Leaves Expanded May Be Prevailing Blue Mixed with Yellow of the Sand](https://open.spotify.com/track/3hnRzyIRl3y4FyIGBBc2qW) | [Shane Carruth](https://open.spotify.com/artist/47MxpW1RYHRpHu56qhC1xh) | [Upstream Color \(Original Motion Picture Score\)](https://open.spotify.com/album/1eP1f5yEWk8qvkw7k0zDiI) | 2:25 |
 | 68 | [Slow 30's Room](https://open.spotify.com/track/03IBiVgBzhNrZSwES3Hyjf) | [David Lynch](https://open.spotify.com/artist/0WluQkhiQsQJ14sLXqDnVK), [Dean Hurley](https://open.spotify.com/artist/4gfOoXI9MWCyREzvqNv38D) | [Twin Peaks \(Limited Event Series Soundtrack\)](https://open.spotify.com/album/4dN8VmiUt9WVPDSReLWBvJ) | 2:06 |
 | 69 | [Monsters Theme](https://open.spotify.com/track/6aiR4OPo4GSpsiRzuubaZg) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Monsters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xj5LGumbT2M7wq25RLNjl) | 4:55 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SxUtY6PbgZ.md) - [plain]
 | 75 | [Desert Music](https://open.spotify.com/track/03RruqL6P3illbLLitAKnB) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Sicario \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04FRFSqcTfN9zfmFfzhbHn) | 5:07 |
 | 76 | [Overture \(Reprise\)](https://open.spotify.com/track/7sblPlWxkqITqNRLVgDCZT) | [Louis and Bebe Barron](https://open.spotify.com/artist/5CguFfXKOQIiuIRPM01581) | [Forbidden Planet](https://open.spotify.com/album/3zQQtu3a9Y7ZEDAKcftznw) | 2:15 |
 | 77 | [Detroit](https://open.spotify.com/track/3EfXB0To1zCbgDgPkSt9pR) | [Disasterpeace](https://open.spotify.com/artist/7rSMEcqv4Ez0OLgJKDjrvq) | [It Follows \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5df4xBKQQdA8oAfbFmc3Vu) | 1:20 |
-| 78 | [Philosophy of Time Travel](https://open.spotify.com/track/279OmEUbE1uSLMT9usR4nb) | [Michael Andrews](https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2) | [Donnie Darko \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/14YY4AaUCXICymdzNYBUS3) | 2:02 |
+| 78 | [Philosophy of Time Travel](https://open.spotify.com/track/0DEJS2xr5tSNDDmhiBdCM5) | [Michael Andrews](https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2) | [Donnie Darko \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1mSv7EACPPrgNTlKDo32Kk) | 2:02 |
 | 79 | [The Turing Test](https://open.spotify.com/track/24tp9KQWD7EVkPiHcO1pPE) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [Ex Machina \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/73JQnkZK21PuqE4qF3TLJE) | 4:34 |
 | 80 | [Joe's Life](https://open.spotify.com/track/6YQrZEPXUz18Bi5kyOAZgw) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 0:40 |
 
-Snapshot ID: `MCwwNmQwNWRlMmRjY2RjZDVhMzU1MzA5YWZkNDJmNDZhMTkxYjFlNGFk`
+Snapshot ID: `MCxhZTk2YmZmYmJhNGNjYWNmZjZjMDRmZjY0ZGJiNzNkZTA2NGE3OGYz`

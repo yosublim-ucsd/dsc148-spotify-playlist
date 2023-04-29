@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Lizandra",
+  "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Nando Reis, Anavit\u00f3ria",
   "name": "Pop Leve",
   "tracks": [
     {
@@ -828,6 +828,28 @@
       "duration_ms": 231000,
       "name": "Cabelo Bagun\u00e7ado",
       "url": "https://open.spotify.com/track/5HnS5kHBcUEleSVO0IooQD"
+    },
+    {
+      "album": {
+        "name": "Cacha\u00e7a",
+        "url": "https://open.spotify.com/album/282hflxotkYOTqoFHYIXPY"
+      },
+      "artists": [
+        {
+          "name": "Nanasai",
+          "url": "https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S"
+        },
+        {
+          "name": "\u00cdtalo Ribeiro",
+          "url": "https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154673,
+      "name": "Cacha\u00e7a",
+      "url": "https://open.spotify.com/track/7q6hWgcTaN1l8eejnHA1OK"
     },
     {
       "album": {
@@ -2564,7 +2586,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 168615,
       "name": "giz de cera",
       "url": "https://open.spotify.com/track/0JnwmpK3A3FCJNMjy0y56r"
@@ -2846,7 +2868,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 152666,
       "name": "Logo Eu",
       "url": "https://open.spotify.com/track/1pPpL3JEgD2mJLA6uBVolj"
@@ -3415,6 +3437,28 @@
     },
     {
       "album": {
+        "name": "Mulher de f\u00e9",
+        "url": "https://open.spotify.com/album/0NIimQLXAHitFTYmKSQ4Oi"
+      },
+      "artists": [
+        {
+          "name": "Tritom",
+          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
+        },
+        {
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154269,
+      "name": "Mulher de f\u00e9",
+      "url": "https://open.spotify.com/track/3nzOzTsaXDsQDjbeNLhjSu"
+    },
+    {
+      "album": {
         "name": "M\u00e3e",
         "url": "https://open.spotify.com/album/2LdDGy12ITEQYX7sBUlz0v"
       },
@@ -3448,6 +3492,46 @@
       "duration_ms": 178676,
       "name": "M\u00fasica para Recome\u00e7os",
       "url": "https://open.spotify.com/track/2W5aFc2XGAt4AEH3ZY7427"
+    },
+    {
+      "album": {
+        "name": "N",
+        "url": "https://open.spotify.com/album/25TC2OVhHvNUOm7FOzIS3r"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214464,
+      "name": "N",
+      "url": "https://open.spotify.com/track/7iNcOVH9n4EEY2rwWAQOsA"
+    },
+    {
+      "album": {
+        "name": "NEM GOSTO TANTO ASSIM DE VOC\u00ca",
+        "url": "https://open.spotify.com/album/0CftRPVAJRuz5SQhliCvBd"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Froede",
+          "url": "https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187838,
+      "name": "NEM GOSTO TANTO ASSIM DE VOC\u00ca",
+      "url": "https://open.spotify.com/track/7yYgj6JpLLCRhGzwSTpC00"
     },
     {
       "album": {
@@ -4927,6 +5011,24 @@
     },
     {
       "album": {
+        "name": "Label 67 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3EipZjFInVdWgrda8PgoZf"
+      },
+      "artists": [
+        {
+          "name": "Atitude 67",
+          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256567,
+      "name": "Sonho",
+      "url": "https://open.spotify.com/track/6DuJzDbnQxVLbOv1Y1Ix9N"
+    },
+    {
+      "album": {
         "name": "Sorria que Volta",
         "url": "https://open.spotify.com/album/2V4qg7sNcMllTmLOFpzf7o"
       },
@@ -5012,7 +5114,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 236041,
       "name": "Suave",
       "url": "https://open.spotify.com/track/7yp9hrQRwoXIlkLnQjuYKH"
@@ -5358,7 +5460,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 184936,
       "name": "Toda pra Voc\u00ea",
       "url": "https://open.spotify.com/track/5idwUIbn0g5U7Lk3MlfEX6"
@@ -6040,7 +6142,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 149535,
       "name": "Vou Ficar Bem",
       "url": "https://open.spotify.com/track/3kihHB83cSIvBzEIpu0vXK"

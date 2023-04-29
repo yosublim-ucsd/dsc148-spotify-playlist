@@ -1,12 +1,12 @@
 {
   "description": "El lado fluorescente del indie latino featuring La Femme D'Argent & FEMI.",
-  "num_followers": 15398,
+  "num_followers": 15396,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjBjZjgwNTgyYjBjYWNlMzc0NzBiNmYyZTY2ZTRhNDg0ZjMxMjc5",
+  "snapshot_id": "MCwxODNlODQ2OGI5MDRlZjc2MTJiOWM1ZGE4NDBhMzIyNDE1NmRkNWNh",
   "tracks": [
     {
       "added_at": "2023-04-21 03:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "En el Palacio (REMIX)",
-        "url": "https://open.spotify.com/album/1BQ7z4gQEX3bTLnHBy4sXS"
-      },
-      "artists": [
-        {
-          "name": "Alejo y Valentin",
-          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
-        }
-      ],
-      "duration_ms": 246144,
-      "name": "En la Torre - AV Remix",
-      "url": "https://open.spotify.com/track/5zW85xW2bXJWP5b2xES8Fc"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Luz de perla",
         "url": "https://open.spotify.com/album/6ENurOBs5BwrZNvGvJ2VIY"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 161173,
       "name": "Pido 1 deseo",
       "url": "https://open.spotify.com/track/1vXAdOBHefeLUBABf5R4U9"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "En el Palacio (REMIX)",
+        "url": "https://open.spotify.com/album/1BQ7z4gQEX3bTLnHBy4sXS"
+      },
+      "artists": [
+        {
+          "name": "Alejo y Valentin",
+          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
+        }
+      ],
+      "duration_ms": 246144,
+      "name": "En la Torre - AV Remix",
+      "url": "https://open.spotify.com/track/5zW85xW2bXJWP5b2xES8Fc"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Hyperreal",
-        "url": "https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId"
-      },
-      "artists": [
-        {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
-        }
-      ],
-      "duration_ms": 180867,
-      "name": "HYPERREAL",
-      "url": "https://open.spotify.com/track/50GATIYGEwMVtSkc2UxVd3"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Viernes",
         "url": "https://open.spotify.com/album/4aAnbqUTQj3anbIkY8cbqe"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 196020,
       "name": "Viernes",
       "url": "https://open.spotify.com/track/1qZ9xDBnQ8vORJoN7kGv1f"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Hyperreal",
+        "url": "https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId"
+      },
+      "artists": [
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+        }
+      ],
+      "duration_ms": 180867,
+      "name": "HYPERREAL",
+      "url": "https://open.spotify.com/track/50GATIYGEwMVtSkc2UxVd3"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "Cicuta",
+        "url": "https://open.spotify.com/album/7DrBMH2nRfBfbF1wuFCpN7"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        }
+      ],
+      "duration_ms": 149950,
+      "name": "Cicuta",
+      "url": "https://open.spotify.com/track/6uKDzPZf9wsLDZuI6bPJeC"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "Sombra",
         "url": "https://open.spotify.com/album/0A0tOMUxutXdCGwfu8Vr7G"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 225173,
       "name": "Flaps",
       "url": "https://open.spotify.com/track/1KulHWqJTFq3tKAXJxDASc"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "Cicuta",
-        "url": "https://open.spotify.com/album/7DrBMH2nRfBfbF1wuFCpN7"
-      },
-      "artists": [
-        {
-          "name": "Peces Raros",
-          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
-        }
-      ],
-      "duration_ms": 149950,
-      "name": "Cicuta",
-      "url": "https://open.spotify.com/track/6uKDzPZf9wsLDZuI6bPJeC"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "Autorretrato en Blanco",
+        "url": "https://open.spotify.com/album/0QdA8t27p18rv47csXx7ZR"
+      },
+      "artists": [
+        {
+          "name": "Los Jardines De Bruselas",
+          "url": "https://open.spotify.com/artist/2F4tyujNuSw8UiWfwujwP8"
+        }
+      ],
+      "duration_ms": 247826,
+      "name": "Autorretrato en Blanco",
+      "url": "https://open.spotify.com/track/6pKoQuCsJv82MSGN206O3U"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "7 canciones antes de que nos corten la luz",
         "url": "https://open.spotify.com/album/58Kzrvix7aM7yh0N4CpRVm"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 223278,
       "name": "Fiebre",
       "url": "https://open.spotify.com/track/2lDvFFGwcvUvStTh5t29yF"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "Autorretrato en Blanco",
-        "url": "https://open.spotify.com/album/0QdA8t27p18rv47csXx7ZR"
-      },
-      "artists": [
-        {
-          "name": "Los Jardines De Bruselas",
-          "url": "https://open.spotify.com/artist/2F4tyujNuSw8UiWfwujwP8"
-        }
-      ],
-      "duration_ms": 247826,
-      "name": "Autorretrato en Blanco",
-      "url": "https://open.spotify.com/track/6pKoQuCsJv82MSGN206O3U"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "es mejor",
+        "url": "https://open.spotify.com/album/7CxEhuohjm1rOzuJBszNRZ"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "es mejor",
+      "url": "https://open.spotify.com/track/2V6bROogDktEqNrsALo0hY"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "Corazon en Asteroides",
         "url": "https://open.spotify.com/album/5uIyYenH0O4ThqgBRGshvw"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 238421,
       "name": "Corazon en Asteroides",
       "url": "https://open.spotify.com/track/4YtoojKbqHDTrZSq2BDdJn"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "es mejor",
-        "url": "https://open.spotify.com/album/7CxEhuohjm1rOzuJBszNRZ"
-      },
-      "artists": [
-        {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "es mejor",
-      "url": "https://open.spotify.com/track/2V6bROogDktEqNrsALo0hY"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Cu\u00e1nto Falta",
-        "url": "https://open.spotify.com/album/1R7xH7A6kvLXbm3tLktAiD"
-      },
-      "artists": [
-        {
-          "name": "Ziberia",
-          "url": "https://open.spotify.com/artist/3QF7pmiRCZmlvnTzFtCuDH"
-        }
-      ],
-      "duration_ms": 240050,
-      "name": "Cu\u00e1nto Falta",
-      "url": "https://open.spotify.com/track/0ewr3hASTWqJK6hSpKWRdj"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "CASI ANGELES <3",
         "url": "https://open.spotify.com/album/3vi4ZvttJXaVu4wZVwr3Qd"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 225493,
       "name": "@CLOSEFRIENDS",
       "url": "https://open.spotify.com/track/6Fx5kFcfK0ttt4RlN8dJUU"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Cu\u00e1nto Falta",
+        "url": "https://open.spotify.com/album/1R7xH7A6kvLXbm3tLktAiD"
+      },
+      "artists": [
+        {
+          "name": "Ziberia",
+          "url": "https://open.spotify.com/artist/3QF7pmiRCZmlvnTzFtCuDH"
+        }
+      ],
+      "duration_ms": 240050,
+      "name": "Cu\u00e1nto Falta",
+      "url": "https://open.spotify.com/track/0ewr3hASTWqJK6hSpKWRdj"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "Recuerdo Infinito",
+        "url": "https://open.spotify.com/album/2GZVbuaafLfHwTPalStIfP"
+      },
+      "artists": [
+        {
+          "name": "Christian Jean",
+          "url": "https://open.spotify.com/artist/2Fmp7ynBi1C038SEpA4EOL"
+        }
+      ],
+      "duration_ms": 293386,
+      "name": "Recuerdo Infinito",
+      "url": "https://open.spotify.com/track/79a6afRQ6sanoByoTyonnj"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "Solos",
         "url": "https://open.spotify.com/album/2hV78YdCzBXgjMeF9eniwQ"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 192167,
       "name": "Tirita",
       "url": "https://open.spotify.com/track/1kjkorsJWyqEfbSP4ud1My"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "Recuerdo Infinito",
-        "url": "https://open.spotify.com/album/2GZVbuaafLfHwTPalStIfP"
-      },
-      "artists": [
-        {
-          "name": "Christian Jean",
-          "url": "https://open.spotify.com/artist/2Fmp7ynBi1C038SEpA4EOL"
-        }
-      ],
-      "duration_ms": 293386,
-      "name": "Recuerdo Infinito",
-      "url": "https://open.spotify.com/track/79a6afRQ6sanoByoTyonnj"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Uh",
-        "url": "https://open.spotify.com/album/08F1JJE42aA2P7mlQjAldU"
-      },
-      "artists": [
-        {
-          "name": "Jazm\u00edn Mazzuchelli",
-          "url": "https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Uh",
-      "url": "https://open.spotify.com/track/0qQM9TJBrvNJu62aaxcYxF"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Diabla",
         "url": "https://open.spotify.com/album/6L8kcowzx0Enf5uzbETdVS"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 211080,
       "name": "Arcoiris",
       "url": "https://open.spotify.com/track/6k9NhoSbRuVLofmhnjaA16"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Uh",
+        "url": "https://open.spotify.com/album/08F1JJE42aA2P7mlQjAldU"
+      },
+      "artists": [
+        {
+          "name": "Jazm\u00edn Mazzuchelli",
+          "url": "https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Uh",
+      "url": "https://open.spotify.com/track/0qQM9TJBrvNJu62aaxcYxF"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "ACAPULCO GOLD",
-        "url": "https://open.spotify.com/album/6uNd8ONIK8m3CBHlOcSv7x"
-      },
-      "artists": [
-        {
-          "name": "GULI",
-          "url": "https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH"
-        }
-      ],
-      "duration_ms": 178020,
-      "name": "ACAPULCO GOLD",
-      "url": "https://open.spotify.com/track/0F862VhYfSgGYo1xvTjNPF"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "soy gris",
         "url": "https://open.spotify.com/album/4V0ZEAtefmZzJYge7N93IC"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 180000,
       "name": "soy gris",
       "url": "https://open.spotify.com/track/7wpyHcEEQuQnUjZFofSQ12"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "ACAPULCO GOLD",
+        "url": "https://open.spotify.com/album/6uNd8ONIK8m3CBHlOcSv7x"
+      },
+      "artists": [
+        {
+          "name": "GULI",
+          "url": "https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH"
+        }
+      ],
+      "duration_ms": 178020,
+      "name": "ACAPULCO GOLD",
+      "url": "https://open.spotify.com/track/0F862VhYfSgGYo1xvTjNPF"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "Mejor no hablar de ciertas cosas",
+        "url": "https://open.spotify.com/album/1dmCQhYQg0uLk7tF8eJGAb"
+      },
+      "artists": [
+        {
+          "name": "Audia Valdez",
+          "url": "https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg"
+        }
+      ],
+      "duration_ms": 300782,
+      "name": "Mejor no hablar de ciertas cosas",
+      "url": "https://open.spotify.com/track/6ZxxBhhLvXryhzGBO9lcRT"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "Affaire",
         "url": "https://open.spotify.com/album/2rcupujtoKYrUySHxUEsJt"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 216204,
       "name": "Affaire de Colecci\u00f3n - Remix",
       "url": "https://open.spotify.com/track/0dHpIAezpDGLW27v6g7ek0"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "Mejor no hablar de ciertas cosas",
-        "url": "https://open.spotify.com/album/1dmCQhYQg0uLk7tF8eJGAb"
-      },
-      "artists": [
-        {
-          "name": "Audia Valdez",
-          "url": "https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg"
-        }
-      ],
-      "duration_ms": 300782,
-      "name": "Mejor no hablar de ciertas cosas",
-      "url": "https://open.spotify.com/track/6ZxxBhhLvXryhzGBO9lcRT"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Kamishibai: Un Viaje Tejido en el Tiempo",
-        "url": "https://open.spotify.com/album/5rqbwd6aFbeFiOAMbm8jFt"
-      },
-      "artists": [
-        {
-          "name": "KO",
-          "url": "https://open.spotify.com/artist/1hEKn5JEB1BjkjaEqn7ERu"
-        }
-      ],
-      "duration_ms": 211124,
-      "name": "Haikus",
-      "url": "https://open.spotify.com/track/4FRghceXp9rv6OpVak9d7u"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Extra\u00f1o ser",
         "url": "https://open.spotify.com/album/4Wk4LntMYRIOVEquWr2HrU"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 247798,
       "name": "Extra\u00f1o ser",
       "url": "https://open.spotify.com/track/4mNa3w5AU70QSYzfls5ujK"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Kamishibai: Un Viaje Tejido en el Tiempo",
+        "url": "https://open.spotify.com/album/5rqbwd6aFbeFiOAMbm8jFt"
+      },
+      "artists": [
+        {
+          "name": "KO",
+          "url": "https://open.spotify.com/artist/1hEKn5JEB1BjkjaEqn7ERu"
+        }
+      ],
+      "duration_ms": 211124,
+      "name": "Haikus",
+      "url": "https://open.spotify.com/track/4FRghceXp9rv6OpVak9d7u"
     }
   ],
   "unique_name": "NE\u00d3N",

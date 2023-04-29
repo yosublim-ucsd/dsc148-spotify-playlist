@@ -3268,7 +3268,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 304772,
       "name": "The People",
       "url": "https://open.spotify.com/track/33vOqfo81CoGi3Pq8monZG"
@@ -3290,6 +3290,24 @@
       "duration_ms": 304772,
       "name": "The People",
       "url": "https://open.spotify.com/track/5ivXYN8XooE2s4vDc6Lg4T"
+    },
+    {
+      "album": {
+        "name": "Waking Hours",
+        "url": "https://open.spotify.com/album/4oXy0JQwkai3lGXpqrx3Di"
+      },
+      "artists": [
+        {
+          "name": "Photay",
+          "url": "https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304772,
+      "name": "The People",
+      "url": "https://open.spotify.com/track/7eAltT0d9gH2MIMG71zR7G"
     },
     {
       "album": {

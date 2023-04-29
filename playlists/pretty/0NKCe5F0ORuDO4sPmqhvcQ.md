@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,035 likes - 124 songs - 7 hr 0 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,036 likes - 124 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 86 | [☾ \- Former Hero Remix](https://open.spotify.com/track/03Z1D7NWZvAbgFniQHRHni) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Former Hero](https://open.spotify.com/artist/77WqTzN8g3Wr9PeVFoG3Mm) | [▲ \(10 Year Edition\)](https://open.spotify.com/album/50AlvFldQdwo3unRnI74Wi) | 4:46 |
 | 87 | [tomorrow](https://open.spotify.com/track/3sm8vOwbBtZTUPMmT8k5sL) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [tomorrow](https://open.spotify.com/album/0IWOWjxExvXXQzVkcBnCZt) | 3:05 |
 | 88 | [Rabbit Hole](https://open.spotify.com/track/3KSKQPLU3x5G5vZ9mjesD1) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Rabbit Hole](https://open.spotify.com/album/2ARyPZ8mzwNLznwnBcfcpO) | 2:38 |
-| 89 | [Wide Awake \(feat\. Charlie Houston\)](https://open.spotify.com/track/4lKSHi12cKgQlXwkrPHQ6s) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Wide Awake \(feat\. Charlie Houston\)](https://open.spotify.com/album/4x2RP82FqTREo8eBp0LgI6) | 3:35 |
+| 89 | [Wide Awake](https://open.spotify.com/track/4lKSHi12cKgQlXwkrPHQ6s) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Wide Awake](https://open.spotify.com/album/4x2RP82FqTREo8eBp0LgI6) | 3:35 |
 | 90 | [Heart To The Night](https://open.spotify.com/track/3QWKVDXzHpjAoAWe1kfoxe) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU), [Night Tales](https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 3:41 |
 | 91 | [Really Lovers](https://open.spotify.com/track/3PA6lmrVi2QgS6Udt24Ynr) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Really Lovers](https://open.spotify.com/album/6ZXsnuY4P6ZuIW3W1EBxBN) | 2:51 |
 | 92 | [Sleepless](https://open.spotify.com/track/5Szns47BWnc5R4JlFUp37i) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 4:20 |

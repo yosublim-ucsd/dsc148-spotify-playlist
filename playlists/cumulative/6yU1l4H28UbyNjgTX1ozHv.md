@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-166 songs - 8 hr 50 min
+167 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Call Me \- Acoustic](https://open.spotify.com/track/4ItkAxuNvjuWvN8t93SYNE) | [Thomas Law](https://open.spotify.com/artist/17oLmcamZOvri63kIr56CO) | [Call Me \(Acoustic\)](https://open.spotify.com/album/5zDhAJF7zb9MeY80oWJ1Br) | 2:46 | 2020-07-17 |  |
 | [Call Me Maybe \- Acoustic](https://open.spotify.com/track/4PgcZ3foDPLLruyBjVlfo3) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [Call Me Maybe \(Acoustic\)](https://open.spotify.com/album/1JKTeC7myW3DLEeP9H4WTz) | 2:45 | 2020-08-28 | 2023-01-28 |
 | [Came Here for Love \- Acoustic](https://open.spotify.com/track/6gBwaCbb1lKHvlN9mVOVAg) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Came Here for Love \(Acoustic\)](https://open.spotify.com/album/2YwHJ9OLSiwzwo6n4VLEvk) | 3:36 | 2019-10-13 |  |
-| [Careless Whisper \- Acoustic](https://open.spotify.com/track/1fayDuDzU1IofI6xXRk7iw) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Acoustic Covers, Vol\. 1](https://open.spotify.com/album/6i5oEdP4p8HkQuyMdpUvZO) | 2:48 | 2023-02-24 |  |
+| [Careless Whisper \- Acoustic](https://open.spotify.com/track/1fayDuDzU1IofI6xXRk7iw) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Acoustic Covers, Vol\. 1](https://open.spotify.com/album/6i5oEdP4p8HkQuyMdpUvZO) | 2:48 | 2023-02-24 | 2023-04-29 |
 | [Careless Whisper \- Acoustic](https://open.spotify.com/track/56cdkBJabIgi2gynwG8XHL) | [Plamina](https://open.spotify.com/artist/7x6A8huMVnPZ5wAzlw6HSp) | [Careless Whisper \(Acoustic\)](https://open.spotify.com/album/3kXTkygRasSbX7ckz534Ei) | 3:24 | 2022-06-12 |  |
 | [Caribbean Queen \(No More Love On the Run\) \- Acoustic](https://open.spotify.com/track/7oV56aXB66nKU3AhLymIaK) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Caribbean Queen \(No More Love On the Run\) \[Acoustic\]](https://open.spotify.com/album/4B1Wsc2Fyt6li4X0dOR6RQ) | 2:36 | 2022-07-15 | 2022-10-15 |
 | [Champagne Supernova \- Acoustic](https://open.spotify.com/track/4u4a98HYVpQjhF66sRNMZK) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Covers Vol\. 1 \(Acoustic\)](https://open.spotify.com/album/2iKra1NUEayECHIBkJ2sz1) | 2:43 | 2019-10-13 |  |
@@ -70,6 +70,7 @@
 | [Human \- Acoustic](https://open.spotify.com/track/70fdF045x3n1ahv7MG6Z4H) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Remixes\)](https://open.spotify.com/album/4RtiPIrZPPG8iPZC9xQnP3) | 3:49 | 2019-10-13 |  |
 | [I Can See Clearly Now \- Acoustic](https://open.spotify.com/track/4pZWwqmvQwYY1VhGE9sQD9) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw), [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [I Can See Clearly Now \(Acoustic\)](https://open.spotify.com/album/0zjfhd9DvlA6v3owHzL54D) | 2:42 | 2022-03-04 | 2023-01-14 |
 | [I Can See Clearly Now \- Acoustic](https://open.spotify.com/track/2txpvBA1zpZAfWS5AUZYLR) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe), [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [I Can See Clearly Now \(Acoustic\)](https://open.spotify.com/album/5FE5FwlNEBA9pTjWbezsJO) | 2:26 | 2022-10-14 |  |
+| [I Can't Make You Love Me \- Acoustic](https://open.spotify.com/track/2WuNAjCLYRomvd5eo6vTTl) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [I Can't Make You Love Me \(Acoustic\)](https://open.spotify.com/album/7vPiUhm51cAId7hkU7Xtb4) | 3:12 | 2023-04-28 |  |
 | [I Forgot That You Existed \- Acoustic](https://open.spotify.com/track/2YlBd0cQ9kRGRf46JfUj3c) | [Tiffany Alvord](https://open.spotify.com/artist/2wNlZ2Vp23Sbv1DHgizbCb) | [I Forgot That You Existed \(Acoustic\)](https://open.spotify.com/album/4p4LEqksvppC7zZcsxE276) | 2:51 | 2023-02-26 |  |
 | [I Get The Sweetest Feeling \- Acoustic](https://open.spotify.com/track/6MYxowxw5LT2LzE5pwCdHt) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [I Get The Sweetest Feeling \(Acoustic\)](https://open.spotify.com/album/4w1g8oUimwJzYhmCK4O67j) | 3:35 | 2019-10-13 | 2022-06-18 |
 | [I Knew You Were Waiting \(For Me\) \- Acoustic](https://open.spotify.com/track/5o15hfwF7dpgzKSjtmIlnF) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso), [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [I Knew You Were Waiting \(For Me\) \[Acoustic\]](https://open.spotify.com/album/3dpXGbIHbU9UWPagO5zXQn) | 3:17 | 2021-08-20 |  |

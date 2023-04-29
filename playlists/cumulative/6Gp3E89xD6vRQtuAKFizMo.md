@@ -4,12 +4,13 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-165 songs - 8 hr 13 min
+168 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 \(feat\. CP\)](https://open.spotify.com/track/3CejJ593Dg54c4m8NlSpto) | [Très Mortimer](https://open.spotify.com/artist/3zGzbXr9Q8zS9xictKAnt7), [CP](https://open.spotify.com/artist/4yyJIkmo80mhEQXr8DF2ub) | [1000 \(feat\. CP\)](https://open.spotify.com/album/6svs8n6epi8U1u6xhENItF) | 2:50 | 2022-05-06 | 2022-10-08 |
 | [Action](https://open.spotify.com/track/60fyTAA4YUDrlvXKTbd9WK) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [Action](https://open.spotify.com/album/0gAtf1frqEswUJlQFZOKQm) | 2:58 | 2022-11-11 | 2023-02-18 |
+| [All I Wanted \(feat\. MelonRose\)](https://open.spotify.com/track/11dxsj1dc2NRRDN3gNqu4l) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC), [MelonRose](https://open.spotify.com/artist/65LJ7hn9wYfgtLGdFzW00J) | [All I Wanted \(feat\. MelonRose\)](https://open.spotify.com/album/14ZIyqeMexADGW43gZbuxi) | 4:56 | 2023-04-28 |  |
 | [All The Time](https://open.spotify.com/track/0cWqIiQczIXVORSfVxbg1X) | [aboywithabag](https://open.spotify.com/artist/6PqSrv8S89SEEpHAAqpUtY) | [All The Time](https://open.spotify.com/album/04Er7EWQFPjGPTthhPLh7n) | 2:59 | 2022-11-11 | 2023-04-09 |
 | [Anarchy](https://open.spotify.com/track/7EQr5uQA2EafjldVAV2vkx) | [MT11](https://open.spotify.com/artist/1dupVc2k1FzwKcGNPX08ks) | [Anarchy](https://open.spotify.com/album/5jTGJaYpZ8ifetpJAjRQmK) | 3:17 | 2023-03-17 |  |
 | [Android](https://open.spotify.com/track/7MPdKQ3oeTZ8K9aOS8yymf) | [RANKZ](https://open.spotify.com/artist/6DjZSHY1ANtCvlwvy0A469) | [Android](https://open.spotify.com/album/4LWlEIlGzCjoru2PaLC8PO) | 4:01 | 2022-11-22 | 2023-02-04 |
@@ -80,6 +81,7 @@
 | [Kanos](https://open.spotify.com/track/7DjifpgNrYVPKFcrb6vzqr) | [Heimanu](https://open.spotify.com/artist/01mvWXVNW6Gz5Oxf6bQrtM) | [Kanos](https://open.spotify.com/album/4ziuSY0MpYg3UwNoGqv5uf) | 3:36 | 2022-05-06 | 2023-04-09 |
 | [King Kong](https://open.spotify.com/track/42uX9KNWASwZxnmtn1YKBn) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [King Kong](https://open.spotify.com/album/4U7lCbHpPpgHuXbAkvQeBB) | 2:08 | 2023-01-13 | 2023-03-25 |
 | [KPASA \(feat\. Drty Tropix\)](https://open.spotify.com/track/2WnlyIzUY8S4pCZivwbaem) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [Drty Tropix](https://open.spotify.com/artist/6rskWKdI8VMxqWfBxU0my2) | [KPASA \(feat\. Drty Tropix\)](https://open.spotify.com/album/1f3pPYCKSM5OfKtZ08t2sE) | 2:41 | 2023-01-20 | 2023-04-09 |
+| [Lavender \(feat\. Jolina Elísh\)](https://open.spotify.com/track/6DQUJXeQbpzVcB2sT0rrlA) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [Jolina Elísh](https://open.spotify.com/artist/36XHszB4UC3UDGGcamfclK) | [Lavender Dreams & Scarlet Nightmares](https://open.spotify.com/album/0GasuMeALUBC4Kk55XjgLP) | 3:15 | 2023-04-28 |  |
 | [Lights Out](https://open.spotify.com/track/0piqEtzcndLn6q4FTZMYGB) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [Psycho Boys Club](https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu) | [Lights Out](https://open.spotify.com/album/699pfQZ7g6XRHPeTC6Oxf0) | 3:18 | 2022-05-06 | 2022-09-07 |
 | [Like I Used To](https://open.spotify.com/track/6zBmmiGwTPmiYS6Xz3rAm3) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Like I Used To](https://open.spotify.com/album/7EXcj1UAHyOotIw8GSziCp) | 2:27 | 2022-07-27 | 2022-10-22 |
 | [Like It How It Is](https://open.spotify.com/track/2RisShAmmnAgsYcI659wgv) | [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Like It How It Is](https://open.spotify.com/album/0e5igAhmesSJMLTWr7nV1D) | 3:36 | 2022-05-06 | 2022-07-07 |
@@ -112,6 +114,7 @@
 | [No Turning Back \(feat\. Namelle\)](https://open.spotify.com/track/2pPPnvl7lARUARQZZU2e8c) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [Namelle](https://open.spotify.com/artist/3ptQC4nwq1SuOFiSOSBLj3) | [No Turning Back \(feat\. Namelle\)](https://open.spotify.com/album/7jji2t4yyGdhWW4e1LKj47) | 2:55 | 2023-03-24 |  |
 | [Ocean](https://open.spotify.com/track/483ZlZtG4y2pyysb7FMYzZ) | [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [Ocean](https://open.spotify.com/album/5T5amvYXnuiNKG47VLuMtP) | 2:55 | 2023-04-21 |  |
 | [Older ft Jimmie Allen & Dixie D'Amelio](https://open.spotify.com/track/4ofGcbHRWhIsrYJswteQkU) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [Older ft Jimmie Allen & Dixie D'Amelio](https://open.spotify.com/album/0ulArbgB8WgKtxbuBtKDYO) | 2:59 | 2023-04-07 |  |
+| [On & On](https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW) | [On & On](https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf) | 2:20 | 2023-04-28 |  |
 | [On 2 Me](https://open.spotify.com/track/1R0TnAJuVKxFhxug65zOQL) | [High Zombie](https://open.spotify.com/artist/3BJQYwsCdSNt0eD4XUu5DE) | [On 2 Me](https://open.spotify.com/album/3j4mZqCGBv6dxpIoalM4gP) | 2:30 | 2022-05-06 | 2022-10-08 |
 | [One More Time](https://open.spotify.com/track/16qzW0XywVLTpAhCwPH8y6) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo), [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa) | [One More Time](https://open.spotify.com/album/32INDtZDynyEP0PqpLiOog) | 2:40 | 2022-05-06 | 2023-01-21 |
 | [OPEN YOUR EYES](https://open.spotify.com/track/6NU79Y1bRxbHwqSYdWUL2h) | [THIEVES](https://open.spotify.com/artist/0l6M2vf0lC8N42B4spXUSn), [BADVOID](https://open.spotify.com/artist/1xLTclBBWlypMWDMV8Eb6O) | [OPEN YOUR EYES](https://open.spotify.com/album/6ZHkAA8tCE9803lwFAgwKU) | 3:12 | 2023-01-04 | 2023-04-09 |

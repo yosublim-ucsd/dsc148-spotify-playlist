@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,391 likes - 177 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,423 likes - 177 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -182,8 +182,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 172 | [Hey Stranger \(feat\. MAAD, JAEL & Jengi\)](https://open.spotify.com/track/1a6Khakt7DtZXzxePM5vwx) | [Midas Hutch](https://open.spotify.com/artist/3sN7A6NULbpDrV5bAD9B6g), [MAAD](https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO), [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Hey Stranger \(feat\. MAAD, JAEL & Jengi\)](https://open.spotify.com/album/5YRCULdZwINYqFIAnowGbK) | 3:21 |
 | 173 | [Love Like This Before \- Spotify Studio Oyster Recording](https://open.spotify.com/track/2VoGLmJuYzBbAje7HrNSi6) | [Lil Halima](https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr), [NAHOM](https://open.spotify.com/artist/1gsryyNLnqqOLl8MRe4eog) | [Love Like This Before \- Spotify Studio Oyster Recording](https://open.spotify.com/album/18kvCLlsFrla2rDjzhpuEH) | 2:57 |
 | 174 | [Show You the World](https://open.spotify.com/track/5ier31vbYr7fGn5hK7Y8pR) | [Packed Rich](https://open.spotify.com/artist/3VP45ZJW1y1Mz7LEMkxj94), [Jessica Pham](https://open.spotify.com/artist/5cFluXh5aSPpf6ne9VAyIz) | [Show You The World](https://open.spotify.com/album/2R19WR5owthJuZvKKx3P0K) | 3:36 |
-| 175 | [Shots](https://open.spotify.com/track/6bBjArs6x5oGYDPtF797DJ) | [The Goods](https://open.spotify.com/artist/4s1VGnynyXN1cZ4oKsyxEx), [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Disco J](https://open.spotify.com/artist/5qX7mVsJNqHMppmcq9s7at) | [II](https://open.spotify.com/album/0oWbmnZr6PPQq582jT4bEV) | 4:31 |
+| 175 | [Shots](https://open.spotify.com/track/00pRQgbk4YSdyd4Do2RBDZ) | [The Goods](https://open.spotify.com/artist/4s1VGnynyXN1cZ4oKsyxEx), [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Disco J](https://open.spotify.com/artist/5qX7mVsJNqHMppmcq9s7at) | [II](https://open.spotify.com/album/38qnXFBW26kjxrzLY3fRc5) | 4:31 |
 | 176 | [Stranger](https://open.spotify.com/track/5FoT7QLoywPzLv4ZGyHpOC) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Stranger](https://open.spotify.com/album/5wrVHUkEIpUhAuls9A6KR1) | 3:15 |
 | 177 | [Warrior](https://open.spotify.com/track/5CBCtk5EZfdz7X1Eb6xK1u) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Renaissance](https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB) | 2:47 |
 
-Snapshot ID: `MCw3Y2ZlNDJjNDc4ZmViZWVlNGEwZTNlMzVjZjJhMTEzMjY4YzQyZTA5`
+Snapshot ID: `MCw5MmQ3YWMyOWYyZGY0N2EwODE4YzVkMjEwOWFhOTNkODUyMmNmYTI5`

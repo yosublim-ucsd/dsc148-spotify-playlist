@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,738 likes - 70 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,870 likes - 70 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 69 | [Born Slippy \(Nuxx\)](https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq) | 7:36 |
 | 70 | [What This](https://open.spotify.com/track/7s6IGlhtEvsSNnhzuln3C8) | [Max Koval](https://open.spotify.com/artist/0NByPzOcGHKJ2XgUztC6CR) | [A Little Bit Of Jazz](https://open.spotify.com/album/7Fz1MqDsGxpsoNpSR8SPtV) | 7:42 |
 
-Snapshot ID: `MCw5NGFmNDE3YWFmNzA0NDFhMmEwZDFjODYwOTlmNDQ1MGZjOGQ4NjQw`
+Snapshot ID: `MCxjZmNlYTg1YTQ2NGM5ZTA3ZWJhMGFkZDAwYjMwNGJmZmU4ZTJkY2Rm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCx6B9EAOr.md) - [plain]
 
 > What kind of music would you listen to if you went for a drive with BamBam? Enjoy your drive time with music selected by fans! \(뱀뱀과 함께 드라이브를 한다면 무슨 음악을 들으실거에요? 팬들이 직접 선정한 음악과 함께 드라이브 시간을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,577 likes - 35 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,673 likes - 35 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCx6B9EAOr.md) - [plain]
 | 34 | [Ride or die](https://open.spotify.com/track/75a5gHyFZN12qpgkxHHqEN) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [B](https://open.spotify.com/album/1J1S8EQgILHHmy64ouQXh7) | 2:27 |
 | 35 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 |
 
-Snapshot ID: `MCw0ZWJjMjI4MjEzYzQ1YWMxZTU5OTFlOTViMDU4NWNmMzYzNjE0MzRl`
+Snapshot ID: `MCw4ODNjNWQyOGRjMGJkMWMxNjUxNjFhYzkyMDY3OGQ5ZWNhYjVkYmU5`

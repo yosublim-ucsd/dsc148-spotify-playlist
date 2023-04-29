@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-142 songs - 9 hr 57 min
+144 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Nothing Without You](https://open.spotify.com/track/6P9qzDTlTNgtbfMLBc1ZVi) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [The Last Days of Oakland](https://open.spotify.com/album/5XgUtV3205kTcgoSLNf8ix) | 4:15 | 2020-11-05 |  |
 | [Nothing Without You](https://open.spotify.com/track/74k004vkHYlQ8r3fqIZ73C) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [The Last Days of Oakland](https://open.spotify.com/album/0CNXnv7UOxzVEVvAmgwMGG) | 4:15 | 2020-11-05 | 2022-07-29 |
 | [Now You Want Me Back](https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt) | [Ina Forsman](https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b) | [Ina Forsman](https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y) | 4:09 | 2020-11-05 |  |
-| [Old Flame](https://open.spotify.com/track/4A3OM57jy51hcJfPv06za1) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chances](https://open.spotify.com/album/1FlYFqevPq4JBfDJ2sA5nu) | 2:41 | 2020-11-05 |  |
+| [Old Flame](https://open.spotify.com/track/4A3OM57jy51hcJfPv06za1) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chances](https://open.spotify.com/album/1FlYFqevPq4JBfDJ2sA5nu) | 2:41 | 2020-11-05 | 2023-04-29 |
+| [Old Flame](https://open.spotify.com/track/5KJ1xOE9SaFsYFJKqxf5RX) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chances](https://open.spotify.com/album/0HQalCiuviEhDvPhcBODoS) | 2:41 | 2020-11-05 |  |
 | [Old Flame](https://open.spotify.com/track/5YB1o0wYhyKRb760RFmvXa) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Mischievous Moon](https://open.spotify.com/album/3Rodq8gUXYYXtrfNdjWzmI) | 2:42 | 2020-11-05 | 2022-07-29 |
 | [Only Fool Was Me](https://open.spotify.com/track/1NlbqPDrtGqtNeDymqVdME) | [Jj Thames](https://open.spotify.com/artist/3s40l5PuYSiN6ZxVatol8p) | [Raw Sugar](https://open.spotify.com/album/28CI62akHTySi71hTfUTye) | 4:28 | 2020-11-05 |  |
 | [Only Fool Was Me](https://open.spotify.com/track/2fUoJejy209Fw7CJXAkacA) | [Jj Thames](https://open.spotify.com/artist/3s40l5PuYSiN6ZxVatol8p) | [Raw Sugar](https://open.spotify.com/album/5yVHESZZNt3DcYtG1Obsfd) | 4:28 | 2020-11-05 | 2022-07-29 |
@@ -130,8 +131,9 @@
 | [They Never Pay Me](https://open.spotify.com/track/6FblM1pI9C3mZng2qPzXBj) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Sunset Avenue](https://open.spotify.com/album/0DPnQNdHFY8kxsXwhCyaDk) | 3:33 | 2020-11-05 | 2022-07-29 |
 | [Time To Leave](https://open.spotify.com/track/5TUCm5o4qf5y47EnyHStZy) | [Rich Robinson](https://open.spotify.com/artist/7lEokLkF9CWjEBogNWcV69) | [Flux](https://open.spotify.com/album/0aCwNu0L6QMcSexzdUjcGD) | 4:58 | 2020-11-05 | 2022-09-03 |
 | [Tricky Thing](https://open.spotify.com/track/7bpJJDFOR7CQMA2Ssm1yka) | [Jessy Martens and Band](https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt) | [Tricky Thing](https://open.spotify.com/album/4aPtimYS5kIEl8d03ToDUz) | 4:31 | 2020-11-05 |  |
+| [Try Me](https://open.spotify.com/track/1OqIafVbegBpzFIONJsSX2) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Allow Me to Confess](https://open.spotify.com/album/34puSs63TscNNMGLCjF7qY) | 3:14 | 2020-11-05 |  |
 | [Try Me](https://open.spotify.com/track/5vjbpawQ7l5Qdgwh1WafWe) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Allow Me to Confess](https://open.spotify.com/album/2c2cFKHtezKf5Fna1rZO4T) | 3:14 | 2020-11-05 | 2022-07-29 |
-| [Try Me](https://open.spotify.com/track/7fdF1y8Sm2dWryO5kRDlGL) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Allow Me to Confess](https://open.spotify.com/album/4vcPUYfpoYWXqbucRoATgK) | 3:14 | 2020-11-05 |  |
+| [Try Me](https://open.spotify.com/track/7fdF1y8Sm2dWryO5kRDlGL) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Allow Me to Confess](https://open.spotify.com/album/4vcPUYfpoYWXqbucRoATgK) | 3:14 | 2020-11-05 | 2023-04-29 |
 | [Walking Wounded](https://open.spotify.com/track/0oda94HwAfT8uLO7jC3ykV) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3), [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7), [Livingstone Brown](https://open.spotify.com/artist/31sc2XGm5zXKCGybwD0azD) | [United State of Mind](https://open.spotify.com/album/0M6vvqZo0MkpukkCikKpad) | 4:14 | 2020-11-05 | 2022-07-29 |
 | [Walking Wounded](https://open.spotify.com/track/6HKUwJ4coXppVQ6SXjjmZi) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3), [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7), [Livingstone Brown](https://open.spotify.com/artist/31sc2XGm5zXKCGybwD0azD) | [United State of Mind](https://open.spotify.com/album/2FPldCz6JwLElIjJZ9B9s9) | 4:14 | 2020-11-05 |  |
 | [We're Gonna Make It](https://open.spotify.com/track/0T648GgCmHNdLhk7LxQdmM) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Keep On](https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ) | 3:23 | 2020-11-05 |  |

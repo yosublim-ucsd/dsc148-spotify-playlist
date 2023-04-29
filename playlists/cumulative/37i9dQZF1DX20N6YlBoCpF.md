@@ -4,7 +4,7 @@
 
 > Net die nuutste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu?si=08iIfRLmQOut8RcVcUBeHw">Prop</a>
 
-317 songs - 17 hr 57 min
+318 songs - 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [As die wêreld groter was](https://open.spotify.com/track/2x9ABv2DMU56b6vJUzjcst) | [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN), [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [As die wêreld groter was](https://open.spotify.com/album/4V1D4BeFVFgkkaOXVeOy5j) | 2:59 | 2023-04-13 |  |
 | [As Ek Jou Hoor Lag](https://open.spotify.com/track/1W5M5PXjBeLKgac4uMrbHO) | [Jan Bloukaas](https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic) | [As Ek Jou Hoor Lag](https://open.spotify.com/album/3GW8Df9g7461vot9mVJN29) | 2:46 | 2022-11-24 | 2023-02-17 |
 | [ATKV](https://open.spotify.com/track/5pctBxFOGMxzrR7BfVWMoL) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Hittegolf](https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH) | 3:04 | 2022-11-04 | 2023-04-14 |
-| [Avontuur](https://open.spotify.com/track/4i8Ceyv4dclgqcdPExRQ4g) | [Wesna](https://open.spotify.com/artist/5A4OIWNp0FyYdgvxXnMWWl) | [Avontuur](https://open.spotify.com/album/7kdQpbelUuKoJDixXMEziu) | 3:44 | 2023-04-13 |  |
+| [Avontuur](https://open.spotify.com/track/4i8Ceyv4dclgqcdPExRQ4g) | [Wesna](https://open.spotify.com/artist/5A4OIWNp0FyYdgvxXnMWWl) | [Avontuur](https://open.spotify.com/album/7kdQpbelUuKoJDixXMEziu) | 3:44 | 2023-04-13 | 2023-04-29 |
 | [Babbelas ² Kwadraat](https://open.spotify.com/track/1AOMZtWjYu7CMm0lmJuV40) | [Kevboii](https://open.spotify.com/artist/4Mp36UE9keQ7vXLcVLWzmN) | [Babbelas ² Kwadraat](https://open.spotify.com/album/6WNShAod3Jay2eNq8PIzJr) | 2:29 | 2023-03-02 | 2023-04-14 |
 | [Bakkie Balle](https://open.spotify.com/track/7bFQlTIM5Tr0PISjYDe2Zy) | [Robbie Wessels](https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO) | [Bakkie Balle](https://open.spotify.com/album/1KN77LThfGJkx5K8pIicOM) | 3:02 | 2023-04-06 |  |
 | [Baljaar](https://open.spotify.com/track/09UStOTTT5ZYKoUuROS6Sa) | [Augusta Zietsman](https://open.spotify.com/artist/3jZWDJXxKcoeidgkf8N6mO) | [Baljaar](https://open.spotify.com/album/32ELnH0XXiDCWFTy4znOfp) | 2:51 | 2022-11-10 | 2022-11-25 |
@@ -305,6 +305,7 @@
 | [Voel Jy My](https://open.spotify.com/track/5hh0AnEUkgTxDt3T2kjySl) | [Coenie Naude](https://open.spotify.com/artist/6XNhIqAENeuAS9mfdNA1eF) | [Voel Jy My](https://open.spotify.com/album/1Zc7U6baYLrCXX2WUrRC02) | 3:43 | 2022-10-20 | 2022-11-18 |
 | [Vonkel](https://open.spotify.com/track/32APAtwKXpC4Nmbw8I2uH2) | [Mymymy](https://open.spotify.com/artist/0CxAWHVlogP8cmw9Earfwf) | [Vonkel](https://open.spotify.com/album/0to1EOGNGl5DDev4nldVPX) | 4:06 | 2022-12-08 | 2023-02-10 |
 | [Vuil Vanderbijl](https://open.spotify.com/track/0SVGv0TIvzAvzzsjCFpFqO) | [Refentse](https://open.spotify.com/artist/5yACoSSz99q9C7n8bKNFxl) | [Deur My Venster](https://open.spotify.com/album/3IlnauxI71E3XNBvc52Yi9) | 2:55 | 2022-12-27 | 2023-01-02 |
+| [Vuur](https://open.spotify.com/track/54w0BzJuC5qg4TdysVPS96) | [KrisJan](https://open.spotify.com/artist/1w2S4eToz18BlT0Cei19S0) | [Vuur](https://open.spotify.com/album/2Ec7VBuRjn5bfw6Qf3yBEk) | 3:57 | 2023-04-28 |  |
 | [Vuur En Vlam](https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla) | [VAN WEST](https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq) | [Vuur En Vlam](https://open.spotify.com/album/2CDlluXHThuUPyHFOP7PZK) | 2:45 | 2022-12-01 | 2023-04-14 |
 | [Vuur Op Die Water](https://open.spotify.com/track/2bW96CDjgaLh6E3HM1Fv8r) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Boomhuis](https://open.spotify.com/album/00TEG3fQnMHMLQbRaMCgx4) | 3:36 | 2022-12-27 | 2023-01-02 |
 | [Vyeboompiekniek \(13 Jaar\)](https://open.spotify.com/track/3VjMomtTP99WZjxl8kGyap) | [Leon\-Ben Lamprecht](https://open.spotify.com/artist/0XzcW2XE8WsTd4owKQnVuB) | [Vyeboompiekniek \(13 Jaar\)](https://open.spotify.com/album/3dWt4RQ3fYoeI16mcA2lMD) | 3:43 | 2023-03-23 | 2023-04-07 |

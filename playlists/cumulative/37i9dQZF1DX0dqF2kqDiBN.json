@@ -446,10 +446,28 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 211205,
       "name": "It's So Good To Be Alive",
       "url": "https://open.spotify.com/track/1OwdaBgJ4QMW4WPTZo5ckm"
+    },
+    {
+      "album": {
+        "name": "Change of Pace",
+        "url": "https://open.spotify.com/album/1fVSB9gzCajwYwrcSYJLNB"
+      },
+      "artists": [
+        {
+          "name": "Greyhounds",
+          "url": "https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211205,
+      "name": "It's So Good To Be Alive",
+      "url": "https://open.spotify.com/track/7knK4sydRevYAisURttl4q"
     },
     {
       "album": {

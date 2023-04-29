@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7o2Y6TQr9B0ynZGhUDAkyj">Lotic</a>'s favorite tracks\. Updated regularly\. Curated by Lotic\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-131 songs - 7 hr 4 min
+132 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [No Debate](https://open.spotify.com/track/3xtG9ZIlwhW9nRuq39z0Iw) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nightmare Vacation](https://open.spotify.com/album/0jJEiaA2W9eFhTXC1EGMqG) | 2:13 | 2021-11-16 |  |
 | [No More Same](https://open.spotify.com/track/15bFgYJf6wpM9mnTKgeGpn) | [Kingdom](https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj), [Luck](https://open.spotify.com/artist/7DYPs6H8VJGxvuGu0FaV3M) | [No More Same](https://open.spotify.com/album/1wmCJsqA2jpUpqC8nZKGXn) | 2:58 | 2021-11-16 | 2022-04-23 |
 | [No Time](https://open.spotify.com/track/0ARsxLOLSa3w23E9gopGSk) | [Imaabs](https://open.spotify.com/artist/72XTGSo6ca4qEKtXDclrg4), [Tama Gucci](https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5) | [Descifrar](https://open.spotify.com/album/4LvuQHI4B7EfqmQEk0fBMI) | 3:18 | 2021-11-16 | 2022-03-23 |
-| [Oblivious](https://open.spotify.com/track/1JyokA2F8V2Q3RHshyJB75) | [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Water](https://open.spotify.com/album/7neio4srvDRACrUSTdpMMf) | 6:40 | 2022-01-21 |  |
+| [Oblivious](https://open.spotify.com/track/10mGDiPiiTx0hk3SoM3Eb0) | [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Water](https://open.spotify.com/album/2D5DPrv69Besl8VmuQENg9) | 6:40 | 2022-06-09 |  |
+| [Oblivious](https://open.spotify.com/track/1JyokA2F8V2Q3RHshyJB75) | [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Water](https://open.spotify.com/album/7neio4srvDRACrUSTdpMMf) | 6:40 | 2022-01-21 | 2023-04-29 |
 | [Oração \- Pense & Dance](https://open.spotify.com/track/5PRyGNj1hZEanG7KsaehdF) | [Lechuga Zafiro](https://open.spotify.com/artist/59CKhQjneZAPQKYcylrsVd), [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Oração \(Pense & Dance\)](https://open.spotify.com/album/0IQcYNXQhSoJdpml6mUQY2) | 3:41 | 2021-11-16 |  |
 | [Ovulate](https://open.spotify.com/track/1uQpno2vQshMH4gjMKE539) | [BbyMutha](https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e) | [The Bastard Tapes, Vol\. 3](https://open.spotify.com/album/0MLw49zSV4Y5ZrlJURaHAt) | 2:46 | 2021-11-16 |  |
 | [Para](https://open.spotify.com/track/3kEcokUxa1y9SNOCKROuar) | [Helm](https://open.spotify.com/artist/4vgGgW0EX7CeEU7WZzhbsx) | [Axis](https://open.spotify.com/album/6Cj93dwyOUJI6M9clLmQHF) | 5:41 | 2022-06-09 |  |

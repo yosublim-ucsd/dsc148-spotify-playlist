@@ -288,7 +288,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 138925,
       "name": "Ambient Streams",
       "url": "https://open.spotify.com/track/0wrvlGSGG5AQ9WpsOhc68l"
@@ -2842,6 +2842,24 @@
       "duration_ms": 203843,
       "name": "On a Rainy Day",
       "url": "https://open.spotify.com/track/6ciunhFDzph45q344AXtyg"
+    },
+    {
+      "album": {
+        "name": "On The Hills Of Hope",
+        "url": "https://open.spotify.com/album/21UvUlROgQA3RMMabyFbvF"
+      },
+      "artists": [
+        {
+          "name": "Yakamora",
+          "url": "https://open.spotify.com/artist/5aAi2J1r2GmSXMeiG20jJp"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187187,
+      "name": "On The Hills Of Hope",
+      "url": "https://open.spotify.com/track/7ffB13bUlV3er2DZcBrwoG"
     },
     {
       "album": {

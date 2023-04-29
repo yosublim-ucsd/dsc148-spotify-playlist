@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 123333,
       "name": "i wna be like you",
       "url": "https://open.spotify.com/track/4cLhQxR5p74hslc5ao4B15"
@@ -1616,6 +1616,24 @@
       "duration_ms": 178723,
       "name": "narcissism (outofyrmind)",
       "url": "https://open.spotify.com/track/2W6buc64CxZZ4LC38sMJ98"
+    },
+    {
+      "album": {
+        "name": "nerve gas",
+        "url": "https://open.spotify.com/album/2xETxfVzBG4ss5f7c2ByHE"
+      },
+      "artists": [
+        {
+          "name": "Belak",
+          "url": "https://open.spotify.com/artist/2y83yKCgoia21m1ot4WxPL"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165714,
+      "name": "nerve gas",
+      "url": "https://open.spotify.com/track/5lZL7EafDdjRsPNLTRLqwU"
     },
     {
       "album": {
@@ -2116,6 +2134,24 @@
       "duration_ms": 132630,
       "name": "Romantic Homicide",
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
+    },
+    {
+      "album": {
+        "name": "run",
+        "url": "https://open.spotify.com/album/2jcKI96BUu7wwH5N2vqM1K"
+      },
+      "artists": [
+        {
+          "name": "kurffew",
+          "url": "https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135835,
+      "name": "run",
+      "url": "https://open.spotify.com/track/4K8xpTfr5k0dwaModQtgH8"
     },
     {
       "album": {

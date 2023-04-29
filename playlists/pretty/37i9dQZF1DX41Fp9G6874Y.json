@@ -1,12 +1,12 @@
 {
   "description": "Las m\u00e1s fresas de la era del rocanrol para bailar \"de cachetito\".",
-  "num_followers": 107833,
+  "num_followers": 107868,
   "original_name": "Romance Rocanrol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGViYTNmMmE3ZjgwNGFmM2QyYWM2NTEyNGI3NjAzYmU1YTJiODdi",
+  "snapshot_id": "MCw4ZTM1YzYzYzYyMzA0NmQyZjI3MWY4MWNlNTJkODMwNTFhM2NlOWIz",
   "tracks": [
     {
       "added_at": "2018-12-05 03:36:52",
@@ -415,6 +415,22 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
+        "name": "Historia de un Amor",
+        "url": "https://open.spotify.com/album/3La8k64Jy95Oe0NTfJz6M1"
+      },
+      "artists": [
+        {
+          "name": "Cesar Costa",
+          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
+        }
+      ],
+      "duration_ms": 136385,
+      "name": "Historia de un Amor",
+      "url": "https://open.spotify.com/track/7L6laDgYm7x2JbKdXtHVNw"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
         "name": "La Hiedra Venenosa",
         "url": "https://open.spotify.com/album/6LBidnqJag1vXDiNCMYXIu"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 138631,
       "name": "Dulces Tonterias",
       "url": "https://open.spotify.com/track/0VexJnnOkihunQtGSyPt3Y"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
-        "name": "Historia de un Amor",
-        "url": "https://open.spotify.com/album/3La8k64Jy95Oe0NTfJz6M1"
-      },
-      "artists": [
-        {
-          "name": "Cesar Costa",
-          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
-        }
-      ],
-      "duration_ms": 136385,
-      "name": "Historia de un Amor",
-      "url": "https://open.spotify.com/track/7L6laDgYm7x2JbKdXtHVNw"
     },
     {
       "added_at": "2018-12-05 03:36:52",
@@ -531,6 +531,26 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
+        "name": "Historia Musical de Mis Exitos",
+        "url": "https://open.spotify.com/album/6ojYnTtDA5HT5eBxDuPuaP"
+      },
+      "artists": [
+        {
+          "name": "Johnny Laboriel",
+          "url": "https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs"
+        },
+        {
+          "name": "Johnny Laboriel / Los Rebeldes Del Rock",
+          "url": "https://open.spotify.com/artist/1wzLx9DF6VtTfEo4sTotl9"
+        }
+      ],
+      "duration_ms": 148584,
+      "name": "La Chica del Calendelario",
+      "url": "https://open.spotify.com/track/2cXLVbDnvEETHE0hJJIENa"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
         "name": "RCA 100 A\u00f1os De Musica",
         "url": "https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 145533,
       "name": "La Novia de Mi Mejor Amigo",
       "url": "https://open.spotify.com/track/17Hvwi97oKipA2h6evwzdM"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
-        "name": "Historia Musical de Mis Exitos",
-        "url": "https://open.spotify.com/album/6ojYnTtDA5HT5eBxDuPuaP"
-      },
-      "artists": [
-        {
-          "name": "Johnny Laboriel",
-          "url": "https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs"
-        },
-        {
-          "name": "Johnny Laboriel / Los Rebeldes Del Rock",
-          "url": "https://open.spotify.com/artist/1wzLx9DF6VtTfEo4sTotl9"
-        }
-      ],
-      "duration_ms": 148584,
-      "name": "La Chica del Calendelario",
-      "url": "https://open.spotify.com/track/2cXLVbDnvEETHE0hJJIENa"
     },
     {
       "added_at": "2018-12-05 03:36:52",

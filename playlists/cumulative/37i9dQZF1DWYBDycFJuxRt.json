@@ -4230,32 +4230,6 @@
     {
       "album": {
         "name": "Flash Light",
-        "url": "https://open.spotify.com/album/6D2ywV4KDJnnWv3zMcz35m"
-      },
-      "artists": [
-        {
-          "name": "FANCYLABO",
-          "url": "https://open.spotify.com/artist/34MPZmd0trUjRPtfDVUrwo"
-        },
-        {
-          "name": "Aoi Yagawa",
-          "url": "https://open.spotify.com/artist/7w3N4hKPh9CssP6wIKDaww"
-        },
-        {
-          "name": "Miori Ichikawa",
-          "url": "https://open.spotify.com/artist/47FeV9K8iEFuZTUwneophb"
-        }
-      ],
-      "date_added": "2023-04-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 191017,
-      "name": "Flash Light",
-      "url": "https://open.spotify.com/track/1502rJ1m8tYycaTk7UMID3"
-    },
-    {
-      "album": {
-        "name": "Flash Light",
         "url": "https://open.spotify.com/album/7tMWwkwoxv6Iu0oQ8qbRN5"
       },
       "artists": [
@@ -4278,6 +4252,36 @@
       "duration_ms": 191017,
       "name": "Flash Light",
       "url": "https://open.spotify.com/track/4ek5ZvWO0MUWA6lLqjZXpR"
+    },
+    {
+      "album": {
+        "name": "Flash Light",
+        "url": "https://open.spotify.com/album/6D2ywV4KDJnnWv3zMcz35m"
+      },
+      "artists": [
+        {
+          "name": "FANCYLABO",
+          "url": "https://open.spotify.com/artist/34MPZmd0trUjRPtfDVUrwo"
+        },
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "Aoi Yagawa",
+          "url": "https://open.spotify.com/artist/7w3N4hKPh9CssP6wIKDaww"
+        },
+        {
+          "name": "Miori Ichikawa",
+          "url": "https://open.spotify.com/artist/47FeV9K8iEFuZTUwneophb"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191017,
+      "name": "Flash Light",
+      "url": "https://open.spotify.com/track/1502rJ1m8tYycaTk7UMID3"
     },
     {
       "album": {
@@ -12068,8 +12072,8 @@
           "url": "https://open.spotify.com/artist/4eRPT3dCcYsuZ2dFqqcaYx"
         },
         {
-          "name": "ZAINICHI FUNK",
-          "url": "https://open.spotify.com/artist/7BRVxPmJQskxNWHYYaMeBk"
+          "name": "Zainichi Funk",
+          "url": "https://open.spotify.com/artist/37hqgMV84m06updLlBFhIa"
         }
       ],
       "date_added": "2023-04-26",

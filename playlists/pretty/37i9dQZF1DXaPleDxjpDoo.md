@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 
 > Bathe in Ambient and nature sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,157 likes - 97 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,320 likes - 97 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 | 29 | [Ambi Sant](https://open.spotify.com/track/6V8Nug0E9yzNkPVqwNhdXQ) | [Priy](https://open.spotify.com/artist/0EXInuJq3g2Gz8pvxZCxer) | [Ambi Sant](https://open.spotify.com/album/4qHJC9flkExlbRs27mOEwy) | 3:37 |
 | 30 | [Call of the Sea](https://open.spotify.com/track/4aB1CV3jThJqcdCvoh70ZT) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Call of the Sea](https://open.spotify.com/album/7orgE1tuvFQoWVQpxgh9ep) | 4:51 |
 | 31 | [Angelic Waves](https://open.spotify.com/track/3uj0rDeSdN9xWN3GXQ53DS) | [Aroshanti](https://open.spotify.com/artist/1y6jeiJ1L8vwgt7lHDqRKd) | [Angelic Waves](https://open.spotify.com/album/52fu5J6B5UztithHQhrcXY) | 4:17 |
-| 32 | [Part 5, Dawn Chorus Promenade](https://open.spotify.com/track/018IBzMQ9x0xR6nC3sld9Z) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Anhinga Trail Soundwalk](https://open.spotify.com/album/0DUA9cfK1KPrAesBQzzG7A) | 1:24 |
+| 32 | [Part 5, Dawn Chorus Promenade](https://open.spotify.com/track/6pMNhCZOkxaLscTbJeMxfh) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Anhinga Trail Soundwalk](https://open.spotify.com/album/4SYpCduZHkAf20cRxpE40o) | 1:24 |
 | 33 | [In Early Autumn](https://open.spotify.com/track/5JqHpCJecMueZXSzgCPzQp) | [Sun Echo](https://open.spotify.com/artist/4jhzzWw1hUD1WeZT73WW4D), [Whispering Landscapes](https://open.spotify.com/artist/7myvpdTsqwTbYbdaFcR5r9) | [In Early Autumn](https://open.spotify.com/album/1vvGTNlVzcxZ51VPjr8pIz) | 3:06 |
 | 34 | [Alpha Sound Bath](https://open.spotify.com/track/1o2AMc7LXyell5edk3rpYG) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Chromabaths](https://open.spotify.com/album/3COfB16rn7vwZ49mNj6Puk) | 2:20 |
 | 35 | [Dreamwalking](https://open.spotify.com/track/730N7FLjGbW4R98k2a4tq5) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Dreamwalking](https://open.spotify.com/album/37ZnhjPhruA4YzrNnmLaOy) | 3:53 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 | 96 | [Natuurlijk](https://open.spotify.com/track/2BqSwsKNtp7gTAmH479Jmj) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Natuurlijk](https://open.spotify.com/album/4NUMUE1zC63L8XIndUip2e) | 2:49 |
 | 97 | [Spiritual Being \- Loopable with No Fade](https://open.spotify.com/track/1NLsqHq8E9ATTvTvrGgLOy) | [Sweet Dreamer](https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7) | [Atmospheres For Yoga And Meditation](https://open.spotify.com/album/0UzCrJH14dmIujSR2uynv8) | 2:57 |
 
-Snapshot ID: `MCwwMjdjOTU2MmQ0OGMxZGFkNTNiNGNkNGE2MmEzYzhiZWIwZDNmMzg3`
+Snapshot ID: `MCw3NGQ2YTgxZWExZjhkZmE2MjdhYzNiY2RjM2IwNzU0NTY1ODE3OGVh`

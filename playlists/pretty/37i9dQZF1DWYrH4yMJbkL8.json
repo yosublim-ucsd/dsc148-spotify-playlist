@@ -1,15 +1,31 @@
 {
   "description": "A free space for Indigenous creators. Currently curated by Zoon.",
-  "num_followers": 43391,
+  "num_followers": 43383,
   "original_name": "Indigenous",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTRlNzJlNWE1NjNhNDU1YmE4YzExMTcwZjQxN2ViYjgzOTVhODc1",
+  "snapshot_id": "MCw5NzMwMTljOGNmNTk0NTMxYmY3NTEyMTQ4NjI4MWM2N2VhODE5ODhj",
   "tracks": [
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-28 14:30:31",
+      "album": {
+        "name": "Bekka Ma'iingan",
+        "url": "https://open.spotify.com/album/0JC5axi71h7X6SOciEFuKD"
+      },
+      "artists": [
+        {
+          "name": "Zoon",
+          "url": "https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC"
+        }
+      ],
+      "duration_ms": 318959,
+      "name": "Dodem",
+      "url": "https://open.spotify.com/track/6WVvlRjBgIkpK29xDRm9VG"
+    },
+    {
+      "added_at": "2023-04-28 14:30:31",
       "album": {
         "name": "Come and Get Your Love",
         "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-28 14:30:31",
       "album": {
         "name": "Sweetwater",
         "url": "https://open.spotify.com/album/4Dj6dQExClkwocUsSrAYMg"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/1XLZKmNR5HOB78jvDx0iU1"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-28 14:30:31",
       "album": {
         "name": "January 3rd",
         "url": "https://open.spotify.com/album/156A9DxWOf0I2eR07HhZWt"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/6dPE434t7I5SudDxK9g9U1"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-28 14:30:31",
       "album": {
         "name": "Communion",
         "url": "https://open.spotify.com/album/2hOmwGT0EmeHFHJrGS2ACL"
@@ -73,7 +89,7 @@
       "url": "https://open.spotify.com/track/38CEvCQnSpfQY2YVJIlLQR"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-28 14:30:31",
       "album": {
         "name": "three visits",
         "url": "https://open.spotify.com/album/1oqsZbbsM7bIO5dBs7UCWC"
@@ -89,7 +105,7 @@
       "url": "https://open.spotify.com/track/6ptBpgooy6IkHq4uAJUURR"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-28 14:30:31",
       "album": {
         "name": "A Language Disappears",
         "url": "https://open.spotify.com/album/6RuHa5z7lsZnAFuHrCdweD"
@@ -105,7 +121,7 @@
       "url": "https://open.spotify.com/track/7LrAeGqcAy9o7m5OjQVwU4"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-28 14:30:31",
       "album": {
         "name": "Survival",
         "url": "https://open.spotify.com/album/2YNi2N3nIZ4K3YhvCVvvSd"
@@ -121,7 +137,7 @@
       "url": "https://open.spotify.com/track/3326oudm1Xm57Nv0GtWQfe"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-28 14:30:31",
       "album": {
         "name": "Watin",
         "url": "https://open.spotify.com/album/42rAIuXgRtLB5Qe6Lur5AN"
@@ -137,7 +153,7 @@
       "url": "https://open.spotify.com/track/0pGjVEbs8ZvFXhDmvj1ika"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-28 14:30:31",
       "album": {
         "name": "Sewn Back Together",
         "url": "https://open.spotify.com/album/08YlFLF1PnZw9k7l2nU5Zs"
@@ -161,7 +177,7 @@
       "url": "https://open.spotify.com/track/0IJrtDPknuRyaiEhF6xDlC"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-28 14:30:31",
       "album": {
         "name": "\u00d4skimac\u00eetahowin: A New Beginning",
         "url": "https://open.spotify.com/album/4GfjNENX210Fh5hmsHIRho"
@@ -177,7 +193,7 @@
       "url": "https://open.spotify.com/track/0mZEk4RtIuJOsqduOjNVxZ"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-28 14:30:31",
       "album": {
         "name": "Medicine Singers",
         "url": "https://open.spotify.com/album/5ACa1glpm4tt7Eb97hyYs1"
@@ -197,7 +213,7 @@
       "url": "https://open.spotify.com/track/1eSU2JrcRkFN8ZBmZ9v5mN"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-28 14:30:31",
       "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/5MdHvw9LIwL9LzZwtWdCZU"
@@ -213,7 +229,7 @@
       "url": "https://open.spotify.com/track/4c1tlnvPW4WaXpSeDvAmz8"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-28 14:30:31",
       "album": {
         "name": "Theory of Ice",
         "url": "https://open.spotify.com/album/5MMyebXVwA0Vzyvs1WvVS9"
@@ -229,7 +245,7 @@
       "url": "https://open.spotify.com/track/4GPWj4sEVR4a0s2ssHovd9"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-28 14:30:31",
       "album": {
         "name": "The OG",
         "url": "https://open.spotify.com/album/0Q6dGRBbCePHeU9NTBndAw"
@@ -249,7 +265,7 @@
       "url": "https://open.spotify.com/track/4S9lAUqvr4EWhIYSaVAVKj"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-28 14:30:31",
       "album": {
         "name": "Fool Under Water",
         "url": "https://open.spotify.com/album/3qlV7Y4btMh5tfC1F39f8g"
@@ -265,7 +281,7 @@
       "url": "https://open.spotify.com/track/5SGVUrPePSmXGvGL61UAFM"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-28 14:30:31",
       "album": {
         "name": "Niineta",
         "url": "https://open.spotify.com/album/6Uhsg8iP4B789QSFc6l3b5"
@@ -281,7 +297,7 @@
       "url": "https://open.spotify.com/track/5kdxwpFgeKIhH2hYpmXoAz"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-28 14:30:31",
       "album": {
         "name": "STRIP",
         "url": "https://open.spotify.com/album/1XuLfMPDmIWZpLRJatTc8b"
@@ -297,7 +313,7 @@
       "url": "https://open.spotify.com/track/5c2uK4oBoXYn5LXYMYL0G3"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-28 14:30:31",
       "album": {
         "name": "Illuminations",
         "url": "https://open.spotify.com/album/2tvwygeYPGjkOaIBQCwqHh"
@@ -313,7 +329,7 @@
       "url": "https://open.spotify.com/track/3kJ1OOHzh1GHntXMTcXyEJ"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-28 14:30:31",
       "album": {
         "name": "Gaagige",
         "url": "https://open.spotify.com/album/2SBEYUDTkXgPZT2atzdtoU"
@@ -329,7 +345,7 @@
       "url": "https://open.spotify.com/track/5N63wxCYRKpT72lNmiNQyg"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-28 14:30:31",
       "album": {
         "name": "Multidimensional Culture",
         "url": "https://open.spotify.com/album/7HKq1geZSeixNxtQOc8ZCu"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/74DHE5SiVR0yHD4EcmQdCB"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-28 14:30:31",
       "album": {
         "name": "Beyond the Reservoir",
         "url": "https://open.spotify.com/album/3jA5Mx5hdVzDaY7dJbfC3W"
@@ -361,7 +377,7 @@
       "url": "https://open.spotify.com/track/3fpKyYKSKcieSZwdtvOQUr"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-28 14:30:31",
       "album": {
         "name": "Cris Derksen: Orchestral Powwow",
         "url": "https://open.spotify.com/album/1p4jzGhZk7BF9660debWXC"
@@ -381,7 +397,7 @@
       "url": "https://open.spotify.com/track/74umBFDqQucnMVCO8wUpX9"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-28 14:30:31",
       "album": {
         "name": "Wolastoqiyik Lintuwakonawa",
         "url": "https://open.spotify.com/album/568Hw1PX6K12BdqyFSBj1E"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/3uCKlvzqTRDefFXhmcQKZ3"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-28 14:30:31",
       "album": {
         "name": "Shelter as We Go...",
         "url": "https://open.spotify.com/album/6u9ng5eID9cYKnzqEAevg9"
@@ -413,7 +429,7 @@
       "url": "https://open.spotify.com/track/79Fx3uz2u3Cp8KQZvqtcEz"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-28 14:30:31",
       "album": {
         "name": "Back At Me",
         "url": "https://open.spotify.com/album/3cdsDMTEL9FbA8l6PASlG9"

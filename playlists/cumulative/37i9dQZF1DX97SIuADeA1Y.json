@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 164761,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A"
@@ -2587,6 +2587,28 @@
     },
     {
       "album": {
+        "name": "LaLaLaLaLa (2023 Edit)",
+        "url": "https://open.spotify.com/album/6WFIeGQ7534bMXAGeceWdr"
+      },
+      "artists": [
+        {
+          "name": "Gaullin",
+          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
+        },
+        {
+          "name": "Dwin",
+          "url": "https://open.spotify.com/artist/00OLN5o0Ba1W6KkjRi5jWd"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182360,
+      "name": "LaLaLaLaLa - 2023 Edit",
+      "url": "https://open.spotify.com/track/0sxyqnu0FUVV6mPogaZlTi"
+    },
+    {
+      "album": {
         "name": "Le bateau blanc",
         "url": "https://open.spotify.com/album/2W1Ki2g5pJuSpvn4av9dhu"
       },
@@ -3048,6 +3070,32 @@
       "duration_ms": 151384,
       "name": "Mask Off",
       "url": "https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5"
+    },
+    {
+      "album": {
+        "name": "Meant To Be",
+        "url": "https://open.spotify.com/album/3bgNWflZsicv3vweMrM0GM"
+      },
+      "artists": [
+        {
+          "name": "GRHHH",
+          "url": "https://open.spotify.com/artist/0Nxi8lK4ujPl9gMviGj7TQ"
+        },
+        {
+          "name": "SCNDLSM",
+          "url": "https://open.spotify.com/artist/2kPSnn2m5TOPBO9GVc4WG7"
+        },
+        {
+          "name": "CL\u00d8SR",
+          "url": "https://open.spotify.com/artist/27XLcbt0GdpLwjZGt5tVza"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150759,
+      "name": "Meant To Be",
+      "url": "https://open.spotify.com/track/5UNrnYYqu3qNfgnMqHjnlf"
     },
     {
       "album": {
@@ -3566,7 +3614,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 122750,
       "name": "Only You",
       "url": "https://open.spotify.com/track/5WsPTUQGLfJB4oyOJwlmn2"

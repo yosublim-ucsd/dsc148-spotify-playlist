@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-523 songs - 22 hr 16 min
+525 songs - 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [ethereal beach](https://open.spotify.com/track/2P2FipjGsqrXWGjY2H3UAh) | [Naoko Omi](https://open.spotify.com/artist/2LojIVYdOV4hK4wKlASHwC) | [ethereal beach](https://open.spotify.com/album/0pzqrXKMFCgsZg3cWsbf2F) | 2:45 | 2022-07-15 |  |
 | [Etoile](https://open.spotify.com/track/3NhKzgs0nq8YNsxFcydt3m) | [Boyakaza](https://open.spotify.com/artist/7CwH4lMBbUZGz10FTJodF5) | [Etoile](https://open.spotify.com/album/3MQsERyDqkYLQztXDBofaV) | 2:29 | 2021-11-10 | 2022-07-22 |
 | [Everything Is Beautiful](https://open.spotify.com/track/2v98cEcIZAaif5qUFG4u09) | [High Low Row](https://open.spotify.com/artist/2ExRfiZkCF0b2AR8vdCqk8) | [Dead Sweet](https://open.spotify.com/album/6o4DMskkLt10hGU8UBfxlK) | 4:38 | 2022-05-10 | 2022-10-29 |
+| [Excellerator](https://open.spotify.com/track/11M7ebTCTSmTaFLUfF3zob) | [OMOZO](https://open.spotify.com/artist/0UADN60KWS7lO5isbnePqy) | [Excellerator](https://open.spotify.com/album/7fT89oyy3uT3bsL7QSACfF) | 2:34 | 2023-04-28 |  |
 | [Express](https://open.spotify.com/track/6mg9PIxAN6fYCBaztFjhJr) | [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6), [Elk Beats](https://open.spotify.com/artist/1Nl5io0qeF6ISnWrdTnFQB) | [Express](https://open.spotify.com/album/4YuVkDxFHZbloTnjEaNdwz) | 2:21 | 2022-06-17 |  |
 | [Feather](https://open.spotify.com/track/3C9SSKzLA3egmM5g9KCnzK) | [Technicyan](https://open.spotify.com/artist/3v3AfH9gjJFvuSM7f2OduC) | [Feather](https://open.spotify.com/album/6hlHOzTl3rmbdWwBd90qJn) | 2:01 | 2022-06-17 |  |
 | [feeling lost](https://open.spotify.com/track/01S0OY60f8Stt1HH1RLPQz) | [fresh from the moon](https://open.spotify.com/artist/3i0x5wTZo4kRfN75ESlhqJ) | [feeling lost](https://open.spotify.com/album/7fwjy1imypRtCgX0OWX3mN) | 2:18 | 2023-02-03 |  |
@@ -340,6 +341,7 @@
 | [Pandemic](https://open.spotify.com/track/7IYY79uC7AN3EyjGx8x8eR) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Liquid Blue](https://open.spotify.com/album/3yOIYcv0ddD4F12PfKIfho) | 1:55 | 2021-11-10 | 2022-04-15 |
 | [Paradox Beat](https://open.spotify.com/track/46XrLBGLzfLKpGl4HqEO7h) | [Glow Down](https://open.spotify.com/artist/1gWqPuL3TnL7maQnhHAZhn) | [Paradox Beat](https://open.spotify.com/album/3rpU9bDYhD0SOJUBxb2hCP) | 2:32 | 2021-11-10 |  |
 | [Paramount Crowning](https://open.spotify.com/track/1HWbqpp8OknYsqHWsxywXy) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Paramount Crowning](https://open.spotify.com/album/0SubVuANI5YGRndb5V2RLv) | 3:29 | 2021-11-10 | 2022-05-20 |
+| [particles](https://open.spotify.com/track/7ab8HZcP0Lq8zTOsKkM2fH) | [fresh from the moon](https://open.spotify.com/artist/3i0x5wTZo4kRfN75ESlhqJ) | [particles](https://open.spotify.com/album/5dgJ0cZ4qP0qvR1hWilkT9) | 2:04 | 2023-04-28 |  |
 | [Particles](https://open.spotify.com/track/1ONBzD68J6QOaK0PrO9D3L) | [lisa millien](https://open.spotify.com/artist/2Kr18HMvOrDXltmo8bM3Wa) | [Particles](https://open.spotify.com/album/0WkWxeeZBeCuLKu6NAKLXj) | 1:51 | 2021-11-10 | 2022-10-29 |
 | [Patch](https://open.spotify.com/track/6om9J0gECkyl3NUtqtmwIZ) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Patch](https://open.spotify.com/album/4m4hazt2TSTPZhfQdP4TgT) | 3:02 | 2022-07-22 | 2023-03-18 |
 | [Pathway](https://open.spotify.com/track/7MdUasyyylotmFLRzAy4NQ) | [Ilunabarra](https://open.spotify.com/artist/3t09BAYYbcbc4B4FIwNDdH) | [Pathway](https://open.spotify.com/album/2rvK0wkM6AkXdFYpFitVxB) | 2:40 | 2021-11-10 | 2022-05-11 |

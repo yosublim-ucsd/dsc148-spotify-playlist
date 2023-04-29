@@ -2,9 +2,9 @@
 
 ### [Femcees](https://open.spotify.com/playlist/37i9dQZF1DWZRM5WD7taad)
 
-> Mujeres raperas rompiéndola en toda Latinoamérica\. Young Miko en portada.
+> Mujeres raperas rompiéndola en toda Latinoamérica\. Samantha Barrón en portada.
 
-182 songs - 9 hr 27 min
+184 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Mi Testamento](https://open.spotify.com/track/7KaN9SAj75jQeiMxI39aUi) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT) | [33](https://open.spotify.com/album/38H1ajetO9g4ROXNUEIsCx) | 3:11 | 2023-04-14 |  |
 | [Mira Ma](https://open.spotify.com/track/3t7hYqeFKKlXsIc0q8eRLb) | [LA FIRMA](https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q), [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:35 | 2023-04-07 |  |
 | [Mujer De Fuego](https://open.spotify.com/track/0Nb4vPSBX9mpoQg41wK6al) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Mujer De Fuego](https://open.spotify.com/album/5NvV2UDzWL0STSOsmljLSz) | 3:17 | 2021-12-13 |  |
+| [My Bae](https://open.spotify.com/track/2L2d7gAq5yZqXhpudUi61Z) | [Samanta Duque](https://open.spotify.com/artist/0tZfsqImQ4jKbuMYIj8rpl), [FineSound Music](https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh) | [My Bae](https://open.spotify.com/album/3BSBuJHqZtZtzEK7ZYmZr9) | 2:23 | 2023-04-28 |  |
 | [Nada Más](https://open.spotify.com/track/5A4oXZIqEqTG77wq4B1Txh) | [Sailor An](https://open.spotify.com/artist/0pKECWtFUx8RrVzMDVb6Wr) | [Nada Más](https://open.spotify.com/album/0B63I00LvOlF2F4DDWPqv2) | 3:17 | 2021-12-13 |  |
 | [Nathy Peluso: Bzrp Music Sessions, Vol\. 36](https://open.spotify.com/track/78SeXVRJ7KCqVmOwTiFjnI) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Nathy Peluso: Bzrp Music Sessions, Vol\. 36](https://open.spotify.com/album/3aZthZKHMbbleXcilISjha) | 2:51 | 2021-12-13 |  |
 | [Ni Una Menos](https://open.spotify.com/track/11UL8736NPiJSdCiezulQp) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Ni Una Menos](https://open.spotify.com/album/2Ad42MuUjsRZFpIsPnGCkC) | 2:34 | 2021-12-13 |  |
@@ -179,6 +180,7 @@
 | [TOLKIN YIT](https://open.spotify.com/track/37yI1sQRX7xmdrp4RfTmK1) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TOLKIN YIT](https://open.spotify.com/album/4t00wtgmOwZwhv562woUPp) | 2:21 | 2021-12-13 |  |
 | [Toqué Fondo](https://open.spotify.com/track/31UaO89hcqvZpv0ZxS0CBD) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [Cocaine Beatz](https://open.spotify.com/artist/3gWc5nbi4s5wcTFxInX601) | [Toqué Fondo](https://open.spotify.com/album/3pP50Wip0grdAxzPo7eDbC) | 3:46 | 2021-12-13 | 2022-01-22 |
 | [Traka Tra](https://open.spotify.com/track/2VENs7vBhbZqWYJiIzbr0y) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Traka Tra](https://open.spotify.com/album/295frGzYkpnGmvuT9BxfEA) | 1:58 | 2021-12-13 |  |
+| [Tu Brillo](https://open.spotify.com/track/6H8hPUeBCKrDlPDkJA80fV) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i), [Jose Macario](https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM) | [Tu Brillo](https://open.spotify.com/album/0NrZC0vo1PbWryhZ6CVpz9) | 3:44 | 2023-04-28 |  |
 | [Universoy](https://open.spotify.com/track/33EqBMzWhhcV9OlrIsvLbx) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Aly Mayely](https://open.spotify.com/artist/643AKLEv7jYJG7o14pwBaP), [Leo Jah](https://open.spotify.com/artist/4yS9w42JfhRhRjDrUMZMnp) | [Universoy](https://open.spotify.com/album/5SocEAqFsm7xaEBSSTAN7S) | 4:20 | 2023-02-03 |  |
 | [Versos Tristes](https://open.spotify.com/track/7ALPJQQxtsEQnZid1GDyH9) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Versos Tristes](https://open.spotify.com/album/64j88cpynr6CNVRtHeJvnC) | 3:33 | 2021-12-13 | 2023-02-21 |
 | [Viernes 15 \(Organic Remix\)](https://open.spotify.com/track/2OAfXYiNyGU4q7AYAhDgIt) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Viernes 15 \(Organic Remix\)](https://open.spotify.com/album/6yOpMvVMQHOkR9mzhMimkd) | 3:17 | 2021-12-13 |  |

@@ -4,7 +4,7 @@
 
 > The defining alternative hits from a decade that changed music\. Cover: David Bowie
 
-152 songs - 9 hr 4 min
+153 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,8 +102,9 @@
 | [Make Me Smile \(Come up and See Me\)](https://open.spotify.com/track/6Ikd6o1tpQIoTAUFchfmSf) | [Steve Harley](https://open.spotify.com/artist/3dS8rLINyM7EYuMXryXJym), [Steve Harley & Cockney Rebel](https://open.spotify.com/artist/6EL5GD53kaaVgJCHgdtdLz) | [The Cream of Steve Harley & Cockney Rebel](https://open.spotify.com/album/7vVinMaU6MJuXQnCt69QDu) | 3:56 | 2022-09-29 | 2022-11-14 |
 | [Make Me Smile \(Come up and See Me\)](https://open.spotify.com/track/6cFaRahEaLyew4ATx1QaUx) | [Steve Harley](https://open.spotify.com/artist/3dS8rLINyM7EYuMXryXJym), [Steve Harley & Cockney Rebel](https://open.spotify.com/artist/6EL5GD53kaaVgJCHgdtdLz) | [Face to Face \(A Live Recording\)](https://open.spotify.com/album/5SzaD6YBaGzFFBl50JBlhL) | 6:44 | 2021-11-17 | 2022-07-29 |
 | [Make Me Smile \(Come up and See Me\) \- 2014 Remaster](https://open.spotify.com/track/2dpO3NteNWUDL2S9e0t0Mi) | [Steve Harley](https://open.spotify.com/artist/3dS8rLINyM7EYuMXryXJym), [Steve Harley & Cockney Rebel](https://open.spotify.com/artist/6EL5GD53kaaVgJCHgdtdLz) | [The Best Years of Our Lives \(Deluxe Version\)](https://open.spotify.com/album/4D1oAjj0nxeAlsAJWAJn8g) | 3:59 | 2021-11-17 |  |
-| [Mind Your Own Business](https://open.spotify.com/track/2CMQoSgyQLXshYuWLdtlRh) | [Delta 5](https://open.spotify.com/artist/2qe52cWdi4IRtgg14CLInb) | [Singles and Sessions 1979\-1981](https://open.spotify.com/album/1MF35ofwAGikdUzvhIFr7Z) | 3:13 | 2021-11-17 |  |
+| [Mind Your Own Business](https://open.spotify.com/track/2CMQoSgyQLXshYuWLdtlRh) | [Delta 5](https://open.spotify.com/artist/2qe52cWdi4IRtgg14CLInb) | [Singles and Sessions 1979\-1981](https://open.spotify.com/album/1MF35ofwAGikdUzvhIFr7Z) | 3:13 | 2021-11-17 | 2023-04-29 |
 | [Mind Your Own Business](https://open.spotify.com/track/4Ec8I6H20zu7F2vDdg90qP) | [Delta 5](https://open.spotify.com/artist/2qe52cWdi4IRtgg14CLInb) | [Mind Your Own Business](https://open.spotify.com/album/4KvbiwZGe9eoFCW1mMIWl7) | 3:13 | 2021-11-17 | 2022-07-29 |
+| [Mind Your Own Business](https://open.spotify.com/track/6bEjOYezTuD2gYq5X7tGlP) | [Delta 5](https://open.spotify.com/artist/2qe52cWdi4IRtgg14CLInb) | [Singles and Sessions 1979\-1981](https://open.spotify.com/album/7dyzbiN0P6EfoxdRIgk6lL) | 3:13 | 2022-09-29 |  |
 | [My Sex](https://open.spotify.com/track/4F797Kz0zqZiMxNcRdO8R2) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [Ultravox! \(Remastered & Expanded\)](https://open.spotify.com/album/3ela6V5X5cG9e4HM3ox04x) | 3:02 | 2021-11-17 | 2022-07-29 |
 | [My Sex](https://open.spotify.com/track/4uq0OuAtODFKsEMO478Lt8) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [Ultravox!](https://open.spotify.com/album/09H76Y3uRhgJSu7u5f3e6f) | 3:02 | 2021-11-17 |  |
 | [My Way \- 1993 Remastered Version](https://open.spotify.com/track/0TaWdoJiAJoln9OQ1RbdNs) | [Sid Vicious](https://open.spotify.com/artist/1YnxVTLZQkk6KJI2c5sBqU) | [Playlist: New Wave](https://open.spotify.com/album/3EZ09EIoMr6Y5Q9aidbnhy) | 4:04 | 2021-11-17 |  |

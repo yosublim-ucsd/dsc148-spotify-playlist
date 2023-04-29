@@ -4,7 +4,7 @@
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: Zeina
 
-1,111 songs - 2 day 8 hr 50 min
+1,112 songs - 2 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,8 @@
 | [Ce Soir](https://open.spotify.com/track/7cjZwi0ZIiotcjPKl0ymLU) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [Ce Soir](https://open.spotify.com/album/5wp0Zwk1GtcUhZUVUCb5xE) | 2:51 | 2022-11-11 | 2022-12-01 |
 | [Ce Soir 22](https://open.spotify.com/track/0r2GXh51kE6Lxt5khapdWE) | [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6) | [Ce Soir 22](https://open.spotify.com/album/3DwGIRqyfNcbcKkYTudUc3) | 1:14 | 2022-04-01 | 2022-05-07 |
 | [Chapel Hill](https://open.spotify.com/track/1QG2qGJRli4auNMoXp2FTj) | [John River](https://open.spotify.com/artist/7faTQoEP4N3YYvoCYGXZsg) | [Chapel Hill](https://open.spotify.com/album/5jmuvTs6bZ3IJNA8GXbUZi) | 2:40 | 2023-04-07 |  |
-| [Cheese](https://open.spotify.com/track/70Ui5PlefBqCOW3uvqNRAa) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Crispy Crunchy Nothing](https://open.spotify.com/album/0cJXjTHI3rmuDoeSNb0YeU) | 2:19 | 2023-04-07 |  |
+| [Cheese](https://open.spotify.com/track/1MD78xqTQoIXvZCn0CFyvF) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Crispy Crunchy Nothing](https://open.spotify.com/album/6iZCdzygVnM4rMAPNW5I5F) | 2:19 | 2023-04-07 |  |
+| [Cheese](https://open.spotify.com/track/70Ui5PlefBqCOW3uvqNRAa) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Crispy Crunchy Nothing](https://open.spotify.com/album/0cJXjTHI3rmuDoeSNb0YeU) | 2:19 | 2023-04-07 | 2023-04-29 |
 | [Cherry Bomb](https://open.spotify.com/track/7AsVvFEqEk7kgi7Vb13tiC) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Cherry Bomb](https://open.spotify.com/album/0R3SQNJPCqpA4sSVRGjpXE) | 2:29 | 2022-07-01 | 2022-08-06 |
 | [Child](https://open.spotify.com/track/4b58UyTZK1qqkDAUVF0JN1) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Child](https://open.spotify.com/album/4nz18DILyysoglGaV015Cq) | 3:03 | 2022-05-06 | 2023-02-04 |
 | [Child Of The Government](https://open.spotify.com/track/64CgHKu5BPzju2hO2ECiZL) | [Jayli Wolf](https://open.spotify.com/artist/09AACzWu09h30NeqLRn4Tx) | [Child Of The Government](https://open.spotify.com/album/2EIjsnDvxtc14X9FPDEx89) | 3:41 | 2022-06-03 | 2022-07-02 |

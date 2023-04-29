@@ -4,7 +4,7 @@
 
 > Bold tracks packing some serious swagger.
 
-181 songs - 10 hr 30 min
+182 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Diggin' for the Devil](https://open.spotify.com/track/3RVbbNzSF5ssXTuwaqU3lB) | [Flip Grater](https://open.spotify.com/artist/42RdLjlYHXrItRmmin0V0t) | [Pigalle](https://open.spotify.com/album/2F5z4VGrSwOwEFURgBz7oO) | 3:04 | 2022-07-11 |  |
 | [Diggin' for the Devil](https://open.spotify.com/track/6yqt6ZIeWAaxU6hguDi5HY) | [Flip Grater](https://open.spotify.com/artist/42RdLjlYHXrItRmmin0V0t) | [Pigalle](https://open.spotify.com/album/09MAsgcK5FLF23D8MqQSQa) | 3:04 | 2021-11-19 | 2022-07-29 |
 | [Down to the River](https://open.spotify.com/track/0tVw6rUAUI0w01PN9FQeyD) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Down to the River](https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2) | 3:51 | 2021-11-19 |  |
-| [Dreamcatchers](https://open.spotify.com/track/51F9dj6Hc3shNVFNNWi4sx) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [222](https://open.spotify.com/album/7xnWrKtdWfj3PjGmK6Tq1P) | 1:51 | 2022-07-11 |  |
+| [Dreamcatchers](https://open.spotify.com/track/51F9dj6Hc3shNVFNNWi4sx) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [222](https://open.spotify.com/album/7xnWrKtdWfj3PjGmK6Tq1P) | 1:51 | 2022-07-11 | 2023-04-29 |
+| [Dreamcatchers](https://open.spotify.com/track/66K0gSHdemfDspYgDgPrcf) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [222](https://open.spotify.com/album/1LkiSSGpC70DBh7UsGB0y2) | 1:51 | 2023-03-10 |  |
 | [Dreamcatchers](https://open.spotify.com/track/7uXwbnpGfGRwlB7CWeC6Aw) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [222](https://open.spotify.com/album/0FRWio6Rx37fyPEBj5BmpI) | 1:51 | 2021-11-19 | 2022-07-29 |
 | [Electric Bones](https://open.spotify.com/track/0d909fyTumkG4JgC7kxTCm) | [Findlay](https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn) | [Electric Bones](https://open.spotify.com/album/66k9l9BgsvP7KDKkjWU6xX) | 3:12 | 2021-11-19 |  |
 | [Everybody Walkin' This Land](https://open.spotify.com/track/54uKUgwc6BkXRIs3YWDAhb) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Everybody Walkin' This Land](https://open.spotify.com/album/7LKWnW1twZg3M2HugzO4Qb) | 3:06 | 2021-11-19 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,170 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,240 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 12 | [California Zephyr](https://open.spotify.com/track/4eBvIlQ3EhaP2b8At53Woo) | [Jay Farrar](https://open.spotify.com/artist/4tPRMBm25eaPJaceUBPqTK), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [One Fast Move Or I'm Gone Music From Kerouac's Big Sur](https://open.spotify.com/album/3Lki97wGb11VOTrjCEAgCj) | 2:23 |
 | 13 | [Feel Alright](https://open.spotify.com/track/7fF6Af2M3vL4IUtE8cMy6G) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [I Feel Alright](https://open.spotify.com/album/1CEAVKLVVaCoKyEoVVr8Bh) | 2:56 |
 | 14 | [Furr](https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7) | 4:07 |
-| 15 | [Nights Like These](https://open.spotify.com/track/5W6mFdtLbNllkRh6Q07IbT) | [Lucero](https://open.spotify.com/artist/1MspPfENB9nzFGaagXmF7R) | [Tennessee](https://open.spotify.com/album/0KBqO2j7c8OHYhYaEiBgTx) | 3:55 |
+| 15 | [Nights Like These](https://open.spotify.com/track/7wdsny4I4vMLY4wCF9FDkr) | [Lucero](https://open.spotify.com/artist/1MspPfENB9nzFGaagXmF7R) | [Tennessee](https://open.spotify.com/album/7pNGqfOAI7z0PrwJrdjh1A) | 3:55 |
 | 16 | [Pass You By](https://open.spotify.com/track/3CMMEJHMYeW7AHorJm4MSW) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Revival](https://open.spotify.com/album/733rVkP3oBulDHJbiuRANa) | 3:57 |
 | 17 | [Leaving Time](https://open.spotify.com/track/7stgXk1gsIzidnWRyJhn0b) | [Patterson Hood](https://open.spotify.com/artist/5JnjssuFBg104paXN0mKKn) | [Heat Lightning Rumbles In The Distance](https://open.spotify.com/album/6DtS0sUWxl6812eeF0XK3R) | 3:31 |
 | 18 | [Baltimore Blues No\. 1](https://open.spotify.com/track/3Dy8QNZ77cre9ThUPRguy0) | [Deer Tick](https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO) | [War Elephant](https://open.spotify.com/album/0mOjYGdxvpusOVunsElaCq) | 3:01 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 42 | [Brimstone Rock](https://open.spotify.com/track/1nzQhAyJBeWmR75nGcrbKG) | [16 Horsepower](https://open.spotify.com/artist/188gwh9RnRT58ZQPwqwHE3) | [Low Estate](https://open.spotify.com/album/5uoiYvMMws1vvpUUXXF2RM) | 4:28 |
 | 43 | [Post to Wire](https://open.spotify.com/track/2vwOmgQGX1abLc6dDqyRry) | [Richmond Fontaine](https://open.spotify.com/artist/2zTCLiQ8OUIWEyV6eZWzFy) | [Post to Wire](https://open.spotify.com/album/1IQSQJop8pMbbWozvZsMbc) | 2:13 |
 | 44 | [Can't Let Go](https://open.spotify.com/track/0kyM6MaS573Gt9Yna1rsqd) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 3:28 |
-| 45 | [Silence](https://open.spotify.com/track/5g79xHG0De0dDHe1Hkum66) | [The Autumn Defense](https://open.spotify.com/artist/71I7zoXe7aIZvzN19S1gIo) | [Circles](https://open.spotify.com/album/6P9VUVYvKNP7DULIJ5p7Ks) | 4:07 |
+| 45 | [Silence](https://open.spotify.com/track/7dbkd6nYE7hkpNohBKzyjr) | [The Autumn Defense](https://open.spotify.com/artist/71I7zoXe7aIZvzN19S1gIo) | [Circles](https://open.spotify.com/album/73hOVQXTcPiNfesPkxS7O0) | 4:07 |
 | 46 | [The Ballad of Bitter Honey](https://open.spotify.com/track/20yy7wGUByZptk1ww20KIC) | [Eef Barzelay](https://open.spotify.com/artist/1uRMuS0KuwZwFJSYgV0PaW) | [Bitter Honey \(redux\)](https://open.spotify.com/album/01Uenvl1WeGH8d7oPf0s7z) | 3:34 |
 | 47 | [On the Streets](https://open.spotify.com/track/7tUKfZVKojU3kaOkJIjEgf) | [Rico Bell](https://open.spotify.com/artist/6LrIoFLMuU0yXD86WBmNe0) | [Return of Rico Bell](https://open.spotify.com/album/4K9578TovhVb0BFKyLuFGa) | 3:55 |
 | 48 | [Victoria](https://open.spotify.com/track/0mmSXKVBMjfYkLLJVQ5tF9) | [Old 97's](https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF) | [Hit By A Train: The Best Of Old 97's](https://open.spotify.com/album/5fyrNg3ZGMZzY0V5gqUAFA) | 3:51 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 52 | [Save It For A Rainy Day](https://open.spotify.com/track/6IZIEhCq9crPjl2jGUvELS) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Rainy Day Music](https://open.spotify.com/album/3vI8vpQDeh7NaNEY1AilPm) | 3:07 |
 | 53 | [Six O'Clock News](https://open.spotify.com/track/46zWnizX8Zny8ydVg04KVL) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Failer](https://open.spotify.com/album/3ZYobhZ7YRCG96p7P7BIek) | 4:36 |
 | 54 | [The Galway Girl](https://open.spotify.com/track/1KnilWyiAb1Jwa9QJXZGMN) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Transcendental Blues](https://open.spotify.com/album/15FbLxuzw8MuuIC1AOob6k) | 3:05 |
-| 55 | [Cigarettes Coffee and Booze](https://open.spotify.com/track/5sccRpcrBlsSIbIjSj4Xtt) | [The Minus 5](https://open.spotify.com/artist/7k8oHbK8ratXIVlYX7fVRU) | [The Minus 5](https://open.spotify.com/album/4d1zF9fWmRc5PhWNaoh0us) | 4:24 |
+| 55 | [Cigarettes Coffee and Booze](https://open.spotify.com/track/0mFNgFQCUGjy1qsKQzkTwr) | [The Minus 5](https://open.spotify.com/artist/7k8oHbK8ratXIVlYX7fVRU) | [The Minus 5](https://open.spotify.com/album/5Xcmey2FF0QPeFPLDEOOk0) | 4:24 |
 | 56 | [Desdemona](https://open.spotify.com/track/7FezHxN3JiG6lK7L5Sl84M) | [The Alternate Routes](https://open.spotify.com/artist/2bIN86ZmfyWfkN9c3C3YXE), [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [A Sucker's Dream](https://open.spotify.com/album/69e9cBeYvuAFXC1iaT8T7H) | 5:54 |
 | 57 | [The El](https://open.spotify.com/track/6C0SXBkORzmP9elNb2gMcu) | [Rhett Miller](https://open.spotify.com/artist/0wNZd1CMOsFZ0TiBhlqjD5) | [The Instigator](https://open.spotify.com/album/0Pup5rX8QvSNgSBLX7Vu69) | 3:09 |
 | 58 | [Pinball Song](https://open.spotify.com/track/3X2stgfjH1I30FMLHzFWJI) | [Slobberbone](https://open.spotify.com/artist/5U1pEBuiFLycsQ4mYP3nmK) | [Everything You Thought Was Right Was Wrong Today](https://open.spotify.com/album/1Yj7OK3fnKoic98iMha6Bw) | 4:36 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 74 | [Chickamauga](https://open.spotify.com/track/3pnfc7f0fix6C6HcOLYxzH) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [Anodyne](https://open.spotify.com/album/5DQRAlGAFTpHsXGEg5zw9V) | 3:42 |
 | 75 | [Hasn't Hit Me Yet \- 2012 Remaster](https://open.spotify.com/track/4MgPAPoNsUpJrVhKf1dCxz) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Five Days in July](https://open.spotify.com/album/38xKbwxuitwGAgjTPoEnWm) | 5:13 |
 
-Snapshot ID: `MCwyY2I5Y2VhZWM4Yjc5MTUyNjVmOWM5YzY5ZGI4MTU4OTdkZDcyMDEy`
+Snapshot ID: `MCw2NjJhNWJmZGI3MzVmYzI3MmNjMmVkYjk5NTkxYTVjNjAyYmZkYWVm`

@@ -2,7 +2,7 @@
 
 ### [Nitroboost](https://open.spotify.com/playlist/37i9dQZF1DWWpHR8v2FGW4)
 
-> Always come in 1st.
+> Always come in 1st place.
 
 101 songs - 6 hr 1 min
 

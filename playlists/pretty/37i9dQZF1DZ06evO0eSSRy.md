@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 | 15 | [Violet](https://open.spotify.com/track/6j9WxIbqbib7SjGKePRPkQ) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 4:12 |
 | 16 | [I Got Punched in the Face, What's Your Excuse](https://open.spotify.com/track/1UWkXVBzlGeADNlUXep8B5) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:31 |
 
-Snapshot ID: `MjgwNDMzMjAsMDAwMDAwMDAzYThjMTlkYjJiOTExOTYwYjc3MjBkNGNiYmE1OTRhMw==`
+Snapshot ID: `MjgwNDQ3ODYsMDAwMDAwMDAwZTFmZTU1ZTdlMzcxODA4MzUzZTE1NmJiNDM4NDRmYg==`

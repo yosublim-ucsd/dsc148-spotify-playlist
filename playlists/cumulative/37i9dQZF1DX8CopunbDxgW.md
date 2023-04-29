@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: Goth Babe
 
-778 songs - 2 day 3 hr 4 min
+779 songs - 2 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [All Of The Time \- DJ Streaks Remix](https://open.spotify.com/track/0ouFThIkQRyW52ELPVjtdQ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Dj Streaks](https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA) | [All Of The Time \(DJ Streaks Remix\)](https://open.spotify.com/album/4ufp5tPPk8PPR5XovgiTwM) | 4:46 | 2021-10-08 | 2022-07-29 |
 | [All Of The Time \- DJ Streaks Remix](https://open.spotify.com/track/2gtIOi34KWOtEG21WKT8QN) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Dj Streaks](https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA) | [All Of The Time \(DJ Streaks Remix\)](https://open.spotify.com/album/6Gl8ivfYXZx9Yp11TMbh1R) | 4:46 | 2022-09-09 | 2023-01-26 |
 | [All or Nothin](https://open.spotify.com/track/7LjHfW0OCBjYx01XkDA8QR) | [Chuck Sutton](https://open.spotify.com/artist/472LbYT0htG8bFXNXpEgRN) | [All or Nothin](https://open.spotify.com/album/4kxGHduVK7ms4hls6JvtYR) | 3:09 | 2021-11-12 | 2022-02-09 |
-| [All Over This Party](https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [All Over This Party](https://open.spotify.com/album/4ofp2cEcuD3oelw7Qp3ooz) | 3:32 | 2022-09-09 |  |
+| [All Over This Party](https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [All Over This Party](https://open.spotify.com/album/4ofp2cEcuD3oelw7Qp3ooz) | 3:32 | 2022-09-09 | 2023-04-29 |
 | [All That Blue](https://open.spotify.com/track/4xWJXxDvKTT5mgjodw01QD) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [Open Reduction Internal Fixation](https://open.spotify.com/album/7BfdDn7UsSqkzzica9hdwn) | 5:33 | 2022-01-28 | 2022-02-12 |
 | [Alone in the Mountains](https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Alone in the Mountains](https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4) | 3:16 | 2023-04-21 |  |
 | [Animal \(feat\. Geoffroy\)](https://open.spotify.com/track/19DnkdlcmVu9IKotPQ7KIz) | [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN), [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Animal](https://open.spotify.com/album/4ueHmbivLZuyx2aHmRy8kz) | 4:36 | 2021-10-22 | 2022-02-06 |
@@ -562,6 +562,7 @@
 | [Relay](https://open.spotify.com/track/21pOAGEaqatWYQpy18K9oc) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Fantasy](https://open.spotify.com/album/0glNhCYTMvVmnTwXZ1bgKA) | 2:47 | 2022-01-28 | 2022-07-08 |
 | [Remember November / Bitcrush\*Yr\*Life](https://open.spotify.com/track/6GQnAjlwkyqoDE7xBJSc2n) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [It's All Smiles](https://open.spotify.com/album/1nx7N9E7k5AfKwjWIb2DQd) | 3:08 | 2021-12-03 | 2022-01-08 |
 | [Renegade](https://open.spotify.com/track/7n74B8CVy1kWH0IOXnbrj2) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Renegade](https://open.spotify.com/album/0SrEtp8X0AH2gd0WX4Qh8Y) | 3:17 | 2021-11-19 | 2021-12-29 |
+| [Replacements \(feat\. La Roux\)](https://open.spotify.com/track/067mO4njSpF7qUEE96lbpH) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Replacements \(feat\. La Roux\)](https://open.spotify.com/album/677Ket8qKGVOMtXgE4Gpfk) | 3:49 | 2023-04-28 |  |
 | [Restless Bones](https://open.spotify.com/track/0ymhaRjiCwNQzeQEjewE7F) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Restless Bones](https://open.spotify.com/album/4gyGSYCRPbJ8BtVhzOYRl9) | 2:25 | 2022-11-08 | 2023-04-01 |
 | [Reverie](https://open.spotify.com/track/7b2FRWT62YHpuX6LFhLeN8) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Reverie](https://open.spotify.com/album/2wD0srVS14cqbCmAORNF7n) | 3:25 | 2021-10-08 | 2022-01-27 |
 | [Reviver \- Totally Enormous Extinct Dinosaurs Remix](https://open.spotify.com/track/0LAOGIAFvEnMnzrO5oaAb5) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Reviver \(Totally Enormous Extinct Dinosaurs Remix\)](https://open.spotify.com/album/08fGtbr8PDy84u2KRrNuXS) | 4:06 | 2022-10-14 | 2022-11-22 |

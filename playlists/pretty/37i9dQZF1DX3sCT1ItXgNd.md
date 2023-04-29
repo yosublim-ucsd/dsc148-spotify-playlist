@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor y lo último del pop en español\. Foto: Lola Indigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 974,730 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 974,936 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 69 | [Cansado de estar triste](https://open.spotify.com/track/0KhvJklV4bqAuXwFLEEX3x) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Cansado de estar triste](https://open.spotify.com/album/65JzMj5NQD539KQ0FzGBU2) | 2:55 |
 | 70 | [Disfrutármela](https://open.spotify.com/track/3O3zWXgKpxzqcME24Xllsi) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Disfrutármela](https://open.spotify.com/album/4UsJPeGA3HUCRCeWWHGqCL) | 2:45 |
 
-Snapshot ID: `MCw4NWI0NTNlYzZjNTdmMDdjOTRhYjEzZGQ2ZTYwOGQwZmMyNTM1MjZk`
+Snapshot ID: `MCxmNzY0NTM5NThjODhhMjM2NGNiOTcxYTIyMDYwM2U4ODA2ODEwNzJm`

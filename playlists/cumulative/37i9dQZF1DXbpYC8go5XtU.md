@@ -4,7 +4,7 @@
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-198 songs - 16 hr 3 min
+200 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Nil Shore](https://open.spotify.com/track/3LWJujtOifkEzhuCEowhxZ) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [Filament and Place](https://open.spotify.com/album/2q3FLsl0yqx0eplaC3rM3t) | 4:32 | 2022-07-08 |  |
 | [Nil Shore](https://open.spotify.com/track/6hnEX01NONTuhpDk6yDdwT) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [Filament and Place](https://open.spotify.com/album/5ZRUr2HqVBVKeRfoN8rKQz) | 4:32 | 2021-12-22 | 2022-07-29 |
 | [Nine](https://open.spotify.com/track/35YBpp7aLaH9wJd1QuQF3i) | [Nobuto Suda](https://open.spotify.com/artist/3ml3FpzCetshYSyx5ghKGS) | [Transitoriness](https://open.spotify.com/album/166PUAhoTvxeEu0AbDYCYZ) | 6:45 | 2021-12-22 |  |
+| [No One Else Here](https://open.spotify.com/track/1onjVySYXYtvaYp0zwa3aH) | [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh) | [No One Else Here](https://open.spotify.com/album/401RFElK9ACsFeoGtbYfvL) | 3:47 | 2023-04-28 |  |
 | [Normal](https://open.spotify.com/track/1MTjrxeDOoN5aGebwy32JP) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [With](https://open.spotify.com/album/7mses8TR62sA7JMJjWSDAT) | 2:52 | 2021-12-22 |  |
 | [Notwithstanding](https://open.spotify.com/track/5Q2MwFBihjnuWXEa8UTB3B) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [Filament and Place](https://open.spotify.com/album/2q3FLsl0yqx0eplaC3rM3t) | 5:52 | 2022-07-08 |  |
 | [Notwithstanding](https://open.spotify.com/track/5nmvkHbYJuCWZPJrwq4m6o) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [Filament and Place](https://open.spotify.com/album/5ZRUr2HqVBVKeRfoN8rKQz) | 5:52 | 2021-12-22 | 2022-07-29 |
@@ -109,7 +110,8 @@
 | [On Art and Time](https://open.spotify.com/track/0vrvN4KCUtKCZd6ml5Rdop) | [Man from Mars](https://open.spotify.com/artist/45NDwPF1HHwxFI4BGDYJFn) | [On Art and Time](https://open.spotify.com/album/79mHKfqBtubVqOG9yG5NZw) | 4:43 | 2022-12-20 |  |
 | [Painted Canvas](https://open.spotify.com/track/3IIx3GOfP8I9LFiismSdKE) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [In Other Lifetimes...](https://open.spotify.com/album/3Pf7OQkl5iIwiBX1VkfUIJ) | 5:52 | 2022-07-08 |  |
 | [Part 15, River of Grass](https://open.spotify.com/track/1o6gNM7hO9mQTHvlG8k8eC) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Anhinga Trail Soundwalk](https://open.spotify.com/album/0DUA9cfK1KPrAesBQzzG7A) | 2:29 | 2022-09-30 |  |
-| [Part 18, Green Heron Allentando](https://open.spotify.com/track/3QWeJd8mLnVaoesb3Pne9O) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Anhinga Trail Soundwalk](https://open.spotify.com/album/0DUA9cfK1KPrAesBQzzG7A) | 1:58 | 2022-09-30 |  |
+| [Part 18, Green Heron Allentando](https://open.spotify.com/track/2B7udyMw63uyWuHF4Cfumu) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Anhinga Trail Soundwalk](https://open.spotify.com/album/4SYpCduZHkAf20cRxpE40o) | 1:58 | 2023-04-28 |  |
+| [Part 18, Green Heron Allentando](https://open.spotify.com/track/3QWeJd8mLnVaoesb3Pne9O) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Anhinga Trail Soundwalk](https://open.spotify.com/album/0DUA9cfK1KPrAesBQzzG7A) | 1:58 | 2022-09-30 | 2023-04-29 |
 | [Passiflora](https://open.spotify.com/track/6EAkJSMoXNlzcPXOzZ2jrB) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Passiflora](https://open.spotify.com/album/22zNb8tjCpUr82NEVv4wLE) | 21:40 | 2021-12-22 | 2023-04-14 |
 | [Playing in the Water](https://open.spotify.com/track/3WP28Y4AaOSElvnf29suLJ) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Hearing Music](https://open.spotify.com/album/58gzJUm5d9qzbv2LckicoZ) | 3:11 | 2021-12-22 | 2022-07-29 |
 | [Playing in the Water](https://open.spotify.com/track/45MF5ivn2DfSWTGuDy6CY1) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Hearing Music](https://open.spotify.com/album/2XGxxHwdnmQBLPJEDISC8k) | 3:11 | 2022-07-08 | 2022-08-13 |
@@ -131,7 +133,7 @@
 | [Ruins](https://open.spotify.com/track/1zea7s3chpOnqkrx4AJVFV) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Spells](https://open.spotify.com/album/79Cgoda0fP6Y3JC9RS2d5n) | 1:58 | 2022-07-08 |  |
 | [Ruins](https://open.spotify.com/track/6fFAivepn154Gr6QGet6RT) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Spells](https://open.spotify.com/album/7iW4kZa3sPooLX2VzgCVVe) | 1:58 | 2021-12-22 | 2022-07-29 |
 | [Saguaro](https://open.spotify.com/track/6k9epHaioQVz1PHdgCu3Oj) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a), [Suspended Memories](https://open.spotify.com/artist/7pvTCKClynPrI7oNjbeCw6), [Jorge Reyes](https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV), [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Forgotten Gods](https://open.spotify.com/album/5zHP5vjdv8V7bUYKW7w9zW) | 5:23 | 2021-12-22 |  |
-| [Sanctuary](https://open.spotify.com/track/2PQTnZLzgd4V0oU9zgcTOW) | [Takashi Kokubo](https://open.spotify.com/artist/3d3z3hJtZFWkkoDgnF9WX1) | [Gaia](https://open.spotify.com/album/1w0K1wopsGPYTArqdmilZe) | 5:05 | 2021-12-22 |  |
+| [Sanctuary](https://open.spotify.com/track/2PQTnZLzgd4V0oU9zgcTOW) | [Takashi Kokubo](https://open.spotify.com/artist/3d3z3hJtZFWkkoDgnF9WX1) | [Gaia](https://open.spotify.com/album/1w0K1wopsGPYTArqdmilZe) | 5:05 | 2021-12-22 | 2023-04-29 |
 | [Seagull](https://open.spotify.com/track/56rWZXYQEhqg2IamYjFf50) | [Eyolf](https://open.spotify.com/artist/4Gdv2m4NbCrIt4j6zasrx8) | [Seagull](https://open.spotify.com/album/3xQ4jTZ7uzPxq3wQNfRlBN) | 3:33 | 2022-10-10 |  |
 | [Self Empathy 2](https://open.spotify.com/track/1HXPzjfK4hYiIPYJchH1k2) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8) | [Self Empathy 2](https://open.spotify.com/album/53IJTj3ETsfT3W9I45aS53) | 3:52 | 2022-09-23 |  |
 | [Severia](https://open.spotify.com/track/2S04d3ml7kEmy7jebqJQa3) | [Lauge](https://open.spotify.com/artist/72Syhg4FIEracKDa3yumQY) | [Severia](https://open.spotify.com/album/6TfLDIkN36UlY6eCQd0bYF) | 5:49 | 2023-03-03 |  |

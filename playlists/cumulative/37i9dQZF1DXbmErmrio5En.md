@@ -4,7 +4,7 @@
 
 > saturation, distortion, overdrive, feedBack\. Cover: ThxSoMch
 
-156 songs - 7 hr 0 min
+158 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [i dont wna cry \(haste\)](https://open.spotify.com/track/6RKeESxpM58GCfR5eRdfzY) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [i dont wna cry](https://open.spotify.com/album/5AIZKUZZW9RE3xhTf64h39) | 2:01 | 2023-02-22 |  |
 | [I Thought I Saw An Astronaut](https://open.spotify.com/track/2oun4Gfgac2SEbdpDTAQgF) | [props](https://open.spotify.com/artist/5O7LMWE0xWgM0NzbsJdckR) | [songs](https://open.spotify.com/album/0y7QaN0r8zsiD9R7ikFdo3) | 2:18 | 2022-12-04 | 2023-03-04 |
 | [I Watched Them Go](https://open.spotify.com/track/7caD4SRq2jQfbFy2ZfT3iz) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [I Watched Them Go](https://open.spotify.com/album/5CS8JBzPL6gw4r95U3Ia1d) | 3:19 | 2022-12-04 | 2023-02-18 |
-| [i wna be like you](https://open.spotify.com/track/4cLhQxR5p74hslc5ao4B15) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [i wna be like you](https://open.spotify.com/album/7cfBvGGjF74yPKTVNtpXLe) | 2:03 | 2023-04-14 |  |
+| [i wna be like you](https://open.spotify.com/track/4cLhQxR5p74hslc5ao4B15) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [i wna be like you](https://open.spotify.com/album/7cfBvGGjF74yPKTVNtpXLe) | 2:03 | 2023-04-14 | 2023-04-29 |
 | [I'll Be Damned](https://open.spotify.com/track/0CXSKdN0pLbwc4TUp06ScG) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [High School Football](https://open.spotify.com/album/3zaHm3kBLgfQkO8Jd1nVfn) | 3:38 | 2023-04-14 |  |
 | [ihatefeelingthisway](https://open.spotify.com/track/3IP5kKSUkqZcOLraMddHJy) | [inuday](https://open.spotify.com/artist/29OqAIxz15uCoDjXX0a4Gg) | [ihatefeelingthisway](https://open.spotify.com/album/72me9cMEdcQxa0uwvEijen) | 3:43 | 2022-12-09 | 2023-04-15 |
 | [immerensis](https://open.spotify.com/track/5BeS3D2ewRYPcFS0Tz3UcC) | [abbot](https://open.spotify.com/artist/0Ro9LZA0sRl1FG66KgsA1u) | [immerensis](https://open.spotify.com/album/6nPSa56mb9lDNk2Ppv6Hq8) | 2:41 | 2023-01-26 | 2023-02-18 |
@@ -93,6 +93,7 @@
 | [MOTHS](https://open.spotify.com/track/2dT5M4bdibcfjLiqfzawi1) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [MOTHS](https://open.spotify.com/album/6YhEVN0VrEINMMLZlkiOv1) | 1:20 | 2022-12-04 | 2023-02-18 |
 | [Muse](https://open.spotify.com/track/51R1xeUf5cPnZRqsnndBxo) | [GOM](https://open.spotify.com/artist/24GmnVmCcz5n4Z5tPxeMKu) | [Muse](https://open.spotify.com/album/4ETMbTOkSeUx4lANoYQi1F) | 1:49 | 2022-12-04 | 2023-04-15 |
 | [narcissism \(outofyrmind\)](https://open.spotify.com/track/2W6buc64CxZZ4LC38sMJ98) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [narcissism \(out of yr mind\)](https://open.spotify.com/album/7eRiNmuF05YeVRpeFtkAJ8) | 2:58 | 2023-03-03 |  |
+| [nerve gas](https://open.spotify.com/track/5lZL7EafDdjRsPNLTRLqwU) | [Belak](https://open.spotify.com/artist/2y83yKCgoia21m1ot4WxPL) | [nerve gas](https://open.spotify.com/album/2xETxfVzBG4ss5f7c2ByHE) | 2:45 | 2023-04-28 |  |
 | [never goes down like that \(ft\. Ezekiel\)](https://open.spotify.com/track/2kwuHsLUrCCFDxPwOu1b11) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr), [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [never goes down like that \(ft\. Ezekiel\)](https://open.spotify.com/album/603LFBRrrCMiwfQlBaQNwl) | 2:15 | 2022-12-04 | 2023-02-18 |
 | [never let you leave](https://open.spotify.com/track/4pwYRwB6wlFdpeltboxC4N) | [kmoe](https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz) | [never let you leave](https://open.spotify.com/album/0wH8IuDVBd99eCGypnOuII) | 2:06 | 2023-04-14 |  |
 | [nostalgia](https://open.spotify.com/track/1d6N1nqKKhShEWRdrioT0K) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [PERFECT!](https://open.spotify.com/album/4Qwi4N4Uki3Q8RBaNVQ580) | 2:05 | 2023-04-07 |  |
@@ -119,6 +120,7 @@
 | [repeat](https://open.spotify.com/track/4bxRiXW0qivXhOmeIGE2AU) | [heylog](https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c) | [repeat](https://open.spotify.com/album/0Zryy6U8gekzpPwrciTF5f) | 2:42 | 2023-01-26 |  |
 | [revenge](https://open.spotify.com/track/1Mq8BdG6aNUqZnDe5Ca4e1) | [Godly the Ruler](https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp), [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC) | [revenge](https://open.spotify.com/album/5IS1yIRaMXCLq4tN3yTzTK) | 2:19 | 2023-04-21 |  |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-12-04 | 2023-03-08 |
+| [run](https://open.spotify.com/track/4K8xpTfr5k0dwaModQtgH8) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [run](https://open.spotify.com/album/2jcKI96BUu7wwH5N2vqM1K) | 2:15 | 2023-04-28 |  |
 | [save yourself first](https://open.spotify.com/track/4AtzMzc06H8izlD8d6AYAT) | [contradash](https://open.spotify.com/artist/1pVa1yITCEfqfAvQaaHvAt) | [save yourself first](https://open.spotify.com/album/6akubgzy3EgF3jr08fDecs) | 2:46 | 2022-12-04 | 2023-04-15 |
 | [Send My Love](https://open.spotify.com/track/19peDv7OzX8XnQx6nAomoM) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX) | [Send My Love](https://open.spotify.com/album/3vhMcEy0QNZ0S7uE7yu30K) | 2:33 | 2023-02-24 |  |
 | [SET YOU FREE](https://open.spotify.com/track/6dU35fmLnM6yB8tCySkvwC) | [chase plato](https://open.spotify.com/artist/6fhU5nl4JH1Umw2aiuCtYg) | [SET YOU FREE](https://open.spotify.com/album/44dlMu3kxAHKgQYxdqeZVQ) | 2:25 | 2022-12-04 |  |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-100 songs - 9 hr 39 min
+101 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,14 +90,15 @@
 | [Reflected Wisdom \- Five Phases Project \(4/5\)](https://open.spotify.com/track/24yUM08mhAzWSLvCQultZY) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Five Phases \- Reflected Wisdom](https://open.spotify.com/album/50Dg2MYfTZ8NPXmcX6lh2e) | 4:59 | 2023-02-15 |  |
 | [Sixth Dimension \- Original Mix](https://open.spotify.com/track/3XYeV9fGkgqRAP5itt4idN) | [Paride Saraceni](https://open.spotify.com/artist/4QoLfjVJzb5qdQaXQFxlri) | [Uncaged](https://open.spotify.com/album/6t44782ZfajOL57wgcmgyl) | 6:17 | 2023-02-15 |  |
 | [So What](https://open.spotify.com/track/73hU9Ye6vhw2STDJDwkviE) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [So What](https://open.spotify.com/album/5vuLKoA348KeFLl9ItykkH) | 4:21 | 2023-02-15 |  |
-| [Streetlands](https://open.spotify.com/track/3G3wD7ovEtCLcrljv6IYRd) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Streetlands EP](https://open.spotify.com/album/5ahm26Lxj4lpSs6Cd5IhUe) | 14:15 | 2023-02-15 |  |
+| [Streetlands](https://open.spotify.com/track/3G3wD7ovEtCLcrljv6IYRd) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Streetlands EP](https://open.spotify.com/album/5ahm26Lxj4lpSs6Cd5IhUe) | 14:15 | 2023-02-15 | 2023-04-29 |
+| [Streetlands](https://open.spotify.com/track/55PZY75Fpf26SiiTohiov8) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Streetlands EP](https://open.spotify.com/album/7DWTPht64rxNCelkEGQwxO) | 14:15 | 2023-03-23 |  |
 | [System Failure](https://open.spotify.com/track/4wqODsXdZXMykBJ8xLfZO4) | [Ubbah](https://open.spotify.com/artist/0gSdePQqsO1geT47TcEMal) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 6:58 | 2022-10-05 | 2023-02-16 |
 | [Talisman](https://open.spotify.com/track/49DxOD6FneLziQQZWHfwv7) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [All Encores](https://open.spotify.com/album/5fHIn0grAPQdsjXe7KtSFj) | 4:02 | 2023-03-23 |  |
 | [The Answer](https://open.spotify.com/track/2itJP0FWfjtboZdfE9A8EL) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Explore Your Future](https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B) | 4:09 | 2023-03-23 |  |
 | [The Feeling \- 2022 Remaster](https://open.spotify.com/track/4ZhVRSxT1JP0SWp4VF0EL9) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [In My System EP](https://open.spotify.com/album/1ameR5VQ6NncBeudL8K78R) | 6:08 | 2022-10-05 |  |
 | [The Sign](https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [The Sign](https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb) | 3:33 | 2022-11-07 |  |
 | [The Witness](https://open.spotify.com/track/6eSP8lYRRCx7IgxdwDCEd6) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564), [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI) | [The Witness EP](https://open.spotify.com/album/5rCCueOoszcB562Okhz13f) | 7:03 | 2022-10-05 |  |
-| [This Version Of You \(feat\. Julianna Barwick\) \- Joseph Ray Remix](https://open.spotify.com/track/1oWf71EPQVlawCcygiCbMy) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [The Last Goodbye Remixes N°.2](https://open.spotify.com/album/6DKA6hXo5KPvSBGLUL1kky) | 4:11 | 2023-02-15 |  |
+| [This Version Of You \- Joseph Ray Remix](https://open.spotify.com/track/1oWf71EPQVlawCcygiCbMy) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [The Last Goodbye Remixes N°.2](https://open.spotify.com/album/6DKA6hXo5KPvSBGLUL1kky) | 4:11 | 2023-02-15 |  |
 | [To Hope](https://open.spotify.com/track/3jrHkWKbFMpv0h47O1oWJC) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [To Hope](https://open.spotify.com/album/0eauXE0fq4hMmVlzFUnXqs) | 3:16 | 2023-03-23 |  |
 | [Try](https://open.spotify.com/track/12Pnf23BSnTZTTOOrzYBIu) | [Ivory \(IT\)](https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr) | [Feelin'](https://open.spotify.com/album/6g67MU2G9JmsIvuXf0yY9x) | 3:39 | 2023-02-15 |  |
 | [Turn On The Lights again.\. \(feat\. Future\) \- Anyma Remix](https://open.spotify.com/track/4ptnQ0kQnN1U1Ig8TSslj6) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn On The Lights again.\. \(feat\. Future\) \[Remixes\]](https://open.spotify.com/album/71yJ0XH2iQA1uOk5CE95fx) | 4:13 | 2023-02-15 |  |

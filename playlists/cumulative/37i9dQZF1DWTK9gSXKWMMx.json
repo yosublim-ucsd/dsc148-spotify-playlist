@@ -517,6 +517,24 @@
     },
     {
       "album": {
+        "name": "Harper Street Blues",
+        "url": "https://open.spotify.com/album/65XVY3REOEASfhR6WhvAiW"
+      },
+      "artists": [
+        {
+          "name": "Neil Dunker",
+          "url": "https://open.spotify.com/artist/0tJbegEI1Xa3pUnlGhwph8"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107608,
+      "name": "Harper Street Blues",
+      "url": "https://open.spotify.com/track/6gvGs82KUQSdH7Rp7AWTGj"
+    },
+    {
+      "album": {
         "name": "Piano Major Blues (Playing Major Blues Scales & Songs on the Piano for Moderate Level Pianists)",
         "url": "https://open.spotify.com/album/6UhMk0Z2lwzbXpEnKmlPlh"
       },

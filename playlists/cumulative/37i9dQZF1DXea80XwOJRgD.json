@@ -1442,10 +1442,32 @@
       ],
       "date_added": "2017-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 200146,
       "name": "So Good Today (feat. The Dap-Kings)",
       "url": "https://open.spotify.com/track/0jJSIuK4FbK3yisVwGGMus"
+    },
+    {
+      "album": {
+        "name": "Welcome to the Remixes",
+        "url": "https://open.spotify.com/album/3DnQGTavEHxPUM8FnkAjy9"
+      },
+      "artists": [
+        {
+          "name": "Ben Westbeech",
+          "url": "https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM"
+        },
+        {
+          "name": "The Dap-Kings",
+          "url": "https://open.spotify.com/artist/2HEQPwrF1aP28bTk1GCONU"
+        }
+      ],
+      "date_added": "2017-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200146,
+      "name": "So Good Today (feat. The Dap-Kings)",
+      "url": "https://open.spotify.com/track/256ON2IeHHjywvuDUUl0mB"
     },
     {
       "album": {

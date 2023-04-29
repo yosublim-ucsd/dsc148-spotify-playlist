@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 
 > From '56 to '76 \- the original volcanic revolutionaries from Rock 'n' Roll, Garage, Psych, Trash, Kraut, Glam and Prog...
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,079 likes - 131 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,176 likes - 131 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 9 | [I Can't Explain \- Mono Version](https://open.spotify.com/track/4B3gkbr7aGC2sujjgivK0s) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(50th Anniversary / Super Deluxe\)](https://open.spotify.com/album/0ooEHMMu3yiwnFwNYHcqwX) | 2:05 |
 | 10 | [Free Money](https://open.spotify.com/track/1wP1qnWy0cZWxnbWkzf9La) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 3:52 |
 | 11 | [Send Me A Postcard](https://open.spotify.com/track/6EXOSA4BWBM1AUsXxKwYDT) | [Shocking Blue](https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk) | [Scorpio's Dance](https://open.spotify.com/album/0JqylHtd5MjYXBG2zypr0T) | 2:40 |
-| 12 | [I'm Five Years Ahead of My Time](https://open.spotify.com/track/15g66KeELSbN00rFTweCj8) | [The Third Bardo](https://open.spotify.com/artist/6SdO3dLXggmHcby5EkO06o) | [I'm Five Years Ahead of My Time](https://open.spotify.com/album/4m178B3EPDzMyOrrJvFS7u) | 2:16 |
+| 12 | [I'm Five Years Ahead of My Time](https://open.spotify.com/track/7tdPaJEmAVKrqMQh1YtlP3) | [The Third Bardo](https://open.spotify.com/artist/6SdO3dLXggmHcby5EkO06o) | [I'm Five Years Ahead of My Time](https://open.spotify.com/album/5KPFfApr6yPp50whO9kYV9) | 2:16 |
 | 13 | [Alone Again Or \- 2015 Remaster](https://open.spotify.com/track/1XuccRABkfUVB4FjSVhjL1) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Forever Changes \(2015 Remaster\)](https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6) | 3:17 |
 | 14 | [Trash](https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:08 |
 | 15 | [Gloria \(feat\. Van Morrison\) \- Stereo Version](https://open.spotify.com/track/1DKyFVzIh1oa1fFnEmTkIl) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [The Essential Van Morrison](https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa) | 2:36 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 21 | [Paranoid \- 2012 \- Remaster](https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 2:48 |
 | 22 | [Rebel Rebel \- 2016 Remaster](https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Diamond Dogs \(2016 Remaster\)](https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3) | 4:34 |
 | 23 | [Last Caress](https://open.spotify.com/track/0S8LgLoseDB6W2HWd1ym6P) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey), [Glenn Danzig](https://open.spotify.com/artist/71OjDxLFjWGQFpzU1VpN5d) | [Collection 2](https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD) | 1:59 |
-| 24 | [Hero](https://open.spotify.com/track/4I6yqyOzRr3gI0yjVfYVBq) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [NEU! 75](https://open.spotify.com/album/7B9AA0Yw2rGbOVZ2ExZjE2) | 7:11 |
+| 24 | [Hero](https://open.spotify.com/track/4iqaKbwNE9QrydAKTWjVAc) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [NEU! 75](https://open.spotify.com/album/5IfMU7lyImyEwhNEsGSV9l) | 7:11 |
 | 25 | [Nadir's Big Chance \- 2006 Digital Remaster](https://open.spotify.com/track/4tu0NNBNeVMIjMznKBHjtn) | [Peter Hammill](https://open.spotify.com/artist/7uBH52YnXUbJ0ssoyNqQTB) | [Nadir's Big Chance](https://open.spotify.com/album/0BDKAyEOyGkWLNkXIf53S3) | 3:33 |
 | 26 | [Blitzkrieg Bop \- 2016 Remaster](https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:14 |
 | 27 | [Ever Fallen in Love \(With Someone You Shouldn't've?\) \- 1996 Remastered Version](https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Love Bites](https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg) | 2:43 |
@@ -123,7 +123,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 113 | [What'Cha Gonna Do About It](https://open.spotify.com/track/7j28MOpTJKGFms9xGhxOVf) | [Small Faces](https://open.spotify.com/artist/1YqGsKpdixxSVgpfaL2AEQ) | [The Small Faces](https://open.spotify.com/album/56tQ2ATbM60lD1YZ74mkEA) | 1:57 |
 | 114 | [My Generation \- Stereo Version](https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(Stereo Version\)](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) | 3:18 |
 | 115 | [God Save the Queen](https://open.spotify.com/track/6ui6l3ZNvlrGQZArwo8195) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:20 |
-| 116 | [Revenge](https://open.spotify.com/track/5M3RDLWElgOJY1DC5KBrdY) | [The Others](https://open.spotify.com/artist/5zSQQxDwEPGOXIcjdbuhWz) | [Revenge / I'm in Need](https://open.spotify.com/album/6Pedbdxv8nEaQfdM4IkYqk) | 2:00 |
+| 116 | [Revenge](https://open.spotify.com/track/3pofbd9y6IPR40irPdAxJ4) | [The Others](https://open.spotify.com/artist/5zSQQxDwEPGOXIcjdbuhWz) | [Revenge / I'm in Need](https://open.spotify.com/album/4PV0WJUOC8p3aJGTYpPU66) | 2:00 |
 | 117 | [Night of the Vampire](https://open.spotify.com/track/3cFAVjQU2q3vX3l0omsx5h) | [The Moontrekkers](https://open.spotify.com/artist/68tbCkKG4XXBXCr1nuWX0Y) | [100 Rockin’ Instrumentals \- ‘50s & ‘60s](https://open.spotify.com/album/0pHJOnCMLl0u6ywvaar64L) | 2:51 |
 | 118 | [Mystery Train](https://open.spotify.com/track/0GvhHQbWSnGltjl0je61dI) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [For LP Fans Only](https://open.spotify.com/album/1NVsMlJgD5GHf0CT1IewbU) | 2:24 |
 | 119 | [Brand New Cadillac](https://open.spotify.com/track/0CJ3EmwyofCmDljpoKecQR) | [Vince Taylor & His Playboys](https://open.spotify.com/artist/1NnCrPjtSLFHulsEZdLSEg) | [British Beat Before The Beatles 1955\-1962](https://open.spotify.com/album/0eDIvG3ep58ZKfox9KojyE) | 2:37 |
@@ -132,7 +132,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 122 | [I Don’t Mind \(1965\)](https://open.spotify.com/track/2z7pYFxOeSJbsNuQxW4XvR) | [MC5](https://open.spotify.com/artist/4WquJweZPIK9qcfVFhTKvf) | [The Anthology 1965\-1971](https://open.spotify.com/album/6dQ1UaaiYqkubZz0QscTfG) | 3:02 |
 | 123 | [Great Balls Of Fire](https://open.spotify.com/track/64VP3skE86iTvdOlbzuIcO) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Jerry Lee's Greatest](https://open.spotify.com/album/02FCCye8QsWyjHwedg9Quj) | 1:51 |
 | 124 | [Primitive](https://open.spotify.com/track/0HrlxL4mc9bZID89SqUp2u) | [The Groupies](https://open.spotify.com/artist/4ngoUfa27SIb0Xytpvml6r) | [Primitive](https://open.spotify.com/album/2o9H4BuxkeSOaUuM3bxCQv) | 3:32 |
-| 125 | [Action Woman](https://open.spotify.com/track/1f2iytT4krAsbokqIv1JVO) | [The Litter](https://open.spotify.com/artist/6wvtyGNtNtLlkHONVzOocm) | [Distortions](https://open.spotify.com/album/0L7ktraAFQOxPHgK2zLbyf) | 2:34 |
+| 125 | [Action Woman](https://open.spotify.com/track/08T9ONipiFiuJSoXm8vag3) | [The Litter](https://open.spotify.com/artist/6wvtyGNtNtLlkHONVzOocm) | [Distortions](https://open.spotify.com/album/1jNPpX5H1F1xJNQR8Xe2CF) | 2:34 |
 | 126 | [My Woman](https://open.spotify.com/track/5mMMmstf9c6JPCWoAoLhAV) | [Woody Carr and the El Caminos](https://open.spotify.com/artist/5pGfpJyouNzLhKTJNUZbud) | [Shout! \- Northwest Killers, Vol\. 2](https://open.spotify.com/album/7iGmEkuK1SPpiEsqcO6TIW) | 2:24 |
 | 127 | [I Put a Spell On You](https://open.spotify.com/track/7rCchsJktyFH0MB5SIpnbN) | [Screamin' Jay Hawkins](https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z) | [Cow Fingers And Mosquito Pie](https://open.spotify.com/album/16nzhLsiR9jdeDmifDz4pQ) | 2:25 |
 | 128 | [Shakin' All Over](https://open.spotify.com/track/5rLTTa31EzWdvYZ5K7koDc) | [Johnny Kidd & The Pirates](https://open.spotify.com/artist/52y1cRHUkI0kQqIXCg6JuZ) | [British Beat Before The Beatles 1955\-1962](https://open.spotify.com/album/0eDIvG3ep58ZKfox9KojyE) | 2:21 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 130 | [She's About a Mover](https://open.spotify.com/track/6ZYvCY3zyajhHunwbDrCtx) | [Sir Douglas Quintet](https://open.spotify.com/artist/3A2UXqQgMDJ3YNvLPyX5NW) | [Walking the Streets](https://open.spotify.com/album/17MHW0ENg57rfMGXYtNkvV) | 2:25 |
 | 131 | [I Can't Control Myself \(Rerecorded\)](https://open.spotify.com/track/2ISCW0bzi9Zsv6eKCqXVZq) | [The Troggs](https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25) | [This Is the Troggs \(Rerecorded\)](https://open.spotify.com/album/2Co201A4jYUYrDtrmReNJD) | 3:06 |
 
-Snapshot ID: `MCxiZjI1MmQyY2RkNzYxYzBhNTYwOGI2NGI2Mzk4YTQyN2IyN2Y1YTdm`
+Snapshot ID: `MCw4N2M5ODc3MjU5ZTc1NTA2NTExNjE0ZTFkN2ZjOWMyZmEzNTM2ODgy`

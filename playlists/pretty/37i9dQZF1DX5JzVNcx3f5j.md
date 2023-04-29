@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JzVNcx3f5j.md) - [plain]
 
 > Music from "Gintama" Series !「銀魂」シリーズの楽曲を1つのプレイリストで。 ©空知英秋／集英社・テレビ東京・電通・BNP・アニプレックス
 
-[Spotify](https://open.spotify.com/user/spotify) - 198 likes - 85 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,711 likes - 87 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,15 +83,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JzVNcx3f5j.md) - [plain]
 | 73 | [I Wanna Be...](https://open.spotify.com/track/5fpFbvJO6MQ2MgFSLwi86D) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [I Wanna Be...](https://open.spotify.com/album/3ymMxpfCF7NC6aqWktAe7n) | 3:56 |
 | 74 | [ヒカリ証明論](https://open.spotify.com/track/1gTilQEziwJYdBHDPfXcX1) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ヒカリ証明論](https://open.spotify.com/album/75ffnBvgLbwr4WKiHWMPul) | 4:34 |
 | 75 | [現状ディストラクション](https://open.spotify.com/track/462keQ2Wy97KlyxQgkZtvP) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [現状ディストラクション](https://open.spotify.com/album/2AGQq7BbAdfkHgnmkIMbNc) | 3:37 |
-| 76 | [てめーらァァァ!!それでも銀魂ついてんのかァァァ! 完結篇](https://open.spotify.com/track/7xJ8QVKSKIBB1fsYjd6fkN) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [劇場版「銀魂 完結篇 万事屋よ永遠なれ」オリジナル・サウンドトラック](https://open.spotify.com/album/3BMsvEmE4lJC959CynD3PY) | 3:02 |
-| 77 | [今回の映画そーいうカンジなの?](https://open.spotify.com/track/6GlKfIUqFplXF2EU44nKkt) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [劇場版「銀魂 完結篇 万事屋よ永遠なれ」オリジナル・サウンドトラック](https://open.spotify.com/album/3BMsvEmE4lJC959CynD3PY) | 0:58 |
-| 78 | [もう何も心配はいらねーよ](https://open.spotify.com/track/2F9zZYlTeHQVKoejpglfQX) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [劇場版「銀魂 完結篇 万事屋よ永遠なれ」オリジナル・サウンドトラック](https://open.spotify.com/album/3BMsvEmE4lJC959CynD3PY) | 0:59 |
-| 79 | [この目蓋の奥に](https://open.spotify.com/track/3zJet1WJuSQN97eoD2XXh5) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂 オリジナル・サウンドトラック 5](https://open.spotify.com/album/4onY2AucPIIiAKNOYbtHTU) | 2:10 |
-| 80 | [朝と夜の死神](https://open.spotify.com/track/3nL62YbS4QSbCqzUXIlqKO) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂 オリジナル・サウンドトラック 5](https://open.spotify.com/album/4onY2AucPIIiAKNOYbtHTU) | 2:04 |
-| 81 | [剣の記憶](https://open.spotify.com/track/7I6JJl9SOJaofq4l3at8Fv) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂 オリジナル・サウンドトラック 5](https://open.spotify.com/album/4onY2AucPIIiAKNOYbtHTU) | 2:07 |
-| 82 | [流れ作業でテイクオフ](https://open.spotify.com/track/5AGaGaEPQgcRPVveILOILo) | [かぶき町合唱団](https://open.spotify.com/artist/2vH4NTsdlhn5DNP3KACyvN) | [銀魂 オリジナル・サウンドトラック 5](https://open.spotify.com/album/4onY2AucPIIiAKNOYbtHTU) | 1:44 |
-| 83 | [真選組の道](https://open.spotify.com/track/5BwgiyAc1BkVNax6pkTJn8) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂 オリジナル・サウンドトラック 5](https://open.spotify.com/album/4onY2AucPIIiAKNOYbtHTU) | 1:52 |
-| 84 | [二百四十六勝、二百四十七敗](https://open.spotify.com/track/5LX24pCdgqUlSOxcImetIG) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [映画「銀魂 THE FINAL」オリジナル・サウンドトラック](https://open.spotify.com/album/7IY4Ti6kPUNW2tEknao1JY) | 3:02 |
-| 85 | [在りし日](https://open.spotify.com/track/0bU5zspmMwLzT8DBvMGC5V) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [映画「銀魂 THE FINAL」オリジナル・サウンドトラック](https://open.spotify.com/album/7IY4Ti6kPUNW2tEknao1JY) | 1:45 |
+| 76 | [道楽心情](https://open.spotify.com/track/5sFRbi81LzEk9ENVUVs81h) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [道楽心情](https://open.spotify.com/album/0U7oKS8tnOvaeDlBilqYX7) | 3:49 |
+| 77 | [ブレイクダウン](https://open.spotify.com/track/48a9tMP9KQsrjZHX63YwTX) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [道楽心情](https://open.spotify.com/album/0U7oKS8tnOvaeDlBilqYX7) | 5:00 |
+| 78 | [てめーらァァァ!!それでも銀魂ついてんのかァァァ! 完結篇](https://open.spotify.com/track/7xJ8QVKSKIBB1fsYjd6fkN) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [劇場版「銀魂 完結篇 万事屋よ永遠なれ」オリジナル・サウンドトラック](https://open.spotify.com/album/3BMsvEmE4lJC959CynD3PY) | 3:02 |
+| 79 | [今回の映画そーいうカンジなの?](https://open.spotify.com/track/6GlKfIUqFplXF2EU44nKkt) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [劇場版「銀魂 完結篇 万事屋よ永遠なれ」オリジナル・サウンドトラック](https://open.spotify.com/album/3BMsvEmE4lJC959CynD3PY) | 0:58 |
+| 80 | [もう何も心配はいらねーよ](https://open.spotify.com/track/2F9zZYlTeHQVKoejpglfQX) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [劇場版「銀魂 完結篇 万事屋よ永遠なれ」オリジナル・サウンドトラック](https://open.spotify.com/album/3BMsvEmE4lJC959CynD3PY) | 0:59 |
+| 81 | [この目蓋の奥に](https://open.spotify.com/track/3zJet1WJuSQN97eoD2XXh5) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂 オリジナル・サウンドトラック 5](https://open.spotify.com/album/4onY2AucPIIiAKNOYbtHTU) | 2:10 |
+| 82 | [朝と夜の死神](https://open.spotify.com/track/3nL62YbS4QSbCqzUXIlqKO) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂 オリジナル・サウンドトラック 5](https://open.spotify.com/album/4onY2AucPIIiAKNOYbtHTU) | 2:04 |
+| 83 | [剣の記憶](https://open.spotify.com/track/7I6JJl9SOJaofq4l3at8Fv) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂 オリジナル・サウンドトラック 5](https://open.spotify.com/album/4onY2AucPIIiAKNOYbtHTU) | 2:07 |
+| 84 | [流れ作業でテイクオフ](https://open.spotify.com/track/5AGaGaEPQgcRPVveILOILo) | [かぶき町合唱団](https://open.spotify.com/artist/2vH4NTsdlhn5DNP3KACyvN) | [銀魂 オリジナル・サウンドトラック 5](https://open.spotify.com/album/4onY2AucPIIiAKNOYbtHTU) | 1:44 |
+| 85 | [真選組の道](https://open.spotify.com/track/5BwgiyAc1BkVNax6pkTJn8) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂 オリジナル・サウンドトラック 5](https://open.spotify.com/album/4onY2AucPIIiAKNOYbtHTU) | 1:52 |
+| 86 | [二百四十六勝、二百四十七敗](https://open.spotify.com/track/5LX24pCdgqUlSOxcImetIG) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [映画「銀魂 THE FINAL」オリジナル・サウンドトラック](https://open.spotify.com/album/7IY4Ti6kPUNW2tEknao1JY) | 3:02 |
+| 87 | [在りし日](https://open.spotify.com/track/0bU5zspmMwLzT8DBvMGC5V) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [映画「銀魂 THE FINAL」オリジナル・サウンドトラック](https://open.spotify.com/album/7IY4Ti6kPUNW2tEknao1JY) | 1:45 |
 
-Snapshot ID: `MCxhNWUyZTMzZjMwYmM4YjQ5YTMwODQ2ZDI3ZGMwM2IxY2FlZjQzZjU4`
+Snapshot ID: `MCwzYzliMWE0Yzc1NzVjZWFjZWZkNDY0MzJmYjhkNjVkMzQwMGI4OTJk`

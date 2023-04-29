@@ -1,44 +1,28 @@
 {
-  "description": "make it pop! cover: AJR",
-  "num_followers": 204108,
+  "description": "make it pop! cover: The Aces",
+  "num_followers": 204169,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDQyZDgxNDdjZjlmODM5NWE5MWY4YWRhYzA1OTkwZmIzMTYyY2Vi",
+  "snapshot_id": "MCxkNWIxMWFjZmMzMjAwZjc1ZWNkOWU2MThhZDBmNDE4N2MzNGY4MTFm",
   "tracks": [
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "The Dumb Song",
-        "url": "https://open.spotify.com/album/1W2Srir1JwdyDQMrN66CF5"
+        "name": "I've Loved You For So Long",
+        "url": "https://open.spotify.com/album/1d4SG4S7oEKwHcPCyQsC2J"
       },
       "artists": [
         {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
         }
       ],
-      "duration_ms": 226250,
-      "name": "The Dumb Song",
-      "url": "https://open.spotify.com/track/5udkv8BEG1sAN5ZtR6CAzv"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "One That Got Away",
-        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 232266,
-      "name": "One That Got Away",
-      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
+      "duration_ms": 176423,
+      "name": "I've Loved You For So Long",
+      "url": "https://open.spotify.com/track/0j1AlYnUBAiYOuVBDwCT20"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -57,6 +41,86 @@
       "url": "https://open.spotify.com/track/5K6VtWfjGkk1ahcVmPKbL9"
     },
     {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "The Dumb Song",
+        "url": "https://open.spotify.com/album/1W2Srir1JwdyDQMrN66CF5"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 226250,
+      "name": "The Dumb Song",
+      "url": "https://open.spotify.com/track/5udkv8BEG1sAN5ZtR6CAzv"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Fireworks",
+        "url": "https://open.spotify.com/album/6CIPuH9t8tX5p5fjuUFr2Q"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "duration_ms": 198146,
+      "name": "Fireworks",
+      "url": "https://open.spotify.com/track/2bzo9vmgupmbM5VFuRl0ig"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Break For You",
+        "url": "https://open.spotify.com/album/6mRtETwPNimVfkeyKOMzBH"
+      },
+      "artists": [
+        {
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        }
+      ],
+      "duration_ms": 154885,
+      "name": "Break For You",
+      "url": "https://open.spotify.com/track/3Y37BUtMctTp22i1LC1sE7"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "One That Got Away",
+        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 232266,
+      "name": "One That Got Away",
+      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "i really like being here",
+        "url": "https://open.spotify.com/album/37CgwpUsINEYuVPdYG9Ub1"
+      },
+      "artists": [
+        {
+          "name": "Forrest Nolan",
+          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
+        }
+      ],
+      "duration_ms": 162333,
+      "name": "boyfriends/girlfriends",
+      "url": "https://open.spotify.com/track/6pnGJhKuluYoxJMuJwuhy0"
+    },
+    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Change",
@@ -71,6 +135,22 @@
       "duration_ms": 222133,
       "name": "Change",
       "url": "https://open.spotify.com/track/1m1WkrpWMJ5ic1D0oLd5EF"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "bubble boi",
+        "url": "https://open.spotify.com/album/2DlARJZSNkxBMXQ1xqGug8"
+      },
+      "artists": [
+        {
+          "name": "benny mayne",
+          "url": "https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "bubble boi",
+      "url": "https://open.spotify.com/track/0g1o9HmpAmCLYYDESbhfZm"
     },
     {
       "added_at": "2023-04-24 14:28:45",
@@ -89,20 +169,36 @@
       "url": "https://open.spotify.com/track/7soY9QzpSB9vI1LKwVxDuY"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Stargirl",
-        "url": "https://open.spotify.com/album/61RHJE3TKzvkgRtozvA9oE"
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l"
       },
       "artists": [
         {
-          "name": "Eddie Benjamin",
-          "url": "https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn"
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
         }
       ],
-      "duration_ms": 173658,
-      "name": "Stargirl",
-      "url": "https://open.spotify.com/track/4aG9dDt76InHPsbv55xz1w"
+      "duration_ms": 190933,
+      "name": "Designer",
+      "url": "https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t"
+    },
+    {
+      "added_at": "2023-04-24 14:34:02",
+      "album": {
+        "name": "In The Night",
+        "url": "https://open.spotify.com/album/2tG3UA2b0uZhVge9N7bR0Z"
+      },
+      "artists": [
+        {
+          "name": "Fly By Midnight",
+          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "In The Night",
+      "url": "https://open.spotify.com/track/30Lcy59RiXJKMVVkwhfdle"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -119,6 +215,22 @@
       "duration_ms": 147008,
       "name": "DIGGIN U",
       "url": "https://open.spotify.com/track/0Ni50H8KZDx9WVaKHId38j"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Stargirl",
+        "url": "https://open.spotify.com/album/61RHJE3TKzvkgRtozvA9oE"
+      },
+      "artists": [
+        {
+          "name": "Eddie Benjamin",
+          "url": "https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn"
+        }
+      ],
+      "duration_ms": 173658,
+      "name": "Stargirl",
+      "url": "https://open.spotify.com/track/4aG9dDt76InHPsbv55xz1w"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -151,22 +263,6 @@
       "duration_ms": 195221,
       "name": "Hyperfixations",
       "url": "https://open.spotify.com/track/538Ouxq5iceDnEX9k87hQR"
-    },
-    {
-      "added_at": "2023-04-24 14:34:02",
-      "album": {
-        "name": "In The Night",
-        "url": "https://open.spotify.com/album/2tG3UA2b0uZhVge9N7bR0Z"
-      },
-      "artists": [
-        {
-          "name": "Fly By Midnight",
-          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "In The Night",
-      "url": "https://open.spotify.com/track/30Lcy59RiXJKMVVkwhfdle"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -507,22 +603,6 @@
       "duration_ms": 145128,
       "name": "i loved a boy",
       "url": "https://open.spotify.com/track/7fDBvYEvsInjsVWsnlWC0d"
-    },
-    {
-      "added_at": "2023-03-31 03:59:46",
-      "album": {
-        "name": "madwoman EP",
-        "url": "https://open.spotify.com/album/0kzWo1WLOms89dJaNSCdIw"
-      },
-      "artists": [
-        {
-          "name": "Annika Bennett",
-          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
-        }
-      ],
-      "duration_ms": 169501,
-      "name": "Red Hot",
-      "url": "https://open.spotify.com/track/2oBS99VNVMUPFp1m4S7Omn"
     },
     {
       "added_at": "2023-03-24 04:00:00",

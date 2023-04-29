@@ -119,6 +119,32 @@
     },
     {
       "album": {
+        "name": "Asesina",
+        "url": "https://open.spotify.com/album/1kP6iGltU5xfoZh7u1ipLn"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197983,
+      "name": "Asesina",
+      "url": "https://open.spotify.com/track/2MOLpaE8R8rP98fPTizwPw"
+    },
+    {
+      "album": {
         "name": "Bandera",
         "url": "https://open.spotify.com/album/0f3uhIYi9PccAtszSB6AcM"
       },

@@ -1,18 +1,18 @@
 {
   "description": "A new take on a classic sound. Cover: Jessie Ware",
-  "num_followers": 84822,
+  "num_followers": 84946,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWU1Y2Q0ODc0Y2Y5YWRiZGExYTAzOGRiMTQxNWEwZTAyNzM0ZTY2",
+  "snapshot_id": "MCwwZmZkNWVkMDAyYWM5NDIyYjI5M2U4MDIwMzI5NTA4YmFlYzkxNzUy",
   "tracks": [
     {
-      "added_at": "2023-04-14 04:01:00",
+      "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/5uvyLKCk0xALxoSlBEzP21"
+        "name": "That! Feels Good!",
+        "url": "https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
         }
       ],
-      "duration_ms": 217272,
-      "name": "Begin Again - Single Edit",
-      "url": "https://open.spotify.com/track/36CGnEiFk8rGx0R14aW1Dw"
+      "duration_ms": 208280,
+      "name": "Freak Me Now",
+      "url": "https://open.spotify.com/track/2WMlWvN0y7xoOEtftxdHvz"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -51,6 +51,26 @@
       "duration_ms": 179037,
       "name": "Missing You - Michael Gray Remix",
       "url": "https://open.spotify.com/track/0siT9iz6YIO3GlQbvzZEet"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Versace Eros",
+        "url": "https://open.spotify.com/album/72QT6rIPoVLQnnXY9lTqxA"
+      },
+      "artists": [
+        {
+          "name": "French Horn Rebellion",
+          "url": "https://open.spotify.com/artist/6G5wDM1Vmsscql7qRtcLH0"
+        },
+        {
+          "name": "Sin\u00e9",
+          "url": "https://open.spotify.com/artist/5HYaLf4JMuWw7OrO01YFiN"
+        }
+      ],
+      "duration_ms": 167579,
+      "name": "Versace Eros",
+      "url": "https://open.spotify.com/track/1hmB8Gq2YdiFISOZGDnfaH"
     },
     {
       "added_at": "2023-02-17 05:01:00",
@@ -85,6 +105,26 @@
       "url": "https://open.spotify.com/track/1e6PNxI4pymbrv25cmKX9T"
     },
     {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Sick of Sadness (Lenno Remix)",
+        "url": "https://open.spotify.com/album/6gtJFIDauQWU9t8hq3tVzP"
+      },
+      "artists": [
+        {
+          "name": "Chloe Jane",
+          "url": "https://open.spotify.com/artist/37YnbbW3oQAg9L3qYho0rv"
+        },
+        {
+          "name": "Lenno",
+          "url": "https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7"
+        }
+      ],
+      "duration_ms": 292428,
+      "name": "Sick of Sadness - Lenno Remix",
+      "url": "https://open.spotify.com/track/68xWjTE614YgMSGWNjnKny"
+    },
+    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Take Your Time (Do It Right)",
@@ -103,6 +143,38 @@
       "duration_ms": 242115,
       "name": "Take Your Time (Do It Right)",
       "url": "https://open.spotify.com/track/76cVBDPi7Z9ZA74OBow3kY"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "HOT",
+        "url": "https://open.spotify.com/album/1KmisFnVTIct9oBmATe41I"
+      },
+      "artists": [
+        {
+          "name": "La Felix",
+          "url": "https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj"
+        }
+      ],
+      "duration_ms": 218110,
+      "name": "HOT",
+      "url": "https://open.spotify.com/track/1UVRdZRAiW3GomKSg81PLE"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/5uvyLKCk0xALxoSlBEzP21"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 217272,
+      "name": "Begin Again - Single Edit",
+      "url": "https://open.spotify.com/track/36CGnEiFk8rGx0R14aW1Dw"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -159,6 +231,22 @@
       "duration_ms": 228829,
       "name": "You\u2019re Gonna Make Me Love Somebody Else (feat. Kelli Sae) - Michael Gray Remix",
       "url": "https://open.spotify.com/track/6co4kLDedobQeZFVSp523C"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Jet Fuel",
+        "url": "https://open.spotify.com/album/0p0iHnopoBiApdvABd9T0u"
+      },
+      "artists": [
+        {
+          "name": "DiRTY RADiO",
+          "url": "https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x"
+        }
+      ],
+      "duration_ms": 162325,
+      "name": "Jet Fuel",
+      "url": "https://open.spotify.com/track/2KiEnTzDtNEGrEDcZGUHpZ"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -627,42 +715,6 @@
       "duration_ms": 253723,
       "name": "Slow Song (with Dragonette)",
       "url": "https://open.spotify.com/track/6zTbYrkYJSiNOw6jL7nM5H"
-    },
-    {
-      "added_at": "2023-02-10 05:01:00",
-      "album": {
-        "name": "Bodytalk",
-        "url": "https://open.spotify.com/album/2X38HpZw3L5kXOq5DrwO2N"
-      },
-      "artists": [
-        {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
-        },
-        {
-          "name": "Ninetails",
-          "url": "https://open.spotify.com/artist/6rhYa3MFqd5BLCRqtytA7q"
-        }
-      ],
-      "duration_ms": 179003,
-      "name": "Bodytalk",
-      "url": "https://open.spotify.com/track/3pwQ80lVQUEZ7LA9ErKhTh"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
-        "name": "Is It Enough",
-        "url": "https://open.spotify.com/album/1aOGZLGCKrqd5ukZsWqygl"
-      },
-      "artists": [
-        {
-          "name": "Supertaste",
-          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
-        }
-      ],
-      "duration_ms": 235500,
-      "name": "Is It Enough",
-      "url": "https://open.spotify.com/track/0OZ80Lvoxxd0c0ig8O8scg"
     },
     {
       "added_at": "2023-01-27 05:01:00",
@@ -1529,22 +1581,6 @@
       "url": "https://open.spotify.com/track/2bDTVAXtb9TnavgAdZmeaO"
     },
     {
-      "added_at": "2023-02-10 05:01:00",
-      "album": {
-        "name": "I Found Love",
-        "url": "https://open.spotify.com/album/24YwbsdnQ76zJHuUKBDM9t"
-      },
-      "artists": [
-        {
-          "name": "Midnight Magic",
-          "url": "https://open.spotify.com/artist/3KuNrap7xPWVJCyBHAE4le"
-        }
-      ],
-      "duration_ms": 451750,
-      "name": "I Found Love",
-      "url": "https://open.spotify.com/track/4ZABvHWz0DV9YoHEs7s4ha"
-    },
-    {
       "added_at": "2022-09-30 04:01:00",
       "album": {
         "name": "Another Day Gone",
@@ -1857,22 +1893,6 @@
       "url": "https://open.spotify.com/track/3H22B0hgj1YTiqalHYmlcd"
     },
     {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/2nghY2vP2Muiv2moRoLdpf"
-      },
-      "artists": [
-        {
-          "name": "Never Dull",
-          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
-        }
-      ],
-      "duration_ms": 147169,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/420lSvUacrPEbvkgz8q0zk"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Alegr\u00eda (Franc Moody Remix)",
@@ -1895,22 +1915,6 @@
       "duration_ms": 228200,
       "name": "Alegr\u00eda (Franc Moody Remix)",
       "url": "https://open.spotify.com/track/4pXlg4wiARIhv0CHx0pFMd"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Tomorrow's Yesterdays",
-        "url": "https://open.spotify.com/album/20YnSENPukDCIyjvNxAZvW"
-      },
-      "artists": [
-        {
-          "name": "Little Boots",
-          "url": "https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30"
-        }
-      ],
-      "duration_ms": 224241,
-      "name": "Heavenly",
-      "url": "https://open.spotify.com/track/4HQj53RJeJ0hah1i8qF068"
     }
   ],
   "unique_name": "Nu-Disco",

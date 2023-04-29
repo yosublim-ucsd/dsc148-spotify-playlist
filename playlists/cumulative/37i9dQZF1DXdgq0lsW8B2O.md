@@ -4,7 +4,7 @@
 
 > Music from the early days of Ambient.
 
-57 songs - 8 hr 6 min
+58 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [2/1 \- Remastered 2004](https://open.spotify.com/track/1Qr6LFKNBFNNa2y6nMDO31) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 8:54 | 2021-12-23 |  |
 | [2/2 \- Remastered 2004](https://open.spotify.com/track/3QpN3dazIcMNqru0L1qLMt) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 9:38 | 2021-12-23 |  |
 | [Ahoi](https://open.spotify.com/track/13CJ6xGmEhTyMkFBQVGimJ) | [Harmonia](https://open.spotify.com/artist/0tHDVpPzMs1JqKTAuGQkQR) | [Musik Von Harmonia](https://open.spotify.com/album/4rfEDCRHa4TR9EtjHJpWge) | 5:13 | 2021-12-23 | 2022-07-29 |
-| [Ahoi](https://open.spotify.com/track/7w94KVag541zZxv9NduePc) | [Harmonia](https://open.spotify.com/artist/0tHDVpPzMs1JqKTAuGQkQR) | [Musik von Harmonia](https://open.spotify.com/album/5uPRvwQy9NmNMeEhgs99bW) | 5:13 | 2022-05-27 |  |
+| [Ahoi](https://open.spotify.com/track/3d1wCqEBcj5H2IgK9G3YHZ) | [Harmonia](https://open.spotify.com/artist/0tHDVpPzMs1JqKTAuGQkQR) | [Musik von Harmonia](https://open.spotify.com/album/0zgeYyYnRy7Gsedyzt7NpN) | 5:13 | 2022-12-30 |  |
+| [Ahoi](https://open.spotify.com/track/7w94KVag541zZxv9NduePc) | [Harmonia](https://open.spotify.com/artist/0tHDVpPzMs1JqKTAuGQkQR) | [Musik von Harmonia](https://open.spotify.com/album/5uPRvwQy9NmNMeEhgs99bW) | 5:13 | 2022-05-27 | 2023-04-29 |
 | [An Index Of Metals V](https://open.spotify.com/track/6eoQETbC7HlbRUOSQg5rHB) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 4:23 | 2021-12-23 |  |
 | [Ancient Leaves](https://open.spotify.com/track/1XWKSNngAvp3hs6w3cFWAs) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Collected Ambient & Textural Works 1977\-1987](https://open.spotify.com/album/0qTBGDCJp6R5BraUlhZlXq) | 4:35 | 2021-12-23 |  |
 | [Aries](https://open.spotify.com/track/33Y2YALzXqMQtBVSDcHOof) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 1:31 | 2021-12-23 |  |

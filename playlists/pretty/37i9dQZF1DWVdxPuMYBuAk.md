@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 
 > The official playlist for To All The Boys: Always and Forever\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,480 likes - 85 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,598 likes - 85 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,13 +85,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 | 75 | [Bad Ones \(feat\. Tegan and Sara\)](https://open.spotify.com/track/31AYjxq6VkR57EgcwAJFmO) | [Matthew Dear](https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Bunny](https://open.spotify.com/album/6ycHu5HE3kRz1HC2E5gtXo) | 4:32 |
 | 76 | [Gum \(Everybodys My Friend\)](https://open.spotify.com/track/4Y7dhKXjdG8mtKTvHj0EWJ) | [OYSTER KIDS](https://open.spotify.com/artist/5iN89s0E8GcsTkIvCtYMRa) | [Gum \(Everybodys My Friend\)](https://open.spotify.com/album/622MkcQxZlnXl1ltfrSLf8) | 3:02 |
 | 77 | [Nadir](https://open.spotify.com/track/5pGCxazPxShO5jBpOyM85f) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Modern Addiction](https://open.spotify.com/album/36uRsDIqy2qooBY9gum3qC) | 4:01 |
-| 78 | [Hypnotic Regression](https://open.spotify.com/track/0AIhZWdCh5A01W5ldiS6Z5) | [Girls Names](https://open.spotify.com/artist/4UAxwzDV5PYB11huf5Shs3) | [The New Life](https://open.spotify.com/album/7cUfFtYLowKwLNrrJiAxFj) | 3:48 |
+| 78 | [Hypnotic Regression](https://open.spotify.com/track/2afI9K1WRY5Nd1CWzfmF4x) | [Girls Names](https://open.spotify.com/artist/4UAxwzDV5PYB11huf5Shs3) | [The New Life](https://open.spotify.com/album/3x6T1vo4arlGrWZPNCD93N) | 3:48 |
 | 79 | [This / That](https://open.spotify.com/track/7sx3aDUXa9tSDcDqYhIcVI) | [Sarah Jaffe](https://open.spotify.com/artist/1z2SrszsRmq47kDhBAnyNS) | [Bad Baby](https://open.spotify.com/album/6Er2GVXW6JrjaYqAwVaPII) | 4:28 |
-| 80 | [Video Child](https://open.spotify.com/track/4kpRLUBWg4GSNlfmWuMil7) | [Many Voices Speak](https://open.spotify.com/artist/58F5GqfOMje69JMa2LIHD6) | [Away for All Time](https://open.spotify.com/album/1nvh4GtBzBIidFQyXaEDOz) | 5:00 |
+| 80 | [Video Child](https://open.spotify.com/track/6fZg6RPktKWrtKNH57nDzX) | [Many Voices Speak](https://open.spotify.com/artist/58F5GqfOMje69JMa2LIHD6) | [Away for All Time](https://open.spotify.com/album/1daG4UOWDraQHk7Jidm2q1) | 5:00 |
 | 81 | [Cool Out](https://open.spotify.com/track/0sVe9dSeNSisHB0OocGykj) | [Matthew E\. White](https://open.spotify.com/artist/58mMrwemoGIcDpvfHe46u4), [Natalie Prass](https://open.spotify.com/artist/0EmUT6i9rTu9ZHy1Tl1iuX) | [Cool Out](https://open.spotify.com/album/1vzpMBK4bvXFEBwLIy37Ey) | 4:22 |
 | 82 | [Lovers](https://open.spotify.com/track/6q8onrzcka32nGVrnWYGBQ) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct) | 3:35 |
 | 83 | [When I Dance with You](https://open.spotify.com/track/2GQia0YdSaFinMOz9koAXu) | [The Pains Of Being Pure At Heart](https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek) | [The Echo of Pleasure](https://open.spotify.com/album/53OcLnAgz2Pi9hgUyE0vGv) | 4:47 |
 | 84 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 |
 | 85 | [Then He Kissed Me](https://open.spotify.com/track/7jeOETwLUP84mPQzxlD5nh) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Da Doo Ron Ron: The Very Best of The Crystals](https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm) | 2:38 |
 
-Snapshot ID: `MCxiM2RhNTJjZjhlNzhlY2RlZmYyMzE3YmE3NGU5OGNkMzY1Y2I3MzU3`
+Snapshot ID: `MCwzMjY5OTM3NTA4YTBhMmE1MTdmZTljYmQ4NDVhODE3Y2NjN2Y3N2Jl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 
 > Where jazz meets classical, and classical meets jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,417 likes - 52 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,470 likes - 52 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 | 40 | [First Gymnopedie](https://open.spotify.com/track/2U0UZHljhqhX50VbzsKo0K) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Psychicemotus](https://open.spotify.com/album/4UqqaK6LJahK6O4dbSTEKP) | 3:27 |
 | 41 | [Grand Fantasy on Porgy and Bess: Summertime \(after G\. Gershwin\)](https://open.spotify.com/track/79yJzE3W5a5tTH6lZ6Sz1t) | [Earl Wild](https://open.spotify.com/artist/12Fk4SuKXPe97FaSVD6WHK), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M) | [Summertime](https://open.spotify.com/album/6xcBERmDaaQkKknPMYWgKa) | 3:29 |
 | 42 | [Mazurka No\. 1](https://open.spotify.com/track/0smHgnEPwiaUbeITveQEcg) | [European Jazz Trio](https://open.spotify.com/artist/4LTaFNJmsKqNvxGVhOVBXI) | [Classics](https://open.spotify.com/album/2Jsl2o6t5fxE90CTunCX91) | 4:14 |
-| 43 | ['Raindrop' Prélude in D\-flat major \(Op\. 28, No\. 15\)](https://open.spotify.com/track/3KwwWYRDpF5kSwm5sFrjWa) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP), [Jean\-Paul Brodbeck](https://open.spotify.com/artist/1ub8Ppat73nCF5bFhfTX02) | [The Chopin Project](https://open.spotify.com/album/5TcI5s6eZiAaR2f9nBsU1o) | 5:26 |
+| 43 | ['Raindrop' Prélude in D\-flat major \(Op\. 28, No\. 15\)](https://open.spotify.com/track/2NFFPpVALKAo6cG06AOvFC) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP), [Jean\-Paul Brodbeck](https://open.spotify.com/artist/1ub8Ppat73nCF5bFhfTX02) | [The Chopin Project](https://open.spotify.com/album/4jN3lzEIArxkTDjfe8vgMK) | 5:26 |
 | 44 | [Eight Concert Studies for Piano, Op\. 40: III\. Toccatina](https://open.spotify.com/track/1DCksP8NjTjm3i0qM96xCW) | [Nikolai Kapustin](https://open.spotify.com/artist/4zTPXx27j9bFvcnui3sRNI), [Yuja Wang](https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w) | [The Berlin Recital – Encores](https://open.spotify.com/album/1gPiHxv3TKb6UFBua8nWM8) | 2:06 |
 | 45 | [Clair de Lune](https://open.spotify.com/track/0kP8p4d5FIkXZicuWzXZNz) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Impromptu](https://open.spotify.com/album/59d7F7J0Ib4e2YEVWS1WQs) | 7:40 |
 | 46 | [931](https://open.spotify.com/track/3mxdQvIIltmVakO8btAP6P) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Dieter Ilg](https://open.spotify.com/artist/40isU54XsylSrbSXaFI5cl), [Rainer Böhm](https://open.spotify.com/artist/1BR0aqoHeE8tKmeXPCxx9C), [Patrice Heral](https://open.spotify.com/artist/3gSwRrdppBFWGY6NzLDmd1) | [B\-A\-C\-H](https://open.spotify.com/album/00Y9P5wIDLWoIA7rhTUqTP) | 4:28 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 | 51 | [Parker: Ornithology \(Arr\. Horsting for Recorder and Ensemble\)](https://open.spotify.com/track/3OCeWssFnu0U02ZrrmVEkF) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC), [Lucie Horsch](https://open.spotify.com/artist/452bvXDIbdFJ8L0Dye7kkn), [Fuse](https://open.spotify.com/artist/1FayrEV2WYTH8tzkxkWZzP) | [Parker: Ornithology \(Arr\. Horsting for Recorder and Ensemble\)](https://open.spotify.com/album/1gi2fFJa1ablewcCparDeG) | 2:50 |
 | 52 | [Turkish Rondo](https://open.spotify.com/track/2QJg3WPi2to3IOA3WfHBlO) | [Cyrus Chestnut](https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO) | [Kaleidoscope](https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b) | 3:37 |
 
-Snapshot ID: `MCwwODQzNDZjNDM0OWNhMmEyZDhjMGMxMGFmY2RmOTAwYzdjYTJjMjIw`
+Snapshot ID: `MCwzYWQwNzJhNzM1ZGQyY2U1MjA4MWI0ODc3NWNhZDJlZDRlMmNjNzY1`

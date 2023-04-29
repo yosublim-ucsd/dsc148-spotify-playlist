@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzI5YzAwNzI4NGYwYzIyZDczMzc5ZjVlZjA1OTE4ODJhZTc0NjZj",
+  "snapshot_id": "MCw5MjkyMDcyMjJjYTAyODgxNDdiMjMzZjM4YmZmMjFhZWNkNzVkZjAz",
   "tracks": [
     {
       "added_at": "2023-03-30 13:00:00",
@@ -735,7 +735,7 @@
     {
       "added_at": "2023-03-30 13:00:00",
       "album": {
-        "name": "Birthday Cake",
+        "name": "birthday cake",
         "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
       },
       "artists": [
@@ -745,7 +745,7 @@
         }
       ],
       "duration_ms": 205280,
-      "name": "Birthday Cake",
+      "name": "birthday cake",
       "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
     },
     {
@@ -1079,8 +1079,8 @@
     {
       "added_at": "2023-03-30 13:00:00",
       "album": {
-        "name": "Winter City",
-        "url": "https://open.spotify.com/album/3MUZrFCwm6v0aUQaawLcFG"
+        "name": "I Got 3",
+        "url": "https://open.spotify.com/album/7g0CXNdiVVnAGj1f9yle7e"
       },
       "artists": [
         {
@@ -1090,7 +1090,7 @@
       ],
       "duration_ms": 161620,
       "name": "Winter City",
-      "url": "https://open.spotify.com/track/6pdvuLmF736BybOwSYEXeg"
+      "url": "https://open.spotify.com/track/2KtH6OayZaFH5Zowhglw1Y"
     },
     {
       "added_at": "2023-03-30 13:00:00",

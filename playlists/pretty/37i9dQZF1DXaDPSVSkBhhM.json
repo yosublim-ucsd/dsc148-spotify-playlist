@@ -1,13 +1,29 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 60421,
+  "num_followers": 60453,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDc2NDk1ZTI0ZmFkZjU3YmJmOTkyM2U4ZGI3NWEwZjQzMDUwMDAz",
+  "snapshot_id": "MCw3ZTM5NzY4MjE1N2VhODc4OTViYzlkNzI4ODFhYjNkMzMyYjJhYjE1",
   "tracks": [
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "Para Ti Con Desprecio",
+        "url": "https://open.spotify.com/album/2CcCMbh4RxNk3Pu5LfUQ5K"
+      },
+      "artists": [
+        {
+          "name": "PXNDX",
+          "url": "https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj"
+        }
+      ],
+      "duration_ms": 238373,
+      "name": "Disculpa los Malos Pensamientos",
+      "url": "https://open.spotify.com/track/76VYYaRC2np6iUbD2Ze2lD"
+    },
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 185790,
       "name": "Himno (para los que est\u00e1n jodidos)",
       "url": "https://open.spotify.com/track/0xk30CeA3Klu0xOOdE8grl"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
-        "name": "Para Ti Con Desprecio",
-        "url": "https://open.spotify.com/album/2CcCMbh4RxNk3Pu5LfUQ5K"
-      },
-      "artists": [
-        {
-          "name": "PXNDX",
-          "url": "https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj"
-        }
-      ],
-      "duration_ms": 238373,
-      "name": "Disculpa los Malos Pensamientos",
-      "url": "https://open.spotify.com/track/76VYYaRC2np6iUbD2Ze2lD"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -93,26 +93,10 @@
       "url": "https://open.spotify.com/track/1YMUqYf5tNsXJEzaBlswnz"
     },
     {
-      "added_at": "2023-04-21 06:00:00",
+      "added_at": "2023-04-28 02:20:20",
       "album": {
-        "name": "S.C.E.N.A.",
-        "url": "https://open.spotify.com/album/3U0Y3Uyed506dKHMpQDCI9"
-      },
-      "artists": [
-        {
-          "name": "Ningun Artista",
-          "url": "https://open.spotify.com/artist/2hErZkRG3ZcpWCh0B3wQkV"
-        }
-      ],
-      "duration_ms": 220250,
-      "name": "AMSIEDAD",
-      "url": "https://open.spotify.com/track/6INLA7eSR6wKYdCUtQyDLQ"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
-        "name": "Historias De La Calle",
-        "url": "https://open.spotify.com/album/0It6LpqmGgPSMdXMSXKS1w"
+        "name": "Solo Dios lo Sabe",
+        "url": "https://open.spotify.com/album/6Fg2fhsyWhk86CZruRUrQv"
       },
       "artists": [
         {
@@ -120,9 +104,9 @@
           "url": "https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN"
         }
       ],
-      "duration_ms": 210337,
-      "name": "Eso Es Todo Lo Que Soy",
-      "url": "https://open.spotify.com/track/3A0t8Bg8kFoVuCZFiKhY9k"
+      "duration_ms": 165605,
+      "name": "Solo Dios lo Sabe",
+      "url": "https://open.spotify.com/track/2PA11HBziALO8mnvnh3qXw"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -141,38 +125,6 @@
       "url": "https://open.spotify.com/track/52JXNqsIEDNzEy2Iu0G5fV"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Ella Miente",
-        "url": "https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6"
-      },
-      "artists": [
-        {
-          "name": "Helian Evans",
-          "url": "https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N"
-        }
-      ],
-      "duration_ms": 139700,
-      "name": "Ella Miente",
-      "url": "https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
-        "name": "El Tio Mat",
-        "url": "https://open.spotify.com/album/6LRhupFVTN6j9qpDHhYAxi"
-      },
-      "artists": [
-        {
-          "name": "Roca Lunar",
-          "url": "https://open.spotify.com/artist/7v2z392Xgbs0IvxUYCIncL"
-        }
-      ],
-      "duration_ms": 163253,
-      "name": "El Tio Mat",
-      "url": "https://open.spotify.com/track/5F8GV798m5bian3h4PlhRh"
-    },
-    {
       "added_at": "2022-10-01 18:54:42",
       "album": {
         "name": "RPDF",
@@ -189,6 +141,42 @@
       "url": "https://open.spotify.com/track/333TyrvOWbHpq0AIipyIHy"
     },
     {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Ella Miente",
+        "url": "https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6"
+      },
+      "artists": [
+        {
+          "name": "Helian Evans",
+          "url": "https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N"
+        }
+      ],
+      "duration_ms": 139700,
+      "name": "Ella Miente",
+      "url": "https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp"
+    },
+    {
+      "added_at": "2023-04-28 02:20:20",
+      "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/2g4kMXrBHL8NrtDe4mi9O5"
+      },
+      "artists": [
+        {
+          "name": "Will of One",
+          "url": "https://open.spotify.com/artist/1IRaphz10w9gPlxfimO3Np"
+        },
+        {
+          "name": "Mariana Sandoval",
+          "url": "https://open.spotify.com/artist/4NdwM3glsAV3bnntvxrQ8k"
+        }
+      ],
+      "duration_ms": 241043,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/1QUuM84MAXja1Nva7RezdD"
+    },
+    {
       "added_at": "2022-10-01 18:54:42",
       "album": {
         "name": "Delux",
@@ -203,6 +191,22 @@
       "duration_ms": 168840,
       "name": "M\u00e1s de Lo Que Te Imaginas",
       "url": "https://open.spotify.com/track/4tgzXBZfiR5VKjbqThmtG6"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "Historias De La Calle",
+        "url": "https://open.spotify.com/album/0It6LpqmGgPSMdXMSXKS1w"
+      },
+      "artists": [
+        {
+          "name": "GUFI",
+          "url": "https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN"
+        }
+      ],
+      "duration_ms": 210337,
+      "name": "Eso Es Todo Lo Que Soy",
+      "url": "https://open.spotify.com/track/3A0t8Bg8kFoVuCZFiKhY9k"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -271,22 +275,6 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Coraz\u00f3n D' Roto",
-        "url": "https://open.spotify.com/album/12FNuCmrZPqCFiu5mL09EC"
-      },
-      "artists": [
-        {
-          "name": "GUFI",
-          "url": "https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN"
-        }
-      ],
-      "duration_ms": 217920,
-      "name": "Apariencia",
-      "url": "https://open.spotify.com/track/2v4oBaRnTe2YuaQovidduL"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
         "name": "120 Km/Hr.",
         "url": "https://open.spotify.com/album/1SgPUGiM2u18nbgcutSHxM"
       },
@@ -351,6 +339,22 @@
       "duration_ms": 223960,
       "name": "La B\u00fasqueda del Tiempo Perdido",
       "url": "https://open.spotify.com/track/7FNXiAE7xZEKiuD8yirrrG"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "Coraz\u00f3n D' Roto",
+        "url": "https://open.spotify.com/album/12FNuCmrZPqCFiu5mL09EC"
+      },
+      "artists": [
+        {
+          "name": "GUFI",
+          "url": "https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN"
+        }
+      ],
+      "duration_ms": 217920,
+      "name": "Apariencia",
+      "url": "https://open.spotify.com/track/2v4oBaRnTe2YuaQovidduL"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -557,6 +561,22 @@
       "url": "https://open.spotify.com/track/1NvuUQSActakCpCg071n2x"
     },
     {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "S.C.E.N.A.",
+        "url": "https://open.spotify.com/album/3U0Y3Uyed506dKHMpQDCI9"
+      },
+      "artists": [
+        {
+          "name": "Ningun Artista",
+          "url": "https://open.spotify.com/artist/2hErZkRG3ZcpWCh0B3wQkV"
+        }
+      ],
+      "duration_ms": 220250,
+      "name": "AMSIEDAD",
+      "url": "https://open.spotify.com/track/6INLA7eSR6wKYdCUtQyDLQ"
+    },
+    {
       "added_at": "2022-10-01 18:54:42",
       "album": {
         "name": "Disparos",
@@ -607,22 +627,6 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Cereal",
-        "url": "https://open.spotify.com/album/4RFAbUoR8Wjr4800cYcZEL"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        }
-      ],
-      "duration_ms": 161226,
-      "name": "Cereal",
-      "url": "https://open.spotify.com/track/1jEyfhLrKrtbpm0DGbnS7H"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
         "name": "Nadie Me Entiende",
         "url": "https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY"
       },
@@ -635,6 +639,22 @@
       "duration_ms": 180000,
       "name": "Nadie Me Entiende",
       "url": "https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "Cereal",
+        "url": "https://open.spotify.com/album/4RFAbUoR8Wjr4800cYcZEL"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        }
+      ],
+      "duration_ms": 161226,
+      "name": "Cereal",
+      "url": "https://open.spotify.com/track/1jEyfhLrKrtbpm0DGbnS7H"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -739,6 +759,26 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
+        "name": "Clavo",
+        "url": "https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        },
+        {
+          "name": "Samantha S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Clavo",
+      "url": "https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
         "name": "No Digas Lo Siento",
         "url": "https://open.spotify.com/album/1c6ugiEfTV9lVRWIx93wW7"
       },
@@ -771,26 +811,6 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Clavo",
-        "url": "https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        },
-        {
-          "name": "Samantha S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Clavo",
-      "url": "https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
         "name": "t\u00fa + yo",
         "url": "https://open.spotify.com/album/4lNSJb1LqQ85MPDX0NV4Us"
       },
@@ -819,22 +839,6 @@
       "duration_ms": 218811,
       "name": "No Hay Final Feliz",
       "url": "https://open.spotify.com/track/4DA6ycFahIk2BekxtAnS8r"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
-        "name": "Siempre Resistir / Nunca Desistir",
-        "url": "https://open.spotify.com/album/05oaSmUNyPQMVeNgvfn8uS"
-      },
-      "artists": [
-        {
-          "name": "DON",
-          "url": "https://open.spotify.com/artist/4xRGF3S9AgY23sWuzKlUDR"
-        }
-      ],
-      "duration_ms": 234773,
-      "name": "Escribe Una Canci\u00f3n",
-      "url": "https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2"
     }
   ],
   "unique_name": "Escena Pop Punk",

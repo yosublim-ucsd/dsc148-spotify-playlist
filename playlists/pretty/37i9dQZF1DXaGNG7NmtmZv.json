@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 184167,
+  "num_followers": 184260,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMmU0MGMyYjlhNmJkMDBmMjk5ZmQyMjUxY2NhNWVhZWE1MDg4ZGU3",
+  "snapshot_id": "MCwyNTk3YmE4YTkwMDc5YzUxODUzOWIwNzE3MTI5ZGY4ODViNTcyZWEy",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -395,22 +395,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Vision of Disorder",
-        "url": "https://open.spotify.com/album/5EeQOcInW3Mfo6dtUofKOD"
-      },
-      "artists": [
-        {
-          "name": "Vision Of Disorder",
-          "url": "https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil"
-        }
-      ],
-      "duration_ms": 193066,
-      "name": "Element",
-      "url": "https://open.spotify.com/track/0NEDkO8NleQbN66lO2pl65"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Hail Destroyer",
         "url": "https://open.spotify.com/album/4zR3343ue909iFnr6odhK3"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 196680,
       "name": "Hail Destroyer",
       "url": "https://open.spotify.com/track/0XNm4jXda363NhHBoOp5II"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Vision of Disorder",
+        "url": "https://open.spotify.com/album/5EeQOcInW3Mfo6dtUofKOD"
+      },
+      "artists": [
+        {
+          "name": "Vision Of Disorder",
+          "url": "https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil"
+        }
+      ],
+      "duration_ms": 193066,
+      "name": "Element",
+      "url": "https://open.spotify.com/track/0NEDkO8NleQbN66lO2pl65"
     },
     {
       "added_at": "2020-12-08 15:12:11",

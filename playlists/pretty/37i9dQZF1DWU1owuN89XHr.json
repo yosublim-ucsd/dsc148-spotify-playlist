@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 260565,
+  "num_followers": 260603,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzMyZWRjNWU0ZWRhM2QxY2I5ZjU1MTBmZGYwY2Q1Mjg5M2FmMGI0",
+  "snapshot_id": "MCxmOGZhNWQzYjZmNjZiNTc3OTk2M2UyZGI2ZmE1OWE4MDJjOTM4MDFl",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Encanto",
+        "url": "https://open.spotify.com/album/0smFumIxHdTArp6Tsm0rhi"
+      },
+      "artists": [
+        {
+          "name": "Amaury Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D"
+        }
+      ],
+      "duration_ms": 252380,
+      "name": "Encanto",
+      "url": "https://open.spotify.com/track/0hJcXk3AyYjXzT88BsgNlP"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Colecci\u00f3n Nos Queda Su Canci\u00f3n, Vol. 8: Entre Otros",
         "url": "https://open.spotify.com/album/2drFmUeIpLaHk3R3WeuqDR"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 206204,
       "name": "Para una Imaginaria Mar\u00eda del Carmen",
       "url": "https://open.spotify.com/track/7HHoh2ZEXYchu6tNdBQJwE"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Encanto",
-        "url": "https://open.spotify.com/album/0smFumIxHdTArp6Tsm0rhi"
-      },
-      "artists": [
-        {
-          "name": "Amaury Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D"
-        }
-      ],
-      "duration_ms": 252380,
-      "name": "Encanto",
-      "url": "https://open.spotify.com/track/0hJcXk3AyYjXzT88BsgNlP"
     },
     {
       "added_at": "2021-07-29 16:46:05",

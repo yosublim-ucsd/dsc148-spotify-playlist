@@ -4,7 +4,7 @@
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Joey Hyde
 
-231 songs - 13 hr 22 min
+232 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Drowns the Whiskey](https://open.spotify.com/track/79268NV31JJE8d4VzGEKLb) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Josh Thompson](https://open.spotify.com/artist/4BuyNtIXCdb4fHesOdR3io) | [2018 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/5AOIvPlIqtlrBCjuDYTGOf) | 3:22 | 2022-01-01 |  |
 | [Drunk Plans](https://open.spotify.com/track/7aquXzKa4ABAOshANU0qio) | [Joey Hyde](https://open.spotify.com/artist/6zAROtrmmahss9R8KCCWRo) | [Drunk Plans](https://open.spotify.com/album/1XyWXqkjfSA9gnFAsSNCY3) | 3:01 | 2023-01-13 |  |
 | [Either](https://open.spotify.com/track/2OWHy2piQ5aamjenrRKkQi) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Southern Curiosity](https://open.spotify.com/album/2VamwwkO7Y0ECHwyNvEIFr) | 4:00 | 2022-01-01 |  |
+| [El Cerrito Place](https://open.spotify.com/track/22RZDqi5xPHTPqk2Whwozf) | [Keith Gattis](https://open.spotify.com/artist/3JvvMZuSDpReAGChQX7p7k) | [Big City Blues](https://open.spotify.com/album/5erpYYkqMHqj4pQGRTDCdg) | 5:58 | 2023-04-28 |  |
 | [Electricity](https://open.spotify.com/track/1416kZiwSgVmlAAj7mVfoa) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Somewhere There's A Light On](https://open.spotify.com/album/3rjcBeGtdpZRAPuytz0kok) | 2:24 | 2022-01-01 | 2022-04-16 |
 | [Even If It Breaks Your Heart](https://open.spotify.com/track/37tuqFINoyPMpxbOZNOk17) | [Eric Paslay](https://open.spotify.com/artist/4TONBKcqVR1LmPdfJxvkMU) | [Even If It Breaks Your Barefoot Friday Night](https://open.spotify.com/album/0iwZYxBjSdx9Ve18IMkyAd) | 3:44 | 2022-04-15 |  |
 | [Everybody Else](https://open.spotify.com/track/70WAxgKcmPb9z48YwxIpvT) | [Aaron Raitiere](https://open.spotify.com/artist/3Gbx4tL0G9U5j233fXABXw) | [Everybody Else](https://open.spotify.com/album/43SnDuO3vSQWIJLUUZoPkM) | 2:57 | 2022-01-01 |  |

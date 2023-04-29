@@ -3052,7 +3052,7 @@
     {
       "album": {
         "name": "Crispy Crunchy Nothing",
-        "url": "https://open.spotify.com/album/0cJXjTHI3rmuDoeSNb0YeU"
+        "url": "https://open.spotify.com/album/6iZCdzygVnM4rMAPNW5I5F"
       },
       "artists": [
         {
@@ -3063,6 +3063,24 @@
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 139559,
+      "name": "Cheese",
+      "url": "https://open.spotify.com/track/1MD78xqTQoIXvZCn0CFyvF"
+    },
+    {
+      "album": {
+        "name": "Crispy Crunchy Nothing",
+        "url": "https://open.spotify.com/album/0cJXjTHI3rmuDoeSNb0YeU"
+      },
+      "artists": [
+        {
+          "name": "PACKS",
+          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
       "duration_ms": 139559,
       "name": "Cheese",
       "url": "https://open.spotify.com/track/70Ui5PlefBqCOW3uvqNRAa"

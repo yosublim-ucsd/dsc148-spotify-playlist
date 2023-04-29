@@ -6,8 +6,28 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTIzYzNkMmVhNmIzYTQ2NjY4NDhhNmE1YTJlYWE5Nzk4MDdiOTBm",
+  "snapshot_id": "MCwyYTJmODVjMGYwMzJlNjhhNTM2ZjUxM2M1NTgwNWUzYjE2MDE0MDk3",
   "tracks": [
+    {
+      "added_at": "2023-04-28 07:18:00",
+      "album": {
+        "name": "Dime",
+        "url": "https://open.spotify.com/album/4Pp7QfJOdByWRnYaCBSquf"
+      },
+      "artists": [
+        {
+          "name": "Sabi Satiz\u00e1bal",
+          "url": "https://open.spotify.com/artist/3hkSIfiborsBV1wzOqe2qX"
+        },
+        {
+          "name": "Pilar Cabrera",
+          "url": "https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva"
+        }
+      ],
+      "duration_ms": 212199,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/0AeLV7eiqBHMaTeq5R8SAS"
+    },
     {
       "added_at": "2023-04-27 07:18:00",
       "album": {
@@ -837,6 +857,54 @@
       "url": "https://open.spotify.com/track/21M3XwoJcEXdLp9cQPJKeK"
     },
     {
+      "added_at": "2023-04-28 07:18:00",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/1YeMVUEEBUcehIKC8PQkK5"
+      },
+      "artists": [
+        {
+          "name": "Norwayy",
+          "url": "https://open.spotify.com/artist/2Oco3IVZNWcII3kGXRaNaU"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/0oj0QRfjA5WsLvZkoOQk6f"
+    },
+    {
+      "added_at": "2023-04-28 07:18:00",
+      "album": {
+        "name": "Estero",
+        "url": "https://open.spotify.com/album/1KwYSPl2UNEQfdSlFZk5gJ"
+      },
+      "artists": [
+        {
+          "name": "Renee Mooi",
+          "url": "https://open.spotify.com/artist/6pDpSqJDuF6J6jxfAz4sTB"
+        }
+      ],
+      "duration_ms": 224504,
+      "name": "Estero",
+      "url": "https://open.spotify.com/track/424e07rT5aQ3e3zoS6c4fF"
+    },
+    {
+      "added_at": "2023-04-28 07:18:00",
+      "album": {
+        "name": "Confuso",
+        "url": "https://open.spotify.com/album/4U7ZiteMO7A6zIVlFJA8fG"
+      },
+      "artists": [
+        {
+          "name": "Dawn Haze",
+          "url": "https://open.spotify.com/artist/32JSwTOeaGSHi268j8f73U"
+        }
+      ],
+      "duration_ms": 198093,
+      "name": "Confuso",
+      "url": "https://open.spotify.com/track/7zYdwyOOjJdfk0mfz1yWA4"
+    },
+    {
       "added_at": "2023-04-10 18:00:00",
       "album": {
         "name": "Amantes - Su Majestad La Eternidad",
@@ -903,6 +971,22 @@
       "duration_ms": 206053,
       "name": "capturas de pantalla",
       "url": "https://open.spotify.com/track/6HnW2csrZ7MKRoqnVJpjHR"
+    },
+    {
+      "added_at": "2023-04-28 07:18:00",
+      "album": {
+        "name": "Me Estoy Enamorando",
+        "url": "https://open.spotify.com/album/290mTa3886xNkEyOVtC53k"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC"
     }
   ],
   "unique_name": "Canci\u00f3n del D\u00eda",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Maulana Ardiansyah",
+  "description": "Dendang Dangdut teratas. Cover: Fania Putri",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 223000,
       "name": "Ada Dia Antara Kita",
       "url": "https://open.spotify.com/track/5NBFdXpSQM9bcJPFvU4Rrb"
+    },
+    {
+      "album": {
+        "name": "Akhir Cerita Cinta",
+        "url": "https://open.spotify.com/album/0JMTGUWGp2V5u233WV7AsT"
+      },
+      "artists": [
+        {
+          "name": "Fania Putri",
+          "url": "https://open.spotify.com/artist/7kciVBb9QDsMO8PqYGhuim"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384857,
+      "name": "Akhir Cerita Cinta",
+      "url": "https://open.spotify.com/track/6p8zr8fyGBWtRZsVp2cc4d"
     },
     {
       "album": {
@@ -1258,6 +1276,24 @@
       "duration_ms": 273423,
       "name": "Siapa Benar Siapa Salah",
       "url": "https://open.spotify.com/track/5tvW2B5gk0H5boGqVuHFLL"
+    },
+    {
+      "album": {
+        "name": "Simpati Cinta",
+        "url": "https://open.spotify.com/album/3dBT1zmQ9QOqx4PtLF9TPw"
+      },
+      "artists": [
+        {
+          "name": "Imam S Arifin",
+          "url": "https://open.spotify.com/artist/0kR8oZ9mW15tKZnYJhFCS9"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356757,
+      "name": "Simpati Cinta",
+      "url": "https://open.spotify.com/track/5e2GK1AWsrqqmQd0bZE3lP"
     },
     {
       "album": {

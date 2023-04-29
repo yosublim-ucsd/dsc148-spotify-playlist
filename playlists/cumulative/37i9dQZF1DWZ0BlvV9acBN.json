@@ -303,6 +303,46 @@
     },
     {
       "album": {
+        "name": "At\u00e9 o Fim",
+        "url": "https://open.spotify.com/album/4u5AzbPL3LzLNcDFhcPf72"
+      },
+      "artists": [
+        {
+          "name": "Ana Diniz",
+          "url": "https://open.spotify.com/artist/4L8rEhWyGVcPhp4CZJNDqm"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240805,
+      "name": "At\u00e9 o Fim",
+      "url": "https://open.spotify.com/track/2bGj7BEZEXSGpNh174GEow"
+    },
+    {
+      "album": {
+        "name": "At\u00e9 Que Nada Mais Importe",
+        "url": "https://open.spotify.com/album/5gxGnDzMwSGYbPhsgrlK5f"
+      },
+      "artists": [
+        {
+          "name": "A Trilha",
+          "url": "https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk"
+        },
+        {
+          "name": "Michel Oliveira",
+          "url": "https://open.spotify.com/artist/6evPViYPVqrknINn3qocAH"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176487,
+      "name": "At\u00e9 Que Nada Mais Importe",
+      "url": "https://open.spotify.com/track/1mvvcOzlR3HGqj1Z9W2eKZ"
+    },
+    {
+      "album": {
         "name": "Aviva-Nos / A Terra Clama / Fogo e Gl\u00f3ria",
         "url": "https://open.spotify.com/album/6gOZTR9GlaP1eOIBbvrT63"
       },
@@ -948,7 +988,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 293793,
       "name": "Mateus 6:6",
       "url": "https://open.spotify.com/track/2xRsrkp44Jcw3G2IgMiU8P"
@@ -1082,7 +1122,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 173026,
       "name": "Meu Valor",
       "url": "https://open.spotify.com/track/5CxJx9S892Gwy3Ic3UNfdX"

@@ -160,7 +160,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 293280,
       "name": "Black Moon Spell",
       "url": "https://open.spotify.com/track/6V3zT1j43wmQU8Mk2rT35K"
@@ -492,6 +492,24 @@
       "duration_ms": 89520,
       "name": "Demon From Hell",
       "url": "https://open.spotify.com/track/3NaT4FM9fCu29Ep9DoVh0N"
+    },
+    {
+      "album": {
+        "name": "Black Moon Spell",
+        "url": "https://open.spotify.com/album/0XOhWOI7URvE4SmmGLTYop"
+      },
+      "artists": [
+        {
+          "name": "King Tuff",
+          "url": "https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89520,
+      "name": "Demon From Hell",
+      "url": "https://open.spotify.com/track/6tlM9pXSjLR5MOCKeLVa35"
     },
     {
       "album": {

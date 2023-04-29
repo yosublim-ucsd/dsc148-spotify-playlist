@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: The 046
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,475 likes - 90 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,499 likes - 90 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,11 +92,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 82 | [Frauds \(Mall Grab Remix\)](https://open.spotify.com/track/6scCpOSEfY7FfDRjkHnUwL) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Frauds \(Mall Grab Remix\)](https://open.spotify.com/album/1JsPxT71G12JueIEVP0UR1) | 3:36 |
 | 83 | [Northside](https://open.spotify.com/track/69ajBgmgWTlbKmVqJD4TzL) | [Dizzy Dizzo](https://open.spotify.com/artist/5rEuIFwgGGp7t4b3t8ShJw), [KVNLOVERBOY](https://open.spotify.com/artist/2rlYr1sTRq3Ey2ktT2XPIG) | [Northside](https://open.spotify.com/album/7H0V17nIruoQ8As5A4sxCH) | 3:42 |
 | 84 | [Drug Me](https://open.spotify.com/track/6vxHk7yvqt2BwVJxYHHibG) | [Freesouls](https://open.spotify.com/artist/1nGYnSTlhdtfiP9goJ8UaF) | [Drug Me](https://open.spotify.com/album/5hU4t7VGCzUP0i7BND17sB) | 2:31 |
-| 85 | [Where's the Mop](https://open.spotify.com/track/59FS2KVqnHKRmavGPLajRX) | [Young6ix](https://open.spotify.com/artist/1DVLOOIJIQQX0fIKY22m7Q) | [Where's the Mop](https://open.spotify.com/album/60yPoCJMuIf9y9fLUZtv1Y) | 2:16 |
+| 85 | [WHERES THE MOP](https://open.spotify.com/track/5mjXXO1ebDsHXM9Wn9dQSY) | [Young6ix](https://open.spotify.com/artist/1DVLOOIJIQQX0fIKY22m7Q) | [WHERES THE MOP](https://open.spotify.com/album/0rk5N5eWLb4x2MUjRli2ei) | 2:16 |
 | 86 | [Levellin Up With Felons](https://open.spotify.com/track/3Ju4r2OeKhuNrQXa9AGzxH) | [Cult Shφtta](https://open.spotify.com/artist/3kjbXyjmFY15U6cCclZL3P), [Babyface Mal](https://open.spotify.com/artist/6IcfiOE8lEUiDg5ZsvA5uN) | [Levellin Up With Felons](https://open.spotify.com/album/2vGAfg1lhpLdraEtCMXCq4) | 2:22 |
 | 87 | [No Fuss](https://open.spotify.com/track/2R1Bly4M8xPts0YIwP2ICH) | [Kavelli](https://open.spotify.com/artist/5R1toqsQtqx4tcNpItZuEU) | [No Fuss](https://open.spotify.com/album/4q3K09hKG3obFpgXFq3KAi) | 1:54 |
 | 88 | [NJ \(Freestyle\)](https://open.spotify.com/track/1jItGRDxckHhQBZ3Y9xVch) | [DSP](https://open.spotify.com/artist/17GAXOUu9d8YXnuwVeGphZ) | [NJ \(Freestyle\)](https://open.spotify.com/album/0bYdUoADyRkjmrp95lfWrj) | 1:52 |
 | 89 | [Blessings](https://open.spotify.com/track/0G8UevdEVp26a2DGfhmaIp) | [Yung Maynie](https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI), [Bitner Brown](https://open.spotify.com/artist/7hFXMhSb2iI4bJcxfcwQmM) | [Blessings](https://open.spotify.com/album/1m37BOYIflgwLuB3ekRfA5) | 3:00 |
 | 90 | [When It Rains](https://open.spotify.com/track/2itHu6uRp8ClOUS0nS023X) | [BALLY BOY](https://open.spotify.com/artist/3MCpCeJATfWO5bOy5nf2F9) | [When It Rains](https://open.spotify.com/album/22RrM5weo4B2GrTrW6h0xd) | 2:21 |
 
-Snapshot ID: `MCwwNjMyMzQzMGIyZjhhMDM5OTY2OWVmNzY4MWQ1Y2EyYzc1NDgxYzFi`
+Snapshot ID: `MCw3YjYyNWU4ZTM4YzUxMmY0NjdhMDNhOTVlMjM2MDU2ZDc4YWE4YTIz`

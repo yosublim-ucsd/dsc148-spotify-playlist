@@ -1,12 +1,12 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Ana Sanz",
-  "num_followers": 34770,
+  "num_followers": 34790,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzI5NmVjZWY2NDhjNjg1ZWE0NzE3MTVjODhkNDdkODhlMGQzZWY1",
+  "snapshot_id": "MCwwOTJlZTZiMDY5ODZjYTQ1YzZkZjllZTgyNGE5NjI0OTdkMmQyMmZl",
   "tracks": [
     {
       "added_at": "2023-04-14 03:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "15 A\u00f1os de Exitos",
-        "url": "https://open.spotify.com/album/3R1IPI5OFMNFXrd7PfgZW6"
-      },
-      "artists": [
-        {
-          "name": "Santa Sabina",
-          "url": "https://open.spotify.com/artist/0lH5Hx6QpVa9TS0Vm6ItTP"
-        }
-      ],
-      "duration_ms": 257079,
-      "name": "Azul Casi Morado",
-      "url": "https://open.spotify.com/track/2UU9JV6RUuyveQWqq3xlBF"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Secreto",
         "url": "https://open.spotify.com/album/611yD7i7O9bFuVchCzfbl7"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 283380,
       "name": "Desordenar",
       "url": "https://open.spotify.com/track/2Pha6dxvBxVmwwpGkwjWRb"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "15 A\u00f1os de Exitos",
+        "url": "https://open.spotify.com/album/3R1IPI5OFMNFXrd7PfgZW6"
+      },
+      "artists": [
+        {
+          "name": "Santa Sabina",
+          "url": "https://open.spotify.com/artist/0lH5Hx6QpVa9TS0Vm6ItTP"
+        }
+      ],
+      "duration_ms": 257079,
+      "name": "Azul Casi Morado",
+      "url": "https://open.spotify.com/track/2UU9JV6RUuyveQWqq3xlBF"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "La Flecha Envenenada",
-        "url": "https://open.spotify.com/album/5qwYpjPon7xKnmffXeInfx"
-      },
-      "artists": [
-        {
-          "name": "Bubis Vayins",
-          "url": "https://open.spotify.com/artist/6v7BKwRlYK3Fds0z0jveCG"
-        }
-      ],
-      "duration_ms": 248280,
-      "name": "La Flecha Envenenada",
-      "url": "https://open.spotify.com/track/2ANlv74UURH4GHpOhTHdPI"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Pasar de las Luces",
         "url": "https://open.spotify.com/album/0YOlpbeUweZWajP4nUcFAm"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 328773,
       "name": "Ojos En El Carro",
       "url": "https://open.spotify.com/track/5vSdXnvrAuaz8jIRv9zsPY"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "La Flecha Envenenada",
+        "url": "https://open.spotify.com/album/5qwYpjPon7xKnmffXeInfx"
+      },
+      "artists": [
+        {
+          "name": "Bubis Vayins",
+          "url": "https://open.spotify.com/artist/6v7BKwRlYK3Fds0z0jveCG"
+        }
+      ],
+      "duration_ms": 248280,
+      "name": "La Flecha Envenenada",
+      "url": "https://open.spotify.com/track/2ANlv74UURH4GHpOhTHdPI"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Adentro",
+        "url": "https://open.spotify.com/album/1fdUbx7XkVlR5BYuKV5sIv"
+      },
+      "artists": [
+        {
+          "name": "Sugar Tampaxxx",
+          "url": "https://open.spotify.com/artist/0EMyouR696ghk1LQclnhUY"
+        }
+      ],
+      "duration_ms": 146986,
+      "name": "Adentro",
+      "url": "https://open.spotify.com/track/44OwKucmVixOi8pTVcWb1j"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Epica & Fant\u00e1stica",
         "url": "https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 180680,
       "name": "Somos",
       "url": "https://open.spotify.com/track/02s5vAzBU4NodaEq3JIdJr"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Adentro",
-        "url": "https://open.spotify.com/album/1fdUbx7XkVlR5BYuKV5sIv"
-      },
-      "artists": [
-        {
-          "name": "Sugar Tampaxxx",
-          "url": "https://open.spotify.com/artist/0EMyouR696ghk1LQclnhUY"
-        }
-      ],
-      "duration_ms": 146986,
-      "name": "Adentro",
-      "url": "https://open.spotify.com/track/44OwKucmVixOi8pTVcWb1j"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "bi/MENTAL",
-        "url": "https://open.spotify.com/album/3XuJE4Y50tva93lL4uxfle"
+        "name": "Wed 21",
+        "url": "https://open.spotify.com/album/5kPgL6cR1ks9ElKafo4nD7"
       },
       "artists": [
         {
-          "name": "Le Butcherettes",
-          "url": "https://open.spotify.com/artist/1d7CbKqK4lFpKyU442bZC6"
+          "name": "Juana Molina",
+          "url": "https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3"
         }
       ],
-      "duration_ms": 220561,
-      "name": "give/UP",
-      "url": "https://open.spotify.com/track/3VjCRe4un6MDLH5Bt1CqLh"
+      "duration_ms": 264746,
+      "name": "Eras",
+      "url": "https://open.spotify.com/track/037RKV3MIa0h2qHDZUR79x"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Wed 21",
-        "url": "https://open.spotify.com/album/5kPgL6cR1ks9ElKafo4nD7"
+        "name": "bi/MENTAL",
+        "url": "https://open.spotify.com/album/3XuJE4Y50tva93lL4uxfle"
       },
       "artists": [
         {
-          "name": "Juana Molina",
-          "url": "https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3"
+          "name": "Le Butcherettes",
+          "url": "https://open.spotify.com/artist/1d7CbKqK4lFpKyU442bZC6"
         }
       ],
-      "duration_ms": 264746,
-      "name": "Eras",
-      "url": "https://open.spotify.com/track/037RKV3MIa0h2qHDZUR79x"
+      "duration_ms": 220561,
+      "name": "give/UP",
+      "url": "https://open.spotify.com/track/3VjCRe4un6MDLH5Bt1CqLh"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Agitar",
-        "url": "https://open.spotify.com/album/2rdYalIkT3ijzl7zs69NGZ"
-      },
-      "artists": [
-        {
-          "name": "Bala",
-          "url": "https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ"
-        }
-      ],
-      "duration_ms": 127598,
-      "name": "Agitar",
-      "url": "https://open.spotify.com/track/3V6CPu5kQ4iRcjngnwgSHe"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Flores Sobre las Piedras",
         "url": "https://open.spotify.com/album/2NDbkXbi16sS49LigcSd4n"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 302000,
       "name": "Flores Sobre las Piedras",
       "url": "https://open.spotify.com/track/4WzYFb4DuCsBdSxwuc5AnZ"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Agitar",
+        "url": "https://open.spotify.com/album/2rdYalIkT3ijzl7zs69NGZ"
+      },
+      "artists": [
+        {
+          "name": "Bala",
+          "url": "https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ"
+        }
+      ],
+      "duration_ms": 127598,
+      "name": "Agitar",
+      "url": "https://open.spotify.com/track/3V6CPu5kQ4iRcjngnwgSHe"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Suave",
-        "url": "https://open.spotify.com/album/4fzMFE1G3GVQtbasedbooZ"
-      },
-      "artists": [
-        {
-          "name": "Carmen Boza",
-          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
-        }
-      ],
-      "duration_ms": 203094,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/5IO55F3xMlUG6xdLGh7bb5"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Preguntame",
         "url": "https://open.spotify.com/album/21qw6k8y7iO77WUFXPaGLx"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 204336,
       "name": "Preguntame",
       "url": "https://open.spotify.com/track/3dMYfIeVVdaY9U9GLTG9PK"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Suave",
+        "url": "https://open.spotify.com/album/4fzMFE1G3GVQtbasedbooZ"
+      },
+      "artists": [
+        {
+          "name": "Carmen Boza",
+          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
+        }
+      ],
+      "duration_ms": 203094,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/5IO55F3xMlUG6xdLGh7bb5"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "La Piel Dura",
+        "url": "https://open.spotify.com/album/24QdWuBJgFTJ1VcFyIc3OG"
+      },
+      "artists": [
+        {
+          "name": "She Devils",
+          "url": "https://open.spotify.com/artist/445D2giDXP47r2uJcPknm7"
+        }
+      ],
+      "duration_ms": 123320,
+      "name": "No Importa",
+      "url": "https://open.spotify.com/track/3nC0jDV1D6LHvS9MRd6x0s"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Chica Rutera",
         "url": "https://open.spotify.com/album/677rkyQAwxStGoAqiRiLiy"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 211332,
       "name": "Somos aire",
       "url": "https://open.spotify.com/track/63gATGLzYoulX2l9sI6M5w"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "La Piel Dura",
-        "url": "https://open.spotify.com/album/24QdWuBJgFTJ1VcFyIc3OG"
-      },
-      "artists": [
-        {
-          "name": "She Devils",
-          "url": "https://open.spotify.com/artist/445D2giDXP47r2uJcPknm7"
-        }
-      ],
-      "duration_ms": 123320,
-      "name": "No Importa",
-      "url": "https://open.spotify.com/track/3nC0jDV1D6LHvS9MRd6x0s"
     },
     {
       "added_at": "2023-04-14 03:00:00",

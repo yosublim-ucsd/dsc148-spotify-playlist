@@ -2,9 +2,9 @@
 
 ### [Rap en Español](https://open.spotify.com/playlist/37i9dQZF1DX40O80BIPklU)
 
-> Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. SFDK en portada.
+> Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Vico C en portada.
 
-172 songs - 9 hr 39 min
+175 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Ella No Es Tuya \- Remix](https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Ella No Es Tuya \(Remix\)](https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA) | 3:38 | 2021-12-30 |  |
 | [En La Nube](https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [En La Nube](https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V) | 3:32 | 2021-12-30 | 2022-01-08 |
 | [Envidia](https://open.spotify.com/track/4NTOD6p2LLDYdeHzaxUYxk) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Envidia](https://open.spotify.com/album/0Vr2EIU3Dw3DAQKZTJ0Wqk) | 3:00 | 2022-11-25 |  |
+| [Especies](https://open.spotify.com/track/0wfvhjv5cqqSuwJD84WYZ8) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP) | [Especies](https://open.spotify.com/album/38MDL6mhsLPxRBd4nGN1Gk) | 3:38 | 2023-04-28 |  |
 | [Estetograma](https://open.spotify.com/track/5Jhybb3bz6VtMzfgNPGtqN) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [Estetograma](https://open.spotify.com/album/5g2NbpwACR5K3maWs2uaJu) | 3:40 | 2023-02-24 |  |
 | [Fe](https://open.spotify.com/track/5E3DUwke6Or4h5rosrn5Z1) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Fe](https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP) | 4:14 | 2021-12-30 | 2022-01-29 |
 | [FEEL ME??](https://open.spotify.com/track/4kELKaXaNP4EQR8Q8xNIID) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [FEEL ME??](https://open.spotify.com/album/5Db8gqfsfw0tcuACuLFzpR) | 3:07 | 2021-12-30 |  |
@@ -83,6 +84,7 @@
 | [La Canción Que Todos Bailan](https://open.spotify.com/track/6kLCS66Lpqln8uH7HwxAp6) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m) | [La Canción Que Todos Bailan](https://open.spotify.com/album/5fLLBCD2tVuUqqV4b55xig) | 3:10 | 2021-12-30 | 2022-03-08 |
 | [La Familia \(Episodio 3\)](https://open.spotify.com/track/3My1xeYZKWoxQ1BL5FTBHK) | [Stilo](https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9) | [La Familia \(Episodio 3\)](https://open.spotify.com/album/0L4OmODB4Q6fAzRHPgvjNz) | 2:39 | 2023-03-17 |  |
 | [La Pistola](https://open.spotify.com/track/7xZKsJJriFzemuLslrkXx5) | [Lito MC Cassidy](https://open.spotify.com/artist/0zgbk1EdcU6tt6QUOnCC5o), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Jaula De Los Vivos](https://open.spotify.com/album/1oevsEOqgdZRJtHFLTLS3o) | 3:28 | 2021-12-30 | 2022-03-04 |
+| [La Profecía \(The Eagle & The Condor\)](https://open.spotify.com/track/4gJD13mp8IhO7PtTkbmaaX) | [BIGG B](https://open.spotify.com/artist/3qFYbL5KyojWPNOp7jPNqK), [Eduardo Rico](https://open.spotify.com/artist/5nhTZIp9cOhQ1ArBJZwEPz) | [La Profecía \(The Eagle & The Condor\)](https://open.spotify.com/album/23oTd0d19ex5sQWEEt3xma) | 3:21 | 2023-04-28 |  |
 | [Laberintos](https://open.spotify.com/track/0mfkVo9p68LCmMxHNXUALt) | [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf) | [Laberintos](https://open.spotify.com/album/6hOSzcQRoySsrbAZ5JkEuF) | 3:22 | 2023-03-24 |  |
 | [Lastima](https://open.spotify.com/track/7LK6f8PSEBdVHxFky21fYv) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Selected Music](https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y) | [Lastima](https://open.spotify.com/album/2M3EmYAlbA52gefdceSa05) | 3:43 | 2021-12-30 | 2022-04-22 |
 | [Le Pido a DIOS](https://open.spotify.com/track/4TFNKnMWjcMWzpkSwQrrcu) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:45 | 2023-01-13 |  |
@@ -109,6 +111,7 @@
 | [Mi Testamento](https://open.spotify.com/track/7KaN9SAj75jQeiMxI39aUi) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT) | [33](https://open.spotify.com/album/38H1ajetO9g4ROXNUEIsCx) | 3:11 | 2023-04-14 |  |
 | [Migas](https://open.spotify.com/track/61CeB3Wd4hkun9MhuO0fES) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Chuchú Bermudas](https://open.spotify.com/artist/6U7WIxAxxx1PLPfFH8AwHX), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Migas](https://open.spotify.com/album/5lZC1pTFVb0b5rz6j86now) | 4:01 | 2023-03-17 |  |
 | [Mitolo G's](https://open.spotify.com/track/1TSK9oQ4O9eltqaYDRaVJM) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Bizor](https://open.spotify.com/artist/7F6fxMv0tz2Clj8H02Y2k7) | [Mitolo G's](https://open.spotify.com/album/4f0hu5GxLyap7KPUld6rX1) | 3:16 | 2023-03-31 |  |
+| [Monumental](https://open.spotify.com/track/4f4YujJOnlV5XOt0oorZz6) | [Crack Family](https://open.spotify.com/artist/7zXRgSpjJkQmB9SnPLq1Qk) | [Monumental](https://open.spotify.com/album/1fkoPsQUgGHOqwNamgSzNL) | 3:34 | 2023-04-28 |  |
 | [mood especial](https://open.spotify.com/track/101a47oXsySPetHvoBx4Ef) | [Muerejoven](https://open.spotify.com/artist/2yGXs7AlyNVetlMvwsFXGk) | [mood especial](https://open.spotify.com/album/6M3q85jzwNUQXhAJUAWLBz) | 2:29 | 2022-10-28 | 2023-03-04 |
 | [Mucho para Mí](https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri) | [Mucho para Mí](https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5) | 5:10 | 2022-01-11 |  |
 | [Mundo De Papel](https://open.spotify.com/track/5XZwPDh81lZP85iMkxZ9VO) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Mundo De Papel](https://open.spotify.com/album/4m0KAB42QxgsFT3RJ2QkvR) | 3:42 | 2021-12-30 | 2022-03-08 |

@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> Mellow & sentimental K\-Pop ballads\. \(Cover:Parc Jae Jung\(박재정\)\) \(당신의 감성에 발라드, 려요\)
+> Mellow & sentimental K\-Pop ballads\. \(Cover:Shin Ji Hoon\(신지훈\)\) \(당신의 감성에 발라드, 려요\)
 
-862 songs - 2 day 8 hr 4 min
+865 songs - 2 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Cherryblossom After Winter](https://open.spotify.com/track/4bPrLVDX3YmQKCgDr0BxES) | [Ok Jin Wook](https://open.spotify.com/artist/5vv7jB97vBzRCk5QH9YO6u) | [Cherryblossom After Winter Pt.2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5nM4gkd2ZvGJt772h61R2I) | 3:19 | 2022-03-24 | 2022-04-14 |
 | [children of star \[CLEF X Lee Chan Sol \(Bandage\)\]](https://open.spotify.com/track/7DR0PZQ5ytIFRPXn7E100W) | [Lee Chan Sol](https://open.spotify.com/artist/7E09MibBCbxOQjZDdCx6q8) | [CLEF X CREW, 3rd Story](https://open.spotify.com/album/3cHcrIOrzlAd5M6oZstfn6) | 3:43 | 2022-08-19 | 2022-11-04 |
 | [chronicle](https://open.spotify.com/track/7qXb2U3ORyYHUfUO55b4vQ) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [chronicle](https://open.spotify.com/album/186gD7vKW3i16leSXdBKXQ) | 4:21 | 2022-03-24 | 2022-04-19 |
+| [Cleaning \(My love X Standing Egg\)](https://open.spotify.com/track/0iBOrzJwA8NMbJQ4FdsjT6) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Cleaning \(My love X Standing Egg\)](https://open.spotify.com/album/4TNhvO9jg4MwnONsFotbqP) | 3:57 | 2023-04-28 |  |
 | [Cliche](https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM) | [ROJO](https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl) | [Cliche](https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE) | 3:06 | 2022-07-07 | 2022-08-02 |
 | [Close My Eyes](https://open.spotify.com/track/0uhRzFqvR7gR4WIAPf1CsC) | [Hajin](https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu) | [Strangers Again, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/6N8MuFv8LwKBQ3dIDqqdoa) | 4:13 | 2023-02-24 | 2023-04-27 |
 | [Close to You \(SEUNGMIN of Stray Kids\)](https://open.spotify.com/track/6JWBfjrCBDXKtFM1ViEAYU) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Love in Contract, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/7ySPnI7trS0YQkVN0B3yMk) | 3:48 | 2022-11-16 | 2023-01-21 |
@@ -208,6 +209,7 @@
 | [Faded Love](https://open.spotify.com/track/3aHgkjy3iDnHsmVvxLUPex) | [Kim Dong Hyun](https://open.spotify.com/artist/6Qbssl8FMIgmc7CLglJ9EE) | [Love \(ft\. Marriage and Divorce\) 3 part 3](https://open.spotify.com/album/65G2rBXNkh19sIZkmtSRbZ) | 3:46 | 2022-03-31 | 2022-04-08 |
 | [Faithful \(feat\. Choi Yu Ree\)](https://open.spotify.com/track/0NrODeiFaIxusjOtPSpnRW) | [WH3N](https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF), [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Faithful \(feat\. Choi Yu Ree\)](https://open.spotify.com/album/1jzqC7js5BW3f0G2UyxZfG) | 4:05 | 2023-01-11 | 2023-02-25 |
 | [Fall In Love](https://open.spotify.com/track/6KlGgR6HTAob4tXJpBpkfA) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Our D\-Day \(Original Web Drama Soundtrack, Pt\. 3\)](https://open.spotify.com/album/4ADxULhP0HEEExDwvdgFKc) | 3:24 | 2023-02-06 | 2023-04-27 |
+| [Falling in Love is like the Spring Rain, Parting is like the Winter Rain](https://open.spotify.com/track/3ruIFwC4ZPInwM4e5CjsIy) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [Falling in Love is like the Spring Rain, Parting is like the Winter Rain](https://open.spotify.com/album/4SmZATHF72c12OFmONqnw0) | 4:31 | 2023-04-28 |  |
 | [Falling Leaves are Beautiful](https://open.spotify.com/track/0zaSzLLXVwOKuh0ABPibqi) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Late Autumn](https://open.spotify.com/album/7Au2CdpPmTnTWWeEvNHOne) | 3:22 | 2022-04-19 | 2022-04-21 |
 | [Fanfare](https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Season Note](https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM) | 3:29 | 2022-05-16 | 2022-10-08 |
 | [Farewell In Tears](https://open.spotify.com/track/28ctCyUPyDomk7LLwN4aY8) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [The World of the Married, Pt.5 \(Original Television SoundTrack\)](https://open.spotify.com/album/4Oi5IpgCPeyMdyuXAIssyJ) | 4:16 | 2022-03-31 | 2022-04-12 |
@@ -804,6 +806,7 @@
 | [With the night blanket](https://open.spotify.com/track/52nkKvx43lcg3OAxnQWyOv) | [Bubble Sisters](https://open.spotify.com/artist/1jZ9R8RNpwVBJTf8Qg96a7) | [With the night blanket](https://open.spotify.com/album/3Mc5Esn48xpIkGIraYEaze) | 3:28 | 2022-07-07 | 2022-08-13 |
 | [With this song](https://open.spotify.com/track/5Ea2nMOE7vTIj7x4xlvOyl) | [J\-Cera](https://open.spotify.com/artist/3MhLDkENRwJOmFU5MSeLjZ) | [With this song](https://open.spotify.com/album/0TKfPDP4Jf6W6iP0bxNhmZ) | 3:55 | 2023-01-20 | 2023-02-15 |
 | [with you](https://open.spotify.com/track/2aPyJyUGGLj33QiXRfLG05) | [Hee brothers](https://open.spotify.com/artist/7qXJEle1HRJwOW1wuTEgwz) | [with you](https://open.spotify.com/album/78zpI0u5fJDfbjFvqpwKxi) | 3:27 | 2022-07-07 | 2022-10-08 |
+| [With you](https://open.spotify.com/track/7FrabSVdfcPggA25gq3LJU) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [With you](https://open.spotify.com/album/7Hhn7y6LSD30X5Y0jYPWWi) | 3:43 | 2023-04-28 |  |
 | [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 | 2022-05-01 | 2022-07-08 |
 | [With You](https://open.spotify.com/track/1x6WUoLbisdDYtJje4bFBN) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Mental Coach Jegal, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/5fcdcwpZpn3LBTNHXQcMgh) | 3:09 | 2022-11-01 | 2023-01-21 |
 | [With You](https://open.spotify.com/track/6jqOoYltwMT2gyem0Kr1f0) | [Sung Hoon](https://open.spotify.com/artist/1pkzOJ2c68xoLfWUfMtdMJ) | [Woori The Virgin, Pt\. 6 \(Original Television Soundtrack\) \(Special Track\)](https://open.spotify.com/album/0bDZDb3zs3Ow0Qhj1Ryodw) | 4:19 | 2022-07-07 | 2022-09-06 |

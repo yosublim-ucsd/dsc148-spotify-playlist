@@ -258,6 +258,24 @@
     {
       "album": {
         "name": "Mr Twin Sister",
+        "url": "https://open.spotify.com/album/1o0pW0OH2T1AHRGX3Qubkb"
+      },
+      "artists": [
+        {
+          "name": "Mr Twin Sister",
+          "url": "https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400874,
+      "name": "In the House of Yes",
+      "url": "https://open.spotify.com/track/5YnJi2oTur4ZkignPo2squ"
+    },
+    {
+      "album": {
+        "name": "Mr Twin Sister",
         "url": "https://open.spotify.com/album/65PiA4pb8RyCLOzwjsqP3X"
       },
       "artists": [
@@ -268,7 +286,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 400874,
       "name": "In the House of Yes",
       "url": "https://open.spotify.com/track/7eeNU3Zm56wzyl7MQDvEAH"
@@ -634,6 +652,24 @@
     {
       "album": {
         "name": "Kill the One You Love",
+        "url": "https://open.spotify.com/album/56kylfTHcLe9y8jwKpeD6O"
+      },
+      "artists": [
+        {
+          "name": "GEMS",
+          "url": "https://open.spotify.com/artist/1hjVmBR8STjix0vBUe5YfN"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240133,
+      "name": "Tangled Memories",
+      "url": "https://open.spotify.com/track/3qdEvPz96sSJEmVxVCnfv2"
+    },
+    {
+      "album": {
+        "name": "Kill the One You Love",
         "url": "https://open.spotify.com/album/37cusz6UdL545qeHFJkUWq"
       },
       "artists": [
@@ -644,7 +680,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 240133,
       "name": "Tangled Memories",
       "url": "https://open.spotify.com/track/48hWxQRcZhSbXnyJ5y2qe1"

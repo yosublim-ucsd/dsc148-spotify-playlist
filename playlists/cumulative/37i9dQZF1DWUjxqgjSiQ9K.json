@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:  <a href=\"https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd?si=0f5e97f671f942ea\">Marcos Vidal</a>",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:  <a href=\"https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz?si=dfe72a4e0c8242a4\">Lizzy Parra</a> y <a href=\"https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0?si=8FnvkdYrTcCeckwQkGzf3g\">Kike Pav\u00f3n</a>",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -668,7 +668,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 223891,
       "name": "Aqu\u00ed Estamos (feat. Ale Fdz)",
       "url": "https://open.spotify.com/track/7j5fL6VV2bActA6yrszLIq"
@@ -986,6 +986,28 @@
       "duration_ms": 222854,
       "name": "Be Alright - Remix",
       "url": "https://open.spotify.com/track/1Uj2EIkCWdfe6XMOscRqBr"
+    },
+    {
+      "album": {
+        "name": "Bebo de Ti",
+        "url": "https://open.spotify.com/album/50vHdmNx3VtxOHGIuuWVD4"
+      },
+      "artists": [
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        },
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224532,
+      "name": "Bebo de Ti",
+      "url": "https://open.spotify.com/track/5Uf2MoFiWWhPjdYWpGbbck"
     },
     {
       "album": {
@@ -1938,7 +1960,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 288053,
       "name": "De Vuelta al Primer Amor",
       "url": "https://open.spotify.com/track/4KdyaTyB7PyC02zdfnfAVj"
@@ -2743,6 +2765,24 @@
     },
     {
       "album": {
+        "name": "Es Con Tus Fuerzas",
+        "url": "https://open.spotify.com/album/1wsJWGmpZhoPKFvBfpwzg1"
+      },
+      "artists": [
+        {
+          "name": "Lowsan Melgar",
+          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232196,
+      "name": "Es Con Tus Fuerzas",
+      "url": "https://open.spotify.com/track/6DNl0jMpEvYsWAaKZZWkV2"
+    },
+    {
+      "album": {
         "name": "Es por Fe",
         "url": "https://open.spotify.com/album/5jyTk422rOEAhVBc1Q4cCR"
       },
@@ -3481,6 +3521,28 @@
     },
     {
       "album": {
+        "name": "Hosanna (feat. Lucas Conslie)",
+        "url": "https://open.spotify.com/album/5ZC6RHxixCN4uFHKDoYqKZ"
+      },
+      "artists": [
+        {
+          "name": "Omar Rodriguez Music",
+          "url": "https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac"
+        },
+        {
+          "name": "Lucas Conslie",
+          "url": "https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245340,
+      "name": "Hosanna (feat. Lucas Conslie)",
+      "url": "https://open.spotify.com/track/5IQq0rqAbhwt58nVovdyr6"
+    },
+    {
+      "album": {
         "name": "Il\u00f3gico",
         "url": "https://open.spotify.com/album/0D95KEMVwtZsLrAT19YDA2"
       },
@@ -3744,6 +3806,28 @@
       "duration_ms": 197500,
       "name": "La Media Vuelta",
       "url": "https://open.spotify.com/track/7r96T3LmNTt7ieA9ovEo2R"
+    },
+    {
+      "album": {
+        "name": "LA MESA",
+        "url": "https://open.spotify.com/album/0djoSU1ZtByuG6BqHdMJVh"
+      },
+      "artists": [
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        },
+        {
+          "name": "Daniela Calveti",
+          "url": "https://open.spotify.com/artist/5pZVqNscC5Q47N9qHH3UUy"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443586,
+      "name": "LA MESA",
+      "url": "https://open.spotify.com/track/60uZkdyAXuJywgNWLBzPlf"
     },
     {
       "album": {
@@ -4216,7 +4300,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 205937,
       "name": "Matem\u00e1ticas",
       "url": "https://open.spotify.com/track/6hqLzdSDJ1J2wlLfDy4dsX"
@@ -5484,7 +5568,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 188499,
       "name": "Peleas Por M\u00ed",
       "url": "https://open.spotify.com/track/4OtOky1czpl4V8FgzRboWW"
@@ -7456,7 +7540,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 255774,
       "name": "Tu Bondad",
       "url": "https://open.spotify.com/track/7xURcWepR5TwKQMhA3vnMC"
@@ -8278,6 +8362,32 @@
       "duration_ms": 177739,
       "name": "Yo No Temer\u00e9",
       "url": "https://open.spotify.com/track/22K60SZD1yIoUtthohjI6s"
+    },
+    {
+      "album": {
+        "name": "Yo Soy Tu Amado (I Am Your Beloved)",
+        "url": "https://open.spotify.com/album/2ytlwM7GCfbSuFWrpxVjCS"
+      },
+      "artists": [
+        {
+          "name": "Som Do Reino",
+          "url": "https://open.spotify.com/artist/4Bei91U4XakJsOUQVxH2Cq"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        },
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515314,
+      "name": "Yo Soy Tu Amado (I Am Your Beloved)",
+      "url": "https://open.spotify.com/track/2C9fMUl9vXTU8aEwmFwGrI"
     },
     {
       "album": {

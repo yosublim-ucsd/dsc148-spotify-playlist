@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek?si=81n9mypdRAuVUB7T2rtLfg"> Baaba J</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,253 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,301 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 49 | [Isoka](https://open.spotify.com/track/2gO1rty4jBXQaP7jSuVIh2) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Q Twins](https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J), [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Isibuko](https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR) | 4:38 |
 | 50 | [Mali \(feat\. Nathi\)](https://open.spotify.com/track/3UgjNSWv99ez4z2B5ARgZI) | [Mlindo The Vocalist](https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI), [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Mali \(feat\. Nathi\)](https://open.spotify.com/album/4NqSQWewfv3gb1lZPaLIgV) | 4:30 |
 
-Snapshot ID: `MCwzNWY0MTY2YWNkMDk1MjA4NjdmNTMxNDBmYTkwNThmZDM4ZDdmNTk1`
+Snapshot ID: `MCw3MTA0ZTYzOWE5ZDI4Nzg4YTBmMWNkYTAwMmFmNmE1MjZhMzNmZmE4`

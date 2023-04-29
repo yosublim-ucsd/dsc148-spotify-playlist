@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "A Little Right Now",
+        "url": "https://open.spotify.com/album/76hO8PwW6PSb87RIHRVfpJ"
+      },
+      "artists": [
+        {
+          "name": "Charles Esten",
+          "url": "https://open.spotify.com/artist/5DOQ7jQ2pnXaiJiIoiEQjz"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211215,
+      "name": "A Little Right Now",
+      "url": "https://open.spotify.com/track/2TB7xUdGMgQb4vdP3TAAyq"
+    },
+    {
+      "album": {
         "name": "One On One",
         "url": "https://open.spotify.com/album/5UGVoX8a8k9bh46FWaVWcr"
       },

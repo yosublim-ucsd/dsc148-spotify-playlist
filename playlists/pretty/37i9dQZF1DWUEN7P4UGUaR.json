@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Louis Pascal",
-  "num_followers": 338,
+  "num_followers": 350,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTY2ZTNiYTRkZjU5NzE1M2Q4OTg4YzQzNTliYjdiNmMwZTcwYTQ5",
+  "snapshot_id": "MCxlYTU2ZWNjOTg1NTA4MzM5N2UzYTUwZWEyZjk0YWE2ZGU5NTQwZWE4",
   "tracks": [
     {
       "added_at": "2023-04-20 23:59:00",
@@ -95,18 +95,18 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC"
+        "name": "Aseda",
+        "url": "https://open.spotify.com/album/7M7BxTDWlHdM85VKItKein"
       },
       "artists": [
         {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+          "name": "Nacee",
+          "url": "https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK"
         }
       ],
-      "duration_ms": 219168,
-      "name": "W'asem",
-      "url": "https://open.spotify.com/track/2P1734fFFj2AG4oekoXtHz"
+      "duration_ms": 256750,
+      "name": "Aseda",
+      "url": "https://open.spotify.com/track/5r8OPDPYNHojAhVsLnXuE1"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -127,18 +127,18 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Aseda",
-        "url": "https://open.spotify.com/album/7M7BxTDWlHdM85VKItKein"
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC"
       },
       "artists": [
         {
-          "name": "Nacee",
-          "url": "https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK"
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
         }
       ],
-      "duration_ms": 256750,
-      "name": "Aseda",
-      "url": "https://open.spotify.com/track/5r8OPDPYNHojAhVsLnXuE1"
+      "duration_ms": 219168,
+      "name": "W'asem",
+      "url": "https://open.spotify.com/track/2P1734fFFj2AG4oekoXtHz"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -211,6 +211,22 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
+        "name": "Adom Grace",
+        "url": "https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        }
+      ],
+      "duration_ms": 290527,
+      "name": "Adom Grace",
+      "url": "https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
         "name": "This Far by Grace",
         "url": "https://open.spotify.com/album/0sApgQ8rsNT5dtKSVhMKWR"
       },
@@ -247,38 +263,6 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Matwen 20",
-        "url": "https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6"
-      },
-      "artists": [
-        {
-          "name": "KOFI OWUSU PEPRAH",
-          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
-        }
-      ],
-      "duration_ms": 365808,
-      "name": "Matwen 20",
-      "url": "https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "Adom Grace",
-        "url": "https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        }
-      ],
-      "duration_ms": 290527,
-      "name": "Adom Grace",
-      "url": "https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
         "name": "Yesu Mo",
         "url": "https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG"
       },
@@ -295,18 +279,34 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Victory Chant",
-        "url": "https://open.spotify.com/album/2DQxNMyBTK6uJ9hULpuMx1"
+        "name": "Matwen 20",
+        "url": "https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6"
       },
       "artists": [
         {
-          "name": "Samsong",
-          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
+          "name": "KOFI OWUSU PEPRAH",
+          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
         }
       ],
-      "duration_ms": 302000,
-      "name": "Victory Chant",
-      "url": "https://open.spotify.com/track/4ubQtD1YBCPCcM3swE129H"
+      "duration_ms": 365808,
+      "name": "Matwen 20",
+      "url": "https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        }
+      ],
+      "duration_ms": 264788,
+      "name": "Awurade Ye",
+      "url": "https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -323,6 +323,22 @@
       "duration_ms": 227258,
       "name": "Guide Me",
       "url": "https://open.spotify.com/track/3MW8vukTtZUkSQi4s9rpDb"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "Victory Chant",
+        "url": "https://open.spotify.com/album/2DQxNMyBTK6uJ9hULpuMx1"
+      },
+      "artists": [
+        {
+          "name": "Samsong",
+          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Victory Chant",
+      "url": "https://open.spotify.com/track/4ubQtD1YBCPCcM3swE129H"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -375,38 +391,6 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Style Bia Bi",
-        "url": "https://open.spotify.com/album/0h2kD49Ru5nAGuEIly7JlK"
-      },
-      "artists": [
-        {
-          "name": "Great Ampong",
-          "url": "https://open.spotify.com/artist/0J8lvyQgeJId1xoC2D1jRg"
-        }
-      ],
-      "duration_ms": 249704,
-      "name": "Style Bia Bi",
-      "url": "https://open.spotify.com/track/0Eu8dLMDhMDrtHeRLRKzdc"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        }
-      ],
-      "duration_ms": 264788,
-      "name": "Awurade Ye",
-      "url": "https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
         "name": "Me Dan Wo (feat. Kweku Teye)",
         "url": "https://open.spotify.com/album/4LJLbuiTeaYa47Ws73xIv5"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 372240,
       "name": "Me Dan Wo (feat. Kweku Teye)",
       "url": "https://open.spotify.com/track/0Dl0uNmmlnO71cIuYX2jhF"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "Style Bia Bi",
+        "url": "https://open.spotify.com/album/0h2kD49Ru5nAGuEIly7JlK"
+      },
+      "artists": [
+        {
+          "name": "Great Ampong",
+          "url": "https://open.spotify.com/artist/0J8lvyQgeJId1xoC2D1jRg"
+        }
+      ],
+      "duration_ms": 249704,
+      "name": "Style Bia Bi",
+      "url": "https://open.spotify.com/track/0Eu8dLMDhMDrtHeRLRKzdc"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -455,6 +455,22 @@
       "duration_ms": 280000,
       "name": "Nyame Tumfo (Live)",
       "url": "https://open.spotify.com/track/30uN5hIhQLOjJTlXC8RKPn"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "Nyansabuakwa Nyame",
+        "url": "https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        }
+      ],
+      "duration_ms": 356200,
+      "name": "Nyansabuakwa Nyame",
+      "url": "https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -507,22 +523,6 @@
       "duration_ms": 566414,
       "name": "Ghana Local Praise Medley",
       "url": "https://open.spotify.com/track/5EpTEpmbU57I9FMGR9m9sV"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "Nyansabuakwa Nyame",
-        "url": "https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        }
-      ],
-      "duration_ms": 356200,
-      "name": "Nyansabuakwa Nyame",
-      "url": "https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "A Letter to the Wise",
-        "url": "https://open.spotify.com/album/7uX0NKSvnJnyDCYvkSMOYh"
-      },
-      "artists": [
-        {
-          "name": "Israel Chemphe",
-          "url": "https://open.spotify.com/artist/1qJeZoDyrYPQ3R02TY1s9Z"
-        }
-      ],
-      "duration_ms": 212323,
-      "name": "A Letter to the Wise",
-      "url": "https://open.spotify.com/track/0e4RCiQHnm2GOZCltde0t7"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
         "name": "Adom Bi",
         "url": "https://open.spotify.com/album/79jWpJZrG5I7T3tCtu6EWO"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 319870,
       "name": "Adom Bi",
       "url": "https://open.spotify.com/track/78qtI2HtGEAmSGyKNMLdiU"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "A Letter to the Wise",
+        "url": "https://open.spotify.com/album/7uX0NKSvnJnyDCYvkSMOYh"
+      },
+      "artists": [
+        {
+          "name": "Israel Chemphe",
+          "url": "https://open.spotify.com/artist/1qJeZoDyrYPQ3R02TY1s9Z"
+        }
+      ],
+      "duration_ms": 212323,
+      "name": "A Letter to the Wise",
+      "url": "https://open.spotify.com/track/0e4RCiQHnm2GOZCltde0t7"
     },
     {
       "added_at": "2023-04-20 23:59:00",

@@ -16,10 +16,28 @@
       ],
       "date_added": "2021-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 81893,
       "name": "Are You Ready for the Summer?",
       "url": "https://open.spotify.com/track/2A86c1BHXoAt1JJKEvihKt"
+    },
+    {
+      "album": {
+        "name": "Camp Lisa",
+        "url": "https://open.spotify.com/album/5vwzr0ct9GkSIDz1B7LlUR"
+      },
+      "artists": [
+        {
+          "name": "Lisa Loeb",
+          "url": "https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81893,
+      "name": "Are You Ready for the Summer?",
+      "url": "https://open.spotify.com/track/5TPTF6jjfJERlFj8TbLOvX"
     },
     {
       "album": {

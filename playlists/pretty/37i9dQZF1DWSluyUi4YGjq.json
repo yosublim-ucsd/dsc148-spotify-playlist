@@ -1,12 +1,12 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. Winter on cover!",
-  "num_followers": 63536,
+  "num_followers": 63937,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGU1OGQ2ZTNjODdlZGY4OTJjMzc3ZTUxOTg1MjdjZDU4OGMwMDY0",
+  "snapshot_id": "MCxhMDQ4ZGQ0Y2ViY2UzMjc0N2Q5MGU2NTIxZGU4NGY3YTRlN2M2ZDlh",
   "tracks": [
     {
       "added_at": "2023-03-13 22:23:31",
@@ -829,20 +829,20 @@
       "url": "https://open.spotify.com/track/3mALM7a4cLufetyxSUPbl5"
     },
     {
-      "added_at": "2023-02-27 23:19:06",
+      "added_at": "2023-02-09 20:06:26",
       "album": {
-        "name": "Bath County",
-        "url": "https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC"
+        "name": "Nuclear Daisies",
+        "url": "https://open.spotify.com/album/0C7POl3J3CmtKZvuDScWiF"
       },
       "artists": [
         {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+          "name": "Nuclear Daisies",
+          "url": "https://open.spotify.com/artist/4YeyVA4cQEijNzJIBMqYOo"
         }
       ],
-      "duration_ms": 190105,
-      "name": "Bath County",
-      "url": "https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq"
+      "duration_ms": 194181,
+      "name": "Heaven in Your Head",
+      "url": "https://open.spotify.com/track/3CSRKYbNultfhwhzOFakGF"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -861,20 +861,20 @@
       "url": "https://open.spotify.com/track/2ZKkGDjImEoTafrLyZHjlp"
     },
     {
-      "added_at": "2023-02-09 20:06:26",
+      "added_at": "2023-02-27 23:19:06",
       "album": {
-        "name": "Nuclear Daisies",
-        "url": "https://open.spotify.com/album/0C7POl3J3CmtKZvuDScWiF"
+        "name": "Bath County",
+        "url": "https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC"
       },
       "artists": [
         {
-          "name": "Nuclear Daisies",
-          "url": "https://open.spotify.com/artist/4YeyVA4cQEijNzJIBMqYOo"
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
         }
       ],
-      "duration_ms": 194181,
-      "name": "Heaven in Your Head",
-      "url": "https://open.spotify.com/track/3CSRKYbNultfhwhzOFakGF"
+      "duration_ms": 190105,
+      "name": "Bath County",
+      "url": "https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq"
     },
     {
       "added_at": "2022-12-15 18:01:43",
@@ -989,22 +989,6 @@
       "url": "https://open.spotify.com/track/7JCBX2hcQ7f7WpjlG89xGh"
     },
     {
-      "added_at": "2022-09-21 00:37:05",
-      "album": {
-        "name": "You Will Never Know Why",
-        "url": "https://open.spotify.com/album/78lIjVFQSSRqO47Pvw1b9M"
-      },
-      "artists": [
-        {
-          "name": "Sweet Trip",
-          "url": "https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM"
-        }
-      ],
-      "duration_ms": 281746,
-      "name": "Air Supply",
-      "url": "https://open.spotify.com/track/3I7Uqll4wyJmfBSDQWiLWh"
-    },
-    {
       "added_at": "2022-05-03 02:08:01",
       "album": {
         "name": "Destiny XL",
@@ -1021,20 +1005,36 @@
       "url": "https://open.spotify.com/track/2GWjuqubd6LAYgimjWiGu3"
     },
     {
-      "added_at": "2022-01-07 19:52:45",
+      "added_at": "2022-09-21 00:37:05",
       "album": {
-        "name": "Strawberry",
-        "url": "https://open.spotify.com/album/5aZjNX2D52tzOPM2FMcA0v"
+        "name": "You Will Never Know Why",
+        "url": "https://open.spotify.com/album/78lIjVFQSSRqO47Pvw1b9M"
       },
       "artists": [
         {
-          "name": "Doss",
-          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+          "name": "Sweet Trip",
+          "url": "https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM"
         }
       ],
-      "duration_ms": 209708,
-      "name": "Strawberry",
-      "url": "https://open.spotify.com/track/0kttqKdToPQupUgaBto3UM"
+      "duration_ms": 281746,
+      "name": "Air Supply",
+      "url": "https://open.spotify.com/track/3I7Uqll4wyJmfBSDQWiLWh"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF"
+      },
+      "artists": [
+        {
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+        }
+      ],
+      "duration_ms": 211319,
+      "name": "Press",
+      "url": "https://open.spotify.com/track/37SnMHwWU7F9isLYZB3taJ"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1053,20 +1053,20 @@
       "url": "https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2022-01-07 19:52:45",
       "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF"
+        "name": "Strawberry",
+        "url": "https://open.spotify.com/album/5aZjNX2D52tzOPM2FMcA0v"
       },
       "artists": [
         {
-          "name": "Whirr",
-          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
         }
       ],
-      "duration_ms": 211319,
-      "name": "Press",
-      "url": "https://open.spotify.com/track/37SnMHwWU7F9isLYZB3taJ"
+      "duration_ms": 209708,
+      "name": "Strawberry",
+      "url": "https://open.spotify.com/track/0kttqKdToPQupUgaBto3UM"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1101,6 +1101,22 @@
       "url": "https://open.spotify.com/track/2gF3wvkKkkuAXGFzAPUBSa"
     },
     {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/3xhF5I7uVcBHWWabkOk9Km"
+      },
+      "artists": [
+        {
+          "name": "Beach Vacation",
+          "url": "https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C"
+        }
+      ],
+      "duration_ms": 142615,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/1W2jSHDSshu2l5mQL5dmT2"
+    },
+    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Happy Songs for Happy Zombies",
@@ -1115,22 +1131,6 @@
       "duration_ms": 204202,
       "name": "Blaster",
       "url": "https://open.spotify.com/track/11DryxGvweDB9WRJhdjQe2"
-    },
-    {
-      "added_at": "2023-02-09 20:06:26",
-      "album": {
-        "name": "taste of concrete",
-        "url": "https://open.spotify.com/album/3P3IXKGBC2d0SfJAvcbg9V"
-      },
-      "artists": [
-        {
-          "name": "Shrimp",
-          "url": "https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC"
-        }
-      ],
-      "duration_ms": 152061,
-      "name": "taste of concrete",
-      "url": "https://open.spotify.com/track/5gsLyERQX8cQslfSqdhTw3"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1149,20 +1149,20 @@
       "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
+      "added_at": "2023-02-09 20:06:26",
       "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/3xhF5I7uVcBHWWabkOk9Km"
+        "name": "taste of concrete",
+        "url": "https://open.spotify.com/album/3P3IXKGBC2d0SfJAvcbg9V"
       },
       "artists": [
         {
-          "name": "Beach Vacation",
-          "url": "https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C"
+          "name": "Shrimp",
+          "url": "https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC"
         }
       ],
-      "duration_ms": 142615,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/1W2jSHDSshu2l5mQL5dmT2"
+      "duration_ms": 152061,
+      "name": "taste of concrete",
+      "url": "https://open.spotify.com/track/5gsLyERQX8cQslfSqdhTw3"
     },
     {
       "added_at": "2021-10-19 01:47:29",

@@ -3382,6 +3382,24 @@
     {
       "album": {
         "name": "Bangs & Works Vol. 2 (The Best of Chicago Footwork)",
+        "url": "https://open.spotify.com/album/1j7imfgVHx5wHwNlJHSOGj"
+      },
+      "artists": [
+        {
+          "name": "DJ Roc",
+          "url": "https://open.spotify.com/artist/3M5fbUWlySs9LximfJj5Da"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176573,
+      "name": "Get Buck Juice",
+      "url": "https://open.spotify.com/track/19wYfRJvIWS5XlQaQIUdY5"
+    },
+    {
+      "album": {
+        "name": "Bangs & Works Vol. 2 (The Best of Chicago Footwork)",
         "url": "https://open.spotify.com/album/7zDff5WuBv3yetVZ4Iul9L"
       },
       "artists": [
@@ -3392,7 +3410,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 176573,
       "name": "Get Buck Juice",
       "url": "https://open.spotify.com/track/3Msnv5mWhIUsy4yX8J04aD"
@@ -4278,6 +4296,24 @@
     {
       "album": {
         "name": "Horse Mout'",
+        "url": "https://open.spotify.com/album/6MMxnASq9CC73fTipi2fgM"
+      },
+      "artists": [
+        {
+          "name": "Basic Rhythm",
+          "url": "https://open.spotify.com/artist/3L3DtTvIVJ9yiQIOEeGCF2"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254754,
+      "name": "Horse Mout'",
+      "url": "https://open.spotify.com/track/3gVc0IuLOvnE2ESU5bPhjp"
+    },
+    {
+      "album": {
+        "name": "Horse Mout'",
         "url": "https://open.spotify.com/album/1SFdGcRtOAdeGhfJh1dCBd"
       },
       "artists": [
@@ -4288,7 +4324,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 254754,
       "name": "Horse Mout'",
       "url": "https://open.spotify.com/track/62vWEfJSFuLlhq4DtOkLov"
@@ -6074,10 +6110,28 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 167973,
       "name": "One Blood",
       "url": "https://open.spotify.com/track/0ydUOg7O89rwt6cVteWJ2B"
+    },
+    {
+      "album": {
+        "name": "The Crack Capone",
+        "url": "https://open.spotify.com/album/2D7uCIc6VuH2cM4ygaTkeT"
+      },
+      "artists": [
+        {
+          "name": "DJ Roc",
+          "url": "https://open.spotify.com/artist/3M5fbUWlySs9LximfJj5Da"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167973,
+      "name": "One Blood",
+      "url": "https://open.spotify.com/track/4sn5Cciqk5lSWAV0SwwwWg"
     },
     {
       "album": {
@@ -7616,7 +7670,7 @@
     {
       "album": {
         "name": "Reworkz E.P.",
-        "url": "https://open.spotify.com/album/4fDMA35GmtYndarl6MmENj"
+        "url": "https://open.spotify.com/album/4qjrehdzYQen9By6HBuuGl"
       },
       "artists": [
         {
@@ -7627,6 +7681,24 @@
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 312106,
+      "name": "Set It",
+      "url": "https://open.spotify.com/track/1tWwqxkc3xrx8j3U2h6oSx"
+    },
+    {
+      "album": {
+        "name": "Reworkz E.P.",
+        "url": "https://open.spotify.com/album/4fDMA35GmtYndarl6MmENj"
+      },
+      "artists": [
+        {
+          "name": "Dream Continuum",
+          "url": "https://open.spotify.com/artist/4VRT7JNcqS3yMV0rBxxUlV"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
       "duration_ms": 312106,
       "name": "Set It",
       "url": "https://open.spotify.com/track/5MN5F79KBF9vbZAa9i4plU"
@@ -8532,7 +8604,7 @@
     {
       "album": {
         "name": "Break It Down EP",
-        "url": "https://open.spotify.com/album/1hk2CB4Z5gCyxBtSZfYYB3"
+        "url": "https://open.spotify.com/album/5Mq64Tu8Mcb9ue5DP2fT6e"
       },
       "artists": [
         {
@@ -8551,6 +8623,32 @@
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 264334,
+      "name": "That Love (feat. Tripletrain & DJ Manny)",
+      "url": "https://open.spotify.com/track/5naL3Qm9wMOBYAhceULGyG"
+    },
+    {
+      "album": {
+        "name": "Break It Down EP",
+        "url": "https://open.spotify.com/album/1hk2CB4Z5gCyxBtSZfYYB3"
+      },
+      "artists": [
+        {
+          "name": "DJ Taye",
+          "url": "https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c"
+        },
+        {
+          "name": "Tripletrain",
+          "url": "https://open.spotify.com/artist/47UATnEOiiEMa2OFvZjv6i"
+        },
+        {
+          "name": "DJ Manny",
+          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
       "duration_ms": 264334,
       "name": "That Love (feat. Tripletrain & DJ Manny)",
       "url": "https://open.spotify.com/track/6JhIAErBNmOAa2kfYfhHLF"

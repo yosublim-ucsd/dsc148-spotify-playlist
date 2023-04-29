@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MbMfAHb8U0.md) - [plain]
 
 > The tracks that you love from the artists you love\. Cover: Erykah Badu
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,703 likes - 99 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,060 likes - 99 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MbMfAHb8U0.md) - [plain]
 | 93 | [Cloud 9 \- Main](https://open.spotify.com/track/7muWyt73NWsGW3aPV1YILN) | [Donnie](https://open.spotify.com/artist/3fvn4MvWJXwY17wpwnlgJN) | [The Colored Section](https://open.spotify.com/album/1LOlC0sCNpY3O18pR59Ald) | 5:08 |
 | 94 | [Give In](https://open.spotify.com/track/0tPnIIrLczf1ljpSnYe9qv) | [4hero](https://open.spotify.com/artist/1BlBZ9jQGOjmj6Zykgg43L), [Darien Brockington](https://open.spotify.com/artist/2yNKEtbsHXCHkkluxANoD8), [Phonte](https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC) | [Play With the Changes](https://open.spotify.com/album/5F4ERW3zwBLDTC4dYxaplL) | 4:52 |
 | 95 | [Count The Ways](https://open.spotify.com/track/1l7RyfwJeCGt8pZ9lQWz9C) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Detroit Deli \(A Taste Of Detroit\)](https://open.spotify.com/album/2mpzeA7pHNIDAPii4EEKsB) | 4:33 |
-| 96 | [What Kind of Cool \(QuestLove Remix\)](https://open.spotify.com/track/5XjZ01IeBUbqm5s1REy1G3) | [Cody Chesnutt](https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr) | [Landing on A Hundred: B Sides and Remixes](https://open.spotify.com/album/09plLtas5Yq1vBiwv0esDv) | 5:31 |
+| 96 | [What Kind of Cool \(QuestLove Remix\)](https://open.spotify.com/track/2yJxuLU2AcwyPkEXhdHkER) | [Cody Chesnutt](https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr) | [Landing on A Hundred: B Sides and Remixes](https://open.spotify.com/album/33PRH4Kx8HEVk6P6IdtuYu) | 5:31 |
 | 97 | [I\-69](https://open.spotify.com/track/2oORAKlxaN20gTXUPW4htz) | [Roman GianArthur](https://open.spotify.com/artist/7hgRzsQGjlm1zifNoigyB9) | [I\-69](https://open.spotify.com/album/1WPl1u3o674TfElT6dJr96) | 4:05 |
 | 98 | [Love Jones](https://open.spotify.com/track/0eYwyhS1SsHswOZG23V0Qr) | [Chico DeBarge](https://open.spotify.com/artist/67ISVBZzcCTTKM17Ps00sx) | [Long Time No See](https://open.spotify.com/album/0AHbQKIEj4X5ghszLRhnLL) | 4:43 |
 | 99 | [No Us, No Them](https://open.spotify.com/track/1JP1HHD3E0ovkSkh4UmQGV) | [Bernhoft](https://open.spotify.com/artist/7hJnLLfzUy0oDOtNZF8wUm), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Islander](https://open.spotify.com/album/6HEzdx1DBhs4ACcWde55vG) | 5:41 |
 
-Snapshot ID: `MCw4OGNiNGNjMDlmZjU0N2Q2ZDNiOTEzYTIxODI3MDk3MGQ2NWY1MWZi`
+Snapshot ID: `MCwzMThlNWJjNjRlYWM5YTc5YjM4ZjU5NDI0YWI3ZTY5MzkwNmQ4NTU3`

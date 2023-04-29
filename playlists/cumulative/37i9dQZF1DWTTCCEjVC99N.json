@@ -1327,6 +1327,24 @@
     },
     {
       "album": {
+        "name": "Nour El Ein",
+        "url": "https://open.spotify.com/album/3qZ0kZ8d3F8EpvEyx0yemA"
+      },
+      "artists": [
+        {
+          "name": "Amr Diab",
+          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307762,
+      "name": "Nour El Ein",
+      "url": "https://open.spotify.com/track/3ZTuYuaV1fhdNnuIBuzTYy"
+    },
+    {
+      "album": {
         "name": "Oum O'aaf",
         "url": "https://open.spotify.com/album/7cyeJu1PlHROs9F0au7XCR"
       },

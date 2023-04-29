@@ -2657,6 +2657,24 @@
     },
     {
       "album": {
+        "name": "Excellerator",
+        "url": "https://open.spotify.com/album/7fT89oyy3uT3bsL7QSACfF"
+      },
+      "artists": [
+        {
+          "name": "OMOZO",
+          "url": "https://open.spotify.com/artist/0UADN60KWS7lO5isbnePqy"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154354,
+      "name": "Excellerator",
+      "url": "https://open.spotify.com/track/11M7ebTCTSmTaFLUfF3zob"
+    },
+    {
+      "album": {
         "name": "Express",
         "url": "https://open.spotify.com/album/4YuVkDxFHZbloTnjEaNdwz"
       },
@@ -6086,6 +6104,24 @@
       "duration_ms": 209500,
       "name": "Paramount Crowning",
       "url": "https://open.spotify.com/track/1HWbqpp8OknYsqHWsxywXy"
+    },
+    {
+      "album": {
+        "name": "particles",
+        "url": "https://open.spotify.com/album/5dgJ0cZ4qP0qvR1hWilkT9"
+      },
+      "artists": [
+        {
+          "name": "fresh from the moon",
+          "url": "https://open.spotify.com/artist/3i0x5wTZo4kRfN75ESlhqJ"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124931,
+      "name": "particles",
+      "url": "https://open.spotify.com/track/7ab8HZcP0Lq8zTOsKkM2fH"
     },
     {
       "album": {

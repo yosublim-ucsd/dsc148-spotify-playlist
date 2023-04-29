@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJLURSJTY88.md) - [plain]
 
 > Blending their Middle Eastern heritage with their Western upbringing, the duo <a href="spotify:artist:5bKdC6382t97Qnpvs81Rqx">Bedouin</a> presents us with a melodic mix that will delight your ears.
 
-[Spotify](https://open.spotify.com/user/spotify) - 586 likes - 11 songs - 58 min 55 sec
+[Spotify](https://open.spotify.com/user/spotify) - 587 likes - 11 songs - 58 min 55 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,4 +20,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJLURSJTY88.md) - [plain]
 | 10 | [Paris Is For Lovers \(My Love\) feat\. Tomas Høffding \- Mixed](https://open.spotify.com/track/79nwTgmtaUIK3j6Yc5j3VU) | [Terranova](https://open.spotify.com/artist/5ZrGK55yglfGEOvnB2japP), [Tomas Høffding](https://open.spotify.com/artist/3vAZRzjco8xKk2NbT5BQ6A) | [Paris Is For Lovers \(My Love\) feat\. Tomas Høffding \[Mixed\]](https://open.spotify.com/album/7fSiJREFLaDXnBnIimwR2o) | 6:02 |
 | 11 | [Amore \- Mixed](https://open.spotify.com/track/5hTOx4BiHbuPuYBw8k1s22) | [Augusto Yepes](https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs), [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW) | [Amore \(Mixed\)](https://open.spotify.com/album/4hSoK6uEmB6qK9WcvkHlLx) | 5:52 |
 
-Snapshot ID: `MCxkZDJjYTg3N2NkN2FlZmI1NmViYWYwN2I5ZTI3NzA5MDRiZTViYTMy`
+Snapshot ID: `MCw0MDQyYWJhN2U1ZmNhNWViMWMxN2M3YmJjZDE1ZWMxOWRkZWU4MTAx`

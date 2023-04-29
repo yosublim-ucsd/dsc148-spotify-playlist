@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星星！Cover: Everydaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,023 likes - 67 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,031 likes - 67 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 66 | [不凡 \- 愛奇藝原創華劇《不良執念清除師》插曲](https://open.spotify.com/track/7MJswc6nLJeHZVeZgx3mMX) | [張若凡RuoFan](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [愛奇藝原創華劇《不良執念清除師》原聲帶](https://open.spotify.com/album/4lQN080kPobeTivUu7G96A) | 3:46 |
 | 67 | [因為我還年輕](https://open.spotify.com/track/2rJZJT8waYGkWIDlP6OKVI) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ) | [因為我還年輕](https://open.spotify.com/album/6KGZcpuMVu6pKO7E0XMCDH) | 3:30 |
 
-Snapshot ID: `MCxiMWYxMTk5Yjc4YmY0ZTA0YjdlYzAyNDk5M2ZiMDFkMGYwYjM4NjU5`
+Snapshot ID: `MCwxYWEyYzRlYzFhMjI1YmM3NWY3OGJjYzUzY2Q2YjM2MDgzYzQzZjgx`

@@ -4,7 +4,7 @@
 
 > Comforting Blues to warm the soul when there’s no point going outside.
 
-106 songs - 7 hr 10 min
+109 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [How Long Blues](https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 5:17 | 2022-07-28 |  |
 | [I Am The Blues](https://open.spotify.com/track/1LPfIa3P7kqSmz07VCg6Ui) | [Memphis Slim](https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ) | [The Sonet Blues Story](https://open.spotify.com/album/40GHbce7vbiieZ6raVqLK4) | 2:49 | 2022-05-25 | 2022-07-29 |
 | [I Can't Quit You, Baby](https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [I Am The Blues](https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N) | 6:40 | 2022-05-25 |  |
+| [I Get The Blues When It Rains](https://open.spotify.com/track/1c6AfG92khPKfcwXspM8zf) | [Jon Cleary](https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX) | [So Swell](https://open.spotify.com/album/5VW0Vy8eqvS8ep0CsQvXfO) | 4:04 | 2023-04-28 |  |
 | [I Have to Laugh](https://open.spotify.com/track/3DpMrANcwutKqflA42yKGX) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Men of the World: The Early Years](https://open.spotify.com/album/2K7v8gzTtmyX0fjvAVUkzt) | 3:27 | 2022-07-28 |  |
 | [I Need Some Air](https://open.spotify.com/track/4VJ7hK0xONIrpCk5m3Vm4a) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [The Biggest Thing Since Colossus](https://open.spotify.com/album/3c4ALOvwjqyHULa9T7jNqX) | 4:37 | 2022-05-25 | 2022-07-29 |
 | [I Need Some Air](https://open.spotify.com/track/2AkVirM9aeaGbl3pLX32n4) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [The Biggest Thing Since Colossus](https://open.spotify.com/album/0JTpT75jTlXCJqAoCw1H4b) | 4:40 | 2022-07-28 |  |
@@ -98,7 +99,8 @@
 | [The Man Wants Me Dead](https://open.spotify.com/track/7xANX2a9g4UJihLHe6YfTm) | [Byther Smith](https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR) | [Byther Smith in Europe Vol\. 2](https://open.spotify.com/album/4kRwRVPeQcELa0zHTczVPx) | 5:01 | 2023-03-03 |  |
 | [There Is Always Love](https://open.spotify.com/track/7iaA4WHolgWigiQJumrlZy) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [A Soul to Claim](https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj) | 3:33 | 2022-07-28 |  |
 | [Third Degree](https://open.spotify.com/track/4wLh7mmaN46yRMowSkGDSF) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB) | [7936 South Rhodes](https://open.spotify.com/album/5JVki42XlStJW9uGgAXWu5) | 4:40 | 2022-05-25 |  |
-| [Three Way Party \(feat\. Mitch Kashmar & Ronnie Shellist\)](https://open.spotify.com/track/42OFBJR8sMnWVRwoPFfTbx) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Porch Sessions](https://open.spotify.com/album/1HiM9YWyFh75nasggcpRoE) | 5:09 | 2022-07-28 |  |
+| [Three Way Party \(feat\. Mitch Kashmar & Ronnie Shellist\)](https://open.spotify.com/track/42OFBJR8sMnWVRwoPFfTbx) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Porch Sessions](https://open.spotify.com/album/1HiM9YWyFh75nasggcpRoE) | 5:09 | 2022-07-28 | 2023-04-29 |
+| [Three Way Party \(feat\. Mitch Kashmar & Ronnie Shellist\)](https://open.spotify.com/track/64mR0MqUFjxqccKrF96MyV) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Porch Sessions](https://open.spotify.com/album/1EypaqokUNZiaYafQZP5az) | 5:09 | 2023-04-28 |  |
 | [Tired Man](https://open.spotify.com/track/3fFT7RWQ9Zgj2Hoec3644S) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Collins Mix](https://open.spotify.com/album/4mJwpxn2dpytO1XnQHEEcH) | 5:01 | 2022-05-25 | 2022-07-29 |
 | [Trouble In Mind](https://open.spotify.com/track/4LGB1Oo4LYCH3pmdaE94ce) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [King Of The Blues](https://open.spotify.com/album/2Wr5LRhgVQ9c8MsM4bj7r3) | 3:43 | 2022-05-25 | 2022-07-29 |
 | [Trouble In Mind](https://open.spotify.com/track/6BCPs3UOkxbeTpI7cYsOkk) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Woman Across The River](https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs) | 3:43 | 2022-07-28 |  |
@@ -111,7 +113,8 @@
 | [Tupelo Blues](https://open.spotify.com/track/3Qoo65OB1f4mgqSqQGyPbQ) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Country Blues Of John Lee Hooker](https://open.spotify.com/album/0CHr7nfBBFriUQqSqQw8pt) | 3:23 | 2022-11-23 |  |
 | [When The Welfare Turns Its Back On You](https://open.spotify.com/track/0TgqyhREoY6ZXQ1pA6qo5J) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 5:26 | 2022-05-25 | 2022-07-29 |
 | [Without You \- 2013 Remaster](https://open.spotify.com/track/7JS6aAiymUcmAqEYEnCrlX) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Then Play On \(2013 Remaster; Expanded Edition\)](https://open.spotify.com/album/4Ji83LjzvEzFoCpN85m5lW) | 4:35 | 2022-07-28 |  |
-| [Woman, Woman Blues](https://open.spotify.com/track/7GVDOpRbvMKBluomhfWtPZ) | [Eli "Paperboy" Reed](https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x) | [Sings Walkin' and Talkin' \(And Other Smash Hits\)](https://open.spotify.com/album/5L5KwMBMUneU6F7ygt7pN3) | 3:36 | 2023-02-24 |  |
+| [Woman, Woman Blues](https://open.spotify.com/track/4juGFYyc2AFvxCqQEOa3GV) | [Eli "Paperboy" Reed](https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x) | [Sings Walkin' and Talkin' \(And Other Smash Hits\)](https://open.spotify.com/album/4d5CFjkunYXCIvSSLLcAVj) | 3:36 | 2023-04-28 |  |
+| [Woman, Woman Blues](https://open.spotify.com/track/7GVDOpRbvMKBluomhfWtPZ) | [Eli "Paperboy" Reed](https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x) | [Sings Walkin' and Talkin' \(And Other Smash Hits\)](https://open.spotify.com/album/5L5KwMBMUneU6F7ygt7pN3) | 3:36 | 2023-02-24 | 2023-04-29 |
 | [You Shook Me](https://open.spotify.com/track/1xns0tyPRpOrODwND6ELTF) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [I Am The Blues](https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N) | 4:15 | 2022-05-25 |  |
 | [Your Mind Is on Vacation](https://open.spotify.com/track/1GEf45ad9tT9njeDYw9WPx) | [Mose Allison](https://open.spotify.com/artist/0sN4enVJwylJKEXZlSbgsm) | [I Don't Worry About A Thing](https://open.spotify.com/album/58vFtbiyFPwDKwdhRI5D4V) | 2:37 | 2022-07-01 |  |
 

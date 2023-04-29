@@ -4,7 +4,7 @@
 
 > Acoustic and roots music gems.
 
-350 songs - 21 hr 44 min
+351 songs - 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Down in the Lonesome Draw](https://open.spotify.com/track/4PVkyVnAow2Tg3j1FL1UYW) | [Cahalen Morrison & Eli West](https://open.spotify.com/artist/36q9hgg6HgeYXR4IyC4HNt) | [I'll Swing My Hammer With Both My Hands](https://open.spotify.com/album/6ykVqJ5Cjp2EUxM31dHO4r) | 4:36 | 2022-01-21 | 2022-06-09 |
 | [Down Where The Drunkards Roll](https://open.spotify.com/track/6UAeM4hpfyirF8DsNfPqdQ) | [Richard & Linda Thompson](https://open.spotify.com/artist/4hw4TPMyAzHqNBcWtoDrK5) | [I Want To See The Bright Lights Tonight](https://open.spotify.com/album/1K1Qdd60pW48wEgWGQLeRt) | 4:06 | 2022-01-21 | 2022-06-09 |
 | [Dream in Blue](https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [The Stray Birds](https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t) | 3:32 | 2021-12-10 |  |
-| [Echo \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/2e9FxyGISHtOxXdKHTw8QP) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es) | 3:31 | 2022-06-08 |  |
+| [Echo \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/2e9FxyGISHtOxXdKHTw8QP) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es) | 3:31 | 2022-06-08 | 2023-04-29 |
 | [Echo \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2d7lM2tUbVZbfOvmJFn4pw) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/774yLThHwXXqrrH2bgF912) | 3:31 | 2021-12-10 | 2022-07-29 |
 | [Elijah \- Acoustic Version](https://open.spotify.com/track/5USnlTd40L2fKioMeNMOBJ) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [Elijah \(Acoustic Version\)](https://open.spotify.com/album/6a7554MOvC2xbJxA1P2LAz) | 4:39 | 2021-12-10 | 2022-07-28 |
 | [Elijah \- Acoustic Version](https://open.spotify.com/track/6FnCRa4EVBmzHaLxKKGsCb) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [Temple \(Unplugged\)](https://open.spotify.com/album/7FAc0Om3wUx1X87f01EFvW) | 4:39 | 2022-06-08 | 2023-01-28 |
@@ -201,6 +201,7 @@
 | [On Board](https://open.spotify.com/track/0ss3NIhmAPfWGpe7NR0kHA) | [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY), [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [On Board](https://open.spotify.com/album/12aYaWsu8zUyxvdCPZH4hY) | 5:10 | 2022-06-08 |  |
 | [On Board](https://open.spotify.com/track/5WCp8teE5DiS3lYl2EftcU) | [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY), [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [On Board](https://open.spotify.com/album/0YQXRn90SNUP9thoGosAnx) | 5:10 | 2021-12-10 | 2022-07-29 |
 | [On The Road Again](https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [On The Road Again](https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb) | 2:53 | 2021-12-10 |  |
+| [On The Run](https://open.spotify.com/track/6mH8mtSaMYWlczrFSod8F3) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [On The Run](https://open.spotify.com/album/47bkK4Go9vHHFDLN3y5RLX) | 3:54 | 2023-04-28 |  |
 | [On Your Horizon](https://open.spotify.com/track/3dr8xPneQCutILjSfFBHiN) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Ancient Transition](https://open.spotify.com/album/34OgX0UTWfVQtXHIntUsLT) | 4:52 | 2021-12-10 | 2022-07-29 |
 | [On Your Horizon](https://open.spotify.com/track/5vXBUBJBvAN7bvGDj6kJjN) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Ancient Transition](https://open.spotify.com/album/1ybYkyaTa4UKK38JnMXAJl) | 4:52 | 2022-06-08 |  |
 | [On Your Way \- Acoustic](https://open.spotify.com/track/6WsDkYODeOVH7iOBDuXWVZ) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect \(Deluxe\)](https://open.spotify.com/album/15utleqV2llYGHYuD72rs8) | 3:08 | 2022-09-09 | 2022-11-25 |

@@ -4,7 +4,7 @@
 
 > Lyrical\. Legit\. Folk, Americana, and Singer\-Songwriter music features LGBTQIA+ acts and allies\. Cover: Adeem the Artist
 
-155 songs - 9 hr 43 min
+156 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Gay Messiah](https://open.spotify.com/track/6d1P91nb0Hk6vpQHQV1zN0) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Want Two](https://open.spotify.com/album/6agP9hBwmPQWWEqt5aerMG) | 3:14 | 2022-06-10 |  |
 | [Gay Messiah](https://open.spotify.com/track/6HuYQDa2x7srgKrt3QG6T4) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [True Colors](https://open.spotify.com/album/0Q5MChaGXpiGGDewcfXebW) | 3:14 | 2022-06-10 | 2022-11-13 |
 | [Gentry](https://open.spotify.com/track/1xOcMLmKMhtGIemNEYf9Qf) | [Chris Garneau](https://open.spotify.com/artist/6N6oxcjNigJQq0RWeC49Rg) | [Yours](https://open.spotify.com/album/67hF3IC3XzAaMIgTENY3kN) | 2:57 | 2021-06-01 |  |
-| [Girls, Girls, Girls](https://open.spotify.com/track/1gemgwHfru1nmQOZlEaxt9) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [White Tiger](https://open.spotify.com/album/6rnwrfo7Hh006stk2UZuiE) | 2:50 | 2022-06-01 |  |
+| [Girls, Girls, Girls](https://open.spotify.com/track/1gemgwHfru1nmQOZlEaxt9) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [White Tiger](https://open.spotify.com/album/6rnwrfo7Hh006stk2UZuiE) | 2:50 | 2022-06-01 | 2023-04-29 |
+| [Girls, Girls, Girls](https://open.spotify.com/track/3ZF4gOd2g6x4yY8UYr3n6V) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [White Tiger](https://open.spotify.com/album/1cLsI0tJ76BKZZePhwVRxi) | 2:50 | 2023-04-04 |  |
 | [GMF](https://open.spotify.com/track/1mH84zLWFB3MkqlavtNjrf) | [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [Pale Green Ghosts](https://open.spotify.com/album/2dfTV7CktUEBkZCHiB7VQB) | 5:13 | 2021-06-01 | 2022-07-29 |
 | [GMF](https://open.spotify.com/track/4XluehCQCnhhYD4cAd9Wfu) | [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [Pale Green Ghosts](https://open.spotify.com/album/7JzIz5uW3p6IUPOtAzOIyw) | 5:13 | 2022-06-10 |  |
 | [Hangman](https://open.spotify.com/track/2IqJS58ybf01nSQYMme5Ku) | [Chris Pureka](https://open.spotify.com/artist/0TcLzrilnmNFyaTgLULSg3) | [How I Learned to See in the Dark](https://open.spotify.com/album/0M8a5g7ff4dGXnU8ofv4di) | 4:52 | 2021-06-01 |  |

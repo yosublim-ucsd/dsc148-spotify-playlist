@@ -4,7 +4,7 @@
 
 > Respira profundamente y relaja tu mente.
 
-214 songs - 10 hr 53 min
+215 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Consapevolezza](https://open.spotify.com/track/63kxLIjDG9maJO1T1oxVoP) | [Dormiente](https://open.spotify.com/artist/5CsUyEbyQ9JoZLTaP9HJhu) | [Consapevolezza](https://open.spotify.com/album/5miTWb698z08O6V5pxTc8X) | 2:34 | 2022-09-02 |  |
 | [Consciousness](https://open.spotify.com/track/5k7FW9EOM1Xaxr1qdRCQzj) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Origin of I](https://open.spotify.com/album/34WplMhHu29z1djNneameH) | 3:32 | 2022-07-15 |  |
 | [Constellation](https://open.spotify.com/track/4nxiVXO8GJcHZMIb0UJMxv) | [Nagawa Meditation](https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ) | [Chapter One](https://open.spotify.com/album/165sSNwDCf4EhbZ9fuSxWJ) | 3:42 | 2022-07-15 |  |
+| [Cosmosis](https://open.spotify.com/track/0bvAQZ7fx0opg1XDY0CCHT) | [Embertone](https://open.spotify.com/artist/64wQLdtq3qw5sCdJlK4CwY) | [Cosmosis](https://open.spotify.com/album/5e26lAWV8Sindc9WXm83dY) | 3:04 | 2023-04-28 |  |
 | [Crepuscular Light](https://open.spotify.com/track/22Gxnq14IyFZgPcoohx5qQ) | [Casiamty](https://open.spotify.com/artist/4MkWDFm702DiQ6TYCdFyh0) | [Crepuscular Light](https://open.spotify.com/album/0XmxSLDO7hmFDkQNt6DLer) | 2:39 | 2022-11-11 |  |
 | [Cross A Line](https://open.spotify.com/track/1IkrL2wE6aWYzOmWjZmNO9) | [Sean Altar](https://open.spotify.com/artist/3Jo70Smt1IRBEAGBeXnczk) | [Cross A Line](https://open.spotify.com/album/32PoI04cGJfCgmH003knVN) | 2:18 | 2022-07-15 |  |
 | [Crown Chakra \- Asian Flute for Centering](https://open.spotify.com/track/0BK6O7XWuSGQTZPe2nJ4EW) | [Massage Tribe](https://open.spotify.com/artist/14RkTXnwrf6D09TfPWcR5C) | [Chakra Healing \- Massage & Meditation: Tibetan Singing Bowls & Native Flute](https://open.spotify.com/album/7FWWljVBhFUQsc9pF8nkNa) | 5:12 | 2022-07-15 | 2022-08-20 |
@@ -104,7 +105,7 @@
 | [Inner Universe](https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Inner Universe](https://open.spotify.com/album/79nhvpmbNmMMVjPiOkzs2G) | 3:30 | 2022-07-15 |  |
 | [Intentional State](https://open.spotify.com/track/0PTyLUmKBZpnxOGl1t5elw) | [Ella Drake](https://open.spotify.com/artist/0O76d5oDfMqnPoxRN29bpx) | [Intentional State](https://open.spotify.com/album/3cRUAysRl6uKb5EYyqetOu) | 3:40 | 2022-07-15 |  |
 | [Invisible Currents](https://open.spotify.com/track/58F2NUnMXH9VKWESwi05Z1) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Distant Sunrise](https://open.spotify.com/album/4isWOKOddFFaUGOApJL8uK) | 2:32 | 2022-08-23 |  |
-| [Iridium \(Alpha 8 hz\)](https://open.spotify.com/track/4klPTHZuYtEDzKcL9Mi4dn) | [Smoove Nappers](https://open.spotify.com/artist/1FQ5ICSZEEZRk68yEJ0Ol1) | [Iridium \(Alpha 8 hz\)](https://open.spotify.com/album/1xhIrmmpbdMtXHK92Npdks) | 3:30 | 2022-07-15 |  |
+| [Iridium \(Alpha 8 hz\)](https://open.spotify.com/track/4klPTHZuYtEDzKcL9Mi4dn) | [Smoove Nappers](https://open.spotify.com/artist/1FQ5ICSZEEZRk68yEJ0Ol1) | [Iridium \(Alpha 8 hz\)](https://open.spotify.com/album/1xhIrmmpbdMtXHK92Npdks) | 3:30 | 2022-07-15 | 2023-04-29 |
 | [Islands Above](https://open.spotify.com/track/0KJVIy0PAoldzsrzC96b8d) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Islands Above](https://open.spotify.com/album/3XoFd2HGKs63yw9EC4N2DX) | 2:36 | 2022-08-05 |  |
 | [Je continue d'apprendre](https://open.spotify.com/track/0ts0VElEurDclsFS8FLFwA) | [Roar Martinsen](https://open.spotify.com/artist/4IWKt1IRlTbunWA0Ge9MIN) | [Je continue d'apprendre](https://open.spotify.com/album/0hBjqma2rfsY0IZEDkUZD0) | 1:40 | 2022-07-15 |  |
 | [Jeevan](https://open.spotify.com/track/06k8aoKACp7ouBnP1lZFOz) | [Gamini Khatri](https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i) | [Jeevan](https://open.spotify.com/album/2DOS9BHPBdFcVrjJf2YPsJ) | 2:30 | 2022-07-15 |  |

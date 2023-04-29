@@ -4,7 +4,7 @@
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-237 songs - 17 hr 21 min
+238 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [El Azul del Cielo](https://open.spotify.com/track/47uAjNgAauD7Oe4gmLvjj6) | [Romboi](https://open.spotify.com/artist/7AevNCcvxBEy5z42d2A2RO), [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH), [De Juepuchas](https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC) | [El Azul del Cielo](https://open.spotify.com/album/69MTsmElLiYOavU5H0FD9U) | 3:38 | 2022-04-15 | 2022-04-19 |
 | [El Cafetal](https://open.spotify.com/track/2XsfAFoTRjddzRz52aIJek) | [Vilamarea](https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ) | [El Cafetal](https://open.spotify.com/album/5HFvxyfp9eb2PwzFgubQ48) | 4:04 | 2021-11-26 | 2022-07-07 |
 | [El Caribe](https://open.spotify.com/track/2rWMuS7dtcxF0pMlgfpexb) | [Mawimbi](https://open.spotify.com/artist/5xSGV6CrADwSt46Q7WHAcN), [Ghetto Kumbé](https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3) | [El Caribe](https://open.spotify.com/album/7oS08pFSLP4xDiq7bw7Tca) | 3:59 | 2021-11-26 | 2022-07-26 |
+| [El Cavilante](https://open.spotify.com/track/2olLGTNlKi5hPLVulIpvst) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG), [Mikongo](https://open.spotify.com/artist/7q9AmXPI7sYCKR75Fpdi45), [Sara Van](https://open.spotify.com/artist/1ALGGo6rUkJPZfwjWyETiY) | [Zenit & Nadir](https://open.spotify.com/album/5F3AulLRnkl7a52gcim5q6) | 4:45 | 2023-02-13 |  |
 | [El Cavilante](https://open.spotify.com/track/7BiqRYBysbRJlkUAWN6nkd) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG), [Sara Van](https://open.spotify.com/artist/1ALGGo6rUkJPZfwjWyETiY), [Mikongo](https://open.spotify.com/artist/7q9AmXPI7sYCKR75Fpdi45) | [El Cavilante](https://open.spotify.com/album/6fBSdnk7SnQP3ZczSveBHe) | 4:45 | 2021-11-26 | 2022-07-29 |
 | [El Futuro Ya Pasó \(feat\. iLe\)](https://open.spotify.com/track/2ubSZ3rgGRYWm64ksUb0rg) | [Trending Tropics](https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Trending Tropics](https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V) | 3:08 | 2022-04-15 | 2022-07-28 |
 | [El Mago Georges](https://open.spotify.com/track/1CJ5JejmIAEtShoxy8DQHU) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Pleamar](https://open.spotify.com/album/2I9xcItj7QW0UFZUIZy6sH) | 3:55 | 2021-11-26 | 2022-07-29 |
@@ -89,7 +90,7 @@
 | [Fuego de Cumbia / Dub de Sangre Pura \- Dub Mix](https://open.spotify.com/track/4o5CcQ1vD1Ikr0yeEcb9s6) | [Los Gaiteros de San Jacinto](https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO) | [Dub de Gaita](https://open.spotify.com/album/7aFGsX83VM3UQBtUk3S6Gk) | 5:46 | 2021-11-26 | 2022-07-29 |
 | [Fuego Que Te Llama](https://open.spotify.com/track/6d3iveqfwdbzSKPSEqEe2k) | [Sidestepper](https://open.spotify.com/artist/6HnF6i8GjIQbRbUmGXvr1B) | [Supernatural Love](https://open.spotify.com/album/6l6TX9RcpFLmY2H3PgSiqn) | 4:44 | 2021-11-26 | 2022-07-27 |
 | [Ghost Dance](https://open.spotify.com/track/2K8z5hrIFrCTcYRab2EEbm) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [NO VISA](https://open.spotify.com/album/7Jem6NliPn5sp6LVkMDlHq) | 3:38 | 2021-11-26 | 2022-07-25 |
-| [Ghost Dance](https://open.spotify.com/track/4n7OorABBVfxTI7vId6WtK) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [NO VISA](https://open.spotify.com/album/3XQC3DeLtnZaCMVMdbBVRA) | 3:38 | 2022-04-15 |  |
+| [Ghost Dance](https://open.spotify.com/track/4n7OorABBVfxTI7vId6WtK) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [NO VISA](https://open.spotify.com/album/3XQC3DeLtnZaCMVMdbBVRA) | 3:38 | 2022-04-15 | 2023-04-29 |
 | [Hiperbórea \- Quixosis Remix](https://open.spotify.com/track/18ouVxNiqAgqUSe4yFFweO) | [DNGDNGDNG](https://open.spotify.com/artist/4qw8wHJ1ZGNFQVZ1zM4NOq), [Quixosis](https://open.spotify.com/artist/1kBj1OQBW8iSmYbxIIQgcA) | [Door to the Cosmos](https://open.spotify.com/album/5OXv7liojuuI7rTt5JSZY8) | 4:15 | 2021-11-26 | 2022-05-11 |
 | [Hipnótico](https://open.spotify.com/track/7kNUjyZQ1YWN1Nv4JvTaiD) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [6](https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj) | 3:39 | 2021-11-26 |  |
 | [Isla Pescado](https://open.spotify.com/track/7IBdQc4dIOS9sAY6a8AHQv) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw) | [Isla Pescado](https://open.spotify.com/album/1J3OErJ46ixVdwsOJ3OIHW) | 4:34 | 2021-11-26 | 2022-07-28 |

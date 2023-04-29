@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Lauana Prado e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,799 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,989 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Segue Invicto \- Ao Vivo](https://open.spotify.com/track/22BxPqZRPSzYtbCXPHaVTN) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Márcia A Fenomenal \[\(Ao Vivo\) \[Deluxe\]\]](https://open.spotify.com/album/5DYEhmHPZ4AwU1dLowty2M) | 2:42 |
 | 50 | [Foda Me Esquecer \- Ao Vivo](https://open.spotify.com/track/2lW3PosUws0xAS5UcybOuo) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/0NJBo8eIqMh78Ba5HWTWAD) | 2:16 |
 
-Snapshot ID: `MCw5OWM3MTZmMDQwY2I0MDU3MGE1OTBjNTM0OTk2MzhlMGYwNjNmMTJk`
+Snapshot ID: `MCxlYmI2YjlhYmFjNDRhYTZkMzJmMzAyZGM0OGU0MDkwYmZkMjNkMDk1`

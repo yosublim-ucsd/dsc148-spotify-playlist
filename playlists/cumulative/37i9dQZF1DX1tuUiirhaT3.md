@@ -4,7 +4,7 @@
 
 > Calm ambient music with gentle nature sounds.
 
-262 songs - 13 hr 57 min
+263 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Ambient Nature Sleep Sounds, Pt\. 5](https://open.spotify.com/track/2HNic458YbLZgKaamovCwl) | [Sleepy Times](https://open.spotify.com/artist/2tZbAzQxbp2fvMbVR9glOT), [The Sleep Specialist](https://open.spotify.com/artist/4xmdicsQgSblXPxoPEVn8a), [Natural Sound Makers](https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8) | [Ambient Nature \(Sleep & Mindfulness\)](https://open.spotify.com/album/05S6rm65838FvoSNEiKBnI) | 2:14 | 2021-12-17 |  |
 | [Ambient Nature Sleep Sounds, Pt\. 6](https://open.spotify.com/track/02FhSDtuhk1zLrWNTPZrbi) | [Sleepy Times](https://open.spotify.com/artist/2tZbAzQxbp2fvMbVR9glOT), [The Sleep Specialist](https://open.spotify.com/artist/4xmdicsQgSblXPxoPEVn8a), [Natural Sound Makers](https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8) | [Ambient Nature \(Sleep & Mindfulness\)](https://open.spotify.com/album/05S6rm65838FvoSNEiKBnI) | 2:29 | 2021-12-17 |  |
 | [Ambient Shore](https://open.spotify.com/track/3IFcHLSFHp57q82Mp8Mljj) | [The Quiet Path](https://open.spotify.com/artist/2qaVQa8FpiSBGzWIsFwhkD), [The Slumbering One](https://open.spotify.com/artist/6zFp0HHOylks3A1Dv15j4e) | [Ambient Shore](https://open.spotify.com/album/1oqCHUxwf0YDo58hxx0pMs) | 2:30 | 2022-09-30 |  |
-| [Ambient Streams](https://open.spotify.com/track/0wrvlGSGG5AQ9WpsOhc68l) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Best Relaxing SPA Music](https://open.spotify.com/album/00edVDn3XgBLSkCxx6aJN9) | 2:18 | 2021-12-17 |  |
+| [Ambient Streams](https://open.spotify.com/track/0wrvlGSGG5AQ9WpsOhc68l) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Best Relaxing SPA Music](https://open.spotify.com/album/00edVDn3XgBLSkCxx6aJN9) | 2:18 | 2021-12-17 | 2023-04-29 |
 | [Amethyst](https://open.spotify.com/track/2dZRjii8b4IkFRDbt3Q00m) | [Universal Mind](https://open.spotify.com/artist/24B3hez0bgvZ1xSx1TzcOA) | [Amethyst](https://open.spotify.com/album/4iXemjL24zprZKSuo3sQgF) | 3:28 | 2021-12-17 |  |
 | [As I Dream](https://open.spotify.com/track/0sWE39QKRcEFzEkd4fiBDZ) | [Tranquil Journeys](https://open.spotify.com/artist/54FHbjddYi2zgSZ1QNgkPn) | [As I Dream](https://open.spotify.com/album/3rzsB1SKf06JVz94jRszfY) | 3:26 | 2022-10-14 |  |
 | [Avenoir](https://open.spotify.com/track/2uAfciE7VqSEgakqkY5z0J) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Avenoir](https://open.spotify.com/album/3foIWfeetCI1u7WwKCQWyZ) | 2:54 | 2021-12-17 |  |
@@ -164,6 +164,7 @@
 | [Ok Now](https://open.spotify.com/track/5TxpjKtcv5DPHClGoIbwxJ) | [Everlights](https://open.spotify.com/artist/000HQdx4eaeWmI51PZmeMZ) | [Ok Now](https://open.spotify.com/album/5KrQEiHgtcfvG6OQWw79Gd) | 4:18 | 2021-12-22 |  |
 | [Okutama River](https://open.spotify.com/track/16Tm3SlDiUYjZNGqLTsjf6) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Asleep, Pt\. 2](https://open.spotify.com/album/5AAxnhY2YpoDCkhuTRlt0N) | 2:16 | 2021-12-17 |  |
 | [On a Rainy Day](https://open.spotify.com/track/6ciunhFDzph45q344AXtyg) | [Marolo Ocean](https://open.spotify.com/artist/1BiM1ohqvojfJWUzDwrFpQ) | [Drift Away 1](https://open.spotify.com/album/31reUpLjldBPoN0zml4okb) | 3:23 | 2021-12-17 |  |
+| [On The Hills Of Hope](https://open.spotify.com/track/7ffB13bUlV3er2DZcBrwoG) | [Yakamora](https://open.spotify.com/artist/5aAi2J1r2GmSXMeiG20jJp) | [On The Hills Of Hope](https://open.spotify.com/album/21UvUlROgQA3RMMabyFbvF) | 3:07 | 2023-04-28 |  |
 | [Onsen Ritual](https://open.spotify.com/track/5J4hAza3Nkap5HxhKYiCqE) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [Onsen Ritual](https://open.spotify.com/album/591tvOCJ2yo8NytfM6atla) | 4:01 | 2021-12-17 |  |
 | [Oriental Journey](https://open.spotify.com/track/5qMWKiZ8NELjkXmCiMf0BX) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [Meditations for Woods & Winds](https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH) | 3:25 | 2021-12-17 | 2022-08-16 |
 | [otsukimi \(moon viewing\) \- Spa](https://open.spotify.com/track/2dTufw1pSbVMxAiCX5k1B3) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [otsukimi \(moon viewing\)](https://open.spotify.com/album/4w8BVPuYdZtKyGkQJqhlxh) | 3:21 | 2022-09-30 |  |

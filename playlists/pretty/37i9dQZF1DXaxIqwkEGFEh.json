@@ -1,13 +1,85 @@
 {
-  "description": "Strictly for the streets. Cover: Key Glock",
-  "num_followers": 1166745,
+  "description": "Strictly for the streets. Cover: Moneybagg Yo",
+  "num_followers": 1166965,
   "original_name": "Out The Mud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTdhMzZmNzk5ZWY0NzYyMWRkYjVmMGMyZjJlZmRmMDRmNTM3ZmUx",
+  "snapshot_id": "MCw3YWQ4ZGU1MjlkOTI4NTYxYzkyM2ZmNWM4MTU3YWVkMzk5NTgwZjg4",
   "tracks": [
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Motion God",
+        "url": "https://open.spotify.com/album/1TwrnBDlShNlNIn20c5h31"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 143147,
+      "name": "Motion God",
+      "url": "https://open.spotify.com/track/75ZoVrZ4mXEsDxv1bQbEAS"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Strictly 4 My Fans 2",
+        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Mello Buckzz",
+          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
+        }
+      ],
+      "duration_ms": 188157,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/6YiDVrYuJk33GKKzsVUhRE"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "AMAR",
+        "url": "https://open.spotify.com/album/6UBYRLKOasEXXr8nwZ4fp8"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 157377,
+      "name": "Levels",
+      "url": "https://open.spotify.com/track/6hgTMdO3CyXlNQJ1K58ruH"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Glockoma 2",
+        "url": "https://open.spotify.com/album/6CStfhn3zZbyMbJ2o8CkkX"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 151080,
+      "name": "Chromosomes",
+      "url": "https://open.spotify.com/track/2Elyauqg6bZmGr0fr48nbQ"
+    },
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
@@ -27,54 +99,6 @@
       "duration_ms": 173458,
       "name": "WTF (feat. Polo G) - Remix",
       "url": "https://open.spotify.com/track/4Y43nu7MxbFOBJnZNfuruc"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "AMAR",
-        "url": "https://open.spotify.com/album/6UBYRLKOasEXXr8nwZ4fp8"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 157377,
-      "name": "Levels",
-      "url": "https://open.spotify.com/track/6hgTMdO3CyXlNQJ1K58ruH"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Motion God",
-        "url": "https://open.spotify.com/album/1TwrnBDlShNlNIn20c5h31"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 143147,
-      "name": "Motion God",
-      "url": "https://open.spotify.com/track/75ZoVrZ4mXEsDxv1bQbEAS"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Glockoma 2",
-        "url": "https://open.spotify.com/album/6CStfhn3zZbyMbJ2o8CkkX"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 151080,
-      "name": "Chromosomes",
-      "url": "https://open.spotify.com/track/2Elyauqg6bZmGr0fr48nbQ"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -105,20 +129,24 @@
       "url": "https://open.spotify.com/track/1UFCw2ZU50ZXdjHUtKg9mp"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Cottonwood 2",
-        "url": "https://open.spotify.com/album/7l49L64CFakYuaV4EL11sP"
+        "name": "Gumbo",
+        "url": "https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g"
       },
       "artists": [
         {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 220556,
-      "name": "TALK DIFFERENT",
-      "url": "https://open.spotify.com/track/66sufd2ajZ6WMtaNQcArnm"
+      "duration_ms": 203813,
+      "name": "Peaches & Eggplants (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/2KcQ0PbPj0O3P48B9YX7iN"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -177,6 +205,30 @@
       "url": "https://open.spotify.com/track/1HYfsZnq3EXwK7SV8tYPoT"
     },
     {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Still Movin' (feat. Fivio Foreign & Jay Critch)",
+        "url": "https://open.spotify.com/album/6vEioFzvVWKZxcrXEpDAUZ"
+      },
+      "artists": [
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Jay Critch",
+          "url": "https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4"
+        }
+      ],
+      "duration_ms": 142408,
+      "name": "Still Movin' (feat. Fivio Foreign & Jay Critch)",
+      "url": "https://open.spotify.com/track/14feWRgz9wh0Z1OIFXcJGh"
+    },
+    {
       "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "5 Star",
@@ -191,6 +243,38 @@
       "duration_ms": 190083,
       "name": "5 Star",
       "url": "https://open.spotify.com/track/63nPz8Y0oPCvGDcmDdLs9Z"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Whole Nother League",
+        "url": "https://open.spotify.com/album/247OXdx4UMTpuL2gi5hulJ"
+      },
+      "artists": [
+        {
+          "name": "BigWalkDog",
+          "url": "https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz"
+        }
+      ],
+      "duration_ms": 154283,
+      "name": "Whole Nother League",
+      "url": "https://open.spotify.com/track/42aR8AeISrUmz2g3uISrvb"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Cottonwood 2",
+        "url": "https://open.spotify.com/album/7l49L64CFakYuaV4EL11sP"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 220556,
+      "name": "TALK DIFFERENT",
+      "url": "https://open.spotify.com/track/66sufd2ajZ6WMtaNQcArnm"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -215,6 +299,22 @@
       "duration_ms": 168856,
       "name": "Andale",
       "url": "https://open.spotify.com/track/4EgZqNfwsDJ1HvvSMEXypp"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "AMAR (Deluxe)",
+        "url": "https://open.spotify.com/album/3NMpB1bl2kVyZSqMUN9F3I"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 137716,
+      "name": "Whip It",
+      "url": "https://open.spotify.com/track/3TmwzKk7dOnMka3Q7NvGht"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -251,6 +351,22 @@
       "duration_ms": 153600,
       "name": "Mad Max",
       "url": "https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Just Relax",
+        "url": "https://open.spotify.com/album/0Su9sgYg2FJNn6tamiu7Lc"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        }
+      ],
+      "duration_ms": 152213,
+      "name": "Just Relax",
+      "url": "https://open.spotify.com/track/4ZJ58LR9dwGJBFGC8RilBM"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -309,24 +425,24 @@
       "url": "https://open.spotify.com/track/3w172RIHWXdyTo8KjFyeTo"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
+      "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Gumbo",
-        "url": "https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g"
+        "name": "Check",
+        "url": "https://open.spotify.com/album/0oUW916No7iVMeYUYDENIk"
       },
       "artists": [
         {
-          "name": "Young Nudy",
-          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
         },
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 203813,
-      "name": "Peaches & Eggplants (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/2KcQ0PbPj0O3P48B9YX7iN"
+      "duration_ms": 162056,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/17LsSRsnpOJ5910GtSixaC"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -393,6 +509,46 @@
       "url": "https://open.spotify.com/track/31yydnZnSeCwkRPY7tlgQJ"
     },
     {
+      "added_at": "2023-04-01 01:33:02",
+      "album": {
+        "name": "Speak Up G (Deluxe)",
+        "url": "https://open.spotify.com/album/6ISSwp4yc7Ph1hxySe3DlZ"
+      },
+      "artists": [
+        {
+          "name": "Big Homiie G",
+          "url": "https://open.spotify.com/artist/3IG49Dhngr903hQWOFzmlh"
+        },
+        {
+          "name": "BIG30",
+          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
+        }
+      ],
+      "duration_ms": 142419,
+      "name": "Diamonds and Money feat. BIG30",
+      "url": "https://open.spotify.com/track/7uPIwSQxsytWHUkNTk1OEI"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Red Eye",
+        "url": "https://open.spotify.com/album/2rGZ4DEQqxseAXO9hVqNDo"
+      },
+      "artists": [
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "duration_ms": 181909,
+      "name": "Drums",
+      "url": "https://open.spotify.com/track/78MA8xdZCe4KS9SuIxs1Ce"
+    },
+    {
       "added_at": "2023-04-21 19:28:57",
       "album": {
         "name": "Hip Hop 50: Vol. 2",
@@ -453,6 +609,22 @@
       "url": "https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3"
     },
     {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Strictly 4 My Fans 2",
+        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 141073,
+      "name": "Off Days",
+      "url": "https://open.spotify.com/track/5DqzcJHpURu7rq5uUj5ce4"
+    },
+    {
       "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "Dropped The Lo",
@@ -489,30 +661,6 @@
       "url": "https://open.spotify.com/track/6qlQIOubQeiG3byhhqwPfU"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "4148 (feat. Edot Babyy)",
-        "url": "https://open.spotify.com/album/1qJk9YuaI0GBx9kYm8o5li"
-      },
-      "artists": [
-        {
-          "name": "DD Osama",
-          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
-        },
-        {
-          "name": "Edot Babyy",
-          "url": "https://open.spotify.com/artist/3bOV7IH0Lb13ifOUrwACa7"
-        },
-        {
-          "name": "Lawsy",
-          "url": "https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T"
-        }
-      ],
-      "duration_ms": 108004,
-      "name": "4148 (feat. Edot Babyy)",
-      "url": "https://open.spotify.com/track/4LqfNIRWW0MrIvLS5UbASS"
-    },
-    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "Sremm 4 Life",
@@ -527,6 +675,22 @@
       "duration_ms": 180000,
       "name": "Mississippi Slide",
       "url": "https://open.spotify.com/track/4tiKQGqkoVmvshWNFDvFxG"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Never Left",
+        "url": "https://open.spotify.com/album/2XbNfo84Nbvvv50NPubTvg"
+      },
+      "artists": [
+        {
+          "name": "Stunna 4 Vegas",
+          "url": "https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8"
+        }
+      ],
+      "duration_ms": 124680,
+      "name": "Never Left",
+      "url": "https://open.spotify.com/track/3yIGvi7hOzo3oAQpw609Ks"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -567,6 +731,46 @@
       "duration_ms": 170701,
       "name": "Ain't On None (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/6tdIXKADoiJMTG5buEqxp3"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Face No Book (feat. Blueface)",
+        "url": "https://open.spotify.com/album/1TdBT0hUVIL6wAUmzpAU4g"
+      },
+      "artists": [
+        {
+          "name": "Heembeezy",
+          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
+        },
+        {
+          "name": "Blueface",
+          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
+        }
+      ],
+      "duration_ms": 183829,
+      "name": "Face No Book (feat. Blueface)",
+      "url": "https://open.spotify.com/track/5I6NiyOCQj489SPsP6tWxF"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Bank Appointment",
+        "url": "https://open.spotify.com/album/7KscDRhoL85Uci4y12Wl4t"
+      },
+      "artists": [
+        {
+          "name": "Blac Youngsta",
+          "url": "https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "duration_ms": 179631,
+      "name": "I Don't",
+      "url": "https://open.spotify.com/track/69BD6r8XVw0qQEr2N9mj3Y"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -621,6 +825,22 @@
       "url": "https://open.spotify.com/track/5mqcRBLYBsAhpbB6gXMyYz"
     },
     {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "GO",
+        "url": "https://open.spotify.com/album/2Z4Mvd7jnU20NIWDrCRozY"
+      },
+      "artists": [
+        {
+          "name": "Cae Cartier",
+          "url": "https://open.spotify.com/artist/1ynSbjcRtqlVYJwYwnE3KD"
+        }
+      ],
+      "duration_ms": 158668,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/2qAfq0eV8GYdQqTWJbeGrd"
+    },
+    {
       "added_at": "2022-10-28 04:00:00",
       "album": {
         "name": "It's Only Me",
@@ -637,22 +857,6 @@
       "url": "https://open.spotify.com/track/4OkFBMU18NidtaefaTjUq1"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Whole Nother League",
-        "url": "https://open.spotify.com/album/247OXdx4UMTpuL2gi5hulJ"
-      },
-      "artists": [
-        {
-          "name": "BigWalkDog",
-          "url": "https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz"
-        }
-      ],
-      "duration_ms": 154283,
-      "name": "Whole Nother League",
-      "url": "https://open.spotify.com/track/42aR8AeISrUmz2g3uISrvb"
-    },
-    {
       "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "Back In That Mode",
@@ -667,6 +871,30 @@
       "duration_ms": 183999,
       "name": "Back In That Mode",
       "url": "https://open.spotify.com/track/5oTcPgMn0btxetet1nxYEp"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "4148 (feat. Edot Babyy)",
+        "url": "https://open.spotify.com/album/1qJk9YuaI0GBx9kYm8o5li"
+      },
+      "artists": [
+        {
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+        },
+        {
+          "name": "Edot Babyy",
+          "url": "https://open.spotify.com/artist/3bOV7IH0Lb13ifOUrwACa7"
+        },
+        {
+          "name": "Lawsy",
+          "url": "https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T"
+        }
+      ],
+      "duration_ms": 108004,
+      "name": "4148 (feat. Edot Babyy)",
+      "url": "https://open.spotify.com/track/4LqfNIRWW0MrIvLS5UbASS"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -753,26 +981,6 @@
       "url": "https://open.spotify.com/track/5qNxLvbr8yRnbDsNrZT6Bi"
     },
     {
-      "added_at": "2023-04-01 01:33:02",
-      "album": {
-        "name": "Speak Up G (Deluxe)",
-        "url": "https://open.spotify.com/album/6ISSwp4yc7Ph1hxySe3DlZ"
-      },
-      "artists": [
-        {
-          "name": "Big Homiie G",
-          "url": "https://open.spotify.com/artist/3IG49Dhngr903hQWOFzmlh"
-        },
-        {
-          "name": "BIG30",
-          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
-        }
-      ],
-      "duration_ms": 142419,
-      "name": "Diamonds and Money feat. BIG30",
-      "url": "https://open.spotify.com/track/7uPIwSQxsytWHUkNTk1OEI"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Bank Statements & Deposits",
@@ -821,22 +1029,6 @@
       "url": "https://open.spotify.com/track/6etEk6dGTEGhHjZVNnXAQS"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "First Day Out (Freestyle)",
-        "url": "https://open.spotify.com/album/0qGQiQTv8KPSgdK5K2hz1u"
-      },
-      "artists": [
-        {
-          "name": "Rundown Spaz",
-          "url": "https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK"
-        }
-      ],
-      "duration_ms": 142739,
-      "name": "First Day Out (Freestyle)",
-      "url": "https://open.spotify.com/track/7AtQxohgEu5dRYdcY4gB6G"
-    },
-    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "My Vision: Reloaded",
@@ -855,26 +1047,6 @@
       "duration_ms": 170145,
       "name": "Ransom (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/1CaOUy0DDaVrxqzDltzLnk"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Anyways, Life\u2019s Great\u2026Bonus Edition",
-        "url": "https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 197011,
-      "name": "Ex\u2019s (Phatnall Remix) (with Lil Durk)",
-      "url": "https://open.spotify.com/track/7M3h8JeDhIQIsdQdMrWohi"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1153,26 +1325,6 @@
       "url": "https://open.spotify.com/track/2dwHXffVR1okPxatga6WTF"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Bank Appointment",
-        "url": "https://open.spotify.com/album/7KscDRhoL85Uci4y12Wl4t"
-      },
-      "artists": [
-        {
-          "name": "Blac Youngsta",
-          "url": "https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe"
-        },
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        }
-      ],
-      "duration_ms": 179631,
-      "name": "I Don't",
-      "url": "https://open.spotify.com/track/69BD6r8XVw0qQEr2N9mj3Y"
-    },
-    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "Nicky Nine Door",
@@ -1187,46 +1339,6 @@
       "duration_ms": 128457,
       "name": "Nicky Nine Door",
       "url": "https://open.spotify.com/track/0UMmJaSuRVNYlUv47XTZt8"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Weeks (feat. NoCap)",
-        "url": "https://open.spotify.com/album/1ljMmc8zAt3Ls7AW9JrAO0"
-      },
-      "artists": [
-        {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        },
-        {
-          "name": "NoCap",
-          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
-        }
-      ],
-      "duration_ms": 182531,
-      "name": "Weeks (feat. NoCap)",
-      "url": "https://open.spotify.com/track/5dRKpEQl3T67smpyWGD7D4"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Red Eye",
-        "url": "https://open.spotify.com/album/2rGZ4DEQqxseAXO9hVqNDo"
-      },
-      "artists": [
-        {
-          "name": "Money Man",
-          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
-        },
-        {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        }
-      ],
-      "duration_ms": 181909,
-      "name": "Drums",
-      "url": "https://open.spotify.com/track/78MA8xdZCe4KS9SuIxs1Ce"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1299,22 +1411,6 @@
       "duration_ms": 159000,
       "name": "No Degrees",
       "url": "https://open.spotify.com/track/3h8eogxxBl7nO0PakCictQ"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Sremm 4 Life",
-        "url": "https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67"
-      },
-      "artists": [
-        {
-          "name": "Rae Sremmurd",
-          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
-        }
-      ],
-      "duration_ms": 217941,
-      "name": "YMCA",
-      "url": "https://open.spotify.com/track/3BYYZeMwAiasw2J5zrI7n2"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1545,62 +1641,6 @@
       "url": "https://open.spotify.com/track/3O5pKSTofn7QyXR0izGUNj"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Blac Sheep",
-        "url": "https://open.spotify.com/album/0KnxY23UrOgRSv6G424XRB"
-      },
-      "artists": [
-        {
-          "name": "Blac Youngsta",
-          "url": "https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe"
-        }
-      ],
-      "duration_ms": 204912,
-      "name": "Get the Sack",
-      "url": "https://open.spotify.com/track/0fqeGw4lCom7G5ZlhXVf3t"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Face No Book (feat. Blueface)",
-        "url": "https://open.spotify.com/album/1TdBT0hUVIL6wAUmzpAU4g"
-      },
-      "artists": [
-        {
-          "name": "Heembeezy",
-          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
-        },
-        {
-          "name": "Blueface",
-          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
-        }
-      ],
-      "duration_ms": 183829,
-      "name": "Face No Book (feat. Blueface)",
-      "url": "https://open.spotify.com/track/5I6NiyOCQj489SPsP6tWxF"
-    },
-    {
-      "added_at": "2023-04-01 01:37:39",
-      "album": {
-        "name": "Outrageous (feat. Rayven Tyler)",
-        "url": "https://open.spotify.com/album/6biY9SYYT4owsjWuvs77zH"
-      },
-      "artists": [
-        {
-          "name": "Symba",
-          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
-        },
-        {
-          "name": "Rayven Tyler",
-          "url": "https://open.spotify.com/artist/0lZfnMJMLQOWO5JcpFD9Df"
-        }
-      ],
-      "duration_ms": 209886,
-      "name": "Outrageous (feat. Rayven Tyler)",
-      "url": "https://open.spotify.com/track/3YfzM9m4qogyM1TDMgC7yt"
-    },
-    {
       "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Trapping & Finessing",
@@ -1757,22 +1797,6 @@
       "url": "https://open.spotify.com/track/419P7pvcvRBkz94d2B0F0J"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Recovery",
-        "url": "https://open.spotify.com/album/4IKYFT82MQSmLwoz7gW6YT"
-      },
-      "artists": [
-        {
-          "name": "Quando Rondo",
-          "url": "https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL"
-        }
-      ],
-      "duration_ms": 122623,
-      "name": "Where Would I Be",
-      "url": "https://open.spotify.com/track/1pExjTeIPJsPj26mpJOofO"
-    },
-    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Finsta (feat. Big Boogie)",
@@ -1827,22 +1851,6 @@
       "duration_ms": 164545,
       "name": "Just Getting By",
       "url": "https://open.spotify.com/track/1PoBUMid74DdWs6CzlM2oL"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Up On Us",
-        "url": "https://open.spotify.com/album/48oT4RYXR1aCWxpvBb04vP"
-      },
-      "artists": [
-        {
-          "name": "Lil Nuu",
-          "url": "https://open.spotify.com/artist/4BcULtFSsSVrAC5TbjPHWE"
-        }
-      ],
-      "duration_ms": 179349,
-      "name": "Up On Us",
-      "url": "https://open.spotify.com/track/2SPa91MdtTxBJy85uarkli"
     }
   ],
   "unique_name": "Out The Mud",

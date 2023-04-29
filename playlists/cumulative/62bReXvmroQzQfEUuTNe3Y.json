@@ -633,6 +633,24 @@
     },
     {
       "album": {
+        "name": "Bonfire",
+        "url": "https://open.spotify.com/album/7uyq1nL0DNCkotUWloVM0F"
+      },
+      "artists": [
+        {
+          "name": "Tudor",
+          "url": "https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238095,
+      "name": "Bonfire",
+      "url": "https://open.spotify.com/track/736VDbKKgjzvPOoKjjti4R"
+    },
+    {
+      "album": {
         "name": "Breath By Breath",
         "url": "https://open.spotify.com/album/7MN6dH9Z4vipp4K8wQ6N1T"
       },
@@ -806,7 +824,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 155148,
       "name": "Change of Heart",
       "url": "https://open.spotify.com/track/7fXupzi3jFgKVED9BUCmUc"
@@ -2148,7 +2166,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 150914,
       "name": "Harder We Fall",
       "url": "https://open.spotify.com/track/675ENLQoyLkIzEGHm5FAqe"
@@ -2582,7 +2600,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 146127,
       "name": "How Would It Feel",
       "url": "https://open.spotify.com/track/7mzuPw1HXwxQge1C1yUFY9"
@@ -2706,7 +2724,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 151048,
       "name": "I Don't Wanna Know",
       "url": "https://open.spotify.com/track/0YnHCIk1Ppy7FIzdvjspts"
@@ -3342,7 +3360,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 145487,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/3r2FSdNto1jIArfK6WeiIb"
@@ -4016,7 +4034,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 214854,
       "name": "Mean to Me",
       "url": "https://open.spotify.com/track/4b3DcCqrtubEnebf4lV7JD"
@@ -4608,7 +4626,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 282225,
       "name": "Noise",
       "url": "https://open.spotify.com/track/2aVmzjkwJyTWxuUUu7aMIf"
@@ -4908,7 +4926,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 160274,
       "name": "Overthinking",
       "url": "https://open.spotify.com/track/3TwAy5Wd1hn89J43NnJNpR"
@@ -5262,7 +5280,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 187620,
       "name": "Rush",
       "url": "https://open.spotify.com/track/3lxUQ9Q9p2SiJU4FXSLUsr"

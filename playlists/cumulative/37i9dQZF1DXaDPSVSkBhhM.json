@@ -694,7 +694,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 163253,
       "name": "El Tio Mat",
       "url": "https://open.spotify.com/track/5F8GV798m5bian3h4PlhRh"
@@ -748,7 +748,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 234773,
       "name": "Escribe Una Canci\u00f3n",
       "url": "https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2"
@@ -1535,6 +1535,28 @@
     },
     {
       "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/2g4kMXrBHL8NrtDe4mi9O5"
+      },
+      "artists": [
+        {
+          "name": "Will of One",
+          "url": "https://open.spotify.com/artist/1IRaphz10w9gPlxfimO3Np"
+        },
+        {
+          "name": "Mariana Sandoval",
+          "url": "https://open.spotify.com/artist/4NdwM3glsAV3bnntvxrQ8k"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241043,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/1QUuM84MAXja1Nva7RezdD"
+    },
+    {
+      "album": {
         "name": "Masappan",
         "url": "https://open.spotify.com/album/2VuK8VnMfILaKRNqDoMR0e"
       },
@@ -1786,6 +1808,24 @@
       "duration_ms": 214351,
       "name": "Siempre la Cago",
       "url": "https://open.spotify.com/track/4iNZvtt1Bn0oCIMf8giWRF"
+    },
+    {
+      "album": {
+        "name": "Solo Dios lo Sabe",
+        "url": "https://open.spotify.com/album/6Fg2fhsyWhk86CZruRUrQv"
+      },
+      "artists": [
+        {
+          "name": "GUFI",
+          "url": "https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165605,
+      "name": "Solo Dios lo Sabe",
+      "url": "https://open.spotify.com/track/2PA11HBziALO8mnvnh3qXw"
     },
     {
       "album": {

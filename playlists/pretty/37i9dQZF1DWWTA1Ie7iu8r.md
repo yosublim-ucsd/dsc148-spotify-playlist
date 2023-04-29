@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTA1Ie7iu8r.md) - [plain]
 
 > Get your creep on with these freaky 'love' songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,321 likes - 56 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,334 likes - 56 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTA1Ie7iu8r.md) - [plain]
 | 32 | [Alone](https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 3:38 |
 | 33 | [I Will Possess Your Heart](https://open.spotify.com/track/77vYwoC7e3pVoPq8BA9CuL) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Narrow Stairs](https://open.spotify.com/album/7G84Q2FcA43cjLeWBSIedv) | 8:25 |
 | 34 | [Let Me Put My Love Into You](https://open.spotify.com/track/5XeMsYb1rWxQL1bUUaZajn) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:15 |
-| 35 | [Found Love in a Graveyard](https://open.spotify.com/track/7vD8m9ZzsvnnPYd1VpzgUO) | [Veronica Falls](https://open.spotify.com/artist/0mgbAj6btHW215UxhLq1AV) | [Veronica Falls](https://open.spotify.com/album/02oz6Rr7JK31RIRHtzUx2g) | 3:59 |
+| 35 | [Found Love in a Graveyard](https://open.spotify.com/track/6o1oknbpGILs6eG8q3j8vV) | [Veronica Falls](https://open.spotify.com/artist/0mgbAj6btHW215UxhLq1AV) | [Veronica Falls](https://open.spotify.com/album/14vFC84BzjOc8Ud9ga0vFi) | 3:59 |
 | 36 | [Hungry Like the Wolf](https://open.spotify.com/track/2qeESyQyH7MRHCBotCQsNq) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Greatest](https://open.spotify.com/album/7xbWtTByfdMWFfxXmeFFl0) | 3:29 |
 | 37 | [\#1 Crush \- Nellee Hooper Mix](https://open.spotify.com/track/08L1WAtYQnsFBoZ3MEBkYV) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q), [Nellee Hooper](https://open.spotify.com/artist/1l7aiSjBGkQiyTuQYTigAP) | [Garbage \(20th Anniversary Deluxe Edition/Remastered\)](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 4:50 |
 | 38 | [Dead in the Water](https://open.spotify.com/track/2VHMbDcuKELIqvB7bh1QhE) | [SPELLES](https://open.spotify.com/artist/76UfJrb52tTTiDQNWEeCBY) | [Dead in the Water](https://open.spotify.com/album/5MhrlWBZnRVQrTIRzKkElX) | 3:09 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTA1Ie7iu8r.md) - [plain]
 | 55 | [Love Song for a Vampire](https://open.spotify.com/track/3ik79qXV15D3ae33uveasw) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [The Annie Lennox Collection](https://open.spotify.com/album/6VXTaHgpeG2fZDwyHsn6eJ) | 4:19 |
 | 56 | [Die, Die My Darling](https://open.spotify.com/track/4Rme8TxEaNV09wp64AWd2y) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Collection](https://open.spotify.com/album/4pEcCqGx1RFaXWJD0mrG10) | 3:09 |
 
-Snapshot ID: `MCwxNWE1MDFhZjY1OGM0MTVkY2ExNzYzOTBlNTQ4MTViZWZkMDhiMWIz`
+Snapshot ID: `MCxmYzlkZmUyYmViN2VmZWE4ZmViMDNjNTg0MmNiMjMyMjgwZmVmMjcz`

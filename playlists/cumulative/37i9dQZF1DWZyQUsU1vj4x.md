@@ -4,7 +4,7 @@
 
 > Indie folk ventures into the cinematic West.
 
-166 songs - 10 hr 22 min
+170 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Belo Horizonte](https://open.spotify.com/track/5v3eLbjMTRPyJk0gDnjCXN) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [Belo Horizonte](https://open.spotify.com/album/0GGi7u94hGWeEmiB1e7Wjn) | 3:44 | 2022-01-27 | 2022-09-20 |
 | [Belo Horizonte](https://open.spotify.com/track/64UnMEEojxkLppM0fp2NOB) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [Zdarlight 1992](https://open.spotify.com/album/2T1W5N2WJKa2cYgzyXmzXw) | 3:44 | 2022-10-21 | 2022-11-13 |
 | [Belo Horizonte](https://open.spotify.com/track/2F09YSqsNCGLBGvrvUWvZp) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [Welcome To Kookoo Island](https://open.spotify.com/album/2O9fmLV4Ces4cMW5NySLWT) | 3:46 | 2022-01-27 |  |
-| [Big Black Bull](https://open.spotify.com/track/2A1YKEfy5QYbMWXsyMQRMR) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Horrifying Deatheating Bloodspider](https://open.spotify.com/album/27aht0wSf0h3U05DLMTmYY) | 2:45 | 2022-01-27 |  |
+| [Big Black Bull](https://open.spotify.com/track/1NwGRKnKPnovZnLJ19Pn40) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Horrifying Deatheating Bloodspider](https://open.spotify.com/album/2AofxKR1xww94PPlpswmNs) | 2:45 | 2023-04-21 |  |
+| [Big Black Bull](https://open.spotify.com/track/2A1YKEfy5QYbMWXsyMQRMR) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Horrifying Deatheating Bloodspider](https://open.spotify.com/album/27aht0wSf0h3U05DLMTmYY) | 2:45 | 2022-01-27 | 2023-04-29 |
 | [Big Black Bull](https://open.spotify.com/track/2bfPb9BiSkv23q0kdjwW60) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Horrifying Deatheating Bloodspider](https://open.spotify.com/album/7nHCFdhYDs61JyD7HfNudm) | 2:46 | 2019-10-31 | 2022-07-29 |
 | [Big Sky](https://open.spotify.com/track/0np7TwbqUvlOAz2tgttt1q) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/7Jn1h8E5aT96pdyrPxrLWi) | 3:32 | 2019-10-31 | 2022-07-29 |
 | [Big Sky](https://open.spotify.com/track/6CoVyYMT1M7S9DBRYp8HJL) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ) | 3:32 | 2022-01-27 |  |
@@ -61,8 +62,9 @@
 | [Fire in the Empire](https://open.spotify.com/track/7mGH4VlY1XCNRAjGZIIiHk) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [Fire in the Empire](https://open.spotify.com/album/6HRJVr7zJnqknkKyrKtjtR) | 3:37 | 2022-10-21 | 2022-11-14 |
 | [Fire in the Empire](https://open.spotify.com/track/7nBlwy9FltJKrO23b6edNi) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [Empire](https://open.spotify.com/album/2ayE2lKEyIyBP2EcuWiB0d) | 3:37 | 2022-01-27 |  |
 | [Focus](https://open.spotify.com/track/3UYgCvyevt9yTawGrIdsd4) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Axis Mundi](https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY) | 3:04 | 2019-10-31 |  |
+| [Foothills](https://open.spotify.com/track/4WHb4MsIyAppzHxQZTYHE7) | [Snowblink](https://open.spotify.com/artist/6oYtsBDA5uQzV8FdGDvXZM) | [Returning Current](https://open.spotify.com/album/1AIhlYdWvOMBa2xTCojV5P) | 4:16 | 2023-04-21 |  |
 | [Foothills](https://open.spotify.com/track/2zw1FvWkXwV7A3XEu0bXoZ) | [Snowblink](https://open.spotify.com/artist/6oYtsBDA5uQzV8FdGDvXZM) | [Returning Current](https://open.spotify.com/album/3q9lUm3hc0HdgMuHj2hSBs) | 4:16 | 2019-10-31 | 2022-07-29 |
-| [Foothills](https://open.spotify.com/track/5DmLXW9x9M2pbrX7xZy7zW) | [Snowblink](https://open.spotify.com/artist/6oYtsBDA5uQzV8FdGDvXZM) | [Returning Current](https://open.spotify.com/album/2aFUOolqC2jvv5c9A4pVnc) | 4:16 | 2022-01-27 |  |
+| [Foothills](https://open.spotify.com/track/5DmLXW9x9M2pbrX7xZy7zW) | [Snowblink](https://open.spotify.com/artist/6oYtsBDA5uQzV8FdGDvXZM) | [Returning Current](https://open.spotify.com/album/2aFUOolqC2jvv5c9A4pVnc) | 4:16 | 2022-01-27 | 2023-04-29 |
 | [Footprints](https://open.spotify.com/track/2pYY9r8kEKur6zGf50QZDa) | [Escondido](https://open.spotify.com/artist/13lPIA6TfK28D9nWZJ9HuB) | [Walking With a Stranger](https://open.spotify.com/album/4LcI0UJmkd717mGgygsIfx) | 3:28 | 2019-10-31 |  |
 | [Ghost of a Lie](https://open.spotify.com/track/74hlOfvGAKlst81PCS86Id) | [The Accidentals](https://open.spotify.com/artist/5JqJWTzD2wSWAp7UmFSP5x) | [Bittersweet](https://open.spotify.com/album/098ZB04Lbsg4m1iANqIYmn) | 3:30 | 2019-10-31 |  |
 | [Haven \(from Life Is Strange\)](https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Haven \(from Life Is Strange\)](https://open.spotify.com/album/1tCKB58FqUBj5beC5nfpFE) | 2:52 | 2022-01-27 |  |
@@ -119,7 +121,8 @@
 | [Party Boy](https://open.spotify.com/track/6iyXhFNl11mcuyuuPnqhBW) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Make Way for Love](https://open.spotify.com/album/69wIdpWYSwdYMkYdn6iviH) | 2:33 | 2022-01-27 |  |
 | [Phoenix](https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:15 | 2022-01-27 |  |
 | [Quite Contrary](https://open.spotify.com/track/7apxI2PH7Jgf2gkfDFy5DV) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [Parker Millsap](https://open.spotify.com/album/3puqTC6ZIfItLMY4q0wr4e) | 4:48 | 2019-10-31 |  |
-| [Rattlesnake](https://open.spotify.com/track/6QNwiDTnnDOJPukpRCHeGm) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Outskirt](https://open.spotify.com/album/0G8dZ5FAjZVuklz6LI3AsV) | 2:30 | 2022-01-27 |  |
+| [Rattlesnake](https://open.spotify.com/track/2Ta3z2OgsYa84waRnyLrZy) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Outskirt](https://open.spotify.com/album/5WArLXN9ag5hcNZ8cHTTM6) | 2:30 | 2023-04-21 |  |
+| [Rattlesnake](https://open.spotify.com/track/6QNwiDTnnDOJPukpRCHeGm) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Outskirt](https://open.spotify.com/album/0G8dZ5FAjZVuklz6LI3AsV) | 2:30 | 2022-01-27 | 2023-04-29 |
 | [Rattlesnake](https://open.spotify.com/track/7tckHvN2oEmvDroaNWdt9M) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Outskirt](https://open.spotify.com/album/0TAMJDUal4tPnHf1Kq2jWe) | 2:30 | 2019-10-31 | 2022-07-29 |
 | [Riverina Kid](https://open.spotify.com/track/2NqpFQpXxN7npeYnqiC5ay) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [William Crighton](https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV) | 4:01 | 2022-01-27 |  |
 | [Riverina Kid](https://open.spotify.com/track/4OwGDJwLy63bN4n6olCmUe) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [William Crighton](https://open.spotify.com/album/4w4P1ihvUwfSdtuwIE0ZHq) | 4:01 | 2019-10-31 | 2022-07-29 |
@@ -166,7 +169,8 @@
 | [Whole Body Shakes](https://open.spotify.com/track/3QHpJbphRIACz3ltCwa76w) | [Woodpigeon](https://open.spotify.com/artist/5UDSvbfSs63qDk39xVtEdy) | [T R O U B L E](https://open.spotify.com/album/3hE4HzEUz3n3aKOarOXM6g) | 4:18 | 2019-10-31 |  |
 | [Widow's Peak](https://open.spotify.com/track/4GGdB7EJ87mb1NE5BRvnDR) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [Old Rockhounds Never Die](https://open.spotify.com/album/5RZYFOf8RiQmlKtxNMN7yB) | 3:51 | 2019-10-31 | 2022-07-29 |
 | [Widow's Peak](https://open.spotify.com/track/60Q9G9OhXkfe5Hfla12kd0) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [Widow's Peak](https://open.spotify.com/album/0FyLW7baFYzM7hOWKt8zXF) | 3:51 | 2022-10-21 | 2022-11-13 |
-| [Widow's Peak](https://open.spotify.com/track/70rmykCzXyK5F4Xzh3xLww) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [Old Rockhounds Never Die](https://open.spotify.com/album/3Jb4Qyb0nmKWW7JXhZQ3wA) | 3:51 | 2022-01-27 |  |
+| [Widow's Peak](https://open.spotify.com/track/70rmykCzXyK5F4Xzh3xLww) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [Old Rockhounds Never Die](https://open.spotify.com/album/3Jb4Qyb0nmKWW7JXhZQ3wA) | 3:51 | 2022-01-27 | 2023-04-29 |
+| [Widow's Peak](https://open.spotify.com/track/7HZXCvX14bnNOW0o8AbAmA) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [Old Rockhounds Never Die](https://open.spotify.com/album/32Qe8dNUwWqPzsXn9efgz8) | 3:51 | 2023-04-21 |  |
 | [With Roses](https://open.spotify.com/track/20e1FXXYbzoa34ENMSClEk) | [The Walking Who](https://open.spotify.com/artist/2rSnDv4mgde9Nrmd29Xv4r) | [Lewiside](https://open.spotify.com/album/2TkdZYaMtFX4xGq4vvnAfk) | 3:31 | 2019-10-31 | 2022-07-29 |
 | [With Roses](https://open.spotify.com/track/7mFndwzSz1tL9hQJe8VcoB) | [The Walking Who](https://open.spotify.com/artist/2rSnDv4mgde9Nrmd29Xv4r) | [Lewiside](https://open.spotify.com/album/1pyXvUn0xwcdO8FLCh9Vte) | 3:31 | 2022-01-27 |  |
 | [Words](https://open.spotify.com/track/0gffHnqikqMloBsK7KnTBP) | [Storefront Church](https://open.spotify.com/artist/2hRQpaQds9ectgTszE5z7L), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Words](https://open.spotify.com/album/06UQRgpwTeKNLS8Stuee28) | 5:25 | 2022-12-12 | 2023-02-19 |

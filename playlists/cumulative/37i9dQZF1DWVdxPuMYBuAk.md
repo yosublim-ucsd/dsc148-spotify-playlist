@@ -4,7 +4,7 @@
 
 > The official playlist for To All The Boys: Always and Forever\. Watch on Netflix.
 
-118 songs - 7 hr 4 min
+120 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Honest](https://open.spotify.com/track/4L3KRAAuIfzIFVS8woBgWD) | [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [To All The Boys: P.S\. I Still Love You \(Music From The Netflix Film\)](https://open.spotify.com/album/37QF4ERcZXyv3i4s22akY5) | 3:35 | 2022-02-09 | 2022-07-29 |
 | [Human Right](https://open.spotify.com/track/0e866bvP5rorqKS0pPjvr5) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [Faint of Heart](https://open.spotify.com/album/6Oo2L6mlblKkGSWj49Q7mn) | 3:13 | 2022-02-09 |  |
 | [Human Right](https://open.spotify.com/track/38Bei4A7rJZfnC7fugI2hJ) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [Faint of Heart](https://open.spotify.com/album/2PhpCGLrJL2ef8uE1dHlKq) | 3:13 | 2022-02-09 | 2022-07-29 |
-| [Hypnotic Regression](https://open.spotify.com/track/0AIhZWdCh5A01W5ldiS6Z5) | [Girls Names](https://open.spotify.com/artist/4UAxwzDV5PYB11huf5Shs3) | [The New Life](https://open.spotify.com/album/7cUfFtYLowKwLNrrJiAxFj) | 3:48 | 2022-02-09 |  |
+| [Hypnotic Regression](https://open.spotify.com/track/0AIhZWdCh5A01W5ldiS6Z5) | [Girls Names](https://open.spotify.com/artist/4UAxwzDV5PYB11huf5Shs3) | [The New Life](https://open.spotify.com/album/7cUfFtYLowKwLNrrJiAxFj) | 3:48 | 2022-02-09 | 2023-04-29 |
+| [Hypnotic Regression](https://open.spotify.com/track/2afI9K1WRY5Nd1CWzfmF4x) | [Girls Names](https://open.spotify.com/artist/4UAxwzDV5PYB11huf5Shs3) | [The New Life](https://open.spotify.com/album/3x6T1vo4arlGrWZPNCD93N) | 3:48 | 2022-02-09 |  |
 | [Hypnotic Regression](https://open.spotify.com/track/4efmMftIGGwVn03AFD7VT9) | [Girls Names](https://open.spotify.com/artist/4UAxwzDV5PYB11huf5Shs3) | [The New Life \(Expanded Version\)](https://open.spotify.com/album/6SpVxy1XGpiXncSI6CiN2Y) | 3:48 | 2022-02-09 | 2022-07-29 |
 | [I Can’t Believe](https://open.spotify.com/track/5jnHZDEQg9a6tv8Ndp277s) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [Mood Swing](https://open.spotify.com/album/2tfrNC7CphnNqyPVMwoXs2) | 2:26 | 2022-02-09 |  |
 | [I Like Me Better](https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR) | 3:17 | 2022-02-09 |  |
@@ -109,9 +110,10 @@
 | [Until We Leave the Ground](https://open.spotify.com/track/1ZCDC8uwT8p6FCRC2UI6xe) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/3y1HiZb2e8rIP4nWMKJRFi) | 3:00 | 2022-02-09 |  |
 | [Until We Leave the Ground](https://open.spotify.com/track/1oRUR4mnq1aRwAKD6ONelx) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/0Mi6vGX45V3NRMY981idqZ) | 3:00 | 2022-02-09 | 2023-03-22 |
 | [Until We Leave the Ground](https://open.spotify.com/track/2U5GoyOx5r93PzP1xbji9V) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/596mgQppymQJnhfphd3RJP) | 3:00 | 2022-02-09 | 2022-10-13 |
-| [Video Child](https://open.spotify.com/track/4kpRLUBWg4GSNlfmWuMil7) | [Many Voices Speak](https://open.spotify.com/artist/58F5GqfOMje69JMa2LIHD6) | [Away for All Time](https://open.spotify.com/album/1nvh4GtBzBIidFQyXaEDOz) | 5:00 | 2022-02-09 |  |
+| [Video Child](https://open.spotify.com/track/4kpRLUBWg4GSNlfmWuMil7) | [Many Voices Speak](https://open.spotify.com/artist/58F5GqfOMje69JMa2LIHD6) | [Away for All Time](https://open.spotify.com/album/1nvh4GtBzBIidFQyXaEDOz) | 5:00 | 2022-02-09 | 2023-04-29 |
 | [Video Child](https://open.spotify.com/track/5MBKDKheLzcGoRYGWpFNNg) | [Many Voices Speak](https://open.spotify.com/artist/58F5GqfOMje69JMa2LIHD6) | [Away for All Time](https://open.spotify.com/album/1cRf3YRjE0pm48CNQC6eCr) | 5:00 | 2022-02-09 | 2023-03-02 |
 | [Video Child](https://open.spotify.com/track/6XRJPmdCErAaOEraEuvsuQ) | [Many Voices Speak](https://open.spotify.com/artist/58F5GqfOMje69JMa2LIHD6) | [Away for All Time](https://open.spotify.com/album/1BKijwhYBjOXRwdQ1Iv5Fr) | 5:00 | 2022-02-09 | 2022-07-29 |
+| [Video Child](https://open.spotify.com/track/6fZg6RPktKWrtKNH57nDzX) | [Many Voices Speak](https://open.spotify.com/artist/58F5GqfOMje69JMa2LIHD6) | [Away for All Time](https://open.spotify.com/album/1daG4UOWDraQHk7Jidm2q1) | 5:00 | 2022-02-09 |  |
 | [Wannabe](https://open.spotify.com/track/1TYmnAWxFBttuHzwZZt2nQ) | [Sandflower](https://open.spotify.com/artist/2frKv3a39gzx9Ppx8UGVKR) | [Wannabe](https://open.spotify.com/album/7JRCylMpB4AEmofvQX5TDx) | 3:17 | 2022-02-09 |  |
 | [Wannabe](https://open.spotify.com/track/7aywhUmrzk9186azjE49Ar) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 2:53 | 2022-02-09 |  |
 | [warm glow](https://open.spotify.com/track/0WSPIU3Y3bNXsGeKnzSnt1) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [warm glow](https://open.spotify.com/album/4Haa4Xjv1O6cjPY2CwmbY8) | 5:58 | 2022-02-09 |  |

@@ -4,7 +4,7 @@
 
 > Reach inner tranquility with peaceful Hang and ambient.
 
-82 songs - 5 hr 24 min
+84 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Hang Drum Sounds](https://open.spotify.com/track/7IJWIhiNqYAk8Fo3zfpz4n) | [Hang Drum Music](https://open.spotify.com/artist/6EYGpvp2j9oenkXCw3oJJO), [The Hang Drum Project](https://open.spotify.com/artist/0O1fF1CEBxcnf0vo9bVaGq), [Spa](https://open.spotify.com/artist/4LUYOHM73gVlfY5TzRbIgX) | [Hang Drum Relaxation Music For Spa, Massage, Sleep, Yoga, Meditation and Spa Music](https://open.spotify.com/album/2RWIlV0VSshZmDx7uozJzg) | 2:38 | 2022-09-08 |  |
 | [Hangdrum Meditation](https://open.spotify.com/track/6rAgZR06iejAxUq8cpdEmN) | [Moments Of Divinity](https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V) | [Hangdrum Meditation](https://open.spotify.com/album/3Bqc3cKLJo8O4VW3dxOIJI) | 2:33 | 2022-09-08 |  |
 | [Harmony & Balance](https://open.spotify.com/track/5TfL4ciYgo0tv89aTe1ZCk) | [Hang Drum Pro](https://open.spotify.com/artist/6rWWiX7YUBhzjSN8HPpqon), [Sounds Effects Academy](https://open.spotify.com/artist/7mHb8vvFWhMlBlbuNeY8DX) | [\# Hang Drum: Relaxing Music with Nature Sounds for Meditation & Relaxation](https://open.spotify.com/album/7tsmkqxxW5bKf2Lt65DK6W) | 2:50 | 2022-09-08 |  |
+| [Harmony and Balance](https://open.spotify.com/track/24EZiSH1BoECa8CqdcpPEJ) | [Spiritual Frequencies](https://open.spotify.com/artist/5gUJK8QwnYlsLRnxepd7A5) | [Breath of Life](https://open.spotify.com/album/5m5QieU8LlAgHmJH88z4iE) | 2:15 | 2023-04-28 |  |
 | [Homeopat](https://open.spotify.com/track/1GvvgUzaFTeRGn7tCEs6R7) | [Tian Taylor](https://open.spotify.com/artist/0N6kUvm8XIRQd9G36AIuV1) | [Homeopat](https://open.spotify.com/album/3KWiD2DPrTHR5XnJ5fDqp2) | 3:54 | 2022-09-08 |  |
 | [Horizon](https://open.spotify.com/track/5ywfmESxQzrKS8FMIfUAfU) | [Atlas Handpan](https://open.spotify.com/artist/0leqbWOblVOTuK270ZDM0W) | [Atlas One](https://open.spotify.com/album/5Vq540UmAvWuutX2uJI3ks) | 2:16 | 2022-09-08 |  |
 | [Increasing Obviousness](https://open.spotify.com/track/0NDw9Cof8cplOb2hsd4IDU) | [Hang Massive](https://open.spotify.com/artist/6bkF6GDcyXZn2T0D5Fwldl) | [Beats for Your Feet](https://open.spotify.com/album/554SueuROwZikUIy6PTVdz) | 4:36 | 2022-09-08 |  |
@@ -57,6 +58,7 @@
 | [Morning Glory](https://open.spotify.com/track/5WBokctXfaziw6WzQvlb8i) | [Lana Asana](https://open.spotify.com/artist/5elsAk2VytQPxxvXU17qhs) | [Lana Asana](https://open.spotify.com/album/4ALbFvHWOVj3NHLGLBVgGQ) | 1:56 | 2022-09-08 |  |
 | [Morning Rain](https://open.spotify.com/track/2ScoCpo4KtrwmrMshEX8TW) | [Kate Stone](https://open.spotify.com/artist/1uuTWnnSPHQMX8ZHi1XTN9) | [The Melody Within, Vol\. 1](https://open.spotify.com/album/06riU4SWaTMPHCfaL0ZvCB) | 7:26 | 2022-09-08 |  |
 | [Mystique](https://open.spotify.com/track/79GIRejvbVrpQTc8287iYz) | [Tech Art](https://open.spotify.com/artist/1DAsNQc739srYx6Go2Evo8) | [Hang Drums](https://open.spotify.com/album/68kllnJ8TPDgacPsapIQBG) | 3:04 | 2022-09-08 |  |
+| [Ocean of Tranquility \- Ambient Version](https://open.spotify.com/track/3WnjloAbDEt19ADVhBjPE7) | [Spiritual Frequencies](https://open.spotify.com/artist/5gUJK8QwnYlsLRnxepd7A5) | [Breath of Life \(Ambient Version\)](https://open.spotify.com/album/4tG5810LflwIHC76A1xo8r) | 2:23 | 2023-04-28 |  |
 | [Pan Serenade](https://open.spotify.com/track/26hAV8CJvMK58Gdvve3vyx) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Pan Serenade](https://open.spotify.com/album/2YNQuawkFrWf9Fittz8cIq) | 3:34 | 2022-09-08 |  |
 | [Peaceful Dreams](https://open.spotify.com/track/5ThS3qUQw06ccseUiritbO) | [Hang Drum Pro](https://open.spotify.com/artist/6rWWiX7YUBhzjSN8HPpqon) | [\# Hang Drum: Relaxing Music with Nature Sounds for Meditation & Relaxation](https://open.spotify.com/album/7tsmkqxxW5bKf2Lt65DK6W) | 3:15 | 2022-09-08 |  |
 | [Rain](https://open.spotify.com/track/69ky1JyCHb9VJ7G3CzAYHn) | [Nirvana Handpan](https://open.spotify.com/artist/5HGiYfzLihy6ko4T5231Pw) | [Rain](https://open.spotify.com/album/1Ju9FoPh1ikFpzzweOfYNf) | 2:07 | 2022-09-08 |  |

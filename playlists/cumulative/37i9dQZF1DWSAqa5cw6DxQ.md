@@ -4,7 +4,7 @@
 
 > Clear your mind with soothing new age guitar.
 
-142 songs - 7 hr 4 min
+146 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Agape](https://open.spotify.com/track/1RM8shXinDriSL1trnsh9H) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Agape](https://open.spotify.com/album/4Il0ZsUVa4e3qTivFLbqeV) | 3:23 | 2022-02-28 |  |
 | [Albizia](https://open.spotify.com/track/0d8caG6gxZ9u0TF6XUcz2v) | [Zane Cassidy](https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC) | [Fais de beaux rêves](https://open.spotify.com/album/4LWaeYj3BEJqSOcJ5Blnxo) | 2:22 | 2022-10-21 |  |
 | [Aleph](https://open.spotify.com/track/4YxflJfXcejk4dMsCCjVQ5) | [Ciaran Delany](https://open.spotify.com/artist/2WuIGHkWICbZ4ZnIWWwaQE) | [Aleph](https://open.spotify.com/album/3RVeSq0URHjXScaMXDCMJn) | 3:02 | 2022-02-28 |  |
+| [Alignements](https://open.spotify.com/track/33tTpKz41ECTjEJmhzb3zp) | [Samuel Banks](https://open.spotify.com/artist/0YRPAc7JhsviXAElmgcRzU) | [Alignements](https://open.spotify.com/album/7LwE51sYyVwk45hWcIJz5k) | 3:03 | 2023-04-28 |  |
 | [Angelica](https://open.spotify.com/track/33QdFnE3AIsQZaGZZWYMEo) | [Lionheart](https://open.spotify.com/artist/7sHTXnqmYqCECjKKb2iqWS) | [Soil of the Earth](https://open.spotify.com/album/02U4NcvO35hnPWETMhAKSE) | 4:38 | 2022-02-28 | 2022-09-03 |
 | [Aspettami](https://open.spotify.com/track/06eKIv3GcoevTNVVyldzWw) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Aspettami](https://open.spotify.com/album/0M7H8emADLzJH0cEOJ0zSB) | 2:05 | 2023-04-14 |  |
 | [Aspettami](https://open.spotify.com/track/59TaH0JXyu19Xt01RTF4DF) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Aspettami](https://open.spotify.com/album/3lZaYQwsHHK9Y4o0hdD80r) | 2:05 | 2022-12-20 | 2023-04-19 |
@@ -45,6 +46,7 @@
 | [Dreametheral](https://open.spotify.com/track/4ZnMbPSIG1eOCEelRuqFAe) | [Leigh Erin](https://open.spotify.com/artist/3Ee9xlGbXKadjo3ccCNfrg) | [Dreametheral](https://open.spotify.com/album/73tedZgmVrBYQvGRpnJALO) | 2:57 | 2023-04-14 |  |
 | [Dreams of Mercury](https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o) | [Chim Suri](https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg) | [Dreams of Mercury](https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL) | 3:12 | 2022-02-28 |  |
 | [Drifting](https://open.spotify.com/track/6XgxMjACtxIGyMpHjXGQ1y) | [Leigh Erin](https://open.spotify.com/artist/3Ee9xlGbXKadjo3ccCNfrg) | [Drifting](https://open.spotify.com/album/3n3ri3uLMAQYMxeFDPAyqJ) | 2:57 | 2023-01-27 |  |
+| [Elsewhere Now](https://open.spotify.com/track/3HWtnVR3Nq63AMLefzpXtm) | [Rigby Jay](https://open.spotify.com/artist/12s8RdGDrmojyfC16intDY) | [Elsewhere Now](https://open.spotify.com/album/1vfso6z9jOLp90nlfsFzjR) | 3:12 | 2023-04-28 |  |
 | [Emersion](https://open.spotify.com/track/2pxDPvNqRMkrnoOiL3CVYK) | [Yasmin Ryan](https://open.spotify.com/artist/5yNo2UDxYyUsMrH7UdPW1g) | [Emersion](https://open.spotify.com/album/2AVFXtKshMtp06uEyDMx7Z) | 2:48 | 2022-09-13 |  |
 | [En Stilla Plats](https://open.spotify.com/track/42aXU4fhzS1bx3rIYowx5c) | [Alva Abrahamson](https://open.spotify.com/artist/1Bnfz5xvq0H2MT2rYSaz5y) | [En Stilla Plats](https://open.spotify.com/album/4wnu2eR9UZ3LWzjx9e0Le9) | 2:59 | 2023-04-06 |  |
 | [Essential Transformation](https://open.spotify.com/track/13dIRMP00LvvzqhY9OLOSk) | [Cold Space](https://open.spotify.com/artist/3PxPykyuBn8TuWjnuJ3jIr) | [Essential Transformation](https://open.spotify.com/album/0OlqiG1lP38XGnl5TrITD8) | 4:08 | 2022-07-08 |  |
@@ -112,6 +114,7 @@
 | [Reposeful Views](https://open.spotify.com/track/1nz7X92O6UlyjKe2qg0lSd) | [Dag Sommer](https://open.spotify.com/artist/7C14yKyhGQefwbz7ckNHmy) | [Reposeful Views](https://open.spotify.com/album/1OM9rRIk5WsQyGIsHmPfZB) | 3:04 | 2023-04-14 |  |
 | [Reset](https://open.spotify.com/track/423CiX74q1x1ngQoZ5tAEY) | [Sierra Rubio](https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM) | [Reset](https://open.spotify.com/album/1adS1XhqBudKquCDqma83g) | 2:15 | 2022-02-28 |  |
 | [Restore Calm](https://open.spotify.com/track/2kWgnixsXJN1kOOeTU84fE) | [Palacín](https://open.spotify.com/artist/4AFGBpC7hxvSJArGRadDoL) | [Tremoland](https://open.spotify.com/album/1PLLrdOtibrkAzPxV8j3jj) | 2:35 | 2022-02-28 |  |
+| [Riddles](https://open.spotify.com/track/0q6IHlkLK8Mu1gyVZukEvy) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [Riddles](https://open.spotify.com/album/1v317uEoGbIxuZ9L8aIjxh) | 2:17 | 2023-04-28 |  |
 | [Sail Away](https://open.spotify.com/track/6mamgQsrc9tFBXAEaOqa1Y) | [C\. Lindquist](https://open.spotify.com/artist/59yCLT7odiMwxirAZ4YZaw) | [Sail Away](https://open.spotify.com/album/6aeoXB2a6hKW11kJ4NIfKB) | 5:38 | 2022-05-19 |  |
 | [Sense Of Purpose](https://open.spotify.com/track/1BvhFvVFE0crj3NwwUp1ov) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [Sense Of Purpose](https://open.spotify.com/album/7M8AAxi71Aw8Igk5DoRTwL) | 2:17 | 2022-12-30 |  |
 | [Sensitive Kind](https://open.spotify.com/track/5ieI1TNrPSrQtpDhr5C6Ng) | [Manja Sjögren](https://open.spotify.com/artist/5EdNpt7pgrLi6oLTzJZhLl) | [Sensitive Kind](https://open.spotify.com/album/31um9WNUvUOORhljwfcdek) | 3:07 | 2023-02-24 |  |
@@ -122,6 +125,7 @@
 | [Slower Breathing](https://open.spotify.com/track/3ge5gs7BWnadCCG41cFS0n) | [Distant Waves](https://open.spotify.com/artist/7GEwtxqekjKY0au4q89hHG) | [Slower Breathing](https://open.spotify.com/album/6DRmJEnmXSjpUx8rpuwwUD) | 4:05 | 2022-02-28 |  |
 | [Slumbering](https://open.spotify.com/track/7G93PdOrq65MM44MULk4LF) | [Mindful Eclipse](https://open.spotify.com/artist/7AqjdmOiPPFzX6oy0Mfo1j) | [Slumbering](https://open.spotify.com/album/38kQws0XCqhTwzmVs9SJX0) | 3:02 | 2022-02-28 |  |
 | [Solitary Dream](https://open.spotify.com/track/0j2OXnzJXz64RdW5Cd9YXF) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Solitary Dream](https://open.spotify.com/album/2XPb71dayODjs1YmaFQRnC) | 2:40 | 2022-09-02 |  |
+| [Solitude By Numbers](https://open.spotify.com/track/1WF0V2ndTgetIzonPqO6Qz) | [Minisol](https://open.spotify.com/artist/6FcUn7u0urBTnuRilGZBFf) | [Solitude By Numbers](https://open.spotify.com/album/52sUayQnby3lc9Ui5ggd29) | 3:06 | 2023-04-28 |  |
 | [Somber](https://open.spotify.com/track/1IaWSNyIJgS5I2wG7zmWJJ) | [Polarsken](https://open.spotify.com/artist/776CEyHtewX4OuzP3zDVjH) | [Somber](https://open.spotify.com/album/07nrUzwmwDB4KM1ihnIy8X) | 4:13 | 2022-03-29 |  |
 | [Spellbound](https://open.spotify.com/track/21KaEe9seWVaE5UWwb439V) | [Hedda Young](https://open.spotify.com/artist/1MsiVgU8p0gLDLnGroMkIS) | [Spellbound](https://open.spotify.com/album/5MYvk8SIFdpvM3ePfTEyTy) | 3:06 | 2023-03-30 |  |
 | [State of Existence](https://open.spotify.com/track/2ZA0J8gcbUxetOh1R3rzMp) | [Christos Konstantinidis](https://open.spotify.com/artist/1r6SmaBSJVyCN1gT5mMODO) | [State of Existence](https://open.spotify.com/album/4VBg4QcYhgsnVVFGEU5wzI) | 2:56 | 2022-02-28 |  |

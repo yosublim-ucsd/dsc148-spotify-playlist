@@ -4,11 +4,12 @@
 
 > Where jazz meets classical, and classical meets jazz.
 
-83 songs - 7 hr 29 min
+84 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ['Raindrop' Prélude in D\-flat major \(Op\. 28, No\. 15\)](https://open.spotify.com/track/3KwwWYRDpF5kSwm5sFrjWa) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP), [Jean\-Paul Brodbeck](https://open.spotify.com/artist/1ub8Ppat73nCF5bFhfTX02) | [The Chopin Project](https://open.spotify.com/album/5TcI5s6eZiAaR2f9nBsU1o) | 5:26 | 2022-04-21 |  |
+| ['Raindrop' Prélude in D\-flat major \(Op\. 28, No\. 15\)](https://open.spotify.com/track/2NFFPpVALKAo6cG06AOvFC) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP), [Jean\-Paul Brodbeck](https://open.spotify.com/artist/1ub8Ppat73nCF5bFhfTX02) | [The Chopin Project](https://open.spotify.com/album/4jN3lzEIArxkTDjfe8vgMK) | 5:26 | 2023-04-26 |  |
+| ['Raindrop' Prélude in D\-flat major \(Op\. 28, No\. 15\)](https://open.spotify.com/track/3KwwWYRDpF5kSwm5sFrjWa) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP), [Jean\-Paul Brodbeck](https://open.spotify.com/artist/1ub8Ppat73nCF5bFhfTX02) | [The Chopin Project](https://open.spotify.com/album/5TcI5s6eZiAaR2f9nBsU1o) | 5:26 | 2022-04-21 | 2023-04-29 |
 | ['Round Midnight](https://open.spotify.com/track/0fZ6bKJwwEdb0zsexcqANR) | [London Concertante](https://open.spotify.com/artist/1j6wk2ZG8qhm7XUhAf8HsF), [Chris Grist](https://open.spotify.com/artist/5hl00HUGil2IMTUmePFN3E) | ['Round Midnight](https://open.spotify.com/album/4AKtbb5wCrL31mptOegyqu) | 6:50 | 2021-12-02 |  |
 | [931](https://open.spotify.com/track/3mxdQvIIltmVakO8btAP6P) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Dieter Ilg](https://open.spotify.com/artist/40isU54XsylSrbSXaFI5cl), [Rainer Böhm](https://open.spotify.com/artist/1BR0aqoHeE8tKmeXPCxx9C), [Patrice Heral](https://open.spotify.com/artist/3gSwRrdppBFWGY6NzLDmd1) | [B\-A\-C\-H](https://open.spotify.com/album/00Y9P5wIDLWoIA7rhTUqTP) | 4:28 | 2021-12-02 |  |
 | [Adagietto \(From "Symphony No\. 5 in C\-Sharp Minor"\) \[Live\]](https://open.spotify.com/track/7p5NYxs2LzmRFdlAt2kJGm) | [Gustav Mahler](https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz), [Uri Caine Ensemble](https://open.spotify.com/artist/36kkRaYrdhkQ9h3XVQ7qaR) | [Gustav Mahler in Toblach](https://open.spotify.com/album/6zJn2RYauCrm284UPcHMkT) | 12:42 | 2022-07-07 |  |

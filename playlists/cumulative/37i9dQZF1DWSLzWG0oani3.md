@@ -4,7 +4,7 @@
 
 > Suena en el barrio, suena acá\. Foto: DT.Bilardo
 
-104 songs - 5 hr 8 min
+105 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Adentro del Party](https://open.spotify.com/track/14fTqe6T4p9zyikK1RvYti) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Adentro del Party](https://open.spotify.com/album/78zVM36RvzD7VpaaKgQ7E5) | 3:00 | 2022-07-22 |  |
 | [ALLA](https://open.spotify.com/track/4rMs8KWAFaNDbRa0hk0TDo) | [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [Dj Plaga](https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr) | [ALLA](https://open.spotify.com/album/3cB5act4NdvL6zZHWXg76w) | 2:10 | 2022-04-01 |  |
 | [Armando El Chipi Chipi](https://open.spotify.com/track/4UCRLEObUo5M0IssOoOtPz) | [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0) | [Armando El Chipi Chipi](https://open.spotify.com/album/5myKtBg7PCrs5i9J5raXjl) | 3:12 | 2022-03-18 | 2022-06-07 |
+| [Asesina](https://open.spotify.com/track/2MOLpaE8R8rP98fPTizwPw) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Asesina](https://open.spotify.com/album/1kP6iGltU5xfoZh7u1ipLn) | 3:17 | 2023-04-28 |  |
 | [Bandera](https://open.spotify.com/track/3eFsHyp8k4jkfdTIoIj3BN) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [El Mas Berrako](https://open.spotify.com/artist/4QCMJeV5aPlZCswgzTyX2X) | [Bandera](https://open.spotify.com/album/0f3uhIYi9PccAtszSB6AcM) | 2:19 | 2021-12-24 |  |
 | [CARANCHO](https://open.spotify.com/track/6PMWJlpsP6uocjP4YTUW3H) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [CARANCHO](https://open.spotify.com/album/0YnJLL2o3w6VkVWZKTpz6N) | 2:29 | 2022-03-25 |  |
 | [Chiquitita](https://open.spotify.com/track/3qbIr79hziQsnh95N8ml8w) | [Miyah](https://open.spotify.com/artist/5rE2HaYrmTza8MPBzzujzw), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Juan FLP](https://open.spotify.com/artist/2p0ZRhfSrgGcOHWJ2aExzW) | [Chiquitita](https://open.spotify.com/album/2eUnSC4FXddBi7L2ThGN4A) | 2:01 | 2022-08-05 |  |

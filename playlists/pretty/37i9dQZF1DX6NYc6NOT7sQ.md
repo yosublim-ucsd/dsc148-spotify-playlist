@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6NYc6NOT7sQ.md) - [plain]
 
 > <a href="spotify:artist:3gNEIgLeknpwkNViU8WAhg">Oceanvs Orientalis</a>' favorite tracks\. Updated regularly\. Curated by Oceanvs Orientalis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,205 likes - 85 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,254 likes - 85 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6NYc6NOT7sQ.md) - [plain]
 | 18 | [Atomic Alchemy \- Original](https://open.spotify.com/track/2sntzWf1oa90KGpqDb9pPX) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Qualista](https://open.spotify.com/artist/2rIvjgB0z5QII5THLUVArN) | [Atomic Alchemy](https://open.spotify.com/album/49Ja0XYLywQFJMgFfBUBL0) | 5:53 |
 | 19 | [Who Knows](https://open.spotify.com/track/6pul7BJkKcVHIewzPLW2rc) | [Marion Black](https://open.spotify.com/artist/2VF421Sz9nBUdNzwqSTp7z) | [Who Knows b/w Go On Fool](https://open.spotify.com/album/3BMuJ1NQORhCC0PsQyg93m) | 2:18 |
 | 20 | [No Hay Dub](https://open.spotify.com/track/7nv3M2hLmXLXaibVTyZFmO) | [Capablanca](https://open.spotify.com/artist/7LQa8It1omQc5ZpspPFRA2), [T.Keeler](https://open.spotify.com/artist/4Ha58NDSY39ronEL7NRmHE) | [No Hay Ritmo](https://open.spotify.com/album/1ZVKyWlobJRBzvlA73NdZQ) | 7:15 |
-| 21 | [Final Eclipse \(Full Version\)](https://open.spotify.com/track/0KfMoDziaCNa4SS48VG3KG) | [The Comet Is Coming](https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU) | [Death to the Planet](https://open.spotify.com/album/3qFgijcQbTS5frVRo3wt9R) | 6:45 |
+| 21 | [Final Eclipse \(Full Version\)](https://open.spotify.com/track/3DJKmPCfYxTY2sJSDTn2nJ) | [The Comet Is Coming](https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU) | [Death to the Planet](https://open.spotify.com/album/78r1S2wMZbbdiNUZANMP7t) | 6:45 |
 | 22 | [Broken Roof](https://open.spotify.com/track/3uvr288NClDED7svvsZbDk) | [Turgut Alp Bekoğlu](https://open.spotify.com/artist/6HgC52zrEuMhWkWdEmqTso), [Erkan Oğur](https://open.spotify.com/artist/7HIccJjwPhWkLVKu0gGJgB), [İlkin Deniz](https://open.spotify.com/artist/1ve833k9QweOFZVV1T8xmH) | [Love Jazz](https://open.spotify.com/album/6ekHAm7sAMHblWY4uNs3yj) | 3:38 |
 | 23 | [A Little Fun](https://open.spotify.com/track/5iDUcLvvGUMaHpmlBZUpfG) | [Husa & Zeyada](https://open.spotify.com/artist/3s47xvcoBSwPTgPizjEwfu) | [Long Way Home](https://open.spotify.com/album/1KKVWZHhfIJ86BYFsro40P) | 3:49 |
 | 24 | [Se Essa Rua Fosse Minha \(Goyanu Remix\)](https://open.spotify.com/track/476v8bK66rwRv3r6dLV0sH) | [XAXIM](https://open.spotify.com/artist/2KcqD9l4cRXg6pXeOT1Zv3), [reple](https://open.spotify.com/artist/0kHbe0OXs3qWW3T2uclNFt), [Íria](https://open.spotify.com/artist/6VgLtLLPvz5yACKODlOwU4), [Goyanu](https://open.spotify.com/artist/5sPMTZypbBMh5mAdIFcuMA) | [Se Essa Rua Fosse Minha \(Deluxe\)](https://open.spotify.com/album/1bzDa2y7eeDmcRskOpmbtl) | 8:08 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6NYc6NOT7sQ.md) - [plain]
 | 32 | [Sultan\-ı Yegah](https://open.spotify.com/track/0cZgkcbssrcJeetG4GXoLc) | [Nur Yoldas](https://open.spotify.com/artist/5ayzrYOahi5XNF9eRwYMKv) | [Sultan\-ı Yegah](https://open.spotify.com/album/7abktSnLSSqWJkYFAePMT6) | 3:13 |
 | 33 | [On Again](https://open.spotify.com/track/2srxLxwPkmZkFgS6Jrwmbi) | [Gerardo Frisina](https://open.spotify.com/artist/5TW4eUAdUAz7llrJJfBllc) | [Soul Drum](https://open.spotify.com/album/29hrsLp9WgEFp6kVRyUuxO) | 6:07 |
 | 34 | [All I Want is You](https://open.spotify.com/track/44OZPn5il5c0XA7KTU1lnS) | [Kenneth Bager](https://open.spotify.com/artist/4MDM56W6RidntU2HH9mQUU), [OliO](https://open.spotify.com/artist/2v6bV7Uez5MobbfVPaDwCN), [WALTHER](https://open.spotify.com/artist/4ubJTb2psOOKpUmglNcrFN), [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [All I Want is You](https://open.spotify.com/album/2CGvJdm4QW7nhWUVP099DK) | 9:58 |
-| 35 | [Jumprope \- SAFER Remix](https://open.spotify.com/track/44iTLYoLiuuyRuFfnyjrfA) | [Psymon Spine](https://open.spotify.com/artist/44iSvW0fck77wQAmWaDdzm), [Safer](https://open.spotify.com/artist/4QaLRgZsBK2wfrWWDo0CZy) | [Charismatic Mutations](https://open.spotify.com/album/4WOI2T2P1M13uSPomRWZ9L) | 4:38 |
+| 35 | [Jumprope \- SAFER Remix](https://open.spotify.com/track/18xEKrCQ6kdQ0sGtNzmEd1) | [Psymon Spine](https://open.spotify.com/artist/44iSvW0fck77wQAmWaDdzm), [Safer](https://open.spotify.com/artist/4QaLRgZsBK2wfrWWDo0CZy) | [Charismatic Mutations](https://open.spotify.com/album/0GQ1Eo42sLfjgOzJs5w7mm) | 4:38 |
 | 36 | [Intertwined](https://open.spotify.com/track/0Mnk5ZV0xWVSPf2lXGqxtq) | [Arutani](https://open.spotify.com/artist/7g48EWSZL2Zb40hnBcFd1K) | [Intertwined](https://open.spotify.com/album/4VmxgE6vmKjNvGZ7HlcqVj) | 7:06 |
 | 37 | [What Kinda Music](https://open.spotify.com/track/47w6S27JF4Zvrz1Wd6R66Z) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music](https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI) | 3:50 |
 | 38 | [The Misorientation of Autarkic](https://open.spotify.com/track/4fOqMMohz5wvi019nuhlnh) | [Autarkic](https://open.spotify.com/artist/7phOvwBANyuRvVKTInnbxJ) | [Can You Pass the Knife?](https://open.spotify.com/album/3caPhJF0fyJQsIpMCJ5WZe) | 6:18 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6NYc6NOT7sQ.md) - [plain]
 | 84 | [Marmara](https://open.spotify.com/track/0mWySChvIoNiwwjrseycdT) | [Muno](https://open.spotify.com/artist/1DZGRRvmPsjC8o8F8MwpRe) | [Marmara](https://open.spotify.com/album/4j0YbHO2ronLXxxVXHEMt2) | 5:50 |
 | 85 | [Lyre](https://open.spotify.com/track/6sFgqgE20JJ3whmxIOoP8h) | [NINZE & OKAXY](https://open.spotify.com/artist/4yJU0dWTxh9cmKKjXWOneJ) | [Cranes at Night](https://open.spotify.com/album/7CTizjF89XdarzPdTPMmdW) | 5:35 |
 
-Snapshot ID: `MCxiNGQ5N2FmZmVhODcxYjA2N2I3ODE2YzU3MTgzZDA1MWU0ZWY5NmEx`
+Snapshot ID: `MCw1NmViYjcyZWY2MzY5OWU3MjdhYjA3MjkxNTc2NDBkNDk2Mzk2N2Iy`

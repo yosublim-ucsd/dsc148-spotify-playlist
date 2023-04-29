@@ -1370,6 +1370,28 @@
     {
       "album": {
         "name": "\"BBF\" Hosted By DJ Escrow",
+        "url": "https://open.spotify.com/album/3Y0EqAgYnf04X2U72D6z2I"
+      },
+      "artists": [
+        {
+          "name": "Babyfather",
+          "url": "https://open.spotify.com/artist/3DmDJOQgrwlq8MxXGLeFvA"
+        },
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320449,
+      "name": "Meditation (feat. Arca)",
+      "url": "https://open.spotify.com/track/3wxiQcLMIcJqua7VCZOVMg"
+    },
+    {
+      "album": {
+        "name": "\"BBF\" Hosted By DJ Escrow",
         "url": "https://open.spotify.com/album/5cfMh4xCZIr5kZs5ryEpeS"
       },
       "artists": [
@@ -1384,7 +1406,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 320449,
       "name": "Meditation (feat. Arca)",
       "url": "https://open.spotify.com/track/4G2wDx4EztZCPNz4sVHOFF"
@@ -2046,10 +2068,28 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 855377,
       "name": "Streetlands",
       "url": "https://open.spotify.com/track/3G3wD7ovEtCLcrljv6IYRd"
+    },
+    {
+      "album": {
+        "name": "Streetlands EP",
+        "url": "https://open.spotify.com/album/7DWTPht64rxNCelkEGQwxO"
+      },
+      "artists": [
+        {
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 855377,
+      "name": "Streetlands",
+      "url": "https://open.spotify.com/track/55PZY75Fpf26SiiTohiov8"
     },
     {
       "album": {

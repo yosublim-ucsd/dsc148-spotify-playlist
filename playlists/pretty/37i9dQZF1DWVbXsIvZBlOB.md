@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 
 > האזינו בפול ווליום לנשים במוזיקה הישראלית\. קאבר: אגם בוחבוט
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,011 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,028 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 | 49 | [אני רוצה קצת שתמות](https://open.spotify.com/track/6qq949cEFVrEbKuYFDRIbb) | [Gaya Shaki](https://open.spotify.com/artist/4CMezkD0gxsstpISAYphBl) | [אני רוצה קצת שתמות](https://open.spotify.com/album/5AFncCD1w7lzJHzSQeQVPx) | 2:39 |
 | 50 | [החליפה האפורה](https://open.spotify.com/track/7xuJe7GeVrVvDxRGze1u9M) | [Lihi Toledano](https://open.spotify.com/artist/1zFuOvKD7y6cnjH5RJ0Prx) | [החליפה האפורה](https://open.spotify.com/album/5NEOnDpvFgoyFgVBJVFXvI) | 3:46 |
 
-Snapshot ID: `MCw5YjBmNjg4YjM1NDhkNzc3N2E3ZjU1OGZiYTQwZDdiZGIyYzllNWY2`
+Snapshot ID: `MCwxNTA0OTI1MzE4OTkyM2NkNDg4YjdhNzIyOTkzNDliZWFiY2IwYmQ2`

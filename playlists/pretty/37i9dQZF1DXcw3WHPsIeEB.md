@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw3WHPsIeEB.md) - [plain]
 
 > Progressive beats and harmonies for the late hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,919 likes - 53 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,922 likes - 53 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw3WHPsIeEB.md) - [plain]
 | 30 | [Son Of Emmerson](https://open.spotify.com/track/1rMV78kBNDG4vOE9IeokKh) | [Dave Okumu](https://open.spotify.com/artist/3a34v9rZzoFZ7K19NszX9F) | [Son Of Emmerson](https://open.spotify.com/album/0XkagDDZPT7ACptJdHWjhl) | 3:44 |
 | 31 | [The Whales](https://open.spotify.com/track/4UDwsQO8RFMoEzSUpboslN) | [Mahealane](https://open.spotify.com/artist/5MIIsfUJhLH8TzJyTGCCq5), [PRNDL](https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU) | [The Whales](https://open.spotify.com/album/0gNl31ArACtMFvw8aChFd4) | 2:28 |
 | 32 | [Music Saved My LIfe](https://open.spotify.com/track/15JkkJANNuG0EoGCWEo85q) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Music Saved My Life](https://open.spotify.com/album/5QUt722cDFZ1ZGDesI5Kam) | 4:04 |
-| 33 | [Bonzai View](https://open.spotify.com/track/6fQByeRUNdzB9g1dU5RvcK) | [Potatohead People](https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m) | [Bonzai View](https://open.spotify.com/album/4WAq1BnkxlC0GOhdkU7w0j) | 3:32 |
+| 33 | [Bonzai View](https://open.spotify.com/track/5qhfbZ9QWxujhlokGPPY4C) | [Potatohead People](https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m) | [Bonzai View](https://open.spotify.com/album/6GT1SMUUhwBwbEZrRpabfa) | 3:32 |
 | 34 | [M\-Theory \(Colonel Beats Berklee\-Drop\-Out Version\)](https://open.spotify.com/track/1ySuLKp6wpQhOQ25IljK0m) | [FORQ](https://open.spotify.com/artist/7vXBNF4wc830rnuWRBXsz1), [Jochen Rueckert](https://open.spotify.com/artist/1jLkxP1qLQVmZr5h1SfJiU) | [Four \(Remixt\)](https://open.spotify.com/album/1Kt18IzOSAPIXMYwT0eWvT) | 4:25 |
 | 35 | [earthly things](https://open.spotify.com/track/7GZhgahlOC3GgZiTnQOHOL) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [When There's Love Around](https://open.spotify.com/album/1ht1VvaJRHg2JxEAUpl9A3) | 5:04 |
 | 36 | [City Dreams](https://open.spotify.com/track/1fFmd1dNthme62J8Kvmkhb) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Phøn](https://open.spotify.com/artist/6v2EgPbnVH1tpRh4GXAejH), [Javier Santiago](https://open.spotify.com/artist/3L3oWS9VsgTRBF7HFHdOEz), [Tamuz](https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA) | [The New Heritage](https://open.spotify.com/album/2wybYLaccS7y16e0bqr1zK) | 4:58 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw3WHPsIeEB.md) - [plain]
 | 52 | [Jusqu'ici tout va bien](https://open.spotify.com/track/4Enwbl0M7hXUU9gYf6l928) | [Okvsho](https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9) | [Jusqu'ici tout va bien](https://open.spotify.com/album/2KoENXX9CeFjHTuwsV7AUT) | 3:26 |
 | 53 | [Miles Deep](https://open.spotify.com/track/18OP3a6pS4Xeqy0r6hbqxN) | [Adibanti](https://open.spotify.com/artist/3bXDOLmSQHIP7zAyY633kT), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Miles Deep](https://open.spotify.com/album/1eyG2lpsmDFIfPAXXZuP7z) | 6:29 |
 
-Snapshot ID: `MCwyYmJmYmQ3ODEyMTc2NjI5OWM1NDU5OTBhMjc4OThhZTY1OWI2ZDVk`
+Snapshot ID: `MCw2OGUxMmQ0MzMyNWJjMGIzZTI3MjZlMDgxNGYyZGM4Yzc2MmI1N2Iw`

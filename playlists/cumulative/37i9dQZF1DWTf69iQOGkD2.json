@@ -485,6 +485,44 @@
     },
     {
       "album": {
+        "name": "Ac\u00fastico Altamira #23 - Mulher Nordestina",
+        "url": "https://open.spotify.com/album/1OkusGMFUWBg7XMpTw17wF"
+      },
+      "artists": [
+        {
+          "name": "Igor Bz",
+          "url": "https://open.spotify.com/artist/47uUoDpXa9wZj4obYiDvT2"
+        },
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Thebosh",
+          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
+        },
+        {
+          "name": "Joene Rocha",
+          "url": "https://open.spotify.com/artist/7BnRg7kmvZ8bF5fYml4arS"
+        },
+        {
+          "name": "Stanley Castro",
+          "url": "https://open.spotify.com/artist/7LLv5yYIB0JNOIiYBeOGah"
+        },
+        {
+          "name": "Hila Campelo",
+          "url": "https://open.spotify.com/artist/5ekmhzyylAHmiQrzCS58vf"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291317,
+      "name": "Ac\u00fastico Altamira #23 - Mulher nordestina",
+      "url": "https://open.spotify.com/track/5fpwt3Onevz1oIBrKti846"
+    },
+    {
+      "album": {
         "name": "Ac\u00fastico Altamira #8 - Leonina",
         "url": "https://open.spotify.com/album/6NAEOYIRfDpCN5zAICeJ8y"
       },
@@ -1072,7 +1110,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 269842,
       "name": "Chefona",
       "url": "https://open.spotify.com/track/4XSGzc9ywbAcmrIz9E4ITJ"
@@ -1180,7 +1218,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 115939,
       "name": "Detalhes",
       "url": "https://open.spotify.com/track/3mHbUXh4pi4yy9gWHqV8bW"
@@ -2546,7 +2584,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 170666,
       "name": "N\u00e3o Volto",
       "url": "https://open.spotify.com/track/0coMyavxt9GBli4voSWNgs"
@@ -2874,6 +2912,32 @@
       "duration_ms": 204088,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/4ZREaPhlA5mqZMFTSQBfzw"
+    },
+    {
+      "album": {
+        "name": "Perto De Mim",
+        "url": "https://open.spotify.com/album/0TragY5KibBZD7srtx8alA"
+      },
+      "artists": [
+        {
+          "name": "J a u m",
+          "url": "https://open.spotify.com/artist/1IyuVaJ5TMJ9GYJBYVu5Di"
+        },
+        {
+          "name": "Dracko",
+          "url": "https://open.spotify.com/artist/6gOq16KSO2ORGiVS7yDZHY"
+        },
+        {
+          "name": "Indie Space",
+          "url": "https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Perto De Mim",
+      "url": "https://open.spotify.com/track/4yAhfuUZjHX1bjkZ6mA6H6"
     },
     {
       "album": {
@@ -4152,7 +4216,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 143702,
       "name": "Te Encontrei de Quebra",
       "url": "https://open.spotify.com/track/6PlsvjNok7UVnAIi5gBaBu"
@@ -4248,7 +4312,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 529597,
       "name": "Vagabundo Tamb\u00e9m Ama / Vida Longa Mundo Pequeno - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2DgQLg0xllUwBwAtMsYiNH"

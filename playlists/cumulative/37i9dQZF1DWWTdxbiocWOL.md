@@ -4,7 +4,7 @@
 
 > Thunder is coming.
 
-92 songs - 10 hr 23 min
+93 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,9 +60,10 @@
 | [Logic Of A Dream](https://open.spotify.com/track/4pp3ilXwxKvWRsDSm3Ld8K) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Logic Of A Dream](https://open.spotify.com/album/5OaYHqiXnYW8tSAmHfOqBZ) | 6:37 | 2020-10-20\* | 2022-07-29 |
 | [Memorial \(feat\. Chelsea Wolfe\)](https://open.spotify.com/track/5Y6u1FBAsYsfUAzBX7ym7k) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Memorial](https://open.spotify.com/album/2169qq2aiycEtmgwEQlwgp) | 3:45 | 2021-06-09 |  |
 | [Mlàdek](https://open.spotify.com/track/1begl8Bjbo8q1eVtr5XGOV) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Empros](https://open.spotify.com/album/2evkzWDPHn96GZ0In9GG1w) | 7:39 | 2020-10-20\* | 2023-03-01 |
+| [Mogwai Fear Satan](https://open.spotify.com/track/0fvUM4C6KiRGfXEcUeNZXZ) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Young Team](https://open.spotify.com/album/5ti3kMHpKAF98D6PWPFFyn) | 16:19 | 2023-02-28 |  |
 | [Mogwai Fear Satan](https://open.spotify.com/track/39q7Yyr5iD0ajA6ZFw91y7) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Young Team \(Deluxe Edition\)](https://open.spotify.com/album/3sHB5AiFaJEOCAqh3taqGX) | 16:19 | 2021-06-09 | 2022-07-29 |
 | [Mogwai Fear Satan](https://open.spotify.com/track/3v2JDIu7n8DJ83V2pCKyqu) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Young Team \(Deluxe Edition\)](https://open.spotify.com/album/03Oli2dCjoYM5YS4f8R2pd) | 16:19 | 2022-09-30 | 2022-11-13 |
-| [Mogwai Fear Satan](https://open.spotify.com/track/5rVFrWKhJNe1iuGK0BPgTC) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Young Team](https://open.spotify.com/album/0qXr1kAu0GXoFoa55MbrLK) | 16:19 | 2022-01-17 |  |
+| [Mogwai Fear Satan](https://open.spotify.com/track/5rVFrWKhJNe1iuGK0BPgTC) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Young Team](https://open.spotify.com/album/0qXr1kAu0GXoFoa55MbrLK) | 16:19 | 2022-01-17 | 2023-04-29 |
 | [My Only Swerving](https://open.spotify.com/track/4q26ViixkilRLjl1MdLABS) | [El Ten Eleven](https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0) | [El Ten Eleven](https://open.spotify.com/album/6bv070I2PgzwGLgYGBxaJW) | 5:14 | 2022-01-17 |  |
 | [My Only Swerving](https://open.spotify.com/track/7bUGrBJEkLdtCIDYfT5abh) | [El Ten Eleven](https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0) | [El Ten Eleven](https://open.spotify.com/album/1j1FvT4EyX9ZIHKlPnUFRL) | 5:14 | 2020-10-20\* | 2022-07-29 |
 | [Pat Stains](https://open.spotify.com/track/0kT4AiVp3A2kO17pBp2Uzm) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [As The Love Continues](https://open.spotify.com/album/5FiUVE5D5I3TFQbixwbcK4) | 6:55 | 2021-02-19 | 2022-07-29 |

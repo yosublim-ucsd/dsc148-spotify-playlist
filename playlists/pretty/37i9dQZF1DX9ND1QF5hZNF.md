@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,285 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,381 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 49 | [Lied To Me](https://open.spotify.com/track/5dO6eoFYVSkqtIcwIIAWr5) | [Lonely Night](https://open.spotify.com/artist/5z7pjN7SUEN8nZFOO4MWhx), [Ari](https://open.spotify.com/artist/0V1Q4k9X1xSKiF9JVzRof1), [Lost Dreamers](https://open.spotify.com/artist/19jOvlXvoXs2Crt2RJ0R9B) | [Lied To Me](https://open.spotify.com/album/4AXoL7a5TPU6rktqwBeBgU) | 2:31 |
 | 50 | [Passage](https://open.spotify.com/track/3Q8CwfdyDIjHdlItATIxLt) | [Prigida](https://open.spotify.com/artist/4Ab2SjCDNyDAgkLfzzucWY) | [Passage](https://open.spotify.com/album/1UqfHtwpJsgz8FtEzPmpoR) | 2:10 |
 
-Snapshot ID: `MCw1OGJlYmY1OWM0ZDE4NzBkZThjNzhmMGU5NmY1OGE1ZmRmZmIzN2U3`
+Snapshot ID: `MCxjOTg3OGJkMTIyZTVhNzM5MGRkMDcyMWQwMWMwZDAyYmRmNWEwOWU2`

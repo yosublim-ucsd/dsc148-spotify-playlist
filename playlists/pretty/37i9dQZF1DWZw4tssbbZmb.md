@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4tssbbZmb.md) - [plain]
 
 > Devendra Banhart and Noah Georgeson's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambiente</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,248 likes - 23 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,262 likes - 23 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4tssbbZmb.md) - [plain]
 | 7 | [Across the Lake of the Ancient World \- Instrumental](https://open.spotify.com/track/27XR6UTQv54sA2F29vqm3a) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Terry Riley: Shri Camel](https://open.spotify.com/album/4TwkvQCs6tCmhivdM6prT6) | 7:26 |
 | 8 | [Improvisations V](https://open.spotify.com/track/0of2XzbLzcTewzxAuWyToH) | [E.J\. Gold](https://open.spotify.com/artist/3mQQKM8cyXKqycR89Yd7kj) | [Pythagorean Harp & Harmonium Improvisations](https://open.spotify.com/album/06BF3Y0udQ0cpfDrek0Typ) | 0:57 |
 | 9 | [Marv Pontkalleg](https://open.spotify.com/track/4LjQCrK3m1kkZNvdohD8cA) | [Alan Stivell](https://open.spotify.com/artist/5qEhKFhIXtSGi9Gw449LKX) | [Renaissance Of The Celtic Harp](https://open.spotify.com/album/4a0eXy2Khk53Pt5GadbxEI) | 3:34 |
-| 10 | [Glimpse](https://open.spotify.com/track/486s682C9SwHixcx2N2rqH) | [Gyan Riley](https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf) | [Sprig](https://open.spotify.com/album/0jc1uc13dDxHTqDyDNmvvJ) | 2:51 |
+| 10 | [Glimpse](https://open.spotify.com/track/2jTM1PFINR1Tama9UL35wp) | [Gyan Riley](https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf) | [Sprig](https://open.spotify.com/album/0wqrFb2wN30E4uJt6DI12y) | 2:51 |
 | 11 | [Till It Comes](https://open.spotify.com/track/2Ko95fsd9CiQTxIHZeFzyr) | [the sleeping beauty](https://open.spotify.com/artist/3oNPTWp2ADpZgDWhiEswrX) | [Auguries](https://open.spotify.com/album/4GQ95aeJCpgWV9ItNGiazf) | 4:53 |
 | 12 | [Agra](https://open.spotify.com/track/7Mg9W4L8QLjVVIfjhHHaod) | [Paul Horn](https://open.spotify.com/artist/1LI9iEq0loU9cdIa1dxVDj) | [Inside The Taj Mahal](https://open.spotify.com/album/5CI3eqdKUPVR2nB32qGgUP) | 1:39 |
 | 13 | [Into Clouds](https://open.spotify.com/track/2TihNGnsDiHCSFOmCtdALN) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [Refuge](https://open.spotify.com/album/6gxz2tx0MdfUJAQnWYonpg) | 4:43 |
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4tssbbZmb.md) - [plain]
 | 22 | [Destiny No.1](https://open.spotify.com/track/4oFTxscluKzz03XNU67cXg) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Seventh Garden](https://open.spotify.com/album/3zPHBf3UoBjK0nQEUz1gCi) | 5:19 |
 | 23 | [Cascata di Malbacco](https://open.spotify.com/track/3sCaGhYUT0HytB06FG9M23) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Tuscany](https://open.spotify.com/album/3D4mnf0AU05ASyKnf0wEiq) | 18:08 |
 
-Snapshot ID: `MCxjZmY1ZWU4YmQ3YmQ3ZGFmZjZkNDNiNTlmN2I1NjYyMGViODUyMTY5`
+Snapshot ID: `MCxhNjgxMWEyZjJkZWE2YTkzMjlmZWZjMmRjYTQ4MWZmOGUxMDIwYWEz`

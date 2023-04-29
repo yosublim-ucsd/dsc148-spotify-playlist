@@ -1,12 +1,12 @@
 {
   "description": "A collection of insane progressive rock creations, from classic acts to recent gems. Cover: Rush",
-  "num_followers": 296811,
+  "num_followers": 296959,
   "original_name": "Prog Rock Monsters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzFmYzQ3ZmE4ZGFjNmY5YTIxOGRjZjRkZGJmMGQzMmRkZGJlZWZh",
+  "snapshot_id": "MCw4Mjg5MzI2YzBhYWJmYmU2ZGNmY2FlMGM0NmM0MGViMDE5MGIzODQz",
   "tracks": [
     {
       "added_at": "2023-03-22 14:08:18",
@@ -55,6 +55,22 @@
       "duration_ms": 402560,
       "name": "Hocus Pocus - Extended Version",
       "url": "https://open.spotify.com/track/6iZtDWu3FTuxu7AprIqA3Y"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "All Connected",
+        "url": "https://open.spotify.com/album/4x1JU4RdcDd1GLyrXXUoid"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "duration_ms": 543173,
+      "name": "All Connected",
+      "url": "https://open.spotify.com/track/14vUjjPTDybmO5CfKgweW3"
     },
     {
       "added_at": "2023-03-22 14:08:18",
@@ -671,22 +687,6 @@
       "duration_ms": 525293,
       "name": "Inca Roads",
       "url": "https://open.spotify.com/track/0txIkFgdvURMOn35C2fvI3"
-    },
-    {
-      "added_at": "2023-03-22 14:08:18",
-      "album": {
-        "name": "H To He, Who Am The Only One (Deluxe)",
-        "url": "https://open.spotify.com/album/1n6mujGDmusUYHfuFtZZvJ"
-      },
-      "artists": [
-        {
-          "name": "Van Der Graaf Generator",
-          "url": "https://open.spotify.com/artist/02frazNrWgZCxUEf4UTfHt"
-        }
-      ],
-      "duration_ms": 498040,
-      "name": "Killer - Remastered 2021",
-      "url": "https://open.spotify.com/track/0TMKja08JBRFwkdpl9IpI3"
     },
     {
       "added_at": "2023-03-22 14:08:18",

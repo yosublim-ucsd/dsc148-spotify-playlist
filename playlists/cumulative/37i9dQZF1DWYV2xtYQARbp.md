@@ -4,7 +4,7 @@
 
 > That fuzzy, noisy punk\-blues hybrid
 
-61 songs - 3 hr 24 min
+63 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Christina](https://open.spotify.com/track/7ah8dRCjJFGCWstleG0PpD) | [Oblivians](https://open.spotify.com/artist/14UQmxJzeKtmgYzJ1sEJdi) | [Popular Favorites](https://open.spotify.com/album/6LXTRRrqJZYyuV0kIuaG7M) | 1:59 | 2022-03-28 |  |
 | [Commit a Crime](https://open.spotify.com/track/2rmPVmO9hOrLi8dBNd5MEQ) | [Mr\. Airplane Man](https://open.spotify.com/artist/6rDUd9tXAjOceaW2oc9ISP) | [Moanin'](https://open.spotify.com/album/0wEAMFrOaeqFuz3QcV4Xz7) | 3:30 | 2022-03-28 |  |
 | [Commit a Crime](https://open.spotify.com/track/7rTQ5D2ti1Nv1J4OB3E0sk) | [Mr\. Airplane Man](https://open.spotify.com/artist/6rDUd9tXAjOceaW2oc9ISP) | [Moanin'](https://open.spotify.com/album/3aIMscgCOctNaxzkCLHt2t) | 3:30 | 2022-03-28 | 2022-07-29 |
-| [Crackalacka](https://open.spotify.com/track/7hOazEoGmlZrK63w6wMMwA) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [All You Can Eat!!](https://open.spotify.com/album/0SZdR12aWXo9aZRurBvADH) | 3:57 | 2022-03-28 |  |
+| [Crackalacka](https://open.spotify.com/track/6cxujOKEfegpNfIhb7Ma6v) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [All You Can Eat!!](https://open.spotify.com/album/6PEL9tRZqgzzxq3RmpOm9O) | 3:57 | 2022-03-28 |  |
+| [Crackalacka](https://open.spotify.com/track/7hOazEoGmlZrK63w6wMMwA) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [All You Can Eat!!](https://open.spotify.com/album/0SZdR12aWXo9aZRurBvADH) | 3:57 | 2022-03-28 | 2023-04-29 |
 | [Davy Crockett](https://open.spotify.com/track/31YjnyR8BJphQKK33Rm1wD) | [Thee Headcoats](https://open.spotify.com/artist/69C0pRNo5qCmYlKS9Lctfe) | [Archive From 1959 \- The Billy Childish Story](https://open.spotify.com/album/3rdtnzccCDiymdgpMXYfrb) | 2:55 | 2022-03-28 |  |
 | [Ditch](https://open.spotify.com/track/3CzyTczZzTeJsFadFNh2po) | [The Jon Spencer Blues Explosion](https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG) | [Orange](https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH) | 2:34 | 2022-03-28 |  |
 | [Do the Milkshake](https://open.spotify.com/track/0NlwS6WOV4gfDRXTFBGNlR) | [Oblivians](https://open.spotify.com/artist/14UQmxJzeKtmgYzJ1sEJdi) | [Popular Favorites](https://open.spotify.com/album/6LXTRRrqJZYyuV0kIuaG7M) | 5:19 | 2022-03-28 |  |
@@ -39,7 +40,8 @@
 | [Insylum](https://open.spotify.com/track/644lYw5mjg4Ja1saKnpIXK) | [Oxbow](https://open.spotify.com/artist/4m47y2u5lJBKbakAv5YAh1) | [Serenade in Red](https://open.spotify.com/album/6KmMuPrapXIwvYobrSrlKh) | 6:10 | 2022-03-28 |  |
 | [Insylum](https://open.spotify.com/track/7zoYk1BYN3xhUv3LBa75Yr) | [Oxbow](https://open.spotify.com/artist/4m47y2u5lJBKbakAv5YAh1) | [Love That's Last: A Wholly Hypnographic and Disturbing Work Regarding Oxbow](https://open.spotify.com/album/4vNufyxmoWUWnbxcYehLix) | 6:12 | 2022-03-28 | 2022-11-13 |
 | [Isolation](https://open.spotify.com/track/5WQVHv1Vw8VRE904vPsLsL) | [Heavy Trash](https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr) | [Midnight Soul Serenade](https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS) | 3:24 | 2022-03-28 |  |
-| [Juice To Get Loose](https://open.spotify.com/track/22iRJyuVt7nm19ww7pRHKu) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [Rock Them Back to Hell](https://open.spotify.com/album/69r2ctILSEOWoln10Cv7pL) | 2:23 | 2022-03-28 |  |
+| [Juice To Get Loose](https://open.spotify.com/track/1untagwh1UZVlcY41ctNmU) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [Rock Them Back to Hell](https://open.spotify.com/album/1a8q2lXWcdJdo0v1JP8S2E) | 2:23 | 2022-03-28 |  |
+| [Juice To Get Loose](https://open.spotify.com/track/22iRJyuVt7nm19ww7pRHKu) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [Rock Them Back to Hell](https://open.spotify.com/album/69r2ctILSEOWoln10Cv7pL) | 2:23 | 2022-03-28 | 2023-04-29 |
 | [Just One More](https://open.spotify.com/track/4rkGGnL3BM7t6JEsb2cw5G) | [Gallon Drunk](https://open.spotify.com/artist/1Stl5FcIQtQcRv30wlnH2b) | [You, The Night… and The Music](https://open.spotify.com/album/1OpcN4cNMDl8O0y5tPftwP) | 3:55 | 2022-03-28 |  |
 | [Like That](https://open.spotify.com/track/0Wx5Gwenl28oBfkqN9kWNF) | [Mr\. Airplane Man](https://open.spotify.com/artist/6rDUd9tXAjOceaW2oc9ISP) | [Moanin'](https://open.spotify.com/album/3aIMscgCOctNaxzkCLHt2t) | 3:04 | 2022-03-28 | 2022-07-29 |
 | [Like That](https://open.spotify.com/track/0MqI4KwV5TMSO6rIhe2f3w) | [Mr\. Airplane Man](https://open.spotify.com/artist/6rDUd9tXAjOceaW2oc9ISP) | [Moanin'](https://open.spotify.com/album/0wEAMFrOaeqFuz3QcV4Xz7) | 3:08 | 2022-03-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtTK5Bo0anL.md) - [plain]
 
 > <a href="spotify:artist:144HzhpLjcR9k37w5Ico9B">Deborah De Luca</a>'s favorite tracks\. Updated regularly\. Curated by Deborah De Luca\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,593 likes - 55 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,696 likes - 55 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtTK5Bo0anL.md) - [plain]
 | 14 | [One Man Festival](https://open.spotify.com/track/6Wbm5TYek7SOQHxLAXnXks) | [Spartaque](https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB) | [One Man Festival](https://open.spotify.com/album/4D2HtwTrkP6wm48NLD47ka) | 3:58 |
 | 15 | [Dance Mashine](https://open.spotify.com/track/1wQ394XLJAicSO2LJZQ3hD) | [Alain Delay](https://open.spotify.com/artist/2ikcS80kf0mQQ4VKRyH7aQ), [Shadym](https://open.spotify.com/artist/2FAcowReyHGYZZ0MIkjjOA) | [Dance Machine](https://open.spotify.com/album/6DG96gkKEPmc2tAuloaTmh) | 6:25 |
 | 16 | [What Is Reality](https://open.spotify.com/track/6TIi8HpAB2kukQRVU53TJA) | [Mac N Dan](https://open.spotify.com/artist/5eHdxX1kJ07XQaZLFs8qHN) | [What Is Reality](https://open.spotify.com/album/6qQUu1vfhpAOwAy4dSobLS) | 6:54 |
-| 17 | [Reinassance](https://open.spotify.com/track/44qJiqEWwO3t7zG7JrvfvT) | [Crime](https://open.spotify.com/artist/0HdLOHFK7sxiPJCFxhgtUE) | [Mistery EP](https://open.spotify.com/album/4IwhCLjk9U9fwIZmhB8E8w) | 5:36 |
+| 17 | [Reinassance](https://open.spotify.com/track/44qJiqEWwO3t7zG7JrvfvT) | [CRIME](https://open.spotify.com/artist/0HdLOHFK7sxiPJCFxhgtUE) | [Mistery EP](https://open.spotify.com/album/4IwhCLjk9U9fwIZmhB8E8w) | 5:36 |
 | 18 | [Dominatic \- Nostromos Remix](https://open.spotify.com/track/0ZXm0Dfn6AAtycAZB9wIt1) | [Tom Wax](https://open.spotify.com/artist/1b0WGyps7QC5KqSSq57wXX), [Tabis & Dawn](https://open.spotify.com/artist/0vgSej2cAXX0YWWEtKXGmk), [Nostromos](https://open.spotify.com/artist/2ZqTIynjsje8Dux78PrTNC) | [Dominatic](https://open.spotify.com/album/3ULYpuHboP19yjfKL5FiJW) | 6:43 |
 | 19 | [Double Drop](https://open.spotify.com/track/7rw05kd7N0QFvaFsCKciHg) | [Sharpson](https://open.spotify.com/artist/7I6YO6H42IV9BOqqqwvlpM) | [Double Drop](https://open.spotify.com/album/7MFYOlyenksr5vKGmfhlFR) | 7:47 |
 | 20 | [Endoloris](https://open.spotify.com/track/42VtZr6X9bp0EXEqPC7iXd) | [H! DUDE](https://open.spotify.com/artist/7GxWB7GAZcYoGWOGgEpDxi) | [Endoloris](https://open.spotify.com/album/6tdHuJRmlLnJd7cRI2iz8U) | 6:25 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtTK5Bo0anL.md) - [plain]
 | 54 | [What I Can't Get](https://open.spotify.com/track/7qZn6L03Br1pwag6Jj4NMV) | [Kaori](https://open.spotify.com/artist/5ALdinS18piQUMxF2M3d63) | [What I Can't Get](https://open.spotify.com/album/17bM89QgFVBme1HjISYUtr) | 7:04 |
 | 55 | [Doesn't Matter \- Superstrobe Remix](https://open.spotify.com/track/21wa2RNbfqJxy6zNzvGIAE) | [F\-Rontal](https://open.spotify.com/artist/7xcEuNcEPzlYUuAKyqfJMS), [Superstrobe](https://open.spotify.com/artist/7rbWK7Usi7mOfrigaWHD6d) | [Doesn't Matter](https://open.spotify.com/album/0JFGHdiqichONYBqSkbrAv) | 5:45 |
 
-Snapshot ID: `MCxlNzU5YzE1MjkxNDIzZGI4MTBmNjIxOGU3MDA0MGZiNzc1ZGFhNjJl`
+Snapshot ID: `MCw0MTRkYzg4MzFlNTVlZDJkMDFjMDdhMmVkYzJjY2M0ODU5NmU3NTFi`

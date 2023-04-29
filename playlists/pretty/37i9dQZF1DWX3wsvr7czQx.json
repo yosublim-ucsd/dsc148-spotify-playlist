@@ -1,13 +1,29 @@
 {
   "description": "Icons only. Cover: Michael Bolton",
-  "num_followers": 9282,
+  "num_followers": 9294,
   "original_name": "Classic Artists New Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTM3NGYxYzViNTU2OGRjZWY4ZjA5ODhkM2VmZjNmOWRlNWY3MDlh",
+  "snapshot_id": "MCxmZGZhNWYyMmNhOTRlNTYxZTlkNTMzMDBkYTUxYjQ4NGRlZjdhMmI4",
   "tracks": [
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "What You Heard",
+        "url": "https://open.spotify.com/album/5egLTfkAIvzX8y5FWFerxV"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 224463,
+      "name": "What You Heard",
+      "url": "https://open.spotify.com/track/4y4C6YlIAf9Wjx65uU7nOg"
+    },
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
@@ -639,26 +655,6 @@
       "duration_ms": 220310,
       "name": "Ride - Edit",
       "url": "https://open.spotify.com/track/32MB6prxawrLGkw6knhJBb"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Anything Can Happen (feat. Leon Russell)",
-        "url": "https://open.spotify.com/album/2ArblNA5QAgMt05M22CG78"
-      },
-      "artists": [
-        {
-          "name": "Bruce Hornsby",
-          "url": "https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo"
-        },
-        {
-          "name": "Leon Russell",
-          "url": "https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Anything Can Happen (feat. Leon Russell)",
-      "url": "https://open.spotify.com/track/6XFMd8YMUYptBu7A4FBPJj"
     },
     {
       "added_at": "2021-10-22 04:02:00",

@@ -906,7 +906,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 301303,
       "name": "Change My Mind",
       "url": "https://open.spotify.com/track/0H2MZlPGsXeQuNzLY6dL1P"
@@ -1821,6 +1821,24 @@
     },
     {
       "album": {
+        "name": "Mama Rosa",
+        "url": "https://open.spotify.com/album/68lPlEz1PvticlwgS0aznV"
+      },
+      "artists": [
+        {
+          "name": "Brian Blade",
+          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326293,
+      "name": "Her Song",
+      "url": "https://open.spotify.com/track/0zwqiSwBs0pzOsRrwjQedc"
+    },
+    {
+      "album": {
         "name": "Neon Sounds",
         "url": "https://open.spotify.com/album/7L8voRP33mE9BUIScs5SIL"
       },
@@ -2251,6 +2269,24 @@
     },
     {
       "album": {
+        "name": "Established 1972",
+        "url": "https://open.spotify.com/album/3a0ON7ZtTdFuhfsI5arDVm"
+      },
+      "artists": [
+        {
+          "name": "The Nighthawks",
+          "url": "https://open.spotify.com/artist/3Q2L3fR3hmzSTxE5Sf9Y60"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251377,
+      "name": "I'll Come Running Back To You",
+      "url": "https://open.spotify.com/track/395Y07iLJOr4MryeRsK41z"
+    },
+    {
+      "album": {
         "name": "I'll Come Running Back To You",
         "url": "https://open.spotify.com/album/5FwYTrkDxnTwmKIZ54CGzh"
       },
@@ -2262,7 +2298,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 251377,
       "name": "I'll Come Running Back To You",
       "url": "https://open.spotify.com/track/4rDmjHyy754Js2SaojUVjZ"

@@ -4,7 +4,7 @@
 
 > The best new indie music from South Africa and beyond\. Cover: <https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH?si=KDRnLQ71TTKPrX5qGUd50Q">Nakhane</a>
 
-281 songs - 16 hr 19 min
+282 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Daddy's Gone](https://open.spotify.com/track/07NG6cCU9QDIzcBaLEClEu) | [Bye Beneco](https://open.spotify.com/artist/3kMHWNlRYrb3c6NpmP8EQh) | [Daddy's Gone](https://open.spotify.com/album/2NgQzQCj8PbSuuDPtOrFaa) | 3:46 | 2022-09-22 | 2022-10-07 |
 | [daylight](https://open.spotify.com/track/034NOPWJhN4ZoTLO8X8eBK) | [Lo Fear](https://open.spotify.com/artist/4vtJFJ4slbrlvUGM4ofkTX), [Amor Amor](https://open.spotify.com/artist/7FB4gfPdf6h403oi9QiPVm) | [daylight](https://open.spotify.com/album/4zQLgpO7nItHn5NcHgO0QB) | 2:59 | 2023-01-06 | 2023-01-13 |
 | [Days On Mountains](https://open.spotify.com/track/4rgNZsyuVYKZfFBRjgt39s) | [Qobi](https://open.spotify.com/artist/5WfAvkaliCjjzV7MQX6vDq) | [Days On Mountains](https://open.spotify.com/album/6AbCmVvwv6BQFOzfzm4xmT) | 2:26 | 2022-11-17 | 2023-01-13 |
-| [Desert in your eyes](https://open.spotify.com/track/6RYcaBTvCwmQLiruPbOHbL) | [Monsieur Minimal](https://open.spotify.com/artist/530wyaQMvivGiC0P00MUml) | [Desert in your eyes](https://open.spotify.com/album/1Vmb5FuW6WzrdWQrKpMQiw) | 4:26 | 2023-03-02 |  |
+| [Desert in your eyes](https://open.spotify.com/track/6RYcaBTvCwmQLiruPbOHbL) | [Monsieur Minimal](https://open.spotify.com/artist/530wyaQMvivGiC0P00MUml) | [Desert in your eyes](https://open.spotify.com/album/1Vmb5FuW6WzrdWQrKpMQiw) | 4:26 | 2023-03-02 | 2023-04-29 |
 | [Diamonds On The Sea](https://open.spotify.com/track/6Ubq2WEsUWAGx9CPGnI24d) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Diamonds On The Sea](https://open.spotify.com/album/37xjNVuUVqS7T2aXTEc4NE) | 3:06 | 2023-04-27 |  |
 | [Did Enough](https://open.spotify.com/track/2LW0utR6fTwfjPhnz1XbOW) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn), [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [Did Enough](https://open.spotify.com/album/2UoPpnuwA2vT59iIau6NCw) | 3:23 | 2022-08-18 | 2022-11-18 |
 | [Director in the Dark](https://open.spotify.com/track/55yCGBhMJPzyCxWHwJJcWd) | [Luka](https://open.spotify.com/artist/3pBGsDYnC5jRuBro2o8wvv) | [Director in the Dark](https://open.spotify.com/album/7xGrjVZEtkqUNEg0uZyknt) | 3:35 | 2023-04-06 |  |
@@ -173,6 +173,7 @@
 | [Nice](https://open.spotify.com/track/0wbvC5m9im0mBkUtoVC0BA) | [Luh'ra](https://open.spotify.com/artist/0iXElExInTSMZ3DRWE7lpD) | [Nice](https://open.spotify.com/album/7m5ZWrFd3dbAW6oOrkxdm6) | 5:11 | 2022-07-21 | 2022-11-18 |
 | [Nice Guy](https://open.spotify.com/track/1D84s1Wi9wDnyiLTrn174x) | [Mila Smith](https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab) | [Nice Guy](https://open.spotify.com/album/671RmYhAsiLtuug0Tykqfc) | 2:24 | 2022-12-15 | 2023-01-13 |
 | [Nightlife](https://open.spotify.com/track/2Tl6JJicXPbQn0pLcysIhC) | [Reino Brink](https://open.spotify.com/artist/02IxvUvOYgFtnt0SFWi3aq) | [Break and Bend](https://open.spotify.com/album/7HbwlUsjRYdzOPwGtpOC7q) | 3:30 | 2023-01-19 | 2023-03-10 |
+| [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 | 2023-04-28 |  |
 | [No Platonic Male Friends](https://open.spotify.com/track/0HtIsMcal2Ma8JOgL1b7yB) | [Alex Solomon](https://open.spotify.com/artist/0T4llo79dwDWJrgR7FP0sU) | [No Platonic Male Friends](https://open.spotify.com/album/0bqG2FO5rOEfGxdrZJkaeN) | 2:40 | 2022-12-15 | 2023-01-13 |
 | [noba bangathini](https://open.spotify.com/track/4qfoM0662Amfu0vUBhxzQP) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [noba bangathini](https://open.spotify.com/album/6bAahiYLIo1WGuiSip2EU0) | 4:50 | 2023-01-27 | 2023-04-22 |
 | [Norton Howard](https://open.spotify.com/track/4T8QaK0d7ws3Fp5OiPLCGD) | [Hiding Bigfoot](https://open.spotify.com/artist/1e0Tfbil1OBGrWWc0bapxF) | [Norton Howard](https://open.spotify.com/album/2JuZ9oLEWps7Vn74Qy9sRi) | 2:49 | 2022-11-10 | 2023-02-03 |

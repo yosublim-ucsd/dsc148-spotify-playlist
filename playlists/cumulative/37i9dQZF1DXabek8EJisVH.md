@@ -4,7 +4,7 @@
 
 > Soothing ambient and Hang to gently focus the mind.
 
-99 songs - 6 hr 37 min
+101 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Be Holy](https://open.spotify.com/track/2Kh81LoOytzS7KdApOoeHb) | [Drumkoon](https://open.spotify.com/artist/6X9HMvCAb5RiZhcwekJLNY) | [Handpan Greatest Hits Vol 2](https://open.spotify.com/album/45582ORVhMsABgWbXCHA46) | 2:15 | 2022-03-03 | 2022-07-29 |
 | [Bem\-Te\-Vi](https://open.spotify.com/track/00za85BhypeBW1cXkXzZDN) | [Luccas Martins](https://open.spotify.com/artist/3dIbeBrKevt2r1OARXGVXV) | [Voar Doce Lar \(Original Handpan Soundtrack For Contemporary Art Exhibition\)](https://open.spotify.com/album/3H4C5wfdqlFtwDPupdarNG) | 1:53 | 2022-09-08 |  |
 | [Bhakti Gita](https://open.spotify.com/track/4IT2BC9XfBic5lIhIA828Z) | [Masood Ali Khan](https://open.spotify.com/artist/30RWmDZkj7S1VSDzmPY6BY) | [The Yoga Sessions](https://open.spotify.com/album/7Lhowb40KkVa2g5TK3WNxG) | 8:17 | 2022-03-03 |  |
+| [Blissful State \- Ambient Version](https://open.spotify.com/track/07a1HrSL27oK4WOqD44sbK) | [Spiritual Frequencies](https://open.spotify.com/artist/5gUJK8QwnYlsLRnxepd7A5) | [Breath of Life \(Ambient Version\)](https://open.spotify.com/album/4tG5810LflwIHC76A1xo8r) | 2:17 | 2023-04-28 |  |
 | [Bryophyta](https://open.spotify.com/track/0RsowQU2tkZoqlMK5fAU3Z) | [Ranjan E](https://open.spotify.com/artist/6cREMEcDlVDzlRcvGzHrQq) | [Tranquility](https://open.spotify.com/album/3u2rJW0pTLPOvX9GgwjaOL) | 3:30 | 2022-05-25 |  |
 | [C\# Pygmy](https://open.spotify.com/track/6Hxgat5RmLkRvctiIFDr0G) | [Yatao](https://open.spotify.com/artist/4BYqP4YTwWGpi4q94QkW2x), [Malte Marten](https://open.spotify.com/artist/6gmfGQKmOr9z7GTYK7ecEj) | [The Journey](https://open.spotify.com/album/3jpONAMVwLuzRR2A4DOK75) | 8:36 | 2022-09-08 |  |
 | [Calm Upon You \(Hang Solo\)](https://open.spotify.com/track/513r5uBhTWKwmyFyHLH812) | [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Calm Upon You](https://open.spotify.com/album/3f3ArCl4eIdzCSsyvyBlep) | 5:01 | 2022-03-03 |  |
@@ -79,6 +80,7 @@
 | [Peaceful Dreams](https://open.spotify.com/track/5ThS3qUQw06ccseUiritbO) | [Hang Drum Pro](https://open.spotify.com/artist/6rWWiX7YUBhzjSN8HPpqon) | [\# Hang Drum: Relaxing Music with Nature Sounds for Meditation & Relaxation](https://open.spotify.com/album/7tsmkqxxW5bKf2Lt65DK6W) | 3:15 | 2022-03-03 |  |
 | [Queen West Blues](https://open.spotify.com/track/18Qmzx54JdUyR5jVq4HiUq) | [Vacant Cities](https://open.spotify.com/artist/4ln07OZWdNaIm0qb1fVOQ7) | [Queen West Blues](https://open.spotify.com/album/3AH157ouZcjjDiXQZO3BeW) | 2:21 | 2022-03-25 |  |
 | [Relaxing Dream](https://open.spotify.com/track/4oCJHP1NDd745pMlbNOEn2) | [Handpan Mystic Flow](https://open.spotify.com/artist/4trNml03djbsrLqQWCbMnF) | [Inner Journeys \- Solo Handpan 2019](https://open.spotify.com/album/6Jyhhp8i7NAvcnAtER0Qwg) | 6:43 | 2022-03-03 |  |
+| [Restful Mind](https://open.spotify.com/track/4Dpsk9JfsleuTxgkzXMMmV) | [Spiritual Frequencies](https://open.spotify.com/artist/5gUJK8QwnYlsLRnxepd7A5) | [Breath of Life](https://open.spotify.com/album/5m5QieU8LlAgHmJH88z4iE) | 2:36 | 2023-04-28 |  |
 | [Returning It All](https://open.spotify.com/track/3vYXmN6uvbcVXwWdxG145s) | [Corrid](https://open.spotify.com/artist/14g5wTyk0UJsn5aB0zT8Gy) | [Returning It All](https://open.spotify.com/album/2oryCbHtb3HeSPbzg0G9D7) | 2:28 | 2022-04-21 |  |
 | [Rising From The Ashes](https://open.spotify.com/track/7anrnbfm5R2A728nx8mICm) | [Yatao](https://open.spotify.com/artist/4BYqP4YTwWGpi4q94QkW2x), [Alexander Mercks](https://open.spotify.com/artist/1GykWQWG7xcdwxdLiX40jL) | [Osmosis](https://open.spotify.com/album/5EekI9jcgWfjPITMAHWEnh) | 9:03 | 2022-08-25 |  |
 | [River at Dawn](https://open.spotify.com/track/2OEUrK1H4m4e9R0eqsDESE) | [Kate Stone](https://open.spotify.com/artist/1uuTWnnSPHQMX8ZHi1XTN9) | [Urban](https://open.spotify.com/album/1GzQVBKiSGTmgRRp07Kcy1) | 3:06 | 2022-03-03 |  |
@@ -91,7 +93,7 @@
 | [Spa Relaxation](https://open.spotify.com/track/61XlrBX0wIJNoTAzlNsCZx) | [Hang Drum Music](https://open.spotify.com/artist/6EYGpvp2j9oenkXCw3oJJO), [The Hang Drum Project](https://open.spotify.com/artist/0O1fF1CEBxcnf0vo9bVaGq), [Spa](https://open.spotify.com/artist/4LUYOHM73gVlfY5TzRbIgX) | [Hang Drum Relaxation Music For Spa, Massage, Sleep, Yoga, Meditation and Spa Music](https://open.spotify.com/album/2RWIlV0VSshZmDx7uozJzg) | 2:28 | 2022-03-03 |  |
 | [Spiritual Journey](https://open.spotify.com/track/1sBIlq2mIQCLVTiyp8RHIs) | [Hang Drum Pro](https://open.spotify.com/artist/6rWWiX7YUBhzjSN8HPpqon) | [\# Hang Drum: Relaxing Music with Nature Sounds for Meditation & Relaxation](https://open.spotify.com/album/7tsmkqxxW5bKf2Lt65DK6W) | 3:24 | 2022-03-03 |  |
 | [Stillness is Waiting](https://open.spotify.com/track/4lGwOa5uQ6NFjm1wTZODUo) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [Handpan Reflections](https://open.spotify.com/album/449GydnmUhqj6rKP6P8ufT) | 2:38 | 2022-03-03 |  |
-| [Stress Relief](https://open.spotify.com/track/67QljIQJUbSx3KOJeADxex) | [Spiritual Meditation Vibes](https://open.spotify.com/artist/1ZxiigDh7uW74TuFXlb5WP) | [Hang Drum Music \- Relaxing Ambient for Meditation Yoga and Relax](https://open.spotify.com/album/7pptSJSIxXsiAWFVeOl6kh) | 3:23 | 2022-03-03 |  |
+| [Stress Relief](https://open.spotify.com/track/67QljIQJUbSx3KOJeADxex) | [Spiritual Meditation Vibes](https://open.spotify.com/artist/1ZxiigDh7uW74TuFXlb5WP) | [Hang Drum Music \- Relaxing Ambient for Meditation Yoga and Relax](https://open.spotify.com/album/7pptSJSIxXsiAWFVeOl6kh) | 3:23 | 2022-03-03 | 2023-04-29 |
 | [Strings of Light](https://open.spotify.com/track/7pLqzJr6EA7gFm6hAeYxD9) | [Surrounding Life](https://open.spotify.com/artist/7x0g29FUOlzLsQrKB0NioF) | [Rivers of Relief](https://open.spotify.com/album/08i8VU7ZL1rBE9dNhf6ldr) | 4:55 | 2022-03-03 |  |
 | [Summer Rain & Hang Drum Music](https://open.spotify.com/track/4gEZ0XsMdFds3w1ApP4nOu) | [Hang Drum Pro](https://open.spotify.com/artist/6rWWiX7YUBhzjSN8HPpqon) | [\# Hang Drum: Relaxing Music with Nature Sounds for Meditation & Relaxation](https://open.spotify.com/album/7tsmkqxxW5bKf2Lt65DK6W) | 3:40 | 2022-03-03 |  |
 | [Sunshine](https://open.spotify.com/track/3Mw806oScJ2C07uLn73vwK) | [Hangimba Boy](https://open.spotify.com/artist/1Fv4aj9ojTsR3lz2RwYEKM) | [Everything But](https://open.spotify.com/album/4buD9eE8dpFa3aIy9fHgcM) | 3:15 | 2022-11-22 |  |

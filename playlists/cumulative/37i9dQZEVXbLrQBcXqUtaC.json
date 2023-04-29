@@ -394,7 +394,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 169714,
       "name": "Akhsamna Tandas - Remix",
       "url": "https://open.spotify.com/track/7mE7qSqqq7Bv5lm7r7ObMf"
@@ -5934,7 +5934,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 123890,
       "name": "Just Wanna Rock",
       "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
@@ -10007,6 +10007,24 @@
     },
     {
       "album": {
+        "name": "Qalt Habiby",
+        "url": "https://open.spotify.com/album/1DNvSjT7MA0CB9o0EwE1sG"
+      },
+      "artists": [
+        {
+          "name": "Ayman Qusailah",
+          "url": "https://open.spotify.com/artist/5rhRBRSACiwECuHLhk5b8D"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245304,
+      "name": "Qalt Habiby",
+      "url": "https://open.spotify.com/track/6tz18XXepNwclwplcUpGO9"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -13030,7 +13048,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 281380,
       "name": "TV",
       "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
@@ -13084,7 +13102,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
@@ -15178,6 +15196,24 @@
       "duration_ms": 283211,
       "name": "\u0639\u0631\u0627\u0642\u064a \u062d\u0632\u064a\u0646 - \u0631\u0648\u062d \u0627\u0644\u0644\u0647 \u0644\u0627\u064a\u0631\u062f\u0643 - \u0642\u0627\u0644\u0648\u0644\u064a \u064a\u062d\u0628 \u063a\u064a\u0631\u0643",
       "url": "https://open.spotify.com/track/1iEimCc0ZeeJcsRzTMMFM1"
+    },
+    {
+      "album": {
+        "name": "\u0639\u0631\u0627\u0642\u064a \u062d\u0632\u064a\u0646 | \u0634\u0644\u0648\u0646 \u062a\u0646\u0633\u0649- \u0627\u062d\u0636\u0627\u0646\u0643 \u062a\u062f\u0641\u064a\u0646\u064a | \u0628\u0637\u064a\u0621 \u0645\u0637\u0644\u0648\u0628 2023",
+        "url": "https://open.spotify.com/album/2TkzSLHSS3xtfCUp66H8MX"
+      },
+      "artists": [
+        {
+          "name": "diwowmusic",
+          "url": "https://open.spotify.com/artist/7u0I9hN2cJrfN6SFWm9jSp"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265009,
+      "name": "\u0639\u0631\u0627\u0642\u064a \u062d\u0632\u064a\u0646 | \u0634\u0644\u0648\u0646 \u062a\u0646\u0633\u0649- \u0627\u062d\u0636\u0627\u0646\u0643 \u062a\u062f\u0641\u064a\u0646\u064a | \u0628\u0637\u064a\u0621 \u0645\u0637\u0644\u0648\u0628 2023",
+      "url": "https://open.spotify.com/track/38SbdnoyKUQrjJqSWSECWw"
     },
     {
       "album": {

@@ -1571,6 +1571,24 @@
     },
     {
       "album": {
+        "name": "For A While",
+        "url": "https://open.spotify.com/album/7b9wbQZHYq0R0LU7R7Q9NV"
+      },
+      "artists": [
+        {
+          "name": "Astrid Whitlock",
+          "url": "https://open.spotify.com/artist/2CJRRtlFgGB0RXblglfayQ"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192086,
+      "name": "For A While",
+      "url": "https://open.spotify.com/track/5Tjrn34j1dJWe3LUpul75B"
+    },
+    {
+      "album": {
         "name": "For now",
         "url": "https://open.spotify.com/album/3ewH2K6sin3yWusThvhdFV"
       },
@@ -3422,6 +3440,24 @@
       "duration_ms": 156057,
       "name": "Quartz",
       "url": "https://open.spotify.com/track/6fEgQLmEhvE5Y04aldWGyd"
+    },
+    {
+      "album": {
+        "name": "Quietism",
+        "url": "https://open.spotify.com/album/74n9JKT7nUeShC9rJWKaoM"
+      },
+      "artists": [
+        {
+          "name": "Rebecka Aether",
+          "url": "https://open.spotify.com/artist/06s7ddCmb1OcHlZzu9DzIr"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163286,
+      "name": "Quietism",
+      "url": "https://open.spotify.com/track/2elxb3dMZkZPtS6jqE6nRP"
     },
     {
       "album": {

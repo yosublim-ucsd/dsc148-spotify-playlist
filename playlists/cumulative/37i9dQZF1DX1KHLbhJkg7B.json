@@ -5573,7 +5573,7 @@
     },
     {
       "album": {
-        "name": "You Oughta Know (feat. Ingrid Andress, Madeline Edwards, Morgan Wade) [Spotify Singles]",
+        "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) [Spotify Singles]",
         "url": "https://open.spotify.com/album/6IwwVGLtiflk9IkTcRwE6n"
       },
       "artists": [
@@ -5592,13 +5592,17 @@
         {
           "name": "Morgan Wade",
           "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 256217,
-      "name": "You Oughta Know (feat. Ingrid Andress, Madeline Edwards, Morgan Wade) - Spotify Singles",
+      "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) - Spotify Singles",
       "url": "https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv"
     },
     {

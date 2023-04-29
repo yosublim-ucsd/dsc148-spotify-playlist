@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 > RADAR is a Spotify program to promote exciting artists! Benelux RADAR artists: Zoë Tauran \(cover\), Haunted Youth, DIKKE, Shermanology, MEAU, De Staat & Antoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,094 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,096 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 | 39 | [The Things That You Are Not \(Part 1\)](https://open.spotify.com/track/2Lo6dinJC6pLfMRK2H0ehd) | [Thomas Porter](https://open.spotify.com/artist/1HWwfeXkUm1jrOHiI61Q6C) | [Manic Pixie Dream Girl](https://open.spotify.com/album/5coRlQYIHdjSU37K7cRC3n) | 2:52 |
 | 40 | [45 Fahrenheit Girl \- Acoustic](https://open.spotify.com/track/4LNvWLzX0GFVaqNJP1cwsn) | [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Sycamore Redux](https://open.spotify.com/album/6ZMmz3oxPCor3rI0Nrx5re) | 2:23 |
 
-Snapshot ID: `MCwwMGI3NmVmZTcxMzQ2ZjYyN2E2Nzk4MDUwOWExZDVkM2YxMzhmNGE2`
+Snapshot ID: `MCwyZDUyOGJlNDk0ZDNlYzU2MTIxY2YwZDEzMDRkYjQwMDgzOTExOWUw`

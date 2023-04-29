@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: ODUMODUBLVCK\. Artwork by Isu Kim\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,154,160 likes - 140 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,154,136 likes - 140 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 49 | [I Deserve](https://open.spotify.com/track/6pQEztfgRIKQGSPrP47xfI) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [I Deserve](https://open.spotify.com/album/0rBNiJ8KjGnpEMJHx9ErUW) | 2:22 |
 | 50 | [Beaming](https://open.spotify.com/track/5kof0wKoIbohhml6jDy4MJ) | [FRIDAY\*](https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk) | [Beaming](https://open.spotify.com/album/4wvHsuE6SwFGz6cTWeo972) | 3:43 |
 | 51 | [Viajes](https://open.spotify.com/track/6XaQLfoH2ux5QUChQyYZrh) | [Sweet Honesty](https://open.spotify.com/artist/0u8uFvusH51hxqYVnRT3gl) | [Viajes](https://open.spotify.com/album/427VteQWWdzaPn0MvBT4kc) | 2:24 |
-| 52 | [Letters](https://open.spotify.com/track/3KQcNnIIXCN4V8uvDs1dd5) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Mind Palace Music](https://open.spotify.com/album/0woHX3PSXbPo52iqriVSFa) | 2:26 |
+| 52 | [Letters](https://open.spotify.com/track/0B6xHxWg4g7C9174Cx1d0m) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Mind Palace Music](https://open.spotify.com/album/7h3MMJMKzY03w8VVYgrYWr) | 2:26 |
 | 53 | [A Little Shy](https://open.spotify.com/track/7DNLNZ7ygyHB6dPIiEdyyx) | [Marie Noreger](https://open.spotify.com/artist/5xyRNaMYYZySaNqjiFyR47), [Nedja](https://open.spotify.com/artist/0wEePcQsNMthoKEoNSMBIN) | [A Little Shy](https://open.spotify.com/album/2dNork8HpZUKdssmrjyQ5p) | 3:04 |
 | 54 | [CARMEN](https://open.spotify.com/track/3NlJsIgHPFhEPUoTCmXV9A) | [Airmow](https://open.spotify.com/artist/6SfPAcR67ssVyMQWoizN7Q), [Reiyo The Giant](https://open.spotify.com/artist/7nV15MrvqAi8kPaDZrzB0n) | [CARMEN](https://open.spotify.com/album/6uZb9mPLAnJIhWHxzTdbPz) | 3:27 |
 | 55 | [Almost Famous](https://open.spotify.com/track/1YFJ3vuo4iI2Mpqc8575gU) | [Good Future](https://open.spotify.com/artist/6Ht13tuJr6I8afHrtA4RD3) | [Almost Famous](https://open.spotify.com/album/6e4qGBk5Qquj7rttGTrCn8) | 3:12 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 139 | [Sunlight](https://open.spotify.com/track/5dUw33Ixf3sX87VqrPi2dK) | [McCall](https://open.spotify.com/artist/229NvsczXKwdH0DkPg4uwT) | [Sunlight](https://open.spotify.com/album/3xLqAl2ZClpvrszEepB4dI) | 2:24 |
 | 140 | [Man Eater](https://open.spotify.com/track/4wPOB6Knwc9fYJFPXkf0Zh) | [Paluma](https://open.spotify.com/artist/7vIAu0l7icbujUGaOK8HT4), [Tyson O'brien](https://open.spotify.com/artist/0ipSB6Z9hk2SLLh07tLYNL) | [Man Eater](https://open.spotify.com/album/20TpoQ1kam53Adupaagwgk) | 3:03 |
 
-Snapshot ID: `MCw3OGY5NDdlNGE2YjVjNGY3MGQxZmZkOTNkZjFmMmMzYzczNDA1MWEx`
+Snapshot ID: `MCwxNTE2NzJlMjJkYzEyYjg5NWVjNmI2ZmExODMzMmUwZGU2YTBhZmNk`

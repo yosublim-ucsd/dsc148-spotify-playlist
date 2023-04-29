@@ -2145,6 +2145,24 @@
     },
     {
       "album": {
+        "name": "The Fate Of The One Not Chosen",
+        "url": "https://open.spotify.com/album/1JGW6r7XiIfGurgJQxNNUo"
+      },
+      "artists": [
+        {
+          "name": "mrld",
+          "url": "https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215675,
+      "name": "The Fate Of The One Not Chosen",
+      "url": "https://open.spotify.com/track/3vuMrOt51GvnIuI61HwSvw"
+    },
+    {
+      "album": {
         "name": "The Light",
         "url": "https://open.spotify.com/album/6Q8UbSdYcoTdMCayeAWMqY"
       },

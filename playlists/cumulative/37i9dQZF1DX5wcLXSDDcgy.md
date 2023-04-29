@@ -2,7 +2,7 @@
 
 ### [This Is Agust D](https://open.spotify.com/playlist/37i9dQZF1DX5wcLXSDDcgy)
 
-> This Is Agust D\. The essential tracks, all in one playlist.
+> This Is Agust D\. Check his documentary of the album <a href="https://disneyplus.com">SUGA: Road to D\-DAY.</a> The essential tracks, all in one playlist.
 
 31 songs - 1 hr 36 min
 

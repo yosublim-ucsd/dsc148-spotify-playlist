@@ -1,13 +1,29 @@
 {
   "description": "Ease into the day",
-  "num_followers": 502026,
+  "num_followers": 502023,
   "original_name": "Mellow Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzhkNzYyYjc2YzAyMWEwN2MwNDJmMTEwZmVmMjY1ZWIyMjNmZTg3",
+  "snapshot_id": "MCwyNjA5ZWRjODYxMGJkNDlkMDczNDdhMmVjMDE2ZDM0ZWNjMGYyNGNk",
   "tracks": [
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Answers",
+        "url": "https://open.spotify.com/album/6iaeBc7rxIgd9ow4BPieUd"
+      },
+      "artists": [
+        {
+          "name": "ALYSS",
+          "url": "https://open.spotify.com/artist/6h6jp2XsW3RvXdQs7Pfu4m"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "The Talking Palm Tree - Acoustic - Bonus Track",
+      "url": "https://open.spotify.com/track/3ilIAhXsas81LwPnDB0zMS"
+    },
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
@@ -1575,22 +1591,6 @@
       "duration_ms": 203369,
       "name": "Polite",
       "url": "https://open.spotify.com/track/3i4u18kxSsy56LUYqlwCzJ"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/4mIbuUoAWuVUJQHwdVwZxp"
-      },
-      "artists": [
-        {
-          "name": "Cobi",
-          "url": "https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN"
-        }
-      ],
-      "duration_ms": 175155,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/30YAMud3jbVG4tWkwmuH3E"
     },
     {
       "added_at": "2022-08-05 04:02:00",

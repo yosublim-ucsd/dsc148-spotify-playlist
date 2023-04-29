@@ -4,7 +4,7 @@
 
 > Classic pop, rock and folk for a pleasant drive.
 
-83 songs - 5 hr 32 min
+84 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Romeo's Tune](https://open.spotify.com/track/4kPLmTsTwA6wvtcbb0LtbM) | [Steve Forbert](https://open.spotify.com/artist/3oAbjWINfcTSAuVUlXXMty) | [Jack Rabbit Slim](https://open.spotify.com/album/1PxGKfviBr0ReG7ghmysEm) | 3:32 | 2019-06-11 |  |
 | [Romeo's Tune](https://open.spotify.com/track/3WkS8UHF7rzEzJjxPKtX2v) | [Steve Forbert](https://open.spotify.com/artist/3oAbjWINfcTSAuVUlXXMty) | [The Best of Steve Forbert: What Kinda Guy?](https://open.spotify.com/album/3bCJi7nXVOUk909cfwjjfr) | 3:32 | 2019-06-11 | 2022-11-13 |
 | [Sad Eyes \(Sunset Sound Mix\)](https://open.spotify.com/track/0wu0JqmyINzePX13jL6k5f) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [It's a Super '70s Life! Hits You Loved](https://open.spotify.com/album/1iJsLPx1HE93zq0tW3Vky7) | 3:34 | 2019-06-11 | 2022-11-13 |
-| [Sad Eyes \- Sunset Sound Mix](https://open.spotify.com/track/3puLYSIfEOLnaCrepB4RIg) | [Peter McAllen](https://open.spotify.com/artist/0m2kBNbnPKwAyzRTJHuAVj) | [Sad Eyes \(Sunset Sound Mix\)](https://open.spotify.com/album/2Glz1NdgUBIyMWVJlmrxCi) | 3:34 | 2019-06-11 |  |
+| [Sad Eyes \- Sunset Sound Mix](https://open.spotify.com/track/00660AuYKix2Bt8rOnS9LH) | [Peter McAllen](https://open.spotify.com/artist/0m2kBNbnPKwAyzRTJHuAVj) | [Sad Eyes \(Sunset Sound Mix\)](https://open.spotify.com/album/16oIrUmBt2nY9eRC1KKnCF) | 3:34 | 2019-06-11 |  |
+| [Sad Eyes \- Sunset Sound Mix](https://open.spotify.com/track/3puLYSIfEOLnaCrepB4RIg) | [Peter McAllen](https://open.spotify.com/artist/0m2kBNbnPKwAyzRTJHuAVj) | [Sad Eyes \(Sunset Sound Mix\)](https://open.spotify.com/album/2Glz1NdgUBIyMWVJlmrxCi) | 3:34 | 2019-06-11 | 2023-04-29 |
 | [San Francisco \(Be Sure to Wear Some Flowers In Your Hair\)](https://open.spotify.com/track/77qBwefBIdzymXNCuAI8YX) | [Scott McKenzie](https://open.spotify.com/artist/7d7AZ3CQC457bFhK0wHpSO) | [The Voice of Scott McKenzie \(Expanded Edition\)](https://open.spotify.com/album/58TeEraOu8GyAFSUwF4fQZ) | 2:58 | 2019-06-11 |  |
 | [Say You, Say Me](https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Dancing On The Ceiling \(Expanded Edition\)](https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf) | 4:01 | 2019-06-11 |  |
 | [Solsbury Hill](https://open.spotify.com/track/1CM1wOqD2AIjt2MWd31LV2) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Peter Gabriel 1: Car \(Remastered Version\)](https://open.spotify.com/album/4jd6oC0It60c1J3GpXCv6M) | 4:21 | 2019-06-11 |  |
@@ -78,7 +79,7 @@
 | [Summer Breeze](https://open.spotify.com/track/3B0ms7Xlxl16tRztKHpcu9) | [Seals and Crofts](https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj) | [Summer Breeze](https://open.spotify.com/album/16lsqxMjRUFOBo2jocsy1C) | 3:25 | 2019-06-11 |  |
 | [Take It to the Limit \- 2013 Remaster](https://open.spotify.com/track/2cWHN0WK52RGAWHgaDamUA) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 4:47 | 2019-06-11 |  |
 | [The Heart Of The Matter](https://open.spotify.com/track/7jZ4UZAmg006Qx3rVuF7JI) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The End Of The Innocence](https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl) | 5:22 | 2019-06-11 |  |
-| [The Weight \- Remastered 2000](https://open.spotify.com/track/68QVDfkzKCNiWNyZo3rUKz) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Greatest Hits](https://open.spotify.com/album/5qSfqoD1O3P45CYysXlpOo) | 4:35 | 2019-06-11 |  |
+| [The Weight \- Remastered 2000](https://open.spotify.com/track/68QVDfkzKCNiWNyZo3rUKz) | [The Band](https://open.spotify.com/artist/5T2TDZjKDtNNziMnRWsBwV) | [Greatest Hits](https://open.spotify.com/album/5qSfqoD1O3P45CYysXlpOo) | 4:35 | 2019-06-11 |  |
 | [Tomorrow Is A Long Time](https://open.spotify.com/track/64Tb4aeVHFdjxpOp2X0uHn) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Every Picture Tells A Story](https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh) | 3:48 | 2019-06-11 |  |
 | [Two Lives \- 2008 Remaster](https://open.spotify.com/track/5WDhUWoBMq0f03Nxl1yYpt) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Sweet Forgiveness](https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B) | 3:49 | 2019-06-11 |  |
 | [Wasted Time \- 2013 Remaster](https://open.spotify.com/track/5XiGGv8Ut2jlvL2dkI6dlI) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/5NMAdQPrKw5nutWnGEzfpn) | 4:56 | 2019-06-11 |  |

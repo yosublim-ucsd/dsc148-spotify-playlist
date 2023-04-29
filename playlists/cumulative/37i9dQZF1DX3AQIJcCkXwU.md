@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-158 songs - 11 hr 33 min
+160 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Jal](https://open.spotify.com/track/4YpD0n0hC3Cw2As4jGaQ1z) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P) | [Jal](https://open.spotify.com/album/6sWGq5vGUPEPCxaIDm4gFb) | 4:43 | 2022-05-05 |  |
 | [Jhilmill](https://open.spotify.com/track/3Ig8gn22ScMgrv1cptU1js) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Fatafat](https://open.spotify.com/album/0n31gPh8AhLy1QkVxiv13h) | 2:35 | 2022-12-30 |  |
 | [Jodi Tare Nai Chini Go \- Instrumental](https://open.spotify.com/track/7cEZxN0bwOoJC61Bu2KLzn) | [Meghdeep Bose](https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda), [Tejas Vinchurkar](https://open.spotify.com/artist/0tg9ZOHpgLqgTeFgO843Y8) | [The Magic of Tagore \- Instrumentals](https://open.spotify.com/album/6gyzmR2nG9OM6mJRW07aXs) | 4:46 | 2022-04-04 |  |
+| [Kabira](https://open.spotify.com/track/20nB2JG804edG8Dvudr9zJ) | [Dyal Dalavi](https://open.spotify.com/artist/3L4z8r6PG78sYh5wtXDw0u) | [Nirmal Mann](https://open.spotify.com/album/1R8PSYd2anNIBCLkcXuRJG) | 3:51 | 2023-04-28 |  |
 | [Kailashi](https://open.spotify.com/track/0mr0CICPJj19Y4cp1HNOdx) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Kailashi](https://open.spotify.com/album/3xnVdpJCC98xufKIo0LMa6) | 3:19 | 2023-04-21 |  |
 | [Kapla Bhati](https://open.spotify.com/track/74HMbs5LeHYxv53RVzssJS) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Bamboo Flute Music for Pranayama](https://open.spotify.com/album/3wSY15N8WtCDYuLBCAzsDN) | 7:18 | 2022-09-30 |  |
 | [Kharasha](https://open.spotify.com/track/5b0pO1D67bUkGKzx4kNP56) | [The Sitar Lounge Experience](https://open.spotify.com/artist/2KdoHKu7K72giUrFxLQjKe) | [The Sitar Lounge Experience](https://open.spotify.com/album/0OILgZSp5RbtJszUSJXNog) | 4:48 | 2022-04-04 | 2022-04-21 |
@@ -98,7 +99,8 @@
 | [Night](https://open.spotify.com/track/4N3vw766peEDGWJEnSC7cL) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY) | [MidIval Punditz](https://open.spotify.com/album/3Gt2rSnTmlwjowHKV5vsIX) | 5:54 | 2022-04-04 | 2022-07-29 |
 | [Night](https://open.spotify.com/track/5ucLyBlhHzKn2ZiAQwLOl7) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY) | [MIDIval PunditZ](https://open.spotify.com/album/4rSbNYZdPsBDGBK7Qrat7X) | 5:55 | 2022-07-18 |  |
 | [Papa Tau \(A Tribute to Papa Tau Moe\)](https://open.spotify.com/track/4gE7Vsah50s9rAjaEHrHw5) | [Debashish Bhattacharya](https://open.spotify.com/artist/1gluErp8xTWWbjs6kh3Qjb) | [Hawaii to Calcutta: A Tribute to Tau Moe](https://open.spotify.com/album/3SHQeIFw6Sk5gPg7yelWul) | 6:08 | 2022-04-04 | 2022-07-29 |
-| [Papa Tau \(A Tribute to Papa Tau Moe\)](https://open.spotify.com/track/4ALOB46Dbms57RBlFE3y5N) | [Debashish Bhattacharya](https://open.spotify.com/artist/1gluErp8xTWWbjs6kh3Qjb) | [Hawaii to Calcutta: A Tribute to Tau Moe](https://open.spotify.com/album/73rdAlOupP5QlbpZsLuD9Q) | 6:08 | 2022-07-18 |  |
+| [Papa Tau \(A Tribute to Papa Tau Moe\)](https://open.spotify.com/track/4ALOB46Dbms57RBlFE3y5N) | [Debashish Bhattacharya](https://open.spotify.com/artist/1gluErp8xTWWbjs6kh3Qjb) | [Hawaii to Calcutta: A Tribute to Tau Moe](https://open.spotify.com/album/73rdAlOupP5QlbpZsLuD9Q) | 6:08 | 2022-07-18 | 2023-04-29 |
+| [Papa Tau \(A Tribute to Papa Tau Moe\)](https://open.spotify.com/track/7aJUSnGZYW4S5YsGu6hYei) | [Debashish Bhattacharya](https://open.spotify.com/artist/1gluErp8xTWWbjs6kh3Qjb) | [Hawaii to Calcutta: A Tribute to Tau Moe](https://open.spotify.com/album/1Cp0LRQxzKZ2PbG8lNYGr7) | 6:08 | 2023-04-28 |  |
 | [Peace](https://open.spotify.com/track/0JQ0zIQxvpz8XvMphwdRZj) | [Kiran Murti](https://open.spotify.com/artist/4Gwf9d7pFQVWt2PM8f3ASp) | [Devotion 1: Blessings of the Heart](https://open.spotify.com/album/5sl94ANcRPBvU2jfOe01Ub) | 5:05 | 2022-10-08 |  |
 | [Peace](https://open.spotify.com/track/2G05MCwb1Cnk1csGaU3ZY5) | [Kiran Murti](https://open.spotify.com/artist/4Gwf9d7pFQVWt2PM8f3ASp) | [Devotion Collection 1 \- Blessings of the Heart](https://open.spotify.com/album/02CVgMWdeo6X7VfqajyEry) | 5:05 | 2022-04-04 | 2022-07-29 |
 | [Peace](https://open.spotify.com/track/5afSZKizZ8G9PFX9FOrLCA) | [Kiran Murti](https://open.spotify.com/artist/4Gwf9d7pFQVWt2PM8f3ASp) | [Devotion 1: Blessings of the Heart](https://open.spotify.com/album/3vERpdSCKMGDzreizY178B) | 5:05 | 2022-07-18 | 2022-10-14 |

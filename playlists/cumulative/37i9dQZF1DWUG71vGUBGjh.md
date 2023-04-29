@@ -4,7 +4,7 @@
 
 > Plug your brain into a modular synthesizer analog loop.
 
-174 songs - 10 hr 33 min
+175 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Badaouiah](https://open.spotify.com/track/1Eu3mluKxqsUyLNmQeUi1r) | [Hany Mehanna](https://open.spotify.com/artist/3h9X1RMf1TfyNGntWJZdJ2) | [The Miracles Of The Seven Dances](https://open.spotify.com/album/1KyFBCRPYSggqq1IQVCkKq) | 4:27 | 2022-02-25 |  |
 | [Barnyard In Orbit](https://open.spotify.com/track/40gZr472mFyg9YCk8nrzwm) | [Perrey and Kingsley](https://open.spotify.com/artist/3daZ54uJ2NvlclfdEkfa4R) | [The Out Sound From Way In!](https://open.spotify.com/album/6JGqckpNnvBhco52GETW15) | 2:26 | 2021-08-17 |  |
 | [Baroque Hoedown](https://open.spotify.com/track/44pXIgdwWjrTRUW2oN4u5I) | [Perrey and Kingsley](https://open.spotify.com/artist/3daZ54uJ2NvlclfdEkfa4R) | [The In Sound From Way Out](https://open.spotify.com/album/6PSsRBZTDdD4BJkAFhobdK) | 2:27 | 2021-08-17 |  |
-| [Basheeba](https://open.spotify.com/track/5P823piDVg0rvwrWFPoHAv) | [Angel Rada](https://open.spotify.com/artist/5kf6V58qzjez0DRgmW5Wd7) | [Soul Jazz Records Presents VENEZUELA 70: Cosmic Visions Of A Latin American Earth \- Venezuelan Experimental Rock In The 1970s](https://open.spotify.com/album/1cEz5jEFeSgSIVqFYtANE1) | 4:27 | 2021-08-17 |  |
+| [Basheeba](https://open.spotify.com/track/2v2oXIi7utdaPqH7Hz40lo) | [Angel Rada](https://open.spotify.com/artist/5kf6V58qzjez0DRgmW5Wd7) | [Soul Jazz Records Presents VENEZUELA 70: Cosmic Visions Of A Latin American Earth \- Venezuelan Experimental Rock In The 1970s](https://open.spotify.com/album/1DqUgcTvRXqjcse7qiZyh9) | 4:27 | 2021-08-17 |  |
+| [Basheeba](https://open.spotify.com/track/5P823piDVg0rvwrWFPoHAv) | [Angel Rada](https://open.spotify.com/artist/5kf6V58qzjez0DRgmW5Wd7) | [Soul Jazz Records Presents VENEZUELA 70: Cosmic Visions Of A Latin American Earth \- Venezuelan Experimental Rock In The 1970s](https://open.spotify.com/album/1cEz5jEFeSgSIVqFYtANE1) | 4:27 | 2021-08-17 | 2023-04-29 |
 | [Beyond the Clouds](https://open.spotify.com/track/1LUCSMbcv43ZhcCz9LwVHz) | [Nino Nardini](https://open.spotify.com/artist/48pg9FROggMJw7RkrJykRS), [Eddie Warner](https://open.spotify.com/artist/1RJ3kDZEsPG8jqxYpWUxS2), [Roger Roger](https://open.spotify.com/artist/3kM4HaykfdSRvQFxL4Xzgt) | [Space Oddities: Studio Ganaro \(1972\-1982\)](https://open.spotify.com/album/6lGpTboVQzyQbEqWbclLyU) | 2:03 | 2021-08-17 |  |
 | [Beyoğlu'nda Gezersin](https://open.spotify.com/track/0qJ9xwR2Qak7kc07ovYQM8) | [Gökçen Kaynatan](https://open.spotify.com/artist/3nnodwbgLf8YyqSk7bgkgF) | [Pencerenin Perdesini / Beyoğlu'nda Gezersin](https://open.spotify.com/album/6SZorR9VZfzMR103ylcHHU) | 3:47 | 2022-04-28 |  |
 | [Bingo Shuffle](https://open.spotify.com/track/0NpzDuvo4EE5PKSsJZApLN) | [Elko B.](https://open.spotify.com/artist/1H7ANeaFPlLt6jwdq0B1mu) | [Realm of Rides & Romance](https://open.spotify.com/album/6Uz75hopKdrXlRyBmIh3DR) | 3:23 | 2021-08-17 |  |

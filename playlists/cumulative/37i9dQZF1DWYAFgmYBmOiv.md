@@ -4,7 +4,7 @@
 
 > POV: It's your last night with your high school sweetheart, curated by Jordan Fisher from Hello, Goodbye, and Everything in Between
 
-92 songs - 6 hr 8 min
+93 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Brand New](https://open.spotify.com/track/1P5OPN8MbPgFznEp1b7OiN) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [G I R L](https://open.spotify.com/album/2lkQd5T32QHDOfFkEIPJKz) | 4:31 | 2022-07-07 | 2022-07-29 |
 | [Brand New \(with Justin Timberlake\)](https://open.spotify.com/track/1RUubW9fHtIYwjl588PrhZ) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 4:31 | 2022-07-07 |  |
 | [Calling All Hearts \(feat\. Robin Thicke & Jessie J\)](https://open.spotify.com/track/0YeRxIsv9547EmlsP5wDU2) | [DJ Cassidy](https://open.spotify.com/artist/1xLOb1CC0N70wA28T7Q5uE), [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP), [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Calling All Hearts \(feat\. Robin Thicke & Jessie J\)](https://open.spotify.com/album/1GaInUv1ODjtrAA04SpUj8) | 4:48 | 2022-07-07 |  |
-| [Camera](https://open.spotify.com/track/7eSjpSUNaP55QMwPY2C7fb) | [Charly Bliss](https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh) | [Young Enough](https://open.spotify.com/album/1r4TaIR9nZHCM2umwoEiWB) | 3:11 | 2022-07-07 |  |
+| [Camera](https://open.spotify.com/track/1E7JG4gjPsuld6KGc3q4ON) | [Charly Bliss](https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh) | [Young Enough](https://open.spotify.com/album/1Aq2sk7wwC80eOmjvU9Suk) | 3:11 | 2022-07-07 |  |
+| [Camera](https://open.spotify.com/track/7eSjpSUNaP55QMwPY2C7fb) | [Charly Bliss](https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh) | [Young Enough](https://open.spotify.com/album/1r4TaIR9nZHCM2umwoEiWB) | 3:11 | 2022-07-07 | 2023-04-29 |
 | [Caravan](https://open.spotify.com/track/2Xtsv7BUMrNodQWH2JPOc0) | [John Wasson](https://open.spotify.com/artist/2ObUFCwd6NhS8iyCv8JdPL) | [Whiplash \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt) | 9:15 | 2022-04-14 | 2022-07-08 |
 | [Celebrate](https://open.spotify.com/track/5sBylVOElekJAsqGT1zYeu) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [The Dreamer, The Believer](https://open.spotify.com/album/17eQeA5m7DpsZ42mUAGjgG) | 4:03 | 2022-07-07 |  |
 | [Centuries Of Damn](https://open.spotify.com/track/3CpYYllIYfFqDJaK2Cp2Y6) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Powers That B](https://open.spotify.com/album/5Y04ylQjDWsawOUJXzY4YO) | 5:32 | 2022-04-14 | 2022-07-08 |

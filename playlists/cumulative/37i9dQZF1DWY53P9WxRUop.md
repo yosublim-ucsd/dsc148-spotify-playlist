@@ -4,7 +4,7 @@
 
 > Summer fun for the whole family.
 
-90 songs - 3 hr 50 min
+92 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,14 +13,16 @@
 | [Another Summertime Jam](https://open.spotify.com/track/1bTe8WVN7jlCAZXbixmASF) | [Battlebird](https://open.spotify.com/artist/2pC04M8Mo4SNSMsSEk2FH9) | [Whatever Together](https://open.spotify.com/album/4FJAhAVYpq5UAwNrxZ31ve) | 2:49 | 2021-08-30 | 2022-07-29 |
 | [Another Summertime Jam](https://open.spotify.com/track/3MSW5ilujW2T94eBCn3TnP) | [Battlebird](https://open.spotify.com/artist/2pC04M8Mo4SNSMsSEk2FH9) | [Another Summertime Jam](https://open.spotify.com/album/0utua6zEwOWEU4nDvD7N5B) | 2:49 | 2021-08-30 | 2022-11-13 |
 | [Another Summertime Jam](https://open.spotify.com/track/4IdkY2v0qHTg3TJkBPTvh4) | [Battlebird](https://open.spotify.com/artist/2pC04M8Mo4SNSMsSEk2FH9) | [Whatever Together](https://open.spotify.com/album/2IkzHq61rWmsXQ77F6EC9A) | 2:49 | 2021-08-30 |  |
-| [Are You Ready for the Summer?](https://open.spotify.com/track/2A86c1BHXoAt1JJKEvihKt) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Camp Lisa](https://open.spotify.com/album/4ifCn1MLPTtbVYbbEGWOeS) | 1:21 | 2021-08-30 |  |
+| [Are You Ready for the Summer?](https://open.spotify.com/track/2A86c1BHXoAt1JJKEvihKt) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Camp Lisa](https://open.spotify.com/album/4ifCn1MLPTtbVYbbEGWOeS) | 1:21 | 2021-08-30 | 2023-04-29 |
+| [Are You Ready for the Summer?](https://open.spotify.com/track/5TPTF6jjfJERlFj8TbLOvX) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Camp Lisa](https://open.spotify.com/album/5vwzr0ct9GkSIDz1B7LlUR) | 1:21 | 2021-08-30 |  |
 | [Backyard Swimsuit](https://open.spotify.com/track/2b7pVukPLhe7PkzapD4sMy) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb), [Sims](https://open.spotify.com/artist/3REPW9qXSD6VjeAHr0OENv) | [Backyard Swimsuit](https://open.spotify.com/album/21W8fov6jwV3Y8TCFo2SNz) | 3:04 | 2021-08-30 |  |
 | [Be Outside](https://open.spotify.com/track/0S4kbxKLAQkq4du2h3qDjB) | [Jazzy Ash](https://open.spotify.com/artist/5zToXUC9I6HoncynKnRMhJ) | [Good Foot](https://open.spotify.com/album/5MW5jSzYtbdDxAdjbYmOin) | 2:31 | 2021-08-30 |  |
 | [Beach Song](https://open.spotify.com/track/1bDMoH8fmHwGRqEBy0v8Eg) | [Dog On Fleas](https://open.spotify.com/artist/4IeVO9BEsrReZNdAtF2h6L) | [Beautiful World](https://open.spotify.com/album/5Ko4WA7utUQPe8HJTDGq5p) | 2:45 | 2021-08-30 |  |
 | [Best Day Ever](https://open.spotify.com/track/1JGUj6Cjj3pJHle2QSixMf) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Best Day Ever](https://open.spotify.com/album/7DdIJ7bu3xrpsUT2JKy8C5) | 2:30 | 2021-08-30 |  |
 | [Bike](https://open.spotify.com/track/431ZpHEAbKo9DqmRet9VEj) | [Charity and the Jamband](https://open.spotify.com/artist/5YTYt0ir3CPgXGWTlfWdHT) | [Family Values](https://open.spotify.com/album/7vxutKdChWEjzcqsvWPahx) | 4:21 | 2021-08-30 |  |
 | [Boom Chicka Boom Summer](https://open.spotify.com/track/4g2j36RvM2R2Uf6JLurmoF) | [The Learning Station](https://open.spotify.com/artist/0qIXXh38Do2fvBqiUjiHbm) | [Boom Chicka Boom Summer](https://open.spotify.com/album/53a614E6KJ1qs57aAhlEw3) | 3:05 | 2021-08-30 |  |
-| [Campin' Tent](https://open.spotify.com/track/55ArNFldGIcodb1Ai6Re6m) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Can You Canoe? A Mississippi River Adventure Album](https://open.spotify.com/album/61vBZ7aI8HfnBTTrVMC68v) | 3:00 | 2021-08-30 |  |
+| [Campin' Tent](https://open.spotify.com/track/51OVen4fkgobiLXxTmZTrQ) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Can You Canoe? A Mississippi River Adventure Album](https://open.spotify.com/album/5RjOtvEVZ7cHpfvGoscBxd) | 3:00 | 2021-08-30 |  |
+| [Campin' Tent](https://open.spotify.com/track/55ArNFldGIcodb1Ai6Re6m) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Can You Canoe? A Mississippi River Adventure Album](https://open.spotify.com/album/61vBZ7aI8HfnBTTrVMC68v) | 3:00 | 2021-08-30 | 2023-04-29 |
 | [Chillin'](https://open.spotify.com/track/14nJsemfxPFCNfKZ3Pse0o) | [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt), [Uncle Dox](https://open.spotify.com/artist/2f9WUsP1fUz3QLcbPUkiw9) | [Don't Gotta Be Cool](https://open.spotify.com/album/7Dmkj0ruoRevuG1gKXRpfy) | 3:28 | 2021-08-30 |  |
 | [Come Dance By the Ocean](https://open.spotify.com/track/2NjVNK2QMkoIaAtxoIGuCv) | [Ella Jenkins](https://open.spotify.com/artist/2AdaJlzNcOpdrvMSBN92Wp) | [Come Dance By the Ocean](https://open.spotify.com/album/0PIcF0VRdvnEJvpJ1gsZbW) | 3:58 | 2021-08-30 |  |
 | [Dancing in the Summertime](https://open.spotify.com/track/19AWv57sKz9q5tzltSFKlx) | [Piccolo Music](https://open.spotify.com/artist/1JYuWmfI1YsWKxb050RxRI) | [Sing Yourself a Smile](https://open.spotify.com/album/6SrFFzym0Z7pieo4kLYFSF) | 2:19 | 2021-08-30 |  |

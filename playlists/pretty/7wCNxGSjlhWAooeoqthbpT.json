@@ -6,7 +6,7 @@
     "name": "Epic Records",
     "url": "https://open.spotify.com/user/epicrecords"
   },
-  "snapshot_id": "MjA5OCw1YzAyNzdmMGM0NGE0MDMzMzg0ZmUyNGNmNTFlMTU5NjBhOWVjZWU2",
+  "snapshot_id": "MjEwNyxhYTBmZTE1MGEyYzNlZWZjZmU1ZmZlNzIyODNjMzA2MGExNjk1NjVm",
   "tracks": [
     {
       "added_at": "2023-04-14 14:51:25",
@@ -93,6 +93,22 @@
       "url": "https://open.spotify.com/track/4TQCxVR2rmR3ozusDumesX"
     },
     {
+      "added_at": "2023-04-28 04:30:27",
+      "album": {
+        "name": "GOODSEX",
+        "url": "https://open.spotify.com/album/7vy0aVfHqIRjtbTwk93z7d"
+      },
+      "artists": [
+        {
+          "name": "Kid Culture",
+          "url": "https://open.spotify.com/artist/2BaeUcNB0I5fVO5W1UskiU"
+        }
+      ],
+      "duration_ms": 164956,
+      "name": "GOODSEX",
+      "url": "https://open.spotify.com/track/6zRlpxpNBRIqqDb6HqRbhS"
+    },
+    {
       "added_at": "2023-01-27 16:30:38",
       "album": {
         "name": "Can't Tame Her",
@@ -123,6 +139,22 @@
       "duration_ms": 173658,
       "name": "Stargirl",
       "url": "https://open.spotify.com/track/4aG9dDt76InHPsbv55xz1w"
+    },
+    {
+      "added_at": "2023-04-28 04:30:03",
+      "album": {
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/4aAHlX9XKBRfdqUp4JVvr0"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 232606,
+      "name": "Last Train To London (I Won't Look Back)",
+      "url": "https://open.spotify.com/track/3KRKN196F3i6G1HnIqd2e5"
     },
     {
       "added_at": "2023-04-14 14:51:34",
@@ -201,22 +233,6 @@
       "url": "https://open.spotify.com/track/3WhxyhcaabI2aNpUEFpTwr"
     },
     {
-      "added_at": "2023-02-21 16:32:32",
-      "album": {
-        "name": "Roles Reversed",
-        "url": "https://open.spotify.com/album/2RFdnVvLdNioN4fw42fPfr"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 225446,
-      "name": "Roles Reversed",
-      "url": "https://open.spotify.com/track/7iinMLIDWw5QA7d6x0d5HJ"
-    },
-    {
       "added_at": "2023-01-27 16:30:28",
       "album": {
         "name": "Been Thinking",
@@ -231,6 +247,22 @@
       "duration_ms": 187275,
       "name": "Been Thinking",
       "url": "https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz"
+    },
+    {
+      "added_at": "2023-04-28 04:30:17",
+      "album": {
+        "name": "Kills Me",
+        "url": "https://open.spotify.com/album/1We5M24aUK1pQKN5hGCoGr"
+      },
+      "artists": [
+        {
+          "name": "Bahari",
+          "url": "https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu"
+        }
+      ],
+      "duration_ms": 188129,
+      "name": "Kills Me",
+      "url": "https://open.spotify.com/track/2IZZrIXBfMqWtbhNZUfLrz"
     },
     {
       "added_at": "2023-04-07 15:00:56",
@@ -467,30 +499,6 @@
       "duration_ms": 228000,
       "name": "9 Lives (feat. Polo G & NLE Choppa)",
       "url": "https://open.spotify.com/track/6DVJ7Aqbml1X3wGxxV5QH5"
-    },
-    {
-      "added_at": "2022-11-11 14:35:48",
-      "album": {
-        "name": "No Borders: European Compilation Project",
-        "url": "https://open.spotify.com/album/3RE7S9ZwbNH3dPGY8rJdVP"
-      },
-      "artists": [
-        {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
-        },
-        {
-          "name": "Pajel",
-          "url": "https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm"
-        },
-        {
-          "name": "Dezzie",
-          "url": "https://open.spotify.com/artist/24Ws1EeobHSyqDxQKfie7Q"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Place",
-      "url": "https://open.spotify.com/track/109zbOmrUeunCHnZ76B0Kx"
     },
     {
       "added_at": "2022-10-21 14:47:09",
@@ -1011,26 +1019,6 @@
       "duration_ms": 198370,
       "name": "Heartbreak Anniversary",
       "url": "https://open.spotify.com/track/27tDoZsybt3KvJWTDoW9id"
-    },
-    {
-      "added_at": "2022-07-08 14:17:37",
-      "album": {
-        "name": "In My Projects",
-        "url": "https://open.spotify.com/album/3E5dBHBjnIdXovdZbcoGay"
-      },
-      "artists": [
-        {
-          "name": "D3szn",
-          "url": "https://open.spotify.com/artist/3XUSSPMccIhcVTQ2kOHJPn"
-        },
-        {
-          "name": "Fredo Bang",
-          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
-        }
-      ],
-      "duration_ms": 197280,
-      "name": "Show No Love (feat. Fredo Bang)",
-      "url": "https://open.spotify.com/track/0B1kYE1ZJHVEtiYhmNPEda"
     },
     {
       "added_at": "2022-05-06 14:06:15",

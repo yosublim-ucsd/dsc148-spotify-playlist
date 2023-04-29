@@ -4,7 +4,7 @@
 
 > Un viaje al país del amor a través de sus canciones más hermosas.
 
-96 songs - 5 hr 29 min
+97 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Oublie pas](https://open.spotify.com/track/1mDbWDkzeT50OIsGPK5FY8) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Saratoga](https://open.spotify.com/album/5HiUleHNA5jKXSzfoN65OB) | 4:57 | 2021-10-13 | 2022-07-29 |
 | [Oublie pas](https://open.spotify.com/track/5O3B5KtjvwNWhvTvPAhASO) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Saratoga](https://open.spotify.com/album/582dBlFn0Yuq8zMFir8t5s) | 4:57 | 2021-10-13 |  |
 | [P'tit cœur](https://open.spotify.com/track/3XDpOcUKwlJkJQyI0KPXCZ) | [Les Ogres De Barback](https://open.spotify.com/artist/3avSMklPuyXhcT5Smt1h7G) | [Amours grises & colères rouges](https://open.spotify.com/album/5I4dgah2issnwrQ3fb9vKX) | 4:25 | 2021-10-13 |  |
-| [Petite fleur](https://open.spotify.com/track/6Xy0TKhM0Ytjt65QuVEN67) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chansons](https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp) | 2:43 | 2021-10-13 |  |
+| [Petite fleur](https://open.spotify.com/track/2ofpkaYjXD16Lvyteh3QjW) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chansons](https://open.spotify.com/album/2BbY1j3Omk7pQsDKjl3r7w) | 2:43 | 2021-10-13 |  |
+| [Petite fleur](https://open.spotify.com/track/6Xy0TKhM0Ytjt65QuVEN67) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chansons](https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp) | 2:43 | 2021-10-13 | 2023-04-29 |
 | [Pour que tu m'aimes encore](https://open.spotify.com/track/5iUdu5DddFwvqmnwL0nOBI) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Pour que tu m'aimes encore](https://open.spotify.com/album/7F0oYlWbXKjecsCJS9wUMW) | 4:48 | 2021-10-13 |  |
 | [Pourquoi pleures\-tu ?](https://open.spotify.com/track/1M6DskAStbwyACr5Pxpq0I) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Pourquoi tu pleures ? \(Musiques et chansons inspirées du film\)](https://open.spotify.com/album/4YZHmg5LPTX47UFkG3xIH5) | 2:22 | 2021-10-13 |  |
 | [Quand j'aime une fois j'aime pour toujours](https://open.spotify.com/track/40PuSCcS6qI3J9iEJeP3od) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Desjardins](https://open.spotify.com/album/2VPoXJSzpdtKp5VTrds7XC) | 3:24 | 2021-10-13 |  |

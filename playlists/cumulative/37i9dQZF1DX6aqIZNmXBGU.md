@@ -4,7 +4,7 @@
 
 > Get pumped, feel the vibe and get ready for the swell coming in.
 
-139 songs - 8 hr 3 min
+140 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Badillac](https://open.spotify.com/track/5tQkgG7unCiJxaOFp5yc5O) | [Together Pangea](https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB) | [Badillac](https://open.spotify.com/album/5GgsYoD0QMQyCaJ1MhEtPz) | 2:27 | 2021-04-09 |  |
 | [Barbacoa](https://open.spotify.com/track/5a7uskQ3CAOniRFSQo6DBp) | [Guantanamo Baywatch](https://open.spotify.com/artist/2uZajWbkMRUYdyCHvsh494) | [Chest Crawl](https://open.spotify.com/album/7xgsyqkVXJD8PChs2mUEiA) | 3:08 | 2021-04-09 | 2022-11-13 |
 | [Black Moon Spell](https://open.spotify.com/track/2SIgTrGrUzm9k5oOElXRJY) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Black Moon Spell](https://open.spotify.com/album/1D2eoTz82hmyArupokjyZ5) | 4:53 | 2021-04-09 | 2022-07-29 |
-| [Black Moon Spell](https://open.spotify.com/track/6V3zT1j43wmQU8Mk2rT35K) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Black Moon Spell](https://open.spotify.com/album/0XOhWOI7URvE4SmmGLTYop) | 4:53 | 2021-04-09 |  |
+| [Black Moon Spell](https://open.spotify.com/track/6V3zT1j43wmQU8Mk2rT35K) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Black Moon Spell](https://open.spotify.com/album/0XOhWOI7URvE4SmmGLTYop) | 4:53 | 2021-04-09 | 2023-04-29 |
 | [Blood Under My Belt](https://open.spotify.com/track/5Nhsz5O0DIS5Mh5E3tlBbp) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Abysmal Thoughts](https://open.spotify.com/album/2dfRhvbhgRTB5wBjI1mihw) | 3:48 | 2021-04-09 |  |
 | [Blood Under My Belt](https://open.spotify.com/track/6tItZURE8OOZFyytaNfyVd) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Blood Under My Belt](https://open.spotify.com/album/1cBmW6n9BIg5jZ85dP0aB0) | 3:48 | 2021-04-09 | 2022-07-14 |
 | [Blue Day](https://open.spotify.com/track/7B9N6NLrTrGTeYIAfq4hag) | [Darker My Love](https://open.spotify.com/artist/6lNdjatBO3aCJfYYPDKCm6) | [2](https://open.spotify.com/album/577wvZla1iAWnbn9Y3JDBQ) | 4:10 | 2021-04-09 | 2022-07-24 |
@@ -35,6 +35,7 @@
 | [Creep in a T\-Shirt](https://open.spotify.com/track/1lpN3qsugqtMR49xwzHYnt) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 3:53 | 2021-04-09 |  |
 | [Currency](https://open.spotify.com/track/3j5KsXmv1ZMqNZ5jSfRbP0) | [The Black Angels](https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP) | [Death Song](https://open.spotify.com/album/0Wea7o6DfKCkcGKbn5djdz) | 5:16 | 2021-04-09 | 2022-04-24 |
 | [Demon From Hell](https://open.spotify.com/track/3NaT4FM9fCu29Ep9DoVh0N) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Black Moon Spell](https://open.spotify.com/album/1D2eoTz82hmyArupokjyZ5) | 1:29 | 2021-04-09 | 2022-07-29 |
+| [Demon From Hell](https://open.spotify.com/track/6tlM9pXSjLR5MOCKeLVa35) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Black Moon Spell](https://open.spotify.com/album/0XOhWOI7URvE4SmmGLTYop) | 1:29 | 2021-04-09 |  |
 | [Doused](https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Oshin](https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh) | 3:42 | 2021-04-09 |  |
 | [Doused](https://open.spotify.com/track/4QDbzpmRA6atTEEE2W7j7k) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Oshin](https://open.spotify.com/album/1hSONHeTOofdeh2uoFBLgv) | 3:42 | 2021-04-09 | 2022-07-29 |
 | [Drown](https://open.spotify.com/track/3eMYc6FK9XvyauIaxcJtRS) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [\(Rotten Apples\) The Smashing Pumpkins Greatest Hits](https://open.spotify.com/album/1cUnNrx2TxvrpwPRtvpGwn) | 4:30 | 2021-04-09 |  |

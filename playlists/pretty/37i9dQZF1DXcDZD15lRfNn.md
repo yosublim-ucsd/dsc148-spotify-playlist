@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZD15lRfNn.md) - [plain]
 
 > Looking for a singer who dominated an era in the Korean music industry and then disappeared, aka 'SUGAR MAN'\. This is the official playlist of JTBC <Sugar Man>\. \(대한민국 가요계의 한 시대를 풍미했다가 사라진 가수, 일명 '슈가맨 \(SUGAR MAN\)'을 찾아갑니다\. JTBC 슈가맨의 오피셜 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,218 likes - 24 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,227 likes - 24 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZD15lRfNn.md) - [plain]
 | 23 | [너에게 난 나에게 넌](https://open.spotify.com/track/0xk9JJtMY7bf5omWZMQrhL) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [투유프로젝트 \- Sugar Man3 Episode.13](https://open.spotify.com/album/62oHiP43b3A0j8wigHtpP3) | 4:27 |
 | 24 | [버스안에서](https://open.spotify.com/track/27Mtoumk8uvzmqQ2liLTbk) | [장준](https://open.spotify.com/artist/5yES1lbfHCYiyoMu2lytl3), [TAG](https://open.spotify.com/artist/6wWzrvB5m2BSseIfpeWtJX), [Kei\(김지연\)](https://open.spotify.com/artist/7iNpNRwtBogISqdh1nPazB) | [투유프로젝트 \- Sugar Man3 Episode.13](https://open.spotify.com/album/62oHiP43b3A0j8wigHtpP3) | 3:11 |
 
-Snapshot ID: `MCxjZWE3YWNiMzE0MGNkZjVjYTRjNmZiYWUxMzZmNDZjODYxYzZmODhh`
+Snapshot ID: `MCxjMDM4YzgyMDY0MjMxMmFkMTRhMjAxZWM1NGFjYTE2NGRmMDkyYzdk`

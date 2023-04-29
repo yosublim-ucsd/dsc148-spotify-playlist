@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 
 > Raw dance beats pushing club culture forwards\. Cover: Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,957 likes - 60 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,973 likes - 60 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 | 11 | [Foh](https://open.spotify.com/track/5KOzLFWT6o3ACbNmCC6gGU) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7) | [Drmtrk V](https://open.spotify.com/album/7n1cf3SUccyhmdDgCXRoog) | 4:06 |
 | 12 | [NOBODY](https://open.spotify.com/track/3YoXksESEwIkPsH1gZBq4r) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [NOBODY](https://open.spotify.com/album/0QkYU5KB8lMH9XOj5kUiRe) | 1:56 |
 | 13 | [BAWDY](https://open.spotify.com/track/1bMG9DKuMJhdwTSTtphTDC) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [ALIAS](https://open.spotify.com/album/3lpcZOAsYJzvPepNSbzMSb) | 2:34 |
-| 14 | [Familiars](https://open.spotify.com/track/5ckxGXw6Awq0Qrzj2IjmVd) | [Silk Road Assassins](https://open.spotify.com/artist/3Bwlxe7rFmvWcEkAnA6FRZ) | [State of Ruin](https://open.spotify.com/album/1vx9B58AqRjAlvzH0pOWgu) | 2:54 |
+| 14 | [Familiars](https://open.spotify.com/track/154jIWXdnRSLFWsg7oGzPf) | [Silk Road Assassins](https://open.spotify.com/artist/3Bwlxe7rFmvWcEkAnA6FRZ) | [State of Ruin](https://open.spotify.com/album/16pMtB8IdNtQwQlrrnANj1) | 2:54 |
 | 15 | [Jinn](https://open.spotify.com/track/1eu1i0zc9KNa7GOzoFl7It) | [TSVI](https://open.spotify.com/artist/0uea1sBqx37JwQznLWxqeE) | [Inner Worlds](https://open.spotify.com/album/4DN13fYd1TQpeUkLQa4pVR) | 5:23 |
 | 16 | [Dollaz](https://open.spotify.com/track/2LI5ggYAq4MC7zmHhD3x9A) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3) | [II](https://open.spotify.com/album/1PN3Kkwd2mOyIOOiRJkBAh) | 3:13 |
 | 17 | [Moo Orphaned Drift](https://open.spotify.com/track/0cmk7Q6WwhsP6PR6WjjqLR) | [Lanark Artefax](https://open.spotify.com/artist/02fDf7HEPtBZLtPzCyxSR2) | [Corra Linn](https://open.spotify.com/album/0bSbfW1TMuJlJpL53ghtn5) | 4:44 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 | 34 | [Groan](https://open.spotify.com/track/3DoCZ2f1fP4AU40pAjPonj) | [Zaliva\-D](https://open.spotify.com/artist/28wvoKGy5TxdUPxZVNzygo) | [Calling](https://open.spotify.com/album/4bGFKMAoLAdxxTaLFOM1Y4) | 4:38 |
 | 35 | [Flood](https://open.spotify.com/track/2r9eNtlbaV8yXiNlz05Zp7) | [GRRL](https://open.spotify.com/artist/0JpzRsUcCKSyr44mQiosNg) | [Marathon](https://open.spotify.com/album/70viF1RwTpvFJeLreXzMb8) | 3:34 |
 | 36 | [Priestess](https://open.spotify.com/track/1F96wp4Aa2l2ygMcmSX75w) | [AMAZONDOTCOM](https://open.spotify.com/artist/2wSYqnT1Cu1oQcFFspe0Ie) | [Mirror River](https://open.spotify.com/album/6uAcSbDR2nBr6WPE1IOgf3) | 6:41 |
-| 37 | [Airstrike \(feat\. Shannen SP\)](https://open.spotify.com/track/7xwI2dDogSlNw5TENOov4s) | [Nazar](https://open.spotify.com/artist/6JBAyC8fskYhZHKXI5VRdq), [Shannen SP](https://open.spotify.com/artist/7hcpmtt4sP0aEMCxypuGfK) | [Enclave EP](https://open.spotify.com/album/5v2xKxoplmrwdNmjVDIL9s) | 4:30 |
+| 37 | [Airstrike \(feat\. Shannen SP\)](https://open.spotify.com/track/2C0NQItVYOA44MqzrPkasv) | [Nazar](https://open.spotify.com/artist/6JBAyC8fskYhZHKXI5VRdq), [Shannen SP](https://open.spotify.com/artist/7hcpmtt4sP0aEMCxypuGfK) | [Enclave EP](https://open.spotify.com/album/2OfFwZyE5caCX9DckCAwaC) | 4:30 |
 | 38 | [Scanners 2002](https://open.spotify.com/track/3i4r6I6CQB8eO6DKXl9pF7) | [Lurka](https://open.spotify.com/artist/1fRMz4kvu4hItUYYZHwZ08) | [Damage EP](https://open.spotify.com/album/7xHOM03xLz7cEfNDRTVy11) | 2:42 |
-| 39 | [Discreet](https://open.spotify.com/track/7gcqRGADHoNfA2wEhbE0S1) | [Sami Baha](https://open.spotify.com/artist/0NqV34fP3RUaWutqpupv7c), [Dimzy](https://open.spotify.com/artist/45L2JKXSD1OAxJSKpMjZie) | [Free for All](https://open.spotify.com/album/2xS0JhHacgOzFSwDdt9Pzk) | 2:31 |
+| 39 | [Discreet](https://open.spotify.com/track/2PJ38KzFSJW12RGTNDvfbE) | [Sami Baha](https://open.spotify.com/artist/0NqV34fP3RUaWutqpupv7c), [Dimzy](https://open.spotify.com/artist/45L2JKXSD1OAxJSKpMjZie) | [Free for All](https://open.spotify.com/album/38WlfHPVU54dlcG9D75pS9) | 2:31 |
 | 40 | [Cake \- UNiiQU3 Remix](https://open.spotify.com/track/3hJ0Be9LwmDVqBhXXOKi1d) | [L\-Vis 1990](https://open.spotify.com/artist/3Av5YRDWBegMumHlMOIa91), [Sinjin Hawke](https://open.spotify.com/artist/5qKCgbxBDmDc9Ckgmt4EaN), [Cam & China](https://open.spotify.com/artist/4801sdBxePkTFNoJHn88Nw), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [12 Thousand Nights \- Club](https://open.spotify.com/album/79Tn0kD97m5InHJoJcdVtD) | 3:07 |
 | 41 | [JUICY](https://open.spotify.com/track/7v7UZAX5TR64Pmvda8kI8E) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [NAUGHTY DOG](https://open.spotify.com/album/58NX2JGkFppV0NQJqv0yEp) | 2:26 |
 | 42 | [Water Gun](https://open.spotify.com/track/7ITqe34Vj9CTG4A0vLPHrI) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Water Gun / Stingray](https://open.spotify.com/album/6SlfMCIV2Jd20Tnhu78QA4) | 4:14 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 | 59 | [Harbinger](https://open.spotify.com/track/3smLcr5e84zq10h2LXByED) | [Alec Ness](https://open.spotify.com/artist/3qIOkb1528LbR4UIwJefsr) | [Temporary Awareness of Passing](https://open.spotify.com/album/1Or89jf0Su8WpBINgkvVLI) | 3:07 |
 | 60 | [Alucard](https://open.spotify.com/track/2ibgB5zU0EGIh1x7JM8AMD) | [Swan Meat](https://open.spotify.com/artist/20GBDDzRPgnhVRuIjkrSd6) | [Alucard](https://open.spotify.com/album/0KlEXfI6QhODTsxKdSjrl4) | 5:12 |
 
-Snapshot ID: `MCwyZjYwNDk4MjYyNGYzMjBkZjYyNjE0NzRkZGZkZjRhZjBkNmRmNzk3`
+Snapshot ID: `MCw2NDRjNDU4ODEzNTU3NzU5MTJmOTEzMmY0OTAwOTNmNDhjNjY1ZTZm`

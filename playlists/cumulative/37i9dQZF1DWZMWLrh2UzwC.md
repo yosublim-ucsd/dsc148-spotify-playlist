@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: Niall Horan
 
-5,723 songs - 13 day 1 hr 48 min
+5,726 songs - 13 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2599,6 +2599,7 @@
 | [Just To Keep You Satisfied](https://open.spotify.com/track/06YDsNc6mrl60G2FZeUOmE) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 3:35 | 2023-02-16 | 2023-02-24 |
 | [Just Us Two](https://open.spotify.com/track/7xcI1Zektgesyth4OXLW0H) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Just Us Two](https://open.spotify.com/album/2SM7pq8HGnx7xPuMyb8mck) | 3:48 | 2022-06-09 | 2022-06-17 |
 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 | 2022-10-20 | 2022-10-28 |
+| [k](https://open.spotify.com/track/5WtdLOSLk1tuAifMaqQjX7) | [KINGS](https://open.spotify.com/artist/6YQuBpbzdPGNFnyADC9QC3) | [k](https://open.spotify.com/album/2IoAmQn8rBf4YNpGyJarxM) | 2:46 | 2023-04-27 |  |
 | [K.K.O](https://open.spotify.com/track/3c7HwgYVv6d3kxOQGrYk0G) | [Piers James](https://open.spotify.com/artist/1M5jchd0rXJneek1xALRFW) | [K.K.O](https://open.spotify.com/album/6QMZWUgeNUjAqwaxgFsPFm) | 1:56 | 2023-02-02 | 2023-02-10 |
 | [Kahlua](https://open.spotify.com/track/5N02Th5pGOdtkxkJCjiNM4) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [Kahlua](https://open.spotify.com/album/5PgfK9TLOnxbfpVUNtBsR3) | 3:06 | 2023-03-09 | 2023-03-18 |
 | [Kakee](https://open.spotify.com/track/7AynhVxHy3bgRCVmxDWjIC) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Kakee](https://open.spotify.com/album/6Zk3RjWeIjiZ6QL9sos8DP) | 1:45 | 2022-03-31 | 2022-04-08 |
@@ -4727,6 +4728,7 @@
 | [The Epidemiologist](https://open.spotify.com/track/0cCMUEWkTQ5XxpVBdUC0SE) | [Peter Doherty](https://open.spotify.com/artist/0ikiOZC4SDG6OrgHLESydg), [Frédéric Lo](https://open.spotify.com/artist/3S3X6lg99IFE3acTZpzoR9) | [The Epidemiologist](https://open.spotify.com/album/6NtKTA4NFD20FQ1xgD4iD6) | 3:37 | 2022-03-03 | 2022-03-11 |
 | [The Fall](https://open.spotify.com/track/7hWt5I5sEA54Za6KKzislx) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good \(+ The Fall\)](https://open.spotify.com/album/2IRmdXQtVBxUdicuQfSaSB) | 3:16 | 2022-06-09 | 2022-06-17 |
 | [The Fall](https://open.spotify.com/track/3C2GQ9qJCbxGRU2Tz5Q51h) | [Zola Jesus](https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P) | [The Fall](https://open.spotify.com/album/2SZY00J8hgqjOdLg49x8fd) | 4:03 | 2022-05-19 | 2022-05-27 |
+| [The Fate Of The One Not Chosen](https://open.spotify.com/track/3vuMrOt51GvnIuI61HwSvw) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [The Fate Of The One Not Chosen](https://open.spotify.com/album/1JGW6r7XiIfGurgJQxNNUo) | 3:35 | 2023-04-28 |  |
 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 | 2023-04-27 |  |
 | [The First](https://open.spotify.com/track/0bTFrDQuTTAhddo73AxHot) | [Ultra Mega Cat Attack](https://open.spotify.com/artist/72GN0dgKapv61MGo3jubDg) | [HEARTBREAK\. REVENGE\. DISCO.](https://open.spotify.com/album/63N9Dtw5YIeZYcXol1menH) | 3:56 | 2023-03-16 | 2023-03-25 |
 | [The Fool](https://open.spotify.com/track/40GNYv0ldvcenD3hxFp1Kn) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [The Fool](https://open.spotify.com/album/1WWlFJw4AvILgammiKMdA0) | 3:26 | 2023-02-23 | 2023-03-03 |
@@ -4818,6 +4820,7 @@
 | [These Are the Ways](https://open.spotify.com/track/1KtXgVTeu3GUXHrOAef6QQ) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Unlimited Love](https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6) | 3:56 | 2022-03-31 | 2022-04-08 |
 | [These Days](https://open.spotify.com/track/3LWZZ5vzhOSMN6u9pgO6Eu) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Covers](https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh) | 3:44 | 2022-01-13 | 2022-01-21 |
 | [These Walls](https://open.spotify.com/track/2lb3E1YcnExmXYqwFOgcCt) | [Faye Risakotta](https://open.spotify.com/artist/6yd6MjAk4TydGHSGdVKFuv), [Jfk](https://open.spotify.com/artist/5HfOvWKnWXUZSF93fdVaaH) | [Mind Of My Own](https://open.spotify.com/album/2v4gwys1kCzfqiB4xAFOdR) | 4:09 | 2022-03-31 | 2022-04-08 |
+| [They Don't Love It](https://open.spotify.com/track/2dSKFFNoNXKo3hPnlwUdPe) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 1:53 | 2023-04-27 |  |
 | [They Want It, But No](https://open.spotify.com/track/0INhc870cm8AiSzujM3OlA) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 2:37 | 2022-11-03 | 2022-11-11 |
 | [They're Gonna Say We're Right \(@leekangseung111\)](https://open.spotify.com/track/4o79zBj46P7i3cqWudJ4v0) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Remake 1.0](https://open.spotify.com/album/6VKe4jcpcrCpBWGVTwiK2J) | 3:29 | 2023-02-09 | 2023-02-17 |
 | [Thin Thing](https://open.spotify.com/track/3DN8g2KmPKwvlyAWCM9mH7) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Thin Thing](https://open.spotify.com/album/7A7EYZELB9Ayjwrp6aWVn2) | 4:30 | 2022-05-12 | 2022-05-20 |
@@ -5467,7 +5470,7 @@
 | [You & I](https://open.spotify.com/track/5kDlNcQvzUjnCok8VvyQFr) | [FIXL](https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li), [RUXOLF](https://open.spotify.com/artist/35UJGn6qRHJ2rWqWJl9ps5), [Koa](https://open.spotify.com/artist/4bTth1ur0qKM60o2f5kEXU) | [You & I](https://open.spotify.com/album/2mpRf1H4DWO32CeCK3Q8z2) | 2:40 | 2022-02-10 | 2022-02-18 |
 | [You & I](https://open.spotify.com/track/0CVNavutuztFlYVqstU81g) | [Irma Seleman](https://open.spotify.com/artist/0iM8LF2TW5zifVLg92DC3p) | [You & I](https://open.spotify.com/album/1wrIqK5013NUzwjr5kH1IG) | 3:05 | 2022-04-07 | 2022-04-15 |
 | [You & I \(Bonus Track\)](https://open.spotify.com/track/5JsHVX0OdClXeghUWhUbqa) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [Gentle Bones \(Deluxe\)](https://open.spotify.com/album/5CFfEHOJ4CSvsRjAMKUQxK) | 2:16 | 2022-04-21 | 2022-04-29 |
-| [You & I \(with Zack Tabudlo\)](https://open.spotify.com/track/2YZRBM2w68HXHgbKaRTlyw) | [Diego Gonzalez](https://open.spotify.com/artist/60uj5nOT1TpQeBRo4ds9fd), [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [You & I](https://open.spotify.com/album/0FPnGwztFm9X3r7C8kyX6l) | 2:32 | 2023-04-27 |  |
+| [You & I \(with Zack Tabudlo\)](https://open.spotify.com/track/2YZRBM2w68HXHgbKaRTlyw) | [Diego Gonzalez](https://open.spotify.com/artist/60uj5nOT1TpQeBRo4ds9fd), [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [You & I \(with Zack Tabudlo\)](https://open.spotify.com/album/0FPnGwztFm9X3r7C8kyX6l) | 2:32 | 2023-04-27 |  |
 | [You & Me](https://open.spotify.com/track/5IMgxq8RcKDt5mstcqcN7G) | [aeriqah](https://open.spotify.com/artist/730kGJlZWMRyL6yHXyC3vb) | [You & Me](https://open.spotify.com/album/0MWm5mfRiRTliyfEejoYEr) | 3:49 | 2022-07-07 | 2022-07-15 |
 | [You & Me](https://open.spotify.com/track/3R8gZnLQnJcCWSbLgLgkQ2) | [TANJUNG](https://open.spotify.com/artist/3ak1W9Pqd8qzBllVATA3Du) | [You & Me](https://open.spotify.com/album/2GdOawr1zQPA5ZQ6KUfmMb) | 3:53 | 2022-12-08 | 2022-12-16 |
 | [You \- Live](https://open.spotify.com/track/66MhEsUuahsQOxNR4RJv9Z) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw) | 3:01 | 2022-03-31 | 2022-04-08 |

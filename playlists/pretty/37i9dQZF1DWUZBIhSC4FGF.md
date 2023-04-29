@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 
 > Relax to some gentle percussion from all corners of the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,349 likes - 70 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,434 likes - 70 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,13 +17,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 | 7 | [C\# Pygmy](https://open.spotify.com/track/6Hxgat5RmLkRvctiIFDr0G) | [Yatao](https://open.spotify.com/artist/4BYqP4YTwWGpi4q94QkW2x), [Malte Marten](https://open.spotify.com/artist/6gmfGQKmOr9z7GTYK7ecEj) | [The Journey](https://open.spotify.com/album/3jpONAMVwLuzRR2A4DOK75) | 8:36 |
 | 8 | [A B S E N T I A \- Udu & Hang Solo](https://open.spotify.com/track/33Q7gzXHp4DVXBgW5apr8o) | [Tempus Fugit Percussion Ensemble](https://open.spotify.com/artist/38VFk9ODFiXZFH1knbI9f0), [Francesco Brianzi](https://open.spotify.com/artist/59QoFNgV8EiF0ANQGrNOBI) | [A B S E N T I A](https://open.spotify.com/album/0fdbdSzgctIY5uayuNTyYW) | 3:19 |
 | 9 | [Morning Light](https://open.spotify.com/track/6TWtWLKQ4uFVbQiNt3S6mD) | [Rand Obaso](https://open.spotify.com/artist/4llVuklNBhZLZsMwifLrIb) | [Ambient Motion](https://open.spotify.com/album/7IYI6B0YtAV5kXpuyIOwTK) | 3:09 |
-| 10 | [Three Preludes for Marimba \- N.1 E minor](https://open.spotify.com/track/7lp1HBbTLbLrLGUINqJqwO) | [Ney Rosauro](https://open.spotify.com/artist/0flSAgCmKV5vgWQeaWpzvS) | [Ney Rosauro In Concert](https://open.spotify.com/album/0H78Dn3TILtGQZI0V8INNz) | 4:05 |
-| 11 | [African Games](https://open.spotify.com/track/75E60HGE8xcd667O1Thayz) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [Worship African Experience: Shamanic Serenity, Relaxing Drums, Tribal Meditation](https://open.spotify.com/album/1YasVpcLqeQPWSFDsHHOOt) | 1:52 |
-| 12 | [On a Different River](https://open.spotify.com/track/77Kr0KenZf9DCE1kbqQeEt) | [Pranayama Squad](https://open.spotify.com/artist/4Fn6NIKAqZ7P7kUG39RG7w) | [On a Different River](https://open.spotify.com/album/1iquYW5s00pGdRbOrOz0OK) | 3:51 |
-| 13 | [Moods\-Bottom](https://open.spotify.com/track/0G8momaafJ03OpLjnhBciX) | [Davide Swarup](https://open.spotify.com/artist/6QOnII7AhBs2LR471krdEM) | [Music for Hang](https://open.spotify.com/album/4wQL5Z7ASoC4ZOgsqEPbfv) | 7:10 |
-| 14 | [Day Dream](https://open.spotify.com/track/4ySaCVsJqGuiMDinbNf4tU) | [HandpanSolo](https://open.spotify.com/artist/2pOoggox0xym6qeDd6QStQ) | [Day Dream](https://open.spotify.com/album/5bQ31vPL6DlRcQ3Y8BHE3z) | 3:47 |
-| 15 | [Hypnosis Practice](https://open.spotify.com/track/12pXI6fOqygBSA2YO4SLCH) | [Spiritual Power Control](https://open.spotify.com/artist/0S2L6cMzog6TyuZsNhK20s), [Emotional Healing Intrumental Academy](https://open.spotify.com/artist/62HQ6hBQ9kqrjRyvoGHst6) | [Tongue Drum Healing Sounds \- Calm Your Negative Emotions and Relax with the Gentle Sounds of Instruments, Reiki Music, Meditation, Yoga](https://open.spotify.com/album/3mlaOHaA232Kv4kJD07Btz) | 3:36 |
-| 16 | [Indian Trance](https://open.spotify.com/track/29EphovzWC9fG1yzfqCZLp) | [Shamanic Drumming World](https://open.spotify.com/artist/3B6W7sM7HLbRi9Min5tU56) | [The Last Apache: Shamanic Meditation \- Native American Music, Tribal Journey of Indian Spirit](https://open.spotify.com/album/1GFvZKHPeGBbNXhBFQdPHj) | 4:35 |
+| 10 | [Centered Spirit \- Ambient Version](https://open.spotify.com/track/1xLhsy4qiordPRCnj4NpQt) | [Spiritual Frequencies](https://open.spotify.com/artist/5gUJK8QwnYlsLRnxepd7A5) | [Breath of Life \(Ambient Version\)](https://open.spotify.com/album/4tG5810LflwIHC76A1xo8r) | 2:20 |
+| 11 | [Three Preludes for Marimba \- N.1 E minor](https://open.spotify.com/track/7lp1HBbTLbLrLGUINqJqwO) | [Ney Rosauro](https://open.spotify.com/artist/0flSAgCmKV5vgWQeaWpzvS) | [Ney Rosauro In Concert](https://open.spotify.com/album/0H78Dn3TILtGQZI0V8INNz) | 4:05 |
+| 12 | [African Games](https://open.spotify.com/track/75E60HGE8xcd667O1Thayz) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [Worship African Experience: Shamanic Serenity, Relaxing Drums, Tribal Meditation](https://open.spotify.com/album/1YasVpcLqeQPWSFDsHHOOt) | 1:52 |
+| 13 | [On a Different River](https://open.spotify.com/track/77Kr0KenZf9DCE1kbqQeEt) | [Pranayama Squad](https://open.spotify.com/artist/4Fn6NIKAqZ7P7kUG39RG7w) | [On a Different River](https://open.spotify.com/album/1iquYW5s00pGdRbOrOz0OK) | 3:51 |
+| 14 | [Moods\-Bottom](https://open.spotify.com/track/0G8momaafJ03OpLjnhBciX) | [Davide Swarup](https://open.spotify.com/artist/6QOnII7AhBs2LR471krdEM) | [Music for Hang](https://open.spotify.com/album/4wQL5Z7ASoC4ZOgsqEPbfv) | 7:10 |
+| 15 | [Day Dream](https://open.spotify.com/track/4ySaCVsJqGuiMDinbNf4tU) | [HandpanSolo](https://open.spotify.com/artist/2pOoggox0xym6qeDd6QStQ) | [Day Dream](https://open.spotify.com/album/5bQ31vPL6DlRcQ3Y8BHE3z) | 3:47 |
+| 16 | [Hypnosis Practice](https://open.spotify.com/track/12pXI6fOqygBSA2YO4SLCH) | [Spiritual Power Control](https://open.spotify.com/artist/0S2L6cMzog6TyuZsNhK20s), [Emotional Healing Intrumental Academy](https://open.spotify.com/artist/62HQ6hBQ9kqrjRyvoGHst6) | [Tongue Drum Healing Sounds \- Calm Your Negative Emotions and Relax with the Gentle Sounds of Instruments, Reiki Music, Meditation, Yoga](https://open.spotify.com/album/3mlaOHaA232Kv4kJD07Btz) | 3:36 |
 | 17 | [Hollow Sphere](https://open.spotify.com/track/2QucioZmCDIoiteQwueRoQ) | [Galtritandos](https://open.spotify.com/artist/4QyQTLlakG31IZkXiacgpA) | [Hollow Sphere](https://open.spotify.com/album/3afn9cElA2dCZwhpcdMHP9) | 2:36 |
 | 18 | [Shamanic Journeywork](https://open.spotify.com/track/76grNKEDQdFpMIftWZP3BY) | [Shamanic Journey Drumming](https://open.spotify.com/artist/10eDAAmRvolRXSFsGAT8Ht) | [Shamanic Journey Drumming](https://open.spotify.com/album/1C3dY4h7p3auKgPknDmq9v) | 3:54 |
 | 19 | [whisper](https://open.spotify.com/track/5MUvU7ylgZmnSjwXuquLXZ) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [whisper](https://open.spotify.com/album/0DrbR3dm2neCYUb3Qib5JA) | 2:34 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 | 69 | [Mystic Rhythms](https://open.spotify.com/track/4KB0XyhLTyPoZyLjodRGne) | [Deep Meditation](https://open.spotify.com/artist/2fqkqEsGgtIToaqV8snUV6) | [Deep Meditation](https://open.spotify.com/album/6E9qV9HvDHkmSEgx5pqUEO) | 2:15 |
 | 70 | [Meditation Hang](https://open.spotify.com/track/271abQ3QNCSWfqZqHva4zL) | [Ebenholthz](https://open.spotify.com/artist/638ZZLvfjyR45K1N6yD5Ip) | [Meditation Hang](https://open.spotify.com/album/7eHNKcRzBykX6q5Xyf9U5N) | 2:58 |
 
-Snapshot ID: `MCwyMjNjMDFjYzZhYmVjNjk2NDQ3Nzk1MDZmZWIyMzI4YzFmZGEwMDRl`
+Snapshot ID: `MCw4Nzk2OGVlNjYwOTdlOWZlMWE2ZjNiMmIzMTM2NzVhNDY3NzMxMWU3`

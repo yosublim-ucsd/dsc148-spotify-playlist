@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 
 > Trace the history of Jazz from timeless classics to boundary\-breaking contemporary favorites from the women of Jazz\. Cover: Diana Krall
 
-[Spotify](https://open.spotify.com/user/spotify) - 842,325 likes - 126 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 842,437 likes - 126 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 | 66 | [Fever](https://open.spotify.com/track/4Ke1CYcm2wYDFlOhziFFjK) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [All Aglow Again!](https://open.spotify.com/album/3RXdzJHsQSxpucVGBcsgOP) | 3:22 |
 | 67 | [Blue Moon](https://open.spotify.com/track/6iRmzLNOLg0HqSM9y8hhUp) | [Rebecca Ferguson](https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca) | [Lady Sings the Blues](https://open.spotify.com/album/6ZdKc2ZMEQnhPCjB2NL2ys) | 2:50 |
 | 68 | [Bring Him Home](https://open.spotify.com/track/56n3i3qXPMDuEfU4maiBK6) | [Melissa Aldana & Crash Trio](https://open.spotify.com/artist/34IAv54nMtYZTtX3QVHDvL) | [Melissa Aldana & Crash Trio](https://open.spotify.com/album/24SzTzOtzYObsSaqgMEIw1) | 5:09 |
-| 69 | [Petite fleur](https://open.spotify.com/track/6Xy0TKhM0Ytjt65QuVEN67) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chansons](https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp) | 2:43 |
+| 69 | [Petite fleur](https://open.spotify.com/track/2ofpkaYjXD16Lvyteh3QjW) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chansons](https://open.spotify.com/album/2BbY1j3Omk7pQsDKjl3r7w) | 2:43 |
 | 70 | [Real & Imagined](https://open.spotify.com/track/6YKYdsX76JCq5CkIy8eON4) | [Kait Dunton](https://open.spotify.com/artist/2uKlChPlTr6ONNvdtjZdRs) | [Real & Imagined](https://open.spotify.com/album/5oQK5juKTS7AawRCxFi3wb) | 7:45 |
 | 71 | [Lagoon](https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lagoon](https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE) | 4:15 |
 | 72 | [Send In The Clowns](https://open.spotify.com/track/08fkvamJMu9uhyJeJnu1ki) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | ['Round Midnight](https://open.spotify.com/album/32lTnM9ph7JPKaFhzAXqty) | 4:48 |
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 | 87 | [Worrisome Heart](https://open.spotify.com/track/3zh5km8gPDYMiWvmLTsos0) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Worrisome Heart](https://open.spotify.com/album/5ahEd7berYIgjRYsIHZa8Y) | 4:21 |
 | 88 | [Leaping Up](https://open.spotify.com/track/2s9dOhFTlvqz4zGkelQ0Ro) | [MEGTARO](https://open.spotify.com/artist/3o3JLHE1KQzNc2wh46UiNI) | [Newselves](https://open.spotify.com/album/3HJTUfUEzmkCHyGqSPEf24) | 7:33 |
 | 89 | [If You Could See Me Now](https://open.spotify.com/track/1yDPuRttnvxpTsh402ySUH) | [Vanessa Rubin](https://open.spotify.com/artist/5Oe8V83r2RhPPuhnRH5saQ) | [The Dream Is You: Vanessa Rubin Sings Tadd Dameron](https://open.spotify.com/album/3cDsafLbjQuDNGxpuXdwXO) | 7:10 |
-| 90 | [Plain Gold Ring](https://open.spotify.com/track/0qmB617DPQzWDtOud8mMBr) | [Zara McFarlane](https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo) | [If You Knew Her](https://open.spotify.com/album/193bc1u332JaugMRrR0U2g) | 4:25 |
+| 90 | [Plain Gold Ring](https://open.spotify.com/track/6T85DjTrwiWpKbHyH4139E) | [Zara McFarlane](https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo) | [If You Knew Her](https://open.spotify.com/album/5i3Kx7Nd8VIKvwijUSmC6T) | 4:25 |
 | 91 | ["It’s A Good Day"](https://open.spotify.com/track/0zIqs8nFS5eHLgL0ZprFuP) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [Kay Starr: the Best of The Standard Transcriptions](https://open.spotify.com/album/76OGDz0wNcsSAaNAu3t4Zx) | 1:59 |
 | 92 | [Falling In Love With Love](https://open.spotify.com/track/4yv0zk9Xn0QxOcJHXUy8Jh) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Giants Of Jazz: Eliane Elias](https://open.spotify.com/album/1l0YJVQc77qZVy9qFyKiEh) | 6:26 |
 | 93 | [Lost In A Blue Note](https://open.spotify.com/track/29dFStdDNJHdgGPhwyKdbB) | [April Barrows](https://open.spotify.com/artist/49Pr1w34iIV8qlIcnsLdwQ) | [My Dream is You](https://open.spotify.com/album/26ACa71xPjvov8cZ4Rai52) | 4:24 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 | 125 | [Lullaby Of Birdland](https://open.spotify.com/track/5z161QQZMgQxSILnv3QoJk) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 4:00 |
 | 126 | [My Favourite Things](https://open.spotify.com/track/5RzDUxNC7hKjr8eTEX8n6b) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 1:38 |
 
-Snapshot ID: `MCwzMjRiYTY3YTQyODE5Yjg0NzkyYmEyMzU1NGFmNjhjOWY1ODI5NTc0`
+Snapshot ID: `MCxiNzUyMGQyZmNiMjBhNmVhNjRkZmY4M2RhYWM2ZGE4YjI1ZjBjNTQ4`

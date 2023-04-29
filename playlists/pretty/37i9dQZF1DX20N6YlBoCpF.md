@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Net die nuutste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu?si=08iIfRLmQOut8RcVcUBeHw">Prop</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,661 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,694 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,20 +28,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 18 | [Boeremeisie](https://open.spotify.com/track/2jfNsXSHjMm0XQlE5RR6p1) | [Zander van Wyk](https://open.spotify.com/artist/1IvM3qTeipluXahp3qVbRt) | [Boeremeisie](https://open.spotify.com/album/3mGCOx0NJRHAGVCdoy2tiU) | 3:51 |
 | 19 | [Vergeet My Hier](https://open.spotify.com/track/1MYJPZHmnRcoHemHr9Su8S) | [Stephan Visagie](https://open.spotify.com/artist/2h1s5akGU3fealiouNkYds), [Henri Alant](https://open.spotify.com/artist/64Y5vIEzgTcde6q9zndRH4) | [Vergeet My Hier](https://open.spotify.com/album/45KsVqzl4HaaNrXOSaVHkN) | 3:17 |
 | 20 | [Kettiekind](https://open.spotify.com/track/6ecISaRk7wWrLrb69tRCXV) | [Marisa](https://open.spotify.com/artist/3D5LWS4lYmwbw8IvEbvDC5) | [Kettiekind](https://open.spotify.com/album/1QucS4MzIumUUEj2yWdLQJ) | 3:31 |
-| 21 | [Kleintjie](https://open.spotify.com/track/4QbAFKHU08d9Ecko8P1Xnk) | [Wikus Botma](https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io) | [Kleintjie](https://open.spotify.com/album/2BqvLKSqRQwnLG1DMVumfH) | 2:59 |
-| 22 | [Sexy Time](https://open.spotify.com/track/1498BZFUe7DO4iKjYqzbe5) | [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN), [Early B](https://open.spotify.com/artist/7jHhWbZTn8I9ZJLFNgorqp) | [Sexy Time](https://open.spotify.com/album/5XxHLRFUQQEk6ZzAKZUifM) | 3:10 |
-| 23 | [Lag Lag](https://open.spotify.com/track/6GvEegpm81SNzOuKD7wl0t) | [Reggie Peace](https://open.spotify.com/artist/1U2c2BI4Lt5LEwT3OyxW5T) | [Lag Lag](https://open.spotify.com/album/1JVtFftgFU08JMATdT6JSt) | 3:48 |
-| 24 | [Hart van Klip](https://open.spotify.com/track/05jx6R2VzJ1ahVbVE7yPqj) | [Elvis Blue](https://open.spotify.com/artist/66TsrRnVkNfvLgLemHCLaJ) | [Hart van Klip](https://open.spotify.com/album/3i2X3qLYSXxiaPZ6zpFjzE) | 3:55 |
-| 25 | [Ek Wil Jou Nie Laat Gaan Nie](https://open.spotify.com/track/3cUi5Z3sHGz9UEhfuYZssc) | [B+C](https://open.spotify.com/artist/3K4syqj9H8aPFqQF65Nvi9), [Anrii](https://open.spotify.com/artist/1O0CA4D9Kyv1zpl1WSPrFN) | [Ek Wil Jou Nie Laat Gaan Nie](https://open.spotify.com/album/34bL6pXaO4UGrjYF7iwP59) | 3:44 |
-| 26 | [Vat 5](https://open.spotify.com/track/1tERAe58iLcA5fkoOicFaR) | [Riaan Grobler](https://open.spotify.com/artist/6iwer4syGzZ82grPiCUt4u) | [Vat 5](https://open.spotify.com/album/1hyfXs1kxA2JOhxwmZaCYY) | 3:33 |
-| 27 | [Bakkie Balle](https://open.spotify.com/track/7bFQlTIM5Tr0PISjYDe2Zy) | [Robbie Wessels](https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO) | [Bakkie Balle](https://open.spotify.com/album/1KN77LThfGJkx5K8pIicOM) | 3:02 |
-| 28 | [As die wêreld groter was](https://open.spotify.com/track/2x9ABv2DMU56b6vJUzjcst) | [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN), [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [As die wêreld groter was](https://open.spotify.com/album/4V1D4BeFVFgkkaOXVeOy5j) | 2:59 |
-| 29 | [Die Een](https://open.spotify.com/track/6M8I6dVjwXVdzJaQ3TjBh8) | [Deon Groot](https://open.spotify.com/artist/68BEr1czs88WHBlzZA25DA) | [Die Een](https://open.spotify.com/album/4WiSBEWYEPsJgTyM793XTA) | 3:44 |
-| 30 | [Lammergeier](https://open.spotify.com/track/7fYELnegsjMM0ekzu6lRBe) | [Neil Sandilands](https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY) | [Lammergeier](https://open.spotify.com/album/7dCkVGNUO2nQdOXmrtc838) | 4:37 |
-| 31 | [Coco Pops en Kaas](https://open.spotify.com/track/47a7yKmqL4y49StvHnrT0Y) | [Nicholis Louw](https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI) | [Coco Pops en Kaas](https://open.spotify.com/album/7eX7oEbmqlgWrMeWP4CAA1) | 4:02 |
-| 32 | [Dis Jy](https://open.spotify.com/track/56YlDobcg3BNFPYpZItGks) | [Alouise](https://open.spotify.com/artist/7KInqkz6l03usNvPrh3jry) | [Dis Jy](https://open.spotify.com/album/1JOeC8VnA5FjRH9o33jfyX) | 2:53 |
-| 33 | [Willemiena Van Gezina](https://open.spotify.com/track/6DL9Lejno5xdGRl0gwLwP9) | [Pieter Smith](https://open.spotify.com/artist/436epCFSdTxQ6EtvKmOg26) | [Willemiena Van Gezina](https://open.spotify.com/album/4wMtEK7o7S37aebSotkFb0) | 2:58 |
-| 34 | [Avontuur](https://open.spotify.com/track/4i8Ceyv4dclgqcdPExRQ4g) | [Wesna](https://open.spotify.com/artist/5A4OIWNp0FyYdgvxXnMWWl) | [Avontuur](https://open.spotify.com/album/7kdQpbelUuKoJDixXMEziu) | 3:44 |
+| 21 | [Vuur](https://open.spotify.com/track/54w0BzJuC5qg4TdysVPS96) | [KrisJan](https://open.spotify.com/artist/1w2S4eToz18BlT0Cei19S0) | [Vuur](https://open.spotify.com/album/2Ec7VBuRjn5bfw6Qf3yBEk) | 3:57 |
+| 22 | [Kleintjie](https://open.spotify.com/track/4QbAFKHU08d9Ecko8P1Xnk) | [Wikus Botma](https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io) | [Kleintjie](https://open.spotify.com/album/2BqvLKSqRQwnLG1DMVumfH) | 2:59 |
+| 23 | [Sexy Time](https://open.spotify.com/track/1498BZFUe7DO4iKjYqzbe5) | [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN), [Early B](https://open.spotify.com/artist/7jHhWbZTn8I9ZJLFNgorqp) | [Sexy Time](https://open.spotify.com/album/5XxHLRFUQQEk6ZzAKZUifM) | 3:10 |
+| 24 | [Lag Lag](https://open.spotify.com/track/6GvEegpm81SNzOuKD7wl0t) | [Reggie Peace](https://open.spotify.com/artist/1U2c2BI4Lt5LEwT3OyxW5T) | [Lag Lag](https://open.spotify.com/album/1JVtFftgFU08JMATdT6JSt) | 3:48 |
+| 25 | [Hart van Klip](https://open.spotify.com/track/05jx6R2VzJ1ahVbVE7yPqj) | [Elvis Blue](https://open.spotify.com/artist/66TsrRnVkNfvLgLemHCLaJ) | [Hart van Klip](https://open.spotify.com/album/3i2X3qLYSXxiaPZ6zpFjzE) | 3:55 |
+| 26 | [Ek Wil Jou Nie Laat Gaan Nie](https://open.spotify.com/track/3cUi5Z3sHGz9UEhfuYZssc) | [B+C](https://open.spotify.com/artist/3K4syqj9H8aPFqQF65Nvi9), [Anrii](https://open.spotify.com/artist/1O0CA4D9Kyv1zpl1WSPrFN) | [Ek Wil Jou Nie Laat Gaan Nie](https://open.spotify.com/album/34bL6pXaO4UGrjYF7iwP59) | 3:44 |
+| 27 | [Vat 5](https://open.spotify.com/track/1tERAe58iLcA5fkoOicFaR) | [Riaan Grobler](https://open.spotify.com/artist/6iwer4syGzZ82grPiCUt4u) | [Vat 5](https://open.spotify.com/album/1hyfXs1kxA2JOhxwmZaCYY) | 3:33 |
+| 28 | [Bakkie Balle](https://open.spotify.com/track/7bFQlTIM5Tr0PISjYDe2Zy) | [Robbie Wessels](https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO) | [Bakkie Balle](https://open.spotify.com/album/1KN77LThfGJkx5K8pIicOM) | 3:02 |
+| 29 | [As die wêreld groter was](https://open.spotify.com/track/2x9ABv2DMU56b6vJUzjcst) | [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN), [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [As die wêreld groter was](https://open.spotify.com/album/4V1D4BeFVFgkkaOXVeOy5j) | 2:59 |
+| 30 | [Die Een](https://open.spotify.com/track/6M8I6dVjwXVdzJaQ3TjBh8) | [Deon Groot](https://open.spotify.com/artist/68BEr1czs88WHBlzZA25DA) | [Die Een](https://open.spotify.com/album/4WiSBEWYEPsJgTyM793XTA) | 3:44 |
+| 31 | [Lammergeier](https://open.spotify.com/track/7fYELnegsjMM0ekzu6lRBe) | [Neil Sandilands](https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY) | [Lammergeier](https://open.spotify.com/album/7dCkVGNUO2nQdOXmrtc838) | 4:37 |
+| 32 | [Coco Pops en Kaas](https://open.spotify.com/track/47a7yKmqL4y49StvHnrT0Y) | [Nicholis Louw](https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI) | [Coco Pops en Kaas](https://open.spotify.com/album/7eX7oEbmqlgWrMeWP4CAA1) | 4:02 |
+| 33 | [Dis Jy](https://open.spotify.com/track/56YlDobcg3BNFPYpZItGks) | [Alouise](https://open.spotify.com/artist/7KInqkz6l03usNvPrh3jry) | [Dis Jy](https://open.spotify.com/album/1JOeC8VnA5FjRH9o33jfyX) | 2:53 |
+| 34 | [Willemiena Van Gezina](https://open.spotify.com/track/6DL9Lejno5xdGRl0gwLwP9) | [Pieter Smith](https://open.spotify.com/artist/436epCFSdTxQ6EtvKmOg26) | [Willemiena Van Gezina](https://open.spotify.com/album/4wMtEK7o7S37aebSotkFb0) | 2:58 |
 | 35 | [Klein Botteltjie Groot Gif](https://open.spotify.com/track/5GXXuXipaXZpZxdfieXzSg) | [Anzélle](https://open.spotify.com/artist/5z6yUIAu8Em61VSjf5oiBs) | [Klein Botteltjie Groot Gif](https://open.spotify.com/album/2DwrLebY1DbcGMT8QfGeOD) | 3:29 |
 | 36 | [Partytjie Slaap Herhaal](https://open.spotify.com/track/5G9Gg9JtFDbbCUSjw1y3b0) | [Armand Hofmeyr](https://open.spotify.com/artist/5PH4LwIhIerQCgMZrsQuIh) | [Partytjie Slaap Herhaal](https://open.spotify.com/album/0HSsTlnjrsWTpemTJWWwhZ) | 3:20 |
 | 37 | [Vleisvreters](https://open.spotify.com/track/63RtO5V94GhSGYvZEucg4h) | [Neil Somers](https://open.spotify.com/artist/1jO22tNfag5lkLQboj0npK), [Adam Tas](https://open.spotify.com/artist/011KRXCsnsSuCGsY0Enq5r) | [Vleisvreters](https://open.spotify.com/album/6wWrTYihuyhLCpz8C4OLxQ) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 49 | [Nora Vlok](https://open.spotify.com/track/6TVcrV4TEhQiuKjU5Tactz) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Nora Vlok](https://open.spotify.com/album/28mbGMQoZuM1kwHrKpgLfs) | 3:07 |
 | 50 | [Skrik Vir Niks \(Van Die Snotkop Movie: Skrik Vir Niks\)](https://open.spotify.com/track/0N0aty9herXHmfNEzasQT1) | [Snotkop](https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J) | [Skrik Vir Niks \(Van Die Snotkop Movie: Skrik Vir Niks\)](https://open.spotify.com/album/1qwFb54zWa4KS1W0swu093) | 3:19 |
 
-Snapshot ID: `MCxiNDdjY2E3YzNjZGUzMjEzNTAyNGVmNmQ2NzQwYzA2OTcyODYzYzJi`
+Snapshot ID: `MCxmYWM3NTk5MzQ1MWM1YWQ2MGRkMmQyOGRiY2Y4Yjc1OGQ5OTVlNWEz`

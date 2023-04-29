@@ -78,7 +78,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 277666,
       "name": "Alright",
       "url": "https://open.spotify.com/track/1wRQqmZwiF4thdQ8N7FiNv"
@@ -374,6 +374,24 @@
       "duration_ms": 247792,
       "name": "Chocolate Pomegranate",
       "url": "https://open.spotify.com/track/67M0ONQYZV4MmD7QyhNvz3"
+    },
+    {
+      "album": {
+        "name": "Fan-Tas-Tic, Vol. 2",
+        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211892,
+      "name": "Climax",
+      "url": "https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH"
     },
     {
       "album": {
@@ -1082,7 +1100,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 201333,
       "name": "If Only",
       "url": "https://open.spotify.com/track/4jyU03J2YOhRxgOHit2auK"
@@ -1448,7 +1466,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 249106,
       "name": "Movies",
       "url": "https://open.spotify.com/track/7lBETHInBVdFrKhC9J24H0"

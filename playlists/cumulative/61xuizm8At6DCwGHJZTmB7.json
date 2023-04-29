@@ -407,6 +407,28 @@
     },
     {
       "album": {
+        "name": "Be Glorified (Live)",
+        "url": "https://open.spotify.com/album/59UQIY7Llrc3aZgXNxFEnK"
+      },
+      "artists": [
+        {
+          "name": "Lindy Cofer",
+          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
+        },
+        {
+          "name": "Circuit Rider Music",
+          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446369,
+      "name": "Be Glorified - Live",
+      "url": "https://open.spotify.com/track/0WIfQN8w8EZIjbCeJfXBn2"
+    },
+    {
+      "album": {
         "name": "Beautiful People",
         "url": "https://open.spotify.com/album/0vLDQv07AMn6PTuQT61I5G"
       },
@@ -5070,6 +5092,24 @@
       "duration_ms": 256036,
       "name": "The Kindness Of The Cross",
       "url": "https://open.spotify.com/track/5NkRkMWyUaIFnfBTdccuqX"
+    },
+    {
+      "album": {
+        "name": "Closer Than You Think",
+        "url": "https://open.spotify.com/album/3ZPJpdPrrLgi4rxoXSYLKP"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262151,
+      "name": "The King Is On The Way",
+      "url": "https://open.spotify.com/track/530DokdFbJqxMVU1wHQyVs"
     },
     {
       "album": {

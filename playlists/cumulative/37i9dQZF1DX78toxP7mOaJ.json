@@ -3326,6 +3326,24 @@
     {
       "album": {
         "name": "Crimson to Chrome",
+        "url": "https://open.spotify.com/album/4AxFhcAdZ2mZQsijvKpcOr"
+      },
+      "artists": [
+        {
+          "name": "Friko",
+          "url": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208640,
+      "name": "Crimson to Chrome",
+      "url": "https://open.spotify.com/track/51z0dKznDBCOYTumpGJXoj"
+    },
+    {
+      "album": {
+        "name": "Crimson to Chrome",
         "url": "https://open.spotify.com/album/2QzqfzIEOEOsT5edrAyniD"
       },
       "artists": [
@@ -3336,7 +3354,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 208640,
       "name": "Crimson to Chrome",
       "url": "https://open.spotify.com/track/7Glc8vWNMAozw6DDK9KMm7"
@@ -9004,10 +9022,28 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 151493,
       "name": "Lose the Shoes",
       "url": "https://open.spotify.com/track/2jXhuA9SU1NvrNzci2kdSe"
+    },
+    {
+      "album": {
+        "name": "Lose the Shoes",
+        "url": "https://open.spotify.com/album/7EQCC4jW26E24NkReakwv3"
+      },
+      "artists": [
+        {
+          "name": "Holm",
+          "url": "https://open.spotify.com/artist/5AiyVqvMHyMNysmAYdo7ZQ"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151493,
+      "name": "Lose the Shoes",
+      "url": "https://open.spotify.com/track/5VKvzYYYR0sFhBbjZgcugi"
     },
     {
       "album": {

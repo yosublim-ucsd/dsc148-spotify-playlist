@@ -1,12 +1,12 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 321636,
+  "num_followers": 321672,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTBiYmViZTY4MzFlNThkYjFjMmNiYWI5ZjgxYTJmYWQwMGE5ZWRj",
+  "snapshot_id": "MCxhNTExYzgxNzU4ZGFhOGZkOGM5Mzg2M2M2ZjQ4OTUxYjQ1YTQ1ODc1",
   "tracks": [
     {
       "added_at": "2022-10-07 03:01:33",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Mar\u00edlia Mendon\u00e7a - Ao Vivo",
-        "url": "https://open.spotify.com/album/0qy6yZjgoZ2cGGk9joy8E4"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 201904,
-      "name": "Infiel - Ao Vivo",
-      "url": "https://open.spotify.com/track/38MpAndIjGAyVdcC6npX95"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "The Astrud Gilberto Album",
         "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 138013,
       "name": "\u00c1gua de Beber",
       "url": "https://open.spotify.com/track/3QKJELWORZZ7rUZDWeMWSA"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Mar\u00edlia Mendon\u00e7a - Ao Vivo",
+        "url": "https://open.spotify.com/album/0qy6yZjgoZ2cGGk9joy8E4"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 201904,
+      "name": "Infiel - Ao Vivo",
+      "url": "https://open.spotify.com/track/38MpAndIjGAyVdcC6npX95"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -387,6 +387,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Monomania",
+        "url": "https://open.spotify.com/album/7HpyNnONRvryrDxanTrysA"
+      },
+      "artists": [
+        {
+          "name": "Clarice Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d"
+        }
+      ],
+      "duration_ms": 217756,
+      "name": "Eu Me Lembro",
+      "url": "https://open.spotify.com/track/3g2mIjzQJhOLcloOnJcZJe"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "50 Reais",
         "url": "https://open.spotify.com/album/6h6dMRdrULxgTAcDUPoQa6"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 207104,
       "name": "50 Reais",
       "url": "https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Monomania",
-        "url": "https://open.spotify.com/album/7HpyNnONRvryrDxanTrysA"
-      },
-      "artists": [
-        {
-          "name": "Clarice Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d"
-        }
-      ],
-      "duration_ms": 217756,
-      "name": "Eu Me Lembro",
-      "url": "https://open.spotify.com/track/3g2mIjzQJhOLcloOnJcZJe"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -559,26 +559,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Peter Pan",
-        "url": "https://open.spotify.com/album/55KHEIHNfQMBfuJ0JSpd5W"
-      },
-      "artists": [
-        {
-          "name": "Groove Delight",
-          "url": "https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn"
-        },
-        {
-          "name": "Samantha Machado",
-          "url": "https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY"
-        }
-      ],
-      "duration_ms": 155851,
-      "name": "Peter Pan",
-      "url": "https://open.spotify.com/track/2izzg0ootMWve10LHVhFcx"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "N\u00f3s VOZ Eles",
         "url": "https://open.spotify.com/album/7BPwhaHjhjWTwIopJY6FTK"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 215116,
       "name": "Pra Me Refazer",
       "url": "https://open.spotify.com/track/1KIMRoLleFJCwABBrlAOPI"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Peter Pan",
+        "url": "https://open.spotify.com/album/55KHEIHNfQMBfuJ0JSpd5W"
+      },
+      "artists": [
+        {
+          "name": "Groove Delight",
+          "url": "https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn"
+        },
+        {
+          "name": "Samantha Machado",
+          "url": "https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY"
+        }
+      ],
+      "duration_ms": 155851,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/2izzg0ootMWve10LHVhFcx"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Sandra de S\u00e1 - 1982",
-        "url": "https://open.spotify.com/album/7wB73SnTyYvV1PV0XNP9ol"
-      },
-      "artists": [
-        {
-          "name": "Sandra De S\u00e1",
-          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
-        }
-      ],
-      "duration_ms": 267266,
-      "name": "Olhos Coloridos",
-      "url": "https://open.spotify.com/track/45XopGhwYSgooiewaZNsSd"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
         "url": "https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 271293,
       "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
       "url": "https://open.spotify.com/track/5nBrdTO6k3DJZJdB6IRp1c"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Sandra de S\u00e1 - 1982",
+        "url": "https://open.spotify.com/album/7wB73SnTyYvV1PV0XNP9ol"
+      },
+      "artists": [
+        {
+          "name": "Sandra De S\u00e1",
+          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
+        }
+      ],
+      "duration_ms": 267266,
+      "name": "Olhos Coloridos",
+      "url": "https://open.spotify.com/track/45XopGhwYSgooiewaZNsSd"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Solo Seduzente",
+        "url": "https://open.spotify.com/album/695pxPi1SfU2YlPwi0aqoC"
+      },
+      "artists": [
+        {
+          "name": "Dani Russo",
+          "url": "https://open.spotify.com/artist/3hO9no9q7NErmoSlsAjJ2r"
+        }
+      ],
+      "duration_ms": 125990,
+      "name": "Solo Seduzente",
+      "url": "https://open.spotify.com/track/7Molz97Ff2Bn8ToET7GUea"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Silencia",
         "url": "https://open.spotify.com/album/4Yft0S0ZM9u4m7AlN5wzkF"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 280946,
       "name": "Quer Ir no Meu Show ?",
       "url": "https://open.spotify.com/track/4bni91rf5R2zF6xElZY5la"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Solo Seduzente",
-        "url": "https://open.spotify.com/album/695pxPi1SfU2YlPwi0aqoC"
-      },
-      "artists": [
-        {
-          "name": "Dani Russo",
-          "url": "https://open.spotify.com/artist/3hO9no9q7NErmoSlsAjJ2r"
-        }
-      ],
-      "duration_ms": 125990,
-      "name": "Solo Seduzente",
-      "url": "https://open.spotify.com/track/7Molz97Ff2Bn8ToET7GUea"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Sla Radical Dance Disco Club",
-        "url": "https://open.spotify.com/album/0HHFfVAOIzKegm7pCAjHAh"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Abreu",
-          "url": "https://open.spotify.com/artist/23T5kuXiRZWsH5w1lxowMh"
-        }
-      ],
-      "duration_ms": 267468,
-      "name": "Voc\u00ea Pra Mim",
-      "url": "https://open.spotify.com/track/2vqdtqRq1EY4cMwX9FkDCz"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Hitz\u00e3o da Porra",
         "url": "https://open.spotify.com/album/5FnDUJMFoExQFtycmhg5dZ"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 132224,
       "name": "Hitz\u00e3o da Porra",
       "url": "https://open.spotify.com/track/6WIP2ysmvfkPyAc4c2bD6O"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Sla Radical Dance Disco Club",
+        "url": "https://open.spotify.com/album/0HHFfVAOIzKegm7pCAjHAh"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Abreu",
+          "url": "https://open.spotify.com/artist/23T5kuXiRZWsH5w1lxowMh"
+        }
+      ],
+      "duration_ms": 267468,
+      "name": "Voc\u00ea Pra Mim",
+      "url": "https://open.spotify.com/track/2vqdtqRq1EY4cMwX9FkDCz"
     },
     {
       "added_at": "2022-10-07 03:01:33",

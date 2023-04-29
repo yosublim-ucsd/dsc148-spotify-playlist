@@ -4966,10 +4966,28 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 231093,
       "name": "Widow's Peak",
       "url": "https://open.spotify.com/track/70rmykCzXyK5F4Xzh3xLww"
+    },
+    {
+      "album": {
+        "name": "Old Rockhounds Never Die",
+        "url": "https://open.spotify.com/album/32Qe8dNUwWqPzsXn9efgz8"
+      },
+      "artists": [
+        {
+          "name": "Odetta Hartman",
+          "url": "https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231093,
+      "name": "Widow's Peak",
+      "url": "https://open.spotify.com/track/7HZXCvX14bnNOW0o8AbAmA"
     },
     {
       "album": {
@@ -5106,6 +5124,24 @@
     {
       "album": {
         "name": "If & When",
+        "url": "https://open.spotify.com/album/6GXJtDoA91nfEe8uGx7bLr"
+      },
+      "artists": [
+        {
+          "name": "Margaret Glaspy",
+          "url": "https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213252,
+      "name": "You're Smiling (But I Don't Believe You)",
+      "url": "https://open.spotify.com/track/2DAZVjPtxykwQiHmAuK68q"
+    },
+    {
+      "album": {
+        "name": "If & When",
         "url": "https://open.spotify.com/album/3XnbZU5JpcMK6D5wo6f3Qg"
       },
       "artists": [
@@ -5134,7 +5170,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 213252,
       "name": "You're Smiling (But I Don't Believe You)",
       "url": "https://open.spotify.com/track/7ajY0y3joEbeL1gZW4ujmR"

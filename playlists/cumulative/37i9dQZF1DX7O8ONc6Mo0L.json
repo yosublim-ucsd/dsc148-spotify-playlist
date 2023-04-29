@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Como Ser\u00e1 O Amanh\u00e3",
+        "url": "https://open.spotify.com/album/78U8cKx6Jl6K94h0QFbV8B"
+      },
+      "artists": [
+        {
+          "name": "Igor Roque",
+          "url": "https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109541,
+      "name": "Como Ser\u00e1 O Amanh\u00e3",
+      "url": "https://open.spotify.com/track/7cKf9UHzecwKD3hBRSGvTj"
+    },
+    {
+      "album": {
         "name": "Confiar em Deus - Spotify Singles",
         "url": "https://open.spotify.com/album/44LijlMAyaGINUQkTYg5xs"
       },

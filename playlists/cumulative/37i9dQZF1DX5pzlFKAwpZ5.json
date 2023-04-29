@@ -2177,6 +2177,24 @@
     },
     {
       "album": {
+        "name": "Plants Feast",
+        "url": "https://open.spotify.com/album/3HAH0Vl5Fbu0eoM5wgUH2W"
+      },
+      "artists": [
+        {
+          "name": "kita kouhei",
+          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Plants Feast",
+      "url": "https://open.spotify.com/track/5o9roDxnHFxzGgA0zLfSF4"
+    },
+    {
+      "album": {
         "name": "Sonne und Wasser",
         "url": "https://open.spotify.com/album/0DPw8nGwiZBAQGlA2fv9wf"
       },

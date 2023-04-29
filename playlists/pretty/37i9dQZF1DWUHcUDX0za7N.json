@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep?si=wdv_pNx6QqO9cmAr0l4x4g\"> Zlatan</a> ",
-  "num_followers": 18497,
+  "num_followers": 18580,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjEzNmU2Y2U1MjgxOTdjZDZhZWYzNjM2ZmQ0N2RmOTAxNjg1YjNl",
+  "snapshot_id": "MCxkOTE5ZWM3Mjg2MDUxNGNiYTdiMmI1YjgxZmRjODI5OTRmYmZiNmIx",
   "tracks": [
     {
       "added_at": "2023-04-27 23:00:00",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
+        "name": "Love Triangle",
+        "url": "https://open.spotify.com/album/3jUpxVJwDVNiWELcyukdOU"
+      },
+      "artists": [
+        {
+          "name": "7Dime",
+          "url": "https://open.spotify.com/artist/2ezc7Zq9xX0tADcy8UbvNi"
+        }
+      ],
+      "duration_ms": 152456,
+      "name": "Love Triangle",
+      "url": "https://open.spotify.com/track/0nfY7lzgMQvAR6bMyMr1ac"
+    },
+    {
+      "added_at": "2023-04-27 23:00:00",
+      "album": {
         "name": "Breaking The Yoke Of Love",
         "url": "https://open.spotify.com/album/2gFTRUI821BCGGx2VNy3w6"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 198039,
       "name": "Breaking The Yoke Of Love",
       "url": "https://open.spotify.com/track/4Qpilnxi20LRgYr3a9iOJA"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
-        "name": "Love Triangle",
-        "url": "https://open.spotify.com/album/3jUpxVJwDVNiWELcyukdOU"
-      },
-      "artists": [
-        {
-          "name": "7Dime",
-          "url": "https://open.spotify.com/artist/2ezc7Zq9xX0tADcy8UbvNi"
-        }
-      ],
-      "duration_ms": 152456,
-      "name": "Love Triangle",
-      "url": "https://open.spotify.com/track/0nfY7lzgMQvAR6bMyMr1ac"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
-        "name": "Highest Student",
-        "url": "https://open.spotify.com/album/3cw1LTnoRBHQN9StfTHYDK"
-      },
-      "artists": [
-        {
-          "name": "MOJO AF",
-          "url": "https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J"
-        },
-        {
-          "name": "Masiano",
-          "url": "https://open.spotify.com/artist/0wh9usKigmJMIpkosaQ5uF"
-        }
-      ],
-      "duration_ms": 171891,
-      "name": "Highest Student",
-      "url": "https://open.spotify.com/track/7a0Wzxeh1I88Br9ZNtHD5H"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
         "name": "Clone Wars Vol. 5 - The Algorhythm",
         "url": "https://open.spotify.com/album/3yUUyNXWF0CFwaCFIEYHzJ"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 238857,
       "name": "Tycoon",
       "url": "https://open.spotify.com/track/6MzulmD5wofNSMmBTqNsba"
+    },
+    {
+      "added_at": "2023-04-27 23:00:00",
+      "album": {
+        "name": "Highest Student",
+        "url": "https://open.spotify.com/album/3cw1LTnoRBHQN9StfTHYDK"
+      },
+      "artists": [
+        {
+          "name": "MOJO AF",
+          "url": "https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J"
+        },
+        {
+          "name": "Masiano",
+          "url": "https://open.spotify.com/artist/0wh9usKigmJMIpkosaQ5uF"
+        }
+      ],
+      "duration_ms": 171891,
+      "name": "Highest Student",
+      "url": "https://open.spotify.com/track/7a0Wzxeh1I88Br9ZNtHD5H"
     },
     {
       "added_at": "2023-04-27 23:00:00",

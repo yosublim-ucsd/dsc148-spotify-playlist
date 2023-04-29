@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdA7BiX5U19t.md) - [plain]
 
 > セットリスト公開！2023年3月24日\(金\), 25日\(土\)に開催されたHarry Styles来日公演<a href="https://harrystylesjapantour.com/">"Love On Tour"</a>のセットリストをプレイリストで楽しもう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,463 likes - 18 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,466 likes - 18 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdA7BiX5U19t.md) - [plain]
 | 17 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 |
 | 18 | [Kiwi](https://open.spotify.com/track/33SNO8AaciGbNaQFkxvPrW) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 2:56 |
 
-Snapshot ID: `MCw3M2JmMjUyMTQzNzhmNTZkZmVlNWY4Mzg1MDRlYTQ2NGNjZGNmNTFm`
+Snapshot ID: `MCw5ZDRiODNkZGI5MzhmMjJkNDJiZmMxYWU0Y2UzNTY1ZmJhYWQ4MTM0`

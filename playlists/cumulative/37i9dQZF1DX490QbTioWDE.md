@@ -2,9 +2,9 @@
 
 ### [100% Cuarteto](https://open.spotify.com/playlist/37i9dQZF1DX490QbTioWDE)
 
-> Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Rodrigo
+> Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: La K'onga & Luck Ra.
 
-317 songs - 20 hr 43 min
+318 songs - 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Atrévete](https://open.spotify.com/track/44K0HP3qHqxDZP4P6z9Hwk) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [En El Gran Rex](https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF) | 4:15 | 2021-12-24 | 2023-02-04 |
 | [Basta de Cuernos](https://open.spotify.com/track/4d8UC0Lp6ciZO1WDTP2TbB) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Basta de Cuernos](https://open.spotify.com/album/73duWKQhJTT6jmpXofZAfp) | 2:30 | 2022-03-02 | 2022-05-20 |
 | [Baño de Luna / La Morena](https://open.spotify.com/track/4mhdgivjL1gXhh3DU1Jy4M) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh), [El Tano Romero](https://open.spotify.com/artist/3CzLe0eqm2dY4Dbo8qtNrm) | [Baño de Luna /La Morena](https://open.spotify.com/album/5nyudEcKLTX7ZKujq9z7Xs) | 4:25 | 2022-04-01 | 2022-04-25 |
+| [Bebe Dame](https://open.spotify.com/track/6BaE9YFxMmXVeo8vm33pdH) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Bebe Dame](https://open.spotify.com/album/5e5fMGbf8nWb0gLok4HZxC) | 2:47 | 2023-04-28 |  |
 | [Bebé](https://open.spotify.com/track/62fEPchIkRcZYJukmqhLuj) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Bebé](https://open.spotify.com/album/5kp9KP5edbBulAcqClNeLx) | 3:19 | 2021-12-24 | 2022-07-29 |
 | [Beso a beso](https://open.spotify.com/track/0vV3UvotpuHNC3mmKbUpSS) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Hugh Padgham](https://open.spotify.com/artist/2tFojFgpu9xoQ04HsTZMDl), [Sergio Oliva](https://open.spotify.com/artist/7sgBCRIyPmIsvElpnK4QMM) | [Beso a Beso \(con La Mona\)](https://open.spotify.com/album/4fvkyGJYsQKr4jzWg3xhok) | 5:03 | 2021-12-24 |  |
 | [Bésame Bonito \(Cover\) \- En Vivo](https://open.spotify.com/track/59Pu5MCWIYRfF2LSHmtOAc) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo) | [Bésame Bonito \(Cover\) \[En Vivo\]](https://open.spotify.com/album/3pjmbJtNGm5Hkk1nvkhQZd) | 3:52 | 2023-01-27 |  |
@@ -111,7 +112,7 @@
 | [INAUDITO](https://open.spotify.com/track/30Nu2MaRxo4OtAUlStOzdg) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [INAUDITO](https://open.spotify.com/album/536XUCFywd1uWloYlQeXU9) | 3:29 | 2023-04-14 |  |
 | [Infiel](https://open.spotify.com/track/1F9RwlKTE0QJtKN97EWtM8) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Creo](https://open.spotify.com/album/4ejIXV4SRUWJD43epruUdi) | 3:24 | 2021-12-24 |  |
 | [Intento](https://open.spotify.com/track/3JbDQzoT18a9NUIfrsZULv) | [Cuarteto del Bueno](https://open.spotify.com/artist/7H74awb9SCsCk8RqQOwPor) | [Intento](https://open.spotify.com/album/5XjBOezcztKwFjVGYcbX1G) | 3:49 | 2021-12-24 | 2022-07-28 |
-| [Intento](https://open.spotify.com/track/4wN40IP16eyq2csEJhQ8SE) | [Cuarteto del Bueno](https://open.spotify.com/artist/7H74awb9SCsCk8RqQOwPor) | [Cuarteto del Bueno](https://open.spotify.com/album/67RyrSXnNtDANyw4j6yK07) | 3:49 | 2022-07-22 |  |
+| [Intento](https://open.spotify.com/track/4wN40IP16eyq2csEJhQ8SE) | [Cuarteto del Bueno](https://open.spotify.com/artist/7H74awb9SCsCk8RqQOwPor) | [Cuarteto del Bueno](https://open.spotify.com/album/67RyrSXnNtDANyw4j6yK07) | 3:49 | 2022-07-22 | 2023-04-29 |
 | [Intento](https://open.spotify.com/track/66ggNhGinVQLTYJODy6P74) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Soy](https://open.spotify.com/album/0ydcUDMrWPKqpz1SACk73x) | 3:53 | 2022-07-22 |  |
 | [Intento](https://open.spotify.com/track/1nvomogWZSfnw3H4Uti0eL) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Soy](https://open.spotify.com/album/4Plgb3QN6Potmnc2G9soKW) | 3:53 | 2021-12-24 | 2022-07-29 |
 | [La Bachata \- En Vivo](https://open.spotify.com/track/2BTlIPUB2qpfkR8UIulnaa) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [La Bachata \(En Vivo\)](https://open.spotify.com/album/2QJIJQriH01UyYkD21Fuds) | 2:14 | 2022-09-05 |  |

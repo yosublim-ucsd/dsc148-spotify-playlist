@@ -4,7 +4,7 @@
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
 
-102 songs - 6 hr 30 min
+105 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,9 +26,10 @@
 | [Can't Let Go](https://open.spotify.com/track/0kyM6MaS573Gt9Yna1rsqd) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 3:28 | 2020-10-13 |  |
 | [Car Wheels On A Gravel Road](https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:44 | 2020-10-13 |  |
 | [Chickamauga](https://open.spotify.com/track/3pnfc7f0fix6C6HcOLYxzH) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [Anodyne](https://open.spotify.com/album/5DQRAlGAFTpHsXGEg5zw9V) | 3:42 | 2020-10-13 |  |
+| [Cigarettes Coffee and Booze](https://open.spotify.com/track/0mFNgFQCUGjy1qsKQzkTwr) | [The Minus 5](https://open.spotify.com/artist/7k8oHbK8ratXIVlYX7fVRU) | [The Minus 5](https://open.spotify.com/album/5Xcmey2FF0QPeFPLDEOOk0) | 4:24 | 2020-10-13 |  |
 | [Cigarettes Coffee and Booze](https://open.spotify.com/track/3VbksD93GdhM8fB95GGAjR) | [The Minus 5](https://open.spotify.com/artist/7k8oHbK8ratXIVlYX7fVRU) | [Alternative Country Masterpieces](https://open.spotify.com/album/5kJyeKSrgev5PyfsdYZUgP) | 4:24 | 2020-10-13 | 2022-11-13 |
 | [Cigarettes Coffee and Booze](https://open.spotify.com/track/5ZZAwkEnpJDAOv4oD9qvND) | [The Minus 5](https://open.spotify.com/artist/7k8oHbK8ratXIVlYX7fVRU) | [The Minus 5](https://open.spotify.com/album/2fX1V0fpifL0pfLBLtf6Fs) | 4:24 | 2020-10-13 | 2022-07-29 |
-| [Cigarettes Coffee and Booze](https://open.spotify.com/track/5sccRpcrBlsSIbIjSj4Xtt) | [The Minus 5](https://open.spotify.com/artist/7k8oHbK8ratXIVlYX7fVRU) | [The Minus 5](https://open.spotify.com/album/4d1zF9fWmRc5PhWNaoh0us) | 4:24 | 2020-10-13 |  |
+| [Cigarettes Coffee and Booze](https://open.spotify.com/track/5sccRpcrBlsSIbIjSj4Xtt) | [The Minus 5](https://open.spotify.com/artist/7k8oHbK8ratXIVlYX7fVRU) | [The Minus 5](https://open.spotify.com/album/4d1zF9fWmRc5PhWNaoh0us) | 4:24 | 2020-10-13 | 2023-04-29 |
 | [Clear the Crowds](https://open.spotify.com/track/09BqimBt4igAq1YFIDa1vH) | [Jim Bryson](https://open.spotify.com/artist/1PVWC0rStR8mcd9vf3VZpU) | [Where The Bungalows Roam](https://open.spotify.com/album/4YuMZyQ7O67kDGF2iO6RlK) | 2:47 | 2020-10-13 | 2022-07-29 |
 | [Clear the Crowds](https://open.spotify.com/track/4TpJv5H8rPHggIA9iemyac) | [Jim Bryson](https://open.spotify.com/artist/1PVWC0rStR8mcd9vf3VZpU) | [Where the Bungalows Roam](https://open.spotify.com/album/0eH6wqd6RZqWukrhBrRPfe) | 2:47 | 2020-10-13 |  |
 | [Desdemona](https://open.spotify.com/track/7FezHxN3JiG6lK7L5Sl84M) | [The Alternate Routes](https://open.spotify.com/artist/2bIN86ZmfyWfkN9c3C3YXE), [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [A Sucker's Dream](https://open.spotify.com/album/69e9cBeYvuAFXC1iaT8T7H) | 5:54 | 2020-10-13 |  |
@@ -66,7 +67,8 @@
 | [Mountain Girl](https://open.spotify.com/track/18arNEI2X191HSDrRMQqkH) | [Blue Mountain](https://open.spotify.com/artist/4S0WYuq4dnunQV6cL3I49i) | [Dog Days](https://open.spotify.com/album/6bhEViXyntNPGV59UMTMYi) | 4:05 | 2020-10-13 |  |
 | [New Madrid](https://open.spotify.com/track/4Ssgx7QJr0fzabt4D4JZ1b) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [Anodyne](https://open.spotify.com/album/5DQRAlGAFTpHsXGEg5zw9V) | 3:31 | 2020-10-13 |  |
 | [Nights Like These](https://open.spotify.com/track/2PfxuxTsQpiqFBaN5id09z) | [Lucero](https://open.spotify.com/artist/1MspPfENB9nzFGaagXmF7R) | [Tennessee](https://open.spotify.com/album/4AIs45q4TIzgJOeNMaThTf) | 3:55 | 2020-10-13 | 2022-07-29 |
-| [Nights Like These](https://open.spotify.com/track/5W6mFdtLbNllkRh6Q07IbT) | [Lucero](https://open.spotify.com/artist/1MspPfENB9nzFGaagXmF7R) | [Tennessee](https://open.spotify.com/album/0KBqO2j7c8OHYhYaEiBgTx) | 3:55 | 2020-10-13 |  |
+| [Nights Like These](https://open.spotify.com/track/5W6mFdtLbNllkRh6Q07IbT) | [Lucero](https://open.spotify.com/artist/1MspPfENB9nzFGaagXmF7R) | [Tennessee](https://open.spotify.com/album/0KBqO2j7c8OHYhYaEiBgTx) | 3:55 | 2020-10-13 | 2023-04-29 |
+| [Nights Like These](https://open.spotify.com/track/7wdsny4I4vMLY4wCF9FDkr) | [Lucero](https://open.spotify.com/artist/1MspPfENB9nzFGaagXmF7R) | [Tennessee](https://open.spotify.com/album/7pNGqfOAI7z0PrwJrdjh1A) | 3:55 | 2020-10-13 |  |
 | [No More Buffalo](https://open.spotify.com/track/7fyi9AWHCum1tXzUacFYro) | [James McMurtry](https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH) | [It Had To Happen](https://open.spotify.com/album/3l7cwOKo22Jw2YfuT9hP3q) | 7:19 | 2020-10-13 |  |
 | [Officer Down](https://open.spotify.com/track/2hS1eS0RAg5b9VzRPSPK6J) | [Carolyn Mark](https://open.spotify.com/artist/5LEbX3AeiknZxV5zOIFhCH), [NQ Arbuckle](https://open.spotify.com/artist/0UXWUsqoGhYC4sCiEe7tEk) | [Let's Just Stay Here](https://open.spotify.com/album/610I6r165R7zGCI2rFlQc7) | 3:57 | 2020-10-13 |  |
 | [On the Streets](https://open.spotify.com/track/31KmmPSvUorrhCWDRysxUq) | [Rico Bell](https://open.spotify.com/artist/6LrIoFLMuU0yXD86WBmNe0) | [The Return of Rico Bell](https://open.spotify.com/album/6wz72pyGjk99MDs8AgTHzd) | 3:55 | 2020-10-13 | 2022-07-29 |
@@ -84,7 +86,8 @@
 | [She Took A Lot Of Pills \(And Died\)](https://open.spotify.com/track/1lz3mp3MJmF910If1so02W) | [Robbie Fulks](https://open.spotify.com/artist/0l5iOYpiSkQFYR3uPNoMDe) | [Country Love Songs](https://open.spotify.com/album/7pPvsIGZU0LwQBhU6LVKII) | 2:43 | 2020-10-13 |  |
 | [Silence](https://open.spotify.com/track/0HglUzvGGNtNi7mCqjkW7S) | [The Autumn Defense](https://open.spotify.com/artist/71I7zoXe7aIZvzN19S1gIo) | [Circles](https://open.spotify.com/album/2IsiRbh1i0Pkx2q6n3f6ci) | 4:07 | 2020-10-13 | 2022-07-29 |
 | [Silence](https://open.spotify.com/track/2GhrCXqIgvveXt07wFKvQ8) | [The Autumn Defense](https://open.spotify.com/artist/71I7zoXe7aIZvzN19S1gIo) | [Circles](https://open.spotify.com/album/2GV6xnWl34jwrYLG0W3KDC) | 4:07 | 2020-10-13 | 2022-11-13 |
-| [Silence](https://open.spotify.com/track/5g79xHG0De0dDHe1Hkum66) | [The Autumn Defense](https://open.spotify.com/artist/71I7zoXe7aIZvzN19S1gIo) | [Circles](https://open.spotify.com/album/6P9VUVYvKNP7DULIJ5p7Ks) | 4:07 | 2020-10-13 |  |
+| [Silence](https://open.spotify.com/track/5g79xHG0De0dDHe1Hkum66) | [The Autumn Defense](https://open.spotify.com/artist/71I7zoXe7aIZvzN19S1gIo) | [Circles](https://open.spotify.com/album/6P9VUVYvKNP7DULIJ5p7Ks) | 4:07 | 2020-10-13 | 2023-04-29 |
+| [Silence](https://open.spotify.com/track/7dbkd6nYE7hkpNohBKzyjr) | [The Autumn Defense](https://open.spotify.com/artist/71I7zoXe7aIZvzN19S1gIo) | [Circles](https://open.spotify.com/album/73hOVQXTcPiNfesPkxS7O0) | 4:07 | 2020-10-13 |  |
 | [Six O'Clock News](https://open.spotify.com/track/6sXAa3GAG0m9jvY6T8RCrq) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Failer](https://open.spotify.com/album/6ukGcvX7wdteMvzUyoTnrc) | 4:34 | 2020-10-13 | 2022-07-29 |
 | [Six O'Clock News](https://open.spotify.com/track/46zWnizX8Zny8ydVg04KVL) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Failer](https://open.spotify.com/album/3ZYobhZ7YRCG96p7P7BIek) | 4:36 | 2020-10-13 |  |
 | [Star Witness](https://open.spotify.com/track/17fWdcSAhLc6559youmLap) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Fox Confessor Brings The Flood \(Bonus Track Version\)](https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ) | 5:16 | 2020-10-13 |  |

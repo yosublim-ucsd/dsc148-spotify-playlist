@@ -1,13 +1,93 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Kim Dracula",
-  "num_followers": 7738,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: VEXED",
+  "num_followers": 7739,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "MjY0MSwwNGM0ZWE5NDM5NDk0ZDkxODY3MmIzN2M2MDc4YmQwYmVlYjRhNzQ5",
+  "snapshot_id": "MjY0OSwxYTAxODE4NTUwODJmZTM4MWM4YmE3ODE4M2U4NGM1MTk2MzAwMTY1",
   "tracks": [
+    {
+      "added_at": "2023-04-28 19:49:57",
+      "album": {
+        "name": "HATEFUL",
+        "url": "https://open.spotify.com/album/5bNClD13l1fc6BosE5EKoN"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "duration_ms": 248273,
+      "name": "HATEFUL",
+      "url": "https://open.spotify.com/track/6QtiPaRRcSIne26CN4zNla"
+    },
+    {
+      "added_at": "2023-04-28 19:50:03",
+      "album": {
+        "name": "Anti-Fetish",
+        "url": "https://open.spotify.com/album/1GsWn1EFJa6DdETJcCLytU"
+      },
+      "artists": [
+        {
+          "name": "VEXED",
+          "url": "https://open.spotify.com/artist/4ZwENj9UHL3ujCD3k7DfNH"
+        }
+      ],
+      "duration_ms": 238625,
+      "name": "Anti-Fetish",
+      "url": "https://open.spotify.com/track/2fc6YX69npgSxNM1pBHBgf"
+    },
+    {
+      "added_at": "2023-04-28 19:50:16",
+      "album": {
+        "name": "Masters of Morbidity",
+        "url": "https://open.spotify.com/album/2qOeSLz1t8ht0MQaLOGzEC"
+      },
+      "artists": [
+        {
+          "name": "200 Stab Wounds",
+          "url": "https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv"
+        }
+      ],
+      "duration_ms": 160830,
+      "name": "Fatal Reality",
+      "url": "https://open.spotify.com/track/5t7EVml5qN27lkRhv4NibM"
+    },
+    {
+      "added_at": "2023-04-28 19:50:23",
+      "album": {
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/2pdE3vNWf94N1aXijKwL3G"
+      },
+      "artists": [
+        {
+          "name": "Anklebiter",
+          "url": "https://open.spotify.com/artist/3RyxShZKZfWVtCaAxmgEDg"
+        }
+      ],
+      "duration_ms": 82010,
+      "name": "Pearl",
+      "url": "https://open.spotify.com/track/1Ki7u6kfylNZlKVHNsZ54U"
+    },
+    {
+      "added_at": "2023-04-28 19:50:34",
+      "album": {
+        "name": "Tower Has Fallen",
+        "url": "https://open.spotify.com/album/0dBLFferJ65QLYw5ZVmKIU"
+      },
+      "artists": [
+        {
+          "name": "Ephemeral",
+          "url": "https://open.spotify.com/artist/07bVX0mFSx79Nd6250qVCa"
+        }
+      ],
+      "duration_ms": 176937,
+      "name": "Tower Has Fallen",
+      "url": "https://open.spotify.com/track/6LI5dpKCc3Z157MFsxcPDw"
+    },
     {
       "added_at": "2023-04-21 17:59:37",
       "album": {

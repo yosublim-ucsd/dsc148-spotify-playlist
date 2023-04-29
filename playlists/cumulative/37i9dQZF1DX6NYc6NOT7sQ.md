@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3gNEIgLeknpwkNViU8WAhg">Oceanvs Orientalis</a>' favorite tracks\. Updated regularly\. Curated by Oceanvs Orientalis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-101 songs - 9 hr 22 min
+103 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [El rey](https://open.spotify.com/track/6IfQLhMvIohZQb0ro5rHa7) | [Secos & Molhados](https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm) | [A volta de Secos & Molhados](https://open.spotify.com/album/4rNGFFaXZ7l0Vg6QrcHcUi) | 1:00 | 2023-01-27 | 2023-04-21 |
 | [Eva](https://open.spotify.com/track/1bTgua4ITKuEe7t5hdfkzr) | [Dandara](https://open.spotify.com/artist/6h2EcimpzT4Ft2t2vfjEt4), [ARKADYAN](https://open.spotify.com/artist/2ELBfW9Bn2xBAIvWeXeCgI) | [Eva](https://open.spotify.com/album/4Kkf58oJN93azaqN9EBrui) | 6:12 | 2023-01-27 |  |
 | [Falling from Grace](https://open.spotify.com/track/1tgbxNQlN0ELxU55jDFzFp) | [The Gentle Waves](https://open.spotify.com/artist/5loMlAPsnOOTqsNlUuvwa0) | [Swansong for You](https://open.spotify.com/album/1b8o1odmmZrdDKOo0yyDwZ) | 3:45 | 2023-01-27 | 2023-04-21 |
-| [Final Eclipse \(Full Version\)](https://open.spotify.com/track/0KfMoDziaCNa4SS48VG3KG) | [The Comet Is Coming](https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU) | [Death to the Planet](https://open.spotify.com/album/3qFgijcQbTS5frVRo3wt9R) | 6:45 | 2023-01-27 |  |
+| [Final Eclipse \(Full Version\)](https://open.spotify.com/track/0KfMoDziaCNa4SS48VG3KG) | [The Comet Is Coming](https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU) | [Death to the Planet](https://open.spotify.com/album/3qFgijcQbTS5frVRo3wt9R) | 6:45 | 2023-01-27 | 2023-04-29 |
+| [Final Eclipse \(Full Version\)](https://open.spotify.com/track/3DJKmPCfYxTY2sJSDTn2nJ) | [The Comet Is Coming](https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU) | [Death to the Planet](https://open.spotify.com/album/78r1S2wMZbbdiNUZANMP7t) | 6:45 | 2023-04-20 |  |
 | [Forget Me Not](https://open.spotify.com/track/2QhE4C2nl81K0rB8FkBIxs) | [Ilya Santana](https://open.spotify.com/artist/17d7B3Sa8rMfouwv0PzHp4) | [A Western Tale](https://open.spotify.com/album/6axd4LB3Sl9qK6khEG3j3w) | 5:23 | 2023-01-27 |  |
 | [Galata](https://open.spotify.com/track/3JwHLrGfDW9O7uEIusuyoi) | [Mai](https://open.spotify.com/artist/47VHzQmzln62pavs4DT2J3) | [Galata](https://open.spotify.com/album/1mcgtWCWSUtiLUHHdUr8An) | 5:56 | 2023-01-27 | 2023-04-21 |
 | [Galatea's Guitar \- Remastered](https://open.spotify.com/track/237YZd41xs9GglibyQxVrx) | [Gábor Szabó](https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG) | [Dreams](https://open.spotify.com/album/5yYe4JhfGHiTIPWs2AuoMJ) | 5:38 | 2023-01-27 |  |
@@ -51,7 +52,8 @@
 | [In the Cave](https://open.spotify.com/track/0xB1Z1qc73taBKj4DrXu33) | [Contact Field Orchestra](https://open.spotify.com/artist/35A8Rh48cPRbH4OoT0KV5i) | [Vol\. 1](https://open.spotify.com/album/1fHUCr4zEgNcNtd5a4Ea8L) | 3:07 | 2023-01-27 |  |
 | [Intertwined](https://open.spotify.com/track/0Mnk5ZV0xWVSPf2lXGqxtq) | [Arutani](https://open.spotify.com/artist/7g48EWSZL2Zb40hnBcFd1K) | [Intertwined](https://open.spotify.com/album/4VmxgE6vmKjNvGZ7HlcqVj) | 7:06 | 2023-01-27 |  |
 | [Into the Night](https://open.spotify.com/track/1fiPfpTik0MTf0QSHeFU3G) | [Eve Biōn](https://open.spotify.com/artist/2DANQnbibsTXo73ei96pay) | [Observing the Beautiful Forms](https://open.spotify.com/album/36ayE9XBpLtrUda5QuHeY7) | 5:08 | 2023-01-27 |  |
-| [Jumprope \- SAFER Remix](https://open.spotify.com/track/44iTLYoLiuuyRuFfnyjrfA) | [Psymon Spine](https://open.spotify.com/artist/44iSvW0fck77wQAmWaDdzm), [Safer](https://open.spotify.com/artist/4QaLRgZsBK2wfrWWDo0CZy) | [Charismatic Mutations](https://open.spotify.com/album/4WOI2T2P1M13uSPomRWZ9L) | 4:38 | 2023-01-27 |  |
+| [Jumprope \- SAFER Remix](https://open.spotify.com/track/18xEKrCQ6kdQ0sGtNzmEd1) | [Psymon Spine](https://open.spotify.com/artist/44iSvW0fck77wQAmWaDdzm), [Safer](https://open.spotify.com/artist/4QaLRgZsBK2wfrWWDo0CZy) | [Charismatic Mutations](https://open.spotify.com/album/0GQ1Eo42sLfjgOzJs5w7mm) | 4:38 | 2023-04-20 |  |
+| [Jumprope \- SAFER Remix](https://open.spotify.com/track/44iTLYoLiuuyRuFfnyjrfA) | [Psymon Spine](https://open.spotify.com/artist/44iSvW0fck77wQAmWaDdzm), [Safer](https://open.spotify.com/artist/4QaLRgZsBK2wfrWWDo0CZy) | [Charismatic Mutations](https://open.spotify.com/album/4WOI2T2P1M13uSPomRWZ9L) | 4:38 | 2023-01-27 | 2023-04-29 |
 | [Kurabiye](https://open.spotify.com/track/6MfMveccChxGFKK4WuubmH) | [Netam](https://open.spotify.com/artist/1YY9OGXBUigFmgd8wgKEE6) | [Yabani](https://open.spotify.com/album/4pD5ajO8cTTOWpsopddS3F) | 4:30 | 2023-01-27 |  |
 | [Kuyu \- Oceanvs Orientalis Rework](https://open.spotify.com/track/76mFZdhpE1l6UpsG2kn1g5) | [Santi & Tuğçe](https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC), [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg) | [A Twice Told Tale \- Reworks Chapter I](https://open.spotify.com/album/4792gvVBT6uAyzbwQ2eFLn) | 6:59 | 2023-01-27 |  |
 | [Lady Luck](https://open.spotify.com/track/4zdSkZqBNo0fHmviHOtxGe) | [Richard Swift](https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr) | [The Atlantic Ocean](https://open.spotify.com/album/4IwiiZ3EaJ1FKeHyVatLIO) | 4:18 | 2023-01-27 |  |

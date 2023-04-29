@@ -1303,6 +1303,32 @@
     },
     {
       "album": {
+        "name": "Zenit & Nadir",
+        "url": "https://open.spotify.com/album/5F3AulLRnkl7a52gcim5q6"
+      },
+      "artists": [
+        {
+          "name": "Dengue Dengue Dengue",
+          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
+        },
+        {
+          "name": "Mikongo",
+          "url": "https://open.spotify.com/artist/7q9AmXPI7sYCKR75Fpdi45"
+        },
+        {
+          "name": "Sara Van",
+          "url": "https://open.spotify.com/artist/1ALGGo6rUkJPZfwjWyETiY"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285581,
+      "name": "El Cavilante",
+      "url": "https://open.spotify.com/track/2olLGTNlKi5hPLVulIpvst"
+    },
+    {
+      "album": {
         "name": "El Cavilante",
         "url": "https://open.spotify.com/album/6fBSdnk7SnQP3ZczSveBHe"
       },
@@ -1646,7 +1672,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 218626,
       "name": "Ghost Dance",
       "url": "https://open.spotify.com/track/4n7OorABBVfxTI7vId6WtK"

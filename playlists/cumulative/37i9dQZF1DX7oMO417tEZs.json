@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "Birds, Bees, The Clouds & The Trees",
+        "url": "https://open.spotify.com/album/1YSgHnC5sdVXfT9E5fOUVJ"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91580,
+      "name": "7PM",
+      "url": "https://open.spotify.com/track/1dXG8xVXSiYmsfC5FqNPqk"
+    },
+    {
+      "album": {
         "name": "<maybe> it's my fault",
         "url": "https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM"
       },
@@ -3000,7 +3018,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 138352,
       "name": "cry about it",
       "url": "https://open.spotify.com/track/4VVOHTlCMeu94fzE75JykW"
@@ -4728,7 +4746,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 208710,
       "name": "feel good inc (bbno$ re-finessed) - spotify single",
       "url": "https://open.spotify.com/track/4NRCIrvUCK8KBn4RXOB0Fa"
@@ -4946,7 +4964,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 145434,
       "name": "Float",
       "url": "https://open.spotify.com/track/6tB8FBxG0bJNt9zm7hIfij"
@@ -6454,6 +6472,28 @@
       "duration_ms": 271217,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/4lMnXCUdpsjAhpBOEXktkI"
+    },
+    {
+      "album": {
+        "name": "HOT LOVE (BOY HARSHER REMIX)",
+        "url": "https://open.spotify.com/album/5fRatpcLFtyPDsLqIWniIk"
+      },
+      "artists": [
+        {
+          "name": "DEBBY FRIDAY",
+          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
+        },
+        {
+          "name": "Boy Harsher",
+          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233154,
+      "name": "HOT LOVE (BOY HARSHER REMIX)",
+      "url": "https://open.spotify.com/track/38uj71L9vhvFX9IpxOcP1X"
     },
     {
       "album": {
@@ -7980,7 +8020,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 113680,
       "name": "Let's Go!",
       "url": "https://open.spotify.com/track/4IQTBYqOiAf5u7AvsrmJ5x"
@@ -8052,10 +8092,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 268002,
       "name": "Levia",
       "url": "https://open.spotify.com/track/3IGhQg2Kto8vFgj3cTVyNL"
+    },
+    {
+      "album": {
+        "name": "Levia",
+        "url": "https://open.spotify.com/album/7db13r50iuCjvrau6eRcHM"
+      },
+      "artists": [
+        {
+          "name": "Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268002,
+      "name": "Levia",
+      "url": "https://open.spotify.com/track/7KHzVYe0fVMqvHLacHBZHT"
     },
     {
       "album": {
@@ -8901,6 +8959,24 @@
     },
     {
       "album": {
+        "name": "Euphoric Recall",
+        "url": "https://open.spotify.com/album/4R8cQk9YIO7NGkXYPg7KXh"
+      },
+      "artists": [
+        {
+          "name": "Braids",
+          "url": "https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278160,
+      "name": "Millennia",
+      "url": "https://open.spotify.com/track/12u92AWCLVniW1Gv65dqeC"
+    },
+    {
+      "album": {
         "name": "MAHAL",
         "url": "https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR"
       },
@@ -9084,7 +9160,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 218920,
       "name": "Misty",
       "url": "https://open.spotify.com/track/0U7sCk6TIauNE7Jey4Eclp"
@@ -9785,6 +9861,28 @@
     },
     {
       "album": {
+        "name": "No More Lies",
+        "url": "https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327217,
+      "name": "No More Lies",
+      "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
+    },
+    {
+      "album": {
         "name": "No Need To Be Shy",
         "url": "https://open.spotify.com/album/1VuHpYETdoOWSbTMnGRWCA"
       },
@@ -10464,7 +10562,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 204161,
       "name": "pa$$ the time (PART 3)",
       "url": "https://open.spotify.com/track/1fIivgQobzQHzehVyW9pUw"
@@ -11819,6 +11917,28 @@
     },
     {
       "album": {
+        "name": "Selfish Soul (ODESZA Remix)",
+        "url": "https://open.spotify.com/album/4aJcCRF4B3Tjefsu0aZKu2"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        },
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206210,
+      "name": "Selfish Soul - ODESZA Remix",
+      "url": "https://open.spotify.com/track/6N5thJ3UQMpHdf2fYOB3XL"
+    },
+    {
+      "album": {
         "name": "See You Soon",
         "url": "https://open.spotify.com/album/3Si8ZHErCOw4PL0olDgw5L"
       },
@@ -12702,6 +12822,24 @@
       "duration_ms": 237600,
       "name": "Stand Tall",
       "url": "https://open.spotify.com/track/1XzkVmQZGvHzZ1vMB4nily"
+    },
+    {
+      "album": {
+        "name": "Standards",
+        "url": "https://open.spotify.com/album/6Lf0Fgl25aASnlpoIAWTYj"
+      },
+      "artists": [
+        {
+          "name": "Seago",
+          "url": "https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147801,
+      "name": "Standards",
+      "url": "https://open.spotify.com/track/3KlMZOquo0xTST9QzA29We"
     },
     {
       "album": {
@@ -13845,6 +13983,28 @@
     },
     {
       "album": {
+        "name": "This Too",
+        "url": "https://open.spotify.com/album/4vtdwsnDNvj0tKjONcqA45"
+      },
+      "artists": [
+        {
+          "name": "H\u00e4zel",
+          "url": "https://open.spotify.com/artist/2XuQe6qA4dziDhpLjxUzZx"
+        },
+        {
+          "name": "Beatchild",
+          "url": "https://open.spotify.com/artist/4k7KKAyXbpBKe0iziD7c2P"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157824,
+      "name": "This Too",
+      "url": "https://open.spotify.com/track/7E0ck3kZmSzHTsnkXRINPv"
+    },
+    {
+      "album": {
         "name": "Til The Morning",
         "url": "https://open.spotify.com/album/5Iedaq7J17gvFEATBmfLOC"
       },
@@ -14826,7 +14986,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 202986,
       "name": "WHAT A MAN",
       "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"

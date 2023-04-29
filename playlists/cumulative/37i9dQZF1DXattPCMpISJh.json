@@ -268,7 +268,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 147169,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/420lSvUacrPEbvkgz8q0zk"
@@ -330,7 +330,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 179003,
       "name": "Bodytalk",
       "url": "https://open.spotify.com/track/3pwQ80lVQUEZ7LA9ErKhTh"
@@ -1267,6 +1267,24 @@
     },
     {
       "album": {
+        "name": "That! Feels Good!",
+        "url": "https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208280,
+      "name": "Freak Me Now",
+      "url": "https://open.spotify.com/track/2WMlWvN0y7xoOEtftxdHvz"
+    },
+    {
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/4meOyw0LxSchM8wARkfNnZ"
       },
@@ -1450,7 +1468,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 224241,
       "name": "Heavenly",
       "url": "https://open.spotify.com/track/4HQj53RJeJ0hah1i8qF068"
@@ -1476,6 +1494,24 @@
       "duration_ms": 191152,
       "name": "Highway Runner - Ladies on Mars \"Street Race\" Remix",
       "url": "https://open.spotify.com/track/21BXst2WHRctU1BoynqJQH"
+    },
+    {
+      "album": {
+        "name": "HOT",
+        "url": "https://open.spotify.com/album/1KmisFnVTIct9oBmATe41I"
+      },
+      "artists": [
+        {
+          "name": "La Felix",
+          "url": "https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218110,
+      "name": "HOT",
+      "url": "https://open.spotify.com/track/1UVRdZRAiW3GomKSg81PLE"
     },
     {
       "album": {
@@ -1526,7 +1562,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 451750,
       "name": "I Found Love",
       "url": "https://open.spotify.com/track/4ZABvHWz0DV9YoHEs7s4ha"
@@ -1790,7 +1826,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 235500,
       "name": "Is It Enough",
       "url": "https://open.spotify.com/track/0OZ80Lvoxxd0c0ig8O8scg"
@@ -1860,6 +1896,24 @@
       "duration_ms": 151704,
       "name": "It's You",
       "url": "https://open.spotify.com/track/1Ky3doQEPgrKmZzLXEp04b"
+    },
+    {
+      "album": {
+        "name": "Jet Fuel",
+        "url": "https://open.spotify.com/album/0p0iHnopoBiApdvABd9T0u"
+      },
+      "artists": [
+        {
+          "name": "DiRTY RADiO",
+          "url": "https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162325,
+      "name": "Jet Fuel",
+      "url": "https://open.spotify.com/track/2KiEnTzDtNEGrEDcZGUHpZ"
     },
     {
       "album": {
@@ -2917,6 +2971,28 @@
     },
     {
       "album": {
+        "name": "Sick of Sadness (Lenno Remix)",
+        "url": "https://open.spotify.com/album/6gtJFIDauQWU9t8hq3tVzP"
+      },
+      "artists": [
+        {
+          "name": "Chloe Jane",
+          "url": "https://open.spotify.com/artist/37YnbbW3oQAg9L3qYho0rv"
+        },
+        {
+          "name": "Lenno",
+          "url": "https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292428,
+      "name": "Sick of Sadness - Lenno Remix",
+      "url": "https://open.spotify.com/track/68xWjTE614YgMSGWNjnKny"
+    },
+    {
+      "album": {
         "name": "Slippery People (feat. Ramona Renea & Fiorious)",
         "url": "https://open.spotify.com/album/38PKVrUY6GoGSxWcDmspPd"
       },
@@ -3614,6 +3690,28 @@
       "duration_ms": 168000,
       "name": "Under the Light",
       "url": "https://open.spotify.com/track/26nQDOgXY2mZ6xAlHIdymY"
+    },
+    {
+      "album": {
+        "name": "Versace Eros",
+        "url": "https://open.spotify.com/album/72QT6rIPoVLQnnXY9lTqxA"
+      },
+      "artists": [
+        {
+          "name": "French Horn Rebellion",
+          "url": "https://open.spotify.com/artist/6G5wDM1Vmsscql7qRtcLH0"
+        },
+        {
+          "name": "Sin\u00e9",
+          "url": "https://open.spotify.com/artist/5HYaLf4JMuWw7OrO01YFiN"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167579,
+      "name": "Versace Eros",
+      "url": "https://open.spotify.com/track/1hmB8Gq2YdiFISOZGDnfaH"
     },
     {
       "album": {

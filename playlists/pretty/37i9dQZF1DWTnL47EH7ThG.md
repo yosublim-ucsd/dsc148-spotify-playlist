@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,140 likes - 173 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,174 likes - 173 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,9 +137,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 127 | [Here I Come](https://open.spotify.com/track/4abVwdCy5QUcyI3KS2lMJK) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Reggae Anthology: Sweet Reggae Music \(1979\-84\)](https://open.spotify.com/album/55FfXQVWDbB3tEC7L9lvzA) | 3:37 |
 | 128 | [NBA](https://open.spotify.com/track/0JM4c2BqvY5rX7dRE6FKEV) | [ATELLER](https://open.spotify.com/artist/4Lo6X5XvC17kXkibcqpHNi), [Space Honey the Lovechild](https://open.spotify.com/artist/68uf0DiyXE3y3hyTyCR3Kg) | [Dream Canvas](https://open.spotify.com/album/58GMjriLscruv2He3P8Y7k) | 2:22 |
 | 129 | [My Step](https://open.spotify.com/track/5zDXJzKkLAr5CDOhm9SF3C) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Machine Dreams](https://open.spotify.com/album/1223HNo18fRbvEKxMgiSa7) | 3:27 |
-| 130 | [Dead Disco](https://open.spotify.com/track/5skHiyNrZ7i7hSMhz9jSTs) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Old World Underground, Where Are You Now?](https://open.spotify.com/album/1OOEOpm5mEmxXlJKhVOFnU) | 3:25 |
+| 130 | [Dead Disco](https://open.spotify.com/track/0vJPVfyCJ0WwrBQ71FP23s) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Old World Underground, Where Are You Now?](https://open.spotify.com/album/4LileDrFwEUFB5UPA3AEia) | 3:25 |
 | 131 | [Evening Time](https://open.spotify.com/track/4vkqXQjQky8Hif5xFP75QO) | [Oscar \#Worldpeace](https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [Sporadic](https://open.spotify.com/album/3qRJVrKeDcMTp6oUGHhRDZ) | 2:41 |
-| 132 | [Combat Baby](https://open.spotify.com/track/7Eb5avO0Ut4p6hAGCaeYEk) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Old World Underground, Where Are You Now?](https://open.spotify.com/album/1OOEOpm5mEmxXlJKhVOFnU) | 3:29 |
+| 132 | [Combat Baby](https://open.spotify.com/track/2QJ9dLiolwZNPl5etYP2MI) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Old World Underground, Where Are You Now?](https://open.spotify.com/album/4LileDrFwEUFB5UPA3AEia) | 3:29 |
 | 133 | [Together](https://open.spotify.com/track/0RwSkUIgsowQ6MU1NNVSA7) | [Ruff Sqwad](https://open.spotify.com/artist/67POQUr9E4V8GpQxqQ5d8I) | [White Label Classics](https://open.spotify.com/album/1AgOPl14j50mZ7cNCmCaOf) | 3:42 |
 | 134 | [Testin Me](https://open.spotify.com/track/4eFMFM1g6iqcLzB2owvtpA) | [Peven Everett](https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY) | [Speed of Light Remaster](https://open.spotify.com/album/4x7DDJYcjSZmEym1oUd9a9) | 4:12 |
 | 135 | [B.O.B\. \- Bombs Over Baghdad](https://open.spotify.com/track/3WibbMr6canxRJXhNtAvLU) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 5:04 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 172 | [Lose Ya Mind ft Aleisha Lee](https://open.spotify.com/track/6RVOJNTrEXOlecsUPCaOG5) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [Aleisha Lee](https://open.spotify.com/artist/0A4gPcMJUMuH8wjgMl9Dij) | [Perception](https://open.spotify.com/album/52ZsESTtVx9GWBVQK1rE00) | 4:26 |
 | 173 | [Follow Me \- Skeptical Remix](https://open.spotify.com/track/040XDv8exmt03jJNMB6BhQ) | [Steve Spacek](https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX), [Skeptical](https://open.spotify.com/artist/28ee6rnxMl8AqwcroPfivP) | [Follow Me \(Remixes\)](https://open.spotify.com/album/2PuyaW7cXMyhikQ95l2jXU) | 3:49 |
 
-Snapshot ID: `MCxmNzFjMzUwYmJhNzRlNmQ5OGNmYWE5NmMzYWZmZDhmNWI0NTI4MzJk`
+Snapshot ID: `MCwxYjNlOWNhMjk2NGM5MjZkMzFiMmRhNTc5ZGJjMmJhNDM3ODFmOTk3`

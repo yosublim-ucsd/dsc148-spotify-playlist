@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTHlwqNeZ4l.md) - [plain]
 
 > Tapping Gallant, ANOHNI, and more, the Canadian duo forge a Pride list that defines eclecticism\. Listen for a new tune with Ingrid Michaelson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,327 likes - 27 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,326 likes - 27 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTHlwqNeZ4l.md) - [plain]
 | 8 | [Holiday](https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW) | 3:51 |
 | 9 | [Everybody Wants to Love You](https://open.spotify.com/track/38OvTFIg5ZYRow2sA1jgKo) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G) | 2:12 |
 | 10 | [Sprained Ankle](https://open.spotify.com/track/4KnXpJzC4a9QzbsUgoDXOc) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Sprained Ankle](https://open.spotify.com/album/3DvUGOMZgAr6PaToI7Vwwl) | 2:22 |
-| 11 | [Tangled Memories](https://open.spotify.com/track/48hWxQRcZhSbXnyJ5y2qe1) | [GEMS](https://open.spotify.com/artist/1hjVmBR8STjix0vBUe5YfN) | [Kill the One You Love](https://open.spotify.com/album/37cusz6UdL545qeHFJkUWq) | 4:00 |
+| 11 | [Tangled Memories](https://open.spotify.com/track/3qdEvPz96sSJEmVxVCnfv2) | [GEMS](https://open.spotify.com/artist/1hjVmBR8STjix0vBUe5YfN) | [Kill the One You Love](https://open.spotify.com/album/56kylfTHcLe9y8jwKpeD6O) | 4:00 |
 | 12 | [Boyfriend](https://open.spotify.com/track/7Gt5J8EAM6hj4uT1fHEZUl) | [The Goon Sax](https://open.spotify.com/artist/7qtF58vGfOhD4z3yzrD9PD) | [Up to Anything](https://open.spotify.com/album/2jdxXOqTIKrLdJicu74xSx) | 2:59 |
 | 13 | [Blush](https://open.spotify.com/track/4KdqwIpRZQPLuMtexPgvtX) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Rojus \(Designed to Dance\)](https://open.spotify.com/album/31IWopx1L2z3GSoOArzCTb) | 8:30 |
 | 14 | [X\-Communicate](https://open.spotify.com/track/1uKdbsyhNB1kyK7g52f9ct) | [Kristin Kontrol](https://open.spotify.com/artist/0KWGzZDg5s1xz5Mhdwh5Hs) | [X\-Communicate](https://open.spotify.com/album/18kIahzeNTvSgUCx8cIV6d) | 3:51 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTHlwqNeZ4l.md) - [plain]
 | 16 | [Shadow](https://open.spotify.com/track/3sJQGz6WX2YIBaHsH3bRMq) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Shadow](https://open.spotify.com/album/6IoA01Eo4bfsXfEKBEisyG) | 3:44 |
 | 17 | [Tegan and Sara on "Boyfriend"](https://open.spotify.com/track/6cVrx71STTft6XxOcNWX63) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Tegan and Sara \- Spotify Pride](https://open.spotify.com/album/0xYvIMRxFzd25UqhFOeSIq) | 0:21 |
 | 18 | [Boyfriend](https://open.spotify.com/track/0euRZeEKvdbptPpebwDtLc) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Love You to Death](https://open.spotify.com/album/0zqoBumDciJGNoOsvfTP5U) | 2:47 |
-| 19 | [In the House of Yes](https://open.spotify.com/track/7eeNU3Zm56wzyl7MQDvEAH) | [Mr Twin Sister](https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz) | [Mr Twin Sister](https://open.spotify.com/album/65PiA4pb8RyCLOzwjsqP3X) | 6:40 |
+| 19 | [In the House of Yes](https://open.spotify.com/track/5YnJi2oTur4ZkignPo2squ) | [Mr Twin Sister](https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz) | [Mr Twin Sister](https://open.spotify.com/album/1o0pW0OH2T1AHRGX3Qubkb) | 6:40 |
 | 20 | [Mountains Have a Face Too](https://open.spotify.com/track/7bJyIcYNVDhGHerkDswuyh) | [Billion One](https://open.spotify.com/artist/72xr3FQtagwbPYSErz7JYt), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Minerva](https://open.spotify.com/album/4LZSCfxSKPlr8nEkRy9ydH) | 4:27 |
 | 21 | [Work \- Lost Kings Remix](https://open.spotify.com/track/3Qnqmo5wfuEpMKf8b9Cg1n) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc) | [Work \(Remixes\)](https://open.spotify.com/album/4zuZnAmDCk2FIl8ZfvvmoD) | 4:18 |
 | 22 | [Your Best American Girl](https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 3:32 |
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTHlwqNeZ4l.md) - [plain]
 | 26 | [Tegan and Sara on Their Music](https://open.spotify.com/track/2pU9KIVKzkq30Ie8hcEzgn) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Tegan and Sara \- Spotify Pride](https://open.spotify.com/album/0xYvIMRxFzd25UqhFOeSIq) | 0:28 |
 | 27 | [Operator \(He Doesn't Call Me\)](https://open.spotify.com/track/56sYN9utLyjGXju9rU8lWi) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Long Way Home](https://open.spotify.com/album/5h5HjSBjZ2dAuGxGL6L2EB) | 3:24 |
 
-Snapshot ID: `MCwwODhkZGNiNjEwZjE3OWYxNzlmMDJkYzNlNDhjN2I4MTAzZjEyNjU5`
+Snapshot ID: `MCxhYWRkNDNhYTRmYzcxNWQ0MzRjMzNiYTI4MjgwM2FlZGQwMWZlNzEx`

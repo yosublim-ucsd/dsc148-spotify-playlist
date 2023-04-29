@@ -4,7 +4,7 @@
 
 > Relax with deep house and electronica.
 
-270 songs - 23 hr 35 min
+271 songs - 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,7 @@
 | [Sunrays](https://open.spotify.com/track/2V2SVDQIt2QgUENzNdVCjI) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Sunrays](https://open.spotify.com/album/2KZMHq7JT5R7h4rGN3NvKr) | 3:51 | 2021-12-23 | 2023-03-02 |
 | [Sunrays](https://open.spotify.com/track/54wXdsqswPdmoMpxlDhRsm) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Sunrays](https://open.spotify.com/album/1lW6V6LBuzGHECHFfjK6bB) | 3:51 | 2023-02-03 |  |
 | [Sunset](https://open.spotify.com/track/1yTEXHjIziplqeSr6Fl5t8) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Sunset](https://open.spotify.com/album/6BgX0Avi5YGXSAkrLqBXu2) | 6:22 | 2021-12-23 | 2022-07-29 |
-| [Sunset](https://open.spotify.com/track/4fkmywQO1lT7X6V3yOngaw) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Love Will Set U Free](https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc) | 6:22 | 2023-01-13 |  |
+| [Sunset](https://open.spotify.com/track/4fkmywQO1lT7X6V3yOngaw) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Love Will Set U Free](https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc) | 6:22 | 2023-01-13 | 2023-04-29 |
 | [Tacken](https://open.spotify.com/track/66KXSLfCiAoZkcjyF3Uujm) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [Extended](https://open.spotify.com/album/595ckypY5Dho4okbAw24bz) | 3:20 | 2021-12-23 | 2022-11-20 |
 | [Tacken](https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [Extended](https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC) | 3:20 | 2022-11-16 |  |
 | [Tears](https://open.spotify.com/track/1XtlpDLDLbuk9mFnUs614k) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Eastbound Silhouette](https://open.spotify.com/album/7CgB2RVayWXcMSd3cv0gOa) | 8:47 | 2022-10-28 |  |
@@ -238,10 +238,11 @@
 | [The Dawn \- Sequenza Version](https://open.spotify.com/track/4bL7Tqc9ulHOijZs1d5J1r) | [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq), [Vassilena Serafimova](https://open.spotify.com/artist/6rwhb59UuFvOrgaUPvdEXv) | [Sequenza](https://open.spotify.com/album/3s6H20dPjJwzJcRrnf5X2t) | 7:28 | 2021-12-23 | 2022-04-29 |
 | [The Endless Fall](https://open.spotify.com/track/336URfYYD0JkrbM5LSHAhC) | [Illusory](https://open.spotify.com/artist/0Kj3KkhBr9jUjE88mdTPFa) | [The Endless Fall](https://open.spotify.com/album/1SpXh9yQWxUE61SdVA942r) | 7:36 | 2022-04-04 | 2022-07-14 |
 | [The Kármán Line](https://open.spotify.com/track/1dcu7ZenUoBB7J0r1sg5lz) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [The Kármán Line](https://open.spotify.com/album/1JQp2HkeTTYoaQOTcJdFfi) | 3:23 | 2021-12-23 | 2022-10-01 |
-| [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 | 2022-02-18 |  |
+| [The Last Goodbye](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 | 2022-02-18 |  |
 | [The River \- Original](https://open.spotify.com/track/7y7zMcqnXC40wfJ5yhp2u2) | [El Mundo](https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej), [Zazou](https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1) | [Merchant of Tales](https://open.spotify.com/album/0BffWsbM6YqUmgUu7iijIe) | 8:32 | 2021-12-23 | 2022-07-23 |
 | [The Tribe](https://open.spotify.com/track/7LiOGey9rkzEndaZ0nSIvs) | [Mark Tarmonea](https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn) | [The Tribe](https://open.spotify.com/album/6HdlZw4vN6vtMGDVNRVFZk) | 8:28 | 2021-12-23 | 2023-04-07 |
-| [This Version Of You \(feat\. Julianna Barwick\) \- Joseph Ray Remix](https://open.spotify.com/track/1oWf71EPQVlawCcygiCbMy) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [The Last Goodbye Remixes N°.2](https://open.spotify.com/album/6DKA6hXo5KPvSBGLUL1kky) | 4:11 | 2023-02-18 |  |
+| [This Version Of You \- Joseph Ray Remix](https://open.spotify.com/track/1oWf71EPQVlawCcygiCbMy) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [The Last Goodbye Remixes N°.2](https://open.spotify.com/album/6DKA6hXo5KPvSBGLUL1kky) | 4:11 | 2023-02-18 |  |
+| [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 | 2023-04-27 |  |
 | [Tone Trails](https://open.spotify.com/track/0uOGkzG2BOp8QvxSB22Wmo) | [Marco Resmann](https://open.spotify.com/artist/2fC8GMMVIAVPBX2O50Lijm), [Lee Jones](https://open.spotify.com/artist/5auQPeqrOncPRuutwAyjSz) | [Watergate 20 Years \(Pt\. 8/8\)](https://open.spotify.com/album/5M9eVeNI6mG35HD3OvaPoc) | 5:57 | 2022-11-26 | 2022-12-13 |
 | [Touch](https://open.spotify.com/track/5Nfu8mqEwGMM0gnPMlAMZp) | [Bankii](https://open.spotify.com/artist/5SVqNCocTWjfVH6TKtbvRw), [Sarah Otto](https://open.spotify.com/artist/0gHKUIuU91ofKBHd0SnJU4) | [Touch](https://open.spotify.com/album/0JEFqZZmeqlnAFOoY2Ye0y) | 4:11 | 2021-12-23 | 2022-07-29 |
 | [Touch the Sky](https://open.spotify.com/track/6dy5GFgwpLfw3DqGFNeoHE) | [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE), [Hannah Noelle](https://open.spotify.com/artist/1lE36WexHt1gmXkxRt6DYC) | [Idiosynkrasia](https://open.spotify.com/album/1KYaDfuu1zr47kLgRuKGIh) | 5:31 | 2021-12-23 | 2022-07-28 |

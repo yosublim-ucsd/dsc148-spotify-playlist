@@ -3621,6 +3621,28 @@
     },
     {
       "album": {
+        "name": "Yooou (Feat. BIG Naughty)",
+        "url": "https://open.spotify.com/album/6MLmMlHFNJp5GqZuI7Fwga"
+      },
+      "artists": [
+        {
+          "name": "PARK HYEON JIN",
+          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244120,
+      "name": "Yooou (Feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/2iQ77ftQFhdxyBt1DET8Xf"
+    },
+    {
+      "album": {
         "name": "LOVE",
         "url": "https://open.spotify.com/album/7f3n6Mk3cgGHLtKbveKgE8"
       },

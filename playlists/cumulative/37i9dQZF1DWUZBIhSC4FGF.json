@@ -241,6 +241,24 @@
     },
     {
       "album": {
+        "name": "Breath of Life (Ambient Version)",
+        "url": "https://open.spotify.com/album/4tG5810LflwIHC76A1xo8r"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Frequencies",
+          "url": "https://open.spotify.com/artist/5gUJK8QwnYlsLRnxepd7A5"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140246,
+      "name": "Centered Spirit - Ambient Version",
+      "url": "https://open.spotify.com/track/1xLhsy4qiordPRCnj4NpQt"
+    },
+    {
+      "album": {
         "name": "Trance Zen Dance",
         "url": "https://open.spotify.com/album/1pBMmdgLTkx4qUNMREa6KW"
       },
@@ -606,7 +624,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 275048,
       "name": "Indian Trance",
       "url": "https://open.spotify.com/track/29EphovzWC9fG1yzfqCZLp"

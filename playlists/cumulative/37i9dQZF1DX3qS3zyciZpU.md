@@ -4,7 +4,7 @@
 
 > The perfect songs for the perfect day.
 
-160 songs - 9 hr 28 min
+161 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Beautiful Crazy](https://open.spotify.com/track/4Qx06Fzsepmdz2NGSWfZck) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Beautiful Crazy](https://open.spotify.com/album/1TpdRLm1wt0exGli7jIyt4) | 3:13 | 2021-09-17 | 2022-07-29 |
 | [Beautiful Crazy](https://open.spotify.com/track/6TB4X1DED01TFKoRm6PScw) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Melhores Músicas Internacionais 2022](https://open.spotify.com/album/44mM4AULWBACBm7CQnFi3R) | 3:13 | 2022-10-21 | 2022-11-13 |
 | [Beauty in the Struggle](https://open.spotify.com/track/6BoxSb788sdA54JFfIjKuh) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Beauty in the Struggle](https://open.spotify.com/album/6e0TQuKQWNnq7SKxC0JpWx) | 2:32 | 2022-02-04 |  |
+| [Best of Me](https://open.spotify.com/track/72EwYaLa5WwxOS0gAoNp94) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [Best Of Me](https://open.spotify.com/album/3Gv4KvbFA8aU0Y88fbfa1T) | 2:53 | 2023-04-28 |  |
 | [Best Shot](https://open.spotify.com/track/3VamXAvVMczcS2PTYtPfBQ) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts) | 3:15 | 2021-09-17 |  |
 | [Big, Big Plans](https://open.spotify.com/track/7yNJCsUH3tXlpQiHSsAc5l) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Big, Big Plans](https://open.spotify.com/album/7xVbpLEzt8IQn82IBSMPzu) | 3:07 | 2021-09-17 |  |
 | [Bless The Broken Road](https://open.spotify.com/track/4YjjNHtEsTX6Af4mCTupT5) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Feels Like Today](https://open.spotify.com/album/5NH87jdrVjOHt8gDMHT1Wy) | 3:46 | 2022-05-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/20GjXoOdMhodfDMvSdh6mm">Jessie Reyez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,576 likes - 63 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,580 likes - 63 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 | 39 | [Saint Nobody](https://open.spotify.com/track/3ZFekh9adaBDBxugiWwIJU) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Being Human In Public](https://open.spotify.com/album/0dZlf6U1djSwKxMrJ0RZgQ) | 3:13 |
 | 40 | [Cotton Candy](https://open.spotify.com/track/2Qk3arYe9kMXtwq5sc4cC7) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Cotton Candy](https://open.spotify.com/album/6RfOw8x2vmRaM6XZDJWQn0) | 2:14 |
 | 41 | [ANKLES](https://open.spotify.com/track/3ZWHzPucGUZvgNleqllzdK) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 2:49 |
-| 42 | [Healing \(ft\. Jessie Reyez\)](https://open.spotify.com/track/0d6L8cPPTdsPDsTIhy7L2T) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [The Aaron LP](https://open.spotify.com/album/1ouC1gY1mZhoXlz1FHSyv6) | 4:27 |
-| 43 | [DOPE](https://open.spotify.com/track/5e1XbU08FpBzNaK1XdKyvu) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 2:37 |
+| 42 | [DOPE](https://open.spotify.com/track/5e1XbU08FpBzNaK1XdKyvu) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 2:37 |
+| 43 | [Healing \(ft\. Jessie Reyez\)](https://open.spotify.com/track/0d6L8cPPTdsPDsTIhy7L2T) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [The Aaron LP](https://open.spotify.com/album/1ouC1gY1mZhoXlz1FHSyv6) | 4:27 |
 | 44 | [Blue Ribbon](https://open.spotify.com/track/0usNKTkmarDhxXsz4f2gmq) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Tim Suby](https://open.spotify.com/artist/5kfcmYOF2W9C1U8lvwhXnP) | [Kiddo](https://open.spotify.com/album/2q7EwuXduuQGDJrPYPVFyw) | 2:35 |
 | 45 | [DEAF \(who are you\)](https://open.spotify.com/track/0ASJErUz9Jft45bkkfNAXq) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 2:53 |
 | 46 | [Con el Viento](https://open.spotify.com/track/6B2enoSQxSITUe4Y84R5EF) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Music Inspired by the Film Roma](https://open.spotify.com/album/6fn5SvyjVLlUROm7dxny1s) | 3:14 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 | 62 | [Coffin](https://open.spotify.com/track/2CWZ7nG31mNqWyvM2RcdLr) | [Yaielle Golden](https://open.spotify.com/artist/79nlaaiSCwAMxb3PlsjVvV) | [Bedroom Studio Covers](https://open.spotify.com/album/4N6b3CWuyGjsG2DaMfw4RP) | 2:59 |
 | 63 | [Rain](https://open.spotify.com/track/23ytV3kbb4LHaAyPOzP0v7) | [J\-Benji3](https://open.spotify.com/artist/6ywzkeo5qo0eG2MjT6UeVP) | [Blue Benji](https://open.spotify.com/album/5MpZCA7sjUbJBxnSEyCdD3) | 2:49 |
 
-Snapshot ID: `MjgwNDQwMDIsMDAwMDAwMDAwMzQ2NmY5N2M4MDAzNTFlZGJkNmUzOGRjMjgzN2UyNw==`
+Snapshot ID: `MjgwNDU0NDIsMDAwMDAwMDBkMGQxZWZjNzUwZGE5MjkzOGExNzlmMmJkZmFmZDIwYw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qhCMWQZHJh.md) - [plain]
 
 > <a href="spotify:artist:6pSsE5y0uJMwYj83KrPyf9">Dawn Richard</a>'s favorite tracks\. Updated regularly\. Curated by Dawn Richard\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,094 likes - 64 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,138 likes - 64 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qhCMWQZHJh.md) - [plain]
 | 19 | [I'm a Wheel \- Sandboards Remix](https://open.spotify.com/track/1z2xv5OP3YRaushvU52S2Y) | [James Curd](https://open.spotify.com/artist/2PwiPk4hJp1MX6zH2YJmIL), [Buddy Zapha](https://open.spotify.com/artist/0LIghSBzyt4aXvXnC2Ea6z), [Sandboards](https://open.spotify.com/artist/0b9nRoESDT63nvLGIhktdT) | [I'm a Wheel](https://open.spotify.com/album/18QWJ3yPqNv5OHMFih7yDr) | 5:23 |
 | 20 | [Feels Like I'm Flying](https://open.spotify.com/track/0rOoY7stMHi3T7J2KmkNdV) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Feels Like I'm Flying](https://open.spotify.com/album/7Kwkp5g082UgcpJtXVOEh7) | 2:35 |
 | 21 | [Cleo at Abbey Road](https://open.spotify.com/track/3b2Cti7tr0bZGmOI8pZsuk) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Cleo at Abbey Road](https://open.spotify.com/album/3kZ3L3D6paw2abdWW88LGn) | 3:54 |
-| 22 | [BOYZ](https://open.spotify.com/track/5UnNCMFboucIF78lnp1jkR) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [BOYZ](https://open.spotify.com/album/4tLBzhf9266srlw5qj6LnE) | 4:00 |
+| 22 | [BOYZ](https://open.spotify.com/track/4P4DsCfcNrqs0dI99MSZsQ) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [BOYZ](https://open.spotify.com/album/6Igr5U9oZnIWtsmlPR0aXk) | 4:00 |
 | 23 | [Luv Like](https://open.spotify.com/track/3cJSNe3eSkegr9dZsZxr6c) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Luv Like](https://open.spotify.com/album/3dGdrMdedYlcSaijiU6AV3) | 3:06 |
 | 24 | [All I Need \- DJ\-Kicks](https://open.spotify.com/track/6Pityx91iO01VFnny4ezm6) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [DJ\-Kicks: Jayda G](https://open.spotify.com/album/454VGat5iW01CvFYy8FCIZ) | 5:59 |
 | 25 | [Breathe](https://open.spotify.com/track/4ZtqsOdBbS6GoedzzRGSo9) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat of the Land](https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2) | 5:36 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qhCMWQZHJh.md) - [plain]
 | 63 | [Choices \(Interlude\)](https://open.spotify.com/track/7yBpSyKmbZYLS8Rgz6ZD0B) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Blackheart](https://open.spotify.com/album/2IPKoEWJgWuM83zZOq3vkW) | 2:58 |
 | 64 | [Traveling Blind](https://open.spotify.com/track/5DlqIjt7z45BDTRVdvlqpI) | [Faces on TV](https://open.spotify.com/artist/3lLMK7bxYJxcaeThcvL8NJ) | [Traveling Blind](https://open.spotify.com/album/76XJq3lpUPoIJsvDxBGIif) | 3:35 |
 
-Snapshot ID: `MCxhOGZhNjk1YTQ1YTY1ZWFjMWQ2ZjQ2ZDJmZGFjZjdiMDVhZjhlNzll`
+Snapshot ID: `MCw2ZjAwMjg2NzFhNWJkZGYxYzIxZTRmMzQ1OTk1ZTIyMzkwZDg0NTU3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 
 > Indie folk ventures into the cinematic West.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,269 likes - 101 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,311 likes - 101 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 | 43 | [The Comeback Kid](https://open.spotify.com/track/2AC00hOhYz5dEwt2EMyChQ) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [The Comeback Kid](https://open.spotify.com/album/1Fc9CDZu5z5wmL3n7ecW62) | 3:01 |
 | 44 | [Tumbleweeds](https://open.spotify.com/track/5CQFNX7cWQggHcTvCiGW5B) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr) | [For You](https://open.spotify.com/album/72jR4MclaesjIdpdouVmYq) | 3:18 |
 | 45 | [Lead Me Home \- Live At Spotify House](https://open.spotify.com/track/1FL0VdCrrqc0UL8Uhrs2bH) | [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [Spotify Sessions](https://open.spotify.com/album/2Fp0EDcJifEPk83CFrl6t9) | 2:31 |
-| 46 | [Widow's Peak](https://open.spotify.com/track/70rmykCzXyK5F4Xzh3xLww) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [Old Rockhounds Never Die](https://open.spotify.com/album/3Jb4Qyb0nmKWW7JXhZQ3wA) | 3:51 |
+| 46 | [Widow's Peak](https://open.spotify.com/track/7HZXCvX14bnNOW0o8AbAmA) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [Old Rockhounds Never Die](https://open.spotify.com/album/32Qe8dNUwWqPzsXn9efgz8) | 3:51 |
 | 47 | [Kill Me Now](https://open.spotify.com/track/3Vsf6UhaGqYhgcExMhzinG) | [The Chapin Sisters](https://open.spotify.com/artist/6t28TiXfX7V14H4hAxBarM) | [Lake Bottom Lp](https://open.spotify.com/album/5wqWiTzzqH6DDkQsUXW1m0) | 3:04 |
 | 48 | [Rodeo Queen](https://open.spotify.com/track/0QbVHMdkKg1sUJnnCfqMXQ) | [Escondido](https://open.spotify.com/artist/13lPIA6TfK28D9nWZJ9HuB) | [The Ghost of Escondido](https://open.spotify.com/album/5y3B2J9840NAzcmATOe5Lb) | 3:01 |
 | 49 | [My Match](https://open.spotify.com/track/3hWVPkxb1qBoH5SkR0cAQl) | [Odessa](https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1) | [Odessa](https://open.spotify.com/album/4JPCUZpKBMY33wUMjN9nLH) | 4:38 |
@@ -66,13 +66,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 | 56 | [Land Of The Red Man](https://open.spotify.com/track/0n1qmC4kLGVtZ9BEi5iIx8) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Oklahoma Room: Folk Alliance International 2014](https://open.spotify.com/album/5FCZd4PWRL44BM9tdsVdyv) | 3:06 |
 | 57 | [Bronze \- Desert Mix](https://open.spotify.com/track/1PxH2A4J8Br5uS9Z2S9CN8) | [The Woodlands](https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx) | [Parallels, Vol\. II](https://open.spotify.com/album/2vmKBrFef6FFwZtX1DBvcW) | 3:48 |
 | 58 | [Top Yourself](https://open.spotify.com/track/7w85ReRElKKmLNCbPaKPGN) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Consolers of the Lonely](https://open.spotify.com/album/3yx8gEFlojRtt2WBhmxwfg) | 4:25 |
-| 59 | [Rattlesnake](https://open.spotify.com/track/6QNwiDTnnDOJPukpRCHeGm) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Outskirt](https://open.spotify.com/album/0G8dZ5FAjZVuklz6LI3AsV) | 2:30 |
+| 59 | [Rattlesnake](https://open.spotify.com/track/2Ta3z2OgsYa84waRnyLrZy) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Outskirt](https://open.spotify.com/album/5WArLXN9ag5hcNZ8cHTTM6) | 2:30 |
 | 60 | [Say It](https://open.spotify.com/track/0NzxWtlzpZWoM1juAYydbI) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Heart Song](https://open.spotify.com/album/0nuFFioVPJfJt0IWDSu7fL) | 6:14 |
 | 61 | [Devil's Girl](https://open.spotify.com/track/5rEYeXEDqlKDbjArQVIQt6) | [Overnight](https://open.spotify.com/artist/2yZ4kTpcFbclCFyd31Oi1n) | [Outlaws and Angels \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/14TZLEaVzCm5wnyjCJKLXi) | 3:29 |
 | 62 | [Footprints](https://open.spotify.com/track/2pYY9r8kEKur6zGf50QZDa) | [Escondido](https://open.spotify.com/artist/13lPIA6TfK28D9nWZJ9HuB) | [Walking With a Stranger](https://open.spotify.com/album/4LcI0UJmkd717mGgygsIfx) | 3:28 |
 | 63 | [Beautiful Friend](https://open.spotify.com/track/4G3hsMbbTUffZfG9l400kU) | [The Deslondes](https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1), [Dan Cutler](https://open.spotify.com/artist/4Z92aSgPiL4FSEUAQ6D2hY) | [Hurry Home](https://open.spotify.com/album/4RKuLpgetLJvQjY8e9NufA) | 2:58 |
 | 64 | [Hero](https://open.spotify.com/track/5StRcEVQTC2uiHjeSKxW0d) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [My Wild West](https://open.spotify.com/album/446zvOtU7llJSvyCfROA6o) | 3:32 |
-| 65 | [Foothills](https://open.spotify.com/track/5DmLXW9x9M2pbrX7xZy7zW) | [Snowblink](https://open.spotify.com/artist/6oYtsBDA5uQzV8FdGDvXZM) | [Returning Current](https://open.spotify.com/album/2aFUOolqC2jvv5c9A4pVnc) | 4:16 |
+| 65 | [Foothills](https://open.spotify.com/track/4WHb4MsIyAppzHxQZTYHE7) | [Snowblink](https://open.spotify.com/artist/6oYtsBDA5uQzV8FdGDvXZM) | [Returning Current](https://open.spotify.com/album/1AIhlYdWvOMBa2xTCojV5P) | 4:16 |
 | 66 | [The Only Thing Worth Fighting For \- From The HBO Series True Detective](https://open.spotify.com/track/1s99Qkm5GtZ1ufweMDOfzQ) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [The Only Thing Worth Fighting For \(From The HBO Series True Detective\)](https://open.spotify.com/album/00NfXHt45nh1NYwYNwL4ob) | 3:16 |
 | 67 | [The Navigator](https://open.spotify.com/track/6YFBr5XJl2Nap9uPcdSW9Q) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [The Navigator](https://open.spotify.com/album/3muvjEAtiu5JuPBRBNzIX9) | 3:07 |
 | 68 | [Morning Love](https://open.spotify.com/track/2spGltAm1sy8foy0faDbZ4) | [Feathership](https://open.spotify.com/artist/7jyB6xDRAHOnJseX86s7lm) | [Howl](https://open.spotify.com/album/7hleuyG5aLUxxVfcfNdIEv) | 2:40 |
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 | 77 | [The Ballad Of Minnie Dean](https://open.spotify.com/track/0giHz6O5iah8tfmiitmn9p) | [Delaney Davidson](https://open.spotify.com/artist/5gKjq94Zz8p953ddbd9bRP), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Sad But True \(Vol.3\)](https://open.spotify.com/album/7wKgeIs0pu6jctgW348TB3) | 2:48 |
 | 78 | [Take You Back \(The Iron Hoof Cattle Call\)](https://open.spotify.com/track/6F6bUsLOJMoaTUky7LftrP) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ) | 3:27 |
 | 79 | [Party Boy](https://open.spotify.com/track/6iyXhFNl11mcuyuuPnqhBW) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Make Way for Love](https://open.spotify.com/album/69wIdpWYSwdYMkYdn6iviH) | 2:33 |
-| 80 | [Big Black Bull](https://open.spotify.com/track/2A1YKEfy5QYbMWXsyMQRMR) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Horrifying Deatheating Bloodspider](https://open.spotify.com/album/27aht0wSf0h3U05DLMTmYY) | 2:45 |
+| 80 | [Big Black Bull](https://open.spotify.com/track/1NwGRKnKPnovZnLJ19Pn40) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Horrifying Deatheating Bloodspider](https://open.spotify.com/album/2AofxKR1xww94PPlpswmNs) | 2:45 |
 | 81 | [You And I](https://open.spotify.com/track/5qoD9i5DqtUWKaxyW29Yt7) | [honeyhoney](https://open.spotify.com/artist/22tQF7y3PwRuU6ZWAV2oTM) | [You And I](https://open.spotify.com/album/7k8UcNo3eeGLfzXUwUNjPO) | 3:45 |
 | 82 | [The Soundmaker](https://open.spotify.com/track/780ErBuX9zmXGzepTOQvVE) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [9 Dead Alive](https://open.spotify.com/album/4efFYAI6uWPYcxJiRl1hDC) | 4:52 |
 | 83 | [Whole Body Shakes](https://open.spotify.com/track/3QHpJbphRIACz3ltCwa76w) | [Woodpigeon](https://open.spotify.com/artist/5UDSvbfSs63qDk39xVtEdy) | [T R O U B L E](https://open.spotify.com/album/3hE4HzEUz3n3aKOarOXM6g) | 4:18 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 | 100 | [A Church In Ruins \- From The HBO Series True Detective](https://open.spotify.com/track/1nOX0ALAjpYGys5keet5JJ) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [A Church In Ruins \(From The HBO Series True Detective\)](https://open.spotify.com/album/1QHLQdd9J4JcJ8FomKvz1v) | 2:52 |
 | 101 | [Sunrise](https://open.spotify.com/track/6Zg0Vuj81fvyCwn7SlUMYV) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Hawk](https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs) | 2:31 |
 
-Snapshot ID: `MCxjMjVmNjM5NDc1NTM1OGI1MzJjMjZiYTA0Yjk0M2RlZjNmODdhYzQ5`
+Snapshot ID: `MCwxM2U5MGI5MTY5NTc4Y2I1MDVmOWM5NjY4YzllYzE3ZDc5YWQ1YzAw`

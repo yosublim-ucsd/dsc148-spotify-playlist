@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-421 songs - 23 hr 58 min
+422 songs - 1 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [DE ESTE LADO DE LA FOTO](https://open.spotify.com/track/35qpbFU4HXSoERLSM25End) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [DE ESTE LADO DE LA FOTO](https://open.spotify.com/album/27tu8mkYCoWvqgGvbECS1O) | 2:50 | 2022-01-07 | 2023-03-03 |
 | [De Nosotros Dos](https://open.spotify.com/track/6nQZ19Gq07AXDVUhfWANQP) | [SERIES](https://open.spotify.com/artist/6ciXwaMXMICBWN8q0R6i6M), [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb) | [S1\-E1](https://open.spotify.com/album/5f6pI2xD8r93ZRuhjHvJGB) | 3:07 | 2022-06-03 | 2022-07-20 |
 | [De vos conmigo](https://open.spotify.com/track/3aptZjldNbLCoheBo33YOa) | [Coiffeur](https://open.spotify.com/artist/6uO4hHITsBB37tBsogIB7K) | [Primer corte](https://open.spotify.com/album/6P49QmRp2rqT1o8fL4hNew) | 2:08 | 2022-04-01 | 2022-07-28 |
+| [Debajo de la Superficie](https://open.spotify.com/track/5m8E676DefoMURyq1aTtiG) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [SUPERSTICIONES](https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu) | 4:37 | 2023-04-14 |  |
 | [Debajo de la Superficie](https://open.spotify.com/track/4xs3x5ZAYHHFyxe9PcgeMl) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Debajo de la Superficie](https://open.spotify.com/album/2KsAVCC3dduno7Nf96PEGj) | 4:38 | 2022-01-28 | 2022-07-19 |
 | [Decis Que No](https://open.spotify.com/track/6gS0H9il78eIK2XgpscZgm) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Decis Que No](https://open.spotify.com/album/2TNSW6V3rsuKEf9S0PQACC) | 3:26 | 2022-01-28 | 2022-07-20 |
 | [Decírtelo](https://open.spotify.com/track/3nz82lKGvfe78GjkQmDMl1) | [Facundo Grandío](https://open.spotify.com/artist/4Wkm55LBgLyt4MQh78QqJK) | [Decírtelo](https://open.spotify.com/album/4il91GPpN9QclFP0jWJdCw) | 3:12 | 2022-01-28 | 2022-07-25 |
@@ -135,7 +136,7 @@
 | [Déjame Dejarte Atrás](https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Déjame Dejarte Atrás](https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx) | 3:24 | 2022-01-07 |  |
 | [Días Soleados](https://open.spotify.com/track/1T9pk3jYI5ALoOMOcJwNa9) | [¿Juan Julian?](https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7) | [Míos y de Otros](https://open.spotify.com/album/51lX79gqjfaeZ0TTgZtiia) | 1:36 | 2022-04-01 | 2022-04-20 |
 | [El Amor Es Más Fuerte](https://open.spotify.com/track/3p37wMv0GAFmpLHBEsvRSz) | [Ramiro Abrevaya](https://open.spotify.com/artist/4BGxydvjjSq0N23rpsdLNX), [Yacaré Manso](https://open.spotify.com/artist/0G6VQf773ZIIYkKs8QnW1V) | [El Amor Es Más Fuerte](https://open.spotify.com/album/3cxHX82yRSyMFd8qUWKu3I) | 4:40 | 2022-04-01 | 2022-07-15 |
-| [El Amor No Existe](https://open.spotify.com/track/3yof8FdDj1Gk0QRqjrJWxd) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Los Náufragos](https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh) | 3:17 | 2022-01-07 |  |
+| [El Amor No Existe](https://open.spotify.com/track/3yof8FdDj1Gk0QRqjrJWxd) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Los Náufragos](https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh) | 3:17 | 2022-01-07 | 2023-04-29 |
 | [El Beso](https://open.spotify.com/track/638RCwvucTFj33BeWrHXVF) | [De Trueno](https://open.spotify.com/artist/6QPxvCeqJ4kJ12x5VAtscJ) | [El Beso](https://open.spotify.com/album/3GGkEkURaOYMY6njqqG5Rv) | 3:29 | 2022-04-01 | 2022-07-25 |
 | [El Bosque \(feat\. Denise Rosenthal\)](https://open.spotify.com/track/0EiUUq1jHdNG8qyq0A6K7j) | [Fuel Fandango](https://open.spotify.com/artist/1MbqzxZvHtdClX1cBKU2OG), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [El Bosque \(feat\. Denise Rosenthal\)](https://open.spotify.com/album/5HjJQ4EMvTmqxpPztKoC1o) | 3:06 | 2022-04-01 | 2022-05-27 |
 | [El Encuentro](https://open.spotify.com/track/0PbDj1Lh8uZJ2ZcTRSBvQf) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [El Encuentro](https://open.spotify.com/album/3NAGaIPdSjlSJhAbcgRU3A) | 2:58 | 2022-01-07 |  |

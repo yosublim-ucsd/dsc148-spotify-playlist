@@ -4,7 +4,7 @@
 
 > The official playlist for <a href="spotify:user:0ouhj3nctpqgo8bgamzte2o6o">Paramount Network</a>'s Yellowstone.
 
-206 songs - 12 hr 53 min
+207 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Lady May](https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:03 | 2020-06-29 |  |
 | [Last Call](https://open.spotify.com/track/0SKmU6qOXKUdHuZsiSqpcn) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw) | 3:28 | 2022-11-21 |  |
 | [Last of My Kind](https://open.spotify.com/track/36e7JUxXMV4mO4ZJWjBuSa) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 4:22 | 2019-07-18 |  |
-| [Let It Out](https://open.spotify.com/track/42O1JZwHywFbQ0BDU1CDnu) | [L.A\. Edwards](https://open.spotify.com/artist/29Hjc5nLGKpM1XFXxu9HHV) | [Let It Out](https://open.spotify.com/album/1VfNlgg6CkLSyhjpCNEK1M) | 3:11 | 2022-12-19 |  |
+| [Let It Out](https://open.spotify.com/track/42O1JZwHywFbQ0BDU1CDnu) | [L.A\. Edwards](https://open.spotify.com/artist/29Hjc5nLGKpM1XFXxu9HHV) | [Let It Out](https://open.spotify.com/album/1VfNlgg6CkLSyhjpCNEK1M) | 3:11 | 2022-12-19 | 2023-04-29 |
+| [Let It Out](https://open.spotify.com/track/667wEJenBMFpbZuh8wzism) | [L.A\. Edwards](https://open.spotify.com/artist/29Hjc5nLGKpM1XFXxu9HHV) | [Out of the Heart of Darkness](https://open.spotify.com/album/3wwGB8WGNtpi5OEvfQ8RT9) | 3:11 | 2022-12-19 |  |
 | [Life of Sin](https://open.spotify.com/track/7oop0Rsh4jhdOtglVL3Dmf) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Metamodern Sounds in Country Music](https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag) | 2:26 | 2020-07-13 |  |
 | [Little Drummer Boy \- 2004 Remaster](https://open.spotify.com/track/5jsRxwEiaUZlvATkajITkU) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Light of the Stable \(Expanded & Remastered\)](https://open.spotify.com/album/3FGUuuml7BwQVDrhb20Elz) | 4:01 | 2019-06-27 |  |
 | [Long Hot Summer Day](https://open.spotify.com/track/0kOG4bwpKgRlcJw1NA6csR) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Diamonds & Gasoline](https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p) | 4:12 | 2019-06-27 |  |

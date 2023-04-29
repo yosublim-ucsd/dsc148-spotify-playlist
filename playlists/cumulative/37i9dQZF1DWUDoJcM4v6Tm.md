@@ -4,14 +4,15 @@
 
 > Explore a sprawling musical landscape.
 
-241 songs - 15 hr 8 min
+242 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Age of Apathy](https://open.spotify.com/track/69MFthcMTOCpnGgQaa9OTj) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Age of Apathy](https://open.spotify.com/album/48Wth3kYQNTjOsPZ5n6a77) | 3:58 | 2022-01-05 |  |
 | [Ain't That The Way](https://open.spotify.com/track/0g31ynVt7Zy2cmYmTQfyjr) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Ain't That The Way](https://open.spotify.com/album/1s1n8hW8oWLzTlj2w2nGLn) | 2:53 | 2021-10-08 | 2022-07-29 |
 | [Ain't That The Way](https://open.spotify.com/track/2iOtS7FirPS1rhCLxmFJVl) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Holy Hive](https://open.spotify.com/album/5w6iYBCbAgRq8RMuytCAka) | 2:53 | 2022-05-02 |  |
-| [Albert Ross \(Acoustic Version\)](https://open.spotify.com/track/5EVEoWnWjMefjqOO6ScP0i) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Albert Ross \(Acoustic Version\)](https://open.spotify.com/album/3cAdzbqrlXpQlmrLdaUsjG) | 4:30 | 2022-05-02 |  |
+| [Albert Ross \(Acoustic Version\)](https://open.spotify.com/track/0mulbeU5pPIOYpt8veI791) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Albert Ross \(Acoustic Version\)](https://open.spotify.com/album/5yLc158NB8aS18RC9sjNbM) | 4:30 | 2023-04-21 |  |
+| [Albert Ross \(Acoustic Version\)](https://open.spotify.com/track/5EVEoWnWjMefjqOO6ScP0i) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Albert Ross \(Acoustic Version\)](https://open.spotify.com/album/3cAdzbqrlXpQlmrLdaUsjG) | 4:30 | 2022-05-02 | 2023-04-29 |
 | [Albert Ross \- Acoustic Version](https://open.spotify.com/track/6b5spmZTz183Wv2NISqkuB) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Albert Ross \(Acoustic Version\)](https://open.spotify.com/album/1JOxodWPhouYYkrU4pokMs) | 4:30 | 2021-10-08 | 2022-07-29 |
 | [All Is Well](https://open.spotify.com/track/27B803q0KBf9fmoAAK7V9h) | [Austin Basham](https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA) | [Linton / / Oslo](https://open.spotify.com/album/7c88HZqfqsdRmc7XqYBGny) | 4:16 | 2022-05-02 | 2022-11-14 |
 | [All Is Well](https://open.spotify.com/track/3KAQ4xe2sR6IiltZw8HSA5) | [Austin Basham](https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA) | [You and Me for Now](https://open.spotify.com/album/5KPl7k36JzLxe4bisDG8S4) | 4:16 | 2022-05-02 |  |

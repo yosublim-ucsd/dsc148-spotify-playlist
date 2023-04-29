@@ -1,12 +1,12 @@
 {
   "description": "Du Congo, au monde. \ud83c\udf0d Photo: KeBlack",
-  "num_followers": 16547,
+  "num_followers": 16615,
   "original_name": "Biso Na Biso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDVkMzdjODM2N2UxYjhkZmZiOGI1YjlkNjcyNDNhMjAzYzQzZjI1",
+  "snapshot_id": "MCwyMGUzZTc4ZWIyNmIzMGVmYWI1YWI0NGNiYzVhMzE5MTBhZWVjN2Q3",
   "tracks": [
     {
       "added_at": "2023-04-21 04:01:00",
@@ -43,6 +43,46 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "Gentleman 2.0",
+        "url": "https://open.spotify.com/album/71uxNnvLeDpn3vEHqdY1Mv"
+      },
+      "artists": [
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        },
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        },
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        }
+      ],
+      "duration_ms": 351746,
+      "name": "Trouvez-la moi",
+      "url": "https://open.spotify.com/track/2HNpvUvyU9kYl41uha8cP7"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "5Melodies Du Lac",
+        "url": "https://open.spotify.com/album/2xb2jfEBXpzvbNLmVtSsVu"
+      },
+      "artists": [
+        {
+          "name": "Samy palila",
+          "url": "https://open.spotify.com/artist/0ie8C29F5qLW9CoMdogwyL"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Good Vibe",
+      "url": "https://open.spotify.com/track/1qbnqWCKJFo7MYKB013OSo"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "Champion",
         "url": "https://open.spotify.com/album/5gFor2ZmO0Agv3isgcMPDl"
       },
@@ -63,26 +103,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "DIAMANT DU BLED",
-        "url": "https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO"
-      },
-      "artists": [
-        {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
-        },
-        {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
-        }
-      ],
-      "duration_ms": 192213,
-      "name": "COEUR DE ICE (feat. Damso)",
-      "url": "https://open.spotify.com/track/7jbu9k6w67hWlhSinmGT3c"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Mopacho Panama",
         "url": "https://open.spotify.com/album/5PmflLOf1xJZt1P7fAbA4D"
       },
@@ -99,6 +119,22 @@
       "duration_ms": 179873,
       "name": "Mopacho Panama",
       "url": "https://open.spotify.com/track/7wbMzPQrM8HF5z5ouQNiZT"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Eloko",
+        "url": "https://open.spotify.com/album/5BclOVLIHYhchoiRfRzA9A"
+      },
+      "artists": [
+        {
+          "name": "Extra Musica Nouvel Horizon",
+          "url": "https://open.spotify.com/artist/2euF0knOB1Cv50nTlXGW98"
+        }
+      ],
+      "duration_ms": 243278,
+      "name": "Eloko",
+      "url": "https://open.spotify.com/track/0bnOKQk43FZdLaCku0zSiR"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -143,42 +179,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "5Melodies Du Lac",
-        "url": "https://open.spotify.com/album/2xb2jfEBXpzvbNLmVtSsVu"
+        "name": "DIAMANT DU BLED",
+        "url": "https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO"
       },
       "artists": [
         {
-          "name": "Samy palila",
-          "url": "https://open.spotify.com/artist/0ie8C29F5qLW9CoMdogwyL"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Good Vibe",
-      "url": "https://open.spotify.com/track/1qbnqWCKJFo7MYKB013OSo"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Gentleman 2.0",
-        "url": "https://open.spotify.com/album/71uxNnvLeDpn3vEHqdY1Mv"
-      },
-      "artists": [
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
         },
         {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
-        },
-        {
-          "name": "Fally Ipupa",
-          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
         }
       ],
-      "duration_ms": 351746,
-      "name": "Trouvez-la moi",
-      "url": "https://open.spotify.com/track/2HNpvUvyU9kYl41uha8cP7"
+      "duration_ms": 192213,
+      "name": "COEUR DE ICE (feat. Damso)",
+      "url": "https://open.spotify.com/track/7jbu9k6w67hWlhSinmGT3c"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -239,22 +255,18 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "MOYI",
-        "url": "https://open.spotify.com/album/1WJXqSZBf4OLQ9gqdPp2HZ"
+        "name": "Bloqu\u00e9",
+        "url": "https://open.spotify.com/album/5LZHW96lBwlzoqxYzEfVF8"
       },
       "artists": [
         {
-          "name": "Badi",
-          "url": "https://open.spotify.com/artist/1NyPuswLVpGQYtybS22vKr"
-        },
-        {
-          "name": "MPLI",
-          "url": "https://open.spotify.com/artist/30ABSMFhYN2HZHLdSt4D2w"
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
         }
       ],
-      "duration_ms": 226080,
-      "name": "10h30. Le Soleil Donne",
-      "url": "https://open.spotify.com/track/1BQ1XGyL1s6iXlkbafsDYK"
+      "duration_ms": 198200,
+      "name": "Bloqu\u00e9",
+      "url": "https://open.spotify.com/track/6L6lwZwGzn6WWqeLbONWZf"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -589,6 +601,22 @@
       "url": "https://open.spotify.com/track/2BqEQaryZII0qbbN7eo7Jj"
     },
     {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Gomme, Vol. 2",
+        "url": "https://open.spotify.com/album/2GKYeOvdjYn1iD0fFRf4JT"
+      },
+      "artists": [
+        {
+          "name": "Fabregas le M\u00e9tis Noir",
+          "url": "https://open.spotify.com/artist/49ip7SoDZFm62AzVHPci6X"
+        }
+      ],
+      "duration_ms": 302862,
+      "name": "Histoire d'amour",
+      "url": "https://open.spotify.com/track/1xivAPzBdY8AdOph4sFU2Y"
+    },
+    {
       "added_at": "2023-04-21 04:01:00",
       "album": {
         "name": "Gbadolite",
@@ -611,6 +639,22 @@
       "duration_ms": 266666,
       "name": "Gbadolite",
       "url": "https://open.spotify.com/track/0mLtyubIbBG49c9ZMyJdOD"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Kimia",
+        "url": "https://open.spotify.com/album/797wvOIl0W9LMGyxP4Qq3l"
+      },
+      "artists": [
+        {
+          "name": "Melane",
+          "url": "https://open.spotify.com/artist/0tQTnAoprDT22fWfmn1yR1"
+        }
+      ],
+      "duration_ms": 209945,
+      "name": "Kimia",
+      "url": "https://open.spotify.com/track/57igbE8wSHCC7lak45Ellc"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -731,26 +775,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Mon coeur avait raison",
-        "url": "https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 206786,
-      "name": "Sap\u00e9s comme jamais (feat. Niska) - Pilule bleue",
-      "url": "https://open.spotify.com/track/0CJ31BEjjl1tPIj0CKi9kH"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Yo Pe (Remix)",
         "url": "https://open.spotify.com/album/7jwHAuki1wn7hb23CVhNYV"
       },
@@ -771,6 +795,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "Holla",
+        "url": "https://open.spotify.com/album/4t8mt3i5hTBN8scNtYXY6w"
+      },
+      "artists": [
+        {
+          "name": "Mopao Mumu",
+          "url": "https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3"
+        }
+      ],
+      "duration_ms": 215788,
+      "name": "Holla",
+      "url": "https://open.spotify.com/track/02KE9xq0mTKsOaZhSOQ2Gp"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "Dodo (Remix)",
         "url": "https://open.spotify.com/album/7E3aU7OQ0sWpAY46h3TRfh"
       },
@@ -787,6 +827,38 @@
       "duration_ms": 156051,
       "name": "Dodo - Remix",
       "url": "https://open.spotify.com/track/0xX55NB90iv1LGAosfkmqO"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "L\u2019Afrique en avant",
+        "url": "https://open.spotify.com/album/0cQj38ecACSGaI669TLY1W"
+      },
+      "artists": [
+        {
+          "name": "Barka",
+          "url": "https://open.spotify.com/artist/4GOGeatIVTAn3GVsK3yKdc"
+        }
+      ],
+      "duration_ms": 211093,
+      "name": "L\u2019Afrique en avant",
+      "url": "https://open.spotify.com/track/0P0O7KW55TY9Fz6bRRtdr5"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Paka",
+        "url": "https://open.spotify.com/album/5MkA3ZHGmPmfeUlZLjNM9F"
+      },
+      "artists": [
+        {
+          "name": "Marechal Abd",
+          "url": "https://open.spotify.com/artist/5BygI6Tha3l5w9lxWJUKMY"
+        }
+      ],
+      "duration_ms": 194612,
+      "name": "Paka",
+      "url": "https://open.spotify.com/track/1KbEjbFZlGJv37Lm6XCfbl"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -827,6 +899,26 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "Mon coeur avait raison",
+        "url": "https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 206786,
+      "name": "Sap\u00e9s comme jamais (feat. Niska) - Pilule bleue",
+      "url": "https://open.spotify.com/track/0CJ31BEjjl1tPIj0CKi9kH"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "Waah! (feat. Koffi Olomide)",
         "url": "https://open.spotify.com/album/4Jk9lFqW5Jubq6RblSowLj"
       },
@@ -843,38 +935,6 @@
       "duration_ms": 269373,
       "name": "Waah! (feat. Koffi Olomide)",
       "url": "https://open.spotify.com/track/0ceJAvjokFWwhh0nsOM9QD"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Derni\u00e8re volont\u00e9",
-        "url": "https://open.spotify.com/album/1fPlYiVtjdFgVcTMH4Q9IO"
-      },
-      "artists": [
-        {
-          "name": "Madilu System",
-          "url": "https://open.spotify.com/artist/7dXTUndlDjlH9V5I9KRWjm"
-        }
-      ],
-      "duration_ms": 416053,
-      "name": "Si je savais \u00e7a",
-      "url": "https://open.spotify.com/track/4RqQKQ4VxlYC6zWHgCQb5p"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Bloqu\u00e9",
-        "url": "https://open.spotify.com/album/5LZHW96lBwlzoqxYzEfVF8"
-      },
-      "artists": [
-        {
-          "name": "Fally Ipupa",
-          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "Bloqu\u00e9",
-      "url": "https://open.spotify.com/track/6L6lwZwGzn6WWqeLbONWZf"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -971,22 +1031,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Holla",
-        "url": "https://open.spotify.com/album/4t8mt3i5hTBN8scNtYXY6w"
-      },
-      "artists": [
-        {
-          "name": "Mopao Mumu",
-          "url": "https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3"
-        }
-      ],
-      "duration_ms": 215788,
-      "name": "Holla",
-      "url": "https://open.spotify.com/track/02KE9xq0mTKsOaZhSOQ2Gp"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Bolingo",
         "url": "https://open.spotify.com/album/5M8U93sR4czpqfToMyTTgM"
       },
@@ -1047,22 +1091,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Chocomix",
-        "url": "https://open.spotify.com/album/0aeGlsQjatfwXPZwA2VOxh"
-      },
-      "artists": [
-        {
-          "name": "Moerson",
-          "url": "https://open.spotify.com/artist/6I4CPoQeM3qI54JeCqySdW"
-        }
-      ],
-      "duration_ms": 176357,
-      "name": "Choco",
-      "url": "https://open.spotify.com/track/0xFQrovDKSpOG6rWlcKcnV"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Doucement",
         "url": "https://open.spotify.com/album/0RnNLpEuu508N7UcgndkBf"
       },
@@ -1099,22 +1127,6 @@
       "duration_ms": 208366,
       "name": "Muselu",
       "url": "https://open.spotify.com/track/3OkLPaGFAjbpCVC31V6pNL"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Trop c'est trop",
-        "url": "https://open.spotify.com/album/1wL4WyHqFJwnS9F1IgxeFW"
-      },
-      "artists": [
-        {
-          "name": "Extra Musica",
-          "url": "https://open.spotify.com/artist/5b93AJQpEWNI8b1X6Nu99K"
-        }
-      ],
-      "duration_ms": 403800,
-      "name": "Trop c'est trop",
-      "url": "https://open.spotify.com/track/6GvLQgYTEwmgTjadj3Agsw"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1403,22 +1415,6 @@
       "duration_ms": 216933,
       "name": "Zigida",
       "url": "https://open.spotify.com/track/0VF1VyAiS0oRk3O22mv13k"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Paka",
-        "url": "https://open.spotify.com/album/5MkA3ZHGmPmfeUlZLjNM9F"
-      },
-      "artists": [
-        {
-          "name": "Marechal Abd",
-          "url": "https://open.spotify.com/artist/5BygI6Tha3l5w9lxWJUKMY"
-        }
-      ],
-      "duration_ms": 194612,
-      "name": "Paka",
-      "url": "https://open.spotify.com/track/1KbEjbFZlGJv37Lm6XCfbl"
     },
     {
       "added_at": "2023-04-21 04:01:00",

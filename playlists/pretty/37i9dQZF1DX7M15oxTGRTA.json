@@ -1,12 +1,12 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 69249,
+  "num_followers": 69355,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDhjOGY5ZmFhODBlZDJhMTA0NTlmNTQwOGYwNmRlOGM4ODI1NDEy",
+  "snapshot_id": "MCxmYWE3YTZlMzgwMDk4YjU2YzAzNjVkMWM0YjY0NzQ1YmM0M2I1Y2Y0",
   "tracks": [
     {
       "added_at": "2023-01-19 17:27:16",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Life Is A Song Worth Singing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 296880,
-      "name": "When Somebody Loves You Back",
-      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "Jarreau",
         "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 258399,
       "name": "Mornin'",
       "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 296880,
+      "name": "When Somebody Loves You Back",
+      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
+        "name": "Hangin' Tough",
+        "url": "https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK"
+      },
+      "artists": [
+        {
+          "name": "New Kids On The Block",
+          "url": "https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6"
+        }
+      ],
+      "duration_ms": 263533,
+      "name": "Please Don't Go Girl",
+      "url": "https://open.spotify.com/track/2unWjXOcFWT2vlleStTEJy"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
         "name": "Q's Jook Joint",
         "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 373266,
       "name": "You Put A Move On My Heart",
       "url": "https://open.spotify.com/track/1RjCsqiatsrQwQvqjecr30"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
-        "name": "Hangin' Tough",
-        "url": "https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK"
-      },
-      "artists": [
-        {
-          "name": "New Kids On The Block",
-          "url": "https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6"
-        }
-      ],
-      "duration_ms": 263533,
-      "name": "Please Don't Go Girl",
-      "url": "https://open.spotify.com/track/2unWjXOcFWT2vlleStTEJy"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -1411,8 +1411,8 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Injoy",
-        "url": "https://open.spotify.com/album/1qxa6VbQVlc4PHelzTGXFo"
+        "name": "Propositions",
+        "url": "https://open.spotify.com/album/79OFHrcTLjudoKPtFs29tn"
       },
       "artists": [
         {
@@ -1420,9 +1420,9 @@
           "url": "https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5"
         }
       ],
-      "duration_ms": 287933,
-      "name": "Running In And Out Of My Life",
-      "url": "https://open.spotify.com/track/3OW48hHrhnd1yjIkPWmnFb"
+      "duration_ms": 346746,
+      "name": "Anticipation",
+      "url": "https://open.spotify.com/track/46ABOH3c3OmH5waNodL3FZ"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -1511,8 +1511,8 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Propositions",
-        "url": "https://open.spotify.com/album/79OFHrcTLjudoKPtFs29tn"
+        "name": "Injoy",
+        "url": "https://open.spotify.com/album/1qxa6VbQVlc4PHelzTGXFo"
       },
       "artists": [
         {
@@ -1520,9 +1520,9 @@
           "url": "https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5"
         }
       ],
-      "duration_ms": 346746,
-      "name": "Anticipation",
-      "url": "https://open.spotify.com/track/46ABOH3c3OmH5waNodL3FZ"
+      "duration_ms": 287933,
+      "name": "Running In And Out Of My Life",
+      "url": "https://open.spotify.com/track/3OW48hHrhnd1yjIkPWmnFb"
     },
     {
       "added_at": "2023-01-19 17:27:16",

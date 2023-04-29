@@ -4,7 +4,7 @@
 
 > Progressive beats and harmonies for the late hours.
 
-61 songs - 3 hr 54 min
+62 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Awake](https://open.spotify.com/track/6CpqZ6Pyi1e6QIPegZoA6C) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Together](https://open.spotify.com/album/7mlqv5ptQizQ5P8nWQthQr) | 3:37 | 2022-02-01 |  |
 | [Balm](https://open.spotify.com/track/22h4bg05XHk550N5HIEs35) | [Bill Laurance](https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF) | [Zeal EP](https://open.spotify.com/album/1r2Yh46iOWNS6fnoc1qPhW) | 4:21 | 2022-02-01 |  |
 | [Beachside Thoughts](https://open.spotify.com/track/08PBULFltRvdPe6pibx1Vv) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Together](https://open.spotify.com/album/7mlqv5ptQizQ5P8nWQthQr) | 5:38 | 2022-02-01 |  |
-| [Bonzai View](https://open.spotify.com/track/6fQByeRUNdzB9g1dU5RvcK) | [Potatohead People](https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m) | [Bonzai View](https://open.spotify.com/album/4WAq1BnkxlC0GOhdkU7w0j) | 3:32 | 2022-02-01 |  |
+| [Bonzai View](https://open.spotify.com/track/5qhfbZ9QWxujhlokGPPY4C) | [Potatohead People](https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m) | [Bonzai View](https://open.spotify.com/album/6GT1SMUUhwBwbEZrRpabfa) | 3:32 | 2022-02-01 |  |
+| [Bonzai View](https://open.spotify.com/track/6fQByeRUNdzB9g1dU5RvcK) | [Potatohead People](https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m) | [Bonzai View](https://open.spotify.com/album/4WAq1BnkxlC0GOhdkU7w0j) | 3:32 | 2022-02-01 | 2023-04-29 |
 | [By Design](https://open.spotify.com/track/4HltUhQXotO1Hzkrl5eKIo) | [R+R=NOW](https://open.spotify.com/artist/6YwDgZxJVXO6N24VU8XMU5), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn), [Derrick Hodge](https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes), [Taylor McFerrin](https://open.spotify.com/artist/0yLmsf6RBPYqm6hvFJCPg6), [Justin Tyson](https://open.spotify.com/artist/1XZooYvCGv4XL9rX1kKDdI) | [Collagically Speaking](https://open.spotify.com/album/4odXFRfbmTNdyjiidyDgDb) | 5:27 | 2022-02-01 |  |
 | [Can We? Take A Break](https://open.spotify.com/track/74nIuOVn5UfOD0PkLTFWV9) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [4 Rooms](https://open.spotify.com/album/2WTroID4vbRr1ZdVPjLevQ) | 2:44 | 2022-02-01 |  |
 | [Chandler](https://open.spotify.com/track/0xaTg3VQlkaeWmmBuzSKR4) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Yazz Ahmed](https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN) | [Honk If You're Sad](https://open.spotify.com/album/7hfF5ThQJ3JPuQ4EWqDzZj) | 3:41 | 2022-02-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3QkuBdPimxi.md) - [plain]
 
 > Gather 'round and enjoy these far out songs about outer space.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,118 likes - 83 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,155 likes - 83 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3QkuBdPimxi.md) - [plain]
 | 33 | [Los Astronautas](https://open.spotify.com/track/2he2sah5T3HY8RMOxTEpD3) | [Chespirito](https://open.spotify.com/artist/1XPjFfnJm6Zvv06kZZhN4R) | [Chespirito y Sus Amigos](https://open.spotify.com/album/4U9gghqx6DSuToyM3WDGwX) | 2:31 |
 | 34 | [Let's Explore Space!](https://open.spotify.com/track/5kSNgcL9H7rlZE6PXApxIm) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I), [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Ready for Preschool Vol\. 6](https://open.spotify.com/album/4q63Npjvs1fkfxDz0AwpzZ) | 1:28 |
 | 35 | [Lapis Lazuli \(feat\. Zach Callison\)](https://open.spotify.com/track/2IIvGb927AIht6Yf6jtCY9) | [Steven Universe](https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA), [Zach Callison](https://open.spotify.com/artist/57YFNq46Xx86nl7ETkd1Ei) | [Steven Universe, Vol\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5MAx9iJP58ErRpSUdrV1Uk) | 0:35 |
-| 36 | [Zoom a Little Zoom \(Rocket Ship\)](https://open.spotify.com/track/0Eihywf0SKrm5whbVQj1vf) | [Cathy Fink & Marcy Marxer](https://open.spotify.com/artist/3D7loN7XTJukbZaniJwvEr) | [Zoom a Little Zoom: A Ride Through Science](https://open.spotify.com/album/00XJLkpRPzHeWbQI2pvL2F) | 3:21 |
+| 36 | [Zoom a Little Zoom \(Rocket Ship\)](https://open.spotify.com/track/1raICern1u7oFxEQ0TPML3) | [Cathy Fink & Marcy Marxer](https://open.spotify.com/artist/3D7loN7XTJukbZaniJwvEr) | [Zoom a Little Zoom: A Ride Through Science](https://open.spotify.com/album/1BsgaauXt7oVJJUA20UEx0) | 3:21 |
 | 37 | [The Planets](https://open.spotify.com/track/49fHq1JGgELi2dAWZFzFhz) | [Tim Kubart](https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp) | [Songs for Chickens](https://open.spotify.com/album/6DRUmoB3xTpgh1dqWYQP1W) | 3:00 |
 | 38 | [Astronaut](https://open.spotify.com/track/4qaPOGubnrK1oSbGFVV8QL) | [Big Block Singsong](https://open.spotify.com/artist/5wXiTCNvj4JL6cJzQT5Ncp) | [Greatest Hits, Vol\. 3](https://open.spotify.com/album/66zjIwZchPpv2UIIZ7L3eZ) | 1:50 |
 | 39 | [Astronauts Love \(feat\. Danny Weinkauf\)](https://open.spotify.com/track/3pOYii0WpO0YoBfWlnqi18) | [Jumpin' jamie](https://open.spotify.com/artist/2xrfLcoMMhihcXbCHl7Ytt), [Danny Weinkauf](https://open.spotify.com/artist/00s1oYBnUz6FlP3sdD6x0u) | [Astronauts Love \(feat\. Danny Weinkauf\)](https://open.spotify.com/album/5tCUh4kGTfSThNipxSBWXe) | 2:42 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3QkuBdPimxi.md) - [plain]
 | 82 | [Mikey the Marsian](https://open.spotify.com/track/4EyzNFEd8U2fKUyEYOB45N) | [ABC Kids](https://open.spotify.com/artist/6l7J2uM3bM2BCh0tIPhWx8) | [A Rocket to the Moon](https://open.spotify.com/album/7usbIPqIwsVe91YvmJbwpK) | 1:28 |
 | 83 | [I Want to Be an Astronanut](https://open.spotify.com/track/3hCzvS4eN5VyZUtzwQEYjR) | [ABC Kids](https://open.spotify.com/artist/6l7J2uM3bM2BCh0tIPhWx8) | [A Rocket to the Moon](https://open.spotify.com/album/7usbIPqIwsVe91YvmJbwpK) | 1:42 |
 
-Snapshot ID: `MCw3MWRkZGM4MTg1N2ZlNWM2YWJlMDU0OWZiZmQ5OTMzMDAyNGU2Y2E0`
+Snapshot ID: `MCxmZGM2ZWQ5MThhYjQyMTc5NTdmOTMzM2QzYzZkZWFmMDAyNGYxNDIy`

@@ -4,7 +4,7 @@
 
 > Los muertos al cajón y los vivos al fiestón.
 
-87 songs - 4 hr 53 min
+88 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Papá Soy una Zombie](https://open.spotify.com/track/4pAk5rjfyA4BkUKysqNk5U) | [Los Tiki Phantoms](https://open.spotify.com/artist/4h2hLlCk6gQXMcrw4Z6ZYt) | [Papá Soy una Zombie](https://open.spotify.com/album/1zfreS1Ke3BkR6ty0RHvIX) | 2:32 | 2022-10-10 |  |
 | [Pasa la Vida](https://open.spotify.com/track/4DP3Pl4f2QysGpBvBakrIE) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Páginas en Blanco](https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G) | 4:33 | 2022-10-10 |  |
 | [Psycho Killer \- 2005 Remaster](https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:21 | 2022-10-10 |  |
-| [Que Monstruos Son \(feat\. Keith Streng & Mary Huff\)](https://open.spotify.com/track/1eBTesQZ72agGVC4kKs6HN) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB), [Peter Zaremba](https://open.spotify.com/artist/0RgDhk6Ntg5xE5WrXaCZTs), [Keith Streng](https://open.spotify.com/artist/6q6h6zKK3WWyHfLiX0d0ya), [Mary Huff](https://open.spotify.com/artist/3Vd9Qh2CbNymUpbawbMGks) | [Mondo Zombie Boogaloo](https://open.spotify.com/album/3SkPMcfyCGA9T9DB30XbL6) | 3:29 | 2022-10-10 |  |
+| [Que Monstruos Son \(feat\. Keith Streng & Mary Huff\)](https://open.spotify.com/track/1eBTesQZ72agGVC4kKs6HN) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB), [Peter Zaremba](https://open.spotify.com/artist/0RgDhk6Ntg5xE5WrXaCZTs), [Keith Streng](https://open.spotify.com/artist/6q6h6zKK3WWyHfLiX0d0ya), [Mary Huff](https://open.spotify.com/artist/3Vd9Qh2CbNymUpbawbMGks) | [Mondo Zombie Boogaloo](https://open.spotify.com/album/3SkPMcfyCGA9T9DB30XbL6) | 3:29 | 2022-10-10 | 2023-04-29 |
+| [Que Monstruos Son \(feat\. Keith Streng & Mary Huff\)](https://open.spotify.com/track/45PmtkNbgCun4GPphHVzvi) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB), [Peter Zaremba](https://open.spotify.com/artist/0RgDhk6Ntg5xE5WrXaCZTs), [Keith Streng](https://open.spotify.com/artist/6q6h6zKK3WWyHfLiX0d0ya), [Mary Huff](https://open.spotify.com/artist/3Vd9Qh2CbNymUpbawbMGks) | [Mondo Zombie Boogaloo](https://open.spotify.com/album/0Cg66yZQ6YfeHjywgaIge2) | 3:29 | 2022-10-10 |  |
 | [Raska Yu \(feat\. Ara Malikian\)](https://open.spotify.com/track/5b1MRfbVjp6K0KbbvLh7eH) | [Twanguero](https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS), [Ara Malikian](https://open.spotify.com/artist/5kIE5Bm5P9h6KDsz46V2qc) | [Electric Sunset](https://open.spotify.com/album/3ke6SiV8c8nxgfUqwK9ywI) | 3:33 | 2022-10-10 |  |
 | [Rosemary's Baby](https://open.spotify.com/track/2BVJMKbdz7XtEcsIDT0oAz) | [Fantomas](https://open.spotify.com/artist/43ltIj8NRBsmOEjDr5Sk10) | [The Director's Cut](https://open.spotify.com/album/4EenSuWRkXoSrsMJEuvfE1) | 3:20 | 2022-10-10 |  |
 | [Satan Swing](https://open.spotify.com/track/2yPDTHmS3FEAcDb5S0TVYD) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [5 Años Con Sabor a 20](https://open.spotify.com/album/7yOMgXnagrpEyIkKyyEHIY) | 3:31 | 2022-10-10 |  |

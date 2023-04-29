@@ -699,6 +699,28 @@
     },
     {
       "album": {
+        "name": "Tear Drops & Closed Caskets",
+        "url": "https://open.spotify.com/album/0Ew1saaSryMhZKl8KV7SvV"
+      },
+      "artists": [
+        {
+          "name": "Wam SpinThaBin",
+          "url": "https://open.spotify.com/artist/1vljqWKOCEBTIA9mhCaCCt"
+        },
+        {
+          "name": "WizDaWizard",
+          "url": "https://open.spotify.com/artist/4p8ivLWn8hpHM5uLhYiMix"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99840,
+      "name": "Bread Winner (feat. WizDaWizard)",
+      "url": "https://open.spotify.com/track/6qaYCFHl1g4YBbzEeTtnH3"
+    },
+    {
+      "album": {
         "name": "Break My Heart",
         "url": "https://open.spotify.com/album/73wpA6cBZPGR7MFFLet4xz"
       },
@@ -2050,6 +2072,24 @@
       "duration_ms": 108413,
       "name": "Here I Come",
       "url": "https://open.spotify.com/track/24JTap3Y2LHb3icc5iIkNj"
+    },
+    {
+      "album": {
+        "name": "Hereditary",
+        "url": "https://open.spotify.com/album/0Qvtiu3TAfa82aSfGfuUDZ"
+      },
+      "artists": [
+        {
+          "name": "Teflon Zay",
+          "url": "https://open.spotify.com/artist/3AFIv9mCacdqjnxIebQhbS"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162631,
+      "name": "Hereditary",
+      "url": "https://open.spotify.com/track/2o4WQuvNngbgJhuffKICR4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu?si=lXygR8XNTOmWchcoEDKwcQ"> Suté Iwar</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,647 likes - 90 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,659 likes - 90 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,16 +19,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 9 | [Balablu](https://open.spotify.com/track/60Sewwrwex32vWYXNi6zgJ) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [Hitsound](https://open.spotify.com/artist/1gkLlq1xDlp3krBv3H9zLg) | [Balablu](https://open.spotify.com/album/6bf4XCYj8Y5wvbhrFKW7S9) | 2:27 |
 | 10 | [Doing U Better](https://open.spotify.com/track/7trZEJ00tghFf93kvkyb7S) | [Tangaza](https://open.spotify.com/artist/2ud6k0Vv2jiXXg78RuPmaS), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [Doing U Better](https://open.spotify.com/album/3OM6ultAF9mWPZZ5QC5Wdh) | 2:51 |
 | 11 | [Blind](https://open.spotify.com/track/05nQi9vhgIRdm4U3Ibt5Ae) | [Jahplaka](https://open.spotify.com/artist/7LHtDuHQxPma5xK94mexGk) | [Blind](https://open.spotify.com/album/5x9iKmrB20VHunQSud1vy6) | 2:27 |
-| 12 | [Escape](https://open.spotify.com/track/2syWCWxrwfqBqBLKMRCb1N) | [Novemba](https://open.spotify.com/artist/2Eiiy3N1dxC8elC8kIkoHJ) | [Escapade](https://open.spotify.com/album/5Crdlhgl0QFmuOGxfTvjke) | 3:14 |
-| 13 | [WORK](https://open.spotify.com/track/7KFRcebVg5o52rQ9VN68kN) | [Africaine](https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7) | [WORK](https://open.spotify.com/album/5mWVY9sdHib1YkZHOxuE3X) | 2:34 |
-| 14 | [Mary J](https://open.spotify.com/track/61mSUYsdQknaRbWwxwI9xg) | [Radar X](https://open.spotify.com/artist/61sgW29lXEHcAgCfaSmoEj) | [Mary J](https://open.spotify.com/album/4Bult0rXG6CXrovcqnTIZX) | 3:24 |
-| 15 | [Silly Nigga](https://open.spotify.com/track/5A9jthOz2ZMepULTBPQACH) | [Kofee Bean](https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV) | [Silly Nigga](https://open.spotify.com/album/1wHUHtcfT6Rs7rV9vj9ung) | 2:55 |
-| 16 | [IBADI \(Waist\)](https://open.spotify.com/track/3kBUa5io6UkLqH9amSu8aE) | [Rose May Alaba](https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s) | [IBADI \(Waist\)](https://open.spotify.com/album/34pdcrRJcnQ2xAN8DqfBRw) | 2:27 |
-| 17 | [killing it](https://open.spotify.com/track/3Ecj1bJ859PUFj4xHXWgMT) | [July Drama](https://open.spotify.com/artist/2Z9yQD2e1QO2OGLgTyuoug), [Ona Dema](https://open.spotify.com/artist/5BLCQj0E8qt3aO2nsATBcx) | [i hope this brings you peace](https://open.spotify.com/album/0EV2rYAtbx8odyDEPLLF9h) | 2:48 |
-| 18 | [Different](https://open.spotify.com/track/3YcIAsz6xTKKB7SZQou8ir) | [Mannie Akumba](https://open.spotify.com/artist/1oaUtMDoug6KaEaMub4onR) | [Different](https://open.spotify.com/album/7KRW48neWRDWQ1wdFdYlkX) | 2:45 |
-| 19 | [CHOSEN](https://open.spotify.com/track/7aPr9KnO3XLXQQ8u5JDsMb) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [CHOSEN](https://open.spotify.com/album/6IG94A5YQ5AKqZs0RtXWTv) | 2:35 |
-| 20 | [Pretty Skin](https://open.spotify.com/track/14bnrZmjiq53rCk9yFfYLR) | [BiQo](https://open.spotify.com/artist/7ANB4Bn0ymGL0meB4VhR6y) | [Pretty Skin](https://open.spotify.com/album/4lbdxmlhINAIpkt144gzgQ) | 3:19 |
-| 21 | [ISLAND PUNCH](https://open.spotify.com/track/48wOhItVW2xDY5liFHZNqN) | [Moyoswrld](https://open.spotify.com/artist/5qydyw9umzN1IlybYsgPzR) | [ISLAND PUNCH](https://open.spotify.com/album/4r8pDNIqFDaYmepVUytUeP) | 2:36 |
+| 12 | [WORK](https://open.spotify.com/track/7KFRcebVg5o52rQ9VN68kN) | [Africaine](https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7) | [WORK](https://open.spotify.com/album/5mWVY9sdHib1YkZHOxuE3X) | 2:34 |
+| 13 | [Mary J](https://open.spotify.com/track/61mSUYsdQknaRbWwxwI9xg) | [Radar X](https://open.spotify.com/artist/61sgW29lXEHcAgCfaSmoEj) | [Mary J](https://open.spotify.com/album/4Bult0rXG6CXrovcqnTIZX) | 3:24 |
+| 14 | [Silly Nigga](https://open.spotify.com/track/5A9jthOz2ZMepULTBPQACH) | [Kofee Bean](https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV) | [Silly Nigga](https://open.spotify.com/album/1wHUHtcfT6Rs7rV9vj9ung) | 2:55 |
+| 15 | [IBADI \(Waist\)](https://open.spotify.com/track/3kBUa5io6UkLqH9amSu8aE) | [Rose May Alaba](https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s) | [IBADI \(Waist\)](https://open.spotify.com/album/34pdcrRJcnQ2xAN8DqfBRw) | 2:27 |
+| 16 | [killing it](https://open.spotify.com/track/3Ecj1bJ859PUFj4xHXWgMT) | [July Drama](https://open.spotify.com/artist/2Z9yQD2e1QO2OGLgTyuoug), [Ona Dema](https://open.spotify.com/artist/5BLCQj0E8qt3aO2nsATBcx) | [i hope this brings you peace](https://open.spotify.com/album/0EV2rYAtbx8odyDEPLLF9h) | 2:48 |
+| 17 | [Different](https://open.spotify.com/track/3YcIAsz6xTKKB7SZQou8ir) | [Mannie Akumba](https://open.spotify.com/artist/1oaUtMDoug6KaEaMub4onR) | [Different](https://open.spotify.com/album/7KRW48neWRDWQ1wdFdYlkX) | 2:45 |
+| 18 | [CHOSEN](https://open.spotify.com/track/7aPr9KnO3XLXQQ8u5JDsMb) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [CHOSEN](https://open.spotify.com/album/6IG94A5YQ5AKqZs0RtXWTv) | 2:35 |
+| 19 | [Pretty Skin](https://open.spotify.com/track/14bnrZmjiq53rCk9yFfYLR) | [BiQo](https://open.spotify.com/artist/7ANB4Bn0ymGL0meB4VhR6y) | [Pretty Skin](https://open.spotify.com/album/4lbdxmlhINAIpkt144gzgQ) | 3:19 |
+| 20 | [ISLAND PUNCH](https://open.spotify.com/track/48wOhItVW2xDY5liFHZNqN) | [Moyoswrld](https://open.spotify.com/artist/5qydyw9umzN1IlybYsgPzR) | [ISLAND PUNCH](https://open.spotify.com/album/4r8pDNIqFDaYmepVUytUeP) | 2:36 |
+| 21 | [All me want](https://open.spotify.com/track/7adgAmDZIKq3qfEEty0xD4) | [Badman Dafe](https://open.spotify.com/artist/1aSWLzulwEXGJ6fkx6N4o3) | [All me want](https://open.spotify.com/album/6jvig8XxQpR6CiA44lASt4) | 2:21 |
 | 22 | [Colors \(My Baby\)](https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Colors \(My Baby\) / Loyal](https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B) | 2:44 |
 | 23 | [Amnesia](https://open.spotify.com/track/0Ij4NWQPKRTAF6ezfTrG7V) | [Rie Osei](https://open.spotify.com/artist/3zRrAdtO9kUqV0prpNjFsv), [Demmi](https://open.spotify.com/artist/2lF5l1MCyqNj4WyBE4Jopk) | [Amnesia](https://open.spotify.com/album/3ScsH4JeLZYZiUh5uaTu8P) | 2:26 |
 | 24 | [Damaged](https://open.spotify.com/track/54wYnj7FIU0JFIhy0gYZSH) | [Whoisakin](https://open.spotify.com/artist/6ZbeHoJ4RZnyjkHfIWS6Wp) | [Damaged](https://open.spotify.com/album/3c91kFCZ0kjdcnofzgqxj2) | 2:30 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 89 | [Cotton Candy \(Sweet Like\)](https://open.spotify.com/track/04GSGC4vUiRn6cDbsfTBwM) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Cotton Candy \(Sweet Like\)](https://open.spotify.com/album/381HEXGT1tAB97V4cxP0lH) | 2:42 |
 | 90 | [SUMMER 22 \(NOSTALGIA\)](https://open.spotify.com/track/0yzBlyGk6EnQiasWgiQsBK) | [Delé](https://open.spotify.com/artist/1IwJ0937JaQRSOgfkvP2DR) | [SUMMER 22 \(NOSTALGIA\)](https://open.spotify.com/album/15vQ0sZRIzq8S5ZLplzMMk) | 2:21 |
 
-Snapshot ID: `MCwzZWM2OGM3Nzc3MTgzNmYzZWQzYTMyNDVmZWM0OGRlNTk1NTE5OTMw`
+Snapshot ID: `MCwwNzlkOTVmMTRkZDU4YmRjMDQxMzM1ZmM2ZjNlOWJmYjhmODE4NzUx`

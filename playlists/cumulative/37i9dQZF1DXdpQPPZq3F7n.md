@@ -4,7 +4,7 @@
 
 > Let these songs be the background score to your love story\. Cover \- Kabir Singh
 
-156 songs - 11 hr 2 min
+157 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Maiyya Mainu \(From "Jersey"\)](https://open.spotify.com/track/4PwTeFfKqmR3XIeXXUBDOf) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG) | [Maiyya Mainu \(From "Jersey"\)](https://open.spotify.com/album/1I3s1v090iECnF0ZhCL1ui) | 3:51 | 2022-05-19 | 2023-03-16 |
 | [Manike \(From "Thank God"\)](https://open.spotify.com/track/0zlGnseLGzRIBA0TJcb3Bo) | [Yohani](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Surya Ragunaathan](https://open.spotify.com/artist/0GiAC4VvvYCypjRH6IiasK) | [Manike \(From "Thank God"\)](https://open.spotify.com/album/30CfQvXOWrJx6kCglMcbo3) | 3:17 | 2022-09-22 |  |
 | [Mann Bharryaa 2.0 \(From "Shershaah"\)](https://open.spotify.com/track/3jf5303mzzJ96O8xFTcEn4) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Mann Bharryaa 2.0 \(From "Shershaah"\)](https://open.spotify.com/album/37nWpT1gls52Tu6pymuPw3) | 4:26 | 2022-05-19 |  |
-| [Mann Mera](https://open.spotify.com/track/3yV2c3cYhkAwSsxAq6nRiv) | [Gajendra Verma](https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si) | [Table No\. 21 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Gws1vUsWltRs58x8QuYVQ) | 3:20 | 2023-03-08 |  |
+| [Mann Mera](https://open.spotify.com/track/3yV2c3cYhkAwSsxAq6nRiv) | [Gajendra Verma](https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si) | [Table No\. 21 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Gws1vUsWltRs58x8QuYVQ) | 3:20 | 2023-03-08 | 2023-04-29 |
+| [Mann Mera](https://open.spotify.com/track/2F61pSvZObcSEOjJMwkvE2) | [ronixd](https://open.spotify.com/artist/4fdvt615NKbd5n2s1cLiQZ) | [Mann Mera](https://open.spotify.com/album/57EdVAPDFT7sRrndFBRzUf) | 3:20 | 2023-03-30 |  |
 | [Mann Mera \(From "Table No\. 21"\)](https://open.spotify.com/track/2BeY2dQPbD8xYxx3yhBTVD) | [Gajendra Verma](https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si) | [Table No\. 21](https://open.spotify.com/album/3O895TQZsINpYkZuMtIwFF) | 3:18 | 2022-05-19 | 2022-07-29 |
 | [Mann Mera \(From "Table No\. 21"\)](https://open.spotify.com/track/6k1f836hWD6F0ZehWTsyeQ) | [Gajendra Verma](https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si) | [Table No\. 21](https://open.spotify.com/album/7dqB9md2WPaVL30pChWGyv) | 3:18 | 2022-07-25 | 2023-03-11 |
 | [Marjaawaan](https://open.spotify.com/track/2uBlWwG0P6cUOUBiZhPmBM) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Marjaawaan \- BellBottom](https://open.spotify.com/album/0I4IivFBvs4rHWh4nsskpA) | 3:45 | 2022-05-19 | 2022-07-29 |

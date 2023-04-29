@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 226080,
       "name": "10h30. Le Soleil Donne",
       "url": "https://open.spotify.com/track/1BQ1XGyL1s6iXlkbafsDYK"
@@ -800,7 +800,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 176357,
       "name": "Choco",
       "url": "https://open.spotify.com/track/0xFQrovDKSpOG6rWlcKcnV"
@@ -1249,6 +1249,24 @@
     },
     {
       "album": {
+        "name": "Eloko",
+        "url": "https://open.spotify.com/album/5BclOVLIHYhchoiRfRzA9A"
+      },
+      "artists": [
+        {
+          "name": "Extra Musica Nouvel Horizon",
+          "url": "https://open.spotify.com/artist/2euF0knOB1Cv50nTlXGW98"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243278,
+      "name": "Eloko",
+      "url": "https://open.spotify.com/track/0bnOKQk43FZdLaCku0zSiR"
+    },
+    {
+      "album": {
         "name": "Tokooos",
         "url": "https://open.spotify.com/album/6IeIf8IVQfLGaYSckKPPsN"
       },
@@ -1577,6 +1595,24 @@
     },
     {
       "album": {
+        "name": "Gomme, Vol. 2",
+        "url": "https://open.spotify.com/album/2GKYeOvdjYn1iD0fFRf4JT"
+      },
+      "artists": [
+        {
+          "name": "Fabregas le M\u00e9tis Noir",
+          "url": "https://open.spotify.com/artist/49ip7SoDZFm62AzVHPci6X"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302862,
+      "name": "Histoire d'amour",
+      "url": "https://open.spotify.com/track/1xivAPzBdY8AdOph4sFU2Y"
+    },
+    {
+      "album": {
         "name": "Holla",
         "url": "https://open.spotify.com/album/4t8mt3i5hTBN8scNtYXY6w"
       },
@@ -1796,6 +1832,24 @@
       "duration_ms": 234359,
       "name": "Kilulu",
       "url": "https://open.spotify.com/track/21EIqCWgU610VuoHSamaMu"
+    },
+    {
+      "album": {
+        "name": "Kimia",
+        "url": "https://open.spotify.com/album/797wvOIl0W9LMGyxP4Qq3l"
+      },
+      "artists": [
+        {
+          "name": "Melane",
+          "url": "https://open.spotify.com/artist/0tQTnAoprDT22fWfmn1yR1"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209945,
+      "name": "Kimia",
+      "url": "https://open.spotify.com/track/57igbE8wSHCC7lak45Ellc"
     },
     {
       "album": {
@@ -2142,6 +2196,24 @@
       "duration_ms": 189492,
       "name": "L\u00c9L\u00c9",
       "url": "https://open.spotify.com/track/0GXrYFdjPgVYxxnERdqGj5"
+    },
+    {
+      "album": {
+        "name": "L\u2019Afrique en avant",
+        "url": "https://open.spotify.com/album/0cQj38ecACSGaI669TLY1W"
+      },
+      "artists": [
+        {
+          "name": "Barka",
+          "url": "https://open.spotify.com/artist/4GOGeatIVTAn3GVsK3yKdc"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211093,
+      "name": "L\u2019Afrique en avant",
+      "url": "https://open.spotify.com/track/0P0O7KW55TY9Fz6bRRtdr5"
     },
     {
       "album": {
@@ -3490,7 +3562,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 416053,
       "name": "Si je savais \u00e7a",
       "url": "https://open.spotify.com/track/4RqQKQ4VxlYC6zWHgCQb5p"
@@ -3754,7 +3826,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 403800,
       "name": "Trop c'est trop",
       "url": "https://open.spotify.com/track/6GvLQgYTEwmgTjadj3Agsw"

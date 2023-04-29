@@ -574,7 +574,7 @@
     {
       "album": {
         "name": "Variations For Piano & Tape",
-        "url": "https://open.spotify.com/album/6MvIw0T6gV58pmiqxylymi"
+        "url": "https://open.spotify.com/album/3YajhQtcNYZbLooxeVp4KA"
       },
       "artists": [
         {
@@ -585,6 +585,24 @@
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 2677133,
+      "name": "Variation #9: Pantelleria",
+      "url": "https://open.spotify.com/track/2OdF7JWprGAps570PA57dS"
+    },
+    {
+      "album": {
+        "name": "Variations For Piano & Tape",
+        "url": "https://open.spotify.com/album/6MvIw0T6gV58pmiqxylymi"
+      },
+      "artists": [
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
       "duration_ms": 2677133,
       "name": "Variation #9: Pantelleria",
       "url": "https://open.spotify.com/track/2jlUqwqE1bXbo0Lfd0D8jq"

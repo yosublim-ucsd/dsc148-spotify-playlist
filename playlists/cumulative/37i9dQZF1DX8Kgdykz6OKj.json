@@ -729,6 +729,32 @@
     },
     {
       "album": {
+        "name": "Fried",
+        "url": "https://open.spotify.com/album/1K6Ea6TrQfBYpKNFRnpyHD"
+      },
+      "artists": [
+        {
+          "name": "REMI",
+          "url": "https://open.spotify.com/artist/5t69dnux4K2vcJO4VjS39q"
+        },
+        {
+          "name": "Sensible J",
+          "url": "https://open.spotify.com/artist/1UdDg4tjgYWO4MHzvrgT2U"
+        },
+        {
+          "name": "Lori",
+          "url": "https://open.spotify.com/artist/6LdmIpHktzO8h5Z1nnfeIn"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228032,
+      "name": "Brain",
+      "url": "https://open.spotify.com/track/4bbSk6i5hBlgcKB7bFZS20"
+    },
+    {
+      "album": {
         "name": "Brain",
         "url": "https://open.spotify.com/album/5y8tNprFrcaQftlvVWBrW5"
       },
@@ -6774,7 +6800,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 180290,
       "name": "The Stars My Destination",
       "url": "https://open.spotify.com/track/5mEktxj3u61Q9tM5ZfPuMP"

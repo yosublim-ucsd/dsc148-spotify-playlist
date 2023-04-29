@@ -4,7 +4,7 @@
 
 > From Lagos to Zambia, find classic African psychedelic rock & funk jams here! Cover: <a href="spotify:artist:05LK9pT8ScfWNT0UbDsyqe">Ofege</a>
 
-77 songs - 6 hr 17 min
+78 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Fefe Naa Efe](https://open.spotify.com/track/01M4pDUAFpAiuvtNSDRSlE) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Gentleman](https://open.spotify.com/album/56UAK81XOvDgAcTsI0Olpk) | 8:12 | 2019-03-22 |  |
 | [Few Bana Zambia](https://open.spotify.com/track/7C112D2j1nPQyBXTWYhzbn) | [Five Revolutions](https://open.spotify.com/artist/7z7UoyBoUDLSbBD6hsCgNn) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 1 \(1972\-1977\)](https://open.spotify.com/album/4910t2DpHO9RQd2XctS8wT) | 4:22 | 2019-03-22 |  |
 | [Free My People](https://open.spotify.com/track/3nl8DKWk06tn3aC7McNxth) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Soul Jazz Records Presents Nigeria Soul Fever: Afro Funk, Disco And Boogie: West African Disco Mayhem!](https://open.spotify.com/album/65VRkb7Fx6EYccDop2dT2z) | 4:52 | 2019-03-22 | 2022-07-29 |
-| [Free My People](https://open.spotify.com/track/49qxdrRnO6980P99Ujl1Wz) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Soul Jazz Records Presents Nigeria Soul Fever: Afro Funk, Disco And Boogie: West African Disco Mayhem!](https://open.spotify.com/album/4d3MEgvIZKX9J5oZmIDp9G) | 4:52 | 2019-03-22 |  |
+| [Free My People](https://open.spotify.com/track/49qxdrRnO6980P99Ujl1Wz) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Soul Jazz Records Presents Nigeria Soul Fever: Afro Funk, Disco And Boogie: West African Disco Mayhem!](https://open.spotify.com/album/4d3MEgvIZKX9J5oZmIDp9G) | 4:52 | 2019-03-22 | 2023-04-29 |
+| [Free My People](https://open.spotify.com/track/4ZFYxhJFIxKjqW1YPRcsdW) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Soul Jazz Records Presents Nigeria Soul Fever: Afro Funk, Disco And Boogie: West African Disco Mayhem!](https://open.spotify.com/album/5cAnTtPDJreMWuuUlmQQuz) | 4:52 | 2023-03-17 |  |
 | [Funky Lady](https://open.spotify.com/track/2NQF9buClFG8eImtyKajAI) | [Teddy Chisi](https://open.spotify.com/artist/50iEISE8vvc4JChPJhx72u) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 1 \(1972\-1977\)](https://open.spotify.com/album/4910t2DpHO9RQd2XctS8wT) | 6:09 | 2019-03-22 |  |
 | [Gbomei Adesai](https://open.spotify.com/track/3aup2Wb74T0uWASlue8sqP) | [The Psychedelic Aliens](https://open.spotify.com/artist/7KJFSOY3DpBSS9yy8vCGWG) | [Psycho African Beat](https://open.spotify.com/album/1DIyUBpOICsZ9UuMn8Mmmj) | 3:08 | 2019-03-22 |  |
 | [Greetings](https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0) | 6:13 | 2019-03-22 |  |

@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "Accent",
+        "url": "https://open.spotify.com/album/74iykQlrIiej6W5m1l1WfO"
+      },
+      "artists": [
+        {
+          "name": "Sandhog",
+          "url": "https://open.spotify.com/artist/4Bg70gCux7vzM1w08aUF37"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360991,
+      "name": "Accent",
+      "url": "https://open.spotify.com/track/5G1gJ0G25yOg3Gbk8apuzX"
+    },
+    {
+      "album": {
         "name": "Acheron",
         "url": "https://open.spotify.com/album/0tLKMdyvGltcIN9TeqPiXe"
       },
@@ -1776,7 +1794,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 287579,
       "name": "Claire",
       "url": "https://open.spotify.com/track/54CipIOeFb1lZYFhHi26lo"
@@ -2095,6 +2113,24 @@
     },
     {
       "album": {
+        "name": "Dancing Thing",
+        "url": "https://open.spotify.com/album/3Lc3AX7Ta7WsefbEAFplQr"
+      },
+      "artists": [
+        {
+          "name": "VisionV",
+          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184045,
+      "name": "Dancing Thing",
+      "url": "https://open.spotify.com/track/4M2pTJYh02HGpH3KqkGvoP"
+    },
+    {
+      "album": {
         "name": "Dark in Paradise",
         "url": "https://open.spotify.com/album/4TWxweZn0f80leFukuzAxe"
       },
@@ -2110,6 +2146,24 @@
       "duration_ms": 420000,
       "name": "Dark in Paradise",
       "url": "https://open.spotify.com/track/0p1ZIzmiFz7BcdBFmS2wvp"
+    },
+    {
+      "album": {
+        "name": "Dark Ocean",
+        "url": "https://open.spotify.com/album/4IIH55DVtjzmOcPgTNQtmx"
+      },
+      "artists": [
+        {
+          "name": "Lost Rhythm",
+          "url": "https://open.spotify.com/artist/6HKc9lMN8B5NoN113ncFLN"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368852,
+      "name": "Dark Ocean",
+      "url": "https://open.spotify.com/track/6djw4hnA30Rbn7Jq8qOqGe"
     },
     {
       "album": {
@@ -2428,7 +2482,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 465833,
       "name": "Die Dunkle Biene",
       "url": "https://open.spotify.com/track/1o4fh5viAo0ajgYs1IpqCP"
@@ -3082,7 +3136,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 201120,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/6iUgr1j5sN0LU7ljhiUwYi"
@@ -3158,6 +3212,24 @@
       "duration_ms": 299047,
       "name": "Explore",
       "url": "https://open.spotify.com/track/3faKCIsCxysoBZpUBiLJT8"
+    },
+    {
+      "album": {
+        "name": "Explore Your Future",
+        "url": "https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220887,
+      "name": "Explore Your Future",
+      "url": "https://open.spotify.com/track/5SfcsMI2nJhdZpmwCcNEGf"
     },
     {
       "album": {
@@ -4830,7 +4902,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-06",
+      "date_removed": null,
       "duration_ms": 286423,
       "name": "I WON'T STAY",
       "url": "https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE"
@@ -4994,6 +5066,24 @@
       "duration_ms": 376720,
       "name": "In The End - Lost Tapes",
       "url": "https://open.spotify.com/track/4vrkipzHOkljzaA19vOrIj"
+    },
+    {
+      "album": {
+        "name": "Indulgence",
+        "url": "https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269508,
+      "name": "Indulgence",
+      "url": "https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q"
     },
     {
       "album": {
@@ -6824,7 +6914,7 @@
       ],
       "date_added": "2021-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 229440,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/49KOIOQPegsRJM9gYhfCw3"
@@ -6994,7 +7084,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 535081,
       "name": "One Way",
       "url": "https://open.spotify.com/track/3V0AtDnWpKc5m9ZSxGNkiv"
@@ -8984,7 +9074,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 404532,
       "name": "Solid",
       "url": "https://open.spotify.com/track/62DY8pd5ZcJSgytchGNuzP"
@@ -9861,7 +9951,7 @@
     },
     {
       "album": {
-        "name": "The Last Goodbye (feat. Bettye LaVette)",
+        "name": "The Last Goodbye",
         "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
       },
       "artists": [
@@ -9878,7 +9968,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 358983,
-      "name": "The Last Goodbye (feat. Bettye LaVette)",
+      "name": "The Last Goodbye",
       "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
     },
     {
@@ -10520,7 +10610,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-06",
+      "date_removed": null,
       "duration_ms": 295680,
       "name": "Trust",
       "url": "https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy"
@@ -10658,6 +10748,24 @@
       "duration_ms": 405887,
       "name": "Under Dark - Innellea Remix",
       "url": "https://open.spotify.com/track/7ynuyeE8PHWbQhYJpryxSH"
+    },
+    {
+      "album": {
+        "name": "Schneeweiss 14: Presented by Oliver Koletzki",
+        "url": "https://open.spotify.com/album/58ROoz6HWISF9VQFO0qX15"
+      },
+      "artists": [
+        {
+          "name": "Avis Vox",
+          "url": "https://open.spotify.com/artist/0C7l2N7H3hTYb3ZGRD4BNc"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357514,
+      "name": "Under Water",
+      "url": "https://open.spotify.com/track/3ZEQt1VMyvTTQgkamnFEgy"
     },
     {
       "album": {
@@ -10822,7 +10930,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 527921,
       "name": "Unravel Me",
       "url": "https://open.spotify.com/track/4fKHj7e2wCouGDXIEIXEKk"
@@ -11470,7 +11578,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 210000,
       "name": "Wild Heart",
       "url": "https://open.spotify.com/track/0jN80BUFLFsTY9W7OeWqu8"

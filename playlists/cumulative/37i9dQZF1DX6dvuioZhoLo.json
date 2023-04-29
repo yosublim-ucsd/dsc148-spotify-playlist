@@ -978,7 +978,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 182826,
       "name": "Got a Lotta Love",
       "url": "https://open.spotify.com/track/0RMlPv9lkskpyEXQttMCOq"
@@ -2694,10 +2694,28 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 263576,
       "name": "Red Dress",
       "url": "https://open.spotify.com/track/0FjqiutadvdCMuVX1kFQv9"
+    },
+    {
+      "album": {
+        "name": "Blackberry Rose",
+        "url": "https://open.spotify.com/album/3OD4bUWl0dD30AmRStEWrH"
+      },
+      "artists": [
+        {
+          "name": "Lavender Country",
+          "url": "https://open.spotify.com/artist/3UAkA4R9JwTDsWSvtKqJtP"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263576,
+      "name": "Red Dress",
+      "url": "https://open.spotify.com/track/6Z3c8lGCTa19aYhSfEdvav"
     },
     {
       "album": {
@@ -2860,7 +2878,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-25",
+      "date_removed": null,
       "duration_ms": 187466,
       "name": "Same Devil (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/11ztTGjFtV3MNoNx0XvApC"
@@ -3242,10 +3260,32 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 156021,
       "name": "Today I Started Loving You Again",
       "url": "https://open.spotify.com/track/0SUeDxIX7QXvA9uVkkYYWs"
+    },
+    {
+      "album": {
+        "name": "Down Every Road",
+        "url": "https://open.spotify.com/album/4XtyzFCp2tAOynVSQLZMOf"
+      },
+      "artists": [
+        {
+          "name": "Eli \"Paperboy\" Reed",
+          "url": "https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x"
+        },
+        {
+          "name": "Sabine McCalla",
+          "url": "https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156021,
+      "name": "Today I Started Loving You Again",
+      "url": "https://open.spotify.com/track/1mD2DWCvXN13LJBmRttH2I"
     },
     {
       "album": {

@@ -130,7 +130,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 255175,
       "name": "A Whole New Story",
       "url": "https://open.spotify.com/track/6316mbJlRyUMnHIkPFP5wM"
@@ -374,7 +374,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 165989,
       "name": "Awe Of Her",
       "url": "https://open.spotify.com/track/2jbawahJUqTV2LuWQoRpJz"
@@ -838,7 +838,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 186373,
       "name": "Harlem Child",
       "url": "https://open.spotify.com/track/3YuIWJDJHcoxGM56TAp224"
@@ -946,6 +946,28 @@
       "duration_ms": 216973,
       "name": "I See You",
       "url": "https://open.spotify.com/track/7e0UPfaj00fm8KtJsA7jtX"
+    },
+    {
+      "album": {
+        "name": "Grease: Rise of the Pink Ladies - Episode Two (Music from the Paramount+ Original Series)",
+        "url": "https://open.spotify.com/album/4cqAOmcQlgCPZavcdZ7bcM"
+      },
+      "artists": [
+        {
+          "name": "Marisa Davila",
+          "url": "https://open.spotify.com/artist/7vMeCYcjhAA7yaoyf1MWJy"
+        },
+        {
+          "name": "The Cast of Grease: Rise of the Pink Ladies",
+          "url": "https://open.spotify.com/artist/3bF30kGvclxPV6pFKdRdXQ"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164234,
+      "name": "I Want More - From the Paramount+ Series \u2018Grease: Rise of the Pink Ladies'",
+      "url": "https://open.spotify.com/track/5wYBhrQjl0NsbVZEOzu6Yl"
     },
     {
       "album": {
@@ -1110,6 +1132,24 @@
       "duration_ms": 461638,
       "name": "In The Heights",
       "url": "https://open.spotify.com/track/7oMr1IBlYwnb1jZh6of8kN"
+    },
+    {
+      "album": {
+        "name": "It's a Stupid Idea (To Put on a Broadway Show)",
+        "url": "https://open.spotify.com/album/04NSO9rt5GqpCW6zR0rdI7"
+      },
+      "artists": [
+        {
+          "name": "Lewberger",
+          "url": "https://open.spotify.com/artist/2zXGFoqXVap8ILc1Od8IsF"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192106,
+      "name": "It's A Stupid Idea (To Put On a Broadway Show)",
+      "url": "https://open.spotify.com/track/2gtgk22m2N2nvKKZYE7NFO"
     },
     {
       "album": {
@@ -1553,6 +1593,24 @@
     },
     {
       "album": {
+        "name": "Part of Your World (From \"The Little Mermaid\")",
+        "url": "https://open.spotify.com/album/1cehuxhFNt8Q8Eobacb0YR"
+      },
+      "artists": [
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214373,
+      "name": "Part of Your World - From \"The Little Mermaid\"",
+      "url": "https://open.spotify.com/track/2pcSENGQmdptFCBQ3HpKHe"
+    },
+    {
+      "album": {
         "name": "Hand in Hand",
         "url": "https://open.spotify.com/album/1iP7Fdly3Zc1PwBFCLmFHY"
       },
@@ -1942,7 +2000,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 259239,
       "name": "Still Holding My Hand",
       "url": "https://open.spotify.com/track/1Nye4OrwEUTDjF1UBiqBJY"
@@ -2210,7 +2268,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 104339,
       "name": "The Witches Are Back",
       "url": "https://open.spotify.com/track/6SWxJnEL4PgRySciwic4N3"

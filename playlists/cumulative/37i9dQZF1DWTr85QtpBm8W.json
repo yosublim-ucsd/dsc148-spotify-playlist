@@ -818,6 +818,24 @@
     {
       "album": {
         "name": "Untrue",
+        "url": "https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK"
+      },
+      "artists": [
+        {
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126091,
+      "name": "In McDonalds",
+      "url": "https://open.spotify.com/track/7vZTj01UKQ6OuTItkQfxuy"
+    },
+    {
+      "album": {
+        "name": "Untrue",
         "url": "https://open.spotify.com/album/1CI5OW60s9W41YLI80Jjdr"
       },
       "artists": [
@@ -828,7 +846,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 127000,
       "name": "In McDonalds",
       "url": "https://open.spotify.com/track/0WxZZUJuDXZlxfrWaqp1DG"
@@ -1850,10 +1868,28 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 558800,
       "name": "Variation IV",
       "url": "https://open.spotify.com/track/67AjoQb3d9bzyw0FKcIjO9"
+    },
+    {
+      "album": {
+        "name": "Variations: A Movement In Chrome Primitive",
+        "url": "https://open.spotify.com/album/5lVFG1wgbDKhM7CQ7stlfd"
+      },
+      "artists": [
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 558800,
+      "name": "Variation IV",
+      "url": "https://open.spotify.com/track/6mnkCIZgqXidyl56nDGP5p"
     },
     {
       "album": {
@@ -2066,10 +2102,28 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 524468,
       "name": "Woe Is the Transgression I",
       "url": "https://open.spotify.com/track/2zpTolaAqlsIauPX764rMs"
+    },
+    {
+      "album": {
+        "name": "Betrayed in the Octagon",
+        "url": "https://open.spotify.com/album/1QVBUpFm9l5qM2OdMDSIIE"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 524468,
+      "name": "Woe Is the Transgression I",
+      "url": "https://open.spotify.com/track/43iURelUomXEQGrCxD9Ucr"
     },
     {
       "album": {

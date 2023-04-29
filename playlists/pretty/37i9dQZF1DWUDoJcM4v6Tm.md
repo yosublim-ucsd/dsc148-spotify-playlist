@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 
 > Explore a sprawling musical landscape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,499 likes - 136 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 728,559 likes - 136 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 | 67 | [On a Gravel Road](https://open.spotify.com/track/2dWXOBymnxXKptxhtlNcgf) | [Tom Brosseau](https://open.spotify.com/artist/2N8B0dQLfpwOtput9mRlko) | [North Dakota Impressions](https://open.spotify.com/album/32RN7tMf61oh02vpv936KW) | 3:00 |
 | 68 | [Flyin' Overhead](https://open.spotify.com/track/4Zo3wuIQohkjHKFPpNDNlo) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Juniors](https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop) | 4:51 |
 | 69 | [Holocene](https://open.spotify.com/track/35KiiILklye1JRRctaLUb4) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 5:36 |
-| 70 | [Albert Ross \(Acoustic Version\)](https://open.spotify.com/track/5EVEoWnWjMefjqOO6ScP0i) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Albert Ross \(Acoustic Version\)](https://open.spotify.com/album/3cAdzbqrlXpQlmrLdaUsjG) | 4:30 |
+| 70 | [Albert Ross \(Acoustic Version\)](https://open.spotify.com/track/0mulbeU5pPIOYpt8veI791) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Albert Ross \(Acoustic Version\)](https://open.spotify.com/album/5yLc158NB8aS18RC9sjNbM) | 4:30 |
 | 71 | [LIFE ON EARTH](https://open.spotify.com/track/6ZUZ33Hz83h6szgf56gzJx) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH](https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3) | 5:46 |
 | 72 | [Brutally](https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Brutally](https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R) | 3:28 |
 | 73 | [Autumn](https://open.spotify.com/track/3Vkk3IkuN6NrTkQDsiHThO) | [Lists](https://open.spotify.com/artist/5bXcRydEFiSkcqjYlbW7uO) | [Autumn](https://open.spotify.com/album/18BxkfsDIKf03nINEnbLWV) | 3:52 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 | 135 | [Miss Misanthrope](https://open.spotify.com/track/0u6rjHF61bxe25gZOOZ5hx) | [Jealous of the Birds](https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm) | [Parma Violets](https://open.spotify.com/album/0EwUDa0erUFKWfzhCk3vNX) | 3:55 |
 | 136 | [Secret \- Acoustic](https://open.spotify.com/track/7khUiiyqFAluYRsw1ZKcWS) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Secret \(Acoustic\)](https://open.spotify.com/album/4YAWFrz6K5VyNQcg8eK7B3) | 3:10 |
 
-Snapshot ID: `MCxhZThmOTJjYzZjMmZkYWM3MmMzYzk0ZmJhMTNhZDkyNGQzMDY3ZjUw`
+Snapshot ID: `MCxiZjhhZDJkZDJjOWU4MmIzZTY1ZmM2NDUxMGRlYzRjYWFkZjljYTUw`

@@ -4,7 +4,7 @@
 
 > Let it simmer with some smooth R&amp;B.
 
-47 songs - 3 hr 27 min
+48 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Feelin \- Original Mix](https://open.spotify.com/track/6XLSATCZY8hLodpoQrfx27) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Jess](https://open.spotify.com/artist/0vzlcDC7qhbx7pm9ExsQV7) | [Foreign Language \(Remixes\)](https://open.spotify.com/album/13vTyQaEtmVgYKrFthfNnx) | 6:16 | 2015-07-25 |  |
 | [Feelin' \(Original Mix\)](https://open.spotify.com/track/4O6sQwt16ZOjCebqahe7Y3) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Jess](https://open.spotify.com/artist/11XTMSjsddSKvC4vSIQ3n5) | [Foreign Language \(feat\. Jess\) \[10 Year Anniversary\]](https://open.spotify.com/album/7axQOvQN81aJpxwR7YJt0F) | 6:16 | 2015-07-25 | 2022-11-13 |
 | [Fiona Coyne](https://open.spotify.com/track/1sH2GeOsLFEw714Otu8P9i) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Fiona Coyne / Fall Harder](https://open.spotify.com/album/4QkPP6Rtc2XokIhgw5ieaE) | 4:04 | 2015-07-25 | 2022-07-29 |
-| [Fiona Coyne](https://open.spotify.com/track/6XkEIIZs0oMUNwaVwHXSZ0) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Prom King](https://open.spotify.com/album/7dR9fq3NnKFZDBDU44DTXv) | 4:09 | 2015-07-25 |  |
+| [Fiona Coyne](https://open.spotify.com/track/0dvS6gcGGKvXPWo0mC6UVP) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Prom King](https://open.spotify.com/album/4kB3NXXqZGTtehCAbyGar7) | 4:09 | 2015-07-25 |  |
+| [Fiona Coyne](https://open.spotify.com/track/6XkEIIZs0oMUNwaVwHXSZ0) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Prom King](https://open.spotify.com/album/7dR9fq3NnKFZDBDU44DTXv) | 4:09 | 2015-07-25 | 2023-04-29 |
 | [Get Lucky \(feat\. Pharrell Williams & Nile Rodgers\) \- Radio Edit](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Get Lucky \(feat\. Pharrell Williams & Nile Rodgers\) \[Radio Edit\]](https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA) | 4:08 | 2015-07-25 |  |
 | [Go Bang](https://open.spotify.com/track/0wbRhTLKXL8z844Pd8rNAM) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Go Bang \- Single](https://open.spotify.com/album/6TOM7WNs319GMdcd0FFCyv) | 11:04 | 2015-07-25 | 2022-07-29 |
 | [Go Bang](https://open.spotify.com/track/5bnBF6QS1kZj3WOVZ8KqOB) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Go Bang](https://open.spotify.com/album/6Cd6ifsiUF0A2PVr8aJTeX) | 11:04 | 2015-07-25 |  |

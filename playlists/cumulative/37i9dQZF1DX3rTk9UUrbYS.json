@@ -1040,10 +1040,28 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 760558,
       "name": "Fractured Gatherings",
       "url": "https://open.spotify.com/track/06njugsiOINoCxXCr0fvCI"
+    },
+    {
+      "album": {
+        "name": "Jonah Rosenberg\u2019s Fabulous Trio - The Bulbous and The Budding",
+        "url": "https://open.spotify.com/album/65eWWXsoL2YmJT8J8fhYTY"
+      },
+      "artists": [
+        {
+          "name": "Jonah Rosenberg",
+          "url": "https://open.spotify.com/artist/6ZhtuL1nt69JO0Q0OR9UN8"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 760558,
+      "name": "Fractured Gatherings",
+      "url": "https://open.spotify.com/track/5DApkx3lXuxlCMVZHCHRTS"
     },
     {
       "album": {

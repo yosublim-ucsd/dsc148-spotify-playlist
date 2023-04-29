@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: Dhurata Dora",
-  "num_followers": 25855,
+  "num_followers": 25866,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjIxZWQxYjY0MTM1ZDE1NjU3NjE5OThmMDEwOGU0ZDE0Zjk0Y2Q3",
+  "snapshot_id": "MCw3YWJjZDFlNDlmNTBmZTE3NGVkMDE2NmZiNTUxZDc0ZGNkZjUwNDZk",
   "tracks": [
     {
       "added_at": "2023-04-04 22:00:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-04-04 22:00:00",
       "album": {
+        "name": "Skandal im Patriarchat",
+        "url": "https://open.spotify.com/album/4pUqmx6OldfqSmIC864HKB"
+      },
+      "artists": [
+        {
+          "name": "PAULINKO",
+          "url": "https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54"
+        }
+      ],
+      "duration_ms": 202308,
+      "name": "Skandal im Patriarchat",
+      "url": "https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY"
+    },
+    {
+      "added_at": "2023-04-04 22:00:00",
+      "album": {
         "name": "Take That",
         "url": "https://open.spotify.com/album/7cFPpACcw4uo8ioN0IY2Px"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 346339,
       "name": "Take That",
       "url": "https://open.spotify.com/track/1rRBOQnG1Y86iszGf4J7Px"
-    },
-    {
-      "added_at": "2023-04-04 22:00:00",
-      "album": {
-        "name": "Skandal im Patriarchat",
-        "url": "https://open.spotify.com/album/4pUqmx6OldfqSmIC864HKB"
-      },
-      "artists": [
-        {
-          "name": "PAULINKO",
-          "url": "https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54"
-        }
-      ],
-      "duration_ms": 202308,
-      "name": "Skandal im Patriarchat",
-      "url": "https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY"
     },
     {
       "added_at": "2023-04-04 22:00:00",

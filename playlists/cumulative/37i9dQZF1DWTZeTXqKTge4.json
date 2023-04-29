@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Souldia",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Lost x Loud",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -640,7 +640,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 179506,
       "name": "Attrape-moi si tu peux",
       "url": "https://open.spotify.com/track/57ixH2CoJSG4vPPFHuWJhr"
@@ -1312,7 +1312,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 132600,
       "name": "Boucle d'or",
       "url": "https://open.spotify.com/track/3fRx1iAvPNHA3ZIM8ObHzQ"
@@ -2674,6 +2674,42 @@
       "duration_ms": 191948,
       "name": "D\u00e9\u00e7u",
       "url": "https://open.spotify.com/track/5oLKUybX4AmzfGk0WLBXaF"
+    },
+    {
+      "album": {
+        "name": "Eastside Story",
+        "url": "https://open.spotify.com/album/6Lk7hHtq1I1pEYcS6ZHZNs"
+      },
+      "artists": [
+        {
+          "name": "Imposs",
+          "url": "https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Eastside Story",
+      "url": "https://open.spotify.com/track/75XxDL422jppGj97qBCVxy"
+    },
+    {
+      "album": {
+        "name": "EAU DE MARS",
+        "url": "https://open.spotify.com/album/3bmTy2k4jf6KnWhs2djxfu"
+      },
+      "artists": [
+        {
+          "name": "HALO",
+          "url": "https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206056,
+      "name": "EAU DE MARS",
+      "url": "https://open.spotify.com/track/4OjqwWFfbrgsvJSArDXNyq"
     },
     {
       "album": {
@@ -4847,6 +4883,24 @@
     },
     {
       "album": {
+        "name": "Mission Nocturne",
+        "url": "https://open.spotify.com/album/3tKvDoCb5VgKj7lQZO50Bc"
+      },
+      "artists": [
+        {
+          "name": "Dextee",
+          "url": "https://open.spotify.com/artist/2T0593JGcrLxhxTwHXaWiE"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Mission Nocturne",
+      "url": "https://open.spotify.com/track/7g1sKd5TXXMMVTaBlssG2U"
+    },
+    {
+      "album": {
         "name": "HAINE MOI",
         "url": "https://open.spotify.com/album/74rD7TMXbDIRygW8MiWbjD"
       },
@@ -5671,6 +5725,28 @@
     },
     {
       "album": {
+        "name": "H\u00c9RITAGE",
+        "url": "https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        },
+        {
+          "name": "Loud",
+          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284801,
+      "name": "PARANO",
+      "url": "https://open.spotify.com/track/0ruI6MkAOhq597eZzFd3Ia"
+    },
+    {
+      "album": {
         "name": "Patience",
         "url": "https://open.spotify.com/album/3T7wTfrdZEo6FEPcnYB08j"
       },
@@ -6184,7 +6260,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 150857,
       "name": "Ranceur",
       "url": "https://open.spotify.com/track/2uxbDrFDIOLlq3GwSkZJvn"
@@ -7168,7 +7244,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 129266,
       "name": "Tour de Piste",
       "url": "https://open.spotify.com/track/0IxArEbwRpBYcwNg1hy3H0"
@@ -7252,7 +7328,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 192853,
       "name": "Tout ou rien - De l'autre c\u00f4t\u00e9",
       "url": "https://open.spotify.com/track/4Gzv5t4RddodRoc5rR3Vuz"
@@ -7430,6 +7506,24 @@
       "duration_ms": 183937,
       "name": "Uber Eats Freestyle",
       "url": "https://open.spotify.com/track/0Of0wSZPDgQcYccKuQtptU"
+    },
+    {
+      "album": {
+        "name": "Un seul roi",
+        "url": "https://open.spotify.com/album/4iFVf4c8xU9LcI82lW127E"
+      },
+      "artists": [
+        {
+          "name": "Izuku",
+          "url": "https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124459,
+      "name": "Un seul roi",
+      "url": "https://open.spotify.com/track/5DUEh6jFq13rek2tknux7u"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX5tULOO5PjY.md) - [plain]
 
 > 80s electronic boogie and post\-disco
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,863 likes - 60 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,888 likes - 60 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX5tULOO5PjY.md) - [plain]
 | 55 | [How Long](https://open.spotify.com/track/2xNlS3YW7yYkHMpUPlGQZK) | [Debra Laws](https://open.spotify.com/artist/6iA5wBxxMxUMr9a4fnJd34) | [Very Special](https://open.spotify.com/album/2mjNADEgtMAoNfXTLcFTn4) | 4:02 |
 | 56 | [Fantastic Voyage](https://open.spotify.com/track/0rc9Uwm4vmnQEfx5omLWWF) | [Lakeside](https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72) | [Fantastic Voyage](https://open.spotify.com/album/4bRmuhsGOdor3O2Ry38A9q) | 6:10 |
 | 57 | [High](https://open.spotify.com/track/0tQ92AMarYMFFcLnJPjBCT) | [Skyy](https://open.spotify.com/artist/5uFqO7FceiE84xjEjFtQLX) | [Skyway](https://open.spotify.com/album/6wMCS84QUyhS0v7C2gYObc) | 4:53 |
-| 58 | [Love's Comin' At Ya \- Remastered](https://open.spotify.com/track/2JXK3ELYkEcGTE4dsO4kYq) | [Melba Moore](https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq) | [Other Side Of The Rainbow](https://open.spotify.com/album/2H8dX8DEFqG96KEkzCv3Jd) | 5:43 |
+| 58 | [Love's Comin' At Ya \- 2004 Digital Remaster](https://open.spotify.com/track/2JXK3ELYkEcGTE4dsO4kYq) | [Melba Moore](https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq) | [Other Side Of The Rainbow](https://open.spotify.com/album/2H8dX8DEFqG96KEkzCv3Jd) | 5:43 |
 | 59 | [I Loved Every Minute of It](https://open.spotify.com/track/5OVto0axRHGWAAWOCf6cZD) | [Gayle Adams](https://open.spotify.com/artist/15BDxaGYlN3CPzUdWddake) | [Love Fever](https://open.spotify.com/album/52ZVYXSDSMUmpmlzmNKvAh) | 5:48 |
 | 60 | [He's a Freak Undercover](https://open.spotify.com/track/2WFS0puLBFzV698XkYbt3Z) | [Fatback Band](https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6) | [With Love](https://open.spotify.com/album/1rj8M1ano07y53htwMsCem) | 5:19 |
 
-Snapshot ID: `MCxlM2RhY2U4M2JlMGVkODBjNDJhNzE0MjBiZGJkNmE3ZTBmMDVmMGMw`
+Snapshot ID: `MCxlMTY0NGNmNTM4NmM0NDQ0ODhhYzMxYjFjMzhjNjVlYmZkZWQ3Yzkw`

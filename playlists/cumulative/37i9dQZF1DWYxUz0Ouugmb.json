@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi. ",
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Anggi Marito",
   "name": "RADAR Indonesia",
   "tracks": [
     {
@@ -2262,6 +2262,28 @@
       "duration_ms": 249343,
       "name": "Tafsir Mistik",
       "url": "https://open.spotify.com/track/0aPepMh9otBMbV4xKmiRtq"
+    },
+    {
+      "album": {
+        "name": "Tak Ingin Kau Terluka",
+        "url": "https://open.spotify.com/album/0uFlzYLmvdkLOffbpapdPW"
+      },
+      "artists": [
+        {
+          "name": "Anggi Marito",
+          "url": "https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx"
+        },
+        {
+          "name": "Mario G klau",
+          "url": "https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249100,
+      "name": "Tak Ingin Kau Terluka",
+      "url": "https://open.spotify.com/track/3HQgtw9EiCBPXsTQPrO2ZF"
     },
     {
       "album": {

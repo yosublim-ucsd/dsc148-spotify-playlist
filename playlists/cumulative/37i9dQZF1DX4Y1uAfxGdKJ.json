@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Clearly",
+        "url": "https://open.spotify.com/album/3QX8yDjkNZ2S0By7xwTL7r"
+      },
+      "artists": [
+        {
+          "name": "Vince Violet",
+          "url": "https://open.spotify.com/artist/4rEFfTuw86reS4wKHIp9Np"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Clearly",
+      "url": "https://open.spotify.com/track/4jQFk9HpGI7J4h8DqAUKsW"
+    },
+    {
+      "album": {
         "name": "cloudless",
         "url": "https://open.spotify.com/album/6HyFrG0HkKZILVZJCwXt8U"
       },
@@ -2186,7 +2204,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 406350,
       "name": "Sweet Harmony - Erdi Irmak Remix",
       "url": "https://open.spotify.com/track/0ZEGR6XcO7gG8aFhTMPofm"

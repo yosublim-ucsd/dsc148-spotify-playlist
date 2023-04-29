@@ -4,7 +4,7 @@
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-226 songs - 13 hr 25 min
+227 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Blondie](https://open.spotify.com/track/1H9VPFNN9LidZcOOBrZx9W) | [Minuit](https://open.spotify.com/artist/3T5VmqTVAlLU7X0HKfCqY5) | [Vertigo](https://open.spotify.com/album/2ZZiUqmOAdG2odHhT3rmlo) | 3:07 | 2022-12-21 |  |
 | [Body to Body](https://open.spotify.com/track/1TWgFA9kZujNztCBHC9YiS) | [Bordo](https://open.spotify.com/artist/72K9oqBkV73DcEyBVHznA6), [Atëna](https://open.spotify.com/artist/0Y7lUqb3y1mEr8BssHDVCa) | [Body to Body](https://open.spotify.com/album/3rWHPgX9LAJnmHn9C36WO6) | 4:02 | 2022-05-20 |  |
 | [Boom, boom click!](https://open.spotify.com/track/7bIF7LS9GWFQ6sbAmlFtYc) | [Saint Privat](https://open.spotify.com/artist/7hrruNuPITt3N9zLMdbjGz) | [20 Years Dope Noir \- Blue Album](https://open.spotify.com/album/3hWnbksqVNqe9ntx5jcUJr) | 2:45 | 2022-12-21 |  |
-| [Bunga Bunga](https://open.spotify.com/track/26IQGZufsyQbH1LJwYJ2xb) | [Nous Non Plus](https://open.spotify.com/artist/6Z6HQhR9TltKhqaGctoXjp) | [Freudian Slip](https://open.spotify.com/album/4QrvtoH0Ag42xmJ3UuNzR5) | 3:41 | 2022-05-20 |  |
+| [Bunga Bunga](https://open.spotify.com/track/26IQGZufsyQbH1LJwYJ2xb) | [Nous Non Plus](https://open.spotify.com/artist/6Z6HQhR9TltKhqaGctoXjp) | [Freudian Slip](https://open.spotify.com/album/4QrvtoH0Ag42xmJ3UuNzR5) | 3:41 | 2022-05-20 | 2023-04-29 |
+| [Bunga Bunga](https://open.spotify.com/track/5MeF4KKGqnFD9Wk7GHe8hC) | [Nous Non Plus](https://open.spotify.com/artist/6Z6HQhR9TltKhqaGctoXjp) | [Freudian Slip](https://open.spotify.com/album/1SP5WFHv2EF2I81dNCfRSa) | 3:41 | 2022-12-21 |  |
 | [Burning Hour](https://open.spotify.com/track/2dje3ZBu1j1r0QfR7mtS0l) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Hyper Romance](https://open.spotify.com/album/08oR5PmpCJQ9FfWjsQtpXc) | 4:38 | 2022-12-21 |  |
 | [Burst Into Flames](https://open.spotify.com/track/3854ZRKFIleNxeaUf29XmS) | [Cavale](https://open.spotify.com/artist/3pgB7XxnJc68c7AsDL23DW) | [Burst Into Flames](https://open.spotify.com/album/4wf4lnzz8k0iJNNhDzmD5e) | 3:24 | 2022-05-20 |  |
 | [C'est Si Bon](https://open.spotify.com/track/3U69pCQwveSOn5bl9VAime) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [That Bad Eartha](https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW) | 2:59 | 2022-05-20 |  |

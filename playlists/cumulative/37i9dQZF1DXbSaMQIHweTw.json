@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Rapping into your hearts from the alleys of Mumbai. Cover- MC Stan",
+  "description": "Rapping into your hearts from the alleys of Mumbai. Cover- Yashraj",
   "name": "Bambai Bantai",
   "tracks": [
     {
@@ -386,6 +386,36 @@
       "duration_ms": 216431,
       "name": "Bol Bala",
       "url": "https://open.spotify.com/track/7FgTOompOyqXdjsKwkg9ol"
+    },
+    {
+      "album": {
+        "name": "Bombay Coast",
+        "url": "https://open.spotify.com/album/1h90h4U91NLlMP57WZxtBK"
+      },
+      "artists": [
+        {
+          "name": "Yashraj",
+          "url": "https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST"
+        },
+        {
+          "name": "MLHVR",
+          "url": "https://open.spotify.com/artist/1HZOuRhXA49pAZEdZbvKTn"
+        },
+        {
+          "name": "Adil",
+          "url": "https://open.spotify.com/artist/3iTfVWPV4ur3XkrBwz41VZ"
+        },
+        {
+          "name": "Deorachit",
+          "url": "https://open.spotify.com/artist/2ZtfmE2WlGjnaHwtwHbZXh"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188181,
+      "name": "Bombay Coast",
+      "url": "https://open.spotify.com/track/1RNW6JS1eZhvO2LzodiX3B"
     },
     {
       "album": {
@@ -880,7 +910,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 207750,
       "name": "Jama Kar",
       "url": "https://open.spotify.com/track/0zyMXraAjJoqD7EWSnRqHS"

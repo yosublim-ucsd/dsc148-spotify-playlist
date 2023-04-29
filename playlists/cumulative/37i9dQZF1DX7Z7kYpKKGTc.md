@@ -4,7 +4,7 @@
 
 > The romantic side of classic rock and metal
 
-432 songs - 1 day 8 hr 52 min
+433 songs - 1 day 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Coming Home](https://open.spotify.com/track/1wVY6mhyV2bCrEmJBFGZCY) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Long Cold Winter](https://open.spotify.com/album/4HhRgtZGxBey3QJs0TQxfw) | 4:56 | 2022-03-30 | 2022-04-20 |
 | [Crash! Boom! Bang!](https://open.spotify.com/track/6RpIFxTwkNIVuO5pV9ui9G) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Crash! Boom! Bang! \(Extended Version\)](https://open.spotify.com/album/3f5WapBpTtNqVF079EhUhV) | 5:01 | 2022-03-30 | 2022-04-02 |
 | [Crazy](https://open.spotify.com/track/74irxdVWstNlEQjsvArITq) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 5:16 | 2022-03-30 | 2023-04-06 |
+| [Crazy](https://open.spotify.com/track/3QxKpdTB8ZSFn8MGeCCpsQ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4) | 5:16 | 2023-03-26 |  |
 | [Crazy Love](https://open.spotify.com/track/4Hjc4SW0TAw930NojNOxIA) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Still The Same..\. Great Rock Classics Of Our Time](https://open.spotify.com/album/53ufl2hkXUBHfvXfr2SRpt) | 2:42 | 2022-03-30 | 2022-04-19 |
 | [Cryin'](https://open.spotify.com/track/0NJC0FDCODpPUntRTTQq97) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 5:08 | 2022-03-30 | 2023-04-06 |
 | [Crystal Eyes](https://open.spotify.com/track/41UCMHDf5CS31fe4PT54ut) | [L.A\. Guns](https://open.spotify.com/artist/22TEmHXBBLjTec2LOAuMdS) | [Hollywood Vampires](https://open.spotify.com/album/6MwtK0qspHJs9N4BTBfypw) | 5:52 | 2022-03-30 | 2022-04-01 |
@@ -217,7 +218,7 @@
 | [Keep on Loving You](https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Hi Infidelity \(30th Anniversary Edition\)](https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N) | 3:20 | 2022-03-30 |  |
 | [Lady](https://open.spotify.com/track/1wpRglLhQ092N1rftlDMD3) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Styx II](https://open.spotify.com/album/6QRpuaqB1chM6wemxQlcy1) | 2:57 | 2022-03-30 | 2022-04-10 |
 | [Landslide \- Remastered](https://open.spotify.com/track/6N7JMoaUYgo4pwPgsnSobr) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Pisces Iscariot \(Deluxe\)](https://open.spotify.com/album/7glwer1Pzyns4h32fHbl53) | 3:10 | 2022-03-30 | 2022-04-09 |
-| [Last Kiss](https://open.spotify.com/track/0QnONzv3TvHAWk294h6DaQ) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Last Kiss](https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf) | 3:15 | 2022-03-30 |  |
+| [Last Kiss](https://open.spotify.com/track/0QnONzv3TvHAWk294h6DaQ) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Last Kiss](https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf) | 3:15 | 2022-03-30 | 2023-04-29 |
 | [Layla](https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz) | [Derek & The Dominos](https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z) | [Layla And Other Assorted Love Songs \(Remastered 2010\)](https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM) | 7:03 | 2022-03-30 |  |
 | [Lea](https://open.spotify.com/track/0Cs9PU4gX5BZcOtLP2Km5t) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Greatest Hits: 40 Trips Around The Sun](https://open.spotify.com/album/5ChYBNgy8o2ps5716s1GH2) | 4:29 | 2022-03-30 | 2022-04-20 |
 | [Let Her Cry](https://open.spotify.com/track/6NGi23FFKq9tH5NR1NcTw2) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [Cracked Rear View](https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K) | 5:18 | 2022-03-30 | 2022-04-18 |

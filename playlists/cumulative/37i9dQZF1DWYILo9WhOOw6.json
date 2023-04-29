@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/01lzymsaF2TaNrcDyW1bdX"
+      },
+      "artists": [
+        {
+          "name": "Assembly of Sines",
+          "url": "https://open.spotify.com/artist/16iSnfmdXqHdufWNzURPFt"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153333,
+      "name": "Binaural Sines 2hz Delta 55hz - 57hz",
+      "url": "https://open.spotify.com/track/1Om7a5bQfKfQWFgmDCdFxX"
+    },
+    {
+      "album": {
         "name": "Binaural Dreams",
         "url": "https://open.spotify.com/album/0LpUvovOq0Fh4XFaWtKRZ6"
       },

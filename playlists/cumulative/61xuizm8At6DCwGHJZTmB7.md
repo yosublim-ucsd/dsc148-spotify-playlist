@@ -4,7 +4,7 @@
 
 > Listen to the top Christian and worship hits of 2023 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-272 songs - 1 day 2 hr 22 min
+274 songs - 1 day 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Ask Seek Pray](https://open.spotify.com/track/4vDSU4Cjulz9YMncj20TgZ) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV), [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [Faith in Our Time \(Deluxe LP\)](https://open.spotify.com/album/0TsUGpX2YPmsuUBUoDyrhh) | 6:54 | 2022-10-13 | 2023-04-05 |
 | [At The Cross \(Love Ran Red\)](https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Love Ran Red](https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY) | 4:10 | 2022-03-18 |  |
 | [Battle Belongs](https://open.spotify.com/track/6QNTTFtVslpomCt0sOQ7RJ) | [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Battle Belongs](https://open.spotify.com/album/6yPSq0owFKBgD6UKTrglA2) | 4:44 | 2022-02-17 | 2023-04-01 |
+| [Be Glorified \- Live](https://open.spotify.com/track/0WIfQN8w8EZIjbCeJfXBn2) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Be Glorified \(Live\)](https://open.spotify.com/album/59UQIY7Llrc3aZgXNxFEnK) | 7:26 | 2023-04-28 |  |
 | [Beautiful People](https://open.spotify.com/track/4cqQWJKG4wD6fS0oDu5Jb7) | [Mannahouse Worship](https://open.spotify.com/artist/42z5UEkDoJlJ7QDJ1phGzN) | [Beautiful People](https://open.spotify.com/album/0vLDQv07AMn6PTuQT61I5G) | 3:38 | 2022-02-17 | 2022-04-05 |
 | [Because He Lives](https://open.spotify.com/track/1OqKHs0OGzlOib5BtuUT7L) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Reunited](https://open.spotify.com/album/7ygK4tK0qSpdlMau3sBnO5) | 3:36 | 2022-04-05 | 2022-06-10 |
 | [Because Of Christ \- Live](https://open.spotify.com/track/7r7cqJyvYepirmrIWZESjz) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Henry Seeley](https://open.spotify.com/artist/2MZEISBa4OBbC0erQQcyzS) | [Because Of Christ \(Live\)](https://open.spotify.com/album/1HGXYg4KxoXD1gpUjCKP2I) | 9:19 | 2022-02-17 | 2022-05-21 |
@@ -248,6 +249,7 @@
 | [The Dove \- Live](https://open.spotify.com/track/0kY1gXASKakozyS63qLgIr) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Dove \(Live\)](https://open.spotify.com/album/5zaE1TfsrPEiIy7ymSznyV) | 9:55 | 2023-01-04 |  |
 | [The Good Thief \(Hallelujah\) \- Live](https://open.spotify.com/track/4jaMzKsUKz42S4tI1hfKdk) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Chardon Lewis](https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx) | [The Good Thief \(Hallelujah\) \[Live\]](https://open.spotify.com/album/6rCcZL8tO4yNTfDlf3O3s3) | 5:24 | 2022-02-18 | 2023-01-05 |
 | [The Kindness Of The Cross](https://open.spotify.com/track/5NkRkMWyUaIFnfBTdccuqX) | [Travis Cottrell](https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW) | [The Kindness Of The Cross](https://open.spotify.com/album/1vxB7fbWYLquhtIYSFaDL0) | 4:16 | 2022-04-11 | 2022-06-10 |
+| [The King Is On The Way](https://open.spotify.com/track/530DokdFbJqxMVU1wHQyVs) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [Closer Than You Think](https://open.spotify.com/album/3ZPJpdPrrLgi4rxoXSYLKP) | 4:22 | 2023-04-28 |  |
 | [The Lion And The Lamb](https://open.spotify.com/track/2CEQ0ykwvuD2KC6gn2ijIX) | [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Songs Of Glory](https://open.spotify.com/album/4Ry1jLIuWo8s8UrJLlhLck) | 4:36 | 2022-02-17 | 2022-04-05 |
 | [The Lord Almighty Reigns](https://open.spotify.com/track/283smqTiVNtIDD1v0jXOFS) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [The Lord Almighty Reigns](https://open.spotify.com/album/5ScPt3LXhLuUFqYFXKtqas) | 3:48 | 2022-09-02 | 2022-09-25 |
 | [The Lord Almighty Reigns \- Live](https://open.spotify.com/track/01U4uDzyNXcNoLBGiCQeHF) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Sing! Christ Our Hope In Life And Death \(Live At The Getty Music Worship Conference\)](https://open.spotify.com/album/6Yc2IDSVhI1i0kxGYBtDTG) | 4:03 | 2023-02-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 
 > Listen to women at full volume!  On the cover this month: <a href="spotify:artist:69LIgTfuoQOAiE5wbqkMci">Isolde Lasoen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,919 likes - 49 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,921 likes - 49 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 | 13 | [Ready For The Ride](https://open.spotify.com/track/21Ew579c6kdc8iOSblFdIX) | [Natalia](https://open.spotify.com/artist/2ngqIbDud3EeLNAdrZCWyN) | [Ready For The Ride](https://open.spotify.com/album/21HxGGlUvxSxl99ANyNzPS) | 3:20 |
 | 14 | [Neem Ik Je Mee](https://open.spotify.com/track/0vLgIyrfaBg6ehkuLL9eJO) | [Anouk Matton](https://open.spotify.com/artist/3gOXeJEanZvYAKgbBXl2Gk), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Neem Ik Je Mee](https://open.spotify.com/album/1cODZWysWzIiMAStQaFiUs) | 2:50 |
 | 15 | [Popular](https://open.spotify.com/track/5cojeuxRNPvDBGrSwlUwqI) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Popular](https://open.spotify.com/album/4HpPrnztMTNL0jWNq2aV4k) | 2:06 |
-| 16 | [QT](https://open.spotify.com/track/1FSjgJyOz1CuYnrZ4TycCq) | [MEYY](https://open.spotify.com/artist/6ovTUUvyWpxSigzDhtfVs5), [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [QT](https://open.spotify.com/album/7GFLfpkioVPmKTTsVX1c1c) | 3:05 |
+| 16 | [QT](https://open.spotify.com/track/1FSjgJyOz1CuYnrZ4TycCq) | [MEYY](https://open.spotify.com/artist/6ovTUUvyWpxSigzDhtfVs5), [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [QT](https://open.spotify.com/album/7GFLfpkioVPmKTTsVX1c1c) | 3:06 |
 | 17 | [High Anxiety](https://open.spotify.com/track/4tn6jE0Zz45alOjx8UnNJV) | [Annabel Lee](https://open.spotify.com/artist/6wsXRptmqxSeGElfXrlsAn) | [High Anxiety](https://open.spotify.com/album/5nYVmOfcKUAZAaImveZ8b0) | 3:48 |
 | 18 | [Imperfections](https://open.spotify.com/track/6il4WwS3efuv7GZ15g4ZQ8) | [Lyna](https://open.spotify.com/artist/6T83nWN9QZR1Abip1bMcVV) | [Imperfections](https://open.spotify.com/album/7BwQeu6XotauNon9gAKf84) | 1:30 |
 | 19 | [Girlcrush \- Radio Edit](https://open.spotify.com/track/1FJPDX7orHeRdD0uqkswa5) | [Mayorga](https://open.spotify.com/artist/5AyhF5G3hX20eu1ONPW3j6) | [Girlcrush \(Radio Edit\)](https://open.spotify.com/album/4Yvlp2ilOiPFti2RMe3LnA) | 3:12 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 | 48 | [You Lift Me Up](https://open.spotify.com/track/7a39zR5kwZEs1xyCiCxTHr) | [Loredana](https://open.spotify.com/artist/01Fr5nbN9cG3Cu4nkyFMHr) | [You Lift Me Up](https://open.spotify.com/album/4mPUwelJSZvekAbzPZMT3n) | 3:00 |
 | 49 | [Niemand Heeft Je Ooit Gezien \- Single Edit](https://open.spotify.com/track/2CMb5C7wQHz99sEMeh1glg) | [Barbara Dex](https://open.spotify.com/artist/6k5q0SYwBlBsUmfaOhk1Ak) | [Niemand Heeft Je Ooit Gezien](https://open.spotify.com/album/6t2iVinaSaOEV4oFXGeN1X) | 3:31 |
 
-Snapshot ID: `MCw3NDliNmViMDA4ZGIyODdhNmI0Yjg0MTAxZDFkOGIxZDZlZmQ3NjRl`
+Snapshot ID: `MCw0Y2I5NWEwMmFkZjVmZTgwYTI2NGY4YjJlMGRhMTU1MWVkMGI1MTBm`

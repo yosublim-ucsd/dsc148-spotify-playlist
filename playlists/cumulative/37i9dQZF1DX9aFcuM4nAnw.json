@@ -1102,7 +1102,7 @@
     {
       "album": {
         "name": "Untrue",
-        "url": "https://open.spotify.com/album/1CI5OW60s9W41YLI80Jjdr"
+        "url": "https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK"
       },
       "artists": [
         {
@@ -1113,6 +1113,24 @@
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 126091,
+      "name": "In McDonalds",
+      "url": "https://open.spotify.com/track/7vZTj01UKQ6OuTItkQfxuy"
+    },
+    {
+      "album": {
+        "name": "Untrue",
+        "url": "https://open.spotify.com/album/1CI5OW60s9W41YLI80Jjdr"
+      },
+      "artists": [
+        {
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
       "duration_ms": 127000,
       "name": "In McDonalds",
       "url": "https://open.spotify.com/track/0WxZZUJuDXZlxfrWaqp1DG"
@@ -1340,6 +1358,24 @@
     {
       "album": {
         "name": "Melancholia",
+        "url": "https://open.spotify.com/album/2942iMljVSFpfxH8lJaCZr"
+      },
+      "artists": [
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203706,
+      "name": "Melancholia I",
+      "url": "https://open.spotify.com/track/5iH9BvzhJ10sfeCEIPoDLN"
+    },
+    {
+      "album": {
+        "name": "Melancholia",
         "url": "https://open.spotify.com/album/2mDwgIyil7jUI192RqJ1Lm"
       },
       "artists": [
@@ -1368,7 +1404,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 205133,
       "name": "Melancholia I",
       "url": "https://open.spotify.com/track/6mO6BqqwxzdzofedxrixBA"
@@ -1386,7 +1422,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 410986,
       "name": "Melancholia II",
       "url": "https://open.spotify.com/track/0ALo5LHdF3hJiD8WFN770B"
@@ -1780,7 +1816,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-12",
+      "date_removed": null,
       "duration_ms": 511898,
       "name": "Spectral Corridor Part 4",
       "url": "https://open.spotify.com/track/4VzYC6ZbJFuHQaDmWiIFPW"

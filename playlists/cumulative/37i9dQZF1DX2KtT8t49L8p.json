@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Healing Sines Binaural 2",
+        "url": "https://open.spotify.com/album/4eCytLY2LUz4QdXeOCf3xd"
+      },
+      "artists": [
+        {
+          "name": "Healing Sines Binaural",
+          "url": "https://open.spotify.com/artist/229WxeHEbUDbjdneDnA9ms"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Binaural 5HZ Theta - 65HZ - 70HZ",
+      "url": "https://open.spotify.com/track/1ceFbynOnDRdIkWnwDpQS9"
+    },
+    {
+      "album": {
         "name": "Binaural Beats Brainwave Therapy: Binaural Beats, Theta Waves, Alpha Waves, Isochronic Tones and Ambient Music For Deep Sleep, Relaxation, Brainwave Entrainment and Sleeping Music, Vol. 2",
         "url": "https://open.spotify.com/album/3u5zY5MkY6ykRjmQEXLlk8"
       },

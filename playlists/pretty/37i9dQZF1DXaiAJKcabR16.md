@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiAJKcabR16.md) - [plain]
 
 > Slide and steel\. Set your soundtrack to some moody, gritty blues folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,819 likes - 63 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,914 likes - 63 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiAJKcabR16.md) - [plain]
 | 8 | [Methhead](https://open.spotify.com/track/2mLYN7Hz2czFkZugFscrrb) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [Off This Mountaintop](https://open.spotify.com/album/5ihcQ3YrAH2Ip9wHUqeQyT) | 3:50 |
 | 9 | [Big Boss Man](https://open.spotify.com/track/6YZm2uEonZWcnOO2Uo2Fyb) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [The Northern South, Vol\. 1](https://open.spotify.com/album/0qvm65mwPYGTQL33VxDJ3X) | 3:45 |
 | 10 | [Walking Back from Willmar](https://open.spotify.com/track/5fe7FqNTsej6UrBWOcP6FO) | [Charlie Parr](https://open.spotify.com/artist/2OOAWkt15smEKXtNNLtaNG) | [Last of the Better Days Ahead](https://open.spotify.com/album/3jxu9hO2uxFldtmzZGXYBv) | 4:18 |
-| 11 | [Thousand Mile Night](https://open.spotify.com/track/4q4F2OEZJ2EQuRNBKytiDr) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Thousand Mile Night](https://open.spotify.com/album/4LkEoMZMHwVWLByjtt4wQf) | 3:55 |
+| 11 | [Thousand Mile Night](https://open.spotify.com/track/7daWU6T6qzj6W2e8wVDg3D) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Thousand Mile Night](https://open.spotify.com/album/61RF8IAtnbqiwQbENoVqQS) | 3:53 |
 | 12 | [Lead Me Home \- The Walking Dead Soundtrack](https://open.spotify.com/track/2DBFAJgsqhYk5Z1AF7tAMH) | [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [The Walking Dead \(AMC’s Original Soundtrack – Vol\. 1\)](https://open.spotify.com/album/6m6doB3yM5Fehx4wukSvEs) | 1:57 |
 | 13 | [Whispered Words \(Pretty Lies\)](https://open.spotify.com/track/6KPaX2zvWAOXYZjvhqdQZj) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Keep It Hid](https://open.spotify.com/album/2KQn93GMsH7IoOvQ0Hlqzx) | 4:06 |
 | 14 | [On the Road Again](https://open.spotify.com/track/1BQkVDlEOtYKOaotnJuNzz) | [Jack Broadbent](https://open.spotify.com/artist/2yk5jg6yi5fV6xmUZoBPHU) | [Along the Trail of Tears](https://open.spotify.com/album/6IcVeQFhXfXimexDoOYJoy) | 3:43 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiAJKcabR16.md) - [plain]
 | 62 | [Crazy Woman](https://open.spotify.com/track/5ke9Y5BL0wbGOg4pshd1B0) | [Joseph LeMay](https://open.spotify.com/artist/3BRHUE4Ml0PKrgZ5EjVtxf) | [Seventeen Acres](https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf) | 2:02 |
 | 63 | [Trouble](https://open.spotify.com/track/5aGkIyzLVYGuLIHkxpNAFF) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 4:01 |
 
-Snapshot ID: `MCw4YmQ4NWU0OTcxYmM5YmZlMWFmZTAzNzEwY2Y5NDg1NDU2ZWE4ZGQw`
+Snapshot ID: `MCxlZGViZThjYzE2YzZkNDM5ODc5OTI0YjY0NDNkMTczOTlmY2ViOTNk`

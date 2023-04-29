@@ -4,7 +4,7 @@
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  R3HAB, INNA, Sash!
 
-750 songs - 1 day 11 hr 58 min
+751 songs - 1 day 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -554,6 +554,7 @@
 | [Ride Or Die](https://open.spotify.com/track/1D643xL28RupQU5Ze9sH8P) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj), [Haj](https://open.spotify.com/artist/05WNscDcYnsCEMH42h1ehL) | [Ride Or Die](https://open.spotify.com/album/1oLDHF4F3E3HfdcOAMytuF) | 2:30 | 2022-06-17 | 2022-07-02 |
 | [Ridiculous](https://open.spotify.com/track/7gI3L0bry3gOER6UeS9Vke) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [Ridiculous](https://open.spotify.com/album/5EJRspOV5Vykj7jTgLT7d3) | 2:20 | 2022-06-03 | 2022-06-20 |
 | [Rio Rio \(feat\. Martina Camargo\)](https://open.spotify.com/track/0vnbMEahl3Lj1AixLnCGje) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x), [Paolo Pellegrino](https://open.spotify.com/artist/3ewQZ4iDkC9CQzceitueXe), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH) | [Rio Rio \(feat\. Martina Camargo\)](https://open.spotify.com/album/2lLotYOtvUOqdVCzor6XNZ) | 2:51 | 2022-10-14 | 2022-10-28 |
+| [Rock My Body](https://open.spotify.com/track/2o97OhRvkc1WGbV20QkB0R) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body](https://open.spotify.com/album/732igpb1mrqh5K5i1fXfSO) | 2:17 | 2023-04-28 |  |
 | [Rock Skeeping](https://open.spotify.com/track/1tL7drK2ROMjipcAyATRa5) | [Scorsi](https://open.spotify.com/artist/0LQKGvxOXZHDCxuite9zcT) | [Rock Skeeping](https://open.spotify.com/album/6fwC1uJsiIQEPjd7ewfRgH) | 2:59 | 2023-02-23 | 2023-03-04 |
 | [Rockstar Baby \(feat\. Mougleta\)](https://open.spotify.com/track/27ooJRSmsdwshBQGoUZE3p) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Rockstar Baby \(feat\. Mougleta\)](https://open.spotify.com/album/6Kamhcf55KpgHpbAMvQqp5) | 2:54 | 2022-09-23 | 2022-10-07 |
 | [Rockstar Baby \(feat\. Mougleta\) \- KOPPY Remix](https://open.spotify.com/track/1d8smjkijzlj2ZO9JoUuaO) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD), [KOPPY](https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO) | [Rockstar Baby \(feat\. Mougleta\) \[KOPPY Remix\]](https://open.spotify.com/album/1RHIzYat0BghwlBnETtOVl) | 2:33 | 2023-01-05 | 2023-01-20 |

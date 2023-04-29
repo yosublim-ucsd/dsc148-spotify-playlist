@@ -1045,6 +1045,32 @@
     },
     {
       "album": {
+        "name": "Cria da Norte",
+        "url": "https://open.spotify.com/album/6MBcU8yvbk9URoszy8s8E2"
+      },
+      "artists": [
+        {
+          "name": "Piratha",
+          "url": "https://open.spotify.com/artist/0nkpf3kQ1QXRkaRuGDlVvx"
+        },
+        {
+          "name": "Babidi",
+          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
+        },
+        {
+          "name": "Leo Falcon",
+          "url": "https://open.spotify.com/artist/00a4YwjmqjZcWMXlz1C6I2"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "Cria da Norte",
+      "url": "https://open.spotify.com/track/1uT3bipBc4YL7hOykga1Jg"
+    },
+    {
+      "album": {
         "name": "CRIME",
         "url": "https://open.spotify.com/album/3wDmkkTCFs3cvSzKCDOogf"
       },
@@ -1500,6 +1526,28 @@
       "duration_ms": 203964,
       "name": "Enquadro",
       "url": "https://open.spotify.com/track/2y0zRkv69lLD1BKeFbMDDK"
+    },
+    {
+      "album": {
+        "name": "Espartano",
+        "url": "https://open.spotify.com/album/0kqyWkboIrfcbXIwBAcYSQ"
+      },
+      "artists": [
+        {
+          "name": "Rico Soares",
+          "url": "https://open.spotify.com/artist/4wjh1ld5dY85EiWc2DXv6Y"
+        },
+        {
+          "name": "Lipins7a",
+          "url": "https://open.spotify.com/artist/1jKx3TXqffPFa5DBt9UFEy"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "Espartano",
+      "url": "https://open.spotify.com/track/54QLspTstRfyDHjkZWASOB"
     },
     {
       "album": {
@@ -2016,7 +2064,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 166566,
       "name": "JANUMGRIME",
       "url": "https://open.spotify.com/track/7gd3A3NmkfJnxLDSuZtf2E"
@@ -2278,7 +2326,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 205745,
       "name": "Melhor Agora",
       "url": "https://open.spotify.com/track/2zsjWBqJohc4Vk8YKZJGfT"

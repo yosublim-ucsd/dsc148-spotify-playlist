@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zBnarWcy8.md) - [plain]
 
 > New Orleans kind of funk\. Cover: Cha Wa
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,628 likes - 49 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,633 likes - 49 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zBnarWcy8.md) - [plain]
 | 12 | [Hey Pocky A\-Way \(A Way\)](https://open.spotify.com/track/6X7IfhMcE0yaYfsxjsuRTC) | [The Wild Tchoupitoulas](https://open.spotify.com/artist/1WE9X6cq7c067LtIvikUKx) | [The Wild Tchoupitoulas](https://open.spotify.com/album/5ZIIy56yYdZDkjI5tYma5L) | 3:59 |
 | 13 | [New Kind of Funk](https://open.spotify.com/track/285YwutNH5xUdow96XhkIS) | [Bo Dollis Jr](https://open.spotify.com/artist/7amHzGsj8KS7mgAYCR8czW), [The Wild Magnolias](https://open.spotify.com/artist/2l1iG0JqpgXHYg3RpRsHNz) | [New Kind of Funk](https://open.spotify.com/album/5Hn5Gplj2tYu6OQz54lltJ) | 3:32 |
 | 14 | [Git Up](https://open.spotify.com/track/56jMWNwEhXzatfZZmvLDLY) | [The Dirty Dozen Brass Band](https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7) | [Twenty Dozen](https://open.spotify.com/album/5F2NuTif1Tz4cE47DKJbQA) | 5:56 |
-| 15 | [Keepin' It Funky](https://open.spotify.com/track/14hdi3R1TVvH5qGEIZfMD0) | [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [On the Spot](https://open.spotify.com/album/6aM9vFGgaEb2nGMorm3kFl) | 6:36 |
+| 15 | [Keepin' It Funky](https://open.spotify.com/track/3DwJcbUHZmoQKvNz5tU7Ua) | [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [On the Spot](https://open.spotify.com/album/2OlkUpfFyca0jPZSfLYnO9) | 6:36 |
 | 16 | [New Funk](https://open.spotify.com/track/16BdtvW5Wr8eFEyyy1istF) | [Big Sam's Funky Nation](https://open.spotify.com/artist/6Ydc3Hjjy7W964wZm2NX7G) | [Birth Of A Nation](https://open.spotify.com/album/2zOFhVE6qD8ikgNMwKb7DM) | 6:19 |
 | 17 | [Say Na Hey](https://open.spotify.com/track/6s5hHr8EhNPZWDVXHBPcEC) | [The Soul Rebels](https://open.spotify.com/artist/10NEMYLJwVvYSvtvZn5Ipz) | [Unlock Your Mind](https://open.spotify.com/album/30DZF2u3CHEE3pWZibviRQ) | 4:03 |
 | 18 | [Give It Up](https://open.spotify.com/track/4dUOAFN1Yk2TuslROwZcdX) | [Lee Dorsey](https://open.spotify.com/artist/0En4EEcDMJ5kaUCf1aZ9js) | [The New Lee Dorsey](https://open.spotify.com/album/2CQt3vL1SHnqxyZvoPQPUb) | 3:03 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zBnarWcy8.md) - [plain]
 | 20 | [Gorillafaceugmopotamus!](https://open.spotify.com/track/1mvVzDrHXM9F1gI9CVg9r2) | [Papa Grows Funk](https://open.spotify.com/artist/3HZGp40qZu7sjn5KswiU3Q) | [Mr Patterson's Hat](https://open.spotify.com/album/2Hx2VsjvbnEhC1UX0iTdZh) | 4:37 |
 | 21 | [Hey Mama Here Comes the Preacher](https://open.spotify.com/track/5NkYVRo3pmlke8N0iFS45m) | [Eddie Bo](https://open.spotify.com/artist/6yJkbSRofSN6kk4BWaqlax), [The Soul Finders](https://open.spotify.com/artist/5i32E7qY43IHqFmuTh8RU8) | [The Hook and Sling](https://open.spotify.com/album/774axwKDolHngJIBnsgxMl) | 2:40 |
 | 22 | [Here Come The Girls](https://open.spotify.com/track/3wiSzBv2UUK3skM74i22uM) | [Stanton Moore](https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj), [Cyril Neville](https://open.spotify.com/artist/7gZpdFerSL21Z6544jJIzI), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [With You In Mind](https://open.spotify.com/album/3prIp8tw4hQx5nHmd9Uhya) | 4:06 |
-| 23 | [Love Will Tear Us Apart](https://open.spotify.com/track/7n6pjSxN5rnIzNgr11zX7Z) | [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [Love Will Tear Us Apart](https://open.spotify.com/album/25IyZfmmpK5FWSqvhla76M) | 3:36 |
+| 23 | [Love Will Tear Us Apart](https://open.spotify.com/track/1j2iplFjazFwShpHmlx10W) | [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [Love Will Tear Us Apart](https://open.spotify.com/album/4BOdO6NVndpFv6P1bLNCZU) | 3:36 |
 | 24 | [Voodoo](https://open.spotify.com/track/465JohWeaz2FKbdKVmXvrJ) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Yellow Moon](https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF) | 4:27 |
 | 25 | [Back Street Lover \- Remastered](https://open.spotify.com/track/6z4GZz4cXtW2bddSoFSHfQ) | [Ernie K\-Doe](https://open.spotify.com/artist/3ybBNyjii40yY104IZkcly) | [Emperor Of New Orleans \(Remastered\)](https://open.spotify.com/album/6Kzdp5ojEJ28KCebR4Kb6z) | 2:28 |
 | 26 | [Pop, Popcorn Children](https://open.spotify.com/track/0YUzEKoTak7VHts4p1jglt) | [Eldridge Holmes](https://open.spotify.com/artist/25aWvOh8uTg8ZZSZvOPB9P) | [Soul Jazz Records Presents New Orleans Funk 4: Voodoo Fire In New Orleans 1951\-75](https://open.spotify.com/album/0U19UvTHNfTrxKlXe3FvcA) | 2:51 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zBnarWcy8.md) - [plain]
 | 48 | [Going On](https://open.spotify.com/track/6E6yIFd8X0XGCbjMHJ9mPH) | [Johnny Sketch & The Dirty Notes](https://open.spotify.com/artist/4euiFJVFE4gijlrQl4b7DF) | [Sketch](https://open.spotify.com/album/0yvRNAIe87HXEiQtxV3DmM) | 4:26 |
 | 49 | [Four Horsemen](https://open.spotify.com/track/2rnxsfbS4peLw0ZP71YRO8) | [Big Chief Monk Boudreaux](https://open.spotify.com/artist/6dEA9IhHWUof5HKLeYRGer) | [Won't Bow Down](https://open.spotify.com/album/5H5loW7aKraS3pVG4BnSLP) | 6:47 |
 
-Snapshot ID: `MCw0YWY1MzU2NTcwZWIxMzdjNjgyMDRmYzVjYzUxZjgxYWUyMTFjZmFl`
+Snapshot ID: `MCw0NzJmYTZkZTdkMTJlNDQ1MjMxZWVmOWFiNGY4YWM3OTRhN2VjY2Ez`

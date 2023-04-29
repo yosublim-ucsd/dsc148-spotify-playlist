@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOZlcP2WJM.md) - [plain]
 
 > Best of Lata Mangeshkar, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,836 likes - 199 songs - 16 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,898 likes - 199 songs - 16 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOZlcP2WJM.md) - [plain]
 | 29 | [Rimjhim Gire Sawan \- Duet](https://open.spotify.com/track/4Twn7Z9eg4tmhFzLlmZsSE) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Manzil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Dd8y4Bo2nHvkW5nmM1UdR) | 3:36 |
 | 30 | [Kabhi Kabhi Mere Dil Mein \(Duet\)](https://open.spotify.com/track/3fv7fFA81kccqQc7FV5c7Y) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Humforlatadidi](https://open.spotify.com/album/5SEwkuBauaQPFfqF4wxkqr) | 4:58 |
 | 31 | [Zinda Rehti Hain Unki Mohabbatein](https://open.spotify.com/track/3HYF4u13huHTkHQnBgit3N) | [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Anand Bakshi](https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy) | [Mohabbatein](https://open.spotify.com/album/2HeqbIcBcggDsgNCHcGN1h) | 2:23 |
-| 32 | [Yunhi Tum Mujhse \- From Sachaa Jhutha](https://open.spotify.com/track/2NBY05e6mIWtXtDJfdV853) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Sachaa Jhutha](https://open.spotify.com/album/5VFC5NmbiFSCSsVMOTiJOo) | 4:17 |
+| 32 | [Yunhi Tum Mujhse \- From "Sachaa Jhutha"](https://open.spotify.com/track/2NBY05e6mIWtXtDJfdV853) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Sachaa Jhutha](https://open.spotify.com/album/5VFC5NmbiFSCSsVMOTiJOo) | 4:17 |
 | 33 | [Koi Ladki Hai](https://open.spotify.com/track/1U07iG4qnbKP8ui3VidZN4) | [Uttam Singh](https://open.spotify.com/artist/0AWYFpUfZxzxKUgN5k0GrQ), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Anand Bakshi](https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy) | [Dil To Pagal Hai](https://open.spotify.com/album/6Pik6dQDEWGTdoEjn8psG8) | 5:30 |
 | 34 | [Dholna](https://open.spotify.com/track/6O8ZM3IKYcSBzpnuxpCAQr) | [Uttam Singh](https://open.spotify.com/artist/0AWYFpUfZxzxKUgN5k0GrQ), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Anand Bakshi](https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy) | [Dil To Pagal Hai](https://open.spotify.com/album/6Pik6dQDEWGTdoEjn8psG8) | 5:18 |
 | 35 | [Ek Duje Ke Vaaste](https://open.spotify.com/track/5ytl9khoVW9e0il8oVX5ob) | [Uttam Singh](https://open.spotify.com/artist/0AWYFpUfZxzxKUgN5k0GrQ), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Anand Bakshi](https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy) | [Dil To Pagal Hai](https://open.spotify.com/album/6Pik6dQDEWGTdoEjn8psG8) | 3:26 |
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOZlcP2WJM.md) - [plain]
 | 198 | [Gir Gaya Jhumka Girne Do \(From "Jugnu"\)](https://open.spotify.com/track/6GXfy68Lb9DjcrrsDAm1Pw) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Masterworks Lata Mangeshkar](https://open.spotify.com/album/7B0c97A5vyniuZOz0jgpDr) | 4:20 |
 | 199 | [Aaj Na Chodenge \- Reprise](https://open.spotify.com/track/6ULuZZaprXMB79riIxZZOb) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Kati Patang \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1OwB3P97qeFzhDQYYHy5uv) | 5:15 |
 
-Snapshot ID: `MCxiOTAzNzVhMTU0Njg4YzRmODAxOWE4NDU0YzU1OTNhZGM0YTlmZjFj`
+Snapshot ID: `MCw5YzE0MTllODQ3MzFmYzczMjU0Mjk0MTUyMjEwMWUxZDgzYTk2ODY4`

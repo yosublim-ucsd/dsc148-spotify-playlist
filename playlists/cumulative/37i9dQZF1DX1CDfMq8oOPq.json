@@ -115,6 +115,28 @@
     },
     {
       "album": {
+        "name": "Air Force",
+        "url": "https://open.spotify.com/album/4aW8csEPx6r1p4CFnlPpFD"
+      },
+      "artists": [
+        {
+          "name": "BIAB",
+          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
+        },
+        {
+          "name": "Black Queen",
+          "url": "https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Air Force",
+      "url": "https://open.spotify.com/track/2YxwuexC6MmXq1MzLrGMNR"
+    },
+    {
+      "album": {
         "name": "Ashira No Est\u00fadio Showlivre (Ao Vivo)",
         "url": "https://open.spotify.com/album/6nxV2RXjblA8wg4ZZs6Mea"
       },
@@ -350,7 +372,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 161290,
       "name": "Chapolin",
       "url": "https://open.spotify.com/track/6iRILQOnZXr8M35Rdoa1Dt"
@@ -774,7 +796,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 131684,
       "name": "Faz o Pix",
       "url": "https://open.spotify.com/track/5P0HSsTQmYVR6zq3ztnHZO"
@@ -1094,6 +1116,28 @@
       "duration_ms": 139854,
       "name": "Hino Delas",
       "url": "https://open.spotify.com/track/2k7EbkIovGbJJCWy7OoOgb"
+    },
+    {
+      "album": {
+        "name": "AJU",
+        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
+      },
+      "artists": [
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Dj Victor",
+          "url": "https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190722,
+      "name": "Homens Como Voc\u00ea",
+      "url": "https://open.spotify.com/track/1M6VDhgs95sHQSnsSOocIj"
     },
     {
       "album": {
@@ -1656,6 +1700,32 @@
       "duration_ms": 154838,
       "name": "Neurose",
       "url": "https://open.spotify.com/track/30H19lwk43YYwrzpgKK9xz"
+    },
+    {
+      "album": {
+        "name": "No Topo",
+        "url": "https://open.spotify.com/album/2Tq9t0VdZmmw6DO8HXJlDv"
+      },
+      "artists": [
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        },
+        {
+          "name": "DJ LN",
+          "url": "https://open.spotify.com/artist/1ctyN6vk4nSFNwStdXUVET"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "No Topo",
+      "url": "https://open.spotify.com/track/5ZvH8gZcSbJ2zYkoJSafJv"
     },
     {
       "album": {
@@ -2498,7 +2568,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 139241,
       "name": "T SHIRT (feat. J\u00e9 Santiago)",
       "url": "https://open.spotify.com/track/4yx4UxUQwBkRtSWkM854aS"

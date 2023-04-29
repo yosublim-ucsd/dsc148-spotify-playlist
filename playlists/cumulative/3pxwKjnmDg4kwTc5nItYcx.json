@@ -1079,7 +1079,7 @@
     },
     {
       "album": {
-        "name": "Birthday Cake",
+        "name": "birthday cake",
         "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
       },
       "artists": [
@@ -1092,7 +1092,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 205280,
-      "name": "Birthday Cake",
+      "name": "birthday cake",
       "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
     },
     {
@@ -9822,6 +9822,28 @@
       "duration_ms": 174902,
       "name": "Scorpio (feat. Ralph)",
       "url": "https://open.spotify.com/track/0MQdw4KqjlaeKCVzWT4j0K"
+    },
+    {
+      "album": {
+        "name": "Bebe",
+        "url": "https://open.spotify.com/album/0FWLTTcCKsd3b1PiW9GTEN"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203427,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/6sbqpXpDBb6MNv93lhqKvl"
     },
     {
       "album": {

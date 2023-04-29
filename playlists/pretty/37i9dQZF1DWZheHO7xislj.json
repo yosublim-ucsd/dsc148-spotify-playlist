@@ -1,12 +1,12 @@
 {
   "description": "Classic soul music for the perfect dinner.",
-  "num_followers": 56948,
+  "num_followers": 56968,
   "original_name": "Soulful Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGViYjczYTZlMzQ2ZDI1MzVlYjVlOTgyNzhjZDRmZGNhNDQ1Zjg0",
+  "snapshot_id": "MCw3NDhmYzc0MjkxOTY2Zjc2MjVjNGI5NDljM2NlMjljYmZjNWQxMWNl",
   "tracks": [
     {
       "added_at": "2023-01-09 13:10:50",
@@ -895,22 +895,18 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Don't Look Any Further (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4OUaPGTJDxhHCSyZxdWvXk"
+        "name": "I'll Never Fall in Love Again",
+        "url": "https://open.spotify.com/album/1gVMm1XwIz3JC2AHxAovtW"
       },
       "artists": [
         {
-          "name": "Dennis Edwards",
-          "url": "https://open.spotify.com/artist/15Kzh2fTgAW2AGXcGD32Kp"
-        },
-        {
-          "name": "Siedah Garrett",
-          "url": "https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT"
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
         }
       ],
-      "duration_ms": 242213,
-      "name": "Don't Look Any Further",
-      "url": "https://open.spotify.com/track/3GiSgsFwPp8zY7yTGsRlyR"
+      "duration_ms": 174840,
+      "name": "I'll Never Fall in Love Again",
+      "url": "https://open.spotify.com/track/1MHgV79MSYE6ymNlGa3bRY"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -931,18 +927,22 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "I'll Never Fall in Love Again",
-        "url": "https://open.spotify.com/album/1gVMm1XwIz3JC2AHxAovtW"
+        "name": "Don't Look Any Further (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4OUaPGTJDxhHCSyZxdWvXk"
       },
       "artists": [
         {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+          "name": "Dennis Edwards",
+          "url": "https://open.spotify.com/artist/15Kzh2fTgAW2AGXcGD32Kp"
+        },
+        {
+          "name": "Siedah Garrett",
+          "url": "https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT"
         }
       ],
-      "duration_ms": 174840,
-      "name": "I'll Never Fall in Love Again",
-      "url": "https://open.spotify.com/track/1MHgV79MSYE6ymNlGa3bRY"
+      "duration_ms": 242213,
+      "name": "Don't Look Any Further",
+      "url": "https://open.spotify.com/track/3GiSgsFwPp8zY7yTGsRlyR"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Ain't That Good News",
-        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Another Saturday Night",
-      "url": "https://open.spotify.com/track/5z8DiKSG4EwxmO6gUi12rZ"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/5OkHt7JZ6HSkJH359y2H31"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 233560,
       "name": "Ain't No Love In The Heart Of The City - Single Version",
       "url": "https://open.spotify.com/track/4qYHnP5AmKzXbJhciPV8si"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Ain't That Good News",
+        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Another Saturday Night",
+      "url": "https://open.spotify.com/track/5z8DiKSG4EwxmO6gUi12rZ"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "The Dude",
-        "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        }
-      ],
-      "duration_ms": 273333,
-      "name": "Just Once",
-      "url": "https://open.spotify.com/track/62YP3NEB4FVPJ90XcgJQKS"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Breezin'",
         "url": "https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 341733,
       "name": "Breezin'",
       "url": "https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "The Dude",
+        "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "duration_ms": 273333,
+      "name": "Just Once",
+      "url": "https://open.spotify.com/track/62YP3NEB4FVPJ90XcgJQKS"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
+        "name": "One Heartbeat",
+        "url": "https://open.spotify.com/album/6ryxrWXziVZS9WaEOJ6v9V"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+        }
+      ],
+      "duration_ms": 244026,
+      "name": "Just To See Her",
+      "url": "https://open.spotify.com/track/7LOYcC6phKAVOckgmVZJJT"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
         "name": "A Donny Hathaway Collection",
         "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 166400,
       "name": "Where Is the Love",
       "url": "https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
-        "name": "One Heartbeat",
-        "url": "https://open.spotify.com/album/6ryxrWXziVZS9WaEOJ6v9V"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
-        }
-      ],
-      "duration_ms": 244026,
-      "name": "Just To See Her",
-      "url": "https://open.spotify.com/track/7LOYcC6phKAVOckgmVZJJT"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Tell It Like It Is - The Par Lo Years",
-        "url": "https://open.spotify.com/album/1kUKkxMjMVZRw6yK34l37g"
-      },
-      "artists": [
-        {
-          "name": "Aaron Neville",
-          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
-        }
-      ],
-      "duration_ms": 165960,
-      "name": "Tell It Like It Is",
-      "url": "https://open.spotify.com/track/7GSRH3L0HAM3StkAkYVamC"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Diana Ross & The Supremes Join The Temptations",
         "url": "https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 187333,
       "name": "I'm Gonna Make You Love Me",
       "url": "https://open.spotify.com/track/3Rhxe6P1im82NFVkt9X2qZ"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Tell It Like It Is - The Par Lo Years",
+        "url": "https://open.spotify.com/album/1kUKkxMjMVZRw6yK34l37g"
+      },
+      "artists": [
+        {
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
+        }
+      ],
+      "duration_ms": 165960,
+      "name": "Tell It Like It Is",
+      "url": "https://open.spotify.com/track/7GSRH3L0HAM3StkAkYVamC"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "All The Great Love Songs",
-        "url": "https://open.spotify.com/album/5ZsWgDWvZ2luAHlczO8h2o"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 224866,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/2LdtluFBgL8cuSo9nkvJ57"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "In Philadelphia",
         "url": "https://open.spotify.com/album/1PhXZOVQd8gzmFYGHgOase"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 169706,
       "name": "Don't Let the Green Grass Fool You",
       "url": "https://open.spotify.com/track/79krwDoFzJ6dbNRwceAwgH"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "All The Great Love Songs",
+        "url": "https://open.spotify.com/album/5ZsWgDWvZ2luAHlczO8h2o"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 224866,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/2LdtluFBgL8cuSo9nkvJ57"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Still Waters Run Deep",
-        "url": "https://open.spotify.com/album/132ZigRToQWUtgMK4a6OSU"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 194693,
-      "name": "Still Water (Love)",
-      "url": "https://open.spotify.com/track/5feUxmo1qphxusEo1N9GRt"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "80's R&B Love Songs",
         "url": "https://open.spotify.com/album/4L3FI9QrKFMUTphuIm5m7n"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 246906,
       "name": "No One In the World",
       "url": "https://open.spotify.com/track/3P8v2bYhgJ7Eba8Br6pr3H"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Still Waters Run Deep",
+        "url": "https://open.spotify.com/album/132ZigRToQWUtgMK4a6OSU"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 194693,
+      "name": "Still Water (Love)",
+      "url": "https://open.spotify.com/track/5feUxmo1qphxusEo1N9GRt"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2047,8 +2047,8 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Harvest for the World",
-        "url": "https://open.spotify.com/album/58XKhn9fkCegBnfZwW4JtJ"
+        "name": "The Essential Isley Brothers",
+        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
       },
       "artists": [
         {
@@ -2056,9 +2056,9 @@
           "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 211733,
-      "name": "Harvest for the World, Pt. 1 - Single Version",
-      "url": "https://open.spotify.com/track/0fl2MichhIDeOYQOCce7GW"
+      "duration_ms": 337333,
+      "name": "For the Love of You, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2127,6 +2127,38 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
+        "name": "Turntable Hits",
+        "url": "https://open.spotify.com/album/0xRmjmbemfu2Q7Q3mI4rFH"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 242026,
+      "name": "Same Ole Love (365 Days a Week)",
+      "url": "https://open.spotify.com/track/70n7JFWr7gKyZPjMFSiuue"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Harvest for the World",
+        "url": "https://open.spotify.com/album/58XKhn9fkCegBnfZwW4JtJ"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 211733,
+      "name": "Harvest for the World, Pt. 1 - Single Version",
+      "url": "https://open.spotify.com/track/0fl2MichhIDeOYQOCce7GW"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
         "name": "TP (Expanded Edition)",
         "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
       },
@@ -2143,38 +2175,6 @@
       "duration_ms": 332866,
       "name": "Feel the Fire",
       "url": "https://open.spotify.com/track/2Dlo3MHqNxgRKOX6KAmWWO"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
-        "name": "The Essential Isley Brothers",
-        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 337333,
-      "name": "For the Love of You, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
-        "name": "Turntable Hits",
-        "url": "https://open.spotify.com/album/0xRmjmbemfu2Q7Q3mI4rFH"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 242026,
-      "name": "Same Ole Love (365 Days a Week)",
-      "url": "https://open.spotify.com/track/70n7JFWr7gKyZPjMFSiuue"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2447,26 +2447,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "The Masters Series: Mellow Groove",
-        "url": "https://open.spotify.com/album/4T9c1w0NNJ4RC60igvEo1m"
-      },
-      "artists": [
-        {
-          "name": "Nicole",
-          "url": "https://open.spotify.com/artist/0wYizqFaidLBrf0CO4naWu"
-        },
-        {
-          "name": "Timmy Thomas",
-          "url": "https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B"
-        }
-      ],
-      "duration_ms": 283053,
-      "name": "New York Eyes",
-      "url": "https://open.spotify.com/track/20oUeycXhRS3iNp0Hl32hh"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "I Hope We Get To Love In Time",
         "url": "https://open.spotify.com/album/6Vwss896snaZfuyr351z99"
       },
@@ -2483,6 +2463,26 @@
       "duration_ms": 279586,
       "name": "You Don't Have to Be a Star (To Be In My Show)",
       "url": "https://open.spotify.com/track/2JurHS80N98Yt3CdIBYz9M"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "The Masters Series: Mellow Groove",
+        "url": "https://open.spotify.com/album/4T9c1w0NNJ4RC60igvEo1m"
+      },
+      "artists": [
+        {
+          "name": "Nicole",
+          "url": "https://open.spotify.com/artist/0wYizqFaidLBrf0CO4naWu"
+        },
+        {
+          "name": "Timmy Thomas",
+          "url": "https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B"
+        }
+      ],
+      "duration_ms": 283053,
+      "name": "New York Eyes",
+      "url": "https://open.spotify.com/track/20oUeycXhRS3iNp0Hl32hh"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2603,6 +2603,22 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
+        "name": "Part Time Love",
+        "url": "https://open.spotify.com/album/5dTnlc6k7eE0JNXAu8ANSf"
+      },
+      "artists": [
+        {
+          "name": "Ann Peebles",
+          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
+        }
+      ],
+      "duration_ms": 174973,
+      "name": "Part Time Love",
+      "url": "https://open.spotify.com/track/30lLlmQZBHsiVLNcTKpqjd"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
         "name": "Playlist: The ATCO Singles",
         "url": "https://open.spotify.com/album/0zkLCUERzDJPllFrpPWCDG"
       },
@@ -2639,22 +2655,6 @@
       "duration_ms": 148886,
       "name": "Pledging My Love",
       "url": "https://open.spotify.com/track/1UA7hoj7yPwW8V9NxXG8yT"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
-        "name": "Part Time Love",
-        "url": "https://open.spotify.com/album/5dTnlc6k7eE0JNXAu8ANSf"
-      },
-      "artists": [
-        {
-          "name": "Ann Peebles",
-          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
-        }
-      ],
-      "duration_ms": 174973,
-      "name": "Part Time Love",
-      "url": "https://open.spotify.com/track/30lLlmQZBHsiVLNcTKpqjd"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2727,22 +2727,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Beach Diggin', Vol. 3",
-        "url": "https://open.spotify.com/album/7mHNiS5p3EwV4iOzcLj9PU"
-      },
-      "artists": [
-        {
-          "name": "Bobbie Houston",
-          "url": "https://open.spotify.com/artist/4i975rT2vHNcwrOqEm6laa"
-        }
-      ],
-      "duration_ms": 186617,
-      "name": "I Want to Make It with You",
-      "url": "https://open.spotify.com/track/7egAxxDZTzwWUbLeTOY50e"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Lookin' For Love Again",
         "url": "https://open.spotify.com/album/4zU06SFlMCMMuvbIOZVV8r"
       },
@@ -2755,6 +2739,22 @@
       "duration_ms": 155720,
       "name": "You're Messing Up A Good Thing",
       "url": "https://open.spotify.com/track/3SxBXDg4cJFwa3uwjpoxCU"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Beach Diggin', Vol. 3",
+        "url": "https://open.spotify.com/album/7mHNiS5p3EwV4iOzcLj9PU"
+      },
+      "artists": [
+        {
+          "name": "Bobbie Houston",
+          "url": "https://open.spotify.com/artist/4i975rT2vHNcwrOqEm6laa"
+        }
+      ],
+      "duration_ms": 186617,
+      "name": "I Want to Make It with You",
+      "url": "https://open.spotify.com/track/7egAxxDZTzwWUbLeTOY50e"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2807,18 +2807,18 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Boss Man",
-        "url": "https://open.spotify.com/album/3TJXaEUG0E8Tvex7tAzlCK"
+        "name": "I'll Come Running Back (Mr Scruff Edit) - Single",
+        "url": "https://open.spotify.com/album/2EKyIHpA6cuVTY3ORE3azl"
       },
       "artists": [
         {
-          "name": "Charlie Rich",
-          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
+          "name": "Sandra Wright",
+          "url": "https://open.spotify.com/artist/7ljM9d3lbU9yR0NN8z18ER"
         }
       ],
-      "duration_ms": 190680,
-      "name": "Have A Heart",
-      "url": "https://open.spotify.com/track/3krDSP5K5hAKEIOXuxXXH2"
+      "duration_ms": 125040,
+      "name": "I'll Come Running Back (Mr Scruff Edit)",
+      "url": "https://open.spotify.com/track/3ZfXSNjdRAegkuiz5JCNGj"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2839,18 +2839,18 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "I'll Come Running Back (Mr Scruff Edit) - Single",
-        "url": "https://open.spotify.com/album/2EKyIHpA6cuVTY3ORE3azl"
+        "name": "Boss Man",
+        "url": "https://open.spotify.com/album/3TJXaEUG0E8Tvex7tAzlCK"
       },
       "artists": [
         {
-          "name": "Sandra Wright",
-          "url": "https://open.spotify.com/artist/7ljM9d3lbU9yR0NN8z18ER"
+          "name": "Charlie Rich",
+          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
         }
       ],
-      "duration_ms": 125040,
-      "name": "I'll Come Running Back (Mr Scruff Edit)",
-      "url": "https://open.spotify.com/track/3ZfXSNjdRAegkuiz5JCNGj"
+      "duration_ms": 190680,
+      "name": "Have A Heart",
+      "url": "https://open.spotify.com/track/3krDSP5K5hAKEIOXuxXXH2"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -3115,22 +3115,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "I Love You / I'm Broke",
-        "url": "https://open.spotify.com/album/4zvs8QtQAg7uqLZBichUqJ"
-      },
-      "artists": [
-        {
-          "name": "Herman Jones",
-          "url": "https://open.spotify.com/artist/42iGrMvfbP1qJ9ugH7SttY"
-        }
-      ],
-      "duration_ms": 258462,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/54zOqhe84DsI4OH9eD3M6T"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Second to None",
         "url": "https://open.spotify.com/album/4oREyJ5IyyNwPjbv8p6BlH"
       },
@@ -3163,6 +3147,22 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
+        "name": "I Love You / I'm Broke",
+        "url": "https://open.spotify.com/album/4zvs8QtQAg7uqLZBichUqJ"
+      },
+      "artists": [
+        {
+          "name": "Herman Jones",
+          "url": "https://open.spotify.com/artist/42iGrMvfbP1qJ9ugH7SttY"
+        }
+      ],
+      "duration_ms": 258462,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/54zOqhe84DsI4OH9eD3M6T"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
         "name": "Method To The Madness",
         "url": "https://open.spotify.com/album/56VMIvmsPptQmzkgB4gvg5"
       },
@@ -3175,22 +3175,6 @@
       "duration_ms": 271453,
       "name": "Take a Vacation from Life (And Visit Your Dreams)",
       "url": "https://open.spotify.com/track/68KRAOVAq0I84clxvkEFbf"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
-        "name": "No Easy Way Down: Rare Soul Sides",
-        "url": "https://open.spotify.com/album/7r3dGwgZLV10X7iBTg4kwa"
-      },
-      "artists": [
-        {
-          "name": "Na Allen",
-          "url": "https://open.spotify.com/artist/0iKnncJJIq8jxp0gN0B8gN"
-        }
-      ],
-      "duration_ms": 173480,
-      "name": "No Easy Way Down",
-      "url": "https://open.spotify.com/track/3iJYyYkOzpYdfleBqfoYEG"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -3223,6 +3207,22 @@
       "duration_ms": 170066,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/4B3YfOKezanjfJTAbn75a2"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "No Easy Way Down: Rare Soul Sides",
+        "url": "https://open.spotify.com/album/7r3dGwgZLV10X7iBTg4kwa"
+      },
+      "artists": [
+        {
+          "name": "Na Allen",
+          "url": "https://open.spotify.com/artist/0iKnncJJIq8jxp0gN0B8gN"
+        }
+      ],
+      "duration_ms": 173480,
+      "name": "No Easy Way Down",
+      "url": "https://open.spotify.com/track/3iJYyYkOzpYdfleBqfoYEG"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -3359,22 +3359,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "A Man Needs a Woman",
-        "url": "https://open.spotify.com/album/6JpD37NS5oX9Db7m51Hj8s"
-      },
-      "artists": [
-        {
-          "name": "James Carr",
-          "url": "https://open.spotify.com/artist/59fzcTUsoozikLmRY1SwHS"
-        }
-      ],
-      "duration_ms": 154453,
-      "name": "The Dark End of the Street",
-      "url": "https://open.spotify.com/track/1dDKfo8La1mM5xpLK3Rqcv"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Silk Electric (Expanded Edition)",
         "url": "https://open.spotify.com/album/0K4vqspEZz6LYDzMKSypMF"
       },
@@ -3387,6 +3371,22 @@
       "duration_ms": 277960,
       "name": "Muscles",
       "url": "https://open.spotify.com/track/45a2uakbDbXOizyjyLv7dN"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "A Man Needs a Woman",
+        "url": "https://open.spotify.com/album/6JpD37NS5oX9Db7m51Hj8s"
+      },
+      "artists": [
+        {
+          "name": "James Carr",
+          "url": "https://open.spotify.com/artist/59fzcTUsoozikLmRY1SwHS"
+        }
+      ],
+      "duration_ms": 154453,
+      "name": "The Dark End of the Street",
+      "url": "https://open.spotify.com/track/1dDKfo8La1mM5xpLK3Rqcv"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -3455,22 +3455,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Travelin' In Heavy Traffic",
-        "url": "https://open.spotify.com/album/4XZbP8SrKj0dyxt4Lbxrde"
-      },
-      "artists": [
-        {
-          "name": "Don Covay",
-          "url": "https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S"
-        }
-      ],
-      "duration_ms": 361626,
-      "name": "Feelings",
-      "url": "https://open.spotify.com/track/02dMF381tQaidG17In1Tt2"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Sweet Charlie Babe",
         "url": "https://open.spotify.com/album/0Oc9or9JzNTUlB3sGezwbZ"
       },
@@ -3487,18 +3471,18 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "The Natural Four",
-        "url": "https://open.spotify.com/album/1o5tEsz53xrE0PoyQXMc9j"
+        "name": "Travelin' In Heavy Traffic",
+        "url": "https://open.spotify.com/album/4XZbP8SrKj0dyxt4Lbxrde"
       },
       "artists": [
         {
-          "name": "The Natural Four",
-          "url": "https://open.spotify.com/artist/1p2l2eeZ7bmnpPfgpdZCmY"
+          "name": "Don Covay",
+          "url": "https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S"
         }
       ],
-      "duration_ms": 259160,
-      "name": "You Bring out the Best in Me",
-      "url": "https://open.spotify.com/track/1GaxPnyHozmwKCONQY7sAa"
+      "duration_ms": 361626,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/02dMF381tQaidG17In1Tt2"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -3515,6 +3499,22 @@
       "duration_ms": 164040,
       "name": "Don't Let Him Get the Best of You",
       "url": "https://open.spotify.com/track/0x9Z8I4miDuAQcKYS3LANF"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "The Natural Four",
+        "url": "https://open.spotify.com/album/1o5tEsz53xrE0PoyQXMc9j"
+      },
+      "artists": [
+        {
+          "name": "The Natural Four",
+          "url": "https://open.spotify.com/artist/1p2l2eeZ7bmnpPfgpdZCmY"
+        }
+      ],
+      "duration_ms": 259160,
+      "name": "You Bring out the Best in Me",
+      "url": "https://open.spotify.com/track/1GaxPnyHozmwKCONQY7sAa"
     },
     {
       "added_at": "2023-01-09 13:10:50",

@@ -4,12 +4,12 @@
 
 > A mediterranean sundown soundtrack.
 
-147 songs - 12 hr 17 min
+148 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4:20](https://open.spotify.com/track/7Bb0O4hmvyRKcj7Yl3MnmW) | [RAS](https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj) | [RAS](https://open.spotify.com/album/0jQ3zArVV1wo3Fjobq1pG5) | 11:31 | 2022-09-05 |  |
-| [Abusey Junction](https://open.spotify.com/track/6G6gPQ4bGqNj7ZMGUpIDfa) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/69O30wRnJwMunRrM6IgSsO) | 7:04 | 2022-09-05 |  |
+| [Abusey Junction](https://open.spotify.com/track/6G6gPQ4bGqNj7ZMGUpIDfa) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/69O30wRnJwMunRrM6IgSsO) | 7:04 | 2022-09-05 | 2023-04-29 |
 | [African Spirits \- Fred P Interpretation](https://open.spotify.com/track/1tSili6kQNoNpCC9rEcqlr) | [Nicola Conte](https://open.spotify.com/artist/5dUI54FMDxPqaXbNs4kLpB), [Gianluca Petrella](https://open.spotify.com/artist/5lwjOWuZSgq4IC4KvheTMc), [Fred P](https://open.spotify.com/artist/4qgais7fd2CQHtwbpCC4Dz) | [African Spirits / Tribes \(Fred P Interpretation\)](https://open.spotify.com/album/62sxt5o7yzUKTH5aLV2Gqh) | 11:58 | 2023-02-02 | 2023-02-18 |
 | [Agave Harvest](https://open.spotify.com/track/2DjkmfxsTS03NaCzbaYSEC) | [Manuel Darquart](https://open.spotify.com/artist/0mumYdYeqKkr99t3iDEHGS) | [First Light \(Volume II\)](https://open.spotify.com/album/2dMHq7J4Lb1b47smh6mpAF) | 7:04 | 2022-09-05 | 2022-11-18 |
 | [Agave Harvest](https://open.spotify.com/track/6RxcQgpLCg7p7GHBp5xvuf) | [Manuel Darquart](https://open.spotify.com/artist/0mumYdYeqKkr99t3iDEHGS) | [First Light](https://open.spotify.com/album/3a6XBCyE4t6WhZpfJtUWOE) | 7:04 | 2022-09-05 | 2023-02-03 |
@@ -63,6 +63,7 @@
 | [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 | 2022-09-05 |  |
 | [Hard To Say Goodbye](https://open.spotify.com/track/3IrBsMDbRUZYIMcNcA7pPq) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Mister Mellow](https://open.spotify.com/album/6Rfsivv6DPegVm4oYLeAsm) | 4:12 | 2022-09-05 |  |
 | [Heartbreaker](https://open.spotify.com/track/4vcPegtrtRJPUXrnfxqvg9) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [When We On](https://open.spotify.com/album/7GhRdXt7AoyDIo9i9laYzM) | 5:26 | 2022-09-05 |  |
+| [House in the Hills](https://open.spotify.com/track/1QIdwf7rpK52EohMniSmXQ) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [10.000 Hours](https://open.spotify.com/album/0ha8DYzt39EzBddFCwzPGr) | 4:27 | 2023-02-02 |  |
 | [Icare](https://open.spotify.com/track/67OcVGdHgzLykVUbaXwVYv) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [Bertrand Burgalat](https://open.spotify.com/artist/2JzpIUoj6kZ8r11iE46yq7) | [Icare](https://open.spotify.com/album/3xQhF7EoL5DS0DceUsG8Fv) | 3:42 | 2022-09-05 |  |
 | [Impossible Island](https://open.spotify.com/track/312f1c2NbtQKam65h7Mq39) | [Gaussian Curve](https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G) | [Clouds](https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q) | 7:28 | 2022-09-05 | 2022-12-22 |
 | [Intimate Fantasy](https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Intimate Fantasy \- EP](https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW) | 8:13 | 2022-09-05 |  |

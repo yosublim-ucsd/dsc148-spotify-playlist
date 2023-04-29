@@ -4,7 +4,7 @@
 
 > Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix.
 
-204 songs - 12 hr 24 min
+207 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Anything Could Happen](https://open.spotify.com/track/7p6nk4JQDZjJHxizpz94MX) | [The Clean](https://open.spotify.com/artist/6LRmgzRManplPQghd2BMqz) | [Compilation](https://open.spotify.com/album/1sNHc2B3axMQJVjAEbjhJ5) | 2:37 | 2023-02-23 |  |
 | [Astral Man](https://open.spotify.com/track/4Ig9HspUaKy2cz6YA8pb6O) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [The Nude Party](https://open.spotify.com/album/7eL0YCyfl9aaNuzt3gn23Q) | 5:34 | 2023-02-03 |  |
 | [Automatic](https://open.spotify.com/track/4hBNUgMmAm0lrMilgd4RVW) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [Automatic](https://open.spotify.com/album/6HZdegsn0zx40Qo7FvqGPq) | 3:04 | 2023-02-23 |  |
-| [Baby Why](https://open.spotify.com/track/7lTLHyXU0OvDf0Es0PffpS) | [The Cables](https://open.spotify.com/artist/7w8k2o1qnc2FXFq5o48ZJV) | [What Kind of World](https://open.spotify.com/album/76PUXnKLSKNPLih9haUnau) | 5:14 | 2021-10-26 |  |
+| [Baby Why](https://open.spotify.com/track/0I6g8aa5qwDmK8g4gUS8LH) | [The Cables](https://open.spotify.com/artist/7w8k2o1qnc2FXFq5o48ZJV) | [What Kind of World](https://open.spotify.com/album/6oCEHWNjXieygQN2mYKL25) | 5:14 | 2023-03-01 |  |
+| [Baby Why](https://open.spotify.com/track/7lTLHyXU0OvDf0Es0PffpS) | [The Cables](https://open.spotify.com/artist/7w8k2o1qnc2FXFq5o48ZJV) | [What Kind of World](https://open.spotify.com/album/76PUXnKLSKNPLih9haUnau) | 5:14 | 2021-10-26 | 2023-04-29 |
 | [Bad Kids](https://open.spotify.com/track/00FL5d6IDB4Q6VROycdzOP) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/7G1IjybnBzcJvYntqY8q7A) | 2:08 | 2021-10-26 |  |
 | [Bad Kids](https://open.spotify.com/track/7wexq2QIYnZPVoZIJ4qvR4) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/6sDyIpIg0vjpKOR9VrvagJ) | 2:08 | 2021-10-26 | 2023-02-08 |
 | [Bad Love](https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Blue Skies](https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE) | 2:30 | 2023-02-23 |  |
@@ -98,7 +99,8 @@
 | [La Mariposa](https://open.spotify.com/track/2Z2eyFm6TrRdbrVNJMlqVN) | [Raúl Monsalve y los Forajidos](https://open.spotify.com/artist/6gnd8QrdkjUk18Rk27kWkj), [Lya Bonilla](https://open.spotify.com/artist/0m8iKjhsWsyvPrgCtWW3SI) | [Bichos](https://open.spotify.com/album/32ZEJ8t7uV7TwheaedvE30) | 3:37 | 2023-02-23 |  |
 | [La Mirada](https://open.spotify.com/track/0Ey3mViNRkiU3iuiysxRQW) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Agua Ardiente](https://open.spotify.com/album/1ahdp3YzkgsUZZl3gJPYgL) | 5:07 | 2023-02-23 |  |
 | [La Pajuelera](https://open.spotify.com/track/1uPfK7AV69DIXDBdgmavGB) | [Luis Kalaff Y Sus Alegres Dominicanos](https://open.spotify.com/artist/1BFeO7nE5BSz98qtBIzpXx) | [Merengues, Vol\. 2](https://open.spotify.com/album/5uycnDSBMZQec9TCppvDJL) | 3:04 | 2023-02-23 |  |
-| [Lake Song](https://open.spotify.com/track/3jlyPvK2T1UYigUIaR3u7K) | [Deeper](https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S) | [Auto\-Pain](https://open.spotify.com/album/7sM244G1DwSq9Cqvv59xxz) | 3:25 | 2021-10-26 |  |
+| [Lake Song](https://open.spotify.com/track/3DcgW2YEdjr5tTwd0mTJtr) | [Deeper](https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S) | [Auto\-Pain](https://open.spotify.com/album/0ysuZ27s6yTQDmREAaAp1I) | 3:25 | 2023-03-01 |  |
+| [Lake Song](https://open.spotify.com/track/3jlyPvK2T1UYigUIaR3u7K) | [Deeper](https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S) | [Auto\-Pain](https://open.spotify.com/album/7sM244G1DwSq9Cqvv59xxz) | 3:25 | 2021-10-26 | 2023-04-29 |
 | [Left Hand Free](https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) | 2:53 | 2021-10-26 |  |
 | [Left with a Gun](https://open.spotify.com/track/3I2ApTet8MLnGIcbL6isRu) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Oracolo](https://open.spotify.com/album/3bxJayV6Df1njG1jUnIXfs) | 4:25 | 2021-10-26 | 2022-07-29 |
 | [Left with a Gun](https://open.spotify.com/track/5B3qTqJSte8caqfr4qDbe0) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Oracolo](https://open.spotify.com/album/1YF0c4fRfsbfaTedJKAbho) | 4:28 | 2021-10-26 |  |
@@ -133,7 +135,8 @@
 | [Never Gonna Let You Go](https://open.spotify.com/track/6XMyKqEUjoPFDClvRJyO6x) | [Michael Miglio](https://open.spotify.com/artist/0aWCcfZbLCP2iqA8YHtlJF) | [Seafaring Strangers: Private Yacht](https://open.spotify.com/album/3QUi5Qd9OpGCWoAFeuf5vM) | 2:31 | 2021-10-26 | 2022-07-29 |
 | [Never in My Wildest Dreams](https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 2:56 | 2021-10-26 |  |
 | [Never Tear Us Apart](https://open.spotify.com/track/150H5dszi3tTv3GqXccj1E) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 3:24 | 2023-02-23 |  |
-| [No Cup No Broke](https://open.spotify.com/track/2NAd3OwwSyMwZ0hA3dEd50) | [African Brothers](https://open.spotify.com/artist/11k2m9qpCFizHgqiXn1549) | [Collector's Edition: Rare Reggae From Studio One](https://open.spotify.com/album/3FkTrxRbPBGXrf2y3VlFbc) | 2:22 | 2023-02-23 |  |
+| [No Cup No Broke](https://open.spotify.com/track/2NAd3OwwSyMwZ0hA3dEd50) | [African Brothers](https://open.spotify.com/artist/11k2m9qpCFizHgqiXn1549) | [Collector's Edition: Rare Reggae From Studio One](https://open.spotify.com/album/3FkTrxRbPBGXrf2y3VlFbc) | 2:22 | 2023-02-23 | 2023-04-29 |
+| [No Cup No Broke](https://open.spotify.com/track/6GxVxdukFe3VciIN5gT2yc) | [African Brothers](https://open.spotify.com/artist/11k2m9qpCFizHgqiXn1549) | [Collector's Edition: Rare Reggae From Studio One](https://open.spotify.com/album/74Nf0X7UlkT999DGNlae92) | 2:22 | 2023-03-01 |  |
 | [No Mutuals](https://open.spotify.com/track/1NweFLWRCij8C2vywqcB8r) | [Fake Fruit](https://open.spotify.com/artist/3WpGIqLvk5kAcvvxEHztL9) | [Fake Fruit](https://open.spotify.com/album/5q4N607hmNNhSxqrSepTL5) | 2:48 | 2023-02-23 |  |
 | [Not Another Drop](https://open.spotify.com/track/0lIZwOOHDL1eNr45rbrrKH) | [Ikebe Shakedown](https://open.spotify.com/artist/5ABBZoXY5r0UL1txACjinb) | [Kings Left Behind](https://open.spotify.com/album/3xtjT9ABeqldfL6SysRIoI) | 3:56 | 2021-10-26 |  |
 | [Not Another Drop](https://open.spotify.com/track/2SBt99MHENYHqCtfdDZFI7) | [Ikebe Shakedown](https://open.spotify.com/artist/5ABBZoXY5r0UL1txACjinb) | [Kings Left Behind](https://open.spotify.com/album/7jHbdvxqWHOAAY7Rg0Cm39) | 3:56 | 2021-10-26 | 2022-07-29 |

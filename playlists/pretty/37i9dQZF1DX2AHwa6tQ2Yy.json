@@ -1,12 +1,12 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 35553,
+  "num_followers": 35582,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2JjZDUwOGI2OWQ0Mzk0MTQ1NDlmN2M1ZDc5ZjI5OTJiMWZkMjE5",
+  "snapshot_id": "MCxkZWQwMjM2ODVjMDdhNjkxMmQyODI5M2ZkZmMzOTE2MWMxODU2MWM1",
   "tracks": [
     {
       "added_at": "2023-04-27 16:55:02",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-04-27 16:55:02",
       "album": {
+        "name": "Something To Feel",
+        "url": "https://open.spotify.com/album/4vB6GN9VFxZU1mtBYlc3Ph"
+      },
+      "artists": [
+        {
+          "name": "TEEKS",
+          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
+        }
+      ],
+      "duration_ms": 309786,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/69WrRBXGKP70NqXNOf8NIw"
+    },
+    {
+      "added_at": "2023-04-27 16:55:02",
+      "album": {
         "name": "Jaime (Reimagined)",
         "url": "https://open.spotify.com/album/5FwiNeZyBHQXH1ppbXqxe0"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 218400,
       "name": "Stay High - Childish Gambino Version",
       "url": "https://open.spotify.com/track/6LmNmPxViPRou1YAvyg1OS"
-    },
-    {
-      "added_at": "2023-04-27 16:55:02",
-      "album": {
-        "name": "Something To Feel",
-        "url": "https://open.spotify.com/album/4vB6GN9VFxZU1mtBYlc3Ph"
-      },
-      "artists": [
-        {
-          "name": "TEEKS",
-          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
-        }
-      ],
-      "duration_ms": 309786,
-      "name": "First Time",
-      "url": "https://open.spotify.com/track/69WrRBXGKP70NqXNOf8NIw"
     },
     {
       "added_at": "2023-04-27 16:55:02",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-04-27 16:55:02",
       "album": {
-        "name": "This Will Be Our Year",
-        "url": "https://open.spotify.com/album/1aunApiIbz5beHK7ty68bT"
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/3WWfApLKg76DOgntZABET6"
       },
       "artists": [
         {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 157152,
-      "name": "This Will Be Our Year",
-      "url": "https://open.spotify.com/track/2oy3hJGwD5aJSlFy4OnAkL"
+      "duration_ms": 203214,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/0zcRUprLKw7LtndkBurb3S"
     },
     {
       "added_at": "2023-04-27 16:55:02",
@@ -831,34 +831,18 @@
     {
       "added_at": "2023-04-27 16:55:02",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/3WWfApLKg76DOgntZABET6"
+        "name": "This Will Be Our Year",
+        "url": "https://open.spotify.com/album/1aunApiIbz5beHK7ty68bT"
       },
       "artists": [
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 203214,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/0zcRUprLKw7LtndkBurb3S"
-    },
-    {
-      "added_at": "2023-04-27 16:55:02",
-      "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/6y305wH4wMtb2t1kJt6894"
-      },
-      "artists": [
-        {
-          "name": "COTERIE",
-          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
-        }
-      ],
-      "duration_ms": 186583,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/3oPE1YX2dgGqU7e0eJTqnG"
+      "duration_ms": 157152,
+      "name": "This Will Be Our Year",
+      "url": "https://open.spotify.com/track/2oy3hJGwD5aJSlFy4OnAkL"
     },
     {
       "added_at": "2023-04-27 16:55:02",
@@ -879,6 +863,22 @@
       "duration_ms": 221538,
       "name": "Ease Up",
       "url": "https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW"
+    },
+    {
+      "added_at": "2023-04-27 16:55:02",
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/6y305wH4wMtb2t1kJt6894"
+      },
+      "artists": [
+        {
+          "name": "COTERIE",
+          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
+        }
+      ],
+      "duration_ms": 186583,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/3oPE1YX2dgGqU7e0eJTqnG"
     },
     {
       "added_at": "2023-04-27 16:55:02",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-04-27 16:55:02",
       "album": {
-        "name": "exodus the north star",
-        "url": "https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 205354,
-      "name": "exodus the north star",
-      "url": "https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw"
-    },
-    {
-      "added_at": "2023-04-27 16:55:02",
-      "album": {
         "name": "Like a Ship",
         "url": "https://open.spotify.com/album/3FEpG0GuwgCz8wNBkmQY7I"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 353506,
       "name": "Like a Ship",
       "url": "https://open.spotify.com/track/2g6aIBdprkYt5mNFjY6HAz"
+    },
+    {
+      "added_at": "2023-04-27 16:55:02",
+      "album": {
+        "name": "exodus the north star",
+        "url": "https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 205354,
+      "name": "exodus the north star",
+      "url": "https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw"
     },
     {
       "added_at": "2023-04-27 16:55:02",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-04-27 16:55:02",
       "album": {
-        "name": "When Everything Is Better, I'll Let You Know",
-        "url": "https://open.spotify.com/album/3gW4LjXtOZkjxmdHxBABpx"
-      },
-      "artists": [
-        {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
-        }
-      ],
-      "duration_ms": 217200,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/4YIVPG1e2m9moeCRdc3w0E"
-    },
-    {
-      "added_at": "2023-04-27 16:55:02",
-      "album": {
         "name": "CDW",
         "url": "https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 303408,
       "name": "Find You",
       "url": "https://open.spotify.com/track/0xj5upFN9assCNNS01X3PR"
+    },
+    {
+      "added_at": "2023-04-27 16:55:02",
+      "album": {
+        "name": "When Everything Is Better, I'll Let You Know",
+        "url": "https://open.spotify.com/album/3gW4LjXtOZkjxmdHxBABpx"
+      },
+      "artists": [
+        {
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+        }
+      ],
+      "duration_ms": 217200,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/4YIVPG1e2m9moeCRdc3w0E"
     },
     {
       "added_at": "2023-04-27 16:55:02",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-04-27 16:55:02",
       "album": {
-        "name": "Something To Feel",
-        "url": "https://open.spotify.com/album/39MCSCwQlqT6xm28UpGz39"
-      },
-      "artists": [
-        {
-          "name": "TEEKS",
-          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
-        }
-      ],
-      "duration_ms": 192253,
-      "name": "Oil & Water",
-      "url": "https://open.spotify.com/track/62lq6SYb2Q0BP1nYpFXlby"
-    },
-    {
-      "added_at": "2023-04-27 16:55:02",
-      "album": {
         "name": "'Round Midnight",
         "url": "https://open.spotify.com/album/0AP435mSKEb4jF8D34nfkM"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 252616,
       "name": "'Round Midnight",
       "url": "https://open.spotify.com/track/6rlqNxNTuK3elWsYjc4psh"
+    },
+    {
+      "added_at": "2023-04-27 16:55:02",
+      "album": {
+        "name": "Something To Feel",
+        "url": "https://open.spotify.com/album/39MCSCwQlqT6xm28UpGz39"
+      },
+      "artists": [
+        {
+          "name": "TEEKS",
+          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
+        }
+      ],
+      "duration_ms": 192253,
+      "name": "Oil & Water",
+      "url": "https://open.spotify.com/track/62lq6SYb2Q0BP1nYpFXlby"
     },
     {
       "added_at": "2023-04-27 16:55:02",

@@ -330,10 +330,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-29",
       "duration_ms": 221960,
       "name": "Bunga Bunga",
       "url": "https://open.spotify.com/track/26IQGZufsyQbH1LJwYJ2xb"
+    },
+    {
+      "album": {
+        "name": "Freudian Slip",
+        "url": "https://open.spotify.com/album/1SP5WFHv2EF2I81dNCfRSa"
+      },
+      "artists": [
+        {
+          "name": "Nous Non Plus",
+          "url": "https://open.spotify.com/artist/6Z6HQhR9TltKhqaGctoXjp"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221960,
+      "name": "Bunga Bunga",
+      "url": "https://open.spotify.com/track/5MeF4KKGqnFD9Wk7GHe8hC"
     },
     {
       "album": {

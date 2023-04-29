@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Mellow & sentimental K-Pop ballads. (Cover:\b\bParc Jae Jung(\ubc15\uc7ac\uc815)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
+  "description": "Mellow & sentimental K-Pop ballads. (Cover:\bShin Ji Hoon(\uc2e0\uc9c0\ud6c8)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -2217,6 +2217,24 @@
     },
     {
       "album": {
+        "name": "Cleaning (My love X Standing Egg)",
+        "url": "https://open.spotify.com/album/4TNhvO9jg4MwnONsFotbqP"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237320,
+      "name": "Cleaning (My love X Standing Egg)",
+      "url": "https://open.spotify.com/track/0iBOrzJwA8NMbJQ4FdsjT6"
+    },
+    {
+      "album": {
         "name": "Cliche",
         "url": "https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE"
       },
@@ -3706,6 +3724,24 @@
       "duration_ms": 204346,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/6KlGgR6HTAob4tXJpBpkfA"
+    },
+    {
+      "album": {
+        "name": "Falling in Love is like the Spring Rain, Parting is like the Winter Rain",
+        "url": "https://open.spotify.com/album/4SmZATHF72c12OFmONqnw0"
+      },
+      "artists": [
+        {
+          "name": "Shin Ji Hoon",
+          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271413,
+      "name": "Falling in Love is like the Spring Rain, Parting is like the Winter Rain",
+      "url": "https://open.spotify.com/track/3ruIFwC4ZPInwM4e5CjsIy"
     },
     {
       "album": {
@@ -14734,6 +14770,24 @@
       "duration_ms": 207706,
       "name": "with you",
       "url": "https://open.spotify.com/track/2aPyJyUGGLj33QiXRfLG05"
+    },
+    {
+      "album": {
+        "name": "With you",
+        "url": "https://open.spotify.com/album/7Hhn7y6LSD30X5Y0jYPWWi"
+      },
+      "artists": [
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223493,
+      "name": "With you",
+      "url": "https://open.spotify.com/track/7FrabSVdfcPggA25gq3LJU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > A collection of insane progressive rock creations, from classic acts to recent gems\. Cover: Rush
 
-206 songs - 1 day 5 hr 5 min
+207 songs - 1 day 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [A Visit With Ashiya](https://open.spotify.com/track/6b0TsTrgnej652wGwIQkMy) | [Merrell Fankhauser & H.M.S Bounty](https://open.spotify.com/artist/22Xe1L6GryaACNMLLftdWf) | [Things \(Goin' Round In My Head\)](https://open.spotify.com/album/6HKT8YCalLSQnvwqRBQUR7) | 3:29 | 2018-09-28 | 2022-07-29 |
 | [Absinthe & A Cracker](https://open.spotify.com/track/6li3gVAFgGLnHZY0T7J5W7) | [TU](https://open.spotify.com/artist/2mT82oEIiVNOp8HJ3KiIhl) | [Tu](https://open.spotify.com/album/6DZccW4v7Ukl72kkiDDnDh) | 5:40 | 2018-09-28 | 2023-03-23 |
 | [Ace Of Wands \- Remastered 2005](https://open.spotify.com/track/0Ll5xn9cgYYWYppP9bcnmK) | [Steve Hackett](https://open.spotify.com/artist/4vs7NIU7kZc2Efh6yOGKEZ) | [Voyage Of The Acolyte](https://open.spotify.com/album/4twSmtePdvfZhSpI2LV5W2) | 5:23 | 2018-09-28 | 2023-03-23 |
+| [All Connected](https://open.spotify.com/track/14vUjjPTDybmO5CfKgweW3) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [All Connected](https://open.spotify.com/album/4x1JU4RdcDd1GLyrXXUoid) | 9:03 | 2023-04-28 |  |
 | [Apollo](https://open.spotify.com/track/6edplo9qsDB8Jl6j3Ad2ML) | [Tony Levin](https://open.spotify.com/artist/4UjlFZPd9pYcyGhwdcrXvH) | [Pieces Of The Sun](https://open.spotify.com/album/1iQoh3RNZlnshPIZqv8gFI) | 6:49 | 2018-09-28 | 2023-03-23 |
 | [Appena un po'](https://open.spotify.com/track/2Pxrc170vjMuvDmoFzoGNo) | [Premiata Forneria Marconi](https://open.spotify.com/artist/1MD5pgVzlusqGyuSTcTxvu) | [Per Un Amico](https://open.spotify.com/album/1NeJ0QqKv002iYDiOCaUOA) | 7:43 | 2018-09-28 | 2023-03-23 |
 | [Aqualung \- Steven Wilson Stereo Remix](https://open.spotify.com/track/3pexR2j9j8OJdlxZ9E4PV0) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [Aqualung](https://open.spotify.com/album/4ABoepBMa9pG5ZRqWicwgW) | 6:35 | 2018-09-28 | 2023-03-23 |
@@ -99,7 +100,7 @@
 | [Karn Evil 9 1st Impression, Pt\. 2 \- 2014 Remaster](https://open.spotify.com/track/0nDQu5i6B93GvUJH8iJ0y9) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Brain Salad Surgery](https://open.spotify.com/album/1wTqdsmCCQQLCQjXZM3H59) | 4:45 | 2018-09-28 |  |
 | [Karn Evil 9 1st Impression, Pt\. 2 \- 2014 Remaster](https://open.spotify.com/track/7kwH1GDFeVL01QNhGS2Ele) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [The Anthology](https://open.spotify.com/album/0frleTv0z2bVtd6ZwAr2LV) | 4:49 | 2018-09-28 | 2022-11-13 |
 | [Karn Evil 9 1st Impression, Pt\. 2 \- Alternate Version](https://open.spotify.com/track/7dl8eQGk8e7ZN6vNLo4KAg) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Brain Salad Surgery](https://open.spotify.com/album/1ktDHin7DUwgCxU463mz8n) | 4:48 | 2018-09-28 | 2022-10-14 |
-| [Killer \- Remastered 2021](https://open.spotify.com/track/0TMKja08JBRFwkdpl9IpI3) | [Van Der Graaf Generator](https://open.spotify.com/artist/02frazNrWgZCxUEf4UTfHt) | [H To He, Who Am The Only One \(Deluxe\)](https://open.spotify.com/album/1n6mujGDmusUYHfuFtZZvJ) | 8:18 | 2023-03-22 |  |
+| [Killer \- Remastered 2021](https://open.spotify.com/track/0TMKja08JBRFwkdpl9IpI3) | [Van Der Graaf Generator](https://open.spotify.com/artist/02frazNrWgZCxUEf4UTfHt) | [H To He, Who Am The Only One \(Deluxe\)](https://open.spotify.com/album/1n6mujGDmusUYHfuFtZZvJ) | 8:18 | 2023-03-22 | 2023-04-29 |
 | [La mente vola](https://open.spotify.com/track/1B4XcCAhhj6r2ji1dcISEU) | [Alphataurus](https://open.spotify.com/artist/6mFPT1M2JWpuoSGSCQCpHX) | [Alphataurus](https://open.spotify.com/album/0Wh01o7ulww79Oq2eSZ6PX) | 9:12 | 2018-09-28 | 2023-03-23 |
 | [La Villa Strangiato](https://open.spotify.com/track/4CyElmiM9EF9aURGWlPZLi) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Hemispheres](https://open.spotify.com/album/2vrM9ltjKIvNg3nkwXoJuc) | 9:34 | 2018-09-28 |  |
 | [Lady of the Lake](https://open.spotify.com/track/4U4jKOweJ8FJ061VVp5l2p) | [Starcastle](https://open.spotify.com/artist/0bWkqEiCzUo1qRiQXI0VdJ) | [Starcastle](https://open.spotify.com/album/1fxW4E9zQ5RIIc4k1aPZRy) | 10:26 | 2018-09-28 |  |

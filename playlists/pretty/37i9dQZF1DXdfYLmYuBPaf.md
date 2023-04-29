@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfYLmYuBPaf.md) - [plain]
 
 > Reggae tracks from the Arab world\. Cover: <a href="spotify:artist:6Gej8kFQeKbjY7dS9HXu1w">Ahmed Ben Ali</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,066 likes - 60 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,080 likes - 60 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfYLmYuBPaf.md) - [plain]
 | 54 | [General Suleiman](https://open.spotify.com/track/72M5udVFetsH9Ga6i25no7) | [Zeid and the Wings](https://open.spotify.com/artist/262WKWZkp6ZpLUyxOVyPZi) | [General Suleiman \- Single](https://open.spotify.com/album/3v9aU2QPhQOcDQYt06WGmX) | 3:10 |
 | 55 | [Fech Tchoufi](https://open.spotify.com/track/5LTuAtrv6O3ex7dvULOuA3) | [Haydar Hamdi](https://open.spotify.com/artist/20ZV4HCxM3dBlKTWIhZglN) | [Fikra](https://open.spotify.com/album/6m08yFBF4tijgdvwfJTVE3) | 4:21 |
 | 56 | [بيتي العتيق](https://open.spotify.com/track/60mp1uLLrINpNLpqmcnTmt) | [Walla'at](https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe) | [عندي شو ما بدي](https://open.spotify.com/album/6xIip2U0zEVh5xjYxujo2Z) | 4:25 |
-| 57 | [Alladin Dub](https://open.spotify.com/track/5TDO53RXRn8fuB1xo47Hrk) | [The Spy From Cairo](https://open.spotify.com/artist/36C73GYwgP8rqwCjUyswoS) | [Arabadub](https://open.spotify.com/album/4hZHrfd5gUsmfuM8npYu4X) | 4:15 |
+| 57 | [Alladin Dub](https://open.spotify.com/track/2t3o3js6VZe2WvPb1y9iq7) | [The Spy From Cairo](https://open.spotify.com/artist/36C73GYwgP8rqwCjUyswoS) | [Arabadub](https://open.spotify.com/album/4hiSn97F9faSq6u5O2mflu) | 4:15 |
 | 58 | [Jeena](https://open.spotify.com/track/16RzfZHB5vfKfcXjY0brkN) | [TootArd](https://open.spotify.com/artist/7nSWA1659h0Vb1EyjJdSFV) | [Nuri Andaburi](https://open.spotify.com/album/2z9NRfIRM54Rp7b7IUOFDr) | 4:24 |
 | 59 | [Ya laymi](https://open.spotify.com/track/6ikQHuDvuzgy9oReEn0liD) | [Gnawa Diffusion](https://open.spotify.com/artist/4s0srRj9YXjM8J0TK2QVzP) | [Audio\-Globine : 20 ans d'âge](https://open.spotify.com/album/5T6scDxONEFqRWIwz129WF) | 8:54 |
 | 60 | [Lashog Altareeg](https://open.spotify.com/track/4A6i6Z0GPCCeY7npuXiEIr) | [Atef Malhas](https://open.spotify.com/artist/6gm05jmgIx3YvLtzl1GDas) | [Lashog Altareeg](https://open.spotify.com/album/6fVhr3f0XOtKdmMmjSauL7) | 3:40 |
 
-Snapshot ID: `MCwyMjBjZDI1ZWY5MzU1OGZiNTYyZjNmZDBjZTA4ZDFmMWZlYTdjNmQ2`
+Snapshot ID: `MCwyNmFlYjM5Y2I3Y2ZiMWJlMTVlZTZlM2RmZjFhNmJhYWFjNjAwODA3`

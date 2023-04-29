@@ -4,7 +4,7 @@
 
 > ¡Pop\-punk por siempre!
 
-108 songs - 5 hr 58 min
+110 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,10 +45,10 @@
 | [Distancias](https://open.spotify.com/track/7ERijR9hA3srvop0osPQCA) | [Diez Veces Yo](https://open.spotify.com/artist/1WWCrSgufkJeqcEtYcSW4l) | [Historias](https://open.spotify.com/album/5NQsCrl81fPCQ1osysTxJg) | 3:18 | 2021-11-26 |  |
 | [Doble Vida](https://open.spotify.com/track/0hL4uLIKFzKwRIpOsjP9DF) | [NUNO](https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8) | [Doble Vida](https://open.spotify.com/album/3WwiGAt7wzs8wKVtM06cNU) | 3:04 | 2021-11-26 | 2023-03-18 |
 | [Dualidad](https://open.spotify.com/track/7uYMRAb62VrGKpOWbaY86m) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Dualidad](https://open.spotify.com/album/6Nt5M8zfrtUKTjgKrHXASg) | 3:43 | 2021-11-26 |  |
-| [El Tio Mat](https://open.spotify.com/track/5F8GV798m5bian3h4PlhRh) | [Roca Lunar](https://open.spotify.com/artist/7v2z392Xgbs0IvxUYCIncL) | [El Tio Mat](https://open.spotify.com/album/6LRhupFVTN6j9qpDHhYAxi) | 2:43 | 2023-04-21 |  |
+| [El Tio Mat](https://open.spotify.com/track/5F8GV798m5bian3h4PlhRh) | [Roca Lunar](https://open.spotify.com/artist/7v2z392Xgbs0IvxUYCIncL) | [El Tio Mat](https://open.spotify.com/album/6LRhupFVTN6j9qpDHhYAxi) | 2:43 | 2023-04-21 | 2023-04-29 |
 | [Ella Miente](https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp) | [Helian Evans](https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N) | [Ella Miente](https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6) | 2:19 | 2023-04-14 |  |
 | [Empezar, Pt\. 2](https://open.spotify.com/track/7MLwzBBleVNsTN4X2enXO2) | [Sureste](https://open.spotify.com/artist/1F4oynmQhLxXhdS4J2z9MH) | [Empezar, Pt\. 2](https://open.spotify.com/album/07VAGAMUcivFxHWTgYVlQS) | 2:45 | 2021-11-26 | 2023-04-15 |
-| [Escribe Una Canción](https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2) | [DON](https://open.spotify.com/artist/4xRGF3S9AgY23sWuzKlUDR) | [Siempre Resistir / Nunca Desistir](https://open.spotify.com/album/05oaSmUNyPQMVeNgvfn8uS) | 3:54 | 2021-11-26 |  |
+| [Escribe Una Canción](https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2) | [DON](https://open.spotify.com/artist/4xRGF3S9AgY23sWuzKlUDR) | [Siempre Resistir / Nunca Desistir](https://open.spotify.com/album/05oaSmUNyPQMVeNgvfn8uS) | 3:54 | 2021-11-26 | 2023-04-29 |
 | [Eso Es Todo Lo Que Soy](https://open.spotify.com/track/3A0t8Bg8kFoVuCZFiKhY9k) | [GUFI](https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN) | [Historias De La Calle](https://open.spotify.com/album/0It6LpqmGgPSMdXMSXKS1w) | 3:30 | 2021-11-26 |  |
 | [Espero Nadie Ocupe Mi Lugar](https://open.spotify.com/track/1ld6eCCuzAasNdyRGbN3d4) | [Camiches](https://open.spotify.com/artist/3DZM1ODnTL003kSGHSd7dA) | [El Bálsamo para los Sabios y los Buenos Perdedores](https://open.spotify.com/album/0ZeUtkRCM2BQVYsGXG7iac) | 3:34 | 2021-11-26 | 2022-07-29 |
 | [Espero Nadie Ocupe Mi Lugar](https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9) | [Camiches](https://open.spotify.com/artist/3DZM1ODnTL003kSGHSd7dA) | [El Bálsamo para los Sabios y los Buenos Perdedores](https://open.spotify.com/album/4L41cXrG4RL5W63unJLi6A) | 3:34 | 2022-07-22 |  |
@@ -91,6 +91,7 @@
 | [Nuestra Ciudad](https://open.spotify.com/track/3Mo2JeLw9Cp0tp4DvWAHlw) | [Infalibles](https://open.spotify.com/artist/5hjFfIrBRAzWwNKYYMYVFZ) | [Nuestra Ciudad](https://open.spotify.com/album/3xxWmBCIm1SDItBuSiSHN9) | 3:42 | 2021-11-26 | 2022-07-29 |
 | [Nunca Estará Bien](https://open.spotify.com/track/31obbmT1YI5tvy0Rrx22WI) | [Abril 88](https://open.spotify.com/artist/0vAYt4d53Aqk5zqJ764Y9l) | [Nunca Estará Bien](https://open.spotify.com/album/7qVjMt6iEyOtXA5dsYfkKu) | 3:11 | 2021-11-26 | 2022-07-28 |
 | [Nunca Me Voy a Ir](https://open.spotify.com/track/5IKIuPYuH1tnRFXrQ003VG) | [MIKI](https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss), [Niza Buenrostro](https://open.spotify.com/artist/5UgD3jrxzwsJywYScFRIS9) | [Nunca Me Voy a Ir](https://open.spotify.com/album/67YPCFbxBiQQNujPVpVOUS) | 2:31 | 2022-12-21 |  |
+| [Otra Vez](https://open.spotify.com/track/1QUuM84MAXja1Nva7RezdD) | [Will of One](https://open.spotify.com/artist/1IRaphz10w9gPlxfimO3Np), [Mariana Sandoval](https://open.spotify.com/artist/4NdwM3glsAV3bnntvxrQ8k) | [Otra Vez](https://open.spotify.com/album/2g4kMXrBHL8NrtDe4mi9O5) | 4:01 | 2023-04-28 |  |
 | [Para Ti](https://open.spotify.com/track/0IZc78H7Ep677OS5Lns3oh) | [Masappan](https://open.spotify.com/artist/2GMWjBQeVApcZ9to2NP1QC) | [Masappan](https://open.spotify.com/album/2VuK8VnMfILaKRNqDoMR0e) | 2:44 | 2021-11-26 |  |
 | [Pastillas](https://open.spotify.com/track/04WsXewfMeazNHxIsU1Jzq) | [Buen Viaje](https://open.spotify.com/artist/2JbVpWXj4zBylmwqoDrDhJ), [Fear Allison](https://open.spotify.com/artist/75t1ar10ekAij353mysCMK), [Trekk](https://open.spotify.com/artist/4CC108kvf7H1gTwWiXkduw) | [Pastillas](https://open.spotify.com/album/55RvlSO4xnbPur0msvC1qW) | 3:06 | 2021-11-26 | 2022-07-28 |
 | [Perdedor](https://open.spotify.com/track/1HGA3ugVfWra42sVKd0anu) | [NUNO](https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8) | [Al infierno y de regreso](https://open.spotify.com/album/3L9vvpiSnXOiCk58lKBBUp) | 3:15 | 2021-11-26 | 2022-07-21 |
@@ -104,6 +105,7 @@
 | [Siempre](https://open.spotify.com/track/0Tvg72r8G8sd3rxRlnZxGR) | [Hey Bandit!](https://open.spotify.com/artist/2yzrbMnmjvrupo4AuOwnRJ), [Gibrán Serrano](https://open.spotify.com/artist/2iXLevANnYqq76VN1xaBYc) | [Siempre](https://open.spotify.com/album/1pcGdOq2pFTBjivCc8CqbI) | 2:57 | 2023-04-14 | 2023-04-22 |
 | [Siempre Fuerte](https://open.spotify.com/track/6x8GV4GRH2hZ8eeRmpMrC4) | [Skates Mx](https://open.spotify.com/artist/2P3698bE1ZmRUy8KljStTv) | [Y Si Patinan?](https://open.spotify.com/album/3AVCV6rOUqSxWt9YRf3IjD) | 3:36 | 2021-11-26 |  |
 | [Siempre la Cago](https://open.spotify.com/track/4iNZvtt1Bn0oCIMf8giWRF) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d), [Interface](https://open.spotify.com/artist/7MTsoppc8uObq6H28nH0rd) | [Siempre la Cago](https://open.spotify.com/album/5mxQSrhYKGDhsxhMJEi37z) | 3:34 | 2021-11-26 | 2022-07-21 |
+| [Solo Dios lo Sabe](https://open.spotify.com/track/2PA11HBziALO8mnvnh3qXw) | [GUFI](https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN) | [Solo Dios lo Sabe](https://open.spotify.com/album/6Fg2fhsyWhk86CZruRUrQv) | 2:45 | 2023-04-28 |  |
 | [Te Vale Madre](https://open.spotify.com/track/1GNmyCGNu4SYBzaHoJvxkz) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Te Vale Madre](https://open.spotify.com/album/34d0ddHeC8SVYkgTXiqbP7) | 3:10 | 2022-12-21 |  |
 | [Te Voy a Tener](https://open.spotify.com/track/08qtqeaHucyXi72GmgBwMP) | [Adeline](https://open.spotify.com/artist/4io6l8hPhpvszZt29zZXKt) | [Te Voy a Tener](https://open.spotify.com/album/4qus8nd695aj9k2XJXTPme) | 3:06 | 2021-11-26 | 2022-07-13 |
 | [Tennessecito](https://open.spotify.com/track/2BPwqGaBZd9gYb8KKGzvNR) | [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [Mejores Tiempos](https://open.spotify.com/album/1mVd6hoLX3MnyRlUPijZRE) | 4:12 | 2021-11-26 |  |
