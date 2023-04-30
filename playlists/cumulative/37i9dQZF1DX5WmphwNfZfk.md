@@ -4,7 +4,7 @@
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: Zeina
 
-1,112 songs - 2 day 8 hr 53 min
+1,113 songs - 2 day 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -706,7 +706,8 @@
 | [One More Thing](https://open.spotify.com/track/6BzPNRduOs6Aoob2h3Tcjd) | [Kresnt](https://open.spotify.com/artist/7B6gRPGS1V6bA0DkxqJktA) | [Hustle Sold Separately](https://open.spotify.com/album/6TMiPKrgZIRysr7YAKBywM) | 2:48 | 2022-02-04 | 2022-03-05 |
 | [One Plus One](https://open.spotify.com/track/2YadaIIr00rdv5T7RVzIO8) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ) | [One Plus One](https://open.spotify.com/album/10gGLGbjwOaOwGnDPN6RV2) | 3:09 | 2022-04-01 | 2022-05-07 |
 | [One Time \(feat\. Nessly\)](https://open.spotify.com/track/253t6kfzKnIwJY7I1XympU) | [Jt5k](https://open.spotify.com/artist/489bascphvFqA0IvtYhc3y), [Nessly](https://open.spotify.com/artist/6POMCYQE1sq1BJ8FnAvTA8) | [One Time \(feat\. Nessly\)](https://open.spotify.com/album/7EzOdxvKhB7vbDkPOmQ13V) | 2:40 | 2021-12-06 | 2022-01-08 |
-| [One Touch](https://open.spotify.com/track/6DURQC9m8Rt8SjL4ZKp0Eq) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/4VCCLsmrSghXSM8dxyhVWo) | 3:00 | 2023-04-07 |  |
+| [One Touch](https://open.spotify.com/track/3g4wkFSYsU7Qc7bPjaJEGV) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/21lJDSVSuhyKBqkzxn9gAE) | 3:00 | 2023-04-07 |  |
+| [One Touch](https://open.spotify.com/track/6DURQC9m8Rt8SjL4ZKp0Eq) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/4VCCLsmrSghXSM8dxyhVWo) | 3:00 | 2023-04-07 | 2023-04-30 |
 | [Open](https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [No Longer in the Suburbs](https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8) | 2:54 | 2022-05-11 | 2023-02-04 |
 | [Orphan Boy](https://open.spotify.com/track/4XcJ7hgB8wEQVnaBacO5ir) | [Super Genius](https://open.spotify.com/artist/7zZeEyClg26sBOGks0BXdz), [Mouth Breather](https://open.spotify.com/artist/7hew569XYqIKGOGTfd5esn), [Acapulco Gold](https://open.spotify.com/artist/0YtN5MUDXfknitO0nZ809F) | [Orphan Boy](https://open.spotify.com/album/1wqHY2JnTL412ypJjdjayt) | 2:54 | 2022-02-04 | 2022-03-05 |
 | [Out of Body](https://open.spotify.com/track/7jMnEpPgvHmFBdLuDnQqVl) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Out of Body](https://open.spotify.com/album/777GvXKChmKi4NWTLyis2O) | 1:54 | 2023-02-03 | 2023-03-04 |

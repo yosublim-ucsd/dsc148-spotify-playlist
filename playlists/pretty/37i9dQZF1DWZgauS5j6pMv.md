@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Adi Oasis
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,653 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,759 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 73 | [New Best Friend](https://open.spotify.com/track/21BjaubQRpZ4RybrI0NUyY) | [Juliette Reilly](https://open.spotify.com/artist/2HR1xMXsvA2zBfiiADeZo7), [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c) | [New Best Friend](https://open.spotify.com/album/1s5PZnVIPIyo1BMz5tqgYY) | 2:36 |
 | 74 | [Reachin' Up](https://open.spotify.com/track/28pkJWdrY2xsYfHRHzsOI5) | [Pimps of Joytime](https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4), [Marcus Farrar](https://open.spotify.com/artist/1YuH6sg58tNCttePibCFRq) | [Reachin' Up](https://open.spotify.com/album/53EtrXw0AsatoP5yFQMmhO) | 4:29 |
 | 75 | [Glad \- Vocal Mix](https://open.spotify.com/track/1lPpxO3lulSYSO8V7yLig9) | [Michele Chiavarini](https://open.spotify.com/artist/5ec2x41RmuQqBYAKbQ7nhr), [Andre Espeut](https://open.spotify.com/artist/3KYR1NVEcMfJ657LhKRpJn) | [Glad](https://open.spotify.com/album/7kxrxVUnCpG3m0bTePROaN) | 4:35 |
-| 76 | [How Hard](https://open.spotify.com/track/0lolsWqQe1StrLfvEtlLlt) | [Zenizen](https://open.spotify.com/artist/1MaWvJ5Y0Na24KMG79WxDU) | [How Hard](https://open.spotify.com/album/0QxwUc3t7AWzTvTXzFdq7Y) | 4:11 |
+| 76 | [How Hard](https://open.spotify.com/track/2JOSfWc65aBarFXcxRxf1n) | [Zenizen](https://open.spotify.com/artist/1MaWvJ5Y0Na24KMG79WxDU) | [P.O.C \(Proof of Concept\)](https://open.spotify.com/album/6wfl3Oks8Uja2rSHml7WEK) | 4:11 |
 | 77 | [Serious](https://open.spotify.com/track/4KBre2WIZFFEc2vaxtRZh1) | [Kazzey](https://open.spotify.com/artist/5wQ8DuXAlRz7HtLTjWnUyY), [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh) | [Serious](https://open.spotify.com/album/3yf6c1lKyyIBPu79loR1tf) | 4:04 |
 | 78 | [henny & patron](https://open.spotify.com/track/4M2V3bNCMeOAgTCpAQckP5) | [Ben Yen](https://open.spotify.com/artist/4IcZa7gtPIs352dbFVBjgZ) | [henny & patron](https://open.spotify.com/album/6vHrw5zCi73swThT9N4EIP) | 2:18 |
 | 79 | [Favorite Prize](https://open.spotify.com/track/2To1ZbSfpUMzqdmKhGFcuS) | [Caleb Hawley](https://open.spotify.com/artist/5GF3JcY2h0SUPkDlo7ByCB) | [Favorite Prize](https://open.spotify.com/album/5HaGsMhpq3xrbazWp0LBtH) | 4:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [Like, Maybe](https://open.spotify.com/track/18UpaCZZX1daAljhgpUd0R) | [Kalu & The Electric Joint](https://open.spotify.com/artist/1OQOcvFKUjJLSHC5gdAkbt) | [Like, Maybe](https://open.spotify.com/album/0WqzN6rft3aP7MA3SNSodv) | 3:35 |
 | 100 | [Golden Limousine](https://open.spotify.com/track/2HpWy9P6ZXXWVOsJYMXKQ2) | [Golden Dawn Arkestra](https://open.spotify.com/artist/7b0pvMSrnBWY6s6DA00YMK) | [Golden Limousine](https://open.spotify.com/album/6hQKaMdKjJBW8GXATUl5mt) | 2:50 |
 
-Snapshot ID: `MCw0YTRhNDU0ODU0ZDBiYWVkZTk5NTY0OTZmOWJmZDlhODY5YmUwNzQ4`
+Snapshot ID: `MCwwNjgxNmQxZWQ2NTY3ODkwNGRjMjdjMTEzMWI0NGJlYjc5YmE5OWJm`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwNDQyNDAsMDAwMDAwMDA5NzY5MTgzN2NjOWIwMjg5MmY2YTcwMzYzNGI0MjNlNg==",
+  "snapshot_id": "MjgwNDQyNDAsMDAwMDAwMDBiMzJmNDBiNmMzZjU5NGY2M2Y1MjUyNWQwYjgwMWRmMA==",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -339,22 +339,6 @@
       "duration_ms": 220200,
       "name": "Vale La Pena",
       "url": "https://open.spotify.com/track/03F8efKrlYFkpLsUheNHql"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "In The Blue (Live)",
-        "url": "https://open.spotify.com/album/0OJVGwk2S2SBlhtjvBqWzL"
-      },
-      "artists": [
-        {
-          "name": "Sunny Day Real Estate",
-          "url": "https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or"
-        }
-      ],
-      "duration_ms": 179043,
-      "name": "Red Elephant - Live 1994",
-      "url": "https://open.spotify.com/track/0eHQGDY7L3TqTHdqcZ2OZl"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -867,6 +851,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 423013,
+      "name": "You Must Burn!",
+      "url": "https://open.spotify.com/track/1ALXFmNr7lrTug2LAE989q"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/19iU0Zz3hNQwWCSjJaR5LI"
       },
@@ -976,9 +976,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 148173,
-      "name": "Bass Solo - Live From Mid-Hudson Civic Arena, Poughkeepsie NY / 1984",
-      "url": "https://open.spotify.com/track/0enxxwvJPMNfx5a7g6Fakd"
+      "duration_ms": 325280,
+      "name": "Drum Solo - Live From Mid-Hudson Civic Arena, Poughkeepsie NY / 1984",
+      "url": "https://open.spotify.com/track/7BZSorIzeorVRG78YDt3Fx"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -995,74 +995,6 @@
       "duration_ms": 224400,
       "name": "It's Over - Live in Toronto",
       "url": "https://open.spotify.com/track/3qVgP3ZyMpFQCynBxXWBAL"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "The Who With Orchestra: Live At Wembley",
-        "url": "https://open.spotify.com/album/0ZM1dVIT9Yb2BtWDGM1ZXx"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        },
-        {
-          "name": "Isobel Griffiths Orchestra",
-          "url": "https://open.spotify.com/artist/0LI0zBCk7MqZmKDAsD2aDz"
-        }
-      ],
-      "duration_ms": 413186,
-      "name": "Who Are You - Live At Wembley, UK / 2019",
-      "url": "https://open.spotify.com/track/5pNqiPmmVcBPWk3HKNeNg9"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Pirates over Wacken (Live)",
-        "url": "https://open.spotify.com/album/3FrOHRVCQ41hHbg7NhpWc0"
-      },
-      "artists": [
-        {
-          "name": "Visions of Atlantis",
-          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
-        }
-      ],
-      "duration_ms": 283783,
-      "name": "Heroes of the Dawn - Live",
-      "url": "https://open.spotify.com/track/7JgOAPnPaAOtmnIuo0fzCf"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Elephant (Deluxe)",
-        "url": "https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 232522,
-      "name": "In The Cold, Cold Night - Live at The Aragon Ballroom, July 2, 2003",
-      "url": "https://open.spotify.com/track/0bBRfcuev1xS3zFbPHinjP"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Aut\u00f3dromo de Buenos Aires, 19 de Junio de 2021 (En Vivo)",
-        "url": "https://open.spotify.com/album/6Bs4kJWFkLO58YmGxVGOUJ"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 223445,
-      "name": "Monta\u00f1a Roja - En Vivo",
-      "url": "https://open.spotify.com/track/0Qmhp99CvPvOWs0HEuSkaV"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

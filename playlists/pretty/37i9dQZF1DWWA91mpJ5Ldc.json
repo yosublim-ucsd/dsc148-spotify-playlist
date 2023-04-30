@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 113009,
+  "num_followers": 113052,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGYyY2E3ZDIxN2RlZTlhZWJlOGU0ZGZmNWEwMDZmZWM0MGQ1MTg5",
+  "snapshot_id": "MCxmM2M3NTA2ZWIwNjEzZTlmMTJiZjI5MjU5NjY3OWQ5MGFmZmQ2MGM0",
   "tracks": [
     {
       "added_at": "2023-04-15 19:11:35",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-04-15 19:11:35",
       "album": {
-        "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
-        "url": "https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 176920,
-      "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
-      "url": "https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz"
-    },
-    {
-      "added_at": "2023-04-15 19:11:35",
-      "album": {
         "name": "COR",
         "url": "https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC"
       },
@@ -195,18 +179,18 @@
     {
       "added_at": "2023-04-15 19:11:35",
       "album": {
-        "name": "Maria Maria - Spotify Singles",
-        "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
+        "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
+        "url": "https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX"
       },
       "artists": [
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 143933,
-      "name": "Maria Maria - Spotify Singles",
-      "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
+      "duration_ms": 176920,
+      "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
+      "url": "https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz"
     },
     {
       "added_at": "2023-04-15 19:11:35",
@@ -227,6 +211,22 @@
       "duration_ms": 302706,
       "name": "Soprou",
       "url": "https://open.spotify.com/track/3XOeVijHjhP33Avx55BEgK"
+    },
+    {
+      "added_at": "2023-04-15 19:11:35",
+      "album": {
+        "name": "Maria Maria - Spotify Singles",
+        "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 143933,
+      "name": "Maria Maria - Spotify Singles",
+      "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
     },
     {
       "added_at": "2023-04-15 19:11:35",
@@ -423,26 +423,6 @@
     {
       "added_at": "2023-04-15 19:11:35",
       "album": {
-        "name": "Borboleta Efeito",
-        "url": "https://open.spotify.com/album/7x6SlBDCpyx8aTKRymsWR9"
-      },
-      "artists": [
-        {
-          "name": "Leo Middea",
-          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
-        },
-        {
-          "name": "Mallu Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN"
-        }
-      ],
-      "duration_ms": 185874,
-      "name": "Borboleta Efeito",
-      "url": "https://open.spotify.com/track/6oqV9zAqT9vea7nXIBIkyc"
-    },
-    {
-      "added_at": "2023-04-15 19:11:35",
-      "album": {
         "name": "O Futuro N\u00e3o Demora",
         "url": "https://open.spotify.com/album/195RDcBkD9dUqWBO75eCgQ"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 170293,
       "name": "Sonar",
       "url": "https://open.spotify.com/track/7sBW1PIwPe0RhgkQByk0EG"
+    },
+    {
+      "added_at": "2023-04-15 19:11:35",
+      "album": {
+        "name": "Borboleta Efeito",
+        "url": "https://open.spotify.com/album/7x6SlBDCpyx8aTKRymsWR9"
+      },
+      "artists": [
+        {
+          "name": "Leo Middea",
+          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
+        },
+        {
+          "name": "Mallu Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN"
+        }
+      ],
+      "duration_ms": 185874,
+      "name": "Borboleta Efeito",
+      "url": "https://open.spotify.com/track/6oqV9zAqT9vea7nXIBIkyc"
     },
     {
       "added_at": "2023-04-15 19:11:35",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-04-15 19:11:35",
       "album": {
-        "name": "Vem Doce",
-        "url": "https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        }
-      ],
-      "duration_ms": 226720,
-      "name": "Vem Doce",
-      "url": "https://open.spotify.com/track/2P5az0U3e9UJWgXIwLf0nu"
-    },
-    {
-      "added_at": "2023-04-15 19:11:35",
-      "album": {
         "name": "Fiz Pra Voc\u00ea",
         "url": "https://open.spotify.com/album/0RjkvhVvbkRRxaKKG5MF9H"
       },
@@ -627,18 +611,18 @@
     {
       "added_at": "2023-04-15 19:11:35",
       "album": {
-        "name": "Calma",
-        "url": "https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5"
+        "name": "Vem Doce",
+        "url": "https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH"
       },
       "artists": [
         {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
         }
       ],
-      "duration_ms": 186400,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz"
+      "duration_ms": 226720,
+      "name": "Vem Doce",
+      "url": "https://open.spotify.com/track/2P5az0U3e9UJWgXIwLf0nu"
     },
     {
       "added_at": "2023-04-15 19:11:35",
@@ -655,6 +639,22 @@
       "duration_ms": 217110,
       "name": "Onde Estar\u00e1",
       "url": "https://open.spotify.com/track/0R6eisAFzeF5pe4k7pkLgg"
+    },
+    {
+      "added_at": "2023-04-15 19:11:35",
+      "album": {
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz"
     },
     {
       "added_at": "2023-04-15 19:11:35",
@@ -847,26 +847,6 @@
     {
       "added_at": "2023-04-15 19:11:35",
       "album": {
-        "name": "Soft Power",
-        "url": "https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ"
-      },
-      "artists": [
-        {
-          "name": "Poirier",
-          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
-        },
-        {
-          "name": "Flavia Coelho",
-          "url": "https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc"
-        }
-      ],
-      "duration_ms": 262281,
-      "name": "Caf\u00e9 Com Leite",
-      "url": "https://open.spotify.com/track/0icCp5ScnBbKdyvLNLMx3N"
-    },
-    {
-      "added_at": "2023-04-15 19:11:35",
-      "album": {
         "name": "Devagarinho 2.0 (prod. DKVPZ)",
         "url": "https://open.spotify.com/album/7sjeAJANX5rlCazXEMkSLO"
       },
@@ -999,22 +979,22 @@
     {
       "added_at": "2023-04-15 19:11:35",
       "album": {
-        "name": "Samba de Novela",
-        "url": "https://open.spotify.com/album/4sXWwVNqOTKzOZMdGDDlNe"
+        "name": "Alumi\u00f4",
+        "url": "https://open.spotify.com/album/358AvliXpqAtQY1grWwuQ1"
       },
       "artists": [
         {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+          "name": "Luiza Lian",
+          "url": "https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW"
         },
         {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+          "name": "Bixiga 70",
+          "url": "https://open.spotify.com/artist/6rUeHFntOV8tgpoUJvEthU"
         }
       ],
-      "duration_ms": 198018,
-      "name": "Samba de Novela",
-      "url": "https://open.spotify.com/track/3LkhWWarDHcfXgWtahraP0"
+      "duration_ms": 204116,
+      "name": "Alumi\u00f4",
+      "url": "https://open.spotify.com/track/1wBZJA59toDn4TESZRPxs3"
     },
     {
       "added_at": "2023-04-15 19:11:35",
@@ -1035,22 +1015,22 @@
     {
       "added_at": "2023-04-15 19:11:35",
       "album": {
-        "name": "Alumi\u00f4",
-        "url": "https://open.spotify.com/album/358AvliXpqAtQY1grWwuQ1"
+        "name": "Samba de Novela",
+        "url": "https://open.spotify.com/album/4sXWwVNqOTKzOZMdGDDlNe"
       },
       "artists": [
         {
-          "name": "Luiza Lian",
-          "url": "https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW"
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
         },
         {
-          "name": "Bixiga 70",
-          "url": "https://open.spotify.com/artist/6rUeHFntOV8tgpoUJvEthU"
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
         }
       ],
-      "duration_ms": 204116,
-      "name": "Alumi\u00f4",
-      "url": "https://open.spotify.com/track/1wBZJA59toDn4TESZRPxs3"
+      "duration_ms": 198018,
+      "name": "Samba de Novela",
+      "url": "https://open.spotify.com/track/3LkhWWarDHcfXgWtahraP0"
     },
     {
       "added_at": "2023-04-15 19:11:35",
@@ -1099,6 +1079,22 @@
       "duration_ms": 262933,
       "name": "Olha a Pipa",
       "url": "https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5"
+    },
+    {
+      "added_at": "2023-04-15 19:11:35",
+      "album": {
+        "name": "Seu Fim em Mim",
+        "url": "https://open.spotify.com/album/2Az8o0aheRMnNhCZrL1mAC"
+      },
+      "artists": [
+        {
+          "name": "Clara x Sofia",
+          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
+        }
+      ],
+      "duration_ms": 218655,
+      "name": "Seu Fim em Mim",
+      "url": "https://open.spotify.com/track/2n64LKXEAzaSTzFpjckJh5"
     },
     {
       "added_at": "2023-04-15 19:11:35",

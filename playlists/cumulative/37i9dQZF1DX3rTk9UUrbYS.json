@@ -480,10 +480,28 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 221520,
       "name": "Canopy",
       "url": "https://open.spotify.com/track/2h9BKEX4eg6SCiwllNxc2T"
+    },
+    {
+      "album": {
+        "name": "Supersense",
+        "url": "https://open.spotify.com/album/0F8tOgvAKvDrIpSySWhjJG"
+      },
+      "artists": [
+        {
+          "name": "Steph Richards",
+          "url": "https://open.spotify.com/artist/04zMek0jIqqa8HWAIGCBol"
+        }
+      ],
+      "date_added": "2021-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221520,
+      "name": "Canopy",
+      "url": "https://open.spotify.com/track/464AJmrhTyMNb2UFgSStEg"
     },
     {
       "album": {
@@ -510,6 +528,28 @@
     {
       "album": {
         "name": "Old Stories",
+        "url": "https://open.spotify.com/album/422P2lhtz2RthEFuTYgjmF"
+      },
+      "artists": [
+        {
+          "name": "Matthew Shipp",
+          "url": "https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r"
+        },
+        {
+          "name": "Chad Fowler",
+          "url": "https://open.spotify.com/artist/7ttY2znRRuk0WwrI8i6oFj"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374688,
+      "name": "Chapter I",
+      "url": "https://open.spotify.com/track/1KklL9FNVjoGqQpkOpUBZJ"
+    },
+    {
+      "album": {
+        "name": "Old Stories",
         "url": "https://open.spotify.com/album/6UqK3CSEE52UwtK2e9JQPc"
       },
       "artists": [
@@ -524,10 +564,32 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 374688,
       "name": "Chapter I",
       "url": "https://open.spotify.com/track/6Sz3J0ifbdSZoW8O2BIM1S"
+    },
+    {
+      "album": {
+        "name": "Old Stories",
+        "url": "https://open.spotify.com/album/422P2lhtz2RthEFuTYgjmF"
+      },
+      "artists": [
+        {
+          "name": "Matthew Shipp",
+          "url": "https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r"
+        },
+        {
+          "name": "Chad Fowler",
+          "url": "https://open.spotify.com/artist/7ttY2znRRuk0WwrI8i6oFj"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232373,
+      "name": "Chapter IV",
+      "url": "https://open.spotify.com/track/0OyJo5lpxGmRzsGqyMYBTc"
     },
     {
       "album": {
@@ -546,10 +608,32 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 232373,
       "name": "Chapter IV",
       "url": "https://open.spotify.com/track/6TJrGV1Xmun3x2PsKpmwvZ"
+    },
+    {
+      "album": {
+        "name": "Old Stories",
+        "url": "https://open.spotify.com/album/422P2lhtz2RthEFuTYgjmF"
+      },
+      "artists": [
+        {
+          "name": "Matthew Shipp",
+          "url": "https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r"
+        },
+        {
+          "name": "Chad Fowler",
+          "url": "https://open.spotify.com/artist/7ttY2znRRuk0WwrI8i6oFj"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455232,
+      "name": "Chapter VIII",
+      "url": "https://open.spotify.com/track/2qeJOCOSSje2XFnhr45wUB"
     },
     {
       "album": {
@@ -568,7 +652,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 455232,
       "name": "Chapter VIII",
       "url": "https://open.spotify.com/track/7pQb6gNEWKQTppuWczIDyk"
@@ -684,6 +768,28 @@
     {
       "album": {
         "name": "Live in Lisbon",
+        "url": "https://open.spotify.com/album/5WnPY79tkeyhrRcInkUjMp"
+      },
+      "artists": [
+        {
+          "name": "Nublu Orchestra",
+          "url": "https://open.spotify.com/artist/3kir4KuUljdyYGWpQ3tPX9"
+        },
+        {
+          "name": "Butch Morris",
+          "url": "https://open.spotify.com/artist/180iBifQGB9dLM5dSelaAK"
+        }
+      ],
+      "date_added": "2021-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2594860,
+      "name": "Conduction No.186 - Live",
+      "url": "https://open.spotify.com/track/10oUh9vQB9J36UmsGuWxRl"
+    },
+    {
+      "album": {
+        "name": "Live in Lisbon",
         "url": "https://open.spotify.com/album/67pCebpACpdf8YhxGji4Kj"
       },
       "artists": [
@@ -698,7 +804,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 2594860,
       "name": "Conduction No.186 - Live",
       "url": "https://open.spotify.com/track/6A5tDkKTk3BMW5WmMUn7BS"
@@ -816,6 +922,32 @@
     {
       "album": {
         "name": "On Common Ground",
+        "url": "https://open.spotify.com/album/2gPZWzERRUKmwGeBajrigd"
+      },
+      "artists": [
+        {
+          "name": "Mike Sopko",
+          "url": "https://open.spotify.com/artist/3XaoZGbtL3SZZALrWzPyed"
+        },
+        {
+          "name": "Bill Laswell",
+          "url": "https://open.spotify.com/artist/5RISqKCcrhGITX2TQAPGPL"
+        },
+        {
+          "name": "Tyshawn Sorey",
+          "url": "https://open.spotify.com/artist/0j2falzYTCLSgKpGKQipQu"
+        }
+      ],
+      "date_added": "2021-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 476000,
+      "name": "Equation",
+      "url": "https://open.spotify.com/track/1lUdRUZLWhNqadh3KY0h5N"
+    },
+    {
+      "album": {
+        "name": "On Common Ground",
         "url": "https://open.spotify.com/album/3lIn198oIMwWzFw87l3eWK"
       },
       "artists": [
@@ -834,7 +966,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 476000,
       "name": "Equation",
       "url": "https://open.spotify.com/track/53BmPoPyhQwscQJcy32ly7"
@@ -1260,10 +1392,36 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 383500,
       "name": "Hog's Grease",
       "url": "https://open.spotify.com/track/2f3EzPdBvZQVUt8afx5mlO"
+    },
+    {
+      "album": {
+        "name": "Stick Insect",
+        "url": "https://open.spotify.com/album/1CjWilmahw0FyD9L3kKDIx"
+      },
+      "artists": [
+        {
+          "name": "George Cartwright",
+          "url": "https://open.spotify.com/artist/65JAEBPEdhkLKYpYcr9o7m"
+        },
+        {
+          "name": "Dave King",
+          "url": "https://open.spotify.com/artist/5ahI6jVpVbq5BKh7hs3yqg"
+        },
+        {
+          "name": "Josh Granowski",
+          "url": "https://open.spotify.com/artist/1COXwmX2OBkRMdBFOSCnEU"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383500,
+      "name": "Hog's Grease",
+      "url": "https://open.spotify.com/track/2l5vthaApfEQRVvbKgUjWw"
     },
     {
       "album": {
@@ -1491,6 +1649,40 @@
     },
     {
       "album": {
+        "name": "Songs of Ascent: Book 1 - Degrees",
+        "url": "https://open.spotify.com/album/3M6DhVsLt8at3ayLkOE1LI"
+      },
+      "artists": [
+        {
+          "name": "Dave Douglas Quintet",
+          "url": "https://open.spotify.com/artist/47a6PDcqoGixzRNY0SDdj5"
+        },
+        {
+          "name": "Jon Irabagon",
+          "url": "https://open.spotify.com/artist/6KvgFOz25fmSt3Iizz8tPS"
+        },
+        {
+          "name": "Matt Mitchell",
+          "url": "https://open.spotify.com/artist/5YP7nSBWjN9yoANLVzrD1G"
+        },
+        {
+          "name": "Linda May Han Oh",
+          "url": "https://open.spotify.com/artist/3ItwOheFhoNjZRCpnY5O9I"
+        },
+        {
+          "name": "Rudy Royston",
+          "url": "https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417880,
+      "name": "Lift Up My Eyes",
+      "url": "https://open.spotify.com/track/22m5a1AzTc64UC1kWtO3Kn"
+    },
+    {
+      "album": {
         "name": "Lift Up My Eyes",
         "url": "https://open.spotify.com/album/33AhxjYUAxCLg3wdZIaThe"
       },
@@ -1518,7 +1710,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 417880,
       "name": "Lift Up My Eyes",
       "url": "https://open.spotify.com/track/6InYwlWA5QCUv71aYTMyZE"
@@ -1750,6 +1942,28 @@
     {
       "album": {
         "name": "Playing Retention",
+        "url": "https://open.spotify.com/album/7yOSuZzNbBVAtyvyiq4QDp"
+      },
+      "artists": [
+        {
+          "name": "Daniel Carter",
+          "url": "https://open.spotify.com/artist/783kRxpzUwR6w8ggk2vUE4"
+        },
+        {
+          "name": "Jim Clouse",
+          "url": "https://open.spotify.com/artist/6Uh5YINky16BQvJ5KboFNp"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458760,
+      "name": "Playing Retention",
+      "url": "https://open.spotify.com/track/3B7x4nNGP3BLOTXPMBtVg8"
+    },
+    {
+      "album": {
+        "name": "Playing Retention",
         "url": "https://open.spotify.com/album/0uOZ13KE48h7MMervUQHyf"
       },
       "artists": [
@@ -1764,7 +1978,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 458760,
       "name": "Playing Retention",
       "url": "https://open.spotify.com/track/3fWp8KYdXpJpdXODLXSnjE"

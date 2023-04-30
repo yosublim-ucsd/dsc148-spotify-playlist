@@ -1770,7 +1770,7 @@
     {
       "album": {
         "name": "Recordings from the \u00c5land Islands",
-        "url": "https://open.spotify.com/album/2vGukamccOX7WCqir66kWT"
+        "url": "https://open.spotify.com/album/0Cxszkp832OLjhTQdTCEQI"
       },
       "artists": [
         {
@@ -1785,6 +1785,28 @@
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 222400,
+      "name": "Under the Midnight Sun",
+      "url": "https://open.spotify.com/track/01OqcCMrDvoVvNdIPAy92B"
+    },
+    {
+      "album": {
+        "name": "Recordings from the \u00c5land Islands",
+        "url": "https://open.spotify.com/album/2vGukamccOX7WCqir66kWT"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Chiu",
+          "url": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa"
+        },
+        {
+          "name": "Marta Sofia Honer",
+          "url": "https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 222400,
       "name": "Under the Midnight Sun",
       "url": "https://open.spotify.com/track/3OqqbGF64e51ooNpMAF9i5"
@@ -1814,7 +1836,7 @@
     {
       "album": {
         "name": "Antidawn EP",
-        "url": "https://open.spotify.com/album/7LtQeOwb04n1ovSnFax21b"
+        "url": "https://open.spotify.com/album/4mmHI4Bt5drSdEKc8tET4c"
       },
       "artists": [
         {
@@ -1825,6 +1847,24 @@
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 367775,
+      "name": "Upstairs Flat",
+      "url": "https://open.spotify.com/track/76h4DA43Zjcn6UsHKZfLS2"
+    },
+    {
+      "album": {
+        "name": "Antidawn EP",
+        "url": "https://open.spotify.com/album/7LtQeOwb04n1ovSnFax21b"
+      },
+      "artists": [
+        {
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 367775,
       "name": "Upstairs Flat",
       "url": "https://open.spotify.com/track/7w6GXyNpjmfIL0jGCHyP2Z"

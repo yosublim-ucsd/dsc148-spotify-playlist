@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: R3HAB x INNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,731 likes - 86 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,747 likes - 86 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 85 | [Daily Treasure Hunt](https://open.spotify.com/track/5Jge72ivXnRfDg08XO8Vve) | [Softable](https://open.spotify.com/artist/4fJY3cnLPbA2FvPrZqbvcS), [Moon Jelly](https://open.spotify.com/artist/3GJmCA9g41Xb2fwnfK6Oc1) | [Daily Treasure Hunt](https://open.spotify.com/album/1htubbNqbRcQS4zlIMWP97) | 4:36 |
 | 86 | [nudis](https://open.spotify.com/track/6nPWtU2DiWOyuqCB2WGtgB) | [VINI](https://open.spotify.com/artist/1QzHMnO2CsyqS7EgZ5fRoW) | [nudis](https://open.spotify.com/album/3vQyTGxevul9xkDz3MNrIt) | 2:50 |
 
-Snapshot ID: `MCwyNTJkNjdhMGU1YTY2ZDE1YzVmZGEwNzg4ZTg4OGE4Mjc1NmM3YzNh`
+Snapshot ID: `MCxkYjNmZTYwZWZkOTA4YTJmZjE0ODg1ZDllYWMyMzRkZDhhNGRmM2Qx`

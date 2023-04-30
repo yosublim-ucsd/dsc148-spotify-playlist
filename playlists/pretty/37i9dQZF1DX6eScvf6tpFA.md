@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 
 > <a href="spotify:artist:7o2Y6TQr9B0ynZGhUDAkyj">Lotic</a>'s favorite tracks\. Updated regularly\. Curated by Lotic\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,364 likes - 81 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,373 likes - 81 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 | 22 | [De Otra Forma](https://open.spotify.com/track/2Fs8YMvVL0GXhzA2OBvCgU) | [Sueuga Kamau](https://open.spotify.com/artist/1PO6esSj88BOLjfrnCdUFM) | [Como El Viento, Vuelve](https://open.spotify.com/album/4wzr8PFNtJWdU9yxqzHGbJ) | 4:40 |
 | 23 | [Below Me \(feat\. Sasha Go Hard\) \- Total Freedom's Jezzy Pride Mix](https://open.spotify.com/track/6AU1xxNwZ841KfmMXrpac8) | [Faze Miyake](https://open.spotify.com/artist/02r0OqwedodVoAScdnZ2bD), [Sasha Go Hard](https://open.spotify.com/artist/747j7S28EFewbA0BXxLSsC) | [Faze Miyake](https://open.spotify.com/album/4W5e4ezYm49DbmL9NbO2TR) | 3:39 |
 | 24 | [TOB](https://open.spotify.com/track/0qtCevNHGfRNnRP8uNV7bo) | [Molly Brazy](https://open.spotify.com/artist/6apXk5PGvEVbgXOTyk6fP1) | [TOB](https://open.spotify.com/album/6c8NWlFlOn09wqS2NdDc3P) | 1:30 |
-| 25 | [Come Unto Me](https://open.spotify.com/track/5pyaHaySKoujQJPepKrzJG) | [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Water](https://open.spotify.com/album/7neio4srvDRACrUSTdpMMf) | 5:27 |
+| 25 | [Come Unto Me](https://open.spotify.com/track/4wsnl8vM0OvOj2a2KLY4yc) | [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Water](https://open.spotify.com/album/2D5DPrv69Besl8VmuQENg9) | 5:27 |
 | 26 | [I Can See The Future](https://open.spotify.com/track/2zC1lEtZQ8nByZXkjTpjMb) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [I Can See The Future](https://open.spotify.com/album/4m9jQTUHctvkH6DFGnOVZ0) | 2:56 |
 | 27 | [The Vibe](https://open.spotify.com/track/79npyDDCb3tyrj9qjxRAzx) | [Amorphous](https://open.spotify.com/artist/2mvAbMVwkxiZWJXjorKpdK), [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Things Take Shape](https://open.spotify.com/album/2h0NjsiRhuKzR5QYLkUsIi) | 3:56 |
 | 28 | [Period Tgzrmx](https://open.spotify.com/track/1QPxqYZsV9iangZD8F5cIb) | [Taylor Girlz](https://open.spotify.com/artist/2CCqizWr7RQhtABnxW9epA) | [Period Tgzrmx](https://open.spotify.com/album/7GcapSaq8Sr44Nk0qJwz8l) | 1:52 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 | 38 | [Freak](https://open.spotify.com/track/077NoNfZ9eVPKIDUcA78ha) | [LEECH](https://open.spotify.com/artist/6FXHqmCyukgQ02l8pPK3gr), [Anonymous Club](https://open.spotify.com/artist/1tbiYIR5Xxl9N4ubPEAvTA) | [Freak](https://open.spotify.com/album/3Vz2nBT4xp5dicRUIX12N0) | 1:52 |
 | 39 | [Para](https://open.spotify.com/track/3kEcokUxa1y9SNOCKROuar) | [Helm](https://open.spotify.com/artist/4vgGgW0EX7CeEU7WZzhbsx) | [Axis](https://open.spotify.com/album/6Cj93dwyOUJI6M9clLmQHF) | 5:41 |
 | 40 | [La procesión](https://open.spotify.com/track/1n0op7KqijQJosc9lhuR0U) | [Ale Hop](https://open.spotify.com/artist/1Ef3JUYNrOM5JfOo9oThPV) | [The Life of Insects](https://open.spotify.com/album/0cmW9PUBl08bvqGHJtp2NT) | 5:29 |
-| 41 | [History Hum](https://open.spotify.com/track/64SkUAXJ0Nqqfs9HikTowR) | [Yantan Ministry](https://open.spotify.com/artist/01AjwwrgGUCdqlN6UynMO0) | [Radio Unnameable](https://open.spotify.com/album/1J82F4sktKDOiKBtOu7Xmj) | 3:35 |
+| 41 | [History Hum](https://open.spotify.com/track/0015PJhPr5d6TPsEik8Gq7) | [Yantan Ministry](https://open.spotify.com/artist/01AjwwrgGUCdqlN6UynMO0) | [Radio Unnameable](https://open.spotify.com/album/60FXurMhSi2BMg3zrs4mhO) | 3:35 |
 | 42 | [Don 't Get All Upset \- Lotic Remix](https://open.spotify.com/track/3oE6Ffs2zgab57O3AlTSmO) | [Prix](https://open.spotify.com/artist/6AUIu4h67YKKZG9siJU1Au), [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Prix](https://open.spotify.com/album/0KNtVl8ILpjzaZnavYL4BW) | 2:52 |
 | 43 | [IDGAF](https://open.spotify.com/track/19yYZxguSuz2UUgW6J7fOO) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [4 da 304’s](https://open.spotify.com/album/5N6520vpd3Nj66r18wlU4s) | 2:28 |
 | 44 | [Yikes](https://open.spotify.com/track/75dLEqanQTupF3dtP9exT5) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Yikes](https://open.spotify.com/album/2IvvAdx63KEfVHPAvYdQ1O) | 2:36 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 | 55 | [Getting Late](https://open.spotify.com/track/7MD0vUh6C3AMn1Uh1DNasq) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Getting Late](https://open.spotify.com/album/4wojQkbjpRtihKKlo9J9fd) | 3:06 |
 | 56 | [Triple Gold Sox](https://open.spotify.com/track/3tLy7XCsTxCsn0O94DLYRs) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Triple Gold Sox](https://open.spotify.com/album/6TL62q0id5NHiugOwFH0LD) | 1:56 |
 | 57 | [Pussy Talk](https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 3:38 |
-| 58 | [Cocky](https://open.spotify.com/track/108H1bXtmIVHFkh2geKFt9) | [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Cocky](https://open.spotify.com/album/6n9US7BwG1k1A9AEX6DFie) | 4:50 |
+| 58 | [Cocky](https://open.spotify.com/track/3UwPb3pdpSN0cUxl4XGpO2) | [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Cocky](https://open.spotify.com/album/1G9wCQ0maje1EMpManZZ6M) | 4:50 |
 | 59 | [Cool](https://open.spotify.com/track/7GsKO7ufjgkIybjpQAKg1N) | [Sirr TMO](https://open.spotify.com/artist/7wMCA0Cx8O1adCSiTV1IMY) | [Cool](https://open.spotify.com/album/76rnaiB7jwjigFyYKg9JsD) | 5:40 |
 | 60 | [Blunts and Bundles](https://open.spotify.com/track/35wrsvqzK2ea5mRBPUyQ70) | [Kandie](https://open.spotify.com/artist/1zdpVkIbw7FFefBvQgqcKc) | [Blunts & Bundles](https://open.spotify.com/album/1ss0DIZBCcUuvlDA7E9lpg) | 2:59 |
 | 61 | [Come Together](https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Come Together](https://open.spotify.com/album/1FA0rfTpK5dost6Zk4pxjC) | 3:13 |
@@ -88,6 +88,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 | 78 | [Free to Be](https://open.spotify.com/track/6vxbevT7BDCxxvsxcnAiZ6) | [davOmakesbeats](https://open.spotify.com/artist/0GVhd3aIFJzTSgnBpIO5aj), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [Free to Be](https://open.spotify.com/album/5n47UiW6BssepuVGCWega1) | 1:45 |
 | 79 | [Oração \- Pense & Dance](https://open.spotify.com/track/5PRyGNj1hZEanG7KsaehdF) | [Lechuga Zafiro](https://open.spotify.com/artist/59CKhQjneZAPQKYcylrsVd), [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Oração \(Pense & Dance\)](https://open.spotify.com/album/0IQcYNXQhSoJdpml6mUQY2) | 3:41 |
 | 80 | [Régime des Fleurs](https://open.spotify.com/track/16xWwjg8p3T9n1aAptjIRp) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [Régime des Fleurs](https://open.spotify.com/album/7cIyUAuwTnbQEvTIy5Nsju) | 2:50 |
-| 81 | [The Richest Garden in your Memory](https://open.spotify.com/track/5Snt7YJiJj5kGd1mSOiQtg) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey...](https://open.spotify.com/album/3H7S86kkmy5zKqw7DTmULR) | 2:57 |
+| 81 | [The Richest Garden in your Memory](https://open.spotify.com/track/1NnmRSDbEyJmeC7gufEOiw) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey...](https://open.spotify.com/album/6pMGKI2cCAyGxJJz1a8z3M) | 2:57 |
 
-Snapshot ID: `MCxiMThhYTFlZTg0MmYyY2RmOWIxOTU4MDVjZmQzOWU2Mzk3MmJkYjY4`
+Snapshot ID: `MCxkZDA0NGQ5MDQ3NTlmNzZiZWEwODI2MjFkMDJhYjk1NGUyNDBmNjli`

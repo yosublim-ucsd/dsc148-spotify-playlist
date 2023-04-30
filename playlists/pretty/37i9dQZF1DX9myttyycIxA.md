@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: king isis
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,146 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,164 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 23 | [Coming of Age](https://open.spotify.com/track/3n5teaWGB99IrQwVo1oyCU) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE) | [Coming of Age](https://open.spotify.com/album/16FLaxWATZYpPLEA9siZe6) | 3:36 |
 | 24 | [Costumes](https://open.spotify.com/track/31vJeKw9YQBoKLzw1pbxvy) | [Aubrey Key](https://open.spotify.com/artist/4Y5o0OEWjquf3Npdb8OANS) | [Costumes](https://open.spotify.com/album/5NQ3LtPwZHIfxtXFB69LL9) | 2:16 |
 | 25 | [Eastern Ave](https://open.spotify.com/track/36TAPA4t0xNIom74YqvFHe) | [Flasher](https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f) | [Eastern Ave](https://open.spotify.com/album/1LmWeZnQSDVz1qReWHDmgF) | 3:36 |
-| 26 | [Lip Service](https://open.spotify.com/track/2Jsy0chsTcykVKKs5YQIIw) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Lip Service](https://open.spotify.com/album/3C69d2fJ7OTLKytQsIyRph) | 2:53 |
+| 26 | [Lip Service](https://open.spotify.com/track/2rWPsijkCV8r3FfE3qinNJ) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Lip Service](https://open.spotify.com/album/1zbfbCs5iZhBMo2wP3L8vv) | 2:53 |
 | 27 | [Steamroller](https://open.spotify.com/track/3y2WGxpoUCvEzuSfbsDA5q) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Steamroller](https://open.spotify.com/album/68nQzRa9NE4R2mFPPgPwWk) | 3:25 |
 | 28 | [GUNSHY](https://open.spotify.com/track/5OCVZihJVu2qk1r1ck2Prs) | [Allie Kelly](https://open.spotify.com/artist/0gKECB5Bx3IyzmQmoaPkac) | [GUNSHY](https://open.spotify.com/album/6wX62dyMRRxU8ZTHWfQEbS) | 3:30 |
 | 29 | [Are You Okay?](https://open.spotify.com/track/4BaFnIJJGI96NaxPyZ9HLy) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Are You Okay?](https://open.spotify.com/album/0PlBi2u5RAmywsDJxc2wEJ) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [Quotidian](https://open.spotify.com/track/0WHOeXFbBnzskl9rRc686O) | [EVNTYD](https://open.spotify.com/artist/3z32J9a8nv9EJKQX07bwxh) | [Eventide](https://open.spotify.com/album/5n4twzXZkAwdZFAJFCI5jj) | 4:32 |
 | 100 | [Dry](https://open.spotify.com/track/3B1BzvXzF4Xhre3SLxTDz7) | [psykhi](https://open.spotify.com/artist/6Jv3pqZlwHy3RlsfdBGbRc) | [Dry](https://open.spotify.com/album/66IrzcJ0xrFyfzeh51DbyS) | 3:59 |
 
-Snapshot ID: `MCxkYjUxNmM2ODc5YjBiYjJmMDNmYTM3Mzk2Mzg2NzIyZDY0ODQyMjA1`
+Snapshot ID: `MCw2YjUzYzAzZGY5ZDNjZTM0MjBmNjA4ZGM3NGI5ZTRmNjkwZjhhYTBm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,377 likes - 125 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,439 likes - 125 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 62 | [Cardigan](https://open.spotify.com/track/7CCKYz9WZ0G2D3nELghKl3) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Cardigan](https://open.spotify.com/album/5boWNREF7G7SqWNGOzmhFO) | 3:10 |
 | 63 | [kiss me before u go.](https://open.spotify.com/track/1n6wEo9WEfUHm2VcOx67dw) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn), [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [kiss me before u go.](https://open.spotify.com/album/0qXF4bLph1rkzuE1x6ZLcJ) | 4:03 |
 | 64 | [Gone](https://open.spotify.com/track/3mDZYUiAmHqPr6vl0a9Erv) | [Benja](https://open.spotify.com/artist/36Bs5vvvt4AfdIvApt1Rid), [Just John](https://open.spotify.com/artist/5yJAfyfCn2mE6q9GeYrKWb) | [Gone](https://open.spotify.com/album/6kllSzXR7OltIa8QkBNEna) | 2:58 |
-| 65 | [I Let My Plant Die](https://open.spotify.com/track/646qEtK5KSUDEmVLmJiLfE) | [Alicia Clara](https://open.spotify.com/artist/2SXUlfCHZornfHnrSMqIPe) | [I Let My Plant Die](https://open.spotify.com/album/1c4s3k9S4QEJRwVkta2JQq) | 4:02 |
+| 65 | [I Let My Plant Die](https://open.spotify.com/track/3Qrsp5Lkrf7Ad65wvanoeq) | [Alicia Clara](https://open.spotify.com/artist/2SXUlfCHZornfHnrSMqIPe) | [I Let My Plant Die](https://open.spotify.com/album/1iKWCghsfxBgHE1SSIzZ8z) | 4:02 |
 | 66 | [Lonely Hallucinations](https://open.spotify.com/track/4hqIsxoAphbShsRsL0qGmh) | [Alle The Dreamer](https://open.spotify.com/artist/34dP7aH5DomlGUPArhkh0B) | [Lonely Hallucinations](https://open.spotify.com/album/7Gs6HTYS71coBejdMXPrCI) | 3:14 |
 | 67 | [HOUSEPARTY](https://open.spotify.com/track/6hRU08A4e8iUUJlcVJ24br) | [mekel](https://open.spotify.com/artist/7hKsP5ebkNfMNIomoQra4B) | [How to Forgive \(and Let Go\)](https://open.spotify.com/album/39oky69khpuWAuadskGlKI) | 2:27 |
 | 68 | [Inhibitions / Intuitions](https://open.spotify.com/track/1Wqp5K08ASR7JcAmu1YjTI) | [Kainalu](https://open.spotify.com/artist/7s21yzsQI5NDymc5KNHkXc), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Inhibitions / Intuitions](https://open.spotify.com/album/5uBveYkzBC1RJP2pTEup1h) | 3:29 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 124 | [Heartache & LSD](https://open.spotify.com/track/0KA6rBL9yNsGFBmujt1FZy) | [Hauskey](https://open.spotify.com/artist/3xjvEQFNYxMqlh7IAo3MMI) | [Heartache & LSD: Act II](https://open.spotify.com/album/7J5HDaAmLrKiecP8Qb9cGu) | 1:52 |
 | 125 | [Meteorite](https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Meteorite](https://open.spotify.com/album/0fwTvb0Qo1pjmAr82hCE7t) | 3:14 |
 
-Snapshot ID: `MCw5MTJiMjJmODkxYzlkNzQ3MjBlNGRlNjFkYjk1YjA1OTQzMzM0NGJk`
+Snapshot ID: `MCw1ZjMyNzU3MjU1NjVjZDU2ZDAxNzEwNDczNjhlMGFlNDRjOWRhYzVl`

@@ -2325,6 +2325,24 @@
     },
     {
       "album": {
+        "name": "Se Solicita Personal",
+        "url": "https://open.spotify.com/album/3bX1uCqj9h06cSCQ9PE8Ap"
+      },
+      "artists": [
+        {
+          "name": "Los Sierre\u00f1os De Sinaloa",
+          "url": "https://open.spotify.com/artist/591DfPGLZ9Q9fWLrRIbSJn"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176716,
+      "name": "Que Casualidad",
+      "url": "https://open.spotify.com/track/3UemX5xi5Qlr5TDx94fgoO"
+    },
+    {
+      "album": {
         "name": "Siguen los Exitos",
         "url": "https://open.spotify.com/album/3x6EZXwwRU7kDo9DKzVWKa"
       },
@@ -2336,7 +2354,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 178706,
       "name": "Que Casualidad",
       "url": "https://open.spotify.com/track/1ARNcGlXQKky7zX4TZkCtx"

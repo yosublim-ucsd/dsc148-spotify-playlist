@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Jack Harlow
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,806 likes - 81 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,813 likes - 81 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 80 | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr) | 2:32 |
 | 81 | [No 808’s \(feat\. Vory\)](https://open.spotify.com/track/7E68rHH6CrKbBYPfpiCLiQ) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [No 808’s \(feat\. Vory\)](https://open.spotify.com/album/2XToR89sscO3iyINxEvv7Z) | 3:20 |
 
-Snapshot ID: `MCxjY2JmODQxNWE2OTkyM2Q3ZTk2M2Y1MjIyNmUyMjYxNmRiNjFlYmMy`
+Snapshot ID: `MCxjYzUzNmQ1M2M1ZDBmMDJjYTBlNDMyMTRmZDFlNzY4Y2FkODY4OGMx`

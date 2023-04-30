@@ -4,7 +4,7 @@
 
 > A mediterranean sundown soundtrack.
 
-148 songs - 12 hr 22 min
+149 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [AO Longo Do Rio](https://open.spotify.com/track/0jhKhgnjOWDtOTKxyPi1ZC) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [A Journey to You](https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm) | 4:34 | 2022-09-05 |  |
 | [Aquaself](https://open.spotify.com/track/1ZgrhT1NfwUt2cNdZG0wHC) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight \(Digital Deluxe\)](https://open.spotify.com/album/1papIBvEjjXA80q6eW7Gtw) | 6:16 | 2022-09-05 | 2023-02-02 |
 | [Around The Sun](https://open.spotify.com/track/0VrdF2Q4bSf5DWCnEPii0P) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Around The Sun](https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB) | 3:54 | 2022-09-05 |  |
+| [Astrid & Manolo](https://open.spotify.com/track/0MGSBX3yJzwZUx9D86WkNR) | [Kid Simius](https://open.spotify.com/artist/36y7VzGBD47ymYb40a7JkE), [Bonaparte](https://open.spotify.com/artist/2jwl8DJIsmnFbA5vPdGSCy) | [Astrid & Manolo](https://open.spotify.com/album/0L2imCR5KOtj8RAqyJ1ngq) | 5:57 | 2023-02-02 |  |
 | [Atoms Song](https://open.spotify.com/track/5GkmYAsDo9mWAEBrxfQo5j) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ), [Thomas Stankiewicz](https://open.spotify.com/artist/6z4bXm4x6pBHdbxdj6gL7G) | [Anicca](https://open.spotify.com/album/19tj2J1Czpvnd1nNyPBGDU) | 7:40 | 2022-09-05 | 2022-11-30 |
 | [Baxter \(these are my friends\)](https://open.spotify.com/track/6Orwi1oYLckpnBF7NbCbrg) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O) | [Baxter \(these are my friends\)](https://open.spotify.com/album/4JZi9eNgVdTUIoC1qMYmXz) | 4:04 | 2022-09-05 |  |
 | [Beach, Palms and BBQ](https://open.spotify.com/track/7ce8a6Mk7OIitJ4XGkUKLK) | [Adam Stacks](https://open.spotify.com/artist/2L6tFQkfIxssirVgyNtVaL) | [Beach, Palms and BBQ](https://open.spotify.com/album/7zJoJxLTpWkq794bm9F0Xn) | 6:10 | 2022-09-05 | 2023-02-03 |
@@ -34,7 +35,7 @@
 | [Brunch With Suki](https://open.spotify.com/track/4FeGoquZz4ShR280GEtUyY) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Sketches From An Island 2](https://open.spotify.com/album/4if4XobtYvNk6rf7c4pJZ9) | 3:44 | 2022-09-05 | 2022-11-21 |
 | [Bubbles](https://open.spotify.com/track/2MYPFXScWdR3PQihBQxu7x) | [Yosi Horikawa](https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ) | [Wandering](https://open.spotify.com/album/0otC2s8AupBtfGUe0UUhYg) | 5:47 | 2022-09-05 |  |
 | [C\-Side](https://open.spotify.com/track/1uKXFp5BcdHf7grmjIDQLF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:43 | 2022-09-05 |  |
-| [Café Com Leite](https://open.spotify.com/track/0icCp5ScnBbKdyvLNLMx3N) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Soft Power](https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ) | 4:22 | 2022-09-05 |  |
+| [Café Com Leite](https://open.spotify.com/track/0icCp5ScnBbKdyvLNLMx3N) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Soft Power](https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ) | 4:22 | 2022-09-05 | 2023-04-30 |
 | [Café Com Leite](https://open.spotify.com/track/4Qr7jxogVZA4rglb4IPyGD) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Soft Power](https://open.spotify.com/album/6em6BXIsCYjP1JOhaU4Bm6) | 4:22 | 2022-09-05 | 2022-10-14 |
 | [Café de Flore](https://open.spotify.com/track/3GyEeD1p5I2TahbhjxCxUU) | [Doctor Rockit](https://open.spotify.com/artist/2dxfrIXDVz9vrggJPRuJrZ), [Matthew Herbert](https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp) | [Indoor Fireworks \(Re\-Release\)](https://open.spotify.com/album/2nSk8BrJiRnY18B87flhAw) | 8:25 | 2022-09-05 | 2022-11-09 |
 | [Café de Flore](https://open.spotify.com/track/5tOd8Y5zNe8cEu2eCsJgpR) | [Doctor Rockit](https://open.spotify.com/artist/2dxfrIXDVz9vrggJPRuJrZ), [Matthew Herbert](https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp) | [Indoor Fireworks \(Re\-Release\)](https://open.spotify.com/album/7CKn2PMMpKU2XXR8F9Qgzj) | 8:25 | 2022-09-05 |  |

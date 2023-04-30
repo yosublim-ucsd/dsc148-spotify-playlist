@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,013 likes - 125 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,038 likes - 125 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 | 24 | [Cards](https://open.spotify.com/track/7DOMxZDc3pglcHuXivRxa9) | [Hancoq](https://open.spotify.com/artist/78c8pJBdUS6WwWWeoJ5z1W) | [Cards](https://open.spotify.com/album/3vtyuuVe1omoyXcjPNrStt) | 3:15 |
 | 25 | [Everyday](https://open.spotify.com/track/3gO9EjA1fyvkbIPfcCy1wF) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Area Baby](https://open.spotify.com/album/4ysvIWQ8gBcxdK7lhsMttg) | 2:51 |
 | 26 | [Teenage Birdsong](https://open.spotify.com/track/4onzxTzKgnSrKUmA2YydJB) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Sixteen Oceans](https://open.spotify.com/album/5gIa8hTQGPwVeNYjDwrraZ) | 3:25 |
-| 27 | [Bubbles](https://open.spotify.com/track/6EZOv0S2V7Rd7hkPRE6Zf3) | [Kalbells](https://open.spotify.com/artist/3QY0HtXymB2ej0xIR8RrdP) | [Max Heart](https://open.spotify.com/album/20ov0SQRSc42I4L5Vtz4UK) | 3:40 |
+| 27 | [Bubbles](https://open.spotify.com/track/2rMFQzgLRaNkx7Sr5E6KUh) | [Kalbells](https://open.spotify.com/artist/3QY0HtXymB2ej0xIR8RrdP) | [Max Heart](https://open.spotify.com/album/3D50t9k2IA6h24JzC9QZRH) | 3:40 |
 | 28 | [Monologue](https://open.spotify.com/track/2gV5NMri6fyQfOf2M1ovJM) | [Putrika](https://open.spotify.com/artist/5awAtBuVQEV68Nvs1loiby) | [Silmara](https://open.spotify.com/album/1px4Nxt7hD6KtVBlNLDXzb) | 4:30 |
 | 29 | [Like People](https://open.spotify.com/track/0o9h7u6AC9Ztiyw8Y0S4dV) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/0sotdV1cZoGfaDDUPIwtDu) | 4:01 |
 | 30 | [Out of Athens](https://open.spotify.com/track/7xYEXxp3HkIVpgzDM3dPWO) | [Bitumen](https://open.spotify.com/artist/1RGasOUCBKHhLrFWn10M7y) | [Cleareye Shining](https://open.spotify.com/album/6uaUHAJvCvJCAWrdjHneeE) | 4:14 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 | 34 | [H.G.S](https://open.spotify.com/track/12rSnesdLIZfCzDDk9ZEef) | [Arona Mane](https://open.spotify.com/artist/70yqFQVIWhHa89ELLSB69B), [Ms\. Thandi](https://open.spotify.com/artist/0puWDWtG4G9xAJJ6JiZEfA) | [H.G.S](https://open.spotify.com/album/5znkcA0rAq6SIn0OaqKlhP) | 3:01 |
 | 35 | [Higher](https://open.spotify.com/track/7MUhRZD1UNEYk4PPq2wSw3) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Higher](https://open.spotify.com/album/5bNltaFAuWA5gyTTCamcve) | 3:14 |
 | 36 | [Carafe](https://open.spotify.com/track/0K56JS9Kt8IY4h58LyO04g) | [Teether](https://open.spotify.com/artist/4rWywJgjoeVMO8LY87xYZo), [Kuya Neil](https://open.spotify.com/artist/2VOung9TCgKNkNNnRklTAY) | [GLYPH](https://open.spotify.com/album/01ukt6uUhOmr6N9TvAsUrE) | 2:48 |
-| 37 | [The Ocean](https://open.spotify.com/track/0CfCygNUYJHOPcBAx0GUeL) | [Anchorsong](https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh), [Bookend](https://open.spotify.com/artist/2mQ765VXi6upoFrj3JbgMD) | [Mirage](https://open.spotify.com/album/7svw0efuI6ZCFD61Vj2DWF) | 4:02 |
+| 37 | [The Ocean](https://open.spotify.com/track/11ZEPoLOymnDqXoc1e98FO) | [Anchorsong](https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh), [Bookend](https://open.spotify.com/artist/25Fdr64rur2zWVMYSnit4i) | [Mirage](https://open.spotify.com/album/2KgYOIJ18OiPAMH9KRf1Ff) | 4:02 |
 | 38 | [Arc](https://open.spotify.com/track/1XvNkXo2iNQgNNxxqX7pIe) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Arc](https://open.spotify.com/album/3eHNdHMGISbfsjN9J4USOm) | 4:34 |
 | 39 | [Be Sweet](https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:15 |
 | 40 | [Every Hour](https://open.spotify.com/track/7EB73Nrmwa7WsuTYJiPV1m) | [KIAN](https://open.spotify.com/artist/1TulCA2zO3YxAjQ7ZsvtDq) | [Every Hour](https://open.spotify.com/album/144pUjsOWPXqbMkArgeOqC) | 3:22 |
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 | 95 | [tiki](https://open.spotify.com/track/6OxoIcvexK5hRQqCeseXeH) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [tiki](https://open.spotify.com/album/7AdommYIuTNghRELj7rSKB) | 2:38 |
 | 96 | [M31 \(Racing down the Hume\)](https://open.spotify.com/track/4UR73u6KPuWoqIKv4JwwiJ) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [M31 \(Racing down the Hume\)](https://open.spotify.com/album/0OU300xi5Q4hmuU6nv2Kp8) | 2:14 |
 | 97 | [Kareem](https://open.spotify.com/track/61QdEvjU6RjbDEIThp78DY) | [Teether](https://open.spotify.com/artist/4rWywJgjoeVMO8LY87xYZo), [Kuya Neil](https://open.spotify.com/artist/2VOung9TCgKNkNNnRklTAY) | [GLYPH](https://open.spotify.com/album/01ukt6uUhOmr6N9TvAsUrE) | 1:54 |
-| 98 | [Falling \(II\)](https://open.spotify.com/track/5JCUiQ994E1EKbBak6bJqw) | [Lace Curtain](https://open.spotify.com/artist/4j09ESFbTVflGGIU9l9IJ1) | [Falling / Running EP](https://open.spotify.com/album/1O8OEGnOLX4enDJCYTTmKg) | 6:56 |
+| 98 | [Falling \(II\)](https://open.spotify.com/track/5t9BJ7QUMPhvqU4jRV5UaI) | [Lace Curtain](https://open.spotify.com/artist/4j09ESFbTVflGGIU9l9IJ1) | [Falling / Running EP](https://open.spotify.com/album/0tHa6xdGfp0rvk9pdeDFJj) | 6:56 |
 | 99 | [I Touch Myself](https://open.spotify.com/track/6oNvmplQGUkmAh441Teows) | [Divinyls](https://open.spotify.com/artist/5t06MTkDD3yr5LVs3YFLQC) | [Divinyls](https://open.spotify.com/album/50bQGJWB4VoD1GY3c4vYbv) | 3:47 |
 | 100 | [GET ME OUT](https://open.spotify.com/track/5R8xUhYG8vJnFUX0TVfKRj) | [RBI](https://open.spotify.com/artist/1W274H48h2fREZkw3JoH5p) | [GET ME OUT / TAKE IT FOR ME ON THE FLOOR](https://open.spotify.com/album/5N9dpTKzTP7lHmutcCB7Gh) | 7:04 |
 | 101 | [These Days](https://open.spotify.com/track/7mwLPtttDV0mQnuIqIzQMQ) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [These Days](https://open.spotify.com/album/35WCSDJTuzNhsHb97TLCz0) | 3:31 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 | 124 | [Want You Back](https://open.spotify.com/track/2wXhdaTnmkkFSOidKfnOxA) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Something to Tell You](https://open.spotify.com/album/5m9rXTBF7mHFGQlFsiEHrY) | 3:52 |
 | 125 | [Let It Happen](https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 7:47 |
 
-Snapshot ID: `MCw4OWIyYmZlYzRmNzIxNTg0YWY4YzA0MDgwMGE4MzE1NGUwNmE0Mjgw`
+Snapshot ID: `MCwzMjAwY2FhZWYxNTkwZjFkODM3ZThmNjY5NTlkNDQ5MDNlODVlMTlj`

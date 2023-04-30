@@ -2,7 +2,7 @@
 
 ### [Off Broadway](https://open.spotify.com/playlist/37i9dQZF1DWZs0W69wXP5G)
 
-> Everything Broadway\-adjacent\. Cover: Jennifer Hudson
+> Everything Broadway\-adjacent\. Cover: The cast of Grease: Rise of the Pink Ladies
 
 105 songs - 6 hr 20 min
 

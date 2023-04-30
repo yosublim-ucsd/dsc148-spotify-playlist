@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: Gengahr",
-  "num_followers": 111264,
+  "num_followers": 111259,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGRmMzcyYTBhOGQwNTBhMmU2OWE0OGNjMGI0N2JhYzcxNjg4MTFj",
+  "snapshot_id": "MCxhMjVmMzkxZGNkMDVhYjI3MmYzOWJiNjJjZmQ0ZTBmNzZhODRlZWU3",
   "tracks": [
     {
       "added_at": "2023-04-13 23:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Parody",
-        "url": "https://open.spotify.com/album/6L8pdjEecAuyqss3nizuOu"
-      },
-      "artists": [
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
-        }
-      ],
-      "duration_ms": 186493,
-      "name": "Parody",
-      "url": "https://open.spotify.com/track/69JmafotyJNxvKsbQbQj5v"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Falling Apart",
         "url": "https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 200891,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Parody",
+        "url": "https://open.spotify.com/album/6L8pdjEecAuyqss3nizuOu"
+      },
+      "artists": [
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "duration_ms": 186493,
+      "name": "Parody",
+      "url": "https://open.spotify.com/track/69JmafotyJNxvKsbQbQj5v"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "PRE PLEASURE",
-        "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 242737,
-      "name": "I Was Neon",
-      "url": "https://open.spotify.com/track/4PXjrpBSAXim7Zm0W3yVjQ"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Follow You Down",
         "url": "https://open.spotify.com/album/4Xwu7gra3bfXqfIFObBKNc"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 136435,
       "name": "Follow You Down",
       "url": "https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "PRE PLEASURE",
+        "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 242737,
+      "name": "I Was Neon",
+      "url": "https://open.spotify.com/track/4PXjrpBSAXim7Zm0W3yVjQ"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Swampy & Sombre Two",
-        "url": "https://open.spotify.com/album/5GDEoqKD2xARNtyX5EiTh5"
-      },
-      "artists": [
-        {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
-        }
-      ],
-      "duration_ms": 213009,
-      "name": "Swampy",
-      "url": "https://open.spotify.com/track/1JfO7XSiLjbOlCIqDwg3ja"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Good Old",
         "url": "https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 262346,
       "name": "Time",
       "url": "https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Swampy & Sombre Two",
+        "url": "https://open.spotify.com/album/5GDEoqKD2xARNtyX5EiTh5"
+      },
+      "artists": [
+        {
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+        }
+      ],
+      "duration_ms": 213009,
+      "name": "Swampy",
+      "url": "https://open.spotify.com/track/1JfO7XSiLjbOlCIqDwg3ja"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Someone2Me",
-        "url": "https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 226471,
-      "name": "Someone2Me",
-      "url": "https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Food for Worms",
         "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 231968,
       "name": "Six-Pack",
       "url": "https://open.spotify.com/track/1bSJ7EeizSSw8oa6g2qVSi"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Someone2Me",
+        "url": "https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 226471,
+      "name": "Someone2Me",
+      "url": "https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Dress",
-        "url": "https://open.spotify.com/album/1XwMDs9UWnVkPVx4KVuYys"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 206921,
-      "name": "Dress",
-      "url": "https://open.spotify.com/track/1W5VCQ2rBjMBc1ePhXLReP"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 233600,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Dress",
+        "url": "https://open.spotify.com/album/1XwMDs9UWnVkPVx4KVuYys"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 206921,
+      "name": "Dress",
+      "url": "https://open.spotify.com/track/1W5VCQ2rBjMBc1ePhXLReP"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "A Fistful of Peaches",
-        "url": "https://open.spotify.com/album/66f2AJfIYSpWtiDMac7Wea"
-      },
-      "artists": [
-        {
-          "name": "Black Honey",
-          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
-        }
-      ],
-      "duration_ms": 212288,
-      "name": "Cut the Cord",
-      "url": "https://open.spotify.com/track/3nrPemlBKtA9Ggcnl3JpHu"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Gulp!",
         "url": "https://open.spotify.com/album/2bslpjCiGWMgPt2GCdllkH"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 178212,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/7zWPaL2lqEuGnsNCK6WE40"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "A Fistful of Peaches",
+        "url": "https://open.spotify.com/album/66f2AJfIYSpWtiDMac7Wea"
+      },
+      "artists": [
+        {
+          "name": "Black Honey",
+          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
+        }
+      ],
+      "duration_ms": 212288,
+      "name": "Cut the Cord",
+      "url": "https://open.spotify.com/track/3nrPemlBKtA9Ggcnl3JpHu"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/7ubSPKEMVxIUKcPL6I9NV6"
-      },
-      "artists": [
-        {
-          "name": "SOMOH",
-          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
-        }
-      ],
-      "duration_ms": 143322,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/0by0AKBoLYhR8wKd9MkqGq"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Exotico",
         "url": "https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 213053,
       "name": "Oval Stones",
       "url": "https://open.spotify.com/track/5jumXLjj8yhQ0j1Af8XZS1"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/7ubSPKEMVxIUKcPL6I9NV6"
+      },
+      "artists": [
+        {
+          "name": "SOMOH",
+          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
+        }
+      ],
+      "duration_ms": 143322,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/0by0AKBoLYhR8wKd9MkqGq"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Avalanche",
-        "url": "https://open.spotify.com/album/2Rntp0bJx7YKBmV3Kg8wbm"
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/3LdfZrdlKsanntRZHYncJr"
       },
       "artists": [
         {
-          "name": "The Reytons",
-          "url": "https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ"
+          "name": "The Big Moon",
+          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
         }
       ],
-      "duration_ms": 190520,
-      "name": "Avalanche",
-      "url": "https://open.spotify.com/track/0LIekCgqw0a3Ule7WtPfBJ"
+      "duration_ms": 231684,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/2NZyf2jJaf0PntMfTe5fPf"
     }
   ],
   "unique_name": "pulp",

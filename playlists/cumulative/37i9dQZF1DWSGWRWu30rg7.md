@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Allan Andersn
 
-1,793 songs - 4 day 13 hr 51 min
+1,794 songs - 4 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [Ambigu](https://open.spotify.com/track/537TNvW7oM6T6Llz7Vd6zj) | [Sendy Nurulita](https://open.spotify.com/artist/7DDBJWvw1cs7deI8V1cmEi) | [Ambigu](https://open.spotify.com/album/2SGbxum6W1S1SmCCTqDfkI) | 3:40 | 2023-01-19 | 2023-02-10 |
 | [Ambisi: Rapsodi Mayor 7](https://open.spotify.com/track/7e5eW7rkFYMbJ1d48v8TfF) | [Val\-D](https://open.spotify.com/artist/3Zd3NsEhbZr1RKGlJD5f3T) | [Ambisi: Rapsodi Mayor 7](https://open.spotify.com/album/2clJHlvvyUTvLo2MzeoQ6Y) | 5:44 | 2023-02-03 | 2023-02-17 |
 | [Anak Muda \- Lebih Muda Version](https://open.spotify.com/track/13CQWJSlwgLK3Lnl9QEkqM) | [Hari Rabu](https://open.spotify.com/artist/6dsgIlp91G5zcYkjiytZax) | [Aktif Depresif](https://open.spotify.com/album/5J2ZGR5mqKbLpWS1tQICZu) | 3:51 | 2022-05-05 | 2022-05-20 |
-| [ANDA KATAKAN](https://open.spotify.com/track/562w9oAArQNuj9wtajeO1K) | [Melati ESP](https://open.spotify.com/artist/2yHzkL2Cb1qMhEtFeeyr68) | [hipernatural](https://open.spotify.com/album/0BT0MdbDqzC1K1rYyTyexv) | 2:59 | 2023-04-27 |  |
+| [ANDA KATAKAN](https://open.spotify.com/track/562w9oAArQNuj9wtajeO1K) | [Melati ESP](https://open.spotify.com/artist/2yHzkL2Cb1qMhEtFeeyr68) | [hipernatural](https://open.spotify.com/album/0BT0MdbDqzC1K1rYyTyexv) | 2:59 | 2023-04-27 | 2023-04-30 |
+| [ANDA KATAKAN](https://open.spotify.com/track/5KEqkZsq2kXZoZwMlWCCBq) | [Melati ESP](https://open.spotify.com/artist/2yHzkL2Cb1qMhEtFeeyr68) | [hipernatural](https://open.spotify.com/album/5PWCeX696MJg6QerDf3UMw) | 2:59 | 2023-04-28 |  |
 | [Andai](https://open.spotify.com/track/4GEyXePiQT2lNBwNj3EE09) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Andai](https://open.spotify.com/album/1CuEuwNQSntumAotbmV0bk) | 3:55 | 2022-04-14 | 2023-01-13 |
 | [Andai Kau Bisa](https://open.spotify.com/track/6fgiyB4ew2nmBLhJuvTpUe) | [Renaldy Rizky](https://open.spotify.com/artist/7btKvbNEPKfzdYTE2IleBt) | [Andai Kau Bisa](https://open.spotify.com/album/1imjZeHMYRuThzGUJZu58k) | 4:33 | 2022-05-12 | 2022-05-27 |
 | [Andaikan \- From "Mendarat Darurat"](https://open.spotify.com/track/10XaLorAoLHV5som6iScaF) | [Virtual Jukebox](https://open.spotify.com/artist/6kvZmyXkTin4vjk9WbZXBz), [Dai Ramadhani](https://open.spotify.com/artist/4Cob09BKLmVmDg4uOMdid0) | [Andaikan \(From "Mendarat Darurat"\)](https://open.spotify.com/album/0CweEem8nxGyUBzLIhxLh2) | 2:41 | 2022-09-01 | 2022-09-16 |

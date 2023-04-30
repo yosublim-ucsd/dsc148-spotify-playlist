@@ -1,12 +1,12 @@
 {
   "description": "Check out these inspired hits to keep your Summer fun and upbeat!",
-  "num_followers": 25238,
+  "num_followers": 25246,
   "original_name": "Rejoice for Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MWU5NWM0ZmVlM2EwMTA1MDk5MWI0NDVlOWJjOWVlNzI1NjYzZjhl",
+  "snapshot_id": "MCwzMWJiZDc4Y2NjNDhmOGYxNDJiZDQ0NzY4NzYyYjUzYTkzZDA4YzU2",
   "tracks": [
     {
       "added_at": "2020-08-13 14:39:00",
@@ -223,26 +223,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Restoration",
-        "url": "https://open.spotify.com/album/406YMcI7NSxhTbhvxkfu2H"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "YK Osiris",
-          "url": "https://open.spotify.com/artist/7meyrw7Or5DwteYxDJrkCM"
-        }
-      ],
-      "duration_ms": 177474,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/7I079hnzaP3BNu5Ra7h6q4"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Over And Over",
         "url": "https://open.spotify.com/album/6JSGQXaNZyITJBTMTWGseO"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 218813,
       "name": "Over And Over",
       "url": "https://open.spotify.com/track/5AjM1AF3Gy3W5Mr4ZG7zgI"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Restoration",
+        "url": "https://open.spotify.com/album/406YMcI7NSxhTbhvxkfu2H"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "YK Osiris",
+          "url": "https://open.spotify.com/artist/7meyrw7Or5DwteYxDJrkCM"
+        }
+      ],
+      "duration_ms": 177474,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/7I079hnzaP3BNu5Ra7h6q4"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1643,26 +1643,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Whatever It Takes",
-        "url": "https://open.spotify.com/album/6zSIkly50OdBZGydPYA9JR"
-      },
-      "artists": [
-        {
-          "name": "Manwell",
-          "url": "https://open.spotify.com/artist/3HWMxHfbtrP3H39BnsquW8"
-        },
-        {
-          "name": "Sarah Reeves",
-          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
-        }
-      ],
-      "duration_ms": 209208,
-      "name": "Whatever It Takes",
-      "url": "https://open.spotify.com/track/7dZSnaAGuBSgi69OWCTQcL"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Shattered",
         "url": "https://open.spotify.com/album/5rrpgUyAmIR68i3pSv5Uhm"
       },
@@ -1679,6 +1659,26 @@
       "duration_ms": 184613,
       "name": "Give It All",
       "url": "https://open.spotify.com/track/1jeTXQnC2f5rpY4T01MrYa"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Whatever It Takes",
+        "url": "https://open.spotify.com/album/6zSIkly50OdBZGydPYA9JR"
+      },
+      "artists": [
+        {
+          "name": "Manwell",
+          "url": "https://open.spotify.com/artist/3HWMxHfbtrP3H39BnsquW8"
+        },
+        {
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
+        }
+      ],
+      "duration_ms": 209208,
+      "name": "Whatever It Takes",
+      "url": "https://open.spotify.com/track/7dZSnaAGuBSgi69OWCTQcL"
     },
     {
       "added_at": "2020-08-13 14:39:00",

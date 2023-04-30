@@ -4,13 +4,14 @@
 
 > <a href="spotify:artist:6pSsE5y0uJMwYj83KrPyf9">Dawn Richard</a>'s favorite tracks\. Updated regularly\. Curated by Dawn Richard\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-77 songs - 4 hr 56 min
+78 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Affection](https://open.spotify.com/track/3fTxLcPR2i8b9yIrvNScuC) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Affection](https://open.spotify.com/album/2mz3UwcraODF5DIF7AnpDE) | 3:39 | 2022-05-06 |  |
 | [All I Need \- DJ\-Kicks](https://open.spotify.com/track/6Pityx91iO01VFnny4ezm6) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [DJ\-Kicks: Jayda G](https://open.spotify.com/album/454VGat5iW01CvFYy8FCIZ) | 5:59 | 2022-05-06 |  |
-| [Always Saying Goodbye](https://open.spotify.com/track/1zsT8qJomDcjuzj1SbgiZ7) | [Satchy](https://open.spotify.com/artist/5WU8v5r46LwBAwXGGCQygh) | [Always Saying Goodbye](https://open.spotify.com/album/3sDXWND1JBJVMqVNwMn2j0) | 4:16 | 2022-04-11 |  |
+| [Always Saying Goodbye](https://open.spotify.com/track/1jnF9CZurWTcS4BqwCQgTf) | [Satchy](https://open.spotify.com/artist/5WU8v5r46LwBAwXGGCQygh) | [Warm Absence](https://open.spotify.com/album/4OdwWwELjaa6548KuPqym1) | 4:16 | 2022-04-11 |  |
+| [Always Saying Goodbye](https://open.spotify.com/track/1zsT8qJomDcjuzj1SbgiZ7) | [Satchy](https://open.spotify.com/artist/5WU8v5r46LwBAwXGGCQygh) | [Always Saying Goodbye](https://open.spotify.com/album/3sDXWND1JBJVMqVNwMn2j0) | 4:16 | 2022-04-11 | 2023-04-30 |
 | [Are You Even Real?](https://open.spotify.com/track/2k0HXdTDW28JFAaS8TaHeA) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Are You Even Real?](https://open.spotify.com/album/4k4iHNk6u4RlloqaNXlzwQ) | 3:51 | 2022-04-11 |  |
 | [Atlas](https://open.spotify.com/track/664jBL8NgKFYdiMK9bnCcz) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Atlas](https://open.spotify.com/album/7g8PeQGSlZUlWCr3heIJJb) | 5:52 | 2022-05-06 |  |
 | [Being In Love](https://open.spotify.com/track/4VBE0mwU8Nmm8hiqfCe4Ve) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:02 | 2022-04-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zVOKolQSzi.md) - [plain]
 
 > The best and finest '10s Funk\. Cover: Pharrell Williams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,423 likes - 73 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,467 likes - 73 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zVOKolQSzi.md) - [plain]
 | 49 | [Since You've Been Gone](https://open.spotify.com/track/2SzTFgdr94e32ZzHRHYZZl) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY) | [Push On](https://open.spotify.com/album/67A56PEMjJaIKUXqFWAoQL) | 3:21 |
 | 50 | [Long Weekend](https://open.spotify.com/track/0BLyr2LI3CJACYcP6xbFMY) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Say That To Say This](https://open.spotify.com/album/2cyzBFOHQep4sOuKHpTaBq) | 4:07 |
 | 51 | [Lucecita](https://open.spotify.com/track/23D55kcyANqJIVu9gAu3oS) | [EMEFE](https://open.spotify.com/artist/7gsslWrdzzkV3jf7cAws95), [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Good Future](https://open.spotify.com/album/55RsHwEbtpdYtFqwdNdKki) | 5:41 |
-| 52 | [On the Sly \(feat\. Kylie Auldist\)](https://open.spotify.com/track/6HVD1XoKFl4QssmyQXh1B9) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K), [Kylie Auldist](https://open.spotify.com/artist/3CSpwE5QPsrPT9KgtG3BF4) | [4](https://open.spotify.com/album/4UoJXG2YaxLtMfasRdrA60) | 3:37 |
+| 52 | [On the Sly \(feat\. Kylie Auldist\)](https://open.spotify.com/track/05jukmQMwRb1JG4hsqXozn) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K), [Kylie Auldist](https://open.spotify.com/artist/3CSpwE5QPsrPT9KgtG3BF4) | [4](https://open.spotify.com/album/0URKOnZvzd34c9yWZOyJKp) | 3:37 |
 | 53 | [Right On! \(Back Around\)](https://open.spotify.com/track/4qtCTao3b90EqtrST7EkWX) | [Mojoflo](https://open.spotify.com/artist/4aFQlnbkc73QGmqlw5N9ED) | [Right On! \(Back Around\)](https://open.spotify.com/album/2KAhYIu58XyZnG8iMqMVWt) | 3:40 |
 | 54 | [Mister Man](https://open.spotify.com/track/2eoDZsvrMKU7Hh9qZhkpsD) | [Turkuaz](https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7) | [Afterlife Vol\. 2 \- EP](https://open.spotify.com/album/6fYiUXcG04ykfJcT9X75Al) | 3:46 |
 | 55 | [Authoritay](https://open.spotify.com/track/3NpljGXwV6dJa4gLgRFUjN) | [Alan Evans Trio](https://open.spotify.com/artist/782YLYIMEd3KKv9V7IPvBi), [Alan Evans of Soulive](https://open.spotify.com/artist/3cEs37Ym7xl5I0CRPLqv9D) | [Drop Hop](https://open.spotify.com/album/60OL88xTNfrkqf8upIuNlm) | 3:25 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zVOKolQSzi.md) - [plain]
 | 72 | [That's What I Like](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:26 |
 | 73 | [It's Gonna Rain](https://open.spotify.com/track/58gPIRzKQteZDwUQKQAj0q) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Resistance](https://open.spotify.com/album/1XqtSROG7PSVbfJqeAqJ9D) | 5:07 |
 
-Snapshot ID: `MCwwNzE1N2M1MDRmOGIzY2IwM2U4ZmY2OGMyZWM2Njc5Nzk4MjVlYjNj`
+Snapshot ID: `MCxmOTg2MGJlYmNjNTQ0MjYwOTBiYjllM2NmNWM3MGEzY2UxYmJjYWRj`

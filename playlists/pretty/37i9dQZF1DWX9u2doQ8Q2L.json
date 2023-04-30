@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 366576,
+  "num_followers": 366636,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODk4YzlmYWFiODU5YWI3NDE3MzM5NmJiOWIyYTQ0MDkwMjA5MTVh",
+  "snapshot_id": "MCw0MTUzMzU4OWQ1Mzk4Y2VlNTMwYjA1YWM1YjdiMWYwOTY3YTI4OTQ4",
   "tracks": [
     {
       "added_at": "2023-04-28 06:51:55",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-04-28 06:51:55",
       "album": {
-        "name": "You Just Walked In My Life",
-        "url": "https://open.spotify.com/album/3r6AKB3Zf1lTcG0et17Hdz"
+        "name": "Pacific Line",
+        "url": "https://open.spotify.com/album/2RhKOKETT4qfGytcvGLqJx"
       },
       "artists": [
         {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+          "name": "Kidella",
+          "url": "https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE"
         }
       ],
-      "duration_ms": 179040,
-      "name": "You Just Walked In My Life",
-      "url": "https://open.spotify.com/track/7eRHytSFVvMRNk1at0HkWs"
+      "duration_ms": 251922,
+      "name": "Pacific Line",
+      "url": "https://open.spotify.com/track/6yN1zbeAA8idD6IktDlEsi"
     },
     {
       "added_at": "2023-04-28 06:51:55",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-04-28 06:51:55",
       "album": {
-        "name": "Pacific Line",
-        "url": "https://open.spotify.com/album/2RhKOKETT4qfGytcvGLqJx"
+        "name": "You Just Walked In My Life",
+        "url": "https://open.spotify.com/album/3r6AKB3Zf1lTcG0et17Hdz"
       },
       "artists": [
         {
-          "name": "Kidella",
-          "url": "https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE"
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
         }
       ],
-      "duration_ms": 251922,
-      "name": "Pacific Line",
-      "url": "https://open.spotify.com/track/6yN1zbeAA8idD6IktDlEsi"
+      "duration_ms": 179040,
+      "name": "You Just Walked In My Life",
+      "url": "https://open.spotify.com/track/7eRHytSFVvMRNk1at0HkWs"
     },
     {
       "added_at": "2023-04-28 06:51:55",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-04-28 06:51:55",
       "album": {
-        "name": "Damn!",
-        "url": "https://open.spotify.com/album/58iLEcJ5gjmwjPH4T8Ahy9"
-      },
-      "artists": [
-        {
-          "name": "Wez Atlas",
-          "url": "https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ"
-        }
-      ],
-      "duration_ms": 161760,
-      "name": "Damn!",
-      "url": "https://open.spotify.com/track/7f8eO8Gd4FNZZemvweT31N"
-    },
-    {
-      "added_at": "2023-04-28 06:51:55",
-      "album": {
         "name": "Time Machine/Kazokuno Fukei",
         "url": "https://open.spotify.com/album/5fB1LmRdJBtp4qZ6990791"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 94247,
       "name": "Bouquet",
       "url": "https://open.spotify.com/track/45I57NjUhhZuGWS0j3DGkI"
+    },
+    {
+      "added_at": "2023-04-28 06:51:55",
+      "album": {
+        "name": "Damn!",
+        "url": "https://open.spotify.com/album/58iLEcJ5gjmwjPH4T8Ahy9"
+      },
+      "artists": [
+        {
+          "name": "Wez Atlas",
+          "url": "https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ"
+        }
+      ],
+      "duration_ms": 161760,
+      "name": "Damn!",
+      "url": "https://open.spotify.com/track/7f8eO8Gd4FNZZemvweT31N"
     },
     {
       "added_at": "2023-04-28 06:51:55",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2023-04-28 06:51:55",
       "album": {
+        "name": "Hozue",
+        "url": "https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "duration_ms": 220236,
+      "name": "Hozue",
+      "url": "https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr"
+    },
+    {
+      "added_at": "2023-04-28 06:51:55",
+      "album": {
         "name": "Heat",
         "url": "https://open.spotify.com/album/6YnhFXZM5tJcBCY7BehT8L"
       },
@@ -1367,6 +1383,26 @@
       "duration_ms": 263692,
       "name": "Heat",
       "url": "https://open.spotify.com/track/0W9ZNXpTcdYrRFddGttATh"
+    },
+    {
+      "added_at": "2023-04-28 06:51:55",
+      "album": {
+        "name": "The Swallow (feat. Midories)",
+        "url": "https://open.spotify.com/album/2sPwmjhTqdGDlsOGk2bUmq"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        },
+        {
+          "name": "\u30df\u30c9\u30ea\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/3y1b2eef2HLeYyqFJLtH4p"
+        }
+      ],
+      "duration_ms": 217428,
+      "name": "The Swallow (feat. Midories)",
+      "url": "https://open.spotify.com/track/2d5sYrmQnEPjB06HbZK9GC"
     },
     {
       "added_at": "2023-04-28 06:51:55",
@@ -1395,42 +1431,6 @@
       "duration_ms": 237686,
       "name": "eden",
       "url": "https://open.spotify.com/track/2INM5qrVFHkFpfGWQ5FxLB"
-    },
-    {
-      "added_at": "2023-04-28 06:51:55",
-      "album": {
-        "name": "Hozue",
-        "url": "https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 220236,
-      "name": "Hozue",
-      "url": "https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr"
-    },
-    {
-      "added_at": "2023-04-28 06:51:55",
-      "album": {
-        "name": "The Swallow (feat. Midories)",
-        "url": "https://open.spotify.com/album/2sPwmjhTqdGDlsOGk2bUmq"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        },
-        {
-          "name": "\u30df\u30c9\u30ea\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/3y1b2eef2HLeYyqFJLtH4p"
-        }
-      ],
-      "duration_ms": 217428,
-      "name": "The Swallow (feat. Midories)",
-      "url": "https://open.spotify.com/track/2d5sYrmQnEPjB06HbZK9GC"
     },
     {
       "added_at": "2023-04-28 06:51:55",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-04-28 06:51:55",
       "album": {
-        "name": "\u30e1\u30ac\u30d5\u30a9\u30f3",
-        "url": "https://open.spotify.com/album/6LBUQPn9rnTdJFmH0vLUa1"
-      },
-      "artists": [
-        {
-          "name": "BBHF",
-          "url": "https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY"
-        }
-      ],
-      "duration_ms": 158500,
-      "name": "\u30e1\u30ac\u30d5\u30a9\u30f3",
-      "url": "https://open.spotify.com/track/3b97D6YMKoXseRjntwH5q0"
-    },
-    {
-      "added_at": "2023-04-28 06:51:55",
-      "album": {
         "name": "Haven (feat. Hana Hope)",
         "url": "https://open.spotify.com/album/2GjztKFs20fe8oZTvXsCm9"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 196000,
       "name": "Haven - feat. Hana Hope",
       "url": "https://open.spotify.com/track/6KYCOYdW5e0FPFf18CUybx"
+    },
+    {
+      "added_at": "2023-04-28 06:51:55",
+      "album": {
+        "name": "\u30e1\u30ac\u30d5\u30a9\u30f3",
+        "url": "https://open.spotify.com/album/6LBUQPn9rnTdJFmH0vLUa1"
+      },
+      "artists": [
+        {
+          "name": "BBHF",
+          "url": "https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY"
+        }
+      ],
+      "duration_ms": 158500,
+      "name": "\u30e1\u30ac\u30d5\u30a9\u30f3",
+      "url": "https://open.spotify.com/track/3b97D6YMKoXseRjntwH5q0"
     },
     {
       "added_at": "2023-04-28 06:51:55",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2023-04-28 06:51:55",
       "album": {
+        "name": "Girl in the Mirror",
+        "url": "https://open.spotify.com/album/7hlebW7mJimUe2JOfq3NrA"
+      },
+      "artists": [
+        {
+          "name": "chilldspot",
+          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+        }
+      ],
+      "duration_ms": 190594,
+      "name": "Girl in the Mirror",
+      "url": "https://open.spotify.com/track/6QXHw9vBEbzQU7GuZSWMLh"
+    },
+    {
+      "added_at": "2023-04-28 06:51:55",
+      "album": {
         "name": "2016",
         "url": "https://open.spotify.com/album/7qeQudNVKihiHBykhZa5IY"
       },
@@ -1687,22 +1703,6 @@
     {
       "added_at": "2023-04-28 06:51:55",
       "album": {
-        "name": "Girl in the Mirror",
-        "url": "https://open.spotify.com/album/7hlebW7mJimUe2JOfq3NrA"
-      },
-      "artists": [
-        {
-          "name": "chilldspot",
-          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
-        }
-      ],
-      "duration_ms": 190594,
-      "name": "Girl in the Mirror",
-      "url": "https://open.spotify.com/track/6QXHw9vBEbzQU7GuZSWMLh"
-    },
-    {
-      "added_at": "2023-04-28 06:51:55",
-      "album": {
         "name": "Eyes",
         "url": "https://open.spotify.com/album/2VSREGDOr59t7uOXZ8B7s7"
       },
@@ -1731,22 +1731,6 @@
       "duration_ms": 168426,
       "name": "Bye Bye (0331)",
       "url": "https://open.spotify.com/track/4RwdPcdrJfmPXyxrAeS8c8"
-    },
-    {
-      "added_at": "2023-04-28 06:51:55",
-      "album": {
-        "name": "Chrome Season",
-        "url": "https://open.spotify.com/album/26z9uGhvmZt7YjkCspGTlB"
-      },
-      "artists": [
-        {
-          "name": "Bleecker Chrome",
-          "url": "https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8"
-        }
-      ],
-      "duration_ms": 186176,
-      "name": "come again",
-      "url": "https://open.spotify.com/track/7vyYFC1tpOv4mg3PrbTfCX"
     },
     {
       "added_at": "2023-04-28 06:51:55",
@@ -1799,6 +1783,42 @@
     {
       "added_at": "2023-04-28 06:51:55",
       "album": {
+        "name": "SPEED AGETE (Prod. Chaki Zulu)",
+        "url": "https://open.spotify.com/album/0s5YEX9wcWOR6CxNxywvBk"
+      },
+      "artists": [
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        },
+        {
+          "name": "Chaki Zulu",
+          "url": "https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup"
+        }
+      ],
+      "duration_ms": 166053,
+      "name": "SPEED AGETE (Prod. Chaki Zulu)",
+      "url": "https://open.spotify.com/track/7wte64HKNL0keeCHfanAG6"
+    },
+    {
+      "added_at": "2023-04-28 06:51:55",
+      "album": {
+        "name": "Chrome Season",
+        "url": "https://open.spotify.com/album/26z9uGhvmZt7YjkCspGTlB"
+      },
+      "artists": [
+        {
+          "name": "Bleecker Chrome",
+          "url": "https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8"
+        }
+      ],
+      "duration_ms": 186176,
+      "name": "come again",
+      "url": "https://open.spotify.com/track/7vyYFC1tpOv4mg3PrbTfCX"
+    },
+    {
+      "added_at": "2023-04-28 06:51:55",
+      "album": {
         "name": "\u30de\u30e8\u30a4\u30ac (PHIL REWORK)",
         "url": "https://open.spotify.com/album/5vxYwjHklE4OKDpd7D0PwR"
       },
@@ -1819,26 +1839,6 @@
       "duration_ms": 247295,
       "name": "\u30de\u30e8\u30a4\u30ac - PHIL REWORK",
       "url": "https://open.spotify.com/track/16j0i4b87epv1BYA7AU3P7"
-    },
-    {
-      "added_at": "2023-04-28 06:51:55",
-      "album": {
-        "name": "SPEED AGETE (Prod. Chaki Zulu)",
-        "url": "https://open.spotify.com/album/0s5YEX9wcWOR6CxNxywvBk"
-      },
-      "artists": [
-        {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
-        },
-        {
-          "name": "Chaki Zulu",
-          "url": "https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup"
-        }
-      ],
-      "duration_ms": 166053,
-      "name": "SPEED AGETE (Prod. Chaki Zulu)",
-      "url": "https://open.spotify.com/track/7wte64HKNL0keeCHfanAG6"
     }
   ],
   "unique_name": "Tokyo Rising",

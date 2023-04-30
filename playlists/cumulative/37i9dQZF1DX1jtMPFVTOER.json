@@ -427,6 +427,24 @@
     },
     {
       "album": {
+        "name": "portrait of a dog",
+        "url": "https://open.spotify.com/album/6SsOunBXV82rQ7xhiQlYi5"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323250,
+      "name": "always",
+      "url": "https://open.spotify.com/track/0hjZ5WaakADg6SzE8NRfi5"
+    },
+    {
+      "album": {
         "name": "always/the speed of sound!",
         "url": "https://open.spotify.com/album/06DWAGemrz6oW1iWwSPEfl"
       },
@@ -438,7 +456,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 323250,
       "name": "always",
       "url": "https://open.spotify.com/track/3kO5SqEje4LhVZeD7XWNvr"
@@ -3042,10 +3060,32 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 194374,
       "name": "Flavour",
       "url": "https://open.spotify.com/track/1rD65i5JVAK5xOthYiPXok"
+    },
+    {
+      "album": {
+        "name": "Final Days",
+        "url": "https://open.spotify.com/album/1QRGHHBt7uuWfgt2nknDSD"
+      },
+      "artists": [
+        {
+          "name": "Arjuna Oakes",
+          "url": "https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF"
+        },
+        {
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194374,
+      "name": "Flavour",
+      "url": "https://open.spotify.com/track/3hXSpGfT9IUNlgSzwdUdnv"
     },
     {
       "album": {
@@ -3812,6 +3852,28 @@
     {
       "album": {
         "name": "Somebody's Gotta Do It",
+        "url": "https://open.spotify.com/album/4vfnCyWAhcBMQ6w8dY8dO4"
+      },
+      "artists": [
+        {
+          "name": "Sly5thAve",
+          "url": "https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi"
+        },
+        {
+          "name": "JSWISS",
+          "url": "https://open.spotify.com/artist/4Gvi0aCKhLNHWzHnhvV1e4"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219497,
+      "name": "Humble",
+      "url": "https://open.spotify.com/track/1AEJnI5jtpGxCMM9Ulbc3m"
+    },
+    {
+      "album": {
+        "name": "Somebody's Gotta Do It",
         "url": "https://open.spotify.com/album/2WFzXFDjr6IVRaUTC8jgrH"
       },
       "artists": [
@@ -3826,7 +3888,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 219497,
       "name": "Humble",
       "url": "https://open.spotify.com/track/684Emdg5WsDqirI7XQPQkE"
@@ -5440,10 +5502,40 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 215820,
       "name": "Naturally Conspiring",
       "url": "https://open.spotify.com/track/035oBcRjSOLNXDklFrODdk"
+    },
+    {
+      "album": {
+        "name": "Clouds of Joy: Chance of Reign",
+        "url": "https://open.spotify.com/album/02jlouW8p239mBLdWq1i8L"
+      },
+      "artists": [
+        {
+          "name": "Badge \u00c9poque Ensemble",
+          "url": "https://open.spotify.com/artist/08E0CO6MC1ykoQP5VQt4hL"
+        },
+        {
+          "name": "Lammping",
+          "url": "https://open.spotify.com/artist/1ZrzRmbuxvCeFSpEbFpbXZ"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "Roshin",
+          "url": "https://open.spotify.com/artist/3PJqNqnYLkNjPUliUaiZig"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215820,
+      "name": "Naturally Conspiring",
+      "url": "https://open.spotify.com/track/38xwnFSKNxFwMNEAIFwNHh"
     },
     {
       "album": {
@@ -8990,10 +9082,44 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 203319,
       "name": "What It Feels Like - Carrtoons Remix",
       "url": "https://open.spotify.com/track/3xIDPvwMOl7dTMmq6cSWet"
+    },
+    {
+      "album": {
+        "name": "What It Feels Like (Carrtoons Remix)",
+        "url": "https://open.spotify.com/album/7nH7SdXJQ9Kj8hTQgKtsk1"
+      },
+      "artists": [
+        {
+          "name": "Potatohead People",
+          "url": "https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m"
+        },
+        {
+          "name": "T3",
+          "url": "https://open.spotify.com/artist/3UD8eKuUv97BAcp28iYoSH"
+        },
+        {
+          "name": "Illa J",
+          "url": "https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp"
+        },
+        {
+          "name": "Kapok",
+          "url": "https://open.spotify.com/artist/79QY1od36t2L6Rc663c4Mw"
+        },
+        {
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203319,
+      "name": "What It Feels Like - Carrtoons Remix",
+      "url": "https://open.spotify.com/track/6cBgiFiJ3qJgLRldC3MPtF"
     },
     {
       "album": {

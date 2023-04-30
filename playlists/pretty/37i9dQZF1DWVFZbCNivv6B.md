@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 > Aquí vive el hip\-hop mexicano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 668,110 likes - 117 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 668,619 likes - 117 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 20 | [Derrochando Estilo](https://open.spotify.com/track/4I98VytVQXNTScYphARAGH) | [Chikis RA](https://open.spotify.com/artist/77LLHWAIQ3ox7VDtrqofeA) | [Derrochando Estilo](https://open.spotify.com/album/69VroiPXANkirFKgDSp9rt) | 2:47 |
 | 21 | [Lo Mío](https://open.spotify.com/track/5jQkM7O5u7udSaje51iQBQ) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Lo Mío](https://open.spotify.com/album/7elOqdoIafIctySIGxVSMc) | 2:57 |
 | 22 | [Te Encontré](https://open.spotify.com/track/3Do3yeHyrQtV302BQxeOWj) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Te Encontré](https://open.spotify.com/album/0RvUTJIIZUlDiMMhA63sX9) | 3:42 |
-| 23 | [Sangre Fría](https://open.spotify.com/track/7v7PbRe43fszZckZQkrzJz) | [Shainy DDC](https://open.spotify.com/artist/1dWbgySTFdOiYwHXESFqIJ), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Sangre Fría](https://open.spotify.com/album/0LqPMeRqfjt6ogzS8hxE7w) | 3:44 |
+| 23 | [Sangre Fría](https://open.spotify.com/track/7v7PbRe43fszZckZQkrzJz) | [Shainy](https://open.spotify.com/artist/1u11vo70nDXYzV38f33YlH), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Sangre Fría](https://open.spotify.com/album/0LqPMeRqfjt6ogzS8hxE7w) | 3:44 |
 | 24 | [Ya No Quiero Verte](https://open.spotify.com/track/6m77XYqqnVxfREQsiUi7O9) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ya No Quiero Verte](https://open.spotify.com/album/711cIsL3jwCkosLTeycAg8) | 3:25 |
 | 25 | [La última Y No Nos Vamos](https://open.spotify.com/track/6ZsL4COu7tM4m9inHPxAdH) | [Stilo](https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9) | [La Última Y No Nos Vamos \(Episodio 4\)](https://open.spotify.com/album/1sAhYHPWUiUkW6Lhr0q5M9) | 2:54 |
 | 26 | [TE ALEJASTE](https://open.spotify.com/track/2drn04PdLw7Ivym9GQBsZX) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [CONTINGENTE](https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi) | 3:21 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 49 | [Mexicano](https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mexicano](https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt) | 2:54 |
 | 50 | [Cholo De Gala \- Episodio 2](https://open.spotify.com/track/2HQA1vpAJho2uXBWyGCkuH) | [Stilo](https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9) | [Cholo De Gala \(Episodio 2\)](https://open.spotify.com/album/1hg31L3eTdiSdnhci1n7V4) | 2:42 |
 | 51 | [Cita Textual](https://open.spotify.com/track/6sYGwZRFaTPMszhjNppjox) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Cita Textual](https://open.spotify.com/album/4oarAZhostdrJ4JImxsh5A) | 3:24 |
-| 52 | [Donde Sea](https://open.spotify.com/track/3Zkzz1Z01psdyUZt5vgFXL) | [Shainy DDC](https://open.spotify.com/artist/1dWbgySTFdOiYwHXESFqIJ), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Donde Sea](https://open.spotify.com/album/3WVTxLUZCZVsiZM6GHQhx3) | 4:18 |
+| 52 | [Donde Sea](https://open.spotify.com/track/3Zkzz1Z01psdyUZt5vgFXL) | [Shainy](https://open.spotify.com/artist/1u11vo70nDXYzV38f33YlH), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Donde Sea](https://open.spotify.com/album/3WVTxLUZCZVsiZM6GHQhx3) | 4:18 |
 | 53 | [Bendecido](https://open.spotify.com/track/50PEoLvQw5Wr5KxEAIzN3u) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T) | [Bendecido](https://open.spotify.com/album/490ijqG9AYZmFGGf7Z2YRL) | 2:38 |
 | 54 | [Montecarlo](https://open.spotify.com/track/0AGTMYewBJqWX8VltU4gVe) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Montecarlo](https://open.spotify.com/album/1499LDt8XAKTpIPgtbn2zd) | 2:34 |
 | 55 | [Vida Loca](https://open.spotify.com/track/7fHq0gNmcwpuqL18pO2W7K) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff) | [Vida Loca](https://open.spotify.com/album/1jVYLrYW2bIIgdP17xXzFv) | 4:07 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 116 | [Gangstas](https://open.spotify.com/track/5uYbDOI7HansBkIAnRbbmt) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Gangstas](https://open.spotify.com/album/7uMc5fkHFuw82h2jjQsxHk) | 3:54 |
 | 117 | [Championships](https://open.spotify.com/track/2OpF3i6OkG3NkP442mthdE) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Yoiker](https://open.spotify.com/artist/6Hg8CIS6vJg7gUi4kTzJEJ) | [Championships](https://open.spotify.com/album/3O3enT5qEC4SmdjVlYgZk8) | 3:02 |
 
-Snapshot ID: `MCwzZTk0MGI0NWViYTJlYmRkMTM5MWI2NmI3NGQ4ODJmYjE4MDRiYTEz`
+Snapshot ID: `MCxkNjA0ZDBhMTQzNjNmYTk3MTQwYTczNjY1ZTkwMjQyNDlkYmIxMTc4`

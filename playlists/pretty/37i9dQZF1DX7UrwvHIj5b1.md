@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UrwvHIj5b1.md) - [plain]
 
 > Meditative dubstep rhythms for focus and contemplation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,521 likes - 44 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,592 likes - 44 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UrwvHIj5b1.md) - [plain]
 | 34 | [Serpent](https://open.spotify.com/track/0aUNGD38ERJk2QgU2g93i7) | [Audialist](https://open.spotify.com/artist/1CIVHSqqmOMnswj8dwtZCp) | [Audialist Select](https://open.spotify.com/album/0WRFgCjLKAFZKPCpRHCyu6) | 4:40 |
 | 35 | [Pon na' Dub](https://open.spotify.com/track/4Ae1SrLqXkPLfKyz0RTjLN) | [Elefant Doc](https://open.spotify.com/artist/7dvRx0LWsfGk57yBQP2jrP) | [Pressed Records \- Dub Compilation EP Vol 1](https://open.spotify.com/album/6CzRqZIgwX9nRgZ2uz6nEn) | 4:51 |
 | 36 | [Wisdom](https://open.spotify.com/track/3F9yTY87haeNOoPZzNRHN9) | [Chad Dubz](https://open.spotify.com/artist/3lyLUYni8vVP6VyzENRhdd) | [Wisdom](https://open.spotify.com/album/3OU2VNhplpTYkcFdX8YcxH) | 5:48 |
-| 37 | [Qawwali](https://open.spotify.com/track/5TyinkpuFzpSNDAJRYpNay) | [Pinch](https://open.spotify.com/artist/09S8AYFuaa9PQKSNsXxweW) | [10 Tons Heavy](https://open.spotify.com/album/4c8z8N2B9MCE90BR3fH9sf) | 5:19 |
+| 37 | [Qawwali](https://open.spotify.com/track/1Mjh2PRRpbUEhQhei6GkcH) | [Pinch](https://open.spotify.com/artist/09S8AYFuaa9PQKSNsXxweW) | [10 Tons Heavy](https://open.spotify.com/album/2KijsPxVLWeObtHjipd80R) | 5:19 |
 | 38 | [Micro Dose](https://open.spotify.com/track/4kNbzt8JmheXA0CBUTo5qe) | [Pugilist](https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S) | [Negative Space](https://open.spotify.com/album/7cz8J3Bnwgr5L9wwZUnXOz) | 6:33 |
 | 39 | [Tired](https://open.spotify.com/track/3u0rtErqAsGNjc3SotWktj) | [Biome](https://open.spotify.com/artist/5vdT5HnfZZMsPwy9XtM1ud) | [Biome X Deep Heads](https://open.spotify.com/album/0izqzC6hfV8EycaipMjBkI) | 4:39 |
 | 40 | [Far North Dub](https://open.spotify.com/track/0wmp4aZ02X9Eyy335SbqSd) | [Ternion Sound](https://open.spotify.com/artist/5sZGZj7wvhCwlG6KBvG90a) | [Far North Dubs EP](https://open.spotify.com/album/25iJRCx5VAdSDFFWCWlIjy) | 3:53 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UrwvHIj5b1.md) - [plain]
 | 43 | [Tusk](https://open.spotify.com/track/2icSoosXMB1U1WUhk3Qxlj) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Substrada](https://open.spotify.com/artist/1c27zyfou3LpncKmjvbtLd) | [Ghost Talk / Tusk](https://open.spotify.com/album/579NIcHU4u4K2nUBPqaiVF) | 4:24 |
 | 44 | [Late Lake](https://open.spotify.com/track/7yQWdYmRBujBxEaVJfSNAq) | [Dave N.A.](https://open.spotify.com/artist/1cxEOlUUySOA6xSJ36PvlM) | [Solo Move](https://open.spotify.com/album/2mCKGUc0ONcibctnDBgMhr) | 4:30 |
 
-Snapshot ID: `MCw4NDJmMDdmNTllYTRjOWEwZTU4OWZiYmEyNmRjNzBjMzZlYmIwOThi`
+Snapshot ID: `MCwwYWVlOGI0YTgxYzA0NzY3OGQwMDcyNThiYjVmYzAxZjUzZWMwNzA0`

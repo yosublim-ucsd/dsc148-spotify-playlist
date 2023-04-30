@@ -4,7 +4,7 @@
 
 > Svensk jazz när den är som bäst.
 
-144 songs - 10 hr 59 min
+145 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,8 @@
 | [Try](https://open.spotify.com/track/6QO8cmea5q5c1cHrQg81nf) | [Selma Pinton](https://open.spotify.com/artist/59okFVLWTYTvszCyx681pI) | [Try](https://open.spotify.com/album/14TmlcJfgPcPlsn4nuzzfn) | 3:59 | 2021-11-08 |  |
 | [Tunnelseende](https://open.spotify.com/track/6kUrJC50YrJhaLsNn4HC1s) | [Per 'Texas' Johansson](https://open.spotify.com/artist/5NTsQ9DCgO4lgp7HULW66T) | [Swedish Jazz Masters: Alla Mina Kompisar](https://open.spotify.com/album/37T5k8hlw2LGP1IWpKyJkV) | 5:44 | 2021-11-08 |  |
 | [Uti Vår Hage](https://open.spotify.com/track/2DWCpxQnvke5J0reru6sSf) | [Jan Lundgren](https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI), [Mattias Svensson](https://open.spotify.com/artist/0SpFS1C0X20BJ8m1qyBbcu), [Rasmus Kihlberg](https://open.spotify.com/artist/1HtXGJ1iYUcRZCirb47OmR) | [Swedish Standards](https://open.spotify.com/album/3ZGxz7JmoEG74JHDUkAPsg) | 3:40 | 2021-11-08 |  |
-| [Very Early](https://open.spotify.com/track/1zqXurcrxEYOapduEpfuEh) | [Fredrik Nordström](https://open.spotify.com/artist/5MvcFZC0PVjhkfCOdmBXTm) | [Live – with Palle Danielsson and Fredrik Rundqvist](https://open.spotify.com/album/1TtcOGKYk145KXvLOv9x6G) | 9:00 | 2021-11-08 |  |
+| [Very Early](https://open.spotify.com/track/1zqXurcrxEYOapduEpfuEh) | [Fredrik Nordström](https://open.spotify.com/artist/5MvcFZC0PVjhkfCOdmBXTm) | [Live – with Palle Danielsson and Fredrik Rundqvist](https://open.spotify.com/album/1TtcOGKYk145KXvLOv9x6G) | 9:00 | 2021-11-08 | 2023-04-30 |
+| [Very Early](https://open.spotify.com/track/4pOmvbidGuENodcbTTeP4I) | [Fredrik Nordström](https://open.spotify.com/artist/5MvcFZC0PVjhkfCOdmBXTm) | [Live – with Palle Danielsson and Fredrik Rundqvist](https://open.spotify.com/album/5nhoTZQMlUWqDGPEhpwt70) | 9:00 | 2023-04-27 |  |
 | [Visa från Utanmyra](https://open.spotify.com/track/5DpUTzuGKVVxIkiqRAF5RV) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Midsommarklassiker 2021](https://open.spotify.com/album/5fAkO01sraQ7NUWqFdY7FV) | 2:41 | 2022-10-20 | 2022-11-13 |
 | [Visa från Utanmyra](https://open.spotify.com/track/7jFARkl6eGiEUQZnwv5qrP) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Ohh! Monica!](https://open.spotify.com/album/67oyumtZk7JqH5onehTByo) | 2:42 | 2022-06-22 |  |
 | [Visa från Utanmyra](https://open.spotify.com/track/37VD4tD2Y8FqhcGeXkSJGx) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Gyllene Blad Ur Monicas Dagbok](https://open.spotify.com/album/2kJAeAiZ3cS6WQ1dkcv8wT) | 2:45 | 2021-11-08 | 2022-07-29 |

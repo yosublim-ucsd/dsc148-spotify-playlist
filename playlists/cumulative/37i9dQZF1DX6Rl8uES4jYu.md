@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-371 songs - 21 hr 0 min
+373 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Don't Go Chasing](https://open.spotify.com/track/0gTXXfCBlkJgSVokmOgrTz) | [Erez Zobary](https://open.spotify.com/artist/7CIDRraBIHz8BenhnkJGnz) | [Don't Go Chasing](https://open.spotify.com/album/3GcqHzKzEcV8xjEYgAiVrj) | 4:07 | 2022-04-08 |  |
 | [Don't Lose Sight \(Acoustic\)](https://open.spotify.com/track/5DGgATX8r6d53OU6eT0Dzt) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Don't Lose Sight](https://open.spotify.com/album/5sOUgNit0kekytKG4bRDZo) | 6:46 | 2022-05-06 |  |
 | [Don't Trip](https://open.spotify.com/track/1fWJ5Q2o5XJDO7aaoEEln3) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus) | [Don't Trip](https://open.spotify.com/album/6bncnRFItEWzbdaXwurKhe) | 3:00 | 2022-04-15 | 2022-07-29 |
-| [Don't Trip](https://open.spotify.com/track/42HWBRIGDyswiKXJB3O9PP) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus) | [Don't Trip](https://open.spotify.com/album/3W9Sluk9IfQnZZOAcq4tdB) | 3:00 | 2022-04-22 |  |
+| [Don't Trip](https://open.spotify.com/track/42HWBRIGDyswiKXJB3O9PP) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus) | [Don't Trip](https://open.spotify.com/album/3W9Sluk9IfQnZZOAcq4tdB) | 3:00 | 2022-04-22 | 2023-04-30 |
+| [Don't Trip](https://open.spotify.com/track/5mJpenSgvHOjfnK1Z4fc1p) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus) | [Don't Trip](https://open.spotify.com/album/2TLJYbqaz0kygsMTDXn3et) | 3:00 | 2022-04-22 |  |
 | [Don’t Care](https://open.spotify.com/track/327XHz25Jg8Ib5O3qcYdGU) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [Quality Over Opinion](https://open.spotify.com/album/57Xg6JumEnG5i5MBzJVdT7) | 5:22 | 2022-10-14 | 2023-01-20 |
 | [Dynamite](https://open.spotify.com/track/5J4CkTyZitaJ0L0X5kSoJr) | [Jackson Breit](https://open.spotify.com/artist/4Y6wyjvVZtxzzXILoDEulZ), [Carneyval](https://open.spotify.com/artist/2L8dsMgFCSOumasWQ4gvwZ), [Alex Ghenea](https://open.spotify.com/artist/1mGISDumAyOoK6epKA8gq1) | [Dynamite](https://open.spotify.com/album/33lLqNPDlSDWWbnEFFPgja) | 2:56 | 2021-09-21 | 2022-06-15 |
 | [Earworm](https://open.spotify.com/track/3cc1BbtqEBbmBvXcmqdwBa) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 2:24 | 2022-12-02 |  |
@@ -181,7 +182,8 @@
 | [Let's Roll](https://open.spotify.com/track/2VudmwJAV5GA9bqijpLmEP) | [The Goods](https://open.spotify.com/artist/4s1VGnynyXN1cZ4oKsyxEx), [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z) | [Let's Roll](https://open.spotify.com/album/5yIa1Vgl9zZn368RoIGSXG) | 3:36 | 2021-05-14 | 2022-04-21 |
 | [Light As Anything](https://open.spotify.com/track/0Y8kxAuBh8Oc8n6cyDTQ8Q) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Robbie Wulfsohn](https://open.spotify.com/artist/5lxA6SlNrU3NJgiFzrnelc) | [The Optimist](https://open.spotify.com/album/0A8cq3cjiMMP8lI1SeG4GN) | 4:51 | 2020-11-13 | 2022-03-15 |
 | [Lights](https://open.spotify.com/track/0KEnFRGX87MPrH0FOAAkmw) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Lights](https://open.spotify.com/album/0HPiUXMvEXzVXNZGVXbeO9) | 4:17 | 2021-05-14 | 2022-08-13 |
-| [Lionel Richie](https://open.spotify.com/track/1EfF2gJNuksJeHXLevKoFf) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI) | 4:27 | 2022-10-14 |  |
+| [Lionel Richie](https://open.spotify.com/track/12NoB9QOi50RHQl6C5xg3F) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/1onqdmFxHDk2sMBhYATWX3) | 4:27 | 2022-10-28 |  |
+| [Lionel Richie](https://open.spotify.com/track/1EfF2gJNuksJeHXLevKoFf) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI) | 4:27 | 2022-10-14 | 2023-04-30 |
 | [Long Way Home](https://open.spotify.com/track/23VdpjPPUgWscU45SAZFIM) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [Long Way Home](https://open.spotify.com/album/2wTI2Oc4lMH7NEPeAx6mRo) | 3:21 | 2020-11-13 | 2022-03-17 |
 | [Lost & Alive](https://open.spotify.com/track/5x2BKKfwtydW0HO6NgH2Pi) | [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP), [Moorea Masa & the Mood](https://open.spotify.com/artist/4Hs0J7IFJzXGJLhnytbCfR) | [Lost & Alive](https://open.spotify.com/album/6DKdIrezZM0dA2zC8KrAPP) | 3:01 | 2022-01-28 | 2022-11-13 |
 | [Lost a Little](https://open.spotify.com/track/41sV7uznvg52Cp9MDI9sqa) | [Her Songs](https://open.spotify.com/artist/7cehRwLzdNrpS7mS8a4JZO), [The Naked Eye](https://open.spotify.com/artist/44haLO0b3bH4Gpj1upF36o), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f), [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Emily C\. Browning](https://open.spotify.com/artist/3mUNIibyzxNjokXOxLC9yg), [Dani Murcia](https://open.spotify.com/artist/0sZBq7kUYfWPbyGrXwOdvO) | [Lost a Little](https://open.spotify.com/album/4Yps6djInQAR3P50zsncHA) | 3:32 | 2020-11-13 | 2022-03-26 |

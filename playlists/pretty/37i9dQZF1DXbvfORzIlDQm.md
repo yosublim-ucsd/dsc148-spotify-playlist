@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvfORzIlDQm.md) - [plain]
 
 > A collection of roots music and covers urging peace and calling for change\. Cover: Tré Burt
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,779 likes - 54 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,787 likes - 54 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvfORzIlDQm.md) - [plain]
 | 6 | [Dead and Gone](https://open.spotify.com/track/1dXlL3tfVDrcYykineKTJv) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Orphan Offering](https://open.spotify.com/album/70LZy0mMgmkaVYvC2F5rPk) | 4:49 |
 | 7 | [At the Purchaser's Option](https://open.spotify.com/track/5RmAtT0VaKttU0Eybo6ZWA) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Freedom Highway](https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB) | 4:16 |
 | 8 | [Black Man In A White World](https://open.spotify.com/track/3ddle9t9JiBFVqHyrnaGxz) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 4:18 |
-| 9 | [Black Irish Indian](https://open.spotify.com/track/7dVdTythtqhJLeRA9vKkkC) | [Cherokee Rose](https://open.spotify.com/artist/2Z9gor60OjbfpDEiFMIcOI) | [Black Irish Indian](https://open.spotify.com/album/3HO00ATLZnsQW5iiUA13Me) | 3:17 |
+| 9 | [Black Irish Indian](https://open.spotify.com/track/6cdvmaxNwuKt7NFiJB4lN0) | [Cherokee Rose](https://open.spotify.com/artist/2Z9gor60OjbfpDEiFMIcOI) | [Buckskin](https://open.spotify.com/album/7qX6BmDAWMZFhJfttYQp0N) | 3:17 |
 | 10 | [American Flowers](https://open.spotify.com/track/1CtsGuP3zaphCyUieBpOQF) | [Birds of Chicago](https://open.spotify.com/artist/2nyv8yYjMSkvUr9OwEQhVf), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [JT Nero](https://open.spotify.com/artist/4KggKI2drVc4UIotyrOcvQ) | [American Flowers](https://open.spotify.com/album/3aw4lot05PgG9vCBvCQVpg) | 6:10 |
 | 11 | [Brother, What Happened?](https://open.spotify.com/track/0KVF0f32xUa86fFPaqytwJ) | [Muddy Magnolias](https://open.spotify.com/artist/1t7mdRbvflM5966YVfyk1X) | [Broken People](https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr) | 4:34 |
 | 12 | [Astral Plane](https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:38 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvfORzIlDQm.md) - [plain]
 | 32 | [What's Going On \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2hdXm61Sl3ZUEmVdTSWRuU) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Singles](https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij) | 3:35 |
 | 33 | [Undead God of War](https://open.spotify.com/track/17pQuFJDgCkqSCVgxRailx) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Caught It from the Rye](https://open.spotify.com/album/2PaV8pGlT02BHgGIQ571Ag) | 2:46 |
 | 34 | [Call It What It Is](https://open.spotify.com/track/64uZdEoUfTO3FkED7nUa8T) | [Ben Harper And The Innocent Criminals](https://open.spotify.com/artist/7sJ9LR0mCMgFlzJ6Y9xP64) | [Call It What It Is](https://open.spotify.com/album/7rSv91W6p3WmnDA7ydI4ng) | 3:47 |
-| 35 | [Barley](https://open.spotify.com/track/0h7329EnhfoaUEu2sN8o1U) | [Birds of Chicago](https://open.spotify.com/artist/2nyv8yYjMSkvUr9OwEQhVf) | [Real Midnight](https://open.spotify.com/album/7mFltVGJpL7QSFfPAdWeMZ) | 3:04 |
+| 35 | [Barley](https://open.spotify.com/track/4CNY2qCTE1XTjDh9w0Eq0T) | [Birds of Chicago](https://open.spotify.com/artist/2nyv8yYjMSkvUr9OwEQhVf) | [Real Midnight](https://open.spotify.com/album/4wyUd3tpVTxg9vV3cpLF3Y) | 3:04 |
 | 36 | [To the River](https://open.spotify.com/track/6RObl56H8PxTiLAn16VCdK) | [ALA.NI](https://open.spotify.com/artist/3BCNtA8XR8vzu0uTMdMJrF) | [You & I](https://open.spotify.com/album/7uSbBFPjRdHap3xlxiroxS) | 2:39 |
 | 37 | [New Colossus](https://open.spotify.com/track/462nbWwasi5npUIeT79CIx) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Grenades](https://open.spotify.com/album/6Nqb3BPmH4xpzjqJs14W8a) | 4:26 |
 | 38 | [Mind on Fire](https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 3:14 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvfORzIlDQm.md) - [plain]
 | 53 | [Woodstock](https://open.spotify.com/track/1cXOxrN1qDxgjDvqcJANKc) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Woodstock](https://open.spotify.com/album/6S2lVoBmDELDPVgMtETs1I) | 5:07 |
 | 54 | [Give The People What They Want](https://open.spotify.com/track/5GSVH5qhutFR5k95UMqzTg) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Give The People What They Want](https://open.spotify.com/album/3bKA19kc24Ro0wtEO0IlCg) | 3:45 |
 
-Snapshot ID: `MCw5NzY2MTIzNWFkMjdiZmI3YTA0MDI1MGI0ZDFlNDkzNTQzMmIwM2Y4`
+Snapshot ID: `MCw3ZDUyZDhhZDdhMmM2NjVmMjAwZjU3ZTRlYjdjNGM1YmFkZDkwZGQx`

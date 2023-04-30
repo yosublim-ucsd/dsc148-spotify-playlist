@@ -1,12 +1,12 @@
 {
   "description": "Classics like In Da Club",
-  "num_followers": 131819,
+  "num_followers": 132221,
   "original_name": "Hip-Hop Classics Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDIxZDg3ODE2ZDQxOTJkOWU0Y2NjYTMyNWEwMzM2ZGQyYWFmNDVj",
+  "snapshot_id": "MCwzMWY4OWE3MzNiNTIyMWUyM2UwZmJiMjk1MmIzYjk2YjMwZjI5ZDcz",
   "tracks": [
     {
       "added_at": "2023-03-07 08:01:20",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
+        "name": "19NaughtyIII",
+        "url": "https://open.spotify.com/album/1APlzmzWwXz3ElpmdWF5KA"
+      },
+      "artists": [
+        {
+          "name": "Naughty By Nature",
+          "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
+        }
+      ],
+      "duration_ms": 267266,
+      "name": "Hip Hop Hooray",
+      "url": "https://open.spotify.com/track/1SyQ6t9RdRBK0QUCS6a797"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
         "name": "Snap Yo Fingers - Single",
         "url": "https://open.spotify.com/album/5ot3hAGLgvrmfZ3ddosFZf"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 274386,
       "name": "Snap Yo Fingers",
       "url": "https://open.spotify.com/track/6o3s08kk2fQI37vxGZDrJ1"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
-        "name": "19NaughtyIII",
-        "url": "https://open.spotify.com/album/1APlzmzWwXz3ElpmdWF5KA"
-      },
-      "artists": [
-        {
-          "name": "Naughty By Nature",
-          "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
-        }
-      ],
-      "duration_ms": 267266,
-      "name": "Hip Hop Hooray",
-      "url": "https://open.spotify.com/track/1SyQ6t9RdRBK0QUCS6a797"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -1047,22 +1047,18 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Phrenology",
-        "url": "https://open.spotify.com/album/01FOonRYntwISzaCSa7S7p"
+        "name": "Country Grammar",
+        "url": "https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE"
       },
       "artists": [
         {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        },
-        {
-          "name": "Cody Chesnutt",
-          "url": "https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr"
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
         }
       ],
-      "duration_ms": 267933,
-      "name": "The Seed (2.0)",
-      "url": "https://open.spotify.com/track/6HxweNytuEQdmGeVtZPZz3"
+      "duration_ms": 285906,
+      "name": "E.I.",
+      "url": "https://open.spotify.com/track/4bUfMNNmiCmPXVyWzIfKeZ"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -1087,18 +1083,22 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Country Grammar",
-        "url": "https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE"
+        "name": "Phrenology",
+        "url": "https://open.spotify.com/album/01FOonRYntwISzaCSa7S7p"
       },
       "artists": [
         {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        {
+          "name": "Cody Chesnutt",
+          "url": "https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr"
         }
       ],
-      "duration_ms": 285906,
-      "name": "E.I.",
-      "url": "https://open.spotify.com/track/4bUfMNNmiCmPXVyWzIfKeZ"
+      "duration_ms": 267933,
+      "name": "The Seed (2.0)",
+      "url": "https://open.spotify.com/track/6HxweNytuEQdmGeVtZPZz3"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -1267,6 +1267,30 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
+        "name": "At Tha Movies",
+        "url": "https://open.spotify.com/album/285aRkpYqxXPxBEGnTWZvo"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "Mack 10",
+          "url": "https://open.spotify.com/artist/3USpNaxpX1iNqNnQWqg9ob"
+        },
+        {
+          "name": "Ms. Toi",
+          "url": "https://open.spotify.com/artist/5h6zIU8cm6UzAaHsjXmNKl"
+        }
+      ],
+      "duration_ms": 259306,
+      "name": "You Can Do It",
+      "url": "https://open.spotify.com/track/1xMPwgmLHVXkIFYL0rvGiZ"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
         "name": "It's Already Written",
         "url": "https://open.spotify.com/album/5cCSKl7fCsFuNoTszec4MP"
       },
@@ -1291,30 +1315,6 @@
       "duration_ms": 236520,
       "name": "I Like That",
       "url": "https://open.spotify.com/track/4MMqj7HaLL8BphbBZnlsdq"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
-        "name": "At Tha Movies",
-        "url": "https://open.spotify.com/album/285aRkpYqxXPxBEGnTWZvo"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        },
-        {
-          "name": "Mack 10",
-          "url": "https://open.spotify.com/artist/3USpNaxpX1iNqNnQWqg9ob"
-        },
-        {
-          "name": "Ms. Toi",
-          "url": "https://open.spotify.com/artist/5h6zIU8cm6UzAaHsjXmNKl"
-        }
-      ],
-      "duration_ms": 259306,
-      "name": "You Can Do It",
-      "url": "https://open.spotify.com/track/1xMPwgmLHVXkIFYL0rvGiZ"
     },
     {
       "added_at": "2023-03-07 08:01:20",

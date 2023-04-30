@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyCx5oDZNWJ.md) - [plain]
 
 > <a href="spotify:artist:3CdsJ9u53uPu3dScKypLVv">Shkoon</a>'s favorite tracks\. Updated regularly\. Curated by Shkoon\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,174 likes - 62 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,211 likes - 62 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyCx5oDZNWJ.md) - [plain]
 | 13 | [Cog in the Wheel](https://open.spotify.com/track/3uXfYljIQAhATWWGjjCSJA) | [Baba Ali](https://open.spotify.com/artist/48US3n5ecZ1TS4RjzsdWrm) | [Nomad EP](https://open.spotify.com/album/4hmZkn8K8JoUch7jzFNjeb) | 5:19 |
 | 14 | [Corre Riba, Corre Baxo](https://open.spotify.com/track/2PSVCAtIQH4tI3fAq6VZWH) | [Abel Lima](https://open.spotify.com/artist/6IhMyPQwTBivqok4kKvMmh) | [Space Echo: The Mystery Behind the Cosmic Sound of Cabo Verde Finally Revealed! \(Analog Africa No\. 20\)](https://open.spotify.com/album/2EsNUbAePfQi6qNBjVLtfi) | 3:08 |
 | 15 | [Inner City Blues \(Make Me Wanna Holler\)](https://open.spotify.com/track/5hReWjUHqPqkHi31G7izL4) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 5:27 |
-| 16 | [Last Chance](https://open.spotify.com/track/59cz7nnzQ6roNXBEDqkMJc) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP), [The Spy From Cairo](https://open.spotify.com/artist/36C73GYwgP8rqwCjUyswoS) | [Bennu](https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo) | 2:47 |
+| 16 | [Last Chance](https://open.spotify.com/track/4rplK4ylZurvDv5plS2dVS) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP), [The Spy From Cairo](https://open.spotify.com/artist/36C73GYwgP8rqwCjUyswoS) | [Bennu](https://open.spotify.com/album/0BPzY1R6aYUNRZcE2xa1Xf) | 2:47 |
 | 17 | [Merlins Head](https://open.spotify.com/track/1xTZwX3XDsvnwk5jdDxTRB) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Juno](https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9) | 4:47 |
 | 18 | [Ayayay](https://open.spotify.com/track/358g67riH0wCKQBK9FvjjQ) | [Bratia Stereo](https://open.spotify.com/artist/5vXULjIsWNuwphRSJMXYrM), [Tony Tonite](https://open.spotify.com/artist/2DPURDst3DmK8b1AU47fFT) | [Газгольдер саундтрек](https://open.spotify.com/album/59Yeoeap2KE19ki78Ni0iE) | 3:02 |
 | 19 | [Im Spiegel ist Sonntag](https://open.spotify.com/track/1jX0EM8swI9kdNgfDxofMi) | [Kariyan](https://open.spotify.com/artist/1lzhAqKyypA3vYZ6AArD0H) | [Im Spiegel Ist Sonntag](https://open.spotify.com/album/4ODHeL6ZMvsgFGMdN7uzvM) | 5:46 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyCx5oDZNWJ.md) - [plain]
 | 61 | [Leave](https://open.spotify.com/track/2KaMBqn9UBbWkl4Ky7ORVp) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl), [Speckman](https://open.spotify.com/artist/6HMaWR5x7y2AYCWydAipj7) | [Leave](https://open.spotify.com/album/692P5jdZFc1S27zguBg5dd) | 4:30 |
 | 62 | [Herzan](https://open.spotify.com/track/3P3f5t7hVpRSX6YSX64WrV) | [Soapkills](https://open.spotify.com/artist/6PRGhDtDWSgyw60WSfna8v) | [Enta Fen](https://open.spotify.com/album/58A0G1FfTqJGig0TWUjcU3) | 3:21 |
 
-Snapshot ID: `MCxkMDFlNWMxYmUzMGJjNWE1M2E5NDRkM2ZmMzgyNDAwMmI1YTE1ZTFk`
+Snapshot ID: `MCxjNWE2ZGEzNWU4MmVmNWZlYjNmNWY4NzE2MDczY2U4NjliZWFiNmNj`

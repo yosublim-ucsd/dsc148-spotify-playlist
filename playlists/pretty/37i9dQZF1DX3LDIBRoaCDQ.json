@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
-  "num_followers": 1492492,
+  "num_followers": 1492751,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2M5ZmZkZGY5MWYwYjg0MzZmOWE2OTk3NDVhYmNhZDFiMThjZTFj",
+  "snapshot_id": "MCwwNjMwODI3ZTdhZTRiNGJlN2QwMGQwNmE3NDNmMGRhYmY1ZjgyMTcy",
   "tracks": [
     {
       "added_at": "2022-11-28 15:26:19",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Inflammable Material",
-        "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
-      },
-      "artists": [
-        {
-          "name": "Stiff Little Fingers",
-          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
-        }
-      ],
-      "duration_ms": 163880,
-      "name": "Alternative Ulster",
-      "url": "https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Damaged",
         "url": "https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 146560,
       "name": "Rise Above",
       "url": "https://open.spotify.com/track/4kFfFe38CRVnTsakUTL4E4"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Inflammable Material",
+        "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
+      },
+      "artists": [
+        {
+          "name": "Stiff Little Fingers",
+          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
+        }
+      ],
+      "duration_ms": 163880,
+      "name": "Alternative Ulster",
+      "url": "https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Pink Flag",
-        "url": "https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L"
-      },
-      "artists": [
-        {
-          "name": "Wire",
-          "url": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
-        }
-      ],
-      "duration_ms": 157360,
-      "name": "Mannequin - 2006 Remastered Version",
-      "url": "https://open.spotify.com/track/5LEwYNnwG1RSVseSmMZQpo"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Milo Goes to College",
         "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 221506,
       "name": "Personality Crisis",
       "url": "https://open.spotify.com/track/4AwKXevZmsTNa3KZVj3rzl"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Pink Flag",
+        "url": "https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L"
+      },
+      "artists": [
+        {
+          "name": "Wire",
+          "url": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+        }
+      ],
+      "duration_ms": 157360,
+      "name": "Mannequin - 2006 Remastered Version",
+      "url": "https://open.spotify.com/track/5LEwYNnwG1RSVseSmMZQpo"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Candy Apple Grey",
-        "url": "https://open.spotify.com/album/6zoU9wwvh8ETkMsWU3Mtv1"
-      },
-      "artists": [
-        {
-          "name": "H\u00fcsker D\u00fc",
-          "url": "https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10"
-        }
-      ],
-      "duration_ms": 210866,
-      "name": "Don't Want to Know If You Are Lonely",
-      "url": "https://open.spotify.com/track/4tPFEWRuNQhibDQSGB2PVE"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Milo Goes to College",
         "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 120333,
       "name": "Hope",
       "url": "https://open.spotify.com/track/5Jd6yfhjjmDxODdvYTjscz"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Candy Apple Grey",
+        "url": "https://open.spotify.com/album/6zoU9wwvh8ETkMsWU3Mtv1"
+      },
+      "artists": [
+        {
+          "name": "H\u00fcsker D\u00fc",
+          "url": "https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "Don't Want to Know If You Are Lonely",
+      "url": "https://open.spotify.com/track/4tPFEWRuNQhibDQSGB2PVE"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -983,6 +983,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Wild in the Streets",
+        "url": "https://open.spotify.com/album/1LaoxOUvYzBdQleyW03Keh"
+      },
+      "artists": [
+        {
+          "name": "Circle Jerks",
+          "url": "https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl"
+        }
+      ],
+      "duration_ms": 155693,
+      "name": "Wild in the Streets",
+      "url": "https://open.spotify.com/track/4BZLAm5rqqChHZlBlHuSMV"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Tim (Expanded)",
         "url": "https://open.spotify.com/album/47arM25GJraK9aWEk4A1Ve"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 167840,
       "name": "Blank Generation - 2013 Remaster",
       "url": "https://open.spotify.com/track/5OGfBbWmRRkDiZiJbu5WIr"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Wild in the Streets",
-        "url": "https://open.spotify.com/album/1LaoxOUvYzBdQleyW03Keh"
-      },
-      "artists": [
-        {
-          "name": "Circle Jerks",
-          "url": "https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl"
-        }
-      ],
-      "duration_ms": 155693,
-      "name": "Wild in the Streets",
-      "url": "https://open.spotify.com/track/4BZLAm5rqqChHZlBlHuSMV"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Fresh Fruit for Rotting Vegetables",
-        "url": "https://open.spotify.com/album/5cADwrInLLhrjsXSmEPE3E"
-      },
-      "artists": [
-        {
-          "name": "Dead Kennedys",
-          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
-        }
-      ],
-      "duration_ms": 277533,
-      "name": "Holiday in Cambodia",
-      "url": "https://open.spotify.com/track/6n7DUOZGILo0dU9pwjQsbA"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "A Collection of Pop Classics",
         "url": "https://open.spotify.com/album/3sLKWvosxuEgY4lHkdSDcJ"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 94440,
       "name": "No Class",
       "url": "https://open.spotify.com/track/4sw9hGICgvc4LICICNTCzI"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Fresh Fruit for Rotting Vegetables",
+        "url": "https://open.spotify.com/album/5cADwrInLLhrjsXSmEPE3E"
+      },
+      "artists": [
+        {
+          "name": "Dead Kennedys",
+          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
+        }
+      ],
+      "duration_ms": 277533,
+      "name": "Holiday in Cambodia",
+      "url": "https://open.spotify.com/track/6n7DUOZGILo0dU9pwjQsbA"
     },
     {
       "added_at": "2022-11-28 15:26:19",

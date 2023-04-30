@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: king isis
 
-889 songs - 2 day 2 hr 43 min
+890 songs - 2 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -503,7 +503,8 @@
 | [Lights](https://open.spotify.com/track/28PHxtY7jvJ8ZYOKo3ZduD) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Jet Lag](https://open.spotify.com/album/0p2x1IjzaF0tnP60Sil4wU) | 2:54 | 2022-07-15 | 2023-04-29 |
 | [Like Ice](https://open.spotify.com/track/0FxKXUc9bwE1ZUm0F3qCu8) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Like Ice](https://open.spotify.com/album/4PatIt2ver4X597Sh6YwGu) | 2:56 | 2021-03-05 | 2022-04-20 |
 | [Liminal Bliss](https://open.spotify.com/track/0FREubimbOKkZtEVbdy9f5) | [Sweetie](https://open.spotify.com/artist/2oE9iKDAQnylK5wWR5Ldcs) | [Liminal Bliss](https://open.spotify.com/album/2Re8nPKprztJvXmVCAi6gw) | 3:22 | 2023-03-10 | 2023-04-22 |
-| [Lip Service](https://open.spotify.com/track/2Jsy0chsTcykVKKs5YQIIw) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Lip Service](https://open.spotify.com/album/3C69d2fJ7OTLKytQsIyRph) | 2:53 | 2023-03-17 |  |
+| [Lip Service](https://open.spotify.com/track/2Jsy0chsTcykVKKs5YQIIw) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Lip Service](https://open.spotify.com/album/3C69d2fJ7OTLKytQsIyRph) | 2:53 | 2023-03-17 | 2023-04-30 |
+| [Lip Service](https://open.spotify.com/track/2rWPsijkCV8r3FfE3qinNJ) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Lip Service](https://open.spotify.com/album/1zbfbCs5iZhBMo2wP3L8vv) | 2:53 | 2023-03-17 |  |
 | [Little Mermaid](https://open.spotify.com/track/5SfGNQKdfASuqIurZV0DXb) | [ash tuesday](https://open.spotify.com/artist/3kEaS1rKstrWw6Zb9H5vBE) | [Little Mermaid](https://open.spotify.com/album/4a4wMP1NHc7Bv78rocACxu) | 2:59 | 2023-03-03 | 2023-04-01 |
 | [Little Things](https://open.spotify.com/track/41YZXlOIGKmaa3RJpBn2Qy) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Little Things/Sparrow](https://open.spotify.com/album/3ZftJ3ZvQf8Sas1pUVSjZU) | 5:44 | 2021-08-13 | 2022-04-29 |
 | [Lizzy](https://open.spotify.com/track/7GWGiYSGyN5CuKN0U2acXD) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Lizzy](https://open.spotify.com/album/6Y183V3T55txTmHKcjtv9N) | 3:50 | 2021-03-05 | 2022-04-15 |

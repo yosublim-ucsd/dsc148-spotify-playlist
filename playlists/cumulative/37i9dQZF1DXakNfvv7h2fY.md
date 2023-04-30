@@ -4,13 +4,14 @@
 
 > Comforting Blues to warm the soul when there’s no point going outside.
 
-109 songs - 7 hr 23 min
+110 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Man And The Blues](https://open.spotify.com/track/5vbw9boDHRHLZiv90e2ZVx) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 6:23 | 2022-05-25 |  |
 | [After You've Gone](https://open.spotify.com/track/1XvYu65mJCje87BXSRFbE8) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Dinah Washington Sings Bessie Smith](https://open.spotify.com/album/1Y8JyTROex2Hxgd3bN05PR) | 3:38 | 2022-07-28 |  |
-| [Avalon Blues](https://open.spotify.com/track/2LMHSxhp5CahCt9DJVLX0F) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Avalon Blues](https://open.spotify.com/album/5Er6ubiIavSvQNQI5cwXYm) | 4:23 | 2022-07-28 |  |
+| [Avalon Blues](https://open.spotify.com/track/2LMHSxhp5CahCt9DJVLX0F) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Avalon Blues](https://open.spotify.com/album/5Er6ubiIavSvQNQI5cwXYm) | 4:23 | 2022-07-28 | 2023-04-30 |
+| [Avalon Blues](https://open.spotify.com/track/4scvylI3GR9z1yB0DE2uKM) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [The 1928 Sessions](https://open.spotify.com/album/3hud1G2BDhrEdp88Io25r5) | 4:23 | 2023-04-28 |  |
 | [Backwater Blues \(That Mean Old Twister\)](https://open.spotify.com/track/1rq1ODqNnqhz78wCWg2obj) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Country Blues](https://open.spotify.com/album/2RhS2sXIMQcErCUZUtcDZ2) | 2:49 | 2022-07-28 |  |
 | [Bad Luck Blues](https://open.spotify.com/track/29GwrbUzG1VK0J2y1wvrT6) | [Guitar Slim](https://open.spotify.com/artist/6fxCRWTrlk6wDMM4Gn421s) | [Sufferin' Mind](https://open.spotify.com/album/5aM0AHheJ65Pdl6p0H6QD5) | 2:54 | 2022-05-25 | 2022-07-29 |
 | [Blue Monday Hangover \- Remastered](https://open.spotify.com/track/227N0C668UQBiN3T4HFzoQ) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Alligator Records 50 Years Of Genuine Houserockin' Music](https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0) | 5:34 | 2022-05-25 | 2022-07-29 |

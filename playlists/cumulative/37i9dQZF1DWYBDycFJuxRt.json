@@ -19461,6 +19461,24 @@
     },
     {
       "album": {
+        "name": "\u4fee\u7f85\u306e\u5df7",
+        "url": "https://open.spotify.com/album/4uG1jBH6NEIvVur6Ioajsz"
+      },
+      "artists": [
+        {
+          "name": "KAMI WA SAIKORO WO FURANAI",
+          "url": "https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211487,
+      "name": "\u4fee\u7f85\u306e\u5df7",
+      "url": "https://open.spotify.com/track/5wnmQXqaj5JOOHN4xGUJRy"
+    },
+    {
+      "album": {
         "name": "\u50d5\u3089\u306e\u7d14\u60c5",
         "url": "https://open.spotify.com/album/32SnAdmGCALw68HG00Gg5F"
       },

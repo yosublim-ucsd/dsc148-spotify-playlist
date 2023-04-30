@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sounds of acoustic blues and folk.",
-  "num_followers": 70471,
+  "num_followers": 70505,
   "original_name": "Rockin' Chair Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDcyNTJiNzBmNTQyYmUzZGZiN2U4YTEzZDllMGEwZGEyMTVkMzJm",
+  "snapshot_id": "MCxmM2Y2OWI5NTNlZDI1MDIwNDI4NGViNTY3MTQ4MmM0NDQzMDRiYzVm",
   "tracks": [
     {
       "added_at": "2023-04-07 00:01:00",
@@ -151,18 +151,18 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Brownie McGhee and Sonny Terry Sing",
-        "url": "https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv"
+        "name": "The Midnight Broadcast",
+        "url": "https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6"
       },
       "artists": [
         {
-          "name": "Sonny Terry and Brownie McGhee",
-          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
+          "name": "Peter Case",
+          "url": "https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Better Day",
-      "url": "https://open.spotify.com/track/4iSvnsxzZBte3qgstEd5qI"
+      "duration_ms": 214933,
+      "name": "Bumble Bee",
+      "url": "https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -183,34 +183,18 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "The Midnight Broadcast",
-        "url": "https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6"
+        "name": "Brownie McGhee and Sonny Terry Sing",
+        "url": "https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv"
       },
       "artists": [
         {
-          "name": "Peter Case",
-          "url": "https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3"
+          "name": "Sonny Terry and Brownie McGhee",
+          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
         }
       ],
-      "duration_ms": 214933,
-      "name": "Bumble Bee",
-      "url": "https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
-        "name": "Guitar Music",
-        "url": "https://open.spotify.com/album/45GOwuG1VZqnLfdvPuZ2oj"
-      },
-      "artists": [
-        {
-          "name": "Leo Kottke",
-          "url": "https://open.spotify.com/artist/6cjuHeJM6CHRUhIhApwFwx"
-        }
-      ],
-      "duration_ms": 164200,
-      "name": "Tumbling Tumbleweeds",
-      "url": "https://open.spotify.com/track/6nHsZuDMPSyRQ90gBhaXoS"
+      "duration_ms": 184000,
+      "name": "Better Day",
+      "url": "https://open.spotify.com/track/4iSvnsxzZBte3qgstEd5qI"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -227,6 +211,22 @@
       "duration_ms": 178853,
       "name": "They're Red Hot - SA.2627-1",
       "url": "https://open.spotify.com/track/4vrPulRxzgljqsYtgGQrpk"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Guitar Music",
+        "url": "https://open.spotify.com/album/45GOwuG1VZqnLfdvPuZ2oj"
+      },
+      "artists": [
+        {
+          "name": "Leo Kottke",
+          "url": "https://open.spotify.com/artist/6cjuHeJM6CHRUhIhApwFwx"
+        }
+      ],
+      "duration_ms": 164200,
+      "name": "Tumbling Tumbleweeds",
+      "url": "https://open.spotify.com/track/6nHsZuDMPSyRQ90gBhaXoS"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -341,7 +341,7 @@
       "url": "https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0"
     },
     {
-      "added_at": "2023-04-29 01:11:28",
+      "added_at": "2023-04-30 00:55:58",
       "album": {
         "name": "Blues Jumped a Rabbit",
         "url": "https://open.spotify.com/album/5cOjiagbLZqw85RJNk8lQ4"
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Fountain",
-        "url": "https://open.spotify.com/album/39Eo2Ku5MCLQbuniAYVNr5"
-      },
-      "artists": [
-        {
-          "name": "Danny Paul Grody",
-          "url": "https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx"
-        }
-      ],
-      "duration_ms": 303946,
-      "name": "Natural West",
-      "url": "https://open.spotify.com/track/6Exz9wyMliB1iC18qMsJbQ"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "In the Morning Twilight",
         "url": "https://open.spotify.com/album/3xOp11fmqGp0EBz05MPX0T"
       },
@@ -839,26 +823,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Alaska Blue",
-        "url": "https://open.spotify.com/album/06Kzl9ecftxWgV62vO4ufq"
-      },
-      "artists": [
-        {
-          "name": "Barry Mcloughlin",
-          "url": "https://open.spotify.com/artist/2QZ7RuIJkak04FNwfoUs7d"
-        },
-        {
-          "name": "Chris Kramer",
-          "url": "https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ"
-        }
-      ],
-      "duration_ms": 173688,
-      "name": "Alaska Blue",
-      "url": "https://open.spotify.com/track/4O1R9qRPlfmuOlBMsWtrIZ"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "That's All Right",
         "url": "https://open.spotify.com/album/6PlMo3BPxSJRloZBHKp2wS"
       },
@@ -875,18 +839,22 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Orange County Serenade",
-        "url": "https://open.spotify.com/album/5MX3706iqptzAKSur97vbT"
+        "name": "Alaska Blue",
+        "url": "https://open.spotify.com/album/06Kzl9ecftxWgV62vO4ufq"
       },
       "artists": [
         {
-          "name": "Daniel Bachman",
-          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+          "name": "Barry Mcloughlin",
+          "url": "https://open.spotify.com/artist/2QZ7RuIJkak04FNwfoUs7d"
+        },
+        {
+          "name": "Chris Kramer",
+          "url": "https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/1FyHEp3lOHlnSbZkENr2mq"
+      "duration_ms": 173688,
+      "name": "Alaska Blue",
+      "url": "https://open.spotify.com/track/4O1R9qRPlfmuOlBMsWtrIZ"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -939,22 +907,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "The Birdcage Sessions",
-        "url": "https://open.spotify.com/album/78bpHTxCPnACXpB3yAaj4S"
-      },
-      "artists": [
-        {
-          "name": "Eddie Martin",
-          "url": "https://open.spotify.com/artist/05QLgdfxYIzqvMNlAZ2hdU"
-        }
-      ],
-      "duration_ms": 256310,
-      "name": "Lazy Sunday",
-      "url": "https://open.spotify.com/track/5IJQrZERphRFaiwOXmEz6a"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "New Orleans Street Singer",
         "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
       },
@@ -971,8 +923,24 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Orange County Serenade",
-        "url": "https://open.spotify.com/album/5MX3706iqptzAKSur97vbT"
+        "name": "The Birdcage Sessions",
+        "url": "https://open.spotify.com/album/78bpHTxCPnACXpB3yAaj4S"
+      },
+      "artists": [
+        {
+          "name": "Eddie Martin",
+          "url": "https://open.spotify.com/artist/05QLgdfxYIzqvMNlAZ2hdU"
+        }
+      ],
+      "duration_ms": 256310,
+      "name": "Lazy Sunday",
+      "url": "https://open.spotify.com/track/5IJQrZERphRFaiwOXmEz6a"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Seven Pines",
+        "url": "https://open.spotify.com/album/6dn1vnsJx3NmheYFTjbaJV"
       },
       "artists": [
         {
@@ -980,9 +948,9 @@
           "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Orange County Serenade",
-      "url": "https://open.spotify.com/track/1c8RsqtiYSDmMDPhSrjkAS"
+      "duration_ms": 245026,
+      "name": "Long Nights I",
+      "url": "https://open.spotify.com/track/0sqPuYdMB9O4OYRuPybCsB"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1059,22 +1027,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "A Savage Life",
-        "url": "https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B"
-      },
-      "artists": [
-        {
-          "name": "Dom Martin",
-          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
-        }
-      ],
-      "duration_ms": 186591,
-      "name": "The Man From Nowhere",
-      "url": "https://open.spotify.com/track/6LAiCNbCebsCf5M8w8A2Ws"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Imaginational Anthem Vol. 5",
         "url": "https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE"
       },
@@ -1091,18 +1043,18 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Presenting Robert Nighthawk",
-        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
+        "name": "A Savage Life",
+        "url": "https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B"
       },
       "artists": [
         {
-          "name": "Robert Nighthawk",
-          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
+          "name": "Dom Martin",
+          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
         }
       ],
-      "duration_ms": 174093,
-      "name": "Friar's Point Blues",
-      "url": "https://open.spotify.com/track/3cwOZlayYhxMNQgEJEyp8r"
+      "duration_ms": 186591,
+      "name": "The Man From Nowhere",
+      "url": "https://open.spotify.com/track/6LAiCNbCebsCf5M8w8A2Ws"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1123,6 +1075,22 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
+        "name": "Presenting Robert Nighthawk",
+        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
+      },
+      "artists": [
+        {
+          "name": "Robert Nighthawk",
+          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
+        }
+      ],
+      "duration_ms": 174093,
+      "name": "Friar's Point Blues",
+      "url": "https://open.spotify.com/track/3cwOZlayYhxMNQgEJEyp8r"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
         "name": "The Blues Never End",
         "url": "https://open.spotify.com/album/43w78hH7AEQmunINV8bxw1"
       },
@@ -1139,18 +1107,18 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Seven Pines",
-        "url": "https://open.spotify.com/album/6dn1vnsJx3NmheYFTjbaJV"
+        "name": "Landscape and People",
+        "url": "https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y"
       },
       "artists": [
         {
-          "name": "Daniel Bachman",
-          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+          "name": "Nick Schillace",
+          "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
         }
       ],
-      "duration_ms": 245026,
-      "name": "Long Nights I",
-      "url": "https://open.spotify.com/track/0sqPuYdMB9O4OYRuPybCsB"
+      "duration_ms": 379453,
+      "name": "A Real State of Independence",
+      "url": "https://open.spotify.com/track/2r5Pn8ZqFTlHpVgRZg2Znj"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1235,22 +1203,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Landscape and People",
-        "url": "https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y"
-      },
-      "artists": [
-        {
-          "name": "Nick Schillace",
-          "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
-        }
-      ],
-      "duration_ms": 379453,
-      "name": "A Real State of Independence",
-      "url": "https://open.spotify.com/track/2r5Pn8ZqFTlHpVgRZg2Znj"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Golden Selection (Remastered)",
         "url": "https://open.spotify.com/album/6bXXdAzX6YF7eEmvSnraaF"
       },
@@ -1263,6 +1215,22 @@
       "duration_ms": 169214,
       "name": "She Ain't Nowhere - Remastered",
       "url": "https://open.spotify.com/track/2C0sWdXD2V6Ebbw0d5fQiS"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Landscape and People",
+        "url": "https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y"
+      },
+      "artists": [
+        {
+          "name": "Nick Schillace",
+          "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
+        }
+      ],
+      "duration_ms": 245066,
+      "name": "Long River (Allegheny)",
+      "url": "https://open.spotify.com/track/1IlKCRTZl9WhFze6Mn9uTE"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1311,6 +1279,38 @@
       "duration_ms": 316048,
       "name": "Dodge City",
       "url": "https://open.spotify.com/track/5ny1yG9VdXEa2UmfRImdjZ"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Southern Prison Blues",
+        "url": "https://open.spotify.com/album/3zphUD0wf8hzwgZ6GxeLQF"
+      },
+      "artists": [
+        {
+          "name": "Guitar Welch",
+          "url": "https://open.spotify.com/artist/5VUwLyb3FCvjVYqbcxjhRf"
+        }
+      ],
+      "duration_ms": 207640,
+      "name": "Lonesome Blues",
+      "url": "https://open.spotify.com/track/0pYI2557do9fk2PlH8JfKg"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Tell Me Pretty Baby",
+        "url": "https://open.spotify.com/album/1w5cDGWOyVFdkFi9rRLeOE"
+      },
+      "artists": [
+        {
+          "name": "Fred Davis",
+          "url": "https://open.spotify.com/artist/5OsUEYTWiNXmkKn7Sao4B1"
+        }
+      ],
+      "duration_ms": 209796,
+      "name": "Tell Me Pretty Baby",
+      "url": "https://open.spotify.com/track/6pqbK1w6kI8NPTmCldLqsR"
     }
   ],
   "unique_name": "Rockin' Chair Blues",

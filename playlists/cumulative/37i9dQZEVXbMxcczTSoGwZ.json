@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "11 kirjainta",
+        "url": "https://open.spotify.com/album/6Hi69UjE24NRFHqif8zQzb"
+      },
+      "artists": [
+        {
+          "name": "Mikko Harju",
+          "url": "https://open.spotify.com/artist/4d5lT8L9TN7RfbYCs1sa8n"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205886,
+      "name": "11 kirjainta",
+      "url": "https://open.spotify.com/track/4Ts1lldp3KDnIa0bVwxNIi"
+    },
+    {
+      "album": {
         "name": "ViO",
         "url": "https://open.spotify.com/album/1syZJ0HasgimydePATEIfx"
       },
@@ -1611,6 +1629,28 @@
     },
     {
       "album": {
+        "name": "Auto j\u00e4\u00e4 (feat. K\u00e4\u00e4rij\u00e4)",
+        "url": "https://open.spotify.com/album/68VvJB0YdL5CIwTd7c3gag"
+      },
+      "artists": [
+        {
+          "name": "Antti Tuisku",
+          "url": "https://open.spotify.com/artist/54CMkgIraCOO9pSRfPKiKt"
+        },
+        {
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172087,
+      "name": "Auto j\u00e4\u00e4 (feat. K\u00e4\u00e4rij\u00e4)",
+      "url": "https://open.spotify.com/track/3rsDUslPzGw6sGHjkM4lg2"
+    },
+    {
+      "album": {
         "name": "Avaruus",
         "url": "https://open.spotify.com/album/1Q1lbRnue3Dc6LrZ9flrPh"
       },
@@ -1626,6 +1666,36 @@
       "duration_ms": 258015,
       "name": "Avaruus",
       "url": "https://open.spotify.com/track/1pxr8ZU8xEmt6vp1JNw2bx"
+    },
+    {
+      "album": {
+        "name": "B-Day (feat. DAVI, baka\u00ae, Korelon)",
+        "url": "https://open.spotify.com/album/18YVNBColhbn73l6v7UYSG"
+      },
+      "artists": [
+        {
+          "name": "vitunleija",
+          "url": "https://open.spotify.com/artist/0nV8YXTHj3pP05WTGNBF5Z"
+        },
+        {
+          "name": "DAVI",
+          "url": "https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV"
+        },
+        {
+          "name": "baka\u00ae",
+          "url": "https://open.spotify.com/artist/2cIN5e6ouIgJiebmItnDaW"
+        },
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124376,
+      "name": "B-Day (feat. DAVI, baka\u00ae, Korelon)",
+      "url": "https://open.spotify.com/track/2QqVRDgYIZbOXCKp3qrd6m"
     },
     {
       "album": {
@@ -1796,7 +1866,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 179781,
       "name": "Baila por mi",
       "url": "https://open.spotify.com/track/1x9PfQvnZZXjPfIVxbM5wb"
@@ -2937,6 +3007,24 @@
     },
     {
       "album": {
+        "name": "Champagne sippA",
+        "url": "https://open.spotify.com/album/7igLgeq9jpr4CsUfNdoGas"
+      },
+      "artists": [
+        {
+          "name": "william",
+          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152093,
+      "name": "Champagne sippA",
+      "url": "https://open.spotify.com/track/061FQTXf0Fmprx1Jjg35B0"
+    },
+    {
+      "album": {
         "name": "ViO",
         "url": "https://open.spotify.com/album/1syZJ0HasgimydePATEIfx"
       },
@@ -3689,6 +3777,32 @@
     },
     {
       "album": {
+        "name": "Diablo (feat. Pihlaja, whereismike)",
+        "url": "https://open.spotify.com/album/6N7uWRvbi1xPqnYQR5J7O1"
+      },
+      "artists": [
+        {
+          "name": "ANI",
+          "url": "https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T"
+        },
+        {
+          "name": "whereismike",
+          "url": "https://open.spotify.com/artist/6EbpHfQA5YHcyDKT0Ghaim"
+        },
+        {
+          "name": "Pihlaja",
+          "url": "https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212755,
+      "name": "Diablo (feat. Pihlaja, whereismike)",
+      "url": "https://open.spotify.com/track/3shQm0ixgrWL70bzpsw2Fa"
+    },
+    {
+      "album": {
         "name": "Zeit",
         "url": "https://open.spotify.com/album/75OE7M0wduJyffbffehHuR"
       },
@@ -4150,7 +4264,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 268235,
       "name": "Double Fantasy (with Future)",
       "url": "https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi"
@@ -8734,7 +8848,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 187909,
       "name": "Ihana kipu",
       "url": "https://open.spotify.com/track/4EXBxZeqKIayJa65KtAwZw"
@@ -8824,7 +8938,7 @@
       ],
       "date_added": "2021-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 187652,
       "name": "Ikuinen vappu",
       "url": "https://open.spotify.com/track/4ycKgmGOtvuJZVPyvBpVVU"
@@ -10096,7 +10210,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 178337,
       "name": "Kaiken takana on b\u00e4m\u00e4",
       "url": "https://open.spotify.com/track/4NZIZeNZScnHy49x0PLNXI"
@@ -11110,7 +11224,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 204292,
       "name": "kilsoi",
       "url": "https://open.spotify.com/track/0jz7L1HGCL81c6scYojIRI"
@@ -11128,7 +11242,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 180476,
       "name": "Kiltti",
       "url": "https://open.spotify.com/track/0DpjBYC0Bb3N6nBI9A9OG6"
@@ -13197,6 +13311,24 @@
     },
     {
       "album": {
+        "name": "Los Blancos",
+        "url": "https://open.spotify.com/album/5K5AlcRaZNQKSjBdT0eGdN"
+      },
+      "artists": [
+        {
+          "name": "KERZA",
+          "url": "https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147315,
+      "name": "Los Blancos",
+      "url": "https://open.spotify.com/track/3Dm6U20G6fSOeHkySBjx1w"
+    },
+    {
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
       },
@@ -13546,6 +13678,24 @@
       "duration_ms": 205679,
       "name": "Lux \u00c6terna",
       "url": "https://open.spotify.com/track/0QfZ8OHFnFzLe66iFBww2U"
+    },
+    {
+      "album": {
+        "name": "LXS",
+        "url": "https://open.spotify.com/album/5M8pl7sBSkpHNCraV2sv2K"
+      },
+      "artists": [
+        {
+          "name": "Etta",
+          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129182,
+      "name": "LXS",
+      "url": "https://open.spotify.com/track/7AQPS6xuDuNVBdpW2fFH24"
     },
     {
       "album": {
@@ -17514,7 +17664,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 222631,
       "name": "Oo viel\u00e4 sekunnin mun",
       "url": "https://open.spotify.com/track/32yXNG1tmByrOzeXnP5K8W"
@@ -19200,7 +19350,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 210620,
       "name": "Rakkaus tappaa",
       "url": "https://open.spotify.com/track/1v0MVxPYvBYLsS6rQnV9nq"
@@ -20104,7 +20254,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 212641,
       "name": "Sata vuotta",
       "url": "https://open.spotify.com/track/1mHRqzrSR9MQaryDj6GibE"
@@ -23756,6 +23906,24 @@
       "duration_ms": 163828,
       "name": "T\u00e4hti - Vain el\u00e4m\u00e4\u00e4 - Unohtumaton ilta",
       "url": "https://open.spotify.com/track/0W42VRimyQg20c2s9WkIol"
+    },
+    {
+      "album": {
+        "name": "T\u00e4llee n\u00e4in",
+        "url": "https://open.spotify.com/album/6fXfGEUfu9NoYQSCV0Nd8Y"
+      },
+      "artists": [
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180037,
+      "name": "T\u00e4llee n\u00e4in",
+      "url": "https://open.spotify.com/track/5TclMfBUkcXEIW23ytQ3Dp"
     },
     {
       "album": {

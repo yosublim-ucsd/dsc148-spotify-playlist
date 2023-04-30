@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-101 songs - 9 hr 54 min
+102 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Fallen Enemies](https://open.spotify.com/track/5VLPGOWU3zcKbOeG0wDYEM) | [Final Request](https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x) | [Fallen Enemies EP](https://open.spotify.com/album/3DevhUgrKtw53hNSxJhgkY) | 4:19 | 2023-02-15 |  |
 | [Fold](https://open.spotify.com/track/3yaAqfGcXeC02j88iaoebG) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Fold](https://open.spotify.com/album/3xReYX6louXtp8C6Lxf8bx) | 5:35 | 2023-02-15 |  |
 | [Forms Of Love](https://open.spotify.com/track/5YUyOSNj5gmRjZQ7yZ3JTA) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Forms Of Love](https://open.spotify.com/album/59xZYca7c3Rn0IhAzEqHUg) | 6:03 | 2023-02-15 |  |
-| [Freedom \- Original Mix](https://open.spotify.com/track/55PaZ1kAp9GbEq4EKvnkjy) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl) | [fabric presents Mind Against: Exclusives](https://open.spotify.com/album/0ATO1xXlH9Y6g6TyqA46ZS) | 4:43 | 2022-10-05 |  |
+| [Freedom \- Original Mix](https://open.spotify.com/track/55PaZ1kAp9GbEq4EKvnkjy) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl) | [fabric presents Mind Against: Exclusives](https://open.spotify.com/album/0ATO1xXlH9Y6g6TyqA46ZS) | 4:43 | 2022-10-05 | 2023-04-30 |
+| [Freedom \- Original Mix](https://open.spotify.com/track/6wVaytq9Ssa01nMhKJELWO) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl) | [fabric presents Mind Against: Exclusives](https://open.spotify.com/album/4gyiwaMaa84mwDuDbTLEPi) | 4:43 | 2023-03-23 |  |
 | [Galactic Highways](https://open.spotify.com/track/6dEgGWYfEhcoHhR5zfeNN3) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Galactic Highways](https://open.spotify.com/album/3IlDESZPdk0kEjBM72O90E) | 5:57 | 2022-10-05 |  |
 | [Gamma](https://open.spotify.com/track/0oIbkBXuNKpRGrePp7cAeo) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Gamma](https://open.spotify.com/album/3Drkk9lFZi6LdgXG32kW9C) | 6:21 | 2022-10-05 |  |
 | [Home \- Mind Against Remix](https://open.spotify.com/track/0pyjqTGLsrg1r6m5YR4tuq) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD), [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Home \(Mind Against Remix\)](https://open.spotify.com/album/0UTTvSP2puk1FP4NQzWKb3) | 7:17 | 2022-10-05 |  |

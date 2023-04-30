@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 
 > Från PJ Harvey via Jenny Wilson till Amanda Bergman och Slowgold\. Här hör du några av alla kvinnor som är med och skriver indiehistoria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,652 likes - 90 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,656 likes - 90 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 18 | [Mustn't Hurry](https://open.spotify.com/track/26sRCxeINy71HF6Jxvwk9o) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Plunge](https://open.spotify.com/album/3UHMhYzYnfTBEuDxb1JmxC) | 4:17 |
 | 19 | [Cry](https://open.spotify.com/track/5VqIdl5ibhCUmv2wRfNKhS) | [Saga Back](https://open.spotify.com/artist/6FRCzy12LTGeWQs6mKfX3R) | [Cry](https://open.spotify.com/album/5wZFpbg0FfDVEU1t5uAgjD) | 4:31 |
 | 20 | [bodyache](https://open.spotify.com/track/4gWvy90PdAXgY39Z7S8zSe) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [another eternity](https://open.spotify.com/album/5ydKh3bO3jF6oZWkBrzwpn) | 2:53 |
-| 21 | [SuMmEr BrEaK](https://open.spotify.com/track/0h4e9wtvP1KK7rWP6ceZTE) | [ShitKid](https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m) | [\[DETENTION\]](https://open.spotify.com/album/3gC6SaURhsOVtsvTTlJvWE) | 2:40 |
+| 21 | [SuMmEr BrEaK](https://open.spotify.com/track/0L7XJxP7SIb8h33bBd4lQh) | [ShitKid](https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m) | [\[DETENTION\]](https://open.spotify.com/album/7HZ3NzPqlKaY0BUgh2Frch) | 2:40 |
 | 22 | [Seventeen](https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 4:25 |
 | 23 | [Kommer hända](https://open.spotify.com/track/434fDjhJpR9lTPsVeVUCYL) | [Säkert!](https://open.spotify.com/artist/6aNouxfdfQCKjiZG0LJcjx) | [Kommer hända](https://open.spotify.com/album/088wZCNH0tgX5AGQqgj4EN) | 3:02 |
 | 24 | [The Barrel \- Edit](https://open.spotify.com/track/12Yg0ccaYI9y1U9Qh5bxRV) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [The Barrel](https://open.spotify.com/album/0kLYa7ncFhiJus9oEICDgo) | 3:39 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 89 | [Du kan nu dö](https://open.spotify.com/track/4eP1Q5ushSiXAoUsffB2aj) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Singing From the Grave](https://open.spotify.com/album/4rn3FV2buJHdwnUSJlGefa) | 6:22 |
 | 90 | [play](https://open.spotify.com/track/3RHN3asE9XLDwRNGbFFqYM) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP), [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [kin](https://open.spotify.com/album/2CZP23w1EQKmz69Vte3OrL) | 5:14 |
 
-Snapshot ID: `MCxlNDhjYTczMzYyNjA1OWNlYjcwMzU0YWRhNTQ1MzQ4YTI4NTY5ZjQ5`
+Snapshot ID: `MCxhN2EyMmFjOThlMDBiOGZhMjA4MDdkMWFjMWVmZDkxYWNhMGI3YTU2`

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3UlAQex8nw3vquHcmY8fpb">Sinego's</a> favorite tracks\. Updated regularly\. Curated by Sinego\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-87 songs - 7 hr 48 min
+89 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Moonbeam, Midnight, Howl](https://open.spotify.com/track/4TGDSeSPvNW1t9lEApQOVE) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Violet Drive](https://open.spotify.com/album/21PmcwFrDQFqr2vskQgyDu) | 5:41 | 2023-03-21 |  |
 | [Mr\. Pablo](https://open.spotify.com/track/0QAmHEbmpblGCtce3GZ66j) | [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD) | [Mr\. Pablo](https://open.spotify.com/album/6lFEK4ljvF4ipdu27vNix9) | 6:29 | 2022-12-19 | 2023-03-22 |
 | [Mujer Estrella](https://open.spotify.com/track/0QOOAf1NsqXYESNxtlWedo) | [Lemurian](https://open.spotify.com/artist/4L3uym0nDz6ziBGFOmUCDu), [Bora Uzer](https://open.spotify.com/artist/71WhzQzCSYszOnrfCEbZge), [Derun](https://open.spotify.com/artist/7DaUdudIwcfgSzFJX1VEVo) | [Prophecies of the Ancient Future](https://open.spotify.com/album/1KQT7GzCu1bnpRnTPyMvbH) | 6:24 | 2023-03-21 |  |
-| [N'Dini](https://open.spotify.com/track/1O4CLsvOgIyRI7fRyn5pUJ) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Ismael Kouyaté](https://open.spotify.com/artist/38tcRQJcR8E5yGBEnPvDNM) | [Sun People](https://open.spotify.com/album/2aD0HsXgrlaQWHPPlAL8Kp) | 4:15 | 2023-03-21 |  |
+| [N'Dini](https://open.spotify.com/track/1O4CLsvOgIyRI7fRyn5pUJ) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Ismael Kouyaté](https://open.spotify.com/artist/38tcRQJcR8E5yGBEnPvDNM) | [Sun People](https://open.spotify.com/album/2aD0HsXgrlaQWHPPlAL8Kp) | 4:15 | 2023-03-21 | 2023-04-30 |
+| [N'Dini](https://open.spotify.com/track/5VbR9u3xUlkm2mcIbcpNCg) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Ismael Kouyaté](https://open.spotify.com/artist/38tcRQJcR8E5yGBEnPvDNM) | [Sun People](https://open.spotify.com/album/09RegqvWIi5mGvFnZtIoKn) | 4:15 | 2023-03-31 |  |
 | [Nemrut](https://open.spotify.com/track/29A54bY2rjNImKOxt7oKhs) | [Be Svendsen](https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru) | [Nemrut](https://open.spotify.com/album/5ePCBpdTzxDvsD0Yv7zqwJ) | 6:40 | 2022-12-19 |  |
 | [Nevada](https://open.spotify.com/track/4eP7VbswtkGd5Hlyj4E7Qx) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Late Sun](https://open.spotify.com/album/4HZ1rAyZ7KwvfnsVq5hNKD) | 6:03 | 2022-12-19 | 2023-03-22 |
 | [Notas](https://open.spotify.com/track/1w4S90DCM0Q1LPeDuJKJEb) | [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP) | [Lunatico](https://open.spotify.com/album/20xXH8hUMlSsegUKojn0qs) | 4:20 | 2023-03-21 |  |
@@ -79,7 +80,8 @@
 | [Riu \- N'Dini Mix \- Mixed](https://open.spotify.com/track/4QC1hsySlFKAApSwVmsXIF) | [Millok](https://open.spotify.com/artist/3vlPIgO2pY4Xr0NT9JViF6), [Kingja](https://open.spotify.com/artist/3D28WlYwddq9DmCxVJ3QZ0) | [Inside the Dance, Vol\. 5 \(DJ Mix\)](https://open.spotify.com/album/1IZKFtAeDnMzVLxcCvfFJs) | 3:31 | 2022-12-19 | 2023-03-22 |
 | [Romantica](https://open.spotify.com/track/62ufShoZW2aqSFgYiZOZ23) | [YannaY](https://open.spotify.com/artist/2p918NhAiz1FCmYrAaJSYu), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Romantica](https://open.spotify.com/album/7Jjlbf3GXoFDMt1vP5P5Ac) | 6:22 | 2022-12-19 | 2023-03-22 |
 | [Rough Landing](https://open.spotify.com/track/2a8xXdKnQLl0zVz7E1sMOt) | [Waldeck](https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH), [Patrizia Ferrara](https://open.spotify.com/artist/6ZkbsY4MO4EahWrRQBRKLM) | [Atlantic Ballroom](https://open.spotify.com/album/5OibdNiyEx8gxw9ASUAkwI) | 3:37 | 2023-03-21 |  |
-| [Rumbo Libre \- Randomized Coffee Remix](https://open.spotify.com/track/4UuamxyzBBsAW6Rzw4Khsg) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI), [Randomized Coffee](https://open.spotify.com/artist/7KzNtHVcFbaZoGufsX1Jj0) | [Ch'usay Remixes](https://open.spotify.com/album/1RQV9i0gRL4QhR9lcZcvLl) | 5:54 | 2023-03-21 |  |
+| [Rumbo Libre \- Randomized Coffee Remix](https://open.spotify.com/track/4UuamxyzBBsAW6Rzw4Khsg) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI), [Randomized Coffee](https://open.spotify.com/artist/7KzNtHVcFbaZoGufsX1Jj0) | [Ch'usay Remixes](https://open.spotify.com/album/1RQV9i0gRL4QhR9lcZcvLl) | 5:54 | 2023-03-21 | 2023-04-30 |
+| [Rumbo Libre \- Randomized Coffee Remix](https://open.spotify.com/track/7pHV2JLHkyHPnfDbJRlz7h) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI), [Randomized Coffee](https://open.spotify.com/artist/7KzNtHVcFbaZoGufsX1Jj0) | [Ch'usay Remixes](https://open.spotify.com/album/05NsUQd42tUf0YWSuqZW8d) | 5:54 | 2023-03-31 |  |
 | [San Paulo](https://open.spotify.com/track/4OV4S1SFMsWMoyVOWaHO73) | [DIBIDABO](https://open.spotify.com/artist/3tNW4uCLfRWi6RrqpUbNi0) | [World](https://open.spotify.com/album/0Vne1JxYj5D8OSoE3egmYr) | 7:31 | 2022-12-19 | 2023-03-22 |
 | [Saude feat\. Tibau Tavares](https://open.spotify.com/track/534p3jvNPZwflqGOlfWcp5) | [Pupkulies & Rebecca](https://open.spotify.com/artist/0LtDMZWibqA2ET2EG6ny0K), [Tibau Tavares](https://open.spotify.com/artist/68nqiiRYrs28v1JAQfM0A9) | [Wolde feat\. Tibau Tavares](https://open.spotify.com/album/7qBFOcKq8Y24W3DBIk7Ja0) | 4:35 | 2023-03-21 |  |
 | [Star Tripper](https://open.spotify.com/track/2y1VCMCb4brGaqlnH0WFH3) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Star Tripper](https://open.spotify.com/album/4acnlgRObU8twYND7ktUc3) | 4:53 | 2023-03-21 |  |

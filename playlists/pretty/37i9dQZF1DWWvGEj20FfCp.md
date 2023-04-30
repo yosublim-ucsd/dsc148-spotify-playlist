@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 
 > Where music meets fashion\. Soundtrack for designer Christopher John Rogers' Collection 012 Runway Show.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,648 likes - 58 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,673 likes - 58 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 | 15 | [I Felt Love](https://open.spotify.com/track/3m04gMIUG6HgYHn65fy5Xt) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [Under 1 House](https://open.spotify.com/album/1PkQpn0KN9pJhKfzJQejjv) | 3:12 |
 | 16 | [Strong](https://open.spotify.com/track/0d7IFDkLXrG2WhQkPYw3Ju) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Rise\)](https://open.spotify.com/album/0K8jX7CLwxJaML5iXdxveF) | 6:18 |
 | 17 | [One Month Off](https://open.spotify.com/track/40tPgr6VzfwSMwa32pvEwy) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Intimacy](https://open.spotify.com/album/0ZdR2zjN6X6Wvffw8l87yl) | 3:35 |
-| 18 | [Against The Wall](https://open.spotify.com/track/43iID9Q7eQbmi57FydN20z) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Pull My Hair Back](https://open.spotify.com/album/2WXUSNXMtf40vRnH7msFlB) | 3:11 |
+| 18 | [Against The Wall](https://open.spotify.com/track/6Ozl29DQEAVH2gPCNNsCYg) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Pull My Hair Back](https://open.spotify.com/album/6dXQYYnxSeWtp3BHDDzc0U) | 3:11 |
 | 19 | [Say the Word](https://open.spotify.com/track/3N1JkmT4XAFE3xYZTi2MhY) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Pleasure Centre](https://open.spotify.com/album/4bL8pnVu9iQILCQlK9L7V4) | 5:46 |
 | 20 | [Walk Dance Talk Sing](https://open.spotify.com/track/5TJErkXPI6J3wre7eKlfPA) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [Walk Dance Talk Sing](https://open.spotify.com/album/2xHHmfzza35KfhlgOOc3y4) | 5:41 |
 | 21 | [Paris](https://open.spotify.com/track/6d15UEB74JSsEL9frcH3UU) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Nabuma Rubberband](https://open.spotify.com/album/7cRFJj0IQqDZZ3Gm03aGbb) | 3:24 |
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 | 26 | [Antidote](https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof) | 2:49 |
 | 27 | [Ol' Dude](https://open.spotify.com/track/4LYQZVXSnW7IZYmyaW32U5) | [Shreea Kaul](https://open.spotify.com/artist/1c203LuoIFKuIn2X5Uz5lE) | [Ol' Dude](https://open.spotify.com/album/6qZ81JK9kCmzJZR0lNTjHL) | 2:57 |
 | 28 | [Shellfish Mademoiselle](https://open.spotify.com/track/62Ts4CpmdO4Zes7JBhqS4y) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Róisín Machine \(Deluxe\)](https://open.spotify.com/album/5rFrKYje9H6cmgJ8AQGQCp) | 4:17 |
-| 29 | [Why](https://open.spotify.com/track/4Vv4DkDUCgb2hmoltU585M) | [Les Sins](https://open.spotify.com/artist/4gSTRpmeyYppvIXuFKjfAL), [Nate Salman](https://open.spotify.com/artist/6p5gfZ5sZieNW2a5Dwu4Ju) | [Michael](https://open.spotify.com/album/03GECsAztMf1SnrBxMm125) | 4:03 |
+| 29 | [Why](https://open.spotify.com/track/4LnSiqxJyAVoMIBHAXDz52) | [Les Sins](https://open.spotify.com/artist/4gSTRpmeyYppvIXuFKjfAL), [Nate Salman](https://open.spotify.com/artist/6p5gfZ5sZieNW2a5Dwu4Ju) | [Michael](https://open.spotify.com/album/5939HP7YP8YQB1Duq9acIV) | 4:03 |
 | 30 | [Perfect Crime](https://open.spotify.com/track/1OjjJVKvZmtuULGQhNSA8T) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Songs For You](https://open.spotify.com/album/6WrqA9shYRYrelq2CLQf05) | 2:56 |
 | 31 | [CHANCES](https://open.spotify.com/track/439X8jGytErRiPnaoUJHju) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [NOTHIN LIKE U / CHANCES](https://open.spotify.com/album/2KVBhRpYqnjAVE4eWW3W6g) | 3:38 |
-| 32 | [Don't Leave Me Now](https://open.spotify.com/track/2jKjw8HsaYfrma8mRWqNOW) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Don't Leave Me Now](https://open.spotify.com/album/7GoEqIPUNcAnLBr066hjhN) | 2:57 |
+| 32 | [Don't Leave Me Now](https://open.spotify.com/track/1WGvNVxbI8cFRYQQt1aOJi) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Don't Leave Me Now](https://open.spotify.com/album/5YRZesyFDjPo9RUGwp2VFD) | 2:57 |
 | 33 | [Atmosphere](https://open.spotify.com/track/2SfoxWr00HN0iYpxyVDMyQ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Covers](https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq) | 3:57 |
 | 34 | [Window Shades](https://open.spotify.com/track/5qSeU9NojSgSi5cAy5Fyey) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Half Free](https://open.spotify.com/album/6J0S5axsvUCr69kYZ0GkAT) | 4:41 |
 | 35 | [Forever](https://open.spotify.com/track/6SdQARoKk1y4IVL1OeHS9d) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go](https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY) | 4:28 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 | 57 | [Impact \(feat\. Robyn & Channel Tres\)](https://open.spotify.com/track/7I1oIGR5bcMR4dBFZOtaUi) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:44 |
 | 58 | [Kyle \(i found you\)](https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kyle \(i found you\)](https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en) | 3:16 |
 
-Snapshot ID: `MCw3YzM2ZjM2Mjk5ZDA4NjQzYmFkYzBkODhkNGMzMzI3ZWZhZDlmMjZh`
+Snapshot ID: `MCw4YTA5MTBkZmZhMDhlMGFmYzVkMjc3NjU4NjhkNzllMzNlYTE2NWE2`

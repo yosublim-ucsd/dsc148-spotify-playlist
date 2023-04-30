@@ -3032,7 +3032,7 @@
     {
       "album": {
         "name": "Stay Indoors And Swim",
-        "url": "https://open.spotify.com/album/3i0YcDwepzWbSxfyYInHen"
+        "url": "https://open.spotify.com/album/3kYfOG6co0SzHNbfufdzLy"
       },
       "artists": [
         {
@@ -3043,6 +3043,24 @@
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 878000,
+      "name": "Life At The End Of The World",
+      "url": "https://open.spotify.com/track/3q8i0DiQrlWzMqCWWT3iAv"
+    },
+    {
+      "album": {
+        "name": "Stay Indoors And Swim",
+        "url": "https://open.spotify.com/album/3i0YcDwepzWbSxfyYInHen"
+      },
+      "artists": [
+        {
+          "name": "Ki Oni",
+          "url": "https://open.spotify.com/artist/26BdaSNzPM8yZZ8Baq9yH2"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 878000,
       "name": "Life At The End Of The World",
       "url": "https://open.spotify.com/track/5mYONcA7ip6iZL5513DZes"
@@ -4466,6 +4484,24 @@
     {
       "album": {
         "name": "Stay Indoors And Swim",
+        "url": "https://open.spotify.com/album/3kYfOG6co0SzHNbfufdzLy"
+      },
+      "artists": [
+        {
+          "name": "Ki Oni",
+          "url": "https://open.spotify.com/artist/26BdaSNzPM8yZZ8Baq9yH2"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 660000,
+      "name": "Riders Of The Wind",
+      "url": "https://open.spotify.com/track/4RVho0KnTR6pR6NNagUwaP"
+    },
+    {
+      "album": {
+        "name": "Stay Indoors And Swim",
         "url": "https://open.spotify.com/album/5TxLNNEaHd2eMxqgT0DRZY"
       },
       "artists": [
@@ -4494,7 +4530,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 660000,
       "name": "Riders Of The Wind",
       "url": "https://open.spotify.com/track/6Hcucgn8FRva8fsXxEhcxl"

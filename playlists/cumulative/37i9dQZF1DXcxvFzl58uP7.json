@@ -5366,7 +5366,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 201261,
       "name": "Ghost World",
       "url": "https://open.spotify.com/track/4dwxdOkBE8OBXD9E6EruGv"
@@ -10694,7 +10694,7 @@
       ],
       "date_added": "2019-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 210281,
       "name": "Puppy Dog",
       "url": "https://open.spotify.com/track/13O36COxxWjcvc9r5Zsd1P"
@@ -10968,6 +10968,24 @@
       "duration_ms": 86739,
       "name": "Romantic Lover",
       "url": "https://open.spotify.com/track/44pBlSEASFjEdU3qEHhbFs"
+    },
+    {
+      "album": {
+        "name": "rugburn",
+        "url": "https://open.spotify.com/album/63bgr5IeQqGJlZBlYpgcsW"
+      },
+      "artists": [
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139856,
+      "name": "rugburn",
+      "url": "https://open.spotify.com/track/0SzeLGLcyhzqoOANw7dRWu"
     },
     {
       "album": {
@@ -14532,7 +14550,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 192000,
       "name": "Waltzing Back",
       "url": "https://open.spotify.com/track/3Q1DprZauQyNo8KGlY8brZ"

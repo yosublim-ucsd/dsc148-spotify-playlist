@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,063 likes - 97 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,232 likes - 97 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 4 | [For Roy](https://open.spotify.com/track/10d2cJq5gUpMfJ7sO1VtIK) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [For Roy](https://open.spotify.com/album/0FAN1nY9LMj2mShCOorekg) | 3:43 |
 | 5 | [Fly Muhammed](https://open.spotify.com/track/4tacqwtjU9HBYKELJfRJrR) | [Jsoul](https://open.spotify.com/artist/2spNFooYN3fnvGVuA7TSb8) | [For the Summer](https://open.spotify.com/album/5HH3TKKy5hVmATTMMDTrbC) | 3:26 |
 | 6 | [Blue Is All That's Left](https://open.spotify.com/track/1rC3vS4WBvQ9yieSApe84K) | [Eric van der Westen](https://open.spotify.com/artist/0yaTeYrw4ULzSJjbhuRk3d) | [The Crown & Lobster Trilogy, Pt\. II: Blue Is All That's Left](https://open.spotify.com/album/1dFS8wIJxvJpFtOcLsti40) | 5:06 |
-| 7 | [Too Good](https://open.spotify.com/track/2MTe95GoaN9QjuWiud4uVx) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Too Good](https://open.spotify.com/album/5HVN2gkgSGbY91XQ1sNKab) | 3:42 |
+| 7 | [Too Good](https://open.spotify.com/track/3YZIh7XbGNwiVlUADWM8kt) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Starfruit](https://open.spotify.com/album/0GYnBGNhECdMz7cSo6fYmz) | 3:42 |
 | 8 | [What if We Stopped Paying Taxes? \- Sharon Jones and The Dap King](https://open.spotify.com/track/74Bl3upesDTzzkqRNZXAeI) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Impeach The Precedent](https://open.spotify.com/album/0p0OC8cKmADVSd3LGvxiU4) | 5:01 |
 | 9 | [The Loneliest Thing](https://open.spotify.com/track/4k5TtH1KiIh13ElOttHWg7) | [Cosma Joy](https://open.spotify.com/artist/2AqDA65BH1X8DI4LsFqiEJ) | [The Loneliest Thing](https://open.spotify.com/album/3ks4LGMZiJQJlU0my9bFfl) | 2:59 |
 | 10 | [Most Frail](https://open.spotify.com/track/7BFQCo02VhtA6XsGlBt4xF) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Most Frail](https://open.spotify.com/album/0Ie3jkL5fph5PNjnhl1UR4) | 3:31 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 96 | [Little Life](https://open.spotify.com/track/6k8Ma4BHrQhzF71ogxpKhI) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Hopscotch](https://open.spotify.com/album/3rX0StGwVF3griwE7wEdq5) | 2:59 |
 | 97 | [Kickback](https://open.spotify.com/track/0zgDfVY84eFIzgTvK9KutN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6) | 2:51 |
 
-Snapshot ID: `MCxmYTlhZTYxYWE3N2U2ZDg0OGY2YzMwOGU3NGZkODk0YmVkZGE5MzE0`
+Snapshot ID: `MCwwZTJhZDYwYmVhNzMyNzkyMWVkYzI3ODRmNmQyZmYzNWE2NGM0MTA5`

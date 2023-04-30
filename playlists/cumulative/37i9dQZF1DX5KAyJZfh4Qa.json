@@ -646,10 +646,28 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 134925,
       "name": "Greetings",
       "url": "https://open.spotify.com/track/16UutHGhIXTmBDEhBAVda4"
+    },
+    {
+      "album": {
+        "name": "Greetings / Barely",
+        "url": "https://open.spotify.com/album/2vbyKCjxxPaiGMDWGXe3IF"
+      },
+      "artists": [
+        {
+          "name": "Gulfer",
+          "url": "https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134925,
+      "name": "Greetings",
+      "url": "https://open.spotify.com/track/7u5yayMCOSG6n4XsBoAsMc"
     },
     {
       "album": {
@@ -664,10 +682,28 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 136124,
       "name": "Hangover Game",
       "url": "https://open.spotify.com/track/0KgqfFDS6vvzZ50IozlD1Y"
+    },
+    {
+      "album": {
+        "name": "Boat Songs",
+        "url": "https://open.spotify.com/album/22gbAfr4V10JH93bV7dKW0"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136124,
+      "name": "Hangover Game",
+      "url": "https://open.spotify.com/track/5I2qACyvSTaasSNaWiT90G"
     },
     {
       "album": {
@@ -1490,6 +1526,24 @@
     {
       "album": {
         "name": "In My Car",
+        "url": "https://open.spotify.com/album/7w7nkpoJyo9V8dGOYXxY4o"
+      },
+      "artists": [
+        {
+          "name": "Rat Tally",
+          "url": "https://open.spotify.com/artist/7kLaLiBdbGiIC6jYwcpZbb"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215318,
+      "name": "Spinning Wheel",
+      "url": "https://open.spotify.com/track/5lSIRNDJWXiAV1cUijH2ak"
+    },
+    {
+      "album": {
+        "name": "In My Car",
         "url": "https://open.spotify.com/album/0CT2GXBcqAfzAtMsg7WGrN"
       },
       "artists": [
@@ -1500,7 +1554,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 215318,
       "name": "Spinning Wheel",
       "url": "https://open.spotify.com/track/7lH6ykUui2IHTzPmvKoJdl"
@@ -1868,6 +1922,24 @@
     {
       "album": {
         "name": "Home, Like Noplace Is There",
+        "url": "https://open.spotify.com/album/172GEyILIzsGA8PJqrsHmL"
+      },
+      "artists": [
+        {
+          "name": "The Hotelier",
+          "url": "https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227213,
+      "name": "Your Deep Rest",
+      "url": "https://open.spotify.com/track/21ACVHZc3K9lK0zleucFaJ"
+    },
+    {
+      "album": {
+        "name": "Home, Like Noplace Is There",
         "url": "https://open.spotify.com/album/37ohOvaKOQIEkFjTWfg9Q4"
       },
       "artists": [
@@ -1878,7 +1950,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 227213,
       "name": "Your Deep Rest",
       "url": "https://open.spotify.com/track/5wwbe5wtc4pd9RDlFNXeFg"

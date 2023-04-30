@@ -4,7 +4,7 @@
 
 > A few of the influential songs that echoed from the hills of Laurel Canyon in the 60s & 70s.
 
-81 songs - 4 hr 44 min
+82 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Down by the River \- 2009 Remaster](https://open.spotify.com/track/2EFtUP7BmsjHzhQqI6A4rp) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Crazy Horse](https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3) | [Everybody Knows This Is Nowhere](https://open.spotify.com/album/70Yl2w1p00whfnC7fj94ox) | 9:18 | 2019-12-05 | 2023-02-08 |
 | [Everybody's Talkin' \- From "Midnight Cowboy"](https://open.spotify.com/track/1jcPcDu2YawPfLhwjYnqK2) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Aerial Ballet](https://open.spotify.com/album/0H3v4snD6xhworsjXndsai) | 2:43 | 2023-02-07 |  |
 | [Everybody’s Gotta Live](https://open.spotify.com/track/1Og2Qi5XwYdr0YI6rn79Zb) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Reel To Real](https://open.spotify.com/album/5fhrpFxoThV3rhboaG1PzC) | 3:24 | 2023-02-07 | 2023-04-29 |
-| [Everybody’s Gotta Live](https://open.spotify.com/track/5ZSTPkWpGLrMPRyUhc3tlG) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Reel To Real \(Deluxe Version\)](https://open.spotify.com/album/0cFWdL6nkWv8Gikq1RYS47) | 3:24 | 2023-03-09 |  |
+| [Everybody’s Gotta Live](https://open.spotify.com/track/5ZSTPkWpGLrMPRyUhc3tlG) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Reel To Real \(Deluxe Version\)](https://open.spotify.com/album/0cFWdL6nkWv8Gikq1RYS47) | 3:24 | 2023-03-09 | 2023-04-30 |
+| [Everybody’s Gotta Live](https://open.spotify.com/track/6fBPZBMT8pokhb7dH7Wizn) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Reel To Real](https://open.spotify.com/album/43rAJMh5HNFHLDOsWAWQAE) | 3:24 | 2023-03-09 |  |
 | [Fire and Rain](https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James](https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ) | 3:20 | 2019-12-05 | 2022-07-29 |
 | [Fire and Rain](https://open.spotify.com/track/6zgeog6feHU0gpFeG8UbGa) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Calming Ballads](https://open.spotify.com/album/4nGVLxjxJZcgw5f6I4hqi0) | 3:20 | 2019-12-05 | 2022-11-14 |
 | [Fire and Rain \- 2019 Remaster](https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 3:23 | 2019-12-05 |  |

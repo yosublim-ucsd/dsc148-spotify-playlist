@@ -4,7 +4,7 @@
 
 > A collection of classics from the height of the folk revival to the rise of the folk rock era\. Cover: Bob Dylan
 
-179 songs - 11 hr 24 min
+180 songs - 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Angel from Montgomery](https://open.spotify.com/track/2qWKpYIleSvBT6aUMXoia5) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [John Prine](https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp) | 3:44 | 2021-08-18 |  |
 | [At Seventeen \- Remastered](https://open.spotify.com/track/7wJpqjqk8QbHpCakY1ZacY) | [Janis Ian](https://open.spotify.com/artist/5c9uFWpZY2MTlk7Rft0tgp) | [Between the Lines \(Remastered\)](https://open.spotify.com/album/6RjDm4cjV3MFndKrpLUxpO) | 4:43 | 2021-08-18 |  |
 | [Big Yellow Taxi](https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 2:14 | 2021-08-18 |  |
-| [Black Irish Indian](https://open.spotify.com/track/1xfRPtwYl8Na8WRzTQI9rd) | [Cherokee Rose](https://open.spotify.com/artist/2Z9gor60OjbfpDEiFMIcOI) | [Buckskin](https://open.spotify.com/album/1c63m1ZcW5S40hLDWiObqf) | 3:17 | 2022-03-11 |  |
+| [Black Irish Indian](https://open.spotify.com/track/1xfRPtwYl8Na8WRzTQI9rd) | [Cherokee Rose](https://open.spotify.com/artist/2Z9gor60OjbfpDEiFMIcOI) | [Buckskin](https://open.spotify.com/album/1c63m1ZcW5S40hLDWiObqf) | 3:17 | 2022-03-11 | 2023-04-30 |
+| [Black Irish Indian](https://open.spotify.com/track/6cdvmaxNwuKt7NFiJB4lN0) | [Cherokee Rose](https://open.spotify.com/artist/2Z9gor60OjbfpDEiFMIcOI) | [Buckskin](https://open.spotify.com/album/7qX6BmDAWMZFhJfttYQp0N) | 3:17 | 2023-04-14 |  |
 | [Blowin' in the Wind](https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 2:45 | 2021-08-18 |  |
 | [Both Sides Now](https://open.spotify.com/track/2xLU9wcdlFtuCIUDn05d2p) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [The Very Best Of Judy Collins](https://open.spotify.com/album/2ey4NEI46WsFWtlyy2fglR) | 3:15 | 2021-08-18 |  |
 | [Bridge Over Troubled Water](https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 4:53 | 2021-08-18 |  |

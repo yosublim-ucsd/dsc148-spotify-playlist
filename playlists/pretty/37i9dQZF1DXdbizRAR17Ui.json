@@ -1,12 +1,12 @@
 {
   "description": "When the night isn't over just yet.",
-  "num_followers": 157900,
+  "num_followers": 157957,
   "original_name": "4AM Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTMzMDRlNzFiMjAwYWRhM2MyNzJmNjdjMWNlN2Y5ZTZlZGYyZGRi",
+  "snapshot_id": "MCxmMDE3YjgxZGFmYTliYzJlNTZlOTExZDA3ZTEwMzNmZjM4ZGFiZmY3",
   "tracks": [
     {
       "added_at": "2023-01-09 10:53:54",
@@ -803,38 +803,6 @@
     {
       "added_at": "2023-01-09 10:53:54",
       "album": {
-        "name": "Rosewood",
-        "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 242773,
-      "name": "Rosewood",
-      "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
-    },
-    {
-      "added_at": "2023-01-09 10:53:54",
-      "album": {
-        "name": "Isles",
-        "url": "https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9"
-      },
-      "artists": [
-        {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 200240,
-      "name": "Lido",
-      "url": "https://open.spotify.com/track/0HZtVLVL6oLU9WobKQxqGu"
-    },
-    {
-      "added_at": "2023-01-09 10:53:54",
-      "album": {
         "name": "Sounds of My World",
         "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
       },
@@ -859,22 +827,54 @@
     {
       "added_at": "2023-01-09 10:53:54",
       "album": {
-        "name": "No Goodbye",
-        "url": "https://open.spotify.com/album/1w0QlUchdZEiY6NYIrmJf2"
+        "name": "Isles",
+        "url": "https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9"
       },
       "artists": [
         {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        },
-        {
-          "name": "Fejk\u00e1",
-          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
         }
       ],
-      "duration_ms": 252000,
-      "name": "No Goodbye",
-      "url": "https://open.spotify.com/track/3hSWPdtI58IANIOhulRR7v"
+      "duration_ms": 200240,
+      "name": "Lido",
+      "url": "https://open.spotify.com/track/0HZtVLVL6oLU9WobKQxqGu"
+    },
+    {
+      "added_at": "2023-01-09 10:53:54",
+      "album": {
+        "name": "Rosewood",
+        "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 242773,
+      "name": "Rosewood",
+      "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
+    },
+    {
+      "added_at": "2023-01-09 10:53:54",
+      "album": {
+        "name": "Roll Back",
+        "url": "https://open.spotify.com/album/5b6TuPfFvUpIllFHZgCUy2"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        },
+        {
+          "name": "Lil Silva",
+          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
+        }
+      ],
+      "duration_ms": 184989,
+      "name": "Roll Back - Single Mix",
+      "url": "https://open.spotify.com/track/7ko64FZgc63TnZuYhusU21"
     }
   ],
   "unique_name": "4AM Chillout",

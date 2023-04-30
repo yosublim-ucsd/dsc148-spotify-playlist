@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauMQRH2JBCJ.md) - [plain]
 
 > All your favorite Disney songs wrapped up with love!
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,918 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,166 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauMQRH2JBCJ.md) - [plain]
 | 30 | [That's How You Know \- From "Enchanted"/Soundtrack Version](https://open.spotify.com/track/1OzSfjFW08DTD51XoNnog7) | [Amy Adams](https://open.spotify.com/artist/1gkcZQArk5rV8uBwG8y5FX) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 3:48 |
 | 31 | [Remember Me \(Dúo\)](https://open.spotify.com/track/48HBOFsmgIZI5GR3VnIzWL) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Coco \(Banda Sonora Original en Español\)](https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI) | 2:44 |
 | 32 | [Happily Ever After \- Full Version](https://open.spotify.com/track/2DMgt7RVEBD0Likx7GGHqg) | [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2), [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Happily Ever After \(Full Version\)](https://open.spotify.com/album/5G6LlLP5I8HvrWYzXPdQUY) | 3:58 |
-| 33 | [La vie en rose \- Single Version](https://open.spotify.com/track/3yYfoYGVpriV4fG9L1ogsD) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Highlights From His Decca Years](https://open.spotify.com/album/0OdoPgKwi6l3paYTSFAWkS) | 3:26 |
+| 33 | [La vie en rose \- Single Version](https://open.spotify.com/track/0zDVclPMSsjeyvbnqhWOmt) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Satchmo Serenades](https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc) | 3:23 |
 | 34 | [Some Things Never Change](https://open.spotify.com/track/4Xbotg4PCLJw9cDx2dtZLK) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY), [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB), [Cast of Frozen 2](https://open.spotify.com/artist/0PYSU1xJn8ay3ckZYsumdH) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:29 |
 | 35 | [Main Title \(Bella Notte\)/The Wag of a Dog's Tail \- From "Lady and the Tramp"/Soundtrack Version](https://open.spotify.com/track/3GQVrowpcnIFN2yStc1DGl) | [Disney Studio Chorus](https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW), [Oliver Wallace](https://open.spotify.com/artist/497FibW7265st1H0UfpGb2) | [Lady and the Tramp](https://open.spotify.com/album/5lUCB0rKp3TTIongCN7gvk) | 2:03 |
 | 36 | [One Dance](https://open.spotify.com/track/42zb6hCYgTYTf1HdnbaAw6) | [Jodi Benson](https://open.spotify.com/artist/4mmMtabvFCKA6HfmVmitNH) | [The Little Mermaid and Friends](https://open.spotify.com/album/6Q8aIHoyy6CfI8iAm91olg) | 3:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauMQRH2JBCJ.md) - [plain]
 | 74 | [Be Our Guest](https://open.spotify.com/track/18ZancOCnfubiRvcAx9kxe) | [Martin Short](https://open.spotify.com/artist/0dV9xcjrW5YwkxG3gEBhRx), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [David Alan Grier](https://open.spotify.com/artist/5aDJFTPB7JCC9T785IH2Fy) | [Beauty and the Beast: A 30th Celebration \(Original Soundtrack\)](https://open.spotify.com/album/3KTw339NIoDSmkjvbxzA2N) | 3:52 |
 | 75 | [In a Heartbeat](https://open.spotify.com/track/50aQzxo1D1emR771D3qxgc) | [Frankie Rodriguez](https://open.spotify.com/artist/4c1j4vQueDvjOFPNr2aJ2e), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [High School Musical: The Musical: The Series \(Original Soundtrack/Season 2\)](https://open.spotify.com/album/5j8ccf2ePPuzngz8j1xcVM) | 3:01 |
 
-Snapshot ID: `MCxlM2I5YTc4N2I0NzA0YTY4NzdjOThiZDVkNGI5Njc2OTVkYTZjODg1`
+Snapshot ID: `MCwyZTc1ZTNmNjJlNzJlYzMxMTZkNThmMDdmNGZhYWYwNGJmMWM1ZGJj`

@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar. Foto: Kennto, YoungJhow, JoyFull",
-  "num_followers": 100035,
+  "num_followers": 100112,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWJhY2IyZDVlYjdkMmY2NWI1ZDJjNmM3NjU2MzA0Y2U5NjMyZTZi",
+  "snapshot_id": "MCxkOGM4YjA2ODc1MmVjNDY2ZTE0YzEwZmI1NTBhMmM5NDM2YmYyMzAy",
   "tracks": [
     {
       "added_at": "2023-04-28 19:11:20",
@@ -563,30 +563,6 @@
     {
       "added_at": "2023-04-28 19:11:20",
       "album": {
-        "name": "Eu Confio Em Ti (Remix)",
-        "url": "https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN"
-      },
-      "artists": [
-        {
-          "name": "Duda Santos Oficial",
-          "url": "https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG"
-        },
-        {
-          "name": "Leandro Alencar",
-          "url": "https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x"
-        },
-        {
-          "name": "MAYK",
-          "url": "https://open.spotify.com/artist/0gKlPBIE3CyZgz8m7C5RBa"
-        }
-      ],
-      "duration_ms": 235468,
-      "name": "Eu Confio Em Ti - Remix",
-      "url": "https://open.spotify.com/track/6hEX6wvD3uMUHxAOifSKn1"
-    },
-    {
-      "added_at": "2023-04-28 19:11:20",
-      "album": {
         "name": "Like Water",
         "url": "https://open.spotify.com/album/1DMZYsA8AHrJuBJRIQF4ih"
       },
@@ -607,6 +583,30 @@
       "duration_ms": 161219,
       "name": "Like Water",
       "url": "https://open.spotify.com/track/6LUfGFrjUQSu0hrEKZvQRf"
+    },
+    {
+      "added_at": "2023-04-28 19:11:20",
+      "album": {
+        "name": "Eu Confio Em Ti (Remix)",
+        "url": "https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN"
+      },
+      "artists": [
+        {
+          "name": "Duda Santos Oficial",
+          "url": "https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG"
+        },
+        {
+          "name": "Leandro Alencar",
+          "url": "https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x"
+        },
+        {
+          "name": "MAYK",
+          "url": "https://open.spotify.com/artist/0gKlPBIE3CyZgz8m7C5RBa"
+        }
+      ],
+      "duration_ms": 235468,
+      "name": "Eu Confio Em Ti - Remix",
+      "url": "https://open.spotify.com/track/6hEX6wvD3uMUHxAOifSKn1"
     },
     {
       "added_at": "2023-04-28 19:11:20",
@@ -743,6 +743,30 @@
     {
       "added_at": "2023-04-28 19:11:20",
       "album": {
+        "name": "N\u00e3o Sou Merecedor",
+        "url": "https://open.spotify.com/album/0sG4KwG7HjTesGVUru3e89"
+      },
+      "artists": [
+        {
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+        },
+        {
+          "name": "JoyFull",
+          "url": "https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5"
+        },
+        {
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "N\u00e3o Sou Merecedor",
+      "url": "https://open.spotify.com/track/5GLTe6ncigoJa27GvOzV4F"
+    },
+    {
+      "added_at": "2023-04-28 19:11:20",
+      "album": {
         "name": "Controle",
         "url": "https://open.spotify.com/album/7yIjFPYmKWBQFjjGEP9BKx"
       },
@@ -779,26 +803,6 @@
       "duration_ms": 184320,
       "name": "N\u00e3o Me Deixar\u00e1s",
       "url": "https://open.spotify.com/track/4BnHVJFmhBPsqvikmIJk4T"
-    },
-    {
-      "added_at": "2023-04-28 19:11:20",
-      "album": {
-        "name": "Rei da Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/2heT6GWNukPP4N4a018tx9"
-      },
-      "artists": [
-        {
-          "name": "Dj Roony Moura",
-          "url": "https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL"
-        },
-        {
-          "name": "Fabio Martin",
-          "url": "https://open.spotify.com/artist/1t9PgXlq6ngWDDjSjB1m7E"
-        }
-      ],
-      "duration_ms": 266797,
-      "name": "Rei da Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/0gGIsVwsGE60up8j7srjIj"
     },
     {
       "added_at": "2023-04-28 19:11:20",
@@ -895,8 +899,8 @@
     {
       "added_at": "2023-04-28 19:11:20",
       "album": {
-        "name": "N\u00e3o Sou Merecedor",
-        "url": "https://open.spotify.com/album/0sG4KwG7HjTesGVUru3e89"
+        "name": "J\u00e1 N\u00e3o Vivo Eu: Remixes",
+        "url": "https://open.spotify.com/album/4d7OitGdG363rNRA0VkBpl"
       },
       "artists": [
         {
@@ -904,17 +908,37 @@
           "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
         },
         {
-          "name": "JoyFull",
-          "url": "https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5"
+          "name": "Diego Albuquerque",
+          "url": "https://open.spotify.com/artist/6izE6zvZ9ZiuVYjM2UaPyE"
         },
         {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
         }
       ],
-      "duration_ms": 147840,
-      "name": "N\u00e3o Sou Merecedor",
-      "url": "https://open.spotify.com/track/5GLTe6ncigoJa27GvOzV4F"
+      "duration_ms": 215625,
+      "name": "J\u00e1 N\u00e3o Vivo Eu - Michaell D Remix",
+      "url": "https://open.spotify.com/track/2g6Ua888bM07qMQ5bVm392"
+    },
+    {
+      "added_at": "2023-04-28 19:11:20",
+      "album": {
+        "name": "Rei da Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/2heT6GWNukPP4N4a018tx9"
+      },
+      "artists": [
+        {
+          "name": "Dj Roony Moura",
+          "url": "https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL"
+        },
+        {
+          "name": "Fabio Martin",
+          "url": "https://open.spotify.com/artist/1t9PgXlq6ngWDDjSjB1m7E"
+        }
+      ],
+      "duration_ms": 266797,
+      "name": "Rei da Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/0gGIsVwsGE60up8j7srjIj"
     },
     {
       "added_at": "2023-04-28 19:11:20",
@@ -1051,30 +1075,6 @@
     {
       "added_at": "2023-04-28 19:11:20",
       "album": {
-        "name": "J\u00e1 N\u00e3o Vivo Eu: Remixes",
-        "url": "https://open.spotify.com/album/4d7OitGdG363rNRA0VkBpl"
-      },
-      "artists": [
-        {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
-        },
-        {
-          "name": "Diego Albuquerque",
-          "url": "https://open.spotify.com/artist/6izE6zvZ9ZiuVYjM2UaPyE"
-        },
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        }
-      ],
-      "duration_ms": 215625,
-      "name": "J\u00e1 N\u00e3o Vivo Eu - Michaell D Remix",
-      "url": "https://open.spotify.com/track/2g6Ua888bM07qMQ5bVm392"
-    },
-    {
-      "added_at": "2023-04-28 19:11:20",
-      "album": {
         "name": "A Sua Chance",
         "url": "https://open.spotify.com/album/3Mx7c1qi99FGGlTjEFW2dY"
       },
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2023-04-28 19:11:20",
       "album": {
-        "name": "Impar\u00e1vel",
-        "url": "https://open.spotify.com/album/7sYy4zBX7EUhGNbn9AfxF4"
-      },
-      "artists": [
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        },
-        {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
-        }
-      ],
-      "duration_ms": 204761,
-      "name": "Impar\u00e1vel",
-      "url": "https://open.spotify.com/track/3NxAIuH9Wz0HBEp7uJMVuN"
-    },
-    {
-      "added_at": "2023-04-28 19:11:20",
-      "album": {
         "name": "O Seu Amor \u00c9 (Remix)",
         "url": "https://open.spotify.com/album/1OBk6ijpYUJliwkNN9lEvw"
       },
@@ -1183,6 +1163,26 @@
     {
       "added_at": "2023-04-28 19:11:20",
       "album": {
+        "name": "Impar\u00e1vel",
+        "url": "https://open.spotify.com/album/7sYy4zBX7EUhGNbn9AfxF4"
+      },
+      "artists": [
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+        }
+      ],
+      "duration_ms": 204761,
+      "name": "Impar\u00e1vel",
+      "url": "https://open.spotify.com/track/3NxAIuH9Wz0HBEp7uJMVuN"
+    },
+    {
+      "added_at": "2023-04-28 19:11:20",
+      "album": {
         "name": "Sobre Todo Nome",
         "url": "https://open.spotify.com/album/0IN2rCcGJsnjar5072ylVh"
       },
@@ -1195,22 +1195,6 @@
       "duration_ms": 151330,
       "name": "Sobre Todo Nome",
       "url": "https://open.spotify.com/track/392NrPdV17IuOG8YDvgPKj"
-    },
-    {
-      "added_at": "2023-04-28 19:11:20",
-      "album": {
-        "name": "Tomado",
-        "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
-      },
-      "artists": [
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        }
-      ],
-      "duration_ms": 236792,
-      "name": "Tomado",
-      "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
     },
     {
       "added_at": "2023-04-28 19:11:20",
@@ -1239,6 +1223,22 @@
       "duration_ms": 228480,
       "name": "Madrugada",
       "url": "https://open.spotify.com/track/2sTbqDYPzPmg7KeOmTpq9D"
+    },
+    {
+      "added_at": "2023-04-28 19:11:20",
+      "album": {
+        "name": "Tomado",
+        "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
+      },
+      "artists": [
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        }
+      ],
+      "duration_ms": 236792,
+      "name": "Tomado",
+      "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
     },
     {
       "added_at": "2023-04-28 19:11:20",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-04-28 19:11:20",
       "album": {
-        "name": "Caminho Seguro",
-        "url": "https://open.spotify.com/album/3AFUdyo8FTDOR4UmqhXDox"
-      },
-      "artists": [
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Caminho Seguro",
-      "url": "https://open.spotify.com/track/208xJZj1goWDxmjqgL5FWc"
-    },
-    {
-      "added_at": "2023-04-28 19:11:20",
-      "album": {
         "name": "Encontrar",
         "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 212571,
       "name": "Recome\u00e7o",
       "url": "https://open.spotify.com/track/2PeDhCI7UbV8bDBcHNj3dG"
+    },
+    {
+      "added_at": "2023-04-28 19:11:20",
+      "album": {
+        "name": "Caminho Seguro",
+        "url": "https://open.spotify.com/album/3AFUdyo8FTDOR4UmqhXDox"
+      },
+      "artists": [
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Caminho Seguro",
+      "url": "https://open.spotify.com/track/208xJZj1goWDxmjqgL5FWc"
     },
     {
       "added_at": "2023-04-28 19:11:20",
@@ -1393,7 +1393,7 @@
         }
       ],
       "duration_ms": 190384,
-      "name": "Hora de Louvar",
+      "name": "Hora de Adorar",
       "url": "https://open.spotify.com/track/6Klwfr1Bq30suJCpGD0WBt"
     },
     {

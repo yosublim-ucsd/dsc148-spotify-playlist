@@ -3072,10 +3072,28 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 222626,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/2MTe95GoaN9QjuWiud4uVx"
+    },
+    {
+      "album": {
+        "name": "Starfruit",
+        "url": "https://open.spotify.com/album/0GYnBGNhECdMz7cSo6fYmz"
+      },
+      "artists": [
+        {
+          "name": "Moonchild",
+          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222626,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/3YZIh7XbGNwiVlUADWM8kt"
     },
     {
       "album": {

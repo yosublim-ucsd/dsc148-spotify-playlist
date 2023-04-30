@@ -3438,10 +3438,44 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 280795,
       "name": "Oozing",
       "url": "https://open.spotify.com/track/6xKoMynnenKx4iYNYWohj9"
+    },
+    {
+      "album": {
+        "name": "Oozing",
+        "url": "https://open.spotify.com/album/1qYiorYpWx4macFmQ2bj0f"
+      },
+      "artists": [
+        {
+          "name": "Amir Bresler",
+          "url": "https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1"
+        },
+        {
+          "name": "Nomok",
+          "url": "https://open.spotify.com/artist/2a24cfhTFjaIUk1AoYLfN3"
+        },
+        {
+          "name": "Nitai Hershkovits",
+          "url": "https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN"
+        },
+        {
+          "name": "Uzi Ramirez",
+          "url": "https://open.spotify.com/artist/3lTo1RLFeLDQeytnn94IUm"
+        },
+        {
+          "name": "Ofri Nehemya",
+          "url": "https://open.spotify.com/artist/4OEpOrFsl6bCoXEPbF0rYX"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280795,
+      "name": "Oozing",
+      "url": "https://open.spotify.com/track/72FdNmSimeEJrUKE9l9iUH"
     },
     {
       "album": {
@@ -3682,10 +3716,32 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 317000,
       "name": "Poignant Pelican",
       "url": "https://open.spotify.com/track/34gehm6RkffvxOQFYSOdqg"
+    },
+    {
+      "album": {
+        "name": "Took A Second",
+        "url": "https://open.spotify.com/album/03A32BylFfpvDVvAi02KgT"
+      },
+      "artists": [
+        {
+          "name": "Liquid Saloon",
+          "url": "https://open.spotify.com/artist/3BNFABSmkMPrS0H2oKZm2G"
+        },
+        {
+          "name": "Roi Avivi",
+          "url": "https://open.spotify.com/artist/7ATBMWBycBfPqBtrgxeWpT"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317000,
+      "name": "Poignant Pelican",
+      "url": "https://open.spotify.com/track/4WalV8X8XtEx8qlBi1nxxn"
     },
     {
       "album": {
@@ -4446,12 +4502,12 @@
           "url": "https://open.spotify.com/artist/00uSjAOZMB626Y0W2ij3Md"
         },
         {
-          "name": "Delvon Lamarr",
-          "url": "https://open.spotify.com/artist/02eerWTQGpKteeEReGfGXR"
-        },
-        {
           "name": "Grant Schroff",
           "url": "https://open.spotify.com/artist/5uxQLRiqpsaOO2WYT85Fii"
+        },
+        {
+          "name": "Delvon Lamarr",
+          "url": "https://open.spotify.com/artist/02eerWTQGpKteeEReGfGXR"
         }
       ],
       "date_added": "2023-03-31",
@@ -5447,6 +5503,32 @@
     },
     {
       "album": {
+        "name": "Jean Carne JID012",
+        "url": "https://open.spotify.com/album/1IY22zx4gS8CSgKMq1sLao"
+      },
+      "artists": [
+        {
+          "name": "Jean Carn",
+          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "The Summertime",
+      "url": "https://open.spotify.com/track/3kL0QOWK3Xxnz7S7jryEtM"
+    },
+    {
+      "album": {
         "name": "The Summertime",
         "url": "https://open.spotify.com/album/0BFeUVULFUJYgxLnOkY0ly"
       },
@@ -5466,7 +5548,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 175200,
       "name": "The Summertime",
       "url": "https://open.spotify.com/track/7CvibeML5CjDjy0sZyiB2u"
@@ -6016,6 +6098,24 @@
     {
       "album": {
         "name": "Could We Be More",
+        "url": "https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338506,
+      "name": "War Dance",
+      "url": "https://open.spotify.com/track/2tEEhDH6gxSAAzj0aJzpWO"
+    },
+    {
+      "album": {
+        "name": "Could We Be More",
         "url": "https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ"
       },
       "artists": [
@@ -6026,7 +6126,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 338506,
       "name": "War Dance",
       "url": "https://open.spotify.com/track/3b86b9BbVcFY307DXiiaP8"
@@ -6102,7 +6202,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 311213,
       "name": "We Like It",
       "url": "https://open.spotify.com/track/0Tj9JYrmG5BsUGQQpEVfmA"
@@ -6124,6 +6224,24 @@
       "duration_ms": 311213,
       "name": "We Like It",
       "url": "https://open.spotify.com/track/5YMKZTKqRsivCEeZrwFOdq"
+    },
+    {
+      "album": {
+        "name": "Aspects",
+        "url": "https://open.spotify.com/album/7IURTlkQKbyrNsyYEQ1gY5"
+      },
+      "artists": [
+        {
+          "name": "STR4TA",
+          "url": "https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311213,
+      "name": "We Like It",
+      "url": "https://open.spotify.com/track/6Z69u434EzVPJ570SYeQDf"
     },
     {
       "album": {

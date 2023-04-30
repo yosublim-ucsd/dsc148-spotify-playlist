@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 704 likes - 50 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 753 likes - 50 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 49 | [Afro Praise 3](https://open.spotify.com/track/319HK6tHJu3zAzUGS7nxAK) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Colours of Africa: Live in London](https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd) | 5:42 |
 | 50 | [Praise Medley \(Live\)](https://open.spotify.com/track/4YwXRiyHF5sXxFhrjKqXSb) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW), [Ohemaa Mercy](https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s) | [Better Me](https://open.spotify.com/album/1Ry5NqQ2mLK26TRq23B3So) | 9:09 |
 
-Snapshot ID: `MCwzZDQ0NTRjNGU3NWVhMzFlMjg3OTAzYTJiYzE0YWIwYzM3MDYwZWY2`
+Snapshot ID: `MCxkMzk3OWNjZjk5OTAwY2FhMTVlZTZiNzlhMDRlY2YwNDk5NzQyN2Q2`

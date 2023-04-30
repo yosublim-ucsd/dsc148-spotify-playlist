@@ -4,7 +4,7 @@
 
 > Chaos in electronic form.
 
-179 songs - 12 hr 16 min
+180 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Nautilus](https://open.spotify.com/track/02D9sL3OrcjzZK6DBvxhbO) | [CYPHR](https://open.spotify.com/artist/0w64eqaKLvU7Q4pZooNz6P) | [Nautilus](https://open.spotify.com/album/0pMMPFrNgfninWpkmk8auq) | 4:06 | 2021-10-06 | 2023-04-16 |
 | [Nautilus](https://open.spotify.com/track/2bpaN47ADM6pnjABmNlCTv) | [CYPHR](https://open.spotify.com/artist/0w64eqaKLvU7Q4pZooNz6P) | [Nautilus](https://open.spotify.com/album/3SL6j1pMNTYmom8BT1y4Nx) | 4:06 | 2021-10-06 | 2022-07-29 |
 | [New Planet](https://open.spotify.com/track/1dc9jGDbgqdFo0m0onh7gi) | [Ford & Lopatin](https://open.spotify.com/artist/3eTOYD8UyQa3MalrtkyKha) | [Channel Pressure](https://open.spotify.com/album/6Lemct6qvXXqcKqFPeThF3) | 3:22 | 2021-10-06 | 2022-07-29 |
-| [New Planet](https://open.spotify.com/track/73ftARNcKnSjzzCodbBwWq) | [Ford & Lopatin](https://open.spotify.com/artist/3eTOYD8UyQa3MalrtkyKha) | [Channel Pressure](https://open.spotify.com/album/0tW5rBMpINfekEGbhqkR3d) | 3:22 | 2021-10-06 |  |
+| [New Planet](https://open.spotify.com/track/1oU8JXQGiir9KBnmC46qX8) | [Ford & Lopatin](https://open.spotify.com/artist/3eTOYD8UyQa3MalrtkyKha) | [Channel Pressure](https://open.spotify.com/album/0IukYhktfvsurQ1ojVNs1Z) | 3:22 | 2021-10-06 |  |
+| [New Planet](https://open.spotify.com/track/73ftARNcKnSjzzCodbBwWq) | [Ford & Lopatin](https://open.spotify.com/artist/3eTOYD8UyQa3MalrtkyKha) | [Channel Pressure](https://open.spotify.com/album/0tW5rBMpINfekEGbhqkR3d) | 3:22 | 2021-10-06 | 2023-04-30 |
 | [no vacancy](https://open.spotify.com/track/0RCXebMfBjjNoflA5DaxiM) | [sfam](https://open.spotify.com/artist/571ojpVCIGwAp4c1LV8yxI) | [below sea level](https://open.spotify.com/album/7yZqGvVqcspruMHtrI0Uvb) | 3:10 | 2022-04-06 | 2023-04-16 |
 | [no.2](https://open.spotify.com/track/4hRY2e2IWSwx77Y8Nvkd76) | [Koji Nakamura](https://open.spotify.com/artist/1gXCdzLEaK18Qis2j0eQ0N), [foodman](https://open.spotify.com/artist/4e8VeCyfFRBL1e06oGg1dR), [Takashi Numazawa](https://open.spotify.com/artist/5YeWcBYGQXWGRFUcplaoUx) | [no.2](https://open.spotify.com/album/6LXEEy77zr5D7ZN5TV1lud) | 2:21 | 2022-01-04 | 2023-04-16 |
 | [Not Not Not](https://open.spotify.com/track/0gReAloAEMGmMftpG64Cfw) | [Kate NV](https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx) | [Room For The Moon](https://open.spotify.com/album/5KduXFab1jkKushmutNYbq) | 5:15 | 2021-10-06 |  |

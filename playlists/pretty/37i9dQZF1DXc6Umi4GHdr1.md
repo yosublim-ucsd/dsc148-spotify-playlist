@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,789 likes - 127 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,800 likes - 127 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 | 51 | [For Far Too Long](https://open.spotify.com/track/4bxljmuDdjLpfXRM98FFl3) | [Wanderer's Trove](https://open.spotify.com/artist/5G70OWQLpkb6IXJU1ut7E1) | [For Far Too Long](https://open.spotify.com/album/5MwHzCqgiHv2Pue2ov9y6z) | 4:56 |
 | 52 | [Dandelion wishes](https://open.spotify.com/track/5CstzwIEFQn2Rz6K8Ww1B4) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Dandelion wishes](https://open.spotify.com/album/0y2WWgiF0SnUS7GrLkbaxq) | 2:29 |
 | 53 | [Prelude 1 by Heitor Villa\-Lobos](https://open.spotify.com/track/2ps8YRrepQ0SIDk9iVEnPu) | [Brad Rau](https://open.spotify.com/artist/6Xjsd6nZrHRWQawUbGpkgZ) | [Guitar Night](https://open.spotify.com/album/4f1TGN1XlNUFsB6jLPmvvy) | 5:20 |
-| 54 | [Cavatina](https://open.spotify.com/track/28W5lTZMClVz9fLt6iiaJN) | [Stanley Myers](https://open.spotify.com/artist/6l6NgkV6IWYKlRN7jHCQmt), [John Williams](https://open.spotify.com/artist/6mBYeMZZUhJKEvRXagJYzY) | [Classic Williams \-\- Romance of the Guitar](https://open.spotify.com/album/3lXBNgLzlsHOP9lLbepn6b) | 3:08 |
+| 54 | [Cavatina](https://open.spotify.com/track/28W5lTZMClVz9fLt6iiaJN) | [Stanley Myers](https://open.spotify.com/artist/6l6NgkV6IWYKlRN7jHCQmt), [John C\. Williams](https://open.spotify.com/artist/6mBYeMZZUhJKEvRXagJYzY) | [Classic Williams \-\- Romance of the Guitar](https://open.spotify.com/album/3lXBNgLzlsHOP9lLbepn6b) | 3:08 |
 | 55 | [Soon Enough](https://open.spotify.com/track/6W7rCXxaqacJGS4Lo6w3pf) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Soon Enough](https://open.spotify.com/album/3QQXybzOkugKZwfe9kX2lV) | 2:05 |
 | 56 | [Ternura](https://open.spotify.com/track/1iXvVzkyogXKfdr6IJqyd7) | [Kathekon](https://open.spotify.com/artist/6vRmfBellM9PLkqukd8s6w) | [Ternura](https://open.spotify.com/album/7rQKkMoi3oWcfpQzoBUQoE) | 1:45 |
 | 57 | [Old World](https://open.spotify.com/track/4z66Dw7i6dmpNvKD8DYs8Q) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Cafe des Anges](https://open.spotify.com/album/7JFwJhMHcwKInpK9DZJEOq) | 2:59 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 | 126 | [Rio Segundo](https://open.spotify.com/track/5jBlWBEf1MI1R2SasOZsuL) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [Rio Segundo](https://open.spotify.com/album/3gLjkFuD4BrEWG1AbScPaU) | 2:49 |
 | 127 | [Sunday Breeze](https://open.spotify.com/track/0F2WP7hiDgw6rbFCxE1eyl) | [Cordell Zoe](https://open.spotify.com/artist/1HVeNsc2IF1ob1427YyiRc) | [Sunday Breeze](https://open.spotify.com/album/2fsb3S8QguRHHvLOzHLSLH) | 1:37 |
 
-Snapshot ID: `MCwzZWU5MDBiZGVhMGFmZTMxNjRkNGRhZDhkYWRlMDNlODJlZjRiMWUw`
+Snapshot ID: `MCw3N2Y4M2YzZDA0ZjlhZWFkMmNjMGY0MThkYTY2ZTZkYjNhNTAxMGU1`

@@ -1,12 +1,12 @@
 {
   "description": "90s acoustics, mellow hits, and classic unplugged versions.",
-  "num_followers": 2309295,
+  "num_followers": 2309637,
   "original_name": "90s Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDBlODlhM2RjNTQ1ODRjOWEwMjI3ZmE2OTE2MGNjNGNiM2Y1ZGU2",
+  "snapshot_id": "MCxiYzBhODZkM2IwNjRiZjU5ZGRiOWM1MTNhNzZmM2Q2YjZkNGU0ODU5",
   "tracks": [
     {
       "added_at": "2020-11-18 19:14:53",
@@ -123,22 +123,6 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Nimrod",
-        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 153466,
-      "name": "Good Riddance (Time of Your Life)",
-      "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
         "name": "Everybody Else Is Doing It, So Why Can't We?",
         "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 274706,
       "name": "Linger",
       "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Nimrod",
+        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 153466,
+      "name": "Good Riddance (Time of Your Life)",
+      "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -731,22 +731,6 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Stay (I Missed You)",
-        "url": "https://open.spotify.com/album/0candONErDvN9wWFhOWXrS"
-      },
-      "artists": [
-        {
-          "name": "Lisa Loeb",
-          "url": "https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2"
-        }
-      ],
-      "duration_ms": 184333,
-      "name": "Stay (I Missed You)",
-      "url": "https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
         "name": "Under the Pink",
         "url": "https://open.spotify.com/album/6VNuZLF98tsRYgqlIXAVCD"
       },
@@ -763,18 +747,18 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Torn/Wishing I Was There",
-        "url": "https://open.spotify.com/album/3wtn5Xqs97Vrj2u3SSykE1"
+        "name": "Stay (I Missed You)",
+        "url": "https://open.spotify.com/album/0candONErDvN9wWFhOWXrS"
       },
       "artists": [
         {
-          "name": "Natalie Imbruglia",
-          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
+          "name": "Lisa Loeb",
+          "url": "https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2"
         }
       ],
-      "duration_ms": 186400,
-      "name": "Torn - Acoustic MTV Unplugged",
-      "url": "https://open.spotify.com/track/1iPvdHIQQSNJ4iRm92Bcbx"
+      "duration_ms": 184333,
+      "name": "Stay (I Missed You)",
+      "url": "https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -791,6 +775,22 @@
       "duration_ms": 221866,
       "name": "Change",
       "url": "https://open.spotify.com/track/44RW9FEY76mLQCRQUjT0Zt"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Torn/Wishing I Was There",
+        "url": "https://open.spotify.com/album/3wtn5Xqs97Vrj2u3SSykE1"
+      },
+      "artists": [
+        {
+          "name": "Natalie Imbruglia",
+          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "Torn - Acoustic MTV Unplugged",
+      "url": "https://open.spotify.com/track/1iPvdHIQQSNJ4iRm92Bcbx"
     },
     {
       "added_at": "2020-11-18 19:14:53",

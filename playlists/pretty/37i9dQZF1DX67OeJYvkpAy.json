@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Kay9ine",
-  "num_followers": 85575,
+  "num_followers": 85598,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODUwYjU2NzAwOTI5ZWE0MDdmZGFmM2JjMjllNDhlMzBkMjhlMjNi",
+  "snapshot_id": "MCxiNGE0OGNiYjRhOTg3NWRkNDVlMTFiN2E5ZjBjNGQ2NmIzMDUzMTcz",
   "tracks": [
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Novacane",
-        "url": "https://open.spotify.com/album/3MNDKlPEwapuZ5tvy2NlIA"
-      },
-      "artists": [
-        {
-          "name": "Anubis",
-          "url": "https://open.spotify.com/artist/0a1wP4Ft70WP79YdfIDGg6"
-        }
-      ],
-      "duration_ms": 192004,
-      "name": "Novacane",
-      "url": "https://open.spotify.com/track/3y9xXHSdn7mWGHG7mTyh9x"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Lies",
         "url": "https://open.spotify.com/album/7bI6MVn2einWQk8mvuKdVe"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 203964,
       "name": "Lies",
       "url": "https://open.spotify.com/track/0DZ2oAxxLtD76a5gxGj92k"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Novacane",
+        "url": "https://open.spotify.com/album/3MNDKlPEwapuZ5tvy2NlIA"
+      },
+      "artists": [
+        {
+          "name": "Anubis",
+          "url": "https://open.spotify.com/artist/0a1wP4Ft70WP79YdfIDGg6"
+        }
+      ],
+      "duration_ms": 192004,
+      "name": "Novacane",
+      "url": "https://open.spotify.com/track/3y9xXHSdn7mWGHG7mTyh9x"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/51WJiY17CxBHtCI0x0dm9S"
+        "name": "Scorpio Trait",
+        "url": "https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7"
       },
       "artists": [
         {
-          "name": "Private Zero",
-          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
+          "name": "Fabio G",
+          "url": "https://open.spotify.com/artist/6IrmquAwUh8qHOrXtbrS6R"
         }
       ],
-      "duration_ms": 169714,
-      "name": "More",
-      "url": "https://open.spotify.com/track/0gvWVzsAmW3E3hCfITCbtp"
+      "duration_ms": 249600,
+      "name": "Scorpio Trait",
+      "url": "https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Scorpio Trait",
-        "url": "https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7"
+        "name": "More",
+        "url": "https://open.spotify.com/album/51WJiY17CxBHtCI0x0dm9S"
       },
       "artists": [
         {
-          "name": "Fabio G",
-          "url": "https://open.spotify.com/artist/6IrmquAwUh8qHOrXtbrS6R"
+          "name": "Private Zero",
+          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
         }
       ],
-      "duration_ms": 249600,
-      "name": "Scorpio Trait",
-      "url": "https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t"
+      "duration_ms": 169714,
+      "name": "More",
+      "url": "https://open.spotify.com/track/0gvWVzsAmW3E3hCfITCbtp"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1495,6 +1495,26 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Take The Risk",
+        "url": "https://open.spotify.com/album/3qOLL1W6GfXoWBzkeizrT3"
+      },
+      "artists": [
+        {
+          "name": "Svaroda",
+          "url": "https://open.spotify.com/artist/1YUK10AQJ4lPfRd9LOnEpz"
+        },
+        {
+          "name": "Hasan Ceddi",
+          "url": "https://open.spotify.com/artist/7zbjgtGBKbRKNyr8EzWCbH"
+        }
+      ],
+      "duration_ms": 200124,
+      "name": "Take The Risk",
+      "url": "https://open.spotify.com/track/0tIBTDYETBi6OZ2lyI0tGX"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "One Mic",
         "url": "https://open.spotify.com/album/2YUcSRz40We9kAt1xPw6cw"
       },
@@ -1527,26 +1547,6 @@
       "duration_ms": 257142,
       "name": "Circle Of Life",
       "url": "https://open.spotify.com/track/05r45PbXeBlE1DZ1AhidQX"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Take The Risk",
-        "url": "https://open.spotify.com/album/3qOLL1W6GfXoWBzkeizrT3"
-      },
-      "artists": [
-        {
-          "name": "Svaroda",
-          "url": "https://open.spotify.com/artist/1YUK10AQJ4lPfRd9LOnEpz"
-        },
-        {
-          "name": "Hasan Ceddi",
-          "url": "https://open.spotify.com/artist/7zbjgtGBKbRKNyr8EzWCbH"
-        }
-      ],
-      "duration_ms": 200124,
-      "name": "Take The Risk",
-      "url": "https://open.spotify.com/track/0tIBTDYETBi6OZ2lyI0tGX"
     },
     {
       "added_at": "2022-08-02 15:42:28",

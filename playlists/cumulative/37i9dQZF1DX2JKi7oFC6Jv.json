@@ -2687,6 +2687,24 @@
     },
     {
       "album": {
+        "name": "XMAS Lounge Tunes (Special Selected Lounge Tracks for Chilling Under the Christmas Tree)",
+        "url": "https://open.spotify.com/album/2I0vZwlfzDdNu3Feqn45rh"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445279,
+      "name": "Turn Me On",
+      "url": "https://open.spotify.com/track/1Rat7GGiIeGUvGJSu9Seca"
+    },
+    {
+      "album": {
         "name": "Turn Me On / Come To Me",
         "url": "https://open.spotify.com/album/2wVWjbRa5CuecQyf9Iu6en"
       },
@@ -2698,7 +2716,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 445746,
       "name": "Turn Me On",
       "url": "https://open.spotify.com/track/7aUlBqAHppttybHHYrefZk"

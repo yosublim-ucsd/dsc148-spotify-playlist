@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 716,559 likes - 85 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 717,606 likes - 85 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [おどる ひかり](https://open.spotify.com/track/5vKeKeMQEOVVHvWoboCWdK) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [おどる ひかり](https://open.spotify.com/album/70dxLOHCgr6kXq9PU6v1er) | 4:41 |
 | 85 | [ゼロステップ \(feat\. 小野賢章\)](https://open.spotify.com/track/7wqa3SBNDoQ436Feb8x5Zl) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc), [小野賢章](https://open.spotify.com/artist/6yg8XM7BirJ6GnfBUt7BUU) | [ゼロステップ \(feat\. 小野賢章\)](https://open.spotify.com/album/4GCmrKpfubJATaKMZ43RUT) | 4:30 |
 
-Snapshot ID: `MCw1ZDM0ZDIxOWNhNDgyODkyMzNiNDcxZDkyNmU5ZWRiODY4Y2RmYWNi`
+Snapshot ID: `MCw5YWVjZGQwYjFhN2MzOWQ1MmQ0NDRhMDVmNzZkOWYzMjBiNjU5OGM5`

@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 381885,
+  "num_followers": 381938,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODU0YmYwMzI3ZjZlNmIwNjkyOWRjZmI5Yjc5MWJiNzY0OWQ3ZDBh",
+  "snapshot_id": "MCw2MzYxMWQyNmIzZjgxZGY3ZDY5OGU0MWJhZmM2YTNlZDNmMTlkOGMz",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -479,6 +479,26 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
+        "name": "Golden Girl (The Columbia Recordings 1944-1966)",
+        "url": "https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM"
+      },
+      "artists": [
+        {
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        },
+        {
+          "name": "Harry James",
+          "url": "https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Lullaby of Broadway (with Harry James & His Orchestra)",
+      "url": "https://open.spotify.com/track/0qPeyVfebszZcHTUc48Lzl"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
         "name": "Q's Jook Joint",
         "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 175733,
       "name": "Let The Good Times Roll",
       "url": "https://open.spotify.com/track/2dFJA0ZQ2OjA8TWjEV6P5n"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "Golden Girl (The Columbia Recordings 1944-1966)",
-        "url": "https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM"
-      },
-      "artists": [
-        {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        },
-        {
-          "name": "Harry James",
-          "url": "https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Lullaby of Broadway (with Harry James & His Orchestra)",
-      "url": "https://open.spotify.com/track/0qPeyVfebszZcHTUc48Lzl"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -679,6 +679,22 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
+        "name": "Welcome to My Dream",
+        "url": "https://open.spotify.com/album/0DdGWUa83ELS8iOT66bo1o"
+      },
+      "artists": [
+        {
+          "name": "Woody Herman & His Orchestra",
+          "url": "https://open.spotify.com/artist/7CUcJMFBfSARR8js036QOn"
+        }
+      ],
+      "duration_ms": 195030,
+      "name": "Woodchopper\u2019s Ball",
+      "url": "https://open.spotify.com/track/28Ku0JK5FGK2tNdfI0rzXz"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
         "name": "Jimmy Dorsey:The Complete Standard Transcriptions",
         "url": "https://open.spotify.com/album/29jPgtTm7XiLYUKNE5QwG0"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 485492,
       "name": "Work Song",
       "url": "https://open.spotify.com/track/3YLc8x4uliODz7Ppa1KnKB"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "Welcome to My Dream",
-        "url": "https://open.spotify.com/album/0DdGWUa83ELS8iOT66bo1o"
-      },
-      "artists": [
-        {
-          "name": "Woody Herman & His Orchestra",
-          "url": "https://open.spotify.com/artist/7CUcJMFBfSARR8js036QOn"
-        }
-      ],
-      "duration_ms": 195030,
-      "name": "Woodchopper\u2019s Ball",
-      "url": "https://open.spotify.com/track/28Ku0JK5FGK2tNdfI0rzXz"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -797,22 +797,6 @@
       "url": "https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6"
     },
     {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "Exotic Sounds from a Space Age Bachelor Pad",
-        "url": "https://open.spotify.com/album/3QykPSqLRpwOGiHIQxA6d0"
-      },
-      "artists": [
-        {
-          "name": "Bob Florence Big Band",
-          "url": "https://open.spotify.com/artist/4HYVMozG4UyDaPkEtM0zHI"
-        }
-      ],
-      "duration_ms": 101882,
-      "name": "Moonlight on the Ganges",
-      "url": "https://open.spotify.com/track/2sbS1rpnQUjxwuVBCFpktO"
-    },
-    {
       "added_at": "2021-10-08 04:02:00",
       "album": {
         "name": "I Didn\u00b4t Tell Them Why",
@@ -831,6 +815,22 @@
       "duration_ms": 297373,
       "name": "I Didn\u00b4t Tell Them Why",
       "url": "https://open.spotify.com/track/16yjO1COFYdqvjg0r6sweq"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Exotic Sounds from a Space Age Bachelor Pad",
+        "url": "https://open.spotify.com/album/3QykPSqLRpwOGiHIQxA6d0"
+      },
+      "artists": [
+        {
+          "name": "Bob Florence Big Band",
+          "url": "https://open.spotify.com/artist/4HYVMozG4UyDaPkEtM0zHI"
+        }
+      ],
+      "duration_ms": 101882,
+      "name": "Moonlight on the Ganges",
+      "url": "https://open.spotify.com/track/2sbS1rpnQUjxwuVBCFpktO"
     },
     {
       "added_at": "2020-03-06 16:28:56",

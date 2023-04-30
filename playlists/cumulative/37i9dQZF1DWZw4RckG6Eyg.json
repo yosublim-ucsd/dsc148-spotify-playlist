@@ -6,7 +6,7 @@
     {
       "album": {
         "name": "Air Guitar",
-        "url": "https://open.spotify.com/album/5jsp54tvHgC19kstd5Kp42"
+        "url": "https://open.spotify.com/album/0KZcDNYKaKv4mq93fIUDau"
       },
       "artists": [
         {
@@ -17,6 +17,24 @@
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 183273,
+      "name": "Air Guitar",
+      "url": "https://open.spotify.com/track/1ZL73Fic49PdXUSvL69wh8"
+    },
+    {
+      "album": {
+        "name": "Air Guitar",
+        "url": "https://open.spotify.com/album/5jsp54tvHgC19kstd5Kp42"
+      },
+      "artists": [
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 183273,
       "name": "Air Guitar",
       "url": "https://open.spotify.com/track/3Ilb3Q1okDhJMGKs2gyudt"
@@ -872,10 +890,28 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 158097,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/43LaVZm8uQN9RIj2j5JxCn"
+    },
+    {
+      "album": {
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/26xokh7EVsB98XiXSgXwnE"
+      },
+      "artists": [
+        {
+          "name": "Sofia Portanet",
+          "url": "https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158097,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/7poQxcGYOFFeAQanCTm9Fw"
     },
     {
       "album": {
@@ -884,8 +920,8 @@
       },
       "artists": [
         {
-          "name": "Dame Dearest",
-          "url": "https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C"
+          "name": "Emma Sehested H\u00f8eg",
+          "url": "https://open.spotify.com/artist/7b78vmlDyCh1wepps6LCAE"
         }
       ],
       "date_added": "2022-11-30",

@@ -4,7 +4,7 @@
 
 > Relive last night's fun with jigs and reels out of Ireland – alongside trad tracks inspired and influenced by Celtic traditions.
 
-133 songs - 8 hr 55 min
+134 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Goodbye Girls I'm Going to Boston](https://open.spotify.com/track/2bgqrasCfNCP9B2MY8J4iz) | [Laura Feddersen](https://open.spotify.com/artist/5C0s1exsc0UT1MytdU7kKZ), [Joel Wennerstrom](https://open.spotify.com/artist/0CS4kanxTgf7zAq0dxBBhl), [Owen Marshall](https://open.spotify.com/artist/1fhC0AGIoLHS9qd0GszMDI) | [Wooden Nickels](https://open.spotify.com/album/3gQy6X7TuRab6r0VdzW6ra) | 3:28 | 2020-11-11 |  |
 | [Goodbye Girls I'm Going to Boston](https://open.spotify.com/track/4CH9ggXUaWwkvcGoQATrmO) | [Laura Feddersen](https://open.spotify.com/artist/5C0s1exsc0UT1MytdU7kKZ), [Joel Wennerstrom](https://open.spotify.com/artist/0CS4kanxTgf7zAq0dxBBhl), [Owen Marshall](https://open.spotify.com/artist/1fhC0AGIoLHS9qd0GszMDI) | [Wooden Nickels](https://open.spotify.com/album/2wVPCnqgiRIChDqUH9jeIa) | 3:28 | 2020-11-11 | 2022-07-29 |
 | [Hardiman The Fiddler](https://open.spotify.com/track/0JJZfZebDAcmBT7Y1kcBtx) | [Bob Brozman](https://open.spotify.com/artist/0rbQ6RnCd7jkHUr9zof16V), [John McSherry](https://open.spotify.com/artist/5nEfrmSzTJTnPKfiWTzqF8), [Dónal O'Connor](https://open.spotify.com/artist/5fjdwdGpdnXaAYGO6QT2Us) | [Six Days In Down](https://open.spotify.com/album/5LYPfErCKg391pigcjdI5P) | 3:53 | 2020-11-11 | 2022-07-29 |
-| [Hardiman The Fiddler](https://open.spotify.com/track/2OAVXyAahuRTwTs1zzHh9p) | [Bob Brozman, John McSherry & Dónal O’Connor](https://open.spotify.com/artist/5wVFg1a2Ijgy6BZH3DnjQE) | [Six Days In Down](https://open.spotify.com/album/3rUkCKi7QubHYkrdhSzCjF) | 3:53 | 2020-11-11 |  |
+| [Hardiman The Fiddler](https://open.spotify.com/track/1xzdiqwHJFo3BZYYnnvGXf) | [Bob Brozman, John McSherry & Dónal O’Connor](https://open.spotify.com/artist/5wVFg1a2Ijgy6BZH3DnjQE) | [Six Days In Down](https://open.spotify.com/album/00EEOIL3WppsWZurxRowxU) | 3:53 | 2023-03-16 |  |
+| [Hardiman The Fiddler](https://open.spotify.com/track/2OAVXyAahuRTwTs1zzHh9p) | [Bob Brozman, John McSherry & Dónal O’Connor](https://open.spotify.com/artist/5wVFg1a2Ijgy6BZH3DnjQE) | [Six Days In Down](https://open.spotify.com/album/3rUkCKi7QubHYkrdhSzCjF) | 3:53 | 2020-11-11 | 2023-04-30 |
 | [Humors of Tullycrine](https://open.spotify.com/track/1ft8QzgCSuOfMOIP6FwMtK) | [Andrew Finn Magill](https://open.spotify.com/artist/4HaU3dFoJU4SRH01OClXep) | [Drive & Lift](https://open.spotify.com/album/6nOhv6JrGW9IQDTgXjGAtX) | 4:12 | 2020-11-11 |  |
 | [Jigs: The Southwest Wind / An Buachaillin Dreoite](https://open.spotify.com/track/17XDKfATaLDVs28Wh9Ry5J) | [The Fiddle Case](https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta) | [Write Me a Letter](https://open.spotify.com/album/3RYRMlquQZE86uu6H35a4s) | 4:29 | 2020-11-11 | 2022-10-19 |
 | [Jigs: The Southwest Wind / An Buachaillin Dreoite](https://open.spotify.com/track/2RwshonNEkw7d1GyTpMMAU) | [The Fiddle Case](https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta) | [Write Me a Letter](https://open.spotify.com/album/1fa4LBlNsValNBZCwGmTPf) | 4:29 | 2020-11-11 |  |

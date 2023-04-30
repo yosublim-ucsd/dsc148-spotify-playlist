@@ -4,7 +4,7 @@
 
 > Have yourself a little cozy Christmas.
 
-200 songs - 12 hr 8 min
+201 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,8 @@
 | [Silent Night \- Live from Union Chapel](https://open.spotify.com/track/0T4noS4XEjA29LbHXvjLJD) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [Live from the Union Chapel](https://open.spotify.com/album/0fYKKKV7O4jD8m6o98YJqV) | 3:04 | 2021-11-09 |  |
 | [Silver Bells](https://open.spotify.com/track/24Vowd4cVtxt1WcahC23dZ) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Jingle Your Bells](https://open.spotify.com/album/0t6BIKhlVZHdKv4ocFmqr6) | 4:10 | 2021-11-09 |  |
 | [Silver Bells](https://open.spotify.com/track/6g2yyTTnyEVr9VZjVexg1J) | [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB), [Tancred](https://open.spotify.com/artist/4rdoYKpVduYtHfKJgUnOkS), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Fireside](https://open.spotify.com/album/1RQbuf7X5Xy2KfrTwi6DR9) | 2:43 | 2021-11-16 |  |
-| [Sing a Christmas Song Anyway](https://open.spotify.com/track/6JTwiCaomObqheFTnmzM4X) | [Heather Maloney](https://open.spotify.com/artist/3epjAWvLxTBlI9FgGCUNID) | [Sing a Christmas Song Anyway](https://open.spotify.com/album/0fUin3KdY03n4ngrXMrQg9) | 3:13 | 2021-11-09 |  |
+| [Sing a Christmas Song Anyway](https://open.spotify.com/track/2QuFEiHnNsvr16bicGHqNj) | [Heather Maloney](https://open.spotify.com/artist/3epjAWvLxTBlI9FgGCUNID) | [Sing a Christmas Song Anyway](https://open.spotify.com/album/2zGo2F0Ab8hqMqQeHs52LV) | 3:13 | 2022-12-09 |  |
+| [Sing a Christmas Song Anyway](https://open.spotify.com/track/6JTwiCaomObqheFTnmzM4X) | [Heather Maloney](https://open.spotify.com/artist/3epjAWvLxTBlI9FgGCUNID) | [Sing a Christmas Song Anyway](https://open.spotify.com/album/0fUin3KdY03n4ngrXMrQg9) | 3:13 | 2021-11-09 | 2023-04-30 |
 | [Sister Winter](https://open.spotify.com/track/1N0xDVB8oJ6rb10n2lA46b) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Sister Winter B/W Rest](https://open.spotify.com/album/69madVZCyCpjBr3xIxlNWa) | 3:36 | 2021-11-09 |  |
 | [Sleet and Snow](https://open.spotify.com/track/19PbVUTpF75SeZQpTEUJwM) | [My First Tooth](https://open.spotify.com/artist/2mtHReEeM2MuBaWSY3stG8) | [Sleet and Snow](https://open.spotify.com/album/6IvRuTNcTlPaIosiVlY8Nx) | 3:18 | 2021-11-09 |  |
 | [Sleigh Ride](https://open.spotify.com/track/3xM6VgByz6g9loXIyPvEcR) | [SHEL](https://open.spotify.com/artist/4OCTXxXeu6etfZqxfqFihq) | [Walker in a Winter Wonderland](https://open.spotify.com/album/0UhF379fa6PvnfLTsBngqa) | 3:06 | 2021-11-09 |  |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: BRUCKNER
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,798 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,900 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rimini](https://open.spotify.com/track/2JNIWfyUG8AXC2staqyay5) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [rimini tape](https://open.spotify.com/album/364XipkMF0Rp55oBjaHFtU) | 2:54 |
-| 2 | [einszweidrei](https://open.spotify.com/track/2B5cENn0VFxcyK3SFFzNpZ) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw) | [einszweidrei](https://open.spotify.com/album/0HKPJdELR01L0oro2hcPBg) | 2:01 |
+| 2 | [einszweidrei](https://open.spotify.com/track/2B5cENn0VFxcyK3SFFzNpZ) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw) | [einszweidrei](https://open.spotify.com/album/0HKPJdELR01L0oro2hcPBg) | 2:03 |
 | 3 | [Zerrissen](https://open.spotify.com/track/3X0nFQWGJw0FQp6A3uVhgl) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Zerrissen](https://open.spotify.com/album/3wWEzUcLrvF0ONRDJh3dur) | 3:24 |
 | 4 | [Ein Anruf entfernt](https://open.spotify.com/track/3Xqqsi0zw6p3eYkKzzzag0) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [Ein Anruf entfernt](https://open.spotify.com/album/3q1CVNPW0g2AuYT13i11T5) | 2:35 |
 | 5 | [Alles Nur Gelogen](https://open.spotify.com/track/74eR8xSdraMDGsGPI7D5C9) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Alles Nur Gelogen](https://open.spotify.com/album/5e3VemHQtqmNtpE6ENk4WF) | 2:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Fluch](https://open.spotify.com/track/29psttIS4krdh6Ontzt2EI) | [BECKS](https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57) | [Fluch](https://open.spotify.com/album/1s9T6GwxiNw8mTifI5YEZh) | 2:07 |
 | 75 | [7SD](https://open.spotify.com/track/0uSPEMHkNHifMbwYUP4LwH) | [Trille](https://open.spotify.com/artist/7z7UeKh2Y7m3DLpVs0458h), [Bonnie Strange](https://open.spotify.com/artist/5Jc1lyOYKyNogbbh6Rs5dh) | [7SD](https://open.spotify.com/album/2ciBwnxtCe6oY62gAw3YAh) | 2:32 |
 
-Snapshot ID: `MCw5MGNkMGQ5YTYyMjY3MWFlYzkwMDVhNjQxN2Y3NDg2ZGQwNzEyYjlm`
+Snapshot ID: `MCw2NGRiNzFjMDg4MzYyMTkxYWY4MWI4YWE4NjRhMjQxZTI3YmUzNDBl`

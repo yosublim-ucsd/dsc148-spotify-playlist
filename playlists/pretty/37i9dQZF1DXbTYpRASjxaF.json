@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Ryu, the Runner, Mateca",
-  "num_followers": 104562,
+  "num_followers": 104729,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjg2ODEyYmYzM2M4OTYzOTlhNmZlM2E3ZmM4YjhlZWI4NzAwZWVm",
+  "snapshot_id": "MCw3MmU4ZTVlMzcyODliZjk2MzI3MTc1ZDc5ZjhkOTVkMzU4OTE5ZTUx",
   "tracks": [
     {
       "added_at": "2023-04-28 14:35:04",
@@ -1015,6 +1015,66 @@
     {
       "added_at": "2023-04-28 14:35:04",
       "album": {
+        "name": "Marid\u00e3o (feat. Kizzy & Feek)",
+        "url": "https://open.spotify.com/album/0aSsD1WItij77UITRQNCxP"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+        },
+        {
+          "name": "Feek",
+          "url": "https://open.spotify.com/artist/7rVT3dNwCamCtw5rC7salV"
+        }
+      ],
+      "duration_ms": 322622,
+      "name": "Marid\u00e3o (feat. Kizzy & Feek)",
+      "url": "https://open.spotify.com/track/66H84rhrbf31Tm8Mv9GAtJ"
+    },
+    {
+      "added_at": "2023-04-28 14:35:04",
+      "album": {
+        "name": "O S\u00e1bio",
+        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        }
+      ],
+      "duration_ms": 202434,
+      "name": "To de P\u00e9",
+      "url": "https://open.spotify.com/track/6WHGZ8voLYNlgYlUyBhQm9"
+    },
+    {
+      "added_at": "2023-04-28 14:35:04",
+      "album": {
         "name": "Vou de Lala",
         "url": "https://open.spotify.com/album/0gHO5D4JdxNHZIpyGtQm1I"
       },
@@ -1055,66 +1115,6 @@
     {
       "added_at": "2023-04-28 14:35:04",
       "album": {
-        "name": "O S\u00e1bio",
-        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "jess beats",
-          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
-        }
-      ],
-      "duration_ms": 202434,
-      "name": "To de P\u00e9",
-      "url": "https://open.spotify.com/track/6WHGZ8voLYNlgYlUyBhQm9"
-    },
-    {
-      "added_at": "2023-04-28 14:35:04",
-      "album": {
-        "name": "Marid\u00e3o (feat. Kizzy & Feek)",
-        "url": "https://open.spotify.com/album/0aSsD1WItij77UITRQNCxP"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Kizzy",
-          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
-        },
-        {
-          "name": "Feek",
-          "url": "https://open.spotify.com/artist/7rVT3dNwCamCtw5rC7salV"
-        }
-      ],
-      "duration_ms": 322622,
-      "name": "Marid\u00e3o (feat. Kizzy & Feek)",
-      "url": "https://open.spotify.com/track/66H84rhrbf31Tm8Mv9GAtJ"
-    },
-    {
-      "added_at": "2023-04-28 14:35:04",
-      "album": {
         "name": "Fio a Fio",
         "url": "https://open.spotify.com/album/0G681ObSuAOUg6LVMV5bu5"
       },
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2023-04-28 14:35:04",
       "album": {
-        "name": "Bicho Solto",
-        "url": "https://open.spotify.com/album/2Wma4pTFGzWmhdvIBAZtQy"
-      },
-      "artists": [
-        {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
-        },
-        {
-          "name": "Nilo",
-          "url": "https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Bicho Solto",
-      "url": "https://open.spotify.com/track/1hppsF1Yb1WNuMK28Boguc"
-    },
-    {
-      "added_at": "2023-04-28 14:35:04",
-      "album": {
         "name": "Australiana",
         "url": "https://open.spotify.com/album/55XNEGmV7eGWpsjaHxLHBs"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 130909,
       "name": "Australiana",
       "url": "https://open.spotify.com/track/1vSi0uIXyYgI35vWkpHZDx"
+    },
+    {
+      "added_at": "2023-04-28 14:35:04",
+      "album": {
+        "name": "Bicho Solto",
+        "url": "https://open.spotify.com/album/2Wma4pTFGzWmhdvIBAZtQy"
+      },
+      "artists": [
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        },
+        {
+          "name": "Nilo",
+          "url": "https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Bicho Solto",
+      "url": "https://open.spotify.com/track/1hppsF1Yb1WNuMK28Boguc"
     },
     {
       "added_at": "2023-04-28 14:35:04",

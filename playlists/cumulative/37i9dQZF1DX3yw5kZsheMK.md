@@ -4,7 +4,7 @@
 
 > Lyrical lullabies for your bedtime routine.
 
-106 songs - 4 hr 50 min
+108 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Hush Little Baby](https://open.spotify.com/track/2cgJ4loDbrQawzg3ug7IPX) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Calming Lullabies](https://open.spotify.com/album/5wcyqJKYGYqZL9n30E2BYp) | 3:01 | 2022-03-11 | 2022-11-13 |
 | [Hush Little Baby](https://open.spotify.com/track/3AY9D4csUC3lUxmMntdGJw) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner Lullabies](https://open.spotify.com/album/63Kg240oKnWjsXlKLE7lzt) | 3:01 | 2022-03-11 |  |
 | [Hush Little Baby](https://open.spotify.com/track/2c9HKwi5n2z4n5queDX0AE) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa), [Brady Rymer](https://open.spotify.com/artist/6Tw9CIKjWd3ysEK1eGsafx) | [Laurie Berkner Lullabies](https://open.spotify.com/album/6Jb1nc24pVaLhOoLeKorAa) | 3:01 | 2022-03-11 | 2022-07-29 |
-| [Hushabye](https://open.spotify.com/track/2y1YF28BrCoTpKRmo3CxBV) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [My Tiny Twilight](https://open.spotify.com/album/38MybNdH299tXHS9uLJ2hq) | 2:45 | 2022-03-11 |  |
+| [Hushabye](https://open.spotify.com/track/2y1YF28BrCoTpKRmo3CxBV) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [My Tiny Twilight](https://open.spotify.com/album/38MybNdH299tXHS9uLJ2hq) | 2:45 | 2022-03-11 | 2023-04-30 |
+| [Hushabye](https://open.spotify.com/track/59Q0iF2Jc2xpI8RENeVS2g) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [My Tiny Twilight](https://open.spotify.com/album/2kaRIwMtwtGJOvoOLPCrDo) | 2:45 | 2023-03-17 |  |
 | [I Can See Clearly Now](https://open.spotify.com/track/3e6JSJ8NtOzxbatXKnV6xh) | [Renee & Jeremy](https://open.spotify.com/artist/7IBisryIBGbvj4wBDuRvy5), [Renee Stahl](https://open.spotify.com/artist/2WfQMdILaDJoPYCcWKKqpJ), [Jeremy Toback](https://open.spotify.com/artist/1aH1XTozXuGinGzdNWzyrt) | [Whole Lotta Love](https://open.spotify.com/album/1VbKUzv2wMxhQq1itmdHyR) | 2:50 | 2022-03-11 |  |
 | [I Can Sing a Rainbow](https://open.spotify.com/track/4mNAzxoAuv4pCWEdgzCxVb) | [Nursery Rhymes 123](https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW) | [Sweet Dream Lullabies](https://open.spotify.com/album/1QfDDyXowHGlr3k65BvTYu) | 1:47 | 2023-03-17 |  |
 | [I Will Carry You \(Always Here for You\)](https://open.spotify.com/track/7jAxBhPJmRahOUGWD6YFop) | [Rosie Thomas](https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr) | [Lullabies for Parents, Vol\. 1](https://open.spotify.com/album/3fgHiWJqP3SwbVWkStt1xg) | 3:24 | 2022-04-12 |  |
@@ -69,7 +70,8 @@
 | [Little Wolf](https://open.spotify.com/track/734CJLcXhKp8jYtH9iiZJS) | [Levity Beet](https://open.spotify.com/artist/1j776bTgiPHNyTNFa4hARh) | [Little Wolf](https://open.spotify.com/album/3YxqL2SOtXUZul9xFUJ5jr) | 2:28 | 2022-03-11 |  |
 | [Lullaby](https://open.spotify.com/track/5GWyNA4n9hx5rhkK0KvQ83) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Taking The Long Way](https://open.spotify.com/album/2NeJdEWras0uSuzLPlJZk5) | 5:50 | 2022-03-11 |  |
 | [Lullaby Time](https://open.spotify.com/track/20ygFVMqTk7iMTz6DfkcuC) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Little Wild Lullabies](https://open.spotify.com/album/3P0s8jrqf4TSH4A3i9BRcw) | 3:41 | 2022-03-11 | 2022-07-29 |
-| [Lullaby Time](https://open.spotify.com/track/6Qbemk2ei6Cg0d9RnXAYcW) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Little Wild Lullabies](https://open.spotify.com/album/7Jl8kmlsg97DncVuNp3UIm) | 3:41 | 2022-03-11 |  |
+| [Lullaby Time](https://open.spotify.com/track/3qzI1bsZGTumdSD52IHadr) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Little Wild Lullabies](https://open.spotify.com/album/1OCNGLYFe7hRnkprYd3wtS) | 3:41 | 2023-03-17 |  |
+| [Lullaby Time](https://open.spotify.com/track/6Qbemk2ei6Cg0d9RnXAYcW) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Little Wild Lullabies](https://open.spotify.com/album/7Jl8kmlsg97DncVuNp3UIm) | 3:41 | 2022-03-11 | 2023-04-30 |
 | [Make You Feel My Love](https://open.spotify.com/track/2NZEJxIUnsP18o2aNzeuZW) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Covers, Vol\. 2](https://open.spotify.com/album/0UIIvTTWNB3gRQWFoxoEDh) | 3:28 | 2022-03-11 |  |
 | [Moon River](https://open.spotify.com/track/1WCH0gUqhNsiuxNdN6wyod) | [Tanya Donelly](https://open.spotify.com/artist/3T4EY2HthpDQceZWzgSar5) | [Sing Me to Sleep: Indie Lullabies](https://open.spotify.com/album/47c5bpI6VYdwMAMb24rSi6) | 3:25 | 2022-03-11 |  |
 | [Moonbeams](https://open.spotify.com/track/1XwghPmPkMbF53pgcA5OkS) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Moonbeams](https://open.spotify.com/album/4wtdAEUKe2db0m0DPexbGE) | 3:29 | 2022-03-11 | 2022-12-15 |

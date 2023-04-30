@@ -705,6 +705,28 @@
     },
     {
       "album": {
+        "name": "Sweet Banana",
+        "url": "https://open.spotify.com/album/1XtMZC0EDRmxmVEXX0q3D4"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        },
+        {
+          "name": "The Golden Mecury of Africa",
+          "url": "https://open.spotify.com/artist/5CNQ36IhfJFd52Wcc6hnSl"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251925,
+      "name": "Jinginrin",
+      "url": "https://open.spotify.com/track/4BkTPEZlsJQc8TOT1eSIV7"
+    },
+    {
+      "album": {
         "name": "Check \"E\"",
         "url": "https://open.spotify.com/album/1Lnu3WlDhPOpz6IWdXmBUh"
       },
@@ -882,6 +904,28 @@
       "duration_ms": 445069,
       "name": "Majo Bi Olokun",
       "url": "https://open.spotify.com/track/6lV4Xnx6vF3v8luJlY9kWs"
+    },
+    {
+      "album": {
+        "name": "Sunny Ade and His Green Spot Band, Vol. 4",
+        "url": "https://open.spotify.com/album/6KKQUN5rh80KfwyvlnlkSh"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        },
+        {
+          "name": "His Green Spot Band",
+          "url": "https://open.spotify.com/artist/3mpGdNsr8V4u4I0LofKAkF"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181159,
+      "name": "Major General Adebaye",
+      "url": "https://open.spotify.com/track/6c1kyQTE6mtUPZMl6FzLQE"
     },
     {
       "album": {

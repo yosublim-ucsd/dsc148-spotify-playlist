@@ -1,12 +1,12 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 58878,
+  "num_followers": 59204,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTI5OTMwZjIwODNiMWUzNzcyMWM1OGNkOTVmZDQzZTEyNjE2NTNm",
+  "snapshot_id": "MCw1ZmNjYTkzMzdmMzVlNzExMWNiYTVhMDhhYWI4ZjY2ZjNlM2JjNTcw",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:16",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "Brand New",
-        "url": "https://open.spotify.com/album/6nPwC5S0XRCvhvnsinAOoi"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "The God Who Stays",
-      "url": "https://open.spotify.com/track/0YHWj5wYTjbENOi7cWGSpK"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
         "name": "Love Remains",
         "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 236200,
       "name": "Thy Will",
       "url": "https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/6nPwC5S0XRCvhvnsinAOoi"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "The God Who Stays",
+      "url": "https://open.spotify.com/track/0YHWj5wYTjbENOi7cWGSpK"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "Flags",
-        "url": "https://open.spotify.com/album/1uyQnFBlGNgJEMpj7LOyyR"
-      },
-      "artists": [
-        {
-          "name": "Brooke Fraser",
-          "url": "https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN"
-        }
-      ],
-      "duration_ms": 183073,
-      "name": "Something in the Water",
-      "url": "https://open.spotify.com/track/2NCYYlzzRKyX24hyyKPMeW"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
         "name": "Future",
         "url": "https://open.spotify.com/album/65fqN6r9pytPCPcWiaulDi"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 234666,
       "name": "Future",
       "url": "https://open.spotify.com/track/2CF9nJbfB541d6YTPQufcz"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
+        "name": "Flags",
+        "url": "https://open.spotify.com/album/1uyQnFBlGNgJEMpj7LOyyR"
+      },
+      "artists": [
+        {
+          "name": "Brooke Fraser",
+          "url": "https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN"
+        }
+      ],
+      "duration_ms": 183073,
+      "name": "Something in the Water",
+      "url": "https://open.spotify.com/track/2NCYYlzzRKyX24hyyKPMeW"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "Yes I Will (Studio Version)",
-        "url": "https://open.spotify.com/album/13S5KXWwxesh4cNpPw2odi"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 216973,
-      "name": "Yes I Will (Studio Version)",
-      "url": "https://open.spotify.com/track/3d225PGEHBjK5ZQkQ7qSfJ"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
         "name": "Dark Is The Way, Light Is A Place",
         "url": "https://open.spotify.com/album/0aJvU0peEjLVYTOhaPVLXv"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 243573,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/4LmVyajDL2aJrii88rncNr"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
+        "name": "Yes I Will (Studio Version)",
+        "url": "https://open.spotify.com/album/13S5KXWwxesh4cNpPw2odi"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 216973,
+      "name": "Yes I Will (Studio Version)",
+      "url": "https://open.spotify.com/track/3d225PGEHBjK5ZQkQ7qSfJ"
     },
     {
       "added_at": "2023-02-07 17:43:16",

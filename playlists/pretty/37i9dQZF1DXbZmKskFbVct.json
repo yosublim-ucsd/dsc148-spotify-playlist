@@ -1,12 +1,12 @@
 {
   "description": "Soothing ASMR whispers to help you drift off to sleep. Slow, soft and calming.",
-  "num_followers": 31591,
+  "num_followers": 31596,
   "original_name": "ASMR Sleep Whispers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWI4OTQwNGZhNWRhOGU3NzJmMzM1MmVhMzY0YzhmMjI0ODNkY2Y5",
+  "snapshot_id": "MCwxODVlNTFiYWZmNTUzMmI4NjI0MzgzNDMzYzZhYzIwN2FjOWJkYzQ3",
   "tracks": [
     {
       "added_at": "2023-02-02 13:48:42",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "Super sleepy attention, close positive whispers, inaudible whispers",
-        "url": "https://open.spotify.com/album/4IwFZL7tcaocPJlicCyNIH"
-      },
-      "artists": [
-        {
-          "name": "RoseASMR",
-          "url": "https://open.spotify.com/artist/3CAEqHMxqfTLF9azWWYzmS"
-        }
-      ],
-      "duration_ms": 279875,
-      "name": "Super sleepy attention, close positive whispers, inaudible whispers Pt.1",
-      "url": "https://open.spotify.com/track/0fU7os8IzBtcblVO0YeIsR"
-    },
-    {
-      "added_at": "2023-02-02 13:48:42",
-      "album": {
         "name": "Whispers and Thrifty Tingles",
         "url": "https://open.spotify.com/album/0We5bmEJsOLZoj4UGVUTcd"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 251219,
       "name": "Whispers and Thrifty Tingles Pt.1",
       "url": "https://open.spotify.com/track/3Wbm2ioAtPkjMj3N46M5ez"
+    },
+    {
+      "added_at": "2023-02-02 13:48:42",
+      "album": {
+        "name": "Super sleepy attention, close positive whispers, inaudible whispers",
+        "url": "https://open.spotify.com/album/4IwFZL7tcaocPJlicCyNIH"
+      },
+      "artists": [
+        {
+          "name": "RoseASMR",
+          "url": "https://open.spotify.com/artist/3CAEqHMxqfTLF9azWWYzmS"
+        }
+      ],
+      "duration_ms": 279875,
+      "name": "Super sleepy attention, close positive whispers, inaudible whispers Pt.1",
+      "url": "https://open.spotify.com/track/0fU7os8IzBtcblVO0YeIsR"
     },
     {
       "added_at": "2023-02-02 13:48:42",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "Karuna's Sleep Clinic",
-        "url": "https://open.spotify.com/album/1FOLplr5wVJ6FBnFfdTM2W"
+        "name": "Showering You In Compliments",
+        "url": "https://open.spotify.com/album/3JY9ZTIKDr9X71ENWcrwdh"
       },
       "artists": [
         {
-          "name": "Karuna Satori ASMR",
-          "url": "https://open.spotify.com/artist/3gK713oCPxcYsIsfAXSpl5"
+          "name": "ASMR Darling",
+          "url": "https://open.spotify.com/artist/5Bu2D80nyECM0G6fFdsfK7"
         }
       ],
-      "duration_ms": 232571,
-      "name": "Sleep Clinic Part 2",
-      "url": "https://open.spotify.com/track/7fa12AeziG3ON4z80k5eFo"
+      "duration_ms": 211128,
+      "name": "Showering You In Compliments Pt.2",
+      "url": "https://open.spotify.com/track/0kcQZkQc8JYh0Vcpke0dWL"
     },
     {
       "added_at": "2023-02-02 13:48:42",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "Showering You In Compliments",
-        "url": "https://open.spotify.com/album/3JY9ZTIKDr9X71ENWcrwdh"
+        "name": "Karuna's Sleep Clinic",
+        "url": "https://open.spotify.com/album/1FOLplr5wVJ6FBnFfdTM2W"
       },
       "artists": [
         {
-          "name": "ASMR Darling",
-          "url": "https://open.spotify.com/artist/5Bu2D80nyECM0G6fFdsfK7"
+          "name": "Karuna Satori ASMR",
+          "url": "https://open.spotify.com/artist/3gK713oCPxcYsIsfAXSpl5"
         }
       ],
-      "duration_ms": 211128,
-      "name": "Showering You In Compliments Pt.2",
-      "url": "https://open.spotify.com/track/0kcQZkQc8JYh0Vcpke0dWL"
+      "duration_ms": 232571,
+      "name": "Sleep Clinic Part 2",
+      "url": "https://open.spotify.com/track/7fa12AeziG3ON4z80k5eFo"
     },
     {
       "added_at": "2023-02-02 13:48:42",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "ASMR - The Invisible Man - Unintelligible/Inaudible Whispered Reading (WITHOUT ambient sounds)",
-        "url": "https://open.spotify.com/album/23ZSJ73eskvUgV5tqOlWIV"
-      },
-      "artists": [
-        {
-          "name": "WhisperAudios ASMR",
-          "url": "https://open.spotify.com/artist/7fGDcsgOFZ04EzVFGONS1G"
-        }
-      ],
-      "duration_ms": 359356,
-      "name": "The Invisible Man - Unintelligible Inaudible Whispered Reading, Pt. 6",
-      "url": "https://open.spotify.com/track/3FNsE3UYSS8IApdW75p3rq"
-    },
-    {
-      "added_at": "2023-02-02 13:48:42",
-      "album": {
         "name": "Intensely Crunchy Celery Eating",
         "url": "https://open.spotify.com/album/40JIcThcdSCG0hGyxKQDec"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 884434,
       "name": "Positive Affirmations",
       "url": "https://open.spotify.com/track/4tO8q7KwM67C86FJHDAeoY"
+    },
+    {
+      "added_at": "2023-02-02 13:48:42",
+      "album": {
+        "name": "ASMR - The Invisible Man - Unintelligible/Inaudible Whispered Reading (WITHOUT ambient sounds)",
+        "url": "https://open.spotify.com/album/23ZSJ73eskvUgV5tqOlWIV"
+      },
+      "artists": [
+        {
+          "name": "WhisperAudios ASMR",
+          "url": "https://open.spotify.com/artist/7fGDcsgOFZ04EzVFGONS1G"
+        }
+      ],
+      "duration_ms": 359356,
+      "name": "The Invisible Man - Unintelligible Inaudible Whispered Reading, Pt. 6",
+      "url": "https://open.spotify.com/track/3FNsE3UYSS8IApdW75p3rq"
     },
     {
       "added_at": "2023-02-02 13:48:42",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "Whispering Things Your Brain Needs To Hear",
-        "url": "https://open.spotify.com/album/0oGtMqyTvJLwazCg5eR1di"
-      },
-      "artists": [
-        {
-          "name": "ASMR LillyVinnily",
-          "url": "https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ"
-        }
-      ],
-      "duration_ms": 909500,
-      "name": "Guided Meditation and Positive Affirmations, Pt. 1",
-      "url": "https://open.spotify.com/track/6V2NV9XXpdZ6tAaWi36psL"
-    },
-    {
-      "added_at": "2023-02-02 13:48:42",
-      "album": {
         "name": "ASMR Egyptian Spa | Bathing You, Skin Treatment, Makeup, Pampering - ASMR Roleplay Soft Spoken",
         "url": "https://open.spotify.com/album/7cueYYiDNozCHhIc36e7Ip"
       },
@@ -715,34 +699,18 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "7 Terrific Triggers",
-        "url": "https://open.spotify.com/album/26e7G71fAzD7hywVvHW0Z3"
+        "name": "Whispering Things Your Brain Needs To Hear",
+        "url": "https://open.spotify.com/album/0oGtMqyTvJLwazCg5eR1di"
       },
       "artists": [
         {
-          "name": "TheOneLilium ASMR",
-          "url": "https://open.spotify.com/artist/7qOvhKuza5UPfivHA3yyQa"
+          "name": "ASMR LillyVinnily",
+          "url": "https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ"
         }
       ],
-      "duration_ms": 216000,
-      "name": "7 Terrific Triggers, Pt. 1",
-      "url": "https://open.spotify.com/track/4W30PQEyGVnNaqZEGWwUyK"
-    },
-    {
-      "added_at": "2023-02-02 13:48:42",
-      "album": {
-        "name": "Uplifting Mantras",
-        "url": "https://open.spotify.com/album/0HsXJ5W6Aw8VHKD9PdsU1g"
-      },
-      "artists": [
-        {
-          "name": "Asmr Brain Tingle",
-          "url": "https://open.spotify.com/artist/4CpBOpDeQHIX60fHEx483m"
-        }
-      ],
-      "duration_ms": 293571,
-      "name": "Uplifting Mantra Pt One",
-      "url": "https://open.spotify.com/track/7KyX01fc7U3dFZhOj9pe3l"
+      "duration_ms": 909500,
+      "name": "Guided Meditation and Positive Affirmations, Pt. 1",
+      "url": "https://open.spotify.com/track/6V2NV9XXpdZ6tAaWi36psL"
     },
     {
       "added_at": "2023-02-02 13:48:42",
@@ -763,6 +731,38 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
+        "name": "Uplifting Mantras",
+        "url": "https://open.spotify.com/album/0HsXJ5W6Aw8VHKD9PdsU1g"
+      },
+      "artists": [
+        {
+          "name": "Asmr Brain Tingle",
+          "url": "https://open.spotify.com/artist/4CpBOpDeQHIX60fHEx483m"
+        }
+      ],
+      "duration_ms": 293571,
+      "name": "Uplifting Mantra Pt One",
+      "url": "https://open.spotify.com/track/7KyX01fc7U3dFZhOj9pe3l"
+    },
+    {
+      "added_at": "2023-02-02 13:48:42",
+      "album": {
+        "name": "7 Terrific Triggers",
+        "url": "https://open.spotify.com/album/26e7G71fAzD7hywVvHW0Z3"
+      },
+      "artists": [
+        {
+          "name": "TheOneLilium ASMR",
+          "url": "https://open.spotify.com/artist/7qOvhKuza5UPfivHA3yyQa"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "7 Terrific Triggers, Pt. 1",
+      "url": "https://open.spotify.com/track/4W30PQEyGVnNaqZEGWwUyK"
+    },
+    {
+      "added_at": "2023-02-02 13:48:42",
+      "album": {
         "name": "Russian Language Revision - Cyrillic Alphabet",
         "url": "https://open.spotify.com/album/2pTKiaP8dOQ11Q8G88JMzh"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "ASMR For Sleep | Zen Rainforest Sleep Treatment - Day 1 of 3",
-        "url": "https://open.spotify.com/album/3PgSMImJNYOEUCTHudph0c"
-      },
-      "artists": [
-        {
-          "name": "The Healing Room ASMR",
-          "url": "https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs"
-        }
-      ],
-      "duration_ms": 361000,
-      "name": "Going Over Your Notes / Writing Sounds",
-      "url": "https://open.spotify.com/track/1oRrPXaq2PNiGYiUn6YV6a"
-    },
-    {
-      "added_at": "2023-02-02 13:48:42",
-      "album": {
         "name": "Checking Up On You (Scratch, Tapping, Ramble)",
         "url": "https://open.spotify.com/album/6jBVHUHGixqktpxgeX9YBy"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 321000,
       "name": "Do You Have Plans?",
       "url": "https://open.spotify.com/track/6AEOwjjFIvwtHy77gwiHiQ"
+    },
+    {
+      "added_at": "2023-02-02 13:48:42",
+      "album": {
+        "name": "ASMR For Sleep | Zen Rainforest Sleep Treatment - Day 1 of 3",
+        "url": "https://open.spotify.com/album/3PgSMImJNYOEUCTHudph0c"
+      },
+      "artists": [
+        {
+          "name": "The Healing Room ASMR",
+          "url": "https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs"
+        }
+      ],
+      "duration_ms": 361000,
+      "name": "Going Over Your Notes / Writing Sounds",
+      "url": "https://open.spotify.com/track/1oRrPXaq2PNiGYiUn6YV6a"
     }
   ],
   "unique_name": "ASMR Sleep Whispers",

@@ -1866,6 +1866,24 @@
     {
       "album": {
         "name": "Poison",
+        "url": "https://open.spotify.com/album/1rp9HGUFK68lGGAAoHjAYs"
+      },
+      "artists": [
+        {
+          "name": "GEMS",
+          "url": "https://open.spotify.com/artist/1hjVmBR8STjix0vBUe5YfN"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233606,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/1wWYZuEVUMmGnEeV3zOCNU"
+    },
+    {
+      "album": {
+        "name": "Poison",
         "url": "https://open.spotify.com/album/6yxZwTFlfhPH8iZM9uLNHs"
       },
       "artists": [
@@ -1876,7 +1894,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 233606,
       "name": "Poison",
       "url": "https://open.spotify.com/track/3j4DTgaccxEbk2Ufht85mv"
@@ -2018,6 +2036,24 @@
     {
       "album": {
         "name": "Plaza",
+        "url": "https://open.spotify.com/album/0NEF1hzL7820zUVOU7n9Kj"
+      },
+      "artists": [
+        {
+          "name": "Quilt",
+          "url": "https://open.spotify.com/artist/0S4yEUTvpxWhfXux925405"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254053,
+      "name": "Roller",
+      "url": "https://open.spotify.com/track/0zFqjimE0Q6wk0OQVGu3rY"
+    },
+    {
+      "album": {
+        "name": "Plaza",
         "url": "https://open.spotify.com/album/2jT4DbuDmofOryMYKXIVBS"
       },
       "artists": [
@@ -2028,7 +2064,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 254053,
       "name": "Roller",
       "url": "https://open.spotify.com/track/5di8kYa0GOK3wEI0ZECcXL"

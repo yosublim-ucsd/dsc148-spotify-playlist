@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Ryan Beatty
 
-[Spotify](https://open.spotify.com/user/spotify) - 780,502 likes - 150 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 780,589 likes - 150 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 37 | [Tongue Tied](https://open.spotify.com/track/3ckJWEhX7Zi7dvoC2iCHkR) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Tongue Tied](https://open.spotify.com/album/5pIdg3VmRmejKmKD7nfIav) | 4:52 |
 | 38 | [Alco](https://open.spotify.com/track/0NTgQB7fb7ovrhx5pfm9Po) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Alco](https://open.spotify.com/album/1kty4m9JKEsD5NZaacdL16) | 3:48 |
 | 39 | [Flowers On My Bedside](https://open.spotify.com/track/5ihEkOIEpylssy0dur6U6w) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Flowers On My Bedside](https://open.spotify.com/album/6GGxMlTRIwQOJV9TAooh0U) | 4:49 |
-| 40 | [Willow](https://open.spotify.com/track/1wJdEsTX2x1uzIfDdkuVdJ) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Stolen Time Deluxe](https://open.spotify.com/album/2awMslAt7eh8sTwTs8kqWr) | 4:29 |
+| 40 | [Willow](https://open.spotify.com/track/4ERM0QdLgq9HvZ7zUsiimB) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Stolen Time Deluxe](https://open.spotify.com/album/27Pl4ZURgCynlnGAgTQEds) | 4:29 |
 | 41 | [Let There Be Music](https://open.spotify.com/track/6OOIjOmSIIOn6wb06ynh2e) | [Bonny Doon](https://open.spotify.com/artist/0AL8XXRh7fUrHAMLoDv9rn) | [Let There Be Music](https://open.spotify.com/album/5iKqpnVDETxYaCQaoJipBv) | 4:41 |
 | 42 | [Cigarette](https://open.spotify.com/track/0mgi4eJrjd0uv0PGIx4MJo) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Cigarette](https://open.spotify.com/album/0Xv7O6PBVUdkdma1Qe5nbK) | 3:16 |
 | 43 | [Looking For Love](https://open.spotify.com/track/4HaVJ5EePm2ABB6CP2Ff5X) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Henry St.](https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9) | 3:35 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 62 | [All the Money in the World](https://open.spotify.com/track/0UKYgpoFsWNfnOqteI5A8n) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [All the Money in the World](https://open.spotify.com/album/6gcalSRTtessKdl8OFMnZp) | 3:59 |
 | 63 | [Be Yourself](https://open.spotify.com/track/6P0actEG7h74NHvxqRB321) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [FEVER / SKY](https://open.spotify.com/album/4zpGSBstdibPEMzdRH1iip) | 3:22 |
 | 64 | [Fallin'](https://open.spotify.com/track/2ZPQJPtTvgwTc4A4WxnFTM) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Fallin'](https://open.spotify.com/album/73lHCvgI0pi5FxfPriGGoL) | 3:26 |
-| 65 | [Hunter](https://open.spotify.com/track/5ipJCn0tOI0qAUwhQ0Onhk) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Hunter](https://open.spotify.com/album/7JLqUV9lFZMym6t0uEVGs7) | 3:48 |
+| 65 | [Hunter](https://open.spotify.com/track/1fRRvjB2eKyWJAOuinZ5NZ) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Hunter](https://open.spotify.com/album/5f2StDzDcdxE0JR6K7YiDT) | 3:48 |
 | 66 | [Yard Sale](https://open.spotify.com/track/4sH3OxT6GqGsihPcO3wmhw) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Yard Sale](https://open.spotify.com/album/4j3OwjL2lZAzUcSx1Lpju5) | 4:17 |
 | 67 | [Everybody Needs Someone \(feat\. Vance Joy\)](https://open.spotify.com/track/2TZKvEQyTtcXLBfAk7kt8n) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Everybody Needs Someone \(feat\. Vance Joy\)](https://open.spotify.com/album/5eWIV7Xa9H7aeciqMgMKNZ) | 2:58 |
 | 68 | [Till the Flame Turns Blue](https://open.spotify.com/track/3Zz37G6EggIIMiqgBnovnH) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Till the Flame Turns Blue](https://open.spotify.com/album/7LLMYmgPN4YRHFqm3ipAjM) | 4:05 |
@@ -153,10 +153,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 143 | [Homesick for the Place I Don't Even Know \(feat\. Sam Valdez\)](https://open.spotify.com/track/1cs14d3VfzeI4z94h30Pit) | [Edwin Raphael](https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB), [Sam Valdez](https://open.spotify.com/artist/4mZgWEC08B8iiFbrugixkq) | [Homesick for the Place I Don't Even Know \(feat\. Sam Valdez\)](https://open.spotify.com/album/3hM4HF7GpNYbrHzgXbrOdu) | 4:41 |
 | 144 | [Buried The Day](https://open.spotify.com/track/26LgkRj0GLm2yZrwPFsVug) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Buried The Day](https://open.spotify.com/album/4P6qC9gkA2FnZv4KFFw56F) | 3:32 |
 | 145 | [Once on Another Day](https://open.spotify.com/track/305RKy14KRSxTlYHKAwslx) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc) | [Once on Another Day](https://open.spotify.com/album/7cgrSfUfnoiYulPIq1WdER) | 3:24 |
-| 146 | [Helium](https://open.spotify.com/track/29Ps05CZfLWtphvEknN0bO) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Homemaker](https://open.spotify.com/album/7tJSsud0MYEnWmD7fSd3BE) | 3:49 |
+| 146 | [Helium](https://open.spotify.com/track/2uvDjPwNsu94t8ATG0yia1) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Homemaker](https://open.spotify.com/album/2jyYZAdryusuGLEfHOHQgz) | 3:49 |
 | 147 | [Lazy River](https://open.spotify.com/track/48BvKO5IOnwr8EDzKQNcIU) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Lazy River](https://open.spotify.com/album/5JvVAYl9FDztt3pFlFl1iT) | 3:54 |
 | 148 | [Full Me, Half You](https://open.spotify.com/track/5oamUk3P75ug587GN7LtMT) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [Full Me, Half You](https://open.spotify.com/album/2Q1vC3yJG7Xg6QdtDCQfvs) | 3:44 |
 | 149 | [Who's Gonna Love You Now?](https://open.spotify.com/track/1RNi19cKwk2G5V9fy9676K) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Time Can Prove You Wrong EP](https://open.spotify.com/album/5FHhqubbDtgRAtkXGNQJ6n) | 3:17 |
 | 150 | [Fairweather](https://open.spotify.com/track/4CmA0F2I25DcHz47mXArag) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi) | [Fairweather](https://open.spotify.com/album/35Sw5Z7oVOdfn4Id3dqjtk) | 4:34 |
 
-Snapshot ID: `MCw2MjU5YTA2ZWI0ZDQwYjc1OTUzYzUyZGU2OTExODA3ZWY2OWQ4NmM2`
+Snapshot ID: `MCw5MjBlNDJlMWQxNDZjMzg4MDY1YjdkYTEwMGIxNDgyYjg5MDcyNTE4`

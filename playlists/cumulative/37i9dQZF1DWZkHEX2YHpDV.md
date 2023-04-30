@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Waterparks
 
-943 songs - 2 day 1 hr 58 min
+944 songs - 2 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Bad Heart](https://open.spotify.com/track/57Ky2Y8zqApk6Wz29Rt05c) | [Overgrow](https://open.spotify.com/artist/0JF3phIHeUwu0WwMBGvegA) | [The Name We Share](https://open.spotify.com/album/6vW7iTJmX0pWVusTt7bOMk) | 4:05 | 2022-02-04 | 2022-05-19 |
 | [Bad Intentions](https://open.spotify.com/track/5kPQ77QwcPhF24noSaUoLP) | [Exit](https://open.spotify.com/artist/3jOKYfOuCZf19meuwqMUmj), [boyband](https://open.spotify.com/artist/4OxvOPeLvZWDxihwqtOC4D) | [Bad Intentions](https://open.spotify.com/album/2ePO6QVPwGXfs9GVuctKur) | 3:28 | 2021-12-10 | 2022-06-18 |
 | [Ball In A Box](https://open.spotify.com/track/58fFbvIPG3XvCMtVrFnQDZ) | [Nightwell](https://open.spotify.com/artist/24yD6efifoMyvX3srNFHJN) | [Ball In A Box](https://open.spotify.com/album/7jyBNYDFlOAbh4aRjU6Bg4) | 2:55 | 2022-02-04 | 2022-04-14 |
-| [Battle Scars](https://open.spotify.com/track/4l42ScC0z19ygzbpS4JzGi) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Battle Scars](https://open.spotify.com/album/0SnmtDqaj4eNcdraEEnJ9W) | 2:51 | 2022-08-26 |  |
+| [Battle Scars](https://open.spotify.com/track/4l42ScC0z19ygzbpS4JzGi) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Battle Scars](https://open.spotify.com/album/0SnmtDqaj4eNcdraEEnJ9W) | 2:51 | 2022-08-26 | 2023-04-30 |
 | [Be Here Now](https://open.spotify.com/track/2YbxnhNgguKg5ktrOKGGV3) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Be Here Now / Are You The One](https://open.spotify.com/album/0tIPZqZKwJkr9nX9YU6XXV) | 3:29 | 2022-03-25 | 2022-04-13 |
 | [Be The Same](https://open.spotify.com/track/2BGszBYYiWAAGRPaLmCoJL) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Brand New Vision](https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1) | 3:37 | 2021-12-10 | 2022-08-03 |
 | [Beautiful Boy](https://open.spotify.com/track/1cmIa5VRsl9vOZl6zNRlHf) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [28 \(Songs for Cooper\)](https://open.spotify.com/album/1O8TQDjg48bsvgdGGNcQPY) | 2:38 | 2022-07-08 | 2023-04-11 |
@@ -508,6 +508,7 @@
 | [Loser](https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Loser](https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5) | 2:13 | 2022-01-28 |  |
 | [Losing My Mind](https://open.spotify.com/track/35buHwHyHsY5RoCLJop93u) | [Angels & Airwaves](https://open.spotify.com/artist/7xklw3WodFZiNNmQt3DIgp) | [Losing My Mind](https://open.spotify.com/album/6ec5cJUJCEvEN95fkPDCwz) | 3:52 | 2021-12-10 | 2022-07-29 |
 | [Love Abuser \(Save Me\)](https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 3:07 | 2022-12-02 | 2023-04-12 |
+| [Love Letter](https://open.spotify.com/track/3wIMmFNL5hdqUBpAO0Ogpu) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Love Letter](https://open.spotify.com/album/3w1dvrYzb7K4yRGjpULCPo) | 2:38 | 2023-04-28 |  |
 | [Love Me or Hate Me](https://open.spotify.com/track/0Uhx8dVUqIrlrVVdo2hHKa) | [Kelsy Karter](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl) | [Love Me or Hate Me](https://open.spotify.com/album/2ncqvPvPyJtLIdvYVxmF5E) | 3:16 | 2021-12-10 | 2022-07-27 |
 | [Love Needs an Encore](https://open.spotify.com/track/0lK2E4HR64nfoi3vOBXt03) | [Incase We Crash](https://open.spotify.com/artist/60BV8AYHelvsX7RpjQXlBA), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Love Needs an Encore](https://open.spotify.com/album/6Hp1StiHyODpHgVPWeNUqB) | 3:33 | 2022-06-24 | 2022-07-24 |
 | [love race \(feat\. Kellin Quinn\)](https://open.spotify.com/track/1F9kEuwT29fgqlovIclu81) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [love race \(feat\. Kellin Quinn\)](https://open.spotify.com/album/3q4wUTOTsRASPClG5Fg3tk) | 3:08 | 2021-12-10 | 2023-04-11 |

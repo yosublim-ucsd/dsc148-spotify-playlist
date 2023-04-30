@@ -4,7 +4,7 @@
 
 > Funky vocoders and talk boxes
 
-92 songs - 6 hr 52 min
+94 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,12 +18,14 @@
 | [Back](https://open.spotify.com/track/5b1eWh22jn5CfJAGtWTbUe) | [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [Shake It](https://open.spotify.com/album/5h3omMgMw42o9lNiNPpXIw) | 5:10 | 2020-09-18 | 2022-11-24 |
 | [BMBM](https://open.spotify.com/track/1Ibl3KfZXlzkvyuV9REdWd) | [Kazzey](https://open.spotify.com/artist/5wQ8DuXAlRz7HtLTjWnUyY) | [Night Cruisin'](https://open.spotify.com/album/6sL3gRxmuhhsSpc196Enif) | 3:06 | 2021-07-09 |  |
 | [Bonnie & Clyde](https://open.spotify.com/track/1hOOaJNogPDV1yQVAUipKy) | [Winfree](https://open.spotify.com/artist/4Iov3IICSPYPmfcjuHBiJI), [Methrone](https://open.spotify.com/artist/3YqRniSXLT8kdm125ZfQF6), [Sinamin](https://open.spotify.com/artist/2R2Cc3QWntnZ2IbTOc47KS) | [Bonnie & Clyde](https://open.spotify.com/album/6l3CpW4VLWVSvC0ARj9Cfn) | 4:41 | 2021-03-05 |  |
-| [Break\-Out](https://open.spotify.com/track/27pmnmNu2OOktpgfXqC6Xl) | [Rodney Stepp](https://open.spotify.com/artist/02mMWXpx6Kkkr55vi4iyhf) | [Soul Jazz Records presents SPACE FUNK \- Afro\-Futurist Electro Funk in Space 1976\-84](https://open.spotify.com/album/5ThrbrIXfa7CbL34g1FH0f) | 5:47 | 2020-09-18 |  |
+| [Break\-Out](https://open.spotify.com/track/27pmnmNu2OOktpgfXqC6Xl) | [Rodney Stepp](https://open.spotify.com/artist/02mMWXpx6Kkkr55vi4iyhf) | [Soul Jazz Records presents SPACE FUNK \- Afro\-Futurist Electro Funk in Space 1976\-84](https://open.spotify.com/album/5ThrbrIXfa7CbL34g1FH0f) | 5:47 | 2020-09-18 | 2023-04-30 |
+| [Break\-Out](https://open.spotify.com/track/6jkw6ers6QNSIn5lxkp11N) | [Rodney Stepp](https://open.spotify.com/artist/02mMWXpx6Kkkr55vi4iyhf) | [Soul Jazz Records presents SPACE FUNK \- Afro\-Futurist Electro Funk in Space 1976\-84](https://open.spotify.com/album/7FyxIddviuFxayIXXIl358) | 5:47 | 2020-09-18 |  |
 | [Breathe Deeper](https://open.spotify.com/track/51nYrq1zvDorGijDA0hLC1) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Breathe Deeper](https://open.spotify.com/album/7qkQOjSJbwUzRIFMdvXMQf) | 5:13 | 2022-03-18 |  |
 | [Call Me Up](https://open.spotify.com/track/2JGRHnNYsYsWGFZsAv3uvS) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Fancy Footwork: Deluxe Edition](https://open.spotify.com/album/4lPn10rqeU3aSMSApE1Ff8) | 4:11 | 2020-09-18 |  |
 | [Closer to You](https://open.spotify.com/track/174JRizws7VqM3oCF8zruo) | [Captain Supernova](https://open.spotify.com/artist/4BnBLvVYiuGjT6hNpZRzCH) | [The Voyage Never Ends...](https://open.spotify.com/album/2FzPLZyS7d7g6GneVKT4Kx) | 5:04 | 2020-09-18 |  |
 | [Closer to You](https://open.spotify.com/track/6QrSDXeYLtd67Qv05QekuL) | [Captain Supernova](https://open.spotify.com/artist/4BnBLvVYiuGjT6hNpZRzCH) | [The Voyage Never Ends...](https://open.spotify.com/album/04lEKdwK89i6kS8dhZZ54e) | 5:04 | 2020-09-18 | 2022-11-03 |
-| [Computer Funk](https://open.spotify.com/track/11D6lI4wkPYS4pgAwcVa5z) | [Osé](https://open.spotify.com/artist/1ogxAd9tjtTE5H6rtb4Pwj) | [Soul Jazz Records presents SPACE FUNK \- Afro\-Futurist Electro Funk in Space 1976\-84](https://open.spotify.com/album/5ThrbrIXfa7CbL34g1FH0f) | 6:32 | 2020-09-18 |  |
+| [Computer Funk](https://open.spotify.com/track/11D6lI4wkPYS4pgAwcVa5z) | [Osé](https://open.spotify.com/artist/1ogxAd9tjtTE5H6rtb4Pwj) | [Soul Jazz Records presents SPACE FUNK \- Afro\-Futurist Electro Funk in Space 1976\-84](https://open.spotify.com/album/5ThrbrIXfa7CbL34g1FH0f) | 6:32 | 2020-09-18 | 2023-04-30 |
+| [Computer Funk](https://open.spotify.com/track/4pP7kcJEo55xmH9Z9oPsrP) | [Osé](https://open.spotify.com/artist/1ogxAd9tjtTE5H6rtb4Pwj) | [Soul Jazz Records presents SPACE FUNK \- Afro\-Futurist Electro Funk in Space 1976\-84](https://open.spotify.com/album/7FyxIddviuFxayIXXIl358) | 6:32 | 2020-09-18 |  |
 | [Contagious](https://open.spotify.com/track/2TsASKFLtMb6M1D8W42pS3) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [Contagious](https://open.spotify.com/album/4fbDHh7p8PDxoPMjlesQsA) | 3:53 | 2020-09-18 | 2023-04-21 |
 | [Contagious](https://open.spotify.com/track/5X4PAws5oW5K22G6Ic17AV) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [Panorama: Form](https://open.spotify.com/album/5JHsZYG9ai1cW6YEZ0Rh2v) | 3:53 | 2020-09-18 |  |
 | [Crazy](https://open.spotify.com/track/0kUxknsCizotSJvigXGz78) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [G\-Stream](https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS) | 5:18 | 2020-10-30 |  |

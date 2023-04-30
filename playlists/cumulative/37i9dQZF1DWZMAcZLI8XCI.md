@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3wc57nV2fGEoM8x4xPK1O9">Dixon</a>'s favorite tracks\. Updated regularly\. Curated by Dixon\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-267 songs - 1 day 0 hr 6 min
+268 songs - 1 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [City Limits \- Robert Hood Remix](https://open.spotify.com/track/5ZLuggSCBLcAlQZY565lLW) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Kai Campos](https://open.spotify.com/artist/0ud7Vcl9BBEoOVwoWDqXIH), [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [City Limits \(Robert Hood Remix\)](https://open.spotify.com/album/5BS7B5x7YxbQVr7oTsGmZ7) | 6:59 | 2023-04-14 |  |
 | [Clavicle](https://open.spotify.com/track/6x7Dpmy13LxD0scMJlo7y0) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Clavicle](https://open.spotify.com/album/72ORLqTAUwh9s0VofE4WCb) | 3:33 | 2022-09-19 | 2022-11-09 |
 | [Closer](https://open.spotify.com/track/0av6xY2JaqNAbpYXCjU8aa) | [Oliver Henry](https://open.spotify.com/artist/5rrIGWOBnDYdcRz9FqdvfD) | [Closer](https://open.spotify.com/album/6pPS04MsiWVS51ycbGkU33) | 4:25 | 2023-02-02 | 2023-04-15 |
-| [Clutch Pearlers](https://open.spotify.com/track/36l0R9OLQLhRakstDG0sII) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Clutch Pearlers](https://open.spotify.com/album/3ABU76DvcER0crYxAWISCv) | 4:47 | 2023-04-14 |  |
+| [Clutch Pearlers](https://open.spotify.com/track/23P62YRP7ORVfuOdGYLtlr) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Clutch Pearlers](https://open.spotify.com/album/3Uhc5JRiwWVHVX494nWZlT) | 4:47 | 2023-04-14 |  |
+| [Clutch Pearlers](https://open.spotify.com/track/36l0R9OLQLhRakstDG0sII) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Clutch Pearlers](https://open.spotify.com/album/3ABU76DvcER0crYxAWISCv) | 4:47 | 2023-04-14 | 2023-04-30 |
 | [Code 6](https://open.spotify.com/track/6GNXASQDe7v7Cuqj8hC16O) | [tape\_hiss](https://open.spotify.com/artist/6OydxQlMHiFEwHEQMFo0bf) | [A Linear Progression](https://open.spotify.com/album/4mGT0rkmFIJjxbydHgGipJ) | 5:02 | 2023-04-14 |  |
 | [Crossing Guard](https://open.spotify.com/track/0frdgqqz7rjEZ4SQIH169V) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Dogsbody](https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok) | 4:44 | 2023-04-14 |  |
 | [Cthulhu Macula](https://open.spotify.com/track/4io0fAQqag2fUMZBAXFNFo) | [Unknown Genre](https://open.spotify.com/artist/6BNSFIToYFrAsHCd6S9FiL) | [Elevator Ride](https://open.spotify.com/album/26gYfezmZA4adSIfL4alEM) | 8:31 | 2022-09-19 | 2022-11-09 |

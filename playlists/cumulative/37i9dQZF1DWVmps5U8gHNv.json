@@ -200,10 +200,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 197000,
       "name": "Black Irish Indian",
       "url": "https://open.spotify.com/track/1xfRPtwYl8Na8WRzTQI9rd"
+    },
+    {
+      "album": {
+        "name": "Buckskin",
+        "url": "https://open.spotify.com/album/7qX6BmDAWMZFhJfttYQp0N"
+      },
+      "artists": [
+        {
+          "name": "Cherokee Rose",
+          "url": "https://open.spotify.com/artist/2Z9gor60OjbfpDEiFMIcOI"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Black Irish Indian",
+      "url": "https://open.spotify.com/track/6cdvmaxNwuKt7NFiJB4lN0"
     },
     {
       "album": {

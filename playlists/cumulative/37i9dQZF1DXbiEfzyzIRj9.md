@@ -4,7 +4,7 @@
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: The Blessed Madonna
 
-186 songs - 13 hr 51 min
+188 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [love him](https://open.spotify.com/track/4cDn73Qv5V3aRcPXIZOAwo) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [lil spirits](https://open.spotify.com/album/1qSGvtNStL6ELifn51W1va) | 3:13 | 2023-03-16 |  |
 | [Love Is Emotion](https://open.spotify.com/track/3IhWvRkKuh03tCoPu0RavK) | [Keita Sano](https://open.spotify.com/artist/4dBOdFLRA3l1S7I1eaSYCn) | [Love Is Emotion](https://open.spotify.com/album/1IRbkyv9JQQVf8WySlkQkI) | 6:28 | 2023-03-16 |  |
 | [Loyly \- Gimgigam Remix](https://open.spotify.com/track/3WyhSt2YyJnMv47hMEset5) | [Coldhot](https://open.spotify.com/artist/178wLpflQu05EwRZZVg18E), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [Loyly \(Gimgigam Remix\)](https://open.spotify.com/album/7t8VrAFKPY7CwSK1P6t4vM) | 3:26 | 2023-04-08 |  |
-| [M1, M3](https://open.spotify.com/track/6oVTKZr8DyW4PvV3MiMAhN) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [M1, M3 / GETOUTOFMYHEAD](https://open.spotify.com/album/6CD21gDg0zB2h1vLj54BDz) | 6:30 | 2023-03-16 |  |
+| [M1, M3](https://open.spotify.com/track/2dy2LigdnxZ5SLFLQZbKQk) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [M1, M3 / GETOUTOFMYHEAD](https://open.spotify.com/album/23zTuaBkMs6VX8O9gQPuRK) | 6:30 | 2023-04-27 |  |
+| [M1, M3](https://open.spotify.com/track/6oVTKZr8DyW4PvV3MiMAhN) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [M1, M3 / GETOUTOFMYHEAD](https://open.spotify.com/album/6CD21gDg0zB2h1vLj54BDz) | 6:30 | 2023-03-16 | 2023-04-30 |
 | [Madres](https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5) | 3:56 | 2023-03-20 |  |
 | [Mariposa](https://open.spotify.com/track/1tEVej8Ced5lCHy0nOX2hi) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Mariposa](https://open.spotify.com/album/7mDh3O1KajlknUZaJaYhrm) | 7:17 | 2023-03-16 |  |
 | [Merchants \- Sofia Kourtesis Remix](https://open.spotify.com/track/520mMFaIht3gpQTDKFWV9q) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Merchants \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/33RTfD7VivJU7thDW1w9qj) | 4:40 | 2023-04-08 |  |
@@ -128,7 +129,8 @@
 | [Oh My \(feat\. Moby\)](https://open.spotify.com/track/0c6XBVz2evmzERhch4Diew) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Oh My \(feat\. Moby\)](https://open.spotify.com/album/4OTve5gpkJVmmRltUEXkT0) | 2:40 | 2023-03-16 | 2023-04-28 |
 | [Olele](https://open.spotify.com/track/5pNv1gzuSFrNbc49zJKVfl) | [Fakear](https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT) | [Talisman](https://open.spotify.com/album/23tjnSTxUQS4e65ITVH2c9) | 3:45 | 2023-03-16 |  |
 | [On Your Side](https://open.spotify.com/track/0vypXe8paGmxoY0fxkLh0X) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [On Your Side](https://open.spotify.com/album/0ybSmADzvdW7DUNMwP33dk) | 6:28 | 2023-03-16 | 2023-03-31 |
-| [One Touch](https://open.spotify.com/track/6DURQC9m8Rt8SjL4ZKp0Eq) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/4VCCLsmrSghXSM8dxyhVWo) | 3:00 | 2023-04-08 |  |
+| [One Touch](https://open.spotify.com/track/3g4wkFSYsU7Qc7bPjaJEGV) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/21lJDSVSuhyKBqkzxn9gAE) | 3:00 | 2023-04-27 |  |
+| [One Touch](https://open.spotify.com/track/6DURQC9m8Rt8SjL4ZKp0Eq) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/4VCCLsmrSghXSM8dxyhVWo) | 3:00 | 2023-04-08 | 2023-04-30 |
 | [Otomo](https://open.spotify.com/track/59QNyVtGhYoDnpO6T1e4yR) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 6:11 | 2023-03-16 |  |
 | [Overthinker \- Stones Taro Remix](https://open.spotify.com/track/0mPLsl9A6JdPBqRws85AYk) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx), [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Overthinker\(Stones Taro Remix\)](https://open.spotify.com/album/53fRA0u4akvEtfL4POeEX5) | 4:54 | 2023-03-16 | 2023-04-28 |
 | [Peach](https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Peach](https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh) | 5:45 | 2023-04-08 |  |

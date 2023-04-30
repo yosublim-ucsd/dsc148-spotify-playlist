@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain]
 
 > Celebrating the extraordinary women breaking boundaries and keeping tradition alive\. Cover: Rhonda Vincent
 
-[Spotify](https://open.spotify.com/user/spotify) - 238 likes - 85 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 253 likes - 85 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain]
 | 7 | [Well](https://open.spotify.com/track/3YDobspkgUUmmJ6UCNTWyX) | [Sister Sadie](https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8) | [Well](https://open.spotify.com/album/18AaA4QngXSeE4wqm162fS) | 2:56 |
 | 8 | [Another Heartache](https://open.spotify.com/track/6ind9J8gGq4ooUhwIsmEoQ) | [Tina Adair](https://open.spotify.com/artist/2YCut5KatUQQWryPQYPQZS) | [Just You Wait And See](https://open.spotify.com/album/3ssgqsQBFmoGsMANTmDr9L) | 2:32 |
 | 9 | [Good Enough](https://open.spotify.com/track/6TlQv4UJ3DDmbw8zaRRFJm) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Rise](https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb) | 2:55 |
-| 10 | [Prodigal Daughter](https://open.spotify.com/track/42vqHuyCCHkdckWSeCmMTV) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Age of Apathy](https://open.spotify.com/album/69fyrHncvxDoWtZDuqKAKC) | 3:42 |
+| 10 | [Prodigal Daughter](https://open.spotify.com/track/62GUjBiYCUCGtd5BHOIhi0) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Age of Apathy](https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo) | 3:42 |
 | 11 | [Crossing Muddy Waters](https://open.spotify.com/track/7jb1ZSirsHV1H2cLTNbqDX) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Crossing Muddy Waters / Be My Husband](https://open.spotify.com/album/7dereZG0ayP3TOQJ3pqvqO) | 3:48 |
 | 12 | [Those Memories of You \- 2015 Remaster](https://open.spotify.com/track/7sdNvO1i0MeKRseYnuebGN) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Trio \(2016 Remaster\)](https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4) | 4:00 |
 | 13 | [God Spoke His Name](https://open.spotify.com/track/3aXy6uOVsfQNo0dcGf7s23) | [Claire Lynch](https://open.spotify.com/artist/00eldNtAqcdLF9adKlyFZf) | [Friends For A Lifetime](https://open.spotify.com/album/1TrRIBlGUzGhf3kemDNiLv) | 2:11 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain]
 | 40 | [Another Highway this Time](https://open.spotify.com/track/3FlNz8wQHg70Cl5vgQPDvD) | [Amanda Cook](https://open.spotify.com/artist/6BoGPE6HncyAwa1Ka8uQVn) | [Another Highway this Time](https://open.spotify.com/album/6gXdMqTmZQiOmDGAXGs3du) | 3:18 |
 | 41 | [One Voice](https://open.spotify.com/track/1p5scXmqROMpCC2Xv6neHe) | [The Wailin' Jennys](https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj) | [40 Days](https://open.spotify.com/album/5x3Nva9X9Mjr15GI3YKaBr) | 3:23 |
 | 42 | [Polly Ann's Hammer](https://open.spotify.com/track/0TW7CKQfR4Ps2mnjT2cmif) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW), [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl), [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 2:59 |
-| 43 | [Old Songs Never Die](https://open.spotify.com/track/3FKtWyA5l5mNGEGv0uRDSm) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs) | [Common Nation Of Sorrow](https://open.spotify.com/album/2IhYLlwuRGpWIzUuqJgY43) | 2:34 |
+| 43 | [Old Songs Never Die](https://open.spotify.com/track/1IQWXHm4JHL3xpHYrlawtR) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs) | [Common Nation Of Sorrow](https://open.spotify.com/album/53S29DN4hv8ZiRSuj5PdCo) | 2:34 |
 | 44 | [Gentle On My Mind](https://open.spotify.com/track/74WL1tJtovyeOS6Zo4qIX9) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Windy City \(Deluxe\)](https://open.spotify.com/album/0ZV0ADSGaNPIt9Avv3H0GG) | 3:34 |
 | 45 | [Hazel Creek](https://open.spotify.com/track/7D0pkrivao3Xw2mCO4CoIA) | [Murphy Henry](https://open.spotify.com/artist/16IzVSn0eZSPErN7JMU3Q2) | [The Patuxent Banjo Project](https://open.spotify.com/album/1whIcsiopcQJcTnu7Pi80O) | 4:02 |
 | 46 | [Fine Times at Our House](https://open.spotify.com/track/1v0N9HBqKKCJfhCLV9GuIb) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs) | 2:17 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain]
 | 70 | [Real Women Drive Trucks](https://open.spotify.com/track/32oTlq7w9VekLge7IonIW4) | [Casey Henry](https://open.spotify.com/artist/1vYxSBhLyy4ZgYAZhMa7OH) | [Real Women Drive Trucks](https://open.spotify.com/album/1jVkyZ198TAQO3pJelwM8p) | 3:45 |
 | 71 | [Can't You Hear Me Calling](https://open.spotify.com/track/23OoEtf6QaQ2HAUMvfldLa) | [Hazel Dickens](https://open.spotify.com/artist/2IEiSF4inDSwzQowcQjdfT), [Alice Gerrard](https://open.spotify.com/artist/3jw7tGSvkcf3nb1LWNnguT) | [Pioneering Women of Bluegrass](https://open.spotify.com/album/47foG5gtaTxSEmEM141ckO) | 3:16 |
 | 72 | [The Hard Way](https://open.spotify.com/track/2nwj84xtWw98wuLbkOR77O) | [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Secrets](https://open.spotify.com/album/6QNcb3Y6yNePv0w5mMPtLJ) | 4:29 |
-| 73 | [Transatlantic](https://open.spotify.com/track/18pyoFqtp4BeZat5hPELtz) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Kris Drever](https://open.spotify.com/artist/14T0l4AeAGbmAZjpQNdcqk) | [Transatlantic](https://open.spotify.com/album/1rNAkXvgVbxe7J3zNYQTNS) | 4:32 |
+| 73 | [Transatlantic](https://open.spotify.com/track/5epyQzvH7910hgRpCabGtp) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Kris Drever](https://open.spotify.com/artist/14T0l4AeAGbmAZjpQNdcqk) | [The Apathy Sessions](https://open.spotify.com/album/17KrnzA7mW2Gff5QGxi1rP) | 4:32 |
 | 74 | [I'd Like To Be A Train](https://open.spotify.com/track/3210iZQcMzIBq2mfPDvInF) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [Music Is What I See](https://open.spotify.com/album/58dYpoNXLV5SBjDWPjnRJK) | 3:54 |
 | 75 | [Black And White](https://open.spotify.com/track/3s2XiOGkArCBGDiJwDTBmx) | [Cherryholmes](https://open.spotify.com/artist/5kEVfWQGTw0rIDO2Jqq1ww) | [Cherryholmes II Black And White](https://open.spotify.com/album/3GIpi1yxbE6soZNVmk65Lo) | 5:18 |
 | 76 | [Independence, VA](https://open.spotify.com/track/3w45ekyUBXZe7dPjs7G5dO) | [April Verch](https://open.spotify.com/artist/2sWyhLJwYCBTziE9dhsew8) | [Steal the Blue](https://open.spotify.com/album/2kgoZiLr4QuCpcYQoRN4hI) | 3:24 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain]
 | 84 | [Still Waters](https://open.spotify.com/track/2V7gZvxlaWRLLr8bh24KJj) | [Jaelee Roberts](https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM) | [Still Waters](https://open.spotify.com/album/1kow6Yag9rCgmQyDmHXWj6) | 2:34 |
 | 85 | [Roses](https://open.spotify.com/track/3FFu0uOEWYckhG3x84G2Tw) | [Jackson Hollow](https://open.spotify.com/artist/2WCHpMBjtoxlCWKb8gedHW) | [Roses](https://open.spotify.com/album/2EfieuernrZzBlyGRh0Vsj) | 4:29 |
 
-Snapshot ID: `MCwzNmIzYzc0OWNmNjViODc3YTgzNDc2Njk3MmI3Y2I2YzZiMzVlNjAw`
+Snapshot ID: `MCw2N2Q1Yjg4ZDlhNTI2ODY2MTFhM2M0MmFiZjRkNDE2YzJkYWI4Njhi`

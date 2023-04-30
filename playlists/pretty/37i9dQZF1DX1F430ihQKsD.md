@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: Goodbye Karelle
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,296 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,339 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 61 | [Redcup](https://open.spotify.com/track/4qzwmA5yyAaMQgezGFJhRu) | [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8), [Sara Diamond](https://open.spotify.com/artist/4azg4dtpH6PiewGHFzQEj0) | [Redcup](https://open.spotify.com/album/2JqC8e1k92ih07yaSzq8Yx) | 2:41 |
 | 62 | [Participaction](https://open.spotify.com/track/0qsq7Uc65KPIHIRoWWClzb) | [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [Participaction](https://open.spotify.com/album/28QXkHLmSpG1ebxfZK6Kg0) | 2:54 |
 | 63 | [Heartbeat](https://open.spotify.com/track/5HWsGUloryGa2IxSCofayo) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [José Louis And The Paradox Of Love](https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf) | 3:04 |
-| 64 | [I Let My Plant Die](https://open.spotify.com/track/646qEtK5KSUDEmVLmJiLfE) | [Alicia Clara](https://open.spotify.com/artist/2SXUlfCHZornfHnrSMqIPe) | [I Let My Plant Die](https://open.spotify.com/album/1c4s3k9S4QEJRwVkta2JQq) | 4:02 |
+| 64 | [I Let My Plant Die](https://open.spotify.com/track/3Qrsp5Lkrf7Ad65wvanoeq) | [Alicia Clara](https://open.spotify.com/artist/2SXUlfCHZornfHnrSMqIPe) | [I Let My Plant Die](https://open.spotify.com/album/1iKWCghsfxBgHE1SSIzZ8z) | 4:02 |
 | 65 | [Safe Space](https://open.spotify.com/track/3C9LuqZ8kBJItBiZEEZ9xY) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Safe Space](https://open.spotify.com/album/1ks99OEgYN41RQmQVKIowY) | 3:23 |
 | 66 | [Mieux que rien](https://open.spotify.com/track/2ThckaIohgGpUHiG87yObp) | [Thomas Gauthier](https://open.spotify.com/artist/1o1lGge9gBLbaWPQ6QncqQ) | [Mieux que rien](https://open.spotify.com/album/4t1WcLs8gT4RlqptceZk6L) | 4:49 |
 | 67 | [jardin](https://open.spotify.com/track/2mcMoXYHmVLxmCgAvaO2cS) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/6wdpXFepbCvXuDmw45f9FR) | 4:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [La Roseraie](https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Sans oublier](https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c) | 2:50 |
 | 100 | [Sur la pointe des pieds](https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Allô Fantôme](https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8) | 6:36 |
 
-Snapshot ID: `MCw4MjhkZTk3YTZlNTJmMTJmMDhjNTZmODVhY2FkNGRlZmM1MzM4YWM1`
+Snapshot ID: `MCw4ZTRjMGNlNmJhNWMzOGViZTkzNmNlYzNlNWZiYjYzYTFmOTk3NDc5`

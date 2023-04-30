@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,612 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,622 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Spaceship](https://open.spotify.com/track/5PNLuATNp9KSGYIG7c1n0o) | [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [SMOOVE KILLA](https://open.spotify.com/album/0xbefplN6nQ5af0mMGHpXK) | 2:45 |
-| 2 | [One Touch](https://open.spotify.com/track/6DURQC9m8Rt8SjL4ZKp0Eq) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/4VCCLsmrSghXSM8dxyhVWo) | 3:00 |
+| 2 | [One Touch](https://open.spotify.com/track/3g4wkFSYsU7Qc7bPjaJEGV) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/21lJDSVSuhyKBqkzxn9gAE) | 3:00 |
 | 3 | [Ghetto Rèd](https://open.spotify.com/track/7woCBSbM2dMJXO7glFsUS4) | [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [Ghetto Rèd](https://open.spotify.com/album/6XFbhUBLtF9IfRImw7Wlo4) | 2:36 |
 | 4 | [Strike \(Holster\)](https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Strike \(Holster\)](https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH) | 2:28 |
 | 5 | [Chapapam](https://open.spotify.com/track/2fD8GaxZ3Fn9kkoZnFRB0m) | [El Tiri](https://open.spotify.com/artist/7a0XsIkyOLcRVpB6GYeye8) | [Chapapam](https://open.spotify.com/album/3JI1323Xxn1pH9syzbKmZQ) | 2:20 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 69 | [F.I.A.S.O.M\. Pt\. 2](https://open.spotify.com/track/7vy5cKebs6nFSpvAzzWKoP) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [MATA](https://open.spotify.com/album/2fexyU9sHdXHmI1jvPqrxX) | 2:49 |
 | 70 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 |
 
-Snapshot ID: `MCwwZTI1NDc0OWY2NWRhNzlkMDc4MjhmMTY1MzY3MWQ2ZTczYzkwYzdi`
+Snapshot ID: `MCxkZmJlNTRkZmUwNjE2ODIwM2NlMWM0NDBjZGZlZjdjNDczZWRkMzEx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zBnarWcy8.md) - [plain]
 
 > New Orleans kind of funk\. Cover: Cha Wa
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,633 likes - 49 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,642 likes - 49 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zBnarWcy8.md) - [plain]
 | 22 | [Here Come The Girls](https://open.spotify.com/track/3wiSzBv2UUK3skM74i22uM) | [Stanton Moore](https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj), [Cyril Neville](https://open.spotify.com/artist/7gZpdFerSL21Z6544jJIzI), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [With You In Mind](https://open.spotify.com/album/3prIp8tw4hQx5nHmd9Uhya) | 4:06 |
 | 23 | [Love Will Tear Us Apart](https://open.spotify.com/track/1j2iplFjazFwShpHmlx10W) | [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [Love Will Tear Us Apart](https://open.spotify.com/album/4BOdO6NVndpFv6P1bLNCZU) | 3:36 |
 | 24 | [Voodoo](https://open.spotify.com/track/465JohWeaz2FKbdKVmXvrJ) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Yellow Moon](https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF) | 4:27 |
-| 25 | [Back Street Lover \- Remastered](https://open.spotify.com/track/6z4GZz4cXtW2bddSoFSHfQ) | [Ernie K\-Doe](https://open.spotify.com/artist/3ybBNyjii40yY104IZkcly) | [Emperor Of New Orleans \(Remastered\)](https://open.spotify.com/album/6Kzdp5ojEJ28KCebR4Kb6z) | 2:28 |
+| 25 | [Back Street Lover \- Remastered](https://open.spotify.com/track/30HZp745HgvVFIIW1PDi89) | [Ernie K\-Doe](https://open.spotify.com/artist/3ybBNyjii40yY104IZkcly) | [Emperor Of New Orleans \(Remastered\)](https://open.spotify.com/album/5KcmoI0xNnzHv2EWxMlzAe) | 2:28 |
 | 26 | [Pop, Popcorn Children](https://open.spotify.com/track/0YUzEKoTak7VHts4p1jglt) | [Eldridge Holmes](https://open.spotify.com/artist/25aWvOh8uTg8ZZSZvOPB9P) | [Soul Jazz Records Presents New Orleans Funk 4: Voodoo Fire In New Orleans 1951\-75](https://open.spotify.com/album/0U19UvTHNfTrxKlXe3FvcA) | 2:51 |
 | 27 | [Monk's Mardi Gras](https://open.spotify.com/track/3ts8VLXkDDZhjXYTSOKB0J) | [Big Chief Monk Boudreaux](https://open.spotify.com/artist/6dEA9IhHWUof5HKLeYRGer) | [Won't Bow Down](https://open.spotify.com/album/5H5loW7aKraS3pVG4BnSLP) | 3:45 |
 | 28 | [The Booger Man](https://open.spotify.com/track/0urdlB0O4g9GmevYMKt7y6) | [The Gaturs](https://open.spotify.com/artist/2EHyjVJsfQWhloS0nJErz9), [Willie Tee](https://open.spotify.com/artist/0J4hhNPKGkF96BvCakh2Ab) | [Wasted](https://open.spotify.com/album/2KGCGxusSMQukNV8mvGvFS) | 2:33 |
@@ -51,11 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zBnarWcy8.md) - [plain]
 | 41 | [Just Kissed My Baby](https://open.spotify.com/track/1TB0dZqFRQsnf4fLLLRKQV) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [Rejuvenation](https://open.spotify.com/album/3OoFKxuziLv3B3NxhEJwOW) | 4:43 |
 | 42 | [Without a Trace \(feat\. Eric Benny Bloom\)](https://open.spotify.com/track/6oAoWCxAX63VZpAdk6Z2U1) | [Naughty Professor](https://open.spotify.com/artist/5oVhfa2J5GiPx2x0YTuJjI), [Eric Benny Bloom](https://open.spotify.com/artist/5iaAaY9BB6p5HFHdE8G0Ao) | [Identity](https://open.spotify.com/album/7dbOzAQXpNmzLTnjf2wGB5) | 4:31 |
 | 43 | [Things Are Better](https://open.spotify.com/track/32wspsaaxv8cVqeHdJGfwI) | [Ernie and The Top Notes, Inc.](https://open.spotify.com/artist/0AetmnbULfArJpZ8cEC7Ua) | [Funky Funky New Orleans, Vol\. 2](https://open.spotify.com/album/1PYVnByGgRQtgmNbBoclHT) | 2:21 |
-| 44 | [Arleen](https://open.spotify.com/track/3DeUYpweIXiJUnxCOB044F) | [Widespread Panic](https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf), [The Dirty Dozen Brass Band](https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7) | [Another Joyous Occasion](https://open.spotify.com/album/3Gc7yVu81y4QdTESIAkvA9) | 4:46 |
+| 44 | [Arleen](https://open.spotify.com/track/3124OFc2BeP3GqvHp3rrDF) | [Widespread Panic](https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf), [The Dirty Dozen Brass Band](https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7) | [Another Joyous Occasion](https://open.spotify.com/album/4lB4M2gk7neYz2ETDYZ1kP) | 4:46 |
 | 45 | [Rollo](https://open.spotify.com/track/3z0Oe9fJsGnIJLL326WA3f) | [Papa Grows Funk](https://open.spotify.com/artist/3HZGp40qZu7sjn5KswiU3Q) | [Needle in the Groove](https://open.spotify.com/album/1zEF32fMPWEdwefmX2Mzw4) | 4:14 |
 | 46 | [Justice](https://open.spotify.com/track/1OYRTU6qBHvf4TnFVgdzDA) | [Dumpstaphunk](https://open.spotify.com/artist/3ugJqEReL0yEhRyM4gYvbP), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Justice](https://open.spotify.com/album/2OTNeV0bYLqLdXEUclQGgS) | 4:31 |
 | 47 | [Heartbreaker](https://open.spotify.com/track/1cfZQ6Zssg8ASGhQvpclti) | [Bonerama](https://open.spotify.com/artist/29C6qd6bEW3SrWxANgjYNw) | [Bonerama Plays Zeppelin](https://open.spotify.com/album/0Lw4VdAQBPVcZKNDRFXmLI) | 5:50 |
 | 48 | [Going On](https://open.spotify.com/track/6E6yIFd8X0XGCbjMHJ9mPH) | [Johnny Sketch & The Dirty Notes](https://open.spotify.com/artist/4euiFJVFE4gijlrQl4b7DF) | [Sketch](https://open.spotify.com/album/0yvRNAIe87HXEiQtxV3DmM) | 4:26 |
 | 49 | [Four Horsemen](https://open.spotify.com/track/2rnxsfbS4peLw0ZP71YRO8) | [Big Chief Monk Boudreaux](https://open.spotify.com/artist/6dEA9IhHWUof5HKLeYRGer) | [Won't Bow Down](https://open.spotify.com/album/5H5loW7aKraS3pVG4BnSLP) | 6:47 |
 
-Snapshot ID: `MCw0NzJmYTZkZTdkMTJlNDQ1MjMxZWVmOWFiNGY4YWM3OTRhN2VjY2Ez`
+Snapshot ID: `MCw0YWY1MzU2NTcwZWIxMzdjNjgyMDRmYzVjYzUxZjgxYWUyMTFjZmFl`

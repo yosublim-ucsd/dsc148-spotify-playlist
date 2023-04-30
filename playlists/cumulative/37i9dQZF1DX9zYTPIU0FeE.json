@@ -1572,6 +1572,24 @@
     {
       "album": {
         "name": "Resonance of Truth",
+        "url": "https://open.spotify.com/album/2BT9yT0t764TDt5Gqxi7XC"
+      },
+      "artists": [
+        {
+          "name": "Bokani Dyer",
+          "url": "https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319500,
+      "name": "Resonance of Truth",
+      "url": "https://open.spotify.com/track/3khqXPns3K35UUWdikdcGq"
+    },
+    {
+      "album": {
+        "name": "Resonance of Truth",
         "url": "https://open.spotify.com/album/2bdu1AlNxOIUoQgJG9ho60"
       },
       "artists": [
@@ -1582,7 +1600,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 319500,
       "name": "Resonance of Truth",
       "url": "https://open.spotify.com/track/4EoHAXteZOnhNhw90XzilV"
@@ -2128,10 +2146,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 567240,
       "name": "Wynter Time",
       "url": "https://open.spotify.com/track/14MNWR9L2Hm62cwZTj0lBM"
+    },
+    {
+      "album": {
+        "name": "Wynter Time",
+        "url": "https://open.spotify.com/album/77Eh0NmNr9ITqpaSwg5xvh"
+      },
+      "artists": [
+        {
+          "name": "Asher Gamedze",
+          "url": "https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 567240,
+      "name": "Wynter Time",
+      "url": "https://open.spotify.com/track/3keL9OPcgEPFKrclh0nlSg"
     },
     {
       "album": {

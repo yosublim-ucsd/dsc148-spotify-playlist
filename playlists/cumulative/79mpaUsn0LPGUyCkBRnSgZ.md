@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-208 songs - 12 hr 57 min
+209 songs - 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Teeth Like God's Shoeshine](https://open.spotify.com/track/5aUn8l6MaYrh9yNBzrLEBF) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [The Lonesome Crowded West](https://open.spotify.com/album/5mvHTVy1iUIkAflIufoOpj) | 6:53 | 2022-09-20 |  |
 | [Tekka](https://open.spotify.com/track/4JDdbnKobkyn7j2o76D1mV) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [Velocity: Design: Comfort.](https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2) | 3:08 | 2023-01-07 |  |
 | [Tha Mobb](https://open.spotify.com/track/3DXjKH4NR0tRS44Sb1H8fw) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter II](https://open.spotify.com/album/7slHgsEMuJfnuft5LAPyw6) | 5:20 | 2022-04-08 |  |
+| [That! Feels Good!](https://open.spotify.com/track/1XaHF28nrXBbyitGIGSdna) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [That! Feels Good!](https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6) | 4:22 | 2023-04-29 |  |
 | [That’s Just the Way That I Feel](https://open.spotify.com/track/5mgCP62kIGit9ICUdaqIgq) | [Purple Mountains](https://open.spotify.com/artist/1ll45mCZIveI9KHNZx2DdS) | [Purple Mountains](https://open.spotify.com/album/6YM4MpYgz6BhIeqQkxp3u4) | 3:23 | 2022-06-13 |  |
 | [The Baddest](https://open.spotify.com/track/1VPrpfphPvCkTM09DDt7OY) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [2000](https://open.spotify.com/album/5lICxaH7i12zXxQGjd2Mjn) | 2:43 | 2022-09-07 |  |
 | [THE BEACH](https://open.spotify.com/track/0lqAn1YfFVQ3SdoF7tRZO2) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [RAMONA PARK BROKE MY HEART](https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW) | 1:07 | 2022-04-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 
 > The official playlist for <a href="spotify:user:0ouhj3nctpqgo8bgamzte2o6o">Paramount Network</a>'s Yellowstone.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,345 likes - 197 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,816 likes - 197 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,7 +136,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 126 | [Rip vs Kayce \(Music from the Original TV Series Yellowstone Season 2\)](https://open.spotify.com/track/38La7N0O6Yb6bO3hLKgy4o) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Rip vs Kayce \(Music from the Original TV Series Yellowstone Season 2\)](https://open.spotify.com/album/3lFz4zm0YIteluTeIJIGBJ) | 3:46 |
 | 127 | [Headstone](https://open.spotify.com/track/4rQfCllOKfgfsZdwvRUT8G) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Early Morning Shakes](https://open.spotify.com/album/153JmAA3a2Rf9ms6W1dEiR) | 4:19 |
 | 128 | [This Is My Family \(Music from the Original TV Series Yellowstone Season 2\)](https://open.spotify.com/track/7jhxSE7ZAzsMZqOfIyVM10) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [This Is My Family \(Music from the Original TV Series Yellowstone Season 2\)](https://open.spotify.com/album/7nhGoBsvZhw6xgaSecP5if) | 3:22 |
-| 129 | [Take This Heart of Gold](https://open.spotify.com/track/0Zyt3eB2Ddhert42wIa181) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/2Ww7LYiKIxQUhLyiXtlppZ) | 3:45 |
+| 129 | [Take This Heart of Gold](https://open.spotify.com/track/3HPmjLKBBxGiLtrvhN33Yf) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/3CwgFOEB6g9vfADfAcYaIL) | 3:45 |
 | 130 | [Prayers](https://open.spotify.com/track/67SZVaLGhOhCg2siYjv43l) | [Pete Sands & the Drifters](https://open.spotify.com/artist/6DnpI5V4pE8jEJaWgiWLVs) | [Prayers](https://open.spotify.com/album/5wsa4sCcEdG43zIYin1xNw) | 2:08 |
 | 131 | [All I Know](https://open.spotify.com/track/719EOb1wnBHZ9c32MbPMxO) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Earthly Days](https://open.spotify.com/album/5NR43RWA1g04CY4WlURruA) | 4:25 |
 | 132 | [Nose On The Grindstone \(OurVinyl Sessions\)](https://open.spotify.com/track/4a2uqVlpRChHj32EjJLu7G) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [Tyler Childers \| OurVinyl Sessions](https://open.spotify.com/album/42nsomRaEURVkNt7IF1IFu) | 3:24 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 196 | [Yellowstone Main Titles](https://open.spotify.com/track/2UJvq5v0tSh1UrtINtKhMn) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 1:09 |
 | 197 | [Yellowstone Theme](https://open.spotify.com/track/39dFpriXYV9LfUSRJZXqyI) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 2:28 |
 
-Snapshot ID: `MCxiZDk3YTM2ZDc0NzY2NjZlYjU1Njg1OTZlZTc0NTBkMzlmY2ExMjIz`
+Snapshot ID: `MCwxODExNzAzYzBjMjUyNjI2YWYyODA5MDhiNzIzYzZhZWRhOWM4NTYx`

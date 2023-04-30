@@ -180,7 +180,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 172252,
       "name": "10:35",
       "url": "https://open.spotify.com/track/36gcliMRX1vCpgnrZE3dFZ"
@@ -750,7 +750,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 166942,
       "name": "3 Sekunden (feat. Paula Hartmann)",
       "url": "https://open.spotify.com/track/7fTJOA7DSGp5LNua6OdMIF"
@@ -838,6 +838,28 @@
       "duration_ms": 235279,
       "name": "4 Kanaken",
       "url": "https://open.spotify.com/track/7zjm7wvjfDxrhkN2kPqjWn"
+    },
+    {
+      "album": {
+        "name": "High & Hungrig 3",
+        "url": "https://open.spotify.com/album/5GhY9fvnvljahZOM4tWkHD"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144844,
+      "name": "40 Jahre",
+      "url": "https://open.spotify.com/track/3TIkXqTbyDU3d8gcCWoI84"
     },
     {
       "album": {
@@ -1140,6 +1162,28 @@
       "duration_ms": 191822,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
+    },
+    {
+      "album": {
+        "name": "High & Hungrig 3",
+        "url": "https://open.spotify.com/album/5GhY9fvnvljahZOM4tWkHD"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150200,
+      "name": "Abziehen",
+      "url": "https://open.spotify.com/track/0U6ue3yFiHAvqthAT77qaj"
     },
     {
       "album": {
@@ -2110,7 +2154,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -3047,6 +3091,28 @@
     },
     {
       "album": {
+        "name": "High & Hungrig 3",
+        "url": "https://open.spotify.com/album/5GhY9fvnvljahZOM4tWkHD"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141430,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/6eeUDtR2OHjdDnAlFaO4cl"
+    },
+    {
+      "album": {
         "name": "Back To You",
         "url": "https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr"
       },
@@ -3548,7 +3614,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 178453,
       "name": "Beautiful Girl",
       "url": "https://open.spotify.com/track/5xX2LYdXyx0Boa61rZOjq5"
@@ -4615,6 +4681,28 @@
     },
     {
       "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/3IntWnD2ZnXoxwLwwNOS4b"
+      },
+      "artists": [
+        {
+          "name": "Milano",
+          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
+        },
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154487,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/46TNrxrt8FqTp4r5StPkCN"
+    },
+    {
+      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
       },
@@ -5407,6 +5495,32 @@
     },
     {
       "album": {
+        "name": "Bumsbar",
+        "url": "https://open.spotify.com/album/5scHLxNmarpll2bsmIP9ny"
+      },
+      "artists": [
+        {
+          "name": "Ikke H\u00fcftgold",
+          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+        },
+        {
+          "name": "Sch\u00fcrze",
+          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
+        },
+        {
+          "name": "DJ Robin",
+          "url": "https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Bumsbar",
+      "url": "https://open.spotify.com/track/62NrIrsxxNXJVvtRivWYjM"
+    },
+    {
+      "album": {
         "name": "Bunny Bars (Osterhase)",
         "url": "https://open.spotify.com/album/6STSuQBHx97jufQT2cB2qK"
       },
@@ -5914,7 +6028,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 184013,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/5TOgxgZrIZzvaKg9r2bvc2"
@@ -6162,10 +6276,32 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 167821,
       "name": "Cinnamon Roll",
       "url": "https://open.spotify.com/track/3TiDVckwzL4Y1StEXFYGt7"
+    },
+    {
+      "album": {
+        "name": "High & Hungrig 3",
+        "url": "https://open.spotify.com/album/5GhY9fvnvljahZOM4tWkHD"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167821,
+      "name": "Cinnamon Roll",
+      "url": "https://open.spotify.com/track/4GUrzAwDBOyEMQTo42GGzf"
     },
     {
       "album": {
@@ -7085,6 +7221,32 @@
     },
     {
       "album": {
+        "name": "High & Hungrig 3",
+        "url": "https://open.spotify.com/album/5GhY9fvnvljahZOM4tWkHD"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        },
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168525,
+      "name": "Das ist Gang",
+      "url": "https://open.spotify.com/track/7fZmANd1TQpuRys3c3bAv4"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU"
       },
@@ -7434,7 +7596,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 130707,
       "name": "Diamond Ring",
       "url": "https://open.spotify.com/track/4AzR20u5TiZVR4932QbGTt"
@@ -8322,7 +8484,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 268235,
       "name": "Double Fantasy (with Future)",
       "url": "https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi"
@@ -9334,7 +9496,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 185580,
       "name": "Ein Auge blau",
       "url": "https://open.spotify.com/track/1po98uYmh7Wf2GFBOKQNGF"
@@ -9916,7 +10078,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
@@ -11627,6 +11789,32 @@
     },
     {
       "album": {
+        "name": "High & Hungrig 3",
+        "url": "https://open.spotify.com/album/5GhY9fvnvljahZOM4tWkHD"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        },
+        {
+          "name": "LX",
+          "url": "https://open.spotify.com/artist/10XY9PZCJKzUFzZOdtlQLU"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188389,
+      "name": "F\u00fcr die Strasse",
+      "url": "https://open.spotify.com/track/15MMmd3F4O7xDqhsnLHBI2"
+    },
+    {
+      "album": {
         "name": "Gabber Girl",
         "url": "https://open.spotify.com/album/3jauUtxG6zFpCt0zG4YTJq"
       },
@@ -11738,6 +11926,28 @@
       "duration_ms": 158294,
       "name": "Ganxta im CD Regal",
       "url": "https://open.spotify.com/track/7mmPRDxLVerjUcnBndTzAW"
+    },
+    {
+      "album": {
+        "name": "High & Hungrig 3",
+        "url": "https://open.spotify.com/album/5GhY9fvnvljahZOM4tWkHD"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174488,
+      "name": "Ganz normal",
+      "url": "https://open.spotify.com/track/6KHtlo2an3m7SMmc16H7YF"
     },
     {
       "album": {
@@ -12150,7 +12360,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 162857,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/6h6HgJ66laDl6bY8W59Jdn"
@@ -12364,7 +12574,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 102860,
       "name": "Give It To Me - Full Vocal Mix",
       "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
@@ -13190,7 +13400,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 207428,
       "name": "Hallow Kitty",
       "url": "https://open.spotify.com/track/6sizQj16amSoj5iXMDCx5J"
@@ -14758,7 +14968,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 192835,
       "name": "Ich hass dich",
       "url": "https://open.spotify.com/track/2toCf2FDbTIdWriPI6kcsY"
@@ -15527,6 +15737,28 @@
     },
     {
       "album": {
+        "name": "High & Hungrig 3",
+        "url": "https://open.spotify.com/album/5GhY9fvnvljahZOM4tWkHD"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82539,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/17XWgWKYBKF8a6NAh5Wq0z"
+    },
+    {
+      "album": {
         "name": "Palmen aus Plastik 3",
         "url": "https://open.spotify.com/album/6SZrGBrZZ77WqyMB2wsJQ9"
       },
@@ -15622,6 +15854,24 @@
       "duration_ms": 188200,
       "name": "INZIDANCE",
       "url": "https://open.spotify.com/track/6M8ys9IHYwxUeAhAcC6f7m"
+    },
+    {
+      "album": {
+        "name": "irgendwie",
+        "url": "https://open.spotify.com/album/3EVnfHAno6ce0Nc2x4ZdaQ"
+      },
+      "artists": [
+        {
+          "name": "t-low",
+          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211576,
+      "name": "irgendwie",
+      "url": "https://open.spotify.com/track/6LzDR9u3l8RGC9YCizbEVC"
     },
     {
       "album": {
@@ -16064,7 +16314,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 165066,
       "name": "Juicy",
       "url": "https://open.spotify.com/track/4i81SNeu64liIEAytWqIOK"
@@ -16342,6 +16592,28 @@
       "duration_ms": 210786,
       "name": "KARMA",
       "url": "https://open.spotify.com/track/61pZEdG7eSvdjGOdRGYyqu"
+    },
+    {
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/7MzEETFC6yDYe1aPxm8m2K"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        },
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151200,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/6DLSBLkABrsLokGPVTk7me"
     },
     {
       "album": {
@@ -17074,6 +17346,28 @@
       "duration_ms": 171069,
       "name": "KISSENSCHLACHT",
       "url": "https://open.spotify.com/track/70Xfh3baxA4xusCiV5B5jg"
+    },
+    {
+      "album": {
+        "name": "High & Hungrig 3",
+        "url": "https://open.spotify.com/album/5GhY9fvnvljahZOM4tWkHD"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135929,
+      "name": "Klappmesser",
+      "url": "https://open.spotify.com/track/7K5VtN8B0MjI1sxs1izE8r"
     },
     {
       "album": {
@@ -18805,6 +19099,24 @@
     },
     {
       "album": {
+        "name": "LORBEERKRANZ",
+        "url": "https://open.spotify.com/album/53hHhW8VhOrRZ6VSYS4kpe"
+      },
+      "artists": [
+        {
+          "name": "Kollegah",
+          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207500,
+      "name": "LORBEERKRANZ",
+      "url": "https://open.spotify.com/track/3ixYwMhY3eLvdrz0paiYGD"
+    },
+    {
+      "album": {
         "name": "Just Lose It",
         "url": "https://open.spotify.com/album/1rfORa9iYmocEsnnZGMVC4"
       },
@@ -20519,6 +20831,28 @@
     },
     {
       "album": {
+        "name": "Mentalit\u00e9 RMX (feat. KALIM)",
+        "url": "https://open.spotify.com/album/3xsPQLTi1UWkSSr3d69GjS"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "KALIM",
+          "url": "https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218049,
+      "name": "Mentalit\u00e9 RMX (feat. KALIM)",
+      "url": "https://open.spotify.com/track/6B9Gb4RWUDd6mZKHGANt7d"
+    },
+    {
+      "album": {
         "name": "Meow",
         "url": "https://open.spotify.com/album/5kFlZHCStlfGziOlbdGgEI"
       },
@@ -21184,6 +21518,32 @@
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
+    },
+    {
+      "album": {
+        "name": "Modus Rap",
+        "url": "https://open.spotify.com/album/7eqP99VgOXxnNXJ9KkaMGh"
+      },
+      "artists": [
+        {
+          "name": "PA Sports",
+          "url": "https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt"
+        },
+        {
+          "name": "Kool Savas",
+          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
+        },
+        {
+          "name": "Azad",
+          "url": "https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199396,
+      "name": "Modus Rap",
+      "url": "https://open.spotify.com/track/0Yyn39gPg8tYSIh9uo3XRi"
     },
     {
       "album": {
@@ -22288,7 +22648,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 158080,
       "name": "Nachts wach (Lila Wolken Bootleg)",
       "url": "https://open.spotify.com/track/5qEGAHerczFt3HmL9lhh4j"
@@ -22613,6 +22973,24 @@
     },
     {
       "album": {
+        "name": "Neunzig",
+        "url": "https://open.spotify.com/album/4sTrbesmnig1SJYSBYAJBn"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145606,
+      "name": "Neunzig",
+      "url": "https://open.spotify.com/track/0pC6XqDVKQC4czY2bgF7nj"
+    },
+    {
+      "album": {
         "name": "Never Felt So Alone",
         "url": "https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX"
       },
@@ -22818,6 +23196,32 @@
       "duration_ms": 183240,
       "name": "NICHT MEHR HIER",
       "url": "https://open.spotify.com/track/12igldvVbaELKrGqUaFsMT"
+    },
+    {
+      "album": {
+        "name": "High & Hungrig 3",
+        "url": "https://open.spotify.com/album/5GhY9fvnvljahZOM4tWkHD"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        },
+        {
+          "name": "Sa4",
+          "url": "https://open.spotify.com/artist/5qZLYtTL3ldN6Uw7OXHESR"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170318,
+      "name": "Nicht satt",
+      "url": "https://open.spotify.com/track/5k2ACWiS4Ev6p5Zj3yCSee"
     },
     {
       "album": {
@@ -23058,6 +23462,32 @@
       "duration_ms": 149573,
       "name": "Nightmares",
       "url": "https://open.spotify.com/track/6tXSj6MWL76ebA1vy4VfsN"
+    },
+    {
+      "album": {
+        "name": "High & Hungrig 3",
+        "url": "https://open.spotify.com/album/5GhY9fvnvljahZOM4tWkHD"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        },
+        {
+          "name": "Olexesh",
+          "url": "https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137828,
+      "name": "Nix zu tun",
+      "url": "https://open.spotify.com/track/2LnUiS8PcdL1BXk410VwTy"
     },
     {
       "album": {
@@ -23524,6 +23954,24 @@
       "duration_ms": 197880,
       "name": "OFFICIEL",
       "url": "https://open.spotify.com/track/4ZkwitJ9dSZDIdlI5xzX9q"
+    },
+    {
+      "album": {
+        "name": "OFFLINE",
+        "url": "https://open.spotify.com/album/0DQBs1u62ihgJjlsISodTb"
+      },
+      "artists": [
+        {
+          "name": "RIN",
+          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138352,
+      "name": "OFFLINE",
+      "url": "https://open.spotify.com/track/1DLVP4YYfmSey1gBcELyJg"
     },
     {
       "album": {
@@ -24054,7 +24502,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 200357,
       "name": "Orange",
       "url": "https://open.spotify.com/track/7jvwORp293fGCP6KfmE8aQ"
@@ -26696,7 +27144,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 157093,
       "name": "Roller",
       "url": "https://open.spotify.com/track/6hw1Sy9wZ8UCxYGdpKrU6M"
@@ -27552,7 +28000,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 195107,
       "name": "Schimmel in der Villa",
       "url": "https://open.spotify.com/track/5Jb6RjWePh19NzE8vsaa4r"
@@ -27690,6 +28138,28 @@
       "duration_ms": 136789,
       "name": "Schnelle Brille",
       "url": "https://open.spotify.com/track/5Ig9ZFTfH6PIjjZxtY3iUw"
+    },
+    {
+      "album": {
+        "name": "High & Hungrig 3",
+        "url": "https://open.spotify.com/album/5GhY9fvnvljahZOM4tWkHD"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127094,
+      "name": "Scho-Ko",
+      "url": "https://open.spotify.com/track/39yJfvkFz4eC23BXbIgghA"
     },
     {
       "album": {
@@ -28064,6 +28534,28 @@
       "duration_ms": 153982,
       "name": "September",
       "url": "https://open.spotify.com/track/04EBsGEXJnq4iQtB0W6cUW"
+    },
+    {
+      "album": {
+        "name": "Session 1 HERE WE GO",
+        "url": "https://open.spotify.com/album/0zzKq5G08H2m963aZYPUeF"
+      },
+      "artists": [
+        {
+          "name": "Farid Bang",
+          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
+        },
+        {
+          "name": "Bobby Vandamme",
+          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139969,
+      "name": "Session 1 HERE WE GO",
+      "url": "https://open.spotify.com/track/5qP0pT2juRy7FKLndezexE"
     },
     {
       "album": {
@@ -28940,7 +29432,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 122015,
       "name": "Spacecar",
       "url": "https://open.spotify.com/track/0mmKfCU6sFt0SjEHMHSpjG"
@@ -29540,7 +30032,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 170373,
       "name": "STERNHIMMELDACH",
       "url": "https://open.spotify.com/track/0pMrfuW3AFMzqdHbzXuK2x"
@@ -29860,6 +30352,28 @@
       "duration_ms": 144253,
       "name": "Summertime Sadness",
       "url": "https://open.spotify.com/track/3Z3fwItPiuHHDH94cYClNf"
+    },
+    {
+      "album": {
+        "name": "High & Hungrig 3",
+        "url": "https://open.spotify.com/album/5GhY9fvnvljahZOM4tWkHD"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158686,
+      "name": "Sunnyside Moneymakerz",
+      "url": "https://open.spotify.com/track/6d3RrJEUhqGk4zxH48jtpS"
     },
     {
       "album": {
@@ -30434,10 +30948,32 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 146510,
       "name": "Tanzen (mit Handschellen)",
       "url": "https://open.spotify.com/track/0SadJkWdnNOd8pljEd9Dfx"
+    },
+    {
+      "album": {
+        "name": "High & Hungrig 3",
+        "url": "https://open.spotify.com/album/5GhY9fvnvljahZOM4tWkHD"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146510,
+      "name": "Tanzen (mit Handschellen)",
+      "url": "https://open.spotify.com/track/6Q6Os8JhYK3LA73I5tjJXG"
     },
     {
       "album": {
@@ -33348,7 +33884,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 236157,
       "name": "We Are The People - southstar Remix",
       "url": "https://open.spotify.com/track/4atLPkcljMp14JBaigYFKC"
@@ -33458,7 +33994,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 127003,
       "name": "Weekends",
       "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"

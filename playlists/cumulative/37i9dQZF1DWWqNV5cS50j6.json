@@ -5725,6 +5725,24 @@
     },
     {
       "album": {
+        "name": "4:23",
+        "url": "https://open.spotify.com/album/0ACtwMaMVewYM4hFu9FXhZ"
+      },
+      "artists": [
+        {
+          "name": "MIKE DEAN",
+          "url": "https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105551,
+      "name": "Defame Moi",
+      "url": "https://open.spotify.com/track/15zbdT98jFyZO2MFg1rbqD"
+    },
+    {
+      "album": {
         "name": "Devilish",
         "url": "https://open.spotify.com/album/3NXbeM5YvGITtvY6CTSxFt"
       },
@@ -16795,6 +16813,28 @@
     },
     {
       "album": {
+        "name": "No Light in Heaven (Expanded)",
+        "url": "https://open.spotify.com/album/5QIdQE3hMlEGH02kdQTgjf"
+      },
+      "artists": [
+        {
+          "name": "Strange Ranger",
+          "url": "https://open.spotify.com/artist/3psutwIiyR5tfTM1TTNxFv"
+        },
+        {
+          "name": "Harrison Patrick Smith",
+          "url": "https://open.spotify.com/artist/1YBW3PHQIezuY0pAKZwWNA"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233653,
+      "name": "Pass Me By - Harrison Patrick Smith Remix",
+      "url": "https://open.spotify.com/track/3qtroSm8RsJeGST3SpogVh"
+    },
+    {
+      "album": {
         "name": "Pass Me By (Harrison Patrick Smith Remix)",
         "url": "https://open.spotify.com/album/23izxUr4N6GpIcwMe9LsEr"
       },
@@ -16810,7 +16850,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 233653,
       "name": "Pass Me By - Harrison Patrick Smith Remix",
       "url": "https://open.spotify.com/track/5cziJucAGfuHrFcFuZIIb8"
@@ -20448,7 +20488,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 168000,
       "name": "SMOKE",
       "url": "https://open.spotify.com/track/3meycN9hk4DZaMBfi2HDny"

@@ -124,7 +124,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 182773,
       "name": "Bad Treatment",
       "url": "https://open.spotify.com/track/215IEBl0xMCM6lhSPFY0uV"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 121470,
       "name": "Call to Me (aka Come to Me)",
       "url": "https://open.spotify.com/track/07JiDePV5j3JS2Ohss2u7y"
@@ -398,6 +398,24 @@
       "duration_ms": 199746,
       "name": "Declaration of Rights",
       "url": "https://open.spotify.com/track/1Fi6u796KbUTlg2XwFwJim"
+    },
+    {
+      "album": {
+        "name": "The Best of Studio One, Vol. 1",
+        "url": "https://open.spotify.com/album/4I8Brkbsd0auuU1R3dsws7"
+      },
+      "artists": [
+        {
+          "name": "The Abyssinians",
+          "url": "https://open.spotify.com/artist/1vB5909auE9YUaTjQ7ZkTj"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199746,
+      "name": "Declaration of Rights",
+      "url": "https://open.spotify.com/track/3nZY7IAd5VJ9O2E5vHynx6"
     },
     {
       "album": {
@@ -708,7 +726,7 @@
     {
       "album": {
         "name": "Presenting The Gladiators",
-        "url": "https://open.spotify.com/album/6inbtfHKcxOyAAOqkzw7di"
+        "url": "https://open.spotify.com/album/2k0QrDX5MJCGHp0XyHyOBg"
       },
       "artists": [
         {
@@ -719,6 +737,24 @@
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 161567,
+      "name": "Jah Jah Go Before Us",
+      "url": "https://open.spotify.com/track/0zUagLtFMJJWhXtTBp5OLT"
+    },
+    {
+      "album": {
+        "name": "Presenting The Gladiators",
+        "url": "https://open.spotify.com/album/6inbtfHKcxOyAAOqkzw7di"
+      },
+      "artists": [
+        {
+          "name": "The Gladiators",
+          "url": "https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 161567,
       "name": "Jah Jah Go Before Us",
       "url": "https://open.spotify.com/track/1R0XkmUBzSOqiWV8XSZ1if"
@@ -1024,7 +1060,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 215946,
       "name": "Namibia",
       "url": "https://open.spotify.com/track/0tzz52F0Y1bPeRT31cIdCr"
@@ -1118,6 +1154,24 @@
       "duration_ms": 269506,
       "name": "No No No",
       "url": "https://open.spotify.com/track/1IydAjgvKCvFinmoIDaBx0"
+    },
+    {
+      "album": {
+        "name": "Feel Like Jumping: The Best of Studio One Women",
+        "url": "https://open.spotify.com/album/3RTeh1T46KVNuoSyTYE2Ns"
+      },
+      "artists": [
+        {
+          "name": "Dawn Penn",
+          "url": "https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269506,
+      "name": "No No No",
+      "url": "https://open.spotify.com/track/6CWghtCtJOgJgP58GyFx2m"
     },
     {
       "album": {
@@ -1226,6 +1280,24 @@
       "duration_ms": 253373,
       "name": "Poco Tempo",
       "url": "https://open.spotify.com/track/1X2V7D8O2BeVXPatr23Evr"
+    },
+    {
+      "album": {
+        "name": "Natural High: The Bongo Man Collection",
+        "url": "https://open.spotify.com/album/0LgCSVBOq8Ztb2iganefyS"
+      },
+      "artists": [
+        {
+          "name": "Pablove Black and The New Establishment",
+          "url": "https://open.spotify.com/artist/1AWHkjdfs8WUkn61MicKNq"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250543,
+      "name": "Poco Tempo (aka Pocco Tempo)",
+      "url": "https://open.spotify.com/track/0yDFdIxaF1fRGrPMYyMRyP"
     },
     {
       "album": {

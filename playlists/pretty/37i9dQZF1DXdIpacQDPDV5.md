@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Tiësto
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,472 likes - 85 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,504 likes - 85 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,10 +77,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 67 | [Synergy](https://open.spotify.com/track/5KkxBEAqnxcfibAepMZSyA) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Synergy](https://open.spotify.com/album/10FiVORbZ6sRGYLWkP3PQ4) | 3:29 |
 | 68 | [turn it all the way up](https://open.spotify.com/track/40FhKFG0SIUpxE7doxifpZ) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [turn it all the way up](https://open.spotify.com/album/5TGDbBxkgpfVtjZF6FTyUX) | 2:36 |
 | 69 | [Off Switch \(with Elle Vee\)](https://open.spotify.com/track/3bB7B7mvhRjmREvfO3MokW) | [2Awake](https://open.spotify.com/artist/0eUzuZ1U6Ofl82Gwotjka3), [SixCap](https://open.spotify.com/artist/1Q4td6MS7PJuJeNyjzmh8s), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH) | [Off Switch \(with Elle Vee\)](https://open.spotify.com/album/5tRVC4QA55ITMtBtD8bP0f) | 2:42 |
-| 70 | [One Touch](https://open.spotify.com/track/6DURQC9m8Rt8SjL4ZKp0Eq) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/4VCCLsmrSghXSM8dxyhVWo) | 3:00 |
+| 70 | [One Touch](https://open.spotify.com/track/3g4wkFSYsU7Qc7bPjaJEGV) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/21lJDSVSuhyKBqkzxn9gAE) | 3:00 |
 | 71 | [Lose Control \(feat\. Shungudzo\)](https://open.spotify.com/track/5IHi5WPEKTAY9YrIFAWZaB) | [KUU](https://open.spotify.com/artist/6TGsaPbyXTM7FAeHi68yp7), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD), [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [Lose Control \(feat\. Shungudzo\)](https://open.spotify.com/album/0vIxfwmpmqFsPFHgQFEvAu) | 3:06 |
 | 72 | [Ur Love](https://open.spotify.com/track/6aAk6ph2Tni5mgb32LQSit) | [MARE](https://open.spotify.com/artist/0eGQLgDJaGfvvKv7spAgqX), [BassBears](https://open.spotify.com/artist/3dNqN9ggP6hqIGoVCovVb3), [TWINNS](https://open.spotify.com/artist/77vbRLApUtIjEvFLDdL7dg) | [Ur Love](https://open.spotify.com/album/5VElXAo98b9GiufItgC0mB) | 2:19 |
-| 73 | [Don't Leave Me Now](https://open.spotify.com/track/2jKjw8HsaYfrma8mRWqNOW) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Don't Leave Me Now](https://open.spotify.com/album/7GoEqIPUNcAnLBr066hjhN) | 2:57 |
+| 73 | [Don't Leave Me Now](https://open.spotify.com/track/1WGvNVxbI8cFRYQQt1aOJi) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Don't Leave Me Now](https://open.spotify.com/album/5YRZesyFDjPo9RUGwp2VFD) | 2:57 |
 | 74 | [Levitate](https://open.spotify.com/track/6s1QzH32RMY4N7ybU5EPyr) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [BACK TO 123](https://open.spotify.com/album/4jkbFNTQYE2Yd8yxK8G6q8) | 8:12 |
 | 75 | [Mexico](https://open.spotify.com/track/6yTaG6eJDi6T0VSawfMTQy) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Mexico](https://open.spotify.com/album/6dn1PltXAnQZB5i5jJoeN6) | 2:33 |
 | 76 | [Insight](https://open.spotify.com/track/1TmCCPrOJjyByclYIHr5mC) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7), [Equanimous](https://open.spotify.com/artist/33W9Pu3NHtSlqbaOI6pqXn) | [Insight](https://open.spotify.com/album/7HMs8tD3rGT2b6GpyGxE1b) | 3:05 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 84 | [Kamili](https://open.spotify.com/track/5JEaCJCehAtt1nQf0gd9Dx) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Kamili](https://open.spotify.com/album/59q5fTLywgfKCoensSHdxG) | 3:46 |
 | 85 | [Wayside](https://open.spotify.com/track/48IVW1WGlFeJ1USJAa9Y8t) | [Freddie Future](https://open.spotify.com/artist/3TvOtMsG1MPfCem7PyZLXu) | [Loving You](https://open.spotify.com/album/1agmfX6VpIe2ZAxFEBJyBl) | 3:07 |
 
-Snapshot ID: `MCw1YzYxMzhjODQ0N2Q2Mzg2NGZhODJkOTU5YmUyMGNiODQxN2IzNWM3`
+Snapshot ID: `MCwxMjFlMjEwNTU5NGIwMzA4MWZiM2YzZGVjYWMyNjI4YWIxYTFkZjA3`

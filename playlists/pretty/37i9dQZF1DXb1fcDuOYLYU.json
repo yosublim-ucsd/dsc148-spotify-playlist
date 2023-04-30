@@ -1,12 +1,12 @@
 {
   "description": "Celebrating the powerful voices of Latin music. Cover: Emilia",
-  "num_followers": 34287,
+  "num_followers": 34393,
   "original_name": "Women of Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzk3ZjkyM2IyYzYxMjUzMjRjMzBjMTk5MGJlN2VmMzJhYTQzZWIy",
+  "snapshot_id": "MCxmNzZlOWNkZTE1MDI0MWFlMDdkOTA0NjczMjAyODBiN2QyMWE1OTA3",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "LALI",
+        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 191863,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Haashtag",
         "url": "https://open.spotify.com/album/61F0A7l8tyXIWJV3y4UKXw"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 190666,
       "name": "La Loto",
       "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "LALI",
-        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 191863,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 189413,
+      "name": "Ay, DiOs M\u00edo!",
+      "url": "https://open.spotify.com/track/1beTDCe7sT7fzm8WIKXicz"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Valiente",
         "url": "https://open.spotify.com/album/2vcyOtFtWOYuQ6j4AH2FIG"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 217653,
       "name": "No Me Acuerdo",
       "url": "https://open.spotify.com/track/1G586ld1gbaECg4Bc6w40O"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 189413,
-      "name": "Ay, DiOs M\u00edo!",
-      "url": "https://open.spotify.com/track/1beTDCe7sT7fzm8WIKXicz"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Bailo Pa Ti",
-        "url": "https://open.spotify.com/album/5qAD8mFpMoR9mrGzAPqJHn"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 200703,
-      "name": "Bailo Pa Ti",
-      "url": "https://open.spotify.com/track/0eRPNA76bLUkPUk2YMUcQk"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "antisocial butterfly",
         "url": "https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 185409,
       "name": "papacito",
       "url": "https://open.spotify.com/track/1GNkILpn4KRDLTfgeewXqi"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Bailo Pa Ti",
+        "url": "https://open.spotify.com/album/5qAD8mFpMoR9mrGzAPqJHn"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 200703,
+      "name": "Bailo Pa Ti",
+      "url": "https://open.spotify.com/track/0eRPNA76bLUkPUk2YMUcQk"
     },
     {
       "added_at": "2023-04-14 04:00:00",

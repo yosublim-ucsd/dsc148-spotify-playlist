@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Darkthrone
 
-379 songs - 1 day 9 hr 3 min
+380 songs - 1 day 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,7 @@
 | [Mourning Palace](https://open.spotify.com/track/2t0DnOIEpkbJqDc6h1IKnw) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Enthrone Darkness Triumphant](https://open.spotify.com/album/2vsIQw5nIfbO2N4X6pfXU9) | 5:13 | 2022-07-13 |  |
 | [My Darkest Years](https://open.spotify.com/track/2iyYwiQrbo6aYnGjzaf1J3) | [Shores Of Null](https://open.spotify.com/artist/76lKNyW77arKg42qdDO9Sm) | [My Darkest Years](https://open.spotify.com/album/1zoIzsHNfakAikbXHIMpMD) | 4:56 | 2023-02-10 |  |
 | [Myr](https://open.spotify.com/track/45zV1C4nVWMRz7yLcQ5Rmo) | [Taake](https://open.spotify.com/artist/2CofVEvqc6hhyKwYsLiuN9) | [Noregs Vaapen](https://open.spotify.com/album/2FgD3CoDJYPtEKbtKY5e6Y) | 5:33 | 2022-07-13 | 2022-07-29 |
-| [Mysterium Tremendum](https://open.spotify.com/track/6xBa9tqwNgEzq3ToJQ8SJX) | [Hideous Divinity](https://open.spotify.com/artist/4XOpU6j3NQ37JfIaWA4ySH) | [Mysterium Tremendum](https://open.spotify.com/album/2VZzXVWzgS2wFhkJWgPzS4) | 4:38 | 2023-03-10 |  |
+| [Mysterium Tremendum](https://open.spotify.com/track/6xBa9tqwNgEzq3ToJQ8SJX) | [Hideous Divinity](https://open.spotify.com/artist/4XOpU6j3NQ37JfIaWA4ySH) | [Mysterium Tremendum](https://open.spotify.com/album/2VZzXVWzgS2wFhkJWgPzS4) | 4:38 | 2023-03-10 | 2023-04-30 |
 | [Nauseating Oblivion](https://open.spotify.com/track/7JYPEnhWA1jthT9QihGnQi) | [Nightrage](https://open.spotify.com/artist/6dhqzgrbFggOBns03STnU3) | [Nauseating Oblivion](https://open.spotify.com/album/2tXlcUe6UTMOSfMnjtfS6a) | 3:15 | 2021-12-17 | 2022-07-29 |
 | [Necrobionics](https://open.spotify.com/track/3AaLvR5xPbeewAElRzRMdB) | [Undeath](https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN) | [Necrobionics](https://open.spotify.com/album/4XekYCMN88wxtjOxkfrOlN) | 3:31 | 2022-03-18 | 2022-07-29 |
 | [Necrotica](https://open.spotify.com/track/2AdSg9Fpi2zKtkjboSQmgb) | [Exhumed](https://open.spotify.com/artist/2OjtmMho2pBS86zQ1PliRu) | [To the Dead](https://open.spotify.com/album/4O4krXb7DWdic7axPxg4UC) | 4:30 | 2022-10-21 | 2022-11-26 |
@@ -306,6 +306,7 @@
 | [Spores of Gnosis](https://open.spotify.com/track/6mINTISPFFdQgHufJ4zzCu) | [Nordjevel](https://open.spotify.com/artist/3Pfim1uupYVYG87GDtdw8r) | [Spores of Gnosis](https://open.spotify.com/album/08i20ClwOx3a6RCbGGTk0L) | 6:12 | 2022-06-10 | 2022-07-26 |
 | [Stained In Rot](https://open.spotify.com/track/5omTf1GVagsjkhr0m79auk) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Stained In Rot](https://open.spotify.com/album/7KFFVBoluljAYYKEYdLqSu) | 4:14 | 2022-10-27 |  |
 | [Stone That Burns](https://open.spotify.com/track/5TX941hWLDj4ru5N2xbJti) | [Anima Hereticae](https://open.spotify.com/artist/539bg8trpgvFICGqp2VIUd) | [Ov Behest](https://open.spotify.com/album/1zIKlDMfUjGuYZttGLJwTt) | 7:04 | 2021-12-17 | 2022-05-14 |
+| [Strategies of Manipulation](https://open.spotify.com/track/0serE3bzQ9QAv0Gx9eEHWu) | [Misery Index](https://open.spotify.com/artist/1kTUJy3zL57iEANLB9FpIA) | [Strategies of Manipulation \- EP](https://open.spotify.com/album/20WJWz0leX9XBqh9Nx6kdP) | 2:04 | 2023-04-28 |  |
 | [Strepitus Mundi](https://open.spotify.com/track/3f9GL4zy4NfKhIFePXofP0) | [Aara](https://open.spotify.com/artist/3UpDjZ41s0rOQsDKSECKmt) | [Strepitus Mundi](https://open.spotify.com/album/2gTBYf4PyYXYOqYpXXzrgF) | 8:04 | 2022-04-08 | 2022-07-23 |
 | [Svart Industriell Olycka](https://open.spotify.com/track/4eDKFcJDDoUcUYlK2cdemJ) | [Shining](https://open.spotify.com/artist/7wqTItc5qEyIwWw5ksN1Ya) | [III : Angst](https://open.spotify.com/album/7EkBKDQY4vPdkoEiW0fFUv) | 8:05 | 2022-07-13 | 2022-07-29 |
 | [Swamped XX](https://open.spotify.com/track/3iqzSkWevZvDTgugUQhUB9) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Swamped XX](https://open.spotify.com/album/6FkY7M23Zqy1MrRYJJJals) | 3:32 | 2022-09-16 | 2023-02-11 |

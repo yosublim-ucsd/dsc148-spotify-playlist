@@ -1,12 +1,12 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: The Brother Brothers",
-  "num_followers": 246742,
+  "num_followers": 246820,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGNkMDZmNWM0YWQyZWU5M2RkMGZhZWRiNTExZGIzOGJjZmU2YjI0",
+  "snapshot_id": "MCwyNDQyNmFmNmVjOTgxNmQ4NTk4ZjcxOWY0YzNjYTI1YWYxNDBkNTBk",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -95,13 +95,25 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Wake Me When It's Over [feat. Sara Watkins, Sarah Jarosz, Aoife O'Donovan]",
+        "name": "Wake Me When It's Over",
         "url": "https://open.spotify.com/album/0TagfK04olSVvnfHtWbhJz"
       },
       "artists": [
         {
           "name": "I'm With Her",
           "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        },
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        },
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        },
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
       "duration_ms": 258393,
@@ -1340,7 +1352,7 @@
       "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "Get Rhythm",
-        "url": "https://open.spotify.com/album/33BZQZJpcH5WT0fX0NxCxN"
+        "url": "https://open.spotify.com/album/64rKgbviWFaX8dNH9tv5Gu"
       },
       "artists": [
         {
@@ -1350,7 +1362,7 @@
       ],
       "duration_ms": 102060,
       "name": "Get Rhythm",
-      "url": "https://open.spotify.com/track/5zYT8PNbW8CmEx5lsJFc2E"
+      "url": "https://open.spotify.com/track/2YWW57cKksZfnnHQM8SznN"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1691,8 +1703,8 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Hand In My Pocket",
-        "url": "https://open.spotify.com/album/4EfSZbrQXDwQD8Ud7DCRXx"
+        "name": "Pizza Tickets",
+        "url": "https://open.spotify.com/album/0RK0VdRrsFe3ZozfDfBl09"
       },
       "artists": [
         {
@@ -1702,7 +1714,7 @@
       ],
       "duration_ms": 161240,
       "name": "Hand In My Pocket",
-      "url": "https://open.spotify.com/track/6YKfKfe5Ey6yIPhZ0LS92O"
+      "url": "https://open.spotify.com/track/7ikgdbyIecwr7OOkfW8tF5"
     },
     {
       "added_at": "2023-04-28 04:00:00",

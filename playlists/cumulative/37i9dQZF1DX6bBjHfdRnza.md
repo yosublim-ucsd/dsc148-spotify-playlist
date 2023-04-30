@@ -4,7 +4,7 @@
 
 > The best new dance & electronic by independent artists and labels\. Cover: SKALA\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-1,306 songs - 3 day 20 hr 17 min
+1,307 songs - 3 day 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1062,7 +1062,8 @@
 | [Somethin’ For Tha Underground](https://open.spotify.com/track/1c4qlWN8Raf1TsQFgihIfh) | [Mason Maynard](https://open.spotify.com/artist/4EdTAy3S5GrswFHCdpiKP3), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [Somethin’ For Tha Underground EP](https://open.spotify.com/album/5qQOzN8F9Xy0vrSHKOMxvi) | 5:15 | 2022-03-11 | 2022-04-28 |
 | [Someway Somehow](https://open.spotify.com/track/1stu8CUn2bMhBuj3jr133g) | [Intercity 106](https://open.spotify.com/artist/61YPfGom57gg3bovK58zVZ) | [Intercity 106](https://open.spotify.com/album/3Vezbul6UElrLu1i7OuQRT) | 4:30 | 2023-03-08 | 2023-04-05 |
 | [Song for Vinny D](https://open.spotify.com/track/0FpNTXxQHo1gjMoGZixA85) | [Ciel](https://open.spotify.com/artist/1Rv2Pete1cFEKlDYk0hjWl) | [Song for Vinny D](https://open.spotify.com/album/6wRLNW9bzcasBIfVZy8uFc) | 5:54 | 2022-06-08 | 2022-07-21 |
-| [Sora](https://open.spotify.com/track/2Fhze8ZgxgbVlsNh4y1X7W) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Sora](https://open.spotify.com/album/6t1eLn4EXLLuu2cYGybM8e) | 4:17 | 2023-04-26 |  |
+| [Sora](https://open.spotify.com/track/2Fhze8ZgxgbVlsNh4y1X7W) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Sora](https://open.spotify.com/album/6t1eLn4EXLLuu2cYGybM8e) | 4:17 | 2023-04-26 | 2023-04-30 |
+| [Sora](https://open.spotify.com/track/5MX2I1rGXXAFPsJaoKRf7r) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Sora](https://open.spotify.com/album/1liqJtMwsRjwF49md1FG8a) | 4:17 | 2023-04-26 |  |
 | [Soulfood](https://open.spotify.com/track/3MgmqciMTr4TjCOKaB4IRF) | [Best Friends Club](https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq) | [Soulfood](https://open.spotify.com/album/5LPPro6tM993UWvrAb5CvW) | 6:10 | 2022-03-09 | 2022-04-08 |
 | [Sounds Of The Universe](https://open.spotify.com/track/3x7IUbFyhxIlw1PjNUq2ap) | [Job De Jong](https://open.spotify.com/artist/0XbTWVRVTghfm7SBPI6hpI) | [Enchanted](https://open.spotify.com/album/2CPPAa9QgL1oRp9NVmnduK) | 6:26 | 2023-04-05 | 2023-04-13 |
 | [Spaceloop](https://open.spotify.com/track/4Ua602lvWUfh85i3VoJWi9) | [Querry Veldt](https://open.spotify.com/artist/61DzqjttfMko1p9IVGGxgv) | [Space Loop](https://open.spotify.com/album/70Xv97wjZHesHkns9doPIl) | 5:40 | 2023-03-08 | 2023-04-04 |

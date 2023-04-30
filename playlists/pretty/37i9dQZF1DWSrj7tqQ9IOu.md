@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover: blond
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,031 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,112 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 17 | [Enfant star](https://open.spotify.com/track/5q33mH9sEEdZJyK51d66tu) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [Club de cœur](https://open.spotify.com/album/2PSSIPFERBItM5RSZ3EZ62) | 2:31 |
 | 18 | [Home](https://open.spotify.com/track/1D6fumCcnKImzoePwxyPFT) | [Sandór Waïss](https://open.spotify.com/artist/7CEkLAfSHCRAohsAWypk8z) | [Broken Blue](https://open.spotify.com/album/2JhJRJ0THwPL5GAdcoz2mh) | 3:24 |
 | 19 | [Apportez\-moi un thé](https://open.spotify.com/track/4jF75m5oNgToVIuaD8Y1OA) | [Adam Berry](https://open.spotify.com/artist/3Ma3J6YHlbHed5aTv7ALyh) | [t.](https://open.spotify.com/album/1VaVsd2DSaXP5oZW80qoQH) | 2:15 |
-| 20 | [Tramp Like You](https://open.spotify.com/track/2wWlrpVleWOYkOqhpkV2EJ) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Tramp Like You](https://open.spotify.com/album/21uaZE9JBRZDNHNouEO8Df) | 5:24 |
+| 20 | [Tramp Like You](https://open.spotify.com/track/0rNww8SMuGZm8GkDWeHtLi) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte) | 5:24 |
 | 21 | [Puzzle](https://open.spotify.com/track/0pg4HD7aOTTYAbv1zsskFc) | [Oré](https://open.spotify.com/artist/0VX9r6wU2vWrUg3EnKZVj4) | [Puzzle](https://open.spotify.com/album/3AQlnAfSMYUs5z4Mmru4CY) | 3:28 |
 | 22 | [Reconnection](https://open.spotify.com/track/76uKLoAvr2tHSZPbJHZSmY) | [Fantastic Mister Zguy](https://open.spotify.com/artist/0yBkxUvlgbxKXQmjQ252iu) | [Reconnection](https://open.spotify.com/album/19rAn3kxCoqkzXzOwfxF8q) | 2:47 |
 | 23 | [Série B](https://open.spotify.com/track/0aUOoC8yi2GkWEb3styxmO) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Série B](https://open.spotify.com/album/7a2Pfndpa3oxlHwJTfKiEb) | 3:21 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 41 | [Fireflies](https://open.spotify.com/track/2w5qTNK3kadYOs8pgc2JRM) | [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Coast 2 Coast](https://open.spotify.com/album/6y5kCZvxD1Oq5M385icFT9) | 2:44 |
 | 42 | [Juste un beat, danse](https://open.spotify.com/track/3PnENN8tnr72OLwbReXuQO) | [Zéphir](https://open.spotify.com/artist/0YyorRag3eHwGIgly2AtIj) | [Juste un beat, danse](https://open.spotify.com/album/2Cirr5BY5vmQJpFt8ro7Bi) | 3:04 |
 | 43 | [tous les jours](https://open.spotify.com/track/4FR0Xz7BzGqEXc8H735RRV) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [tous les jours](https://open.spotify.com/album/4mQLlXhguoJgAMH5mmTzwr) | 3:06 |
-| 44 | [Hail Mary](https://open.spotify.com/track/71fZrZ2MTPLRLPbMf8pT0F) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/61IFc4d4O5z2AReP8eI3Ay) | 2:49 |
+| 44 | [Hail Mary](https://open.spotify.com/track/377M5cHQ9COyB8i9t3Hval) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte) | 2:49 |
 | 45 | [Not A Friend](https://open.spotify.com/track/7dMWVi0BN7BTlVQoRJNmwO) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [Not A Friend](https://open.spotify.com/album/7o777nWZF48KYZWRUU3cX5) | 2:41 |
 | 46 | [Photographies](https://open.spotify.com/track/3zjeCHlhWyJwQDKppjMG1F) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Photographies](https://open.spotify.com/album/0BRpAxU0TVRDmidxpZrGpD) | 2:56 |
 | 47 | [Le soleil revient sans toi](https://open.spotify.com/track/0b0zIcKGft8yTZv2gqXSxu) | [Victor Marc](https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX) | [Out Loud](https://open.spotify.com/album/0LGn3ez9k4sgR5WT2XFD0i) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Laura](https://open.spotify.com/track/2PnOCPd9oZhbLGSzzFf8Ba) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:08 |
 | 50 | [Night Heights](https://open.spotify.com/track/7fPM25Phrs4uJhHyuBbVbU) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [The Fool](https://open.spotify.com/album/7arCig498ft2Kc7pJJFHxw) | 4:09 |
 
-Snapshot ID: `MCwxNDJmNjNkNmY4ZjZiYzc4MGY3OTEzNjU2ZjY5ZTgzYjlmOTc3Njgw`
+Snapshot ID: `MCw3MmY4ZjVhNjY0MjFmNmY4ZjI3ZDczN2Y3Y2JkMjhhNzRjZjI5MTkx`

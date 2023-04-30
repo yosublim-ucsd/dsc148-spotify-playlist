@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Turn up the heat with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2205orglvisldexterndeml5360&utm\_campaign=2205orglvisld&utm\_source=sptfy\_sptfy\_na&utm\_medium=ernd\_eml\_awa\_eml&utm\_term=prtnrcust\_spotifysubs&utm\_content=loveisland">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,459 likes - 262 songs - 14 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,472 likes - 262 songs - 14 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,7 +136,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 126 | [Hot In It](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot In It](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) | 2:09 |
 | 127 | [Kissing Strangers](https://open.spotify.com/track/1NkwZ9TnIs8js6G0M6M7RU) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Kissing Strangers](https://open.spotify.com/album/7FkWQV6ym8OMXBebTRI30R) | 3:22 |
 | 128 | [We Could Be Cool](https://open.spotify.com/track/3gVV0DGSBD2XKsNXqzTb2r) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [Chasing Highs](https://open.spotify.com/album/7vnHu5NyRZEXwfbEZnq8xb) | 3:21 |
-| 129 | [Stay All Night](https://open.spotify.com/track/3PTndrx2moIMajxq5NMBPJ) | [Friends At The Falls](https://open.spotify.com/artist/5RASv130lmR8GyP0EcQLjJ) | [Wild In Our Ways](https://open.spotify.com/album/5MU1rYYbP0CAaCYGRcgVjv) | 4:01 |
+| 129 | [Stay All Night](https://open.spotify.com/track/3PTndrx2moIMajxq5NMBPJ) | [Summerdrive](https://open.spotify.com/artist/6qIpL381sL3YXtk9yWj4yi) | [Wild In Our Ways](https://open.spotify.com/album/5MU1rYYbP0CAaCYGRcgVjv) | 4:01 |
 | 130 | [Hot Crush Lover](https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Hot Crush Lover](https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs) | 3:13 |
 | 131 | [Legends Are Made](https://open.spotify.com/track/0yqrhHrcWLMjBylHReDN5u) | [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp) | [Babel](https://open.spotify.com/album/4fm1WiDmZsWHCxbjTZzU0U) | 2:49 |
 | 132 | [Devil Inside](https://open.spotify.com/track/6hGd5mkeqtuuQEyaj7LInC) | [CRMNL](https://open.spotify.com/artist/4KGzIN3H6JbwyLKjs93tUQ) | [II](https://open.spotify.com/album/28pm9MW7riJV2LtFmOfP0n) | 2:55 |
@@ -271,4 +271,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 261 | [Bad Dream](https://open.spotify.com/track/2IwbIGkquI55VOzcWUg8fg) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Bad Dream](https://open.spotify.com/album/4rDxEB6OJqbYb38hY083qw) | 3:22 |
 | 262 | [Everybody Get Up](https://open.spotify.com/track/1N33YOi540BN6xXXiP0WjL) | [Yes Yes No Maybe](https://open.spotify.com/artist/125Kdt1Do4mnDhFALzs0LT) | [Start the Fire](https://open.spotify.com/album/4c3ehhboJ1XlgNSvpFKNh1) | 3:32 |
 
-Snapshot ID: `MCxmZjkyZWY1YmVlNDBjZGZmNWVkZmNmZWM3OGY4YjkyMDI4NzJhZjRi`
+Snapshot ID: `MCwzYTgzYjQ3MTQ4YWQ0N2E5MDc0NzQxOTQ3MTlhMWE3OTA0YjNmYjcz`

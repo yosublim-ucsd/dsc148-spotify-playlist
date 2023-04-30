@@ -4,7 +4,7 @@
 
 > The jam scene is alive and well\. Cover: ALO
 
-115 songs - 11 hr 7 min
+117 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Kitty Chaser \(Explosions\)](https://open.spotify.com/track/31prZotiPV46jh06xCTop4) | [Aqueous](https://open.spotify.com/artist/74d8upOdwQZyoDGXWEguMn) | [Cycles](https://open.spotify.com/album/2Q4TCChrfQOSkHoOj3bce1) | 9:39 | 2022-06-23 |  |
 | [Left Behind](https://open.spotify.com/track/160RJAfQ71LcES9hN06z3b) | [Bywater Call](https://open.spotify.com/artist/1bhk3AmtYKQAcDzbDyWG4M) | [Remain](https://open.spotify.com/album/6Ra2EYAa2ZUGMdFDOwPrgj) | 5:54 | 2022-09-02 |  |
 | [Lemon Haze](https://open.spotify.com/track/5xxDOqegRiTJ5n1LwePJx0) | [Frequilibrium](https://open.spotify.com/artist/0JNcTTdEYtUhOfoWdhRbXM) | [Frequilibrium](https://open.spotify.com/album/1iyratUHXjtigpYB9CWRI0) | 4:38 | 2022-06-23 |  |
-| [Lessons](https://open.spotify.com/track/53r7hLGDbGY9Ok5bgnZh7B) | [WIZRD](https://open.spotify.com/artist/1PJytjaK6elVRZ7ZI3u3lr) | [Seasons](https://open.spotify.com/album/4SEW5rHyUselJMfAvi8GC2) | 4:10 | 2022-09-09 |  |
+| [Lessons](https://open.spotify.com/track/12tRRP8jnBGOc3eQMFpcxk) | [WIZRD](https://open.spotify.com/artist/1PJytjaK6elVRZ7ZI3u3lr) | [Seasons](https://open.spotify.com/album/22TcmPpJuX1tOlSw4fheP8) | 4:10 | 2022-09-09 |  |
+| [Lessons](https://open.spotify.com/track/53r7hLGDbGY9Ok5bgnZh7B) | [WIZRD](https://open.spotify.com/artist/1PJytjaK6elVRZ7ZI3u3lr) | [Seasons](https://open.spotify.com/album/4SEW5rHyUselJMfAvi8GC2) | 4:10 | 2022-09-09 | 2023-04-30 |
 | [Lessons](https://open.spotify.com/track/5iVNIJ2EE9JS7KVLxwWSFC) | [WIZRD](https://open.spotify.com/artist/1PJytjaK6elVRZ7ZI3u3lr) | [Lessons](https://open.spotify.com/album/3nTwX55ca9E75rrRXjbD27) | 4:10 | 2022-09-02 | 2022-09-17 |
 | [Lily's Tiger](https://open.spotify.com/track/1wEt9nM5wq2U5RNuWBxnyA) | [Great Blue](https://open.spotify.com/artist/1LlkBNUOz29oWc0IeX0lXc) | [Great Blue](https://open.spotify.com/album/3EuzVI8uESnKwlOOdh4wr6) | 4:57 | 2022-06-23 |  |
 | [Madman's Eyes](https://open.spotify.com/track/3f9SxWf7WYKaYywYYejfk1) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Madman's Eyes](https://open.spotify.com/album/1Y8TRP3ChXq8q45QT65ecf) | 4:48 | 2023-01-27 |  |
@@ -109,7 +110,8 @@
 | [The Saga of Milly and Fee Part I \- Peruvian Love Song](https://open.spotify.com/track/69m1VanYi7q6ZiDLuMucWJ) | [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [Russ Lawton](https://open.spotify.com/artist/2C4UBATq8DBVT4HBy4UBNE), [Ray Paczkowski](https://open.spotify.com/artist/5RCKLpu3QFZbFSagy35QcO), [Soule Monde](https://open.spotify.com/artist/7sag5QujhVfDU0hGeGDl3x) | [The Saga of Milly and Fee Part I \- Peruvian Love Song](https://open.spotify.com/album/2qF9GzUH5M7k5fvj4Rq1bB) | 1:10 | 2022-10-28 | 2023-04-22 |
 | [The Wheel](https://open.spotify.com/track/1gQYm7VKVjc9ExTKVT409f) | [Plantasia](https://open.spotify.com/artist/7ahksytqjF7OhN0kFEZ2Du) | [The Wheel & The Witness](https://open.spotify.com/album/5ZXpDefilGS1vQOgV3P5vG) | 4:05 | 2022-10-07 |  |
 | [The World Is A Ghetto](https://open.spotify.com/track/5yiEFVz2RhuNvi9msiw3oI) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Native Sons](https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM) | 8:33 | 2022-06-23 |  |
-| [Three Weeks](https://open.spotify.com/track/7wEAZ6TrgpRhPdhCI1xNCj) | [Perpetual Groove](https://open.spotify.com/artist/5Y5Qltdor4sw3O8NnFw5pO) | [Sweet Oblivious Antidote \(20th Anniversary Edition\)](https://open.spotify.com/album/1IUhgiuzNK67WSrNqt1QCt) | 9:27 | 2023-01-20 |  |
+| [Three Weeks](https://open.spotify.com/track/0WwN4zHEMtGrijkO0pKYGC) | [Perpetual Groove](https://open.spotify.com/artist/5Y5Qltdor4sw3O8NnFw5pO) | [Sweet Oblivious Antidote \(20th Anniversary Edition\)](https://open.spotify.com/album/3OhE9B8UK6UOxlZGizEdmh) | 9:27 | 2023-01-27 |  |
+| [Three Weeks](https://open.spotify.com/track/7wEAZ6TrgpRhPdhCI1xNCj) | [Perpetual Groove](https://open.spotify.com/artist/5Y5Qltdor4sw3O8NnFw5pO) | [Sweet Oblivious Antidote \(20th Anniversary Edition\)](https://open.spotify.com/album/1IUhgiuzNK67WSrNqt1QCt) | 9:27 | 2023-01-20 | 2023-04-30 |
 | [Time Dilates](https://open.spotify.com/track/2rGANn1EnbCGUC0oftuwW9) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [Time Dilates](https://open.spotify.com/album/6fPbxh0gX0GZl4Ppy8pJ29) | 5:21 | 2022-08-26 |  |
 | [Trouble Overnight](https://open.spotify.com/track/6QOm9noD8jybvD4dKGrHM4) | [Zach Nugent](https://open.spotify.com/artist/3h9hfCvOqWdPszABGZmPUn) | [Trouble Overnight](https://open.spotify.com/album/38F1jSais8Vxq0qpKiQQle) | 6:48 | 2022-09-16 |  |
 | [Tumbleweed](https://open.spotify.com/track/1DWPCV6sKNGnzn4ypzDIcm) | [Big Something](https://open.spotify.com/artist/3kzqfNqrlEwieWGqRFiQso) | [Tumbleweed](https://open.spotify.com/album/0Wdd7IhlwI1uGNIeJayzM4) | 6:40 | 2022-06-23 | 2023-04-22 |

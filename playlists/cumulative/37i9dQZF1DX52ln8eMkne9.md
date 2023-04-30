@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Melody Gardot
 
-266 songs - 19 hr 49 min
+267 songs - 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Behind Me](https://open.spotify.com/track/6aIVqjNgXQuRAVNh3altlq) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Same Soul](https://open.spotify.com/album/2jHSlpoC38GtuXY3xwLRng) | 6:20 | 2022-07-28 | 2022-09-01 |
 | [Better Things](https://open.spotify.com/track/5PJcygObRXafSPuYnND4kM) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Robertson](https://open.spotify.com/artist/5Oc8E5NEXYp98fctQhH1po), [Danny Fischer](https://open.spotify.com/artist/2yzTBNWC2oYud1uy2PJRni) | [Better Things](https://open.spotify.com/album/3VsxrCk2crY6hf8gnMBGm1) | 4:16 | 2021-12-17 | 2022-08-31 |
 | [Bewitched, Bothered, And Bewildered](https://open.spotify.com/track/0gE63HwMeWgK30ONO4witM) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Rodgers And Hart Song Book](https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9) | 7:03 | 2021-12-17 | 2023-02-23 |
-| [Black Coffee](https://open.spotify.com/track/3598gM7OA4kWCYNGl1Ma8l) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Fourteen](https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X) | 5:59 | 2022-09-13 |  |
+| [Black Coffee](https://open.spotify.com/track/3598gM7OA4kWCYNGl1Ma8l) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Fourteen](https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X) | 5:59 | 2022-09-13 | 2023-04-30 |
 | [Blame It On My Youth \(with Paul Weston & His Orchestra\)](https://open.spotify.com/track/3M6oAV6Mc88W9mQsVYyEIF) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [The Essential Rosemary Clooney](https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP) | 3:39 | 2021-12-17 | 2023-02-16 |
 | [Blue Moon](https://open.spotify.com/track/1pZn8AX1WulW8IO338hE5D) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 3:27 | 2021-12-17 | 2022-03-11 |
 | [Body And Soul](https://open.spotify.com/track/2KCvVYuwYhuzxbH7pQSfUL) | [Muriel Zoe](https://open.spotify.com/artist/4BwzaXVRPUYnVYGo07Queq) | [Neon Blue](https://open.spotify.com/album/6HB4riiVFAoYGkeDPwmdeh) | 4:22 | 2021-12-17 |  |
@@ -215,6 +215,7 @@
 | [Sweet Lorraine](https://open.spotify.com/track/3RbkATWswzKeNDJUZZL2jL) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:22 | 2021-12-17 |  |
 | [Take My Breath Away](https://open.spotify.com/track/3B0gvjxlqRgY7stPPl3qoQ) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Take My Breath Away](https://open.spotify.com/album/6nBmfhB1ioNyyUlpb9AmMQ) | 3:30 | 2021-12-17 | 2022-02-19 |
 | [Tenderly](https://open.spotify.com/track/2zcovmEg4YesrC3F88cpfa) | [Vincent Herring](https://open.spotify.com/artist/4vDfWi1S8RneRAgCPOIThL) | [The Uptown Shuffle](https://open.spotify.com/album/4vC9hAFFswlA2MeIq7DF7A) | 10:18 | 2021-12-17 |  |
+| [The Folks Who Live on the Hill](https://open.spotify.com/track/2Mg2GadBhJE4lPKsQK2ioz) | [Ann Hampton Callaway](https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e) | [Fever: a Peggy Lee Celebration!](https://open.spotify.com/album/1e9mJDic98xbyRQbfdY3wy) | 6:06 | 2023-04-27 |  |
 | [The Folks Who Live On The Hill](https://open.spotify.com/track/2aP2eG8PpJ7jjcGxT7kDr8) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Ultimate Peggy Lee](https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX) | 3:39 | 2021-12-17 | 2022-02-18 |
 | [The Good Life](https://open.spotify.com/track/1vP1wALSlgUUhaSfQnF9bZ) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [Now Singing in 12 Great Movies](https://open.spotify.com/album/5gz5OmrydeUG4ie6nj5Tmm) | 3:36 | 2021-12-17 |  |
 | [The Man I Love](https://open.spotify.com/track/5ZjbzXgHWwyYB6rotYuP01) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [This Bitter Earth](https://open.spotify.com/album/46Kn3u0Fzlvo1Zmba26EB7) | 4:50 | 2021-12-17 |  |

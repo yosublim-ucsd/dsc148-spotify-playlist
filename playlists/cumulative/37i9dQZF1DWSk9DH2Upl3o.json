@@ -1038,7 +1038,7 @@
     {
       "album": {
         "name": "Seasons",
-        "url": "https://open.spotify.com/album/4SEW5rHyUselJMfAvi8GC2"
+        "url": "https://open.spotify.com/album/22TcmPpJuX1tOlSw4fheP8"
       },
       "artists": [
         {
@@ -1049,6 +1049,24 @@
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 250573,
+      "name": "Lessons",
+      "url": "https://open.spotify.com/track/12tRRP8jnBGOc3eQMFpcxk"
+    },
+    {
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/4SEW5rHyUselJMfAvi8GC2"
+      },
+      "artists": [
+        {
+          "name": "WIZRD",
+          "url": "https://open.spotify.com/artist/1PJytjaK6elVRZ7ZI3u3lr"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 250573,
       "name": "Lessons",
       "url": "https://open.spotify.com/track/53r7hLGDbGY9Ok5bgnZh7B"
@@ -1884,6 +1902,24 @@
     {
       "album": {
         "name": "Sweet Oblivious Antidote (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3OhE9B8UK6UOxlZGizEdmh"
+      },
+      "artists": [
+        {
+          "name": "Perpetual Groove",
+          "url": "https://open.spotify.com/artist/5Y5Qltdor4sw3O8NnFw5pO"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 567173,
+      "name": "Three Weeks",
+      "url": "https://open.spotify.com/track/0WwN4zHEMtGrijkO0pKYGC"
+    },
+    {
+      "album": {
+        "name": "Sweet Oblivious Antidote (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/1IUhgiuzNK67WSrNqt1QCt"
       },
       "artists": [
@@ -1894,7 +1930,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 567173,
       "name": "Three Weeks",
       "url": "https://open.spotify.com/track/7wEAZ6TrgpRhPdhCI1xNCj"

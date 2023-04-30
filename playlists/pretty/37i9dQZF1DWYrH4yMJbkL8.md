@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by Zoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,383 likes - 26 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,604 likes - 26 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 25 | [Igluvut](https://open.spotify.com/track/79Fx3uz2u3Cp8KQZvqtcEz) | [Quantum Tangle](https://open.spotify.com/artist/0cSZE2fT3uEf8MH8Pb1I7S) | [Shelter as We Go...](https://open.spotify.com/album/6u9ng5eID9cYKnzqEAevg9) | 4:08 |
 | 26 | [Back At Me](https://open.spotify.com/track/5rHXVsKyKvdq0UIC7LMo9G) | [OMBIIGIZI](https://open.spotify.com/artist/6M9etLgzbkyne0y9cvxGAG), [Peter Dreimanis](https://open.spotify.com/artist/29u2tzGMcS5hFxH4IV1iOU) | [Back At Me](https://open.spotify.com/album/3cdsDMTEL9FbA8l6PASlG9) | 3:32 |
 
-Snapshot ID: `MCw5NzMwMTljOGNmNTk0NTMxYmY3NTEyMTQ4NjI4MWM2N2VhODE5ODhj`
+Snapshot ID: `MCxkN2QyZTc4M2Y1ODY0N2JmZGRkMjdkZTMwYjc0NzFjM2Y5ODJlZWUw`

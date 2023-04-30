@@ -4,7 +4,7 @@
 
 > Recordando el legado campirano y rancherón con las clásicas del sierreño\. Ariel Camacho en portada.
 
-159 songs - 8 hr 29 min
+160 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,8 @@
 | [Que Casualidad](https://open.spotify.com/track/6mYGR28K8XuYJGER8EvBN4) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Hombres de Rancho](https://open.spotify.com/album/4Twk9Hn6QoII8zuuQ7rC5t) | 3:24 | 2022-01-25 |  |
 | [Que casualidad](https://open.spotify.com/track/02BlMqEvarDn1IGr2Ix8Ej) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Hombres de rancho](https://open.spotify.com/album/4Up8EAkBlnniJH6DJPux3q) | 3:24 | 2022-01-25 | 2022-07-29 |
 | [Que Casualidad](https://open.spotify.com/track/3XcAGUv3H0dnsJVrmf1NO1) | [Los Diamantes De Sinaloa](https://open.spotify.com/artist/54us4vA4ORn9TlBp0LGNhz) | [100% Sierreños](https://open.spotify.com/album/3Rppcvwk1wAd3wpuzFx3Or) | 3:11 | 2022-01-25 | 2022-07-27 |
-| [Que Casualidad](https://open.spotify.com/track/1ARNcGlXQKky7zX4TZkCtx) | [Sierreños de Sinaloa](https://open.spotify.com/artist/49XtLcagl18fnpRxiW7QW8) | [Siguen los Exitos](https://open.spotify.com/album/3x6EZXwwRU7kDo9DKzVWKa) | 2:58 | 2022-01-25 |  |
+| [Que Casualidad](https://open.spotify.com/track/3UemX5xi5Qlr5TDx94fgoO) | [Los Sierreños De Sinaloa](https://open.spotify.com/artist/591DfPGLZ9Q9fWLrRIbSJn) | [Se Solicita Personal](https://open.spotify.com/album/3bX1uCqj9h06cSCQ9PE8Ap) | 2:56 | 2023-02-03 |  |
+| [Que Casualidad](https://open.spotify.com/track/1ARNcGlXQKky7zX4TZkCtx) | [Sierreños de Sinaloa](https://open.spotify.com/artist/49XtLcagl18fnpRxiW7QW8) | [Siguen los Exitos](https://open.spotify.com/album/3x6EZXwwRU7kDo9DKzVWKa) | 2:58 | 2022-01-25 | 2023-04-30 |
 | [Que Casualidad](https://open.spotify.com/track/5GTySSzL0e8xnf8qCleW9X) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [20 Exitos Sierreños](https://open.spotify.com/album/3oQTOdQllM1EwXNzrmClNi) | 3:10 | 2022-01-25 | 2022-11-13 |
 | [Que Te Casas](https://open.spotify.com/track/3rZD94i2rUr1nddo8uVXWq) | [Ramon Massiaca Y Los Dos Plebes](https://open.spotify.com/artist/70F5hQ2GuRjGCBawrf1joe) | [La Sombra Del Arbol](https://open.spotify.com/album/4R0sMZcXew3rNAiIfpPLax) | 2:34 | 2022-01-25 |  |
 | [Quedate Conmigo Esta Noche](https://open.spotify.com/track/25nLNldTr1ByAS8suid2AE) | [Los Ciclones del Arroyo](https://open.spotify.com/artist/474014H20e2LqUwdWaaVLO) | [Judiciales y Malandrines](https://open.spotify.com/album/763aWL2MrtBRXOmdWPQCxm) | 3:48 | 2022-01-25 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-102 songs - 7 hr 5 min
+104 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [City Hunter](https://open.spotify.com/track/5fpp1cnRKPjgZe1aXQEFd5) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Amusement Park](https://open.spotify.com/album/2nkyyh9Wmji0a1a3ga6h9A) | 4:12 | 2022-05-26 | 2022-10-01 |
 | [City Love](https://open.spotify.com/track/74dVN7rzRYU9R8RDkpVxNU) | [Pastel Lite](https://open.spotify.com/artist/7BSBLoz0qlHdjqZEdmA6U5) | [City Love](https://open.spotify.com/album/44G2reK3LwLKagXmoDx8H7) | 3:58 | 2022-05-26 |  |
 | [Coffee's on Me](https://open.spotify.com/track/5UeYwxG6CXk8uMC7aGcRsn) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Coffee's on Me](https://open.spotify.com/album/1BwY5tsTSAZu1UZFUWyW9K) | 3:42 | 2022-05-26 | 2022-07-29 |
-| [Coffee's on Me](https://open.spotify.com/track/3P2bJaakq9DyvGCco9Ddhx) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Coffee's on Me](https://open.spotify.com/album/0dFsQp0ZUhABhxJX0eeBeD) | 3:43 | 2022-05-26 |  |
+| [Coffee's on Me](https://open.spotify.com/track/3P2bJaakq9DyvGCco9Ddhx) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Coffee's on Me](https://open.spotify.com/album/0dFsQp0ZUhABhxJX0eeBeD) | 3:43 | 2022-05-26 | 2023-04-30 |
+| [Coffee's on Me](https://open.spotify.com/track/3t4mslZa0wJYrj2UjlsyPX) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/2iuPnIdqfKsze3urSvl7XZ) | [Coffee's on Me](https://open.spotify.com/album/4BE9UzrvSYUrtwj3pIoczL) | 3:43 | 2023-03-16 |  |
 | [Come Inside Of My Heart](https://open.spotify.com/track/3Eb5sztvEMa0Mqnb8DUAlU) | [IV Of Spades](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [CLAPCLAPCLAP!](https://open.spotify.com/album/5mGR6qKnpILzSzq1yyAUXk) | 4:06 | 2022-05-26 |  |
 | [Dan Bila \- 80'S Version](https://open.spotify.com/track/5lev02UnV726JTgVEfgudy) | [Mondo Gascaro](https://open.spotify.com/artist/6x92tfaXHuPBctPxrfTeMY), [Pablo Cikaso](https://open.spotify.com/artist/6TbuyXmFnfO8OvW0KrhIKS) | [Dan Bila \(80'S Version\)](https://open.spotify.com/album/6A48UOi3IqLK6R3S8TcQc2) | 8:36 | 2022-05-26 |  |
 | [Days Are Nights](https://open.spotify.com/track/2zSpr0FRXXuXzUtwK80bPF) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Days Are Nights](https://open.spotify.com/album/7fxotoulbnoQ3r5z5MztBM) | 3:33 | 2022-05-26 |  |
@@ -77,7 +78,8 @@
 | [Summer, Anyway](https://open.spotify.com/track/2UnKYBjiwH3AK14PXJRWzv) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Monthly Project 2020 Yoon Jong Shin](https://open.spotify.com/album/0aQdWBzoZP9MFmYW9N68FK) | 5:43 | 2022-05-26 |  |
 | [Summer, Anyway \(Monthly Project 2020 June Yoon Jong Shin\)](https://open.spotify.com/track/5dhBFsbrOcZhLbJFImgvsd) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Summer, Anyway \(Monthly Project 2020 June Yoon Jong Shin\)](https://open.spotify.com/album/2z6kAL1yr6a2OiHBJ9CDWQ) | 5:43 | 2022-05-26 | 2022-07-29 |
 | [Summum Bonum](https://open.spotify.com/track/09bEFRkwyd648AXubqQxir) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [CASSA NOVA](https://open.spotify.com/album/6ElKO6Gwlw0xV4Nt6tBvoH) | 4:41 | 2022-05-26 | 2022-07-29 |
-| [Summum Bonum](https://open.spotify.com/track/1i0GPOOiWudGbWlApdADbp) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Cassa Nova](https://open.spotify.com/album/7qDgQiJVHJwOiFtYCBYIxn) | 4:41 | 2022-05-26 |  |
+| [Summum Bonum](https://open.spotify.com/track/1i0GPOOiWudGbWlApdADbp) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Cassa Nova](https://open.spotify.com/album/7qDgQiJVHJwOiFtYCBYIxn) | 4:41 | 2022-05-26 | 2023-04-30 |
+| [Summum Bonum](https://open.spotify.com/track/1QYoKJcQyYDlXXrNRJMk6q) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/2iuPnIdqfKsze3urSvl7XZ) | [Cassa Nova](https://open.spotify.com/album/5o6i6YQEXWa8oNy38aHrrI) | 4:41 | 2023-03-16 |  |
 | [Sungguh Terlalu](https://open.spotify.com/track/2ooOtbd0mJ27xhwwGCnnkb) | [Dhira Bongs](https://open.spotify.com/artist/1OnA7BIptSxofkEpSipGhV) | [Sungguh Terlalu](https://open.spotify.com/album/1TDcayS0iX7Ky7O0a6qvEs) | 4:17 | 2022-05-26 | 2022-12-10 |
 | [Sungguh Terlalu](https://open.spotify.com/track/7wQDwTshgxYJyXmdVR9ncE) | [Dhira Bongs](https://open.spotify.com/artist/1OnA7BIptSxofkEpSipGhV) | [A Tiny Bit of Gold In The Dark Ocean](https://open.spotify.com/album/2ye0rT388zwLfuvv4RdRM0) | 4:17 | 2022-12-08 |  |
 | [Sunkissed \(feat\. Châu Bùi\)](https://open.spotify.com/track/1HQcB17Uevy4vdHlsuqCqe) | [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4), [Châu Bùi](https://open.spotify.com/artist/6mKDR6IdsyqRp38x1uigAR) | [Sunkissed \(feat\. Châu Bùi\)](https://open.spotify.com/album/2greZVau20V2fjDYKe7PcK) | 3:22 | 2022-05-26 |  |

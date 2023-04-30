@@ -1,12 +1,12 @@
 {
   "description": "The best indie covers. Cover: Remi Wolf",
-  "num_followers": 278982,
+  "num_followers": 279027,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzQzMzFiMjRiN2YwZmNjY2I4MTM3NDQ4NjUyYTRlMjVmMzE5Nzk3",
+  "snapshot_id": "MCw4NWRkMmI1ZWM0ZjAxZjVjYjdjOWE3OTUzMWZmNTZjN2M1ZGQ2YjM3",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/6QS1OLPLLjKiZsdIs9GUdi"
     },
     {
-      "added_at": "2023-04-29 01:14:03",
+      "added_at": "2023-04-30 01:41:47",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt"
     },
     {
-      "added_at": "2023-04-29 01:14:03",
+      "added_at": "2023-04-30 01:41:47",
       "album": {
         "name": "The Moon Song",
         "url": "https://open.spotify.com/album/2cWXWYA0G1iCMYPue0unqm"
@@ -193,22 +193,6 @@
       "url": "https://open.spotify.com/track/3s9eWdn8IymCPvVLcKpjww"
     },
     {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
-        "name": "Just A Girl (From The Original Series \u201cYellowjackets\u201d)",
-        "url": "https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 274829,
-      "name": "Just A Girl - From The Original Series \u201cYellowjackets\u201d",
-      "url": "https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Spotify Singles",
@@ -223,6 +207,22 @@
       "duration_ms": 190392,
       "name": "Truly Madly Deeply - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "Just A Girl (From The Original Series \u201cYellowjackets\u201d)",
+        "url": "https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 274829,
+      "name": "Just A Girl - From The Original Series \u201cYellowjackets\u201d",
+      "url": "https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "As I Rise",
-        "url": "https://open.spotify.com/album/6JFVPEqi5X12OePmPDc8LG"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 140741,
-      "name": "As I Rise",
-      "url": "https://open.spotify.com/track/6Tkdjq5Wg4ECxk5iCKUbAx"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c"
       },
@@ -587,22 +571,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "The Georgia EP",
-        "url": "https://open.spotify.com/album/3stEKyV4hKU1G5yXtmDOaN"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 264160,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/6p8ZhmQS4fia0j93S2M3Fj"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Creep",
         "url": "https://open.spotify.com/album/0Tp4s71VQ0MZbtJo1cNHYF"
       },
@@ -619,18 +587,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "God's Plan",
-        "url": "https://open.spotify.com/album/2YP2BYZ4kgJ7W5vlOUs6B5"
+        "name": "The Georgia EP",
+        "url": "https://open.spotify.com/album/3stEKyV4hKU1G5yXtmDOaN"
       },
       "artists": [
         {
-          "name": "George Moir",
-          "url": "https://open.spotify.com/artist/6eNGoUHSDYfXSy5SvnN1Uu"
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
         }
       ],
-      "duration_ms": 166021,
-      "name": "God's Plan",
-      "url": "https://open.spotify.com/track/5HfUsHA6HCvIDDvtXJlUKb"
+      "duration_ms": 264160,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/6p8ZhmQS4fia0j93S2M3Fj"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -647,6 +615,22 @@
       "duration_ms": 188694,
       "name": "Running Up That Hill",
       "url": "https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "God's Plan",
+        "url": "https://open.spotify.com/album/2YP2BYZ4kgJ7W5vlOUs6B5"
+      },
+      "artists": [
+        {
+          "name": "George Moir",
+          "url": "https://open.spotify.com/artist/6eNGoUHSDYfXSy5SvnN1Uu"
+        }
+      ],
+      "duration_ms": 166021,
+      "name": "God's Plan",
+      "url": "https://open.spotify.com/track/5HfUsHA6HCvIDDvtXJlUKb"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -745,7 +729,7 @@
       "url": "https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY"
     },
     {
-      "added_at": "2023-04-29 01:14:03",
+      "added_at": "2023-04-30 01:41:47",
       "album": {
         "name": "Dancing on My Own",
         "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
@@ -797,7 +781,7 @@
       "url": "https://open.spotify.com/track/4pR4OUNzzhK3vDY89PN1Oa"
     },
     {
-      "added_at": "2023-04-29 01:14:03",
+      "added_at": "2023-04-30 01:41:47",
       "album": {
         "name": "Slide",
         "url": "https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2"
@@ -983,6 +967,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/052acR0QzZbbPNkwnbakxe"
+      },
+      "artists": [
+        {
+          "name": "Jewel",
+          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
+        }
+      ],
+      "duration_ms": 180093,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/0QfnsSPIJ1BOHFjZyC2lyk"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Thirteen",
         "url": "https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg"
       },
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/052acR0QzZbbPNkwnbakxe"
-      },
-      "artists": [
-        {
-          "name": "Jewel",
-          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
-        }
-      ],
-      "duration_ms": 180093,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/0QfnsSPIJ1BOHFjZyC2lyk"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Sweater Weather (Acoustic)",
         "url": "https://open.spotify.com/album/0BdJo2A39iIZxoJXZLLTkG"
       },
@@ -1041,7 +1025,7 @@
       "url": "https://open.spotify.com/track/0BbV0fKqY3jxlXYbtzN2bO"
     },
     {
-      "added_at": "2023-04-29 01:14:03",
+      "added_at": "2023-04-30 01:41:47",
       "album": {
         "name": "Under The Milky Way",
         "url": "https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS"
@@ -1193,22 +1177,6 @@
       "url": "https://open.spotify.com/track/49Q2VVHzabFRwAUQ1ByLNa"
     },
     {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
-        "name": "Hopelessly Devoted to You",
-        "url": "https://open.spotify.com/album/3KCMm1lJyjLsLa4nYuHudZ"
-      },
-      "artists": [
-        {
-          "name": "The Orion Experience",
-          "url": "https://open.spotify.com/artist/2qU0jqxiFeXrw5NTV1bIQM"
-        }
-      ],
-      "duration_ms": 147415,
-      "name": "Hopelessly Devoted to You",
-      "url": "https://open.spotify.com/track/7GTmhgsPfmpZHp0e78WYsK"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Nothing Breaks Like A Heart",
@@ -1241,7 +1209,23 @@
       "url": "https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1"
     },
     {
-      "added_at": "2023-04-29 01:14:03",
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "Hopelessly Devoted to You",
+        "url": "https://open.spotify.com/album/3KCMm1lJyjLsLa4nYuHudZ"
+      },
+      "artists": [
+        {
+          "name": "The Orion Experience",
+          "url": "https://open.spotify.com/artist/2qU0jqxiFeXrw5NTV1bIQM"
+        }
+      ],
+      "duration_ms": 147415,
+      "name": "Hopelessly Devoted to You",
+      "url": "https://open.spotify.com/track/7GTmhgsPfmpZHp0e78WYsK"
+    },
+    {
+      "added_at": "2023-04-30 01:41:47",
       "album": {
         "name": "Candid",
         "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
@@ -1271,6 +1255,22 @@
       "duration_ms": 195578,
       "name": "slow dancing in a burning room - stripped",
       "url": "https://open.spotify.com/track/1JA3n5owbVpTDuNDWcolME"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Weird Fishes",
+        "url": "https://open.spotify.com/album/2PFotGo5M1XaQifWQjc3Pv"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 354533,
+      "name": "Weird Fishes",
+      "url": "https://open.spotify.com/track/0pBPm7QxjaC46nlqQ4YNt8"
     }
   ],
   "unique_name": "Indie Covers",

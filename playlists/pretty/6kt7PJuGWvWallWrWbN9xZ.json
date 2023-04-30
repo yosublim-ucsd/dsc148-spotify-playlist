@@ -6,7 +6,7 @@
     "name": "Johnny Le",
     "url": "https://open.spotify.com/user/12158668258"
   },
-  "snapshot_id": "Mjg4LDIyMDgzZDk2YjdiYTdkNjQ5ODFhOGVlMGQzOWNjZmJkYjE0NmUyNWY=",
+  "snapshot_id": "Mjg5LDI2Yzk5MThhMzMzMTNhYmI5ZDYzMzYyNGI0NTIwY2Y5NDkwNzkwNzQ=",
   "tracks": [
     {
       "added_at": "2022-08-25 09:19:40",
@@ -3115,6 +3115,22 @@
       "duration_ms": 175836,
       "name": "Kill Bill (feat. Doja Cat)",
       "url": "https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ"
+    },
+    {
+      "added_at": "2023-04-29 21:11:33",
+      "album": {
+        "name": "don\u2019t miss me",
+        "url": "https://open.spotify.com/album/2uXE0PE2nWgjXDV6nZi1l0"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 123949,
+      "name": "don't miss me",
+      "url": "https://open.spotify.com/track/5MG69A9XyXDbBbeOxdR3Tl"
     }
   ],
   "unique_name": "//divided.",

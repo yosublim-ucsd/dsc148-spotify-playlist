@@ -10277,6 +10277,28 @@
     },
     {
       "album": {
+        "name": "Raavana Kottam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4f4mHDmV6ZYRKmGLmbQY0e"
+      },
+      "artists": [
+        {
+          "name": "Diwakar",
+          "url": "https://open.spotify.com/artist/5BdXSKDC9KQQpdQ7V3cZxD"
+        },
+        {
+          "name": "K Ekadesi",
+          "url": "https://open.spotify.com/artist/1Qxk3WSwHhmyB9YF87HpkP"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243491,
+      "name": "Raavana Kottathula",
+      "url": "https://open.spotify.com/track/5NlrcQ395izF94hWVHVID9"
+    },
+    {
+      "album": {
         "name": "Raavana Kottam",
         "url": "https://open.spotify.com/album/13GOZsEZb3fB4Ho3lGStbv"
       },
@@ -10292,7 +10314,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 243491,
       "name": "Raavana Kottathula",
       "url": "https://open.spotify.com/track/7bCo86nA52IUWcJsuNu81F"

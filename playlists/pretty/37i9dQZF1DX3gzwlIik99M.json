@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 212008,
+  "num_followers": 212018,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODAzMDdjNzNhZWMyNGM3MDBjMDhjMTk3NTk4ZGVkNGVlZDgwYjJj",
+  "snapshot_id": "MCw1OGU4YzU2NTViM2YxNjZlOWM4MGUwNGU3MTA4NmQwNTY1Y2ZlM2Y0",
   "tracks": [
     {
       "added_at": "2023-04-28 03:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/51y1nedHb7b4PTLzpbPCfm"
-      },
-      "artists": [
-        {
-          "name": "S7N",
-          "url": "https://open.spotify.com/artist/4x3vYufIC84GFmlVdzQjMm"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Blackout",
-      "url": "https://open.spotify.com/track/7fzCMARWJO6W7AlgT9UWrX"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Lleva Tu Mente al Limite",
         "url": "https://open.spotify.com/album/394QJVw2uXdfwi31NcXj9H"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 189053,
       "name": "En la Eternidad",
       "url": "https://open.spotify.com/track/1qdL50KCmGmGjKTT0bT8Kd"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/51y1nedHb7b4PTLzpbPCfm"
+      },
+      "artists": [
+        {
+          "name": "S7N",
+          "url": "https://open.spotify.com/artist/4x3vYufIC84GFmlVdzQjMm"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/7fzCMARWJO6W7AlgT9UWrX"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Carnivora",
-        "url": "https://open.spotify.com/album/2fovgpxq2rAk9UVn51qqsS"
-      },
-      "artists": [
-        {
-          "name": "Mastifal",
-          "url": "https://open.spotify.com/artist/1EvaJtqYxjC6ag0IU7uyRM"
-        }
-      ],
-      "duration_ms": 287573,
-      "name": "Culto vacio radical",
-      "url": "https://open.spotify.com/track/2SOEI9DvgYCzeqeiLR0YGH"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Satanico-Dramatico",
         "url": "https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 71000,
       "name": "Sigo Siendo El Rey",
       "url": "https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Carnivora",
+        "url": "https://open.spotify.com/album/2fovgpxq2rAk9UVn51qqsS"
+      },
+      "artists": [
+        {
+          "name": "Mastifal",
+          "url": "https://open.spotify.com/artist/1EvaJtqYxjC6ag0IU7uyRM"
+        }
+      ],
+      "duration_ms": 287573,
+      "name": "Culto vacio radical",
+      "url": "https://open.spotify.com/track/2SOEI9DvgYCzeqeiLR0YGH"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Tierras Muertas",
-        "url": "https://open.spotify.com/album/5gZM5ZDTygLJlzi6A7Ya8Q"
-      },
-      "artists": [
-        {
-          "name": "Lethal Creation",
-          "url": "https://open.spotify.com/artist/4AhluimFPLNnran1jD354B"
-        }
-      ],
-      "duration_ms": 309054,
-      "name": "O\u00eddos Sordos",
-      "url": "https://open.spotify.com/track/2O5p5Q5wxrzTD1MUePdeGL"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Acero",
         "url": "https://open.spotify.com/album/4HwQsHeVEPhMYyH49mMy2q"
       },
@@ -783,18 +767,18 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Nulo",
-        "url": "https://open.spotify.com/album/34MqjCLcRf2VVNc6kqqbAq"
+        "name": "Tierras Muertas",
+        "url": "https://open.spotify.com/album/5gZM5ZDTygLJlzi6A7Ya8Q"
       },
       "artists": [
         {
-          "name": "NVLO",
-          "url": "https://open.spotify.com/artist/7Gr3eqtmWKT8lF9eLDFU8k"
+          "name": "Lethal Creation",
+          "url": "https://open.spotify.com/artist/4AhluimFPLNnran1jD354B"
         }
       ],
-      "duration_ms": 150600,
-      "name": "\u00a1Qu\u00e9menlos!",
-      "url": "https://open.spotify.com/track/65qq9FT1BRPg8CQ5A4WUmK"
+      "duration_ms": 309054,
+      "name": "O\u00eddos Sordos",
+      "url": "https://open.spotify.com/track/2O5p5Q5wxrzTD1MUePdeGL"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -811,6 +795,22 @@
       "duration_ms": 180693,
       "name": "La Caperuputa y el Lobo Culi\u00f3n",
       "url": "https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Nulo",
+        "url": "https://open.spotify.com/album/34MqjCLcRf2VVNc6kqqbAq"
+      },
+      "artists": [
+        {
+          "name": "NVLO",
+          "url": "https://open.spotify.com/artist/7Gr3eqtmWKT8lF9eLDFU8k"
+        }
+      ],
+      "duration_ms": 150600,
+      "name": "\u00a1Qu\u00e9menlos!",
+      "url": "https://open.spotify.com/track/65qq9FT1BRPg8CQ5A4WUmK"
     }
   ],
   "unique_name": "Metal del Nuestro",

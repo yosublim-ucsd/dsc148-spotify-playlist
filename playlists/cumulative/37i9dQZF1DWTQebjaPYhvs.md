@@ -4,7 +4,7 @@
 
 > The official playlist for <a href="spotify:user:0ouhj3nctpqgo8bgamzte2o6o">Paramount Network</a>'s Yellowstone.
 
-207 songs - 12 hr 56 min
+208 songs - 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,8 @@
 | [Summertime Blues](https://open.spotify.com/track/0qoSVsQJOTINFkkux2lbJj) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/5k7tvONUJjP2aTxI6BBCo0) | 3:01 | 2022-12-19 |  |
 | [Sunrise](https://open.spotify.com/track/4TFVF1l5nU9wbfTiFXTpi4) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Mescalito](https://open.spotify.com/album/3R4SU0GLULP0QxIal7Fcr1) | 4:45 | 2019-06-27 |  |
 | [Take It Easy Mama](https://open.spotify.com/track/2aEnT8k0V5Ava4PLu72kOJ) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Mescalito](https://open.spotify.com/album/3R4SU0GLULP0QxIal7Fcr1) | 3:01 | 2021-12-06 |  |
-| [Take This Heart of Gold](https://open.spotify.com/track/0Zyt3eB2Ddhert42wIa181) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/2Ww7LYiKIxQUhLyiXtlppZ) | 3:45 | 2019-08-01 |  |
+| [Take This Heart of Gold](https://open.spotify.com/track/0Zyt3eB2Ddhert42wIa181) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/2Ww7LYiKIxQUhLyiXtlppZ) | 3:45 | 2019-08-01 | 2023-04-30 |
+| [Take This Heart of Gold](https://open.spotify.com/track/3HPmjLKBBxGiLtrvhN33Yf) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/3CwgFOEB6g9vfADfAcYaIL) | 3:45 | 2019-08-01 |  |
 | [Tennessee Whiskey](https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:53 | 2019-06-27 |  |
 | [That Would Be Alright](https://open.spotify.com/track/6Jee1gQ5P42GHckmnGleL2) | [Lincoln Grounds](https://open.spotify.com/artist/3IvMomEciLsUnn0Kd6jtDJ), [Thomm Jutz](https://open.spotify.com/artist/1ebv4m89CN6v5nKtG0yu2D) | [Start Right Here](https://open.spotify.com/album/78RCzBIDEJymGU98erPOzG) | 3:22 | 2019-08-23 |  |
 | [The Cowboy In Me \- Yellowstone Edition](https://open.spotify.com/track/1e7cEhr2dprxwtlRcSBfED) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [The Cowboy In Me \(Yellowstone Edition\)](https://open.spotify.com/album/2SkLIzep8hDZKPE9j1wQyR) | 3:37 | 2021-12-17 |  |

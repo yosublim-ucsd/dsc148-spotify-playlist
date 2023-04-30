@@ -3034,7 +3034,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 184013,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/5TOgxgZrIZzvaKg9r2bvc2"
@@ -3052,7 +3052,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-23",
+      "date_removed": null,
       "duration_ms": 184013,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
@@ -5939,6 +5939,28 @@
     },
     {
       "album": {
+        "name": "Feeling Myself (Shooter Gang Remix)",
+        "url": "https://open.spotify.com/album/0nuDeMCXPzfCwJNtArjVUS"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        },
+        {
+          "name": "Shooter Gang",
+          "url": "https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212326,
+      "name": "Feeling Myself - Shooter Gang Remix",
+      "url": "https://open.spotify.com/track/2o4MYiPOmV2A7GAhs3ckrY"
+    },
+    {
+      "album": {
         "name": "My Name Is Jos\u00e9 Feliciano",
         "url": "https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ"
       },
@@ -6824,10 +6846,28 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 176444,
       "name": "Fr\u00e6k",
       "url": "https://open.spotify.com/track/7dPQspwTeZ8iVefdcUjD6w"
+    },
+    {
+      "album": {
+        "name": "XHEMILIAN",
+        "url": "https://open.spotify.com/album/76NybXrK4WtKLvnP2oYuAB"
+      },
+      "artists": [
+        {
+          "name": "Jimilian",
+          "url": "https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176709,
+      "name": "Fr\u00e6k",
+      "url": "https://open.spotify.com/track/4b3TPBACVaPpXbh9afJwiG"
     },
     {
       "album": {
@@ -8077,6 +8117,32 @@
     },
     {
       "album": {
+        "name": "Helwa (feat. PAY & Xabski)",
+        "url": "https://open.spotify.com/album/7szeDKDBfQS1QxyYniyqDO"
+      },
+      "artists": [
+        {
+          "name": "Baloosh",
+          "url": "https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC"
+        },
+        {
+          "name": "PAY",
+          "url": "https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU"
+        },
+        {
+          "name": "Xabski",
+          "url": "https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189431,
+      "name": "Helwa (feat. PAY & Xabski)",
+      "url": "https://open.spotify.com/track/76noXxTd4j5EqWLmcss5GW"
+    },
+    {
+      "album": {
         "name": "Hensigt",
         "url": "https://open.spotify.com/album/0sBhlKHwZwJ1X7kcCP8Pqv"
       },
@@ -8770,7 +8836,7 @@
       ],
       "date_added": "2021-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 251632,
       "name": "Hurtige H\u00e6nder - Acoustic Version - Moyo Live P3",
       "url": "https://open.spotify.com/track/3D0VPp6nCN9dsyUjFv2BvP"
@@ -10244,7 +10310,7 @@
       },
       "artists": [
         {
-          "name": "ROS\u00c8L",
+          "name": "ROS\u00c9L",
           "url": "https://open.spotify.com/artist/68qzFAN4togCedlRiLWshZ"
         }
       ],
@@ -17888,7 +17954,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 119045,
       "name": "Steinway",
       "url": "https://open.spotify.com/track/4Z9xP36kn7Y1qTPO8N4URR"
@@ -20644,7 +20710,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 210880,
       "name": "Wish You The Best",
       "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"
@@ -21132,6 +21198,24 @@
       "duration_ms": 159652,
       "name": "\u00d8jne Som Dine",
       "url": "https://open.spotify.com/track/7hQltyI2tgXb4lRNFncJdk"
+    },
+    {
+      "album": {
+        "name": "XHEMILIAN",
+        "url": "https://open.spotify.com/album/76NybXrK4WtKLvnP2oYuAB"
+      },
+      "artists": [
+        {
+          "name": "Jimilian",
+          "url": "https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127530,
+      "name": "\u00d8rn",
+      "url": "https://open.spotify.com/track/3fIKyLbQxbVCVRZhExYakn"
     },
     {
       "album": {

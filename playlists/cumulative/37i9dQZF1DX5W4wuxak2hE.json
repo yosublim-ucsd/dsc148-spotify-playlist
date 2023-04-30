@@ -304,10 +304,28 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 203800,
       "name": "Behind The Wall Of Sleep",
       "url": "https://open.spotify.com/track/04PXKaJMdeD8NFz1ttQ7SN"
+    },
+    {
+      "album": {
+        "name": "Especially For You",
+        "url": "https://open.spotify.com/album/4TlnowwQvcYdUfIMFDbjKc"
+      },
+      "artists": [
+        {
+          "name": "The Smithereens",
+          "url": "https://open.spotify.com/artist/06KgaEpSluofkcChSo7TNr"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203800,
+      "name": "Behind The Wall Of Sleep",
+      "url": "https://open.spotify.com/track/3JLhfc18dUWarvYctodtnv"
     },
     {
       "album": {
@@ -330,7 +348,7 @@
     {
       "album": {
         "name": "I Thought You Wanted to Know: 1978-1981",
-        "url": "https://open.spotify.com/album/0j4WgK71dkSPuK1HnWEtaI"
+        "url": "https://open.spotify.com/album/53TA3hbLka28z9avcEgtzR"
       },
       "artists": [
         {
@@ -345,6 +363,28 @@
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 176613,
+      "name": "Black and White - Don Dixon Mix",
+      "url": "https://open.spotify.com/track/3DZK5RJDika23eg6USz39X"
+    },
+    {
+      "album": {
+        "name": "I Thought You Wanted to Know: 1978-1981",
+        "url": "https://open.spotify.com/album/0j4WgK71dkSPuK1HnWEtaI"
+      },
+      "artists": [
+        {
+          "name": "The dB's",
+          "url": "https://open.spotify.com/artist/1CYmYyxlWBVY80Kvq5lTDg"
+        },
+        {
+          "name": "Don Dixon",
+          "url": "https://open.spotify.com/artist/3LdLKmvFl65YydnIc2ZA9c"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 176613,
       "name": "Black and White - Don Dixon Mix",
       "url": "https://open.spotify.com/track/3kkRw4UoDWF6J85H6FC2dq"
@@ -1298,10 +1338,28 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 176040,
       "name": "I Think We're Alone Now",
       "url": "https://open.spotify.com/track/2imlSz1OkvN8QyAkQ4WL2a"
+    },
+    {
+      "album": {
+        "name": "The Rubinoos",
+        "url": "https://open.spotify.com/album/0drPiWHpiLmSaycxwc41T6"
+      },
+      "artists": [
+        {
+          "name": "The Rubinoos",
+          "url": "https://open.spotify.com/artist/0ShV0veaBj1NvWRORhuwlI"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176040,
+      "name": "I Think We're Alone Now",
+      "url": "https://open.spotify.com/track/7hvoyetcJ26N0123e9lhkf"
     },
     {
       "album": {
@@ -1324,7 +1382,7 @@
     {
       "album": {
         "name": "Back to the Drawing Board",
-        "url": "https://open.spotify.com/album/4OehtLYgz73lHtbW0pJHcb"
+        "url": "https://open.spotify.com/album/6Ro6BmnmCWXfPwDCTGzl0y"
       },
       "artists": [
         {
@@ -1335,6 +1393,24 @@
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 199213,
+      "name": "I Wanna Be Your Boyfriend",
+      "url": "https://open.spotify.com/track/0iueV3B9MVihBSKkXybWwG"
+    },
+    {
+      "album": {
+        "name": "Back to the Drawing Board",
+        "url": "https://open.spotify.com/album/4OehtLYgz73lHtbW0pJHcb"
+      },
+      "artists": [
+        {
+          "name": "The Rubinoos",
+          "url": "https://open.spotify.com/artist/0ShV0veaBj1NvWRORhuwlI"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 199213,
       "name": "I Wanna Be Your Boyfriend",
       "url": "https://open.spotify.com/track/1LxLQlSDbaHlDrYBrs6ToP"
@@ -2080,7 +2156,7 @@
     {
       "album": {
         "name": "Phil Seymour (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/33Lgp5P5s6hexefPUI9woA"
+        "url": "https://open.spotify.com/album/2MYFOE5qCfNjNCTtfuGxrj"
       },
       "artists": [
         {
@@ -2091,6 +2167,24 @@
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 171160,
+      "name": "Precious to Me",
+      "url": "https://open.spotify.com/track/2ot04Ifqibz7PXYSy4Hvoz"
+    },
+    {
+      "album": {
+        "name": "Phil Seymour (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/33Lgp5P5s6hexefPUI9woA"
+      },
+      "artists": [
+        {
+          "name": "Phil Seymour",
+          "url": "https://open.spotify.com/artist/2ut1VNKTLERpjYf2uljNWn"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 171160,
       "name": "Precious to Me",
       "url": "https://open.spotify.com/track/47bbgfGKCUmf4tWsbs9rTj"
@@ -2962,10 +3056,28 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 120786,
       "name": "When You Find Out",
       "url": "https://open.spotify.com/track/6UktZ99tCIaehWzPePmjq0"
+    },
+    {
+      "album": {
+        "name": "One Way Ticket",
+        "url": "https://open.spotify.com/album/4hfRQZOVggLENqYFyBQwRd"
+      },
+      "artists": [
+        {
+          "name": "The Nerves",
+          "url": "https://open.spotify.com/artist/298i00ena8XMnm9O3qlHtU"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120786,
+      "name": "When You Find Out",
+      "url": "https://open.spotify.com/track/72QkCKEVHkS41Fadqeehea"
     },
     {
       "album": {

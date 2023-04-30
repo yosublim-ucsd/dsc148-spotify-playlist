@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 
 > Funky vocoders and talk boxes
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,095 likes - 82 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,146 likes - 82 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 | 20 | [When I Hit the Block](https://open.spotify.com/track/4Vy23imXjy2kg8zaaX5D7O) | [Throwback Zack](https://open.spotify.com/artist/75csMNFe2KTbVYOko3sLzv) | [Cloud 9](https://open.spotify.com/album/4gvxF2lP3osUa2MXxq3atT) | 3:46 |
 | 21 | [Call Me Up](https://open.spotify.com/track/2JGRHnNYsYsWGFZsAv3uvS) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Fancy Footwork: Deluxe Edition](https://open.spotify.com/album/4lPn10rqeU3aSMSApE1Ff8) | 4:11 |
 | 22 | [How Deep is Your Love](https://open.spotify.com/track/79EMDmR3k8oYUsxngPOsFI) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP) | [How Deep is Your Love](https://open.spotify.com/album/0WS8Gcmka3WU1DL7j5WNEy) | 3:06 |
-| 23 | [Break\-Out](https://open.spotify.com/track/27pmnmNu2OOktpgfXqC6Xl) | [Rodney Stepp](https://open.spotify.com/artist/02mMWXpx6Kkkr55vi4iyhf) | [Soul Jazz Records presents SPACE FUNK \- Afro\-Futurist Electro Funk in Space 1976\-84](https://open.spotify.com/album/5ThrbrIXfa7CbL34g1FH0f) | 5:47 |
+| 23 | [Break\-Out](https://open.spotify.com/track/6jkw6ers6QNSIn5lxkp11N) | [Rodney Stepp](https://open.spotify.com/artist/02mMWXpx6Kkkr55vi4iyhf) | [Soul Jazz Records presents SPACE FUNK \- Afro\-Futurist Electro Funk in Space 1976\-84](https://open.spotify.com/album/7FyxIddviuFxayIXXIl358) | 5:47 |
 | 24 | [Race Babbling](https://open.spotify.com/track/7GFNufAK34Llw3U6YKuAI6) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Journey Through The Secret Life Of Plants](https://open.spotify.com/album/3LSgLZrSXELqWt5eqb6XMY) | 8:52 |
 | 25 | [Embrace The Grind](https://open.spotify.com/track/35kiLo0Jih7YdQzkPcW0uP) | [Nine Sparks Riots](https://open.spotify.com/artist/4y6ORtg4fPmsXNftMLw12X), [Sebastian Ågren](https://open.spotify.com/artist/0lOhgZEe0mfn0xWJtUIwEz), [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP), [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L) | [Embrace The Grind](https://open.spotify.com/album/3ygsxOzufthg9TbVmSEgSy) | 4:34 |
 | 26 | [Mamacita](https://open.spotify.com/track/2tDdZBlft2KbcRjRdbX13E) | [Winfree](https://open.spotify.com/artist/4Iov3IICSPYPmfcjuHBiJI) | [Mamacita](https://open.spotify.com/album/3VeXhkyKkUPyI6RO9w3sZ3) | 3:14 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 | 52 | [Contagious](https://open.spotify.com/track/5X4PAws5oW5K22G6Ic17AV) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [Panorama: Form](https://open.spotify.com/album/5JHsZYG9ai1cW6YEZ0Rh2v) | 3:53 |
 | 53 | [Make You Mine](https://open.spotify.com/track/1aKPbD7aGsySdLz27P92Gt) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [Baby I'm Yours](https://open.spotify.com/album/0sCktPXUOt19W503or8h9b) | 3:23 |
 | 54 | [Shake It \(Extended\)](https://open.spotify.com/track/318AONjmfz3gTrcKXCjMIi) | [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [Shake It](https://open.spotify.com/album/5h3omMgMw42o9lNiNPpXIw) | 7:03 |
-| 55 | [Computer Funk](https://open.spotify.com/track/11D6lI4wkPYS4pgAwcVa5z) | [Osé](https://open.spotify.com/artist/1ogxAd9tjtTE5H6rtb4Pwj) | [Soul Jazz Records presents SPACE FUNK \- Afro\-Futurist Electro Funk in Space 1976\-84](https://open.spotify.com/album/5ThrbrIXfa7CbL34g1FH0f) | 6:32 |
+| 55 | [Computer Funk](https://open.spotify.com/track/4pP7kcJEo55xmH9Z9oPsrP) | [Osé](https://open.spotify.com/artist/1ogxAd9tjtTE5H6rtb4Pwj) | [Soul Jazz Records presents SPACE FUNK \- Afro\-Futurist Electro Funk in Space 1976\-84](https://open.spotify.com/album/7FyxIddviuFxayIXXIl358) | 6:32 |
 | 56 | [Crazy](https://open.spotify.com/track/0kUxknsCizotSJvigXGz78) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [G\-Stream](https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS) | 5:18 |
 | 57 | [Superman](https://open.spotify.com/track/31XzTmTkP3yQAzCbZ2uz8A) | [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC) | [The Many Facets Of Roger](https://open.spotify.com/album/2hWMz4KhFIl7Qff82wMEXF) | 4:08 |
 | 58 | [With the Music](https://open.spotify.com/track/7ADWPWvgegTdPYEqRtQXYe) | [Matt Johnson](https://open.spotify.com/artist/5gFCOJYoKgxTx0KUXISEAS) | [With the Music](https://open.spotify.com/album/57q2lXAoPUWJTBvlSpzy7F) | 6:17 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 | 81 | [Closer to You](https://open.spotify.com/track/174JRizws7VqM3oCF8zruo) | [Captain Supernova](https://open.spotify.com/artist/4BnBLvVYiuGjT6hNpZRzCH) | [The Voyage Never Ends...](https://open.spotify.com/album/2FzPLZyS7d7g6GneVKT4Kx) | 5:04 |
 | 82 | [Pomslap](https://open.spotify.com/track/1o93PmeUiSJopZ70Z4LlMK) | [Pomrad](https://open.spotify.com/artist/4PM7uuFnzArhW3FNNBeMXA) | [This Day EP](https://open.spotify.com/album/4zRbQIkHYXOBEoL84vEqTJ) | 4:04 |
 
-Snapshot ID: `MCw0ZjliOGEyZTY0ZDlmYzNjNDI5YjcyNzRiYmQ3YTk5NjNmOGFlN2Uz`
+Snapshot ID: `MCwxYzAyNGUwYTg1MTRlMjVlMmJhYTQ2MDEyNTNlNGFkZDYxYzE0Y2Fj`

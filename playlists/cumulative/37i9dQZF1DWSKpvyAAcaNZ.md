@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-277 songs - 17 hr 23 min
+278 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,8 @@
 | [You Can't Rule Me](https://open.spotify.com/track/4aQ5cd9GwSsTqfKt9LQS01) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [You Can't Rule Me](https://open.spotify.com/album/18aalqradHTvylhEU5E4bp) | 4:01 | 2021-12-17 | 2022-01-22 |
 | [You Found Another Lover \(I Lost Another Friend\) \- The Machine Shop Session](https://open.spotify.com/track/2ElTJmWJbuHT7owpTe3upS) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Get Up! \(Deluxe Edition\)](https://open.spotify.com/album/1xu9bQjnB72GNFeH31UDX7) | 4:21 | 2022-04-29 |  |
 | [You Hear Georgia](https://open.spotify.com/track/3v5hpjKoF63Lr9vLIKOpL8) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [You Hear Georgia](https://open.spotify.com/album/0zPQpAPYM2YG3G0pzuLiey) | 4:05 | 2021-12-17 |  |
-| [You Were Mine](https://open.spotify.com/track/4cmSWeG4xfAJboduGW9g8A) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [CHICKABOOM! Deluxe](https://open.spotify.com/album/53hH23tLuN4ggfQ3g7O3fY) | 3:43 | 2021-12-17 |  |
+| [You Were Mine](https://open.spotify.com/track/4cmSWeG4xfAJboduGW9g8A) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [CHICKABOOM! Deluxe](https://open.spotify.com/album/53hH23tLuN4ggfQ3g7O3fY) | 3:43 | 2021-12-17 | 2023-04-30 |
+| [You Were Mine](https://open.spotify.com/track/6nleD42Dimnc5fHnpA2T2R) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [CHICKABOOM!](https://open.spotify.com/album/4PIXzf7OYpSZF7PJLMjCZu) | 3:43 | 2023-04-21 |  |
 | [You're The Best Lover That I Ever Had](https://open.spotify.com/track/2CedUNQMFKQL8wy0ZiU4Bo) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [You're The Best Lover That I Ever Had](https://open.spotify.com/album/280ueAE3aHX1YBrdq8xGfr) | 4:07 | 2021-12-17 | 2022-07-29 |
 | [You’re the Best Lover That I Ever Had](https://open.spotify.com/track/6zvGluRPhlmtPsK8nPtgCK) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Terraplane](https://open.spotify.com/album/3JPaRHvPKF0iu7L9bTjJy4) | 4:07 | 2022-07-22 |  |
 

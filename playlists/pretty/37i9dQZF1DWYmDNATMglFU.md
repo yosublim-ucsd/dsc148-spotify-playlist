@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. the linda lindas
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,938 likes - 85 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,979 likes - 85 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 84 | [SHE’S MY \(SEXI BOY\)](https://open.spotify.com/track/6foPSxr70ZhG1ZVu03JzYS) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [My Favorite Blue Jeans](https://open.spotify.com/album/1L0YVLNDSQLKXkX1H5Dyl8) | 2:16 |
 | 85 | [Talk!Talk!Talk!](https://open.spotify.com/track/3mSoZcI4BQT3aF5HZpeK6z) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ) | [Talk!Talk!Talk!](https://open.spotify.com/album/4GVXwUSAznJT8MA7aIDS9G) | 2:49 |
 
-Snapshot ID: `MCxjOThlMmY0NDdmNmRmYzQ5Mjg3NGY4NGJjNWJjYzk0ODE3MWI3ZTA2`
+Snapshot ID: `MCwyMDI3YjM3OTgwNThjMzhiMDg3YmY1NDI1MjZjMDc4NjE1Yjc2OGFl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wTRh9H8LSC.md) - [plain]
 
 > Listen Heroine's music 24 Hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,850 likes - 36 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,873 likes - 36 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wTRh9H8LSC.md) - [plain]
 | 35 | [멈춰버린 시간](https://open.spotify.com/track/4AgEO6iy3fsyLbpjAdt42g) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Full Moon](https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q) | 4:38 |
 | 36 | [그게 너라면](https://open.spotify.com/track/5ISTy9kctyjm2zNW9TeZqI) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Full Moon](https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q) | 3:47 |
 
-Snapshot ID: `MCxiN2VjZGYzMmE5NTBiMmUwNzc5OTM5YWJjNGQ1OTM1NDJjOWQ3ZWRj`
+Snapshot ID: `MCwxZGIyOTIzOWYxZTE3ODNiOTZmZmQwYzRiM2RlNjMwZTM0MTZkZWMy`

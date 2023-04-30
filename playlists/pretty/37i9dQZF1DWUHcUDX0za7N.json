@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep?si=wdv_pNx6QqO9cmAr0l4x4g\"> Zlatan</a> ",
-  "num_followers": 18580,
+  "num_followers": 18656,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTE5ZWM3Mjg2MDUxNGNiYTdiMmI1YjgxZmRjODI5OTRmYmZiNmIx",
+  "snapshot_id": "MCxiNjEzNmU2Y2U1MjgxOTdjZDZhZWYzNjM2ZmQ0N2RmOTAxNjg1YjNl",
   "tracks": [
     {
       "added_at": "2023-04-27 23:00:00",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
+        "name": "Where Dem Dey",
+        "url": "https://open.spotify.com/album/2wR1umN5UBv0lE9NGvbJ6d"
+      },
+      "artists": [
+        {
+          "name": "Laime",
+          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Where Dem Dey",
+      "url": "https://open.spotify.com/track/5urCHNHBnnucIoZvnzns48"
+    },
+    {
+      "added_at": "2023-04-27 23:00:00",
+      "album": {
         "name": "Bando Diaries",
         "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
       },
@@ -1023,26 +1043,6 @@
       "duration_ms": 158298,
       "name": "Bando Diaries",
       "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
-        "name": "Boujee",
-        "url": "https://open.spotify.com/album/7sjFxdJ9g5uPLNCxwfO2Sk"
-      },
-      "artists": [
-        {
-          "name": "Keeya Keys",
-          "url": "https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6"
-        },
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        }
-      ],
-      "duration_ms": 207037,
-      "name": "Boujee",
-      "url": "https://open.spotify.com/track/3UgVuTqgQTO8u3m9Zuqotq"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -1067,6 +1067,26 @@
       "duration_ms": 181250,
       "name": "FAKE NIKES (feat. Blxckie & Cheque)",
       "url": "https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq"
+    },
+    {
+      "added_at": "2023-04-27 23:00:00",
+      "album": {
+        "name": "Boujee",
+        "url": "https://open.spotify.com/album/7sjFxdJ9g5uPLNCxwfO2Sk"
+      },
+      "artists": [
+        {
+          "name": "Keeya Keys",
+          "url": "https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "duration_ms": 207037,
+      "name": "Boujee",
+      "url": "https://open.spotify.com/track/3UgVuTqgQTO8u3m9Zuqotq"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -1115,22 +1135,6 @@
       "duration_ms": 168247,
       "name": "Awolowo",
       "url": "https://open.spotify.com/track/7LD1W44Y7IfcIfzWGLyvFg"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
-        "name": "MIDLIFE CRISIS / WYDTM",
-        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        }
-      ],
-      "duration_ms": 131478,
-      "name": "MIDLIFE CRISIS",
-      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -1191,18 +1195,18 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
-        "name": "Blessed Sinner",
-        "url": "https://open.spotify.com/album/015Ci9KJFaVbvorl31nEv8"
+        "name": "MIDLIFE CRISIS / WYDTM",
+        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
       },
       "artists": [
         {
-          "name": "Rord Kelly",
-          "url": "https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR"
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
         }
       ],
-      "duration_ms": 178599,
-      "name": "Blessed Sinner",
-      "url": "https://open.spotify.com/track/66fLV81N2fPV5XSaZn459U"
+      "duration_ms": 131478,
+      "name": "MIDLIFE CRISIS",
+      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -1227,18 +1231,18 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
-        "name": "YPSZN3",
-        "url": "https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp"
+        "name": "Blessed Sinner",
+        "url": "https://open.spotify.com/album/015Ci9KJFaVbvorl31nEv8"
       },
       "artists": [
         {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+          "name": "Rord Kelly",
+          "url": "https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR"
         }
       ],
-      "duration_ms": 200833,
-      "name": "Silent Mode",
-      "url": "https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ"
+      "duration_ms": 178599,
+      "name": "Blessed Sinner",
+      "url": "https://open.spotify.com/track/66fLV81N2fPV5XSaZn459U"
     },
     {
       "added_at": "2023-04-27 23:00:00",
@@ -1339,6 +1343,22 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
+        "name": "YPSZN3",
+        "url": "https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "duration_ms": 200833,
+      "name": "Silent Mode",
+      "url": "https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ"
+    },
+    {
+      "added_at": "2023-04-27 23:00:00",
+      "album": {
         "name": "Symbiosis",
         "url": "https://open.spotify.com/album/4kW20Wc6qVcrBWfvVATqpN"
       },
@@ -1371,30 +1391,6 @@
       "duration_ms": 142894,
       "name": "Moving Mad",
       "url": "https://open.spotify.com/track/3NEm37oSILi153aS3mJGsd"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/4EsC6oCWtJjU9zuHBIxan8"
-      },
-      "artists": [
-        {
-          "name": "Basketmouth",
-          "url": "https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 163507,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/6JZJ6Sbo0biJvOCnx5QaLw"
     }
   ],
   "unique_name": "Naija Bars ",

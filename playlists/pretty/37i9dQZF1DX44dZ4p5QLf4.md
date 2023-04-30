@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and new artists in the soul space\. Cover: Masego
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,813 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,869 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 9 | [Means The World](https://open.spotify.com/track/7mxvuhXGwCU8qmTuQR5rcg) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Gareth Lockrane](https://open.spotify.com/artist/2Km3mLLDx9YqUgnzzE2Ahv) | [Means The World](https://open.spotify.com/album/5O0iPLncgsSWVTr5FyF2o5) | 3:01 |
 | 10 | [In Need \- Reworked](https://open.spotify.com/track/6gyz4TE6oDNsyGPIA2V6PG) | [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R), [SMANDEM.](https://open.spotify.com/artist/3pBZ54BloAsAYIkZS15jol) | [In Need \(Reworked\)](https://open.spotify.com/album/2zE0Kw0j61mVY9aDR7kaqm) | 3:27 |
 | 11 | [There's Too Much Of You](https://open.spotify.com/track/7ox53QO10ykeeAkrFvmn3f) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [What's Around The Corner](https://open.spotify.com/album/1RpUrBuml8USoJNuUAbVrH) | 2:18 |
-| 12 | [Kaleidoscope](https://open.spotify.com/track/1EooppnhDM3kkCrhE7TIPl) | [Steven Bamidele](https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6), [Scarlett Fae](https://open.spotify.com/artist/5nXa3SdZAG5e9ahP4sKYBK) | [Kaleidoscope](https://open.spotify.com/album/02RNJRYM3Tz7owxBJeMAc8) | 3:46 |
+| 12 | [Kaleidoscope](https://open.spotify.com/track/0qC5SZciej450MxB7efCMu) | [Steven Bamidele](https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6), [Scarlett Fae](https://open.spotify.com/artist/5nXa3SdZAG5e9ahP4sKYBK) | [Kaleidoscope](https://open.spotify.com/album/1XgRvfnyEknQJPtwU99A2a) | 3:46 |
 | 13 | [Naked \- Feat\. Leven Kali](https://open.spotify.com/track/37usDo7KCpJJHrDnzHG8xU) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Naked \(Feat\. Leven Kali\)](https://open.spotify.com/album/7anDRgbTFWggPG51LUEhuG) | 3:04 |
 | 14 | [I Choose U \(feat\. RINI\)](https://open.spotify.com/track/7zHOs0OLz4CmB8LHcf1NNv) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [I Choose U \(feat\. RINI\)](https://open.spotify.com/album/0DcgdM3SS9A8wEig25dsqh) | 3:22 |
 | 15 | [Ride with You](https://open.spotify.com/track/0pwGmwNir2jkqhWhBu9WqB) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [Mike Tibbert](https://open.spotify.com/artist/0mL0tWGTYQkUqh2wVy6o75) | [Ride with You](https://open.spotify.com/album/6Ugju3J2yU7PfOk0nSAkBF) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 99 | [Promises](https://open.spotify.com/track/30e2kRNthNcvB9l9isDMLD) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Someone Who Knows](https://open.spotify.com/album/5P6FYHPjKPVSVNSdWZDsfe) | 3:08 |
 | 100 | [Spit Up](https://open.spotify.com/track/5ninsjB30htfz4V2EHhT5F) | [Royce Wood Junior](https://open.spotify.com/artist/681N6DCEDKu6miVIUE4MrT) | [Spit Up](https://open.spotify.com/album/0qxXNClkynGMG0zKnMRb21) | 3:53 |
 
-Snapshot ID: `MCxiMDI4MTM0MjBhZDllZDRmOTkxZTAzNDQzZDRkMjlhMmJiZjk0NzY0`
+Snapshot ID: `MCw4M2Y1YzliZjhmY2RiNjc3ZjYwOWFkY2M3ZTRiMzc0YzQ1MzIyMzgy`

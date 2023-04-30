@@ -4,11 +4,11 @@
 
 > Your daily update of the most played tracks right now \- Brazil.
 
-664 songs - 1 day 9 hr 25 min
+665 songs - 1 day 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\* da Anitta](https://open.spotify.com/track/0VhG6qzFZo9JrHu56Wq7gh) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [\* da Anitta](https://open.spotify.com/album/5vrDahFF5TU32GwPMxP4SC) | 2:20 | 2023-04-22 |  |
+| [\* da Anitta](https://open.spotify.com/track/0VhG6qzFZo9JrHu56Wq7gh) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [\* da Anitta](https://open.spotify.com/album/5vrDahFF5TU32GwPMxP4SC) | 2:20 | 2023-04-22 | 2023-04-30 |
 | [085 \- Ao Vivo](https://open.spotify.com/track/7Ht57bh2FwiQLwRH9zqESG) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Pode Crê \(Ao Vivo\)](https://open.spotify.com/album/1RgyCNTHPkg1IxFO0d6bhQ) | 2:43 | 2023-03-10 |  |
 | [1 Milhão de Sonhos](https://open.spotify.com/track/0mKMbu1kjSPhZUQjWgGF3o) | [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Passado & Presente](https://open.spotify.com/album/5hwK2P6q7pjxahdDEobHIb) | 2:13 | 2021-05-23 | 2021-05-24 |
 | [2000 s2](https://open.spotify.com/track/1rv1fNsmwgY2nXAUmF3JBb) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 2:39 | 2021-07-20 | 2021-07-25 |
@@ -148,6 +148,7 @@
 | [Cidade Inteira](https://open.spotify.com/track/7J3QMuDCSv56jRSiD9jFBF) | [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Cidade Inteira](https://open.spotify.com/album/2neGOdvdIFmfTaO6zjyCW8) | 3:34 | 2021-03-27\* | 2021-04-21 |
 | [Ciumeira \- Ao Vivo](https://open.spotify.com/track/7D5F5BzIon5zhzQrOU2pdN) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4HpiwfnQvs867JNWeLy1vr) | 3:10 | 2021-11-08 | 2021-11-12 |
 | [Clarão](https://open.spotify.com/track/2zLEc4IWwT4GJR20A04tJa) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 3:09 | 2021-10-22 | 2021-10-23 |
+| [Clickbait](https://open.spotify.com/track/5qOZbLAjBqInXwAECb9NRS) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [Clickbait](https://open.spotify.com/album/4ICMUPXh8IwNeBvQoUpWSZ) | 2:41 | 2023-04-29 |  |
 | [Coisas Que Eu Sei](https://open.spotify.com/track/5btDKzAsFh975NSWxwBHRc) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Coisas Que Eu Sei](https://open.spotify.com/album/36lpQCTJkcgC8o5xc2hRCn) | 3:12 | 2023-04-27 |  |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 3:22 | 2022-03-24 | 2022-03-28 |
 | [Comunicação Falhou \- Ao Vivo](https://open.spotify.com/track/7bhvRvE56NHBvedx0EeALS) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Ao Vivo em Fortaleza](https://open.spotify.com/album/3M5e9wnEYLRGlavA36KwAr) | 3:00 | 2022-05-28 | 2023-02-24 |

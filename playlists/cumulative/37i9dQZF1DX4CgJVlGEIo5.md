@@ -4,7 +4,7 @@
 
 > Cherish the day with these low\-key favorites.
 
-211 songs - 12 hr 30 min
+212 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [My Mind Is For Sale \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0wlezBPeBjzf9fWtq4tQAw) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Spotify Singles](https://open.spotify.com/album/3VfqKMnjoIsXjBdbKRpGWu) | 4:20 | 2022-03-23 | 2022-04-21 |
 | [My My My \- Acoustic](https://open.spotify.com/track/3pJ1oeWyPOhX1RPnN2Ugus) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [My My My \(Acoustic\)](https://open.spotify.com/album/15WcyRhRhcWqSLLDQ3JcSB) | 2:45 | 2022-03-23 | 2022-05-23 |
 | [My Soul I](https://open.spotify.com/track/5hXKcrDdpi0rpgWW9jnoRv) | [Anna Leone](https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj) | [My Soul I](https://open.spotify.com/album/2ZOW7IdQffohK7sRi1loLJ) | 4:14 | 2022-03-23 | 2022-04-20 |
-| [My Soul I](https://open.spotify.com/track/4yzgJXvWFXWGLd4vQMYo9p) | [Anna Leone](https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj) | [Wandered Away](https://open.spotify.com/album/1x6WXEqvgHDBxGKpxLAaz1) | 4:15 | 2022-03-23 |  |
+| [My Soul I](https://open.spotify.com/track/4yzgJXvWFXWGLd4vQMYo9p) | [Anna Leone](https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj) | [Wandered Away](https://open.spotify.com/album/1x6WXEqvgHDBxGKpxLAaz1) | 4:15 | 2022-03-23 | 2023-04-30 |
 | [Need You Now \- Acoustic](https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Same Kind Of Different \(Acoustic\)](https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti) | 3:23 | 2022-03-23 |  |
 | [Need You Now \- Acoustic](https://open.spotify.com/track/5whjxzYUc8eXlfrvlh9Y9B) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Need You Now \(Acoustic\)](https://open.spotify.com/album/13LpVxAm6NZ3uaCYgPwi2M) | 3:23 | 2022-03-23 | 2022-04-21 |
 | [Neighbors](https://open.spotify.com/track/2MLOncjh8xeA06oP7ELsRi) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Neighbors](https://open.spotify.com/album/6eoHFcflaBFzkbtL75MMhM) | 3:25 | 2022-03-23 | 2022-04-21 |
@@ -162,6 +162,7 @@
 | [Praying for Love](https://open.spotify.com/track/4KETfxD7dbHBR2z52z6vKl) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Praying for Love](https://open.spotify.com/album/0GLHwOs7kfsOMaF5EDqG4L) | 3:02 | 2022-03-23 | 2022-04-20 |
 | [Pretty Things](https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq) | [TFDI](https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif) | [TFDI](https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh) | 5:06 | 2022-03-23 |  |
 | [Pretty Words](https://open.spotify.com/track/1trYM6Evd3SQHcXYWzbVTe) | [Crissi Cochrane](https://open.spotify.com/artist/1sKPIw7teK8qWo58pKKzRz) | [Little Sway](https://open.spotify.com/album/6I0LeQIdlJMEwfjwXixeg6) | 4:57 | 2022-03-23 | 2022-04-21 |
+| [Puppy and a Truck](https://open.spotify.com/track/6nrfecLjwsQngv4LbOMrRe) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Puppy and a Truck](https://open.spotify.com/album/2udBN6XsNrbgLOFzrqEBVt) | 3:11 | 2023-03-31 |  |
 | [Puppy and a Truck](https://open.spotify.com/track/3yN6F2vOf3ypKv9kr8sDdm) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Puppy and a Truck](https://open.spotify.com/album/358Blro4SuMHGHYnH1Tgbl) | 3:11 | 2022-03-23 | 2023-04-21 |
 | [Quiet \- Stripped](https://open.spotify.com/track/60oCAd3gei66GObniGX4wV) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Quiet \(Stripped\)](https://open.spotify.com/album/4dqLW8pQA05EoWHZtrlWPi) | 3:28 | 2022-03-23 | 2022-04-20 |
 | [Rebellion \(Lies\)](https://open.spotify.com/track/7HU1RzZlG56N35NNppXgvN) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Rebellion \(Lies\)](https://open.spotify.com/album/0tV55IDV0N3ztHHBADhD0y) | 3:11 | 2022-03-23 | 2022-04-21 |

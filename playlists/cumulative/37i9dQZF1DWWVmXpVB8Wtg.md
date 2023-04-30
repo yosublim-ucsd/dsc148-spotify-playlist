@@ -4,7 +4,7 @@
 
 > Meet the lineup of ULTRA KOREA, the best music festival boasting the world's top EDM DJ\. \(세계 최정상 EDM DJ를 자랑하는 최고의 음악 축제 ULTRA KOREA의 라인업을 만나보세요.\)
 
-52 songs - 3 hr 42 min
+53 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Maybe I](https://open.spotify.com/track/151QJmJUuopi0h6zbABYlX) | [DJ KEIKO](https://open.spotify.com/artist/0Xi1WX8JNayhDKMoDxJX6g) | [Maybe I](https://open.spotify.com/album/0uttTlQtihX8o1JOBgH8oH) | 3:04 | 2022-09-15 |  |
 | [MOAB](https://open.spotify.com/track/20yjVD5V9XT87BhgmScgxG) | [GLDN](https://open.spotify.com/artist/6a4KLb4BJJNm3uJVKNEvWP), [MYKRIS](https://open.spotify.com/artist/74FoBhis1hShJt1oBnmXkC) | [MOAB](https://open.spotify.com/album/55M9ApHxvAbAGvG5lbWyj0) | 3:02 | 2022-09-15 |  |
 | [My Humps](https://open.spotify.com/track/3BbD2sqk7P7Rc9V0KF9o4s) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [My Humps](https://open.spotify.com/album/4mnGRL7lErjyRJsoCwgJT4) | 3:06 | 2022-09-15 |  |
-| [Now That I'm Gone \(Look How You're Crying\)](https://open.spotify.com/track/6Qotee3wIEu3PUTsXLJbnG) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Bullets](https://open.spotify.com/artist/0ixVJf1V8RA00Wj4C8C79a) | [Daptone Records Singles Collection: Volume 1](https://open.spotify.com/album/7JJziPgPVZJWmTXxsAaDAP) | 3:28 | 2022-09-15 |  |
+| [Now That I'm Gone \(Look How You're Crying\)](https://open.spotify.com/track/3INaJCuIfVWt8EnzhgHdk5) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Bullets](https://open.spotify.com/artist/0ixVJf1V8RA00Wj4C8C79a) | [Daptone Records Singles Collection: Volume 1](https://open.spotify.com/album/42lZKhCXoHT3VLFYH4PPM3) | 3:28 | 2022-09-15 |  |
+| [Now That I'm Gone \(Look How You're Crying\)](https://open.spotify.com/track/6Qotee3wIEu3PUTsXLJbnG) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Bullets](https://open.spotify.com/artist/0ixVJf1V8RA00Wj4C8C79a) | [Daptone Records Singles Collection: Volume 1](https://open.spotify.com/album/7JJziPgPVZJWmTXxsAaDAP) | 3:28 | 2022-09-15 | 2023-04-30 |
 | [Numb](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Numb](https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk) | 2:35 | 2022-09-15 |  |
 | [Out Of Lives \(feat\. Charlotte Haining\)](https://open.spotify.com/track/2vonFHQE4R9VsEktEH6kNQ) | [Ares Carter](https://open.spotify.com/artist/5fSYYJ4qdUSyvj2q0YdHEF), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Out Of Lives \(feat\. Charlotte Haining\)](https://open.spotify.com/album/4vcpZ5tZDmXUcSZAVkOke5) | 2:46 | 2022-09-15 |  |
 | [Puppet](https://open.spotify.com/track/0ehGrMuw8VqVK3wz5xCk5s) | [Cream](https://open.spotify.com/artist/1d1dWkQxaKGW8mnZLmo4dr) | [Puppet](https://open.spotify.com/album/0FtiUhuWshUIS6mB0h90C9) | 2:11 | 2022-09-15 |  |

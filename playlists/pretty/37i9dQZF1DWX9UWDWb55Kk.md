@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Escucha la música de las seis temporadas de Élite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,154 likes - 354 songs - 22 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,202 likes - 354 songs - 22 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -276,7 +276,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 266 | [Stranger Danger](https://open.spotify.com/track/5Nr7SHjKozgRgIMpGkPskx) | [Rush Week](https://open.spotify.com/artist/0OBjNPFO2EhBB5apG0s5Ur) | [Feels](https://open.spotify.com/album/3tHHsG9bhA4IYqzivSk5LG) | 3:07 |
 | 267 | [Big Future](https://open.spotify.com/track/28TdbFjX6047oZ5ADLTs2r) | [Obliques](https://open.spotify.com/artist/4EGAoQoOZvUSXt0uzxAGWG) | [Big Future](https://open.spotify.com/album/6SASFuxKdxTIHtkfjBV2Na) | 2:35 |
 | 268 | [Piel](https://open.spotify.com/track/6udFBv3qe6LOh2LfgVmbcY) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Arca](https://open.spotify.com/album/3BJqKT6NBFj06k5LIvjiZb) | 4:07 |
-| 269 | [Hey Heartbreaker](https://open.spotify.com/track/5rHOYjTsgZSt4FTIkVtcVc) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/0fFlloNPNem2XOi4AeU5ty) | 3:20 |
+| 269 | [Hey Heartbreaker](https://open.spotify.com/track/4GlABUbKd2p5dRvOlGhphU) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/4XNMQKhyNE3BYCPhwTzcFF) | 3:20 |
 | 270 | [Que Calor ! \- Edit](https://open.spotify.com/track/51RZhPkS8VJVxOumtBu0ir) | [The Limiñanas](https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n), [Laurent Garnier](https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ), [Edi Pistolas](https://open.spotify.com/artist/44wTn8MHdzZlPbtQg6g17o) | [Que Calor ! \(Edit\)](https://open.spotify.com/album/1TM2NQIcnXIGXUF3O43KyX) | 4:09 |
 | 271 | [La Electricidad](https://open.spotify.com/track/0bfpXEdKjph2BbFdaG3PY3) | [McEnroe](https://open.spotify.com/artist/6t17pv2Q9w9ybTC0Ty5Sq2) | [Rugen las Flores](https://open.spotify.com/album/3QiJU2sZP7ygkzWE1vtKKZ) | 4:00 |
 | 272 | [GALARINA](https://open.spotify.com/track/74FTTnGOinEcMgfCVzxIIF) | [LEÏTI](https://open.spotify.com/artist/5FQJWdcKPAijmEi4uroZ4h), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg), [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [JOËL](https://open.spotify.com/album/3quasfI8qx5OVONquIH9MW) | 2:57 |
@@ -317,7 +317,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 307 | [SATANA, S\. A.](https://open.spotify.com/track/5ga1gPFk7w5DlvCCsTPwVG) | [Almodóvar](https://open.spotify.com/artist/2nSByhPugkeLLEHhMR6nTP), [McNamara](https://open.spotify.com/artist/5r6L9ttUyUlwoV7dDnkB5j) | [¡Cómo está el servicio de señoras!](https://open.spotify.com/album/5SqWUpoC9wNLm4aJVz2FJV) | 3:51 |
 | 308 | [Nacidos para dominar](https://open.spotify.com/track/0sECmOT033d9ontbR7FEtl) | [Paralisis Permanente](https://open.spotify.com/artist/5OIvhuAngAyS1rt3MU5r3k) | [Los singles y primeras grabaciones](https://open.spotify.com/album/16khoJtvvbN9y7hk8zRtke) | 3:41 |
 | 309 | [Yellow Jacket](https://open.spotify.com/track/5VqtAbPR64zkQHaYbcxtVQ) | [moa moa](https://open.spotify.com/artist/1VC1fSNmQ7dzRFMYlEuurc) | [Yellow Jacket](https://open.spotify.com/album/1yJe9UFhWZvMGFlaDF9haP) | 3:48 |
-| 310 | [I'm Not Always Where My Body Is](https://open.spotify.com/track/1uFBlkcqXpvoZBpRL7fM4T) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [S.L.F.](https://open.spotify.com/album/0rZMYFmZZYdm3nfilk1SvV) | 3:49 |
+| 310 | [I'm Not Always Where My Body Is](https://open.spotify.com/track/3XxoiXiNIzsgl45fTDXtKE) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [S.L.F.](https://open.spotify.com/album/5dGkXQyNIkLUjmW4VR9uax) | 3:49 |
 | 311 | [Dance Boys \(Feat\. Paulita Demaíz\)](https://open.spotify.com/track/0h7r57THNIdUrOYmPT7Zya) | [Fitness Forever](https://open.spotify.com/artist/7eaGUzCmUeHYU4qssZoSai) | [Tonight](https://open.spotify.com/album/7FPRkvo8RatLUCmByPgmFT) | 3:45 |
 | 312 | [Breathe For Me](https://open.spotify.com/track/0B9MMdHFOFFhqFVbVS8Irg) | [Attic Lights](https://open.spotify.com/artist/53I53JqO0ELxsVxEu9v1p4) | [Say You Love Me](https://open.spotify.com/album/0R1GkMTHWdc33OHicmxGSo) | 4:23 |
 | 313 | [Knife](https://open.spotify.com/track/7zJez9dgwuDp2K0SodHXqE) | [SOLEDAD VÉLEZ](https://open.spotify.com/artist/4e7wEeokf7skRInd805EVH) | [Knife](https://open.spotify.com/album/3zwswJSHvyf20opVthp5vc) | 4:23 |
@@ -363,4 +363,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 353 | [Out Of Touch](https://open.spotify.com/track/3DgjbN7e2gppallutVbat6) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [A Small Group Of Individuals](https://open.spotify.com/album/5QQRlQ7JnXy6c7HNDWVibk) | 4:01 |
 | 354 | [Witch Hunt](https://open.spotify.com/track/5nTCnGR4NtI3yyOp66NuOI) | [HXXS](https://open.spotify.com/artist/4zBSDjtYyrLC99ot3LV8hF) | [MKDRONE](https://open.spotify.com/album/2NtylLjjafbzfoAOPOMsO1) | 3:57 |
 
-Snapshot ID: `MCxlMzQ2M2ExOTZlNDBkN2YzOGY1OTIxN2Q0NjJmYTc4ZmE5MGFhODIy`
+Snapshot ID: `MCxiYWZhYzhmMzMxYWJkZWEwNWQyOWRlOTVkZWEwMDhkZGY1ODI0ODk4`

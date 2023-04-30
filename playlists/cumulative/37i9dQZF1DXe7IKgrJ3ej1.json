@@ -178,10 +178,28 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 206680,
       "name": "Company",
       "url": "https://open.spotify.com/track/1aJJtUY2eeIQjHBqDfsaPB"
+    },
+    {
+      "album": {
+        "name": "Sun Outside My Window",
+        "url": "https://open.spotify.com/album/4IZghGvlSC2HHAnuO1JmNe"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Guy",
+          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206680,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/2PFs28cJrIapJx7Seg0j5s"
     },
     {
       "album": {

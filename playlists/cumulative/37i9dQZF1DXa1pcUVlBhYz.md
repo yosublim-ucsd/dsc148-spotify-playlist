@@ -4,7 +4,7 @@
 
 > Electronic + Dance making waves, every month.
 
-239 songs - 14 hr 3 min
+240 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Free](https://open.spotify.com/track/0kzhCraxTEGj5uyft6y6aD) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Free](https://open.spotify.com/album/0qfQxiLiUyGvWpz8QQs0Gd) | 3:57 | 2022-02-01 | 2022-04-16 |
 | [FREEDOM \- Big Freedia Remix](https://open.spotify.com/track/5a29MgzhrWtAN6tYSM0Hwc) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [FREEDOM \(Big Freedia Remix\)](https://open.spotify.com/album/2ibSE8yIAeVccIg4enZzkq) | 2:52 | 2022-02-01 | 2022-04-02 |
 | [Fudge](https://open.spotify.com/track/0L4B26cB6aqNFbLbJlzIqt) | [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op) | [Fudge](https://open.spotify.com/album/4EjJO1x5dfezbOPLSP1POO) | 2:25 | 2022-02-01 | 2022-06-18 |
-| [GETOUTOFMYHEAD](https://open.spotify.com/track/2kYQCKxOi9Dccib2E8KaW5) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [GETOUTOFMYHEAD](https://open.spotify.com/album/04Cbf32azwsSiMpOjHDNya) | 6:16 | 2023-02-10 |  |
+| [GETOUTOFMYHEAD](https://open.spotify.com/track/2kYQCKxOi9Dccib2E8KaW5) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [GETOUTOFMYHEAD](https://open.spotify.com/album/04Cbf32azwsSiMpOjHDNya) | 6:16 | 2023-02-10 | 2023-04-30 |
+| [GETOUTOFMYHEAD](https://open.spotify.com/track/3DayjEnW7oPHucWm71NtIH) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [GETOUTOFMYHEAD](https://open.spotify.com/album/5Vnhdn0oxYlogKhFdT1SWn) | 6:16 | 2023-04-21 |  |
 | [Getting Late](https://open.spotify.com/track/79RAX0NTNBnzuLieO4zYcr) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Getting Late](https://open.spotify.com/album/2N8jO8NkQ0pUyA0MFqRZM6) | 4:14 | 2022-02-25 | 2023-02-11 |
 | [Girl Code](https://open.spotify.com/track/0pLRmqULQgr2WkAdgLN4mh) | [Mikalya](https://open.spotify.com/artist/7jv66bdVdkdIlPvEizxV1f), [Odreii](https://open.spotify.com/artist/7an95q1yJtdFUi57D6Emrn), [Nissa Seych](https://open.spotify.com/artist/3LzKJ6aOX8uEf7b2rli5Uc) | [Girl Code](https://open.spotify.com/album/5uB4Q0FuEmGPweQ1pT83nr) | 2:23 | 2022-02-01 | 2022-06-18 |
 | [Girls Just Wanna Have Funds](https://open.spotify.com/track/5hRhFIwjli51p4fAxwyqpF) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Girls Just Wanna Have Funds](https://open.spotify.com/album/339HC2ut5KYXJIBryrAgUf) | 3:35 | 2022-12-16 |  |

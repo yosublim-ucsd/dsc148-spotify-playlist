@@ -4,7 +4,7 @@
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/27MxvuyBenjamin Jephta</a>
 
-104 songs - 11 hr 8 min
+106 songs - 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Rainbow \(Live\)](https://open.spotify.com/track/05hWCVraaBWQ07R7fgr0we) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy) | [Thandi Ntuli \(Live at Jazzwerkstatt\)](https://open.spotify.com/album/00igLPQBrtQR2DlH4R96w0) | 14:44 | 2022-04-28 | 2023-04-12 |
 | [Red Room](https://open.spotify.com/track/7qCcZTizjFBYCdqGjhvCoV) | [Tune Recreation Committee](https://open.spotify.com/artist/6lNEil3Rutgl0lscHp9pZx) | [Afrika Grooves With the Tune Recreation Committee](https://open.spotify.com/album/7etAEMYrH6A4M3Q7LvaycA) | 7:07 | 2022-04-28 | 2023-03-18 |
 | [Remember Me](https://open.spotify.com/track/5nRF6nlZBIjTTodlaHRuVg) | [Gabi Motuba](https://open.spotify.com/artist/0weIOOeTGcBXsHufTBahtC) | [Tefiti \- Goddess of Creation](https://open.spotify.com/album/7GAp6bCSVu0dbV5scjOa5M) | 5:30 | 2022-04-28 |  |
-| [Resonance of Truth](https://open.spotify.com/track/4EoHAXteZOnhNhw90XzilV) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Resonance of Truth](https://open.spotify.com/album/2bdu1AlNxOIUoQgJG9ho60) | 5:19 | 2023-02-09 |  |
+| [Resonance of Truth](https://open.spotify.com/track/3khqXPns3K35UUWdikdcGq) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Resonance of Truth](https://open.spotify.com/album/2BT9yT0t764TDt5Gqxi7XC) | 5:19 | 2023-04-21 |  |
+| [Resonance of Truth](https://open.spotify.com/track/4EoHAXteZOnhNhw90XzilV) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Resonance of Truth](https://open.spotify.com/album/2bdu1AlNxOIUoQgJG9ho60) | 5:19 | 2023-02-09 | 2023-04-30 |
 | [Rites](https://open.spotify.com/track/5XhsgJqFcTac7rNqz0fbx1) | [Vuma Levin](https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX) | [Rites](https://open.spotify.com/album/4b3P5JVBTRdvkLAk8voX40) | 6:34 | 2023-04-11 |  |
 | [Senze' Nina](https://open.spotify.com/track/60ujUkmCYqPQkkZHKtu27b) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [Senze' Nina](https://open.spotify.com/album/1KHEsl630n9WdseVpfIDCg) | 5:48 | 2022-04-28 | 2023-03-18 |
 | [Sinivile](https://open.spotify.com/track/08SE0pY4CLGgnr7UMTkWet) | [Sisonke Xonti](https://open.spotify.com/artist/5aoTUcGtI83q6Y8Lqvl4Pm) | [uGaba the Migration](https://open.spotify.com/album/1Igp59kX92saIgyQYTbnm7) | 6:29 | 2022-04-28 | 2023-03-18 |
@@ -110,7 +111,8 @@
 | [Water Signs](https://open.spotify.com/track/2nsw0NQR8x2HCjgSZ4cnUV) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy), [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on), [Simon Manana](https://open.spotify.com/artist/3q7fjTvf2EjwCnFKHr86x9), [Gontse Makhene](https://open.spotify.com/artist/3V7WKFF6UrGdI4jV6nBhHD), [Micca Manganye](https://open.spotify.com/artist/3UtkXcZLR9l1xzjTvp1aae) | [Water Signs](https://open.spotify.com/album/4yVOwDT9cBY7j30TQcA89d) | 6:18 | 2023-02-03 |  |
 | [Where The Heart Is](https://open.spotify.com/track/43COSQ9QZsY47ZariNFRnS) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Finish The Sun](https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD) | 5:27 | 2022-04-28 |  |
 | [Wozani Nonke Sizothandaza](https://open.spotify.com/track/5JlzEk3QTex3bOELO59xi1) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [At This Point in Time: Voices in Volumes](https://open.spotify.com/album/0Nm6Bc09bsazARFqzfemzr) | 8:04 | 2022-04-28 |  |
-| [Wynter Time](https://open.spotify.com/track/14MNWR9L2Hm62cwZTj0lBM) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [Wynter Time](https://open.spotify.com/album/2KmDzNsGlhCzEjV49krJGp) | 9:27 | 2023-03-17 |  |
+| [Wynter Time](https://open.spotify.com/track/14MNWR9L2Hm62cwZTj0lBM) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [Wynter Time](https://open.spotify.com/album/2KmDzNsGlhCzEjV49krJGp) | 9:27 | 2023-03-17 | 2023-04-30 |
+| [Wynter Time](https://open.spotify.com/track/3keL9OPcgEPFKrclh0nlSg) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [Wynter Time](https://open.spotify.com/album/77Eh0NmNr9ITqpaSwg5xvh) | 9:27 | 2023-04-21 |  |
 | [Yaka Yaka](https://open.spotify.com/track/3guSqYCPy6GidiSgklshzX) | [Vuma Levin](https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX) | [Yaka Yaka](https://open.spotify.com/album/2bBnV2FWnWJx76qvvlAMcn) | 6:54 | 2023-03-17 |  |
 
 \*This playlist was first scraped on 2022-10-01. Prior content cannot be recovered.

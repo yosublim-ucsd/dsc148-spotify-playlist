@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Mike Bahía
 
-251 songs - 15 hr 6 min
+252 songs - 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Dos Caras](https://open.spotify.com/track/7qRNzcp4Fe1MDAdNX4XI2t) | [Classay](https://open.spotify.com/artist/4mf6FVrREnoh6Kw7AOU4qI), [Karlos Rosé](https://open.spotify.com/artist/6FQPrGwEepUrGKbzD3Zeib) | [Dos Caras](https://open.spotify.com/album/0OML9yeJUDusUazNZbZMK5) | 4:27 | 2022-01-01 | 2022-06-30 |
 | [Dos Copas de Vino](https://open.spotify.com/track/381Q9FCnSOGLUk9BpTsIKF) | [Farik Grippa](https://open.spotify.com/artist/00Xr47kjidyk1Kimx2Ypd2) | [Dos Copas de Vino](https://open.spotify.com/album/2Qs6mBxOknHtEPyIgjbtrM) | 4:27 | 2022-03-04 | 2022-06-30 |
 | [Dulce Pa' Mí](https://open.spotify.com/track/1NU1H9woXBAeu31yHSrw6u) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Gabriel Pagan](https://open.spotify.com/artist/3InfS9TeNQro4bp9EWtuyP) | [Dulce Pa' Mí](https://open.spotify.com/album/4sb1Sjex902EaMNRHvY5eO) | 2:33 | 2022-01-01 | 2022-06-30 |
+| [El camino](https://open.spotify.com/track/6x5gl9msgjsqub1hy7Iq3k) | [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [Lágrimas pa otro día](https://open.spotify.com/album/3cPRpK8yUQV5T6QTt7XGfp) | 2:16 | 2023-04-28 |  |
 | [El Carnaval De Celia: A Tribute \(La Vida es un Carnaval / La Negra Tiene Tumbao / Rie y Llora\)](https://open.spotify.com/track/0Upe0FIOS01lwUu7d4WSrR) | [KYEN?ES?](https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx) | [El Carnaval De Celia: A Tribute \(La Vida es un Carnaval / La Negra Tiene Tumbao / Rie y Llora\)](https://open.spotify.com/album/3lzryn2k5cSfBNzivYMJCT) | 3:06 | 2022-04-29 |  |
 | [El Carnaval De Celia: A Tribute \(La Vida es un Carnaval / La Negra Tiene Tumbao / Rie y Llora\)](https://open.spotify.com/track/7C4TF7eYuPNAaqNyy5gYBM) | [KYEN?ES?](https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx) | [El Año Viejo](https://open.spotify.com/album/1B2lmSmONdcIX24yJ4pr1G) | 3:06 | 2022-01-01 | 2022-01-29 |
 | [El Caudal](https://open.spotify.com/track/3Eofn5MhdnUYozRhcxGYLN) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [El Caudal](https://open.spotify.com/album/57zjLKLycEw9ezNKgXBDtI) | 3:57 | 2023-04-14 |  |
@@ -120,7 +121,7 @@
 | [La Tristeza ¡Pa' Fuera!](https://open.spotify.com/track/4TapgIgumLEZXd6r0tYs48) | [Limi\-T 21](https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7) | [La Tristeza ¡Pa' Fuera!](https://open.spotify.com/album/5kMLbIdGiYx0ZXHUnTVFm2) | 3:11 | 2022-01-28 | 2022-06-30 |
 | [Lao' a Lao'](https://open.spotify.com/track/7FERDnffKGQKul3P32Sm37) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Lao' a Lao'](https://open.spotify.com/album/1tvJvDz3tXfhq0xfABFuU9) | 3:04 | 2022-01-01 | 2022-06-30 |
 | [Ley de Gravedad](https://open.spotify.com/track/78CUtxSPPqQHyw7JM8Snys) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv), [Dj Dimen5ions](https://open.spotify.com/artist/120pQ3TUu98TWKhe2hBEJh), [DJ Alejandro](https://open.spotify.com/artist/0ym5ObOj6rNAGyq5ga7JhA) | [Ley de Gravedad](https://open.spotify.com/album/7EPlOoet3WAVcNJKID9Fkm) | 3:02 | 2022-04-29 | 2022-06-30 |
-| [Llegaste](https://open.spotify.com/track/5jU9Tj9Mlrwjr2SW5gElJz) | [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA), [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Llegaste](https://open.spotify.com/album/3KYHHZZqz8SEjCVbeUE8xO) | 3:21 | 2023-03-24 |  |
+| [Llegaste](https://open.spotify.com/track/5jU9Tj9Mlrwjr2SW5gElJz) | [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA), [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Llegaste](https://open.spotify.com/album/3KYHHZZqz8SEjCVbeUE8xO) | 3:21 | 2023-03-24 | 2023-04-30 |
 | [Lo Veo y No Lo Creo](https://open.spotify.com/track/1bTpL2sNbYVlNuxXIFI9jk) | [Willy Garcia](https://open.spotify.com/artist/1VNniaVBiVVqSwjUEcNJfd), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [El Día Es Hoy](https://open.spotify.com/album/2Pnmt5sGCcrDUJmKqVx7Rb) | 3:20 | 2022-01-01 | 2022-01-29 |
 | [Los Celos Se Te Notan](https://open.spotify.com/track/66YC8rcYpImTugAA2m2yUb) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Los Celos Se Te Notan](https://open.spotify.com/album/2zg7DDi8vJ2gYy4wq2n1TG) | 3:10 | 2023-01-20 | 2023-03-22 |
 | [Lotería](https://open.spotify.com/track/0R5yCZ5xBbZV0nyPO9qM9d) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Lotería](https://open.spotify.com/album/7qjUgwcrdAbhAjF5gYAyn4) | 4:10 | 2023-04-21 |  |

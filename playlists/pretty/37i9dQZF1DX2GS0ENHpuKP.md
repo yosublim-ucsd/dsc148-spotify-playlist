@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 
 > <a href="spotify:artist:77J3V0V7sEOf5ifCDBSNaJ">Nu Genea</a>'s favorite tracks\. Updated regularly\. Curated by Nu Genea\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,588 likes - 55 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,665 likes - 55 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 | 3 | [Get Down On It](https://open.spotify.com/track/0fKleXh1g3sicKvs8yHIHP) | [Mystic Jungle](https://open.spotify.com/artist/0h3E1GEycmeNQ5USViniCF) | [Deviant Disco](https://open.spotify.com/album/7e8NmkbJcgEUHSDfnhb3Ic) | 5:21 |
 | 4 | [Sabato Italiano](https://open.spotify.com/track/6yOSX613mf0t3b6kTiYSIO) | [I Coccodrilli](https://open.spotify.com/artist/5I5o3vDgR1eCtGcyW2IYZR) | [Sabato italiano](https://open.spotify.com/album/7jgBsFqhHEmuDumoqcOZiD) | 4:33 |
 | 5 | [Napule Canta E More](https://open.spotify.com/track/3qNtGvCC1tgeZFK9ClBz4k) | [Donatella Viggiano](https://open.spotify.com/artist/4FFwzgDJc7AaKVPYxQzwjk) | [Napoli Segreta](https://open.spotify.com/album/7wG7cketLF1ZzMAPWa2fcl) | 2:54 |
-| 6 | [Rebelde Silueta](https://open.spotify.com/track/6ggGycALmehX01E49j4dDG) | [Nsue](https://open.spotify.com/artist/3mP60wj7zbSsAnI26egtol) | [Ritmo Fantasía: Balearic Spanish Synth\-Pop, Boogie And House \(1982\-1992\)](https://open.spotify.com/album/4athIGponDiJRR4djOgwbJ) | 4:30 |
+| 6 | [Rebelde Silueta](https://open.spotify.com/track/5apFmj9frwrTV1BvclAfZM) | [Nsue](https://open.spotify.com/artist/3mP60wj7zbSsAnI26egtol) | [Ritmo Fantasía: Balearic Spanish Synth\-Pop, Boogie And House \(1982\-1992\)](https://open.spotify.com/album/6hF1xbglHjBHYkv2FMtyiq) | 4:30 |
 | 7 | [Now That We Found Love \- 12" Version](https://open.spotify.com/track/3DakouX0AK62dbYE4FhEt2) | [Third World](https://open.spotify.com/artist/6qfKnsgz1CwyqA7lTdieRJ) | [Reggae Ambassadors: 20th Anniversary Collection](https://open.spotify.com/album/3vlkQm8RweDiMawQPfFnkA) | 8:15 |
 | 8 | [No Nos Pararan](https://open.spotify.com/track/47uSDINq6LvvNdMPvs82WV) | [Charanga 76](https://open.spotify.com/artist/6bB0iS1H2zn09k8kExHknf) | [No Nos Pararan](https://open.spotify.com/album/5cI6VjFpoHnMSnWtOMO7uW) | 9:34 |
 | 9 | [Fotonovela](https://open.spotify.com/track/53sf1Z9U5W34m4PlhHlmyT) | [Ivan](https://open.spotify.com/artist/4geJci3XRoeMknHvknu2gL) | [Lo Mejor De Los Ochenta](https://open.spotify.com/album/1uYi1bqEbverdinug6DMVO) | 4:41 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 | 27 | [Danse Cette Zik](https://open.spotify.com/track/0JSDjKJ1VJwmRwW35I3OYH) | [Parbleu](https://open.spotify.com/artist/6TPtmX8rRaOXQgN6WFFTlo) | [Danse Cette Zik](https://open.spotify.com/album/3dMQYdTraNEoCBKUC34Uyt) | 4:19 |
 | 28 | [Se Tu Vuoi](https://open.spotify.com/track/0YDc4kVUW7J0Yr908XFEUa) | [Flavia Fortunato](https://open.spotify.com/artist/6u4qQuBV1wEiChGgPVT45f) | [Canto Per Te](https://open.spotify.com/album/2T4GTTm7POJdcUfRKn4EC1) | 3:40 |
 | 29 | [Ain't Nobody \- 12" Mix](https://open.spotify.com/track/17I5HiscSrsUwXAYyXF5K1) | [Yvonne Archer](https://open.spotify.com/artist/7silPKojiZ1G2aa6RVmTFa) | [Ain't Nobody](https://open.spotify.com/album/2xDAafZy4pUEuyuSawKTku) | 7:18 |
-| 30 | [Sweetest Taboo](https://open.spotify.com/track/79kE710OjFvgXocQfYMe6k) | [Rebles](https://open.spotify.com/artist/3sYvl5zrwAbMVVlog6PO6A), [Soca](https://open.spotify.com/artist/2dNe50mudMBf2mKTuVYtHh) | [Sweetest Taboo](https://open.spotify.com/album/7KsKCoTPPN5wvuh6WuDIzy) | 6:45 |
+| 30 | [Sweetest Taboo](https://open.spotify.com/track/1VtficGMlMhEBi5x1v66F9) | [Rebles](https://open.spotify.com/artist/3sYvl5zrwAbMVVlog6PO6A), [Soca](https://open.spotify.com/artist/2dNe50mudMBf2mKTuVYtHh) | [Sweetest Taboo](https://open.spotify.com/album/1qCGnNy8EOVXrglUhdPSwV) | 6:45 |
 | 31 | [Inner Vision](https://open.spotify.com/track/2VXMByMiRWsSfY53Qn9jj8) | [Chuks Ejelonu](https://open.spotify.com/artist/0wd8r1krS136gn1qP2kt6z) | [Inner Vision \(official re\-issue\)](https://open.spotify.com/album/2Th3bkhlh5ccJh0xfDkLsO) | 5:34 |
 | 32 | [The Time Is Come](https://open.spotify.com/track/67Ap9BKsZXan4gYWzCb3Pn) | [Effi Duke](https://open.spotify.com/artist/6TKG61vYDn0PmgoXUYkrOx), [The Love Family](https://open.spotify.com/artist/2PMQqmwNVSap6TxKMZRuMh) | [Mr Bongo Record Club, Vol\. 2](https://open.spotify.com/album/6FUoMNfQiCUMmwvfZC8lRI) | 4:43 |
 | 33 | [C'è Più Samba \- 2001 Remaster](https://open.spotify.com/track/6l3rdwqA67H4aEvlW4Nxc2) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Mina Alla Bussola Dal Vivo](https://open.spotify.com/album/62GEeqP3R7TaeP1knNwauP) | 3:32 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 | 54 | [Il vecchiaccio](https://open.spotify.com/track/539NGs2uOS6xu8JMuemKO1) | [Bruno Lauzi](https://open.spotify.com/artist/69lP1pS5aRVxgyvi0uOYbg) | [Le mie canzoni](https://open.spotify.com/album/5JJca3CzOPDWOamyhtH1At) | 3:44 |
 | 55 | [Lotus 72 D \- Fast Version](https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB) | [Zé Roberto](https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ) | [Lotus 72 D](https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai) | 3:00 |
 
-Snapshot ID: `MCw1ZmM0MzM5NTIxOWY1YjdiODkwY2JlZDc0YTY4NzI4Yzc4NDYxMjVi`
+Snapshot ID: `MCw5ZTljZDY1NmM0ODZiMmUxNzYyOGZlYWUyNTliYzU2NmZjNzc5ZmY3`

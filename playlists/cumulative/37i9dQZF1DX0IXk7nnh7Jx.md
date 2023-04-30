@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI?si=f757c25bb9da48e0">Madison Ryann Ward</a>
 
-328 songs - 20 hr 7 min
+329 songs - 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Ese](https://open.spotify.com/track/7lNo5JKa9o3Z7hFCnLoJWu) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Ese](https://open.spotify.com/album/4tRwplns0Oy4hQZsoVQWdR) | 2:37 | 2023-02-19 |  |
 | [Even On The Worst Days](https://open.spotify.com/track/1kAKjJ8T5MRqDbSe3N1Jk6) | [Mandi Mapes](https://open.spotify.com/artist/4VIZatfDlVCKdndcziajoA) | [Even On The Worst Days](https://open.spotify.com/album/2BqoIv37AtLX7wa8ia5dve) | 3:39 | 2023-02-19 | 2023-04-09 |
 | [everything and more \- live from exit/in](https://open.spotify.com/track/4MS6fEzhIR7UYg6DL6uvec) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [i can't find the edges of you \(deluxe\)](https://open.spotify.com/album/43h54fGs1dbImmbzWrd2dX) | 3:34 | 2023-04-21 |  |
+| [Everything Else But Rain \(with Lucius\)](https://open.spotify.com/track/2QLysJ0j8Nmm7z1HehA0pd) | [Until The Ribbon Breaks](https://open.spotify.com/artist/0PFM64sKw3GG4Sk8kqNIcp), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Everything Else But Rain \(with Lucius\)](https://open.spotify.com/album/5Qf4UnaFHgy1mgcjEtDy1S) | 3:16 | 2023-04-21 |  |
 | [Faith Fall \- vibey acoustic](https://open.spotify.com/track/26zlbmQ36DOA1yyi0sc9jz) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Faith Fall](https://open.spotify.com/album/1XGzyIA05w1nyRg2MK2qy9) | 3:49 | 2023-02-19 | 2023-04-09 |
 | [Faithful \- Demo](https://open.spotify.com/track/2QMADwyP22IyJIRkTKAAhO) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Faithful \(Demo\)](https://open.spotify.com/album/24oCcqn0qLS29STWZ9s7KJ) | 3:58 | 2023-02-19 | 2023-03-03 |
 | [Faithful \- Demo](https://open.spotify.com/track/3Jm671Xz80Mr3qlQmXJ9qR) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Throne Room](https://open.spotify.com/album/2buktwWoAIGQCPgDa11Cvt) | 3:58 | 2023-02-24 |  |
@@ -183,7 +184,7 @@
 | [Mountain Top](https://open.spotify.com/track/6C4UblYyeU2MG5Y97hEDue) | [Leslie Perez](https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs) | [Mountain Top](https://open.spotify.com/album/6AgyARYCCb59nbtKDbKyjw) | 3:53 | 2023-02-19 |  |
 | [Mr\. Blue Sky](https://open.spotify.com/track/2SaTjiE4luy9qUeC5Lgnkk) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Covers EP](https://open.spotify.com/album/4GXAgGRpLvP2BolXN9VzOS) | 2:44 | 2023-02-19 |  |
 | [My Deliverer](https://open.spotify.com/track/0oTqpffMAdIcVD2QInfrIO) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm), [Chichi Onyekanne](https://open.spotify.com/artist/50gFsE5NXUZTs9Ystdog7B) | [My Deliverer](https://open.spotify.com/album/3dBEsJbJjAytRaLnBWWOr9) | 5:24 | 2023-02-19 |  |
-| [My Heart Alone](https://open.spotify.com/track/62IMghHVMRqb8GsuVm5Hbc) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Alex Taylor](https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi) | [My Heart Alone](https://open.spotify.com/album/5TDg5nfshvPqFm6Ma7gfTB) | 3:21 | 2023-02-19 |  |
+| [My Heart Alone](https://open.spotify.com/track/62IMghHVMRqb8GsuVm5Hbc) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Alex Taylor](https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi) | [My Heart Alone](https://open.spotify.com/album/5TDg5nfshvPqFm6Ma7gfTB) | 3:21 | 2023-02-19 | 2023-04-30 |
 | [Mōhio](https://open.spotify.com/track/6ck8vtqwTOJtsdUK2emEvR) | [Rory Mckenna](https://open.spotify.com/artist/3nfMxP6LLKjO9D6BfSmg2c), [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI) | [Mōhio](https://open.spotify.com/album/4tSGbI8oOTj9W2LF25Ym3h) | 4:20 | 2023-02-19 |  |
 | [Names \- Acoustic](https://open.spotify.com/track/1yJ7WrQql0OIsXQflW0Zpv) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Names \(Acoustic\)](https://open.spotify.com/album/5jwzW7iNZgN9tNPLl7bof2) | 6:09 | 2023-02-24 | 2023-03-03 |
 | [Names \- Acoustic](https://open.spotify.com/track/2dnEcb10peK8kQeGa69Zvv) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Throne Room](https://open.spotify.com/album/2buktwWoAIGQCPgDa11Cvt) | 6:09 | 2023-02-24 |  |

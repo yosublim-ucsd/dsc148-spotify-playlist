@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 295866,
       "name": "Absolutego",
       "url": "https://open.spotify.com/track/1WuqBt17J3Kk8ngUOwK1rw"
@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 449946,
       "name": "Desert Cruiser",
       "url": "https://open.spotify.com/track/6dDdhX8byHKApki5TuOqjS"
@@ -1690,7 +1690,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 274400,
       "name": "Freya",
       "url": "https://open.spotify.com/track/5CocEvWeRX1VIMNAMwVdmk"
@@ -1816,7 +1816,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-23",
+      "date_removed": null,
       "duration_ms": 550665,
       "name": "Get What You Deserve",
       "url": "https://open.spotify.com/track/7yJLpY537kdnfqW1lAerP3"
@@ -3598,7 +3598,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 477920,
       "name": "Seer",
       "url": "https://open.spotify.com/track/7cShikd4rLNwAlHrHo0AFt"
@@ -3616,7 +3616,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 275066,
       "name": "Shifting Winds",
       "url": "https://open.spotify.com/track/2uSJ9sR3R3beiktlY8ZZtj"
@@ -3692,6 +3692,24 @@
       "duration_ms": 614293,
       "name": "Sleep Of The Black Lotus",
       "url": "https://open.spotify.com/track/1gwWcQf0CmJxQPc4AlOoEh"
+    },
+    {
+      "album": {
+        "name": "The Black Code",
+        "url": "https://open.spotify.com/album/19Azuz7Fwnr7mQ6jKqPYbd"
+      },
+      "artists": [
+        {
+          "name": "Wo Fat",
+          "url": "https://open.spotify.com/artist/5QUsinW1AjeDsT6tQdeTb0"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 614293,
+      "name": "Sleep Of The Black Lotus",
+      "url": "https://open.spotify.com/track/607UyLaRRinnZrtim7VWSK"
     },
     {
       "album": {
@@ -4624,7 +4642,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 249333,
       "name": "Tres Brujas",
       "url": "https://open.spotify.com/track/1HzJWsTAhZuMYdCc9PkkOw"

@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Tanya Tucker
 
-189 songs - 11 hr 0 min
+190 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Better Off](https://open.spotify.com/track/2Si7GvIT6drGqNGR4MNEVz) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Ain't That Kind of Cowboy](https://open.spotify.com/album/1e1kJ1OxfK3lHhqx9XFNE4) | 3:09 | 2022-07-22 |  |
 | [Better Off](https://open.spotify.com/track/4Xr858RhuY9r6OUH9ldPNK) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Better Off](https://open.spotify.com/album/3cG4lEWXpY3kBhWuuPh8W9) | 3:09 | 2021-10-15 | 2022-07-29 |
 | [Better Than Me](https://open.spotify.com/track/78GzKUvv47KVd9VT0UZv77) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Randy Owen](https://open.spotify.com/artist/7ApjMfT8P3bcePl99oKYFP) | [If It Wasn't For Trucks](https://open.spotify.com/album/6KwbEegYFIlCEhjaIIE3IH) | 3:51 | 2021-10-15 | 2022-09-21 |
-| [Beyond the Stars \(feat\. Willie Nelson\)](https://open.spotify.com/track/6u7ZlZMY0WtHHfTKv9Khdv) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Beyond the Stars \(feat\. Willie Nelson\)](https://open.spotify.com/album/3ha32uxw82uW6rFHzErQVE) | 3:20 | 2022-04-15 |  |
+| [Beyond the Stars \(feat\. Willie Nelson\)](https://open.spotify.com/track/4JPxoyLaRy4YAmqxkedSlB) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Kingmaker](https://open.spotify.com/album/5fuIzeNg4rYracgepUeZWa) | 3:20 | 2023-04-28 |  |
+| [Beyond the Stars \(feat\. Willie Nelson\)](https://open.spotify.com/track/6u7ZlZMY0WtHHfTKv9Khdv) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Beyond the Stars \(feat\. Willie Nelson\)](https://open.spotify.com/album/3ha32uxw82uW6rFHzErQVE) | 3:20 | 2022-04-15 | 2023-04-30 |
 | [Big Bertha \(feat\. Vince Gill\)](https://open.spotify.com/track/63zeH35ojREKtEyTZjisUW) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [A Better Word for Love](https://open.spotify.com/album/0t6BIT9pK7zzLtc4C0XdPM) | 3:04 | 2021-10-15 |  |
 | [Big Dreams and Faded Jeans](https://open.spotify.com/track/74oyvAPVoZvnEHDwZQgYnL) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Run, Rose, Run](https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG) | 4:07 | 2022-07-22 |  |
 | [Big Dreams and Faded Jeans](https://open.spotify.com/track/7GU9wHH2KHXfvHsRxMBH5T) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Big Dreams and Faded Jeans](https://open.spotify.com/album/3dTp47JrsjNtAZa6XReLlk) | 4:07 | 2022-02-11 | 2022-07-29 |

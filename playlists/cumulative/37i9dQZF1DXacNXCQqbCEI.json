@@ -96,7 +96,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-03",
+      "date_removed": null,
       "duration_ms": 162765,
       "name": "A Short Story of the Mahale Mountains",
       "url": "https://open.spotify.com/track/7ii2m9S4sHvuOIpHEx2ukF"
@@ -162,7 +162,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 144021,
       "name": "Agujeros Blancos",
       "url": "https://open.spotify.com/track/62fdnD6CHCJHQYwH2YOQw3"
@@ -468,7 +468,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 206895,
       "name": "Azul Oro",
       "url": "https://open.spotify.com/track/7fAxYPaTKRmQnxJMjg51xc"
@@ -526,7 +526,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 165593,
       "name": "Black Catbird",
       "url": "https://open.spotify.com/track/1CkGUqwaz1UfFSo2BmySGI"
@@ -710,7 +710,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 249518,
       "name": "Canario",
       "url": "https://open.spotify.com/track/12KVTzqgU558xqkpsywKex"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 222222,
       "name": "Chapinero",
       "url": "https://open.spotify.com/track/004JVePzMr05q3vP462QPa"
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 266213,
       "name": "El Makako",
       "url": "https://open.spotify.com/track/7EICRbByyRrSz1gaHHDnuP"
@@ -1498,7 +1498,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 196998,
       "name": "El Quemado",
       "url": "https://open.spotify.com/track/2N3LB0YlVpIqTloJPhO8I7"
@@ -1618,7 +1618,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 346280,
       "name": "Fuego de Cumbia / Dub de Sangre Pura - Dub Mix",
       "url": "https://open.spotify.com/track/4o5CcQ1vD1Ikr0yeEcb9s6"
@@ -1770,7 +1770,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 286000,
       "name": "Jardines",
       "url": "https://open.spotify.com/track/4ayZ9j0dnWDHAND8gndD6X"
@@ -1904,7 +1904,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 233739,
       "name": "Kalimba Nara",
       "url": "https://open.spotify.com/track/7rKkfnMEyHGxy1nPJcDf6f"
@@ -2018,7 +2018,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-12",
+      "date_removed": null,
       "duration_ms": 313240,
       "name": "La Cazadora",
       "url": "https://open.spotify.com/track/4QHLlJYsUWCoRkRaUFYIhP"
@@ -2076,7 +2076,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 300000,
       "name": "La Cumbia De La Ansiedad",
       "url": "https://open.spotify.com/track/3MQOP2mo0Mb2WQMI1NEjw7"
@@ -2336,7 +2336,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 221925,
       "name": "Mama Clo",
       "url": "https://open.spotify.com/track/2jUXoIl9hcfw9JQrOPRHEW"
@@ -2420,7 +2420,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 235418,
       "name": "Mano de Fatima",
       "url": "https://open.spotify.com/track/45bZeDQK1sPbSu8xgSvs8R"
@@ -2486,6 +2486,24 @@
       "duration_ms": 255360,
       "name": "Marimba Tamb\u00f3",
       "url": "https://open.spotify.com/track/2rNagq4lJvSat406m0mBGs"
+    },
+    {
+      "album": {
+        "name": "Marimba Tamb\u00f3",
+        "url": "https://open.spotify.com/album/1v7K6zvUatsiKwpZ98vyhB"
+      },
+      "artists": [
+        {
+          "name": "\u00c1cido Pantera",
+          "url": "https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255360,
+      "name": "Marimba Tamb\u00f3",
+      "url": "https://open.spotify.com/track/65mQmq2SnmYbo5GkQSupm9"
     },
     {
       "album": {
@@ -2592,7 +2610,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 240000,
       "name": "Ma\u00f1ana Tepotzlan",
       "url": "https://open.spotify.com/track/0uSBIec5LeDbZtyKjVzCLx"
@@ -2628,7 +2646,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 253626,
       "name": "Me Recordaras",
       "url": "https://open.spotify.com/track/4Epb3W6hvWcPUR7IGcnqEo"
@@ -2814,7 +2832,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 400826,
       "name": "Nevar",
       "url": "https://open.spotify.com/track/2EEkGybjOcVfAZfceU8HD3"
@@ -3052,7 +3070,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 332830,
       "name": "Paso Por El Fuego",
       "url": "https://open.spotify.com/track/3309nFqWGA4rnzfjqrQYzX"
@@ -3168,7 +3186,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 273846,
       "name": "Presagio",
       "url": "https://open.spotify.com/track/3Fstql1zF6ZsU1sOWBbfQK"
@@ -3350,7 +3368,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 206148,
       "name": "Quema",
       "url": "https://open.spotify.com/track/451jovfIdTRSHwdcRXfmDr"
@@ -3470,7 +3488,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 289502,
       "name": "Resiliencia",
       "url": "https://open.spotify.com/track/590gL4Fk4eHhLazuvVefLn"
@@ -3546,7 +3564,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 285990,
       "name": "Sakoneta",
       "url": "https://open.spotify.com/track/3rTdacXE78kylGPegwCc3B"
@@ -3630,7 +3648,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 283106,
       "name": "Salsa Caliente (Versi\u00f3n Aumentada)",
       "url": "https://open.spotify.com/track/3qMRDghhgm2V3be7a3yxnn"
@@ -3772,7 +3790,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-14",
+      "date_removed": null,
       "duration_ms": 305866,
       "name": "Sierra Madre (Remix)",
       "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"
@@ -3916,7 +3934,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 224333,
       "name": "Solo",
       "url": "https://open.spotify.com/track/2nHbYehgkMWR4fmqswEvD9"
@@ -4154,7 +4172,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 239417,
       "name": "Sueno en Paraguay - El B\u00faho Remix",
       "url": "https://open.spotify.com/track/59ERJnanE5T9s95cIMpQbx"
@@ -4220,7 +4238,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-21",
+      "date_removed": null,
       "duration_ms": 220725,
       "name": "Sutileza",
       "url": "https://open.spotify.com/track/4eALrRnySVDdjAlWHYjrOX"
@@ -4376,7 +4394,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 199000,
       "name": "The Corsican",
       "url": "https://open.spotify.com/track/6Tr3FORhPcNYvbvsyytnL8"
@@ -4583,6 +4601,24 @@
     },
     {
       "album": {
+        "name": "T\u00fa Me Llevas",
+        "url": "https://open.spotify.com/album/4JjieslqBeHEzoKD9259l0"
+      },
+      "artists": [
+        {
+          "name": "MO\u00dcGLI",
+          "url": "https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263650,
+      "name": "T\u00fa Me Llevas",
+      "url": "https://open.spotify.com/track/2aC2w4iVxpRjbUd9BDIa2y"
+    },
+    {
+      "album": {
         "name": "Ultravioleta Remixes",
         "url": "https://open.spotify.com/album/7ouXMhGcqxCHJzptPUZXhM"
       },
@@ -4638,10 +4674,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-18",
+      "date_removed": null,
       "duration_ms": 150588,
       "name": "Underwater Temples of Mahabalipuram",
       "url": "https://open.spotify.com/track/3qebe3F4sfNJLxbUBlMJnQ"
+    },
+    {
+      "album": {
+        "name": "Ghetto Kumb\u00e9",
+        "url": "https://open.spotify.com/album/0eqlUfZMwPxebIrelMJZVe"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Kumb\u00e9",
+          "url": "https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228244,
+      "name": "Vamo a Dale Duro",
+      "url": "https://open.spotify.com/track/0wSrYFuJBd6u8shdlBf4yj"
     },
     {
       "album": {
@@ -4674,7 +4728,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-25",
+      "date_removed": null,
       "duration_ms": 129000,
       "name": "Vayay\u00f3",
       "url": "https://open.spotify.com/track/4YEeQ4gYDBTZbyBDFbtZYS"

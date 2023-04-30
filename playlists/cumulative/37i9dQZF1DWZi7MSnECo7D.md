@@ -4,7 +4,7 @@
 
 > Novidades e destaques do indie nacional\. Foto: ÀIYÉ
 
-379 songs - 21 hr 34 min
+382 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [cidade](https://open.spotify.com/track/2QZd6iEwoXjke3PIxeVsYJ) | [natália carreira](https://open.spotify.com/artist/3FVQisK6sYtE79tU2ghYeX) | [mar calmo \(nunca fez bom marinheiro\)](https://open.spotify.com/album/3OuNpJ2TNTbA03Z4Btmylw) | 3:19 | 2022-01-14 | 2022-07-16 |
 | [Coisas da Vida](https://open.spotify.com/track/74YDFvn8exKF2sbrFJMoek) | [Sergiopí](https://open.spotify.com/artist/1AJbMS0MpfiNzTu0Kf4fOF) | [Praeteritum](https://open.spotify.com/album/4P2MUjqeLMgIeMLDDByLUO) | 3:24 | 2022-01-21 | 2022-07-09 |
 | [Coisas tão Fúteis](https://open.spotify.com/track/7inLLMuDulXTso9JK5snNC) | [Naka mrl](https://open.spotify.com/artist/1FIxVemJI8prZLU2bo4Crk), [Lia](https://open.spotify.com/artist/03sopzsMsDAuj5U0hSFvS3), [Sadzone](https://open.spotify.com/artist/0nvS15lDq1di8JKroZN4jV) | [Coisas tão Fúteis](https://open.spotify.com/album/0rMR5dho37iLGGWrYiWUlL) | 2:34 | 2022-01-14 | 2022-04-09 |
-| [Colors](https://open.spotify.com/track/62gHq2qIQIPNpaPshaE9bs) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/6KVigOS9Me4Hu3o9hEh9M0) | 3:39 | 2023-04-28 |  |
+| [Colors](https://open.spotify.com/track/0g9bYRhb9oDuAmxyt0MoBZ) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/20EcuWdIk2tTveltWZm1Pc) | 3:39 | 2023-04-28 |  |
+| [Colors](https://open.spotify.com/track/62gHq2qIQIPNpaPshaE9bs) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/6KVigOS9Me4Hu3o9hEh9M0) | 3:39 | 2023-04-28 | 2023-04-30 |
 | [Colors](https://open.spotify.com/track/7o8znc6DQLM2HVm0X0aEck) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Colors](https://open.spotify.com/album/1n6hMhTl4PqPn5tTfQGQ86) | 3:39 | 2023-01-20 | 2023-04-29 |
 | [Como Vai Você?](https://open.spotify.com/track/0jZGKkbAt7bTKEdmUkH0o6) | [Gabriel Campos](https://open.spotify.com/artist/3jBbW1WUmpJF8lwJm3rQxb) | [Como Vai Você?](https://open.spotify.com/album/57I1bIi2uAeUylTILpAJkJ) | 3:28 | 2023-02-03 | 2023-03-03 |
 | [Convenções Humanas](https://open.spotify.com/track/08MJeBwFr7XF74jSHVTrZv) | [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl), [PLUMA](https://open.spotify.com/artist/0eRkKHD8YCd9tkSiabTMqb) | [Convenções Humanas](https://open.spotify.com/album/64dFOgBTk4vXAJbkb9O6gu) | 4:18 | 2022-02-25 |  |
@@ -268,7 +269,8 @@
 | [Por um Fio](https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4) | [Sulamericana](https://open.spotify.com/artist/2FTphbeJlzLPNdfsOU7rRJ) | [Por um Fio](https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd) | 3:09 | 2022-09-02 | 2022-10-15 |
 | [Pra Curar](https://open.spotify.com/track/1DIBq09mcWCWuXc0TIqoOx) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Fragmentos 2](https://open.spotify.com/album/7tsqDAZfHq81EE3i81EOXG) | 3:06 | 2022-01-28 | 2022-06-18 |
 | [pra perto de mim](https://open.spotify.com/track/0qEEoCPxNgQjXtwQB4AeNe) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [tres](https://open.spotify.com/album/7LGefeRWzqVdHgdDC4GgGh) | 3:12 | 2022-09-02 | 2022-10-29 |
-| [Pra Trás](https://open.spotify.com/track/5Ke6ddTLTyu9GgzwcW8lD9) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/6KVigOS9Me4Hu3o9hEh9M0) | 3:11 | 2023-03-03 |  |
+| [Pra Trás](https://open.spotify.com/track/5Ke6ddTLTyu9GgzwcW8lD9) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/6KVigOS9Me4Hu3o9hEh9M0) | 3:11 | 2023-03-03 | 2023-04-30 |
+| [Pra Trás](https://open.spotify.com/track/6YMBLfjQilTvqdWpeUbySG) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/20EcuWdIk2tTveltWZm1Pc) | 3:11 | 2023-04-28 |  |
 | [Pra Trás](https://open.spotify.com/track/7cANXE6LzQAXobgvIjMNVN) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Pra Trás](https://open.spotify.com/album/4RTToZRDYATXkCt0URRxJQ) | 3:11 | 2023-02-13 | 2023-03-06 |
 | [PRAZER](https://open.spotify.com/track/4yn9IyH77LOTESnOIq43WU) | [Viratempo](https://open.spotify.com/artist/4UAqPe3DNOIDTa8bEGWPwL) | [PRAZER](https://open.spotify.com/album/6F1skja7UE5VvAC1DQQgll) | 3:48 | 2022-06-03 | 2022-06-25 |
 | [Primeira Pessoa](https://open.spotify.com/track/0a3M6e6nChwzrex3W6H4EU) | [Titcho Looper](https://open.spotify.com/artist/37pi9jWX60WC51BeByvvcJ), [Rodrigo Samsara](https://open.spotify.com/artist/16mPOeAPUyjIP11rtquMRC) | [Primeira Pessoa](https://open.spotify.com/album/3oAyKdq4UMS094SH61ky5V) | 3:36 | 2022-01-14 | 2022-03-18 |
@@ -328,7 +330,8 @@
 | [Séries](https://open.spotify.com/track/1kzQwfTgAVLs1LVRNXXQQ5) | [Porfírio](https://open.spotify.com/artist/2qYaT54xotxq8bRuytCzWz) | [Existem Coisas Que Não Podem Esperar](https://open.spotify.com/album/5nqodwTgN5uf7U5ysArl5J) | 3:02 | 2022-03-25 | 2022-05-14 |
 | [Só](https://open.spotify.com/track/0b80V1R6f0RM80kdbVnnv4) | [Nevilton](https://open.spotify.com/artist/070r60ijuqN9KisFCwV6uM) | [Só](https://open.spotify.com/album/5AuoJdycZF6eb4pxTDnb13) | 3:48 | 2022-01-14 | 2022-06-04 |
 | [Talvez o Problema Seja Eu](https://open.spotify.com/track/5TsG8Dd14xcMcQ8Ze3U0t9) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [Talvez o Problema Seja Eu](https://open.spotify.com/album/4Wx7IxNpv0caspljzbFMKL) | 2:35 | 2022-10-07 | 2023-01-14 |
-| [Tanto](https://open.spotify.com/track/6rkq6lwz7w2RK3qAFyJcZ7) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/5sIl6a1G8ivm7ht7mFDYP6) | 3:33 | 2022-09-23 |  |
+| [Tanto](https://open.spotify.com/track/1uoOXeZ1KGdtYshGvLhIOF) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/20EcuWdIk2tTveltWZm1Pc) | 3:33 | 2023-04-28 |  |
+| [Tanto](https://open.spotify.com/track/6rkq6lwz7w2RK3qAFyJcZ7) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/5sIl6a1G8ivm7ht7mFDYP6) | 3:33 | 2022-09-23 | 2023-04-30 |
 | [Tempo Presente](https://open.spotify.com/track/6EcOfscBzI1HIEHTp25ysT) | [Glue Trip](https://open.spotify.com/artist/6b13SQkJSBYJxUoG8TaDcY) | [Tempo Presente](https://open.spotify.com/album/4Mp6pCuxYF9myM7r182ZMi) | 3:44 | 2022-05-20 | 2022-06-04 |
 | [Tempos Sombrios](https://open.spotify.com/track/2hdqKJGZ8k3FZaAKnxgXHi) | [Fernando Catatau](https://open.spotify.com/artist/38HnWuclWrz2BLt7Wek7Aj), [Uirá dos Reis](https://open.spotify.com/artist/5L1UfYjJzi1H5bXjSpDrhv) | [Fernando Catatau](https://open.spotify.com/album/1pP6XoftJqib7n3rgJFFIi) | 4:20 | 2022-02-04 | 2022-04-23 |
 | [Teoría del Cuerpo Enamorado](https://open.spotify.com/track/7gWgcXWm8nQC8FsBiQiJIM) | [Atalhos](https://open.spotify.com/artist/7FSn06H3NaT54hcxAY5rQ9), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Teoría del Cuerpo Enamorado](https://open.spotify.com/album/3bLd5ak4vQm8TWleuhVX4j) | 5:53 | 2022-01-21 | 2022-11-25 |

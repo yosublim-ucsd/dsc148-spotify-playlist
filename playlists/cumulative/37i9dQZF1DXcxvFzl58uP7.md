@@ -4,7 +4,7 @@
 
 > Dreamy jams from the best bedroom producers\. Cover: Joji
 
-836 songs - 1 day 19 hr 31 min
+837 songs - 1 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,7 @@
 | [Get With U](https://open.spotify.com/track/4JHCLFKkuvNMb67DYuAjUU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Get With U](https://open.spotify.com/album/5y7QSRmltWRcrT6AnAtitI) | 1:58 | 2019-08-02 | 2019-08-10 |
 | [Get Yours](https://open.spotify.com/track/3xO8X51LY6b3CTFStI29si) | [Sweet and Lonely](https://open.spotify.com/artist/5WjjLD84eEmClbj9BqvxdS) | [Get Yours](https://open.spotify.com/album/3CiCcAzLIAYJ43Navv980P) | 2:20 | 2022-04-29 | 2022-06-30 |
 | [Getting It On](https://open.spotify.com/track/2HFLh8qlNfW4EPpHVHz7Ej) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES \- EP](https://open.spotify.com/album/36EvrQUkP9yDwRYP8uRr3R) | 3:00 | 2019-07-30\* | 2021-05-22 |
-| [Ghost World](https://open.spotify.com/track/4dwxdOkBE8OBXD9E6EruGv) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [5K](https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8) | 3:21 | 2023-04-17 |  |
+| [Ghost World](https://open.spotify.com/track/4dwxdOkBE8OBXD9E6EruGv) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [5K](https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8) | 3:21 | 2023-04-17 | 2023-04-30 |
 | [Girl](https://open.spotify.com/track/3FBiFFEq2JCAVPFAbFeBMz) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Catflap](https://open.spotify.com/album/5BdtL5nKzSEgRrdXqOFTqa) | 2:25 | 2019-07-30\* | 2019-12-01 |
 | [girls](https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [girls](https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173) | 3:18 | 2022-09-14 | 2022-12-15 |
 | [girls](https://open.spotify.com/track/1kqc6U8hVYZhY0gFGQclCz) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [girls](https://open.spotify.com/album/1wpUjnWuF4mhepCeZbA4Je) | 3:18 | 2021-02-27 | 2022-10-13 |
@@ -583,7 +583,7 @@
 | [Punching Bag](https://open.spotify.com/track/09tYMZ38sfZRZmrN0basVJ) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Punching Bag](https://open.spotify.com/album/0g9uNPKwDPldwNl9ZudsBm) | 2:33 | 2022-09-14 |  |
 | [Punching Bag](https://open.spotify.com/track/5yi3oFTGTVGcM9LORYom7y) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Punching Bag](https://open.spotify.com/album/5jOC8xCQy3vr0j9lMTzHtc) | 2:33 | 2021-01-15 | 2022-07-29 |
 | [Punching Bag](https://open.spotify.com/track/68LD7fYCVnACJtnLKHd3Q9) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Punching Bag](https://open.spotify.com/album/5btTgXXIZWCd7oAnToE1pl) | 2:33 | 2021-02-27 | 2022-10-19 |
-| [Puppy Dog](https://open.spotify.com/track/13O36COxxWjcvc9r5Zsd1P) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Puppy Dog](https://open.spotify.com/album/76gFoEHYVhnXoVIbEOCgAo) | 3:30 | 2019-12-14 | 2023-04-26 |
+| [Puppy Dog](https://open.spotify.com/track/13O36COxxWjcvc9r5Zsd1P) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Puppy Dog](https://open.spotify.com/album/76gFoEHYVhnXoVIbEOCgAo) | 3:30 | 2019-12-14 |  |
 | [Purple Haze](https://open.spotify.com/track/6CD5sIa3Li1gUvlfIL8ew3) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Purple Haze](https://open.spotify.com/album/1eQdAPkg20LXtt71zE97Pj) | 3:18 | 2020-08-11 | 2021-08-28 |
 | [Questions](https://open.spotify.com/track/2DDakV5xNzIBA1BsL40bPS) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Questions](https://open.spotify.com/album/2tt1rj0WeBQVQhv3Rplg2f) | 3:40 | 2021-07-19 | 2022-07-29 |
 | [Radio](https://open.spotify.com/track/3PIY13DaeOoaRpJK32NxLg) | [Oscar Welsh](https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST) | [Radio](https://open.spotify.com/album/4uQWh3KmwaiYyj8Zkyh9bS) | 3:02 | 2021-07-19 | 2022-07-28 |
@@ -599,6 +599,7 @@
 | [roll the dice](https://open.spotify.com/track/2TX7IPBBgfq4zL4TSZTp0D) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [roll the dice](https://open.spotify.com/album/54S0bDLXUsFIzxBssBkrul) | 2:14 | 2021-03-26 | 2022-04-21 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-12-14 | 2023-04-18 |
 | [Romantic Lover](https://open.spotify.com/track/44pBlSEASFjEdU3qEHhbFs) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Let's Skip to the Wedding](https://open.spotify.com/album/02U2T90QXPo4XaFUvYURaf) | 1:26 | 2021-05-12 | 2022-04-08 |
+| [rugburn](https://open.spotify.com/track/0SzeLGLcyhzqoOANw7dRWu) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [rugburn](https://open.spotify.com/album/63bgr5IeQqGJlZBlYpgcsW) | 2:19 | 2023-04-17 |  |
 | [Runnin'](https://open.spotify.com/track/5fHKmuV7ynN0l0stAcihSU) | [The Bops](https://open.spotify.com/artist/1fyRvkJhv7HM7M481LqsYX) | [WideSteppin](https://open.spotify.com/album/6J7Dz8p9tgza1x0zBbxqmL) | 2:55 | 2021-04-30 | 2021-06-09 |
 | [Running](https://open.spotify.com/track/3Dtr5e9OQGML2f48A6mw9P) | [Nicotine's Famous Honey](https://open.spotify.com/artist/111M3zZe92O4PHvKBl8nCT), [Nicotine](https://open.spotify.com/artist/0tpIaEojsimd2hK4Y3nZIX) | [An Open Letter](https://open.spotify.com/album/2o2FwH5tC3U3KmcyrqqCI4) | 4:07 | 2019-07-31 | 2021-05-27 |
 | [Running](https://open.spotify.com/track/4pbZ4wFXjGa92CsOlrscDL) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Running](https://open.spotify.com/album/5PYHrR4SV1E7ZwTmhyQGw3) | 2:38 | 2020-05-17 | 2022-04-20 |
@@ -790,7 +791,7 @@
 | [Walking On Ice](https://open.spotify.com/track/3J5kPuCRbVP3VSg8xGLgF3) | [Besphrenz](https://open.spotify.com/artist/0VVJ5bIx1zXlBLi1GiP4yX) | [Walking On Ice](https://open.spotify.com/album/7stKbcyfJNWJDBbCLzkrMa) | 2:59 | 2019-07-30\* | 2020-04-23 |
 | [Wallows Song](https://open.spotify.com/track/0wF1q8GMtzNN5DKF5p5AB4) | [Mickey Darling](https://open.spotify.com/artist/3uwUtL5kPSO2mpOhU4SiWz) | [Wallows Song](https://open.spotify.com/album/1Se5sNiKpXTBzGzd9gPEA3) | 3:55 | 2021-08-27 | 2022-07-28 |
 | [WALLS](https://open.spotify.com/track/5DGpdTunAf0nOvrWCqlYXu) | [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [WALLS](https://open.spotify.com/album/7wAOkvucdEObwJsRDtiUhP) | 3:58 | 2022-03-04 | 2022-07-28 |
-| [Waltzing Back](https://open.spotify.com/track/3Q1DprZauQyNo8KGlY8brZ) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Waltzing Back](https://open.spotify.com/album/5yHn5NJqFHuRscn44o9POq) | 3:12 | 2021-07-19 |  |
+| [Waltzing Back](https://open.spotify.com/track/3Q1DprZauQyNo8KGlY8brZ) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Waltzing Back](https://open.spotify.com/album/5yHn5NJqFHuRscn44o9POq) | 3:12 | 2021-07-19 | 2023-04-30 |
 | [wannabe](https://open.spotify.com/track/7whNjHW4GYKsVoKA8bhqcI) | [Sam Woods](https://open.spotify.com/artist/0mJP3OOM9MbqWmuEjgabcV) | [wannabe](https://open.spotify.com/album/3cHbsTCeASD7hjX9cYvEtK) | 2:48 | 2019-07-30\* | 2021-05-28 |
 | [Want Me](https://open.spotify.com/track/65N9abRNej5yT3nuE2jEcE) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Want Me](https://open.spotify.com/album/0QD3X9cmipQlZEtmaqB2vH) | 4:26 | 2019-07-30\* | 2021-05-19 |
 | [Warned You](https://open.spotify.com/track/67LKZcv1J2Yj4pk5UIuFQW) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Shawcross](https://open.spotify.com/album/5CsiKKVYjYSu7yQqqxW5Wi) | 2:13 | 2019-07-30\* | 2022-07-19 |

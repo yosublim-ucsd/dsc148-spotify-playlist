@@ -4,7 +4,7 @@
 
 > The official playlist for Valeria\. Watch on Netflix.
 
-76 songs - 4 hr 26 min
+77 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Hoy Será un Día Horrible](https://open.spotify.com/track/3NcqwXzu1snEHTz8eoku8l) | [Confeti de Odio](https://open.spotify.com/artist/3C1CPJ9K2aeHuj1x22B0qJ) | [Hoy Será un Día Horrible](https://open.spotify.com/album/01cmhT22xDPE0BPE5plNys) | 2:42 | 2022-06-29 |  |
 | [I Do I Do](https://open.spotify.com/track/6ttaiNcKsrrFXWjKTPRDfy) | [Heatwaves](https://open.spotify.com/artist/0dWp1AZPe1hwnjlfQu16HO) | [Heatwaves / Freddie Dilevi](https://open.spotify.com/album/2GXGL4IaIrGHlU7vaZaxtk) | 2:33 | 2022-06-29 |  |
 | [Insomnia](https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Insomnia](https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa) | 2:59 | 2022-06-29 |  |
-| [July Flame](https://open.spotify.com/track/1CCUpPjfGDN2gqzCW2PhsE) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [July Flame](https://open.spotify.com/album/6CK1sGl8azq8mtM3kYkW9g) | 3:45 | 2022-06-29 |  |
+| [July Flame](https://open.spotify.com/track/1CCUpPjfGDN2gqzCW2PhsE) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [July Flame](https://open.spotify.com/album/6CK1sGl8azq8mtM3kYkW9g) | 3:45 | 2022-06-29 | 2023-04-30 |
+| [July Flame](https://open.spotify.com/track/3vz3lJyDCmhC2JO9gg8nFw) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [July Flame](https://open.spotify.com/album/5EvT3Lv3HLUluHhktffp3d) | 3:45 | 2022-06-29 |  |
 | [LA Calling](https://open.spotify.com/track/3Xh70BsJYf9nHnc0FtN07i) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Cave Rave](https://open.spotify.com/album/68K5LJ1pOR3KcuVP8hw3RP) | 3:49 | 2022-06-29 |  |
 | [La regadera](https://open.spotify.com/track/2R4Q617mFUeys5CJBxkRDs) | [Olga Ramos](https://open.spotify.com/artist/5Lnr8vNzOQGwXMe0tgN8Ea) | [Olga Ramos](https://open.spotify.com/album/1NNyJ4gS32g80CgwzWvcs6) | 4:04 | 2022-06-29 |  |
 | [Lento](https://open.spotify.com/track/1KHjNgEWBGKPH3EJx6iJNq) | [Novedades Carminha](https://open.spotify.com/artist/52la6ts4higk3sqyFC3aTg) | [Campeones del Mundo](https://open.spotify.com/album/1cgKgdUd1nPoejCEFUNT7A) | 2:57 | 2022-06-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 
 > dark & dreamy for night creatures
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,383 likes - 89 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,655 likes - 89 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 | 84 | [Tag](https://open.spotify.com/track/0LrVtzdvd2ojEuFMUURlA1) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [Tag](https://open.spotify.com/album/66ULdjZjnE8Dbq6XBLzPt0) | 3:10 |
 | 85 | [nov 13 \(do you believe in love\)](https://open.spotify.com/track/0ntRu9zALw81RsJ1gL8VqQ) | [Flatsound](https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3) | [when you run away, do you close your eyes](https://open.spotify.com/album/2KBkwYcHVmeEN5PdGbBsFU) | 2:35 |
 | 86 | [Prism of Feeling](https://open.spotify.com/track/4skeJN6yWo5wSRgPjRNFUp) | [Soft Blue Shimmer](https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx) | [Prism of Feeling](https://open.spotify.com/album/50C6PlqgTU8iZpbzowiCCc) | 4:45 |
-| 87 | [Promise](https://open.spotify.com/track/0ZAtjrHxLKio4iq3X1uz2M) | [Knifeplay](https://open.spotify.com/artist/7oT0M95uIX2aJGN4we092i) | [Promise](https://open.spotify.com/album/5Rz73oELdSL11MPc8Q5sqD) | 4:47 |
+| 87 | [Promise](https://open.spotify.com/track/1PzGeaFYnvJ5rpxMP1SI14) | [Knifeplay](https://open.spotify.com/artist/7oT0M95uIX2aJGN4we092i) | [Animal Drowning](https://open.spotify.com/album/0lDomDaYOMqJ0Q7ckauowS) | 4:47 |
 | 88 | [When I'm Small](https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Eyelid Movies](https://open.spotify.com/album/6smJTxDxrnxi6fPfFWYSQV) | 4:09 |
 | 89 | [Insomniac](https://open.spotify.com/track/2klj0StczYde6WUHBJo5F6) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek), [Chakra Efendi](https://open.spotify.com/artist/3pFSlKAoVnaEycgIcPDctw) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/0a0ftVkZr4K1QoOXcZF0V1) | 3:32 |
 
-Snapshot ID: `MCw1OWM0MDNiNGQ3NDRhMzJmZGEwZmRlNzAzYjhjNDVkNGI3ZjZlNTUw`
+Snapshot ID: `MCxmOWU4MGU2MTcxNjQ2OTNmYzgxYTgwMjE3NDQ3Mzk4YTYyMzI5MGNk`

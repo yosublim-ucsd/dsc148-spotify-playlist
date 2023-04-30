@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > Inspired by African drums\. Cover: Rema 🇳🇬
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,828 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,958 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 92 | [Problème](https://open.spotify.com/track/1IKD320Lvoj3TgAUnCVE28) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Ronisia \(Version Deluxe\)](https://open.spotify.com/album/6n3BM7djoly8rX6AG9dnFW) | 2:33 |
 | 93 | [Clockwork \(feat\. Spice\)](https://open.spotify.com/track/4GgvXbDt6qKWCSI8Fw2cVs) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Clockwork \(feat\. Spice\)](https://open.spotify.com/album/3FyXlLA79Yv7cNJgMQDGM8) | 2:32 |
 | 94 | [Live Some Life \(feat\. DING DONG\)](https://open.spotify.com/track/35MNHqBGewFxlJZtjHOxvj) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Live Some Life \(feat\. DING DONG\)](https://open.spotify.com/album/3SwPKWhYOkIGL3AF0CC6sY) | 3:05 |
-| 95 | [TRUCK RIDDIM \(feat\. BEAM\)](https://open.spotify.com/track/7kaNSzp7gVRFoxEmE42IU9) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [TRUCK RIDDIM \(feat\. BEAM\)](https://open.spotify.com/album/7pMzHtdqbu6HGHp30GNp54) | 2:08 |
+| 95 | [TRUCK RIDDIM \(feat\. BEAM\)](https://open.spotify.com/track/2zZGKXkFM2kCRrGULFK0gY) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [TRUCK RIDDIM \(feat\. BEAM\)](https://open.spotify.com/album/10QeKpvQ9IHAoP3eLhM2mb) | 2:08 |
 | 96 | [Handle Me \(feat\. Adekunle Gold\)](https://open.spotify.com/track/4dLfcjzMHZAVgnmuglRvhY) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Handle Me \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3Cd3jHPeIl4euaDfPIccK4) | 2:47 |
 | 97 | [Bubble It](https://open.spotify.com/track/175UQjCdeBnpQe5O0LeWGG) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Bubble It](https://open.spotify.com/album/6Fz02VzDbrRtfDpyTwKq45) | 2:52 |
 | 98 | [Bandana](https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bandana](https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke) | 2:58 |
 | 99 | [Sweet Bounce](https://open.spotify.com/track/4eJzT99FOUzZRv0fR64cLo) | [DJ Frass](https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Sweet Bounce](https://open.spotify.com/album/6Ti15rCfRJRImhJzMkDqq3) | 1:36 |
 | 100 | [Sans effet](https://open.spotify.com/track/30RBuEKVJ2UXimaPtwAEIa) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/1uPEctEKBVjCRO5iGsya3b) | 2:40 |
 
-Snapshot ID: `MCw1Nzc1ZGQ0ODcxMTMwMmFiZmU3MTA4NjE0ZmFhN2IwOWI0ZjgyZTk2`
+Snapshot ID: `MCw0NzI4OTcxNmIwZDdjNmJmMmEyMDI3NzE2ZjU1MWMzMzVkZmUwNTMw`

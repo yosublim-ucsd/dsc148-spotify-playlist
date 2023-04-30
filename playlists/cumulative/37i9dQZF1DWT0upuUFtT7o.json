@@ -6304,7 +6304,7 @@
     {
       "album": {
         "name": "Done With the Day",
-        "url": "https://open.spotify.com/album/0L1TKfZ2ARx1Izb7aeKa7Q"
+        "url": "https://open.spotify.com/album/4DPT9VjE6Rrli1IeVDEEG6"
       },
       "artists": [
         {
@@ -6315,6 +6315,24 @@
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 210875,
+      "name": "Done With the Day",
+      "url": "https://open.spotify.com/track/39pdupp7fN6IP4wyjjesBy"
+    },
+    {
+      "album": {
+        "name": "Done With the Day",
+        "url": "https://open.spotify.com/album/0L1TKfZ2ARx1Izb7aeKa7Q"
+      },
+      "artists": [
+        {
+          "name": "7ebra",
+          "url": "https://open.spotify.com/artist/425zLTPcp673F9ybc3Zcja"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 210875,
       "name": "Done With the Day",
       "url": "https://open.spotify.com/track/46YuNuyJLXXSxA7kWDe5ns"
@@ -23732,7 +23750,7 @@
     {
       "album": {
         "name": "True Love is Freedom",
-        "url": "https://open.spotify.com/album/7qDv226QcAOMybIpzNequM"
+        "url": "https://open.spotify.com/album/0lqjcEcxb2swqcQfRx0OAU"
       },
       "artists": [
         {
@@ -23743,6 +23761,24 @@
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 107658,
+      "name": "True Love is Freedom",
+      "url": "https://open.spotify.com/track/03gQD1vSbHbBmfSvpaA9C4"
+    },
+    {
+      "album": {
+        "name": "True Love is Freedom",
+        "url": "https://open.spotify.com/album/7qDv226QcAOMybIpzNequM"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Whispers",
+          "url": "https://open.spotify.com/artist/0fhv5pwSh099mHYF9b3Cpn"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 107658,
       "name": "True Love is Freedom",
       "url": "https://open.spotify.com/track/1uE7iaPkG6UOWGetsxD5zX"

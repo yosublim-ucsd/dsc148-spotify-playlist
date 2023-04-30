@@ -348,6 +348,24 @@
     {
       "album": {
         "name": "Memory Device",
+        "url": "https://open.spotify.com/album/6ahDe3JvaSf0ztWjc5rT5E"
+      },
+      "artists": [
+        {
+          "name": "Baba Ali",
+          "url": "https://open.spotify.com/artist/48US3n5ecZ1TS4RjzsdWrm"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307680,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/2fbWhSnQsDn5Xd1yNg2aDy"
+    },
+    {
+      "album": {
+        "name": "Memory Device",
         "url": "https://open.spotify.com/album/5BniwoarFJxQBNbfUglezI"
       },
       "artists": [
@@ -358,7 +376,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 307680,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/2mxORKTmKsYB2cRvEaX4go"
@@ -888,7 +906,7 @@
     {
       "album": {
         "name": "Less",
-        "url": "https://open.spotify.com/album/6sD0awzvOB5aKTliTTQogU"
+        "url": "https://open.spotify.com/album/7H0jxA1HMTBK1IbvqJEPuk"
       },
       "artists": [
         {
@@ -899,6 +917,24 @@
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 219133,
+      "name": "Duffy's",
+      "url": "https://open.spotify.com/track/4lcamfRMk5t5fC2OQ3QfXZ"
+    },
+    {
+      "album": {
+        "name": "Less",
+        "url": "https://open.spotify.com/album/6sD0awzvOB5aKTliTTQogU"
+      },
+      "artists": [
+        {
+          "name": "deathcrash",
+          "url": "https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 219133,
       "name": "Duffy's",
       "url": "https://open.spotify.com/track/74kjh8PAcrv7ZVaueHpgTf"
@@ -3158,10 +3194,28 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 209922,
       "name": "Sure",
       "url": "https://open.spotify.com/track/2UQspiLx0lmEurmYh3kgyp"
+    },
+    {
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/4GD61YplOsyg4GV7tPH2KF"
+      },
+      "artists": [
+        {
+          "name": "Bnny",
+          "url": "https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209922,
+      "name": "Sure",
+      "url": "https://open.spotify.com/track/2rzXyaf7zyauiww5E6wvPt"
     },
     {
       "album": {
@@ -3530,6 +3584,24 @@
     {
       "album": {
         "name": "The Wetlands",
+        "url": "https://open.spotify.com/album/1f9aZDpwbuGpridBmTHi8h"
+      },
+      "artists": [
+        {
+          "name": "Aoife Wolf",
+          "url": "https://open.spotify.com/artist/0UjP3boKokgDROjh9HzfYg"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "The Wetlands",
+      "url": "https://open.spotify.com/track/4bA08mTRGaTbyAdZedkgaX"
+    },
+    {
+      "album": {
+        "name": "The Wetlands",
         "url": "https://open.spotify.com/album/2jWDh6LjGtIVyzCqqzGkVU"
       },
       "artists": [
@@ -3540,7 +3612,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 237000,
       "name": "The Wetlands",
       "url": "https://open.spotify.com/track/6CrTOj2Oa2Vgh6YnKZddIZ"

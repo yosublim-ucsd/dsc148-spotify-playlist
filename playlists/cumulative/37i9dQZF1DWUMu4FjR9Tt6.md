@@ -4,7 +4,7 @@
 
 > Check out the official playlist from Umbrella Academy\. Watch now on Netflix.
 
-111 songs - 7 hr 4 min
+112 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Into My Soul](https://open.spotify.com/track/6y0UQTlXOOSHnocto9B1J9) | [Gabin](https://open.spotify.com/artist/1SYoQVIV4djFVGt0En7qsQ), [Dee Dee Bridgewater](https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI) | [The First Ten Years](https://open.spotify.com/album/41BJuhhMf3Bjj3ojgxaCaR) | 4:35 | 2022-06-22 | 2022-11-13 |
 | [Istanbul \(Not Constantinople\)](https://open.spotify.com/track/63vL5oxWrlvaJ0ayNaQnbX) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Flood](https://open.spotify.com/album/7FwAtuhhWivxvK4aPgyyUD) | 2:33 | 2022-06-17 |  |
 | [Kill Of The Night](https://open.spotify.com/track/2m17BTWlZq0wtS9cpJsCfM) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Gravel & Wine](https://open.spotify.com/album/2HtT4gawEGgOvAPUO7tiU2) | 3:25 | 2022-06-17 |  |
-| [Let's Be Badder](https://open.spotify.com/track/0hCMEyev24LH0FVUzpwvTa) | [Lucern Raze](https://open.spotify.com/artist/7dI3P00ZhNevHfPf1zYkKn), [Cherry Pickles](https://open.spotify.com/artist/3dIfGgzwaWbsCHA0OhE2mK) | [INTERNATIONAL BREAKDOWN](https://open.spotify.com/album/5bOvLgGiCnEv9hFfqFhE6l) | 2:59 | 2022-06-22 |  |
+| [Let's Be Badder](https://open.spotify.com/track/0hCMEyev24LH0FVUzpwvTa) | [Lucern Raze](https://open.spotify.com/artist/7dI3P00ZhNevHfPf1zYkKn), [Cherry Pickles](https://open.spotify.com/artist/3dIfGgzwaWbsCHA0OhE2mK) | [INTERNATIONAL BREAKDOWN](https://open.spotify.com/album/5bOvLgGiCnEv9hFfqFhE6l) | 2:59 | 2022-06-22 | 2023-04-30 |
+| [Let's Be Badder](https://open.spotify.com/track/6not6UsSods0rxJOo0mv3X) | [Lucern Raze](https://open.spotify.com/artist/7dI3P00ZhNevHfPf1zYkKn), [Cherry Pickles](https://open.spotify.com/artist/3dIfGgzwaWbsCHA0OhE2mK) | [INTERNATIONAL BREAKDOWN](https://open.spotify.com/album/1gAjcCci3J8qovfV2YLF4D) | 2:59 | 2022-06-22 |  |
 | [Let's Go on a Hayride](https://open.spotify.com/track/14W2QsXsLJluN8kbjUncyw) | [The McSharry Sisters](https://open.spotify.com/artist/2NHVJSv1x9LHgAa3SFoEfo) | [Let's Go on a Hayride](https://open.spotify.com/album/6QeXPU6ZEBGc9Ou0dE99r8) | 2:45 | 2022-06-22 |  |
 | [Love Is Blue](https://open.spotify.com/track/1X3QZcv5bSyuibFazrif9u) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [By the Time I Get to Phoenix](https://open.spotify.com/album/072n3mIrN6UKS5rkYAN9zR) | 2:27 | 2022-06-17 |  |
 | [Mad About You](https://open.spotify.com/track/5drK2kTE2mrUdV33iHWyrx) | [Hooverphonic](https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX) | [The Magnificent Tree](https://open.spotify.com/album/10QqxagLfdvXvVL9CpdHeE) | 3:43 | 2022-06-17 |  |

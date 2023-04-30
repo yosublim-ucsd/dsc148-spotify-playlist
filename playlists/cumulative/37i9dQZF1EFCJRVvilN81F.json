@@ -2123,6 +2123,24 @@
     },
     {
       "album": {
+        "name": "Euphonyus",
+        "url": "https://open.spotify.com/album/7jlnxMcPR6LK0bvBtQyu45"
+      },
+      "artists": [
+        {
+          "name": "Phony Ppl",
+          "url": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229505,
+      "name": "warmest winter.",
+      "url": "https://open.spotify.com/track/1DQV5VtXXo09zuCdsWqDrN"
+    },
+    {
+      "album": {
         "name": "99.9%",
         "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
       },

@@ -89,6 +89,28 @@
     },
     {
       "album": {
+        "name": "Candlelight Carol",
+        "url": "https://open.spotify.com/album/1Dttw1GpfmxFcz48e46STq"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Wayne Marshall",
+          "url": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167652,
+      "name": "Candlelight Carol",
+      "url": "https://open.spotify.com/track/79iIraI9M4e0zWht6rE50N"
+    },
+    {
+      "album": {
         "name": "Beautiful Cello",
         "url": "https://open.spotify.com/album/0mUUsd64PlYJuGsuSfyawn"
       },
@@ -907,28 +929,6 @@
     },
     {
       "album": {
-        "name": "Candlelight Carol",
-        "url": "https://open.spotify.com/album/1Dttw1GpfmxFcz48e46STq"
-      },
-      "artists": [
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        },
-        {
-          "name": "Wayne Marshall",
-          "url": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
-        }
-      ],
-      "date_added": "2021-12-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 167652,
-      "name": "Rutter: Candlelight Carol",
-      "url": "https://open.spotify.com/track/79iIraI9M4e0zWht6rE50N"
-    },
-    {
-      "album": {
         "name": "John Rutter: The Colours of Christmas",
         "url": "https://open.spotify.com/album/5EQU41n7Lj7OAn0wuRMwGt"
       },
@@ -944,28 +944,6 @@
       "duration_ms": 177017,
       "name": "Rutter: The Colours of Christmas - Arr. for Piano by John Lenehan",
       "url": "https://open.spotify.com/track/5hxJyjM1uI60T8xJB5U4yg"
-    },
-    {
-      "album": {
-        "name": "The Piano Collection",
-        "url": "https://open.spotify.com/album/13QCcMPgbmg9FZROLvenU3"
-      },
-      "artists": [
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        },
-        {
-          "name": "Wayne Marshall",
-          "url": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
-        }
-      ],
-      "date_added": "2021-12-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 257760,
-      "name": "Rutter: What Sweeter Music",
-      "url": "https://open.spotify.com/track/22TtoL9ogBV2B4eHK01924"
     },
     {
       "album": {
@@ -1242,6 +1220,28 @@
       "duration_ms": 258357,
       "name": "What Child Is This?",
       "url": "https://open.spotify.com/track/23zCWNIS8w4Bhi9Es2E5uh"
+    },
+    {
+      "album": {
+        "name": "The Piano Collection",
+        "url": "https://open.spotify.com/album/13QCcMPgbmg9FZROLvenU3"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Wayne Marshall",
+          "url": "https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257760,
+      "name": "What Sweeter Music",
+      "url": "https://open.spotify.com/track/22TtoL9ogBV2B4eHK01924"
     },
     {
       "album": {

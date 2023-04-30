@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 
 > <a href="spotify:artist:2i1CPudyCUjL50Wqjv8AMI">Alfa Mist</a> shares his jazz favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,324 likes - 30 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,371 likes - 30 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 | 14 | [Eurídice](https://open.spotify.com/track/3VbZ1S46fhgHAHT4yIeVY9) | [Baden Powell](https://open.spotify.com/artist/0VSgciOd32tP2Yna1w4vDr) | [Tristeza / Poema / Canto / Images On Guitar](https://open.spotify.com/album/0lmAhV5jdI0toT257nP8vj) | 4:05 |
 | 15 | [Dream](https://open.spotify.com/track/6sT430ECWNAOV78ReGr3Gz) | [Jas Kayser](https://open.spotify.com/artist/3yjaKJcB25XtIy23oDJjSO) | [Jas 5ive](https://open.spotify.com/album/6z6QGXmou5iAnOf94AAVup) | 5:50 |
 | 16 | [Sensei](https://open.spotify.com/track/5KqyMxJTympEf5YFp9RTe6) | [JSPHYNX](https://open.spotify.com/artist/3jy2pJyyUcddwipP6wqR8l) | [Reflex](https://open.spotify.com/album/0I9oGDa0fa63LIG6yC4bif) | 2:36 |
-| 17 | [BC](https://open.spotify.com/track/2T4jpgQTXUykbqZlvjKNQG) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [4th Feb \(Stay Awake\) / BC](https://open.spotify.com/album/0OpZZhtsJYMTUfOpCDNpLw) | 7:30 |
+| 17 | [BC](https://open.spotify.com/track/28dZT1QGQRoK7HnO0pk8yd) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Variables](https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6) | 7:30 |
 | 18 | [The World We Knew](https://open.spotify.com/track/3Mti0GRiWm1BZeknARLqPo) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [The World We Knew \(Remastered\)](https://open.spotify.com/album/2sUDjvaWiQfUjkp2rd5rwG) | 3:29 |
 | 19 | [Statuesque](https://open.spotify.com/track/0Rl8T1f0V03bHOMYP0GmnB) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [LongGone \(feat\. Brad Mehldau, Christian McBride & Brian Blade\)](https://open.spotify.com/album/52Vr22XzeD9rIOnOQ3OSKR) | 8:18 |
 | 20 | [Mama](https://open.spotify.com/track/32EOILWXWu3WGo56PmM9UG) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft), [Omagugu](https://open.spotify.com/artist/3fOgc0hcEUZjOuhvGEise4) | [In The Spirit Of Ntu](https://open.spotify.com/album/3UnSb3V4gzrt2ofjYfsLDl) | 7:01 |
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 | 23 | [No Need to Wait](https://open.spotify.com/track/1MfXHGGG7ml1HMBSTiUNRk) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Epoch](https://open.spotify.com/album/3X60lqs7cdHZf4Tk5Vfn53) | 4:19 |
 | 24 | [Unrequited](https://open.spotify.com/track/56HdFAzKJ3qVwqQhja7HW4) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA), [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Metheny Mehldau](https://open.spotify.com/album/46toyUpsWtgtWQi4ME16nj) | 4:59 |
 | 25 | [Drift](https://open.spotify.com/track/1dFXVsyHptcrUOTDT6FXmU) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Heroes + Misfits](https://open.spotify.com/album/35SK2rNqBdbIykejfFs9rA) | 6:10 |
-| 26 | [Angels Around](https://open.spotify.com/track/6LeMCjrZtdjn3Oxjt01CfC) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Angels Around](https://open.spotify.com/album/57bPd7tr9jKFRboGVJ2vJJ) | 6:00 |
+| 26 | [Angels Around](https://open.spotify.com/track/4yI8w3mPpuH7RnOy4Uail9) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Angels Around](https://open.spotify.com/album/1rw84ssoTRB0M9wrPrwes6) | 6:00 |
 | 27 | [Two Nil](https://open.spotify.com/track/3nyB9Y1Og43JTswc9MFRa3) | [44th Move](https://open.spotify.com/artist/0RLaOKZ3L4fiKuOvgt0VYx) | [44th Move](https://open.spotify.com/album/1HH0AI0mLPPCKpjfZiKMwm) | 5:19 |
 | 28 | [SHHH](https://open.spotify.com/track/4vVB1Cds2lNGgkLT5LLz0j) | [JSPHYNX](https://open.spotify.com/artist/3jy2pJyyUcddwipP6wqR8l) | [Reflex](https://open.spotify.com/album/0I9oGDa0fa63LIG6yC4bif) | 5:20 |
 | 29 | [Wrangel](https://open.spotify.com/track/6ich630va9p5hMVU2DPC2J) | [Benedikt Jahnel Trio](https://open.spotify.com/artist/7HcGEwGFOZo1xqYa3SJ6m3) | [Equilibrium](https://open.spotify.com/album/0jdPF0XNaprry2aipeMyGD) | 9:01 |
 | 30 | [Effi \- Remastered](https://open.spotify.com/track/0nIeaEyPJIixP1B73MTXpf) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Patterns](https://open.spotify.com/album/1y2UHjMwM818jzPqRzw9cd) | 7:10 |
 
-Snapshot ID: `MCw2NjQ2OTkwNmY1MTRjNWNjNDI5ODkxZmQ4NDk3NThkNTlkMWJjMTk3`
+Snapshot ID: `MCwzZjg3YjBjNzlmNGIyMGNkNDEzYzYxMWVhY2U3ZGQ0ODQ0M2I4YWQ0`

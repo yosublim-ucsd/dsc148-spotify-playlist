@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,240 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,306 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 26 | [Sweet Old World](https://open.spotify.com/track/72cC7aXgTx3us9bTOBbLUF) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Wrecking Ball](https://open.spotify.com/album/3S2rjqCFfpvZKqGcVkHjDP) | 5:05 |
 | 27 | [The Dreaming Dead](https://open.spotify.com/track/7vnAgnnk9FW4gBy3W2gj3q) | [Jesse Sykes & The Sweet Hereafter](https://open.spotify.com/artist/02ojXsd1103Qc2uU5uhJHZ) | [Oh, My Girl](https://open.spotify.com/album/08024Yl9vqP9YR1Jf4OOrA) | 6:03 |
 | 28 | [Love Is Just A Wrecking Ball](https://open.spotify.com/track/3uj5B8qhKQbMxtXGGG5V3w) | [Del Barber](https://open.spotify.com/artist/596XrMi1b7txL6jMiyb1yk) | [Where The City Ends](https://open.spotify.com/album/5ZXpVBRxmYSP7f2gG01aFY) | 4:20 |
-| 29 | [The Battle \(feat\. Ryan Adams\)](https://open.spotify.com/track/0mhsQSfSDq1x45qcC0jc80) | [Caitlin Cary](https://open.spotify.com/artist/2lMw9KHEs2ymoFBRuSrMHk), [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Battle](https://open.spotify.com/album/11IsKz96KxcLAoCycv6LrT) | 3:00 |
+| 29 | [The Battle \(feat\. Ryan Adams\)](https://open.spotify.com/track/6hFUNjqM0SGL5a1WKmgW2y) | [Caitlin Cary](https://open.spotify.com/artist/2lMw9KHEs2ymoFBRuSrMHk), [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Battle](https://open.spotify.com/album/333avvdsp2cuhEWyhlrLVS) | 3:00 |
 | 30 | [Kerosene](https://open.spotify.com/track/3TGpooseyntR0X8EBQzdgC) | [The Bottle Rockets](https://open.spotify.com/artist/5YsFZtitLEPVCFjixwBIkW) | [The Bottle Rockets & The Brooklyn Side](https://open.spotify.com/album/11wjQ6TTqZQjUTumb8THVm) | 3:12 |
 | 31 | [Gathering Flowers For The Master's Bouquet](https://open.spotify.com/track/0dA2DNenFzwMkSCyTL3wnb) | [Blood Oranges](https://open.spotify.com/artist/4u4wxGuvHyV56OlAKesNNC) | [The Slaughter Rule \(Original Movie Soundtrack\)](https://open.spotify.com/album/7FE8uV5jYFd5OiFWiKIBDU) | 4:40 |
 | 32 | [Officer Down](https://open.spotify.com/track/2hS1eS0RAg5b9VzRPSPK6J) | [Carolyn Mark](https://open.spotify.com/artist/5LEbX3AeiknZxV5zOIFhCH), [NQ Arbuckle](https://open.spotify.com/artist/0UXWUsqoGhYC4sCiEe7tEk) | [Let's Just Stay Here](https://open.spotify.com/album/610I6r165R7zGCI2rFlQc7) | 3:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 74 | [Chickamauga](https://open.spotify.com/track/3pnfc7f0fix6C6HcOLYxzH) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [Anodyne](https://open.spotify.com/album/5DQRAlGAFTpHsXGEg5zw9V) | 3:42 |
 | 75 | [Hasn't Hit Me Yet \- 2012 Remaster](https://open.spotify.com/track/4MgPAPoNsUpJrVhKf1dCxz) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Five Days in July](https://open.spotify.com/album/38xKbwxuitwGAgjTPoEnWm) | 5:13 |
 
-Snapshot ID: `MCw2NjJhNWJmZGI3MzVmYzI3MmNjMmVkYjk5NTkxYTVjNjAyYmZkYWVm`
+Snapshot ID: `MCwyY2I5Y2VhZWM4Yjc5MTUyNjVmOWM5YzY5ZGI4MTU4OTdkZDcyMDEy`

@@ -4,7 +4,7 @@
 
 > Escucha la música de las seis temporadas de Élite.
 
-357 songs - 22 hr 50 min
+359 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,8 @@
 | [Heaven Only Knows](https://open.spotify.com/track/4pjP1IGE3JC0jDvgPkHHcg) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Battle Lines](https://open.spotify.com/album/42aWQU8pO4KLq2aNwidEZS) | 4:22 | 2021-09-01 |  |
 | [Heaven's Nail and Hammer](https://open.spotify.com/track/4OKfEpmKFuWw8opI89yDjf) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Migration Stories](https://open.spotify.com/album/6wkWIyipqrQI4xLLxv6IGy) | 4:42 | 2022-11-24 |  |
 | [Her Lies](https://open.spotify.com/track/2C6iYKXw6khnxk9du23syV) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME), [The Mojos](https://open.spotify.com/artist/5abaNg0SJPEF7EST0RjY9F) | [The Reckoning](https://open.spotify.com/album/22Jw1aVVP0MijVVO5ls0qn) | 3:51 | 2021-09-01 |  |
-| [Hey Heartbreaker](https://open.spotify.com/track/5rHOYjTsgZSt4FTIkVtcVc) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/0fFlloNPNem2XOi4AeU5ty) | 3:20 | 2022-04-08 |  |
+| [Hey Heartbreaker](https://open.spotify.com/track/4GlABUbKd2p5dRvOlGhphU) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/4XNMQKhyNE3BYCPhwTzcFF) | 3:20 | 2022-04-08 |  |
+| [Hey Heartbreaker](https://open.spotify.com/track/5rHOYjTsgZSt4FTIkVtcVc) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/0fFlloNPNem2XOi4AeU5ty) | 3:20 | 2022-04-08 | 2023-04-30 |
 | [Hey Moon](https://open.spotify.com/track/0MpsyFvt1KaxNYBYw2aanq) | [John Maus](https://open.spotify.com/artist/4R073T3AVJKqAsbzLmLW9u) | [We Must Become the Pitiless Censors of Ourselves](https://open.spotify.com/album/6lfo4f2EW26I06q2cIMPof) | 4:08 | 2021-09-01 |  |
 | [Hierba Mala](https://open.spotify.com/track/697GyFBDJX36FtMiVTPK5F) | [REYKO](https://open.spotify.com/artist/1asECxd7DPIjTLu8NTc3ZA) | [REYKO](https://open.spotify.com/album/1282XufMh56sFYHSmAhPVF) | 3:10 | 2021-09-01 |  |
 | [HOPE](https://open.spotify.com/track/1DB4WqlBzijxc8b21Xjl8Y) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Shades of Guilt](https://open.spotify.com/album/4oTVPfIhIHs8PNQMQtkoR3) | 4:12 | 2022-11-24 |  |
@@ -174,7 +175,8 @@
 | [I Want To Die By Your Side](https://open.spotify.com/track/5lSefILPPXL9WbOqXKQuNN) | [The Magic Theatre](https://open.spotify.com/artist/4dsqiX7DwmvBXNh1DrYKtZ) | [I Want To Die By Your Side](https://open.spotify.com/album/6880NTfHXJUImJjcB0519U) | 4:15 | 2021-09-01 |  |
 | [I'll Make It Worth Your While](https://open.spotify.com/track/1wGo4tlrH2cetJTDAJ42cu) | [Artificial Pleasure](https://open.spotify.com/artist/2cH1cbvFnoaO9xdYfVC7cc) | [The Bitter End](https://open.spotify.com/album/1DB8EkmT9xXa1vJD0xuiJl) | 3:16 | 2021-09-01 |  |
 | [I'll Trust The Wind](https://open.spotify.com/track/7BIXtOGgOc5TmvjaK1bNBf) | [The Primitives](https://open.spotify.com/artist/4FPmAi3p4T3p0AsthfqHMA) | [New Thrills](https://open.spotify.com/album/15EfgkKfz1zgOMbC77s019) | 2:38 | 2021-09-01 |  |
-| [I'm Not Always Where My Body Is](https://open.spotify.com/track/1uFBlkcqXpvoZBpRL7fM4T) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [S.L.F.](https://open.spotify.com/album/0rZMYFmZZYdm3nfilk1SvV) | 3:49 | 2022-04-08 |  |
+| [I'm Not Always Where My Body Is](https://open.spotify.com/track/1uFBlkcqXpvoZBpRL7fM4T) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [S.L.F.](https://open.spotify.com/album/0rZMYFmZZYdm3nfilk1SvV) | 3:49 | 2022-04-08 | 2023-04-30 |
+| [I'm Not Always Where My Body Is](https://open.spotify.com/track/3XxoiXiNIzsgl45fTDXtKE) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [S.L.F.](https://open.spotify.com/album/5dGkXQyNIkLUjmW4VR9uax) | 3:49 | 2022-04-08 |  |
 | [In Dreams](https://open.spotify.com/track/71HJuzHzHoN2z4jwParNfz) | [Broken Twin](https://open.spotify.com/artist/4Y1f57EtKq7YF6DfftpopX) | [May](https://open.spotify.com/album/2vXLNhdNLU10FscOd07Xbl) | 5:12 | 2021-09-01 |  |
 | [In Fantasia](https://open.spotify.com/track/4xcCaMj1SbDztA3e9wGf14) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Lighght](https://open.spotify.com/album/3vwhMjwukv3LNZpQu57RWR) | 7:09 | 2021-09-01 |  |
 | [In This Dark Time](https://open.spotify.com/track/2tVJpUamLfNdUI7SiyPIFF) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [Say Yes, Say No](https://open.spotify.com/album/1gqXX51DCiNoe0Xt9RHUIT) | 3:27 | 2022-04-08 |  |

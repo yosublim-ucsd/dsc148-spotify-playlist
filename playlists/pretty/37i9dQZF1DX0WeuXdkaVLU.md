@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0WeuXdkaVLU.md) - [plain]
 
 > Music from and inspired by The School for Good and Evil\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,082 likes - 26 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,181 likes - 26 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0WeuXdkaVLU.md) - [plain]
 | 17 | [Vision \(feat\. Zelooperz\)](https://open.spotify.com/track/79N9aDPDWEWND2oySCsTTa) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8) | [SICK!](https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd) | 4:14 |
 | 18 | [mememe](https://open.spotify.com/track/2Tdkz4mLxN8szqcMeNWcI8) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [mememe](https://open.spotify.com/album/3zy8FiB9URB4b2yNOwMM36) | 2:46 |
 | 19 | [Delicious Demon](https://open.spotify.com/track/7xUfx7xVgxt4wsIN0eQJ8e) | [The Sugarcubes](https://open.spotify.com/artist/1G0Xwj8mza6b03iYkVdzDP) | [Life's Too Good](https://open.spotify.com/album/0UQGKhImc5hgh2SxYAA3Jp) | 2:41 |
-| 20 | [They / Them / Theirs](https://open.spotify.com/track/5zpUjhFZWLZ7vCVk6ZpnRs) | [Worriers](https://open.spotify.com/artist/55Z2PiiE80rBOkkL1wyNPD) | [Imaginary Life](https://open.spotify.com/album/4Yb6CXNP2OjaRvPHLNVZfr) | 2:18 |
+| 20 | [They / Them / Theirs](https://open.spotify.com/track/7BNTExktKvdHBU9yspah6H) | [Worriers](https://open.spotify.com/artist/55Z2PiiE80rBOkkL1wyNPD) | [Imaginary Life](https://open.spotify.com/album/3uCYNGmkNe9udFYrzB373J) | 2:18 |
 | 21 | [I’m Sensitive](https://open.spotify.com/track/6SoZSWIEtPyf9C1rh6Ws4j) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Pieces Of You \(25th Anniversary Edition\)](https://open.spotify.com/album/1AKK0MFNHhYhOZGOWePh4o) | 2:56 |
 | 22 | [Prelude No\. 1 in C Major, BWV 846: Well\-Tempered Klavier \- From the Well\-Tempered Klavier](https://open.spotify.com/track/6rrPRUbOf3Kvzktz4T5FST) | [Erica Goodman](https://open.spotify.com/artist/1EelcDEygYtkxrPAAK1vG0) | [Heavenly Harp](https://open.spotify.com/album/7wlkMkHsZ79mRM7G5zSOwV) | 2:31 |
 | 23 | [The Stymph](https://open.spotify.com/track/7nTFxjURswzKehFVNkzjcd) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The School For Good And Evil \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/23miUXQGfu8FT8D8N0R398) | 3:02 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0WeuXdkaVLU.md) - [plain]
 | 25 | [Gregor's Third Fail](https://open.spotify.com/track/7BL8e1cN2TQCFapJjtgryJ) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The School For Good And Evil \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/23miUXQGfu8FT8D8N0R398) | 2:31 |
 | 26 | [True Love](https://open.spotify.com/track/4lCH00JMunFbuaySSm66HV) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The School For Good And Evil \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/23miUXQGfu8FT8D8N0R398) | 2:59 |
 
-Snapshot ID: `MCwxNWMwZmZmZmM1MGRkY2E3YmM0YTAyYzM0YmU3ZTg3YjIwMmU3ZTA1`
+Snapshot ID: `MCwwOTI1ZWFiM2YyMTlkZTE3YjNmZmZmNDQ2NmU3OTU4MWYzMTIxMDM3`

@@ -644,6 +644,24 @@
     {
       "album": {
         "name": "Dark Days",
+        "url": "https://open.spotify.com/album/0loPUxfGgHCAGJlOHbTmEq"
+      },
+      "artists": [
+        {
+          "name": "Yard Act",
+          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185248,
+      "name": "Dark Days",
+      "url": "https://open.spotify.com/track/7s3g6VVfYaqmyL24uzJSEV"
+    },
+    {
+      "album": {
+        "name": "Dark Days",
         "url": "https://open.spotify.com/album/6JXI3CvEjelCxeKZW3zndN"
       },
       "artists": [
@@ -654,7 +672,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 185248,
       "name": "Dark Days",
       "url": "https://open.spotify.com/track/7wLy2immx4tw3qgiH7ZogP"

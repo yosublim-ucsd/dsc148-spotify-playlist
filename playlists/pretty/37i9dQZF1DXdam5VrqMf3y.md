@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 
 > Your favorite holiday tunes, like you've never heard before\. Cover: Meghan Trainor
 
-[Spotify](https://open.spotify.com/user/spotify) - 724,418 likes - 79 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 724,366 likes - 79 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 | 73 | [Wonderful Christmastime \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Spotify Singles \- Holiday](https://open.spotify.com/album/50RXkvDaqBXrh7JGUuuCyB) | 3:06 |
 | 74 | [The Christmas Song \- Spotify Singles \- Holiday, Recorded at Spotify Studios NYC](https://open.spotify.com/track/7beYBowpIMDjpdfXi2GH4S) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [The Christmas Song \(Spotify Singles \- Holiday, Recorded at Spotify Studios NYC\)](https://open.spotify.com/album/0aVdIL0fUe5iaGQcvto0Sy) | 2:56 |
 | 75 | [Noche de Paz \- Recorded at Electric Lady Studios NYC \- Spotify Studios NYC](https://open.spotify.com/track/6lxZad9QvvupcZmt0BwKPJ) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Noche de Paz \- Recorded at Electric Lady Studios NYC \- Spotify Studios NYC](https://open.spotify.com/album/6ko0lFEORJ1r844s60Zh3f) | 2:04 |
-| 76 | [Christmas Must Be Tonight \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7D5fkaLthrFkOmTPrOLOpk) | [Amy Helm](https://open.spotify.com/artist/4LBsb3buEAjllAzNraGYtU), [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [Christmas Must Be Tonight \- Recorded at Spotify Studios NYC](https://open.spotify.com/album/79pU4cBoyQmUU0e5tuuCvG) | 3:59 |
+| 76 | [Christmas Must Be Tonight \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7id81a5ZwLDGCwnQvBSazV) | [Amy Helm](https://open.spotify.com/artist/4LBsb3buEAjllAzNraGYtU), [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [Christmas Must Be Tonight \- Recorded at Spotify Studios NYC](https://open.spotify.com/album/7tiflfuqQGkJNFvK3L4n2o) | 3:59 |
 | 77 | [Little Drummer Boy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7tTPXjxNFjij4xzGeO3KLt) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Spotify Singles \- Christmas](https://open.spotify.com/album/5F2LTPWjIl2YWeDlZSbNb3) | 3:52 |
 | 78 | [Oh My Christmas Tree \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/60SifRrS0a3jOQITjpstp8) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Spotify Singles \- Christmas](https://open.spotify.com/album/5en558OdtGQER6bVirXNnM) | 4:04 |
 | 79 | [Baby It's Cold Outside \- Spotify Singles \- Christmas, Recorded at Metropolis Studios, London](https://open.spotify.com/track/2jB9jrpggKxSvymiWXM2pz) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [B.B\. Bones](https://open.spotify.com/artist/61QhyKKCq2VbbWRgFLlD6B) | [Baby It's Cold Outside \- Spotify Singles \- Christmas, Recorded at Metropolis Studios, London](https://open.spotify.com/album/05mmfK3BaBsbXRUmds8FYU) | 2:43 |
 
-Snapshot ID: `MCwyNjg1ZDk2Y2FhZWEzZmMzYjM3MTdjNzA2YzQ4YWRmMGQ3MzdiYzEz`
+Snapshot ID: `MCxlYjdhNGIxYjE0YWE4OGZjZTk5YTQ4N2VlMjgzOGJmYzcxMDgzMDk0`

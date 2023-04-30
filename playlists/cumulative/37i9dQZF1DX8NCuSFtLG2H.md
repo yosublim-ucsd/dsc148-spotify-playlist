@@ -4,7 +4,7 @@
 
 > Relax to the sounds of the kora.
 
-134 songs - 10 hr 54 min
+136 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [El Sicuri](https://open.spotify.com/track/7GBhEInpST7Dx9fE0tBMEI) | [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ) | [Still Moment](https://open.spotify.com/album/03uMfQNIFSHVwcxCngFdT5) | 2:55 | 2022-04-15 |  |
 | [Elyne Road](https://open.spotify.com/track/0A3E8E3CRhUPYYar0w2pqA) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [The Mandé Variations](https://open.spotify.com/album/7zucRbIbI4ULiiZdX9x48t) | 8:47 | 2022-04-15 |  |
 | [Fantasy](https://open.spotify.com/track/10UumEsqkMv6fiihOM5Hg8) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi) | 2:18 | 2022-04-15 |  |
-| [Folon](https://open.spotify.com/track/1DCW0SjXfjBwbiYDSVbuOg) | [Lamine Cissokho](https://open.spotify.com/artist/4yNX2MT20zgrgvC7rrsFv6) | [Kora +1](https://open.spotify.com/album/7p5u26mM2kqrPCFUmJNJvG) | 5:08 | 2022-04-15 |  |
+| [Folon](https://open.spotify.com/track/1DCW0SjXfjBwbiYDSVbuOg) | [Lamine Cissokho](https://open.spotify.com/artist/4yNX2MT20zgrgvC7rrsFv6) | [Kora +1](https://open.spotify.com/album/7p5u26mM2kqrPCFUmJNJvG) | 5:08 | 2022-04-15 | 2023-04-30 |
+| [Folon](https://open.spotify.com/track/3LWfdsYsZ5yI3HgcavHSzO) | [Lamine Cissokho](https://open.spotify.com/artist/4yNX2MT20zgrgvC7rrsFv6) | [Kora +1](https://open.spotify.com/album/62vn052g2TSd9MPGmHwQr1) | 5:08 | 2022-07-18 |  |
 | [Future Strings in E](https://open.spotify.com/track/25QUiK1zMCLvG6xAr6izut) | [Seckou Keita](https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc) | [Seckou Keita: 22 Strings](https://open.spotify.com/album/5YWNufb3cz5hYYA9Vv0uve) | 6:49 | 2022-07-18 |  |
 | [Future Strings in E](https://open.spotify.com/track/4Q7KVZVOY7Y9dF3OdfeFX2) | [Seckou Keita](https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc) | [Seckou Keita: 22 Strings](https://open.spotify.com/album/1VH0jLzs9p6WzXRlfRk7Hw) | 6:49 | 2022-04-15 | 2022-07-29 |
 | [Hello](https://open.spotify.com/track/2UVfxwdVPR06s5gYK5d5Or) | [Dawda Jobarteh](https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh) | [I Met Her by the River](https://open.spotify.com/album/7GMUq2GDaIzQHaCdsG3nDV) | 4:26 | 2022-04-15 |  |
@@ -134,7 +135,8 @@
 | [The Village](https://open.spotify.com/track/0OM6zZomxmJzWTlzfUL3Ec) | [Ravi](https://open.spotify.com/artist/4Jdc5hzHfGwwc7dxquKGso) | [Ravi: African Kora](https://open.spotify.com/album/02Kd5u5BzFZyfQobh3mX47) | 5:35 | 2022-04-15 |  |
 | [Tilô \- Lumière](https://open.spotify.com/track/4AsYhyxnqGpHMWXskhF5Nb) | [Ablaye Cissoko](https://open.spotify.com/artist/7F6474dJ7eusD2MkXm2Lwx) | [Diam \(La paix\)](https://open.spotify.com/album/6Dt3pAgQpu0HtPLWcwgUzi) | 5:03 | 2022-04-15 |  |
 | [Tougoude](https://open.spotify.com/track/6Gkoa1dKL34PD7p66wP8wE) | [Yacouba Sissoko](https://open.spotify.com/artist/5AFOBMdVFA8785NYQtWiad) | [Siya](https://open.spotify.com/album/1T7Y2XS0DCAgUnZjAq7L5R) | 5:54 | 2022-04-15 |  |
-| [Toutou Diarra](https://open.spotify.com/track/4uEmFWgfgnIJT3lLS3srZc) | [Lamine Cissokho](https://open.spotify.com/artist/4yNX2MT20zgrgvC7rrsFv6) | [Kora +1](https://open.spotify.com/album/7p5u26mM2kqrPCFUmJNJvG) | 4:18 | 2022-04-15 |  |
+| [Toutou Diarra](https://open.spotify.com/track/6jPRIrQI72sXLhLseNwmrf) | [Lamine Cissokho](https://open.spotify.com/artist/4yNX2MT20zgrgvC7rrsFv6) | [Kora +1](https://open.spotify.com/album/62vn052g2TSd9MPGmHwQr1) | 4:18 | 2022-07-18 |  |
+| [Toutou Diarra](https://open.spotify.com/track/4uEmFWgfgnIJT3lLS3srZc) | [Lamine Cissokho](https://open.spotify.com/artist/4yNX2MT20zgrgvC7rrsFv6) | [Kora +1](https://open.spotify.com/album/7p5u26mM2kqrPCFUmJNJvG) | 4:18 | 2022-04-15 | 2023-04-30 |
 | [United Hands \(West African Solo Kora Piece\)](https://open.spotify.com/track/45MCuEKnSf4AOLRmXqQLTd) | [Lamine Cissokho](https://open.spotify.com/artist/4yNX2MT20zgrgvC7rrsFv6), [Manish Pingle](https://open.spotify.com/artist/6IEbzmpRNL3IDQRSOdfUFB) | [New Continents](https://open.spotify.com/album/3AleC0olG2Nolct0kvgPf9) | 4:55 | 2022-04-15 |  |
 | [Warbé](https://open.spotify.com/track/3T5vxl7qadr3rh7YVV296S) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi) | 4:51 | 2022-04-15 |  |
 | [Winter Trees Stand Sleeping](https://open.spotify.com/track/18PMUMZqCeKiZ5sV5fn1kz) | [Dawda Jobarteh](https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh) | [Transitional Times](https://open.spotify.com/album/10yK1rIl0mevzccNi8nlie) | 2:20 | 2022-04-15 |  |

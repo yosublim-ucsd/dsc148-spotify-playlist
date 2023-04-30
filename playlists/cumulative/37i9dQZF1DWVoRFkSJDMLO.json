@@ -9090,6 +9090,28 @@
     {
       "album": {
         "name": "TRUCK RIDDIM (feat. BEAM)",
+        "url": "https://open.spotify.com/album/10QeKpvQ9IHAoP3eLhM2mb"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128076,
+      "name": "TRUCK RIDDIM (feat. BEAM)",
+      "url": "https://open.spotify.com/track/2zZGKXkFM2kCRrGULFK0gY"
+    },
+    {
+      "album": {
+        "name": "TRUCK RIDDIM (feat. BEAM)",
         "url": "https://open.spotify.com/album/7pMzHtdqbu6HGHp30GNp54"
       },
       "artists": [
@@ -9104,7 +9126,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 128076,
       "name": "TRUCK RIDDIM (feat. BEAM)",
       "url": "https://open.spotify.com/track/7kaNSzp7gVRFoxEmE42IU9"

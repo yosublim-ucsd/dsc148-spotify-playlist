@@ -4,7 +4,7 @@
 
 > A pride playlist for the whole family\. Cover: JoJo Siwa
 
-46 songs - 2 hr 3 min
+47 songs - 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Play It Loud](https://open.spotify.com/track/0PrCmeLBJHrXCvhV7HJbzu) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [Really Loud Music](https://open.spotify.com/album/08WKH7AdhNWNER1Y4BGxjm) | 0:53 | 2021-08-27 | 2022-10-14 |
 | [Play It Loud](https://open.spotify.com/track/6ydBBegR4TTlMEv3c9GqvK) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [Really Loud Music](https://open.spotify.com/album/0VvLWt3tTeXN875lAfk5GE) | 0:53 | 2022-06-02 | 2022-11-24 |
 | [Rainbow Baby](https://open.spotify.com/track/58Fl2TnFkVvrOGT6Tf70TV) | [Peanut Butter Jams](https://open.spotify.com/artist/2kvrXvmS6qLg14n8Z9WZZq) | [Rainbow Baby](https://open.spotify.com/album/59ezSZpBp2d6BJv9mjBdMo) | 3:41 | 2021-08-27 |  |
-| [Snowpeople](https://open.spotify.com/track/1qFWXT8iWQIuDOAUXoqZV4) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Winterland](https://open.spotify.com/album/4T6NbIjlMpe8Rpc5Lx8DKt) | 2:37 | 2021-08-27 |  |
+| [Snowpeople](https://open.spotify.com/track/0vuDGOYwfuqM3SQaVFs7D1) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Winterland](https://open.spotify.com/album/1Lkr1V9CvhYsebLSiPT3fw) | 2:37 | 2022-06-02 |  |
+| [Snowpeople](https://open.spotify.com/track/1qFWXT8iWQIuDOAUXoqZV4) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Winterland](https://open.spotify.com/album/4T6NbIjlMpe8Rpc5Lx8DKt) | 2:37 | 2021-08-27 | 2023-04-30 |
 | [Some Girls Have Short Hair](https://open.spotify.com/track/0uaEO7D5FuGAOj8GeWGLFp) | [Ants on a Log](https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g) | [You Could Draw the Album Art!](https://open.spotify.com/album/6JCPj80o5nfJcHvn4wdvyw) | 1:16 | 2022-06-02 |  |
 | [Some Girls Have Short Hair](https://open.spotify.com/track/1n9inNjAfarRPFsSw3ErCm) | [Ants on a Log](https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g) | [You Could Draw the Album Art!](https://open.spotify.com/album/6fAkgy3mHYCHSIuLqacj82) | 1:16 | 2021-08-27 | 2022-07-29 |
 | [Some Girls Have Short Hair](https://open.spotify.com/track/128gGn8FIz8v3WehgmZh3U) | [Ants on a Log](https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g) | [You Could Draw the Album Art!](https://open.spotify.com/album/0K1YZBKZRNAPBuTeghnPeO) | 1:16 | 2022-06-02 | 2022-11-13 |

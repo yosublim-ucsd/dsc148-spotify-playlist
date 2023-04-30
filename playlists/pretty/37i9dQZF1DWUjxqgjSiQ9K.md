@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto:  <a href="https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz?si=dfe72a4e0c8242a4">Lizzy Parra</a> y <a href="https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0?si=8FnvkdYrTcCeckwQkGzf3g">Kike Pavón</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,534 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,702 likes - 100 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 99 | [Para La Wifey :\)](https://open.spotify.com/track/6Rs1QghbmvKXS8TXxXBdgV) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [Why Do We Fear Still?](https://open.spotify.com/album/3f2OOXRi6RFjmDyFUxql8N) | 2:42 |
 | 100 | [No Necesito Doctor.](https://open.spotify.com/track/4dsEUfpG1wyx1KTgBSOyxH) | [Josh Gamez](https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr) | [No Necesito Doctor.](https://open.spotify.com/album/7lpoc4oeAmkRV2NY8uPqNg) | 3:22 |
 
-Snapshot ID: `MCxkNzJiOTA1MGNiNGIwNWQyZWE5YmJmNjNlZTdhOTZiNmUxY2E0MmE0`
+Snapshot ID: `MCxiNTExMDAxOGY0YWUxNzRiNTI5MWJiNGNkODk5NzYwZTJjODk2ZmE0`

@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 5691,
+  "num_followers": 5693,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzVjNzk2N2FhYzU1YmQwN2ZkZTJlYmEzN2ZkY2NmNDE4NGJjMGVk",
+  "snapshot_id": "MCwyMTE3ZGZhYTQ0ZDlmMGFjZTM5MzMwMzk3ODMzMWMyZDkyYTNlMGEz",
   "tracks": [
     {
       "added_at": "2023-03-27 08:26:37",
@@ -247,26 +247,6 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
-        "name": "That's Why I Can't Talk About Love",
-        "url": "https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        }
-      ],
-      "duration_ms": 202840,
-      "name": "That's Why I Can't Talk About Love (Feat. Woo)",
-      "url": "https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ"
-    },
-    {
-      "added_at": "2023-03-27 08:26:37",
-      "album": {
         "name": "NEXT EPISODE",
         "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 236703,
       "name": "Tictoc Tictoc Tictoc (with Beenzino)",
       "url": "https://open.spotify.com/track/69XHRP8AyobIbFELKSdOHp"
+    },
+    {
+      "added_at": "2023-03-27 08:26:37",
+      "album": {
+        "name": "That's Why I Can't Talk About Love",
+        "url": "https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "duration_ms": 202840,
+      "name": "That's Why I Can't Talk About Love (Feat. Woo)",
+      "url": "https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ"
     },
     {
       "added_at": "2023-03-27 08:26:37",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
-        "name": "Mondegreen",
-        "url": "https://open.spotify.com/album/4KlisFMPuKdK0lWRjtxLhw"
+        "name": "Nonadaptation \ube44\uc801\uc751",
+        "url": "https://open.spotify.com/album/2mZUejhzFxhZu2Zd5XV3kX"
       },
       "artists": [
         {
-          "name": "\ub370\uc774\uba3c\uc2a4 \uc774\uc5b4 Damons year",
-          "url": "https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus"
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
         }
       ],
-      "duration_ms": 199186,
-      "name": "Blanche",
-      "url": "https://open.spotify.com/track/1esahzIshP5CFjvPDobMVZ"
+      "duration_ms": 227500,
+      "name": "Go Back \uc9d1\uc5d0",
+      "url": "https://open.spotify.com/track/197OXtsiu7HujhhXYvJjEt"
     },
     {
       "added_at": "2023-03-27 08:26:37",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
-        "name": "Nonadaptation \ube44\uc801\uc751",
-        "url": "https://open.spotify.com/album/2mZUejhzFxhZu2Zd5XV3kX"
+        "name": "Mondegreen",
+        "url": "https://open.spotify.com/album/4KlisFMPuKdK0lWRjtxLhw"
       },
       "artists": [
         {
-          "name": "SE SO NEON",
-          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
+          "name": "\ub370\uc774\uba3c\uc2a4 \uc774\uc5b4 Damons year",
+          "url": "https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus"
         }
       ],
-      "duration_ms": 227500,
-      "name": "Go Back \uc9d1\uc5d0",
-      "url": "https://open.spotify.com/track/197OXtsiu7HujhhXYvJjEt"
+      "duration_ms": 199186,
+      "name": "Blanche",
+      "url": "https://open.spotify.com/track/1esahzIshP5CFjvPDobMVZ"
     },
     {
       "added_at": "2023-03-27 08:26:37",
@@ -631,30 +631,6 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
-        "name": "Used",
-        "url": "https://open.spotify.com/album/5GoH6H1Aq60j0HRApDWHqr"
-      },
-      "artists": [
-        {
-          "name": "PATEKO",
-          "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
-        },
-        {
-          "name": "Jayci yucca",
-          "url": "https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM"
-        },
-        {
-          "name": "Kid Wine",
-          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
-        }
-      ],
-      "duration_ms": 233117,
-      "name": "Used",
-      "url": "https://open.spotify.com/track/1ihB9RzGn3IrdnsHZ2e7qv"
-    },
-    {
-      "added_at": "2023-03-27 08:26:37",
-      "album": {
         "name": "WATERFALL",
         "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
       },
@@ -683,6 +659,30 @@
       "duration_ms": 181120,
       "name": "#mood",
       "url": "https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4"
+    },
+    {
+      "added_at": "2023-03-27 08:26:37",
+      "album": {
+        "name": "Used",
+        "url": "https://open.spotify.com/album/5GoH6H1Aq60j0HRApDWHqr"
+      },
+      "artists": [
+        {
+          "name": "PATEKO",
+          "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
+        },
+        {
+          "name": "Jayci yucca",
+          "url": "https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM"
+        },
+        {
+          "name": "Kid Wine",
+          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
+        }
+      ],
+      "duration_ms": 233117,
+      "name": "Used",
+      "url": "https://open.spotify.com/track/1ihB9RzGn3IrdnsHZ2e7qv"
     },
     {
       "added_at": "2023-03-27 08:26:37",
@@ -791,18 +791,18 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
       "artists": [
         {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
         }
       ],
-      "duration_ms": 235693,
-      "name": "Nemo",
-      "url": "https://open.spotify.com/track/2JZiDl32xEwkm7TjMOPUVB"
+      "duration_ms": 202120,
+      "name": "Love is alone",
+      "url": "https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD"
     },
     {
       "added_at": "2023-03-27 08:26:37",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
       },
       "artists": [
         {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
         }
       ],
-      "duration_ms": 202120,
-      "name": "Love is alone",
-      "url": "https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD"
+      "duration_ms": 235693,
+      "name": "Nemo",
+      "url": "https://open.spotify.com/track/2JZiDl32xEwkm7TjMOPUVB"
     },
     {
       "added_at": "2023-03-27 08:26:37",
@@ -871,18 +871,18 @@
     {
       "added_at": "2023-03-27 08:26:37",
       "album": {
-        "name": "I thought it was love.",
-        "url": "https://open.spotify.com/album/6FFH6bITUXYfH1NFnQa4DW"
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
       "artists": [
         {
-          "name": "Sagong",
-          "url": "https://open.spotify.com/artist/4I13kBfOo5vI4LT8oNE0Fy"
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
         }
       ],
-      "duration_ms": 240000,
-      "name": "I thought it was love.",
-      "url": "https://open.spotify.com/track/37dIoyzhDmVq4Zz1Ps1SgU"
+      "duration_ms": 134026,
+      "name": "Traveler",
+      "url": "https://open.spotify.com/track/5vr62SPe4vI8p3WROSB5zY"
     }
   ],
   "unique_name": "\uad1c\ud788 \uc13c\uce58\ud574",

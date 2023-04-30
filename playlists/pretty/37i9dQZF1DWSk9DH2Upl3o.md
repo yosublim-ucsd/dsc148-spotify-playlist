@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: ALO
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,234 likes - 100 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,265 likes - 100 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 14 | [Despierta](https://open.spotify.com/track/3AZlc4kfSwUi3H58Oh4r5h) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Nowhere To Go But Everywhere](https://open.spotify.com/album/77mybqhJmrAAuhooCm3xW5) | 3:38 |
 | 15 | [Sweet Spot](https://open.spotify.com/track/5pFjXpxLqr2xJQerNiC4dy) | [The String Cheese Incident](https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l) | [Believe](https://open.spotify.com/album/1ugwsDgtIFbpiAV3pg1M91) | 5:04 |
 | 16 | [Outer Boroughs](https://open.spotify.com/track/5EzcAEZEjRBT6BplnklT1Y) | [Circles Around The Sun](https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH) | [Outer Boroughs](https://open.spotify.com/album/1D31I5VNHglxOfY2QKQCok) | 7:28 |
-| 17 | [Three Weeks](https://open.spotify.com/track/7wEAZ6TrgpRhPdhCI1xNCj) | [Perpetual Groove](https://open.spotify.com/artist/5Y5Qltdor4sw3O8NnFw5pO) | [Sweet Oblivious Antidote \(20th Anniversary Edition\)](https://open.spotify.com/album/1IUhgiuzNK67WSrNqt1QCt) | 9:27 |
+| 17 | [Three Weeks](https://open.spotify.com/track/0WwN4zHEMtGrijkO0pKYGC) | [Perpetual Groove](https://open.spotify.com/artist/5Y5Qltdor4sw3O8NnFw5pO) | [Sweet Oblivious Antidote \(20th Anniversary Edition\)](https://open.spotify.com/album/3OhE9B8UK6UOxlZGizEdmh) | 9:27 |
 | 18 | [The $1000 Question](https://open.spotify.com/track/1HgB8yD2d196KAW5gCGq9k) | [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [Ray Paczkowski](https://open.spotify.com/artist/5RCKLpu3QFZbFSagy35QcO), [Russ Lawton](https://open.spotify.com/artist/2C4UBATq8DBVT4HBy4UBNE), [RAAR Trio](https://open.spotify.com/artist/60DVLOx4jVE86vJSSPoUcl), [Soule Monde](https://open.spotify.com/artist/7sag5QujhVfDU0hGeGDl3x) | [The $1000 Question](https://open.spotify.com/album/0997PFcgH2xVoUO4Ez3WIY) | 6:54 |
 | 19 | [Tallulah](https://open.spotify.com/track/0uaVXrLlbi6d9JMQEUuzH8) | [Underground Springhouse](https://open.spotify.com/artist/4v4aFPF4LTWeZOR5agOPMt) | [Tallulah](https://open.spotify.com/album/2Jl6NXo215uBKRgtKwqKbe) | 7:34 |
 | 20 | [Jones Wood](https://open.spotify.com/track/1OpFysVRkTntwZvsLatw25) | [The Whags](https://open.spotify.com/artist/0sSvO4hBwHX96HiNK2W9u4) | [Jones Wood](https://open.spotify.com/album/0P5MO5Z0J9zyfYOMN1BEc5) | 4:05 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 40 | [The Freeman Massacre](https://open.spotify.com/track/5MmG7mZHhwHVRFsupNjACT) | [Marbin](https://open.spotify.com/artist/3bbmbyiX3lqrAjlwFgZE16) | [The Freeman Massacre](https://open.spotify.com/album/5uab2WSyu9MVOz23LkHk9B) | 7:51 |
 | 41 | [Trouble Overnight](https://open.spotify.com/track/6QOm9noD8jybvD4dKGrHM4) | [Zach Nugent](https://open.spotify.com/artist/3h9hfCvOqWdPszABGZmPUn) | [Trouble Overnight](https://open.spotify.com/album/38F1jSais8Vxq0qpKiQQle) | 6:48 |
 | 42 | [Burning the Hardwood Floor \(Live\)](https://open.spotify.com/track/1zgPMQXv5YtUUn5GA3njWj) | [Airshow](https://open.spotify.com/artist/2USLUiPGlv1amJy3gUszGw) | [Live 02.05.22 \(High Cotton Brewing Company \- Memphis, TN\)](https://open.spotify.com/album/068pAkEPmPbbaSTCfN8tef) | 8:49 |
-| 43 | [Lessons](https://open.spotify.com/track/53r7hLGDbGY9Ok5bgnZh7B) | [WIZRD](https://open.spotify.com/artist/1PJytjaK6elVRZ7ZI3u3lr) | [Seasons](https://open.spotify.com/album/4SEW5rHyUselJMfAvi8GC2) | 4:10 |
+| 43 | [Lessons](https://open.spotify.com/track/12tRRP8jnBGOc3eQMFpcxk) | [WIZRD](https://open.spotify.com/artist/1PJytjaK6elVRZ7ZI3u3lr) | [Seasons](https://open.spotify.com/album/22TcmPpJuX1tOlSw4fheP8) | 4:10 |
 | 44 | [Sweater Weather](https://open.spotify.com/track/67PW34NuiTcwvLJzTHJF5k) | [Desmond Jones](https://open.spotify.com/artist/0UU2zglZ7Rk4v2FIY9OMOv) | [Rays of Light and Stardust](https://open.spotify.com/album/4ILXLVxldlo4VkvJNQz09S) | 3:49 |
 | 45 | [Time Dilates](https://open.spotify.com/track/2rGANn1EnbCGUC0oftuwW9) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [Time Dilates](https://open.spotify.com/album/6fPbxh0gX0GZl4Ppy8pJ29) | 5:21 |
 | 46 | [Take Me As I Am](https://open.spotify.com/track/2HZzxtk4Ga04QeYte04a5k) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: III\. The Fall](https://open.spotify.com/album/0aECZpYeuCAdKUcsngk3VV) | 5:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 99 | [Enjoy the Ride](https://open.spotify.com/track/4EAZKkjcKYdjm2Ms0cL1Mm) | [The Jauntee](https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN) | [Enjoy the Ride](https://open.spotify.com/album/5CfoFSPM4KCVjS6MbIEDZr) | 6:23 |
 | 100 | [Shahryar's Rage](https://open.spotify.com/track/0EFnmJtuoxXxByPABDAzA5) | [The Heavy Pets](https://open.spotify.com/artist/3Olk7pmwmVS6GxinoMMYol) | [Strawberry Mansion](https://open.spotify.com/album/1thNTCmjYa3DbaxP1uvrGt) | 5:11 |
 
-Snapshot ID: `MCwyNWQ5MjVmNTA5YTdjNjYyNzkzMDg5ZWUyYmNkMzNlYmM5ZDFhZTA5`
+Snapshot ID: `MCxhOGJkNGRhYmE1YTRhZTI5ZjAzZWFmMjJjMTIwNzNkOTgyNWYxZmE2`

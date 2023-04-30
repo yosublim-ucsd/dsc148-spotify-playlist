@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Tyler Bryant & the Shakedown
 
-209 songs - 13 hr 7 min
+214 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Alright](https://open.spotify.com/track/5h30PUy2sOIFysmZmCGlMK) | [Dirty Streets](https://open.spotify.com/artist/34iizXl7oXappF8Fpl27ST) | [Alright](https://open.spotify.com/album/1rV0bbF8kXoT2xrEBUbTgX) | 2:55 | 2022-04-29 |  |
 | [Any Way the Wind Blows](https://open.spotify.com/track/7rYi1fmfdWnC2dZJ3acnoW) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [WAYS](https://open.spotify.com/album/061tBOltEwYjdHA9zKpC0m) | 3:01 | 2020-10-16 | 2023-03-04 |
 | [Are You](https://open.spotify.com/track/32xYsLJbczsr2s4aR0Snft) | [The Delta Saints](https://open.spotify.com/artist/5vCQg5Rpc7l4cPDRuR7Hdz) | [Are You](https://open.spotify.com/album/4Chn5PYIqtpsD3LD1SjB8s) | 3:40 | 2020-10-16 |  |
-| [Baby Blue](https://open.spotify.com/track/7syfhu9aBNf1pm0X3PPnkp) | [Gyasi](https://open.spotify.com/artist/58hf5laRpsJcrGFitleHuj) | [Baby Blue](https://open.spotify.com/album/4voq4iXsadEaw7fAq6JRAV) | 3:23 | 2023-02-17 |  |
+| [Baby Blue](https://open.spotify.com/track/4BsPswOqGrJhsUzdCVTPN0) | [Gyasi](https://open.spotify.com/artist/58hf5laRpsJcrGFitleHuj) | [Baby Blue](https://open.spotify.com/album/72LtE1jP5PNPVBGmoXUnXo) | 3:23 | 2023-03-03 |  |
+| [Baby Blue](https://open.spotify.com/track/7syfhu9aBNf1pm0X3PPnkp) | [Gyasi](https://open.spotify.com/artist/58hf5laRpsJcrGFitleHuj) | [Baby Blue](https://open.spotify.com/album/4voq4iXsadEaw7fAq6JRAV) | 3:23 | 2023-02-17 | 2023-04-30 |
 | [Back to the Good](https://open.spotify.com/track/5lJeApjTsFOmSb0Q3iCmQs) | [Chris Antonik](https://open.spotify.com/artist/55m5gPmPkNV7Ztg6vBDcvD) | [Morningstar](https://open.spotify.com/album/5ON1Hg65ctPjcsaoFfm52F) | 4:13 | 2022-08-12 |  |
 | [Bad Spell](https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:15 | 2023-04-25 |  |
 | [Ball And Chain](https://open.spotify.com/track/0QQIcQzNDvqgiVhIpIQegS) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Ball And Chain](https://open.spotify.com/album/4d4u7hmfuqvEmuXEQXONnk) | 5:04 | 2021-04-09 | 2022-07-29 |
@@ -27,7 +28,8 @@
 | [Between Me and the Devil](https://open.spotify.com/track/3psWJDKW0A50XiCdqg4HVK) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Between Me and the Devil](https://open.spotify.com/album/2LElrhEghTn9zIJXhEer3z) | 3:08 | 2021-06-11 |  |
 | [Black Magic](https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [By Default](https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn) | 2:48 | 2020-10-16 |  |
 | [Black Roses](https://open.spotify.com/track/5uiW9HcD9edXu2Gk65v9pj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Road To Redemption](https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ) | 5:01 | 2022-10-21 |  |
-| [Black Speakers](https://open.spotify.com/track/33ybiYIMl7PwGLZz0bETGy) | [Datura4](https://open.spotify.com/artist/3mA3sO1zseVtFQ56oqlJYk) | [Black Speakers](https://open.spotify.com/album/3qFMig0PZVFxzrh9z6M8hm) | 4:24 | 2022-08-26 |  |
+| [Black Speakers](https://open.spotify.com/track/1nsSAObs1qdg5cRtzS9qCm) | [Datura4](https://open.spotify.com/artist/3mA3sO1zseVtFQ56oqlJYk) | [Neanderthal Jam](https://open.spotify.com/album/11ILTtRztjMJLorRziNAkI) | 4:24 | 2022-08-26 |  |
+| [Black Speakers](https://open.spotify.com/track/33ybiYIMl7PwGLZz0bETGy) | [Datura4](https://open.spotify.com/artist/3mA3sO1zseVtFQ56oqlJYk) | [Black Speakers](https://open.spotify.com/album/3qFMig0PZVFxzrh9z6M8hm) | 4:24 | 2022-08-26 | 2023-04-30 |
 | [Blinded](https://open.spotify.com/track/027LnYtc3AvNAtEPVljiRB) | [Dirty Streets](https://open.spotify.com/artist/34iizXl7oXappF8Fpl27ST) | [Blinded](https://open.spotify.com/album/5UR9aMOqwtsE6usHfRxMsW) | 2:50 | 2021-10-08 | 2022-07-27 |
 | [Blue Sky](https://open.spotify.com/track/0hYTpOC7TJOZXbwB6ICKw3) | [Aranda](https://open.spotify.com/artist/6l0DPGloCYFvs6dM7Y8Wmw) | [Blue Sky](https://open.spotify.com/album/2KUwhFMUmvRLG1muibvI4r) | 3:31 | 2021-10-22 |  |
 | [Bomb Through the Breeze](https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Hannah Wicklund & The Steppin Stones](https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74) | 2:44 | 2020-10-16 |  |
@@ -38,7 +40,8 @@
 | [Chevrolet](https://open.spotify.com/track/4icURV4pUCDz0C3T5n4fzk) | [Sass Jordan](https://open.spotify.com/artist/5s2RlLSGQMDvvQcv3dYtAB) | [Chevrolet](https://open.spotify.com/album/50AUhOEi0tTqeVGBuW9VMh) | 2:29 | 2022-05-20 | 2022-06-11 |
 | [Click Click Domino \(feat\. Marcus King\)](https://open.spotify.com/track/5SefpS9fNKmduJWxxqH0tA) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Click Click Domino \(feat\. Marcus King\)](https://open.spotify.com/album/13MDxehHydYbrlS2bMTj2t) | 3:23 | 2021-03-05 |  |
 | [Come For Me](https://open.spotify.com/track/5jWtYVhn2LW98F8VyN91Nj) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Come For Me](https://open.spotify.com/album/78654KgIrmbYl7BlulKAOS) | 3:29 | 2022-11-18 |  |
-| [Come On](https://open.spotify.com/track/7m1a5EhEx1qA4fWSqRLvaO) | [Artur Menezes](https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Come On](https://open.spotify.com/album/5UItOyIYBjcLlCESGf9fDX) | 3:45 | 2020-10-16 |  |
+| [Come On](https://open.spotify.com/track/5pqBru8D3AFDmbTiCCLdDi) | [Artur Menezes](https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Fading Away](https://open.spotify.com/album/0Y2F59RRop0f41p7rTFwQS) | 3:45 | 2021-04-09 |  |
+| [Come On](https://open.spotify.com/track/7m1a5EhEx1qA4fWSqRLvaO) | [Artur Menezes](https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Come On](https://open.spotify.com/album/5UItOyIYBjcLlCESGf9fDX) | 3:45 | 2020-10-16 | 2023-04-30 |
 | [Corner Store](https://open.spotify.com/track/5IwNIDv4zcC3jCbVIOFYvU) | [Ries Brothers](https://open.spotify.com/artist/3n5TbZCCU3rnDcDy5n49nG) | [Corner Store](https://open.spotify.com/album/1CvLJhUtVluGc4ujgPbEQb) | 2:43 | 2022-07-15 |  |
 | [Crawling Kingsnake \- Edit](https://open.spotify.com/track/1JM1iGpu8HqprmrKi1ukuP) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 3:52 | 2021-04-16 |  |
 | [Crawling Kingsnake \- Edit](https://open.spotify.com/track/6ReF4Cn3aG4ehqC4NdrLrV) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Crawling Kingsnake](https://open.spotify.com/album/2nK8Pcq0cWqWC0lPapfEcL) | 3:52 | 2021-04-16 | 2022-07-29 |
@@ -183,8 +186,10 @@
 | [The Drop](https://open.spotify.com/track/4QDU4Wr9Jp0CRV2SaslhGv) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Ones to Keep Close](https://open.spotify.com/album/7v3pyxWeamgw2yhPj40CB0) | 3:16 | 2020-10-16 | 2023-03-04 |
 | [The Fighter](https://open.spotify.com/track/6P4peUgiAimtvhWWxLlDg3) | [Simon McBride](https://open.spotify.com/artist/4S2kddUZy77NYpLH50f3qC) | [The Fighter](https://open.spotify.com/album/1JMIEYKIxNWLqSKxGLKtxv) | 4:20 | 2021-12-17 | 2023-04-01 |
 | [The Heat](https://open.spotify.com/track/0XEUKN8CnHAKNmWmK1FG0d) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Spirit's Furnace](https://open.spotify.com/album/3cQWEV1dkuOosKa2EJNaxj) | 3:14 | 2020-10-16 |  |
-| [The Mould](https://open.spotify.com/track/1jPljtqOC6hH1imHy4NcLy) | [El Perro](https://open.spotify.com/artist/3Y9wKuwj8yuwt1EhIUxGDG) | [Hair Of](https://open.spotify.com/album/2bREEW7AtYFG8yZLr6M0N7) | 3:59 | 2022-06-03 |  |
-| [The Waltz](https://open.spotify.com/track/4WcFtmdPfCKal88DL3emL4) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [Shake and Bake](https://open.spotify.com/album/2SvkGae4Chwgj44HiDW2yi) | 5:28 | 2020-10-16 |  |
+| [The Mould](https://open.spotify.com/track/1jPljtqOC6hH1imHy4NcLy) | [El Perro](https://open.spotify.com/artist/3Y9wKuwj8yuwt1EhIUxGDG) | [Hair Of](https://open.spotify.com/album/2bREEW7AtYFG8yZLr6M0N7) | 3:59 | 2022-06-03 | 2023-04-30 |
+| [The Mould](https://open.spotify.com/track/5DWagsDtyFGdUSD2EM0dBQ) | [El Perro](https://open.spotify.com/artist/3Y9wKuwj8yuwt1EhIUxGDG) | [Hair Of](https://open.spotify.com/album/0F2pZYTsXZ5nWdSuFtTu1Y) | 3:59 | 2022-06-10 |  |
+| [The Waltz](https://open.spotify.com/track/2tj88oEKcx7CXtqsGI8KWy) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [Shake and Bake](https://open.spotify.com/album/2ITas01lzZe2kVZ1YYBZr8) | 5:28 | 2020-10-16 |  |
+| [The Waltz](https://open.spotify.com/track/4WcFtmdPfCKal88DL3emL4) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [Shake and Bake](https://open.spotify.com/album/2SvkGae4Chwgj44HiDW2yi) | 5:28 | 2020-10-16 | 2023-04-30 |
 | [Them Shoes](https://open.spotify.com/track/1oADNvkLEOm7hvyxffDRjn) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Every Hour Is A Dollar Gone](https://open.spotify.com/album/7wFVw2lcWdzLIlNESYUNFX) | 5:48 | 2020-10-16 |  |
 | [Them Shoes](https://open.spotify.com/track/4WeeCdOInoH5HyO8xcxiAt) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Every Hour Is A Dollar Gone](https://open.spotify.com/album/6sgZ7yq8F0HZ1xmdgQrcJP) | 5:48 | 2020-10-16 | 2023-04-29 |
 | [Them That Matter Don't Mind](https://open.spotify.com/track/078Ubk0ej7JTAph4R6NZbJ) | [Rehab](https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS) | [Sand Castles](https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr) | 2:49 | 2021-11-19 |  |

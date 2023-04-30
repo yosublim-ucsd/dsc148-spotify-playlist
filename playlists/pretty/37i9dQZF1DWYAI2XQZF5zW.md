@@ -10,7 +10,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAI2XQZF5zW.md) - [plain]
 |---|---|---|---|---|
 | 1 | [Stalag 17](https://open.spotify.com/track/4AZ3e2OdN8kWk0q5oVF3dl) | [Ansel Collins](https://open.spotify.com/artist/0IH1Rx8zeWyZLVrBloZp1Q) | [Double Barrel \- The Best of Dave & Ansel Collins](https://open.spotify.com/album/0i2pbEHt0qGGjTCcrJdVXf) | 2:59 |
 | 2 | [It Mek](https://open.spotify.com/track/4UjAUBivCvCFc5La3N4FS2) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [ACES](https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 2:33 |
-| 3 | [Till Then](https://open.spotify.com/track/7IEaxDFdRJyEpKVYV6iAds) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Nothing More to Say](https://open.spotify.com/album/2QjhLePTnaWv2eBUbCwceA) | 3:21 |
+| 3 | [Till Then](https://open.spotify.com/track/56o2Y7yCupDH4uqn4vayMc) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Nothing More to Say](https://open.spotify.com/album/5oGtxusqxowETVnVokdqME) | 3:21 |
 | 4 | [Take Five](https://open.spotify.com/track/0t0F3Qyt3kKFU7rGxKa02t) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [Dub Reggae](https://open.spotify.com/album/5c1GnEPAEjvyqqhV7mSkjS) | 3:38 |
 | 5 | [Lights Out](https://open.spotify.com/track/07kZfWFKcU7spoxuTEudtS) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Reggae Gold 2019](https://open.spotify.com/album/5cfZ5mWTwZwyzSSgDeiFN6) | 3:23 |
 | 6 | [Made To Fall In Love](https://open.spotify.com/track/2JKv3r2AUmWjrDFO3unlpq) | [Bitty McLean](https://open.spotify.com/artist/2t3eEaWiT5weaCJIh6aRv2), [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Reggae Gold 2019](https://open.spotify.com/album/5cfZ5mWTwZwyzSSgDeiFN6) | 3:44 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAI2XQZF5zW.md) - [plain]
 | 51 | [Red Sea Dub](https://open.spotify.com/track/1UowzBmHmTgvWW1kViLDLJ) | [Dub Syndicate](https://open.spotify.com/artist/4KIjA6Q0lA17xuBwA5KkW4) | [Displaced Masters](https://open.spotify.com/album/0WTyiC4nrGXraWRJIj4HLq) | 4:41 |
 | 52 | [It Mek](https://open.spotify.com/track/6JqjhpgxgoCYSBQ4PzIEn9) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [ACES](https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG) | [Intensified](https://open.spotify.com/album/1QRSVAqC4M1HQGb8P1B6Cy) | 2:32 |
 
-Snapshot ID: `MCwyYTc2MWE5NTU2OTFlZjllZTQ5NThmYjMxMDBhMjljOWYxZjYxMzU4`
+Snapshot ID: `MCwzMmMyMTZjZDA2NjhkZmUzNjRmZDk1YTdmYmVjZWIwODI0OTZiYWIx`

@@ -4,7 +4,7 @@
 
 > Come for the stew stay for the craic.
 
-77 songs - 4 hr 32 min
+78 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Dohertys \- Tommy Peoples](https://open.spotify.com/track/7sEWAVVxkWkFjWsSwoyeZg) | [Dave Munnelly](https://open.spotify.com/artist/31lWaf3NIsi9OuxxzNSdan) | [The Best of Celtic Music](https://open.spotify.com/album/0Zh8guxRaHMumyWy4ItnlB) | 3:02 | 2021-04-26 | 2022-11-13 |
 | [Dohertys \- Tommy Peoples](https://open.spotify.com/track/0R1WxTxMg6TBThTf2oGpG0) | [Dave Munnelly](https://open.spotify.com/artist/31lWaf3NIsi9OuxxzNSdan), [Philip Masure](https://open.spotify.com/artist/1yECnWiTLdHIA2rsSlyf9F), [Patrick Michiels](https://open.spotify.com/artist/2yPQ0mHaVOSikKAtmxws1N), [Kieran Fahy](https://open.spotify.com/artist/0sd7XiFafnq1L8hm0xpmnF) | [Kieran Fahy: Irish Fiddle \- Man From the West](https://open.spotify.com/album/3qiNV2ylg4Kif4DCML9FCo) | 3:02 | 2021-04-26 | 2023-03-27 |
 | [Dohertys \- Tommy Peoples](https://open.spotify.com/track/3hQb0GZC2v6wipL51lNUuh) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Dave Munnelly](https://open.spotify.com/artist/31lWaf3NIsi9OuxxzNSdan), [Philip Masure](https://open.spotify.com/artist/1yECnWiTLdHIA2rsSlyf9F), [Patrick Michiels](https://open.spotify.com/artist/2yPQ0mHaVOSikKAtmxws1N), [Kieran Fahy](https://open.spotify.com/artist/0sd7XiFafnq1L8hm0xpmnF) | [Kieran Fahy: Irish Fiddle \- Man From the West](https://open.spotify.com/album/55Ls12X6vikPEmzZJ4qjAe) | 3:02 | 2021-04-26 |  |
-| [Dublin in the Rare Old Times](https://open.spotify.com/track/6cUmT8gumNhb2Y9GOghnmh) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV) | [20 Best Irish Songs](https://open.spotify.com/album/6wyX3vo0E5pKCKaRECy0SQ) | 4:24 | 2021-04-26 |  |
+| [Dublin in the Rare Old Times](https://open.spotify.com/track/6cUmT8gumNhb2Y9GOghnmh) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV) | [20 Best Irish Songs](https://open.spotify.com/album/6wyX3vo0E5pKCKaRECy0SQ) | 4:24 | 2021-04-26 | 2023-04-30 |
 | [Follow Me Up To Carlow](https://open.spotify.com/track/2b6ulXSZpOwY7kwm6qKzQw) | [Planxty](https://open.spotify.com/artist/15EMC4BhBrkCPwIxCfuY9c) | [Planxty](https://open.spotify.com/album/43TF1LRa7kmO7XzJmWcehP) | 2:24 | 2021-04-26 |  |
 | [Galway Bay](https://open.spotify.com/track/6XqzrUnvg1hqOAqIuVQHhY) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV) | [Noel Mcloughlin: Ireland](https://open.spotify.com/album/0qfxcep6yTL2PPHta6CGwf) | 3:18 | 2021-04-26 |  |
 | [Handsome Molly](https://open.spotify.com/track/6na8yhbibdnCNDiQwq1yCF) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 3:09 | 2021-04-26 |  |
@@ -53,6 +53,7 @@
 | [The Black Velvet Band](https://open.spotify.com/track/3p9Bw4IitBaQYSoVbv9tED) | [The Dicey Rileys](https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD) | [The Craic Is Mighty](https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt) | 3:48 | 2021-04-26 |  |
 | [The Blight](https://open.spotify.com/track/5Ab2Ku6LljoUU9Sjnj2c2a) | [Johnny Duhan](https://open.spotify.com/artist/434bJTf7zzYAqnMhWNuAly) | [The Irishman's Finest Collection](https://open.spotify.com/album/2l7eOOqMJJfUHa7XZuWcNA) | 4:08 | 2021-04-26 | 2022-11-13 |
 | [The Blight](https://open.spotify.com/track/2QJUd682LU3QIOYWnBP5gZ) | [Johnny Duhan](https://open.spotify.com/artist/434bJTf7zzYAqnMhWNuAly) | [Flame](https://open.spotify.com/album/73ZcF7Q0qUhj1WQriTv8CC) | 4:11 | 2021-04-26 |  |
+| [The Boys of Killibegs](https://open.spotify.com/track/6D16cmDXBDSvs7V9IXkdYD) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV), [Noel McLoughlin Group](https://open.spotify.com/artist/3X06t2DWR44EmCpR0AX8gx) | [20 Best Irish Pub Songs](https://open.spotify.com/album/1bse1I86JVJ2edZUa55xXl) | 3:13 | 2021-04-26 |  |
 | [The Boys Of Killybegs](https://open.spotify.com/track/5wx96xHutiQKQ8z97kbrDZ) | [Brier](https://open.spotify.com/artist/58jVaCeVhiCSoeZvpsN5vM) | [Sick Note](https://open.spotify.com/album/0SyZ9hy37scVfcQvnNuWRT) | 2:32 | 2021-04-26 |  |
 | [The Bright Side of the Moon](https://open.spotify.com/track/4Mz9saLVP35oxyLpizLIq5) | [Cyril O Donoghue](https://open.spotify.com/artist/6WBavOkLualW4j6VU1orFR) | [Irish Folk At Its Best](https://open.spotify.com/album/6l1hq6H7ivCIntkIj24Diz) | 3:47 | 2021-04-26 |  |
 | [The Cap and Bells / The Frost Is All Over](https://open.spotify.com/track/61zkyIkZwG6UTAbbNg97zU) | [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o), [Ronan Browne](https://open.spotify.com/artist/2XDpVHvfdJtLmueBOVcjv1), [Kevin Glackin](https://open.spotify.com/artist/14uWK6VmfxYwQfJNQxqqEP), [Fergus Feely](https://open.spotify.com/artist/5rJeESCXormtjuqBHmE9ni) | [Ireland: Tales of Our Land](https://open.spotify.com/album/12ONIVbXNBgohGnGYqP0KF) | 5:29 | 2021-04-26 | 2022-11-13 |

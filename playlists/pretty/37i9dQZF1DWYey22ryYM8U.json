@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: Becky G & Omega",
-  "num_followers": 590840,
+  "num_followers": 590939,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjUwYmQ2ZjJlNzZhYTc0MzhjOGQ2NjJhNGZhMDRmM2ZiMDQxZTA3",
+  "snapshot_id": "MCw1Y2I0Yzk5ZmY5ZWZhMjE1ZTc5ZGQ3ODBhYTBiOWM3ZWM3OWVjYWEx",
   "tracks": [
     {
       "added_at": "2023-04-13 22:50:37",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-04-13 22:50:37",
       "album": {
+        "name": "Literal",
+        "url": "https://open.spotify.com/album/4jt7MDWCNhXZ09bU03NGgk"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "L\u00e1mpara Pa' Mis Pies",
+      "url": "https://open.spotify.com/track/0UnJphaDGpljP59lXRMaiE"
+    },
+    {
+      "added_at": "2023-04-13 22:50:37",
+      "album": {
         "name": "Otra Noche",
         "url": "https://open.spotify.com/album/202ZNK1Xpb0r72VyHsz23L"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 199120,
       "name": "Otra Noche",
       "url": "https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX"
-    },
-    {
-      "added_at": "2023-04-13 22:50:37",
-      "album": {
-        "name": "Literal",
-        "url": "https://open.spotify.com/album/4jt7MDWCNhXZ09bU03NGgk"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "L\u00e1mpara Pa' Mis Pies",
-      "url": "https://open.spotify.com/track/0UnJphaDGpljP59lXRMaiE"
     },
     {
       "added_at": "2023-04-13 22:50:37",
@@ -1495,22 +1495,50 @@
     {
       "added_at": "2023-04-13 22:50:37",
       "album": {
-        "name": "Nubes Negras",
-        "url": "https://open.spotify.com/album/011TN0rPa3Kzv2TLpAh6Wl"
+        "name": "Epicentro",
+        "url": "https://open.spotify.com/album/61q0ScDkIeFdYXnrpEpfRf"
       },
       "artists": [
         {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+          "name": "Dale Pututi",
+          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
         },
         {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        },
+        {
+          "name": "Baby Lores",
+          "url": "https://open.spotify.com/artist/5xRtCPL9lt9Gp1HP4JhAkl"
+        },
+        {
+          "name": "Los 4",
+          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
+        },
+        {
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+        },
+        {
+          "name": "El Micha",
+          "url": "https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn"
+        },
+        {
+          "name": "Eddy K",
+          "url": "https://open.spotify.com/artist/6OEL2dR4ggFGWGhuQZAzy1"
+        },
+        {
+          "name": "El Chulo",
+          "url": "https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt"
         }
       ],
-      "duration_ms": 246224,
-      "name": "Nubes Negras",
-      "url": "https://open.spotify.com/track/4U7a6MMNOavmuNbpf0Xflb"
+      "duration_ms": 342932,
+      "name": "A Mi Manera",
+      "url": "https://open.spotify.com/track/54VYbUPPoGKGiM0ZJeNTFE"
     },
     {
       "added_at": "2023-04-13 22:50:37",
@@ -1571,50 +1599,22 @@
     {
       "added_at": "2023-04-13 22:50:37",
       "album": {
-        "name": "Epicentro",
-        "url": "https://open.spotify.com/album/61q0ScDkIeFdYXnrpEpfRf"
+        "name": "Nubes Negras",
+        "url": "https://open.spotify.com/album/011TN0rPa3Kzv2TLpAh6Wl"
       },
       "artists": [
         {
-          "name": "Dale Pututi",
-          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
         },
         {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        },
-        {
-          "name": "Jacob Forever",
-          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
-        },
-        {
-          "name": "Baby Lores",
-          "url": "https://open.spotify.com/artist/5xRtCPL9lt9Gp1HP4JhAkl"
-        },
-        {
-          "name": "Los 4",
-          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
-        },
-        {
-          "name": "El Chacal",
-          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
-        },
-        {
-          "name": "El Micha",
-          "url": "https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn"
-        },
-        {
-          "name": "Eddy K",
-          "url": "https://open.spotify.com/artist/6OEL2dR4ggFGWGhuQZAzy1"
-        },
-        {
-          "name": "El Chulo",
-          "url": "https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt"
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
         }
       ],
-      "duration_ms": 342932,
-      "name": "A Mi Manera",
-      "url": "https://open.spotify.com/track/54VYbUPPoGKGiM0ZJeNTFE"
+      "duration_ms": 246224,
+      "name": "Nubes Negras",
+      "url": "https://open.spotify.com/track/4U7a6MMNOavmuNbpf0Xflb"
     },
     {
       "added_at": "2023-04-13 22:50:37",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-04-13 22:50:37",
       "album": {
-        "name": "Los Recuerdos",
-        "url": "https://open.spotify.com/album/0xGbVhKSRFIzUFLDWsmJYV"
-      },
-      "artists": [
-        {
-          "name": "Zacarias Ferreira",
-          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "Los Recuerdos",
-      "url": "https://open.spotify.com/track/2huEu8faRAhs0OAtTa5hpH"
-    },
-    {
-      "added_at": "2023-04-13 22:50:37",
-      "album": {
         "name": "\u00bf Y Ahora Qu\u00e9 Hacemos?",
         "url": "https://open.spotify.com/album/3BuFuLP7IIPlu5GqORitBQ"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 298906,
       "name": "\u00bf Y Ahora Qu\u00e9 Hacemos?",
       "url": "https://open.spotify.com/track/3jOpw80FiCU3N49m1CV2zL"
+    },
+    {
+      "added_at": "2023-04-13 22:50:37",
+      "album": {
+        "name": "Los Recuerdos",
+        "url": "https://open.spotify.com/album/0xGbVhKSRFIzUFLDWsmJYV"
+      },
+      "artists": [
+        {
+          "name": "Zacarias Ferreira",
+          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "Los Recuerdos",
+      "url": "https://open.spotify.com/track/2huEu8faRAhs0OAtTa5hpH"
     },
     {
       "added_at": "2023-04-13 22:50:37",

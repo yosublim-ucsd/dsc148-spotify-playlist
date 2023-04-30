@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 236983,
       "name": "20 Somethin'",
       "url": "https://open.spotify.com/track/4lHPNTdXSUfsVMQk0nuP82"
@@ -608,7 +608,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 183978,
       "name": "Big in the USA",
       "url": "https://open.spotify.com/track/0tls7zg00mH4tv3OcBVDNU"
@@ -1980,6 +1980,24 @@
     {
       "album": {
         "name": "Tides of a Teardrop",
+        "url": "https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285786,
+      "name": "Golden Embers",
+      "url": "https://open.spotify.com/track/4OkKz8LhKo846kN3nncNZs"
+    },
+    {
+      "album": {
+        "name": "Tides of a Teardrop",
         "url": "https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs"
       },
       "artists": [
@@ -2260,7 +2278,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 170915,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/6kyUPFuPaaprlnKeVaQQMS"
@@ -2664,7 +2682,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 187491,
       "name": "Instant Cash for Gold",
       "url": "https://open.spotify.com/track/5KAiIOtmYxJlW6fIkgWWsH"
@@ -3724,7 +3742,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-24",
+      "date_removed": null,
       "duration_ms": 273333,
       "name": "Only an Island",
       "url": "https://open.spotify.com/track/0g1F7GCvtVXwMKuqhAnoBB"
@@ -4442,10 +4460,28 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 242254,
       "name": "Snakes and Waterfalls",
       "url": "https://open.spotify.com/track/684tjAMxT8Bdm7RSv6vgzC"
+    },
+    {
+      "album": {
+        "name": "Lonely Like Me",
+        "url": "https://open.spotify.com/album/2apvtGe2jSNLqT0vOJvwmf"
+      },
+      "artists": [
+        {
+          "name": "Nick Shoulders",
+          "url": "https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242254,
+      "name": "Snakes and Waterfalls",
+      "url": "https://open.spotify.com/track/6f3lNzsCCWKFWfAG4uuqpC"
     },
     {
       "album": {
@@ -4918,7 +4954,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 232124,
       "name": "TLC Cagematch",
       "url": "https://open.spotify.com/track/74gvi6fa10cGuSSpCWknMa"
@@ -5424,7 +5460,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 172868,
       "name": "Witness",
       "url": "https://open.spotify.com/track/3owPyyMaxY6KbcUPKcTuhl"

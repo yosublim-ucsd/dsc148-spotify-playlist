@@ -788,10 +788,28 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 307382,
       "name": "If Blue Could Be Happiness",
       "url": "https://open.spotify.com/track/7ANZJD6wzlHplIIA7AjsUx"
+    },
+    {
+      "album": {
+        "name": "If Blue Could Be Happiness",
+        "url": "https://open.spotify.com/album/0EB4zV2Vfi0FeM6jZNOO87"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307382,
+      "name": "If Blue Could Be Happiness",
+      "url": "https://open.spotify.com/track/7vyUxfyXy90lx5Yppudtrb"
     },
     {
       "album": {
@@ -1734,10 +1752,28 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 217360,
       "name": "This Time Around",
       "url": "https://open.spotify.com/track/295AV2PI6PUduX585IekdQ"
+    },
+    {
+      "album": {
+        "name": "Quiet Signs",
+        "url": "https://open.spotify.com/album/6gfh7DsfwxpZkRcPZo75M1"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217360,
+      "name": "This Time Around",
+      "url": "https://open.spotify.com/track/5KFa7aO49TOsH8zfMarw6N"
     },
     {
       "album": {
@@ -1908,7 +1944,7 @@
     {
       "album": {
         "name": "Blindfaller",
-        "url": "https://open.spotify.com/album/2Ww7LYiKIxQUhLyiXtlppZ"
+        "url": "https://open.spotify.com/album/3CwgFOEB6g9vfADfAcYaIL"
       },
       "artists": [
         {
@@ -1919,6 +1955,24 @@
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 329893,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/0EIS2zaB3aQGtKOvzrodOU"
+    },
+    {
+      "album": {
+        "name": "Blindfaller",
+        "url": "https://open.spotify.com/album/2Ww7LYiKIxQUhLyiXtlppZ"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 329893,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/6VfY0sgS4j4JpFQH8kk4XA"

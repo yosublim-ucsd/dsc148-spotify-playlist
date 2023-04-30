@@ -1,12 +1,12 @@
 {
   "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. Grandbrothers on cover.",
-  "num_followers": 149120,
+  "num_followers": 149218,
   "original_name": "Ambiente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWFlOWEwYzI4OGZmYzI5NWE0NGVmNmQ2NmQzZmEzMDRjYmIxOGU1",
+  "snapshot_id": "MCxhOGMzZWU4OWU5MTgxM2YzNjI4NGUyMDNkNWY4ODI0ZjQ0YTI3Yjg0",
   "tracks": [
     {
       "added_at": "2023-04-28 19:20:32",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-04-28 19:20:32",
       "album": {
+        "name": "No Highs",
+        "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 155472,
+      "name": "Winter Cop",
+      "url": "https://open.spotify.com/track/5fK31V4Icpc46SpNQkwtv3"
+    },
+    {
+      "added_at": "2023-04-28 19:20:32",
+      "album": {
         "name": "sweet nothings",
         "url": "https://open.spotify.com/album/0aRSkBysa3PHcNQbKkfDBt"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 151276,
       "name": "ur my safe place",
       "url": "https://open.spotify.com/track/58RZwI0FcNW7pvyEf4Fxhu"
-    },
-    {
-      "added_at": "2023-04-28 19:20:32",
-      "album": {
-        "name": "No Highs",
-        "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 155472,
-      "name": "Winter Cop",
-      "url": "https://open.spotify.com/track/5fK31V4Icpc46SpNQkwtv3"
     },
     {
       "added_at": "2023-04-28 19:20:32",
@@ -983,22 +983,22 @@
     {
       "added_at": "2023-04-28 19:20:32",
       "album": {
-        "name": "Receiving",
-        "url": "https://open.spotify.com/album/0UENXvfeFXBs70PjI5DGY0"
+        "name": "everybody's gone home (florence slowed version)",
+        "url": "https://open.spotify.com/album/2y6UfCHwkqPap0k9HuR3tq"
       },
       "artists": [
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+          "name": "MADEBYGODES",
+          "url": "https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc"
         },
         {
-          "name": "Laraaji",
-          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+          "name": "Sedogy Bedam",
+          "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
         }
       ],
-      "duration_ms": 427266,
-      "name": "Receiving",
-      "url": "https://open.spotify.com/track/2G1GDfDZtPMAOH2JXC3t1r"
+      "duration_ms": 171072,
+      "name": "everybody's gone home (florence slowed version)",
+      "url": "https://open.spotify.com/track/722gImw27YEj0Mda9wbabK"
     },
     {
       "added_at": "2023-04-28 19:20:32",
@@ -1019,22 +1019,22 @@
     {
       "added_at": "2023-04-28 19:20:32",
       "album": {
-        "name": "everybody's gone home (florence slowed version)",
-        "url": "https://open.spotify.com/album/2y6UfCHwkqPap0k9HuR3tq"
+        "name": "Receiving",
+        "url": "https://open.spotify.com/album/0UENXvfeFXBs70PjI5DGY0"
       },
       "artists": [
         {
-          "name": "MADEBYGODES",
-          "url": "https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc"
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
         },
         {
-          "name": "Sedogy Bedam",
-          "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
+          "name": "Laraaji",
+          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
         }
       ],
-      "duration_ms": 171072,
-      "name": "everybody's gone home (florence slowed version)",
-      "url": "https://open.spotify.com/track/722gImw27YEj0Mda9wbabK"
+      "duration_ms": 427266,
+      "name": "Receiving",
+      "url": "https://open.spotify.com/track/2G1GDfDZtPMAOH2JXC3t1r"
     },
     {
       "added_at": "2023-04-28 19:20:32",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-04-28 19:20:32",
       "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
-      },
-      "artists": [
-        {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
-        }
-      ],
-      "duration_ms": 447000,
-      "name": "25\u00b0C",
-      "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
-    },
-    {
-      "added_at": "2023-04-28 19:20:32",
-      "album": {
         "name": "Our True Nature",
         "url": "https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 343666,
       "name": "Abandoned Places",
       "url": "https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB"
+    },
+    {
+      "added_at": "2023-04-28 19:20:32",
+      "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 447000,
+      "name": "25\u00b0C",
+      "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
     },
     {
       "added_at": "2023-04-28 19:20:32",
@@ -1407,38 +1407,6 @@
     {
       "added_at": "2023-04-28 19:20:32",
       "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
-      },
-      "artists": [
-        {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "6\u00b0C",
-      "url": "https://open.spotify.com/track/36FLUMvwp2rnUPUmznUVoi"
-    },
-    {
-      "added_at": "2023-04-28 19:20:32",
-      "album": {
-        "name": "Solar Winds",
-        "url": "https://open.spotify.com/album/3h6sOEyEuusliYvaxoEcWU"
-      },
-      "artists": [
-        {
-          "name": "Retland",
-          "url": "https://open.spotify.com/artist/3dIuop1jVvVHVqOdB7mDMj"
-        }
-      ],
-      "duration_ms": 254333,
-      "name": "Solar Winds",
-      "url": "https://open.spotify.com/track/5rDCZp2N2REO0ICjB5dVNt"
-    },
-    {
-      "added_at": "2023-04-28 19:20:32",
-      "album": {
         "name": "See-Through",
         "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
       },
@@ -1471,6 +1439,22 @@
     {
       "added_at": "2023-04-28 19:20:32",
       "album": {
+        "name": "Solar Winds",
+        "url": "https://open.spotify.com/album/3h6sOEyEuusliYvaxoEcWU"
+      },
+      "artists": [
+        {
+          "name": "Retland",
+          "url": "https://open.spotify.com/artist/3dIuop1jVvVHVqOdB7mDMj"
+        }
+      ],
+      "duration_ms": 254333,
+      "name": "Solar Winds",
+      "url": "https://open.spotify.com/track/5rDCZp2N2REO0ICjB5dVNt"
+    },
+    {
+      "added_at": "2023-04-28 19:20:32",
+      "album": {
         "name": "Mesmerising Waves",
         "url": "https://open.spotify.com/album/5UVbMTGLR7YZHyqqhB5bVt"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 117775,
       "name": "Mesmerising Waves",
       "url": "https://open.spotify.com/track/3xXFRBuzJysZwZ8h2ljVGz"
+    },
+    {
+      "added_at": "2023-04-28 19:20:32",
+      "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "6\u00b0C",
+      "url": "https://open.spotify.com/track/36FLUMvwp2rnUPUmznUVoi"
     },
     {
       "added_at": "2023-04-28 19:20:32",
@@ -1519,22 +1519,6 @@
       "duration_ms": 169151,
       "name": "Being Still - Ambient",
       "url": "https://open.spotify.com/track/0055MEXiMEoiQX9i1RvVof"
-    },
-    {
-      "added_at": "2023-04-28 19:20:32",
-      "album": {
-        "name": "exosphere",
-        "url": "https://open.spotify.com/album/2kOlNHnx37eLBwMGNsCqtP"
-      },
-      "artists": [
-        {
-          "name": "Be Still the Earth",
-          "url": "https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6"
-        }
-      ],
-      "duration_ms": 200250,
-      "name": "exosphere",
-      "url": "https://open.spotify.com/track/4YzJX0cfKt0Y3X5qBCGVwX"
     },
     {
       "added_at": "2023-04-28 19:20:32",
@@ -1595,6 +1579,22 @@
       "duration_ms": 212192,
       "name": "Library Fields",
       "url": "https://open.spotify.com/track/0bsLE7cI3RNuodCnDL64YU"
+    },
+    {
+      "added_at": "2023-04-28 19:20:32",
+      "album": {
+        "name": "exosphere",
+        "url": "https://open.spotify.com/album/2kOlNHnx37eLBwMGNsCqtP"
+      },
+      "artists": [
+        {
+          "name": "Be Still the Earth",
+          "url": "https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6"
+        }
+      ],
+      "duration_ms": 200250,
+      "name": "exosphere",
+      "url": "https://open.spotify.com/track/4YzJX0cfKt0Y3X5qBCGVwX"
     },
     {
       "added_at": "2023-04-28 19:20:32",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2023-04-28 19:20:32",
       "album": {
+        "name": "Nocturne 4 (Alva Noto Remodel)",
+        "url": "https://open.spotify.com/album/25cK5Tq2V5hM6SegYu9YGO"
+      },
+      "artists": [
+        {
+          "name": "Craig Armstrong",
+          "url": "https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO"
+        }
+      ],
+      "duration_ms": 400846,
+      "name": "Nocturne 4 - Alva Noto Remodel",
+      "url": "https://open.spotify.com/track/6FaTmzirRRd7OAJ6RyZeeK"
+    },
+    {
+      "added_at": "2023-04-28 19:20:32",
+      "album": {
         "name": "Invisible Cities",
         "url": "https://open.spotify.com/album/5jZGc1A6FrsN8qssSxxTce"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 286961,
       "name": "So That The City Can Begin To Exist",
       "url": "https://open.spotify.com/track/5EaAEXfa0YHt4wf0r3O0ua"
-    },
-    {
-      "added_at": "2023-04-28 19:20:32",
-      "album": {
-        "name": "Nocturne 4 (Alva Noto Remodel)",
-        "url": "https://open.spotify.com/album/25cK5Tq2V5hM6SegYu9YGO"
-      },
-      "artists": [
-        {
-          "name": "Craig Armstrong",
-          "url": "https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO"
-        }
-      ],
-      "duration_ms": 400846,
-      "name": "Nocturne 4 - Alva Noto Remodel",
-      "url": "https://open.spotify.com/track/6FaTmzirRRd7OAJ6RyZeeK"
     },
     {
       "added_at": "2023-04-28 19:20:32",

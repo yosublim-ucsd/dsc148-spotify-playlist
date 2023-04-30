@@ -880,10 +880,32 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 200287,
       "name": "METAL",
       "url": "https://open.spotify.com/track/4hIg0iMpVYES8yptTj7Y5I"
+    },
+    {
+      "album": {
+        "name": "CHEETAH BEND",
+        "url": "https://open.spotify.com/album/2kVNzMqVeQItTdeebUtWnb"
+      },
+      "artists": [
+        {
+          "name": "JIMMY EDGAR",
+          "url": "https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M"
+        },
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200287,
+      "name": "METAL",
+      "url": "https://open.spotify.com/track/7afPjxQevZSbFzo77zDO2G"
     },
     {
       "album": {

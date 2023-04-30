@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZlwhy05h4Og.md) - [plain]
 
 > The sweetest bops\. Cover: aespa
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,960 likes - 72 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,037 likes - 72 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZlwhy05h4Og.md) - [plain]
 | 71 | [Potential Breakup Song](https://open.spotify.com/track/6fyzsHCwnt8oL4XgGIMrdN) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Potential Breakup Song](https://open.spotify.com/album/49mFTJkOKu0labagCQyURy) | 3:38 |
 | 72 | [Touch](https://open.spotify.com/track/1gG5MoWK5SmHUcQPa2jxdP) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 3:33 |
 
-Snapshot ID: `MCwxOWJjMzcxMWQ5Y2Y1YmE4ZjI2NzkyNDEwYjcyZTY1Nzk2Y2JjYTE5`
+Snapshot ID: `MCw5NTNkOTZhYmUxMGQzZGEwZTM3ZGQwMDIyYmRhN2NmZTg4MDBiM2Nk`

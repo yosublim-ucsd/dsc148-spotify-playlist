@@ -1,12 +1,12 @@
 {
   "description": "Not your manic pixie dream girl, just twee af. Cover: Zooey Deschanel",
-  "num_followers": 95140,
+  "num_followers": 95405,
   "original_name": "Twee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTQyMjljYzI3ODZiNDQwODFjODE1NTc3ODAyYTZmNjRkZWU4M2I5",
+  "snapshot_id": "MCxhYTk1YWZhZGRiNTdiMDhlOWRjNTQ4Y2ZiY2MyNDkyOGQwOWVmNjhm",
   "tracks": [
     {
       "added_at": "2023-03-14 21:50:42",
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/2UWdUez9MB9yzL7Y81Mcip"
     },
     {
-      "added_at": "2023-04-29 00:58:00",
+      "added_at": "2023-04-30 01:05:21",
       "album": {
         "name": "First Band On The Moon (Remastered)",
         "url": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ"
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "In the Aeroplane Over the Sea",
-        "url": "https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob"
-      },
-      "artists": [
-        {
-          "name": "Neutral Milk Hotel",
-          "url": "https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie"
-        }
-      ],
-      "duration_ms": 202346,
-      "name": "In the Aeroplane Over the Sea",
-      "url": "https://open.spotify.com/track/5rfT032kGmLvbxZzfHlu5D"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
         "name": "Wincing The Night Away",
         "url": "https://open.spotify.com/album/4Tm0dXi3s3aSAqng2DACHr"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 236711,
       "name": "Australia",
       "url": "https://open.spotify.com/track/47TQjzeG4KI0XWWb0wkbri"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
+        "name": "In the Aeroplane Over the Sea",
+        "url": "https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob"
+      },
+      "artists": [
+        {
+          "name": "Neutral Milk Hotel",
+          "url": "https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie"
+        }
+      ],
+      "duration_ms": 202346,
+      "name": "In the Aeroplane Over the Sea",
+      "url": "https://open.spotify.com/track/5rfT032kGmLvbxZzfHlu5D"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Transatlanticism (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 219266,
-      "name": "Title and Registration",
-      "url": "https://open.spotify.com/track/0hgEsoAu23ap8V5GFX9Y3i"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
         "name": "69 Love Songs",
         "url": "https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7"
       },
@@ -979,22 +963,6 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Torch Song",
-        "url": "https://open.spotify.com/album/6droeVoJ4xuxhzLT1FBGgu"
-      },
-      "artists": [
-        {
-          "name": "Radiator Hospital",
-          "url": "https://open.spotify.com/artist/0HMLp79IAd9Z8zMgxqpyxn"
-        }
-      ],
-      "duration_ms": 126971,
-      "name": "Cut Your Bangs",
-      "url": "https://open.spotify.com/track/1JdGVa0eAPovycGrGV03SS"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
         "name": "The First Days Of Spring",
         "url": "https://open.spotify.com/album/7wSY8MNBuFKLIRhEXBwl9s"
       },
@@ -1027,18 +995,18 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Let It Die",
-        "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
+        "name": "Begin to Hope (Special Edition)",
+        "url": "https://open.spotify.com/album/0ssMZRCnobXKQXjQ2R5A5a"
       },
       "artists": [
         {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+          "name": "Regina Spektor",
+          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
         }
       ],
-      "duration_ms": 224506,
-      "name": "Mushaboom",
-      "url": "https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO"
+      "duration_ms": 226680,
+      "name": "Fidelity",
+      "url": "https://open.spotify.com/track/6GskIhdM6TN6EkPgeSjVfW"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -1059,18 +1027,18 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Begin to Hope (Special Edition)",
-        "url": "https://open.spotify.com/album/0ssMZRCnobXKQXjQ2R5A5a"
+        "name": "Let It Die",
+        "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
       },
       "artists": [
         {
-          "name": "Regina Spektor",
-          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
         }
       ],
-      "duration_ms": 226680,
-      "name": "Fidelity",
-      "url": "https://open.spotify.com/track/6GskIhdM6TN6EkPgeSjVfW"
+      "duration_ms": 224506,
+      "name": "Mushaboom",
+      "url": "https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -1219,18 +1187,18 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Let Yourself Go",
-        "url": "https://open.spotify.com/album/3Aoh7HqQtugqVcHGDbkRjP"
+        "name": "The Execution Of All Things",
+        "url": "https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj"
       },
       "artists": [
         {
-          "name": "Haley Blais",
-          "url": "https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT"
+          "name": "Rilo Kiley",
+          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
         }
       ],
-      "duration_ms": 208520,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/2CQZalbSGicedttPGtY06n"
+      "duration_ms": 223133,
+      "name": "With Arms Outstretched",
+      "url": "https://open.spotify.com/track/0EKUJ4OqrNWaHpNPODNTaf"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -1251,6 +1219,22 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
+        "name": "Let Yourself Go",
+        "url": "https://open.spotify.com/album/3Aoh7HqQtugqVcHGDbkRjP"
+      },
+      "artists": [
+        {
+          "name": "Haley Blais",
+          "url": "https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT"
+        }
+      ],
+      "duration_ms": 208520,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/2CQZalbSGicedttPGtY06n"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
         "name": "Juno - Music From The Motion Picture",
         "url": "https://open.spotify.com/album/3Dm3Kc5oOFtesVJe5TF1HG"
       },
@@ -1263,22 +1247,6 @@
       "duration_ms": 165840,
       "name": "So Nice So Smart",
       "url": "https://open.spotify.com/track/5EAPbYyAnuOUG4EICxgBlU"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
-        "name": "The Execution Of All Things",
-        "url": "https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj"
-      },
-      "artists": [
-        {
-          "name": "Rilo Kiley",
-          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "With Arms Outstretched",
-      "url": "https://open.spotify.com/track/0EKUJ4OqrNWaHpNPODNTaf"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -1575,6 +1543,22 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
+        "name": "Either/Or",
+        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/4IKMZtDIqyQDA6a4YvsgpK"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
         "name": "London Weekend",
         "url": "https://open.spotify.com/album/0qqmFX3N1jydkGpnORVUhR"
       },
@@ -1591,22 +1575,6 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Numbers & Mumbles",
-        "url": "https://open.spotify.com/album/75uYCevfxAInfAFSrBUBIa"
-      },
-      "artists": [
-        {
-          "name": "Say Hi",
-          "url": "https://open.spotify.com/artist/2da7ehIX9lFyIDqmjqVZvS"
-        }
-      ],
-      "duration_ms": 183173,
-      "name": "Let's Talk About Spaceships",
-      "url": "https://open.spotify.com/track/19mrtanHo3t9Qa2GaKMEkz"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
         "name": "Some Are Lakes",
         "url": "https://open.spotify.com/album/0LcNbby41jxxvg5nrgwsvo"
       },
@@ -1619,6 +1587,38 @@
       "duration_ms": 294146,
       "name": "It's Okay",
       "url": "https://open.spotify.com/track/1Mhm1ffgSwXQnherftGRau"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
+        "name": "Le Jardin De Heavenly",
+        "url": "https://open.spotify.com/album/0InB1oG08YUmJuztRRoHvK"
+      },
+      "artists": [
+        {
+          "name": "Heavenly",
+          "url": "https://open.spotify.com/artist/1sDWIdL18InXgES9TwvsL2"
+        }
+      ],
+      "duration_ms": 209360,
+      "name": "Our Love Is Heavenly",
+      "url": "https://open.spotify.com/track/67E6xudQQih5tBluVfWjoW"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
+        "name": "Nino Rojo",
+        "url": "https://open.spotify.com/album/4ZMzm0EaZcpkCH8L3hIY6t"
+      },
+      "artists": [
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        }
+      ],
+      "duration_ms": 134373,
+      "name": "At The Hop",
+      "url": "https://open.spotify.com/track/31cI8gcEKRIMRjuGzPe4W1"
     }
   ],
   "unique_name": "Twee",

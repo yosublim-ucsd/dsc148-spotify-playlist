@@ -1,12 +1,12 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Luis Figueroa",
-  "num_followers": 1826756,
+  "num_followers": 1826902,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzQ0NzVmYmYxOWI2OGQxNGNhZmFkNmU3NzU2YTkzMmZjN2FlMTQ4",
+  "snapshot_id": "MCxhZDczMWU1MTc0YWQ5Nzc5MzNmOWNlM2Y3NWJkMDA3YTEyN2FjZWQx",
   "tracks": [
     {
       "added_at": "2023-04-28 01:35:20",
@@ -975,6 +975,26 @@
     {
       "added_at": "2023-04-28 01:35:20",
       "album": {
+        "name": "Loter\u00eda",
+        "url": "https://open.spotify.com/album/7qjUgwcrdAbhAjF5gYAyn4"
+      },
+      "artists": [
+        {
+          "name": "Luis Vazquez",
+          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
+        },
+        {
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+        }
+      ],
+      "duration_ms": 250480,
+      "name": "Loter\u00eda",
+      "url": "https://open.spotify.com/track/0R5yCZ5xBbZV0nyPO9qM9d"
+    },
+    {
+      "added_at": "2023-04-28 01:35:20",
+      "album": {
         "name": "Por Culpa de Alguien",
         "url": "https://open.spotify.com/album/5bNVN6hXTW5gmDHsvqoZ60"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 388160,
       "name": "Te Est\u00e1n Buscando",
       "url": "https://open.spotify.com/track/3BBNvpNb4uBGetyf5R34ac"
-    },
-    {
-      "added_at": "2023-04-28 01:35:20",
-      "album": {
-        "name": "Loter\u00eda",
-        "url": "https://open.spotify.com/album/7qjUgwcrdAbhAjF5gYAyn4"
-      },
-      "artists": [
-        {
-          "name": "Luis Vazquez",
-          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
-        },
-        {
-          "name": "Rafa Pab\u00f6n",
-          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
-        }
-      ],
-      "duration_ms": 250480,
-      "name": "Loter\u00eda",
-      "url": "https://open.spotify.com/track/0R5yCZ5xBbZV0nyPO9qM9d"
     },
     {
       "added_at": "2023-04-28 01:35:20",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-04-28 01:35:20",
       "album": {
+        "name": "Exploring Latin Heritage, Vol.3",
+        "url": "https://open.spotify.com/album/6mwGbnCkv1CfNJ5Y3e8Or6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Saboreo",
+          "url": "https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9"
+        }
+      ],
+      "duration_ms": 335626,
+      "name": "La Vamo a Tumbar",
+      "url": "https://open.spotify.com/track/2PshFuRSc4uiKik36z3xDy"
+    },
+    {
+      "added_at": "2023-04-28 01:35:20",
+      "album": {
         "name": "Nubes Negras",
         "url": "https://open.spotify.com/album/011TN0rPa3Kzv2TLpAh6Wl"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 246224,
       "name": "Nubes Negras",
       "url": "https://open.spotify.com/track/4U7a6MMNOavmuNbpf0Xflb"
-    },
-    {
-      "added_at": "2023-04-28 01:35:20",
-      "album": {
-        "name": "Exploring Latin Heritage, Vol.3",
-        "url": "https://open.spotify.com/album/6mwGbnCkv1CfNJ5Y3e8Or6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Saboreo",
-          "url": "https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9"
-        }
-      ],
-      "duration_ms": 335626,
-      "name": "La Vamo a Tumbar",
-      "url": "https://open.spotify.com/track/2PshFuRSc4uiKik36z3xDy"
     },
     {
       "added_at": "2023-04-28 01:35:20",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2023-04-28 01:35:20",
       "album": {
+        "name": "Tromboranga",
+        "url": "https://open.spotify.com/album/73edLPjbItIG3qulH8etvP"
+      },
+      "artists": [
+        {
+          "name": "Tromboranga",
+          "url": "https://open.spotify.com/artist/1d8flZp4PgQ17KR7RjtlJP"
+        }
+      ],
+      "duration_ms": 283293,
+      "name": "Agua Que Va Caer",
+      "url": "https://open.spotify.com/track/4fZrgC2yPod6nIUvxPJ5aC"
+    },
+    {
+      "added_at": "2023-04-28 01:35:20",
+      "album": {
         "name": "No Me Lo Creo",
         "url": "https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 268175,
       "name": "No Me Lo Creo",
       "url": "https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI"
-    },
-    {
-      "added_at": "2023-04-28 01:35:20",
-      "album": {
-        "name": "Tromboranga",
-        "url": "https://open.spotify.com/album/73edLPjbItIG3qulH8etvP"
-      },
-      "artists": [
-        {
-          "name": "Tromboranga",
-          "url": "https://open.spotify.com/artist/1d8flZp4PgQ17KR7RjtlJP"
-        }
-      ],
-      "duration_ms": 283293,
-      "name": "Agua Que Va Caer",
-      "url": "https://open.spotify.com/track/4fZrgC2yPod6nIUvxPJ5aC"
     },
     {
       "added_at": "2023-04-28 01:35:20",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-04-28 01:35:20",
       "album": {
+        "name": "Grandes Exitos de Salsa",
+        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+        }
+      ],
+      "duration_ms": 291106,
+      "name": "Por Retenerte",
+      "url": "https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS"
+    },
+    {
+      "added_at": "2023-04-28 01:35:20",
+      "album": {
         "name": "Te Busqu\u00e9",
         "url": "https://open.spotify.com/album/3DX1rHY2W0L0BgMp1ZkPUf"
       },
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2023-04-28 01:35:20",
       "album": {
-        "name": "Grandes Exitos de Salsa",
-        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
-      },
-      "artists": [
-        {
-          "name": "Los Titanes",
-          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
-        }
-      ],
-      "duration_ms": 291106,
-      "name": "Por Retenerte",
-      "url": "https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS"
-    },
-    {
-      "added_at": "2023-04-28 01:35:20",
-      "album": {
         "name": "Mi Propiedad Privada",
         "url": "https://open.spotify.com/album/5wzCExW5NvwRMvDRav2taR"
       },
@@ -1579,22 +1579,6 @@
       "duration_ms": 252986,
       "name": "Mi Propiedad Privada",
       "url": "https://open.spotify.com/track/3DAxwWtA3N41eNZ9pCsQnl"
-    },
-    {
-      "added_at": "2023-04-28 01:35:20",
-      "album": {
-        "name": "Leyendas: Salsa Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 304533,
-      "name": "Cuenta Conmigo",
-      "url": "https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT"
     },
     {
       "added_at": "2023-04-28 01:35:20",
@@ -1615,6 +1599,22 @@
     {
       "added_at": "2023-04-28 01:35:20",
       "album": {
+        "name": "Leyendas: Salsa Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 304533,
+      "name": "Cuenta Conmigo",
+      "url": "https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT"
+    },
+    {
+      "added_at": "2023-04-28 01:35:20",
+      "album": {
         "name": "Mis Ojos Lloran por T\u00ed",
         "url": "https://open.spotify.com/album/1Yfa4XmFw6Y7L7YIKSPG7R"
       },
@@ -1627,6 +1627,22 @@
       "duration_ms": 258786,
       "name": "Mis Ojos Lloran por T\u00ed",
       "url": "https://open.spotify.com/track/1hvtQqJSaRAWP0PCW3P80Q"
+    },
+    {
+      "added_at": "2023-04-28 01:35:20",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 169207,
+      "name": "El Que Ama Sufre",
+      "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
     },
     {
       "added_at": "2023-04-28 01:35:20",
@@ -1679,26 +1695,6 @@
       "duration_ms": 302066,
       "name": "Tu Como Estas",
       "url": "https://open.spotify.com/track/4ByRNAPHBOOgYaS4vcNbUb"
-    },
-    {
-      "added_at": "2023-04-28 01:35:20",
-      "album": {
-        "name": "Mira",
-        "url": "https://open.spotify.com/album/2wrbLhESYlyhzIlhJ1Lo8X"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "Mira - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct"
     }
   ],
   "unique_name": "Salsa Nation",

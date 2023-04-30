@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: Kanii
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,348,449 likes - 109 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,349,900 likes - 109 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 22 | [Tomioka](https://open.spotify.com/track/66MBHbC0oesKfPlg01jSAc) | [Jay Eazy](https://open.spotify.com/artist/2bc73gsB8lPAL1mxNBOEqV) | [Tomioka](https://open.spotify.com/album/3vNlLvYPKCWU3NTHZj4CU7) | 2:17 |
 | 23 | [your eyes](https://open.spotify.com/track/279j7K8VbSq0U5PJQhQGB1) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [your eyes](https://open.spotify.com/album/2aGk8wIIXSqtIntU9E7GFv) | 2:13 |
 | 24 | [if looks could kill](https://open.spotify.com/track/1cdqNRXIRrvT4HnApj6yw6) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [if looks could kill](https://open.spotify.com/album/1lbRv6yB7ZI2MuoGG9io6E) | 3:14 |
-| 25 | [Toxic Ish](https://open.spotify.com/track/13IyPWwTjRTWW62z6L349L) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Toxic Ish](https://open.spotify.com/album/6wdCYDNMmP5C8cdePXGmWh) | 3:07 |
+| 25 | [Toxic Ish](https://open.spotify.com/track/13IyPWwTjRTWW62z6L349L) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Toxic Ish](https://open.spotify.com/album/6wdCYDNMmP5C8cdePXGmWh) | 3:23 |
 | 26 | [10x3](https://open.spotify.com/track/4SaMeh5e8KfdH5wmn35E6S) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [10x3](https://open.spotify.com/album/2J0oSb8a0vO39yG3WjKHDz) | 1:58 |
 | 27 | [Out On Bond](https://open.spotify.com/track/07iXzCjxJdfHTUenA34iXt) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Out On Bond](https://open.spotify.com/album/1rM3JOw6PilCUL4GXU0WCi) | 1:20 |
 | 28 | [i need u](https://open.spotify.com/track/2gSPHSdf0vrk2Psxmn8sUn) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [i need u](https://open.spotify.com/album/0uSAjejTknuT68AYVrzsmz) | 2:28 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 108 | [Perc & Sex](https://open.spotify.com/track/4a14AFVG1iMsLJnT4wj5Up) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU) | [Coochie Goat](https://open.spotify.com/album/7blLvL09OOJcEZJXNKuFQr) | 2:34 |
 | 109 | [Number One Candidate](https://open.spotify.com/track/3qk2QJ5JR6IO2LBMqkOnx7) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [Just A Matter Of Time](https://open.spotify.com/album/4SI5eZJ5UYpS1057wiqlXv) | 2:45 |
 
-Snapshot ID: `MCw1NTBmM2RkMTAyNDc1MWQzODA4ZjJjNGM1YTg3Y2UxZTc5NDg5ZmMw`
+Snapshot ID: `MCw3NGVhMWRhNTE3NGY0MzU4NjRkMWM4ZDc1MTZiYTEwYmViZjg0MWY0`

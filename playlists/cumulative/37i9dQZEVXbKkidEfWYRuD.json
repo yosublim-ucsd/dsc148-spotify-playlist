@@ -5714,10 +5714,28 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 142839,
       "name": "METAMORPHOSIS",
       "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
+    },
+    {
+      "album": {
+        "name": "METAMORPHOSIS",
+        "url": "https://open.spotify.com/album/0RkrzezMmOT0FOv5MdLOBk"
+      },
+      "artists": [
+        {
+          "name": "Master CC",
+          "url": "https://open.spotify.com/artist/0hLvG56rSXh785IbjYpuRQ"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142839,
+      "name": "METAMORPHOSIS",
+      "url": "https://open.spotify.com/track/1IArZTLaksXljitIzHzkgy"
     },
     {
       "album": {
@@ -12896,7 +12914,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 206545,
       "name": "\u0414\u0418\u041a\u0415 \u041f\u041e\u041b\u0415",
       "url": "https://open.spotify.com/track/7g9brrz6mR8dm1kwYFwnRx"
@@ -14180,7 +14198,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 244933,
       "name": "\u041a\u0430\u043a \u043d\u0430 \u0432\u043e\u0439\u043d\u0435",
       "url": "https://open.spotify.com/track/12Jgi4t8YPs8G858lNGfZm"

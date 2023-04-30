@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days with Balance and Composure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,121 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,203 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 46 | [Indigo](https://open.spotify.com/track/6dpAJk9DXHaS52JOzs54VI) | [Right On, Kid!](https://open.spotify.com/artist/16kT00HyL9NUbHSsOwn97h) | [Life is a Movie](https://open.spotify.com/album/4gZNKTkN3TeK9lFAaOk3Fd) | 2:56 |
 | 47 | [Blood for the Blood God](https://open.spotify.com/track/5ykzMyjf4Mfi45iy5pyTAG) | [Ben Quad](https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE) | [I’m Scared That’s All There Is](https://open.spotify.com/album/6qvYtT5gSuBLAGLdoSPmb3) | 3:31 |
 | 48 | [Curly Q](https://open.spotify.com/track/5etEJrn4QNlm0Z7xIbmnDi) | [Prince Daddy & the Hyena](https://open.spotify.com/artist/3EYgeLZ0vtVHKkUL26Eu49) | [Prince Daddy & The Hyena](https://open.spotify.com/album/4Os6Tb2ris9W7QgWSHEUye) | 4:17 |
-| 49 | [Spinning Wheel](https://open.spotify.com/track/7lH6ykUui2IHTzPmvKoJdl) | [Rat Tally](https://open.spotify.com/artist/7kLaLiBdbGiIC6jYwcpZbb) | [In My Car](https://open.spotify.com/album/0CT2GXBcqAfzAtMsg7WGrN) | 3:35 |
+| 49 | [Spinning Wheel](https://open.spotify.com/track/5lSIRNDJWXiAV1cUijH2ak) | [Rat Tally](https://open.spotify.com/artist/7kLaLiBdbGiIC6jYwcpZbb) | [In My Car](https://open.spotify.com/album/7w7nkpoJyo9V8dGOYXxY4o) | 3:35 |
 | 50 | [Mirage](https://open.spotify.com/track/46D6miQ2fYY0gaHhPEQVdH) | [With the Punches](https://open.spotify.com/artist/4USpQ4wWk8VrkCzQiSNb3u) | [Discontent](https://open.spotify.com/album/1sH3LVK2KommQFjz2svtE4) | 3:38 |
 | 51 | [Nobody Said](https://open.spotify.com/track/1TV2LRINKshQDOJnDIR2Sa) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Nobody Said](https://open.spotify.com/album/1LEtw9ajPrpReLEEao1KqP) | 3:43 |
 | 52 | [Pursuit](https://open.spotify.com/track/0fvw7sVHFeK4KJ2sVtnhkM) | [Camp Trash](https://open.spotify.com/artist/217Q1QeePZbm3dMpwPgXK9) | [Pursuit](https://open.spotify.com/album/0SpkDAB9r9amnfcWaY9RSd) | 2:48 |
@@ -68,17 +68,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 58 | [In the Back](https://open.spotify.com/track/1Na4m4y8hMRzQo73a5ORX2) | [Graduating Life](https://open.spotify.com/artist/314yGMWtZrRjWP5GwTlE2E) | [II](https://open.spotify.com/album/23PqAUIWD6N7FeSr8Nj2vC) | 3:42 |
 | 59 | [Burt Reynolds, Burnt Candles](https://open.spotify.com/track/3aI5gBXahNlCOJsFmTKE1R) | [Plainclothes](https://open.spotify.com/artist/313z2zL8t1mV5ohmAW7j5M) | [Dog Logic](https://open.spotify.com/album/7I9yqOPKYHqfYmIVIvXZIa) | 2:12 |
 | 60 | [Stupid](https://open.spotify.com/track/7hJp3RopLaJZBj6SEqxkHx) | [I Love Your Lifestyle](https://open.spotify.com/artist/2gHsHeJxm4bTuS94fKQgB5) | [No Driver](https://open.spotify.com/album/7nWOIJtPFYFxVVPpSXzRQk) | 5:04 |
-| 61 | [Your Deep Rest](https://open.spotify.com/track/5wwbe5wtc4pd9RDlFNXeFg) | [The Hotelier](https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa) | [Home, Like Noplace Is There](https://open.spotify.com/album/37ohOvaKOQIEkFjTWfg9Q4) | 3:47 |
+| 61 | [Your Deep Rest](https://open.spotify.com/track/21ACVHZc3K9lK0zleucFaJ) | [The Hotelier](https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa) | [Home, Like Noplace Is There](https://open.spotify.com/album/172GEyILIzsGA8PJqrsHmL) | 3:47 |
 | 62 | [This \# Is No Longer in Service](https://open.spotify.com/track/4Q88FcWu5xTOACoyCvfGwq) | [Swiss Army Wife](https://open.spotify.com/artist/6oO6omp7KVcpUx8cHov0uI) | [Medium Gnarly](https://open.spotify.com/album/79oAFuiihRnGlHXq7f3LAL) | 1:35 |
 | 63 | [Hollow](https://open.spotify.com/track/2UUw0f57ZMg6cYYkVrPvzr) | [Stay Inside](https://open.spotify.com/artist/59QLiM8EVDaCyuHV6ifMpv) | [Hollow](https://open.spotify.com/album/2UlJQbQVnrqFNGtcO6ZLbw) | 4:10 |
 | 64 | [The Cool Kids](https://open.spotify.com/track/3sgSxMPHAfNhEwDWKJlJGR) | [Mat Kerekes](https://open.spotify.com/artist/5rOjuB5uYAoDMHgZM6CFBB) | [Nova](https://open.spotify.com/album/4ppxTvpqPEY7QGWlBxTHXE) | 3:49 |
 | 65 | [cadence](https://open.spotify.com/track/4KXgaRo9FlOOkmQ5TD5A5h) | [Flight Patterns](https://open.spotify.com/artist/4fIqhR5AalmEBaUDNmGhb9) | [cadence](https://open.spotify.com/album/5W3HQVjsF1UCmsaehz5eiX) | 2:12 |
 | 66 | [Sometimes Things Change](https://open.spotify.com/track/2FEVvpf3HkEhIZMO3Gi6T0) | [Swimming](https://open.spotify.com/artist/102w2ubGZNdbZSCBkcGbJa) | [That's OK](https://open.spotify.com/album/6EkPXtJFGBg1jAw2ovxxOl) | 4:05 |
 | 67 | [Stone](https://open.spotify.com/track/3FF9ObKa1UqIxoV2ttGOpP) | [Clementine](https://open.spotify.com/artist/7w5fod5FOdSfULpZfwvM1c) | [Stone](https://open.spotify.com/album/51kRAWAaOibNlUS0I58dcK) | 3:34 |
-| 68 | [Greetings](https://open.spotify.com/track/16UutHGhIXTmBDEhBAVda4) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Greetings / Barely](https://open.spotify.com/album/6CP9XN6RxItTpvryygnpkd) | 2:14 |
+| 68 | [Greetings](https://open.spotify.com/track/7u5yayMCOSG6n4XsBoAsMc) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Greetings / Barely](https://open.spotify.com/album/2vbyKCjxxPaiGMDWGXe3IF) | 2:14 |
 | 69 | [Two Beers In](https://open.spotify.com/track/5oBarQJHCnHLzyezz0XzFx) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc) | [Those Days Are Gone](https://open.spotify.com/album/0yhwDk0EqhcbTE5k0cqs1K) | 2:15 |
 | 70 | [Headrush](https://open.spotify.com/track/1Zh96LVaAF6rHKCMVtWm1z) | [Unturned](https://open.spotify.com/artist/2bT1gJ4qahYAMFmaoFV7Nj) | [Sunk](https://open.spotify.com/album/7uNDF4pj1USgZTDTazd0j9) | 2:42 |
-| 71 | [Hangover Game](https://open.spotify.com/track/0KgqfFDS6vvzZ50IozlD1Y) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Boat Songs](https://open.spotify.com/album/1G5OaCbp7Tb0YJlSInBeYu) | 2:16 |
+| 71 | [Hangover Game](https://open.spotify.com/track/5I2qACyvSTaasSNaWiT90G) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Boat Songs](https://open.spotify.com/album/22gbAfr4V10JH93bV7dKW0) | 2:16 |
 | 72 | [i heard they found you face down inside your living room](https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [i heard they found you face down inside your living room](https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q) | 3:11 |
 | 73 | [caffeine cops](https://open.spotify.com/track/6bfvJmIShenDFix2g37t1S) | [Khaki Cuffs](https://open.spotify.com/artist/3lTbmnZS3UoiK7124LWjba) | [khaki cuffs](https://open.spotify.com/album/17hObjjsOomFIBWnYNwYfb) | 2:47 |
 | 74 | [Quick to Change](https://open.spotify.com/track/0giMELEPXXuYjt8zNEfeHS) | [Retirement Party](https://open.spotify.com/artist/6scS2RlUYZHwgNWfMfviOL) | [Retirement Party](https://open.spotify.com/album/2RkRj6eJxTf9DTUf2VdIBL) | 3:46 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 79 | [If This is Sadness, I Don't Like It One Bit](https://open.spotify.com/track/3ttOAHJLXSoWRpN5oYLlRd) | [Mt\. Oriander](https://open.spotify.com/artist/2Kq6yQuA3lw7tMfUvPQYXo), [Joie De Vivre](https://open.spotify.com/artist/1sUOIv1YrZ2WRmTg0GRi0V), [Warren Franklin](https://open.spotify.com/artist/5ub2IP1YottOMHKb6ECb8b) | [Then the Lightness Leaves and I Become Heavy Again](https://open.spotify.com/album/7s5pO2fLBtRuSqY1SSm6lK) | 3:24 |
 | 80 | [MC Hammered](https://open.spotify.com/track/6Dz3eXASv7SgydvUeJCErm) | [Smoke Detector](https://open.spotify.com/artist/2HBDXRQZZJyKINI8JUE1Ff) | [Needs Batterys](https://open.spotify.com/album/716jaC1Q5qyZQQFSCRhv9t) | 2:54 |
 
-Snapshot ID: `MCw4YjJkYzVhNGQ3N2EyMGY3ODFkODVmZDBkZTU3MzYyNzdhZjUyNTIy`
+Snapshot ID: `MCxmNWYwOTdjOGNjNjQyMzQzMWVhYjRmZTM2NGEzNjc1MWQ4MDMzYjM2`

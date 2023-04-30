@@ -346,10 +346,28 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 290778,
       "name": "Cocky",
       "url": "https://open.spotify.com/track/108H1bXtmIVHFkh2geKFt9"
+    },
+    {
+      "album": {
+        "name": "Cocky",
+        "url": "https://open.spotify.com/album/1G9wCQ0maje1EMpManZZ6M"
+      },
+      "artists": [
+        {
+          "name": "Lotic",
+          "url": "https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290778,
+      "name": "Cocky",
+      "url": "https://open.spotify.com/track/3UwPb3pdpSN0cUxl4XGpO2"
     },
     {
       "album": {
@@ -770,10 +788,28 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 376661,
       "name": "GETOUTOFMYHEAD",
       "url": "https://open.spotify.com/track/2kYQCKxOi9Dccib2E8KaW5"
+    },
+    {
+      "album": {
+        "name": "GETOUTOFMYHEAD",
+        "url": "https://open.spotify.com/album/5Vnhdn0oxYlogKhFdT1SWn"
+      },
+      "artists": [
+        {
+          "name": "SHERELLE",
+          "url": "https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376661,
+      "name": "GETOUTOFMYHEAD",
+      "url": "https://open.spotify.com/track/3DayjEnW7oPHucWm71NtIH"
     },
     {
       "album": {
@@ -810,10 +846,32 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 348570,
       "name": "GLAMOUR Riddim",
       "url": "https://open.spotify.com/track/3tBv0XOlAl5EOsENMqfHuW"
+    },
+    {
+      "album": {
+        "name": "love has never been a popular movement.",
+        "url": "https://open.spotify.com/album/3S3okSECqppR83HJYWGoxY"
+      },
+      "artists": [
+        {
+          "name": "TYGAPAW",
+          "url": "https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq"
+        },
+        {
+          "name": "George Riley",
+          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348570,
+      "name": "GLAMOUR Riddim",
+      "url": "https://open.spotify.com/track/61gAlsx885y2RvpPwwcJo0"
     },
     {
       "album": {
@@ -1508,7 +1566,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 156774,
       "name": "No Idol - Remix",
       "url": "https://open.spotify.com/track/1eRLxk3ZvgJFsH2wJFcyGq"
@@ -1530,6 +1588,24 @@
       "duration_ms": 156774,
       "name": "No Idol - Remix",
       "url": "https://open.spotify.com/track/3x15lvHEgJoj7XhRV5aXCo"
+    },
+    {
+      "album": {
+        "name": "Grace EP",
+        "url": "https://open.spotify.com/album/1KqDdW5d7l4g9y7JzGyyDB"
+      },
+      "artists": [
+        {
+          "name": "DJ Haram",
+          "url": "https://open.spotify.com/artist/13VynrBSvRLrAX5YqdD1vl"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156774,
+      "name": "No Idol - Remix",
+      "url": "https://open.spotify.com/track/6uVCNLms1D9lQLIg9JG7Jr"
     },
     {
       "album": {

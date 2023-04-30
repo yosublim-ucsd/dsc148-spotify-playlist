@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Knox
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,916 likes - 109 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,948 likes - 109 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 74 | [Temporary](https://open.spotify.com/track/1eOnnKaZZhlQ0l1a6TcDCW) | [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Temporary](https://open.spotify.com/album/7fNhocF8oOVLtOd2Qcmcki) | 2:37 |
 | 75 | [10 Minutes From Now](https://open.spotify.com/track/3XYM8w72L99Hb8uAhBofgt) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [10 Minutes From Now](https://open.spotify.com/album/2aepdjt22usv7kLzz6fp9K) | 2:53 |
 | 76 | [Cannonball](https://open.spotify.com/track/40ipIQoiI8Dg58yPbe4S5X) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [It Will Never Be The Same](https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX) | 4:05 |
-| 77 | [Orbit](https://open.spotify.com/track/5szx7r9yarz9Duw9F0NT6w) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Orbit](https://open.spotify.com/album/6eT8wyBSQsTmCk5HGNzPiV) | 3:32 |
+| 77 | [Orbit](https://open.spotify.com/track/659YVcaiUXCKtdizsyHkND) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Orbit](https://open.spotify.com/album/6WnZa9u2hVV2jgPTSelyjX) | 3:32 |
 | 78 | [Undone and Unashamed](https://open.spotify.com/track/5KfLDRKi6l31CDonKxJUtC) | [The Murlocs](https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus) | [Undone and Unashamed](https://open.spotify.com/album/6LFLi0KAIirs63kDkp49TA) | 3:58 |
 | 79 | [Superinlove \(Roll Credits\)](https://open.spotify.com/track/6Boku1BWobUkaFxN6rcLY4) | [Max Bennett Kelly](https://open.spotify.com/artist/5DrrFAKP5lAFBaDw9oKZel) | [Superinlove \(Roll Credits\)](https://open.spotify.com/album/5648gAINTiQctCCE6Tuhvr) | 1:48 |
 | 80 | [Sick Bro](https://open.spotify.com/track/044xdOCTR0yaitqt3MJ4i8) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Sick Bro](https://open.spotify.com/album/4Pbf1B4UMlL3u0H411y3SZ) | 2:37 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 108 | [Echoes](https://open.spotify.com/track/2fZqHbDbCkQZVBv9DrGsao) | [LIES](https://open.spotify.com/artist/2hxqbp5J0oHXcXMMGpx8U8) | [Lies](https://open.spotify.com/album/2BTekyCKf74Wi5QAyzvQNs) | 6:15 |
 | 109 | [Squid](https://open.spotify.com/track/58xA6gMO8ptTMAW5sPvp9e) | [RVG](https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9) | [Squid](https://open.spotify.com/album/0weYSXHoWpA9F7TDJOvT87) | 4:47 |
 
-Snapshot ID: `MCwwZTM0NjVjZDEyNmU1NDVjZDdkZjk0MGFiNWU1ODEyZWU5ZmZmOGUx`
+Snapshot ID: `MCwyMDkyOTg3MjlkYjdjYzBmZjM1OTQ1M2I1ZWIyOTZmNjI2NWE0YTJl`

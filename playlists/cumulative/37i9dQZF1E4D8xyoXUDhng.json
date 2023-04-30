@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 179826,
       "name": "A Moment of Worship",
       "url": "https://open.spotify.com/track/59ugGAGFGjPTcdTeWndOgI"
@@ -1504,7 +1504,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 298613,
       "name": "Falling In Love With Jesus - Falling In Love With Jesus Album Version",
       "url": "https://open.spotify.com/track/2fNOP2r6yPyVsz1AyHmQKQ"
@@ -2096,7 +2096,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-27",
+      "date_removed": null,
       "duration_ms": 364066,
       "name": "Hallelujah, Salvation and Glory",
       "url": "https://open.spotify.com/track/3wtEG3QWtLk7nO8WjSrokl"
@@ -3038,7 +3038,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 159617,
       "name": "In My Life",
       "url": "https://open.spotify.com/track/0bs4yywN9BXjymqTGGxp7Y"
@@ -3582,7 +3582,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 313348,
       "name": "Let Me Fly",
       "url": "https://open.spotify.com/track/5K343YA7wmeCEahItdpgKH"
@@ -3872,7 +3872,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 196600,
       "name": "Love Time",
       "url": "https://open.spotify.com/track/2Z7OfWN3tC9fGi9wboIJMH"
@@ -4215,6 +4215,24 @@
     },
     {
       "album": {
+        "name": "Audacity of Hope",
+        "url": "https://open.spotify.com/album/7sY4yPiKdZ9Gd50uUt3oi7"
+      },
+      "artists": [
+        {
+          "name": "Lincoln Gospel Choir",
+          "url": "https://open.spotify.com/artist/1HajRPfrDbTnHbykHQGThK"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262586,
+      "name": "More Than I Can Bear",
+      "url": "https://open.spotify.com/track/4gKAbvGjV5xTZBMyxyIk2J"
+    },
+    {
+      "album": {
         "name": "Even in the Dark",
         "url": "https://open.spotify.com/album/1sRUgIYpqk8Xk9xeJyopYf"
       },
@@ -4490,7 +4508,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-23",
+      "date_removed": null,
       "duration_ms": 259893,
       "name": "Now Let Us Sing",
       "url": "https://open.spotify.com/track/57lQJtiqMjWgzMHe7yxb7R"
@@ -4906,6 +4924,28 @@
       "duration_ms": 102290,
       "name": "precious love",
       "url": "https://open.spotify.com/track/587Vqmtu7Ptk3mYSmN4zq7"
+    },
+    {
+      "album": {
+        "name": "Precious Name",
+        "url": "https://open.spotify.com/album/28GbZQrTyq9ovh5HRz7tjB"
+      },
+      "artists": [
+        {
+          "name": "Coral Voice Soul",
+          "url": "https://open.spotify.com/artist/5eWpMhRiMVQLLxpn28ue35"
+        },
+        {
+          "name": "Ron Kenoly",
+          "url": "https://open.spotify.com/artist/5UzGtBBwUB77l2ZI4fbfig"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354986,
+      "name": "Precious Name",
+      "url": "https://open.spotify.com/track/5pIIEvUa3TNxYlUGijpvuf"
     },
     {
       "album": {
@@ -5760,7 +5800,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 208400,
       "name": "Swing Low Street Chariot",
       "url": "https://open.spotify.com/track/39dKSYYC02JQdxnPHblfE7"
@@ -5778,7 +5818,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 293120,
       "name": "Take It to the Lord in Prayer",
       "url": "https://open.spotify.com/track/3kg8P8fbGvuS4U1wo5RGA3"
@@ -6318,6 +6358,32 @@
       "duration_ms": 178330,
       "name": "This Is The Day",
       "url": "https://open.spotify.com/track/27GLPV8dXnq3o0iiSX0okd"
+    },
+    {
+      "album": {
+        "name": "A Message of Love",
+        "url": "https://open.spotify.com/album/4NV4RS90sarVupB5dI2W56"
+      },
+      "artists": [
+        {
+          "name": "Anna Weister Andersson & One In Christ",
+          "url": "https://open.spotify.com/artist/4BBfFpYAWs0YERVISe3Db7"
+        },
+        {
+          "name": "Martina M\u00f6ll\u00e5s",
+          "url": "https://open.spotify.com/artist/6xozCMdNwTUKlU9GbADHAD"
+        },
+        {
+          "name": "Pelle Ankarberg",
+          "url": "https://open.spotify.com/artist/07sJTHzs0NqNEXJLy1enIc"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337640,
+      "name": "To You",
+      "url": "https://open.spotify.com/track/4CTdQxq4EswwgUtBlZ2vRl"
     },
     {
       "album": {

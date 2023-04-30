@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Alison",
+        "url": "https://open.spotify.com/album/3df3c248kKITXii2Zob5lM"
+      },
+      "artists": [
+        {
+          "name": "xerLK",
+          "url": "https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193548,
+      "name": "Alison",
+      "url": "https://open.spotify.com/track/6tvfHHcDybTrWRZt4pxE5D"
+    },
+    {
+      "album": {
         "name": "All of my Love",
         "url": "https://open.spotify.com/album/7HMhA5ZAbP1Lizu8zc9ieJ"
       },
@@ -2872,7 +2890,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 198139,
       "name": "Memories",
       "url": "https://open.spotify.com/track/1ZmXjqlQ7JQBPOwIhaCjIZ"

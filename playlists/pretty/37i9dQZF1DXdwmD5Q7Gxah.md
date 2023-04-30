@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > All the indescribable feelings that music gives you\. cover: glaive
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,036,299 likes - 107 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,036,982 likes - 107 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 10 | [Rainbow Mind](https://open.spotify.com/track/7GOuFX2n0UqFMJHNXS9zs2) | [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa), [Baro Sura](https://open.spotify.com/artist/79EKbkmOJ9lJwnhTBOqOlV) | [Rainbow Mind](https://open.spotify.com/album/1XlfsYZQGXf6VcbyIJmIX6) | 4:33 |
 | 11 | [Glue Song \(feat\. Clairo\)](https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Glue Song \(feat\. Clairo\)](https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk) | 2:15 |
 | 12 | [Art House](https://open.spotify.com/track/2GkjgiuBawwpL48d0TGQEL) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Art House](https://open.spotify.com/album/1ysnBkxshLq1mn6dftQowP) | 2:57 |
-| 13 | [fade \- flounder bonus track](https://open.spotify.com/track/6bwpypFpmlRU9GY4XOtuoT) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [fade \(flounder bonus track\)](https://open.spotify.com/album/70nuNnwpPva8VbEuHmbQNE) | 2:36 |
+| 13 | [fade \(flounder bonus track\)](https://open.spotify.com/track/6bwpypFpmlRU9GY4XOtuoT) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [fade \(flounder bonus track\)](https://open.spotify.com/album/70nuNnwpPva8VbEuHmbQNE) | 2:36 |
 | 14 | [wayne \(demo\)](https://open.spotify.com/track/2vsiIis8R6s5DdceaTj0rk) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Clean Weird Prone \(Inner World Peace Deluxe\)](https://open.spotify.com/album/7haxpWiYhrr3yLN5yBC5jO) | 2:05 |
 | 15 | [White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:08 |
 | 16 | [Dancing In The Courthouse](https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Dancing In The Courthouse](https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq) | 2:37 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 106 | [ELECTRIFY TONIGHT](https://open.spotify.com/track/0nifVdzF4R6WT2qITFJKeu) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [ALLIGATOR](https://open.spotify.com/album/2fS7BLnNrjXc9s7WmGmyoH) | 2:34 |
 | 107 | [All That](https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:46 |
 
-Snapshot ID: `MCwyOWRiNjRmNmEwMzRmMWYwYzg1MGI5OWJiZGE4MWYwNzg1YjQ4ZTgz`
+Snapshot ID: `MCwwYWU0YmM2YzU0YWI4NzkzMzZmNzRiNWJhNGNjNTQ4NDE5OTliODA1`

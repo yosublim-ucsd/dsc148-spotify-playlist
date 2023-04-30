@@ -1190,10 +1190,32 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
+    },
+    {
+      "album": {
+        "name": "Rave & Roses Ultra",
+        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239317,
+      "name": "Calm Down (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/1s7oOCT8vauUh01PbJD6ps"
     },
     {
       "album": {
@@ -6483,6 +6505,24 @@
     },
     {
       "album": {
+        "name": "\u05d5\u05d1\u05d9\u05e0\u05d9\u05d4\u05dd",
+        "url": "https://open.spotify.com/album/18ckY8CdBUqkrJLmRdRUgU"
+      },
+      "artists": [
+        {
+          "name": "Meir Banai",
+          "url": "https://open.spotify.com/artist/3u8toIYNbUIHmhGjEZRuQU"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228293,
+      "name": "\u05d0\u05d4\u05d1\u05d4 \u05e7\u05e6\u05e8\u05d4",
+      "url": "https://open.spotify.com/track/2JgH4aj4Afie8gZa4T6vmG"
+    },
+    {
+      "album": {
         "name": "\u05d0\u05d4\u05d5\u05d1\u05d9 \u05dc\u05d1 \u05d0\u05d3\u05d5\u05dd",
         "url": "https://open.spotify.com/album/4OY25L91SZ7PPDiCgIHZDV"
       },
@@ -10694,7 +10734,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 166947,
       "name": "\u05de\u05d8\u05e4\u05e1\u05d9\u05dd \u05e2\u05dc \u05d4\u05e7\u05d9\u05e8\u05d5\u05ea",
       "url": "https://open.spotify.com/track/3hpaRxH73ciJCuH6QcNWXO"
@@ -11738,7 +11778,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 196320,
       "name": "\u05e2\u05d5\u05dc\u05d4 \u05e2\u05dc \u05e9\u05d5\u05dc\u05d7\u05e0\u05d5\u05ea",
       "url": "https://open.spotify.com/track/5tNrVA1ySsk7HkV5yg2iXN"
@@ -13478,7 +13518,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-10-14",
+      "date_removed": null,
       "duration_ms": 275738,
       "name": "\u200f\u05e9\u05dc\u05d5\u05d5\u05d4 \u05d1\u05d0\u05e8\u05de\u05d5\u05e0\u05d5\u05ea\u05d9\u05d9\u05da",
       "url": "https://open.spotify.com/track/0PfvEnfj3hHl7zlc0WcfGY"

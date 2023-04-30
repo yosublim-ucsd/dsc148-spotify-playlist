@@ -4,7 +4,7 @@
 
 > Viraal gaan is ook gaan! Cover: Heuss L'enfoiré & Jul
 
-126 songs - 6 hr 19 min
+128 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Boy's a liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar](https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N) | 2:11 | 2023-02-23 | 2023-03-04 |
 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-03-03 |  |
 | [Bruder + Schwester](https://open.spotify.com/track/5w0aZKZX1ICmjqHNcFWi87) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [gladde paling](https://open.spotify.com/artist/6GVd3327JY65jGWX4X3wHS) | [Bruder + Schwester](https://open.spotify.com/album/0AdOCPNJYVXoy3CTGkxkIu) | 1:42 | 2023-02-23 | 2023-04-19 |
+| [Bunda](https://open.spotify.com/track/0dibU6Iktkhk94uPKESVFm) | [Bram Krikke](https://open.spotify.com/artist/5B4zg4qSXc3znw9xUbh7mk), [Pieter Valley](https://open.spotify.com/artist/41vxXybYeV3y7FLzwPZO7k) | [Bunda](https://open.spotify.com/album/1rK2NHrwrMKitKdC58GIf1) | 1:43 | 2023-04-29 |  |
 | [Candy Shop](https://open.spotify.com/track/5D2mYZuzcgjpchVY1pmTPh) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Olivia](https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf) | [The Massacre](https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH) | 3:29 | 2023-03-07 |  |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-02-23 |  |
 | [Chasing Highs](https://open.spotify.com/track/3GJjiToqnCxTm5rOaqoxdi) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Chasing Highs](https://open.spotify.com/album/1nF6jsEiGpdjS7gG3DPaIP) | 3:15 | 2023-04-14 |  |
@@ -70,6 +71,7 @@
 | [Jouw Liefste Wens](https://open.spotify.com/track/75KLtwkL3536HI37ko5A1c) | [De Paladijns](https://open.spotify.com/artist/6hkxtLpVtaKSHJ0Oa8NanA) | [Het Beste Van: De Paladijns](https://open.spotify.com/album/7m9P64LLeRpFAObUwWrHhj) | 3:06 | 2023-04-18 |  |
 | [Jump Around](https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House of Pain \(Fine Malt Lyrics\)](https://open.spotify.com/album/0hWY4eSi2bZ8tWplgjO0ph) | 3:34 | 2023-04-14 |  |
 | [Just Dance](https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 4:01 | 2023-02-23 | 2023-03-28 |
+| [Kakkerlak Met Nagellak](https://open.spotify.com/track/0drZWSUbgDvb7vS9cnNhOU) | [Michella Kox](https://open.spotify.com/artist/4XWSfTxs3oLrtq2yqpmcHU) | [Kakkerlak Met Nagellak](https://open.spotify.com/album/6hmC6NuXWwQjdQYtY4PmLf) | 1:55 | 2023-04-29 |  |
 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 | 2023-02-23 | 2023-03-02 |
 | [Kill Bill \- Sped Up Version](https://open.spotify.com/track/2ty6DmPnxVPpEFuB23XM0x) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kill Bill](https://open.spotify.com/album/63nEYsFMdabB1qkWCOhsv7) | 2:17 | 2023-03-15 |  |
 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 | 2023-04-11 |  |

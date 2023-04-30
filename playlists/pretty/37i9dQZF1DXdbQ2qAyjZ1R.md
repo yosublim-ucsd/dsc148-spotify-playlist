@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbQ2qAyjZ1R.md) - [plain]
 
 > La playlist soul et rhythm and blues qui s'écoute au coin du feu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,657 likes - 70 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,665 likes - 70 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbQ2qAyjZ1R.md) - [plain]
 | 31 | [I Feel Like Breaking up Somebody's Home Tonight](https://open.spotify.com/track/0d2ToVf1DsuYCyyiveQ9ai) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [Straight from the Heart](https://open.spotify.com/album/2HGzxUUz5q4jldJkodIarf) | 2:30 |
 | 32 | [Come and Get Your Love \- Single Version](https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD) | [Redbone](https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF) | [Come and Get Your Love](https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu) | 3:25 |
 | 33 | [A Sunday Kind Of Love](https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:16 |
-| 34 | [Strictly Reserved for You](https://open.spotify.com/track/2aWr9QRr0pSmYFH04zngiP) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Victim of Love](https://open.spotify.com/album/3rimYQyKq7BatxuUoPIBrb) | 3:42 |
+| 34 | [Strictly Reserved for You](https://open.spotify.com/track/0QM3kYculSR2QjtXnysN1Z) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Victim of Love](https://open.spotify.com/album/6YAwLAs71WJtwUp7LEdWIk) | 3:42 |
 | 35 | [Stand by Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 |
 | 36 | [Smooth Aisles](https://open.spotify.com/track/6YjxV616rUS6G8uKTinOgi) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [Mowing](https://open.spotify.com/album/33FUqvELTIwJDs4OHtFevu) | 2:43 |
 | 37 | [Intimate Friends](https://open.spotify.com/track/35YSCRS2BshfXYdNAQxrs8) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [Slick](https://open.spotify.com/album/2j2cyqYnr84LjriiNoTtqb) | 5:53 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbQ2qAyjZ1R.md) - [plain]
 | 69 | [I'm Glad You're Mine](https://open.spotify.com/track/4fiC7RTotySw4ZeYaCSsXP) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [I'm Still in Love with You](https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT) | 2:57 |
 | 70 | [Changes](https://open.spotify.com/track/0NjTsstMJXa8e7crMmkrk6) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Promised Heights](https://open.spotify.com/album/1zKuUk9qQqDIDzWm1Dc39e) | 6:11 |
 
-Snapshot ID: `MCxiNjk2ZTJmNDRjOGQzMzBmNTgzZGMxMjc0OGIwZTg0NGMwNGFkMzk4`
+Snapshot ID: `MCw1MmE0ZDM3NTFlZWYwMjhkNzNkMWY2ZTIyOGZhNTJhNWMwNzVjN2Mw`

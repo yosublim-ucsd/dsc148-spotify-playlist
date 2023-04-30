@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 
 > Raw dance beats pushing club culture forwards\. Cover: Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,973 likes - 60 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,982 likes - 60 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,21 +25,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 | 15 | [Jinn](https://open.spotify.com/track/1eu1i0zc9KNa7GOzoFl7It) | [TSVI](https://open.spotify.com/artist/0uea1sBqx37JwQznLWxqeE) | [Inner Worlds](https://open.spotify.com/album/4DN13fYd1TQpeUkLQa4pVR) | 5:23 |
 | 16 | [Dollaz](https://open.spotify.com/track/2LI5ggYAq4MC7zmHhD3x9A) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3) | [II](https://open.spotify.com/album/1PN3Kkwd2mOyIOOiRJkBAh) | 3:13 |
 | 17 | [Moo Orphaned Drift](https://open.spotify.com/track/0cmk7Q6WwhsP6PR6WjjqLR) | [Lanark Artefax](https://open.spotify.com/artist/02fDf7HEPtBZLtPzCyxSR2) | [Corra Linn](https://open.spotify.com/album/0bSbfW1TMuJlJpL53ghtn5) | 4:44 |
-| 18 | [Alien 3](https://open.spotify.com/track/0p1mXyTLG962tEKo6g5NBb) | [Mandy, Indiana](https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u) | [Alien 3](https://open.spotify.com/album/1oiHh5cTcLLZBbYXa2Oht8) | 6:17 |
+| 18 | [Alien 3](https://open.spotify.com/track/2Ff2YdkAKWSQ6MPDQyKnwS) | [Mandy, Indiana](https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u) | [Alien 3](https://open.spotify.com/album/33xsPIO3zl1FKGb3laH2m8) | 6:17 |
 | 19 | [Razzy Beat](https://open.spotify.com/track/6s6RtUrhYdOxJ70rNyCKh8) | [Two Fingers](https://open.spotify.com/artist/2AminfyJLRagEeHO6H6bCS), [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs), [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Fight! Fight! Fight!](https://open.spotify.com/album/3eVEXomIzqJM9kM8BCqCI2) | 3:19 |
 | 20 | [A Mighty Quest](https://open.spotify.com/track/0POJynKv5Lq3HGJxQfvWAx) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Onhell](https://open.spotify.com/artist/66SJhirDGiBwr3tfvu3a0t) | [A Mighty Quest](https://open.spotify.com/album/5fqHxGDPxnbY0IoX7mJTl6) | 3:53 |
 | 21 | [BB](https://open.spotify.com/track/5LbZrfWzafeYlwzbHtpAqD) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [BB](https://open.spotify.com/album/4P1xQUR8dEHCvHkYvtfd2I) | 2:46 |
 | 22 | [Drown U](https://open.spotify.com/track/5Qorbb9mOtPHu0adPY2Znz) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0), [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB) | [XYZ](https://open.spotify.com/album/5BefoLRwqaVBuQpQkNKiyO) | 2:37 |
 | 23 | [AS Too Wrong](https://open.spotify.com/track/74wUpuW4tRQJJGiucm4JfJ) | [Amnesia Scanner](https://open.spotify.com/artist/2J3LwjEkmryU6BSAubwbMF) | [Another Life](https://open.spotify.com/album/0H6yPrBlXON15blsgmA4Aq) | 4:14 |
 | 24 | [Raising Hell](https://open.spotify.com/track/5q9F2CNzrrNQMM7l62S2c6) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Salvador](https://open.spotify.com/album/7sutGPUG2T56ubUjlhSaE9) | 4:10 |
-| 25 | [Acceleration](https://open.spotify.com/track/7IKUcmgtqaD9m6k8Du7lWv) | [RUI HO](https://open.spotify.com/artist/2sTDVUq42SO6yVfD7c9r0J) | [In Pursuit of the Sun 逐日](https://open.spotify.com/album/2BEcYdcJqUITFJkDGFUOzP) | 4:05 |
+| 25 | [Acceleration](https://open.spotify.com/track/3uA3HcSMjtgb2NJcog8fA8) | [RUI HO](https://open.spotify.com/artist/2sTDVUq42SO6yVfD7c9r0J) | [In Pursuit of the Sun 逐日](https://open.spotify.com/album/2wITuNciLMoTHakVJXGUJG) | 4:05 |
 | 26 | [Hellraiser XXX](https://open.spotify.com/track/6upzVdL5cvkIpJBveed0NJ) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [Hellraiser XXX](https://open.spotify.com/album/0J7VDGjrQi9tIQAMq2ySIH) | 4:03 |
 | 27 | [Oxygenesis](https://open.spotify.com/track/6nUjywA9WxzdtSJEkkUg0r) | [Dark0](https://open.spotify.com/artist/1Jehpab4kMvjrpsHcBtYHR) | [ZERO2](https://open.spotify.com/album/1YUGatFxMZCGLDO611dDXL) | 2:48 |
 | 28 | [Blaze Away \- Throwing Snow Remix](https://open.spotify.com/track/2Yp7Ulnqr80EqEla4GRx2G) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd), [Throwing Snow](https://open.spotify.com/artist/0Qur5LqqAVVunjY2PnjhUp) | [Blaze Away \(Throwing Snow Remix\)](https://open.spotify.com/album/2M903dUWZcuXCDxvahm07N) | 3:23 |
 | 29 | [ECSTASY OF ST\. TERESA](https://open.spotify.com/track/7GYlqodPA2sXLI11yE44NZ) | [Object Blue](https://open.spotify.com/artist/51rzklJj6mqBOEXOiOPqY7) | [FIGURE BESIDE ME](https://open.spotify.com/album/1ua3QVWei0VVsllQKUtFxB) | 6:40 |
 | 30 | [KYOKAI](https://open.spotify.com/track/7Eve0LgYwsaCKsQnRpPHzi) | [Slikback](https://open.spotify.com/artist/0NwRAG9DawUqqgur9925fA) | [Tomo](https://open.spotify.com/album/38CmagnFPEGJMwZHpjGPCr) | 2:28 |
 | 31 | [Ice Bridge](https://open.spotify.com/track/36RgzPOiQDMKrflKdo2tRN) | [Air Max '97](https://open.spotify.com/artist/5DTUVDQxl5fDiY2plzFP9R) | [Ice Bridge](https://open.spotify.com/album/2lgiqx50EYIRzR2mkzXvtI) | 4:55 |
-| 32 | [Closed Curve](https://open.spotify.com/track/3tXMsUB2y34fg0FHvI4XJj) | [Rian Treanor](https://open.spotify.com/artist/6un6trkuuP46AZM0kkY8Yx) | [File Under UK Metaplasm](https://open.spotify.com/album/1GOCqu141EPdI8yiwfSBSY) | 5:09 |
+| 32 | [Closed Curve](https://open.spotify.com/track/1EJH97qZjow6IO0G0EAyB8) | [Rian Treanor](https://open.spotify.com/artist/6un6trkuuP46AZM0kkY8Yx) | [File Under UK Metaplasm](https://open.spotify.com/album/3hUETJ6ChwyGDx17kUW5CI) | 5:09 |
 | 33 | [Anxiety](https://open.spotify.com/track/55EUSGKBeZSHmy53mRKk2k) | [Leila Samir](https://open.spotify.com/artist/3SEWWBoysH0FKZ7KROMAaG) | [No Music](https://open.spotify.com/album/7v3Pl4Bak76OUNIQdwTe0Q) | 4:16 |
 | 34 | [Groan](https://open.spotify.com/track/3DoCZ2f1fP4AU40pAjPonj) | [Zaliva\-D](https://open.spotify.com/artist/28wvoKGy5TxdUPxZVNzygo) | [Calling](https://open.spotify.com/album/4bGFKMAoLAdxxTaLFOM1Y4) | 4:38 |
 | 35 | [Flood](https://open.spotify.com/track/2r9eNtlbaV8yXiNlz05Zp7) | [GRRL](https://open.spotify.com/artist/0JpzRsUcCKSyr44mQiosNg) | [Marathon](https://open.spotify.com/album/70viF1RwTpvFJeLreXzMb8) | 3:34 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 | 59 | [Harbinger](https://open.spotify.com/track/3smLcr5e84zq10h2LXByED) | [Alec Ness](https://open.spotify.com/artist/3qIOkb1528LbR4UIwJefsr) | [Temporary Awareness of Passing](https://open.spotify.com/album/1Or89jf0Su8WpBINgkvVLI) | 3:07 |
 | 60 | [Alucard](https://open.spotify.com/track/2ibgB5zU0EGIh1x7JM8AMD) | [Swan Meat](https://open.spotify.com/artist/20GBDDzRPgnhVRuIjkrSd6) | [Alucard](https://open.spotify.com/album/0KlEXfI6QhODTsxKdSjrl4) | 5:12 |
 
-Snapshot ID: `MCw2NDRjNDU4ODEzNTU3NzU5MTJmOTEzMmY0OTAwOTNmNDhjNjY1ZTZm`
+Snapshot ID: `MCwyZjYwNDk4MjYyNGYzMjBkZjYyNjE0NzRkZGZkZjRhZjBkNmRmNzk3`

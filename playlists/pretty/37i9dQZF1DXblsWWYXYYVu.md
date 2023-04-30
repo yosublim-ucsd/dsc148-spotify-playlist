@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 
 > Relax and take it slow today
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,740 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,751 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 | 3 | [Lonely Love Song](https://open.spotify.com/track/1P6BMlC7DeXbGgEpz84WDw) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Lonely Love Song](https://open.spotify.com/album/133u1HCKHE50wMw0PrcKFg) | 2:37 |
 | 4 | [Boat](https://open.spotify.com/track/55tN1esXmaKoCnAyBTXast) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Boat](https://open.spotify.com/album/0MC4ylr8NtdNRRhPUyjvdS) | 3:05 |
 | 5 | [Bella Dawn](https://open.spotify.com/track/7IQvBiko7E0Z6ryACl7y3A) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [SEA/SONS](https://open.spotify.com/album/5uS5w8V1auSyzYDsVgDQIQ) | 3:49 |
-| 6 | [Mountain](https://open.spotify.com/track/1oE33RydbNjm4mjdniFNth) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Mountain](https://open.spotify.com/album/3GCGJNpU4nRVw1uRPvJV0o) | 2:23 |
+| 6 | [Mountain](https://open.spotify.com/track/6w7lYjt4snWEjNQBoJW3kL) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Stolen Time Deluxe](https://open.spotify.com/album/27Pl4ZURgCynlnGAgTQEds) | 2:23 |
 | 7 | [My Time Machine](https://open.spotify.com/track/6w40Bu1m2RH5BDWgiE2dpy) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [My Time Machine](https://open.spotify.com/album/57p4EJ9fkRKvav7qTI6x2a) | 2:25 |
 | 8 | [Life Ain't Always Pretty](https://open.spotify.com/track/1BNvU8Mn5aHnq0SxBIUoV4) | [Brett Sheroky](https://open.spotify.com/artist/4pj3a0izNOahe0XGIuqAQB) | [Life Ain't Always Pretty](https://open.spotify.com/album/1gclZGnEWXEl84IK0xRwb0) | 3:26 |
 | 9 | [Love Is Letting Go \(feat\. Diane Keaton\)](https://open.spotify.com/track/12AjLo4LKBxkxtNBXZrDgZ) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [Diane Keaton](https://open.spotify.com/artist/1CQjZ5keNBeLYELqHd7vK7) | [Love Is Letting Go \(feat\. Diane Keaton\)](https://open.spotify.com/album/0MinLMVdEPsMarTkzH9NRv) | 2:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 | 99 | [War](https://open.spotify.com/track/1UxeYs0x9oyJtCpmH0QbvL) | [The Dryes](https://open.spotify.com/artist/0npnqS0C9n5uuuBQC4oEWE) | [War](https://open.spotify.com/album/5BGimDYo0GQML8zT2gTeJK) | 3:47 |
 | 100 | [I Can't \(Acoustic\)](https://open.spotify.com/track/7jjeVkCrL7K9ej9Pxt76bb) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova Acoustic](https://open.spotify.com/album/6osrioku931TjO8ybo7oGX) | 3:32 |
 
-Snapshot ID: `MCw0NjRkMjE3ZjFiOGNhM2EzMzhjYzc4YWIxNDZhYzg0YTk2NDFjY2E4`
+Snapshot ID: `MCxkZjJjMGRlMmQ5ZGM1ZGIyNGJjYmNkNmRmOGY3ZWM1YzZjOWU3MDZm`

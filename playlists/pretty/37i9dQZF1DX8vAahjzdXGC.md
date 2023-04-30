@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Anggi Marito, Mario G Klau
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,161 likes - 96 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,195 likes - 96 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 27 | [All The Time](https://open.spotify.com/track/7lNKlPd03y5XiQCO46nm3K) | [Wevvss](https://open.spotify.com/artist/6zcbd2HfTX8pbqYqmXQkLI), [Magda](https://open.spotify.com/artist/44wtSTTCzHU8lrD4vEdZKD) | [All The Time](https://open.spotify.com/album/7hvjyUEp8VJhids8Vuyrax) | 2:23 |
 | 28 | [Failing Grace](https://open.spotify.com/track/5pgNf3aLWrULjZCCNz2b3X) | [denisa](https://open.spotify.com/artist/2fwvrk3t4SkpLOSvF1uoyg) | [Failing Grace](https://open.spotify.com/album/61Z0vQ4CaxBA0vYaPHSPsW) | 3:54 |
 | 29 | [Surel](https://open.spotify.com/track/28qaZVU6Wuk1cgA3MqkZKO) | [Normal Eve](https://open.spotify.com/artist/6c7nlW5vkowcTcgspuXUIS) | [Surel](https://open.spotify.com/album/0Cg5DfqjXLaJqWThh9lDmr) | 4:18 |
-| 30 | [ANDA KATAKAN](https://open.spotify.com/track/562w9oAArQNuj9wtajeO1K) | [Melati ESP](https://open.spotify.com/artist/2yHzkL2Cb1qMhEtFeeyr68) | [hipernatural](https://open.spotify.com/album/0BT0MdbDqzC1K1rYyTyexv) | 2:59 |
+| 30 | [ANDA KATAKAN](https://open.spotify.com/track/5KEqkZsq2kXZoZwMlWCCBq) | [Melati ESP](https://open.spotify.com/artist/2yHzkL2Cb1qMhEtFeeyr68) | [hipernatural](https://open.spotify.com/album/5PWCeX696MJg6QerDf3UMw) | 2:59 |
 | 31 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 |
 | 32 | [Freak Me Now](https://open.spotify.com/track/2WMlWvN0y7xoOEtftxdHvz) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [That! Feels Good!](https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6) | 3:28 |
 | 33 | [When The Day Is Done](https://open.spotify.com/track/3uOxQfsAQH4SJmRdBVLpzQ) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When The Day Is Done](https://open.spotify.com/album/6lzMbDwLT43JtvRbmcuBLn) | 3:00 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 95 | [Kongo Rikishi Statues](https://open.spotify.com/track/5riTEMLGYZl1NAyJ6VDNTz) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [RABBIT STAR ★](https://open.spotify.com/album/2BRgQmmR9jovRrDgkZbtDx) | 3:28 |
 | 96 | [Ribs](https://open.spotify.com/track/49GfyfNkOCRFaoSNCAN5GM) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Ribs](https://open.spotify.com/album/1STW8v44VbbFKtmToUurll) | 2:50 |
 
-Snapshot ID: `MCwyZTBlYWYzMWZmMjJiNmRhNGNjMTI2NDRjZTlhMWU2NjkxOTM5ODJj`
+Snapshot ID: `MCwyY2M3ZDEyOTZlNjczNWE0MzFjMTcxM2VlN2FiZmRjYzlmMTFlNDZi`

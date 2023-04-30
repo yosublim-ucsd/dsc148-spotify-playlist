@@ -4,7 +4,7 @@
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-177 songs - 12 hr 20 min
+178 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Sunday Kind Of Love](https://open.spotify.com/track/27zwk7cQ2s6sM3tiYgGVsF) | [Ruth Cameron](https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v) | [Roadhouse](https://open.spotify.com/album/1GHLXZszNeMFgHiolSg50f) | 4:52 | 2019-05-26\* | 2022-07-29 |
 | [A Sunday Kind Of Love](https://open.spotify.com/track/5MtTR1jjNpaYbutc0ZY6hp) | [Ruth Cameron](https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v) | [Roadhouse](https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx) | 4:52 | 2022-06-22 |  |
 | [A Time For Love](https://open.spotify.com/track/6kkYQ0DI1ZMQyuqNGCcZ09) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Surrender](https://open.spotify.com/album/06z8lYccAx5xmQJgyq5niq) | 4:59 | 2019-05-26\* | 2022-07-29 |
-| [A Time For Love](https://open.spotify.com/track/0Oho1Elt6nNyiHZyZR8OaG) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Surrender](https://open.spotify.com/album/5dFmnDotQPcuXAA2kdogmo) | 5:01 | 2022-06-22 |  |
+| [A Time For Love](https://open.spotify.com/track/0Oho1Elt6nNyiHZyZR8OaG) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Surrender](https://open.spotify.com/album/5dFmnDotQPcuXAA2kdogmo) | 5:01 | 2022-06-22 | 2023-04-30 |
 | [All Because Of You](https://open.spotify.com/track/6jV9QS9mBYFoiZF8GA6uKk) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [JetSetJazz](https://open.spotify.com/album/2KqHT8JmV2HI8tMXn7XIZs) | 3:33 | 2020-03-26 | 2022-07-29 |
 | [All Because Of You](https://open.spotify.com/track/7bZTJI3YNXUnC6Hpqk2wpX) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [JetSetJazz](https://open.spotify.com/album/3AHn8d2XYYLNCPO4BKbMaW) | 3:35 | 2022-06-22 |  |
 | [All of Me](https://open.spotify.com/track/3ts3nBCGF7K9JvSjWVQfX8) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Crazy Love](https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj) | 3:07 | 2022-05-02 |  |
@@ -62,6 +62,7 @@
 | [I Could Write a Book](https://open.spotify.com/track/23hVRi7d6PqAHCwT1VBPAz) | [Judy Whitmore](https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5) | [Can't We Be Friends](https://open.spotify.com/album/713e1pr0LoxyIsY5zD297X) | 2:26 | 2022-05-02 | 2022-05-19 |
 | [I Get A Kick Out Of You](https://open.spotify.com/track/4TRX5ZivGItdUnpkRC3JyU) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [I Get A Kick Out Of You](https://open.spotify.com/album/7dSqdzXE3lZxd6QBKesRab) | 3:33 | 2021-10-01 | 2022-06-01 |
 | [I Love Paris](https://open.spotify.com/track/7JL8mVaz5qsylzRVfHoNgL) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Éxitos Inolvidables De Cole Porter](https://open.spotify.com/album/2A3nXj08Js61tgGduWopiM) | 2:40 | 2021-10-02 | 2021-11-06 |
+| [I Miss You So](https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [I Miss You So](https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF) | 3:43 | 2023-04-27 |  |
 | [I Only Have Eyes For You](https://open.spotify.com/track/3ThCPINLVGtNGFhxLC4slT) | [Scott Bradlee's Postmodern Jukebox](https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc), [Sunny Holiday](https://open.spotify.com/artist/2dX157YnbGJAnNclK9HU0X) | [I Only Have Eyes For You](https://open.spotify.com/album/0RD4tTRG9JWmkhq4rpiRXk) | 3:12 | 2020-06-09 | 2022-07-29 |
 | [I Only Have Eyes For You](https://open.spotify.com/track/6y80WSyy5Neu2CsrqjQszz) | [Scott Bradlee's Postmodern Jukebox](https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc), [Sunny Holiday](https://open.spotify.com/artist/2dX157YnbGJAnNclK9HU0X) | [OK Crooner](https://open.spotify.com/album/13yp37PL2hnN1fP25AFB6J) | 3:12 | 2022-06-22 |  |
 | [I Walk A Little Faster](https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [Dear Blossom,](https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c) | 3:53 | 2019-05-26\* |  |

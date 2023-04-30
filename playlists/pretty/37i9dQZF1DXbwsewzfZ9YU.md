@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > open the pit\. cover: Incendiary
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,596 likes - 85 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,652 likes - 85 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 29 | [Halfway](https://open.spotify.com/track/2iQ8BNDGU06JXqVYhOaKY5) | [Bent Blue](https://open.spotify.com/artist/1haOs9zOxraUzXYPEOs125) | [Where Do Ripples Go?](https://open.spotify.com/album/3QrvdDcBeldWqVJ09ADQrS) | 2:49 |
 | 30 | [Ctrl+C](https://open.spotify.com/track/1jTxqpySVTE0xT4r4DKC7O) | [Year of the Knife](https://open.spotify.com/artist/6z6uImpvyrxii5OyX1ic8Q) | [Dust to Dust](https://open.spotify.com/album/1P99aFkpE89pgpSjKZ5axS) | 2:20 |
 | 31 | [Resurrection II](https://open.spotify.com/track/6ekWBiiyu5wPAixB5ZtK2H) | [Poison Ruïn](https://open.spotify.com/artist/0WHVA5E3ZEY5mxGkMYqPuB) | [Härvest](https://open.spotify.com/album/2BGvd8w4DoxN4DOjC47iQL) | 3:02 |
-| 32 | [Waste Not Want Not](https://open.spotify.com/track/1Afo69VKVJqAkhuxHyHnZ1) | [The Hirs Collective](https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl), [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan), [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [We're Still Here](https://open.spotify.com/album/0byX67r0zvqZAMBiO8o2Yr) | 1:38 |
+| 32 | [Waste Not Want Not](https://open.spotify.com/track/1RdagyPuSdu3ANLGWRWIxi) | [The Hirs Collective](https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl), [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan), [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [We're Still Here](https://open.spotify.com/album/71DPihEMEmNsXe05FVHJN7) | 1:38 |
 | 33 | [Fool](https://open.spotify.com/track/3uYxIcmISekmOBE9uwMGtp) | [Initiate](https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau) | [Cerebral Circus](https://open.spotify.com/album/1UIGmyBWoI4jeDdO4hHSss) | 2:07 |
 | 34 | [Different Strokes](https://open.spotify.com/track/0BKoH0V5oitnRXXdTJaruF) | [Pulses.](https://open.spotify.com/artist/0tko2stnUOqejIto8rKRh7) | [Different Strokes](https://open.spotify.com/album/1rDtz6r9JVwFBStd2vQpy1) | 2:52 |
 | 35 | [Delusions of Grandeur](https://open.spotify.com/track/1PhnLoIh8emLvQ7mUM1CyJ) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Delusions of Grandeur](https://open.spotify.com/album/0ehJqGshc3gcqVjJeo6hy1) | 2:58 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 40 | [One Last Taste of Heaven](https://open.spotify.com/track/54jCh0tTSFQK9YOjw7gC2w) | [Portrayal of Guilt](https://open.spotify.com/artist/1Uwe1MbiKnPHAFh3qMWuNp) | [Devil Music](https://open.spotify.com/album/7sfiDMLBSmaP9IYJh7Qwlz) | 1:36 |
 | 41 | [No Easy Way Out](https://open.spotify.com/track/4Avrrj95QH89EfgqdsViGh) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [Heavy Steps](https://open.spotify.com/album/4onFuBSmTMwtS17L0U8tEm) | 2:35 |
 | 42 | [Zoo](https://open.spotify.com/track/5DuLYFs13hJ5QhAfXT3Jxs) | [Going Off](https://open.spotify.com/artist/2xCCFcGLx1oUlS1AMtfBo9) | [What Makes You Tick?](https://open.spotify.com/album/5cDmhZrR4QJCYxE0W5GvOm) | 1:15 |
-| 43 | [Neila Forever](https://open.spotify.com/track/0kDAjR7duweezdNqzEOvhg) | [The Hirs Collective](https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl), [Jeremy Bolm](https://open.spotify.com/artist/5DGjzHqlmOlJl962qJJ9s1), [Jordan Dreyeri](https://open.spotify.com/artist/7kgjZM6kPLX0DkuMq5AKVQ) | [We're Still Here](https://open.spotify.com/album/0byX67r0zvqZAMBiO8o2Yr) | 0:49 |
+| 43 | [Neila Forever](https://open.spotify.com/track/0sRMDXzVxrxIIRYjzTWmaG) | [The Hirs Collective](https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl), [Jeremy Bolm](https://open.spotify.com/artist/5DGjzHqlmOlJl962qJJ9s1), [Jordan Dreyeri](https://open.spotify.com/artist/7kgjZM6kPLX0DkuMq5AKVQ) | [We're Still Here](https://open.spotify.com/album/71DPihEMEmNsXe05FVHJN7) | 0:49 |
 | 44 | [The Whole World Is Going Insane](https://open.spotify.com/track/0vg20pb8LtH1g8aqPIDK6J) | [Roughed Up](https://open.spotify.com/artist/4OhXYJWzSlb33F7UtmRTgb) | [King and Council](https://open.spotify.com/album/3skHBTTM1EPjztnxNelXCe) | 2:54 |
 | 45 | [Predator](https://open.spotify.com/track/1ybz0ZxYntBCRhT4XidpSZ) | [Exhibition](https://open.spotify.com/artist/3PXIpUyxwTbRam0fB84BKD) | [The Last Laugh](https://open.spotify.com/album/0jLiscuEhkYovlrf6u09Af) | 2:10 |
 | 46 | [Familia Finito](https://open.spotify.com/track/6efk4XQySFHObUildXzh6e) | [End It](https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn) | [Familia Finito](https://open.spotify.com/album/2NsPZAEAUb7jCoHSuVTA5z) | 1:27 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 52 | [a kiss for every hornet](https://open.spotify.com/track/4zjoNVLpEHz2SYlNhtxsMb) | [.gif from god](https://open.spotify.com/artist/4qVaCnGWlXCy5IP1nNVlT5) | [a kiss for every hornet](https://open.spotify.com/album/6C8roo7XUDgyfBS0RQrU8Y) | 3:34 |
 | 53 | [Soul Deprivation](https://open.spotify.com/track/2znXHOOnt1MyScfn5BS9z0) | [Doomsday](https://open.spotify.com/artist/6mHdvtPmloBOmaLRo5dyJY) | [Depictions of Chaos](https://open.spotify.com/album/1HM8IieKhKLNVnw3oaeclh) | 2:28 |
 | 54 | [Heavens Gate](https://open.spotify.com/track/6PzTwR5RbSBMhDR3JPSo66) | [Earth Exit](https://open.spotify.com/artist/6wIhtZWHOCUqvIZaxXJKsc) | [Earth Exit](https://open.spotify.com/album/2H4taIZ3OvhgHYA3c4K6Wp) | 3:26 |
-| 55 | [Ambivalence](https://open.spotify.com/track/2qfphPpOAkLAGr5hjBij4y) | [Sonagi](https://open.spotify.com/artist/7LMdXzRix6vqLE1PefCPAg) | [Precedent](https://open.spotify.com/album/6H7jy2vvzT4XPXC9ubX5by) | 2:20 |
+| 55 | [Ambivalence](https://open.spotify.com/track/40CnUZ7PoaK77rSGqmx7Mi) | [Sonagi](https://open.spotify.com/artist/7LMdXzRix6vqLE1PefCPAg) | [Precedent](https://open.spotify.com/album/2yTQM7NDekBNwq2OgGWso9) | 2:20 |
 | 56 | [Brain Wavez](https://open.spotify.com/track/0zGdvQEepg73ROZtkO3mw9) | [Mindz Eye](https://open.spotify.com/artist/7G5bKSZiqDTuhK4j8OIM9d) | [True Blue](https://open.spotify.com/album/1HFUXm75EX6cap0pOiSyYJ) | 2:29 |
 | 57 | [Gaining Purpose](https://open.spotify.com/track/08mIaXVJgO4LJqBbmCQXlN) | [Twitching Tongues](https://open.spotify.com/artist/3k1tPUpSlWppOSbIV1ivQy) | [Gaining Purpose Through Passionate Hatred](https://open.spotify.com/album/1odexVafvTYzG1bCxz9AiO) | 3:51 |
 | 58 | [Wash Away](https://open.spotify.com/track/6cHOi5m75d3W57ezmw4WRr) | [Ambleside](https://open.spotify.com/artist/7Fr8MbK08l3g9yHrXb4j4Y) | [Shape Me](https://open.spotify.com/album/4CrsYa4aZEQtJz3843zt31) | 3:27 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 84 | [BATTERY NOT INCLUDED](https://open.spotify.com/track/7ACF2rwvNReujse9eedE56) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [SKIN](https://open.spotify.com/album/6gl8rX7dP20vjIQPi1mlDO) | 2:53 |
 | 85 | [Walk Away](https://open.spotify.com/track/3oTmI7QmcVxDarZBjIFo20) | [Throwdown](https://open.spotify.com/artist/18jFO6Z2Bpdv5jp8mXfChN) | [Haymaker](https://open.spotify.com/album/5jq1TKdbp3hZrT7iJw4VPS) | 3:01 |
 
-Snapshot ID: `MCxjNTAyY2ZjOTQxZDcxZDc2NzA3MmIyMzhiZGRiYmE4N2NiOTExMTRi`
+Snapshot ID: `MCw0YmM5ZDk1OWEyYWNlZmVhMjRiNGM0ZmI2YzE1ZmQ5MjBjNjc5YjAw`

@@ -754,10 +754,28 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 185693,
       "name": "Life by the Drop",
       "url": "https://open.spotify.com/track/0yqpt8kklxBeMD8dpvoD8l"
+    },
+    {
+      "album": {
+        "name": "Fitchburg Street",
+        "url": "https://open.spotify.com/album/22uz6QF9N2UVHjOjK2LAEw"
+      },
+      "artists": [
+        {
+          "name": "Doyle Bramhall",
+          "url": "https://open.spotify.com/artist/2ewLmeOezmY0HqMR21anX4"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185693,
+      "name": "Life by the Drop",
+      "url": "https://open.spotify.com/track/3qXcnzcNx45bXlWJzD730w"
     },
     {
       "album": {

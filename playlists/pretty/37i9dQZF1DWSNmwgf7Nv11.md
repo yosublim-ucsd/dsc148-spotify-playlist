@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 
 > Free\-spirited, atmospheric vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,586 likes - 162 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,568 likes - 162 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,7 +123,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 113 | [Can We Work It Out](https://open.spotify.com/track/4S1yLjymQvee14DAFCptVl) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Reservoir](https://open.spotify.com/album/7MVNwVgywHDy4hv7MQ2n1E) | 4:11 |
 | 114 | [See You In The Water](https://open.spotify.com/track/4aA8CFoR0tedqtPtq7SOij) | [Tinpan Orange](https://open.spotify.com/artist/6hH9xgYqNz2YtBKZvk1Jox) | [See You In The Water](https://open.spotify.com/album/7GPgkBXXKmtomXrgGzTTnS) | 3:43 |
 | 115 | [Ruin Your Night](https://open.spotify.com/track/6NVu0gFLV6t6SDjXUpwCeu) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Ruin Your Night](https://open.spotify.com/album/2UYB4wRTZHpYfZoBFoepUW) | 3:08 |
-| 116 | [Cross](https://open.spotify.com/track/1Ylq065oHAXreb9bVmuNjc) | [Melby](https://open.spotify.com/artist/6cGqnTUSlRs2Ypc15VdRF5) | [Cross](https://open.spotify.com/album/2zfuDM9Ju4nT6lwrWNLZ0d) | 3:39 |
+| 116 | [Cross](https://open.spotify.com/track/78pUBKqFVpOzaxlEatECBp) | [Melby](https://open.spotify.com/artist/6cGqnTUSlRs2Ypc15VdRF5) | [Cross](https://open.spotify.com/album/5ttxPIItxo18tdg9VIiued) | 3:39 |
 | 117 | [Call Us by Our Names](https://open.spotify.com/track/4p5Qfp9SajCNCDmXvuJjMW) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF) | [Call Us by Our Names](https://open.spotify.com/album/297WF4qNObKCUkloCQOJFd) | 2:53 |
 | 118 | [Like You](https://open.spotify.com/track/4ODoaLgJqlFr4k3kCK5FEf) | [EXES](https://open.spotify.com/artist/39R87tT1qaTxHwu5m87USa) | [The Art of Saying Goodbye](https://open.spotify.com/album/4AufrdmnqQfXxwomw2eDQW) | 3:28 |
 | 119 | [Opaque](https://open.spotify.com/track/2JiGBWSNdoZY3LA1NvFrKw) | [Smoke Season](https://open.spotify.com/artist/1WNXj8T5x4LqlHgr1kMIdc) | [Hot Coals Cold Souls](https://open.spotify.com/album/2PsJuf0H17AqYjmZnqmkUA) | 4:31 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNmwgf7Nv11.md) - [plain]
 | 161 | [Reds](https://open.spotify.com/track/7pMwXBiXREiDyZYZv895EQ) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Reds](https://open.spotify.com/album/2jcuBrVLACrRdXtvzRjrnm) | 2:58 |
 | 162 | [Looking For You](https://open.spotify.com/track/7l97DrJ8QQuScv0vr7jLug) | [Ev Carm](https://open.spotify.com/artist/7HRu2XaMM0YFdWqKGDiQtL) | [Looking For You](https://open.spotify.com/album/5pEYv4wPABSjxjXgkyQFpE) | 4:22 |
 
-Snapshot ID: `MCw3NTJiNDgwZDJkMTYyOGQ5ZDJjODkyN2Y0M2YxMTkyMDczMTEyNDhj`
+Snapshot ID: `MCw0OGZhMDEwMDNhYzcwZmMyMmVlNmZhZmI3MWYyNTNlZDgyNjQwZWJi`

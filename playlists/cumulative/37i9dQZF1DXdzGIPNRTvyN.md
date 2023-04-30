@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of piano, water, birds, and calmness.
 
-96 songs - 4 hr 22 min
+97 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Cedar Forest](https://open.spotify.com/track/16Aoy96Xo1Y1xnNW5Q0rnu) | [Alma Forest](https://open.spotify.com/artist/5n7QXdkmXfGAz6srNlrF8l) | [The Birds' Lullaby](https://open.spotify.com/album/3FM8vHSAiC47KQwL1HVHNe) | 2:24 | 2023-03-03 |  |
 | [Changing Colors](https://open.spotify.com/track/0uqcH5GIa9Qcvez3Y1Lcuf) | [Hiwet Tesmi](https://open.spotify.com/artist/7MIJsl2yQjdrjtVdNKd60T) | [Changing Colors](https://open.spotify.com/album/2FPYTlqy2N3I8wicQabdTf) | 3:00 | 2023-01-24 |  |
 | [Close Your Eyes](https://open.spotify.com/track/2bwDS1XzL0yNHyMEZxbRsI) | [Laiua](https://open.spotify.com/artist/1fhB7jhn3UFb3AdiHMsQTz) | [Close Your Eyes](https://open.spotify.com/album/40951TFlj3CPsvl1Xtx8Wa) | 3:16 | 2023-03-13 |  |
+| [Conscious Jorney](https://open.spotify.com/track/2KiNlLvSDfEd3MLIYTAmY6) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Conscious Jorney](https://open.spotify.com/album/5CfoAkeqrKd46Jy8m4cza3) | 2:43 | 2023-04-24 |  |
 | [Corals](https://open.spotify.com/track/2zLPRWzrufYPYAemBsT1nR) | [Kumatra](https://open.spotify.com/artist/5I6mjLaJjYhtmDJY2nsF5H) | [Corals](https://open.spotify.com/album/3R3upyibOF7PGPeDNGhBnI) | 2:25 | 2023-04-14 |  |
 | [Countryside](https://open.spotify.com/track/1niV98qbCKuViXYebTlyEX) | [Noche Larga](https://open.spotify.com/artist/4QOp3aQnEKX1eFwZiT5U3I) | [Countryside](https://open.spotify.com/album/3P5GsO5dYCjBD7nLXMANPG) | 3:24 | 2023-01-24 |  |
 | [Cíclica](https://open.spotify.com/track/0jqfKwvVglieA2ESdKU8JM) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Cíclica](https://open.spotify.com/album/5jVMmxJaXohVz7BwmJqiBW) | 3:52 | 2023-01-24 |  |
@@ -68,7 +69,7 @@
 | [Nocturne in the rain](https://open.spotify.com/track/1fColVDTMjOFRu4kDMKMP2) | [Oscar Sergel](https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8) | [Nocturne in the rain](https://open.spotify.com/album/1DQQanFJj3DqKH5oD9JadF) | 2:30 | 2023-03-13 |  |
 | [Open Windows](https://open.spotify.com/track/0haM4uUy5Gl0qVdyn6csKG) | [Leonore Baldwin](https://open.spotify.com/artist/6ZlHe1gzZkHFr83kgRkxNA) | [Open Windows](https://open.spotify.com/album/2ieEchgcw6pTWoQSpNPDt7) | 2:42 | 2023-01-24 |  |
 | [Part 15, Afternoon Melody](https://open.spotify.com/track/5UIUZitjTfmsu52npWQE7D) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Corkscrew Swamp Sanctuary Pt\. 2 Soundwalk](https://open.spotify.com/album/0TBQA6n8foPfWoamgZgGi3) | 2:38 | 2023-03-13 | 2023-04-29 |
-| [Part 2, Trailside Rivulet and Birdsong](https://open.spotify.com/track/6YoRZMHu0xLdBlWSgKXslU) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Forest Park Rain Soundwalk](https://open.spotify.com/album/3qb2JQvWSf3WQMHtcL0PW9) | 1:17 | 2023-01-24 |  |
+| [Part 2, Trailside Rivulet and Birdsong](https://open.spotify.com/track/6YoRZMHu0xLdBlWSgKXslU) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Forest Park Rain Soundwalk](https://open.spotify.com/album/3qb2JQvWSf3WQMHtcL0PW9) | 1:17 | 2023-01-24 | 2023-04-30 |
 | [Peaceful Place & Sunday Mornings](https://open.spotify.com/track/5zPzkbW31xa6qmkTiTgL3j) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XXII](https://open.spotify.com/album/5VNH9QQzeqTgpojNFFYzgw) | 2:22 | 2023-01-24 | 2023-02-14 |
 | [Peaceful Rains](https://open.spotify.com/track/1Ob1iujiq63tbCOqLpmQhI) | [Piano Radiance](https://open.spotify.com/artist/69P4GKHbbgUhcNWn7Qaj1u) | [Music for Spa and Massage:Restful Rain and Piano](https://open.spotify.com/album/7Bd8L9jNUCE2kr7hqYguXd) | 3:36 | 2023-01-24 |  |
 | [pebble brook \- ambient room mix](https://open.spotify.com/track/4aE13rELUFUQCXEMDw6aF3) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the piano next door](https://open.spotify.com/album/7pVqb2flsJL6zX6ly0VoR2) | 2:38 | 2023-01-24 |  |

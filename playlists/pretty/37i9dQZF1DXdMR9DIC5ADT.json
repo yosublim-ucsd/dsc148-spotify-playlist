@@ -1,12 +1,12 @@
 {
   "description": "\u30d5\u30a7\u30b9\u95a2\u4fc2\u8005\u306e\u7686\u69d8\u3001Let's book them! \u3044\u307e\u8074\u304d\u305f\u3044\u3001\u6ce8\u76ee\u306e\u6d0b\u697d\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\uff01 cover: Labrinth",
-  "num_followers": 1487,
+  "num_followers": 1500,
   "original_name": "The WISHLIST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2Q0NTNjNzJlYzY5ZDE2NWNlZjFkNzI0ZTc1ZWFiNmMxMmRjY2Jh",
+  "snapshot_id": "MCxhZWQ0MTQ2ODc4N2IzYzcxZWJjODQwMGIyMGQ2NjAyNzM2NmQ3MWFi",
   "tracks": [
     {
       "added_at": "2023-04-27 16:45:39",
@@ -568,7 +568,7 @@
       "added_at": "2023-04-27 16:45:39",
       "album": {
         "name": "Watching The Credits",
-        "url": "https://open.spotify.com/album/4wcu9s9C12dBnYAvpeK9QY"
+        "url": "https://open.spotify.com/album/3jRcvMTnKCMfIiA1TevG9s"
       },
       "artists": [
         {
@@ -578,23 +578,27 @@
       ],
       "duration_ms": 195026,
       "name": "Watching The Credits",
-      "url": "https://open.spotify.com/track/71qgKwa2bSdb2gB6Qob5qT"
+      "url": "https://open.spotify.com/track/2KbfXyUl8eusGT4pWwKroB"
     },
     {
       "added_at": "2023-04-27 16:45:39",
       "album": {
-        "name": "LLYLM",
-        "url": "https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm"
+        "name": "Princess Diana (with Nicki Minaj)",
+        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 174044,
-      "name": "LLYLM",
-      "url": "https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd"
+      "duration_ms": 172125,
+      "name": "Princess Diana (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
     },
     {
       "added_at": "2023-04-27 16:45:39",
@@ -631,22 +635,18 @@
     {
       "added_at": "2023-04-27 16:45:39",
       "album": {
-        "name": "Princess Diana (with Nicki Minaj)",
-        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
+        "name": "LLYLM",
+        "url": "https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm"
       },
       "artists": [
         {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 172125,
-      "name": "Princess Diana (with Nicki Minaj)",
-      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
+      "duration_ms": 174044,
+      "name": "LLYLM",
+      "url": "https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd"
     },
     {
       "added_at": "2023-04-27 16:45:39",

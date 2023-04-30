@@ -4,7 +4,7 @@
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Thomas Rhett
 
-273 songs - 14 hr 55 min
+274 songs - 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,8 @@
 | [Lit This Year](https://open.spotify.com/track/2xXCYeiWBTy1h829foY6i1) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Lit This Year](https://open.spotify.com/album/1MB1B1dk8AVBi9zTEipTpY) | 2:46 | 2021-12-16 |  |
 | [Little Drummer Boy](https://open.spotify.com/track/59d79IC1QUCiWiEPb2bdLp) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [Isaiah Fisher](https://open.spotify.com/artist/70keqETgUbAWzsr3cfjsq3) | [My Gift](https://open.spotify.com/album/1wI9NGtQCnhyweuVACpXW4) | 2:56 | 2021-12-16 |  |
 | [Little Saint Nick](https://open.spotify.com/track/6luTECHWWvGbAft9qmBGPL) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [On This Winter's Night \(Deluxe\)](https://open.spotify.com/album/6ww6efJkv3ytQfbEyMosPu) | 2:36 | 2021-12-16 |  |
-| [Little Saint Nick](https://open.spotify.com/track/71oTDaEl35vkVSwAdyBA9L) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT), [Jay DeMarcus](https://open.spotify.com/artist/2rMyXBuAzlrspJyYxQZ8m0) | [Little Saint Nick](https://open.spotify.com/album/4dtVpeSNfNnpgFWe4DshBt) | 2:13 | 2022-11-11 |  |
+| [Little Saint Nick](https://open.spotify.com/track/5ZGcZgUvxz7bKwu7lFpL9B) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT), [Jay DeMarcus](https://open.spotify.com/artist/2rMyXBuAzlrspJyYxQZ8m0) | [Little Saint Nick](https://open.spotify.com/album/3KZWzf3bfYhhdNJhC01JLt) | 2:13 | 2022-12-16 |  |
+| [Little Saint Nick](https://open.spotify.com/track/71oTDaEl35vkVSwAdyBA9L) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT), [Jay DeMarcus](https://open.spotify.com/artist/2rMyXBuAzlrspJyYxQZ8m0) | [Little Saint Nick](https://open.spotify.com/album/4dtVpeSNfNnpgFWe4DshBt) | 2:13 | 2022-11-11 | 2023-04-30 |
 | [Lonely on Christmas](https://open.spotify.com/track/5PfYhLWG9tiLdcr4oPE9XH) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC), [Mike and the Moonpies](https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi) | [Lonely on Christmas](https://open.spotify.com/album/3oG3oJqYCWBFeuBznwd4ft) | 3:09 | 2022-12-02 |  |
 | [Make You Blue](https://open.spotify.com/track/711vQbDv6Xe5vGAMG1Wfko) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny) | [Hell of a Holiday](https://open.spotify.com/album/0xsa9tFddApdX5wlHtKROP) | 3:14 | 2021-12-16 |  |
 | [Mango Tree](https://open.spotify.com/track/2GxiYTsbcIbVHIUYOYRM4t) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [JEKYLL + HYDE](https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr) | 3:41 | 2021-12-16 | 2022-11-05 |

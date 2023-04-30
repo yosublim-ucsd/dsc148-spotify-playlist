@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Elohim
 
-395 songs - 22 hr 8 min
+396 songs - 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Ego](https://open.spotify.com/track/6R7CXX5xAQ5okxXRr2LWzB) | [Origami Human](https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t) | [Origami Human](https://open.spotify.com/album/7j4meIEQzvfubq1EBNfg1r) | 3:43 | 2021-12-10 | 2022-04-20 |
 | [Electric Feel](https://open.spotify.com/track/5BevUDbSHGxIbmXGDd6Ejs) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Electric Feel](https://open.spotify.com/album/5zUYLWWuq9y0rzN7XyyGVz) | 3:12 | 2021-08-06 |  |
 | [Emerald](https://open.spotify.com/track/2eAzJdGWnNPSSGFDHEBh7B) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [rSUN](https://open.spotify.com/artist/6Xeaz1BUIz3AHiT87zNAIo), [Deliriousninja](https://open.spotify.com/artist/4V7oY0avOn1pHnLnm4DODk) | [Emerald](https://open.spotify.com/album/3jwJuAOzD9swvO3Kuh9zq7) | 2:57 | 2023-03-16 | 2023-04-10 |
+| [Emotional \- James Hiraeth Remix](https://open.spotify.com/track/0Z2muIwFO7cZaPo21bYa8C) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo), [James Hiraeth](https://open.spotify.com/artist/13lPKi6IQrIyWyyovYUbtA) | [Emotional \(James Hiraeth Remix\)](https://open.spotify.com/album/5tWUVYH8mUw4TQQaCtsWDi) | 3:24 | 2023-04-28 |  |
 | [Empress \- Zeds Dead Remix](https://open.spotify.com/track/5w9XTPbDewcXuKaseMFwlj) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Empress \(Zeds Dead Remix\)](https://open.spotify.com/album/3cm2AeJxXUCePRrRzzTnWG) | 2:14 | 2023-03-24 |  |
 | [Empty Room \- Cabu Remix](https://open.spotify.com/track/64c7VPaG2oVXyhfq57peBd) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE) | [Empty Room](https://open.spotify.com/album/6SJFvWHnjFWBRdEKxT3l7s) | 3:46 | 2021-08-06 |  |
 | [Empty Room \- Cabu Remix](https://open.spotify.com/track/7dEYUkZMdUs7rfOKRMr5lO) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE) | [Empty Room](https://open.spotify.com/album/4Fbe1OKsl6BdOYKix4j6Lu) | 3:46 | 2021-08-06 | 2022-07-29 |
@@ -205,7 +206,7 @@
 | [Lessons](https://open.spotify.com/track/0yrprIEMM99mThlgrdewdw) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Sunshine](https://open.spotify.com/album/4doBcrW3hq3ulGSlqLJtSR) | 2:11 | 2022-03-11 | 2023-02-19 |
 | [let it go](https://open.spotify.com/track/1czCYuXfV3XtRTgxnVqyHY) | [Somnium Sound](https://open.spotify.com/artist/7f7uTajAqbXruaAKcdaOZr) | [let it go](https://open.spotify.com/album/6xUiM2eyJCfBKAK1FesvC8) | 3:05 | 2021-08-06 | 2023-02-11 |
 | [let me](https://open.spotify.com/track/6ThArNkAqw6TzGaFgnX5j1) | [jøno](https://open.spotify.com/artist/3oWQ3rSeKMRuEmbud3qBI4), [JB Hain](https://open.spotify.com/artist/7iJUjgKf5EfgLRlczakDtA) | [let me](https://open.spotify.com/album/1cMLi5mMTvRpQHdUjEJzf1) | 3:05 | 2021-11-19 | 2022-04-21 |
-| [Let You Go](https://open.spotify.com/track/4Jw61X9JLDhHMXnYyUszad) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Let You Go](https://open.spotify.com/album/2yCztLk81wZsugtw4DGuMQ) | 3:21 | 2022-12-21 |  |
+| [Let You Go](https://open.spotify.com/track/4Jw61X9JLDhHMXnYyUszad) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Let You Go](https://open.spotify.com/album/2yCztLk81wZsugtw4DGuMQ) | 3:21 | 2022-12-21 | 2023-04-30 |
 | [Let You Go](https://open.spotify.com/track/6XX2urlNfbou2B4XSdnpyp) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [Chrome Castle](https://open.spotify.com/album/0ZnuAyKO30TEtANQrikmJm) | 4:39 | 2022-03-18 | 2022-07-29 |
 | [Lights Out \- Remix](https://open.spotify.com/track/6gVpJ1C8NJTsSkJePxTh0n) | [Taska Black](https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3), [Alioth](https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF), [OSKI](https://open.spotify.com/artist/3qfXX3w7HSnE4QfJlicEvJ) | [Lights Out \(Remix\)](https://open.spotify.com/album/6MaW5BIEjrRYJe1Zb424CC) | 2:43 | 2023-03-10 |  |
 | [Like That \(feat\. Aleya Mae\)](https://open.spotify.com/track/39tTbcfjAL000DxMUMJhO0) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7), [Aleya Mae](https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb) | [Like That \(feat\. Aleya Mae\)](https://open.spotify.com/album/0ZAuSMPh6VcoHEXITDVfZz) | 3:08 | 2023-02-10 |  |

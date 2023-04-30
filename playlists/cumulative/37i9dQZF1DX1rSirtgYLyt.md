@@ -4,7 +4,7 @@
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-118 songs - 8 hr 44 min
+120 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Beast of Burden](https://open.spotify.com/track/6G0E34D8C9wb777W4QHZfv) | [The Holmes Brothers](https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW) | [All Blues'd Up: Songs of the Rolling Stones](https://open.spotify.com/album/1zHWMhbLzLP2mjQnuqJnqL) | 4:50 | 2022-06-24 | 2022-07-29 |
 | [Bleeding Heart](https://open.spotify.com/track/5QytK3mFNMckdsgVdCv5Lf) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 3:58 | 2022-07-29 |  |
 | [Blues In The Night](https://open.spotify.com/track/50y2NVBilJvswKuQn5qe5x) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Piece By Piece](https://open.spotify.com/album/39LGwjgf2oV1BlCPsuLp4S) | 4:12 | 2022-06-24 |  |
-| [Boom Boom](https://open.spotify.com/track/5GfniMxaYSGBCPrK71SL0Y) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Bad Mouthin'](https://open.spotify.com/album/1BDyQ67N0PjyWDF3yVjEoQ) | 4:22 | 2022-07-08 |  |
+| [Boom Boom](https://open.spotify.com/track/308np2jHp2Z0GmKa1V4f2P) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Bad Mouthin'](https://open.spotify.com/album/3ZChLxUW5NBs5h4c49OMUF) | 4:22 | 2023-04-06 |  |
+| [Boom Boom](https://open.spotify.com/track/5GfniMxaYSGBCPrK71SL0Y) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Bad Mouthin'](https://open.spotify.com/album/1BDyQ67N0PjyWDF3yVjEoQ) | 4:22 | 2022-07-08 | 2023-04-30 |
 | [Born Under A Bad Sign](https://open.spotify.com/track/2uxsnsH0XzOBZkMrSFVmll) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Wheels Of Fire](https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9) | 3:09 | 2022-06-24 |  |
 | [Bring It On Home To Me](https://open.spotify.com/track/4Vfgc4BdSKM2hRlkaRFc9C) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 3:10 | 2022-06-24 |  |
 | [Built for Comfort](https://open.spotify.com/track/2qm4ndp7taYoHbvlQKDQAX) | [Sunjay](https://open.spotify.com/artist/3p62DWI8KdlfX4lNTMNXeu) | [Black & Blues Revisited](https://open.spotify.com/album/28xKFUcoOpKPu4HbanKjzg) | 3:48 | 2023-02-13 |  |
@@ -108,7 +109,8 @@
 | [Stop Messin’ Round \(Live\)](https://open.spotify.com/track/7FD3t0JgZ46k28egOPYfHa) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Blues From The Heart Live \(Live\)](https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp) | 3:49 | 2022-06-24 |  |
 | [Stop!](https://open.spotify.com/track/3WFfqRoJhJeHIZzKdW5xXZ) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Ballad of John Henry](https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN) | 6:48 | 2022-06-24 |  |
 | [Stormy Monday Blues](https://open.spotify.com/track/1jWzxiovfCE1Ye5Mdy9Kq2) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Greatest Blues Covers](https://open.spotify.com/album/16DVtb2ktkxqpkzFsYGnSG) | 4:23 | 2022-06-24 |  |
-| [Summertime](https://open.spotify.com/track/4R3mHfzNpk0YmRx983jzik) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Green River](https://open.spotify.com/album/3E9yu7yqBGvCRgZqk1oD43) | 5:05 | 2023-01-12 |  |
+| [Summertime](https://open.spotify.com/track/22YV6hhUNMjv6Nf65NFSHg) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Green River](https://open.spotify.com/album/5EpWgT2sHg4I96ZIlJdDNd) | 5:05 | 2023-04-06 |  |
+| [Summertime](https://open.spotify.com/track/4R3mHfzNpk0YmRx983jzik) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Green River](https://open.spotify.com/album/3E9yu7yqBGvCRgZqk1oD43) | 5:05 | 2023-01-12 | 2023-04-30 |
 | [Sweet Home Chicago \- Mono Rough Mix](https://open.spotify.com/track/5zGssSIGlzrEWZOH3M8Bn6) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Buddy Guy & Junior Wells Play The Blues \(Expanded\)](https://open.spotify.com/album/258nJWLkWNsQshy4AZUDaQ) | 4:00 | 2022-06-24 |  |
 | [Sweet Home Chicago \- Studio](https://open.spotify.com/track/0znXZlsMDXLiTeK1IoG0XD) | [Peter Green Splinter Group](https://open.spotify.com/artist/77aUDqXRIvkDNxARfYwoHC) | [The Robert Johnson Songbook](https://open.spotify.com/album/4RZdbilpZLCecJHtEkdJgX) | 4:14 | 2023-01-12 |  |
 | [Taxman](https://open.spotify.com/track/3kT1cthH4KOLPJRpmdHQrI) | [Teresa James](https://open.spotify.com/artist/4Ovys1AMeXFomDQvnc4f0C) | [Taxman](https://open.spotify.com/album/147vvnC0aJ0Ttrtbgmv6ee) | 3:26 | 2023-01-06 |  |

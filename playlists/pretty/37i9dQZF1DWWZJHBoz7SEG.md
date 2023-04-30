@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Christian Nodal, Thalía, Jhayco y Quevedo y toda la música para que disfrutes del puente!
 
-[Spotify](https://open.spotify.com/user/spotify) - 771,240 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 771,531 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 4 | [No Me Beses](https://open.spotify.com/track/09XxwOPCRnN7A75z6Z0OqR) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [No Me Beses](https://open.spotify.com/album/5MjWs7elYagIL0FvQA21ic) | 2:54 |
 | 5 | [Ando Bien Agusto](https://open.spotify.com/track/5heouRKOr5RdKXWd4tdZZw) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Ando Bien Agusto](https://open.spotify.com/album/6Vd6fo2eFRRZvxCILrySBa) | 3:10 |
 | 6 | [Mami Chula](https://open.spotify.com/track/4aJzxp3gimtAdgJn3DL776) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Mami Chula](https://open.spotify.com/album/7weNe4OIBROOCcMEOMeNlS) | 3:40 |
-| 7 | [Adictivo](https://open.spotify.com/track/5UEjM0Fh4pR0k7GB8NiWbP) | [Kail BRL](https://open.spotify.com/artist/1F5KgWs6pawyDs5px23UIQ), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [One Play](https://open.spotify.com/artist/7CWDAYGiG32qhfwu7Q8zoL), [Nes](https://open.spotify.com/artist/2g70xFJ8TL299YIU9VUmfJ) | [Adictivo](https://open.spotify.com/album/3aRuaZpcga7h8UgetZ6iKw) | 4:19 |
+| 7 | [Adictivo](https://open.spotify.com/track/5UEjM0Fh4pR0k7GB8NiWbP) | [Kail BRL](https://open.spotify.com/artist/1F5KgWs6pawyDs5px23UIQ), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [One Play](https://open.spotify.com/artist/7CWDAYGiG32qhfwu7Q8zoL), [Nes](https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv) | [Adictivo](https://open.spotify.com/album/3aRuaZpcga7h8UgetZ6iKw) | 4:19 |
 | 8 | [Lo Tuyo](https://open.spotify.com/track/006CO4mmOAbDt6HtzyFfT3) | [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Lo Tuyo](https://open.spotify.com/album/1FT0s7BjMVSoN1oxL2p3uw) | 2:42 |
 | 9 | [Romántica Champeta](https://open.spotify.com/track/3G6dSSbZvaBUVgXcvmXjKF) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf), [The Busy Twist](https://open.spotify.com/artist/0jPcvO2Jz1kkvANItu53jI) | [Romántica Champeta](https://open.spotify.com/album/1eEgcFThThSorfmePy4VvO) | 3:22 |
 | 10 | [Asesina](https://open.spotify.com/track/2MOLpaE8R8rP98fPTizwPw) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Asesina](https://open.spotify.com/album/1kP6iGltU5xfoZh7u1ipLn) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [Alguien Más](https://open.spotify.com/track/2B1wvUhXgpNQEaKrpbz4GB) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Alguien Más](https://open.spotify.com/album/4zWo7AC1bjASlVaJYpmIXj) | 2:25 |
 | 50 | [Lo Que Me Harías En Otra Parte](https://open.spotify.com/track/1gCTNc0Jrk78CHiHbuT63w) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [A Contraluz](https://open.spotify.com/album/0fHMjHobSboBcY2NQ4JfAN) | 2:40 |
 
-Snapshot ID: `MCxiZGYyZjg4NWNmYTRmMjNkMTdiYjU4ODZhODM1NjlmNGNiMzA0YWZh`
+Snapshot ID: `MCwwMjYwZDM0NDI3ZDhhNTFkNTE0NWQzYWRkNDAwYTAwNjk5MTZhZDZl`

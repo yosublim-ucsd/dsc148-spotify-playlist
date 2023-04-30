@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-113 songs - 7 hr 3 min
+114 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,9 @@
 | [Catastral](https://open.spotify.com/track/4PDnVUHUOsE9uI8gb2gjuA) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [m♡rtal](https://open.spotify.com/album/4jVTHVhg89w5GPCsmOpcyV) | 3:13 | 2022-10-14 | 2022-11-13 |
 | [Challenge](https://open.spotify.com/track/7FeHMHr520mXY7OXgpsK2Z) | [Tama Gucci](https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5) | [Almost Blue](https://open.spotify.com/album/0pSBEr0IQtQn2wxKRI4rKY) | 2:33 | 2022-09-05 | 2022-11-12 |
 | [Club Bizarre](https://open.spotify.com/track/4fHug3zCanK33sdvticISi) | [U96](https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd) | [Club Bizarre](https://open.spotify.com/album/49CWPw9MGkEvc78gTjLnEe) | 5:00 | 2022-09-05 | 2022-11-12 |
-| [Club GTA](https://open.spotify.com/track/3ShG3u3BEGei2zWxnvtKPj) | [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [Signals in My Head](https://open.spotify.com/album/1SJo1a9KzyNnnwhjkHOb2n) | 4:06 | 2022-09-05 |  |
+| [Club GTA](https://open.spotify.com/track/3ShG3u3BEGei2zWxnvtKPj) | [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [Signals in My Head](https://open.spotify.com/album/1SJo1a9KzyNnnwhjkHOb2n) | 4:06 | 2022-09-05 | 2023-04-30 |
 | [Club GTA](https://open.spotify.com/track/6gprNjWcdzCM014vfg97bn) | [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [Club GTA](https://open.spotify.com/album/5MCj5iZz6khuIRp9pG3xDT) | 4:06 | 2022-10-14 | 2022-11-13 |
+| [Club GTA](https://open.spotify.com/track/6kes8ME4oLfp6XoQ9aEOAc) | [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [Signals in My Head](https://open.spotify.com/album/5xsmFtzLdQsbXZCWTRk2yo) | 4:06 | 2022-11-11 |  |
 | [Coochie \(a bedtime story\)](https://open.spotify.com/track/1YlGZLo4J0URBx31Qvd5zg) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Coochie \(a bedtime story\)](https://open.spotify.com/album/2cQKZRfGU3kSnxyNCHZuiZ) | 3:02 | 2022-09-05 | 2022-10-15 |
 | [Coochie Coo](https://open.spotify.com/track/18FDRn8GMShITBbvw5PrGm) | [LEECH](https://open.spotify.com/artist/6FXHqmCyukgQ02l8pPK3gr), [Babyxsosa](https://open.spotify.com/artist/0z6XSqpMBqmhaRVWduV9HJ) | [Headless](https://open.spotify.com/album/0uOboqtYTjAIumpLJKJkQi) | 2:45 | 2022-09-05 |  |
 | [Cosmic Girl \- Remastered](https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Travelling Without Moving \(Remastered\)](https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER) | 4:04 | 2022-11-11 |  |

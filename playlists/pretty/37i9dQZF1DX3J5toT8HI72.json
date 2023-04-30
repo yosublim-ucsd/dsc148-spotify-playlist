@@ -1,12 +1,12 @@
 {
   "description": "Grandes m\u00fasicas para voc\u00ea curtir com seu amor.",
-  "num_followers": 767724,
+  "num_followers": 767816,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2I4YmJkMDNlNGM5Njc2YjdiM2FjMWNhOWFiYjUwZGJjNTFiZDlj",
+  "snapshot_id": "MCxlNTNjNzRiYzFlZDgwNzk3YTUyNWI1ZGNiYWI2ODk0M2ZhMmQ2YWEw",
   "tracks": [
     {
       "added_at": "2021-09-03 03:00:00",
@@ -583,22 +583,18 @@
     {
       "added_at": "2021-09-03 03:00:00",
       "album": {
-        "name": "Minha Felicidade",
-        "url": "https://open.spotify.com/album/7kTQATXuDnYuis6WSYZEn5"
+        "name": "UM44K Ac\u00fastico",
+        "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
         }
       ],
-      "duration_ms": 217384,
-      "name": "Minha Felicidade",
-      "url": "https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ"
+      "duration_ms": 264257,
+      "name": "Solu\u00e7\u00e3o - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2iO6rLYnDiMJqioCefh395"
     },
     {
       "added_at": "2021-09-03 03:00:00",
@@ -623,18 +619,22 @@
     {
       "added_at": "2021-09-03 03:00:00",
       "album": {
-        "name": "UM44K Ac\u00fastico",
-        "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
+        "name": "Minha Felicidade",
+        "url": "https://open.spotify.com/album/7kTQATXuDnYuis6WSYZEn5"
       },
       "artists": [
         {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
         }
       ],
-      "duration_ms": 264257,
-      "name": "Solu\u00e7\u00e3o - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2iO6rLYnDiMJqioCefh395"
+      "duration_ms": 217384,
+      "name": "Minha Felicidade",
+      "url": "https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ"
     },
     {
       "added_at": "2021-09-03 03:00:00",

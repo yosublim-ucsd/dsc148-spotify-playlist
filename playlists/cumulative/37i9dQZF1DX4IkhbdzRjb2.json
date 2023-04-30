@@ -1024,7 +1024,7 @@
     {
       "album": {
         "name": "Ondatr\u00f3pica",
-        "url": "https://open.spotify.com/album/7yjJJnG1eUZRJkwHcjqg8Y"
+        "url": "https://open.spotify.com/album/5OfBaqQtoYQc3i0LgKVAEC"
       },
       "artists": [
         {
@@ -1035,6 +1035,24 @@
       "date_added": "2021-05-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 273466,
+      "name": "Tiene Sabor, Tiene Saz\u00f3n",
+      "url": "https://open.spotify.com/track/6OghUc8FwEZOvEszyVud28"
+    },
+    {
+      "album": {
+        "name": "Ondatr\u00f3pica",
+        "url": "https://open.spotify.com/album/7yjJJnG1eUZRJkwHcjqg8Y"
+      },
+      "artists": [
+        {
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 273466,
       "name": "Tiene Sabor, Tiene Saz\u00f3n",
       "url": "https://open.spotify.com/track/7CPu17eltuCnWj3QZtlI8Z"

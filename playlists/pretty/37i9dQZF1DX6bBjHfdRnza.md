@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: SKALA\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,258 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,306 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 11 | [Prophet](https://open.spotify.com/track/34uqpzd2U6Oq4kcDTZASH9) | [Woo York](https://open.spotify.com/artist/3F4cmqlG4wCV3aEZlHHO8p) | [Prophet](https://open.spotify.com/album/0hU3syvy5KpSW0dgj8utaQ) | 3:14 |
 | 12 | [November 26](https://open.spotify.com/track/1Bzx8M2az8q6wnoXOhK3uw) | [Jakka](https://open.spotify.com/artist/4QsjdD4tkCOSUqRSDoazaM) | [November 26](https://open.spotify.com/album/3hlkRsFKhmyfTKeOUyWyKY) | 2:32 |
 | 13 | [LOST](https://open.spotify.com/track/0nVN2fhcZYX4cbIeYhx3St) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [LOST](https://open.spotify.com/album/0aF64r7K5jWIRbf31gdg2e) | 2:31 |
-| 14 | [Sora](https://open.spotify.com/track/2Fhze8ZgxgbVlsNh4y1X7W) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Sora](https://open.spotify.com/album/6t1eLn4EXLLuu2cYGybM8e) | 4:17 |
+| 14 | [Sora](https://open.spotify.com/track/5MX2I1rGXXAFPsJaoKRf7r) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Sora](https://open.spotify.com/album/1liqJtMwsRjwF49md1FG8a) | 4:17 |
 | 15 | [I Want to Get Lost](https://open.spotify.com/track/6BOutsFjnBlMGrQoBlTJvi) | [Jody 6](https://open.spotify.com/artist/0E8BC8YVaBgXflTlmNnH5Y) | [I Want to Get Lost](https://open.spotify.com/album/2DnikZ1ptdVYmOpDARs79Z) | 4:36 |
 | 16 | [Never Be the Same](https://open.spotify.com/track/5ay3jWCFe0uBtoICTq4pZZ) | [Jones Vendera](https://open.spotify.com/artist/1GpnFKKszyh0e5ayxkREKT) | [Never Be the Same](https://open.spotify.com/album/5VHCmu602HCwEdP5Jctn0m) | 3:18 |
 | 17 | [Floor \(Marius Remix\)](https://open.spotify.com/track/4YnI2Wr7tSxrlIVyLJJUmy) | [Whose Rules](https://open.spotify.com/artist/3GAycRSOI4PRxEe6e1Ci8j), [Marius](https://open.spotify.com/artist/0dXCvd6lpLfZBKTFjUF1R3) | [Floor \(Marius Remix\)](https://open.spotify.com/album/0y7nBWyRyKEibqGeCmjS0M) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [So High](https://open.spotify.com/track/5bl9e2nxUeJRNBw8nR7MiA) | [FOLEY \(UK\)](https://open.spotify.com/artist/6anTdfcXpebpP1MVwq4BZD) | [So High](https://open.spotify.com/album/7IIRB44IyFtcsIebT7nizx) | 6:16 |
 | 100 | [Chimes \- Original Mix](https://open.spotify.com/track/2nY29ALA1fzASz4lHdk0HX) | [BJORN](https://open.spotify.com/artist/06dkssYdUIWLAvgpsVTFNU) | [Chimes EP](https://open.spotify.com/album/1Ih60PxbPxipjtj9xIrOak) | 6:39 |
 
-Snapshot ID: `MCw5ZDc3NjExYTQ4MmYyOGZlNjEyZTEyZTUyNjg4NWNmNjkxYjVjMGVm`
+Snapshot ID: `MCw5MmU0ZjZjY2RlOTQxYTZhZTg2ODUxNWZhNzMzMDUxOTIzMzUxYWM3`

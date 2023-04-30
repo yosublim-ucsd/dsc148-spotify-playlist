@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,002,869 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,002,889 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 8 | [COEUR DE ICE \(feat\. Damso\)](https://open.spotify.com/track/7jbu9k6w67hWlhSinmGT3c) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [DIAMANT DU BLED](https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO) | 3:12 |
 | 9 | [Sweet Nothings](https://open.spotify.com/track/1cF3WDh4C8iRMvMZf8g3Kg) | [MERŌN](https://open.spotify.com/artist/0YbqIxOpOJO7cOpGjMypRk) | [Sweet Nothings](https://open.spotify.com/album/2ksI1yNXe9oyecXCEf68ge) | 2:15 |
 | 10 | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L) | 2:55 |
-| 11 | [Toxic Ish](https://open.spotify.com/track/13IyPWwTjRTWW62z6L349L) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Toxic Ish](https://open.spotify.com/album/6wdCYDNMmP5C8cdePXGmWh) | 3:07 |
+| 11 | [Toxic Ish](https://open.spotify.com/track/13IyPWwTjRTWW62z6L349L) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Toxic Ish](https://open.spotify.com/album/6wdCYDNMmP5C8cdePXGmWh) | 3:23 |
 | 12 | [Outside](https://open.spotify.com/track/6YiDVrYuJk33GKKzsVUhRE) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw) | [Strictly 4 My Fans 2](https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW) | 3:08 |
 | 13 | [Still Movin' \(feat\. Fivio Foreign & Jay Critch\)](https://open.spotify.com/track/14feWRgz9wh0Z1OIFXcJGh) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [Still Movin' \(feat\. Fivio Foreign & Jay Critch\)](https://open.spotify.com/album/6vEioFzvVWKZxcrXEpDAUZ) | 2:22 |
 | 14 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 62 | [Blades](https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Blades](https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep) | 3:41 |
 | 63 | [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 |
 | 64 | [Go Boy](https://open.spotify.com/track/5J8ojwDIVnf6ZPwT8f32sQ) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Go Boy](https://open.spotify.com/album/5MGppdhOf6M7mBsIWrg55E) | 2:56 |
-| 65 | [23](https://open.spotify.com/track/1zcV9I8GVXyrqInNaSU6EM) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Sokerirl on ig](https://open.spotify.com/artist/4UU5P578pYIr4QEMwjIkJc) | [23](https://open.spotify.com/album/76co89ePW2Am0WMqdX2lPs) | 4:15 |
+| 65 | [23](https://open.spotify.com/track/1zcV9I8GVXyrqInNaSU6EM) | [JayO](https://open.spotify.com/artist/0QH3l8RpNhxB16HkrC3x56), [Sokerirl on ig](https://open.spotify.com/artist/4UU5P578pYIr4QEMwjIkJc) | [23](https://open.spotify.com/album/76co89ePW2Am0WMqdX2lPs) | 4:15 |
 | 66 | [I Miss You So](https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [I Miss You So](https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF) | 3:43 |
 | 67 | [BLKDEATH:](https://open.spotify.com/track/1PNr877IPrPPuj4ANiberD) | [BbyMutha](https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e), [Fly Anakin](https://open.spotify.com/artist/5WybyjV2fRyRQcJrmmiifF) | [Muthaleficent 3](https://open.spotify.com/album/2kXbPofpK10LsERWJ3LplJ) | 2:48 |
 | 68 | [Hallelujah](https://open.spotify.com/track/2Ngjdn5Y5MKv4dTa024SF7) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj), [Ryan Palma](https://open.spotify.com/artist/0ETu1snC8o5NZWmqxai370) | [Hallelujah](https://open.spotify.com/album/6mOTpOg5zP6ieYLe9LBJ00) | 2:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 99 | [Don't Give Up](https://open.spotify.com/track/7AGMaD98w28eaNh2639jD2) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Don't Give Up](https://open.spotify.com/album/2XZMNStMl0nxjQ3LYdNboK) | 2:46 |
 | 100 | [SPLIT DECISION](https://open.spotify.com/track/7BY2h0RUgeenWrnbwPr0Kt) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 3:06 |
 
-Snapshot ID: `MCxjZGIyZDMyMzM1NDZkOTE0ZjhkNWI4OTFiYjA5YzNlMTMzNjIxNjI1`
+Snapshot ID: `MCxkNjhmYTJlNzM1NTVlYTk4NzE2MGNjZmYwMjM3ZjMwZDg1MGQzMjA5`

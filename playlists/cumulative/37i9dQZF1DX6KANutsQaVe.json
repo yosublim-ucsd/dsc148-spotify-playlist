@@ -764,7 +764,7 @@
     {
       "album": {
         "name": "Colder Streams",
-        "url": "https://open.spotify.com/album/7xrEwxtqAtEv76y5Xj4frt"
+        "url": "https://open.spotify.com/album/0Lyqapc83r2z87INofEPfc"
       },
       "artists": [
         {
@@ -775,6 +775,24 @@
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 195720,
+      "name": "Message to Belial",
+      "url": "https://open.spotify.com/track/2ERKY2qthU8NIXAQYl3dUZ"
+    },
+    {
+      "album": {
+        "name": "Colder Streams",
+        "url": "https://open.spotify.com/album/7xrEwxtqAtEv76y5Xj4frt"
+      },
+      "artists": [
+        {
+          "name": "The Sadies",
+          "url": "https://open.spotify.com/artist/3x0LgZSPgNh91O6NBMtqTs"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 195720,
       "name": "Message to Belial",
       "url": "https://open.spotify.com/track/5hpgkowmJFFRQ1APPa64E8"

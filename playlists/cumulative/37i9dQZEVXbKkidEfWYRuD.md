@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,059 songs - 2 day 1 hr 9 min
+1,060 songs - 2 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,8 @@
 | [MC Taxi](https://open.spotify.com/track/7liCjKKDGE48mWjwWVaEAF) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [FREERIO 2](https://open.spotify.com/album/4Bxc3xz4eRLzZBfluYRfiP) | 1:07 | 2022-04-30 | 2022-05-02 |
 | [Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Próxima Estación: Esperanza](https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo) | 3:59 | 2022-08-07 | 2022-08-31 |
 | [Met Him Last Night \(feat\. Ariana Grande\)](https://open.spotify.com/track/4yyX2Iu4xJjW9xMvBZKSBi) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 3:24 | 2021-04-04 | 2021-04-13 |
-| [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS](https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D) | 2:22 | 2022-09-12 |  |
+| [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS](https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D) | 2:22 | 2022-09-12 | 2023-04-30 |
+| [METAMORPHOSIS](https://open.spotify.com/track/1IArZTLaksXljitIzHzkgy) | [Master CC](https://open.spotify.com/artist/0hLvG56rSXh785IbjYpuRQ) | [METAMORPHOSIS](https://open.spotify.com/album/0RkrzezMmOT0FOv5MdLOBk) | 2:22 | 2023-04-29 |  |
 | [METAMORPHOSIS](https://open.spotify.com/track/4Po4guOVkRUjyrB5N0KqSv) | [ogu](https://open.spotify.com/artist/0PSLP8C3n2b0pFYGjURLcm) | [death](https://open.spotify.com/album/7or5Kwc9ThvKAKzPEbrdjq) | 2:22 | 2023-02-13 | 2023-02-17 |
 | [METAMORPHOSIS 3](https://open.spotify.com/track/3J5y9v6vK5ginTnMroJ1Nn) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN), [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [METAMORPHOSIS 3](https://open.spotify.com/album/6mMcdfZJVwHQfVLZocxKfs) | 2:08 | 2023-04-14 |  |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2021-11-02 | 2022-07-24 |
@@ -664,7 +665,7 @@
 | [ДЕНЬГИ В КЛУБЕ](https://open.spotify.com/track/5azkCMYWwZNKU1F5hGDIQS) | [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg) | [Really Rich](https://open.spotify.com/album/1wX4RtVeoehdxVEOJCGjkB) | 1:50 | 2022-12-17 | 2022-12-19 |
 | [Державний](https://open.spotify.com/track/6qfNb3PBlpH9xgVjs4GiqX) | [KRBK](https://open.spotify.com/artist/0E56Ncr2I37JQhW71UJALE), [$CREAM](https://open.spotify.com/artist/2J4wf1MqchjTmGScOI82qP) | [Державний](https://open.spotify.com/album/27y3m0LCjCBaUFk9opbv1s) | 2:36 | 2023-04-03 | 2023-04-05 |
 | [Диалоги тет\-а\-тет](https://open.spotify.com/track/7qEZALeVloIwiz6tvX8ZUL) | [ALEKS ATAMAN](https://open.spotify.com/artist/5hHCF6Qqo8rorOfdyna1ar), [FINIK](https://open.spotify.com/artist/5whKE6k98gq1jCmVD0pU0l) | [Диалоги тет\-а\-тет](https://open.spotify.com/album/4nnEEJ6MSWoeeesKtWLxIP) | 2:59 | 2022-02-15 | 2022-02-26 |
-| [ДИКЕ ПОЛЕ](https://open.spotify.com/track/7g9brrz6mR8dm1kwYFwnRx) | [YARMAK](https://open.spotify.com/artist/0oHyOQzDKjW5JVf347hue4), [ALISA](https://open.spotify.com/artist/0EYWRVAexwhEOW4JkIJRpc) | [ДИКЕ ПОЛЕ](https://open.spotify.com/album/2Nc1NT11EH82Cq1mtosJkm) | 3:26 | 2022-08-19 | 2023-04-29 |
+| [ДИКЕ ПОЛЕ](https://open.spotify.com/track/7g9brrz6mR8dm1kwYFwnRx) | [YARMAK](https://open.spotify.com/artist/0oHyOQzDKjW5JVf347hue4), [ALISA](https://open.spotify.com/artist/0EYWRVAexwhEOW4JkIJRpc) | [ДИКЕ ПОЛЕ](https://open.spotify.com/album/2Nc1NT11EH82Cq1mtosJkm) | 3:26 | 2022-08-19 |  |
 | [Динозаврики](https://open.spotify.com/track/4tP3JZw4NcKQJitu7F3SCa) | [Папин Олимпос](https://open.spotify.com/artist/6St8JkGHB8v3qtD7Srg6PH) | [Никакого андеграунда!](https://open.spotify.com/album/0W2LdpBa7uvL8VIICs8297) | 3:44 | 2021-03-27\* | 2021-03-27 |
 | [Для Тебя \(Пусто\)](https://open.spotify.com/track/3qCPpBdgNJf1xG9t8O2pjJ) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [Cкучаю, Но Работаю](https://open.spotify.com/album/1jfgIZ6NpbIMApVH5qq7um) | 2:16 | 2023-04-22 |  |
 | [ДНК](https://open.spotify.com/track/4q1ulmzYaXCV7UQTBnixda) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [Искренний](https://open.spotify.com/album/4LWHMwwy0m51ZfIFwJziYJ) | 2:53 | 2021-04-10 | 2021-04-11 |
@@ -730,7 +731,7 @@
 | [КАК MOMMY](https://open.spotify.com/track/0R848ny5sEpVuR1tMXZNFr) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [POPSTAR](https://open.spotify.com/album/33QIdvBtMb6tH4XmRBjPLj) | 2:09 | 2022-12-27 | 2023-02-22 |
 | [Как всё идёт](https://open.spotify.com/track/4xr9KGCh5JgqkQ2fy1MWjy) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [Тебя любят там где меня нет](https://open.spotify.com/album/3eayFI3gTLNnDoJs39o5V9) | 2:41 | 2022-11-19 | 2022-11-26 |
 | [Как до луны \(Drizzy flow\)](https://open.spotify.com/track/5iRS753YMGeNBOWAQFXTND) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [Sosa Muzik](https://open.spotify.com/album/2YAGIocNPp0fc29od97AKh) | 2:20 | 2021-08-15 | 2021-08-16 |
-| [Как на войне](https://open.spotify.com/track/12Jgi4t8YPs8G858lNGfZm) | [Agatha Christie](https://open.spotify.com/artist/6UvQrW56NzLbUtAKIdTg8N) | [Ностальгия](https://open.spotify.com/album/2orZvcMdBAZrh9iO1SX1FD) | 4:04 | 2023-03-27 |  |
+| [Как на войне](https://open.spotify.com/track/12Jgi4t8YPs8G858lNGfZm) | [Agatha Christie](https://open.spotify.com/artist/6UvQrW56NzLbUtAKIdTg8N) | [Ностальгия](https://open.spotify.com/album/2orZvcMdBAZrh9iO1SX1FD) | 4:04 | 2023-03-27 | 2023-04-30 |
 | [Как тебя покорить](https://open.spotify.com/track/1CqOEa4NIRBaWR6sNHTDTo) | [Перемотка](https://open.spotify.com/artist/3AwNBhYb8tZmJ5m0VIKHp2) | [Начало прекрасной дружбы](https://open.spotify.com/album/1SyTRxa2OlwnzXGyrGtfOU) | 3:38 | 2021-05-11 | 2022-03-04 |
 | [Калека \(Prod\. by VisaGangBeatz x Nastyboy24k\)](https://open.spotify.com/track/3aSgG5KhnoCuVoPOOpmSl6) | [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C) | [ЗАПРАВКА КИД 2](https://open.spotify.com/album/2Fw2CNrwvmKKoEIgtnaara) | 2:16 | 2021-03-27 | 2021-03-29 |
 | [Калуські вечорниці \(feat\. Tember Blanche\)](https://open.spotify.com/track/6keRNvHKCOhmySQa1jCX8P) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Калуські вечорниці \(feat\. Tember Blanche\)](https://open.spotify.com/album/5jA4rmGtIDLtZcSquSwMoW) | 3:00 | 2022-03-18 | 2023-04-19 |

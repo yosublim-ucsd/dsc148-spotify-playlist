@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Dhurata Dora
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,866 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,868 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 21 | [Emily](https://open.spotify.com/track/2U2lyoHXSjeseI46wG13dN) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Emily](https://open.spotify.com/album/1FDXDv6hx7cFn1Nx1mEnUI) | 2:53 |
 | 22 | [Whenever You Want](https://open.spotify.com/track/29JgcW00N8IGqzCFi606BC) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Whenever You Want](https://open.spotify.com/album/6X4bM4abuCymcZAFHnRS25) | 3:59 |
 | 23 | [ALIEN](https://open.spotify.com/track/0NsU1cd9CJMSyvQjKaUiVi) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [ALIEN](https://open.spotify.com/album/4ZtesfuyseB0PeWsO8NwDP) | 3:06 |
-| 24 | [i don’t get stressed](https://open.spotify.com/track/6mNw5l0kXAJCsaQNfOw4qR) | [PAENDA](https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz) | [i don’t get stressed](https://open.spotify.com/album/1haLcZLvPgQnP2f9DGcWJf) | 2:29 |
-| 25 | [Alles ok](https://open.spotify.com/track/2ecbEV38LSy9f2MaD64M36) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Alles ok](https://open.spotify.com/album/6vY0j0uusvvF8jNltvHxOf) | 3:42 |
+| 24 | [Alles ok](https://open.spotify.com/track/2ecbEV38LSy9f2MaD64M36) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Alles ok](https://open.spotify.com/album/6vY0j0uusvvF8jNltvHxOf) | 3:42 |
+| 25 | [i don’t get stressed](https://open.spotify.com/track/6mNw5l0kXAJCsaQNfOw4qR) | [PAENDA](https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz) | [i don’t get stressed](https://open.spotify.com/album/1haLcZLvPgQnP2f9DGcWJf) | 2:29 |
 | 26 | [He Nur Da](https://open.spotify.com/track/1nLdZdM4RT2wCw2hYxz9uA) | [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [He Nur Da](https://open.spotify.com/album/19HhiWUP1wjm3LcDgUylNG) | 2:54 |
 | 27 | [Happening](https://open.spotify.com/track/4XU0y1xD1VulnULFzDQAna) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/4xADuwIS5TSQzoYTaPA5VH) | 3:12 |
 | 28 | [ASK FOR IT](https://open.spotify.com/track/1pMHhbNvIHrAWN7D7DtxDh) | [Diana Goldberg](https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk) | [ASK FOR IT](https://open.spotify.com/album/3vtmwmHlxsruXPLFiSuG1S) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Schubidu](https://open.spotify.com/track/4HbZ7D4AslgbGnwi5MrTH1) | [DCCM](https://open.spotify.com/artist/2wMFibdNVlRu9xPt7bFjm0), [SektSpätStück](https://open.spotify.com/artist/5DeKxh1EpLz9xYQXwvRSJr) | [Schubidu](https://open.spotify.com/album/1p5pGrYo3VHcxdgmNwGCZn) | 2:45 |
 | 50 | [The Girl With No Skin](https://open.spotify.com/track/1pIiJKqTDqVnSY1kAxVt6x) | [Ella Ronen](https://open.spotify.com/artist/4WF8HMNJfUpjkG3KjBSje2) | [The Girl With No Skin](https://open.spotify.com/album/1sSteohBRyN8SLn7zIsS2k) | 4:28 |
 
-Snapshot ID: `MCw3YWJjZDFlNDlmNTBmZTE3NGVkMDE2NmZiNTUxZDc0ZGNkZjUwNDZk`
+Snapshot ID: `MCw5NjIxZWQxYjY0MTM1ZDE1NjU3NjE5OThmMDEwOGU0ZDE0Zjk0Y2Q3`

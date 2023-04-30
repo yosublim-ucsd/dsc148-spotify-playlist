@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 279864,
+  "num_followers": 280053,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDRiNmQ3ZDVkZDQ0YTdkZWYzZWJkZjNlN2EzY2RkODEyYTJlNjNj",
+  "snapshot_id": "MCw2MDZkOThkZmU4M2I1MDUyZGVkZjg5Y2I4MDU5ODYyZWRkNTc3MDEz",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Blackbyrd",
-        "url": "https://open.spotify.com/album/0j5Nx6IeRw3H5gohShC0qZ"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 277333,
-      "name": "Where Are We Going?",
-      "url": "https://open.spotify.com/track/3E26XqV2an7iMYoEcUVdj4"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Afrodesia",
         "url": "https://open.spotify.com/album/3vcrRL21IUz8T6ftBQwIN9"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 372733,
       "name": "It's Changed",
       "url": "https://open.spotify.com/track/1arQkJAMuAocgu98LBHvpC"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Blackbyrd",
+        "url": "https://open.spotify.com/album/0j5Nx6IeRw3H5gohShC0qZ"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 277333,
+      "name": "Where Are We Going?",
+      "url": "https://open.spotify.com/track/3E26XqV2an7iMYoEcUVdj4"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Winelight",
-        "url": "https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU"
-      },
-      "artists": [
-        {
-          "name": "Grover Washington, Jr.",
-          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
-        }
-      ],
-      "duration_ms": 350600,
-      "name": "Let It Flow (For \"DR. J\")",
-      "url": "https://open.spotify.com/track/6jY7UcNWda03nyJ5XiqlYt"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Driving Songs",
         "url": "https://open.spotify.com/album/0PZ6p6h37zPRCskVNqBRbw"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 222000,
       "name": "Alright - Remastered",
       "url": "https://open.spotify.com/track/6Fsme6JdS9n1apzVi800jL"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Winelight",
+        "url": "https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU"
+      },
+      "artists": [
+        {
+          "name": "Grover Washington, Jr.",
+          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
+        }
+      ],
+      "duration_ms": 350600,
+      "name": "Let It Flow (For \"DR. J\")",
+      "url": "https://open.spotify.com/track/6jY7UcNWda03nyJ5XiqlYt"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Free Your Mind",
-        "url": "https://open.spotify.com/album/6egPdO2BtKte1CZpOd6Oxj"
-      },
-      "artists": [
-        {
-          "name": "Amnesty",
-          "url": "https://open.spotify.com/artist/13clnHtI56jEGjzqeD0Q1o"
-        }
-      ],
-      "duration_ms": 272733,
-      "name": "We Have Love",
-      "url": "https://open.spotify.com/track/4JW5zLMjI7JymdPrjo0UGh"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "A Joyful Noise Unto The Creator",
         "url": "https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 355533,
       "name": "Prince Of Peace",
       "url": "https://open.spotify.com/track/0bzncFV24esz0QZOo4r1ss"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/6egPdO2BtKte1CZpOd6Oxj"
+      },
+      "artists": [
+        {
+          "name": "Amnesty",
+          "url": "https://open.spotify.com/artist/13clnHtI56jEGjzqeD0Q1o"
+        }
+      ],
+      "duration_ms": 272733,
+      "name": "We Have Love",
+      "url": "https://open.spotify.com/track/4JW5zLMjI7JymdPrjo0UGh"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Cosmic Vortex (Justice Divine)",
-        "url": "https://open.spotify.com/album/0dLKIaUvIDgBtvndoOvz52"
-      },
-      "artists": [
-        {
-          "name": "Weldon Irvine",
-          "url": "https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL"
-        }
-      ],
-      "duration_ms": 470520,
-      "name": "Walk That Walk, Talk That Talk",
-      "url": "https://open.spotify.com/track/5j67zBPrFyvQPvdZP9qYMp"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Funkhaus Studio Sessions",
         "url": "https://open.spotify.com/album/5LOoEv25jD7VHMcoaEcnbg"
       },
@@ -1371,22 +1355,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Pushin' On",
-        "url": "https://open.spotify.com/album/7bfklJKfFf9RvmaKsU7ARn"
+        "name": "Cosmic Vortex (Justice Divine)",
+        "url": "https://open.spotify.com/album/0dLKIaUvIDgBtvndoOvz52"
       },
       "artists": [
         {
-          "name": "The Quantic Soul Orchestra",
-          "url": "https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e"
-        },
-        {
-          "name": "Alice Russell",
-          "url": "https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc"
+          "name": "Weldon Irvine",
+          "url": "https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL"
         }
       ],
-      "duration_ms": 198853,
-      "name": "Pushin' On",
-      "url": "https://open.spotify.com/track/1rorokMVHb29HCm5b6yJWL"
+      "duration_ms": 470520,
+      "name": "Walk That Walk, Talk That Talk",
+      "url": "https://open.spotify.com/track/5j67zBPrFyvQPvdZP9qYMp"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1451,22 +1431,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/0c9Ixyl94wsxMiW1k4Obh9"
-      },
-      "artists": [
-        {
-          "name": "The Brand New Heavies",
-          "url": "https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/5RnLNOSL1nkBzil8mVM10o"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Ring of Saturn",
         "url": "https://open.spotify.com/album/2VTLDohCGomGkyOOvKi96p"
       },
@@ -1483,6 +1447,22 @@
       "duration_ms": 240550,
       "name": "Ring of Saturn",
       "url": "https://open.spotify.com/track/36rhJ2LhrKRdwjBzfZ5lLy"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/0c9Ixyl94wsxMiW1k4Obh9"
+      },
+      "artists": [
+        {
+          "name": "The Brand New Heavies",
+          "url": "https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/5RnLNOSL1nkBzil8mVM10o"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1533,6 +1513,22 @@
       "url": "https://open.spotify.com/track/7r3KxXhRx6sznqDL05497j"
     },
     {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "In Pursuit Of The 13th Note",
+        "url": "https://open.spotify.com/album/03uKLwGoJ4G5juOAJOuW5S"
+      },
+      "artists": [
+        {
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+        }
+      ],
+      "duration_ms": 286600,
+      "name": "Nothing Has Changed",
+      "url": "https://open.spotify.com/track/5mr8fQt8lQGRsUX2tNgXbc"
+    },
+    {
       "added_at": "2022-07-18 17:17:22",
       "album": {
         "name": "SGJAZZ, Vol. 2",
@@ -1555,18 +1551,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "In Pursuit Of The 13th Note",
-        "url": "https://open.spotify.com/album/03uKLwGoJ4G5juOAJOuW5S"
+        "name": "Friends & Strangers",
+        "url": "https://open.spotify.com/album/6kTEtsawfwnyzPhaEGVu4a"
       },
       "artists": [
         {
-          "name": "Galliano",
-          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+          "name": "Ronnie Laws",
+          "url": "https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC"
         }
       ],
-      "duration_ms": 286600,
-      "name": "Nothing Has Changed",
-      "url": "https://open.spotify.com/track/5mr8fQt8lQGRsUX2tNgXbc"
+      "duration_ms": 420493,
+      "name": "Life In Paradise",
+      "url": "https://open.spotify.com/track/4QIs6dRSU2niujupDHv6oK"
     }
   ],
   "unique_name": "Acid Jazz",

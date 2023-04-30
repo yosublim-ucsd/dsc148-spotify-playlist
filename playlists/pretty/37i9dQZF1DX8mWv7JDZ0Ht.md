@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Nando Reis, Anavitória
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,002 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,129 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 41 | [Fica um Pouco Mais](https://open.spotify.com/track/1eNPv3mdG8YqOMKpkbWm3m) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Fica um Pouco Mais](https://open.spotify.com/album/1RIX9DAwLw8fNWNpVkLgYE) | 3:04 |
 | 42 | [Menino](https://open.spotify.com/track/5IJLZv9xTNWResf5YPBYlG) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [Menino](https://open.spotify.com/album/0TqFDnB8H0HI57oPIKsZBg) | 2:48 |
 | 43 | [Sorria que Volta](https://open.spotify.com/track/1PtvbTuhHBw8Mfi9XIIIuC) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Sorria que Volta](https://open.spotify.com/album/2V4qg7sNcMllTmLOFpzf7o) | 2:21 |
-| 44 | [A Melhor Coisa do Mundo](https://open.spotify.com/track/7dg73Cj0F0MAioMwmoOmCN) | [Davi Shamá](https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV) | [A Melhor Coisa do Mundo](https://open.spotify.com/album/0yHKDBkFM4Er1dQ0yoGKUv) | 2:31 |
-| 45 | [CULPADO](https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [CULPADO](https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie) | 3:02 |
-| 46 | [Rara](https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5) | [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Santino](https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa) | [Rara](https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn) | 3:17 |
-| 47 | [Resolvi Seguir](https://open.spotify.com/track/6xuf56zGxebdc1oilPOs7D) | [Nicolas Candido](https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6) | [Resolvi Seguir](https://open.spotify.com/album/1nVWMOfIQ5X6ckw08cHQoU) | 2:41 |
-| 48 | [Tudo Certo](https://open.spotify.com/track/7CaiVx5RmFGvyHu1ZCy2g4) | [Gabriel Porto](https://open.spotify.com/artist/5NqRQrRdbVUKuwSjEq25dx) | [Tudo Certo](https://open.spotify.com/album/0OOge4WXl5bPFRMNLUsW2k) | 3:01 |
-| 49 | [Toda Manhã](https://open.spotify.com/track/1FpIwrg7pwzGhakpokNbuT) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Ato 1: TODAMANHÃ](https://open.spotify.com/album/5caF5n4dvpJv0BsqEOJnA7) | 2:26 |
+| 44 | [Toda Manhã](https://open.spotify.com/track/1FpIwrg7pwzGhakpokNbuT) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Ato 1: TODAMANHÃ](https://open.spotify.com/album/5caF5n4dvpJv0BsqEOJnA7) | 2:26 |
+| 45 | [A Melhor Coisa do Mundo](https://open.spotify.com/track/7dg73Cj0F0MAioMwmoOmCN) | [Davi Shamá](https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV) | [A Melhor Coisa do Mundo](https://open.spotify.com/album/0yHKDBkFM4Er1dQ0yoGKUv) | 2:31 |
+| 46 | [CULPADO](https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [CULPADO](https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie) | 3:02 |
+| 47 | [Rara](https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5) | [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Santino](https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa) | [Rara](https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn) | 3:17 |
+| 48 | [Resolvi Seguir](https://open.spotify.com/track/6xuf56zGxebdc1oilPOs7D) | [Nicolas Candido](https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6) | [Resolvi Seguir](https://open.spotify.com/album/1nVWMOfIQ5X6ckw08cHQoU) | 2:41 |
+| 49 | [Tudo Certo](https://open.spotify.com/track/7CaiVx5RmFGvyHu1ZCy2g4) | [Gabriel Porto](https://open.spotify.com/artist/5NqRQrRdbVUKuwSjEq25dx) | [Tudo Certo](https://open.spotify.com/album/0OOge4WXl5bPFRMNLUsW2k) | 3:01 |
 | 50 | [Terminei](https://open.spotify.com/track/6ddpGpxAawAtX4mV2X85ys) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Anna Pêgo](https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ) | [Terminei](https://open.spotify.com/album/32kgvxWFy0tKgXUpxdy77g) | 2:47 |
 | 51 | [Saudade](https://open.spotify.com/track/3N9DVfynhzZNmcih0KbLPi) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [VNegreen](https://open.spotify.com/artist/6wqRhQBrvbrjle8kCuEDRG), [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Orgânico Verão 2023](https://open.spotify.com/album/0eGnjuEmnPCAepsfDSTkim) | 3:58 |
 | 52 | [Passa](https://open.spotify.com/track/7GBiuTh9aykFc1c4AIDwky) | [Martins](https://open.spotify.com/artist/4enkj7NOHAaVi7l7PkQiTg) | [Passa](https://open.spotify.com/album/0Z70oBy0p7wjoxnV1SyGkq) | 2:56 |
@@ -65,16 +65,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 55 | [Dias Claros](https://open.spotify.com/track/6Npj5ItEySUyXSx2H5pSzy) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [Dias Claros](https://open.spotify.com/album/0i53V3hMoZsMJqUzz02nO9) | 2:31 |
 | 56 | [Olimpo ou Razão](https://open.spotify.com/track/2rXdrKghnoYK6NJVqE5y6I) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG) | [Olimpo ou Razão](https://open.spotify.com/album/50vx9RdFlaRbd4xbEMMPaI) | 3:41 |
 | 57 | [Óleo de Coco](https://open.spotify.com/track/5mF6dnj2rxGMVrGLbLXk5Z) | [Guilé](https://open.spotify.com/artist/3LcImgfMSyblXrPbb2FeZl) | [Óleo de Coco](https://open.spotify.com/album/33oj13c8oLa1KVFK2f5jpr) | 2:58 |
-| 58 | [Pois É](https://open.spotify.com/track/1Hs6h2vpj9B75cwmefLZdh) | [Iuri K](https://open.spotify.com/artist/7jVCHoIGvfQ0PuwNJFGX5W) | [Pois É](https://open.spotify.com/album/4B0W1tsKCrh2n6PHC8J948) | 2:42 |
-| 59 | [sexto sentido](https://open.spotify.com/track/2hdYIAUXuEMrBXt3xYY8eX) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [sexto sentido](https://open.spotify.com/album/2NMMRFtASnOSdzLzQBY4mg) | 2:36 |
-| 60 | [Juntin](https://open.spotify.com/track/4T2QY2HaVaK8AGhN2pGblJ) | [Nós Dois](https://open.spotify.com/artist/43KMDeX4Bs6jlla2AS8Q0g) | [nósdois](https://open.spotify.com/album/07N7v9V7dpt4fm0Pl0OcPe) | 2:43 |
+| 58 | [Juntin](https://open.spotify.com/track/4T2QY2HaVaK8AGhN2pGblJ) | [Nós Dois](https://open.spotify.com/artist/43KMDeX4Bs6jlla2AS8Q0g) | [nósdois](https://open.spotify.com/album/07N7v9V7dpt4fm0Pl0OcPe) | 2:43 |
+| 59 | [Pois É](https://open.spotify.com/track/1Hs6h2vpj9B75cwmefLZdh) | [Iuri K](https://open.spotify.com/artist/7jVCHoIGvfQ0PuwNJFGX5W) | [Pois É](https://open.spotify.com/album/4B0W1tsKCrh2n6PHC8J948) | 2:42 |
+| 60 | [Vem Me Encontrar](https://open.spotify.com/track/2jAmXEIGktQSy53MXns4G2) | [Nicolas Candido](https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6) | [Vem Me Encontrar](https://open.spotify.com/album/78KW27Ao3Z0xeoWY9Q9xpz) | 2:53 |
 | 61 | [Virginiana](https://open.spotify.com/track/6tR1f269nLcaN5bSVimgT8) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [Coisas De Você](https://open.spotify.com/album/2p5dEvoXbC6XmakeJg1Vur) | 2:33 |
 | 62 | [A Voz](https://open.spotify.com/track/45eQA1sSBrkbQ6BP5bBIem) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [A Voz](https://open.spotify.com/album/31mLvafOzdttDLFdgbLliq) | 4:02 |
-| 63 | [Vem Me Encontrar](https://open.spotify.com/track/2jAmXEIGktQSy53MXns4G2) | [Nicolas Candido](https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6) | [Vem Me Encontrar](https://open.spotify.com/album/78KW27Ao3Z0xeoWY9Q9xpz) | 2:53 |
+| 63 | [sexto sentido](https://open.spotify.com/track/2hdYIAUXuEMrBXt3xYY8eX) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [sexto sentido](https://open.spotify.com/album/2NMMRFtASnOSdzLzQBY4mg) | 2:36 |
 | 64 | [Contradição](https://open.spotify.com/track/7uff94i4ckT91Cw8Zj5AbX) | [MADÚ](https://open.spotify.com/artist/2tJ2rv15e4PIhS6SSnOkxR), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [Contradição](https://open.spotify.com/album/3jG5jSEcouTayTmGZzLjXU) | 2:19 |
 | 65 | [Atalaia](https://open.spotify.com/track/3gx5LqxSuGGRdV8UvHTSZl) | [Vitor Soltau](https://open.spotify.com/artist/3e8zvncHL9bIvPszfa8amS), [Paulo Novaes](https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6) | [Atalaia](https://open.spotify.com/album/2dYMAlHoZot2yZG5X2M28Q) | 3:12 |
-| 66 | [MENINA](https://open.spotify.com/track/30sNX63sgXRJWQcSK9DbLm) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [MENINA](https://open.spotify.com/album/7tyJ4al0A5shUAtMGFolAP) | 3:11 |
-| 67 | [Mais de Mim](https://open.spotify.com/track/6mid1KP7PeU9Z4reD9pl1y) | [Liza Lou](https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [Mais de Mim](https://open.spotify.com/album/09Y7f7sFfU2nzTtHNmR8FG) | 2:34 |
+| 66 | [Mais de Mim](https://open.spotify.com/track/6mid1KP7PeU9Z4reD9pl1y) | [Liza Lou](https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [Mais de Mim](https://open.spotify.com/album/09Y7f7sFfU2nzTtHNmR8FG) | 2:34 |
+| 67 | [MENINA](https://open.spotify.com/track/30sNX63sgXRJWQcSK9DbLm) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [MENINA](https://open.spotify.com/album/7tyJ4al0A5shUAtMGFolAP) | 3:11 |
 | 68 | [Depois do Fim](https://open.spotify.com/track/67Vs39lm6f8X2ClTgnRgyb) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Depois do Fim](https://open.spotify.com/album/6Gh9k6PdqxQ6l3tZxZWSH9) | 3:29 |
 | 69 | [Coisas De Você](https://open.spotify.com/track/2zgYAkkDhKAm5ERlJXSTR9) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [Coisas De Você](https://open.spotify.com/album/5v9Kmw1Wun0wZJ1xpT1kNE) | 3:17 |
 | 70 | [Brisa Boa](https://open.spotify.com/track/7N2Rw3NC0GhH4AlyZS7xJw) | [Biollo](https://open.spotify.com/artist/2fkazGgn5K5YNPRztNR4pF) | [Brisa Boa](https://open.spotify.com/album/53cd6HI4HCXmHxpcXQhtNq) | 2:42 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 79 | [NEM GOSTO TANTO ASSIM DE VOCÊ](https://open.spotify.com/track/7yYgj6JpLLCRhGzwSTpC00) | [Gabriel Froede](https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx) | [NEM GOSTO TANTO ASSIM DE VOCÊ](https://open.spotify.com/album/0CftRPVAJRuz5SQhliCvBd) | 3:07 |
 | 80 | [Cachaça](https://open.spotify.com/track/7q6hWgcTaN1l8eejnHA1OK) | [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S), [Ítalo Ribeiro](https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu) | [Cachaça](https://open.spotify.com/album/282hflxotkYOTqoFHYIXPY) | 2:34 |
 
-Snapshot ID: `MCxjZmNkM2Q5YTUxNDdkNDE4MWNkNjFhMjE2MzVkNmM3MzVmMTc2YWEy`
+Snapshot ID: `MCxhNzA3ZjE0YmE0YjM0MjY1YWM5NTM0ZjFhYzcwNDQ0NjM4MDhkMzAw`

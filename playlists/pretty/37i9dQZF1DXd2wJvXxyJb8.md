@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > eu so qria um mozinho p tatuar minha digital no braço q sacoooooooooooo eh pedir mto sabe????
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,040,384 likes - 65 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,041,468 likes - 65 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 7 | [Love Gostosinho \- Ao Vivo](https://open.spotify.com/track/2BlFIe0712LBUtTHxbqjme) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [O Fantástico Mundo De Nattan \(Ao Vivo\)](https://open.spotify.com/album/3MsdSA7cGEb95F2IMQUGGJ) | 2:43 |
 | 8 | [Wonderful Pagode Rmx](https://open.spotify.com/track/33sVci9mshFZmvaRXCRlL4) | [Lala New Beat](https://open.spotify.com/artist/5dD7xgaacX4jvCNDSlSQRr) | [Wonderful Pagode Rmx](https://open.spotify.com/album/2RlvLl7eSa2eLP1ojEfUUF) | 4:48 |
 | 9 | [Mas Existe um Lugar \- speed](https://open.spotify.com/track/21XQbePSeOSvfuLRaZbZ7a) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH), [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Mas Existe um Lugar \(speed\)](https://open.spotify.com/album/6JHtorRl390LLDA8QjKm7w) | 2:21 |
-| 10 | [BEBÊ TÁ SOLTA](https://open.spotify.com/track/4ChIBnH5lO5thSaNeMV0oE) | [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Dj Bnão](https://open.spotify.com/artist/0F1EEVbFwozNDGU9DAdpq8) | [BEBÊ TÁ SOLTA](https://open.spotify.com/album/1Z8jyx63wxfiXE0gcUWzS8) | 3:17 |
+| 10 | [Bebê Tá Solta](https://open.spotify.com/track/1TgVaCf8D5mXZrK1d7uIZe) | [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Dj Bnão](https://open.spotify.com/artist/0F1EEVbFwozNDGU9DAdpq8) | [M.P.B](https://open.spotify.com/album/4uzdqZxJI9VR60MBmbXXLO) | 3:17 |
 | 11 | [Americana Na Vaquejada](https://open.spotify.com/track/1M6rclDhYmqRBMFGNJOFKB) | [Grandão Vaqueiro](https://open.spotify.com/artist/1gveCzOmKMjqEMwuB5kKNH), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Americana Na Vaquejada](https://open.spotify.com/album/35vat6W0JnjkK3tXIqx1eX) | 2:36 |
 | 12 | [\* da Anitta](https://open.spotify.com/track/0VhG6qzFZo9JrHu56Wq7gh) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [\* da Anitta](https://open.spotify.com/album/5vrDahFF5TU32GwPMxP4SC) | 2:20 |
 | 13 | [Lovezinho](https://open.spotify.com/track/5smr3wYPodiv8ogWy0DE6J) | [Treyce](https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU) | [Lovezinho](https://open.spotify.com/album/3jhQPdKJyseNw3YepWR8bN) | 2:46 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 64 | [No Ouvidinho](https://open.spotify.com/track/4QWumyD2uwiePBBha9XBHI) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [No Ouvidinho](https://open.spotify.com/album/4Ljc7jLwnwltjgugXbGOoq) | 3:03 |
 | 65 | [Balanço da Rede](https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Balanço da Rede](https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP) | 2:46 |
 
-Snapshot ID: `MCw1NDViM2YxYTY5NzE1YTAzM2IzZTE2YmY0ZWJlMDcwZTJlOWMxY2Nk`
+Snapshot ID: `MCwxM2Q4OTIzOWRiNGU1ZDFkMWQ4NjcxZTEzZmJhMTYyOTUzNWJiYWNm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH?si=KDRnLQ71TTKPrX5qGUd50Q">Nakhane</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,824 likes - 85 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,827 likes - 85 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 21 | [Hey Hollywood](https://open.spotify.com/track/7c51FoWz8OV0wDrNLfWqB3) | [Warmer Heights](https://open.spotify.com/artist/1e42DCXz3I3nQeiqARQM1Z) | [Hey Hollywood](https://open.spotify.com/album/1qPisiSNWE9RxoR4wOy6de) | 3:33 |
 | 22 | [Tom's Diner](https://open.spotify.com/track/39kbxtqZyRkgBCTQy0hlX0) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Tom's Diner](https://open.spotify.com/album/2j5kahqVzUv6g4gsWC84oM) | 3:40 |
 | 23 | [Hold Me](https://open.spotify.com/track/3xRWTT9ouokK5wFAFCgs4Y) | [Love Jungle](https://open.spotify.com/artist/5WIZAH5FThf16VjKWaHG33) | [Double Moon](https://open.spotify.com/album/2tvu05twUtcPg5S3YARanf) | 3:29 |
-| 24 | [My Time](https://open.spotify.com/track/5jeuZUFRRGPeBzPnT6Yjr7) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [My Time](https://open.spotify.com/album/0OgqnZcVTlOmqJ8SnAY5pK) | 2:47 |
+| 24 | [My Time](https://open.spotify.com/track/3gbtNslUtnjb4GioHrR7qH) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [My Time](https://open.spotify.com/album/7FGBbHrwxSy7IMF7kFnDKp) | 2:47 |
 | 25 | [CONCIOUS IS A FOX](https://open.spotify.com/track/0h2uflPrk8v5cGFToZsPac) | [CLUB VALLEY](https://open.spotify.com/artist/0QA1gqKpLcVh4poXeglSHn) | [INFINITE PROPORTIONS EP](https://open.spotify.com/album/5ddIYNdWTFkM1hN2LsU8lt) | 3:41 |
 | 26 | [Woman on Fire](https://open.spotify.com/track/1UVKKR5tN9KfKYng30e1dx) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Woman on Fire](https://open.spotify.com/album/3tyDFxumq69ziGnO9DzNRV) | 2:58 |
 | 27 | [By Design](https://open.spotify.com/track/5NpL6MZYw5JJz2iQw9cD66) | [Jonathan Stephen Simons](https://open.spotify.com/artist/2XxdWUIImuXGYIN3E9Uave) | [By Design](https://open.spotify.com/album/4QTSXWfsESSVLTPdXkBG4s) | 4:15 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 84 | [water comes out of my eyes](https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [WATER COMES OUT OF MY EYES](https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk) | 3:22 |
 | 85 | [Not Strong Enough](https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:54 |
 
-Snapshot ID: `MCwxNWEzYjFjYzZlZDViZDYxOTQ1Yjc1OTkxZjUyOTg4Zjc5ZjJjZWY5`
+Snapshot ID: `MCxmYTcyN2Q5MjZjMzYyMWQ4MmZmYWJmZjcwNmFmMmVjZTNjZjE4ZmQ3`

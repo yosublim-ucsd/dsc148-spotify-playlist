@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AuRugisweW.md) - [plain]
 
 > Songs of the crossroads and "that old evil spirit"—from Robert Johnson to John Mayer, from early blues to new Americana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,449 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,465 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AuRugisweW.md) - [plain]
 | 15 | [Blue Guitar Stomp](https://open.spotify.com/track/2QmkRlu6Td0kBAjvByuH0G) | [Buddy Burton & Fats Hudson](https://open.spotify.com/artist/4kxaEivs44vtMnKyDabMkF) | [Clifford Hayes & The Louisville Jug Bands Vol\. 3](https://open.spotify.com/album/3KgQDXaLltP7NnVgl09qxU) | 3:01 |
 | 16 | [Blue Guitar](https://open.spotify.com/track/7IHTgTJz3hm6qeexXDi1Eb) | [Willie Kent](https://open.spotify.com/artist/7HmW0ENiK2RblSh3CpOAnR), [Willie James Lyons](https://open.spotify.com/artist/0Db5dXKSZdPpFuVmBw1nI6) | [Ghetto](https://open.spotify.com/album/3CrPK1hHaiP3IDmeiMEo53) | 5:30 |
 | 17 | [Evil Woman](https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 4:21 |
-| 18 | [I Put a Spell on You](https://open.spotify.com/track/7sNbMDi5Yyi54pP1T1IbDS) | [Jesse Cook](https://open.spotify.com/artist/0fZ2s0I6Gyt60JUJybaEZA) | [The Blue Guitar Sessions](https://open.spotify.com/album/4DkJcM9PIM5LArvEm83r2h) | 2:58 |
+| 18 | [I Put a Spell on You](https://open.spotify.com/track/1dFlAV0eMcsSPwZsIHdf4y) | [Jesse Cook](https://open.spotify.com/artist/0fZ2s0I6Gyt60JUJybaEZA) | [The Blue Guitar Sessions](https://open.spotify.com/album/4xe69ZZD8TIi0Axgl3a0Np) | 2:58 |
 | 19 | [Don't You Lie To Me \(I Get Evil\) \- 2002 Digital Remaster](https://open.spotify.com/track/49HpLbZHUWi24SeTZKRksQ) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [After Hours](https://open.spotify.com/album/561jvEwRe8xnV1OufSvXrS) | 2:30 |
 | 20 | [Standing At The Crossroads](https://open.spotify.com/track/1e6qkPMUiaWZfVk7WdRByQ) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:58 |
 | 21 | [Evil Is Going On](https://open.spotify.com/track/7KEpEndrZXOrFfGdCbuTCL) | [John Hammond](https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR) | [Sooner Or Later](https://open.spotify.com/album/08TwuxUunnylXmpariFQPl) | 3:40 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AuRugisweW.md) - [plain]
 | 59 | [Crossroads](https://open.spotify.com/track/4rxamav7i2lJexbuAxcvfe) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Crossroads](https://open.spotify.com/album/7xlc8VKmPqZJ9m1Dphm6O5) | 4:11 |
 | 60 | [Lady Weeping At The Crossroads](https://open.spotify.com/track/2fHeCbp3pCJbd3g5wQF636) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [No Promises](https://open.spotify.com/album/1GOhEzYqUHO4ROrrupcVVH) | 3:37 |
 
-Snapshot ID: `MCwzYTJlMzM3ZDhmMGEwZjVlNzNmZjg4M2MwOWZhNzUwOTU0ZWJjYzI5`
+Snapshot ID: `MCxiZDMzYjk1OTkyY2IwNDc4YmZjYTdmYzQxNTE1ZWZlOTMzZTc0Yjhl`

@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: My Chemical Romance",
-  "num_followers": 1503345,
+  "num_followers": 1504085,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjE5NjdhMjMyYWJmM2E5Yjc4NGY2MDNmZGZmZDA4MWViNDg0NDU3",
+  "snapshot_id": "MCxhMTM5MDZlNDhkMjg4NWFkYTk3NDkwNGIzOWNiYzE4NTQzYjRjY2Rl",
   "tracks": [
     {
       "added_at": "2022-08-02 18:47:58",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "Good Charlotte",
-        "url": "https://open.spotify.com/album/0KfIGgasOmBV70OgVTRLHs"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 203026,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "The Artist In The Ambulance",
         "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 219266,
       "name": "The Artist In The Ambulance",
       "url": "https://open.spotify.com/track/0arNrzPygksLY2pEbRgBjw"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "Good Charlotte",
+        "url": "https://open.spotify.com/album/0KfIGgasOmBV70OgVTRLHs"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/47IWLfIKOKhFnz1FUEUIkE"
     },
     {
-      "added_at": "2023-04-29 00:41:44",
+      "added_at": "2023-04-30 01:18:33",
       "album": {
         "name": "Discovering The Waterfront",
         "url": "https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ"
@@ -1021,7 +1021,7 @@
       "url": "https://open.spotify.com/track/4OsLDuaH0bWR6xM6nj66F8"
     },
     {
-      "added_at": "2023-04-29 00:41:44",
+      "added_at": "2023-04-30 01:18:33",
       "album": {
         "name": "Deja Entendu",
         "url": "https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX"
@@ -1101,7 +1101,7 @@
       "url": "https://open.spotify.com/track/6gxupt6imt0qIdbE8e356n"
     },
     {
-      "added_at": "2023-04-29 00:41:44",
+      "added_at": "2023-04-30 01:18:33",
       "album": {
         "name": "Is a Real Boy",
         "url": "https://open.spotify.com/album/67GbWmsrvtIdOOUYRo7do7"

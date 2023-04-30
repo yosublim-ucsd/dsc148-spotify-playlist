@@ -1142,6 +1142,24 @@
     {
       "album": {
         "name": "If Blue Could Be Happiness",
+        "url": "https://open.spotify.com/album/0EB4zV2Vfi0FeM6jZNOO87"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233062,
+      "name": "The Fear of Losing This",
+      "url": "https://open.spotify.com/track/1h44AOekmUQtwtSpMZ9S2t"
+    },
+    {
+      "album": {
+        "name": "If Blue Could Be Happiness",
         "url": "https://open.spotify.com/album/6Urg55LAGNL5QKM0bz8g2v"
       },
       "artists": [
@@ -1152,7 +1170,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 233062,
       "name": "The Fear of Losing This",
       "url": "https://open.spotify.com/track/5iwOkLRedNpGvymiknisHn"

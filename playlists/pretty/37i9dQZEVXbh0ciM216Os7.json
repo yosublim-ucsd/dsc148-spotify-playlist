@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwNDQyNDAsMDAwMDAwMDA2ZTliYWEzMTlkYzI3Njc4ZTRiM2U3OGU3MWQzYjdiOQ==",
+  "snapshot_id": "MjgwNDQyNDAsMDAwMDAwMDA2OGU2ZmVkNDZkODhjM2RlMmExNWI2YTQ1MmZiN2UyNA==",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -27,26 +27,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Bad Habits",
-        "url": "https://open.spotify.com/album/2PHZo9XEoXtXH04JiY4Qsc"
-      },
-      "artists": [
-        {
-          "name": "Scott Bradlee's Postmodern Jukebox",
-          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
-        },
-        {
-          "name": "Ashley Campbell",
-          "url": "https://open.spotify.com/artist/49mvmawPDTzmEaEPY5z0ew"
-        }
-      ],
-      "duration_ms": 250667,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/10uxiQ0BCHOmUgnkSF5MgN"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Please Take a Step Back",
         "url": "https://open.spotify.com/album/0qcIsdY8AQS0XkdaSp75ag"
       },
@@ -63,6 +43,26 @@
       "duration_ms": 205424,
       "name": "Please Take a Step Back",
       "url": "https://open.spotify.com/track/2MSa8kf0unz5ZYoDwKSvNn"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Bad Habits",
+        "url": "https://open.spotify.com/album/2PHZo9XEoXtXH04JiY4Qsc"
+      },
+      "artists": [
+        {
+          "name": "Scott Bradlee's Postmodern Jukebox",
+          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
+        },
+        {
+          "name": "Ashley Campbell",
+          "url": "https://open.spotify.com/artist/49mvmawPDTzmEaEPY5z0ew"
+        }
+      ],
+      "duration_ms": 250667,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/10uxiQ0BCHOmUgnkSF5MgN"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -131,6 +131,26 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "I Want a Ferrari",
+        "url": "https://open.spotify.com/album/1HYulOUE0yGhBoWrETUocw"
+      },
+      "artists": [
+        {
+          "name": "Riff Raff",
+          "url": "https://open.spotify.com/artist/31IZdHrCZ5pRhLz4zBxN3o"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "duration_ms": 273905,
+      "name": "I Want a Ferrari",
+      "url": "https://open.spotify.com/track/3FPjqFEYSIlcjh65tMYzlU"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Don't Let The Devil [Feat. thankugoodsir]",
         "url": "https://open.spotify.com/album/60rpMY5zgymbCEn7ICfi8M"
       },
@@ -151,6 +171,30 @@
       "duration_ms": 164894,
       "name": "Don't Let The Devil [Feat. thankugoodsir] - Single Version",
       "url": "https://open.spotify.com/track/2LBwRP4HSUTJiLobjhaaXp"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Damn (You\u2019ve Got Me Saying) [East & Young Remix]",
+        "url": "https://open.spotify.com/album/0j5LQIFpyIZaPIMvr5u74t"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        },
+        {
+          "name": "East & Young",
+          "url": "https://open.spotify.com/artist/1KBhxS7BNH6eVsm0Gaz5qP"
+        }
+      ],
+      "duration_ms": 166229,
+      "name": "Damn (You\u2019ve Got Me Saying) - East & Young Remix",
+      "url": "https://open.spotify.com/track/5P75HquAu7iKHhsjM658sB"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -327,26 +371,26 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Damn (You\u2019ve Got Me Saying) [East & Young Remix]",
-        "url": "https://open.spotify.com/album/0j5LQIFpyIZaPIMvr5u74t"
+        "name": "That\u2019s Not How This Works (feat. Dan + Shay & Sabrina Carpenter) [Sabrina\u2019s Version]",
+        "url": "https://open.spotify.com/album/0TN8dXBkeIqDjVfUV3gPpc"
       },
       "artists": [
         {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
         },
         {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
         },
         {
-          "name": "East & Young",
-          "url": "https://open.spotify.com/artist/1KBhxS7BNH6eVsm0Gaz5qP"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 166229,
-      "name": "Damn (You\u2019ve Got Me Saying) - East & Young Remix",
-      "url": "https://open.spotify.com/track/5P75HquAu7iKHhsjM658sB"
+      "duration_ms": 166640,
+      "name": "That\u2019s Not How This Works (feat. Dan + Shay & Sabrina Carpenter) - Sabrina\u2019s Version",
+      "url": "https://open.spotify.com/track/2WNHUp4s806SJrsj698ZX3"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -543,22 +587,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "VOID",
-        "url": "https://open.spotify.com/album/1aouMKjJAa4vMHngy0Zt3p"
+        "name": "Stories From The Western Front",
+        "url": "https://open.spotify.com/album/7x74AsZWhJloc6tKOF7Nty"
       },
       "artists": [
         {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
-        },
-        {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
         }
       ],
-      "duration_ms": 206618,
-      "name": "VOID - Sped Up Version",
-      "url": "https://open.spotify.com/track/0KpU1OoP5ddAJago8RDU7k"
+      "duration_ms": 216813,
+      "name": "1916",
+      "url": "https://open.spotify.com/track/29y2j3s6i528lBTSMP0wbE"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -575,42 +615,6 @@
       "duration_ms": 108583,
       "name": "New Millennium (Basic Tracks)",
       "url": "https://open.spotify.com/track/4KTFtsadHOMKnxX5fCcucu"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
-        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        }
-      ],
-      "duration_ms": 199742,
-      "name": "STUNTMAN (feat. Vince Staples)",
-      "url": "https://open.spotify.com/track/6S4WM9LW6oGkAtBFePffh2"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Continue as a Guest",
-        "url": "https://open.spotify.com/album/4W7yoLgWewZv3rdhGjLB3B"
-      },
-      "artists": [
-        {
-          "name": "The New Pornographers",
-          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
-        }
-      ],
-      "duration_ms": 257733,
-      "name": "Last and Beautiful",
-      "url": "https://open.spotify.com/track/4FHM1Jv01RI8KbQq0eJkN6"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

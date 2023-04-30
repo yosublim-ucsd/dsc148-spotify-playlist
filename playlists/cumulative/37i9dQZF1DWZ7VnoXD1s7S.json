@@ -1858,7 +1858,7 @@
     {
       "album": {
         "name": "Replica",
-        "url": "https://open.spotify.com/album/4xgY6533C7VK4HEeojrgc1"
+        "url": "https://open.spotify.com/album/4X5lHc7Fw8PPTbQAC37wvA"
       },
       "artists": [
         {
@@ -1869,6 +1869,24 @@
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 230759,
+      "name": "Submersible",
+      "url": "https://open.spotify.com/track/0qsVyB8EPHAlId8v3jqpcg"
+    },
+    {
+      "album": {
+        "name": "Replica",
+        "url": "https://open.spotify.com/album/4xgY6533C7VK4HEeojrgc1"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 230759,
       "name": "Submersible",
       "url": "https://open.spotify.com/track/2fJygKixDmVgmsYAjn9aNq"

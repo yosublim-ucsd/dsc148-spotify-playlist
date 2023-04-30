@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Aaron Obra Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,588 likes - 74 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,612 likes - 74 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 73 | [Kalmado](https://open.spotify.com/track/4P33ghBbk1Mv9PT226h24L) | [MYK](https://open.spotify.com/artist/3HCahYw0Xo2jYBq0vVKAFY), [Giro](https://open.spotify.com/artist/0QqlaTyZWFfw8mGQVviqdv) | [Kalmado](https://open.spotify.com/album/4iWs6RcjCCb3xtmVIzOpLG) | 3:40 |
 | 74 | [Relapse](https://open.spotify.com/track/54h96RwWQeIrkP0Ymmu2ty) | [Julia Q](https://open.spotify.com/artist/1WxSQcHJPIq91UHobxQxWE) | [Relapse](https://open.spotify.com/album/2za5aHFsR5imY7Ef2xZcIc) | 4:47 |
 
-Snapshot ID: `MCxiNDFhYjE3MWFmMGEzOWY4NDFhM2E1NjZkYTgyZDEwMjk0MGFmMTAx`
+Snapshot ID: `MCxkNGJlNTYwNjM2NTM0ODg4MDAyYmI0N2IyMmFhNzk5YmIyNWM2NzIz`

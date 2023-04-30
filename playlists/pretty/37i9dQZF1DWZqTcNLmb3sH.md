@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Kabzaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,835 likes - 101 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,842 likes - 101 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 17 | [Byarena Aithi \(from Gurudev Hoysala\)](https://open.spotify.com/track/067PmjFq5g0v8KCDkzf9dA) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Byarena Aithi \(from Gurudev Hoysala\)](https://open.spotify.com/album/0uhmzvZPNknrJSjsyt7n9S) | 2:23 |
 | 18 | [Veera Raja Veera](https://open.spotify.com/track/4IYL0ax3QT1TB2YeC4MmJK) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vijayprakash](https://open.spotify.com/artist/5CP1YPJH6WUS7yOUsjGdrT), [Sivasri Skandaprasad](https://open.spotify.com/artist/3Du1Eif2lkTAauqUT3uFai), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [PS\-2 \(Kannada\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/09x1YIyNqIdcCWAkq6Eytx) | 5:02 |
 | 19 | [Anuragada Teru Sagide \(From "Ragavendra The Warrior"\)](https://open.spotify.com/track/1qLTLzUbUmZZezWpO4gD6m) | [Ajay Warrier](https://open.spotify.com/artist/3fm9JRsdbk49ZolYmobgeC), [Rashmi Srinivas](https://open.spotify.com/artist/513IeMeSow094McXe43pHQ), [Paulalex P](https://open.spotify.com/artist/7wlsrXvAgZLs1vS5yI0wXW), [Dinesh K](https://open.spotify.com/artist/5fiYExb3GiqWaCNguTvCaY) | [Anuragada Teru Sagide \(From "Ragavendra The Warrior"\)](https://open.spotify.com/album/0YWnANCc3jXTIzFA3zLnre) | 3:16 |
-| 20 | [Maathado Gombe \(from "Shivaji Surathkal 2"\)](https://open.spotify.com/track/3cYNOW8EvZ2Mltf2jtpjQJ) | [Siddhartha Belmannu](https://open.spotify.com/artist/0M0qOys6eONaDvSRKNwKWc), [Judah Sandhy](https://open.spotify.com/artist/4penrzAbWok4rhnaZuwF9V) | [Maathado Gombe \(from "Shivaji Surathkal 2"\)](https://open.spotify.com/album/7gi1iZQMi8jpg3BUrVtbul) | 3:37 |
+| 20 | [Maathado Gombe \(from "Shivaji Surathkal 2"\)](https://open.spotify.com/track/3cYNOW8EvZ2Mltf2jtpjQJ) | [Siddhartha Belmannu](https://open.spotify.com/artist/0M0qOys6eONaDvSRKNwKWc) | [Maathado Gombe \(from "Shivaji Surathkal 2"\)](https://open.spotify.com/album/7gi1iZQMi8jpg3BUrVtbul) | 3:37 |
 | 21 | [Ee Kshana Romanchana \(From "Nodadha Putagalu"\)](https://open.spotify.com/track/6JtZ4fpPS1TgqyIP2igKL7) | [Abhishek M R](https://open.spotify.com/artist/2SXCXOoQxoRfHwtHaRwt97), [Vignesh Menon](https://open.spotify.com/artist/3rUb0UcwcnZpNvirKf8dmP), [Prashanth Gunaki](https://open.spotify.com/artist/5vBD08awxu6cK3457kIKR1) | [Ee Kshana Romanchana \(From "Nodadha Putagalu"\)](https://open.spotify.com/album/7sC9276hbPG6mgHVZAuw7o) | 5:33 |
 | 22 | [Tun Tun Tun \(from "Elra Kaaleliyatte Kaala"\)](https://open.spotify.com/track/1LGE5fbDTx4jQ3LBPph72i) | [Chandan Shetty](https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk), [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Tun Tun Tun \(from "Elra Kaaleliyatte Kaala"\)](https://open.spotify.com/album/1LW27XGKtMDlCtyeYaDhbd) | 3:27 |
 | 23 | [PS Anthem \(From “PS\-2"\) \[Kannada\]](https://open.spotify.com/track/0xf1Yhdwv1HTuv6oyHrRn3) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD), [Nabyla Maan](https://open.spotify.com/artist/11MBLpYXQnyoJN5wJ9NQhW) | [PS Anthem \(From “PS\-2"\) \[Kannada\] \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/4dXfycka0T079aL7HYORMB) | 3:03 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 100 | [Haaduve Naa Haaduve](https://open.spotify.com/track/5T8wOodxnY4yKIUqL3WyC7) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Siddharth Belmannu](https://open.spotify.com/artist/79LdQ8oCiYU93qEqWMEUCj) | [Orchestra, Mysuru! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1xZ7njeguIdXjWWuBFDnqd) | 6:52 |
 | 101 | [Kranti Deepa](https://open.spotify.com/track/1FGQznFkfQ2nggQ4fs41ke) | [Satvik C S](https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR) | [Kranti Deepa](https://open.spotify.com/album/4J1yPPWodToG9L4QJUrc8h) | 2:59 |
 
-Snapshot ID: `MCxmNjRjNGM3NjQxMDE1MTI4NGM0ZDE0M2JmYzNiOTU3NTVmN2Y1YWNh`
+Snapshot ID: `MCxmZWIwZTg5YjU4ZWVmMjE5NmFmMGM1YzY2MDA1NmIxZWY4Zjc0N2Nj`

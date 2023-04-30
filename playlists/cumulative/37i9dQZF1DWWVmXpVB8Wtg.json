@@ -684,7 +684,7 @@
     {
       "album": {
         "name": "Daptone Records Singles Collection: Volume 1",
-        "url": "https://open.spotify.com/album/7JJziPgPVZJWmTXxsAaDAP"
+        "url": "https://open.spotify.com/album/42lZKhCXoHT3VLFYH4PPM3"
       },
       "artists": [
         {
@@ -699,6 +699,28 @@
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 208554,
+      "name": "Now That I'm Gone (Look How You're Crying)",
+      "url": "https://open.spotify.com/track/3INaJCuIfVWt8EnzhgHdk5"
+    },
+    {
+      "album": {
+        "name": "Daptone Records Singles Collection: Volume 1",
+        "url": "https://open.spotify.com/album/7JJziPgPVZJWmTXxsAaDAP"
+      },
+      "artists": [
+        {
+          "name": "Charles Bradley",
+          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+        },
+        {
+          "name": "Bullets",
+          "url": "https://open.spotify.com/artist/0ixVJf1V8RA00Wj4C8C79a"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 208554,
       "name": "Now That I'm Gone (Look How You're Crying)",
       "url": "https://open.spotify.com/track/6Qotee3wIEu3PUTsXLJbnG"

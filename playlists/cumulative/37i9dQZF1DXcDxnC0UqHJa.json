@@ -196,7 +196,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 193671,
       "name": "Amsterdam (Recorded at Spotify Studios NYC)",
       "url": "https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 140741,
       "name": "As I Rise",
       "url": "https://open.spotify.com/track/6Tkdjq5Wg4ECxk5iCKUbAx"
@@ -2600,7 +2600,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 236546,
       "name": "Leaving on a Jet Plane",
       "url": "https://open.spotify.com/track/0FhpvcAsWaL8QzofNDe6JN"
@@ -3028,10 +3028,28 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 228626,
       "name": "Nebraska - Acoustic",
       "url": "https://open.spotify.com/track/35rs6w32FH0qie0kLfdtla"
+    },
+    {
+      "album": {
+        "name": "Live at Eddie's Attic",
+        "url": "https://open.spotify.com/album/40LvDRa8e5cdgUFsKgSUzq"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209280,
+      "name": "No Ordinary Love (Live at Eddie's Attic)",
+      "url": "https://open.spotify.com/track/6RTF7UzUAtMqOpGbakgzGj"
     },
     {
       "album": {
@@ -4094,7 +4112,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-07",
+      "date_removed": null,
       "duration_ms": 206573,
       "name": "To Love Somebody",
       "url": "https://open.spotify.com/track/1CaJWmk3LlOvdCBQfipQlg"

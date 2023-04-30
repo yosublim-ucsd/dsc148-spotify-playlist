@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Thundercat ft\. Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,215 likes - 126 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,268 likes - 126 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 125 | [Selene](https://open.spotify.com/track/4npKDsY9jICNTZ9k1OCJWv) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Selene](https://open.spotify.com/album/5vM130oQKE5jQ22EgX7Cy7) | 4:54 |
 | 126 | [Failed at Math\(s\)](https://open.spotify.com/track/6W1wt10FubiQQVXychFAKp) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Failed at Math\(s\)](https://open.spotify.com/album/1TyXRjcjSnDLmewsTjr6id) | 2:40 |
 
-Snapshot ID: `MCwwMjk1OWFiNzQ0ZWE1Yzg3MGJiNGRhMDFlZTU3YjFjNTRmMjhhY2Ew`
+Snapshot ID: `MCxmYmY0OTBlMTY1Y2NlNzA4ZGYxMmVhZmQ3NWRmZjgxZWViMzkwN2Yy`

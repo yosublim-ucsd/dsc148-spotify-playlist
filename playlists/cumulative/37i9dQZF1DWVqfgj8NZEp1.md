@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-279 songs - 1 day 2 hr 6 min
+280 songs - 1 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [For Wee Folks](https://open.spotify.com/track/7kFpCWoKe2iqZSsBe9xwm5) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Countdown](https://open.spotify.com/album/4WHtmqNJCJtXiaQojOHHEC) | 6:28 | 2022-06-30 | 2023-03-22 |
 | [Forelsket i København](https://open.spotify.com/track/211rvuRnkIpzd5lJNi0LBK) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Danish Ballads..\. & More](https://open.spotify.com/album/23bW4RipgZJ7q2D51Cjnof) | 5:27 | 2020-10-09 |  |
 | [Fugitive Ritual, Selah](https://open.spotify.com/track/31ZHADyvTbyRgQVw1u2SSW) | [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [The 7th Hand](https://open.spotify.com/album/3OROcJURkOtf5sOitgchGD) | 5:47 | 2022-01-28 |  |
-| [Future Memories](https://open.spotify.com/track/2uWwde69YzmzTOkIz9et5u) | [Mareike Wiening](https://open.spotify.com/artist/5n2ZOxo4Dw6CcurZPIYlG9), [Rich Perry](https://open.spotify.com/artist/1TaMCGjRuinPW6jdc5sguu), [Glenn Zaleski](https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W), [Alex Goodman](https://open.spotify.com/artist/4akWuEzOy4ATwXu16fc7m3), [Johannes Felscher](https://open.spotify.com/artist/2RYXsAepfcxTMiShkD42pd) | [Future Memories](https://open.spotify.com/album/3eIXcODghIvpdGpBZHDhHB) | 6:04 | 2021-10-29 |  |
+| [Future Memories](https://open.spotify.com/track/2uWwde69YzmzTOkIz9et5u) | [Mareike Wiening](https://open.spotify.com/artist/5n2ZOxo4Dw6CcurZPIYlG9), [Rich Perry](https://open.spotify.com/artist/1TaMCGjRuinPW6jdc5sguu), [Glenn Zaleski](https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W), [Alex Goodman](https://open.spotify.com/artist/4akWuEzOy4ATwXu16fc7m3), [Johannes Felscher](https://open.spotify.com/artist/2RYXsAepfcxTMiShkD42pd) | [Future Memories](https://open.spotify.com/album/3eIXcODghIvpdGpBZHDhHB) | 6:04 | 2021-10-29 | 2023-04-30 |
+| [Future Memories](https://open.spotify.com/track/40468yGCyxHIbr2CWFa18s) | [Mareike Wiening](https://open.spotify.com/artist/5n2ZOxo4Dw6CcurZPIYlG9), [Rich Perry](https://open.spotify.com/artist/1TaMCGjRuinPW6jdc5sguu), [Glenn Zaleski](https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W), [Alex Goodman](https://open.spotify.com/artist/4akWuEzOy4ATwXu16fc7m3), [Johannes Felscher](https://open.spotify.com/artist/2RYXsAepfcxTMiShkD42pd) | [Future Memories](https://open.spotify.com/album/5eMHu66v8LQulaqsm2p2gA) | 6:04 | 2023-04-25 |  |
 | [Gary's Theme \- 2003 Remastered Version](https://open.spotify.com/track/4G3EKvGtqcUSZqPQIWJFxd) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [You Must Believe In Spring](https://open.spotify.com/album/6vYvLfw8EOf9OlLgc3IwaX) | 4:17 | 2020-10-09 | 2022-07-29 |
 | [Gary's Theme \- Remastered](https://open.spotify.com/track/3f9KhpRN6mMYoVnpuozgHD) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [You Must Believe In Spring \(Remastered Version\)](https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI) | 4:17 | 2022-06-30 |  |
 | [Gary's Theme \- Remastered](https://open.spotify.com/track/7wSn7ypqDy4kJO5AS4eNwn) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Sleep Jazz](https://open.spotify.com/album/5m5088R5xYBR9SbG7Wzf9b) | 4:17 | 2022-11-10 | 2022-11-13 |

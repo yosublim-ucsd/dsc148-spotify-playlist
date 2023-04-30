@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 
 > Some of the best Christian, Gospel, and inspirational songs of the year\.  Cover: Maverick City Music \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,843 likes - 70 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,951 likes - 70 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 | 57 | [Beat the Block Up](https://open.spotify.com/track/1YYlKFIlOQrfRhENbmSY4x) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [Beat the Block Up](https://open.spotify.com/album/4GPDjZ6kPfO4twbBtAMlfZ) | 2:35 |
 | 58 | [Say So](https://open.spotify.com/track/5omJ6mnDqQCDBvtv6Ssudc) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [My Beautiful Reality](https://open.spotify.com/album/1wNaIjk7zTye6VNdn3E2F1) | 2:57 |
 | 59 | [Easy](https://open.spotify.com/track/4pRtI6VcEUIcEW0rdvHBnl) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Higher Life](https://open.spotify.com/album/2gt5I6qjSVSt619rSAIlOg) | 2:45 |
-| 60 | [Good Morning Mercy](https://open.spotify.com/track/65pxpJbOeIc2oXexkr5vfU) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Good Morning Mercy](https://open.spotify.com/album/5F7deqvU0BTbsTIzr8rKnM) | 3:18 |
+| 60 | [Good Morning Mercy](https://open.spotify.com/track/2ZeYstnGxcxaQJnztHJrEZ) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Good Morning Mercy](https://open.spotify.com/album/3Wsy7LgDdHHZKuU4QDLFpB) | 3:18 |
 | 61 | [Just Us](https://open.spotify.com/track/3qtsAky6G5DJkmVvGL0Gx1) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [Worship & Justice](https://open.spotify.com/album/4MEVPrIwFmSlRh5MWHH0J8) | 5:56 |
 | 62 | [CALL](https://open.spotify.com/track/2BeSGeEZXro1Zx2Uhr2kHl) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8), [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [CALL](https://open.spotify.com/album/7eHtjtQweHAnqPoipe9d3j) | 2:40 |
 | 63 | [What I'm Waiting For](https://open.spotify.com/track/6WJ8948zRpfEmUMgxGrAoK) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Clarity](https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7) | 3:48 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 | 69 | [House of the Lord \(No Limits\)](https://open.spotify.com/track/4QMZfsUTKlWljyRhvhHLgj) | [Saddleback Worship](https://open.spotify.com/artist/3bYfSxyg0MnYn3KhZiR0nD) | [Alive & Well: No Limits](https://open.spotify.com/album/5wogFi882sOPdMXJqxVMP6) | 4:10 |
 | 70 | [My Soul Sings](https://open.spotify.com/track/2HRanyDAEkbZkVBSdyVAPI) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9) | [My Soul Sings](https://open.spotify.com/album/72LxQEwNtctTwLPkxJuCm3) | 6:00 |
 
-Snapshot ID: `MCw5ZjY1ZTcxYjZiOGZlZDE0OWE0ODZiMGIzYmZlNzU4MjQxNjI4YTYz`
+Snapshot ID: `MCwzNGQzNGZkMGEzYjI2Y2M1NTllMTZjM2I0Mzg3Yzk3NzdmYWQxYzNl`

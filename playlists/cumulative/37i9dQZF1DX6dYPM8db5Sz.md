@@ -4,7 +4,7 @@
 
 > The best new indie music from South Africa and beyond\. Cover: <https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH?si=KDRnLQ71TTKPrX5qGUd50Q">Nakhane</a>
 
-282 songs - 16 hr 25 min
+283 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,8 @@
 | [Mind Games](https://open.spotify.com/track/44hgSB3LnMNh81WtOvgBOa) | [Gabriela Diamond](https://open.spotify.com/artist/0L7Ck6i3Zr1UBztHOYQRoo) | [An Inner Monologue](https://open.spotify.com/album/04hEMZWgBEWxf0fzBeugFd) | 3:41 | 2022-08-18 | 2022-11-01 |
 | [Motion Sickness](https://open.spotify.com/track/25Syi9wnfn6ZGAmiOBypPq) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 3:49 | 2023-01-12 | 2023-01-27 |
 | [must be dumb](https://open.spotify.com/track/7KfPJGrYjRZIRt2P3aMxK9) | [Conn](https://open.spotify.com/artist/46JYMwEYsvRprcluO5f2n7) | [must be dumb](https://open.spotify.com/album/5nJ1fHIeF65fmZ2Add0nLL) | 1:48 | 2023-04-27 |  |
-| [My Time](https://open.spotify.com/track/5jeuZUFRRGPeBzPnT6Yjr7) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [My Time](https://open.spotify.com/album/0OgqnZcVTlOmqJ8SnAY5pK) | 2:47 | 2023-04-21 |  |
+| [My Time](https://open.spotify.com/track/3gbtNslUtnjb4GioHrR7qH) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [My Time](https://open.spotify.com/album/7FGBbHrwxSy7IMF7kFnDKp) | 2:47 | 2023-04-21 |  |
+| [My Time](https://open.spotify.com/track/5jeuZUFRRGPeBzPnT6Yjr7) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [My Time](https://open.spotify.com/album/0OgqnZcVTlOmqJ8SnAY5pK) | 2:47 | 2023-04-21 | 2023-04-30 |
 | [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 | 2023-01-12 | 2023-02-17 |
 | [Ndi a Ni Funa](https://open.spotify.com/track/2N1TKyUtiutH2AqBpF98t1) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM), [Kozo Zwane](https://open.spotify.com/artist/0Sa8nh1qc2jZhlqddED69k) | [Ndi a Ni Funa](https://open.spotify.com/album/1u5Wl8S3EuGd0woWFeJ68I) | 3:48 | 2023-03-02 | 2023-04-15 |
 | [Nice](https://open.spotify.com/track/0wbvC5m9im0mBkUtoVC0BA) | [Luh'ra](https://open.spotify.com/artist/0iXElExInTSMZ3DRWE7lpD) | [Nice](https://open.spotify.com/album/7m5ZWrFd3dbAW6oOrkxdm6) | 5:11 | 2022-07-21 | 2022-11-18 |

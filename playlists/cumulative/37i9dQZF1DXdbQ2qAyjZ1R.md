@@ -4,7 +4,7 @@
 
 > La playlist soul et rhythm and blues qui s'écoute au coin du feu.
 
-70 songs - 4 hr 44 min
+71 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Stand by Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 | 2022-12-16 |  |
 | [Storm](https://open.spotify.com/track/1cotJPbhAMOdrGqwi4BBEL) | [Rare Silk](https://open.spotify.com/artist/3k8BWRW5BWLewWbhSOImEf) | [American Eyes](https://open.spotify.com/album/38s7x5UFvrLOYXUKKKYJe6) | 5:24 | 2022-12-16 |  |
 | [Strawberry Letter 23](https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Right On Time](https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe) | 4:59 | 2022-12-16 |  |
-| [Strictly Reserved for You](https://open.spotify.com/track/2aWr9QRr0pSmYFH04zngiP) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Victim of Love](https://open.spotify.com/album/3rimYQyKq7BatxuUoPIBrb) | 3:42 | 2022-12-16 |  |
+| [Strictly Reserved for You](https://open.spotify.com/track/0QM3kYculSR2QjtXnysN1Z) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Victim of Love](https://open.spotify.com/album/6YAwLAs71WJtwUp7LEdWIk) | 3:42 | 2022-12-16 |  |
+| [Strictly Reserved for You](https://open.spotify.com/track/2aWr9QRr0pSmYFH04zngiP) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Victim of Love](https://open.spotify.com/album/3rimYQyKq7BatxuUoPIBrb) | 3:42 | 2022-12-16 | 2023-04-30 |
 | [Summer In The City](https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [You've Got It Bad Girl](https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB) | 4:04 | 2022-12-16 |  |
 | [Sunny](https://open.spotify.com/track/3Yuemm5Os1yfYDM5DWjfZ1) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [Dee Felice Trio](https://open.spotify.com/artist/6AIa4W2dRQq7A9v4DHkf0C) | [Gettin' Down To It](https://open.spotify.com/album/1o3Rv2hBIXYw8pE0TqoM3X) | 3:17 | 2022-12-16 |  |
 | [Sweetest Thing on This Side of Heaven](https://open.spotify.com/track/6O69NGPST8QReoHAplv9OL) | [Papa Bear & His Cubs](https://open.spotify.com/artist/6Q9ErFPYnMBBjqrtxp55Gv) | [You're so Fine](https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5) | 3:41 | 2022-12-16 |  |

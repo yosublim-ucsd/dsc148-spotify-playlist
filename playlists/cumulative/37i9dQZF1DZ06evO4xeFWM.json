@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/3umAdFvO9bBfhvzg3mWgjY"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319506,
+      "name": "Killing Me Softly With His Song - MTV Unplugged",
+      "url": "https://open.spotify.com/track/6Y6g54sevxBGm8LODojogf"
+    },
+    {
+      "album": {
         "name": "Killing Me Softly With His Song (MTV Unplugged / Edit)",
         "url": "https://open.spotify.com/album/4VP0lZWCx95HJkvoSgVWFc"
       },

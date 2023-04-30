@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 199 songs - 12 hr 24 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 200 songs - 12 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -207,5 +207,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 197 | [Haunted House on Zillow](https://open.spotify.com/track/6WDNTF2UZH8eGHFUH3xkcO) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [HORSESHIT ON ROUTE 66](https://open.spotify.com/album/1Wgcuni5PXwaTtRoo5SbmF) | 1:14 |
 | 198 | [Streaker \(feat\. Notrabel\)](https://open.spotify.com/track/2hJkzU5Ry3CDL3N9ad8fRc) | [TOBACCO](https://open.spotify.com/artist/3ikKyCOrsMeANi0d5u8BCR), [Notrabel](https://open.spotify.com/artist/3UYripz5TaFWumKpWjVXQw) | [Ultima II Massage](https://open.spotify.com/album/4BBxAB26ofkXvBmlatzTpW) | 2:52 |
 | 199 | [Salad Days](https://open.spotify.com/track/5VdaMUzoQetwxQwtWAd022) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 2:25 |
+| 200 | [That! Feels Good!](https://open.spotify.com/track/1XaHF28nrXBbyitGIGSdna) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [That! Feels Good!](https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6) | 4:22 |
 
-Snapshot ID: `ODI3LDM4NWEyZjFhMGY5ZWE2NDQ1Y2Q0ZTBiOWVhZDM2ZTdlMTdiNjcxMDI=`
+Snapshot ID: `ODI4LDVkYzU1YmUwN2MyMWY1NjViOGFmNDM5MTEzYTNlNDczYTE5NTk3OTg=`

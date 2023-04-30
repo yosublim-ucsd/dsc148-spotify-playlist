@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Pathu Thala
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,336 likes - 53 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,716 likes - 53 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 10 | [Athana Per Mathiyila \(From "Raavana Kottam"\)](https://open.spotify.com/track/0f1FicKijCSSWYfeECL8py) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Vandana Srinivasan](https://open.spotify.com/artist/0aK5YwPtmSJ8g7nSEMPLJm), [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr), [Karthik Netha](https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55) | [Athana Per Mathiyila \(From "Raavana Kottam"\) \- Single](https://open.spotify.com/album/6U8ZXbDKr0Rl4v9SXmvtNd) | 4:59 |
 | 11 | [Kalyaana Melam Kottum Kaalam \(From "Deivamachan"\)](https://open.spotify.com/track/5scSYf1EF4Ig7qzmWIf1Tj) | [Anand Aravindakshan](https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g) | [Kalyaana Melam Kottum Kaalam \(From "Deivamachan"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/7DKVJqiNVCrT21uA7bGzag) | 3:59 |
 | 12 | [Timeless Love \(From "Custody"\)](https://open.spotify.com/track/3e55Z7GQ32shpEwrnd6Jjz) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Madan Karky](https://open.spotify.com/artist/6EtLhQRslM09DO6EQLzodI) | [Timeless Love \(From "Custody"\)](https://open.spotify.com/album/3u7j59HpPiG3XUcdvUeshr) | 4:10 |
-| 13 | [Raavana Kottathula](https://open.spotify.com/track/7bCo86nA52IUWcJsuNu81F) | [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr), [Diwakar](https://open.spotify.com/artist/5BdXSKDC9KQQpdQ7V3cZxD) | [Raavana Kottam](https://open.spotify.com/album/13GOZsEZb3fB4Ho3lGStbv) | 4:03 |
+| 13 | [Raavana Kottathula](https://open.spotify.com/track/5NlrcQ395izF94hWVHVID9) | [Diwakar](https://open.spotify.com/artist/5BdXSKDC9KQQpdQ7V3cZxD), [K Ekadesi](https://open.spotify.com/artist/1Qxk3WSwHhmyB9YF87HpkP) | [Raavana Kottam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4f4mHDmV6ZYRKmGLmbQY0e) | 4:03 |
 | 14 | [Namma Satham \(From "Pathu Thala"\)](https://open.spotify.com/track/1DUaZdBqnc18ja3DY6h0dS) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Yogi Sekar](https://open.spotify.com/artist/4n32jWbOVtfNDsOJAGQJcs) | [Namma Satham \(From "Pathu Thala"\)](https://open.spotify.com/album/4LgQVd0XGV8AKiszUTsBSa) | 3:35 |
 | 15 | [Veera Raja Veera](https://open.spotify.com/track/1W0QTc0qGWVhMOzxgoBgAQ) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Ponniyin Selvan Part\-2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Z3OH7wgqG7rLBZVVdTEcD) | 5:20 |
 | 16 | [Vaa Tharagaye \- From "Thiruvin Kural"](https://open.spotify.com/track/4xfIuzftQmEm3gjzTHJRH5) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Abhijith Anilkumar](https://open.spotify.com/artist/1WdTt5EOurwVpV5TzL6JiE) | [Vaa Tharagaye \(From "Thiruvin Kural"\)](https://open.spotify.com/album/5YfK8vtbT2AWk6JM9h6gMx) | 3:58 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 52 | [Soul Of Varisu \(From "Varisu"\)](https://open.spotify.com/track/5xqK2eth6i7xgH2Ov817H5) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Soul Of Varisu \(From "Varisu"\)](https://open.spotify.com/album/4vlynRz37CoL7nCGHHCNU9) | 2:07 |
 | 53 | [Muthuvel Pandian Theme \(From "Jailer"\)](https://open.spotify.com/track/6Y4it0x4uP5rI0lv05ymk1) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Muthuvel Pandian Theme \(From "Jailer"\)](https://open.spotify.com/album/610ByI4AyDj3TdrMDZbKWS) | 1:43 |
 
-Snapshot ID: `MCxkNTdlYTIzODNhNTE4MWQxZjAzMGM2ZGI0YzI3ZTgzMjFlNmEzMzdi`
+Snapshot ID: `MCw1NWRlNjJmZGJiY2VmZjc3NzFkYWJmNTg4Y2VhNDY1Y2I3ZGEwNzY2`

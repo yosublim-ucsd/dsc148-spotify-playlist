@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTm9PQomW7Or.md) - [plain]
 | 25 | [Paradise](https://open.spotify.com/track/4IT5FuLhPEFlGfaApivmZi) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/0fWGwOtbOLZfG6ZIBQRpAv) | 3:28 |
 | 26 | [White Day \(IDOL: The Coup\)](https://open.spotify.com/track/0TRHKlHox8YVaBCJ6cUlGJ) | [Cotton Candy](https://open.spotify.com/artist/0XRMbnjCPM7HhvxZXZrNxg) | [White Day \(IDOL: The Coup\)](https://open.spotify.com/album/4Dm7MfVTVTr7toMxqZ9r9a) | 3:30 |
 
-Snapshot ID: `MCw0ODJjMzhjYzNlMzZhYTY2NGEyMTczMzczOWUyYzVlNWExODY5MmI5`
+Snapshot ID: `MCw4ZTkwMmIxMTZkZDBmYzVhNGUxZGEwNTFjOWNlOWU0MTM0N2RmNzM1`

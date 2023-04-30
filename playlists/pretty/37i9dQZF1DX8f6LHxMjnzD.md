@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Kim Petras & Nicki Minaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 866,204 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 866,270 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [Hey Little Mama](https://open.spotify.com/track/39gAMEu1yMJ2AoAxa85DRG) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Life Upside Down EP](https://open.spotify.com/album/21bX9HbO7Hp29Hb35xuOmr) | 3:10 |
 | 40 | [I Should Have Married You](https://open.spotify.com/track/3XhhXPBUI2BKs8FTOOdHfR) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [I Should Have Married You](https://open.spotify.com/album/3HSreInK13c45aTK0Sqemr) | 2:43 |
 
-Snapshot ID: `MCwzMWE3NjU0MGJlMGE5YWQ0NjI4MjFmNzQ5Yjk0YWUxZTY3YTQ5NDYw`
+Snapshot ID: `MCw0MTE0OTNmMzA1Njc0NWIxOGI5MDFiMzRiOWQxNjQ3YTEyMGYwNjli`

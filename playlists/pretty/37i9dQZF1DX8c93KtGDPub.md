@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,486 likes - 174 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,477 likes - 174 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 | 72 | [Sleet and Snow](https://open.spotify.com/track/19PbVUTpF75SeZQpTEUJwM) | [My First Tooth](https://open.spotify.com/artist/2mtHReEeM2MuBaWSY3stG8) | [Sleet and Snow](https://open.spotify.com/album/6IvRuTNcTlPaIosiVlY8Nx) | 3:18 |
 | 73 | [What Are You Doing New Years Eve](https://open.spotify.com/track/5HhcXgRU7kYszL7OQZtNlc) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [A Johnnyswim Christmas](https://open.spotify.com/album/4NVnwX1oas9B9zHSX8xwfD) | 2:53 |
 | 74 | [Snow](https://open.spotify.com/track/4yNKWjEFADa5f11RI1DaKC) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm) | 3:38 |
-| 75 | [Take Me Back to Toyland](https://open.spotify.com/track/7a9o50udnCEeGVfUdI084k) | [Grant\-Lee Phillips](https://open.spotify.com/artist/65xy6loxYxKy3M9uiRHzLv) | [Winterglow / Take Me Back to Toyland](https://open.spotify.com/album/4N1C0GAOeKcqMUrJSGPV3t) | 2:06 |
+| 75 | [Take Me Back to Toyland](https://open.spotify.com/track/35VxpFYw78qOvQbwgENTyX) | [Grant\-Lee Phillips](https://open.spotify.com/artist/65xy6loxYxKy3M9uiRHzLv) | [Winterglow / Take Me Back to Toyland](https://open.spotify.com/album/0ghqHw3YtbooB3IoXDdTXN) | 2:05 |
 | 76 | [White Winter Hymnal](https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 2:27 |
 | 77 | [Carol of the Bells](https://open.spotify.com/track/0ooZTbadcxB1rWlFjQVMmB) | [Caroline Pennell](https://open.spotify.com/artist/0cZPTEmf3mlwj5kjVXR4po) | [December Songs](https://open.spotify.com/album/7IM5ffEXH19ulqrB8k3M8y) | 1:57 |
 | 78 | [Jingle Your Bells](https://open.spotify.com/track/27Y92XmoFMVeVVwJhOWczE) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Jingle Your Bells](https://open.spotify.com/album/0t6BIKhlVZHdKv4ocFmqr6) | 3:53 |
@@ -125,7 +125,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 | 115 | [Away in a Manger](https://open.spotify.com/track/71QJmnikBUIwP97sk8KSg5) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Christmas Songs](https://open.spotify.com/album/5sTk7csBMRu9jPsxnJkev3) | 2:39 |
 | 116 | [Listening To Otis Redding At Home During Christmas](https://open.spotify.com/track/5RjWj5pWHegnAWqdbVscar) | [Okkervil River](https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY) | [Don't Fall In Love With Everyone You See](https://open.spotify.com/album/6VjqgRVhLyc7hiWzSDQGEq) | 6:36 |
 | 117 | [Come Thou Fount](https://open.spotify.com/track/35yT30p4tPxhckJ8Lbpd6r) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Christmas Songs](https://open.spotify.com/album/5sTk7csBMRu9jPsxnJkev3) | 3:47 |
-| 118 | [In the Bleak Midwinter](https://open.spotify.com/track/3np9l8SIwGkyeQjtNXe7na) | [The Hot Hearts](https://open.spotify.com/artist/2mOYycEORlQThRVOoSjL7V) | [A Rock By the Sea Christmas, Vol\. 4](https://open.spotify.com/album/2qK9B8F2H0jJKxMuYdV0n7) | 2:53 |
+| 118 | [In the Bleak Midwinter](https://open.spotify.com/track/6MOYdMMIZAfuFzmGxFl3Pe) | [The Hot Hearts](https://open.spotify.com/artist/2mOYycEORlQThRVOoSjL7V) | [A Rock By the Sea Christmas, Vol\. 4](https://open.spotify.com/album/1iam45D5AQaoVkZqTx8Lyc) | 2:53 |
 | 119 | [Mvmt IV: "Every Bell on Earth Will Ring"](https://open.spotify.com/track/7B0UTIQnO1cOhAeflDHuZR) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [The Oh Hellos' Family Christmas Album](https://open.spotify.com/album/5Dis90MWAIxdXh6IuQ27JM) | 6:45 |
 | 120 | [We Were Marching on Christmas Day](https://open.spotify.com/track/5Df6MzHKeXGO8xgFMhjdAL) | [The Orphan Brigade](https://open.spotify.com/artist/2G2yuocG4yAnSREBFHWtLn) | [Soundtrack to a Ghost Story](https://open.spotify.com/album/0A64g7FKTQLwiZhvlGh2gx) | 4:26 |
 | 121 | [Christmas Day](https://open.spotify.com/track/6QfjvDB63IGxWNtjySyh9F) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [A Johnnyswim Christmas](https://open.spotify.com/album/4NVnwX1oas9B9zHSX8xwfD) | 2:28 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 | 173 | [7 O'clock News / Silent Night](https://open.spotify.com/track/0Va2A1oD5n0ezfvKqPOXaD) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 2:00 |
 | 174 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 |
 
-Snapshot ID: `MCwwYjM0ZGJjNzU2YzUxNGM2Njk4NjVmYmQxOTFmM2RlMWQ1NGM1ZWRj`
+Snapshot ID: `MCwzNTAxZTBmYWE4MDRlMTMwMzgyZDRlZTdhZmU0NDM2MDcxZTFkOWVh`

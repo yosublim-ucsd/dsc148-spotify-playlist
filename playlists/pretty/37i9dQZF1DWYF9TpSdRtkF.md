@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\. アイドルマスター ミリオンライブ！の楽曲を1つのプレイリストで。<br/>THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,112 likes - 75 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,125 likes - 75 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 | 74 | [シークレットジュエル \~魅惑の金剛石\~](https://open.spotify.com/track/5rTbdRz9rN6RsVuc30xcKK) | [Iori Minase \(CV: Rie Kugimiya\)](https://open.spotify.com/artist/6B6buazGVRebZ48YqRHnqd), [Miya Miyao \(CV: Choucho Kiritani\)](https://open.spotify.com/artist/2MenDm4cLUCQkODm7Zkbar), [春日未来 \(CV.山崎はるか\)](https://open.spotify.com/artist/4pmQgY13xkPyGdHeK4y4uv), [Kaori Sakuramori \(CV: Arisa Kori\)](https://open.spotify.com/artist/1u7UKyQSfX3KIelFAagFMn), [Momoko Suou \(CV: Keiko Watanabe\)](https://open.spotify.com/artist/3Amsmaln3plXWWVJi684Kr) | [THE IDOLM@STER MILLION THE@TER SEASON](https://open.spotify.com/album/2GmyOoF9xIs414VXoGQ3zN) | 3:28 |
 | 75 | [恋のLesson初級編](https://open.spotify.com/track/2MFXCcrr20fqbLzPnrCrIp) | [伊吹 翼 \(CV.Machico\)](https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1) | [THE IDOLM@STER LIVE THE@TER PERFORMANCE 06](https://open.spotify.com/album/30Lzd3PMCzEzF5sE12cbxi) | 3:20 |
 
-Snapshot ID: `MCwwZjQ4ZDQwOGQ4MWY0ZGNlMzQ5MzRhOTk0NGJjYThlYzc0YmQ4YjYw`
+Snapshot ID: `MCwxOGVmNzQzZWE4YjQ0MzdjMjM0MjkyNWYyMGQ5NWM0OTg1NDcyNjk0`

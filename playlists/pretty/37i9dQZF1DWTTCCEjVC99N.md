@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 
 > Get ready for some serious 00s nostalgia\. Cover : Nancy Ajram
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,079 likes - 102 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,285 likes - 102 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,6 +109,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 | 99 | [Bos Alaya](https://open.spotify.com/track/4LKkqI4NhqiFVmpg0fnQKD) | [Dana Halabi](https://open.spotify.com/artist/0RolaL9Dqjs9iMMLflD1ts) | [Bos Alaya](https://open.spotify.com/album/3YINSYDHz2LuiiZgRcbHvo) | 4:11 |
 | 100 | [Kel El Ossa](https://open.spotify.com/track/5eisepAnTwRx7ZSIVegAyM) | [Darine Hadchiti](https://open.spotify.com/artist/3IkEauhflcvpap7UUoXeR2) | [Kel El Ossa](https://open.spotify.com/album/5xtab7ihPgIVWW0RfcZK1N) | 3:02 |
 | 101 | [ياعيبو](https://open.spotify.com/track/5dO1DVK8yI01YNzfeBfEKT) | [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [ياعيبو](https://open.spotify.com/album/7CebL91fa4J3Vx86Z20h88) | 3:42 |
-| 102 | [El Hawa Sultan](https://open.spotify.com/track/0WL1sLdWPecxG3qn764QOp) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Café Arabia Volume 2](https://open.spotify.com/album/6J7G9xjjysTRe9MZVImAaf) | 7:02 |
+| 102 | [El Hawa Sultan](https://open.spotify.com/track/0ySDdvzYJOBwERbrzvqfSK) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [أروع أغاني جورج وسوف](https://open.spotify.com/album/6Mi7z46UWq0oR9sWVVmuGP) | 7:02 |
 
-Snapshot ID: `MCw2NjFkZDM2ZjdkN2ZlOTVjODE4YTM2Zjk5MjBiOWI0ZDQ0MzI2NzY2`
+Snapshot ID: `MCxkNmYxMjYzM2Y3ZDc0NDQxMDk5NGE3NTNkY2NlOGE2OTQ1OWI5ZDI0`

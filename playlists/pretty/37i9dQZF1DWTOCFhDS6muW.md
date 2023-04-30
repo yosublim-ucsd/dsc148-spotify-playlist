@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 
 > ¡Esto es punta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,059 likes - 38 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,080 likes - 38 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 | 4 | [La Parranda \(Sei Sei Bei\)](https://open.spotify.com/track/19ypqqNqS4pdiZ4PzCEcLQ) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Conexión Garifuna](https://open.spotify.com/album/2pYj5xdckJb8hGiDP8I689) | 3:12 |
 | 5 | [La Yuca](https://open.spotify.com/track/04DMd80zGUt5W21LDDQTI8) | [Los Roland's](https://open.spotify.com/artist/5Gczy2Me3LRBiQG5L1egQc) | [15 Exitos](https://open.spotify.com/album/2IngTHJIfGVYyVWDVplvIr) | 4:38 |
 | 6 | [Punta Raton \- Remix](https://open.spotify.com/track/614aWj40s31E4Vc4lGBDd0) | [Grupo Kazzabe](https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3) | [Batalla de las Puntas, Vol\. 3](https://open.spotify.com/album/0kquKUN0kfVN1NX7157B3R) | 4:08 |
-| 7 | [Sopa de Caracol \(Remix\)](https://open.spotify.com/track/6NQt5wVpaE1dcwfYmjce7L) | [Pilo Tejeda](https://open.spotify.com/artist/0XVYCj51XvKccyphzKQOAc), [Polache](https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY) | [El Otro Yo](https://open.spotify.com/album/6ybT0RRByP5X6ogdQioyaQ) | 3:15 |
+| 7 | [Mandele Gas](https://open.spotify.com/track/75XWB4hpjYqw7beNddHhhe) | [La Gran Banda](https://open.spotify.com/artist/7bUAuQ2SZDbUbRgEPPeBBo) | [Batalla de las Puntas, Vol\. 6](https://open.spotify.com/album/5zKgSHI93j3BpGncORJ87T) | 3:47 |
 | 8 | [Fiesta](https://open.spotify.com/track/0DekuxPNx9ImAWQHXldJ9P) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 7:29 |
 | 9 | [El Pato y la Gallina](https://open.spotify.com/track/03Q4wMa2PzvRfgiwJjAJmW) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [Batalla de las Puntas, Vol\. 1](https://open.spotify.com/album/09uhrRQqKBnW5ugfapzP7C) | 4:59 |
-| 10 | [Mandele Gas](https://open.spotify.com/track/75XWB4hpjYqw7beNddHhhe) | [La Gran Banda](https://open.spotify.com/artist/7bUAuQ2SZDbUbRgEPPeBBo) | [Batalla de las Puntas, Vol\. 6](https://open.spotify.com/album/5zKgSHI93j3BpGncORJ87T) | 3:47 |
+| 10 | [Sopa de Caracol \(Remix\)](https://open.spotify.com/track/6NQt5wVpaE1dcwfYmjce7L) | [Pilo Tejeda](https://open.spotify.com/artist/0XVYCj51XvKccyphzKQOAc), [Polache](https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY) | [El Otro Yo](https://open.spotify.com/album/6ybT0RRByP5X6ogdQioyaQ) | 3:15 |
 | 11 | [Punta Mix 2019](https://open.spotify.com/track/5LP391Nx0za8MUzi9WynnX) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv), [MC Productions Inc](https://open.spotify.com/artist/4pqKYtU6pamrZUuTWaaRgA) | [Punta Mix 2019](https://open.spotify.com/album/1yUOla9I4KEqzzAJH9JgW7) | 5:01 |
 | 12 | [Carolina](https://open.spotify.com/track/3EpsFoq6ZFEQREYblovfHZ) | [Supa G](https://open.spotify.com/artist/4lJKjqL2fCL4yfNyKhm1sB) | [Punta Vibe](https://open.spotify.com/album/3IJe0vVXjgILY9PMAhrN5f) | 3:13 |
 | 13 | [Pai](https://open.spotify.com/track/4o4I53Z5NypMoz5MTsY3Ij) | [Las Chicas Rolands](https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz) | [Puro Éxitos: Las Chicas Rolands](https://open.spotify.com/album/6Y2FqU0PxqvjQkYeACquud) | 3:23 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 | 37 | [La Ametralladora](https://open.spotify.com/track/5KdTR3wMMQqX37mK0Vzqiz) | [Las Chicas Rolands](https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz) | [La Ametralladora](https://open.spotify.com/album/5yPuWd7KMAHHLBQREkz4Jv) | 2:34 |
 | 38 | [En Mi Pais](https://open.spotify.com/track/78inhCoJFx1M9ZRBG6Nbhp) | [Guillermo Anderson](https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy) | [Pobre Marinero](https://open.spotify.com/album/6PISCk0SEOHNFHheKDmUFj) | 3:39 |
 
-Snapshot ID: `MCw1ZWQzNmU0M2JjOGVmMDA2NmU3NWE0NjgwY2E5NjFkMWQyOWUxNmFh`
+Snapshot ID: `MCxiZTFlNDFlMmNlNWNjMmJiNzAxYjg0ZjdkMTJmNTdlZGYwNjk3YTNk`

@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bispo e Bárbara Tinoco.
 
-288 songs - 15 hr 46 min
+290 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,11 +61,13 @@
 | [Chance](https://open.spotify.com/track/1AClteNHhuIF4uGgPCHKhA) | [BCKappa](https://open.spotify.com/artist/2XAxChRi8QlO5rKAoL0DZi), [Juh](https://open.spotify.com/artist/5eviHRz2iMhA8NSTP176u8) | [Chance](https://open.spotify.com/album/0iSgo1smaFKzYKguM5Kws9) | 3:16 | 2023-01-06 | 2023-02-17 |
 | [Chega P'ra Lá](https://open.spotify.com/track/7h9zNCAa8KLld9mHamzeGG) | [Hugo Casaca](https://open.spotify.com/artist/0Y8q7atymYLh7p9k4qiYe1) | [Chega P'ra Lá](https://open.spotify.com/album/4efLnTaK16TYzuCJv4BHA2) | 2:38 | 2022-08-11 | 2022-09-09 |
 | [Chilla Chilla](https://open.spotify.com/track/3Ujr8v4IABZpysC8WBhuPu) | [10/16](https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE), [Lukky Boy](https://open.spotify.com/artist/5FlnhIR9qfozOYH8bfoeEF) | [Chilla Chilla](https://open.spotify.com/album/3Cn1Go38UQg7fIpzzC0GeW) | 2:38 | 2022-09-29 | 2022-10-28 |
-| [Chopper](https://open.spotify.com/track/4iA8xKvYNeJeykj9XCZ2hn) | [DJ Danifox](https://open.spotify.com/artist/58qqZsbpx5jsctoHd4qhpL) | [Ansiedade](https://open.spotify.com/album/1Kfi0mBJUdV1GeIjHRu7kV) | 3:45 | 2023-04-27 |  |
+| [Chopper](https://open.spotify.com/track/4iA8xKvYNeJeykj9XCZ2hn) | [DJ Danifox](https://open.spotify.com/artist/58qqZsbpx5jsctoHd4qhpL) | [Ansiedade](https://open.spotify.com/album/1Kfi0mBJUdV1GeIjHRu7kV) | 3:45 | 2023-04-27 | 2023-04-30 |
 | [Colina](https://open.spotify.com/track/6A3miATI6lLCFORxUDTRJp) | [Puro L](https://open.spotify.com/artist/2qGDFd5cXDkCsP20UpBXQ5) | [Colina](https://open.spotify.com/album/4ivAzZJlYOkXaARdzi3bdx) | 3:45 | 2022-08-18 | 2022-09-02 |
 | [Como Tu](https://open.spotify.com/track/2gqAMjrQUZxdYzCBhp9X86) | [Deli KC](https://open.spotify.com/artist/4KXgWpeZGnRJJD8yoRQYFz), [BND AJ](https://open.spotify.com/artist/5Ddq6MWmIENLxdwu5v4cvy) | [Como Tu](https://open.spotify.com/album/03Lr0zZfF1ZtWjdgRykjbl) | 3:42 | 2022-07-07 | 2022-07-28 |
 | [Como Tu \(feat\. Ivandro\)](https://open.spotify.com/track/5BGdBH8MsaHCgfr4TMpRin) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Como Tu \(feat\. Ivandro\)](https://open.spotify.com/album/5iySTzq8nLllHzdYOFM59p) | 3:27 | 2022-09-08 |  |
 | [Compatíveis](https://open.spotify.com/track/1aU7gyz1DIjJVYpib4YB0K) | [Tieijci](https://open.spotify.com/artist/4anxxxE3Dilg7ugHS6plnH), [Tee Ace](https://open.spotify.com/artist/7lzzQfG4iVb0d42Iggw1cV) | [Compatíveis](https://open.spotify.com/album/2ZJqFPzJCEEF4TCRSzOwuG) | 2:34 | 2022-12-02 | 2022-12-24 |
+| [Compensa](https://open.spotify.com/track/5Gy6YKL17vrzMVnsve5aCd) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Compensa](https://open.spotify.com/album/3iQUWcwiOXIa5BVwczmbbY) | 3:11 | 2023-04-27 |  |
+| [Confortable](https://open.spotify.com/track/7A6yZH0XOkn1qhgaNnOKYZ) | [SOLUNA](https://open.spotify.com/artist/6sIsLfY5y0OFtBSbSNEjmW), [Dotorado Pro](https://open.spotify.com/artist/6CMcJKC5K1MFHQJYKdTLPd) | [Confortable](https://open.spotify.com/album/6bRjSUOtBfPiUSb47hlh5Y) | 2:48 | 2023-04-27 |  |
 | [Conquista Mundo](https://open.spotify.com/track/52Zd6OI7ypoK9D27dSsjHT) | [Mulatoh Prod](https://open.spotify.com/artist/3rpJhMe1y5yfFyuSIWP2zR), [Tino OG](https://open.spotify.com/artist/4eS9qGsJeOE6d5cqAlfPST), [Akapta G](https://open.spotify.com/artist/7qrgEKJaQNUpmWxIjfnopY) | [Conquista Mundo](https://open.spotify.com/album/3xbeCkmXaHf17iAXIByf6M) | 2:32 | 2022-10-13 | 2022-11-11 |
 | [Contigo](https://open.spotify.com/track/6T0xKuYzSIz1AbfcCqcJNu) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr), [Cunha Beats](https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7) | [Contigo](https://open.spotify.com/album/0nDhqtYEUXpkKWfqgXMXY4) | 3:06 | 2023-02-10 | 2023-03-02 |
 | [Conversas](https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 5:14 | 2022-07-07 |  |
@@ -76,7 +78,7 @@
 | [Céu No Quarto](https://open.spotify.com/track/7qocYaIQY1ToJnbK7pj8fN) | [Walter 4reignr](https://open.spotify.com/artist/0QzzLKzJwwEuw3TFt0A0Lt) | [Céu No Quarto](https://open.spotify.com/album/1iQArK8itENXTXgexkZwDd) | 2:38 | 2022-12-23 | 2023-01-21 |
 | [Dalí](https://open.spotify.com/track/6FHQSoXHPYOebrrZBAPB7N) | [No Money](https://open.spotify.com/artist/2XtUEgkLN083xZ6Biwn8dq) | [Dalí](https://open.spotify.com/album/15xdd7nz5qG1RO9devhKFF) | 3:09 | 2023-02-17 | 2023-03-11 |
 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 | 2022-07-07 |  |
-| [de longe](https://open.spotify.com/track/64Dw1NR6wGTJHMIdWyZUz9) | [Bala de Prata](https://open.spotify.com/artist/6oh2B9GVxXsJ0cEMZuHbpr), [Hernani](https://open.spotify.com/artist/0pv7KRBmPGExsFFLcyPv1y), [Djimetta](https://open.spotify.com/artist/1v1FKWoa3qc7TZBySi0eCW) | [de longe](https://open.spotify.com/album/04GuuwxXFyYKrApJTvDobv) | 4:13 | 2023-04-27 |  |
+| [de longe](https://open.spotify.com/track/64Dw1NR6wGTJHMIdWyZUz9) | [Bala de Prata](https://open.spotify.com/artist/6oh2B9GVxXsJ0cEMZuHbpr), [Hernani](https://open.spotify.com/artist/0pv7KRBmPGExsFFLcyPv1y), [Djimetta](https://open.spotify.com/artist/1v1FKWoa3qc7TZBySi0eCW) | [de longe](https://open.spotify.com/album/04GuuwxXFyYKrApJTvDobv) | 4:13 | 2023-04-27 | 2023-04-30 |
 | [Demais](https://open.spotify.com/track/6rhYkzPcdqaDgBXhExYWWW) | [GBrïsido](https://open.spotify.com/artist/3QmMiG6180GqdDrl35xqRy) | [Demais](https://open.spotify.com/album/5SjLchkDLzAdhjTS8iUdZy) | 3:07 | 2023-03-03 | 2023-03-25 |
 | [Depois da Chuva](https://open.spotify.com/track/1ScmnksyeYyEtdBlqZcozC) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:39 | 2022-07-07 |  |
 | [Desce Do Céu](https://open.spotify.com/track/0sL2N1y2f6tjETXH6CLeHY) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Desce Do Céu](https://open.spotify.com/album/29EhHjUiLnhkhpDJPcln7f) | 4:18 | 2022-10-27 | 2022-11-18 |

@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 2819,
+  "num_followers": 2833,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTkwZGRjMDM5NGM4OWYxYmY1YmQ4MmJiMGU2MTE2YWJjYTk2ZWRk",
+  "snapshot_id": "MCwyZGE1OTEwMWMyZjA5NGMxMzc4MjcwMDk3YTM0NjBmOGViMzM5NzNl",
   "tracks": [
     {
       "added_at": "2023-04-27 22:01:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "Built And Broken",
-        "url": "https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m"
-      },
-      "artists": [
-        {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
-        }
-      ],
-      "duration_ms": 268293,
-      "name": "Built And Broken",
-      "url": "https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
         "name": "I Feel for You",
         "url": "https://open.spotify.com/album/1T7prrdakLyU8Nk7AlXEgb"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 183413,
       "name": "I Feel for You",
       "url": "https://open.spotify.com/track/6XOWuyehpI0CEDYr7EQQun"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
+        "name": "Built And Broken",
+        "url": "https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m"
+      },
+      "artists": [
+        {
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+        }
+      ],
+      "duration_ms": 268293,
+      "name": "Built And Broken",
+      "url": "https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/3yF8GCeZkevUHuMSDOBQcV"
-      },
-      "artists": [
-        {
-          "name": "Marcel Kapteijn",
-          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
-        }
-      ],
-      "duration_ms": 158653,
-      "name": "Lost & Found",
-      "url": "https://open.spotify.com/track/1Mk22y2ZqHMijN57LfOi5U"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
         "name": "Things Happen That Way",
         "url": "https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 204800,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/3yF8GCeZkevUHuMSDOBQcV"
+      },
+      "artists": [
+        {
+          "name": "Marcel Kapteijn",
+          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+        }
+      ],
+      "duration_ms": 158653,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/1Mk22y2ZqHMijN57LfOi5U"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
+        "name": "The Green Stone",
+        "url": "https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22"
+      },
+      "artists": [
+        {
+          "name": "Daniel Norgren",
+          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
+        }
+      ],
+      "duration_ms": 204840,
+      "name": "I Waited for You",
+      "url": "https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
         "name": "Big Thing",
         "url": "https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 215440,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "Lightyears Better",
-        "url": "https://open.spotify.com/album/4OTldoFsD7VQuV5g1EZPgd"
-      },
-      "artists": [
-        {
-          "name": "Tim Knol",
-          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
-        }
-      ],
-      "duration_ms": 184053,
-      "name": "Lightyears Better",
-      "url": "https://open.spotify.com/track/3TfJc3C3n9ML0dXoz7oHcm"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "Burlesque Desert Window",
-        "url": "https://open.spotify.com/album/4oUx1HJHLYrR89VrzjzHf4"
+        "name": "Lightyears Better",
+        "url": "https://open.spotify.com/album/4OTldoFsD7VQuV5g1EZPgd"
       },
       "artists": [
         {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+          "name": "Tim Knol",
+          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
         }
       ],
-      "duration_ms": 179573,
-      "name": "Burlesque Desert Window",
-      "url": "https://open.spotify.com/track/3wcayWWtzYs1DM6qu2p5nE"
+      "duration_ms": 184053,
+      "name": "Lightyears Better",
+      "url": "https://open.spotify.com/track/3TfJc3C3n9ML0dXoz7oHcm"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -671,18 +671,18 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "For The Better Of Me",
-        "url": "https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg"
+        "name": "Burlesque Desert Window",
+        "url": "https://open.spotify.com/album/4oUx1HJHLYrR89VrzjzHf4"
       },
       "artists": [
         {
-          "name": "Yentl",
-          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
         }
       ],
-      "duration_ms": 230431,
-      "name": "For The Better Of Me",
-      "url": "https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ"
+      "duration_ms": 179573,
+      "name": "Burlesque Desert Window",
+      "url": "https://open.spotify.com/track/3wcayWWtzYs1DM6qu2p5nE"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
+        "name": "For The Better Of Me",
+        "url": "https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg"
+      },
+      "artists": [
+        {
+          "name": "Yentl",
+          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
+        }
+      ],
+      "duration_ms": 230431,
+      "name": "For The Better Of Me",
+      "url": "https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
         "name": "Once Upon A Town",
         "url": "https://open.spotify.com/album/5uPvRkqZrTkRvIufbRFvt4"
       },
@@ -715,6 +731,22 @@
       "duration_ms": 179250,
       "name": "Once Upon A Town",
       "url": "https://open.spotify.com/track/32qnA2AzhYiz9QfSMVvgo3"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
+        "name": "Buck",
+        "url": "https://open.spotify.com/album/7oXPEByonJefvXaAB8pgKV"
+      },
+      "artists": [
+        {
+          "name": "Daniel Norgren",
+          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
+        }
+      ],
+      "duration_ms": 124986,
+      "name": "Whatever Turns You On",
+      "url": "https://open.spotify.com/track/13PXKnETL7SoDB5ZjQLbgQ"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -783,62 +815,18 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "Dangers Mood",
-        "url": "https://open.spotify.com/album/2vwbTmsYqcMqePxrfPRV4z"
+        "name": "Eyes On The Road",
+        "url": "https://open.spotify.com/album/59ZMGrtibbHBmCM1QnFhue"
       },
       "artists": [
         {
-          "name": "Robbert Duijf",
-          "url": "https://open.spotify.com/artist/479RX3LATApuM30lH2cemD"
-        },
-        {
-          "name": "Maud Knubben",
-          "url": "https://open.spotify.com/artist/109tzSrdsNx4IQJvJBTRXV"
+          "name": "Marcel Kapteijn",
+          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
         }
       ],
-      "duration_ms": 192640,
-      "name": "Going Home",
-      "url": "https://open.spotify.com/track/79Y9I1GYMaNEfVwEDmWh28"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "Rollin' with the Punches",
-        "url": "https://open.spotify.com/album/5VLNC9q4WqKqG3tOQsPKEw"
-      },
-      "artists": [
-        {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5ipXUWgnE57t4sz9mfPRW1"
-        }
-      ],
-      "duration_ms": 253194,
-      "name": "Rollin' with the Punches",
-      "url": "https://open.spotify.com/track/0n3dt5BM0wJm6kLvUfB7hK"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "Life Will Humble You",
-        "url": "https://open.spotify.com/album/4RhJ3rxqGdeYwyOy2GLQdZ"
-      },
-      "artists": [
-        {
-          "name": "Malford Milligan",
-          "url": "https://open.spotify.com/artist/2QJLuDh3Dcw0RrNMusUMHz"
-        },
-        {
-          "name": "The Southern Aces",
-          "url": "https://open.spotify.com/artist/3mwhEzwbXlTrbVojkG9LVI"
-        },
-        {
-          "name": "JW Roy",
-          "url": "https://open.spotify.com/artist/3i31y6LSpJEgV5ny8fw66d"
-        }
-      ],
-      "duration_ms": 288578,
-      "name": "Feel Like Going Home (feat. The Southern Aces & Jw Roy)",
-      "url": "https://open.spotify.com/track/5vJxxRPswssA0WWHzd1g6s"
+      "duration_ms": 190568,
+      "name": "Eyes On The Road",
+      "url": "https://open.spotify.com/track/3EMW8uImDU4SfrtNMleX7v"
     }
   ],
   "unique_name": "Route Americana",

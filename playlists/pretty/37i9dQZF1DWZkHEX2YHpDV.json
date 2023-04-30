@@ -1,12 +1,12 @@
 {
   "description": "pop punk, emo, post-hardcore, alt. it's what you want it to be. Cover: Waterparks",
-  "num_followers": 445692,
+  "num_followers": 445800,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDBiYTk3MzUwY2Y0ZWZmOGQ4NDViMzk5Yzc1YzBkNGVmY2VmY2Y0",
+  "snapshot_id": "MCw3NjYwNzQxNjY5ZDE2ZGQyYjYyYTc5ZmI2ZjQyNmJkODZlNjY4Yzkw",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "This Is Why",
-        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 204966,
-      "name": "Figure 8",
-      "url": "https://open.spotify.com/track/2Jb3hVkRFoiiwXYcELiBfC"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "mainstream sellout",
         "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 159096,
       "name": "emo girl (feat. WILLOW)",
       "url": "https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 204966,
+      "name": "Figure 8",
+      "url": "https://open.spotify.com/track/2Jb3hVkRFoiiwXYcELiBfC"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "kill[h]er",
-        "url": "https://open.spotify.com/album/1ZnEhpzUWCozy5jmoaLdKL"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 145735,
-      "name": "kill[h]er",
-      "url": "https://open.spotify.com/track/2vcgd86VuJbv5jbzn4zau4"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Jackpot Juicer",
         "url": "https://open.spotify.com/album/6c5mEBiGZdHm0lnzvlbXVW"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 221282,
       "name": "Die Another Day",
       "url": "https://open.spotify.com/track/7LBZfkcgTohIQQ1DqnSuPV"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "kill[h]er",
+        "url": "https://open.spotify.com/album/1ZnEhpzUWCozy5jmoaLdKL"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 145735,
+      "name": "kill[h]er",
+      "url": "https://open.spotify.com/track/2vcgd86VuJbv5jbzn4zau4"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -803,22 +803,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Kings of the New Age",
-        "url": "https://open.spotify.com/album/2BZ8KjxTb0pNNKFwQmG1j9"
+        "name": "Head in The Clouds",
+        "url": "https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH"
       },
       "artists": [
         {
-          "name": "State Champs",
-          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
-        },
-        {
-          "name": "Ben Barlow",
-          "url": "https://open.spotify.com/artist/79SZgK0iRDlLJpsH7mSvNC"
+          "name": "Arrows in Action",
+          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
         }
       ],
-      "duration_ms": 227393,
-      "name": "Everybody but You",
-      "url": "https://open.spotify.com/track/40FJkZzaY8DWGtYoCB63EE"
+      "duration_ms": 175937,
+      "name": "Head in the Clouds",
+      "url": "https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -839,26 +835,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "The Credits",
-        "url": "https://open.spotify.com/album/6bKpBgTWnZAfSMS7Whj1qu"
+        "name": "Kings of the New Age",
+        "url": "https://open.spotify.com/album/2BZ8KjxTb0pNNKFwQmG1j9"
       },
       "artists": [
         {
-          "name": "Arrows in Action",
-          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
         },
         {
-          "name": "Loveless",
-          "url": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
-        },
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+          "name": "Ben Barlow",
+          "url": "https://open.spotify.com/artist/79SZgK0iRDlLJpsH7mSvNC"
         }
       ],
-      "duration_ms": 184180,
-      "name": "The Credits",
-      "url": "https://open.spotify.com/track/7LeRrm1Cg4yCLe3YtrxC3n"
+      "duration_ms": 227393,
+      "name": "Everybody but You",
+      "url": "https://open.spotify.com/track/40FJkZzaY8DWGtYoCB63EE"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -927,6 +919,30 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "The Credits",
+        "url": "https://open.spotify.com/album/6bKpBgTWnZAfSMS7Whj1qu"
+      },
+      "artists": [
+        {
+          "name": "Arrows in Action",
+          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
+        },
+        {
+          "name": "Loveless",
+          "url": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
+        },
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "duration_ms": 184180,
+      "name": "The Credits",
+      "url": "https://open.spotify.com/track/7LeRrm1Cg4yCLe3YtrxC3n"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Harder Than It Looks",
         "url": "https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 165317,
       "name": "T.M.I",
       "url": "https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Head in The Clouds",
-        "url": "https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH"
-      },
-      "artists": [
-        {
-          "name": "Arrows in Action",
-          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
-        }
-      ],
-      "duration_ms": 175937,
-      "name": "Head in the Clouds",
-      "url": "https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Fuck You",
+        "url": "https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Fuck You",
+      "url": "https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Last Day On Earth",
         "url": "https://open.spotify.com/album/6VrEbRbjgxP3dDYzDUv5l1"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 138086,
       "name": "Shooting Star (feat. Sum 41)",
       "url": "https://open.spotify.com/track/65o2S5n0p31DTFtUzA1i1X"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Fuck You",
-        "url": "https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Fuck You",
-      "url": "https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "MANIC MAN",
+        "url": "https://open.spotify.com/album/2VYycGvZq7uUmzjqWN11V3"
+      },
+      "artists": [
+        {
+          "name": "Curtis Waters",
+          "url": "https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U"
+        }
+      ],
+      "duration_ms": 134634,
+      "name": "MANIC MAN",
+      "url": "https://open.spotify.com/track/0ioY5fitg2h9o2VgBtjVCj"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Hey Ben",
         "url": "https://open.spotify.com/album/6rnlieOtH8DDSZnBqe1L3M"
       },
@@ -1103,38 +1119,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "f.e.a.r.",
-        "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 160380,
-      "name": "hair out",
-      "url": "https://open.spotify.com/track/66MvNxKQGPQS0AUeaoYlcn"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "MANIC MAN",
-        "url": "https://open.spotify.com/album/2VYycGvZq7uUmzjqWN11V3"
-      },
-      "artists": [
-        {
-          "name": "Curtis Waters",
-          "url": "https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U"
-        }
-      ],
-      "duration_ms": 134634,
-      "name": "MANIC MAN",
-      "url": "https://open.spotify.com/track/0ioY5fitg2h9o2VgBtjVCj"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "People Are Vomit",
         "url": "https://open.spotify.com/album/0qijHJkDRqedEy7Lpezs2o"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 172146,
       "name": "People Are Vomit",
       "url": "https://open.spotify.com/track/6PUd82fC8aYlk81GbUSAkN"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "f.e.a.r.",
+        "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 160380,
+      "name": "hair out",
+      "url": "https://open.spotify.com/track/66MvNxKQGPQS0AUeaoYlcn"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Real Life",
-        "url": "https://open.spotify.com/album/52NM880fYreKPu2PJDFR0x"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 164621,
-      "name": "Real Life",
-      "url": "https://open.spotify.com/track/3WcZqa5zOjq3FnEBZCriMw"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "What Hurts the Most",
         "url": "https://open.spotify.com/album/78JT0gQD3Ff5p7ixbxzgdw"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 205250,
       "name": "What Hurts the Most",
       "url": "https://open.spotify.com/track/0wsNK27DKBwXXOC1JK6s4D"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Real Life",
+        "url": "https://open.spotify.com/album/52NM880fYreKPu2PJDFR0x"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 164621,
+      "name": "Real Life",
+      "url": "https://open.spotify.com/track/3WcZqa5zOjq3FnEBZCriMw"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Love Letter",
+        "url": "https://open.spotify.com/album/3w1dvrYzb7K4yRGjpULCPo"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 158028,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/3wIMmFNL5hdqUBpAO0Ogpu"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Thank You, New Jersey",
         "url": "https://open.spotify.com/album/197wjUARH2gam9EIaPnyfC"
       },
@@ -1407,26 +1423,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "CYAN1DE (feat. Pete Wentz)",
-        "url": "https://open.spotify.com/album/10fQxebU1iCQ64dLuNcjMR"
-      },
-      "artists": [
-        {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
-        },
-        {
-          "name": "Pete Wentz",
-          "url": "https://open.spotify.com/artist/6eNCYcluBDxyf0kkn4j7rD"
-        }
-      ],
-      "duration_ms": 231882,
-      "name": "CYAN1DE (feat. PETE WENTZ)",
-      "url": "https://open.spotify.com/track/1v64n1ScLjCccCw75vgqAY"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Kings of the New Age",
         "url": "https://open.spotify.com/album/2BZ8KjxTb0pNNKFwQmG1j9"
       },
@@ -1443,6 +1439,26 @@
       "duration_ms": 183564,
       "name": "Act Like That",
       "url": "https://open.spotify.com/track/2qcYGGuNPYilXVwFx0KEFz"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "CYAN1DE (feat. Pete Wentz)",
+        "url": "https://open.spotify.com/album/10fQxebU1iCQ64dLuNcjMR"
+      },
+      "artists": [
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+        },
+        {
+          "name": "Pete Wentz",
+          "url": "https://open.spotify.com/artist/6eNCYcluBDxyf0kkn4j7rD"
+        }
+      ],
+      "duration_ms": 231882,
+      "name": "CYAN1DE (feat. PETE WENTZ)",
+      "url": "https://open.spotify.com/track/1v64n1ScLjCccCw75vgqAY"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1499,22 +1515,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Tell Me You're Sorry",
-        "url": "https://open.spotify.com/album/1uJm8Z3D7UDvcxYppBm08N"
-      },
-      "artists": [
-        {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
-        }
-      ],
-      "duration_ms": 168705,
-      "name": "Tell Me You're Sorry",
-      "url": "https://open.spotify.com/track/5NKcjYtLkYbh5nn1yMIG7H"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "ILLENIUM",
         "url": "https://open.spotify.com/album/0ValflNlWce21wm5PlwV60"
       },
@@ -1531,6 +1531,22 @@
       "duration_ms": 187317,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/0NNFtjZHwjTZzBtBkRxhtY"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Tell Me You're Sorry",
+        "url": "https://open.spotify.com/album/1uJm8Z3D7UDvcxYppBm08N"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 168705,
+      "name": "Tell Me You're Sorry",
+      "url": "https://open.spotify.com/track/5NKcjYtLkYbh5nn1yMIG7H"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1599,6 +1615,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "shame",
+        "url": "https://open.spotify.com/album/2EOpw6eAEYA0atOPS2Csei"
+      },
+      "artists": [
+        {
+          "name": "guccihighwaters",
+          "url": "https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09"
+        }
+      ],
+      "duration_ms": 172243,
+      "name": "shame",
+      "url": "https://open.spotify.com/track/4UhUHDAxLcFb8E0e5J4H0k"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Groundhog Day",
         "url": "https://open.spotify.com/album/415iY0uDENvjox5USnF9uC"
       },
@@ -1611,6 +1643,22 @@
       "duration_ms": 217989,
       "name": "Groundhog Day",
       "url": "https://open.spotify.com/track/3ji7KFn4mhQ0BGHqFkwRdI"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Postcard From A Living Hell",
+        "url": "https://open.spotify.com/album/0rLlOMVqC1ays12giqcMRS"
+      },
+      "artists": [
+        {
+          "name": "RedHook",
+          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+        }
+      ],
+      "duration_ms": 176341,
+      "name": "Postcard Xo",
+      "url": "https://open.spotify.com/track/2s5sA6obI4A2Up2LnNQI4k"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1647,38 +1695,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "shame",
-        "url": "https://open.spotify.com/album/2EOpw6eAEYA0atOPS2Csei"
-      },
-      "artists": [
-        {
-          "name": "guccihighwaters",
-          "url": "https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09"
-        }
-      ],
-      "duration_ms": 172243,
-      "name": "shame",
-      "url": "https://open.spotify.com/track/4UhUHDAxLcFb8E0e5J4H0k"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Postcard From A Living Hell",
-        "url": "https://open.spotify.com/album/0rLlOMVqC1ays12giqcMRS"
-      },
-      "artists": [
-        {
-          "name": "RedHook",
-          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
-        }
-      ],
-      "duration_ms": 176341,
-      "name": "Postcard Xo",
-      "url": "https://open.spotify.com/track/2s5sA6obI4A2Up2LnNQI4k"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "People That I Love Leave",
         "url": "https://open.spotify.com/album/0MHxYClcQzUce12K5Y2GfU"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 160000,
       "name": "how could you do this to me? feat. Kellin Quinn from Sleeping With Sirens",
       "url": "https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Battle Scars",
-        "url": "https://open.spotify.com/album/0SnmtDqaj4eNcdraEEnJ9W"
-      },
-      "artists": [
-        {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
-        }
-      ],
-      "duration_ms": 171672,
-      "name": "Battle Scars",
-      "url": "https://open.spotify.com/track/4l42ScC0z19ygzbpS4JzGi"
     }
   ],
   "unique_name": "The Scene",

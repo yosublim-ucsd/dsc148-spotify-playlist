@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Mitch Santiago\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,585 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,594 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 97 | [Stacy](https://open.spotify.com/track/2EdRYZVpjLcY6SYTnwPj6a) | [Moav](https://open.spotify.com/artist/5zRUR3UaVa9rcJTZumB4cr) | [Stacy](https://open.spotify.com/album/6osbT2538JPeGskKhoerL5) | 2:36 |
 | 98 | [Flashback](https://open.spotify.com/track/7tRlEpEzHi8AZ0Lnhg8rNN) | [Immy Owusu](https://open.spotify.com/artist/5gmKrR6QTu7AfVN7u1uPwO) | [Flashback](https://open.spotify.com/album/5E1QHdxdEX2XgN4cgoXfBv) | 4:08 |
 | 99 | [Scary Movies](https://open.spotify.com/track/4hoEpxUAvw2tn8Octl8812) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Scary Movies](https://open.spotify.com/album/5UItYWGjmw86QPdAKdAWur) | 3:15 |
-| 100 | [Surf Club](https://open.spotify.com/track/7dGEnyQELR5CC5jmJW41cP) | [Coast Arcade](https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC) | [Surf Club](https://open.spotify.com/album/7pDf8TRH7CzRwgVdRk0ygg) | 3:35 |
+| 100 | [Surf Club](https://open.spotify.com/track/5jEBhGDQewJ5wCQHABTTvV) | [Coast Arcade](https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC) | [Surf Club](https://open.spotify.com/album/4mGiBNdjXxF6MnmWqPIuVx) | 3:35 |
 
-Snapshot ID: `MCxiYjJhMmU2ZTc4NDI1NTk2YTcyZmYwZmViNGY1ODQxNDczNjIwMjc0`
+Snapshot ID: `MCxmYjIyZmNlNGUxNzZhZWJkMGEzODA3ZDNlZGFkMzkyNDc3YTVjYzNm`

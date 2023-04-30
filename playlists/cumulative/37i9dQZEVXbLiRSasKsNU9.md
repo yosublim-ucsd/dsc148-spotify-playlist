@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-1,432 songs - 3 day 4 hr 24 min
+1,434 songs - 3 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,7 +382,8 @@
 | [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 | 2021-12-28 | 2022-01-19 |
 | [Elimde Fotoğrafın](https://open.spotify.com/track/4VC8fmwVLEqppUhyTx7pJa) | [Bergen](https://open.spotify.com/artist/0OjAaymO59uGiFmfpJrQpl) | [Sevgimin Bedeli](https://open.spotify.com/album/5CL86tQ9NiYSd6Bkzrp4Fv) | 6:55 | 2022-03-12 | 2022-03-21 |
 | [ELIMINATION](https://open.spotify.com/track/0yn5l5XgyEwEk2QXWYadOg) | [射击在后面](https://open.spotify.com/artist/2rJrI7lUJdbxoRrKHMB0P0) | [ELIMINATION](https://open.spotify.com/album/14xjLxCXRCMKPcQj2v0M0y) | 1:36 | 2022-05-14 | 2022-05-29 |
-| [Ella Baila Sola](https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ella Baila Sola](https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU) | 2:45 | 2023-04-11 |  |
+| [Ella Baila Sola](https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ella Baila Sola](https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU) | 2:45 | 2023-04-11 | 2023-04-30 |
+| [Ella Baila Sola](https://open.spotify.com/track/3qQbCzHBycnDpGskqOWY0E) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 2:45 | 2023-04-29 |  |
 | [En Argentina Naci](https://open.spotify.com/track/1eDVvuPpEEe90AyANLKJGm) | [Diego Redes](https://open.spotify.com/artist/53ZoDw3I4QsmqW5ROApRlt), [Adrian Araujo](https://open.spotify.com/artist/5zI0aII6LDdZm2D5MLm9t1) | [En Argentina Naci](https://open.spotify.com/album/3lKaP0P4vprTqAGFsrvI0G) | 2:52 | 2022-12-20 | 2022-12-27 |
 | [En El Radio Un Cochinero](https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [En El Radio Un Cochinero](https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy) | 3:43 | 2022-06-07 | 2022-06-23 |
 | [En La Intimidad \| CROSSOVER \#1](https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [En La Intimidad \| CROSSOVER \#1](https://open.spotify.com/album/5OT9JgUd8WVWBJgYog7a82) | 2:45 | 2023-02-28 | 2023-03-22 |
@@ -981,6 +982,7 @@
 | [Pasilyo](https://open.spotify.com/track/0uZFcsx96wzbixsULmrg8o) | [SunKissed Lola](https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2) | [Pasilyo](https://open.spotify.com/album/4shoxv60vMxSDq40tp5cSK) | 4:30 | 2023-01-03 | 2023-03-08 |
 | [Pasoori](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Pasoori](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) | 3:44 | 2022-03-03 | 2022-06-08 |
 | [Pass The Dutchie](https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi) | 3:25 | 2022-06-01 | 2022-07-22 |
+| [Past Lives](https://open.spotify.com/track/5kZtNsNOOm3Dp5pClPUEhj) | [Farizki](https://open.spotify.com/artist/0q21wtMM1dK3rI2HzCYPui) | [Past Lives](https://open.spotify.com/album/4mtlhZ8dDdNnXCFu5AzFv8) | 2:33 | 2023-04-29 |  |
 | [Past Lives \- Sapientdreams Remix](https://open.spotify.com/track/6BU4Xd49WEr8AXI7M2LMEw) | [Dj Agos](https://open.spotify.com/artist/2m4LlfxDioYvvjx6UWjV8U) | [Past Lives \(Sapientdreams Remix\)](https://open.spotify.com/album/65E47oz7ARX7uXdLT988tu) | 2:34 | 2023-01-31 | 2023-03-01 |
 | [País do Futebol](https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD) | [MC Guime](https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [País do Futebol](https://open.spotify.com/album/7DAKbgEabUfwJwztyMp009) | 2:29 | 2022-11-25 | 2022-12-03 |
 | [Pa’ la Selección](https://open.spotify.com/track/4J1vAbtAhMdsdpO1sKU3EO) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Pa’ la Selección](https://open.spotify.com/album/3S3QVRXr0QxDc6bg5w4DbN) | 3:06 | 2022-12-24 | 2023-01-17 |
@@ -1407,7 +1409,7 @@
 | [Yes t0 Heaven](https://open.spotify.com/track/5KMfWGgk4YhuGLHthUuhjG) | [B4SAX](https://open.spotify.com/artist/0b9lA7tWwM7Gycc7GRNpYq) | [Yes t0 Heaven](https://open.spotify.com/album/3IoAc6Bees7aBBtLSTNRTV) | 3:17 | 2023-01-09 | 2023-01-11 |
 | [Yes To Heaven](https://open.spotify.com/track/4A9gkQxQYN3bJmURtGKul5) | [Christi Buckley](https://open.spotify.com/artist/76n7ZdH6NZlsVxk0EXVQ2F) | [Secret Love Club](https://open.spotify.com/album/0lcxNJKZuKh4coyS8804R2) | 3:54 | 2023-01-11 | 2023-01-14 |
 | [yes to heaven](https://open.spotify.com/track/1Vswy6mJf9gAYhqqxdMCr7) | [ilyNUN](https://open.spotify.com/artist/49IxHq6jHIFvSV98SfLH3R) | [yes to heaven](https://open.spotify.com/album/7irGbx3XVENSgp7HkcV4hy) | 3:17 | 2023-04-01 | 2023-04-11 |
-| [Yes to Heaven](https://open.spotify.com/track/5uNOFOhBkAzFSRUyaSzk2l) | [Noxys](https://open.spotify.com/artist/2bSb7CbXZfEGdW61MEUOMh) | [Yes to Heaven](https://open.spotify.com/album/7al2elrKDgGMlPNxibgQ2n) | 2:55 | 2023-04-18 |  |
+| [Yes to Heaven](https://open.spotify.com/track/5uNOFOhBkAzFSRUyaSzk2l) | [Noxys](https://open.spotify.com/artist/2bSb7CbXZfEGdW61MEUOMh) | [Yes to Heaven](https://open.spotify.com/album/7al2elrKDgGMlPNxibgQ2n) | 2:55 | 2023-04-18 | 2023-04-30 |
 | [yes to heaven](https://open.spotify.com/track/3vVSacI1LGT7R2BHWgO3Aq) | [pint](https://open.spotify.com/artist/3TYPfYOqLCUgy4ZHtk7fPH) | [yes to heaven](https://open.spotify.com/album/52NG0N8rHtM8o0XbnOgsHD) | 2:55 | 2022-12-07 | 2022-12-10 |
 | [Yes To Heaven Sped Up](https://open.spotify.com/track/7ixk0oaK6aBS0O6UPdzMkZ) | [B4SAX](https://open.spotify.com/artist/0b9lA7tWwM7Gycc7GRNpYq) | [Yes To Heaven Sped Up](https://open.spotify.com/album/4yZiQJoegfR9j2olNuTWab) | 2:55 | 2023-01-09 | 2023-01-11 |
 | [yok muydu vaktin bana?](https://open.spotify.com/track/1noP6QHaeHTFZfLcEQAtqm) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [yok muydu vaktin bana?](https://open.spotify.com/album/5AVm3TD7AFqJLdtwAtgGgC) | 3:07 | 2023-02-28 | 2023-03-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 
 > Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,819 likes - 174 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,022 likes - 174 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 17 | [Abandoned Mansion](https://open.spotify.com/track/5jx534PdMJacYZ2PZ5unAP) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Abandoned Mansion](https://open.spotify.com/album/298WNanMReraImGBQRGxio) | 5:22 |
 | 18 | [Destroy The Empire](https://open.spotify.com/track/6V5aJTWbHRs7clhcQ4em0f) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [The Return of…](https://open.spotify.com/album/0tZCmPAsUZYi71wZWg8suA) | 3:24 |
 | 19 | [No Cup No Broke](https://open.spotify.com/track/6GxVxdukFe3VciIN5gT2yc) | [African Brothers](https://open.spotify.com/artist/11k2m9qpCFizHgqiXn1549) | [Collector's Edition: Rare Reggae From Studio One](https://open.spotify.com/album/74Nf0X7UlkT999DGNlae92) | 2:22 |
-| 20 | [More Mess on My Thing](https://open.spotify.com/track/3HgPOHHJWnMfv1Zw27Jh2V) | [The Poets Of Rhythm](https://open.spotify.com/artist/1i4iT0Sw4OUeMp7egnsbxR) | [Practice What You Preach](https://open.spotify.com/album/0ylXNmVsj1bZzJdZg7tOVF) | 4:12 |
+| 20 | [More Mess on My Thing](https://open.spotify.com/track/3a1Ska1dAtx4KE4b86eumQ) | [The Poets Of Rhythm](https://open.spotify.com/artist/1i4iT0Sw4OUeMp7egnsbxR) | [Practice What You Preach](https://open.spotify.com/album/0e3CsfgtzbhR5ofqRDnAlT) | 4:12 |
 | 21 | [Sunday Morning](https://open.spotify.com/track/7rFu5IhLj50r2tNM2d2cat) | [Amanaz](https://open.spotify.com/artist/7dZiPXbSCTAgUpmpgNoLjt) | [Africa](https://open.spotify.com/album/1oX2uFCr3pIDL5M2ByEmm3) | 4:59 |
 | 22 | [You And Me](https://open.spotify.com/track/39FFlqltctkj6vkIcVgkec) | [Penny & The Quarters](https://open.spotify.com/artist/76sXjAhV0Hc3Pdb6bH3waC) | [Penny & the Quarters EP](https://open.spotify.com/album/6zmwrJVYFvWE4xOVFBP04V) | 2:40 |
-| 23 | [Divina](https://open.spotify.com/track/6bzwaJTaI6Upfv8FgKOXSd) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Live From Trona](https://open.spotify.com/album/49sKIVgBHxprO9gDIweoqC) | 1:52 |
+| 23 | [Divina \- Live](https://open.spotify.com/track/6bzwaJTaI6Upfv8FgKOXSd) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Live From Trona](https://open.spotify.com/album/49sKIVgBHxprO9gDIweoqC) | 1:52 |
 | 24 | [Never Tear Us Apart](https://open.spotify.com/track/150H5dszi3tTv3GqXccj1E) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 3:24 |
 | 25 | [Boys in the Wood](https://open.spotify.com/track/4C7CFVRrE3rYsan7jYyhso) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Underneath the Rainbow](https://open.spotify.com/album/2D84Vql9oAIYDJrA2icnGr) | 3:37 |
 | 26 | [Palm Trees](https://open.spotify.com/track/0dy38OIA6UqWLsRVtwNBhW) | [Often](https://open.spotify.com/artist/7BFGaVvOZLQtSLfWCvJeKW) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 2:57 |
@@ -154,7 +154,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 144 | [DARE](https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 4:04 |
 | 145 | [Heybb!](https://open.spotify.com/track/3sN85u5M7FoMmHa8E2aViO) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Heybb!](https://open.spotify.com/album/5CfgvNG8Y0ZGXAx3rNvjC8) | 2:28 |
 | 146 | [Under My Tongue](https://open.spotify.com/track/2OikEBxAnm5UfC0Ag6VCsa) | [Katastro](https://open.spotify.com/artist/2CimT0aCxKVuJsKPVLG0j5) | [Strange Nights](https://open.spotify.com/album/0XYNxkfhrnGvbmyOrfcx83) | 2:54 |
-| 147 | [Raspberry Jam](https://open.spotify.com/track/4fRpUfyqeqTOeunuvRkJ57) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Raspberry Jam](https://open.spotify.com/album/4iCizTMmauFrJibEF9TI1G) | 3:48 |
+| 147 | [Raspberry Jam](https://open.spotify.com/track/5h2KygZTCVxt7MLKjoaixE) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Raspberry Jam](https://open.spotify.com/album/423fbDrzqAKQRgShoa2ujL) | 3:48 |
 | 148 | [Sabina](https://open.spotify.com/track/1dp5tXL7hVHsvXtzZcHFvi) | [Sugar Fed Leopards](https://open.spotify.com/artist/6HLiQWOzcEJnXU221EPLSD) | [Sweet Spots](https://open.spotify.com/album/2SKnD5LUr5wOf3xVRItGY6) | 2:39 |
 | 149 | [Pub Feed](https://open.spotify.com/track/6Rz6yXr3RWpYdGst26tSYF) | [The Chats](https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1) | [High Risk Behaviour](https://open.spotify.com/album/0MHGKVzf6jX0hJ1gfgDwF7) | 2:25 |
 | 150 | [I'm the One](https://open.spotify.com/track/2yV2uQ6uxbdF9JbbKhfuTY) | [Sister John](https://open.spotify.com/artist/7zzr8XDzaXjmHUcwwNgEt5) | [Sister John](https://open.spotify.com/album/6eZ2LX4Aqyu6cOPN4VaXa0) | 3:42 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 173 | [Never Gonna Let You Go](https://open.spotify.com/track/5LDysQO7wtl5rTdgCggcfj) | [Michael Miglio](https://open.spotify.com/artist/0aWCcfZbLCP2iqA8YHtlJF) | [Never Gonna Let You Go b/w Everytime It Rains](https://open.spotify.com/album/3YZTPPJrD1pj8tg43O6n1a) | 2:31 |
 | 174 | [The Raft](https://open.spotify.com/track/34WtaNeWz7O2W9ivsCGAt1) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Dr\. Boondigga & The Big BW](https://open.spotify.com/album/5ynDiqo0C63GVjc9q1ijAO) | 7:11 |
 
-Snapshot ID: `MCxlYWZlYTVjMmYzMmZmYjM5MWI4NWY1MjMwYTY4NTRmYjBlYzM4NTFl`
+Snapshot ID: `MCxlY2UyODVlZDJlZjNjOTQ1YWQ1OTk2MmY5NmQ2ZTUwYmYwMTM3MDRj`

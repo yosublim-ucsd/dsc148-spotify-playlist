@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel?si=e3jjRqncRZ6se2uZ1rfzKA"> E.L</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,027 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,054 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 79 | [First in Class](https://open.spotify.com/track/6NmwEiA27SB5k66nA2VBXp) | [Omar Sterling](https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T) | [Paedae Drop a Flow](https://open.spotify.com/album/604se8iMB1MPJW9VGpSYkk) | 3:52 |
 | 80 | [Scorpio Flow](https://open.spotify.com/track/7DHnchdhSiTSPSfbO26qZb) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [Scorpio Flow](https://open.spotify.com/album/6V67KpnN7CD192CcMMBRqz) | 2:43 |
 
-Snapshot ID: `MCxmNWQzZDRiOWI3ZDExNmRiODVjZDhiNzQ3ODg2NDkwZjY5M2MwODFl`
+Snapshot ID: `MCwwNTE3YWZiNzljMzNkOTc1MDcxYzI1ZWZhYzhkNmJhYWNlYzkxMzNj`

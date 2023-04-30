@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 
 > <a href="spotify:artist:3UlAQex8nw3vquHcmY8fpb">Sinego's</a> favorite tracks\. Updated regularly\. Curated by Sinego\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,953 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,015 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 | 6 | [Kenke Corner \- Poirier Remix](https://open.spotify.com/track/5zD6qiroPUak2MbWBaSAF0) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS), [Samito](https://open.spotify.com/artist/2LwqwmIDSWwNV1lDjqKqCN), [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4) | [Kenke Corner](https://open.spotify.com/album/1YPyb4ErczjlfsV5KzFfx3) | 4:46 |
 | 7 | [Benjamín Carrión](https://open.spotify.com/track/2wJvLzX1W7VQSx0wuTgxCp) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Benjamín Carrión](https://open.spotify.com/album/0UacT2HwlzcN9bnbtqI98k) | 2:57 |
 | 8 | [Ai mi morena \- Chocolate Restyle](https://open.spotify.com/track/195rt3pQCPzYDmobHp9uL5) | [Mo' Horizons](https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP) | [Some More Horizons \(Digital Version\)](https://open.spotify.com/album/4PTCPiyD0Pwhoec2VU6rlk) | 5:28 |
-| 9 | [N'Dini](https://open.spotify.com/track/1O4CLsvOgIyRI7fRyn5pUJ) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Ismael Kouyaté](https://open.spotify.com/artist/38tcRQJcR8E5yGBEnPvDNM) | [Sun People](https://open.spotify.com/album/2aD0HsXgrlaQWHPPlAL8Kp) | 4:15 |
+| 9 | [N'Dini](https://open.spotify.com/track/5VbR9u3xUlkm2mcIbcpNCg) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Ismael Kouyaté](https://open.spotify.com/artist/38tcRQJcR8E5yGBEnPvDNM) | [Sun People](https://open.spotify.com/album/09RegqvWIi5mGvFnZtIoKn) | 4:15 |
 | 10 | [Vette](https://open.spotify.com/track/39Oui3EXtdMLKQqQIFjRpa) | [16BL](https://open.spotify.com/artist/0u2qG4roqULELVVO9fMgSG) | [Vette / Leaving Home](https://open.spotify.com/album/4rDSAYMAsLVz7sJqxBCF1b) | 8:24 |
 | 11 | [Notas](https://open.spotify.com/track/1w4S90DCM0Q1LPeDuJKJEb) | [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP) | [Lunatico](https://open.spotify.com/album/20xXH8hUMlSsegUKojn0qs) | 4:20 |
 | 12 | [Boa Noite](https://open.spotify.com/track/6BCizRXYVjlVsTHWporI29) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Tonina](https://open.spotify.com/artist/5CNjEQS5vkm6B9BGEDqJ7b) | [Boa Noite](https://open.spotify.com/album/2bxlAdHsTpyuo1eWjMMuMc) | 2:46 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 | 47 | [Camomille](https://open.spotify.com/track/4AyHuAzcc1wlVV3kuLb5uM) | [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [Dub kantine EP](https://open.spotify.com/album/1jmVe0TmBy5dJPFk0HD30n) | 6:53 |
 | 48 | [Guava \- Extended Mix](https://open.spotify.com/track/5foz4U3rwtDfEgnBsxWFIi) | [Tunnelvisions](https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x) | [Midnight Voyage \(Remixed\)](https://open.spotify.com/album/7foBIxNuDrS5OZZHS8zGhH) | 4:28 |
 | 49 | [How Can I Resist](https://open.spotify.com/track/5fatRFB5VtmsIXD15qvUNA) | [Parallelle](https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag), [Fulltone](https://open.spotify.com/artist/56SDkyON4gWd6NmWoWx8HT) | [How Can I Resist](https://open.spotify.com/album/10O3JAxvNgymGYEiFpzm4B) | 6:28 |
-| 50 | [Rumbo Libre \- Randomized Coffee Remix](https://open.spotify.com/track/4UuamxyzBBsAW6Rzw4Khsg) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI), [Randomized Coffee](https://open.spotify.com/artist/7KzNtHVcFbaZoGufsX1Jj0) | [Ch'usay Remixes](https://open.spotify.com/album/1RQV9i0gRL4QhR9lcZcvLl) | 5:54 |
+| 50 | [Rumbo Libre \- Randomized Coffee Remix](https://open.spotify.com/track/7pHV2JLHkyHPnfDbJRlz7h) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI), [Randomized Coffee](https://open.spotify.com/artist/7KzNtHVcFbaZoGufsX1Jj0) | [Ch'usay Remixes](https://open.spotify.com/album/05NsUQd42tUf0YWSuqZW8d) | 5:54 |
 
-Snapshot ID: `MCxiMjdjOGY0YmJlZGU0N2EyNTQ0Yzg5MzU2YTVlNjU4NWU1MjM1ODgz`
+Snapshot ID: `MCwwMmRjYTg5MDQ5Yjk1MzhiMGI1YzRlYTIyOGNjNDFiMjE4ZWZiYjU4`

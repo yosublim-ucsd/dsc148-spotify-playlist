@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: Bella Poarch",
-  "num_followers": 76091,
+  "num_followers": 76112,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjEyZTg3MDhlYjhmNzU0MDM3OWRiMjc0YjRmY2Y5Y2RjNDIxZGJj",
+  "snapshot_id": "MCw2MDVjY2FiYWYzNTk0NjIxMDM2MTI2Mzc4ZWFjZmNmYmYxNzk2ODQ2",
   "tracks": [
     {
       "added_at": "2023-04-28 18:16:08",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-04-28 18:16:08",
       "album": {
-        "name": "Excuses",
-        "url": "https://open.spotify.com/album/7MDCdHrW6J1k5eK6mqXggt"
-      },
-      "artists": [
-        {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
-        }
-      ],
-      "duration_ms": 145700,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/6Gl9htJmNmnugLygZo15QF"
-    },
-    {
-      "added_at": "2023-04-28 18:16:08",
-      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/4eLLKhnfVgXbNeiZfKXWfb"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 157752,
       "name": "LEGEND",
       "url": "https://open.spotify.com/track/1E1opYkGrFzzJnHyVHDZvq"
+    },
+    {
+      "added_at": "2023-04-28 18:16:08",
+      "album": {
+        "name": "Excuses",
+        "url": "https://open.spotify.com/album/7MDCdHrW6J1k5eK6mqXggt"
+      },
+      "artists": [
+        {
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+        }
+      ],
+      "duration_ms": 145700,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/6Gl9htJmNmnugLygZo15QF"
     },
     {
       "added_at": "2023-04-28 18:16:08",
@@ -1331,42 +1331,6 @@
     {
       "added_at": "2023-04-28 18:16:08",
       "album": {
-        "name": "chump change",
-        "url": "https://open.spotify.com/album/4k2Hqh0Df6b788PGH6KAUE"
-      },
-      "artists": [
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        },
-        {
-          "name": "Deb Never",
-          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
-        }
-      ],
-      "duration_ms": 132826,
-      "name": "sardines",
-      "url": "https://open.spotify.com/track/2sFXzS9LnbQe5BigrfsVRP"
-    },
-    {
-      "added_at": "2023-04-28 18:16:08",
-      "album": {
-        "name": "Blush",
-        "url": "https://open.spotify.com/album/5IwO8jLcDjEip9Y3t2t0tq"
-      },
-      "artists": [
-        {
-          "name": "Zom Marie",
-          "url": "https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Blush",
-      "url": "https://open.spotify.com/track/3Yq6TLvajhIBIIGtx57r3N"
-    },
-    {
-      "added_at": "2023-04-28 18:16:08",
-      "album": {
         "name": "Phenomenon",
         "url": "https://open.spotify.com/album/2DWRJ0Hgdt0krIxiz3Lu2Y"
       },
@@ -1383,6 +1347,26 @@
       "duration_ms": 218400,
       "name": "Phenomenon",
       "url": "https://open.spotify.com/track/3kmsAolICtnEFp5SLLO5Bn"
+    },
+    {
+      "added_at": "2023-04-28 18:16:08",
+      "album": {
+        "name": "chump change",
+        "url": "https://open.spotify.com/album/4k2Hqh0Df6b788PGH6KAUE"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "duration_ms": 132826,
+      "name": "sardines",
+      "url": "https://open.spotify.com/track/2sFXzS9LnbQe5BigrfsVRP"
     },
     {
       "added_at": "2023-04-28 18:16:08",
@@ -1487,26 +1471,6 @@
     {
       "added_at": "2023-04-28 18:16:08",
       "album": {
-        "name": "ALJI",
-        "url": "https://open.spotify.com/album/5NJTTERS5cpOfBH5MKHgpY"
-      },
-      "artists": [
-        {
-          "name": "Sam Rui",
-          "url": "https://open.spotify.com/artist/3GFO1X5LAHduvR314sXnqI"
-        },
-        {
-          "name": "MELOH",
-          "url": "https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "ALJI",
-      "url": "https://open.spotify.com/track/2xpspKF1YO6RaOFonVZ36x"
-    },
-    {
-      "added_at": "2023-04-28 18:16:08",
-      "album": {
         "name": "Can't Speak English",
         "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
       },
@@ -1527,6 +1491,26 @@
     {
       "added_at": "2023-04-28 18:16:08",
       "album": {
+        "name": "ALJI",
+        "url": "https://open.spotify.com/album/5NJTTERS5cpOfBH5MKHgpY"
+      },
+      "artists": [
+        {
+          "name": "Sam Rui",
+          "url": "https://open.spotify.com/artist/3GFO1X5LAHduvR314sXnqI"
+        },
+        {
+          "name": "MELOH",
+          "url": "https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "ALJI",
+      "url": "https://open.spotify.com/track/2xpspKF1YO6RaOFonVZ36x"
+    },
+    {
+      "added_at": "2023-04-28 18:16:08",
+      "album": {
         "name": "Nicole Kidman / Anne Hathaway",
         "url": "https://open.spotify.com/album/69JQT4Se7KeweFlgdmXNpA"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 157216,
       "name": "At the Party",
       "url": "https://open.spotify.com/track/47WxJ89JybSnYFswKjpaxx"
+    },
+    {
+      "added_at": "2023-04-28 18:16:08",
+      "album": {
+        "name": "Nobody Knows We Are Fun",
+        "url": "https://open.spotify.com/album/2OCnfYbcMDebH1TPworZVG"
+      },
+      "artists": [
+        {
+          "name": "CHAI",
+          "url": "https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx"
+        }
+      ],
+      "duration_ms": 181040,
+      "name": "Nobody Knows We Are Fun",
+      "url": "https://open.spotify.com/track/2lDXbsmTnnMNLYNs8mfRI2"
     }
   ],
   "unique_name": "Dope AF",

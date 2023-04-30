@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent Prog Rock tracks\. Cover: Steve Vai
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,459 likes - 76 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,511 likes - 76 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 57 | [Amnesty/Silver](https://open.spotify.com/track/4OsvkGo2tfuPywkdz3W3xK) | [Resilia](https://open.spotify.com/artist/5F5nhe5hMhJSGsULmNPeFW) | [Amnesty/Silver](https://open.spotify.com/album/3fZHaaKXm0PeQg3VhQyWWY) | 5:22 |
 | 58 | [Oceans of Time](https://open.spotify.com/track/3EKuJFfB1z5QZvZ3QIVkJC) | [Jonas Lindberg & The Other Side](https://open.spotify.com/artist/4cQCLwSvoMEWrtSvneDZBT) | [Miles From Nowhere](https://open.spotify.com/album/5O54oQgo0wvrxakMbfGL5v) | 11:36 |
 | 59 | [The Arsonist](https://open.spotify.com/track/3mw6eplGTzJIW62daXaoz6) | [Von Hertzen Brothers](https://open.spotify.com/artist/5QA702pGd9qa2oWvp21ofG) | [War Is Over](https://open.spotify.com/album/7EqrrMcMnLF5LZy4tReToj) | 3:53 |
-| 60 | [The Siren](https://open.spotify.com/track/7iZ3bfgcXOfdteVX4q97ro) | [Bjørn Riis](https://open.spotify.com/artist/0itkMtdd5OVeG2FFDE7J6z) | [Everything To Everyone](https://open.spotify.com/album/1UL57EhWAkVMPrXXKQupu4) | 7:19 |
+| 60 | [The Siren](https://open.spotify.com/track/7LpH7fhqWRhVqUJQ79EljR) | [Bjørn Riis](https://open.spotify.com/artist/0itkMtdd5OVeG2FFDE7J6z) | [Everything To Everyone](https://open.spotify.com/album/5ShIN83DOLD2KenemBnEOg) | 7:19 |
 | 61 | [Shoulders](https://open.spotify.com/track/18sNKn7b6TePLS8ufyc17y) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Vaxis II: A Window of the Waking Mind](https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON) | 3:24 |
 | 62 | [Becoming Human](https://open.spotify.com/track/1l4dlmvEmLKgEgpezRrgxH) | [Simon Collins](https://open.spotify.com/artist/7GXoTDCcMmarUIZtrdrTa9) | [Becoming Human](https://open.spotify.com/album/0oLJEU3ZuMqdzp09VdPdoP) | 4:17 |
 | 63 | [Act Like an Animal](https://open.spotify.com/track/21GyRkGNA6mLudwWvBJWca) | [6:33](https://open.spotify.com/artist/0oBPg2seHzVcAIOpdi1Ojj) | [Act Like an Animal](https://open.spotify.com/album/4qeXRafVd22N0LDAgG4AIa) | 3:51 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 75 | [Rise, Naianasha \(Cut The Cord\)](https://open.spotify.com/track/4N5o8PH1oxWVMbCDZqABqe) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Vaxis II: A Window of the Waking Mind](https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON) | 5:19 |
 | 76 | [Sand Castles](https://open.spotify.com/track/1veybHpjhAehZ9tM2ftDVD) | [Head First](https://open.spotify.com/artist/0afcetY24N4RXaaw7KgNaG) | [Head First](https://open.spotify.com/album/7EEhufz4k2e5Vvhe94QSl8) | 5:15 |
 
-Snapshot ID: `MCxkYWE1Y2EyODE0ZGY3MjJhZjc5ZmI4YjBhMTdhMDgxNmZjODRiMDg3`
+Snapshot ID: `MCwwNTQzOTkxOWVkMjE0MmJhYjBiYTJjZTY1ZDgzZDVkYjdjNDU1MzUz`

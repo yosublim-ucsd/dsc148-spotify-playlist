@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 19059,
+  "num_followers": 19080,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWQzNmU0M2JjOGVmMDA2NmU3NWE0NjgwY2E5NjFkMWQyOWUxNmFh",
+  "snapshot_id": "MCxiZTFlNDFlMmNlNWNjMmJiNzAxYjg0ZjdkMTJmNTdlZGYwNjk3YTNk",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -111,22 +111,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "El Otro Yo",
-        "url": "https://open.spotify.com/album/6ybT0RRByP5X6ogdQioyaQ"
+        "name": "Batalla de las Puntas, Vol. 6",
+        "url": "https://open.spotify.com/album/5zKgSHI93j3BpGncORJ87T"
       },
       "artists": [
         {
-          "name": "Pilo Tejeda",
-          "url": "https://open.spotify.com/artist/0XVYCj51XvKccyphzKQOAc"
-        },
-        {
-          "name": "Polache",
-          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
+          "name": "La Gran Banda",
+          "url": "https://open.spotify.com/artist/7bUAuQ2SZDbUbRgEPPeBBo"
         }
       ],
-      "duration_ms": 195578,
-      "name": "Sopa de Caracol (Remix)",
-      "url": "https://open.spotify.com/track/6NQt5wVpaE1dcwfYmjce7L"
+      "duration_ms": 227813,
+      "name": "Mandele Gas",
+      "url": "https://open.spotify.com/track/75XWB4hpjYqw7beNddHhhe"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -163,18 +159,22 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Batalla de las Puntas, Vol. 6",
-        "url": "https://open.spotify.com/album/5zKgSHI93j3BpGncORJ87T"
+        "name": "El Otro Yo",
+        "url": "https://open.spotify.com/album/6ybT0RRByP5X6ogdQioyaQ"
       },
       "artists": [
         {
-          "name": "La Gran Banda",
-          "url": "https://open.spotify.com/artist/7bUAuQ2SZDbUbRgEPPeBBo"
+          "name": "Pilo Tejeda",
+          "url": "https://open.spotify.com/artist/0XVYCj51XvKccyphzKQOAc"
+        },
+        {
+          "name": "Polache",
+          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
         }
       ],
-      "duration_ms": 227813,
-      "name": "Mandele Gas",
-      "url": "https://open.spotify.com/track/75XWB4hpjYqw7beNddHhhe"
+      "duration_ms": 195578,
+      "name": "Sopa de Caracol (Remix)",
+      "url": "https://open.spotify.com/track/6NQt5wVpaE1dcwfYmjce7L"
     },
     {
       "added_at": "2020-05-26 15:53:13",

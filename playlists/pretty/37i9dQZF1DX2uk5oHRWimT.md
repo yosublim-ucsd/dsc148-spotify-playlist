@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 
 > Have yourself a little cozy Christmas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,785 likes - 134 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,759 likes - 134 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,7 +123,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 113 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/4njsApPwpZMNTRv4sIs3gw) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [The Christmas EP](https://open.spotify.com/album/1f5F5kSY9oLBWvzTZOXJjO) | 2:06 |
 | 114 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1hkN1uNp46MFKuSgQ5Eyaf) | [Keston Cobblers Club](https://open.spotify.com/artist/38DmNaPnPBoXtbpFgXZNL8) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/2ubCtP1g5wx4Q1itItstdi) | 3:18 |
 | 115 | [River](https://open.spotify.com/track/0DAmSYQW9kq9gQNDI002KP) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 4:05 |
-| 116 | [Sing a Christmas Song Anyway](https://open.spotify.com/track/6JTwiCaomObqheFTnmzM4X) | [Heather Maloney](https://open.spotify.com/artist/3epjAWvLxTBlI9FgGCUNID) | [Sing a Christmas Song Anyway](https://open.spotify.com/album/0fUin3KdY03n4ngrXMrQg9) | 3:13 |
+| 116 | [Sing a Christmas Song Anyway](https://open.spotify.com/track/2QuFEiHnNsvr16bicGHqNj) | [Heather Maloney](https://open.spotify.com/artist/3epjAWvLxTBlI9FgGCUNID) | [Sing a Christmas Song Anyway](https://open.spotify.com/album/2zGo2F0Ab8hqMqQeHs52LV) | 3:13 |
 | 117 | [We Three Kings](https://open.spotify.com/track/06jFpzCr6TfpIL4L0a5fmw) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Home For Christmas](https://open.spotify.com/album/1UB8y2zZGk6kxoDVY026zW) | 2:44 |
 | 118 | [Back for Christmas](https://open.spotify.com/track/2shEDFZ1bIKEWKI0TJxmpH) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Back for Christmas](https://open.spotify.com/album/61zxJCcXMhzUUsxrijWfYH) | 3:29 |
 | 119 | [All Is Grace](https://open.spotify.com/track/7n8i5Srn6mjSZQhVHpUrJq) | [Gerard and the Watchmen](https://open.spotify.com/artist/1Zx6dcD3aCON2ch3IgVYNC) | [Wooden Castles](https://open.spotify.com/album/1ZfTOI23jmRq3CaJ8dtfhi) | 1:50 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 133 | [Christmas Wish](https://open.spotify.com/track/4juMWUhR22wHYG4MxxUdSp) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [A Very She & Him Christmas](https://open.spotify.com/album/3YrU19ATrTJinGwckoI5Dw) | 2:57 |
 | 134 | [What Are You Doing New Year’s Eve?](https://open.spotify.com/track/0SZim5k1ypcgRsWmFcrGfs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:28 |
 
-Snapshot ID: `MCw3YjBhY2QwMzY4YTNhZjc4YmIyZGVjMjYyYjc1ZWJlNTYxZTZhY2E5`
+Snapshot ID: `MCwzYWUxNDE5ZjBmZjEzMjA4ZDE3Y2U5MTAzNTQ1OGEzM2Q5NTA0NTBk`

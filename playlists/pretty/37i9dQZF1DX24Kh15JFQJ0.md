@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 
 > The latest music from our Country Heroes\. Cover: Tanya Tucker
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,516 likes - 141 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,559 likes - 141 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,11 +143,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 | 133 | [I'd Take Another One of Those](https://open.spotify.com/track/4S80ssHGKWJmm5SR3EQFbJ) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo), [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [I'd Take Another One of Those](https://open.spotify.com/album/3UwtQR77UKz5BwyZwskvv0) | 3:32 |
 | 134 | [Workin' My Way Down](https://open.spotify.com/track/6RauCs5nVH1UR2stIQNjXu) | [Earl Thomas Conley](https://open.spotify.com/artist/69baNgo5tsg1RjBgotRbEj) | [Promised Land: The Lost Album](https://open.spotify.com/album/6Jiv6V6D16E3SkkIcqCY77) | 3:24 |
 | 135 | [Trying to Find Atlantis 2.0](https://open.spotify.com/track/21r2ejC94FazSJw16RVZOS) | [Jamie O'Neal](https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe), [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Sometimes](https://open.spotify.com/album/5ZdhIK7dLcQ81HuPVCqEsD) | 3:13 |
-| 136 | [Beyond the Stars \(feat\. Willie Nelson\)](https://open.spotify.com/track/6u7ZlZMY0WtHHfTKv9Khdv) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Beyond the Stars \(feat\. Willie Nelson\)](https://open.spotify.com/album/3ha32uxw82uW6rFHzErQVE) | 3:20 |
+| 136 | [Beyond the Stars \(feat\. Willie Nelson\)](https://open.spotify.com/track/4JPxoyLaRy4YAmqxkedSlB) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Kingmaker](https://open.spotify.com/album/5fuIzeNg4rYracgepUeZWa) | 3:20 |
 | 137 | [Prisoner of the Highway \(feat\. Jason Aldean\)](https://open.spotify.com/track/2RRE3hNrMaEu2DQPff2N1s) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [The Duets](https://open.spotify.com/album/1ru2yPj8ayXP2xAHQ3hbbb) | 4:02 |
 | 138 | [Everything's Gonna Be Alright](https://open.spotify.com/track/1Tqm2oP2uX0yhtx4VnxPsu) | [Johnny Lee](https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu) | [Everything's Gonna Be Alright](https://open.spotify.com/album/7KAmnrY2BMObi8zAfsJly8) | 3:20 |
 | 139 | [My Maria \- with Thomas Rhett](https://open.spotify.com/track/64vkacv9XtTjAQSosbUbW2) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 3:29 |
 | 140 | [Railroad](https://open.spotify.com/track/3iQeaIWw809ryg4NOL3ySM) | [Skip Ewing](https://open.spotify.com/artist/2g1pnfZUsZAxpz9QGaBSq3) | [Railroad](https://open.spotify.com/album/4Cs0lNlp7rzH5l763weHC1) | 4:02 |
 | 141 | [Born Ready](https://open.spotify.com/track/532uB7VNAJi3V6uRcLIKPm) | [Mark Collie](https://open.spotify.com/artist/6kMOabD0AtCGJB632jMilU) | [Born Ready](https://open.spotify.com/album/40PSbH50uUot5MIjIvqm9G) | 2:55 |
 
-Snapshot ID: `MCxjYWE3NmEyNmM5NWU5N2JkZTRiMDgyYjdiNzA4Zjc4YTA0ODEwZGJm`
+Snapshot ID: `MCxmNjEwZDY0M2E2ZTVjMWY5ZDgzZjhhMjBhODY1MzkxYjc0NjQ1Y2Jk`

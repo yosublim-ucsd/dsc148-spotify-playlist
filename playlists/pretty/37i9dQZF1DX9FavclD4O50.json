@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDhiZTc0NjE3NjE4YWU0OGNjNGIyYWIwNDg3Y2YwNTNhYzZhOGI1",
+  "snapshot_id": "MCxmMGRmMWJkMjIwMjI5NzI1ZjM4Y2U4M2Q5MDVjYmIxM2YzZmZhMDE3",
   "tracks": [
     {
       "added_at": "2021-08-17 02:35:20",
@@ -1083,50 +1083,6 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
-        "name": "Music In and On The Air",
-        "url": "https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Erick Friedman",
-          "url": "https://open.spotify.com/artist/4xaVVQxKoP1ZhamR8rUFOT"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 514733,
-      "name": "Concerto for 2 Violins in D minor, BWV 1043: 2nd movement",
-      "url": "https://open.spotify.com/track/0vxhF01eweNLunXafcXtP2"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
-        "name": "Theremin : VOCALISE",
-        "url": "https://open.spotify.com/album/1lvYWGNONeTpcC7q9020gP"
-      },
-      "artists": [
-        {
-          "name": "Masami Takeuchi",
-          "url": "https://open.spotify.com/artist/7IwBB0pBWtf6xJrd1InDEq"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Swan",
-      "url": "https://open.spotify.com/track/5GItK79AUXKqnGRDFBsNqm"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
         "name": "touch! don touch! music for theremin",
         "url": "https://open.spotify.com/album/5PK2qYVj42440Mlb2aYNZH"
       },
@@ -1151,6 +1107,50 @@
       "duration_ms": 525280,
       "name": "Moritz Eggert: The Son Of the Daughter Of Dracula Versus The Incredible Frankenstein Monster (From Outer Space)",
       "url": "https://open.spotify.com/track/1CL8DcTGkqmXwO8au6LNZQ"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
+        "name": "Theremin Vox Collection Vol.1",
+        "url": "https://open.spotify.com/album/7c94OMv4ypIwKaSL4DbLHu"
+      },
+      "artists": [
+        {
+          "name": "Masami Takeuchi",
+          "url": "https://open.spotify.com/artist/7IwBB0pBWtf6xJrd1InDEq"
+        }
+      ],
+      "duration_ms": 182416,
+      "name": "\u8352\u57ce\u306e\u6708",
+      "url": "https://open.spotify.com/track/62iNNRWB0tpmE8O6RuMGqV"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
+        "name": "Music In and On The Air",
+        "url": "https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Erick Friedman",
+          "url": "https://open.spotify.com/artist/4xaVVQxKoP1ZhamR8rUFOT"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "duration_ms": 514733,
+      "name": "Concerto for 2 Violins in D minor, BWV 1043: 2nd movement",
+      "url": "https://open.spotify.com/track/0vxhF01eweNLunXafcXtP2"
     }
   ],
   "unique_name": "theremin",

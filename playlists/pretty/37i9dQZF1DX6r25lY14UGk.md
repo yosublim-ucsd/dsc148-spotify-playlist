@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > Essential kids songs to add to your family's collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,926 likes - 117 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,959 likes - 117 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 68 | [Best You](https://open.spotify.com/track/3lW4nTduQYmPnCE1HSLFr9) | [Raii & Whitney](https://open.spotify.com/artist/0VggbrsHmboYkwd8tIfskn) | [Best You](https://open.spotify.com/album/4BLSK7Q1bCRpI1JmOgxnVG) | 3:55 |
 | 69 | [That's My Jam](https://open.spotify.com/track/7CB3LgsiVtE8cSyvPvgcVA) | [Gabe Bondoc](https://open.spotify.com/artist/6YloMIsWjpHzIRK8s5tzAr) | [That's My Jam](https://open.spotify.com/album/58FLYqIhOzYMgxN8MRCfaq) | 3:13 |
 | 70 | [Long Hot Summer Nights](https://open.spotify.com/track/7sCl3K4yXZL92w8XNFPpfl) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Claudia Zanes](https://open.spotify.com/artist/1mEDDCiHoa4Win8FuJmAfh), [Dan + Claudia Zanes](https://open.spotify.com/artist/5qcWTB20UyUKLIKYyjcjyn), [Greg Corneille](https://open.spotify.com/artist/1SjyQMac76iYkEuE5UeLCw) | [Let Love Be Your Guide](https://open.spotify.com/album/29YQcKWonRl02h3pypRui6) | 3:25 |
-| 71 | [If You Want a Song](https://open.spotify.com/track/58sw5NvBcQsvxOCtjXuq6N) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Songs for Singin'](https://open.spotify.com/album/6NqD66DThZCoAYP0V6INpB) | 2:01 |
+| 71 | [If You Want a Song](https://open.spotify.com/track/7m3kQphnCskJCwKhjUayBd) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Songs for Singin'](https://open.spotify.com/album/7x0JXg0yHlaPhLAyq87aLO) | 2:01 |
 | 72 | [Hambone](https://open.spotify.com/track/0wFFx8vFTw1tPHMnAjCnxe) | [123 Andrés](https://open.spotify.com/artist/1KrkVZFQx2EadAriogq5T9), [Uncle Devin](https://open.spotify.com/artist/1oIvJJNT73bpBMML4d6S16), [Cathy Fink](https://open.spotify.com/artist/62OaIdI5m5BTdW5VrkTjPq), [Lolita Walker](https://open.spotify.com/artist/2LYigWE2M2TRtOHtZ4ZRFv) | [Hola, Amigo: Songs of Friendship](https://open.spotify.com/album/0V5TLnYXWxNFZ0Bmy5bOza) | 2:35 |
 | 73 | [Happiness Is Simple](https://open.spotify.com/track/7DaPyur46lgI5csRDosSPE) | [Rabbit!](https://open.spotify.com/artist/2PD0xyJOdwn3i3fKhgRDA8) | [Happiness Is Simple](https://open.spotify.com/album/1QopRRYf8U9hdYCg348skK) | 3:23 |
 | 74 | [Little Bee](https://open.spotify.com/track/79CIhDipD3tXO84zOKPMU2) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Little Bee](https://open.spotify.com/album/0n0lwGb7qOcEdAkPQONixo) | 3:12 |
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 103 | [Sing Out](https://open.spotify.com/track/4EKSLfEacTdoqOA9W0Y9JS) | [Peanut Butter Jams](https://open.spotify.com/artist/2kvrXvmS6qLg14n8Z9WZZq), [Mariand Torres](https://open.spotify.com/artist/3x4ArwCXrGaFMa84AkW9Nh) | [Sing Out](https://open.spotify.com/album/2oVGbRVEBDJ9uBoBykU0q7) | 2:55 |
 | 104 | [It Takes All Kinds](https://open.spotify.com/track/6buOAgCVrNmVjxa3VmKgd7) | [Alastair Moock](https://open.spotify.com/artist/5NwLASbIjDj6FUgaEa1NMz) | [All Kinds of You and Me](https://open.spotify.com/album/3ssKvHMvJ0QMpWO9Wo1Szv) | 3:07 |
 | 105 | [I'm Always Me](https://open.spotify.com/track/3706vBqhCe42c5ulhhE2S1) | [Narwhals and Waterfalls](https://open.spotify.com/artist/3bGbqC8l55hrX4dbovAMBX) | [Simple SEL](https://open.spotify.com/album/7jakIO1K3h45nW7UqmGG2Q) | 3:08 |
-| 106 | [Every Day is a Dance](https://open.spotify.com/track/5zcwNyRK3GSlyFnj89cLrM) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Sing Through The Year \- A Little Wild Childhood](https://open.spotify.com/album/4KJd068CAuYYeiENNj7y1e) | 2:29 |
+| 106 | [Every Day is a Dance](https://open.spotify.com/track/0ToVKgF95Q5YB0nsc0FRg7) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Sing Through the Year \- A Little Wild Childhood](https://open.spotify.com/album/5o4FHVHGV736Qz4O9W7LUp) | 2:29 |
 | 107 | [We Go Together Very Well](https://open.spotify.com/track/4RhmeK90NGyJ5bplwVjj0u) | [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb) | [28 Days](https://open.spotify.com/album/2p5QfPVnqGhJDtrntQpX7Z) | 3:04 |
 | 108 | [Feelings Like The Weather](https://open.spotify.com/track/3v1zZp0M5ZHSOXjwwTyerM) | [Lindsay Munroe](https://open.spotify.com/artist/1FVbng9WjrAw3kLWaLLFhM) | [Frogs And Birds](https://open.spotify.com/album/1YUT7gYPCXKS5RWsII7X4o) | 2:50 |
 | 109 | [Be Yourself](https://open.spotify.com/track/5dezcmeHDqLPVGpQ4Kflcf) | [Divi Roxx Kids](https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR), [Divinity Roxx](https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI) | [Ready Set Go!](https://open.spotify.com/album/4jOCINfRZTbcSiblJcrqyu) | 2:31 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 116 | [Aster & Goldenrod](https://open.spotify.com/track/0tfWVCen9NARGqo6KSkmW5) | [Pete Moss](https://open.spotify.com/artist/6YvISV7SjqD7n57pJTEfqX) | [Plants Rock](https://open.spotify.com/album/2qP0M5VHMVF6TC40tRckIg) | 3:29 |
 | 117 | [It's You I Like](https://open.spotify.com/track/3fwCUXBe36JmB8AP89KFd0) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [I Dream of You: SLEEP](https://open.spotify.com/album/0nEw5zT6pJke7ivN6qnoXn) | 1:37 |
 
-Snapshot ID: `MCw3YTU2ZDI1ZmI1ZDRhNGFhOWVhNTg1Yjk0N2QwZjJiZGYwMWY0Njc5`
+Snapshot ID: `MCw2MzllNmNhYTQ2NTM3Zjc4MmUwNWU5YjBiNzc2NTM1MWNhZGJmOTIw`

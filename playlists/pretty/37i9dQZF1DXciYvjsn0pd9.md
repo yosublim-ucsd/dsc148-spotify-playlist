@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 
 > <a href="spotify:artist:00CMSJdbf36zOzKB3z8JrR">Victor Cardenas</a>'s favorite tracks\. Updated regularly\. Curated by Victor Cardenas\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,442 likes - 77 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,486 likes - 77 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 | 68 | [Blue Dreams](https://open.spotify.com/track/0LMpXvC8a7rYNaxNCxXl3p) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9), [Sapir Amar](https://open.spotify.com/artist/1Pjebxkm2UjQrQ5tg4kXYC) | [Yinyang](https://open.spotify.com/album/1PVpa4IQzF73649GJDuQgO) | 4:08 |
 | 69 | [Sax to Me](https://open.spotify.com/track/7oSPHLta1VJPFcUvEE9Gvj) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Joseph Qas](https://open.spotify.com/artist/1vs2vlQyZqBSVeD4ezeICI) | [Sax to Me](https://open.spotify.com/album/63GVsnGmXuYtn9zs56ck6Q) | 6:04 |
 | 70 | [Baila Conmigo \(feat\. Kelly Ruiz\)](https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Kelly Ruíz](https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw) | [Baila Conmigo \(feat\. Kelly Ruiz\)](https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7) | 3:09 |
-| 71 | [Ven a Mi](https://open.spotify.com/track/7tSMeZ48hGkBk2GU9jUgPq) | [Daniel Parranda](https://open.spotify.com/artist/1RXBVkK7YynHOQ3nvuSi5O), [JC Arcila](https://open.spotify.com/artist/1qW7P4wsDj1nz8SSS99weV) | [Ven A Mi](https://open.spotify.com/album/2dG0OUg0ugMFeIxVW0yAdK) | 3:20 |
+| 71 | [Ven a Mi](https://open.spotify.com/track/3Le8NxVlgzN9qEBwx1D03Z) | [Daniel Parranda](https://open.spotify.com/artist/1RXBVkK7YynHOQ3nvuSi5O), [JC Arcila](https://open.spotify.com/artist/1qW7P4wsDj1nz8SSS99weV), [MariMar](https://open.spotify.com/artist/3GqKz5VAbs3p4QiIGvSDet) | [Ven a Mi](https://open.spotify.com/album/0pznjEjkx9JKKUhlQwlDL6) | 3:20 |
 | 72 | [Don't Look Down \(feat\. Usher\)](https://open.spotify.com/track/5M9jOReAKGZ2AttVefFjTY) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Don't Look Down \(feat\. Usher\)](https://open.spotify.com/album/7e4eCJT5ON1FpJD5Si341e) | 3:43 |
 | 73 | [The Only Way Is Up](https://open.spotify.com/track/1V0Zy7533bjXFSVtn3crzY) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Club Life, Vol\. 4 \- New York City](https://open.spotify.com/album/57bABnvvPfNhBQRI70dqlU) | 4:18 |
 | 74 | [Wombass](https://open.spotify.com/track/6etVFDSbFabj0tPY10MAXR) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Wombass](https://open.spotify.com/album/4fb7waBlbxdo27oW09QrUg) | 4:00 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 | 76 | [Melody](https://open.spotify.com/track/5Qxw0150DBPE5HErLTrxgs) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Melody](https://open.spotify.com/album/3Oalgg5eo0p3U1vyR1ynYS) | 4:50 |
 | 77 | [Que Tu Me Beses](https://open.spotify.com/track/6Ovu5z78GJ4TE47vAaP7MU) | [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [JUAN JHAIL](https://open.spotify.com/artist/4xBrxEMkW8Jbh9XPpELUpU) | [Que Tu Me Beses](https://open.spotify.com/album/2gMHWHrMIbphy7VP2YN8w8) | 3:06 |
 
-Snapshot ID: `MCxkMjUxMmI1ZjA2MTI3YTMxYWYzMjYxM2E1MTc2NzM3ZTFjZDY5ODA0`
+Snapshot ID: `MCw4ZWVkMGVhMGM3NzI1M2Y2YTNjNmU0NDM1M2VlM2I4ZThmOTc1OWJm`

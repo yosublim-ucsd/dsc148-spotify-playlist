@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Arab metal.  Cover: <a href=\"spotify:artist:63U8atFXZ3sax4eeV212tq\">Coat Of Arms</a>",
-  "num_followers": 35976,
+  "num_followers": 36010,
   "original_name": "Arab Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjllMDVkYjczNzdmNGQ3ZDU0ZjNjZDRkZDIwNGI4ZTYzMzNmMzcz",
+  "snapshot_id": "MCw3ZGMxYjMwZDVhYzllYzMyYjc5OTU4MDA3ZmQxZTY2NTZiYWQyMjVk",
   "tracks": [
     {
       "added_at": "2021-10-14 08:16:07",
@@ -379,22 +379,6 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Wa Ma Khufiya Kana A'atham",
-        "url": "https://open.spotify.com/album/5AVtqTyC8BWXrHzHhfbk38"
-      },
-      "artists": [
-        {
-          "name": "Narjahanam",
-          "url": "https://open.spotify.com/artist/6Y5OnkthtwaEEjjTjbi5Vy"
-        }
-      ],
-      "duration_ms": 311955,
-      "name": "Kahf Alkhulood",
-      "url": "https://open.spotify.com/track/1zMvdRf1pe7HkKBVaBrLLZ"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
         "name": "Sofia",
         "url": "https://open.spotify.com/album/6EuwcKP68HmrN6rUqjpHuN"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 293600,
       "name": "Hayati",
       "url": "https://open.spotify.com/track/2IbOp5y95v0VXR32RV98q1"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "Wa Ma Khufiya Kana A'atham",
+        "url": "https://open.spotify.com/album/5AVtqTyC8BWXrHzHhfbk38"
+      },
+      "artists": [
+        {
+          "name": "Narjahanam",
+          "url": "https://open.spotify.com/artist/6Y5OnkthtwaEEjjTjbi5Vy"
+        }
+      ],
+      "duration_ms": 311955,
+      "name": "Kahf Alkhulood",
+      "url": "https://open.spotify.com/track/1zMvdRf1pe7HkKBVaBrLLZ"
     },
     {
       "added_at": "2021-10-14 08:16:07",

@@ -4,7 +4,7 @@
 
 > Did you hear that?
 
-95 songs - 6 hr 14 min
+96 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Black Magic](https://open.spotify.com/track/2fMUHAZoqHjscGlC8NVzqX) | [Jarvis Cocker](https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w) | [Jarvis \(2020 Complete Edition\)](https://open.spotify.com/album/6VNKKb04mPaPPLE8fmMRAP) | 4:23 | 2022-09-23 |  |
 | [Black Magic](https://open.spotify.com/track/16unahashOe5GkfLykXrIZ) | [Magic Wands](https://open.spotify.com/artist/1k3M9rRscrnQWWtFpPkajL) | [Aloha Moon \(Deluxe Edition\)](https://open.spotify.com/album/622C1Fom2FmQH9makye91a) | 2:33 | 2022-09-23 |  |
 | [Black Magic](https://open.spotify.com/track/58LeCCS4v8dBxL1ApCkg5R) | [Magic Wands](https://open.spotify.com/artist/1k3M9rRscrnQWWtFpPkajL) | [Black Magic](https://open.spotify.com/album/7dOVieYlIOdSFjbpRTKVZv) | 2:33 | 2022-09-23 | 2022-11-13 |
-| [Black Venom](https://open.spotify.com/track/58TRjjLEDZWzOTXsw0SLAx) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band III](https://open.spotify.com/album/4wGhy77LCdzpd7bdUiwQFN) | 3:32 | 2022-09-23 |  |
+| [Black Venom](https://open.spotify.com/track/58TRjjLEDZWzOTXsw0SLAx) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band III](https://open.spotify.com/album/4wGhy77LCdzpd7bdUiwQFN) | 3:32 | 2022-09-23 | 2023-04-30 |
+| [Black Venom](https://open.spotify.com/track/6i7etqtto9YoUBFrA1kIFO) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band III](https://open.spotify.com/album/5zmTjYZUebsP2GKjzFq9Zm) | 3:32 | 2022-09-23 |  |
 | [Burn](https://open.spotify.com/track/3vYqN7XwtJoBTkCPIHoSbU) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Join the Dots: B\-Sides and Rarities, 1978\-2001 \(The Fiction Years\)](https://open.spotify.com/album/0Be9aR7uSUhQII8AC404TP) | 6:37 | 2022-09-23 |  |
 | [Burn The Witch](https://open.spotify.com/track/7yyif2Ity1GipUXTdgofKw) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze](https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF) | 3:35 | 2022-09-23 |  |
 | [Burn the Witch](https://open.spotify.com/track/3DpuYpzkvUWXbmzCm6pfzR) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [A Moon Shaped Pool](https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg) | 3:40 | 2022-09-23 |  |

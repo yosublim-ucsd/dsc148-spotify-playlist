@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hxkvl9MShf.md) - [plain]
 
 > Melodic house and techno to concentrate the mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,004 likes - 83 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,129 likes - 83 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hxkvl9MShf.md) - [plain]
 | 37 | [Conundrum](https://open.spotify.com/track/7EmY6KCl1EF5FbieZznTrL) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Conundrum](https://open.spotify.com/album/53LSWUnOo7bskTO0acMR2C) | 3:16 |
 | 38 | [The Night Drive](https://open.spotify.com/track/5hb2q1B9k3GbH5S5G7St8V) | [Kate Paul](https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx) | [The Night Drive](https://open.spotify.com/album/3E5OpinsSZ2ZftAEfNjr7E) | 3:41 |
 | 39 | [Momentum](https://open.spotify.com/track/0dwUqHfuKGhtYCChyeLyxX) | [Damian Holden](https://open.spotify.com/artist/6VgyMZzlNejIhFh7Yn6SlM), [David Dumeau](https://open.spotify.com/artist/7w0cV0FuzKwIknB51cxzfQ) | [Momentum](https://open.spotify.com/album/1QsITkVjzy1Rx4AqYNUAsZ) | 2:42 |
-| 40 | [Freedom \- Original Mix](https://open.spotify.com/track/55PaZ1kAp9GbEq4EKvnkjy) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl) | [fabric presents Mind Against: Exclusives](https://open.spotify.com/album/0ATO1xXlH9Y6g6TyqA46ZS) | 4:43 |
+| 40 | [Freedom \- Original Mix](https://open.spotify.com/track/6wVaytq9Ssa01nMhKJELWO) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl) | [fabric presents Mind Against: Exclusives](https://open.spotify.com/album/4gyiwaMaa84mwDuDbTLEPi) | 4:43 |
 | 41 | [Off the radar](https://open.spotify.com/track/6LpCOSM7ti0RkktlPHPBbK) | [Martin Monroi](https://open.spotify.com/artist/4IB5E37eyDYzrP0nQPogaq) | [Off the radar](https://open.spotify.com/album/1KmL8xWaFnWAWMbistk5L6) | 2:12 |
 | 42 | [Together](https://open.spotify.com/track/1GPFWNzYJMZrrrspWyfzLn) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0), [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc) | [Coast / Together](https://open.spotify.com/album/7k8M4tm1mp1DfdVTcTtItQ) | 3:38 |
 | 43 | [Skin Deep](https://open.spotify.com/track/1CAozfu6bPDxaKe39x030x) | [Jay FM](https://open.spotify.com/artist/0XHQV1DM8cqEJrB4gRuogs) | [Skin Deep](https://open.spotify.com/album/3pejPyeMAWaEasm6SzmURn) | 2:57 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hxkvl9MShf.md) - [plain]
 | 82 | [Freedom](https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Freedom](https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9) | 4:00 |
 | 83 | [Discovery](https://open.spotify.com/track/5npj4pyFmLxaV7sl59tZVB) | [Can Yıldızay](https://open.spotify.com/artist/5z9s8EUJoZ0HcoRqNrlFNg) | [Discovery](https://open.spotify.com/album/5jxCiCAEmvRsXosoyQXjok) | 3:46 |
 
-Snapshot ID: `MCxmNjU1YjJkN2FhOGNkMmY2Mzk5MDI1MDcwZDYzOWRlOWQyYTcwMWYw`
+Snapshot ID: `MCwwNTJhMTQyNjg3MmQzMDc0N2VhOTJkNDM3Mjc0MGUxYjI3ZjhjN2U1`

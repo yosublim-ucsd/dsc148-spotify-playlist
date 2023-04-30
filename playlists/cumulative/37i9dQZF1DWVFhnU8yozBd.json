@@ -114,10 +114,28 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 315306,
       "name": "Amor en el Cielo",
       "url": "https://open.spotify.com/track/2pjgyameGahHsasUXS2ajF"
+    },
+    {
+      "album": {
+        "name": "Ritmo Fantas\u00eda: Balearic Spanish Synth-Pop, Boogie And House (1982-1992)",
+        "url": "https://open.spotify.com/album/6hF1xbglHjBHYkv2FMtyiq"
+      },
+      "artists": [
+        {
+          "name": "Beni Life",
+          "url": "https://open.spotify.com/artist/6Lw0rQu6WBi2B1W3XBfUoW"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315306,
+      "name": "Amor en el Cielo",
+      "url": "https://open.spotify.com/track/3aRG0ktXmISKj6InRRlVEa"
     },
     {
       "album": {
@@ -1126,7 +1144,7 @@
     {
       "album": {
         "name": "Vortex",
-        "url": "https://open.spotify.com/album/2wloRNpWkvTJyFJTyexRwh"
+        "url": "https://open.spotify.com/album/2UB4seNzh7Gt4unJR2T0x1"
       },
       "artists": [
         {
@@ -1137,6 +1155,24 @@
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 339146,
+      "name": "Memory Lake",
+      "url": "https://open.spotify.com/track/27wL9Cip8cgvtNRFNpkvcV"
+    },
+    {
+      "album": {
+        "name": "Vortex",
+        "url": "https://open.spotify.com/album/2wloRNpWkvTJyFJTyexRwh"
+      },
+      "artists": [
+        {
+          "name": "Special Request",
+          "url": "https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 339146,
       "name": "Memory Lake",
       "url": "https://open.spotify.com/track/5xoUQZ8vTXssvodw7ykTXG"

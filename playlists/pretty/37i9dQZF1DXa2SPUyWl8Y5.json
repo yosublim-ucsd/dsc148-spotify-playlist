@@ -1,12 +1,12 @@
 {
   "description": "Focus with deep techno and tech house.",
-  "num_followers": 452730,
+  "num_followers": 452814,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDI2MWEwN2ZhNzkzNDQ0NzdjMWJjN2I3NTYyYmY3MGZmMWQ5ZGVk",
+  "snapshot_id": "MCxkNjViOGI0NmRmNTAwMjNmMjA3OGVjMGE2MWU4ZjdhZjY1MzU4ZTg3",
   "tracks": [
     {
       "added_at": "2023-04-28 15:41:26",
@@ -783,26 +783,6 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
-        "name": "Hailstorm (Ann Clue Remix)",
-        "url": "https://open.spotify.com/album/54LvPkBHCUXjuKIfFC3e76"
-      },
-      "artists": [
-        {
-          "name": "Theydream",
-          "url": "https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v"
-        },
-        {
-          "name": "Ann Clue",
-          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
-        }
-      ],
-      "duration_ms": 382486,
-      "name": "Hailstorm - Ann Clue Remix",
-      "url": "https://open.spotify.com/track/4INsV87wHXViqJRAmbOo8t"
-    },
-    {
-      "added_at": "2023-04-28 15:41:26",
-      "album": {
         "name": "Cliff (Einmusik Remix)",
         "url": "https://open.spotify.com/album/1Y2UePUXE1qCL4DlxeO9Zy"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 444816,
       "name": "Cliff - Einmusik Remix",
       "url": "https://open.spotify.com/track/27hMse6DWTePfwtnoUtsvr"
+    },
+    {
+      "added_at": "2023-04-28 15:41:26",
+      "album": {
+        "name": "Hailstorm (Ann Clue Remix)",
+        "url": "https://open.spotify.com/album/54LvPkBHCUXjuKIfFC3e76"
+      },
+      "artists": [
+        {
+          "name": "Theydream",
+          "url": "https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v"
+        },
+        {
+          "name": "Ann Clue",
+          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
+        }
+      ],
+      "duration_ms": 382486,
+      "name": "Hailstorm - Ann Clue Remix",
+      "url": "https://open.spotify.com/track/4INsV87wHXViqJRAmbOo8t"
     },
     {
       "added_at": "2023-04-28 15:41:26",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
-        "name": "Planet F",
-        "url": "https://open.spotify.com/album/2GNTFKRmaZkZSzxGcSAKeQ"
-      },
-      "artists": [
-        {
-          "name": "Moritz Hofbauer",
-          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
-        }
-      ],
-      "duration_ms": 241769,
-      "name": "Planet F",
-      "url": "https://open.spotify.com/track/7zL8LOU2Wzhc48ObFxOUq8"
-    },
-    {
-      "added_at": "2023-04-28 15:41:26",
-      "album": {
         "name": "Thrust",
         "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 389092,
       "name": "Aldebaran",
       "url": "https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X"
+    },
+    {
+      "added_at": "2023-04-28 15:41:26",
+      "album": {
+        "name": "Planet F",
+        "url": "https://open.spotify.com/album/2GNTFKRmaZkZSzxGcSAKeQ"
+      },
+      "artists": [
+        {
+          "name": "Moritz Hofbauer",
+          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+        }
+      ],
+      "duration_ms": 241769,
+      "name": "Planet F",
+      "url": "https://open.spotify.com/track/7zL8LOU2Wzhc48ObFxOUq8"
     },
     {
       "added_at": "2023-04-28 15:41:26",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
-        "name": "Seige",
-        "url": "https://open.spotify.com/album/1KuP6R5M7dVYNJWbkhuo7M"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Olander",
-          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
-        }
-      ],
-      "duration_ms": 433564,
-      "name": "Seige",
-      "url": "https://open.spotify.com/track/3529YD03FoOJMRYBoQKwX2"
-    },
-    {
-      "added_at": "2023-04-28 15:41:26",
-      "album": {
         "name": "Fader",
         "url": "https://open.spotify.com/album/2vaJStR73O0tWNVWtCOJhh"
       },
@@ -1103,22 +1087,18 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
-        "name": "Prelusion",
-        "url": "https://open.spotify.com/album/3N6cm4FyrEgbMUKahWiatI"
+        "name": "Seige",
+        "url": "https://open.spotify.com/album/1KuP6R5M7dVYNJWbkhuo7M"
       },
       "artists": [
         {
-          "name": "Mark Tarmonea",
-          "url": "https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn"
-        },
-        {
-          "name": "Yannek Maunz",
-          "url": "https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj"
+          "name": "Jeremy Olander",
+          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
         }
       ],
-      "duration_ms": 377919,
-      "name": "Prelusion",
-      "url": "https://open.spotify.com/track/6YJ9z4IInxfJWsjc6ADtV2"
+      "duration_ms": 433564,
+      "name": "Seige",
+      "url": "https://open.spotify.com/track/3529YD03FoOJMRYBoQKwX2"
     },
     {
       "added_at": "2023-04-28 15:41:26",
@@ -1143,6 +1123,26 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
+        "name": "Prelusion",
+        "url": "https://open.spotify.com/album/3N6cm4FyrEgbMUKahWiatI"
+      },
+      "artists": [
+        {
+          "name": "Mark Tarmonea",
+          "url": "https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn"
+        },
+        {
+          "name": "Yannek Maunz",
+          "url": "https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj"
+        }
+      ],
+      "duration_ms": 377919,
+      "name": "Prelusion",
+      "url": "https://open.spotify.com/track/6YJ9z4IInxfJWsjc6ADtV2"
+    },
+    {
+      "added_at": "2023-04-28 15:41:26",
+      "album": {
         "name": "Static",
         "url": "https://open.spotify.com/album/09lSN1OFfFwaCmhwQpUdXz"
       },
@@ -1155,6 +1155,22 @@
       "duration_ms": 570543,
       "name": "Red Planet",
       "url": "https://open.spotify.com/track/44c74BqpkDXXmxeieS37P3"
+    },
+    {
+      "added_at": "2023-04-28 15:41:26",
+      "album": {
+        "name": "Piano & Electronic Ensemble Op. 1",
+        "url": "https://open.spotify.com/album/1vxB3a1pJCMPowm4bWnSX7"
+      },
+      "artists": [
+        {
+          "name": "Schlindwein",
+          "url": "https://open.spotify.com/artist/2anZ4I2UXxOT5LBGahKWv6"
+        }
+      ],
+      "duration_ms": 375483,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/0XwZh2lAMreq20jjSsWk4u"
     },
     {
       "added_at": "2023-04-28 15:41:26",
@@ -1175,18 +1191,18 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
-        "name": "Piano & Electronic Ensemble Op. 1",
-        "url": "https://open.spotify.com/album/1vxB3a1pJCMPowm4bWnSX7"
+        "name": "Dea Dia",
+        "url": "https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh"
       },
       "artists": [
         {
-          "name": "Schlindwein",
-          "url": "https://open.spotify.com/artist/2anZ4I2UXxOT5LBGahKWv6"
+          "name": "Ron Flatter",
+          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
         }
       ],
-      "duration_ms": 375483,
-      "name": "Welcome",
-      "url": "https://open.spotify.com/track/0XwZh2lAMreq20jjSsWk4u"
+      "duration_ms": 530979,
+      "name": "Dea Dia",
+      "url": "https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s"
     },
     {
       "added_at": "2023-04-28 15:41:26",
@@ -1223,38 +1239,6 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
-        "name": "Dea Dia",
-        "url": "https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh"
-      },
-      "artists": [
-        {
-          "name": "Ron Flatter",
-          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
-        }
-      ],
-      "duration_ms": 530979,
-      "name": "Dea Dia",
-      "url": "https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s"
-    },
-    {
-      "added_at": "2023-04-28 15:41:26",
-      "album": {
-        "name": "Spacemodulation",
-        "url": "https://open.spotify.com/album/6A5Q4ruj4Y6AyFdMASxd9D"
-      },
-      "artists": [
-        {
-          "name": "Flug 8",
-          "url": "https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I"
-        }
-      ],
-      "duration_ms": 428160,
-      "name": "Spacemodulation",
-      "url": "https://open.spotify.com/track/27BlVowSHhpLPtbEBpNGQY"
-    },
-    {
-      "added_at": "2023-04-28 15:41:26",
-      "album": {
         "name": "Orchestra (Remixes)",
         "url": "https://open.spotify.com/album/5COwPsSU5XZmd0iczT0tpM"
       },
@@ -1275,6 +1259,22 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
+        "name": "Spacemodulation",
+        "url": "https://open.spotify.com/album/6A5Q4ruj4Y6AyFdMASxd9D"
+      },
+      "artists": [
+        {
+          "name": "Flug 8",
+          "url": "https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I"
+        }
+      ],
+      "duration_ms": 428160,
+      "name": "Spacemodulation",
+      "url": "https://open.spotify.com/track/27BlVowSHhpLPtbEBpNGQY"
+    },
+    {
+      "added_at": "2023-04-28 15:41:26",
+      "album": {
         "name": "Revolt",
         "url": "https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT"
       },
@@ -1287,22 +1287,6 @@
       "duration_ms": 284187,
       "name": "Revolt",
       "url": "https://open.spotify.com/track/7lQW1w8vXCPrkXrQvyuA2R"
-    },
-    {
-      "added_at": "2023-04-28 15:41:26",
-      "album": {
-        "name": "10 Years URSL - Reframed Future",
-        "url": "https://open.spotify.com/album/0gPGJUOaKc9W4izlxJlMfT"
-      },
-      "artists": [
-        {
-          "name": "Schlepp Geist",
-          "url": "https://open.spotify.com/artist/3QrUgT4R2242O2mqHUeI95"
-        }
-      ],
-      "duration_ms": 425437,
-      "name": "Reframed Future",
-      "url": "https://open.spotify.com/track/71US62LiNfgUNoAMdAMyXz"
     },
     {
       "added_at": "2023-04-28 15:41:26",
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
+        "name": "10 Years URSL - Reframed Future",
+        "url": "https://open.spotify.com/album/0gPGJUOaKc9W4izlxJlMfT"
+      },
+      "artists": [
+        {
+          "name": "Schlepp Geist",
+          "url": "https://open.spotify.com/artist/3QrUgT4R2242O2mqHUeI95"
+        }
+      ],
+      "duration_ms": 425437,
+      "name": "Reframed Future",
+      "url": "https://open.spotify.com/track/71US62LiNfgUNoAMdAMyXz"
+    },
+    {
+      "added_at": "2023-04-28 15:41:26",
+      "album": {
         "name": "Black Ice",
         "url": "https://open.spotify.com/album/7kTHuLdBT3Mk45oHueS33E"
       },
@@ -1339,22 +1339,22 @@
     {
       "added_at": "2023-04-28 15:41:26",
       "album": {
-        "name": "La Napoule (Nathan Micay's Life in Every Breath Remix)",
-        "url": "https://open.spotify.com/album/1IhIyCKQM9SIxc2CONztlE"
+        "name": "Sora",
+        "url": "https://open.spotify.com/album/0WVXdvpEOtiBEzyWbIlDl0"
       },
       "artists": [
         {
-          "name": "Toh Imago",
-          "url": "https://open.spotify.com/artist/5u9DNVFl4Or5RhHPQFoiac"
+          "name": "Milkwish",
+          "url": "https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv"
         },
         {
-          "name": "Nathan Micay",
-          "url": "https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC"
+          "name": "9hearts",
+          "url": "https://open.spotify.com/artist/3LfTqHNimpgLkeuctIGETt"
         }
       ],
-      "duration_ms": 447201,
-      "name": "La Napoule - Nathan Micay's Life in Every Breath Remix",
-      "url": "https://open.spotify.com/track/26BnoECfbkfmgw05VNMFGW"
+      "duration_ms": 212849,
+      "name": "Sora",
+      "url": "https://open.spotify.com/track/4IeAeBQdLlP8wTyp4wbWx5"
     }
   ],
   "unique_name": "Beats to think to",

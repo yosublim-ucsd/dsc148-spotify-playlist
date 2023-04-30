@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > New adventures in rock start here\. Cover: Finger Eleven
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,883 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,896 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Scenery](https://open.spotify.com/track/20ubvnxFGvq9YX8YCFE4VM) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn) | [Scenery](https://open.spotify.com/album/7enb4iw7WjPOH3eUeSLedb) | 2:39 |
 | 100 | [Sunset Silhouette](https://open.spotify.com/track/2a9Fg4HlQY1MPUclskrwWW) | [L.O.E](https://open.spotify.com/artist/1ZiVFdUAwVyLbSdESEL1Zb) | [Sunset Silhouette](https://open.spotify.com/album/22kW8gKVlgMgihws4Rhj6Y) | 3:48 |
 
-Snapshot ID: `MCw4M2MwZmU1NmE5MWE0YTI0OTAyZmQ3YjY1NWM0MjBkNDlhMGM0Y2Fl`
+Snapshot ID: `MCw0NmJhZmNiMTk0ZTg5ZWYyMjMzYjcyMDgwMGM2ZGVlYmVkYzVhNjkz`

@@ -4,7 +4,7 @@
 
 > Let it simmer with some smooth R&amp;B.
 
-48 songs - 3 hr 31 min
+49 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Fiona Coyne](https://open.spotify.com/track/6XkEIIZs0oMUNwaVwHXSZ0) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Prom King](https://open.spotify.com/album/7dR9fq3NnKFZDBDU44DTXv) | 4:09 | 2015-07-25 | 2023-04-29 |
 | [Get Lucky \(feat\. Pharrell Williams & Nile Rodgers\) \- Radio Edit](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Get Lucky \(feat\. Pharrell Williams & Nile Rodgers\) \[Radio Edit\]](https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA) | 4:08 | 2015-07-25 |  |
 | [Go Bang](https://open.spotify.com/track/0wbRhTLKXL8z844Pd8rNAM) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Go Bang \- Single](https://open.spotify.com/album/6TOM7WNs319GMdcd0FFCyv) | 11:04 | 2015-07-25 | 2022-07-29 |
-| [Go Bang](https://open.spotify.com/track/5bnBF6QS1kZj3WOVZ8KqOB) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Go Bang](https://open.spotify.com/album/6Cd6ifsiUF0A2PVr8aJTeX) | 11:04 | 2015-07-25 |  |
+| [Go Bang](https://open.spotify.com/track/5bnBF6QS1kZj3WOVZ8KqOB) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Go Bang](https://open.spotify.com/album/6Cd6ifsiUF0A2PVr8aJTeX) | 11:04 | 2015-07-25 | 2023-04-30 |
+| [Go Bang](https://open.spotify.com/track/7sPKwl78bZIhXuBZvOykFD) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Go Bang](https://open.spotify.com/album/6FhmsyMDKvnpHx8JgefrvC) | 11:04 | 2015-07-25 |  |
 | [Harder, Better, Faster, Stronger \- The Neptunes Remix](https://open.spotify.com/track/5a8PsqWOuGh7FR1tC6UKUs) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Daft Club](https://open.spotify.com/album/1O5WUh9KsgHT2QaUCJeVPG) | 5:12 | 2015-07-25 |  |
 | [Hey](https://open.spotify.com/track/43x1xTN8fjSGS9BZe4yfBM) | [Nightriders](https://open.spotify.com/artist/13eyxWyCnb7bOEoBORUKuo) | [Hey](https://open.spotify.com/album/4Z3yXN8bWZM65730wraat5) | 4:26 | 2015-07-25 |  |
 | [Hey \- Original Mix](https://open.spotify.com/track/5iY5fRAjXygxGXSrdMaClO) | [Nightriders](https://open.spotify.com/artist/13eyxWyCnb7bOEoBORUKuo) | [Hey](https://open.spotify.com/album/7fK59Ubv7AUucw9U8L5SGX) | 4:26 | 2015-07-25 | 2022-07-29 |

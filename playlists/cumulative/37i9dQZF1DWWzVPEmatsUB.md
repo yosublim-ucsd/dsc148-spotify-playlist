@@ -4,7 +4,7 @@
 
 > Ease into the day
 
-344 songs - 20 hr 52 min
+346 songs - 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Fly \(For Mike\) feat\. Brittany Howard](https://open.spotify.com/track/0qKdmI20wCPmmjSWY6wO6K) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Fly \(For Mike\) Feat\. Brittany Howard](https://open.spotify.com/album/41YY1uiKkpKySBWEpqzWpj) | 4:01 | 2021-07-21 | 2022-07-29 |
 | [for life](https://open.spotify.com/track/3wD5R5grD04FKW0zsBuiKy) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [magnolia](https://open.spotify.com/album/4lUystyYlQEstc79Eic2Q6) | 3:31 | 2020-10-17 | 2022-07-31 |
 | [For Me, It's You](https://open.spotify.com/track/2odYUJ9LhwDVVPxXL3NxuB) | [Lo Moon](https://open.spotify.com/artist/2XcWfmG3wclCLfTJb7mFeg) | [For Me, It's You](https://open.spotify.com/album/14U9vSKFIUzR7pebXtQhi8) | 4:00 | 2020-10-17 | 2022-12-03 |
-| [For Now](https://open.spotify.com/track/27rRvaQoDLLziMOZZGsACX) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:53 | 2022-08-26 |  |
+| [For Now](https://open.spotify.com/track/27rRvaQoDLLziMOZZGsACX) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:53 | 2022-08-26 | 2023-04-30 |
+| [For Now](https://open.spotify.com/track/7zCbNTKUV9R8FJ9kxz2RwH) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:53 | 2022-09-02 |  |
 | [For So Long \(Brittle\)](https://open.spotify.com/track/51sYB5jn8WyVL1xJRKOtMb) | [Willum Maindo](https://open.spotify.com/artist/5W27B2CplHnE9lXLdLJNnG) | [A Voyager's Motion](https://open.spotify.com/album/6azHq3i8KJgKWUH5LTEP8N) | 3:58 | 2020-10-17 | 2022-05-03 |
 | [Forever \[Feat\. PJ Morton & India.Arie\]](https://open.spotify.com/track/2IXLSYxZBRa7KiQm6yyFYo) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Black Radio III](https://open.spotify.com/album/0rLSX7OMtwRHDjjCWL6tHC) | 5:45 | 2022-02-25 |  |
 | [Fragile](https://open.spotify.com/track/5nwDAjkr2u2iVvjdeLockj) | [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Fragile](https://open.spotify.com/album/05D1HS6QdWPPZCuIDGeRhO) | 4:02 | 2020-10-17 | 2022-04-20 |
@@ -339,7 +340,8 @@
 | [We Were Never Friends](https://open.spotify.com/track/0txG3MJ2CO3031axdnyyTD) | [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx), [Solo Woods](https://open.spotify.com/artist/2SrsKqD053CseoB0321K8I) | [We Were Never Friends](https://open.spotify.com/album/40OrrMGJH929gnkfmeIN0X) | 3:21 | 2021-04-16 | 2022-06-24 |
 | [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [emotionally unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 | 2022-05-20 |  |
 | [Weep](https://open.spotify.com/track/3N5Ez4Xd5SIRBUh3eZ4C7s) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Weep](https://open.spotify.com/album/67dYNNKs495f9JWcHjzzIf) | 4:55 | 2020-10-17 | 2022-04-21 |
-| [What A Difference She Made](https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What A Difference She Made](https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ) | 2:55 | 2022-10-14 |  |
+| [What A Difference She Made](https://open.spotify.com/track/2CF6WekP8rVrRJfQWZDRgf) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What A Difference She Made](https://open.spotify.com/album/6otBSSEkPMOwKCtNaibxHB) | 2:55 | 2022-10-21 |  |
+| [What A Difference She Made](https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What A Difference She Made](https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ) | 2:55 | 2022-10-14 | 2023-04-30 |
 | [what should i do about me?](https://open.spotify.com/track/5x4ybZew53LDl0SFDDALMn) | [Gabriel](https://open.spotify.com/artist/7yj3gkMvAWutROuLsTmLtC) | [the blue album](https://open.spotify.com/album/5GcYZxshVMWixtXvjsYi3T) | 2:55 | 2022-12-09 |  |
 | [What We Found](https://open.spotify.com/track/60npzcMuSF3IgdQoAHIFfx) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Nieman](https://open.spotify.com/artist/4SwV4H2atecTIdXKyLfSfR), [Melissa Polinar](https://open.spotify.com/artist/2O6S01fSY6YHfZT6qLAgxG) | [What We Found](https://open.spotify.com/album/3DmN6DaelY8XtdGFQzuBzp) | 3:10 | 2021-02-19 | 2022-07-18 |
 | [When You Need It \(feat\. Wrabel\)](https://open.spotify.com/track/6be7birJOF85i9dL0wUrBg) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:08 | 2022-04-22 |  |

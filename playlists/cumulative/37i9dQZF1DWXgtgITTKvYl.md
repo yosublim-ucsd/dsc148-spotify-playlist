@@ -4,7 +4,7 @@
 
 > A collection of the best recent Prog Rock tracks\. Cover: Steve Vai
 
-111 songs - 9 hr 55 min
+112 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [The Monster Roars](https://open.spotify.com/track/32xyRA1ED50D5C42SOVrXu) | [Magnum](https://open.spotify.com/artist/3Nu9hoMBT4SkDcaNvmK4G1) | [The Monster Roars](https://open.spotify.com/album/286a0luh0FDCtNoPdQh57A) | 4:01 | 2022-05-20 |  |
 | [The Pursuit](https://open.spotify.com/track/2VMVBdS8oZ4BzAxTABWdE9) | [Carlotta Valdes](https://open.spotify.com/artist/2u7iH1kPQUPFS4WaNcUMu6) | [The Pursuit](https://open.spotify.com/album/1wPYB7hjyCQjbrYcTqzLvv) | 4:57 | 2022-05-20 |  |
 | [The Siren](https://open.spotify.com/track/4EYrwXmCcnCw9bRuFrK21W) | [Bjørn Riis](https://open.spotify.com/artist/0itkMtdd5OVeG2FFDE7J6z) | [The Siren](https://open.spotify.com/album/2yR9vhxFCXePR2qrQhEn0B) | 7:19 | 2022-05-20 | 2022-07-29 |
-| [The Siren](https://open.spotify.com/track/7iZ3bfgcXOfdteVX4q97ro) | [Bjørn Riis](https://open.spotify.com/artist/0itkMtdd5OVeG2FFDE7J6z) | [Everything To Everyone](https://open.spotify.com/album/1UL57EhWAkVMPrXXKQupu4) | 7:19 | 2022-05-20 |  |
+| [The Siren](https://open.spotify.com/track/7LpH7fhqWRhVqUJQ79EljR) | [Bjørn Riis](https://open.spotify.com/artist/0itkMtdd5OVeG2FFDE7J6z) | [Everything To Everyone](https://open.spotify.com/album/5ShIN83DOLD2KenemBnEOg) | 7:19 | 2022-11-17 |  |
+| [The Siren](https://open.spotify.com/track/7iZ3bfgcXOfdteVX4q97ro) | [Bjørn Riis](https://open.spotify.com/artist/0itkMtdd5OVeG2FFDE7J6z) | [Everything To Everyone](https://open.spotify.com/album/1UL57EhWAkVMPrXXKQupu4) | 7:19 | 2022-05-20 | 2023-04-30 |
 | [The Siren](https://open.spotify.com/track/7johOBc0316B5vEvbGidf1) | [Bjørn Riis](https://open.spotify.com/artist/0itkMtdd5OVeG2FFDE7J6z) | [The Siren](https://open.spotify.com/album/1ORb5QUdzt3oeaaJ9fBTVo) | 7:19 | 2022-05-20 | 2022-11-14 |
 | [The Way Out](https://open.spotify.com/track/1sgINNcxXjmv51Urc8Fgm3) | [Vinicius Cavalieri](https://open.spotify.com/artist/2GFH65OfEiNfR6TgZ8b3eL), [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [The Way Out](https://open.spotify.com/album/3LG6v76h4WjsbtvgOVjb1g) | 3:53 | 2022-05-20 |  |
 | [This Party's Over](https://open.spotify.com/track/0dDx5YWvL6WmlIOgdA3akc) | [Fish](https://open.spotify.com/artist/6bQfVk5fSJSp3JtGiQZGNI) | [This Party's Over](https://open.spotify.com/album/2xOcgXYuOsJvOIqHACNKtr) | 4:23 | 2022-05-20 |  |

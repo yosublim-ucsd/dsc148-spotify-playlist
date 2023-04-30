@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 
 ### [Off Broadway](https://open.spotify.com/playlist/37i9dQZF1DWZs0W69wXP5G)
 
-> Everything Broadway\-adjacent\. Cover: Jennifer Hudson
+> Everything Broadway\-adjacent\. Cover: The cast of Grease: Rise of the Pink Ladies
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,391 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,398 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 | 79 | [Only Us \(with Dan + Shay\) \- From The “Dear Evan Hansen” Original Motion Picture Soundtrack](https://open.spotify.com/track/5uS9wvMZRGItgtOEzKZoTK) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Only Us \(From The “Dear Evan Hansen” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5j1dWzKgecz37sV0sedDwF) | 3:45 |
 | 80 | [New York Lonely Boy](https://open.spotify.com/track/21LzxdHPxlWGdcUH6FfBow) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Girls5eva \(Music From The Peacock Original Series\)](https://open.spotify.com/album/6IxbJg2NoDKjxxza4uJjgU) | 2:34 |
 
-Snapshot ID: `MCxmYWZjZTYyZjBiODFjMjg4MGY1NGNkNjJiMGUyMDI0MTM0Mzg0ZWE0`
+Snapshot ID: `MCw0NWZkOGFjOTc5MTg4N2Q4Nzc5MzE0N2M0NzIyMzQ2YjY0ZmYwZjNl`

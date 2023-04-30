@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 
 > <a href="spotify:artist:3MkIU5jhXTMK9pYQTRVI6p">DJ BORING</a>'s favorite tracks\. Updated regularly\. Curated by DJ BORING\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,938 likes - 52 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,968 likes - 52 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 | 23 | [Swimming](https://open.spotify.com/track/1UNhsjG1hH2lzyVtpjhirs) | [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [French Touch Mixtape 002](https://open.spotify.com/album/4ciBijVg4t41PtFJbT1NCi) | 1:12 |
 | 24 | [Breathe](https://open.spotify.com/track/3JQwi0O3HqLF7h4A0sisSz) | [Kassian](https://open.spotify.com/artist/4w6VhlUuzrUoJ5NbCpefXx) | [Breathe](https://open.spotify.com/album/47jNjRRrtdZr4gZoUlODxQ) | 5:18 |
 | 25 | [Sisqo](https://open.spotify.com/track/19B9jkBiEZgxXkx4MVFOCk) | [Ashee](https://open.spotify.com/artist/20NZhZk0qrMO7jImyuR3hz) | [Shifty](https://open.spotify.com/album/09eUqNU7UxERiYXh5DQPgd) | 3:14 |
-| 26 | [Summoned](https://open.spotify.com/track/22Z581eoV561ar9Pt1hIdp) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Summoned](https://open.spotify.com/album/2srMMiyY1AbsnW6069V55h) | 5:36 |
+| 26 | [Summoned](https://open.spotify.com/track/34ybXDNrJPZMg7HMldWcQI) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Summoned](https://open.spotify.com/album/4fsPNEVGZoPrhRxAwnkxIT) | 5:36 |
 | 27 | [You Can Do It](https://open.spotify.com/track/3bKytazUrCb1vlgKmaUo12) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [You Can Do It](https://open.spotify.com/album/5BYQxikCnimaiq5qQNgTbb) | 3:48 |
 | 28 | [Haus It Going](https://open.spotify.com/track/3rB9sNH5ZKX6h3M9yrB0sx) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Haus It Going](https://open.spotify.com/album/3j5NJ5ntHWfcSv785dd2nx) | 3:21 |
 | 29 | [TECHNOPOLIS](https://open.spotify.com/track/025rboHEX5F2T0jRBMjuxI) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE), [Norio Yoshizawa](https://open.spotify.com/artist/4uoBti7IAbbjSVYLQuEFoT) | [Solid State Survivor](https://open.spotify.com/album/5TmpFE7Xus70ko1QYGxFIe) | 4:14 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 | 51 | [Love Loop To Fade](https://open.spotify.com/track/2tFR5NPXOFszGPGcrAazJB) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Take Me With You](https://open.spotify.com/album/5RK13kDEwU9cEUkPjxq6hZ) | 2:03 |
 | 52 | [COPY COPY \- Logic1000 & Big Ever Remix](https://open.spotify.com/track/5QglfG3SyT9ZHFTtcxA0FK) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Big Ever](https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56) | [EVEN MORE D4TA](https://open.spotify.com/album/1Jezw4Z2jKAhBF193bY5qM) | 4:15 |
 
-Snapshot ID: `MCxmMWM3MmEyYjM5ZDc3YzMyOWQxMjRhOTJjNDJhYjFjZTg3NTIyMzA2`
+Snapshot ID: `MCxjYzhmMDI4NzA4YWY3OWRiMDM0ODVlYmUxODc5ZDg5MDQyYWM1Y2Nj`

@@ -87020,7 +87020,7 @@
     {
       "album": {
         "name": "True Love is Freedom",
-        "url": "https://open.spotify.com/album/7qDv226QcAOMybIpzNequM"
+        "url": "https://open.spotify.com/album/0lqjcEcxb2swqcQfRx0OAU"
       },
       "artists": [
         {
@@ -87031,6 +87031,24 @@
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 107658,
+      "name": "True Love is Freedom",
+      "url": "https://open.spotify.com/track/03gQD1vSbHbBmfSvpaA9C4"
+    },
+    {
+      "album": {
+        "name": "True Love is Freedom",
+        "url": "https://open.spotify.com/album/7qDv226QcAOMybIpzNequM"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Whispers",
+          "url": "https://open.spotify.com/artist/0fhv5pwSh099mHYF9b3Cpn"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 107658,
       "name": "True Love is Freedom",
       "url": "https://open.spotify.com/track/1uE7iaPkG6UOWGetsxD5zX"
@@ -90908,7 +90926,7 @@
     {
       "album": {
         "name": "Watching The Credits",
-        "url": "https://open.spotify.com/album/4wcu9s9C12dBnYAvpeK9QY"
+        "url": "https://open.spotify.com/album/3jRcvMTnKCMfIiA1TevG9s"
       },
       "artists": [
         {
@@ -90919,6 +90937,24 @@
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 195026,
+      "name": "Watching The Credits",
+      "url": "https://open.spotify.com/track/2KbfXyUl8eusGT4pWwKroB"
+    },
+    {
+      "album": {
+        "name": "Watching The Credits",
+        "url": "https://open.spotify.com/album/4wcu9s9C12dBnYAvpeK9QY"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 195026,
       "name": "Watching The Credits",
       "url": "https://open.spotify.com/track/71qgKwa2bSdb2gB6Qob5qT"

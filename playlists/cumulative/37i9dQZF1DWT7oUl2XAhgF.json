@@ -158,10 +158,28 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 155120,
       "name": "Always",
       "url": "https://open.spotify.com/track/0K8iQdeJiz7IGIHC56AoLk"
+    },
+    {
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/2jhdyIrCbitZIzJy2I2Thu"
+      },
+      "artists": [
+        {
+          "name": "The Frightnrs",
+          "url": "https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155120,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/3w2Mlu3NJYV7XA8LLWdRTI"
     },
     {
       "album": {
@@ -1318,6 +1336,24 @@
     {
       "album": {
         "name": "Float",
+        "url": "https://open.spotify.com/album/2vO9jJeWEJ4NN65qzE5EHn"
+      },
+      "artists": [
+        {
+          "name": "The Altons",
+          "url": "https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240870,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/2r3r7fxm0wRScSrZ34CbIy"
+    },
+    {
+      "album": {
+        "name": "Float",
         "url": "https://open.spotify.com/album/1dtZKbO951kCjsBPSEvw95"
       },
       "artists": [
@@ -1328,7 +1364,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 240870,
       "name": "Float",
       "url": "https://open.spotify.com/track/7MOy3ezBGiYpvc2jBwXZ3m"
@@ -1628,10 +1664,32 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 143606,
       "name": "Groceries",
       "url": "https://open.spotify.com/track/2h6c3yoLPhiQKcuSW7pQDX"
+    },
+    {
+      "album": {
+        "name": "Homegrown",
+        "url": "https://open.spotify.com/album/4vAakYtJWrer6lENSAP19l"
+      },
+      "artists": [
+        {
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+        },
+        {
+          "name": "Nigel Hall",
+          "url": "https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143606,
+      "name": "Groceries",
+      "url": "https://open.spotify.com/track/5KXNgbRYbqwEFIFM0AMakg"
     },
     {
       "album": {
@@ -1988,10 +2046,28 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 243760,
       "name": "How Long Do I Have to Wait for You?",
       "url": "https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma"
+    },
+    {
+      "album": {
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "date_added": "2021-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243760,
+      "name": "How Long Do I Have to Wait for You?",
+      "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
     },
     {
       "album": {
@@ -2198,10 +2274,28 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 146813,
       "name": "If You Don't Want My Love",
       "url": "https://open.spotify.com/track/2364WrvPTUHobDNURudCbM"
+    },
+    {
+      "album": {
+        "name": "If You Don't Want My Love",
+        "url": "https://open.spotify.com/album/1t09sHx5LoUBFD8M4h94Nn"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146813,
+      "name": "If You Don't Want My Love",
+      "url": "https://open.spotify.com/track/5BO76ay1UPZEj72HUqJtxA"
     },
     {
       "album": {
@@ -2776,6 +2870,24 @@
     {
       "album": {
         "name": "Love Is The Way",
+        "url": "https://open.spotify.com/album/63VRCc7KmT6zhL9BiGluQ0"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179836,
+      "name": "Love Is The Way",
+      "url": "https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE"
+    },
+    {
+      "album": {
+        "name": "Love Is The Way",
         "url": "https://open.spotify.com/album/1WiszSvpOFgvxk1d0pCFMw"
       },
       "artists": [
@@ -2786,7 +2898,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 179836,
       "name": "Love Is The Way",
       "url": "https://open.spotify.com/track/4Z0aGS1P0KxyPlBpqHpJ0F"
@@ -4310,10 +4422,28 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 335853,
       "name": "Soul to Blessed Soul",
       "url": "https://open.spotify.com/track/4UKQcBQ4JFZgsTkRMQzHT4"
+    },
+    {
+      "album": {
+        "name": "I Need a Job... So I Can Buy More Auto-Tune",
+        "url": "https://open.spotify.com/album/63dzRXGEgarXDceMVjOFPu"
+      },
+      "artists": [
+        {
+          "name": "Swamp Dogg",
+          "url": "https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335853,
+      "name": "Soul to Blessed Soul",
+      "url": "https://open.spotify.com/track/6DM57XfNV5YH6zjv6xlSQ3"
     },
     {
       "album": {
@@ -5013,6 +5143,24 @@
     },
     {
       "album": {
+        "name": "Sentimental Fool",
+        "url": "https://open.spotify.com/album/3zqyliH82PrgRAkIe6CSA2"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202346,
+      "name": "Two Jobs",
+      "url": "https://open.spotify.com/track/1jI7c0jkVql0Gh8b9bG55V"
+    },
+    {
+      "album": {
         "name": "Two Jobs",
         "url": "https://open.spotify.com/album/7J18RXIKdZUqS7qWzqblGG"
       },
@@ -5024,7 +5172,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 202346,
       "name": "Two Jobs",
       "url": "https://open.spotify.com/track/4Tdlo4nbfsb0v9ze1Qthax"
@@ -5299,8 +5447,8 @@
     },
     {
       "album": {
-        "name": "Workin' Man Blues",
-        "url": "https://open.spotify.com/album/2gjhCcAyZe5Zb1kyUbNNPK"
+        "name": "Down Every Road",
+        "url": "https://open.spotify.com/album/4XtyzFCp2tAOynVSQLZMOf"
       },
       "artists": [
         {
@@ -5313,7 +5461,43 @@
       "date_removed": null,
       "duration_ms": 217039,
       "name": "Workin' Man Blues",
+      "url": "https://open.spotify.com/track/3oS3jewBr4kDcMbBe4XkSq"
+    },
+    {
+      "album": {
+        "name": "Workin' Man Blues",
+        "url": "https://open.spotify.com/album/2gjhCcAyZe5Zb1kyUbNNPK"
+      },
+      "artists": [
+        {
+          "name": "Eli \"Paperboy\" Reed",
+          "url": "https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 217039,
+      "name": "Workin' Man Blues",
       "url": "https://open.spotify.com/track/54SPmx0U4wg5P4I9rO9kdC"
+    },
+    {
+      "album": {
+        "name": "Til It\u2019s Gone",
+        "url": "https://open.spotify.com/album/6S8mlOlfA5EM5liaSdKruf"
+      },
+      "artists": [
+        {
+          "name": "Ali McGuirk",
+          "url": "https://open.spotify.com/artist/1jVXEUkl4AmaDjbLWA9JDM"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173724,
+      "name": "X Boyfriends",
+      "url": "https://open.spotify.com/track/3DYVCuzV31DJAgBbEo0Ae3"
     },
     {
       "album": {
@@ -5328,7 +5512,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 173724,
       "name": "X Boyfriends",
       "url": "https://open.spotify.com/track/6OLgvpOn1WTeyrS5UpWpAI"

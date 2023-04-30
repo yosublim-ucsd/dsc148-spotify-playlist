@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de Andy Rivera.
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,078 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,167 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 26 | [No Estoy](https://open.spotify.com/track/4AOxMjHyzzcbjFnHOmd1l7) | [Después de la fiesta](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Akim 88](https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp) | [No Estoy](https://open.spotify.com/album/5L00qyZASsGZZC4L1tYDRL) | 1:53 |
 | 27 | [APA](https://open.spotify.com/track/3vKYvbzB7801a5qd47pxkm) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:19 |
 | 28 | [Kitty](https://open.spotify.com/track/7dg1E1QLfNAXDNlKshOTUC) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Kitty](https://open.spotify.com/album/7MTllNrunaSB1GTWkbt9ee) | 3:20 |
-| 29 | [Bajo La Misma Luna](https://open.spotify.com/track/7Bh1dn8naISHoNO25AzYMA) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Bajo La Misma Luna](https://open.spotify.com/album/62jVf8w9p9K0D7JuwKbI0w) | 2:51 |
+| 29 | [Bajo La Misma Luna](https://open.spotify.com/track/7Bh1dn8naISHoNO25AzYMA) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Bajo La Misma Luna](https://open.spotify.com/album/62jVf8w9p9K0D7JuwKbI0w) | 2:52 |
 | 30 | [Aria Vega Hotline: Cobuz & Bustta](https://open.spotify.com/track/7cURSrRxV8kJCDSzWYJKow) | [Cobuz & Bustta](https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU), [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [Aria Vega Hotline: Cobuz & Bustta](https://open.spotify.com/album/26Mksnxwl6TQAJ5FGdQGsm) | 2:53 |
 | 31 | [Jamaica](https://open.spotify.com/track/0iuvbEezJcCPASKTrQ1v76) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 3:07 |
 | 32 | [Tu Recuerdo](https://open.spotify.com/track/3K4vutqVlY3eINQWb6jSJF) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Tu Recuerdo](https://open.spotify.com/album/0BmSD2UxwSB1g6ptVMv3xy) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 99 | [yo pr1mero](https://open.spotify.com/track/0O0kmHHBUG4YCqrKvMnmQy) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [yo pr1mero](https://open.spotify.com/album/0iD5NLijJ6vFTQO6OlEk7i) | 3:14 |
 | 100 | [Anoche llamé](https://open.spotify.com/track/69AGmizjPlRLhOnHqvhZfB) | [Dejota2021](https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY), [Legarda](https://open.spotify.com/artist/3XC7vn6odSKiwiRDloI9Vs) | [Anoche llamé](https://open.spotify.com/album/3BuaUFvRBxVEeRoHvYsG1i) | 2:22 |
 
-Snapshot ID: `MCw5YTgzNWFkMzZkMjY1MjdhYzNlYzE2NWEyZTJjMDliMzkyODk2N2Rj`
+Snapshot ID: `MCxjMDZkNmZhN2E1ZDhjZmVkOTlmOTZlNDJlYzJkNjMwZTA1MGU1YTE4`

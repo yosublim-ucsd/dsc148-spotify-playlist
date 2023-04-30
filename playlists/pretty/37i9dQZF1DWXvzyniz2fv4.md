@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,912 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,943 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 42 | [Certo pra Você](https://open.spotify.com/track/4lPvpx8AgI31GsZP9HjkGI) | [MTK](https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9) | [Certo pra Você](https://open.spotify.com/album/5P4NC7RHetv1NH9OrHcQDv) | 3:31 |
 | 43 | [Stories](https://open.spotify.com/track/0ooXXsObAmmfgYEB9dlIdc) | [24por7](https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF) | [Stories](https://open.spotify.com/album/6bWqWfQkNVdcfzoCWTll2R) | 2:08 |
 | 44 | [Rosé](https://open.spotify.com/track/2VjdWetFejyZ1NI95u12Zy) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Inverno](https://open.spotify.com/album/6duBR0e38IcnyqdcTYBbCj) | 3:32 |
-| 45 | [Qualquer Maneira](https://open.spotify.com/track/4OuOPF6CxMSUTXCuKhwKZT) | [Incógnito](https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8) | [Qualquer Maneira](https://open.spotify.com/album/7j1DUPvd4pw2Z6uI3QJj7r) | 5:31 |
-| 46 | [Fica](https://open.spotify.com/track/6EOdzYr7hlBGKb9DzSBeb3) | [Nitto](https://open.spotify.com/artist/2of8A9ksNq06cDBiWVWSgT), [Lucas e Orelha](https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8) | [Fica](https://open.spotify.com/album/0hDmNQipUfQwvbLxvHh9Ty) | 2:49 |
+| 45 | [Fica](https://open.spotify.com/track/6EOdzYr7hlBGKb9DzSBeb3) | [Nitto](https://open.spotify.com/artist/2of8A9ksNq06cDBiWVWSgT), [Lucas e Orelha](https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8) | [Fica](https://open.spotify.com/album/0hDmNQipUfQwvbLxvHh9Ty) | 2:49 |
+| 46 | [Qualquer Maneira](https://open.spotify.com/track/4OuOPF6CxMSUTXCuKhwKZT) | [Incógnito](https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8) | [Qualquer Maneira](https://open.spotify.com/album/7j1DUPvd4pw2Z6uI3QJj7r) | 5:31 |
 | 47 | [Mistério](https://open.spotify.com/track/2syPgLsmPg8dBNvqdKhCnc) | [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Mistério](https://open.spotify.com/album/3kBRkJc0JKJ7Cb9PRbs5HG) | 2:22 |
 | 48 | [Mais uma Chance](https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8) | [Buia Kalunga](https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3), [Macaia](https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV) | [Mais uma Chance](https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M) | 3:03 |
 | 49 | [Mapa Astral](https://open.spotify.com/track/29FiIrTO3Q8Hr88G35M6F7) | [Zoli](https://open.spotify.com/artist/6HqoIxGapi53LEfRJMuNz6), [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d) | [Mapa Astral](https://open.spotify.com/album/6BtIr9CAnLk5ZVe3f7MnZF) | 3:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 74 | [27 Dias](https://open.spotify.com/track/1H72zdqyZ4BDjqtgtHm4Z6) | [Douriel](https://open.spotify.com/artist/4gYOZZdzJ8PMurmOD72ZLF), [Dracko](https://open.spotify.com/artist/6gOq16KSO2ORGiVS7yDZHY), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [27 Dias](https://open.spotify.com/album/6qT1jE8wcY0PvuV9gBBjOX) | 2:19 |
 | 75 | [Voe](https://open.spotify.com/track/3QRRlJmJbIlBi3i4YzLgvc) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Voe](https://open.spotify.com/album/19QEAyEf7chXx2vpyKOoGs) | 2:32 |
 
-Snapshot ID: `MCw2NzFjMDE5YjE5YmRkMGI1MWYyYTBmZWQ2MzRkNzZmNzAxZGQ1Y2Ex`
+Snapshot ID: `MCxlOTRmODgyNTcxNDRmNjY4YzcyOWNiOTFhMjNiMWNlZDk3MDJiOGI3`

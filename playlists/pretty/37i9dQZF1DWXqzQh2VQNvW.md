@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 
 > The latest and greatest music out now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,507 likes - 101 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,495 likes - 101 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 100 | [Piece Of Me \(with LOVA\)](https://open.spotify.com/track/5mlNLzIdl6Ae2a4YRphSI4) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Piece Of Me \(with LOVA\)](https://open.spotify.com/album/3L5V3sfPdsd1SoSWzcW5Xb) | 3:22 |
 | 101 | [Stitches](https://open.spotify.com/track/7tbzPLKvG08lwU6h33wSso) | [good problem](https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK) | [Stitches](https://open.spotify.com/album/3G3fVF6R5DEhQg19XZBzwl) | 2:40 |
 
-Snapshot ID: `MCwxZTc0NGQ0ZTk0MzM1Y2ExNmQ0ZmU3YzUzNzUzMWJiMzU4Y2QzOTUx`
+Snapshot ID: `MCw2MWViNTg0YWMxNTNkYjRlOTZhM2VlZTk0MTVjZmE3ZjZiZThjYzI5`

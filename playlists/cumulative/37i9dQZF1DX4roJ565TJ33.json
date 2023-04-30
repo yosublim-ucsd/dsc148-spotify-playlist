@@ -2750,10 +2750,28 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 540933,
       "name": "Very Early",
       "url": "https://open.spotify.com/track/1zqXurcrxEYOapduEpfuEh"
+    },
+    {
+      "album": {
+        "name": "Live \u2013 with Palle Danielsson and Fredrik Rundqvist",
+        "url": "https://open.spotify.com/album/5nhoTZQMlUWqDGPEhpwt70"
+      },
+      "artists": [
+        {
+          "name": "Fredrik Nordstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5MvcFZC0PVjhkfCOdmBXTm"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 540933,
+      "name": "Very Early",
+      "url": "https://open.spotify.com/track/4pOmvbidGuENodcbTTeP4I"
     },
     {
       "album": {

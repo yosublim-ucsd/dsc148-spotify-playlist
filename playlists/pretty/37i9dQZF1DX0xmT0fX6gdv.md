@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xmT0fX6gdv.md) - [plain]
 
 > <a href="spotify:artist:4d8OiNWwKaA6MBPq0K06Xa">Mehmet Aslan</a>'s favorite tracks\. Updated regularly\. Curated by Mehmet Aslan\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,778 likes - 100 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,809 likes - 100 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xmT0fX6gdv.md) - [plain]
 | 2 | [Sopratutto](https://open.spotify.com/track/3QSWrpaEdoM5Luf7aYMlZZ) | [Nicolini](https://open.spotify.com/artist/2XKOlTGvKbfnJaUgYvwXey) | [Sopratutto](https://open.spotify.com/album/0UP6UvJRoyOhIrMOI9bafu) | 3:44 |
 | 3 | [Yuh Yuh](https://open.spotify.com/track/6oAsSxbHeN11ey7R4Q1ouJ) | [Selda Bağcan](https://open.spotify.com/artist/2NGRETzxjeN4b9o3OGY6Yn) | [40 Yılın 40 Şarkısı](https://open.spotify.com/album/1TB9E8n4PM6LOxY0C1DhvX) | 4:52 |
 | 4 | [灯 \(2019 Bob Ludwig Remastering\)](https://open.spotify.com/track/4PVlJYjXvVwL5Z36XSGHwP) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [Technodelic](https://open.spotify.com/album/0UW16Q59LWnmJOLoonoBhr) | 3:40 |
-| 5 | [Taboo \- Club Mix](https://open.spotify.com/track/48TCYiOHkA1uiykdEIPEZ4) | [Rebles](https://open.spotify.com/artist/3sYvl5zrwAbMVVlog6PO6A) | [Sweetest Taboo](https://open.spotify.com/album/7KsKCoTPPN5wvuh6WuDIzy) | 6:50 |
+| 5 | [Taboo \- Club Mix](https://open.spotify.com/track/5vGgqREVsoN8sSLgZNbS71) | [Rebles](https://open.spotify.com/artist/3sYvl5zrwAbMVVlog6PO6A) | [Sweetest Taboo](https://open.spotify.com/album/1qCGnNy8EOVXrglUhdPSwV) | 6:50 |
 | 6 | [No Es Computable](https://open.spotify.com/track/6E5Zr8E3FTXppeEApnTr8e) | [Abaddon](https://open.spotify.com/artist/74yfTxb5doXjUcv0g1DaMi) | [Síntesis Moderna: An Alternative Vision Of Argentinean Music \(1980\-1990\)](https://open.spotify.com/album/5hZ16BeQ6WRI7sEMgKYCAd) | 3:25 |
 | 7 | [Bir Çalgıyım Göğsüne Yaslanmış, Pt\. 1](https://open.spotify.com/track/63Txxm8SMIqXsEBKdT1NQH) | [Burhan Öçal](https://open.spotify.com/artist/4wOEkf10AAMKx0yCGEEnxm), [Pete Namlook](https://open.spotify.com/artist/1zdrhzkCEqTrUrIiRzVeQ3) | [Sultan Osman](https://open.spotify.com/album/0tOX6r5EJDZ1goqhJ8gkiU) | 4:58 |
 | 8 | [Love Song Of Urfa](https://open.spotify.com/track/00qFr618NFA8erELRmyTaw) | [Midori Takada](https://open.spotify.com/artist/3fuab64Hf1xiRGocX1sT1n) | [Tree of Life](https://open.spotify.com/album/4Kl145gRCUJnQ3DnrYK9GC) | 2:44 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xmT0fX6gdv.md) - [plain]
 | 78 | [Bananasmania](https://open.spotify.com/track/10QQgp6U3azqVBUdTnuZBY) | [Roots](https://open.spotify.com/artist/6v3RjZcqFHcEfn8LOcumks) | [Casablanca \(Deluxe Edition\) \[Vive les années 70\]](https://open.spotify.com/album/3VDQjekkltvqqeQWFvKD68) | 2:36 |
 | 79 | [Talagh](https://open.spotify.com/track/0Khekj2ZgnHQaL6Q3K825M) | [Googoosh](https://open.spotify.com/artist/07L6XZ7QaTsZLP8jwLoFgY) | [40 Golden Hits Of Googoosh](https://open.spotify.com/album/3XPnOwdFm6LmNY8pndc6i9) | 4:46 |
 | 80 | [Renegade Soundwave \- Leftfield Remix;1994](https://open.spotify.com/track/10UALSufeSzvKrr3vpZO8Z) | [Renegade Soundwave](https://open.spotify.com/artist/34wtf7GZVapHNvysEvuFzY) | [RSW 1987\-1995](https://open.spotify.com/album/7Deu4OpcQU4rlGT4SQhnKa) | 7:49 |
-| 81 | [Ayrılık \- Barış K Edit](https://open.spotify.com/track/6sb1uMBr6AtXlEL8VbYjbJ) | [Edip Akbayram](https://open.spotify.com/artist/0oFiWQjHNvksJlD0aWzBZM), [Barış K](https://open.spotify.com/artist/2Rmx3lG8rhYTUstxsPoJ2t) | [ISTANBUL70 : Disco, Psych, Folk Edits by Barış K Vol.4](https://open.spotify.com/album/3WBlukkSFCXiaNukvk4sQD) | 4:27 |
-| 82 | [Disko Kebap \- Barış K Edit](https://open.spotify.com/track/7hjWva5oPKO9bLmqxYof3B) | [Urfalı Babi](https://open.spotify.com/artist/2O5KqSe1rv8Ekl7qHKcCUz), [Barış K](https://open.spotify.com/artist/2Rmx3lG8rhYTUstxsPoJ2t) | [ISTANBUL70 : Disco, Psych, Folk Edits by Barış K Vol.3](https://open.spotify.com/album/43FMhD4JeFZuPrVw26LaVK) | 5:47 |
+| 81 | [Ayrılık \- Barış K Edit](https://open.spotify.com/track/39UP7nQvZ3IqoMvASrf0x0) | [Edip Akbayram](https://open.spotify.com/artist/0oFiWQjHNvksJlD0aWzBZM), [Barış K](https://open.spotify.com/artist/2Rmx3lG8rhYTUstxsPoJ2t) | [ISTANBUL70 : Disco, Psych, Folk Edits by Barış K Vol.4](https://open.spotify.com/album/1IvUT8AY22vZE7lH0Y40N2) | 4:27 |
+| 82 | [Disko Kebap \- Barış K Edit](https://open.spotify.com/track/5rPKfPlniRZIi3C8IWAjLB) | [Urfalı Babi](https://open.spotify.com/artist/2O5KqSe1rv8Ekl7qHKcCUz), [Barış K](https://open.spotify.com/artist/2Rmx3lG8rhYTUstxsPoJ2t) | [ISTANBUL70 : Disco, Psych, Folk Edits by Barış K Vol.3](https://open.spotify.com/album/2YHWVwYJlUZ5LxvMHbJZtE) | 5:47 |
 | 83 | [Efsun feat\. Idil Mese](https://open.spotify.com/track/2GFXwJVlyTSKSAM5MVOlPg) | [Mehmet Aslan](https://open.spotify.com/artist/4d8OiNWwKaA6MBPq0K06Xa), [İdil Meşe](https://open.spotify.com/artist/5HE29yygBDPWK6kePPr3I3) | [Ghost Station](https://open.spotify.com/album/4ytrHWz9MQ6yHyPoCdRICq) | 8:39 |
 | 84 | [Yekermo Sew](https://open.spotify.com/track/2KCocoxp2TUBrM0Rp60bUL) | [Will Van Horn](https://open.spotify.com/artist/6buVNLCQJ8bJEFkJ3qgeiW) | [Pedal Steel Guitar](https://open.spotify.com/album/6nLU2cURKK11jYmfru7rrU) | 3:38 |
 | 85 | [Hearing Damage](https://open.spotify.com/track/1fTtPH0xGwFOXM5VlkxOX1) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Hearing Damage](https://open.spotify.com/album/5SCfET4lGs65o4Jgb7hZ2f) | 5:03 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xmT0fX6gdv.md) - [plain]
 | 88 | [Snake Dancer](https://open.spotify.com/track/6lWRwWnjFewXoaoPc7r5ky) | [Mount Kismet](https://open.spotify.com/artist/53QfwKbYZqdndszqjX0oGK) | [Warmer Lanes](https://open.spotify.com/album/5Z64zVjQK6bQotixagykj0) | 5:10 |
 | 89 | [Sve Su Seke Jebene](https://open.spotify.com/track/4vh4iPaADbbLDFrnELsuzS) | [Oliver Mandic](https://open.spotify.com/artist/0xEo4m46co9IGYyLQ5gRjp) | [Zbog Tebe Bih Tucao Kamen](https://open.spotify.com/album/7fnfYOcje2wc6N6IKobla6) | 3:40 |
 | 90 | [Bijli Bhari Hai](https://open.spotify.com/track/4O82bVgnUlHNmBPOLmyR4Q) | [Tafo Brothers](https://open.spotify.com/artist/4UQhAI9ZsqF63SrJKky317) | [M\. Ashraf At His Best Instrumental](https://open.spotify.com/album/6LDXTdUKS8awQAJNBb1JpH) | 4:26 |
-| 91 | [Souvenir](https://open.spotify.com/track/1XZFzWUsdHXeweeNxzAHel) | [Maston](https://open.spotify.com/artist/7aE9KUqEEWrasYryOkJG7O), [L'éclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX) | [Souvenir](https://open.spotify.com/album/3XWlBMLf2QiKpiO1E7NMUD) | 1:53 |
+| 91 | [Souvenir](https://open.spotify.com/track/2SaJlEH7J0U2L03jCf7ojM) | [Maston](https://open.spotify.com/artist/7aE9KUqEEWrasYryOkJG7O), [L'éclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX) | [Souvenir](https://open.spotify.com/album/4rUTEX2s54Ls9Co09BMbCv) | 1:53 |
 | 92 | [Casablanca Moon](https://open.spotify.com/track/4PNhRqC5OfxkfC4dHRqDgN) | [Slapp Happy](https://open.spotify.com/artist/78gqgxLFWiVkLEq60KfToZ) | [Casablanca Moon/Desperate Straights](https://open.spotify.com/album/5XTA3Hd1nmV2spLX2q5sU7) | 2:49 |
 | 93 | [Eğri Eğri Doğru Doğru](https://open.spotify.com/track/1mQdoDmVvTPVh6qaUBFkcU) | [Barış Manço](https://open.spotify.com/artist/3eVuump9qyK0YCQQo4mKbc) | [Eğri Eğri Doğru Doğru](https://open.spotify.com/album/4FUlNukFphlZjDkRnOwBB6) | 5:07 |
 | 94 | [Ömür Biter Yol Bitmez](https://open.spotify.com/track/160QE1hPhgTqQIji1jmgll) | [Üç Hürel](https://open.spotify.com/artist/4BvIkZkqfB1BnzoWdyCaWC) | [Hürel Arşivi](https://open.spotify.com/album/2ebnYhaaes3VDz7e3BGjp4) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xmT0fX6gdv.md) - [plain]
 | 99 | [Raising Sun on Bali \- Lexx Selemat Pagi Mix](https://open.spotify.com/track/1avghaZ5qoTNWQWpDbQmPR) | [Teddy Lasry](https://open.spotify.com/artist/668VqwKWqLOxsTvEEcJJIp), [Lexx](https://open.spotify.com/artist/7GH9fHYSqIt0jZSGHPxwU0) | [Raising Sun on Bali \(Lexx Selemat Pagi Mix\) \[Remix\]](https://open.spotify.com/album/3JlbmvwBk9g8dXpqQe39Iz) | 4:30 |
 | 100 | [Flying High](https://open.spotify.com/track/6DUHpnjg6IYkGW0bIrYXLC) | [Curt Cress](https://open.spotify.com/artist/7bGIcrrESYuEA3uyuWR3Sb) | [Avanti](https://open.spotify.com/album/6GakRcGQSentJbfsPNCfcp) | 4:06 |
 
-Snapshot ID: `MCw2ZmNjZTYzMjk3ZDE3MjZhNTJjOTUzNmFhZTA0YjQzYWY5NDc4MTg4`
+Snapshot ID: `MCxmNzgzYWU4YzgwNjk0NGE4YjI0YzhmZjkxZmQ0NDE2ZDI3ZTE1MWZk`

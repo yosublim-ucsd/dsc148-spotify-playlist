@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: Shygirl
 
-107 songs - 7 hr 30 min
+111 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Burnt Orange \- Edit](https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 4:31 | 2021-10-15 |  |
 | [Chaos in the Distance](https://open.spotify.com/track/2dNYZepmpo2RrnytcoZTrW) | [CAYAM](https://open.spotify.com/artist/2aysJuzHqgXqkPJDwwB6a1), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Chaos in the Distance](https://open.spotify.com/album/2n9l0wW4X2UI1jWyipbkxF) | 6:12 | 2021-10-15 | 2022-06-04 |
 | [Cherubim](https://open.spotify.com/track/6JzQKtrCAh7riHwJYMNPtM) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Cherubim](https://open.spotify.com/album/3WlyBAG8AbL6E9C09KGU4w) | 3:22 | 2023-03-31 |  |
-| [Cocky](https://open.spotify.com/track/108H1bXtmIVHFkh2geKFt9) | [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Cocky](https://open.spotify.com/album/6n9US7BwG1k1A9AEX6DFie) | 4:50 | 2022-07-14 |  |
+| [Cocky](https://open.spotify.com/track/108H1bXtmIVHFkh2geKFt9) | [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Cocky](https://open.spotify.com/album/6n9US7BwG1k1A9AEX6DFie) | 4:50 | 2022-07-14 | 2023-04-30 |
+| [Cocky](https://open.spotify.com/track/3UwPb3pdpSN0cUxl4XGpO2) | [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Cocky](https://open.spotify.com/album/1G9wCQ0maje1EMpManZZ6M) | 4:50 | 2023-03-31 |  |
 | [Cocky](https://open.spotify.com/track/6g2iUBWLQbCFVMqtTaFPhh) | [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Cocky](https://open.spotify.com/album/34CRtqpBcQQzhYfZbkHy3l) | 4:50 | 2021-10-15 | 2022-07-29 |
 | [Come Back](https://open.spotify.com/track/0jnfcPhR4K98OgIwih63Wk) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Come Back](https://open.spotify.com/album/2TbxuBCoWx2x5gQE6bW44R) | 4:37 | 2022-07-14 |  |
 | [Come Back](https://open.spotify.com/track/1l0MYkKzmFoBzlS9iZmvAu) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Come Back](https://open.spotify.com/album/1cXkPZuXwZLqHZdGBlKgWi) | 4:37 | 2021-10-15 | 2022-10-15 |
@@ -47,9 +48,11 @@
 | [Find Your Way Home](https://open.spotify.com/track/0WoxURnxMhMHVEZpK04KzU) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [She's Calling EP](https://open.spotify.com/album/4QIzvwiurfYaLWAATLXU0N) | 8:17 | 2021-10-15 |  |
 | [Forward Flamingo](https://open.spotify.com/track/5jTUWYHBoAebFimm7yteTN) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [Face to Phase](https://open.spotify.com/album/3JAHvyB4gAIjPPxQ6k2XRu) | 4:23 | 2021-10-15 | 2022-06-04 |
 | [Fuck It!](https://open.spotify.com/track/4GTa4r47RMGgVzESGRmEul) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU), [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Fuck It!](https://open.spotify.com/album/1snDRRO46ItFbvq8OyNvo2) | 3:41 | 2023-03-31 |  |
-| [GETOUTOFMYHEAD](https://open.spotify.com/track/2kYQCKxOi9Dccib2E8KaW5) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [GETOUTOFMYHEAD](https://open.spotify.com/album/04Cbf32azwsSiMpOjHDNya) | 6:16 | 2023-03-31 |  |
+| [GETOUTOFMYHEAD](https://open.spotify.com/track/2kYQCKxOi9Dccib2E8KaW5) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [GETOUTOFMYHEAD](https://open.spotify.com/album/04Cbf32azwsSiMpOjHDNya) | 6:16 | 2023-03-31 | 2023-04-30 |
+| [GETOUTOFMYHEAD](https://open.spotify.com/track/3DayjEnW7oPHucWm71NtIH) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [GETOUTOFMYHEAD](https://open.spotify.com/album/5Vnhdn0oxYlogKhFdT1SWn) | 6:16 | 2023-03-31 |  |
 | [Girl U Could Be Down 4](https://open.spotify.com/track/2AqNfj3Y6t3mvdc6TSXaE2) | [Bored Lord](https://open.spotify.com/artist/651d6TuQaZF6XaRONhiS2n) | [Cybernetic Romance](https://open.spotify.com/album/4xAzAKkeRbP8Rniaj7l0dN) | 4:55 | 2021-10-15 |  |
-| [GLAMOUR Riddim](https://open.spotify.com/track/3tBv0XOlAl5EOsENMqfHuW) | [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [love has never been a popular movement.](https://open.spotify.com/album/0kmuTT4FJA0DQhNNFhR1hE) | 5:48 | 2023-03-31 |  |
+| [GLAMOUR Riddim](https://open.spotify.com/track/3tBv0XOlAl5EOsENMqfHuW) | [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [love has never been a popular movement.](https://open.spotify.com/album/0kmuTT4FJA0DQhNNFhR1hE) | 5:48 | 2023-03-31 | 2023-04-30 |
+| [GLAMOUR Riddim](https://open.spotify.com/track/61gAlsx885y2RvpPwwcJo0) | [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [love has never been a popular movement.](https://open.spotify.com/album/3S3okSECqppR83HJYWGoxY) | 5:48 | 2023-03-31 |  |
 | [GLAMOUR Riddim](https://open.spotify.com/track/6hFaY8lcMOWc7IjJ3eAgVh) | [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [GLAMOUR Riddim](https://open.spotify.com/album/6RxndZ15v2o4VYDYECe4FZ) | 5:48 | 2023-03-31 | 2023-04-25 |
 | [Good Time](https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Good Time](https://open.spotify.com/album/3qte9ec3e2N3SNIQk8qLzy) | 2:41 | 2022-06-03 | 2023-04-01 |
 | [Hands \- Edit](https://open.spotify.com/track/4vA3jtFk9acFhLHdcuGrGK) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Hands \(DJ\-Kicks\)](https://open.spotify.com/album/7cdtA63N0AxdTjubtX6h38) | 4:01 | 2023-03-31 |  |
@@ -84,8 +87,9 @@
 | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/track/7KzTDWGFQerYzkSqRXLwUp) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/album/1R1i1cNz94QG5tT4aByFgU) | 2:44 | 2022-07-14 |  |
 | [Neverland](https://open.spotify.com/track/3NwKONlygiXJU6G2u6b7iq) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Neverland](https://open.spotify.com/album/1z8kbd29vvgGVkjaxss02U) | 3:21 | 2021-10-15 |  |
 | [Night Creature](https://open.spotify.com/track/3qEel6r284fp9ti2CYuO12) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Night Creature](https://open.spotify.com/album/7f74ViVWoWCIdBaRzKjpuu) | 3:31 | 2022-06-03 |  |
-| [No Idol \- Remix](https://open.spotify.com/track/1eRLxk3ZvgJFsH2wJFcyGq) | [DJ Haram](https://open.spotify.com/artist/13VynrBSvRLrAX5YqdD1vl) | [Grace EP](https://open.spotify.com/album/6ODJBf2C5LXJGIcB9QHU7p) | 2:36 | 2022-07-14 |  |
+| [No Idol \- Remix](https://open.spotify.com/track/1eRLxk3ZvgJFsH2wJFcyGq) | [DJ Haram](https://open.spotify.com/artist/13VynrBSvRLrAX5YqdD1vl) | [Grace EP](https://open.spotify.com/album/6ODJBf2C5LXJGIcB9QHU7p) | 2:36 | 2022-07-14 | 2023-04-30 |
 | [No Idol \- Remix](https://open.spotify.com/track/3x15lvHEgJoj7XhRV5aXCo) | [DJ Haram](https://open.spotify.com/artist/13VynrBSvRLrAX5YqdD1vl) | [Grace EP](https://open.spotify.com/album/0Ooq11mWBxMx34PbeorVkz) | 2:36 | 2021-10-15 | 2022-07-29 |
+| [No Idol \- Remix](https://open.spotify.com/track/6uVCNLms1D9lQLIg9JG7Jr) | [DJ Haram](https://open.spotify.com/artist/13VynrBSvRLrAX5YqdD1vl) | [Grace EP](https://open.spotify.com/album/1KqDdW5d7l4g9y7JzGyyDB) | 2:36 | 2023-03-31 |  |
 | [Obliterate](https://open.spotify.com/track/12bWYZA94k9TyxAVQ5aBQ5) | [Lupa J](https://open.spotify.com/artist/1yvTsFefUSbLoOimc1vMZJ) | [To Breathe Underwater](https://open.spotify.com/album/2lL7bjuc1QrmCYFuJb1fng) | 3:33 | 2021-10-15 |  |
 | [Peanut Power](https://open.spotify.com/track/5LA74AduqAq7wVQYB8zYGY) | [Meg Ward](https://open.spotify.com/artist/2mD3jEYpdABPmYGMkwIp8s) | [Melbourne Street](https://open.spotify.com/album/62kIRslwee4b9HnwS74GTS) | 4:54 | 2021-10-15 | 2023-04-01 |
 | [Prada](https://open.spotify.com/track/7I8UTLiBA1ptFm04WulwhH) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KICK ii](https://open.spotify.com/album/1Vg5v9M0afj5sIl1ndRXzy) | 2:43 | 2022-06-03 |  |

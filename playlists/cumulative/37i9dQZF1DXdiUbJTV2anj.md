@@ -4,7 +4,7 @@
 
 > Heavy new bands you need to have an eye on\. Cover: Heriot
 
-171 songs - 9 hr 53 min
+172 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [All the Weight](https://open.spotify.com/track/1J8w2cPF7NAcD2QKtoWh0U) | [As The Structure Fails](https://open.spotify.com/artist/12A5ksM0yYvX6ULrJmIvQN) | [All the Weight](https://open.spotify.com/album/3NmSRgQxnl33x8sOkfICLD) | 4:03 | 2022-07-29 | 2022-12-24 |
 | [Anathema](https://open.spotify.com/track/1oLHIkHzNipzkouaBClSdl) | [Evilgloom](https://open.spotify.com/artist/1cJ8mgIFVHt86l9J90pkBa) | [Addictions](https://open.spotify.com/album/4Cfplm19oERf2huyJwaKGJ) | 3:21 | 2023-03-02 |  |
 | [Anxiety](https://open.spotify.com/track/7sBDYK0rlUxrTSQq4tnVLJ) | [Then It Ends](https://open.spotify.com/artist/5TiYxejPE7S8iWdWtjqyQQ) | [Anxiety](https://open.spotify.com/album/75ytZn0fccZEIZP7dY4csy) | 3:55 | 2022-07-29 | 2022-09-10 |
-| [Asking For It](https://open.spotify.com/track/5w5jNzqBmqM0GJwj0Aukbu) | [Mhaol](https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN) | [Attachment Styles](https://open.spotify.com/album/2qEpzDMY0fft4BmR4mZUkC) | 2:19 | 2023-02-09 |  |
+| [Asking For It](https://open.spotify.com/track/0FWvBhd7u9TuUlD5BIuKoX) | [Mhaol](https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN) | [Attachment Styles](https://open.spotify.com/album/1VqTE3b7QFnITPMhCQJgXX) | 2:19 | 2023-03-24 |  |
+| [Asking For It](https://open.spotify.com/track/5w5jNzqBmqM0GJwj0Aukbu) | [Mhaol](https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN) | [Attachment Styles](https://open.spotify.com/album/2qEpzDMY0fft4BmR4mZUkC) | 2:19 | 2023-02-09 | 2023-04-30 |
 | [At The Core](https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:40 | 2022-10-21 |  |
 | [Barbie & Ken](https://open.spotify.com/track/7aVUykGDZCRyLRKCQrtrbx) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Barbie & Ken](https://open.spotify.com/album/4mljsOFQj7XRh77BAVF1aq) | 2:15 | 2022-09-09 | 2023-03-25 |
 | [Be All End All](https://open.spotify.com/track/7mqV05V4yRar4VbCGHZpLr) | [Trench](https://open.spotify.com/artist/3OuV1bOFKQPdQdIuDX7lO0) | [Be All End All](https://open.spotify.com/album/23Nj8HZZvwGvsPGSvPbz4c) | 1:32 | 2022-07-29 | 2022-08-20 |

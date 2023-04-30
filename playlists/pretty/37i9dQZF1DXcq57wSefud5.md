@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq57wSefud5.md) - [plain]
 
 > You'll be up with the sun and running to this playlist of fast paced feel good tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 807 likes - 25 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 820 likes - 25 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq57wSefud5.md) - [plain]
 | 24 | [Run](https://open.spotify.com/track/1G2y3ckwnDX4IOiemPOXEW) | [Delta Rae](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) | [After It All](https://open.spotify.com/album/0HvAm2vysVverWiodCEhON) | 2:58 |
 | 25 | [Kick Drum Heart](https://open.spotify.com/track/0KKist1jJYO17nOqtO1sb2) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [I And Love And You](https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON) | 2:54 |
 
-Snapshot ID: `MCxhNGMzN2IyM2Q1OTViM2Q3MGJkOTk0MmYwYjI5NTJlMzQ5NWExYmQ0`
+Snapshot ID: `MCw3ZThjZjAyZjlmNGY2ZjE0NjU1YTVjMzY4YWI5MmQ3YWFlODNhMDM4`

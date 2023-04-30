@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 
 > The future of African Indie and Alternative
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,190 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,383 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 | 49 | [Canadian Tuxedo](https://open.spotify.com/track/0jWOcfI6BIjeJswYXKXVhv) | [Tano Jackson](https://open.spotify.com/artist/3mm6gcWlR8bu5jtddiuRwa), [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [Canadian Tuxedo](https://open.spotify.com/album/5LhBwvU9Yo6TO0HuYCUSCg) | 3:10 |
 | 50 | [Hello Lady](https://open.spotify.com/track/4zqe6jCp2UmN8OVOgSt9U2) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Hello Lady](https://open.spotify.com/album/2IJt9NcgSGvdj37aQ9XsCD) | 3:25 |
 
-Snapshot ID: `MCxlYjQyYzIzODA2YmZmZTRmZTdiZDVlNzcwMzIzNTRiMjYwNTliM2Y0`
+Snapshot ID: `MCxmZGUzNzM4ZjczNGZkZGE4ODBkODBmNzYyMjAxMWE0NGQ2MjI2MTI4`

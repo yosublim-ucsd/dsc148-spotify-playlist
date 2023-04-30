@@ -4,11 +4,12 @@
 
 > Coldcut's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambiente</a>.
 
-22 songs - 2 hr 31 min
+23 songs - 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Agate or Barium \- Bersarin Quartett Remix](https://open.spotify.com/track/3xyFu3aZJo8tCVQvUI2PbB) | [David Norland](https://open.spotify.com/artist/74X47hyqQNSYXLNIZtUmu1), [Bersarin Quartett](https://open.spotify.com/artist/1Qj0OFQUlN7VmkMaD1mPMi) | [Agate or Barium \(Bersarin Quartett Remix\)](https://open.spotify.com/album/7vDrQB6jGV67GcNQYX0fIZ) | 4:33 | 2023-01-10 |  |
+| [Agate or Barium \- Bersarin Quartett Remix](https://open.spotify.com/track/0nfS82i90nv96o9SWDc9fb) | [David Norland](https://open.spotify.com/artist/74X47hyqQNSYXLNIZtUmu1), [Bersarin Quartett](https://open.spotify.com/artist/1Qj0OFQUlN7VmkMaD1mPMi) | [Agate or Barium \(Bersarin Quartett Remix\)](https://open.spotify.com/album/3GQJlJDzJNvOLGVKnS4hXt) | 4:33 | 2023-01-10 |  |
+| [Agate or Barium \- Bersarin Quartett Remix](https://open.spotify.com/track/3xyFu3aZJo8tCVQvUI2PbB) | [David Norland](https://open.spotify.com/artist/74X47hyqQNSYXLNIZtUmu1), [Bersarin Quartett](https://open.spotify.com/artist/1Qj0OFQUlN7VmkMaD1mPMi) | [Agate or Barium \(Bersarin Quartett Remix\)](https://open.spotify.com/album/7vDrQB6jGV67GcNQYX0fIZ) | 4:33 | 2023-01-10 | 2023-04-30 |
 | [An Arc Of Doves \- Remastered 2004](https://open.spotify.com/track/244AfRQzVwSOzkkRHGPWge) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 6:29 | 2023-01-10 |  |
 | [And She Came Home \- Strings Version](https://open.spotify.com/track/2iJFn6AhLd0NHUiIOvnKto) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [@0 EP3](https://open.spotify.com/album/36ry6OLPgVNFDj7Vx1HCjv) | 3:58 | 2023-01-10 |  |
 | [Aqua \- from Playing Piano for the Isolated](https://open.spotify.com/track/7eoKT5hry7dsZZ8JszbN6y) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [@0 EP3](https://open.spotify.com/album/36ry6OLPgVNFDj7Vx1HCjv) | 4:32 | 2023-01-10 |  |

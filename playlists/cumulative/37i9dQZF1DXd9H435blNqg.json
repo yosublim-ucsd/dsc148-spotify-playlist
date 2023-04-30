@@ -236,6 +236,24 @@
     {
       "album": {
         "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/4Yqxa1d27Fd6G1lNUpQ9Xq"
+      },
+      "artists": [
+        {
+          "name": "Bhi Bhiman",
+          "url": "https://open.spotify.com/artist/6OukdlNSOR1SoGNF7v0d2C"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194093,
+      "name": "Can't Nobody Stop Us",
+      "url": "https://open.spotify.com/track/2vi2Ihuxx5yTU0tLR7AdnZ"
+    },
+    {
+      "album": {
+        "name": "Peace of Mind",
         "url": "https://open.spotify.com/album/1zVOWqWdzJILGp06SBmTel"
       },
       "artists": [
@@ -246,7 +264,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 194093,
       "name": "Can't Nobody Stop Us",
       "url": "https://open.spotify.com/track/3vYpSRPpjAa6meFbsFyCv1"
@@ -319,6 +337,28 @@
     },
     {
       "album": {
+        "name": "Fading Away",
+        "url": "https://open.spotify.com/album/0Y2F59RRop0f41p7rTFwQS"
+      },
+      "artists": [
+        {
+          "name": "Artur Menezes",
+          "url": "https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225133,
+      "name": "Come On",
+      "url": "https://open.spotify.com/track/5pqBru8D3AFDmbTiCCLdDi"
+    },
+    {
+      "album": {
         "name": "Come On",
         "url": "https://open.spotify.com/album/5UItOyIYBjcLlCESGf9fDX"
       },
@@ -334,7 +374,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 225133,
       "name": "Come On",
       "url": "https://open.spotify.com/track/7m1a5EhEx1qA4fWSqRLvaO"
@@ -1130,6 +1170,24 @@
     {
       "album": {
         "name": "Get That Feeling, Vol. I",
+        "url": "https://open.spotify.com/album/0yGqO8T0PFlvvOEB67SVw8"
+      },
+      "artists": [
+        {
+          "name": "Patrick Sweany",
+          "url": "https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246053,
+      "name": "One Thing (2020)",
+      "url": "https://open.spotify.com/track/3UN865e2RbOp2e5MEaKyH1"
+    },
+    {
+      "album": {
+        "name": "Get That Feeling, Vol. I",
         "url": "https://open.spotify.com/album/12etpmMvVYThaqygVi0UKE"
       },
       "artists": [
@@ -1140,7 +1198,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 246053,
       "name": "One Thing (2020)",
       "url": "https://open.spotify.com/track/5AU6psoPKvjkfgISTSrbCS"

@@ -4,7 +4,7 @@
 
 > The best French indie tracks right now\. Cover: blond
 
-329 songs - 18 hr 6 min
+331 songs - 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [Ghost story](https://open.spotify.com/track/1rYLirLvSfSo5jbbl7wHE5) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Ghost story](https://open.spotify.com/album/0NH6qv94SMwDOCyMoO9V6P) | 2:30 | 2023-02-23 | 2023-03-10 |
 | [Grande Vitesse](https://open.spotify.com/track/6NYeUwjXuC87QmqS6ymZe2) | [felio](https://open.spotify.com/artist/5pRdgTB9LGXmh9dTVhXSrL), [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [Julien Granel](https://open.spotify.com/artist/3VvDMiseFeokUqlLPXMh45) | [Grande Vitesse](https://open.spotify.com/album/2Xe7EhztOvwHzuUWvl6Xlk) | 3:21 | 2022-11-10 | 2022-12-02 |
 | [grapejuice](https://open.spotify.com/track/203Opyo455Pw6m4SCmQSVs) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [postcard from Berlin](https://open.spotify.com/album/4caQnHY05Lo2yrUmwgT6Ko) | 3:14 | 2022-02-03 | 2022-04-08 |
-| [Hail Mary](https://open.spotify.com/track/71fZrZ2MTPLRLPbMf8pT0F) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/61IFc4d4O5z2AReP8eI3Ay) | 2:49 | 2023-04-06 |  |
+| [Hail Mary](https://open.spotify.com/track/377M5cHQ9COyB8i9t3Hval) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte) | 2:49 | 2023-04-27 |  |
+| [Hail Mary](https://open.spotify.com/track/71fZrZ2MTPLRLPbMf8pT0F) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/61IFc4d4O5z2AReP8eI3Ay) | 2:49 | 2023-04-06 | 2023-04-30 |
 | [Havana](https://open.spotify.com/track/5ZJ2VXdJ6koG4m7uXptk0g) | [Montmartre](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Havana](https://open.spotify.com/album/3fqDwm0MNS2ZbXlH8MMJpr) | 2:42 | 2022-06-16 | 2022-07-15 |
 | [HEAR ME\. N2.23](https://open.spotify.com/track/7w77qLgJW3lhCuoVTKbOdC) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [HEAR ME\. N2.23](https://open.spotify.com/album/3EKIndqFsifqwrkP4kYYiQ) | 3:42 | 2023-04-20 |  |
 | [Hell of a Woman](https://open.spotify.com/track/3eLWqBJTgxWCmxrtxZdTzf) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [Hell of a Woman](https://open.spotify.com/album/0UxnbJFl2xtXdItxKUNcCL) | 3:36 | 2022-01-20 | 2022-02-25 |
@@ -305,7 +306,8 @@
 | [tous les jours](https://open.spotify.com/track/4FR0Xz7BzGqEXc8H735RRV) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [tous les jours](https://open.spotify.com/album/4mQLlXhguoJgAMH5mmTzwr) | 3:06 | 2023-04-13 |  |
 | [Tout m'ennuie](https://open.spotify.com/track/2tGnmde5psWfpwxjAApQ42) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Métamorphose](https://open.spotify.com/album/4oMACluGt3023RPODJv1ex) | 3:14 | 2022-11-10 | 2022-12-16 |
 | [Tout va bien](https://open.spotify.com/track/17FECd8IneHV65pCJduuse) | [roland decembre](https://open.spotify.com/artist/2UxITzDZ5wN79zzSiJ9KeK) | [Tout va bien](https://open.spotify.com/album/7ce6rlPWieH0zykGdlFRXA) | 3:11 | 2023-02-02 |  |
-| [Tramp Like You](https://open.spotify.com/track/2wWlrpVleWOYkOqhpkV2EJ) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Tramp Like You](https://open.spotify.com/album/21uaZE9JBRZDNHNouEO8Df) | 5:24 | 2023-01-19 |  |
+| [Tramp Like You](https://open.spotify.com/track/0rNww8SMuGZm8GkDWeHtLi) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte) | 5:24 | 2023-04-27 |  |
+| [Tramp Like You](https://open.spotify.com/track/2wWlrpVleWOYkOqhpkV2EJ) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Tramp Like You](https://open.spotify.com/album/21uaZE9JBRZDNHNouEO8Df) | 5:24 | 2023-01-19 | 2023-04-30 |
 | [True love \(feat\. 070 Shake\)](https://open.spotify.com/track/6PdUV3DjQAT4Hk9Hz7UNZ5) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [True love \(feat\. 070 Shake\)](https://open.spotify.com/album/21ZlnuYMvzSLNOAYWH318k) | 5:47 | 2023-04-20 |  |
 | [Trust Fall](https://open.spotify.com/track/5c7FvMWuOdaa2ZLvj67rsk) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [The Circle](https://open.spotify.com/album/133flpfpzLu7VJ6xGQLvR7) | 2:50 | 2022-11-24 | 2023-03-10 |
 | [Tu me manques](https://open.spotify.com/track/5l81POgmEdF2aUv0zcxSPa) | [Dorcas](https://open.spotify.com/artist/3obdKN8Eeq1nIMCjuDiusI) | [Tu me manques](https://open.spotify.com/album/1w8lNUAnjaUvKo9yHcE0Lb) | 2:58 | 2023-03-02 | 2023-04-21 |

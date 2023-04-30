@@ -1,12 +1,12 @@
 {
   "description": "Holiday classics from your favourite punks. Cover: The Linda Lindas",
-  "num_followers": 45779,
+  "num_followers": 45774,
   "original_name": "Punk Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjQ1NGM1YzZkYzRiNzNiNDcxZTU5YmE1NWFjY2IyYzY5YjlmZWM0",
+  "snapshot_id": "MCxhYzMwMmYwNTExMjQ1YzlmZTQ2MjNmNjgzNTBkMTY1ZjZlZWZhYjQ3",
   "tracks": [
     {
       "added_at": "2022-11-09 11:58:09",
@@ -809,6 +809,22 @@
       "url": "https://open.spotify.com/track/385QXeZY8UHFDde2FvFwuS"
     },
     {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "New Found Glory - 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/485PPCvKNtmAJBfzpyw3wk"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 217426,
+      "name": "Ex-Miss",
+      "url": "https://open.spotify.com/track/0GematrDvLx1cEh5tTZY4Y"
+    },
+    {
       "added_at": "2022-12-01 23:00:47",
       "album": {
         "name": "Lieder und Lametta",
@@ -823,22 +839,6 @@
       "duration_ms": 185973,
       "name": "Lieder und Lametta",
       "url": "https://open.spotify.com/track/46KSW1QTjZ0d6MuaRqduti"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
-        "name": "Punk Goes Christmas",
-        "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "Nothing For Christmas",
-      "url": "https://open.spotify.com/track/5zdyKroAn09fOqljE7ddIV"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -943,6 +943,22 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
+        "name": "Punk Goes Christmas",
+        "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "Nothing For Christmas",
+      "url": "https://open.spotify.com/track/5zdyKroAn09fOqljE7ddIV"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
         "name": "Christmas With Weezer",
         "url": "https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 92706,
       "name": "Hark! The Herald Angels Sing",
       "url": "https://open.spotify.com/track/6myYlIrIBlKhGxYpRwfh03"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
-        "name": "New Found Glory - 10th Anniversary Edition",
-        "url": "https://open.spotify.com/album/485PPCvKNtmAJBfzpyw3wk"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 217426,
-      "name": "Ex-Miss",
-      "url": "https://open.spotify.com/track/0GematrDvLx1cEh5tTZY4Y"
     },
     {
       "added_at": "2021-11-19 13:39:50",

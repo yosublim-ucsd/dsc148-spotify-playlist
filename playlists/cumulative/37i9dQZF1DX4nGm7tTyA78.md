@@ -4,7 +4,7 @@
 
 > Trap latino que alimenta tu espíritu\. Cover: Redimi2
 
-77 songs - 5 hr 6 min
+78 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Mi Fe](https://open.spotify.com/track/6MgUmPLVK2yvNDSAcL0D1d) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Oveja Entre Lobos](https://open.spotify.com/album/1jyexk1kGftS90IlYCTmat) | 3:56 | 2020-08-28 |  |
 | [Mira Mis Ojos](https://open.spotify.com/track/2irxXUAsqfg7atkXFnnBQu) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [¿Quién Contra Nosotros?](https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4) | 4:11 | 2020-08-28 |  |
 | [No Existe](https://open.spotify.com/track/10SMHUNB1vFqprgSPgpkVG) | [Abdi](https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6) | [No Existe](https://open.spotify.com/album/10gj19OpC25r3uCx0lB2hZ) | 4:10 | 2020-08-28 | 2022-07-29 |
-| [No Existe](https://open.spotify.com/track/5ohKZEW3iWauevBwCBLq4R) | [Abdi](https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6) | [No Existe](https://open.spotify.com/album/7sEzZRAMzM53HiEfsqtG4J) | 4:10 | 2020-08-28 |  |
+| [No Existe](https://open.spotify.com/track/4bK6jV6jIzoyksOipcKA4K) | [Abdi](https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6) | [No Existe](https://open.spotify.com/album/1LnSXoq8GRj8Mb1TWYa1Ro) | 4:10 | 2023-02-18 |  |
+| [No Existe](https://open.spotify.com/track/5ohKZEW3iWauevBwCBLq4R) | [Abdi](https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6) | [No Existe](https://open.spotify.com/album/7sEzZRAMzM53HiEfsqtG4J) | 4:10 | 2020-08-28 | 2023-04-30 |
 | [No Fallará](https://open.spotify.com/track/2eX4TGFna9BzppcUxnPCww) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM) | [No Fallará](https://open.spotify.com/album/57gGB5imNcp3Z8YZF2cm7S) | 4:41 | 2020-08-28 |  |
 | [No Fallará \(Remix\)](https://open.spotify.com/track/72XN9Vvud8SKkbWMsIvE15) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [No Fallará \(Remix\)](https://open.spotify.com/album/3b9P46dufcEVUm4TwrrTCf) | 6:20 | 2020-08-28 |  |
 | [No Lo Merezco](https://open.spotify.com/track/27aZifmFpZjZIvlablsEnt) | [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6), [Jeiby](https://open.spotify.com/artist/4CdUTFLGuzjwMGFHpziPBj), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [No Lo Merezco](https://open.spotify.com/album/3L2AyymWN8gptTDXXAwoiA) | 4:03 | 2020-08-28 | 2022-07-29 |

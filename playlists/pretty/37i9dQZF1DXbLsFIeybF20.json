@@ -1,12 +1,12 @@
 {
   "description": "Get into the spirit of New Orleans",
-  "num_followers": 141393,
+  "num_followers": 141404,
   "original_name": "New Orleans Brass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzhlYjcyOTgxNGJmN2JiMzhkNjczYTBhMDRmMmI4ODQ3MjU5NjRh",
+  "snapshot_id": "MCxmZTNhYTU4NmEzYWNjOGEwYmJiNjVhMDRhZGNhYjRmYjNkNWRkMDk3",
   "tracks": [
     {
       "added_at": "2021-04-26 16:53:52",
@@ -395,22 +395,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Sounds Of New Orleans Vol. 9",
-        "url": "https://open.spotify.com/album/7gXajj8o47ghF8VktDLN1T"
-      },
-      "artists": [
-        {
-          "name": "Kid Ory",
-          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
-        }
-      ],
-      "duration_ms": 288653,
-      "name": "Eh, La Bas",
-      "url": "https://open.spotify.com/track/4QG3OOfalKh8aKIPSeUAoG"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "New New Orleans Jazz",
         "url": "https://open.spotify.com/album/6zUIQ8O2SstCUlGHlw6N2K"
       },
@@ -427,18 +411,18 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Swing Out",
-        "url": "https://open.spotify.com/album/11kTqrVXvFnbB8nWwpLldc"
+        "name": "Sounds Of New Orleans Vol. 9",
+        "url": "https://open.spotify.com/album/7gXajj8o47ghF8VktDLN1T"
       },
       "artists": [
         {
-          "name": "Henry \"Red\" Allen",
-          "url": "https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf"
+          "name": "Kid Ory",
+          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
         }
       ],
-      "duration_ms": 173866,
-      "name": "You're Gonna Lose Your Gal",
-      "url": "https://open.spotify.com/track/1efoNOFSkLcLXVuxvINY7Z"
+      "duration_ms": 288653,
+      "name": "Eh, La Bas",
+      "url": "https://open.spotify.com/track/4QG3OOfalKh8aKIPSeUAoG"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -459,6 +443,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "Swing Out",
+        "url": "https://open.spotify.com/album/11kTqrVXvFnbB8nWwpLldc"
+      },
+      "artists": [
+        {
+          "name": "Henry \"Red\" Allen",
+          "url": "https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "You're Gonna Lose Your Gal",
+      "url": "https://open.spotify.com/track/1efoNOFSkLcLXVuxvINY7Z"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Best of New Orleans (Mardi Gras Indians)",
         "url": "https://open.spotify.com/album/2ePhoGYeyjsDw17HrDqlH8"
       },
@@ -471,22 +471,6 @@
       "duration_ms": 195586,
       "name": "Handa Wanda",
       "url": "https://open.spotify.com/track/2dq0Tb2mJLTxJKg0Q49CBu"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "The Complete Columbia Session 1946",
-        "url": "https://open.spotify.com/album/5mCUAqsJuZuwIN4jTTCEKi"
-      },
-      "artists": [
-        {
-          "name": "Kid Ory",
-          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
-        }
-      ],
-      "duration_ms": 150986,
-      "name": "The Bucket's Got a Hole in It",
-      "url": "https://open.spotify.com/track/6ZRsVuvtvim8tY5H3gWBxG"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -523,6 +507,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "The Complete Columbia Session 1946",
+        "url": "https://open.spotify.com/album/5mCUAqsJuZuwIN4jTTCEKi"
+      },
+      "artists": [
+        {
+          "name": "Kid Ory",
+          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
+        }
+      ],
+      "duration_ms": 150986,
+      "name": "The Bucket's Got a Hole in It",
+      "url": "https://open.spotify.com/track/6ZRsVuvtvim8tY5H3gWBxG"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Jazz At Preservation Hall: The George Lewis Band Of New Orleans",
         "url": "https://open.spotify.com/album/41UDq2SYKbcG4RoNbdreuu"
       },
@@ -535,38 +535,6 @@
       "duration_ms": 219666,
       "name": "Careless Love",
       "url": "https://open.spotify.com/track/5pIopYQV6wCCPEKa8k712A"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Our New Orleans (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
-      },
-      "artists": [
-        {
-          "name": "Dr. Michael White",
-          "url": "https://open.spotify.com/artist/0kLwjA9HRcm5JpGjllF4f8"
-        }
-      ],
-      "duration_ms": 220080,
-      "name": "Canal Street Blues",
-      "url": "https://open.spotify.com/track/4sI6AMoEpP5JH6oRrmDy2Q"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "The Complete Hot Five And Hot Seven Recordings Volume 3",
-        "url": "https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong & His Hot Five",
-          "url": "https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S"
-        }
-      ],
-      "duration_ms": 182600,
-      "name": "Hotter Than That",
-      "url": "https://open.spotify.com/track/7ui11djxhp7WL4NCHlET8O"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -587,6 +555,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "Our New Orleans (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
+      },
+      "artists": [
+        {
+          "name": "Dr. Michael White",
+          "url": "https://open.spotify.com/artist/0kLwjA9HRcm5JpGjllF4f8"
+        }
+      ],
+      "duration_ms": 220080,
+      "name": "Canal Street Blues",
+      "url": "https://open.spotify.com/track/4sI6AMoEpP5JH6oRrmDy2Q"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Ultimate Mardi Gras",
         "url": "https://open.spotify.com/album/0RxbmfEfbaSsHmE4E5lWZb"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 201146,
       "name": "Mardi Gras In New Orleans",
       "url": "https://open.spotify.com/track/0QR95uiVATqSNRqu9PN3Hc"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "The Complete Hot Five And Hot Seven Recordings Volume 3",
+        "url": "https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong & His Hot Five",
+          "url": "https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S"
+        }
+      ],
+      "duration_ms": 182600,
+      "name": "Hotter Than That",
+      "url": "https://open.spotify.com/track/7ui11djxhp7WL4NCHlET8O"
     },
     {
       "added_at": "2021-04-26 16:53:52",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 
 > Relax to the sound of gentle instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,464,567 likes - 136 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,464,920 likes - 136 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 22 | [Ballade for the Very Sad and Very Tired Lotus Eaters](https://open.spotify.com/track/7CxYBXp6hBFnnyYm7ivNCd) | [Owen Broder](https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy) | [Hodges: Front and Center, Vol\. 1](https://open.spotify.com/album/0RzxAxiOOJgClVialkdLmD) | 4:13 |
 | 23 | [Ruth](https://open.spotify.com/track/6uW9fBqgj2IWaNZ7Zf6ZQD) | [Joe Chambers](https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4) | [Ruth](https://open.spotify.com/album/22Uhpy2m5IDujOiJvhorly) | 4:11 |
 | 24 | [Seneca Village](https://open.spotify.com/track/5DvysWYH5vykA6l2PxzhjH) | [Jakob Dreyer](https://open.spotify.com/artist/4YozGMNyLJYo3Iq53bDUSs), [Jimmy Macbride](https://open.spotify.com/artist/1W6vCfWWnL6VDvZJHpjh3i), [Jason Rigby](https://open.spotify.com/artist/16qoe2tnMAMcq98rnKvAoR), [Jon Cowherd](https://open.spotify.com/artist/1CfUXWkyKLaI4IyJ6ul9NE) | [Songs, Hymns and Ballads, Vol\. 1](https://open.spotify.com/album/4kEDYta5VLbR0Zed7lhYeM) | 6:10 |
-| 25 | [Future Memories](https://open.spotify.com/track/2uWwde69YzmzTOkIz9et5u) | [Mareike Wiening](https://open.spotify.com/artist/5n2ZOxo4Dw6CcurZPIYlG9), [Rich Perry](https://open.spotify.com/artist/1TaMCGjRuinPW6jdc5sguu), [Glenn Zaleski](https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W), [Alex Goodman](https://open.spotify.com/artist/4akWuEzOy4ATwXu16fc7m3), [Johannes Felscher](https://open.spotify.com/artist/2RYXsAepfcxTMiShkD42pd) | [Future Memories](https://open.spotify.com/album/3eIXcODghIvpdGpBZHDhHB) | 6:04 |
+| 25 | [Future Memories](https://open.spotify.com/track/40468yGCyxHIbr2CWFa18s) | [Mareike Wiening](https://open.spotify.com/artist/5n2ZOxo4Dw6CcurZPIYlG9), [Rich Perry](https://open.spotify.com/artist/1TaMCGjRuinPW6jdc5sguu), [Glenn Zaleski](https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W), [Alex Goodman](https://open.spotify.com/artist/4akWuEzOy4ATwXu16fc7m3), [Johannes Felscher](https://open.spotify.com/artist/2RYXsAepfcxTMiShkD42pd) | [Future Memories](https://open.spotify.com/album/5eMHu66v8LQulaqsm2p2gA) | 6:04 |
 | 26 | [It's You I Like](https://open.spotify.com/track/78pcTFrKHHttuJedO00g8j) | [Mason Embry Trio](https://open.spotify.com/artist/3CAwTtzAtzwR6grP0UR2H5) | [It's You I Like](https://open.spotify.com/album/0HndGWelRVWNQkdiPrhXna) | 4:46 |
 | 27 | [Round Midnight](https://open.spotify.com/track/5DlGJh3S6jYf0wZAiESvwA) | [The Mellowtones](https://open.spotify.com/artist/00Riinu1dD4y04vDPULBE6) | [Round Midnight](https://open.spotify.com/album/4LgeBu2FmDL9nakgrReCuH) | 5:01 |
 | 28 | [The Rose Tattoo](https://open.spotify.com/track/3RjbEoLYFuyFj4DaDhR6LA) | [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR), [Dave Blenkhorn](https://open.spotify.com/artist/2PnXjyP9d0S0qW7XL8SIvh), [MIKE KARN](https://open.spotify.com/artist/5mkudOQ2e9XucYqI0QOFmg), [QUENTIN BAXTER](https://open.spotify.com/artist/3Y89pBxhMVkFWtkA62yAPU) | [My Reverie by Special Request](https://open.spotify.com/album/2xzK7J9946vwEkARgbEUQk) | 4:54 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 135 | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/track/3ZnPVp4Frub6UadiiiGDD9) | [Rolf Kühn](https://open.spotify.com/artist/73xPAo16RiiVu6X90p7UVb) | [Yellow + Blue](https://open.spotify.com/album/4HENgrWOdYVohdxPJXIK0H) | 7:56 |
 | 136 | [Doubts 2](https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Wind](https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI) | 4:54 |
 
-Snapshot ID: `MCxjN2VjMjM1ZmNiNzA2MzY2MjJjYzdjZjgxMzg3ZGM4MjRkY2VjODI5`
+Snapshot ID: `MCwyMWRiYjU0ZWI1MjIyMDg1N2IxODY3YjczYWNmOWI4YjMwNTRhNDJh`

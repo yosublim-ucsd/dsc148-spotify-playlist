@@ -346,10 +346,28 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 290778,
       "name": "Cocky",
       "url": "https://open.spotify.com/track/108H1bXtmIVHFkh2geKFt9"
+    },
+    {
+      "album": {
+        "name": "Cocky",
+        "url": "https://open.spotify.com/album/1G9wCQ0maje1EMpManZZ6M"
+      },
+      "artists": [
+        {
+          "name": "Lotic",
+          "url": "https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290778,
+      "name": "Cocky",
+      "url": "https://open.spotify.com/track/3UwPb3pdpSN0cUxl4XGpO2"
     },
     {
       "album": {
@@ -376,7 +394,7 @@
     {
       "album": {
         "name": "Water",
-        "url": "https://open.spotify.com/album/7neio4srvDRACrUSTdpMMf"
+        "url": "https://open.spotify.com/album/2D5DPrv69Besl8VmuQENg9"
       },
       "artists": [
         {
@@ -387,6 +405,24 @@
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 327533,
+      "name": "Come Unto Me",
+      "url": "https://open.spotify.com/track/4wsnl8vM0OvOj2a2KLY4yc"
+    },
+    {
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/7neio4srvDRACrUSTdpMMf"
+      },
+      "artists": [
+        {
+          "name": "Lotic",
+          "url": "https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 327533,
       "name": "Come Unto Me",
       "url": "https://open.spotify.com/track/5pyaHaySKoujQJPepKrzJG"
@@ -848,7 +884,7 @@
     {
       "album": {
         "name": "Radio Unnameable",
-        "url": "https://open.spotify.com/album/1J82F4sktKDOiKBtOu7Xmj"
+        "url": "https://open.spotify.com/album/60FXurMhSi2BMg3zrs4mhO"
       },
       "artists": [
         {
@@ -859,6 +895,24 @@
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 215000,
+      "name": "History Hum",
+      "url": "https://open.spotify.com/track/0015PJhPr5d6TPsEik8Gq7"
+    },
+    {
+      "album": {
+        "name": "Radio Unnameable",
+        "url": "https://open.spotify.com/album/1J82F4sktKDOiKBtOu7Xmj"
+      },
+      "artists": [
+        {
+          "name": "Yantan Ministry",
+          "url": "https://open.spotify.com/artist/01AjwwrgGUCdqlN6UynMO0"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 215000,
       "name": "History Hum",
       "url": "https://open.spotify.com/track/64SkUAXJ0Nqqfs9HikTowR"
@@ -2110,6 +2164,24 @@
     {
       "album": {
         "name": "a journey...",
+        "url": "https://open.spotify.com/album/6pMGKI2cCAyGxJJz1a8z3M"
+      },
+      "artists": [
+        {
+          "name": "Hinako Omori",
+          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177280,
+      "name": "The Richest Garden in your Memory",
+      "url": "https://open.spotify.com/track/1NnmRSDbEyJmeC7gufEOiw"
+    },
+    {
+      "album": {
+        "name": "a journey...",
         "url": "https://open.spotify.com/album/3H7S86kkmy5zKqw7DTmULR"
       },
       "artists": [
@@ -2120,7 +2192,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 177280,
       "name": "The Richest Garden in your Memory",
       "url": "https://open.spotify.com/track/5Snt7YJiJj5kGd1mSOiQtg"

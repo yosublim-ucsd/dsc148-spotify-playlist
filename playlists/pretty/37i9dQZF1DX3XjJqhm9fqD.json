@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Tafa Mi-Soleil",
-  "num_followers": 76673,
+  "num_followers": 76704,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTdiOGFlY2ZmNzcwMGEwNDVjNTJiYzlhZDQ4NzhkMzE1Njc5MzQw",
+  "snapshot_id": "MCwzMDA0ZmRmZWFhMjAwZjhhNzI0MTllOTZkYjk0MGFkYjg5ZTlkNDIz",
   "tracks": [
     {
       "added_at": "2023-03-17 20:33:35",
@@ -899,26 +899,6 @@
     {
       "added_at": "2023-03-17 20:33:35",
       "album": {
-        "name": "Soft Power",
-        "url": "https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ"
-      },
-      "artists": [
-        {
-          "name": "Poirier",
-          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
-        },
-        {
-          "name": "Coralie H\u00e9rard",
-          "url": "https://open.spotify.com/artist/3IfmJG3XCLi3hLhwO53eFR"
-        }
-      ],
-      "duration_ms": 194976,
-      "name": "Nou Pare",
-      "url": "https://open.spotify.com/track/4MnggOv6w9gmdSlVTukec6"
-    },
-    {
-      "added_at": "2023-03-17 20:33:35",
-      "album": {
         "name": "BIDIBAM",
         "url": "https://open.spotify.com/album/0m5LrWTafT6BEg1BPe8jYI"
       },
@@ -1031,6 +1011,22 @@
     {
       "added_at": "2023-03-17 20:33:35",
       "album": {
+        "name": "Dekonekte",
+        "url": "https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H"
+      },
+      "artists": [
+        {
+          "name": "Florence El Luche",
+          "url": "https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1"
+        }
+      ],
+      "duration_ms": 226560,
+      "name": "Dekonekte",
+      "url": "https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj"
+    },
+    {
+      "added_at": "2023-03-17 20:33:35",
+      "album": {
         "name": "Love a Plein Temps",
         "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
       },
@@ -1059,54 +1055,6 @@
       "duration_ms": 102466,
       "name": "Imamou Lele",
       "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
-    },
-    {
-      "added_at": "2023-03-17 20:33:35",
-      "album": {
-        "name": "Dekonekte",
-        "url": "https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H"
-      },
-      "artists": [
-        {
-          "name": "Florence El Luche",
-          "url": "https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "Dekonekte",
-      "url": "https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj"
-    },
-    {
-      "added_at": "2023-03-17 20:33:35",
-      "album": {
-        "name": "HaitiaNola",
-        "url": "https://open.spotify.com/album/6qyni7DUo0TiA0a7c25i0z"
-      },
-      "artists": [
-        {
-          "name": "Lakou Mizik",
-          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
-        },
-        {
-          "name": "Win Butler",
-          "url": "https://open.spotify.com/artist/0U6vKLFxTuknSOGYcekAEN"
-        },
-        {
-          "name": "Regine Chassagne",
-          "url": "https://open.spotify.com/artist/5nkd17szLOkZkep9NoJulB"
-        },
-        {
-          "name": "Preservation Hall Jazz Band",
-          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
-        },
-        {
-          "name": "79rs Gang",
-          "url": "https://open.spotify.com/artist/2yQlvcbmpqAVYrWs2ALKVX"
-        }
-      ],
-      "duration_ms": 182490,
-      "name": "Iko Krey\u00f2l",
-      "url": "https://open.spotify.com/track/03CJWFdzzudh5nGiMQNmgs"
     },
     {
       "added_at": "2023-03-17 20:33:35",
@@ -1143,22 +1091,34 @@
     {
       "added_at": "2023-03-17 20:33:35",
       "album": {
-        "name": "Trap King",
-        "url": "https://open.spotify.com/album/5P5jwxaRvA0i64gOJoNpvK"
+        "name": "HaitiaNola",
+        "url": "https://open.spotify.com/album/6qyni7DUo0TiA0a7c25i0z"
       },
       "artists": [
         {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+          "name": "Lakou Mizik",
+          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
         },
         {
-          "name": "Phyllisia Ross",
-          "url": "https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe"
+          "name": "Win Butler",
+          "url": "https://open.spotify.com/artist/0U6vKLFxTuknSOGYcekAEN"
+        },
+        {
+          "name": "Regine Chassagne",
+          "url": "https://open.spotify.com/artist/5nkd17szLOkZkep9NoJulB"
+        },
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        },
+        {
+          "name": "79rs Gang",
+          "url": "https://open.spotify.com/artist/2yQlvcbmpqAVYrWs2ALKVX"
         }
       ],
-      "duration_ms": 186857,
-      "name": "Fanm Ch\u00e8",
-      "url": "https://open.spotify.com/track/5TzWub3nCAAcVZxLSELohS"
+      "duration_ms": 182490,
+      "name": "Iko Krey\u00f2l",
+      "url": "https://open.spotify.com/track/03CJWFdzzudh5nGiMQNmgs"
     },
     {
       "added_at": "2023-03-17 20:33:35",
@@ -1179,6 +1139,26 @@
       "duration_ms": 196433,
       "name": "P's & Q's",
       "url": "https://open.spotify.com/track/5CAypUTNSzVrZlMDirnVqx"
+    },
+    {
+      "added_at": "2023-03-17 20:33:35",
+      "album": {
+        "name": "Trap King",
+        "url": "https://open.spotify.com/album/5P5jwxaRvA0i64gOJoNpvK"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        },
+        {
+          "name": "Phyllisia Ross",
+          "url": "https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe"
+        }
+      ],
+      "duration_ms": 186857,
+      "name": "Fanm Ch\u00e8",
+      "url": "https://open.spotify.com/track/5TzWub3nCAAcVZxLSELohS"
     },
     {
       "added_at": "2023-03-17 20:33:35",
@@ -1207,22 +1187,6 @@
     {
       "added_at": "2023-03-17 20:33:35",
       "album": {
-        "name": "Te revoir",
-        "url": "https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc"
-      },
-      "artists": [
-        {
-          "name": "Waahli",
-          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
-        }
-      ],
-      "duration_ms": 205030,
-      "name": "Te revoir",
-      "url": "https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0"
-    },
-    {
-      "added_at": "2023-03-17 20:33:35",
-      "album": {
         "name": "Ram 6: Manmanm Se Ginen",
         "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
       },
@@ -1235,6 +1199,22 @@
       "duration_ms": 183333,
       "name": "Mpral D\u00f2mi Nan Simity\u00e8",
       "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
+    },
+    {
+      "added_at": "2023-03-17 20:33:35",
+      "album": {
+        "name": "Te revoir",
+        "url": "https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc"
+      },
+      "artists": [
+        {
+          "name": "Waahli",
+          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
+        }
+      ],
+      "duration_ms": 205030,
+      "name": "Te revoir",
+      "url": "https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0"
     },
     {
       "added_at": "2023-03-17 20:33:35",
@@ -1259,6 +1239,22 @@
     {
       "added_at": "2023-03-17 20:33:35",
       "album": {
+        "name": "Sote",
+        "url": "https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx"
+      },
+      "artists": [
+        {
+          "name": "Kelly Krow",
+          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Sote",
+      "url": "https://open.spotify.com/track/4J8sOc2MDhfyYfiSMfCHP8"
+    },
+    {
+      "added_at": "2023-03-17 20:33:35",
+      "album": {
         "name": "LAKAY",
         "url": "https://open.spotify.com/album/38ScE9rpyWOTkJtkqRlMTM"
       },
@@ -1279,18 +1275,18 @@
     {
       "added_at": "2023-03-17 20:33:35",
       "album": {
-        "name": "Sote",
-        "url": "https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx"
+        "name": "Can't Catch Me",
+        "url": "https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK"
       },
       "artists": [
         {
-          "name": "Kelly Krow",
-          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
+          "name": "Jessie Woo",
+          "url": "https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL"
         }
       ],
-      "duration_ms": 148000,
-      "name": "Sote",
-      "url": "https://open.spotify.com/track/4J8sOc2MDhfyYfiSMfCHP8"
+      "duration_ms": 229991,
+      "name": "Can't Catch Me",
+      "url": "https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C"
     },
     {
       "added_at": "2023-03-17 20:33:35",
@@ -1315,22 +1311,6 @@
       "duration_ms": 252000,
       "name": "Na Va W\u00e8 Yo",
       "url": "https://open.spotify.com/track/1aEHivhKcjk3DHig271xzA"
-    },
-    {
-      "added_at": "2023-03-17 20:33:35",
-      "album": {
-        "name": "Can't Catch Me",
-        "url": "https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK"
-      },
-      "artists": [
-        {
-          "name": "Jessie Woo",
-          "url": "https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL"
-        }
-      ],
-      "duration_ms": 229991,
-      "name": "Can't Catch Me",
-      "url": "https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C"
     },
     {
       "added_at": "2023-03-17 20:33:35",
@@ -1683,26 +1663,6 @@
     {
       "added_at": "2023-03-17 20:33:35",
       "album": {
-        "name": "Stupid Love",
-        "url": "https://open.spotify.com/album/2aoXCzIhcDxTqIOLMsAry0"
-      },
-      "artists": [
-        {
-          "name": "J. Sevad",
-          "url": "https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3"
-        },
-        {
-          "name": "BlecksFlex",
-          "url": "https://open.spotify.com/artist/1SNw0zDkQlw3cqLdRJIzal"
-        }
-      ],
-      "duration_ms": 164607,
-      "name": "Stupid Love",
-      "url": "https://open.spotify.com/track/117rvx2RMaHQLolRRI5gex"
-    },
-    {
-      "added_at": "2023-03-17 20:33:35",
-      "album": {
         "name": "Koup\u00e9",
         "url": "https://open.spotify.com/album/0wDhbYYG03ApoFYKwtFpZI"
       },
@@ -1727,6 +1687,26 @@
     {
       "added_at": "2023-03-17 20:33:35",
       "album": {
+        "name": "Stupid Love",
+        "url": "https://open.spotify.com/album/2aoXCzIhcDxTqIOLMsAry0"
+      },
+      "artists": [
+        {
+          "name": "J. Sevad",
+          "url": "https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3"
+        },
+        {
+          "name": "BlecksFlex",
+          "url": "https://open.spotify.com/artist/1SNw0zDkQlw3cqLdRJIzal"
+        }
+      ],
+      "duration_ms": 164607,
+      "name": "Stupid Love",
+      "url": "https://open.spotify.com/track/117rvx2RMaHQLolRRI5gex"
+    },
+    {
+      "added_at": "2023-03-17 20:33:35",
+      "album": {
         "name": "Family",
         "url": "https://open.spotify.com/album/7vOv0fgzJ60IIDOAmqDRY3"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 188368,
       "name": "Family",
       "url": "https://open.spotify.com/track/0T1U4AfxwwJgVjBrVVlrB0"
+    },
+    {
+      "added_at": "2023-03-17 20:33:35",
+      "album": {
+        "name": "Soft Power",
+        "url": "https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW"
+      },
+      "artists": [
+        {
+          "name": "Poirier",
+          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
+        },
+        {
+          "name": "Coralie H\u00e9rard",
+          "url": "https://open.spotify.com/artist/3IfmJG3XCLi3hLhwO53eFR"
+        }
+      ],
+      "duration_ms": 194976,
+      "name": "Nou Pare",
+      "url": "https://open.spotify.com/track/1MlKmqvA2LonoOif1Kgq5y"
     }
   ],
   "unique_name": "Haitian Heat",

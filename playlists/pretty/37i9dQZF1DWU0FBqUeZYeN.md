@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 
 > From '56 to '76 \- the original volcanic revolutionaries from Rock 'n' Roll, Garage, Psych, Trash, Kraut, Glam and Prog...
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,176 likes - 131 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,307 likes - 131 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 58 | [I'm Eighteen](https://open.spotify.com/track/3YU9X8ryOR20beT7wOlDIJ) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Love It to Death](https://open.spotify.com/album/6p7jHbG5Bd6z2JgfKx0um7) | 3:00 |
 | 59 | [Crosstown Traffic](https://open.spotify.com/track/1ntxpzIUbSsizvuAy6lTYY) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 2:26 |
 | 60 | [I'm a Bug](https://open.spotify.com/track/5g9utKqn0nJQr1MVvGbVCy) | [Urinals](https://open.spotify.com/artist/0fWJsXOUH83NNlUuVcszVK) | [Negative Capability...Check it Out!](https://open.spotify.com/album/1UN3YfkaEQN2b5qqis1J0H) | 1:12 |
-| 61 | [Search And Destroy](https://open.spotify.com/track/7bebHZwpRnV1r2CDsuApgD) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [A Million In Prizes: Iggy Pop Anthology \(Edited Version\)](https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg) | 3:29 |
+| 61 | [Search & Destroy](https://open.spotify.com/track/3X9fXH0FzBloyaUkz5qr0C) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Nude & Rude: The Best Of Iggy](https://open.spotify.com/album/6akbXeeYHLDS4DpP7IVJ67) | 3:26 |
 | 62 | [Dirty Water](https://open.spotify.com/track/3NINDFPIYnyT26cWWRomOQ) | [The Standells](https://open.spotify.com/artist/4BM6qze88exQPVILQpcYpj) | [Dirty Water \(Expanded Edition\)](https://open.spotify.com/album/621zErvBJeovty6dAx4PDn) | 2:47 |
 | 63 | [Needles In The Camel's Eye \- 2004 Digital Remaster](https://open.spotify.com/track/79oH2M0vWq9bRYpNTCrlHu) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Here Come The Warm Jets](https://open.spotify.com/album/74jn28Kr29iyh8eZXSvnwi) | 3:11 |
 | 64 | [We're Pretty Quick](https://open.spotify.com/track/0hoVOqZJefCa82xfC91Kr7) | [The Chob](https://open.spotify.com/artist/6ob2BuDopHhOgjLascXxLH) | [Sixties Archives, Vol\. 4: Florida & New Mexico Punk](https://open.spotify.com/album/1n0FH0bBSkSu6kDElKCeNa) | 2:24 |
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 121 | [Rumble](https://open.spotify.com/track/5W45ACJYATjWEwUDYM5TDi) | [Link Wray & The Wraymen](https://open.spotify.com/artist/6PnWx4EpoWejrFQfrg06hU) | [Rumble / The Swag](https://open.spotify.com/album/70hzJHg6pWndTe9lm4SZVB) | 2:27 |
 | 122 | [I Don’t Mind \(1965\)](https://open.spotify.com/track/2z7pYFxOeSJbsNuQxW4XvR) | [MC5](https://open.spotify.com/artist/4WquJweZPIK9qcfVFhTKvf) | [The Anthology 1965\-1971](https://open.spotify.com/album/6dQ1UaaiYqkubZz0QscTfG) | 3:02 |
 | 123 | [Great Balls Of Fire](https://open.spotify.com/track/64VP3skE86iTvdOlbzuIcO) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Jerry Lee's Greatest](https://open.spotify.com/album/02FCCye8QsWyjHwedg9Quj) | 1:51 |
-| 124 | [Primitive](https://open.spotify.com/track/0HrlxL4mc9bZID89SqUp2u) | [The Groupies](https://open.spotify.com/artist/4ngoUfa27SIb0Xytpvml6r) | [Primitive](https://open.spotify.com/album/2o9H4BuxkeSOaUuM3bxCQv) | 3:32 |
+| 124 | [Primitive](https://open.spotify.com/track/4KT9Nd36rXPdTStMWlXrP0) | [The Groupies](https://open.spotify.com/artist/4ngoUfa27SIb0Xytpvml6r) | [Primitive](https://open.spotify.com/album/6smtmuOX6WDqBYuYlxA4wB) | 3:32 |
 | 125 | [Action Woman](https://open.spotify.com/track/08T9ONipiFiuJSoXm8vag3) | [The Litter](https://open.spotify.com/artist/6wvtyGNtNtLlkHONVzOocm) | [Distortions](https://open.spotify.com/album/1jNPpX5H1F1xJNQR8Xe2CF) | 2:34 |
 | 126 | [My Woman](https://open.spotify.com/track/5mMMmstf9c6JPCWoAoLhAV) | [Woody Carr and the El Caminos](https://open.spotify.com/artist/5pGfpJyouNzLhKTJNUZbud) | [Shout! \- Northwest Killers, Vol\. 2](https://open.spotify.com/album/7iGmEkuK1SPpiEsqcO6TIW) | 2:24 |
 | 127 | [I Put a Spell On You](https://open.spotify.com/track/7rCchsJktyFH0MB5SIpnbN) | [Screamin' Jay Hawkins](https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z) | [Cow Fingers And Mosquito Pie](https://open.spotify.com/album/16nzhLsiR9jdeDmifDz4pQ) | 2:25 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 130 | [She's About a Mover](https://open.spotify.com/track/6ZYvCY3zyajhHunwbDrCtx) | [Sir Douglas Quintet](https://open.spotify.com/artist/3A2UXqQgMDJ3YNvLPyX5NW) | [Walking the Streets](https://open.spotify.com/album/17MHW0ENg57rfMGXYtNkvV) | 2:25 |
 | 131 | [I Can't Control Myself \(Rerecorded\)](https://open.spotify.com/track/2ISCW0bzi9Zsv6eKCqXVZq) | [The Troggs](https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25) | [This Is the Troggs \(Rerecorded\)](https://open.spotify.com/album/2Co201A4jYUYrDtrmReNJD) | 3:06 |
 
-Snapshot ID: `MCw4N2M5ODc3MjU5ZTc1NTA2NTExNjE0ZTFkN2ZjOWMyZmEzNTM2ODgy`
+Snapshot ID: `MCxiZjI1MmQyY2RkNzYxYzBhNTYwOGI2NGI2Mzk4YTQyN2IyN2Y1YTdm`

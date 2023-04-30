@@ -4,7 +4,7 @@
 
 > bossa vibes and a romantic daydream
 
-61 songs - 3 hr 4 min
+62 songs - 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Drunk On A Flight](https://open.spotify.com/track/61gNWcpFdezb20Oc4uMrr6) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 3:02 | 2023-03-31 |  |
 | [Drunk On A Flight](https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk) | 3:02 | 2023-01-20 | 2023-04-20 |
 | [Embrasse Moi](https://open.spotify.com/track/4TVGPGXdzaVUMSucKxOMQu) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Clementine](https://open.spotify.com/artist/5TjiHAfGCJuUsTyAg9Z5fx) | [Embrasse Moi](https://open.spotify.com/album/4YZ6qaWOYDkgtRnWJlkrhW) | 2:57 | 2023-01-06 |  |
-| [Entre nous](https://open.spotify.com/track/6O3ksAhy0XOhf48pmz23bR) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Entre nous](https://open.spotify.com/album/6NT4HEyfM1QmvoUguE0EHf) | 2:59 | 2023-01-06 |  |
+| [Entre nous](https://open.spotify.com/track/6O3ksAhy0XOhf48pmz23bR) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Entre nous](https://open.spotify.com/album/6NT4HEyfM1QmvoUguE0EHf) | 2:59 | 2023-01-06 | 2023-04-30 |
+| [Entre nous](https://open.spotify.com/track/7bmtlgtRezmSH5vgDGzQig) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Entre nous](https://open.spotify.com/album/5akgQYFjwmGCfmedpgl53C) | 2:59 | 2023-03-31 |  |
 | [espresso](https://open.spotify.com/track/0VNcFGQjN7huUyEPwBtksC) | [wüsh](https://open.spotify.com/artist/4UpdjtYWiLUuaFT18TefcK), [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt), [Lucy Weld](https://open.spotify.com/artist/0YnLefkesxcihbTtIG0iyZ) | [Mountain Tops](https://open.spotify.com/album/5A1axIYldvItf7MvKe5mGl) | 1:32 | 2023-01-06 |  |
 | [Falling Behind](https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:53 | 2023-01-06 |  |
 | [Falling for U](https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Falling for U](https://open.spotify.com/album/3PUmELve1Jt5EdFU6cv8Hb) | 2:04 | 2023-01-06 |  |

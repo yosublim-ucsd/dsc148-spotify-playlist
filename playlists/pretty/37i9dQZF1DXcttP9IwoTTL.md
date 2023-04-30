@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 
 > <a href="spotify:artist:3AN049igIAaoX0fjTCkpnf">Jennifer Cardini</a>'s favorite tracks\. Updated regularly\. Curated by Jennifer Cardini\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,065 likes - 70 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,078 likes - 70 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 16 | [Voces](https://open.spotify.com/track/2lBsdvf8cV5q4nYwJ1IuBU) | [DC Salas](https://open.spotify.com/artist/5Je9stfFSgHo3TZgyOPsUw) | [Voces](https://open.spotify.com/album/2E9PwugV2edY5ywceP2rrS) | 5:58 |
 | 17 | [Come To Me \(Club Mix\)](https://open.spotify.com/track/34ctIzLFt4bg4VmYIEarqk) | [Kendal](https://open.spotify.com/artist/2NJZShOescj4yIvO1d4yiV) | [Come To Me](https://open.spotify.com/album/7LTeeI6IKpbbdZs3IVMBoL) | 5:10 |
 | 18 | [Ending Pleasure](https://open.spotify.com/track/0JwbZycYEazbWdWdvg8TMI) | [Austher](https://open.spotify.com/artist/7wIFWynyze6hrfiS6Y948P) | [Resilience](https://open.spotify.com/album/4wz8En0ilzRkaqpEwXmHbm) | 6:31 |
-| 19 | [Look Like A Man](https://open.spotify.com/track/3LWFZuZWSbz3ZqOFUMY6ZA) | [Decius](https://open.spotify.com/artist/61VfHXWMs8Am1Sg5HeFbJw), [Lias Saoudi](https://open.spotify.com/artist/2FbxiFPYUwfms4iboZw7l4) | [Decius Vol\. I](https://open.spotify.com/album/2UFaxoG81dm4rBoA8MWfu9) | 3:56 |
+| 19 | [Look Like A Man](https://open.spotify.com/track/7rQq06VOCezKyfA2pV2HUr) | [Decius](https://open.spotify.com/artist/61VfHXWMs8Am1Sg5HeFbJw), [Lias Saoudi](https://open.spotify.com/artist/2FbxiFPYUwfms4iboZw7l4) | [Decius Vol\. I](https://open.spotify.com/album/2bFXQyPnVlhL17xXToDi6z) | 3:56 |
 | 20 | [Setsi](https://open.spotify.com/track/124y20EnmyTZREoAlujP9I) | [Iñigo Vontier](https://open.spotify.com/artist/46102Rmv7OVlBvNRnH3fj2) | [Setsi](https://open.spotify.com/album/3q7vKEZApzvSfmP1U3trdI) | 7:11 |
 | 21 | [That Beat In My Heart](https://open.spotify.com/track/0dUdoU9lyCDxwkMskVIxUw) | [Infravision](https://open.spotify.com/artist/3cUeIGkhrVqzKVBqFqwpvs), [Pablo Bozzi](https://open.spotify.com/artist/4DZM1e3XBfgjFkQkR1LKQL), [Kendal](https://open.spotify.com/artist/2NJZShOescj4yIvO1d4yiV) | [That Beat In My Heart](https://open.spotify.com/album/6thcMl1XeXBaTiffSoSKz1) | 6:56 |
 | 22 | [Your Last Everything, Pt\. 2](https://open.spotify.com/track/2m2vYIvYrv8MKWIhnOLj6z) | [Soft Crash](https://open.spotify.com/artist/5Bn023TbDEhuYVvib0B2Dy) | [Your Last Everything](https://open.spotify.com/album/22CxZxYaYZXfgixwP6IphA) | 5:14 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 69 | [Love Love Love](https://open.spotify.com/track/5S1drMAStkabK0PZsOkfiE) | [Lauren Duffus](https://open.spotify.com/artist/0jYQCtRXU4qVKfMjqnn05l) | [Love Love Love](https://open.spotify.com/album/5GuOoK1aW5vLiMQA33OLPN) | 2:49 |
 | 70 | [偶像包袱 \(Idol Baggage\)](https://open.spotify.com/track/4XnV6Oe22R9ofb3tnXH5HP) | [Tzusing](https://open.spotify.com/artist/7Ifvnt1HhJ0b1QwOxLAu2s) | [绿帽 Green Hat](https://open.spotify.com/album/4ly0DCSbwqgvQtaYum7RAD) | 3:45 |
 
-Snapshot ID: `MCwxNzMwNDdkZGE5NDc5NTczNmUzNzYxNTZkMzE5MDBlZmRiYTNiZDNm`
+Snapshot ID: `MCw4MTE1NTA5NjQ4NTE0M2JmN2ExZjkwN2Y3ZjUzYmI2MDU4MDhjYjQ4`

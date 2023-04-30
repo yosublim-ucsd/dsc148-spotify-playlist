@@ -4,7 +4,7 @@
 
 > Slow down and embrace the immensity of time\. This is just an ambient blip in the long now.
 
-349 songs - 5 day 11 hr 13 min
+351 songs - 5 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,8 @@
 | [Le Renard Bleu](https://open.spotify.com/track/49pI7si7fM2aJ2nUIQ6kyE) | [Midori Takada](https://open.spotify.com/artist/3fuab64Hf1xiRGocX1sT1n), [Lafawndah](https://open.spotify.com/artist/7jHWye55igIZ6SsF4eXKkP) | [Le Renard Bleu](https://open.spotify.com/album/5AxPYT28q94Wv5hxSJGqxJ) | 20:09 | 2022-05-25 | 2022-07-29 |
 | [Lear](https://open.spotify.com/track/58tXLPg2DQsrg5ts5CqWrR) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi), [Stuart Dempster](https://open.spotify.com/artist/174yhQdHRtoWDlvtZ15NuK), [Panaiotis](https://open.spotify.com/artist/3nNs3fKoNiAHgx4B6p5fYA) | [Deep Listening](https://open.spotify.com/album/1h4VM1Nsgav7liCdWBoGlC) | 24:56 | 2022-05-25 |  |
 | [Life At The End Of The World](https://open.spotify.com/track/1ZVV1Ti8cm9uJ3kBG1edND) | [Ki Oni](https://open.spotify.com/artist/26BdaSNzPM8yZZ8Baq9yH2) | [Life At The End Of The World](https://open.spotify.com/album/2VMjw9XNqRYgx3Not9RVf5) | 14:38 | 2022-05-25 | 2023-03-16 |
-| [Life At The End Of The World](https://open.spotify.com/track/5mYONcA7ip6iZL5513DZes) | [Ki Oni](https://open.spotify.com/artist/26BdaSNzPM8yZZ8Baq9yH2) | [Stay Indoors And Swim](https://open.spotify.com/album/3i0YcDwepzWbSxfyYInHen) | 14:38 | 2023-01-27 |  |
+| [Life At The End Of The World](https://open.spotify.com/track/3q8i0DiQrlWzMqCWWT3iAv) | [Ki Oni](https://open.spotify.com/artist/26BdaSNzPM8yZZ8Baq9yH2) | [Stay Indoors And Swim](https://open.spotify.com/album/3kYfOG6co0SzHNbfufdzLy) | 14:38 | 2023-01-27 |  |
+| [Life At The End Of The World](https://open.spotify.com/track/5mYONcA7ip6iZL5513DZes) | [Ki Oni](https://open.spotify.com/artist/26BdaSNzPM8yZZ8Baq9yH2) | [Stay Indoors And Swim](https://open.spotify.com/album/3i0YcDwepzWbSxfyYInHen) | 14:38 | 2023-01-27 | 2023-04-30 |
 | [Light\-Matrix Portal](https://open.spotify.com/track/3YXsOx0ucIfsSLLjKC9eeW) | [Max Corbacho](https://open.spotify.com/artist/0Qg8V53QwgXLDtN0xMUL5q) | [Ars Lucis](https://open.spotify.com/album/5uT0LQPeZxTV914X5hP9s9) | 14:13 | 2022-05-25 |  |
 | [Live at Commend \(Part 2\)](https://open.spotify.com/track/3zjN54QAmvcJMCiI9xeLEk) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Live at Commend \(Part 2\)](https://open.spotify.com/album/3iXTjYZMXiOfRrHPrS45jU) | 34:07 | 2022-10-10 |  |
 | [Live at Fridman Gallery](https://open.spotify.com/track/7pgfhfZd9QMeVNXUN5QlZS) | [Stephen Vitiello](https://open.spotify.com/artist/6UmTNwMWHnVgSA49K7aY8Y), [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Fridman Variations](https://open.spotify.com/album/31oIw2hK2m7rIll2mLOqPy) | 18:15 | 2022-05-25 |  |
@@ -242,8 +243,9 @@
 | [Reverie 2](https://open.spotify.com/track/47rK9XSpMyRYdgeK8GMGfa) | [Noveller](https://open.spotify.com/artist/3MqYHtX48uiYNf0gPaNBW2), [Thisquietarmy](https://open.spotify.com/artist/0DpQjnQLcu01O2o6lqCPiL) | [Reveries](https://open.spotify.com/album/5cJv1WbZ3eRaCFRbanrc5p) | 10:54 | 2022-05-25 |  |
 | [RFG Inventions for Cello and Computer](https://open.spotify.com/track/0l31K51q5uL8vR4GKEGp2F) | [Peter Zinovieff](https://open.spotify.com/artist/7AtS4LGRPdZi6hQpQS3Mq4), [Lucy Railton](https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9) | [RFG Inventions for Cello and Computer](https://open.spotify.com/album/5DWW0xZx781806iLflAxsg) | 35:00 | 2022-05-25 | 2022-07-29 |
 | [RFG Inventions for Cello and Computer](https://open.spotify.com/track/2EhtiW9gNJVCpHGMAyk1LA) | [Peter Zinovieff](https://open.spotify.com/artist/7AtS4LGRPdZi6hQpQS3Mq4), [Lucy Railton](https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9) | [RFG Inventions for Cello and Computer](https://open.spotify.com/album/5gmVs2YDmZBbnRHr3l2v52) | 35:00 | 2022-07-15 |  |
+| [Riders Of The Wind](https://open.spotify.com/track/4RVho0KnTR6pR6NNagUwaP) | [Ki Oni](https://open.spotify.com/artist/26BdaSNzPM8yZZ8Baq9yH2) | [Stay Indoors And Swim](https://open.spotify.com/album/3kYfOG6co0SzHNbfufdzLy) | 11:00 | 2023-01-27 |  |
 | [Riders Of The Wind](https://open.spotify.com/track/51OsiyqOv0v2uq307i9BNi) | [Ki Oni](https://open.spotify.com/artist/26BdaSNzPM8yZZ8Baq9yH2) | [Stay Indoors And Swim](https://open.spotify.com/album/5TxLNNEaHd2eMxqgT0DRZY) | 11:00 | 2022-05-25 | 2023-03-16 |
-| [Riders Of The Wind](https://open.spotify.com/track/6Hcucgn8FRva8fsXxEhcxl) | [Ki Oni](https://open.spotify.com/artist/26BdaSNzPM8yZZ8Baq9yH2) | [Stay Indoors And Swim](https://open.spotify.com/album/3i0YcDwepzWbSxfyYInHen) | 11:00 | 2023-01-27 |  |
+| [Riders Of The Wind](https://open.spotify.com/track/6Hcucgn8FRva8fsXxEhcxl) | [Ki Oni](https://open.spotify.com/artist/26BdaSNzPM8yZZ8Baq9yH2) | [Stay Indoors And Swim](https://open.spotify.com/album/3i0YcDwepzWbSxfyYInHen) | 11:00 | 2023-01-27 | 2023-04-30 |
 | [Rising Fog](https://open.spotify.com/track/4vrdwayiAZLAdMhXGWaQKz) | [Lucette Bourdin](https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3) | [Rising Fog](https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil) | 16:27 | 2022-05-25 |  |
 | [Rosetti Noise/Chrystal Garden And A Coda](https://open.spotify.com/track/2oWwrX6JGdRC4cUnJlYiWF) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Pavilion Of Dreams](https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN) | 14:19 | 2022-05-25 |  |
 | [Rounds \- Alex Somers Remix](https://open.spotify.com/track/3fPBBlL4anPmCJhllMQXon) | [Robert Ames](https://open.spotify.com/artist/0TArUQakaqRxFMynA8vA7q), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Rounds \(Alex Somers Rework\)](https://open.spotify.com/album/0MIi4ZcJjbOPCRyjOakRyK) | 15:14 | 2022-05-25 |  |

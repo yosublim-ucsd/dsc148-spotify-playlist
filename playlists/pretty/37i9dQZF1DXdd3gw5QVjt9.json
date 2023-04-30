@@ -1,12 +1,12 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1221281,
+  "num_followers": 1221290,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2U1MjgwODNlYmI1NGI4ZWE1NTljZTU1ZjQ5NTk0MGQyOTgzYWUw",
+  "snapshot_id": "MCxmNTA5YzVjZDY4ZjkxOTYyZWQ3MTQyYThkMmQ5MDE3ZmM5MDFhMzIy",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -287,6 +287,26 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Going In",
+        "url": "https://open.spotify.com/album/76LMmHE9JB7GDA0ihlRlpH"
+      },
+      "artists": [
+        {
+          "name": "Wild Child",
+          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
+        },
+        {
+          "name": "The Song Confessional",
+          "url": "https://open.spotify.com/artist/3zM0frH8HgM7cK5OXpHu4E"
+        }
+      ],
+      "duration_ms": 161324,
+      "name": "Going In",
+      "url": "https://open.spotify.com/track/51Zo4yemKVPqpmRxOZfYiX"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "And It\u2019s Still Alright",
         "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
       },
@@ -315,26 +335,6 @@
       "duration_ms": 161680,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Going In",
-        "url": "https://open.spotify.com/album/76LMmHE9JB7GDA0ihlRlpH"
-      },
-      "artists": [
-        {
-          "name": "Wild Child",
-          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
-        },
-        {
-          "name": "The Song Confessional",
-          "url": "https://open.spotify.com/artist/3zM0frH8HgM7cK5OXpHu4E"
-        }
-      ],
-      "duration_ms": 161324,
-      "name": "Going In",
-      "url": "https://open.spotify.com/track/51Zo4yemKVPqpmRxOZfYiX"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "songs",
-        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 202047,
-      "name": "anything",
-      "url": "https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Nation of Two",
         "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 224400,
       "name": "Like Gold",
       "url": "https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "songs",
+        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 202047,
+      "name": "anything",
+      "url": "https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -535,26 +535,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Loretta",
-        "url": "https://open.spotify.com/album/4FwGpAmex8ylZrxcf4qGBk"
-      },
-      "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        },
-        {
-          "name": "Taylor Ashton",
-          "url": "https://open.spotify.com/artist/53t38sKooUEyyENANtticX"
-        }
-      ],
-      "duration_ms": 148522,
-      "name": "Loretta",
-      "url": "https://open.spotify.com/track/724mTUDtMwxfB2G023Kerf"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Th\u00e9r\u00e8se",
         "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
       },
@@ -571,22 +551,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Oh Ohio",
-        "url": "https://open.spotify.com/album/7hXB5KdtSNNwns8lMyjkY5"
-      },
-      "artists": [
-        {
-          "name": "Luke Grimes",
-          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
-        }
-      ],
-      "duration_ms": 178106,
-      "name": "Oh Ohio",
-      "url": "https://open.spotify.com/track/7C6J0ZRMJnkpU3T4XPBUOl"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Wouldn't Come Back",
         "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
       },
@@ -599,6 +563,22 @@
       "duration_ms": 219533,
       "name": "Wouldn't Come Back",
       "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Oh Ohio",
+        "url": "https://open.spotify.com/album/7hXB5KdtSNNwns8lMyjkY5"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        }
+      ],
+      "duration_ms": 178106,
+      "name": "Oh Ohio",
+      "url": "https://open.spotify.com/track/7C6J0ZRMJnkpU3T4XPBUOl"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1079,6 +1059,22 @@
       "duration_ms": 248385,
       "name": "The Missing Road",
       "url": "https://open.spotify.com/track/1RBEBRUKdXKFKILSHkbQFa"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Cast Iron Skillet",
+        "url": "https://open.spotify.com/album/0SWyzfjH7D2mXqSr4nBfrQ"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 204014,
+      "name": "Cast Iron Skillet",
+      "url": "https://open.spotify.com/track/2VmvnRlD3SaKz5YxabzlZe"
     },
     {
       "added_at": "2023-04-28 04:00:00",

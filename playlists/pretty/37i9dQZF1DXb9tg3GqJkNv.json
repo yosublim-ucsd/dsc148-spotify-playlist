@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: Drake \ud83e\udd89",
-  "num_followers": 2500,
+  "num_followers": 2547,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmUzOWU5M2RiZmZhMTQyYzVhZDllOTZkZTYyNmU3MjIwYjQ0YTE0",
+  "snapshot_id": "MCwwMzkzN2MzNmQwZTA2MGRmOTIzOTczODU0NTI1ZDdhYmIzZTRkOWNh",
   "tracks": [
     {
       "added_at": "2023-04-27 23:03:50",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-04-27 23:03:50",
       "album": {
-        "name": "Pause Play",
-        "url": "https://open.spotify.com/album/1fzRm9tToQXOf1GwXWP0MT"
-      },
-      "artists": [
-        {
-          "name": "Preme",
-          "url": "https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2"
-        }
-      ],
-      "duration_ms": 164466,
-      "name": "Pause Play",
-      "url": "https://open.spotify.com/track/4Yxs4En3TdQY0oQswXJheQ"
-    },
-    {
-      "added_at": "2023-04-27 23:03:50",
-      "album": {
         "name": "4Milli",
         "url": "https://open.spotify.com/album/28vYZP2mGD54CUoY0lPUr2"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 180748,
       "name": "Live Up to My Name",
       "url": "https://open.spotify.com/track/79KZAInFkxA0XLukZCGzvh"
+    },
+    {
+      "added_at": "2023-04-27 23:03:50",
+      "album": {
+        "name": "Pause Play",
+        "url": "https://open.spotify.com/album/1fzRm9tToQXOf1GwXWP0MT"
+      },
+      "artists": [
+        {
+          "name": "Preme",
+          "url": "https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2"
+        }
+      ],
+      "duration_ms": 164466,
+      "name": "Pause Play",
+      "url": "https://open.spotify.com/track/4Yxs4En3TdQY0oQswXJheQ"
     },
     {
       "added_at": "2023-04-27 23:03:50",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-04-27 23:03:50",
       "album": {
-        "name": "2020 the Album",
-        "url": "https://open.spotify.com/album/4DvUwAekSAB7Uo1ue07Kmp"
-      },
-      "artists": [
-        {
-          "name": "DijahSB",
-          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
-        }
-      ],
-      "duration_ms": 174201,
-      "name": "Frontin' Like Pharrell",
-      "url": "https://open.spotify.com/track/2evdaJj8y2xdWuCTBroDqw"
-    },
-    {
-      "added_at": "2023-04-27 23:03:50",
-      "album": {
         "name": "Here it Goes",
         "url": "https://open.spotify.com/album/1p93XxxZlLPV5O7kVC64jO"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 189450,
       "name": "Here it Goes",
       "url": "https://open.spotify.com/track/0TGWqVxhdfAyRHTqF3fsYo"
+    },
+    {
+      "added_at": "2023-04-27 23:03:50",
+      "album": {
+        "name": "2020 the Album",
+        "url": "https://open.spotify.com/album/4DvUwAekSAB7Uo1ue07Kmp"
+      },
+      "artists": [
+        {
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+        }
+      ],
+      "duration_ms": 174201,
+      "name": "Frontin' Like Pharrell",
+      "url": "https://open.spotify.com/track/2evdaJj8y2xdWuCTBroDqw"
     },
     {
       "added_at": "2023-04-27 23:03:50",

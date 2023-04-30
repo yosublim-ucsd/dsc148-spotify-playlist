@@ -4,7 +4,7 @@
 
 > This is Movements\. The essential tracks, all in one playlist.
 
-26 songs - 1 hr 33 min
+28 songs - 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,8 @@
 | [Hatchet](https://open.spotify.com/track/6jGPtSuSPFODlN1a7TQuqT) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Outgrown Things](https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO) | 2:44 | 2022-09-16 |  |
 | [In My Blood](https://open.spotify.com/track/4urLThnwcBZ3hnHSIsbhCN) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 3:33 | 2022-09-16 |  |
 | [Kept](https://open.spotify.com/track/4mW87rC2y8oJWYCglzBuO1) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Outgrown Things](https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO) | 2:27 | 2022-09-16 |  |
+| [Killing Time](https://open.spotify.com/track/5h2zlwT2jML36Y6vUNRH9h) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Killing Time / Lead Pipe](https://open.spotify.com/album/2Kf6AR80jAmKRoaoTYVbV8) | 3:50 | 2023-04-29 |  |
+| [Lead Pipe](https://open.spotify.com/track/3tKtvdq8ljuxOsXvlhL0sc) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Killing Time / Lead Pipe](https://open.spotify.com/album/2Kf6AR80jAmKRoaoTYVbV8) | 2:59 | 2023-04-29 |  |
 | [Losing Fight](https://open.spotify.com/track/5wwUo18ajQFtZnIsmZlblL) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Outgrown Things](https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO) | 3:57 | 2022-09-16 |  |
 | [Losing My Religion](https://open.spotify.com/track/6RaND67ynZKamGlL6esD5P) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Losing My Religion](https://open.spotify.com/album/6mlscNhLWoCtRSoNUSwGGo) | 4:29 | 2022-09-16 |  |
 | [Love Took The Last Of It](https://open.spotify.com/track/1IlAPVYbBIffKz29syKvBb) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 4:37 | 2022-09-16 | 2022-10-13 |

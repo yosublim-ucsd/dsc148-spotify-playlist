@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,589 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,642 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 13 | [Back on the beat](https://open.spotify.com/track/52q5MqCCKzUjYE06orhDxX) | [Laurent De Wilde](https://open.spotify.com/artist/7Iupw9PXaMDkdkQ3oqtDOj) | [Back on the beat](https://open.spotify.com/album/2IOOiVxPT2N3fOYQJlubz1) | 5:10 |
 | 14 | [Momo](https://open.spotify.com/track/0CBX0WAXLUlxZLxVzNcL2U) | [David Georgelet](https://open.spotify.com/artist/2LtA68RzaNBt40yR5HCFJJ), [François Chesnel](https://open.spotify.com/artist/6V7lY4nwZUyd0SfHv8wv0w), [Yoni Zelnik](https://open.spotify.com/artist/4hqzR5w8mpfDRsYS3AGbTs) | [La Septième Reine](https://open.spotify.com/album/33gLfX0wqcpYOhmZViuXAO) | 3:05 |
 | 15 | [Love me or leave me](https://open.spotify.com/track/735MKgrGONAiSTofyRMQ5C) | [Kareen Guiock\-Thuram](https://open.spotify.com/artist/0YXx07hUxn2vNcy8Cdj5ER) | [Nina](https://open.spotify.com/album/6z7RipHovotv8iZtjz3hIt) | 3:14 |
-| 16 | [Apho](https://open.spotify.com/track/4PShi8ZHJXoax9jqzSiMa2) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Apho](https://open.spotify.com/album/3W9XyDsJb5XDmF2iIFsjMx) | 2:58 |
+| 16 | [Apho](https://open.spotify.com/track/6EMP27Iax2P3LrfFggIt1c) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Variables](https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6) | 2:58 |
 | 17 | [Twenty Fifteen](https://open.spotify.com/track/3F4SnqRLateUMs5HpAkhRx) | [Emile Londonien](https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7) | [Legacy](https://open.spotify.com/album/1dBh8K3zOKvn5OxQR1sRZi) | 3:09 |
 | 18 | [Talent Stick](https://open.spotify.com/track/7yukuMCiNS57X6amD5MMwe) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Talent Stick](https://open.spotify.com/album/6iHyp8p7M8TYEZegzZxUBW) | 4:00 |
 | 19 | [Rituel du soleil](https://open.spotify.com/track/28s6vG5qO8iJ6EOtqIoBQZ) | [Naïssam Jalal](https://open.spotify.com/artist/4Md8IAcfkCRrHL6KF41GYk) | [Rituel du soleil](https://open.spotify.com/album/1349X3aKwOlh6XimmsJS5U) | 6:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Guess Who I Saw Today \(feat\. Gerald Clayton\) \- Duo Version](https://open.spotify.com/track/4VEOAK2Wf0HmxDfyk0r25t) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq), [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8) | [Guess Who I Saw Today \(Duo Version\)](https://open.spotify.com/album/2SZO6jit46DlAS8kE017FI) | 4:45 |
 | 50 | [Dance Kobina](https://open.spotify.com/track/0x1ouEGnLQh4Iyv3EpNSmV) | [Joe Chambers](https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4) | [Dance Kobina](https://open.spotify.com/album/0AUn2s7xXGY4ZGWArU66QA) | 6:24 |
 
-Snapshot ID: `MCwxM2Y4ODI3YTEyYjZhYzJkM2M2YjgwMDgwYWFhMDM5NzI5MmIyNjhl`
+Snapshot ID: `MCw5N2M5Yjg4NTkzMTNiOWEzY2JiY2IyMzQxNjhiZTIxMTQzMDQ3M2I2`

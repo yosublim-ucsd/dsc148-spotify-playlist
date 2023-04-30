@@ -4,7 +4,7 @@
 
 > Celebrando a los músicos Afro\-Latinos\. Cover: Tego Calderon
 
-217 songs - 12 hr 33 min
+218 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [DOMINICAN LINGO \(feat\. Dyson Alexander\)](https://open.spotify.com/track/3KyEBnchTtYGgnh5Sk0ENk) | [Who?](https://open.spotify.com/artist/7Dz6nCSVyHak0QDpnxLKO6), [Dyson Alexander](https://open.spotify.com/artist/1OaXwyVIFd1ptuhu75qLGR) | [DOMINICAN LINGO \(feat\. Dyson Alexander\)](https://open.spotify.com/album/4nIa9nJUwnjyHpdyH52yFb) | 2:08 | 2022-02-18 | 2022-06-04 |
 | [Dominicana](https://open.spotify.com/track/45IOnEpVUdxWUZFqpZ7Xvz) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 4:12 | 2022-02-18 |  |
 | [Don't Unplug My Body](https://open.spotify.com/track/0yMRp3xWq4dGPDg9Hcq2Iu) | [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [Nueva Era](https://open.spotify.com/album/0p44XVsbSNqAVuUEioqvF7) | 4:58 | 2021-12-21 | 2022-07-29 |
-| [Don't Unplug My Body](https://open.spotify.com/track/1nQ57qUxbC32K6zWEPlttu) | [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [Nueva Era](https://open.spotify.com/album/1pj7w6r8Ae3bWJVOGB5gxW) | 4:58 | 2022-06-10 |  |
+| [Don't Unplug My Body](https://open.spotify.com/track/1nQ57qUxbC32K6zWEPlttu) | [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [Nueva Era](https://open.spotify.com/album/1pj7w6r8Ae3bWJVOGB5gxW) | 4:58 | 2022-06-10 | 2023-04-30 |
+| [Don't Unplug My Body](https://open.spotify.com/track/3knc4B7GpbHGoImIIBTNQ7) | [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [Nueva Era](https://open.spotify.com/album/2muy75AIHPDUZcgmO8qqu0) | 4:58 | 2023-02-17 |  |
 | [Dormir Sola](https://open.spotify.com/track/5IJL0TAmAojNvWnNW5HRUd) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [A Quien Pueda Interesar](https://open.spotify.com/album/01ASF6lHKnCDcYOnVqxGTm) | 2:41 | 2022-06-03 |  |
 | [Dream Girl \- Remix](https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Dream Girl \(Remix\)](https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86) | 3:12 | 2022-02-18 |  |
 | [Duelo](https://open.spotify.com/track/23fULt6bWn6VC58bKZQSVj) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU) | [Duelo](https://open.spotify.com/album/6TztCAG3KjvaQXkpi7Wx2L) | 2:39 | 2022-06-03 |  |

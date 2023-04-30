@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoL6ZoD9KnI.md) - [plain]
 
 > The essential tracks from Kenshi Yonezu/ hachi\. 米津玄師/ ハチの代表曲を1つのプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,824 likes - 65 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,932 likes - 65 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoL6ZoD9KnI.md) - [plain]
 | 64 | [マトリョシカ \- ORIGINAL](https://open.spotify.com/track/74A5fPLR86U9XWYostkXwS) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 3:18 |
 | 65 | [ワンダーランドと羊の歌 \- ORIGINAL](https://open.spotify.com/track/4ZLyjxANuZ87aP9dJqRaik) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 4:47 |
 
-Snapshot ID: `MCxlMTlmNzNmN2Y2NmVkYTBmOWYzMmFjNGRhMTUyMWEwZWY0YTkwZThk`
+Snapshot ID: `MCxjM2M5NmVkMTAyYzliZGUyMGE2NDY4YTQxMjQ4YTM2ZTUwYThiYjU3`

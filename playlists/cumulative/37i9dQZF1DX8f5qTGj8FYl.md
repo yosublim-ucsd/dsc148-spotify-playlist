@@ -4,7 +4,7 @@
 
 > When the funk is just too funky for words to keep up.
 
-218 songs - 15 hr 11 min
+219 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Smooth Move](https://open.spotify.com/track/6WFwC46XQapcmnToEcromu) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Smooth Move](https://open.spotify.com/album/6o9IZz9yXexSURHtYenXSa) | 5:16 | 2020-11-13 |  |
 | [Soul Power \(Lack Of Afro Remix\)](https://open.spotify.com/track/4Un2ZyWdM67NkVOd0v1mQI) | [Kokolo](https://open.spotify.com/artist/3PoRjUIi2x27P0OgROPgQ4) | [Soul Power](https://open.spotify.com/album/0sJOqMY6CrmKvAlIU3O155) | 3:33 | 2020-11-13 | 2022-04-21 |
 | [Soul Shower](https://open.spotify.com/track/5Jhd3ag86pIRsIHYxEhLs7) | [Mister T.](https://open.spotify.com/artist/45GgOqa6xJwhZ3IXiMMkh7) | [Soul Shower](https://open.spotify.com/album/1kjw0iGFxIHXfETxxXVOzJ) | 3:33 | 2021-07-16 | 2022-07-06 |
+| [Soul Shower](https://open.spotify.com/track/7yFIDeG04tRKHMDNrQXe5J) | [Mister T.](https://open.spotify.com/artist/45GgOqa6xJwhZ3IXiMMkh7) | [Soul Shower](https://open.spotify.com/album/0MDEgla82omGDz6scX5gEA) | 3:33 | 2021-07-16 |  |
 | [Spherical \(Tiny Room Sessions\)](https://open.spotify.com/track/0lXo6V2m1WTDNWMjgbhy1U) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Terreon Gully](https://open.spotify.com/artist/1SqJPsQ1Xl7SqS7bNcea5P), [Geoffrey Keezer](https://open.spotify.com/artist/6blxY1iqiaDxSkZ1OGPUZ7), [Benjamin Sheperd](https://open.spotify.com/artist/5hO610eZdaKyNxoLG7Rfw2), [Bob Reynolds](https://open.spotify.com/artist/6GcgRheAQRGpkEhsg5nG6m), [Curtis Taylor](https://open.spotify.com/artist/6BAp78tMVI0vqwkbAePCim) | [Spherical \(Tiny Room Sessions\)](https://open.spotify.com/album/4z46D1eyVfrciFdFbYlNNT) | 8:08 | 2020-11-13 | 2022-08-17 |
 | [Stand Up](https://open.spotify.com/track/2qa0PzLeNUGs0RtNu7Yw8F) | [Roberto Restuccia](https://open.spotify.com/artist/1XoDy200dmpFG0iG3tU3a6) | [Stand Up](https://open.spotify.com/album/23g3lGN1wEYDJkQ8I8XsAJ) | 4:05 | 2023-01-13 | 2023-01-21 |
 | [Stay In Your Lane](https://open.spotify.com/track/06rsFCBNsgVgMYXe6il6ZG) | [Magic In Threes](https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay), [Charles Ray](https://open.spotify.com/artist/1jT9Psox5ynYWAm84QFZHX), [Troy Atkins](https://open.spotify.com/artist/1T1Loh1f6OZ5gEOnvvJKcM) | [Stay In Your Lane](https://open.spotify.com/album/33xCBK6L6WoFPUVgMLiTaC) | 2:00 | 2020-11-13 | 2022-07-29 |
@@ -201,7 +202,7 @@
 | [The Chase](https://open.spotify.com/track/4xR4kE5b42b5zpqSw3i8dN) | [Los Santos Caballeros](https://open.spotify.com/artist/2CWFohvGS2UOohJcs1PAoy) | [The Chase b/w The Walk](https://open.spotify.com/album/2ASdVRDqVjATjshLMUfHA9) | 2:51 | 2020-11-13 | 2022-07-29 |
 | [The Count](https://open.spotify.com/track/2rrJdFHVqirE025Ev5SZZy) | [Fusik](https://open.spotify.com/artist/4EDtxm2WLicV4I1B9E8kl2) | [The Count](https://open.spotify.com/album/32IiPPFUDO6NXIZPfpu7iV) | 4:40 | 2020-11-13 | 2022-06-11 |
 | [THE CRISIS GENERATOR](https://open.spotify.com/track/761kW7EB1ZjHCvGkEhoWHd) | [The Sound Stylistics](https://open.spotify.com/artist/104foQZN65b6NnTR40dwOO) | [Greasin The Wheels](https://open.spotify.com/album/4sXHD4MaPHwTdjivbWMmtO) | 4:53 | 2020-11-13 | 2023-04-09 |
-| [The Duke](https://open.spotify.com/track/11V8HzOfn85nFZmDntBvnP) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [The Duke](https://open.spotify.com/album/2FnbvOsZ4x8mnx4eKOKnA9) | 2:46 | 2021-01-15 |  |
+| [The Duke](https://open.spotify.com/track/11V8HzOfn85nFZmDntBvnP) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [The Duke](https://open.spotify.com/album/2FnbvOsZ4x8mnx4eKOKnA9) | 2:46 | 2021-01-15 | 2023-04-30 |
 | [The Left Hand](https://open.spotify.com/track/54e3cG52bRSDHyoG2PwU7o) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [The Left Hand](https://open.spotify.com/album/4K2YYQqskClqAhBLq4eCDH) | 3:07 | 2021-11-12 | 2022-04-21 |
 | [The Scarab's Quest](https://open.spotify.com/track/1dkfnaV3LVFH4DxADgBXsP) | [Eleven 76](https://open.spotify.com/artist/3mHGVYRvwf2YC27xqftGTz), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [The Scarab's Quest](https://open.spotify.com/album/2lqVp42YBxsM3usUoSWOAA) | 3:30 | 2021-06-04 | 2022-07-26 |
 | [The Thang](https://open.spotify.com/track/7mgKgzs0cEgMzcLxsPRCn3) | [Funk Inc.](https://open.spotify.com/artist/4E2WMVMkVEyXugsOdfLyAV) | [Urban Renewal](https://open.spotify.com/album/1oSmTD2Us4CrWZnkIn0rFF) | 6:57 | 2020-11-13 | 2022-04-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 
 > Are you ready for the floor? Cover: Jessica Winter
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,213 likes - 66 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,232 likes - 66 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 | 19 | [Limbo](https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Limbo](https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE) | 4:53 |
 | 20 | [Purely Educational](https://open.spotify.com/track/4Nl5xInMENlcWHcTFPB0Gh) | [Elder Island](https://open.spotify.com/artist/3EnbnmqrrvApHJs6FMvYik) | [Purely Educational](https://open.spotify.com/album/6nYkj7q80r8RzlY8nWNDt6) | 3:46 |
 | 21 | [A bite of papaya](https://open.spotify.com/track/2jwKTqnvzrhj4b6Dhm07lW) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [A bite of papaya](https://open.spotify.com/album/6qAd2bXuzauRuwzHYCHu3n) | 4:17 |
-| 22 | [Pure Luxury \- Django Django’s Boogie Beat Remix](https://open.spotify.com/track/6XCJkVM7PTFZjoDXbFin8i) | [NZCA LINES](https://open.spotify.com/artist/1pmvcZaqyRJw8o6at71MJP), [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab) | [Pure Luxury \(Django Django’s Boogie Beat Remix\)](https://open.spotify.com/album/1PfirXmrPwLNOiaZV1urpO) | 5:41 |
+| 22 | [Pure Luxury \- Django Django’s Boogie Beat Remix](https://open.spotify.com/track/5dWhOQUYBPIg4XCc8JxSpO) | [NZCA LINES](https://open.spotify.com/artist/1pmvcZaqyRJw8o6at71MJP), [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab) | [Pure Luxury \(Django Django’s Boogie Beat Remix\)](https://open.spotify.com/album/1YpOlXLrPcCe6fmJ4qEoxY) | 5:41 |
 | 23 | [Think Twice](https://open.spotify.com/track/7xpSlt90FIiu0yl9q7ZZFx) | [Aonair](https://open.spotify.com/artist/6soC4hjokac6GbBiiJEQ57), [Caoi De Barra](https://open.spotify.com/artist/3uCUliGLxC72lpRordFyuH) | [Think Twice](https://open.spotify.com/album/07CD9VfwrsTglHLMQGohBT) | 3:41 |
 | 24 | [No Forever](https://open.spotify.com/track/2VcKkrj7UKpUfep0RG9ZQV) | [Elaine Mai](https://open.spotify.com/artist/0wRHsCARScopB5WmbQzMcy), [MayKay](https://open.spotify.com/artist/3OalRjoYt3pFvLf8u37QFI) | [No Forever](https://open.spotify.com/album/4YRPQaPAFfgRXrB8maGWF3) | 3:43 |
 | 25 | [Mister Magic](https://open.spotify.com/track/2EDdM9Cd6gDzGGejBqxpse) | [Babylamb](https://open.spotify.com/artist/2eO9bZ9xHCINHEtl8vJPC8) | [Mister Magic](https://open.spotify.com/album/6rdKSNASXtIfyMcfsc35JD) | 3:33 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 | 29 | [It's Over \- Edit](https://open.spotify.com/track/1RLeNp25m5qaGCtF97p5r1) | [Extra Credit](https://open.spotify.com/artist/0eBplsuM9uqqqXMjn2ZsoA) | [It's Over](https://open.spotify.com/album/0q9YXpClk2bSqJYgAryoQJ) | 4:16 |
 | 30 | [Questions](https://open.spotify.com/track/37dmaWoFI8PEM0T7O0BCiP) | [Slum Sociable](https://open.spotify.com/artist/0J626PVezyRujeAfXAssnH) | [Questions](https://open.spotify.com/album/2IKzJwdIzDW8TOiHVf6J2H) | 3:19 |
 | 31 | [1000´s](https://open.spotify.com/track/3DElMfmAXdWQqB8AMjvXMV) | [This & That](https://open.spotify.com/artist/66kf3vcvdUC9ew1GSb1VC6), [Tunel](https://open.spotify.com/artist/4uO6d2Bsmguh9jOOuS0QWD) | [1000\`s](https://open.spotify.com/album/2R6u6bIw881N5arKpqDl4y) | 6:36 |
-| 32 | [On and On \(Till the End of Us\)](https://open.spotify.com/track/0fQf23AVDUFO3ra88x61hx) | [De Lux](https://open.spotify.com/artist/6go0iwCisHtnyywarV5OEZ) | [Do You Need A Release?](https://open.spotify.com/album/1FKKx9w0SyP341MkT0mf4K) | 5:26 |
+| 32 | [On and On \(Till the End of Us\)](https://open.spotify.com/track/7EpEum94WKQsGwqsYbwzQc) | [De Lux](https://open.spotify.com/artist/6go0iwCisHtnyywarV5OEZ) | [Do You Need A Release?](https://open.spotify.com/album/1zq50YlpfOS6j9wM8l6Lbn) | 5:26 |
 | 33 | [Brother](https://open.spotify.com/track/7gfui7vTdV6Jo7c804DnKh) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Brother](https://open.spotify.com/album/5qO8mU6qXhQUKMp4C5C62p) | 4:33 |
 | 34 | [Mr Blue](https://open.spotify.com/track/2PFM2HeWNP1omytVmtq9PQ) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Mr Blue \(Jadu Heart Mix\)](https://open.spotify.com/album/7m2SFt28E8jIawTtSBOW9F) | 4:32 |
 | 35 | [A Hero's Death \- Soulwax Remix](https://open.spotify.com/track/0aTTn1Xb7rRH0TXkUx5OCJ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [A Hero's Death \(Soulwax Remix\)](https://open.spotify.com/album/6k5jA2u04coOGjgIgsQkU4) | 4:29 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 | 39 | [Is This Where It Ends](https://open.spotify.com/track/12R5ERZn0WzOR7wyv6cT3T) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Is This Where It Ends](https://open.spotify.com/album/4hqkpfmYaKlX4sq2GLyVdq) | 4:02 |
 | 40 | [Lovers](https://open.spotify.com/track/1D9ljonkp8XdH7xcS0cgqQ) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 3:23 |
 | 41 | [getforward](https://open.spotify.com/track/1FT8VzkSDfH90Dc9XxjbEL) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [getforward](https://open.spotify.com/album/5j2DVBoeO3YeAPtz9Nyqlg) | 10:00 |
-| 42 | [Ayekouma \- Carnival Mix](https://open.spotify.com/track/2YkGS0axOi2LaM9znNw2mj) | [Falle Nioke](https://open.spotify.com/artist/2WIUWjEtviW09sdJlb2G1J), [Ghost Culture](https://open.spotify.com/artist/4M6Kt4GVjpLYpygyNOHwdt) | [Ayekouma](https://open.spotify.com/album/0tMOdQ266QWcgfyj9og0jY) | 3:21 |
+| 42 | [Ayekouma \- Carnival Mix](https://open.spotify.com/track/3q4P476ie87j6AJwfQXV6a) | [Falle Nioke](https://open.spotify.com/artist/2WIUWjEtviW09sdJlb2G1J), [Ghost Culture](https://open.spotify.com/artist/4M6Kt4GVjpLYpygyNOHwdt) | [Ayekouma](https://open.spotify.com/album/32o42fzMJj5mB7CjgF4DQK) | 3:21 |
 | 43 | [Start up Nation](https://open.spotify.com/track/32fXe6Ppdj45aop3hsqFtK) | [Keep Dancing Inc](https://open.spotify.com/artist/426htfG7DE5S3kgoVCCJUB) | [Embrace](https://open.spotify.com/album/0HdSPq0RQFpkJiEiYAdKGg) | 3:19 |
 | 44 | [Day We Met \- Betonkust Remix](https://open.spotify.com/track/1VdeCgpIm4qRcSDvtIK5Jv) | [Fatima Yamaha](https://open.spotify.com/artist/7eZRt08LoDy0nfIS6OwyMP), [Betonkust](https://open.spotify.com/artist/0wtoN4C5b7fBp8GLT8DYXo) | [Day We Met \(Remixes\)](https://open.spotify.com/album/3tKegcGPlaRUk9bbaP7X75) | 5:05 |
 | 45 | [D.I.S.C.O\. \- Edit](https://open.spotify.com/track/6tjYbiZ2wLgp33HMVxkJ9o) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Anima EP](https://open.spotify.com/album/3z33qPqbX0yY8b3PcVgzxu) | 4:05 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 | 65 | [Turn It Into Love](https://open.spotify.com/track/0NguAN1GjgnNFXqqu3V3LT) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Froya](https://open.spotify.com/artist/1NNTp69Arw8ikxNNlKe8JI) | [Turn It Into Love](https://open.spotify.com/album/1QsRm8LBLS07AwJzaNZa9v) | 3:56 |
 | 66 | [Lights Out](https://open.spotify.com/track/3hzazse5o4NZA13isN8eMp) | [GRAEY](https://open.spotify.com/artist/7IWvzeznlyMEE1APQe9iFL) | [Lights Out](https://open.spotify.com/album/42vVIc93UsSgQKFrtsnoet) | 3:12 |
 
-Snapshot ID: `MCxmNzI1MmU5NGU4YjFhMDc2OTM5MTBlNjQ1ZDQ2Mzc5OWIzYzczYjJh`
+Snapshot ID: `MCw4NzNkYzdiNGYwYjJjMmRiZjZiMGE1ZDhhNTkwYjEwZTQyZWEwNTBl`

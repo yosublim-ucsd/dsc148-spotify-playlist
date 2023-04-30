@@ -4,7 +4,7 @@
 
 > Driving rhythms, intricate instrumentation, and full harmonies\. Cover: Mumford & Sons
 
-133 songs - 8 hr 37 min
+134 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [Shake](https://open.spotify.com/track/7CtViMh5EgoE8krmPPuOhi) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Let's Be Still](https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42) | 4:01 | 2021-02-12 |  |
 | [She Lit A Fire](https://open.spotify.com/track/0RC0i4p56KeaES8iyPfC79) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/6zmmMSHLKk3CacdH3SwEGQ) | 4:30 | 2021-02-12 | 2022-07-29 |
 | [She Lit a Fire](https://open.spotify.com/track/0zCckv4tx3KzJ5GGTRbbLf) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/2ZDjruwuzzzT8JMJRXvLtl) | 4:30 | 2021-02-12 | 2023-01-05 |
-| [She Lit a Fire](https://open.spotify.com/track/6EwmdjdgIxoN1sRMhqWwmS) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams \(Bonus Track Version\)](https://open.spotify.com/album/3VZNBoxVDEvO8NJa65zmMd) | 4:30 | 2022-09-21 |  |
+| [She Lit a Fire](https://open.spotify.com/track/4c2k3NdkIwhi0eogpTnteI) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams \(Bonus Track Version\)](https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c) | 4:30 | 2023-03-10 |  |
+| [She Lit a Fire](https://open.spotify.com/track/6EwmdjdgIxoN1sRMhqWwmS) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams \(Bonus Track Version\)](https://open.spotify.com/album/3VZNBoxVDEvO8NJa65zmMd) | 4:30 | 2022-09-21 | 2023-04-30 |
 | [She Lit a Fire](https://open.spotify.com/track/7jvRS4mNvjbSwgdiWDG2ZD) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/69kRqmPTFu7xBqsrM47Ko4) | 4:30 | 2022-09-21 | 2023-01-06 |
 | [Sing To The Mountain](https://open.spotify.com/track/2UvYU118sXvon2S2K5lX7x) | [Elephant Revival](https://open.spotify.com/artist/3OwOKwd5FsfOD5qlH2tnzs) | [Elephant Revival](https://open.spotify.com/album/2AS01I0bGvaa6UPtbB95j2) | 3:42 | 2021-02-12 | 2022-07-29 |
 | [Sing to the Mountain](https://open.spotify.com/track/5kgMPM2m2sGGuVL4KpHwiO) | [Elephant Revival](https://open.spotify.com/artist/3OwOKwd5FsfOD5qlH2tnzs) | [Elephant Revival](https://open.spotify.com/album/1Qyc6kxZYssUHELLcImDnX) | 3:42 | 2021-02-12 |  |

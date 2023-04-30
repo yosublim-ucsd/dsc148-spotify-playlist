@@ -4,7 +4,7 @@
 
 > Are you afraid of the dark?
 
-218 songs - 14 hr 39 min
+222 songs - 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Awake and Hungry](https://open.spotify.com/track/0t2iQOYTs07q3tvu46JOkb) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Awake and Hungry](https://open.spotify.com/album/2uIQKontOLoPR0BiNa2huz) | 4:37 | 2021-11-01 | 2022-09-15 |
 | [Battlefield](https://open.spotify.com/track/4lUX8kwexha49eSvIZd0XQ) | [Forxst](https://open.spotify.com/artist/4t8zhFslMZ1y2XQo6uirep) | [Battlefield](https://open.spotify.com/album/0jqYYUwN0mqoQ793yGZ1Ey) | 4:00 | 2022-10-23 | 2022-11-01 |
 | [Beautiful, but Bleak](https://open.spotify.com/track/4COhacNez6tWj4GTGNKJvB) | [Wilted Flower](https://open.spotify.com/artist/0lPEl2oXjSBkmzAvzhb587) | [Here Lies Our Love](https://open.spotify.com/album/5oZRa4gKveXsvvu6tlWgOV) | 3:37 | 2021-11-01 |  |
-| [Better Days](https://open.spotify.com/track/2mxORKTmKsYB2cRvEaX4go) | [Baba Ali](https://open.spotify.com/artist/48US3n5ecZ1TS4RjzsdWrm) | [Memory Device](https://open.spotify.com/album/5BniwoarFJxQBNbfUglezI) | 5:07 | 2022-01-27 |  |
+| [Better Days](https://open.spotify.com/track/2fbWhSnQsDn5Xd1yNg2aDy) | [Baba Ali](https://open.spotify.com/artist/48US3n5ecZ1TS4RjzsdWrm) | [Memory Device](https://open.spotify.com/album/6ahDe3JvaSf0ztWjc5rT5E) | 5:07 | 2023-03-22 |  |
+| [Better Days](https://open.spotify.com/track/2mxORKTmKsYB2cRvEaX4go) | [Baba Ali](https://open.spotify.com/artist/48US3n5ecZ1TS4RjzsdWrm) | [Memory Device](https://open.spotify.com/album/5BniwoarFJxQBNbfUglezI) | 5:07 | 2022-01-27 | 2023-04-30 |
 | [Better Days](https://open.spotify.com/track/34GmVBFlBL83wEsAy97AP9) | [Baba Ali](https://open.spotify.com/artist/48US3n5ecZ1TS4RjzsdWrm) | [Memory Device](https://open.spotify.com/album/2NpIoEd9xx6GvJPSQKFQ0Z) | 5:07 | 2021-11-01 | 2022-07-29 |
 | [Birth](https://open.spotify.com/track/0McTGe6ZnZuPdj4Nhufesa) | [Runah](https://open.spotify.com/artist/1t7LGsCYaXFaDW6GiAuaNI) | [H\. B\. M\. T.](https://open.spotify.com/album/68LwK6oD8UHl2el001VB9X) | 4:08 | 2021-11-01 |  |
 | [Black and Blue](https://open.spotify.com/track/2kYyZ8ieDbFgSqgVSQ06kY) | [Ramsey](https://open.spotify.com/artist/1se3w7gpZkwcJYgHSPDoQ8) | [Ramsey](https://open.spotify.com/album/62zvqJzG1V3VFViiVl7R4D) | 3:56 | 2022-10-23 | 2022-11-01 |
@@ -57,7 +58,8 @@
 | [Dog Rectum](https://open.spotify.com/track/4QtmD6iUt1rUjuFXJGhFtC) | [ScreamerClauz](https://open.spotify.com/artist/175gcancxo7YU4uQGxSfsx) | [Planetary Evacuation Recruitment Tape](https://open.spotify.com/album/4PV3OovytHfb0QdOK944k1) | 4:53 | 2022-10-23 | 2022-11-01 |
 | [Dolore di Orsini](https://open.spotify.com/track/5x39jx4cKD2NqiBIKr0TzI) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [All Thoughts Fly](https://open.spotify.com/album/4ZsKcq417wTfTHtYzP7Sbf) | 4:04 | 2022-10-23 | 2022-11-01 |
 | [DOORWAY](https://open.spotify.com/track/0GmGw3aqX1OLQdb88ECoe4) | [Black Dresses](https://open.spotify.com/artist/7FFwJQ58hAy7PMo4lUBW96) | [WASTEISOLATION](https://open.spotify.com/album/2Kov3GLXwADxba0BIAYzGl) | 1:38 | 2022-10-23 | 2022-11-01 |
-| [Duffy's](https://open.spotify.com/track/74kjh8PAcrv7ZVaueHpgTf) | [deathcrash](https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH) | [Less](https://open.spotify.com/album/6sD0awzvOB5aKTliTTQogU) | 3:39 | 2023-03-22 |  |
+| [Duffy's](https://open.spotify.com/track/4lcamfRMk5t5fC2OQ3QfXZ) | [deathcrash](https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH) | [Less](https://open.spotify.com/album/7H0jxA1HMTBK1IbvqJEPuk) | 3:39 | 2023-03-22 |  |
+| [Duffy's](https://open.spotify.com/track/74kjh8PAcrv7ZVaueHpgTf) | [deathcrash](https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH) | [Less](https://open.spotify.com/album/6sD0awzvOB5aKTliTTQogU) | 3:39 | 2023-03-22 | 2023-04-30 |
 | [Eliogy](https://open.spotify.com/track/130sgnepyNOghIX9iBQpRD) | [Morly](https://open.spotify.com/artist/25IpNXDRxJS38E2rLJeCF3) | ['Til I Start Speaking](https://open.spotify.com/album/0iWtuSZKnw810C6qW90Ggn) | 3:12 | 2021-11-01 | 2022-09-15 |
 | [Ellipse \- Original Mix](https://open.spotify.com/track/4Pb0kWHFHmX3Lt5mGJr00o) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8) | [Ellipse](https://open.spotify.com/album/5zOYOLqu93uOgDs2UlxxyI) | 4:27 | 2022-10-23 | 2022-11-01 |
 | [Everything is Gonna' Be Alright](https://open.spotify.com/track/2IlH2GqnPulktTFpo1Hqo4) | [John Hinckley](https://open.spotify.com/artist/1SFuE9YchB2mp6NkLTGfF4) | [Everything is Gonna' Be Alright](https://open.spotify.com/album/44q46WfyQsFpCBLStz9Gve) | 2:18 | 2022-10-23 | 2022-11-01 |
@@ -181,7 +183,8 @@
 | [Strange Time](https://open.spotify.com/track/271xOXIZAV1Oc2cZJ5Tnoi) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Bad Contestant](https://open.spotify.com/album/6TQBSDaY7mVEjwK3QxQUfA) | 3:20 | 2021-11-01 | 2022-07-29 |
 | [Strange Time](https://open.spotify.com/track/4eCXQY1vh9XMW66LmS5alP) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Bad Contestant](https://open.spotify.com/album/7I6d6PkjEJE50fnxhCwQ8M) | 3:20 | 2022-01-27 |  |
 | [Summer of '84](https://open.spotify.com/track/2Dk5zX1FD4qDJ1yliCTxOO) | [Le Matos](https://open.spotify.com/artist/5nrAu9uBcj8NcdZHo09qG9) | [Summer of '84](https://open.spotify.com/album/4vVMLDG8QC9vLa3zgEm0YU) | 1:24 | 2022-10-23 | 2022-11-01 |
-| [Sure](https://open.spotify.com/track/2UQspiLx0lmEurmYh3kgyp) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [Sure](https://open.spotify.com/album/2SRfcuFUJffkHAtCcNQiw3) | 3:29 | 2021-11-01 |  |
+| [Sure](https://open.spotify.com/track/2UQspiLx0lmEurmYh3kgyp) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [Sure](https://open.spotify.com/album/2SRfcuFUJffkHAtCcNQiw3) | 3:29 | 2021-11-01 | 2023-04-30 |
+| [Sure](https://open.spotify.com/track/2rzXyaf7zyauiww5E6wvPt) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [Everything](https://open.spotify.com/album/4GD61YplOsyg4GV7tPH2KF) | 3:29 | 2023-03-22 |  |
 | [Surf](https://open.spotify.com/track/0TtJ7R4uNkB7T4X7uBoImd) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Surf](https://open.spotify.com/album/3G0F4vMn3WfhNxurHgqrE7) | 2:44 | 2022-10-23 | 2022-11-01 |
 | [Surf, Pt\. 1](https://open.spotify.com/track/0YSZTYQzqPrnsudN5qP5GR) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Everything Not Saved Will Be Lost Pt\. 1](https://open.spotify.com/album/5oT2zoIrVGJcbVZoNGGZwc) | 0:44 | 2021-11-01 | 2022-07-29 |
 | [Surf, Pt\. 1](https://open.spotify.com/track/4JgdsRt9lrutNJ5coexTaq) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Everything Not Saved Will Be Lost Part I](https://open.spotify.com/album/6uVaLj0YV3mWRFUw4xJ6eR) | 0:44 | 2022-01-27 | 2022-09-15 |
@@ -202,7 +205,8 @@
 | [The Furthest Nearby Place](https://open.spotify.com/track/6cGxhZXtOxgneYTmlIVIB2) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Moral Panics](https://open.spotify.com/album/3J4ZH4URD4qiX4nE2YvvtP) | 4:20 | 2021-11-01 | 2022-07-29 |
 | [The Nearer The Fountain, More Pure The Stream Flows](https://open.spotify.com/track/7eVf0wH28SmYws2I1FrtBE) | [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [The Nearer The Fountain, More Pure The Stream Flows](https://open.spotify.com/album/5JOC38dkd1O0U85m68gvly) | 5:00 | 2021-11-01 | 2022-09-15 |
 | [The Place Where He Inserted the Blade](https://open.spotify.com/track/3k2kIiJqUiIP49iUcOLpWT) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 7:13 | 2022-12-12 |  |
-| [The Wetlands](https://open.spotify.com/track/6CrTOj2Oa2Vgh6YnKZddIZ) | [Aoife Wolf](https://open.spotify.com/artist/0UjP3boKokgDROjh9HzfYg) | [The Wetlands](https://open.spotify.com/album/2jWDh6LjGtIVyzCqqzGkVU) | 3:57 | 2022-10-15 |  |
+| [The Wetlands](https://open.spotify.com/track/4bA08mTRGaTbyAdZedkgaX) | [Aoife Wolf](https://open.spotify.com/artist/0UjP3boKokgDROjh9HzfYg) | [The Wetlands](https://open.spotify.com/album/1f9aZDpwbuGpridBmTHi8h) | 3:57 | 2023-03-22 |  |
+| [The Wetlands](https://open.spotify.com/track/6CrTOj2Oa2Vgh6YnKZddIZ) | [Aoife Wolf](https://open.spotify.com/artist/0UjP3boKokgDROjh9HzfYg) | [The Wetlands](https://open.spotify.com/album/2jWDh6LjGtIVyzCqqzGkVU) | 3:57 | 2022-10-15 | 2023-04-30 |
 | [They Are Night Zombies!! They Are Neighbors!! They Have Come Back From the Dead!! Ahhhh!](https://open.spotify.com/track/6baapASaIABefYuDLE0aNy) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/0j0elxqaiOhRDJVpC9IZay) | 5:09 | 2021-11-01 | 2022-07-29 |
 | [They Are Night Zombies!! They Are Neighbors!! They Have Come Back From the Dead!! Ahhhh!](https://open.spotify.com/track/6pvwYMVs13EJ8jj4LMX0aV) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 5:09 | 2022-01-27 |  |
 | [Too Sad](https://open.spotify.com/track/5eXNMyp2IuWeTTZ02eYMJV) | [Ex:Re](https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ) | [Ex:Re](https://open.spotify.com/album/4GKZHV8rEZEVAU7irzJoi1) | 5:27 | 2022-01-27 | 2022-09-15 |

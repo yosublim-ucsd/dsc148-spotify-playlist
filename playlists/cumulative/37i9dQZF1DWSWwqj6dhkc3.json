@@ -656,10 +656,28 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 225546,
       "name": "July Flame",
       "url": "https://open.spotify.com/track/1CCUpPjfGDN2gqzCW2PhsE"
+    },
+    {
+      "album": {
+        "name": "July Flame",
+        "url": "https://open.spotify.com/album/5EvT3Lv3HLUluHhktffp3d"
+      },
+      "artists": [
+        {
+          "name": "Laura Veirs",
+          "url": "https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225546,
+      "name": "July Flame",
+      "url": "https://open.spotify.com/track/3vz3lJyDCmhC2JO9gg8nFw"
     },
     {
       "album": {

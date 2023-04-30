@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4nhvb6x9ZhPiYCzrHDNia9">Daphni</a>'s track IDs\. Updated regularly\. Curated by Daphni\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-50 songs - 4 hr 37 min
+51 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [North Star](https://open.spotify.com/track/3rvp7TBddkCytpmqmlvb55) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz), [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ), [A+A](https://open.spotify.com/artist/68bLkhHI4bzw9ZXfmhwLwN) | [060](https://open.spotify.com/album/0DTLz5YGbyEjQ0RyHtXaVA) | 6:43 | 2022-11-29 |  |
 | [O Nketsang?](https://open.spotify.com/track/3OjDd5JzGhYcxu0aORQKxk) | [Rex Rabanye](https://open.spotify.com/artist/59gjiT7gAiwtlNIR3KbgZD) | [Greatest Moments Of](https://open.spotify.com/album/1QQCKEDkhxEPsr4e0z65YO) | 6:44 | 2022-09-12 |  |
 | [Pax \- Four Tet Remix](https://open.spotify.com/track/3Pl95ENb22SyQA0ATuV7M3) | [Chloé Robinson](https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Steamin EP](https://open.spotify.com/album/0JnuWdbsS3j4NZByEybO2R) | 5:20 | 2022-11-29 |  |
-| [Pim Pom](https://open.spotify.com/track/5NyPUkmSjA4K8OXfGlqt6i) | [Wganda Kenya](https://open.spotify.com/artist/6svnFatzuDJZKCWIK6edka) | [Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975\-91](https://open.spotify.com/album/1gXeomyVC17Y26UmWP5ugy) | 4:17 | 2022-09-12 |  |
+| [Pim Pom](https://open.spotify.com/track/5NyPUkmSjA4K8OXfGlqt6i) | [Wganda Kenya](https://open.spotify.com/artist/6svnFatzuDJZKCWIK6edka) | [Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975\-91](https://open.spotify.com/album/1gXeomyVC17Y26UmWP5ugy) | 4:17 | 2022-09-12 | 2023-04-30 |
+| [Pim Pom](https://open.spotify.com/track/642TUblgapeBjyrnHsujan) | [Wganda Kenya](https://open.spotify.com/artist/6svnFatzuDJZKCWIK6edka) | [Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975\-91](https://open.spotify.com/album/46rUmHGdXxemAoZHzfGyzF) | 4:17 | 2022-09-12 |  |
 | [Plug](https://open.spotify.com/track/0xukmTIt2K2xmMPO7RpEcm) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6) | [Renormalization Support Group](https://open.spotify.com/album/2JChtxG4le5ePeCOGgBngg) | 4:21 | 2022-09-12 |  |
 | [Problems](https://open.spotify.com/track/1UERuR9hjz9GM609JIjtGx) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Problems](https://open.spotify.com/album/1aA9qnJT9NtySZA16RHkCD) | 4:37 | 2022-11-29 |  |
 | [Quartz](https://open.spotify.com/track/5DFWa5hGaadJ4tOqPUQ87o) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Kai Campos](https://open.spotify.com/artist/0ud7Vcl9BBEoOVwoWDqXIH) | [MK 3.5: Die Cuts \| City Planning](https://open.spotify.com/album/5s6aGKI2wpPxegrhLXmGIG) | 3:26 | 2022-09-12 |  |

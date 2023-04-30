@@ -554,7 +554,7 @@
     {
       "album": {
         "name": "Islands",
-        "url": "https://open.spotify.com/album/1gFkr3Ajx9pSy7LyMpep7s"
+        "url": "https://open.spotify.com/album/2s4qMHtO9DHsRBDe9sj9GW"
       },
       "artists": [
         {
@@ -565,6 +565,24 @@
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 287657,
+      "name": "Good Man",
+      "url": "https://open.spotify.com/track/2zqFhzSEAiKwsZqIR6Qy4q"
+    },
+    {
+      "album": {
+        "name": "Islands",
+        "url": "https://open.spotify.com/album/1gFkr3Ajx9pSy7LyMpep7s"
+      },
+      "artists": [
+        {
+          "name": "Justin Rutledge",
+          "url": "https://open.spotify.com/artist/2bCchS6Y3bKQjIK3MNFrx7"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 287657,
       "name": "Good Man",
       "url": "https://open.spotify.com/track/3IJldtif54gCJxgY3jySTS"
@@ -878,7 +896,7 @@
     {
       "album": {
         "name": "Aidan Knight",
-        "url": "https://open.spotify.com/album/5mnIrOjFFqM101hK5yqr6W"
+        "url": "https://open.spotify.com/album/2vaKoQYr3h9UjH4QvziCRO"
       },
       "artists": [
         {
@@ -889,6 +907,24 @@
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 317532,
+      "name": "Houston TX",
+      "url": "https://open.spotify.com/track/1YoTyrikfkZLGE4RHSylVt"
+    },
+    {
+      "album": {
+        "name": "Aidan Knight",
+        "url": "https://open.spotify.com/album/5mnIrOjFFqM101hK5yqr6W"
+      },
+      "artists": [
+        {
+          "name": "Aidan Knight",
+          "url": "https://open.spotify.com/artist/2CRrtAFY6WonETiQktbRe9"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 317532,
       "name": "Houston TX",
       "url": "https://open.spotify.com/track/2WHNbtmjL3a2pKc4LfSlxR"

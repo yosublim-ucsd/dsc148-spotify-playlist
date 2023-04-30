@@ -4,7 +4,7 @@
 
 > Thế hệ nghệ sĩ mới.
 
-57 songs - 3 hr 25 min
+61 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,10 +15,13 @@
 | [CHẮC LÀ SAY ÒI](https://open.spotify.com/track/798WQMqGeOrfTFepsCF3r7) | [Right](https://open.spotify.com/artist/0hUr8xEtATxbq2OTiJFAP0), [Max Benderz](https://open.spotify.com/artist/0ZDirTwCdmoL4RpbXxiRvj) | [CHẮC LÀ SAY ÒI](https://open.spotify.com/album/6BJ9LUWp8AqbKahQ0TnUZk) | 3:24 | 2022-09-09 |  |
 | [Chờ](https://open.spotify.com/track/4fSCE4KsyubWKT2hvSXmcn) | [Kim Kunni](https://open.spotify.com/artist/2OONhLKGZlcgaA9PQ2e64g) | [Chờ](https://open.spotify.com/album/1t24UniR5p7Pp1iAs0jmo0) | 3:18 | 2022-09-09 |  |
 | [Congratz to Me \(feat\. SOI\)](https://open.spotify.com/track/3jJOt4nfIGU9WzhdBm1TaR) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK), [SOI](https://open.spotify.com/artist/5b35BALBqCHvoV4vcbZQ1P) | [Words You Want](https://open.spotify.com/album/4NbdLnwTinHtXolBnSYmNG) | 2:18 | 2022-09-09 |  |
+| [Crowd](https://open.spotify.com/track/2yXywsQ4lgBRyrk4ey5gCQ) | [RPT TC](https://open.spotify.com/artist/620SGhgUsNYFnVULyiGCeL), [TDO Kwan](https://open.spotify.com/artist/1TXjcDbR8xtShzu08N5j0x), [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt) | [Crowd](https://open.spotify.com/album/2HrXbMtw6gcxn2adzRvNlN) | 3:40 | 2023-04-29 |  |
+| [CUC HINH](https://open.spotify.com/track/6KIbensnme8n5VkCMFJB6O) | [52Hz](https://open.spotify.com/artist/1y28JlO6rDMUB5rkcA4RAh), [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt) | [CUC HINH](https://open.spotify.com/album/0GcXZumuHbiQLmLyN1TBD7) | 2:47 | 2023-04-29 |  |
 | [Cánh Cửa](https://open.spotify.com/track/6dvh8dpUCNvKRoJt8m2eMM) | [Thịnh Suy](https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo), [Lazii](https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90) | [Door To Nowhere](https://open.spotify.com/album/5l7m3Ck0FMb0nDgzZfOBr3) | 3:41 | 2023-04-13 |  |
 | [Có Đâu Ai Ngờ](https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Có Đâu Ai Ngờ](https://open.spotify.com/album/706NYXSqVRFvEn2L4GFahN) | 3:40 | 2023-04-13 |  |
 | [Cô Nàng Khác Người](https://open.spotify.com/track/0lXtQXwhZImnpjmpze8ykX) | [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [Ngơ](https://open.spotify.com/artist/4RGBKkUyyvsim9vdBKCCkc), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [Cô Nàng Khác Người](https://open.spotify.com/album/5G0VCs90WtjTJV3CaRBbL1) | 3:06 | 2022-09-09 |  |
 | [DAM DUOI](https://open.spotify.com/track/1fR5VXsWg8PI1eDiSbV121) | [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ), [Bbynascar](https://open.spotify.com/artist/70xqUA23Q0PdxUOMqUCkqR) | [WRONGWAY](https://open.spotify.com/album/2cRmVgMV3XeYG6ZRd1gu2U) | 3:45 | 2023-04-13 |  |
+| [don't you say goodbye](https://open.spotify.com/track/5vqRtTX0n6Huy6eey2ld1H) | [Minh Đinh](https://open.spotify.com/artist/4NfuHLESitkh66LOZeyzsu), [Vũ Thanh Vân](https://open.spotify.com/artist/5ptgjFDE2abY6Xwo4ytufN), [Cashmel](https://open.spotify.com/artist/3KjC3qk8ZE5JbC4tSj8COh) | [don't you say goodbye](https://open.spotify.com/album/0QEmXtbT1MtTlebDtfjLNF) | 4:03 | 2023-04-29 |  |
 | [Du Ca Khúc](https://open.spotify.com/track/3Zhj3xciEukUSbRwvMowSs) | [Mer](https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5), [Lazii](https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90) | [Du Ca Khúc](https://open.spotify.com/album/33PgsFP4fN6zHyrCPOA9vP) | 1:58 | 2023-04-13 |  |
 | [Dumb Mê \- Acoustic Version](https://open.spotify.com/track/6mR3aPF7A0VoFrm5acTMXq) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Sâmflowers](https://open.spotify.com/album/4r2sh8ZMxq8yc3qT19bM3m) | 2:30 | 2022-09-09 |  |
 | [Dù Cho Mai Về Sau](https://open.spotify.com/track/4Iz5EWPCAT8jYNk4IpLoll) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau](https://open.spotify.com/album/38rXnQ4McNlZGTA3WNPNc1) | 3:53 | 2022-09-09 |  |
@@ -46,6 +49,7 @@
 | [Lỡ Say Bye Là Bye](https://open.spotify.com/track/0d6dbFvKczX1Us3J7TsMMv) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9), [Lemese](https://open.spotify.com/artist/0DL9VpY3UsZWQyDOO5Ej2o) | [Lỡ Say Bye Là Bye](https://open.spotify.com/album/3BKiAnPnm2Xn2cWB2uWeE0) | 3:34 | 2022-09-09 |  |
 | [MOT NGUOI VI EM](https://open.spotify.com/track/6lmJXxTcLTe6bdgwSfTqhO) | [WEAN](https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8) | [MOT NGUOI VI EM](https://open.spotify.com/album/4RdYWBn5Vw5SOYH0A30v1u) | 3:30 | 2022-09-09 |  |
 | [Mê](https://open.spotify.com/track/6Rbz4nzR4ytexB7Zx28AmL) | [Hoàng Duyên](https://open.spotify.com/artist/3LbBKYlyMaATS8IIe7HJ0d) | [Mê](https://open.spotify.com/album/48ZqlDgLxU4jjkUGnopIFk) | 3:38 | 2022-09-09 |  |
+| [Mưa Ơi Đừng Rơi](https://open.spotify.com/track/6LjnpeWCzBpbkP5DqeuqlU) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj), [REDT](https://open.spotify.com/artist/5iggzY0xY68wNNWXhiPrZz) | [Mưa Ơi Đừng Rơi](https://open.spotify.com/album/0oEecgtZQYMnTZpP1fSQMf) | 3:29 | 2023-04-29 |  |
 | [NICOT!NE](https://open.spotify.com/track/6bHUW6F0VTOHoiXVX7IjHA) | [hooligan.](https://open.spotify.com/artist/4sDsgLXhS6If9HrV2mwuSx) | [NICOT!NE](https://open.spotify.com/album/5y7rMRphWLC64hLb2OUwr8) | 3:44 | 2022-09-09 |  |
 | [Nếu Ngày Mai Tôi Không Trở Về](https://open.spotify.com/track/33Lp6YwMsoES08PFMHgO28) | [The Cassette](https://open.spotify.com/artist/1fQjpmcx8iNIy1gKRelTD2) | [Rừng Đom Đóm](https://open.spotify.com/album/68bMwerbq9axDV5m1wZYAn) | 3:53 | 2023-04-13 |  |
 | [Obsessed](https://open.spotify.com/track/1uCmkKTV9aiMZrVJm1zDoT) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK) | [Obsessed](https://open.spotify.com/album/6PiV1ByuZd4o8HUwI83yav) | 2:28 | 2022-09-09 |  |

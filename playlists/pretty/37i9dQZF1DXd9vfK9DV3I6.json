@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 245905,
+  "num_followers": 246168,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTdlMDQ0OTE5Nzg3MjBhNjQ1MTE0MTg2OTg3NzM4ZDA1NzMzMGQ1",
+  "snapshot_id": "MCxlMGVjYWU5OGMzODhlOWRkZDJmMDEwMTI5MzQwYjk2MDM2Nzg5MGYx",
   "tracks": [
     {
       "added_at": "2023-04-28 15:20:33",
@@ -983,6 +983,26 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
+        "name": "Che Danestam (Seventh Soul Remix)",
+        "url": "https://open.spotify.com/album/0To3grEONUEhU3NhuZwKkS"
+      },
+      "artists": [
+        {
+          "name": "Homayoun Shajarian",
+          "url": "https://open.spotify.com/artist/5Uj3HYkiz1cn32IPHMqhOy"
+        },
+        {
+          "name": "Seventh Soul",
+          "url": "https://open.spotify.com/artist/7JfGGDKGTmy0JyjawXv0F6"
+        }
+      ],
+      "duration_ms": 506666,
+      "name": "Che Danestam - Seventh Soul Remix",
+      "url": "https://open.spotify.com/track/5TteGvnDqhsp5aJhbASQ1S"
+    },
+    {
+      "added_at": "2023-04-28 15:20:33",
+      "album": {
         "name": "Sophonisbe",
         "url": "https://open.spotify.com/album/0v9XsFBlAt1lyDuFhO1ZhM"
       },
@@ -1019,26 +1039,6 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
-        "name": "Che Danestam (Seventh Soul Remix)",
-        "url": "https://open.spotify.com/album/0To3grEONUEhU3NhuZwKkS"
-      },
-      "artists": [
-        {
-          "name": "Homayoun Shajarian",
-          "url": "https://open.spotify.com/artist/5Uj3HYkiz1cn32IPHMqhOy"
-        },
-        {
-          "name": "Seventh Soul",
-          "url": "https://open.spotify.com/artist/7JfGGDKGTmy0JyjawXv0F6"
-        }
-      ],
-      "duration_ms": 506666,
-      "name": "Che Danestam - Seventh Soul Remix",
-      "url": "https://open.spotify.com/track/5TteGvnDqhsp5aJhbASQ1S"
-    },
-    {
-      "added_at": "2023-04-28 15:20:33",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/2eNP8ynGQaauz1pwPnsYH0"
       },
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
-        "name": "La rose \u00e9ternelle",
-        "url": "https://open.spotify.com/album/0fwLAyLc6trrhaDY73QGJc"
-      },
-      "artists": [
-        {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
-        }
-      ],
-      "duration_ms": 270015,
-      "name": "La rose \u00e9ternelle",
-      "url": "https://open.spotify.com/track/03cVD7fHfjGRGi2kEOyIy3"
-    },
-    {
-      "added_at": "2023-04-28 15:20:33",
-      "album": {
         "name": "Sakaratou Achiqin",
         "url": "https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 139415,
       "name": "Sakaratou Achiqin",
       "url": "https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb"
+    },
+    {
+      "added_at": "2023-04-28 15:20:33",
+      "album": {
+        "name": "La rose \u00e9ternelle",
+        "url": "https://open.spotify.com/album/0fwLAyLc6trrhaDY73QGJc"
+      },
+      "artists": [
+        {
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+        }
+      ],
+      "duration_ms": 270015,
+      "name": "La rose \u00e9ternelle",
+      "url": "https://open.spotify.com/track/03cVD7fHfjGRGi2kEOyIy3"
     },
     {
       "added_at": "2023-04-28 15:20:33",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
+        "name": "Ahwak (Deeper Remix)",
+        "url": "https://open.spotify.com/album/5GDwXSsWyY5h7nFTT9UJ90"
+      },
+      "artists": [
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        }
+      ],
+      "duration_ms": 300582,
+      "name": "Ahwak (Deeper Remix)",
+      "url": "https://open.spotify.com/track/7czCBbKR2qXJRkf5pwml1V"
+    },
+    {
+      "added_at": "2023-04-28 15:20:33",
+      "album": {
         "name": "Prophecies of the Ancient Future",
         "url": "https://open.spotify.com/album/1KQT7GzCu1bnpRnTPyMvbH"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 320045,
       "name": "Sensiz",
       "url": "https://open.spotify.com/track/6psUMUMTW8I726NIyK9jD5"
-    },
-    {
-      "added_at": "2023-04-28 15:20:33",
-      "album": {
-        "name": "Ahwak (Deeper Remix)",
-        "url": "https://open.spotify.com/album/5GDwXSsWyY5h7nFTT9UJ90"
-      },
-      "artists": [
-        {
-          "name": "Jad Halal",
-          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
-        }
-      ],
-      "duration_ms": 300582,
-      "name": "Ahwak (Deeper Remix)",
-      "url": "https://open.spotify.com/track/7czCBbKR2qXJRkf5pwml1V"
     },
     {
       "added_at": "2023-04-28 15:20:33",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
-        "name": "Lamouni",
-        "url": "https://open.spotify.com/album/52Oz7HNLmvzVBmFdzNEAUZ"
-      },
-      "artists": [
-        {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
-        },
-        {
-          "name": "CHAAMA",
-          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
-        }
-      ],
-      "duration_ms": 217647,
-      "name": "Lamouni",
-      "url": "https://open.spotify.com/track/388VvqIYj3edEMaHUXNUcN"
-    },
-    {
-      "added_at": "2023-04-28 15:20:33",
-      "album": {
         "name": "Letters",
         "url": "https://open.spotify.com/album/5Rqz7SWCbh3bZ5ny8tN36t"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 551025,
       "name": "Ala Moj Al Bahr - Javid Remix",
       "url": "https://open.spotify.com/track/5l4PuZcYTIpFPpzPdfdSlj"
+    },
+    {
+      "added_at": "2023-04-28 15:20:33",
+      "album": {
+        "name": "Lamouni",
+        "url": "https://open.spotify.com/album/52Oz7HNLmvzVBmFdzNEAUZ"
+      },
+      "artists": [
+        {
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+        },
+        {
+          "name": "CHAAMA",
+          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
+        }
+      ],
+      "duration_ms": 217647,
+      "name": "Lamouni",
+      "url": "https://open.spotify.com/track/388VvqIYj3edEMaHUXNUcN"
     },
     {
       "added_at": "2023-04-28 15:20:33",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
-        "name": "Izvor",
-        "url": "https://open.spotify.com/album/7zfqQQ0mzEutNin8LTuW71"
-      },
-      "artists": [
-        {
-          "name": "Tebra",
-          "url": "https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "Izvor",
-      "url": "https://open.spotify.com/track/4z7tWC9yzgcCD23hY8uQaV"
-    },
-    {
-      "added_at": "2023-04-28 15:20:33",
-      "album": {
         "name": "El Hawa",
         "url": "https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 347855,
       "name": "El Hawa",
       "url": "https://open.spotify.com/track/6T7WDZFKTZVGxZyRMBZ4AR"
+    },
+    {
+      "added_at": "2023-04-28 15:20:33",
+      "album": {
+        "name": "Izvor",
+        "url": "https://open.spotify.com/album/7zfqQQ0mzEutNin8LTuW71"
+      },
+      "artists": [
+        {
+          "name": "Tebra",
+          "url": "https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P"
+        }
+      ],
+      "duration_ms": 400000,
+      "name": "Izvor",
+      "url": "https://open.spotify.com/track/4z7tWC9yzgcCD23hY8uQaV"
     },
     {
       "added_at": "2023-04-28 15:20:33",
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
+        "name": "3ala bali",
+        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Pamela Antoun",
+          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
+        }
+      ],
+      "duration_ms": 210132,
+      "name": "3ala bali",
+      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
+    },
+    {
+      "added_at": "2023-04-28 15:20:33",
+      "album": {
         "name": "Mandala",
         "url": "https://open.spotify.com/album/7AaSQmgtNyGxMZgjfgeesi"
       },
@@ -1703,6 +1723,22 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
+        "name": "Asha",
+        "url": "https://open.spotify.com/album/4LPRpbAdUmN4tIWTwvVxgd"
+      },
+      "artists": [
+        {
+          "name": "Furkan Sert",
+          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
+        }
+      ],
+      "duration_ms": 252857,
+      "name": "Asha",
+      "url": "https://open.spotify.com/track/0lLe5dTgMti1f8fvGCuFcm"
+    },
+    {
+      "added_at": "2023-04-28 15:20:33",
+      "album": {
         "name": "Stop the Time",
         "url": "https://open.spotify.com/album/23WqBmAtkeKhjzmxYpgVqu"
       },
@@ -1727,22 +1763,6 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
-        "name": "Asha",
-        "url": "https://open.spotify.com/album/4LPRpbAdUmN4tIWTwvVxgd"
-      },
-      "artists": [
-        {
-          "name": "Furkan Sert",
-          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
-        }
-      ],
-      "duration_ms": 252857,
-      "name": "Asha",
-      "url": "https://open.spotify.com/track/0lLe5dTgMti1f8fvGCuFcm"
-    },
-    {
-      "added_at": "2023-04-28 15:20:33",
-      "album": {
         "name": "Mindreader",
         "url": "https://open.spotify.com/album/2S6yN5zAZpFmCuBKSU8YSM"
       },
@@ -1755,26 +1775,6 @@
       "duration_ms": 172850,
       "name": "Mindreader",
       "url": "https://open.spotify.com/track/5P52da2sNatI3lgZEW5Prb"
-    },
-    {
-      "added_at": "2023-04-28 15:20:33",
-      "album": {
-        "name": "3ala bali",
-        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
-      },
-      "artists": [
-        {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Pamela Antoun",
-          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
-        }
-      ],
-      "duration_ms": 210132,
-      "name": "3ala bali",
-      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
     },
     {
       "added_at": "2023-04-28 15:20:33",
@@ -1799,18 +1799,22 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
-        "name": "Lane Moje",
-        "url": "https://open.spotify.com/album/6NnOkaGVXBevjn8lWFDACE"
+        "name": "Moulayiten",
+        "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
       },
       "artists": [
         {
-          "name": "DJ Dark",
-          "url": "https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn"
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Ahmad Sleiman",
+          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
         }
       ],
-      "duration_ms": 179478,
-      "name": "Lane Moje - Radio Edit",
-      "url": "https://open.spotify.com/track/3X2n6qNzVzZYhf3MqYC7c4"
+      "duration_ms": 297593,
+      "name": "Moulayiten",
+      "url": "https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR"
     },
     {
       "added_at": "2023-04-28 15:20:33",
@@ -1835,6 +1839,22 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
+        "name": "Lane Moje",
+        "url": "https://open.spotify.com/album/6NnOkaGVXBevjn8lWFDACE"
+      },
+      "artists": [
+        {
+          "name": "DJ Dark",
+          "url": "https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn"
+        }
+      ],
+      "duration_ms": 179478,
+      "name": "Lane Moje - Radio Edit",
+      "url": "https://open.spotify.com/track/3X2n6qNzVzZYhf3MqYC7c4"
+    },
+    {
+      "added_at": "2023-04-28 15:20:33",
+      "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm"
       },
@@ -1847,26 +1867,6 @@
       "duration_ms": 213737,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM"
-    },
-    {
-      "added_at": "2023-04-28 15:20:33",
-      "album": {
-        "name": "Moulayiten",
-        "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
-      },
-      "artists": [
-        {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Ahmad Sleiman",
-          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
-        }
-      ],
-      "duration_ms": 297593,
-      "name": "Moulayiten",
-      "url": "https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR"
     },
     {
       "added_at": "2023-04-28 15:20:33",
@@ -1939,30 +1939,18 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
-        "name": "The Universe of Buddha Bar",
-        "url": "https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm"
+        "name": "Roots LP",
+        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
       },
       "artists": [
         {
-          "name": "Buddha-Bar",
-          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
-        },
-        {
           "name": "Mr. ID",
           "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
-        },
-        {
-          "name": "Momo Ryuk",
-          "url": "https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE"
-        },
-        {
-          "name": "Salah Hammadi",
-          "url": "https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T"
         }
       ],
-      "duration_ms": 355886,
-      "name": "Lbechra",
-      "url": "https://open.spotify.com/track/5zTSZWYD9bIhrpeJbt42sp"
+      "duration_ms": 178153,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
     }
   ],
   "unique_name": "mosaic",

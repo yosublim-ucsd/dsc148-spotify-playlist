@@ -1,12 +1,12 @@
 {
   "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Grupo Frontera & Bad Bunny",
-  "num_followers": 21341,
+  "num_followers": 21372,
   "original_name": "Internacional Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTQyYjUzM2RkOGIwMjQ5Njk5ZmZjMGZhZGE2N2I1ZjYzYWZlZTAz",
+  "snapshot_id": "MCwxZGIyYTFhZWY0NjExOGQyMjllNDc1Mjc4MjhiYzU2NjVjOTViMzkz",
   "tracks": [
     {
       "added_at": "2023-04-28 20:36:49",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-04-28 20:36:49",
       "album": {
-        "name": "Da\u00f1ado (Deluxe)",
-        "url": "https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Tatuajes - Deluxe",
-      "url": "https://open.spotify.com/track/2b4YJ0j60w3YPIFot0oodu"
-    },
-    {
-      "added_at": "2023-04-28 20:36:49",
-      "album": {
         "name": "Cada Quien",
         "url": "https://open.spotify.com/album/5cyWGgkGniYOaNkKrPOy1p"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 170925,
       "name": "Pacas Verdes",
       "url": "https://open.spotify.com/track/2yFQXRSMJgaixzpP6gn8jr"
+    },
+    {
+      "added_at": "2023-04-28 20:36:49",
+      "album": {
+        "name": "Da\u00f1ado (Deluxe)",
+        "url": "https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Tatuajes - Deluxe",
+      "url": "https://open.spotify.com/track/2b4YJ0j60w3YPIFot0oodu"
     },
     {
       "added_at": "2023-04-28 20:36:49",
@@ -643,26 +643,6 @@
     {
       "added_at": "2023-04-28 20:36:49",
       "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 241106,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86"
-    },
-    {
-      "added_at": "2023-04-28 20:36:49",
-      "album": {
         "name": "Me Dej\u00e9 Llevar",
         "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 233533,
       "name": "Probablemente",
       "url": "https://open.spotify.com/track/3uc5bBXNRtCQGzRDqTPGNK"
+    },
+    {
+      "added_at": "2023-04-28 20:36:49",
+      "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 241106,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86"
     },
     {
       "added_at": "2023-04-28 20:36:49",
@@ -823,6 +823,26 @@
     {
       "added_at": "2023-04-28 20:36:49",
       "album": {
+        "name": "Mis Manos",
+        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 200945,
+      "name": "Tuyo y M\u00edo",
+      "url": "https://open.spotify.com/track/4msyEItsAavVb5pZYCuz4n"
+    },
+    {
+      "added_at": "2023-04-28 20:36:49",
+      "album": {
         "name": "Alguien Me Gusta",
         "url": "https://open.spotify.com/album/79WB96tQV9vPJ920cbneZ9"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 168533,
       "name": "Alguien Me Gusta",
       "url": "https://open.spotify.com/track/4iFTIshL0xDCw8JJUl5AJ3"
-    },
-    {
-      "added_at": "2023-04-28 20:36:49",
-      "album": {
-        "name": "Mis Manos",
-        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 200945,
-      "name": "Tuyo y M\u00edo",
-      "url": "https://open.spotify.com/track/4msyEItsAavVb5pZYCuz4n"
     },
     {
       "added_at": "2023-04-28 20:36:49",
@@ -1399,42 +1399,6 @@
     {
       "added_at": "2023-04-28 20:36:49",
       "album": {
-        "name": "DEL Barrio a la Ciudad",
-        "url": "https://open.spotify.com/album/1IzjCzWQ3SsMwjoY8TMmlx"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 217458,
-      "name": "DEL Barrio a la Ciudad",
-      "url": "https://open.spotify.com/track/3kk2ouD96VMdv8WUz57OLm"
-    },
-    {
-      "added_at": "2023-04-28 20:36:49",
-      "album": {
-        "name": "SEIS",
-        "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 182280,
-      "name": "No Lo Vi Venir",
-      "url": "https://open.spotify.com/track/0jHaTmAiY9trB4AjVECmR9"
-    },
-    {
-      "added_at": "2023-04-28 20:36:49",
-      "album": {
         "name": "DELUXE",
         "url": "https://open.spotify.com/album/1GqEkyZqFiv1k45AQzEyHk"
       },
@@ -1455,6 +1419,42 @@
       "duration_ms": 226473,
       "name": "Glopeta y Dios",
       "url": "https://open.spotify.com/track/3ipLtuOWd0xHEWZKju7foh"
+    },
+    {
+      "added_at": "2023-04-28 20:36:49",
+      "album": {
+        "name": "SEIS",
+        "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 182280,
+      "name": "No Lo Vi Venir",
+      "url": "https://open.spotify.com/track/0jHaTmAiY9trB4AjVECmR9"
+    },
+    {
+      "added_at": "2023-04-28 20:36:49",
+      "album": {
+        "name": "DEL Barrio a la Ciudad",
+        "url": "https://open.spotify.com/album/1IzjCzWQ3SsMwjoY8TMmlx"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 217458,
+      "name": "DEL Barrio a la Ciudad",
+      "url": "https://open.spotify.com/track/3kk2ouD96VMdv8WUz57OLm"
     },
     {
       "added_at": "2023-04-28 20:36:49",

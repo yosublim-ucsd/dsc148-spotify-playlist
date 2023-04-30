@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Coi Leray, Jack Harlow and more\. Cover: G Herbo
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,824 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,891 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 8 | [Whip It](https://open.spotify.com/track/3TmwzKk7dOnMka3Q7NvGht) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR \(Deluxe\)](https://open.spotify.com/album/3NMpB1bl2kVyZSqMUN9F3I) | 2:17 |
 | 9 | [Motion God](https://open.spotify.com/track/75ZoVrZ4mXEsDxv1bQbEAS) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Motion God](https://open.spotify.com/album/1TwrnBDlShNlNIn20c5h31) | 2:23 |
 | 10 | [Sweeter Scars](https://open.spotify.com/track/5gqsRd3x46C7dkVDNPIQ6H) | [Just Juice](https://open.spotify.com/artist/4s0K7Gh1qCZCXB5OuMF1VT), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Sweeter Scars](https://open.spotify.com/album/7atAlfldLb0ZTAptZlSaeC) | 3:40 |
-| 11 | [Toxic Ish](https://open.spotify.com/track/13IyPWwTjRTWW62z6L349L) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Toxic Ish](https://open.spotify.com/album/6wdCYDNMmP5C8cdePXGmWh) | 3:07 |
+| 11 | [Toxic Ish](https://open.spotify.com/track/13IyPWwTjRTWW62z6L349L) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Toxic Ish](https://open.spotify.com/album/6wdCYDNMmP5C8cdePXGmWh) | 3:23 |
 | 12 | [Turn It Up](https://open.spotify.com/track/6ou2irr0bEoGNaTejrOEBl) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Turn It Up](https://open.spotify.com/album/6A0KCC9AaG4ZTK8KhfxRVE) | 2:02 |
 | 13 | [Just Relax](https://open.spotify.com/track/4ZJ58LR9dwGJBFGC8RilBM) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Just Relax](https://open.spotify.com/album/0Su9sgYg2FJNn6tamiu7Lc) | 2:32 |
 | 14 | [Put It On Da Floor](https://open.spotify.com/track/1HYfsZnq3EXwK7SV8tYPoT) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Put It On Da Floor](https://open.spotify.com/album/6t8NaWyCTONzie6RKcK7TS) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Ride Fa Mine \(feat\. Lg Malique\)](https://open.spotify.com/track/1ZDVPL4Xo7amU1xwau9MnC) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [Lg Malique](https://open.spotify.com/artist/3AVhTymLXfDZtJ7EJybv4p) | [Ride Fa Mine \(feat\. Lg Malique\)](https://open.spotify.com/album/7agIKqkg5VdHU1GheLPy7k) | 3:12 |
 | 50 | [They Forgot](https://open.spotify.com/track/3wi1eX69hrWTUXArhA5KeS) | [2FeetBino](https://open.spotify.com/artist/5sw4vau0N1fwalr2ACVN9M) | [They Forgot](https://open.spotify.com/album/3t6d1nnXu0Y8nvvJ2PEnHF) | 2:21 |
 
-Snapshot ID: `MCw2YTM0MDZkMmJmZDhkNzBmM2NmMWM5MzFlMDEwY2Y0ZDQwNmQ3MmRl`
+Snapshot ID: `MCxlOWViOTAzMTUwZWE5YTU5YTRmZDAxMjk1YWU1MDVkZGI2OTdkMzNi`

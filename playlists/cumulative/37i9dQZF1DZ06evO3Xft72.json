@@ -673,6 +673,28 @@
     },
     {
       "album": {
+        "name": "Pour Some Sugar on Me",
+        "url": "https://open.spotify.com/album/3j9vEFTtoIkDB6T61oXfA6"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114285,
+      "name": "Pour Some Sugar on Me.",
+      "url": "https://open.spotify.com/track/5sKtnoNA2vJ9c67swpGtnk"
+    },
+    {
+      "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/7EAgGLOZoYNm5P5rF5IjV2"
       },

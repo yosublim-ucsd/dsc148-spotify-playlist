@@ -1,15 +1,83 @@
 {
   "description": "Th\u1ebf h\u1ec7 ngh\u1ec7 s\u0129 m\u1edbi.",
-  "num_followers": 1993,
+  "num_followers": 2000,
   "original_name": "RADAR Vietnam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWZlNjFkNTI4N2ViYTIzYmIyYzdlOTg3ZmRiMDFmNGNlYmFmNGM0",
+  "snapshot_id": "MCxjYmNjMTQ3YWEyNDFiMTJjOWFlMThlNzk3NGRhMGM3OGE0MGE0NzY5",
   "tracks": [
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
+      "album": {
+        "name": "Crowd",
+        "url": "https://open.spotify.com/album/2HrXbMtw6gcxn2adzRvNlN"
+      },
+      "artists": [
+        {
+          "name": "RPT TC",
+          "url": "https://open.spotify.com/artist/620SGhgUsNYFnVULyiGCeL"
+        },
+        {
+          "name": "TDO Kwan",
+          "url": "https://open.spotify.com/artist/1TXjcDbR8xtShzu08N5j0x"
+        },
+        {
+          "name": "Coldzy",
+          "url": "https://open.spotify.com/artist/401ikVSob52311M6Fwnunt"
+        }
+      ],
+      "duration_ms": 220098,
+      "name": "Crowd",
+      "url": "https://open.spotify.com/track/2yXywsQ4lgBRyrk4ey5gCQ"
+    },
+    {
+      "added_at": "2023-04-29 09:55:13",
+      "album": {
+        "name": "C\u00f4 N\u00e0ng Kh\u00e1c Ng\u01b0\u1eddi",
+        "url": "https://open.spotify.com/album/5G0VCs90WtjTJV3CaRBbL1"
+      },
+      "artists": [
+        {
+          "name": "Pixel Neko",
+          "url": "https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7"
+        },
+        {
+          "name": "Ng\u01a1",
+          "url": "https://open.spotify.com/artist/4RGBKkUyyvsim9vdBKCCkc"
+        },
+        {
+          "name": "Wxrdie",
+          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
+        }
+      ],
+      "duration_ms": 186151,
+      "name": "C\u00f4 N\u00e0ng Kh\u00e1c Ng\u01b0\u1eddi",
+      "url": "https://open.spotify.com/track/0lXtQXwhZImnpjmpze8ykX"
+    },
+    {
+      "added_at": "2023-04-29 09:55:13",
+      "album": {
+        "name": "Words You Want (feat. SOI)",
+        "url": "https://open.spotify.com/album/1Cbw4XP3Kpv2IjH2ZlwZ2Z"
+      },
+      "artists": [
+        {
+          "name": "Rhosy",
+          "url": "https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK"
+        },
+        {
+          "name": "SOI",
+          "url": "https://open.spotify.com/artist/5b35BALBqCHvoV4vcbZQ1P"
+        }
+      ],
+      "duration_ms": 144410,
+      "name": "Words You Want (feat. SOI)",
+      "url": "https://open.spotify.com/track/3VvsQQVICDghw26uFsrs8O"
+    },
+    {
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "\u0110\u1ebfn \u0110\u00f3n Em \u0110i Ch\u01a1i \u0110i Anh",
         "url": "https://open.spotify.com/album/0bRkXFokx3dtwJst6rcLCN"
@@ -29,7 +97,7 @@
       "url": "https://open.spotify.com/track/489cWPdS6lbpdBHmd9duxp"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "GIAYPHUT",
         "url": "https://open.spotify.com/album/6SoQl8PJVJHowDiHamT3sH"
@@ -45,7 +113,7 @@
       "url": "https://open.spotify.com/track/07b849p3xuq03EdlAo4CKX"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "Th\u1ebf Gi\u1edbi C\u1ee7a Em",
         "url": "https://open.spotify.com/album/0SkClw8Gjjd9EotloigIVT"
@@ -65,7 +133,7 @@
       "url": "https://open.spotify.com/track/24DVKr1495WzRv1lNOlvRz"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "If You Said So (feat. Wxrdie & 2Pillz)",
         "url": "https://open.spotify.com/album/6AtPsc69M5XW9Uib4mA2qi"
@@ -89,7 +157,31 @@
       "url": "https://open.spotify.com/track/0HoW6vYSTE9eutD16ZpXv0"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
+      "album": {
+        "name": "don't you say goodbye",
+        "url": "https://open.spotify.com/album/0QEmXtbT1MtTlebDtfjLNF"
+      },
+      "artists": [
+        {
+          "name": "Minh \u0110inh",
+          "url": "https://open.spotify.com/artist/4NfuHLESitkh66LOZeyzsu"
+        },
+        {
+          "name": "V\u0169 Thanh V\u00e2n",
+          "url": "https://open.spotify.com/artist/5ptgjFDE2abY6Xwo4ytufN"
+        },
+        {
+          "name": "Cashmel",
+          "url": "https://open.spotify.com/artist/3KjC3qk8ZE5JbC4tSj8COh"
+        }
+      ],
+      "duration_ms": 243903,
+      "name": "don't you say goodbye",
+      "url": "https://open.spotify.com/track/5vqRtTX0n6Huy6eey2ld1H"
+    },
+    {
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "Door To Nowhere",
         "url": "https://open.spotify.com/album/5l7m3Ck0FMb0nDgzZfOBr3"
@@ -109,7 +201,51 @@
       "url": "https://open.spotify.com/track/6dvh8dpUCNvKRoJt8m2eMM"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
+      "album": {
+        "name": "R\u00f3t Ti\u1ebfp",
+        "url": "https://open.spotify.com/album/4c4l3zyMSwsDjajgrhJ5dq"
+      },
+      "artists": [
+        {
+          "name": "Pixel Neko",
+          "url": "https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7"
+        },
+        {
+          "name": "Liu Grace",
+          "url": "https://open.spotify.com/artist/5DTQVDm1qjLUoAGC8v85c3"
+        },
+        {
+          "name": "Steji",
+          "url": "https://open.spotify.com/artist/5AnW83Ip0xPJ3Pgn0YWDhd"
+        }
+      ],
+      "duration_ms": 190779,
+      "name": "R\u00f3t Ti\u1ebfp",
+      "url": "https://open.spotify.com/track/5U61WeETed0vWK3HUf8Xr6"
+    },
+    {
+      "added_at": "2023-04-29 09:55:13",
+      "album": {
+        "name": "CUC HINH",
+        "url": "https://open.spotify.com/album/0GcXZumuHbiQLmLyN1TBD7"
+      },
+      "artists": [
+        {
+          "name": "52Hz",
+          "url": "https://open.spotify.com/artist/1y28JlO6rDMUB5rkcA4RAh"
+        },
+        {
+          "name": "Coldzy",
+          "url": "https://open.spotify.com/artist/401ikVSob52311M6Fwnunt"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "CUC HINH",
+      "url": "https://open.spotify.com/track/6KIbensnme8n5VkCMFJB6O"
+    },
+    {
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "R\u1eebng \u0110om \u0110\u00f3m",
         "url": "https://open.spotify.com/album/68bMwerbq9axDV5m1wZYAn"
@@ -125,7 +261,7 @@
       "url": "https://open.spotify.com/track/6waGMOhiJ68iq8gpO3dqib"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "d\u1ef1 b\u00e1o th\u1eddi ti\u1ebft h\u00f4m nay m\u01b0a \u2013 Maxi Single",
         "url": "https://open.spotify.com/album/7q2bB2NNFlNbtqadbn55pL"
@@ -141,7 +277,27 @@
       "url": "https://open.spotify.com/track/7bFFUPBiF15n8m8RziqS4o"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
+      "album": {
+        "name": "M\u01b0a \u01a0i \u0110\u1eebng R\u01a1i",
+        "url": "https://open.spotify.com/album/0oEecgtZQYMnTZpP1fSQMf"
+      },
+      "artists": [
+        {
+          "name": "C\u1ea7m",
+          "url": "https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj"
+        },
+        {
+          "name": "REDT",
+          "url": "https://open.spotify.com/artist/5iggzY0xY68wNNWXhiPrZz"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "M\u01b0a \u01a0i \u0110\u1eebng R\u01a1i",
+      "url": "https://open.spotify.com/track/6LjnpeWCzBpbkP5DqeuqlU"
+    },
+    {
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "Hungover (feat. V\u0169 C\u00e1t T\u01b0\u1eddng)",
         "url": "https://open.spotify.com/album/4y3eau8LhHk8VDoDWB7HWQ"
@@ -161,7 +317,7 @@
       "url": "https://open.spotify.com/track/5cxX6mL978HKzOMcGqKD8v"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "Bi\u1ebft Sao \u0110\u01b0\u1ee3c",
         "url": "https://open.spotify.com/album/5Pl9ObSp8EPfkdehTqrTel"
@@ -185,7 +341,7 @@
       "url": "https://open.spotify.com/track/5oksT9bmSgHN9gaKvmpgXp"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "7711 (b\u1ea3y b\u1ea3y m\u1ed9t m\u1ed9t) [Acoustic Ver]",
         "url": "https://open.spotify.com/album/703wXKqIsuE8ltDw4p112m"
@@ -201,7 +357,7 @@
       "url": "https://open.spotify.com/track/57oEOsLQGQto9vUvMVB3Vy"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "Du Ca Kh\u00fac",
         "url": "https://open.spotify.com/album/33PgsFP4fN6zHyrCPOA9vP"
@@ -221,7 +377,7 @@
       "url": "https://open.spotify.com/track/3Zhj3xciEukUSbRwvMowSs"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "R\u1eebng \u0110om \u0110\u00f3m",
         "url": "https://open.spotify.com/album/68bMwerbq9axDV5m1wZYAn"
@@ -237,7 +393,7 @@
       "url": "https://open.spotify.com/track/33Lp6YwMsoES08PFMHgO28"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "Bad Performance",
         "url": "https://open.spotify.com/album/2CKrFtn7APctaOCi10UZ4S"
@@ -253,7 +409,7 @@
       "url": "https://open.spotify.com/track/3zama7xcVNrWj6nLCw9a2x"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "d\u1ef1 b\u00e1o th\u1eddi ti\u1ebft h\u00f4m nay m\u01b0a \u2013 Maxi Single",
         "url": "https://open.spotify.com/album/7q2bB2NNFlNbtqadbn55pL"
@@ -269,7 +425,7 @@
       "url": "https://open.spotify.com/track/4Xai78OB5OKQI9EFYcCzxD"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "S\u00e2mflowers",
         "url": "https://open.spotify.com/album/4r2sh8ZMxq8yc3qT19bM3m"
@@ -285,7 +441,7 @@
       "url": "https://open.spotify.com/track/1IuQ1QnMRuISpiS7BMjpS7"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "WRONGWAY",
         "url": "https://open.spotify.com/album/2cRmVgMV3XeYG6ZRd1gu2U"
@@ -305,7 +461,7 @@
       "url": "https://open.spotify.com/track/1fR5VXsWg8PI1eDiSbV121"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "C\u00f3 \u0110\u00e2u Ai Ng\u1edd",
         "url": "https://open.spotify.com/album/706NYXSqVRFvEn2L4GFahN"
@@ -321,7 +477,7 @@
       "url": "https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "H\u01b0\u01a1ng M\u00f9a H\u00e8 EP.01",
         "url": "https://open.spotify.com/album/7Do6GQrbmkYtOjg1S2HRe3"
@@ -349,7 +505,7 @@
       "url": "https://open.spotify.com/track/3LfiZlWffAqGOAQ6sKjoJP"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "IYA.",
         "url": "https://open.spotify.com/album/67nTFHJgJjVvQ73BLUjXhJ"
@@ -365,7 +521,7 @@
       "url": "https://open.spotify.com/track/3SBP53NRX6Rik4ufPlfrV8"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "I Should've Known",
         "url": "https://open.spotify.com/album/2zL7QvM658iVV9rLCsAfbb"
@@ -381,7 +537,7 @@
       "url": "https://open.spotify.com/track/2d7BDniXFXApGT1ggmF7BN"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "S\u00e2mflowers",
         "url": "https://open.spotify.com/album/4r2sh8ZMxq8yc3qT19bM3m"
@@ -397,7 +553,7 @@
       "url": "https://open.spotify.com/track/6mR3aPF7A0VoFrm5acTMXq"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "In The Rain",
         "url": "https://open.spotify.com/album/1HCjPwy3asgEGXF0U1465m"
@@ -417,7 +573,7 @@
       "url": "https://open.spotify.com/track/6MbHcqR7IBGUR8cUE9aLS4"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "Th\u1ebf Th\u00f4i",
         "url": "https://open.spotify.com/album/246AHh3LvTsa9Nfi4xrrng"
@@ -433,7 +589,7 @@
       "url": "https://open.spotify.com/track/3q9jkVZnem47J0HdQEK8WM"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "Got You",
         "url": "https://open.spotify.com/album/3UjnX1grSaDSrfGG4NWaM2"
@@ -449,7 +605,7 @@
       "url": "https://open.spotify.com/track/28mj6cmfJWSxOCdeNRbyWw"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "\u0110\u01b0\u1eddng T\u00f4i Ch\u1edf Em V\u1ec1",
         "url": "https://open.spotify.com/album/11usBN9oLbxkDegtx4ilUW"
@@ -465,7 +621,7 @@
       "url": "https://open.spotify.com/track/27F22WcGDyl4Z2KylVJkXL"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "S\u00e2mflowers",
         "url": "https://open.spotify.com/album/4r2sh8ZMxq8yc3qT19bM3m"
@@ -481,7 +637,7 @@
       "url": "https://open.spotify.com/track/2RG8uz3hvNVAlVvzhVufhi"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "Summer Night",
         "url": "https://open.spotify.com/album/5Cskl93giLfcuwEJzKlvFw"
@@ -497,7 +653,7 @@
       "url": "https://open.spotify.com/track/7k7wieI5FG61ZARVV5OT7z"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00eam",
         "url": "https://open.spotify.com/album/2IJtIuvzoJdAp45m7oWwUp"
@@ -517,7 +673,7 @@
       "url": "https://open.spotify.com/track/5DAFdVmVwj2dFddjHSdDQk"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "Ho\u00e0ng H\u00f4n",
         "url": "https://open.spotify.com/album/20l0aOMxX0YDZq1bBCuoU6"
@@ -533,7 +689,7 @@
       "url": "https://open.spotify.com/track/0GdrFeLGWjlEcAfoQEMXH5"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "CH\u1eaeC L\u00c0 SAY \u00d2I",
         "url": "https://open.spotify.com/album/6BJ9LUWp8AqbKahQ0TnUZk"
@@ -553,7 +709,7 @@
       "url": "https://open.spotify.com/track/798WQMqGeOrfTFepsCF3r7"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "MOT NGUOI VI EM",
         "url": "https://open.spotify.com/album/4RdYWBn5Vw5SOYH0A30v1u"
@@ -569,7 +725,7 @@
       "url": "https://open.spotify.com/track/6lmJXxTcLTe6bdgwSfTqhO"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "vaicaunoicokhiennguoithaydoi",
         "url": "https://open.spotify.com/album/5Gu0Ldddj2f6a0q5gitIok"
@@ -589,7 +745,7 @@
       "url": "https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "S\u00e2mflowers",
         "url": "https://open.spotify.com/album/4r2sh8ZMxq8yc3qT19bM3m"
@@ -605,31 +761,7 @@
       "url": "https://open.spotify.com/track/5eEBWObr9qNmFoPs2t8ifh"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
-      "album": {
-        "name": "R\u00f3t Ti\u1ebfp",
-        "url": "https://open.spotify.com/album/4c4l3zyMSwsDjajgrhJ5dq"
-      },
-      "artists": [
-        {
-          "name": "Pixel Neko",
-          "url": "https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7"
-        },
-        {
-          "name": "Liu Grace",
-          "url": "https://open.spotify.com/artist/5DTQVDm1qjLUoAGC8v85c3"
-        },
-        {
-          "name": "Steji",
-          "url": "https://open.spotify.com/artist/5AnW83Ip0xPJ3Pgn0YWDhd"
-        }
-      ],
-      "duration_ms": 190779,
-      "name": "R\u00f3t Ti\u1ebfp",
-      "url": "https://open.spotify.com/track/5U61WeETed0vWK3HUf8Xr6"
-    },
-    {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "H\u00e3y \u0110\u1ec3 Ch\u00fang Ta \u0110\u01b0\u1ee3c C\u00f3 Th\u00eam Th\u1eddi Gian",
         "url": "https://open.spotify.com/album/4tjAKvxiGK7nv1TfDz9aIi"
@@ -649,7 +781,7 @@
       "url": "https://open.spotify.com/track/1BL5MlpmXKaFrK04HaCw3d"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "GPS",
         "url": "https://open.spotify.com/album/1dabh9kedSOCHQSXE1cYsN"
@@ -677,7 +809,7 @@
       "url": "https://open.spotify.com/track/7mSXu1Q76JGPLYolCKp3Xw"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "Butterfly",
         "url": "https://open.spotify.com/album/30gGngxwhY7usmY8E6uILz"
@@ -693,7 +825,7 @@
       "url": "https://open.spotify.com/track/5nTjso2cw2TWW25Xe9xzfG"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "Internet Love",
         "url": "https://open.spotify.com/album/12QGzRlojlxCuKAAjOPKAB"
@@ -709,7 +841,7 @@
       "url": "https://open.spotify.com/track/2rGCYAabfA63PIzhQm7hVq"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "PHONG (feat. TGSN & Tyronee)",
         "url": "https://open.spotify.com/album/2miKCUKYhXGekJDx4ZsxiI"
@@ -733,7 +865,7 @@
       "url": "https://open.spotify.com/track/0ibp5h8QATkvC6P5cO5TUV"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "Kh\u00f3c C\u01b0\u1eddi",
         "url": "https://open.spotify.com/album/3sdP4md71lVt7TFXBYEjap"
@@ -749,7 +881,7 @@
       "url": "https://open.spotify.com/track/4xBQLlSh6dQrluFORd8muc"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "Gi\u00e1ng Sinh Trong M\u01a1 (feat. Tyronee)",
         "url": "https://open.spotify.com/album/3NZDaTcY8YBenGRQ3ZAM0H"
@@ -769,7 +901,7 @@
       "url": "https://open.spotify.com/track/2I7JvYMAzHFksLzIy6FIfj"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "H\u01b0\u01a1ng M\u00f9a H\u00e8 EP.01",
         "url": "https://open.spotify.com/album/7Do6GQrbmkYtOjg1S2HRe3"
@@ -785,7 +917,7 @@
       "url": "https://open.spotify.com/track/0xi7bCx9m2rgPbCN6Xhlel"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "M\u00ea",
         "url": "https://open.spotify.com/album/48ZqlDgLxU4jjkUGnopIFk"
@@ -801,7 +933,7 @@
       "url": "https://open.spotify.com/track/6Rbz4nzR4ytexB7Zx28AmL"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "D\u00f9 Cho Mai V\u1ec1 Sau",
         "url": "https://open.spotify.com/album/38rXnQ4McNlZGTA3WNPNc1"
@@ -817,7 +949,7 @@
       "url": "https://open.spotify.com/track/4Iz5EWPCAT8jYNk4IpLoll"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "H\u01b0\u1edbng D\u01b0\u01a1ng",
         "url": "https://open.spotify.com/album/6sUgmtdrcZRJxRsfbxUxqc"
@@ -833,51 +965,7 @@
       "url": "https://open.spotify.com/track/65uxT4ZGe6eOABj1g5V2Fj"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
-      "album": {
-        "name": "Words You Want (feat. SOI)",
-        "url": "https://open.spotify.com/album/1Cbw4XP3Kpv2IjH2ZlwZ2Z"
-      },
-      "artists": [
-        {
-          "name": "Rhosy",
-          "url": "https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK"
-        },
-        {
-          "name": "SOI",
-          "url": "https://open.spotify.com/artist/5b35BALBqCHvoV4vcbZQ1P"
-        }
-      ],
-      "duration_ms": 144410,
-      "name": "Words You Want (feat. SOI)",
-      "url": "https://open.spotify.com/track/3VvsQQVICDghw26uFsrs8O"
-    },
-    {
-      "added_at": "2023-04-13 17:00:00",
-      "album": {
-        "name": "C\u00f4 N\u00e0ng Kh\u00e1c Ng\u01b0\u1eddi",
-        "url": "https://open.spotify.com/album/5G0VCs90WtjTJV3CaRBbL1"
-      },
-      "artists": [
-        {
-          "name": "Pixel Neko",
-          "url": "https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7"
-        },
-        {
-          "name": "Ng\u01a1",
-          "url": "https://open.spotify.com/artist/4RGBKkUyyvsim9vdBKCCkc"
-        },
-        {
-          "name": "Wxrdie",
-          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
-        }
-      ],
-      "duration_ms": 186151,
-      "name": "C\u00f4 N\u00e0ng Kh\u00e1c Ng\u01b0\u1eddi",
-      "url": "https://open.spotify.com/track/0lXtQXwhZImnpjmpze8ykX"
-    },
-    {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "Words You Want",
         "url": "https://open.spotify.com/album/4NbdLnwTinHtXolBnSYmNG"
@@ -897,7 +985,7 @@
       "url": "https://open.spotify.com/track/3jJOt4nfIGU9WzhdBm1TaR"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "L\u1ee1 Say Bye L\u00e0 Bye",
         "url": "https://open.spotify.com/album/3BKiAnPnm2Xn2cWB2uWeE0"
@@ -917,7 +1005,7 @@
       "url": "https://open.spotify.com/track/0d6dbFvKczX1Us3J7TsMMv"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "To The Moon",
         "url": "https://open.spotify.com/album/4UEbczuNRxEy7SGJTrfEBd"
@@ -933,7 +1021,7 @@
       "url": "https://open.spotify.com/track/1CyYcBdukmFjFibDZaDlHc"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "Words You Want",
         "url": "https://open.spotify.com/album/4NbdLnwTinHtXolBnSYmNG"
@@ -949,7 +1037,7 @@
       "url": "https://open.spotify.com/track/2lRcZxRB4xQLEBhyzTauC9"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "Ch\u1edd",
         "url": "https://open.spotify.com/album/1t24UniR5p7Pp1iAs0jmo0"
@@ -965,7 +1053,7 @@
       "url": "https://open.spotify.com/track/4fSCE4KsyubWKT2hvSXmcn"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "NICOT!NE",
         "url": "https://open.spotify.com/album/5y7rMRphWLC64hLb2OUwr8"
@@ -981,7 +1069,7 @@
       "url": "https://open.spotify.com/track/6bHUW6F0VTOHoiXVX7IjHA"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/6PiV1ByuZd4o8HUwI83yav"
@@ -997,7 +1085,7 @@
       "url": "https://open.spotify.com/track/1uCmkKTV9aiMZrVJm1zDoT"
     },
     {
-      "added_at": "2023-04-13 17:00:00",
+      "added_at": "2023-04-29 09:55:13",
       "album": {
         "name": "STAY FOR A WHILE",
         "url": "https://open.spotify.com/album/3kaF1ubPMNkq47EkGptClH"

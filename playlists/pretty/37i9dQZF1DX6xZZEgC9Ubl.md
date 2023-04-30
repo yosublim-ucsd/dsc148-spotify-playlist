@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: Lil Peep
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,482,279 likes - 100 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,483,540 likes - 100 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,12 +55,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 45 | [agoraphobic](https://open.spotify.com/track/6ATqL4f1nFWwASrWi8nF6e) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [agoraphobic](https://open.spotify.com/album/3Hz3XGYtM6rcRIPBJVAury) | 2:09 |
 | 46 | [Psycho!](https://open.spotify.com/track/56fkAaSu91c1E2k43wGPFC) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [How To Kill A Rockstar](https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6) | 3:17 |
 | 47 | [Never Be Alright](https://open.spotify.com/track/6v5vr3SqSczkqIIVeW8RjZ) | [Seon](https://open.spotify.com/artist/4sADZZMvbgQIsCCkmqUYF8) | [Never Be Alright](https://open.spotify.com/album/2xMBCCATKDeHl00YQvjyb0) | 2:48 |
-| 48 | [do it all](https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [do it all](https://open.spotify.com/album/4STyku6IDvnMxFVdRVdDdf) | 1:36 |
-| 49 | [Midnight Thoughts](https://open.spotify.com/track/1O28T70fY6eyL9vygOqCQi) | [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z) | [Midnight Thoughts](https://open.spotify.com/album/39uDMcJthvAslsSaNfhVEE) | 2:04 |
-| 50 | [Demons and Monsters](https://open.spotify.com/track/7u9BIFBgxuqntGW7wO5lMs) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Demons and Monsters](https://open.spotify.com/album/3tibCn5U6tDOLkjncjGvI3) | 3:17 |
-| 51 | [Bad Day](https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Bad Day](https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA) | 1:48 |
-| 52 | [runaway \- OG Version](https://open.spotify.com/track/5AHJytT9tCq5fhVce7FNnu) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [runaway \(OG Version\)](https://open.spotify.com/album/3chQAPIWOHN2iHIU7HU0r6) | 2:50 |
-| 53 | [Pray](https://open.spotify.com/track/4zcVQvCRJRafP6JtLGyy7R) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Pray](https://open.spotify.com/album/2hSvhL75eTTQLmbaCKWbAE) | 1:59 |
+| 48 | [Midnight Thoughts](https://open.spotify.com/track/1O28T70fY6eyL9vygOqCQi) | [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z) | [Midnight Thoughts](https://open.spotify.com/album/39uDMcJthvAslsSaNfhVEE) | 2:04 |
+| 49 | [Demons and Monsters](https://open.spotify.com/track/7u9BIFBgxuqntGW7wO5lMs) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Demons and Monsters](https://open.spotify.com/album/3tibCn5U6tDOLkjncjGvI3) | 3:17 |
+| 50 | [Bad Day](https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Bad Day](https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA) | 1:48 |
+| 51 | [do it all](https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [do it all](https://open.spotify.com/album/4STyku6IDvnMxFVdRVdDdf) | 1:36 |
+| 52 | [Pray](https://open.spotify.com/track/4zcVQvCRJRafP6JtLGyy7R) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Pray](https://open.spotify.com/album/2hSvhL75eTTQLmbaCKWbAE) | 1:59 |
+| 53 | [runaway \- OG Version](https://open.spotify.com/track/5AHJytT9tCq5fhVce7FNnu) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [runaway \(OG Version\)](https://open.spotify.com/album/3chQAPIWOHN2iHIU7HU0r6) | 2:50 |
 | 54 | [9 lives](https://open.spotify.com/track/17XY1uAyl0lrFqiMp1aQXO) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [mainstream sellout \(life in pink deluxe\)](https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7) | 3:01 |
 | 55 | [Can't Love Myself](https://open.spotify.com/track/0MO1qNhm8aRZchi8CJlIRo) | [Monty Datta](https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Can't Love Myself](https://open.spotify.com/album/6nXrZeaXICH9TIPomAT9Be) | 2:02 |
 | 56 | [North Star](https://open.spotify.com/track/42rF3FLOvTSXRpVowkwTGY) | [Mackned](https://open.spotify.com/artist/68VUmnZEzmzZdd1zPtnbZZ) | [God Mom](https://open.spotify.com/album/7gBvEFzk4d13BOayesrAuB) | 2:03 |
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 59 | [F\*ck Love](https://open.spotify.com/track/2kHrlDvECzPyjcbmSQNusl) | [Lund](https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR) | [F\*ck Love](https://open.spotify.com/album/7a4z4EPeKp4TEVNbtgL3eg) | 3:17 |
 | 60 | [Save Me, Please](https://open.spotify.com/track/0FzEq5yepkq03NI8axcOBu) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [First Draft](https://open.spotify.com/album/6CepDz0VAUeImOXIIVdjZX) | 2:07 |
 | 61 | [don't sleep, repeat \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [don't sleep, repeat \(feat\. Machine Gun Kelly\)](https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK) | 2:29 |
-| 62 | [Love Letter](https://open.spotify.com/track/2MPfWVq2YFGdNTSLoj4RgA) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [Catch Me If You Can](https://open.spotify.com/album/4nN2WkOPVJSDgluTqLymQw) | 2:52 |
-| 63 | [say goodbye](https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [say goodbye](https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB) | 1:26 |
-| 64 | [BETTER OFF DEAD](https://open.spotify.com/track/7MPxEoT36YBCDbrk3ng85S) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:35 |
+| 62 | [BETTER OFF DEAD](https://open.spotify.com/track/7MPxEoT36YBCDbrk3ng85S) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:35 |
+| 63 | [Love Letter](https://open.spotify.com/track/2MPfWVq2YFGdNTSLoj4RgA) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [Catch Me If You Can](https://open.spotify.com/album/4nN2WkOPVJSDgluTqLymQw) | 2:52 |
+| 64 | [say goodbye](https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [say goodbye](https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB) | 1:26 |
 | 65 | [Hiding in the Dark](https://open.spotify.com/track/1eau7EVXGFffQAGYFxIx6w) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ) | [Hiding in the Dark](https://open.spotify.com/album/0hMJhcenN0EFZvD4qxdyZN) | 3:04 |
 | 66 | [PIGEONS](https://open.spotify.com/track/6a23CwL8bVeizmNRR9AACs) | [Yxngxr1](https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe) | [Digikid 2](https://open.spotify.com/album/3RoNCb8HWjDW4u1DTaDQVL) | 2:01 |
 | 67 | [WOULDN'T IT BE NICE](https://open.spotify.com/track/4QPTfQqJuwbmdl9JVfPuHR) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [WOULDN'T IT BE NICE](https://open.spotify.com/album/68PmwQcdaVpz4nARsWJCLP) | 3:02 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 81 | [Violets](https://open.spotify.com/track/25ndwd0OLtkQLkFBaS9RjT) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Violets](https://open.spotify.com/album/38yuckLnYIM6TqyKeSQsRU) | 1:55 |
 | 82 | [BAD NEWS](https://open.spotify.com/track/60ZppukPfY43NDU9meKJrz) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [WELCOME HOME](https://open.spotify.com/album/2NDlOOZNBvq6B26feV4gJc) | 2:44 |
 | 83 | [Go Wild](https://open.spotify.com/track/2V1UjIW8DUV9jzpcOffRXk) | [Drex Carter](https://open.spotify.com/artist/2zhgWhhKeDGw6gGd16y7tc) | [Go Wild](https://open.spotify.com/album/6XNZaASEHduRzthfI6bOrc) | 2:40 |
-| 84 | [Suicidal](https://open.spotify.com/track/4RPSpwcOe5NgQloQS2CDGp) | [Wett Brain](https://open.spotify.com/artist/5rRR4a0u50S9JNZtL4OB5K), [Tommy Ice](https://open.spotify.com/artist/3AUIYVmhwrsw8UOPHEv91Z) | [Suicidal](https://open.spotify.com/album/7dHziBjY45s0iXOif1Z7xc) | 2:22 |
-| 85 | [I fucked up](https://open.spotify.com/track/6ue8qsdLrXbj9UDmhnYkEa) | [convolk](https://open.spotify.com/artist/3ddT1Q3KQAm1G7UcIfz5KJ) | [LONEWOLF](https://open.spotify.com/album/1WPjRp4G0l2DRKye8QiCMz) | 2:39 |
+| 84 | [I fucked up](https://open.spotify.com/track/6ue8qsdLrXbj9UDmhnYkEa) | [convolk](https://open.spotify.com/artist/3ddT1Q3KQAm1G7UcIfz5KJ) | [LONEWOLF](https://open.spotify.com/album/1WPjRp4G0l2DRKye8QiCMz) | 2:39 |
+| 85 | [Suicidal](https://open.spotify.com/track/4RPSpwcOe5NgQloQS2CDGp) | [Wett Brain](https://open.spotify.com/artist/5rRR4a0u50S9JNZtL4OB5K), [Tommy Ice](https://open.spotify.com/artist/3AUIYVmhwrsw8UOPHEv91Z) | [Suicidal](https://open.spotify.com/album/7dHziBjY45s0iXOif1Z7xc) | 2:22 |
 | 86 | [BLUE MOON \(feat\. Teddi Jones\)](https://open.spotify.com/track/3JIohlY3x8YLOGHdfoWxyR) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Teddi Jones](https://open.spotify.com/artist/34a5LXFoUFNHj9MdFECobP) | [Ethereal](https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z) | 2:57 |
 | 87 | [UDNTLUVME](https://open.spotify.com/track/2hjutKtktLpMj9eNAvwf8v) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [UDNTLUVME](https://open.spotify.com/album/2V8xV6rPlvAPPh3z9QpLV0) | 2:18 |
 | 88 | [thought it was](https://open.spotify.com/track/3x1h0lsx1i2v9cUWnZssBa) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [thought it was](https://open.spotify.com/album/6P55gU4yR13niGsgVDxAwj) | 2:52 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 95 | [Reckless](https://open.spotify.com/track/1CIxzzS0nVJNfk5wuN2MjM) | [Lund](https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR) | [Reckless](https://open.spotify.com/album/1aSPP0cNC617X9tPtQUUlt) | 3:26 |
 | 96 | [come back](https://open.spotify.com/track/6efdzU3R68skVEHDJONh8p) | [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [come back](https://open.spotify.com/album/1DTfxdZRDVNXgnQG5IfuLc) | 2:33 |
 | 97 | [Perfect](https://open.spotify.com/track/1JmEymqQwLXvCg3sJ7gz0n) | [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ) | [Perfect](https://open.spotify.com/album/3GdlgjBNE6MBmlIovpcQym) | 3:39 |
-| 98 | [I JUST FKN HATE YOU NOW](https://open.spotify.com/track/07od6wz8rrAeXVYQoXZU2W) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [I JUST FKN HATE YOU NOW](https://open.spotify.com/album/0wPrCcLVViMFDvRCmCJyfu) | 1:52 |
-| 99 | [WHEN THE DEVIL CRIES](https://open.spotify.com/track/2oeMjGwvO0mDjEYGxO1iLG) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [WHEN THE DEVIL CRIES](https://open.spotify.com/album/0qJDLgO9SYRVocqdP72M7x) | 2:28 |
+| 98 | [WHEN THE DEVIL CRIES](https://open.spotify.com/track/2oeMjGwvO0mDjEYGxO1iLG) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [WHEN THE DEVIL CRIES](https://open.spotify.com/album/0qJDLgO9SYRVocqdP72M7x) | 2:28 |
+| 99 | [I JUST FKN HATE YOU NOW](https://open.spotify.com/track/07od6wz8rrAeXVYQoXZU2W) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [I JUST FKN HATE YOU NOW](https://open.spotify.com/album/0wPrCcLVViMFDvRCmCJyfu) | 1:52 |
 | 100 | [Salt](https://open.spotify.com/track/14SrQnUA5iuXscO2EwBGS7) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted \(Deluxe\)](https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY) | 2:43 |
 
-Snapshot ID: `MCxiNGMyNjZkNjVkY2I5YTY4N2RkY2UwNTM3Y2ViNjkwZGE1NmEzYzA3`
+Snapshot ID: `MCw0YzYwYjdiMDViYTFhZDc5ZWViZDYxYTI1ZDJlOWE2NjYzMDQ4M2Qy`

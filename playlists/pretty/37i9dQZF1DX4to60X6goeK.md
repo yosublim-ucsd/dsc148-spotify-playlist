@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Tsuki
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,289 likes - 55 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,335 likes - 55 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 54 | [Infinity](https://open.spotify.com/track/1EY6HivuyFfBETSEyDAPys) | [Lee Mvtthews](https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC), [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU) | [Genesis](https://open.spotify.com/album/2EMenP3Cn1Ely4hLp6bhHy) | 4:09 |
 | 55 | [Why Should I](https://open.spotify.com/track/29Yt9cDIOqlVmdvoYizSb4) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [Why Should I](https://open.spotify.com/album/42mrulMTfykMsbsNeQuPdL) | 4:46 |
 
-Snapshot ID: `MCxmMDdiOWIzNjZlOGZlNDMwMmRmZWY1NDc3MTVmMDg2ZGJkOWJkMmE3`
+Snapshot ID: `MCxkNWE5YWI3NDQ1NWViZGY4YmZlYTYyOTUxM2ZhZTIyMWQ4Zjg5MGYx`

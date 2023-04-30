@@ -1055,6 +1055,24 @@
     },
     {
       "album": {
+        "name": "What You Heard",
+        "url": "https://open.spotify.com/album/5egLTfkAIvzX8y5FWFerxV"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224463,
+      "name": "What You Heard",
+      "url": "https://open.spotify.com/track/4y4C6YlIAf9Wjx65uU7nOg"
+    },
+    {
+      "album": {
         "name": "When We Fall Apart (feat. Vince Gill & Amy Grant)",
         "url": "https://open.spotify.com/album/0LLTMDGcJwLdwN8SC3OLm7"
       },

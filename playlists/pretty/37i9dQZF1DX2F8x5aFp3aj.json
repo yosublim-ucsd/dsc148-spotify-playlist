@@ -1,12 +1,12 @@
 {
   "description": "Revive aquellos tiempos de new wave, post-punk y sentimientos decadentes. Foto: The Cure",
-  "num_followers": 145862,
+  "num_followers": 146013,
   "original_name": "Oscuros 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmE3NThhNzQ0N2M1MTBkYjY5MWYwYjBjMzI2MjIzN2M2OTVjYjEz",
+  "snapshot_id": "MCxhZDg3ZjY3OTE2ODFkMjJlZmJmMmFhNDA0NDE5ODQ5ZTAzM2NmYzY3",
   "tracks": [
     {
       "added_at": "2023-01-19 21:29:10",
@@ -395,22 +395,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko"
-      },
-      "artists": [
-        {
-          "name": "The Cult",
-          "url": "https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS"
-        }
-      ],
-      "duration_ms": 252533,
-      "name": "She Sells Sanctuary",
-      "url": "https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 232400,
       "name": "It's My Life - 1997 Remaster",
       "url": "https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko"
+      },
+      "artists": [
+        {
+          "name": "The Cult",
+          "url": "https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS"
+        }
+      ],
+      "duration_ms": 252533,
+      "name": "She Sells Sanctuary",
+      "url": "https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Fragile (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0dZF93WHyOhTWjz5EWM7yG"
-      },
-      "artists": [
-        {
-          "name": "Yes",
-          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
-        }
-      ],
-      "duration_ms": 510573,
-      "name": "Roundabout - 2003 Remaster",
-      "url": "https://open.spotify.com/track/0YveezON7jpiaHA8fnUHxN"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "Visage",
         "url": "https://open.spotify.com/album/6NsHH43MNyI3q6Uv53jSDf"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 239360,
       "name": "Fade To Grey",
       "url": "https://open.spotify.com/track/3yobQNuKVJ62WDU7h725Fu"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Fragile (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0dZF93WHyOhTWjz5EWM7yG"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "duration_ms": 510573,
+      "name": "Roundabout - 2003 Remaster",
+      "url": "https://open.spotify.com/track/0YveezON7jpiaHA8fnUHxN"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -795,6 +795,22 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
+        "name": "Invisible Touch",
+        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "Invisible Touch - 2007 Remaster",
+      "url": "https://open.spotify.com/track/0xpBr84T3FTm9j4D1MdPtk"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
         "name": "Songs From The Big Chair",
         "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 302120,
       "name": "Head Over Heels / Broken",
       "url": "https://open.spotify.com/track/0aF9m87P8Tja3NUMv4DfHt"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
-        "name": "Naked Eyes",
-        "url": "https://open.spotify.com/album/7yxf90I32wPEXr7hLp3CKR"
-      },
-      "artists": [
-        {
-          "name": "Naked Eyes",
-          "url": "https://open.spotify.com/artist/3C6chBmZ9wzisBhoh8G2nK"
-        }
-      ],
-      "duration_ms": 219373,
-      "name": "Always Something There to Remind Me - 2018 Remaster",
-      "url": "https://open.spotify.com/track/3yWAyRHfclztY1TzF2gAUD"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -843,18 +843,18 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Invisible Touch",
-        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
+        "name": "Naked Eyes",
+        "url": "https://open.spotify.com/album/7yxf90I32wPEXr7hLp3CKR"
       },
       "artists": [
         {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+          "name": "Naked Eyes",
+          "url": "https://open.spotify.com/artist/3C6chBmZ9wzisBhoh8G2nK"
         }
       ],
-      "duration_ms": 208026,
-      "name": "Invisible Touch - 2007 Remaster",
-      "url": "https://open.spotify.com/track/0xpBr84T3FTm9j4D1MdPtk"
+      "duration_ms": 219373,
+      "name": "Always Something There to Remind Me - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3yWAyRHfclztY1TzF2gAUD"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Floodland",
-        "url": "https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc"
-      },
-      "artists": [
-        {
-          "name": "Sisters of Mercy",
-          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
-        }
-      ],
-      "duration_ms": 295250,
-      "name": "Lucretia My Reflection - Vinyl Version",
-      "url": "https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "Nothing's Shocking",
         "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
       },
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Drums And Wires",
-        "url": "https://open.spotify.com/album/4S6y2iTYbGONSlNJHYyrVl"
+        "name": "Floodland",
+        "url": "https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc"
       },
       "artists": [
         {
-          "name": "XTC",
-          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+          "name": "Sisters of Mercy",
+          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
         }
       ],
-      "duration_ms": 253800,
-      "name": "Making Plans For Nigel",
-      "url": "https://open.spotify.com/track/1XT5kxg6Tk0ukCO2vBQN4v"
+      "duration_ms": 295250,
+      "name": "Lucretia My Reflection - Vinyl Version",
+      "url": "https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -1099,6 +1083,22 @@
       "duration_ms": 235200,
       "name": "Big in Japan - Best Of",
       "url": "https://open.spotify.com/track/3F8aTQzmKovktFcR7MCGFW"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Drums And Wires",
+        "url": "https://open.spotify.com/album/4S6y2iTYbGONSlNJHYyrVl"
+      },
+      "artists": [
+        {
+          "name": "XTC",
+          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+        }
+      ],
+      "duration_ms": 253800,
+      "name": "Making Plans For Nigel",
+      "url": "https://open.spotify.com/track/1XT5kxg6Tk0ukCO2vBQN4v"
     },
     {
       "added_at": "2021-09-28 03:14:02",

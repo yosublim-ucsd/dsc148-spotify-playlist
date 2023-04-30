@@ -4,7 +4,7 @@
 
 > Melodic house and techno to concentrate the mind.
 
-83 songs - 5 hr 54 min
+84 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Fondue](https://open.spotify.com/track/1pZldGjxSdpj7762vA8K2M) | [DJ Eely](https://open.spotify.com/artist/1pWq7WE6SgN6KxOFXD3w80) | [Fondue](https://open.spotify.com/album/4vXCNj1pri5Rh1RyplbD25) | 7:17 | 2023-01-06 |  |
 | [Fragaria](https://open.spotify.com/track/5SFYmIfbzjnoQuteQ4CuKi) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Fragaria / Deflexus](https://open.spotify.com/album/07f55XYO4bXC7cnaFz2l2C) | 5:45 | 2023-01-06 |  |
 | [Freedom](https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Freedom](https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9) | 4:00 | 2023-01-06 |  |
-| [Freedom \- Original Mix](https://open.spotify.com/track/55PaZ1kAp9GbEq4EKvnkjy) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl) | [fabric presents Mind Against: Exclusives](https://open.spotify.com/album/0ATO1xXlH9Y6g6TyqA46ZS) | 4:43 | 2023-01-06 |  |
+| [Freedom \- Original Mix](https://open.spotify.com/track/55PaZ1kAp9GbEq4EKvnkjy) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl) | [fabric presents Mind Against: Exclusives](https://open.spotify.com/album/0ATO1xXlH9Y6g6TyqA46ZS) | 4:43 | 2023-01-06 | 2023-04-30 |
+| [Freedom \- Original Mix](https://open.spotify.com/track/6wVaytq9Ssa01nMhKJELWO) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl) | [fabric presents Mind Against: Exclusives](https://open.spotify.com/album/4gyiwaMaa84mwDuDbTLEPi) | 4:43 | 2023-01-06 |  |
 | [Go On](https://open.spotify.com/track/4d3JRnahWYC2yAFP8P3zPv) | [Deviu](https://open.spotify.com/artist/7IGIJ4SYJmJVQNuYLy1XyH) | [Go On](https://open.spotify.com/album/0XWxX62VjzaDLezYWL8d1m) | 4:16 | 2023-01-06 |  |
 | [Home](https://open.spotify.com/track/4Np4NOxEBsYvPNBZ8W0BDu) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Home](https://open.spotify.com/album/6wXKar1LAK5xSRcPLhbzjR) | 3:41 | 2023-01-06 |  |
 | [Home Soil](https://open.spotify.com/track/0zB2n90yhNv9asggzCHquQ) | [Fieldwrk](https://open.spotify.com/artist/5kaKDrdT33R6aZUqOgeurx) | [Home Soil](https://open.spotify.com/album/4S6lffp4MPB7FKPlsWChTZ) | 4:51 | 2023-01-06 |  |

@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "That's It! / Duke Recordings Vol. III",
+        "url": "https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199706,
+      "name": "A Touch Of The Blues - Single Version",
+      "url": "https://open.spotify.com/track/4IxspXe4ihU15PKgeUQqfo"
+    },
+    {
+      "album": {
         "name": "Last of the Blues Shouters",
         "url": "https://open.spotify.com/album/3r0loF6keIGuDG7n6YQ1t0"
       },
@@ -746,7 +764,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 189000,
       "name": "I Have No One - Remastered 2022",
       "url": "https://open.spotify.com/track/308gSPfGJpzLK9rnYCZZtB"

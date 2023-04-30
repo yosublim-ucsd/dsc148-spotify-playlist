@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > Heavy new bands you need to have an eye on\. Cover: Heriot
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,951 likes - 55 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,060 likes - 55 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 29 | [WRAITH](https://open.spotify.com/track/00qBObhlttb7UwYTWpkSPm) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [THE GREAT DEPRESSION](https://open.spotify.com/album/76psVqthi8ZmsWCHBwDJxd) | 3:19 |
 | 30 | [Chains](https://open.spotify.com/track/1Rb9fJlTrtaSsdej39f3HS) | [Black Coast](https://open.spotify.com/artist/4Op2pnzbOze0T6HSejf6dL) | [Chains](https://open.spotify.com/album/4iKN4OU3KuzUfyAl4BfQcF) | 3:20 |
 | 31 | [Fakin' Tha Funk \(You Get Did\)](https://open.spotify.com/track/1FjenYfXVnQprQ0X5OWofT) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [Fakin' Tha Funk \(You Get Did\)](https://open.spotify.com/album/2EAvdBjYRXRijWfmTMgfEW) | 1:18 |
-| 32 | [Asking For It](https://open.spotify.com/track/5w5jNzqBmqM0GJwj0Aukbu) | [Mhaol](https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN) | [Attachment Styles](https://open.spotify.com/album/2qEpzDMY0fft4BmR4mZUkC) | 2:19 |
+| 32 | [Asking For It](https://open.spotify.com/track/0FWvBhd7u9TuUlD5BIuKoX) | [Mhaol](https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN) | [Attachment Styles](https://open.spotify.com/album/1VqTE3b7QFnITPMhCQJgXX) | 2:19 |
 | 33 | [For The Recognition](https://open.spotify.com/track/3LQZTazcTfzgFlmkHiZIuW) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [For The Recognition](https://open.spotify.com/album/7EQ5g4NnhDG38WqZRYUy0b) | 4:02 |
 | 34 | [The River](https://open.spotify.com/track/2jHCuaT5m1iXLnugNCERSh) | [Prison](https://open.spotify.com/artist/4UVyBJPlg3bV69JZk1trYq) | [The River](https://open.spotify.com/album/2nLucUgoU2DW05o2FUEULd) | 3:38 |
 | 35 | [Fortified by Bloodshed](https://open.spotify.com/track/3A54tdbCgDX2vYzjjqGMlv) | [High Command](https://open.spotify.com/artist/4M3EzJBgOCW0MFc54EBEqQ) | [Fortified by Bloodshed](https://open.spotify.com/album/0l7KbR4AxPTAVs9R22MrIM) | 5:52 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 54 | [Find You Soon](https://open.spotify.com/track/07SZ1RaS0OaCa5qs97zVOI) | [Cowboys & Aliens](https://open.spotify.com/artist/40dMfiJSBmkMQbf5HNA2nE) | [Find You Soon](https://open.spotify.com/album/3Fqxh98P2BAz1S5DzHDi1L) | 4:23 |
 | 55 | [Thinking About The Immortality Of The Crab](https://open.spotify.com/track/0xQPg3JWj1Sb5FFzeVvPDc) | [The Holy Ghost Tabernacle Choir](https://open.spotify.com/artist/2kxwiJIwlucn6VobGQLhul) | [Thinking About The Immortality Of The Crab](https://open.spotify.com/album/7nVjrWv2SnmcQGD6aUYszS) | 1:31 |
 
-Snapshot ID: `MCw5ZTQ3ZjExYjNhMjIwMmFjZmQ4Y2VhNmI2ZTI2ODYzYWJiNTRjNGY4`
+Snapshot ID: `MCxlMDQ4Zjk2Y2Q3MDIyYWY0Y2IxNDViMDFhNDRlNDNiM2U0NjhiMDYw`

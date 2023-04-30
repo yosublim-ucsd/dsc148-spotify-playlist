@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 118937,
+  "num_followers": 118971,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTZiMjJhMGJhNTMwMzJhMTYxNGI3MjgxYzY1M2I2MGMwMGM5OGY2",
+  "snapshot_id": "MCw1Nzk3YzI0MzljYTNlZTgzYWMwODczOGRhNzgzYjExZmNiNDMwZDlj",
   "tracks": [
     {
       "added_at": "2023-04-27 16:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-04-27 16:00:00",
       "album": {
-        "name": "\u8b0e\u4e4b\u97f3",
-        "url": "https://open.spotify.com/album/2TIXF4ADwIn1t97SLCrXUp"
-      },
-      "artists": [
-        {
-          "name": "Pets Tseng",
-          "url": "https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w"
-        }
-      ],
-      "duration_ms": 301666,
-      "name": "\u600e\u9ebc\u80fd\u9019\u6a23",
-      "url": "https://open.spotify.com/track/0hwJHGEiIg3V37fR1PJa5f"
-    },
-    {
-      "added_at": "2023-04-27 16:00:00",
-      "album": {
         "name": "\u91cd\u62fe_\u5feb\u6a02",
         "url": "https://open.spotify.com/album/3KEUzl4MC7mw0tNypb2WUm"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 249417,
       "name": "\u5982\u679c\u6211\u9084\u5269\u4e00\u4ef6\u4e8b\u60c5\u53ef\u4ee5\u505a",
       "url": "https://open.spotify.com/track/1yF0TL45iq2OPUnnZJONMa"
+    },
+    {
+      "added_at": "2023-04-27 16:00:00",
+      "album": {
+        "name": "\u8b0e\u4e4b\u97f3",
+        "url": "https://open.spotify.com/album/2TIXF4ADwIn1t97SLCrXUp"
+      },
+      "artists": [
+        {
+          "name": "Pets Tseng",
+          "url": "https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w"
+        }
+      ],
+      "duration_ms": 301666,
+      "name": "\u600e\u9ebc\u80fd\u9019\u6a23",
+      "url": "https://open.spotify.com/track/0hwJHGEiIg3V37fR1PJa5f"
     },
     {
       "added_at": "2023-04-27 16:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-04-27 16:00:00",
       "album": {
-        "name": "\u4f60\u7761\u4e86\u4e4b\u5f8c (The Way I Miss You)",
-        "url": "https://open.spotify.com/album/5iQnFeX0mp0sBrJleZprYj"
-      },
-      "artists": [
-        {
-          "name": "\u5442\u5141",
-          "url": "https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9"
-        }
-      ],
-      "duration_ms": 250986,
-      "name": "\u4f60\u7761\u4e86\u4e4b\u5f8c (The Way I Miss You)",
-      "url": "https://open.spotify.com/track/7lXB4LaB1PlxvuWZqHn87u"
-    },
-    {
-      "added_at": "2023-04-27 16:00:00",
-      "album": {
         "name": "\u6211\u559c\u6b61\u4f60 (Acoustic Version)",
         "url": "https://open.spotify.com/album/5EY6xMTqPg3hXvL7BYTkbI"
       },
@@ -463,18 +447,18 @@
     {
       "added_at": "2023-04-27 16:00:00",
       "album": {
-        "name": "If Only...",
-        "url": "https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y"
+        "name": "\u4f60\u7761\u4e86\u4e4b\u5f8c (The Way I Miss You)",
+        "url": "https://open.spotify.com/album/5iQnFeX0mp0sBrJleZprYj"
       },
       "artists": [
         {
-          "name": "\u00d8ZI",
-          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
+          "name": "\u5442\u5141",
+          "url": "https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9"
         }
       ],
-      "duration_ms": 187369,
-      "name": "If Only...",
-      "url": "https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ"
+      "duration_ms": 250986,
+      "name": "\u4f60\u7761\u4e86\u4e4b\u5f8c (The Way I Miss You)",
+      "url": "https://open.spotify.com/track/7lXB4LaB1PlxvuWZqHn87u"
     },
     {
       "added_at": "2023-04-27 16:00:00",
@@ -491,6 +475,22 @@
       "duration_ms": 266286,
       "name": "\u5047\u7537\u53cb",
       "url": "https://open.spotify.com/track/3EVdjgISSjvMSgPtov1vQX"
+    },
+    {
+      "added_at": "2023-04-27 16:00:00",
+      "album": {
+        "name": "If Only...",
+        "url": "https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y"
+      },
+      "artists": [
+        {
+          "name": "\u00d8ZI",
+          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
+        }
+      ],
+      "duration_ms": 187369,
+      "name": "If Only...",
+      "url": "https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ"
     },
     {
       "added_at": "2023-04-27 16:00:00",
@@ -555,22 +555,6 @@
       "duration_ms": 295025,
       "name": "\u5e74\u8f2a\u8aaa",
       "url": "https://open.spotify.com/track/0rkKoFtgXTBSy8MLtwYPmc"
-    },
-    {
-      "added_at": "2023-04-27 16:00:00",
-      "album": {
-        "name": "\u84cb\u4e16\u82f1\u96c4",
-        "url": "https://open.spotify.com/album/22pEd6RNnbso5XFaZoT0YF"
-      },
-      "artists": [
-        {
-          "name": "Leehom Wang",
-          "url": "https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt"
-        }
-      ],
-      "duration_ms": 286773,
-      "name": "\u7b2c\u4e00\u500b\u6e05\u6668",
-      "url": "https://open.spotify.com/track/4FOcKtu7mXOrnifIaif0L3"
     },
     {
       "added_at": "2023-04-27 16:00:00",
@@ -703,22 +687,6 @@
     {
       "added_at": "2023-04-27 16:00:00",
       "album": {
-        "name": "\u53ef\u80fd\u662f\u6bd4\u8f03\u5167\u5411\u800c\u5df2",
-        "url": "https://open.spotify.com/album/666sGx1Lrs4viYlxA4EjDN"
-      },
-      "artists": [
-        {
-          "name": "Anni Hung",
-          "url": "https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv"
-        }
-      ],
-      "duration_ms": 231154,
-      "name": "\u53ef\u80fd\u662f\u6bd4\u8f03\u5167\u5411\u800c\u5df2",
-      "url": "https://open.spotify.com/track/1gYOBa9nInmoo52hOn4veq"
-    },
-    {
-      "added_at": "2023-04-27 16:00:00",
-      "album": {
         "name": "\u504f\u504f\u6211\u537b\u90fd\u8a18\u5f97",
         "url": "https://open.spotify.com/album/0Q0O0kpGV394flFNTvdfJ5"
       },
@@ -731,6 +699,22 @@
       "duration_ms": 287010,
       "name": "\u6211\u591a\u60f3\u8b8a\u6210\u5979",
       "url": "https://open.spotify.com/track/5yD4MF6VJWYkcyA2EzwVhz"
+    },
+    {
+      "added_at": "2023-04-27 16:00:00",
+      "album": {
+        "name": "\u53ef\u80fd\u662f\u6bd4\u8f03\u5167\u5411\u800c\u5df2",
+        "url": "https://open.spotify.com/album/666sGx1Lrs4viYlxA4EjDN"
+      },
+      "artists": [
+        {
+          "name": "Anni Hung",
+          "url": "https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv"
+        }
+      ],
+      "duration_ms": 231154,
+      "name": "\u53ef\u80fd\u662f\u6bd4\u8f03\u5167\u5411\u800c\u5df2",
+      "url": "https://open.spotify.com/track/1gYOBa9nInmoo52hOn4veq"
     },
     {
       "added_at": "2023-04-27 16:00:00",
@@ -767,22 +751,6 @@
     {
       "added_at": "2023-04-27 16:00:00",
       "album": {
-        "name": "I Know You Know-\u96fb\u8996\u5287\u300a\u6211\u7684\u771f\u670b\u53cb\u300b\u4e3b\u984c\u66f2",
-        "url": "https://open.spotify.com/album/4rmw9Ja0txHNXJ8wSSDBuJ"
-      },
-      "artists": [
-        {
-          "name": "\u674e\u6cbb\u5ef7",
-          "url": "https://open.spotify.com/artist/5RkHWm6vOA31T32qyjQxgd"
-        }
-      ],
-      "duration_ms": 244474,
-      "name": "I Know You Know - \u96fb\u8996\u5287\u300a\u6211\u7684\u771f\u670b\u53cb\u300b\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/4ec3HOKBBbkjTvoGteQncK"
-    },
-    {
-      "added_at": "2023-04-27 16:00:00",
-      "album": {
         "name": "\u6211\u88ab\u653e\u4e0a\u5929\u7a7a",
         "url": "https://open.spotify.com/album/0mrDA81eWQS79HY5GfF81y"
       },
@@ -799,6 +767,22 @@
     {
       "added_at": "2023-04-27 16:00:00",
       "album": {
+        "name": "I Know You Know-\u96fb\u8996\u5287\u300a\u6211\u7684\u771f\u670b\u53cb\u300b\u4e3b\u984c\u66f2",
+        "url": "https://open.spotify.com/album/4rmw9Ja0txHNXJ8wSSDBuJ"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u6cbb\u5ef7",
+          "url": "https://open.spotify.com/artist/5RkHWm6vOA31T32qyjQxgd"
+        }
+      ],
+      "duration_ms": 244474,
+      "name": "I Know You Know - \u96fb\u8996\u5287\u300a\u6211\u7684\u771f\u670b\u53cb\u300b\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/4ec3HOKBBbkjTvoGteQncK"
+    },
+    {
+      "added_at": "2023-04-27 16:00:00",
+      "album": {
         "name": "\u5c0f\u6642\u5019\u7684\u6211\u5011",
         "url": "https://open.spotify.com/album/2GaVDyAX5sgrX5CuWxRhZm"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 184607,
       "name": "\u5176\u5be6\u4f60\u4e26\u6c92\u90a3\u9ebc\u5b64\u55ae",
       "url": "https://open.spotify.com/track/3NpZcmc7txP57fUNcduERB"
+    },
+    {
+      "added_at": "2023-04-27 16:00:00",
+      "album": {
+        "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
+        "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
+      },
+      "artists": [
+        {
+          "name": "Waa Wei",
+          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+        }
+      ],
+      "duration_ms": 310933,
+      "name": "\u966a\u8457\u4f60",
+      "url": "https://open.spotify.com/track/4BkFO1PMv2wgTANMuC6wk1"
     }
   ],
   "unique_name": "\u9031\u672b\u6e05\u807d",

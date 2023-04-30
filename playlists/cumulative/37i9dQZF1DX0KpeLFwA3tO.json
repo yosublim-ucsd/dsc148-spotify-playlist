@@ -12062,10 +12062,28 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 212241,
       "name": "Orbit",
       "url": "https://open.spotify.com/track/5szx7r9yarz9Duw9F0NT6w"
+    },
+    {
+      "album": {
+        "name": "Orbit",
+        "url": "https://open.spotify.com/album/6WnZa9u2hVV2jgPTSelyjX"
+      },
+      "artists": [
+        {
+          "name": "Dream Wife",
+          "url": "https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212241,
+      "name": "Orbit",
+      "url": "https://open.spotify.com/track/659YVcaiUXCKtdizsyHkND"
     },
     {
       "album": {
@@ -18142,10 +18160,36 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 98222,
       "name": "Waste Not Want Not",
       "url": "https://open.spotify.com/track/1Afo69VKVJqAkhuxHyHnZ1"
+    },
+    {
+      "album": {
+        "name": "We're Still Here",
+        "url": "https://open.spotify.com/album/71DPihEMEmNsXe05FVHJN7"
+      },
+      "artists": [
+        {
+          "name": "The Hirs Collective",
+          "url": "https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl"
+        },
+        {
+          "name": "Soul Glo",
+          "url": "https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan"
+        },
+        {
+          "name": "Escuela Grind",
+          "url": "https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98222,
+      "name": "Waste Not Want Not",
+      "url": "https://open.spotify.com/track/1RdagyPuSdu3ANLGWRWIxi"
     },
     {
       "album": {

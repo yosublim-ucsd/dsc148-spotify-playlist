@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 793,
+  "num_followers": 796,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGJiZjJhZGY1MDBhZDA3ZjgzNjk0MmU2NGNjMmE0NmI3MzZlZTlm",
+  "snapshot_id": "MCwwYTE0NjhiYjQ1ZWFiOGViNzdiNTAzNjQxMWQ5YWI4ZDI4M2YzN2Qz",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -223,6 +223,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "Alim\u00e9 dif\u00e9 (Ile Maurice)",
+        "url": "https://open.spotify.com/album/70LlYn7WYSI6QLSBUCAjFb"
+      },
+      "artists": [
+        {
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/0DZpMT7NzKkrCPjYBtT3K0"
+        }
+      ],
+      "duration_ms": 313000,
+      "name": "Alim\u00e9 dif\u00e9 - Version originale",
+      "url": "https://open.spotify.com/track/1eW6Go45BRf63uRPsZ3XeJ"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Nou Sime",
         "url": "https://open.spotify.com/album/3FJBDWcFWslNDdT60uJeT6"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 225375,
       "name": "Kifer to Pale Danse",
       "url": "https://open.spotify.com/track/1AoFJdH2mQeIJ2AequbkcX"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Alim\u00e9 dif\u00e9 (Ile Maurice)",
-        "url": "https://open.spotify.com/album/70LlYn7WYSI6QLSBUCAjFb"
-      },
-      "artists": [
-        {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/0DZpMT7NzKkrCPjYBtT3K0"
-        }
-      ],
-      "duration_ms": 313000,
-      "name": "Alim\u00e9 dif\u00e9 - Version originale",
-      "url": "https://open.spotify.com/track/1eW6Go45BRf63uRPsZ3XeJ"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -311,18 +311,18 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "La vie est belle (Best Of)",
-        "url": "https://open.spotify.com/album/7b4DC8vFmz0jt4NtmTJpHZ"
+        "name": "La R\u00e9union l\u00e9 la",
+        "url": "https://open.spotify.com/album/1jK8H9Ggjm2U1FdVIbAeSk"
       },
       "artists": [
         {
-          "name": "AUBIN",
-          "url": "https://open.spotify.com/artist/280VCDJJf0MzVkC3EAws19"
+          "name": "Alain Ramanisum",
+          "url": "https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1"
         }
       ],
-      "duration_ms": 250520,
-      "name": "Met dan la joie",
-      "url": "https://open.spotify.com/track/0hBgxcNkXmsVY26iW0ytmZ"
+      "duration_ms": 255186,
+      "name": "Prisonnier",
+      "url": "https://open.spotify.com/track/543ZS2a1HhMZ3pRLzcbyc8"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -355,18 +355,18 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "La R\u00e9union l\u00e9 la",
-        "url": "https://open.spotify.com/album/1jK8H9Ggjm2U1FdVIbAeSk"
+        "name": "La vie est belle (Best Of)",
+        "url": "https://open.spotify.com/album/7b4DC8vFmz0jt4NtmTJpHZ"
       },
       "artists": [
         {
-          "name": "Alain Ramanisum",
-          "url": "https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1"
+          "name": "AUBIN",
+          "url": "https://open.spotify.com/artist/280VCDJJf0MzVkC3EAws19"
         }
       ],
-      "duration_ms": 255186,
-      "name": "Prisonnier",
-      "url": "https://open.spotify.com/track/543ZS2a1HhMZ3pRLzcbyc8"
+      "duration_ms": 250520,
+      "name": "Met dan la joie",
+      "url": "https://open.spotify.com/track/0hBgxcNkXmsVY26iW0ytmZ"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -475,26 +475,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Main dans la main",
-        "url": "https://open.spotify.com/album/0lizQfOuuxUcmAXNlosdsv"
-      },
-      "artists": [
-        {
-          "name": "Alain Ramanisum",
-          "url": "https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1"
-        },
-        {
-          "name": "Le Groupe Ravanna",
-          "url": "https://open.spotify.com/artist/50X4qPAQVtwQGQju0NFmk3"
-        }
-      ],
-      "duration_ms": 304946,
-      "name": "Vir\u00e9",
-      "url": "https://open.spotify.com/track/20U9P7HP7tPzVMaqYjY0h3"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Mario",
         "url": "https://open.spotify.com/album/3ddiv84hCD2DU3RWhHTczv"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 230817,
       "name": "Mario",
       "url": "https://open.spotify.com/track/74beHnWiIdINBtXaqU5sSJ"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Main dans la main",
+        "url": "https://open.spotify.com/album/0lizQfOuuxUcmAXNlosdsv"
+      },
+      "artists": [
+        {
+          "name": "Alain Ramanisum",
+          "url": "https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1"
+        },
+        {
+          "name": "Le Groupe Ravanna",
+          "url": "https://open.spotify.com/artist/50X4qPAQVtwQGQju0NFmk3"
+        }
+      ],
+      "duration_ms": 304946,
+      "name": "Vir\u00e9",
+      "url": "https://open.spotify.com/track/20U9P7HP7tPzVMaqYjY0h3"
     },
     {
       "added_at": "2022-08-11 10:05:16",

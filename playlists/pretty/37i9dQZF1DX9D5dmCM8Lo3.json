@@ -1,13 +1,333 @@
 {
   "description": "would you like to save before closing?",
-  "num_followers": 141417,
+  "num_followers": 141600,
   "original_name": "webcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjAzNTZkODlkNzc3N2FmOWZlOWZmODMxMTg1OTdiNzIyYmZiOGM5",
+  "snapshot_id": "MCxiODgzM2FmYTI4NGUyNWM0NjYyMmQ3MmE3MDQ4OTJjM2FhNWI3MjNm",
   "tracks": [
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "My Ordinary Life",
+        "url": "https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu"
+      },
+      "artists": [
+        {
+          "name": "The Living Tombstone",
+          "url": "https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF"
+        }
+      ],
+      "duration_ms": 230894,
+      "name": "My Ordinary Life",
+      "url": "https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV"
+      },
+      "artists": [
+        {
+          "name": "Pastel Ghost",
+          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Dark Beach",
+      "url": "https://open.spotify.com/track/5QmdK8QFbY8TLVKPuJzexD"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "An Obsession With Kit",
+        "url": "https://open.spotify.com/album/5lrb7fAIftGbxGzBYADVf4"
+      },
+      "artists": [
+        {
+          "name": "Graham Kartna",
+          "url": "https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E"
+        }
+      ],
+      "duration_ms": 139133,
+      "name": "Browser History",
+      "url": "https://open.spotify.com/track/71K5XMKY9Q3GWTIVQWrPRj"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "Numbers",
+        "url": "https://open.spotify.com/album/3D2CAIf1A9XlcLUigjsypL"
+      },
+      "artists": [
+        {
+          "name": "TEMPOREX",
+          "url": "https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt"
+        }
+      ],
+      "duration_ms": 127972,
+      "name": "Numbers",
+      "url": "https://open.spotify.com/track/4GuZMzKXJSoWhwHUqRa0fm"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "backroom labyrinth",
+        "url": "https://open.spotify.com/album/5gQk4x96WeNGcnwLMj8Wlk"
+      },
+      "artists": [
+        {
+          "name": "Oliver Buckland",
+          "url": "https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b"
+        }
+      ],
+      "duration_ms": 168734,
+      "name": "backroom labyrinth",
+      "url": "https://open.spotify.com/track/0HRk2U8OCDkS2asQEt22wf"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "UNDERTALE Soundtrack",
+        "url": "https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z"
+      },
+      "artists": [
+        {
+          "name": "Toby Fox",
+          "url": "https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau"
+        }
+      ],
+      "duration_ms": 57818,
+      "name": "Fallen Down",
+      "url": "https://open.spotify.com/track/1jDMi92a9zNQuPD3uPMkla"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "Care",
+        "url": "https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G"
+      },
+      "artists": [
+        {
+          "name": "TEMPOREX",
+          "url": "https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Nice Boys",
+      "url": "https://open.spotify.com/track/6uuBSo3wXnosEWVXRzZDTf"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "effective. Power",
+        "url": "https://open.spotify.com/album/4yyeXDBiKoy8nsBnFBtyIP"
+      },
+      "artists": [
+        {
+          "name": "MIMIDEATH",
+          "url": "https://open.spotify.com/artist/55VDe291360aWSrwt1U96m"
+        }
+      ],
+      "duration_ms": 58363,
+      "name": "if god didnt want us to snort worms he wouldn't have made them cylindrical!",
+      "url": "https://open.spotify.com/track/7wtU7N6R49UAbzQcLjRy5q"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "Temple of Null",
+        "url": "https://open.spotify.com/album/3vmSi6NMDAxnYPVKB5EATU"
+      },
+      "artists": [
+        {
+          "name": "Acetantina",
+          "url": "https://open.spotify.com/artist/4pOU5L3kyzl3mOup7X0Xxp"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Temple of Null",
+      "url": "https://open.spotify.com/track/6BN0SHZZkdksdMFXDhCvDT"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "Intro Bonito",
+        "url": "https://open.spotify.com/album/3RNP9iHMJpFkGbMB2OAnJn"
+      },
+      "artists": [
+        {
+          "name": "Kero Kero Bonito",
+          "url": "https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT"
+        }
+      ],
+      "duration_ms": 115352,
+      "name": "I'd Rather Sleep",
+      "url": "https://open.spotify.com/track/614cx8ZtQJX7jRIBnUhPA7"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "Googoo Lagoon",
+        "url": "https://open.spotify.com/album/26lzqyZj9NtAe1JG1lejca"
+      },
+      "artists": [
+        {
+          "name": "DR. GABBA",
+          "url": "https://open.spotify.com/artist/0PBXAVipMP5B7A554hJX0R"
+        }
+      ],
+      "duration_ms": 224761,
+      "name": "Googoo Lagoon",
+      "url": "https://open.spotify.com/track/2WDhakxpi1P3Kzp6JT30ll"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "The Dino Soars",
+        "url": "https://open.spotify.com/album/78X1D2vooZVMQdPY581dNg"
+      },
+      "artists": [
+        {
+          "name": "Stegosaurus Rex",
+          "url": "https://open.spotify.com/artist/2D5kO95AWEXMHRvqvCKb7K"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Nowhere To Run",
+      "url": "https://open.spotify.com/track/2PJhATOD9dWsevezmfjoMA"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/5dkVASayX6wbSxD3ZWWsuB"
+      },
+      "artists": [
+        {
+          "name": "Metaroom",
+          "url": "https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d"
+        }
+      ],
+      "duration_ms": 137349,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/7GdAzd0WQypZOd7pcwUhxf"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "Pretty Cvnt",
+        "url": "https://open.spotify.com/album/3C7mweDprNNq2yJuWZm8iw"
+      },
+      "artists": [
+        {
+          "name": "SWRSLT",
+          "url": "https://open.spotify.com/artist/4hljLrM4LIIh85DLjURyS6"
+        }
+      ],
+      "duration_ms": 220734,
+      "name": "Pretty Cvnt",
+      "url": "https://open.spotify.com/track/2CTcTL788DBaFLnc6QJSzv"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "Minecraft - Volume Alpha",
+        "url": "https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7"
+      },
+      "artists": [
+        {
+          "name": "C418",
+          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
+        }
+      ],
+      "duration_ms": 215500,
+      "name": "Sweden",
+      "url": "https://open.spotify.com/track/4NsPgRYUdHu2Q5JRNgXYU5"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "Baby My Phone",
+        "url": "https://open.spotify.com/album/3fLglAkAwRiXwFKjGRQxQq"
+      },
+      "artists": [
+        {
+          "name": "Yameii Online",
+          "url": "https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF"
+        }
+      ],
+      "duration_ms": 215771,
+      "name": "Baby My Phone",
+      "url": "https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "dreamcore",
+        "url": "https://open.spotify.com/album/6MVQrtpuPCEVRTVZ2KMRSE"
+      },
+      "artists": [
+        {
+          "name": "Yandere",
+          "url": "https://open.spotify.com/artist/6Lr7JHaaQ4wLOWtNmOIOcr"
+        }
+      ],
+      "duration_ms": 100310,
+      "name": "dreamcore",
+      "url": "https://open.spotify.com/track/6dGzyNtHjwhhHgLlRn4igt"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "\u304d\u304f\u304a\u30df\u30af6",
+        "url": "https://open.spotify.com/album/3DcOkGnGL9cZgq9G1R75HE"
+      },
+      "artists": [
+        {
+          "name": "Kikuo",
+          "url": "https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu"
+        }
+      ],
+      "duration_ms": 365235,
+      "name": "\u3042\u306a\u3050\u3089\u3050\u3089\u3057",
+      "url": "https://open.spotify.com/track/3FvzeaesPY35bhhj55u4zJ"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "Everything I Own",
+        "url": "https://open.spotify.com/album/4Fh7c02zxgLTSw7FKidgeA"
+      },
+      "artists": [
+        {
+          "name": "Drive45",
+          "url": "https://open.spotify.com/artist/1aP8KYuP9P8hmIRJqi5NfB"
+        }
+      ],
+      "duration_ms": 201454,
+      "name": "Everything I Own",
+      "url": "https://open.spotify.com/track/53FufLl4OfGMzdJv73Hpgg"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "Worlds",
+        "url": "https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "duration_ms": 350690,
+      "name": "Sad Machine",
+      "url": "https://open.spotify.com/track/1JY6B9ILvmRla2IKKRZvnH"
+    },
     {
       "added_at": "2022-03-02 23:11:11",
       "album": {
@@ -491,22 +811,6 @@
     {
       "added_at": "2022-03-02 23:11:11",
       "album": {
-        "name": "missing home",
-        "url": "https://open.spotify.com/album/6L2RIyM2TCXiBEGcRVhz8N"
-      },
-      "artists": [
-        {
-          "name": "nineishuman",
-          "url": "https://open.spotify.com/artist/4hjeFoILTSzoAt6p1VJJsm"
-        }
-      ],
-      "duration_ms": 124760,
-      "name": "missing home",
-      "url": "https://open.spotify.com/track/1JfnrTZYpne8zr3C9alx5q"
-    },
-    {
-      "added_at": "2022-03-02 23:11:11",
-      "album": {
         "name": "Zapper",
         "url": "https://open.spotify.com/album/2kowSCEZhZnup8Qd57WJQ7"
       },
@@ -523,18 +827,18 @@
     {
       "added_at": "2022-03-02 23:11:11",
       "album": {
-        "name": "espial",
-        "url": "https://open.spotify.com/album/1xnJeMdd96RDhYRprSYrkx"
+        "name": "missing home",
+        "url": "https://open.spotify.com/album/6L2RIyM2TCXiBEGcRVhz8N"
       },
       "artists": [
         {
-          "name": "Oliver Buckland",
-          "url": "https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b"
+          "name": "nineishuman",
+          "url": "https://open.spotify.com/artist/4hjeFoILTSzoAt6p1VJJsm"
         }
       ],
-      "duration_ms": 251000,
-      "name": "espial",
-      "url": "https://open.spotify.com/track/1c9gFTn6ymqs3kF2KUnvdV"
+      "duration_ms": 124760,
+      "name": "missing home",
+      "url": "https://open.spotify.com/track/1JfnrTZYpne8zr3C9alx5q"
     },
     {
       "added_at": "2022-03-02 23:11:11",
@@ -551,6 +855,22 @@
       "duration_ms": 137513,
       "name": "Pink Origins",
       "url": "https://open.spotify.com/track/1q61syO9gqIiHhO2rsnLq7"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "espial",
+        "url": "https://open.spotify.com/album/1xnJeMdd96RDhYRprSYrkx"
+      },
+      "artists": [
+        {
+          "name": "Oliver Buckland",
+          "url": "https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "espial",
+      "url": "https://open.spotify.com/track/1c9gFTn6ymqs3kF2KUnvdV"
     },
     {
       "added_at": "2022-03-02 23:11:11",
@@ -647,6 +967,254 @@
       "duration_ms": 161828,
       "name": "Partymonst3r",
       "url": "https://open.spotify.com/track/40JKHWIqZ6Yhvi13Va054H"
+    },
+    {
+      "added_at": "2022-03-06 18:51:54",
+      "album": {
+        "name": "I8",
+        "url": "https://open.spotify.com/album/6bsNlLoY9chgUrwyLMCgnC"
+      },
+      "artists": [
+        {
+          "name": "Docx",
+          "url": "https://open.spotify.com/artist/3HzHd9hqwIewAmpMOh4BOj"
+        }
+      ],
+      "duration_ms": 252178,
+      "name": "Pick a Seat",
+      "url": "https://open.spotify.com/track/1jbGAVF3cTvh1nGZW1DHuF"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "View-Monster",
+        "url": "https://open.spotify.com/album/2iKe0QhSWxNuyiUlzmJpTs"
+      },
+      "artists": [
+        {
+          "name": "Lemon Demon",
+          "url": "https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW"
+        }
+      ],
+      "duration_ms": 108027,
+      "name": "Nightmare Fuel",
+      "url": "https://open.spotify.com/track/1MzlJISHbDjR5Yp4PZHjBR"
+    },
+    {
+      "added_at": "2022-04-01 14:56:46",
+      "album": {
+        "name": "Prince of the Cyber Rave",
+        "url": "https://open.spotify.com/album/223R6xxwBU1NfAG0DU04ZV"
+      },
+      "artists": [
+        {
+          "name": "Golden Boy",
+          "url": "https://open.spotify.com/artist/1rBWZ8jlALSPgIVPWegPGq"
+        }
+      ],
+      "duration_ms": 190126,
+      "name": "Spirit Gun",
+      "url": "https://open.spotify.com/track/3SiHPV0ls0kkJM7L2KKSl8"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "PPPP PaPiPuPePo",
+        "url": "https://open.spotify.com/album/5GfPmmrh30B8UxVeauXCr6"
+      },
+      "artists": [
+        {
+          "name": "emamouse",
+          "url": "https://open.spotify.com/artist/4dJoDugNSycsvrfS5TAsx7"
+        }
+      ],
+      "duration_ms": 208003,
+      "name": "PPPP PaPiPuPePo",
+      "url": "https://open.spotify.com/track/3zyySoaik0chWbfEQAHyZD"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "Drop Five",
+        "url": "https://open.spotify.com/album/5KexTk8l0hilMkJrVKtp7L"
+      },
+      "artists": [
+        {
+          "name": "foster n!x",
+          "url": "https://open.spotify.com/artist/5enSh2TLNYisRbvFyT5EKl"
+        }
+      ],
+      "duration_ms": 98892,
+      "name": "Taxi",
+      "url": "https://open.spotify.com/track/2IvnzqJv070rZ2I6u5ocuR"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "I'll Try Living Like This",
+        "url": "https://open.spotify.com/album/1BVQ0iqg1mFg3Q48OLlwOT"
+      },
+      "artists": [
+        {
+          "name": "death's dynamic shroud",
+          "url": "https://open.spotify.com/artist/1F31FB7Y6ic4844PbqMf7c"
+        }
+      ],
+      "duration_ms": 343529,
+      "name": "Loving Is Easy",
+      "url": "https://open.spotify.com/track/7KTbdZRAZ3q3wYGz5mD4tR"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "Divinity",
+        "url": "https://open.spotify.com/album/4K86mL8fddCmKNsMTX3Guo"
+      },
+      "artists": [
+        {
+          "name": "Maple",
+          "url": "https://open.spotify.com/artist/7FqhC9JMS6bbcfMVKKPHBc"
+        }
+      ],
+      "duration_ms": 132802,
+      "name": "Lovemall",
+      "url": "https://open.spotify.com/track/4nLeOsqSVIVyF96ir7oD1u"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "I Love You Kyary",
+        "url": "https://open.spotify.com/album/5QKkoqSFe1lUea4tuAtoJb"
+      },
+      "artists": [
+        {
+          "name": "Yesterdayneverhappened",
+          "url": "https://open.spotify.com/artist/3tGFcZOV2YCIlEV9hwKceh"
+        }
+      ],
+      "duration_ms": 81000,
+      "name": "I Really Wish I Was Playing Smash Bros Right Now",
+      "url": "https://open.spotify.com/track/7hST4LHaypUoUeGayzsuPG"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/5rlKNDzXWQwJumhrjnGLNR"
+      },
+      "artists": [
+        {
+          "name": "Kawai Sprite",
+          "url": "https://open.spotify.com/artist/19nnKeOt6Vo1g0ijPcFxdu"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Load/Save Game",
+      "url": "https://open.spotify.com/track/3wGXBAh3LV2qw334Zvxxra"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "CANNON",
+        "url": "https://open.spotify.com/album/4Kj5EumxhbumHhNjwt6bIQ"
+      },
+      "artists": [
+        {
+          "name": "DJ CAMGIRL",
+          "url": "https://open.spotify.com/artist/5swTIBAtYWBafM7YZZriMc"
+        },
+        {
+          "name": "VAPERROR",
+          "url": "https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha"
+        }
+      ],
+      "duration_ms": 116363,
+      "name": "RED ALERT",
+      "url": "https://open.spotify.com/track/5qZYiUWxG55qm89Vd4VwCO"
+    },
+    {
+      "added_at": "2022-04-01 14:56:46",
+      "album": {
+        "name": "Robot 64 (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/06whO3ukgXDbzLbeXTjJYE"
+      },
+      "artists": [
+        {
+          "name": "zKevin",
+          "url": "https://open.spotify.com/artist/66AZQ2EAXznHftADdXDICb"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "Rusty's Theme",
+      "url": "https://open.spotify.com/track/0O0nfieweDPQqcSMC5cpYv"
+    },
+    {
+      "added_at": "2022-03-07 16:31:54",
+      "album": {
+        "name": "TOXIC SHAWTY ANTHEM",
+        "url": "https://open.spotify.com/album/41VxLMH698S4R6pCMTG9Xx"
+      },
+      "artists": [
+        {
+          "name": "staysie atoms",
+          "url": "https://open.spotify.com/artist/6q6WHn4XUvFiS5sx3dFHHd"
+        },
+        {
+          "name": "BISKHIT",
+          "url": "https://open.spotify.com/artist/2pDFiiTBeRA0unegywq4HX"
+        }
+      ],
+      "duration_ms": 207240,
+      "name": "I'm full of spite mane I'm too fucking petty",
+      "url": "https://open.spotify.com/track/7u6hkmIzrxaffZULmJQmF2"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Audio Diary",
+        "url": "https://open.spotify.com/album/6QIJzEby71ki5kbjfa2AhK"
+      },
+      "artists": [
+        {
+          "name": "Casper Mcfadden",
+          "url": "https://open.spotify.com/artist/5uh0sOdYjYSqXqSQqLA5cT"
+        }
+      ],
+      "duration_ms": 189499,
+      "name": ".dancecore",
+      "url": "https://open.spotify.com/track/3iELvZmsWYeA7caKjeWWOo"
+    },
+    {
+      "added_at": "2022-03-03 00:20:55",
+      "album": {
+        "name": "\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593",
+        "url": "https://open.spotify.com/album/7BRNzMepDKUV2Crung0tYp"
+      },
+      "artists": [
+        {
+          "name": "\u25b3\u2583\u25b3\u2593",
+          "url": "https://open.spotify.com/artist/1RtQ5z4H1VISmdg0odatF8"
+        }
+      ],
+      "duration_ms": 185263,
+      "name": "\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593\u2591\u2593",
+      "url": "https://open.spotify.com/track/2KjezXmSbeXFNBkulpTPTa"
+    },
+    {
+      "added_at": "2022-03-02 23:11:11",
+      "album": {
+        "name": "Aokinaoi",
+        "url": "https://open.spotify.com/album/6gu1vqCxlCcXUFbDsRRjbY"
+      },
+      "artists": [
+        {
+          "name": "Scandisk7",
+          "url": "https://open.spotify.com/artist/0ZBUxmJJpYRRsaPnsWZzHr"
+        }
+      ],
+      "duration_ms": 292421,
+      "name": "Aokinaoi",
+      "url": "https://open.spotify.com/track/6e5KhFVmU715GslNu11U6g"
     }
   ],
   "unique_name": "webcore",

@@ -1,12 +1,12 @@
 {
   "description": "the soundtrack for your vitamin d fix. ",
-  "num_followers": 1037619,
+  "num_followers": 1037832,
   "original_name": "Soak Up the Sun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzIxZjI0ZmEyY2Q3Zjg4MGRhM2I0ZGI5MzU0NjMzMGI2YmJjMTc4",
+  "snapshot_id": "MCw3NGJlYzE4ZjZhZDlmZTg5NDE1NGU2Y2Y2ODFhOGZmNGY0MTA4ZjM1",
   "tracks": [
     {
       "added_at": "2023-03-14 21:21:02",
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX"
     },
     {
-      "added_at": "2023-04-29 00:38:52",
+      "added_at": "2023-04-30 01:31:25",
       "album": {
         "name": "Hell N Back (Sped Up)",
         "url": "https://open.spotify.com/album/39qJcvWj03Pcm9HJdb1NR8"
@@ -551,18 +551,22 @@
     {
       "added_at": "2023-03-14 21:21:02",
       "album": {
-        "name": "Kona Town",
-        "url": "https://open.spotify.com/album/37ijUtHcOrsDCIQRsa5sB4"
+        "name": "World on Fire",
+        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
       },
       "artists": [
         {
-          "name": "Pepper",
-          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
         }
       ],
-      "duration_ms": 254800,
-      "name": "Stone Love",
-      "url": "https://open.spotify.com/track/1AO26gK1sI6PoFY9eUF8yV"
+      "duration_ms": 238810,
+      "name": "World on Fire (feat. Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n"
     },
     {
       "added_at": "2023-03-14 21:21:02",
@@ -587,22 +591,18 @@
     {
       "added_at": "2023-03-14 21:21:02",
       "album": {
-        "name": "World on Fire",
-        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
+        "name": "Kona Town",
+        "url": "https://open.spotify.com/album/37ijUtHcOrsDCIQRsa5sB4"
       },
       "artists": [
         {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+          "name": "Pepper",
+          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
         }
       ],
-      "duration_ms": 238810,
-      "name": "World on Fire (feat. Slightly Stoopid)",
-      "url": "https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n"
+      "duration_ms": 254800,
+      "name": "Stone Love",
+      "url": "https://open.spotify.com/track/1AO26gK1sI6PoFY9eUF8yV"
     },
     {
       "added_at": "2023-03-14 21:21:02",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-03-14 21:21:02",
       "album": {
-        "name": "America, Location 12",
-        "url": "https://open.spotify.com/album/4aWKSKDk0EKPuyv3IsTrsw"
-      },
-      "artists": [
-        {
-          "name": "DISPATCH",
-          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
-        }
-      ],
-      "duration_ms": 253165,
-      "name": "Only the Wild Ones",
-      "url": "https://open.spotify.com/track/3LwjMORRPuf7j7WiFHW350"
-    },
-    {
-      "added_at": "2023-03-14 21:21:02",
-      "album": {
         "name": "Turn Blue",
         "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
       },
@@ -655,6 +639,22 @@
     {
       "added_at": "2023-03-14 21:21:02",
       "album": {
+        "name": "America, Location 12",
+        "url": "https://open.spotify.com/album/4aWKSKDk0EKPuyv3IsTrsw"
+      },
+      "artists": [
+        {
+          "name": "DISPATCH",
+          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
+        }
+      ],
+      "duration_ms": 253165,
+      "name": "Only the Wild Ones",
+      "url": "https://open.spotify.com/track/3LwjMORRPuf7j7WiFHW350"
+    },
+    {
+      "added_at": "2023-03-14 21:21:02",
+      "album": {
         "name": "The Getaway",
         "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
       },
@@ -667,6 +667,22 @@
       "duration_ms": 221440,
       "name": "Sick Love",
       "url": "https://open.spotify.com/track/6GsP3uMCd0Dn5T37C93waZ"
+    },
+    {
+      "added_at": "2023-03-14 21:21:02",
+      "album": {
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "duration_ms": 221413,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB"
     },
     {
       "added_at": "2023-03-14 21:21:02",
@@ -691,18 +707,18 @@
     {
       "added_at": "2023-03-14 21:21:02",
       "album": {
-        "name": "Listen",
-        "url": "https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy"
+        "name": "The Band CAMINO",
+        "url": "https://open.spotify.com/album/1N5ZRHDLAv92FHZ4fRYhCi"
       },
       "artists": [
         {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
         }
       ],
-      "duration_ms": 221413,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB"
+      "duration_ms": 182658,
+      "name": "I Think I Like You",
+      "url": "https://open.spotify.com/track/6yOxL1xfPkv9Z9zvpNrMDU"
     },
     {
       "added_at": "2023-03-14 21:21:02",
@@ -719,22 +735,6 @@
       "duration_ms": 157065,
       "name": "Lying Through Their Teeth",
       "url": "https://open.spotify.com/track/3hneGCI7tzgFpQeZyv83hq"
-    },
-    {
-      "added_at": "2023-03-14 21:21:02",
-      "album": {
-        "name": "The Band CAMINO",
-        "url": "https://open.spotify.com/album/1N5ZRHDLAv92FHZ4fRYhCi"
-      },
-      "artists": [
-        {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
-        }
-      ],
-      "duration_ms": 182658,
-      "name": "I Think I Like You",
-      "url": "https://open.spotify.com/track/6yOxL1xfPkv9Z9zvpNrMDU"
     },
     {
       "added_at": "2023-03-14 21:21:02",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2023-03-14 21:21:02",
       "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/0hOipA3CbMzKRfG1DOyiy5"
+      },
+      "artists": [
+        {
+          "name": "Cisco Adler",
+          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
+        },
+        {
+          "name": "Donavon Frankenreiter",
+          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
+        }
+      ],
+      "duration_ms": 151560,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/5Cahcx215DE2oK6hemixF4"
+    },
+    {
+      "added_at": "2023-03-14 21:21:02",
+      "album": {
         "name": "Fountain Tropical EP",
         "url": "https://open.spotify.com/album/7ttLLyyHakisBEXzhedMYm"
       },
@@ -1107,26 +1127,6 @@
       "duration_ms": 211720,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/384TqRlwlMfeUAODhXfF3O"
-    },
-    {
-      "added_at": "2023-03-14 21:21:02",
-      "album": {
-        "name": "Take Me Away",
-        "url": "https://open.spotify.com/album/0hOipA3CbMzKRfG1DOyiy5"
-      },
-      "artists": [
-        {
-          "name": "Cisco Adler",
-          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
-        },
-        {
-          "name": "Donavon Frankenreiter",
-          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
-        }
-      ],
-      "duration_ms": 151560,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/5Cahcx215DE2oK6hemixF4"
     },
     {
       "added_at": "2023-03-14 21:21:02",

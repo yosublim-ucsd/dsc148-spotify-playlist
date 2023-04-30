@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover: Sierra Ferrell",
-  "num_followers": 272345,
+  "num_followers": 272426,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTM0ZDg5ZWVhM2MwMmIyZDAwZDVkOTI4ZjFkMzE0ZDE5YjMzN2Jh",
+  "snapshot_id": "MCwyOWVkMjg4YTY3OTAzZGQxY2Q5ZDRmYzk1ODUxNGQ0MDMxN2ZkNzQ1",
   "tracks": [
     {
       "added_at": "2023-04-21 04:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "One Day",
-        "url": "https://open.spotify.com/album/0kVNpxNis78JrqQgsir4QN"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 170915,
-      "name": "Hey Baby",
-      "url": "https://open.spotify.com/track/6kyUPFuPaaprlnKeVaQQMS"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 310893,
       "name": "Love Don\u2019t",
       "url": "https://open.spotify.com/track/31ZxzRFepEtFwGcJiR2ePy"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "You're Dreaming",
+        "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        }
+      ],
+      "duration_ms": 143939,
+      "name": "Powder Blue",
+      "url": "https://open.spotify.com/track/4eml8c7ZKYbMPFNgtfiwou"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "You're Dreaming",
-        "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 143939,
-      "name": "Powder Blue",
-      "url": "https://open.spotify.com/track/4eml8c7ZKYbMPFNgtfiwou"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Ivory Castanets",
         "url": "https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le"
       },
@@ -571,22 +555,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Blackberry Rose",
-        "url": "https://open.spotify.com/album/3OD4bUWl0dD30AmRStEWrH"
-      },
-      "artists": [
-        {
-          "name": "Lavender Country",
-          "url": "https://open.spotify.com/artist/3UAkA4R9JwTDsWSvtKqJtP"
-        }
-      ],
-      "duration_ms": 263576,
-      "name": "Red Dress",
-      "url": "https://open.spotify.com/track/6Z3c8lGCTa19aYhSfEdvav"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Nobody Lives Here Anymore",
         "url": "https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c"
       },
@@ -603,18 +571,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "With Me in the Summer",
-        "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
+        "name": "Blackberry Rose",
+        "url": "https://open.spotify.com/album/3OD4bUWl0dD30AmRStEWrH"
       },
       "artists": [
         {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+          "name": "Lavender Country",
+          "url": "https://open.spotify.com/artist/3UAkA4R9JwTDsWSvtKqJtP"
         }
       ],
-      "duration_ms": 300895,
-      "name": "Weather",
-      "url": "https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf"
+      "duration_ms": 263576,
+      "name": "Red Dress",
+      "url": "https://open.spotify.com/track/6Z3c8lGCTa19aYhSfEdvav"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -635,18 +603,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Cover Stories: Brandi Carlile Celebrates 10 Years of the Story (An Album to Benefit War Child)",
-        "url": "https://open.spotify.com/album/3eI5yt8PVoaONTDcHHTky7"
+        "name": "With Me in the Summer",
+        "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
         }
       ],
-      "duration_ms": 257372,
-      "name": "The Story",
-      "url": "https://open.spotify.com/track/4B5rqUfJXLCJl9WMXMHehx"
+      "duration_ms": 300895,
+      "name": "Weather",
+      "url": "https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -663,6 +631,22 @@
       "duration_ms": 252506,
       "name": "Hurtin' (On the Bottle)",
       "url": "https://open.spotify.com/track/161ih87Mf1Jsx6E6WgVPDu"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Cover Stories: Brandi Carlile Celebrates 10 Years of the Story (An Album to Benefit War Child)",
+        "url": "https://open.spotify.com/album/3eI5yt8PVoaONTDcHHTky7"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 257372,
+      "name": "The Story",
+      "url": "https://open.spotify.com/track/4B5rqUfJXLCJl9WMXMHehx"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -799,6 +783,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "You're Dreaming",
+        "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        }
+      ],
+      "duration_ms": 241646,
+      "name": "Mississippi",
+      "url": "https://open.spotify.com/track/2MzuBHUg1YLezoTZqfBfVl"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Stranger to Me",
         "url": "https://open.spotify.com/album/1LKG0NrEfPFaMP05vlwQzn"
       },
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "You're Dreaming",
-        "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 241646,
-      "name": "Mississippi",
-      "url": "https://open.spotify.com/track/2MzuBHUg1YLezoTZqfBfVl"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Sidelong",
         "url": "https://open.spotify.com/album/0QsTiookBuBIsLCdSvlTIa"
       },
@@ -879,22 +863,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Canyons of my Mind",
-        "url": "https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g"
-      },
-      "artists": [
-        {
-          "name": "Andrew Combs",
-          "url": "https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11"
-        }
-      ],
-      "duration_ms": 192266,
-      "name": "Dirty Rain",
-      "url": "https://open.spotify.com/track/2zRPDVAsXstoRC8pQjf79T"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Jeremiah / Why\u2019d Ya Do It",
         "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
       },
@@ -907,6 +875,22 @@
       "duration_ms": 184558,
       "name": "Jeremiah",
       "url": "https://open.spotify.com/track/6DVPXh16r4Bl1V1SINfFeB"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Canyons of my Mind",
+        "url": "https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g"
+      },
+      "artists": [
+        {
+          "name": "Andrew Combs",
+          "url": "https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11"
+        }
+      ],
+      "duration_ms": 192266,
+      "name": "Dirty Rain",
+      "url": "https://open.spotify.com/track/2zRPDVAsXstoRC8pQjf79T"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1059,22 +1043,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Faded Gloryville",
-        "url": "https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf"
-      },
-      "artists": [
-        {
-          "name": "Lindi Ortega",
-          "url": "https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ"
-        }
-      ],
-      "duration_ms": 186773,
-      "name": "Run-down Neighborhood",
-      "url": "https://open.spotify.com/track/5a0zfY27mdOdvjwypqVVhT"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Orphan Offering",
         "url": "https://open.spotify.com/album/70LZy0mMgmkaVYvC2F5rPk"
       },
@@ -1087,6 +1055,22 @@
       "duration_ms": 338814,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/2xtidTFlCS3gLFnrApMY6A"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Faded Gloryville",
+        "url": "https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf"
+      },
+      "artists": [
+        {
+          "name": "Lindi Ortega",
+          "url": "https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ"
+        }
+      ],
+      "duration_ms": 186773,
+      "name": "Run-down Neighborhood",
+      "url": "https://open.spotify.com/track/5a0zfY27mdOdvjwypqVVhT"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1203,22 +1187,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Trophy",
-        "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
-      },
-      "artists": [
-        {
-          "name": "Sunny Sweeney",
-          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
-        }
-      ],
-      "duration_ms": 228962,
-      "name": "I Feel Like Hank Williams Tonight",
-      "url": "https://open.spotify.com/track/56XOeHY9T4Mm686OttTeh5"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Joni Was Right",
         "url": "https://open.spotify.com/album/4b9Jd0hGddS6xH6zjsCEV7"
       },
@@ -1247,6 +1215,22 @@
       "duration_ms": 177502,
       "name": "Roll On",
       "url": "https://open.spotify.com/track/3i1isbSpcLUVejr3rT9bNT"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Trophy",
+        "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
+      },
+      "artists": [
+        {
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+        }
+      ],
+      "duration_ms": 228962,
+      "name": "I Feel Like Hank Williams Tonight",
+      "url": "https://open.spotify.com/track/56XOeHY9T4Mm686OttTeh5"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1283,22 +1267,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Silver Tears",
-        "url": "https://open.spotify.com/album/2JG1zKeTogtW6HUSJD0K6L"
-      },
-      "artists": [
-        {
-          "name": "Aaron Lee Tasjan",
-          "url": "https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo"
-        }
-      ],
-      "duration_ms": 218641,
-      "name": "Memphis Rain",
-      "url": "https://open.spotify.com/track/7pwi5x6uNPnOeG8vM9boCo"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Midwest Farmer's Daughter",
         "url": "https://open.spotify.com/album/55byaTflUCrOReQQukpctP"
       },
@@ -1311,6 +1279,22 @@
       "duration_ms": 273440,
       "name": "Four Years of Chances",
       "url": "https://open.spotify.com/track/5NJ0s9f1IbRWJjC15bOEDx"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Silver Tears",
+        "url": "https://open.spotify.com/album/2JG1zKeTogtW6HUSJD0K6L"
+      },
+      "artists": [
+        {
+          "name": "Aaron Lee Tasjan",
+          "url": "https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo"
+        }
+      ],
+      "duration_ms": 218641,
+      "name": "Memphis Rain",
+      "url": "https://open.spotify.com/track/7pwi5x6uNPnOeG8vM9boCo"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1419,22 +1403,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Broken Wing",
-        "url": "https://open.spotify.com/album/2y3Pa8bQlZGXTW45TaCYQr"
-      },
-      "artists": [
-        {
-          "name": "Evil",
-          "url": "https://open.spotify.com/artist/63gbws6nuYUlQpwWtTlPqD"
-        }
-      ],
-      "duration_ms": 275114,
-      "name": "Broken Wing",
-      "url": "https://open.spotify.com/track/1OGVxDEyybBtIFSECRQA2A"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Sidelong",
         "url": "https://open.spotify.com/album/0QsTiookBuBIsLCdSvlTIa"
       },
@@ -1447,22 +1415,6 @@
       "duration_ms": 183626,
       "name": "Keep the Home Fires Burnin'",
       "url": "https://open.spotify.com/track/2keaeiBZLASPTQNG7artle"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "That's How Rumors Get Started",
-        "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Stone Me",
-      "url": "https://open.spotify.com/track/41G13b0SToDtz6rIENwswT"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1483,6 +1435,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "That's How Rumors Get Started",
+        "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Stone Me",
+      "url": "https://open.spotify.com/track/41G13b0SToDtz6rIENwswT"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "I've Got a Way",
         "url": "https://open.spotify.com/album/6GbEPmACLeORsCGcgRgSjO"
       },
@@ -1499,6 +1467,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Broken Wing",
+        "url": "https://open.spotify.com/album/2y3Pa8bQlZGXTW45TaCYQr"
+      },
+      "artists": [
+        {
+          "name": "Evil",
+          "url": "https://open.spotify.com/artist/63gbws6nuYUlQpwWtTlPqD"
+        }
+      ],
+      "duration_ms": 275114,
+      "name": "Broken Wing",
+      "url": "https://open.spotify.com/track/1OGVxDEyybBtIFSECRQA2A"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Field Recordings, Vol. 1",
         "url": "https://open.spotify.com/album/2C4pCAR41BjNeDEEn1M7tM"
       },
@@ -1511,22 +1495,6 @@
       "duration_ms": 156000,
       "name": "Diamond Joe",
       "url": "https://open.spotify.com/track/4BwPFomd2l0vi31rxmRjka"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Let It Pass",
-        "url": "https://open.spotify.com/album/2tWv4fEUE5nkK39FiDmwCE"
-      },
-      "artists": [
-        {
-          "name": "The Stray Birds",
-          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
-        }
-      ],
-      "duration_ms": 206835,
-      "name": "Light As a Fire",
-      "url": "https://open.spotify.com/track/5pbu10jgX1LlVbJJ5iiFsY"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1611,22 +1579,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Half a Heart Keychain",
-        "url": "https://open.spotify.com/album/3pglOjTAYQHnd8uZu9g86j"
-      },
-      "artists": [
-        {
-          "name": "Riddy Arman",
-          "url": "https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Half a Heart Keychain",
-      "url": "https://open.spotify.com/track/6Ff6tdQfdEyHm71P6mLpc5"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Family Reunion",
         "url": "https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv"
       },
@@ -1659,6 +1611,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Half a Heart Keychain",
+        "url": "https://open.spotify.com/album/3pglOjTAYQHnd8uZu9g86j"
+      },
+      "artists": [
+        {
+          "name": "Riddy Arman",
+          "url": "https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Half a Heart Keychain",
+      "url": "https://open.spotify.com/track/6Ff6tdQfdEyHm71P6mLpc5"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Same Devil (feat. Brandi Carlile)",
         "url": "https://open.spotify.com/album/6XL1xCLdUOU6j35YspCkqO"
       },
@@ -1675,6 +1643,38 @@
       "duration_ms": 187466,
       "name": "Same Devil (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/11ztTGjFtV3MNoNx0XvApC"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Make Way for Love",
+        "url": "https://open.spotify.com/album/69wIdpWYSwdYMkYdn6iviH"
+      },
+      "artists": [
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "duration_ms": 235677,
+      "name": "Make Way for Love",
+      "url": "https://open.spotify.com/track/7HPewHhdWfo1EtLp6C8PYJ"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Forever and Then Some",
+        "url": "https://open.spotify.com/album/6FtDjbQ3un5sAv9VFUFyL0"
+      },
+      "artists": [
+        {
+          "name": "Lillie Mae",
+          "url": "https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF"
+        }
+      ],
+      "duration_ms": 139733,
+      "name": "Honky Tonks and Taverns",
+      "url": "https://open.spotify.com/track/3IYEFU6TaJl5LmyJnkodBm"
     }
   ],
   "unique_name": "Vintage Vibes",

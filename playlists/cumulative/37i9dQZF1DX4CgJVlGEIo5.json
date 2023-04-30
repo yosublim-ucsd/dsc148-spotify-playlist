@@ -2210,7 +2210,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 255493,
       "name": "My Soul I",
       "url": "https://open.spotify.com/track/4yzgJXvWFXWGLd4vQMYo9p"
@@ -2838,6 +2838,24 @@
       "duration_ms": 297840,
       "name": "Pretty Words",
       "url": "https://open.spotify.com/track/1trYM6Evd3SQHcXYWzbVTe"
+    },
+    {
+      "album": {
+        "name": "Puppy and a Truck",
+        "url": "https://open.spotify.com/album/2udBN6XsNrbgLOFzrqEBVt"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191280,
+      "name": "Puppy and a Truck",
+      "url": "https://open.spotify.com/track/6nrfecLjwsQngv4LbOMrRe"
     },
     {
       "album": {

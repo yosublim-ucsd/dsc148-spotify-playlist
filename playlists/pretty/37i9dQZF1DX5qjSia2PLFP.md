@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\. Cover, Luh Tyler
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,601 likes - 64 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,619 likes - 64 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 6 | [Back In Office](https://open.spotify.com/track/5rrtDWbFizKTZ7GcsHYHh7) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No I.D.](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH) | [Back In Office](https://open.spotify.com/album/3ytxE6VpY5QAeqWQBeI4eg) | 2:53 |
 | 7 | [GM3](https://open.spotify.com/track/1I9W17vDK31ZHAcLGHe4sR) | [LIL LO](https://open.spotify.com/artist/17SUtl275ibg2bA3c31cVj) | [HALL OF FAME](https://open.spotify.com/album/57AdmZb2MkF4GQzD9jJqSb) | 2:28 |
 | 8 | [Oysters n' sparklin' water](https://open.spotify.com/track/4oNy9UwKYH13qf1Ze4q2oy) | [El Cousteau](https://open.spotify.com/artist/6jas9NK79dEF6hU1LvmfHB) | [Dirty Harry](https://open.spotify.com/album/3FjGs7LQyf5kq7JIKqWKxr) | 1:45 |
-| 9 | [Toxic Ish](https://open.spotify.com/track/13IyPWwTjRTWW62z6L349L) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Toxic Ish](https://open.spotify.com/album/6wdCYDNMmP5C8cdePXGmWh) | 3:07 |
+| 9 | [Toxic Ish](https://open.spotify.com/track/13IyPWwTjRTWW62z6L349L) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Toxic Ish](https://open.spotify.com/album/6wdCYDNMmP5C8cdePXGmWh) | 3:23 |
 | 10 | [Pound Town \(and Tay Keith\)](https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Pound Town \(and Tay Keith\)](https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A) | 2:09 |
 | 11 | [Big 4](https://open.spotify.com/track/2nRJZpii4iG0ed19Ogf7Ne) | [Flau'jae](https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC) | [Big 4](https://open.spotify.com/album/0RqOURh1V2vMtyTyZ8XSWN) | 2:15 |
 | 12 | [B.N.B](https://open.spotify.com/track/6hw99R0mfj4eNfZatyaePL) | [LeekoMoney](https://open.spotify.com/artist/03TRS7srPBeikAj9s0OWZZ) | [B.N.B](https://open.spotify.com/album/14o1L3wWJUsxtgKUMkiZUw) | 2:05 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 63 | [End of Discussion](https://open.spotify.com/track/6uiXDPUMlKQjsUOZVVco8g) | [T Clipse](https://open.spotify.com/artist/2VUOGUpWy8Ckg92h8EjBIW) | [End of Discussion](https://open.spotify.com/album/4Ggdjb8Ube0rnfJyaJC3US) | 1:25 |
 | 64 | [2daside](https://open.spotify.com/track/0B6gI2Eupg8MigELBFHVA8) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [2daside](https://open.spotify.com/album/6X2jYQCXoTvHFkrn2TIBfN) | 2:17 |
 
-Snapshot ID: `MCxjNDBlYWM2MmZlNTJhYjc0NTRmYjA4YTExYWQ4ZDIwYjIzNjU2Yjk2`
+Snapshot ID: `MCwxZGI0YjkwODllODU1MWRjNjFjNDFmYjE4ZDE3Y2QwOTk2OGFkMGQ2`

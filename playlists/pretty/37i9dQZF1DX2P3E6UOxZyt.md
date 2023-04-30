@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星星！Cover: Everydaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,031 likes - 67 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,029 likes - 67 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 9 | [理性犯醉](https://open.spotify.com/track/4ZNNx48MdTGwbnedJkogUd) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ), [FRαNKIE阿法](https://open.spotify.com/artist/3NvVbjPU6W2AOEWitAUqwe) | [理性犯醉](https://open.spotify.com/album/5uGVVgPwhSamNrTkWMzcpW) | 2:47 |
 | 10 | [不遠處](https://open.spotify.com/track/7GuLOwT5EWHUzf6xm1Paw7) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [不遠處](https://open.spotify.com/album/3OfDmuDl9aMma0I8JxtYeA) | 5:00 |
 | 11 | [各就各位!預備!](https://open.spotify.com/track/4SERgWdsR1M0LPLypMjN8U) | [吳霏](https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4) | [Not Bad](https://open.spotify.com/album/79lUYHxJgyHrhGGs1Z4GyW) | 3:26 |
-| 12 | [景美](https://open.spotify.com/track/1jSX6c7mL2hcJVPWuNpUwL) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK) | [景美](https://open.spotify.com/album/41lFXP12zmvOQy6ziL2uPj) | 3:35 |
+| 12 | [景美](https://open.spotify.com/track/703QKP05wHYmeRvr8MGQ80) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK) | [景美](https://open.spotify.com/album/6amaZpNGeX8DfC5XnbMeNV) | 3:35 |
 | 13 | [這世界怎麼是灰色](https://open.spotify.com/track/7xQAoVhPR41WnLv0mkMckf) | [翁靖堯yao](https://open.spotify.com/artist/6i8TiylkUFKqXajJM69a7N) | [這世界怎麼是灰色](https://open.spotify.com/album/0O05IZhGfD3lUkCnhQVVuj) | 4:40 |
 | 14 | [You Were Mine](https://open.spotify.com/track/3QVVlj01cr0ofpxiwG9CSx) | [Diiton](https://open.spotify.com/artist/4igBpYxC0VLHP0Cz2BH2dQ), [Losty](https://open.spotify.com/artist/54SfaqS6XKQHrdbYg7rgZ1), [Drogas](https://open.spotify.com/artist/6xKhAigwReihjwHyYywvEX) | [You Were Mine](https://open.spotify.com/album/7yUcTnTds8wE4H5j7ENQAU) | 2:47 |
 | 15 | [遇見](https://open.spotify.com/track/642ERohz0DdGbP9QalwunC) | [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H) | [2022 NANA JUMP](https://open.spotify.com/album/72yCai4SllvgCqN7XlJD8C) | 2:55 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 46 | [資本主義](https://open.spotify.com/track/3gUJXFl5gmY0lGx6BFdqgT) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ) | [鋯石](https://open.spotify.com/album/2smL9jDi65yQmWPeKMaXaY) | 2:49 |
 | 47 | [癡心無名氏](https://open.spotify.com/track/5WeLzVi9RxI22FrvtVKRSW) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [癡心無名氏](https://open.spotify.com/album/2yUoKabXW0fgi0RMxy2eHN) | 3:51 |
 | 48 | [Maybe Maybe](https://open.spotify.com/track/55e4I1RfHjQT1XAf7glB2J) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Maybe Maybe](https://open.spotify.com/album/4Zkkd7RLPCMbs8U2RU2TWY) | 3:32 |
-| 49 | [St\. Lover](https://open.spotify.com/track/6kNiAOXTGBTjL1ITsWWUio) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK), [林映唯](https://open.spotify.com/artist/0vEN77zurrawTwPgocgd91) | [St\. Lover](https://open.spotify.com/album/6tgMOMo9ZXYCrBIVYgfyem) | 3:37 |
+| 49 | [St\. Lover](https://open.spotify.com/track/46nAMfcng8oqyillYZt7u4) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK), [林映唯](https://open.spotify.com/artist/0vEN77zurrawTwPgocgd91) | [St\. Lover](https://open.spotify.com/album/4A5hgurZJxNOkuJweFZTDQ) | 3:37 |
 | 50 | [前面转个弯](https://open.spotify.com/track/1R5L6GWG5ir4UoiP7sosEp) | [NEKO Highway](https://open.spotify.com/artist/2qO2tbo4OI29yMSM3WJ0bX) | [前面转个弯](https://open.spotify.com/album/1xmW2luzaHK2LKkuOuzsqn) | 3:28 |
 | 51 | [淡季動物園](https://open.spotify.com/track/5risxyTTLyuSa1vbrxsf2C) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv) | [許光漢](https://open.spotify.com/album/3w2vtxAWKHXvLRIaS5LITp) | 3:00 |
 | 52 | [對的自己](https://open.spotify.com/track/6MCQf5MTTr5iOnWFO3LoA0) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [幸福藏在哪裡](https://open.spotify.com/album/42hG3NcL7q3E451ij9KTnZ) | 3:56 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 66 | [不凡 \- 愛奇藝原創華劇《不良執念清除師》插曲](https://open.spotify.com/track/7MJswc6nLJeHZVeZgx3mMX) | [張若凡RuoFan](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [愛奇藝原創華劇《不良執念清除師》原聲帶](https://open.spotify.com/album/4lQN080kPobeTivUu7G96A) | 3:46 |
 | 67 | [因為我還年輕](https://open.spotify.com/track/2rJZJT8waYGkWIDlP6OKVI) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ) | [因為我還年輕](https://open.spotify.com/album/6KGZcpuMVu6pKO7E0XMCDH) | 3:30 |
 
-Snapshot ID: `MCwxYWEyYzRlYzFhMjI1YmM3NWY3OGJjYzUzY2Q2YjM2MDgzYzQzZjgx`
+Snapshot ID: `MCxiMWYxMTk5Yjc4YmY0ZTA0YjdlYzAyNDk5M2ZiMDFkMGYwYjM4NjU5`

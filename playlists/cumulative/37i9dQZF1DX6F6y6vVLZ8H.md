@@ -4,7 +4,7 @@
 
 > A collection of songs from Tony Hawk's Pro Skater 1 + 2.
 
-67 songs - 3 hr 22 min
+68 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [IN\-TO\-IT](https://open.spotify.com/track/1h2nlMzL1hFRaSMKuUHaDB) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [IN\-TO\-IT](https://open.spotify.com/album/1jjrbaOJ59IHj9fxaDy0pI) | 3:16 | 2020-07-28 | 2022-09-16 |
 | [IN\-TO\-IT](https://open.spotify.com/track/7xa2A6epfgi9NTABAGOQhi) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [IN\-TO\-IT](https://open.spotify.com/album/0YmdhKq9b7REkzdQq6LPan) | 3:16 | 2020-07-28 | 2022-11-13 |
 | [Jerry Was A Race Car Driver](https://open.spotify.com/track/19C0LKY3DCcQtuviPJNy5d) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [Sailing The Seas Of Cheese](https://open.spotify.com/album/2sjF68plsvYE7M3FaMf6rD) | 3:10 | 2020-05-15 |  |
-| [Let Me In](https://open.spotify.com/track/5U2djvPDRMcW4JjKuETuWa) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [Let Me In](https://open.spotify.com/album/2whX6MD0PMqPW5De20AaU6) | 2:38 | 2020-07-28 |  |
+| [Let Me In](https://open.spotify.com/track/2jjWhewOLTIPaPeJpWizo1) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [Singles Too](https://open.spotify.com/album/6SXIVpaEeSkxlZJKRu3l9o) | 2:38 | 2020-07-28 |  |
+| [Let Me In](https://open.spotify.com/track/5U2djvPDRMcW4JjKuETuWa) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [Let Me In](https://open.spotify.com/album/2whX6MD0PMqPW5De20AaU6) | 2:38 | 2020-07-28 | 2023-04-30 |
 | [Let's Do It](https://open.spotify.com/track/1nNOWiXYARPG1eRLw134No) | [All Talk](https://open.spotify.com/artist/78GL0p300wgurWZaPO7J80) | [Let's Do It](https://open.spotify.com/album/4gue0IdUGLEnpAkVsWbQvB) | 2:16 | 2020-07-30 |  |
 | [Let's Ride](https://open.spotify.com/track/7fZBLUmhCMvIWQbigBPpOo) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Let's Ride](https://open.spotify.com/album/2m1guXMoPRTLjxzOhiJ765) | 3:24 | 2020-07-28 |  |
 | [Life Support](https://open.spotify.com/track/3uYM4wkn9YGSF3Keiu7BjD) | [American Nightmare](https://open.spotify.com/artist/5FBzEnwXCKl3GoZCeXGMNy) | [Life Support](https://open.spotify.com/album/4tg74FT3hH3C7DI91VfzaR) | 2:15 | 2020-07-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUvpePTXR1D.md) - [plain]
 
 > Sway your way through the evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,683 likes - 140 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,752 likes - 140 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUvpePTXR1D.md) - [plain]
 | 111 | [Mirror](https://open.spotify.com/track/5G2Q4Vx9zwBAdQoEWgM8uX) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Mirror](https://open.spotify.com/album/1JrRrStvJ9LpCYgYaMUOMH) | 3:14 |
 | 112 | [She's Mine](https://open.spotify.com/track/5MnmTKjatNTY3BJ2DURVjE) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [So Much More \(Special Edition\)](https://open.spotify.com/album/0SEisHFLEEBvCdWMpFcqH7) | 4:32 |
 | 113 | [Chew On My Heart \- Piano & Voice](https://open.spotify.com/track/4VyOYqqy4sXCKsdx1mBDBc) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chew On My Heart \(Piano & Voice\)](https://open.spotify.com/album/3rZWc6tU0jEtwtrT3o2NvQ) | 3:41 |
-| 114 | [Changes](https://open.spotify.com/track/1fOc4Kf82a6J1C9gS5sE0d) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [Changes](https://open.spotify.com/album/7g7WzMzTLLOyTSzVUnJACI) | 6:00 |
+| 114 | [Changes](https://open.spotify.com/track/3HC6U39266ytr7fMW9M2Mz) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [Changes](https://open.spotify.com/album/4A271CZJOcBKENslfEDsYM) | 5:42 |
 | 115 | [Lost In The Light](https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd) | 3:56 |
 | 116 | [Be Your Man](https://open.spotify.com/track/5rWjy4ys7LdinaFKZQBlZh) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Be Your Man](https://open.spotify.com/album/052JsWmQlm2x415X7glETB) | 4:00 |
 | 117 | [That's How Strong My Love Is](https://open.spotify.com/track/3p6keDkfLYYpuAdvv1Ktsh) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Great Otis Redding Sings Soul Ballads](https://open.spotify.com/album/5YYP98SsNmRZ8CgoFKifSz) | 2:24 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUvpePTXR1D.md) - [plain]
 | 139 | [These Arms of Mine](https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Pain in My Heart](https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3) | 2:34 |
 | 140 | [Halfway Up](https://open.spotify.com/track/3vDa3TYf1nnmmc9DiSviwX) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [First Place](https://open.spotify.com/album/5U7958Pk6fX1IVOlFSi48o) | 3:55 |
 
-Snapshot ID: `MCw4NGMxYWU4NWEyMjFkNWU2MWQyOWUxNjRiZjFiOTI0MjlmZTVlZmZh`
+Snapshot ID: `MCwwNTJmN2M3NTA4YWE3NTkwMTIxMjk1MWZlYjk4MGQ1NzNlMzA3ZmM2`

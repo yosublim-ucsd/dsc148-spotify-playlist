@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 
 > Go hard or go home!
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,487 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,542 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 49 | [Circles \(feat\. OFB, Bandokay & Double Lz\)](https://open.spotify.com/track/5TazMTxxEsLZMwnjjdb5t9) | [Deno](https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l), [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [OFB](https://open.spotify.com/artist/0koPE9U3b5XYArKa7R2TLm) | [Circles \(feat\. OFB, Bandokay & Double Lz\)](https://open.spotify.com/album/0CnIY05VI9uCGgZ8ufPXHS) | 2:59 |
 | 50 | [Bella latina](https://open.spotify.com/track/1Win7IcNsGoZZBNtP85Lu4) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Bella latina](https://open.spotify.com/album/52rEOwEWDXZOkJC4Rfp31p) | 3:01 |
 
-Snapshot ID: `MCw2YTIxZTE5N2Y2OTk1YTQxNmZiMGU3Y2I3MWQ1NGM3OTgxZTQ5Njk4`
+Snapshot ID: `MCwwMmJhODZkMzU0MzU4MDliZWYzYTc0MWIzYWI5YTQxYzFhNTc1YzZm`

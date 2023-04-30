@@ -6,6 +6,24 @@
     {
       "album": {
         "name": "Age of Apathy",
+        "url": "https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238218,
+      "name": "Age of Apathy",
+      "url": "https://open.spotify.com/track/3ZzMnokqu1zCrHI9NJviKj"
+    },
+    {
+      "album": {
+        "name": "Age of Apathy",
         "url": "https://open.spotify.com/album/48Wth3kYQNTjOsPZ5n6a77"
       },
       "artists": [
@@ -16,7 +34,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 238218,
       "name": "Age of Apathy",
       "url": "https://open.spotify.com/track/69MFthcMTOCpnGgQaa9OTj"
@@ -2252,6 +2270,24 @@
     {
       "album": {
         "name": "Florist",
+        "url": "https://open.spotify.com/album/5VAH7pRonDHlMiLLfCGpaK"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174521,
+      "name": "June 9th Nighttime",
+      "url": "https://open.spotify.com/track/0NvYcEGXXoLabFZARKmb0U"
+    },
+    {
+      "album": {
+        "name": "Florist",
         "url": "https://open.spotify.com/album/7EvfFPMMvMJ20olfdEkPBR"
       },
       "artists": [
@@ -2262,7 +2298,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 174521,
       "name": "June 9th Nighttime",
       "url": "https://open.spotify.com/track/0aY7jjLaGbwkaE72MZuZ9Y"
@@ -4056,10 +4092,28 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 259096,
       "name": "Understanding Light",
       "url": "https://open.spotify.com/track/3igIPV6R0jdC4rJ98dZckN"
+    },
+    {
+      "album": {
+        "name": "If Blue Could Be Happiness",
+        "url": "https://open.spotify.com/album/0EB4zV2Vfi0FeM6jZNOO87"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259096,
+      "name": "Understanding Light",
+      "url": "https://open.spotify.com/track/6MNH96GKMl4DtBj8RSDJxq"
     },
     {
       "album": {

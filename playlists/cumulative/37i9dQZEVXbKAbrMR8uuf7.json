@@ -1439,6 +1439,28 @@
     },
     {
       "album": {
+        "name": "Ay Si \u00d1i\u00f1o",
+        "url": "https://open.spotify.com/album/76EbPhwe9k9XpWsqKGp9BC"
+      },
+      "artists": [
+        {
+          "name": "Mafeo 13",
+          "url": "https://open.spotify.com/artist/6qgOVc7H8dqguJGtvpzeiP"
+        },
+        {
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135288,
+      "name": "Ay Si \u00d1i\u00f1o",
+      "url": "https://open.spotify.com/track/5xRlWYvmbdUmdVW95mZK9r"
+    },
+    {
+      "album": {
         "name": "Ay si \u00f1i\u00f1o Rochyrd",
         "url": "https://open.spotify.com/album/5MUB264lw8E8kEjgPGxu6H"
       },
@@ -1450,7 +1472,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 140411,
       "name": "Ay si \u00f1i\u00f1o Rochyrd",
       "url": "https://open.spotify.com/track/4IXhZGxP2e5vCckO4Ux864"
@@ -3644,7 +3666,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-19",
+      "date_removed": null,
       "duration_ms": 140767,
       "name": "Deblokia",
       "url": "https://open.spotify.com/track/028Js3cHeY6MXXWBxtwSka"
@@ -4862,10 +4884,32 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 165671,
       "name": "Ella Baila Sola",
       "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
+    },
+    {
+      "album": {
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165671,
+      "name": "Ella Baila Sola",
+      "url": "https://open.spotify.com/track/3qQbCzHBycnDpGskqOWY0E"
     },
     {
       "album": {
@@ -6378,7 +6422,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 207631,
       "name": "Hay Santo",
       "url": "https://open.spotify.com/track/1MUJMUO1dywCGUsYYOUFnH"
@@ -7734,7 +7778,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 202173,
       "name": "LA INOCENTE",
       "url": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W"
@@ -9470,6 +9514,28 @@
       "duration_ms": 255363,
       "name": "Malo",
       "url": "https://open.spotify.com/track/4xkQvF1yHZFN3lxDFj4qW1"
+    },
+    {
+      "album": {
+        "name": "Mami Chula",
+        "url": "https://open.spotify.com/album/7weNe4OIBROOCcMEOMeNlS"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220600,
+      "name": "Mami Chula",
+      "url": "https://open.spotify.com/track/4aJzxp3gimtAdgJn3DL776"
     },
     {
       "album": {
@@ -13875,6 +13941,24 @@
     },
     {
       "album": {
+        "name": "R\u00c1PIDO",
+        "url": "https://open.spotify.com/album/2D5urBuawvNIrKdxO0X1pe"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "R\u00c1PIDO",
+      "url": "https://open.spotify.com/track/6peVAUzSxDlTigQw5T99O5"
+    },
+    {
+      "album": {
         "name": "S.E.X.O",
         "url": "https://open.spotify.com/album/61iRLkyYf1DdGkGkNvqd2K"
       },
@@ -14956,7 +15040,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 164093,
       "name": "SIRI",
       "url": "https://open.spotify.com/track/5S4aEL1BMsgLvCSt4BijHd"

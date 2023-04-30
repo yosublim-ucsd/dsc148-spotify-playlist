@@ -317,6 +317,28 @@
     },
     {
       "album": {
+        "name": "Astrid & Manolo",
+        "url": "https://open.spotify.com/album/0L2imCR5KOtj8RAqyJ1ngq"
+      },
+      "artists": [
+        {
+          "name": "Kid Simius",
+          "url": "https://open.spotify.com/artist/36y7VzGBD47ymYb40a7JkE"
+        },
+        {
+          "name": "Bonaparte",
+          "url": "https://open.spotify.com/artist/2jwl8DJIsmnFbA5vPdGSCy"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357653,
+      "name": "Astrid & Manolo",
+      "url": "https://open.spotify.com/track/0MGSBX3yJzwZUx9D86WkNR"
+    },
+    {
+      "album": {
         "name": "Anicca",
         "url": "https://open.spotify.com/album/19tj2J1Czpvnd1nNyPBGDU"
       },
@@ -532,7 +554,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 262281,
       "name": "Caf\u00e9 Com Leite",
       "url": "https://open.spotify.com/track/0icCp5ScnBbKdyvLNLMx3N"

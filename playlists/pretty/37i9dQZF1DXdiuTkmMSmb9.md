@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 > Tropical jams to catch a vibe and whine to\. Cover: Dau Dau
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,623 likes - 79 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,667 likes - 79 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 19 | [Disturbing U](https://open.spotify.com/track/1QVJ9U10mJncHAyHVXkFNZ) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Disturbing U](https://open.spotify.com/album/052AhHjQkjepRKQeE6vdjc) | 2:31 |
 | 20 | [Ogogoro \(with Bas & Ayra Starr\)](https://open.spotify.com/track/72Cn4VmfpwAZk3NHVEplYx) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:30 |
 | 21 | [Yeh Yeh \(feat\. Rema, Ayra Starr & KDDO\)](https://open.spotify.com/track/1kVcV9KNy7u0aHsmjHRsce) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [KDDO](https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR) | [Yeh Yeh \(feat\. Rema, Ayra Starr & KDDO\)](https://open.spotify.com/album/1Y6LoHbeKILpI5SLC4PIB7) | 3:27 |
-| 22 | [Ting Fine](https://open.spotify.com/track/2H3tmPVTyEL1lYFsZTIA03) | [Kuda](https://open.spotify.com/artist/7yNCLwxAiLcfv77VpBCzab), [Abeba](https://open.spotify.com/artist/3iI1wyyXraKwlOh5kIizQd) | [Ting Fine](https://open.spotify.com/album/6p9Aa78jkrer3Tu5Dld7bg) | 2:37 |
+| 22 | [Ting Fine](https://open.spotify.com/track/2H3tmPVTyEL1lYFsZTIA03) | [Kuda](https://open.spotify.com/artist/7yNCLwxAiLcfv77VpBCzab), [Abeba](https://open.spotify.com/artist/6KHlTp4VeSOec0B9h2MvHF) | [Ting Fine](https://open.spotify.com/album/6p9Aa78jkrer3Tu5Dld7bg) | 2:37 |
 | 23 | [Hide & Seek \- Rema Remix](https://open.spotify.com/track/2Gphd3ei7Q9mE1C7N4NkXb) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Hide & Seek \(Rema Remix\)](https://open.spotify.com/album/6qh0VG873WKoAklRgWoLqY) | 3:48 |
 | 24 | [TIME TELLS](https://open.spotify.com/track/7ELCXw1QxMe1tOcAcEv8KN) | [VOLDY](https://open.spotify.com/artist/6xCeaVHW0IM4W0pK7InyAA), [Big Skeez](https://open.spotify.com/artist/0N4XZEiYb7RIeIN0lsmVMu) | [TIME TELLS](https://open.spotify.com/album/09158rfQsbt2I2rDPjrsuV) | 2:49 |
 | 25 | [How Many Times](https://open.spotify.com/track/45Vvoe20MW6GD7FwoacZc8) | [DJ Big N](https://open.spotify.com/artist/2mGQZqxcJJOHMYhU8c7l4B), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [How Many Times](https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm) | 3:12 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 78 | [LAVIDA](https://open.spotify.com/track/5i49kt8tpc85VbOHx3lz0T) | [Raf Receipt](https://open.spotify.com/artist/1VKRxxtnMP0EYuTmJ52m95) | [LAVIDA](https://open.spotify.com/album/6FUol8gRcthNNFKVVv9XBY) | 2:37 |
 | 79 | [Anogo](https://open.spotify.com/track/4TS6GJz8xn4suZRv3yHUnf) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Anogo](https://open.spotify.com/album/09SRcm2Hxpmf2N9zRFouhT) | 3:10 |
 
-Snapshot ID: `MCxiOWIxY2QxYjUyZmZhYjBmMmMyYjc0ZjJhZmM1NzAxZjFlY2EyMThh`
+Snapshot ID: `MCwwNDBmYmM4ZWI3YWJhOWMxODQ5MDAwOTY1NjY2ZjVjNDQ2YjIxNWNl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: Zeina
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,194 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,207 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 14 | [Moonroad](https://open.spotify.com/track/3WsMHj0S0HKxOK4daW6xOb) | [Goodbye Karelle](https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM) | [Moonroad](https://open.spotify.com/album/4xFCdfW6KlgtUZGHWx6suJ) | 3:26 |
 | 15 | [Break My Heart](https://open.spotify.com/track/27ZePBIuQwaBQ1PgqwdL8t) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Break My Heart](https://open.spotify.com/album/5268EaZWA8tsSTTWHrDGbF) | 4:12 |
 | 16 | [Alex](https://open.spotify.com/track/26zBcpftrIo8tskR6tgB4d) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Alex](https://open.spotify.com/album/3OcCtQyK3oWNJhsr4A3ZX4) | 3:16 |
-| 17 | [One Touch](https://open.spotify.com/track/6DURQC9m8Rt8SjL4ZKp0Eq) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/4VCCLsmrSghXSM8dxyhVWo) | 3:00 |
+| 17 | [One Touch](https://open.spotify.com/track/3g4wkFSYsU7Qc7bPjaJEGV) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/21lJDSVSuhyKBqkzxn9gAE) | 3:00 |
 | 18 | [Beat It](https://open.spotify.com/track/048f0MCTAJd5I0X7Xc4DSb) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Beat It](https://open.spotify.com/album/0BzqFoK5ppXpfZmGT6D5WR) | 2:04 |
 | 19 | [Summer Song](https://open.spotify.com/track/1Yt4nwsSPSVrBdcn9kz00b) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Dysania](https://open.spotify.com/album/4pOYgdkvLhLSydbYbJOeD2) | 3:12 |
 | 20 | [MY BABY](https://open.spotify.com/track/5fhG9qvVeIHfjWiSDsbiNM) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [MY BABY](https://open.spotify.com/album/5TAKlhxD35Mk8BcduZtIkM) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [It's The Life](https://open.spotify.com/track/17vvwuzQ2enu7fL93nexIP) | [Fleece](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [It's The Life](https://open.spotify.com/album/0povJrlVpXe4j2HgW6SvEh) | 2:37 |
 | 50 | [Your Friday Night](https://open.spotify.com/track/64c0SxMQsaYgzghaS7inLw) | [Jason Benoit](https://open.spotify.com/artist/0Xi32ldFYxsc4g2vQ7b20w) | [Time Traveller \- The Album](https://open.spotify.com/album/2HbQQ5TmHk2TjcVlHajf1D) | 3:16 |
 
-Snapshot ID: `MCw3NGVkNzY0NGQ0Nzc2NDI0NTlmYjI4NjVhYTBlMDNkODg4ODgzZjAx`
+Snapshot ID: `MCw4ZmRlYWZiZjczMTY5ZDVlNzY3YTAyOTgzMzI4NmE2YWMzYTYwZDQ3`

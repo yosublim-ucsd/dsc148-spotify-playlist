@@ -2166,7 +2166,7 @@
     {
       "album": {
         "name": "Cruiserweight",
-        "url": "https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI"
+        "url": "https://open.spotify.com/album/1onqdmFxHDk2sMBhYATWX3"
       },
       "artists": [
         {
@@ -2177,6 +2177,24 @@
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 267240,
+      "name": "Lionel Richie",
+      "url": "https://open.spotify.com/track/12NoB9QOi50RHQl6C5xg3F"
+    },
+    {
+      "album": {
+        "name": "Cruiserweight",
+        "url": "https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI"
+      },
+      "artists": [
+        {
+          "name": "The Jack Moves",
+          "url": "https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 267240,
       "name": "Lionel Richie",
       "url": "https://open.spotify.com/track/1EfF2gJNuksJeHXLevKoFf"

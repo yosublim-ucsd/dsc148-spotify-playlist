@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Amaria
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,893 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,964 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 74 | [Why](https://open.spotify.com/track/5RQqckPXO7WHwKN3I2tYla) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Station](https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9) | 2:33 |
 | 75 | [Ride](https://open.spotify.com/track/4olvqOBWTo3avaGFdeJAic) | [Zay Johnny](https://open.spotify.com/artist/2KMXU26kdchtzGVDW3ahYJ), [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Ride](https://open.spotify.com/album/5JdNEDADKC0WVWCa0Gd3GC) | 2:53 |
 
-Snapshot ID: `MCw4ZmM5MjgwYzA0YTc3ODg0OWYwMDJlYjZmYjIwN2NiZjZjMTNkNWFh`
+Snapshot ID: `MCxmOWE3MDJjODljMjI2OGViOWI1YzBmYWE5ZWJhM2Q1MWViMjEwOGQ5`

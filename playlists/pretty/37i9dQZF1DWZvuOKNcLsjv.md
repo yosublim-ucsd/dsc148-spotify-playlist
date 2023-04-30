@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Kim Petras & Nicki Minaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,352 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,362 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [BIJIN \(Remix\) \[feat\. Awich\]](https://open.spotify.com/track/1rfUCbfXaJexlYGjL3HZaa) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Naked](https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd) | 2:39 |
 | 100 | [あなたと](https://open.spotify.com/track/7v45tfLZKsWZyOV0zB89Ff) | [20th Century](https://open.spotify.com/artist/3LJ6xDae4k9J6ephrhB1xD) | [あなたと](https://open.spotify.com/album/0vvUKwF025POLCnITKKYuo) | 5:08 |
 
-Snapshot ID: `MCw0N2E1NTE3MzQ5YmI5NDRmZjY4MDljNWU4YjYzYWY1ZmUwNGI2ZTIz`
+Snapshot ID: `MCxkZjQ1MmE1ZDJjOTMyMTBlOWNmMTRiZWEzYjUyZmVlZGJlNGNkYzU5`

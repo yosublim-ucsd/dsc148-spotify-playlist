@@ -4,11 +4,12 @@
 
 > <a href="spotify:artist:6mK0vAO13gT8jWYANyoXAl">Young Franco's </a> favourite tracks\.  Updated regularly\. Curated by Young Franco\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-107 songs - 7 hr 33 min
+108 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1 More Sng \- Lazywax Remix](https://open.spotify.com/track/5icULQlJuZHmWviOiANaa7) | [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Lazywax](https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw) | [1 More Sng \(Lazywax Remix\)](https://open.spotify.com/album/1hWUAhCK6ch3SGtPcpqvta) | 6:48 | 2023-04-18 |  |
+| [1 More Sng \- Lazywax Remix](https://open.spotify.com/track/2MybfULnK3iJ4mfkFpyxj9) | [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Lazywax](https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw) | [1 More Sng \(Lazywax Remix\)](https://open.spotify.com/album/6B7REa8AEwD2jSPCCOQCSf) | 6:48 | 2023-04-18 |  |
+| [1 More Sng \- Lazywax Remix](https://open.spotify.com/track/5icULQlJuZHmWviOiANaa7) | [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Lazywax](https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw) | [1 More Sng \(Lazywax Remix\)](https://open.spotify.com/album/1hWUAhCK6ch3SGtPcpqvta) | 6:48 | 2023-04-18 | 2023-04-30 |
 | [1\-800\-HITMYLINE](https://open.spotify.com/track/0DkpnbiHYv3tbhzL6HHxZQ) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [1\-800\-HITMYLINE](https://open.spotify.com/album/0H3latnKNjE2Q1CWC6zy5U) | 3:34 | 2022-03-23 | 2023-04-19 |
 | [About This Thing](https://open.spotify.com/track/6ZEuIY9OWOMi9Jmp4ekbDt) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [About This Thing \(Remixes\)](https://open.spotify.com/album/1vng50JnlHkpVn8jgL1lZX) | 3:17 | 2022-03-23 | 2023-04-19 |
 | [Assumptions](https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [IV](https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R) | 3:40 | 2022-03-23 | 2023-04-19 |

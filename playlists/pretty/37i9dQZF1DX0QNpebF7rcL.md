@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Robert Finley
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,360 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,403 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Caldonia](https://open.spotify.com/track/3JhhFy0eBmSqNOegoaIUff) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Savoy](https://open.spotify.com/album/6CSit6rVjX6qqPrwHCaWdF) | 3:32 |
 | 2 | [Tell Everybody](https://open.spotify.com/track/2NGMAdhKhuQzk2Q5VqJLO0) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Tell Everybody](https://open.spotify.com/album/2RweVc8OqVklZTWuSORVeG) | 4:58 |
 | 3 | [Hey Sweet Mama](https://open.spotify.com/track/1MOMr9SOh60lG2LH2Q6KcR) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD) | [Hey Sweet Mama](https://open.spotify.com/album/0jWYluOK8PM8cF33IwooLo) | 3:36 |
-| 4 | [You're Gonna Be Sorry](https://open.spotify.com/track/4FZgwsFaXm8Xsr7SqRM1Ov) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [Bob Corritore & Friends: Women In Blues Showcase](https://open.spotify.com/album/2I4QimPw04GHkkxKzPAQis) | 2:46 |
+| 4 | [You're Gonna Be Sorry](https://open.spotify.com/track/66lsfUDfroN998Sau6OkIp) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [Bob Corritore & Friends: Women In Blues Showcase](https://open.spotify.com/album/5Fo1fjBqdMpJcZfROBZI5x) | 2:46 |
 | 5 | [Down On The South Side](https://open.spotify.com/track/3bEvr0dRJeQ02PynkdmXuV) | [The Cash Box Kings](https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c) | [Oscar's Motel](https://open.spotify.com/album/3OaTkkcE8j9gFJQCmlSZJ4) | 3:41 |
 | 6 | [One Monkey Can Stop a Show](https://open.spotify.com/track/1bqc5cCLaJj2QYqkJcmZRJ) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [One Monkey Can Stop a Show](https://open.spotify.com/album/1785Aty0XBeXkqP8jpWICN) | 3:41 |
 | 7 | [Tenere Den](https://open.spotify.com/track/7ytOQ3MLqno1gpctggPRTU) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb), [Fats Kaplin](https://open.spotify.com/artist/5AzDLOaBZOw8YvHyMuGt69) | [Tenere Den](https://open.spotify.com/album/6Kn1FZXSVW4ydCAelpLpei) | 3:32 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 13 | [That's What Love Will Make You Do](https://open.spotify.com/track/4rXXgDpZw2k1yu0ZnWWqJL) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [That's What Love Will Make You Do](https://open.spotify.com/album/7xmzTkr3X0BrctEwkEDqcp) | 4:05 |
 | 14 | [Blues All Around](https://open.spotify.com/track/1cs8jvOVEgaCiKwpjhLxIf) | [Savoy Brown](https://open.spotify.com/artist/17obwOahRWI121iMUZznh2) | [Blues All Around](https://open.spotify.com/album/68SUS4uQ8vrpd1McyF6uNq) | 4:08 |
 | 15 | [Gee Baby Ain't I Good To You](https://open.spotify.com/track/1hNvO806O5Z6tFJWCgDumi) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Gee Baby Ain't I Good To You](https://open.spotify.com/album/3mSZj6jGzCcDx2uNNhwNQk) | 3:51 |
-| 16 | [Don't Know Where She Went](https://open.spotify.com/track/04854r1cdTenXuu3dR2yDv) | [The Nighthawks](https://open.spotify.com/artist/3Q2L3fR3hmzSTxE5Sf9Y60) | [Don't Know Where She Went](https://open.spotify.com/album/3Ey01PYiP2lgKibsEEAuuK) | 3:15 |
+| 16 | [Don't Know Where She Went](https://open.spotify.com/track/1dmre6TvgmPmX6lsdjhCZa) | [The Nighthawks](https://open.spotify.com/artist/3Q2L3fR3hmzSTxE5Sf9Y60) | [Don't Know Where She Went](https://open.spotify.com/album/2wfAj194FscSXx1LjJLiwh) | 3:15 |
 | 17 | [Pay the Price](https://open.spotify.com/track/7wWH5g020mkyhjo0zzL3ty) | [John Primer](https://open.spotify.com/artist/1CePnHlc38UfIQovWgyzKP) | [Keep on Lovin' the Blues](https://open.spotify.com/album/1tMXPwrzgheCnI2QGY5Ypm) | 3:52 |
 | 18 | [Nobody's Fool](https://open.spotify.com/track/1s2I2P6bXRdQyePO016Os9) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Nobody's Fool](https://open.spotify.com/album/6zs5N5LbUBgVQRESHqB4LV) | 3:36 |
 | 19 | [Follow The Money \(feat\. James Taylor\)](https://open.spotify.com/track/4ikAAkBStMneLsxfjcoG4E) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Follow The Money \(feat\. James Taylor\)](https://open.spotify.com/album/7iC5jkTp3GqdFGjx2wBBYk) | 3:42 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 61 | [Down To The Bottom](https://open.spotify.com/track/2867syuupBlecM1Ra7PGyZ) | [Larry McCray](https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc), [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h) | [Blues Without You](https://open.spotify.com/album/0Bi6Nd9yKYnZRnwWCrhhyr) | 5:42 |
 | 62 | [Righteous Loving](https://open.spotify.com/track/2NKWAmzIFidQ7rYkS78Yv9) | [8 Ball Aitken](https://open.spotify.com/artist/1LLlMQFnYUd7M9H7dYLR78) | [Heart and Soul](https://open.spotify.com/album/0t9Y8U95Pt5ATKeHlnuVPa) | 3:37 |
 | 63 | [Why You Wanna Make War \- English Version](https://open.spotify.com/track/4yB81Xy4lvmharZ5qr7LVT) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Emotional Gangster](https://open.spotify.com/album/0FpsQrpsnBRAj4lnhq879R) | 3:27 |
-| 64 | [Keep The Faith](https://open.spotify.com/track/2AfGLVa5rzRqnPm23bPMLk) | [Gaye Adegbalola](https://open.spotify.com/artist/0rHaAC7EOfI1AssVbzlLIM) | [Keep The Faith](https://open.spotify.com/album/6pSAFmBfO36ji39xuYu10r) | 3:28 |
+| 64 | [Keep The Faith](https://open.spotify.com/track/5xuRJS8QBHVKiD7J1zkxFm) | [Gaye Alegbalola](https://open.spotify.com/artist/1P3kpd7uIblcLvcIFA4Nmo) | [Keep The Faith](https://open.spotify.com/album/57IHF6KGGaZ9F8KcCahyh6) | 3:28 |
 | 65 | [Here I'm Is](https://open.spotify.com/track/45DxmdLBAjYelavuazYJhg) | [Duke Robillard](https://open.spotify.com/artist/3SQa9cVuiUaZfao2KZiElA) | [Here I'm Is](https://open.spotify.com/album/2FwkQp2elO2xN3MOs2XJL9) | 2:27 |
 | 66 | [Sand Castles](https://open.spotify.com/track/01aamSYYax8Av0aHdsFkop) | [Rehab](https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS) | [Sand Castles](https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr) | 3:16 |
 | 67 | [The Future Ain't What It Used to Be](https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [The Future Ain't What It Used to Be](https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [I'm No Angel Myself](https://open.spotify.com/track/1HENXx512ScE18AYoJm45r) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [One Way Out](https://open.spotify.com/album/19Qpt0zW5Rj8Z85T47YpUG) | 4:38 |
 | 100 | [Raisin' Kane](https://open.spotify.com/track/1OojhoKnIxYreWCblSWZ4R) | [Seth James](https://open.spotify.com/artist/6PB0R8akORJQtWUbL36aPg), [Lee Roy Parnell](https://open.spotify.com/artist/3bW6mQczkt1r8tnWIDeBVJ) | [Raisin' Kane](https://open.spotify.com/album/0KpC9zQSsxuNqiHXWhoWXA) | 2:58 |
 
-Snapshot ID: `MCw3ODZhYmRmNGI2ZTNjOTczNGEyYmU2MzRlNWI3Yzg4ODZiOWQzMzJk`
+Snapshot ID: `MCw1YmMwYTkyNTQyMTZkNjFjYjZiNWQ4MDExNTA2Y2Q5Y2U1NzM4YWIx`

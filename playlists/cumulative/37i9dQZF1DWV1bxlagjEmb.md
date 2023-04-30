@@ -4,7 +4,7 @@
 
 > like a dog with a bird at your door
 
-106 songs - 7 hr 9 min
+109 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [I Am California](https://open.spotify.com/track/27ytYULTu6QSZBhGaOKq9i) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose](https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE) | 5:13 | 2023-04-20 |  |
 | [I And Love And You](https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [I And Love And You](https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON) | 5:00 | 2023-04-20 |  |
 | [I've Been Alone](https://open.spotify.com/track/1rojV17gbXb0yEJSF7MExp) | [Hollan](https://open.spotify.com/artist/3swpaQ3pfhWtgGsg32xZEV) | [I've Been Alone](https://open.spotify.com/album/4pPSxghCl7hSEXQyPKLqf5) | 3:35 | 2023-04-20 |  |
-| [If Blue Could Be Happiness](https://open.spotify.com/track/7ANZJD6wzlHplIIA7AjsUx) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [If Blue Could Be Happiness](https://open.spotify.com/album/6Urg55LAGNL5QKM0bz8g2v) | 5:07 | 2023-04-20 |  |
+| [If Blue Could Be Happiness](https://open.spotify.com/track/7ANZJD6wzlHplIIA7AjsUx) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [If Blue Could Be Happiness](https://open.spotify.com/album/6Urg55LAGNL5QKM0bz8g2v) | 5:07 | 2023-04-20 | 2023-04-30 |
+| [If Blue Could Be Happiness](https://open.spotify.com/track/7vyUxfyXy90lx5Yppudtrb) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [If Blue Could Be Happiness](https://open.spotify.com/album/0EB4zV2Vfi0FeM6jZNOO87) | 5:07 | 2023-04-20 |  |
 | [If It Wasn’t Broken](https://open.spotify.com/track/6XC6PpAm5hhDoJWZwc8log) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [With the Sun](https://open.spotify.com/album/2tZh4QCjbvq5QN42uHeJnI) | 3:49 | 2023-04-20 |  |
 | [If You Need To, Keep Time on Me](https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Crack\-Up](https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v) | 3:30 | 2023-04-20 |  |
 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 | 2023-04-20 |  |
@@ -101,7 +102,8 @@
 | [The Sparrow and the Medicine](https://open.spotify.com/track/0ThPcGCSkHYq2b2OEG9DCJ) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Shallow Grave](https://open.spotify.com/album/20H8EwDZDsZ4H0qLJe3TVe) | 3:06 | 2023-04-20 |  |
 | [The Wisp Sings](https://open.spotify.com/track/68RI4I6SKm57SxjG06OYvN) | [Winter Aid](https://open.spotify.com/artist/15S89CUJtshT2P7WIa2M5l) | [The Wisp Sings](https://open.spotify.com/album/5CVUT9I1tJJPScpaEDHvmv) | 5:13 | 2023-04-20 |  |
 | [These Days](https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [Chelsea Girl](https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU) | 3:30 | 2023-04-20 |  |
-| [This Time Around](https://open.spotify.com/track/295AV2PI6PUduX585IekdQ) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Quiet Signs](https://open.spotify.com/album/3mLMUWalbsEodpw0cRLQnl) | 3:37 | 2023-04-20 |  |
+| [This Time Around](https://open.spotify.com/track/295AV2PI6PUduX585IekdQ) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Quiet Signs](https://open.spotify.com/album/3mLMUWalbsEodpw0cRLQnl) | 3:37 | 2023-04-20 | 2023-04-30 |
+| [This Time Around](https://open.spotify.com/track/5KFa7aO49TOsH8zfMarw6N) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Quiet Signs](https://open.spotify.com/album/6gfh7DsfwxpZkRcPZo75M1) | 3:37 | 2023-04-20 |  |
 | [To Build A Home](https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Ma Fleur](https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO) | 6:10 | 2023-04-20 |  |
 | [Tonight](https://open.spotify.com/track/2JIVtls9Jf9nAosUbFzbyw) | [Sibylle Baier](https://open.spotify.com/artist/2ckfYpz65ZueWZa2dB6yXC) | [Colour Green](https://open.spotify.com/album/1lf3rLmrO0ObMieg4YqEuB) | 2:26 | 2023-04-20 |  |
 | [Used To Be Friends](https://open.spotify.com/track/1KhSRq5A95Pj3yseW6uK7P) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Guard Dog](https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58) | 5:35 | 2023-04-20 |  |
@@ -111,7 +113,8 @@
 | [Wendell Walker](https://open.spotify.com/track/5NpiojbPGLVmxiszru8FcX) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Bearer of Bad News](https://open.spotify.com/album/1bKpcuXtsV2l6ybVUJMRAl) | 8:23 | 2023-04-20 |  |
 | [Whatever Fits Together](https://open.spotify.com/track/7E9xLaEn82sboW3CLJCO9X) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Whatever Fits Together](https://open.spotify.com/album/5cpmLPqkR7Kw66HNO3QWlS) | 3:45 | 2023-04-20 |  |
 | [White Lie](https://open.spotify.com/track/0omH6Dbw21O4Hw46cTbMBF) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra \(Deluxe\)](https://open.spotify.com/album/5fY8mYgYGkyaJ9XvVOzVQA) | 3:15 | 2023-04-20 |  |
-| [Wildfire](https://open.spotify.com/track/6VfY0sgS4j4JpFQH8kk4XA) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/2Ww7LYiKIxQUhLyiXtlppZ) | 5:29 | 2023-04-20 |  |
+| [Wildfire](https://open.spotify.com/track/0EIS2zaB3aQGtKOvzrodOU) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/3CwgFOEB6g9vfADfAcYaIL) | 5:29 | 2023-04-20 |  |
+| [Wildfire](https://open.spotify.com/track/6VfY0sgS4j4JpFQH8kk4XA) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/2Ww7LYiKIxQUhLyiXtlppZ) | 5:29 | 2023-04-20 | 2023-04-30 |
 | [Would You Mind Please Pulling Me Close?](https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Would You Mind Please Pulling Me Close?](https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu) | 4:03 | 2023-04-20 |  |
 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 | 2023-04-20 |  |
 

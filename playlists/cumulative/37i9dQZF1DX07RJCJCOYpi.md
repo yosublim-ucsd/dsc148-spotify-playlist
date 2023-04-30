@@ -4,7 +4,7 @@
 
 > The wave of Latin Electronic music\. Cover: Marshmello & Farruko
 
-196 songs - 10 hr 16 min
+197 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Muy Bien](https://open.spotify.com/track/39fTOnYqGqM00A6xaIqtJn) | [MALÓNE](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N) | [Muy Bien](https://open.spotify.com/album/0YBsUl0SvyfhMBJMg1EGDc) | 6:55 | 2022-03-22 | 2023-01-14 |
 | [My Head \(Can’t Get You Out\)](https://open.spotify.com/track/2FVv9vxJT2NOxKWFzZnvDI) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Glimmer of Blooms](https://open.spotify.com/artist/5Ha7OvvalK4moJei0zEKg6) | [My Head \(Can’t Get You Out\)](https://open.spotify.com/album/1DdWQ5wL4E17EC3YiraRkO) | 3:19 | 2022-03-22 | 2022-04-21 |
 | [más de ti](https://open.spotify.com/track/55bcTduPNKrs96TfNTjfXH) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [más de ti](https://open.spotify.com/album/7k0VM3WSb93hOblMsIYnPG) | 3:07 | 2022-03-22 | 2023-03-04 |
-| [Mírame](https://open.spotify.com/track/4CzrcuupfBN5G7KfRriA26) | [Bella Dose](https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9) | [Mírame](https://open.spotify.com/album/3xYHcuI1ir1bTvJpxfYoBN) | 3:06 | 2023-01-27 |  |
+| [Mírame](https://open.spotify.com/track/4CzrcuupfBN5G7KfRriA26) | [Bella Dose](https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9) | [Mírame](https://open.spotify.com/album/3xYHcuI1ir1bTvJpxfYoBN) | 3:06 | 2023-01-27 | 2023-04-30 |
+| [Mírame](https://open.spotify.com/track/5ye1NS6HQQjQ2PDUGm4EzE) | [Bella Dose](https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9) | [Mírame](https://open.spotify.com/album/73B3LmWNzzyZTVb7GOfWpK) | 3:06 | 2023-04-14 |  |
 | [Napoleona](https://open.spotify.com/track/4hlK5ALDOCVvGE22II5Wbb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w) | [Napoleona](https://open.spotify.com/album/0gMknkywDezGJrrCdyKHYb) | 2:52 | 2022-03-22 | 2022-04-21 |
 | [Nataaoki](https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 2:30 | 2022-04-20 |  |
 | [Nazareno](https://open.spotify.com/track/0RGpd5zCowfEItCUF7Itpr) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Nazareno](https://open.spotify.com/album/5PlrY1dbLY41xSjGykiGcU) | 3:43 | 2022-05-23 |  |

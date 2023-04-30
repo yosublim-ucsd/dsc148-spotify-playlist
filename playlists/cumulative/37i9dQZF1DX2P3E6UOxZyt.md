@@ -4,7 +4,7 @@
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星星！Cover: Everydaze
 
-327 songs - 19 hr 27 min
+329 songs - 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Sky](https://open.spotify.com/track/7gviLGYxPwuAQqkvQKFOmX) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [Sky](https://open.spotify.com/album/3b2Q5PiQpzTaRpIfJFiGBd) | 3:01 | 2022-11-24 | 2022-12-24 |
 | [Soggy](https://open.spotify.com/track/1xX6bPNSdjpHiJTDRt2rOy) | [翁靖堯yao](https://open.spotify.com/artist/6i8TiylkUFKqXajJM69a7N) | [Soggy](https://open.spotify.com/album/196bfmnRG1paG7aplcJoWj) | 3:12 | 2022-03-24 | 2022-12-16 |
 | [Soufflé](https://open.spotify.com/track/6m7h2pLpDVSGFFFfFBS2VL) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv) | [許光漢](https://open.spotify.com/album/3w2vtxAWKHXvLRIaS5LITp) | 3:10 | 2022-01-13 | 2022-09-30 |
-| [St\. Lover](https://open.spotify.com/track/6kNiAOXTGBTjL1ITsWWUio) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK), [林映唯](https://open.spotify.com/artist/0vEN77zurrawTwPgocgd91) | [St\. Lover](https://open.spotify.com/album/6tgMOMo9ZXYCrBIVYgfyem) | 3:37 | 2022-09-08 |  |
+| [St\. Lover](https://open.spotify.com/track/6kNiAOXTGBTjL1ITsWWUio) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK), [林映唯](https://open.spotify.com/artist/0vEN77zurrawTwPgocgd91) | [St\. Lover](https://open.spotify.com/album/6tgMOMo9ZXYCrBIVYgfyem) | 3:37 | 2022-09-08 | 2023-04-30 |
+| [St\. Lover](https://open.spotify.com/track/46nAMfcng8oqyillYZt7u4) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK), [林映唯](https://open.spotify.com/artist/0vEN77zurrawTwPgocgd91) | [St\. Lover](https://open.spotify.com/album/4A5hgurZJxNOkuJweFZTDQ) | 3:37 | 2023-04-27 |  |
 | [Stay](https://open.spotify.com/track/58xBxGyRUuoRIaKUsjmKoh) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC) | [UU&U](https://open.spotify.com/album/78XT5si8Zp3XhRQEiPZ1pr) | 3:26 | 2022-06-23 |  |
 | [Strawberry](https://open.spotify.com/track/6G7o4jAd4EYFH0GDviT4lj) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [Strawberry](https://open.spotify.com/album/6Svok47SrVCMuGxIeV0m3M) | 2:33 | 2022-02-17 | 2022-04-22 |
 | [Summer Never Ends](https://open.spotify.com/track/2dAxwnQnBkfNyrn1SARaHO) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC), [艾許 Ashlee](https://open.spotify.com/artist/4rhlroA2XvbvSImYnLI20k), [CED](https://open.spotify.com/artist/3M1YtHr7K9yHjawwbJ2DgC) | [This Summer Is Still Fucked Up](https://open.spotify.com/album/0f3OU3cXEuOWdGYE7NMhn9) | 3:16 | 2022-07-28 | 2022-08-19 |
@@ -238,7 +239,8 @@
 | [時間](https://open.spotify.com/track/1tFVSjwr5MNVvvb9W1Yk0u) | [KUNG 龔敬文](https://open.spotify.com/artist/568gCUXvFfGIyVUQ2SZa3R) | [甲洨斯丁](https://open.spotify.com/album/0JPLuTkTSLHLqIzyPSGFeK) | 3:20 | 2022-08-11 |  |
 | [晚安](https://open.spotify.com/track/7LhYXgN9eVMGQHm0aiGomG) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [晚安](https://open.spotify.com/album/0J0ntnsJRbGju0yyCOiCgQ) | 4:49 | 2023-02-09 | 2023-03-31 |
 | [晚安](https://open.spotify.com/track/0OYdHFOR8e5Aj5nSLKtFJf) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [晚安](https://open.spotify.com/album/6FTaERo06faESPdrMtFPSV) | 4:49 | 2022-10-20 | 2022-10-28 |
-| [景美](https://open.spotify.com/track/1jSX6c7mL2hcJVPWuNpUwL) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK) | [景美](https://open.spotify.com/album/41lFXP12zmvOQy6ziL2uPj) | 3:35 | 2022-05-12 |  |
+| [景美](https://open.spotify.com/track/1jSX6c7mL2hcJVPWuNpUwL) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK) | [景美](https://open.spotify.com/album/41lFXP12zmvOQy6ziL2uPj) | 3:35 | 2022-05-12 | 2023-04-30 |
+| [景美](https://open.spotify.com/track/703QKP05wHYmeRvr8MGQ80) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK) | [景美](https://open.spotify.com/album/6amaZpNGeX8DfC5XnbMeNV) | 3:35 | 2023-04-27 |  |
 | [最好的我 \(feat\. OHMYMEITING\)](https://open.spotify.com/track/2rdfJvWyows3X6w0HrVV0r) | [Ruth Kueo](https://open.spotify.com/artist/0SueX3F8oyrlVY4i8JB6Lb), [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [最好的我 \(feat\. OHMYMEITING\)](https://open.spotify.com/album/1xOeud7asRU3JQ5SRMhs2u) | 2:58 | 2023-01-05 | 2023-01-13 |
 | [最美的風景 \(feat\. 莫宰羊\)](https://open.spotify.com/track/3LkITiONSVW8eWhruHhiDJ) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [莫宰羊](https://open.spotify.com/artist/2yN7qnZbV8krGJEB16nUOe) | [最美的風景 \(feat\. 莫宰羊\)](https://open.spotify.com/album/0oM9cYr2l14guScjTsMIKX) | 3:17 | 2022-02-17 | 2023-01-20 |
 | [有些](https://open.spotify.com/track/3V2v19gDm4rmRkMwcgS4X2) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [失眠症候群](https://open.spotify.com/album/1XD00QTaV6BAcPdsmGzyyN) | 3:49 | 2022-01-06 | 2022-03-11 |

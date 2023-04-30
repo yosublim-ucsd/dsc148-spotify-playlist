@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 
 > inspirations &amp; favorites
 
-[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,137 likes - 714 songs - 2 day 8 hr 58 min
+[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,136 likes - 714 songs - 2 day 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

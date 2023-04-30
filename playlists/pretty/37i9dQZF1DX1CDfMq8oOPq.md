@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: slipmami, Ebony, LARINHX
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,200 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,271 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [Air Force](https://open.spotify.com/track/2YxwuexC6MmXq1MzLrGMNR) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF), [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv) | [Air Force](https://open.spotify.com/album/4aW8csEPx6r1p4CFnlPpFD) | 2:24 |
 | 50 | [Fartura E Riqueza](https://open.spotify.com/track/4vn6W7bT3fqHG466IfaJck) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [Buarky](https://open.spotify.com/artist/2jWvN8tmcpkgiQFpdEQnce), [NATH](https://open.spotify.com/artist/6dAUWqdIfuQKFV9i2kMiFx), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt), [DJ Maxnosbeatz](https://open.spotify.com/artist/4FMpb2dZnasTgrWwyKCQuN) | [Betty](https://open.spotify.com/album/3OUm1Sti08w8fJRkImQUaI) | 3:01 |
 
-Snapshot ID: `MCxmNGQ3NTliYmQ1YzhjM2Y0NGRhNmNkZWMzMjI1Y2EwZDY0ZGE4M2I2`
+Snapshot ID: `MCw5NjMzOGI2MjdkZjc4ZTBiZmYxMDIyZTJiZWQ2OThiNmRlZDMyNTVh`

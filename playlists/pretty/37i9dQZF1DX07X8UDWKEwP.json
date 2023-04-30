@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Mike Bah\u00eda",
-  "num_followers": 250945,
+  "num_followers": 250993,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjhiZjI2ZDc2YzExZGM1N2E3YzE5ZjNlNjJlYTg3NjE4MTZlZTcw",
+  "snapshot_id": "MCw3ZjljYjliMWUzOGRhYWNhMGQ2NDg2OTA3NDQwNzZkMDdlMGU0ZDU1",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -267,26 +267,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 212914,
-      "name": "SI ES AMOR",
-      "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Hipnotizados",
         "url": "https://open.spotify.com/album/0vucmhfLxNOc87TDZydaI7"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 142840,
       "name": "Hipnotizados",
       "url": "https://open.spotify.com/track/2t88IEEgCkZr9OQHOrOr3j"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 212914,
+      "name": "SI ES AMOR",
+      "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Consuelo",
-        "url": "https://open.spotify.com/album/1N6xTNae8l8OefNXZttihO"
-      },
-      "artists": [
-        {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
-        }
-      ],
-      "duration_ms": 164093,
-      "name": "Consuelo",
-      "url": "https://open.spotify.com/track/4T6Zp5YivNaBc63lxDw25i"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Esta Canci\u00f3n",
         "url": "https://open.spotify.com/album/4LUmjFFZc79AmtjhoPmhzr"
       },
@@ -623,6 +607,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Consuelo",
+        "url": "https://open.spotify.com/album/1N6xTNae8l8OefNXZttihO"
+      },
+      "artists": [
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "duration_ms": 164093,
+      "name": "Consuelo",
+      "url": "https://open.spotify.com/track/4T6Zp5YivNaBc63lxDw25i"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "AWCH",
         "url": "https://open.spotify.com/album/4HcznvP4cIbOLyuvTJS6QA"
       },
@@ -639,8 +639,8 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Mala Suerte (Escalona Nunca Se Hab\u00eda Grabado As\u00ed)",
-        "url": "https://open.spotify.com/album/4bJWAafvax13jJC0XiOcPe"
+        "name": "La Historia (Escalona Nunca Se Hab\u00eda Grabado As\u00ed)",
+        "url": "https://open.spotify.com/album/2wcgOo4KxX9mWenJ4PeuUu"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
         }
       ],
-      "duration_ms": 213998,
-      "name": "Mala Suerte (Escalona Nunca Se Hab\u00eda Grabado As\u00ed)",
-      "url": "https://open.spotify.com/track/0IqUC1k9LmVfQ6KIftfW0D"
+      "duration_ms": 271030,
+      "name": "La Historia - Escalona Nunca Se Hab\u00eda Grabado As\u00ed",
+      "url": "https://open.spotify.com/track/7gzuhDzLBcR0O1QXskLAdt"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -703,42 +703,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Fronteo",
-        "url": "https://open.spotify.com/album/2P3hVbpOt0li6W0rolPeZC"
-      },
-      "artists": [
-        {
-          "name": "Pinto Picasso",
-          "url": "https://open.spotify.com/artist/40DtWCtcmCd6GH8vKrDaJs"
-        },
-        {
-          "name": "sP Polanco",
-          "url": "https://open.spotify.com/artist/3ZK68DhfWiJTIUZySAywPS"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "Fronteo",
-      "url": "https://open.spotify.com/track/3OUAwkS8ZabaD8k8gSG7YP"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "La Historia (Escalona Nunca Se Hab\u00eda Grabado As\u00ed)",
-        "url": "https://open.spotify.com/album/2wcgOo4KxX9mWenJ4PeuUu"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 271030,
-      "name": "La Historia - Escalona Nunca Se Hab\u00eda Grabado As\u00ed",
-      "url": "https://open.spotify.com/track/7gzuhDzLBcR0O1QXskLAdt"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Loter\u00eda",
         "url": "https://open.spotify.com/album/7qjUgwcrdAbhAjF5gYAyn4"
       },
@@ -759,6 +723,42 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Mala Suerte (Escalona Nunca Se Hab\u00eda Grabado As\u00ed)",
+        "url": "https://open.spotify.com/album/4bJWAafvax13jJC0XiOcPe"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 213998,
+      "name": "Mala Suerte (Escalona Nunca Se Hab\u00eda Grabado As\u00ed)",
+      "url": "https://open.spotify.com/track/0IqUC1k9LmVfQ6KIftfW0D"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Fronteo",
+        "url": "https://open.spotify.com/album/2P3hVbpOt0li6W0rolPeZC"
+      },
+      "artists": [
+        {
+          "name": "Pinto Picasso",
+          "url": "https://open.spotify.com/artist/40DtWCtcmCd6GH8vKrDaJs"
+        },
+        {
+          "name": "sP Polanco",
+          "url": "https://open.spotify.com/artist/3ZK68DhfWiJTIUZySAywPS"
+        }
+      ],
+      "duration_ms": 152750,
+      "name": "Fronteo",
+      "url": "https://open.spotify.com/track/3OUAwkS8ZabaD8k8gSG7YP"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "La Luz",
         "url": "https://open.spotify.com/album/0BCkK4DlEhdJtoYNzWLMb0"
       },
@@ -771,6 +771,30 @@
       "duration_ms": 185252,
       "name": "La Luz",
       "url": "https://open.spotify.com/track/1nW7z9bBdVApMNrgvrqYMF"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "L\u00e1grimas pa otro d\u00eda",
+        "url": "https://open.spotify.com/album/3cPRpK8yUQV5T6QTt7XGfp"
+      },
+      "artists": [
+        {
+          "name": "DELLAFUENTE",
+          "url": "https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV"
+        },
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 136955,
+      "name": "El camino",
+      "url": "https://open.spotify.com/track/6x5gl9msgjsqub1hy7Iq3k"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -907,26 +931,6 @@
       "duration_ms": 186440,
       "name": "El Carnaval De Celia: A Tribute (La Vida es un Carnaval / La Negra Tiene Tumbao / Rie y Llora)",
       "url": "https://open.spotify.com/track/0Upe0FIOS01lwUu7d4WSrR"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Llegaste",
-        "url": "https://open.spotify.com/album/3KYHHZZqz8SEjCVbeUE8xO"
-      },
-      "artists": [
-        {
-          "name": "Manny Cruz",
-          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
-        },
-        {
-          "name": "Milly Quezada",
-          "url": "https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ"
-        }
-      ],
-      "duration_ms": 201028,
-      "name": "Llegaste",
-      "url": "https://open.spotify.com/track/5jU9Tj9Mlrwjr2SW5gElJz"
     }
   ],
   "unique_name": "el nuevo tropical",

@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 8677,
+  "num_followers": 8748,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjMwMDE5OTk4YWE1MTI3N2IyMjM5OTMyYTlhZWI0N2ZmOTA0YmMw",
+  "snapshot_id": "MCw3NDUxNThhODEzODFkNWE4OTNhNWI5NTFhYjllNTk4MGFjMTk3MDRj",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Arepa 3000",
-        "url": "https://open.spotify.com/album/4VRNs3TfQWZjRXiv378FNN"
-      },
-      "artists": [
-        {
-          "name": "Los Amigos Invisibles",
-          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
-        }
-      ],
-      "duration_ms": 239613,
-      "name": "Qu\u00e9 Rico",
-      "url": "https://open.spotify.com/track/75NBuHx7ad04FAXKsoEbrg"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Chango",
         "url": "https://open.spotify.com/album/7AzXtthlLZjuqonhrl0Wwa"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 185994,
       "name": "Despacio",
       "url": "https://open.spotify.com/track/2LWqH7TB7GY9Bvme8FF7Ac"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Arepa 3000",
+        "url": "https://open.spotify.com/album/4VRNs3TfQWZjRXiv378FNN"
+      },
+      "artists": [
+        {
+          "name": "Los Amigos Invisibles",
+          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
+        }
+      ],
+      "duration_ms": 239613,
+      "name": "Qu\u00e9 Rico",
+      "url": "https://open.spotify.com/track/75NBuHx7ad04FAXKsoEbrg"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Terapia",
-        "url": "https://open.spotify.com/album/11qB7I59a0o0p2lNdTkwZC"
-      },
-      "artists": [
-        {
-          "name": "Cimafunk",
-          "url": "https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe"
-        }
-      ],
-      "duration_ms": 249250,
-      "name": "Parar el Tiempo",
-      "url": "https://open.spotify.com/track/49fa5bKsBZA5A360ZD2n1c"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Como Nunca",
         "url": "https://open.spotify.com/album/4Pp1hdXYkrDZSkwDuTFVnO"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 192486,
       "name": "Gordo Funky",
       "url": "https://open.spotify.com/track/24uwH6cnhvjLtwBxrNS21N"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/11qB7I59a0o0p2lNdTkwZC"
+      },
+      "artists": [
+        {
+          "name": "Cimafunk",
+          "url": "https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe"
+        }
+      ],
+      "duration_ms": 249250,
+      "name": "Parar el Tiempo",
+      "url": "https://open.spotify.com/track/49fa5bKsBZA5A360ZD2n1c"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -395,22 +395,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "muero x ti",
-        "url": "https://open.spotify.com/album/0PEkrVYDzkhAU5xk0gOqu4"
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/2pNKnE4bn2sLJuG2agLg7B"
       },
       "artists": [
         {
           "name": "Noah Pino Palo",
           "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
-        },
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
         }
       ],
-      "duration_ms": 237564,
-      "name": "muero x ti",
-      "url": "https://open.spotify.com/track/0VDvDixlnaJFUYYEhE6tDp"
+      "duration_ms": 271162,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/1UGwamQOTjQ0nnCYdX92Rn"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -483,18 +479,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/2pNKnE4bn2sLJuG2agLg7B"
+        "name": "muero x ti",
+        "url": "https://open.spotify.com/album/0PEkrVYDzkhAU5xk0gOqu4"
       },
       "artists": [
         {
           "name": "Noah Pino Palo",
           "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
+        },
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
         }
       ],
-      "duration_ms": 271162,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/1UGwamQOTjQ0nnCYdX92Rn"
+      "duration_ms": 237564,
+      "name": "muero x ti",
+      "url": "https://open.spotify.com/track/0VDvDixlnaJFUYYEhE6tDp"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "R\u00edo Salvaje",
-        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Golden Choice",
-      "url": "https://open.spotify.com/track/2EfDz9cgsVfwM1AcDWsSyN"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Mira Lo Que Me Hiciste Hacer",
         "url": "https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 228543,
       "name": "Su\u00e9ltame, Bogot\u00e1",
       "url": "https://open.spotify.com/track/7qhunqQrA4o3Hk4c6ohRTg"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "R\u00edo Salvaje",
+        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Golden Choice",
+      "url": "https://open.spotify.com/track/2EfDz9cgsVfwM1AcDWsSyN"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -563,22 +563,6 @@
       "duration_ms": 192000,
       "name": "Cuando Regreses a M\u00ed",
       "url": "https://open.spotify.com/track/1OCzLsi1LaulQs5hSiwzjZ"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Dicen",
-        "url": "https://open.spotify.com/album/4UV2K61AHd7G9trxn3MBbP"
-      },
-      "artists": [
-        {
-          "name": "Surfistas Del Sistema",
-          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
-        }
-      ],
-      "duration_ms": 225714,
-      "name": "Dicen",
-      "url": "https://open.spotify.com/track/63k804w99BgYRXSjDfOzGl"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -615,6 +599,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Dicen",
+        "url": "https://open.spotify.com/album/4UV2K61AHd7G9trxn3MBbP"
+      },
+      "artists": [
+        {
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+        }
+      ],
+      "duration_ms": 225714,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/63k804w99BgYRXSjDfOzGl"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Dorama",
         "url": "https://open.spotify.com/album/1JL6GXkYqQC3tvreFoZXlm"
       },
@@ -627,22 +627,6 @@
       "duration_ms": 290400,
       "name": "Lentes Negros",
       "url": "https://open.spotify.com/track/2IwXBRnOgAhIVQXjtt6KEK"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Sundown",
-        "url": "https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM"
-      },
-      "artists": [
-        {
-          "name": "Eddie Chacon",
-          "url": "https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD"
-        }
-      ],
-      "duration_ms": 192973,
-      "name": "Holy Hell",
-      "url": "https://open.spotify.com/track/6PIuuyPtky0MGlv3kHEC3T"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -663,22 +647,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "R\u00edo Salvaje",
-        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 326040,
-      "name": "Tr\u00e1game Tierra",
-      "url": "https://open.spotify.com/track/25w814wNZ7B0XoVBV5miTs"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "CAMALOVE",
         "url": "https://open.spotify.com/album/7jJijowxod92mie0y9XAj7"
       },
@@ -691,6 +659,38 @@
       "duration_ms": 254492,
       "name": "Asturi\u00f3n",
       "url": "https://open.spotify.com/track/7MCnLeI6m34DUyX1PfYpBJ"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM"
+      },
+      "artists": [
+        {
+          "name": "Eddie Chacon",
+          "url": "https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD"
+        }
+      ],
+      "duration_ms": 192973,
+      "name": "Holy Hell",
+      "url": "https://open.spotify.com/track/6PIuuyPtky0MGlv3kHEC3T"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "R\u00edo Salvaje",
+        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 326040,
+      "name": "Tr\u00e1game Tierra",
+      "url": "https://open.spotify.com/track/25w814wNZ7B0XoVBV5miTs"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -727,26 +727,6 @@
       "duration_ms": 218666,
       "name": "Ultra-Funk",
       "url": "https://open.spotify.com/track/4ahWVoHIxMfoLksp36A1mf"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Buitres & Co.",
-        "url": "https://open.spotify.com/album/5vyC6Dahprs1cIdQYMIYDZ"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        },
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 225458,
-      "name": "Rotos",
-      "url": "https://open.spotify.com/track/5Y1KS5xHBjGXKsEaCnufdi"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -791,22 +771,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Fino",
-        "url": "https://open.spotify.com/album/7LukmvcXz75vKINXivcMjl"
-      },
-      "artists": [
-        {
-          "name": "Ferraz",
-          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
-        }
-      ],
-      "duration_ms": 243113,
-      "name": "No Puedo Parar",
-      "url": "https://open.spotify.com/track/18jJegd092oIkvSWiezdW3"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Maldita Cach\u00e1",
         "url": "https://open.spotify.com/album/3nunl1URnEHRPjZU854vYo"
       },
@@ -819,6 +783,42 @@
       "duration_ms": 144958,
       "name": "Maldita Cach\u00e1",
       "url": "https://open.spotify.com/track/02OLbvjFRd9dCVNPbZCjXo"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Buitres & Co.",
+        "url": "https://open.spotify.com/album/5vyC6Dahprs1cIdQYMIYDZ"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 225458,
+      "name": "Rotos",
+      "url": "https://open.spotify.com/track/5Y1KS5xHBjGXKsEaCnufdi"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Fino",
+        "url": "https://open.spotify.com/album/7LukmvcXz75vKINXivcMjl"
+      },
+      "artists": [
+        {
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
+        }
+      ],
+      "duration_ms": 243113,
+      "name": "No Puedo Parar",
+      "url": "https://open.spotify.com/track/18jJegd092oIkvSWiezdW3"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -867,26 +867,6 @@
       "duration_ms": 199334,
       "name": "Juntos",
       "url": "https://open.spotify.com/track/5i0TwLP1YDj5ZCMYUGBbC0"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Leche de Tigre",
-        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        },
-        {
-          "name": "Adrian Quesada",
-          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
-        }
-      ],
-      "duration_ms": 205462,
-      "name": "Leche de Tigre",
-      "url": "https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -943,22 +923,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Santiago",
-        "url": "https://open.spotify.com/album/5CqEEjDulphHq8zgJcko21"
-      },
-      "artists": [
-        {
-          "name": "jame minogue",
-          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
-        }
-      ],
-      "duration_ms": 142516,
-      "name": "Santiago",
-      "url": "https://open.spotify.com/track/58r843NDpyDVVvd6In95g3"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Ritmo Natural",
         "url": "https://open.spotify.com/album/7c4DjcusI5Vv9AjQM2OhXu"
       },
@@ -971,6 +935,22 @@
       "duration_ms": 202080,
       "name": "Ritmo Natural",
       "url": "https://open.spotify.com/track/13h03rdDvweAVeunMnw8si"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Santiago",
+        "url": "https://open.spotify.com/album/5CqEEjDulphHq8zgJcko21"
+      },
+      "artists": [
+        {
+          "name": "jame minogue",
+          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
+        }
+      ],
+      "duration_ms": 142516,
+      "name": "Santiago",
+      "url": "https://open.spotify.com/track/58r843NDpyDVVvd6In95g3"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -991,6 +971,26 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Leche de Tigre",
+        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        },
+        {
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+        }
+      ],
+      "duration_ms": 205462,
+      "name": "Leche de Tigre",
+      "url": "https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Big Night",
         "url": "https://open.spotify.com/album/0q3Esl723cq5Zu0kYEOl2w"
       },
@@ -1003,22 +1003,6 @@
       "duration_ms": 195000,
       "name": "Big Night",
       "url": "https://open.spotify.com/track/6u2NxRdgR9pqJUTeigcopA"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Hay frases que s\u00f3lo escuchamos de noche",
-        "url": "https://open.spotify.com/album/6x9Nd9EHF4c2M9nIuVLhIS"
-      },
-      "artists": [
-        {
-          "name": "Floridablanca",
-          "url": "https://open.spotify.com/artist/3Ri7j4vT0iYvMjMv5I3iqp"
-        }
-      ],
-      "duration_ms": 237909,
-      "name": "nuncatevayasnunca",
-      "url": "https://open.spotify.com/track/5WFAEA3YAcQtFUdwScD2ut"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1039,22 +1023,34 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Amor x Hoy (Vuelvo a Caer)",
-        "url": "https://open.spotify.com/album/7cmFebFSNe3iMhOb5ErZsB"
+        "name": "Hay frases que s\u00f3lo escuchamos de noche",
+        "url": "https://open.spotify.com/album/6x9Nd9EHF4c2M9nIuVLhIS"
       },
       "artists": [
         {
-          "name": "Azul de Viena",
-          "url": "https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ"
-        },
-        {
-          "name": "Valdo Rodriguez",
-          "url": "https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4"
+          "name": "Floridablanca",
+          "url": "https://open.spotify.com/artist/3Ri7j4vT0iYvMjMv5I3iqp"
         }
       ],
-      "duration_ms": 205862,
-      "name": "Amor x Hoy (Vuelvo a Caer)",
-      "url": "https://open.spotify.com/track/37dUvhndBywHGLNhu7xiEH"
+      "duration_ms": 237909,
+      "name": "nuncatevayasnunca",
+      "url": "https://open.spotify.com/track/5WFAEA3YAcQtFUdwScD2ut"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Soundamerica",
+        "url": "https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 234880,
+      "name": "Todos Lo Hacen",
+      "url": "https://open.spotify.com/track/15YxQngUxvhImUXb9PxBb0"
     }
   ],
   "unique_name": "feels like latin funk",

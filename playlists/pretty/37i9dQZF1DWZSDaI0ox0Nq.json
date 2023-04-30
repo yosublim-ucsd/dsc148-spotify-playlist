@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 15428,
+  "num_followers": 15443,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWYzNjQ0OGU0ODI1NDU0ZmU4NWQ1NjU3NmZmNTZiNjYwMzZmZjMw",
+  "snapshot_id": "MCwxNzg2MWNkNzBjYmQwYWJkYWFlODk0YWY4MDg5NDFkYWMxNTJlNmE3",
   "tracks": [
     {
       "added_at": "2022-07-08 03:00:00",
@@ -199,22 +199,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Nelly Omar - Desde el alma",
-        "url": "https://open.spotify.com/album/0cXYEiQXAKBahVL4uUivpx"
-      },
-      "artists": [
-        {
-          "name": "Nelly Omar",
-          "url": "https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f"
-        }
-      ],
-      "duration_ms": 156920,
-      "name": "Desde el alma",
-      "url": "https://open.spotify.com/track/2qy2u4LhIS8OSnnmJdvo1n"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "El Nuevo Rumbo",
         "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 154951,
       "name": "Ser\u00eda Facil Decir",
       "url": "https://open.spotify.com/track/51j44z3Qr2HnSnBhrEwpvm"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Nelly Omar - Desde el alma",
+        "url": "https://open.spotify.com/album/0cXYEiQXAKBahVL4uUivpx"
+      },
+      "artists": [
+        {
+          "name": "Nelly Omar",
+          "url": "https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f"
+        }
+      ],
+      "duration_ms": 156920,
+      "name": "Desde el alma",
+      "url": "https://open.spotify.com/track/2qy2u4LhIS8OSnnmJdvo1n"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -303,18 +303,22 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Nelly Omar - Desde el alma",
-        "url": "https://open.spotify.com/album/0cXYEiQXAKBahVL4uUivpx"
+        "name": "El Nuevo Rumbo",
+        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
       "artists": [
         {
-          "name": "Nelly Omar",
-          "url": "https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f"
+          "name": "Amelita Baltar",
+          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
+        },
+        {
+          "name": "Aldo Saralegui",
+          "url": "https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1"
         }
       ],
-      "duration_ms": 157546,
-      "name": "Parece mentira",
-      "url": "https://open.spotify.com/track/7MteYKBjWmnGAGuWlSsZ8i"
+      "duration_ms": 209866,
+      "name": "Fruta Amarga",
+      "url": "https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -355,22 +359,18 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "El Nuevo Rumbo",
-        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
+        "name": "Nelly Omar - Desde el alma",
+        "url": "https://open.spotify.com/album/0cXYEiQXAKBahVL4uUivpx"
       },
       "artists": [
         {
-          "name": "Amelita Baltar",
-          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
-        },
-        {
-          "name": "Aldo Saralegui",
-          "url": "https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1"
+          "name": "Nelly Omar",
+          "url": "https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f"
         }
       ],
-      "duration_ms": 209866,
-      "name": "Fruta Amarga",
-      "url": "https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu"
+      "duration_ms": 157546,
+      "name": "Parece mentira",
+      "url": "https://open.spotify.com/track/7MteYKBjWmnGAGuWlSsZ8i"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Presentando a Mercedes Simone",
-        "url": "https://open.spotify.com/album/6HNgJ8dZflujytFtS4TUm3"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Simone",
-          "url": "https://open.spotify.com/artist/3MqKTtxz6LzNrRJugeYh8W"
-        }
-      ],
-      "duration_ms": 158840,
-      "name": "Milonga Sentimental",
-      "url": "https://open.spotify.com/track/1uJeHbIPeOKGfEEJujJkP7"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Martingala",
         "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 183177,
       "name": "Villa Crespo",
       "url": "https://open.spotify.com/track/2Wy6jMql4zbkK13xG5XD59"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Presentando a Mercedes Simone",
+        "url": "https://open.spotify.com/album/6HNgJ8dZflujytFtS4TUm3"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Simone",
+          "url": "https://open.spotify.com/artist/3MqKTtxz6LzNrRJugeYh8W"
+        }
+      ],
+      "duration_ms": 158840,
+      "name": "Milonga Sentimental",
+      "url": "https://open.spotify.com/track/1uJeHbIPeOKGfEEJujJkP7"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Toda Mi Vida",
-        "url": "https://open.spotify.com/album/17AJEwOMBmI6xhykdOBCI7"
-      },
-      "artists": [
-        {
-          "name": "Adriana Varela",
-          "url": "https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc"
-        }
-      ],
-      "duration_ms": 248613,
-      "name": "Garganta Con Arena",
-      "url": "https://open.spotify.com/track/6BjIumHEDyRxgocfAfwsXL"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Salto Mortal (Canta a Gardel, Corsini y Magaldi)",
         "url": "https://open.spotify.com/album/1Z2Uz1bTt09Y2HXSNY3Avb"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 132813,
       "name": "Morocha Triste",
       "url": "https://open.spotify.com/track/7CIcWoxE0p2uaWyDGdT428"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Toda Mi Vida",
+        "url": "https://open.spotify.com/album/17AJEwOMBmI6xhykdOBCI7"
+      },
+      "artists": [
+        {
+          "name": "Adriana Varela",
+          "url": "https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc"
+        }
+      ],
+      "duration_ms": 248613,
+      "name": "Garganta Con Arena",
+      "url": "https://open.spotify.com/track/6BjIumHEDyRxgocfAfwsXL"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -591,22 +591,22 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Vos y yo",
-        "url": "https://open.spotify.com/album/7I5aFjFeNdfqWyISjPI2sw"
+        "name": "Milonga del Desocupado",
+        "url": "https://open.spotify.com/album/3VvEy3CFcgyMe1iMt4bQ2X"
       },
       "artists": [
         {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+          "name": "Quinteto Bataraz",
+          "url": "https://open.spotify.com/artist/5wExxTg18OJstdwHUQDrAs"
         },
         {
-          "name": "Leopoldo Federico",
-          "url": "https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ"
+          "name": "Liliana Herrero",
+          "url": "https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF"
         }
       ],
-      "duration_ms": 238852,
-      "name": "Malena",
-      "url": "https://open.spotify.com/track/24Reh2d2WR4lwweVsA1xxf"
+      "duration_ms": 232930,
+      "name": "Milonga del Desocupado",
+      "url": "https://open.spotify.com/track/4drrlcTdFPZhbKoaZSCoMo"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -631,22 +631,22 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Milonga del Desocupado",
-        "url": "https://open.spotify.com/album/3VvEy3CFcgyMe1iMt4bQ2X"
+        "name": "Vos y yo",
+        "url": "https://open.spotify.com/album/7I5aFjFeNdfqWyISjPI2sw"
       },
       "artists": [
         {
-          "name": "Quinteto Bataraz",
-          "url": "https://open.spotify.com/artist/5wExxTg18OJstdwHUQDrAs"
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
         },
         {
-          "name": "Liliana Herrero",
-          "url": "https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF"
+          "name": "Leopoldo Federico",
+          "url": "https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ"
         }
       ],
-      "duration_ms": 232930,
-      "name": "Milonga del Desocupado",
-      "url": "https://open.spotify.com/track/4drrlcTdFPZhbKoaZSCoMo"
+      "duration_ms": 238852,
+      "name": "Malena",
+      "url": "https://open.spotify.com/track/24Reh2d2WR4lwweVsA1xxf"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Puro Verso",
-        "url": "https://open.spotify.com/album/49rcqApxkF0v2eY0nKteFl"
-      },
-      "artists": [
-        {
-          "name": "Malena Muyala",
-          "url": "https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1"
-        }
-      ],
-      "duration_ms": 258529,
-      "name": "La \u00daltima Curda",
-      "url": "https://open.spotify.com/track/6wTRZqGXcMRXCXYFUAqXL4"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Lejos",
         "url": "https://open.spotify.com/album/3Bejr5wnkAxczzVqZKYfSc"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 245733,
       "name": "La Mariposa",
       "url": "https://open.spotify.com/track/17iPZmaID95A2XxcTDBXoh"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Puro Verso",
+        "url": "https://open.spotify.com/album/49rcqApxkF0v2eY0nKteFl"
+      },
+      "artists": [
+        {
+          "name": "Malena Muyala",
+          "url": "https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1"
+        }
+      ],
+      "duration_ms": 258529,
+      "name": "La \u00daltima Curda",
+      "url": "https://open.spotify.com/track/6wTRZqGXcMRXCXYFUAqXL4"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
+        "name": "Martingala",
+        "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
+      },
+      "artists": [
+        {
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+        }
+      ],
+      "duration_ms": 193348,
+      "name": "La Piel de la Ciudad",
+      "url": "https://open.spotify.com/track/4OyBpawRu6Bh5CpK8bBXh4"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
         "name": "Vintage Argentine Tangos (1928 - 1954), Vol. 2",
         "url": "https://open.spotify.com/album/4anYze0tSqlzugbsDrbcAz"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 165982,
       "name": "La canci\u00f3n de Buenos Aires",
       "url": "https://open.spotify.com/track/4t2Ow4sdp8p8OVfpu2e1Ey"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
-        "name": "Martingala",
-        "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
-      },
-      "artists": [
-        {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
-        }
-      ],
-      "duration_ms": 193348,
-      "name": "La Piel de la Ciudad",
-      "url": "https://open.spotify.com/track/4OyBpawRu6Bh5CpK8bBXh4"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -839,22 +839,6 @@
       "duration_ms": 208426,
       "name": "Yo No Se Que Me Han Hecho Tus Ojos",
       "url": "https://open.spotify.com/track/2yGGl2B3JT1NXdRpxFAZ0Z"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
-        "name": "Temas Pendientes",
-        "url": "https://open.spotify.com/album/7dAmJJhKx2p5QCmknLNYlB"
-      },
-      "artists": [
-        {
-          "name": "Malena Muyala",
-          "url": "https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1"
-        }
-      ],
-      "duration_ms": 165546,
-      "name": "Mu\u00f1eca Brava",
-      "url": "https://open.spotify.com/track/5skLmMQ7foRb3UTEtc9Qx6"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -899,6 +883,38 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
+        "name": "Tangos Famosos Cantados",
+        "url": "https://open.spotify.com/album/6e0npZfXXOvdAY8YulsfLo"
+      },
+      "artists": [
+        {
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+        }
+      ],
+      "duration_ms": 198693,
+      "name": "Sur",
+      "url": "https://open.spotify.com/track/0I0bZlt1lW3HMCDiTBkbt3"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Temas Pendientes",
+        "url": "https://open.spotify.com/album/7dAmJJhKx2p5QCmknLNYlB"
+      },
+      "artists": [
+        {
+          "name": "Malena Muyala",
+          "url": "https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1"
+        }
+      ],
+      "duration_ms": 165546,
+      "name": "Mu\u00f1eca Brava",
+      "url": "https://open.spotify.com/track/5skLmMQ7foRb3UTEtc9Qx6"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
         "name": "Mar\u00eda",
         "url": "https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 250133,
       "name": "Caser\u00f3n de Tejas (feat. Jorge Calandrelli)",
       "url": "https://open.spotify.com/track/0Elfdj2gQ0Ib0h49kCKb2R"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
-        "name": "Tangos Famosos Cantados",
-        "url": "https://open.spotify.com/album/6e0npZfXXOvdAY8YulsfLo"
-      },
-      "artists": [
-        {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
-        }
-      ],
-      "duration_ms": 198693,
-      "name": "Sur",
-      "url": "https://open.spotify.com/track/0I0bZlt1lW3HMCDiTBkbt3"
     },
     {
       "added_at": "2022-07-08 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 
 > Good vibes for good times!
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,100 likes - 74 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,233 likes - 74 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 23 | [Roll Up](https://open.spotify.com/track/0PwduRPZZQeIyVojm5Bjtp) | [Onetox](https://open.spotify.com/artist/2q1DoxOtgpacwQwrKzJKXN) | [Roll Up](https://open.spotify.com/album/67ZFI5vuV7ToLaTMli2B3J) | 3:58 |
 | 24 | [Early In The Morning](https://open.spotify.com/track/2R9nfayl1NXhuAdEpwG2Qa) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Early In The Morning](https://open.spotify.com/album/7jBZzB6g10Uw2qwHN3hdDR) | 2:52 |
 | 25 | [Something To Believe In](https://open.spotify.com/track/7K7qeICBpEwhkdJUcy6pMh) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Beauty In The Silence](https://open.spotify.com/album/2DD5DNaMlATeJozoi2aWI9) | 3:29 |
-| 26 | [Love Me](https://open.spotify.com/track/3zfn7mpuEfL0C4x6MTjTAr) | [Fia](https://open.spotify.com/artist/3uwg3MMPpcXtJ7OknqdO9W) | [Love Me](https://open.spotify.com/album/0W5jW3o1KpH0qHBwmytpwK) | 4:24 |
+| 26 | [Love Me](https://open.spotify.com/track/6HwcP1XamKZwjAmcdBN2Pk) | [Fia](https://open.spotify.com/artist/3uwg3MMPpcXtJ7OknqdO9W) | [Love Me](https://open.spotify.com/album/3XedtVc8Dx4e5kXLK36uYB) | 4:24 |
 | 27 | [Beef](https://open.spotify.com/track/2GKBeYIdp4E6bgf08uxaMX) | [Joe Samba](https://open.spotify.com/artist/4edOA7e3jDgmddqyrb93DJ) | [Far From Forever](https://open.spotify.com/album/5Jbc8jkGvLRaCLoHERLh1n) | 3:16 |
 | 28 | [California Day](https://open.spotify.com/track/1NdZN8qp8ymkHqYnlXxS1F) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL), [Shwayze](https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7) | [California Day](https://open.spotify.com/album/2W93NNqgJVgDKeXCCDqTuL) | 2:52 |
 | 29 | [Burdens Heavy](https://open.spotify.com/track/1jfrOugcys9IU9QBspbiLc) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Burdens Heavy](https://open.spotify.com/album/0wsuaqOpcNw7ac7DwWFH1t) | 3:52 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 73 | [My Baby](https://open.spotify.com/track/784sJR2S68F1joSvINXhe0) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 3:56 |
 | 74 | [Rhythm in My Soul](https://open.spotify.com/track/1U9GsSNJ2gypyLCRbbvNa1) | [Unity Pacific](https://open.spotify.com/artist/0e0rH9Exdpkq3d7ZSi9VN5) | [Into the Dread](https://open.spotify.com/album/0XUxsYbbxTmkhzMAA9YeTe) | 6:16 |
 
-Snapshot ID: `MCw3YjkyYWU5MGZjOTdjMTA4YmNmYmFmMDAzNDJlMDQ4ZDhhMGE4MjYy`
+Snapshot ID: `MCxhZDMzNDg4OWY2Y2RjZTY0Y2UzZGRkY2UzNGUzNzA5NTUwNDFhODEz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,703 likes - 70 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,734 likes - 70 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 | 15 | [You're My Everything](https://open.spotify.com/track/77wZQJsPyqE4hYg2AXsNhu) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [You're My Everything](https://open.spotify.com/album/6S5BlJeryFRwxm6ApQ6ncz) | 3:32 |
 | 16 | [Desire](https://open.spotify.com/track/3xnBJVytupb5FhfOHwjwER) | [Somethink](https://open.spotify.com/artist/7L8UCXrauhPxujACcmrExI), [Sara Dennaz](https://open.spotify.com/artist/7EWf5ShQantyDNV3dYtTst) | [Desire](https://open.spotify.com/album/1BssOlfQL1Mc4BKMzmRXDG) | 2:44 |
 | 17 | [Essential](https://open.spotify.com/track/5jtEduKSyyJXEE6IbZFLJR) | [quicksand bed](https://open.spotify.com/artist/5PHCGqnqL1dzGEud0XL2ym) | [Essential](https://open.spotify.com/album/6WdkSCs0MlShCNo8FQTNC0) | 3:06 |
-| 18 | [Coffee's on Me](https://open.spotify.com/track/3P2bJaakq9DyvGCco9Ddhx) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Coffee's on Me](https://open.spotify.com/album/0dFsQp0ZUhABhxJX0eeBeD) | 3:43 |
+| 18 | [Coffee's on Me](https://open.spotify.com/track/3t4mslZa0wJYrj2UjlsyPX) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/2iuPnIdqfKsze3urSvl7XZ) | [Coffee's on Me](https://open.spotify.com/album/4BE9UzrvSYUrtwj3pIoczL) | 3:43 |
 | 19 | [เพื่อนไม่จริง](https://open.spotify.com/track/05WHgjtWx32x40VmFkLnOd) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [80 Kisses](https://open.spotify.com/album/4z8dyovQ2XGFESeEeRam95) | 4:34 |
 | 20 | [Lover Boy](https://open.spotify.com/track/2rd4FH1cSaWGc0ZiUaMbX9) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Lover Boy](https://open.spotify.com/album/6q6pANmFQbMk7KzlzNeBep) | 3:56 |
 | 21 | [Mejikuhibiniu](https://open.spotify.com/track/0wBdb4pmz0hyyI0M6ilZTy) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv), [Laze](https://open.spotify.com/artist/1IqTdUbQ33vM6tbV1fiWKZ) | [Mejikuhibiniu](https://open.spotify.com/album/5ErP3mluV25TH2ncKKcWM4) | 3:46 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 | 36 | [Terbanglah Lepas](https://open.spotify.com/track/0mLvVZ14uhcPI7dbOJ69Un) | [Aya Anjani](https://open.spotify.com/artist/3nslXNEDlUex5fcETXA5Lf), [Parlemen Pop](https://open.spotify.com/artist/4GPfmTXPBtz1eIdrdNOB3e) | [Lagu Baru Dari Masa Lalu, Vol\. 1](https://open.spotify.com/album/5b2swSWZfAc8EZ5v0VTzSi) | 4:53 |
 | 37 | [Baby I'm Good \(Wake\-Up Tune\)](https://open.spotify.com/track/0Dhd8t73mR5sqwDOO21ag2) | [Kim Chi Sun](https://open.spotify.com/artist/6R5x0FCE48rOtZjazPbRyh) | [Still Good](https://open.spotify.com/album/4qBbqh8QtYLOHyRbpQ2nZx) | 4:18 |
 | 38 | [Password](https://open.spotify.com/track/3Th1HFNWilrRJyIvjBxNj5) | [Fever](https://open.spotify.com/artist/78emMqMZWaWiYUGSlXwIxw) | [Password](https://open.spotify.com/album/4rgVJF3Omwi23EJ0Nvc8ec) | 3:59 |
-| 39 | [Summum Bonum](https://open.spotify.com/track/1i0GPOOiWudGbWlApdADbp) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Cassa Nova](https://open.spotify.com/album/7qDgQiJVHJwOiFtYCBYIxn) | 4:41 |
+| 39 | [Summum Bonum](https://open.spotify.com/track/1QYoKJcQyYDlXXrNRJMk6q) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/2iuPnIdqfKsze3urSvl7XZ) | [Cassa Nova](https://open.spotify.com/album/5o6i6YQEXWa8oNy38aHrrI) | 4:41 |
 | 40 | [With The Star](https://open.spotify.com/track/5v7RICydLLBV5AKoCRmfrG) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [East Shore](https://open.spotify.com/album/3haGGKVIiuJ8wlJBriAhPP) | 3:32 |
 | 41 | [不標準情人](https://open.spotify.com/track/5TlQjk6LfvsGbnNOR555va) | [Freckle](https://open.spotify.com/artist/0LWVgqTRkGQkN6Txprc6LF), [Leo王](https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP) | [不標準情人](https://open.spotify.com/album/5ue5bCo48QRPUOi7y8Egj1) | 4:35 |
 | 42 | [Hunky Dory](https://open.spotify.com/track/79s8CsG6AxcfPxyLVvlFqf) | [Ray Viera Laxmana](https://open.spotify.com/artist/4d71lT61WEn2SsjEgeSbBf), [Monsdim](https://open.spotify.com/artist/4TSyT8NNuZfgzHVAfsnkQv) | [The Noir Scene and The White Sheep Before I Sleep](https://open.spotify.com/album/551bI1L2hl1saZBLyALX0t) | 4:09 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 | 69 | [Ultra Venus](https://open.spotify.com/track/0QhWeC7nAvAOyKNA279gRT) | [Disco Hue](https://open.spotify.com/artist/6k0tAEcYn1sa2M3EZhlEfw) | [The Yearbook](https://open.spotify.com/album/6Zqb6O4wNqSwUe6uR6Bdpo) | 3:20 |
 | 70 | [The One](https://open.spotify.com/track/3ToRoy9OQHoiz662kJvTTu) | [Purples n' Oranges](https://open.spotify.com/artist/2TmqQRA5s51zD2C4zbiqPq) | [The One](https://open.spotify.com/album/1mHIev96eFTEdby7dAoT67) | 5:18 |
 
-Snapshot ID: `MCxlODQ5MjcxMDNiNjE1OGJjNWIxNzU5YjhiYzRhY2E1ZDk1NjNmNjgw`
+Snapshot ID: `MCw3OThjNTZmMDNkNDZlYmNmY2Q3NTU3OWE0NjFmMDZjYzA2ZDMxMTY0`

@@ -1,12 +1,12 @@
 {
   "description": "Feel good, high energy beats to keep you motivated for that every day workout!",
-  "num_followers": 87557,
+  "num_followers": 87614,
   "original_name": "Gym Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDQ1NzA3YzA2OGJmMTkxNTYwOGM1MDM0MWMyMzg1OWU4MjkxMDNj",
+  "snapshot_id": "MCw2NjRlOTYzMzBhNjNkM2ZkYjI5MDVhZTk2MjY5OTIwNjY0OGQ4ZDY3",
   "tracks": [
     {
       "added_at": "2023-04-13 21:59:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-04-13 21:59:00",
       "album": {
+        "name": "Don't Give Up",
+        "url": "https://open.spotify.com/album/2XZMNStMl0nxjQ3LYdNboK"
+      },
+      "artists": [
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "duration_ms": 166856,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/7AGMaD98w28eaNh2639jD2"
+    },
+    {
+      "added_at": "2023-04-13 21:59:00",
+      "album": {
         "name": "All Around The World (La La La)",
         "url": "https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 186124,
       "name": "My Humps",
       "url": "https://open.spotify.com/track/3BbD2sqk7P7Rc9V0KF9o4s"
-    },
-    {
-      "added_at": "2023-04-13 21:59:00",
-      "album": {
-        "name": "Don't Give Up",
-        "url": "https://open.spotify.com/album/2XZMNStMl0nxjQ3LYdNboK"
-      },
-      "artists": [
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        }
-      ],
-      "duration_ms": 166856,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/7AGMaD98w28eaNh2639jD2"
     },
     {
       "added_at": "2023-04-13 21:59:00",
@@ -887,26 +887,6 @@
     {
       "added_at": "2023-04-13 21:59:00",
       "album": {
-        "name": "The Wave",
-        "url": "https://open.spotify.com/album/51xuEhCDa3SJsvBIWvII8a"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
-        }
-      ],
-      "duration_ms": 160183,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/0LRYbMHrBXkXNUBhRkENT1"
-    },
-    {
-      "added_at": "2023-04-13 21:59:00",
-      "album": {
         "name": "The Call",
         "url": "https://open.spotify.com/album/5cjMwrHxN5kcvVTVfBntNV"
       },
@@ -955,6 +935,26 @@
     {
       "added_at": "2023-04-13 21:59:00",
       "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/2dvtRAMQN6ERCoQVrV8xtO"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        }
+      ],
+      "duration_ms": 185620,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/0tgbSxoFjZ20MjfoKwWevV"
+    },
+    {
+      "added_at": "2023-04-13 21:59:00",
+      "album": {
         "name": "I Could Be The One [Avicii vs Nicky Romero]",
         "url": "https://open.spotify.com/album/292ltz2MxXuFZw9FaEbaZ3"
       },
@@ -975,22 +975,22 @@
     {
       "added_at": "2023-04-13 21:59:00",
       "album": {
-        "name": "Your Love",
-        "url": "https://open.spotify.com/album/2dvtRAMQN6ERCoQVrV8xtO"
+        "name": "The Wave",
+        "url": "https://open.spotify.com/album/51xuEhCDa3SJsvBIWvII8a"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         },
         {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
         }
       ],
-      "duration_ms": 185620,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/0tgbSxoFjZ20MjfoKwWevV"
+      "duration_ms": 160183,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/0LRYbMHrBXkXNUBhRkENT1"
     },
     {
       "added_at": "2023-04-13 21:59:00",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2023-04-13 21:59:00",
       "album": {
-        "name": "Born To Love (feat. SHELLS)",
-        "url": "https://open.spotify.com/album/4r4MtHl8F0NkkSA0kObrEm"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "SHELLS",
-          "url": "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
-        }
-      ],
-      "duration_ms": 162295,
-      "name": "Born To Love (feat. SHELLS)",
-      "url": "https://open.spotify.com/track/7cX5H82DTZ5iHRLbewBEBd"
-    },
-    {
-      "added_at": "2023-04-13 21:59:00",
-      "album": {
         "name": "Osama",
         "url": "https://open.spotify.com/album/08FzfT91jguU5Odn4bHc7T"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 409180,
       "name": "Osama",
       "url": "https://open.spotify.com/track/1YPkBfrRCpvBrwJU66LQWq"
+    },
+    {
+      "added_at": "2023-04-13 21:59:00",
+      "album": {
+        "name": "Born To Love (feat. SHELLS)",
+        "url": "https://open.spotify.com/album/4r4MtHl8F0NkkSA0kObrEm"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "SHELLS",
+          "url": "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
+        }
+      ],
+      "duration_ms": 162295,
+      "name": "Born To Love (feat. SHELLS)",
+      "url": "https://open.spotify.com/track/7cX5H82DTZ5iHRLbewBEBd"
     },
     {
       "added_at": "2023-04-13 21:59:00",
@@ -1155,22 +1155,22 @@
     {
       "added_at": "2023-04-13 21:59:00",
       "album": {
-        "name": "Intoxicated (Radio Edit)",
-        "url": "https://open.spotify.com/album/0vI4F2iMd1CM9Jw9WQuJyN"
+        "name": "Jerusalema (feat. Burna Boy & Nomcebo Zikode) [Remix]",
+        "url": "https://open.spotify.com/album/1HBjNCWaJ2SzolwRxedA9z"
       },
       "artists": [
         {
-          "name": "Martin Solveig",
-          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
         },
         {
-          "name": "Good Times Ahead",
-          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+          "name": "Nomcebo Zikode",
+          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
         }
       ],
-      "duration_ms": 159560,
-      "name": "Intoxicated - Radio Edit",
-      "url": "https://open.spotify.com/track/0dbQ4h3cs8QE5fOPMYdDrX"
+      "duration_ms": 188986,
+      "name": "Jerusalema (feat. Nomcebo Zikode) - Edit",
+      "url": "https://open.spotify.com/track/2R7gA9dAHTjASKU0wiTJok"
     }
   ],
   "unique_name": "Gym Beats",

@@ -1288,6 +1288,24 @@
     {
       "album": {
         "name": "Demolition Row",
+        "url": "https://open.spotify.com/album/1gVt5YHXoBNEXCUzgkJDlk"
+      },
+      "artists": [
+        {
+          "name": "Metz",
+          "url": "https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258250,
+      "name": "Demolition Row",
+      "url": "https://open.spotify.com/track/2bOTDi5fEHrr14bYIDUbwV"
+    },
+    {
+      "album": {
+        "name": "Demolition Row",
         "url": "https://open.spotify.com/album/14z5OMX99l2AO8ydNmIcdp"
       },
       "artists": [
@@ -1298,7 +1316,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 258250,
       "name": "Demolition Row",
       "url": "https://open.spotify.com/track/4WZqRGx9Wer0kkqxOBpYLU"
@@ -3769,6 +3787,24 @@
     },
     {
       "album": {
+        "name": "Bright Green Field",
+        "url": "https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt"
+      },
+      "artists": [
+        {
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375626,
+      "name": "Paddling",
+      "url": "https://open.spotify.com/track/7FXWKJGKhGrsaiYdMbWJdj"
+    },
+    {
+      "album": {
         "name": "Beyondless",
         "url": "https://open.spotify.com/album/5H8wFFblf7YvGc7LbBzuR9"
       },
@@ -4180,7 +4216,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 223000,
       "name": "Rhythm Is Our Business - Edit",
       "url": "https://open.spotify.com/track/0nSKPt85T4Y3PFKe9U1AoJ"

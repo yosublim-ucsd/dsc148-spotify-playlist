@@ -826,7 +826,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 312000,
       "name": "Little Lady Blues",
       "url": "https://open.spotify.com/track/15Zws6dwefFYdx9yiqOlo3"
@@ -848,6 +848,24 @@
       "duration_ms": 312000,
       "name": "Little Lady Blues",
       "url": "https://open.spotify.com/track/1LfGP4l3u94cu57cR4khzq"
+    },
+    {
+      "album": {
+        "name": "Orange County Serenade",
+        "url": "https://open.spotify.com/album/5fPjBAFjqX4Cf0XAPhGVcf"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "Little Lady Blues",
+      "url": "https://open.spotify.com/track/7p8OHFQhzWLZgrXQmowSqN"
     },
     {
       "album": {

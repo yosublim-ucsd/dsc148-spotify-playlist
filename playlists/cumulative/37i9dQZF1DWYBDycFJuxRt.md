@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: Mrs\. GREEN APPLE \*👉 <a href="https://spice.eplus.jp/articles/317605?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-1,199 songs - 3 day 0 hr 51 min
+1,200 songs - 3 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1006,6 +1006,7 @@
 | [会いたいな今夜](https://open.spotify.com/track/6Io2AXv4aURp1d4LHQy6Fh) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [会いたいな今夜](https://open.spotify.com/album/4tNubXrDpUHt5mM9cMybqR) | 2:57 | 2023-02-14 | 2023-02-16 |
 | [伝えたかったこと](https://open.spotify.com/track/5aKT0Vv8NPMdGrSxRTyYDD) | [yourness](https://open.spotify.com/artist/1u1NJZJgYCF6BVsjSYf2BM) | [伝えたかったこと](https://open.spotify.com/album/3MnWqyG29fPbeOy0jUkVjz) | 3:44 | 2023-03-14 | 2023-03-22 |
 | [低空](https://open.spotify.com/track/6WVmWMn8ZknjbA70Xr93wc) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [低空](https://open.spotify.com/album/5069TeKV6SsMxz4PQW9GEp) | 3:54 | 2023-03-21 | 2023-03-29 |
+| [修羅の巷](https://open.spotify.com/track/5wnmQXqaj5JOOHN4xGUJRy) | [KAMI WA SAIKORO WO FURANAI](https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA) | [修羅の巷](https://open.spotify.com/album/4uG1jBH6NEIvVur6Ioajsz) | 3:31 | 2023-04-26 |  |
 | [僕らの純情](https://open.spotify.com/track/0fvF0nkcnCpyi80PpVn2Fq) | [髙橋多聞](https://open.spotify.com/artist/71GnUG4fPTeVn1h7PwUbNs) | [僕らの純情](https://open.spotify.com/album/32SnAdmGCALw68HG00Gg5F) | 4:00 | 2023-04-25 |  |
 | [光](https://open.spotify.com/track/38P5lOBarhSS0vGmzk4tww) | [Ochunism](https://open.spotify.com/artist/3w5Y9qujoqMYzjk6aIgpnS) | [光](https://open.spotify.com/album/3A1KCEPwpT1f3wdDJe25d0) | 4:07 | 2023-02-28 | 2023-03-08 |
 | [光](https://open.spotify.com/track/7yuYVEQlfmZwI025JosmJx) | [TRI4TH](https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia), [TOSHI\-LOW](https://open.spotify.com/artist/0dqiMqznI1h0vFn1j4jwfz) | [光](https://open.spotify.com/album/5Vxac0LhubZos7i7672DSA) | 3:08 | 2023-01-31 | 2023-02-08 |

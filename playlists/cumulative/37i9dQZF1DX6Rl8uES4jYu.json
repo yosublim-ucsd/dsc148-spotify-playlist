@@ -1830,10 +1830,28 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 180053,
       "name": "Don't Trip",
       "url": "https://open.spotify.com/track/42HWBRIGDyswiKXJB3O9PP"
+    },
+    {
+      "album": {
+        "name": "Don't Trip",
+        "url": "https://open.spotify.com/album/2TLJYbqaz0kygsMTDXn3et"
+      },
+      "artists": [
+        {
+          "name": "Aquakultre",
+          "url": "https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180053,
+      "name": "Don't Trip",
+      "url": "https://open.spotify.com/track/5mJpenSgvHOjfnK1Z4fc1p"
     },
     {
       "album": {
@@ -3516,6 +3534,24 @@
     {
       "album": {
         "name": "Cruiserweight",
+        "url": "https://open.spotify.com/album/1onqdmFxHDk2sMBhYATWX3"
+      },
+      "artists": [
+        {
+          "name": "The Jack Moves",
+          "url": "https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267240,
+      "name": "Lionel Richie",
+      "url": "https://open.spotify.com/track/12NoB9QOi50RHQl6C5xg3F"
+    },
+    {
+      "album": {
+        "name": "Cruiserweight",
         "url": "https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI"
       },
       "artists": [
@@ -3526,7 +3562,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 267240,
       "name": "Lionel Richie",
       "url": "https://open.spotify.com/track/1EfF2gJNuksJeHXLevKoFf"

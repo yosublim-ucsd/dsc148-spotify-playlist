@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Cover: Samara Joy
 
-273 songs - 20 hr 2 min
+274 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Agua de Jamaica](https://open.spotify.com/track/47D5TbuwXksmz6iUhA6Q4u) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [Roberto Verástegui](https://open.spotify.com/artist/0EtZsbcbWVFSeqb6UWL0Wa) | [Agua de Jamaica](https://open.spotify.com/album/1IaFBwOJ5c8r25XO4W0SmS) | 6:17 | 2022-04-14 | 2022-05-20 |
 | [Ahan](https://open.spotify.com/track/2g1PzerypMGvjcR518ZGNv) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Queen of Sheba](https://open.spotify.com/album/0HRNVgQeS6Ue3R1MwLdBQB) | 4:04 | 2022-06-23 | 2022-08-19 |
 | [An Ode](https://open.spotify.com/track/59C1gt0M1tvtwFdJR0tzX1) | [Emile Londonien](https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7) | [An Ode](https://open.spotify.com/album/4BEVT3SXNmALzwZOAONfby) | 5:01 | 2022-11-10 | 2023-02-10 |
-| [Apho](https://open.spotify.com/track/4PShi8ZHJXoax9jqzSiMa2) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Apho](https://open.spotify.com/album/3W9XyDsJb5XDmF2iIFsjMx) | 2:58 | 2023-03-30 |  |
+| [Apho](https://open.spotify.com/track/4PShi8ZHJXoax9jqzSiMa2) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Apho](https://open.spotify.com/album/3W9XyDsJb5XDmF2iIFsjMx) | 2:58 | 2023-03-30 | 2023-04-30 |
+| [Apho](https://open.spotify.com/track/6EMP27Iax2P3LrfFggIt1c) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Variables](https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6) | 2:58 | 2023-04-27 |  |
 | [around the world](https://open.spotify.com/track/6aRIwsMliE5WFAzrub4zX7) | [JaRon Marshall](https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8) | [earth sounds](https://open.spotify.com/album/3waYOXzSiDX8CnwOSkZVWT) | 2:30 | 2023-03-16 | 2023-04-01 |
 | [around the world](https://open.spotify.com/track/70WBAN9os6FvYtDgJroIGU) | [JaRon Marshall](https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8) | [around the world](https://open.spotify.com/album/5eL2i5al18gKUYP5NQmRZu) | 2:30 | 2023-03-30 | 2023-04-14 |
 | [Asta](https://open.spotify.com/track/7Bd5QBn1WRxcDXXzCS1DSB) | [André Ceccarelli](https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K), [Sylvain Beuf](https://open.spotify.com/artist/0T3LDHnKTHrfICsXP6bzZz), [Thomas Bramerie](https://open.spotify.com/artist/0wDzOYze3ix7yh8brXMZBq), [Antonio Faraò](https://open.spotify.com/artist/2rYbcK0bCQ3jLFfd2zr9sI) | [ASTA 2](https://open.spotify.com/album/54ew3n9npGAcqI9GtBBTpo) | 5:09 | 2023-03-02 | 2023-04-28 |

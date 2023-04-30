@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: VICTIN",
-  "num_followers": 114622,
+  "num_followers": 114818,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjliYmI5ODVmYWQ4ODM4Yzg2NGI5ODQ2ZWRhYTZlZTAwZThiNDU1",
+  "snapshot_id": "MCxlMDBhMzYyZWQ4YzhhOTM2ODQ5Y2RkMjljNmZiY2EwMWU3MjZkN2Y3",
   "tracks": [
     {
       "added_at": "2023-04-28 19:10:48",
@@ -707,8 +707,8 @@
     {
       "added_at": "2023-04-28 19:10:48",
       "album": {
-        "name": "Teste",
-        "url": "https://open.spotify.com/album/3WywysC8VS5EfAnv8jTFoi"
+        "name": "Nome Sobre Todo Nome",
+        "url": "https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
         }
       ],
-      "duration_ms": 192065,
-      "name": "Teste",
-      "url": "https://open.spotify.com/track/5kPf9ZCxLt92DykkiXeTkc"
+      "duration_ms": 133624,
+      "name": "Nome Sobre Todo Nome",
+      "url": "https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc"
     },
     {
       "added_at": "2023-04-28 19:10:48",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-04-28 19:10:48",
       "album": {
-        "name": "Voc\u00ea Acredita?",
-        "url": "https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa"
-      },
-      "artists": [
-        {
-          "name": "Clovis",
-          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
-        }
-      ],
-      "duration_ms": 194623,
-      "name": "Voc\u00ea Acredita?",
-      "url": "https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb"
-    },
-    {
-      "added_at": "2023-04-28 19:10:48",
-      "album": {
         "name": "Paracetamol (Divisa de Fogo)",
         "url": "https://open.spotify.com/album/0xgEt4c2aFETYetdlnhLRh"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 161701,
       "name": "Paracetamol (Divisa de Fogo)",
       "url": "https://open.spotify.com/track/1nFbOSGxJ0d2fpjNv4nnSJ"
+    },
+    {
+      "added_at": "2023-04-28 19:10:48",
+      "album": {
+        "name": "Voc\u00ea Acredita?",
+        "url": "https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa"
+      },
+      "artists": [
+        {
+          "name": "Clovis",
+          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
+        }
+      ],
+      "duration_ms": 194623,
+      "name": "Voc\u00ea Acredita?",
+      "url": "https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb"
     },
     {
       "added_at": "2023-04-28 19:10:48",
@@ -807,8 +807,8 @@
     {
       "added_at": "2023-04-28 19:10:48",
       "album": {
-        "name": "Nome Sobre Todo Nome",
-        "url": "https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj"
+        "name": "Teste",
+        "url": "https://open.spotify.com/album/3WywysC8VS5EfAnv8jTFoi"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
         }
       ],
-      "duration_ms": 133624,
-      "name": "Nome Sobre Todo Nome",
-      "url": "https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc"
+      "duration_ms": 192065,
+      "name": "Teste",
+      "url": "https://open.spotify.com/track/5kPf9ZCxLt92DykkiXeTkc"
     },
     {
       "added_at": "2023-04-28 19:10:48",
@@ -975,18 +975,26 @@
     {
       "added_at": "2023-04-28 19:10:48",
       "album": {
-        "name": "Vale da Sombra",
-        "url": "https://open.spotify.com/album/7B4NtDX14mrfDXvWVJ3TXF"
+        "name": "Fogo",
+        "url": "https://open.spotify.com/album/2Ao3qzY48CWjfjcd8vOhsx"
       },
       "artists": [
         {
           "name": "shiso",
           "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        },
+        {
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Vale da Sombra",
-      "url": "https://open.spotify.com/track/53fJ4qNUOSLqhNedzp2lxJ"
+      "duration_ms": 129729,
+      "name": "Fogo",
+      "url": "https://open.spotify.com/track/0FwaOYhIwuxTWcXytcwMnn"
     },
     {
       "added_at": "2023-04-28 19:10:48",
@@ -1159,8 +1167,8 @@
     {
       "added_at": "2023-04-28 19:10:48",
       "album": {
-        "name": "Notas de um Cora\u00e7\u00e3o Amado",
-        "url": "https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6"
+        "name": "Vale da Sombra",
+        "url": "https://open.spotify.com/album/7B4NtDX14mrfDXvWVJ3TXF"
       },
       "artists": [
         {
@@ -1168,9 +1176,9 @@
           "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
         }
       ],
-      "duration_ms": 133653,
-      "name": "Al\u00e9m",
-      "url": "https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC"
+      "duration_ms": 192000,
+      "name": "Vale da Sombra",
+      "url": "https://open.spotify.com/track/53fJ4qNUOSLqhNedzp2lxJ"
     },
     {
       "added_at": "2023-04-28 19:10:48",
@@ -1255,30 +1263,18 @@
     {
       "added_at": "2023-04-28 19:10:48",
       "album": {
-        "name": "Acende a Chama",
-        "url": "https://open.spotify.com/album/1rVO7WyorLAjc2bpKTQoo3"
+        "name": "Morada de Deus",
+        "url": "https://open.spotify.com/album/4TfiTRoOANsqNl8LdjWrpJ"
       },
       "artists": [
         {
-          "name": "ADS Escobar",
-          "url": "https://open.spotify.com/artist/7FNCsLplFNTiKLvnAP3WsP"
-        },
-        {
-          "name": "Mc z\u00e9 santos",
-          "url": "https://open.spotify.com/artist/5LScvXl3l9J4a0kivqPMPx"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "C. Braga",
-          "url": "https://open.spotify.com/artist/5vatyKN28NkojtJkfg9fTp"
+          "name": "Israel Rapper",
+          "url": "https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX"
         }
       ],
-      "duration_ms": 226720,
-      "name": "Acende a Chama",
-      "url": "https://open.spotify.com/track/4irUbAh6C0Fr4BEhcrIajp"
+      "duration_ms": 223134,
+      "name": "Morada de Deus",
+      "url": "https://open.spotify.com/track/14LYGtg9GRl16qB0EILfFB"
     },
     {
       "added_at": "2023-04-28 19:10:48",
@@ -1343,22 +1339,6 @@
     {
       "added_at": "2023-04-28 19:10:48",
       "album": {
-        "name": "Fluindo no Esp\u00edrito",
-        "url": "https://open.spotify.com/album/1yqUIiSUAsVnDgxsePDGRE"
-      },
-      "artists": [
-        {
-          "name": "MJ",
-          "url": "https://open.spotify.com/artist/6u4UNi50tvp4DYnzcIiD1V"
-        }
-      ],
-      "duration_ms": 196750,
-      "name": "Fluindo no Esp\u00edrito",
-      "url": "https://open.spotify.com/track/5RKMtFEbNtEn2wk6VssqP7"
-    },
-    {
-      "added_at": "2023-04-28 19:10:48",
-      "album": {
         "name": "Sou Campe\u00e3o",
         "url": "https://open.spotify.com/album/4Xq8bMzZWsfRljwA9MCXOq"
       },
@@ -1375,18 +1355,46 @@
     {
       "added_at": "2023-04-28 19:10:48",
       "album": {
-        "name": "Morada de Deus",
-        "url": "https://open.spotify.com/album/4TfiTRoOANsqNl8LdjWrpJ"
+        "name": "Fluindo no Esp\u00edrito",
+        "url": "https://open.spotify.com/album/1yqUIiSUAsVnDgxsePDGRE"
       },
       "artists": [
         {
-          "name": "Israel Rapper",
-          "url": "https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX"
+          "name": "MJ",
+          "url": "https://open.spotify.com/artist/6u4UNi50tvp4DYnzcIiD1V"
         }
       ],
-      "duration_ms": 223134,
-      "name": "Morada de Deus",
-      "url": "https://open.spotify.com/track/14LYGtg9GRl16qB0EILfFB"
+      "duration_ms": 196750,
+      "name": "Fluindo no Esp\u00edrito",
+      "url": "https://open.spotify.com/track/5RKMtFEbNtEn2wk6VssqP7"
+    },
+    {
+      "added_at": "2023-04-28 19:10:48",
+      "album": {
+        "name": "Acende a Chama",
+        "url": "https://open.spotify.com/album/1rVO7WyorLAjc2bpKTQoo3"
+      },
+      "artists": [
+        {
+          "name": "ADS Escobar",
+          "url": "https://open.spotify.com/artist/7FNCsLplFNTiKLvnAP3WsP"
+        },
+        {
+          "name": "Mc z\u00e9 santos",
+          "url": "https://open.spotify.com/artist/5LScvXl3l9J4a0kivqPMPx"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "C. Braga",
+          "url": "https://open.spotify.com/artist/5vatyKN28NkojtJkfg9fTp"
+        }
+      ],
+      "duration_ms": 226720,
+      "name": "Acende a Chama",
+      "url": "https://open.spotify.com/track/4irUbAh6C0Fr4BEhcrIajp"
     },
     {
       "added_at": "2023-04-28 19:10:48",
@@ -1447,26 +1455,18 @@
     {
       "added_at": "2023-04-28 19:10:48",
       "album": {
-        "name": "Fogo",
-        "url": "https://open.spotify.com/album/2Ao3qzY48CWjfjcd8vOhsx"
+        "name": "Notas de um Cora\u00e7\u00e3o Amado",
+        "url": "https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6"
       },
       "artists": [
         {
           "name": "shiso",
           "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        },
-        {
-          "name": "2metro",
-          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
-      "duration_ms": 129729,
-      "name": "Fogo",
-      "url": "https://open.spotify.com/track/0FwaOYhIwuxTWcXytcwMnn"
+      "duration_ms": 133653,
+      "name": "Al\u00e9m",
+      "url": "https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC"
     },
     {
       "added_at": "2023-04-28 19:10:48",

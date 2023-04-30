@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 39362,
+  "num_followers": 39414,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGU2OWM2NGRmZjVhZDNiMWZhZWE4NzFiMDUyZmVjZWNkZTMwMDE4",
+  "snapshot_id": "MCwyOGIyMmIyMDAxMjllNjgxMjVlMjVmY2ZkNjk5MjdjMDliZGVmY2E2",
   "tracks": [
     {
       "added_at": "2023-04-21 10:26:47",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "I Am The Blues",
-        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 255226,
-      "name": "You Shook Me",
-      "url": "https://open.spotify.com/track/1xns0tyPRpOrODwND6ELTF"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "Done Come Too Far",
         "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 259733,
       "name": "Nobody But You",
       "url": "https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "I Am The Blues",
+        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
+      },
+      "artists": [
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        }
+      ],
+      "duration_ms": 255226,
+      "name": "You Shook Me",
+      "url": "https://open.spotify.com/track/1xns0tyPRpOrODwND6ELTF"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "Muddy Waters Sings Big Bill Broonzy",
-        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 183120,
-      "name": "Lonesome Road Blues",
-      "url": "https://open.spotify.com/track/1lp1zm1MSYzwt3vAPhdIMQ"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "Wish Someone Would Care",
         "url": "https://open.spotify.com/album/2nnXcAt9Yke9sHwKtfcJlY"
       },
@@ -767,18 +751,18 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "Waiting For The Dawn",
-        "url": "https://open.spotify.com/album/626cTYK4x3ljzZQ26ltoZV"
+        "name": "Muddy Waters Sings Big Bill Broonzy",
+        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
       },
       "artists": [
         {
-          "name": "Walter Trout",
-          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 350520,
-      "name": "Waiting For The Dawn",
-      "url": "https://open.spotify.com/track/2lCf21uJsB7RsUVDXnq2lN"
+      "duration_ms": 183120,
+      "name": "Lonesome Road Blues",
+      "url": "https://open.spotify.com/track/1lp1zm1MSYzwt3vAPhdIMQ"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -795,6 +779,22 @@
       "duration_ms": 301440,
       "name": "I Got News For You",
       "url": "https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "Waiting For The Dawn",
+        "url": "https://open.spotify.com/album/626cTYK4x3ljzZQ26ltoZV"
+      },
+      "artists": [
+        {
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+        }
+      ],
+      "duration_ms": 350520,
+      "name": "Waiting For The Dawn",
+      "url": "https://open.spotify.com/track/2lCf21uJsB7RsUVDXnq2lN"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
+        "name": "Give It Up (2008 Remaster)",
+        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "If You Gotta Make a Fool of Somebody - 2008 Remaster",
+      "url": "https://open.spotify.com/track/4q12WodyPQA9fRFOPKZfVx"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
         "name": "Straight from the Heart",
         "url": "https://open.spotify.com/album/2owcIwahZSfIqs5v4i86dQ"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 375946,
       "name": "I Walk Alone",
       "url": "https://open.spotify.com/track/350WfWVJnoUixMboTKUPpS"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
-        "name": "Give It Up (2008 Remaster)",
-        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "If You Gotta Make a Fool of Somebody - 2008 Remaster",
-      "url": "https://open.spotify.com/track/4q12WodyPQA9fRFOPKZfVx"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "Memphis Moonlight",
-        "url": "https://open.spotify.com/album/190SoOYPW7oceXrstDTvp8"
+        "name": "Best Of The Vanguard Years",
+        "url": "https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3"
       },
       "artists": [
         {
-          "name": "Deb Ryder",
-          "url": "https://open.spotify.com/artist/6dc6gOm9RKiBTEpUGe1NZ3"
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
         }
       ],
-      "duration_ms": 288856,
-      "name": "Love Is Gone",
-      "url": "https://open.spotify.com/track/72H7XGrB55Uh7IOxlPD6u6"
+      "duration_ms": 319960,
+      "name": "No More Lonely Nights",
+      "url": "https://open.spotify.com/track/2JrOFXxwVO0duMSxfhwUXN"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -1079,22 +1079,6 @@
       "duration_ms": 275973,
       "name": "Drown in My Own Tears",
       "url": "https://open.spotify.com/track/2tLoJCMsOSnXxXjcUST3uO"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
-        "name": "Best Of The Vanguard Years",
-        "url": "https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3"
-      },
-      "artists": [
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 319960,
-      "name": "No More Lonely Nights",
-      "url": "https://open.spotify.com/track/2JrOFXxwVO0duMSxfhwUXN"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -1199,22 +1183,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "What do You Feel?",
-        "url": "https://open.spotify.com/album/1qXLUwieqcu4HQ9NTVSBQm"
-      },
-      "artists": [
-        {
-          "name": "Renato Genestra",
-          "url": "https://open.spotify.com/artist/3FBOoPApjegYcmKgmULxs4"
-        }
-      ],
-      "duration_ms": 334000,
-      "name": "What do You Feel?",
-      "url": "https://open.spotify.com/track/7sjjPWYA3Y5vGEIBDJ5QVE"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "Brand New",
         "url": "https://open.spotify.com/album/480Y6aRXPJvW5gOroZwl0Q"
       },
@@ -1227,6 +1195,22 @@
       "duration_ms": 419306,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/5uMZAYwFl42JqJEesZ4aDP"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "What do You Feel?",
+        "url": "https://open.spotify.com/album/1qXLUwieqcu4HQ9NTVSBQm"
+      },
+      "artists": [
+        {
+          "name": "Renato Genestra",
+          "url": "https://open.spotify.com/artist/3FBOoPApjegYcmKgmULxs4"
+        }
+      ],
+      "duration_ms": 334000,
+      "name": "What do You Feel?",
+      "url": "https://open.spotify.com/track/7sjjPWYA3Y5vGEIBDJ5QVE"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -1399,22 +1383,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "Driving Wheel",
-        "url": "https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP"
-      },
-      "artists": [
-        {
-          "name": "Little Junior Parker",
-          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
-        }
-      ],
-      "duration_ms": 134573,
-      "name": "Someone Broke This Heart Of Mine",
-      "url": "https://open.spotify.com/track/1TX9nidaWJmR3KyHxrSz8h"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "Love & Gravity",
         "url": "https://open.spotify.com/album/69yCg5lBESdddDIGkmovLB"
       },
@@ -1427,6 +1395,22 @@
       "duration_ms": 228746,
       "name": "Love & Gravity",
       "url": "https://open.spotify.com/track/5YU3qtXOLff4lm01iLplgR"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "Driving Wheel",
+        "url": "https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP"
+      },
+      "artists": [
+        {
+          "name": "Little Junior Parker",
+          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
+        }
+      ],
+      "duration_ms": 134573,
+      "name": "Someone Broke This Heart Of Mine",
+      "url": "https://open.spotify.com/track/1TX9nidaWJmR3KyHxrSz8h"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -1447,22 +1431,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "Motel Mississippi",
-        "url": "https://open.spotify.com/album/3DKmYrQ64bb7NNJd6rZHKx"
-      },
-      "artists": [
-        {
-          "name": "Tony Holiday",
-          "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
-        }
-      ],
-      "duration_ms": 251853,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/7M5GPKEGz1xURn79mqyc34"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "Roll and Tumble",
         "url": "https://open.spotify.com/album/7riyFPxbaqIj4h2x9jNzTW"
       },
@@ -1479,6 +1447,22 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
+        "name": "Motel Mississippi",
+        "url": "https://open.spotify.com/album/3DKmYrQ64bb7NNJd6rZHKx"
+      },
+      "artists": [
+        {
+          "name": "Tony Holiday",
+          "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
+        }
+      ],
+      "duration_ms": 251853,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/7M5GPKEGz1xURn79mqyc34"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
         "name": "Rare Oldies Jazz: Eddy Boyd",
         "url": "https://open.spotify.com/album/0PfYDFGbbrD8DyPys7g9U6"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 183226,
       "name": "Unfair Lovers",
       "url": "https://open.spotify.com/track/7urvDrLLJGxRCjHrvpfyW4"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "Memphis Moonlight",
+        "url": "https://open.spotify.com/album/590d9qiOtgIds5a3u8UHxP"
+      },
+      "artists": [
+        {
+          "name": "Deb Ryder",
+          "url": "https://open.spotify.com/artist/6dc6gOm9RKiBTEpUGe1NZ3"
+        }
+      ],
+      "duration_ms": 288856,
+      "name": "Love Is Gone",
+      "url": "https://open.spotify.com/track/6mn9a2i93IcbCF9oY8eQPo"
     }
   ],
   "unique_name": "Just Me and the Blues",

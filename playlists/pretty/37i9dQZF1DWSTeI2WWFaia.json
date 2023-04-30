@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Conway The Machine",
-  "num_followers": 1612454,
+  "num_followers": 1612608,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMmJkZDM5ZGJmNDQ3OTFhMDdiMzBhNmZmMzYxOGE4NmU5NmE1MGI5",
+  "snapshot_id": "MCw2N2ZjNmM1MzUzYWZjM2NjMDA5YTE2NmFjNjc0NmQ2MDgzOWY5MjIw",
   "tracks": [
     {
       "added_at": "2023-04-28 04:09:34",
@@ -587,26 +587,6 @@
     {
       "added_at": "2023-04-28 04:09:34",
       "album": {
-        "name": "pg baby (Remix)",
-        "url": "https://open.spotify.com/album/34GpzNXTbGfHWsCJ3vfa0R"
-      },
-      "artists": [
-        {
-          "name": "redveil",
-          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 249675,
-      "name": "pg baby - Remix",
-      "url": "https://open.spotify.com/track/4PHAHCAJJx997egFWiqx0P"
-    },
-    {
-      "added_at": "2023-04-28 04:09:34",
-      "album": {
         "name": "Don't Let The Devil [Feat. thankugoodsir]",
         "url": "https://open.spotify.com/album/60rpMY5zgymbCEn7ICfi8M"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 164894,
       "name": "Don't Let The Devil [Feat. thankugoodsir] - Single Version",
       "url": "https://open.spotify.com/track/2LBwRP4HSUTJiLobjhaaXp"
+    },
+    {
+      "added_at": "2023-04-28 04:09:34",
+      "album": {
+        "name": "pg baby (Remix)",
+        "url": "https://open.spotify.com/album/34GpzNXTbGfHWsCJ3vfa0R"
+      },
+      "artists": [
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 249675,
+      "name": "pg baby - Remix",
+      "url": "https://open.spotify.com/track/4PHAHCAJJx997egFWiqx0P"
     },
     {
       "added_at": "2023-04-28 04:09:34",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-04-28 04:09:34",
       "album": {
-        "name": "Live At The Novo",
-        "url": "https://open.spotify.com/album/4WHyqGqxCHQRnn56JCYuhg"
-      },
-      "artists": [
-        {
-          "name": "WESTSIDE BOOGIE",
-          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
-        }
-      ],
-      "duration_ms": 83514,
-      "name": "Cold As Love",
-      "url": "https://open.spotify.com/track/41Loud1XZkZgNw4SS2dsTW"
-    },
-    {
-      "added_at": "2023-04-28 04:09:34",
-      "album": {
         "name": "Do Better",
         "url": "https://open.spotify.com/album/4XhdHEPifvpnVUa4S33548"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 231818,
       "name": "Do Better",
       "url": "https://open.spotify.com/track/06kBwptOYkGn1xL5XvtsRT"
+    },
+    {
+      "added_at": "2023-04-28 04:09:34",
+      "album": {
+        "name": "Live At The Novo",
+        "url": "https://open.spotify.com/album/4WHyqGqxCHQRnn56JCYuhg"
+      },
+      "artists": [
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        }
+      ],
+      "duration_ms": 83514,
+      "name": "Cold As Love",
+      "url": "https://open.spotify.com/track/41Loud1XZkZgNw4SS2dsTW"
     },
     {
       "added_at": "2023-04-28 04:09:34",
@@ -823,18 +823,22 @@
     {
       "added_at": "2023-04-28 04:09:34",
       "album": {
-        "name": "Good Wine",
-        "url": "https://open.spotify.com/album/6898YVDudEoCou54LQrbrd"
+        "name": "Hip Hop 50: Vol. 2",
+        "url": "https://open.spotify.com/album/2fMYrpzJCtJNhVTBQybhoz"
       },
       "artists": [
         {
-          "name": "Katori Walker",
-          "url": "https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT"
+          "name": "Swizz Beatz",
+          "url": "https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
         }
       ],
-      "duration_ms": 126114,
-      "name": "Good Wine",
-      "url": "https://open.spotify.com/track/16QxSt81FZSUynjfopa8pv"
+      "duration_ms": 180340,
+      "name": "Runaway (feat. Nas)",
+      "url": "https://open.spotify.com/track/2DiX9oeghV7lv1mxnRnO6L"
     },
     {
       "added_at": "2023-04-28 04:09:34",
@@ -855,6 +859,22 @@
       "duration_ms": 209655,
       "name": "One Life",
       "url": "https://open.spotify.com/track/2rfc0DDTqNwSkLCVzEdVVA"
+    },
+    {
+      "added_at": "2023-04-28 04:09:34",
+      "album": {
+        "name": "Good Wine",
+        "url": "https://open.spotify.com/album/6898YVDudEoCou54LQrbrd"
+      },
+      "artists": [
+        {
+          "name": "Katori Walker",
+          "url": "https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT"
+        }
+      ],
+      "duration_ms": 126114,
+      "name": "Good Wine",
+      "url": "https://open.spotify.com/track/16QxSt81FZSUynjfopa8pv"
     },
     {
       "added_at": "2023-04-28 04:09:34",
@@ -891,26 +911,6 @@
       "duration_ms": 156972,
       "name": "Ghetto Reporter",
       "url": "https://open.spotify.com/track/0qHXyED9mnRk3DnXowUe6Y"
-    },
-    {
-      "added_at": "2023-04-28 04:09:34",
-      "album": {
-        "name": "Hip Hop 50: Vol. 2",
-        "url": "https://open.spotify.com/album/2fMYrpzJCtJNhVTBQybhoz"
-      },
-      "artists": [
-        {
-          "name": "Swizz Beatz",
-          "url": "https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3"
-        },
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 180340,
-      "name": "Runaway (feat. Nas)",
-      "url": "https://open.spotify.com/track/2DiX9oeghV7lv1mxnRnO6L"
     },
     {
       "added_at": "2023-04-28 04:09:34",

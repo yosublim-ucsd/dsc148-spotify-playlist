@@ -4,7 +4,7 @@
 
 > Hello you...Listen to music from and inspired by You, new episodes now streaming on Netflix.
 
-145 songs - 8 hr 43 min
+147 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [Oxford Comma](https://open.spotify.com/track/0ful4PHfTIxzXiZSZsXQ0H) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 3:15 | 2023-02-09 |  |
 | [Paris Tropical](https://open.spotify.com/track/2J3bOjsCkPbriZaKz0H3xp) | [Minuit](https://open.spotify.com/artist/3T5VmqTVAlLU7X0HKfCqY5) | [Vertigo](https://open.spotify.com/album/2ZZiUqmOAdG2odHhT3rmlo) | 3:56 | 2023-02-09 |  |
 | [Pieces](https://open.spotify.com/track/2DHDuADAHoUW6n0z80RLQF) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Black Bear](https://open.spotify.com/album/2Objy4bpKyIT4JsUsBr8ka) | 4:01 | 2023-02-09 |  |
-| [Poison](https://open.spotify.com/track/3j4DTgaccxEbk2Ufht85mv) | [GEMS](https://open.spotify.com/artist/1hjVmBR8STjix0vBUe5YfN) | [Poison](https://open.spotify.com/album/6yxZwTFlfhPH8iZM9uLNHs) | 3:53 | 2023-02-09 |  |
+| [Poison](https://open.spotify.com/track/1wWYZuEVUMmGnEeV3zOCNU) | [GEMS](https://open.spotify.com/artist/1hjVmBR8STjix0vBUe5YfN) | [Poison](https://open.spotify.com/album/1rp9HGUFK68lGGAAoHjAYs) | 3:53 | 2023-03-09 |  |
+| [Poison](https://open.spotify.com/track/3j4DTgaccxEbk2Ufht85mv) | [GEMS](https://open.spotify.com/artist/1hjVmBR8STjix0vBUe5YfN) | [Poison](https://open.spotify.com/album/6yxZwTFlfhPH8iZM9uLNHs) | 3:53 | 2023-02-09 | 2023-04-30 |
 | [Post Break Up Sex](https://open.spotify.com/track/2uG2Wkt1RpgtSHJYrecO5x) | [Sophia Garvey](https://open.spotify.com/artist/5rkh3WoxnQpWm4a4xx4bsC) | [Post Break Up Sex](https://open.spotify.com/album/4yU4oqnPb3Hwc6SVO70I7C) | 3:22 | 2023-03-09 |  |
 | [Poussière](https://open.spotify.com/track/13brJ6PTfrc7TpFvkP8klo) | [Laura Cahen](https://open.spotify.com/artist/7F6KYZeQpL5MqAnMFG8a4F) | [Une Fille](https://open.spotify.com/album/75YRkishZPsS9Rcnhelcyw) | 2:57 | 2023-02-09 |  |
 | [Pretty Good](https://open.spotify.com/track/7vX6GBqt8QvccLPxlTRTOr) | [Greg Scott](https://open.spotify.com/artist/5bBHo5g4F9R3WQoMcw3r80) | [Pretty Good](https://open.spotify.com/album/5198pFYaJkk7QG9pX8Pdcd) | 3:03 | 2023-02-09 |  |
@@ -114,7 +115,8 @@
 | [Remains](https://open.spotify.com/track/1lvhvwnEIyuytoIzktwJ7B) | [Zola Jesus](https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P) | [Okovi](https://open.spotify.com/album/0ObRnroCwS1JQZUMOgQj3X) | 4:26 | 2023-02-09 |  |
 | [Ride or Die](https://open.spotify.com/track/4MDJXM3AxXhd1RWlqTTimu) | [Rituals of Mine](https://open.spotify.com/artist/2diXk6bGS18SxXeoINo8MQ) | [Devoted](https://open.spotify.com/album/219b8zjnAnvtK4jh5CAlKs) | 3:29 | 2023-02-09 |  |
 | [Ride or Die \- Sin Fang Rework](https://open.spotify.com/track/4QdbtDYX1yMM2p4o9zA9NI) | [Rituals of Mine](https://open.spotify.com/artist/2diXk6bGS18SxXeoINo8MQ), [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU) | [Ride or Die \(The Reworks\)](https://open.spotify.com/album/48mdqZxNuA4Vh7gac0P9KL) | 3:23 | 2023-02-09 |  |
-| [Roller](https://open.spotify.com/track/5di8kYa0GOK3wEI0ZECcXL) | [Quilt](https://open.spotify.com/artist/0S4yEUTvpxWhfXux925405) | [Plaza](https://open.spotify.com/album/2jT4DbuDmofOryMYKXIVBS) | 4:14 | 2023-02-09 |  |
+| [Roller](https://open.spotify.com/track/0zFqjimE0Q6wk0OQVGu3rY) | [Quilt](https://open.spotify.com/artist/0S4yEUTvpxWhfXux925405) | [Plaza](https://open.spotify.com/album/0NEF1hzL7820zUVOU7n9Kj) | 4:14 | 2023-03-09 |  |
+| [Roller](https://open.spotify.com/track/5di8kYa0GOK3wEI0ZECcXL) | [Quilt](https://open.spotify.com/artist/0S4yEUTvpxWhfXux925405) | [Plaza](https://open.spotify.com/album/2jT4DbuDmofOryMYKXIVBS) | 4:14 | 2023-02-09 | 2023-04-30 |
 | [Running Around](https://open.spotify.com/track/2XwLv4H0P9sX7POvrOQEdy) | [James Quant](https://open.spotify.com/artist/0n4Bo2cDRYLcbXsbcPZ6Zo) | [Running Around](https://open.spotify.com/album/1V3IBWNLILgcWi1qfnhOk0) | 4:33 | 2023-02-09 |  |
 | [Rush Night \- Hivanova Remix](https://open.spotify.com/track/5Hm8nfjyjAIvAWmy7NlNtq) | [Fischer & Miethig](https://open.spotify.com/artist/6Lg9iGl7GGBFfNNy2KEgtn) | [Rush Night](https://open.spotify.com/album/09CVb6MIJGfuij6NLo5rKH) | 4:43 | 2023-02-09 |  |
 | [Serenity](https://open.spotify.com/track/7MycJ4vrv9k6q2CmTLvvXU) | [Journey to Ix](https://open.spotify.com/artist/4o1i5P3jYqGSU1vjYKzgFL) | [Serenity](https://open.spotify.com/album/1MKlJpM18haT1iRUT7v4gP) | 4:08 | 2023-02-09 |  |

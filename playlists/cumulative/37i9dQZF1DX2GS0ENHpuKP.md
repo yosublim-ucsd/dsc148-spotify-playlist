@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:77J3V0V7sEOf5ifCDBSNaJ">Nu Genea</a>'s favorite tracks\. Updated regularly\. Curated by Nu Genea\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-59 songs - 5 hr 1 min
+61 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [No Nos Pararan](https://open.spotify.com/track/47uSDINq6LvvNdMPvs82WV) | [Charanga 76](https://open.spotify.com/artist/6bB0iS1H2zn09k8kExHknf) | [No Nos Pararan](https://open.spotify.com/album/5cI6VjFpoHnMSnWtOMO7uW) | 9:34 | 2022-07-19 |  |
 | [Now That We Found Love \- 12" Version](https://open.spotify.com/track/3DakouX0AK62dbYE4FhEt2) | [Third World](https://open.spotify.com/artist/6qfKnsgz1CwyqA7lTdieRJ) | [Reggae Ambassadors: 20th Anniversary Collection](https://open.spotify.com/album/3vlkQm8RweDiMawQPfFnkA) | 8:15 | 2022-07-19 |  |
 | [Omoge](https://open.spotify.com/track/3hr1gRMGcKVeRYLqDZLTh1) | [Dizzy K.](https://open.spotify.com/artist/5Awdyry1KZQWfkYfTGVSNE) | [Sweet Music, Vol\. 1](https://open.spotify.com/album/49fliOpS2w0zeSJxccI4lV) | 4:06 | 2022-07-19 |  |
-| [Rebelde Silueta](https://open.spotify.com/track/6ggGycALmehX01E49j4dDG) | [Nsue](https://open.spotify.com/artist/3mP60wj7zbSsAnI26egtol) | [Ritmo Fantasía: Balearic Spanish Synth\-Pop, Boogie And House \(1982\-1992\)](https://open.spotify.com/album/4athIGponDiJRR4djOgwbJ) | 4:30 | 2022-07-19 |  |
+| [Rebelde Silueta](https://open.spotify.com/track/5apFmj9frwrTV1BvclAfZM) | [Nsue](https://open.spotify.com/artist/3mP60wj7zbSsAnI26egtol) | [Ritmo Fantasía: Balearic Spanish Synth\-Pop, Boogie And House \(1982\-1992\)](https://open.spotify.com/album/6hF1xbglHjBHYkv2FMtyiq) | 4:30 | 2022-07-19 |  |
+| [Rebelde Silueta](https://open.spotify.com/track/6ggGycALmehX01E49j4dDG) | [Nsue](https://open.spotify.com/artist/3mP60wj7zbSsAnI26egtol) | [Ritmo Fantasía: Balearic Spanish Synth\-Pop, Boogie And House \(1982\-1992\)](https://open.spotify.com/album/4athIGponDiJRR4djOgwbJ) | 4:30 | 2022-07-19 | 2023-04-30 |
 | [Rebels](https://open.spotify.com/track/7KePwNA8puA4BX8unrPygx) | [Wild Fire](https://open.spotify.com/artist/3gzfJi6zhuDoEiDbzuEXEv) | [Dance Hits](https://open.spotify.com/album/4i37zBzxDyFam3nhhFeoPj) | 3:56 | 2022-07-19 |  |
 | [Riflessione finale](https://open.spotify.com/track/1rlFvwrdtu1dO7iB8ZoBUl) | [Enzo Carella](https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9) | [Sfinge](https://open.spotify.com/album/35JBlxCx7XjzZDD5XbR76s) | 4:26 | 2022-07-19 |  |
 | [Sabato Italiano](https://open.spotify.com/track/6yOSX613mf0t3b6kTiYSIO) | [I Coccodrilli](https://open.spotify.com/artist/5I5o3vDgR1eCtGcyW2IYZR) | [Sabato italiano](https://open.spotify.com/album/7jgBsFqhHEmuDumoqcOZiD) | 4:33 | 2022-07-19 |  |
@@ -57,7 +58,8 @@
 | [Song for You](https://open.spotify.com/track/0u8ZMXcwzcKqQnWqcCAvLB) | [Popcorn](https://open.spotify.com/artist/1OjLkKWa1sOm8onEQUrZLQ) | [Prime Choice](https://open.spotify.com/album/3w6kQTZlkeOk28IVFwirEt) | 4:33 | 2022-07-19 |  |
 | [Song for You](https://open.spotify.com/track/5wNkMIiej8AYMkPH2XNNFr) | [Popcorn](https://open.spotify.com/artist/1strD2p7X77pmc2OKsiJ4f) | [Prime Choice](https://open.spotify.com/album/1MQQ20t6mKImGNu2HQstnh) | 4:33 | 2022-07-19 | 2023-02-22 |
 | [Step On](https://open.spotify.com/track/62xn6QmlDKAyEXKKDp1SCP) | [Harry Mosco](https://open.spotify.com/artist/5xRUMq2gshg8BfuXR7QFWl) | [Peace & Harmony](https://open.spotify.com/album/4w0mVprAna8GLFxXq5nJ1r) | 6:37 | 2022-07-19 |  |
-| [Sweetest Taboo](https://open.spotify.com/track/79kE710OjFvgXocQfYMe6k) | [Rebles](https://open.spotify.com/artist/3sYvl5zrwAbMVVlog6PO6A), [Soca](https://open.spotify.com/artist/2dNe50mudMBf2mKTuVYtHh) | [Sweetest Taboo](https://open.spotify.com/album/7KsKCoTPPN5wvuh6WuDIzy) | 6:45 | 2022-07-19 |  |
+| [Sweetest Taboo](https://open.spotify.com/track/1VtficGMlMhEBi5x1v66F9) | [Rebles](https://open.spotify.com/artist/3sYvl5zrwAbMVVlog6PO6A), [Soca](https://open.spotify.com/artist/2dNe50mudMBf2mKTuVYtHh) | [Sweetest Taboo](https://open.spotify.com/album/1qCGnNy8EOVXrglUhdPSwV) | 6:45 | 2022-07-19 |  |
+| [Sweetest Taboo](https://open.spotify.com/track/79kE710OjFvgXocQfYMe6k) | [Rebles](https://open.spotify.com/artist/3sYvl5zrwAbMVVlog6PO6A), [Soca](https://open.spotify.com/artist/2dNe50mudMBf2mKTuVYtHh) | [Sweetest Taboo](https://open.spotify.com/album/7KsKCoTPPN5wvuh6WuDIzy) | 6:45 | 2022-07-19 | 2023-04-30 |
 | [The Time Is Come](https://open.spotify.com/track/67Ap9BKsZXan4gYWzCb3Pn) | [Effi Duke](https://open.spotify.com/artist/6TKG61vYDn0PmgoXUYkrOx), [The Love Family](https://open.spotify.com/artist/2PMQqmwNVSap6TxKMZRuMh) | [Mr Bongo Record Club, Vol\. 2](https://open.spotify.com/album/6FUoMNfQiCUMmwvfZC8lRI) | 4:43 | 2022-07-19 |  |
 | [Ti voglio](https://open.spotify.com/track/5Z8A2y3IxNvkRzEMxWu01u) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Io Fuori](https://open.spotify.com/album/2vxXavw8SrYsHR707Novja) | 5:49 | 2022-07-19 |  |
 | [Tienaté](https://open.spotify.com/track/1SIXMGcsAeA6sNxaY1EG3O) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS) | 4:38 | 2022-07-19 |  |

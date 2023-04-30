@@ -1,12 +1,12 @@
 {
   "description": "Wishing Willie Nelson a happy 90th birthday with Spotify Singles tributes from Margo Price feat. Particle Kid, The War and Treaty, & Sierra Ferrell",
-  "num_followers": 36,
+  "num_followers": 408,
   "original_name": "Happy 90th Willie Nelson! ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjAyZDBlM2UyNjZhNzMzYmJlYjIyNGVjYzkwNTY0Y2U1YzQ2ODZm",
+  "snapshot_id": "MCxjOWYzMTJlMWZhZmU3NjcxZjkwODYxYzRhYTJjNGQ1ODg3NGNjNGRl",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -607,13 +607,25 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Wake Me When It's Over [feat. Sara Watkins, Sarah Jarosz, Aoife O'Donovan]",
+        "name": "Wake Me When It's Over",
         "url": "https://open.spotify.com/album/0TagfK04olSVvnfHtWbhJz"
       },
       "artists": [
         {
           "name": "I'm With Her",
           "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        },
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        },
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        },
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
       "duration_ms": 258393,

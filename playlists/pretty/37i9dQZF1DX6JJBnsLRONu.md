@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain]
 
 > Pushing the boundaries of instrumental Folk and Americana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,287 likes - 60 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,302 likes - 60 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Last Rockabilly](https://open.spotify.com/track/0N7xhtiFCCcVvWj6wLX80h) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [The Last Rockabilly](https://open.spotify.com/album/3fRaDR9AaKWjJZHcYKQc22) | 4:22 |
 | 2 | [Letting Go](https://open.spotify.com/track/2sYKMfMLXwmK6idbtpxYTD) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/46N1u5BuUGsZlj7pij2JRK) | 3:24 |
 | 3 | [At the Edge of the World](https://open.spotify.com/track/1HNy9IZDRBBWOc2HYUSIJw) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW), [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [At the Edge of the World](https://open.spotify.com/album/3pPEotWlGwWvmZfiMJvn8R) | 6:16 |
-| 4 | [Sunshowers](https://open.spotify.com/track/0fVK2hNr9GEvCwVvqysLfU) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs) | [Urban Driftwood](https://open.spotify.com/album/0Qz0FCP2OvKtx4WG21PVrJ) | 4:14 |
-| 5 | [Ocean City](https://open.spotify.com/track/7MJh38zfhn9srvGNyax29M) | [Gunn \- Truscinski Duo](https://open.spotify.com/artist/58PU6MWEroVyXXTXmpzdny) | [Soundkeeper](https://open.spotify.com/album/5mbLZNPWompf0VZ0Vb8gcV) | 5:09 |
+| 4 | [Sunshowers](https://open.spotify.com/track/6O9Q2lZu6sMg3B4nG7fRJf) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs) | [Urban Driftwood](https://open.spotify.com/album/65a7yUVNDttPR2ioJOgyok) | 4:14 |
+| 5 | [Ocean City](https://open.spotify.com/track/6NlmKEFtS7NpWTRtlr0HLy) | [Gunn \- Truscinski Duo](https://open.spotify.com/artist/58PU6MWEroVyXXTXmpzdny) | [Soundkeeper](https://open.spotify.com/album/67YWUjgE252g3HnFOWwzhA) | 5:09 |
 | 6 | [Rocks on Rainbow](https://open.spotify.com/track/2tdLYfGjdOdk73VGfLuB7D) | [Ryley Walker](https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc) | [Deafman Glance](https://open.spotify.com/album/3OK32MaMXRDNRgdDzBJikw) | 1:45 |
 | 7 | [Black Eyed Susan](https://open.spotify.com/track/4O6qHINcYgFcyK5jj6GcRH) | [Shane Parish](https://open.spotify.com/artist/3cvqyc36Wu2EbRd2Wf8dgr) | [Black Eyed Susan](https://open.spotify.com/album/0JJyu6jluatrwYKbEXGHjC) | 6:20 |
 | 8 | [The Fire This Time](https://open.spotify.com/track/5BIip1tjBoYcc4oE6zAvVM) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW) | [Still, Here](https://open.spotify.com/album/4VbsBmQarXq8y249LaqdGU) | 3:38 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain]
 | 21 | [Climbing Bear](https://open.spotify.com/track/36lEFwL7po0THo1sTAmAtO) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Big Bend \(An Original Soundtrack for Public Television\)](https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv) | 3:18 |
 | 22 | [The Going Through](https://open.spotify.com/track/4zAdKEsF0LHCSVeWaAm0I1) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py), [Luke Schneider](https://open.spotify.com/artist/0lT5edBQPui5NiGQLLG2Gb) | [Understand](https://open.spotify.com/album/7kPbydEQtj9F6TW6NEwSdI) | 4:37 |
 | 23 | [Elk River](https://open.spotify.com/track/75s7uFrBUhwHH4sVbsSn0a) | [Six Organs Of Admittance](https://open.spotify.com/artist/5jX8L7D6vWHYlNj9k361vI) | [For Octavio Paz](https://open.spotify.com/album/1KsF9degqPu3DEJTQLalNI) | 3:11 |
-| 24 | [Ursa Major](https://open.spotify.com/track/7jMmgzKA33wNfqwW99it4P) | [SUSS](https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS) | [High Line](https://open.spotify.com/album/4p5LlAKeW83lehTf5sUCUo) | 4:10 |
+| 24 | [Ursa Major](https://open.spotify.com/track/3BJnhpM9ItAefdMZGdGf1d) | [SUSS](https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS) | [High Line](https://open.spotify.com/album/5htTq0mezBLjTr0pja5jGK) | 4:10 |
 | 25 | [Twins](https://open.spotify.com/track/0SeCA3vPHuXGP6sizB05ZA) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [Days of Being Wild](https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0) | 0:50 |
 | 26 | [Ugly Orange](https://open.spotify.com/track/4O2JBu39WoNet8tz3xOS2P) | [yes/and](https://open.spotify.com/artist/7IxiRbidPWbGcs1K14lf98) | [Ugly Orange](https://open.spotify.com/album/5nRm1J2j9EqyHZrYVFCnho) | 4:19 |
 | 27 | [Agave](https://open.spotify.com/track/6naW8OkDHDhM4wYEwZJgwe) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Belladonna](https://open.spotify.com/album/05tAz0b9gHjjlpaIOxNvfy) | 1:58 |
@@ -51,13 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain]
 | 41 | [Highway Anxiety](https://open.spotify.com/track/3JLXnHbsF9kJrAphXVPoF6) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Modern Country](https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT) | 9:06 |
 | 42 | [Of Its Own Kind](https://open.spotify.com/track/7pufqAWLZoZiMAtW5Wofyi) | [Glenn Jones](https://open.spotify.com/artist/7HY8lCkyEUSL5jfENlkshV) | [The Wanting](https://open.spotify.com/album/5ZHWtCqGocOYJh1G0RUg2A) | 7:25 |
 | 43 | [Pagoda](https://open.spotify.com/track/0pwMGBX9miS0M5AKWILj23) | [Tomáš Niesner](https://open.spotify.com/artist/2HWIXFTcVPVuXasYaauMlW) | [Aurora](https://open.spotify.com/album/7oUX2Z9Bp6BywRQGVG5wY9) | 4:24 |
-| 44 | [You'd Be So Nice to Come Home To](https://open.spotify.com/track/37RJq9ytdQqVltw1aOYIZj) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW), [Tara Jane O'Neil](https://open.spotify.com/artist/67S18PLepUFPvHhMgCJPZk) | [You'd Be So Nice to Come Home To](https://open.spotify.com/album/0jUyjOeULoz1T3QXbgIk6k) | 5:10 |
-| 45 | [Dreaming of the Kelly Pool](https://open.spotify.com/track/2oiA79pJ9Y901ZS2qd6Jl1) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [Paul Sukeena](https://open.spotify.com/artist/2BATlF7iN0eToMP3ev80mH) | [Dreaming of the Kelly Pool](https://open.spotify.com/album/7L5ViL8FXX0tr7ccEByRfH) | 3:55 |
+| 44 | [You'd Be So Nice to Come Home To](https://open.spotify.com/track/3xpKxImPPzRMQjkD0ivpHj) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW), [Tara Jane O'Neil](https://open.spotify.com/artist/67S18PLepUFPvHhMgCJPZk) | [You'd Be So Nice to Come Home To](https://open.spotify.com/album/0wn6xT2zMdgNOSVO0NBXnw) | 5:10 |
+| 45 | [Dreaming of the Kelly Pool](https://open.spotify.com/track/0ycEUaMWk4iR7KWoY61LCN) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [Paul Sukeena](https://open.spotify.com/artist/2BATlF7iN0eToMP3ev80mH) | [Dreaming of the Kelly Pool](https://open.spotify.com/album/0jQtfIchmIOtzZR3RV5BwC) | 3:55 |
 | 46 | [clarity](https://open.spotify.com/track/4ux5lTkBgmIFNFC83TwZj8) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [fragments](https://open.spotify.com/album/67EzhMUZJBwTnXpnnSY6Jx) | 2:19 |
 | 47 | [Teek](https://open.spotify.com/track/5pbRRA6wZm1OtBDXQl464D) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV), [Ralph Farris](https://open.spotify.com/artist/7MqERo1Nx2kIaJJF9xjrUN) | [Modern Yesterdays](https://open.spotify.com/album/4pgnnkCEHdnCMzx2WS9tAI) | 4:31 |
 | 48 | [American Dipper](https://open.spotify.com/track/1PJvxtfe6W1aeQKiXjGmSc) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S), [Joel Ford](https://open.spotify.com/artist/5XiDsZ4MdTGfZvUEVBGfiA) | [American Dipper](https://open.spotify.com/album/648j3s2wgIRU0v1YiVTLil) | 3:55 |
-| 49 | [Home](https://open.spotify.com/track/3OOW0UYCJ4cBJ3Tm0vsWzx) | [SUSS](https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS) | [Promise](https://open.spotify.com/album/0oXfn8vzQ1yicX2dBkLgf4) | 5:37 |
-| 50 | [Bumblin' Creed](https://open.spotify.com/track/1NT4NQQgQmnqyI4ur5W4qf) | [Padang Food Tigers & Sigbjørn Apeland](https://open.spotify.com/artist/0vXLxVov9wThTze1YI6rIU) | [Bumblin' Creed](https://open.spotify.com/album/5xqGo1QHYYGAYHVsRBqyFp) | 3:04 |
+| 49 | [Home](https://open.spotify.com/track/3SGehccQKK1bvBsHVj9QMd) | [SUSS](https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS) | [Promise](https://open.spotify.com/album/76asyjI2WIC2wg9TbHRggD) | 5:37 |
+| 50 | [Bumblin' Creed](https://open.spotify.com/track/5DAX0OKDLD3r5vknJlK1VV) | [Padang Food Tigers & Sigbjørn Apeland](https://open.spotify.com/artist/0vXLxVov9wThTze1YI6rIU) | [Bumblin' Creed](https://open.spotify.com/album/5nDEvSNZBNV4NC3GCOhkog) | 3:04 |
 | 51 | [Horns](https://open.spotify.com/track/3bEKkgqk0Kf2PNlF7hHPxP) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Valley Of The Sun](https://open.spotify.com/album/3dPcgvFJbBLvB0WZkvEEiN) | 5:00 |
 | 52 | [Estancia](https://open.spotify.com/track/6JSZq2FkHOZGZ5hV85fBa2) | [Bill Elm](https://open.spotify.com/artist/2TWP5hw802RnTGqBo0GhaW), [Woody Jackson](https://open.spotify.com/artist/6VYtpsmVgSqOFf3ttfqnVX) | [Red Dead Redemption Original Soundtrack](https://open.spotify.com/album/7vtoDPM9m1Bs4srekUEpCK) | 2:02 |
 | 53 | [Flower Turned Inside\-Out](https://open.spotify.com/track/25ISO5GDUQU94hqhjFFQIS) | [Glenn Jones](https://open.spotify.com/artist/7HY8lCkyEUSL5jfENlkshV) | [Fleeting](https://open.spotify.com/album/1nJRtI9d5gAd3HZjN2IXLA) | 4:20 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain]
 | 59 | [Afar](https://open.spotify.com/track/7ix5BtN2K7vsTpFWDqN8Bk) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 2:34 |
 | 60 | [Paris, Texas](https://open.spotify.com/track/1idiifjTcCoGfBeZiYOdim) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Music by Ry Cooder](https://open.spotify.com/album/0gLaTb6BP8pySUWwkiZjdD) | 2:54 |
 
-Snapshot ID: `MCw1NjAxOTg3Mjc3NTA1NmNhYTFjMDAwZTdkMjI4ZDM1ZGY1NTllYjM5`
+Snapshot ID: `MCwzNjAyYWMzZjIyZWE4Y2UxMDZiZTlkMzUxYzE1M2NjOWJjYTI5MjAz`

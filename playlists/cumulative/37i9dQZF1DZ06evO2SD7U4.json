@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "Naco Es Chido",
+        "url": "https://open.spotify.com/album/0ewIlyP07glFK4N55igHHl"
+      },
+      "artists": [
+        {
+          "name": "Botellita De Jerez",
+          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204480,
+      "name": "Guaca Rock De La Malinche",
+      "url": "https://open.spotify.com/track/2IZjCGng9pi0s8T1eVbP3x"
+    },
+    {
+      "album": {
         "name": "Lo Pior Del Estuche De Peluche",
         "url": "https://open.spotify.com/album/0kyCl9EeEJJeg1D2YFxSvS"
       },
@@ -448,7 +466,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 204546,
       "name": "Guaca Rock De La Malinche",
       "url": "https://open.spotify.com/track/6vsZUtdttpNsraa2BYj9uV"
@@ -628,7 +646,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-24",
+      "date_removed": null,
       "duration_ms": 174600,
       "name": "La Sorpresa",
       "url": "https://open.spotify.com/track/4xIX8bh2MEE1QkGk1sbWxf"
@@ -898,7 +916,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 247253,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/1DiHDUg3iRQJODq2vk4Er5"

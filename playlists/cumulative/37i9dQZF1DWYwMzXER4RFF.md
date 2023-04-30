@@ -4,7 +4,7 @@
 
 > New no wave, post\-punk, and anything else\. Cover: Squid
 
-323 songs - 20 hr 15 min
+325 songs - 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Dazzling](https://open.spotify.com/track/12KEEMtokPYmzVbUopkRBm) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Thirst](https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1) | 2:40 | 2022-12-13 | 2023-02-11 |
 | [Delusion Spree](https://open.spotify.com/track/0d4YnSZpQZQszNHz3hfx3a) | [Eades](https://open.spotify.com/artist/6GVy4NToodaTHYxlO6xuXX) | [Delusion Spree](https://open.spotify.com/album/2sqyfzGM5IQvupbRe7hr3X) | 3:49 | 2022-03-11 | 2022-05-06 |
 | [Delusions Of Grandeur](https://open.spotify.com/track/52jHGLECyJck03wSgSktQv) | [Bad Waitress](https://open.spotify.com/artist/5h5YgUkm7vI0bdbQTyBGmb) | [Delusions Of Grandeur](https://open.spotify.com/album/677N0k17KVgKOVLfjIlM9o) | 3:24 | 2022-02-11 | 2022-06-29 |
-| [Demolition Row](https://open.spotify.com/track/4WZqRGx9Wer0kkqxOBpYLU) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Demolition Row](https://open.spotify.com/album/14z5OMX99l2AO8ydNmIcdp) | 4:18 | 2023-02-03 |  |
+| [Demolition Row](https://open.spotify.com/track/2bOTDi5fEHrr14bYIDUbwV) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Demolition Row](https://open.spotify.com/album/1gVt5YHXoBNEXCUzgkJDlk) | 4:18 | 2023-02-24 |  |
+| [Demolition Row](https://open.spotify.com/track/4WZqRGx9Wer0kkqxOBpYLU) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Demolition Row](https://open.spotify.com/album/14z5OMX99l2AO8ydNmIcdp) | 4:18 | 2023-02-03 | 2023-04-30 |
 | [Design \- Beck Remix](https://open.spotify.com/track/6sA8kdgPdWHERyEWQmyMV6) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Design \(Beck Remix\)](https://open.spotify.com/album/1ovmPec98kYvfAG2KyNU5G) | 2:36 | 2021-12-06 | 2022-07-28 |
 | [Detainer Man](https://open.spotify.com/track/7fMaXnJ5ENukSySob1d07z) | [Pozi](https://open.spotify.com/artist/0i1dJNVY6kGU5lUzmwXNhS) | [Detainer Man](https://open.spotify.com/album/4BZUe5AfUkBoF0TVOrKrfk) | 2:53 | 2021-12-06 | 2022-07-24 |
 | [diamond horsetail](https://open.spotify.com/track/5sdp772V32Wl1wnDUNku0M) | [deep tan](https://open.spotify.com/artist/019NHPyN9SM5PRiEWs4X8D) | [diamond horsetail](https://open.spotify.com/album/2iF2sjUKvFKFhf4qgDEmAg) | 3:25 | 2022-06-16 | 2022-07-25 |
@@ -216,6 +217,7 @@
 | [Ownership](https://open.spotify.com/track/1ZrLIERdiwRtLpNB2egOHj) | [CLT DRP](https://open.spotify.com/artist/0y7VykZdOB8wIsAQfr2S4M) | [Ownership](https://open.spotify.com/album/2utZjk2T8s2p2T2jLd3a3L) | 3:29 | 2021-12-06 | 2022-07-24 |
 | [Paddling](https://open.spotify.com/track/1pftKU2VwJglYdQPYaFFMI) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Paddling](https://open.spotify.com/album/12cKLUnzTxo6ToFGjSEv5v) | 6:15 | 2021-12-06 | 2022-07-26 |
 | [Paddling](https://open.spotify.com/track/4bk6zQvr1tEokVjLJ7xZfz) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Bright Green Field](https://open.spotify.com/album/4z44Wir05QzQYSCs0KwsKX) | 6:15 | 2022-06-16 | 2022-12-17 |
+| [Paddling](https://open.spotify.com/track/7FXWKJGKhGrsaiYdMbWJdj) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Bright Green Field](https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt) | 6:15 | 2023-02-24 |  |
 | [Pain Killer](https://open.spotify.com/track/2V4U5hZOUnY1jzhNZpcrAD) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU), [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Beyondless](https://open.spotify.com/album/5H8wFFblf7YvGc7LbBzuR9) | 3:39 | 2021-12-06 | 2022-07-29 |
 | [Pamphlets](https://open.spotify.com/track/09fQwACfFYN1mZJHCoIo9u) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Pamphlets](https://open.spotify.com/album/1VQ9pHT4jfJXrfFuh1Fbyv) | 8:03 | 2021-12-06 | 2022-07-28 |
 | [Pamphlets](https://open.spotify.com/track/3tOKVaYAYRMr3aaNqLxJaM) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Bright Green Field](https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt) | 8:03 | 2023-01-19 |  |
@@ -238,7 +240,7 @@
 | [Rabbit](https://open.spotify.com/track/0u2kTKd00Jk9UEbn9CxrYj) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Married](https://open.spotify.com/album/4Cc6blc4jNacdDuFiZMdEu) | 1:48 | 2021-12-06 | 2022-07-24 |
 | [Renew](https://open.spotify.com/track/0yAIvuU28qobZ7nO9QcwWL) | [Versing](https://open.spotify.com/artist/2EBCJ8wwWpJXAyjVoiwCw8) | [Renew](https://open.spotify.com/album/2JqAt90rEWisIk3iuw849v) | 3:22 | 2022-03-11 | 2022-04-21 |
 | [Reset My Password](https://open.spotify.com/track/6CKslfcC4WXPRFAjSItYm7) | [Public Body](https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X) | [Reset My Password](https://open.spotify.com/album/1PdUQ7q9ECtmZQjmp79DVI) | 2:50 | 2022-03-03 | 2022-11-09 |
-| [Rhythm Is Our Business \- Edit](https://open.spotify.com/track/0nSKPt85T4Y3PFKe9U1AoJ) | [Snapped Ankles](https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl) | [Rhythm Is Our Business \(Edit\)](https://open.spotify.com/album/31BcuNn55HiyGfZNumnzgO) | 3:43 | 2021-12-06 |  |
+| [Rhythm Is Our Business \- Edit](https://open.spotify.com/track/0nSKPt85T4Y3PFKe9U1AoJ) | [Snapped Ankles](https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl) | [Rhythm Is Our Business \(Edit\)](https://open.spotify.com/album/31BcuNn55HiyGfZNumnzgO) | 3:43 | 2021-12-06 | 2023-04-30 |
 | [Room 156](https://open.spotify.com/track/31U2luPkRz8a8rMOp9n9aU) | [Crows](https://open.spotify.com/artist/5LFuHlM7fW3xnIyBsDrGfn) | [Room 156](https://open.spotify.com/album/1V4Jy2vEzGQwwJ9D34kJsr) | 4:00 | 2022-02-11 | 2022-07-22 |
 | [Rumpus Room](https://open.spotify.com/track/2fQ3EXY5NVpgql5Bg8gHoY) | [Xiu Xiu](https://open.spotify.com/artist/5JLqvjW3Nyom2OsRUyFsS9), [Liars](https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z) | [Rumpus Room](https://open.spotify.com/album/0SVZWu2Jr3u45O7nW377d6) | 3:44 | 2021-12-06 | 2022-07-25 |
 | [Saintless](https://open.spotify.com/track/3Dq8NtMPkJAHTZs1BQZ5jL) | [TV Priest](https://open.spotify.com/artist/61ujMGJVHgF9LPrIZw4MaI) | [Uppers](https://open.spotify.com/album/42tqnrA3ZlajJn29eE2Qqg) | 7:06 | 2021-12-06 | 2022-07-24 |

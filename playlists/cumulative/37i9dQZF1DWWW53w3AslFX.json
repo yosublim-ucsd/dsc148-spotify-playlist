@@ -2416,7 +2416,7 @@
     {
       "album": {
         "name": "[DETENTION]",
-        "url": "https://open.spotify.com/album/3gC6SaURhsOVtsvTTlJvWE"
+        "url": "https://open.spotify.com/album/7HZ3NzPqlKaY0BUgh2Frch"
       },
       "artists": [
         {
@@ -2427,6 +2427,24 @@
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 160654,
+      "name": "SuMmEr BrEaK",
+      "url": "https://open.spotify.com/track/0L7XJxP7SIb8h33bBd4lQh"
+    },
+    {
+      "album": {
+        "name": "[DETENTION]",
+        "url": "https://open.spotify.com/album/3gC6SaURhsOVtsvTTlJvWE"
+      },
+      "artists": [
+        {
+          "name": "ShitKid",
+          "url": "https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 160654,
       "name": "SuMmEr BrEaK",
       "url": "https://open.spotify.com/track/0h4e9wtvP1KK7rWP6ceZTE"

@@ -5068,7 +5068,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 191250,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/0KCTz5CgMquA0rbREbLHVr"
@@ -12179,6 +12179,24 @@
     },
     {
       "album": {
+        "name": "Live You Down",
+        "url": "https://open.spotify.com/album/1vfLlCIdqV5WqXJ4GaOEmJ"
+      },
+      "artists": [
+        {
+          "name": "Svidden",
+          "url": "https://open.spotify.com/artist/4TCxJvDPZD9i1P1CLPK9BG"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181681,
+      "name": "Live You Down",
+      "url": "https://open.spotify.com/track/6EkOxvS3VutQvy6MsTrrwh"
+    },
+    {
+      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/5cyiRpzVYVoKsR79oajOjF"
       },
@@ -15447,6 +15465,32 @@
     },
     {
       "album": {
+        "name": "ILLENIUM",
+        "url": "https://open.spotify.com/album/0ValflNlWce21wm5PlwV60"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "Vera Blue",
+          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211592,
+      "name": "Other Side",
+      "url": "https://open.spotify.com/track/2pHTtI2tvEjGJvwJyDyCpy"
+    },
+    {
+      "album": {
         "name": "Our Escape",
         "url": "https://open.spotify.com/album/1YlRRmamcZwjjOasETPld2"
       },
@@ -18228,7 +18272,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 204980,
       "name": "Someone Like Me",
       "url": "https://open.spotify.com/track/1D3qSUMiemq8wa4xXOC2qi"

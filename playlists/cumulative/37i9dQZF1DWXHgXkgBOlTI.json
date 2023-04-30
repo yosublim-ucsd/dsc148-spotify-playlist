@@ -330,7 +330,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-04",
+      "date_removed": null,
       "duration_ms": 408640,
       "name": "In The Twilight",
       "url": "https://open.spotify.com/track/2Q0ZmisH3IBgmB88wLJYQ8"
@@ -374,6 +374,24 @@
       "duration_ms": 247893,
       "name": "Moonlight Syndrome",
       "url": "https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh"
+    },
+    {
+      "album": {
+        "name": "NEW",
+        "url": "https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB"
+      },
+      "artists": [
+        {
+          "name": "JABBERLOOP",
+          "url": "https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293920,
+      "name": "MotherLake",
+      "url": "https://open.spotify.com/track/4uRF6ePZegS9RLDRzTDaRp"
     },
     {
       "album": {
@@ -566,7 +584,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 301400,
       "name": "relive",
       "url": "https://open.spotify.com/track/50t4tQAB6MPXX2bzFeGCid"
@@ -710,7 +728,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 200586,
       "name": "spectres de mouse",
       "url": "https://open.spotify.com/track/1ObG9Ewso0enlqOojHXzzs"

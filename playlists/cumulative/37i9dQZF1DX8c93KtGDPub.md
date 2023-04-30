@@ -4,7 +4,7 @@
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-264 songs - 15 hr 28 min
+266 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,8 +123,9 @@
 | [If We Make It Through December](https://open.spotify.com/track/2vnVkHPckitpXFyC2Q2ULG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [If We Make It Through December](https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL) | 2:59 | 2022-11-15 |  |
 | [In the Bleak Midwinter](https://open.spotify.com/track/5oxR9vvnUuuDh8NTLy2kEW) | [Natalie Schlabs](https://open.spotify.com/artist/25YHQvJbJh2yW36lrZJ9e5), [Betsy Phillips](https://open.spotify.com/artist/3m3VhgcmqGV93tHZiOFrId) | [In the Bleak Midwinter](https://open.spotify.com/album/3j8YduiXuo5HUctjKnyZTA) | 3:05 | 2021-12-24 |  |
 | [In The Bleak Midwinter](https://open.spotify.com/track/59vU9HvjJx09uWeAC7wai5) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [In The Bleak Midwinter](https://open.spotify.com/album/7wVUdg2hmTl1GBYq6xSHT3) | 3:51 | 2021-12-24 |  |
-| [In the Bleak Midwinter](https://open.spotify.com/track/3np9l8SIwGkyeQjtNXe7na) | [The Hot Hearts](https://open.spotify.com/artist/2mOYycEORlQThRVOoSjL7V) | [A Rock By the Sea Christmas, Vol\. 4](https://open.spotify.com/album/2qK9B8F2H0jJKxMuYdV0n7) | 2:53 | 2021-12-24 |  |
+| [In the Bleak Midwinter](https://open.spotify.com/track/3np9l8SIwGkyeQjtNXe7na) | [The Hot Hearts](https://open.spotify.com/artist/2mOYycEORlQThRVOoSjL7V) | [A Rock By the Sea Christmas, Vol\. 4](https://open.spotify.com/album/2qK9B8F2H0jJKxMuYdV0n7) | 2:53 | 2021-12-24 | 2023-04-30 |
 | [In The Bleak Midwinter](https://open.spotify.com/track/5Fzf29r1XkqFnxm8C9XBhA) | [The Hot Hearts](https://open.spotify.com/artist/2mOYycEORlQThRVOoSjL7V) | [A Rock By the Sea Christmas, Vol\. 4](https://open.spotify.com/album/1A0R1iWh5ZkUgrKbGNEL4x) | 2:53 | 2021-12-24 | 2022-07-29 |
+| [In the Bleak Midwinter](https://open.spotify.com/track/6MOYdMMIZAfuFzmGxFl3Pe) | [The Hot Hearts](https://open.spotify.com/artist/2mOYycEORlQThRVOoSjL7V) | [A Rock By the Sea Christmas, Vol\. 4](https://open.spotify.com/album/1iam45D5AQaoVkZqTx8Lyc) | 2:53 | 2022-11-15 |  |
 | [In Winter](https://open.spotify.com/track/537nPlvDmbCNzIjMRw5Kee) | [Matt Pond PA](https://open.spotify.com/artist/3JVgWZxQa78cVa2cUuAUQ4) | [Winter Lives](https://open.spotify.com/album/62hP0p3napMAE06DsYt2fg) | 4:03 | 2021-12-24 |  |
 | [It Doesn't Have To Be That Way](https://open.spotify.com/track/7nR8haTZ1U3Wyg3i3ytfAu) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [Life And Times](https://open.spotify.com/album/1W8lksoNXJHs8RjWsDEdpk) | 2:31 | 2021-12-24 | 2022-07-29 |
 | [It Doesn't Have to Be That Way](https://open.spotify.com/track/5DqSOPvzr2LPxM0yKeR0qZ) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [Life & Times](https://open.spotify.com/album/3q7L4mosMmOcmQNE1d0H4s) | 2:34 | 2021-12-24 |  |
@@ -209,8 +210,9 @@
 | [Songs for the Angels](https://open.spotify.com/track/6mNrNhAqFSzQxDldRilzMh) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Folk & Proud](https://open.spotify.com/album/5hR6eNfAo8Y0tHf8xpIrHU) | 5:18 | 2021-12-24 | 2022-07-29 |
 | [Star Star \(Live\)](https://open.spotify.com/track/18YH3E7x91v6AC3lhGiolf) | [The Swell Season](https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074) | [Strict Joy \[Deluxe Edition\]](https://open.spotify.com/album/5dA8EHydNLWo29675jA2cj) | 9:49 | 2021-12-24 | 2022-07-29 |
 | [Star Star \- Live](https://open.spotify.com/track/3F3SaGhhAlXVUDD1Y3jIQ3) | [The Swell Season](https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074) | [Strict Joy \(Deluxe Edition\)](https://open.spotify.com/album/0PzQfgLNIgyNYcHvIjvmVs) | 9:49 | 2021-12-24 |  |
+| [Take Me Back to Toyland](https://open.spotify.com/track/35VxpFYw78qOvQbwgENTyX) | [Grant\-Lee Phillips](https://open.spotify.com/artist/65xy6loxYxKy3M9uiRHzLv) | [Winterglow / Take Me Back to Toyland](https://open.spotify.com/album/0ghqHw3YtbooB3IoXDdTXN) | 2:05 | 2022-11-15 |  |
 | [Take Me Back to Toyland](https://open.spotify.com/track/5wfE9rKR5wzf0YawGIQIom) | [Grant\-Lee Phillips](https://open.spotify.com/artist/65xy6loxYxKy3M9uiRHzLv) | [Yuletide](https://open.spotify.com/album/2iL1q6nfD9mCuxNB0ovhaA) | 2:05 | 2021-12-24 | 2022-07-29 |
-| [Take Me Back to Toyland](https://open.spotify.com/track/7a9o50udnCEeGVfUdI084k) | [Grant\-Lee Phillips](https://open.spotify.com/artist/65xy6loxYxKy3M9uiRHzLv) | [Winterglow / Take Me Back to Toyland](https://open.spotify.com/album/4N1C0GAOeKcqMUrJSGPV3t) | 2:06 | 2021-12-24 |  |
+| [Take Me Back to Toyland](https://open.spotify.com/track/7a9o50udnCEeGVfUdI084k) | [Grant\-Lee Phillips](https://open.spotify.com/artist/65xy6loxYxKy3M9uiRHzLv) | [Winterglow / Take Me Back to Toyland](https://open.spotify.com/album/4N1C0GAOeKcqMUrJSGPV3t) | 2:06 | 2021-12-24 | 2023-04-30 |
 | [Thank You Bruce](https://open.spotify.com/track/3EBawrYqLkRHQXVtOqngwa) | [Lorkin O'Reilly](https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l) | [Christmas is Cancelled](https://open.spotify.com/album/2584cImcXalWKOj9zVZ03y) | 3:49 | 2022-12-02 |  |
 | [Thank You Bruce](https://open.spotify.com/track/58s8IcZgunOrevqKl6Cz4x) | [Lorkin O'Reilly](https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l) | [Christmas is Cancelled](https://open.spotify.com/album/6j1izZ3gWtFntdOFo6tSd7) | 3:49 | 2022-12-02 | 2022-12-08 |
 | [Thank You Bruce](https://open.spotify.com/track/72ivBx0IV4zJ2R5dMKTeJz) | [Lorkin O'Reilly](https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l) | [Christmas is Cancelled](https://open.spotify.com/album/39DWV95LYxnj5FbJYOZeMs) | 3:49 | 2022-12-02 | 2023-01-22 |

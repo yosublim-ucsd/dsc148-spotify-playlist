@@ -1,12 +1,12 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 655490,
+  "num_followers": 656096,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzlkM2EwNDRjZmYxZDY3ZWNlNWZjMTVjYmUwM2ZhNWFjMmE1YzVi",
+  "snapshot_id": "MCw5ZjA1Y2RlMjJmOTA0MzRlMmY0OTExMWQ0YTQ5ZTA1MzBiODMzODZh",
   "tracks": [
     {
       "added_at": "2023-02-10 03:01:00",
@@ -295,38 +295,6 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "Ao Vivo Em Goi\u00e2nia",
-        "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
-      },
-      "artists": [
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 174920,
-      "name": "Medo Bobo - Ao Vivo",
-      "url": "https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
-        "name": "Ao Vivo No Ibirapuera",
-        "url": "https://open.spotify.com/album/5ExfGmxdqydd3vgdLdRR8f"
-      },
-      "artists": [
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 186379,
-      "name": "Liberdade Provis\u00f3ria - Live - Ibirapuera / 2019",
-      "url": "https://open.spotify.com/track/7Cf2Hsy3cPlA4e115tElXv"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
         "name": "Gustavo Mioto Ao Vivo Em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy"
       },
@@ -347,6 +315,38 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
+        "name": "Ao Vivo No Ibirapuera",
+        "url": "https://open.spotify.com/album/5ExfGmxdqydd3vgdLdRR8f"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 186379,
+      "name": "Liberdade Provis\u00f3ria - Live - Ibirapuera / 2019",
+      "url": "https://open.spotify.com/track/7Cf2Hsy3cPlA4e115tElXv"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
+        "name": "Ao Vivo Em Goi\u00e2nia",
+        "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 174920,
+      "name": "Medo Bobo - Ao Vivo",
+      "url": "https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
         "name": "25 Anos (Ao Vivo)",
         "url": "https://open.spotify.com/album/1rMqTbwki2gVgD7mfgkIpK"
       },
@@ -359,38 +359,6 @@
       "duration_ms": 196306,
       "name": "T\u00e1 Vendo Aquela Lua",
       "url": "https://open.spotify.com/track/6DjKWVAqXUvMaAzO4U4CIo"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
-        "name": "Querosene e o Viol\u00e3o",
-        "url": "https://open.spotify.com/album/6gbvsAZViRa9rIq0GjfQbp"
-      },
-      "artists": [
-        {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        }
-      ],
-      "duration_ms": 161403,
-      "name": "Infarto",
-      "url": "https://open.spotify.com/track/0XEJ7eph2IWFYZc73Jm3n2"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
-        "name": "O Cara Certo",
-        "url": "https://open.spotify.com/album/46AcQjehXf14WEIzG7X780"
-      },
-      "artists": [
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Ref\u00e9m",
-      "url": "https://open.spotify.com/track/4muZ1PUxmss4cVmYnpLrvs"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -411,6 +379,38 @@
       "duration_ms": 184107,
       "name": "50 Vezes - Ao Vivo",
       "url": "https://open.spotify.com/track/01wavOnjFBNgdMWBFYIAP4"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
+        "name": "O Cara Certo",
+        "url": "https://open.spotify.com/album/46AcQjehXf14WEIzG7X780"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Ref\u00e9m",
+      "url": "https://open.spotify.com/track/4muZ1PUxmss4cVmYnpLrvs"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
+        "name": "Querosene e o Viol\u00e3o",
+        "url": "https://open.spotify.com/album/6gbvsAZViRa9rIq0GjfQbp"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "duration_ms": 161403,
+      "name": "Infarto",
+      "url": "https://open.spotify.com/track/0XEJ7eph2IWFYZc73Jm3n2"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
+        "name": "Na Praia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2859TN8HzzAsM8qNgaw60e"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 162960,
+      "name": "Decide A\u00ed - Na Praia / Ao Vivo",
+      "url": "https://open.spotify.com/track/2CKg2u26mtyRYodwbxmA8l"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
         "name": "Sobrenome (Ao Vivo)",
         "url": "https://open.spotify.com/album/5mxkr7VInEvT2afoTjiQVB"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 192253,
       "name": "Sobrenome - Ao vivo",
       "url": "https://open.spotify.com/track/3gYvOU6MJGBS2WNyDTW7Ui"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
-        "name": "Na Praia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2859TN8HzzAsM8qNgaw60e"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 162960,
-      "name": "Decide A\u00ed - Na Praia / Ao Vivo",
-      "url": "https://open.spotify.com/track/2CKg2u26mtyRYodwbxmA8l"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "Ch\u00e3o de estrelas (Ao vivo)",
-        "url": "https://open.spotify.com/album/2sRaJ90PEqpDf1XU0T4zun"
-      },
-      "artists": [
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 224181,
-      "name": "At\u00e9 que enfim - Ao vivo",
-      "url": "https://open.spotify.com/track/1zI3RU0boCVsAXChjCvESu"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
         "name": "O Alvo (feat. Henrique & Juliano) [Ao Vivo]",
         "url": "https://open.spotify.com/album/3yprBTFIy7DnJCHnMDifRv"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 164956,
       "name": "O Alvo (feat. Henrique & Juliano) - Ao Vivo",
       "url": "https://open.spotify.com/track/5Vw6ZLNB6Ko7VZM6vmNIbr"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
+        "name": "Ch\u00e3o de estrelas (Ao vivo)",
+        "url": "https://open.spotify.com/album/2sRaJ90PEqpDf1XU0T4zun"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 224181,
+      "name": "At\u00e9 que enfim - Ao vivo",
+      "url": "https://open.spotify.com/track/1zI3RU0boCVsAXChjCvESu"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
         }
       ],
-      "duration_ms": 203894,
-      "name": "Pra voc\u00ea acreditar - Ao vivo",
-      "url": "https://open.spotify.com/track/5KNi9XFap48ry4puG7rvqv"
+      "duration_ms": 204681,
+      "name": "Sinto sua falta - Ao vivo",
+      "url": "https://open.spotify.com/track/3eWHUE5D5R19q7BvOX7NSJ"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
         }
       ],
-      "duration_ms": 204681,
-      "name": "Sinto sua falta - Ao vivo",
-      "url": "https://open.spotify.com/track/3eWHUE5D5R19q7BvOX7NSJ"
+      "duration_ms": 203894,
+      "name": "Pra voc\u00ea acreditar - Ao vivo",
+      "url": "https://open.spotify.com/track/5KNi9XFap48ry4puG7rvqv"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "De Volta pro Amanh\u00e3",
-        "url": "https://open.spotify.com/album/6rJfOUFtfOAzFve2Qp2Ei5"
-      },
-      "artists": [
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Dependente",
-      "url": "https://open.spotify.com/track/2xOa2qPj8kDnlj8Nr1D07s"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
         "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo) - Deluxe",
         "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 199363,
       "name": "Bebida Na Ferida - Ao Vivo",
       "url": "https://open.spotify.com/track/50YbE5MrvSu8Fz6A2dgTZ8"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
+        "name": "De Volta pro Amanh\u00e3",
+        "url": "https://open.spotify.com/album/6rJfOUFtfOAzFve2Qp2Ei5"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Dependente",
+      "url": "https://open.spotify.com/track/2xOa2qPj8kDnlj8Nr1D07s"
     },
     {
       "added_at": "2023-02-10 03:01:00",

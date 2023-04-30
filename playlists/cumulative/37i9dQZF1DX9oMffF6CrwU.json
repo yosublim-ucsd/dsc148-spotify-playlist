@@ -52,10 +52,28 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 354773,
       "name": "Bad Magic",
       "url": "https://open.spotify.com/track/7bxuX0YTV3lhUFi2qdEnbN"
+    },
+    {
+      "album": {
+        "name": "The Innocents",
+        "url": "https://open.spotify.com/album/3EquxHnYp0P86vS259xd0h"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354773,
+      "name": "Bad Magic",
+      "url": "https://open.spotify.com/track/7mSVXtwJgJSZ84cJSGleQX"
     },
     {
       "album": {

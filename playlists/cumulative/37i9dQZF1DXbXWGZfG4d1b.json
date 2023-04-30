@@ -1739,6 +1739,24 @@
     },
     {
       "album": {
+        "name": "P\u00e1nico y Distorsi\u00f3n",
+        "url": "https://open.spotify.com/album/7hhroFtSzsFx9L9ALmKESc"
+      },
+      "artists": [
+        {
+          "name": "Piba",
+          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213199,
+      "name": "Domin\u00f3",
+      "url": "https://open.spotify.com/track/5EcAHmTsaczK3TCNKxypXM"
+    },
+    {
+      "album": {
         "name": "El Elogio de la Sombra",
         "url": "https://open.spotify.com/album/54nnTiHDWtEELhu5XnUW2A"
       },
@@ -2692,7 +2710,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 291555,
       "name": "Flama",
       "url": "https://open.spotify.com/track/6NpGYnHsT8nN9FIDg0zJfC"

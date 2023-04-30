@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music Across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,862 likes - 60 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,864 likes - 60 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 59 | [Last Modular](https://open.spotify.com/track/5O9Vh2gpZttbPjhC3Y8qyH) | [Afrorack](https://open.spotify.com/artist/3pKiRvMjWOAkLWLeNq0XPU) | [The Afrorack](https://open.spotify.com/album/4ZpfDwkIXqBWT0B1aZBdtA) | 5:31 |
 | 60 | [Nzaui](https://open.spotify.com/track/1gVvEiFHMWlG6XJxRmVVz3) | [DJ Fita](https://open.spotify.com/artist/3JZjnPldr5tbimjkX4kz49), [Kimina](https://open.spotify.com/artist/0uvY69V1mp1IgYgq8LvZXq) | [Nzaui](https://open.spotify.com/album/1Wt7M1tUJBg9ODXHi3OSoG) | 4:37 |
 
-Snapshot ID: `MCwwZmU5ZTU5ZDcxYjQ3NTk5ZDQ0NGMxZGMxN2FmNjljYjc3NjQ2NTQ3`
+Snapshot ID: `MCw5MWNjZTkyZGI3YTBkZDQ5NDBkMTZlZjkzNGI3OWYxMTY1Yjk1ZGQ3`

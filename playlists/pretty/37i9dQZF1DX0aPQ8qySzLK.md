@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aPQ8qySzLK.md) - [plain]
 
 > Our editorial picks for Folk's best of 2021 in Canada\. Cover: Ocie Elliott
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,204 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,209 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aPQ8qySzLK.md) - [plain]
 | 31 | [The Captain Is Drunk](https://open.spotify.com/track/5z9VyMWkBCHB8iSVaLq3jk) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [The Captain Is Drunk](https://open.spotify.com/album/06CC7BEzIgw7a9zkKQKsOE) | 3:07 |
 | 32 | [Nightflyer](https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:55 |
 | 33 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 |
-| 34 | [Good Man](https://open.spotify.com/track/3IJldtif54gCJxgY3jySTS) | [Justin Rutledge](https://open.spotify.com/artist/2bCchS6Y3bKQjIK3MNFrx7) | [Islands](https://open.spotify.com/album/1gFkr3Ajx9pSy7LyMpep7s) | 4:47 |
+| 34 | [Good Man](https://open.spotify.com/track/2zqFhzSEAiKwsZqIR6Qy4q) | [Justin Rutledge](https://open.spotify.com/artist/2bCchS6Y3bKQjIK3MNFrx7) | [Islands](https://open.spotify.com/album/2s4qMHtO9DHsRBDe9sj9GW) | 4:47 |
 | 35 | [Always Alone](https://open.spotify.com/track/5xHsqsOBaQ7cFKeaJ5xK6x) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN), [John Raham](https://open.spotify.com/artist/4O69V0EOEfhStOBvJtHtXO) | [This Time I See It](https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev) | 4:41 |
 | 36 | [YES](https://open.spotify.com/track/58iwKf9NCtBqVempgrPM1C) | [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO) | [YES](https://open.spotify.com/album/4gkQEP3ETiZQgRoXYUdrhI) | 3:33 |
 | 37 | [Witness Trees](https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Witness Trees](https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI) | 2:40 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aPQ8qySzLK.md) - [plain]
 | 94 | [Japan](https://open.spotify.com/track/0hREmEVmD1culIVeShGzwo) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Because I Wanted You to Know](https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8) | 2:14 |
 | 95 | [Good Things](https://open.spotify.com/track/1oqGOxkwnI7FbvRXJUVKER) | [Sam Kaiser](https://open.spotify.com/artist/36U2ZqoHfSHMraW6SCEOkw) | [Good Things](https://open.spotify.com/album/3a7WaTMrg19H0iabtvdL8n) | 2:19 |
 | 96 | [that'd be alright](https://open.spotify.com/track/0XQhs9ovprk2yw0QkDjevN) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Wanted You to Know](https://open.spotify.com/album/6uXhW6yZWHxBMeLlYTEpa6) | 2:58 |
-| 97 | [Houston TX](https://open.spotify.com/track/2WHNbtmjL3a2pKc4LfSlxR) | [Aidan Knight](https://open.spotify.com/artist/2CRrtAFY6WonETiQktbRe9) | [Aidan Knight](https://open.spotify.com/album/5mnIrOjFFqM101hK5yqr6W) | 5:17 |
+| 97 | [Houston TX](https://open.spotify.com/track/1YoTyrikfkZLGE4RHSylVt) | [Aidan Knight](https://open.spotify.com/artist/2CRrtAFY6WonETiQktbRe9) | [Aidan Knight](https://open.spotify.com/album/2vaKoQYr3h9UjH4QvziCRO) | 5:17 |
 | 98 | [Keeping Time](https://open.spotify.com/track/2dzeI4sQBhKRyWSGVZwpFa) | [Sam Lynch](https://open.spotify.com/artist/3gIjrIxD8n3BSYH9OqkHLL) | [Little Disappearance](https://open.spotify.com/album/0gMlHbUyWtTK9WjERopNjh) | 4:24 |
 | 99 | [Glenfern](https://open.spotify.com/track/1iMPbubqiY90hj16Y69d1D) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Total Freedom](https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3) | 4:30 |
 | 100 | [Full Size Render](https://open.spotify.com/track/0eNHKjlypkRo1v9HZ8UOdM) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Full Size Render](https://open.spotify.com/album/0n7Wt3JEnLARfOgdCFnxIC) | 2:58 |
 
-Snapshot ID: `MCw4YzFkODExMThhNWIxM2ZkNDQ2NDlmZTM5M2M1ODU1OWU5N2Y0ODBj`
+Snapshot ID: `MCw0Mjk3ODMzMGQxZjNhNThjN2NhNTNkYTVhMjgwYTQ5ZmNiMzA5NjY2`

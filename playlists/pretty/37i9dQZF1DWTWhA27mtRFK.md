@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 
 > Open your mind to these classics from the golden era of New Age music\. Deuter on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,330 likes - 56 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,416 likes - 56 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 | 30 | [The Space Between](https://open.spotify.com/track/7pes8uQmsmsHtFiG1eFsJM) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [The Space Between](https://open.spotify.com/album/4nsIXN8ladhBrdhXHeye51) | 21:53 |
 | 31 | [Crystals](https://open.spotify.com/track/1oHsdvHWOYUz06YLNDWyzp) | [Bob Ose](https://open.spotify.com/artist/2KFktC8T24X7duh0peZZrg), [Norman Beede](https://open.spotify.com/artist/1QjdtCSzyQLBmtnoHyWmxn), [Craig Kupka](https://open.spotify.com/artist/10BujleeZpW0oZ3fDeBRRR) | [Crystals: New Music for Relaxation \# 2](https://open.spotify.com/album/2r8goCcnxJ2CcaeYqd2omy) | 21:18 |
 | 32 | [Eternal Sanctuary](https://open.spotify.com/track/6rkQkcYunSvcHtvLLeSOj4) | [David Naegele](https://open.spotify.com/artist/5Nzwg655wLADsxvaAtfZ2C) | [Temple In The Forest](https://open.spotify.com/album/60nXN31mYNdpWr7UezKhdH) | 21:32 |
-| 33 | [Celestial Realms](https://open.spotify.com/track/2wUApbjkVj6ddkPAFK9cZx) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Lyghte](https://open.spotify.com/artist/7BM1CqDXHL4Yv65Q46Spen) | [Celestial Realms](https://open.spotify.com/album/6f6dlAEjzxDP5QBS6SLEyX) | 23:10 |
+| 33 | [Celestial Realms](https://open.spotify.com/track/0XkpZ7SkuW1nP1vdHGsoUi) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Lyghte](https://open.spotify.com/artist/7BM1CqDXHL4Yv65Q46Spen) | [Celestial Realms](https://open.spotify.com/album/64EncSoPGiFlC6neuIcqlW) | 23:10 |
 | 34 | [Spirit on the Wind](https://open.spotify.com/track/2JH4RHY09LArvLRfttqTbM) | [Tony O'Connor](https://open.spotify.com/artist/5f4UBNURyjjZJDqhLCCfmC) | [Seashore Sunrise](https://open.spotify.com/album/2h4Dm6JaQx93MWfKCsigGw) | 7:04 |
 | 35 | [Crystal Cave \(Back To Atlantis\)](https://open.spotify.com/track/6B5ZwrGDmo5IicuXcdQmTl) | [Upper Astral](https://open.spotify.com/artist/1julf4FkMiD87WvfmdHWfO) | [Crystal Cave \(Back To Atlantis\)](https://open.spotify.com/album/2oAhBnhaDkOSnoQLWcyNPU) | 21:00 |
 | 36 | [Catspaw](https://open.spotify.com/track/3jYDOxC24yLiJVgVlxRtLl) | [Emerald Web](https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe) | [Catspaw](https://open.spotify.com/album/3YHRVQOHWY8eHK3gOCUab7) | 5:12 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 | 55 | [Rising Sun](https://open.spotify.com/track/3eFvPXHvHhjCbi48GaDVGq) | [Kitaro](https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY) | [Oasis \[Remastered\]](https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA) | 6:24 |
 | 56 | [See My Wings Shining: Brow / 3rd Eye Chakra](https://open.spotify.com/track/55QGndKaKmUFSLGejUj6k1) | [Kay Gardner](https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3) | [A Rainbow Path](https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY) | 6:17 |
 
-Snapshot ID: `MCxiZDdkNTE3MmQ5MDcwODkzODgxYWJjYzE0MjYwYjEyZjA4NzlhYWM5`
+Snapshot ID: `MCwzYThkNzE0NTBjOTNlZDIyYmRiZjA5NDM2MWIwMDhjMzc3NjE1YTU0`

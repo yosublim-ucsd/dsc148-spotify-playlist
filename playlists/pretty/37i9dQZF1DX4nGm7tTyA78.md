@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 
 > Trap latino que alimenta tu espíritu\. Cover: Redimi2
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,814 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,858 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 | 12 | [Conoce la Historia \(Remix\) \[feat\. Farruko & D.O Zi\]](https://open.spotify.com/track/1RI4W1lTecxsEvjlTss5z0) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [D.OZi](https://open.spotify.com/artist/7a9gFzWS5uEHtbNNgA6xyM) | [Linea de Fuego](https://open.spotify.com/album/6taVNEBUo86nbycmzQc20G) | 3:39 |
 | 13 | [Como David \(feat\. Natan El Profeta\)](https://open.spotify.com/track/3JBCTm1dV5e9sNIGSSKp4S) | [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1), [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Espiritu Libre](https://open.spotify.com/album/7CxwXgHtZJfbslvTh938cb) | 4:11 |
 | 14 | [Lift](https://open.spotify.com/track/3zTlidxfvKnuLay7tmxTfI) | [Carlos Herrera Music](https://open.spotify.com/artist/6XyhP9ocGrfEqrIm6vHDYG), [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Lift](https://open.spotify.com/album/5t62fhTVsy040NJgla87v2) | 3:04 |
-| 15 | [No Existe](https://open.spotify.com/track/5ohKZEW3iWauevBwCBLq4R) | [Abdi](https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6) | [No Existe](https://open.spotify.com/album/7sEzZRAMzM53HiEfsqtG4J) | 4:10 |
+| 15 | [No Existe](https://open.spotify.com/track/4bK6jV6jIzoyksOipcKA4K) | [Abdi](https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6) | [No Existe](https://open.spotify.com/album/1LnSXoq8GRj8Mb1TWYa1Ro) | 4:10 |
 | 16 | [Dile Que No](https://open.spotify.com/track/6AGh6iGWH5fsDKkVlE59Uh) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Values](https://open.spotify.com/album/6IXTSDUaSGqqqA8eCzaQ4H) | 4:05 |
 | 17 | [No Fallará](https://open.spotify.com/track/2eX4TGFna9BzppcUxnPCww) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM) | [No Fallará](https://open.spotify.com/album/57gGB5imNcp3Z8YZF2cm7S) | 4:41 |
 | 18 | [A Quien Tu Representas?](https://open.spotify.com/track/5FjVDUvJtqwIRWabbgpUBA) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [Solo Rap](https://open.spotify.com/album/7Ll0LVmG75Z8N8QJbCOf9N) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 | 49 | [Estamos Al Dia](https://open.spotify.com/track/6HqjlnJHt5S7DHA1SPNVAq) | [Micky Medina](https://open.spotify.com/artist/7os2zbfBHSRid4kmvX3h78), [Dr\. P](https://open.spotify.com/artist/265ocUsmLZ1lY7CHNwVgCp) | [Estamos Al Dia](https://open.spotify.com/album/7dRrykg8AGKvveG2ikLoRw) | 3:24 |
 | 50 | [La Cuerda Floja](https://open.spotify.com/track/4RrEOgcIjTrcOeLzdHdMOn) | [Zoprano](https://open.spotify.com/artist/2mdcXhVmknCqnJU4M5ofyl), [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [La Cuerda Floja](https://open.spotify.com/album/7ztgUSvjFg8vQB9YGXoqWk) | 3:53 |
 
-Snapshot ID: `MCw2NmRlYzhkZDlkMjVjOTIwNWI1YzIxMmU3OTYxMDZjYmEyZjEwZWJk`
+Snapshot ID: `MCwwMzkzNjM5Njc2M2RiNzQ0NDZmZDlhYjIxYTMxZWRkZjgyNjc5MDZl`

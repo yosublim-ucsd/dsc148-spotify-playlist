@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Adi Oasis
 
-305 songs - 18 hr 5 min
+306 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,8 @@
 | [Holy Ghost](https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 4:36 | 2022-07-15 |  |
 | [How Dare You](https://open.spotify.com/track/1Pe0OdQh4BNCrO3LLfRERx) | [Michael Minelli](https://open.spotify.com/artist/0E1dRyvTHusqYjhbTm2skL), [Oswin Benjamin](https://open.spotify.com/artist/31pIxyVveAaYS1O5K2lNEF) | [How Dare You](https://open.spotify.com/album/2mSX1XzNTijOu8oYk1f4Kf) | 3:22 | 2023-03-03 |  |
 | [How Happy](https://open.spotify.com/track/5e6B2DLbg9ISk7aXbabnpG) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [How Happy](https://open.spotify.com/album/4Dzbfu5IH9G5I0CpqZVutY) | 4:00 | 2023-01-23 | 2023-04-15 |
-| [How Hard](https://open.spotify.com/track/0lolsWqQe1StrLfvEtlLlt) | [Zenizen](https://open.spotify.com/artist/1MaWvJ5Y0Na24KMG79WxDU) | [How Hard](https://open.spotify.com/album/0QxwUc3t7AWzTvTXzFdq7Y) | 4:11 | 2022-06-03 |  |
+| [How Hard](https://open.spotify.com/track/0lolsWqQe1StrLfvEtlLlt) | [Zenizen](https://open.spotify.com/artist/1MaWvJ5Y0Na24KMG79WxDU) | [How Hard](https://open.spotify.com/album/0QxwUc3t7AWzTvTXzFdq7Y) | 4:11 | 2022-06-03 | 2023-04-30 |
+| [How Hard](https://open.spotify.com/track/2JOSfWc65aBarFXcxRxf1n) | [Zenizen](https://open.spotify.com/artist/1MaWvJ5Y0Na24KMG79WxDU) | [P.O.C \(Proof of Concept\)](https://open.spotify.com/album/6wfl3Oks8Uja2rSHml7WEK) | 4:11 | 2022-06-03 |  |
 | [HUH?](https://open.spotify.com/track/2hWOnCuZo2Js7o0UbDa8m4) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [HUH?](https://open.spotify.com/album/5deDzBsXuhqGnI4eT0z05t) | 2:43 | 2021-06-18 | 2022-01-29 |
 | [Humpty Dumpty](https://open.spotify.com/track/4hpVZXbR64gA01UCwFifdT) | [Tendavillage](https://open.spotify.com/artist/1nOm8sUi8M1dyIAJ8B5SRc) | [Humpty Dumpty](https://open.spotify.com/album/2tgHFkodm0ydkaJPgrd51k) | 2:50 | 2022-11-25 |  |
 | [I Ain't Perfect](https://open.spotify.com/track/5aFmPqvtEPF8qYOJQZJ1Er) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [FALL](https://open.spotify.com/album/7z0evm6hjFVuDzigZkB33b) | 3:18 | 2022-09-30 | 2022-11-26 |

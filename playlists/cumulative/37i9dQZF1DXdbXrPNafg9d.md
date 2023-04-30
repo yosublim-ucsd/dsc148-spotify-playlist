@@ -4,7 +4,7 @@
 
 > The best new indie songs every Friday\. Cover: The National
 
-5,200 songs - 12 day 16 hr 41 min
+5,202 songs - 12 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4663,7 +4663,8 @@
 | [True Blue \(feat\. Angel Olsen\)](https://open.spotify.com/track/4iALA6dAUWWjONe6pPPSGs) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 5:48 | 2019-06-21 | 2019-08-13 |
 | [True Love](https://open.spotify.com/track/67qECmW0iXpWA7tnClskbH) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [True Love](https://open.spotify.com/album/7h3a2tSmHjJXXqnQGbiuTf) | 4:11 | 2021-07-17 | 2021-08-28 |
 | [True love \(feat\. 070 Shake\)](https://open.spotify.com/track/6PdUV3DjQAT4Hk9Hz7UNZ5) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [True love \(feat\. 070 Shake\)](https://open.spotify.com/album/21ZlnuYMvzSLNOAYWH318k) | 5:47 | 2023-04-21 |  |
-| [True Love is Freedom](https://open.spotify.com/track/1uE7iaPkG6UOWGetsxD5zX) | [Jimmy Whispers](https://open.spotify.com/artist/0fhv5pwSh099mHYF9b3Cpn) | [True Love is Freedom](https://open.spotify.com/album/7qDv226QcAOMybIpzNequM) | 1:47 | 2023-04-07 |  |
+| [True Love is Freedom](https://open.spotify.com/track/03gQD1vSbHbBmfSvpaA9C4) | [Jimmy Whispers](https://open.spotify.com/artist/0fhv5pwSh099mHYF9b3Cpn) | [True Love is Freedom](https://open.spotify.com/album/0lqjcEcxb2swqcQfRx0OAU) | 1:47 | 2023-04-07 |  |
+| [True Love is Freedom](https://open.spotify.com/track/1uE7iaPkG6UOWGetsxD5zX) | [Jimmy Whispers](https://open.spotify.com/artist/0fhv5pwSh099mHYF9b3Cpn) | [True Love is Freedom](https://open.spotify.com/album/7qDv226QcAOMybIpzNequM) | 1:47 | 2023-04-07 | 2023-04-30 |
 | [True Love Will Find You In The End \(Marc Riley \- BBC Radio 6 Music Session\) \- Live](https://open.spotify.com/track/7j7U5N57m22oLeAjTNY4Qa) | [Daniel Johnston](https://open.spotify.com/artist/1jeYbk5eqo6wgsQPjLeU5w) | [Love Lives Forever \(BBC Sessions 2003 \- 2011\)](https://open.spotify.com/album/7FMrGhU4N8ANuRjf7wsVxu) | 1:56 | 2023-03-17 | 2023-04-29 |
 | [True Seekers](https://open.spotify.com/track/6aNQhBtd7xz2c2Vi3cISMC) | [Sleigh Bells](https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh) | [True Seekers](https://open.spotify.com/album/65PkwvvpGhX6FWVUGHZ59j) | 3:26 | 2021-09-11 | 2021-11-20 |
 | [Truth](https://open.spotify.com/track/0gOA1SWEZhRECJRguyxFFZ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Truth](https://open.spotify.com/album/5l710vNzBqEqWo7KaXvBr1) | 2:51 | 2021-07-31 | 2021-09-18 |
@@ -4873,7 +4874,8 @@
 | [wasting time](https://open.spotify.com/track/4DCUvYul4AjVI3s8j7XSuJ) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [wasting time](https://open.spotify.com/album/682L2wJSnNBTcXT3qQG4VL) | 2:15 | 2021-05-22 | 2021-07-17 |
 | [Watching Cartoons](https://open.spotify.com/track/3IIZJE9HWQM0dkBBwL8TSW) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Watching Cartoons](https://open.spotify.com/album/0gvjWAOxM448sbpxLtBFHl) | 3:28 | 2021-07-24 | 2021-09-04 |
 | [Watching Strangers Smile](https://open.spotify.com/track/2fZ2u0nLos8nBjS4n3IDKl) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Watching Strangers Smile](https://open.spotify.com/album/2FbdRiyp61bzj01wQmtiDA) | 3:34 | 2022-01-14 | 2022-03-12 |
-| [Watching The Credits](https://open.spotify.com/track/71qgKwa2bSdb2gB6Qob5qT) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Watching The Credits](https://open.spotify.com/album/4wcu9s9C12dBnYAvpeK9QY) | 3:15 | 2023-03-31 |  |
+| [Watching The Credits](https://open.spotify.com/track/2KbfXyUl8eusGT4pWwKroB) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Watching The Credits](https://open.spotify.com/album/3jRcvMTnKCMfIiA1TevG9s) | 3:15 | 2023-03-31 |  |
+| [Watching The Credits](https://open.spotify.com/track/71qgKwa2bSdb2gB6Qob5qT) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Watching The Credits](https://open.spotify.com/album/4wcu9s9C12dBnYAvpeK9QY) | 3:15 | 2023-03-31 | 2023-04-30 |
 | [water comes out of my eyes](https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [WATER COMES OUT OF MY EYES](https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk) | 3:22 | 2023-02-24 | 2023-03-25 |
 | [Water Me Down](https://open.spotify.com/track/79ap7oTftmfgDUBUsUcYqt) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Water Me Down](https://open.spotify.com/album/4kcsdigEl9ascAJ6a2b2g9) | 4:32 | 2019-08-30 | 2019-10-18 |
 | [Waterfall](https://open.spotify.com/track/14rcyJNQ4syVIYPTIw33Kj) | [Quarter\-Life Crisis](https://open.spotify.com/artist/3qnQaCIYlxiFNyd4oIwuKW), [Charlie Martin](https://open.spotify.com/artist/4FAFa9p2vpYWRZdUpcAKH4), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Waterfall](https://open.spotify.com/album/6CKxLNZYJ1xBMUFv0pffvH) | 2:23 | 2020-10-24 | 2020-11-13 |

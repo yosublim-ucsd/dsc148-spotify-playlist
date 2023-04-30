@@ -2181,6 +2181,48 @@
     },
     {
       "album": {
+        "name": "LIFECYCLES Volumes 1 & 2: Now! and Forevermore Honoring Bobby Hutcherson",
+        "url": "https://open.spotify.com/album/5hQ1D0WIcL8DMQJp5jmSUe"
+      },
+      "artists": [
+        {
+          "name": "Brian Blade",
+          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
+        },
+        {
+          "name": "Jon Cowherd",
+          "url": "https://open.spotify.com/artist/1CfUXWkyKLaI4IyJ6ul9NE"
+        },
+        {
+          "name": "Myron Walden",
+          "url": "https://open.spotify.com/artist/5wTziSHywk2CtCL463tSNR"
+        },
+        {
+          "name": "Monte Croft",
+          "url": "https://open.spotify.com/artist/2lJS048alI10juGK1Z9J49"
+        },
+        {
+          "name": "Doug Weiss",
+          "url": "https://open.spotify.com/artist/1saP3owFxRlgBXeJkD6oaq"
+        },
+        {
+          "name": "Rog\u00e9rio Boccato",
+          "url": "https://open.spotify.com/artist/4yknTJEHIckjyEZPZLTKeJ"
+        },
+        {
+          "name": "John Hart",
+          "url": "https://open.spotify.com/artist/3ndHyLdOcwpsVn1FCxIrLV"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370456,
+      "name": "Black Heroes",
+      "url": "https://open.spotify.com/track/2Rkk6jgH8P7ae6UDjALEGF"
+    },
+    {
+      "album": {
         "name": "Black Heroes",
         "url": "https://open.spotify.com/album/3qvyDRcMmeG20MzB5X6FZx"
       },
@@ -2216,7 +2258,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 370456,
       "name": "Black Heroes",
       "url": "https://open.spotify.com/track/7Mn1C8ErqynVQAqWmXms5Q"
@@ -3738,10 +3780,36 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 171830,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/2JFT2hMLN4Fiv49wGS8uK3"
+    },
+    {
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/2FPyGSR5ub2i6qSRrUKSNZ"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Liston Smith",
+          "url": "https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171830,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/61fBVMxqOiNiZb7i36glEU"
     },
     {
       "album": {
@@ -5740,10 +5808,36 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 382122,
       "name": "Gaia",
       "url": "https://open.spotify.com/track/1knF4LfehISZq9CuA6JaSl"
+    },
+    {
+      "album": {
+        "name": "Quietly",
+        "url": "https://open.spotify.com/album/4aNDswPAhlIuuz6jzhKieO"
+      },
+      "artists": [
+        {
+          "name": "Antonio Zambrini",
+          "url": "https://open.spotify.com/artist/6TW82eCj0y0x0l5lyP77RL"
+        },
+        {
+          "name": "Jesper Bodilsen",
+          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
+        },
+        {
+          "name": "Martin Maretti Andersen",
+          "url": "https://open.spotify.com/artist/1pjHY4vNthS2YoK8R4Ty0G"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382122,
+      "name": "Gaia",
+      "url": "https://open.spotify.com/track/5T1NTaINxEWzvXCUE3Wz0S"
     },
     {
       "album": {
@@ -9514,10 +9608,36 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 287513,
       "name": "Lviv",
       "url": "https://open.spotify.com/track/0jCHD9Nasx1f0MSUW3Fi8q"
+    },
+    {
+      "album": {
+        "name": "Lars Danielsson Symphonized",
+        "url": "https://open.spotify.com/album/04nTQzr7B9FMCEmyyQianR"
+      },
+      "artists": [
+        {
+          "name": "Lars Danielsson",
+          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
+        },
+        {
+          "name": "Gothenburg Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
+        },
+        {
+          "name": "Peter Nordahl",
+          "url": "https://open.spotify.com/artist/5AMeI7M3JtXhriDpCqX1oK"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287513,
+      "name": "Lviv",
+      "url": "https://open.spotify.com/track/12KnKPcZ4LIqwAAwbgZYkC"
     },
     {
       "album": {
@@ -11470,7 +11590,7 @@
     {
       "album": {
         "name": "Phil Ranelin and Wendell Harrison JID016",
-        "url": "https://open.spotify.com/album/4hx8uwMlwCvGstCOQBt2bw"
+        "url": "https://open.spotify.com/album/5pOeJp4lMFkrQVzIJvXPgl"
       },
       "artists": [
         {
@@ -11493,6 +11613,36 @@
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 210473,
+      "name": "Open Eye",
+      "url": "https://open.spotify.com/track/0vYJOQzSOVD53UmRAP08aH"
+    },
+    {
+      "album": {
+        "name": "Phil Ranelin and Wendell Harrison JID016",
+        "url": "https://open.spotify.com/album/4hx8uwMlwCvGstCOQBt2bw"
+      },
+      "artists": [
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        },
+        {
+          "name": "Phil Ranelin",
+          "url": "https://open.spotify.com/artist/3baRh0WashSSiDbLNEHar1"
+        },
+        {
+          "name": "Wendell Harrison",
+          "url": "https://open.spotify.com/artist/5yBslrSWPfKklWwZbzLHka"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 210473,
       "name": "Open Eye",
       "url": "https://open.spotify.com/track/36QW6WvdtzaCY6EmcjFtS2"
@@ -16194,10 +16344,32 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 377999,
       "name": "the ordinary is ordinary because it ordinarily repeats",
       "url": "https://open.spotify.com/track/449OoXofxirwe5w2YqRrQM"
+    },
+    {
+      "album": {
+        "name": "portrait of a dog",
+        "url": "https://open.spotify.com/album/6SsOunBXV82rQ7xhiQlYi5"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377999,
+      "name": "the ordinary is ordinary because it ordinarily repeats",
+      "url": "https://open.spotify.com/track/4o3MqrMKZnku8PZTVZEPeR"
     },
     {
       "album": {

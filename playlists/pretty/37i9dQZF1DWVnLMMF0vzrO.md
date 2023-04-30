@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 
 > All the music from Narcos: Mexico, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,829 likes - 166 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,835 likes - 166 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 | 92 | [Cruz del olvido](https://open.spotify.com/track/0kTrExIKA6rolKz46ecl2X) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [100th Birthday Celebration](https://open.spotify.com/album/5XP2Fpd4tu3ihRLH7tmocf) | 4:35 |
 | 93 | [El Choclo \- Tango](https://open.spotify.com/track/2Zp0GqG1uz0gM3eAYkKxi6) | [Angel Villoldo](https://open.spotify.com/artist/58zqZbO02GoqvH117YPH5D), [Tango Orchester Alfred Hause](https://open.spotify.com/artist/6YLb06J2GLzyur8IzlCmYq) | [Tango](https://open.spotify.com/album/4ESZIDCyqwZKLDNw70eDMt) | 2:40 |
 | 94 | [La Cumparsita](https://open.spotify.com/track/6tJ0zwyKkJ9pWXN0XWqLqY) | [Gerardo Matos Rodriguez](https://open.spotify.com/artist/5DeRKZrVXp7WP1Y440UwLc), [Orquesta Típica Argentina](https://open.spotify.com/artist/7EifXFUcvp1uAGiKw1Aqek), [Oscar Roma](https://open.spotify.com/artist/2TwhcAoTYkBXMdBBTNVtrt) | [Tango, Tango](https://open.spotify.com/album/7ncoJht0mYFlKMALp2yqf5) | 3:13 |
-| 95 | [Santa Marta Cumbia](https://open.spotify.com/track/2ggYvsfrHppxgQNu59zKOq) | [Cantina Y Su Combo](https://open.spotify.com/artist/4TPybqX1I0ZB2a91g4tY8S) | [Cartagena! Curro Fuentes & The Big Band Cumbia and Descarga Sound of Colombia 1962\-72](https://open.spotify.com/album/2f2jyRaOT92BCf49yjyRbz) | 3:30 |
+| 95 | [Santa Marta Cumbia](https://open.spotify.com/track/2O3NdhVjt0cuWR4teNYOsZ) | [Cantina Y Su Combo](https://open.spotify.com/artist/4TPybqX1I0ZB2a91g4tY8S) | [Cartagena! Curro Fuentes & The Big Band Cumbia and Descarga Sound of Colombia 1962\-72](https://open.spotify.com/album/0UbcmD65kthpuyIIYajOYY) | 3:30 |
 | 96 | [Elegance](https://open.spotify.com/track/5vaQ9tEbohLSv6f7Jcv2CH) | [James Clarke](https://open.spotify.com/artist/5ooAHetwsdFoL1RaRcfDXG) | [Kpm 1000 Series: Tender Emotions](https://open.spotify.com/album/6RQJkrZ2FtyeTNCnAhFkSW) | 2:54 |
 | 97 | [Contigo En La Distancia](https://open.spotify.com/track/7McA0oHR0aZlIuPzNzo7ZI) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Anthology](https://open.spotify.com/album/3ukST4dz4n39IwgDiFTk8x) | 3:29 |
 | 98 | [No Me Hables De Ese Amor](https://open.spotify.com/track/29BmxX9VIOEAz5k3IYslHF) | [Maria Alma](https://open.spotify.com/artist/7d3Vpkzns4fQALOYHOw5co) | [Boleros Inolvidables](https://open.spotify.com/album/0lpcdP4I1pGfMbeOZ7QPAK) | 2:56 |
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 | 165 | [Rock And Roll Never Forgets \- Live/Remastered](https://open.spotify.com/track/7wfMo45fLnq1fnmghB5388) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Nine Tonight \(Live/Remastered\)](https://open.spotify.com/album/3IopzrrHrPPzEEp28YtP35) | 3:35 |
 | 166 | [Dejé la puerta abierta](https://open.spotify.com/track/3EfbEKy4d9yQu7N53pSdfa) | [Efraín Ríos](https://open.spotify.com/artist/1QFw9RTzNqQ66UEJoNfEZ4) | [Antologia de Cuba](https://open.spotify.com/album/3AFDWZtcXQbPOfnk9r6Bag) | 2:52 |
 
-Snapshot ID: `MCw3ODgxNjBhMjhiYjFkMTZmZjYyNmVhZDEzMzQwZjE3MDhlZTMzZjdl`
+Snapshot ID: `MCw5NWE4ZDhmZWY3MzI4ZGNjNDZlNGQzNjQzMzM2YTliMjk3NjViZTIz`

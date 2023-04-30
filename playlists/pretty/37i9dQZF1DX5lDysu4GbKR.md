@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Relax to these acoustic soul songs\. Cover: Jacob Banks
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,880 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,009 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 99 | [None For You](https://open.spotify.com/track/2mcWClBQk8SbJpL9aMMNir) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Renaissance](https://open.spotify.com/album/1E1voIf1Str4mMaAZXegXY) | 3:32 |
 | 100 | [Grow \- Live acoustic at Concertgebouw Amsterdam](https://open.spotify.com/track/75vCjMFYcbmTsnXR1zSXVp) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Grow \(Live\)](https://open.spotify.com/album/5lK4gRbDz3bjZTMY8alRZa) | 3:20 |
 
-Snapshot ID: `MCw0ZTY4MTA3NmU0NzgwZDY3NzE4NmNiMWQwMWVlY2JhYTg2MzRlNDli`
+Snapshot ID: `MCw1ZDBmZTY2ZTU2YjQyYTY0YzZhYThlMTJhNDAwMjYyMmM5NGVlNWZk`

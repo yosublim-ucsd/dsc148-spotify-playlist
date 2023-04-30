@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,115 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,227 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 9 | [Blackout](https://open.spotify.com/track/0B0Xu2ih8fWpcwyxAt1c7m) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Blackout](https://open.spotify.com/album/55ZLjifyJc6wpZ07D2DcLV) | 3:09 |
 | 10 | [Still Movin' \(feat\. Fivio Foreign & Jay Critch\)](https://open.spotify.com/track/14feWRgz9wh0Z1OIFXcJGh) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [Still Movin' \(feat\. Fivio Foreign & Jay Critch\)](https://open.spotify.com/album/6vEioFzvVWKZxcrXEpDAUZ) | 2:22 |
 | 11 | [Act Bad](https://open.spotify.com/track/5uzTQQDcW2BbTyPsOoZreP) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Act Bad](https://open.spotify.com/album/2F7hxeskVPFaHDqUT7lfz2) | 2:40 |
-| 12 | [Toxic Ish](https://open.spotify.com/track/13IyPWwTjRTWW62z6L349L) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Toxic Ish](https://open.spotify.com/album/6wdCYDNMmP5C8cdePXGmWh) | 3:07 |
+| 12 | [Toxic Ish](https://open.spotify.com/track/13IyPWwTjRTWW62z6L349L) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Toxic Ish](https://open.spotify.com/album/6wdCYDNMmP5C8cdePXGmWh) | 3:23 |
 | 13 | [SILVER TOOTH\. \(with A$AP Ferg\)](https://open.spotify.com/track/7fhcDui4AKQydfFoXILsso) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [SILVER TOOTH.](https://open.spotify.com/album/41eT1d6A24YhZ3zAwnYXUY) | 2:22 |
 | 14 | [Hot Sauce](https://open.spotify.com/track/0Mtk1CAT9lAISJjvBY8CbT) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Hot Sauce](https://open.spotify.com/album/6jeeHsOvUDczcJ17R7ozlc) | 2:57 |
 | 15 | [Turn It Up](https://open.spotify.com/track/6ou2irr0bEoGNaTejrOEBl) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Turn It Up](https://open.spotify.com/album/6A0KCC9AaG4ZTK8KhfxRVE) | 2:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 99 | [Fools Fall N Love \(feat.YoungBoy Never Broke Again\)](https://open.spotify.com/track/0SflkMqNJi87xQnbfOcZ36) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Fools Fall N Love \(feat.YoungBoy Never Broke Again\)](https://open.spotify.com/album/0ltJlAUpxDZunfWQmFFrMp) | 3:22 |
 | 100 | [RED LIGHT](https://open.spotify.com/track/5BXG1rCIsVSCzTUkI01LM9) | [Neek Bucks](https://open.spotify.com/artist/43khwEflLhLeFZ6gx8QIzc) | [BLESSED TO THE MAX](https://open.spotify.com/album/6PZYnisiLnhBKxW7TxMauM) | 2:04 |
 
-Snapshot ID: `MCxhODE2ZDBhYWM3ODY0ODcxOTZjN2JmZmE4NDk4NmQ1OGUwMzYwYTYx`
+Snapshot ID: `MCwyYzBjY2Y5MmE5MTFiMzMwZjM3ZDI3YWYyYjM2YWZkZWQ0MDBkN2Y4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 
 > The best Ambient tracks from 2010 to 2019.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,079 likes - 105 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,102 likes - 105 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,11 +107,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 | 97 | [Kae](https://open.spotify.com/track/033Vg3im3XjMERhAf180cN) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz) | [AUN](https://open.spotify.com/album/29zcWtCKrowX82m30Ta6Lh) | 2:11 |
 | 98 | [Walking in a spiral towards the house: Side D](https://open.spotify.com/track/4F8HlqT6gkJDytZwMwhtGE) | [Nivhek](https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl) | [After its own death / Walking in a spiral towards the house](https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB) | 12:28 |
 | 99 | [Hand Covers Bruise](https://open.spotify.com/track/1v0uVPU6BWcbog5BiWLWVa) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [The Social Network](https://open.spotify.com/album/1ijkFiMeHopKkHyvQCWxUa) | 4:18 |
-| 100 | [Submersible](https://open.spotify.com/track/2fJygKixDmVgmsYAjn9aNq) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Replica](https://open.spotify.com/album/4xgY6533C7VK4HEeojrgc1) | 3:50 |
+| 100 | [Submersible](https://open.spotify.com/track/0qsVyB8EPHAlId8v3jqpcg) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Replica](https://open.spotify.com/album/4X5lHc7Fw8PPTbQAC37wvA) | 3:50 |
 | 101 | [Live Room Out](https://open.spotify.com/track/16tcBvtiZHoWfjzTyL4wOx) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Virgins](https://open.spotify.com/album/3GzIvKYXNOBViT8TveArjx) | 2:37 |
 | 102 | [Hear Me Out](https://open.spotify.com/track/6bxilo3FjnLhbk8IzhyVO4) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [For Those Of You Who Have Never \(And Also Those Who Have\)](https://open.spotify.com/album/57o6rhS5v8qPeRPzrNRWF9) | 6:07 |
 | 103 | [Sketch 3](https://open.spotify.com/track/3sfQoqjzyrDpI8NXlZ2ddX) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Dropped Pianos](https://open.spotify.com/album/3Slfl3Ui9sRXobar6rgbKs) | 1:20 |
 | 104 | [Analog Paralysis, 1978](https://open.spotify.com/track/3guEVTjNJHoR5D7GJRZMs5) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Ravedeath, 1972](https://open.spotify.com/album/6Iu8toVsvCc3I4INxYiVIy) | 3:51 |
 | 105 | [Weightless Part 6](https://open.spotify.com/track/1Mua0g96hUldJWj00GDsel) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Weightless \(Ambient Transmission Vol\. 2\)](https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR) | 5:10 |
 
-Snapshot ID: `MCw3MTQ4YjhkNzdlY2Q3NTFjNjM5OGJiYjgyN2RiZmVjMjk0YzAzNGNh`
+Snapshot ID: `MCwyM2JjNjA4NDY3ODQ4ZmY0YTJjOWIyY2Y5Zjg2YTEwY2JhZDgxMzI0`

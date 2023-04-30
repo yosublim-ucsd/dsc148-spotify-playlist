@@ -4,7 +4,7 @@
 
 > Vintage soul gems from the archives.
 
-182 songs - 10 hr 7 min
+183 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [I Found You](https://open.spotify.com/track/61xfrjhEtN0jfYtcmzPY2F) | [Yvonne Fair](https://open.spotify.com/artist/4mGB0olhR5RpsEZWn0cqA8), [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Roots Of A Revolution](https://open.spotify.com/album/6S0JoGYvVclOkz3zplzqT0) | 2:29 | 2021-04-23 |  |
 | [I Hear the Love Chimes](https://open.spotify.com/track/2k5Boo1pEuIiMA88NxGA8V) | [Syl Johnson](https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL) | [Diamond in the Rough](https://open.spotify.com/album/0hBlULfjPTKngZsvbe3qpE) | 2:44 | 2021-04-23 |  |
 | [I Heard It in a Love Song](https://open.spotify.com/track/2pcuQmsar5y3SUF0ifZ1FH) | [McFadden & Whitehead](https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY) | [I Heard It in a Love Song](https://open.spotify.com/album/6oRiJn7AHJjzFZVpWqCnOY) | 5:11 | 2021-07-20 |  |
-| [I Learned the Hard Way](https://open.spotify.com/track/0NZRAjB2V4dIjZpLZJQgpu) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [I Learned the Hard Way](https://open.spotify.com/album/4FZCwaWGcFqd2CBiJUcHnx) | 3:46 | 2022-05-11 |  |
+| [I Learned the Hard Way](https://open.spotify.com/track/0NZRAjB2V4dIjZpLZJQgpu) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [I Learned the Hard Way](https://open.spotify.com/album/4FZCwaWGcFqd2CBiJUcHnx) | 3:46 | 2022-05-11 | 2023-04-30 |
+| [I Learned the Hard Way](https://open.spotify.com/track/6EfzMRn24usWjFgykZWLl2) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [I Learned the Hard Way](https://open.spotify.com/album/7tsqjPwOhgPOWHgp9RHYi6) | 3:46 | 2022-05-11 |  |
 | [I Learned the Hard Way](https://open.spotify.com/track/4yGKuj0prNvMW7ikeXv57x) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Daptone Summer Jams](https://open.spotify.com/album/5SXUzvribtNUgJ5UXsoU1H) | 3:47 | 2021-04-23 | 2022-07-29 |
 | [I Love You Secretly](https://open.spotify.com/track/1JyKnipwxepbTo7OeqqO17) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND), [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On \(Deluxe Edition\)](https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC) | 4:18 | 2021-04-23 |  |
 | [I Miss You \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5y0yvFr9dAsT1ycNUYSRPl) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Harold Melvin & The Blue Notes \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef) | 8:38 | 2021-07-20 |  |

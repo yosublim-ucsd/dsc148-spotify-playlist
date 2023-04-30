@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Thomas Rhett
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,924 likes - 160 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,906 likes - 160 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 | 93 | [O Holy Night](https://open.spotify.com/track/2HAmFs9GJRSAoPtASAWtbR) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [The Manger](https://open.spotify.com/album/07eR5Q7zlJXjotNfqekAjH) | 4:39 |
 | 94 | [Hallelujah](https://open.spotify.com/track/2olKV1Kl0yp2WdK78jcFsR) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [My Gift](https://open.spotify.com/album/1wI9NGtQCnhyweuVACpXW4) | 4:35 |
 | 95 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/3MO82wb69P2lE7FQvIRDDQ) | [Raleigh Keegan](https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV) | [Rockin' Around The Christmas Tree](https://open.spotify.com/album/3Wz1J3YPHUOdFyuhbEdrAg) | 2:20 |
-| 96 | [Little Saint Nick](https://open.spotify.com/track/71oTDaEl35vkVSwAdyBA9L) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT), [Jay DeMarcus](https://open.spotify.com/artist/2rMyXBuAzlrspJyYxQZ8m0) | [Little Saint Nick](https://open.spotify.com/album/4dtVpeSNfNnpgFWe4DshBt) | 2:13 |
+| 96 | [Little Saint Nick](https://open.spotify.com/track/5ZGcZgUvxz7bKwu7lFpL9B) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT), [Jay DeMarcus](https://open.spotify.com/artist/2rMyXBuAzlrspJyYxQZ8m0) | [Little Saint Nick](https://open.spotify.com/album/3KZWzf3bfYhhdNJhC01JLt) | 2:13 |
 | 97 | [Away in a Manger](https://open.spotify.com/track/6lSuavpi5fs9l8slSwmCur) | [Love and Theft](https://open.spotify.com/artist/03a5eVjzFyQlR4XyVSwt4t) | [Away in a Manger](https://open.spotify.com/album/57Iv6lTdnyxETaQUUmFT95) | 3:46 |
 | 98 | [Back Home Christmas](https://open.spotify.com/track/2rEVJTkweG9QW6HPXyDJI4) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Back Home Christmas](https://open.spotify.com/album/14nKYXwTDf1eZoEdnWD501) | 3:39 |
 | 99 | [Run Run Rudolph](https://open.spotify.com/track/0KdzwSzDcvf8i11ulIeSM7) | [Brandon Lay](https://open.spotify.com/artist/0H7XMkYygCyZGg8o1uqoZv) | [Run Run Rudolph](https://open.spotify.com/album/13ELjhhwxJub11LPNqnm9i) | 2:47 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 | 159 | [A Winter Wonderland](https://open.spotify.com/track/4nAUnmAleft0hDpqmdu3FR) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [A Winter Wonderland](https://open.spotify.com/album/69ZuHdZChWsNWYbOjY0aGl) | 3:47 |
 | 160 | [Glow](https://open.spotify.com/track/4nEJzW7MkSF8ojY7WJnoPt) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 3:18 |
 
-Snapshot ID: `MCwwMzQwYWFjYjA4ZmZmNjQ0ZDE2NGY2MDNhZTM4MmUyOTExNzU2NTZl`
+Snapshot ID: `MCwwMTE1YmE3MmZmOWY0N2M5MTZiZmM4MzYxMzE1ZTc2Y2U5ZDk3ZjRi`

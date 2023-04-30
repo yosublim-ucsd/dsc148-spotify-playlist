@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,109 likes - 120 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,156 likes - 120 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 36 | [Carbon](https://open.spotify.com/track/2gLPb0qvByFYlL6HAkaToU) | [Zu](https://open.spotify.com/artist/5S2qz9t9m2OSBtSLZz4tMx) | [Carboniferous](https://open.spotify.com/album/21ttx8IAdJrq2a9oz2HMNC) | 4:24 |
 | 37 | [The Life Divine](https://open.spotify.com/track/3yeTtLm3XjsQkmSdRnzhrq) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Love Devotion Surrender](https://open.spotify.com/album/0Z6j1FSc3BEyS55TcPms4g) | 9:28 |
 | 38 | [Never Ending](https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Never Ending](https://open.spotify.com/album/0SxjpfNg8pDyOEerHOa9uC) | 2:49 |
-| 39 | [Stadium Jazz](https://open.spotify.com/track/7B5p2XX9Prn5OkI5mye6gE) | [Donny McCaslin](https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M) | [Casting for Gravity \(feat\. Jason Lindner, Tim Lefebvre & Mark Guiliana\)](https://open.spotify.com/album/60GZJyntKspBvsw7J9TTki) | 7:17 |
+| 39 | [Stadium Jazz](https://open.spotify.com/track/5jmC7XRZ7iPQS25o3iGgJI) | [Donny McCaslin](https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M) | [Casting for Gravity \(feat\. Jason Lindner, Tim Lefebvre & Mark Guiliana\)](https://open.spotify.com/album/34D47CVvLiw6yctVw1kzER) | 7:17 |
 | 40 | [Extraction](https://open.spotify.com/track/00xDcOBS1NwrxZlh3XfVr6) | [Greg Howe](https://open.spotify.com/artist/2dunvwAyryLzQqXUNlLoCV), [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj), [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn) | [Extraction](https://open.spotify.com/album/7jWTOy2PAD52QCw7P4rRKT) | 6:13 |
 | 41 | [Tabula Rasa](https://open.spotify.com/track/3mfrB3krsm3e771bMzL2xQ) | [Morgan Guerin](https://open.spotify.com/artist/17j0vWqj5tc8GO1U3izp8d) | [The Saga](https://open.spotify.com/album/6HL8QJZjhiAL9dHGKUgD6o) | 8:04 |
 | 42 | [The Audacity \(feat\. Anomalie\)](https://open.spotify.com/track/2y0w6lpY8SGTuY8LglChi6) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Remember That You Will Die](https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5) | 2:24 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 119 | [Is Once Enough?](https://open.spotify.com/track/1QjhEkt6IeNGqM9elDpXWG) | [Jean\-Luc Ponty](https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr) | [Aurora](https://open.spotify.com/album/2Ap30a1TU1XxYbx2VCyPKn) | 4:59 |
 | 120 | [Earthrise](https://open.spotify.com/track/6piC8NdaOgfjcQ9jM1Od3S) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [Mirage](https://open.spotify.com/album/33620GQZTMEMzOUZRMkBHf) | 6:41 |
 
-Snapshot ID: `MCw4NzNmZDJlOGY0YTg0NWRmZWM2ODFlMGM0MzJjMjExMjE1ODllZjY1`
+Snapshot ID: `MCwzYjc0YjRjZDdkODE1MTY5Y2UxMjYwMWI1ODIzOGE0YWJlMTQwZGY4`

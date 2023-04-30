@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4H3NUOwVLXj.md) - [plain]
 
 > Favorites, hits and deep cuts: this is Francis Albert Sinatra, one of the most popular and influential musical artists of the 20th century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,091,086 likes - 54 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,091,360 likes - 54 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4H3NUOwVLXj.md) - [plain]
 | 53 | [All Through The Day](https://open.spotify.com/track/5ZG1JwCKyUWBRizunThX1i) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Columbia Years \(1943\-1952\): The Complete Recordings: Volume 3](https://open.spotify.com/album/5BoSBPiaIMAPs87jvtAvFi) | 3:00 |
 | 54 | [Watertown \- 2022 Mix](https://open.spotify.com/track/15AD0dVRa56knhKRVJrhtY) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Watertown \(Deluxe Edition / 2022 Mix\)](https://open.spotify.com/album/1r6CYUhkI07HNT5ONg6AqL) | 3:36 |
 
-Snapshot ID: `MCw5OGZmYmU1MjEwMGI3NTdjYTAwNjZiMmE1M2ViOTRmMDc2NWM4MDA4`
+Snapshot ID: `MCxkNWUxMGNkYzU0YWM0ZDgyM2FkNzFhYzZlY2EyY2Q3YzU1ZjNiMDRi`

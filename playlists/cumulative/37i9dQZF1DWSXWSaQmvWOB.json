@@ -2465,6 +2465,24 @@
     },
     {
       "album": {
+        "name": "Don't Doubt It",
+        "url": "https://open.spotify.com/album/7misvvbAa72HkMvqBPNfRN"
+      },
+      "artists": [
+        {
+          "name": "Sam Wills",
+          "url": "https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182493,
+      "name": "Don't Doubt It",
+      "url": "https://open.spotify.com/track/28yYqgatnEJFxN8JOmvxUk"
+    },
+    {
+      "album": {
         "name": "Don't Leave Me on Read (Moods Remix)",
         "url": "https://open.spotify.com/album/19VpcLHHgfbmvhHVaxn4Bi"
       },
@@ -3431,6 +3449,24 @@
     },
     {
       "album": {
+        "name": "Sentimental Fool",
+        "url": "https://open.spotify.com/album/3zqyliH82PrgRAkIe6CSA2"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195133,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/0MrbySeqMbj7dcTFnlEDvE"
+    },
+    {
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/6C8aJl0G0HKgrItKUJOYu3"
       },
@@ -3442,7 +3478,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 195133,
       "name": "Forever",
       "url": "https://open.spotify.com/track/2vWnNKnnCSSnw95Pmdkc8k"
@@ -5014,7 +5050,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 188333,
       "name": "I Was Wrong",
       "url": "https://open.spotify.com/track/4yoLMdIgClcRvbYcQ1csAw"
@@ -5720,7 +5756,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 188155,
       "name": "Just Like You Used To",
       "url": "https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y"
@@ -6466,7 +6502,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 179836,
       "name": "Love Is The Way",
       "url": "https://open.spotify.com/track/4Z0aGS1P0KxyPlBpqHpJ0F"

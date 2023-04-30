@@ -4,7 +4,7 @@
 
 > dark & dreamy for night creatures
 
-145 songs - 8 hr 56 min
+146 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [Pocky Boy](https://open.spotify.com/track/6Ts2TyVBF6Osom4IV88JNr) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Serotonin II](https://open.spotify.com/album/5HZHvhX5TpJJD6hTgn0j0D) | 4:01 | 2022-10-28 |  |
 | [Poison Tree](https://open.spotify.com/track/6Q5uDNuuFYa8ToL3CCoHPC) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Inca Ore / Grouper](https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E) | 3:16 | 2022-09-02 |  |
 | [Prism of Feeling](https://open.spotify.com/track/4skeJN6yWo5wSRgPjRNFUp) | [Soft Blue Shimmer](https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx) | [Prism of Feeling](https://open.spotify.com/album/50C6PlqgTU8iZpbzowiCCc) | 4:45 | 2022-09-02 |  |
-| [Promise](https://open.spotify.com/track/0ZAtjrHxLKio4iq3X1uz2M) | [Knifeplay](https://open.spotify.com/artist/7oT0M95uIX2aJGN4we092i) | [Promise](https://open.spotify.com/album/5Rz73oELdSL11MPc8Q5sqD) | 4:47 | 2022-09-02 |  |
+| [Promise](https://open.spotify.com/track/0ZAtjrHxLKio4iq3X1uz2M) | [Knifeplay](https://open.spotify.com/artist/7oT0M95uIX2aJGN4we092i) | [Promise](https://open.spotify.com/album/5Rz73oELdSL11MPc8Q5sqD) | 4:47 | 2022-09-02 | 2023-04-30 |
+| [Promise](https://open.spotify.com/track/1PzGeaFYnvJ5rpxMP1SI14) | [Knifeplay](https://open.spotify.com/artist/7oT0M95uIX2aJGN4we092i) | [Animal Drowning](https://open.spotify.com/album/0lDomDaYOMqJ0Q7ckauowS) | 4:47 | 2023-03-22 |  |
 | [Rainbow Sherbet Sky](https://open.spotify.com/track/27MW7GlTV8bFkdkmpJuF62) | [Desert Liminal](https://open.spotify.com/artist/024XJhAI3OvNIXKazprYuf) | [Glass Fate](https://open.spotify.com/album/5L6S8RsshAyAeJCOliIuCb) | 3:50 | 2022-09-02 |  |
 | [Real Time](https://open.spotify.com/track/49KOZITkRDw4EKs1UnHSyh) | [Goo Munday](https://open.spotify.com/artist/540egazqjMY2Lm7NPclRQ2) | [Real Time](https://open.spotify.com/album/38WVA1P7jfefbIVryXvB6O) | 3:31 | 2022-11-10 |  |
 | [Retrograde](https://open.spotify.com/track/5xtxFwaiVq9TQjUQISR9FW) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Together](https://open.spotify.com/album/428iId26KsW5U3fhyC7S3W) | 4:22 | 2022-09-02 | 2022-11-11 |

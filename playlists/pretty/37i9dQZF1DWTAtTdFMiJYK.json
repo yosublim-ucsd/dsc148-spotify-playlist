@@ -1,12 +1,12 @@
 {
   "description": "Most exciting artists from the Indian Indie scene. Cover : Shreya Jain",
-  "num_followers": 105609,
+  "num_followers": 105685,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Nzc3ZjQyNGIxYjEwMTFiNTQ0MDUxYmQ3Zjc5MDY5MjA0YThiYzNj",
+  "snapshot_id": "MCw3MThmNmQ1NzdiMDcyYTNlMGU4YjU4NTFmYmIwZThkODExYmM5NGZm",
   "tracks": [
     {
       "added_at": "2023-04-20 09:27:57",
@@ -1175,7 +1175,7 @@
     {
       "added_at": "2023-04-20 09:27:57",
       "album": {
-        "name": "Makhmal",
+        "name": "Makhmal (feat. BLUK)",
         "url": "https://open.spotify.com/album/1vyIwvbXKGfu9AoLNg6WGx"
       },
       "artists": [
@@ -1186,10 +1186,14 @@
         {
           "name": "Priyanshu Soni",
           "url": "https://open.spotify.com/artist/6MB9eP64yx5KQ12VLrXo6p"
+        },
+        {
+          "name": "BLUK",
+          "url": "https://open.spotify.com/artist/5VwEh2dfVTTVtQ0Q3C1e4r"
         }
       ],
       "duration_ms": 197462,
-      "name": "Makhmal",
+      "name": "Makhmal (feat. BLUK)",
       "url": "https://open.spotify.com/track/46qCjuV2ydLZNdGxf2PSWB"
     },
     {

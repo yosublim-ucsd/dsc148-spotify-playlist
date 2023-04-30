@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 482058,
+  "num_followers": 482237,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTg2Njg0MzIwODYxMTJlODA2MDQ2MmNkOTAwZjMyMWYzYzcwNDZi",
+  "snapshot_id": "MCw2NjM1OGFjZmZlMTRiYTY3ZGEyY2YzYzU3NmVjODdjOWY0NTM5ZGJm",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "To Let A Good Thing Die",
+        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "duration_ms": 162797,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "We Go Down Together (with Khalid)",
         "url": "https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 184963,
       "name": "We Go Down Together (with Khalid)",
       "url": "https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "To Let A Good Thing Die",
-        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
-      },
-      "artists": [
-        {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
-        }
-      ],
-      "duration_ms": 162797,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "I Wish you Roses",
-        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 225947,
-      "name": "I Wish you Roses",
-      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Room For Squares",
         "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 249626,
       "name": "Your Body Is a Wonderland",
       "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "I Wish you Roses",
+        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 225947,
+      "name": "I Wish you Roses",
+      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Only Human (Special Edition)",
         "url": "https://open.spotify.com/album/1RcwvxkvyE60CTFNagElek"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 190760,
       "name": "You Are The Reason - Duet Version",
       "url": "https://open.spotify.com/track/1x3W8RZxW94lrVGhP95qA6"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Stripped",
-        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1155,38 +1155,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 223213,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/6D2tzc8kRnZb7P1lNwMBLH"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Staying at Tamara's (Acoustic Tracks and Demo Versions)",
-        "url": "https://open.spotify.com/album/3a5fhHq6UT9KKSYxl6VviQ"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 211715,
-      "name": "Hold My Girl (Acoustic Version)",
-      "url": "https://open.spotify.com/track/4VjhuvbfM5yW0qDGvY4aJQ"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Get You - Single",
         "url": "https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6"
       },
@@ -1207,18 +1175,34 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Tyler Shaw",
-        "url": "https://open.spotify.com/album/36Tel8kJ51tu7M65yWywbP"
+        "name": "Staying at Tamara's (Acoustic Tracks and Demo Versions)",
+        "url": "https://open.spotify.com/album/3a5fhHq6UT9KKSYxl6VviQ"
       },
       "artists": [
         {
-          "name": "Tyler Shaw",
-          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
         }
       ],
-      "duration_ms": 150173,
-      "name": "Love You Still (abcdefu romantic version)",
-      "url": "https://open.spotify.com/track/1et7vATtyqLfNMjTTZIYk1"
+      "duration_ms": 211715,
+      "name": "Hold My Girl (Acoustic Version)",
+      "url": "https://open.spotify.com/track/4VjhuvbfM5yW0qDGvY4aJQ"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 223213,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/6D2tzc8kRnZb7P1lNwMBLH"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1235,6 +1219,22 @@
       "duration_ms": 271226,
       "name": "Hometown Glory",
       "url": "https://open.spotify.com/track/19QzuPTNZHJ2SEu5LCQTGI"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Tyler Shaw",
+        "url": "https://open.spotify.com/album/36Tel8kJ51tu7M65yWywbP"
+      },
+      "artists": [
+        {
+          "name": "Tyler Shaw",
+          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
+        }
+      ],
+      "duration_ms": 150173,
+      "name": "Love You Still (abcdefu romantic version)",
+      "url": "https://open.spotify.com/track/1et7vATtyqLfNMjTTZIYk1"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1933,22 +1933,6 @@
       "url": "https://open.spotify.com/track/1omCB9Mch8tYugUptnJ0vw"
     },
     {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Max Jury",
-        "url": "https://open.spotify.com/album/3sGSTThYpx4Udjl0IeuJhZ"
-      },
-      "artists": [
-        {
-          "name": "Max Jury",
-          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
-        }
-      ],
-      "duration_ms": 235936,
-      "name": "Great American Novel",
-      "url": "https://open.spotify.com/track/1x8huXwyN6cqXVBcUt5fQR"
-    },
-    {
       "added_at": "2023-04-21 11:56:43",
       "album": {
         "name": "$weet n $our",
@@ -1963,6 +1947,22 @@
       "duration_ms": 183588,
       "name": "$weet n $our",
       "url": "https://open.spotify.com/track/6xxPmqOp8AbM32rEiJ3AQ4"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Max Jury",
+        "url": "https://open.spotify.com/album/3sGSTThYpx4Udjl0IeuJhZ"
+      },
+      "artists": [
+        {
+          "name": "Max Jury",
+          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
+        }
+      ],
+      "duration_ms": 235936,
+      "name": "Great American Novel",
+      "url": "https://open.spotify.com/track/1x8huXwyN6cqXVBcUt5fQR"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2081,6 +2081,22 @@
       "url": "https://open.spotify.com/track/6aiss5Ofip4rDM88Fs1Yrg"
     },
     {
+      "added_at": "2023-04-21 11:59:42",
+      "album": {
+        "name": "Talk Luv",
+        "url": "https://open.spotify.com/album/33vKJjr5IBomO5PhKQcVAX"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 164468,
+      "name": "Talk Luv",
+      "url": "https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv"
+    },
+    {
       "added_at": "2023-02-10 11:00:00",
       "album": {
         "name": "Heaven on Earth",
@@ -2099,22 +2115,6 @@
       "duration_ms": 192000,
       "name": "Heaven on Earth",
       "url": "https://open.spotify.com/track/3FTpb7bVZEK503Ldoiewm1"
-    },
-    {
-      "added_at": "2023-04-21 11:59:42",
-      "album": {
-        "name": "Talk Luv",
-        "url": "https://open.spotify.com/album/33vKJjr5IBomO5PhKQcVAX"
-      },
-      "artists": [
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        }
-      ],
-      "duration_ms": 164468,
-      "name": "Talk Luv",
-      "url": "https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2361,6 +2361,22 @@
       "url": "https://open.spotify.com/track/5D386TwGGyXGLxgFCO30kX"
     },
     {
+      "added_at": "2023-04-21 12:01:04",
+      "album": {
+        "name": "Teach",
+        "url": "https://open.spotify.com/album/7cWMXbPvvIVZwy72OuMYjY"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 175774,
+      "name": "Teach",
+      "url": "https://open.spotify.com/track/4YcEc3ZlbW3W2OqbPmjF4V"
+    },
+    {
       "added_at": "2023-02-10 11:00:00",
       "album": {
         "name": "Eyes on You",
@@ -2375,6 +2391,22 @@
       "duration_ms": 168080,
       "name": "Eyes on You",
       "url": "https://open.spotify.com/track/5ewnuTcT10UI7zOx3OWRmQ"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Accidentally On Purpose",
+        "url": "https://open.spotify.com/album/5Oa2ntjwl4Ao49v9ArJCti"
+      },
+      "artists": [
+        {
+          "name": "The Shires",
+          "url": "https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3"
+        }
+      ],
+      "duration_ms": 197706,
+      "name": "World Without You",
+      "url": "https://open.spotify.com/track/3Lwl2ZFocL6hNMgfSuLrQ0"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2395,38 +2427,6 @@
       "duration_ms": 187438,
       "name": "Put D'Angelo On",
       "url": "https://open.spotify.com/track/1QJp8dIzUSg9c1pXLmqGNB"
-    },
-    {
-      "added_at": "2023-04-21 12:01:04",
-      "album": {
-        "name": "Teach",
-        "url": "https://open.spotify.com/album/7cWMXbPvvIVZwy72OuMYjY"
-      },
-      "artists": [
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        }
-      ],
-      "duration_ms": 175774,
-      "name": "Teach",
-      "url": "https://open.spotify.com/track/4YcEc3ZlbW3W2OqbPmjF4V"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Accidentally On Purpose",
-        "url": "https://open.spotify.com/album/5Oa2ntjwl4Ao49v9ArJCti"
-      },
-      "artists": [
-        {
-          "name": "The Shires",
-          "url": "https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3"
-        }
-      ],
-      "duration_ms": 197706,
-      "name": "World Without You",
-      "url": "https://open.spotify.com/track/3Lwl2ZFocL6hNMgfSuLrQ0"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2511,18 +2511,18 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Heights",
-        "url": "https://open.spotify.com/album/0XDFAkZ0lguLrmkJlq0bRp"
+        "name": "Animals",
+        "url": "https://open.spotify.com/album/6DtdsdwOV5h6wG17vSpgn1"
       },
       "artists": [
         {
-          "name": "Only Girl",
-          "url": "https://open.spotify.com/artist/2ZkQAcKkFO60QQybtXDStt"
+          "name": "Chris Call",
+          "url": "https://open.spotify.com/artist/2VG4hPDzupCJX6q4sy1lRg"
         }
       ],
-      "duration_ms": 226750,
-      "name": "Heights",
-      "url": "https://open.spotify.com/track/6AeMqCW8yvsUlPbC2euMON"
+      "duration_ms": 230250,
+      "name": "Animals - Unplugged Version",
+      "url": "https://open.spotify.com/track/2B4aEk81BPoL658L1XYG8y"
     }
   ],
   "unique_name": "Spooning",

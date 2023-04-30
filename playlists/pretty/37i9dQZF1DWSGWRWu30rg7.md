@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Allan Andersn
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,820 likes - 53 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,822 likes - 53 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jalan Terbaiknya](https://open.spotify.com/track/4LhQeEgxKqd3b49GD6Ij8K) | [Allan Andersn](https://open.spotify.com/artist/4zcXAnIxQ6UDXSu8qDZbsk) | [Jalan Terbaiknya](https://open.spotify.com/album/6Ngs3QPAanDxzFAZ3DbaXc) | 3:35 |
-| 2 | [ANDA KATAKAN](https://open.spotify.com/track/562w9oAArQNuj9wtajeO1K) | [Melati ESP](https://open.spotify.com/artist/2yHzkL2Cb1qMhEtFeeyr68) | [hipernatural](https://open.spotify.com/album/0BT0MdbDqzC1K1rYyTyexv) | 2:59 |
+| 2 | [ANDA KATAKAN](https://open.spotify.com/track/5KEqkZsq2kXZoZwMlWCCBq) | [Melati ESP](https://open.spotify.com/artist/2yHzkL2Cb1qMhEtFeeyr68) | [hipernatural](https://open.spotify.com/album/5PWCeX696MJg6QerDf3UMw) | 2:59 |
 | 3 | [All The Time](https://open.spotify.com/track/7lNKlPd03y5XiQCO46nm3K) | [Wevvss](https://open.spotify.com/artist/6zcbd2HfTX8pbqYqmXQkLI), [Magda](https://open.spotify.com/artist/44wtSTTCzHU8lrD4vEdZKD) | [All The Time](https://open.spotify.com/album/7hvjyUEp8VJhids8Vuyrax) | 2:23 |
 | 4 | [Caffeinated](https://open.spotify.com/track/03adDeSrA7JRjeg71ChqMR) | [Pizza! Pizza!](https://open.spotify.com/artist/772JaMNSokK97L8jpZFDt1), [Nadya](https://open.spotify.com/artist/1s3lXYKvUpaGUCT6REF6iP) | [Caffeinated](https://open.spotify.com/album/69EQfhHs9NPrFCAJGAGzZl) | 2:44 |
 | 5 | [Failing Grace](https://open.spotify.com/track/5pgNf3aLWrULjZCCNz2b3X) | [denisa](https://open.spotify.com/artist/2fwvrk3t4SkpLOSvF1uoyg) | [Failing Grace](https://open.spotify.com/album/61Z0vQ4CaxBA0vYaPHSPsW) | 3:54 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 52 | [sesal](https://open.spotify.com/track/302ZL7chNycksi5DR06mEn) | [Goodenough](https://open.spotify.com/artist/72x4pwJGCLEYunOidTNxWB) | [sesal](https://open.spotify.com/album/1DAvkjqtvLG4PkDSJFq5gp) | 3:46 |
 | 53 | [Sexy Girls](https://open.spotify.com/track/05PHEZ0iYqiEhzeA7Nx6fA) | [Evan Joris](https://open.spotify.com/artist/3XPx2SkhkCDZSp2b0ekPGV), [Audrey June](https://open.spotify.com/artist/0KrCiXb9VevFQTItPxrHiJ) | [Sexy Girls](https://open.spotify.com/album/4HFoHT74eKZPysCanpYYNa) | 3:41 |
 
-Snapshot ID: `MCw0MjlkMmY5MmI5MmFlZGYxZTI4M2RhMjQ0MjQ2NDg2YjdiOGE4ZTRl`
+Snapshot ID: `MCw5NDc0MTBkZjY3MWE3N2E5OGQ3YTRlNGE5NmI2OTFhYTM0ZjI3YzUx`

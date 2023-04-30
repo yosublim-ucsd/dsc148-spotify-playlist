@@ -4,7 +4,7 @@
 
 > The official playlist for Cobra Kai\. Watch on Netflix.
 
-164 songs - 9 hr 47 min
+165 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Don't Look Back](https://open.spotify.com/track/4QySZtWymRGNgrwxZOODKF) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Don't Look Back](https://open.spotify.com/album/2bJalk1WMed8Z2CZca2zKp) | 6:00 | 2022-01-07 |  |
 | [Duel of the Snakes \(Mega\-Edit\)](https://open.spotify.com/track/4s69std16qKEsvAa4ZHmmB) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 3 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4op6NAPFktkyqLtRdPD4wC) | 9:58 | 2022-01-07 |  |
 | [Eye of the Tiger](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:05 | 2022-09-09 |  |
-| [Fangs Out](https://open.spotify.com/track/5CrrcfYTyVgbkrbQL4Gl8P) | [Bat Fangs](https://open.spotify.com/artist/2D0ve7sq3V8gMiWa5JqTar) | [Bat Fangs](https://open.spotify.com/album/0kopRwEQgaL0fpQMrGO8tR) | 3:37 | 2022-01-07 |  |
+| [Fangs Out](https://open.spotify.com/track/0YPI0lpt5gFzpHwNASKbKi) | [Bat Fangs](https://open.spotify.com/artist/2D0ve7sq3V8gMiWa5JqTar) | [Bat Fangs](https://open.spotify.com/album/72EmvI2TP4pLOCVizB13ih) | 3:37 | 2022-01-07 |  |
+| [Fangs Out](https://open.spotify.com/track/5CrrcfYTyVgbkrbQL4Gl8P) | [Bat Fangs](https://open.spotify.com/artist/2D0ve7sq3V8gMiWa5JqTar) | [Bat Fangs](https://open.spotify.com/album/0kopRwEQgaL0fpQMrGO8tR) | 3:37 | 2022-01-07 | 2023-04-30 |
 | [Feel Good](https://open.spotify.com/track/5zx4puSZ2s1SxzsxFUOTDB) | [Mark Alberts](https://open.spotify.com/artist/0kxHUxbIeHPD2UwAsUWW63) | [Rock Up](https://open.spotify.com/album/1dlvVo4PLSxqreUS9iCS4j) | 2:28 | 2022-01-06 |  |
 | [Feel The Night](https://open.spotify.com/track/1feLODy7BXa0tjkHJ2fOeQ) | [Baxter Robinson](https://open.spotify.com/artist/6JmPvDxWnZ7iQJPhFj69Mr) | [The Karate Kid: The Original Motion Picture Soundtrack](https://open.spotify.com/album/1zNIDZncmWNpb1WkyfRPdH) | 3:16 | 2022-01-07 |  |
 | [Fight Song](https://open.spotify.com/track/4YCssdAAHp8VPUzuBZj9i9) | [Sister Sin](https://open.spotify.com/artist/3MdnMzNMNENgdrx91CvGR8) | [Now And Forever](https://open.spotify.com/album/1UDaAmmTpoWWpkFIti7LGM) | 4:01 | 2022-01-07 |  |

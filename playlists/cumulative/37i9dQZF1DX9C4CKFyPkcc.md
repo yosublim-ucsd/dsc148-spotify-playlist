@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-182 songs - 10 hr 47 min
+183 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Go Tell It on the Mountain](https://open.spotify.com/track/2MCi8fqRWip329C03pPwM6) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Go Tell It on the Mountain](https://open.spotify.com/album/1BdRybKJs15rBDE51UOzm8) | 3:39 | 2021-12-24 |  |
 | [Go Tell It on the Mountain \(feat\. Brad Wheeler\)](https://open.spotify.com/track/4bRJr0gSXtgOrLVG3Iwolh) | [GENTRI](https://open.spotify.com/artist/4sk2zZdhVRMhb1BEtcxUKf), [Brad Wheeler](https://open.spotify.com/artist/5IJ4o6qVqQHdD4ey0ZUl2F) | [Season of Light](https://open.spotify.com/album/5kUqoEk2Vuk9fmOfDCZFbB) | 4:02 | 2022-12-11 | 2022-12-21 |
 | [God Rest](https://open.spotify.com/track/0EEztnoPFhtd5SlfbS6qeJ) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [What A Beautiful Night](https://open.spotify.com/album/0EeEx2laes67i5MaTKmvNf) | 3:50 | 2022-12-11 |  |
+| [God With Us \- Live](https://open.spotify.com/track/50v2NQts2bIqKF7jfWu7Vw) | [The Worship Project](https://open.spotify.com/artist/1HfLz4ZQ8xPPzPeoS2iKi3), [Brooke Nicholls](https://open.spotify.com/artist/0phq5bIgmJH85OUSjsI8Bg) | [Christmas \- Live at Tyndale University](https://open.spotify.com/album/2PsUI1qRMs5RZQJx2llhoX) | 4:08 | 2022-12-11 |  |
 | [Good King Wenceslas](https://open.spotify.com/track/4WM0DbMzh0oph7NMEYHgkg) | [Menna](https://open.spotify.com/artist/5kLvMAFanr3jQ7iuciSCuM) | [Good King Wenceslas](https://open.spotify.com/album/2O90tt21lbxx341mb2VnDy) | 3:43 | 2021-12-24 |  |
 | [Good News](https://open.spotify.com/track/78AJvJd1805nh1PhaQZJ4V) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Good News](https://open.spotify.com/album/09xc06CHXpz6dBFRQtGg2g) | 3:52 | 2021-12-24 |  |
 | [Great Christmas](https://open.spotify.com/track/6pt8hwewlxOm7UZfEsx9t4) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Great Christmas](https://open.spotify.com/album/1BBSnDN7zRzoBf4bQncMGw) | 2:47 | 2022-12-11 |  |
@@ -172,7 +173,7 @@
 | [This Christmas](https://open.spotify.com/track/3NQcGDkm0I1XFeFSlCWMqt) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [This Christmas](https://open.spotify.com/album/7e7hga6IjsDcKAOpR2hn27) | 3:04 | 2022-11-26 |  |
 | [This Is Christmas](https://open.spotify.com/track/5ZydBDUkvBKXwUmvV3v4mi) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [This Is Christmas](https://open.spotify.com/album/5OhpJQEOrb8Wl0hkv2Wrs7) | 3:30 | 2022-12-11 |  |
 | [UNEXPECTED KING](https://open.spotify.com/track/10j0mfFINV55qklpdPkuNx) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [UNEXPECTED KING](https://open.spotify.com/album/7JiiLLPbmDA6fAyfmz3uME) | 3:41 | 2022-12-11 |  |
-| [Unto Us](https://open.spotify.com/track/4CODxRNTaWMIhIRWsqxIOu) | [Paul Zach](https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Christmas Hymns](https://open.spotify.com/album/1VXaofVFtZHPCtgMBubW1a) | 2:38 | 2022-12-11 |  |
+| [Unto Us](https://open.spotify.com/track/4CODxRNTaWMIhIRWsqxIOu) | [Paul Zach](https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Christmas Hymns](https://open.spotify.com/album/1VXaofVFtZHPCtgMBubW1a) | 2:38 | 2022-12-11 | 2023-04-30 |
 | [Unto Us](https://open.spotify.com/track/74s6HoDu3xKX8zzk56DYBK) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Unto Us](https://open.spotify.com/album/663RXaFX5ngMLhSFDsjFaR) | 4:03 | 2022-11-26 |  |
 | [We Bow](https://open.spotify.com/track/49pJVkJhuISvkHBY65K6RG) | [Gungor](https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif), [Isa Ma](https://open.spotify.com/artist/0pWvGTyszb31m9wq2cLlJ0), [Astyn Turr](https://open.spotify.com/artist/2By37PSkMs1WNuiTY0CbQl) | [We Bow / Christmas Is Here](https://open.spotify.com/album/5XDAp6GrTOpatrrFuz30HB) | 3:48 | 2022-12-11 |  |
 | [We Need A Little Christmas](https://open.spotify.com/track/0tuY26eUFAtEWxVrj5fojS) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [We Need A Little Christmas](https://open.spotify.com/album/090o9kMZEhvkB5Vw211meV) | 2:26 | 2021-12-24 |  |

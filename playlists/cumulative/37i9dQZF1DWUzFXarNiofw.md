@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: DaniLeigh
 
-989 songs - 2 day 4 hr 58 min
+990 songs - 2 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,7 +443,8 @@
 | [If I Had \(feat\. Charlie Wilson\)](https://open.spotify.com/track/3JJqdVXy8p9rCtTmlv1mXO) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:28 | 2023-02-24 |  |
 | [If Pretty Was A Person](https://open.spotify.com/track/1j7fU1ptLBpN6l6ZjBxgvo) | [Hylan Starr](https://open.spotify.com/artist/4QqSN19btzq9AcjTKhuGYI), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [If Pretty Was A Person](https://open.spotify.com/album/59A7ehBvw2UQRurkZsrk7T) | 2:36 | 2022-11-18 | 2023-01-06 |
 | [If The Love Goes \- A COLORS SHOW](https://open.spotify.com/track/6fcFACL3GGEynUlyvmbqRt) | [Jamilah Barry](https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv), [P2J](https://open.spotify.com/artist/7owWHiQB5FQHFiBYXxbphY) | [If The Love Goes \- A COLORS SHOW](https://open.spotify.com/album/39QsjJesAI2ufMadu1NRzu) | 3:43 | 2022-12-09 | 2023-03-11 |
-| [If You Don't Want My Love](https://open.spotify.com/track/2364WrvPTUHobDNURudCbM) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [If You Don't Want My Love](https://open.spotify.com/album/2pCNvQ7AcClmXZmpIfyP2N) | 2:26 | 2023-03-24 |  |
+| [If You Don't Want My Love](https://open.spotify.com/track/2364WrvPTUHobDNURudCbM) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [If You Don't Want My Love](https://open.spotify.com/album/2pCNvQ7AcClmXZmpIfyP2N) | 2:26 | 2023-03-24 | 2023-04-30 |
+| [If You Don't Want My Love](https://open.spotify.com/track/5BO76ay1UPZEj72HUqJtxA) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [If You Don't Want My Love](https://open.spotify.com/album/1t09sHx5LoUBFD8M4h94Nn) | 2:26 | 2023-03-24 |  |
 | [If You Want My Love](https://open.spotify.com/track/6muk6XM856ryXVRyv1m8yj) | [Jordan Occasionally](https://open.spotify.com/artist/7dV9Gu3qcrjyMkvPEHRsOX) | [If You Want My Love](https://open.spotify.com/album/7qUwQ0bUDNJnyZb8IWpglN) | 3:42 | 2022-07-09 | 2022-08-20 |
 | [Iffy](https://open.spotify.com/track/3kfqYE0jGONOrkVpkPPOd5) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Iffy](https://open.spotify.com/album/0XBvpjHN9Ljrta2iJWw3KR) | 2:53 | 2022-01-14 | 2022-02-19 |
 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 | 2022-07-08 | 2022-09-10 |

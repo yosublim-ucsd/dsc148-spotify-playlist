@@ -1848,7 +1848,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 235733,
       "name": "Aura",
       "url": "https://open.spotify.com/track/3fibIzbkYbvTmdoD5u2nPm"
@@ -2402,7 +2402,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 199386,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/0puf9yIluy9W0vpMEUoAnN"
@@ -2484,7 +2484,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 213880,
       "name": "Bang Bang - Super Stylers Remix",
       "url": "https://open.spotify.com/track/2ZXwop8iShW8kkQwlReYu1"
@@ -2502,7 +2502,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 195160,
       "name": "Bang Bang Bang",
       "url": "https://open.spotify.com/track/1P5RYVvxPVrzonLqAC8uxk"
@@ -2824,7 +2824,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 172413,
       "name": "Beautiful, Dirty, Rich",
       "url": "https://open.spotify.com/track/3qrQtMmkuV79LMGfsGDHRf"
@@ -5426,7 +5426,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 185991,
       "name": "Chic C'est La Vie",
       "url": "https://open.spotify.com/track/2whNAems1FPPusbAIuOTb8"
@@ -5648,7 +5648,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 371386,
       "name": "Come & Get It - Dave Aud\u00e9 Club Remix",
       "url": "https://open.spotify.com/track/6Vpxd1nbOBGlXPDkQX640E"
@@ -7053,6 +7053,24 @@
     },
     {
       "album": {
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221480,
+      "name": "Disco Heaven",
+      "url": "https://open.spotify.com/track/20rDqWMo6aYgeTXsX8l2rn"
+    },
+    {
+      "album": {
         "name": "Living For The Weekend (Deluxe Edition)",
         "url": "https://open.spotify.com/album/57QWA73jnfLo1YHwnDZpoZ"
       },
@@ -7662,7 +7680,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 264960,
       "name": "Donatella",
       "url": "https://open.spotify.com/track/2OoLIJNxpsNs9wIHqWQrED"
@@ -7980,7 +7998,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 218480,
       "name": "E.T.",
       "url": "https://open.spotify.com/track/4HOQ8xnZUgfjGFbriclwWv"
@@ -8864,7 +8882,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 227893,
       "name": "Firework",
       "url": "https://open.spotify.com/track/4r6eNCsrZnQWJzzvFh4nlg"
@@ -9508,7 +9526,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 355093,
       "name": "Funhouse - Digital Dog Remix",
       "url": "https://open.spotify.com/track/683i8O9hKQK1j9ai3mCo5M"
@@ -10262,7 +10280,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 247266,
       "name": "God Is A DJ - Spider Remix",
       "url": "https://open.spotify.com/track/28qDTGldNFEbUh9grwbmOn"
@@ -10652,7 +10670,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-25",
+      "date_removed": null,
       "duration_ms": 248706,
       "name": "Gypsy",
       "url": "https://open.spotify.com/track/2BnfMbmWbfqi7ac5y7GHXn"
@@ -11886,7 +11904,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 175906,
       "name": "Hook Me Up",
       "url": "https://open.spotify.com/track/1UQUJlTPbdufUmBU3RQ83q"
@@ -13998,7 +14016,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 404373,
       "name": "If I Had You - Jason Nevins Extended Mix",
       "url": "https://open.spotify.com/track/4KFh0cASHo3WsjNdi0f7JV"
@@ -14258,7 +14276,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 244453,
       "name": "Into You",
       "url": "https://open.spotify.com/track/63y6xWR4gXz7bnUGOk8iI6"
@@ -16080,7 +16098,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 208093,
       "name": "London Bridge",
       "url": "https://open.spotify.com/track/1GH5tpvz5g1ZGKNBPBWkTm"
@@ -16694,7 +16712,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 197333,
       "name": "Love You Like a Love Song - Dave Aud\u00e9 Radio Mix",
       "url": "https://open.spotify.com/track/4VIsrc2bekjqbOWZUcmFqQ"
@@ -18360,7 +18378,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 463266,
       "name": "Naturally - Dave Aud\u00e9 Club Remix",
       "url": "https://open.spotify.com/track/5vQgF6gzfkDmFlouKzWNzD"
@@ -20876,7 +20894,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 193920,
       "name": "Problem",
       "url": "https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP"
@@ -21094,7 +21112,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-27",
+      "date_removed": null,
       "duration_ms": 247578,
       "name": "Queen (feat. Mimi Imfurst)",
       "url": "https://open.spotify.com/track/4QiXWMSQ7keA475UyguG4T"
@@ -22696,7 +22714,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 225466,
       "name": "ScheiBe",
       "url": "https://open.spotify.com/track/1RFXENx9ILC6PECmNhEstC"
@@ -24984,7 +25002,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 240213,
       "name": "Stupid Girls - Junior Vasquez & Dynamix Remix - Radio Mix",
       "url": "https://open.spotify.com/track/3QMPSgPZ0d7cNCWFDZ0Wqp"
@@ -25950,7 +25968,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 227741,
       "name": "Teenage Dream",
       "url": "https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh"
@@ -26012,7 +26030,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 400360,
       "name": "Teenage Dream - Manhattan Clique Remix",
       "url": "https://open.spotify.com/track/06WHHmbIgxh2oTTtgrPqe2"
@@ -27864,7 +27882,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 328226,
       "name": "Triumphant - Pulse Club Mix",
       "url": "https://open.spotify.com/track/2gcnvAxDFpxkYYsHzAlr9j"
@@ -27912,7 +27930,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-27",
+      "date_removed": null,
       "duration_ms": 293760,
       "name": "Triumphant - Vintage Throwback Mix",
       "url": "https://open.spotify.com/track/6fKWbMmxpvjTVPclI4uQJ3"
@@ -28494,7 +28512,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 255360,
       "name": "Untouched",
       "url": "https://open.spotify.com/track/0KlahhzNb98zyN83Vwae0l"
@@ -28756,7 +28774,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 223653,
       "name": "Waking Up In Vegas - Remix",
       "url": "https://open.spotify.com/track/4zfsgndU3PUt3DKTDHWJ8e"

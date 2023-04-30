@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-784 songs - 2 day 3 hr 28 min
+785 songs - 2 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,7 +424,8 @@
 | [Luxury](https://open.spotify.com/track/4MO2wrcoedE7l5QoZGNIiu) | [Vlad Holiday](https://open.spotify.com/artist/4kzBapiIVMxwhJLsTm28Gc) | [Write Me off the Show](https://open.spotify.com/album/1Z2y4FrxO6Mrnv8Bc1TR4g) | 3:04 | 2021-11-19 | 2022-06-08 |
 | [Lyssa](https://open.spotify.com/track/19xywCfoKJ2q9fEJ5bZF7j) | [CULT OF DOM KELLER](https://open.spotify.com/artist/5ilEeNYaEoUR7PAxHRXO1d) | [Lyssa](https://open.spotify.com/album/4BV1fTa41JQR0M32Oj7Pcg) | 3:54 | 2021-06-04 | 2022-04-14 |
 | [M.R.](https://open.spotify.com/track/0GDHyRVlxRVxofJfrw3aVF) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/3vukTUpiENDHDoYTVrwqtz) | 3:37 | 2021-04-02 | 2022-04-20 |
-| [Madison](https://open.spotify.com/track/6Bz7VRGI74d4SjXZVPbqEQ) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Madison](https://open.spotify.com/album/6VilDmxMVVi7KBpdOFYKMo) | 3:42 | 2022-07-11 |  |
+| [Madison](https://open.spotify.com/track/10WDCU0ey0CJXE43aaJVcm) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Hiding in Plain Sight](https://open.spotify.com/album/2lJ4mGexbTGxmkF2OEejmE) | 3:42 | 2022-10-24 |  |
+| [Madison](https://open.spotify.com/track/6Bz7VRGI74d4SjXZVPbqEQ) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Madison](https://open.spotify.com/album/6VilDmxMVVi7KBpdOFYKMo) | 3:42 | 2022-07-11 | 2023-04-30 |
 | [Magenta Mountain](https://open.spotify.com/track/1mTZgUSvyG3I3O9onu3p5V) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Magenta Mountain](https://open.spotify.com/album/5lqPdkAz8XUdjYIiTnZTZz) | 6:04 | 2022-04-22 | 2022-11-17 |
 | [Magenta Mountain](https://open.spotify.com/track/23azGRczkSa6JF9JKKiBh2) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Omnium Gatherum](https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7) | 6:04 | 2022-10-24 | 2023-03-07 |
 | [magic wand](https://open.spotify.com/track/2Ba2Jkam0Fe49fdIwUdmKz) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2), [Inadelle](https://open.spotify.com/artist/2oJwuBtgqtIuzTpU27zay8) | [magic wand](https://open.spotify.com/album/5iad3isgt69GOlLzHQtdOM) | 3:24 | 2021-04-02 | 2023-03-07 |

@@ -4,7 +4,7 @@
 
 > New music each and every Friday.
 
-2,167 songs - 4 day 11 hr 37 min
+2,167 songs - 4 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [2 Step \- From the new “House Party” Original Motion Picture Soundtrack](https://open.spotify.com/track/4FO8Tg6i1wLU0DRO3gwuJL) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [2 Step \(From the new “House Party” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/15lrVWXxXVT9GNhdIepIXJ) | 2:10 | 2022-10-14 | 2022-10-29 |
 | [2 Sugar \(feat\. Ayra Starr\)](https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:07 | 2022-11-11 | 2022-12-10 |
 | [223's \(feat\. BabyTron\)](https://open.spotify.com/track/2Gn3xsO0hacXJy1Z2EHrgm) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [BACK IN ACTION 3.0](https://open.spotify.com/album/2nE7I42NgdU4IlyLv6xtVM) | 2:13 | 2022-09-09 | 2022-10-08 |
-| [23](https://open.spotify.com/track/1zcV9I8GVXyrqInNaSU6EM) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Sokerirl on ig](https://open.spotify.com/artist/4UU5P578pYIr4QEMwjIkJc) | [23](https://open.spotify.com/album/76co89ePW2Am0WMqdX2lPs) | 4:15 | 2023-04-28 |  |
+| [23](https://open.spotify.com/track/1zcV9I8GVXyrqInNaSU6EM) | [JayO](https://open.spotify.com/artist/0QH3l8RpNhxB16HkrC3x56), [Sokerirl on ig](https://open.spotify.com/artist/4UU5P578pYIr4QEMwjIkJc) | [23](https://open.spotify.com/album/76co89ePW2Am0WMqdX2lPs) | 4:15 | 2023-04-28 |  |
 | [23](https://open.spotify.com/track/0T0vseuNB4KC8opkrCLNbc) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [23](https://open.spotify.com/album/5eo1sGPwe7pPucD3DjOyzf) | 4:20 | 2023-01-20 | 2023-02-11 |
 | [24](https://open.spotify.com/track/74liWk9c43Eu8jSNoN1XFq) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL) | [24](https://open.spotify.com/album/0A9OoTlDkyq72dcmrgctyw) | 3:04 | 2022-04-15 | 2022-04-29 |
 | [24 Hrs](https://open.spotify.com/track/0GMxsSQhO9Yj8aKhN8ljFe) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [24 Hrs](https://open.spotify.com/album/3t9cOTSY2P2Nj7pkbGv7M3) | 2:47 | 2022-05-27 | 2022-06-18 |
@@ -1975,7 +1975,7 @@
 | [Tough Love \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5qidBQqsjdwewlQaw16o3L) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Good Morning Gorgeous \(Deluxe\)](https://open.spotify.com/album/5K3aBzXwBvSltrtfBNYRl6) | 4:33 | 2022-05-06 | 2022-06-11 |
 | [Toxic](https://open.spotify.com/track/1ztwxwoGCnAxNPoDMBPn4u) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Toxic](https://open.spotify.com/album/62KnAoQ8IZmHJuXELKalqu) | 2:15 | 2023-02-03 | 2023-02-18 |
 | [Toxic](https://open.spotify.com/track/557DLyFeg06jCV2cpT005C) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Toxic](https://open.spotify.com/album/3nCelfHqub7N18PxbzSrD0) | 3:33 | 2022-08-12 | 2022-09-10 |
-| [Toxic Ish](https://open.spotify.com/track/13IyPWwTjRTWW62z6L349L) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Toxic Ish](https://open.spotify.com/album/6wdCYDNMmP5C8cdePXGmWh) | 3:07 | 2023-04-28 |  |
+| [Toxic Ish](https://open.spotify.com/track/13IyPWwTjRTWW62z6L349L) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Toxic Ish](https://open.spotify.com/album/6wdCYDNMmP5C8cdePXGmWh) | 3:23 | 2023-04-28 |  |
 | [Traction](https://open.spotify.com/track/4sVTrHsdIofN3d1xyCECHg) | [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T) | [LeakOut](https://open.spotify.com/album/78ZIwVQBzYdrUN9dpvr3cn) | 2:19 | 2022-12-30 | 2023-01-28 |
 | [Trap Still Bumpin](https://open.spotify.com/track/3ek3HsC97ny1IklOZQC88G) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Trap Still Bumpin](https://open.spotify.com/album/732Y6EuDkkhk3MC3YJIX8g) | 2:44 | 2022-12-02 | 2022-12-17 |
 | [Trappin n Rappin \(feat\. Gucci Mane\)](https://open.spotify.com/track/4jCu9I3jXfKLr48r98RyVg) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [The Secret Weapon](https://open.spotify.com/album/1UJTAfBAyEYreutJBFKhXA) | 2:57 | 2023-02-17 | 2023-02-25 |

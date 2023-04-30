@@ -4,7 +4,7 @@
 
 > Good vibes for good times!
 
-109 songs - 6 hr 34 min
+110 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Lonely Days \(with J Boog\)](https://open.spotify.com/track/51ejWDUN9Cgk5OTiBzTAwT) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Born and Raised II \(The Rebirth\)](https://open.spotify.com/album/6O7o6Px8a8oJKTSY0cV40X) | 3:43 | 2022-08-07 |  |
 | [Love & Reggae](https://open.spotify.com/track/1XZVwke6skZtveoKAR1lCz) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Hybrid](https://open.spotify.com/album/0P3wyKb8NvfomTSG9ez9D8) | 3:33 | 2021-08-24 | 2022-07-29 |
 | [Love & Reggae](https://open.spotify.com/track/7nT9lGk3bf5rvnVbzPIE3N) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Hybrid](https://open.spotify.com/album/7lJJIGkMzRbMCEpv6N7qKS) | 3:33 | 2022-06-09 |  |
-| [Love Me](https://open.spotify.com/track/3zfn7mpuEfL0C4x6MTjTAr) | [Fia](https://open.spotify.com/artist/3uwg3MMPpcXtJ7OknqdO9W) | [Love Me](https://open.spotify.com/album/0W5jW3o1KpH0qHBwmytpwK) | 4:24 | 2021-08-24 |  |
+| [Love Me](https://open.spotify.com/track/3zfn7mpuEfL0C4x6MTjTAr) | [Fia](https://open.spotify.com/artist/3uwg3MMPpcXtJ7OknqdO9W) | [Love Me](https://open.spotify.com/album/0W5jW3o1KpH0qHBwmytpwK) | 4:24 | 2021-08-24 | 2023-04-30 |
+| [Love Me](https://open.spotify.com/track/6HwcP1XamKZwjAmcdBN2Pk) | [Fia](https://open.spotify.com/artist/3uwg3MMPpcXtJ7OknqdO9W) | [Love Me](https://open.spotify.com/album/3XedtVc8Dx4e5kXLK36uYB) | 4:24 | 2023-03-30 |  |
 | [Love Mi Bad](https://open.spotify.com/track/3wni9NKQ88KnU2LLa5rkAK) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Love Mi Bad](https://open.spotify.com/album/5ddeqiKpSSfKkl7RDXBEBe) | 2:40 | 2021-08-24 |  |
 | [Mr Reggae](https://open.spotify.com/track/7dGsBUADSyHoD7zdkKi9Ef) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B V](https://open.spotify.com/album/52O3QyngsXELzoDyyIsZuQ) | 3:04 | 2023-03-09 |  |
 | [Murder She Wrote](https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:05 | 2021-08-24 |  |

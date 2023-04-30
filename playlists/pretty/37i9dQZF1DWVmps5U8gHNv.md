@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmps5U8gHNv.md) - [plain]
 
 > A collection of classics from the height of the folk revival to the rise of the folk rock era\. Cover: Bob Dylan
 
-[Spotify](https://open.spotify.com/user/spotify) - 719,241 likes - 112 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 719,534 likes - 112 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmps5U8gHNv.md) - [plain]
 | 72 | [The Grand Tour](https://open.spotify.com/track/5lXX4SAV6HBaVnZ6sUQPNE) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [George Jones \- 16 Biggest Hits](https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p) | 3:07 |
 | 73 | [Leather and Lace \(with Don Henley\)](https://open.spotify.com/track/2npStoMbQxG1LcIeF4PZrj) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Timespace \- The Best Of Stevie Nicks](https://open.spotify.com/album/2zLZzOfiwQ4hnPCu2gVtKB) | 3:49 |
 | 74 | [Pink Moon](https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 2:04 |
-| 75 | [Black Irish Indian](https://open.spotify.com/track/1xfRPtwYl8Na8WRzTQI9rd) | [Cherokee Rose](https://open.spotify.com/artist/2Z9gor60OjbfpDEiFMIcOI) | [Buckskin](https://open.spotify.com/album/1c63m1ZcW5S40hLDWiObqf) | 3:17 |
+| 75 | [Black Irish Indian](https://open.spotify.com/track/6cdvmaxNwuKt7NFiJB4lN0) | [Cherokee Rose](https://open.spotify.com/artist/2Z9gor60OjbfpDEiFMIcOI) | [Buckskin](https://open.spotify.com/album/7qX6BmDAWMZFhJfttYQp0N) | 3:17 |
 | 76 | [Season of the Witch](https://open.spotify.com/track/6MOEQCtAWNSCmvg3SFKF5y) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [Sunshine Superman](https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G) | 4:53 |
 | 77 | [Leaving on a Jet Plane](https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Album 1700](https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ) | 3:27 |
 | 78 | [Little Boxes](https://open.spotify.com/track/4VJrTc5QPr13zgkwxaTjjN) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [Headlines and Footnotes: A Collection of Topical Songs](https://open.spotify.com/album/1ggnnzHVxJFuTDIY78ZF1R) | 1:54 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmps5U8gHNv.md) - [plain]
 | 111 | [I'll Never Find Another You](https://open.spotify.com/track/6Ln9F9lZNMgV5Ht87z9Bd0) | [The Seekers](https://open.spotify.com/artist/7dedWAqd0IKTdCiqiadUrV) | [The Ultimate Collection](https://open.spotify.com/album/2bhcZbOcrAFH69kD3TLFB0) | 2:42 |
 | 112 | [Alice's Restaurant Massacree](https://open.spotify.com/track/4OjKHySJHstsImlUW3qfml) | [Arlo Guthrie](https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw) | [Alice's Restaurant](https://open.spotify.com/album/0Y1XtcuCEFhVIyGtPbBmvm) | 18:36 |
 
-Snapshot ID: `MCxiZTE4ZDRjNzI2YWYzZTBlYWM2YTI4M2ExMTcwMzYwODRlMGEwNmMw`
+Snapshot ID: `MCw2NDI5ZmYyNGU2ZjY0OWQ3MTM3YjFlZWZiMTg4NzYxYzQ4YmQ0YTE1`

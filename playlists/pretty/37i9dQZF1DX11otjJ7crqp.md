@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Stephen Sanchez
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,433 likes - 102 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,541 likes - 102 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 101 | [Someone You Once Had](https://open.spotify.com/track/0xwjCE5vxusQU55F96GXYa) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Someone You Once Had](https://open.spotify.com/album/5Jgn1TXdSHxrWIfKyzsB67) | 3:12 |
 | 102 | [Best Night Ever](https://open.spotify.com/track/3WPLO5uBmbT050ogKdxT5C) | [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [Best Night Ever](https://open.spotify.com/album/1fPkLLMbiHl9v9L2JyBVoJ) | 2:13 |
 
-Snapshot ID: `MCwzODJmOWYzYzViNmIyMzEyMDUwZjBjYmMzNTc4NDhiN2ZiYmQzNDdk`
+Snapshot ID: `MCw4NTM2ZmI4YzJmNGJlNjBkMTM4NWZjMTIzYzkzOTg2M2ZkMWVmMzdi`

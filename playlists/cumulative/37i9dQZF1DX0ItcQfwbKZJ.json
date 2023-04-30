@@ -34,10 +34,28 @@
       ],
       "date_added": "2019-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 228293,
       "name": "Aaya Lolo",
       "url": "https://open.spotify.com/track/0xatU2C2OypO3VhdujMIjf"
+    },
+    {
+      "album": {
+        "name": "Ghana Special: Modern Highlife, Afro Sounds & Ghanaian Blues 1968-81",
+        "url": "https://open.spotify.com/album/7JxOC157mJOWGQmIpCv6YL"
+      },
+      "artists": [
+        {
+          "name": "The Barbecues",
+          "url": "https://open.spotify.com/artist/78qlfsD6MuIyf7g2krns0Q"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228293,
+      "name": "Aaya Lolo",
+      "url": "https://open.spotify.com/track/5CsaF5j7ftgSDY6Px0msTR"
     },
     {
       "album": {
@@ -348,6 +366,24 @@
     {
       "album": {
         "name": "The Budos Band",
+        "url": "https://open.spotify.com/album/7Gu0cy8nMC6Uk10PsdAHXd"
+      },
+      "artists": [
+        {
+          "name": "The Budos Band",
+          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189040,
+      "name": "Budos Theme",
+      "url": "https://open.spotify.com/track/5sF287sBRhHMDJqO8gMbSp"
+    },
+    {
+      "album": {
+        "name": "The Budos Band",
         "url": "https://open.spotify.com/album/1DTr4zczUy1kfP9cISFH6v"
       },
       "artists": [
@@ -358,7 +394,7 @@
       ],
       "date_added": "2019-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 189040,
       "name": "Budos Theme",
       "url": "https://open.spotify.com/track/6VYSidKaYDQV1cXNBPfvu2"
@@ -438,6 +474,24 @@
     {
       "album": {
         "name": "Antibalas",
+        "url": "https://open.spotify.com/album/3XSANYFEaahq8DoY5FSwwM"
+      },
+      "artists": [
+        {
+          "name": "Antibalas",
+          "url": "https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375306,
+      "name": "Dirty Money",
+      "url": "https://open.spotify.com/track/4kIcaK5ukJ1XwewfuO25XP"
+    },
+    {
+      "album": {
+        "name": "Antibalas",
         "url": "https://open.spotify.com/album/2iS8BbypqWnaU4GlJQlJAF"
       },
       "artists": [
@@ -448,7 +502,7 @@
       ],
       "date_added": "2019-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 375306,
       "name": "Dirty Money",
       "url": "https://open.spotify.com/track/634Boo3ThjlnOkURPKQLBP"
@@ -600,6 +654,24 @@
     {
       "album": {
         "name": "The Budos Band EP",
+        "url": "https://open.spotify.com/album/5qxaJ3jAYq68bRSL8OwsDq"
+      },
+      "artists": [
+        {
+          "name": "The Budos Band",
+          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185986,
+      "name": "Ephra",
+      "url": "https://open.spotify.com/track/3ALHP8Zlt4eDfUdqUKCxbW"
+    },
+    {
+      "album": {
+        "name": "The Budos Band EP",
         "url": "https://open.spotify.com/album/7i1uRaDZbc53bpjdTmJEBr"
       },
       "artists": [
@@ -628,7 +700,7 @@
       ],
       "date_added": "2019-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 185986,
       "name": "Ephra",
       "url": "https://open.spotify.com/track/7q4gcbF890tSkGjRexc0Jg"
@@ -902,7 +974,7 @@
       ],
       "date_added": "2019-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 198786,
       "name": "Montego Sunset",
       "url": "https://open.spotify.com/track/0fsD8umgWm5PxXKY3h741i"
@@ -924,6 +996,24 @@
       "duration_ms": 198786,
       "name": "Montego Sunset",
       "url": "https://open.spotify.com/track/1pOijkup74g38GYZ9iSlyZ"
+    },
+    {
+      "album": {
+        "name": "Make the Road By Walking",
+        "url": "https://open.spotify.com/album/6YN8jfCZLngnYeAoaWy4RC"
+      },
+      "artists": [
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198786,
+      "name": "Montego Sunset",
+      "url": "https://open.spotify.com/track/46g7hr6VAtl08So3KkvLc8"
     },
     {
       "album": {
@@ -1014,10 +1104,28 @@
       ],
       "date_added": "2019-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 374960,
       "name": "Ojo",
       "url": "https://open.spotify.com/track/0YFuoBLJnkOPdli5ZXTy5C"
+    },
+    {
+      "album": {
+        "name": "A Nigerian Retrospective 1966-79",
+        "url": "https://open.spotify.com/album/1h4bfufNLobkFgTtlCzz74"
+      },
+      "artists": [
+        {
+          "name": "Tunji Oyelana",
+          "url": "https://open.spotify.com/artist/6piO8ZWHA7dIj5hipFpNna"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374960,
+      "name": "Ojo",
+      "url": "https://open.spotify.com/track/0cgGxQBEaeq38lbTI0G8X3"
     },
     {
       "album": {
@@ -1180,10 +1288,28 @@
       ],
       "date_added": "2019-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 162266,
       "name": "The Traitor",
       "url": "https://open.spotify.com/track/1bZH8L8V2m454tdcSPEIl7"
+    },
+    {
+      "album": {
+        "name": "Make the Road By Walking",
+        "url": "https://open.spotify.com/album/6YN8jfCZLngnYeAoaWy4RC"
+      },
+      "artists": [
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162266,
+      "name": "The Traitor",
+      "url": "https://open.spotify.com/track/4hVGW01fTaqMbYXJyA8YWn"
     },
     {
       "album": {
@@ -1198,10 +1324,28 @@
       ],
       "date_added": "2019-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 170760,
       "name": "The Volcano Song",
       "url": "https://open.spotify.com/track/2XKH3QI6csFvggAPJNKCBt"
+    },
+    {
+      "album": {
+        "name": "The Budos Band",
+        "url": "https://open.spotify.com/album/7Gu0cy8nMC6Uk10PsdAHXd"
+      },
+      "artists": [
+        {
+          "name": "The Budos Band",
+          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170760,
+      "name": "The Volcano Song",
+      "url": "https://open.spotify.com/track/5rrup7bnFoz2WBBukrMLJB"
     },
     {
       "album": {

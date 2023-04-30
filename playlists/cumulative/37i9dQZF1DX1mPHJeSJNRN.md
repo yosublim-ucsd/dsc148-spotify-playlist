@@ -4,7 +4,7 @@
 
 > Soundtrack spring time with uplifting and sunny Jazz.
 
-102 songs - 7 hr 38 min
+103 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Joy Spring](https://open.spotify.com/track/4wy9xl0qIefHzCyFP92oBE) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Happyfeet](https://open.spotify.com/album/384kvE6BvSyX2mghUSW7FP) | 6:40 | 2023-03-15 |  |
 | [Just A Little Lovin'](https://open.spotify.com/track/3YlIKafSOnFnfjAs1E80ng) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Feelin' Good](https://open.spotify.com/album/0pbKbSVpKuXACK5ibuUo7e) | 3:10 | 2023-03-15 |  |
 | [Keep It in Your Dreams](https://open.spotify.com/track/568TTAaxWs5vG3IdmcI0RD) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Romain Collin](https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV) | [Because I Love You](https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5) | 3:12 | 2023-03-15 |  |
-| [La vie en rose \- Single Version](https://open.spotify.com/track/3yYfoYGVpriV4fG9L1ogsD) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Highlights From His Decca Years](https://open.spotify.com/album/0OdoPgKwi6l3paYTSFAWkS) | 3:26 | 2023-03-15 |  |
+| [La vie en rose \- Single Version](https://open.spotify.com/track/3yYfoYGVpriV4fG9L1ogsD) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Highlights From His Decca Years](https://open.spotify.com/album/0OdoPgKwi6l3paYTSFAWkS) | 3:26 | 2023-03-15 | 2023-04-30 |
 | [Last Night](https://open.spotify.com/track/2WNrH1N4HprO6pY8Yuydh8) | [Katherine Kostoff](https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W), [Gil Goldstein](https://open.spotify.com/artist/59bgiWWmCiIfBkzZ8URC1Q) | [It Happens Like That](https://open.spotify.com/album/6GIr6kHBasx66WNSl4l8FD) | 3:31 | 2023-03-15 |  |
 | [Let Me Take You for a Walk](https://open.spotify.com/track/1zcCvJeGmcLQFfYHlcDnf1) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Sun of June](https://open.spotify.com/album/6TlZkjAIMdUs3jOkafcrh4) | 5:06 | 2023-03-15 |  |
 | [Limbo Jazz](https://open.spotify.com/track/4mEBuVqk5t9kxoXOW1fr3P) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Duke Ellington Meets Coleman Hawkins](https://open.spotify.com/album/0Kggi4r3OcApji9xJI3olG) | 5:15 | 2023-03-15 |  |
@@ -75,6 +75,7 @@
 | [Pennies from Heaven](https://open.spotify.com/track/6DK8CIViKcULxgNSKONH7I) | [Jeff Rupert](https://open.spotify.com/artist/3eWJmHOgjTdo3ZsS25iRMh), [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Let's Sail Away](https://open.spotify.com/album/5ONLFeBhrqRDGq5Y9x3ccD) | 4:43 | 2023-03-15 |  |
 | [Promise of Spring](https://open.spotify.com/track/3RcPPbfrQQz5QupaiXxf4K) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Origin](https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE) | 4:29 | 2023-03-15 |  |
 | [Roaring Heights](https://open.spotify.com/track/2wFSomD4N8Zwd4JriLtkm3) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN) | [Time for Ballads \- The Maene Sessions](https://open.spotify.com/album/0A3ky8Ix813biINCcxXAe5) | 4:18 | 2023-03-15 | 2023-04-24 |
+| [Say It](https://open.spotify.com/track/22lW7vmzXA6Epzv8vGd46L) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Flirting With Twilight](https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum) | 4:57 | 2023-04-26 |  |
 | [Shallow Waters](https://open.spotify.com/track/0Q3LZbJerwYufO4DfOfZ56) | [Harold Danko](https://open.spotify.com/artist/26IGMCxg4NgtwUVLlX5rPw), [Jay Anderson](https://open.spotify.com/artist/7eaHILZta913Fkf49T57SV), [Jeff Hirshfield](https://open.spotify.com/artist/52O6frArSmachHxpz0NSTZ) | [Triple Play](https://open.spotify.com/album/5yMWBKYnLrYHMJeA9j9nwr) | 7:46 | 2023-03-15 |  |
 | [Smile](https://open.spotify.com/track/7xLZGhRR2jTUtaPewAmacY) | [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80) | [My New Old Friend](https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr) | 5:33 | 2023-03-15 |  |
 | [Smile](https://open.spotify.com/track/1hdDf2KsMhh8DvCsZ5IUNM) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [I'll Be Seeing You](https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL) | 7:57 | 2023-03-15 |  |

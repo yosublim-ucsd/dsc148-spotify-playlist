@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUeUTA8xEERe.md) - [plain]
 
 > All jazz every Sunday, curated by Jermaine Dupri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,309 likes - 26 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,319 likes - 26 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUeUTA8xEERe.md) - [plain]
 | 21 | [Ao Redor Do Samba](https://open.spotify.com/track/2QtksN2WxxvHj5pMaAo1Tn) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Azymuth JID004](https://open.spotify.com/album/1y3cGiP4R1MCuuLQGK2fvI) | 4:30 |
 | 22 | [I'm Alive](https://open.spotify.com/track/3nIgICd9QMd8B337TtDq14) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I'm Alive](https://open.spotify.com/album/1095r17w02EJWTmkYa4hgz) | 4:16 |
 | 23 | [Ensueño](https://open.spotify.com/track/5snXCd79NWiOvDokJJER0F) | [GODTET](https://open.spotify.com/artist/09OgHVPSgCgflZLrGScfE9) | [Godtet](https://open.spotify.com/album/09VZWAXmXb3QmghmslhLBR) | 4:10 |
-| 24 | [Fall Afternoon](https://open.spotify.com/track/7ldr7OI8hVluYEFVQA7qvn) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Azymuth JID004](https://open.spotify.com/album/1y3cGiP4R1MCuuLQGK2fvI) | 4:17 |
+| 24 | [Fall Afternoon](https://open.spotify.com/track/6uxsDym2BeX70yckRlbIxl) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Azymuth JID004](https://open.spotify.com/album/7btGCQBoauPU3SBCmHvR8p) | 4:17 |
 | 25 | [Monster](https://open.spotify.com/track/679HxTmmDmrbs8BIuZr26f) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Taller \(Expanded Edition\)](https://open.spotify.com/album/70eLZovtqw7sivCdvooBgk) | 4:00 |
 | 26 | [Bluesen](https://open.spotify.com/track/4q4emoW3IX2eHhY3sVkudj) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Haven](https://open.spotify.com/album/1a7WanJ8OXUHZsbIlJZLDb) | 2:57 |
 
-Snapshot ID: `MCw5MTZmNWE2MzNjYTRhNDk4OGUwNTgwNGIxMTQyMjVmNzVmYzE3MWU1`
+Snapshot ID: `MCwxNTliODA2YzE5MThmYjA4NTY4MmMwOTI1MmFlYThmZjRiYjc2MGUy`

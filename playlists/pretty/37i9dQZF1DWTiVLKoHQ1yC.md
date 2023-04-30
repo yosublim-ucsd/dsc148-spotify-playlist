@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,717 likes - 60 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,837 likes - 60 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 59 | [Face The Sun](https://open.spotify.com/track/5HexTiFznk9l0KMEJq54AI) | [Yeadon](https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn) | [Face The Sun](https://open.spotify.com/album/7AY9Y7FUFNwFVQYxVn2h9B) | 7:19 |
 | 60 | [Proud](https://open.spotify.com/track/57fgc1wsUpAj0BfTHncOaT) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Proud](https://open.spotify.com/album/0xyI5ztV0OXUVgZHxLUkzH) | 3:56 |
 
-Snapshot ID: `MCw0OGUzMWZjYmJmNjcxMGU3YTFmYjc1MmRhNTY2MWNhNTYyZWIxMDdj`
+Snapshot ID: `MCw1ODI4NjcyMmRmYzZhZjljMjMwMDEzMTQxOTNiOTE2YzA0ZGVhZmZj`

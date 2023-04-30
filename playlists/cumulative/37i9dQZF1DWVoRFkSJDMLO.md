@@ -4,7 +4,7 @@
 
 > Inspired by African drums\. Cover: Rema 🇳🇬
 
-475 songs - 1 day 0 hr 0 min
+476 songs - 1 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,7 +434,8 @@
 | [Too Young](https://open.spotify.com/track/25d6J6vWQznMkOTS73KSUW) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Lanae](https://open.spotify.com/artist/2G87fDiyNnJmCQStwG0oam) | [Too Young](https://open.spotify.com/album/03dhscBuyiDdIHf58zBe7D) | 2:20 | 2022-05-27 | 2022-06-11 |
 | [Toxique](https://open.spotify.com/track/5iOqSItx90udNnb61yWt6M) | [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3) | [Toxique](https://open.spotify.com/album/4JFsnQN0r0JxAIIA9CdIL0) | 2:30 | 2022-06-10 | 2022-07-02 |
 | [Tremor](https://open.spotify.com/track/3PXtntjqL9xJxtW270fDQX) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se) | [Tremor](https://open.spotify.com/album/3rD9fNOvN2Pi90kgBnDPfU) | 2:06 | 2023-02-24 |  |
-| [TRUCK RIDDIM \(feat\. BEAM\)](https://open.spotify.com/track/7kaNSzp7gVRFoxEmE42IU9) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [TRUCK RIDDIM \(feat\. BEAM\)](https://open.spotify.com/album/7pMzHtdqbu6HGHp30GNp54) | 2:08 | 2022-05-27 |  |
+| [TRUCK RIDDIM \(feat\. BEAM\)](https://open.spotify.com/track/2zZGKXkFM2kCRrGULFK0gY) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [TRUCK RIDDIM \(feat\. BEAM\)](https://open.spotify.com/album/10QeKpvQ9IHAoP3eLhM2mb) | 2:08 | 2023-04-28 |  |
+| [TRUCK RIDDIM \(feat\. BEAM\)](https://open.spotify.com/track/7kaNSzp7gVRFoxEmE42IU9) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [TRUCK RIDDIM \(feat\. BEAM\)](https://open.spotify.com/album/7pMzHtdqbu6HGHp30GNp54) | 2:08 | 2022-05-27 | 2023-04-30 |
 | [Trumpet](https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Trumpet](https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m) | 3:07 | 2023-04-21 |  |
 | [TSUNAMI](https://open.spotify.com/track/10hI8LNwmWn1wc6lRQssTL) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv) | [TSUNAMI](https://open.spotify.com/album/0Ej9cypwgZRyE5EATB4MTV) | 3:24 | 2022-05-27 | 2022-07-09 |
 | [Turn Up](https://open.spotify.com/track/59E9m7Bdo0MbkkbnLeIsI4) | [DJ FREDY MUKS](https://open.spotify.com/artist/1B5iwbFMJ4YMGpLB0nKfUV), [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX) | [Turn Up](https://open.spotify.com/album/7J2tTVPfVnJxPc6sjrDQct) | 2:35 | 2023-03-31 | 2023-04-15 |

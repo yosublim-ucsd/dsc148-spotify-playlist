@@ -1,12 +1,12 @@
 {
   "description": "Entre peinados, maquillajes y vestimentas ex\u00f3ticas, la est\u00e9tica domin\u00f3 la escena musical de los a\u00f1os \u201980. Foto:<a href=\"spotify:user:spotify:playlist:37i9dQZF1DWThxX36B17XL\"> Soda Stereo</a>",
-  "num_followers": 34097,
+  "num_followers": 34137,
   "original_name": "Jet Set",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDEyM2M3OWIzMjViMzUyNDBkMDU5N2IzZGY1YjU3NDc2MDYwMzBj",
+  "snapshot_id": "MCxjMGUzYjMxZjkxZDk2NmEwZDI1YTM0NGJlZTQ2Zjc5Y2RhZWIzYzI0",
   "tracks": [
     {
       "added_at": "2020-03-16 16:12:42",
@@ -687,22 +687,6 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Sentidos Congelados",
-        "url": "https://open.spotify.com/album/0wXerl0nWKYZYAaMj18oVQ"
-      },
-      "artists": [
-        {
-          "name": "Sobrecarga",
-          "url": "https://open.spotify.com/artist/49UpIRD1s5bMEhbYYTnqUD"
-        }
-      ],
-      "duration_ms": 301200,
-      "name": "Conexi\u00f3n Par\u00eds",
-      "url": "https://open.spotify.com/track/24X9r3zeRgB4VTLz75TRw9"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
         "name": "20 Caras Bonitas",
         "url": "https://open.spotify.com/album/7jNFPw0fZoJVM4DoOfi8Lg"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 210179,
       "name": "V\u00eda M\u00e9xico",
       "url": "https://open.spotify.com/track/2F1vbTtyEC531VQhqh2LlK"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
+        "name": "Sentidos Congelados",
+        "url": "https://open.spotify.com/album/0wXerl0nWKYZYAaMj18oVQ"
+      },
+      "artists": [
+        {
+          "name": "Sobrecarga",
+          "url": "https://open.spotify.com/artist/49UpIRD1s5bMEhbYYTnqUD"
+        }
+      ],
+      "duration_ms": 301200,
+      "name": "Conexi\u00f3n Par\u00eds",
+      "url": "https://open.spotify.com/track/24X9r3zeRgB4VTLz75TRw9"
     },
     {
       "added_at": "2020-03-16 16:12:42",

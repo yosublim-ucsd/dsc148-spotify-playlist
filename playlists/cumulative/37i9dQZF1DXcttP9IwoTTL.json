@@ -3218,10 +3218,32 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 236097,
       "name": "Look Like A Man",
       "url": "https://open.spotify.com/track/3LWFZuZWSbz3ZqOFUMY6ZA"
+    },
+    {
+      "album": {
+        "name": "Decius Vol. I",
+        "url": "https://open.spotify.com/album/2bFXQyPnVlhL17xXToDi6z"
+      },
+      "artists": [
+        {
+          "name": "Decius",
+          "url": "https://open.spotify.com/artist/61VfHXWMs8Am1Sg5HeFbJw"
+        },
+        {
+          "name": "Lias Saoudi",
+          "url": "https://open.spotify.com/artist/2FbxiFPYUwfms4iboZw7l4"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236097,
+      "name": "Look Like A Man",
+      "url": "https://open.spotify.com/track/7rQq06VOCezKyfA2pV2HUr"
     },
     {
       "album": {

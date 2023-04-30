@@ -4,7 +4,7 @@
 
 > The best and finest '10s Funk\. Cover: Pharrell Williams.
 
-80 songs - 5 hr 35 min
+81 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Mister Man](https://open.spotify.com/track/2eoDZsvrMKU7Hh9qZhkpsD) | [Turkuaz](https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7) | [Afterlife Vol\. 2 \- EP](https://open.spotify.com/album/6fYiUXcG04ykfJcT9X75Al) | 3:46 | 2021-05-05 |  |
 | [Need Your Love](https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Face Your Fear](https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1) | 2:57 | 2021-05-05 |  |
 | [Number One](https://open.spotify.com/track/19w0peKzUE7Ih1E0FGdaXO) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Tuxedo](https://open.spotify.com/album/6A0IarahNWMnEcJ1Q6sn7d) | 4:08 | 2021-05-05 |  |
-| [On the Sly \(feat\. Kylie Auldist\)](https://open.spotify.com/track/6HVD1XoKFl4QssmyQXh1B9) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K), [Kylie Auldist](https://open.spotify.com/artist/3CSpwE5QPsrPT9KgtG3BF4) | [4](https://open.spotify.com/album/4UoJXG2YaxLtMfasRdrA60) | 3:37 | 2021-05-05 |  |
+| [On the Sly \(feat\. Kylie Auldist\)](https://open.spotify.com/track/05jukmQMwRb1JG4hsqXozn) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K), [Kylie Auldist](https://open.spotify.com/artist/3CSpwE5QPsrPT9KgtG3BF4) | [4](https://open.spotify.com/album/0URKOnZvzd34c9yWZOyJKp) | 3:37 | 2021-05-05 |  |
+| [On the Sly \(feat\. Kylie Auldist\)](https://open.spotify.com/track/6HVD1XoKFl4QssmyQXh1B9) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K), [Kylie Auldist](https://open.spotify.com/artist/3CSpwE5QPsrPT9KgtG3BF4) | [4](https://open.spotify.com/album/4UoJXG2YaxLtMfasRdrA60) | 3:37 | 2021-05-05 | 2023-04-30 |
 | [Pain & Bliss](https://open.spotify.com/track/4FokpEkjmDKUKVo16W98x8) | [The Brooks](https://open.spotify.com/artist/7GnRzYsBXvLyhcdFEtCAei) | [Pain & Bliss](https://open.spotify.com/album/247UN86Rw55rSnp7ANVb4T) | 4:45 | 2021-05-05 |  |
 | [Ric Flair](https://open.spotify.com/track/2ThDKh9TW5xICXsM5qFP65) | [Tom McGuire & the Brassholes](https://open.spotify.com/artist/7JnJgTo8cCtAQmtC0cJyjp) | [Tom McGuire & the Brassholes](https://open.spotify.com/album/4u2sxYAvSd3UQnRlQPSOT6) | 4:16 | 2021-05-05 |  |
 | [Right On! \(Back Around\)](https://open.spotify.com/track/4qtCTao3b90EqtrST7EkWX) | [Mojoflo](https://open.spotify.com/artist/4aFQlnbkc73QGmqlw5N9ED) | [Right On! \(Back Around\)](https://open.spotify.com/album/2KAhYIu58XyZnG8iMqMVWt) | 3:40 | 2021-05-05 |  |

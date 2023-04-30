@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: DaniLeigh
 
-[Spotify](https://open.spotify.com/user/spotify) - 997,048 likes - 144 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 997,298 likes - 144 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 99 | [Void](https://open.spotify.com/track/1KpTRAQKZuZS21myWlTuRu) | [Kaleem Taylor](https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug) | [Ember](https://open.spotify.com/album/4TdkbM2pBTKg4mKppswtyN) | 3:16 |
 | 100 | [4evaaa](https://open.spotify.com/track/0uq8z2z0DUJNRgxv3DfqT3) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [nolademos](https://open.spotify.com/album/3aXlTlKpRpnwTsjL0lXRIt) | 3:15 |
 | 101 | [Running Away](https://open.spotify.com/track/33Z6FvhXVw8HJ8ulGQ6Kj2) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Running Away](https://open.spotify.com/album/3E4Zo3HpawW7w2uBbhLY8H) | 3:15 |
-| 102 | [If You Don't Want My Love](https://open.spotify.com/track/2364WrvPTUHobDNURudCbM) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [If You Don't Want My Love](https://open.spotify.com/album/2pCNvQ7AcClmXZmpIfyP2N) | 2:26 |
+| 102 | [If You Don't Want My Love](https://open.spotify.com/track/5BO76ay1UPZEj72HUqJtxA) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [If You Don't Want My Love](https://open.spotify.com/album/1t09sHx5LoUBFD8M4h94Nn) | 2:26 |
 | 103 | [Razor Blades](https://open.spotify.com/track/6C3jUhCmyGk4IMHquseryI) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv), [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Razor Blades](https://open.spotify.com/album/3O4cMy4fjaEmut0hbdqtuV) | 3:01 |
 | 104 | [So Be It \(with Summer Walker\) \- Remix](https://open.spotify.com/track/2IkJZzXP6fg0A7WOpp1xAE) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [The Hurtbook \(Homegirl Pack\)](https://open.spotify.com/album/5kljTEylYVvyu90Qnw6JIB) | 3:13 |
 | 105 | [Sticky \(feat\. Childish Gambino & KIRBY\)](https://open.spotify.com/track/14adSLAL6WgvwH5snRF3gs) | [Ni'jah](https://open.spotify.com/artist/0RkeQU983gcehOYs7632vR), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Swarm](https://open.spotify.com/album/7AXxq1n3X7JZbbEnGCfLAX) | 2:51 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 143 | [Good Life](https://open.spotify.com/track/2Lc5zGwYbAHprruXw7BRN4) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl), [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [Good Life](https://open.spotify.com/album/036V4i5G3gEIbUJXjz72z9) | 3:00 |
 | 144 | [Opps](https://open.spotify.com/track/2b2WMIC8YCeCAjxSi4IEPg) | [Nelccia](https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk) | [From Me, To Me](https://open.spotify.com/album/4IQMv39CumpjHwaqr9yvhI) | 3:16 |
 
-Snapshot ID: `MCwzMzdjZjIwMmM0NWMzZWIxYjgwYjNiNjZhODI4NDNkYTM0ODA5ZjJj`
+Snapshot ID: `MCxlYzdmMWEwOThmODZhZDNiZGQ0NTFjZWFjZmFjMzM3YzZiZjhjM2Q2`

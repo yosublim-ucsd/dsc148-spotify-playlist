@@ -4,7 +4,7 @@
 
 > The best new Experimental by independent artists and labels, with Isabel Do Diego on cover\. Artwork Thami Nabil\. Updates every Wednesday.
 
-1,315 songs - 4 day 9 hr 49 min
+1,318 songs - 4 day 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,8 @@
 | [blinding tunnel](https://open.spotify.com/track/14AP7MGqCLnJfLGsrwzrKR) | [Sownbones](https://open.spotify.com/artist/0gIMQx6hCQ9COuMORi6SWA) | [helpless](https://open.spotify.com/album/0tCBu2Dsa20w0msgy5IXsr) | 2:15 | 2022-01-19 | 2022-03-15 |
 | [Blinking](https://open.spotify.com/track/1Rh8eOM4ClnG0OpqVopYOu) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Blinking/Aubades](https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U) | 2:44 | 2021-10-07 | 2021-12-02 |
 | [Blobject](https://open.spotify.com/track/4R49HTqdoT2EkLHrFOODYf) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Blobject](https://open.spotify.com/album/5rtc7nqGQrjHG7aQwZmRf2) | 5:56 | 2021-02-28 | 2021-03-16 |
-| [Blood Quantum](https://open.spotify.com/track/5NzKoIONf1BLgcg3CO1XIj) | [Divide And Dissolve](https://open.spotify.com/artist/4YmPo9Zke9OYNmV5WW7CMS) | [Blood Quantum](https://open.spotify.com/album/2aLyXaQ3nu8TpV6wSpxmWa) | 4:52 | 2023-04-12 |  |
+| [Blood Quantum](https://open.spotify.com/track/5NzKoIONf1BLgcg3CO1XIj) | [Divide And Dissolve](https://open.spotify.com/artist/4YmPo9Zke9OYNmV5WW7CMS) | [Blood Quantum](https://open.spotify.com/album/2aLyXaQ3nu8TpV6wSpxmWa) | 4:52 | 2023-04-12 | 2023-04-30 |
+| [Blood Quantum](https://open.spotify.com/track/6J6A3SuiMvLPBtkaGsThyj) | [Divide And Dissolve](https://open.spotify.com/artist/4YmPo9Zke9OYNmV5WW7CMS) | [Blood Quantum](https://open.spotify.com/album/0WKJqZUlLBA8rR1M8AvpIL) | 4:52 | 2023-04-12 |  |
 | [Blue](https://open.spotify.com/track/3MFDKhxMepztfjlK4lJgZt) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [The Blue of Distance](https://open.spotify.com/album/0l75LSipQXsxxlOAKvI3iW) | 9:56 | 2021-01-30 | 2021-03-16 |
 | [Blue](https://open.spotify.com/track/0pQRKoI5y2F5BD8hTM7ZXM) | [Suminagashi](https://open.spotify.com/artist/6nhq2fYm3ALJJd7WcjuE7x) | [ORIS VOL.2 Club Sentimental](https://open.spotify.com/album/1c7VzlK1RTWhiQCRqUNisk) | 5:38 | 2021-07-29 | 2021-11-09 |
 | [Blue Dot](https://open.spotify.com/track/3y2ZgKvaecQSGaVKfJmOjN) | [Ondo Fudd](https://open.spotify.com/artist/7IZChv6fjGqS8iNv9cRciz) | [Blue Dot](https://open.spotify.com/album/1xy84dZeX6VGAw2wTbbckc) | 4:35 | 2021-05-16 | 2021-07-22 |
@@ -301,7 +302,8 @@
 | [Disuelta](https://open.spotify.com/track/4SPUd69r54Ovg4pzYi7Id8) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Disuelta](https://open.spotify.com/album/4JjvVBkMjoo66rhVQAbCol) | 2:57 | 2020-10-30\* | 2021-01-15 |
 | [Do You Know Who Loves You](https://open.spotify.com/track/4DkP6MMH9rgMzX2mNn14lg) | [Manslaughter 777](https://open.spotify.com/artist/1qtBRxCZQPtmRREsOTmUyj) | [Do You Know Who Loves You](https://open.spotify.com/album/3SYLK24ZGzuv9kR4y8PmOF) | 4:18 | 2021-02-10 | 2021-02-11 |
 | [DOG](https://open.spotify.com/track/3ZAuPoxTsFsMfY9cNxyFYy) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Claire Rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Eyeline](https://open.spotify.com/album/0wiBZdQc7wQA1s6oOZmlNx) | 1:44 | 2022-09-21 | 2022-12-01 |
-| [Dog Dreams](https://open.spotify.com/track/2bThSr8x4vga3wX4GPhsMA) | [Lucy Liyou](https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1) | [Dog Dreams](https://open.spotify.com/album/2MSTNHj5xm06bHVfg2lZ9u) | 14:28 | 2023-04-12 |  |
+| [Dog Dreams](https://open.spotify.com/track/2bThSr8x4vga3wX4GPhsMA) | [Lucy Liyou](https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1) | [Dog Dreams](https://open.spotify.com/album/2MSTNHj5xm06bHVfg2lZ9u) | 14:28 | 2023-04-12 | 2023-04-30 |
+| [Dog Dreams](https://open.spotify.com/track/6czAPpUz0Q5OZ5w4HtF1Sm) | [Lucy Liyou](https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1) | [Dog Dreams](https://open.spotify.com/album/0XKauAjKNc9I6WUEyGS5FY) | 14:28 | 2023-04-12 |  |
 | [DOLO 19](https://open.spotify.com/track/04wMS7aHTcuxey4PpHQRkK) | [Dolo Percussion](https://open.spotify.com/artist/5FqcBM8zqtOBgofGNm2Ij9) | [DOLO 5](https://open.spotify.com/album/3Fxr8l876K9G5PKslxDEy5) | 3:08 | 2020-10-30\* | 2021-01-15 |
 | [Dome](https://open.spotify.com/track/67nylLS4kRYpaz3Q6VTDWF) | [Nick Storring](https://open.spotify.com/artist/3eLda5nrhivbKY1bNJgICp) | [Newfoundout](https://open.spotify.com/album/02AMsZQ8hwlJUV6YWoICMd) | 12:40 | 2021-08-26 | 2021-12-02 |
 | [Don't Despair](https://open.spotify.com/track/5k2YlVkGU0gfbHfc9jRw59) | [Lafawndah](https://open.spotify.com/artist/7jHWye55igIZ6SsF4eXKkP) | [Don't Despair](https://open.spotify.com/album/7d0pCrFRaiHkN5Gh20M9Bo) | 5:32 | 2020-10-30\* | 2020-11-15 |
@@ -516,7 +518,8 @@
 | [Hydrophane](https://open.spotify.com/track/1gbiFOijOpkRMnvX9K6vO0) | [Niilas](https://open.spotify.com/artist/1qAHgylFxv2gU6bXAQEM2P) | [Hydrophane](https://open.spotify.com/album/0coxrdusrh6He9yHSisqkz) | 14:38 | 2022-09-14 | 2022-09-22 |
 | [Hypermetropia, pt\. 1](https://open.spotify.com/track/15xmSzL7MKI9o6dBFx8FCM) | [Federico Ferrandina](https://open.spotify.com/artist/4e2xdsWjF1WQGKUr3u09NW) | [Hypermetropia, pt\. 1](https://open.spotify.com/album/44NyqqlpdwQzRyAmmZ880Z) | 3:10 | 2021-01-21 | 2021-04-07 |
 | [Hypersigil](https://open.spotify.com/track/7IQc2oWrdj5Y5WnxE8usgV) | [Anita Velveeta](https://open.spotify.com/artist/7ysa24HVkhXpjm5NpwnziR) | [Biblically Accurate Fursona](https://open.spotify.com/album/7C60sRZDmSH5f8CfPw4vHb) | 3:08 | 2022-08-10 | 2022-09-01 |
-| [Hypertext Responder](https://open.spotify.com/track/7s9d8M6GirXhAcamv3v9IX) | [Andy Loebs](https://open.spotify.com/artist/2af5Lv9wWgwNTSEbSadtJP) | [Hypertext Responder](https://open.spotify.com/album/4YvHEgZmrelYOF1VgWpjSP) | 2:27 | 2023-03-15 |  |
+| [Hypertext Responder](https://open.spotify.com/track/0Cpx81TbJadSrU81qjw6ot) | [Andy Loebs](https://open.spotify.com/artist/2af5Lv9wWgwNTSEbSadtJP) | [Hyperlink Anamorphosis](https://open.spotify.com/album/41ZgtwWKQyeZSOLokCf7dr) | 2:27 | 2023-03-15 |  |
+| [Hypertext Responder](https://open.spotify.com/track/7s9d8M6GirXhAcamv3v9IX) | [Andy Loebs](https://open.spotify.com/artist/2af5Lv9wWgwNTSEbSadtJP) | [Hypertext Responder](https://open.spotify.com/album/4YvHEgZmrelYOF1VgWpjSP) | 2:27 | 2023-03-15 | 2023-04-30 |
 | [Hypnic Jerks](https://open.spotify.com/track/3xzPT6PC6o88vwHF06CntA) | [Rian Treanor](https://open.spotify.com/artist/6un6trkuuP46AZM0kkY8Yx) | [File Under UK Metaplasm](https://open.spotify.com/album/1GOCqu141EPdI8yiwfSBSY) | 3:52 | 2021-01-21 | 2021-02-15 |
 | [Hyrule City](https://open.spotify.com/track/7guMblzcJsgdHeWBTshWx1) | [Cam Steen](https://open.spotify.com/artist/7t9afRFax4ByKMkrhejMwd) | [Hyrule City](https://open.spotify.com/album/4XZUBJGuNRlmAUiOXB0VJe) | 4:57 | 2023-03-22 |  |
 | [I Am Back](https://open.spotify.com/track/1f2glhsr6q7TGRGsfWgpsn) | [Tripp St.](https://open.spotify.com/artist/6IuIhkCK8SjoSJskiCZdp0) | [I Am Back](https://open.spotify.com/album/7tL0iJz1ECumr6C5OvAPC5) | 3:38 | 2021-02-28 | 2021-03-18 |

@@ -1353,6 +1353,24 @@
     },
     {
       "album": {
+        "name": "Cycles",
+        "url": "https://open.spotify.com/album/39YBVSJcX1YP53p3CiEOTB"
+      },
+      "artists": [
+        {
+          "name": "Rachel Baiman",
+          "url": "https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166320,
+      "name": "Joke\u2019s On Me",
+      "url": "https://open.spotify.com/track/4PrwTOyFdEzYaYoTDaLuIG"
+    },
+    {
+      "album": {
         "name": "Joke's On Me",
         "url": "https://open.spotify.com/album/2bUopTPyNJIcpvvMJwxgk3"
       },
@@ -1364,7 +1382,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 166320,
       "name": "Joke\u2019s On Me",
       "url": "https://open.spotify.com/track/5yczYndIpml2ip1H3q2D3U"
@@ -2562,10 +2580,32 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 258920,
       "name": "Strange Fascination",
       "url": "https://open.spotify.com/track/1yPsixPIuKi7ohxwn0NpGf"
+    },
+    {
+      "album": {
+        "name": "Strange Fascination",
+        "url": "https://open.spotify.com/album/7kXILLnl4TJxQVfxb04wTs"
+      },
+      "artists": [
+        {
+          "name": "Chatham County Line",
+          "url": "https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7"
+        },
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258930,
+      "name": "Strange Fascination",
+      "url": "https://open.spotify.com/track/2ygPlZkaKoHXKBZ1LXZkXO"
     },
     {
       "album": {
@@ -2750,7 +2790,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 254614,
       "name": "The Ship",
       "url": "https://open.spotify.com/track/0LXXiQatpwbFI6JBc0xLOH"
@@ -2772,6 +2812,24 @@
       "duration_ms": 254614,
       "name": "The Ship",
       "url": "https://open.spotify.com/track/2Szz5P9GX7eMcVqnTNvTGH"
+    },
+    {
+      "album": {
+        "name": "The Ship",
+        "url": "https://open.spotify.com/album/5JwL8oRLq3tLlCbGis5rAJ"
+      },
+      "artists": [
+        {
+          "name": "Ana Egge",
+          "url": "https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254614,
+      "name": "The Ship",
+      "url": "https://open.spotify.com/track/5IHWAtuAGFJpesZPmxkWSV"
     },
     {
       "album": {
@@ -3009,13 +3067,25 @@
     },
     {
       "album": {
-        "name": "Wake Me When It's Over [feat. Sara Watkins, Sarah Jarosz, Aoife O'Donovan]",
+        "name": "Wake Me When It's Over",
         "url": "https://open.spotify.com/album/0TagfK04olSVvnfHtWbhJz"
       },
       "artists": [
         {
           "name": "I'm With Her",
           "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        },
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        },
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        },
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
       "date_added": "2023-04-28",

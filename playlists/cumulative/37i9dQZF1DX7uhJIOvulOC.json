@@ -52,10 +52,28 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 219613,
       "name": "Better Things",
       "url": "https://open.spotify.com/track/1lDrb5N8RmfD1USPQYPpUu"
+    },
+    {
+      "album": {
+        "name": "I Learned the Hard Way",
+        "url": "https://open.spotify.com/album/7tsqjPwOhgPOWHgp9RHYi6"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219613,
+      "name": "Better Things",
+      "url": "https://open.spotify.com/track/2dwzy3ZOiNbJ8TBGmVb8bw"
     },
     {
       "album": {

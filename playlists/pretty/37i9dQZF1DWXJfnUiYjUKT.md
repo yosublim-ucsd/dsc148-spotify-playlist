@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Labrinth
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,342 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,159 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 88 | [Replacements \(feat\. La Roux\)](https://open.spotify.com/track/067mO4njSpF7qUEE96lbpH) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Replacements \(feat\. La Roux\)](https://open.spotify.com/album/677Ket8qKGVOMtXgE4Gpfk) | 3:49 |
 | 89 | [in my head](https://open.spotify.com/track/4E4K8qooKOsDHpZrmquBGm) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [in my head](https://open.spotify.com/album/6LxluJA87ubb7G4prSX07I) | 3:44 |
 | 90 | [How Soon](https://open.spotify.com/track/3xYN1E1k2yKo542ORTXM0G) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [How Soon](https://open.spotify.com/album/4jdF1Zm7qKtorqthSwAokK) | 3:10 |
-| 91 | [fade \- flounder bonus track](https://open.spotify.com/track/6bwpypFpmlRU9GY4XOtuoT) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [fade \(flounder bonus track\)](https://open.spotify.com/album/70nuNnwpPva8VbEuHmbQNE) | 2:36 |
+| 91 | [fade \(flounder bonus track\)](https://open.spotify.com/track/6bwpypFpmlRU9GY4XOtuoT) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [fade \(flounder bonus track\)](https://open.spotify.com/album/70nuNnwpPva8VbEuHmbQNE) | 2:36 |
 | 92 | [Something To Dance To](https://open.spotify.com/track/15wjZVpG5krE8khXtQq7Cu) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Something To Dance To](https://open.spotify.com/album/3CN2Jr3yuLh1soyJPNErQC) | 2:32 |
 | 93 | [Widows](https://open.spotify.com/track/7uekrO5T87CllybcQdhRVd) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Driving Just To Drive](https://open.spotify.com/album/28DLjjQKZ9qRvKFSu5Y7QM) | 3:48 |
 | 94 | [Forever In A Song](https://open.spotify.com/track/2JP8F7nwSXIFETVnFgoGVZ) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [U Street Anthology](https://open.spotify.com/album/2NvrZxKKfKBN3UBJqdn5Ep) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [DEATH KEEPS CALLING MY NAME \(feat\. Shrimp\)](https://open.spotify.com/track/29MyBEvj2JpRQD4oDjk7Wa) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [Shrimp](https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC) | [DEATH KEEPS CALLING MY NAME \(feat\. Shrimp\)](https://open.spotify.com/album/3m9KFrinHziZcXsGdy8EW6) | 2:55 |
 | 100 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 |
 
-Snapshot ID: `MCxmYzlmNjgwY2JkZTdjNTkxOWI2NTc3NWViMDdkZGI0MmFhNTdmNTU2`
+Snapshot ID: `MCw4YWQyZTBiOGNkYWVlNmFjNmU1NTYwMDExZjE3ZTE4MjIwZmM0MDgx`

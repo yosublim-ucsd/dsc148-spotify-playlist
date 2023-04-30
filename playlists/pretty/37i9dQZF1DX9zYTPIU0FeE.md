@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/27MxvuyBenjamin Jephta</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,285 likes - 51 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,291 likes - 51 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Intlungu Nentlupheko](https://open.spotify.com/track/46IEMoR4xnawTn2mIGBPxz) | [Robin Fassie](https://open.spotify.com/artist/5Z5yBH3PAZ2Qpp5DFHZn2d) | [Intwasa: The Becoming](https://open.spotify.com/album/3BfYSNT6iqBE5UyiZFSRwj) | 8:00 |
 | 2 | [How Why When](https://open.spotify.com/track/4zPiJutnH4BoPlt4nYpsFi) | [Spha Mdlalose](https://open.spotify.com/artist/5zgK9I4L2Nwjm4mk3lphMO) | [Indlel'eyekhaya](https://open.spotify.com/album/6BprMXrD72oW5QF3hlS1m7) | 5:21 |
-| 3 | [Resonance of Truth](https://open.spotify.com/track/4EoHAXteZOnhNhw90XzilV) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Resonance of Truth](https://open.spotify.com/album/2bdu1AlNxOIUoQgJG9ho60) | 5:19 |
+| 3 | [Resonance of Truth](https://open.spotify.com/track/3khqXPns3K35UUWdikdcGq) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Resonance of Truth](https://open.spotify.com/album/2BT9yT0t764TDt5Gqxi7XC) | 5:19 |
 | 4 | [An Incomplete Transition](https://open.spotify.com/track/4vNC5f2AIIAIR6z0SUJD7H) | [Benjamin Jephta](https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W) | [An Incomplete Transition](https://open.spotify.com/album/2yn9EFZJjeKtOzMYuisuxj) | 9:44 |
 | 5 | [Moshe](https://open.spotify.com/track/3JY0KovNSPcs48thjVAauQ) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [UMDALI](https://open.spotify.com/album/3nXuL25LbboMeH2KfOE1U8) | 10:14 |
 | 6 | [Wozani Nonke Sizothandaza](https://open.spotify.com/track/5JlzEk3QTex3bOELO59xi1) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [At This Point in Time: Voices in Volumes](https://open.spotify.com/album/0Nm6Bc09bsazARFqzfemzr) | 8:04 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 13 | [Rites](https://open.spotify.com/track/5XhsgJqFcTac7rNqz0fbx1) | [Vuma Levin](https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX) | [Rites](https://open.spotify.com/album/4b3P5JVBTRdvkLAk8voX40) | 6:34 |
 | 14 | [Joburg Poem](https://open.spotify.com/track/2HOgtaksnuNreoo6xogBHL) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Finish The Sun](https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD) | 3:56 |
 | 15 | [Kwetu](https://open.spotify.com/track/6Veo9O8iD7ewhA5ZzB3fRh) | [Aaron Rimbui \| Ayanda Sikade \| Herbie Tsoaeli](https://open.spotify.com/artist/1MyMTjHltmrJ1A4Z79vpSo) | [Kwetu](https://open.spotify.com/album/2hNj1dmL0kfOlMUtOpcFcJ) | 5:26 |
-| 16 | [Wynter Time](https://open.spotify.com/track/14MNWR9L2Hm62cwZTj0lBM) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [Wynter Time](https://open.spotify.com/album/2KmDzNsGlhCzEjV49krJGp) | 9:27 |
+| 16 | [Wynter Time](https://open.spotify.com/track/3keL9OPcgEPFKrclh0nlSg) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [Wynter Time](https://open.spotify.com/album/77Eh0NmNr9ITqpaSwg5xvh) | 9:27 |
 | 17 | [The Migration Suite Part II](https://open.spotify.com/track/2aUgQ0RxwcOOGCrWKYwUAC) | [Sisonke Xonti](https://open.spotify.com/artist/5aoTUcGtI83q6Y8Lqvl4Pm) | [uGaba the Migration](https://open.spotify.com/album/1Igp59kX92saIgyQYTbnm7) | 7:24 |
 | 18 | [I Fall in Love Too Easily](https://open.spotify.com/track/6YKNvlxRImDvcNwA65N2mz) | [Seba Kaapstad](https://open.spotify.com/artist/6i1YUN2HJGtCdO3s17JV3V) | [Tagore's](https://open.spotify.com/album/1Ljp2q2Pk9gHrmrFfG6NfC) | 5:27 |
 | 19 | [Emlilweni](https://open.spotify.com/track/6nq4iL5FqVg5b1xXqTTsSg) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft), [Jaleel Shaw](https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv) | [Emlilweni](https://open.spotify.com/album/0dWHPV6VdVYUZiY9ma0XKQ) | 6:33 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 50 | [Bayakhala](https://open.spotify.com/track/044VNnUGUaAOphHS0uHITs) | [The Brother Moves On](https://open.spotify.com/artist/1lk7zDKaonwqrwKwt8Krd7) | [Bayakhala](https://open.spotify.com/album/0X0kjZMbBYfMg00uuY6vkf) | 5:30 |
 | 51 | [Konakele](https://open.spotify.com/track/3qKG9yS1kM7BbvKtJghsE9) | [Xhanti Nokwali](https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M) | [Umthombo](https://open.spotify.com/album/5Qg2kXcTYZWUVFAC7UYMMV) | 6:29 |
 
-Snapshot ID: `MCxmOWYwZDQxNzFmMWFhNjdlMmY3MTY1MjQwMDhiNmI0MmFhNDcxMjg2`
+Snapshot ID: `MCwwOTQxNTRkODcxMzljY2M1ZDA1ZjY3NjUwNjhlOGU3YzQ4NTdiMDI4`

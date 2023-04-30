@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Magdalena Bay
 
-1,549 songs - 3 day 9 hr 43 min
+1,550 songs - 3 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [American Dream](https://open.spotify.com/track/2HRPgT1aI9IYTQi8jIHPAm) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [American Dream](https://open.spotify.com/album/4ZpWUFvJDQoslAdpUToCS3) | 4:19 | 2021-06-05 | 2021-12-04 |
 | [AMERICAN DREAM](https://open.spotify.com/track/1dZpKFO7vErbONAuYB4ON3) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [AMERICAN DREAM](https://open.spotify.com/album/2K7Rl7AGmFmMvx4tYnC05u) | 2:31 | 2022-08-19 | 2022-08-23 |
 | [American Football](https://open.spotify.com/track/1NI5y9DsyLxdybMe7i3OdN) | [Kitten](https://open.spotify.com/artist/4zHX9zUUtxUw898g1GyihC) | [American Football](https://open.spotify.com/album/702HLtsHLyZaHqg9S1GWJO) | 3:21 | 2021-03-02 | 2021-05-20 |
+| [american jesus](https://open.spotify.com/track/6gnjE8oBkosBIEZroEjq4I) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [american jesus](https://open.spotify.com/album/7D970R6nLDmuw6XlpsceFW) | 2:48 | 2023-04-28 |  |
 | [American Teenager](https://open.spotify.com/track/2k5D4U0IEcEW5eGyNtpXhH) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [American Teenager](https://open.spotify.com/album/5LFr8f5ZW3vhdaDKsIDh7a) | 4:18 | 2022-04-25 | 2022-08-06 |
 | [American Teenager](https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 4:18 | 2022-10-21 | 2023-01-24 |
 | [Ancient History](https://open.spotify.com/track/7xraSFStWpP7VT3CiJlXAj) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [LIFE IN A SIMULATION](https://open.spotify.com/album/2c6v5CCrPsVVSHfEwOVTRT) | 3:56 | 2021-10-22 | 2022-04-21 |
@@ -693,7 +694,7 @@
 | [i wanna be your right hand](https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [i wanna be your right hand](https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT) | 2:28 | 2023-03-24 | 2023-04-19 |
 | [I WANNA DIE BUT I CAN’T \(CUZ I GOTTA KEEP LIVING\)](https://open.spotify.com/track/0lcwE4dOsg3HB2BiUJxurh) | [PRONOUN](https://open.spotify.com/artist/08q2kFjr9p4cJqTGU9xJgg) | [I WANNA DIE BUT I CAN’T \(CUZ I GOTTA KEEP LIVING\)](https://open.spotify.com/album/7Jkkqjg8xAO7Jz4vV5H9oB) | 2:50 | 2021-05-06 | 2021-05-27 |
 | [i wanna kiss boys cos i'm bored](https://open.spotify.com/track/5BGk9BV2Bar129ZNJFqgWA) | [Lucy Sugerman](https://open.spotify.com/artist/5nLGkslzP5G1oqwxhUPj2N) | [i wanna kiss boys cos i'm bored](https://open.spotify.com/album/6Q3hFKUM6miEc14p6y9nCl) | 2:56 | 2020-12-12 | 2021-01-15 |
-| [I Wanna Live Forever](https://open.spotify.com/track/759ptp5ik4aLVCMnrQmUKg) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [I Wanna Live Forever](https://open.spotify.com/album/3kI5ZrCZC4FudYzqSAbyVK) | 3:26 | 2023-03-31 |  |
+| [I Wanna Live Forever](https://open.spotify.com/track/759ptp5ik4aLVCMnrQmUKg) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [I Wanna Live Forever](https://open.spotify.com/album/3kI5ZrCZC4FudYzqSAbyVK) | 3:26 | 2023-03-31 | 2023-04-30 |
 | [i wanna slam my head against the wall](https://open.spotify.com/track/4dVR8jBG0RQ7jbdi8GRkyd) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [i wanna slam my head against the wall](https://open.spotify.com/album/19frp2ct1Jd1vE6biNvP7n) | 1:56 | 2021-03-19 | 2022-04-16 |
 | [I Want To Be With You](https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 2:59 | 2021-12-03 | 2022-12-10 |
 | [I Want U](https://open.spotify.com/track/52ewMn6BRCU9hAPysg8TLm) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [I Want U](https://open.spotify.com/album/0AuX0J4cRITW4Xzejp1e8d) | 3:33 | 2021-11-12 | 2022-07-23 |

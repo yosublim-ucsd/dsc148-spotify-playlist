@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhBhYl3ZMvY.md) - [plain]
 
 > Catch all the essential tracks by the multitalented Rihanna.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,835 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,064 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhBhYl3ZMvY.md) - [plain]
 | 49 | [Sledgehammer \- From The Motion Picture "Star Trek Beyond"](https://open.spotify.com/track/3EdsfpdAlaQBMO0LgNOEhn) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Sledgehammer \(From The Motion Picture "Star Trek Beyond"\)](https://open.spotify.com/album/1kv0MtCYndTXtkdzvGHkMx) | 3:31 |
 | 50 | [Birthday Cake](https://open.spotify.com/track/4EfN6bixdOOgoLYR5C4cWo) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk](https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T) | 1:18 |
 
-Snapshot ID: `MCxiZTAzZDRiNDBhZWFmMDU0ZGIxYjlmZjE1MjRjNjY0ZmMyYzhhY2Zj`
+Snapshot ID: `MCxjY2M1MjAzMzg5NTg2OTg0ZjZlMGFlMjg1MTJiMmZlMTEwZGY3ZGJk`

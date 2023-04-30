@@ -657,6 +657,24 @@
     },
     {
       "album": {
+        "name": "Horrifying Deatheating Bloodspider",
+        "url": "https://open.spotify.com/album/2AofxKR1xww94PPlpswmNs"
+      },
+      "artists": [
+        {
+          "name": "Daniel Norgren",
+          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135853,
+      "name": "Get the Moon Up",
+      "url": "https://open.spotify.com/track/3OU19imtvnEfnNbMwiyRDO"
+    },
+    {
+      "album": {
         "name": "The Complete Recordings, Vol. 5: The Final Chapter",
         "url": "https://open.spotify.com/album/7eQ9VnRlRUSdmMjQM13Rl3"
       },
@@ -1654,7 +1672,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 234293,
       "name": "Wagon Wheel",
       "url": "https://open.spotify.com/track/1whAS4pUvFSaMpjbEI4bHQ"

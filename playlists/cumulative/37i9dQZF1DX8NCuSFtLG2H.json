@@ -694,10 +694,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 308744,
       "name": "Folon",
       "url": "https://open.spotify.com/track/1DCW0SjXfjBwbiYDSVbuOg"
+    },
+    {
+      "album": {
+        "name": "Kora +1",
+        "url": "https://open.spotify.com/album/62vn052g2TSd9MPGmHwQr1"
+      },
+      "artists": [
+        {
+          "name": "Lamine Cissokho",
+          "url": "https://open.spotify.com/artist/4yNX2MT20zgrgvC7rrsFv6"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308744,
+      "name": "Folon",
+      "url": "https://open.spotify.com/track/3LWfdsYsZ5yI3HgcavHSzO"
     },
     {
       "album": {
@@ -2410,6 +2428,24 @@
     {
       "album": {
         "name": "Kora +1",
+        "url": "https://open.spotify.com/album/62vn052g2TSd9MPGmHwQr1"
+      },
+      "artists": [
+        {
+          "name": "Lamine Cissokho",
+          "url": "https://open.spotify.com/artist/4yNX2MT20zgrgvC7rrsFv6"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258010,
+      "name": "Toutou Diarra",
+      "url": "https://open.spotify.com/track/6jPRIrQI72sXLhLseNwmrf"
+    },
+    {
+      "album": {
+        "name": "Kora +1",
         "url": "https://open.spotify.com/album/7p5u26mM2kqrPCFUmJNJvG"
       },
       "artists": [
@@ -2420,7 +2456,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 258011,
       "name": "Toutou Diarra",
       "url": "https://open.spotify.com/track/4uEmFWgfgnIJT3lLS3srZc"

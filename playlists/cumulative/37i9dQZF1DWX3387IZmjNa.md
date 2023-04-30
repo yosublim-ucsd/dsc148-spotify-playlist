@@ -4,7 +4,7 @@
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Karri
 
-309 songs - 15 hr 55 min
+309 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,7 @@
 | [Too Much](https://open.spotify.com/track/2sZmxXCO6mZCPTHd6DRcBH) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [In Due Time](https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu) | 3:47 | 2021-10-07\* | 2021-12-04 |
 | [Touch You](https://open.spotify.com/track/6ISm3GwztEFGsDKuF2X8fl) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Touch You](https://open.spotify.com/album/4Mk7V7BkcDEobk4xs7HTft) | 2:38 | 2021-10-07\* | 2021-10-23 |
 | [Toxic](https://open.spotify.com/track/557DLyFeg06jCV2cpT005C) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Toxic](https://open.spotify.com/album/3nCelfHqub7N18PxbzSrD0) | 3:33 | 2022-08-12 | 2023-04-09 |
-| [Toxic Ish](https://open.spotify.com/track/13IyPWwTjRTWW62z6L349L) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Toxic Ish](https://open.spotify.com/album/6wdCYDNMmP5C8cdePXGmWh) | 3:07 | 2023-04-28 |  |
+| [Toxic Ish](https://open.spotify.com/track/13IyPWwTjRTWW62z6L349L) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Toxic Ish](https://open.spotify.com/album/6wdCYDNMmP5C8cdePXGmWh) | 3:23 | 2023-04-28 |  |
 | [Toxic Traits \(with KB Mike\)](https://open.spotify.com/track/3ip51s5ui2OEur1fzCKsaJ) | [Lul Bob](https://open.spotify.com/artist/6GJeLBoNe1m9Yk1dEAUgJj), [KB Mike](https://open.spotify.com/artist/6dGMlf9UbIdCyLvUiAS4yY) | [Toxic Traits \(with KB Mike\)](https://open.spotify.com/album/4sYNQCQPR4fgNLHtl2hBhp) | 2:39 | 2022-07-08 | 2022-09-10 |
 | [Track Star \(Remix 2.0\)\(feat\. Chris Brown, A Boogie wit da Hoodie & Yung Bleu\)](https://open.spotify.com/track/53sTK6KBrvsuqKT9qNpS5d) | [Mooski](https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Track Star \(Remix 2.0\)\(feat\. Chris Brown, A Boogie wit da Hoodie & Yung Bleu\)](https://open.spotify.com/album/7apgoRWUQYh2dfIaI8yYWi) | 3:41 | 2021-10-07\* | 2021-11-19 |
 | [Trapping & Finessing \(LOVE Song\)](https://open.spotify.com/track/6TSwiqJJ7alc1rHHetz4Eb) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Trapping & Finessing](https://open.spotify.com/album/3Z0aq4NH3sfrAMURV9pv41) | 2:28 | 2023-03-03 | 2023-04-29 |

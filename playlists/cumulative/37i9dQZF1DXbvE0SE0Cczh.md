@@ -4,7 +4,7 @@
 
 > From new retro to classic country blues, honky tonk, rockabilly, and more.
 
-110 songs - 4 hr 51 min
+111 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Great Balls Of Fire](https://open.spotify.com/track/6vR4LDbi4H6iwC3YDUL6jT) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Live From Austin TX](https://open.spotify.com/album/4BUYX8tv99QAq6ZwJrd6ZQ) | 1:49 | 2019-03-04 | 2022-05-07 |
 | [Great Balls Of Fire](https://open.spotify.com/track/64VP3skE86iTvdOlbzuIcO) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Jerry Lee's Greatest](https://open.spotify.com/album/02FCCye8QsWyjHwedg9Quj) | 1:51 | 2022-05-06 |  |
 | [Heartbreak Hotel](https://open.spotify.com/track/7v1GxlbFevo4kLJGZf8aAZ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The Essential Elvis Presley](https://open.spotify.com/album/3X3rFfVKCW58sKMO0UXkwO) | 2:09 | 2019-03-04 |  |
-| [Hey Baby](https://open.spotify.com/track/6kyUPFuPaaprlnKeVaQQMS) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [One Day](https://open.spotify.com/album/0kVNpxNis78JrqQgsir4QN) | 2:50 | 2022-02-11 |  |
+| [Hey Baby](https://open.spotify.com/track/4MaNTAN78ylZnCMCKBFiU9) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [One Day](https://open.spotify.com/album/0KP0kzTCtYthC6dVndh1Jj) | 2:50 | 2022-08-16 |  |
+| [Hey Baby](https://open.spotify.com/track/6kyUPFuPaaprlnKeVaQQMS) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [One Day](https://open.spotify.com/album/0kVNpxNis78JrqQgsir4QN) | 2:50 | 2022-02-11 | 2023-04-30 |
 | [Hound Dog](https://open.spotify.com/track/0JOw67rq2X6NDz5AJP9uIG) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:13 | 2019-03-04 |  |
 | [I Fall To Pieces](https://open.spotify.com/track/5U2uhwJseYO7eH5nEwPb8z) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Introducing the Dwights](https://open.spotify.com/album/3Z0LdhZyBaeniH7m9VpSrR) | 2:49 | 2019-03-04 | 2022-07-29 |
 | [I Fall To Pieces \- Single Version](https://open.spotify.com/track/746xZfoO1KwOo1q7pA3pvp) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Country Music Festival](https://open.spotify.com/album/3qvl2coqo8tO5t810GDjYc) | 2:47 | 2022-08-16 | 2022-11-13 |

@@ -1,12 +1,12 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 191402,
+  "num_followers": 191477,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjlmNzg0NzMwYzRjZGNlZWJiMTY1ZTkyZjViOTQ3NTQzOWE2MmMz",
+  "snapshot_id": "MCxhYWNkZmY0NmQ0ZmRhZjEyMjM3MTdmMTkyOGYzYmRiMjBhMzc2MGQ2",
   "tracks": [
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "El Cazador",
-        "url": "https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 174973,
-      "name": "Cantarle a Ella",
-      "url": "https://open.spotify.com/track/6LyX5OTvWeJP2Sio5BfuDg"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "Enamorada de Ti",
         "url": "https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 190840,
       "name": "No Me Queda M\u00e1s",
       "url": "https://open.spotify.com/track/6wDNRITsP5tBCImheKBTgi"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "El Cazador",
+        "url": "https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 174973,
+      "name": "Cantarle a Ella",
+      "url": "https://open.spotify.com/track/6LyX5OTvWeJP2Sio5BfuDg"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "\u00cdconos 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 210653,
-      "name": "D\u00e9jame Amarte",
-      "url": "https://open.spotify.com/track/59WAVCfF8Emeoo7Re7Hl89"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "Llegaste A Mi Vida",
         "url": "https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 220466,
       "name": "Qu\u00e9 M\u00e1s Te Puedo Dar",
       "url": "https://open.spotify.com/track/7JTgmtRq4WBy2jG6Ijm9m8"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 210653,
+      "name": "D\u00e9jame Amarte",
+      "url": "https://open.spotify.com/track/59WAVCfF8Emeoo7Re7Hl89"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "30 Exitos Insuperables",
-        "url": "https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV"
-      },
-      "artists": [
-        {
-          "name": "Mazz",
-          "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
-        }
-      ],
-      "duration_ms": 236293,
-      "name": "Que Me Lleven Canciones",
-      "url": "https://open.spotify.com/track/3qi5CS04DKtP5eIzQZ5gI7"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "Iconic (Remastered)",
         "url": "https://open.spotify.com/album/04QjiAjGtDlaGITJRecZRj"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 224506,
       "name": "Di Algo featuring Edgar Ramirez of Zeri",
       "url": "https://open.spotify.com/track/65othLo1tpzoD8LUT16GTu"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "30 Exitos Insuperables",
+        "url": "https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV"
+      },
+      "artists": [
+        {
+          "name": "Mazz",
+          "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
+        }
+      ],
+      "duration_ms": 236293,
+      "name": "Que Me Lleven Canciones",
+      "url": "https://open.spotify.com/track/3qi5CS04DKtP5eIzQZ5gI7"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Lo Basico",
-        "url": "https://open.spotify.com/album/2hruqNk86ciCeHpUv0tggC"
-      },
-      "artists": [
-        {
-          "name": "Mazz",
-          "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
-        }
-      ],
-      "duration_ms": 255013,
-      "name": "Vuelvo",
-      "url": "https://open.spotify.com/track/0oj2y6H2rneQ1QV4lLkTyG"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "La Leyenda (Version Super Deluxe)",
         "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 146720,
       "name": "Ven Conmigo",
       "url": "https://open.spotify.com/track/5neqwbGxk0u6OgiTqXmd57"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "Lo Basico",
+        "url": "https://open.spotify.com/album/2hruqNk86ciCeHpUv0tggC"
+      },
+      "artists": [
+        {
+          "name": "Mazz",
+          "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
+        }
+      ],
+      "duration_ms": 255013,
+      "name": "Vuelvo",
+      "url": "https://open.spotify.com/track/0oj2y6H2rneQ1QV4lLkTyG"
     }
   ],
   "unique_name": "Tejano Classics",

@@ -1538,7 +1538,7 @@
     {
       "album": {
         "name": "Nothing More to Say",
-        "url": "https://open.spotify.com/album/2QjhLePTnaWv2eBUbCwceA"
+        "url": "https://open.spotify.com/album/5oGtxusqxowETVnVokdqME"
       },
       "artists": [
         {
@@ -1549,6 +1549,24 @@
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 201253,
+      "name": "Till Then",
+      "url": "https://open.spotify.com/track/56o2Y7yCupDH4uqn4vayMc"
+    },
+    {
+      "album": {
+        "name": "Nothing More to Say",
+        "url": "https://open.spotify.com/album/2QjhLePTnaWv2eBUbCwceA"
+      },
+      "artists": [
+        {
+          "name": "The Frightnrs",
+          "url": "https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP"
+        }
+      ],
+      "date_added": "2020-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 201253,
       "name": "Till Then",
       "url": "https://open.spotify.com/track/7IEaxDFdRJyEpKVYV6iAds"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Jessie Ware
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,946 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,076 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 65 | [Ticket to the Moon](https://open.spotify.com/track/1fXfLc7IUxBFUXWz63R7qy) | [Carvel'](https://open.spotify.com/artist/0I4uy2IXjgZo96j10CpaMf) | [Ticket to the Moon](https://open.spotify.com/album/5PuxGOFsboXuUmD8X7jShz) | 2:42 |
 | 66 | [Time Travlr](https://open.spotify.com/track/7sCeITmY2JvWqfvi9rZNf9) | [Rhythm&Truth](https://open.spotify.com/artist/0QIHW98V3e4bOsrhBpUGn7), [Jessie Wagner](https://open.spotify.com/artist/1GOWkEyghfYevfkCg4yych) | [Time Travlr](https://open.spotify.com/album/1lGubcIoHy2L1Xx8PSKbt1) | 4:00 |
 | 67 | [Lost & Found](https://open.spotify.com/track/6A7HqsKxJMFhu445YhVEes) | [LOU'ANA](https://open.spotify.com/artist/6bmZe9cAGCwdOgriWbhhy7) | [Lost & Found](https://open.spotify.com/album/3HZENo8xClrt9dUyFubNrl) | 3:59 |
-| 68 | [Lionel Richie](https://open.spotify.com/track/1EfF2gJNuksJeHXLevKoFf) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI) | 4:27 |
+| 68 | [Lionel Richie](https://open.spotify.com/track/12NoB9QOi50RHQl6C5xg3F) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/1onqdmFxHDk2sMBhYATWX3) | 4:27 |
 | 69 | [Bye Bye Blues](https://open.spotify.com/track/1qYDuYKKMoAXvZBv1auEz2) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Bye Bye Blues](https://open.spotify.com/album/3AUPIddaKveMAAqY85pcEO) | 2:50 |
 | 70 | [Your Love](https://open.spotify.com/track/0uo8mXAMX1OGngebGLmAeH) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L) | [Your Love](https://open.spotify.com/album/1LV5fBgsYBmb85DyqCtNNx) | 3:22 |
 | 71 | [Love And Appreciation \- Radio Edit](https://open.spotify.com/track/7a506fRBFFXnalrqcjj3eT) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Love And Appreciation \(Radio Edit\)](https://open.spotify.com/album/7HYTTSaO6GJ7OQIi4cb558) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 99 | [Uh Oh](https://open.spotify.com/track/3H22B0hgj1YTiqalHYmlcd) | [Maggie Szabo](https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48) | [Uh Oh](https://open.spotify.com/album/01uvUQQX7kHhylGcUxviGD) | 3:01 |
 | 100 | [Alegría \(Franc Moody Remix\)](https://open.spotify.com/track/4pXlg4wiARIhv0CHx0pFMd) | [RELATIN](https://open.spotify.com/artist/0t3hsCFzCFOP4Zev9DOIw8), [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Alegría \(Franc Moody Remix\)](https://open.spotify.com/album/2Txxw56PHJcWihrTHjFubI) | 3:48 |
 
-Snapshot ID: `MCwwZmZkNWVkMDAyYWM5NDIyYjI5M2U4MDIwMzI5NTA4YmFlYzkxNzUy`
+Snapshot ID: `MCw4YzNlOTljOWE0ZmQyYWU4MGY1Yjk3ZTQ4ZjE5M2IzNjE3OWFmYjM0`

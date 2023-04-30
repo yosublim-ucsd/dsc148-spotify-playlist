@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-700 songs - 1 day 17 hr 49 min
+701 songs - 1 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Amen \(Duet\)](https://open.spotify.com/track/6pKr6NVBI3kBQEPhkgWPDv) | [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8), [Stereo Jane](https://open.spotify.com/artist/2rJ1AerBug0HNEj8gIHazF) | [Amen \(Duet\)](https://open.spotify.com/album/2e2AcOb95ce2RMT3rOsD1V) | 3:16 | 2021-12-17 | 2022-04-21 |
 | [Amsterdam](https://open.spotify.com/track/1sIAk1Hpj5YsMyYYtTsdal) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Amsterdam](https://open.spotify.com/album/6Ju9oTtTNypA2En3jEoXWP) | 3:33 | 2021-12-17 | 2022-07-29 |
 | [Amsterdam](https://open.spotify.com/track/52BtapS0Wy7LM8R6QvJRpp) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Sidelines](https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP) | 3:33 | 2022-07-22 |  |
-| [Amsterdam \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es) | 3:13 | 2022-07-22 |  |
+| [Amsterdam \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es) | 3:13 | 2022-07-22 | 2023-04-30 |
 | [Amsterdam \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4muAGMNipTEtIoYfMa9QL0) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/774yLThHwXXqrrH2bgF912) | 3:13 | 2022-01-24 | 2022-04-21 |
 | [An Alien In Minneapolis \- Edit](https://open.spotify.com/track/5YhOK0XMfjtW5L42FODqzK) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [An Alien in Minneapolis](https://open.spotify.com/album/0v6BWLBbaTRtVIC2d09Jmk) | 4:19 | 2022-07-15 |  |
 | [Angelina](https://open.spotify.com/track/2k6nhnNqdGwWMJVhGgeXdH) | [Distant Cousins](https://open.spotify.com/artist/2K1qlqSkT0CWFKIr9EjDLb) | [Next of Kin](https://open.spotify.com/album/0e0Z7Oxwi6QMdGyOH627vb) | 2:31 | 2021-12-17 | 2022-07-09 |
@@ -310,7 +310,8 @@
 | [I Melt With You](https://open.spotify.com/track/11Ftd4jfRnTeAcDYZgxnGx) | [Daulton Hopkins](https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS) | [I Melt With You](https://open.spotify.com/album/3U5EtpqL7RLpfjAlkvV4OV) | 3:37 | 2021-12-17 | 2022-07-29 |
 | [I Melt with You](https://open.spotify.com/track/2klm5iA7LfNZBdip5hAeVL) | [Daulton Hopkins](https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS) | [I Melt with You](https://open.spotify.com/album/52bkZUrqk2yqMChTrt7bQS) | 3:37 | 2023-02-10 |  |
 | [I Melt with You](https://open.spotify.com/track/6uYFQyxZtCZih0aUfk1XdQ) | [Daulton Hopkins](https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS) | [I Melt with You](https://open.spotify.com/album/2LtZ92MK0h2C1zJofjUMaQ) | 3:37 | 2022-07-22 | 2023-02-15 |
-| [I Might Be](https://open.spotify.com/track/5uKH4nY6ALq8jGNZ0BYlBH) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc) | [You and Me and Everything](https://open.spotify.com/album/0csxZuCz56owUfU6dC7Dth) | 3:36 | 2023-03-28 |  |
+| [I Might Be](https://open.spotify.com/track/5Xn7YNELSHUulgaumQZqyV) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc) | [You and Me and Everything](https://open.spotify.com/album/0lRuRo9qWAokYKUW6PeJiY) | 3:36 | 2023-04-28 |  |
+| [I Might Be](https://open.spotify.com/track/5uKH4nY6ALq8jGNZ0BYlBH) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc) | [You and Me and Everything](https://open.spotify.com/album/0csxZuCz56owUfU6dC7Dth) | 3:36 | 2023-03-28 | 2023-04-30 |
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/2oeEe3EdRBaUPRHmIbgQLU) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [I Still Haven't Found What I'm Looking For / my future](https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN) | 3:32 | 2021-12-17 |  |
 | [I Tried](https://open.spotify.com/track/2K90utpi9AUlGUrYDapNGB) | [Casey Dubie](https://open.spotify.com/artist/1sYE9vIZsQ6cxgdr7ysq2F) | [I Tried](https://open.spotify.com/album/0m6Rqk4Dgy7D8XEvTbrVuZ) | 4:26 | 2022-01-24 | 2022-04-20 |
 | [I Want You Back](https://open.spotify.com/track/0oiNNnrv5iYEl96RimHw8G) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz) | 2:46 | 2023-02-10 |  |
@@ -682,7 +683,7 @@
 | [Whirlwind](https://open.spotify.com/track/4FdlrVG63Nsx9I7dBtsh6J) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Whirlwind](https://open.spotify.com/album/419Peyo7a60OWSj0M03YQY) | 3:28 | 2021-12-17 |  |
 | [Wild Honey \(Acoustic\)](https://open.spotify.com/track/5yP0mhRJkEEzGlCQLyC9Mn) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Wild Honey \(Acoustic\)](https://open.spotify.com/album/5tINqKaSnJLJfQZhMWmkO9) | 4:07 | 2021-12-17 | 2022-04-20 |
 | [Wild Parts](https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Wild Parts](https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam) | 3:59 | 2021-12-17 | 2022-07-17 |
-| [Wilderness](https://open.spotify.com/track/2dS2710jYUM8gE2V1KC3uG) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Twenty Something](https://open.spotify.com/album/04fOj55fAN5mWhs7DMvNiH) | 4:29 | 2022-07-22 | 2023-04-27 |
+| [Wilderness](https://open.spotify.com/track/2dS2710jYUM8gE2V1KC3uG) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Twenty Something](https://open.spotify.com/album/04fOj55fAN5mWhs7DMvNiH) | 4:29 | 2022-07-22 |  |
 | [Wilderness](https://open.spotify.com/track/3rQqqQef0tVevvbJwgtEM4) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Twenty Something](https://open.spotify.com/album/5fUVOUdxLGSI8O45skJ4kY) | 4:29 | 2021-12-17 | 2022-04-21 |
 | [wish you the best \(feat\. Jensen McRae\)](https://open.spotify.com/track/35xkenzfDhEA1LEpJsprKu) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [wish you the best \(feat\. Jensen McRae\)](https://open.spotify.com/album/4O5JiVh2ldkKaBsCFNuOdK) | 3:12 | 2021-12-17 | 2022-01-25 |
 | [With You](https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [With You](https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ) | 3:31 | 2021-12-17 |  |

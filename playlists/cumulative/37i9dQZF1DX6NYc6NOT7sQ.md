@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3gNEIgLeknpwkNViU8WAhg">Oceanvs Orientalis</a>' favorite tracks\. Updated regularly\. Curated by Oceanvs Orientalis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-103 songs - 9 hr 33 min
+104 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [No Hay Dub](https://open.spotify.com/track/7nv3M2hLmXLXaibVTyZFmO) | [Capablanca](https://open.spotify.com/artist/7LQa8It1omQc5ZpspPFRA2), [T.Keeler](https://open.spotify.com/artist/4Ha58NDSY39ronEL7NRmHE) | [No Hay Ritmo](https://open.spotify.com/album/1ZVKyWlobJRBzvlA73NdZQ) | 7:15 | 2023-01-27 |  |
 | [On Again](https://open.spotify.com/track/2srxLxwPkmZkFgS6Jrwmbi) | [Gerardo Frisina](https://open.spotify.com/artist/5TW4eUAdUAz7llrJJfBllc) | [Soul Drum](https://open.spotify.com/album/29hrsLp9WgEFp6kVRyUuxO) | 6:07 | 2023-01-27 |  |
 | [Palermo](https://open.spotify.com/track/46MwDjJIlbV7mxZRri9J8R) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Culcha Vulcha](https://open.spotify.com/album/3rA4jjk6YcRwVUD66fXS1J) | 6:37 | 2023-01-27 |  |
-| [Pire](https://open.spotify.com/track/7eSZ01vwRY59uAzGt5V3lP) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT) | [Pire](https://open.spotify.com/album/2mjxQEUX5uXMyHPMd0UHXC) | 7:43 | 2023-01-27 |  |
+| [Pire](https://open.spotify.com/track/7eSZ01vwRY59uAzGt5V3lP) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT) | [Pire](https://open.spotify.com/album/2mjxQEUX5uXMyHPMd0UHXC) | 7:43 | 2023-01-27 | 2023-04-30 |
+| [Pire](https://open.spotify.com/track/7qZ5is8K4lCoyFPeUcOK8C) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT) | [Pire](https://open.spotify.com/album/25UC82lB2kSaJIacwHkafb) | 7:43 | 2023-04-20 |  |
 | [Purple Rose](https://open.spotify.com/track/4eijCHExCy4mmggrhhiEeN) | [Kalabrese](https://open.spotify.com/artist/2MUENaxB93ZPNclZIDEMMV) | [Independent Dancer](https://open.spotify.com/album/6aGKLN1RkJ9LlnWjEJK77i) | 6:37 | 2023-01-27 |  |
 | [Quasar](https://open.spotify.com/track/4auPkl8KDB2a1kk4zj0HHp) | [Gidge](https://open.spotify.com/artist/7aibxFH8hIlSUlXgshCgAP) | [New Light](https://open.spotify.com/album/07iv0tkKefJPUp9RFDOuNQ) | 5:52 | 2023-01-27 |  |
 | [Robots](https://open.spotify.com/track/4JLHvLj1cHJpopm40v32lY) | [Landhouse](https://open.spotify.com/artist/0b05DhI4gD2fNDlqbFBOyt), [Raddantze](https://open.spotify.com/artist/1GHfdjpfUhB42zcMKm2EOL) | [Robots In Lilac Spaceships](https://open.spotify.com/album/1pRQnDjYshduiknpZpWrPc) | 8:04 | 2023-01-27 |  |

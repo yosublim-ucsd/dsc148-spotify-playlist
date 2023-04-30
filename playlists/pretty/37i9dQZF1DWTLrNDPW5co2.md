@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,856 likes - 60 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,871 likes - 60 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 11 | [Voices](https://open.spotify.com/track/4OGbM5ZtdaCFGVkX5Wr8Tw) | [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h) | [Voices](https://open.spotify.com/album/016CiaX63Hugtj7w1IKcJz) | 3:40 |
 | 12 | [Night Creature](https://open.spotify.com/track/3qEel6r284fp9ti2CYuO12) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Night Creature](https://open.spotify.com/album/7f74ViVWoWCIdBaRzKjpuu) | 3:31 |
 | 13 | [Company](https://open.spotify.com/track/2d6YYtRjKgAlO1xBubTjMM) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Company](https://open.spotify.com/album/3T3gVP98ZNhdVBoYJP1LPT) | 3:36 |
-| 14 | [GETOUTOFMYHEAD](https://open.spotify.com/track/2kYQCKxOi9Dccib2E8KaW5) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [GETOUTOFMYHEAD](https://open.spotify.com/album/04Cbf32azwsSiMpOjHDNya) | 6:16 |
+| 14 | [GETOUTOFMYHEAD](https://open.spotify.com/track/3DayjEnW7oPHucWm71NtIH) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [GETOUTOFMYHEAD](https://open.spotify.com/album/5Vnhdn0oxYlogKhFdT1SWn) | 6:16 |
 | 15 | [Final Credits](https://open.spotify.com/track/5gC2aJwuSzGe3IJVlk9r2O) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [Final Credits](https://open.spotify.com/album/4DR47uL0VrENkV4fuTMdOE) | 7:19 |
 | 16 | [Earth](https://open.spotify.com/track/7dx5DbxkhVWt8KsW8kePNM) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Earth](https://open.spotify.com/album/4tEySm30Wxlad1GJSkky3J) | 4:01 |
 | 17 | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/track/7KzTDWGFQerYzkSqRXLwUp) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/album/1R1i1cNz94QG5tT4aByFgU) | 2:44 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 35 | [Inside Your Head](https://open.spotify.com/track/6iRSsdRMHkkJfAqT4Zg5oM) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Inside Your Head](https://open.spotify.com/album/3PnWelLCKVI3bDKqtndeiO) | 4:13 |
 | 36 | [Find Your Way Home](https://open.spotify.com/track/0WoxURnxMhMHVEZpK04KzU) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [She's Calling EP](https://open.spotify.com/album/4QIzvwiurfYaLWAATLXU0N) | 8:17 |
 | 37 | [Watch](https://open.spotify.com/track/6BTaOTV4R07QunBda62fR7) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:28 |
-| 38 | [GLAMOUR Riddim](https://open.spotify.com/track/3tBv0XOlAl5EOsENMqfHuW) | [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [love has never been a popular movement.](https://open.spotify.com/album/0kmuTT4FJA0DQhNNFhR1hE) | 5:48 |
+| 38 | [GLAMOUR Riddim](https://open.spotify.com/track/61gAlsx885y2RvpPwwcJo0) | [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [love has never been a popular movement.](https://open.spotify.com/album/3S3okSECqppR83HJYWGoxY) | 5:48 |
 | 39 | [Burnt Orange \- Edit](https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 4:31 |
-| 40 | [Cocky](https://open.spotify.com/track/108H1bXtmIVHFkh2geKFt9) | [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Cocky](https://open.spotify.com/album/6n9US7BwG1k1A9AEX6DFie) | 4:50 |
+| 40 | [Cocky](https://open.spotify.com/track/3UwPb3pdpSN0cUxl4XGpO2) | [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Cocky](https://open.spotify.com/album/1G9wCQ0maje1EMpManZZ6M) | 4:50 |
 | 41 | [Amber Rush](https://open.spotify.com/track/4AqvfnUyIfQoa4hIbEPYnt) | [Joshua James](https://open.spotify.com/artist/3g6L9paGFaZxGp7lxChRqh) | [Amber Rush](https://open.spotify.com/album/7ahTHniOH0ml5SiymYAhmW) | 6:05 |
 | 42 | [Str8 Acting](https://open.spotify.com/track/7g1R3Hd3BmYtTE1j4Jlsyi) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Smash Hits, Vol\. 1](https://open.spotify.com/album/3kfoQafwQQuUkr3MCSalLS) | 3:55 |
 | 43 | [Love Vibration](https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Love Vibration](https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL) | 3:00 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 57 | [Obliterate](https://open.spotify.com/track/12bWYZA94k9TyxAVQ5aBQ5) | [Lupa J](https://open.spotify.com/artist/1yvTsFefUSbLoOimc1vMZJ) | [To Breathe Underwater](https://open.spotify.com/album/2lL7bjuc1QrmCYFuJb1fng) | 3:33 |
 | 58 | [Stable](https://open.spotify.com/track/1817ydt1CL3eGGYELfOJ4m) | [gayphextwin](https://open.spotify.com/artist/47dyK0Chuion8ciGWDZuxa) | [Spiro](https://open.spotify.com/album/5SDYui91J517bJCwP879gS) | 4:08 |
 | 59 | [Raw Silk Uncut Wood](https://open.spotify.com/track/5wVB3rkTxCGLV9xBj0GGAl) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Raw Silk Uncut Wood](https://open.spotify.com/album/2dsRjDCYTJeqoQXuc8ZRjY) | 10:00 |
-| 60 | [No Idol \- Remix](https://open.spotify.com/track/1eRLxk3ZvgJFsH2wJFcyGq) | [DJ Haram](https://open.spotify.com/artist/13VynrBSvRLrAX5YqdD1vl) | [Grace EP](https://open.spotify.com/album/6ODJBf2C5LXJGIcB9QHU7p) | 2:36 |
+| 60 | [No Idol \- Remix](https://open.spotify.com/track/6uVCNLms1D9lQLIg9JG7Jr) | [DJ Haram](https://open.spotify.com/artist/13VynrBSvRLrAX5YqdD1vl) | [Grace EP](https://open.spotify.com/album/1KqDdW5d7l4g9y7JzGyyDB) | 2:36 |
 
-Snapshot ID: `MCxmYmQyZDhhNzFkNTRmYjBmNDJhOGQwZTUwZTRkNTc3ZmNmNWRjMmEz`
+Snapshot ID: `MCxiNjZmYWYwMmYyNjU3YWI2MDQ4YTAzYTE4MzFhNGM2Mjc3MTU3ZGZi`

@@ -4,7 +4,7 @@
 
 > Gather 'round and enjoy these far out songs about outer space.
 
-120 songs - 5 hr 22 min
+122 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,8 +46,9 @@
 | [Let's Take a Rocketship to Space](https://open.spotify.com/track/1DAuRdoUEt3wEnhMfkEsiR) | [Danny and the Jaytones](https://open.spotify.com/artist/5lyPgnomDawdy0mnwph5QN) | [Phineas and Ferb](https://open.spotify.com/album/1mwUxOieg2GvQn4wm5bJR1) | 1:05 | 2021-12-06 |  |
 | [Let's Take a Rocketship to Space](https://open.spotify.com/track/35kkOnkZFTmXaDL2K19B99) | [Danny and the Jaytones](https://open.spotify.com/artist/5lyPgnomDawdy0mnwph5QN) | [Phineas And Ferb](https://open.spotify.com/album/29OHw0hs03uERDcTbY9ojU) | 1:05 | 2021-12-06 | 2022-07-29 |
 | [Like an Astronaut](https://open.spotify.com/track/34sYzTy9q7ouoM2scDVRQY) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Like an Astronaut](https://open.spotify.com/album/3v8sX3q4ZcldPstroObwXz) | 3:18 | 2021-12-06 | 2022-11-13 |
+| [Like An Astronaut](https://open.spotify.com/track/3AyGhbjcYwxD65oHADrt1P) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Little Wild Universe](https://open.spotify.com/album/1d4OxOLiEmz5o8uZRmLDNl) | 3:18 | 2023-02-24 |  |
 | [Like an Astronaut](https://open.spotify.com/track/4PrJZgxgs0aSq2uyZx7o4R) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Little Wild Universe](https://open.spotify.com/album/3zz0uMOHpkE3mDEeQb3Y5l) | 3:18 | 2021-12-06 | 2022-07-29 |
-| [Like An Astronaut](https://open.spotify.com/track/5tSp0Z398lThGSk3pCd3ZY) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Little Wild Universe](https://open.spotify.com/album/5YloE8LbD6eVwtyzKTGRAp) | 3:18 | 2021-12-06 |  |
+| [Like An Astronaut](https://open.spotify.com/track/5tSp0Z398lThGSk3pCd3ZY) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Little Wild Universe](https://open.spotify.com/album/5YloE8LbD6eVwtyzKTGRAp) | 3:18 | 2021-12-06 | 2023-04-30 |
 | [Los Astronautas](https://open.spotify.com/track/2he2sah5T3HY8RMOxTEpD3) | [Chespirito](https://open.spotify.com/artist/1XPjFfnJm6Zvv06kZZhN4R) | [Chespirito y Sus Amigos](https://open.spotify.com/album/4U9gghqx6DSuToyM3WDGwX) | 2:31 | 2021-12-06 |  |
 | [Mikey the Marsian](https://open.spotify.com/track/4EyzNFEd8U2fKUyEYOB45N) | [ABC Kids](https://open.spotify.com/artist/6l7J2uM3bM2BCh0tIPhWx8) | [A Rocket to the Moon](https://open.spotify.com/album/7usbIPqIwsVe91YvmJbwpK) | 1:28 | 2021-12-06 |  |
 | [Milky Way](https://open.spotify.com/track/2djKbLephFPacAeS7Cq7jI) | [Bill Harley](https://open.spotify.com/artist/7unQbCJn1z8DeI4FgzoulA) | [Kidz S.T.E.M\. Songz](https://open.spotify.com/album/3nHt4nMlPuCzLFzrhq1Akg) | 4:23 | 2021-12-06 |  |
@@ -94,8 +95,9 @@
 | [Star Trek Prodigy \- Main Theme](https://open.spotify.com/track/6MgwW6xRxd3eDROUAH3XIT) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr), [Star Trek Prodigy](https://open.spotify.com/artist/5xBSDl8pzdxe3qTNxXrez7), [Nami Melumad](https://open.spotify.com/artist/7icx86YKqzAozjY6xf0KNF) | [Star Trek Prodigy \(Original Music from the Series\)](https://open.spotify.com/album/7k7ARrPvKAc6SzXA0DojGx) | 2:52 | 2023-02-24 |  |
 | [Star Wars \(Main Theme\)](https://open.spotify.com/track/7a9UUo3zfID7Ik2fTQjRLi) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Empire Strikes Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a) | 5:46 | 2021-12-06 |  |
 | [The Ballad of Davy Crockett \(in Outer Space\)](https://open.spotify.com/track/55EQ8G6yRRK23iPHRL6g7A) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 2:17 | 2021-12-06 |  |
-| [The International Space Station Band](https://open.spotify.com/track/5BJiBZRtXgs18dSNbGJIfQ) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Little Wild Universe](https://open.spotify.com/album/5YloE8LbD6eVwtyzKTGRAp) | 4:01 | 2021-12-06 |  |
+| [The International Space Station Band](https://open.spotify.com/track/5BJiBZRtXgs18dSNbGJIfQ) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Little Wild Universe](https://open.spotify.com/album/5YloE8LbD6eVwtyzKTGRAp) | 4:01 | 2021-12-06 | 2023-04-30 |
 | [The International Space Station Band](https://open.spotify.com/track/5qF71U4k62WWJlmdsHrFY7) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Little Wild Universe](https://open.spotify.com/album/3zz0uMOHpkE3mDEeQb3Y5l) | 4:01 | 2021-12-06 | 2022-07-29 |
+| [The International Space Station Band](https://open.spotify.com/track/7DpUaSPpRJEpWR2u1ScYIp) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Little Wild Universe](https://open.spotify.com/album/1d4OxOLiEmz5o8uZRmLDNl) | 4:01 | 2023-02-24 |  |
 | [The Martian Song](https://open.spotify.com/track/2pow3AB7DypoE908360J5c) | [Beth Jean](https://open.spotify.com/artist/4ctZ0Ct9SuTQlZoZurWK4l) | [Beth Jean](https://open.spotify.com/album/3prPN1xvegraqg9eFbkvtE) | 3:30 | 2021-12-06 |  |
 | [The Moon Is Made of Cheese](https://open.spotify.com/track/1NmtAaTl4MU6KNE4nGNNBz) | [Danny Weinkauf](https://open.spotify.com/artist/00s1oYBnUz6FlP3sdD6x0u) | [No School Today](https://open.spotify.com/album/6JIv077W4rN7TubzD3PZyw) | 1:44 | 2021-12-06 |  |
 | [The Moon Is Made of Cheese](https://open.spotify.com/track/5Q9p3KJ9AVH3xOM9WN3GNv) | [Danny Weinkauf](https://open.spotify.com/artist/00s1oYBnUz6FlP3sdD6x0u) | [No School Today](https://open.spotify.com/album/3cba2ObZhSeVfzbtjx3YMP) | 1:44 | 2021-12-06 | 2022-07-29 |

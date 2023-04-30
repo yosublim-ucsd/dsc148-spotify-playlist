@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Americana's artists and hits of tomorrow\. Cover: Lauren Morrow
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,522 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,537 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 33 | [Work All Day](https://open.spotify.com/track/0slIQGY3lFc3hA8QjGD4DT) | [Matt Koziol](https://open.spotify.com/artist/2FxP1QGYEVLE2pI1TBBDQs) | [Wildhorse](https://open.spotify.com/album/2NQbvpUKnlLflLe2OJx0ii) | 4:17 |
 | 34 | [For the Birds](https://open.spotify.com/track/5eCSVLc6dpco6I8yNSLTsq) | [Aaron Raitiere](https://open.spotify.com/artist/3Gbx4tL0G9U5j233fXABXw) | [For the Birds](https://open.spotify.com/album/3W4ao1ItDRAehHMxMrW6tA) | 3:41 |
 | 35 | [Loose Cannon](https://open.spotify.com/track/0NugEFSGIWRGcrbH7h2jDS) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [Loose Cannon](https://open.spotify.com/album/789MvCDTKZzXZh6YkgO0ee) | 3:22 |
-| 36 | [On My Way](https://open.spotify.com/track/2jhrTGnlTPIT5cQJP2pukM) | [Banditos](https://open.spotify.com/artist/6bDfhlhiEEJliB13BqdOIg) | [On My Way](https://open.spotify.com/album/0FOsrAxxpWXASoKYxSBWtp) | 4:27 |
+| 36 | [On My Way](https://open.spotify.com/track/066EK5seeF2Q2t7AGQbWy2) | [Banditos](https://open.spotify.com/artist/6bDfhlhiEEJliB13BqdOIg) | [Right On](https://open.spotify.com/album/0VRthYeVxSlu8bbfpIbJVa) | 4:27 |
 | 37 | [Hush](https://open.spotify.com/track/2A4439ueegEvIHcJKi7020) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [Breaking Point](https://open.spotify.com/album/36KsjnvXcJLoMD1VW6JhQZ) | 2:35 |
 | 38 | [Lost & Lonesome](https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:42 |
 | 39 | [Tonight](https://open.spotify.com/track/584iamLesWpkNiRfmzKHQE) | [Duquette Johnston](https://open.spotify.com/artist/3jTURi0lXFxmg9f1cd5owQ) | [Tonight](https://open.spotify.com/album/2uVbxTH1y32WDH6dU1jPGl) | 3:32 |
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 72 | [Stolen Love](https://open.spotify.com/track/6PHlD7DXAfcCW2Rvp0K3OW) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Stolen Love](https://open.spotify.com/album/4SUHzoDXhSbdakZP4Fr635) | 3:43 |
 | 73 | [Lungs](https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Lungs](https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g) | 2:57 |
 | 74 | [Bottom of the Bottle](https://open.spotify.com/track/25VNwhFzmlWtTQIRdrZK7m) | [TK & The Holy Know\-Nothings](https://open.spotify.com/artist/2j3EKaRC7ZfBFiQQdBCwZG) | [Bottom of the Bottle](https://open.spotify.com/album/5VPkEIN5M0cVcjgbm3raz4) | 4:13 |
-| 75 | [Frosty](https://open.spotify.com/track/0FmlgrraTPBRAxKXZLqQew) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Frosty](https://open.spotify.com/album/5k2zEnNqQRfmR8CWdJaAtH) | 3:51 |
+| 75 | [Frosty](https://open.spotify.com/track/4D5MtmWgnC6lv4m9BERyIx) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Frosty](https://open.spotify.com/album/4aR1lEKx4pN2K4A4A8ylI5) | 3:51 |
 | 76 | [Dallas](https://open.spotify.com/track/4p3pm3QpJDPnqrCgWS2XPZ) | [Amanda Anne Platt & the Honeycutters](https://open.spotify.com/artist/1mpvGlHo80X6W8RX8vIQmL) | [Dallas / Reverie](https://open.spotify.com/album/79g9mgaxvBBH2352pThhaB) | 4:01 |
-| 77 | [Joke’s On Me](https://open.spotify.com/track/3D5oJNxiaeiUoXAtj30gUS) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs) | [Cycles](https://open.spotify.com/album/2rVf460T5uk97vo7pwM44L) | 2:46 |
+| 77 | [Joke’s On Me](https://open.spotify.com/track/4PrwTOyFdEzYaYoTDaLuIG) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs) | [Cycles](https://open.spotify.com/album/39YBVSJcX1YP53p3CiEOTB) | 2:46 |
 | 78 | [Mercy](https://open.spotify.com/track/4w0QzyomWJrHmSTa5e4ewe) | [Zelly](https://open.spotify.com/artist/1qM5w3OHdjYkPRQi7pKM4F) | [Mercy EP](https://open.spotify.com/album/5vz8G9TxA2WmQuiClujyp8) | 3:09 |
 | 79 | [Outsider](https://open.spotify.com/track/6l2D53BrdLxN6ZrSJrqMiN) | [Marsden & Richardson](https://open.spotify.com/artist/7uXUjL5FWFnkkZYz2nFbX1), [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Marsden & Richardson](https://open.spotify.com/album/0fPFXeKGFG1SKId5KeuTFp) | 2:58 |
 | 80 | [Green Rocky Road](https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY) | [Bria](https://open.spotify.com/artist/7f71lxhHip9KvlOVpwtWm3) | [Green Rocky Road](https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8) | 3:21 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 96 | [Hoosick Falls](https://open.spotify.com/track/2RCveERzynw07cuubInrQW) | [Greg Farley](https://open.spotify.com/artist/48FqRYHnlios7c0zPBtYGt) | [Brown Bag](https://open.spotify.com/album/1LjbS8lcS4bRLHbdqGtSfb) | 4:55 |
 | 97 | [Annie](https://open.spotify.com/track/7K2EWRO4uSjf5ASVy2q5em) | [Jillette Johnson](https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH) | [It's A Beautiful Day And I Love You](https://open.spotify.com/album/1rdk7CWbwp2iRukflNGCZL) | 2:43 |
 | 98 | [In Another Life](https://open.spotify.com/track/1DKzWnbwEwtoAZEFMQ97Ds) | [Beth Whitney](https://open.spotify.com/artist/5LASBhBbwWl7iTNL2HQVbu) | [In Another Life](https://open.spotify.com/album/2PsEEtCJbG1AfrWeLP6POz) | 3:58 |
-| 99 | [Generation Blues](https://open.spotify.com/track/492j910IaKI0oMeZIbvxpa) | [Graham Sharp](https://open.spotify.com/artist/2VgjLUdJQfjmjy4qFSeftQ) | [Generation Blues](https://open.spotify.com/album/7nHTE11frwHTdD2D8oJIrO) | 2:57 |
+| 99 | [Generation Blues](https://open.spotify.com/track/11kRrvtqJYtjReYMTrJuod) | [Graham Sharp](https://open.spotify.com/artist/2VgjLUdJQfjmjy4qFSeftQ) | [Truer Picture](https://open.spotify.com/album/0AtGI45G4cbiVYwc7DNE8P) | 2:57 |
 | 100 | [We Are Here](https://open.spotify.com/track/604TjuOvRI4BTt9rlRrCqs) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [We Are Here](https://open.spotify.com/album/24NMVCQrIlerOiB0o2fjVd) | 3:24 |
 
-Snapshot ID: `MCxmMzRmZWVmMTViODE0MzFmOTM0ODQ3MTYwNWU2MmE5NmU2N2EwYTVj`
+Snapshot ID: `MCxiZGU2YTg0MjBmMzk3MDgzZjA2OGIwYTIzODdjOWUzNjhjNTY2NmYw`

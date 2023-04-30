@@ -42,6 +42,24 @@
     {
       "album": {
         "name": "92982",
+        "url": "https://open.spotify.com/album/6a22PsvseOZcFqySU0jQvk"
+      },
+      "artists": [
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423440,
+      "name": "92982.3",
+      "url": "https://open.spotify.com/track/14jjKMNUMd8lKIdaqwn4XG"
+    },
+    {
+      "album": {
+        "name": "92982",
         "url": "https://open.spotify.com/album/1fsBK1GajNTKmwFqb77u9z"
       },
       "artists": [
@@ -52,7 +70,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 427346,
       "name": "92982.3",
       "url": "https://open.spotify.com/track/0BWfj3oeIWOQOTzpikVEG1"
@@ -284,6 +302,24 @@
     {
       "album": {
         "name": "L'Orange L'Orange",
+        "url": "https://open.spotify.com/album/3yVzkwlzy9FMprEMcPHoG5"
+      },
+      "artists": [
+        {
+          "name": "Gregg Kowalsky",
+          "url": "https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314676,
+      "name": "Blind Contour Drawing for Piano",
+      "url": "https://open.spotify.com/track/2uZG8EGSKsrCvGG6cUNcU2"
+    },
+    {
+      "album": {
+        "name": "L'Orange L'Orange",
         "url": "https://open.spotify.com/album/3i46owkvtINK9WoM4Tk3Wx"
       },
       "artists": [
@@ -294,7 +330,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 314676,
       "name": "Blind Contour Drawing for Piano",
       "url": "https://open.spotify.com/track/3SZNUuXRNlCZc6xbcyElEQ"
@@ -974,6 +1010,24 @@
     {
       "album": {
         "name": "Melancholia",
+        "url": "https://open.spotify.com/album/2942iMljVSFpfxH8lJaCZr"
+      },
+      "artists": [
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409066,
+      "name": "Melancholia II",
+      "url": "https://open.spotify.com/track/243SYVzBHECQf3paZxeHGd"
+    },
+    {
+      "album": {
+        "name": "Melancholia",
         "url": "https://open.spotify.com/album/40PGXFDDAcsyKVFA3IcN4q"
       },
       "artists": [
@@ -984,7 +1038,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 410986,
       "name": "Melancholia II",
       "url": "https://open.spotify.com/track/0ALo5LHdF3hJiD8WFN770B"
@@ -1006,10 +1060,32 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 269680,
       "name": "Muim (Colleen Mix)",
       "url": "https://open.spotify.com/track/4GN0WoIfo80dMHkN0BaOpT"
+    },
+    {
+      "album": {
+        "name": "Utop\u00eda",
+        "url": "https://open.spotify.com/album/0xl7DiPmp1326SSgIi6fEY"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        },
+        {
+          "name": "Colleen",
+          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269680,
+      "name": "Muim (Colleen Mix)",
+      "url": "https://open.spotify.com/track/5LASgA67i9jE76J8e0ikTb"
     },
     {
       "album": {
@@ -1064,10 +1140,28 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 133694,
       "name": "Night Bus",
       "url": "https://open.spotify.com/track/3dVdnRZ0LGOfNUp6bxfWKI"
+    },
+    {
+      "album": {
+        "name": "Burial",
+        "url": "https://open.spotify.com/album/5ij6VfAkBwTa5Y3951PdAx"
+      },
+      "artists": [
+        {
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133694,
+      "name": "Night Bus",
+      "url": "https://open.spotify.com/track/4VIyN0UbWutIfE529r0XOg"
     },
     {
       "album": {

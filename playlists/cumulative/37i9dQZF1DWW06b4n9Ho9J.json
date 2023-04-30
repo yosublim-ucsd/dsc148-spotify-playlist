@@ -2358,10 +2358,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 246818,
       "name": "Two Face",
       "url": "https://open.spotify.com/track/6bgNDCH3ybqlyzCXaJcsrO"
+    },
+    {
+      "album": {
+        "name": "Fatigue",
+        "url": "https://open.spotify.com/album/2DcQ1vMW7dEGDAMnhnpaUd"
+      },
+      "artists": [
+        {
+          "name": "L'Rain",
+          "url": "https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246818,
+      "name": "Two Face",
+      "url": "https://open.spotify.com/track/72L2Y2gdX8xslONKF7ZEuk"
     },
     {
       "album": {

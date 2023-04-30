@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6NYc6NOT7sQ.md) - [plain]
 
 > <a href="spotify:artist:3gNEIgLeknpwkNViU8WAhg">Oceanvs Orientalis</a>' favorite tracks\. Updated regularly\. Curated by Oceanvs Orientalis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,254 likes - 85 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,313 likes - 85 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6NYc6NOT7sQ.md) - [plain]
 | 63 | [Yari](https://open.spotify.com/track/6fU1tLDHZqbJR8zeEdcwpy) | [Viken Arman](https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK) | [Aragatz](https://open.spotify.com/album/4rZb32SfZ8g69tQDyUZAdD) | 8:06 |
 | 64 | [Quasar](https://open.spotify.com/track/4auPkl8KDB2a1kk4zj0HHp) | [Gidge](https://open.spotify.com/artist/7aibxFH8hIlSUlXgshCgAP) | [New Light](https://open.spotify.com/album/07iv0tkKefJPUp9RFDOuNQ) | 5:52 |
 | 65 | [Dimanche](https://open.spotify.com/track/72rLUZXj0Yq2Q3LR4YSQ7v) | [CLAAP!](https://open.spotify.com/artist/4DK1qq54kEAEmFiQlDYAD3) | [Dimanche](https://open.spotify.com/album/6lHrrM4SgbNJRvIMI5aebb) | 4:33 |
-| 66 | [Pire](https://open.spotify.com/track/7eSZ01vwRY59uAzGt5V3lP) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT) | [Pire](https://open.spotify.com/album/2mjxQEUX5uXMyHPMd0UHXC) | 7:43 |
+| 66 | [Pire](https://open.spotify.com/track/7qZ5is8K4lCoyFPeUcOK8C) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT) | [Pire](https://open.spotify.com/album/25UC82lB2kSaJIacwHkafb) | 7:43 |
 | 67 | [Rote Laterne](https://open.spotify.com/track/2heD4Mt3tgaKcVEgOpJFeJ) | [Dolph](https://open.spotify.com/artist/1Xw4E3IabrEFoiT1o4vJB1), [Al Lindrum](https://open.spotify.com/artist/18YiaWUIJeOQChQBf2M0Gx) | [Co\-Laboratory](https://open.spotify.com/album/2r1Pvtu3L0dFMh469VtNu7) | 7:47 |
 | 68 | [Night Owl](https://open.spotify.com/track/3IPEXWFoll9ZpRugRlAlsV) | [baydar](https://open.spotify.com/artist/4cYQsJ1p6HJfjXegJ2rvBu) | [Illuminate](https://open.spotify.com/album/1IHROGBZaNutzQqqcnBFcP) | 6:17 |
 | 69 | [Kuyu \- Oceanvs Orientalis Rework](https://open.spotify.com/track/76mFZdhpE1l6UpsG2kn1g5) | [Santi & Tuğçe](https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC), [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg) | [A Twice Told Tale \- Reworks Chapter I](https://open.spotify.com/album/4792gvVBT6uAyzbwQ2eFLn) | 6:59 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6NYc6NOT7sQ.md) - [plain]
 | 84 | [Marmara](https://open.spotify.com/track/0mWySChvIoNiwwjrseycdT) | [Muno](https://open.spotify.com/artist/1DZGRRvmPsjC8o8F8MwpRe) | [Marmara](https://open.spotify.com/album/4j0YbHO2ronLXxxVXHEMt2) | 5:50 |
 | 85 | [Lyre](https://open.spotify.com/track/6sFgqgE20JJ3whmxIOoP8h) | [NINZE & OKAXY](https://open.spotify.com/artist/4yJU0dWTxh9cmKKjXWOneJ) | [Cranes at Night](https://open.spotify.com/album/7CTizjF89XdarzPdTPMmdW) | 5:35 |
 
-Snapshot ID: `MCw1NmViYjcyZWY2MzY5OWU3MjdhYjA3MjkxNTc2NDBkNDk2Mzk2N2Iy`
+Snapshot ID: `MCxiNGQ5N2FmZmVhODcxYjA2N2I3ODE2YzU3MTgzZDA1MWU0ZWY5NmEx`

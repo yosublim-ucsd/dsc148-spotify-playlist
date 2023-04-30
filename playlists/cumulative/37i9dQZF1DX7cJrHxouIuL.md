@@ -4,7 +4,7 @@
 
 > Kindie tunes for the whole family.
 
-186 songs - 8 hr 55 min
+189 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [I\-M\-A\-G\-I\-N\-A\-T\-I\-O\-N](https://open.spotify.com/track/4JMgVTrx79cya7i4Go8WTy) | [Walter Martin](https://open.spotify.com/artist/1HvCWUrKX1xKeT3yQXjPeI), [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [We're All Young Together](https://open.spotify.com/album/1Fg8KIAfk2W05tRhSwaAbg) | 3:42 | 2022-04-15 |  |
 | [I\-M\-a\-G\-I\-n\-a\-T\-I\-O\-n \(feat\. Kat Edmonson\)](https://open.spotify.com/track/6xKr3ZNPYxW4oHhRwPX3un) | [Walter Martin](https://open.spotify.com/artist/1HvCWUrKX1xKeT3yQXjPeI), [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [We're All Young Together](https://open.spotify.com/album/0eUVVjxzoiLSq9LH979pcH) | 3:42 | 2022-04-15 | 2022-07-29 |
 | [If You Want a Song](https://open.spotify.com/track/3bBfxubsXAAuBGZBUpVijm) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [If You Want a Song](https://open.spotify.com/album/3zTVV2mDRYt3QZYx7TVZ3i) | 2:01 | 2022-04-15 | 2022-07-29 |
-| [If You Want a Song](https://open.spotify.com/track/58sw5NvBcQsvxOCtjXuq6N) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Songs for Singin'](https://open.spotify.com/album/6NqD66DThZCoAYP0V6INpB) | 2:01 | 2022-04-15 |  |
+| [If You Want a Song](https://open.spotify.com/track/58sw5NvBcQsvxOCtjXuq6N) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Songs for Singin'](https://open.spotify.com/album/6NqD66DThZCoAYP0V6INpB) | 2:01 | 2022-04-15 | 2023-04-30 |
+| [If You Want a Song](https://open.spotify.com/track/7m3kQphnCskJCwKhjUayBd) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Songs for Singin'](https://open.spotify.com/album/7x0JXg0yHlaPhLAyq87aLO) | 2:01 | 2023-02-24 |  |
 | [Imaginary Dinosaur](https://open.spotify.com/track/5D6aRG57qibWTzMRZZKU90) | [Bee Parks and the Hornets](https://open.spotify.com/artist/5Hf2069PYDJgRE6ag9MsiP), [Mélissa Smith](https://open.spotify.com/artist/57Hpqe0sVSUJs0Wq9AbQiv) | [Imaginary Dinosaur](https://open.spotify.com/album/2JVLVEhf8zq7fXHfhthO1Y) | 3:03 | 2023-01-27 |  |
 | [Imagination](https://open.spotify.com/track/3z75zlzzrxbv9oXR2moCUn) | [Play Date](https://open.spotify.com/artist/2jnLzsmJxgYGysb1f6vhyJ) | [Imagination](https://open.spotify.com/album/0i49Gsui4XTbcIar3hjUsz) | 4:32 | 2022-04-15 | 2022-07-29 |
 | [Imagination](https://open.spotify.com/track/6oQmruhl9g5Czip42rNQo2) | [Play Date](https://open.spotify.com/artist/2jnLzsmJxgYGysb1f6vhyJ) | [Imagination](https://open.spotify.com/album/0ypYiksVxmmqdSGMLZB6HP) | 4:32 | 2022-04-15 |  |
@@ -100,7 +101,8 @@
 | [Let's Get Started](https://open.spotify.com/track/2wgRNcyTJpNZI5LfMnvaMR) | [Rabbit!](https://open.spotify.com/artist/2PD0xyJOdwn3i3fKhgRDA8) | [Happiness Is Simple](https://open.spotify.com/album/1QopRRYf8U9hdYCg348skK) | 2:52 | 2022-04-15 |  |
 | [Let's Make a Better World](https://open.spotify.com/track/4n1trnSmsWIGbLmIyNymID) | [Brady Rymer and the Little Band That Could](https://open.spotify.com/artist/2q0R0ObitsBJIp1sMtfHz6) | [Let's Make a Better World](https://open.spotify.com/album/3M9JHypDO7xn8lGIeqA5Kn) | 3:15 | 2022-04-15 |  |
 | [Let's Skateboard](https://open.spotify.com/track/7xSX7YXHDWa8ijoFbVBQY7) | [The Not\-Its!](https://open.spotify.com/artist/4Eo7yzZ7LoM4Cg8AySUWry) | [KidQuake!](https://open.spotify.com/album/1H7T9peQoMiacUDdxi4yvW) | 1:51 | 2022-04-15 |  |
-| [Let's Throw a Party](https://open.spotify.com/track/75DzxdkaRK6Z9IFhHjFHFZ) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Songs for Singin'](https://open.spotify.com/album/6NqD66DThZCoAYP0V6INpB) | 2:44 | 2022-04-15 |  |
+| [Let's Throw a Party](https://open.spotify.com/track/43ssviTZxcP9RMTUk67lbT) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Songs for Singin'](https://open.spotify.com/album/7x0JXg0yHlaPhLAyq87aLO) | 2:44 | 2023-02-24 |  |
+| [Let's Throw a Party](https://open.spotify.com/track/75DzxdkaRK6Z9IFhHjFHFZ) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Songs for Singin'](https://open.spotify.com/album/6NqD66DThZCoAYP0V6INpB) | 2:44 | 2022-04-15 | 2023-04-30 |
 | [Letter C](https://open.spotify.com/track/3pDeU1HQaufmpKckaPS6Jd) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Crayon Kids](https://open.spotify.com/album/68ytofYrtp1M86bkZsC01y) | 3:51 | 2022-04-15 |  |
 | [Lightning](https://open.spotify.com/track/05G7em6cXUO1i4zNv8nCRT) | [Mr\. Steve, the Music Man](https://open.spotify.com/artist/41XCyhAiNvU600YWQREBO8) | [Earth Party!](https://open.spotify.com/album/0BdM7wmFLQM9ipSi5626hd) | 2:54 | 2022-04-15 |  |
 | [Little Bird, Little Bird](https://open.spotify.com/track/5mdDzJBkQ7Gz7ePDCB397w) | [Elizabeth Mitchell](https://open.spotify.com/artist/3gBQ1U5dXpRXS6tlbyNTDM) | [You Are My Little Bird](https://open.spotify.com/album/4GYfEguWQPqdBpFO1XC1eB) | 2:28 | 2022-04-15 |  |
@@ -146,7 +148,8 @@
 | [Siete Elefantes](https://open.spotify.com/track/07DWrgi2zft5Hr0hIAoD3n) | [Mister G](https://open.spotify.com/artist/6N8KFt7TtxPehyZjgZ9qZd) | [Los Animales](https://open.spotify.com/album/1kRTiH3YkPVElKncafk9LA) | 1:48 | 2022-04-15 |  |
 | [Siete Elefantes](https://open.spotify.com/track/0bN3kVRk24M9nAtK57YM0k) | [Mister G](https://open.spotify.com/artist/6N8KFt7TtxPehyZjgZ9qZd) | [Los Animales](https://open.spotify.com/album/5qL91Erd24CGFaBTwx97Vh) | 1:48 | 2022-04-15 | 2022-07-29 |
 | [Sleep Eye](https://open.spotify.com/track/14FcnjzhhpjLBg8UnjbtGp) | [Elizabeth Mitchell](https://open.spotify.com/artist/3gBQ1U5dXpRXS6tlbyNTDM) | [Little Seed: Songs for Children by Woody Guthrie](https://open.spotify.com/album/5Hgafmx1GZI6n2csPn8hzS) | 2:19 | 2022-04-15 |  |
-| [Slumberjack](https://open.spotify.com/track/4FGhMdPbr2PjvZTPQvkhFT) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Winterland](https://open.spotify.com/album/4T6NbIjlMpe8Rpc5Lx8DKt) | 1:50 | 2022-04-15 |  |
+| [Slumberjack](https://open.spotify.com/track/0W4mNKASCeZIOQD8i4lEK2) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Winterland](https://open.spotify.com/album/1Lkr1V9CvhYsebLSiPT3fw) | 1:50 | 2023-02-24 |  |
+| [Slumberjack](https://open.spotify.com/track/4FGhMdPbr2PjvZTPQvkhFT) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Winterland](https://open.spotify.com/album/4T6NbIjlMpe8Rpc5Lx8DKt) | 1:50 | 2022-04-15 | 2023-04-30 |
 | [So Many Ways](https://open.spotify.com/track/1ZUQS6AJsh9wRuiORmAZ8l) | [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb) | [So Many Ways](https://open.spotify.com/album/0aWVEAQKsGF9HUMrpIeK4x) | 2:54 | 2022-04-15 |  |
 | [Somewhere Over The Rainbow\_What A Wonderful World](https://open.spotify.com/track/25U7raB3ZSszayTYClh4hF) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Facing Future](https://open.spotify.com/album/0pquf1NcG9FdiypBPwICu9) | 5:08 | 2022-04-15 |  |
 | [Sounding Joy](https://open.spotify.com/track/0kFk5LnjmluUFN6DSgjlzb) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Sounding Joy](https://open.spotify.com/album/1ZMsgcmv2PawjMSJti5okX) | 3:50 | 2022-10-11 |  |

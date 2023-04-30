@@ -27,7 +27,7 @@
 | [Born to Win](https://open.spotify.com/track/7aMI3W4ZCeTe6Ehw17SCAr) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Born to Win](https://open.spotify.com/album/321Mt20RKG05X44Ta4JvKF) | 2:53 | 2021-12-28 | 2022-03-24 |
 | [Bow Down](https://open.spotify.com/track/4qa7gYSpbGV4UKYuq20qB3) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Best Of Timaya](https://open.spotify.com/album/5N5mhuYQmUztgNdBgz1YZh) | 3:24 | 2021-12-28 |  |
 | [Bum Bum](https://open.spotify.com/track/2khTwf0sIaNkodJRHRgk6s) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Best Of Timaya](https://open.spotify.com/album/5N5mhuYQmUztgNdBgz1YZh) | 3:38 | 2021-12-28 |  |
-| [Buru](https://open.spotify.com/track/5UMeJsvUGhBPKaRQehLWd5) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 2:38 | 2022-10-27 | 2023-04-29 |
+| [Buru](https://open.spotify.com/track/5UMeJsvUGhBPKaRQehLWd5) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 2:38 | 2022-10-27 |  |
 | [Charger](https://open.spotify.com/track/5IMX7sh5kGdVX7iWqN5Url) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Charger](https://open.spotify.com/album/5jvsWsFqZzym9fMhBtDKZ8) | 3:26 | 2022-03-20 |  |
 | [Chop Life](https://open.spotify.com/track/1HJpHUpDF2G8RBp2AKN5kD) | [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Chop Life](https://open.spotify.com/album/6CIyLA00C8T0imbV5HjHpM) | 2:25 | 2023-03-25 |  |
 | [Cold Outside](https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Cold Outside](https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0) | 3:01 | 2021-12-28 |  |
@@ -89,7 +89,7 @@
 | [True Story](https://open.spotify.com/track/154wqt2t7LYUHFEjjjgfhI) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [True Story](https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB) | 4:25 | 2021-12-28 | 2022-10-13 |
 | [Ukwu \(Bonus\)](https://open.spotify.com/track/0jHkUphvDkzwp9zwy47Igo) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Epiphany](https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL) | 3:10 | 2021-12-28 | 2023-04-28 |
 | [Watta BamBam](https://open.spotify.com/track/4TayDd2l3E6yQKWlP2zEkH) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Best Of Timaya](https://open.spotify.com/album/5N5mhuYQmUztgNdBgz1YZh) | 3:26 | 2022-03-22 | 2022-03-24 |
-| [Woyo](https://open.spotify.com/track/4tbVAVxiGJAZNiFRBHhGwV) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Woyo](https://open.spotify.com/album/6ZWbdO3QrtR8YI193q5K2O) | 2:43 | 2021-12-28 |  |
+| [Woyo](https://open.spotify.com/track/4tbVAVxiGJAZNiFRBHhGwV) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Woyo](https://open.spotify.com/album/6ZWbdO3QrtR8YI193q5K2O) | 2:43 | 2021-12-28 | 2023-04-30 |
 | [Yankulu Ya \(Dem Mama Remix\)](https://open.spotify.com/track/2BSINTT3Xoyxoo9aBeJtx8) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gift And Grace](https://open.spotify.com/album/51PvKjkkUQ7IPjVprJxcsb) | 3:38 | 2021-12-28 | 2022-10-13 |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

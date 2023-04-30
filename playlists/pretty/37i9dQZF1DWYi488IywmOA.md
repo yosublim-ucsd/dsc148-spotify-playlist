@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYi488IywmOA.md) - [plain]
 
 > Blues favorites from 2022\. Cover: Eric Gales \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,217 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,218 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYi488IywmOA.md) - [plain]
 | 3 | [We Need To Talk About It](https://open.spotify.com/track/1SWk8chKisB7HJvKizuf36) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 2:53 |
 | 4 | [I Let My Guitar Do The Talking](https://open.spotify.com/track/3Zg7MMTH1e5xARor2JDKki) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [I Let My Guitar Do The Talking](https://open.spotify.com/album/1ldh55ODHFyehFYty8YEiq) | 4:26 |
 | 5 | [Oh Betty](https://open.spotify.com/track/1caexDoRB92w8ph8YLYQvu) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [White Jesus Black Problems](https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i) | 3:56 |
-| 6 | [Barnyard Blues](https://open.spotify.com/track/6uHLEJBCQU5IQmjcWJcZcf) | [Dylan Triplett](https://open.spotify.com/artist/3hCmpGNTSpLH1Dj74VLNJN) | [Who Is He?](https://open.spotify.com/album/7aLKd7sUTw84sDLTTPpNs6) | 3:38 |
+| 6 | [Barnyard Blues](https://open.spotify.com/track/3lyfFHxjdqYc5V5JvdyYbr) | [Dylan Triplett](https://open.spotify.com/artist/3hCmpGNTSpLH1Dj74VLNJN) | [Who Is He?](https://open.spotify.com/album/0NhSm5EghvrjBuHtg0mZ6e) | 3:38 |
 | 7 | [Just No Getting Over You \(Dream Cruise\)](https://open.spotify.com/track/65mWqe9aF9XsBqqQ8PtgYI) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Nobody's Fool](https://open.spotify.com/album/2TVQmqbf3TmucBYkl9pfg6) | 4:40 |
 | 8 | [Please Take My Hand](https://open.spotify.com/track/4b5MhQ12ztQKOIPoyESfR3) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [In Too Deep](https://open.spotify.com/album/4UsUWtLQqW0QyGFBKgddue) | 3:03 |
 | 9 | [Ain’t Killed Me Yet](https://open.spotify.com/track/06SriLLbBIQos2LyqeNXw3) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Ain’t Killed Me Yet](https://open.spotify.com/album/5bSiMgDd7UjgJClHgAF6Qu) | 3:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYi488IywmOA.md) - [plain]
 | 74 | [Here I'm Is](https://open.spotify.com/track/6qXE9eEx24VsgKf0sCQouH) | [Duke Robillard](https://open.spotify.com/artist/3SQa9cVuiUaZfao2KZiElA) | [They Called It Rhythm & Blues](https://open.spotify.com/album/2Iv8pnhLaHJUf4KBNjaxU6) | 2:27 |
 | 75 | [Mirror Blues](https://open.spotify.com/track/4mFBpN5jyZCcYLQCw1aoRX) | [Diesel](https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR) | [Alone With Blues](https://open.spotify.com/album/4zb5t7MpwxLujrl50tSPQN) | 3:39 |
 
-Snapshot ID: `MCwxOWQ4OTc0YzQ2Y2U3YTNmNzc1NDEyNGM1NmYwY2ZjMGNjODZiZDY0`
+Snapshot ID: `MCw2ZGMyYTAyNGQ3OWUzNTBiZWZjNWZhYTBlMTc2ZWJjMjUzNjYxMWYw`

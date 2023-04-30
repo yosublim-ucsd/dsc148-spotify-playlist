@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Superviolet \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,887 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,930 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 48 | [Willy O' winsbury](https://open.spotify.com/track/24UEU7IdFRWHpmLyHdbQ25) | [Lady Moon](https://open.spotify.com/artist/4NMxUgqHqC9XlgSRGqqrqc) | [Lady Moon](https://open.spotify.com/album/2LOgeKFKWqR6aV6shIVbyj) | 5:43 |
 | 49 | [Faraway Skies](https://open.spotify.com/track/7BT0ugmptsGBJK9ijp5h0D) | [Dean Johnson](https://open.spotify.com/artist/4EIdxKX5DkSd7DQhtmY5DN) | [Faraway Skies](https://open.spotify.com/album/1ZT3FCvCOno1gsaEvXHC9w) | 3:34 |
 | 50 | [You Don't Know How Lucky You Are](https://open.spotify.com/track/0vwEIx0FBN9afds4oFQTWf) | [Madeleine Kelson](https://open.spotify.com/artist/7LFqrK5SqBpd0f1ctwpCYg) | [While I Was Away Deluxe](https://open.spotify.com/album/6qJZLKhDngOJvojgdWvwF2) | 2:58 |
-| 51 | [Learning My Ways](https://open.spotify.com/track/4tNT31r5LYaOzWlsUDlh5l) | [Nico Paulo](https://open.spotify.com/artist/5qmzeW1wvVq0c2lFK1MieD) | [Nico Paulo](https://open.spotify.com/album/5taWm9n1gekDoDjY19lCOt) | 4:30 |
+| 51 | [Learning My Ways](https://open.spotify.com/track/4qL34AlHwCFXCwLNaeyCyp) | [Nico Paulo](https://open.spotify.com/artist/5qmzeW1wvVq0c2lFK1MieD) | [Nico Paulo](https://open.spotify.com/album/6SXX7ZhhMrhzGPCQM98WKu) | 4:30 |
 | 52 | [Carolina](https://open.spotify.com/track/276TrUGOOI0CpndZYaZxiG) | [Emily Brimlow](https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj) | [Cheap Silver](https://open.spotify.com/album/39xMYcqH0Pm8vutbMIaGfi) | 4:22 |
-| 53 | [Green Flash](https://open.spotify.com/track/1g9rH9FM2IFGK6hKzLt2SJ) | [Jobi Riccio](https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO), [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Green Flash](https://open.spotify.com/album/3UflcuTtBl2ndY3nzxuR07) | 4:29 |
+| 53 | [Green Flash](https://open.spotify.com/track/6GdYR8gJxYQaYEJzZneeus) | [Jobi Riccio](https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO), [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Green Flash](https://open.spotify.com/album/5vt2WsClcKYoyY6Io4zrTH) | 4:29 |
 | 54 | [Homesick](https://open.spotify.com/track/486EjWGaXjhgt9oQdeDUdA) | [Bobby Kid](https://open.spotify.com/artist/3itmbTKEe0jxP7ndPo54hN) | [Babyface](https://open.spotify.com/album/6hMw5ZWrlzx65rf4RXEzkW) | 3:17 |
 | 55 | [Far From You](https://open.spotify.com/track/2cHHKwH6b64BYTowQuvP7c) | [Mikaela Davis](https://open.spotify.com/artist/6CbL78A3tB1CPFoduF7UM5) | [Far From You](https://open.spotify.com/album/7eXk2CTh0gdlkG0vEz0Lom) | 4:32 |
 | 56 | [Ekarma](https://open.spotify.com/track/3ceGIldgRSCz4YRNdwp2F1) | [Sam Brookes](https://open.spotify.com/artist/2QfiISy54lQqFOiZV5f1Zh) | [Ekarma](https://open.spotify.com/album/0ZWGdKVXtDzqT0ZOgXsOzL) | 4:01 |
@@ -87,10 +87,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 77 | [Honey](https://open.spotify.com/track/7xRhhe1Lg7Mwi1hSjeRCaZ) | [Rebecca Marcyes](https://open.spotify.com/artist/20XswVKXwQujBBB0s9xMwU), [Mikayla McVey](https://open.spotify.com/artist/0EG8z93TSrPjSOi1dYVxtb), [Catch Prichard](https://open.spotify.com/artist/4fGnksIEapOHDbvWOYPCW5) | [Honey](https://open.spotify.com/album/1tcpIzJmy9nLExvj9TWYzP) | 2:36 |
 | 78 | [Phone](https://open.spotify.com/track/6CmtXPRckXzOCYh6aw0kqk) | [Anna St\. Louis](https://open.spotify.com/artist/7h5ZCPVyKFtXc8NxOVmgMD) | [Phone](https://open.spotify.com/album/0Sa7qZIblkaE3V9rS0eBLj) | 3:55 |
 | 79 | [Sweetheart](https://open.spotify.com/track/2i4m4FAyMteqzmh7AzgmLs) | [Joe Vann](https://open.spotify.com/artist/4sjzQ6LenQjUsRb6g0sHuq) | [Sweetheart](https://open.spotify.com/album/6yMxe3j39nBVNvaRaI5cbI) | 3:00 |
-| 80 | [EC](https://open.spotify.com/track/4ara6WrjgXw8brIIigyRNR) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [EC](https://open.spotify.com/album/58gMbwi6r3hOpkbcBsqVcO) | 1:53 |
+| 80 | [EC](https://open.spotify.com/track/1tcHeyygqS0RkNh6hq6j9W) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Crispy Crunchy Nothing](https://open.spotify.com/album/6iZCdzygVnM4rMAPNW5I5F) | 1:53 |
 | 81 | [All At Once](https://open.spotify.com/track/2o580zubSdTzl5Hy7LLBwi) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [All At Once](https://open.spotify.com/album/5yc4uHuJ6OWBiRhDavoKWO) | 3:47 |
 | 82 | [The Empress](https://open.spotify.com/track/4tFMZjv7dJxrKfKxoTv0bl) | [John Roseboro](https://open.spotify.com/artist/0OTbmw4nbgWHiTyqhmz72s) | [The Empress](https://open.spotify.com/album/46rqgDr8lEce9hwnT59TRW) | 1:58 |
-| 83 | [Some Strange Notion](https://open.spotify.com/track/7qMzRL2ZVDVyZk1QCFuvE8) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs) | [Common Nation Of Sorrow](https://open.spotify.com/album/2IhYLlwuRGpWIzUuqJgY43) | 2:42 |
+| 83 | [Some Strange Notion](https://open.spotify.com/track/34ZARRmxs59mqcp2TyIjGB) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs) | [Common Nation Of Sorrow](https://open.spotify.com/album/53S29DN4hv8ZiRSuj5PdCo) | 2:42 |
 | 84 | [Bug](https://open.spotify.com/track/197XvaLXq8aciPKZxUoW0f) | [Annie Blackman](https://open.spotify.com/artist/4SaxGqc1dzg74v8p8XcfOm) | [Bug](https://open.spotify.com/album/33ZVNH3uSPkKWwMqBXSlyn) | 4:57 |
 | 85 | [Keeps Me Up At Night](https://open.spotify.com/track/3RR9bl1XYsfYbIi0LLQMSw) | [The Wilson Springs Hotel](https://open.spotify.com/artist/51bGaMwuDcqkHbwPiaOnWW) | [Keeps Me Up At Night](https://open.spotify.com/album/3LQj8A7VicJQKQC8xOUL15) | 3:20 |
 | 86 | [Dot My i's](https://open.spotify.com/track/5BIp4fRwkRWsbNcXP8xvFL) | [kendall lujan](https://open.spotify.com/artist/5JvY8N4icJjp1ND34IJAqQ) | [kendall lujan](https://open.spotify.com/album/7cM3lwx5ctIJczuqTn4rdF) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [You Don't Wanna Leave it Alone](https://open.spotify.com/track/5CeBqKJKkZtllzY5FaMPdd) | [J.E\. Sunde](https://open.spotify.com/artist/17x8QHiHxUhMSEv26RT7lW) | [You Don't Wanna Leave it Alone](https://open.spotify.com/album/0QIIAR2Ko4vEfb0kNjaQIg) | 3:02 |
 | 100 | [If I Wanted To](https://open.spotify.com/track/4wqZS9kXewme6hESpPTh7c) | [Doug Paisley](https://open.spotify.com/artist/2WH0j5DM0bzoj1KRKpJFh9) | [Say What You Like](https://open.spotify.com/album/3xcDRGzx04UwxucGTAb8Jf) | 2:53 |
 
-Snapshot ID: `MCxjNmMyZjhkMzYxMGE5MTAwZGQ0ODQ0MTA5NzZlMzA0NjZkNDIwZTBk`
+Snapshot ID: `MCxlZTVkMGVlNjAwZWMyZmYwMTliMjczNzg0NTgwN2I0ZWJjMDIxZDA4`

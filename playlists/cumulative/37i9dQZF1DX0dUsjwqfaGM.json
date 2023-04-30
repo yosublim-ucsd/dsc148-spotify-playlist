@@ -147,6 +147,54 @@
     },
     {
       "album": {
+        "name": "Crowd",
+        "url": "https://open.spotify.com/album/2HrXbMtw6gcxn2adzRvNlN"
+      },
+      "artists": [
+        {
+          "name": "RPT TC",
+          "url": "https://open.spotify.com/artist/620SGhgUsNYFnVULyiGCeL"
+        },
+        {
+          "name": "TDO Kwan",
+          "url": "https://open.spotify.com/artist/1TXjcDbR8xtShzu08N5j0x"
+        },
+        {
+          "name": "Coldzy",
+          "url": "https://open.spotify.com/artist/401ikVSob52311M6Fwnunt"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220098,
+      "name": "Crowd",
+      "url": "https://open.spotify.com/track/2yXywsQ4lgBRyrk4ey5gCQ"
+    },
+    {
+      "album": {
+        "name": "CUC HINH",
+        "url": "https://open.spotify.com/album/0GcXZumuHbiQLmLyN1TBD7"
+      },
+      "artists": [
+        {
+          "name": "52Hz",
+          "url": "https://open.spotify.com/artist/1y28JlO6rDMUB5rkcA4RAh"
+        },
+        {
+          "name": "Coldzy",
+          "url": "https://open.spotify.com/artist/401ikVSob52311M6Fwnunt"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167272,
+      "name": "CUC HINH",
+      "url": "https://open.spotify.com/track/6KIbensnme8n5VkCMFJB6O"
+    },
+    {
+      "album": {
         "name": "Door To Nowhere",
         "url": "https://open.spotify.com/album/5l7m3Ck0FMb0nDgzZfOBr3"
       },
@@ -232,6 +280,32 @@
       "duration_ms": 225796,
       "name": "DAM DUOI",
       "url": "https://open.spotify.com/track/1fR5VXsWg8PI1eDiSbV121"
+    },
+    {
+      "album": {
+        "name": "don't you say goodbye",
+        "url": "https://open.spotify.com/album/0QEmXtbT1MtTlebDtfjLNF"
+      },
+      "artists": [
+        {
+          "name": "Minh \u0110inh",
+          "url": "https://open.spotify.com/artist/4NfuHLESitkh66LOZeyzsu"
+        },
+        {
+          "name": "V\u0169 Thanh V\u00e2n",
+          "url": "https://open.spotify.com/artist/5ptgjFDE2abY6Xwo4ytufN"
+        },
+        {
+          "name": "Cashmel",
+          "url": "https://open.spotify.com/artist/3KjC3qk8ZE5JbC4tSj8COh"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243903,
+      "name": "don't you say goodbye",
+      "url": "https://open.spotify.com/track/5vqRtTX0n6Huy6eey2ld1H"
     },
     {
       "album": {
@@ -774,6 +848,28 @@
       "duration_ms": 218978,
       "name": "M\u00ea",
       "url": "https://open.spotify.com/track/6Rbz4nzR4ytexB7Zx28AmL"
+    },
+    {
+      "album": {
+        "name": "M\u01b0a \u01a0i \u0110\u1eebng R\u01a1i",
+        "url": "https://open.spotify.com/album/0oEecgtZQYMnTZpP1fSQMf"
+      },
+      "artists": [
+        {
+          "name": "C\u1ea7m",
+          "url": "https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj"
+        },
+        {
+          "name": "REDT",
+          "url": "https://open.spotify.com/artist/5iggzY0xY68wNNWXhiPrZz"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "M\u01b0a \u01a0i \u0110\u1eebng R\u01a1i",
+      "url": "https://open.spotify.com/track/6LjnpeWCzBpbkP5DqeuqlU"
     },
     {
       "album": {

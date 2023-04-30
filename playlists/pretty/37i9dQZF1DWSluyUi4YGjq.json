@@ -1,12 +1,12 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. Winter on cover!",
-  "num_followers": 63937,
+  "num_followers": 64265,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDQ4ZGQ0Y2ViY2UzMjc0N2Q5MGU2NTIxZGU4NGY3YTRlN2M2ZDlh",
+  "snapshot_id": "MCxlOGU1OGQ2ZTNjODdlZGY4OTJjMzc3ZTUxOTg1MjdjZDU4OGMwMDY0",
   "tracks": [
     {
       "added_at": "2023-03-13 22:23:31",
@@ -909,6 +909,38 @@
       "url": "https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw"
     },
     {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/5PcCgXyYFXsjQvS1Wjv8LU"
+      },
+      "artists": [
+        {
+          "name": "Slow Joy",
+          "url": "https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL"
+        }
+      ],
+      "duration_ms": 173453,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/10FlXJUgM6r159dNILdFDt"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "idk how to luv",
+        "url": "https://open.spotify.com/album/44qZHhMFg4eKJymG5VWzG3"
+      },
+      "artists": [
+        {
+          "name": "zzzahara",
+          "url": "https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn"
+        }
+      ],
+      "duration_ms": 150251,
+      "name": "idk how to luv",
+      "url": "https://open.spotify.com/track/7y61H8SDeP6rTTEiS32lfi"
+    },
+    {
       "added_at": "2023-02-09 20:06:26",
       "album": {
         "name": "Better Off Alone",
@@ -939,38 +971,6 @@
       "duration_ms": 279318,
       "name": "don't tell me",
       "url": "https://open.spotify.com/track/2WDPqvuis3DnNimYRgjEAm"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "idk how to luv",
-        "url": "https://open.spotify.com/album/44qZHhMFg4eKJymG5VWzG3"
-      },
-      "artists": [
-        {
-          "name": "zzzahara",
-          "url": "https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn"
-        }
-      ],
-      "duration_ms": 150251,
-      "name": "idk how to luv",
-      "url": "https://open.spotify.com/track/7y61H8SDeP6rTTEiS32lfi"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/5PcCgXyYFXsjQvS1Wjv8LU"
-      },
-      "artists": [
-        {
-          "name": "Slow Joy",
-          "url": "https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL"
-        }
-      ],
-      "duration_ms": 173453,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/10FlXJUgM6r159dNILdFDt"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1053,6 +1053,22 @@
       "url": "https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov"
     },
     {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/3xhF5I7uVcBHWWabkOk9Km"
+      },
+      "artists": [
+        {
+          "name": "Beach Vacation",
+          "url": "https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C"
+        }
+      ],
+      "duration_ms": 142615,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/1W2jSHDSshu2l5mQL5dmT2"
+    },
+    {
       "added_at": "2022-01-07 19:52:45",
       "album": {
         "name": "Strawberry",
@@ -1067,22 +1083,6 @@
       "duration_ms": 209708,
       "name": "Strawberry",
       "url": "https://open.spotify.com/track/0kttqKdToPQupUgaBto3UM"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Cranekiss",
-        "url": "https://open.spotify.com/album/0ZMlxCl7fzXSkv4T56hEOa"
-      },
-      "artists": [
-        {
-          "name": "Tamaryn",
-          "url": "https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2"
-        }
-      ],
-      "duration_ms": 230408,
-      "name": "Cranekiss",
-      "url": "https://open.spotify.com/track/5ljHvSOYJ2AQfZoTlVwni1"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1101,22 +1101,6 @@
       "url": "https://open.spotify.com/track/2gF3wvkKkkuAXGFzAPUBSa"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/3xhF5I7uVcBHWWabkOk9Km"
-      },
-      "artists": [
-        {
-          "name": "Beach Vacation",
-          "url": "https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C"
-        }
-      ],
-      "duration_ms": 142615,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/1W2jSHDSshu2l5mQL5dmT2"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Happy Songs for Happy Zombies",
@@ -1133,22 +1117,6 @@
       "url": "https://open.spotify.com/track/11DryxGvweDB9WRJhdjQe2"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Dance on the Blacktop",
-        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 270853,
-      "name": "Blue Line Baby",
-      "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
-    },
-    {
       "added_at": "2023-02-09 20:06:26",
       "album": {
         "name": "taste of concrete",
@@ -1163,6 +1131,22 @@
       "duration_ms": 152061,
       "name": "taste of concrete",
       "url": "https://open.spotify.com/track/5gsLyERQX8cQslfSqdhTw3"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Dance on the Blacktop",
+        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 270853,
+      "name": "Blue Line Baby",
+      "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1211,6 +1195,22 @@
       "duration_ms": 125333,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
+      },
+      "artists": [
+        {
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+        }
+      ],
+      "duration_ms": 318800,
+      "name": "23",
+      "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
     }
   ],
   "unique_name": "Shoegaze Now",

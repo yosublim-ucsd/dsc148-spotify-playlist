@@ -192,10 +192,28 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 184466,
       "name": "Barley",
       "url": "https://open.spotify.com/track/0h7329EnhfoaUEu2sN8o1U"
+    },
+    {
+      "album": {
+        "name": "Real Midnight",
+        "url": "https://open.spotify.com/album/4wyUd3tpVTxg9vV3cpLF3Y"
+      },
+      "artists": [
+        {
+          "name": "Birds of Chicago",
+          "url": "https://open.spotify.com/artist/2nyv8yYjMSkvUr9OwEQhVf"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184466,
+      "name": "Barley",
+      "url": "https://open.spotify.com/track/4CNY2qCTE1XTjDh9w0Eq0T"
     },
     {
       "album": {
@@ -217,6 +235,24 @@
     },
     {
       "album": {
+        "name": "Buckskin",
+        "url": "https://open.spotify.com/album/7qX6BmDAWMZFhJfttYQp0N"
+      },
+      "artists": [
+        {
+          "name": "Cherokee Rose",
+          "url": "https://open.spotify.com/artist/2Z9gor60OjbfpDEiFMIcOI"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Black Irish Indian",
+      "url": "https://open.spotify.com/track/6cdvmaxNwuKt7NFiJB4lN0"
+    },
+    {
+      "album": {
         "name": "Black Irish Indian",
         "url": "https://open.spotify.com/album/3HO00ATLZnsQW5iiUA13Me"
       },
@@ -228,7 +264,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 197000,
       "name": "Black Irish Indian",
       "url": "https://open.spotify.com/track/7dVdTythtqhJLeRA9vKkkC"

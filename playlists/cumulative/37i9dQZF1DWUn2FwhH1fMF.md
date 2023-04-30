@@ -4,7 +4,7 @@
 
 > The best dance songs of 2022\. Cover: Charlotte de Witte
 
-236 songs - 12 hr 42 min
+237 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,8 @@
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2021-12-01 | 2022-12-01 |
 | [Recap \(with VanJess & Channel Tres\)](https://open.spotify.com/track/2m3RjRXib3un5AEh08k8Fe) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Recap \(with VanJess & Channel Tres\)](https://open.spotify.com/album/5frBRYEzuxcYkqgwDH82Sj) | 2:57 | 2021-12-01 | 2022-12-01 |
 | [Remember](https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Remember](https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF) | 2:40 | 2021-12-01 | 2022-12-01 |
-| [RIDE WITH ME](https://open.spotify.com/track/1TJOIVjPHbnqloF9pvDOf6) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa) | [RIDE WITH ME](https://open.spotify.com/album/5tY1nlCQNEqmtXmTxgblRc) | 2:57 | 2022-11-30 |  |
+| [RIDE WITH ME](https://open.spotify.com/track/0Cl6B1TKMcwaSPFHcitZkf) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa) | [RIDE WITH ME](https://open.spotify.com/album/5LWlWvZX4MHdxD6BFMRdJ3) | 2:57 | 2022-11-30 |  |
+| [RIDE WITH ME](https://open.spotify.com/track/1TJOIVjPHbnqloF9pvDOf6) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa) | [RIDE WITH ME](https://open.spotify.com/album/5tY1nlCQNEqmtXmTxgblRc) | 2:57 | 2022-11-30 | 2023-04-30 |
 | [Rise Up \(feat\. Vamero\)](https://open.spotify.com/track/46lyJh9GYmWsHez3EsvmAx) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [VAMERO](https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr) | [Rise Up \(feat\. Vamero\)](https://open.spotify.com/album/4DsxykS9CPTnJPeoWXkRV8) | 3:02 | 2021-12-01 | 2022-12-01 |
 | [Ritmo](https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj) | 3:03 | 2022-11-30 |  |
 | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/6x8to58oCuyPyuXIe5Imak) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:52 | 2022-11-30 |  |

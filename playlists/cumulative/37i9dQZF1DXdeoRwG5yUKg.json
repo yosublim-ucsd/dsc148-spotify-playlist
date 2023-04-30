@@ -1855,6 +1855,32 @@
     },
     {
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/4A271CZJOcBKENslfEDsYM"
+      },
+      "artists": [
+        {
+          "name": "Charles Bradley",
+          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+        },
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        },
+        {
+          "name": "Saun & Starr",
+          "url": "https://open.spotify.com/artist/6m4tJuf67jwVSvMP34hrck"
+        }
+      ],
+      "date_added": "2020-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218309,
+      "name": "Slow Love",
+      "url": "https://open.spotify.com/track/0JhPbFpBALh3B9c9njC6iB"
+    },
+    {
+      "album": {
         "name": "Daptone Mood",
         "url": "https://open.spotify.com/album/75eePeKVblGR9BAAnhOtuC"
       },
@@ -1900,7 +1926,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 218309,
       "name": "Slow Love",
       "url": "https://open.spotify.com/track/1DTjDi7vp3NnYfOtOnLf5R"
@@ -2642,7 +2668,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 223577,
       "name": "You Were Mine",
       "url": "https://open.spotify.com/track/4njmTrh1kqxmPql07KKnlT"
@@ -2682,6 +2708,24 @@
       "duration_ms": 223577,
       "name": "You Were Mine",
       "url": "https://open.spotify.com/track/6VFbrvnjVfrSRPIwEf7ept"
+    },
+    {
+      "album": {
+        "name": "CHICKABOOM!",
+        "url": "https://open.spotify.com/album/4PIXzf7OYpSZF7PJLMjCZu"
+      },
+      "artists": [
+        {
+          "name": "Tami Neilson",
+          "url": "https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3"
+        }
+      ],
+      "date_added": "2020-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223577,
+      "name": "You Were Mine",
+      "url": "https://open.spotify.com/track/6nleD42Dimnc5fHnpA2T2R"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdeoRwG5yUKg"

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6TshTCYwh9ySzOO6Jy4Ux2"> Maya Jane Coles</a>' favorite tracks\. Updated regularly\. Curated by Maya Jane Coles Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-97 songs - 8 hr 16 min
+98 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Feel It \- Narciss Remix](https://open.spotify.com/track/5rqfcWgSa4fEn2vmyIBJSe) | [Basic Instinct](https://open.spotify.com/artist/5ZZgAR1R9ZwDO1Vi1jeX5q), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Angel Dust EP](https://open.spotify.com/album/0L948BIWRLbqm7ev1D7R1M) | 4:56 | 2022-07-29 |  |
 | [Find You \- RubaDub](https://open.spotify.com/track/7Mi9HJy7oY42htnxiWe9HD) | [RadioKillaZ](https://open.spotify.com/artist/619gPltOje4v1XU4zZIkrg), [Miss Tantrum](https://open.spotify.com/artist/5St6syTYSUCyu9gawvF1gq), [Tony Vibe](https://open.spotify.com/artist/2JueMH9gaRWar9P5X2gnCL) | [Find You \(RubaDub\)](https://open.spotify.com/album/30aOttmUJVkk4BJ9VDou6h) | 4:34 | 2021-09-16 | 2022-07-30 |
 | [Footsteps](https://open.spotify.com/track/1ZMwrSeySXH5Ys2cwOfZvC) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt), [Carol C](https://open.spotify.com/artist/3PDTHN0oVucy6WF2LVlS9A) | [Safe Passage](https://open.spotify.com/album/4nEl5WmNwaoRTUJZzJIH37) | 3:51 | 2022-07-29 | 2022-10-13 |
-| [Footsteps](https://open.spotify.com/track/6qhpOfM659UzUWQhpiCU3z) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt), [Carol C](https://open.spotify.com/artist/3PDTHN0oVucy6WF2LVlS9A) | [Safe Passage](https://open.spotify.com/album/6vV2zYfImg0HdmJ21FVIzp) | 3:51 | 2022-07-29 |  |
+| [Footsteps](https://open.spotify.com/track/6LN5AQcUWItYKTSwJPFIWy) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt), [Carol C](https://open.spotify.com/artist/3PDTHN0oVucy6WF2LVlS9A) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:51 | 2022-07-29 |  |
+| [Footsteps](https://open.spotify.com/track/6qhpOfM659UzUWQhpiCU3z) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt), [Carol C](https://open.spotify.com/artist/3PDTHN0oVucy6WF2LVlS9A) | [Safe Passage](https://open.spotify.com/album/6vV2zYfImg0HdmJ21FVIzp) | 3:51 | 2022-07-29 | 2023-04-30 |
 | [Fragma](https://open.spotify.com/track/3tqEGkK8YTvCfUzosEhZbs) | [Literon](https://open.spotify.com/artist/1s9IhdI8fSScFz1FvE16Qm) | [Equinox](https://open.spotify.com/album/4IWwmIwUwjUPKYgivgYZ8n) | 6:42 | 2021-09-16 | 2022-07-30 |
 | [Friday Blues](https://open.spotify.com/track/0RgihmZAu8nKlHNNjP66R9) | [Hockins](https://open.spotify.com/artist/3sDQqAcTSTEblYLXhSmZXg) | [Friday Blues](https://open.spotify.com/album/3RNLd2fCwJSun5lh13dWvh) | 3:52 | 2022-07-29 |  |
 | [Gunk](https://open.spotify.com/track/4Nv1liSp522fuF1AGu6Yxs) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Cash Romantic](https://open.spotify.com/album/3HfF5JwfEDokXfW3NvY7Cs) | 5:14 | 2022-07-29 |  |

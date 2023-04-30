@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3PJidfC26k.md) - [plain]
 
 > <a href="https://www.hardlystrictlybluegrass.com/">Tune in</a> Oct\. 1\-3rd starting @ 1pm PT/4pm ET as HSB brings the music we all enjoy in the park to your living rooms and backyards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,995 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,017 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3PJidfC26k.md) - [plain]
 | 47 | [Built To Roam](https://open.spotify.com/track/5a2yG11mx2vNBcOo6UMIel) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Roll The Bones X](https://open.spotify.com/album/6gujv1pAaPxIvDbv1hYq18) | 3:11 |
 | 48 | [Mr\. Stormalong](https://open.spotify.com/track/1uvx2Af2gxf8TAUBf1P3vx) | [Ivan Neville](https://open.spotify.com/artist/0xHoBLKrp48wAlwpy54lRv) | [Son Of Rogues Gallery: Pirate Ballads, Sea Songs & Chanteys](https://open.spotify.com/album/0CB3I2zxVWBZJRD18bNjoy) | 4:06 |
 | 49 | [Walk Up](https://open.spotify.com/track/1D8hxfjP9GjQt6n0mYB25A) | [Meklit](https://open.spotify.com/artist/4I5bRwfigd1Fj1ciXo7jQH) | [On a Day Like This](https://open.spotify.com/album/1nf58A5pWoVrwe3uedGo8v) | 5:34 |
-| 50 | [B\-Flat Ontology](https://open.spotify.com/track/69pkS9mwKm0oVk9yyVLxaj) | [Ceramic Dog](https://open.spotify.com/artist/2EKKgp12AZDmsFbMU59X0C), [Marc Ribot](https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn) | [Hope](https://open.spotify.com/album/6lGi8cCtoERQXSpWnb0Hmr) | 5:40 |
+| 50 | [B\-Flat Ontology](https://open.spotify.com/track/37vZ7N7cE9eIq3P1mKaBgi) | [Ceramic Dog](https://open.spotify.com/artist/2EKKgp12AZDmsFbMU59X0C), [Marc Ribot](https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn) | [Hope](https://open.spotify.com/album/2YNMXnSCNMOfv2bdYtthZu) | 5:40 |
 | 51 | [A Hard Rain's Gonna Fall \(feat\. John Craigie & Ben Morrison\)](https://open.spotify.com/track/4IQXCbuBrM6FwO8jSEJx4M) | [Rainbow Girls](https://open.spotify.com/artist/5qV8qZrppecEsKTWwCCtA7), [Ben Morrison](https://open.spotify.com/artist/1OIHhGpotlUsZWE0HOIep5), [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK) | [Give the People What They Want](https://open.spotify.com/album/1wAjWPzXGAgwzDK9Nkb9vh) | 6:21 |
 | 52 | [La Bamba Rebelde](https://open.spotify.com/track/3cyREPYKAMQNfki246eknU) | [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [It's Time](https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx) | 5:23 |
 | 53 | [Astral Plane](https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:38 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3PJidfC26k.md) - [plain]
 | 57 | [Guitar Town](https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Guitar Town](https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy) | 2:35 |
 | 58 | [Falling Out Of Love](https://open.spotify.com/track/3w6Vyfw1iojw162SELI75Y) | [Ivan Neville](https://open.spotify.com/artist/0xHoBLKrp48wAlwpy54lRv) | [If My Ancestors Could See Me Now](https://open.spotify.com/album/7r5dUbaZZE0WXO0z1XmfTy) | 3:45 |
 | 59 | [I See It Now](https://open.spotify.com/track/4NhO8oJUelTgNmj3G6JZKr) | [Bachelor](https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [I See It Now](https://open.spotify.com/album/5Gc1jfwEfaGaOq3QllW9rb) | 2:53 |
-| 60 | [The Long Goodbye](https://open.spotify.com/track/39frvhj8AzWzM5UfduyeDH) | [Ceramic Dog](https://open.spotify.com/artist/2EKKgp12AZDmsFbMU59X0C), [Marc Ribot](https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn) | [Hope](https://open.spotify.com/album/6lGi8cCtoERQXSpWnb0Hmr) | 10:02 |
+| 60 | [The Long Goodbye](https://open.spotify.com/track/6gDnRavQGA28VqNb4ESX4c) | [Ceramic Dog](https://open.spotify.com/artist/2EKKgp12AZDmsFbMU59X0C), [Marc Ribot](https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn) | [Hope](https://open.spotify.com/album/2YNMXnSCNMOfv2bdYtthZu) | 10:02 |
 
-Snapshot ID: `MCw3MmUwYWIxYzE3YWZmNjg4NTQyMDg1NDhlYTIzNWVjMDBhODNjYzVk`
+Snapshot ID: `MCw1YWQ2ZjFlODg3ZGFkYzRhNDAyNTRkYzRkNGYwZGFlNjNmYzViNzBl`

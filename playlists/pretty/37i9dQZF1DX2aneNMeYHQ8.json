@@ -1,12 +1,12 @@
 {
   "description": "A little alt, folk, and indie rock sprinkled into this delicious melting pot. Cover: The Revivalists\n",
-  "num_followers": 465280,
+  "num_followers": 465317,
   "original_name": "Rockin' Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjA5MTdhYzdkZThmM2I5NDA0ZGIwMmY0NzFjOGQyN2EwNDQ1M2Rk",
+  "snapshot_id": "MCwwYTZjZTQ1M2IyODIwMWM5NWZkNDVjNWY5NjMxMWJiYWQzOTczNjgx",
   "tracks": [
     {
       "added_at": "2023-04-04 15:42:56",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-04-04 15:42:56",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/2G3tS2k6gUuO14Y4fDxw4l"
-      },
-      "artists": [
-        {
-          "name": "the moss",
-          "url": "https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma"
-        }
-      ],
-      "duration_ms": 192134,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/4WTcpYfuTzxlWjffzeUjah"
-    },
-    {
-      "added_at": "2023-04-04 15:42:56",
-      "album": {
         "name": "Everything's Electric",
         "url": "https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 216859,
       "name": "Everything's Electric",
       "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
+    },
+    {
+      "added_at": "2023-04-04 15:42:56",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/2G3tS2k6gUuO14Y4fDxw4l"
+      },
+      "artists": [
+        {
+          "name": "the moss",
+          "url": "https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma"
+        }
+      ],
+      "duration_ms": 192134,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/4WTcpYfuTzxlWjffzeUjah"
     },
     {
       "added_at": "2023-04-04 15:42:56",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-04-04 15:42:56",
       "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 229773,
-      "name": "BRIGHTSIDE",
-      "url": "https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b"
-    },
-    {
-      "added_at": "2023-04-04 15:42:56",
-      "album": {
         "name": "Motivational Speaking",
         "url": "https://open.spotify.com/album/0XMWbprQxPKfQKU3i8AyAl"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 192453,
       "name": "Day by Day",
       "url": "https://open.spotify.com/track/1bDS3ktQSucD150gp86iFU"
+    },
+    {
+      "added_at": "2023-04-04 15:42:56",
+      "album": {
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 229773,
+      "name": "BRIGHTSIDE",
+      "url": "https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b"
     },
     {
       "added_at": "2023-04-04 15:42:56",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-04-04 15:42:56",
       "album": {
-        "name": "Household Name",
-        "url": "https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2"
-      },
-      "artists": [
-        {
-          "name": "Momma",
-          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
-        }
-      ],
-      "duration_ms": 238360,
-      "name": "Speeding 72",
-      "url": "https://open.spotify.com/track/2QYmaiPbbXxXMBrvWj34m0"
-    },
-    {
-      "added_at": "2023-04-04 15:42:56",
-      "album": {
         "name": "Last Night In The Bittersweet",
         "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 330672,
       "name": "Lose It",
       "url": "https://open.spotify.com/track/5kXJylHJ1Ov1Su94vbzxfQ"
+    },
+    {
+      "added_at": "2023-04-04 15:42:56",
+      "album": {
+        "name": "Household Name",
+        "url": "https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "duration_ms": 238360,
+      "name": "Speeding 72",
+      "url": "https://open.spotify.com/track/2QYmaiPbbXxXMBrvWj34m0"
     },
     {
       "added_at": "2023-04-04 15:42:56",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-04-04 15:42:56",
       "album": {
-        "name": "Sea Star",
-        "url": "https://open.spotify.com/album/0URdpTy2ATMgRxbGrGvRvs"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Sea Star",
-      "url": "https://open.spotify.com/track/5r1XMGZto3kRLwCHpUundp"
-    },
-    {
-      "added_at": "2023-04-04 15:42:56",
-      "album": {
         "name": "U&ME",
         "url": "https://open.spotify.com/album/2LzUx0oJhUsjk4rBX8JAFK"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 198840,
       "name": "U&ME",
       "url": "https://open.spotify.com/track/1jyN2jROkI3dR6UbnkDPrp"
+    },
+    {
+      "added_at": "2023-04-04 15:42:56",
+      "album": {
+        "name": "Sea Star",
+        "url": "https://open.spotify.com/album/0URdpTy2ATMgRxbGrGvRvs"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Sea Star",
+      "url": "https://open.spotify.com/track/5r1XMGZto3kRLwCHpUundp"
     },
     {
       "added_at": "2023-04-04 15:42:56",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2023-04-04 15:42:56",
       "album": {
+        "name": "Crutch",
+        "url": "https://open.spotify.com/album/1rNP32XZdvbJAAhJ20gxdi"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 223053,
+      "name": "Crutch",
+      "url": "https://open.spotify.com/track/1xjNRDT0TRfJdWkkKK5xDA"
+    },
+    {
+      "added_at": "2023-04-04 15:42:56",
+      "album": {
         "name": "Miami",
         "url": "https://open.spotify.com/album/3wApCcYjKiRA68wVVF3V1n"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 270483,
       "name": "Stars",
       "url": "https://open.spotify.com/track/2lGIQz1KaDIFSoAtsYZWxI"
-    },
-    {
-      "added_at": "2023-04-04 15:42:56",
-      "album": {
-        "name": "Crutch",
-        "url": "https://open.spotify.com/album/1rNP32XZdvbJAAhJ20gxdi"
-      },
-      "artists": [
-        {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
-        }
-      ],
-      "duration_ms": 223053,
-      "name": "Crutch",
-      "url": "https://open.spotify.com/track/1xjNRDT0TRfJdWkkKK5xDA"
     },
     {
       "added_at": "2023-04-04 15:42:56",

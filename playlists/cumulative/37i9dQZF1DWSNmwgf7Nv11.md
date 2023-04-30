@@ -4,7 +4,7 @@
 
 > Free\-spirited, atmospheric vibes.
 
-281 songs - 17 hr 48 min
+282 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,9 +76,10 @@
 | [Cola](https://open.spotify.com/track/0i6c86ntKJoZpKk8aCHL3c) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Cola](https://open.spotify.com/album/292dfJsxChA6s32kXGrrd4) | 3:49 | 2021-07-30 |  |
 | [cold water](https://open.spotify.com/track/3keIh8QdhxlHQ0hsyDHrzA) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [cold water](https://open.spotify.com/album/0ygmFGHb9QLdOqsAfs6Nhe) | 3:53 | 2021-07-30 |  |
 | [Confetti](https://open.spotify.com/track/4EBTtru8Tiot6bBCpH2748) | [Casey Dubie](https://open.spotify.com/artist/1sYE9vIZsQ6cxgdr7ysq2F) | [Confetti](https://open.spotify.com/album/3qHDi2DzKLmafLvs0XRyap) | 3:31 | 2021-07-30 |  |
-| [Cross](https://open.spotify.com/track/1Ylq065oHAXreb9bVmuNjc) | [Melby](https://open.spotify.com/artist/6cGqnTUSlRs2Ypc15VdRF5) | [Cross](https://open.spotify.com/album/2zfuDM9Ju4nT6lwrWNLZ0d) | 3:39 | 2022-02-25 |  |
+| [Cross](https://open.spotify.com/track/1Ylq065oHAXreb9bVmuNjc) | [Melby](https://open.spotify.com/artist/6cGqnTUSlRs2Ypc15VdRF5) | [Cross](https://open.spotify.com/album/2zfuDM9Ju4nT6lwrWNLZ0d) | 3:39 | 2022-02-25 | 2023-04-30 |
 | [Cross](https://open.spotify.com/track/2tY1zKAgLPPcqlntzmfwV2) | [Melby](https://open.spotify.com/artist/6cGqnTUSlRs2Ypc15VdRF5) | [Rama Lama Records 2016\-2017](https://open.spotify.com/album/4LF1xale1WNkraIZkIBptv) | 3:39 | 2022-02-25 | 2022-11-13 |
 | [Cross](https://open.spotify.com/track/4a3eJln5ShOu0BtddSbHMR) | [Melby](https://open.spotify.com/artist/6cGqnTUSlRs2Ypc15VdRF5) | [Cross](https://open.spotify.com/album/646i8Tb3tokIhH1i8Me4Xs) | 3:39 | 2021-07-30 | 2022-07-29 |
+| [Cross](https://open.spotify.com/track/78pUBKqFVpOzaxlEatECBp) | [Melby](https://open.spotify.com/artist/6cGqnTUSlRs2Ypc15VdRF5) | [Cross](https://open.spotify.com/album/5ttxPIItxo18tdg9VIiued) | 3:39 | 2023-04-07 |  |
 | [Deep In Love](https://open.spotify.com/track/3hmHHA69jx1hdY3TkYRKuE) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Deep In Love](https://open.spotify.com/album/27gGc7BNl7mKU3tUnjfkhH) | 5:09 | 2021-07-30 | 2022-07-29 |
 | [Deep In Love](https://open.spotify.com/track/4fyqGylwyCpUTbgzYJ6RXN) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Bonny Light Horseman](https://open.spotify.com/album/0FDyqe94Dh9j7U1Xyf3d8G) | 5:09 | 2022-02-25 |  |
 | [Did It to Myself](https://open.spotify.com/track/4fAGuqCerj6HktEYv7BC3h) | [Francesca Blanchard](https://open.spotify.com/artist/5nr9aC1q4Iu3i4hYOiRiNf) | [Did It to Myself](https://open.spotify.com/album/7e0YLrat3w46Uk2YatGtdJ) | 4:42 | 2021-07-30 |  |

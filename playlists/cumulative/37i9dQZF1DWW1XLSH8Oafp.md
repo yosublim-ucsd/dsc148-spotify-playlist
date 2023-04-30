@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring Kenya Grace
 
-591 songs - 1 day 9 hr 52 min
+592 songs - 1 day 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,8 @@
 | [GENESIS](https://open.spotify.com/track/2N1Svyzht9aczL81SHCxcg) | [Nedaj](https://open.spotify.com/artist/56huNdCA3s7tthaMNhIXLU) | [GENESIS](https://open.spotify.com/album/1egf6sduxPOZEfnHzxWngA) | 3:09 | 2022-07-11 | 2022-09-10 |
 | [get to u](https://open.spotify.com/track/685i0Q50zyccJaxVM5Qu3Y) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA) | [get to u](https://open.spotify.com/album/21srAIuImPifkMVdYMLoNn) | 3:14 | 2022-04-15 | 2022-06-18 |
 | [getaway](https://open.spotify.com/track/7wIAwRcJTZx5MVfYTAnPcX) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA) | [getaway](https://open.spotify.com/album/1bzI6d5CCeTexMfEIIVLJR) | 1:58 | 2022-07-01 | 2022-07-23 |
-| [GETOUTOFMYHEAD](https://open.spotify.com/track/2kYQCKxOi9Dccib2E8KaW5) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [GETOUTOFMYHEAD](https://open.spotify.com/album/04Cbf32azwsSiMpOjHDNya) | 6:16 | 2023-02-14 |  |
+| [GETOUTOFMYHEAD](https://open.spotify.com/track/2kYQCKxOi9Dccib2E8KaW5) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [GETOUTOFMYHEAD](https://open.spotify.com/album/04Cbf32azwsSiMpOjHDNya) | 6:16 | 2023-02-14 | 2023-04-30 |
+| [GETOUTOFMYHEAD](https://open.spotify.com/track/3DayjEnW7oPHucWm71NtIH) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [GETOUTOFMYHEAD](https://open.spotify.com/album/5Vnhdn0oxYlogKhFdT1SWn) | 6:16 | 2023-03-17 |  |
 | [Ghost](https://open.spotify.com/track/4orMsymF399H3xKBc0AIhx) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Wlfgrl](https://open.spotify.com/album/1xbcqJ0EAMxyGyffMzO8rL) | 3:05 | 2021-10-07 | 2022-06-04 |
 | [ghost](https://open.spotify.com/track/62ioLGu1vMLPuZB3wYvmxi) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA) | [ghost](https://open.spotify.com/album/4LmcWugjjNYJnmNkLvW1At) | 2:19 | 2022-06-03 | 2022-07-20 |
 | [Gift](https://open.spotify.com/track/66UcoWnZPHQUJwpRRywYFm) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [TELESHOP](https://open.spotify.com/artist/0Cr5IUi0VbocOLWgz8wiXx) | [Gift EP](https://open.spotify.com/album/58X3RQRsXbgnXYf3rbj8TW) | 3:55 | 2022-05-27 | 2023-03-04 |

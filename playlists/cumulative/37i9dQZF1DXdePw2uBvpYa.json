@@ -1108,7 +1108,7 @@
     {
       "album": {
         "name": "Dream Wife",
-        "url": "https://open.spotify.com/album/0fFlloNPNem2XOi4AeU5ty"
+        "url": "https://open.spotify.com/album/4XNMQKhyNE3BYCPhwTzcFF"
       },
       "artists": [
         {
@@ -1119,6 +1119,24 @@
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 209880,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/0Ufq3lKdJ6Elc3K9tSkH4M"
+    },
+    {
+      "album": {
+        "name": "Dream Wife",
+        "url": "https://open.spotify.com/album/0fFlloNPNem2XOi4AeU5ty"
+      },
+      "artists": [
+        {
+          "name": "Dream Wife",
+          "url": "https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a"
+        }
+      ],
+      "date_added": "2021-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 209880,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/4ygF0U1GZSmrvVnoKhBRur"

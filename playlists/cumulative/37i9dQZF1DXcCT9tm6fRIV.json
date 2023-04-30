@@ -554,6 +554,24 @@
     {
       "album": {
         "name": "Lo Mejor de Alfredo Belusi",
+        "url": "https://open.spotify.com/album/3eGpNB9KUDP9KxrXBLKhXq"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Belusi",
+          "url": "https://open.spotify.com/artist/64Ni4gszhSPmQhN5zhzhKe"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124240,
+      "name": "De Puro Curda",
+      "url": "https://open.spotify.com/track/2yiFCdnMggyVo2R5mrs5Hu"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor de Alfredo Belusi",
         "url": "https://open.spotify.com/album/20REqo3uTm8pSvAqvUIsmH"
       },
       "artists": [
@@ -1060,7 +1078,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 171773,
       "name": "Gran Hotel Victoria",
       "url": "https://open.spotify.com/track/1rxRxnOfJIVcXVG1TY0yhi"
@@ -2334,7 +2352,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 262706,
       "name": "Tal vez sera su voz",
       "url": "https://open.spotify.com/track/72grNDm7LBvqrcrRkm33ix"
@@ -2422,7 +2440,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 221500,
       "name": "Tarde",
       "url": "https://open.spotify.com/track/3NBK1KYBB7K278yKrWugnY"

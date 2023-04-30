@@ -2154,7 +2154,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 173756,
       "name": "In the Bleak Midwinter",
       "url": "https://open.spotify.com/track/3np9l8SIwGkyeQjtNXe7na"
@@ -2176,6 +2176,24 @@
       "duration_ms": 173756,
       "name": "In The Bleak Midwinter",
       "url": "https://open.spotify.com/track/5Fzf29r1XkqFnxm8C9XBhA"
+    },
+    {
+      "album": {
+        "name": "A Rock By the Sea Christmas, Vol. 4",
+        "url": "https://open.spotify.com/album/1iam45D5AQaoVkZqTx8Lyc"
+      },
+      "artists": [
+        {
+          "name": "The Hot Hearts",
+          "url": "https://open.spotify.com/artist/2mOYycEORlQThRVOoSjL7V"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173756,
+      "name": "In the Bleak Midwinter",
+      "url": "https://open.spotify.com/track/6MOYdMMIZAfuFzmGxFl3Pe"
     },
     {
       "album": {
@@ -3747,6 +3765,24 @@
     },
     {
       "album": {
+        "name": "Winterglow / Take Me Back to Toyland",
+        "url": "https://open.spotify.com/album/0ghqHw3YtbooB3IoXDdTXN"
+      },
+      "artists": [
+        {
+          "name": "Grant-Lee Phillips",
+          "url": "https://open.spotify.com/artist/65xy6loxYxKy3M9uiRHzLv"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125960,
+      "name": "Take Me Back to Toyland",
+      "url": "https://open.spotify.com/track/35VxpFYw78qOvQbwgENTyX"
+    },
+    {
+      "album": {
         "name": "Yuletide",
         "url": "https://open.spotify.com/album/2iL1q6nfD9mCuxNB0ovhaA"
       },
@@ -3776,7 +3812,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 126600,
       "name": "Take Me Back to Toyland",
       "url": "https://open.spotify.com/track/7a9o50udnCEeGVfUdI084k"

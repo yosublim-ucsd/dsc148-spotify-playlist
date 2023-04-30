@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 897300,
+  "num_followers": 897687,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjkzZDk3OTk5YjY5NDNiY2YwZDJiZDk0MWJkYjUwYmIzMDc0ZmQ1",
+  "snapshot_id": "MCwwZWM5OGE2MWNhZjY0ZDdiZTAzNzliNGQwOWJkMWRjMWQ1NTA3YzNh",
   "tracks": [
     {
       "added_at": "2023-01-11 17:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-01-11 17:00:00",
       "album": {
-        "name": "Wolfmother (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6TqFe1KFG3NdofscJrSPc4"
-      },
-      "artists": [
-        {
-          "name": "Wolfmother",
-          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
-        }
-      ],
-      "duration_ms": 160346,
-      "name": "Vagabond - Acoustic Version",
-      "url": "https://open.spotify.com/track/6HzpmmaLVHC88XQY4e0YZL"
-    },
-    {
-      "added_at": "2023-01-11 17:00:00",
-      "album": {
         "name": "Are You Gonna Be My Girl",
         "url": "https://open.spotify.com/album/36oEYuAEYbiyFLuFuybtsa"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 237173,
       "name": "Are You Gonna Be My Girl - Acoustic",
       "url": "https://open.spotify.com/track/3tRMcxAVPS0YK00YcSc737"
+    },
+    {
+      "added_at": "2023-01-11 17:00:00",
+      "album": {
+        "name": "Wolfmother (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6TqFe1KFG3NdofscJrSPc4"
+      },
+      "artists": [
+        {
+          "name": "Wolfmother",
+          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
+        }
+      ],
+      "duration_ms": 160346,
+      "name": "Vagabond - Acoustic Version",
+      "url": "https://open.spotify.com/track/6HzpmmaLVHC88XQY4e0YZL"
     },
     {
       "added_at": "2023-01-11 17:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-01-11 17:00:00",
       "album": {
-        "name": "Boxes (Acoustic)",
-        "url": "https://open.spotify.com/album/7z93UaPhXkm2bMjoWltATK"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 262186,
-      "name": "Boxes - Acoustic",
-      "url": "https://open.spotify.com/track/09gtDKL49tnLXMwN68D7JO"
-    },
-    {
-      "added_at": "2023-01-11 17:00:00",
-      "album": {
         "name": "Acoustic at The Ryman (Live)",
         "url": "https://open.spotify.com/album/7aXRvfGlrAyi8ALrvQBWTR"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 307760,
       "name": "The Funeral - Live Acoustic",
       "url": "https://open.spotify.com/track/5t6CC8sf3ffzDozMcboqBx"
+    },
+    {
+      "added_at": "2023-01-11 17:00:00",
+      "album": {
+        "name": "Boxes (Acoustic)",
+        "url": "https://open.spotify.com/album/7z93UaPhXkm2bMjoWltATK"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 262186,
+      "name": "Boxes - Acoustic",
+      "url": "https://open.spotify.com/track/09gtDKL49tnLXMwN68D7JO"
     },
     {
       "added_at": "2023-01-11 17:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-01-11 17:00:00",
       "album": {
-        "name": "Kill The Noise (Acoustic)",
-        "url": "https://open.spotify.com/album/4NuxF7PTPbjtboHpQ6b3NI"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 161010,
-      "name": "Kill The Noise - Acoustic",
-      "url": "https://open.spotify.com/track/7oLfJtNvOFHYo02uProOfr"
-    },
-    {
-      "added_at": "2023-01-11 17:00:00",
-      "album": {
         "name": "7 (Acoustic)",
         "url": "https://open.spotify.com/album/6IKwv5Fu9q2xAwAIKDlakX"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 252320,
       "name": "7 - Acoustic",
       "url": "https://open.spotify.com/track/2Nz14MtLy82a3togG2EI8l"
+    },
+    {
+      "added_at": "2023-01-11 17:00:00",
+      "album": {
+        "name": "Kill The Noise (Acoustic)",
+        "url": "https://open.spotify.com/album/4NuxF7PTPbjtboHpQ6b3NI"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 161010,
+      "name": "Kill The Noise - Acoustic",
+      "url": "https://open.spotify.com/track/7oLfJtNvOFHYo02uProOfr"
     },
     {
       "added_at": "2023-01-11 17:00:00",

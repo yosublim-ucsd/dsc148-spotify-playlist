@@ -1,12 +1,12 @@
 {
   "description": "That fuzzy, noisy punk-blues hybrid",
-  "num_followers": 11149,
+  "num_followers": 11163,
   "original_name": "Punk Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmN2YzNzkzY2UwZWU4NDZiMWUzYzI2MDFkZjFlOTFkYWE4MzgwYzlm",
+  "snapshot_id": "MCw0ZmZkNTJkNDM4M2Q5MjkxNDE0MmZmYTEzODUzNGIwNWI1ZjA2Mjgx",
   "tracks": [
     {
       "added_at": "2022-03-28 20:14:58",
@@ -251,6 +251,22 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
+        "name": "Rock Them Back to Hell",
+        "url": "https://open.spotify.com/album/1a8q2lXWcdJdo0v1JP8S2E"
+      },
+      "artists": [
+        {
+          "name": "Left Lane Cruiser",
+          "url": "https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf"
+        }
+      ],
+      "duration_ms": 143360,
+      "name": "Juice To Get Loose",
+      "url": "https://open.spotify.com/track/1untagwh1UZVlcY41ctNmU"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
         "name": "Talking 'bout",
         "url": "https://open.spotify.com/album/3XehbkA49rI1F8wb6CirBe"
       },
@@ -427,18 +443,34 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Ultraglide In Black",
-        "url": "https://open.spotify.com/album/5dUbfMC2mz6nB9mIZlTV4z"
+        "name": "Popular Favorites",
+        "url": "https://open.spotify.com/album/6LXTRRrqJZYyuV0kIuaG7M"
       },
       "artists": [
         {
-          "name": "The Dirtbombs",
-          "url": "https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb"
+          "name": "Oblivians",
+          "url": "https://open.spotify.com/artist/14UQmxJzeKtmgYzJ1sEJdi"
         }
       ],
-      "duration_ms": 180213,
-      "name": "I'll Wait",
-      "url": "https://open.spotify.com/track/2iQiWJRPlCV0nC9AgenOkU"
+      "duration_ms": 319893,
+      "name": "Do the Milkshake",
+      "url": "https://open.spotify.com/track/0NlwS6WOV4gfDRXTFBGNlR"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Nothing Can Stop These Men",
+        "url": "https://open.spotify.com/album/7KZAq0y0mk1uCx69axAzO7"
+      },
+      "artists": [
+        {
+          "name": "The Milkshakes",
+          "url": "https://open.spotify.com/artist/02jy0SdsT0bP4Hn0QkQTeG"
+        }
+      ],
+      "duration_ms": 135400,
+      "name": "Ida Honey (Tell Me You'll Be Mine)",
+      "url": "https://open.spotify.com/track/1cvo2lJ0ui4OQ0n5y3ZUZV"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -459,50 +491,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Popular Favorites",
-        "url": "https://open.spotify.com/album/6LXTRRrqJZYyuV0kIuaG7M"
+        "name": "Ultraglide In Black",
+        "url": "https://open.spotify.com/album/5dUbfMC2mz6nB9mIZlTV4z"
       },
       "artists": [
         {
-          "name": "Oblivians",
-          "url": "https://open.spotify.com/artist/14UQmxJzeKtmgYzJ1sEJdi"
+          "name": "The Dirtbombs",
+          "url": "https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb"
         }
       ],
-      "duration_ms": 319893,
-      "name": "Do the Milkshake",
-      "url": "https://open.spotify.com/track/0NlwS6WOV4gfDRXTFBGNlR"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "I Know You Be Houserockin'",
-        "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
-      },
-      "artists": [
-        {
-          "name": "The Gories",
-          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
-        }
-      ],
-      "duration_ms": 160493,
-      "name": "Early in the Morning",
-      "url": "https://open.spotify.com/track/2tWdHn2y9MM6jlnaEyIShX"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "Nothing Can Stop These Men",
-        "url": "https://open.spotify.com/album/7KZAq0y0mk1uCx69axAzO7"
-      },
-      "artists": [
-        {
-          "name": "The Milkshakes",
-          "url": "https://open.spotify.com/artist/02jy0SdsT0bP4Hn0QkQTeG"
-        }
-      ],
-      "duration_ms": 135400,
-      "name": "Ida Honey (Tell Me You'll Be Mine)",
-      "url": "https://open.spotify.com/track/1cvo2lJ0ui4OQ0n5y3ZUZV"
+      "duration_ms": 180213,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/2iQiWJRPlCV0nC9AgenOkU"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -539,18 +539,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Sedition",
-        "url": "https://open.spotify.com/album/55FK9VJhecEPj5bt2Ugkcv"
+        "name": "I Know You Be Houserockin'",
+        "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
       },
       "artists": [
         {
-          "name": "Scientists",
-          "url": "https://open.spotify.com/artist/6LTqstd1cGvRfEXaSkqoy1"
+          "name": "The Gories",
+          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
         }
       ],
-      "duration_ms": 319546,
-      "name": "Swampland",
-      "url": "https://open.spotify.com/track/0B8EFxR3GfhAOhrkdh9GJM"
+      "duration_ms": 160493,
+      "name": "Early in the Morning",
+      "url": "https://open.spotify.com/track/2tWdHn2y9MM6jlnaEyIShX"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -567,6 +567,22 @@
       "duration_ms": 204320,
       "name": "Isolation",
       "url": "https://open.spotify.com/track/5WQVHv1Vw8VRE904vPsLsL"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Sedition",
+        "url": "https://open.spotify.com/album/55FK9VJhecEPj5bt2Ugkcv"
+      },
+      "artists": [
+        {
+          "name": "Scientists",
+          "url": "https://open.spotify.com/artist/6LTqstd1cGvRfEXaSkqoy1"
+        }
+      ],
+      "duration_ms": 319546,
+      "name": "Swampland",
+      "url": "https://open.spotify.com/track/0B8EFxR3GfhAOhrkdh9GJM"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -619,22 +635,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "The Kids Are All Square - This Is Hip & Girlsville",
-        "url": "https://open.spotify.com/album/60tBmjuaOOUZ1nbUFXKejQ"
-      },
-      "artists": [
-        {
-          "name": "Thee Headcoatees",
-          "url": "https://open.spotify.com/artist/1MDoUyChsGrYbl9DeV9tif"
-        }
-      ],
-      "duration_ms": 145400,
-      "name": "Round Every Corner",
-      "url": "https://open.spotify.com/track/5Lo8MW6jtjbKU2YslHKqna"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Too Much Guitar",
         "url": "https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK"
       },
@@ -663,6 +663,22 @@
       "duration_ms": 207760,
       "name": "(Sometimes You Got to Be) Gentle",
       "url": "https://open.spotify.com/track/23SE56CtkeGrThZQdlDpDz"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "The Kids Are All Square - This Is Hip & Girlsville",
+        "url": "https://open.spotify.com/album/60tBmjuaOOUZ1nbUFXKejQ"
+      },
+      "artists": [
+        {
+          "name": "Thee Headcoatees",
+          "url": "https://open.spotify.com/artist/1MDoUyChsGrYbl9DeV9tif"
+        }
+      ],
+      "duration_ms": 145400,
+      "name": "Round Every Corner",
+      "url": "https://open.spotify.com/track/5Lo8MW6jtjbKU2YslHKqna"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -747,6 +763,22 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
+        "name": "All You Can Eat!!",
+        "url": "https://open.spotify.com/album/6PEL9tRZqgzzxq3RmpOm9O"
+      },
+      "artists": [
+        {
+          "name": "Left Lane Cruiser",
+          "url": "https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf"
+        }
+      ],
+      "duration_ms": 237173,
+      "name": "Crackalacka",
+      "url": "https://open.spotify.com/track/6cxujOKEfegpNfIhb7Ma6v"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
         "name": "Serenade in Red",
         "url": "https://open.spotify.com/album/6KmMuPrapXIwvYobrSrlKh"
       },
@@ -763,22 +795,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Rock Them Back to Hell",
-        "url": "https://open.spotify.com/album/1a8q2lXWcdJdo0v1JP8S2E"
-      },
-      "artists": [
-        {
-          "name": "Left Lane Cruiser",
-          "url": "https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf"
-        }
-      ],
-      "duration_ms": 143360,
-      "name": "Juice To Get Loose",
-      "url": "https://open.spotify.com/track/1untagwh1UZVlcY41ctNmU"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Fire of Love",
         "url": "https://open.spotify.com/album/3OrGW7wRB8dIZ8EYrAkkWW"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 239493,
       "name": "Preaching the Blues",
       "url": "https://open.spotify.com/track/4qZrZqBRq0tAKJ3wE3Az3A"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "All You Can Eat!!",
-        "url": "https://open.spotify.com/album/6PEL9tRZqgzzxq3RmpOm9O"
-      },
-      "artists": [
-        {
-          "name": "Left Lane Cruiser",
-          "url": "https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf"
-        }
-      ],
-      "duration_ms": 237173,
-      "name": "Crackalacka",
-      "url": "https://open.spotify.com/track/6cxujOKEfegpNfIhb7Ma6v"
     }
   ],
   "unique_name": "Punk Blues",

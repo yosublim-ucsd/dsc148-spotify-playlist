@@ -4,7 +4,7 @@
 
 > Simply Texas blues at its best.
 
-72 songs - 5 hr 17 min
+73 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [I'm About to Lose My Mind](https://open.spotify.com/track/2TPntNWBQ4a4pW9AWsIOHd) | [Kai Strauss](https://open.spotify.com/artist/4rxJh3ATE3suDdQXBziz2E), [Darrell Nulisch](https://open.spotify.com/artist/5xBekcOlP8jLrvMqpC6MtV) | [Electric Blues](https://open.spotify.com/album/0Diw0JIhBoHfVxcmvGUHlI) | 4:59 | 2018-02-27 |  |
 | [La Grange \- 2005 Remaster](https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:50 | 2016-03-18 |  |
 | [Let The Good Times Roll](https://open.spotify.com/track/5Qxhlc1J70CpnJAz02FWdU) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [Things I Used To Do](https://open.spotify.com/album/0Xuzshv4pdWf8NXA7xM2mA) | 2:53 | 2016-03-18 |  |
-| [Life by the Drop](https://open.spotify.com/track/0yqpt8kklxBeMD8dpvoD8l) | [Doyle Bramhall](https://open.spotify.com/artist/2ewLmeOezmY0HqMR21anX4) | [Fitchburg Street](https://open.spotify.com/album/2HEXbzLaGWhZr5yjs1bLBv) | 3:05 | 2018-02-27 |  |
+| [Life by the Drop](https://open.spotify.com/track/0yqpt8kklxBeMD8dpvoD8l) | [Doyle Bramhall](https://open.spotify.com/artist/2ewLmeOezmY0HqMR21anX4) | [Fitchburg Street](https://open.spotify.com/album/2HEXbzLaGWhZr5yjs1bLBv) | 3:05 | 2018-02-27 | 2023-04-30 |
+| [Life by the Drop](https://open.spotify.com/track/3qXcnzcNx45bXlWJzD730w) | [Doyle Bramhall](https://open.spotify.com/artist/2ewLmeOezmY0HqMR21anX4) | [Fitchburg Street](https://open.spotify.com/album/22uz6QF9N2UVHjOjK2LAEw) | 3:05 | 2018-02-27 |  |
 | [Life by the Drop](https://open.spotify.com/track/5jrq9La3ynS3B9aizefueu) | [Doyle Bramhall](https://open.spotify.com/artist/2ewLmeOezmY0HqMR21anX4) | [Fitchburg Street](https://open.spotify.com/album/4SB602UH3CT37jiy1mZzlu) | 3:05 | 2018-02-27 | 2022-07-29 |
 | [Mary Had a Little Lamb](https://open.spotify.com/track/0nFZ2HQRnIxiwraCm2X6Uq) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 2:46 | 2018-02-27 |  |
 | [Me And My Guitar](https://open.spotify.com/track/0QpxUzXEI3ZjJeo6dDFgV7) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [The Best Of Freddie King: The Shelter Years](https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY) | 4:04 | 2016-03-18 |  |

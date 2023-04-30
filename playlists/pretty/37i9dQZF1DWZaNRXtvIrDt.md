@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Nabihah Iqbal
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,788 likes - 68 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,794 likes - 68 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 30 | [Enjoy Your Life](https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Enjoy Your Life](https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N) | 4:00 |
 | 31 | [Mother](https://open.spotify.com/track/0GAr2dDEqEXqlhQzvyZTsK) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Mother](https://open.spotify.com/album/038nzTPTer7dDaM9Z5K4M6) | 3:41 |
 | 32 | [What You Say?](https://open.spotify.com/track/22quZFeltYbo325rn3ktTe) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [What You Say?](https://open.spotify.com/album/2yRIzD4GpnSNlGw5gt0Y1o) | 3:23 |
-| 33 | [Sora](https://open.spotify.com/track/2Fhze8ZgxgbVlsNh4y1X7W) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Sora](https://open.spotify.com/album/6t1eLn4EXLLuu2cYGybM8e) | 4:17 |
+| 33 | [Sora](https://open.spotify.com/track/5MX2I1rGXXAFPsJaoKRf7r) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Sora](https://open.spotify.com/album/1liqJtMwsRjwF49md1FG8a) | 4:17 |
 | 34 | [Shotgun Baby](https://open.spotify.com/track/0q49donmfN5VivjT9utGcq) | [KÉDU CARLÖ](https://open.spotify.com/artist/5FdNimxRznD7ZK6LR5VTJC) | [Shotgun Baby](https://open.spotify.com/album/2Y0QvT0p9gS0wcCmXK28nS) | 5:01 |
 | 35 | [DESIRE96](https://open.spotify.com/track/1Isw0eYkTeBUP4uuqLNHZt) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [DESIRE96](https://open.spotify.com/album/32qjzjfmDJX4lA6yAPR2fb) | 4:13 |
 | 36 | [Selfish Soul \- ODESZA Remix](https://open.spotify.com/track/6N5thJ3UQMpHdf2fYOB3XL) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u), [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Selfish Soul \(ODESZA Remix\)](https://open.spotify.com/album/4aJcCRF4B3Tjefsu0aZKu2) | 3:26 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 52 | [Ras](https://open.spotify.com/track/3fbXEzhwB3tf8FvolSW85V) | [Prozak](https://open.spotify.com/artist/1cFxOHBhTZDQuzNaIvzBel) | [Ras](https://open.spotify.com/album/2skJsvVXbqFnXE4Tx3S92V) | 4:54 |
 | 53 | [Feels Bad](https://open.spotify.com/track/1wr53taHWvkEfp9nG0vAIM) | [IN2STELLAR](https://open.spotify.com/artist/6JDTszsnsJ44yCRBnISbVq) | [Feels Bad](https://open.spotify.com/album/23rwCtNkALElgFulTfNRpv) | 7:14 |
 | 54 | [T Minus](https://open.spotify.com/track/6VH91gjItq7rKiYnIPApQ2) | [suki](https://open.spotify.com/artist/1vIOPkrhJl84CvBcT6LPyq) | [T Minus](https://open.spotify.com/album/0RSh5kgB4s3tRpQEcIkx0f) | 5:38 |
-| 55 | [One Touch](https://open.spotify.com/track/6DURQC9m8Rt8SjL4ZKp0Eq) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/4VCCLsmrSghXSM8dxyhVWo) | 3:00 |
+| 55 | [One Touch](https://open.spotify.com/track/3g4wkFSYsU7Qc7bPjaJEGV) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/21lJDSVSuhyKBqkzxn9gAE) | 3:00 |
 | 56 | [Juniper](https://open.spotify.com/track/4PRVnpNShPqjANUE5GC7Dx) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Juniper](https://open.spotify.com/album/56TKvJC3uylhbaC8N6jhn1) | 5:00 |
 | 57 | [You Are The Reason](https://open.spotify.com/track/56F50CYq9MRcefIShTLPL4) | [Tassone](https://open.spotify.com/artist/470ihAHOGGu2P0xyo8upnv), [Amy Kisnorbo](https://open.spotify.com/artist/2PJz7yQtTtf05sYx7jsbrI) | [First Light](https://open.spotify.com/album/0j8NWZVyLmUtvybK07T1hi) | 4:00 |
 | 58 | [Summer Rain](https://open.spotify.com/track/3WSzw2GicwAr4ZXcTUixTz) | [RBI](https://open.spotify.com/artist/1W274H48h2fREZkw3JoH5p) | [Disseminate](https://open.spotify.com/album/48cCqyJHKP14pas5oURimj) | 4:41 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 67 | [Unknown Angel](https://open.spotify.com/track/0c3l1ht3cKspGlY67Fcogu) | [Loure](https://open.spotify.com/artist/0oj4QK4zH3lghS2Oa418zZ) | [Unknown Angel](https://open.spotify.com/album/0Uo6UEk7brlxliZ1KmzTKV) | 6:59 |
 | 68 | [Plaid](https://open.spotify.com/track/7knr1Ak0hW5apJicbQ1doJ) | [99 Nissan Patrol](https://open.spotify.com/artist/6NLwlRl1gc64NVdC4ZXxgw), [Monako](https://open.spotify.com/artist/281y760OdoAujOeovQnKmC) | [Codec Tweak/Plaid](https://open.spotify.com/album/3f6HJFDtEOdFCTdGlrDkux) | 6:04 |
 
-Snapshot ID: `MCxkZWUyMzAyNzQzODZhYmM5ZTEwNjUwNjk3OGQxNmEyYzZlN2MxNjM5`
+Snapshot ID: `MCwyMWJmMjRlYjVmYjRhNDViZGQ4YWMwOTM5ZTUwYjBjOTZmMDQ0MGI4`

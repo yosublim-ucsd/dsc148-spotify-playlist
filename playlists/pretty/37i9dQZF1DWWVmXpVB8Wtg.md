@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVmXpVB8Wtg.md) - [plain]
 
 > Meet the lineup of ULTRA KOREA, the best music festival boasting the world's top EDM DJ\. \(세계 최정상 EDM DJ를 자랑하는 최고의 음악 축제 ULTRA KOREA의 라인업을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,704 likes - 48 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,706 likes - 48 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVmXpVB8Wtg.md) - [plain]
 | 16 | [뭘 기다리고 있어 \(What You Waiting For\)](https://open.spotify.com/track/0zWDxMqxq7bGDmZEl7Cye8) | [R.Tee](https://open.spotify.com/artist/0dfMk1lwRlX5Zmg2KHjwjN), [Anda](https://open.spotify.com/artist/2PZt7SATrAxsNG60Mqkan4) | [뭘 기다리고 있어 \(What You Waiting For\)](https://open.spotify.com/album/0GPaKzASwZiS68S5IkshKC) | 2:54 |
 | 17 | [Alright](https://open.spotify.com/track/3YwRisfTPmDXtZ1Lnz6Fpr) | [Ares Carter](https://open.spotify.com/artist/5fSYYJ4qdUSyvj2q0YdHEF), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [Alright](https://open.spotify.com/album/4tPe3h6ShVtDHo3TOeyqIL) | 3:18 |
 | 18 | [Burnt Letters](https://open.spotify.com/track/3pFW7d9NJbOo6SHUg2b7j0) | [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Burnt Letters](https://open.spotify.com/album/7ETDlM2iAQnsEiaV57LvNa) | 8:36 |
-| 19 | [Now That I'm Gone \(Look How You're Crying\)](https://open.spotify.com/track/6Qotee3wIEu3PUTsXLJbnG) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Bullets](https://open.spotify.com/artist/0ixVJf1V8RA00Wj4C8C79a) | [Daptone Records Singles Collection: Volume 1](https://open.spotify.com/album/7JJziPgPVZJWmTXxsAaDAP) | 3:28 |
+| 19 | [Now That I'm Gone \(Look How You're Crying\)](https://open.spotify.com/track/3INaJCuIfVWt8EnzhgHdk5) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Bullets](https://open.spotify.com/artist/0ixVJf1V8RA00Wj4C8C79a) | [Daptone Records Singles Collection: Volume 1](https://open.spotify.com/album/42lZKhCXoHT3VLFYH4PPM3) | 3:28 |
 | 20 | [Little Giants \(feat\. Kim Ju Na\)](https://open.spotify.com/track/6fuTdkCGJ7hsFsOEmks2YJ) | [Atommy](https://open.spotify.com/artist/6uLot3WsFduJ9MEvdvz9GV), [Kim Ju Na](https://open.spotify.com/artist/1X5nPhrZ9fXydM5Q1Mzi4m) | [Little Giants \(feat\. Kim Ju Na\)](https://open.spotify.com/album/5lPSLNzOyhGcZniHN0zSQ4) | 3:15 |
 | 21 | [Discovery](https://open.spotify.com/track/5bO33fxvcGqZp7Pw3zIQsj) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Discovery](https://open.spotify.com/album/2krPbH9goFZldIUjP7WfRE) | 3:30 |
 | 22 | [Addiction \- Original Mix](https://open.spotify.com/track/5WVYs7RVxu9RyFfOMBFsxI) | [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q), [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN) | [Addiction](https://open.spotify.com/album/3eVU8slwm0M3yv43Xvjk4F) | 6:30 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVmXpVB8Wtg.md) - [plain]
 | 47 | [Be Strong](https://open.spotify.com/track/3HYlMMRwGfDtbJBTA5XJ5c) | [NIGHTCAP](https://open.spotify.com/artist/6zQzf5rafx9QyRokaqO4qH) | [Be Strong / Feel So Alive](https://open.spotify.com/album/56MfOl25QadLcpTnGND4p0) | 3:20 |
 | 48 | [Matured Gentility](https://open.spotify.com/track/75qHcAAqzajbzKV9WLmdbk) | [Dj Void](https://open.spotify.com/artist/53Cd2RdnIpJIjiSNBSz7GQ) | [Matured Gentility](https://open.spotify.com/album/37ew4eBhDg3RXKCOHlr2Zn) | 12:55 |
 
-Snapshot ID: `MCxiNDg5NWIxYjBmOTBkODQwYmQwMDg2ZTJmOTZkM2VjNzhjMGE4ZTcz`
+Snapshot ID: `MCw5MzQxNDg3OWNkZTc2YWIwN2FiNjM4ODE1MmZmNGRjMWM4ZTA1MTQ5`

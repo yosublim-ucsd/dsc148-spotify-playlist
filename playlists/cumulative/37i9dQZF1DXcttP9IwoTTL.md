@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3AN049igIAaoX0fjTCkpnf">Jennifer Cardini</a>'s favorite tracks\. Updated regularly\. Curated by Jennifer Cardini\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-309 songs - 1 day 6 hr 14 min
+310 songs - 1 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,8 @@
 | [Liquid Night \- Original Mix](https://open.spotify.com/track/3CjOkPiitQZc1YvDLNR0OL) | [Maruwa](https://open.spotify.com/artist/6jvVhsNfiC1BXMtZHKpgHF) | [Liquid Night](https://open.spotify.com/album/5MvkNS9DMQr2oAKpsbEyr0) | 6:33 | 2022-12-22 | 2023-04-15 |
 | [Little Drummer Boy \- Lauer Remix](https://open.spotify.com/track/5dBltnK1rVjyrKZLKN9CRy) | [Patrick Bishop](https://open.spotify.com/artist/3N4Z2iZc3I4o6hhGeoqDEv), [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Little Drummer Boy \(Lauer Remix\)](https://open.spotify.com/album/0yTu9KOD3BcWMNAhfdbF39) | 4:22 | 2021-12-10 | 2022-05-14 |
 | [Litua](https://open.spotify.com/track/2LJU2pLGRYlLQeo9QvRPvs) | [Cute Heels](https://open.spotify.com/artist/2ESqHEdxIYhKjCWkK5lAWk), [Ana Gartner](https://open.spotify.com/artist/1t7UqCfQUihGAD1bjvioXs) | [Parallels](https://open.spotify.com/album/4cXLYvPB6G7rCOVmxxQqrq) | 3:41 | 2022-12-22 |  |
-| [Look Like A Man](https://open.spotify.com/track/3LWFZuZWSbz3ZqOFUMY6ZA) | [Decius](https://open.spotify.com/artist/61VfHXWMs8Am1Sg5HeFbJw), [Lias Saoudi](https://open.spotify.com/artist/2FbxiFPYUwfms4iboZw7l4) | [Decius Vol\. I](https://open.spotify.com/album/2UFaxoG81dm4rBoA8MWfu9) | 3:56 | 2023-02-13 |  |
+| [Look Like A Man](https://open.spotify.com/track/3LWFZuZWSbz3ZqOFUMY6ZA) | [Decius](https://open.spotify.com/artist/61VfHXWMs8Am1Sg5HeFbJw), [Lias Saoudi](https://open.spotify.com/artist/2FbxiFPYUwfms4iboZw7l4) | [Decius Vol\. I](https://open.spotify.com/album/2UFaxoG81dm4rBoA8MWfu9) | 3:56 | 2023-02-13 | 2023-04-30 |
+| [Look Like A Man](https://open.spotify.com/track/7rQq06VOCezKyfA2pV2HUr) | [Decius](https://open.spotify.com/artist/61VfHXWMs8Am1Sg5HeFbJw), [Lias Saoudi](https://open.spotify.com/artist/2FbxiFPYUwfms4iboZw7l4) | [Decius Vol\. I](https://open.spotify.com/album/2bFXQyPnVlhL17xXToDi6z) | 3:56 | 2023-04-14 |  |
 | [Looking at Your Pager \- Solomun Remix](https://open.spotify.com/track/3SrLEavYNM4QQ8IaTySHGT) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Looking At Your Pager \(Solomun Remix\)](https://open.spotify.com/album/7HhVsiE0RjoBhLvE3P1O6u) | 4:28 | 2022-09-16 | 2022-12-24 |
 | [Love](https://open.spotify.com/track/5XIROml6NGQvRdDiEQ7Hy7) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Under The Skin \(Original Soundtrack Album\)](https://open.spotify.com/album/0MJwS1KqklO8tr95IJAcQA) | 5:10 | 2022-12-22 | 2023-04-15 |
 | [Love Love Love](https://open.spotify.com/track/5S1drMAStkabK0PZsOkfiE) | [Lauren Duffus](https://open.spotify.com/artist/0jYQCtRXU4qVKfMjqnn05l) | [Love Love Love](https://open.spotify.com/album/5GuOoK1aW5vLiMQA33OLPN) | 2:49 | 2023-04-14 |  |

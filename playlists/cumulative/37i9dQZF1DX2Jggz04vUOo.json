@@ -370,7 +370,7 @@
     {
       "album": {
         "name": "Shika Shika / Botanas, Vol. 15",
-        "url": "https://open.spotify.com/album/6tFwiVNeI7Pdut9sWkgCXW"
+        "url": "https://open.spotify.com/album/3j77K4QCAKPo65lXnbDBY6"
       },
       "artists": [
         {
@@ -381,6 +381,24 @@
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 249518,
+      "name": "Canario",
+      "url": "https://open.spotify.com/track/0hwT9RqvbkUH222D48PsxJ"
+    },
+    {
+      "album": {
+        "name": "Shika Shika / Botanas, Vol. 15",
+        "url": "https://open.spotify.com/album/6tFwiVNeI7Pdut9sWkgCXW"
+      },
+      "artists": [
+        {
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 249518,
       "name": "Canario",
       "url": "https://open.spotify.com/track/12KVTzqgU558xqkpsywKex"
@@ -1546,10 +1564,32 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 463540,
       "name": "Pire",
       "url": "https://open.spotify.com/track/7eSZ01vwRY59uAzGt5V3lP"
+    },
+    {
+      "album": {
+        "name": "Pire",
+        "url": "https://open.spotify.com/album/25UC82lB2kSaJIacwHkafb"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        },
+        {
+          "name": "Ilhan Ersahin",
+          "url": "https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463540,
+      "name": "Pire",
+      "url": "https://open.spotify.com/track/7qZ5is8K4lCoyFPeUcOK8C"
     },
     {
       "album": {
@@ -1735,6 +1775,28 @@
     },
     {
       "album": {
+        "name": "Ramas",
+        "url": "https://open.spotify.com/album/0v8v8HAtfJChO5sdRh5EAx"
+      },
+      "artists": [
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        },
+        {
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289502,
+      "name": "Resiliencia",
+      "url": "https://open.spotify.com/track/1wMRZU1sk3wiwsfb7oCCpd"
+    },
+    {
+      "album": {
         "name": "Resiliencia",
         "url": "https://open.spotify.com/album/52LUM6gnOCTiuTYTwzZPwa"
       },
@@ -1772,7 +1834,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 289502,
       "name": "Resiliencia",
       "url": "https://open.spotify.com/track/590gL4Fk4eHhLazuvVefLn"

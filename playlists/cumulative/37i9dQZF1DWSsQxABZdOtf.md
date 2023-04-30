@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-222 songs - 13 hr 6 min
+223 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,8 @@
 | [On The Eve Of The Rush \[134bpm VIP\]](https://open.spotify.com/track/4USV70gRKevsvJE0BDOI38) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [On The Eve Of The Rush \[134bpm VIP\]](https://open.spotify.com/album/07vFImZlzxhilO1sjokl5O) | 5:37 | 2023-02-13 |  |
 | [One Long Firework in the Sky](https://open.spotify.com/track/1OmPgwGZtgwdKZp5S0gy7I) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b) | [One Long Firework in the Sky](https://open.spotify.com/album/7xH5oPxIAovNTLDxHj1kVG) | 3:45 | 2022-11-18 | 2023-02-14 |
 | [One Million \- Caltonic SA Remix](https://open.spotify.com/track/61eh5M5onC6xCwCmP0UOnQ) | [Mina](https://open.spotify.com/artist/2KvWE2yC2SS2fck2WOm8Kv), [Bryte](https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi), [Caltonic SA](https://open.spotify.com/artist/17GosBGcjmcVVy4M6NBwQ9) | [Abeka Bugatti Remixed](https://open.spotify.com/album/50CJ7p03MsOqIcJoyxDvwT) | 5:01 | 2022-09-08 | 2022-11-19 |
-| [One Touch](https://open.spotify.com/track/6DURQC9m8Rt8SjL4ZKp0Eq) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/4VCCLsmrSghXSM8dxyhVWo) | 3:00 | 2023-04-18 |  |
+| [One Touch](https://open.spotify.com/track/3g4wkFSYsU7Qc7bPjaJEGV) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/21lJDSVSuhyKBqkzxn9gAE) | 3:00 | 2023-04-18 |  |
+| [One Touch](https://open.spotify.com/track/6DURQC9m8Rt8SjL4ZKp0Eq) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/4VCCLsmrSghXSM8dxyhVWo) | 3:00 | 2023-04-18 | 2023-04-30 |
 | [One Up](https://open.spotify.com/track/6R6ZS5HYH4RdXkjEwEJO5R) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [No More Leaks](https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0) | 2:40 | 2022-11-18 | 2023-03-18 |
 | [Only If U](https://open.spotify.com/track/3gAGOLayBLPJEMioVXDGiO) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ), [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Only If U](https://open.spotify.com/album/1mYb9Ta4BwGrSI4qjhCdxN) | 5:14 | 2022-11-18 | 2023-02-14 |
 | [Paloma \- DJ Tunez & D3an Remix](https://open.spotify.com/track/76LG05GGfmO6YU0K0YGR8t) | [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [D3AN](https://open.spotify.com/artist/6bv0EyopUeF8PRuxbUjCPi) | [Paloma \(DJ Tunez & D3an Remix\)](https://open.spotify.com/album/2OztLMhkQhCsKEFMlMH8Dj) | 4:49 | 2023-04-18 |  |

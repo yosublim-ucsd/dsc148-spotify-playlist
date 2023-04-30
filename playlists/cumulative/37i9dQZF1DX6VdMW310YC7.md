@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,474 songs - 4 day 5 hr 46 min
+1,475 songs - 4 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -747,6 +747,7 @@
 | [Light Of Day \(feat\. Ólafur Arnalds\)](https://open.spotify.com/track/3yPd2RxNNcPwOV06zoexrv) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [The Last Goodbye](https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i) | 6:40 | 2022-08-26 | 2022-09-10 |
 | [Light The Sky \- Charming Horses Remix Edit](https://open.spotify.com/track/3vVSHKaJydgDRa2xysZ2aF) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc), [Airto](https://open.spotify.com/artist/7yyIIRJV6dklQEvISTzRjE), [Charming Horses](https://open.spotify.com/artist/5rr0CMtvn1p9Be8ICfkTc3) | [Light The Sky \(The Remixes\)](https://open.spotify.com/album/0UcPRLzOQhcfCELuOJeato) | 3:31 | 2020-05-18 | 2020-07-03 |
 | [Light Up](https://open.spotify.com/track/1XutAsAMUAmVgLy0RXOb1k) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Light Up](https://open.spotify.com/album/0YYNYESCVvpwLOilBWs09L) | 3:48 | 2021-04-03 | 2022-10-14 |
+| [Light Up](https://open.spotify.com/track/4O9wdZGwvJKTeeJGUEa00K) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Rooms on the Ark](https://open.spotify.com/album/7xE3fSS22cJBxMCuQmtA9E) | 3:48 | 2023-04-28 |  |
 | [Light Up](https://open.spotify.com/track/7LpEotX5nSacwXSuNOmJ1k) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Rooms on the Ark](https://open.spotify.com/album/0LpX8r0fnVqDIDlNeDdfR5) | 3:48 | 2022-09-09 | 2023-03-23 |
 | [Lighthouse](https://open.spotify.com/track/53PwI2yj0cxMFEUHLhAAqn) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [RBBTS](https://open.spotify.com/artist/3dA4z26BqCdMWynoHMK5l8) | [Lighthouse](https://open.spotify.com/album/69NKk42DoIVb4S7kjQ83BL) | 4:00 | 2022-03-11 | 2022-05-07 |
 | [Lightning](https://open.spotify.com/track/4e0sZbqXMRlG34LTJ28V8t) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Lightning](https://open.spotify.com/album/64GKBx96A8r4lemjXrnR2o) | 2:51 | 2020-07-03 | 2020-10-09 |
@@ -1419,7 +1420,7 @@
 | [When We Meet Again \- Edit](https://open.spotify.com/track/6DhPzi86qVRtAAXIlnU2fb) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [When We Meet Again](https://open.spotify.com/album/7u0IDT1mwyatrbk1ZPgs4X) | 3:57 | 2021-02-06 | 2022-10-17 |
 | [When You’re Dreaming](https://open.spotify.com/track/4UQWvx7zTXxveHGK3ZRWdb) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Finnstagram](https://open.spotify.com/artist/3kc83ki33FJgDhU49UcVNI) | [When You’re Dreaming](https://open.spotify.com/album/4YkPkktGstfAWaaGvKTUuQ) | 2:53 | 2020-08-06 | 2022-04-20 |
 | [Where Angels Fear To Tread](https://open.spotify.com/track/4vgXDV9qcqnwMQkdyGLSpL) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Where Angels Fear To Tread](https://open.spotify.com/album/0t37MK4qYK7lp7yZaMBYe0) | 3:45 | 2020-03-16 | 2020-10-09 |
-| [Where I Find My Mind](https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Where I Find My Mind](https://open.spotify.com/album/0sJ4br8FWqrOwoGcxTwJOM) | 3:32 | 2023-03-10 |  |
+| [Where I Find My Mind](https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Where I Find My Mind](https://open.spotify.com/album/0sJ4br8FWqrOwoGcxTwJOM) | 3:32 | 2023-03-10 | 2023-04-30 |
 | [Where To Go](https://open.spotify.com/track/5EIPYlUGHcWXFV8DHINuBa) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Where To Go](https://open.spotify.com/album/4PpRIBNZW0EW3gG3dwAuLX) | 4:11 | 2020-03-17 | 2021-01-11 |
 | [Where You Are](https://open.spotify.com/track/3vLKj3lijuDaomIoWPq09S) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [Where You Are](https://open.spotify.com/album/4KIRj6RKkN6SqfCe0rOZEX) | 3:25 | 2021-07-30 | 2022-12-29 |
 | [WhereYouGonnaGo?](https://open.spotify.com/track/43ttSUWX6oHVLGboWVq1Kl) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [WhereYouGonnaGo?](https://open.spotify.com/album/6PbHFMJ0iwcRAYclGi02wE) | 5:08 | 2020-05-18 | 2020-07-03 |

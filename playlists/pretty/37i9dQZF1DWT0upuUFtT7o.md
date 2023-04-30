@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: MINOVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,089 likes - 110 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,165 likes - 110 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 65 | [I Lied Again](https://open.spotify.com/track/3ZqRBncgNX4Ty8S9dk2RMk) | [buffchick](https://open.spotify.com/artist/0bySwTrRN75nqs2vLS00zn) | [I Lied Again](https://open.spotify.com/album/2o5qh4bTUArB2T7BQA1XoF) | 2:50 |
 | 66 | [Gemini](https://open.spotify.com/track/4rf6X8gqdfnnJdvyvCSB3X) | [Soff Toss](https://open.spotify.com/artist/21aw7keeqUh4c3kZ7VITbP), [Spencer Hoffman](https://open.spotify.com/artist/2zp3z5QjsMH9lxv3XaIFzY) | [Gemini](https://open.spotify.com/album/5GjLjJ4UKWJ5cU3Nkd2UhZ) | 4:25 |
 | 67 | [ANYTHING YOU WANT](https://open.spotify.com/track/7jMgNeynOc23XAEZmYlVtf) | [Keaton](https://open.spotify.com/artist/16O3SlfuN34EW786Ouiu4M) | [ANYTHING YOU WANT / SLIDING DOORS](https://open.spotify.com/album/33sZ6OAoSnEf4rL9LNh2PU) | 3:10 |
-| 68 | [True Love is Freedom](https://open.spotify.com/track/1uE7iaPkG6UOWGetsxD5zX) | [Jimmy Whispers](https://open.spotify.com/artist/0fhv5pwSh099mHYF9b3Cpn) | [True Love is Freedom](https://open.spotify.com/album/7qDv226QcAOMybIpzNequM) | 1:47 |
+| 68 | [True Love is Freedom](https://open.spotify.com/track/03gQD1vSbHbBmfSvpaA9C4) | [Jimmy Whispers](https://open.spotify.com/artist/0fhv5pwSh099mHYF9b3Cpn) | [True Love is Freedom](https://open.spotify.com/album/0lqjcEcxb2swqcQfRx0OAU) | 1:47 |
 | 69 | [Love Language](https://open.spotify.com/track/6zHJ0wJT8MWEpVJADAwxN9) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Love Language](https://open.spotify.com/album/7pGwBisCaQygmhmC1UADsC) | 3:28 |
 | 70 | [Don't Know Why I Love](https://open.spotify.com/track/4FupR6ny313swFdNuQnAJi) | [Gregory Ackerman](https://open.spotify.com/artist/3ZKxRpn8zCtfawDZtAMlYX) | [Don't Know Why I Love](https://open.spotify.com/album/37yNbAqINO17kJjXlkGLIp) | 2:36 |
 | 71 | [33](https://open.spotify.com/track/3FrmL447hSBsw5SFNxU5bH) | [Gabby's World](https://open.spotify.com/artist/37px0xIkqWfzGRK5QbTIRu) | [33](https://open.spotify.com/album/1MpAXYeVl9cBsm75QWIMkI) | 4:30 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 85 | [A380](https://open.spotify.com/track/3To0tYY3XbAHcLFZPPmGSJ) | [COPAK](https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [A380](https://open.spotify.com/album/0fmZgp45c7GHciuETUBiEN) | 3:38 |
 | 86 | [leaving](https://open.spotify.com/track/7HQLnBFTi8AgG5HmakAUbp) | [Au Gres](https://open.spotify.com/artist/6hz3z9hlJ0gB5CkmxnnwHr) | [leaving](https://open.spotify.com/album/7GRf3aXdLqrk2bXrpn01Ug) | 3:17 |
 | 87 | [It's Easy](https://open.spotify.com/track/3r8XvL9nZDUHktvGI5CNLA) | [Velvet Vaughan](https://open.spotify.com/artist/3WK603aQ2P6H3QDX88hYYt) | [It's Easy](https://open.spotify.com/album/6vwePIT2SGkhWzurQnlz4H) | 3:10 |
-| 88 | [Done With the Day](https://open.spotify.com/track/46YuNuyJLXXSxA7kWDe5ns) | [7ebra](https://open.spotify.com/artist/425zLTPcp673F9ybc3Zcja) | [Done With the Day](https://open.spotify.com/album/0L1TKfZ2ARx1Izb7aeKa7Q) | 3:30 |
+| 88 | [Done With the Day](https://open.spotify.com/track/39pdupp7fN6IP4wyjjesBy) | [7ebra](https://open.spotify.com/artist/425zLTPcp673F9ybc3Zcja) | [Done With the Day](https://open.spotify.com/album/4DPT9VjE6Rrli1IeVDEEG6) | 3:30 |
 | 89 | [Itinerary](https://open.spotify.com/track/5OJvD7iPHQo0SuSB6zjoO7) | [V.V\. Lightbody](https://open.spotify.com/artist/0g7sn95ZJ9iMKdmIAec3E5) | [Itinerary](https://open.spotify.com/album/2Qiu1gpocWUsFGIx0fJsTF) | 3:30 |
 | 90 | [Rocks](https://open.spotify.com/track/33q5GW1JOMiCtW6FCVZo0g) | [Buck Raines](https://open.spotify.com/artist/0uhS2Dm4iv3qukaycmPbNF) | [Rocks](https://open.spotify.com/album/5tnRNJMyuCZxxfTIIL1Fxz) | 3:03 |
 | 91 | [Are You Okay?](https://open.spotify.com/track/4BaFnIJJGI96NaxPyZ9HLy) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Are You Okay?](https://open.spotify.com/album/0PlBi2u5RAmywsDJxc2wEJ) | 2:44 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 109 | [ONLY ONE](https://open.spotify.com/track/6FCMfT9bWZ8bcrEK7wbjgY) | [Ruby](https://open.spotify.com/artist/1eMeb0IrAFbWw4BeQ8VXDI) | [BEDTIME](https://open.spotify.com/album/5ZWsqSYied2r8qQk1rYdDO) | 2:09 |
 | 110 | [Apollo](https://open.spotify.com/track/21NC2lCEgUMvL3QbYYwSHX) | [Sivu](https://open.spotify.com/artist/6RFYCKz8MgykjjsvnpLPTf) | [Apollo](https://open.spotify.com/album/6Cj8vu4963c8uotOiwonxb) | 3:21 |
 
-Snapshot ID: `MCwxMDU5ZTc2NDViM2M1MDI2MjA2NTNlZTliN2I5YTYyYzc1NWQ0MWRl`
+Snapshot ID: `MCwyYTQyYTEyYTgyZDc1NzU2YWUzNmNkZjUxMTdiYWI4YjQwYWZlNjdl`

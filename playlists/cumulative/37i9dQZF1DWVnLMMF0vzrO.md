@@ -4,7 +4,7 @@
 
 > All the music from Narcos: Mexico, now on Netflix.
 
-167 songs - 10 hr 9 min
+168 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,8 @@
 | [Rock And Roll Never Forgets \- Live/Remastered](https://open.spotify.com/track/7wfMo45fLnq1fnmghB5388) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Nine Tonight \(Live/Remastered\)](https://open.spotify.com/album/3IopzrrHrPPzEEp28YtP35) | 3:35 | 2021-11-17 |  |
 | [Rossini: Guillaume Tell: Overture](https://open.spotify.com/track/4WC14o4s0LXgPmCs6pSwWR) | [Gioachino Rossini](https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4), [Antonio Pappano](https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw), [Gabriele Gemignani](https://open.spotify.com/artist/7luwTEEU6T9EEr7FfVfu8M), [Orchestra dell'Accademia Nazionale di Santa Cecilia](https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f) | [Rossini: Overtures](https://open.spotify.com/album/3YfcOfc4OI6pdhG5QDFiUN) | 11:34 | 2021-11-17 |  |
 | [Run the Night](https://open.spotify.com/track/6nljZjYvwTbAZTx8FcCKyQ) | [Wicked Lady](https://open.spotify.com/artist/2zZvtsFxtWfTUhTnCC9X2H) | [The Axeman Cometh](https://open.spotify.com/album/4IuvFHlZQM7urIcMuGwJxF) | 5:13 | 2021-11-17 |  |
-| [Santa Marta Cumbia](https://open.spotify.com/track/2ggYvsfrHppxgQNu59zKOq) | [Cantina Y Su Combo](https://open.spotify.com/artist/4TPybqX1I0ZB2a91g4tY8S) | [Cartagena! Curro Fuentes & The Big Band Cumbia and Descarga Sound of Colombia 1962\-72](https://open.spotify.com/album/2f2jyRaOT92BCf49yjyRbz) | 3:30 | 2021-11-17 |  |
+| [Santa Marta Cumbia](https://open.spotify.com/track/2O3NdhVjt0cuWR4teNYOsZ) | [Cantina Y Su Combo](https://open.spotify.com/artist/4TPybqX1I0ZB2a91g4tY8S) | [Cartagena! Curro Fuentes & The Big Band Cumbia and Descarga Sound of Colombia 1962\-72](https://open.spotify.com/album/0UbcmD65kthpuyIIYajOYY) | 3:30 | 2021-11-17 |  |
+| [Santa Marta Cumbia](https://open.spotify.com/track/2ggYvsfrHppxgQNu59zKOq) | [Cantina Y Su Combo](https://open.spotify.com/artist/4TPybqX1I0ZB2a91g4tY8S) | [Cartagena! Curro Fuentes & The Big Band Cumbia and Descarga Sound of Colombia 1962\-72](https://open.spotify.com/album/2f2jyRaOT92BCf49yjyRbz) | 3:30 | 2021-11-17 | 2023-04-30 |
 | [Sarabande \- From "Barry Lyndon"](https://open.spotify.com/track/1EjwahAfvGotwH5HBLEplT) | [The City of Prague Philharmonic Orchestra](https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu), [Paul Bateman](https://open.spotify.com/artist/5V7l2e1oLF7oSzpvdaDenk) | [Reel Chill](https://open.spotify.com/album/0mEAwgHQfcw9hQ1dyXNqzw) | 4:02 | 2021-11-17 |  |
 | [Se Perdío El Pescador](https://open.spotify.com/track/4QVhiTlYs19G1as6cGK7oQ) | [Benjamin Caussor](https://open.spotify.com/artist/7mvNekfyPc4Hjlx4oPtnfm) | [El Son De Los Aguacates](https://open.spotify.com/album/6XWS17onoK5kWvFu5G9vfB) | 2:31 | 2021-11-17 |  |
 | [Semi\-Charmed Life](https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:28 | 2021-11-17 |  |

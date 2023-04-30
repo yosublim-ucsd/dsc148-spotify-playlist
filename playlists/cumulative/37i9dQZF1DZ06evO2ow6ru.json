@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/1VUk2mDbkXcdEo2zk8ZbH2"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187317,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/2vXLuBxoWMgiOdzkxAVnMJ"
+    },
+    {
+      "album": {
         "name": "Don't Panic",
         "url": "https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0"
       },
@@ -450,7 +472,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 205306,
       "name": "Life of the Party",
       "url": "https://open.spotify.com/track/4pcyWJiAvOwdVxn7xjhR0N"

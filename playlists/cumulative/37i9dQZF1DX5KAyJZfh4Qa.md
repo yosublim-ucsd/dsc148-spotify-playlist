@@ -4,7 +4,7 @@
 
 > it's just one of those days with Balance and Composure.
 
-105 songs - 5 hr 45 min
+109 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,8 +43,10 @@
 | [Face To Face](https://open.spotify.com/track/1zhAN1I4op6mUw0FvUSCUJ) | [Troubled Minds](https://open.spotify.com/artist/2sdTNct8FjErtvxUMyD92E) | [Disconnect](https://open.spotify.com/album/3SNqO4GPBDnHckxX87zj0N) | 3:01 | 2022-11-25 |  |
 | [Ferrari](https://open.spotify.com/track/1MpPv7wnIzfqJMdnSAnV6a) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Ferrari](https://open.spotify.com/album/5NAncxqbc4XMu0AOpIHYcM) | 2:25 | 2023-04-14 |  |
 | [Glass](https://open.spotify.com/track/5M7liVdPj4B9X0ZJncErme) | [Forest Green](https://open.spotify.com/artist/63lRjOZ8TCzjHaxZr1ZToc) | [Glass](https://open.spotify.com/album/6JlxrE8fN5jwEYmMYEflsc) | 4:43 | 2023-02-11 |  |
-| [Greetings](https://open.spotify.com/track/16UutHGhIXTmBDEhBAVda4) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Greetings / Barely](https://open.spotify.com/album/6CP9XN6RxItTpvryygnpkd) | 2:14 | 2022-11-25 |  |
-| [Hangover Game](https://open.spotify.com/track/0KgqfFDS6vvzZ50IozlD1Y) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Boat Songs](https://open.spotify.com/album/1G5OaCbp7Tb0YJlSInBeYu) | 2:16 | 2022-11-25 |  |
+| [Greetings](https://open.spotify.com/track/16UutHGhIXTmBDEhBAVda4) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Greetings / Barely](https://open.spotify.com/album/6CP9XN6RxItTpvryygnpkd) | 2:14 | 2022-11-25 | 2023-04-30 |
+| [Greetings](https://open.spotify.com/track/7u5yayMCOSG6n4XsBoAsMc) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Greetings / Barely](https://open.spotify.com/album/2vbyKCjxxPaiGMDWGXe3IF) | 2:14 | 2023-04-14 |  |
+| [Hangover Game](https://open.spotify.com/track/0KgqfFDS6vvzZ50IozlD1Y) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Boat Songs](https://open.spotify.com/album/1G5OaCbp7Tb0YJlSInBeYu) | 2:16 | 2022-11-25 | 2023-04-30 |
+| [Hangover Game](https://open.spotify.com/track/5I2qACyvSTaasSNaWiT90G) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Boat Songs](https://open.spotify.com/album/22gbAfr4V10JH93bV7dKW0) | 2:16 | 2023-04-14 |  |
 | [Headrush](https://open.spotify.com/track/1Zh96LVaAF6rHKCMVtWm1z) | [Unturned](https://open.spotify.com/artist/2bT1gJ4qahYAMFmaoFV7Nj) | [Sunk](https://open.spotify.com/album/7uNDF4pj1USgZTDTazd0j9) | 2:42 | 2022-11-25 |  |
 | [Heck](https://open.spotify.com/track/7q7vCKmFmGLhhPmFo3DNpw) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [boneyard aka fearmonger](https://open.spotify.com/album/0d5AkUvivi6Y6Vyv8OYjZO) | 1:58 | 2022-11-25 | 2023-03-11 |
 | [Hollow](https://open.spotify.com/track/2UUw0f57ZMg6cYYkVrPvzr) | [Stay Inside](https://open.spotify.com/artist/59QLiM8EVDaCyuHV6ifMpv) | [Hollow](https://open.spotify.com/album/2UlJQbQVnrqFNGtcO6ZLbw) | 4:10 | 2022-11-25 |  |
@@ -90,7 +92,8 @@
 | [Sick As Your Secrets](https://open.spotify.com/track/1v7zwwBb8iKquvkApcnCHn) | [Mikey Erg](https://open.spotify.com/artist/5YuPLav1vGZmaeeASQrsQK) | [Love At Leeds](https://open.spotify.com/album/3xEWVX0nsMdrElVih8p62M) | 2:39 | 2022-11-25 | 2023-03-18 |
 | [Sometimes Things Change](https://open.spotify.com/track/2FEVvpf3HkEhIZMO3Gi6T0) | [Swimming](https://open.spotify.com/artist/102w2ubGZNdbZSCBkcGbJa) | [That's OK](https://open.spotify.com/album/6EkPXtJFGBg1jAw2ovxxOl) | 4:05 | 2022-11-25 |  |
 | [Speaking in Tongues](https://open.spotify.com/track/16sWPx7xLq8iyVTHATLULA) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Keepsakes & Reminders \(Deluxe\)](https://open.spotify.com/album/56EAwWQtYqwtVfHznqfdvj) | 3:08 | 2022-11-25 |  |
-| [Spinning Wheel](https://open.spotify.com/track/7lH6ykUui2IHTzPmvKoJdl) | [Rat Tally](https://open.spotify.com/artist/7kLaLiBdbGiIC6jYwcpZbb) | [In My Car](https://open.spotify.com/album/0CT2GXBcqAfzAtMsg7WGrN) | 3:35 | 2022-11-25 |  |
+| [Spinning Wheel](https://open.spotify.com/track/5lSIRNDJWXiAV1cUijH2ak) | [Rat Tally](https://open.spotify.com/artist/7kLaLiBdbGiIC6jYwcpZbb) | [In My Car](https://open.spotify.com/album/7w7nkpoJyo9V8dGOYXxY4o) | 3:35 | 2023-04-14 |  |
+| [Spinning Wheel](https://open.spotify.com/track/7lH6ykUui2IHTzPmvKoJdl) | [Rat Tally](https://open.spotify.com/artist/7kLaLiBdbGiIC6jYwcpZbb) | [In My Car](https://open.spotify.com/album/0CT2GXBcqAfzAtMsg7WGrN) | 3:35 | 2022-11-25 | 2023-04-30 |
 | [Stone](https://open.spotify.com/track/3FF9ObKa1UqIxoV2ttGOpP) | [Clementine](https://open.spotify.com/artist/7w5fod5FOdSfULpZfwvM1c) | [Stone](https://open.spotify.com/album/51kRAWAaOibNlUS0I58dcK) | 3:34 | 2022-11-25 |  |
 | [Stupid](https://open.spotify.com/track/7hJp3RopLaJZBj6SEqxkHx) | [I Love Your Lifestyle](https://open.spotify.com/artist/2gHsHeJxm4bTuS94fKQgB5) | [No Driver](https://open.spotify.com/album/7nWOIJtPFYFxVVPpSXzRQk) | 5:04 | 2022-11-25 |  |
 | [Summer Clothes](https://open.spotify.com/track/3OzG6P1FoHRzbt9b6Q8nvK) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [The Hum Goes on Forever](https://open.spotify.com/album/0g2D3Epl3VzLbvtVeQhJQv) | 4:00 | 2022-11-25 | 2023-04-04 |
@@ -111,7 +114,8 @@
 | [White Trash Millionaire](https://open.spotify.com/track/4Vt4vfcqBtOT9MT9GtWiXP) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Sweet Tooth](https://open.spotify.com/album/2vMWoMKeyq9m1xIghMKkaL) | 2:38 | 2022-11-25 | 2023-02-12 |
 | [You Will Never Be the Best at Anything You Try \(Surely Not\)](https://open.spotify.com/track/3kuRDe1vBmCXldgLl4ZJY9) | [Short Fictions](https://open.spotify.com/artist/07VKGw5BhunkwMnvz71Z1h) | [Every Moment of Every Day](https://open.spotify.com/album/2KKOxOD55emoqgbG2l5FSW) | 4:09 | 2022-11-25 |  |
 | [You're On](https://open.spotify.com/track/48W2JId9H0kuWpCIsmvThJ) | [Kicksie](https://open.spotify.com/artist/3PzRKp3NSZzGSbf75iTuAL) | [You're On](https://open.spotify.com/album/3bY4mpoCmJbZ8y9qW4Tywg) | 3:53 | 2023-02-11 |  |
-| [Your Deep Rest](https://open.spotify.com/track/5wwbe5wtc4pd9RDlFNXeFg) | [The Hotelier](https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa) | [Home, Like Noplace Is There](https://open.spotify.com/album/37ohOvaKOQIEkFjTWfg9Q4) | 3:47 | 2022-11-25 |  |
+| [Your Deep Rest](https://open.spotify.com/track/21ACVHZc3K9lK0zleucFaJ) | [The Hotelier](https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa) | [Home, Like Noplace Is There](https://open.spotify.com/album/172GEyILIzsGA8PJqrsHmL) | 3:47 | 2023-04-14 |  |
+| [Your Deep Rest](https://open.spotify.com/track/5wwbe5wtc4pd9RDlFNXeFg) | [The Hotelier](https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa) | [Home, Like Noplace Is There](https://open.spotify.com/album/37ohOvaKOQIEkFjTWfg9Q4) | 3:47 | 2022-11-25 | 2023-04-30 |
 | [Your Graduation](https://open.spotify.com/track/7kVoPBSlGghzLoQjODkxGD) | [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8) | [You're Gonna Miss It All](https://open.spotify.com/album/4QElAwQufg6wCeyvpafqwA) | 2:43 | 2022-11-25 |  |
 
 \*This playlist was first scraped on 2022-11-28. Prior content cannot be recovered.

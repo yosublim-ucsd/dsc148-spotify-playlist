@@ -4,7 +4,7 @@
 
 > Plug your brain into a modular synthesizer analog loop.
 
-175 songs - 10 hr 38 min
+178 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Bingo Shuffle](https://open.spotify.com/track/0NpzDuvo4EE5PKSsJZApLN) | [Elko B.](https://open.spotify.com/artist/1H7ANeaFPlLt6jwdq0B1mu) | [Realm of Rides & Romance](https://open.spotify.com/album/6Uz75hopKdrXlRyBmIh3DR) | 3:23 | 2021-08-17 |  |
 | [Bingo Shuffle](https://open.spotify.com/track/5H41pwUjCX7Ughfya6Bgi5) | [Elko B.](https://open.spotify.com/artist/1H7ANeaFPlLt6jwdq0B1mu) | [Realm of Rides & Romance](https://open.spotify.com/album/6ke6lmIsyf9AVQH2UXJXg2) | 3:23 | 2021-08-17 | 2022-07-29 |
 | [Blow Job](https://open.spotify.com/track/3qMb2EOglQRcSBu4WERRZE) | [Bruce Haack](https://open.spotify.com/artist/62vRPmO2KknlG5VCefR1D3) | [Haackula](https://open.spotify.com/album/5z3JPsBjGXaIUzerAjQSEW) | 4:59 | 2021-08-17 | 2022-07-29 |
-| [Blow Job](https://open.spotify.com/track/32x2tVTMZNrATnDLxYzgFb) | [Bruce Haack](https://open.spotify.com/artist/62vRPmO2KknlG5VCefR1D3) | [Haackula](https://open.spotify.com/album/7wlOQR8UMvtvwFjr2WwLjT) | 4:59 | 2021-08-17 |  |
+| [Blow Job](https://open.spotify.com/track/32x2tVTMZNrATnDLxYzgFb) | [Bruce Haack](https://open.spotify.com/artist/62vRPmO2KknlG5VCefR1D3) | [Haackula](https://open.spotify.com/album/7wlOQR8UMvtvwFjr2WwLjT) | 4:59 | 2021-08-17 | 2023-04-30 |
+| [Blow Job](https://open.spotify.com/track/3qPkb8uCkuq3oIdJcdFjm5) | [Bruce Haack](https://open.spotify.com/artist/62vRPmO2KknlG5VCefR1D3) | [Haackula](https://open.spotify.com/album/6mQPN09tMNYzb6KImpeaFA) | 4:59 | 2021-08-17 |  |
 | [Bob's Funk](https://open.spotify.com/track/187OL8IkLAceM1zalrCZ5Q) | [The Moog Cookbook](https://open.spotify.com/artist/6gSjljVm0yuKul0N4fgBbG) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 5:11 | 2021-08-17 |  |
 | [Born to Be Wild](https://open.spotify.com/track/4v33u82NZavg0ji35Cu4Vq) | [The Moog Cookbook](https://open.spotify.com/artist/6gSjljVm0yuKul0N4fgBbG) | [Ye Olde Space Bande Plays The Classic Rock Hits](https://open.spotify.com/album/6W2UlntAS3IpIZmDH0qFWk) | 4:15 | 2021-08-17 |  |
 | [Caravanas](https://open.spotify.com/track/2EGhZHcUJu59pQ8MhcuKAP) | [Angel Rada](https://open.spotify.com/artist/5kf6V58qzjez0DRgmW5Wd7) | [Continuvm](https://open.spotify.com/album/62WiMKx0FxZFTKSzEEbmzK) | 5:05 | 2021-08-17 | 2022-07-29 |
@@ -50,7 +51,8 @@
 | [Dripcots Space Boat](https://open.spotify.com/track/71FY2kOeUHPbGonEvQD3QZ) | [Joe Meek & the Blue Men](https://open.spotify.com/artist/0RtKMoqVNlddAnmrHSztA6), [Rod Freeman](https://open.spotify.com/artist/7gshb9npFaU24V5Ya7DGiV) | [Sounds in Space\. a Very Unusual Collection of Space Influenced Music.](https://open.spotify.com/album/4A64TR1UmFtiLv2FXJr6lm) | 2:13 | 2021-08-17 |  |
 | [E.V.A.](https://open.spotify.com/track/4nQNNwnIUUmFzVOcVVJCk1) | [Jean\-Jacques Perrey](https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Moog Indigo](https://open.spotify.com/album/6ByFx8BCQBpLVk3GiMkPx9) | 3:11 | 2021-08-17 |  |
 | [Electric to Me Turn](https://open.spotify.com/track/1aJv5DBqK0Bh1cgsvG6Oxw) | [Bruce Haack](https://open.spotify.com/artist/62vRPmO2KknlG5VCefR1D3) | [The Electric Lucifer](https://open.spotify.com/album/1uRvTjf8Cy9srhYYR9EGsR) | 1:50 | 2021-08-17 | 2022-07-29 |
-| [Electric to Me Turn](https://open.spotify.com/track/3JNvAM53EPCHjgYtJaCb0i) | [Bruce Haack](https://open.spotify.com/artist/62vRPmO2KknlG5VCefR1D3) | [The Electric Lucifer](https://open.spotify.com/album/483I2aBYeGyTiUMKhrunkI) | 1:50 | 2021-08-17 |  |
+| [Electric to Me Turn](https://open.spotify.com/track/3JNvAM53EPCHjgYtJaCb0i) | [Bruce Haack](https://open.spotify.com/artist/62vRPmO2KknlG5VCefR1D3) | [The Electric Lucifer](https://open.spotify.com/album/483I2aBYeGyTiUMKhrunkI) | 1:50 | 2021-08-17 | 2023-04-30 |
+| [Electric to Me Turn](https://open.spotify.com/track/4Mura1acGeShMhU1qhfFT8) | [Bruce Haack](https://open.spotify.com/artist/62vRPmO2KknlG5VCefR1D3) | [The Electric Lucifer](https://open.spotify.com/album/70WCteNU9tw7VekM9kj0SY) | 1:50 | 2021-08-17 |  |
 | [Electronic Can\-Can](https://open.spotify.com/track/2qw9ni5lD02a4VulGhAXrI) | [Perrey and Kingsley](https://open.spotify.com/artist/3daZ54uJ2NvlclfdEkfa4R) | [The In Sound From Way Out](https://open.spotify.com/album/6PSsRBZTDdD4BJkAFhobdK) | 2:04 | 2021-08-17 |  |
 | [Equinoxe, Pt\. 5](https://open.spotify.com/track/3ZchdqDVsdeOq6PbHGt3MV) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Equinoxe](https://open.spotify.com/album/41Dl68Kik63nV6zvn07NgY) | 3:52 | 2021-08-17 |  |
 | [Foggy Mountain Breakdown](https://open.spotify.com/track/6ae0YFStZkViq59eM9Ii9J) | [Gil Trythall](https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3) | [Country Moog / Nashville Gold](https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6) | 2:08 | 2021-08-17 |  |
@@ -69,7 +71,8 @@
 | [I Am A Spaceman](https://open.spotify.com/track/1Gcn7jvVUIUHN0kGaITg0P) | [Charlie Clouser](https://open.spotify.com/artist/1ZVa9Tz7T3lR30I6r7mhhf) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 4:36 | 2021-08-17 |  |
 | [I Had Too Much to Dream Last Night](https://open.spotify.com/track/0z8i5oCBPR9MLFrvxO2JpI) | [The Space Lady](https://open.spotify.com/artist/6KUKRy1D49ZxwfSFPcV7WF) | [The Space Lady's Greatest Hits](https://open.spotify.com/album/5jHqrml3maWBldVlyzFjKh) | 4:35 | 2022-11-19 |  |
 | [In A Latin Moog](https://open.spotify.com/track/13pkVqWQvHhKs6vR0aCJPn) | [The Happy Moog](https://open.spotify.com/artist/5gExTiO26dn8bOZ7IwjM87) | [The Happy Moog](https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7) | 2:28 | 2021-08-17 |  |
-| [Incantation](https://open.spotify.com/track/2fMqo7Mcq0jdGV6KIFeR9P) | [Bruce Haack](https://open.spotify.com/artist/62vRPmO2KknlG5VCefR1D3) | [The Electric Lucifer](https://open.spotify.com/album/483I2aBYeGyTiUMKhrunkI) | 3:17 | 2021-08-17 |  |
+| [Incantation](https://open.spotify.com/track/2fMqo7Mcq0jdGV6KIFeR9P) | [Bruce Haack](https://open.spotify.com/artist/62vRPmO2KknlG5VCefR1D3) | [The Electric Lucifer](https://open.spotify.com/album/483I2aBYeGyTiUMKhrunkI) | 3:17 | 2021-08-17 | 2023-04-30 |
+| [Incantation](https://open.spotify.com/track/4VkH1PSwDH5r87Gl5vqAOW) | [Bruce Haack](https://open.spotify.com/artist/62vRPmO2KknlG5VCefR1D3) | [The Electric Lucifer](https://open.spotify.com/album/70WCteNU9tw7VekM9kj0SY) | 3:17 | 2021-08-17 |  |
 | [Incantation](https://open.spotify.com/track/6Lm75tQUmvL4PEftcxRaSr) | [Bruce Haack](https://open.spotify.com/artist/62vRPmO2KknlG5VCefR1D3) | [The Electric Lucifer](https://open.spotify.com/album/1uRvTjf8Cy9srhYYR9EGsR) | 3:17 | 2021-08-17 | 2022-07-29 |
 | [International Colouring Contest](https://open.spotify.com/track/0R1J6J85Dn19me4bGcsJFf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Mars Audiac Quintet](https://open.spotify.com/album/6cgYdiQvB0FTVwe3io7LWN) | 3:47 | 2021-08-17 | 2023-02-11 |
 | [International Colouring Contest](https://open.spotify.com/track/6wEGE7zeRSTELZ736Xs4I3) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Mars Audiac Quintet](https://open.spotify.com/album/3p7TBwwN0OGa9UxpcbdeY4) | 3:47 | 2021-08-17 |  |

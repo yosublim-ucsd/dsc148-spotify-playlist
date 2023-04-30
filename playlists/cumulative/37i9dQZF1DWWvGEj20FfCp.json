@@ -184,10 +184,28 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 191496,
       "name": "Against The Wall",
       "url": "https://open.spotify.com/track/43iID9Q7eQbmi57FydN20z"
+    },
+    {
+      "album": {
+        "name": "Pull My Hair Back",
+        "url": "https://open.spotify.com/album/6dXQYYnxSeWtp3BHDDzc0U"
+      },
+      "artists": [
+        {
+          "name": "Jessy Lanza",
+          "url": "https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191496,
+      "name": "Against The Wall",
+      "url": "https://open.spotify.com/track/6Ozl29DQEAVH2gPCNNsCYg"
     },
     {
       "album": {
@@ -2028,7 +2046,7 @@
     {
       "album": {
         "name": "Don't Leave Me Now",
-        "url": "https://open.spotify.com/album/7GoEqIPUNcAnLBr066hjhN"
+        "url": "https://open.spotify.com/album/5YRZesyFDjPo9RUGwp2VFD"
       },
       "artists": [
         {
@@ -2039,6 +2057,24 @@
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 177520,
+      "name": "Don't Leave Me Now",
+      "url": "https://open.spotify.com/track/1WGvNVxbI8cFRYQQt1aOJi"
+    },
+    {
+      "album": {
+        "name": "Don't Leave Me Now",
+        "url": "https://open.spotify.com/album/7GoEqIPUNcAnLBr066hjhN"
+      },
+      "artists": [
+        {
+          "name": "Jessy Lanza",
+          "url": "https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 177520,
       "name": "Don't Leave Me Now",
       "url": "https://open.spotify.com/track/2jKjw8HsaYfrma8mRWqNOW"
@@ -8836,7 +8872,7 @@
     {
       "album": {
         "name": "Michael",
-        "url": "https://open.spotify.com/album/03GECsAztMf1SnrBxMm125"
+        "url": "https://open.spotify.com/album/5939HP7YP8YQB1Duq9acIV"
       },
       "artists": [
         {
@@ -8851,6 +8887,28 @@
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 243786,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/4LnSiqxJyAVoMIBHAXDz52"
+    },
+    {
+      "album": {
+        "name": "Michael",
+        "url": "https://open.spotify.com/album/03GECsAztMf1SnrBxMm125"
+      },
+      "artists": [
+        {
+          "name": "Les Sins",
+          "url": "https://open.spotify.com/artist/4gSTRpmeyYppvIXuFKjfAL"
+        },
+        {
+          "name": "Nate Salman",
+          "url": "https://open.spotify.com/artist/6p5gfZ5sZieNW2a5Dwu4Ju"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 243786,
       "name": "Why",
       "url": "https://open.spotify.com/track/4Vv4DkDUCgb2hmoltU585M"

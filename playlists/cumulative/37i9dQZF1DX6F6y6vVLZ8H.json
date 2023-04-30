@@ -615,6 +615,24 @@
     },
     {
       "album": {
+        "name": "Singles Too",
+        "url": "https://open.spotify.com/album/6SXIVpaEeSkxlZJKRu3l9o"
+      },
+      "artists": [
+        {
+          "name": "Screaming Females",
+          "url": "https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t"
+        }
+      ],
+      "date_added": "2020-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158651,
+      "name": "Let Me In",
+      "url": "https://open.spotify.com/track/2jjWhewOLTIPaPeJpWizo1"
+    },
+    {
+      "album": {
         "name": "Let Me In",
         "url": "https://open.spotify.com/album/2whX6MD0PMqPW5De20AaU6"
       },
@@ -626,7 +644,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 158651,
       "name": "Let Me In",
       "url": "https://open.spotify.com/track/5U2djvPDRMcW4JjKuETuWa"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 
 > All the greatest Ambient tracks in one place\. Cover: Brian Eno
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,228 likes - 127 songs - 14 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,309 likes - 127 songs - 14 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 | 20 | [Only in the Dark](https://open.spotify.com/track/3dX87nGdE9AdBbFPBN6JyD) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Gravity](https://open.spotify.com/album/252R4Lnh0YARC14bvRHE2s) | 3:29 |
 | 21 | [Movements / The Ascent](https://open.spotify.com/track/473LOUVfW0SnEmg7aXktga) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Low Distance](https://open.spotify.com/album/7eA7lexsBpvgs17la5jRc0) | 6:19 |
 | 22 | [Suiren](https://open.spotify.com/track/3Q6okpLoq2ZhOzZfBHpmei) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi), [Stuart Dempster](https://open.spotify.com/artist/174yhQdHRtoWDlvtZ15NuK), [Panaiotis](https://open.spotify.com/artist/3nNs3fKoNiAHgx4B6p5fYA) | [Deep Listening](https://open.spotify.com/album/1h4VM1Nsgav7liCdWBoGlC) | 10:01 |
-| 23 | [Be Still](https://open.spotify.com/track/5qFU0eRQlMkT5AfdiOdno8) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [Embrace](https://open.spotify.com/album/71o5rJ09vTQMQghsbbQ0mC) | 5:28 |
+| 23 | [Be Still](https://open.spotify.com/track/2nXbC8iv1dCTHAZHyinGGw) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [Embrace](https://open.spotify.com/album/1wSOB3O3o2XfyRQ4XjB1Q4) | 5:28 |
 | 24 | [Do While ⌘X](https://open.spotify.com/track/16fZFSlV2VIDcY77mVtUMI) | [Oval](https://open.spotify.com/artist/1Yti3CsDazWVjNMXBHx1Af) | [94diskont.](https://open.spotify.com/album/33xUwaoTPJ9aNbCJZEpRol) | 4:50 |
 | 25 | [Look At My Snowman](https://open.spotify.com/track/4vHHYqYkDDuf8SZnraMjXV) | [Weatherson](https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky) | [Crossloads](https://open.spotify.com/album/2GRogOCyYN7C1UbXrZ1lO9) | 4:24 |
 | 26 | [Stratus](https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [EARS](https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ) | 3:04 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 | 35 | [Nothing It Can](https://open.spotify.com/track/4YEKwC3ipNg9LdR02OL8h2) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Moiety](https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO) | 4:47 |
 | 36 | [Suite Pour L'invisible](https://open.spotify.com/track/5JTRbD6x9nnYh3mrrK3kcR) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 7:01 |
 | 37 | [Searchlight](https://open.spotify.com/track/49kvnb6nQUzwbIzearLbSr) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Contact Note](https://open.spotify.com/album/582EKMkWdR5wmroAm9NqfE) | 2:16 |
-| 38 | [92982.3](https://open.spotify.com/track/0BWfj3oeIWOQOTzpikVEG1) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [92982](https://open.spotify.com/album/1fsBK1GajNTKmwFqb77u9z) | 7:07 |
+| 38 | [92982.3](https://open.spotify.com/track/14jjKMNUMd8lKIdaqwn4XG) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [92982](https://open.spotify.com/album/6a22PsvseOZcFqySU0jQvk) | 7:03 |
 | 39 | [Bhakti](https://open.spotify.com/track/0CNpKC19EvV9cYeSCJD8YW) | [Ishq](https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F) | [Orchid](https://open.spotify.com/album/5yKUy5T6GHkZ28mguYjs1s) | 10:18 |
 | 40 | [Yanagiwara](https://open.spotify.com/track/6DMhXt5HUOOEW98tAWV0Qm) | [Hirotaka Shirotsubaki](https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N) | [Hyogo](https://open.spotify.com/album/3QKWWbpKINycE4QcCpgoDr) | 7:27 |
 | 41 | [Nove Alberi](https://open.spotify.com/track/4J71YFDSr1yyrKKSyKSunw) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 6:00 |
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 | 87 | [Overture \(For Other Halfs\)](https://open.spotify.com/track/1F7vUCER63VfNzvZKTi2pn) | [Brian McBride](https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs) | [When the Detail Lost Its Freedom](https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs) | 6:38 |
 | 88 | [Mt Baker](https://open.spotify.com/track/2NdOUAfOeIBFiSthmCK2GP) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [@0](https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3) | 5:12 |
 | 89 | [TWTGA](https://open.spotify.com/track/1iVAwCYuzG82TcremyxhCf) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [Tomorrow Was the Golden Age](https://open.spotify.com/album/37FqMp9hRz4bgkvp3x0Tz3) | 5:55 |
-| 90 | [Unreal](https://open.spotify.com/track/3HNd6shi5OkaFn0PftmnaP) | [Lawrence Lek](https://open.spotify.com/artist/6nrCZQONyyfrj5P3DBl2S7) | [AIDOL \(O.S.T.\)](https://open.spotify.com/album/0gJcfpCTgTeNnWiDO587T7) | 2:53 |
+| 90 | [Unreal](https://open.spotify.com/track/0IPOJsga3hbAtJrsPGJ7uS) | [Lawrence Lek](https://open.spotify.com/artist/6nrCZQONyyfrj5P3DBl2S7) | [AIDOL \(O.S.T.\)](https://open.spotify.com/album/0QGMUDSTkfmBDCXvviSsoj) | 2:53 |
 | 91 | [Sad Ocean](https://open.spotify.com/track/1yC5ZxdbyrwZrcPaBPtm4Y) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Mirage](https://open.spotify.com/album/5S8GmGhxXvI9WTcVP61ecF) | 3:48 |
 | 92 | [Complex Heaven](https://open.spotify.com/track/0EexLNtuKRBPmhc2XdFQKl) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Small Craft On A Milk Sea](https://open.spotify.com/album/1CNhM669xHzsZMF1yZ9WFg) | 3:05 |
 | 93 | [Diamond Cove \(And Its Children Were Watching\)](https://open.spotify.com/track/0beY6Xl0qbQX3t9kOXOI8r) | [Kyle Bobby Dunn](https://open.spotify.com/artist/5103fOYzuAKogazW0lXwLl) | [Bring Me The Head of Kyle Bobby Dunn](https://open.spotify.com/album/1Ovkskq7I0XH0ULWKh8fph) | 3:52 |
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 | 101 | [Yulquen](https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 6:37 |
 | 102 | [Late October \- 2005 Digital Remaster](https://open.spotify.com/track/2Ef5Vgw0ShuKGoNfO6Nrof) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 4:44 |
 | 103 | [4:14](https://open.spotify.com/track/5snT0KvkN7Ty0oiVyxZMfE) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/4y0wXNP3t9rUv1y58Peuj1) | 4:15 |
-| 104 | [Submersible](https://open.spotify.com/track/2fJygKixDmVgmsYAjn9aNq) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Replica](https://open.spotify.com/album/4xgY6533C7VK4HEeojrgc1) | 3:50 |
+| 104 | [Submersible](https://open.spotify.com/track/0qsVyB8EPHAlId8v3jqpcg) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Replica](https://open.spotify.com/album/4X5lHc7Fw8PPTbQAC37wvA) | 3:50 |
 | 105 | [Harmony in Blue III](https://open.spotify.com/track/7h1Vds2ETEav7wNP0xtSDg) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Harmony in Ultraviolet](https://open.spotify.com/album/1U5x6wQtMJtbwM3NZRSvKT) | 2:41 |
 | 106 | [Wisdom Eye](https://open.spotify.com/track/0XLH43dcYq2pOe7COx8gPT) | [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr) | [Eternity](https://open.spotify.com/album/4mv5aLE0vrWGPzLYfEsUxw) | 3:10 |
 | 107 | [Island No\. 1](https://open.spotify.com/track/0RcYcNvHFFLkMb9F0Dku5c) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Siren Islands](https://open.spotify.com/album/6X8Gj8VvfnpzyJFkK9ZWGl) | 8:01 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 | 126 | [Delta Rain Dream](https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 3:29 |
 | 127 | [Ferrum](https://open.spotify.com/track/0s5x2cr3VyJYez1W8SKXC0) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Mirror](https://open.spotify.com/album/66d3xKf4p6CDloe6I7HaE9) | 16:13 |
 
-Snapshot ID: `MCxlYzlkM2YyOGYwZWZmMDVkZTI1ZjdmY2E5ZmMyODY2ZDg0M2MxZDgy`
+Snapshot ID: `MCwzNzJjMWMxYWQ1YTE0ZTlmMjQ3ODg5YWQxNzUyMmMwN2ZmZjU1Njdk`

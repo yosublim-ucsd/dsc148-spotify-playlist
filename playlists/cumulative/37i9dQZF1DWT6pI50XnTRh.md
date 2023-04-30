@@ -4,7 +4,7 @@
 
 > Nostalgic '70\-ies and '80\-ies Funk, Disco, Boogie and Afropop music which lit up night clubs across Africa\. Get your boogie on!
 
-86 songs - 6 hr 48 min
+87 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Daddy Cool](https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 3:28 | 2019-06-28 |  |
 | [Desires](https://open.spotify.com/track/1BWnAnHrIjRsOb4F9xC0P7) | [Rafael Cameron](https://open.spotify.com/artist/12Kkris6XNRRceFq7WoTer) | [Cameron All The Way](https://open.spotify.com/album/0h58dYQtgHRiW9GQbBhmKY) | 6:51 | 2019-06-28 |  |
 | [Disco Dancer](https://open.spotify.com/track/1np1H7mh6iUZhdBhkh3QIo) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/2f2AauWieTBpHDodyHYOcB) | 6:56 | 2019-06-28 | 2022-07-29 |
-| [Disco Dancer](https://open.spotify.com/track/297SLwXcZw0ZUourOzPQpU) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/0p1PYyKaMEsDboqHmERvZu) | 6:56 | 2019-06-28 |  |
+| [Disco Dancer](https://open.spotify.com/track/297SLwXcZw0ZUourOzPQpU) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/0p1PYyKaMEsDboqHmERvZu) | 6:56 | 2019-06-28 | 2023-04-30 |
+| [Disco Dancer](https://open.spotify.com/track/5q8C9VZQBmo9ITXI21p11K) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/0gHy3GjU1oQMce8ZJi2EKL) | 6:56 | 2022-09-26 |  |
 | [Don't Let My Rainbow Pass Me By](https://open.spotify.com/track/5F030QnPpy1nMh8UmlHdKD) | [Cloud One](https://open.spotify.com/artist/2B9FE4FTPCJ7W8DrF5wkve), [Margo Williams](https://open.spotify.com/artist/1EzQ066WkkULCd4TByuEqd) | [Spaced Out: The Very Best of Cloud One](https://open.spotify.com/album/3rPJAH1VcOILbQIwfy7Rfz) | 4:40 | 2019-06-28 |  |
 | [Don't Let My Rainbow Pass Me By \- Club 12" Mix](https://open.spotify.com/track/62wMKfLBVI9UWaoXmaDRsS) | [Cloud One](https://open.spotify.com/artist/2B9FE4FTPCJ7W8DrF5wkve), [Margo Williams](https://open.spotify.com/artist/1EzQ066WkkULCd4TByuEqd) | [Joey Negro and Sean P present The Best of Disco Spectrum](https://open.spotify.com/album/4U62xyQiPH0CcBc5INVDK2) | 4:40 | 2019-06-28 | 2022-07-29 |
 | [Don't Stop 'Til You Get Enough](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 6:05 | 2019-06-28 |  |

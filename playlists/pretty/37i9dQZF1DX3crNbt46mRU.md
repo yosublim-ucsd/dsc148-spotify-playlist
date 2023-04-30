@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Niall Horan
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,668 likes - 115 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,679 likes - 115 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 50 | [It Hurts](https://open.spotify.com/track/5w5Y9dZmJAi5ea1hC7NTNV) | [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv) | [It Hurts](https://open.spotify.com/album/7xhnHeKOITowUn9L0AZ117) | 3:01 |
 | 51 | [You](https://open.spotify.com/track/5dlqBq1tOEuYKDm2ILxecU) | [WE ARE AVA](https://open.spotify.com/artist/5jJAPoKkkgYZyPnnoNLTLw) | [You](https://open.spotify.com/album/0Ciq3VQd5GD7pOqzh2F79U) | 2:47 |
 | 52 | [Abou Chaker](https://open.spotify.com/track/0oU0jpPHKrqeCy8MX8yljU) | [DAWILL](https://open.spotify.com/artist/7oypIsVGKg4FIyuZM1AmeA), [Kylo Dream](https://open.spotify.com/artist/1infWOgqAl0gZNHumUkkO6) | [Abou Chaker](https://open.spotify.com/album/2vMrFfjVGUNM5UgSTq4dK7) | 2:58 |
-| 53 | [einszweidrei](https://open.spotify.com/track/2B5cENn0VFxcyK3SFFzNpZ) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw) | [einszweidrei](https://open.spotify.com/album/0HKPJdELR01L0oro2hcPBg) | 2:01 |
+| 53 | [einszweidrei](https://open.spotify.com/track/2B5cENn0VFxcyK3SFFzNpZ) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw) | [einszweidrei](https://open.spotify.com/album/0HKPJdELR01L0oro2hcPBg) | 2:03 |
 | 54 | [Allo Allo](https://open.spotify.com/track/3dNfM0sX2GNHPMi5ewnOLx) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Allo Allo](https://open.spotify.com/album/0XiRYem59oywi5H4PMO6sc) | 2:42 |
 | 55 | [Happy](https://open.spotify.com/track/6DXI5kHhGs2yrWFPFsecm1) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Happy](https://open.spotify.com/album/09Pmkia3NOqY9TOhTgS2Un) | 2:44 |
 | 56 | [Everything's Illusion](https://open.spotify.com/track/63o8mcsXucmnDV2b2dRkBk) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Everything's Illusion](https://open.spotify.com/album/0BzMMdsT6pcZCvEzyNr2mW) | 3:57 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 114 | [LORBEERKRANZ](https://open.spotify.com/track/3ixYwMhY3eLvdrz0paiYGD) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [LORBEERKRANZ](https://open.spotify.com/album/53hHhW8VhOrRZ6VSYS4kpe) | 3:27 |
 | 115 | [Jealous](https://open.spotify.com/track/46fXXqSW9Ikn4bMFDAhEAh) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [Jealous](https://open.spotify.com/album/3syO8DzHiXNtubE1Tia9wc) | 2:56 |
 
-Snapshot ID: `MCw4ZTIyNjA4MTgzZDgwZGZjOTczMjYzNjhkMmYzYjA1NTJiZjA5Nzdm`
+Snapshot ID: `MCw1YzRhYzRhOWY4ZWMwNDBjOTMwOWExMzgyNTlmYzI5MWQ4NmExZmI4`

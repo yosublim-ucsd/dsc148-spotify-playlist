@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSZlCPJ6VZl.md) - [plain]
 
 > Deep brown noise sleep frequencies to beat insomnia and help you sleep all night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,616 likes - 164 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,635 likes - 164 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSZlCPJ6VZl.md) - [plain]
 | 163 | [Ambient Noise 100 Hz](https://open.spotify.com/track/4H8xQ7eeZ79T1WFhruPzR6) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Sleep Sounds](https://open.spotify.com/album/0tpGrdiPu73zQwvtlhsc9M) | 3:40 |
 | 164 | [Brown Noise Schlaflied](https://open.spotify.com/track/20E4TmrXUCQeSAVqtFZU2N) | [Sleepy Mind](https://open.spotify.com/artist/5ZDe3pLjx7eSn3lIZpVCxE) | [Brown Noise Schlaflied](https://open.spotify.com/album/5gAeWz3JMEsTmGndtpglzq) | 3:11 |
 
-Snapshot ID: `MCw4Y2I5MDJmYjdlNjdjNjQyMmI1ZjlhNDllOThmYWFjNGNlNDQzMTYw`
+Snapshot ID: `MCw1MjdjNjBiM2E2YzQzMzg4OGViODY1ODk1MjMzMjhkOTUyNjFmZjRj`

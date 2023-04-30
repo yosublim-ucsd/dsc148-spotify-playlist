@@ -286,10 +286,28 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 212146,
       "name": "Black Venom",
       "url": "https://open.spotify.com/track/58TRjjLEDZWzOTXsw0SLAx"
+    },
+    {
+      "album": {
+        "name": "The Budos Band III",
+        "url": "https://open.spotify.com/album/5zmTjYZUebsP2GKjzFq9Zm"
+      },
+      "artists": [
+        {
+          "name": "The Budos Band",
+          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212146,
+      "name": "Black Venom",
+      "url": "https://open.spotify.com/track/6i7etqtto9YoUBFrA1kIFO"
     },
     {
       "album": {

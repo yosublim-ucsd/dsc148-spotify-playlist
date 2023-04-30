@@ -286,7 +286,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 184444,
       "name": "ANTIFRAGILE",
       "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
@@ -6961,6 +6961,24 @@
     },
     {
       "album": {
+        "name": "\u4e0d\u9060\u8655",
+        "url": "https://open.spotify.com/album/3OfDmuDl9aMma0I8JxtYeA"
+      },
+      "artists": [
+        {
+          "name": "Marz23",
+          "url": "https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256706,
+      "name": "\u4e0d\u611b\u81ea\u5df1\u4e86",
+      "url": "https://open.spotify.com/track/1kX9OkIAcrYldGseNeSkXo"
+    },
+    {
+      "album": {
         "name": "\u4e0d\u611b\u81ea\u5df1\u4e86",
         "url": "https://open.spotify.com/album/6XNIzjnjbV9DbsaHG7xZGb"
       },
@@ -6972,7 +6990,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 258139,
       "name": "\u4e0d\u611b\u81ea\u5df1\u4e86",
       "url": "https://open.spotify.com/track/6iapOcmDAFnNQ3Bz0U6s3Y"
@@ -11422,7 +11440,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 232421,
       "name": "\u9677\u7720",
       "url": "https://open.spotify.com/track/4Gv3WzG8DaeY1LLnufwXdJ"

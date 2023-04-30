@@ -1,12 +1,12 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Ana Sanz",
-  "num_followers": 34790,
+  "num_followers": 34802,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTJlZTZiMDY5ODZjYTQ1YzZkZjllZTgyNGE5NjI0OTdkMmQyMmZl",
+  "snapshot_id": "MCw1YzI5NmVjZWY2NDhjNjg1ZWE0NzE3MTVjODhkNDdkODhlMGQzZWY1",
   "tracks": [
     {
       "added_at": "2023-04-14 03:00:00",
@@ -431,18 +431,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/106XzTHi11oscO7mlXmqKg"
+        "name": "Igual",
+        "url": "https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ"
       },
       "artists": [
         {
-          "name": "Ely Guerra",
-          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
+          "name": "Nenagenix",
+          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
         }
       ],
-      "duration_ms": 222706,
-      "name": "Mi Playa",
-      "url": "https://open.spotify.com/track/3C8l5qDzec8poDxsCUIZXp"
+      "duration_ms": 250770,
+      "name": "Igual",
+      "url": "https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -499,18 +499,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Igual",
-        "url": "https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ"
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/106XzTHi11oscO7mlXmqKg"
       },
       "artists": [
         {
-          "name": "Nenagenix",
-          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
         }
       ],
-      "duration_ms": 250770,
-      "name": "Igual",
-      "url": "https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR"
+      "duration_ms": 222706,
+      "name": "Mi Playa",
+      "url": "https://open.spotify.com/track/3C8l5qDzec8poDxsCUIZXp"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Andrea Echeverri",
-        "url": "https://open.spotify.com/album/2OBA7deE9MjlDF4YFkr8ip"
-      },
-      "artists": [
-        {
-          "name": "Andrea Echeverri",
-          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Quedate",
-      "url": "https://open.spotify.com/track/2GjwCmMjikAagFxYFITnMF"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "La Batalla",
         "url": "https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 296914,
       "name": "La Batalla",
       "url": "https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Andrea Echeverri",
+        "url": "https://open.spotify.com/album/2OBA7deE9MjlDF4YFkr8ip"
+      },
+      "artists": [
+        {
+          "name": "Andrea Echeverri",
+          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Quedate",
+      "url": "https://open.spotify.com/track/2GjwCmMjikAagFxYFITnMF"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Somos",
-        "url": "https://open.spotify.com/album/1e1rVTTSCgPWMvkhJLZ8Ik"
-      },
-      "artists": [
-        {
-          "name": "Las Fokin Biches",
-          "url": "https://open.spotify.com/artist/57PVit02jqmX3h5SL0XnHa"
-        }
-      ],
-      "duration_ms": 180680,
-      "name": "Somos",
-      "url": "https://open.spotify.com/track/02s5vAzBU4NodaEq3JIdJr"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Todo Se Est\u00e1 Cayendo",
         "url": "https://open.spotify.com/album/1B60TuVtUl7PPsrWbuOAn6"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 255200,
       "name": "Todo Se Est\u00e1 Cayendo",
       "url": "https://open.spotify.com/track/2on6Uws8Ku8izt4Kb1PYG8"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/1e1rVTTSCgPWMvkhJLZ8Ik"
+      },
+      "artists": [
+        {
+          "name": "Las Fokin Biches",
+          "url": "https://open.spotify.com/artist/57PVit02jqmX3h5SL0XnHa"
+        }
+      ],
+      "duration_ms": 180680,
+      "name": "Somos",
+      "url": "https://open.spotify.com/track/02s5vAzBU4NodaEq3JIdJr"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1379,8 +1379,8 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Esquizofrenia",
-        "url": "https://open.spotify.com/album/3MS1vYzXgPKjTbPhKlkNxD"
+        "name": "\u00c9xodo Mental",
+        "url": "https://open.spotify.com/album/3m9ywZHKa2Zj2uldZ4s3CO"
       },
       "artists": [
         {
@@ -1388,9 +1388,9 @@
           "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
         }
       ],
-      "duration_ms": 188330,
-      "name": "Esquizofrenia",
-      "url": "https://open.spotify.com/track/7nokQKdrIGXkII2CTnyU1t"
+      "duration_ms": 196951,
+      "name": "\u00c9xodo Mental",
+      "url": "https://open.spotify.com/track/0kjtwZybKdX5uXK1qCHojD"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Hora de No Ver",
-        "url": "https://open.spotify.com/album/7vV8Ye5scpEoP8SsEQvXnR"
-      },
-      "artists": [
-        {
-          "name": "Suarez",
-          "url": "https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n"
-        }
-      ],
-      "duration_ms": 191559,
-      "name": "Morir\u00edan",
-      "url": "https://open.spotify.com/track/53JVw942AQvbqqDy8DqtaN"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Preguntame",
         "url": "https://open.spotify.com/album/21qw6k8y7iO77WUFXPaGLx"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 204336,
       "name": "Preguntame",
       "url": "https://open.spotify.com/track/3dMYfIeVVdaY9U9GLTG9PK"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Hora de No Ver",
+        "url": "https://open.spotify.com/album/7vV8Ye5scpEoP8SsEQvXnR"
+      },
+      "artists": [
+        {
+          "name": "Suarez",
+          "url": "https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n"
+        }
+      ],
+      "duration_ms": 191559,
+      "name": "Morir\u00edan",
+      "url": "https://open.spotify.com/track/53JVw942AQvbqqDy8DqtaN"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1475,8 +1475,8 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "\u00c9xodo Mental",
-        "url": "https://open.spotify.com/album/3m9ywZHKa2Zj2uldZ4s3CO"
+        "name": "Esquizofrenia",
+        "url": "https://open.spotify.com/album/3MS1vYzXgPKjTbPhKlkNxD"
       },
       "artists": [
         {
@@ -1484,9 +1484,9 @@
           "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
         }
       ],
-      "duration_ms": 196951,
-      "name": "\u00c9xodo Mental",
-      "url": "https://open.spotify.com/track/0kjtwZybKdX5uXK1qCHojD"
+      "duration_ms": 188330,
+      "name": "Esquizofrenia",
+      "url": "https://open.spotify.com/track/7nokQKdrIGXkII2CTnyU1t"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Truco o trato",
+        "url": "https://open.spotify.com/album/4U65heHTb2hRm7xjo6z4W7"
+      },
+      "artists": [
+        {
+          "name": "Megara",
+          "url": "https://open.spotify.com/artist/4vFcywn3P1b0M4xFe61e23"
+        }
+      ],
+      "duration_ms": 211332,
+      "name": "Somos aire",
+      "url": "https://open.spotify.com/track/63gATGLzYoulX2l9sI6M5w"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Chica Rutera",
         "url": "https://open.spotify.com/album/677rkyQAwxStGoAqiRiLiy"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 308116,
       "name": "Chica Rutera",
       "url": "https://open.spotify.com/track/7mULoTsK56Nfyf7o50LKk3"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Truco o trato",
-        "url": "https://open.spotify.com/album/4U65heHTb2hRm7xjo6z4W7"
-      },
-      "artists": [
-        {
-          "name": "Megara",
-          "url": "https://open.spotify.com/artist/4vFcywn3P1b0M4xFe61e23"
-        }
-      ],
-      "duration_ms": 211332,
-      "name": "Somos aire",
-      "url": "https://open.spotify.com/track/63gATGLzYoulX2l9sI6M5w"
     },
     {
       "added_at": "2023-04-14 03:00:00",

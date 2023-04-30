@@ -4,7 +4,7 @@
 
 > Just chill.
 
-481 songs - 1 day 3 hr 40 min
+483 songs - 1 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Buzzed](https://open.spotify.com/track/125DSBjIfOOCkmyRukprZT) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Buzzed](https://open.spotify.com/album/4JGWwlyl97ylcdcuU8IVS9) | 2:39 | 2021-06-07 | 2023-04-22 |
 | [Cabriolet](https://open.spotify.com/track/05ZeiujqFx9XGekEXogxdZ) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI), [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Cabriolet](https://open.spotify.com/album/40SEs7WEPREj4xeb9mVNv2) | 2:42 | 2022-08-17 | 2022-10-22 |
 | [Calico](https://open.spotify.com/track/7EWwiyBXMaLzoSXwWZkYyU) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Calico](https://open.spotify.com/album/6ocDemfIGrj8hpvvpjDFoc) | 3:51 | 2020-05-22 | 2022-01-22 |
-| [Can I Call You Rose?](https://open.spotify.com/track/7wnj1zRcZVlPNJ58shwl7h) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:10 | 2023-04-11 |  |
+| [Can I Call You Rose?](https://open.spotify.com/track/7wnj1zRcZVlPNJ58shwl7h) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:10 | 2023-04-11 | 2023-04-30 |
 | [Can't Stop Your Lovin'](https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Can't Stop Your Lovin'](https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW) | 3:57 | 2019-07-26 | 2022-09-20 |
 | [Chaos Calls](https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Chaos Calls](https://open.spotify.com/album/7qImfA3la1vAndVk8kuarB) | 3:56 | 2022-08-19 | 2023-04-29 |
 | [Charlie](https://open.spotify.com/track/3EbPZ8puT1QdOVDfnREDrn) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Courage](https://open.spotify.com/album/2mf3MxRCIe2AbEDCjXpQLD) | 3:05 | 2022-08-19 | 2023-04-22 |
@@ -148,7 +148,7 @@
 | [Fleur Blanche](https://open.spotify.com/track/0vpxHngtbm6hrdQZHsmOMb) | [Örsten](https://open.spotify.com/artist/2WSzphbmFHDqz6K17xLjcI) | [Cutworks](https://open.spotify.com/album/3oDrKpBfdjQPZsuqRGu0kW) | 4:12 | 2021-02-27 |  |
 | [Flight](https://open.spotify.com/track/5UhsZ4o4QLoS5gai0ryUHp) | [Postcard Boy](https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7) | [Flight](https://open.spotify.com/album/2p6Um10jegwsmTxQgi6ahw) | 2:21 | 2020-04-24 | 2022-07-29 |
 | [Flight](https://open.spotify.com/track/67pRBaiwhGyMpXXfPVzER3) | [Postcard Boy](https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7) | [Flight](https://open.spotify.com/album/2KWqrfdhakTcqwy2nZ2o94) | 2:21 | 2022-06-10 | 2022-09-03 |
-| [Float](https://open.spotify.com/track/7MOy3ezBGiYpvc2jBwXZ3m) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Float](https://open.spotify.com/album/1dtZKbO951kCjsBPSEvw95) | 4:00 | 2023-03-15 |  |
+| [Float](https://open.spotify.com/track/7MOy3ezBGiYpvc2jBwXZ3m) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Float](https://open.spotify.com/album/1dtZKbO951kCjsBPSEvw95) | 4:00 | 2023-03-15 | 2023-04-30 |
 | [Fool 4 U](https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y4](https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR) | 2:59 | 2022-09-02 |  |
 | [For The Breakdowns](https://open.spotify.com/track/2fN3mTftR80HwV5r79rq10) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [For the Breakdowns](https://open.spotify.com/album/5yoqFxiDljDVn70lVn1Sd2) | 3:04 | 2022-09-16 | 2023-04-22 |
 | [Free Again](https://open.spotify.com/track/5waEuhjLJ2B5gZwYNOb8lj) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [Free Again](https://open.spotify.com/album/2d1y23eHvch2vbp0Em8k5l) | 2:39 | 2022-10-08 | 2023-04-22 |
@@ -313,6 +313,7 @@
 | [Of The Age](https://open.spotify.com/track/7FoA4uLN2FnUnOcDfNlX0C) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Violence in a Quiet Mind](https://open.spotify.com/album/12p8Tpkhv5tbW99wzGjP4D) | 4:13 | 2020-07-31 | 2022-01-22 |
 | [ON 10](https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 2:53 | 2022-11-11 |  |
 | [One Year Stand](https://open.spotify.com/track/3d295CXrZtRVRVMFzr7VP8) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [One Year Stand](https://open.spotify.com/album/2hKOa5tJbt1ZTvAeg5926d) | 2:35 | 2022-08-05 | 2022-10-13 |
+| [Open My Door](https://open.spotify.com/track/6lVMcnULyl94wDrZ2HAuCT) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Open My Door](https://open.spotify.com/album/0CLN8x2MGw8htb94l0tBGv) | 2:33 | 2023-04-28 |  |
 | [Opiate](https://open.spotify.com/track/1iXho1Srl0akpZSSHfOFvP) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Opiate](https://open.spotify.com/album/76XZv1ULphDrrtWPR37XQ7) | 2:31 | 2020-11-20 | 2022-07-29 |
 | [Opiate](https://open.spotify.com/track/6X4PNtfFJBOAkqUudR6ItT) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [In Praise Of Shadows](https://open.spotify.com/album/5ZFB59cZbuWzd0gPs2b8jg) | 2:31 | 2022-06-10 | 2023-03-18 |
 | [Orange Blood](https://open.spotify.com/track/2mKz0wGscPw1xnTvrTlQUi) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/2H1cK9wMY3GreIFvcNnice) | 3:46 | 2022-06-01 |  |
@@ -344,6 +345,7 @@
 | [Rockaway](https://open.spotify.com/track/3Mc1wHPrWcXiLeokUZ3Oab) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Five Easy Hot Dogs](https://open.spotify.com/album/2Ao4brMpPgMyyuh9dPK4oK) | 2:06 | 2023-01-27 |  |
 | [Rollercoaster](https://open.spotify.com/track/5OhomqpJfFUOzzHCPGZgVQ) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f) | [Discovery](https://open.spotify.com/album/2RDHn2HkNUiMwAJh4jgAIU) | 2:41 | 2020-03-26 | 2022-01-22 |
 | [Rose Pink Cadillac \- LARRY PINK THE HUMAN Remix](https://open.spotify.com/track/2h1s9bSv7BU4vFwhWrdwSN) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8), [LARRY PINK THE HUMAN](https://open.spotify.com/artist/0EcsZYsbHS6JATYiPJhomh) | [Rose Pink Cadillac \(LARRY PINK THE HUMAN Remix\)](https://open.spotify.com/album/3AcGrv7iQnICLDrFKat8XP) | 4:10 | 2022-09-02 |  |
+| [Run To The Moon](https://open.spotify.com/track/03tXFHO65orOSnHlEDf0JK) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Run To The Moon](https://open.spotify.com/album/5OUIMs7DlmNEY1ia8IVQfs) | 3:45 | 2023-04-28 |  |
 | [Running](https://open.spotify.com/track/5tdGQTaRKo0bgBFZjAqn2l) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Running](https://open.spotify.com/album/7FV8an2r9aQwCDIS0ItDEz) | 4:10 | 2022-11-11 | 2023-02-11 |
 | [Sad Disco \(Pine Studios\)](https://open.spotify.com/track/2DuhJLdMNSskrd2KF8SRMr) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Sad Disco \(Pine Studios\)](https://open.spotify.com/album/0npdPWUNkxbMyPFa1rcb2X) | 3:47 | 2023-02-16 |  |
 | [safety](https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [safety](https://open.spotify.com/album/4hIil1T0kwD96mdWyCOaNT) | 3:03 | 2022-08-05 |  |

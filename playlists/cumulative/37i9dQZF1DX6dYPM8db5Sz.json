@@ -2952,7 +2952,7 @@
     {
       "album": {
         "name": "My Time",
-        "url": "https://open.spotify.com/album/0OgqnZcVTlOmqJ8SnAY5pK"
+        "url": "https://open.spotify.com/album/7FGBbHrwxSy7IMF7kFnDKp"
       },
       "artists": [
         {
@@ -2963,6 +2963,24 @@
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 167335,
+      "name": "My Time",
+      "url": "https://open.spotify.com/track/3gbtNslUtnjb4GioHrR7qH"
+    },
+    {
+      "album": {
+        "name": "My Time",
+        "url": "https://open.spotify.com/album/0OgqnZcVTlOmqJ8SnAY5pK"
+      },
+      "artists": [
+        {
+          "name": "Sofia Portanet",
+          "url": "https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 167335,
       "name": "My Time",
       "url": "https://open.spotify.com/track/5jeuZUFRRGPeBzPnT6Yjr7"

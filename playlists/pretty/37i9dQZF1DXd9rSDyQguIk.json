@@ -1,12 +1,12 @@
 {
   "description": "Nothing but classic blues tracks",
-  "num_followers": 1075344,
+  "num_followers": 1075949,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTNjZTFlZTg3ZWQzYzUyMGYwZGI3ZDA4ZjJiYWViZjkwZjRkZWQz",
+  "snapshot_id": "MCw3MjNhYjA0YjQyMzFmYzI3YjNmM2M3ODAwMDNlMTk0ODUyOTY4Yjhi",
   "tracks": [
     {
       "added_at": "2020-01-15 21:29:46",
@@ -421,20 +421,20 @@
       "url": "https://open.spotify.com/track/2mVp83pLkWJN03Ha8Txydf"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
+      "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "The Fabulous Thunderbirds",
-        "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
+        "name": "Johnny Winter",
+        "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
       },
       "artists": [
         {
-          "name": "The Fabulous Thunderbirds",
-          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
         }
       ],
-      "duration_ms": 232706,
-      "name": "Scratch My Back",
-      "url": "https://open.spotify.com/track/6f3OYG5R630tjwFIHIE7j2"
+      "duration_ms": 314880,
+      "name": "Be Careful With a Fool",
+      "url": "https://open.spotify.com/track/3YGsgJqtIWKjMjZtKLk11Z"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -453,20 +453,20 @@
       "url": "https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
+      "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "Johnny Winter",
-        "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
+        "name": "The Fabulous Thunderbirds",
+        "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
       },
       "artists": [
         {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+          "name": "The Fabulous Thunderbirds",
+          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
         }
       ],
-      "duration_ms": 314880,
-      "name": "Be Careful With a Fool",
-      "url": "https://open.spotify.com/track/3YGsgJqtIWKjMjZtKLk11Z"
+      "duration_ms": 232706,
+      "name": "Scratch My Back",
+      "url": "https://open.spotify.com/track/6f3OYG5R630tjwFIHIE7j2"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -549,22 +549,6 @@
       "url": "https://open.spotify.com/track/1sxtxIKhRiQwuGpUwHoEHq"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/3MSyCHOkBoZQT2byE3vprN"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 295693,
-      "name": "T-Bone Shuffle",
-      "url": "https://open.spotify.com/track/1HRx7dciQYCv76XvbBDAGM"
-    },
-    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "Mourning In The Morning",
@@ -579,6 +563,22 @@
       "duration_ms": 147800,
       "name": "Working Man",
       "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/3MSyCHOkBoZQT2byE3vprN"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 295693,
+      "name": "T-Bone Shuffle",
+      "url": "https://open.spotify.com/track/1HRx7dciQYCv76XvbBDAGM"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -613,22 +613,6 @@
       "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "Koko Taylor",
-        "url": "https://open.spotify.com/album/4kUcacQmakJzzQ0UppaBTy"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 182826,
-      "name": "Wang Dang Doodle",
-      "url": "https://open.spotify.com/track/1cXc92MX9kFjMrrDsvdf9w"
-    },
-    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "T-Bone Blues",
@@ -643,6 +627,22 @@
       "duration_ms": 247373,
       "name": "Mean Old World",
       "url": "https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Koko Taylor",
+        "url": "https://open.spotify.com/album/4kUcacQmakJzzQ0UppaBTy"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 182826,
+      "name": "Wang Dang Doodle",
+      "url": "https://open.spotify.com/track/1cXc92MX9kFjMrrDsvdf9w"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -917,26 +917,6 @@
       "url": "https://open.spotify.com/track/6tilCYbheGMHo3Hw4F22hF"
     },
     {
-      "added_at": "2022-11-03 15:56:12",
-      "album": {
-        "name": "Inflation",
-        "url": "https://open.spotify.com/album/0AOkZiHga3bBuhdabrVgyD"
-      },
-      "artists": [
-        {
-          "name": "Earnest Jackson",
-          "url": "https://open.spotify.com/artist/5pXRWt2xs9uVuBO2n49jrm"
-        },
-        {
-          "name": "Sugar Daddy and the Gumbo Roux",
-          "url": "https://open.spotify.com/artist/17P966QkX81svuN6uqOjj6"
-        }
-      ],
-      "duration_ms": 199734,
-      "name": "Inflation",
-      "url": "https://open.spotify.com/track/0PUWmPna5P0hKtSwXWin9o"
-    },
-    {
       "added_at": "2021-06-18 04:29:20",
       "album": {
         "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
@@ -967,6 +947,26 @@
       "duration_ms": 367533,
       "name": "Sadie",
       "url": "https://open.spotify.com/track/2XBeWZJeIojOrFOfVvn2dF"
+    },
+    {
+      "added_at": "2022-11-03 15:56:12",
+      "album": {
+        "name": "Inflation",
+        "url": "https://open.spotify.com/album/0AOkZiHga3bBuhdabrVgyD"
+      },
+      "artists": [
+        {
+          "name": "Earnest Jackson",
+          "url": "https://open.spotify.com/artist/5pXRWt2xs9uVuBO2n49jrm"
+        },
+        {
+          "name": "Sugar Daddy and the Gumbo Roux",
+          "url": "https://open.spotify.com/artist/17P966QkX81svuN6uqOjj6"
+        }
+      ],
+      "duration_ms": 199734,
+      "name": "Inflation",
+      "url": "https://open.spotify.com/track/0PUWmPna5P0hKtSwXWin9o"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -1049,22 +1049,6 @@
       "url": "https://open.spotify.com/track/0tYJ6uY0ETQOtOM8KySMSp"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "The Complete Chess Masters",
-        "url": "https://open.spotify.com/album/1oKzIjaJ00OKzVxwjSfCXl"
-      },
-      "artists": [
-        {
-          "name": "Lowell Fulson",
-          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
-        }
-      ],
-      "duration_ms": 189133,
-      "name": "Reconsider Baby",
-      "url": "https://open.spotify.com/track/6KSa2Y1HnG0XlPQfEN4Xgi"
-    },
-    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "The Son Seals Blues Band",
@@ -1079,6 +1063,22 @@
       "duration_ms": 362400,
       "name": "Now That I'm Down",
       "url": "https://open.spotify.com/track/5KZrHPwscBkXturVJCJlM4"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "The Complete Chess Masters",
+        "url": "https://open.spotify.com/album/1oKzIjaJ00OKzVxwjSfCXl"
+      },
+      "artists": [
+        {
+          "name": "Lowell Fulson",
+          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
+        }
+      ],
+      "duration_ms": 189133,
+      "name": "Reconsider Baby",
+      "url": "https://open.spotify.com/track/6KSa2Y1HnG0XlPQfEN4Xgi"
     },
     {
       "added_at": "2018-03-29 19:44:07",

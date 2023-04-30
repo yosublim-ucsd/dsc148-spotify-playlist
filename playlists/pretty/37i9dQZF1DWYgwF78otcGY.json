@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 25734,
+  "num_followers": 25743,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2JlZWUwY2MxNjgxNGUzODMyNzg5OTU5NmUzMzc3NWU5Njc3NmIz",
+  "snapshot_id": "MCw4OWMxYTEyNDdmZWVjM2E5NWZjMDYxNGQxNjk3NTFmOGI5ZTNlNTAz",
   "tracks": [
     {
       "added_at": "2023-02-26 01:59:39",
@@ -103,22 +103,6 @@
       "duration_ms": 183397,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/4TwWOcvjY1qt3QJvtveAGm"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "Genom Eld & Vatten",
-        "url": "https://open.spotify.com/album/35mmuEFKzNsEJ97gYThkVX"
-      },
-      "artists": [
-        {
-          "name": "Sarek",
-          "url": "https://open.spotify.com/artist/2tP82Obc3GVQTpFJkjUabp"
-        }
-      ],
-      "duration_ms": 199253,
-      "name": "Genom Eld & Vatten",
-      "url": "https://open.spotify.com/track/4wLWZx74WHOosQq5p8VVkL"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -267,22 +251,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P"
-      },
-      "artists": [
-        {
-          "name": "Tone Sekelius",
-          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
-        }
-      ],
-      "duration_ms": 182443,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "N\u00e4r vindarna viskar mitt namn - Single",
         "url": "https://open.spotify.com/album/7oSqWiKS8F3GGIh6ihn50H"
       },
@@ -299,18 +267,18 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Bail\u00e1 Bail\u00e1",
-        "url": "https://open.spotify.com/album/3bcMrj2XzJl776OdDXmrnF"
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P"
       },
       "artists": [
         {
-          "name": "Alvaro Estrella",
-          "url": "https://open.spotify.com/artist/6RYT3r4anXD8WAGOw6T8El"
+          "name": "Tone Sekelius",
+          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
         }
       ],
-      "duration_ms": 173124,
-      "name": "Bail\u00e1 Bail\u00e1",
-      "url": "https://open.spotify.com/track/3MMJuk00QLVAjS6vwBZ67V"
+      "duration_ms": 182443,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -327,6 +295,22 @@
       "duration_ms": 186453,
       "name": "Bra vibrationer",
       "url": "https://open.spotify.com/track/0FSlaiuv4eBrrjz05jpxz6"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Bail\u00e1 Bail\u00e1",
+        "url": "https://open.spotify.com/album/3bcMrj2XzJl776OdDXmrnF"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Estrella",
+          "url": "https://open.spotify.com/artist/6RYT3r4anXD8WAGOw6T8El"
+        }
+      ],
+      "duration_ms": 173124,
+      "name": "Bail\u00e1 Bail\u00e1",
+      "url": "https://open.spotify.com/track/3MMJuk00QLVAjS6vwBZ67V"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -543,22 +527,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Bobbysocks / Let It Swing - The Best Of Bobbysocks",
-        "url": "https://open.spotify.com/album/1Y5N3dPwHgubECWrFqpG5T"
-      },
-      "artists": [
-        {
-          "name": "Bobbysocks",
-          "url": "https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs"
-        }
-      ],
-      "duration_ms": 176213,
-      "name": "La det swinge",
-      "url": "https://open.spotify.com/track/1D5JiCspnkQx8L57R3qpAb"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe"
       },
@@ -575,18 +543,18 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "R\u00f6k 'n Roll",
-        "url": "https://open.spotify.com/album/0aO5uIWhe2UVcnI7ZrjdSc"
+        "name": "Bobbysocks / Let It Swing - The Best Of Bobbysocks",
+        "url": "https://open.spotify.com/album/1Y5N3dPwHgubECWrFqpG5T"
       },
       "artists": [
         {
-          "name": "Brandsta City Sl\u00e4ckers",
-          "url": "https://open.spotify.com/artist/10bzvni38ThO7h6KOaHO9l"
+          "name": "Bobbysocks",
+          "url": "https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs"
         }
       ],
-      "duration_ms": 177160,
-      "name": "Kom och ta mig",
-      "url": "https://open.spotify.com/track/3NVIuvSnsjBMWR8RCXQbHi"
+      "duration_ms": 176213,
+      "name": "La det swinge",
+      "url": "https://open.spotify.com/track/1D5JiCspnkQx8L57R3qpAb"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -611,22 +579,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Greatest of the Best",
-        "url": "https://open.spotify.com/album/03wYV1m0EmBAhtgVLvGNKn"
-      },
-      "artists": [
-        {
-          "name": "\u00d6sten Med Resten",
-          "url": "https://open.spotify.com/artist/20nKo8C8M0JpIznby9Dv5p"
-        }
-      ],
-      "duration_ms": 175453,
-      "name": "Hon Kommer Med Solsken",
-      "url": "https://open.spotify.com/track/0GdHzLwAZkDcJz6cAV0Qz9"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Masquerade",
         "url": "https://open.spotify.com/album/29npkCplHvsX4VZ6POOwMp"
       },
@@ -639,22 +591,6 @@
       "duration_ms": 180893,
       "name": "Manboy",
       "url": "https://open.spotify.com/track/4ut7uc5pTPixey8zomS5Ah"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "La Dolce Vita",
-        "url": "https://open.spotify.com/album/0CXSCEO8p04h1FRxFUGsIl"
-      },
-      "artists": [
-        {
-          "name": "After Dark",
-          "url": "https://open.spotify.com/artist/6IsSP3qzKVJziwtHkmKuRl"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "La Dolce Vita",
-      "url": "https://open.spotify.com/track/5QQz3p0cnmlOYsfyAmgwkw"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -723,22 +659,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Det g\u00f6r ont en stund p\u00e5 natten men inget p\u00e5 dan",
-        "url": "https://open.spotify.com/album/3CQHhvbYaNHJdfp8N79Nbr"
-      },
-      "artists": [
-        {
-          "name": "Lena Philipsson",
-          "url": "https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm"
-        }
-      ],
-      "duration_ms": 183746,
-      "name": "Det g\u00f6r ont",
-      "url": "https://open.spotify.com/track/51md9KzX92LQh84mUsaPPD"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Lyssna till ditt hj\u00e4rta",
         "url": "https://open.spotify.com/album/1jWedFgADqAwwe3nP3RZlA"
       },
@@ -767,6 +687,22 @@
       "duration_ms": 182320,
       "name": "Give Me Your Love",
       "url": "https://open.spotify.com/track/2B60fzEh2F9Ds6xFtV8LWd"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Det g\u00f6r ont en stund p\u00e5 natten men inget p\u00e5 dan",
+        "url": "https://open.spotify.com/album/3CQHhvbYaNHJdfp8N79Nbr"
+      },
+      "artists": [
+        {
+          "name": "Lena Philipsson",
+          "url": "https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm"
+        }
+      ],
+      "duration_ms": 183746,
+      "name": "Det g\u00f6r ont",
+      "url": "https://open.spotify.com/track/51md9KzX92LQh84mUsaPPD"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -847,6 +783,74 @@
       "duration_ms": 167440,
       "name": "Just nu",
       "url": "https://open.spotify.com/track/4162ukGloFryXqeHM4y4Ha"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Busy Doin' Nothin'",
+        "url": "https://open.spotify.com/album/4jfxzJriDt7pZMpzUtRhMo"
+      },
+      "artists": [
+        {
+          "name": "Ace Wilder",
+          "url": "https://open.spotify.com/artist/7F4HcalxCMC4DctguvnoFY"
+        }
+      ],
+      "duration_ms": 173346,
+      "name": "Busy Doin' Nothin'",
+      "url": "https://open.spotify.com/track/1zSXQIah3KQsjvo5sRNRq7"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Dolly Styles b\u00e4sta",
+        "url": "https://open.spotify.com/album/4UeSWAPwCYG0PUYXfTRMfE"
+      },
+      "artists": [
+        {
+          "name": "Dolly Style",
+          "url": "https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs"
+        }
+      ],
+      "duration_ms": 171340,
+      "name": "Habibi",
+      "url": "https://open.spotify.com/track/0PcnMWhIgWga5G7pck1Fhb"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Lasse Holm",
+        "url": "https://open.spotify.com/album/6YqYUREfAQkDJmn2BfaCrQ"
+      },
+      "artists": [
+        {
+          "name": "Lasse Holm",
+          "url": "https://open.spotify.com/artist/4fYwnbPagtCH2o6prMmgoI"
+        },
+        {
+          "name": "Monica Th\u00f6rnell",
+          "url": "https://open.spotify.com/artist/2jC1JNttGelaaJn6QLyJYA"
+        }
+      ],
+      "duration_ms": 169783,
+      "name": "E' de' det h\u00e4r du kallar k\u00e4rlek",
+      "url": "https://open.spotify.com/track/5MBBQ7P9AozcQ8lF7So1B3"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Live Forever - The Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5g18f9GEyipB2xX2d9xy5x"
+      },
+      "artists": [
+        {
+          "name": "Magnus Carlsson",
+          "url": "https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB"
+        }
+      ],
+      "duration_ms": 182626,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/6yk6jU3Ia33ed2XL4V9IeW"
     }
   ],
   "unique_name": "Schlagerfest",

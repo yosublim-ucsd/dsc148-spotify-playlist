@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:00CMSJdbf36zOzKB3z8JrR\">Victor Cardenas</a>'s favorite tracks. Updated regularly. Curated by Victor Cardenas. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 30442,
+  "num_followers": 30486,
   "original_name": "Victor Cardenas track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjUxMmI1ZjA2MTI3YTMxYWYzMjYxM2E1MTc2NzM3ZTFjZDY5ODA0",
+  "snapshot_id": "MCw4ZWVkMGVhMGM3NzI1M2Y2YTNjNmU0NDM1M2VlM2I4ZThmOTc1OWJm",
   "tracks": [
     {
       "added_at": "2023-01-09 06:32:38",
@@ -1455,8 +1455,8 @@
     {
       "added_at": "2023-01-09 06:32:38",
       "album": {
-        "name": "Ven A Mi",
-        "url": "https://open.spotify.com/album/2dG0OUg0ugMFeIxVW0yAdK"
+        "name": "Ven a Mi",
+        "url": "https://open.spotify.com/album/0pznjEjkx9JKKUhlQwlDL6"
       },
       "artists": [
         {
@@ -1466,11 +1466,15 @@
         {
           "name": "JC Arcila",
           "url": "https://open.spotify.com/artist/1qW7P4wsDj1nz8SSS99weV"
+        },
+        {
+          "name": "MariMar",
+          "url": "https://open.spotify.com/artist/3GqKz5VAbs3p4QiIGvSDet"
         }
       ],
       "duration_ms": 200664,
       "name": "Ven a Mi",
-      "url": "https://open.spotify.com/track/7tSMeZ48hGkBk2GU9jUgPq"
+      "url": "https://open.spotify.com/track/3Le8NxVlgzN9qEBwx1D03Z"
     },
     {
       "added_at": "2023-01-09 06:32:38",

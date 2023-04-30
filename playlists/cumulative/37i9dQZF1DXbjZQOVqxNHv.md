@@ -4,7 +4,7 @@
 
 > All the Intelligent Dance Music you'll need \(not necessarily to dance to\)\. Aphex Twin on cover.
 
-547 songs - 2 day 3 hr 22 min
+548 songs - 2 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Acrid Avid Jam Shred](https://open.spotify.com/track/3Bp478Itxv8gxqqEcf8HRL) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 7:39 | 2022-04-13 | 2022-07-29 |
 | [Adozenaday](https://open.spotify.com/track/3Yc7AxUfMy50QPWwwkwlh2) | [Brothomstates](https://open.spotify.com/artist/7dJoiDu6p9jcAESCcRYU0z) | [Qtio](https://open.spotify.com/album/3kq8Hu3D10vLbHQbhGi0DA) | 5:33 | 2022-04-13 | 2022-07-27 |
 | [Aero Deck](https://open.spotify.com/track/3CxY2EYnLDdGVaRcEiE7wp) | [Oval](https://open.spotify.com/artist/1Yti3CsDazWVjNMXBHx1Af) | [Systemisch](https://open.spotify.com/album/1VjWcD0lLRFpAIK0AFRUBl) | 4:33 | 2022-04-13 |  |
-| [Afraid Of Monsters](https://open.spotify.com/track/4PbMuyuUAJPhBdsW3vf2Fs) | [Xela](https://open.spotify.com/artist/1DpTCZ0h0a2IDmLiKJtDN5) | [For Frosty Mornings And Summer Nights](https://open.spotify.com/album/6aRdKJaXUBi23MPtwUMTb7) | 5:03 | 2022-04-13 | 2023-03-23 |
+| [Afraid Of Monsters](https://open.spotify.com/track/4PbMuyuUAJPhBdsW3vf2Fs) | [Xela](https://open.spotify.com/artist/1DpTCZ0h0a2IDmLiKJtDN5) | [For Frosty Mornings And Summer Nights](https://open.spotify.com/album/6aRdKJaXUBi23MPtwUMTb7) | 5:03 | 2022-04-13 |  |
 | [Ageispolis](https://open.spotify.com/track/7KRQoq9GeWeCm0ZAXg5XMb) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 5:23 | 2022-04-13 |  |
 | [Agen](https://open.spotify.com/track/10p90NN7hFkhJEN0QfLhhG) | [patten](https://open.spotify.com/artist/1ld2Kfp4s2LHg94Lby403n) | [ESTOILE NAIANT](https://open.spotify.com/album/6AD69WciPpBEpTFv1tyx90) | 4:27 | 2022-04-13 | 2022-07-28 |
 | [Akwalek](https://open.spotify.com/track/2L2yPzvZQBuhYE91h1NIqD) | [Two Lone Swordsmen](https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8) | [Tiny Reminders](https://open.spotify.com/album/2V2qCQNcIwy6sqkEHmBERc) | 4:36 | 2022-04-13 | 2023-04-27 |
@@ -288,7 +288,7 @@
 | [Melodicore](https://open.spotify.com/track/4supwTnuCsUD5xz2UcLAc7) | [Leila](https://open.spotify.com/artist/77uSxZ20fMeBEI804UuGX8) | [Like Weather \(Remastered Edition\)](https://open.spotify.com/album/21t4lny66XPZPuVVPoo1hO) | 5:21 | 2022-04-13 | 2023-02-07 |
 | [Melt \- Remastered](https://open.spotify.com/track/5XoUmYzWa8YTaxxV9DWEU3) | [Leftfield](https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L) | [Leftism](https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp) | 5:12 | 2022-04-13 |  |
 | [Memoria](https://open.spotify.com/track/7po1yZf9QAnoDl2AUt4LJM) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Martes](https://open.spotify.com/album/56w7QMVBxVWfNs9j5NHmxd) | 5:53 | 2022-04-13 | 2022-07-29 |
-| [Memoria](https://open.spotify.com/track/2WhqPkVoPN7LAAndjHOmBE) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Martes + Utopía](https://open.spotify.com/album/6NELWnONxOcazBuQfGyo1e) | 5:58 | 2022-04-13 |  |
+| [Memoria](https://open.spotify.com/track/2WhqPkVoPN7LAAndjHOmBE) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Martes + Utopía](https://open.spotify.com/album/6NELWnONxOcazBuQfGyo1e) | 5:58 | 2022-04-13 | 2023-04-30 |
 | [Mentok 1](https://open.spotify.com/track/2fJEhigKyt5otsVYQCk4Rn) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [LFO](https://open.spotify.com/album/7a2ja1S9hGEDBTO91uoj6n) | 4:31 | 2022-04-13 | 2023-02-04 |
 | [Metro Dade \(Plaid Mix\)](https://open.spotify.com/track/37xSuy37txchAXjHHnpgRR) | [Ko\-Wreck Technique](https://open.spotify.com/artist/4czdPTdZFsj3Lj2kXVtOxe) | [Ko\-Wrecktion EP](https://open.spotify.com/album/2C3DDj8OTvKZgcWOsuoSos) | 6:05 | 2022-04-13 | 2022-07-27 |
 | [Microphone Demo01](https://open.spotify.com/track/2hRWvwoq2AHMNCRDALaDyr) | [Black Lodge](https://open.spotify.com/artist/4OmSveqR6arSH0w9iWzCb8) | [MWR157](https://open.spotify.com/album/3dEhXUidsICko59KA3xuL3) | 3:54 | 2022-04-13 | 2022-07-26 |
@@ -409,7 +409,8 @@
 | [Second Bad Vilbel](https://open.spotify.com/track/6IOIjAiwta1b4r2mVQ5leS) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Anvil Vapre](https://open.spotify.com/album/6UcShvT8JIKOaHj39k6A8f) | 9:47 | 2022-04-13 | 2022-07-27 |
 | [Seph](https://open.spotify.com/track/4nBVt5WGmeEFhcfk6fyoJz) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Not For Threes](https://open.spotify.com/album/5O4LYrdtTr4nMnkn2GwP74) | 1:36 | 2022-04-13 | 2023-01-11 |
 | [Seph](https://open.spotify.com/track/7McrkRMy69W59IMEhAkVcc) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Not For Threes](https://open.spotify.com/album/25HKkAZz1rpzQXkWSLpWZL) | 1:36 | 2022-04-13 |  |
-| [Shell of Light](https://open.spotify.com/track/1WFGJPHAxb64hHsscftYOg) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1CI5OW60s9W41YLI80Jjdr) | 4:40 | 2022-04-13 |  |
+| [Shell of Light](https://open.spotify.com/track/1WFGJPHAxb64hHsscftYOg) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1CI5OW60s9W41YLI80Jjdr) | 4:40 | 2022-04-13 | 2023-04-30 |
+| [Shell of Light](https://open.spotify.com/track/5oLDBlcP7njmPA8gqxprVZ) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK) | 4:40 | 2022-04-13 |  |
 | [Shell of Light](https://open.spotify.com/track/29Gr10bFvvbsIrLRg7Yibi) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1C30LhZB9I48LdpVCRRYvq) | 4:42 | 2022-04-13 | 2022-07-29 |
 | [Shimmer](https://open.spotify.com/track/1rsbnhLppI7cibuDHEVurM) | [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [Beat Excursions \#5](https://open.spotify.com/album/3WuM7HpTwBFvzzNydSHiaP) | 5:16 | 2022-04-13 | 2023-03-02 |
 | [Shimmer](https://open.spotify.com/track/3HfFFgqFtUBFDFQ5EJILUQ) | [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [Beat Excursions \#5](https://open.spotify.com/album/31jaEe1GGy7q1EfC9tJ2oe) | 5:16 | 2022-04-13 |  |

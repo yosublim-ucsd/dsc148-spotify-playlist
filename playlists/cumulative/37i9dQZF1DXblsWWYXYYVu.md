@@ -4,7 +4,7 @@
 
 > Relax and take it slow today
 
-176 songs - 9 hr 51 min
+177 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [More Hearts Than Mine](https://open.spotify.com/track/0LcspVKJxhEQQSvVMiTPWz) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [More Hearts Than Mine](https://open.spotify.com/album/4VMYwWFqX9vUv9otWLRRF5) | 3:34 | 2021-04-19 | 2022-07-29 |
 | [More Hearts Than Mine](https://open.spotify.com/track/3TRlhYlnRVlQQMQbh3m2Tv) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [TikTok Sounds](https://open.spotify.com/album/49FLPP6KDpXKwldgjkoCUR) | 3:34 | 2021-04-19 | 2022-11-13 |
 | [More Hearts Than Mine](https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:34 | 2021-04-19 |  |
-| [Mountain](https://open.spotify.com/track/1oE33RydbNjm4mjdniFNth) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Mountain](https://open.spotify.com/album/3GCGJNpU4nRVw1uRPvJV0o) | 2:23 | 2023-03-31 |  |
+| [Mountain](https://open.spotify.com/track/1oE33RydbNjm4mjdniFNth) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Mountain](https://open.spotify.com/album/3GCGJNpU4nRVw1uRPvJV0o) | 2:23 | 2023-03-31 | 2023-04-30 |
+| [Mountain](https://open.spotify.com/track/6w7lYjt4snWEjNQBoJW3kL) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Stolen Time Deluxe](https://open.spotify.com/album/27Pl4ZURgCynlnGAgTQEds) | 2:23 | 2023-03-31 |  |
 | [My Old Man](https://open.spotify.com/track/0jyYstiiibkN6xlS7INejg) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Welcome Home](https://open.spotify.com/album/5LRfS1XH7dItLBnRfzcXtH) | 3:47 | 2021-04-19 |  |
 | [My Old Man](https://open.spotify.com/track/6OzujJBXwYPxJ7KeqflLtr) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Welcome Home](https://open.spotify.com/album/2IcmfT1b5m1wWrJI1ZVAUa) | 3:47 | 2021-04-19 | 2022-07-29 |
 | [My Time Machine](https://open.spotify.com/track/44pg0fUyO3Fbj99LiLOHKy) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [My Time Machine](https://open.spotify.com/album/6dHcdUtQyeUbYEe6o8CY8c) | 2:25 | 2023-02-03 | 2023-03-25 |

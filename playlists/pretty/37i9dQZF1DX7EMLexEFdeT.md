@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EMLexEFdeT.md) - [plain]
 
 > Did you hear that?
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,414 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,515 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You Make Me Feel Like It’s Halloween](https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:00 |
 | 2 | [What's A Girl To Do?](https://open.spotify.com/track/6nX4R2UiVrg6XZphd3QjaI) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Fur and Gold](https://open.spotify.com/album/0MBMbIshl7jfto6yWs8BFN) | 2:58 |
-| 3 | [Black Venom](https://open.spotify.com/track/58TRjjLEDZWzOTXsw0SLAx) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band III](https://open.spotify.com/album/4wGhy77LCdzpd7bdUiwQFN) | 3:32 |
+| 3 | [Black Venom](https://open.spotify.com/track/6i7etqtto9YoUBFrA1kIFO) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band III](https://open.spotify.com/album/5zmTjYZUebsP2GKjzFq9Zm) | 3:32 |
 | 4 | [Burn The Witch](https://open.spotify.com/track/7yyif2Ity1GipUXTdgofKw) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze](https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF) | 3:35 |
 | 5 | [Bad Ritual](https://open.spotify.com/track/14lFMWrwM30Q8FiijmxWVz) | [Timber Timbre](https://open.spotify.com/artist/7HeVXdOdMhLslVputGTZFQ) | [Creep On Creepin' On](https://open.spotify.com/album/2tWkGlUTyWZcVsqryi8U1q) | 3:07 |
 | 6 | [Plans We Made](https://open.spotify.com/track/2SieYbWMvEVhiTSmBUALv0) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe) | [Tomorrows I](https://open.spotify.com/album/49leS9Adpf8wPfT6fnu1Ix) | 3:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EMLexEFdeT.md) - [plain]
 | 74 | [The Hunger](https://open.spotify.com/track/7l9yrvHssOAcOUcrV39lQX) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Lost Girls](https://open.spotify.com/album/21pLZkjJiP0zaFve7FJ8wq) | 4:59 |
 | 75 | [Easy \(Switch Screens\) \[feat\. Lorde\]](https://open.spotify.com/track/2mKply9i2G0MVrkNSY0m5x) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Alternate Worlds](https://open.spotify.com/album/7fRSmnWeRIFZCZ1Ng2m5m7) | 4:22 |
 
-Snapshot ID: `MCxhN2UxMjE4YWMwM2NkNGY0NmU3YzM2YjNjNGM1NDhkNDI3YWU0NDkw`
+Snapshot ID: `MCw1NTFkZmU4MGU5MTRlYzY2ODkxMjk0ZjBlMzY0NmVmOTZjYjU2YzY2`

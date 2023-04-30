@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來支持女性音樂人的精采表現！Cover: 張若凡 \(RuoFan Chang\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,904 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,911 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [心牆](https://open.spotify.com/track/0FjrLvldGA3kiwLBxv2PSD) | [Claire Kuo](https://open.spotify.com/artist/6OiFtK426XJWnOJ2HYlSbf) | [在樹上唱歌](https://open.spotify.com/album/7q4J2UTcJJsHlaxCWnc8ih) | 3:46 |
 | 50 | [廚餘戀人](https://open.spotify.com/track/0L7QKzOa1Cz19IiBWeSaZK) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [平庸之上](https://open.spotify.com/album/4Eo1RocFVm6yPQxRCFMuJO) | 3:48 |
 
-Snapshot ID: `MCwzNDM3ODg5ZDQwZDc4NWJmMDg2Yjk1OGNjZTA0NjdhODgyYzVlMmNl`
+Snapshot ID: `MCxlMDJkMWY4MDEzOWNiY2MwYjQ0ODFiMTVjNTQxODI5YWI1MTgwNTVl`

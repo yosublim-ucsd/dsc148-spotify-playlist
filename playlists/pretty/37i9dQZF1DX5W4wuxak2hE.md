@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5W4wuxak2hE.md) - [plain]
 
 > Here's a taste of power pop\. <a href="spotify:genre:0JQ5IMCbQBLk5woFi85yOT">Click here for further discovery.</a> Cover: Cheap Trick
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,044 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,079 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5W4wuxak2hE.md) - [plain]
 | 2 | [Just What I Needed](https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:45 |
 | 3 | [Shake Some Action](https://open.spotify.com/track/0Afai8u1STCaDyTTm1gEZf) | [Flamin' Groovies](https://open.spotify.com/artist/3yesh1QeNXucaDFw8ZPKxd) | [Shake Some Action](https://open.spotify.com/album/2loCCINymjZGU1Q80ik7hP) | 4:33 |
 | 4 | [867\-5309 / Jenny](https://open.spotify.com/track/6iX1f3r7oUJnMbGgQ2gx1j) | [Tommy Tutone](https://open.spotify.com/artist/1n2LWYgwtGp7EzDapUoniE) | [Tommy Tutone \- 2](https://open.spotify.com/album/7aks5lgwJAdiZLN51UjkU1) | 3:46 |
-| 5 | [I Wanna Be Your Boyfriend](https://open.spotify.com/track/1LxLQlSDbaHlDrYBrs6ToP) | [The Rubinoos](https://open.spotify.com/artist/0ShV0veaBj1NvWRORhuwlI) | [Back to the Drawing Board](https://open.spotify.com/album/4OehtLYgz73lHtbW0pJHcb) | 3:19 |
+| 5 | [I Wanna Be Your Boyfriend](https://open.spotify.com/track/0iueV3B9MVihBSKkXybWwG) | [The Rubinoos](https://open.spotify.com/artist/0ShV0veaBj1NvWRORhuwlI) | [Back to the Drawing Board](https://open.spotify.com/album/6Ro6BmnmCWXfPwDCTGzl0y) | 3:19 |
 | 6 | [Up The Junction](https://open.spotify.com/track/1zU0kAJdEPyRs4x5gkQQER) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Cool For Cats](https://open.spotify.com/album/6BXnJVcUbSdC6E82xouYK5) | 3:11 |
 | 7 | [Yellow Pills](https://open.spotify.com/track/5FddI3pEApza2kSmc4HgUY) | [20/20](https://open.spotify.com/artist/3MBZ7cW7vbWlM9YMYaXE9n) | [20/20](https://open.spotify.com/album/7kFJeQpZGaWSU9W8TQmFVv) | 4:17 |
 | 8 | [Dream All Day](https://open.spotify.com/track/6NQ9hBc6yra6j9fMbnMTS7) | [The Posies](https://open.spotify.com/artist/5ZOh5D4MKLhU3GekPzNFam) | [Frosting On The Beater](https://open.spotify.com/album/72rfhFLb2C6Zo500hgoKq3) | 3:04 |
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5W4wuxak2hE.md) - [plain]
 | 13 | [If I Can't Change Your Mind](https://open.spotify.com/track/15WWh0s2lB6kYryjjvNxTh) | [Sugar](https://open.spotify.com/artist/4DD6xBZ1INIT3yGJRQLzej) | [Copper Blue \(Deluxe Remaster\)](https://open.spotify.com/album/4CWgGsxF6Xgiv2W1WwZSsI) | 3:18 |
 | 14 | [Some Other Time](https://open.spotify.com/track/7CSuQ0Ee9ep2e7IUo0Xll5) | [The Shazam](https://open.spotify.com/artist/6u1rAqJPUhCQnAIGmtWvhf) | [Godspeed the Shazam](https://open.spotify.com/album/3WPQ3XDiSYrnKGKtMFzRqx) | 2:48 |
 | 15 | [My Sharona](https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj) | [The Knack](https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r) | [Get The Knack](https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi) | 4:55 |
-| 16 | [When You Find Out](https://open.spotify.com/track/6UktZ99tCIaehWzPePmjq0) | [The Nerves](https://open.spotify.com/artist/298i00ena8XMnm9O3qlHtU) | [One Way Ticket](https://open.spotify.com/album/0EoY3NTQn1wLFEZ4cfSmRX) | 2:00 |
-| 17 | [Precious to Me](https://open.spotify.com/track/47bbgfGKCUmf4tWsbs9rTj) | [Phil Seymour](https://open.spotify.com/artist/2ut1VNKTLERpjYf2uljNWn) | [Phil Seymour \(Deluxe Edition\)](https://open.spotify.com/album/33Lgp5P5s6hexefPUI9woA) | 2:51 |
+| 16 | [When You Find Out](https://open.spotify.com/track/72QkCKEVHkS41Fadqeehea) | [The Nerves](https://open.spotify.com/artist/298i00ena8XMnm9O3qlHtU) | [One Way Ticket](https://open.spotify.com/album/4hfRQZOVggLENqYFyBQwRd) | 2:00 |
+| 17 | [Precious to Me](https://open.spotify.com/track/2ot04Ifqibz7PXYSy4Hvoz) | [Phil Seymour](https://open.spotify.com/artist/2ut1VNKTLERpjYf2uljNWn) | [Phil Seymour \(Deluxe Edition\)](https://open.spotify.com/album/2MYFOE5qCfNjNCTtfuGxrj) | 2:51 |
 | 18 | [What I Like About You](https://open.spotify.com/track/6NdcSEhpGGAYXNnnhGS2s6) | [The Romantics](https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE) | [What I Like About You \(And Other Romantic Hits\)](https://open.spotify.com/album/5ZwUOFZdWQ81RYMwXc4j3B) | 2:55 |
 | 19 | [I Got You](https://open.spotify.com/track/3KOPorZiKeW6gFeIViqMoq) | [Split Enz](https://open.spotify.com/artist/0Upmz8QvuLAkKAfRlJYWTL) | [True Colours](https://open.spotify.com/album/5UjwQ3co1TWY9458ojqjAj) | 3:29 |
 | 20 | [Renee Remains The Same](https://open.spotify.com/track/3nbRFWzOJrHIRh3xc53bKK) | [Material Issue](https://open.spotify.com/artist/3JqoJ9CMC1y6iLHz5zZLut) | [International Pop Overthrow](https://open.spotify.com/album/1FUKgKp6kDuZhL3e6f1ggW) | 3:16 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5W4wuxak2hE.md) - [plain]
 | 30 | [Girls Talk](https://open.spotify.com/track/7vjs7IWQlxfhlxSYsKbKB6) | [Dave Edmunds](https://open.spotify.com/artist/65Gh3BfK84aTIugiRCgLBA) | [Single Trax 1970\-1981](https://open.spotify.com/album/4Zk0R6PCTujeSb9ppg1vQi) | 3:25 |
 | 31 | [Love Songs](https://open.spotify.com/track/0zjr8DtPIz4FzaT9dzOZat) | [The Greenberry Woods](https://open.spotify.com/artist/4yzFeQUVw1XHawihi2QLXL) | [Big Money Item](https://open.spotify.com/album/1MqyATBU3g9PErFPjuqfAY) | 1:42 |
 | 32 | [Town Called Malice](https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Gift](https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG) | 2:53 |
-| 33 | [Black and White \- Don Dixon Mix](https://open.spotify.com/track/3kkRw4UoDWF6J85H6FC2dq) | [The dB's](https://open.spotify.com/artist/1CYmYyxlWBVY80Kvq5lTDg), [Don Dixon](https://open.spotify.com/artist/3LdLKmvFl65YydnIc2ZA9c) | [I Thought You Wanted to Know: 1978\-1981](https://open.spotify.com/album/0j4WgK71dkSPuK1HnWEtaI) | 2:56 |
+| 33 | [Black and White \- Don Dixon Mix](https://open.spotify.com/track/3DZK5RJDika23eg6USz39X) | [The dB's](https://open.spotify.com/artist/1CYmYyxlWBVY80Kvq5lTDg), [Don Dixon](https://open.spotify.com/artist/3LdLKmvFl65YydnIc2ZA9c) | [I Thought You Wanted to Know: 1978\-1981](https://open.spotify.com/album/53TA3hbLka28z9avcEgtzR) | 2:56 |
 | 34 | [Every Word Means No](https://open.spotify.com/track/1HipoaSYHoDxgMxwTmGxQ7) | [Let's Active](https://open.spotify.com/artist/6HRtcKFPKPw6FtbGpvQviZ) | [Every Word Means No](https://open.spotify.com/album/4EDxkB8mdhOqeVHGn2GXiu) | 2:53 |
 | 35 | [Sink to the Bottom](https://open.spotify.com/track/32uXfxJERzv4RK1gMLXbOA) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Fountains of Wayne](https://open.spotify.com/album/4I9PfbZ1ErduBZWTimzz2s) | 3:12 |
 | 36 | [Cruel to Be Kind](https://open.spotify.com/track/6k2cLXLnrAnFFqt3W6sjT8) | [Nick Lowe](https://open.spotify.com/artist/3BqaUtuQmqIHg7B5Bc7fP7) | [Labour of Lust](https://open.spotify.com/album/1gej2up6QoCmt1GeQSlKx5) | 3:30 |
@@ -55,13 +55,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5W4wuxak2hE.md) - [plain]
 | 45 | [Hold Me Up](https://open.spotify.com/track/7DfIDN6rPq46vu648YhlT6) | [Velvet Crush](https://open.spotify.com/artist/3d1zFz2gPJbDaQDTsyNmbZ) | [Teenage Symphonies To God](https://open.spotify.com/album/6N2CirqrRo0J3yrSR59ZJG) | 2:58 |
 | 46 | [What You Do To Me](https://open.spotify.com/track/6DOJgDuUVDaJ98GQxwyLTh) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Bandwagonesque](https://open.spotify.com/album/4M6vPZ4hQdOeH07D0JO2JQ) | 2:00 |
 | 47 | [Dover Beach](https://open.spotify.com/track/0BoAhTz2MEF3BnAJDvITdN) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [All Over the Place \(Expanded Edition\)](https://open.spotify.com/album/4WdNNACnrsj7CZvceyTgkN) | 3:48 |
-| 48 | [Behind The Wall Of Sleep](https://open.spotify.com/track/04PXKaJMdeD8NFz1ttQ7SN) | [The Smithereens](https://open.spotify.com/artist/06KgaEpSluofkcChSo7TNr) | [Especially For You](https://open.spotify.com/album/3dL4XWDXC0n9Z1OtebGbbD) | 3:23 |
+| 48 | [Behind The Wall Of Sleep](https://open.spotify.com/track/3JLhfc18dUWarvYctodtnv) | [The Smithereens](https://open.spotify.com/artist/06KgaEpSluofkcChSo7TNr) | [Especially For You](https://open.spotify.com/album/4TlnowwQvcYdUfIMFDbjKc) | 3:23 |
 | 49 | [Teenage Kicks](https://open.spotify.com/track/7ATyLePQnHxFk5kzxWCcsh) | [The Undertones](https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt) | [The Undertones](https://open.spotify.com/album/2CGEIN4OnLWDewCT7C4JLh) | 2:28 |
 | 50 | [Second Choice](https://open.spotify.com/track/6TBVPLlKe7U07KLzxMhv0G) | [Any Trouble](https://open.spotify.com/artist/5GdL3YywdzweoBs0So2wYM) | [Where Are All The Nice Girls](https://open.spotify.com/album/2CV9DCyTjAZ1Ouj9ry4E0z) | 2:58 |
 | 51 | [Oogum Boogum](https://open.spotify.com/track/49hCsde15bWg3UBoMgsMxU) | [Alex Chilton](https://open.spotify.com/artist/7CW5MYWUsyUYiHbiTmVZHe) | [Set](https://open.spotify.com/album/6Z2VpIyNcDFoBfRtbCWVqj) | 3:26 |
 | 52 | [Little Mascara](https://open.spotify.com/track/2gp2MEaiTOvRIWPeCxRL5Z) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Tim](https://open.spotify.com/album/1yO2d1lmmu0tkDf3trvOm7) | 3:36 |
 | 53 | [Go All The Way](https://open.spotify.com/track/75GQIYnRaBg7ndHxhfYuQy) | [Raspberries](https://open.spotify.com/artist/7Kkx4dACo6kFSeT9wjfVA5) | [Raspberries](https://open.spotify.com/album/03iBvX63qBQrMazNWU2iKv) | 3:25 |
-| 54 | [I Think We're Alone Now](https://open.spotify.com/track/2imlSz1OkvN8QyAkQ4WL2a) | [The Rubinoos](https://open.spotify.com/artist/0ShV0veaBj1NvWRORhuwlI) | [The Rubinoos](https://open.spotify.com/album/5xRZXzP4EdjJTfTXlliId1) | 2:56 |
+| 54 | [I Think We're Alone Now](https://open.spotify.com/track/7hvoyetcJ26N0123e9lhkf) | [The Rubinoos](https://open.spotify.com/artist/0ShV0veaBj1NvWRORhuwlI) | [The Rubinoos](https://open.spotify.com/album/0drPiWHpiLmSaycxwc41T6) | 2:56 |
 | 55 | [Sucked Out](https://open.spotify.com/track/4YN94yxYWFfhk9YbmOIqR4) | [Superdrag](https://open.spotify.com/artist/1UGwqiX4QA7R9hNBwzjavF) | [Regretfully Yours](https://open.spotify.com/album/6b2RjEtZ2jIYVlCkgCIW9C) | 2:46 |
 | 56 | [I Go Wild](https://open.spotify.com/track/4mipXE0NSZwqGkqv7ZoRth) | [The Three O'Clock](https://open.spotify.com/artist/3iayA3QkB3jfkUgcXqsL7C) | [Baroque Hoedown](https://open.spotify.com/album/1JVVrK1m0XY19jutSoGC1Z) | 2:49 |
 | 57 | [Another Girl Another Planet](https://open.spotify.com/track/0PDZ4Rgj36MxVgvoMv3sk5) | [The Only Ones](https://open.spotify.com/artist/16VudBYGOd9sMpOtA0szfp) | [Another Girl Another Planet The Best Of](https://open.spotify.com/album/5G4f8hTTzGH0QGqGeQjsS1) | 3:00 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5W4wuxak2hE.md) - [plain]
 | 69 | [Boys Don't Lie](https://open.spotify.com/track/3r4zJhOS92RECuCXKyCcO2) | [Shoes](https://open.spotify.com/artist/1SyCQtKtDtMfJBBKGm0A8B) | [Black Vinyl Shoes](https://open.spotify.com/album/0wOTP7wVEQqYwIVaPWqQNo) | 1:57 |
 | 70 | [Erica's Word](https://open.spotify.com/track/3zPnLX5UZgXX6eaAtSROHt) | [Game Theory](https://open.spotify.com/artist/3aCS3JvkoSr84i7ge9pA9o) | [The Big Shot Chronicles](https://open.spotify.com/album/2XauMPQuWJF0QAMBYU1kzV) | 3:54 |
 
-Snapshot ID: `MCxhZjIyN2I2MTRmM2Q5NzcxZTk5MmJjOTEzNmRkNjdlZjEzZmM3NDg2`
+Snapshot ID: `MCw1M2M3YzI3ZDMxMDA1ZWVmODBmNmRiNTE2OWIyYTUyMzMyNzNhZTNj`

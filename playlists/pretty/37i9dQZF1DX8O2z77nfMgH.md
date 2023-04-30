@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Jay Wheeler
 
-[Spotify](https://open.spotify.com/user/spotify) - 930,773 likes - 73 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 930,863 likes - 73 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 6 | [Cachorro](https://open.spotify.com/track/6MIQXJ8FIrmfUNE661f7Ph) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Cachorro](https://open.spotify.com/album/3kSWysuWqvXUbjkZoCkmPZ) | 2:55 |
 | 7 | [Quédate](https://open.spotify.com/track/2h7pX9EhOdpFSM0PEO9NYn) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Quédate](https://open.spotify.com/album/6Jf2rqjSUSC6dYTwks1g9n) | 4:07 |
 | 8 | [TUER](https://open.spotify.com/track/7v8klmTCgbUUXblgOWTZBY) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [TUER](https://open.spotify.com/album/2pObyrcegzMolYO1FfnGXl) | 2:58 |
-| 9 | [Adictivo](https://open.spotify.com/track/5UEjM0Fh4pR0k7GB8NiWbP) | [Kail BRL](https://open.spotify.com/artist/1F5KgWs6pawyDs5px23UIQ), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [One Play](https://open.spotify.com/artist/7CWDAYGiG32qhfwu7Q8zoL), [Nes](https://open.spotify.com/artist/2g70xFJ8TL299YIU9VUmfJ) | [Adictivo](https://open.spotify.com/album/3aRuaZpcga7h8UgetZ6iKw) | 4:19 |
+| 9 | [Adictivo](https://open.spotify.com/track/5UEjM0Fh4pR0k7GB8NiWbP) | [Kail BRL](https://open.spotify.com/artist/1F5KgWs6pawyDs5px23UIQ), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [One Play](https://open.spotify.com/artist/7CWDAYGiG32qhfwu7Q8zoL), [Nes](https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv) | [Adictivo](https://open.spotify.com/album/3aRuaZpcga7h8UgetZ6iKw) | 4:19 |
 | 10 | [BELLAKITA](https://open.spotify.com/track/2l58pc9aJRjkoj5RcesCJF) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [BELLAKITA](https://open.spotify.com/album/6Fj0GkKMMINezcKru5p1ju) | 2:12 |
 | 11 | [Pa que me cu](https://open.spotify.com/track/2DRMn638dDHN6IaIFgSioi) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Pa que me cu](https://open.spotify.com/album/1lY6iojhGh1DwmLn62oPkW) | 3:14 |
 | 12 | [Asesina](https://open.spotify.com/track/2MOLpaE8R8rP98fPTizwPw) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Asesina](https://open.spotify.com/album/1kP6iGltU5xfoZh7u1ipLn) | 3:17 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 25 | [Corazón](https://open.spotify.com/track/53ZLUs4cvMmPvodm3mVTPi) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:28 |
 | 26 | [Perrita](https://open.spotify.com/track/7BYMoBx5AhY4XwXiqT7oNw) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI), [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Perrita](https://open.spotify.com/album/1PLmcdRyratFio8zQkoGyd) | 2:31 |
 | 27 | [Sal Pa La Luz \- Remix](https://open.spotify.com/track/31st3khpvr0pqiVamtgey3) | [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI), [La Insuperable](https://open.spotify.com/artist/1DnmGMN1A57wUR0KhxOnnu), [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj), [Profesor Real](https://open.spotify.com/artist/46lHtGjIQFgQDfFUk926x5), [Starmac Publishing](https://open.spotify.com/artist/1qf33olqUQiZBdPaDyXlef) | [Sal Pa La Luz \(Remix\)](https://open.spotify.com/album/35WjsVRXO0D6fcMTYzzaDl) | 3:09 |
-| 28 | [Te Quiero Ver](https://open.spotify.com/track/17uzwLRZk0aly5ykvzCXum) | [Vakero](https://open.spotify.com/artist/5rlwbF5flU2JCmAzV5Obu0), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [Te Quiero Ver](https://open.spotify.com/album/1xySH08F1kG5uose1JXB5l) | 2:58 |
+| 28 | [Te Quiero Ver](https://open.spotify.com/track/17uzwLRZk0aly5ykvzCXum) | [Vakero](https://open.spotify.com/artist/5rlwbF5flU2JCmAzV5Obu0), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Mercenario Musik](https://open.spotify.com/artist/4w0UKH6rmZfPVPV0Pu6quw) | [Te Quiero Ver](https://open.spotify.com/album/1xySH08F1kG5uose1JXB5l) | 2:58 |
 | 29 | [Prométeme](https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Bolero Apocalíptico](https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti) | 3:09 |
 | 30 | [Bebe Dame](https://open.spotify.com/track/6BaE9YFxMmXVeo8vm33pdH) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Bebe Dame](https://open.spotify.com/album/5e5fMGbf8nWb0gLok4HZxC) | 2:47 |
 | 31 | [Subele el Volumen](https://open.spotify.com/track/1mvqGL0WGbn8bj9VNFUScH) | [Wanton chulito](https://open.spotify.com/artist/2Y8dw810oc7wqr6D0eWrJp), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0) | [Subele el Volumen](https://open.spotify.com/album/3d9mgBfpyeb5CK8OnRsTgo) | 3:00 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 72 | [Desandei \- Ao Vivo](https://open.spotify.com/track/6dtQM0CXRFJgD7ifUNosZj) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Desandei \(Ao Vivo\)](https://open.spotify.com/album/4WbP3dFudueQsKivG5QUI3) | 2:23 |
 | 73 | [Olho no Gato](https://open.spotify.com/track/6ZwMZUgN277HqoWaSZoFtX) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Vício Inerente](https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr) | 3:39 |
 
-Snapshot ID: `MCw5ZDg3YjYxY2UwMDJiNWNlNGM4M2Y0ZDJjOTc4NTViYWY0YjY2MWU0`
+Snapshot ID: `MCw3MmFjOWJlMDkyMWIwODU3NGNiOGVkYTQ2NDZkZDk2MThhNzBhNzFm`

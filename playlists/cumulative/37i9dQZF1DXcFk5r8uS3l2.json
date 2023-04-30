@@ -538,7 +538,7 @@
     {
       "album": {
         "name": "Adobe",
-        "url": "https://open.spotify.com/album/1jLZjlWU2HJ7S9SeydSvPZ"
+        "url": "https://open.spotify.com/album/0aiiv8JHW22I8axAVTL9jy"
       },
       "artists": [
         {
@@ -549,6 +549,24 @@
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 148853,
+      "name": "Big Bend",
+      "url": "https://open.spotify.com/track/1eBi4pRaRf2gRKcxGGpa1D"
+    },
+    {
+      "album": {
+        "name": "Adobe",
+        "url": "https://open.spotify.com/album/1jLZjlWU2HJ7S9SeydSvPZ"
+      },
+      "artists": [
+        {
+          "name": "Greyhounds",
+          "url": "https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 148853,
       "name": "Big Bend",
       "url": "https://open.spotify.com/track/6Da34y67KXjJRMtT37iSBz"
@@ -2208,7 +2226,7 @@
     {
       "album": {
         "name": "I Ran Down Every Dream",
-        "url": "https://open.spotify.com/album/62sA97QyEIuDWovqknXQ8J"
+        "url": "https://open.spotify.com/album/2k5iceeyXKhKfsSeH7QkHM"
       },
       "artists": [
         {
@@ -2223,6 +2241,28 @@
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 202933,
+      "name": "I Ran Down Every Dream",
+      "url": "https://open.spotify.com/track/15kPxt5PPzlo6RtPC82eEV"
+    },
+    {
+      "album": {
+        "name": "I Ran Down Every Dream",
+        "url": "https://open.spotify.com/album/62sA97QyEIuDWovqknXQ8J"
+      },
+      "artists": [
+        {
+          "name": "Tommy McLain",
+          "url": "https://open.spotify.com/artist/2qmpfeyFFJJeOzSF6ZJ0oo"
+        },
+        {
+          "name": "Elvis Costello",
+          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 202933,
       "name": "I Ran Down Every Dream",
       "url": "https://open.spotify.com/track/43UMMNyNRnDao4nqqXz5SL"
@@ -2280,7 +2320,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 251377,
       "name": "I'll Come Running Back To You",
       "url": "https://open.spotify.com/track/395Y07iLJOr4MryeRsK41z"
@@ -2302,6 +2342,24 @@
       "duration_ms": 251377,
       "name": "I'll Come Running Back To You",
       "url": "https://open.spotify.com/track/4rDmjHyy754Js2SaojUVjZ"
+    },
+    {
+      "album": {
+        "name": "Established 1972",
+        "url": "https://open.spotify.com/album/0trs4EF7qmHMw6qzUPTvwk"
+      },
+      "artists": [
+        {
+          "name": "The Nighthawks",
+          "url": "https://open.spotify.com/artist/3Q2L3fR3hmzSTxE5Sf9Y60"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251377,
+      "name": "I'll Come Running Back To You",
+      "url": "https://open.spotify.com/track/6dxXeEvVdW6WocdZGEDFLh"
     },
     {
       "album": {
@@ -2594,7 +2652,7 @@
     {
       "album": {
         "name": "Lethal Love",
-        "url": "https://open.spotify.com/album/0XIZh1v7SLPAow7UiJa5jZ"
+        "url": "https://open.spotify.com/album/0rWfwWI4AQrmwQ2RcrDxy4"
       },
       "artists": [
         {
@@ -2605,6 +2663,24 @@
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 186402,
+      "name": "Lethal Love",
+      "url": "https://open.spotify.com/track/2XaI8f23CJfJRn4L6xuA0o"
+    },
+    {
+      "album": {
+        "name": "Lethal Love",
+        "url": "https://open.spotify.com/album/0XIZh1v7SLPAow7UiJa5jZ"
+      },
+      "artists": [
+        {
+          "name": "Eilen Jewell",
+          "url": "https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 186402,
       "name": "Lethal Love",
       "url": "https://open.spotify.com/track/4w9gjumzSX5poNIZYypcZ3"
@@ -2799,6 +2875,24 @@
     },
     {
       "album": {
+        "name": "Lightning Kid",
+        "url": "https://open.spotify.com/album/6nmAKBKRYD7NjTJZSmWM9j"
+      },
+      "artists": [
+        {
+          "name": "Dharmasoul",
+          "url": "https://open.spotify.com/artist/0Hbb4kd4FN6f22EPNVzdSt"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223834,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/0hu3XEEvcVN5Gsn28x5xXU"
+    },
+    {
+      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/54pG43tDpcI7ViKYSKSuPk"
       },
@@ -2828,7 +2922,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 223834,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/4eqO4esVROJogbHufw59o6"
@@ -4342,7 +4436,7 @@
     {
       "album": {
         "name": "Sunshine",
-        "url": "https://open.spotify.com/album/0HyNnJrfMh3pQyjQFr5j60"
+        "url": "https://open.spotify.com/album/6l9WiIy8A7MvFZvNNGJuxY"
       },
       "artists": [
         {
@@ -4353,6 +4447,24 @@
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 309936,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1InEnV5LtvOlIi5tSp17vA"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/0HyNnJrfMh3pQyjQFr5j60"
+      },
+      "artists": [
+        {
+          "name": "Dani Wilde",
+          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 309936,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/53b1hEONbOjbiM4jrd9nPb"
@@ -5016,10 +5128,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 258482,
       "name": "Vagabond Child",
       "url": "https://open.spotify.com/track/3BmUelOQ6baSxhnjHbz3dN"
+    },
+    {
+      "album": {
+        "name": "Vagabond Child",
+        "url": "https://open.spotify.com/album/3g8APYq62pieBdh7qu1KPU"
+      },
+      "artists": [
+        {
+          "name": "Dani Wilde",
+          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258482,
+      "name": "Vagabond Child",
+      "url": "https://open.spotify.com/track/7MwMzotdcMvaLW9wKw1o8B"
     },
     {
       "album": {

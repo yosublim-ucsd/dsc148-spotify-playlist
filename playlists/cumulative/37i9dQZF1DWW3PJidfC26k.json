@@ -68,7 +68,7 @@
     {
       "album": {
         "name": "Hope",
-        "url": "https://open.spotify.com/album/6lGi8cCtoERQXSpWnb0Hmr"
+        "url": "https://open.spotify.com/album/2YNMXnSCNMOfv2bdYtthZu"
       },
       "artists": [
         {
@@ -83,6 +83,28 @@
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 340933,
+      "name": "B-Flat Ontology",
+      "url": "https://open.spotify.com/track/37vZ7N7cE9eIq3P1mKaBgi"
+    },
+    {
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/6lGi8cCtoERQXSpWnb0Hmr"
+      },
+      "artists": [
+        {
+          "name": "Ceramic Dog",
+          "url": "https://open.spotify.com/artist/2EKKgp12AZDmsFbMU59X0C"
+        },
+        {
+          "name": "Marc Ribot",
+          "url": "https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 340933,
       "name": "B-Flat Ontology",
       "url": "https://open.spotify.com/track/69pkS9mwKm0oVk9yyVLxaj"
@@ -1198,10 +1220,32 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 602520,
       "name": "The Long Goodbye",
       "url": "https://open.spotify.com/track/39frvhj8AzWzM5UfduyeDH"
+    },
+    {
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/2YNMXnSCNMOfv2bdYtthZu"
+      },
+      "artists": [
+        {
+          "name": "Ceramic Dog",
+          "url": "https://open.spotify.com/artist/2EKKgp12AZDmsFbMU59X0C"
+        },
+        {
+          "name": "Marc Ribot",
+          "url": "https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 602520,
+      "name": "The Long Goodbye",
+      "url": "https://open.spotify.com/track/6gDnRavQGA28VqNb4ESX4c"
     },
     {
       "album": {

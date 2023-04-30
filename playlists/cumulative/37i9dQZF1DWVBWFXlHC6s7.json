@@ -606,10 +606,36 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 244363,
       "name": "Moqueca",
       "url": "https://open.spotify.com/track/1i0usGuYiymo13HXahmgSU"
+    },
+    {
+      "album": {
+        "name": "Moqueca",
+        "url": "https://open.spotify.com/album/2HwJ0CA2decIfEMxfBnYwJ"
+      },
+      "artists": [
+        {
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+        },
+        {
+          "name": "Zuzuka Poderosa",
+          "url": "https://open.spotify.com/artist/7nl3XojkRg5nFB4i7t3ORp"
+        },
+        {
+          "name": "Raphael Futura",
+          "url": "https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244363,
+      "name": "Moqueca",
+      "url": "https://open.spotify.com/track/6Yj0ks8hjDNdBoaIEh4qor"
     },
     {
       "album": {

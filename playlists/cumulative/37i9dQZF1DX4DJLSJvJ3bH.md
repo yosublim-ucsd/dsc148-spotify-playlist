@@ -4,7 +4,7 @@
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-162 songs - 8 hr 47 min
+163 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [I'd Like You For Christmas](https://open.spotify.com/track/07D1vu4IHKAqviEw2XattQ) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [The Singles Collection \(Vol\. 1\)](https://open.spotify.com/album/6KABUH7jthR8bvreXPJ1yW) | 2:35 | 2022-01-03 |  |
 | [I'd Like You For Christmas \- Remastered](https://open.spotify.com/track/77n2YviId6SXAJKYmMWbeK) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Christmas With Ella & Friends](https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI) | 2:36 | 2021-12-21 | 2022-07-29 |
 | [I'd Like You For Christmas \- Remastered 2004](https://open.spotify.com/track/1usPxfLiu0aTqULCZ8qsnt) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Christmas Cocktails](https://open.spotify.com/album/4xonZTP0VW4i4FkoKEKnMl) | 2:36 | 2022-11-10 | 2022-11-13 |
+| [I'll Be Home For Christmas](https://open.spotify.com/track/0YMHnD9nApifaojmhMydoj) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [An Oscar Peterson Christmas](https://open.spotify.com/album/4lkW34BvnZk0RBZLlvDddC) | 2:49 | 2023-01-03 |  |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/5Gu9fOL58Zg9VaOoiO3jHx) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [An Oscar Peterson Christmas](https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk) | 2:49 | 2021-12-21 | 2023-04-21 |
 | [I've Got My Love To Keep Me Warm](https://open.spotify.com/track/2wWlECRmZiILJSgT5KCmxi) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Christmas With Ella & Friends](https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI) | 3:57 | 2021-12-21 | 2022-07-29 |
 | [I've Got My Love To Keep Me Warm](https://open.spotify.com/track/2paaoDgVuvkYSUG2tObf7j) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Work From Home with Billie Holiday](https://open.spotify.com/album/1JRiObzH0EaNSUzOOrhPXX) | 3:58 | 2022-11-10 | 2022-11-13 |
@@ -155,7 +156,7 @@
 | [The Twelve Days Of Christmas](https://open.spotify.com/track/3mN4d5mTIRhejm0ZjOuBVA) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [Mitchell Ayres and His Orchestra and His Chorus](https://open.spotify.com/artist/3AMhrDOLOGL9TNRQ2IbXjv) | [Christmas With Ella & Friends](https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI) | 4:01 | 2021-12-21 | 2022-07-29 |
 | [This Christmas](https://open.spotify.com/track/0chBHr9DJuSYwN5JuunfY5) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Jazz For Joy: A Verve Christmas Album](https://open.spotify.com/album/42LDbwS16YVmhtt87vgAAc) | 4:40 | 2021-12-21 | 2022-11-18 |
 | [This Winter](https://open.spotify.com/track/5vvdwmov2OAwwuNsE6qFlp) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o), [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ), [Kansas Smitty's](https://open.spotify.com/artist/7t02NhXZ77sXywJ3XghI7C) | [The Pianoman at Christmas \(The Complete Edition\)](https://open.spotify.com/album/6N2F5snTp3TZlsYZhf4qFG) | 2:53 | 2021-12-21 | 2022-07-29 |
-| [This Winter](https://open.spotify.com/track/62q9lMyhMzNH8LdEOImmeD) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o), [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ), [Kansas Smitty's](https://open.spotify.com/artist/7t02NhXZ77sXywJ3XghI7C) | [The Pianoman at Christmas \(The Complete Edition\)](https://open.spotify.com/album/0LuEO5CPU8DqYEA31cfaGV) | 2:53 | 2022-01-03 |  |
+| [This Winter](https://open.spotify.com/track/62q9lMyhMzNH8LdEOImmeD) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o), [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ), [Kansas Smitty's](https://open.spotify.com/artist/7t02NhXZ77sXywJ3XghI7C) | [The Pianoman at Christmas \(The Complete Edition\)](https://open.spotify.com/album/0LuEO5CPU8DqYEA31cfaGV) | 2:53 | 2022-01-03 | 2023-04-30 |
 | [Tis the season](https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [Tis the season](https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC) | 3:34 | 2022-11-17 |  |
 | [Up on the Housetop](https://open.spotify.com/track/2vGxnEVP4CQXSij7f2Bil9) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Christmas Time](https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt) | 1:13 | 2022-11-17 |  |
 | [Warm In December](https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Warm In December](https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM) | 2:41 | 2022-11-17 |  |

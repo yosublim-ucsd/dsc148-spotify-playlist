@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: Marshmello & Farruko
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,735,240 likes - 95 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,735,250 likes - 95 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 33 | [KLK](https://open.spotify.com/track/36B9zvERwdBR7ZtGDAqibg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a), [Joelii](https://open.spotify.com/artist/0wSQpwa2cKXukzGMH7WooV) | [KLK](https://open.spotify.com/album/2tPFlCPO1HxQ8DJFc5QLw3) | 3:10 |
 | 34 | [DINAMITA](https://open.spotify.com/track/0AfSJkWMcYgtRbNY5WbLK2) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [DINAMITA](https://open.spotify.com/album/1IP9diROj6ms7bS6bUSAns) | 2:44 |
 | 35 | [Neverita](https://open.spotify.com/track/2xms7bVgVIszeNtYCV9LVm) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc) | [Neverita](https://open.spotify.com/album/7efd1iBzVfBeVvtwh1C7hL) | 3:34 |
-| 36 | [Mírame](https://open.spotify.com/track/4CzrcuupfBN5G7KfRriA26) | [Bella Dose](https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9) | [Mírame](https://open.spotify.com/album/3xYHcuI1ir1bTvJpxfYoBN) | 3:06 |
+| 36 | [Mírame](https://open.spotify.com/track/5ye1NS6HQQjQ2PDUGm4EzE) | [Bella Dose](https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9) | [Mírame](https://open.spotify.com/album/73B3LmWNzzyZTVb7GOfWpK) | 3:06 |
 | 37 | [Tropicana \(La Noche\)](https://open.spotify.com/track/23dwwFPSWj3sH6IDAgeMh7) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Cucu Diamantes](https://open.spotify.com/artist/22GbdVx7qK79foK0sRWxTz) | [Tropicana \(La Noche\)](https://open.spotify.com/album/2NGYvRg59cNCPL8JfYZ1wX) | 3:20 |
 | 38 | [Luces](https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Luces](https://open.spotify.com/album/7rnxldpaYk6eyIZQcriFrW) | 3:45 |
 | 39 | [Flow Hijuepu](https://open.spotify.com/track/4bhJGQXbTQdw3GLNTr3RMZ) | [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [Flow Hijuepu](https://open.spotify.com/album/0q2ZHI3j41g1U1zN0bEfJ8) | 2:53 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 94 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 |
 | 95 | [A Solas \(House\)](https://open.spotify.com/track/5QhLerJoRUjlmi35DzQDd7) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Romances de una Nota 2021, Vol.2](https://open.spotify.com/album/6uEzgIGDVyYfx0yyfON43T) | 3:21 |
 
-Snapshot ID: `MCw0MGIyNTExMGU4MzY5OTAwOWVjYWNhM2VmNmNmNDFhYmY0YjNhNTJk`
+Snapshot ID: `MCw1ODc3NWRjOWQ1NjliOGQzZDJkNmI4YjYyYTllZTE2YTMxMDE1YjI4`

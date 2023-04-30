@@ -52,10 +52,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 140917,
       "name": "Ambivalence",
       "url": "https://open.spotify.com/track/2qfphPpOAkLAGr5hjBij4y"
+    },
+    {
+      "album": {
+        "name": "Precedent",
+        "url": "https://open.spotify.com/album/2yTQM7NDekBNwq2OgGWso9"
+      },
+      "artists": [
+        {
+          "name": "Sonagi",
+          "url": "https://open.spotify.com/artist/7LMdXzRix6vqLE1PefCPAg"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140917,
+      "name": "Ambivalence",
+      "url": "https://open.spotify.com/track/40CnUZ7PoaK77rSGqmx7Mi"
     },
     {
       "album": {
@@ -928,10 +946,36 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 49166,
       "name": "Neila Forever",
       "url": "https://open.spotify.com/track/0kDAjR7duweezdNqzEOvhg"
+    },
+    {
+      "album": {
+        "name": "We're Still Here",
+        "url": "https://open.spotify.com/album/71DPihEMEmNsXe05FVHJN7"
+      },
+      "artists": [
+        {
+          "name": "The Hirs Collective",
+          "url": "https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl"
+        },
+        {
+          "name": "Jeremy Bolm",
+          "url": "https://open.spotify.com/artist/5DGjzHqlmOlJl962qJJ9s1"
+        },
+        {
+          "name": "Jordan Dreyeri",
+          "url": "https://open.spotify.com/artist/7kgjZM6kPLX0DkuMq5AKVQ"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49166,
+      "name": "Neila Forever",
+      "url": "https://open.spotify.com/track/0sRMDXzVxrxIIRYjzTWmaG"
     },
     {
       "album": {
@@ -1548,10 +1592,36 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 98222,
       "name": "Waste Not Want Not",
       "url": "https://open.spotify.com/track/1Afo69VKVJqAkhuxHyHnZ1"
+    },
+    {
+      "album": {
+        "name": "We're Still Here",
+        "url": "https://open.spotify.com/album/71DPihEMEmNsXe05FVHJN7"
+      },
+      "artists": [
+        {
+          "name": "The Hirs Collective",
+          "url": "https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl"
+        },
+        {
+          "name": "Soul Glo",
+          "url": "https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan"
+        },
+        {
+          "name": "Escuela Grind",
+          "url": "https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98222,
+      "name": "Waste Not Want Not",
+      "url": "https://open.spotify.com/track/1RdagyPuSdu3ANLGWRWIxi"
     },
     {
       "album": {

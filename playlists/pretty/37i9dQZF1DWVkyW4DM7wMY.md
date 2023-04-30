@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 
 > The hottest alternative music from Nairobi to Dar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,103 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,107 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 | 69 | [I Love the Way You](https://open.spotify.com/track/5Eun2OrvZnSvzpPK5Wg5OD) | [Basthma](https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv) | [I Love the Way You](https://open.spotify.com/album/2Knjxzw1OL1HuKuzJvFt72) | 2:13 |
 | 70 | [Love Can Turn the World](https://open.spotify.com/track/7kZ3BiNXRDwXUpKWInpkBU) | [Jehovah Shalom Acapella](https://open.spotify.com/artist/0O7IVIdPRDMFsuhu5GS7ZL) | [Love Can Turn the World](https://open.spotify.com/album/1kvwgPA8Rr7AV7IKF7SsVK) | 3:11 |
 
-Snapshot ID: `MCw4NjMyMTNkY2VlZTUwY2ZiNjk2NWY0YjNkMDYxYWFmZDUwZWE5ZGQ2`
+Snapshot ID: `MCxkZTQzZjY3YmUxODI2OTQ5NTU3MjJiZDUzYzQzN2FjZjFhYzQwMmU2`

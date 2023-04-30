@@ -504,7 +504,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 166601,
       "name": "Asc. Scorpio",
       "url": "https://open.spotify.com/track/3Af0Uw9IfaJzb6ZBi2Jdl6"
@@ -2206,7 +2206,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 174706,
       "name": "Easier Said Than Done",
       "url": "https://open.spotify.com/track/7dIPEjXoxkhmNR9S7EQVJ0"
@@ -3251,6 +3251,24 @@
     },
     {
       "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213328,
+      "name": "Hospital",
+      "url": "https://open.spotify.com/track/2bt1cEwiLzcClL5bTs0ezd"
+    },
+    {
+      "album": {
         "name": "Naturally",
         "url": "https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y"
       },
@@ -3262,7 +3280,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 243760,
       "name": "How Long Do I Have to Wait for You?",
       "url": "https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma"
@@ -3341,6 +3359,28 @@
     },
     {
       "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/7iRIgmwpX7Qv1QUiCQj7pV"
+      },
+      "artists": [
+        {
+          "name": "Charles Brown",
+          "url": "https://open.spotify.com/artist/21DZF1qKLhIEpKTNvCA3tg"
+        },
+        {
+          "name": "Sleepy Creek",
+          "url": "https://open.spotify.com/artist/28YkKGShPsq7y6Pf7NKE97"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191039,
+      "name": "I Just Want To Talk To You",
+      "url": "https://open.spotify.com/track/0amEuqSuEc6YSUSQjhs5Wr"
+    },
+    {
+      "album": {
         "name": "Modern Lovers '88",
         "url": "https://open.spotify.com/album/68YRhOJHjb0wXAJYvdWEVO"
       },
@@ -3374,7 +3414,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 216901,
       "name": "I Might Be",
       "url": "https://open.spotify.com/track/5uKH4nY6ALq8jGNZ0BYlBH"
@@ -3684,7 +3724,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 146813,
       "name": "If You Don't Want My Love",
       "url": "https://open.spotify.com/track/2364WrvPTUHobDNURudCbM"
@@ -3934,7 +3974,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-28",
+      "date_removed": null,
       "duration_ms": 154000,
       "name": "It'll Be Ok",
       "url": "https://open.spotify.com/track/2YO6ZDPdQFkrOa6YYceEN4"
@@ -3988,7 +4028,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-06",
+      "date_removed": null,
       "duration_ms": 112066,
       "name": "Jumping Fences",
       "url": "https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt"
@@ -4060,7 +4100,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 188155,
       "name": "Just Like You Used To",
       "url": "https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y"
@@ -4150,7 +4190,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-04",
+      "date_removed": null,
       "duration_ms": 227369,
       "name": "Kids Fallin' In Love",
       "url": "https://open.spotify.com/track/4LPiZEE28GPCQPES6Xxy5A"
@@ -4294,7 +4334,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-22",
+      "date_removed": null,
       "duration_ms": 203589,
       "name": "Last One Standing - Radio Edit",
       "url": "https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz"
@@ -4706,7 +4746,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 179836,
       "name": "Love Is The Way",
       "url": "https://open.spotify.com/track/4Z0aGS1P0KxyPlBpqHpJ0F"
@@ -5236,7 +5276,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 168173,
       "name": "My Stove's on Fire",
       "url": "https://open.spotify.com/track/6EUcEf1l8hgFSGOzss2vU7"
@@ -6108,7 +6148,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 95972,
       "name": "Planes, Boats and Trains",
       "url": "https://open.spotify.com/track/4DHzUFdHMJRouGGJ4XqrKQ"
@@ -7027,6 +7067,24 @@
     },
     {
       "album": {
+        "name": "Strange Country",
+        "url": "https://open.spotify.com/album/5SCvT76Uwe2hN7aWqAovMH"
+      },
+      "artists": [
+        {
+          "name": "Kacy & Clayton",
+          "url": "https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178373,
+      "name": "Springtime Of The Year",
+      "url": "https://open.spotify.com/track/6k6kXOLKlxjKCkCPi4yvp9"
+    },
+    {
+      "album": {
         "name": "Jaime",
         "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
       },
@@ -7668,7 +7726,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 219884,
       "name": "The Dandelion",
       "url": "https://open.spotify.com/track/23JJ79DtsITIxMfcgYvxjY"
@@ -8280,7 +8338,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-10",
+      "date_removed": null,
       "duration_ms": 248421,
       "name": "Twennies - The Knocks Remix",
       "url": "https://open.spotify.com/track/2udzkXs8wSPiRNDmzomieS"

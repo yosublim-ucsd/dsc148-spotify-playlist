@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,193 likes - 98 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,219 likes - 98 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,15 +96,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 86 | [All Gone](https://open.spotify.com/track/55NkVwvITV119DkY4zhKEx) | [Micatone](https://open.spotify.com/artist/7yQjOE5dpqtfPCBXaHtrEj) | [The Crack](https://open.spotify.com/album/3VafpZNlfkUkYflCaCukUw) | 4:17 |
 | 87 | [What I Could Do](https://open.spotify.com/track/4kp6uyc8s2G0RVLrxmPZOz) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg), [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Love is an Army](https://open.spotify.com/album/1Q807PRrnwhyztEp63LTsz) | 4:07 |
 | 88 | [I Love You More Than You'll Ever Know](https://open.spotify.com/track/4FcpPf53TWKOrsdfX9pA5O) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Blue Again](https://open.spotify.com/album/5mIuCWBG1unPCj6YKTF16O) | 5:38 |
-| 89 | [Slow Love](https://open.spotify.com/track/1DTjDi7vp3NnYfOtOnLf5R) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp), [Saun & Starr](https://open.spotify.com/artist/6m4tJuf67jwVSvMP34hrck) | [Changes](https://open.spotify.com/album/7g7WzMzTLLOyTSzVUnJACI) | 3:38 |
+| 89 | [Slow Love](https://open.spotify.com/track/0JhPbFpBALh3B9c9njC6iB) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp), [Saun & Starr](https://open.spotify.com/artist/6m4tJuf67jwVSvMP34hrck) | [Changes](https://open.spotify.com/album/4A271CZJOcBKENslfEDsYM) | 3:38 |
 | 90 | [A Change Is Gonna Come](https://open.spotify.com/track/2RONhC3MSnfZx3P7b3csF5) | [Brian Owens](https://open.spotify.com/artist/7H5TzLxLTOrQuBuVzvll6d), [Thomas Owens](https://open.spotify.com/artist/5klnPBXrUhyAGezIS6V28F) | [A Change Is Gonna Come](https://open.spotify.com/album/5sP7f67CACltHoODXenmhw) | 4:36 |
 | 91 | [Nothing Without You](https://open.spotify.com/track/6P9qzDTlTNgtbfMLBc1ZVi) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [The Last Days of Oakland](https://open.spotify.com/album/5XgUtV3205kTcgoSLNf8ix) | 4:15 |
 | 92 | [Closer](https://open.spotify.com/track/5QqFQFSVdUeTY0xb7uehR5) | [Rebekka Bakken](https://open.spotify.com/artist/3oY7VC1i7SwfO1EhOIlc0t) | [Things You Leave Behind](https://open.spotify.com/album/34XDSyI2Yfa28pGUWQiIq0) | 3:53 |
 | 93 | [Pressure Makes Diamonds](https://open.spotify.com/track/2w8RAtIGT6Ba1TydglCWW9) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Pressure Makes Diamonds](https://open.spotify.com/album/0A9Ozy729zqiSdMVkBMizh) | 3:29 |
 | 94 | [Smile](https://open.spotify.com/track/599mXRPZpfTGaecsE1A2OQ) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Unclassified](https://open.spotify.com/album/1bzshLWwMYoSQdLXa7HZn8) | 4:53 |
 | 95 | [If There Was a Way](https://open.spotify.com/track/7h4hCfrO02xSxQs6NgBXY4) | [Rosie Flores](https://open.spotify.com/artist/112VrRSCpsoUkVgnxZvD1w) | [Simple Case of the Blues](https://open.spotify.com/album/13la0jdzx3vrRcbwf6PBXU) | 4:25 |
-| 96 | [You Were Mine](https://open.spotify.com/track/4njmTrh1kqxmPql07KKnlT) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [CHICKABOOM!](https://open.spotify.com/album/1Gke51utVy7IagtyciRGMA) | 3:43 |
+| 96 | [You Were Mine](https://open.spotify.com/track/6nleD42Dimnc5fHnpA2T2R) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [CHICKABOOM!](https://open.spotify.com/album/4PIXzf7OYpSZF7PJLMjCZu) | 3:43 |
 | 97 | [Last Goodbye](https://open.spotify.com/track/0VnXemLs18D2jcH7wXaySJ) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Turn Around](https://open.spotify.com/album/2A7jWbq8sH2XFwXc9oCxWy) | 3:56 |
 | 98 | [Something To Lose](https://open.spotify.com/track/5f43xdMK3oxObiuFNZRkNq) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5), [Amy Helm](https://open.spotify.com/artist/4LBsb3buEAjllAzNraGYtU) | [Halfway Home By Morning](https://open.spotify.com/album/42ly7pyWE5C0o3PFaMRd6e) | 4:48 |
 
-Snapshot ID: `MCwyYTBkNTM4M2E3ZDkzNGQyZDZmMWRmNzExOTlkOTM3MTJjZDNjMjgz`
+Snapshot ID: `MCw1NGFlMjk0MWY3OWU3YmI3OGZjODc1N2UyZDA2ZGU1NjkxNjk3NWEz`

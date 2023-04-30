@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 47482,
+  "num_followers": 47508,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2Y5MTViYWNjZmI0ZTUyNzYxNzY3MmRhY2JhYjE5MDk1ZWM5YjZh",
+  "snapshot_id": "MCw4ZDJlNTRhZTA2NzdkYWU1MGE0MmQ3MzA4NzIzOWUzNGU1Y2MwN2I0",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -311,22 +311,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Masterjam",
-        "url": "https://open.spotify.com/album/2myey2664YObEQ2hs2YJeE"
-      },
-      "artists": [
-        {
-          "name": "Rufus & Chaka Khan",
-          "url": "https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm"
-        }
-      ],
-      "duration_ms": 269306,
-      "name": "Do You Love What You Feel",
-      "url": "https://open.spotify.com/track/7fYozX6MaNmfHoGW7bFTdK"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of The Dazz Band",
         "url": "https://open.spotify.com/album/3wT0A6ZVGve1QkFKQrafJG"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 287000,
       "name": "Let It Whip",
       "url": "https://open.spotify.com/track/3h5IJ0EzVpkiaoL174GC3M"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Masterjam",
+        "url": "https://open.spotify.com/album/2myey2664YObEQ2hs2YJeE"
+      },
+      "artists": [
+        {
+          "name": "Rufus & Chaka Khan",
+          "url": "https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm"
+        }
+      ],
+      "duration_ms": 269306,
+      "name": "Do You Love What You Feel",
+      "url": "https://open.spotify.com/track/7fYozX6MaNmfHoGW7bFTdK"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Funk!",
-        "url": "https://open.spotify.com/album/3dZcuCcy9AfEvmvlUvsUwf"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 225424,
-      "name": "Let's Take a Ride",
-      "url": "https://open.spotify.com/track/7y3UXCIUHfFsnQp8wwuVLj"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "The Deep End",
         "url": "https://open.spotify.com/album/1BRjZuuUCqYjCDAOhMnJ29"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 212026,
       "name": "Got Me Funked Up",
       "url": "https://open.spotify.com/track/6puGnKlOsMcu5SkcEEdHkg"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Funk!",
+        "url": "https://open.spotify.com/album/3dZcuCcy9AfEvmvlUvsUwf"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 225424,
+      "name": "Let's Take a Ride",
+      "url": "https://open.spotify.com/track/7y3UXCIUHfFsnQp8wwuVLj"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Back to the Funkture",
-        "url": "https://open.spotify.com/album/6Zcd7o14QCOx32RbouEuHz"
-      },
-      "artists": [
-        {
-          "name": "Alissia",
-          "url": "https://open.spotify.com/artist/0yq0ZW3g1vX4Vsfz9wH7rO"
-        }
-      ],
-      "duration_ms": 241410,
-      "name": "Back to the Funkture",
-      "url": "https://open.spotify.com/track/1nPjlM25TcwClEvSkG712O"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "In Search Of Better Days",
         "url": "https://open.spotify.com/album/2f83h1GYlE4SrVseNnSvQ4"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 281133,
       "name": "Just Say Nothing",
       "url": "https://open.spotify.com/track/6oBOx9S6xhHbAkznP2wiNC"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Back to the Funkture",
+        "url": "https://open.spotify.com/album/6Zcd7o14QCOx32RbouEuHz"
+      },
+      "artists": [
+        {
+          "name": "Alissia",
+          "url": "https://open.spotify.com/artist/0yq0ZW3g1vX4Vsfz9wH7rO"
+        }
+      ],
+      "duration_ms": 241410,
+      "name": "Back to the Funkture",
+      "url": "https://open.spotify.com/track/1nPjlM25TcwClEvSkG712O"
     },
     {
       "added_at": "2019-08-22 14:26:16",

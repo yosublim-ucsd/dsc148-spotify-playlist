@@ -4,7 +4,7 @@
 
 > ¡A preparar la comida con la sazón de música rica y antigüita!
 
-150 songs - 9 hr 2 min
+152 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Arroz Con Frijoles](https://open.spotify.com/track/1Y7JDqUVbaHRPsLJtSY8ie) | [Grupo Fantasma](https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE) | [Sonidos Gold](https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f) | 4:01 | 2020-05-28 |  |
 | [Ay Mexicanita](https://open.spotify.com/track/15Aju7YDD1m8LEwyoJGxTX) | [Banda de los Muertos](https://open.spotify.com/artist/51oqYJcrhViS7t0O8ibl5g) | [Banda de los Muertos](https://open.spotify.com/album/2zkMyaGBpT2swb6k90jmO1) | 3:07 | 2020-05-28 |  |
 | [Bandolero](https://open.spotify.com/track/2W5KSHYdWNIyoWfohkkeoe) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI) | [Afro](https://open.spotify.com/album/686gZQgACa9yzaxIJ3FGxE) | 4:21 | 2022-01-11 | 2022-10-13 |
-| [Bandolero](https://open.spotify.com/track/6Ds432SUei6nfYwOl4io93) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI) | [Afro](https://open.spotify.com/album/4ZbQYKush5N6x7Se2GUR3I) | 4:21 | 2022-01-11 |  |
+| [Bandolero](https://open.spotify.com/track/3pZ7P4OtLKFluIWakhmvE1) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI) | [Afro](https://open.spotify.com/album/1ZtzVmhClscBsVd1pvpxXJ) | 4:21 | 2022-01-11 |  |
+| [Bandolero](https://open.spotify.com/track/6Ds432SUei6nfYwOl4io93) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI) | [Afro](https://open.spotify.com/album/4ZbQYKush5N6x7Se2GUR3I) | 4:21 | 2022-01-11 | 2023-04-30 |
 | [Batazo Batero](https://open.spotify.com/track/2sLMPlRSLlDBUiu6bECQjr) | [Los Propios Bateros](https://open.spotify.com/artist/27lsT9bLRBVy2lNW7DwmeC) | [Batazo Batero](https://open.spotify.com/album/5ajMRxW6NnJUUl3tq0WzFM) | 4:58 | 2020-05-28 |  |
 | [Bonita](https://open.spotify.com/track/0ACVN7hfM4xYLBQIIGlzx2) | [Germán Valdéz](https://open.spotify.com/artist/4b7DTJNSPg9gevcNOaWI9l), [Tintan](https://open.spotify.com/artist/5mUFdpfKhKfuRcNOVa43l4) | [Solo para Románticos \- de Mujer a Mujer](https://open.spotify.com/album/3LyPtYOOqsTIBNrg7224Pc) | 2:23 | 2022-01-11 |  |
 | [Bossa Cubana](https://open.spotify.com/track/4v4dF3Kfz2gbWEOL7eu92k) | [Los Zafiros](https://open.spotify.com/artist/20hjMyNIdXmSMFau9ZkmU6) | [15 Éxitos de los Zafiros](https://open.spotify.com/album/2h6wPeAK8c5vr6nCHxHtFj) | 2:32 | 2022-01-11 |  |
@@ -103,7 +104,8 @@
 | [Merecumbé del cantinero](https://open.spotify.com/track/2yfTxhGOsfpKHcJJiZBKTT) | [Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm) | [Antología\. \. .Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb) | 3:01 | 2020-05-28 |  |
 | [Mezcalero Feliz](https://open.spotify.com/track/6A5RAPGLBpLHa4eK5f1FDJ) | [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [San Cristóbal Baile Inn](https://open.spotify.com/album/5EFYMAtgVkG2Rd5olUHDpO) | 3:13 | 2020-05-28 | 2022-08-19 |
 | [Mezcalero Feliz](https://open.spotify.com/track/6EInadejRsCINd2KPsPHf8) | [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [San Cristóbal Baile Inn](https://open.spotify.com/album/0OwfcpwEz2zjqecITIQbVP) | 3:13 | 2020-05-28 | 2022-07-29 |
-| [Mi Swing es Tropical \- Zeb Remix](https://open.spotify.com/track/3xwJcguCWN0nHRSANZR8O8) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Zeb](https://open.spotify.com/artist/1Gw0Q0Oyi46o9Qd5oOQuv9) | [Endangered Species Remixed](https://open.spotify.com/album/2TlM03dkKtiI20cS1ODVAl) | 4:20 | 2022-01-11 |  |
+| [Mi Swing es Tropical \- Zeb Remix](https://open.spotify.com/track/3xwJcguCWN0nHRSANZR8O8) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Zeb](https://open.spotify.com/artist/1Gw0Q0Oyi46o9Qd5oOQuv9) | [Endangered Species Remixed](https://open.spotify.com/album/2TlM03dkKtiI20cS1ODVAl) | 4:20 | 2022-01-11 | 2023-04-30 |
+| [Mi Swing es Tropical \- Zeb Remix](https://open.spotify.com/track/46VTfAdEu33535BxYyHkS4) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Zeb](https://open.spotify.com/artist/1Gw0Q0Oyi46o9Qd5oOQuv9) | [Endangered Species Remixed](https://open.spotify.com/album/7FDfzktt4wIcYv98QabmFk) | 4:20 | 2022-01-11 |  |
 | [Mi Swing Es Tropical \- Zeb's Reggae Remix](https://open.spotify.com/track/4Xl51Dyvf7FNUJ0jOe0ddK) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn), [Zeb's Reggae](https://open.spotify.com/artist/1MPFjrevJZQffpYvjgSiu9) | [WonderWorld: 10 Years of Painting Outside the Lines](https://open.spotify.com/album/0Ita35pHH6xnrnH63SHP9M) | 4:20 | 2022-01-11 | 2022-10-13 |
 | [Michoacan](https://open.spotify.com/track/0U67Ro1MYCIgUUZCCsj8iw) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Court the Storm](https://open.spotify.com/album/1zTyKbpajiZZFcmHGiYArr) | 2:56 | 2022-01-11 |  |
 | [Moliendo café](https://open.spotify.com/track/4f9QsKNCb667ijEC9wJ8hs) | [La Negra Graciana](https://open.spotify.com/artist/446So3wX1wSbd6iPkVGR3X) | [Moliendo café aux Portales \(Le son de Veracruz\)](https://open.spotify.com/album/2pVE1SNgI9pR2nA446bTYn) | 3:36 | 2020-05-28 |  |

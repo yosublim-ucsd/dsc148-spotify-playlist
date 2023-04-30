@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6drTZKzZwSo.md) - [plain]
 
 > Classic funk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,214 likes - 60 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,334 likes - 60 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6drTZKzZwSo.md) - [plain]
 | 8 | [Soul With A Capital 'S'](https://open.spotify.com/track/2fEdBCtMRLHJ53fB7hQVpR) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [T.O.P.](https://open.spotify.com/album/5b0EGLtlYwZt5j6Y8tbNBn) | 4:58 |
 | 9 | [Girl Watching](https://open.spotify.com/track/0W2KbxJQrbg9nVS8oEZ4Bb) | [T\-Connection](https://open.spotify.com/artist/4zLYrCC0iBYDV8QmEYzUFS) | [Classic Masters](https://open.spotify.com/album/5sEfCUF1xi7Xkl0LkLFq5z) | 4:53 |
 | 10 | [Coleen](https://open.spotify.com/track/5dzTfHXcdHjxoJbpdy4DUu) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42), [The Dap\-Kings Horns](https://open.spotify.com/artist/4LFgxG38Y0l4Fo1gdQelay) | [How You Like Me Now EP](https://open.spotify.com/album/2GSmsujcCDqnTAIkFUdLOv) | 2:59 |
-| 11 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y) | 4:03 |
+| 11 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4) | 4:03 |
 | 12 | [Doin' It](https://open.spotify.com/track/3qQVUOHJdgIFWJd0jrG9GE) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Secrets](https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw) | 8:02 |
 | 13 | [Got To Give It Up](https://open.spotify.com/track/4JmZyfkzXWN7pHJsJpN6XP) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Favorites](https://open.spotify.com/album/4cRB1vYHEoasDzu5HN5k2D) | 6:01 |
 | 14 | [Pusherman](https://open.spotify.com/track/7zrPswSV1yxrill5OyCuaU) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly: Deluxe 25th Anniversary Edition](https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4) | 5:00 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6drTZKzZwSo.md) - [plain]
 | 59 | [You Haven't Done Nothin'](https://open.spotify.com/track/1inwt0v9a4ib9yS6Y4KsdM) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Fulfillingness' First Finale](https://open.spotify.com/album/1kda4McF274Jl5x3aOAmPJ) | 3:22 |
 | 60 | [She's A Bad Mama Jama \(She's Built, She's Stacked\) \- Single Version](https://open.spotify.com/track/653JGGOVbV5iQsCSgQcQdi) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Funk Classics The 80's](https://open.spotify.com/album/2YfukrPJcXMeU05FWVAB5Q) | 3:54 |
 
-Snapshot ID: `MCw5NTE4ZTEyYjA5YzIzOGVmZDBiYzVlM2FhZWJhNGE4NmYzNjc1YTMx`
+Snapshot ID: `MCxiZDM3YjMyNTVjYjBhOGQ5M2ZmYTFiODc4ZGFiOWU3NDhjOThkN2Nm`

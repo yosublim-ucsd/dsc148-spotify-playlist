@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Teenage Wrist
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,235 likes - 105 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,285 likes - 105 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,19 +58,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 48 | [Dancing, Alone](https://open.spotify.com/track/0RO0CjcQhTGoQsmHybVRx7) | [Ten Tonnes](https://open.spotify.com/artist/4hfrzKkUsrb3Cz209SKxbo) | [Dancing, Alone](https://open.spotify.com/album/2VXleQVQpNyoFjYIDrW9G6) | 4:05 |
 | 49 | [One Stop Shop \(For A Fading Revolution\)](https://open.spotify.com/track/5aa6n3VZmDediYoN2x9ayw) | [Twen](https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO) | [One Stop Shop](https://open.spotify.com/album/1r5vgUrqdgK4kYvddjEap9) | 3:31 |
 | 50 | [Grapefruit](https://open.spotify.com/track/332WZjqKelsZd6fLcb1Bgm) | [Country Westerns](https://open.spotify.com/artist/2OwWrhaP4RycOww0FursPt) | [Grapefruit](https://open.spotify.com/album/5F1jBHxXYhRH7r06FuV2hi) | 2:25 |
-| 51 | [Wyrmlands](https://open.spotify.com/track/4MpJnLE6lovDJw2BNrOmNJ) | [HMLTD](https://open.spotify.com/artist/0yd6o6a2MaOjsF1SglI4Hw) | [The Worm](https://open.spotify.com/album/18nFPSMXOuDuFG4zMzklTJ) | 3:51 |
+| 51 | [Wyrmlands](https://open.spotify.com/track/7Jpt1u0XR7OGLfpsMf5wjv) | [HMLTD](https://open.spotify.com/artist/0yd6o6a2MaOjsF1SglI4Hw) | [The Worm](https://open.spotify.com/album/3ilzLYEzGlpAXk8fx7z3vu) | 3:51 |
 | 52 | [Make Way](https://open.spotify.com/track/0l4s1zVinY9jEYJecDDlaQ) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Make Way](https://open.spotify.com/album/12nD6G0SKG9fB4SvWvOOEm) | 2:57 |
 | 53 | [Barley](https://open.spotify.com/track/27XmeyUl26m0KYMJx1Blsb) | [Water From Your Eyes](https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0) | [Barley](https://open.spotify.com/album/52iaofjBnrsriZOMnzijkZ) | 3:29 |
 | 54 | [Echolalia](https://open.spotify.com/track/7uECCWx2tz4T102b2QBS0p) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Echolalia](https://open.spotify.com/album/1wB9R3FzxA4LhrKF2tW11r) | 3:00 |
 | 55 | [Sick Day](https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9) | [Teen Mortgage](https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP) | [Sick Day](https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6) | 2:03 |
 | 56 | [Irreversible Damage](https://open.spotify.com/track/4MGMHnYXV1sWJLXpkw7n4z) | [Algiers](https://open.spotify.com/artist/58WFmcqNmejE2IpVIna43o), [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S) | [Shook](https://open.spotify.com/album/7KTAkz6cGXjFqpxUZIG8WH) | 4:42 |
 | 57 | [Pressure Cooker \[Feat\. Mannequin Pussy\] \- Remix](https://open.spotify.com/track/6kyQGUWTewUuT5dlINrdLP) | [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6), [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Pressure Cooker \(Remix\) \[Feat Mannequin Pussy\]](https://open.spotify.com/album/3lY3lCj482eRmJi5K3fXOP) | 3:15 |
-| 58 | [vertigo](https://open.spotify.com/track/37QxBluoFPXI230lb27OwZ) | [Billy Nomates](https://open.spotify.com/artist/0QJaBD8Piha8IEwKtNpBOB) | [CACTI](https://open.spotify.com/album/3ydLktsjKvKeWx5V4NdnnR) | 2:45 |
-| 59 | [Thin Air](https://open.spotify.com/track/5oF81W6YniYDtd2MjkUd3n) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6), [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [GIZMO](https://open.spotify.com/album/269FeWvV32RFMhsmfNg1yd) | 3:34 |
-| 60 | [Dreamsickle](https://open.spotify.com/track/5hhYYTvx7PkLMCABivfYVS) | [Wombo](https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4) | [Dreamsickle](https://open.spotify.com/album/54uFsfnaWKjg2r4ZjyGx1O) | 2:27 |
+| 58 | [vertigo](https://open.spotify.com/track/4P0ap7JtuISR0QqtIK9JZD) | [Billy Nomates](https://open.spotify.com/artist/0QJaBD8Piha8IEwKtNpBOB) | [CACTI](https://open.spotify.com/album/5yxbBuZfpB3yMoUQqdwOjz) | 2:45 |
+| 59 | [Thin Air](https://open.spotify.com/track/6zuqI8QSazQ6850pxx2IU5) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6), [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [GIZMO](https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1) | 3:34 |
+| 60 | [Dreamsickle](https://open.spotify.com/track/4mBApNWombE2NU9npSt8TR) | [Wombo](https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4) | [Dreamsickle](https://open.spotify.com/album/6VD6gN1xNDK9fLNVmi991w) | 2:27 |
 | 61 | [Emerson](https://open.spotify.com/track/1C6xfW2M2qUzo0ZxF9KboZ) | [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [Emerson](https://open.spotify.com/album/3jYiswZDTFrbDZI3bYzfWq) | 4:02 |
 | 62 | [Gettin' In The Way](https://open.spotify.com/track/1roUIc6mekrsZXcTveHhBe) | [Cooper T](https://open.spotify.com/artist/7t6usUnb0OZ2r0pi3nvdmB) | [Gettin' In The Way](https://open.spotify.com/album/3DOtxFD10eo8rhwGyvKjDC) | 3:38 |
-| 63 | [Life in the Void](https://open.spotify.com/track/3PZWApSYXue8hahOGd6o2f) | [The Reds, Pinks and Purples](https://open.spotify.com/artist/5onPoueRGS17tA2CcceUiz) | [The Town That Cursed Your Name](https://open.spotify.com/album/2gp5BvkFNT3urcXjtZ22fs) | 2:40 |
+| 63 | [Life in the Void](https://open.spotify.com/track/0b8fkzdUPsz0cVmQlTqs71) | [The Reds, Pinks and Purples](https://open.spotify.com/artist/5onPoueRGS17tA2CcceUiz) | [The Town That Cursed Your Name](https://open.spotify.com/album/4bjPoNmAvTSTURJ7PWP0B6) | 2:40 |
 | 64 | [ENTITLED MAN](https://open.spotify.com/track/7Gak6IaDN5PsalA9W5TLez) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [ENTITLED MAN](https://open.spotify.com/album/49Ar7KlbIoX8XasFMYVfdp) | 2:25 |
 | 65 | [Soccer Mommy](https://open.spotify.com/track/7Eh51PbeKl19zS1dzWpTsO) | [Shalom](https://open.spotify.com/artist/5CgUSK3nZJAv90N00E6gj5) | [Soccer Mommy](https://open.spotify.com/album/4R3TpyRzegSa4DHpvmDqe5) | 1:53 |
 | 66 | [Expendables](https://open.spotify.com/track/018a6ONxjnDfhweFiYNNTr) | [Fake Names](https://open.spotify.com/artist/4NfSqwWc96WkRxN1LeFXGx) | [Expendables](https://open.spotify.com/album/1QgMwxUPs0zNZmbp2hE08U) | 2:18 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 75 | [The Plan](https://open.spotify.com/track/4fX12mnkzMuoAfxO2vo5T2) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Today & Tomorrow](https://open.spotify.com/album/7A6aNtppf2VKZE9xTnvm7z) | 2:19 |
 | 76 | [Road](https://open.spotify.com/track/6f5OzmQxiXh6viB0WQP1C2) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Thirst](https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1) | 5:18 |
 | 77 | [how would you know](https://open.spotify.com/track/6kH4hgCLFiVuP9JVQnAucy) | [second thoughts](https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX) | [how would you know](https://open.spotify.com/album/34ChaoZSb0SXAjY07xKJbr) | 2:57 |
-| 78 | [Loops](https://open.spotify.com/track/2tmWR0E3FQTquGK7vYnkwN) | [Pile](https://open.spotify.com/artist/44pUNjqg4mExLyFHnB3Bqf) | [Loops](https://open.spotify.com/album/6kuYVLpEUv7nbDfsWO4Det) | 3:32 |
+| 78 | [Loops](https://open.spotify.com/track/5GgeEPCGwqoWxd6gzptHeB) | [Pile](https://open.spotify.com/artist/44pUNjqg4mExLyFHnB3Bqf) | [All Fiction](https://open.spotify.com/album/1sYIZ1azBbZd7AyznM3ulP) | 3:32 |
 | 79 | [kill you](https://open.spotify.com/track/67zugn57NW0eFNM3DL4IxD) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [kill you](https://open.spotify.com/album/1nHCdR0VOXjVSv7ei3PD3x) | 3:07 |
 | 80 | [Tired Vibes](https://open.spotify.com/track/48vUHZLbzwgr9kgAUbYhzz) | [DUDE, MY DUDE](https://open.spotify.com/artist/4v7JZCmpK8HUCeqadGBeuF) | [Tired Vibes](https://open.spotify.com/album/5U2iECSjFWm0q26RelJ0yE) | 3:08 |
 | 81 | [Almost Everything](https://open.spotify.com/track/6zj2ESvjOkDt1m32Y8SpLa) | [Mudhoney](https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9) | [Plastic Eternity](https://open.spotify.com/album/7fZmi0BsBSDhX9AwQmJdb7) | 4:24 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 104 | [Tidal River](https://open.spotify.com/track/2IAWpK4ez7m987Xxy5hGMl) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Endless Rooms](https://open.spotify.com/album/2inG3MxvNhZYd808mnhbOW) | 4:26 |
 | 105 | [Head On](https://open.spotify.com/track/42vq2Ww3BMk7HE8iL6yWF4) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG), [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Head On](https://open.spotify.com/album/4spRalyH6f1l2kRMxUbU19) | 2:38 |
 
-Snapshot ID: `MCxhZTMyMjQyOWI3NTI1ZmE3ZDgyN2E1YzYxNTVjZjBlNTcwMzYyNzg2`
+Snapshot ID: `MCwyN2Q2MjgwMTFkNjk2ZDc2YWE0MmNlMzEzNGVlMzQ0MzRjMjJhZmQ3`

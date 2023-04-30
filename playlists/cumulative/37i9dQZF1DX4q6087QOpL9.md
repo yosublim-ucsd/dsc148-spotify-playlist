@@ -4,7 +4,7 @@
 
 > That real soulful house sound\. Cover: Kerri Chandler
 
-143 songs - 17 hr 6 min
+144 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Inspiration](https://open.spotify.com/track/202tI4GzvovvGhMbqgmXDQ) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [Arnold Jarvis](https://open.spotify.com/artist/7KWmHJx8szSRWhzUHluYC5) | [House Classics V \(Presented by Harley & Muscle\)](https://open.spotify.com/album/7h7XZ78QlYAgRh69VlG3L9) | 6:12 | 2022-09-13 |  |
 | [Into My Life \- Roots Mix](https://open.spotify.com/track/3lVQjR2V8Zjz1thimpgor8) | [Elements Of Life](https://open.spotify.com/artist/7mh2KTUbqQROMaiSohjL8t), [Lisa Fischer](https://open.spotify.com/artist/75NLTo547GvC8W5gmRDLLn) | [Timeless Vol\. 4](https://open.spotify.com/album/4fl5mvQpEBICZVHFCE01OU) | 9:37 | 2022-09-13 |  |
 | [It's Alright, I Feel It](https://open.spotify.com/track/15coSKNGG21bUKZpJ2Lv6N) | [Nuyorican Soul](https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [Nuyorican Soul](https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L) | 3:18 | 2022-09-13 |  |
-| [Je Ka Jo \- Demo Mix](https://open.spotify.com/track/5RGKbXRXDew74wtFsNwSuZ) | [Joaquin "Joe" Claussell](https://open.spotify.com/artist/3VMySRm8fO4XQIDfEnVlro) | [Turntables on the Hudson: Twenty Years of Good Vibes \(20 Year Anniversary\)](https://open.spotify.com/album/3DOPqkVGLObaxnNhc7GMwI) | 7:27 | 2022-09-13 |  |
+| [Je Ka Jo \- Demo Mix](https://open.spotify.com/track/1IlYrlylgU4hsdnMNlyWES) | [Joaquin "Joe" Claussell](https://open.spotify.com/artist/3VMySRm8fO4XQIDfEnVlro) | [Turntables on the Hudson: Twenty Years of Good Vibes \(20 Year Anniversary\)](https://open.spotify.com/album/5sgsO9BDA1z8DTNa5kXIkv) | 7:27 | 2023-03-07 |  |
+| [Je Ka Jo \- Demo Mix](https://open.spotify.com/track/5RGKbXRXDew74wtFsNwSuZ) | [Joaquin "Joe" Claussell](https://open.spotify.com/artist/3VMySRm8fO4XQIDfEnVlro) | [Turntables on the Hudson: Twenty Years of Good Vibes \(20 Year Anniversary\)](https://open.spotify.com/album/3DOPqkVGLObaxnNhc7GMwI) | 7:27 | 2022-09-13 | 2023-04-30 |
 | [Jus Dance](https://open.spotify.com/track/3bNf9uutsm3cbPs2LnrlVW) | [Mr V](https://open.spotify.com/artist/42gpwkOlK8m00RBmB54sQD) | [WELCOME HOME](https://open.spotify.com/album/2fBXchCWGXcGViKCTRG3Bi) | 6:55 | 2022-09-13 |  |
 | [Kathy Brown Happy People Knee Deep's to L.B\. Dub \- Knee Deep's to L.B\. Dub](https://open.spotify.com/track/6vQ92IeQktoyuy4wwalsp6) | [Kathy Brown](https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq) | [Easy Street Classics \- Remixes From Across the Pond \- Vol\. 1](https://open.spotify.com/album/6YxUTTGa3DCVqwFHeX0hxZ) | 7:20 | 2022-09-13 |  |
 | [Kissing Strangers \- Ralf GUM & CrisP Club Mix](https://open.spotify.com/track/1y8atHf1XO3GLyUSo8vJuq) | [Ralf Gum](https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN), [Monique Bingham](https://open.spotify.com/artist/2DpGG0b6Rt9q69o8Rk1DCa), [CrisP](https://open.spotify.com/artist/0POeOxJJvcarctw18FLTMJ) | [Kissing Strangers](https://open.spotify.com/album/5dOouQAVL4EmZ2TYfcpZyj) | 7:46 | 2022-09-13 |  |

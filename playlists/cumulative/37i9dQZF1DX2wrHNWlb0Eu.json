@@ -288,7 +288,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-03",
+      "date_removed": null,
       "duration_ms": 280779,
       "name": "\u0e01\u0e30\u0e17\u0e31\u0e19\u0e2b\u0e31\u0e19",
       "url": "https://open.spotify.com/track/71rZCPjOAU8WBlXYPHNgRu"
@@ -350,6 +350,28 @@
       "duration_ms": 296000,
       "name": "\u0e02\u0e49\u0e32\u0e07\u0e01\u0e31\u0e19 (City)",
       "url": "https://open.spotify.com/track/3vdZ30MzgeTe5PiJXEmqjr"
+    },
+    {
+      "album": {
+        "name": "\u0e01\u0e25\u0e31\u0e27",
+        "url": "https://open.spotify.com/album/4KpElpE1zjE2AQqxr1H93k"
+      },
+      "artists": [
+        {
+          "name": "Tony Phee",
+          "url": "https://open.spotify.com/artist/3e9fZ7KYeCdQg3iEBFbFJN"
+        },
+        {
+          "name": "Q Flure",
+          "url": "https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291586,
+      "name": "\u0e04\u0e19\u0e17\u0e35\u0e48\u0e41\u0e2a\u0e19\u0e14\u0e35",
+      "url": "https://open.spotify.com/track/0jKVrsyHlyEhH1JyKE45iT"
     },
     {
       "album": {
@@ -472,7 +494,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 252000,
       "name": "\u0e08\u0e30\u0e1a\u0e2d\u0e01\u0e40\u0e18\u0e2d\u0e27\u0e48\u0e32\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/0S7lzjAbf1BMeFMSuYvnlC"
@@ -490,7 +512,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 220000,
       "name": "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e30\u0e08\u0e30\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/0ntdviIRIuOlRFnEZLWqNR"
@@ -526,7 +548,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-27",
+      "date_removed": null,
       "duration_ms": 246904,
       "name": "\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e44\u0e1b\u0e08\u0e19\u0e19\u0e34\u0e23\u0e31\u0e19\u0e14\u0e23\u0e4c",
       "url": "https://open.spotify.com/track/4Sm3ufM7YPRyY1ElbMCWqZ"
@@ -798,7 +820,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 254500,
       "name": "\u0e15\u0e48\u0e2d\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e17\u0e38\u0e01\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e30\u0e40\u0e1b\u0e47\u0e19\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d\u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19",
       "url": "https://open.spotify.com/track/315ar0QJiyciYkdVJUGA3w"
@@ -878,6 +900,28 @@
       "duration_ms": 246434,
       "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e04\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 OST.\u0e1a\u0e38\u0e1e\u0e40\u0e1e\u0e2a\u0e31\u0e19\u0e19\u0e34\u0e27\u0e32\u0e2a 2",
       "url": "https://open.spotify.com/track/6GDIW3Le2tM0hMWD3pvefH"
+    },
+    {
+      "album": {
+        "name": "Urban Lullaby",
+        "url": "https://open.spotify.com/album/5DerPlnethQIosWrjBRR6p"
+      },
+      "artists": [
+        {
+          "name": "Lula",
+          "url": "https://open.spotify.com/artist/6Gymwy9eHYItH2v7MYPRjB"
+        },
+        {
+          "name": "Tar Paradox",
+          "url": "https://open.spotify.com/artist/2f5oej9D24zxBJ0cyDSNgJ"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227186,
+      "name": "\u0e17\u0e30\u0e40\u0e25\u0e2a\u0e35\u0e14\u0e33",
+      "url": "https://open.spotify.com/track/3JZQmfiIzj1G8jLi6GnL2Y"
     },
     {
       "album": {
@@ -1044,7 +1088,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 230000,
       "name": "\u0e1b\u0e35\u0e19\u0e35\u0e49\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e40\u0e2b\u0e07\u0e32\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27\u0e41\u0e25\u0e49\u0e27\u0e42\u0e27\u0e49\u0e22",
       "url": "https://open.spotify.com/track/0jfh6PNB5GBg094Ilg84yG"
@@ -1138,7 +1182,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 183498,
       "name": "\u0e1e\u0e30\u0e08\u0e31\u0e19",
       "url": "https://open.spotify.com/track/63b22ti1AAmGyAR1OpqUmi"
@@ -1320,6 +1364,24 @@
       "duration_ms": 197684,
       "name": "\u0e23\u0e31\u0e01\u0e01\u0e47\u0e23\u0e31\u0e01\u0e14\u0e34 - From \"Cutie Pie 2 You\"",
       "url": "https://open.spotify.com/track/021DOGAOsU2WrJ5Gii9hFZ"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d (ONLY YOU) [From \u0e04\u0e48\u0e2d\u0e22\u0e46\u0e23\u0e31\u0e01 Step By Step]",
+        "url": "https://open.spotify.com/album/2wUwCV2FwZQAzmjMBNneM2"
+      },
+      "artists": [
+        {
+          "name": "ATLAS",
+          "url": "https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d (ONLY YOU) - From \u0e04\u0e48\u0e2d\u0e22\u0e46\u0e23\u0e31\u0e01 Step By Step",
+      "url": "https://open.spotify.com/track/430P9zwgo2Nv56Znbzg3LB"
     },
     {
       "album": {
@@ -1540,7 +1602,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 244200,
       "name": "\u0e40\u0e18\u0e2d\u0e17\u0e31\u0e49\u0e07\u0e19\u0e31\u0e49\u0e19",
       "url": "https://open.spotify.com/track/0B8jGlEYFOQT3USwSr5yX3"
@@ -1836,7 +1898,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 229500,
       "name": "\u0e41\u0e04\u0e48\u0e19\u0e35\u0e49...\u0e1e\u0e2d",
       "url": "https://open.spotify.com/track/41TfjScHItR0d1k1N9tSr6"
@@ -1854,7 +1916,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 233000,
       "name": "\u0e41\u0e04\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e44\u0e1b\u0e40\u0e14\u0e34\u0e19\u0e40\u0e15\u0e30\u0e04\u0e25\u0e37\u0e48\u0e19\u0e17\u0e30\u0e40\u0e25\u0e14\u0e49\u0e27\u0e22\u0e01\u0e31\u0e19",
       "url": "https://open.spotify.com/track/4vLs8BDqK1JtpJdrgrriX6"
@@ -1956,6 +2018,28 @@
       "duration_ms": 240225,
       "name": "\u0e42\u0e23\u0e41\u0e21\u0e19\u0e15\u0e34\u0e01 (Romantic)",
       "url": "https://open.spotify.com/track/4aPu6Tpvp4h8vNcyrC0sqU"
+    },
+    {
+      "album": {
+        "name": "LA LUNE",
+        "url": "https://open.spotify.com/album/1PEBaeuKlP7CBC9Skg78Yg"
+      },
+      "artists": [
+        {
+          "name": "Zom Marie",
+          "url": "https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB"
+        },
+        {
+          "name": "\u0e42\u0e2d\u0e4a\u0e15 \u0e1b\u0e23\u0e32\u0e42\u0e21\u0e17\u0e22\u0e4c",
+          "url": "https://open.spotify.com/artist/3U0TobFQX3KeTbCfxcuoSw"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194500,
+      "name": "\u0e42\u0e25\u0e01\u0e2d\u0e35\u0e01\u0e43\u0e1a",
+      "url": "https://open.spotify.com/track/0OPcptseBfeBIUai6JLOLd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 
 > The latest in gamer music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,010,268 likes - 72 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,010,378 likes - 72 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 | 71 | [Tarantino](https://open.spotify.com/track/4JfaAGQUBwFU886lRnPQIQ) | [Teflon Sega](https://open.spotify.com/artist/0JFKmdLuTj0yZi9P05a85X), [OZZIE](https://open.spotify.com/artist/1ZyteyKrx7qwKMwFYLAB1p) | [Tarantino](https://open.spotify.com/album/4YFETS96ebbE1JzttOofco) | 3:41 |
 | 72 | [NO MIND](https://open.spotify.com/track/11TC5EbqUIyQSA0utzM3eI) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME) | [NO MIND](https://open.spotify.com/album/0D7pULV8tSbrBkwulGpT9b) | 2:52 |
 
-Snapshot ID: `MCw0NmYzMjEyZThhZjc0Y2EwMTJlYTQwYzA5OTVmNGRiMjRjZTBhZTNj`
+Snapshot ID: `MCxhZWYzMmI1YjM3YzhiMWZhZGFjODhiNjRhYmZjZDFlNzdkNGU0NzI5`

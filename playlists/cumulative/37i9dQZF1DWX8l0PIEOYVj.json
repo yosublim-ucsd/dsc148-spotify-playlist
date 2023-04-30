@@ -78,7 +78,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 236800,
       "name": "Afraid To Love",
       "url": "https://open.spotify.com/track/0jNC36dKx4iqoOZ0fb49aJ"
@@ -2271,6 +2271,24 @@
     },
     {
       "album": {
+        "name": "Fight It",
+        "url": "https://open.spotify.com/album/7Muw30FkYabhPMhpJtnrm4"
+      },
+      "artists": [
+        {
+          "name": "Wavedash",
+          "url": "https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Fight It",
+      "url": "https://open.spotify.com/track/1OI3U2W6ZoRU700lOP0lwt"
+    },
+    {
+      "album": {
         "name": "Fight Or Flight",
         "url": "https://open.spotify.com/album/6i4ZtLtwQZj3BW4DIRIabC"
       },
@@ -2432,7 +2450,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 190546,
       "name": "Flare",
       "url": "https://open.spotify.com/track/4CmHVTshjFsRm89G0rPRTF"
@@ -3891,6 +3909,28 @@
     },
     {
       "album": {
+        "name": "Unity",
+        "url": "https://open.spotify.com/album/2AhomobPIGZiBZodF1cVEg"
+      },
+      "artists": [
+        {
+          "name": "Ganja White Night",
+          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+        },
+        {
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354398,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/7t8CvVE94EfqdF1tdidNr0"
+    },
+    {
+      "album": {
         "name": "It's All You",
         "url": "https://open.spotify.com/album/3PJHOz8SBtwsQxjbKLqLne"
       },
@@ -5136,6 +5176,32 @@
       "duration_ms": 207000,
       "name": "Open Road (feat. Rico & Miella)",
       "url": "https://open.spotify.com/track/5OWt21Fcte8qlNuf9r0fVI"
+    },
+    {
+      "album": {
+        "name": "ILLENIUM",
+        "url": "https://open.spotify.com/album/0ValflNlWce21wm5PlwV60"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "Vera Blue",
+          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211592,
+      "name": "Other Side",
+      "url": "https://open.spotify.com/track/2pHTtI2tvEjGJvwJyDyCpy"
     },
     {
       "album": {
@@ -7616,7 +7682,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 266470,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/4OecGYEp7UPOrhrt2IhQ0o"

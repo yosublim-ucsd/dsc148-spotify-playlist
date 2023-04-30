@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Swollen Teeth
 
-[Spotify](https://open.spotify.com/user/spotify) - 683,300 likes - 64 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 683,428 likes - 64 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 15 | [Skeleton Psalm](https://open.spotify.com/track/3HinQALTsHpsm4zwvUZ4fY) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Skeleton Psalms](https://open.spotify.com/album/7Gwi1nBnbHPcsTMu12IUfx) | 3:50 |
 | 16 | [Standing in Flames](https://open.spotify.com/track/4mOlPgwtxK6PeCZxIKxOmR) | [Savage Existence](https://open.spotify.com/artist/5lYpdXpc0hJoXXMac4VUok) | [Savage Existence](https://open.spotify.com/album/2fAWVZSkuzoJvVHTaQ1FtI) | 4:34 |
 | 17 | [Herdchant](https://open.spotify.com/track/7xW3N3ApfTSAo1HCQ0WM4D) | [Elvenking](https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB) | [Reader of the Runes \- Rapture](https://open.spotify.com/album/02YyhNf4V9EVBU2fpGGBrj) | 5:17 |
-| 18 | [How To Hate Again](https://open.spotify.com/track/5xAB2RM77CJiJGY7KqOXM6) | [Rave The Reqviem](https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX), [Jake E](https://open.spotify.com/artist/378C5h1yWBq14i7VKXhVv8) | [How To Hate Again](https://open.spotify.com/album/7FTUgzYB4Rn55a9oQcNkbN) | 2:58 |
+| 18 | [How To Hate Again](https://open.spotify.com/track/5xAB2RM77CJiJGY7KqOXM6) | [Rave The Reqviem](https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX), [Jake E](https://open.spotify.com/artist/4Tizsulzk99AC2T1ZFm7Mx) | [How To Hate Again](https://open.spotify.com/album/7FTUgzYB4Rn55a9oQcNkbN) | 2:58 |
 | 19 | [PSYCHO](https://open.spotify.com/track/4Qg3SLccoOj9ycDCcm403w) | [Chris Turner](https://open.spotify.com/artist/58sBIaSMMZUOlBs4dQblGJ), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX), [Mitchell Rogers](https://open.spotify.com/artist/1KZPE2OSMRIYluCG6545FK) | [PSYCHO](https://open.spotify.com/album/2u90D6mmoAi2MPg2rkEOiM) | 3:20 |
 | 20 | [The World Without Us](https://open.spotify.com/track/6yOmF7bdf6AiNg2JQg9wvO) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [The World Without Us](https://open.spotify.com/album/460v1TmTbmq7E4zy12pYdE) | 6:38 |
 | 21 | [Dunes](https://open.spotify.com/track/3jqcqtRDRDCVrFlxDVlTy1) | [Ignea](https://open.spotify.com/artist/7E7V95LId9MPJ6anIK1qrM) | [Dreams of Lands Unseen](https://open.spotify.com/album/6XWfpy136uE8zuWeTyyPwF) | 4:23 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 63 | [Inquisition](https://open.spotify.com/track/6KgYfhfzzWK910JPf5pGXV) | [Defiled](https://open.spotify.com/artist/6KDc0SB4ero6zAgrafjVrt) | [The Highest Level](https://open.spotify.com/album/6SxXtudRnAH2ZqpEgvcJGe) | 3:39 |
 | 64 | [War Vessel](https://open.spotify.com/track/5l8Q5Cx41rBPy400hBMNL3) | [Astralborne](https://open.spotify.com/artist/45l3HSYbJXF1odSKY3UbTO) | [War Vessel](https://open.spotify.com/album/3jJx8sJEP9B5i7D8FygUHP) | 4:55 |
 
-Snapshot ID: `MCxhOTY0NmRiMjYwOWMwOWUwOTc1NTljODU4YmM5ZDkwM2I5NzYyNjMy`
+Snapshot ID: `MCw1YTFiZWQxZWU2NjMwMTkzY2U4MTNiMTU1MzBmN2FiNmU3NmZiODU5`

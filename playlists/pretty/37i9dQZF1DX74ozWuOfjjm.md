@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to the women of Au & NZ at full volume! Cover: Charley
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,055 likes - 89 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,053 likes - 89 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 77 | [Dance Again](https://open.spotify.com/track/3qTvzLD55cCR6p3sn5KsIz) | [Ashli](https://open.spotify.com/artist/2T0p9A9mK7wpiXNrSb2jP9) | [Only One](https://open.spotify.com/album/4g8qdFZN6YUdrQJnSWRJhC) | 3:11 |
 | 78 | [Stained Glass Love](https://open.spotify.com/track/5d8HnEi996KfVq0svmeeb0) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Stained Glass Love](https://open.spotify.com/album/3pqjmCTohneJF9XiI9b0RF) | 5:54 |
 | 79 | [Ur So Annoying](https://open.spotify.com/track/0qwsNyrQFx5hXt9mxmOHzw) | [Jupita](https://open.spotify.com/artist/20dEUQqgrMGEybe0K79QpF) | [Ur So Annoying](https://open.spotify.com/album/3ameCWDwidBX4sVAmbahMc) | 2:38 |
-| 80 | [Expert In A Dying Field](https://open.spotify.com/track/7v5SMNpbt9eaO7dFHGoXLZ) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 4:11 |
+| 80 | [Expert In A Dying Field](https://open.spotify.com/track/1bPcxJHusTrlr2Kj4kjK7e) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y) | 4:11 |
 | 81 | [Closer](https://open.spotify.com/track/3OBpUFjf9F2fLtYkHg7T3w) | [Haywood](https://open.spotify.com/artist/3rFhVqmS6XqZl4LcGLDzAu) | [Pressure On My Heart](https://open.spotify.com/album/6WZmNEImJwmXCbQGuvuHj5) | 3:05 |
 | 82 | [Flood](https://open.spotify.com/track/6WstYKyrp8qkVBNtpcvaO1) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Flood](https://open.spotify.com/album/3un2FDbZwuK5JidL4OFaTW) | 3:43 |
 | 83 | [In the Honey](https://open.spotify.com/track/7KuNVVevScN5KWpacqZ5Cc) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [In the Honey](https://open.spotify.com/album/0g0F2dO7X1lWqvA8mGTznq) | 2:53 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 88 | [By The Sea](https://open.spotify.com/track/0MT743d5eAbybSc1Sl0stR) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [I Don't Know Who to Call](https://open.spotify.com/album/5pkjDurY5mqnXnNTyO2u7P) | 4:16 |
 | 89 | [Fuchsia](https://open.spotify.com/track/7ajZkDJdNaSW1sUfKw5eqs) | [Ngaiire](https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY) | [Fuchsia](https://open.spotify.com/album/2onOvDQi5KfgLHGMsxtd5f) | 3:24 |
 
-Snapshot ID: `MCxlMWIyZDg3YTFlOGNkNzgzODI3MGEyZTI3Yzc5ZmZkNDdkOTlkZGRi`
+Snapshot ID: `MCw2YmIxYTA5MjZjMDI3ZTEwNTc3MzFhYTEwNzNiODQzYzRkMGU4OTAy`

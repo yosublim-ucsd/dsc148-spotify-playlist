@@ -4,7 +4,7 @@
 
 > All your favorite Disney songs wrapped up with love!
 
-101 songs - 5 hr 4 min
+102 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,9 +52,10 @@
 | [In a Heartbeat](https://open.spotify.com/track/50aQzxo1D1emR771D3qxgc) | [Frankie Rodriguez](https://open.spotify.com/artist/4c1j4vQueDvjOFPNr2aJ2e), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [High School Musical: The Musical: The Series \(Original Soundtrack/Season 2\)](https://open.spotify.com/album/5j8ccf2ePPuzngz8j1xcVM) | 3:01 | 2022-06-16 |  |
 | [Kiss the Girl](https://open.spotify.com/track/4HGIPyqDxSf863tPOwXiLJ) | [Samuel E\. Wright](https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 2:43 | 2022-07-07 |  |
 | [Kiss the Girl \- Remastered 2014](https://open.spotify.com/track/29kqQnDKgvZUmhMfask65n) | [Samuel E\. Wright](https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX) | [Walt Disney Records The Legacy Collection: The Little Mermaid](https://open.spotify.com/album/5wNgbGjM7e2xKTHoCJ9brn) | 2:40 | 2022-03-16 | 2022-07-29 |
+| [La vie en rose \- Single Version](https://open.spotify.com/track/0zDVclPMSsjeyvbnqhWOmt) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Satchmo Serenades](https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc) | 3:23 | 2023-02-09 |  |
 | [La vie en rose \- Single Version](https://open.spotify.com/track/3e8bQYmhna1rnrVIEBuIg2) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [WALL\-E](https://open.spotify.com/album/6ML1fFTZ11DcCjS6PPnbaB) | 3:24 | 2022-03-16 | 2022-07-29 |
 | [La vie en rose \- Single Version](https://open.spotify.com/track/541kGNeBBWilXUDjIagIYO) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [French Cafe](https://open.spotify.com/album/4Nhg2RiTf4USiTqAKsGL3z) | 3:25 | 2022-09-15 | 2022-11-13 |
-| [La vie en rose \- Single Version](https://open.spotify.com/track/3yYfoYGVpriV4fG9L1ogsD) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Highlights From His Decca Years](https://open.spotify.com/album/0OdoPgKwi6l3paYTSFAWkS) | 3:26 | 2022-07-07 |  |
+| [La vie en rose \- Single Version](https://open.spotify.com/track/3yYfoYGVpriV4fG9L1ogsD) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Highlights From His Decca Years](https://open.spotify.com/album/0OdoPgKwi6l3paYTSFAWkS) | 3:26 | 2022-07-07 | 2023-04-30 |
 | [Lava](https://open.spotify.com/track/0wqeaDeaKq14IuQESPqBEJ) | [Kuana Torres Kahele](https://open.spotify.com/artist/7Eshpryyi2F9Jg0ixaysNn), [Napua Greig](https://open.spotify.com/artist/7ycscFAP7S0I6HGFaqmT4B), [James Ford Murphy](https://open.spotify.com/artist/60vk2VjuoktubJq0FFguLK) | [Lava \(From "Lava"\)](https://open.spotify.com/album/3ps9fwedIocKsm52J2zoX9) | 5:46 | 2022-03-16 |  |
 | [Lost in the Woods](https://open.spotify.com/track/7namdlOhbtsc8FvoSafOQt) | [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:00 | 2022-03-16 |  |
 | [Love](https://open.spotify.com/track/3M6YfoPwvvTHK1mnCQmqHI) | [Nancy Adams](https://open.spotify.com/artist/69ktA9CYo2KzvtMrP7An91) | [Walt Disney Records The Legacy Collection: Robin Hood](https://open.spotify.com/album/56ewU1ti6LTUjDQzsI9QZD) | 1:56 | 2022-03-16 |  |

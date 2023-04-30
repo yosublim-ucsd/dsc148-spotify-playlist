@@ -4,7 +4,7 @@
 
 > This is Jon Hassell\. The essential tracks, all in one playlist.
 
-117 songs - 11 hr 23 min
+118 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,10 +98,11 @@
 | [Slow Loris Versus Poison Snail](https://open.spotify.com/track/5y7kD1xehhdOzrVA4mODuj) | [David Toop](https://open.spotify.com/artist/3jFTMxWP6at3FioQqFGmjC), [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Pink Noir](https://open.spotify.com/album/3ImULQZLfQO2HCvbPE5UbB) | 9:23 | 2022-05-29 |  |
 | [Solaire](https://open.spotify.com/track/7Le2FN7uEVuHdbaxvxMTH4) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Power Spot](https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo) | 6:49 | 2022-05-29 | 2023-04-06 |
 | [Sundown Dance](https://open.spotify.com/track/2r8ZZIipWHs1cDJk5Ot2Fx) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Earthquake Island](https://open.spotify.com/album/4tXeNxb4cUhDUrWMmG1eF8) | 4:53 | 2022-05-29 | 2023-01-22 |
+| [Sundown Dance](https://open.spotify.com/track/5DGHn0xwZBebRFt4g4tzq9) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Earthquake Island](https://open.spotify.com/album/5ZEnEV4z7ReTohEwubgImu) | 4:53 | 2023-04-29 |  |
 | [Tales of the Near Future \(Clairvoyance\)](https://open.spotify.com/track/41NtDamY27bjNQwwvKGCww) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Farafina](https://open.spotify.com/artist/5UMmGAarEnn9bIua1CuYWL) | [Flash of the Spirit](https://open.spotify.com/album/1kq5wytZSTx0mQvxkg5fW0) | 4:19 | 2023-01-01 | 2023-03-20 |
 | [The Elephant And The Orchid](https://open.spotify.com/track/5eVpu8sD59T14iFoXwTxR5) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Power Spot](https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo) | 11:08 | 2022-05-29 | 2022-11-08 |
 | [the nothing of roselight \- edit](https://open.spotify.com/track/0qFmsIBGZnhS0qMFkof3YZ) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Rick Cox](https://open.spotify.com/artist/3F2G8rwhK4XegnxPhJ6yM2), [Luke Schwartz](https://open.spotify.com/artist/0Hhx2tus2H9rRDqlu9SOCI) | [the nothing of roselight \(edit\)](https://open.spotify.com/album/4e2tiNxypnLpIpMuu9i4cY) | 4:02 | 2022-05-29 | 2023-02-17 |
-| [the nothing of roselight \- edit](https://open.spotify.com/track/1trGT0xuOHxyC1nkzD85Kz) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Rick Cox](https://open.spotify.com/artist/3F2G8rwhK4XegnxPhJ6yM2), [Luke Schwartz](https://open.spotify.com/artist/0Hhx2tus2H9rRDqlu9SOCI) | [the nothing of roselight \(edit\)](https://open.spotify.com/album/4F0LdeP9nvjc7aBJNDEMhe) | 4:02 | 2023-02-18 |  |
+| [the nothing of roselight \- edit](https://open.spotify.com/track/1trGT0xuOHxyC1nkzD85Kz) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Rick Cox](https://open.spotify.com/artist/3F2G8rwhK4XegnxPhJ6yM2), [Luke Schwartz](https://open.spotify.com/artist/0Hhx2tus2H9rRDqlu9SOCI) | [the nothing of roselight \(edit\)](https://open.spotify.com/album/4F0LdeP9nvjc7aBJNDEMhe) | 4:02 | 2023-02-18 | 2023-04-30 |
 | [Time And Place](https://open.spotify.com/track/4yV0BSDSa2rphekLPysCy5) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Last Night The Moon Came Dropping Its Clothes In The Street](https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz) | 3:48 | 2022-05-29 |  |
 | [Timeless](https://open.spotify.com/track/2rHlFsC6bnBxeJkjYvNea9) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL) | 8:19 | 2023-03-06 | 2023-03-20 |
 | [Timeless](https://open.spotify.com/track/6eQWCVgV708C306UXiyJ9V) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/6nh4xd1H0yQU7pb3DcUSiy) | 8:19 | 2022-05-29 | 2022-10-29 |

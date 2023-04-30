@@ -1,12 +1,12 @@
 {
   "description": "Catching sunsets con indie rock de fondo.",
-  "num_followers": 1114,
+  "num_followers": 1134,
   "original_name": "anaranjado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjIzNTc4ZGE2ZWJhMzk0Y2VmMjZiZTkyNWNlZjMxMGViZDMwZTZm",
+  "snapshot_id": "MCwzY2EzOTAwOGM0NzQ4NmRlZDk4NmUxMmUxZTRkN2M1Y2ZhNTc4NzM1",
   "tracks": [
     {
       "added_at": "2023-04-28 16:33:14",
@@ -527,18 +527,18 @@
     {
       "added_at": "2023-04-28 16:33:14",
       "album": {
-        "name": "Mejor Que Nadie",
-        "url": "https://open.spotify.com/album/0I2eLAIopLwwIUlUZx8muE"
+        "name": "Esta Noche Que Sal\u00ed",
+        "url": "https://open.spotify.com/album/6mdB3Romt9Cx8ROwOaDs2Z"
       },
       "artists": [
         {
-          "name": "Technicolor Fabrics",
-          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
+          "name": "Estrada",
+          "url": "https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE"
         }
       ],
-      "duration_ms": 280263,
-      "name": "Mejor Que Nadie",
-      "url": "https://open.spotify.com/track/6J1S8dFlnAcNgl7nHPB1XJ"
+      "duration_ms": 199796,
+      "name": "Esta Noche Que Sal\u00ed",
+      "url": "https://open.spotify.com/track/3SN1eGZpzGJlFbnde0B6Sy"
     },
     {
       "added_at": "2023-04-28 16:33:14",
@@ -559,18 +559,34 @@
     {
       "added_at": "2023-04-28 16:33:14",
       "album": {
-        "name": "Esta Noche Que Sal\u00ed",
-        "url": "https://open.spotify.com/album/6mdB3Romt9Cx8ROwOaDs2Z"
+        "name": "Mejor Que Nadie",
+        "url": "https://open.spotify.com/album/0I2eLAIopLwwIUlUZx8muE"
       },
       "artists": [
         {
-          "name": "Estrada",
-          "url": "https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE"
+          "name": "Technicolor Fabrics",
+          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
         }
       ],
-      "duration_ms": 199796,
-      "name": "Esta Noche Que Sal\u00ed",
-      "url": "https://open.spotify.com/track/3SN1eGZpzGJlFbnde0B6Sy"
+      "duration_ms": 280263,
+      "name": "Mejor Que Nadie",
+      "url": "https://open.spotify.com/track/6J1S8dFlnAcNgl7nHPB1XJ"
+    },
+    {
+      "added_at": "2023-04-28 16:33:14",
+      "album": {
+        "name": "Bajo Los \u00c1rboles",
+        "url": "https://open.spotify.com/album/32MOe6Z6OuJePKUszFbo8M"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 247947,
+      "name": "Bajo Los \u00c1rboles",
+      "url": "https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV"
     },
     {
       "added_at": "2023-04-28 16:33:14",
@@ -595,22 +611,6 @@
     {
       "added_at": "2023-04-28 16:33:14",
       "album": {
-        "name": "Un Poquito M\u00e1s",
-        "url": "https://open.spotify.com/album/1Q4rU1AFX6gzbomhgnbxHL"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 179943,
-      "name": "Un Poquito M\u00e1s",
-      "url": "https://open.spotify.com/track/5iph5i9bTxD7vJEjXeYMDP"
-    },
-    {
-      "added_at": "2023-04-28 16:33:14",
-      "album": {
         "name": "Verano en Coma",
         "url": "https://open.spotify.com/album/4enBpErEDeCn3yKmg8FmKx"
       },
@@ -627,18 +627,18 @@
     {
       "added_at": "2023-04-28 16:33:14",
       "album": {
-        "name": "Dejarte Ir Tambi\u00e9n Es Amar",
-        "url": "https://open.spotify.com/album/0xuwW3Q0bqsIstfTl4kgYi"
+        "name": "Un Poquito M\u00e1s",
+        "url": "https://open.spotify.com/album/1Q4rU1AFX6gzbomhgnbxHL"
       },
       "artists": [
         {
-          "name": "Rubytates",
-          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
         }
       ],
-      "duration_ms": 192416,
-      "name": "Dejarte Ir",
-      "url": "https://open.spotify.com/track/5eyC34a60pEb4iYysPTgBX"
+      "duration_ms": 179943,
+      "name": "Un Poquito M\u00e1s",
+      "url": "https://open.spotify.com/track/5iph5i9bTxD7vJEjXeYMDP"
     },
     {
       "added_at": "2023-04-28 16:33:14",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-04-28 16:33:14",
       "album": {
+        "name": "Dejarte Ir Tambi\u00e9n Es Amar",
+        "url": "https://open.spotify.com/album/0xuwW3Q0bqsIstfTl4kgYi"
+      },
+      "artists": [
+        {
+          "name": "Rubytates",
+          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
+        }
+      ],
+      "duration_ms": 192416,
+      "name": "Dejarte Ir",
+      "url": "https://open.spotify.com/track/5eyC34a60pEb4iYysPTgBX"
+    },
+    {
+      "added_at": "2023-04-28 16:33:14",
+      "album": {
         "name": "Sentimiento",
         "url": "https://open.spotify.com/album/53nvTD2BYsEqicPz4hhuQY"
       },
@@ -671,6 +687,22 @@
       "duration_ms": 172666,
       "name": "Sentimiento",
       "url": "https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy"
+    },
+    {
+      "added_at": "2023-04-28 16:33:14",
+      "album": {
+        "name": "Sinoca",
+        "url": "https://open.spotify.com/album/7lMl5fZ7zkS24TzVrlBcMn"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 215462,
+      "name": "Sinoca",
+      "url": "https://open.spotify.com/track/4iShCCbhtU3ZlUJbBmUAzz"
     },
     {
       "added_at": "2023-04-28 16:33:14",
@@ -803,38 +835,6 @@
       "duration_ms": 213614,
       "name": "Ya nada es igual",
       "url": "https://open.spotify.com/track/3yqZj4Uap9uhX9Ps1zveRF"
-    },
-    {
-      "added_at": "2023-04-28 16:33:14",
-      "album": {
-        "name": "LOS FELIZ",
-        "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 161133,
-      "name": "mi pobre angelito 2",
-      "url": "https://open.spotify.com/track/5smZX3A2NyCZW2Kfmrvv4z"
-    },
-    {
-      "added_at": "2023-04-28 16:33:14",
-      "album": {
-        "name": "Todo Es Perfecto",
-        "url": "https://open.spotify.com/album/542V4yB6vkGz9lJhBHnIGp"
-      },
-      "artists": [
-        {
-          "name": "Adanowsky",
-          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
-        }
-      ],
-      "duration_ms": 211813,
-      "name": "Todo Es Perfecto",
-      "url": "https://open.spotify.com/track/00CaDxVVxJaUeAOebDI65k"
     }
   ],
   "unique_name": "anaranjado",

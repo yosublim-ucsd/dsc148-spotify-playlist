@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 126845,
+  "num_followers": 126970,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjkwYTU4Yzc5YmJiOTk3M2EzN2MzM2ExN2UyNDQ3NDMyMGM1MGI1",
+  "snapshot_id": "MCwzZjZiMDQzYzRiYzY0MGEyMDY4NDM4ZTQwMTZiMjFkNjhiMGY1N2E2",
   "tracks": [
     {
       "added_at": "2023-03-06 08:21:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Blaue Augen",
-        "url": "https://open.spotify.com/album/5YDM82AhvE4m0tppu7XQHc"
-      },
-      "artists": [
-        {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
-        }
-      ],
-      "duration_ms": 167873,
-      "name": "Blaue Augen",
-      "url": "https://open.spotify.com/track/045Qp5DqFXTqUuMMBR81iS"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Nur wegen dir",
         "url": "https://open.spotify.com/album/6QoPwcohKlWQsotj6HZXDl"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 203826,
       "name": "Nur wegen dir",
       "url": "https://open.spotify.com/track/0ui2kVwPZKHaZxGhdIzBrp"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Blaue Augen",
+        "url": "https://open.spotify.com/album/5YDM82AhvE4m0tppu7XQHc"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "duration_ms": 167873,
+      "name": "Blaue Augen",
+      "url": "https://open.spotify.com/track/045Qp5DqFXTqUuMMBR81iS"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Sommerregen",
-        "url": "https://open.spotify.com/album/7KOpokcGiDbtOVfHY0srjl"
-      },
-      "artists": [
-        {
-          "name": "RAUM27",
-          "url": "https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr"
-        }
-      ],
-      "duration_ms": 225481,
-      "name": "Sommerregen",
-      "url": "https://open.spotify.com/track/1Eo3f6FUUbsvFEVtpdVbqi"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Er geh\u00f6rt zu mir",
         "url": "https://open.spotify.com/album/6Gm59zyhmpW3mDvxZEZgth"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 180200,
       "name": "Er geh\u00f6rt zu mir",
       "url": "https://open.spotify.com/track/6COzABVCHQzyvc3rTMtrXn"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Sommerregen",
+        "url": "https://open.spotify.com/album/7KOpokcGiDbtOVfHY0srjl"
+      },
+      "artists": [
+        {
+          "name": "RAUM27",
+          "url": "https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr"
+        }
+      ],
+      "duration_ms": 225481,
+      "name": "Sommerregen",
+      "url": "https://open.spotify.com/track/1Eo3f6FUUbsvFEVtpdVbqi"
     }
   ],
   "unique_name": "Liebeslieder",

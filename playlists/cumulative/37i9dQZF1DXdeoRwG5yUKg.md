@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-144 songs - 10 hr 3 min
+146 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,8 +109,9 @@
 | [Seems I’m Never Tired Lovin’ You](https://open.spotify.com/track/7vCfPnxfZstgS5QUlWV7aY) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Seems I’m Never Tired Lovin’ You](https://open.spotify.com/album/026ZioCze6KbxDpunugdId) | 4:43 | 2020-11-05 | 2022-07-29 |
 | [Shows What You Know](https://open.spotify.com/track/2dgL3GePB3gJot6bjpo4SC) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [1 Hopeful Rd.](https://open.spotify.com/album/7hEZhkFjaW8bH1cI1D6Dsd) | 4:12 | 2020-11-05 |  |
 | [Slow Love](https://open.spotify.com/track/43yzHeaBaa6C96s2EDCWxU) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf) | [Changes](https://open.spotify.com/album/4TiJdmV0Oh7GauOdmfrXNe) | 3:38 | 2020-11-05 | 2022-07-29 |
+| [Slow Love](https://open.spotify.com/track/0JhPbFpBALh3B9c9njC6iB) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp), [Saun & Starr](https://open.spotify.com/artist/6m4tJuf67jwVSvMP34hrck) | [Changes](https://open.spotify.com/album/4A271CZJOcBKENslfEDsYM) | 3:38 | 2020-11-05 |  |
 | [Slow Love](https://open.spotify.com/track/0hoCHnREuYBPYdjRttLopJ) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp), [Saun & Starr](https://open.spotify.com/artist/6m4tJuf67jwVSvMP34hrck) | [Daptone Mood](https://open.spotify.com/album/75eePeKVblGR9BAAnhOtuC) | 3:38 | 2020-11-05 | 2022-11-14 |
-| [Slow Love](https://open.spotify.com/track/1DTjDi7vp3NnYfOtOnLf5R) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp), [Saun & Starr](https://open.spotify.com/artist/6m4tJuf67jwVSvMP34hrck) | [Changes](https://open.spotify.com/album/7g7WzMzTLLOyTSzVUnJACI) | 3:38 | 2020-11-05 |  |
+| [Slow Love](https://open.spotify.com/track/1DTjDi7vp3NnYfOtOnLf5R) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp), [Saun & Starr](https://open.spotify.com/artist/6m4tJuf67jwVSvMP34hrck) | [Changes](https://open.spotify.com/album/7g7WzMzTLLOyTSzVUnJACI) | 3:38 | 2020-11-05 | 2023-04-30 |
 | [Smile](https://open.spotify.com/track/599mXRPZpfTGaecsE1A2OQ) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Unclassified](https://open.spotify.com/album/1bzshLWwMYoSQdLXa7HZn8) | 4:53 | 2020-11-05 |  |
 | [Smile At The Mention](https://open.spotify.com/track/660y7d6UfYBNdU9U2Tewn6) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 3:38 | 2022-07-29 |  |
 | [Someday](https://open.spotify.com/track/5MS6qXLKnY68DMlliiwfTX) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe\)](https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA) | 3:19 | 2021-10-01 |  |
@@ -149,8 +150,9 @@
 | [Why Don't You Stay?](https://open.spotify.com/track/44CgGAQHAxrRWRSNS9mFQ8) | [Muddy Magnolias](https://open.spotify.com/artist/1t7mdRbvflM5966YVfyk1X) | [Broken People](https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr) | 4:33 | 2020-11-05 |  |
 | [Worst In Me](https://open.spotify.com/track/1zX45MGjbDDt2zceTraRvn) | [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Worst In Me](https://open.spotify.com/album/20BncSSGfvm3kCZZ8C28MU) | 3:56 | 2020-11-05 | 2022-09-10 |
 | [You Ruined That Song For Me](https://open.spotify.com/track/7e8LdgIws3VVqkON2puJwN) | [Meghan Linsey](https://open.spotify.com/artist/5CoW8VGpf9la64TUDhnkVn) | [You Ruined That Song For Me](https://open.spotify.com/album/3aRX20jl9YSVFMGUY5ZUoV) | 3:19 | 2022-09-02 |  |
-| [You Were Mine](https://open.spotify.com/track/4njmTrh1kqxmPql07KKnlT) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [CHICKABOOM!](https://open.spotify.com/album/1Gke51utVy7IagtyciRGMA) | 3:43 | 2020-11-05 |  |
+| [You Were Mine](https://open.spotify.com/track/4njmTrh1kqxmPql07KKnlT) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [CHICKABOOM!](https://open.spotify.com/album/1Gke51utVy7IagtyciRGMA) | 3:43 | 2020-11-05 | 2023-04-30 |
 | [You Were Mine](https://open.spotify.com/track/6RAfGW0UE6DS1tysl71axP) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [You Were Mine](https://open.spotify.com/album/73FfFoBNTaiRsKEOH0Mxpk) | 3:43 | 2020-11-05 | 2022-11-13 |
 | [You Were Mine](https://open.spotify.com/track/6VFbrvnjVfrSRPIwEf7ept) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [You Were Mine](https://open.spotify.com/album/0qZHzQ6plJgW7SqP1fDF1A) | 3:43 | 2020-11-05 | 2022-07-29 |
+| [You Were Mine](https://open.spotify.com/track/6nleD42Dimnc5fHnpA2T2R) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [CHICKABOOM!](https://open.spotify.com/album/4PIXzf7OYpSZF7PJLMjCZu) | 3:43 | 2020-11-05 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

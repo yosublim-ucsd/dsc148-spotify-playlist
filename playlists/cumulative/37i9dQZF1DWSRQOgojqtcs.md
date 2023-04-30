@@ -4,7 +4,7 @@
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-140 songs - 8 hr 35 min
+143 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Boogie Man](https://open.spotify.com/track/1ZgD3hoPFZUj4JKLVnW0KF) | [Speedy West](https://open.spotify.com/artist/5O6DkdFuZFvISHeiYAQAVZ), [Jimmy Bryant](https://open.spotify.com/artist/6IKq5gnh3GQrnxztypZKZR) | [For the Last Time](https://open.spotify.com/album/2rQafUioxY5UDqcwyFzaim) | 2:49 | 2022-09-14 |  |
 | [Broken Home](https://open.spotify.com/track/5HkrOPVgvScZfMvaF4YdA2) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Broken Home](https://open.spotify.com/album/5Ds8eIOH8MuWTFTLWqKI30) | 3:09 | 2022-09-14 | 2023-04-13 |
 | [Broken Home](https://open.spotify.com/track/76epGKVhxWA7gEYcjAs3em) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Area Baby](https://open.spotify.com/album/4ysvIWQ8gBcxdK7lhsMttg) | 3:09 | 2022-09-15 |  |
-| [Bubbles](https://open.spotify.com/track/6EZOv0S2V7Rd7hkPRE6Zf3) | [Kalbells](https://open.spotify.com/artist/3QY0HtXymB2ej0xIR8RrdP) | [Max Heart](https://open.spotify.com/album/20ov0SQRSc42I4L5Vtz4UK) | 3:40 | 2022-09-14 |  |
+| [Bubbles](https://open.spotify.com/track/2rMFQzgLRaNkx7Sr5E6KUh) | [Kalbells](https://open.spotify.com/artist/3QY0HtXymB2ej0xIR8RrdP) | [Max Heart](https://open.spotify.com/album/3D50t9k2IA6h24JzC9QZRH) | 3:40 | 2022-09-15 |  |
+| [Bubbles](https://open.spotify.com/track/6EZOv0S2V7Rd7hkPRE6Zf3) | [Kalbells](https://open.spotify.com/artist/3QY0HtXymB2ej0xIR8RrdP) | [Max Heart](https://open.spotify.com/album/20ov0SQRSc42I4L5Vtz4UK) | 3:40 | 2022-09-14 | 2023-04-30 |
 | [Bunyip Beat](https://open.spotify.com/track/6bE1EoIVfevON0AGoWiOtc) | [Sleep D](https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc) | [Red Rock](https://open.spotify.com/album/1RZYk73el9pnwTasNIPPg5) | 6:18 | 2022-09-14 |  |
 | [Bussit](https://open.spotify.com/track/2rniJeDskk1s6xOcfio3RV) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr) | [Bussit](https://open.spotify.com/album/0z5TThA7B6lgdk0z4uX4qB) | 2:50 | 2022-09-14 |  |
 | [Bye Bye](https://open.spotify.com/track/0yIvgtqLRqmJGh8CPpHRnC) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Smiling with No Teeth](https://open.spotify.com/album/4j7wEZWND7GIh918rLgYHQ) | 4:09 | 2022-09-14 |  |
@@ -58,7 +59,8 @@
 | [Everyday](https://open.spotify.com/track/3gO9EjA1fyvkbIPfcCy1wF) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Area Baby](https://open.spotify.com/album/4ysvIWQ8gBcxdK7lhsMttg) | 2:51 | 2022-09-15 |  |
 | [Everyday](https://open.spotify.com/track/5JrAgmqJ7WFVZ50qf5X3lI) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Area Baby](https://open.spotify.com/album/722ZytuYgZwwGZLF04HPog) | 2:51 | 2022-09-14 | 2023-04-13 |
 | [Evoke the Sleep](https://open.spotify.com/track/4mtxoRjuufQebBDrZGeBHI) | [Nun](https://open.spotify.com/artist/32FbyysOUhfSFw2DgGNshC) | [Nun](https://open.spotify.com/album/7JRk6JUMshWJnhJwgSOGUH) | 2:55 | 2022-09-14 |  |
-| [Falling \(II\)](https://open.spotify.com/track/5JCUiQ994E1EKbBak6bJqw) | [Lace Curtain](https://open.spotify.com/artist/4j09ESFbTVflGGIU9l9IJ1) | [Falling / Running EP](https://open.spotify.com/album/1O8OEGnOLX4enDJCYTTmKg) | 6:56 | 2022-09-14 |  |
+| [Falling \(II\)](https://open.spotify.com/track/5JCUiQ994E1EKbBak6bJqw) | [Lace Curtain](https://open.spotify.com/artist/4j09ESFbTVflGGIU9l9IJ1) | [Falling / Running EP](https://open.spotify.com/album/1O8OEGnOLX4enDJCYTTmKg) | 6:56 | 2022-09-14 | 2023-04-30 |
+| [Falling \(II\)](https://open.spotify.com/track/5t9BJ7QUMPhvqU4jRV5UaI) | [Lace Curtain](https://open.spotify.com/artist/4j09ESFbTVflGGIU9l9IJ1) | [Falling / Running EP](https://open.spotify.com/album/0tHa6xdGfp0rvk9pdeDFJj) | 6:56 | 2022-09-15 |  |
 | [FEAST](https://open.spotify.com/track/0DOLtp6s57C6m9XoWYXGOP) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [FEAST](https://open.spotify.com/album/5vK9jIuOLfuQGyVo6HFisg) | 2:05 | 2022-09-16 |  |
 | [FEAST](https://open.spotify.com/track/3smTeRQ3qxUvC8Gf4ckUEs) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [notsick](https://open.spotify.com/artist/0LIittGjyw9kSH8YAo9HGq) | [FEAST](https://open.spotify.com/album/2SNp7R18YlGO9Mo7HLJFYv) | 2:03 | 2022-09-16 | 2023-02-12 |
 | [Final Form](https://open.spotify.com/track/6nUXH6o7OXDVykgwAtIIFU) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [The Return](https://open.spotify.com/album/1HxsSJHTqeUxDoKN26h8pB) | 3:36 | 2022-09-14 |  |
@@ -129,7 +131,8 @@
 | [Teenage Birdsong](https://open.spotify.com/track/4onzxTzKgnSrKUmA2YydJB) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Sixteen Oceans](https://open.spotify.com/album/5gIa8hTQGPwVeNYjDwrraZ) | 3:25 | 2022-09-14 |  |
 | [Teeth](https://open.spotify.com/track/6MynbspeogZ1SeMXsoD0Nf) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z) | 3:09 | 2022-09-14 |  |
 | [Thank You](https://open.spotify.com/track/1ychA86oJ3V1UqmFOVhu8U) | [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy), [Bolis Pupul](https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl) | [Thank You](https://open.spotify.com/album/3zVJkyQpwxJvKGLpuscxZR) | 5:50 | 2022-09-14 |  |
-| [The Ocean](https://open.spotify.com/track/0CfCygNUYJHOPcBAx0GUeL) | [Anchorsong](https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh), [Bookend](https://open.spotify.com/artist/2mQ765VXi6upoFrj3JbgMD) | [Mirage](https://open.spotify.com/album/7svw0efuI6ZCFD61Vj2DWF) | 4:02 | 2022-09-14 |  |
+| [The Ocean](https://open.spotify.com/track/0CfCygNUYJHOPcBAx0GUeL) | [Anchorsong](https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh), [Bookend](https://open.spotify.com/artist/2mQ765VXi6upoFrj3JbgMD) | [Mirage](https://open.spotify.com/album/7svw0efuI6ZCFD61Vj2DWF) | 4:02 | 2022-09-14 | 2023-04-30 |
+| [The Ocean](https://open.spotify.com/track/11ZEPoLOymnDqXoc1e98FO) | [Anchorsong](https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh), [Bookend](https://open.spotify.com/artist/25Fdr64rur2zWVMYSnit4i) | [Mirage](https://open.spotify.com/album/2KgYOIJ18OiPAMH9KRf1Ff) | 4:02 | 2022-09-15 |  |
 | [The Other Black Dog](https://open.spotify.com/track/16tXUfGm2mJHaZAsInBDr7) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Smiling with No Teeth](https://open.spotify.com/album/4j7wEZWND7GIh918rLgYHQ) | 4:23 | 2022-09-14 |  |
 | [The Shake Up](https://open.spotify.com/track/6ps4hHdnIM37lSSRarQV6M) | [dameeeela](https://open.spotify.com/artist/6AaLiQRx5xSWLWZFSOcItq), [Tjaka](https://open.spotify.com/artist/53NDit056RZxZwczUlg4TO) | [The Shake Up](https://open.spotify.com/album/6hFbuNlxxzrhFryP0JfQyX) | 4:11 | 2022-09-14 |  |
 | [The Source](https://open.spotify.com/track/7dBFD4w5Wfd4pHkV52ELsK) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [Karma / The Source](https://open.spotify.com/album/7GLWPudyxnSa0I1gL2215e) | 2:28 | 2022-09-14 |  |

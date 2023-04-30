@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Rancid
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,321 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,361 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 3 | [A Kiss for the Whole World x](https://open.spotify.com/track/1LAuVHMWdVkdbNmSVXWw2K) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [A Kiss for the Whole World](https://open.spotify.com/album/5bTSXCOLlIH6gsOvuI3PCI) | 3:31 |
 | 4 | [Coma](https://open.spotify.com/track/0ztuxnri8ShWvmhZkZN9fA) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Coma](https://open.spotify.com/album/2sNqTVi6uSJ99YIjIuiilx) | 3:28 |
 | 5 | [You're Gonna Realise](https://open.spotify.com/track/7rl04qYTJiJMxraX7XVnHp) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [You're Gonna Realise](https://open.spotify.com/album/0KlpemBJ3GoWxX9mbeL18K) | 2:36 |
-| 6 | [Orbit](https://open.spotify.com/track/5szx7r9yarz9Duw9F0NT6w) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Orbit](https://open.spotify.com/album/6eT8wyBSQsTmCk5HGNzPiV) | 3:32 |
+| 6 | [Orbit](https://open.spotify.com/track/659YVcaiUXCKtdizsyHkND) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Orbit](https://open.spotify.com/album/6WnZa9u2hVV2jgPTSelyjX) | 3:32 |
 | 7 | [Poor Boy](https://open.spotify.com/track/07ITRcap7oVcCcfRScfvxX) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Poor Boy](https://open.spotify.com/album/345I2XOebtr1j2UqaGS6FY) | 2:33 |
 | 8 | [Highlight Reel](https://open.spotify.com/track/2Ws0Wb3zbNCjacrn4nHGL7) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Highlight Reel](https://open.spotify.com/album/3qPqqUNcSBocvzi6MXhrtW) | 3:10 |
 | 9 | [Lads Lads Lads](https://open.spotify.com/track/3QL6ySMAq85DunV286RBVS) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Lads Lads Lads](https://open.spotify.com/album/5OM5zbbebLrPQpr3JC1b7o) | 3:11 |
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 83 | [RECKLESS](https://open.spotify.com/track/2iNb7p7WLZ4fJHZd3kbWst) | [LOU](https://open.spotify.com/artist/4tVzfQLYPxk5vGAgPQXmK4) | [RECKLESS](https://open.spotify.com/album/1tKiELuITXrxUVWA1bUzII) | 2:55 |
 | 84 | [theme song](https://open.spotify.com/track/4pKW3eDE5EonKFYboxagYB) | [BESTIES](https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj), [Headstrong](https://open.spotify.com/artist/1QUtz3pwcGiuwnVtLJ5JCF) | [flare guns in the living room](https://open.spotify.com/album/3vEfN8kVdAhbCSXdvuLgr1) | 3:00 |
 | 85 | [24 Hours](https://open.spotify.com/track/1Yr8sUGygJgWco9RbnNyxu) | [Heartworms](https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP) | [A Comforting Notion](https://open.spotify.com/album/1glYcAS1dwwRDApSyq9GQW) | 4:23 |
-| 86 | [Waste Not Want Not](https://open.spotify.com/track/1Afo69VKVJqAkhuxHyHnZ1) | [The Hirs Collective](https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl), [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan), [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [We're Still Here](https://open.spotify.com/album/0byX67r0zvqZAMBiO8o2Yr) | 1:38 |
+| 86 | [Waste Not Want Not](https://open.spotify.com/track/1RdagyPuSdu3ANLGWRWIxi) | [The Hirs Collective](https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl), [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan), [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [We're Still Here](https://open.spotify.com/album/71DPihEMEmNsXe05FVHJN7) | 1:38 |
 | 87 | [National Anthem](https://open.spotify.com/track/2UAGD9GfTHpJn3JqM8Aa4h) | [CLARENCE & THE MODERN LIFE](https://open.spotify.com/artist/0MiuRwwqb3aTIrhUolEMVP) | [National Anthem](https://open.spotify.com/album/7v8P6o5HvlT9nTGPvn7hsz) | 2:54 |
 | 88 | [Armageddon](https://open.spotify.com/track/0cphnlzamiAzqoX52U0UtB) | [Lil Misery](https://open.spotify.com/artist/5eZhEAEkHKmrPhambLphk9) | [Armageddon](https://open.spotify.com/album/5m839NgZKuERdFCsDB5Exi) | 2:41 |
 | 89 | [Facedown](https://open.spotify.com/track/6Wp3jfr652P18XUIhLiNLA) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Baku's Revenge \(Deluxe Edition\)](https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv) | 2:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [MADHATTAN](https://open.spotify.com/track/7kGuKjgZvyPTJKwHgnvPw5) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos), [The OBGMs](https://open.spotify.com/artist/3Sp7HTc7BNbSx0SPiHVeRI), [DENZ JUNIOR](https://open.spotify.com/artist/6hiy2sLG05CnoB3Kv7Qeox) | [MADHATTAN](https://open.spotify.com/album/4l9rowUxTu47lnDjI8TDs8) | 1:59 |
 | 100 | [Sad Dumb Game](https://open.spotify.com/track/21IiYgR0LsCZMat4qaeoyD) | [Single Mothers](https://open.spotify.com/artist/2FW1jqwbJgwWT8hTWHgBrq) | [Head Shrunk / Sad Dumb Game](https://open.spotify.com/album/7ikoCgdYh59PwvS3T1BliZ) | 2:19 |
 
-Snapshot ID: `MCw3ZjNlMDJmNDJhYjYyZGZlZWRmMTM3ODhhOTI0ZmMwNTRjNjkwYWE1`
+Snapshot ID: `MCxjYzcwMTYzNDUzNWFmOWFmMGZjNDI3NDBhMjUxMTczNzAxYTgzMmZl`

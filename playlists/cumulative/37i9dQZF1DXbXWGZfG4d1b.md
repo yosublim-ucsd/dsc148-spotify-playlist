@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-428 songs - 1 day 1 hr 27 min
+429 songs - 1 day 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Diabla](https://open.spotify.com/track/6UIvFuNTdRwxet1ha09tAE) | [Muñecas](https://open.spotify.com/artist/0907nps0W3zhaeP01nR2a8), [Diego Chamorro](https://open.spotify.com/artist/1qTE6Gdbjz9RJTF2nNzBJh) | [Diabla](https://open.spotify.com/album/6L8kcowzx0Enf5uzbETdVS) | 5:45 | 2022-06-03 | 2022-07-16 |
 | [Diabla](https://open.spotify.com/track/4RbFoRUXx2LxWvjpSanqqa) | [Tsunamis](https://open.spotify.com/artist/2oqOl5iVYtC7mpaqUtm5pU) | [7 Mares](https://open.spotify.com/album/4im29JIy0zo9FsVD5rHvAy) | 4:18 | 2022-07-15 | 2022-07-24 |
 | [Diamantes](https://open.spotify.com/track/6DxOgwsVacBgpEN0A3ykz4) | [El Club De Los Elefantes](https://open.spotify.com/artist/6NRcX4uAdShMIpfB4AjyHi) | [Diamantes](https://open.spotify.com/album/5lSb6YipjDSlXKtdV2iyWt) | 3:14 | 2022-07-01 | 2022-07-24 |
+| [Dominó](https://open.spotify.com/track/5EcAHmTsaczK3TCNKxypXM) | [Piba](https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb) | [Pánico y Distorsión](https://open.spotify.com/album/7hhroFtSzsFx9L9ALmKESc) | 3:33 | 2023-04-21 |  |
 | [Dos Extraños](https://open.spotify.com/track/17yXvD0RNnQ9HY9Fqi16KW) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey), [Joaquin Vitola](https://open.spotify.com/artist/6AVOBzrRdAIHk63HPUsrWF) | [El Elogio de la Sombra](https://open.spotify.com/album/54nnTiHDWtEELhu5XnUW2A) | 2:52 | 2022-07-01 | 2022-07-22 |
 | [Dos Extraños](https://open.spotify.com/track/0gGG5ljkVeSfUe387KwpOn) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey), [Joaquín Vitola](https://open.spotify.com/artist/4GHo23JMbtceTkGJdnEaXd) | [El Elogio de la Sombra](https://open.spotify.com/album/13S2Q6iGiVAyCXP28hTTZ1) | 2:52 | 2022-07-15 | 2022-10-31 |
 | [Egnaro](https://open.spotify.com/track/2nfSbYDQACqABuWDE5lHKV) | [Los Valses](https://open.spotify.com/artist/5sZZ653SyHEsrxet9XZo47) | [Egnaro](https://open.spotify.com/album/7znyyR87CLZ0q0j5YiSwKJ) | 3:07 | 2022-07-15 |  |
@@ -150,7 +151,7 @@
 | [Fiesta en el Barrio](https://open.spotify.com/track/6M2RoXQsms5qijA92zlDLW) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Jungla de Metal 2](https://open.spotify.com/album/5rhIm1StffJUTXTmpKuEOY) | 2:28 | 2022-06-03 | 2023-03-03 |
 | [Fin de Año](https://open.spotify.com/track/0HzbErlnjg2RlYi7Nr9NEU) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Fuego Artificial](https://open.spotify.com/album/3e2SVjsf68I0bdnMxjIRPR) | 2:37 | 2022-06-03 | 2023-03-03 |
 | [Fin de Año](https://open.spotify.com/track/0Rfu3GCteqD7TUBi3E2N4X) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Fin de Año](https://open.spotify.com/album/62gcadq4Av5tnPUngu4c0K) | 3:21 | 2022-06-03 | 2022-07-29 |
-| [Flama](https://open.spotify.com/track/6NpGYnHsT8nN9FIDg0zJfC) | [ASTOR](https://open.spotify.com/artist/5HOLlBg0CiYtDCkml6ysqC) | [Flama](https://open.spotify.com/album/4g8Ib0P4gTaHeyFbK8BsCt) | 4:51 | 2022-07-01 |  |
+| [Flama](https://open.spotify.com/track/6NpGYnHsT8nN9FIDg0zJfC) | [ASTOR](https://open.spotify.com/artist/5HOLlBg0CiYtDCkml6ysqC) | [Flama](https://open.spotify.com/album/4g8Ib0P4gTaHeyFbK8BsCt) | 4:51 | 2022-07-01 | 2023-04-30 |
 | [Flores Sobre las Piedras](https://open.spotify.com/track/4WzYFb4DuCsBdSxwuc5AnZ) | [Carla Rivarola](https://open.spotify.com/artist/2zx6gMuW2mPXl4WJx4lgGK) | [Flores Sobre las Piedras](https://open.spotify.com/album/2NDbkXbi16sS49LigcSd4n) | 5:02 | 2022-06-03 | 2022-07-29 |
 | [Fluir](https://open.spotify.com/track/5qKiEzT74lSMBdyPOtnlPb) | [Hipnotica](https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY) | [Clásico](https://open.spotify.com/album/6SBMBonYpCmJUIPlwSnL6G) | 3:52 | 2022-06-03 |  |
 | [Fortalecido](https://open.spotify.com/track/3sq9PDYOoEU37aQRzqtycs) | [Los Monos de la China](https://open.spotify.com/artist/0c1o1fAr8LhpZ8r0reNajD) | [Fortalecido](https://open.spotify.com/album/3anfHh0hIxjOdhZQWa8P3j) | 4:09 | 2022-07-01 | 2022-07-13 |

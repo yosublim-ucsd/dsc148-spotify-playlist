@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 36195,
+  "num_followers": 36237,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzhiZGI3ZjQ5NjdkMzU1ZjE4MTU5ZTNkNWFkNmQzNjRhNzcyNzA5",
+  "snapshot_id": "MCwzZDc2MDNhNzQ5MWE2NzYxNDRhMTZkZTIwNGU0NmM4MjU1NmZiZTQw",
   "tracks": [
     {
       "added_at": "2023-04-28 16:38:11",
@@ -711,26 +711,6 @@
     {
       "added_at": "2023-04-28 16:38:11",
       "album": {
-        "name": "The Boogie Woogie Trio vol. 1",
-        "url": "https://open.spotify.com/album/29wh8IMllHXTzAodyFTwh8"
-      },
-      "artists": [
-        {
-          "name": "Meade \"Lux\" Lewis",
-          "url": "https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0"
-        },
-        {
-          "name": "Albert Ammons",
-          "url": "https://open.spotify.com/artist/1pfiDZtUYY64LDWQZ941BN"
-        }
-      ],
-      "duration_ms": 125320,
-      "name": "Boogie Woogie Prayer",
-      "url": "https://open.spotify.com/track/32NH2MiFSmk6DXnvUTk1nu"
-    },
-    {
-      "added_at": "2023-04-28 16:38:11",
-      "album": {
         "name": "No Hats",
         "url": "https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 332400,
       "name": "Laci's Boogie",
       "url": "https://open.spotify.com/track/66G1WcKjC8WcIBmpQE9lOR"
+    },
+    {
+      "added_at": "2023-04-28 16:38:11",
+      "album": {
+        "name": "The Boogie Woogie Trio vol. 1",
+        "url": "https://open.spotify.com/album/29wh8IMllHXTzAodyFTwh8"
+      },
+      "artists": [
+        {
+          "name": "Meade \"Lux\" Lewis",
+          "url": "https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0"
+        },
+        {
+          "name": "Albert Ammons",
+          "url": "https://open.spotify.com/artist/1pfiDZtUYY64LDWQZ941BN"
+        }
+      ],
+      "duration_ms": 125320,
+      "name": "Boogie Woogie Prayer",
+      "url": "https://open.spotify.com/track/32NH2MiFSmk6DXnvUTk1nu"
     },
     {
       "added_at": "2023-04-28 16:38:11",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-04-28 16:38:11",
       "album": {
+        "name": "So Swell",
+        "url": "https://open.spotify.com/album/5VW0Vy8eqvS8ep0CsQvXfO"
+      },
+      "artists": [
+        {
+          "name": "Jon Cleary",
+          "url": "https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX"
+        }
+      ],
+      "duration_ms": 151261,
+      "name": "Swanee River Boogie",
+      "url": "https://open.spotify.com/track/1uk0bf5Pwj68zJcpOpFDx7"
+    },
+    {
+      "added_at": "2023-04-28 16:38:11",
+      "album": {
         "name": "Yancey Special",
         "url": "https://open.spotify.com/album/67Bhk0YSsNBNkDgiVFAObX"
       },
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2023-04-28 16:38:11",
       "album": {
-        "name": "The Very Best Of Boogie Woogie",
-        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
-      },
-      "artists": [
-        {
-          "name": "Big Maceo",
-          "url": "https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve"
-        }
-      ],
-      "duration_ms": 177933,
-      "name": "Chicago Breakdown",
-      "url": "https://open.spotify.com/track/6AKFwQSfIA97Dq8N2YeJkN"
-    },
-    {
-      "added_at": "2023-04-28 16:38:11",
-      "album": {
         "name": "Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum",
         "url": "https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3"
       },
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-04-28 16:38:11",
       "album": {
-        "name": "So Swell",
-        "url": "https://open.spotify.com/album/5VW0Vy8eqvS8ep0CsQvXfO"
+        "name": "The Very Best Of Boogie Woogie",
+        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
       },
       "artists": [
         {
-          "name": "Jon Cleary",
-          "url": "https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX"
+          "name": "Big Maceo",
+          "url": "https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve"
         }
       ],
-      "duration_ms": 151261,
-      "name": "Swanee River Boogie",
-      "url": "https://open.spotify.com/track/1uk0bf5Pwj68zJcpOpFDx7"
+      "duration_ms": 177933,
+      "name": "Chicago Breakdown",
+      "url": "https://open.spotify.com/track/6AKFwQSfIA97Dq8N2YeJkN"
     },
     {
       "added_at": "2023-04-28 16:38:11",

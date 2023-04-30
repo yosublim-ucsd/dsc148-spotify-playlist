@@ -4,7 +4,7 @@
 
 > Essential kids songs to add to your family's collection.
 
-127 songs - 6 hr 1 min
+129 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Elevator](https://open.spotify.com/track/0RZHkbz1VCfWfKIzdirQI0) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Los Fabulosos](https://open.spotify.com/album/5T5kQhE6o4QClLQUOVrs38) | 2:58 | 2022-04-15 | 2022-10-01 |
 | [Elevator](https://open.spotify.com/track/0nyEzNpnp8Vn2uoMQsNrgT) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Los Fabulosos](https://open.spotify.com/album/3gNNCz0Zlz4oWgb1w2SxVp) | 2:58 | 2022-09-27 |  |
 | [Empathy](https://open.spotify.com/track/6XRx37vhiTLSmoM9pLLcrm) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw), [Lucy Kalantari](https://open.spotify.com/artist/48DitTEk1ItVK1K023w2S1) | [Family Tree](https://open.spotify.com/album/2ipWREGW50eHJTjXVVWiCj) | 3:10 | 2022-04-15 |  |
-| [Every Day is a Dance](https://open.spotify.com/track/5zcwNyRK3GSlyFnj89cLrM) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Sing Through The Year \- A Little Wild Childhood](https://open.spotify.com/album/4KJd068CAuYYeiENNj7y1e) | 2:29 | 2022-04-15 |  |
+| [Every Day is a Dance](https://open.spotify.com/track/0ToVKgF95Q5YB0nsc0FRg7) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Sing Through the Year \- A Little Wild Childhood](https://open.spotify.com/album/5o4FHVHGV736Qz4O9W7LUp) | 2:29 | 2023-03-17 |  |
+| [Every Day is a Dance](https://open.spotify.com/track/5zcwNyRK3GSlyFnj89cLrM) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Sing Through The Year \- A Little Wild Childhood](https://open.spotify.com/album/4KJd068CAuYYeiENNj7y1e) | 2:29 | 2022-04-15 | 2023-04-30 |
 | [Facts](https://open.spotify.com/track/1B69USoua8pFyR1SRu6n9q) | [Triple Rainbow](https://open.spotify.com/artist/3IGsw8WHZ1TzhtPRbBb26J) | [You Are Magic](https://open.spotify.com/album/5xRjlwgV91shI2gFPaoQEx) | 2:49 | 2022-04-15 |  |
 | [Fam Jam](https://open.spotify.com/track/58pVNlzDwrddprihIMBKCd) | [Triple Rainbow](https://open.spotify.com/artist/3IGsw8WHZ1TzhtPRbBb26J) | [You Are Magic](https://open.spotify.com/album/5xRjlwgV91shI2gFPaoQEx) | 2:54 | 2022-04-15 |  |
 | [Feeling Good](https://open.spotify.com/track/0qVGxEjXwJtHIcV2ool7M7) | [Divi Roxx Kids](https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR), [Divinity Roxx](https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI), [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw) | [Ready Set Go!](https://open.spotify.com/album/4jOCINfRZTbcSiblJcrqyu) | 2:56 | 2022-04-15 |  |
@@ -63,7 +64,8 @@
 | [I Got You](https://open.spotify.com/track/4rjxhh5jLt8hXp8OUG6Mk4) | [Teeny Tiny Stevies](https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov) | [I Got You](https://open.spotify.com/album/6ybR7fgjhTI8njwICEmxZx) | 2:21 | 2022-10-07 |  |
 | [I Hear America Singing](https://open.spotify.com/track/0nUSS3iQn8xRRbaHlluzZ6) | [Red Yarn](https://open.spotify.com/artist/13eFwXXIPS7klxrhNvU0jA), [123 Andrés](https://open.spotify.com/artist/1KrkVZFQx2EadAriogq5T9) | [I Hear America Singing](https://open.spotify.com/album/2U9PJN4oTDBDxoe4yJX0uU) | 4:04 | 2022-04-15 |  |
 | [I'm Always Me](https://open.spotify.com/track/3706vBqhCe42c5ulhhE2S1) | [Narwhals and Waterfalls](https://open.spotify.com/artist/3bGbqC8l55hrX4dbovAMBX) | [Simple SEL](https://open.spotify.com/album/7jakIO1K3h45nW7UqmGG2Q) | 3:08 | 2022-04-15 |  |
-| [If You Want a Song](https://open.spotify.com/track/58sw5NvBcQsvxOCtjXuq6N) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Songs for Singin'](https://open.spotify.com/album/6NqD66DThZCoAYP0V6INpB) | 2:01 | 2022-04-15 |  |
+| [If You Want a Song](https://open.spotify.com/track/58sw5NvBcQsvxOCtjXuq6N) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Songs for Singin'](https://open.spotify.com/album/6NqD66DThZCoAYP0V6INpB) | 2:01 | 2022-04-15 | 2023-04-30 |
+| [If You Want a Song](https://open.spotify.com/track/7m3kQphnCskJCwKhjUayBd) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Songs for Singin'](https://open.spotify.com/album/7x0JXg0yHlaPhLAyq87aLO) | 2:01 | 2023-03-17 |  |
 | [It Takes All Kinds](https://open.spotify.com/track/6buOAgCVrNmVjxa3VmKgd7) | [Alastair Moock](https://open.spotify.com/artist/5NwLASbIjDj6FUgaEa1NMz) | [All Kinds of You and Me](https://open.spotify.com/album/3ssKvHMvJ0QMpWO9Wo1Szv) | 3:07 | 2022-04-15 |  |
 | [It's You I Like](https://open.spotify.com/track/3fwCUXBe36JmB8AP89KFd0) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [I Dream of You: SLEEP](https://open.spotify.com/album/0nEw5zT6pJke7ivN6qnoXn) | 1:37 | 2022-04-15 |  |
 | [Kindness Is Free!](https://open.spotify.com/track/7cNpIw4x6RerwxOFBqA1e2) | [Music with Michal](https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc) | [Kindness Is Free!](https://open.spotify.com/album/0gV9FM37ABTnTO7Ze2qktR) | 1:37 | 2022-04-15 |  |

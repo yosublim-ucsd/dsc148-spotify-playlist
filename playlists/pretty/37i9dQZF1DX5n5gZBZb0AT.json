@@ -1,12 +1,12 @@
 {
   "description": "all gains",
-  "num_followers": 39284,
+  "num_followers": 39975,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzE0Njk5NjRlODI1M2ZkY2Q0Y2VlMzlhZjdjYTY1YzM2Mjc5MzNm",
+  "snapshot_id": "MCw2NzRjZmIyZjVlNTUzMTY5ODljMmE1MmRhNmE1OWM4YTc5N2FiZDk5",
   "tracks": [
     {
       "added_at": "2023-03-09 21:54:21",
@@ -703,22 +703,18 @@
     {
       "added_at": "2023-03-09 21:54:21",
       "album": {
-        "name": "Rise Of An Empire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0UwpSCPnNPksM1meQJnBAF"
+        "name": "Dreams and Nightmares (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7"
       },
       "artists": [
         {
-          "name": "Young Money",
-          "url": "https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
         }
       ],
-      "duration_ms": 188320,
-      "name": "Trophies",
-      "url": "https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk"
+      "duration_ms": 230693,
+      "name": "Dreams and Nightmares",
+      "url": "https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U"
     }
   ],
   "unique_name": "gymcore",

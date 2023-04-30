@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Luqman Podolski, Tish Errda
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,890 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,971 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Menanti](https://open.spotify.com/track/6ML4LAPC9WmSyoorNSkSOD) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Menanti](https://open.spotify.com/album/7lnZheJKj0Fwy0DkC0WzBE) | 3:05 |
 | 50 | [Masuk](https://open.spotify.com/track/1MjcAJQWeWwDgXIB8aQ9nM) | [Fariz Jabba](https://open.spotify.com/artist/5euTSdDookRvAEl8yOXhHh) | [Masuk](https://open.spotify.com/album/6N5gdazIpVUbG1WIjNid1g) | 2:39 |
 
-Snapshot ID: `MCwxMmU1ZTcyOGNkYTMwZTJlYTQyMDljN2NkY2QwOWJhYjNkNjg4NTc2`
+Snapshot ID: `MCxkZTZmM2Y0ZTY1ZWYxNTgzNzRjNTlkMGZkY2FhMDliYWY0Mjk0MTVl`

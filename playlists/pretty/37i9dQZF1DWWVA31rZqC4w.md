@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVA31rZqC4w.md) - [plain]
 
 > Hello you...Listen to music from and inspired by You, new episodes now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,996 likes - 153 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,109 likes - 153 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVA31rZqC4w.md) - [plain]
 | 71 | [Pieces](https://open.spotify.com/track/2DHDuADAHoUW6n0z80RLQF) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Black Bear](https://open.spotify.com/album/2Objy4bpKyIT4JsUsBr8ka) | 4:01 |
 | 72 | [Heading Home](https://open.spotify.com/track/2J7w7iXgOW2o5QTxNWveoY) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Will](https://open.spotify.com/album/4KwHbfz70XklNDO1ZNC8EE) | 3:57 |
 | 73 | [I'll Never Give You Up](https://open.spotify.com/track/4jBTq998L1Fxlw8QO9a6mo) | [Art d'Ecco](https://open.spotify.com/artist/3P3quzbMWdn5kalJUa6W5J) | [I'll Never Give You Up](https://open.spotify.com/album/2lgcdpRVm2C4gzg0qSP6t4) | 4:12 |
-| 74 | [Poison](https://open.spotify.com/track/3j4DTgaccxEbk2Ufht85mv) | [GEMS](https://open.spotify.com/artist/1hjVmBR8STjix0vBUe5YfN) | [Poison](https://open.spotify.com/album/6yxZwTFlfhPH8iZM9uLNHs) | 3:53 |
+| 74 | [Poison](https://open.spotify.com/track/1wWYZuEVUMmGnEeV3zOCNU) | [GEMS](https://open.spotify.com/artist/1hjVmBR8STjix0vBUe5YfN) | [Poison](https://open.spotify.com/album/1rp9HGUFK68lGGAAoHjAYs) | 3:53 |
 | 75 | [Starlight Mystery](https://open.spotify.com/track/3QueIkJShMgbNZ3ldNplap) | [Thomas Frinking](https://open.spotify.com/artist/2oeoDFVVZkVs8W3K9atckM) | [Indie Poppers, Vol\. 5](https://open.spotify.com/album/3emuWfbXBWFQyDVXXaIpSU) | 3:46 |
 | 76 | [Yeah Yeah Yeah](https://open.spotify.com/track/3tErSo7MGT8ZRMPrtg4T5q) | [Delv!s](https://open.spotify.com/artist/4cHYNNA4fiedY4Wpd0iVo2) | [Yeah Yeah Yeah](https://open.spotify.com/album/60M45qJSaYLK4BusFu2hFG) | 3:33 |
 | 77 | [Glow](https://open.spotify.com/track/76WYCkL5dxLq7un9KAxZKz) | [Luc](https://open.spotify.com/artist/4wbbDaTxjWd2fcghJQHIgn) | [Glow](https://open.spotify.com/album/2OT6Ci3FJOeuYLyqVHV5y1) | 4:23 |
@@ -159,7 +159,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVA31rZqC4w.md) - [plain]
 | 149 | [Hott](https://open.spotify.com/track/6XdR8493N2ZIi2YiQyZet6) | [KOPPS](https://open.spotify.com/artist/3weGdWrlXcB3pcoctU1BDK), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Hott](https://open.spotify.com/album/17oG5CMoLshXy72JIMNH0F) | 3:39 |
 | 150 | [The Black](https://open.spotify.com/track/38o2vvPAw11LPANpT0kiVk) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [Stereo Hype](https://open.spotify.com/album/1alMH1bolfUTTtsJZyGLwg) | 5:30 |
 | 151 | [Make It Up](https://open.spotify.com/track/0oInDc8Q0nc8I6mKIliCfk) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Nothing's Real](https://open.spotify.com/album/2igeHhP9UZ7ko10H1K0DbP) | 3:31 |
-| 152 | [Roller](https://open.spotify.com/track/5di8kYa0GOK3wEI0ZECcXL) | [Quilt](https://open.spotify.com/artist/0S4yEUTvpxWhfXux925405) | [Plaza](https://open.spotify.com/album/2jT4DbuDmofOryMYKXIVBS) | 4:14 |
+| 152 | [Roller](https://open.spotify.com/track/0zFqjimE0Q6wk0OQVGu3rY) | [Quilt](https://open.spotify.com/artist/0S4yEUTvpxWhfXux925405) | [Plaza](https://open.spotify.com/album/0NEF1hzL7820zUVOU7n9Kj) | 4:14 |
 | 153 | [I Need My Girl](https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:05 |
 
-Snapshot ID: `MCw4NTc5NWY5NWQyYmRmYjIxMmQwODZkYmQwMGZjNTZkNWMyODVlOWRj`
+Snapshot ID: `MCwzOTc1MWUyYTA3YTBkMDI0ZWJkYTUxNDcyNDhhOGM1ZGY0NTFjMzA0`

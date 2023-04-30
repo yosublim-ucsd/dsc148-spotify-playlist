@@ -284,7 +284,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 121654,
       "name": "21 gram\u00f3w",
       "url": "https://open.spotify.com/track/7hjgi04fCipBXq5NAB1ulo"
@@ -744,7 +744,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 171731,
       "name": "a r i z o n a (2013 - 2016)",
       "url": "https://open.spotify.com/track/2s1Qsm1XdgvCwoUaGdw6FA"
@@ -1500,7 +1500,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -3758,10 +3758,32 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
+    },
+    {
+      "album": {
+        "name": "Rave & Roses Ultra",
+        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239317,
+      "name": "Calm Down (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/1s7oOCT8vauUh01PbJD6ps"
     },
     {
       "album": {
@@ -4284,7 +4306,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 124363,
       "name": "Cierpienia M\u0142odego Dilera",
       "url": "https://open.spotify.com/track/63li371iNcVrAMQCHjZs6X"
@@ -5578,7 +5600,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-18",
+      "date_removed": null,
       "duration_ms": 193333,
       "name": "Discopolo",
       "url": "https://open.spotify.com/track/09m29we7x9tgxyo6f3OQ87"
@@ -7216,6 +7238,32 @@
       "duration_ms": 148116,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/0tb0RHrF4IpwPJOKYxnxxe"
+    },
+    {
+      "album": {
+        "name": "STYXXX",
+        "url": "https://open.spotify.com/album/0jK4Jnbd1PylwYTh8SJkS7"
+      },
+      "artists": [
+        {
+          "name": "ReTo",
+          "url": "https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli"
+        },
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "Wroobel",
+          "url": "https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206693,
+      "name": "Felga",
+      "url": "https://open.spotify.com/track/5WejXxDkYAb86sLa5QOg8m"
     },
     {
       "album": {
@@ -9678,7 +9726,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 162935,
       "name": "Jakie To Uczucie?",
       "url": "https://open.spotify.com/track/1SDoIIjDCFjJuglM7qbIqf"
@@ -12688,7 +12736,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 129600,
       "name": "magister sztuki",
       "url": "https://open.spotify.com/track/5BtLq0RgyJNMI9yEvBvMQF"
@@ -14094,6 +14142,28 @@
       "duration_ms": 193813,
       "name": "Music For a Sushi Restaurant",
       "url": "https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV"
+    },
+    {
+      "album": {
+        "name": "Pracownia",
+        "url": "https://open.spotify.com/album/3yhpzS3EaSgNkPoTuvb8CR"
+      },
+      "artists": [
+        {
+          "name": "Vito Bambino",
+          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
+        },
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212520,
+      "name": "Mustang",
+      "url": "https://open.spotify.com/track/22F12Z9OfFiA2i8JQ2Rd3G"
     },
     {
       "album": {
@@ -19566,7 +19636,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 185000,
       "name": "RONDO",
       "url": "https://open.spotify.com/track/6bj4cH8DseYmq9G1fQ8CZV"
@@ -21010,7 +21080,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -22336,7 +22406,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 194786,
       "name": "Trance (with Travis Scott & Young Thug)",
       "url": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J"
@@ -22515,6 +22585,28 @@
     },
     {
       "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/4bqXxTd6RzIQr8QeujIJQI"
+      },
+      "artists": [
+        {
+          "name": "Zeamsone",
+          "url": "https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY"
+        },
+        {
+          "name": "Qry",
+          "url": "https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127218,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/1yajlpkjdjPfj4XZ3ES140"
+    },
+    {
+      "album": {
         "name": "RODZINNY BIZNES",
         "url": "https://open.spotify.com/album/1GabBOxzyUPjkELZE0b3HS"
       },
@@ -22650,6 +22742,28 @@
       "duration_ms": 289642,
       "name": "T\u0119skni\u0119 sobie",
       "url": "https://open.spotify.com/track/2XrxfDmGGAkU14vQ9QVJeb"
+    },
+    {
+      "album": {
+        "name": "Pracownia",
+        "url": "https://open.spotify.com/album/3yhpzS3EaSgNkPoTuvb8CR"
+      },
+      "artists": [
+        {
+          "name": "Vito Bambino",
+          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
+        },
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260239,
+      "name": "Ulek i Dawcia",
+      "url": "https://open.spotify.com/track/5T8U0S9VDlzyVOKb4pRRPP"
     },
     {
       "album": {
@@ -22796,10 +22910,36 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 175518,
       "name": "Uzi",
       "url": "https://open.spotify.com/track/66JWE9YKWc6XWUwN7OdRE9"
+    },
+    {
+      "album": {
+        "name": "NEWCOMER",
+        "url": "https://open.spotify.com/album/47fjjJXNkg00CK2Se5ARPH"
+      },
+      "artists": [
+        {
+          "name": "Bia\u0142as",
+          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        },
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175518,
+      "name": "Uzi",
+      "url": "https://open.spotify.com/track/6eEOdkX7WzYUnK7pHj5Jdh"
     },
     {
       "album": {

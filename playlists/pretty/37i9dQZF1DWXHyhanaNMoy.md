@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Alleen maar motion en good vibes\. Cover: Zefanio, Henkie T & JMANI
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,548 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,596 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vitamine](https://open.spotify.com/track/72cKQ2mWAMx0yae2wksjc3) | [Zefanio](https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Vitamine](https://open.spotify.com/album/5PzobjgvDfz54qUP773olS) | 3:00 |
-| 2 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 |
-| 3 | [Toute La Night](https://open.spotify.com/track/6BCYTbYrUoOMcPVHwtM8gY) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Toute La Night](https://open.spotify.com/album/0SABD3TM0FJTEZ8qls4OzU) | 2:34 |
+| 2 | [Toute La Night](https://open.spotify.com/track/6BCYTbYrUoOMcPVHwtM8gY) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Toute La Night](https://open.spotify.com/album/0SABD3TM0FJTEZ8qls4OzU) | 2:34 |
+| 3 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 |
 | 4 | [Billen Los](https://open.spotify.com/track/1auAdX2QmwjJNtJGuc6GEk) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [ValsBezig](https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4), [Issairo](https://open.spotify.com/artist/5plDUJR66Vb8TYzXu9L1YV) | [Billen Los](https://open.spotify.com/album/2OQ6jG0stzCBa3JSiYW5WD) | 2:22 |
 | 5 | [Balance](https://open.spotify.com/track/11orvpEsFnxuJgLatCiHsR) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [No Bad Vibes](https://open.spotify.com/album/7Isz78RyCrtTdtVBexTV0E) | 2:05 |
 | 6 | [Bright Life](https://open.spotify.com/track/3zqK6jWc2kms7DJAflfRRv) | [Rhema & Bethel](https://open.spotify.com/artist/2mhQjvqnRV83cj1G1b8ToN) | [Bright Life](https://open.spotify.com/album/2ydPouL6pAcuuLJsW24e7i) | 2:17 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 59 | [De Hele Nacht](https://open.spotify.com/track/6EmORRyjZrZ5xXqQlXQx9C) | [Jurab](https://open.spotify.com/artist/5DLs5cEqsubNvGBx148Jpm), [Yoe](https://open.spotify.com/artist/5OEYg5YwTGfQdFPwQ2uUlG) | [De Hele Nacht](https://open.spotify.com/album/4fGNH63RfxbGFnZuFwaz2d) | 3:26 |
 | 60 | [Ahora Me Dice](https://open.spotify.com/track/4bDn037NB3Cn3KljyNISyP) | [Alex Sargo](https://open.spotify.com/artist/2rzmi9GgvLsfDZwMLRkNEG), [KILATE TESLA](https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo), [Nicole Manzo](https://open.spotify.com/artist/2xMWVkr64dpJLZY8LRGUdb) | [Ahora Me Dice](https://open.spotify.com/album/1ps1Jf65nJUnzmokz4uiMo) | 2:28 |
 
-Snapshot ID: `MCwzZGY3ZDYyNzVlMzRhMTVmYTBhZjRiMjBmNGI4MWE2MzUyMDNkNDFl`
+Snapshot ID: `MCxlOWEyMTE1OTM2YWZiM2FmMWNhMzExMmRhOGFiMmU4Y2NlOWQ2OGI5`

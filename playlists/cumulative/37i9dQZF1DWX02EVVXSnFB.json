@@ -6,7 +6,7 @@
     {
       "album": {
         "name": "1 More Sng (Lazywax Remix)",
-        "url": "https://open.spotify.com/album/1hWUAhCK6ch3SGtPcpqvta"
+        "url": "https://open.spotify.com/album/6B7REa8AEwD2jSPCCOQCSf"
       },
       "artists": [
         {
@@ -25,6 +25,32 @@
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 408759,
+      "name": "1 More Sng - Lazywax Remix",
+      "url": "https://open.spotify.com/track/2MybfULnK3iJ4mfkFpyxj9"
+    },
+    {
+      "album": {
+        "name": "1 More Sng (Lazywax Remix)",
+        "url": "https://open.spotify.com/album/1hWUAhCK6ch3SGtPcpqvta"
+      },
+      "artists": [
+        {
+          "name": "Classixx",
+          "url": "https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ"
+        },
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        },
+        {
+          "name": "Lazywax",
+          "url": "https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 408759,
       "name": "1 More Sng - Lazywax Remix",
       "url": "https://open.spotify.com/track/5icULQlJuZHmWviOiANaa7"

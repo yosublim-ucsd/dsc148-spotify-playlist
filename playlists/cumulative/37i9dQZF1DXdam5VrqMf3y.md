@@ -4,7 +4,7 @@
 
 > Your favorite holiday tunes, like you've never heard before\. Cover: Meghan Trainor
 
-108 songs - 5 hr 44 min
+109 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Christmas \(Baby Please Come Home\) \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/5PZYjlwLznLOjHXIHJpyHa) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Christmas \(Baby Please Come Home\) \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/album/7L7nmx23fd3TOd2DlqvZGF) | 3:23 | 2021-12-15 | 2022-07-29 |
 | [Christmas Eve \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0ezxVlILGg3XiTJONE7PEn) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Spotify Singles \- Holiday](https://open.spotify.com/album/1ueZZjEeoThIvgJr4OKKa5) | 2:56 | 2021-12-15 |  |
 | [Christmas Must Be Tonight \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/40L6ikqHEw1Qy8uZor6YLn) | [Amy Helm](https://open.spotify.com/artist/4LBsb3buEAjllAzNraGYtU), [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [Spotify Singles \- Christmas](https://open.spotify.com/album/368NNDK6Sa5juhxmzYKpA6) | 3:59 | 2021-12-15 | 2022-07-29 |
-| [Christmas Must Be Tonight \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7D5fkaLthrFkOmTPrOLOpk) | [Amy Helm](https://open.spotify.com/artist/4LBsb3buEAjllAzNraGYtU), [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [Christmas Must Be Tonight \- Recorded at Spotify Studios NYC](https://open.spotify.com/album/79pU4cBoyQmUU0e5tuuCvG) | 3:59 | 2021-12-15 |  |
+| [Christmas Must Be Tonight \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7D5fkaLthrFkOmTPrOLOpk) | [Amy Helm](https://open.spotify.com/artist/4LBsb3buEAjllAzNraGYtU), [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [Christmas Must Be Tonight \- Recorded at Spotify Studios NYC](https://open.spotify.com/album/79pU4cBoyQmUU0e5tuuCvG) | 3:59 | 2021-12-15 | 2023-04-30 |
+| [Christmas Must Be Tonight \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7id81a5ZwLDGCwnQvBSazV) | [Amy Helm](https://open.spotify.com/artist/4LBsb3buEAjllAzNraGYtU), [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [Christmas Must Be Tonight \- Recorded at Spotify Studios NYC](https://open.spotify.com/album/7tiflfuqQGkJNFvK3L4n2o) | 3:59 | 2022-12-05 |  |
 | [Christmas Time \(Is Here Again\)](https://open.spotify.com/track/2jNdOB7P8haPjgvPoYBzkY) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Christmas Time \(Is Here Again\)](https://open.spotify.com/album/0HB7Iia18Csd34x85Apsnb) | 3:56 | 2021-12-15 |  |
 | [Christmas Time Is Here \- Recorded at Sound Emporium Nashville](https://open.spotify.com/track/1dinW5tLGDdPhxtW8vMkUn) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Spotify Singles \- Christmas](https://open.spotify.com/album/1l3dzkvaw90H6NMF1KkFlW) | 3:24 | 2021-12-15 |  |
 | [Christmas Tree Farm \- Spotify Singles](https://open.spotify.com/track/3agFbERmZM62th15YW4Iru) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Christmas Tree Farm \- Spotify Singles](https://open.spotify.com/album/2qA6ipSGFgsVG6cXrFBbOx) | 3:34 | 2022-11-16 |  |

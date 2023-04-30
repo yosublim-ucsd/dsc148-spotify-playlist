@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NCuSFtLG2H.md) - [plain]
 
 > Relax to the sounds of the kora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,463 likes - 111 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,530 likes - 111 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NCuSFtLG2H.md) - [plain]
 | 28 | [Kadiatou](https://open.spotify.com/track/5PTOrJk0mzAEAhH1DH5aUP) | [Rajery](https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Driss El Maloumi](https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB) | [3MA](https://open.spotify.com/album/5RfLcVTzv6SciIwGyQfnK6) | 4:32 |
 | 29 | [Siya](https://open.spotify.com/track/46x7AUiSnsY0Zui4hV8gJE) | [Yacouba Sissoko](https://open.spotify.com/artist/5AFOBMdVFA8785NYQtWiad) | [Siya](https://open.spotify.com/album/1T7Y2XS0DCAgUnZjAq7L5R) | 5:23 |
 | 30 | [Mikhi Nathan Mu\-Toma](https://open.spotify.com/track/1D66nWnh90JWq6RDLIYy5P) | [Seckou Keita](https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc) | [Seckou Keita: 22 Strings](https://open.spotify.com/album/5YWNufb3cz5hYYA9Vv0uve) | 6:37 |
-| 31 | [Folon](https://open.spotify.com/track/1DCW0SjXfjBwbiYDSVbuOg) | [Lamine Cissokho](https://open.spotify.com/artist/4yNX2MT20zgrgvC7rrsFv6) | [Kora +1](https://open.spotify.com/album/7p5u26mM2kqrPCFUmJNJvG) | 5:08 |
+| 31 | [Folon](https://open.spotify.com/track/3LWfdsYsZ5yI3HgcavHSzO) | [Lamine Cissokho](https://open.spotify.com/artist/4yNX2MT20zgrgvC7rrsFv6) | [Kora +1](https://open.spotify.com/album/62vn052g2TSd9MPGmHwQr1) | 5:08 |
 | 32 | [Nalésonko](https://open.spotify.com/track/4KuO1cCEEU2WhzhdjKrDlJ) | [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY) | [At Peace](https://open.spotify.com/album/6bkKjwvykGpXwZoBUjmWh1) | 5:53 |
 | 33 | [A\. C\. I\. 2000 Diaby](https://open.spotify.com/track/3EqSYc4byGnSylatX6JcwG) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA) | [Toumani & Sidiki](https://open.spotify.com/album/0e9dYHAAknjGXVtXxKK3WV) | 4:40 |
 | 34 | [Boubalaka](https://open.spotify.com/track/0SvQOHxb2n9QUAshGsyGCx) | [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY) | [At Peace](https://open.spotify.com/album/6bkKjwvykGpXwZoBUjmWh1) | 4:43 |
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NCuSFtLG2H.md) - [plain]
 | 107 | [Fantasy](https://open.spotify.com/track/10UumEsqkMv6fiihOM5Hg8) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi) | 2:18 |
 | 108 | [Cheiknah Demba](https://open.spotify.com/track/5hE6tM4nogYUivqDzKuN2h) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY) | [New Ancient Strings](https://open.spotify.com/album/4QYwF3SPWWDwoiS8SnKX4X) | 4:30 |
 | 109 | [Kora Solo](https://open.spotify.com/track/6HTTBEPexAJGXAzzJEOr6i) | [Hélène Blazy](https://open.spotify.com/artist/33m7gT6eP9unPArdo8wfbr) | [Faces of Africa: An Inspirational Celebration of Africa Then and Now](https://open.spotify.com/album/59OpJHZvPKsU5SounjoUzq) | 1:51 |
-| 110 | [Toutou Diarra](https://open.spotify.com/track/4uEmFWgfgnIJT3lLS3srZc) | [Lamine Cissokho](https://open.spotify.com/artist/4yNX2MT20zgrgvC7rrsFv6) | [Kora +1](https://open.spotify.com/album/7p5u26mM2kqrPCFUmJNJvG) | 4:18 |
+| 110 | [Toutou Diarra](https://open.spotify.com/track/6jPRIrQI72sXLhLseNwmrf) | [Lamine Cissokho](https://open.spotify.com/artist/4yNX2MT20zgrgvC7rrsFv6) | [Kora +1](https://open.spotify.com/album/62vn052g2TSd9MPGmHwQr1) | 4:18 |
 | 111 | [The Griot](https://open.spotify.com/track/4luLCxFLxKBmyCtHeOvgZO) | [Ravi](https://open.spotify.com/artist/4Jdc5hzHfGwwc7dxquKGso) | [Ravi: African Kora](https://open.spotify.com/album/02Kd5u5BzFZyfQobh3mX47) | 4:32 |
 
-Snapshot ID: `MCw3YjVlNTlhODAxZTY3Yjk5ZmFlYWMxYTg5NGViMTU4NmVmODEwMDRj`
+Snapshot ID: `MCwzZDMwOTFjZDMwMjc4YjJlNWE4YzE0Yjk5NTMwZGY1Zjk2ZmRmY2U2`

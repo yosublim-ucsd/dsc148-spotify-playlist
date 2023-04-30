@@ -4,7 +4,7 @@
 
 > Moody electronica for the night time hours
 
-126 songs - 10 hr 0 min
+127 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Dhollandia](https://open.spotify.com/track/4PmAhw3ZnYGM6fWbsDoU8u) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Dhollandia / Circles](https://open.spotify.com/album/5NadYxqel92ecOc1gd3PDr) | 6:18 | 2022-12-01 |  |
 | [Domenico](https://open.spotify.com/track/2jvoUFy1ovw1q2kloUPBE1) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3) | [Domenico](https://open.spotify.com/album/0DhbY3VlbKpUABz7i6gUne) | 4:58 | 2023-03-16 |  |
 | [Don’t Get Too Close](https://open.spotify.com/track/6GYe9bY4looLlWjY1ffJ5Y) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Don’t Get Too Close](https://open.spotify.com/album/7y03BXt9jGpDHvQ01knCXE) | 4:04 | 2023-03-02 | 2023-03-25 |
+| [Dreaming Of High Fidelity](https://open.spotify.com/track/2HRbd2lJKkWWBGT2IRVr4j) | [Jad & The](https://open.spotify.com/artist/2TIVoSbNoE1A9ihHlRRfpP) | [Transit](https://open.spotify.com/album/0MGV2N8Dr2Vy71qTDN7LXL) | 5:59 | 2023-04-20 |  |
 | [Earth To](https://open.spotify.com/track/11PuMG1Ej3GZcXnngdm72P) | [Purelink](https://open.spotify.com/artist/2kUrBcfh7PVIivyYGAVjrQ) | [Earth To](https://open.spotify.com/album/5NfVhc8VJhggndUzEcnS2Y) | 6:38 | 2023-03-23 | 2023-04-17 |
 | [ENCLOSURE](https://open.spotify.com/track/4izuPtp0dTuJF9xoqQR4W3) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [ENCLOSURE](https://open.spotify.com/album/1hcGDnuOuufMcUn2QfmrQ0) | 4:19 | 2023-03-16 |  |
 | [Equals](https://open.spotify.com/track/5dHMA3NFsOyFKGJ7ML8hO1) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [Equals](https://open.spotify.com/album/3sfCMYCdFjoVMS4ocAyVIB) | 4:46 | 2022-12-01 |  |
@@ -67,7 +68,7 @@
 | [I'm Tired](https://open.spotify.com/track/2lm0Hj6EKbRuuTq8jHyPfk) | [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [I'm Tired](https://open.spotify.com/album/77zvDk6C1Uzb2QqWXj0ZZK) | 4:00 | 2023-02-09 | 2023-02-16 |
 | [Impossible \- &ME Remix](https://open.spotify.com/track/0TVcPTk3MMkT6WqkuatPSr) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [Impossible \(&ME Remix\)](https://open.spotify.com/album/4HmgIUcdgMfWDJYQdxhy6o) | 9:15 | 2022-12-01 | 2023-03-31 |
 | [In Response](https://open.spotify.com/track/2Twprkt2frZEbhG3ADc3BF) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9), [Jack Vanzet](https://open.spotify.com/artist/3Q4bHGAfG5KexzVaWE4fnf) | [In Response](https://open.spotify.com/album/3T7fD9JJOdbaCjS7rj1aVa) | 3:34 | 2023-02-09 |  |
-| [Inertia](https://open.spotify.com/track/1vfn6qNHbzTLQVCNZ5Lmf8) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Inertia](https://open.spotify.com/album/1AZ22tLqS9tCZfLB6pocSZ) | 5:05 | 2023-04-05 |  |
+| [Inertia](https://open.spotify.com/track/1vfn6qNHbzTLQVCNZ5Lmf8) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Inertia](https://open.spotify.com/album/1AZ22tLqS9tCZfLB6pocSZ) | 5:05 | 2023-04-05 | 2023-04-30 |
 | [Inperspect](https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [Inperspect](https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR) | 8:18 | 2022-12-01 |  |
 | [Interior \- Edit](https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Interior](https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML) | 3:48 | 2022-12-01 |  |
 | [Intimate Fantasy](https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Intimate Fantasy \- EP](https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW) | 8:13 | 2022-12-01 |  |
@@ -124,11 +125,11 @@
 | [Take Them](https://open.spotify.com/track/00nHvLYHf4mQaVuCq2eoTT) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Take Them](https://open.spotify.com/album/5KW5wIu6RhXkBGl3TTKqOp) | 4:47 | 2023-03-16 |  |
 | [The Antidote](https://open.spotify.com/track/4RqeaT3zXAVf6cLAau6O9B) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Jewels from the Sun EP](https://open.spotify.com/album/7riixwal2DhHUE4Nt8vkLW) | 4:50 | 2022-12-01 |  |
 | [The Corner](https://open.spotify.com/track/1Pfun1VMFlTBwgqLNdUxcR) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [The Corner](https://open.spotify.com/album/5BTdRwKRznLonMVvEuAZPi) | 3:40 | 2022-12-01 |  |
-| [TIME](https://open.spotify.com/track/0xwx7706qyfnugQQk7yTpN) | [Slackin Beats](https://open.spotify.com/artist/7gwV2BYHAZbfgmYaNxbBfw), [Kamohelo](https://open.spotify.com/artist/4MQQ7JhKhqSqJpWGgwUSvu), [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc) | [CROOK](https://open.spotify.com/album/4I1K9n6EPW7AwwXtrrCDTC) | 4:14 | 2023-03-16 |  |
+| [TIME](https://open.spotify.com/track/0xwx7706qyfnugQQk7yTpN) | [Slackin Beats](https://open.spotify.com/artist/7gwV2BYHAZbfgmYaNxbBfw), [Kamohelo](https://open.spotify.com/artist/4MQQ7JhKhqSqJpWGgwUSvu), [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc) | [CROOK](https://open.spotify.com/album/4I1K9n6EPW7AwwXtrrCDTC) | 4:14 | 2023-03-16 | 2023-04-30 |
 | [TIOLI](https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [TIOLI](https://open.spotify.com/album/6hXL6AoUVJIhIIY67nOD9B) | 4:38 | 2022-12-01 |  |
 | [Ultra Truth](https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 5:17 | 2022-12-01 |  |
 | [Us](https://open.spotify.com/track/63yVhTOpbvjkA4kvH1O2yi) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL) | [Us](https://open.spotify.com/album/6pCGV4BvvjWT4uQJethJXF) | 4:51 | 2022-12-01 |  |
-| [View from the Aeroplane Window](https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [View from the Aeroplane Window](https://open.spotify.com/album/2sRxQH3FnEm4M0K8PnmQsH) | 3:53 | 2022-12-01 | 2023-04-26 |
+| [View from the Aeroplane Window](https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [View from the Aeroplane Window](https://open.spotify.com/album/2sRxQH3FnEm4M0K8PnmQsH) | 3:53 | 2022-12-01 |  |
 | [Violet \- DJ Python Remix](https://open.spotify.com/track/6JijA1sJukJFkEXlOnK9ZI) | [The Range](https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Mercury Remixes](https://open.spotify.com/album/4dgG6jfRwyZyDLtB8F2yVZ) | 3:27 | 2023-04-05 |  |
 | [Wall of Sleep](https://open.spotify.com/track/1zii8HjrZpVEIsAECYGwrV) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 4:47 | 2022-12-01 |  |
 | [Water](https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Water](https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B) | 4:58 | 2022-12-01 |  |

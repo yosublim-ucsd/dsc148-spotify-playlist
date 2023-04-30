@@ -380,10 +380,28 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 138824,
       "name": "They / Them / Theirs",
       "url": "https://open.spotify.com/track/5zpUjhFZWLZ7vCVk6ZpnRs"
+    },
+    {
+      "album": {
+        "name": "Imaginary Life",
+        "url": "https://open.spotify.com/album/3uCYNGmkNe9udFYrzB373J"
+      },
+      "artists": [
+        {
+          "name": "Worriers",
+          "url": "https://open.spotify.com/artist/55Z2PiiE80rBOkkL1wyNPD"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138824,
+      "name": "They / Them / Theirs",
+      "url": "https://open.spotify.com/track/7BNTExktKvdHBU9yspah6H"
     },
     {
       "album": {

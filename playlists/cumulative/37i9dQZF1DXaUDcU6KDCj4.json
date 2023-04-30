@@ -7234,10 +7234,28 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 229848,
       "name": "Helium",
       "url": "https://open.spotify.com/track/29Ps05CZfLWtphvEknN0bO"
+    },
+    {
+      "album": {
+        "name": "Homemaker",
+        "url": "https://open.spotify.com/album/2jyYZAdryusuGLEfHOHQgz"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229848,
+      "name": "Helium",
+      "url": "https://open.spotify.com/track/2uvDjPwNsu94t8ATG0yia1"
     },
     {
       "album": {
@@ -7966,6 +7984,24 @@
     {
       "album": {
         "name": "Hunter",
+        "url": "https://open.spotify.com/album/5f2StDzDcdxE0JR6K7YiDT"
+      },
+      "artists": [
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228760,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/1fRRvjB2eKyWJAOuinZ5NZ"
+    },
+    {
+      "album": {
+        "name": "Hunter",
         "url": "https://open.spotify.com/album/7JLqUV9lFZMym6t0uEVGs7"
       },
       "artists": [
@@ -7976,7 +8012,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 228760,
       "name": "Hunter",
       "url": "https://open.spotify.com/track/5ipJCn0tOI0qAUwhQ0Onhk"
@@ -20472,10 +20508,28 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 269800,
       "name": "Willow",
       "url": "https://open.spotify.com/track/1wJdEsTX2x1uzIfDdkuVdJ"
+    },
+    {
+      "album": {
+        "name": "Stolen Time Deluxe",
+        "url": "https://open.spotify.com/album/27Pl4ZURgCynlnGAgTQEds"
+      },
+      "artists": [
+        {
+          "name": "Abigail Lapell",
+          "url": "https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269800,
+      "name": "Willow",
+      "url": "https://open.spotify.com/track/4ERM0QdLgq9HvZ7zUsiimB"
     },
     {
       "album": {

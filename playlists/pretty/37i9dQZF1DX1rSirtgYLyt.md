@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,659 likes - 96 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,755 likes - 96 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 3 | [Bring It On Home To Me](https://open.spotify.com/track/4Vfgc4BdSKM2hRlkaRFc9C) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 3:10 |
 | 4 | [Cocaine](https://open.spotify.com/track/3gdsDjnr1ENIPXlizQQ6sp) | [Joe Robinson](https://open.spotify.com/artist/73V471Pu2mWBqqodpLh6PV) | [Cocaine](https://open.spotify.com/album/00UHV6SsI9nUiSM6GJCN8Y) | 3:47 |
 | 5 | [I've Got To Use My Imagination](https://open.spotify.com/track/2kChTanSYKMIRwE4rvHS4a) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [I've Got To Use My Imagination](https://open.spotify.com/album/7DFRVqlqE7AntflxrFCdIe) | 5:05 |
-| 6 | [Boom Boom](https://open.spotify.com/track/5GfniMxaYSGBCPrK71SL0Y) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Bad Mouthin'](https://open.spotify.com/album/1BDyQ67N0PjyWDF3yVjEoQ) | 4:22 |
+| 6 | [Boom Boom](https://open.spotify.com/track/308np2jHp2Z0GmKa1V4f2P) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Bad Mouthin'](https://open.spotify.com/album/3ZChLxUW5NBs5h4c49OMUF) | 4:22 |
 | 7 | [Give Me One Reason](https://open.spotify.com/track/2NlzTQKA7U1nc9U6tWb7Xv) | [Lee Ritenour's 6 String Theory](https://open.spotify.com/artist/4kMQjLEnWTWmseztv5uOOo), [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [6 String Theory](https://open.spotify.com/album/12KBkAV3rS7H2h8QIcbCy5) | 5:14 |
 | 8 | [Still Got the Blues](https://open.spotify.com/track/4foKEzs442JODnkwNRro1R) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Old Sock](https://open.spotify.com/album/4P3By1D3VxXMbbNZJI0a8v) | 5:54 |
 | 9 | [Built for Comfort](https://open.spotify.com/track/2qm4ndp7taYoHbvlQKDQAX) | [Sunjay](https://open.spotify.com/artist/3p62DWI8KdlfX4lNTMNXeu) | [Black & Blues Revisited](https://open.spotify.com/album/28xKFUcoOpKPu4HbanKjzg) | 3:48 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 20 | [Lost Cause](https://open.spotify.com/track/0nZ4lF8FhUPo94DLLluXIO) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k), [Stanton Moore](https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj) | [Lost Cause](https://open.spotify.com/album/5BX6vHqeZHBpEHykTlKwEc) | 3:51 |
 | 21 | [Honey, Hush Aka Talking Woman Blues](https://open.spotify.com/track/2OcI0qBGh43Ujr4xhxUGg7) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Greatest Blues Covers](https://open.spotify.com/album/16DVtb2ktkxqpkzFsYGnSG) | 4:28 |
 | 22 | [Ventilator Blues](https://open.spotify.com/track/1TvWKgvwVEYzmgqlN9NbKa) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [All Blues'd Up: Songs of the Rolling Stones](https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M) | 6:13 |
-| 23 | [Summertime](https://open.spotify.com/track/4R3mHfzNpk0YmRx983jzik) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Green River](https://open.spotify.com/album/3E9yu7yqBGvCRgZqk1oD43) | 5:05 |
+| 23 | [Summertime](https://open.spotify.com/track/22YV6hhUNMjv6Nf65NFSHg) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Green River](https://open.spotify.com/album/5EpWgT2sHg4I96ZIlJdDNd) | 5:05 |
 | 24 | [Crow Jane](https://open.spotify.com/track/2b0ObO7Xk3qzJdMOhJc5c3) | [The Derek Trucks Band](https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn) | [Songlines](https://open.spotify.com/album/1T6rgbl3cemngWpcLC99MH) | 3:53 |
 | 25 | [Smokestack Lightning](https://open.spotify.com/track/2ltKgfElKBcNHh2ZIq0TRv) | [Marty O'Reilly & the Old Soul Orchestra](https://open.spotify.com/artist/0oFKnXK9fgRpWNyKoJeSOy) | [Pray for Rain](https://open.spotify.com/album/4ZLAsjVWkF6YjKJbfa4fhA) | 6:51 |
 | 26 | [Ain't No Way](https://open.spotify.com/track/3XpmFvsO8U4kMlVmxcc0AH) | [Beth Hart, Joe Bonamassa](https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5) | [Don't Explain](https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT) | 6:47 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 95 | [Taxman](https://open.spotify.com/track/3kT1cthH4KOLPJRpmdHQrI) | [Teresa James](https://open.spotify.com/artist/4Ovys1AMeXFomDQvnc4f0C) | [Taxman](https://open.spotify.com/album/147vvnC0aJ0Ttrtbgmv6ee) | 3:26 |
 | 96 | [Hound Dog](https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:16 |
 
-Snapshot ID: `MCwyZDVhYTYzYzRmNjUwMGEyY2JkYjliY2QxYjUzOGFlNzcxYWRlYzIx`
+Snapshot ID: `MCw3ZmIxOGRhN2Q2MWM3Yjg3OGExNjJkMTM2ZjhiYzY0YmM3MzI5MjNh`

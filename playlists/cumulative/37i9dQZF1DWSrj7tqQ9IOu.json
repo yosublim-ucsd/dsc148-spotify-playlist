@@ -1912,6 +1912,24 @@
     {
       "album": {
         "name": "Hydranism",
+        "url": "https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169216,
+      "name": "Hail Mary",
+      "url": "https://open.spotify.com/track/377M5cHQ9COyB8i9t3Hval"
+    },
+    {
+      "album": {
+        "name": "Hydranism",
         "url": "https://open.spotify.com/album/61IFc4d4O5z2AReP8eI3Ay"
       },
       "artists": [
@@ -1922,7 +1940,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 169216,
       "name": "Hail Mary",
       "url": "https://open.spotify.com/track/71fZrZ2MTPLRLPbMf8pT0F"
@@ -5603,6 +5621,24 @@
     },
     {
       "album": {
+        "name": "Hydranism",
+        "url": "https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324959,
+      "name": "Tramp Like You",
+      "url": "https://open.spotify.com/track/0rNww8SMuGZm8GkDWeHtLi"
+    },
+    {
+      "album": {
         "name": "Tramp Like You",
         "url": "https://open.spotify.com/album/21uaZE9JBRZDNHNouEO8Df"
       },
@@ -5614,7 +5650,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 324959,
       "name": "Tramp Like You",
       "url": "https://open.spotify.com/track/2wWlrpVleWOYkOqhpkV2EJ"

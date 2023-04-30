@@ -657,24 +657,6 @@
     },
     {
       "album": {
-        "name": "Dr. Feelgood (2021 - Remaster)",
-        "url": "https://open.spotify.com/album/1pRY36LiSRq5oBwdrLKrF2"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "date_added": "2022-01-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 278858,
-      "name": "Don't Go Away Mad (Just Go Away)",
-      "url": "https://open.spotify.com/track/4kXV4Kf4IeeA9Ah9RH3VY1"
-    },
-    {
-      "album": {
         "name": "Dr Feelgood",
         "url": "https://open.spotify.com/album/4un307nFYL2FmJEy0GslW4"
       },
@@ -690,6 +672,24 @@
       "duration_ms": 279933,
       "name": "Don't Go Away Mad (Just Go Away)",
       "url": "https://open.spotify.com/track/1YfnuJROv0PeLyvrQQK78N"
+    },
+    {
+      "album": {
+        "name": "Dr. Feelgood (2021 - Remaster)",
+        "url": "https://open.spotify.com/album/1pRY36LiSRq5oBwdrLKrF2"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278858,
+      "name": "Don't Go Away Mad (Just Go Away) - 2021 - Remaster",
+      "url": "https://open.spotify.com/track/4kXV4Kf4IeeA9Ah9RH3VY1"
     },
     {
       "album": {

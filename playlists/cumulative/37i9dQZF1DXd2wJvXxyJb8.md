@@ -4,7 +4,7 @@
 
 > eu so qria um mozinho p tatuar minha digital no braço q sacoooooooooooo eh pedir mto sabe????
 
-257 songs - 11 hr 48 min
+258 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Bandido Não Dança](https://open.spotify.com/track/5WGTBzRLbjj0Sm3Br8X1rI) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [Dj Aladin GDB](https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Bandido Não Dança](https://open.spotify.com/album/6pGEl2UutstK1XclQQgFz0) | 2:06 | 2023-01-26 |  |
 | [BEAT DO AKON \(Funk Remix\)](https://open.spotify.com/track/2Z0ndOPDVXKENAVeQeced9) | [Dj Vm](https://open.spotify.com/artist/0u1gvgaBg3WjHRFOig5Um7), [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE) | [BEAT DO AKON \(Funk Remix\)](https://open.spotify.com/album/7woQ2HF5AFJa48ZtF9OjyM) | 2:10 | 2022-05-26 | 2022-08-09 |
 | [BEBÊ TÁ SOLTA](https://open.spotify.com/track/2xglzPeWAhJAdWpTmmjc38) | [Dj Bnão](https://open.spotify.com/artist/0F1EEVbFwozNDGU9DAdpq8), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Mc Dede Stn](https://open.spotify.com/artist/1evrJRths0Y9virdhbQBDx) | [BEBÊ TÁ SOLTA](https://open.spotify.com/album/1Ff17g8o5od0tCccBy5szX) | 3:17 | 2023-03-06 | 2023-03-12 |
-| [BEBÊ TÁ SOLTA](https://open.spotify.com/track/4ChIBnH5lO5thSaNeMV0oE) | [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Dj Bnão](https://open.spotify.com/artist/0F1EEVbFwozNDGU9DAdpq8) | [BEBÊ TÁ SOLTA](https://open.spotify.com/album/1Z8jyx63wxfiXE0gcUWzS8) | 3:17 | 2023-03-07 |  |
+| [Bebê Tá Solta](https://open.spotify.com/track/1TgVaCf8D5mXZrK1d7uIZe) | [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Dj Bnão](https://open.spotify.com/artist/0F1EEVbFwozNDGU9DAdpq8) | [M.P.B](https://open.spotify.com/album/4uzdqZxJI9VR60MBmbXXLO) | 3:17 | 2023-04-28 |  |
+| [BEBÊ TÁ SOLTA](https://open.spotify.com/track/4ChIBnH5lO5thSaNeMV0oE) | [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Dj Bnão](https://open.spotify.com/artist/0F1EEVbFwozNDGU9DAdpq8) | [BEBÊ TÁ SOLTA](https://open.spotify.com/album/1Z8jyx63wxfiXE0gcUWzS8) | 3:17 | 2023-03-07 | 2023-04-30 |
 | [Black Lança \(Catucando Gostosinho\)](https://open.spotify.com/track/3qmdfYpfvKRIXmWaLllHZ3) | [MC Teteu](https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1), [Dj Serpinha](https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr) | [Black Lança \(Catucando Gostosinho\)](https://open.spotify.com/album/4BfAomaFboGTCcztPkCYLv) | 2:33 | 2022-05-26 | 2022-11-10 |
 | [Bota a Mão no Chão](https://open.spotify.com/track/3Lw41pfko5XMrsHRtlbo2k) | [Felipe Cardoso DJ](https://open.spotify.com/artist/0MkyYYm0OKY2rZohgy750o), [Mc Fopi](https://open.spotify.com/artist/07BaHE7dzguDOawZRVWCsR) | [Bota a Mão no Chão](https://open.spotify.com/album/6SMo6kzL8OXwpQaKFSOFDX) | 1:58 | 2022-05-26 | 2022-09-22 |
 | [Bota Em Você Machuca \(feat\. Flow Key, Bernax e DJ RD\)](https://open.spotify.com/track/37aYm4KlP3ZG78NrFFAT9O) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [MC Levin](https://open.spotify.com/artist/0guw2RGoUqaWKpoCY5DzWY), [Bernax](https://open.spotify.com/artist/71VXdKWeovwJtO5nzDQ7mt), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb), [Flow Key](https://open.spotify.com/artist/1qObxOBQWYkdfJhMGdMwmU) | [Bota Em Você Machuca \(feat\. Flow Key, Bernax e DJ RD\)](https://open.spotify.com/album/1YpMz1WLeqmMr51EpGOczq) | 2:09 | 2022-10-19 | 2023-03-14 |

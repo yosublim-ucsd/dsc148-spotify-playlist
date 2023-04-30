@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 78567,
+  "num_followers": 78619,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTc3MWY0ODM1NmY3YmVmYTQ4ZTMzMDA3YmIyNTcxZWYxZDE5N2Y4",
+  "snapshot_id": "MCwxNTc3YjFlMDBmZDg1MzYxYzlmYWNlZTRkNTAzYTI4Zjg4NzIxOTE1",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -475,22 +475,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
-        "url": "https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2"
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/6UQ4DtMNWgxw6ufVxjdXHF"
       },
       "artists": [
         {
           "name": "Switchfoot",
           "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
         }
       ],
-      "duration_ms": 222878,
-      "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
-      "url": "https://open.spotify.com/track/6iIgdvJREEhUmLz9wJnMlw"
+      "duration_ms": 297506,
+      "name": "Harmony Hall",
+      "url": "https://open.spotify.com/track/2uoITMIoM5gCEpt3JucVmF"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -603,18 +599,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/6UQ4DtMNWgxw6ufVxjdXHF"
+        "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
+        "url": "https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2"
       },
       "artists": [
         {
           "name": "Switchfoot",
           "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
         }
       ],
-      "duration_ms": 297506,
-      "name": "Harmony Hall",
-      "url": "https://open.spotify.com/track/2uoITMIoM5gCEpt3JucVmF"
+      "duration_ms": 222878,
+      "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
+      "url": "https://open.spotify.com/track/6iIgdvJREEhUmLz9wJnMlw"
     },
     {
       "added_at": "2020-09-04 04:02:00",

@@ -4,7 +4,7 @@
 
 > vem de dm 🔥  ❤️
 
-80 songs - 3 hr 46 min
+81 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Gumball](https://open.spotify.com/track/3CegdOeCCPTW9vP2KLb10w) | [Kunganii](https://open.spotify.com/artist/6Q52y6Y1JkSEMPnFSd5nlv) | [Gumball](https://open.spotify.com/album/3cXNC67o6QAYFzwo86RvVd) | 2:41 | 2022-07-01 | 2023-01-21 |
 | [Hipnotiza](https://open.spotify.com/track/0dkyy1SM9pU1AND0NhaiFc) | [Luis Fortes](https://open.spotify.com/artist/59jhGrdFhrRFKR9AbmcBmg) | [Hipnotiza](https://open.spotify.com/album/78VwZTQlrrIBEruikZrNRJ) | 2:19 | 2022-04-29 |  |
 | [Hoje Eu To Bem](https://open.spotify.com/track/22CjgU71oAk6kIY8HDYxWL) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Hoje Eu To Bem](https://open.spotify.com/album/4kgrFABuHVoPSYgk2TyBMb) | 3:30 | 2022-04-29 |  |
-| [Impostora](https://open.spotify.com/track/6ExrmqIqeqynFQdC65B1gE) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [Impostora](https://open.spotify.com/album/2uqjImKj6YXjeojVG2zPWG) | 2:29 | 2022-04-29 |  |
+| [Impostora](https://open.spotify.com/track/5gQ4e0SkYpXWrFj3X9CIee) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [Impostora](https://open.spotify.com/album/4mLvt0SqXjrks2XRAWKBPT) | 2:29 | 2023-04-28 |  |
+| [Impostora](https://open.spotify.com/track/6ExrmqIqeqynFQdC65B1gE) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [Impostora](https://open.spotify.com/album/2uqjImKj6YXjeojVG2zPWG) | 2:29 | 2022-04-29 | 2023-04-30 |
 | [Intriga](https://open.spotify.com/track/0A2js14ZO6nnhK7zzzV1oP) | [Gigio Gama](https://open.spotify.com/artist/6zdrZoZm9ISZeUPGAl5kf5) | [Intriga](https://open.spotify.com/album/47yIhkQZzhA2YsTxQ3DP1j) | 1:52 | 2023-01-13 |  |
 | [Jeito Diferente \- Acústico](https://open.spotify.com/track/0O5JuNqZeOJ2jeDVHA9Vr3) | [Yuri Corbal](https://open.spotify.com/artist/5E6mvHSxFAjNBveyskWTjy), [Kamatos](https://open.spotify.com/artist/3aANIxbg5GNj2aGxxpg4Mr) | [Jeito Diferente \- Acústico](https://open.spotify.com/album/5Vthk2BIlfndHneMQqGZT3) | 3:26 | 2022-04-29 |  |
 | [Júlia](https://open.spotify.com/track/4BN1FuzbCcBkULDpCVXeg9) | [Kunganii](https://open.spotify.com/artist/6Q52y6Y1JkSEMPnFSd5nlv) | [Júlia](https://open.spotify.com/album/5xHjd2zRPkv0rESSnVBPVH) | 2:30 | 2022-04-29 |  |

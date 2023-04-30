@@ -4,7 +4,7 @@
 
 > Raw, emotional, and acoustic\. Cover: Charlie Musselwhite
 
-163 songs - 10 hr 10 min
+164 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Don't Ask Me \(Bonus Track\)](https://open.spotify.com/track/4dBjjSK6P2NGO9t1RAYu1x) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Sonic Soul Surfer](https://open.spotify.com/album/75q2fTzmmtKNl03kVL0OuB) | 7:28 | 2020-08-11 | 2022-11-14 |
 | [Don't Ask Me \(Bonus Track\)](https://open.spotify.com/track/5lvg4sQSRNgr3MND6SoEWR) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Sonic Soul Surfer](https://open.spotify.com/album/5IIMQ2MbC7iblV4hdMwZD4) | 7:28 | 2020-08-11 | 2022-07-29 |
 | [Don't Ask Me \(Bonus Track\)](https://open.spotify.com/track/6K90dTF2qbjHOMpPJ9dH3A) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Sonic Soul Surfer \(Deluxe\)](https://open.spotify.com/album/45x5hEhdNvtx94NDAYrLEy) | 7:28 | 2020-08-11 |  |
-| [Don't Fish in My Sea](https://open.spotify.com/track/02wAtZaUqHt147UtEBR4LO) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Don't Fish in My Sea](https://open.spotify.com/album/4p4TdPZ6H8k7fp8ozuS6M4) | 4:10 | 2021-07-30 |  |
+| [Don't Fish in My Sea](https://open.spotify.com/track/02wAtZaUqHt147UtEBR4LO) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Don't Fish in My Sea](https://open.spotify.com/album/4p4TdPZ6H8k7fp8ozuS6M4) | 4:10 | 2021-07-30 | 2023-04-30 |
+| [Don't Fish in My Sea](https://open.spotify.com/track/79TcTsLTPlEgWRl7zbytR1) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Don't Fish in My Sea](https://open.spotify.com/album/30wHEPCp9NiMwHz3RPUfK3) | 4:10 | 2021-07-30 |  |
 | [Down in Mississippi](https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Down in Mississippi](https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP) | 3:23 | 2020-08-11 |  |
 | [Dust My Broom](https://open.spotify.com/track/3OGfvgASu7KjQn8whfBALw) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Dust My Broom](https://open.spotify.com/album/4wvZ1QR3tMnLNDzzxxn1pj) | 3:35 | 2020-08-14 |  |
 | [Eyesight to the Blind](https://open.spotify.com/track/6NEgd3mCyms5M1eDFTqKHR) | [Frank Schaap Quartet](https://open.spotify.com/artist/6LpU4IZOJ1g4HullPifcOC), [Josh Levine](https://open.spotify.com/artist/7kLUXJlgHP3muNOKgd1272), [David Langlois](https://open.spotify.com/artist/6OTOjYUcczTljZHtfgzjXv), [Miguel Weissman](https://open.spotify.com/artist/6dVnje7HuJzCIKrIlgLiAP) | [The Lost Session](https://open.spotify.com/album/2wbIgncFT47Lef7qFcdXrh) | 4:42 | 2022-05-06 |  |

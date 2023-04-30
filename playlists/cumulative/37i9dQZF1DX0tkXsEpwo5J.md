@@ -4,7 +4,7 @@
 
 > ¡Canciones para sonreír durante el día!
 
-123 songs - 7 hr 10 min
+124 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,8 +70,9 @@
 | [Me Haces Existir](https://open.spotify.com/track/6xoDLYJLowbigt8pqnthpx) | [Monocordio](https://open.spotify.com/artist/2aDuDJULvIt8qs08LIVNkU) | [El Primer Rayo de Sol \- EP](https://open.spotify.com/album/6K8C9SgJJBr6SvIfol0ckQ) | 4:49 | 2021-11-26 | 2022-08-03 |
 | [Mexico](https://open.spotify.com/track/3IMMZRr4Vvk3j9lJK5lH2J) | [Gabe James](https://open.spotify.com/artist/7FQLTeXHh1ckany6jXXcKj) | [A Boy from Colorado](https://open.spotify.com/album/1RKiTh2gOJYS6SRh7iMXBK) | 2:08 | 2021-11-26 |  |
 | [Mi Swing Es Tropical](https://open.spotify.com/track/5eUdif4B91mqx5cCTUhDul) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3) | [WonderWorld: 10 Years of Painting Outside the Lines](https://open.spotify.com/album/0c9bzJeM1cLRdgp4C0F3at) | 3:42 | 2022-08-26 | 2022-10-16 |
-| [Mi Swing es Tropical](https://open.spotify.com/track/0KTbezuHAJkcsiHewSuR1y) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Endangered Species \(Bonus Edition\)](https://open.spotify.com/album/0CoLMsQMDv7pSbLaJHF0mJ) | 3:42 | 2022-08-26 |  |
+| [Mi Swing es Tropical](https://open.spotify.com/track/0KTbezuHAJkcsiHewSuR1y) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Endangered Species \(Bonus Edition\)](https://open.spotify.com/album/0CoLMsQMDv7pSbLaJHF0mJ) | 3:42 | 2022-08-26 | 2023-04-30 |
 | [Mi Swing es Tropical](https://open.spotify.com/track/3z2aHQwr9MJ5g7DA19tpha) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Endangered Species \(Bonus Edition\)](https://open.spotify.com/album/5QAwzwTSEcpwnbEE2NvzqD) | 3:42 | 2021-11-26 | 2022-10-14 |
+| [Mi Swing es Tropical](https://open.spotify.com/track/3zK2IUdvnOaKWC3yCP0P3C) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Tempo](https://open.spotify.com/artist/3vfmc1eVYcXWTUl25loS0O) | [Endangered Species \(Bonus Edition\)](https://open.spotify.com/album/37XWqnkktzlWXa5JGp7zF3) | 3:42 | 2022-08-26 |  |
 | [Mi Swing Es Tropical](https://open.spotify.com/track/2RdvX8uw4DKROEDlmr90BR) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn), [The Candela Allstars](https://open.spotify.com/artist/3jNA6s9uYZGYZpGXbS3dyn) | [Brazilution \(5.6\)](https://open.spotify.com/album/6zIEQjLOh2016UhhmaMoJh) | 3:54 | 2022-08-26 | 2022-11-14 |
 | [Miel](https://open.spotify.com/track/5JdlC0CC89wD1UHJBENJRY) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Soda de Uva](https://open.spotify.com/album/54waWoWfW7gIfuZ4EvdrXc) | 2:42 | 2022-08-02 |  |
 | [Mismo Amor](https://open.spotify.com/track/1p1Nw0D1JJYbaLLuCY7PEw) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Mismo Amor](https://open.spotify.com/album/47TJKNoGstQmn8cITL9AQv) | 3:18 | 2022-08-02 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 81325,
+  "num_followers": 81363,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MmNlMzA5YTc2NmIxODg1ZDIyYWIxMGYzMDg3ZTVjZTRlNzRjYjM4",
+  "snapshot_id": "MCw4OWFmZmFjZGQyOWQzYWUwZTBjMWU3YWZlMzg1ZWNiZGY5NTJmMDM3",
   "tracks": [
     {
       "added_at": "2023-04-06 00:51:46",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-04-06 00:51:46",
       "album": {
+        "name": "Viru Kumbieron",
+        "url": "https://open.spotify.com/album/1CCcCWcacL3qH60tN70tp3"
+      },
+      "artists": [
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 228583,
+      "name": "Me Vas a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/3KOxcKaiZSFYIcHnr8PIKB"
+    },
+    {
+      "added_at": "2023-04-06 00:51:46",
+      "album": {
         "name": "L\u00e1grimas y Flores (feat. Natalie Perez)",
         "url": "https://open.spotify.com/album/6GkLBhohzpGAdnnLmkBAKX"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 217810,
       "name": "L\u00e1grimas y Flores (feat. Natalie Perez)",
       "url": "https://open.spotify.com/track/5ddqh5tCgWitBsKdKsp0kC"
-    },
-    {
-      "added_at": "2023-04-06 00:51:46",
-      "album": {
-        "name": "Viru Kumbieron",
-        "url": "https://open.spotify.com/album/1CCcCWcacL3qH60tN70tp3"
-      },
-      "artists": [
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 228583,
-      "name": "Me Vas a Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/3KOxcKaiZSFYIcHnr8PIKB"
     },
     {
       "added_at": "2023-04-06 00:51:46",
@@ -803,18 +803,22 @@
     {
       "added_at": "2023-04-06 00:51:46",
       "album": {
-        "name": "La Voz de los Barrios",
-        "url": "https://open.spotify.com/album/6ETUBwmq6hJ7dOtIHqj4p1"
+        "name": "Ay Amor",
+        "url": "https://open.spotify.com/album/7BCBkW2Wnh1riF1hP04dCm"
       },
       "artists": [
         {
-          "name": "Roc\u00edo Quiroz",
-          "url": "https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn"
+          "name": "Jackita",
+          "url": "https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8"
+        },
+        {
+          "name": "Mario Luis",
+          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
         }
       ],
-      "duration_ms": 181333,
-      "name": "Poco Asado, Mucho Humo",
-      "url": "https://open.spotify.com/track/4KzcvEv1UFjbXDK9XADoN4"
+      "duration_ms": 207700,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/2VWMQXNWdSmabmOWrvo9GC"
     },
     {
       "added_at": "2023-04-06 00:51:46",
@@ -851,6 +855,22 @@
     {
       "added_at": "2023-04-06 00:51:46",
       "album": {
+        "name": "La Voz de los Barrios",
+        "url": "https://open.spotify.com/album/6ETUBwmq6hJ7dOtIHqj4p1"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo Quiroz",
+          "url": "https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Poco Asado, Mucho Humo",
+      "url": "https://open.spotify.com/track/4KzcvEv1UFjbXDK9XADoN4"
+    },
+    {
+      "added_at": "2023-04-06 00:51:46",
+      "album": {
         "name": "La Chismeadera",
         "url": "https://open.spotify.com/album/5FdBKEn8oKz2ujvM7xmAZ2"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 219282,
       "name": "La Chismeadera",
       "url": "https://open.spotify.com/track/7EVWdNSgdItB2rvXAf1kHU"
-    },
-    {
-      "added_at": "2023-04-06 00:51:46",
-      "album": {
-        "name": "Ay Amor",
-        "url": "https://open.spotify.com/album/7BCBkW2Wnh1riF1hP04dCm"
-      },
-      "artists": [
-        {
-          "name": "Jackita",
-          "url": "https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8"
-        },
-        {
-          "name": "Mario Luis",
-          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
-        }
-      ],
-      "duration_ms": 207700,
-      "name": "Ay Amor",
-      "url": "https://open.spotify.com/track/2VWMQXNWdSmabmOWrvo9GC"
     },
     {
       "added_at": "2023-04-06 00:51:46",
@@ -931,22 +931,6 @@
       "duration_ms": 198542,
       "name": "Lo Que Tenias Conmigo",
       "url": "https://open.spotify.com/track/5kgEYgfAbwGghXZCyOm7xm"
-    },
-    {
-      "added_at": "2023-04-06 00:51:46",
-      "album": {
-        "name": "Ya No Cabes en Mi Vida",
-        "url": "https://open.spotify.com/album/0owqh23Zt5u38h1SbS4Oyf"
-      },
-      "artists": [
-        {
-          "name": "Mariana Seoane",
-          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
-        }
-      ],
-      "duration_ms": 211489,
-      "name": "Ya No Cabes en Mi Vida",
-      "url": "https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf"
     },
     {
       "added_at": "2023-04-06 00:51:46",
@@ -1015,6 +999,22 @@
       "duration_ms": 224573,
       "name": "Dos Infieles",
       "url": "https://open.spotify.com/track/3GcbihNnqXr2fVKOnawl7K"
+    },
+    {
+      "added_at": "2023-04-06 00:51:46",
+      "album": {
+        "name": "Ya No Cabes en Mi Vida",
+        "url": "https://open.spotify.com/album/0owqh23Zt5u38h1SbS4Oyf"
+      },
+      "artists": [
+        {
+          "name": "Mariana Seoane",
+          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
+        }
+      ],
+      "duration_ms": 211489,
+      "name": "Ya No Cabes en Mi Vida",
+      "url": "https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf"
     },
     {
       "added_at": "2023-04-06 00:51:46",

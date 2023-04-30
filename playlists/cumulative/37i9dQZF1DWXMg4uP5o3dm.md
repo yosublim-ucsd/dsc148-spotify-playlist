@@ -4,7 +4,7 @@
 
 > alternative meets electronic Cover: NOISY
 
-247 songs - 13 hr 0 min
+248 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Devil](https://open.spotify.com/track/1xKqbhFvRsZsSJa68zwN8a) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Shape & Form](https://open.spotify.com/album/7q1CcQco23wrR3dpVd87kL) | 2:40 | 2022-10-14 |  |
 | [Devil](https://open.spotify.com/track/4zvRdQWreRSHm8siX9cvzO) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Devil](https://open.spotify.com/album/6YqhEb5DxHRuzW2slbnNay) | 2:40 | 2021-07-23 | 2022-10-13 |
 | [Did It To Myself \(feat\. Lights\)](https://open.spotify.com/track/5Ye012XK2vXqZyyihlqWHy) | [Robert DeLong](https://open.spotify.com/artist/42crL07E4WPfVovyUtMpvC), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Did It To Myself \(feat\. Lights\)](https://open.spotify.com/album/66malf4KPHZOEcdmCwAVr7) | 3:09 | 2021-07-02 | 2022-07-28 |
+| [Die For A Night](https://open.spotify.com/track/5by79t0saDZCGImchg8oSY) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Die For A Night](https://open.spotify.com/album/67aoFiHyWWl1N15nMxbQoP) | 3:15 | 2023-04-28 |  |
 | [DIE4MYBITCH](https://open.spotify.com/track/1IvwVTbMP2SlolQEV2kbrc) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [DIE4MYBITCH](https://open.spotify.com/album/1WJz78bBh6rU9L3KYkWmVV) | 2:48 | 2022-10-14 | 2022-12-04 |
 | [Dirty Little Animals \(From the series Arcane League of Legends\)](https://open.spotify.com/track/2ZuDGsKSJpQdJmpknJ7ypF) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Dirty Little Animals \(From the series Arcane League of Legends\)](https://open.spotify.com/album/2OGZHtCzPL6uk1kEPvFqIC) | 3:25 | 2021-12-07 | 2022-10-15 |
 | [Distorted Light Beam](https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Distorted Light Beam](https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz) | 2:57 | 2021-06-25 |  |
@@ -105,7 +106,7 @@
 | [Girl Next Door \(feat\. Wiz Khalifa, DVBBS\)](https://open.spotify.com/track/3YSowxZIbp6dTYyOZdHUMe) | [SK8](https://open.spotify.com/artist/4YqctGfuLnSvjjlFQvNish), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Girl Next Door \(feat\. Wiz Khalifa, DVBBS\)](https://open.spotify.com/album/57g2B21B4dHEP3vgrox6Rk) | 2:20 | 2021-07-16 | 2022-10-15 |
 | [Go Down Together](https://open.spotify.com/track/0oSHS50JBCzpgetwyPuf1d) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Draw Down The Moon](https://open.spotify.com/album/4DOnbp4wcdxexquFeRhT6n) | 3:15 | 2022-06-17 | 2023-04-29 |
 | [Go Down Together](https://open.spotify.com/track/4tkpi79JqjPCMGmBOtEJI9) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Go Down Together](https://open.spotify.com/album/3YtQHYbQ55OQapg8SxhIkh) | 3:15 | 2021-04-16 | 2022-05-27 |
-| [Going Ghost](https://open.spotify.com/track/7KDT0me83hS1RnHJ6EeYKS) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [Going Ghost](https://open.spotify.com/album/3YoYaUvzxAtji6MG8ZzghO) | 2:49 | 2021-08-13 |  |
+| [Going Ghost](https://open.spotify.com/track/7KDT0me83hS1RnHJ6EeYKS) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [Going Ghost](https://open.spotify.com/album/3YoYaUvzxAtji6MG8ZzghO) | 2:49 | 2021-08-13 | 2023-04-30 |
 | [Great Time To Be Human](https://open.spotify.com/track/30xXJonsfJNpbHBc1kCmz2) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [Great Time To Be Human](https://open.spotify.com/album/2Mxsg75C84uMMRBGSFKzvf) | 3:23 | 2023-04-21 |  |
 | [Guilty Pleasure](https://open.spotify.com/track/0fXxaWPApfhAx0SQ8CGrEU) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [Guilty Pleasure](https://open.spotify.com/album/6IVoJEH4qvoXUngVo6R96d) | 3:07 | 2022-04-08 |  |
 | [Harder, Better, Faster, Stronger](https://open.spotify.com/track/1lETAGGc4PX6cKfv9sjB2U) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [Harder, Better, Faster, Stronger](https://open.spotify.com/album/7kEgA5suCapUXnxaS1me8T) | 3:04 | 2021-09-03 | 2022-04-02 |

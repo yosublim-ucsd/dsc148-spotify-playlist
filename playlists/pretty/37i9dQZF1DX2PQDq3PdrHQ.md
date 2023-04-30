@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,067 likes - 340 songs - 13 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,639 likes - 340 songs - 13 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,7 +128,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 118 | [Clean Sofas](https://open.spotify.com/track/7HCmYfkG0DeMGGXVfxIfx1) | [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL), [Juurio](https://open.spotify.com/artist/4Qqyjqz2uXE8S8m5Mn5H1G) | [floating bedroom](https://open.spotify.com/album/2e2V2dLbQQvT6rAQ8CLOBK) | 2:08 |
 | 119 | [Morning Slush](https://open.spotify.com/track/2fi7wlRTCmdLpQBq9Albac) | [steezy prime](https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx), [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR) | [Morning Slush](https://open.spotify.com/album/10mvd7pBmtBouNL0aPBHBG) | 2:13 |
 | 120 | [puddles](https://open.spotify.com/track/1ICqwks7d1Jw0ivRAjnIUt) | [Flacvih](https://open.spotify.com/artist/5vyWkHZrsvbjPskzIatoFg), [Chillhop World](https://open.spotify.com/artist/6FRp4QaPuNXElp7RzYVNc8) | [billboard](https://open.spotify.com/album/0iIsngFS2dkWGrKjemVvBG) | 2:13 |
-| 121 | [you snooze, you bruise](https://open.spotify.com/track/7H7Vuf9WnVeR03R1ZYdExT) | [yawn](https://open.spotify.com/artist/45gaMiwtS3JK5Nj6zPpMsI) | [you snooze, you bruise](https://open.spotify.com/album/1cL5cNrm8VanlgD3sj5RDB) | 1:51 |
+| 121 | [you snooze, you bruise](https://open.spotify.com/track/7H7Vuf9WnVeR03R1ZYdExT) | [yawn](https://open.spotify.com/artist/45gaMiwtS3JK5Nj6zPpMsI), [ordinary\_\_oak](https://open.spotify.com/artist/3rtVxBJyfavl7XRqQ6NsOy), [skyer](https://open.spotify.com/artist/0cKlSeJXP9bochHat4arJi) | [you snooze, you bruise](https://open.spotify.com/album/1cL5cNrm8VanlgD3sj5RDB) | 1:51 |
 | 122 | [Nightsong](https://open.spotify.com/track/02Xug25tB1hYcCscxlZky4) | [Yuforia](https://open.spotify.com/artist/189g0zKErUGH3VvDsgLSfd), [Sheath](https://open.spotify.com/artist/0IlAtf4VeHUzQYRM8GMWXw) | [Nightsong](https://open.spotify.com/album/1IUvVvGzTPNhPHFmF4Shxz) | 2:32 |
 | 123 | [Past Lives](https://open.spotify.com/track/2KqTbUZuvtP0Vu9BH1T8Ak) | [Charlee Nguyen](https://open.spotify.com/artist/5ffORofXMmNRRtwIeQsyW3), [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU) | [Past Lives](https://open.spotify.com/album/2PSyXQLiU4uXB3892OPnzr) | 3:04 |
 | 124 | [Slow Drives](https://open.spotify.com/track/5dUpBcyuNSuqSUmZ5lmuO5) | [hushfall](https://open.spotify.com/artist/6wPZ8OOl7FlpRa1aUejY47), [irons](https://open.spotify.com/artist/4LbLkMAECFLrhXADjgT8Jn) | [Slow Drives](https://open.spotify.com/album/6Vvb8APjpOiP74S0Ko93TV) | 1:44 |
@@ -349,4 +349,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 339 | [glass on rain](https://open.spotify.com/track/2lCqEGGvby2mwEhl06HSjX) | [Spitzgefühl](https://open.spotify.com/artist/1sxYUZPD5cbz9jqdNqR3lk) | [glass on rain](https://open.spotify.com/album/0RVXB95fOx5ZgbnfKEJTXd) | 1:50 |
 | 340 | [hopscotch](https://open.spotify.com/track/2B1dl95kTHNdwyZkaZsVFX) | [ratio 11](https://open.spotify.com/artist/0ecn09hphRWavIB0uGYNxl) | [hopscotch](https://open.spotify.com/album/3HQQ8v9tvLUtiuACaGUBS5) | 2:30 |
 
-Snapshot ID: `MCxkMGRlNDA3ZWZmMzQwODcwNDYzNGRlYzhiOWZkNzk1OWVmN2RkMGY0`
+Snapshot ID: `MCw3MGVjZTBiMDFlNTZlMWViMDA3ZTA1MDM3MzkyN2FiMGNjNzE4ZWI1`

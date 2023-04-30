@@ -4,13 +4,14 @@
 
 > The creepiest folk and roots songs, sure to raise the hair on your neck.
 
-77 songs - 4 hr 43 min
+78 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Afraid](https://open.spotify.com/track/5RqzmyZZTB35lb4Rc1FKAA) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu) | 3:57 | 2022-10-27 |  |
 | [Ain't No Grave](https://open.spotify.com/track/4H4B97UMURWsNybgJWhQBo) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Ain't No Grave](https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj) | 3:21 | 2022-10-27 |  |
-| [Bad Magic](https://open.spotify.com/track/7bxuX0YTV3lhUFi2qdEnbN) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [The Innocents](https://open.spotify.com/album/4iyQ6mS7JUElDGGq2Ix09P) | 5:54 | 2022-10-27 |  |
+| [Bad Magic](https://open.spotify.com/track/7bxuX0YTV3lhUFi2qdEnbN) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [The Innocents](https://open.spotify.com/album/4iyQ6mS7JUElDGGq2Ix09P) | 5:54 | 2022-10-27 | 2023-04-30 |
+| [Bad Magic](https://open.spotify.com/track/7mSVXtwJgJSZ84cJSGleQX) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [The Innocents](https://open.spotify.com/album/3EquxHnYp0P86vS259xd0h) | 5:54 | 2022-10-27 |  |
 | [Blood on Your Bootheels](https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [I Will Not Be Afraid](https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk) | 3:15 | 2022-10-27 |  |
 | [Bobby Reid](https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS) | [Lucette](https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn) | [Black Is the Color](https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY) | 2:18 | 2022-10-27 |  |
 | [Broken Bones](https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:05 | 2022-10-27 |  |

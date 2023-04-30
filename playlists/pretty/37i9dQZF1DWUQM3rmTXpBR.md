@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 
 > Alternative Arabic songs\. Cover: Adonis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,698 likes - 61 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,743 likes - 61 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 | 60 | [Madinet El Malahi](https://open.spotify.com/track/75ydg43onQ8qN6UM9pThBo) | [El Far3i](https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t) | [Nas Min Khashab](https://open.spotify.com/album/4cbzaR1zDB91sf0fcJiEDw) | 4:41 |
 | 61 | [Kol Shi](https://open.spotify.com/track/5mMdUcYJpQHEFiqdV2ECOU) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [Kol Shi](https://open.spotify.com/album/4VoxoPiFIsYOQyBN93Vin2) | 3:49 |
 
-Snapshot ID: `MCxmY2U4ZWI2MTgwMmUwMmE4OGMwYWNmZWJjNmM2NmZkMWY1NTZiMjk1`
+Snapshot ID: `MCw5MWY5Mzk2OGRlNmNiN2EyMGY1NWUzMTVjNGU3NDQ2NmZhYThhZTFh`

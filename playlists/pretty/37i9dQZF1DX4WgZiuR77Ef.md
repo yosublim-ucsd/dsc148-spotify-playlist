@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,567 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,604 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 | 15 | [Call Me](https://open.spotify.com/track/2OtS9JzHxv2yU3qezmMfdo) | [Lowdown Brass Band](https://open.spotify.com/artist/0DccOPSJ5LcC4HDiDZl17u) | [Call Me](https://open.spotify.com/album/1F3NMMAArhe2OjH8pf36Wq) | 3:41 |
 | 16 | [Yes It Do](https://open.spotify.com/track/3S2AYMJpZBYwFJkqIhwpnV) | [Jon Mero](https://open.spotify.com/artist/6MuZFI7KLPBjhmgkkX5LPf) | [Keep It Real](https://open.spotify.com/album/490tEx7QX0OmH7vmZ6JZBk) | 2:24 |
 | 17 | [2nd Place](https://open.spotify.com/track/3OSS6R3an41FservLqCpZH) | [Tom McGuire & the Brassholes](https://open.spotify.com/artist/7JnJgTo8cCtAQmtC0cJyjp) | [Stay Rad](https://open.spotify.com/album/5bCLbLEowvZ6GHtC6LCuHz) | 4:58 |
-| 18 | [Africvillean Funk](https://open.spotify.com/track/7HweCGOZ6T0Kh9o64cuusn) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus), [Trobiz](https://open.spotify.com/artist/1SOChUFxbvRq02w2HC1XvX) | [Don't Trip](https://open.spotify.com/album/3W9Sluk9IfQnZZOAcq4tdB) | 3:12 |
+| 18 | [Africvillean Funk](https://open.spotify.com/track/5xCbruMkIhwhRESa9YBUPr) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus), [Trobiz](https://open.spotify.com/artist/1SOChUFxbvRq02w2HC1XvX) | [Don't Trip](https://open.spotify.com/album/2TLJYbqaz0kygsMTDXn3et) | 3:12 |
 | 19 | [Bay B\. MoMa](https://open.spotify.com/track/60gfsjq0ZiSeTNozFfO8bl) | [The Du\-Rites](https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw) | [Bay B\. MoMa](https://open.spotify.com/album/6MkQxVuiyhDEXCL2JttDbc) | 4:02 |
 | 20 | [B Side \- Dr\. Rubberfunk Mix](https://open.spotify.com/track/304Y32tn2MipSfI2CJSTwW) | [Smudge All Stars](https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU), [Dr Rubberfunk](https://open.spotify.com/artist/7jOCklAiBleLs7aGsFaDep), [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc), [Fred Wesley](https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam) | [B Side \- Dr\. Rubberfunk Mix](https://open.spotify.com/album/3fQwy0KsXSMCpgoF8NERyT) | 4:43 |
 | 21 | [Very Fine \- Pts\. 1 & 2](https://open.spotify.com/track/5VGqqm2kZAPlLPQggN3Zes) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Sentimental Garbage](https://open.spotify.com/album/2iiRsnJVF6kpFMA30U6nif) | 5:37 |
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 | 89 | [Look in My Eyes](https://open.spotify.com/track/3xq9srnNN0LBvha15ZWpTU) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Step Up](https://open.spotify.com/album/3iiNHgr5Pl3fmoqQdSTWlr) | 3:44 |
 | 90 | [Turn up the Sound](https://open.spotify.com/track/3xDvyv5KF5Jvnycgutrgb9) | [The Brooks](https://open.spotify.com/artist/7GnRzYsBXvLyhcdFEtCAei) | [Turn up the Sound](https://open.spotify.com/album/29y8juHtLWWahTrNE7A6uz) | 3:49 |
 | 91 | [Gotta Keep on Movin'](https://open.spotify.com/track/2jnOjKvvOH7BZSAJmwdCr7) | [The Aquaducks](https://open.spotify.com/artist/1gODfHkJMTmn5Kmyy3M6LW) | [Gotta Keep on Movin'](https://open.spotify.com/album/4eoPasodTB5I1MmQBC0qzI) | 4:05 |
-| 92 | [Let's Get a Groove On](https://open.spotify.com/track/6nNHyyYKi90iRQbLuIdO8O) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Let's Get a Groove On](https://open.spotify.com/album/0MKoTL2lYJ3hUVDYyhmyTi) | 2:54 |
+| 92 | [Let's Get a Groove On](https://open.spotify.com/track/3wHAECTBbg1jAck1XzfTeT) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Let's Get a Groove On](https://open.spotify.com/album/2MRnKlIIuBYkDQOgVXMwI2) | 2:54 |
 | 93 | [Shake It \- 45](https://open.spotify.com/track/5qenhYD4ynkEEHDDwqBiEG) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Shake It](https://open.spotify.com/album/6dZ7KjlmWXhY5MfVqclrIc) | 2:56 |
 | 94 | [You've Got To Change](https://open.spotify.com/track/5eZlZq3LDJTaHPVb5j3tdC) | [Brownout](https://open.spotify.com/artist/75ITBSKqlC5hlS4PZ2XP1S) | [Berlin Sessions](https://open.spotify.com/album/0IDJHvzYJdJ95VtHUOKhqg) | 3:58 |
 | 95 | [Pushin' On](https://open.spotify.com/track/7LiC67aNpgqxkZJPC49UjM) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e), [Alice Russell](https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc) | [Pushin' On](https://open.spotify.com/album/1uYaIjqXcqrCLIeA0syxar) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 | 99 | [Let's Celebrate Our Love](https://open.spotify.com/track/6esXoqILAGbmzh5P7IWS9I) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Step Up](https://open.spotify.com/album/3iiNHgr5Pl3fmoqQdSTWlr) | 4:35 |
 | 100 | [Until I Met You](https://open.spotify.com/track/7uil4nygkuyV7Fnv3ujt7f) | [cleaveland jones](https://open.spotify.com/artist/0sCCnNKvvYWRFZqJQRoiqM) | [Heart & Sol](https://open.spotify.com/album/4vMxEkLHiF6ETEtqB85EmD) | 3:20 |
 
-Snapshot ID: `MCw3YzkyNDdhYzU4Yzc4NWZiYjAyM2YzN2NkOTZhYmMxNjE3ODQxZjFk`
+Snapshot ID: `MCxmMTc1MWQzNzNkMzE1NzBkNmVmY2JiYmU2ZGY2ZDdmZjc4NzJhNzAy`

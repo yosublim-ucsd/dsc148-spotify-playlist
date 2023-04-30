@@ -1096,7 +1096,7 @@
     {
       "album": {
         "name": "4",
-        "url": "https://open.spotify.com/album/4UoJXG2YaxLtMfasRdrA60"
+        "url": "https://open.spotify.com/album/0URKOnZvzd34c9yWZOyJKp"
       },
       "artists": [
         {
@@ -1111,6 +1111,28 @@
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 217173,
+      "name": "On the Sly (feat. Kylie Auldist)",
+      "url": "https://open.spotify.com/track/05jukmQMwRb1JG4hsqXozn"
+    },
+    {
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/4UoJXG2YaxLtMfasRdrA60"
+      },
+      "artists": [
+        {
+          "name": "The Bamboos",
+          "url": "https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K"
+        },
+        {
+          "name": "Kylie Auldist",
+          "url": "https://open.spotify.com/artist/3CSpwE5QPsrPT9KgtG3BF4"
+        }
+      ],
+      "date_added": "2021-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 217173,
       "name": "On the Sly (feat. Kylie Auldist)",
       "url": "https://open.spotify.com/track/6HVD1XoKFl4QssmyQXh1B9"

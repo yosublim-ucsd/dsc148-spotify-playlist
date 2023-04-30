@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,691 songs - 3 day 3 hr 57 min
+1,692 songs - 3 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Beautiful Minds](https://open.spotify.com/track/47sqd7sC9flICbhCazkvmP) | [Steinar Larsen](https://open.spotify.com/artist/7apKZCmtUMhx1HdiqyU4ex) | [Beautiful Minds](https://open.spotify.com/album/7tSo33pTLxlOdz1aZJIxHM) | 3:09 | 2021-03-19 | 2022-04-18 |
 | [Beautiful Moments](https://open.spotify.com/track/5KcLDrLsilkFjphvuuaGEr) | [Ronald Sims](https://open.spotify.com/artist/6Nqa1xXz6ABuyUVhsSDdUR) | [Beautiful Moments](https://open.spotify.com/album/5gYU29d5e7U8J7fygkJU98) | 2:22 | 2021-03-11 | 2022-04-30 |
 | [Beautiful Spring](https://open.spotify.com/track/20Z8pH4quSyFRy9li5tslR) | [Ken Williams](https://open.spotify.com/artist/4GVkPMAYcZypqPv4a58tiI) | [Beautiful Spring](https://open.spotify.com/album/6FSUNhH4IaUkfsWVJFYJpk) | 2:40 | 2021-03-08 | 2022-04-08 |
+| [Beauty](https://open.spotify.com/track/0Q2cbRo8CSarvKg6rGc4iK) | [Oscar Mallen](https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o) | [Beauty](https://open.spotify.com/album/0Pnz15lqGUeDTCs8eQNnLP) | 2:36 | 2023-04-25 |  |
 | [Because This Must Be](https://open.spotify.com/track/2HJNYanZcDyKGts6BRXm3z) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Keys \(Volume One\)](https://open.spotify.com/album/18IuYgjm8tw0xyQtIwthy7) | 2:45 | 2021-03-18 | 2021-05-28 |
 | [Becoming](https://open.spotify.com/track/2wPHCAgYiIIfEMt4Lj1xMg) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Becoming](https://open.spotify.com/album/1XDp0E8TtyTWFlniXqkV1C) | 2:43 | 2021-05-22 | 2022-07-26 |
 | [Bedtime Story](https://open.spotify.com/track/1CxjEMk49jbWPQZHJWlNC4) | [Once Proven](https://open.spotify.com/artist/3t46Q3kFpBlN8nD75ypsMj) | [Bedtime Story](https://open.spotify.com/album/5JSko89C8Se7SEeZWUfJzt) | 3:39 | 2021-03-06\* | 2022-04-20 |
@@ -682,7 +683,7 @@
 | [In Between](https://open.spotify.com/track/4sVJif1UHpa6ZiZPOS9ymv) | [Mia Strass](https://open.spotify.com/artist/2KhAW1n5DKiVmDcS2s0dIG) | [Mid\-Life](https://open.spotify.com/album/6aIv79Nb504XUjSjsuJm0w) | 3:11 | 2021-12-13 | 2021-12-21 |
 | [In her smile](https://open.spotify.com/track/2NISlO9Cxd2qWDT00p1Pmc) | [Rosemary Wilkinson](https://open.spotify.com/artist/6zFI7h2SJ1nqnLTlCGfdoS) | [In her smile](https://open.spotify.com/album/0rTKHudIX5RuTUm06HXx7D) | 2:31 | 2021-05-22 | 2022-04-14 |
 | [In Love](https://open.spotify.com/track/2bUMk8naDcabvgipR14U22) | [Alec Windt](https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW) | [In Love](https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm) | 1:56 | 2021-05-20 | 2022-04-04 |
-| [In Repose](https://open.spotify.com/track/50Ihxe8oJ8cQ1tDYoehuTc) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [In Repose](https://open.spotify.com/album/2QfWhGoJGLy6cldpp3IgGQ) | 2:22 | 2022-12-22 |  |
+| [In Repose](https://open.spotify.com/track/50Ihxe8oJ8cQ1tDYoehuTc) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [In Repose](https://open.spotify.com/album/2QfWhGoJGLy6cldpp3IgGQ) | 2:22 | 2022-12-22 | 2023-04-30 |
 | [In The Bleak Mid Winter](https://open.spotify.com/track/3Wn45X2wwVboQ1iMD2NnKo) | [Samuel Bath](https://open.spotify.com/artist/7lQJm3nfRsMvGs3sDeQudV) | [Peaceful Christmas Piano](https://open.spotify.com/album/4aBHuJfciuVyOcgAXX2NvJ) | 2:07 | 2021-03-15 | 2022-04-17 |
 | [In the break of dawn](https://open.spotify.com/track/6IB2ZyzLmfydwyjnkdFSLZ) | [June Allen](https://open.spotify.com/artist/6euKOo2L9Z7YcUbw682sfJ) | [In the break of dawn](https://open.spotify.com/album/7I4yr1cj7ZXkis8vCvgX3R) | 3:04 | 2022-04-14 | 2022-04-21 |
 | [In the meadow](https://open.spotify.com/track/13oOeedL25UFGZ1XNibTrU) | [Eve Dennison](https://open.spotify.com/artist/7BmoRv7JYnIZhZfy4M1aCK) | [In the meadow](https://open.spotify.com/album/0vuFZryPuXNBlpCSqF55Cn) | 3:36 | 2022-04-14 | 2022-09-21 |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7wXTWO45lqpUejDkike0Gf">Sofia Kourtesis</a>'s favorite tracks\. Updated regularly\. Curated by Sofia Kourtesis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-120 songs - 11 hr 9 min
+122 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [9 Years \- DJ Koze Remix](https://open.spotify.com/track/5EXuw91HUQM28mjkhGO4eM) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [DJ Koze Presents Pampa, Vol\. 1](https://open.spotify.com/album/41nRW0aXlNZbhCikDqtFzV) | 10:00 | 2023-01-09 |  |
 | [A83](https://open.spotify.com/track/2XjMKzVE2qm6ULEsuQvYqU) | [LUXE](https://open.spotify.com/artist/4Hholv5F2ei5wt2sRUne7S) | [Belonging EP](https://open.spotify.com/album/4qybG1RPWVKdNUqMTC1myf) | 5:59 | 2023-01-09 |  |
 | [Agua Congas](https://open.spotify.com/track/2zwPT8zx1fXTkD8VkqeKqB) | [Paula Tape](https://open.spotify.com/artist/1Yz5x25z5WOjMGQkZ1TwKh) | [Agua Congas](https://open.spotify.com/album/62wbQj88z0i2Fdojzq2b6G) | 7:12 | 2023-01-09 |  |
-| [Amor en el Cielo](https://open.spotify.com/track/2pjgyameGahHsasUXS2ajF) | [Beni Life](https://open.spotify.com/artist/6Lw0rQu6WBi2B1W3XBfUoW) | [Ritmo Fantasía: Balearic Spanish Synth\-Pop, Boogie And House \(1982\-1992\)](https://open.spotify.com/album/4athIGponDiJRR4djOgwbJ) | 5:15 | 2023-01-09 |  |
+| [Amor en el Cielo](https://open.spotify.com/track/2pjgyameGahHsasUXS2ajF) | [Beni Life](https://open.spotify.com/artist/6Lw0rQu6WBi2B1W3XBfUoW) | [Ritmo Fantasía: Balearic Spanish Synth\-Pop, Boogie And House \(1982\-1992\)](https://open.spotify.com/album/4athIGponDiJRR4djOgwbJ) | 5:15 | 2023-01-09 | 2023-04-30 |
+| [Amor en el Cielo](https://open.spotify.com/track/3aRG0ktXmISKj6InRRlVEa) | [Beni Life](https://open.spotify.com/artist/6Lw0rQu6WBi2B1W3XBfUoW) | [Ritmo Fantasía: Balearic Spanish Synth\-Pop, Boogie And House \(1982\-1992\)](https://open.spotify.com/album/6hF1xbglHjBHYkv2FMtyiq) | 5:15 | 2023-01-09 |  |
 | [Aubades](https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Blinking/Aubades](https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U) | 3:40 | 2023-01-09 |  |
 | [Avalanche](https://open.spotify.com/track/2ZqYiWW6yqG1vjjOyR6LE6) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Avalanche](https://open.spotify.com/album/1XAmPzzpxTCnowBOyiNf5X) | 5:24 | 2023-01-09 |  |
 | [Aye Aye Mi Mi](https://open.spotify.com/track/0YqjN0gHXrgl5RirVDp2pa) | [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp) | [At the Moment](https://open.spotify.com/album/6AANVkZf5rOwMb1emJOPpe) | 5:35 | 2023-01-09 |  |
@@ -66,7 +67,8 @@
 | [Make Time](https://open.spotify.com/track/55WKq24vogr2aeB0f41K1S) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Make Time](https://open.spotify.com/album/1S0RtAabyNrG88zre9tDWa) | 8:35 | 2023-01-09 |  |
 | [Matrix \- Sofia Kourtesis Remix](https://open.spotify.com/track/5hjiRNGMYjihPgvNl12W0A) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Matrix \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/3GWAJo3AAQVbQjaBVgEVcn) | 6:44 | 2023-01-09 |  |
 | [megapunk \- Sofia Kourtesis Remix](https://open.spotify.com/track/1NKjsPIVITtpDdAiTFCLCB) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [megapunk \(remixes\)](https://open.spotify.com/album/5bDFznntVIsvDmvjnzjaEs) | 6:44 | 2023-01-09 |  |
-| [Memory Lake](https://open.spotify.com/track/5xoUQZ8vTXssvodw7ykTXG) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H) | [Vortex](https://open.spotify.com/album/2wloRNpWkvTJyFJTyexRwh) | 5:39 | 2023-01-09 |  |
+| [Memory Lake](https://open.spotify.com/track/27wL9Cip8cgvtNRFNpkvcV) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H) | [Vortex](https://open.spotify.com/album/2UB4seNzh7Gt4unJR2T0x1) | 5:39 | 2023-01-09 |  |
+| [Memory Lake](https://open.spotify.com/track/5xoUQZ8vTXssvodw7ykTXG) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H) | [Vortex](https://open.spotify.com/album/2wloRNpWkvTJyFJTyexRwh) | 5:39 | 2023-01-09 | 2023-04-30 |
 | [Mermaids On Acid](https://open.spotify.com/track/1Dj2EvuZWH7fkovM61Xh0T) | [Sedef Adasi](https://open.spotify.com/artist/4jY1cwyuyqQATeSI16ZeYD) | [Mermaids On Acid](https://open.spotify.com/album/3XzMBTlN73SweePab35Mqp) | 4:21 | 2023-01-09 |  |
 | [Moninga](https://open.spotify.com/track/4P79noXrKGHrYUrsZioxjv) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/51Feoswkepa9SEg307gah5) | 4:55 | 2023-01-09 |  |
 | [Monkey Dance](https://open.spotify.com/track/2E8rkzL1jNszuZv0YnXUCO) | [Roe Deers](https://open.spotify.com/artist/1dgDxUpQTq1goeeck85apa) | [A Summer Riot IX \(Part 2\)](https://open.spotify.com/album/2EPt8NywBbkWoX469c7RAq) | 5:22 | 2023-01-09 |  |

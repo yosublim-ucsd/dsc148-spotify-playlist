@@ -1,12 +1,12 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 67002,
+  "num_followers": 67081,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZWM3ZmQ2Mzg0YjE4MGRiMzAzMTFiZTc3OWRiYzA3NTdhYjQ4MDQz",
+  "snapshot_id": "MCxkNzhhMzIyZjQwZTJlZDU5YzhkNjYxZmNjYzM3ZjFkYmU2NzE0NjU4",
   "tracks": [
     {
       "added_at": "2023-01-24 14:13:29",
@@ -565,7 +565,7 @@
       "url": "https://open.spotify.com/track/6wpJHhMHSvyiPlnSpdNPSA"
     },
     {
-      "added_at": "2023-04-29 01:00:23",
+      "added_at": "2023-04-30 01:07:09",
       "album": {
         "name": "Love in the Void",
         "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "Migration",
-        "url": "https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63"
-      },
-      "artists": [
-        {
-          "name": "Bossk",
-          "url": "https://open.spotify.com/artist/6KPlPSPeF5BndJ7P888uSh"
-        }
-      ],
-      "duration_ms": 355506,
-      "name": "White Stork",
-      "url": "https://open.spotify.com/track/2fC4TDzOjxfz8PDgCrDExM"
-    },
-    {
-      "added_at": "2023-01-24 14:13:29",
-      "album": {
         "name": "Hex",
         "url": "https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 526120,
       "name": "Above the Fog (Pt.2)",
       "url": "https://open.spotify.com/track/4cjRiT6COzETZ3mWQXydnr"
+    },
+    {
+      "added_at": "2023-01-24 14:13:29",
+      "album": {
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63"
+      },
+      "artists": [
+        {
+          "name": "Bossk",
+          "url": "https://open.spotify.com/artist/6KPlPSPeF5BndJ7P888uSh"
+        }
+      ],
+      "duration_ms": 355506,
+      "name": "White Stork",
+      "url": "https://open.spotify.com/track/2fC4TDzOjxfz8PDgCrDExM"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/5F1VGx7gOrhdhet8rTehZ6"
     },
     {
-      "added_at": "2023-04-29 01:00:23",
+      "added_at": "2023-04-30 01:07:09",
       "album": {
         "name": "Love in the Void",
         "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "Crossing the Shoreline",
-        "url": "https://open.spotify.com/album/0oD1pHEnsTiJPRHt88X090"
-      },
-      "artists": [
-        {
-          "name": "Aesthesys",
-          "url": "https://open.spotify.com/artist/0wdc6cxY8GzxkrMHGXSuOn"
-        }
-      ],
-      "duration_ms": 450666,
-      "name": "Sailing to Byzantium",
-      "url": "https://open.spotify.com/track/08DbQ8Nnd96hLiMMpioawQ"
-    },
-    {
-      "added_at": "2023-01-24 14:13:29",
-      "album": {
         "name": "This Patch of Sky",
         "url": "https://open.spotify.com/album/1SADIGwbbHfTihT6DryNQM"
       },
@@ -1015,18 +999,18 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "In Gardens",
-        "url": "https://open.spotify.com/album/354ugiF6zocDzbvq5jgSGm"
+        "name": "Crossing the Shoreline",
+        "url": "https://open.spotify.com/album/0oD1pHEnsTiJPRHt88X090"
       },
       "artists": [
         {
-          "name": "HOLM",
-          "url": "https://open.spotify.com/artist/1V45eg22S9YuA3rdgVPXKt"
+          "name": "Aesthesys",
+          "url": "https://open.spotify.com/artist/0wdc6cxY8GzxkrMHGXSuOn"
         }
       ],
-      "duration_ms": 323395,
-      "name": "In Gardens",
-      "url": "https://open.spotify.com/track/104iLe9xEka0rgjZYrvZsa"
+      "duration_ms": 450666,
+      "name": "Sailing to Byzantium",
+      "url": "https://open.spotify.com/track/08DbQ8Nnd96hLiMMpioawQ"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -1043,6 +1027,22 @@
       "duration_ms": 308666,
       "name": "Stairwell",
       "url": "https://open.spotify.com/track/51XigcN2Snfmb3g3yO9iBC"
+    },
+    {
+      "added_at": "2023-01-24 14:13:29",
+      "album": {
+        "name": "In Gardens",
+        "url": "https://open.spotify.com/album/354ugiF6zocDzbvq5jgSGm"
+      },
+      "artists": [
+        {
+          "name": "HOLM",
+          "url": "https://open.spotify.com/artist/1V45eg22S9YuA3rdgVPXKt"
+        }
+      ],
+      "duration_ms": 323395,
+      "name": "In Gardens",
+      "url": "https://open.spotify.com/track/104iLe9xEka0rgjZYrvZsa"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -1099,8 +1099,8 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "Mockingbird Love",
-        "url": "https://open.spotify.com/album/78iqh8E1w21f5RxVUNXPuq"
+        "name": "Pearldiving",
+        "url": "https://open.spotify.com/album/3qeHLQq8W62NOm4SH9Yya6"
       },
       "artists": [
         {
@@ -1108,9 +1108,9 @@
           "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
         }
       ],
-      "duration_ms": 173853,
-      "name": "My Courtesan",
-      "url": "https://open.spotify.com/track/3Mpwsnfe7Q6AspY7aM7qvF"
+      "duration_ms": 152260,
+      "name": "Les Amourettes",
+      "url": "https://open.spotify.com/track/6eOmK8yn18IqGAHrNpXf9b"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -1271,8 +1271,8 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "Pearldiving",
-        "url": "https://open.spotify.com/album/3qeHLQq8W62NOm4SH9Yya6"
+        "name": "Mockingbird Love",
+        "url": "https://open.spotify.com/album/78iqh8E1w21f5RxVUNXPuq"
       },
       "artists": [
         {
@@ -1280,9 +1280,9 @@
           "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
         }
       ],
-      "duration_ms": 152260,
-      "name": "Les Amourettes",
-      "url": "https://open.spotify.com/track/6eOmK8yn18IqGAHrNpXf9b"
+      "duration_ms": 173853,
+      "name": "My Courtesan",
+      "url": "https://open.spotify.com/track/3Mpwsnfe7Q6AspY7aM7qvF"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "Screen Time",
-        "url": "https://open.spotify.com/album/5JjJ2cviD6DcyIWRqXX4x3"
-      },
-      "artists": [
-        {
-          "name": "Thurston Moore",
-          "url": "https://open.spotify.com/artist/1J4ACYB6yMqd79q3rjskqs"
-        }
-      ],
-      "duration_ms": 164453,
-      "name": "The Station",
-      "url": "https://open.spotify.com/track/2jmpCznCIvcbgMsfG58Y7k"
-    },
-    {
-      "added_at": "2023-01-24 14:13:29",
-      "album": {
         "name": "Floating Above Saturn",
         "url": "https://open.spotify.com/album/5Ni74Rnarwg2biw5nSIrnW"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 137986,
       "name": "Floating Above Saturn",
       "url": "https://open.spotify.com/track/1EWBehRAUyHUnYeKhsvDA6"
+    },
+    {
+      "added_at": "2023-01-24 14:13:29",
+      "album": {
+        "name": "Screen Time",
+        "url": "https://open.spotify.com/album/5JjJ2cviD6DcyIWRqXX4x3"
+      },
+      "artists": [
+        {
+          "name": "Thurston Moore",
+          "url": "https://open.spotify.com/artist/1J4ACYB6yMqd79q3rjskqs"
+        }
+      ],
+      "duration_ms": 164453,
+      "name": "The Station",
+      "url": "https://open.spotify.com/track/2jmpCznCIvcbgMsfG58Y7k"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -1435,22 +1435,18 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "Altar of Tammy",
-        "url": "https://open.spotify.com/album/0X4MaivNbTViISJ5anYIbc"
+        "name": "The American Dollar",
+        "url": "https://open.spotify.com/album/3t9U8bBmsP58lh36ujoweF"
       },
       "artists": [
         {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        },
-        {
-          "name": "Paul Sukeena",
-          "url": "https://open.spotify.com/artist/2BATlF7iN0eToMP3ev80mH"
+          "name": "The American Dollar",
+          "url": "https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb"
         }
       ],
-      "duration_ms": 478853,
-      "name": "Altar of Tammy",
-      "url": "https://open.spotify.com/track/0vY8f5mk1hJJ9qVWqYy0pU"
+      "duration_ms": 199813,
+      "name": "Peterson",
+      "url": "https://open.spotify.com/track/7gfMja30N1mYv2P0RWRXyE"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -1483,22 +1479,6 @@
       "duration_ms": 214000,
       "name": "Next Level",
       "url": "https://open.spotify.com/track/25g05W1gVEUtF6BRMEZYMK"
-    },
-    {
-      "added_at": "2023-01-24 14:13:29",
-      "album": {
-        "name": "The American Dollar",
-        "url": "https://open.spotify.com/album/3t9U8bBmsP58lh36ujoweF"
-      },
-      "artists": [
-        {
-          "name": "The American Dollar",
-          "url": "https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb"
-        }
-      ],
-      "duration_ms": 199813,
-      "name": "Peterson",
-      "url": "https://open.spotify.com/track/7gfMja30N1mYv2P0RWRXyE"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -1555,22 +1535,6 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/48zXekl1P8gRk1QQNa88MP"
-      },
-      "artists": [
-        {
-          "name": "Sleepsleeprepeat",
-          "url": "https://open.spotify.com/artist/5y1SFoys6rcYo6dj6rmGPR"
-        }
-      ],
-      "duration_ms": 171958,
-      "name": "10",
-      "url": "https://open.spotify.com/track/5URbMHeFpOmRGUDZHs01po"
-    },
-    {
-      "added_at": "2023-01-24 14:13:29",
-      "album": {
         "name": "Cura",
         "url": "https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU"
       },
@@ -1587,18 +1551,18 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "This Light",
-        "url": "https://open.spotify.com/album/6jreztqQw5fcT87HVRPVe3"
+        "name": "10",
+        "url": "https://open.spotify.com/album/48zXekl1P8gRk1QQNa88MP"
       },
       "artists": [
         {
-          "name": "Stray Theories",
-          "url": "https://open.spotify.com/artist/6zrYVEFX8UvqKu99mWVOKs"
+          "name": "Sleepsleeprepeat",
+          "url": "https://open.spotify.com/artist/5y1SFoys6rcYo6dj6rmGPR"
         }
       ],
-      "duration_ms": 346133,
-      "name": "Be the Light",
-      "url": "https://open.spotify.com/track/3BgjBJHBnRWY2Ah4L5vLz4"
+      "duration_ms": 171958,
+      "name": "10",
+      "url": "https://open.spotify.com/track/5URbMHeFpOmRGUDZHs01po"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -1635,6 +1599,22 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
+        "name": "Lakeshore",
+        "url": "https://open.spotify.com/album/1YgvjkUsjMJbJGxcvun4RM"
+      },
+      "artists": [
+        {
+          "name": "Lost Horse Mine",
+          "url": "https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV"
+        }
+      ],
+      "duration_ms": 164589,
+      "name": "Lakeshore",
+      "url": "https://open.spotify.com/track/3HGFKsehiopbAKGrzWVjGc"
+    },
+    {
+      "added_at": "2023-01-24 14:13:29",
+      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/2FnyPVqxMi3DhDL9Ms53we"
       },
@@ -1667,6 +1647,22 @@
       "duration_ms": 265000,
       "name": "Samadhi",
       "url": "https://open.spotify.com/track/1RDmSWTi4ga2alUBcojyXz"
+    },
+    {
+      "added_at": "2023-01-24 14:13:29",
+      "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/4AiU1Zx8RwfwrQvgblweFy"
+      },
+      "artists": [
+        {
+          "name": "Aatom",
+          "url": "https://open.spotify.com/artist/3jZNP1cGIr9jG32lxHUezh"
+        }
+      ],
+      "duration_ms": 246660,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/2FNfyF9i5CcnnxCERfAlU1"
     }
   ],
   "unique_name": "Ambient Post-Rock",

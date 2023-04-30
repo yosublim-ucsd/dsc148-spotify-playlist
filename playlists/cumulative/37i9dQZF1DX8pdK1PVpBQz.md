@@ -4,7 +4,7 @@
 
 > Discover something new from local independent artists on the rise\. Cover: Mitch Santiago\. Artwork: Isu Kim
 
-2,018 songs - 4 day 15 hr 26 min
+2,019 songs - 4 day 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1681,7 +1681,8 @@
 | [Superpower](https://open.spotify.com/track/5MdCxFHpUzH8cfz1Og2xZh) | [Zretro](https://open.spotify.com/artist/7z6qvx13midpnua74EqVyq) | [Superpower](https://open.spotify.com/album/2t4ZTnsJWlhtejWAluoC88) | 4:30 | 2022-04-20 | 2022-05-12 |
 | [Supersonic](https://open.spotify.com/track/1L6uwcEQ8YCP0ri17FoaBu) | [cln](https://open.spotify.com/artist/57JUsZcuNTR0ocGCfrnse1), [Stephen Geisler](https://open.spotify.com/artist/6jdC0EtYmY3QXcf5bejYGC) | [Over, All Again](https://open.spotify.com/album/40nko6Eyb5xslxASKBapny) | 3:26 | 2023-01-12 | 2023-02-02 |
 | [Supervillain](https://open.spotify.com/track/14AIfR94u0oaf4KVGdsPdB) | [Ivoris](https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji), [Zhuli](https://open.spotify.com/artist/2p2y1z8eTbirxLN7z032sz), [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t) | [Supervillain](https://open.spotify.com/album/0SfvW9b0NbiW2ZWCUpJaUj) | 3:02 | 2022-10-04 | 2022-11-17 |
-| [Surf Club](https://open.spotify.com/track/7dGEnyQELR5CC5jmJW41cP) | [Coast Arcade](https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC) | [Surf Club](https://open.spotify.com/album/7pDf8TRH7CzRwgVdRk0ygg) | 3:35 | 2023-04-04 |  |
+| [Surf Club](https://open.spotify.com/track/5jEBhGDQewJ5wCQHABTTvV) | [Coast Arcade](https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC) | [Surf Club](https://open.spotify.com/album/4mGiBNdjXxF6MnmWqPIuVx) | 3:35 | 2023-04-26 |  |
+| [Surf Club](https://open.spotify.com/track/7dGEnyQELR5CC5jmJW41cP) | [Coast Arcade](https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC) | [Surf Club](https://open.spotify.com/album/7pDf8TRH7CzRwgVdRk0ygg) | 3:35 | 2023-04-04 | 2023-04-30 |
 | [Suzuka](https://open.spotify.com/track/4F6v6KqM19TVQFBm1V0Pz1) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Suzuka](https://open.spotify.com/album/6QkC4UxbD1OqEpWcqzqR98) | 3:56 | 2023-03-08 | 2023-04-05 |
 | [Sweet Connection](https://open.spotify.com/track/59GxhR9onPbGsPmEGRLvey) | [Elizabeth](https://open.spotify.com/artist/4PeDuiJ3tM8So1Ai7c5szN) | [Sweet Connection](https://open.spotify.com/album/4S13i7GzBhv4zx3FBwPTOz) | 3:05 | 2022-08-10 | 2022-09-09 |
 | [Sweet One](https://open.spotify.com/track/1IJr2iSVIayK6coEJRUPUO) | [Elie G](https://open.spotify.com/artist/6KKIDnWEYeBvdIHzZGaXJd), [Verbb](https://open.spotify.com/artist/5W54k3Jf0X9uBRCdW8EEXO) | [Sweet One](https://open.spotify.com/album/78y891HPIrNnSixK5sPQtD) | 3:27 | 2022-08-24 | 2022-09-01 |

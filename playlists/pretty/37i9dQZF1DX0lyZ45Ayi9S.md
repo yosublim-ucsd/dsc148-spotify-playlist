@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyZ45Ayi9S.md) - [plain]
 
 > Our editorial picks of this year's best indie songs\. \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,686 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,726 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyZ45Ayi9S.md) - [plain]
 | 74 | [Unfold](https://open.spotify.com/track/0pPriiSNZ0ZuTVsWZbPuph) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/7M9pKniOt8uH8sWQwdQFMD) | 1:30 |
 | 75 | [lately](https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [lately](https://open.spotify.com/album/69k19hsB1YmW23a7Z5fHqf) | 2:50 |
 
-Snapshot ID: `MCxkZWM5YWRmYjU0OGYxMGY5ODk5YjE1NTQ3MzBkYjM2YTljOGViNWQz`
+Snapshot ID: `MCw1OThmYWE5ZjFlNWQyMjBkZTVlMmY5NWI4OTIzNDM0Mjc5NmJiOGY4`

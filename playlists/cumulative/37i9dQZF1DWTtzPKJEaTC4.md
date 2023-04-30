@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2i1CPudyCUjL50Wqjv8AMI">Alfa Mist</a> shares his jazz favorites
 
-429 songs - 1 day 14 hr 2 min
+431 songs - 1 day 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Alien Orifice](https://open.spotify.com/track/0skWyK2HW9kbD62et9oSxR) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Frank Zappa Meets The Mothers Of Prevention](https://open.spotify.com/album/1NVnPUNo6DOhvp11vYl7pr) | 4:10 | 2022-06-17 | 2022-08-16 |
 | [All We Know](https://open.spotify.com/track/43P9ATR9KbSpDlqsp2sGKW) | [Chelsea Carmichael](https://open.spotify.com/artist/6vbGW1gdI14163OQECQs5d) | [The River Doesn’t Like Strangers](https://open.spotify.com/album/0rMRVTA8NJBbQAa4FcFgpV) | 7:25 | 2022-04-29 | 2022-06-18 |
 | [Angels and Demons at Play](https://open.spotify.com/track/5du1OixazM7zg9vXxoIzJh) | [Sun Ra](https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX) | [Angels and Demons at Play](https://open.spotify.com/album/0DzmX1npaXII8fh8DVBlkl) | 2:53 | 2022-04-29 | 2022-06-18 |
-| [Angels Around](https://open.spotify.com/track/6LeMCjrZtdjn3Oxjt01CfC) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Angels Around](https://open.spotify.com/album/57bPd7tr9jKFRboGVJ2vJJ) | 6:00 | 2023-04-01 |  |
+| [Angels Around](https://open.spotify.com/track/4yI8w3mPpuH7RnOy4Uail9) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Angels Around](https://open.spotify.com/album/1rw84ssoTRB0M9wrPrwes6) | 6:00 | 2023-04-01 |  |
+| [Angels Around](https://open.spotify.com/track/6LeMCjrZtdjn3Oxjt01CfC) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Angels Around](https://open.spotify.com/album/57bPd7tr9jKFRboGVJ2vJJ) | 6:00 | 2023-04-01 | 2023-04-30 |
 | [Armando's Rhumba](https://open.spotify.com/track/4wpZadyjV07oPn5RyHqkRl) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [My Spanish Heart](https://open.spotify.com/album/5V1WcC2ldcMBdFwQg0LltV) | 5:19 | 2022-02-18 | 2022-03-18 |
 | [Ase's Death](https://open.spotify.com/track/1mCJj1XSbwfIwvaAsQHEOC) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Three Suites](https://open.spotify.com/album/4YfEBSeidWGv2gn4LUUiVS) | 3:47 | 2022-04-29 | 2022-06-18 |
 | [At the Christmas Ball \- 78rpm Version](https://open.spotify.com/track/6ycfiLUZd4v3BG0guw3KWd) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 2](https://open.spotify.com/album/0fWsHEuMdArgDYFHMOTtUn) | 3:23 | 2021-12-10 | 2022-01-14 |
@@ -36,7 +37,8 @@
 | [Baby Breeze](https://open.spotify.com/track/7oJ7VAlVzZwbrsumcW9PMT) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Compact Jazz \- Chet Baker](https://open.spotify.com/album/5y1FKunuYa0igXa1HyI0SZ) | 3:07 | 2022-12-02 | 2023-02-04 |
 | [Baby Renfro](https://open.spotify.com/track/2Eau0B6WhB4rILDYtro9mt) | [Eric Revis](https://open.spotify.com/artist/5ElMqnHWxDT7rA7WuwDFs3) | [Slipknots Through A Looking Glass](https://open.spotify.com/album/30jtrpoRssGXZ831Ah88Da) | 4:59 | 2023-02-03 | 2023-04-02 |
 | [Baby, It's Cold Outside](https://open.spotify.com/track/1zZGu0CZd3Sifl2GNECXWG) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6), [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Christmas Cookin'](https://open.spotify.com/album/0uhYdmdjyACeqr61Pf6gPC) | 6:00 | 2021-12-10 | 2022-01-14 |
-| [BC](https://open.spotify.com/track/2T4jpgQTXUykbqZlvjKNQG) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [4th Feb \(Stay Awake\) / BC](https://open.spotify.com/album/0OpZZhtsJYMTUfOpCDNpLw) | 7:30 | 2023-04-01 |  |
+| [BC](https://open.spotify.com/track/28dZT1QGQRoK7HnO0pk8yd) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Variables](https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6) | 7:30 | 2023-04-01 |  |
+| [BC](https://open.spotify.com/track/2T4jpgQTXUykbqZlvjKNQG) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [4th Feb \(Stay Awake\) / BC](https://open.spotify.com/album/0OpZZhtsJYMTUfOpCDNpLw) | 7:30 | 2023-04-01 | 2023-04-30 |
 | [Betcha Don't Know](https://open.spotify.com/track/5gtNsD1eqLgfVKC9diMwgq) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Najee's Theme](https://open.spotify.com/album/2T1cuFZTdRwShl0ksdXT6a) | 5:49 | 2022-03-18 | 2022-04-29 |
 | [Bigger Than Us](https://open.spotify.com/track/50Ewq4wyDlTfbrmnfbOB9k) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 1:51 | 2022-02-18 | 2022-03-18 |
 | [Birds of Fire](https://open.spotify.com/track/0dCbhZ6jVeSLJ0of5wf2hm) | [Mahavishnu Orchestra](https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO) | [Birds Of Fire](https://open.spotify.com/album/6SLknspfGod3v3TyWawl8J) | 5:42 | 2022-08-15 | 2022-09-17 |

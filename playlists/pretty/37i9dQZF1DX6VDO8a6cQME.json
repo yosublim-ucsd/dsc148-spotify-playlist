@@ -1,12 +1,12 @@
 {
   "description": "The most essential R&B songs from the 90s. Cover: SWV",
-  "num_followers": 3208728,
+  "num_followers": 3209895,
   "original_name": "I Love My '90s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDgwZDVlMTA4MjQ3ZTNmYjhlM2M2YzE3NjFmNTk2NTE0MWRkZDIy",
+  "snapshot_id": "MCw4YmIzNDNhNzMwN2ViMzBmY2NmNDYxNWYzYjg2OGNhMWIyZWIzMDdm",
   "tracks": [
     {
       "added_at": "2022-09-16 08:12:46",
@@ -113,20 +113,20 @@
       "url": "https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13"
     },
     {
-      "added_at": "2022-10-27 04:00:00",
+      "added_at": "2021-08-20 04:02:00",
       "album": {
-        "name": "Love Deluxe",
-        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
+        "name": "Return of the Mack",
+        "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
       },
       "artists": [
         {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+          "name": "Mark Morrison",
+          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Like a Tattoo",
-      "url": "https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg"
+      "duration_ms": 213093,
+      "name": "Return of the Mack",
+      "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -145,20 +145,20 @@
       "url": "https://open.spotify.com/track/71EHOyEOhNx1SzTebRRyng"
     },
     {
-      "added_at": "2021-08-20 04:02:00",
+      "added_at": "2022-10-27 04:00:00",
       "album": {
-        "name": "Return of the Mack",
-        "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
+        "name": "Love Deluxe",
+        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
       },
       "artists": [
         {
-          "name": "Mark Morrison",
-          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 213093,
-      "name": "Return of the Mack",
-      "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
+      "duration_ms": 218000,
+      "name": "Like a Tattoo",
+      "url": "https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-09-16 08:12:46",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3"
-      },
-      "artists": [
-        {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
-        }
-      ],
-      "duration_ms": 236773,
-      "name": "I'll Make Love To You",
-      "url": "https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn"
-    },
-    {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
         "name": "Pronounced Jah-Nay",
         "url": "https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 252400,
       "name": "Hey Mr. D.J.",
       "url": "https://open.spotify.com/track/6eB35pgMXdfhz5Z0WjwF1O"
+    },
+    {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "duration_ms": 236773,
+      "name": "I'll Make Love To You",
+      "url": "https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -1089,22 +1089,6 @@
       "url": "https://open.spotify.com/track/0coGyBNQcxxqkOOT2UhT4v"
     },
     {
-      "added_at": "2022-10-27 04:00:00",
-      "album": {
-        "name": "Love Deluxe",
-        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 332133,
-      "name": "Cherish the Day",
-      "url": "https://open.spotify.com/track/22QiTJqDn1BIRSh4mkNJ5w"
-    },
-    {
       "added_at": "2021-08-20 04:02:00",
       "album": {
         "name": "Enter The Dru",
@@ -1119,6 +1103,22 @@
       "duration_ms": 243360,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/60NvAO9lx0KmBNAVHIlWN6"
+    },
+    {
+      "added_at": "2022-10-27 04:00:00",
+      "album": {
+        "name": "Love Deluxe",
+        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 332133,
+      "name": "Cherish the Day",
+      "url": "https://open.spotify.com/track/22QiTJqDn1BIRSh4mkNJ5w"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -1153,6 +1153,22 @@
       "url": "https://open.spotify.com/track/5bJ796cOnGBzSN5bm4mwMj"
     },
     {
+      "added_at": "2022-07-28 15:25:39",
+      "album": {
+        "name": "Age Ain't Nothing But A Number",
+        "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "Back & Forth",
+      "url": "https://open.spotify.com/track/45wneA2j0Z0WMnYNDO6Ad0"
+    },
+    {
       "added_at": "2021-08-20 04:02:00",
       "album": {
         "name": "Personal Conversation",
@@ -1171,22 +1187,6 @@
       "duration_ms": 229773,
       "name": "Faded Pictures",
       "url": "https://open.spotify.com/track/1CAw3ethNuSDPf3E7luSFF"
-    },
-    {
-      "added_at": "2022-07-28 15:25:39",
-      "album": {
-        "name": "Age Ain't Nothing But A Number",
-        "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
-      },
-      "artists": [
-        {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "Back & Forth",
-      "url": "https://open.spotify.com/track/45wneA2j0Z0WMnYNDO6Ad0"
     },
     {
       "added_at": "2021-08-20 04:02:00",

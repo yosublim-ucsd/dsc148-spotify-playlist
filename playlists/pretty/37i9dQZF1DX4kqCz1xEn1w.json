@@ -1,12 +1,12 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 75283,
+  "num_followers": 75276,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWMwY2Y4NDUyZDU3MWMxNDkyY2QzZDA3YzQ5NGMzYWVjMThlYjAw",
+  "snapshot_id": "MCxiMjRkOGFlNjFmZjdhMWM0YzY1MWY4NjQyMDZjN2E1MzA1NjBmZDkz",
   "tracks": [
     {
       "added_at": "2023-04-09 08:58:44",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
-        "name": "Breakthrough (Live)",
-        "url": "https://open.spotify.com/album/4ROjH1uLP9Qe7FNunpCTZi"
-      },
-      "artists": [
-        {
-          "name": "Chris McClarney",
-          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
-        }
-      ],
-      "duration_ms": 332946,
-      "name": "Hallelujah For The Cross - Live",
-      "url": "https://open.spotify.com/track/4cd4S4o80CBDAXEI9f4Fch"
-    },
-    {
-      "added_at": "2023-04-09 08:58:44",
-      "album": {
         "name": "On My Side",
         "url": "https://open.spotify.com/album/5CAfJkZS88sq08EZC62k5W"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 284946,
       "name": "Throne Room",
       "url": "https://open.spotify.com/track/02X93AUKXP7FPJBPckqgGu"
+    },
+    {
+      "added_at": "2023-04-09 08:58:44",
+      "album": {
+        "name": "Breakthrough (Live)",
+        "url": "https://open.spotify.com/album/4ROjH1uLP9Qe7FNunpCTZi"
+      },
+      "artists": [
+        {
+          "name": "Chris McClarney",
+          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
+        }
+      ],
+      "duration_ms": 332946,
+      "name": "Hallelujah For The Cross - Live",
+      "url": "https://open.spotify.com/track/4cd4S4o80CBDAXEI9f4Fch"
     },
     {
       "added_at": "2023-04-09 08:58:44",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/344FLgN07l7Ye9un6qWaNu"
+      },
+      "artists": [
+        {
+          "name": "Highlands Worship",
+          "url": "https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In"
+        }
+      ],
+      "duration_ms": 273439,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/4nzSgYDePiYrLJbrxqE36p"
+    },
+    {
+      "added_at": "2023-04-09 08:58:44",
+      "album": {
         "name": "How Great",
         "url": "https://open.spotify.com/album/5dDRZSDf7fUVAfag8lFBKW"
       },
@@ -1747,18 +1763,22 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/344FLgN07l7Ye9un6qWaNu"
+        "name": "Just One Drop (Live From New Orleans)",
+        "url": "https://open.spotify.com/album/2olHHPtJYdCWpgN1XaX7ZD"
       },
       "artists": [
         {
-          "name": "Highlands Worship",
-          "url": "https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In"
+          "name": "Bethany Music",
+          "url": "https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP"
+        },
+        {
+          "name": "BJ Putnam",
+          "url": "https://open.spotify.com/artist/60aBgW2uAx0DWjANS99500"
         }
       ],
-      "duration_ms": 273439,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/4nzSgYDePiYrLJbrxqE36p"
+      "duration_ms": 384293,
+      "name": "Just One Drop - Live From New Orleans",
+      "url": "https://open.spotify.com/track/21zNU75QW1NfvPZ8lQVb24"
     },
     {
       "added_at": "2023-04-09 08:58:44",
@@ -1783,22 +1803,18 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
-        "name": "Just One Drop (Live From New Orleans)",
-        "url": "https://open.spotify.com/album/2olHHPtJYdCWpgN1XaX7ZD"
+        "name": "Love Came Down - Live Acoustic Worship In The Studio",
+        "url": "https://open.spotify.com/album/7vG2Shcrvtlud8HsEopI3h"
       },
       "artists": [
         {
-          "name": "Bethany Music",
-          "url": "https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP"
-        },
-        {
-          "name": "BJ Putnam",
-          "url": "https://open.spotify.com/artist/60aBgW2uAx0DWjANS99500"
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
         }
       ],
-      "duration_ms": 384293,
-      "name": "Just One Drop - Live From New Orleans",
-      "url": "https://open.spotify.com/track/21zNU75QW1NfvPZ8lQVb24"
+      "duration_ms": 333626,
+      "name": "Love Came Down (If My Heart Is Overwhelmed) - Live",
+      "url": "https://open.spotify.com/track/27Ao1nh2vh3y82VZ7Yd67R"
     },
     {
       "added_at": "2023-04-09 08:58:44",
@@ -1827,22 +1843,6 @@
       "duration_ms": 314517,
       "name": "All For Love (Gethsemane) - Live",
       "url": "https://open.spotify.com/track/1d0xX8GVn0oDPgHJXeIhi1"
-    },
-    {
-      "added_at": "2023-04-09 08:58:44",
-      "album": {
-        "name": "Love Came Down - Live Acoustic Worship In The Studio",
-        "url": "https://open.spotify.com/album/7vG2Shcrvtlud8HsEopI3h"
-      },
-      "artists": [
-        {
-          "name": "Brian Johnson",
-          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
-        }
-      ],
-      "duration_ms": 333626,
-      "name": "Love Came Down (If My Heart Is Overwhelmed) - Live",
-      "url": "https://open.spotify.com/track/27Ao1nh2vh3y82VZ7Yd67R"
     }
   ],
   "unique_name": "Easter Worship",

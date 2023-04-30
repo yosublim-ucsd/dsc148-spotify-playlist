@@ -1,13 +1,317 @@
 {
-  "description": "The best new R&B by independent artists and labels. Cover: Kyle Lux. Updates every Wednesday.",
-  "num_followers": 192122,
+  "description": "The best new R&B by independent artists and labels. Cover: C.S. Armstrong. Updates every Wednesday.",
+  "num_followers": 192209,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjY5NGY4ZDYyYzNiMGY4ZTI3MDg5NWUxNjdkZTMyMWIyM2NjMDU5",
+  "snapshot_id": "MCwyZDEzMTE3OTcxOWFhMDY1Y2EwNjA2YzhhMWNmNmI3NmE2NGQwYzQ4",
   "tracks": [
+    {
+      "added_at": "2023-04-29 05:13:37",
+      "album": {
+        "name": "THE SOUTHWESTERN LOVE SONGS",
+        "url": "https://open.spotify.com/album/5bEzUVfVCPMcVI1WQ4iMyM"
+      },
+      "artists": [
+        {
+          "name": "C.S. Armstrong",
+          "url": "https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "ANGEL",
+      "url": "https://open.spotify.com/track/30s0R1Kz4E3yIDaZFxvTwc"
+    },
+    {
+      "added_at": "2023-04-29 05:13:37",
+      "album": {
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/4ezR11sZTYwaVlBgs1AzWh"
+      },
+      "artists": [
+        {
+          "name": "Papa Jay",
+          "url": "https://open.spotify.com/artist/18Q9sSUKyTM1CxVBn1s2Wg"
+        }
+      ],
+      "duration_ms": 130912,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/1ZTuuSjNZhcRvclcFn4Hz4"
+    },
+    {
+      "added_at": "2023-04-29 05:13:37",
+      "album": {
+        "name": "Obsessed (Fantasy Mix)",
+        "url": "https://open.spotify.com/album/5AZwCTZmMB9yMsUduduWwx"
+      },
+      "artists": [
+        {
+          "name": "Byron Juane",
+          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
+        },
+        {
+          "name": "Dee Gatti",
+          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
+        },
+        {
+          "name": "Bairi",
+          "url": "https://open.spotify.com/artist/2zCT4CABRrHliK2UmzjIUP"
+        },
+        {
+          "name": "Sherrionn",
+          "url": "https://open.spotify.com/artist/3SGauX2k9gCIGwRZdlheMR"
+        }
+      ],
+      "duration_ms": 170016,
+      "name": "Obsessed - Fantasy Mix",
+      "url": "https://open.spotify.com/track/2WDkANFIO2JKB4hfPxRPz0"
+    },
+    {
+      "added_at": "2023-04-29 05:13:37",
+      "album": {
+        "name": "Lethal Weapon (feat. Gemaine)",
+        "url": "https://open.spotify.com/album/6qxZ2LgzTGVSmLOOLjI5LT"
+      },
+      "artists": [
+        {
+          "name": "Lily Massie",
+          "url": "https://open.spotify.com/artist/2kQ4RPZzQ5YVAcWNC162x9"
+        },
+        {
+          "name": "Gemaine",
+          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
+        }
+      ],
+      "duration_ms": 206002,
+      "name": "Lethal Weapon (feat. Gemaine)",
+      "url": "https://open.spotify.com/track/6fN1VPY1mndv67dhGXbJWc"
+    },
+    {
+      "added_at": "2023-04-29 05:13:37",
+      "album": {
+        "name": "Yesterday Was Heaven",
+        "url": "https://open.spotify.com/album/5oNQFN3okVx45dvbueOWzs"
+      },
+      "artists": [
+        {
+          "name": "Stefan Mahendra",
+          "url": "https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Yesterday Was Heaven",
+      "url": "https://open.spotify.com/track/2xqHPcmoyo1CJN1WzbdWlr"
+    },
+    {
+      "added_at": "2023-04-29 05:13:37",
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/2VjbYwRMFgUqBidz9hFb3D"
+      },
+      "artists": [
+        {
+          "name": "Annahstasia",
+          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
+        }
+      ],
+      "duration_ms": 269722,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/3eDO1RxxZOxvldVHwdaycn"
+    },
+    {
+      "added_at": "2023-04-29 05:13:37",
+      "album": {
+        "name": "Whenever",
+        "url": "https://open.spotify.com/album/06plvRyV1UnY0OdxJwk4IG"
+      },
+      "artists": [
+        {
+          "name": "Gareth Donkin",
+          "url": "https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN"
+        }
+      ],
+      "duration_ms": 205090,
+      "name": "Whenever",
+      "url": "https://open.spotify.com/track/2bD6V29O7EiIA7CKca72as"
+    },
+    {
+      "added_at": "2023-04-29 05:13:37",
+      "album": {
+        "name": "Acceptance",
+        "url": "https://open.spotify.com/album/4UQeISwHr20Fxmz6UiMT6E"
+      },
+      "artists": [
+        {
+          "name": "Young Deji",
+          "url": "https://open.spotify.com/artist/1t5tAYJj9NvTlAYjj7wXwX"
+        }
+      ],
+      "duration_ms": 159385,
+      "name": "Cocaina",
+      "url": "https://open.spotify.com/track/5ZIFTynXkVLyMtB0nGsrGZ"
+    },
+    {
+      "added_at": "2023-04-29 05:13:37",
+      "album": {
+        "name": "S2BU",
+        "url": "https://open.spotify.com/album/5v5sBtBn1ouX6trgMmuXh3"
+      },
+      "artists": [
+        {
+          "name": "Leah Music",
+          "url": "https://open.spotify.com/artist/3FrtVf61eHTo2BZNG1qTOK"
+        }
+      ],
+      "duration_ms": 167916,
+      "name": "S2BU",
+      "url": "https://open.spotify.com/track/57rmJYWKMa75EM57RE4MlH"
+    },
+    {
+      "added_at": "2023-04-29 05:13:37",
+      "album": {
+        "name": "Use me",
+        "url": "https://open.spotify.com/album/07xr6rjrJVNHSUVBKbg1CL"
+      },
+      "artists": [
+        {
+          "name": "Lilmizzy",
+          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
+        },
+        {
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        }
+      ],
+      "duration_ms": 214543,
+      "name": "Use me",
+      "url": "https://open.spotify.com/track/1JA0QRi9A6uHnZZ600nzCf"
+    },
+    {
+      "added_at": "2023-04-29 05:13:37",
+      "album": {
+        "name": "bby",
+        "url": "https://open.spotify.com/album/4lPeaxk2PfTQQUfdsE8jwI"
+      },
+      "artists": [
+        {
+          "name": "asianblonde.",
+          "url": "https://open.spotify.com/artist/21ttAjGNQzBGHTeQoJYX8H"
+        },
+        {
+          "name": "Nimstarr",
+          "url": "https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf"
+        }
+      ],
+      "duration_ms": 245373,
+      "name": "bby",
+      "url": "https://open.spotify.com/track/6otZ8CRug3ubJGCxJiT94i"
+    },
+    {
+      "added_at": "2023-04-29 05:13:37",
+      "album": {
+        "name": "Tired",
+        "url": "https://open.spotify.com/album/4bENg81E4VvdXBLAdZk4O8"
+      },
+      "artists": [
+        {
+          "name": "Khalil",
+          "url": "https://open.spotify.com/artist/0Ve0bm5U01MnOpONJMoEC4"
+        }
+      ],
+      "duration_ms": 157499,
+      "name": "Tired",
+      "url": "https://open.spotify.com/track/3zT1gP0U341IR09Fi6hYcY"
+    },
+    {
+      "added_at": "2023-04-29 05:13:37",
+      "album": {
+        "name": "Try Me",
+        "url": "https://open.spotify.com/album/4QDRe76Y8CnoXMWcAESIcL"
+      },
+      "artists": [
+        {
+          "name": "Sanura",
+          "url": "https://open.spotify.com/artist/2KoEQq7EEpdOLErZi1K2eL"
+        }
+      ],
+      "duration_ms": 151375,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/6x1n3dgr2OXpffuK3YOARN"
+    },
+    {
+      "added_at": "2023-04-29 05:13:37",
+      "album": {
+        "name": "God Speed",
+        "url": "https://open.spotify.com/album/3On2qliqg7m7Za1uYQk0As"
+      },
+      "artists": [
+        {
+          "name": "CD Rose",
+          "url": "https://open.spotify.com/artist/3jhXQ1HoAnvxUhUrRGleJx"
+        }
+      ],
+      "duration_ms": 165857,
+      "name": "God Speed",
+      "url": "https://open.spotify.com/track/0tKvAqZeTbDgkfsP9tRDNL"
+    },
+    {
+      "added_at": "2023-04-29 05:13:37",
+      "album": {
+        "name": "Humble",
+        "url": "https://open.spotify.com/album/37s44O6WpGDjceFsTsbAgM"
+      },
+      "artists": [
+        {
+          "name": "Kalenbree",
+          "url": "https://open.spotify.com/artist/7hu8hEXPfDyrrVhlqt8Hyq"
+        }
+      ],
+      "duration_ms": 157762,
+      "name": "Humble",
+      "url": "https://open.spotify.com/track/7m4dvUFqoI3OqHsHdbILRI"
+    },
+    {
+      "added_at": "2023-04-29 05:13:37",
+      "album": {
+        "name": "Leave Me",
+        "url": "https://open.spotify.com/album/0vEYRRKwWLWU1GWCQU76Uq"
+      },
+      "artists": [
+        {
+          "name": "Love, Tumi",
+          "url": "https://open.spotify.com/artist/2wKEplM0fJagFSsFAXGpnD"
+        }
+      ],
+      "duration_ms": 130052,
+      "name": "Leave Me",
+      "url": "https://open.spotify.com/track/7gkO0BWzN7UOJ9486M6DLn"
+    },
+    {
+      "added_at": "2023-04-29 05:13:37",
+      "album": {
+        "name": "Impulsive",
+        "url": "https://open.spotify.com/album/4GiElmfILgs1Ljk1WVweKc"
+      },
+      "artists": [
+        {
+          "name": "7TEN",
+          "url": "https://open.spotify.com/artist/1HwqBieupHIE95yfdPxLge"
+        },
+        {
+          "name": "7",
+          "url": "https://open.spotify.com/artist/57XmGSfCeU9Q1dhznMcvt5"
+        },
+        {
+          "name": "Aniya Teno",
+          "url": "https://open.spotify.com/artist/3tQk5O9Q3HKn7wA7yAl8MW"
+        }
+      ],
+      "duration_ms": 171874,
+      "name": "Impulsive",
+      "url": "https://open.spotify.com/track/5kQF8BvWBLtfa814jo5AEt"
+    },
     {
       "added_at": "2023-04-26 15:55:29",
       "album": {
@@ -2511,22 +2815,6 @@
     {
       "added_at": "2023-03-03 05:35:14",
       "album": {
-        "name": "Healing Phase",
-        "url": "https://open.spotify.com/album/3PGgJjwXDoj59jPI5RCeQe"
-      },
-      "artists": [
-        {
-          "name": "JAHKOY",
-          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
-        }
-      ],
-      "duration_ms": 148453,
-      "name": "Make It Feel Real",
-      "url": "https://open.spotify.com/track/7r6m02GAR8BjJUFkgmwORd"
-    },
-    {
-      "added_at": "2023-03-03 05:35:14",
-      "album": {
         "name": "Swerve",
         "url": "https://open.spotify.com/album/4bwRO6SKUjysjbdYZz2f8u"
       },
@@ -2563,22 +2851,6 @@
     {
       "added_at": "2023-03-03 05:35:14",
       "album": {
-        "name": "Go\u00fbter +",
-        "url": "https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n"
-      },
-      "artists": [
-        {
-          "name": "Lou Val",
-          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
-        }
-      ],
-      "duration_ms": 208192,
-      "name": "in ur motion",
-      "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
-    },
-    {
-      "added_at": "2023-03-03 05:35:14",
-      "album": {
         "name": "Cool Party",
         "url": "https://open.spotify.com/album/2bdOs4BJoK5hI9jAC37H06"
       },
@@ -2591,62 +2863,6 @@
       "duration_ms": 127741,
       "name": "Euphoria (At Night)",
       "url": "https://open.spotify.com/track/41kClICjtba1W8UVbcHmya"
-    },
-    {
-      "added_at": "2023-03-03 05:35:14",
-      "album": {
-        "name": "Baudelaire Lifestyle",
-        "url": "https://open.spotify.com/album/4K6KLAuoeoCL2wEDp1nIQf"
-      },
-      "artists": [
-        {
-          "name": "Nnashe",
-          "url": "https://open.spotify.com/artist/5o0lTomGzanpzoNLZg7mDu"
-        },
-        {
-          "name": "Earldridge",
-          "url": "https://open.spotify.com/artist/0aPhnA0YJVAgkF5M368LPM"
-        },
-        {
-          "name": "Iam6teen",
-          "url": "https://open.spotify.com/artist/5zndlhGSb9pK0vWd6YptFu"
-        }
-      ],
-      "duration_ms": 183716,
-      "name": "Baudelaire Lifestyle",
-      "url": "https://open.spotify.com/track/2818xWSjQaIQcY98Eezfqk"
-    },
-    {
-      "added_at": "2023-03-03 05:35:14",
-      "album": {
-        "name": "Still (For You)",
-        "url": "https://open.spotify.com/album/1sqy1bCiJgw5MAdGoMCyz2"
-      },
-      "artists": [
-        {
-          "name": "JAWAN.mp3",
-          "url": "https://open.spotify.com/artist/090FQ8mQozGCRCttDhgEw7"
-        }
-      ],
-      "duration_ms": 248842,
-      "name": "Still (For You)",
-      "url": "https://open.spotify.com/track/55zk5tX7linZUEfnTnrSEc"
-    },
-    {
-      "added_at": "2023-03-03 05:35:14",
-      "album": {
-        "name": "Gifted",
-        "url": "https://open.spotify.com/album/6MRpnjpx3QijxXrDGvGzMx"
-      },
-      "artists": [
-        {
-          "name": "\u00d8HENRY",
-          "url": "https://open.spotify.com/artist/4zL1qNBQ4ZVhWFUXbyFCqI"
-        }
-      ],
-      "duration_ms": 121399,
-      "name": "Gifted",
-      "url": "https://open.spotify.com/track/2IW7ayQt3B7eDhHjXG4JcN"
     },
     {
       "added_at": "2023-03-03 05:35:14",

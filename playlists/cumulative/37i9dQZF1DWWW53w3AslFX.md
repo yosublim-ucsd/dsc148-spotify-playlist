@@ -4,7 +4,7 @@
 
 > Från PJ Harvey via Jenny Wilson till Amanda Bergman och Slowgold\. Här hör du några av alla kvinnor som är med och skriver indiehistoria.
 
-176 songs - 11 hr 24 min
+177 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [So Long](https://open.spotify.com/track/6l1ZT5WqVoK1YltrBpGJQ6) | [Hanna Järver](https://open.spotify.com/artist/6JHabNWuD8rd3TQQtMf6Q5) | [So Long](https://open.spotify.com/album/51xf4UGzqJfASaZZvbYk7C) | 3:21 | 2021-06-15 |  |
 | [Somebody Special](https://open.spotify.com/track/4WH2PelEpTVSuglBbz65gN) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Somebody Special](https://open.spotify.com/album/4Q4kHDFSMPQePKW1U4awNz) | 3:18 | 2021-06-15 | 2022-07-29 |
 | [Somebody Special](https://open.spotify.com/track/2hI8UCINh2fK8Z0uIkntxF) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [The Sun Will Come up, The Seasons Will Change](https://open.spotify.com/album/5XsBQrYhmDWyYfXGlfsZJU) | 3:20 | 2021-06-15 |  |
-| [SuMmEr BrEaK](https://open.spotify.com/track/0h4e9wtvP1KK7rWP6ceZTE) | [ShitKid](https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m) | [\[DETENTION\]](https://open.spotify.com/album/3gC6SaURhsOVtsvTTlJvWE) | 2:40 | 2021-06-15 |  |
+| [SuMmEr BrEaK](https://open.spotify.com/track/0L7XJxP7SIb8h33bBd4lQh) | [ShitKid](https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m) | [\[DETENTION\]](https://open.spotify.com/album/7HZ3NzPqlKaY0BUgh2Frch) | 2:40 | 2021-06-15 |  |
+| [SuMmEr BrEaK](https://open.spotify.com/track/0h4e9wtvP1KK7rWP6ceZTE) | [ShitKid](https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m) | [\[DETENTION\]](https://open.spotify.com/album/3gC6SaURhsOVtsvTTlJvWE) | 2:40 | 2021-06-15 | 2023-04-30 |
 | [SuMmEr BrEaK](https://open.spotify.com/track/4EkDW7pOGTWGlT6xIzc0t9) | [ShitKid](https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m) | [SuMmEr BrEaK](https://open.spotify.com/album/3VzPqfYb4IYeZIXTvaRdG0) | 2:40 | 2021-06-15 | 2022-11-14 |
 | [SuMmEr BrEaK](https://open.spotify.com/track/5YPXbnXdAtr946FDwoYkF1) | [ShitKid](https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m) | [SuMmEr BrEaK](https://open.spotify.com/album/38usvHB3kUIRCQzQdr0Nj0) | 2:40 | 2021-06-15 | 2022-07-29 |
 | [Tears](https://open.spotify.com/track/3M41BXlSrOfKxVW1zcj1gp) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Miss Universe](https://open.spotify.com/album/1kodX6YjT66DyInfVS6aGv) | 3:16 | 2021-06-15 |  |

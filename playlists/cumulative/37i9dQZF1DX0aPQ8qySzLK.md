@@ -4,7 +4,7 @@
 
 > Our editorial picks for Folk's best of 2021 in Canada\. Cover: Ocie Elliott
 
-135 songs - 8 hr 23 min
+137 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Fruits of My Labor](https://open.spotify.com/track/6qWQRmO2za1TpP0tHYLhXw) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud +3](https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw) | 5:05 | 2021-12-01 |  |
 | [Full Size Render](https://open.spotify.com/track/0eNHKjlypkRo1v9HZ8UOdM) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Full Size Render](https://open.spotify.com/album/0n7Wt3JEnLARfOgdCFnxIC) | 2:58 | 2021-12-01 |  |
 | [Glenfern](https://open.spotify.com/track/1iMPbubqiY90hj16Y69d1D) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Total Freedom](https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3) | 4:30 | 2021-12-01 |  |
-| [Good Man](https://open.spotify.com/track/3IJldtif54gCJxgY3jySTS) | [Justin Rutledge](https://open.spotify.com/artist/2bCchS6Y3bKQjIK3MNFrx7) | [Islands](https://open.spotify.com/album/1gFkr3Ajx9pSy7LyMpep7s) | 4:47 | 2021-12-01 |  |
+| [Good Man](https://open.spotify.com/track/2zqFhzSEAiKwsZqIR6Qy4q) | [Justin Rutledge](https://open.spotify.com/artist/2bCchS6Y3bKQjIK3MNFrx7) | [Islands](https://open.spotify.com/album/2s4qMHtO9DHsRBDe9sj9GW) | 4:47 | 2021-12-01 |  |
+| [Good Man](https://open.spotify.com/track/3IJldtif54gCJxgY3jySTS) | [Justin Rutledge](https://open.spotify.com/artist/2bCchS6Y3bKQjIK3MNFrx7) | [Islands](https://open.spotify.com/album/1gFkr3Ajx9pSy7LyMpep7s) | 4:47 | 2021-12-01 | 2023-04-30 |
 | [Good Things](https://open.spotify.com/track/1oqGOxkwnI7FbvRXJUVKER) | [Sam Kaiser](https://open.spotify.com/artist/36U2ZqoHfSHMraW6SCEOkw) | [Good Things](https://open.spotify.com/album/3a7WaTMrg19H0iabtvdL8n) | 2:19 | 2021-12-01 |  |
 | [Grow Into Love](https://open.spotify.com/track/2NPfTvXSDHjt0e33ulBk5M) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/6qSUzYOIB8TQglbqn3efU6) | 2:42 | 2021-12-01 | 2022-10-03 |
 | [Grow into Love](https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq) | 2:42 | 2021-12-01 |  |
@@ -56,7 +57,8 @@
 | [Hey You](https://open.spotify.com/track/1TTB0XzXDWd0OIwnhFe8yN) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [The Ghost and the Wall](https://open.spotify.com/album/5XY9DCBsTFRKm6EHhc2pGo) | 3:26 | 2021-12-01 |  |
 | [Hey You](https://open.spotify.com/track/1bFJ0r89CnY0wTz95hcKWc) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [The Ghost and the Wall](https://open.spotify.com/album/2qeOXQCVeG1AgUD0LQHLSF) | 3:26 | 2021-12-01 | 2022-07-29 |
 | [Houston TX](https://open.spotify.com/track/6EaQXxdO9diXNDrO2vmMtJ) | [Aidan Knight](https://open.spotify.com/artist/2CRrtAFY6WonETiQktbRe9) | [Aidan Knight](https://open.spotify.com/album/2IsJvOVAVDq7aHN8sRhGni) | 5:16 | 2021-12-01 | 2022-07-29 |
-| [Houston TX](https://open.spotify.com/track/2WHNbtmjL3a2pKc4LfSlxR) | [Aidan Knight](https://open.spotify.com/artist/2CRrtAFY6WonETiQktbRe9) | [Aidan Knight](https://open.spotify.com/album/5mnIrOjFFqM101hK5yqr6W) | 5:17 | 2021-12-01 |  |
+| [Houston TX](https://open.spotify.com/track/1YoTyrikfkZLGE4RHSylVt) | [Aidan Knight](https://open.spotify.com/artist/2CRrtAFY6WonETiQktbRe9) | [Aidan Knight](https://open.spotify.com/album/2vaKoQYr3h9UjH4QvziCRO) | 5:17 | 2021-12-01 |  |
+| [Houston TX](https://open.spotify.com/track/2WHNbtmjL3a2pKc4LfSlxR) | [Aidan Knight](https://open.spotify.com/artist/2CRrtAFY6WonETiQktbRe9) | [Aidan Knight](https://open.spotify.com/album/5mnIrOjFFqM101hK5yqr6W) | 5:17 | 2021-12-01 | 2023-04-30 |
 | [I Lied \(with Allison Ponthier\)](https://open.spotify.com/track/7xQg5QTx8eiQnsxEnfynPh) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Long Lost](https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD) | 3:54 | 2021-12-01 |  |
 | [I Need Some Air](https://open.spotify.com/track/66voRoDoCmx5xBsjOukRWF) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [I Need Some Air](https://open.spotify.com/album/5n0Lw1ejNziuzbjjJUCKkv) | 4:11 | 2021-12-01 | 2023-01-27 |
 | [I Need Some Air](https://open.spotify.com/track/6JQIc5mZTWDnmOkuIC51QZ) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [I Need Some Air](https://open.spotify.com/album/0V6Iv7TMSMhkiy4hCAp1nB) | 4:11 | 2021-12-01 |  |

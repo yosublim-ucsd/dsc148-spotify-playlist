@@ -4,7 +4,7 @@
 
 > The Most Popular Ambient Tracks in 2022\. Kaitlyn Aurelia Smith on cover.
 
-102 songs - 8 hr 55 min
+104 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,9 +98,11 @@
 | [Transparente](https://open.spotify.com/track/0ZzHp9ah8wC9rHhyW9jstd) | [Samuel Aguilar](https://open.spotify.com/artist/1gXqzPzUGPeM2E1rixPWrj) | [Música para los Jameos del Agua \(Edición Especial 25 Años\)](https://open.spotify.com/album/5hs9v4U6FglqYof3zd0zQK) | 3:16 | 2023-01-01 |  |
 | [Traquair \(LAYERS ambient\)](https://open.spotify.com/track/1cUOojLPXn3SSGXvnil5qC) | [Mara Simpson](https://open.spotify.com/artist/1qn02YVZeKMegZimHpELHH), [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [LAYERS](https://open.spotify.com/album/52V08L7diSUAIP9Mt4eXjV) | 4:09 | 2023-01-01 |  |
 | [Two Weeks](https://open.spotify.com/track/6Bk9d5wyKQxNu5hNr4njcI) | [Oli Bayston](https://open.spotify.com/artist/5GPvva3BlYJogZP0ONVx2H) | [Bomani](https://open.spotify.com/album/5mplZY05CkadQTzuyGpxXI) | 2:29 | 2023-01-01 |  |
-| [Under the Midnight Sun](https://open.spotify.com/track/3OqqbGF64e51ooNpMAF9i5) | [Jeremiah Chiu](https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa), [Marta Sofia Honer](https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv) | [Recordings from the Åland Islands](https://open.spotify.com/album/2vGukamccOX7WCqir66kWT) | 3:42 | 2023-01-01 |  |
+| [Under the Midnight Sun](https://open.spotify.com/track/01OqcCMrDvoVvNdIPAy92B) | [Jeremiah Chiu](https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa), [Marta Sofia Honer](https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv) | [Recordings from the Åland Islands](https://open.spotify.com/album/0Cxszkp832OLjhTQdTCEQI) | 3:42 | 2023-01-01 |  |
+| [Under the Midnight Sun](https://open.spotify.com/track/3OqqbGF64e51ooNpMAF9i5) | [Jeremiah Chiu](https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa), [Marta Sofia Honer](https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv) | [Recordings from the Åland Islands](https://open.spotify.com/album/2vGukamccOX7WCqir66kWT) | 3:42 | 2023-01-01 | 2023-04-30 |
 | [Unknown Tokyo](https://open.spotify.com/track/6MruNrnfGnISP5aKUyFC4g) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [Unknown Tokyo](https://open.spotify.com/album/5WtMHNfW6oFN7spvwb1jwh) | 4:05 | 2023-01-01 |  |
-| [Upstairs Flat](https://open.spotify.com/track/7w6GXyNpjmfIL0jGCHyP2Z) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Antidawn EP](https://open.spotify.com/album/7LtQeOwb04n1ovSnFax21b) | 6:07 | 2023-01-01 |  |
+| [Upstairs Flat](https://open.spotify.com/track/76h4DA43Zjcn6UsHKZfLS2) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Antidawn EP](https://open.spotify.com/album/4mmHI4Bt5drSdEKc8tET4c) | 6:07 | 2023-01-01 |  |
+| [Upstairs Flat](https://open.spotify.com/track/7w6GXyNpjmfIL0jGCHyP2Z) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Antidawn EP](https://open.spotify.com/album/7LtQeOwb04n1ovSnFax21b) | 6:07 | 2023-01-01 | 2023-04-30 |
 | [Upstream Dream](https://open.spotify.com/track/36nGeAgQbzIgtvhTbOAA0S) | [Slow Meadow](https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3) | [Upstream Dream](https://open.spotify.com/album/1srML4m8W67DuWLV3zAgRN) | 4:16 | 2023-01-01 |  |
 | [venus mist](https://open.spotify.com/track/6UEHWnyYNSTjgqxxJF84wQ) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [phases of the moon](https://open.spotify.com/album/5zImrTFUWontzflxnybrH8) | 3:12 | 2023-01-01 |  |
 | [Vindheks](https://open.spotify.com/track/0k7W32ROqCNUuzRFb0tDxE) | [Rumpistol](https://open.spotify.com/artist/3GopsVcnzdMhVAvWCzfFLv) | [Isola](https://open.spotify.com/album/3ba4E9NJcmPzgxcP6SeggA) | 5:15 | 2023-01-01 |  |

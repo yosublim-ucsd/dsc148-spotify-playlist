@@ -290,10 +290,32 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 201840,
       "name": "Ayekouma - Carnival Mix",
       "url": "https://open.spotify.com/track/2YkGS0axOi2LaM9znNw2mj"
+    },
+    {
+      "album": {
+        "name": "Ayekouma",
+        "url": "https://open.spotify.com/album/32o42fzMJj5mB7CjgF4DQK"
+      },
+      "artists": [
+        {
+          "name": "Falle Nioke",
+          "url": "https://open.spotify.com/artist/2WIUWjEtviW09sdJlb2G1J"
+        },
+        {
+          "name": "Ghost Culture",
+          "url": "https://open.spotify.com/artist/4M6Kt4GVjpLYpygyNOHwdt"
+        }
+      ],
+      "date_added": "2021-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201840,
+      "name": "Ayekouma - Carnival Mix",
+      "url": "https://open.spotify.com/track/3q4P476ie87j6AJwfQXV6a"
     },
     {
       "album": {
@@ -836,7 +858,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 326106,
       "name": "On and On (Till the End of Us)",
       "url": "https://open.spotify.com/track/0fQf23AVDUFO3ra88x61hx"
@@ -858,6 +880,24 @@
       "duration_ms": 326106,
       "name": "On and On (Till the End of Us)",
       "url": "https://open.spotify.com/track/2ugQ6rCdoQ5TSF2JZvhzgl"
+    },
+    {
+      "album": {
+        "name": "Do You Need A Release?",
+        "url": "https://open.spotify.com/album/1zq50YlpfOS6j9wM8l6Lbn"
+      },
+      "artists": [
+        {
+          "name": "De Lux",
+          "url": "https://open.spotify.com/artist/6go0iwCisHtnyywarV5OEZ"
+        }
+      ],
+      "date_added": "2021-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326106,
+      "name": "On and On (Till the End of Us)",
+      "url": "https://open.spotify.com/track/7EpEum94WKQsGwqsYbwzQc"
     },
     {
       "album": {
@@ -928,7 +968,7 @@
     {
       "album": {
         "name": "Pure Luxury (Django Django\u2019s Boogie Beat Remix)",
-        "url": "https://open.spotify.com/album/1PfirXmrPwLNOiaZV1urpO"
+        "url": "https://open.spotify.com/album/1YpOlXLrPcCe6fmJ4qEoxY"
       },
       "artists": [
         {
@@ -943,6 +983,28 @@
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 341290,
+      "name": "Pure Luxury - Django Django\u2019s Boogie Beat Remix",
+      "url": "https://open.spotify.com/track/5dWhOQUYBPIg4XCc8JxSpO"
+    },
+    {
+      "album": {
+        "name": "Pure Luxury (Django Django\u2019s Boogie Beat Remix)",
+        "url": "https://open.spotify.com/album/1PfirXmrPwLNOiaZV1urpO"
+      },
+      "artists": [
+        {
+          "name": "NZCA LINES",
+          "url": "https://open.spotify.com/artist/1pmvcZaqyRJw8o6at71MJP"
+        },
+        {
+          "name": "Django Django",
+          "url": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
+        }
+      ],
+      "date_added": "2021-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 341290,
       "name": "Pure Luxury - Django Django\u2019s Boogie Beat Remix",
       "url": "https://open.spotify.com/track/6XCJkVM7PTFZjoDXbFin8i"

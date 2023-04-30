@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: The Aces
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,169 likes - 65 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,205 likes - 65 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 64 | [Naive](https://open.spotify.com/track/15INtZYXu2P3gna6hPigIg) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [BODY](https://open.spotify.com/album/7FkX7kbfwjZLW5UaoyNODY) | 3:15 |
 | 65 | [Nervous System](https://open.spotify.com/track/1F4bLAgSwZkU5VEVSGyhzB) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Nervous System](https://open.spotify.com/album/2tqcwbNuovDs9h1wuQ5vTr) | 2:37 |
 
-Snapshot ID: `MCxkNWIxMWFjZmMzMjAwZjc1ZWNkOWU2MThhZDBmNDE4N2MzNGY4MTFm`
+Snapshot ID: `MCwzZmY1ZjdmZDlkNTBhMDE4N2JmNjVlYmY2OGYyZDNhMDdjZWM3Y2Jj`

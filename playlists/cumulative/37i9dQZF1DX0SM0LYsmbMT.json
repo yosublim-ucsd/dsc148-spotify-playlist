@@ -1133,6 +1133,24 @@
     },
     {
       "album": {
+        "name": "Aces",
+        "url": "https://open.spotify.com/album/5SgyVeQF6ZTG4yQ9FPCo0a"
+      },
+      "artists": [
+        {
+          "name": "Malia L\u00f8u",
+          "url": "https://open.spotify.com/artist/7L101JhKGlktbrpW8DQ3GL"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115500,
+      "name": "Aces",
+      "url": "https://open.spotify.com/track/0TwtTvIRR2D33xywZS06Rp"
+    },
+    {
+      "album": {
         "name": "Aclima\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/40eG4cEvqZoim7BDReoLIb"
       },
@@ -36968,7 +36986,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 112207,
       "name": "Midnight Dinner",
       "url": "https://open.spotify.com/track/288UlMNjTPKmHqSFg7m09C"
@@ -37206,7 +37224,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 120000,
       "name": "Mild Winter",
       "url": "https://open.spotify.com/track/2KftAinNpmLPK85eFu4h7L"
@@ -45050,7 +45068,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 126707,
       "name": "Part X",
       "url": "https://open.spotify.com/track/6r6IpMsJ2e6mpGmal4qLft"
@@ -52927,6 +52945,28 @@
     },
     {
       "album": {
+        "name": "Sleepy Friday",
+        "url": "https://open.spotify.com/album/1YDqY8nqihZnBlDABjHSWE"
+      },
+      "artists": [
+        {
+          "name": "Birds Of The West",
+          "url": "https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq"
+        },
+        {
+          "name": "Monomo",
+          "url": "https://open.spotify.com/artist/2dmpVwPMr9wEkPAgntGyqY"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134583,
+      "name": "Sleepy Friday",
+      "url": "https://open.spotify.com/track/6NTBj7CHsgxjWcEVZyhOPQ"
+    },
+    {
+      "album": {
         "name": "Slide",
         "url": "https://open.spotify.com/album/60VPZAG5D1D5Aok7fepeGp"
       },
@@ -59472,7 +59512,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 147527,
       "name": "Tapedeckmemories",
       "url": "https://open.spotify.com/track/0HEVO9z0jDLj1CbZft5xLh"

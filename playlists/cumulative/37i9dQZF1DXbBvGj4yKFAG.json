@@ -978,10 +978,28 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 307382,
       "name": "If Blue Could Be Happiness",
       "url": "https://open.spotify.com/track/7ANZJD6wzlHplIIA7AjsUx"
+    },
+    {
+      "album": {
+        "name": "If Blue Could Be Happiness",
+        "url": "https://open.spotify.com/album/0EB4zV2Vfi0FeM6jZNOO87"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307382,
+      "name": "If Blue Could Be Happiness",
+      "url": "https://open.spotify.com/track/7vyUxfyXy90lx5Yppudtrb"
     },
     {
       "album": {

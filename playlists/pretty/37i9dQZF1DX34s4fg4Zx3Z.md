@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Ronboogz; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,553 likes - 101 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,566 likes - 101 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 100 | [mind](https://open.spotify.com/track/2NmkzIXT5YfMh0zXhy2D3g) | [giabao](https://open.spotify.com/artist/3cowtwoHuAizkSqqTFyWus) | [mind](https://open.spotify.com/album/2A7TqNuIMtBbpfvlWzgttJ) | 3:17 |
 | 101 | [Sunny](https://open.spotify.com/track/3d5tHqHAxHSrixVdQDvvv2) | [A.K](https://open.spotify.com/artist/0zj62uJifZjfTQiyDRODjc), [hieuhayho](https://open.spotify.com/artist/7iYleLkZ0KHUjGMoZZrv9S) | [Sunny](https://open.spotify.com/album/1FRcHqpfiThXyZ2qfOcY0e) | 2:48 |
 
-Snapshot ID: `MCxlYWMzMjY5ODcxYzg1YTRmYzg1NTdiMWQ0MTM4OWVlZjM4ZDM5NDU4`
+Snapshot ID: `MCwyMDc0M2U1YTE2NDU0MmFiZWI4N2Y5MjdiMzRjNzE4ZDNhMmUzOWQ4`

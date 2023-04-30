@@ -1,12 +1,12 @@
 {
   "description": "The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.",
-  "num_followers": 60840,
+  "num_followers": 60905,
   "original_name": "Gospel Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmQ1OTQ4ZGFiYTIwZTlmNzQ1ODFlMTY0NDFjODllZGM5MTYyNGNm",
+  "snapshot_id": "MCxiNjRjZmMzMzgzNDI4YzMzNzI2MmZjYjhjNDVkZTY1MWI0NjM0ZTgy",
   "tracks": [
     {
       "added_at": "2023-02-18 05:28:04",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Gospel's Best Live",
-        "url": "https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd"
-      },
-      "artists": [
-        {
-          "name": "Donald Lawrence & The Tri-City Singers",
-          "url": "https://open.spotify.com/artist/57d6a3ex4tB3hO0WE1hC1V"
-        }
-      ],
-      "duration_ms": 281973,
-      "name": "Never Seen The Righteous - Live",
-      "url": "https://open.spotify.com/track/6COOpzPlhL3nk6Go0PVo3U"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
         "name": "As We Worship Live",
         "url": "https://open.spotify.com/album/3Ainh78D6AeVHW9TvIbYvT"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 287080,
       "name": "He Is",
       "url": "https://open.spotify.com/track/7qFOUqL4zWEXKSTzV1VMjr"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
+        "name": "Gospel's Best Live",
+        "url": "https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd"
+      },
+      "artists": [
+        {
+          "name": "Donald Lawrence & The Tri-City Singers",
+          "url": "https://open.spotify.com/artist/57d6a3ex4tB3hO0WE1hC1V"
+        }
+      ],
+      "duration_ms": 281973,
+      "name": "Never Seen The Righteous - Live",
+      "url": "https://open.spotify.com/track/6COOpzPlhL3nk6Go0PVo3U"
     },
     {
       "added_at": "2023-02-18 05:28:04",

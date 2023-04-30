@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bispo e Bárbara Tinoco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,117 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,179 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,12 +59,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 49 | [Sunshine](https://open.spotify.com/track/2dgunBZKBMIqIlDrh2J6BQ) | [Rafaell Dior](https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla), [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po) | [Sunshine](https://open.spotify.com/album/07yJAIW3r5qw7vLj7iIAIl) | 2:46 |
 | 50 | [Ser Tua](https://open.spotify.com/track/5FbRfLcCPfony92UnLd2vQ) | [Mia Rose](https://open.spotify.com/artist/6yzNtbywm70v7PTGZSKqU2), [Chyna](https://open.spotify.com/artist/3xytrTXgH7SQTEjMZewnWF) | [Ser Tua](https://open.spotify.com/album/3eC2nn5A7uEXKNKTcrspu6) | 2:56 |
 | 51 | [Aleluia](https://open.spotify.com/track/6uCHzPdg4soaXghzZcmloN) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU) | [Aleluia](https://open.spotify.com/album/6kXdYalPHFucKRbnK0KzTD) | 3:31 |
-| 52 | [Madruga](https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Madruga](https://open.spotify.com/album/3FPflLZdiGPLybCuNrrdsA) | 3:26 |
-| 53 | [Tu Reclamas](https://open.spotify.com/track/1R5wKY4PsyED3atWwJwfDB) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [TeniTeach](https://open.spotify.com/artist/79p4kSzCWg2NOxhCJtktwE) | [Tu Reclamas](https://open.spotify.com/album/3ihIy7j62q5IBpWWVu8EVR) | 3:50 |
+| 52 | [Tu Reclamas](https://open.spotify.com/track/1R5wKY4PsyED3atWwJwfDB) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [TeniTeach](https://open.spotify.com/artist/79p4kSzCWg2NOxhCJtktwE) | [Tu Reclamas](https://open.spotify.com/album/3ihIy7j62q5IBpWWVu8EVR) | 3:50 |
+| 53 | [Madruga](https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Madruga](https://open.spotify.com/album/3FPflLZdiGPLybCuNrrdsA) | 3:26 |
 | 54 | [Depois da Chuva](https://open.spotify.com/track/1ScmnksyeYyEtdBlqZcozC) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:39 |
 | 55 | [Tequila \(Studio Version\)](https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Tequila \(Studio Version\)](https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M) | 3:19 |
-| 56 | [777](https://open.spotify.com/track/0ZSRoCgADCVBSAy2tjLnvG) | [Ziki Ks](https://open.spotify.com/artist/5h7FvtwckwDBdLlC3yOHgU), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [777](https://open.spotify.com/album/2cJ1jf9Oo3mhiDK7dLJfeq) | 3:10 |
-| 57 | [Roll Another One](https://open.spotify.com/track/0WtWIiMHgYKCX11kOwX6my) | [Jvst Fly](https://open.spotify.com/artist/4yafH0N98ld6th7MqELRXa) | [Roll Another One](https://open.spotify.com/album/5QsRYyibg1rSkwTKhWJhPe) | 3:13 |
+| 56 | [Roll Another One](https://open.spotify.com/track/0WtWIiMHgYKCX11kOwX6my) | [Jvst Fly](https://open.spotify.com/artist/4yafH0N98ld6th7MqELRXa) | [Roll Another One](https://open.spotify.com/album/5QsRYyibg1rSkwTKhWJhPe) | 3:13 |
+| 57 | [777](https://open.spotify.com/track/0ZSRoCgADCVBSAy2tjLnvG) | [Ziki Ks](https://open.spotify.com/artist/5h7FvtwckwDBdLlC3yOHgU), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [777](https://open.spotify.com/album/2cJ1jf9Oo3mhiDK7dLJfeq) | 3:10 |
 | 58 | [EU SEI](https://open.spotify.com/track/7BN2gjCwesbpg6fk2AgRvB) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [EU SEI](https://open.spotify.com/album/7Ks72VKkVAbJqTbvz8VwVa) | 3:43 |
 | 59 | [Uma Chamada Tua](https://open.spotify.com/track/7nVIz2hJtiCj7QfNgWTfDm) | [Kibow](https://open.spotify.com/artist/09R2ZnVOtZJjYH5CkDkA0M) | [Uma Chamada Tua](https://open.spotify.com/album/2Pt1yrT5x7GzPzCBexziIW) | 3:11 |
 | 60 | [Vistas](https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW) | [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Vistas](https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o) | 3:00 |
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 63 | [Falling](https://open.spotify.com/track/6dS3q4aYdfNTQ3ZMRP2p2u) | [J.Yen](https://open.spotify.com/artist/1cHrAXseLt7kFWFdvQE2HO) | [Falling](https://open.spotify.com/album/1s8l50CTfyziLZqKR9OkPz) | 3:28 |
 | 64 | [Na Minha](https://open.spotify.com/track/62YBP8pqutiMD6Ui9EjFRD) | [Cálculo](https://open.spotify.com/artist/1MOKHbjTVCqrzy7o3Es8hI) | [Na Minha](https://open.spotify.com/album/5Kude9sqn9Z5XjV5QfrHI8) | 2:58 |
 | 65 | [Culpa Do Álcool](https://open.spotify.com/track/1GAy3MLjR2Nlhdr1Z4iQb0) | [Stefânia Leonel](https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE) | [Culpa Do Álcool](https://open.spotify.com/album/0vnNwTitOdyUljMkE1qUPW) | 2:13 |
-| 66 | [Entorpecente](https://open.spotify.com/track/0fZ7aqPmqDSI1sGTO5MPqg) | [Manaux](https://open.spotify.com/artist/6tq70oYBgLGQmo3Rit9khr) | [Entorpecente](https://open.spotify.com/album/5TlSkej09g8DTIRYj1DHDC) | 2:38 |
-| 67 | [Chama](https://open.spotify.com/track/21IKJYkz8ixquQUHXu6cXK) | [Jovem Ricch](https://open.spotify.com/artist/6h1XzP48C784CYNKfgCY8D) | [Chama](https://open.spotify.com/album/6ahh3FXc4m8PpHLXzaC5kS) | 2:15 |
+| 66 | [Chama](https://open.spotify.com/track/21IKJYkz8ixquQUHXu6cXK) | [Jovem Ricch](https://open.spotify.com/artist/6h1XzP48C784CYNKfgCY8D) | [Chama](https://open.spotify.com/album/6ahh3FXc4m8PpHLXzaC5kS) | 2:15 |
+| 67 | [Entorpecente](https://open.spotify.com/track/0fZ7aqPmqDSI1sGTO5MPqg) | [Manaux](https://open.spotify.com/artist/6tq70oYBgLGQmo3Rit9khr) | [Entorpecente](https://open.spotify.com/album/5TlSkej09g8DTIRYj1DHDC) | 2:38 |
 | 68 | [Amar De Novo](https://open.spotify.com/track/2sDhRWH2VrOYdYwmmUciAo) | [Jay Arghh](https://open.spotify.com/artist/7o2higvi9ddnRkkeexfCw5), [Nelson Nhachungue](https://open.spotify.com/artist/3vDKB1JXTy4KJteAUoh4yZ) | [Amar De Novo](https://open.spotify.com/album/0aIYlO8e2HHdye8mHIBLMA) | 3:04 |
 | 69 | [Outono](https://open.spotify.com/track/01DyRyMOPecrfZdVZQvdqJ) | [10/16](https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE), [Djenga](https://open.spotify.com/artist/2eMReurbaZ9DrN632vlbae) | [Outono](https://open.spotify.com/album/7FfkXkOVmdEDVp9Y6hWIn7) | 3:56 |
 | 70 | [Lua](https://open.spotify.com/track/1WjnWfl2X36CBYDB0Dtga0) | [Curl](https://open.spotify.com/artist/7y655l8CPBN1uuVpeZHQ5y) | [Lua](https://open.spotify.com/album/4Oyobh3tcmdIuf8c3nrkTj) | 3:36 |
 | 71 | [Preciso de alguém](https://open.spotify.com/track/30U1EU9Tn3cx8iFp2QSbQn) | [Dougie Knight](https://open.spotify.com/artist/2PU8j6LKs1ndgXQQ92n5RB) | [Preciso de alguém](https://open.spotify.com/album/5j326RJto69tuJk04jned4) | 2:30 |
 | 72 | [Férias](https://open.spotify.com/track/5kvAbrnaVqt40FkzWLq23j) | [Projecto 51](https://open.spotify.com/artist/5kHEKWF1LxmEo7w9Lq3xus) | [Férias](https://open.spotify.com/album/4nKNDoaUp9CEywn6SRSGfX) | 4:22 |
-| 73 | [Down](https://open.spotify.com/track/2ewrS46uhgs4hRwJEDTm07) | [Naife](https://open.spotify.com/artist/7KTQQgroIAmGaopulh98Bi) | [Down](https://open.spotify.com/album/7qhIRAgBM3PUCNO2GvDTw4) | 3:40 |
-| 74 | [Chopper](https://open.spotify.com/track/4iA8xKvYNeJeykj9XCZ2hn) | [DJ Danifox](https://open.spotify.com/artist/58qqZsbpx5jsctoHd4qhpL) | [Ansiedade](https://open.spotify.com/album/1Kfi0mBJUdV1GeIjHRu7kV) | 3:45 |
-| 75 | [de longe](https://open.spotify.com/track/64Dw1NR6wGTJHMIdWyZUz9) | [Bala de Prata](https://open.spotify.com/artist/6oh2B9GVxXsJ0cEMZuHbpr), [Hernani](https://open.spotify.com/artist/0pv7KRBmPGExsFFLcyPv1y), [Djimetta](https://open.spotify.com/artist/1v1FKWoa3qc7TZBySi0eCW) | [de longe](https://open.spotify.com/album/04GuuwxXFyYKrApJTvDobv) | 4:13 |
+| 73 | [Confortable](https://open.spotify.com/track/7A6yZH0XOkn1qhgaNnOKYZ) | [SOLUNA](https://open.spotify.com/artist/6sIsLfY5y0OFtBSbSNEjmW), [Dotorado Pro](https://open.spotify.com/artist/6CMcJKC5K1MFHQJYKdTLPd) | [Confortable](https://open.spotify.com/album/6bRjSUOtBfPiUSb47hlh5Y) | 2:48 |
+| 74 | [Down](https://open.spotify.com/track/2ewrS46uhgs4hRwJEDTm07) | [Naife](https://open.spotify.com/artist/7KTQQgroIAmGaopulh98Bi) | [Down](https://open.spotify.com/album/7qhIRAgBM3PUCNO2GvDTw4) | 3:40 |
+| 75 | [Compensa](https://open.spotify.com/track/5Gy6YKL17vrzMVnsve5aCd) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Compensa](https://open.spotify.com/album/3iQUWcwiOXIa5BVwczmbbY) | 3:11 |
 
-Snapshot ID: `MCxhNzE5YjhkN2VhMzA3NTkxMGQ4NjE4NmQ0MGYwNzhjMjIyZmFlZDdm`
+Snapshot ID: `MCw4ZjkyYWE5MjczOTk3ZDA3NWVhM2M0OWYzOTU5MTY4OTY1YTE2MWM4`

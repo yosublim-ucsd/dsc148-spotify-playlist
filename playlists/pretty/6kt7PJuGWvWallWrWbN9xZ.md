@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6kt7PJuGWvWallWrWbN9xZ.md) - [plain]
 
 > these equations aren&\#x27;t adding up.
 
-[Johnny Le](https://open.spotify.com/user/12158668258) - 1 like - 187 songs - 11 hr 7 min
+[Johnny Le](https://open.spotify.com/user/12158668258) - 1 like - 188 songs - 11 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -195,5 +195,6 @@ pretty - [cumulative](/playlists/cumulative/6kt7PJuGWvWallWrWbN9xZ.md) - [plain]
 | 185 | [Manic Pixie Dream Girl](https://open.spotify.com/track/6z9zXftDgpnyZYL2KiRTHZ) | [EASHA](https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt) | [Manic Pixie Dream Girl](https://open.spotify.com/album/0k1Vpxn2v8PdDX0cu0jvMi) | 2:40 |
 | 186 | [Always](https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:45 |
 | 187 | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L) | 2:55 |
+| 188 | [don't miss me](https://open.spotify.com/track/5MG69A9XyXDbBbeOxdR3Tl) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [don’t miss me](https://open.spotify.com/album/2uXE0PE2nWgjXDV6nZi1l0) | 2:03 |
 
-Snapshot ID: `Mjg4LDIyMDgzZDk2YjdiYTdkNjQ5ODFhOGVlMGQzOWNjZmJkYjE0NmUyNWY=`
+Snapshot ID: `Mjg5LDI2Yzk5MThhMzMzMTNhYmI5ZDYzMzYyNGI0NTIwY2Y5NDkwNzkwNzQ=`

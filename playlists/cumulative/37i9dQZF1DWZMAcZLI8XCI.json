@@ -1070,7 +1070,7 @@
     {
       "album": {
         "name": "Clutch Pearlers",
-        "url": "https://open.spotify.com/album/3ABU76DvcER0crYxAWISCv"
+        "url": "https://open.spotify.com/album/3Uhc5JRiwWVHVX494nWZlT"
       },
       "artists": [
         {
@@ -1081,6 +1081,24 @@
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 287769,
+      "name": "Clutch Pearlers",
+      "url": "https://open.spotify.com/track/23P62YRP7ORVfuOdGYLtlr"
+    },
+    {
+      "album": {
+        "name": "Clutch Pearlers",
+        "url": "https://open.spotify.com/album/3ABU76DvcER0crYxAWISCv"
+      },
+      "artists": [
+        {
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 287769,
       "name": "Clutch Pearlers",
       "url": "https://open.spotify.com/track/36l0R9OLQLhRakstDG0sII"

@@ -1,12 +1,12 @@
 {
   "description": "You better duck, when I show you up, the goo goo muck! The Cramps on the cover.",
-  "num_followers": 599719,
+  "num_followers": 600134,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTRkM2E0ODgyMjc1MDIwNTQyZjcyZjgzOWFkZTA5ODNlMjhlNDBh",
+  "snapshot_id": "MCw3ZTkxYWE4OGZkZGFiMDBiYTQ1OGNmN2VmMGQzYmU4YWMzMzg4ZTBi",
   "tracks": [
     {
       "added_at": "2022-11-28 15:12:32",
@@ -989,22 +989,6 @@
       "url": "https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK"
     },
     {
-      "added_at": "2022-12-16 14:09:54",
-      "album": {
-        "name": "Strung Out Johnny",
-        "url": "https://open.spotify.com/album/3U6B7Thb2LXZjhV47KTqmm"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 253893,
-      "name": "Strung Out Johnny",
-      "url": "https://open.spotify.com/track/3bztP3gif7mrJ1LidczGWu"
-    },
-    {
       "added_at": "2021-10-15 04:04:50",
       "album": {
         "name": "Closer (Collector's Edition)",
@@ -1019,6 +1003,22 @@
       "duration_ms": 268013,
       "name": "Twenty Four Hours - 2007 Remaster",
       "url": "https://open.spotify.com/track/36HznXQNGoen7dwq4Vv6nP"
+    },
+    {
+      "added_at": "2022-12-16 14:09:54",
+      "album": {
+        "name": "Strung Out Johnny",
+        "url": "https://open.spotify.com/album/3U6B7Thb2LXZjhV47KTqmm"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 253893,
+      "name": "Strung Out Johnny",
+      "url": "https://open.spotify.com/track/3bztP3gif7mrJ1LidczGWu"
     },
     {
       "added_at": "2022-03-30 01:50:22",

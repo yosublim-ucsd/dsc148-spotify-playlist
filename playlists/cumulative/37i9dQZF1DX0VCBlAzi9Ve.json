@@ -368,10 +368,28 @@
       ],
       "date_added": "2015-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 664573,
       "name": "Go Bang",
       "url": "https://open.spotify.com/track/5bnBF6QS1kZj3WOVZ8KqOB"
+    },
+    {
+      "album": {
+        "name": "Go Bang",
+        "url": "https://open.spotify.com/album/6FhmsyMDKvnpHx8JgefrvC"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "date_added": "2015-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 664573,
+      "name": "Go Bang",
+      "url": "https://open.spotify.com/track/7sPKwl78bZIhXuBZvOykFD"
     },
     {
       "album": {

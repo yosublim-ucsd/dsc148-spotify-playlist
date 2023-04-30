@@ -4,7 +4,7 @@
 
 > All the greatest Ambient tracks in one place\. Cover: Brian Eno
 
-172 songs - 20 hr 44 min
+176 songs - 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [1/1 \- Remastered 2004](https://open.spotify.com/track/3bCmDqflFBHijgJfvtqev5) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 17:21 | 2021-12-22 |  |
 | [12 Hours Before](https://open.spotify.com/track/3pcrD4NBBBQGMJATRhk25C) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Chernobyl \(Music from the Original TV Series\)](https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ) | 2:31 | 2021-12-22 |  |
 | [4:14](https://open.spotify.com/track/5snT0KvkN7Ty0oiVyxZMfE) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/4y0wXNP3t9rUv1y58Peuj1) | 4:15 | 2021-12-22 |  |
-| [92982.3](https://open.spotify.com/track/0BWfj3oeIWOQOTzpikVEG1) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [92982](https://open.spotify.com/album/1fsBK1GajNTKmwFqb77u9z) | 7:07 | 2022-08-17 |  |
+| [92982.3](https://open.spotify.com/track/14jjKMNUMd8lKIdaqwn4XG) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [92982](https://open.spotify.com/album/6a22PsvseOZcFqySU0jQvk) | 7:03 | 2023-03-16 |  |
+| [92982.3](https://open.spotify.com/track/0BWfj3oeIWOQOTzpikVEG1) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [92982](https://open.spotify.com/album/1fsBK1GajNTKmwFqb77u9z) | 7:07 | 2022-08-17 | 2023-04-30 |
 | [?](https://open.spotify.com/track/15RDpqONY9BUkRzpRtFZf5) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [Under The Sun](https://open.spotify.com/album/39OlksvQLqQOOOctXERwmK) | 6:03 | 2021-12-22 | 2023-02-02 |
 | [?](https://open.spotify.com/track/79uKn56T98vvCyID5wXQqA) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [Under The Sun](https://open.spotify.com/album/5VtrkG2Vs7GE1ufQpqqUug) | 6:03 | 2023-01-27 |  |
 | [A Delicate Romance](https://open.spotify.com/track/1EKcXCqix2v6qb6rj2m5Ty) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K) | 7:14 | 2021-12-22 | 2022-10-14 |
@@ -38,8 +39,9 @@
 | [Atomos VII](https://open.spotify.com/track/2Ax0k7jE4DmGO1q1WJxhAO) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1) | [Atomos](https://open.spotify.com/album/396TIKI6U7pnNprIM68Q6z) | 7:49 | 2022-07-11 |  |
 | [Atomos VII](https://open.spotify.com/track/1NO5mFfik5T0LLsoiJsbE7) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1) | [Atomos](https://open.spotify.com/album/4zjPJ2EkqoqVw5rRJjNvoo) | 7:51 | 2021-12-22 | 2022-07-29 |
 | [Atomos VII](https://open.spotify.com/track/7dxVaE1WZ0bPrIz60V5dm8) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1) | [Atomos VII](https://open.spotify.com/album/332R7lmKFcPMVrvkptRM8E) | 7:59 | 2022-10-14 | 2022-11-13 |
+| [Be Still](https://open.spotify.com/track/2nXbC8iv1dCTHAZHyinGGw) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [Embrace](https://open.spotify.com/album/1wSOB3O3o2XfyRQ4XjB1Q4) | 5:28 | 2023-03-16 |  |
 | [Be Still](https://open.spotify.com/track/5HVHnoZniuyJeO9j3FvTVk) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [Embrace](https://open.spotify.com/album/3Z4RiFDxDYm0k3iNtQVZ3U) | 5:28 | 2021-12-22 | 2022-07-29 |
-| [Be Still](https://open.spotify.com/track/5qFU0eRQlMkT5AfdiOdno8) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [Embrace](https://open.spotify.com/album/71o5rJ09vTQMQghsbbQ0mC) | 5:28 | 2022-07-11 |  |
+| [Be Still](https://open.spotify.com/track/5qFU0eRQlMkT5AfdiOdno8) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [Embrace](https://open.spotify.com/album/71o5rJ09vTQMQghsbbQ0mC) | 5:28 | 2022-07-11 | 2023-04-30 |
 | [Beethoven 250](https://open.spotify.com/track/3dwKY7kbnRKhohvSTftdUw) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1) | [@0](https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3) | 4:11 | 2021-12-22 |  |
 | [Bhakti](https://open.spotify.com/track/0CNpKC19EvV9cYeSCJD8YW) | [Ishq](https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F) | [Orchid](https://open.spotify.com/album/5yKUy5T6GHkZ28mguYjs1s) | 10:18 | 2022-07-11 |  |
 | [Bhakti](https://open.spotify.com/track/44tHSayEL4rW64qonY0odi) | [Ishq](https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F) | [Orchid](https://open.spotify.com/album/14sn0IU3GveZS7XNzPhVhd) | 10:18 | 2022-04-20 | 2022-07-29 |
@@ -143,8 +145,9 @@
 | [Stave Peak](https://open.spotify.com/track/1zkg1Iy9lFRF5ZQHMEiR9y) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Coast / Range / Arc](https://open.spotify.com/album/7mPWzggbkjqPQM9tDQa64s) | 6:40 | 2022-08-17 |  |
 | [Stratus](https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [EARS](https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ) | 3:04 | 2022-07-11 |  |
 | [Stratus](https://open.spotify.com/track/7G0celL82dCIDYjUxdPyoG) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [EARS](https://open.spotify.com/album/5T9rGi62i1O7wRu3c2f3q4) | 3:04 | 2021-12-22 | 2022-07-29 |
+| [Submersible](https://open.spotify.com/track/0qsVyB8EPHAlId8v3jqpcg) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Replica](https://open.spotify.com/album/4X5lHc7Fw8PPTbQAC37wvA) | 3:50 | 2023-03-16 |  |
 | [Submersible](https://open.spotify.com/track/157hM4Kifc9ZeVR3IxOmKh) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Replica](https://open.spotify.com/album/4Wq9kfnBR0npGfsuQl8kDW) | 3:50 | 2021-12-22 | 2022-07-29 |
-| [Submersible](https://open.spotify.com/track/2fJygKixDmVgmsYAjn9aNq) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Replica](https://open.spotify.com/album/4xgY6533C7VK4HEeojrgc1) | 3:50 | 2022-07-11 |  |
+| [Submersible](https://open.spotify.com/track/2fJygKixDmVgmsYAjn9aNq) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Replica](https://open.spotify.com/album/4xgY6533C7VK4HEeojrgc1) | 3:50 | 2022-07-11 | 2023-04-30 |
 | [Suiren](https://open.spotify.com/track/3Q6okpLoq2ZhOzZfBHpmei) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi), [Stuart Dempster](https://open.spotify.com/artist/174yhQdHRtoWDlvtZ15NuK), [Panaiotis](https://open.spotify.com/artist/3nNs3fKoNiAHgx4B6p5fYA) | [Deep Listening](https://open.spotify.com/album/1h4VM1Nsgav7liCdWBoGlC) | 10:01 | 2021-12-22 |  |
 | [Suite Pour L'invisible](https://open.spotify.com/track/5JTRbD6x9nnYh3mrrK3kcR) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 7:01 | 2021-12-22 |  |
 | [The Calling](https://open.spotify.com/track/6XSD8mKCRbgyWz0pa7iQbr) | [Jon Jenkins](https://open.spotify.com/artist/1U0diiFPWCRYbyoM0wVmkw) | [Beyond City Light](https://open.spotify.com/album/2adS3R69fgRqkfnee4B3g5) | 5:04 | 2022-04-20 |  |
@@ -165,7 +168,8 @@
 | [TWTGA](https://open.spotify.com/track/4ljALrblJ6OyrXFH0PzXwK) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [Tomorrow Was the Golden Age](https://open.spotify.com/album/4gsrQjP1ahrsA4kvXQsVyr) | 5:55 | 2021-12-22 | 2022-07-29 |
 | [Undercurrent](https://open.spotify.com/track/6Qyy9fqDBBZyl90snerjl0) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Depths](https://open.spotify.com/album/4N2itOeznvkwIysfQVjGP1) | 4:41 | 2021-12-22 |  |
 | [unother](https://open.spotify.com/track/363mTP8zzRAr36wlbcdHRP) | [Terekke](https://open.spotify.com/artist/0VkQxm6BXV8KqEFmUpg5Lu) | [Improvisational Loops](https://open.spotify.com/album/7sYiiE8J3sHHCALicu6MUU) | 1:02 | 2021-12-22 |  |
-| [Unreal](https://open.spotify.com/track/3HNd6shi5OkaFn0PftmnaP) | [Lawrence Lek](https://open.spotify.com/artist/6nrCZQONyyfrj5P3DBl2S7) | [AIDOL \(O.S.T.\)](https://open.spotify.com/album/0gJcfpCTgTeNnWiDO587T7) | 2:53 | 2022-07-11 |  |
+| [Unreal](https://open.spotify.com/track/0IPOJsga3hbAtJrsPGJ7uS) | [Lawrence Lek](https://open.spotify.com/artist/6nrCZQONyyfrj5P3DBl2S7) | [AIDOL \(O.S.T.\)](https://open.spotify.com/album/0QGMUDSTkfmBDCXvviSsoj) | 2:53 | 2023-03-16 |  |
+| [Unreal](https://open.spotify.com/track/3HNd6shi5OkaFn0PftmnaP) | [Lawrence Lek](https://open.spotify.com/artist/6nrCZQONyyfrj5P3DBl2S7) | [AIDOL \(O.S.T.\)](https://open.spotify.com/album/0gJcfpCTgTeNnWiDO587T7) | 2:53 | 2022-07-11 | 2023-04-30 |
 | [Unreal](https://open.spotify.com/track/3VqwkDkx2HH9u8ykag55jv) | [Lawrence Lek](https://open.spotify.com/artist/6nrCZQONyyfrj5P3DBl2S7) | [Unreal](https://open.spotify.com/album/3eAjo3cKdh6jN21mMevbzs) | 2:53 | 2022-10-14 | 2022-11-13 |
 | [Unreal](https://open.spotify.com/track/3liR99bvHUIbDZv1bWKJNd) | [Lawrence Lek](https://open.spotify.com/artist/6nrCZQONyyfrj5P3DBl2S7) | [AIDOL \(OST\)](https://open.spotify.com/album/3w0DWCRJXBcB0aCgeOJ7LX) | 2:54 | 2021-12-22 | 2022-07-29 |
 | [Vapors](https://open.spotify.com/track/4GGdwZABjIFSnFGavhd7Ge) | [Lennart Altgenug](https://open.spotify.com/artist/1gpe3l1VsbKu6qbFIj5ArO), [Still Restless](https://open.spotify.com/artist/6AHEtmyMoioYHE2mEZWEl0) | [Vapors](https://open.spotify.com/album/7pmaEJKmCiewU5BDYlEiAo) | 3:12 | 2022-10-14 |  |

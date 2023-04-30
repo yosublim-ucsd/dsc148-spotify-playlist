@@ -879,7 +879,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [CLASS OF 2020 mixtape](/playlists/pretty/37i9dQZF1DWVhUYCGnZTnv.md)
 - [CLASS OF 2022 mixtape](/playlists/pretty/37i9dQZF1DXcPYzOAWX8Wm.md)
 - [CMA Awards 2022 Nominees](/playlists/pretty/37i9dQZF1DX8ZfTXESa5KP.md)
-- [CMA Music Fest](/playlists/pretty/37i9dQZF1DX4yQ5BwwlSiC.md)
+- [CMA Fest](/playlists/pretty/37i9dQZF1DX4yQ5BwwlSiC.md)
 - [COBRAH's track IDs](/playlists/pretty/37i9dQZF1DWYoioDxgMsjZ.md)
 - [CODE GEASS SERIES \-コードギアスシリーズ\-](/playlists/pretty/37i9dQZF1DX05YNpFuDzLK.md)
 - [CODING FOCUS](/playlists/pretty/15ngsvOmlTkARCg7ipoNvG.md)

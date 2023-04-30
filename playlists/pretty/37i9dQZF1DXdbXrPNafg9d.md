@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new indie songs every Friday\. Cover: The National
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,276,944 likes - 175 songs - 10 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,277,005 likes - 175 songs - 10 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,7 +136,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 126 | [Fiona](https://open.spotify.com/track/1EuYQdVoeK9q5NuuhIkwgO) | [The Hails](https://open.spotify.com/artist/3g65HWtAf8uyVmpR4sRbrT) | [Fiona](https://open.spotify.com/album/1f0mIM0PKUccGYr68Inlhy) | 3:20 |
 | 127 | [I Been Young](https://open.spotify.com/track/54rNIPcl3M51J42P1C7NNX) | [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [I Been Young](https://open.spotify.com/album/02uBAyWPtbh8XDDjn7kUUh) | 4:59 |
 | 128 | [KEEP IT COOL!](https://open.spotify.com/track/1H4sbFieU2PFUMYugcGNlb) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [KEEP IT COOL!](https://open.spotify.com/album/1H0zkjJIFUVuOPn1Jr6NdF) | 2:50 |
-| 129 | [True Love is Freedom](https://open.spotify.com/track/1uE7iaPkG6UOWGetsxD5zX) | [Jimmy Whispers](https://open.spotify.com/artist/0fhv5pwSh099mHYF9b3Cpn) | [True Love is Freedom](https://open.spotify.com/album/7qDv226QcAOMybIpzNequM) | 1:47 |
+| 129 | [True Love is Freedom](https://open.spotify.com/track/03gQD1vSbHbBmfSvpaA9C4) | [Jimmy Whispers](https://open.spotify.com/artist/0fhv5pwSh099mHYF9b3Cpn) | [True Love is Freedom](https://open.spotify.com/album/0lqjcEcxb2swqcQfRx0OAU) | 1:47 |
 | 130 | [Drift](https://open.spotify.com/track/2DrqXZDc4SUKXp0nkRn9ze) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Drift](https://open.spotify.com/album/4UbbEC1bDQEBol2DLR2eGi) | 4:24 |
 | 131 | [Days Go By](https://open.spotify.com/track/1DeYyjLYn23Mf2TB430UAN) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Days Go By](https://open.spotify.com/album/4yRo9mkyjeLQ1vdQAtXIn2) | 3:14 |
 | 132 | [All The Same](https://open.spotify.com/track/7mVDDe0DVooFn6G8dWdO85) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [All The Same](https://open.spotify.com/album/647eOV9vqw5QiTbbfYw5i5) | 3:28 |
@@ -149,7 +149,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 139 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 |
 | 140 | [Ghost World](https://open.spotify.com/track/4dwxdOkBE8OBXD9E6EruGv) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [5K](https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8) | 3:21 |
 | 141 | [Going Kokomo](https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:10 |
-| 142 | [Watching The Credits](https://open.spotify.com/track/71qgKwa2bSdb2gB6Qob5qT) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Watching The Credits](https://open.spotify.com/album/4wcu9s9C12dBnYAvpeK9QY) | 3:15 |
+| 142 | [Watching The Credits](https://open.spotify.com/track/2KbfXyUl8eusGT4pWwKroB) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Watching The Credits](https://open.spotify.com/album/3jRcvMTnKCMfIiA1TevG9s) | 3:15 |
 | 143 | [im fine, thx 4 asking](https://open.spotify.com/track/4wIz4Lx7BFfGi8E7PzVipV) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [scales](https://open.spotify.com/album/1u6rGG6BDo8bvpcXfhkS8W) | 3:01 |
 | 144 | [Rainbow](https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Joker & Rainbow](https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk) | 2:56 |
 | 145 | [Psychos](https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Psychos](https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1) | 3:05 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 174 | [Under The Milky Way](https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Under The Milky Way](https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS) | 4:20 |
 | 175 | [Futuro Incierto](https://open.spotify.com/track/4Rz2h33CcrSLpQ4EScZmPJ) | [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Futuro Incierto](https://open.spotify.com/album/4pFmMfwJjvoU8QKEJl7cRq) | 4:48 |
 
-Snapshot ID: `MCwyYzQwNmE4NzBhNmU4ZmMyZjNlZDVjOWM1MTg5NjBkOGU5MWEzZGFm`
+Snapshot ID: `MCxlYWQ4OGQ2OGJlZTE3YWUyMmZjYjlhNTYwOTIzNjk1M2VhMWNhNTIw`

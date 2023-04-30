@@ -4,7 +4,7 @@
 
 > Sway your way through the evening.
 
-217 songs - 13 hr 17 min
+218 songs - 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Breathe \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/7nmA2R4IQSfZpMYFhXY9r7) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Spotify Singles](https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ) | 3:54 | 2021-10-01 |  |
 | [Callin'](https://open.spotify.com/track/0Iq41nl0uuZqPCF5gKH3Li) | [Alec Bailey](https://open.spotify.com/artist/0Y660vMBkPvMxMV9QTg11v) | [Callin'](https://open.spotify.com/album/4jQ2HpmNaAAs5NfvsCmyNP) | 3:08 | 2021-10-01 |  |
 | [Can't Help Falling in Love](https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Better](https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr) | 2:53 | 2021-10-01 |  |
-| [Changes](https://open.spotify.com/track/1fOc4Kf82a6J1C9gS5sE0d) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [Changes](https://open.spotify.com/album/7g7WzMzTLLOyTSzVUnJACI) | 6:00 | 2021-10-01 |  |
+| [Changes](https://open.spotify.com/track/3HC6U39266ytr7fMW9M2Mz) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [Changes](https://open.spotify.com/album/4A271CZJOcBKENslfEDsYM) | 5:42 | 2022-01-21 |  |
+| [Changes](https://open.spotify.com/track/1fOc4Kf82a6J1C9gS5sE0d) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [Changes](https://open.spotify.com/album/7g7WzMzTLLOyTSzVUnJACI) | 6:00 | 2021-10-01 | 2023-04-30 |
 | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK) | 3:27 | 2021-10-01 |  |
 | [Chew On My Heart \- Piano & Voice](https://open.spotify.com/track/4VyOYqqy4sXCKsdx1mBDBc) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chew On My Heart \(Piano & Voice\)](https://open.spotify.com/album/3rZWc6tU0jEtwtrT3o2NvQ) | 3:41 | 2021-10-01 |  |
 | [Cold Feet](https://open.spotify.com/track/0gpDp7GWxBOTt9Fhqdrxfn) | [Chord Overstreet](https://open.spotify.com/artist/5D3muNJhYYunbRkh3FKgX0) | [Cold Feet](https://open.spotify.com/album/15b5euyUrITCRDl4Du4M9y) | 3:14 | 2021-10-01 | 2022-07-29 |

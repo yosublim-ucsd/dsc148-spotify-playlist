@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkkUxEhrBdF.md) - [plain]
 
 > Relax and slip into this eclectic mix of reggae infused tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,857 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,883 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkkUxEhrBdF.md) - [plain]
 | 49 | [Mood Forever](https://open.spotify.com/track/5O66ltnew3GTXTvMFaK3tv) | [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Mood Forever EP](https://open.spotify.com/album/6sIctZXhBIDn7yG3kgwzD9) | 2:54 |
 | 50 | [Need U Bad](https://open.spotify.com/track/0Ri0LzOMJmqi9HGZE5cRYV) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Fearless](https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU) | 4:17 |
 
-Snapshot ID: `MCxmMDU2YjM4MWI3MzNjYmU5YWFiNmNlYTA1M2QxNzI1MjhmYTM3N2Mz`
+Snapshot ID: `MCwwYjc4ZTNjNWRmZGU4YzI5YjVhNTcxNmI4MTNjNTlmNThmOWIzOTE3`

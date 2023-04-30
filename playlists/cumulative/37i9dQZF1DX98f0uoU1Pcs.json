@@ -1866,6 +1866,24 @@
     {
       "album": {
         "name": "Dreamsickle",
+        "url": "https://open.spotify.com/album/6VD6gN1xNDK9fLNVmi991w"
+      },
+      "artists": [
+        {
+          "name": "Wombo",
+          "url": "https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147005,
+      "name": "Dreamsickle",
+      "url": "https://open.spotify.com/track/4mBApNWombE2NU9npSt8TR"
+    },
+    {
+      "album": {
+        "name": "Dreamsickle",
         "url": "https://open.spotify.com/album/54uFsfnaWKjg2r4ZjyGx1O"
       },
       "artists": [
@@ -1876,7 +1894,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 147005,
       "name": "Dreamsickle",
       "url": "https://open.spotify.com/track/5hhYYTvx7PkLMCABivfYVS"
@@ -4212,6 +4230,24 @@
     {
       "album": {
         "name": "The Town That Cursed Your Name",
+        "url": "https://open.spotify.com/album/4bjPoNmAvTSTURJ7PWP0B6"
+      },
+      "artists": [
+        {
+          "name": "The Reds, Pinks and Purples",
+          "url": "https://open.spotify.com/artist/5onPoueRGS17tA2CcceUiz"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160549,
+      "name": "Life in the Void",
+      "url": "https://open.spotify.com/track/0b8fkzdUPsz0cVmQlTqs71"
+    },
+    {
+      "album": {
+        "name": "The Town That Cursed Your Name",
         "url": "https://open.spotify.com/album/2gp5BvkFNT3urcXjtZ22fs"
       },
       "artists": [
@@ -4222,7 +4258,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 160549,
       "name": "Life in the Void",
       "url": "https://open.spotify.com/track/3PZWApSYXue8hahOGd6o2f"
@@ -4312,10 +4348,28 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 212080,
       "name": "Loops",
       "url": "https://open.spotify.com/track/2tmWR0E3FQTquGK7vYnkwN"
+    },
+    {
+      "album": {
+        "name": "All Fiction",
+        "url": "https://open.spotify.com/album/1sYIZ1azBbZd7AyznM3ulP"
+      },
+      "artists": [
+        {
+          "name": "Pile",
+          "url": "https://open.spotify.com/artist/44pUNjqg4mExLyFHnB3Bqf"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212080,
+      "name": "Loops",
+      "url": "https://open.spotify.com/track/5GgeEPCGwqoWxd6gzptHeB"
     },
     {
       "album": {
@@ -7196,10 +7250,32 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 214333,
       "name": "Thin Air",
       "url": "https://open.spotify.com/track/5oF81W6YniYDtd2MjkUd3n"
+    },
+    {
+      "album": {
+        "name": "GIZMO",
+        "url": "https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1"
+      },
+      "artists": [
+        {
+          "name": "Tanukichan",
+          "url": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6"
+        },
+        {
+          "name": "Enumclaw",
+          "url": "https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214333,
+      "name": "Thin Air",
+      "url": "https://open.spotify.com/track/6zuqI8QSazQ6850pxx2IU5"
     },
     {
       "album": {
@@ -7628,10 +7704,28 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 165200,
       "name": "vertigo",
       "url": "https://open.spotify.com/track/37QxBluoFPXI230lb27OwZ"
+    },
+    {
+      "album": {
+        "name": "CACTI",
+        "url": "https://open.spotify.com/album/5yxbBuZfpB3yMoUQqdwOjz"
+      },
+      "artists": [
+        {
+          "name": "Billy Nomates",
+          "url": "https://open.spotify.com/artist/0QJaBD8Piha8IEwKtNpBOB"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165200,
+      "name": "vertigo",
+      "url": "https://open.spotify.com/track/4P0ap7JtuISR0QqtIK9JZD"
     },
     {
       "album": {
@@ -7934,7 +8028,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 231039,
       "name": "Wyrmlands",
       "url": "https://open.spotify.com/track/4MpJnLE6lovDJw2BNrOmNJ"
@@ -7956,6 +8050,24 @@
       "duration_ms": 231039,
       "name": "Wyrmlands",
       "url": "https://open.spotify.com/track/5CqjTEkfL71wcZgMucMR0G"
+    },
+    {
+      "album": {
+        "name": "The Worm",
+        "url": "https://open.spotify.com/album/3ilzLYEzGlpAXk8fx7z3vu"
+      },
+      "artists": [
+        {
+          "name": "HMLTD",
+          "url": "https://open.spotify.com/artist/0yd6o6a2MaOjsF1SglI4Hw"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231039,
+      "name": "Wyrmlands",
+      "url": "https://open.spotify.com/track/7Jpt1u0XR7OGLfpsMf5wjv"
     },
     {
       "album": {

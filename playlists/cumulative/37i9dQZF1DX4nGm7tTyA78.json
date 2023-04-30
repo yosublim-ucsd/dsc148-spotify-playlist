@@ -1038,6 +1038,24 @@
     {
       "album": {
         "name": "No Existe",
+        "url": "https://open.spotify.com/album/1LnSXoq8GRj8Mb1TWYa1Ro"
+      },
+      "artists": [
+        {
+          "name": "Abdi",
+          "url": "https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250698,
+      "name": "No Existe",
+      "url": "https://open.spotify.com/track/4bK6jV6jIzoyksOipcKA4K"
+    },
+    {
+      "album": {
+        "name": "No Existe",
         "url": "https://open.spotify.com/album/7sEzZRAMzM53HiEfsqtG4J"
       },
       "artists": [
@@ -1048,7 +1066,7 @@
       ],
       "date_added": "2020-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 250698,
       "name": "No Existe",
       "url": "https://open.spotify.com/track/5ohKZEW3iWauevBwCBLq4R"

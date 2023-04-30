@@ -522,7 +522,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 148173,
       "name": "Bass Solo - Live From Mid-Hudson Civic Arena, Poughkeepsie NY / 1984",
       "url": "https://open.spotify.com/track/0enxxwvJPMNfx5a7g6Fakd"
@@ -1252,6 +1252,24 @@
       "duration_ms": 208645,
       "name": "Dreamlike",
       "url": "https://open.spotify.com/track/2Q5SujJTPSQRKH5Yu2b4Ov"
+    },
+    {
+      "album": {
+        "name": "KISS Off The Soundboard: Live In Poughkeepsie",
+        "url": "https://open.spotify.com/album/5fy9u8pWFQtEO2Er9SSfcj"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325280,
+      "name": "Drum Solo - Live From Mid-Hudson Civic Arena, Poughkeepsie NY / 1984",
+      "url": "https://open.spotify.com/track/7BZSorIzeorVRG78YDt3Fx"
     },
     {
       "album": {
@@ -2058,7 +2076,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 283783,
       "name": "Heroes of the Dawn - Live",
       "url": "https://open.spotify.com/track/7JgOAPnPaAOtmnIuo0fzCf"
@@ -2500,7 +2518,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 232522,
       "name": "In The Cold, Cold Night - Live at The Aragon Ballroom, July 2, 2003",
       "url": "https://open.spotify.com/track/0bBRfcuev1xS3zFbPHinjP"
@@ -3568,7 +3586,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 223445,
       "name": "Monta\u00f1a Roja - En Vivo",
       "url": "https://open.spotify.com/track/0Qmhp99CvPvOWs0HEuSkaV"
@@ -4336,7 +4354,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 179043,
       "name": "Red Elephant - Live 1994",
       "url": "https://open.spotify.com/track/0eHQGDY7L3TqTHdqcZ2OZl"
@@ -6090,7 +6108,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 413186,
       "name": "Who Are You - Live At Wembley, UK / 2019",
       "url": "https://open.spotify.com/track/5pNqiPmmVcBPWk3HKNeNg9"
@@ -6258,7 +6276,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 423013,
       "name": "You Must Burn!",
       "url": "https://open.spotify.com/track/1ALXFmNr7lrTug2LAE989q"

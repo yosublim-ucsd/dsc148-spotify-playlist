@@ -2920,10 +2920,28 @@
       ],
       "date_added": "2019-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 225280,
       "name": "Take This Heart of Gold",
       "url": "https://open.spotify.com/track/0Zyt3eB2Ddhert42wIa181"
+    },
+    {
+      "album": {
+        "name": "Blindfaller",
+        "url": "https://open.spotify.com/album/3CwgFOEB6g9vfADfAcYaIL"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "date_added": "2019-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225280,
+      "name": "Take This Heart of Gold",
+      "url": "https://open.spotify.com/track/3HPmjLKBBxGiLtrvhN33Yf"
     },
     {
       "album": {

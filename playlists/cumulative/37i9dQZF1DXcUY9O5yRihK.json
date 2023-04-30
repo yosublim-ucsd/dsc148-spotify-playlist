@@ -404,10 +404,28 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 179110,
       "name": "Entre nous",
       "url": "https://open.spotify.com/track/6O3ksAhy0XOhf48pmz23bR"
+    },
+    {
+      "album": {
+        "name": "Entre nous",
+        "url": "https://open.spotify.com/album/5akgQYFjwmGCfmedpgl53C"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179110,
+      "name": "Entre nous",
+      "url": "https://open.spotify.com/track/7bmtlgtRezmSH5vgDGzQig"
     },
     {
       "album": {

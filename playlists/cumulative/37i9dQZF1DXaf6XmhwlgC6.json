@@ -2169,6 +2169,24 @@
     },
     {
       "album": {
+        "name": "Romanticizing",
+        "url": "https://open.spotify.com/album/2JXmi8X9xYCjXkwJyB5x40"
+      },
+      "artists": [
+        {
+          "name": "Tim Gourolis",
+          "url": "https://open.spotify.com/artist/5q8Q9Fa2WPZVwj5VR6XYgp"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146731,
+      "name": "Romanticizing",
+      "url": "https://open.spotify.com/track/1PEqJDiicIXyEpby51cMJa"
+    },
+    {
+      "album": {
         "name": "Ruby",
         "url": "https://open.spotify.com/album/6NttMwDGTU9pOIZYrK3Z0k"
       },
@@ -2992,24 +3010,6 @@
       "duration_ms": 155542,
       "name": "Tides",
       "url": "https://open.spotify.com/track/5cTIWg6DXp6BRFswOhnOpt"
-    },
-    {
-      "album": {
-        "name": "Romanticizing",
-        "url": "https://open.spotify.com/album/2JXmi8X9xYCjXkwJyB5x40"
-      },
-      "artists": [
-        {
-          "name": "Tim Gourolis",
-          "url": "https://open.spotify.com/artist/5q8Q9Fa2WPZVwj5VR6XYgp"
-        }
-      ],
-      "date_added": "2023-04-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 146731,
-      "name": "Tim Gourolis",
-      "url": "https://open.spotify.com/track/1PEqJDiicIXyEpby51cMJa"
     },
     {
       "album": {

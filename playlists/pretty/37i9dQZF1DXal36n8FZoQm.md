@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 
 > The official playlist for Cobra Kai\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,986 likes - 143 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,078 likes - 143 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 96 | [White Tape](https://open.spotify.com/track/70GFuDDRVEdi4Yasu2p9dS) | [Amazing Police](https://open.spotify.com/artist/4JBMBRwrP1lwnF7EM7fgRA) | [Amazing Police](https://open.spotify.com/album/0tmsIjtpvPOvQM7ppSXJLA) | 6:05 |
 | 97 | [You're the Inspiration](https://open.spotify.com/track/1sUQJeihi2iSAQOXtxRjkz) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [The Very Best of Chicago: Only the Beginning](https://open.spotify.com/album/0z3eL2W3UZVcBiOWwe461h) | 3:50 |
 | 98 | [Bigger](https://open.spotify.com/track/3GUMnKnOBMnjJP0d9Sc6A7) | [Steven Cooper](https://open.spotify.com/artist/4qFYJ5Gbp4DpskZDJ7LtAa), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Life & Love](https://open.spotify.com/album/5z3jT6EbMUQnS4Arl7LRVc) | 3:15 |
-| 99 | [Fangs Out](https://open.spotify.com/track/5CrrcfYTyVgbkrbQL4Gl8P) | [Bat Fangs](https://open.spotify.com/artist/2D0ve7sq3V8gMiWa5JqTar) | [Bat Fangs](https://open.spotify.com/album/0kopRwEQgaL0fpQMrGO8tR) | 3:37 |
+| 99 | [Fangs Out](https://open.spotify.com/track/0YPI0lpt5gFzpHwNASKbKi) | [Bat Fangs](https://open.spotify.com/artist/2D0ve7sq3V8gMiWa5JqTar) | [Bat Fangs](https://open.spotify.com/album/72EmvI2TP4pLOCVizB13ih) | 3:37 |
 | 100 | [Hold Steady](https://open.spotify.com/track/0EsDXxLglW6znXTnJ4hCz3) | [Justin Forrest](https://open.spotify.com/artist/0glyJh3jYJ2B2xlUPYgfbf) | [Hold Steady](https://open.spotify.com/album/3ORSmzn6M2xEIh0dZFnm8u) | 3:14 |
 | 101 | [Like a Dance](https://open.spotify.com/track/6FtO9TV7VM1lmPiHMvYyqz) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 2 \(Soundtrack from the Original Series\)](https://open.spotify.com/album/2eYneWlXOCsnhYiiC8v34V) | 3:12 |
 | 102 | [Pelicans](https://open.spotify.com/track/2fuKzSeYauXKyz2fyrlL4H) | [E.G.O.](https://open.spotify.com/artist/7BTbMWAtRG6B6wRuGsztNU), [JF](https://open.spotify.com/artist/2jHzwqnp8ghpB7QpnnWNKu), [Noir](https://open.spotify.com/artist/43Q1i8pwT3uRuxJYr8AYRG) | [Pelicans](https://open.spotify.com/album/6AJuZuzvVu2N2JHKOwnL9z) | 2:56 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 142 | [All of Us](https://open.spotify.com/track/26RRShwHcBtzAmSWKhQfJO) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 5, Vol 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4i0ZzMWF8i4GgyhQlVgml1) | 2:11 |
 | 143 | [The Eagle and the Lion](https://open.spotify.com/track/72FDfor2MIk4PfXCsupKp3) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 5, Vol 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4i0ZzMWF8i4GgyhQlVgml1) | 1:30 |
 
-Snapshot ID: `MCxiNmEyNWE4M2IzNGQxNmIyNWM5NmRlMTEyN2I0OTRmYzM1MjY3MzAx`
+Snapshot ID: `MCw5MGZiYzBkNWQwZDcwMGE0ODIyYjkxMDg2ZTI5NmJiNzk5MzMyZWEy`

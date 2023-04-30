@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 
 > Lyrical\. Legit\. Folk, Americana, and Singer\-Songwriter music features LGBTQIA+ acts and allies\. Cover: Adeem the Artist
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,432 likes - 96 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,458 likes - 96 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,12 +55,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 | 45 | [Bed of Bad Luck](https://open.spotify.com/track/1rdoKO7Q1TMMP1vvGcdiQ2) | [Little Bandit](https://open.spotify.com/artist/3ZcpzDeDdqeqO3aWU3IN4y) | [Breakfast Alone](https://open.spotify.com/album/6vRs199Mg5jUHA4W0tfXPV) | 3:27 |
 | 46 | [Love is a Fire](https://open.spotify.com/track/1hA2vgZyb41P1ns2mYGynD) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Your Life Is a Record](https://open.spotify.com/album/027y46STDxTFM35diEeoxy) | 4:01 |
 | 47 | [Just A Woman](https://open.spotify.com/track/6CwZv215C5uYwW277JsrLu) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U), [Jessi Colter](https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v) | [Just A Woman](https://open.spotify.com/album/5qPSuH0qcPnDv2q7HfDM5I) | 4:16 |
-| 48 | [The Fear of Losing This](https://open.spotify.com/track/5iwOkLRedNpGvymiknisHn) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [If Blue Could Be Happiness](https://open.spotify.com/album/6Urg55LAGNL5QKM0bz8g2v) | 3:53 |
+| 48 | [The Fear of Losing This](https://open.spotify.com/track/1h44AOekmUQtwtSpMZ9S2t) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [If Blue Could Be Happiness](https://open.spotify.com/album/0EB4zV2Vfi0FeM6jZNOO87) | 3:53 |
 | 49 | [Hope There's Someone \- Live](https://open.spotify.com/track/0B4hF7YOkUIud1AJUR3kPO) | [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [Turning](https://open.spotify.com/album/6mpAk967R6Oo9dyxi149Eb) | 4:42 |
 | 50 | [Girls, Girls, Girls](https://open.spotify.com/track/3ZF4gOd2g6x4yY8UYr3n6V) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [White Tiger](https://open.spotify.com/album/1cLsI0tJ76BKZZePhwVRxi) | 2:50 |
 | 51 | [Love Part Three](https://open.spotify.com/track/5OoccFPlv12WWzdzJfcrfx) | [Dani Larkin](https://open.spotify.com/artist/6s74lp18Qqs5s46mJKtxWi) | [Love Part Three](https://open.spotify.com/album/5Quw6izA6Ub8cmeFIYLxnt) | 4:27 |
 | 52 | [Holler](https://open.spotify.com/track/1aYqVeAM5XBlj67RHscBMo) | [Amy Ray](https://open.spotify.com/artist/6FTNWiXksh4ADVB5QdJqCF) | [Holler](https://open.spotify.com/album/6sChAWxd6hgcp0N24NcyEJ) | 3:40 |
-| 53 | [Don't Die in Me](https://open.spotify.com/track/0XQbRdBTT3fQfBr9we2b5N) | [Mirah](https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj) | [C'mon Miracle](https://open.spotify.com/album/78f7dEVdMqJq0KTNiwqS8k) | 3:48 |
+| 53 | [Don't Die in Me](https://open.spotify.com/track/57YeVOuSrJE4ripwSJRXXa) | [Mirah](https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj) | [C'mon Miracle](https://open.spotify.com/album/1XbwRI38fsb8VcZrQvWItf) | 3:48 |
 | 54 | [Pipe Dreams](https://open.spotify.com/track/294T1COkA1muObOvFKe8Kx) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Superstar](https://open.spotify.com/album/0t3bYFMzeZg2iO5yVCUpIG) | 3:25 |
 | 55 | [Thumbs](https://open.spotify.com/track/0KdYYVq1c2kvy69RjczLeX) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Video](https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1) | 4:25 |
 | 56 | [More Than Love](https://open.spotify.com/track/4A1vNFzguRKmB5rgV6KAke) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0) | 4:01 |
@@ -78,17 +78,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 | 68 | [When We Were Writers](https://open.spotify.com/track/4Y20M30nNIN1BAdkYmbWhL) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [Country Radio](https://open.spotify.com/album/6K3zbhfBvh3atypKoGzWNT) | 3:54 |
 | 69 | [Both Hands](https://open.spotify.com/track/1pQhpD3hn0IBcY2sDdjIdg) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Ani DiFranco](https://open.spotify.com/album/0831E4Cmgg52SYn6TEuw3K) | 3:38 |
 | 70 | [What Mattered Most \- Alternative Version](https://open.spotify.com/track/11Q7CHxH1d4B4E0Qei5JS0) | [Ty Herndon](https://open.spotify.com/artist/1Fj0R2t4HaJa3oUe8azB8R) | [Got It Covered](https://open.spotify.com/album/1p6BAFD43hYjgZ5RC8toi7) | 3:53 |
-| 71 | [Other Boys](https://open.spotify.com/track/0UiAguUUtTHDq4ppFEpBfG) | [Paisley Fields](https://open.spotify.com/artist/6tzDsjuTpo8J7qsGfGZvPx) | [Other Boys](https://open.spotify.com/album/3jbFVt4VrqklkWj8uVpLAN) | 3:14 |
+| 71 | [Other Boys](https://open.spotify.com/track/6s28m7d580Paz08mNEQbKo) | [Paisley Fields](https://open.spotify.com/artist/6tzDsjuTpo8J7qsGfGZvPx) | [Electric Park Ballroom](https://open.spotify.com/album/4R6UMOPlR169LPEm0gIhLU) | 3:14 |
 | 72 | [Hurt People \(feat\. Cam\)](https://open.spotify.com/track/0OZzCxO9IY126tDm2aBRHe) | [Brandon Stansell](https://open.spotify.com/artist/7oTLMAni4yK84Nwsta0fYz), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Hurt People \(feat\. Cam\)](https://open.spotify.com/album/7wRWbV6A7J1y7nIY63ImzP) | 3:29 |
 | 73 | [Same Old Lines](https://open.spotify.com/track/1iIAth3EApux3r5p61F51e) | [Rod Thomas](https://open.spotify.com/artist/4SpGhDIoQnFKWCmNVcF4pA) | [Until Something Fits](https://open.spotify.com/album/1YZFdfXmzxce7btBAchwkT) | 3:04 |
 | 74 | [Gentry](https://open.spotify.com/track/1xOcMLmKMhtGIemNEYf9Qf) | [Chris Garneau](https://open.spotify.com/artist/6N6oxcjNigJQq0RWeC49Rg) | [Yours](https://open.spotify.com/album/67hF3IC3XzAaMIgTENY3kN) | 2:57 |
 | 75 | [14 Year Old Me](https://open.spotify.com/track/2evjAEtY3HsI3DLKzbkI9y) | [K Anderson](https://open.spotify.com/artist/2hemxJSBMzRDDHNL6eBVXj) | [14 Year Old Me](https://open.spotify.com/album/30OWSNKICd1uTJBqAuRylQ) | 3:19 |
-| 76 | [Where the Lavender Grows](https://open.spotify.com/track/30VxfPVRLFhtJC7bKqsJgP) | [Mya Byrne](https://open.spotify.com/artist/0dcndkmyjWKrGJfOb0APAi) | [Where the Lavender Grows](https://open.spotify.com/album/5aCbMFO34m2dfADU0vsESG) | 3:14 |
+| 76 | [Where the Lavender Grows](https://open.spotify.com/track/7KtbrK74NNA4ySRZ49DC7R) | [Mya Byrne](https://open.spotify.com/artist/0dcndkmyjWKrGJfOb0APAi) | [Where the Lavender Grows](https://open.spotify.com/album/2rMfNb9EGJYRe2SDW7kfoY) | 3:14 |
 | 77 | [GMF](https://open.spotify.com/track/4XluehCQCnhhYD4cAd9Wfu) | [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [Pale Green Ghosts](https://open.spotify.com/album/7JzIz5uW3p6IUPOtAzOIyw) | 5:13 |
 | 78 | [Take Something Beautiful](https://open.spotify.com/track/4UgxabijzuXvv2dATYQJwH) | [Jen Cloher](https://open.spotify.com/artist/5L8TWHTc67vWhQhL15r4i5) | [Take Something Beautiful: The Songs of Jesse Younan](https://open.spotify.com/album/4gB8Miv66c5YwIa8nV70JW) | 4:30 |
 | 79 | [All Apologies](https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 2:37 |
 | 80 | [Departures](https://open.spotify.com/track/3pkyGQVfdP0xI1evK7Efq6) | [Grace Petrie](https://open.spotify.com/artist/4bFdVUzXSr2unwjEoOe5dY) | [Queer As Folk](https://open.spotify.com/album/3m2LYhF9CGykcn6akFTPJH) | 5:39 |
-| 81 | [The Rose Gardener](https://open.spotify.com/track/62CUlkvPtMgQkKrCH7oxLH) | [Bellows](https://open.spotify.com/artist/6UkJGwmg0AXAbGBNtzs7My) | [The Rose Gardener](https://open.spotify.com/album/28hPhjhF5nBTjRVgAIq5xb) | 3:44 |
+| 81 | [The Rose Gardener](https://open.spotify.com/track/2AOREe0skCzK3eN7uBBr3q) | [Bellows](https://open.spotify.com/artist/6UkJGwmg0AXAbGBNtzs7My) | [The Rose Gardener](https://open.spotify.com/album/7Ee56Uw8pfwPWSej8GGGpL) | 3:44 |
 | 82 | [letters to the hospital](https://open.spotify.com/track/22Pipp3pEZF2mRv5UHerSd) | [Mae Krell](https://open.spotify.com/artist/5OJHIYwDJ1TfeaFLYMSqqe) | [anabasis](https://open.spotify.com/album/4jK4azaPNIe9YHSsFxVU0C) | 3:23 |
 | 83 | [Proud Crowd, Pride Cried](https://open.spotify.com/track/01zVQMb2ywEfghDbi4oIKa) | [Ferron](https://open.spotify.com/artist/4Uwxc9WlgyTxlP4iG8rdjb) | [Shadows On A Dime](https://open.spotify.com/album/6pWEVRecWVxW9GuOBQ4P5P) | 6:03 |
 | 84 | [Marjorie](https://open.spotify.com/track/5px0q4BOJoL26xBxeZCqoz) | [Namoli Brennet](https://open.spotify.com/artist/6HhuWH5wX8XGIOYCgsFsdJ) | [Ditch Lilies](https://open.spotify.com/album/2BwDEMJIAwvFw9JzsSnga4) | 2:55 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 | 95 | [Illuminate the Dark](https://open.spotify.com/track/2hgw4ZGGLwObz7a89jnyhZ) | [Tom Goss](https://open.spotify.com/artist/1zLAXcROEhMZL9IhVu5Vvh) | [Wait](https://open.spotify.com/album/5BqkJ6970fStH2JCAzKcnf) | 2:43 |
 | 96 | [All\-American Boy](https://open.spotify.com/track/7i2xzOJU1O7hrP8kqqBchZ) | [Steve Grand](https://open.spotify.com/artist/0oqk73d6vKVx8Ekz4onThW) | [All American Boy](https://open.spotify.com/album/40nTEfg3tTj1bptrG7IQU0) | 4:57 |
 
-Snapshot ID: `MCw1ODMxOTc5NmU3N2FmODYzZGMxODRjZDc5NWQ1Zjg2MWUzYzA4ODU2`
+Snapshot ID: `MCw4MzY0ZDIzNGFkZGY3MTc5ZTQ1MjI3NzVhZWY5MDE1YzI3MDFiNTA3`

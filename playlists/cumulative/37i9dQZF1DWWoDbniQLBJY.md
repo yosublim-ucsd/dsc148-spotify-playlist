@@ -4,7 +4,7 @@
 
 > Pop Acústico para tu día.
 
-170 songs - 10 hr 21 min
+171 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Chiste](https://open.spotify.com/track/78vnwvT5WLm31MSXULO48p) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Chiste](https://open.spotify.com/album/0LwOkOMLlcs3NPs0fcrVKA) | 2:51 | 2023-02-10 |  |
 | [Como Antes \- Remix Acustico](https://open.spotify.com/track/76MyowWwAS93Lj4R9apUeh) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG), [Izma](https://open.spotify.com/artist/0Hxv2atG2UFJAA8DC2nAVJ) | [Como Antes \(Remix Acustico\)](https://open.spotify.com/album/4kmeebwvosASgsi4bDHIIi) | 3:27 | 2021-12-16 | 2023-04-29 |
 | [Contigo](https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Contigo](https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln) | 2:28 | 2022-05-19 |  |
+| [Corazón](https://open.spotify.com/track/53ZLUs4cvMmPvodm3mVTPi) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:28 | 2023-04-28 |  |
 | [Corazón partío](https://open.spotify.com/track/2EdAzvb3Qc6E8h8glHD9jF) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [MTV Unplugged](https://open.spotify.com/album/1GP8zhAu7gbAQTzfl6xOKo) | 5:00 | 2021-12-16 | 2023-04-29 |
 | [creo que todo estará bien](https://open.spotify.com/track/1s85LXbICacrdeMlFAG8st) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [creo que todo estará bien](https://open.spotify.com/album/6vSBWbTdWml9R4Tr6mSoBR) | 3:40 | 2021-12-16 | 2023-04-20 |
 | [cuando llega la noche](https://open.spotify.com/track/2TghtDAOjl0jMPzi69MRLU) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4), [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [cuando llega la noche](https://open.spotify.com/album/7sDuY9YxEf4X0eIUXnAw6K) | 3:10 | 2021-12-16 | 2022-07-29 |
@@ -167,7 +168,7 @@
 | [Un Vuelo A La \(feat\. Jessie Reyez\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3Kx1Go2GXVwQk1fozPJ1BQ) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Spotify Singles](https://open.spotify.com/album/3U8ndUx2DNmhKPUjqtJuek) | 3:24 | 2021-12-16 |  |
 | [una luz](https://open.spotify.com/track/0zd0kuNdqeLgxuFm5SLYxH) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Verano, por siempre](https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc) | 2:56 | 2022-06-07 |  |
 | [una luz](https://open.spotify.com/track/6ClMwDfFUcwOPqiB6iNjCv) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [una luz](https://open.spotify.com/album/1EzqXEMydfsoBH9pJ0WnT2) | 2:56 | 2021-12-16 | 2022-07-29 |
-| [Underdog \- Acoustic Version](https://open.spotify.com/track/4IbaDX0qm36Oiu0kdoq8Wb) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Underdog \(Acoustic Version\)](https://open.spotify.com/album/29Tp5smvItl2ghk03OAsZP) | 3:30 | 2022-06-07 |  |
+| [Underdog \- Acoustic Version](https://open.spotify.com/track/4IbaDX0qm36Oiu0kdoq8Wb) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Underdog \(Acoustic Version\)](https://open.spotify.com/album/29Tp5smvItl2ghk03OAsZP) | 3:30 | 2022-06-07 | 2023-04-30 |
 | [Universo Amor](https://open.spotify.com/track/5HPJg7UI2h3aJjHWf98V1N) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Universo Amor](https://open.spotify.com/album/7qU1O8uxdzWUPVQ9AnzN0Z) | 3:36 | 2021-12-16 |  |
 | [Vasos Vacíos](https://open.spotify.com/track/6hI0uColSS0GsO9oNyYZ3k) | [Natalia Marroquin](https://open.spotify.com/artist/4DMmNPjcbctsOIUt54t5Rk) | [Vasos Vacíos](https://open.spotify.com/album/3r4WBaQUHgHFyCdjmIkqkN) | 7:02 | 2021-12-16 | 2022-07-29 |
 | [Velero](https://open.spotify.com/track/4mQ4EM1rxdOo7Cc9g5dXK2) | [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Velero](https://open.spotify.com/album/7tBeAWDG3WD9AtaxpAjpU4) | 2:16 | 2023-04-03 |  |

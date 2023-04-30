@@ -4,7 +4,7 @@
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
 
-105 songs - 6 hr 42 min
+106 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [The Asp and the Albatross](https://open.spotify.com/track/1ybxT91p0y92dHZZUW5CZm) | [Freakwater](https://open.spotify.com/artist/6JjE9yVvCNV5EbUpvS7JcQ) | [Scheherarade](https://open.spotify.com/album/5K2EDfhJXYzol3W17Jfasx) | 3:10 | 2020-10-13 |  |
 | [The Ballad of Bitter Honey](https://open.spotify.com/track/20yy7wGUByZptk1ww20KIC) | [Eef Barzelay](https://open.spotify.com/artist/1uRMuS0KuwZwFJSYgV0PaW) | [Bitter Honey \(redux\)](https://open.spotify.com/album/01Uenvl1WeGH8d7oPf0s7z) | 3:34 | 2020-10-13 |  |
 | [The Battle](https://open.spotify.com/track/5spa4mGwzzcm3MiidE07ay) | [Caitlin Cary](https://open.spotify.com/artist/2lMw9KHEs2ymoFBRuSrMHk), [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [No Depression: What It Sounds Like Vol\. 2](https://open.spotify.com/album/5sUaB2pDqV7CVF9rMzXOZn) | 2:59 | 2020-10-13 | 2022-11-13 |
-| [The Battle \(feat\. Ryan Adams\)](https://open.spotify.com/track/0mhsQSfSDq1x45qcC0jc80) | [Caitlin Cary](https://open.spotify.com/artist/2lMw9KHEs2ymoFBRuSrMHk), [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Battle](https://open.spotify.com/album/11IsKz96KxcLAoCycv6LrT) | 3:00 | 2020-10-13 |  |
+| [The Battle \(feat\. Ryan Adams\)](https://open.spotify.com/track/0mhsQSfSDq1x45qcC0jc80) | [Caitlin Cary](https://open.spotify.com/artist/2lMw9KHEs2ymoFBRuSrMHk), [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Battle](https://open.spotify.com/album/11IsKz96KxcLAoCycv6LrT) | 3:00 | 2020-10-13 | 2023-04-30 |
+| [The Battle \(feat\. Ryan Adams\)](https://open.spotify.com/track/6hFUNjqM0SGL5a1WKmgW2y) | [Caitlin Cary](https://open.spotify.com/artist/2lMw9KHEs2ymoFBRuSrMHk), [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Battle](https://open.spotify.com/album/333avvdsp2cuhEWyhlrLVS) | 3:00 | 2020-10-13 |  |
 | [The Battle \(feat: Ryan Adams\)](https://open.spotify.com/track/2NuSgERr71Qf3SPDJchUIY) | [Caitlin Cary](https://open.spotify.com/artist/2lMw9KHEs2ymoFBRuSrMHk) | [Battle EP](https://open.spotify.com/album/4jRa95kGlrwPCxZAirwz8u) | 3:00 | 2020-10-13 | 2022-07-29 |
 | [The Dreaming Dead](https://open.spotify.com/track/7vnAgnnk9FW4gBy3W2gj3q) | [Jesse Sykes & The Sweet Hereafter](https://open.spotify.com/artist/02ojXsd1103Qc2uU5uhJHZ) | [Oh, My Girl](https://open.spotify.com/album/08024Yl9vqP9YR1Jf4OOrA) | 6:03 | 2020-10-13 |  |
 | [The El](https://open.spotify.com/track/6C0SXBkORzmP9elNb2gMcu) | [Rhett Miller](https://open.spotify.com/artist/0wNZd1CMOsFZ0TiBhlqjD5) | [The Instigator](https://open.spotify.com/album/0Pup5rX8QvSNgSBLX7Vu69) | 3:09 | 2020-10-13 |  |

@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 334611,
+  "num_followers": 334722,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDQ3YWQ3NGU0MWY5MDUxMWMyODE4MGFkMjQ2OWM2MDc4YTQyMWIy",
+  "snapshot_id": "MCxiYjU5NjU1YjQ5ODU4NWI5ZmFlMGExZWVmOGIwMzY5ZjM0YTYwODY1",
   "tracks": [
     {
       "added_at": "2020-11-13 05:02:00",
@@ -741,38 +741,6 @@
       "url": "https://open.spotify.com/track/1HwXgiTt6K0MtxxBriAQEl"
     },
     {
-      "added_at": "2021-02-19 05:01:00",
-      "album": {
-        "name": "Basilisk",
-        "url": "https://open.spotify.com/album/6qeN6Ub19GsiAr9HnQtt6H"
-      },
-      "artists": [
-        {
-          "name": "Orgone",
-          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
-        }
-      ],
-      "duration_ms": 269146,
-      "name": "Basilisk",
-      "url": "https://open.spotify.com/track/5YqSp1vrRmTotscUvqIn3u"
-    },
-    {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Fried Soul",
-        "url": "https://open.spotify.com/album/77jIlQfM7IPgXdxEXaDm9O"
-      },
-      "artists": [
-        {
-          "name": "Delvon Lamarr Organ Trio",
-          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
-        }
-      ],
-      "duration_ms": 216699,
-      "name": "Fried Soul",
-      "url": "https://open.spotify.com/track/5ur3UjZLVElyCs5TokjfCd"
-    },
-    {
       "added_at": "2021-05-14 04:01:00",
       "album": {
         "name": "Got Ya Movin'",
@@ -799,6 +767,38 @@
       "duration_ms": 206393,
       "name": "Got Ya Movin'",
       "url": "https://open.spotify.com/track/0sGUOyUDs3xySpBS0mWUCy"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Fried Soul",
+        "url": "https://open.spotify.com/album/77jIlQfM7IPgXdxEXaDm9O"
+      },
+      "artists": [
+        {
+          "name": "Delvon Lamarr Organ Trio",
+          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
+        }
+      ],
+      "duration_ms": 216699,
+      "name": "Fried Soul",
+      "url": "https://open.spotify.com/track/5ur3UjZLVElyCs5TokjfCd"
+    },
+    {
+      "added_at": "2021-02-19 05:01:00",
+      "album": {
+        "name": "Basilisk",
+        "url": "https://open.spotify.com/album/6qeN6Ub19GsiAr9HnQtt6H"
+      },
+      "artists": [
+        {
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+        }
+      ],
+      "duration_ms": 269146,
+      "name": "Basilisk",
+      "url": "https://open.spotify.com/track/5YqSp1vrRmTotscUvqIn3u"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -889,22 +889,6 @@
       "url": "https://open.spotify.com/track/51DMIydCssADRLfnmgt8ZI"
     },
     {
-      "added_at": "2021-04-16 04:00:00",
-      "album": {
-        "name": "Moonshadows",
-        "url": "https://open.spotify.com/album/3FJHBeJz2ImwMQEBXSGlGh"
-      },
-      "artists": [
-        {
-          "name": "Orgone",
-          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
-        }
-      ],
-      "duration_ms": 186746,
-      "name": "Get With It",
-      "url": "https://open.spotify.com/track/5poYqonWICaAZaQCZIPMcu"
-    },
-    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "Shake It",
@@ -957,20 +941,20 @@
       "url": "https://open.spotify.com/track/1U2WuiUGSpZfzoL0e3n8Kj"
     },
     {
-      "added_at": "2022-07-08 04:02:00",
+      "added_at": "2021-04-16 04:00:00",
       "album": {
-        "name": "Prospect Park West",
-        "url": "https://open.spotify.com/album/0zWAfTc8xuvjciEGSfp6EJ"
+        "name": "Moonshadows",
+        "url": "https://open.spotify.com/album/3FJHBeJz2ImwMQEBXSGlGh"
       },
       "artists": [
         {
-          "name": "Jerry McHoy",
-          "url": "https://open.spotify.com/artist/3RyPaTgdLCj9NnEvjoI8Jf"
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
         }
       ],
-      "duration_ms": 176184,
-      "name": "Prospect Park West",
-      "url": "https://open.spotify.com/track/2kOjBttPwSgiyF7bCVposZ"
+      "duration_ms": 186746,
+      "name": "Get With It",
+      "url": "https://open.spotify.com/track/5poYqonWICaAZaQCZIPMcu"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -989,24 +973,20 @@
       "url": "https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9"
     },
     {
-      "added_at": "2021-12-24 05:01:00",
+      "added_at": "2022-07-08 04:02:00",
       "album": {
-        "name": "1am Funk Dance Party",
-        "url": "https://open.spotify.com/album/5xX3YIFjwddRpvxrKNrpbt"
+        "name": "Prospect Park West",
+        "url": "https://open.spotify.com/album/0zWAfTc8xuvjciEGSfp6EJ"
       },
       "artists": [
         {
-          "name": "Scary Pockets",
-          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
-        },
-        {
-          "name": "STARBLASTER",
-          "url": "https://open.spotify.com/artist/4bZJS8EXwIYuZAqV2p04PW"
+          "name": "Jerry McHoy",
+          "url": "https://open.spotify.com/artist/3RyPaTgdLCj9NnEvjoI8Jf"
         }
       ],
-      "duration_ms": 1344000,
-      "name": "1am Funk Dance Party",
-      "url": "https://open.spotify.com/track/7w5eQjBNpFZTqCvXwYa7cE"
+      "duration_ms": 176184,
+      "name": "Prospect Park West",
+      "url": "https://open.spotify.com/track/2kOjBttPwSgiyF7bCVposZ"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1041,6 +1021,26 @@
       "url": "https://open.spotify.com/track/7ofSPPgO1q41e6qTdL29U8"
     },
     {
+      "added_at": "2021-12-24 05:01:00",
+      "album": {
+        "name": "1am Funk Dance Party",
+        "url": "https://open.spotify.com/album/5xX3YIFjwddRpvxrKNrpbt"
+      },
+      "artists": [
+        {
+          "name": "Scary Pockets",
+          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
+        },
+        {
+          "name": "STARBLASTER",
+          "url": "https://open.spotify.com/artist/4bZJS8EXwIYuZAqV2p04PW"
+        }
+      ],
+      "duration_ms": 1344000,
+      "name": "1am Funk Dance Party",
+      "url": "https://open.spotify.com/track/7w5eQjBNpFZTqCvXwYa7cE"
+    },
+    {
       "added_at": "2022-01-07 05:02:00",
       "album": {
         "name": "Cold As Weiss",
@@ -1073,22 +1073,6 @@
       "url": "https://open.spotify.com/track/3Y4OuMnrh3An9tpxGWtd0z"
     },
     {
-      "added_at": "2021-04-02 05:01:00",
-      "album": {
-        "name": "Chemical Plant Zone",
-        "url": "https://open.spotify.com/album/2t1cN1Q9rTWzDju37p0vEJ"
-      },
-      "artists": [
-        {
-          "name": "Black Market Brass",
-          "url": "https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW"
-        }
-      ],
-      "duration_ms": 261426,
-      "name": "Chemical Plant Zone",
-      "url": "https://open.spotify.com/track/4xhyuLEk3hkOzU0JV1kOPr"
-    },
-    {
       "added_at": "2021-10-22 04:02:00",
       "album": {
         "name": "Assassin (The Paisley Park Session)",
@@ -1103,6 +1087,22 @@
       "duration_ms": 202457,
       "name": "Assassin - The Paisley Park Session",
       "url": "https://open.spotify.com/track/00iZlOpfLr21eTSl0Ba3hn"
+    },
+    {
+      "added_at": "2021-04-02 05:01:00",
+      "album": {
+        "name": "Chemical Plant Zone",
+        "url": "https://open.spotify.com/album/2t1cN1Q9rTWzDju37p0vEJ"
+      },
+      "artists": [
+        {
+          "name": "Black Market Brass",
+          "url": "https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW"
+        }
+      ],
+      "duration_ms": 261426,
+      "name": "Chemical Plant Zone",
+      "url": "https://open.spotify.com/track/4xhyuLEk3hkOzU0JV1kOPr"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -1217,20 +1217,20 @@
       "url": "https://open.spotify.com/track/7zLbAUkKTTQmNj0kPs55LH"
     },
     {
-      "added_at": "2021-01-15 21:11:37",
+      "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "The Duke",
-        "url": "https://open.spotify.com/album/2FnbvOsZ4x8mnx4eKOKnA9"
+        "name": "We Are All Shining Stars",
+        "url": "https://open.spotify.com/album/3kTEb0hcYGBRtOFIadpjXK"
       },
       "artists": [
         {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+          "name": "Funky Destination",
+          "url": "https://open.spotify.com/artist/2FK2jZ7cuokxYOC5nSM7bK"
         }
       ],
-      "duration_ms": 166760,
-      "name": "The Duke",
-      "url": "https://open.spotify.com/track/11V8HzOfn85nFZmDntBvnP"
+      "duration_ms": 198966,
+      "name": "Everybody's Inn",
+      "url": "https://open.spotify.com/track/35t1ubxf6jaJ96Ai18zhpY"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -1251,22 +1251,6 @@
       "duration_ms": 158620,
       "name": "Psychic Powers",
       "url": "https://open.spotify.com/track/4yTdRH0seHLM4QaHC3jKoS"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "We Are All Shining Stars",
-        "url": "https://open.spotify.com/album/3kTEb0hcYGBRtOFIadpjXK"
-      },
-      "artists": [
-        {
-          "name": "Funky Destination",
-          "url": "https://open.spotify.com/artist/2FK2jZ7cuokxYOC5nSM7bK"
-        }
-      ],
-      "duration_ms": 198966,
-      "name": "Everybody's Inn",
-      "url": "https://open.spotify.com/track/35t1ubxf6jaJ96Ai18zhpY"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1357,6 +1341,22 @@
       "url": "https://open.spotify.com/track/42y27OIathcePEZFs5bYSk"
     },
     {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Summer Madness",
+        "url": "https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 238706,
+      "name": "West Coast Jam",
+      "url": "https://open.spotify.com/track/5kg9Jl18Z3XjTYznMtFUED"
+    },
+    {
       "added_at": "2021-11-19 05:02:00",
       "album": {
         "name": "Cornish Hen",
@@ -1377,20 +1377,20 @@
       "url": "https://open.spotify.com/track/7nzJpykzx8lLq6aKKjcMP5"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
+      "added_at": "2021-07-16 04:01:00",
       "album": {
-        "name": "Summer Madness",
-        "url": "https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt"
+        "name": "Soul Shower",
+        "url": "https://open.spotify.com/album/0MDEgla82omGDz6scX5gEA"
       },
       "artists": [
         {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+          "name": "Mister T.",
+          "url": "https://open.spotify.com/artist/45GgOqa6xJwhZ3IXiMMkh7"
         }
       ],
-      "duration_ms": 238706,
-      "name": "West Coast Jam",
-      "url": "https://open.spotify.com/track/5kg9Jl18Z3XjTYznMtFUED"
+      "duration_ms": 213085,
+      "name": "Soul Shower",
+      "url": "https://open.spotify.com/track/7yFIDeG04tRKHMDNrQXe5J"
     }
   ],
   "unique_name": "Instrumental Funk",

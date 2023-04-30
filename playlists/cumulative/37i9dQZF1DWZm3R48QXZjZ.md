@@ -4,7 +4,7 @@
 
 > Rival Consoles' Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambiente</a>.
 
-35 songs - 2 hr 55 min
+36 songs - 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Hubble](https://open.spotify.com/track/0SxrRiPi9jqOhISdjBelfU) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [LAGEOS](https://open.spotify.com/album/45jLFyHIZIXWB8cKlXUTn9) | 4:18 | 2023-03-08 |  |
 | [I'm Rewinding It…](https://open.spotify.com/track/4h0pX043FRTaubTu9L6RKW) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Fi](https://open.spotify.com/album/6Je7ukOVu596v6B8UyGfF7) | 4:20 | 2023-03-08 |  |
 | [Illusion Of Time](https://open.spotify.com/track/02svSerh4F5X5Fn3rdnd93) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/60zljcyghRa4eCzf8nxeJU) | 4:22 | 2023-03-08 |  |
-| [Lagoon](https://open.spotify.com/track/7h3fADIo9z6MwCxLT58CdE) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Lagoon](https://open.spotify.com/album/6kEm4Ub7negA6DHkAz7CBv) | 3:10 | 2023-03-08 |  |
+| [Lagoon](https://open.spotify.com/track/7h3fADIo9z6MwCxLT58CdE) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Lagoon](https://open.spotify.com/album/6kEm4Ub7negA6DHkAz7CBv) | 3:10 | 2023-03-08 | 2023-04-30 |
+| [Lagoon](https://open.spotify.com/track/7oYOdF7lpYvwYNLk3BWNpD) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Lagoon](https://open.spotify.com/album/6WJxRoJgFPTxi9odNrGKKp) | 3:10 | 2023-03-08 |  |
 | [Lay Still](https://open.spotify.com/track/7LyEwubfOT9eVXbJH4R2ja) | [Paperbark](https://open.spotify.com/artist/3pgvcz2Ua5wsu4qnlunvqC) | [Barely Lit](https://open.spotify.com/album/6r40EshRMF0JXVuSHxHVyf) | 4:36 | 2023-03-08 |  |
 | [Manifold](https://open.spotify.com/track/7FQSfVFsTIeSUyab9lIumg) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Age Of](https://open.spotify.com/album/5mE5Zrd833tgobmFLbGmtJ) | 1:49 | 2023-03-08 |  |
 | [Music for Tundra Pt\. 1](https://open.spotify.com/track/1ysqPoEiWjLvJeIW47gwqw) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 5:13 | 2023-03-08 |  |

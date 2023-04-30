@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Marca MP & Gabito Ballesteros en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 521,365 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 521,900 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 49 | [Arrepentido](https://open.spotify.com/track/4LBfcCUqGpIm7qt0PEq6aS) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [Arrepentido](https://open.spotify.com/album/46mt1hhCKAI3VOVLpKPPHI) | 3:23 |
 | 50 | [Tu Labial](https://open.spotify.com/track/3vz0ZD15RxM2HNCGgrVrVc) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Tu Labial](https://open.spotify.com/album/6kXbu3L1IVJZhGqsogGTWx) | 3:47 |
 
-Snapshot ID: `MCwzNWY5YzViMjYyM2I2OTM5MTFjMjBhOWI1MDIxY2JlYWZhMDNlN2Iz`
+Snapshot ID: `MCw2YjVkNzMwMzY1OTVmN2ZlNzJhODk2MjgxNmI0YzRjZjFkNjVhYTcy`

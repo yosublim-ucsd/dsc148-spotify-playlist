@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: AKA AFK
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,641 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,660 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mó Brek](https://open.spotify.com/track/7IU1Is5Xb1Ix7SJt3SPV5N) | [AKA AFK](https://open.spotify.com/artist/1ZEPj2UWxPZEELctnTNRca), [Beat do Ávila](https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP) | [Mó Brek](https://open.spotify.com/album/08BjKnvyWUtb5UZehQFXa0) | 2:51 |
 | 2 | [Bonde da Rock](https://open.spotify.com/track/6sC0OMXUGXDtzcm0SkJYv5) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [Bonde da Rock](https://open.spotify.com/album/4lyBsKWg4M8zHI0Ormmpo7) | 2:17 |
 | 3 | [BRAZIL](https://open.spotify.com/track/0d16iGBlngyLHsldWzvahM) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [DJ Ery](https://open.spotify.com/artist/3fJhU7uVbc7ofhDXfBXJnS) | [BRAZIL](https://open.spotify.com/album/3XX0VacWrVLIa7Dx2x1SSd) | 2:04 |
-| 4 | [Cria da Norte](https://open.spotify.com/track/1uT3bipBc4YL7hOykga1Jg) | [Piratha](https://open.spotify.com/artist/0nkpf3kQ1QXRkaRuGDlVvx), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul), [Leo Falcon](https://open.spotify.com/artist/00a4YwjmqjZcWMXlz1C6I2) | [Cria da Norte](https://open.spotify.com/album/6MBcU8yvbk9URoszy8s8E2) | 2:16 |
+| 4 | [Cria da Norte](https://open.spotify.com/track/1uT3bipBc4YL7hOykga1Jg) | [Piratha](https://open.spotify.com/artist/0nkpf3kQ1QXRkaRuGDlVvx), [Leo Falcon](https://open.spotify.com/artist/00a4YwjmqjZcWMXlz1C6I2), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Cria da Norte](https://open.spotify.com/album/6MBcU8yvbk9URoszy8s8E2) | 2:16 |
 | 5 | [Terrorista](https://open.spotify.com/track/3btPxaizURmPq3bts3J57s) | [Fac](https://open.spotify.com/artist/2OQj8y2Ztj2ME4EN6b98Kt), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Og Parma](https://open.spotify.com/artist/66dCNLjr6gMmGCcJmNhIVv) | [Terrorista](https://open.spotify.com/album/1SFltkPUm7oUiLqwPPLGGk) | 2:58 |
 | 6 | [Bebeto & Romário](https://open.spotify.com/track/3BsDJHBfY8nh2zHOkTuKse) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [Ainda É o Rap dos Novos Bandidos](https://open.spotify.com/album/1lO0DvPgCpUjgRj4Nh7cFy) | 2:25 |
 | 7 | [Bonde da Oakley](https://open.spotify.com/track/5ed4MVmX152hyN9W5QY50D) | [Jovem MK](https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR) | [Da Viela Pro Mundo](https://open.spotify.com/album/5VqImQimN6ayrkJGGdbmQ5) | 2:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 74 | [Artilheiro](https://open.spotify.com/track/00F0BEVzn3O44RT9DFUsKo) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [BREEZE](https://open.spotify.com/artist/2McfEbmX82KjLibSzYi7ZD) | [Artilheiro](https://open.spotify.com/album/4KGIXDOJ3hiZO4DGyVC8pn) | 2:26 |
 | 75 | [Encomenda](https://open.spotify.com/track/3XadSINduX4zXzhLUURFXa) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz) | [Encomenda](https://open.spotify.com/album/3jpzt9bFKyVzNAilVFD8XY) | 2:37 |
 
-Snapshot ID: `MCxhMDU4MDFlYjVjZDRkYWE0ZjZlNmZkNWRhNWQ5MTRjZmIwOGM0MjVl`
+Snapshot ID: `MCwxZjk0YjFjMDFmMWUyODdjYzg2ZWM2NzYzODJkNzFjZGE3MDViNDc4`

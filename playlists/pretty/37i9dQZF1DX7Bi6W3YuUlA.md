@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,135 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,256 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 65 | [Life I Chose \(feat\. 2J Mako & GQ Dasteppa\)](https://open.spotify.com/track/4Nz5ui2QPkUXo1BfFI0PJg) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch), [2J Mako](https://open.spotify.com/artist/4PW8LhWM1NaETYEzlYTpqV), [GQ DASTEPPA](https://open.spotify.com/artist/6FJTRJCbi7oGB9n8CyLMNU) | [The Stonebrook Project](https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU) | 4:11 |
 | 66 | [Pray](https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Pray](https://open.spotify.com/album/6yhfureGMC38z0FDckHp2V) | 2:56 |
 | 67 | [Stuff Back](https://open.spotify.com/track/0WaH16I2aMeqSszLizdWBC) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7), [Heavenz](https://open.spotify.com/artist/5irL1slWEq9iei6AFKbBTo), [Church](https://open.spotify.com/artist/7u7GeFTkX2dqwUkwDhMOJW) | [Stuff Back](https://open.spotify.com/album/2fdftwjf1S6AsIFZ8UgkmC) | 3:13 |
-| 68 | [Waking Up](https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Waking Up](https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H) | 4:00 |
-| 69 | [Everyday](https://open.spotify.com/track/1fsIS1oqTTr7CJvAkelrXc) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Everyday](https://open.spotify.com/album/641i12iK07r1ALlCWq1xW3) | 3:04 |
+| 68 | [Everyday](https://open.spotify.com/track/1fsIS1oqTTr7CJvAkelrXc) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Everyday](https://open.spotify.com/album/641i12iK07r1ALlCWq1xW3) | 3:04 |
+| 69 | [Waking Up](https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Waking Up](https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H) | 4:00 |
 | 70 | [No Loss](https://open.spotify.com/track/5MFx3nX3rO7H49RomWdKl7) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [No Loss](https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN) | 2:55 |
 | 71 | [Swerve That](https://open.spotify.com/track/6IRXMRAckv2A7lB7rrFzrP) | [Noexcuse](https://open.spotify.com/artist/0IyOmgAmods7syYBxwsZJK), [DJ Mykael V](https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt), [Not Klyde](https://open.spotify.com/artist/052Mwr5vCyfzG81pUr19Kw) | [Swerve That](https://open.spotify.com/album/3DB8Imp4jE0LaXof9fzu11) | 2:36 |
 | 72 | [Club Eden](https://open.spotify.com/track/0Ql8JLIRWcwydT9zaGUSmZ) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [Club Eden](https://open.spotify.com/album/2MEwAldfLhuqijyIDgSuy6) | 2:25 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 94 | [Ashamed](https://open.spotify.com/track/7kvbLCrZv4aOz7oafDupzT) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Ashamed](https://open.spotify.com/album/0LqYqln7xmL7dcShJOCuxL) | 2:27 |
 | 95 | [Ascend](https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru), [KDNS](https://open.spotify.com/artist/1SzoqS86kItL3yvFG0eKN0) | [Ascend](https://open.spotify.com/album/2VwSTUlrkCFsCyKNbpqvnN) | 3:18 |
 | 96 | [Fight for It](https://open.spotify.com/track/58lm2xr6l8ql6EXiDtm4JS) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Fight for It](https://open.spotify.com/album/78EFbUt7aY0OUn4KLgW7aM) | 2:33 |
-| 97 | [His Side](https://open.spotify.com/track/0cRW46pGOJxKPEKZPvljIE) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [Donovan S Davis](https://open.spotify.com/artist/0TFdFr9txM1H9eKYfjLnrG) | [His Side](https://open.spotify.com/album/36zM9eHQoog3Q6heEKS8oM) | 2:48 |
-| 98 | [ON THA SEAT](https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy) | [adriansings](https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW) | [ON THA SEAT](https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk) | 3:27 |
-| 99 | [Don’t Forget Who You Are](https://open.spotify.com/track/2bUOUKpJmF0KQqWpu8HIlX) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [A Beautiful Revolution \(Pt 1\)](https://open.spotify.com/album/1ox4vPb5vQvWwATPX8RTZh) | 2:53 |
+| 97 | [ON THA SEAT](https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy) | [adriansings](https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW) | [ON THA SEAT](https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk) | 3:27 |
+| 98 | [Don’t Forget Who You Are](https://open.spotify.com/track/2bUOUKpJmF0KQqWpu8HIlX) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [A Beautiful Revolution \(Pt 1\)](https://open.spotify.com/album/1ox4vPb5vQvWwATPX8RTZh) | 2:53 |
+| 99 | [His Side](https://open.spotify.com/track/0cRW46pGOJxKPEKZPvljIE) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [Donovan S Davis](https://open.spotify.com/artist/0TFdFr9txM1H9eKYfjLnrG) | [His Side](https://open.spotify.com/album/36zM9eHQoog3Q6heEKS8oM) | 2:48 |
 | 100 | [believe](https://open.spotify.com/track/7cwcU3UHeJs4RejjIhDoKt) | [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [believe](https://open.spotify.com/album/0y47M4ia6gXB0QCJ7tz012) | 2:35 |
 
-Snapshot ID: `MCw3MzczYTFlOWJjNTMzOGQ3OTk2MmE2N2M2NDMwMjg0N2ZmNmU0MjQ3`
+Snapshot ID: `MCw3ZTkwYWM0M2E4MWE3ZDFjZjJmNzE2NzRhMzU5Yjc3NzcwZmZlNTMx`

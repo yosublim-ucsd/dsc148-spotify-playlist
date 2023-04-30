@@ -1,12 +1,12 @@
 {
   "description": "Deep concentration with these outstanding Japanese ambient tracks.",
-  "num_followers": 47914,
+  "num_followers": 47998,
   "original_name": "Ambient Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTViODQyMTgzY2M4YWFiNzY3NTUyODZmZmExNGYzNDAzZTg5YWJk",
+  "snapshot_id": "MCw5YTg3OGJkNmM0NTc4MzdhODFlZjYwYjZlZmYzYjc1M2RiODVjZjcy",
   "tracks": [
     {
       "added_at": "2023-04-27 15:00:00",
@@ -243,18 +243,18 @@
     {
       "added_at": "2023-04-27 15:00:00",
       "album": {
-        "name": "Kazahana",
-        "url": "https://open.spotify.com/album/1U2IQ5PDO4lBlB7OS8fWyH"
+        "name": "In The Dark Woods",
+        "url": "https://open.spotify.com/album/3IZstlhdTOOtJ5HPQDjEFw"
       },
       "artists": [
         {
-          "name": "Haruhisa Tanaka",
-          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
         }
       ],
-      "duration_ms": 178255,
-      "name": "Cinnamon - Rework",
-      "url": "https://open.spotify.com/track/1hdqoVkC8nr2IZjsLUX1ic"
+      "duration_ms": 316000,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/0dVOO1yFYNeWjsrIdWi9u7"
     },
     {
       "added_at": "2023-04-27 15:00:00",
@@ -287,18 +287,18 @@
     {
       "added_at": "2023-04-27 15:00:00",
       "album": {
-        "name": "In The Dark Woods",
-        "url": "https://open.spotify.com/album/3IZstlhdTOOtJ5HPQDjEFw"
+        "name": "Kazahana",
+        "url": "https://open.spotify.com/album/1U2IQ5PDO4lBlB7OS8fWyH"
       },
       "artists": [
         {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+          "name": "Haruhisa Tanaka",
+          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
         }
       ],
-      "duration_ms": 316000,
-      "name": "DNA",
-      "url": "https://open.spotify.com/track/0dVOO1yFYNeWjsrIdWi9u7"
+      "duration_ms": 178255,
+      "name": "Cinnamon - Rework",
+      "url": "https://open.spotify.com/track/1hdqoVkC8nr2IZjsLUX1ic"
     },
     {
       "added_at": "2023-04-27 15:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-04-27 15:00:00",
       "album": {
-        "name": "The Body Is a Message of the Universe - \u304b\u3089\u3060\u306f\u5b87\u5b99\u306e\u30e1\u30c3\u30bb\u30fc\u30b8",
-        "url": "https://open.spotify.com/album/2JdjNySHankOkjITDAo5YT"
-      },
-      "artists": [
-        {
-          "name": "Shiho Yabuki",
-          "url": "https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX"
-        }
-      ],
-      "duration_ms": 227973,
-      "name": "Energy Flow (Ki No Nagare)",
-      "url": "https://open.spotify.com/track/414AJsmhPuEA7W3wC9Go77"
-    },
-    {
-      "added_at": "2023-04-27 15:00:00",
-      "album": {
         "name": "memory lane",
         "url": "https://open.spotify.com/album/5I2F71Myowlmr7AWMDDpzQ"
       },
@@ -651,6 +635,22 @@
     {
       "added_at": "2023-04-27 15:00:00",
       "album": {
+        "name": "Komachi",
+        "url": "https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A"
+      },
+      "artists": [
+        {
+          "name": "Meitei",
+          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+        }
+      ],
+      "duration_ms": 255178,
+      "name": "Utano",
+      "url": "https://open.spotify.com/track/0h7IkhjykGhsXardJtErat"
+    },
+    {
+      "added_at": "2023-04-27 15:00:00",
+      "album": {
         "name": "in my Time",
         "url": "https://open.spotify.com/album/6UWrxLbfbJRIgyrbgghiMi"
       },
@@ -679,22 +679,6 @@
       "duration_ms": 373973,
       "name": "FEET",
       "url": "https://open.spotify.com/track/2XBXn7yluQZ6bFReesUjrt"
-    },
-    {
-      "added_at": "2023-04-27 15:00:00",
-      "album": {
-        "name": "Komachi",
-        "url": "https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A"
-      },
-      "artists": [
-        {
-          "name": "Meitei",
-          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
-        }
-      ],
-      "duration_ms": 255178,
-      "name": "Utano",
-      "url": "https://open.spotify.com/track/0h7IkhjykGhsXardJtErat"
     },
     {
       "added_at": "2023-04-27 15:00:00",
@@ -827,6 +811,22 @@
       "duration_ms": 103360,
       "name": "One Day",
       "url": "https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s"
+    },
+    {
+      "added_at": "2023-04-27 15:00:00",
+      "album": {
+        "name": "\u4e07\u5f15\u304d\u5bb6\u65cf\u300c\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300d",
+        "url": "https://open.spotify.com/album/5aWso14zYECQPkvEU5ENkQ"
+      },
+      "artists": [
+        {
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+        }
+      ],
+      "duration_ms": 97866,
+      "name": "Going To The Sea",
+      "url": "https://open.spotify.com/track/2e9PA5stDJoLkcLWN3KVCI"
     },
     {
       "added_at": "2023-04-27 15:00:00",

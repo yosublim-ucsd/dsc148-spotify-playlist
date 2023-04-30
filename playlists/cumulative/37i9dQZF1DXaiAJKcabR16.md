@@ -4,7 +4,7 @@
 
 > Slide and steel\. Set your soundtrack to some moody, gritty blues folk.
 
-97 songs - 6 hr 28 min
+98 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,8 +53,9 @@
 | [Lead Me Home \- The Walking Dead Soundtrack](https://open.spotify.com/track/2DBFAJgsqhYk5Z1AF7tAMH) | [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [The Walking Dead \(AMC’s Original Soundtrack – Vol\. 1\)](https://open.spotify.com/album/6m6doB3yM5Fehx4wukSvEs) | 1:57 | 2021-07-30 |  |
 | [Little Jose](https://open.spotify.com/track/1Yc25rbbGJZCtz8dtizMKY) | [Grey Reverend](https://open.spotify.com/artist/1EbvbxCONeiXZTVIS2Cw0e) | [A Hero's Lie](https://open.spotify.com/album/6PLuyY1t5OrYGKRdyhDGEJ) | 1:59 | 2021-07-30 | 2022-07-29 |
 | [Little Jose](https://open.spotify.com/track/4t8HYOqorDEhyVGHHxCmXw) | [Grey Reverend](https://open.spotify.com/artist/1EbvbxCONeiXZTVIS2Cw0e) | [A Hero's Lie \(Spotify Exclusive Version\)](https://open.spotify.com/album/1aey7yOQZ0QUM5CI3FF1dT) | 1:59 | 2021-07-30 |  |
-| [Little Lady Blues](https://open.spotify.com/track/15Zws6dwefFYdx9yiqOlo3) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Orange County Serenade](https://open.spotify.com/album/5MX3706iqptzAKSur97vbT) | 5:12 | 2021-07-30 |  |
+| [Little Lady Blues](https://open.spotify.com/track/15Zws6dwefFYdx9yiqOlo3) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Orange County Serenade](https://open.spotify.com/album/5MX3706iqptzAKSur97vbT) | 5:12 | 2021-07-30 | 2023-04-30 |
 | [Little Lady Blues](https://open.spotify.com/track/1LfGP4l3u94cu57cR4khzq) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Orange Co\. Serenade](https://open.spotify.com/album/4SEomhM9X27zNDnJjal0yW) | 5:12 | 2021-07-30 | 2022-07-29 |
+| [Little Lady Blues](https://open.spotify.com/track/7p8OHFQhzWLZgrXQmowSqN) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Orange County Serenade](https://open.spotify.com/album/5fPjBAFjqX4Cf0XAPhGVcf) | 5:12 | 2023-03-28 |  |
 | [Little Red Rooster](https://open.spotify.com/track/06PsyBBc0YCQhGNlfPZ1SS) | [Dan Owen](https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5) | [Bad for Me \- EP](https://open.spotify.com/album/176IZWTuFw7Ei2n3OtUl4p) | 3:21 | 2021-07-30 |  |
 | [Methhead](https://open.spotify.com/track/2mLYN7Hz2czFkZugFscrrb) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [Off This Mountaintop](https://open.spotify.com/album/5ihcQ3YrAH2Ip9wHUqeQyT) | 3:50 | 2021-07-30 |  |
 | [Missing At Sea](https://open.spotify.com/track/0xgm9ojDGh01nTsreKg0oL) | [Maggie Bjorklund](https://open.spotify.com/artist/4uk9cWBqeiel7tO1w9MPe0) | [Shaken](https://open.spotify.com/album/4vxZh8neUimC0CcU5LtLQe) | 3:38 | 2021-07-30 |  |

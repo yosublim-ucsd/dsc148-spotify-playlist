@@ -4,7 +4,7 @@
 
 > Dive in to the Ambient of the 1980s.
 
-91 songs - 8 hr 53 min
+93 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Dressing The Wound \- 2002 Remastered Version](https://open.spotify.com/track/3Me6WeT0LTu2mmtBReJ80C) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Birdy: Music from the film](https://open.spotify.com/album/6uV4pIbm8a1IU67300sDQT) | 4:11 | 2022-06-14 |  |
 | [Einklang](https://open.spotify.com/track/7x9ytTQXFqpk9Mvh4uDUX6) | [Peter Michael Hamel](https://open.spotify.com/artist/4fzLlOozmMPyVBg5o2Sd1j) | [Hamel: Let It Play \- Selected Pieces 1979\-1983](https://open.spotify.com/album/4G8ThDaZc0Z06kivJO97Dd) | 10:04 | 2021-12-23 |  |
 | [Empire I](https://open.spotify.com/track/2i9UYFJDHwoLSRiib3recu) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 2:00 | 2021-12-23 |  |
-| [Energy Flow \(Ki No Nagare\)](https://open.spotify.com/track/414AJsmhPuEA7W3wC9Go77) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/2JdjNySHankOkjITDAo5YT) | 3:47 | 2021-12-23 |  |
+| [Energy Flow \(Ki No Nagare\)](https://open.spotify.com/track/414AJsmhPuEA7W3wC9Go77) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/2JdjNySHankOkjITDAo5YT) | 3:47 | 2021-12-23 | 2023-04-30 |
+| [Energy Flow \(Ki No Nagare\)](https://open.spotify.com/track/4Yif8pWIvQlvTBgFsQJRDA) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/06FCEZqQKs8xTpNl7laVNC) | 3:47 | 2022-12-30 |  |
 | [Epilogue](https://open.spotify.com/track/1LIUJgDSRkNYjo4tVtoz2e) | [Yutaka Hirose](https://open.spotify.com/artist/1FdNQlWcuAjkLTEx7xHf25) | [Nova + 4 \(Extended Version\)](https://open.spotify.com/album/7lETHTMoNPXfiqrEWcuKg1) | 7:41 | 2021-12-23 |  |
 | [FEET](https://open.spotify.com/track/2XBXn7yluQZ6bFReesUjrt) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 6:13 | 2021-12-23 |  |
 | [Finally II](https://open.spotify.com/track/1WtvDfy0K96R0vnJPD21Gi) | [Pieter Nooten And Michael Brook](https://open.spotify.com/artist/1AhA5UAPUefljVYKupe1xp) | [Sleeps with the Fishes](https://open.spotify.com/album/3dtF7JTVFodlTm83YWcLYS) | 1:53 | 2021-12-23 |  |
@@ -65,7 +66,8 @@
 | [Quiet Friend](https://open.spotify.com/track/7eyrOUEsP04DjbMAIUKXEV) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Structures From Silence](https://open.spotify.com/album/46AY6JPcDEFWYF8YcYOQWh) | 13:23 | 2021-12-23 |  |
 | [Rainbow](https://open.spotify.com/track/1Zq0i87sMcftjWMtHwdsnu) | [Software](https://open.spotify.com/artist/0mwCI9ZfHyOj3ENpFd6AEn) | [Beam\-Scape](https://open.spotify.com/album/5ihit1R8vwsMxe0mt5eMMD) | 9:42 | 2021-12-23 |  |
 | [Reflecting Light](https://open.spotify.com/track/5soViX7uPUyYaPT6EJJD5e) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU) | [Reflecting Light, Vol\. 1](https://open.spotify.com/album/5egigwAjsqdGSS7OHCOpH8) | 2:47 | 2021-12-23 |  |
-| [Samadhi](https://open.spotify.com/track/6fmNbaYWyLvI6rA3wy9NAw) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/2JdjNySHankOkjITDAo5YT) | 9:42 | 2021-12-23 |  |
+| [Samadhi](https://open.spotify.com/track/1acrrqhpEgq1xeCn2QBOcC) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/06FCEZqQKs8xTpNl7laVNC) | 9:42 | 2022-12-30 |  |
+| [Samadhi](https://open.spotify.com/track/6fmNbaYWyLvI6rA3wy9NAw) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/2JdjNySHankOkjITDAo5YT) | 9:42 | 2021-12-23 | 2023-04-30 |
 | [Sant Ji](https://open.spotify.com/track/4k1L2mAXz46zQt3alXJdSu) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Skies Above Skies](https://open.spotify.com/album/0mOvzxPIp6XULoaq2Kq3h9) | 5:09 | 2021-12-23 |  |
 | [Several Times II](https://open.spotify.com/track/4IitjSBfTpUEMU9GTNfpz0) | [Pieter Nooten And Michael Brook](https://open.spotify.com/artist/1AhA5UAPUefljVYKupe1xp) | [Sleeps with the Fishes](https://open.spotify.com/album/3dtF7JTVFodlTm83YWcLYS) | 2:05 | 2021-12-23 |  |
 | [Shettle Wood](https://open.spotify.com/track/5MYVdcxQksPeijQwJlldpZ) | [K\. Leimer](https://open.spotify.com/artist/5m1jRZQE4BjLrFrV33jIql) | [Land of Look Behind \(Remastered + Expanded\)](https://open.spotify.com/album/5PfXgN1QUM9hpwdyyDeB5N) | 3:05 | 2021-12-23 |  |

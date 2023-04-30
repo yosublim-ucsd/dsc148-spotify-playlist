@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Lauana Prado e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,989 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,235 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,14 +30,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 20 | [Coração Traumatizado \- Ao Vivo](https://open.spotify.com/track/2eya8ky7v8mG5OuMndUW27) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Continua, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy) | 2:58 |
 | 21 | [A Gente Só Dá Certo Junto](https://open.spotify.com/track/6duw8aroCMTnpFzFFJ1faN) | [Paula Mattos](https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz) | [Aleatórias](https://open.spotify.com/album/7l7O18Vj86XDa46RroXjpJ) | 2:00 |
 | 22 | [Nojo do meu ex \- Ao Vivo](https://open.spotify.com/track/3Vh0ZmlbdNmiTNPpfhDbr6) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq) | [Minha História 2, Pt.1 \(Ao Vivo\)](https://open.spotify.com/album/2SUdj6lyAcV9gUW6YL1LSJ) | 2:40 |
-| 23 | [Prioridades](https://open.spotify.com/track/0526TKvAgQEwAODhiJVBfW) | [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Prioridades](https://open.spotify.com/album/2nvT4HuVAIjUAIZfPMm1px) | 2:26 |
-| 24 | [Nem Aqui, Nem em Marte](https://open.spotify.com/track/5Ah3nQCQMqidZjGihie916) | [Mara Pavanelly](https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX) | [Nem Aqui, Nem em Marte](https://open.spotify.com/album/2wbFxDFyR1ctXoBEtrdx3R) | 2:52 |
+| 23 | [Nem Aqui, Nem em Marte](https://open.spotify.com/track/5Ah3nQCQMqidZjGihie916) | [Mara Pavanelly](https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX) | [Nem Aqui, Nem em Marte](https://open.spotify.com/album/2wbFxDFyR1ctXoBEtrdx3R) | 2:52 |
+| 24 | [Prioridades](https://open.spotify.com/track/0526TKvAgQEwAODhiJVBfW) | [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Prioridades](https://open.spotify.com/album/2nvT4HuVAIjUAIZfPMm1px) | 2:26 |
 | 25 | [Xuxu Não](https://open.spotify.com/track/1tXotEOjtmZIEMPznQoWir) | [Janaina Alves](https://open.spotify.com/artist/5euyOxTA3XwEi0DE2YHRqa), [Klessinha A baronesa](https://open.spotify.com/artist/6pNNbixzbEeQvi5jMaxugZ) | [Xuxu Não](https://open.spotify.com/album/5h4WEgh2ZkFEIEGiTLx2kZ) | 2:38 |
 | 26 | [Escolheu Ser Saudade](https://open.spotify.com/track/1lHRpZ42pG64jzeXUr1wMO) | [Patrícia & Adriana](https://open.spotify.com/artist/0ygrwj3UeDfNrxhPDtSCe2) | [Escolheu Ser Saudade](https://open.spotify.com/album/14xzJ5WF0Z2NwTKnf4DqFK) | 2:11 |
 | 27 | [O Boy É Meu](https://open.spotify.com/track/2IxymS4SiWKfs89tsSAbrL) | [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [O Boy É Meu](https://open.spotify.com/album/0Wx5eaqQwznMG6BQ6PvlK5) | 3:17 |
 | 28 | [Negócio na Cama \- Ao Vivo](https://open.spotify.com/track/1ZIrnCHZhVOeFjedBBVtp2) | [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Priscila Em Cena \(Ao Vivo no Classic Hall\)](https://open.spotify.com/album/2of2wBTolajrVJ5fEWYdFR) | 2:44 |
-| 29 | [Nossa História](https://open.spotify.com/track/6odXGr4z2bxReXvM8c2wwI) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk) | [Nossa História](https://open.spotify.com/album/5IHyYAPoSOstBvMdP24ia8) | 2:35 |
-| 30 | [Tá Faltando Tu](https://open.spotify.com/track/0p0PpBHqsNOUhoMTW079Tf) | [Danieze Santiago](https://open.spotify.com/artist/166XjvNMa051GH0GR18P2g) | [Tá Faltando Tu](https://open.spotify.com/album/7FZQM3o3MjUHfgrCiHNb81) | 3:22 |
+| 29 | [Tá Faltando Tu](https://open.spotify.com/track/0p0PpBHqsNOUhoMTW079Tf) | [Danieze Santiago](https://open.spotify.com/artist/166XjvNMa051GH0GR18P2g) | [Tá Faltando Tu](https://open.spotify.com/album/7FZQM3o3MjUHfgrCiHNb81) | 3:22 |
+| 30 | [Nossa História](https://open.spotify.com/track/6odXGr4z2bxReXvM8c2wwI) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk) | [Nossa História](https://open.spotify.com/album/5IHyYAPoSOstBvMdP24ia8) | 2:35 |
 | 31 | [Tem Dia Que Não É Dia \- Ao Vivo](https://open.spotify.com/track/4erQSt6veh3RzhKcsVdWM1) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Respeita As Braba \(Ao Vivo / Vol\. 3\)](https://open.spotify.com/album/0754acWXo8RvYk2rlqnh2c) | 2:47 |
 | 32 | [Põe na Balança](https://open.spotify.com/track/2Q1Ls2Hh0MBeLttiubm24n) | [Walkyria Santos](https://open.spotify.com/artist/1Ilt2BMVmqKiNCpfthrAMC) | [Põe na Balança](https://open.spotify.com/album/1SEgsWznRliYojKBGush1m) | 2:42 |
 | 33 | [Correndo Do Tchau \- Ao Vivo](https://open.spotify.com/track/4k0QGeZFgaLwB2m3GpJNA9) | [Naessa](https://open.spotify.com/artist/4yeGmRY9a2vswZ47DGqKJH) | [Correndo Do Tchau](https://open.spotify.com/album/6Ov3FfZ06rE22owgghD925) | 4:17 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 39 | [Para ou Vem](https://open.spotify.com/track/62gFsSwQ0jwoSNJjYs3x3P) | [Day Macedo](https://open.spotify.com/artist/0jRfVNZDw9P1PqSxkxfm5v) | [Para ou Vem](https://open.spotify.com/album/1SUQkyxHKDpWRjXBpandCP) | 2:55 |
 | 40 | [Troca De Tiro](https://open.spotify.com/track/6cFtG8NWrp7WZ8Jns5mWin) | [Janaynna](https://open.spotify.com/artist/6cvmfGPBRVMnHu6PPgDTIT) | [Troca De Tiro](https://open.spotify.com/album/1cChSyzvD4gJ0xs3gdHaw0) | 2:22 |
 | 41 | [Coração Sóbrio \- Ao Vivo](https://open.spotify.com/track/5w7TofoEAWjOoUpMjvYYNl) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Respeita As Braba \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/3GSgPM8TTns6aQWtp4B8BS) | 3:02 |
-| 42 | [Olha Eu Aqui de Novo](https://open.spotify.com/track/1M4WdJ5JxaHLgKg6TtpXJx) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Tô no Buteco, Ep\. 1](https://open.spotify.com/album/4NLTWfQrvREdNtDOWka0Zk) | 2:55 |
-| 43 | [Indefesa \- Ao Vivo](https://open.spotify.com/track/6YF9pcp623mMZm86ciOJ9r) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Márcia A Fenomenal \[\(Ao Vivo\) \[Deluxe\]\]](https://open.spotify.com/album/5DYEhmHPZ4AwU1dLowty2M) | 3:16 |
+| 42 | [Indefesa \- Ao Vivo](https://open.spotify.com/track/6YF9pcp623mMZm86ciOJ9r) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Márcia A Fenomenal \[\(Ao Vivo\) \[Deluxe\]\]](https://open.spotify.com/album/5DYEhmHPZ4AwU1dLowty2M) | 3:16 |
+| 43 | [Olha Eu Aqui de Novo](https://open.spotify.com/track/1M4WdJ5JxaHLgKg6TtpXJx) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Tô no Buteco, Ep\. 1](https://open.spotify.com/album/4NLTWfQrvREdNtDOWka0Zk) | 2:55 |
 | 44 | [Diz Pra Mim \- Ao Vivo](https://open.spotify.com/track/4utKLIPzExJb7RIshhTO8I) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq) | [Minha História 2, Pt.1 \(Ao Vivo\)](https://open.spotify.com/album/2SUdj6lyAcV9gUW6YL1LSJ) | 2:28 |
 | 45 | [Tá Melhor que Antes \- Ao Vivo](https://open.spotify.com/track/6pP5twEqrKYVlBiNvaV9kM) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Ah!Mar \(Ao Vivo\)](https://open.spotify.com/album/7JGn88yc2fflE6GkpNhwVb) | 2:26 |
 | 46 | [Alô, Oi \- Ao Vivo](https://open.spotify.com/track/6Nq0hNneJt0Ps4G4r7RT9N) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/0NJBo8eIqMh78Ba5HWTWAD) | 2:30 |
 | 47 | [Tá De Mal Comigo](https://open.spotify.com/track/1FWqkjr6iDNGlKM962dOgy) | [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92) | [11:11](https://open.spotify.com/album/7lTItbUFmGEaCLxxtdM8Tm) | 2:55 |
-| 48 | [Descontar Não É Trair](https://open.spotify.com/track/141n9kCcSwIoz2ZSzqHRpC) | [Bizay](https://open.spotify.com/artist/73h5bxU4rvxAhFHdWRJMPX) | [Sentimentos](https://open.spotify.com/album/2WZ00uchMe97wUgfxjugok) | 3:05 |
-| 49 | [Segue Invicto \- Ao Vivo](https://open.spotify.com/track/22BxPqZRPSzYtbCXPHaVTN) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Márcia A Fenomenal \[\(Ao Vivo\) \[Deluxe\]\]](https://open.spotify.com/album/5DYEhmHPZ4AwU1dLowty2M) | 2:42 |
+| 48 | [Segue Invicto \- Ao Vivo](https://open.spotify.com/track/22BxPqZRPSzYtbCXPHaVTN) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Márcia A Fenomenal \[\(Ao Vivo\) \[Deluxe\]\]](https://open.spotify.com/album/5DYEhmHPZ4AwU1dLowty2M) | 2:42 |
+| 49 | [Descontar Não É Trair](https://open.spotify.com/track/141n9kCcSwIoz2ZSzqHRpC) | [Bizay](https://open.spotify.com/artist/73h5bxU4rvxAhFHdWRJMPX) | [Sentimentos](https://open.spotify.com/album/2WZ00uchMe97wUgfxjugok) | 3:05 |
 | 50 | [Foda Me Esquecer \- Ao Vivo](https://open.spotify.com/track/2lW3PosUws0xAS5UcybOuo) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/0NJBo8eIqMh78Ba5HWTWAD) | 2:16 |
 
-Snapshot ID: `MCxlYmI2YjlhYmFjNDRhYTZkMzJmMzAyZGM0OGU0MDkwYmZkMjNkMDk1`
+Snapshot ID: `MCw5OWM3MTZmMDQwY2I0MDU3MGE1OTBjNTM0OTk2MzhlMGYwNjNmMTJk`

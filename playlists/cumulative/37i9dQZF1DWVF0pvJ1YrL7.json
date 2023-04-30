@@ -1838,7 +1838,7 @@
     {
       "album": {
         "name": "Channel Pressure",
-        "url": "https://open.spotify.com/album/0tW5rBMpINfekEGbhqkR3d"
+        "url": "https://open.spotify.com/album/0IukYhktfvsurQ1ojVNs1Z"
       },
       "artists": [
         {
@@ -1849,6 +1849,24 @@
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 202066,
+      "name": "New Planet",
+      "url": "https://open.spotify.com/track/1oU8JXQGiir9KBnmC46qX8"
+    },
+    {
+      "album": {
+        "name": "Channel Pressure",
+        "url": "https://open.spotify.com/album/0tW5rBMpINfekEGbhqkR3d"
+      },
+      "artists": [
+        {
+          "name": "Ford & Lopatin",
+          "url": "https://open.spotify.com/artist/3eTOYD8UyQa3MalrtkyKha"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 202066,
       "name": "New Planet",
       "url": "https://open.spotify.com/track/73ftARNcKnSjzzCodbBwWq"

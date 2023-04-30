@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 20232,
+  "num_followers": 20241,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTBmYjFiZWNjY2M2ZTIzMGEyMDFjOTJmY2IwMjY1ZGM0NzU5NWFi",
+  "snapshot_id": "MCw5YTczNmM3MzI2N2MwYTg4MjVhZmQ1M2EyODljOTVjYmFmMmRjNTky",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Abriendo Latidos",
-        "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 194555,
-      "name": "Abriendo Latidos",
-      "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Ay, Amor",
         "url": "https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 213041,
       "name": "Ay, Amor \u2665\ufe0e",
       "url": "https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Abriendo Latidos",
+        "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 194555,
+      "name": "Abriendo Latidos",
+      "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "No Sentir Nada",
-        "url": "https://open.spotify.com/album/4hquSaJKohf2oE50JgOBo3"
-      },
-      "artists": [
-        {
-          "name": "Marem Ladson",
-          "url": "https://open.spotify.com/artist/2Fzkri1PNqc9DsXUbRrNa0"
-        }
-      ],
-      "duration_ms": 224608,
-      "name": "No Sentir Nada",
-      "url": "https://open.spotify.com/track/5yO08ego5Exs0acRhxs6tn"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "AZUL\u00c6",
         "url": "https://open.spotify.com/album/1h7GakzHHoyEYyWhvlmiWo"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 220750,
       "name": "7 O 9 - Ep. 11: Las vidas de los gato",
       "url": "https://open.spotify.com/track/2s5ZDuhEmW9wte8vCSrgev"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "No Sentir Nada",
+        "url": "https://open.spotify.com/album/4hquSaJKohf2oE50JgOBo3"
+      },
+      "artists": [
+        {
+          "name": "Marem Ladson",
+          "url": "https://open.spotify.com/artist/2Fzkri1PNqc9DsXUbRrNa0"
+        }
+      ],
+      "duration_ms": 224608,
+      "name": "No Sentir Nada",
+      "url": "https://open.spotify.com/track/5yO08ego5Exs0acRhxs6tn"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Hijos del Sol",
+        "url": "https://open.spotify.com/album/2eWUzFnTmSu12e9N88TJ9y"
+      },
+      "artists": [
+        {
+          "name": "Los Cogelones",
+          "url": "https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS"
+        }
+      ],
+      "duration_ms": 190640,
+      "name": "Danza de Sol",
+      "url": "https://open.spotify.com/track/52pIvwmblgM5ZC34WQsmVW"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Buenos Tiempos",
         "url": "https://open.spotify.com/album/0oj2LzYjVhWmshX8dSDg2m"
       },
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Pong",
-        "url": "https://open.spotify.com/album/3O9Sh32VPoskDSbkiW77Jb"
-      },
-      "artists": [
-        {
-          "name": "Piel Camale\u00f3n",
-          "url": "https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq"
-        }
-      ],
-      "duration_ms": 208505,
-      "name": "Pong",
-      "url": "https://open.spotify.com/track/4r5DPWa4xFtqS0CROTIc41"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Azulmagenta",
         "url": "https://open.spotify.com/album/4NMpBN4NunLm6hINDVh5Lw"
       },
@@ -1295,6 +1295,22 @@
       "duration_ms": 218354,
       "name": "Azulmagenta",
       "url": "https://open.spotify.com/track/0BWXCS8fU8Y4Rj2ng4fIsu"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Pong",
+        "url": "https://open.spotify.com/album/3O9Sh32VPoskDSbkiW77Jb"
+      },
+      "artists": [
+        {
+          "name": "Piel Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq"
+        }
+      ],
+      "duration_ms": 208505,
+      "name": "Pong",
+      "url": "https://open.spotify.com/track/4r5DPWa4xFtqS0CROTIc41"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1443,22 +1459,6 @@
       "duration_ms": 228574,
       "name": "Alguien Detra\u0301s de Mi",
       "url": "https://open.spotify.com/track/386O3o4TbBhoasmd97QQIJ"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Hijos del Sol",
-        "url": "https://open.spotify.com/album/2eWUzFnTmSu12e9N88TJ9y"
-      },
-      "artists": [
-        {
-          "name": "Los Cogelones",
-          "url": "https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS"
-        }
-      ],
-      "duration_ms": 190640,
-      "name": "Danza de Sol",
-      "url": "https://open.spotify.com/track/52pIvwmblgM5ZC34WQsmVW"
     },
     {
       "added_at": "2020-12-01 05:03:00",

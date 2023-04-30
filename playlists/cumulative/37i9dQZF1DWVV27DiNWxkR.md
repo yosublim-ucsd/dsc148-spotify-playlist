@@ -4,7 +4,7 @@
 
 > The premier alternative melancholia playlist, featuring Billie Eillish
 
-324 songs - 21 hr 59 min
+325 songs - 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Cavalier](https://open.spotify.com/track/4Q3m2WAmHWXJYSTvDdifXZ) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Post Tropical \(Deluxe Edition\)](https://open.spotify.com/album/7bnHpxtL6hqO9DWPAknJuH) | 4:43 | 2022-07-15 | 2022-08-27 |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-04-26 |  |
 | [cellophane](https://open.spotify.com/track/7x8pIrhMu9FCmqqHNyuH0P) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 3:24 | 2022-05-02 |  |
-| [Change](https://open.spotify.com/track/6dXs0lM3BhWnsyqtuWFOYl) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 2:04 | 2022-08-26 |  |
+| [Change](https://open.spotify.com/track/0bPiyfCmBIWqDDQZ6KqFXu) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH) | 2:04 | 2022-09-02 |  |
+| [Change](https://open.spotify.com/track/6dXs0lM3BhWnsyqtuWFOYl) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 2:04 | 2022-08-26 | 2023-04-30 |
 | [Cherry Wine \- Live](https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:00 | 2022-08-26 |  |
 | [Chewing Cotton Wool](https://open.spotify.com/track/2qRRVF41NynV0FRHJKaYjM) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Chewing Cotton Wool](https://open.spotify.com/album/0vdb79nBrtdF8sozFxRzDw) | 3:29 | 2019-11-23 | 2022-07-29 |
 | [Chewing Cotton Wool](https://open.spotify.com/track/3XxI16XYIjNhbvMFSN6Mlg) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Chewing Cotton Wool](https://open.spotify.com/album/1OlByJ5jsP9Eklfp03Xn8z) | 3:29 | 2022-07-15 | 2022-09-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Tyler Bryant & the Shakedown
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,438 likes - 150 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,653 likes - 150 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 52 | [Corner Store](https://open.spotify.com/track/5IwNIDv4zcC3jCbVIOFYvU) | [Ries Brothers](https://open.spotify.com/artist/3n5TbZCCU3rnDcDy5n49nG) | [Corner Store](https://open.spotify.com/album/1CvLJhUtVluGc4ujgPbEQb) | 2:43 |
 | 53 | [Gypsy Woman](https://open.spotify.com/track/0Xt2U98SY4qyd2ZTU8nOsE) | [Jonathan Tyler & The Northern Lights](https://open.spotify.com/artist/0ojbcl4680K7tn6aPicIaP) | [Hot Trottin'](https://open.spotify.com/album/1Nd6QhAWTbOlVQjKf3wYQY) | 4:15 |
 | 54 | [Make Your Move](https://open.spotify.com/track/5uXlBb9vZ3ltzVpbVXAH5N) | [Beyond the Badlands](https://open.spotify.com/artist/5Od4vhwUDRjIKGCu7OrFsP) | [Make Your Move](https://open.spotify.com/album/5upDTjsYYm1tAU1CWHruPz) | 3:21 |
-| 55 | [Black Speakers](https://open.spotify.com/track/33ybiYIMl7PwGLZz0bETGy) | [Datura4](https://open.spotify.com/artist/3mA3sO1zseVtFQ56oqlJYk) | [Black Speakers](https://open.spotify.com/album/3qFMig0PZVFxzrh9z6M8hm) | 4:24 |
+| 55 | [Black Speakers](https://open.spotify.com/track/1nsSAObs1qdg5cRtzS9qCm) | [Datura4](https://open.spotify.com/artist/3mA3sO1zseVtFQ56oqlJYk) | [Neanderthal Jam](https://open.spotify.com/album/11ILTtRztjMJLorRziNAkI) | 4:24 |
 | 56 | [Down On The Bottom](https://open.spotify.com/track/42E1wt4PuswhRLnpoGJu7y) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Down On The Bottom](https://open.spotify.com/album/0TQOj4sXi3e53CH2V4odAX) | 4:36 |
-| 57 | [Come On](https://open.spotify.com/track/7m1a5EhEx1qA4fWSqRLvaO) | [Artur Menezes](https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Come On](https://open.spotify.com/album/5UItOyIYBjcLlCESGf9fDX) | 3:45 |
+| 57 | [Come On](https://open.spotify.com/track/5pqBru8D3AFDmbTiCCLdDi) | [Artur Menezes](https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Fading Away](https://open.spotify.com/album/0Y2F59RRop0f41p7rTFwQS) | 3:45 |
 | 58 | [I Want You](https://open.spotify.com/track/1UTNZLkptltS6oNrMzva3s) | [Reignwolf](https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK) | [Hear Me Out](https://open.spotify.com/album/6jPxwvFm0kcZzflrloQPuK) | 2:26 |
 | 59 | [Half\-Tongue](https://open.spotify.com/track/3n2fRYNaGoDygheFYRJlNM) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [ATW](https://open.spotify.com/album/29zIQDGwvtcvbaqCISJSMC) | 4:35 |
 | 60 | [Silver Paper](https://open.spotify.com/track/06eRzfVeA1wW3P7ZuJGSuh) | [Leslie West](https://open.spotify.com/artist/0ks4E3VJXDIRABtxz2IiBE), [Charlie Starr](https://open.spotify.com/artist/2Oeaf5Pn9WzmxUIIsjs939) | [Silver Paper](https://open.spotify.com/album/6Y6nPjdXZd0p7qAMiM3A9z) | 3:26 |
@@ -137,7 +137,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 127 | [Innocence Of Youth \- Live](https://open.spotify.com/track/3wv8SOIuHKruVasUr4OuRP) | [When Rivers Meet](https://open.spotify.com/artist/3r4hYfzQA1yuQFEKMDJzJi) | [Innocence Of Youth](https://open.spotify.com/album/1c69MRP9d9rPor6AJ2cgfg) | 5:00 |
 | 128 | [To The Bone](https://open.spotify.com/track/64u5BCxJ7tkiN3Zru9agqt) | [Chris Leamy](https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx) | [Louder](https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd) | 3:39 |
 | 129 | [Shine](https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq) | [ALIAS](https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w) | [Shine](https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra) | 2:11 |
-| 130 | [The Mould](https://open.spotify.com/track/1jPljtqOC6hH1imHy4NcLy) | [El Perro](https://open.spotify.com/artist/3Y9wKuwj8yuwt1EhIUxGDG) | [Hair Of](https://open.spotify.com/album/2bREEW7AtYFG8yZLr6M0N7) | 3:59 |
+| 130 | [The Mould](https://open.spotify.com/track/5DWagsDtyFGdUSD2EM0dBQ) | [El Perro](https://open.spotify.com/artist/3Y9wKuwj8yuwt1EhIUxGDG) | [Hair Of](https://open.spotify.com/album/0F2pZYTsXZ5nWdSuFtTu1Y) | 3:59 |
 | 131 | [Muddy Water](https://open.spotify.com/track/7u4iSaTwibK4RlptP5mdnY) | [Zach Person](https://open.spotify.com/artist/0lgtMXcZRhFOUU2ZPddLoA) | [Muddy Water](https://open.spotify.com/album/2tEQrIm7Kd6T2PDPF0KDun) | 4:48 |
 | 132 | [Superhuman](https://open.spotify.com/track/5IT0dXkBnNZ1cefzaSWDWx) | [Ferris & Sylvester](https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf) | [Superhuman](https://open.spotify.com/album/1B25jVWUCH41IhBo6iz5WK) | 4:05 |
 | 133 | [Them That Matter Don't Mind](https://open.spotify.com/track/078Ubk0ej7JTAph4R6NZbJ) | [Rehab](https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS) | [Sand Castles](https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr) | 2:49 |
@@ -146,11 +146,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 136 | [Light Up The Sky](https://open.spotify.com/track/4EwICCST3U0KB6DwrK1L8Y) | [Apollo Junction](https://open.spotify.com/artist/0AzjiMoCvzOmUCPX7944dZ) | [Light Up The Sky](https://open.spotify.com/album/2STOuaYMyZWYtJIxCHm2lO) | 3:24 |
 | 137 | [1984](https://open.spotify.com/track/3fj0DAZAGzvwG1Qj59Q8eO) | [The Last Internationale](https://open.spotify.com/artist/2K9hz9205EQR7KkKNdyXFc) | [1984](https://open.spotify.com/album/6GqFl8SgvirIfO71cqh7aI) | 4:31 |
 | 138 | [Catch Me If You Can \(feat\. Chris Robertson\)](https://open.spotify.com/track/2Q7MG9T0kCEEJmDpaKP4be) | [The Picturebooks](https://open.spotify.com/artist/5L8u4AcYBOnxAtRrluOjKo), [Chris Robertson](https://open.spotify.com/artist/1GdMYXxQLiGQCdZZd153HL) | [Catch Me If You Can \(feat\. Chris Robertson\)](https://open.spotify.com/album/52SxUXwHjJNNBLvSlmbBjC) | 3:32 |
-| 139 | [Baby Blue](https://open.spotify.com/track/7syfhu9aBNf1pm0X3PPnkp) | [Gyasi](https://open.spotify.com/artist/58hf5laRpsJcrGFitleHuj) | [Baby Blue](https://open.spotify.com/album/4voq4iXsadEaw7fAq6JRAV) | 3:23 |
+| 139 | [Baby Blue](https://open.spotify.com/track/4BsPswOqGrJhsUzdCVTPN0) | [Gyasi](https://open.spotify.com/artist/58hf5laRpsJcrGFitleHuj) | [Baby Blue](https://open.spotify.com/album/72LtE1jP5PNPVBGmoXUnXo) | 3:23 |
 | 140 | [Pick Your Poison](https://open.spotify.com/track/7wcqevEd92JZsAb62zJ3uu) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Look Alive](https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy) | 3:45 |
 | 141 | [Rollin 'N Tumblin](https://open.spotify.com/track/02V2PwXfovnT03QPHpp1SF) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [World Boogie Is Coming](https://open.spotify.com/album/46nKDUcNFmBL8ASwFH3P94) | 2:35 |
 | 142 | [Creeper](https://open.spotify.com/track/3DI0Ko7hmK2uh8INSXFnkb) | [Lincoln Durham](https://open.spotify.com/artist/1Zngx1vu4ARlsOn5MwvOVo) | [Revelations of a Mind Unraveling](https://open.spotify.com/album/1LnaYr79OQ3ZjfwjLmts6w) | 3:41 |
-| 143 | [The Waltz](https://open.spotify.com/track/4WcFtmdPfCKal88DL3emL4) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [Shake and Bake](https://open.spotify.com/album/2SvkGae4Chwgj44HiDW2yi) | 5:28 |
+| 143 | [The Waltz](https://open.spotify.com/track/2tj88oEKcx7CXtqsGI8KWy) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [Shake and Bake](https://open.spotify.com/album/2ITas01lzZe2kVZ1YYBZr8) | 5:28 |
 | 144 | [None of Your Business](https://open.spotify.com/track/6scQaEbZRJRSHlUecMPdMc) | [Mike Ross](https://open.spotify.com/artist/5czSB0z5jZnHr9zV37RU1h) | [None of Your Business](https://open.spotify.com/album/6GN9W8VK95e9NLNOSFQkuX) | 3:20 |
 | 145 | [Hold on It](https://open.spotify.com/track/7GXqZ0v1AovRQDV0NBIs4a) | [The Sideshow Tragedy](https://open.spotify.com/artist/3orDENaFfgt5gcLk24QHSS) | [Hold on It](https://open.spotify.com/album/4rdexywHhYUx0aouC1if9r) | 4:11 |
 | 146 | [All I've Got is You](https://open.spotify.com/track/0DdDbFj0v5UlXC8j2CxJg6) | [J.D\. Simo](https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg) | [All I've Got is You](https://open.spotify.com/album/1ZsdIxjdTXmPS7QLWKRtBA) | 2:41 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 149 | [Just Takes Time](https://open.spotify.com/track/4NfUTIqcPzLTcL7Owbezt7) | [Simon McBride](https://open.spotify.com/artist/4S2kddUZy77NYpLH50f3qC) | [The Fighter](https://open.spotify.com/album/52jRQHJzlln2SkAfYQnLQC) | 3:09 |
 | 150 | [Higher Power](https://open.spotify.com/track/0u70IdyL5XsnryWI99Haqr) | [Cody Jasper](https://open.spotify.com/artist/5TUeTFpidqbyGqXeOj5I1H) | [Higher Power](https://open.spotify.com/album/1IUvobngXGOyJ4BdtlYILD) | 4:14 |
 
-Snapshot ID: `MCw1YmY0ZDQzMWM0YjY4ZGMwYWQ0NWM2ZGNjM2U4M2E4M2QyZjQ5OTk4`
+Snapshot ID: `MCw0NjM5ZGFhZWQ5NTM5ZjY3NWIxYjdiMGYxMDUwZTE4Y2Q5ODM5MTNh`

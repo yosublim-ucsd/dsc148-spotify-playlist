@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Άκου τις γυναίκες της Ελλάδας στη διαπασών\. Εξώφυλλο: Ellize
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,686 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,700 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 41 | [Pos N' Agapo](https://open.spotify.com/track/6zozmHNnjOw7nRYts3wYOI) | [Haris Alexiou](https://open.spotify.com/artist/4cgCxnsmy9kDcl3oA2BYRY), [Alkistis Protopsalti](https://open.spotify.com/artist/514w90CKIw9w84Zh3NSNyA), [Nikos Antypas](https://open.spotify.com/artist/2q9CLI9ZM0nAsSDKjjp9aC) | [Pos N' Agapo](https://open.spotify.com/album/3Bdo8kULfOHm1pHCLbwY0w) | 3:06 |
 | 42 | [Giati Glikia Mou Kles](https://open.spotify.com/track/6Uu6XrzRRXZpfoW0gz6L23) | [Eleni Tsaligopoulou](https://open.spotify.com/artist/3Gk7fuRSYuQWqXGhRGPsG4) | [Giati Glikia Mou Kles](https://open.spotify.com/album/2JbmRmXeVomp5loIhkyIn9) | 4:19 |
 | 43 | [Can't Help Falling In Love](https://open.spotify.com/track/22Zc4VcrWf2MnA9uj57ikv) | [Mariza Rizou](https://open.spotify.com/artist/0YOHWBsXDveoGIFVKHkZ4V) | [Can't Help Falling In Love](https://open.spotify.com/album/3HEQqKx57MZMc18QVK5VyD) | 4:12 |
-| 44 | [Me Ta Matia Kleista](https://open.spotify.com/track/0C9T51LdUf2sIDYrpWbSoZ) | [Giota Negka](https://open.spotify.com/artist/3no2tb4sxgM2xJPRa1ZVhQ), [V\-Sag](https://open.spotify.com/artist/0flc0uF9XBF3OTctmMRKSX) | [Me Ta Matia Kleista](https://open.spotify.com/album/0O2ZLUDiCOhUdc13b7kIlQ) | 5:14 |
+| 44 | [Me Ta Matia Kleista \- V\-Sag Remix](https://open.spotify.com/track/0C9T51LdUf2sIDYrpWbSoZ) | [Giota Negka](https://open.spotify.com/artist/3no2tb4sxgM2xJPRa1ZVhQ), [V\-Sag](https://open.spotify.com/artist/0flc0uF9XBF3OTctmMRKSX) | [Me Ta Matia Kleista \(V\-Sag Remix\)](https://open.spotify.com/album/0O2ZLUDiCOhUdc13b7kIlQ) | 5:14 |
 | 45 | [Ta Thavmata \- Original Tv Series "Sasmos" Soundtrack](https://open.spotify.com/track/7DO971Fj9KbJMsWbpaSvix) | [Melina Aslanidou](https://open.spotify.com/artist/0q6umZk2e14mheMLEQLFCJ), [Nicos Terzis](https://open.spotify.com/artist/2eHBk2XpfdzxdHytj6oK9j) | [Ta Thavmata \(Original Tv Series "Sasmos" Soundtrack\)](https://open.spotify.com/album/44Q2hICl0Iau19ySjy0rbt) | 3:45 |
 | 46 | [Mavri Yli](https://open.spotify.com/track/7wAyDFlLAR6K0E4KwLGl3y) | [Foxy Lee](https://open.spotify.com/artist/1TMRlzzQQpXLTPF77gB22i) | [Mavri Yli](https://open.spotify.com/album/1x2v8YcG5qLwNuLePfpPem) | 2:45 |
 | 47 | [Holy Water](https://open.spotify.com/track/4XTmkwKMuHL1HJh7n44cD5) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Holy Water](https://open.spotify.com/album/1zwSXmZPw9SBL2vRvnbJYy) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [Os To Telos](https://open.spotify.com/track/16lqjuAwk1UsHCmWoMQ0mW) | [Antonia Kaouri](https://open.spotify.com/artist/6if1zDDAhfAzlcvzXEDGLh) | [Os To Telos](https://open.spotify.com/album/5mf1osEOEbGUHtT5mAUkSN) | 3:02 |
 | 50 | [Ego Esena \- Original Tv Series "Mavro Rodo" Soundtrack](https://open.spotify.com/track/5FBDgXklxcAKm3Gs3gjLvz) | [Evridiki](https://open.spotify.com/artist/0WxbpUPH6SN75TSFAj3MAa), [Miltos Pashalidis](https://open.spotify.com/artist/6VzFvK9yRRZkT0L8kMmOXV), [George Theofanous](https://open.spotify.com/artist/1rNn8vt3hmIxbDuqMVzXpA) | [Ego Esena \(Original TV Series "Mavro Rodo" Soundtrack\)](https://open.spotify.com/album/24nJugIlrHaBHncKi9L9QW) | 4:16 |
 
-Snapshot ID: `MCxiYmM4OGI0ZDJmMjhjYjI0OWY3NjU3MzQwMTQzZTY4MzI5ZDJhNmFl`
+Snapshot ID: `MCw1MmQzNmNiYmExMjVlZGU1OWY5N2I5NmRlN2MyMzY2NDI1ODVjZmEx`

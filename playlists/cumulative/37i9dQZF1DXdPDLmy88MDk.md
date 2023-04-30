@@ -4,7 +4,7 @@
 
 > Gentle instrumental tunes.
 
-157 songs - 9 hr 42 min
+158 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Fonteyn](https://open.spotify.com/track/29Lh7uFWh8jAOSTlOtdrqh) | [Rachel Sandy](https://open.spotify.com/artist/29Y9bN8378sKXJODbwRmhC) | [Fonteyn](https://open.spotify.com/album/2mTN8awDjOCGKRxYJwNEnG) | 2:39 | 2022-09-19 |  |
 | [Fonteyn](https://open.spotify.com/track/42qcDdQ4VWeLCLjrF9BBRN) | [Rachel Sandy](https://open.spotify.com/artist/29Y9bN8378sKXJODbwRmhC) | [Fonteyn](https://open.spotify.com/album/4HpC0EKpIpG0cQGNNyl8WG) | 2:39 | 2021-11-19 | 2023-02-02 |
 | [Fountain of People's Hope](https://open.spotify.com/track/70MlCRz6vWvAynrz0EDVr3) | [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ) | [Still Moment](https://open.spotify.com/album/03uMfQNIFSHVwcxCngFdT5) | 4:16 | 2021-11-19 | 2022-09-20 |
-| [Future Love \(Reimagined by Pêtr Aleksänder\) \- Instrumental](https://open.spotify.com/track/683mwxOizslObemAVOmvH4) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX), [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Clouds in the Mirror \(This Is Not a Safe Place Reimagined by Pêtr Aleksänder\) \[Instrumentals\]](https://open.spotify.com/album/6hXYP3ljDTYrudMF9hyuLb) | 3:03 | 2022-05-11 |  |
+| [Future Love \(Reimagined by Pêtr Aleksänder\) \- Instrumental](https://open.spotify.com/track/3mug1SqX316NBMW9Gab4hv) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX), [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Clouds in the Mirror \(This Is Not a Safe Place Reimagined by Pêtr Aleksänder\) \[Instrumentals\]](https://open.spotify.com/album/5J1t0MUxKrixwW0RuyaBJb) | 3:03 | 2023-03-15 |  |
+| [Future Love \(Reimagined by Pêtr Aleksänder\) \- Instrumental](https://open.spotify.com/track/683mwxOizslObemAVOmvH4) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX), [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Clouds in the Mirror \(This Is Not a Safe Place Reimagined by Pêtr Aleksänder\) \[Instrumentals\]](https://open.spotify.com/album/6hXYP3ljDTYrudMF9hyuLb) | 3:03 | 2022-05-11 | 2023-04-30 |
 | [Future Love \- Reimagined by Pêtr Aleksänder instrumental](https://open.spotify.com/track/08ciGXj3HGPuY6jACqds83) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX), [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Clouds In The Mirror \(This Is Not A Safe Place reimagined by Pêtr Aleksänder\) \[Instrumental version\]](https://open.spotify.com/album/1ZreFzgLIQfsdYsn9fA01c) | 3:03 | 2021-11-19 | 2022-07-29 |
 | [Gjeilo: January](https://open.spotify.com/track/4hAPJblcXnHnJgfkxncY9e) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G), [Kristian Kvalvaag](https://open.spotify.com/artist/2gWimrrYeCW2NMr5yE8Xvh) | [January](https://open.spotify.com/album/7F8W8iX7Vddunbq8P3LwYM) | 2:57 | 2021-11-19 |  |
 | [Gjeilo: Manhattan Sunrise](https://open.spotify.com/track/7jT28bNawgEskE8tDLEBbd) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Gjeilo: Manhattan Sunrise](https://open.spotify.com/album/0N8AvE66Yxl0NLaqx6vcDl) | 3:38 | 2022-05-11 |  |

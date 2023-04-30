@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 
 > 日本でもおなじみの映画からの大ヒット曲から隠れた名曲まで、ディズニーミュージックの豊富なカタログからセレクトした公式プレイリスト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,451 likes - 123 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,481 likes - 123 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 | 122 | [Unbirthday Song](https://open.spotify.com/track/0W8jtYipop2puuuLaoRQbn) | [Camarata Chorus and Orchestra](https://open.spotify.com/artist/0iwhPeDYMRoXZYNvY8c4C9) | [Alice in Wonderland: Music from the Score, Conducted by Camarata](https://open.spotify.com/album/2gVjsjlMIrC4iXyRJF5IZj) | 2:12 |
 | 123 | [Ducky, Bunny & Tea](https://open.spotify.com/track/0SsRIXMqwZBRHlp1PdbXXn) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 4 \(Japanese Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3eKxK3GqHexeJvi8XLE2xD) | 2:16 |
 
-Snapshot ID: `MCw0YjI1M2RmZTgyM2M2MzdhZDIwODhlMTQ4OGJiNTI0YjM3MDhkMTE4`
+Snapshot ID: `MCxhYzc5MGY2M2I1Njk3ZDlkZGVhMWIxMzFmNjVmZmEzODdiYjU3Njdj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GxLXfvv01I.md) - [plain]
 
 > Music from and inspired by Wendell & Wild, curated by Tunde Adebimpe of TV on the Radio\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,082 likes - 45 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,089 likes - 45 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GxLXfvv01I.md) - [plain]
 | 25 | [Rot In the Doghouse](https://open.spotify.com/track/1W9QZolI15mIPJIvFIkX5S) | [Pure Hell](https://open.spotify.com/artist/2tvK2nmvNiOVxizxg7u7yT) | [Noise Addiction](https://open.spotify.com/album/2ohNwP1g0LYQeIA4l5kfnI) | 2:21 |
 | 26 | [Freakin Out](https://open.spotify.com/track/4rlcRCVPt5h4F8RSOa1IEp) | [Death](https://open.spotify.com/artist/6GLYG6CiVx1P5D8Qa6Ulyo) | […For The Whole World To See](https://open.spotify.com/album/1cRdIMuwJKSrsQXbp18jGZ) | 2:48 |
 | 27 | [Every Thing Is Over](https://open.spotify.com/track/7JAo1d99SEqlKLqKwSFdzM) | [Ngozi Family](https://open.spotify.com/artist/60Ec3tL0Z85Jp3f2CTUUu3) | [45,000 Volts](https://open.spotify.com/album/2A4RVobKY6UiftPJiLkGgr) | 4:43 |
-| 28 | [Beep Beep](https://open.spotify.com/track/4TH1GFk1VUpIVRxrxGpntC) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Black Beauty \(Deluxe Version\)](https://open.spotify.com/album/1pdjhcIuj7MOtvNX1NIdI9) | 2:13 |
+| 28 | [Beep Beep](https://open.spotify.com/track/2iRwO38p5iFSxD1Uc7sH8h) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Black Beauty \(Deluxe Version\)](https://open.spotify.com/album/6clmQiEbiFg1REgNGZlo3b) | 2:13 |
 | 29 | [Stranded](https://open.spotify.com/track/3pmlLEyIP75XR6yHbb82MV) | [The Gories](https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh) | [I Know You Be Houserockin'](https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p) | 2:05 |
 | 30 | [I'm Dead](https://open.spotify.com/track/7iZcO3nZZfx32MgT3Emy5W) | [Bam Bam](https://open.spotify.com/artist/23TGvRW3SRe3vOnxhHG4WG) | [Free Fall from Space](https://open.spotify.com/album/1o6DslTsIChyGQlJIZM6er) | 5:15 |
 | 31 | [I Am a Poseur](https://open.spotify.com/track/78Kve43aUj99QZCoIIK48h) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents](https://open.spotify.com/album/7nZ0F572fluFD4tQCFf3z7) | 2:33 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GxLXfvv01I.md) - [plain]
 | 44 | [Soul In A Jar](https://open.spotify.com/track/54Biz1kZa4d9fXZdgdaHqN) | [The Veldt](https://open.spotify.com/artist/7hcJOolMkn9jRAAhaVSFnu) | [Afrodisiac](https://open.spotify.com/album/5ByAKbC8SjGW2HF1q4V4ZD) | 4:48 |
 | 45 | [Goodbye Horses](https://open.spotify.com/track/7I5eQZFdlPV8LZWH2FeqaW) | [Q Lazzarus](https://open.spotify.com/artist/2EOrSEDPcZ9feKWSi8Fpdi) | [Goodbye Horses \- Single](https://open.spotify.com/album/1Fx6PDY57t5lCqXMvIEdfN) | 3:07 |
 
-Snapshot ID: `MCwxNzcwMWUxNDQ2NzhjY2ZkYTFjNGViMzgwYzFjNGIwOTAzMjU0NDI4`
+Snapshot ID: `MCw4YjljMmJjYzY4ZGQwODBmYWQ3YTZlNzNmNDc5ODU5ZDVmMTlkNmY0`

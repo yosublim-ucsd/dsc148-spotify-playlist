@@ -1320,7 +1320,7 @@
     {
       "album": {
         "name": "Trick",
-        "url": "https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4"
+        "url": "https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH"
       },
       "artists": [
         {
@@ -1331,6 +1331,24 @@
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 172813,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/4Q8BQJKGGSShiAPHyLEafN"
+    },
+    {
+      "album": {
+        "name": "Trick",
+        "url": "https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 172813,
       "name": "Memory",
       "url": "https://open.spotify.com/track/5krHe0jThPClniUNYLKNYn"

@@ -548,6 +548,24 @@
     {
       "album": {
         "name": "222",
+        "url": "https://open.spotify.com/album/1LkiSSGpC70DBh7UsGB0y2"
+      },
+      "artists": [
+        {
+          "name": "Odetta Hartman",
+          "url": "https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114208,
+      "name": "Creektime",
+      "url": "https://open.spotify.com/track/3KuHhzqt95E6hniRq3x95S"
+    },
+    {
+      "album": {
+        "name": "222",
         "url": "https://open.spotify.com/album/7xnWrKtdWfj3PjGmK6Tq1P"
       },
       "artists": [
@@ -558,7 +576,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 114208,
       "name": "Creektime",
       "url": "https://open.spotify.com/track/7Fb0Ow5b2PhklZujmyiSC7"

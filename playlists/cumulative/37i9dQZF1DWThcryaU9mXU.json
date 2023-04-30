@@ -1046,6 +1046,24 @@
     {
       "album": {
         "name": "Memphis Moonlight",
+        "url": "https://open.spotify.com/album/590d9qiOtgIds5a3u8UHxP"
+      },
+      "artists": [
+        {
+          "name": "Deb Ryder",
+          "url": "https://open.spotify.com/artist/6dc6gOm9RKiBTEpUGe1NZ3"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288856,
+      "name": "Love Is Gone",
+      "url": "https://open.spotify.com/track/6mn9a2i93IcbCF9oY8eQPo"
+    },
+    {
+      "album": {
+        "name": "Memphis Moonlight",
         "url": "https://open.spotify.com/album/190SoOYPW7oceXrstDTvp8"
       },
       "artists": [
@@ -1056,7 +1074,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 288856,
       "name": "Love Is Gone",
       "url": "https://open.spotify.com/track/72H7XGrB55Uh7IOxlPD6u6"

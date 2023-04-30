@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 
 > may include
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,536 likes - 118 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,756 likes - 118 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 68 | [A Hopeful Ending](https://open.spotify.com/track/6G3Rl9I1mqrok2EyPeQ0PX) | [Elliott Fullam](https://open.spotify.com/artist/2Qxud5LpPRMREqYpOX3DQw) | [A Hopeful Ending](https://open.spotify.com/album/6AO2WCT8r2bYtdralBbzsq) | 3:22 |
 | 69 | [Self Fulfilling Prophecy](https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Makes Me Sick Makes Me Smile](https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx) | 3:49 |
 | 70 | [get out](https://open.spotify.com/track/2bmYyUBGyxpnlXju3sBPys) | [Hysterla](https://open.spotify.com/artist/0G3bBeMDThPyX9dvj3Zy0X) | [There Is No Empty Space](https://open.spotify.com/album/5jvip1TnDykAUQy8ZYILGv) | 3:19 |
-| 71 | [If Blue Could Be Happiness](https://open.spotify.com/track/7ANZJD6wzlHplIIA7AjsUx) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [If Blue Could Be Happiness](https://open.spotify.com/album/6Urg55LAGNL5QKM0bz8g2v) | 5:07 |
+| 71 | [If Blue Could Be Happiness](https://open.spotify.com/track/7vyUxfyXy90lx5Yppudtrb) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [If Blue Could Be Happiness](https://open.spotify.com/album/0EB4zV2Vfi0FeM6jZNOO87) | 5:07 |
 | 72 | [See Through](https://open.spotify.com/track/6qxeTdWUB0dAvv2Gp2Qdy9) | [Bedlocked](https://open.spotify.com/artist/7wgq6QJrXri0Mn31MCZmnt) | [Bedlocked](https://open.spotify.com/album/7A0OdpSoqCpNMX8SbzbKKO) | 3:09 |
 | 73 | [Downtown](https://open.spotify.com/track/1ZMH9Y9CPg95epcXVrL2ZY) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Lo\-Tide](https://open.spotify.com/album/3Wv4vQmOfMXetzbp8gPo3U) | 3:08 |
 | 74 | [Fall With Me](https://open.spotify.com/track/5E1duMn3Gz5CtPeEF8Vty2) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [New Ways To Die](https://open.spotify.com/album/3H01vIyYQn5cYiL1QeFIGA) | 4:02 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 117 | [Bury Me](https://open.spotify.com/track/1RQ95XIUXRUNAZgMqSa3La) | [Laney Tripp](https://open.spotify.com/artist/2oHONIRqxXSaM6rAtMNps8) | [Small](https://open.spotify.com/album/0d9OmH7pZgv2FhGpJqZyvp) | 2:27 |
 | 118 | [Burns Effect](https://open.spotify.com/track/1UOmRFTqjNBLfKklHEw7CC) | [Tanlines](https://open.spotify.com/artist/7pW390CJdmhakvtcGZIqGP) | [Burns Effect](https://open.spotify.com/album/25jtHTJhG1J5TGoqLjwqax) | 3:26 |
 
-Snapshot ID: `MCw1ZDQ0MjVmM2E0ZDkyNDFkNzNhY2JmZTA5MzUwMWY2ZDg0Nzk2YjQ1`
+Snapshot ID: `MCw3MzZkYzJkYTExZTU5ZDU5ODYyZWQ4YTUyY2IwMWRkMjY3ZWMyYWQ2`

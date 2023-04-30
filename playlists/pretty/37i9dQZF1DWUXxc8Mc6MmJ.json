@@ -1,12 +1,12 @@
 {
   "description": "Relive your favourite K-Drama moments with these classic soundtracks.",
-  "num_followers": 616289,
+  "num_followers": 616899,
   "original_name": "Best of Korean Soundtracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjdkOGM4ZGI5Y2M3NjIyNDU3ZmYwNDg2NDBiNDc0NDkxN2NmNmM1",
+  "snapshot_id": "MCw2MzUyNzdiMDQ0YWVjM2Y1NTNiOTZjYjRiNTM5ZDk5ZmMyZjFlMTYz",
   "tracks": [
     {
       "added_at": "2023-03-13 05:57:41",
@@ -263,18 +263,18 @@
     {
       "added_at": "2023-03-13 05:57:41",
       "album": {
-        "name": "Hotel del Luna (Original Television Soundtrack) Pt.5",
-        "url": "https://open.spotify.com/album/2PdRNAz6mDmy9OR7hDCrH5"
+        "name": "Descendants Of The Sun Pt.1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1jLD6zV1si5YCQ7y1oI2hu"
       },
       "artists": [
         {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
         }
       ],
-      "duration_ms": 225785,
-      "name": "\ub0b4 \ub9d8\uc744 \ubcfc \uc218 \uc788\ub098\uc694",
-      "url": "https://open.spotify.com/track/2oVHb8wyg6oC2iNpGBNvx1"
+      "duration_ms": 205192,
+      "name": "ALWAYS",
+      "url": "https://open.spotify.com/track/4LsMjCB4qt4RnWcJBiHrA6"
     },
     {
       "added_at": "2023-03-13 05:57:41",
@@ -303,18 +303,18 @@
     {
       "added_at": "2023-03-13 05:57:41",
       "album": {
-        "name": "Descendants Of The Sun Pt.1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1jLD6zV1si5YCQ7y1oI2hu"
+        "name": "Hotel del Luna (Original Television Soundtrack) Pt.5",
+        "url": "https://open.spotify.com/album/2PdRNAz6mDmy9OR7hDCrH5"
       },
       "artists": [
         {
-          "name": "Yoon Mirae",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
         }
       ],
-      "duration_ms": 205192,
-      "name": "ALWAYS",
-      "url": "https://open.spotify.com/track/4LsMjCB4qt4RnWcJBiHrA6"
+      "duration_ms": 225785,
+      "name": "\ub0b4 \ub9d8\uc744 \ubcfc \uc218 \uc788\ub098\uc694",
+      "url": "https://open.spotify.com/track/2oVHb8wyg6oC2iNpGBNvx1"
     },
     {
       "added_at": "2023-03-13 05:57:41",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-03-13 05:57:41",
       "album": {
-        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.2",
-        "url": "https://open.spotify.com/album/0rd9znGGrqyiKk4KVRJvqq"
-      },
-      "artists": [
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
-        }
-      ],
-      "duration_ms": 253173,
-      "name": "Breath",
-      "url": "https://open.spotify.com/track/12cDuwg8jJ4N7RokLnFWfQ"
-    },
-    {
-      "added_at": "2023-03-13 05:57:41",
-      "album": {
         "name": "\ub0ad\ub9cc\ub2e5\ud130 \uae40\uc0ac\ubd80 2 (Original Television Soundtrack) Pt.1",
         "url": "https://open.spotify.com/album/1nuRFmSFwmnh9AVxvfgLJT"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 193930,
       "name": "\ub108\ub97c \uc0ac\ub791\ud558\uace0 \uc788\uc5b4",
       "url": "https://open.spotify.com/track/2KhNgn4w8LHxn3ybLoofh4"
+    },
+    {
+      "added_at": "2023-03-13 05:57:41",
+      "album": {
+        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.2",
+        "url": "https://open.spotify.com/album/0rd9znGGrqyiKk4KVRJvqq"
+      },
+      "artists": [
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "duration_ms": 253173,
+      "name": "Breath",
+      "url": "https://open.spotify.com/track/12cDuwg8jJ4N7RokLnFWfQ"
     },
     {
       "added_at": "2023-03-13 05:57:41",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-03-13 05:57:41",
       "album": {
-        "name": "HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 8",
-        "url": "https://open.spotify.com/album/0wjfQ5rrQIRFuSPvAbZBX4"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 275362,
-      "name": "Is It Still Beautiful",
-      "url": "https://open.spotify.com/track/4rrGSoMxUV0diSX4zpoCTf"
-    },
-    {
-      "added_at": "2023-03-13 05:57:41",
-      "album": {
         "name": "The Beauty Inside Pt. 6 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 193933,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi"
+    },
+    {
+      "added_at": "2023-03-13 05:57:41",
+      "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 8",
+        "url": "https://open.spotify.com/album/18CHwtIEjpfLZjWImSrjhu"
+      },
+      "artists": [
+        {
+          "name": "KIMSEJEONG",
+          "url": "https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu"
+        }
+      ],
+      "duration_ms": 238893,
+      "name": "All of My Days",
+      "url": "https://open.spotify.com/track/2RBuzNyLuV1jXU8qi84Hiy"
     }
   ],
   "unique_name": "Best of Korean Soundtracks",

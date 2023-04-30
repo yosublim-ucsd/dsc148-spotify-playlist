@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jessie Ware
 
-191 songs - 12 hr 5 min
+192 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [Light It Up](https://open.spotify.com/track/4NbaHNlUDO4ZUHEA3bPhrG) | [Shor Police](https://open.spotify.com/artist/58Wsx9FbcjSM8a6kzLf03W), [Clinton Cerejo](https://open.spotify.com/artist/2j9QVMZlqIj4Cb9UISBrXK), [Bianca Gomes](https://open.spotify.com/artist/1vM5cIvyQYTdXXXHl5IV6T) | [Light It Up](https://open.spotify.com/album/6hd0Nf6SxuPSFbXsY9flai) | 3:14 | 2023-03-03 |  |
 | [Light up on the Weekend](https://open.spotify.com/track/1QMKUF63vVQQxrs2JRADnw) | [Me & My Toothbrush](https://open.spotify.com/artist/5X83BYTRaFGSoKLknnIpWz) | [Light up on the Weekend](https://open.spotify.com/album/0VII0KsD4bEWDciyFPmY9T) | 3:38 | 2023-03-17 |  |
 | [Like You Do](https://open.spotify.com/track/63QhzuRjv4CwRiS5S2jbnd) | [Ken@Work](https://open.spotify.com/artist/2MEx3ga68IvvpzG5T0UlWj) | [Like You Do](https://open.spotify.com/album/0C6DTs2pX6d1DOV4OS6a9g) | 5:23 | 2022-11-18 | 2023-04-09 |
-| [Lionel Richie](https://open.spotify.com/track/1EfF2gJNuksJeHXLevKoFf) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI) | 4:27 | 2022-10-14 |  |
+| [Lionel Richie](https://open.spotify.com/track/12NoB9QOi50RHQl6C5xg3F) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/1onqdmFxHDk2sMBhYATWX3) | 4:27 | 2022-10-14 |  |
+| [Lionel Richie](https://open.spotify.com/track/1EfF2gJNuksJeHXLevKoFf) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI) | 4:27 | 2022-10-14 | 2023-04-30 |
 | [Living the Fantasy \- Edit](https://open.spotify.com/track/1YpxUaqkz9YOscGXTjkd5i) | [Pink Flamingo Rhythm Revue](https://open.spotify.com/artist/6Mm5YKoIXU6lHig5U82KFp), [Toribio](https://open.spotify.com/artist/1pvkxX6Q1JG8rnyBZ3t2MQ) | [Living the Fantasy](https://open.spotify.com/album/3CcdvFekEwCCuFAuIF683D) | 4:42 | 2022-04-29 | 2023-04-09 |
 | [Lost & Found](https://open.spotify.com/track/6A7HqsKxJMFhu445YhVEes) | [LOU'ANA](https://open.spotify.com/artist/6bmZe9cAGCwdOgriWbhhy7) | [Lost & Found](https://open.spotify.com/album/3HZENo8xClrt9dUyFubNrl) | 3:59 | 2022-11-25 |  |
 | [Lost Tonight](https://open.spotify.com/track/7yz9JSRAHicHMCzXUT4OBq) | [Roman Müller](https://open.spotify.com/artist/3nFw6mPGG5Uj2YS7IyaGEF), [Danny Dearden](https://open.spotify.com/artist/52kE0a8ilvPQop3NN7tplj) | [Lost Tonight](https://open.spotify.com/album/40EL8JYJETe50ES1GN39Kp) | 2:51 | 2022-05-20 |  |

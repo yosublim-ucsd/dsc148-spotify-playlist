@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: ÀIYÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,853 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,866 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,14 +46,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 36 | [Coocoocrazy](https://open.spotify.com/track/4BliVo1uZWjMDu6iP1S4Gy) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C), [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Coocoocrazy](https://open.spotify.com/album/3rRVEwcZU3BTbu2X7AmEPp) | 2:06 |
 | 37 | [Barcelona](https://open.spotify.com/track/2pihPAjIPg5EnitYFKqbYc) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/6KVigOS9Me4Hu3o9hEh9M0) | 3:37 |
 | 38 | [Quando Eu Falei Pra Ela](https://open.spotify.com/track/2HJ60YDqbGDvM6HCTqtXrh) | [Dani Bessa](https://open.spotify.com/artist/28jQ1K0U4zoUORrM8aNr29) | [Quando Eu Falei Pra Ela](https://open.spotify.com/album/3l8DE3zqXombjgdlhvLFpY) | 3:03 |
-| 39 | [Pra Trás](https://open.spotify.com/track/5Ke6ddTLTyu9GgzwcW8lD9) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/6KVigOS9Me4Hu3o9hEh9M0) | 3:11 |
+| 39 | [Pra Trás](https://open.spotify.com/track/6YMBLfjQilTvqdWpeUbySG) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/20EcuWdIk2tTveltWZm1Pc) | 3:11 |
 | 40 | [Essa Pessoa Esquisita](https://open.spotify.com/track/4RFxUmgvlVrXAjhrPGI89v) | [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH) | [Essa Pessoa Esquisita](https://open.spotify.com/album/5GgT8TquIycrVOjzSyC6yv) | 4:56 |
 | 41 | [A Sociedade dos Nerds Psicóticos](https://open.spotify.com/track/4YCJNxlr9rUdgXrGEkCLlx) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [A Sociedade dos Nerds Psicóticos](https://open.spotify.com/album/6mJ4cn0DAOhRbv6FiE1qfr) | 3:08 |
 | 42 | [Bateria Social](https://open.spotify.com/track/1wicDKdH62DL55tNHK9PhA) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Bateria Social](https://open.spotify.com/album/4jKJMo24vOWI38n5jJrR8S) | 2:59 |
 | 43 | [SOFRER DE AMOR](https://open.spotify.com/track/5KcMiPpmgsI4EEomWEXpKX) | [HENZEE](https://open.spotify.com/artist/5TSWnKJY6y03fawwqfkD54) | [VOANDO PELA ÓRBITA DA TERRA](https://open.spotify.com/album/4KMk5OAxc2qUIAb8duVAYh) | 4:08 |
 | 44 | [Dias da Juventude](https://open.spotify.com/track/64h7945jIYmp90J9OTNMHN) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Dias da Juventude](https://open.spotify.com/album/2Mw5D7bDq20kHVHawd2ovC) | 2:55 |
 | 45 | [Revés De Tudo](https://open.spotify.com/track/5gXCL3ne8NsLNKuiyN3jRm) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj) | [V](https://open.spotify.com/album/6bQw2aNY06eokyQwc2IaK4) | 4:21 |
-| 46 | [Tanto](https://open.spotify.com/track/6rkq6lwz7w2RK3qAFyJcZ7) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/5sIl6a1G8ivm7ht7mFDYP6) | 3:33 |
+| 46 | [Tanto](https://open.spotify.com/track/1uoOXeZ1KGdtYshGvLhIOF) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/20EcuWdIk2tTveltWZm1Pc) | 3:33 |
 | 47 | [Nunca Gostei de Quem Só Me Faz Bem](https://open.spotify.com/track/3uOZL9di0SNwf5JpYdgPMR) | [THAIS](https://open.spotify.com/artist/6HiZPv12Ycvmmg4AZQXz29) | [Nunca Gostei de Quem Só Me Faz Bem](https://open.spotify.com/album/0lnV0m5mAWwpX3vPbnHqD4) | 3:35 |
 | 48 | [Sem Medo de Mudar](https://open.spotify.com/track/7Jm4UVKzlHt2IFeTuZ9ksO) | [Wry](https://open.spotify.com/artist/3hUJEMJojO6OmzGWumutys) | [Sem Medo de Mudar](https://open.spotify.com/album/44OSmMHYllqbWo6DJX3FmL) | 3:15 |
 | 49 | [Apesar de Tudo](https://open.spotify.com/track/6AaxbPmGQXFSKvp2VCfHp6) | [AREN](https://open.spotify.com/artist/31QiBU59hNzPdCfPpRXykC), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Apesar de Tudo](https://open.spotify.com/album/0auf950HkV7rfUgEMG93pm) | 2:44 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 64 | [Leds do Japão](https://open.spotify.com/track/7BvivZBQZnRfKUABTyWnwl) | [Cidade Dormitório](https://open.spotify.com/artist/3hnNIsiWatVyHen6mz79sf) | [Leds do Japão](https://open.spotify.com/album/5fGPs5zSyeVMc5mwXNTZMp) | 5:27 |
 | 65 | [o caminho que há em mim](https://open.spotify.com/track/2HEu3ht1zRZTxQF6y26fmd) | [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA), [Lorena Chaves](https://open.spotify.com/artist/6xYIkRmqYk6u2mDSfetr31) | [o caminho que há em mim](https://open.spotify.com/album/4XfDE3WGVWVmALbfNWkfoi) | 2:54 |
 | 66 | [2 A.M.](https://open.spotify.com/track/34lKWobdEGO69CULhtiREz) | [Versaliz](https://open.spotify.com/artist/6KbgEz6ZShtrAiO5ieUvtK) | [2 A.M.](https://open.spotify.com/album/6Xn86yqgneXDChNJ9rHg49) | 2:45 |
-| 67 | [Colors](https://open.spotify.com/track/62gHq2qIQIPNpaPshaE9bs) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/6KVigOS9Me4Hu3o9hEh9M0) | 3:39 |
+| 67 | [Colors](https://open.spotify.com/track/0g9bYRhb9oDuAmxyt0MoBZ) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/20EcuWdIk2tTveltWZm1Pc) | 3:39 |
 | 68 | [Eclipse](https://open.spotify.com/track/3vOvr7KuYrDH0QqqKv0LYr) | [vicro](https://open.spotify.com/artist/1qJjqP6hPbHi8m1XWZDndF) | [Eclipse](https://open.spotify.com/album/3HGf7CQc2q2LU2MnuW8edv) | 3:50 |
 | 69 | [Noite Passada](https://open.spotify.com/track/5mfIhpw2TWDFaHdZ1GKo3J) | [THAIS](https://open.spotify.com/artist/6HiZPv12Ycvmmg4AZQXz29) | [Noite Passada](https://open.spotify.com/album/44XRxT09VtGgaBQcIBHMiU) | 2:45 |
 | 70 | [Alice](https://open.spotify.com/track/1Mt9t8HeHtqXFktUYATbdS) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Alice](https://open.spotify.com/album/1t8mCGvgHxiPqpw0ldQ5DF) | 3:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 74 | [Manhã](https://open.spotify.com/track/7IRFP25YUzoVPWuw9mN9KN) | [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl) | [Manhã](https://open.spotify.com/album/3DMOTpo9bk0QInn7SJrdD8) | 4:02 |
 | 75 | [Vinheta do Amor](https://open.spotify.com/track/7kyqMS0fovEDsDAh9EPmtc) | [Andrea Martins](https://open.spotify.com/artist/60Qv0Cy0hpcfkHcYI13kxG), [Rana Tosto](https://open.spotify.com/artist/1dQSTjiVNpS0Jym4eR5oG8) | [Pequenos Grandes Universos](https://open.spotify.com/album/2y3nwaAILvIxnMzWviRjmG) | 2:39 |
 
-Snapshot ID: `MCw1ZWY1YTY1YjZjNDFkNTNlMDZhOGE2MzcwOTZlNGQ1OTE0OTI1YzYw`
+Snapshot ID: `MCxmMjhmOGUyZjY4ZWE3ZmJlMzE4ZDdhMzUxZDNiODA0YjJhNTM2ZGQ3`

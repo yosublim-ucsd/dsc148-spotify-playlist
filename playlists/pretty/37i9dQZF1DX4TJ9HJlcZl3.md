@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 
 > Still yachting\. Cover: Young Gun Silver Fox
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,578 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,609 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,25 +17,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 | 7 | [drive ME crazy!](https://open.spotify.com/track/6luBKkFUt5wTwz7hpLhp12) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 3:49 |
 | 8 | [Back To Me](https://open.spotify.com/track/3Pko6euCnCPuwGy4TVK7o3) | [Super db](https://open.spotify.com/artist/6Fsj5gGio0BcLbbgrKh5IY) | [Back To Me](https://open.spotify.com/album/0d2wOE8aJIRJp6RJO5PJGd) | 4:31 |
 | 9 | [Who You Are](https://open.spotify.com/track/7olFqYuOkisFHqudWw4pVZ) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu), [The Moongirls](https://open.spotify.com/artist/7vqBwmmEgT8NctGLs3LxDm) | [Who You Are](https://open.spotify.com/album/7i8waz2ojMre9Ix47n1nGJ) | 3:56 |
-| 10 | [New Fascination](https://open.spotify.com/track/52iCnjPavObHl20sQ4t2Z6) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Hiding in Plain Sight](https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN) | 3:20 |
+| 10 | [New Fascination](https://open.spotify.com/track/4wugx5UcJaefwqsrqfRmDK) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Hiding in Plain Sight](https://open.spotify.com/album/2lJ4mGexbTGxmkF2OEejmE) | 3:20 |
 | 11 | [Kenny Blues](https://open.spotify.com/track/1XniHNy9PvQSBj9xUtUMw0) | [Rubber Band](https://open.spotify.com/artist/2XHnoChNd8VueTILbmnOlu) | [Kenny Blues](https://open.spotify.com/album/4Srn0HSrvlC9XuElk3izQT) | 3:08 |
 | 12 | [Still Got It Goin' On \- Radio Edit](https://open.spotify.com/track/0s29NsEfTyZQ5FFeQbVWWs) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Still Got It Goin' On \(Radio Edit\)](https://open.spotify.com/album/70IIzf8VDiLTvmKIVFQjzz) | 4:03 |
-| 13 | [Somebody's Watching You](https://open.spotify.com/track/2zPxnWGwRGGwsvG1OSqCqF) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI) | 3:35 |
+| 13 | [Somebody's Watching You](https://open.spotify.com/track/2zz7F5w83J4MySb9RX8WWY) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/1onqdmFxHDk2sMBhYATWX3) | 3:35 |
 | 14 | [Out of My Life](https://open.spotify.com/track/3BCkdDIFlp7g8ZlvHVJv5p) | [Maya Killtron](https://open.spotify.com/artist/00kg3zOGx3pJytYkDxK0q2) | [Persimmon](https://open.spotify.com/album/00EK1rMkjf99RTeXyzuCdN) | 4:00 |
 | 15 | [One Way Out](https://open.spotify.com/track/6Rvvecvi5x26AYsqY518MY) | [Heir](https://open.spotify.com/artist/2qFolZ0t9iDaOtgwvtMl2f) | [One Way Out](https://open.spotify.com/album/7GowjRTiHy1OtF0AQuqXVS) | 3:42 |
 | 16 | [Somewhere in New York](https://open.spotify.com/track/7aDCH8TKuA5auDD5nmSexb) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Somewhere in New York](https://open.spotify.com/album/3vnZq5RfAud6eglpxcc035) | 2:31 |
 | 17 | [Hottie & the Yachty](https://open.spotify.com/track/1RXRgsZKh7arq9vB7Dt1Es) | [superGOODthings](https://open.spotify.com/artist/7twKK7krUtniPlYv9i92vp) | [Yachty Rock Feelings, Vol\. 2](https://open.spotify.com/album/1TKNnr6wdF5OVEnVMAlDwf) | 3:18 |
 | 18 | [The World](https://open.spotify.com/track/2KnfMlqUIr2RLFIRlCQzhw) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [The World](https://open.spotify.com/album/3cqrOjDqjzb2bdFmhntP8t) | 3:06 |
-| 19 | [Coffee's on Me](https://open.spotify.com/track/3P2bJaakq9DyvGCco9Ddhx) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Coffee's on Me](https://open.spotify.com/album/0dFsQp0ZUhABhxJX0eeBeD) | 3:43 |
+| 19 | [Coffee's on Me](https://open.spotify.com/track/3t4mslZa0wJYrj2UjlsyPX) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/2iuPnIdqfKsze3urSvl7XZ) | [Coffee's on Me](https://open.spotify.com/album/4BE9UzrvSYUrtwj3pIoczL) | 3:43 |
 | 20 | [Valencia](https://open.spotify.com/track/0EGWhz27mOGqTyhisGL0cM) | [Emm Gryner](https://open.spotify.com/artist/7MXEntILebAfX9ByW6MObM) | [Valencia](https://open.spotify.com/album/1nSK9uUr9jJxOOQG27XVY4) | 3:57 |
 | 21 | [Shorebreak \(From Now On\)](https://open.spotify.com/track/2TuHrjiUrpAOGde9vZyT52) | [Coastal Elite](https://open.spotify.com/artist/7qbl8kBoOMQhHSI6dl3mmG) | [Music For Marinas: Pt\. 01](https://open.spotify.com/album/4o8qb2b52Z1Cro8qZtqrWZ) | 4:02 |
 | 22 | [Slide Don't Make a Cruise](https://open.spotify.com/track/45UXvdrRBjVorXYCUZvn72) | [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2) | [Slide Don't Make a Cruise](https://open.spotify.com/album/3zvTUVTUxGTQKCOemGmeLP) | 2:28 |
 | 23 | [Konichiwa](https://open.spotify.com/track/5qY5MMXsrlCmYj9X4qKqBX) | [Donny Benét](https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN) | [The Don](https://open.spotify.com/album/0drE0Xqo5yrSPirL3edUuX) | 4:37 |
-| 24 | [Back On The Music!](https://open.spotify.com/track/68PHkOQpABqaKdxRMhbzMg) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Back On the Music!](https://open.spotify.com/album/3ltD9P5ZMjlEl03fLGa7AB) | 3:27 |
+| 24 | [Back On The Music!](https://open.spotify.com/track/5QALJWWpHnigY6CRPdQqhu) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Back On the Music!](https://open.spotify.com/album/1gNBcewWJYihYyatTLv3GR) | 3:27 |
 | 25 | [Past the Point](https://open.spotify.com/track/28iT2AnlE73LIJI6RnjFhZ) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [Inside Voice](https://open.spotify.com/album/7znS7xCpnfBvXPIom6HAof) | 3:42 |
 | 26 | [I Don't Think We Should Wait](https://open.spotify.com/track/4V9DevlYomf95xOhfYqBlI) | [sir Was](https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT) | [Let The Morning Come](https://open.spotify.com/album/64BdSNPkLVXReRgCVNe29H) | 5:00 |
 | 27 | [Step](https://open.spotify.com/track/4tSfW5rFL596C52yfvygz2) | [Yacht Rock Revue](https://open.spotify.com/artist/5vJbbFDnRQql9BtSgR9vZH) | [Hot Dads in Tight Jeans](https://open.spotify.com/album/6UPvt5EJIuI3uCpnwgoOJ6) | 4:02 |
-| 28 | [Why I Came To California](https://open.spotify.com/track/6Cspj0PvUy7ItIGrmrun3u) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Why I Came To California](https://open.spotify.com/album/2CC8WIGTkXQRTwmetCjp22) | 4:39 |
+| 28 | [Why I Came To California](https://open.spotify.com/track/1uRf4FaOO13JB4GNUXBk4A) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Why I Came To California](https://open.spotify.com/album/1FMPS7GufT7lpzGFbVsuks) | 4:39 |
 | 29 | [Free](https://open.spotify.com/track/6kAOOamDflxqkrAWI6wZRR) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 5:27 |
 | 30 | [Rare Changes](https://open.spotify.com/track/1HRlVSpkT9NtMoPg8xohzY) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Rare Changes](https://open.spotify.com/album/7pue5cbfa0TUgCUth2KFr8) | 3:08 |
 | 31 | [Distant Calls](https://open.spotify.com/track/2QU1bg22cuTuNXUpQl389b) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [Flore Benguigui](https://open.spotify.com/artist/4taAxKHZ4ODt4MwWVPDmbw) | [Close to Your Heart](https://open.spotify.com/album/2BbAWGyJvddLWwzpzhA6lp) | 2:44 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 | 43 | [Show You The Way](https://open.spotify.com/track/2ZIHKdsXfOS3cZoGRD2vGL) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy), [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:34 |
 | 44 | [Hold On \(I Was Wrong\)](https://open.spotify.com/track/1lh13cQN0IwZDtjyXxrXFH) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Pop Therapy](https://open.spotify.com/album/4VvY6HIl5iFIAGhiFGamNR) | 3:43 |
 | 45 | [San Francisco Street](https://open.spotify.com/track/5pjWzUc1tVcewUTdDJd6Ce) | [Sun Rai](https://open.spotify.com/artist/6UOV42aOSJ5YrbYzLIfLwr) | [Pocket Music](https://open.spotify.com/album/5Y7du83uUhCUXobupkRCjN) | 4:26 |
-| 46 | [The Dandelion](https://open.spotify.com/track/23JJ79DtsITIxMfcgYvxjY) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [The Dandelion](https://open.spotify.com/album/5vat3mrJgQ9KbusWrt5kOM) | 3:39 |
+| 46 | [The Dandelion](https://open.spotify.com/track/37nRhMFqggMLfWOpTL2vgZ) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [The Dandelion](https://open.spotify.com/album/3fk6hBtA6FfDK79t0oWmqG) | 3:39 |
 | 47 | [I Wonder](https://open.spotify.com/track/2evv8aHR5IeiDTyGlmOOM3) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [I Wonder](https://open.spotify.com/album/4ju3ITVDX4cauQCRUcl8FK) | 4:11 |
 | 48 | [Day & Night](https://open.spotify.com/track/09iktHjNiTzCX6YT5XKScx) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Holybrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Intimate Fonk](https://open.spotify.com/album/2KMTKEk9FZccRGCWhehiKV) | 3:36 |
 | 49 | [I Could Use A Miracle](https://open.spotify.com/track/1GQjRQXL6YcxLhlNAuOkiJ) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Late Checkout](https://open.spotify.com/album/4Fj3lyL3PAxuYfCg7KQRS8) | 4:08 |
 | 50 | [Emily](https://open.spotify.com/track/0gAvRZbaMrnUsH8bmo8eg8) | [State Cows](https://open.spotify.com/artist/5O1GkdCKBSYzioJb4Jysiv), [Fredrik Lundgren](https://open.spotify.com/artist/5yRJ7bDOd8MvTsM8kaaWNz) | [High and Dry](https://open.spotify.com/album/6msgsUb3ZihJbdWcaSc7fd) | 3:54 |
 
-Snapshot ID: `MCw1MGEzMzM5Yjc1OTE2ZmIyMTYwZTNjYjUzZTc3YjVjZDFhMWU0MDAw`
+Snapshot ID: `MCw1OThjODJiM2YwYTdiMGMzZGI4OTAzNTM2MTliZjYzNWVjZTY1NWJj`

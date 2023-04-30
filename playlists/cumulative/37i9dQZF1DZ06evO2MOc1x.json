@@ -703,6 +703,24 @@
     },
     {
       "album": {
+        "name": "Sweet Forgiveness",
+        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Louise - 2008 Remaster",
+      "url": "https://open.spotify.com/track/5hAXzCx8xvI15AcsHwEkEl"
+    },
+    {
+      "album": {
         "name": "The 25th Anniversary Rock & Roll Hall Of Fame Concerts",
         "url": "https://open.spotify.com/album/53AiGaRJym6bxyEkk7WCKr"
       },
@@ -1294,7 +1312,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 229693,
       "name": "Two Lives - 2008 Remaster",
       "url": "https://open.spotify.com/track/5WDhUWoBMq0f03Nxl1yYpt"

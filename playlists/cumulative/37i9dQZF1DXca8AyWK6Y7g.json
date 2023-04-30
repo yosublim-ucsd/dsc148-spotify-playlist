@@ -1277,6 +1277,24 @@
     },
     {
       "album": {
+        "name": "american jesus",
+        "url": "https://open.spotify.com/album/7D970R6nLDmuw6XlpsceFW"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168899,
+      "name": "american jesus",
+      "url": "https://open.spotify.com/track/6gnjE8oBkosBIEZroEjq4I"
+    },
+    {
+      "album": {
         "name": "Anchor",
         "url": "https://open.spotify.com/album/0wfJCxMu61yNmW9QOcxtDV"
       },
@@ -13488,7 +13506,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 189214,
       "name": "I Wish I Didn't Love You",
       "url": "https://open.spotify.com/track/6JuD8oygJeA3kfUH7BqXZg"
@@ -15026,6 +15044,24 @@
       "duration_ms": 178888,
       "name": "killer queen",
       "url": "https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi"
+    },
+    {
+      "album": {
+        "name": "Manic Dream Pixie",
+        "url": "https://open.spotify.com/album/37v0q6s1IB9jSCPMIpFwFN"
+      },
+      "artists": [
+        {
+          "name": "Peach PRC",
+          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174334,
+      "name": "Kinda Famous",
+      "url": "https://open.spotify.com/track/4YwpoXjq8jy5aWLU2cP4uU"
     },
     {
       "album": {
@@ -17302,7 +17338,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 163269,
       "name": "Mars",
       "url": "https://open.spotify.com/track/7Km5QlfgnM75S04D1YgQRE"
@@ -19924,6 +19960,24 @@
       "duration_ms": 166687,
       "name": "Only A Fool (with Pink Sweat$)",
       "url": "https://open.spotify.com/track/4iWKQu7GcqRl1aVll2PD20"
+    },
+    {
+      "album": {
+        "name": "Only Girl",
+        "url": "https://open.spotify.com/album/2Qp5Ode31zeYK4qEP2mctl"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159320,
+      "name": "Only Girl",
+      "url": "https://open.spotify.com/track/17fL4slDQP8YopAZHWyiR3"
     },
     {
       "album": {
@@ -28470,7 +28524,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 173910,
       "name": "Universe",
       "url": "https://open.spotify.com/track/1FRvoiI6aHCJS8aGUgjVBV"

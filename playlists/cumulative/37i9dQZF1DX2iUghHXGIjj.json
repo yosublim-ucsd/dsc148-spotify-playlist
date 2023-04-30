@@ -788,10 +788,28 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 250706,
       "name": "Don't Fish in My Sea",
       "url": "https://open.spotify.com/track/02wAtZaUqHt147UtEBR4LO"
+    },
+    {
+      "album": {
+        "name": "Don't Fish in My Sea",
+        "url": "https://open.spotify.com/album/30wHEPCp9NiMwHz3RPUfK3"
+      },
+      "artists": [
+        {
+          "name": "Dani Wilde",
+          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250706,
+      "name": "Don't Fish in My Sea",
+      "url": "https://open.spotify.com/track/79TcTsLTPlEgWRl7zbytR1"
     },
     {
       "album": {

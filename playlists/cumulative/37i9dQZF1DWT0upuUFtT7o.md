@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: MINOVA
 
-1,435 songs - 3 day 6 hr 25 min
+1,437 songs - 3 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,7 +353,8 @@
 | [Don't Mention It](https://open.spotify.com/track/248Fzx78gOAjXqcATD8jI8) | [Aaron Percy](https://open.spotify.com/artist/1OCGT4W29rXiHvDzMHkJyu), [Ackerman](https://open.spotify.com/artist/5eYDxNdq1HD6iZj1NNLGZC) | [Don't Mention It](https://open.spotify.com/album/4XEzMWmgtU6k4tJaWevI3F) | 2:16 | 2022-07-20 | 2022-08-04 |
 | [don't u even cry?](https://open.spotify.com/track/7ARdtYq12d2dDYgGUUJtmr) | [\_less](https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of) | [don't u even cry?](https://open.spotify.com/album/0ZQOYZEcEJGez6HtkMCmXl) | 4:05 | 2023-02-08 | 2023-02-16 |
 | [Don't You Ever Give Me Up!](https://open.spotify.com/track/4aU3T2nevnWJjiexY19nou) | [eisenach](https://open.spotify.com/artist/0RO451V3eGOiatc3IQXtG7) | [Don't You Ever Give Me Up!](https://open.spotify.com/album/2egXAYU39p8EfQl9TXV1yA) | 2:43 | 2022-05-04 | 2022-05-26 |
-| [Done With the Day](https://open.spotify.com/track/46YuNuyJLXXSxA7kWDe5ns) | [7ebra](https://open.spotify.com/artist/425zLTPcp673F9ybc3Zcja) | [Done With the Day](https://open.spotify.com/album/0L1TKfZ2ARx1Izb7aeKa7Q) | 3:30 | 2023-04-12 |  |
+| [Done With the Day](https://open.spotify.com/track/39pdupp7fN6IP4wyjjesBy) | [7ebra](https://open.spotify.com/artist/425zLTPcp673F9ybc3Zcja) | [Done With the Day](https://open.spotify.com/album/4DPT9VjE6Rrli1IeVDEEG6) | 3:30 | 2023-04-12 |  |
+| [Done With the Day](https://open.spotify.com/track/46YuNuyJLXXSxA7kWDe5ns) | [7ebra](https://open.spotify.com/artist/425zLTPcp673F9ybc3Zcja) | [Done With the Day](https://open.spotify.com/album/0L1TKfZ2ARx1Izb7aeKa7Q) | 3:30 | 2023-04-12 | 2023-04-30 |
 | [DONT FEEL A THING](https://open.spotify.com/track/2HGDq8PHoEPMBPDwKgkyJW) | [L\. Martin](https://open.spotify.com/artist/7FaK75sCygoTpw3RE9F9e8) | [DONT FEEL A THING](https://open.spotify.com/album/4q7Y7byKkZFi9rgK7T5rtN) | 1:14 | 2022-10-05 | 2022-11-10 |
 | [Dorothy Bay](https://open.spotify.com/track/7G5oTNVGDW8GfxGZIzyg5O) | [Tiny Ruins](https://open.spotify.com/artist/4G4W57CTe85hPEGZ6hJ0Du) | [Dorothy Bay](https://open.spotify.com/album/7EL8nb9GJjHuubRXbEKJR5) | 4:52 | 2023-03-01 | 2023-03-23 |
 | [Doubt](https://open.spotify.com/track/4K8gz1tcKH6O4LqeGGE22Z) | [Josephine](https://open.spotify.com/artist/701TYQepg9Imy2Co7guJab) | [Doubt](https://open.spotify.com/album/57EECdzobk90BUSW3uxKs5) | 3:40 | 2022-05-19 | 2022-06-30 |
@@ -1307,7 +1308,8 @@
 | [Transients](https://open.spotify.com/track/39Wa42w288HXCa5I2qkHKD) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Transients](https://open.spotify.com/album/149kG0Ln8mP316svShU5fk) | 3:16 | 2022-03-02 | 2023-01-12 |
 | [Trendsetter](https://open.spotify.com/track/21ekT2xc27flYgcKm7Pce4) | [Colin's Music](https://open.spotify.com/artist/5YjVu4NZ1Gigua36jS01KW) | [Trendsetter](https://open.spotify.com/album/4h93TeDuXDFOU4Uy7CQ151) | 2:21 | 2022-03-09 | 2022-04-13 |
 | [True](https://open.spotify.com/track/7p0bap6ZeeJeEfu1A6scxL) | [Will Lauzon](https://open.spotify.com/artist/0Q0ybbyUEPSbA8UrCt4ZNT) | [True](https://open.spotify.com/album/6E3GNe2syLxZHXdZeSP0sg) | 3:38 | 2023-03-08 | 2023-03-29 |
-| [True Love is Freedom](https://open.spotify.com/track/1uE7iaPkG6UOWGetsxD5zX) | [Jimmy Whispers](https://open.spotify.com/artist/0fhv5pwSh099mHYF9b3Cpn) | [True Love is Freedom](https://open.spotify.com/album/7qDv226QcAOMybIpzNequM) | 1:47 | 2023-04-12 |  |
+| [True Love is Freedom](https://open.spotify.com/track/03gQD1vSbHbBmfSvpaA9C4) | [Jimmy Whispers](https://open.spotify.com/artist/0fhv5pwSh099mHYF9b3Cpn) | [True Love is Freedom](https://open.spotify.com/album/0lqjcEcxb2swqcQfRx0OAU) | 1:47 | 2023-04-12 |  |
+| [True Love is Freedom](https://open.spotify.com/track/1uE7iaPkG6UOWGetsxD5zX) | [Jimmy Whispers](https://open.spotify.com/artist/0fhv5pwSh099mHYF9b3Cpn) | [True Love is Freedom](https://open.spotify.com/album/7qDv226QcAOMybIpzNequM) | 1:47 | 2023-04-12 | 2023-04-30 |
 | [Truman](https://open.spotify.com/track/5OagYkkgI5ko13uqTlbfuk) | [Lance Redeker](https://open.spotify.com/artist/1F8HRVc2bSFoyrzKZgRh7M) | [Truman](https://open.spotify.com/album/46VLPMyF84k0km6aWeIYBP) | 3:28 | 2021-12-01 | 2022-01-13 |
 | [Trust Me](https://open.spotify.com/track/1vWGRKPv90Fg2i8iUtsGhb) | [Eliza Niemi](https://open.spotify.com/artist/6UntKZ32JDgJV35Nmk5gDi) | [Staying Mellow Blows](https://open.spotify.com/album/3aGj95AYpFM8g4kdkAHzHc) | 2:47 | 2022-08-10 | 2022-08-25 |
 | [Try Me Out](https://open.spotify.com/track/72Rp7lHlNmKyfMtXQUqlIW) | [crêpe girl](https://open.spotify.com/artist/46dxD5cIrBqD171NQ84rVz) | [Try Me Out](https://open.spotify.com/album/5W5V6m0x9p3ggpPP3fqfaN) | 3:23 | 2022-06-08 | 2022-06-30 |

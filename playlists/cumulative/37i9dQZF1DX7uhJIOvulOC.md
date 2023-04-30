@@ -4,13 +4,14 @@
 
 > There are 7 billions ways to listen to this playlist...Listen to all the tracks from Kaleidoscope, now streaming on Netflix.
 
-25 songs - 1 hr 34 min
+26 songs - 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ahmad's Blues](https://open.spotify.com/track/12UvbdBibLyCpwPvQMlQEB) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [Out Of Different Bags](https://open.spotify.com/album/3gdUM13NhBDjKDVXyKOioK) | 3:05 | 2023-01-12 |  |
 | [Better Red Than Dead](https://open.spotify.com/track/4uq0TaIF5WhNM91piRhXP8) | [Dominic Lewis](https://open.spotify.com/artist/3L0d5AOt1pZZ2HxjJ15p2U) | [Kaleidoscope \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5NneE2ZErwmfooc3nyj5y3) | 2:01 | 2023-01-12 |  |
-| [Better Things](https://open.spotify.com/track/1lDrb5N8RmfD1USPQYPpUu) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [I Learned the Hard Way](https://open.spotify.com/album/4FZCwaWGcFqd2CBiJUcHnx) | 3:39 | 2023-01-12 |  |
+| [Better Things](https://open.spotify.com/track/1lDrb5N8RmfD1USPQYPpUu) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [I Learned the Hard Way](https://open.spotify.com/album/4FZCwaWGcFqd2CBiJUcHnx) | 3:39 | 2023-01-12 | 2023-04-30 |
+| [Better Things](https://open.spotify.com/track/2dwzy3ZOiNbJ8TBGmVb8bw) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [I Learned the Hard Way](https://open.spotify.com/album/7tsqjPwOhgPOWHgp9RHYi6) | 3:39 | 2023-01-12 |  |
 | [Can You Get To That](https://open.spotify.com/track/5lc9L9FeLBwlJPgEbq9uEw) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Maggot Brain](https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm) | 2:49 | 2023-01-12 |  |
 | [Fitzpleasure](https://open.spotify.com/track/7DdXf9x75iEVCHWfoRwRuR) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:39 | 2023-01-12 |  |
 | [Fly](https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [Floored](https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic) | 4:04 | 2023-01-12 |  |

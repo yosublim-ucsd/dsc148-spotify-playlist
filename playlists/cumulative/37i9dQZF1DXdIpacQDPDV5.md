@@ -4,7 +4,7 @@
 
 > The best of today's dance hits\. Cover: Tiësto
 
-777 songs - 1 day 20 hr 48 min
+779 songs - 1 day 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,8 @@
 | [Does She Know](https://open.spotify.com/track/242pTkgoQTlXM8LnhMZ0XU) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Does She Know](https://open.spotify.com/album/7i6Nl1F5YiWfLeSMLsa8fH) | 2:19 | 2022-12-09 | 2022-12-25 |
 | [Does She Know](https://open.spotify.com/track/3cOAo5alVOUMjWVmc5yf3H) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Does She Know](https://open.spotify.com/album/4wmcEGKJfMo4hZwDgT5O2C) | 2:19 | 2022-12-09 | 2023-03-04 |
 | [Don't Forget My Love](https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Don't Forget My Love](https://open.spotify.com/album/1vtsrwjdXkuAmojBCw2mtv) | 3:19 | 2022-02-11 | 2022-06-04 |
-| [Don't Leave Me Now](https://open.spotify.com/track/2jKjw8HsaYfrma8mRWqNOW) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Don't Leave Me Now](https://open.spotify.com/album/7GoEqIPUNcAnLBr066hjhN) | 2:57 | 2023-03-31 |  |
+| [Don't Leave Me Now](https://open.spotify.com/track/1WGvNVxbI8cFRYQQt1aOJi) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Don't Leave Me Now](https://open.spotify.com/album/5YRZesyFDjPo9RUGwp2VFD) | 2:57 | 2023-04-28 |  |
+| [Don't Leave Me Now](https://open.spotify.com/track/2jKjw8HsaYfrma8mRWqNOW) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Don't Leave Me Now](https://open.spotify.com/album/7GoEqIPUNcAnLBr066hjhN) | 2:57 | 2023-03-31 | 2023-04-30 |
 | [Don't Matter To Me](https://open.spotify.com/track/0CaIPtHg6HVTS5W7OsQXL5) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [Don't Matter To Me](https://open.spotify.com/album/6DldFsrJ1fLHQcQS6bMulS) | 3:45 | 2023-02-17 | 2023-04-01 |
 | [Don’t Keep Me Waiting](https://open.spotify.com/track/1aEHWqvtZ1JIBUl1loQBDn) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Don’t Keep Me Waiting](https://open.spotify.com/album/03fU1mpcpIJ70JaKzwmbbF) | 3:29 | 2022-03-04 | 2022-06-04 |
 | [Don’t Let Me Let Go \(with ILLENIUM & EVAN GIIA\)](https://open.spotify.com/track/251aCFbFK1f4Jkil96E5g1) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Don’t Let Me Let Go \(with ILLENIUM & EVAN GIIA\)](https://open.spotify.com/album/5fGpsmRrs2q0XWY8lo4xaA) | 3:25 | 2022-07-08 | 2022-10-15 |
@@ -490,7 +491,8 @@
 | [One More Time](https://open.spotify.com/track/1lXyxleB814ehGUXzsWNXu) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [One More Time](https://open.spotify.com/album/20OfYbIgQy1xQNLbnrbgLM) | 2:28 | 2022-07-15 | 2022-10-15 |
 | [One More Time](https://open.spotify.com/track/16qzW0XywVLTpAhCwPH8y6) | [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [One More Time](https://open.spotify.com/album/32INDtZDynyEP0PqpLiOog) | 2:40 | 2022-04-22 | 2022-05-14 |
 | [One Three Nine](https://open.spotify.com/track/3fDASogRbq1vEZGLFcN9QA) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [One Three Nine](https://open.spotify.com/album/1NZ4fJ0HxdQ4L4X418SpLi) | 2:48 | 2023-02-17 |  |
-| [One Touch](https://open.spotify.com/track/6DURQC9m8Rt8SjL4ZKp0Eq) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/4VCCLsmrSghXSM8dxyhVWo) | 3:00 | 2023-04-07 |  |
+| [One Touch](https://open.spotify.com/track/3g4wkFSYsU7Qc7bPjaJEGV) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/21lJDSVSuhyKBqkzxn9gAE) | 3:00 | 2023-04-28 |  |
+| [One Touch](https://open.spotify.com/track/6DURQC9m8Rt8SjL4ZKp0Eq) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/4VCCLsmrSghXSM8dxyhVWo) | 3:00 | 2023-04-07 | 2023-04-30 |
 | [Only You](https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw) | [Only You](https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ) | 2:25 | 2022-03-25 | 2022-05-14 |
 | [Origin](https://open.spotify.com/track/5MmDAFQa8SP9bA5J3f5vYc) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Shall Ocin](https://open.spotify.com/artist/6OP6u8D2Icl5qmrCbyTY7M), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [Origin](https://open.spotify.com/album/5Z6mUYSbLGMoRyLq8JAuj1) | 7:40 | 2022-07-22 | 2022-09-17 |
 | [Original Sin](https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Original Sin](https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW) | 2:51 | 2022-02-04 | 2022-04-29 |

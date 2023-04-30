@@ -7709,6 +7709,24 @@
     },
     {
       "album": {
+        "name": "Hiding in Plain Sight",
+        "url": "https://open.spotify.com/album/2lJ4mGexbTGxmkF2OEejmE"
+      },
+      "artists": [
+        {
+          "name": "Drugdealer",
+          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222573,
+      "name": "Madison",
+      "url": "https://open.spotify.com/track/10WDCU0ey0CJXE43aaJVcm"
+    },
+    {
+      "album": {
         "name": "Madison",
         "url": "https://open.spotify.com/album/6VilDmxMVVi7KBpdOFYKMo"
       },
@@ -7720,7 +7738,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 222573,
       "name": "Madison",
       "url": "https://open.spotify.com/track/6Bz7VRGI74d4SjXZVPbqEQ"

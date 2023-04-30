@@ -4,7 +4,7 @@
 
 > Since 1962, <a href="https://www.casitadelcampo.net/">Casita Del Campo</a> has been a refuge to Los Angeles' LGTBQQIA+ community\. Like their environment, the songs picked are original, energetic, and diverse just like their patrons!
 
-56 songs - 4 hr 17 min
+57 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Sweet Thing](https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Rufus Featuring Chaka Khan](https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX) | 3:20 | 2021-05-31 |  |
 | [That's the Way \- Remaster](https://open.spotify.com/track/1ZUv3ISx2nFaz0JimVdcoT) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 5:37 | 2021-05-31 |  |
 | [Tiene Sabor, Tiene Sazón](https://open.spotify.com/track/0Tixgd5JE2mFLm2LGpeEhY) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica \(Deluxe Version\)](https://open.spotify.com/album/00ncSDWdPuc4EkTblc0mEH) | 4:33 | 2021-05-31 | 2022-07-29 |
-| [Tiene Sabor, Tiene Sazón](https://open.spotify.com/track/7CPu17eltuCnWj3QZtlI8Z) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica](https://open.spotify.com/album/7yjJJnG1eUZRJkwHcjqg8Y) | 4:33 | 2021-05-31 |  |
+| [Tiene Sabor, Tiene Sazón](https://open.spotify.com/track/6OghUc8FwEZOvEszyVud28) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica](https://open.spotify.com/album/5OfBaqQtoYQc3i0LgKVAEC) | 4:33 | 2021-05-31 |  |
+| [Tiene Sabor, Tiene Sazón](https://open.spotify.com/track/7CPu17eltuCnWj3QZtlI8Z) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica](https://open.spotify.com/album/7yjJJnG1eUZRJkwHcjqg8Y) | 4:33 | 2021-05-31 | 2023-04-30 |
 | [To Prove My Love](https://open.spotify.com/track/3UTGUg0joTS5EB8YAD7W28) | [Ned Doheny](https://open.spotify.com/artist/59QKG3eYCCmqC6SqUwXvSw) | [Prone](https://open.spotify.com/album/0AIDXpbImFcertAo6sI1ou) | 4:46 | 2021-05-31 |  |
 | [Volver, Volver](https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Arriba Huentitan](https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9) | 3:00 | 2021-05-31 |  |
 

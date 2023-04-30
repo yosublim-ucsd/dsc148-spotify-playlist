@@ -4,7 +4,7 @@
 
 > Reggae music for dogs that know what’s up.
 
-88 songs - 5 hr 29 min
+89 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Three Little Birds](https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:00 | 2020-01-10 |  |
 | [Three Little Birds](https://open.spotify.com/track/7G50pcN2iGxpJGVY34otOK) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Hopeful Music](https://open.spotify.com/album/2KLYTP6Lm6Sgsc4oCxWYO4) | 3:00 | 2020-01-10 | 2022-11-13 |
 | [Till Then](https://open.spotify.com/track/4avroLEAQBpzWSKqx2xCme) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Nothing More to Say](https://open.spotify.com/album/0huf3sYKbAoFaY1S83ezyX) | 3:20 | 2020-01-10 | 2022-07-29 |
-| [Till Then](https://open.spotify.com/track/7IEaxDFdRJyEpKVYV6iAds) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Nothing More to Say](https://open.spotify.com/album/2QjhLePTnaWv2eBUbCwceA) | 3:21 | 2020-01-10 |  |
+| [Till Then](https://open.spotify.com/track/56o2Y7yCupDH4uqn4vayMc) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Nothing More to Say](https://open.spotify.com/album/5oGtxusqxowETVnVokdqME) | 3:21 | 2020-01-10 |  |
+| [Till Then](https://open.spotify.com/track/7IEaxDFdRJyEpKVYV6iAds) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Nothing More to Say](https://open.spotify.com/album/2QjhLePTnaWv2eBUbCwceA) | 3:21 | 2020-01-10 | 2023-04-30 |
 | [Waiting In Vain](https://open.spotify.com/track/58Zt987fK6gWxtO0MwEzPn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 4:16 | 2020-01-10 |  |
 | [Waiting In Vain](https://open.spotify.com/track/54BA9VfKHAj61wOITNnw1W) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/3q8y9MBuOdOzwJb8QJfwBG) | 4:16 | 2020-01-10 | 2022-07-29 |
 | [Waiting In Vain](https://open.spotify.com/track/5EL4dhor6ikd6Q46TdaDVn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(Deluxe Edition\)](https://open.spotify.com/album/04VRfesff9bgDA2Q8J2oDo) | 4:16 | 2020-01-10 | 2022-11-13 |

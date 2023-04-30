@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop from the U.S. Cover: Speak",
-  "num_followers": 21785,
+  "num_followers": 21795,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTEyMzgwNmYwMGE3OWVkNGIxMWVjZTMxYWE1NjI0ZDJjMzY2NDcx",
+  "snapshot_id": "MCw1YTA3Mjk3MzBiOWFiYmI1ZDMxMjdjNTUxNTEyYzMxNjA3ZDQxMDky",
   "tracks": [
     {
       "added_at": "2023-03-10 22:02:53",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/7v6fz2Sq43ZReewY3UOUOP"
-      },
-      "artists": [
-        {
-          "name": "Lil Maru",
-          "url": "https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L"
-        }
-      ],
-      "duration_ms": 135154,
-      "name": "High",
-      "url": "https://open.spotify.com/track/2nkPcGygBk0S7RTsWdFLr6"
-    },
-    {
-      "added_at": "2023-03-10 22:02:53",
-      "album": {
         "name": "Parkside Santa",
         "url": "https://open.spotify.com/album/6oKqbmIOIR3y4PS717x9KR"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 139594,
       "name": "Red on My Mind",
       "url": "https://open.spotify.com/track/0XnVY1Ws3KQrRa6yMiS0Cs"
+    },
+    {
+      "added_at": "2023-03-10 22:02:53",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/7v6fz2Sq43ZReewY3UOUOP"
+      },
+      "artists": [
+        {
+          "name": "Lil Maru",
+          "url": "https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L"
+        }
+      ],
+      "duration_ms": 135154,
+      "name": "High",
+      "url": "https://open.spotify.com/track/2nkPcGygBk0S7RTsWdFLr6"
     },
     {
       "added_at": "2023-03-10 22:02:53",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
+        "name": "Vivid Dreams",
+        "url": "https://open.spotify.com/album/3iQ7hzgHsPdk6u6aIGpJtK"
+      },
+      "artists": [
+        {
+          "name": "Young Drummer Boy",
+          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "Vivid Dreams",
+      "url": "https://open.spotify.com/track/4vCPmZ6DG3g5ain2NnleN4"
+    },
+    {
+      "added_at": "2023-03-10 22:02:53",
+      "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/7DqVpahFrtFI1cFHBvMdXr"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 140697,
       "name": "Glory",
       "url": "https://open.spotify.com/track/545661gwwNUrfWaRlxGB8z"
-    },
-    {
-      "added_at": "2023-03-10 22:02:53",
-      "album": {
-        "name": "Vivid Dreams",
-        "url": "https://open.spotify.com/album/3iQ7hzgHsPdk6u6aIGpJtK"
-      },
-      "artists": [
-        {
-          "name": "Young Drummer Boy",
-          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "Vivid Dreams",
-      "url": "https://open.spotify.com/track/4vCPmZ6DG3g5ain2NnleN4"
     },
     {
       "added_at": "2023-03-10 22:02:53",
@@ -703,6 +703,30 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
+        "name": "V\u00e1monos",
+        "url": "https://open.spotify.com/album/59CAbE0DUQ5arPot1kIopV"
+      },
+      "artists": [
+        {
+          "name": "Kap G",
+          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
+        },
+        {
+          "name": "Feefa",
+          "url": "https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C"
+        },
+        {
+          "name": "Chris Obannon",
+          "url": "https://open.spotify.com/artist/5CXhiclAFvebleCXKTcrf4"
+        }
+      ],
+      "duration_ms": 231338,
+      "name": "V\u00e1monos",
+      "url": "https://open.spotify.com/track/0fK7iPZioWaRem2Mo0XQTy"
+    },
+    {
+      "added_at": "2023-03-10 22:02:53",
+      "album": {
         "name": "Money in the Shoebox , $tonehardt & Dexter Cayn)",
         "url": "https://open.spotify.com/album/0e2WqMgxffeQDR5V29cAfk"
       },
@@ -727,30 +751,6 @@
       "duration_ms": 175280,
       "name": "Money in the Shoebox , $tonehardt & Dexter Cayn)",
       "url": "https://open.spotify.com/track/4tMk49Bo8eEj5wNQ2dLiwY"
-    },
-    {
-      "added_at": "2023-03-10 22:02:53",
-      "album": {
-        "name": "V\u00e1monos",
-        "url": "https://open.spotify.com/album/59CAbE0DUQ5arPot1kIopV"
-      },
-      "artists": [
-        {
-          "name": "Kap G",
-          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
-        },
-        {
-          "name": "Feefa",
-          "url": "https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C"
-        },
-        {
-          "name": "Chris Obannon",
-          "url": "https://open.spotify.com/artist/5CXhiclAFvebleCXKTcrf4"
-        }
-      ],
-      "duration_ms": 231338,
-      "name": "V\u00e1monos",
-      "url": "https://open.spotify.com/track/0fK7iPZioWaRem2Mo0XQTy"
     },
     {
       "added_at": "2023-03-10 22:02:53",

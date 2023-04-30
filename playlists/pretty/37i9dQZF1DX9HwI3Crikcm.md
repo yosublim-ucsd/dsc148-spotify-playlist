@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 
 > Relive last night's fun with jigs and reels out of Ireland – alongside trad tracks inspired and influenced by Celtic traditions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,622 likes - 86 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,728 likes - 86 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 | 48 | [The Expensive Sneeze](https://open.spotify.com/track/1UgtNfZCpLe4j5GpnGcTNE) | [Ciorras](https://open.spotify.com/artist/3OQszkeQalikyme5ZUfDjt) | [Silver Lining](https://open.spotify.com/album/0sCsBfSGmDXDrZRDpQjy1j) | 3:44 |
 | 49 | [The Tinkers Stick, Sunny Banks, The Virginia](https://open.spotify.com/track/4IgpOrxfmzRauwAtN6ZlL5) | [Catherine McEvoy, Caoimhín Ó Raghallaigh & Mícheál Ó Raghallaigh](https://open.spotify.com/artist/7qDcrK5WQkopDJocbfKGPK) | [Comb Your Hair and Curl It](https://open.spotify.com/album/3uxyNfYxJXAWbXsf2fRNBr) | 3:43 |
 | 50 | [Kilfenora Reels: Connemara Stocking \- The Westmeath Hunt \- A Fair Wind](https://open.spotify.com/track/7BCAaDDuesyBhgQwKpJmnN) | [Kilfenora Fiddle Ceili Band](https://open.spotify.com/artist/008wJbpZnkHRPcykr2hUye) | [Irish Traditional Fiddle Music \- Reels and Jigs](https://open.spotify.com/album/6uI2reVtNsqZitFIiQ8r4e) | 2:51 |
-| 51 | [Hardiman The Fiddler](https://open.spotify.com/track/2OAVXyAahuRTwTs1zzHh9p) | [Bob Brozman, John McSherry & Dónal O’Connor](https://open.spotify.com/artist/5wVFg1a2Ijgy6BZH3DnjQE) | [Six Days In Down](https://open.spotify.com/album/3rUkCKi7QubHYkrdhSzCjF) | 3:53 |
+| 51 | [Hardiman The Fiddler](https://open.spotify.com/track/1xzdiqwHJFo3BZYYnnvGXf) | [Bob Brozman, John McSherry & Dónal O’Connor](https://open.spotify.com/artist/5wVFg1a2Ijgy6BZH3DnjQE) | [Six Days In Down](https://open.spotify.com/album/00EEOIL3WppsWZurxRowxU) | 3:53 |
 | 52 | [Gan Ainm / The Stormy Night / Paddy Cronin's](https://open.spotify.com/track/4IsFOllla28RTBpOp2FRgO) | [Téada](https://open.spotify.com/artist/1VBQhu7f3xYuYPxCo0ddQF) | [Ceol & Cuimhne \(Music & Memory\)](https://open.spotify.com/album/1y6gUYBfHfPgJYccX7t83s) | 4:37 |
 | 53 | [The Walls of Liscarroll \(Jig\)](https://open.spotify.com/track/7uTMMxIG7S6CtNlSShD9Qb) | [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL) | [The Chieftains 1](https://open.spotify.com/album/7id2ew7OGhTvm1YIZHlu14) | 2:43 |
 | 54 | [Cooley's Jig](https://open.spotify.com/track/7yY6EPqQsRMO3DYI19wDaX) | [Noel Hill](https://open.spotify.com/artist/3mOxdrvnnFAGKWE29vW7qx), [Tony MacMahon](https://open.spotify.com/artist/1suQ05WMwsctRnmYZrh9CG) | [I gCnoc Na Graí](https://open.spotify.com/album/0M6T36GQGzhrlk89SINXvG) | 3:18 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 | 85 | [Reels: Kylebrack Ramblers / Graf Spee](https://open.spotify.com/track/6tWVMFlSwTPVOgeWBQMapG) | [The Shaskeen Ceili Band](https://open.spotify.com/artist/6mgGW54iUPDPt07UwID5Kn) | [Pure Irish Céilí](https://open.spotify.com/album/0lVaM9oQ9SvE6K0P39vsNI) | 3:29 |
 | 86 | [Last Night's Fun / The Chattering Magpie / The Black Haired Lass / The Commodore](https://open.spotify.com/track/3FnKOidmaJJzdP52XBWZ5f) | [Billy McComiskey](https://open.spotify.com/artist/0NPDkWpnQnjowxXozNrWeR) | [The Girls Won't Leave The Boys Alone](https://open.spotify.com/album/45q1rezuYBdULvvO2Oh1Bn) | 4:53 |
 
-Snapshot ID: `MCwyNTEwNjBjZTg3YThlZTFiOTk3MGI3ZmRhM2JhYjRhZjFjNzhjYThk`
+Snapshot ID: `MCw3YTU4NmYxNTVlNmE5N2NjOWJmOWQxYzI3MzFjZTk3NGJjN2NmZjli`

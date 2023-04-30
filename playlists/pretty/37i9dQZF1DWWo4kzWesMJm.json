@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 70040,
+  "num_followers": 70133,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2E1ZWY2OGYzNjMzZjZiOTllYjA1ZmU0ZDEwMGI2ODc0MWZkNmEy",
+  "snapshot_id": "MCxkNGYyOGMyYTE3ODRhOGQyODYxNGI0ODhmMTc5M2U4YzMyNjcwMWEw",
   "tracks": [
     {
       "added_at": "2023-03-20 12:34:15",
@@ -455,18 +455,22 @@
     {
       "added_at": "2023-03-20 12:34:15",
       "album": {
-        "name": "C\u0153ur",
-        "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
+        "name": "Le chemin",
+        "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
       },
       "artists": [
         {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+          "name": "Kyo",
+          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
+        },
+        {
+          "name": "Sita",
+          "url": "https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF"
         }
       ],
-      "duration_ms": 218133,
-      "name": "Le reste",
-      "url": "https://open.spotify.com/track/73oVDoxJHbqOIkZ0C9ir31"
+      "duration_ms": 210706,
+      "name": "Le chemin (feat. Sita)",
+      "url": "https://open.spotify.com/track/5T37zS90GkaMHRj5uNaJpb"
     },
     {
       "added_at": "2023-03-20 12:34:15",
@@ -495,6 +499,22 @@
     {
       "added_at": "2023-03-20 12:34:15",
       "album": {
+        "name": "C\u0153ur",
+        "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "duration_ms": 218133,
+      "name": "Le reste",
+      "url": "https://open.spotify.com/track/73oVDoxJHbqOIkZ0C9ir31"
+    },
+    {
+      "added_at": "2023-03-20 12:34:15",
+      "album": {
         "name": "Tout savoir",
         "url": "https://open.spotify.com/album/3KqSaDCCk1NIj4s4adfFTa"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 196506,
       "name": "Tout savoir",
       "url": "https://open.spotify.com/track/5hquKiRUsOh0079PvO7EJN"
-    },
-    {
-      "added_at": "2023-03-20 12:34:15",
-      "album": {
-        "name": "Le chemin",
-        "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
-      },
-      "artists": [
-        {
-          "name": "Kyo",
-          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
-        },
-        {
-          "name": "Sita",
-          "url": "https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF"
-        }
-      ],
-      "duration_ms": 210706,
-      "name": "Le chemin (feat. Sita)",
-      "url": "https://open.spotify.com/track/5T37zS90GkaMHRj5uNaJpb"
     },
     {
       "added_at": "2023-03-20 12:34:15",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-03-20 12:34:15",
       "album": {
-        "name": "Br\u00fbler le feu",
-        "url": "https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN"
-      },
-      "artists": [
-        {
-          "name": "Juliette Armanet",
-          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
-        }
-      ],
-      "duration_ms": 164893,
-      "name": "Tu me Play",
-      "url": "https://open.spotify.com/track/1HFU10aC4Bzflxqb7jZnLq"
-    },
-    {
-      "added_at": "2023-03-20 12:34:15",
-      "album": {
         "name": "Camelia Jordana",
         "url": "https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 166493,
       "name": "Non non non (Ecouter Barbara)",
       "url": "https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc"
+    },
+    {
+      "added_at": "2023-03-20 12:34:15",
+      "album": {
+        "name": "Br\u00fbler le feu",
+        "url": "https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN"
+      },
+      "artists": [
+        {
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+        }
+      ],
+      "duration_ms": 164893,
+      "name": "Tu me Play",
+      "url": "https://open.spotify.com/track/1HFU10aC4Bzflxqb7jZnLq"
     },
     {
       "added_at": "2023-03-20 12:34:15",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-03-20 12:34:15",
       "album": {
-        "name": "Osez Josephine",
-        "url": "https://open.spotify.com/album/0653WmIcH7ZSTas8txIZgM"
-      },
-      "artists": [
-        {
-          "name": "Alain Bashung",
-          "url": "https://open.spotify.com/artist/6y1aZyP40077De3neGJD2b"
-        }
-      ],
-      "duration_ms": 178173,
-      "name": "Osez Jos\u00e9phine",
-      "url": "https://open.spotify.com/track/3XJG4svqKswsr2ixWNgjg1"
-    },
-    {
-      "added_at": "2023-03-20 12:34:15",
-      "album": {
         "name": "Grain de sable",
         "url": "https://open.spotify.com/album/7GMBb8Rly9ZSCIBMlN8Jhw"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 229053,
       "name": "Serre-moi",
       "url": "https://open.spotify.com/track/2uxTJ3a5PfQK4YuWOXPwFm"
+    },
+    {
+      "added_at": "2023-03-20 12:34:15",
+      "album": {
+        "name": "Osez Josephine",
+        "url": "https://open.spotify.com/album/0653WmIcH7ZSTas8txIZgM"
+      },
+      "artists": [
+        {
+          "name": "Alain Bashung",
+          "url": "https://open.spotify.com/artist/6y1aZyP40077De3neGJD2b"
+        }
+      ],
+      "duration_ms": 178173,
+      "name": "Osez Jos\u00e9phine",
+      "url": "https://open.spotify.com/track/3XJG4svqKswsr2ixWNgjg1"
     },
     {
       "added_at": "2023-03-20 12:34:15",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-03-20 12:34:15",
       "album": {
-        "name": "Unis vers l'uni",
-        "url": "https://open.spotify.com/album/3NsxgHg4EJL5qCmxeUVbns"
-      },
-      "artists": [
-        {
-          "name": "Michel Jonasz",
-          "url": "https://open.spotify.com/artist/1xbjT6BnZk2j6PZhf5VZR7"
-        }
-      ],
-      "duration_ms": 182047,
-      "name": "La bo\u00eete de jazz",
-      "url": "https://open.spotify.com/track/74TeGcp8PfGffFx9CjR3H0"
-    },
-    {
-      "added_at": "2023-03-20 12:34:15",
-      "album": {
         "name": "Bruxelles",
         "url": "https://open.spotify.com/album/5znqZbAnfZtufdkJEyMcNN"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 198853,
       "name": "Emm\u00e8ne-moi",
       "url": "https://open.spotify.com/track/2Ji7vtyxrzN3ZlxDzm3MX4"
+    },
+    {
+      "added_at": "2023-03-20 12:34:15",
+      "album": {
+        "name": "Unis vers l'uni",
+        "url": "https://open.spotify.com/album/3NsxgHg4EJL5qCmxeUVbns"
+      },
+      "artists": [
+        {
+          "name": "Michel Jonasz",
+          "url": "https://open.spotify.com/artist/1xbjT6BnZk2j6PZhf5VZR7"
+        }
+      ],
+      "duration_ms": 182047,
+      "name": "La bo\u00eete de jazz",
+      "url": "https://open.spotify.com/track/74TeGcp8PfGffFx9CjR3H0"
     },
     {
       "added_at": "2023-03-20 12:34:15",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-03-20 12:34:15",
       "album": {
-        "name": "Chaleur Humaine",
-        "url": "https://open.spotify.com/album/326nKcn9e238BwduPDzld7"
+        "name": "M\u00e9lancolie heureuse - Nouvelle impression",
+        "url": "https://open.spotify.com/album/1qXI0l7V93M0KCinTOZwcW"
       },
       "artists": [
         {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+          "name": "Tim Dup",
+          "url": "https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE"
         }
       ],
-      "duration_ms": 239554,
-      "name": "Saint Claude (Version Fran\u00e7aise)",
-      "url": "https://open.spotify.com/track/5Ai8XBxieq1CR263UdhGdF"
+      "duration_ms": 199120,
+      "name": "Mourir vieux (avec toi)",
+      "url": "https://open.spotify.com/track/7EwK4HWRAunokum0nNo7il"
     }
   ],
   "unique_name": "Bleu Blanc Route",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 
 > Raw, emotional, and acoustic\. Cover: Charlie Musselwhite
 
-[Spotify](https://open.spotify.com/user/spotify) - 669,182 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 669,169 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 | 20 | [The World Can Be So Cold](https://open.spotify.com/track/0U1M0MLvbw0ZZQDR2BXELd) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY) | 3:26 |
 | 21 | [All True Man](https://open.spotify.com/track/7BSI3B5WACBr9Q4QFSo9hu) | [Big Head Todd and The Monsters](https://open.spotify.com/artist/1lOQRP0UJWmpoDWBa8PB0B), [Ronnie Baker Brooks](https://open.spotify.com/artist/1R61o55489TKal84OYdcnI) | [All True Man](https://open.spotify.com/album/1fJYp4Hby3qVjElqhemDpc) | 4:04 |
 | 22 | [Am I Wrong](https://open.spotify.com/track/3tvyQCSm1QcWURgGvygvke) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Keb' Mo'](https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t) | 2:18 |
-| 23 | [Don't Fish in My Sea](https://open.spotify.com/track/02wAtZaUqHt147UtEBR4LO) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Don't Fish in My Sea](https://open.spotify.com/album/4p4TdPZ6H8k7fp8ozuS6M4) | 4:10 |
+| 23 | [Don't Fish in My Sea](https://open.spotify.com/track/79TcTsLTPlEgWRl7zbytR1) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Don't Fish in My Sea](https://open.spotify.com/album/30wHEPCp9NiMwHz3RPUfK3) | 4:10 |
 | 24 | [Death Letter](https://open.spotify.com/track/516maf2eNSuB5pTB1NedlN) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [Covered Tracks: Vol\. 2](https://open.spotify.com/album/41VD7CenbVd2qOPNLZiE5K) | 4:23 |
 | 25 | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/album/3DO5TaKuot0DPdfrDxZxZl) | 2:30 |
 | 26 | [I'm Ready](https://open.spotify.com/track/2B2TzJyCst1rdWxCjfPCPk) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [The Cause of It All](https://open.spotify.com/album/0vFXHwYTLDliBGEMDFEqoh) | 2:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 | 99 | [Keep Your Lamp Trimmed And Burning](https://open.spotify.com/track/5LTMzb6lrWkdgNl4CNwfwx) | [Corey Harris](https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH) | [Between Midnight And Day](https://open.spotify.com/album/6fuRNpnOE7QgyT1IcdvpED) | 2:54 |
 | 100 | [What They Say](https://open.spotify.com/track/1Ksvwp4L3vKsWOJP9j1QoA) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [Hundred Dollar Valentine](https://open.spotify.com/album/2SbPOPZJhWcY5bf81e4PIV) | 2:46 |
 
-Snapshot ID: `MCw0YWQ3ZWZiM2NkZDlkMjFmZmU4YzBmZTI1ZjMzYzBkZDQ2OTc0OTAx`
+Snapshot ID: `MCxkMDNhMzIyY2RhNDU2YjgzNTQyYzc2YWJkN2Y5NzU3ODIxZTBiYjE5`

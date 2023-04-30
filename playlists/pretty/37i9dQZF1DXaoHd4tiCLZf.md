@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,267 likes - 216 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,473 likes - 216 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 71 | [Maintenant je suis un voyou](https://open.spotify.com/track/4IkmUm6jKsbpjCeueZTxe1) | [Bruno Leys](https://open.spotify.com/artist/2PczkstWFQX9fDNcZmh7AD) | [Maintenant je suis un voyou](https://open.spotify.com/album/2Gj7CGzupJ66a287wKo3VF) | 2:38 |
 | 72 | [Never Get It Right \(Shura Remix\)](https://open.spotify.com/track/58SeDNMb4niHLPL6GqbVY0) | [Ines Rae](https://open.spotify.com/artist/40SsHWSC0ThXW2Gnq9KEBi), [Kinouste](https://open.spotify.com/artist/2un5TAKo9cznZJdamHazJr), [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Never Get It Right \(Shura Remix\)](https://open.spotify.com/album/7sOsATCDwhe0xuborcuCeI) | 4:01 |
 | 73 | [French Boy \(with Say Lou Lou\)](https://open.spotify.com/track/2edxaDRP64og12jbINed3G) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [PrimaDonna vol\. 1](https://open.spotify.com/album/1aet7y0wiLscYjhuqwPwNo) | 4:43 |
-| 74 | [Just a Clown](https://open.spotify.com/track/5JJTagJDBRxOwBDPuvVLB7) | [Primer](https://open.spotify.com/artist/0RZs9ZOXkINVtC9rnV24MI) | [Incubator](https://open.spotify.com/album/4H2VMSzj5yp80XLKaCmEzZ) | 3:42 |
+| 74 | [Just a Clown](https://open.spotify.com/track/5ITwotbiHvdjt7HgLtOb7V) | [Primer](https://open.spotify.com/artist/0RZs9ZOXkINVtC9rnV24MI) | [Incubator](https://open.spotify.com/album/2UBP5LTRPorrjG65xfmeNS) | 3:42 |
 | 75 | [Don't You Know I Want](https://open.spotify.com/track/1OxneB9YE9auNVUBs4eVlK) | [slowblood](https://open.spotify.com/artist/7fvspPcBE70SFwIJ3bBWC1) | [Don't You Know I Want](https://open.spotify.com/album/3vA7LZ25OSgsrbOR8zIVEK) | 5:15 |
 | 76 | [Sur la piste de danse](https://open.spotify.com/track/6UQqaQsnu9w0xfvI8SjCHp) | [Laure Briard](https://open.spotify.com/artist/01kBbtD0A37qtJ9EdA3Fm1) | [Sur la piste de danse](https://open.spotify.com/album/0at4gCqwXWf5lDktHsYilh) | 3:21 |
 | 77 | [Le Tuto](https://open.spotify.com/track/7CQWOTljGv2tc9leEARsTa) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf), [Jacques](https://open.spotify.com/artist/55i4AnS7E58y41UwE0vvQh) | [Le Tuto](https://open.spotify.com/album/6DMKItPu49cvlJmiKC0qdL) | 3:30 |
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 215 | [De Profundis \- Ni fleurs, ni couronnes](https://open.spotify.com/track/7bq5NjSUunGM6cBp94V7ba) | [Delphine Volange](https://open.spotify.com/artist/703CwQT63v0gseZQtuWg6l) | [Monceau](https://open.spotify.com/album/2GBQ1OsbFD5tagJeaySQHj) | 4:07 |
 | 216 | [Non, je ne regrette rien](https://open.spotify.com/track/0D4gIeyrMtxOAvCWsTHN9x) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Edith Piaf \- The Best Of](https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q) | 2:22 |
 
-Snapshot ID: `MCw2MzIwNTQ2YTI0NGViZTkzYTI3MTQ3NDI1ZjliMzg1ZmYzZDM1NmM2`
+Snapshot ID: `MCxkNjA2ZWVhNjYxNzEyYzgyYzk1ZDhkNjlmYWE3MjhkZWJjNGEwZjBj`

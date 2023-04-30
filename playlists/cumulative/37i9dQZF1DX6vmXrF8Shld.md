@@ -4,7 +4,7 @@
 
 > The best and finest '60s Funk\. Cover: The Meters.
 
-79 songs - 4 hr 2 min
+80 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Tighten Up, Pt\. 1](https://open.spotify.com/track/6IIcvtmuGpWIasqOpyGlyY) | [Archie Bell & The Drells](https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH) | [Tighten Up](https://open.spotify.com/album/5zsOpnZyZidaZo5KXL0xzr) | 3:16 | 2020-12-01 |  |
 | [Tramp](https://open.spotify.com/track/2gFfG8Ick2LGOzFHiWOV22) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm), [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [King & Queen](https://open.spotify.com/album/0BMj7v9E7i5YzKsZ7HJ9YX) | 3:01 | 2020-12-01 |  |
 | [Twenty Five Miles](https://open.spotify.com/track/0vstoapfzoOlqD8zurG2uJ) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [25 Miles](https://open.spotify.com/album/1M4ZJAYy0baYzSsqCgfNNO) | 3:18 | 2020-12-01 |  |
-| [Walkin' the Dog](https://open.spotify.com/track/3GE3rDxFuME3cNXbhKCzQn) | [Lee Dorsey](https://open.spotify.com/artist/0En4EEcDMJ5kaUCf1aZ9js) | [Northen Soul: Super Rare Tracks](https://open.spotify.com/album/3JDSmJKeSBxmhOyriqgnjP) | 2:20 | 2020-12-01 |  |
+| [Walkin' the Dog](https://open.spotify.com/track/3GE3rDxFuME3cNXbhKCzQn) | [Lee Dorsey](https://open.spotify.com/artist/0En4EEcDMJ5kaUCf1aZ9js) | [Northen Soul: Super Rare Tracks](https://open.spotify.com/album/3JDSmJKeSBxmhOyriqgnjP) | 2:20 | 2020-12-01 | 2023-04-30 |
+| [Walkin' the Dog](https://open.spotify.com/track/7qCGnmcKlsSKmYZOIU2qkD) | [Lee Dorsey](https://open.spotify.com/artist/0En4EEcDMJ5kaUCf1aZ9js) | [Northen Soul: Super Rare Tracks](https://open.spotify.com/album/5NXZ3RTsjeFsxrhx7igY3E) | 2:20 | 2020-12-01 |  |
 | [We Got More Soul](https://open.spotify.com/track/5FrCb3dn8zBDQidICpI4Q5) | [Dyke & The Blazers](https://open.spotify.com/artist/5dORjaew9A94A25xvTMiTg) | [Dyke's Greatest Hits \- The Complete Singles](https://open.spotify.com/album/1zv9Oq5IrsdEuOzor9DxZj) | 3:19 | 2020-12-01 |  |
 | [What a Man](https://open.spotify.com/track/0Mv1xjyuShMGyByoh3LiIs) | [Laura Lee](https://open.spotify.com/artist/0ApoVi8QEh35twomSXh9TX) | [Most Wanted 60s R&B](https://open.spotify.com/album/6dX1EE2aMbOS4lwqz9xzDv) | 2:53 | 2020-12-01 | 2022-11-14 |
 | [What a Man \- Remastered Single Version](https://open.spotify.com/track/0pcsr9n7Pn6XOfzcvoxRB4) | [Laura Lee](https://open.spotify.com/artist/0ApoVi8QEh35twomSXh9TX) | [Atlantic Unearthed: Soul Sisters](https://open.spotify.com/album/1wThKZtNlrDOWOsBh5aal4) | 2:55 | 2020-12-01 |  |

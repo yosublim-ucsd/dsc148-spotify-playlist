@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakNfvv7h2fY.md) - [plain]
 
 > Comforting Blues to warm the soul when there’s no point going outside.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,522 likes - 75 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,555 likes - 75 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakNfvv7h2fY.md) - [plain]
 | 31 | [Rainin' In My Heart](https://open.spotify.com/track/0t5IteKDnugg7tZKEh8fYS) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [Sings Raining In My Heart](https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg) | 2:32 |
 | 32 | [Your Mind Is on Vacation](https://open.spotify.com/track/1GEf45ad9tT9njeDYw9WPx) | [Mose Allison](https://open.spotify.com/artist/0sN4enVJwylJKEXZlSbgsm) | [I Don't Worry About A Thing](https://open.spotify.com/album/58vFtbiyFPwDKwdhRI5D4V) | 2:37 |
 | 33 | [Chop! Chop!](https://open.spotify.com/track/0GKR7py5cFS598Qr2ueDxq) | [Charles Williams](https://open.spotify.com/artist/15592lDspISn6JFzKnmcQk) | [Trees, Grass and Things](https://open.spotify.com/album/0b8cDv6nV54vVcQQz3ycu8) | 4:37 |
-| 34 | [Avalon Blues](https://open.spotify.com/track/2LMHSxhp5CahCt9DJVLX0F) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Avalon Blues](https://open.spotify.com/album/5Er6ubiIavSvQNQI5cwXYm) | 4:23 |
+| 34 | [Avalon Blues](https://open.spotify.com/track/4scvylI3GR9z1yB0DE2uKM) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [The 1928 Sessions](https://open.spotify.com/album/3hud1G2BDhrEdp88Io25r5) | 4:23 |
 | 35 | [I Need Your Love](https://open.spotify.com/track/3yBEPXPZ8XcQrrMZRPLlNF) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Lucille](https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s) | 2:22 |
 | 36 | [Gonna' Lay Down 'N Die \(Slow Blues\)](https://open.spotify.com/track/3mYM9TVLjh0yNvQtppIxQM) | [Floating Bridge](https://open.spotify.com/artist/16CDfPbczuc5E0vYGnvIS4) | [Floating Bridge](https://open.spotify.com/album/0pmkZo7NGfqidiVeRy9dvf) | 7:33 |
 | 37 | [Stormy Monday](https://open.spotify.com/track/4YTye7nsIfBVvZd3StP47V) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Stumble: The Cotillion Years](https://open.spotify.com/album/4Ii4myWRvLobrV5Kdl9ikT) | 4:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakNfvv7h2fY.md) - [plain]
 | 74 | [Sittin' Here Thinkin](https://open.spotify.com/track/5HrztaUeeQaraA5IsBWzm6) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Hooker 'N Heat](https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3) | 4:07 |
 | 75 | [Broke and Hungry](https://open.spotify.com/track/2LkthyImwECrhIQDmygSfC) | [Hubert Sumlin](https://open.spotify.com/artist/3Dogy4uGWEG13OyOJmw3R9) | [My Guitar and Me \(Blues Reference\)](https://open.spotify.com/album/0KojeQ3QJNd05QIeSHQ3z3) | 5:51 |
 
-Snapshot ID: `MCxjMTc2M2YzZGRkM2JjMDU5NzdjZTA4MmJjZmVjYmIyYTllMjA1YjNk`
+Snapshot ID: `MCw4YjJlMzY3YmZiMGFhODMwOGJjY2M2YTc4ZDFhMmIxNDU5MDRjY2I1`

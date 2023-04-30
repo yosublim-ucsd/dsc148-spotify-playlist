@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,776,858 likes - 250 songs - 13 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,778,160 likes - 250 songs - 13 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,7 +170,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 160 | [Gas at the Station](https://open.spotify.com/track/2c4XeVg1yhog37K7Zkjups) | [Taggy Matcher](https://open.spotify.com/artist/2u7HXyOB94OUobf3fQtMtF), [John Milk](https://open.spotify.com/artist/1bXvCJUlFp4OJi89vZnNVI) | [Singasong](https://open.spotify.com/album/6ME2dfYLPusdWevj5vsula) | 4:12 |
 | 161 | [Here I Am Baby](https://open.spotify.com/track/3jpZREysE0JZ0TiCCEew3H) | [Al Brown](https://open.spotify.com/artist/7vFFeBpCQpQq4YYm9qsAKk), [Skin, Flesh & Bones](https://open.spotify.com/artist/5Ps29lnKjoB9Jo3Y78cYm2) | [Don Letts Presents the Mighty Trojan Sound](https://open.spotify.com/album/6tdXGLpZui0hUcaAk4F6Ya) | 4:11 |
 | 162 | [Come on Home](https://open.spotify.com/track/2M1ixmKMIyYQmt0w8B3BdX) | [Joe Higgs](https://open.spotify.com/artist/5XgHWn04awuFqBm0R5lLFX) | [Life of Contradiction](https://open.spotify.com/album/220whHL1BKA7zpV2XTy8jo) | 3:02 |
-| 163 | [Till Then](https://open.spotify.com/track/7IEaxDFdRJyEpKVYV6iAds) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Nothing More to Say](https://open.spotify.com/album/2QjhLePTnaWv2eBUbCwceA) | 3:21 |
+| 163 | [Till Then](https://open.spotify.com/track/56o2Y7yCupDH4uqn4vayMc) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Nothing More to Say](https://open.spotify.com/album/5oGtxusqxowETVnVokdqME) | 3:21 |
 | 164 | [Mr\. Bojangles](https://open.spotify.com/track/7ouKT7R4BgwvAtoyzR8gCc) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [1000 Volts of Holt \(Deluxe Edition\)](https://open.spotify.com/album/1bRaF6zDhFQuPqBxozEqcs) | 5:18 |
 | 165 | [Police In Helicopter](https://open.spotify.com/track/0mD19MC6H0OzHvEUADHypU) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [Police In Helicopter](https://open.spotify.com/album/7naj9A5QZbYxYbj9Susywq) | 3:39 |
 | 166 | [Guns Of Brixton](https://open.spotify.com/track/2Rrkgr8Kd0XGNbilwip6r8) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Rebirth](https://open.spotify.com/album/1WztlPbmhfAOqYtD81SaKR) | 3:38 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 249 | [Monkey Man](https://open.spotify.com/track/4g4BE9VeeQwPOvQ5sJTpj2) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 3:46 |
 | 250 | [The Tide Is High \- Stereo Version](https://open.spotify.com/track/7056gVvC7P3PpltHgippd2) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 2:41 |
 
-Snapshot ID: `MCw3ZWNiYWMwMWM5ZTA1ZjdiMjhmY2FlN2EzODE0N2Y1YzY2M2UxZGJl`
+Snapshot ID: `MCw4MTNkMjA3N2QyMDU3NWRiM2RlMTBhYjJiMjMxNThlODlkNzI4YTM2`

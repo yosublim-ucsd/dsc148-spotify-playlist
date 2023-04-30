@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 
 > <a href="spotify:artist:0zo109NM3S7CqHpvlXwqEN">VTSS</a>' favorite tracks\. Updated regularly\. Curated by VTSS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,526 likes - 52 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,552 likes - 52 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 | 6 | [Afraid Of Heights](https://open.spotify.com/track/7bpv1dfryadgJElaDcFPrC) | [sjush](https://open.spotify.com/artist/08VPLy0O7UbXhk9y7bJAIx) | [Afraid Of Heights](https://open.spotify.com/album/5zNE67NaC07wB3BTOtYvXG) | 5:19 |
 | 7 | [Whaa](https://open.spotify.com/track/7dqCouXOxmOJbA0M1Em37N) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Whaa](https://open.spotify.com/album/756jjoK8Aa3EYNkCcsoK22) | 4:31 |
 | 8 | [Thinking About You in the Space](https://open.spotify.com/track/5tb38xu6EbUCiqYJk6z2zb) | [Wachita China](https://open.spotify.com/artist/6l15C7bY0XMeUX0oHlm1W1) | [D1e and Repeat](https://open.spotify.com/album/6a9gj9gl6YxwKXbBsEyd6M) | 4:57 |
-| 9 | [Heartbreaker](https://open.spotify.com/track/38fLhmJGEivj8Nv0SfOchs) | [Manni Dee](https://open.spotify.com/artist/3WKDW1ASiWSa1T1nX01dUr) | [Heartbreaker](https://open.spotify.com/album/0fZBj4D8360wH8cYVTaamS) | 4:40 |
+| 9 | [Heartbreaker](https://open.spotify.com/track/23oLhgngX2ZTW5YIMF92U5) | [Manni Dee](https://open.spotify.com/artist/3WKDW1ASiWSa1T1nX01dUr) | [Heartbreaker](https://open.spotify.com/album/2jYP9N4FQ7O7josDpQ9kcI) | 4:40 |
 | 10 | [Hi Steve, aRe you on dmt?](https://open.spotify.com/track/1wCcQD1QgSK91xyaDOKEIc) | [Sauren Kids](https://open.spotify.com/artist/6m8Lu43KA6pazW714NjaX5) | [Hungry For The Groove](https://open.spotify.com/album/586PogJUXkkWxj4YDJUEVy) | 5:55 |
 | 11 | [Crimson Stain](https://open.spotify.com/track/1cwUXIRPOuCp2rY8Ttqpdg) | [Freeman 713](https://open.spotify.com/artist/6boig61fpWOOmraTJ5M945) | [Crimson Stain](https://open.spotify.com/album/3CfbrkbkNouDCp9DjiLuGk) | 4:20 |
 | 12 | [Holy Warehouse](https://open.spotify.com/track/2RL9rHEO0eD2xJ7gdzINVE) | [Baseck](https://open.spotify.com/artist/3osPFn4n6nIX1cI3EOaJMq), [Cardopusher](https://open.spotify.com/artist/7de3eunuDjvcwRudXnJEXr) | [TURBO BEATZ](https://open.spotify.com/album/38p5G2Aym0yVBBxwI3m3YJ) | 3:28 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 | 51 | [Kalemba \(Wegue Wegue\)](https://open.spotify.com/track/7e7hxfWxycrp5e0rHpFD4v) | [Buraka Som Sistema](https://open.spotify.com/artist/6zUiRChNyL3HEezOd1Wjam), [Pongolove](https://open.spotify.com/artist/5hY9FWUpym7RjAz84ykh8V) | [Black Diamond](https://open.spotify.com/album/2enDmVMxNqo2jqw9hwFp3V) | 3:53 |
 | 52 | [Bicstan](https://open.spotify.com/track/2xye1raSO8KLUD6DiX8DEW) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Cry Sugar](https://open.spotify.com/album/5J2NqsDqtVGCqb0bqQf3RU) | 4:45 |
 
-Snapshot ID: `MCwzZjBmOTAzNzhkZmZkNmM2MGRkMGYwNjUxMThlNjVmNGFkNTczMTIx`
+Snapshot ID: `MCw3ODk3NWNiYmFhMzYxYTI0Y2ExZGJjY2M3MDFjYzFiZDMxNmE5NTMy`

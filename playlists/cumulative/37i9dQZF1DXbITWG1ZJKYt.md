@@ -4,7 +4,7 @@
 
 > The best tunes in Jazz history\. Cover: Wayne Shorter
 
-335 songs - 1 day 5 hr 27 min
+336 songs - 1 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,8 @@
 | [Just Friends](https://open.spotify.com/track/6RqomqKVORIwNJCKNxvc3F) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [After Hours](https://open.spotify.com/album/3F0Q6zKxvJJbxWR4hZWcef) | 3:01 | 2021-12-02 |  |
 | [Koko \- Original Take 2](https://open.spotify.com/track/0d6m2xfXqMyEKOeRvfL7Ot) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [The Charlie Parker Story](https://open.spotify.com/album/2jgWsNu1Nq8H8ZpPgHhYw8) | 2:53 | 2022-04-08 |  |
 | [Köln, January 24, 1975, Pt\. II C \- Live](https://open.spotify.com/track/4FMI4Ln1LhyxGldkNXan5e) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Köln Concert](https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg) | 6:56 | 2021-12-02 |  |
-| [La vie en rose \- Single Version](https://open.spotify.com/track/3yYfoYGVpriV4fG9L1ogsD) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Highlights From His Decca Years](https://open.spotify.com/album/0OdoPgKwi6l3paYTSFAWkS) | 3:26 | 2022-07-28 |  |
+| [La vie en rose \- Single Version](https://open.spotify.com/track/0zDVclPMSsjeyvbnqhWOmt) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Satchmo Serenades](https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc) | 3:23 | 2023-04-25 |  |
+| [La vie en rose \- Single Version](https://open.spotify.com/track/3yYfoYGVpriV4fG9L1ogsD) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Highlights From His Decca Years](https://open.spotify.com/album/0OdoPgKwi6l3paYTSFAWkS) | 3:26 | 2022-07-28 | 2023-04-30 |
 | [Lazy Afternoon](https://open.spotify.com/track/2n0nSu6H5KrAYRfI6iKtwT) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Ballads](https://open.spotify.com/album/3M8M28caoCzXasyB3NcscO) | 5:32 | 2021-12-02 |  |
 | [Lazy Afternoon \- Remastered 2004](https://open.spotify.com/track/32AOu87ElnJJbRe3mCfp7T) | [Pete La Roca](https://open.spotify.com/artist/5HWSWx1uHCqorf70HByfjW) | [Basra \(Remastered\)](https://open.spotify.com/album/4h0bgUTeSQQ3zbwEikeEV7) | 5:32 | 2022-06-28 | 2022-10-15 |
 | [Lazy Bird](https://open.spotify.com/track/3HNhdvVw92awlT3gfqXIxW) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train](https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga) | 7:07 | 2022-09-15 | 2022-10-26 |

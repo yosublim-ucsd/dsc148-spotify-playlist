@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWwqj6dhkc3.md) - [plain]
 | 21 | [Fuego](https://open.spotify.com/track/5g4ysKgg6wXnolLqkL3J1S) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Blow Up](https://open.spotify.com/album/3aeeG2HTc5r2AH1O364798) | 4:38 |
 | 22 | [Mi Mi Mi](https://open.spotify.com/track/0pqCMHN3IVkBDlWAg0kiVa) | [SEREBRO](https://open.spotify.com/artist/1Ulwacsns9Me7dz4OVwkiQ) | [Mi Mi Mi](https://open.spotify.com/album/2FhODV9NIjFwFOAsehA5UO) | 3:12 |
 | 23 | [Te Debo un Baile](https://open.spotify.com/track/0y9TgKwklqvg5GzdGy8DKc) | [The New Raemon](https://open.spotify.com/artist/7grmT5tV1tUKfCjPhZgW3h) | [Epés Reunidos](https://open.spotify.com/album/0lxyyepBh5m8RG5IUR8qf5) | 2:09 |
-| 24 | [July Flame](https://open.spotify.com/track/1CCUpPjfGDN2gqzCW2PhsE) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [July Flame](https://open.spotify.com/album/6CK1sGl8azq8mtM3kYkW9g) | 3:45 |
+| 24 | [July Flame](https://open.spotify.com/track/3vz3lJyDCmhC2JO9gg8nFw) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [July Flame](https://open.spotify.com/album/5EvT3Lv3HLUluHhktffp3d) | 3:45 |
 | 25 | [Summer Rain](https://open.spotify.com/track/0x02IKC09GufIhUIW7WCbN) | [Everlast](https://open.spotify.com/artist/14ZxDAK6ITtZZqPdiWrvSn) | [Whitey Ford's House of Pain](https://open.spotify.com/album/79W0NJcUJHuQpvygtu6Mj7) | 3:16 |
 | 26 | [Total All Out Water](https://open.spotify.com/track/4CgDKkCYNY7UVFCBp5KSok) | [Add N To \(X\)](https://open.spotify.com/artist/3pcItz4w7h7fpTDgnTYIUn) | [Loud Like Nature](https://open.spotify.com/album/2zhN7Bz0lSkgXQ5nOYsjL1) | 3:51 |
 | 27 | [Nuevas Formas De Hacer El Ridículo](https://open.spotify.com/track/0DPKldXBNWGPsF9tYtyIM3) | [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Carolina Durante](https://open.spotify.com/album/6JTja1R92HnzeT65EHEYak) | 3:15 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWwqj6dhkc3.md) - [plain]
 | 75 | [Voilà](https://open.spotify.com/track/7z9b9sw3k2ov3fO6YHKLHO) | [Club Yoko](https://open.spotify.com/artist/3kcV06zLtzUXC1p43aO5DJ) | [Voilà](https://open.spotify.com/album/7asKOioOiNZUhL5JiQs30H) | 2:25 |
 | 76 | [Everybody Hurts](https://open.spotify.com/track/1keQQqma4XPBRL1e6USd7Z) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Dream On](https://open.spotify.com/album/4EKA6cOPmM0VmjHigV03QH) | 3:36 |
 
-Snapshot ID: `MCxlYTU0YTI4MzQzMjc3NzFiYWJkZjdlMjAyMmQ4OTQ1NDFiYmMwNzRm`
+Snapshot ID: `MCw3OGFjMWQ0Yzg0YzcyYzg4ZmEzNTlhMTcwNDQyMzMzZTgwY2Y1MTg4`

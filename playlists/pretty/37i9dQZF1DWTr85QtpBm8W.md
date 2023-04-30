@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 
 > Immerse yourself in Ambient from the first decade of the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,849 likes - 102 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,915 likes - 102 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 10 | [Crimson Ways](https://open.spotify.com/track/6DCucKDvfe2Hqc3PWMB9rF) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Black Earth](https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L) | 6:43 |
 | 11 | [Your Guts Are Like Mine](https://open.spotify.com/track/2U2XTouEcaW4HkyC5Xdtrc) | [Set Fire To Flames](https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv) | [Telegraphs in Negative / Mouths Trapped in Static](https://open.spotify.com/album/6AjNtLOoML3GDOyOOfZ9ka) | 2:15 |
 | 12 | [Pop 1](https://open.spotify.com/track/3T6hC2yWf0fsUxM7uWXkDn) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Pop](https://open.spotify.com/album/32Nl49izVyngH22kD1lrkk) | 5:11 |
-| 13 | [Night Bus](https://open.spotify.com/track/3dVdnRZ0LGOfNUp6bxfWKI) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Burial](https://open.spotify.com/album/6WNWQa1Is48wF6ggW4TzC4) | 2:13 |
+| 13 | [Night Bus](https://open.spotify.com/track/4VIyN0UbWutIfE529r0XOg) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Burial](https://open.spotify.com/album/5ij6VfAkBwTa5Y3951PdAx) | 2:13 |
 | 14 | [Piano Abg](https://open.spotify.com/track/65I4nN3dCf5f19mJkdArTm) | [Brian McBride](https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs) | [When the Detail Lost Its Freedom](https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs) | 4:33 |
 | 15 | [Dissolving Clouds](https://open.spotify.com/track/2IB1P4oT2EHRFJA5O7eRnC) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 4:28 |
 | 16 | [Harmony in Blue I](https://open.spotify.com/track/000xQBsBOXGbHzbOwWsTua) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Harmony in Ultraviolet](https://open.spotify.com/album/1U5x6wQtMJtbwM3NZRSvKT) | 1:31 |
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 25 | [Opalescent](https://open.spotify.com/track/0fZXClbtHvHG0FDWpQy1wg) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Opalescent](https://open.spotify.com/album/7wPJ4V3ueggJxvaYscV9Ou) | 2:11 |
 | 26 | [Corsair](https://open.spotify.com/track/4rRe3lijaWtTbLEtAmwGKH) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE) | 2:52 |
 | 27 | [Anfangtastisch \- Remastered 2022](https://open.spotify.com/track/4HwEPEnSRL5LZaH9luAKue) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Streichelfisch \(Remastered 2022\)](https://open.spotify.com/album/1eEua7JBS2N2lPq0l0gcq6) | 1:14 |
-| 28 | [Melancholia II](https://open.spotify.com/track/0ALo5LHdF3hJiD8WFN770B) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Melancholia](https://open.spotify.com/album/40PGXFDDAcsyKVFA3IcN4q) | 6:50 |
+| 28 | [Melancholia II](https://open.spotify.com/track/243SYVzBHECQf3paZxeHGd) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Melancholia](https://open.spotify.com/album/2942iMljVSFpfxH8lJaCZr) | 6:49 |
 | 29 | [Aparaquasynthe \- Remastered 2022](https://open.spotify.com/track/77rf3VU7sQ8UVDteOI2MCy) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Streichelfisch \(Remastered 2022\)](https://open.spotify.com/album/1eEua7JBS2N2lPq0l0gcq6) | 5:51 |
 | 30 | [The Light](https://open.spotify.com/track/0PaOYkEinHPDxK4yq7sR5l) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Into The Blue Again](https://open.spotify.com/album/79ceEHSgk3hWNMTSOWeb4V) | 4:29 |
 | 31 | [Sheets Two](https://open.spotify.com/track/7aUbR1W9xxgs0BWQDfpSe4) | [Mountains](https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV) | [Choral](https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16) | 2:38 |
-| 32 | [92982.3](https://open.spotify.com/track/0BWfj3oeIWOQOTzpikVEG1) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [92982](https://open.spotify.com/album/1fsBK1GajNTKmwFqb77u9z) | 7:07 |
+| 32 | [92982.3](https://open.spotify.com/track/14jjKMNUMd8lKIdaqwn4XG) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [92982](https://open.spotify.com/album/6a22PsvseOZcFqySU0jQvk) | 7:03 |
 | 33 | [Happiness](https://open.spotify.com/track/29Ty3LznXDPiuf4Q681MEI) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps](https://open.spotify.com/album/7MPzpbeTmxvlYVNZyn3LSf) | 9:20 |
 | 34 | [13 Ghosts II](https://open.spotify.com/track/1HwDwWdJgbI23mGJpGqBL6) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Ghosts I\-IV](https://open.spotify.com/album/0lOn8nKk4dzzRfnCCCRbwp) | 3:13 |
 | 35 | [White Noiz](https://open.spotify.com/track/3JjXYP1XVbcrFYwgbFsPCZ) | [Akira Yamaoka](https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe) | [SILENT HILL2 \(Original Soundtrack\)](https://open.spotify.com/album/5XjZ6xhbPbALPVGd5Zx0Cw) | 1:23 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 45 | [Requiem for Dying Mothers, Pt\. 2](https://open.spotify.com/track/7m2iqOIBuCT0XvMkv4wYNv) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [The Tired Sounds of Stars of the Lid](https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl) | 7:37 |
 | 46 | [I Will](https://open.spotify.com/track/5WGoSnsHY26l4WTWX0L42t) | [Brian McBride](https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs) | [When the Detail Lost Its Freedom](https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs) | 5:44 |
 | 47 | [Ba Ba](https://open.spotify.com/track/16To30yLksgfW2l2iGnsvY) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Ba Ba Ti Ki Di Do](https://open.spotify.com/album/0UivSfs4EofCWkNHhycH1q) | 6:12 |
-| 48 | [Muim \(Colleen Mix\)](https://open.spotify.com/track/4GN0WoIfo80dMHkN0BaOpT) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd), [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [Utopía](https://open.spotify.com/album/13erHC29vAcOrFeLe7cGJ6) | 4:29 |
+| 48 | [Muim \(Colleen Mix\)](https://open.spotify.com/track/5LASgA67i9jE76J8e0ikTb) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd), [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [Utopía](https://open.spotify.com/album/0xl7DiPmp1326SSgIi6fEY) | 4:29 |
 | 49 | [Verdantique](https://open.spotify.com/track/3IlsZWpHOUfVtOdLilNysq) | [Nudge](https://open.spotify.com/artist/76OH9UQEealbQ15TJABkLO) | [As Good As Gone](https://open.spotify.com/album/3XzOUf4jt5OmtZZR0INzLQ) | 0:45 |
 | 50 | [In McDonalds](https://open.spotify.com/track/7vZTj01UKQ6OuTItkQfxuy) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK) | 2:06 |
 | 51 | [I Imagine](https://open.spotify.com/track/2Rg7fFBI94HDY0QAYYInTx) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Grinning Cat](https://open.spotify.com/album/2FbuxPAPLIssaTRB0WCWAH) | 2:34 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 65 | [Welk](https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Dolores](https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79) | 6:18 |
 | 66 | [Amreik](https://open.spotify.com/track/0yqjpsNQvm0IZMtKqYVpMs) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Copia](https://open.spotify.com/album/6P3NxDFmh6Ytuw7vFEwSgJ) | 3:18 |
 | 67 | [Piano Aquieu](https://open.spotify.com/track/3sLgMuBTIEp761Zi7bl5im) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [The Tired Sounds of Stars of the Lid](https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl) | 10:56 |
-| 68 | [Blind Contour Drawing for Piano](https://open.spotify.com/track/3SZNUuXRNlCZc6xbcyElEQ) | [Gregg Kowalsky](https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq) | [L'Orange L'Orange](https://open.spotify.com/album/3i46owkvtINK9WoM4Tk3Wx) | 5:14 |
+| 68 | [Blind Contour Drawing for Piano](https://open.spotify.com/track/2uZG8EGSKsrCvGG6cUNcU2) | [Gregg Kowalsky](https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq) | [L'Orange L'Orange](https://open.spotify.com/album/3yVzkwlzy9FMprEMcPHoG5) | 5:14 |
 | 69 | [Variation IV](https://open.spotify.com/track/6mnkCIZgqXidyl56nDGP5p) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Variations: A Movement In Chrome Primitive](https://open.spotify.com/album/5lVFG1wgbDKhM7CQ7stlfd) | 9:18 |
 | 70 | [Fading Lights Are Fading..\. / Reign Rebuilder \(Tail Out\)](https://open.spotify.com/track/6K15unc1vl82m4O5CcKykE) | [Set Fire To Flames](https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv) | [Sings Reign Rebuilder](https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir) | 2:49 |
 | 71 | [Already There](https://open.spotify.com/track/1KhqU5oOQeHSMkmFCUsU4j) | [The Sight Below](https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY) | [Glider](https://open.spotify.com/album/3NI2Qzk6pVI88VSzgR78aI) | 5:41 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 101 | [Woe Is the Transgression I](https://open.spotify.com/track/43iURelUomXEQGrCxD9Ucr) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Betrayed in the Octagon](https://open.spotify.com/album/1QVBUpFm9l5qM2OdMDSIIE) | 8:44 |
 | 102 | [Don't Bother They're Here](https://open.spotify.com/track/477naywDON3t1iAF4COlOV) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [And Their Refinement of the Decline](https://open.spotify.com/album/6cHPEbPryLpH5VX5Eb1Vvo) | 10:10 |
 
-Snapshot ID: `MCxjOTYyYTgyOGEwNzI4Zjc4OTU2N2M1ZWU0NGFmODljNjAwN2RiNjEy`
+Snapshot ID: `MCxjZmY5OGY2MmE5NjBkMmFlZjU5MGUyOTUxYjc4MzUwNDg1YjYzMTg2`

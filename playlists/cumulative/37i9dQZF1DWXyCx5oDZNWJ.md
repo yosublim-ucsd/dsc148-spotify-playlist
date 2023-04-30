@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3CdsJ9u53uPu3dScKypLVv">Shkoon</a>'s favorite tracks\. Updated regularly\. Curated by Shkoon\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-76 songs - 6 hr 23 min
+77 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,8 +51,9 @@
 | [Jamileh](https://open.spotify.com/track/0wegArF0QhIeFAq6RYCeEm) | [Ko Shin Moon](https://open.spotify.com/artist/36KTxdXw3fGNuraJZKOvw3) | [Miniature 1](https://open.spotify.com/album/1Nm08hXrpfAWxAMhkuflH4) | 5:42 | 2022-05-30 | 2022-12-05 |
 | [Jamileh](https://open.spotify.com/track/2CZlZNEwLxDEAfqpZlfK2o) | [Ko Shin Moon](https://open.spotify.com/artist/36KTxdXw3fGNuraJZKOvw3) | [Miniature I](https://open.spotify.com/album/5gKKf89Dem52fwvDdIiFPz) | 5:42 | 2022-10-04 |  |
 | [Katoa](https://open.spotify.com/track/438xLWbd5HkLpGn2d8rl5X) | [MI.LA](https://open.spotify.com/artist/67Nx0BYJLxmenQP6Azr34H) | [Katoa](https://open.spotify.com/album/4lxbeDBHemLmKqjFTz7GIx) | 4:29 | 2022-05-30 |  |
+| [Last Chance](https://open.spotify.com/track/4rplK4ylZurvDv5plS2dVS) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP), [The Spy From Cairo](https://open.spotify.com/artist/36C73GYwgP8rqwCjUyswoS) | [Bennu](https://open.spotify.com/album/0BPzY1R6aYUNRZcE2xa1Xf) | 2:47 | 2022-10-04 |  |
 | [Last Chance](https://open.spotify.com/track/57F72SNODqvkm6PAVvoL3B) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP), [The Spy From Cairo](https://open.spotify.com/artist/36C73GYwgP8rqwCjUyswoS) | [Bennu](https://open.spotify.com/album/0ap1ioMSBoEr7eWqwU2DxH) | 2:47 | 2022-05-30 | 2022-10-13 |
-| [Last Chance](https://open.spotify.com/track/59cz7nnzQ6roNXBEDqkMJc) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP), [The Spy From Cairo](https://open.spotify.com/artist/36C73GYwgP8rqwCjUyswoS) | [Bennu](https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo) | 2:47 | 2022-10-04 |  |
+| [Last Chance](https://open.spotify.com/track/59cz7nnzQ6roNXBEDqkMJc) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP), [The Spy From Cairo](https://open.spotify.com/artist/36C73GYwgP8rqwCjUyswoS) | [Bennu](https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo) | 2:47 | 2022-10-04 | 2023-04-30 |
 | [Leave](https://open.spotify.com/track/2KaMBqn9UBbWkl4Ky7ORVp) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl), [Speckman](https://open.spotify.com/artist/6HMaWR5x7y2AYCWydAipj7) | [Leave](https://open.spotify.com/album/692P5jdZFc1S27zguBg5dd) | 4:30 | 2022-05-30 |  |
 | [Leila](https://open.spotify.com/track/1LW5BwY4nUGJdS0z4UcjuJ) | [Mira \(Berlin\)](https://open.spotify.com/artist/6p31dmLI4jnatyEQmrVPDc), [Christopher Schwarzwälder](https://open.spotify.com/artist/11i3tISGuOUmWFuXTRNrtD) | [Leila](https://open.spotify.com/album/0MlmMtzsS4mmM81Z33nOEZ) | 7:45 | 2022-05-30 |  |
 | [Lemon](https://open.spotify.com/track/1PnlvZaeW7B3gWOpIoQDfd) | [Bachar Mar\-Khalifé](https://open.spotify.com/artist/76ses8Vy3hRpmyHgWl8lQm) | [Ya Balad](https://open.spotify.com/album/7e1nm4faKBUWnf7aeOwWnB) | 4:07 | 2022-05-30 |  |

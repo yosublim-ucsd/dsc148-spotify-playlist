@@ -4,7 +4,7 @@
 
 > Open your mind to these classics from the golden era of New Age music\. Deuter on cover.
 
-76 songs - 15 hr 16 min
+77 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Awakening](https://open.spotify.com/track/5SsZc9Uao0uXApCpLFycTm) | [Don Slepian](https://open.spotify.com/artist/6nDzanmucFbxVfDdE2EX3h) | [Sea of Bliss](https://open.spotify.com/album/1Ik3Zj4WkedKLSctd1foQZ) | 24:48 | 2022-06-22 |  |
 | [Blue Lagoon](https://open.spotify.com/track/2bFiEBBSHacd7pRyyJzpuE) | [Tony O'Connor](https://open.spotify.com/artist/5f4UBNURyjjZJDqhLCCfmC) | [Seashore Sunrise](https://open.spotify.com/album/2h4Dm6JaQx93MWfKCsigGw) | 10:05 | 2021-08-20 |  |
 | [Catspaw](https://open.spotify.com/track/3jYDOxC24yLiJVgVlxRtLl) | [Emerald Web](https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe) | [Catspaw](https://open.spotify.com/album/3YHRVQOHWY8eHK3gOCUab7) | 5:12 | 2021-08-20 |  |
-| [Celestial Realms](https://open.spotify.com/track/2wUApbjkVj6ddkPAFK9cZx) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Lyghte](https://open.spotify.com/artist/7BM1CqDXHL4Yv65Q46Spen) | [Celestial Realms](https://open.spotify.com/album/6f6dlAEjzxDP5QBS6SLEyX) | 23:10 | 2022-06-22 |  |
+| [Celestial Realms](https://open.spotify.com/track/0XkpZ7SkuW1nP1vdHGsoUi) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Lyghte](https://open.spotify.com/artist/7BM1CqDXHL4Yv65Q46Spen) | [Celestial Realms](https://open.spotify.com/album/64EncSoPGiFlC6neuIcqlW) | 23:10 | 2022-12-30 |  |
+| [Celestial Realms](https://open.spotify.com/track/2wUApbjkVj6ddkPAFK9cZx) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Lyghte](https://open.spotify.com/artist/7BM1CqDXHL4Yv65Q46Spen) | [Celestial Realms](https://open.spotify.com/album/6f6dlAEjzxDP5QBS6SLEyX) | 23:10 | 2022-06-22 | 2023-04-30 |
 | [Celestial Realms](https://open.spotify.com/track/6CWm3zaFt83GaiOEqOKtR9) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Lyghte](https://open.spotify.com/artist/7BM1CqDXHL4Yv65Q46Spen) | [Celestial Realms](https://open.spotify.com/album/3jwoAyigM9VhV1tiw9TKcn) | 23:10 | 2021-08-20 | 2022-07-29 |
 | [Cloud Prayer](https://open.spotify.com/track/0LhzWDsNR8goFw3rgYL8ER) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 5:16 | 2021-08-20 |  |
 | [Clouds 1](https://open.spotify.com/track/0sBHVlBysBkOZPFecBTxCX) | [Norman Beede](https://open.spotify.com/artist/1QjdtCSzyQLBmtnoHyWmxn), [Kenny Sawhill](https://open.spotify.com/artist/1pxfFDVoeSLkqnlRkiCbHl), [Rolan Tripp](https://open.spotify.com/artist/6JYREywwsHIzxmSZ2Ie52Z), [Robert Mehren](https://open.spotify.com/artist/09y79wa9KKdBw96jCfRPIW), [Craig Kupka](https://open.spotify.com/artist/10BujleeZpW0oZ3fDeBRRR) | [Clouds: Music for Relaxation](https://open.spotify.com/album/0jaAga0dbHYrVUjPFnVf0p) | 22:53 | 2021-08-20 |  |

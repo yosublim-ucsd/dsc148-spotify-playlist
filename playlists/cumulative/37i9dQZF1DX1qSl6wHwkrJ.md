@@ -4,7 +4,7 @@
 
 > Christmas classics from your favourite Blues artists.
 
-128 songs - 7 hr 25 min
+129 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,8 +97,9 @@
 | [Merry Christmas](https://open.spotify.com/track/3OoPWE8UFg4Vu8kMsKRApn) | [Jesse "Babyface" Thomas](https://open.spotify.com/artist/69Yao8jRVjzUue5Mkcoblc) | [Putumayo Presents Blues Christmas](https://open.spotify.com/album/0qqmJ5TvOiA6Db80d2Ojjh) | 3:24 | 2021-12-14 |  |
 | [Merry Christmas Baby](https://open.spotify.com/track/5nj3Z2A1DnkLNO3Z3rEYww) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ), [Johnny Moore's 3 Blazers](https://open.spotify.com/artist/5Trz1MSJiGnhDq4y0KUFK1) | [Merry Christmas Baby / Sleigh Ride](https://open.spotify.com/album/0FaHv9Z81MFmoo8MxW1yPW) | 2:39 | 2022-11-09 |  |
 | [Merry Christmas Baby](https://open.spotify.com/track/2QQZG6E5hulmmkSnfJVwah) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [The 30 Most Unusual Christmas Songs](https://open.spotify.com/album/5klR7lb2L9mAyEInR6LtqK) | 2:04 | 2022-11-09 |  |
-| [Merry Christmas Baby](https://open.spotify.com/track/4numb7lAi5gbfXLAwRs8gx) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP) | [Merry Christmas Baby](https://open.spotify.com/album/0T8ScTKAu8F1ZR7bYBvJSH) | 3:24 | 2022-11-09 |  |
+| [Merry Christmas Baby](https://open.spotify.com/track/4numb7lAi5gbfXLAwRs8gx) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP) | [Merry Christmas Baby](https://open.spotify.com/album/0T8ScTKAu8F1ZR7bYBvJSH) | 3:24 | 2022-11-09 | 2023-04-30 |
 | [Merry Christmas Baby](https://open.spotify.com/track/4p4z8a8I9ORaoFqhlEwUSY) | [Mel Brown](https://open.spotify.com/artist/2ncZrdRpyOoLiAFzgrkXvZ) | [Putumayo Presents Blues Christmas](https://open.spotify.com/album/0qqmJ5TvOiA6Db80d2Ojjh) | 5:05 | 2021-12-14 |  |
+| [Merry Christmas Baby \- New Orleans Version](https://open.spotify.com/track/3ps6Pv734JDeN2iZG54EDe) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ) | [Merry Christmas Baby \(New Orleans Version\)](https://open.spotify.com/album/2xnAx374BbuXmXUt0OvODM) | 3:23 | 2022-12-21 |  |
 | [Merry, Merry Christmas](https://open.spotify.com/track/0u0qsXGPxRL3FmyWyREG2s) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 4:28 | 2021-12-14 |  |
 | [Mr\. Santa's Boogie](https://open.spotify.com/track/7vKQknqsE3GGB3YER5HGKQ) | [The Marshall Brothers](https://open.spotify.com/artist/0Ard7WDdg0QuhlBHL9ueI8) | [Christmas Blues: Savoy Jazz Christmas Album](https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI) | 2:36 | 2022-11-09 |  |
 | [One Day Till Christmas](https://open.spotify.com/track/4lcYwGFhEijTzLREKZ2e9e) | [Willie "Big Eyes" Smith](https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng), [The Northern Blues Legends](https://open.spotify.com/artist/7DRHyLQgMp82jetXfhYBeR) | [Blues from the Heart](https://open.spotify.com/album/6qUDZFzGzV0Y8r9YhaPKre) | 5:20 | 2021-12-14 |  |

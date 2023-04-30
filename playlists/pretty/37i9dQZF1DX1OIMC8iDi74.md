@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap\. Cover: RL Grime
 
-[Spotify](https://open.spotify.com/user/spotify) - 894,404 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 895,394 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,11 +55,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 45 | [Forget It \(feat\. Oliver Tree\)](https://open.spotify.com/track/2xo44UuPdAFzaVMSX95suy) | [Getter](https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Radical Dude!](https://open.spotify.com/album/4MvN5DwEU0CPHL92VKSgkz) | 3:32 |
 | 46 | [Only Be Me](https://open.spotify.com/track/4E4gQUWMUbi0lOf98qqtuv) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Only Be Me](https://open.spotify.com/album/18jDao69dC593MEAZheoyA) | 3:28 |
 | 47 | [Sober](https://open.spotify.com/track/3XlHlWFhlI4OZiguOMcuuc) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Sober](https://open.spotify.com/album/5QAitMOxUFNdCzmbpkdGwt) | 3:44 |
-| 48 | [ili](https://open.spotify.com/track/59QmjU5K8XQTfj9JjFNb4Z) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Left Is Right](https://open.spotify.com/album/7nYaSlVUHMNvSRzc0guLYy) | 4:05 |
-| 49 | [Shiawase](https://open.spotify.com/track/4hAb4pbqgfgwraiHongYZR) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [Shiawase](https://open.spotify.com/album/64SYVRoKKBGR1wmb6S1l7d) | 3:37 |
+| 48 | [Shiawase](https://open.spotify.com/track/4hAb4pbqgfgwraiHongYZR) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [Shiawase](https://open.spotify.com/album/64SYVRoKKBGR1wmb6S1l7d) | 3:37 |
+| 49 | [ili](https://open.spotify.com/track/59QmjU5K8XQTfj9JjFNb4Z) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Left Is Right](https://open.spotify.com/album/7nYaSlVUHMNvSRzc0guLYy) | 4:05 |
 | 50 | [SUB ZERO](https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [AUTOPILOT](https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c) | 3:14 |
-| 51 | [Spanish Moss](https://open.spotify.com/track/1z1io5H0gfutwUNILCDshn) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [Tanglewood](https://open.spotify.com/album/2zS1uwnnpZlqkALafTzUJl) | 2:38 |
-| 52 | [Crash 2.0](https://open.spotify.com/track/3NAGKEkJN7cUTaIYqFnF8l) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW) | [Red // Blue](https://open.spotify.com/album/45hTiiH7JpJx1P5TN6iDDG) | 4:14 |
+| 51 | [Crash 2.0](https://open.spotify.com/track/3NAGKEkJN7cUTaIYqFnF8l) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW) | [Red // Blue](https://open.spotify.com/album/45hTiiH7JpJx1P5TN6iDDG) | 4:14 |
+| 52 | [Spanish Moss](https://open.spotify.com/track/1z1io5H0gfutwUNILCDshn) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [Tanglewood](https://open.spotify.com/album/2zS1uwnnpZlqkALafTzUJl) | 2:38 |
 | 53 | [Eden \(feat\. fussy\)](https://open.spotify.com/track/0dCtaEXGzrVxlqteDis4vP) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [fussy](https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk) | [Eden \(feat\. fussy\)](https://open.spotify.com/album/5PFB53TFWypfqXhOjXi6Lj) | 2:56 |
 | 54 | [Save Me](https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [Save Me](https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD) | 2:07 |
 | 55 | [Braincase](https://open.spotify.com/track/3AawFHorBGEDdM9ngI8ofa) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Braincase](https://open.spotify.com/album/2yTltxoHOTg3reSa6Hll3r) | 3:12 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 92 | [Active](https://open.spotify.com/track/7jcP7f7Gol3IS01nfj7zbG) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Active](https://open.spotify.com/album/23cA8OTwFVZZ4pIXgcDxJi) | 2:30 |
 | 93 | [Take My Breath Away \(feat\. Linney\)](https://open.spotify.com/track/4MrSl40iewpWmkq0GOi849) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Take My Breath Away \(feat\. Linney\)](https://open.spotify.com/album/5DPdR5DXrXQ2sV7H1yMJKe) | 4:00 |
 | 94 | [Moondance \(Move Together\)](https://open.spotify.com/track/3K9OoTcAxpBcYozungwRHw) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [XAELO](https://open.spotify.com/artist/4jz58WEDWGF8fy6s58F2nV) | [Moondance \(Move Together\)](https://open.spotify.com/album/1WYArFyJAyDTrCskmxRBvJ) | 4:10 |
-| 95 | [Emerald](https://open.spotify.com/track/2eAzJdGWnNPSSGFDHEBh7B) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [rSUN](https://open.spotify.com/artist/6Xeaz1BUIz3AHiT87zNAIo), [Deliriousninja](https://open.spotify.com/artist/4V7oY0avOn1pHnLnm4DODk) | [Emerald](https://open.spotify.com/album/3jwJuAOzD9swvO3Kuh9zq7) | 2:57 |
-| 96 | [Chicken Wang](https://open.spotify.com/track/30DR47jeEqFXbZ7ezJ37Xs) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Snappy Jit](https://open.spotify.com/artist/4liIX1dXOofAewkaoKrNHY) | [WukiWorld](https://open.spotify.com/album/523y2Ub7mQPON9romO2APM) | 1:58 |
+| 95 | [Chicken Wang](https://open.spotify.com/track/30DR47jeEqFXbZ7ezJ37Xs) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Snappy Jit](https://open.spotify.com/artist/4liIX1dXOofAewkaoKrNHY) | [WukiWorld](https://open.spotify.com/album/523y2Ub7mQPON9romO2APM) | 1:58 |
+| 96 | [Emerald](https://open.spotify.com/track/2eAzJdGWnNPSSGFDHEBh7B) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [rSUN](https://open.spotify.com/artist/6Xeaz1BUIz3AHiT87zNAIo), [Deliriousninja](https://open.spotify.com/artist/4V7oY0avOn1pHnLnm4DODk) | [Emerald](https://open.spotify.com/album/3jwJuAOzD9swvO3Kuh9zq7) | 2:57 |
 | 97 | [Red Ish](https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [Moving Points](https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE) | 2:01 |
 | 98 | [Mumbai Mode](https://open.spotify.com/track/2qmbvhG8hWX0FVN87sh3TW) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [OG Maco](https://open.spotify.com/artist/0nvvVQhPQGkYTJlThLbJeu) | [PHASE III](https://open.spotify.com/album/4zY1gyzLYtfBYLHw9pEFzo) | 2:58 |
 | 99 | [Twitter](https://open.spotify.com/track/45NRSkN11nKunCO8gwswug) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Syaqish](https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq) | [Twitter](https://open.spotify.com/album/1Wx5ndC4uft7G0V3DwY9Cu) | 2:45 |
 | 100 | [GOD \(MUSIC\)](https://open.spotify.com/track/0JwXTGM7R2KGSfck5EZ9xm) | [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn), [Dilip](https://open.spotify.com/artist/5PcwbyuOX1pnaeVYatEEB2) | [HOMETOWN HEROES](https://open.spotify.com/album/370OsF7iXElQn5eBK7R6B4) | 4:30 |
 
-Snapshot ID: `MCwzNGJjZTk2MjFkYTQ0ODA5MjY3MDEyYzczMTdiN2VmZWU0OGY5Nzlm`
+Snapshot ID: `MCxlYTZjODRlMDk0N2RiYTYxZjhlNzgzYzQxNzBlMDZjMGVlOGU3ZDNk`

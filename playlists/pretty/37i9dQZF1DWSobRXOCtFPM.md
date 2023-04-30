@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSobRXOCtFPM.md) - [plain]
 
 > Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl Cox</a>' favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,349 likes - 69 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,399 likes - 69 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSobRXOCtFPM.md) - [plain]
 | 68 | [N04](https://open.spotify.com/track/4eRRD7IAgepERtb9lg3RbH) | [Sato](https://open.spotify.com/artist/5OKlzH3DGCKLZoYwRiRTRD), [Satoshi Tomiie](https://open.spotify.com/artist/3TrAOZvW0MzZeKZRFnU7Ul) | [Blue, Black And Grey](https://open.spotify.com/album/08yr2guH6hVzoWT49bQ5d9) | 6:32 |
 | 69 | [Look a Crane](https://open.spotify.com/track/1OxOJ7qB9rT0TIhtyj8XmP) | [Monolith](https://open.spotify.com/artist/1lAiqmElW2YfeYVQbKWrBI) | [Ambiguous](https://open.spotify.com/album/2ePRLHdJNV5R7N0vKirbmD) | 4:52 |
 
-Snapshot ID: `MCw5YzExOWFiYjg3OTViMmFjZTYxYjIzNGQ5MTIxNWVmNGFhMjBjNzk4`
+Snapshot ID: `MCw5YTBiOTExYTQ5YmQ2NTY5ZDU4YWQwNDFiZTRjYzhhZDUxZWM5NDgw`

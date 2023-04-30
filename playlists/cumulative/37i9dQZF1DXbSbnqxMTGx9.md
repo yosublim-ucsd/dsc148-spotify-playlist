@@ -4,7 +4,7 @@
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-474 songs - 1 day 3 hr 8 min
+475 songs - 1 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -425,7 +425,8 @@
 | [Three Little Birds](https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:00 | 2021-03-02 |  |
 | [Three Little Birds](https://open.spotify.com/track/7G50pcN2iGxpJGVY34otOK) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Hopeful Music](https://open.spotify.com/album/2KLYTP6Lm6Sgsc4oCxWYO4) | 3:00 | 2022-09-22 | 2022-11-13 |
 | [Till Then](https://open.spotify.com/track/4avroLEAQBpzWSKqx2xCme) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Nothing More to Say](https://open.spotify.com/album/0huf3sYKbAoFaY1S83ezyX) | 3:20 | 2021-03-02 | 2022-07-08 |
-| [Till Then](https://open.spotify.com/track/7IEaxDFdRJyEpKVYV6iAds) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Nothing More to Say](https://open.spotify.com/album/2QjhLePTnaWv2eBUbCwceA) | 3:21 | 2022-09-22 |  |
+| [Till Then](https://open.spotify.com/track/56o2Y7yCupDH4uqn4vayMc) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Nothing More to Say](https://open.spotify.com/album/5oGtxusqxowETVnVokdqME) | 3:21 | 2022-09-22 |  |
+| [Till Then](https://open.spotify.com/track/7IEaxDFdRJyEpKVYV6iAds) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Nothing More to Say](https://open.spotify.com/album/2QjhLePTnaWv2eBUbCwceA) | 3:21 | 2022-09-22 | 2023-04-30 |
 | [To Be Young Gifted and Black](https://open.spotify.com/track/1mS95GjtVbZM0rIDjsOVW3) | [Bob Andy](https://open.spotify.com/artist/6GFAZnwXhNER0WS76WMpS4), [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:06 | 2022-09-22 |  |
 | [Too Late](https://open.spotify.com/track/5XcFLbiUPRwmxtbbtTtcyy) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [Reggae Originals: Gregory Isaacs, Ken Boothe & The Heptones](https://open.spotify.com/album/1HiNHm9JKgcIO36XM9Sxlm) | 2:48 | 2022-09-22 | 2022-11-14 |
 | [Too Late \- 7" Mix](https://open.spotify.com/track/6Kc2RjSw2HXKNU2BZRlniN) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [The Winner \- The Roots of Gregory Isaacs 1974\-1978](https://open.spotify.com/album/0XiWne50xxHBDoEE1XoLz6) | 2:46 | 2022-09-22 |  |

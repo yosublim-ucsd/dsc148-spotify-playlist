@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: The Blessed Madonna
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,326 likes - 130 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,348 likes - 130 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 27 | [and the colour red](https://open.spotify.com/track/07is4mDimzU5oHHO6hG8kj) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [and the colour red](https://open.spotify.com/album/74LqsMz0RZ2ESyz99Aqsmo) | 5:42 |
 | 28 | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/track/3tZKrJ0EznJE4e5cn41Dfz) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK) | 2:30 |
 | 29 | [Count Dubwise](https://open.spotify.com/track/0YUzgQ48gp5WhSNBacDmBP) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Count Dubwise](https://open.spotify.com/album/6Gc0nUJTHbvxkT1MlGldaL) | 5:01 |
-| 30 | [One Touch](https://open.spotify.com/track/6DURQC9m8Rt8SjL4ZKp0Eq) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/4VCCLsmrSghXSM8dxyhVWo) | 3:00 |
+| 30 | [One Touch](https://open.spotify.com/track/3g4wkFSYsU7Qc7bPjaJEGV) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/21lJDSVSuhyKBqkzxn9gAE) | 3:00 |
 | 31 | [Space Woman](https://open.spotify.com/track/2dSjOKbiTTUrFCTsy9PBQ5) | [Powder](https://open.spotify.com/artist/4uODGAg149IxrHfQ9z8Hzr) | [Space Woman](https://open.spotify.com/album/2SM1lb9iT98PCVNwH3T4LM) | 1:53 |
 | 32 | [Mike \(desert island duvet\)](https://open.spotify.com/track/6cqcmtaxNL7YCKKsuYAPJo) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Mike \(desert island duvet\)](https://open.spotify.com/album/3lYzZoDorEtJsL3uRZ5dPa) | 4:24 |
 | 33 | [Changes](https://open.spotify.com/track/5o3sxlnEcM5M9lnav6DAiZ) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Changes](https://open.spotify.com/album/6OwDyAPg2sKKWCwICtmZ2P) | 3:32 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 80 | [Let's Dance \- Honey Dijon Moonlight Remix](https://open.spotify.com/track/34Jr2hq5GW13cw8KbUUMy9) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Let’s Dance \(40th Anniversary Remix E.P.\)](https://open.spotify.com/album/1rh2gXfmFr7pNrOW0s6rIB) | 4:05 |
 | 81 | [Fold](https://open.spotify.com/track/3yaAqfGcXeC02j88iaoebG) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Fold](https://open.spotify.com/album/3xReYX6louXtp8C6Lxf8bx) | 5:35 |
 | 82 | [updown](https://open.spotify.com/track/06vDTKSGYDtZpXt8q0S5Zb) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [updown](https://open.spotify.com/album/2OXEwDrbFYYhTFf2WiNwOJ) | 2:45 |
-| 83 | [M1, M3](https://open.spotify.com/track/6oVTKZr8DyW4PvV3MiMAhN) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [M1, M3 / GETOUTOFMYHEAD](https://open.spotify.com/album/6CD21gDg0zB2h1vLj54BDz) | 6:30 |
+| 83 | [M1, M3](https://open.spotify.com/track/2dy2LigdnxZ5SLFLQZbKQk) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [M1, M3 / GETOUTOFMYHEAD](https://open.spotify.com/album/23zTuaBkMs6VX8O9gQPuRK) | 6:30 |
 | 84 | [love him](https://open.spotify.com/track/4cDn73Qv5V3aRcPXIZOAwo) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [lil spirits](https://open.spotify.com/album/1qSGvtNStL6ELifn51W1va) | 3:13 |
 | 85 | [Rumble](https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Rumble](https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi) | 2:26 |
 | 86 | [You](https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI) | [You](https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1) | 4:06 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 129 | [Groovin'](https://open.spotify.com/track/6K0gMnFO7HgrKGJKmGL1Wm) | [KTTK](https://open.spotify.com/artist/6twl7VzHH1aK1FFkOgaIyJ), [VEATZ](https://open.spotify.com/artist/6Dwa6UQghnEAJegF1v6wrl) | [Groovin'](https://open.spotify.com/album/4YdSc00ZUmKc0GibiyMxhm) | 3:44 |
 | 130 | [Sunrise](https://open.spotify.com/track/69lYM9QS3rkCpgYu1bv0Tz) | [TREKKIE TRAX CREW](https://open.spotify.com/artist/1aaNrx84WrTGObka1rpON3) | [Sunrise](https://open.spotify.com/album/2li5OyXeNan4XE6mqs5Omj) | 4:37 |
 
-Snapshot ID: `MCwyNzdiZWE2ZGZiMWM2MmJmMTNmMjYxNzNjNDFlYTkzOTg3NTJiNWI4`
+Snapshot ID: `MCxjYjBiZDhkOTZiNGIyZGU1ZjA0NDI0YWFmZGM4ODEwMTNkOWRjMmMw`

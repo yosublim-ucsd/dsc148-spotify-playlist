@@ -4,7 +4,7 @@
 
 > Gotta catch 'em all.
 
-345 songs - 21 hr 30 min
+347 songs - 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Aquasun](https://open.spotify.com/track/0qUdIt9DmD5znk3aghrdy4) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything \(Deluxe\)](https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP) | 3:42 | 2021-12-15 |  |
 | [Around The Railing](https://open.spotify.com/track/2Fcz9olH3OgfFMj3auXTjA) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 5:09 | 2022-06-23 | 2023-03-15 |
 | [Around the Railing](https://open.spotify.com/track/7nLa9KoKRgMQTOJkmwunaG) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6zIpcsCh1mPH1UcBvo5jGj) | 5:09 | 2021-12-15 | 2022-07-29 |
-| [Baby Shea](https://open.spotify.com/track/1rfPkAinCwapsCXV5KTTGq) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [Buds](https://open.spotify.com/album/3aPtrtMapoYJdzVa7Jkc3M) | 1:37 | 2022-06-23 |  |
+| [Baby Shea](https://open.spotify.com/track/1rfPkAinCwapsCXV5KTTGq) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [Buds](https://open.spotify.com/album/3aPtrtMapoYJdzVa7Jkc3M) | 1:37 | 2022-06-23 | 2023-04-30 |
 | [Backroads](https://open.spotify.com/track/33dunxmWFO2n1a2sjD1wGD) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 4:06 | 2022-11-02 |  |
 | [Be Your Man](https://open.spotify.com/track/5ja7epgM2zgrQ0CnL5Fc52) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Holy Doom](https://open.spotify.com/album/1mdsGFvnN2Ok832ehemqgX) | 3:35 | 2022-01-28 | 2022-07-29 |
 | [Be Your Man](https://open.spotify.com/track/4OE8lJeG82iSDhHo3reh1N) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Be Your Man](https://open.spotify.com/album/7vuZMf0cXrAKVVXAz6Gaq1) | 3:37 | 2022-06-23 | 2023-01-26 |
@@ -42,7 +42,7 @@
 | [Blind](https://open.spotify.com/track/3OoZg5GIrewNd7kDTlgWPU) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 4:55 | 2021-12-15 | 2022-09-22 |
 | [blink](https://open.spotify.com/track/6cY3rrN8qX0RTLawwiHj6d) | [Sister Void](https://open.spotify.com/artist/3DpwZLxTvFL01VP4qPfRjn) | [blink](https://open.spotify.com/album/0BJ2xtwZ34wq86GS52eYkD) | 3:47 | 2022-06-23 | 2022-07-29 |
 | [Bloodsports](https://open.spotify.com/track/2zn3hrsi0nrTe42JJxMgC8) | [Drenge](https://open.spotify.com/artist/1bqX4oZFTWIQFk90AwKfnC) | [Drenge](https://open.spotify.com/album/0Wrn6T6l8C2zPtnuOUQtmB) | 2:32 | 2021-12-15 | 2023-04-07 |
-| [Bloom](https://open.spotify.com/track/2AktemCmRjkEOU2ReNuP0r) | [Great Grandpa](https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6) | [Four of Arrows](https://open.spotify.com/album/6TWCsCUwO6UguJQiaDpr6A) | 4:22 | 2022-06-23 |  |
+| [Bloom](https://open.spotify.com/track/2AktemCmRjkEOU2ReNuP0r) | [Great Grandpa](https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6) | [Four of Arrows](https://open.spotify.com/album/6TWCsCUwO6UguJQiaDpr6A) | 4:22 | 2022-06-23 | 2023-04-30 |
 | [Bloom](https://open.spotify.com/track/4Q6vSRNhlqir4RxprComcT) | [Great Grandpa](https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6) | [Four of Arrows](https://open.spotify.com/album/6oFyKWtkztWKlRfp1XZoGC) | 4:22 | 2021-12-15 | 2022-07-29 |
 | [Body Language](https://open.spotify.com/track/2CzfhFkxJZjdr6kNRUw8IM) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [Slow Heart](https://open.spotify.com/album/7K7AuoZ1mMIaPiDZSvhCsU) | 4:09 | 2021-12-15 |  |
 | [Bonethrower](https://open.spotify.com/track/3p71K5AR6Z9iJtVHo1JEbX) | [The Revolution Smile](https://open.spotify.com/artist/4gl4F6TIHPHmw8ehEEVr7V) | [Above The Noise](https://open.spotify.com/album/63ycUn0oovYFc50A1oqm5p) | 3:27 | 2022-02-02 | 2022-06-15 |
@@ -172,6 +172,7 @@
 | [Lift](https://open.spotify.com/track/7xztI3ccyUdEYqKYABkMQM) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer OKNOTOK 1997 2017](https://open.spotify.com/album/0tzfI6NFJqcJkWb23R3lRZ) | 4:06 | 2021-12-15 | 2022-09-22 |
 | [Lightspeed](https://open.spotify.com/track/5U3Z0cpZXSivN3UUUrymEF) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Vivarium](https://open.spotify.com/album/4WPzYjZlEwQRITnqA61XAP) | 3:21 | 2022-11-02 | 2022-12-12 |
 | [Lily](https://open.spotify.com/track/5p8agvLs5qPIEZ7ygnmSMI) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Moving Away](https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi) | 3:25 | 2022-11-02 |  |
+| [Little Pink Stars](https://open.spotify.com/track/3ah6iQsmMcM2VFj6uvueuX) | [Radish](https://open.spotify.com/artist/6cLlK80e14zGQyq84eENDv) | [Restraining Bolt](https://open.spotify.com/album/6MDLDlxinN9NpI4t4eudsX) | 4:48 | 2023-03-14 |  |
 | [Lock & Key](https://open.spotify.com/track/3eV9MDzhFZ46U9nBNcVNmy) | [Big Jesus](https://open.spotify.com/artist/2yQuD2wdcMfG9NOS4Suc0D) | [Oneiric](https://open.spotify.com/album/2QnrgOUjsJyccfJ7y0pm41) | 3:56 | 2021-12-15 | 2022-07-29 |
 | [Lock the Doors](https://open.spotify.com/track/3bA0HYpBmhLH1qpQTIEPEL) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Our Own World](https://open.spotify.com/album/6eWRaH6HCMnf0J4LMulEMh) | 3:38 | 2022-02-02 | 2022-07-25 |
 | [Long Before](https://open.spotify.com/track/6DRkAVGF7vumi1GSSKlTSu) | [Flèche](https://open.spotify.com/artist/5R5eFkv3lGzBuYpjU6w5qs) | [Do Not Return Fire](https://open.spotify.com/album/7uKL2DcETgQKxDlgaWj57q) | 3:49 | 2022-01-11 | 2022-04-20 |
@@ -179,7 +180,7 @@
 | [Loser](https://open.spotify.com/track/5jJtTHIf1NMtYNhVVqXnjR) | [LOSER](https://open.spotify.com/artist/28erIPSPyu1d4BtolxQ624) | [Loser](https://open.spotify.com/album/0BrOQwhdwCktoB5NYlYFDu) | 2:31 | 2021-12-15 | 2022-07-25 |
 | [Losing My Touch](https://open.spotify.com/track/7t7yW5L2caQYdPWAAFPs4Q) | [October Drift](https://open.spotify.com/artist/3uP1cpcy1q0stG3utL7tZS) | [Forever Whatever](https://open.spotify.com/album/6THxCKuJ3IA3BC3Ib9XgxS) | 3:58 | 2021-12-15 |  |
 | [Low](https://open.spotify.com/track/2Ydsp7oUtm3jPyx2U99uaJ) | [Gates](https://open.spotify.com/artist/1R9C48jnKgFN93otwSYnd6) | [Bloom and Breathe](https://open.spotify.com/album/0tDVIJZ1JbJpRSHf8IrW6f) | 4:07 | 2021-12-15 | 2022-11-18 |
-| [Make Tonight](https://open.spotify.com/track/7afP5szYNk5vMxYv81bUMu) | [Emanuel](https://open.spotify.com/artist/4uv4EEYdWrejczjqB8GGUO) | [Soundtrack to a Headrush](https://open.spotify.com/album/0KQXjbh2Yh3pfoGpHrXyml) | 3:44 | 2022-12-16 | 2023-01-26 |
+| [Make Tonight](https://open.spotify.com/track/7afP5szYNk5vMxYv81bUMu) | [Emanuel](https://open.spotify.com/artist/4uv4EEYdWrejczjqB8GGUO) | [Soundtrack to a Headrush](https://open.spotify.com/album/0KQXjbh2Yh3pfoGpHrXyml) | 3:44 | 2022-12-16 |  |
 | [Make Yourself](https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:03 | 2022-11-02 | 2023-01-26 |
 | [McFearless](https://open.spotify.com/track/0obzF8a4DaF3XrlOB16xlx) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Because Of The Times](https://open.spotify.com/album/5CiZOqd3iF6p2PsqBjljat) | 3:09 | 2021-12-15 | 2022-01-04 |
 | [Medicine](https://open.spotify.com/track/2D8oZGGpHtSiJLYMKdM5Ao) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Infinite Pleasure](https://open.spotify.com/album/4EMCM4unQso8HGyy3N19FY) | 4:07 | 2022-10-11 |  |
@@ -253,6 +254,7 @@
 | [Shot Down](https://open.spotify.com/track/5ELe3K5aE86anTNKGngYwY) | [Nine Black Alps](https://open.spotify.com/artist/5fLbJGzlYux3GBwTifMMvR) | [Everything Is](https://open.spotify.com/album/0fIPMihZtknbVQThrPrMJz) | 2:55 | 2021-12-15 | 2022-07-29 |
 | [Silverspoon](https://open.spotify.com/track/16hoFpn4UinRTtqCD0iSIt) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 3:42 | 2023-03-14 |  |
 | [Simple Sincerity](https://open.spotify.com/track/6hxtlRK14Vq1xTjjOPiTQw) | [Radish](https://open.spotify.com/artist/6cLlK80e14zGQyq84eENDv) | [Restraining Bolt](https://open.spotify.com/album/6MDLDlxinN9NpI4t4eudsX) | 2:45 | 2021-12-15 | 2022-07-22 |
+| [Smiles All Round](https://open.spotify.com/track/7vDjXdMBqRFlVlG56jtT5T) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Smiles All Round](https://open.spotify.com/album/0WNSf4eDakhxOWXO9LlV0y) | 2:47 | 2023-03-14 |  |
 | [Smiles All Round \- Single](https://open.spotify.com/track/4gzgTuZBM2kJPsBUwAopRE) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Smiles All Round \- Single](https://open.spotify.com/album/7bbe8uw300uJdVznrKZGPq) | 2:47 | 2022-11-02 | 2023-01-26 |
 | [Smiling at Strangers on Trains](https://open.spotify.com/track/0F54dvs9C0v0snW9m6dSE1) | [Million Dead](https://open.spotify.com/artist/7mAKZuvKKiNRokFE46Sy8l) | [A Song to Ruin](https://open.spotify.com/album/7xF7HQIu6FriHp6yPkE2Kv) | 2:55 | 2021-12-15 | 2023-01-26 |
 | [Smiling Shame](https://open.spotify.com/track/4UW6rF7Pyr7JzsGybnCzxc) | [Sick Joy](https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx) | [Smiling Shame](https://open.spotify.com/album/4IfIzaH9SZMoZ6PuUH9zv2) | 3:36 | 2021-12-15 | 2022-07-29 |
@@ -349,7 +351,7 @@
 | [You Know Better](https://open.spotify.com/track/70qEtopkR96BvM5ek1Kt1r) | [Sad Heroes](https://open.spotify.com/artist/6wcGzkZa4zwU3cJxRs6seS) | [You Know Better](https://open.spotify.com/album/3dDS2DJ16DAjAB7TUVlZYx) | 3:13 | 2022-06-23 | 2022-07-25 |
 | [You Said](https://open.spotify.com/track/7d7eDR4LzeYwfJegcS2Zg0) | [False Advertising](https://open.spotify.com/artist/0w0G0yLuHEK0PKsNnLytAp) | [Brainfreeze](https://open.spotify.com/album/521ZryTNfahC4vzpUBGLkh) | 3:42 | 2021-12-15 | 2022-07-23 |
 | [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 | 2023-03-07 |  |
-| [Your Deep Rest](https://open.spotify.com/track/5wwbe5wtc4pd9RDlFNXeFg) | [The Hotelier](https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa) | [Home, Like Noplace Is There](https://open.spotify.com/album/37ohOvaKOQIEkFjTWfg9Q4) | 3:47 | 2022-06-23 |  |
+| [Your Deep Rest](https://open.spotify.com/track/5wwbe5wtc4pd9RDlFNXeFg) | [The Hotelier](https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa) | [Home, Like Noplace Is There](https://open.spotify.com/album/37ohOvaKOQIEkFjTWfg9Q4) | 3:47 | 2022-06-23 | 2023-04-30 |
 | [Your Deep Rest](https://open.spotify.com/track/651zgpohmcHZUPLnhHGS7a) | [The Hotelier](https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa) | [Home, Like NoPlace Is There](https://open.spotify.com/album/5jfqj3O8WU3755J2OK19rd) | 3:47 | 2021-12-15 | 2022-07-29 |
 | [Your Way](https://open.spotify.com/track/35vNfLChAWby8ybNdhARNK) | [Downward](https://open.spotify.com/artist/4UrucNI79ErkrEjHCbXKxU) | [2 Songs](https://open.spotify.com/album/7lL6RsEuOB4hKhY8owANaQ) | 3:20 | 2021-12-15 |  |
 | [Zero Day](https://open.spotify.com/track/1dwC0I32wb53mXCECR4ZY7) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 3:57 | 2022-11-02 |  |

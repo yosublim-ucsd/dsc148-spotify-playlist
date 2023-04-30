@@ -4,7 +4,7 @@
 
 > Get ready for some serious 00s nostalgia\. Cover : Nancy Ajram
 
-143 songs - 11 hr 2 min
+144 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [El Alem Allah](https://open.spotify.com/track/0iHyLzEeCcu19aEC2M3o5M) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Tamally Maak](https://open.spotify.com/album/1qmAaW25CPUyam9Wrp9ZEu) | 4:04 | 2023-04-11 |  |
 | [El Hantoor](https://open.spotify.com/track/4I2RAr4wKPPUOEQW58vjvM) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [Bel Balady](https://open.spotify.com/album/5RF7CQDam2yu6UIazT2mQ9) | 3:52 | 2021-12-06 |  |
 | [El Hantoor](https://open.spotify.com/track/1raaYGCQJY0P6nDSICeVxx) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP), [Amina](https://open.spotify.com/artist/5oqJdJiiqwYKUk1U4kFB2w) | [Qesset El Hay El Shaby](https://open.spotify.com/album/5PmiFejVfRvy3UbUelf8p4) | 3:54 | 2021-12-06 | 2022-07-29 |
-| [El Hawa Sultan](https://open.spotify.com/track/0WL1sLdWPecxG3qn764QOp) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Café Arabia Volume 2](https://open.spotify.com/album/6J7G9xjjysTRe9MZVImAaf) | 7:02 | 2023-04-11 |  |
+| [El Hawa Sultan](https://open.spotify.com/track/0WL1sLdWPecxG3qn764QOp) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Café Arabia Volume 2](https://open.spotify.com/album/6J7G9xjjysTRe9MZVImAaf) | 7:02 | 2023-04-11 | 2023-04-30 |
+| [El Hawa Sultan](https://open.spotify.com/track/0ySDdvzYJOBwERbrzvqfSK) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [أروع أغاني جورج وسوف](https://open.spotify.com/album/6Mi7z46UWq0oR9sWVVmuGP) | 7:02 | 2023-04-28 |  |
 | [El Hilwa Di](https://open.spotify.com/track/2hAiw9zPh383oCtKkthVu5) | [Dania](https://open.spotify.com/artist/71cpEX6DdWpeTISMDdFYJh) | [Arab Hits](https://open.spotify.com/album/30cgQ6uncFdf9iFN1IBj6y) | 4:05 | 2021-12-06 |  |
 | [El Hilwa Di](https://open.spotify.com/track/76ABOCf1e7742zqh0w3vhl) | [Dania](https://open.spotify.com/artist/71cpEX6DdWpeTISMDdFYJh) | [The Best Of Dania](https://open.spotify.com/album/03TxSOnZw561SoHHDnEFMd) | 4:05 | 2021-12-06 | 2022-07-29 |
 | [El Hob El Kebir](https://open.spotify.com/track/093CMFUwvPyFIsjBsVfBPO) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [El Hob El Kebir](https://open.spotify.com/album/1dj55G9LZC4mbe8KaFFmHa) | 5:15 | 2021-12-06 |  |

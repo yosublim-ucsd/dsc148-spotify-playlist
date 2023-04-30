@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Jg9KZ76Rr9.md) - [plain]
 
 > A look back at some of the most impactful songs of 2017.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,679 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,684 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Jg9KZ76Rr9.md) - [plain]
 | 99 | [The Promise](https://open.spotify.com/track/3tM778lBLL9SjnN0OHWgHH) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [The Promise](https://open.spotify.com/album/44xvS1Lm42hYEMorJxwQ7z) | 4:20 |
 | 100 | [Free Fallin'](https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:16 |
 
-Snapshot ID: `MCw0MTBlYTU1YTRhZDkxYjVjYWUzMTMzYmJlY2Y0ZTQ5ODU2NDI2NWFm`
+Snapshot ID: `MCwwODBlNTcwMGVlNmM4NzZlNzc4NjcxMGVkM2UxMTVjM2RjZWQxMmVl`

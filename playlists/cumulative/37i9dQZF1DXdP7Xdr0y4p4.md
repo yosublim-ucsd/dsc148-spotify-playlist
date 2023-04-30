@@ -4,7 +4,7 @@
 
 > An essential list of recent hits of SoGo\.  Cover:  <a href="https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA">The Browns</a>
 
-149 songs - 9 hr 26 min
+150 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Church of the Great I Am](https://open.spotify.com/track/3UaRwZMjw140KkSrtc1ULO) | [Kingsmen](https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX) | [More to the Story](https://open.spotify.com/album/4xdKJAW8nrvV3iS5lpjE4K) | 3:14 | 2021-10-29 | 2022-08-28 |
 | [Come and Dine](https://open.spotify.com/track/6tf81aaHf2TumDPjrkPlr6) | [William Lee Golden and The Goldens](https://open.spotify.com/artist/3DBCHVQNlapluGiMfXZDFX) | [Come and Dine](https://open.spotify.com/album/7y5dsM3Tre13QHcSG1L8tC) | 2:29 | 2021-10-29 |  |
 | [Every Other Throne](https://open.spotify.com/track/4RLDBwWBB3amq8o48Zycig) | [Hebron Road](https://open.spotify.com/artist/4IPpLxQQLSf3ANpz0Q7Y51) | [In a Moment](https://open.spotify.com/album/1hXk9gKQzIS6p9lnONUxpe) | 5:06 | 2022-08-27 |  |
-| [Every Story Whispers His Name](https://open.spotify.com/track/2ZvOh0YUXRj2eSt2cyy88m) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG) | [Every Story Whispers His Name](https://open.spotify.com/album/7sasgGYqy8DeKcIAgWpOsl) | 3:55 | 2021-10-29 | 2023-04-29 |
+| [Every Story Whispers His Name](https://open.spotify.com/track/2ZvOh0YUXRj2eSt2cyy88m) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG) | [Every Story Whispers His Name](https://open.spotify.com/album/7sasgGYqy8DeKcIAgWpOsl) | 3:55 | 2021-10-29 |  |
 | [Everyday](https://open.spotify.com/track/1eanEK6p990gBoG6jORXb4) | [Triumphant Quartet](https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC) | [Everyday](https://open.spotify.com/album/6hU1RkXOJRXhwybcfWaKve) | 3:45 | 2021-10-29 | 2022-07-29 |
 | [Everyday](https://open.spotify.com/track/3q0HpebwPnwOXkBJ17n0Fy) | [Triumphant Quartet](https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC) | [Everyday](https://open.spotify.com/album/5rI5TQVg0ZKN3bm2yDx2tA) | 3:45 | 2021-10-29 |  |
 | [Faith Like That](https://open.spotify.com/track/1cxxA1gqowDgJTwCGDZsi9) | [Gordon Mote](https://open.spotify.com/artist/08EFt670UCZCyxbhI1VtxG) | [All Things New](https://open.spotify.com/album/1PcbJ1DL1tFKjAzsBEoEVe) | 3:39 | 2021-10-29 |  |
@@ -47,7 +47,8 @@
 | [God, Do it Again](https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o) | [The Taylors](https://open.spotify.com/artist/7cWAsRKW1DL0pRUXWyCDsX) | [Love Is the Voice](https://open.spotify.com/album/2CHhug02gOUxNAlahCkdMR) | 2:45 | 2022-08-27 |  |
 | [Godfidence](https://open.spotify.com/track/28N2L4CON8Z5VOHu5e7GAH) | [Kennis Clark](https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs), [Kristelle](https://open.spotify.com/artist/1tSoHKZsP9949r1PCPJrr9) | [Godfidence](https://open.spotify.com/album/6H6B0z1SFnGFclDLWKu1ku) | 3:16 | 2022-08-27 |  |
 | [Good in the Good Times](https://open.spotify.com/track/6m6CBaVU3KKztFkmz28m1I) | [Down East Boys](https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln) | [The Stories We Tell](https://open.spotify.com/album/4GJxoLRAleQBeEb6CSR2oI) | 3:01 | 2022-08-27 |  |
-| [Good Morning Mercy](https://open.spotify.com/track/65pxpJbOeIc2oXexkr5vfU) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Good Morning Mercy](https://open.spotify.com/album/5F7deqvU0BTbsTIzr8rKnM) | 3:18 | 2022-08-27 |  |
+| [Good Morning Mercy](https://open.spotify.com/track/2ZeYstnGxcxaQJnztHJrEZ) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Good Morning Mercy](https://open.spotify.com/album/3Wsy7LgDdHHZKuU4QDLFpB) | 3:18 | 2023-04-14 |  |
+| [Good Morning Mercy](https://open.spotify.com/track/65pxpJbOeIc2oXexkr5vfU) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Good Morning Mercy](https://open.spotify.com/album/5F7deqvU0BTbsTIzr8rKnM) | 3:18 | 2022-08-27 | 2023-04-30 |
 | [Good News from Jerusalem](https://open.spotify.com/track/2k2brD2GZrxd8meu918pBa) | [Tribute Quartet](https://open.spotify.com/artist/4TYL0NFQgCj8VLdz8gBfAC) | [Shout It Out Vol\. 2](https://open.spotify.com/album/39EMIoZJsj8ZtFG9h5WXch) | 3:59 | 2021-10-29 | 2022-07-29 |
 | [Good News From Jerusalem \(Demonstration in C\-C\#\-D\)](https://open.spotify.com/track/3KbuCBE1F1dPBEBaLAN6hb) | [Crossroads Performance Tracks](https://open.spotify.com/artist/6aIaHnJNo69R2FX2PWKLiF) | [Good News From Jerusalem \(Made Popular by Tribute Quartet\) \[Performance Track\]](https://open.spotify.com/album/1T2TM15utzZjxJxO674Q3H) | 3:57 | 2021-10-29 |  |
 | [Grace Ain't Fair \- Acoustic Version](https://open.spotify.com/track/2CEBwToSll6HnKr0op8WQH) | [The Nelons](https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn) | [Grace Ain't Fair \(Acoustic Version\)](https://open.spotify.com/album/45ijAsVgyLl4kDnTAUeh17) | 3:34 | 2021-10-29 |  |
@@ -105,7 +106,7 @@
 | [Peace in Trusting](https://open.spotify.com/track/0bRCxiCy7DKlaaa0cfZqc4) | [The Isaacs](https://open.spotify.com/artist/7Gr7Uulfyw9J9F74eQfBOp) | [Songs for the Times](https://open.spotify.com/album/37dXrupCMdsgBbOWlOy55U) | 3:44 | 2021-10-29 |  |
 | [Plenty Good Room](https://open.spotify.com/track/06aouHeZQx45YdKPCnxgt6) | [Lynda Randle](https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI) | [Plenty Good Room](https://open.spotify.com/album/5YRDhVX5npZe6l8s8NcKyA) | 3:57 | 2022-08-27 |  |
 | [Power In The Blood \(We Give Thanks For The Blood\)](https://open.spotify.com/track/4mjXGn3CoT6vmA24S8p8Pm) | [Tommy Walker](https://open.spotify.com/artist/67Bvv2wUyCph0smNq72LrK), [Bethesda Music](https://open.spotify.com/artist/0vBaWnUnT7SHDxPKutCETY) | [Power In The Blood \(We Give Thanks For The Blood\)](https://open.spotify.com/album/7aRlda7JrI3BvBzNWE3rU8) | 5:50 | 2022-08-27 |  |
-| [Praise Medley](https://open.spotify.com/track/01BfVuMUiP1df06GCvRb82) | [Legacy Five](https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk) | [Heritage, Vol\. 3](https://open.spotify.com/album/4QmFZIOMbWcg6YEUGKjuQy) | 2:34 | 2023-04-14 |  |
+| [Praise Medley](https://open.spotify.com/track/01BfVuMUiP1df06GCvRb82) | [Legacy Five](https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk) | [Heritage, Vol\. 3](https://open.spotify.com/album/4QmFZIOMbWcg6YEUGKjuQy) | 2:34 | 2023-04-14 | 2023-04-30 |
 | [Praise Medley](https://open.spotify.com/track/0Cnh0PW9Et6wJ1hXtZz0Pm) | [Legacy Five](https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk) | [Heritage, Vol\. 3](https://open.spotify.com/album/0wIeWAZrhLbGPCluMkqHwh) | 2:34 | 2022-08-27 | 2023-04-28 |
 | [Pray Now](https://open.spotify.com/track/6BT4eCTe1MiGwAGgf5ezpJ) | [Karen Peck & New River](https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5) | [Pray Now](https://open.spotify.com/album/12uzTrOLpxr3j6zr0PLbC3) | 4:27 | 2021-10-29 |  |
 | [Pray Now](https://open.spotify.com/track/6ouBqhPAnUTybW52iWIynl) | [Karen Peck & New River](https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5) | [Pray Now](https://open.spotify.com/album/2qdDTQkPE63hAK3NpDMK3b) | 4:27 | 2021-10-29 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-234 songs - 13 hr 10 min
+235 songs - 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,8 @@
 | [XXLove](https://open.spotify.com/track/6PFaG6SDFJ9SwrXX6rPBYU) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [XXLove](https://open.spotify.com/album/0breiCTj1nIZwIS261yCPu) | 3:19 | 2022-10-06 |  |
 | [You Are My Universe](https://open.spotify.com/track/637WqBLI6CPZCDZhw24WWs) | [Low Hanging Fruits](https://open.spotify.com/artist/7KfFnqnCwvQ8NXL2a8avAu) | [You Are My Universe](https://open.spotify.com/album/1j1teMefag7nMbcWTzBFlJ) | 4:35 | 2022-10-02 |  |
 | [You So \(Youth Soul\)](https://open.spotify.com/track/6desVkqsKDt0ZHLqPcWcbZ) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [OST](https://open.spotify.com/album/5azoxbgGTCqwqgpiirrctu) | 5:25 | 2022-10-06 |  |
-| [you\\me\\everyone](https://open.spotify.com/track/4WlmkQ21wCWmkxfeFjGylA) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [everything's worth it](https://open.spotify.com/album/3kxSzWBcKwvmKRtz5qhTCo) | 3:39 | 2022-09-06 |  |
+| [you\\me\\everyone](https://open.spotify.com/track/47Da4bjJRnEFSEDhUoptC7) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [everything's worth it](https://open.spotify.com/album/1JkKG9yyfzYJfzUNOCsZic) | 3:39 | 2023-02-03 |  |
+| [you\\me\\everyone](https://open.spotify.com/track/4WlmkQ21wCWmkxfeFjGylA) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [everything's worth it](https://open.spotify.com/album/3kxSzWBcKwvmKRtz5qhTCo) | 3:39 | 2022-09-06 | 2023-04-30 |
 | [ตน](https://open.spotify.com/track/3eLME8AQLetptw2Hj0JRE2) | [Desktop Error](https://open.spotify.com/artist/5Vsm6xlaAsSwuVNPB6kQS3) | [i n d e l i b l e s t a i n](https://open.spotify.com/album/3yXg6ng7tgKzPnlxsPYBTG) | 3:25 | 2022-08-25 |  |
 | [다음에 잘하자 Let’s Do Better Next Time](https://open.spotify.com/track/7zli3HeoEKEtf0C2HMZ4zd) | [Crying Nut](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [다음에 잘하자 Let’s Do Better Next Time](https://open.spotify.com/album/2CtFXOQViMjCU90PbffaO1) | 2:55 | 2022-10-06 |  |
 | [명동콜링 Myeong\-dong Calling](https://open.spotify.com/track/0AcSCfVYcXgNgcrZdyZXOh) | [Crying Nut](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [OK 목장의 젖소 Milk Cattle at the OK Corral](https://open.spotify.com/album/2ohRyGLhnzSVe1ajSigoWf) | 3:48 | 2022-08-25 |  |

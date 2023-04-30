@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Btrem, Derxan, Major RD, LEALL, $amuka",
-  "num_followers": 28206,
+  "num_followers": 28252,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzkwZWVjY2QwZDEwYmZlY2Y4MmMyMDk4NzM0MGYwYzdhNjFhZmIw",
+  "snapshot_id": "MCwxMGVhNGM1Y2JlYTQ2NGFkYmJkM2RhNWU2ODBmOWVjOGI3MzJhMTg2",
   "tracks": [
     {
       "added_at": "2023-04-28 03:01:00",
@@ -1087,30 +1087,6 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "DE CRIA PRA CRIA",
-        "url": "https://open.spotify.com/album/201Vl6NCeUaR2c4bnSxYad"
-      },
-      "artists": [
-        {
-          "name": "ABRONCA",
-          "url": "https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd"
-        },
-        {
-          "name": "Lastra",
-          "url": "https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD"
-        },
-        {
-          "name": "MC Martina",
-          "url": "https://open.spotify.com/artist/5Zdd7OXYYhoqgGlF6dKxde"
-        }
-      ],
-      "duration_ms": 136047,
-      "name": "Vil\u00e3o / Kmila Cdd",
-      "url": "https://open.spotify.com/track/59axndxpWFGRG6Hee9isUL"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
         "name": "Gl\u00f3ria",
         "url": "https://open.spotify.com/album/3R8dPKSjdaQ62HCeMEjIIs"
       },
@@ -1135,6 +1111,30 @@
       "duration_ms": 229766,
       "name": "Gl\u00f3ria",
       "url": "https://open.spotify.com/track/60y8XUD4We3F0hN5PE8Qgo"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
+        "name": "DE CRIA PRA CRIA",
+        "url": "https://open.spotify.com/album/201Vl6NCeUaR2c4bnSxYad"
+      },
+      "artists": [
+        {
+          "name": "ABRONCA",
+          "url": "https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd"
+        },
+        {
+          "name": "Lastra",
+          "url": "https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD"
+        },
+        {
+          "name": "MC Martina",
+          "url": "https://open.spotify.com/artist/5Zdd7OXYYhoqgGlF6dKxde"
+        }
+      ],
+      "duration_ms": 136047,
+      "name": "Vil\u00e3o / Kmila Cdd",
+      "url": "https://open.spotify.com/track/59axndxpWFGRG6Hee9isUL"
     },
     {
       "added_at": "2023-04-28 03:01:00",

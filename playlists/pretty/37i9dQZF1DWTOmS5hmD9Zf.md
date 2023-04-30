@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOmS5hmD9Zf.md) - [plain]
 
 > Cause I'm a person just like you but I got better things to do.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,367 likes - 105 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,392 likes - 105 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOmS5hmD9Zf.md) - [plain]
 | 101 | [Bad Trip](https://open.spotify.com/track/4zwwQyQTq6LAiwabvnIUvx) | [Vitamin X](https://open.spotify.com/artist/290SZ7F6vkU2wx7wMlvCxf) | [Bad Trip](https://open.spotify.com/album/6FlDtny6yOmgFafit13CgG) | 0:56 |
 | 102 | [Fuck Bar Culture](https://open.spotify.com/track/1Lt8syHUCHJsQqg1NMxXBB) | [Coke Bust](https://open.spotify.com/artist/4IvOfFkq1nt7HsLjrY1jDN) | [Fuck Bar Culture](https://open.spotify.com/album/6hJlbPEtqENwrXT982nLYL) | 0:48 |
 | 103 | [Boston Ex](https://open.spotify.com/track/5AM3Y71eabXYF7csmCaARW) | [No Tolerance](https://open.spotify.com/artist/7dGgzNffTgd3YiKqskBCN2) | [Boston Straight Edge](https://open.spotify.com/album/751UGxkbjAqBh4UJejVXIG) | 1:02 |
-| 104 | [C.M.F.](https://open.spotify.com/track/4sVBaie6L3Z1evIhj9MDbn) | [Minority Unit](https://open.spotify.com/artist/4zr6dHfZKuO0HvwuqexH9y) | [Demo 2011](https://open.spotify.com/album/6PhnqBic75cWVIYaz97Cni) | 0:57 |
+| 104 | [C.M.F.](https://open.spotify.com/track/5Z8dVMeWUaatSXb42imEgC) | [Minority Unit](https://open.spotify.com/artist/4zr6dHfZKuO0HvwuqexH9y) | [Demo 2011](https://open.spotify.com/album/0fYJXgU3koIgD7MwnkPbsz) | 0:57 |
 | 105 | [First Offense](https://open.spotify.com/track/0erCLOl8aSItDjv57l6PNN) | [Boston Strangler](https://open.spotify.com/artist/0jcLanwiSXfVgAcsY2mPd4) | [Primitive](https://open.spotify.com/album/5WYYfUoh9Gskv6IZ3ownam) | 1:19 |
 
-Snapshot ID: `MCw0Mzc5ZGJiYmMzNWJkMzkxYTk1ZTdlYTljODk2NDY4Y2EwMjMwNTdj`
+Snapshot ID: `MCxlZjY5YjU0MDhkY2Q2YmRkNTcyMGQ3MTFmZDVlNzgxNTJlZTE2YWY5`

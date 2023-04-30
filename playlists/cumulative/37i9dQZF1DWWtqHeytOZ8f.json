@@ -2376,7 +2376,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 475379,
       "name": "Deipkier",
       "url": "https://open.spotify.com/track/1hZawUg1APIr7nw6MOhyVf"
@@ -3484,7 +3484,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 482146,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/4rAy9yzIm5tmsaTnHeJ892"
@@ -5194,7 +5194,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 190213,
       "name": "Lagoon",
       "url": "https://open.spotify.com/track/7h3fADIo9z6MwCxLT58CdE"
@@ -5360,7 +5360,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 218509,
       "name": "Limit at Sendai",
       "url": "https://open.spotify.com/track/5rWs0KXmSRghQyBKfo7NyL"
@@ -5502,6 +5502,24 @@
       "duration_ms": 228320,
       "name": "Lost Map / The Hawk",
       "url": "https://open.spotify.com/track/3wBkDs9bRmlVapJuwBsdB6"
+    },
+    {
+      "album": {
+        "name": "How I Live Now (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5u01KhbXPKdwXKDkjyl7Am"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228320,
+      "name": "Lost Map / The Hawk",
+      "url": "https://open.spotify.com/track/6NdyROBkv44qzVCOjhci0s"
     },
     {
       "album": {
@@ -6936,7 +6954,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 225207,
       "name": "People On Sunday",
       "url": "https://open.spotify.com/track/6gsHs8YnmYgj14Seft55PN"
@@ -7332,7 +7350,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 235555,
       "name": "Recuerdos del Futuro",
       "url": "https://open.spotify.com/track/7qifh2hnuzm2XeIE9VB5il"
@@ -8838,7 +8856,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 225289,
       "name": "Sunshine in 1929",
       "url": "https://open.spotify.com/track/76Ux8iRWXJwhwyjuuKwbG7"
@@ -10140,7 +10158,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 320933,
       "name": "Underwater Lament",
       "url": "https://open.spotify.com/track/5x85aXgAob5cPgjiiLTcah"
@@ -10324,7 +10342,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 363380,
       "name": "Vaporware 05",
       "url": "https://open.spotify.com/track/1iB6ug1ikOFFLpGI4Nc5Lv"

@@ -4,7 +4,7 @@
 
 > Celebrating Haitian music\. Cover: Tafa Mi\-Soleil
 
-173 songs - 10 hr 20 min
+174 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,8 +109,9 @@
 | [New York City](https://open.spotify.com/track/2cJJoWEccalRGAZO0PqQDi) | [Tabou Combo](https://open.spotify.com/artist/5zOZ2RzZBQkptkPfg9nUoh) | [Anthology, Vol\. IV](https://open.spotify.com/album/6fEktCQSKnmBhsYZdZ16Ey) | 8:46 | 2021-12-06 |  |
 | [No Pares](https://open.spotify.com/track/4r7qhjJiql0ciGLioiNpcr) | [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ), [Sky Monroe](https://open.spotify.com/artist/0MSRJVGKv92k12VWqHmIcG) | [No Pares](https://open.spotify.com/album/5NFoAoyIpeSksTwHbfEIlH) | 3:05 | 2021-12-06 | 2022-05-13 |
 | [No Regrets](https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2) | [Chabin](https://open.spotify.com/artist/6vqF2cU8qDVTogjAlCtBoA), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [No Regrets](https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD) | 2:53 | 2021-12-06 |  |
+| [Nou Pare](https://open.spotify.com/track/1MlKmqvA2LonoOif1Kgq5y) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Coralie Hérard](https://open.spotify.com/artist/3IfmJG3XCLi3hLhwO53eFR) | [Soft Power](https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW) | 3:14 | 2023-03-17 |  |
 | [Nou Pare](https://open.spotify.com/track/1zVhX7e45uIkMsHzwke6Jb) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Coralie Hérard](https://open.spotify.com/artist/3IfmJG3XCLi3hLhwO53eFR) | [Soft Power](https://open.spotify.com/album/6em6BXIsCYjP1JOhaU4Bm6) | 3:14 | 2021-12-06 | 2022-10-13 |
-| [Nou Pare](https://open.spotify.com/track/4MnggOv6w9gmdSlVTukec6) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Coralie Hérard](https://open.spotify.com/artist/3IfmJG3XCLi3hLhwO53eFR) | [Soft Power](https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ) | 3:14 | 2022-10-16 |  |
+| [Nou Pare](https://open.spotify.com/track/4MnggOv6w9gmdSlVTukec6) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Coralie Hérard](https://open.spotify.com/artist/3IfmJG3XCLi3hLhwO53eFR) | [Soft Power](https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ) | 3:14 | 2022-10-16 | 2023-04-30 |
 | [NS Bounce](https://open.spotify.com/track/6wUuMSgi7CVstyIr68xIFo) | [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O), [Da\-P](https://open.spotify.com/artist/4PKHlnz8cQ79kQ6kd3GufJ) | [Kanvaz](https://open.spotify.com/album/6FHdFwiaNMFrFkpEcBOg9l) | 2:58 | 2021-12-06 | 2023-02-18 |
 | [Ocho](https://open.spotify.com/track/5SHrFAnxCwUkt8fh1r3qLd) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN) | [Ocho](https://open.spotify.com/album/4tQk8SwZ5dF5n5LihU6KJz) | 2:39 | 2021-12-06 | 2022-10-13 |
 | [Ocho](https://open.spotify.com/track/63kbEZBD0zATYin8BWju3c) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN) | [Ocho](https://open.spotify.com/album/5SRQszVohD4Raw4vcAMknL) | 2:39 | 2022-10-16 | 2023-02-18 |

@@ -1075,6 +1075,32 @@
     },
     {
       "album": {
+        "name": "Strictly 4 My Fans 2",
+        "url": "https://open.spotify.com/album/0ULanxcKMGRnPcxWXks2w4"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Mello Buckzz",
+          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188246,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/34GXBoC7dTw0s6d6vGfYOT"
+    },
+    {
+      "album": {
         "name": "Paraphernalia 2.0 (feat. G Herbo)",
         "url": "https://open.spotify.com/album/5salZxwbYxM9BF54yeI6vf"
       },
@@ -1216,7 +1242,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-24",
+      "date_removed": null,
       "duration_ms": 194262,
       "name": "PURE (feat. G Herbo)",
       "url": "https://open.spotify.com/track/1GOifqA2EoXqxwFB5aFrWI"
@@ -1722,7 +1748,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 199302,
       "name": "Write Your Name",
       "url": "https://open.spotify.com/track/1nbFaXgi6FVywm9BN4UmUt"

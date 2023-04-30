@@ -386,6 +386,24 @@
     {
       "album": {
         "name": "Max Heart",
+        "url": "https://open.spotify.com/album/3D50t9k2IA6h24JzC9QZRH"
+      },
+      "artists": [
+        {
+          "name": "Kalbells",
+          "url": "https://open.spotify.com/artist/3QY0HtXymB2ej0xIR8RrdP"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220573,
+      "name": "Bubbles",
+      "url": "https://open.spotify.com/track/2rMFQzgLRaNkx7Sr5E6KUh"
+    },
+    {
+      "album": {
+        "name": "Max Heart",
         "url": "https://open.spotify.com/album/20ov0SQRSc42I4L5Vtz4UK"
       },
       "artists": [
@@ -396,7 +414,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 220573,
       "name": "Bubbles",
       "url": "https://open.spotify.com/track/6EZOv0S2V7Rd7hkPRE6Zf3"
@@ -944,10 +962,28 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 416607,
       "name": "Falling (II)",
       "url": "https://open.spotify.com/track/5JCUiQ994E1EKbBak6bJqw"
+    },
+    {
+      "album": {
+        "name": "Falling / Running EP",
+        "url": "https://open.spotify.com/album/0tHa6xdGfp0rvk9pdeDFJj"
+      },
+      "artists": [
+        {
+          "name": "Lace Curtain",
+          "url": "https://open.spotify.com/artist/4j09ESFbTVflGGIU9l9IJ1"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416607,
+      "name": "Falling (II)",
+      "url": "https://open.spotify.com/track/5t9BJ7QUMPhvqU4jRV5UaI"
     },
     {
       "album": {
@@ -2314,10 +2350,32 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 242657,
       "name": "The Ocean",
       "url": "https://open.spotify.com/track/0CfCygNUYJHOPcBAx0GUeL"
+    },
+    {
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/2KgYOIJ18OiPAMH9KRf1Ff"
+      },
+      "artists": [
+        {
+          "name": "Anchorsong",
+          "url": "https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh"
+        },
+        {
+          "name": "Bookend",
+          "url": "https://open.spotify.com/artist/25Fdr64rur2zWVMYSnit4i"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242657,
+      "name": "The Ocean",
+      "url": "https://open.spotify.com/track/11ZEPoLOymnDqXoc1e98FO"
     },
     {
       "album": {

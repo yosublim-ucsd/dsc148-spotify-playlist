@@ -3305,6 +3305,24 @@
     },
     {
       "album": {
+        "name": "That! Feels Good!",
+        "url": "https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262266,
+      "name": "That! Feels Good!",
+      "url": "https://open.spotify.com/track/1XaHF28nrXBbyitGIGSdna"
+    },
+    {
+      "album": {
         "name": "Purple Mountains",
         "url": "https://open.spotify.com/album/6YM4MpYgz6BhIeqQkxp3u4"
       },

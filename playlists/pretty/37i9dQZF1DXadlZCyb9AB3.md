@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 
 > Sleater\-Kinney, in celebration of their new album "Path of Wellness," co\-curate a list of the defining songs of the riot grrrl era, and the bands keeping its spirit alive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,199 likes - 72 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,250 likes - 72 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 46 | [Pretend We're Dead](https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 3:55 |
 | 47 | [Smash Hit](https://open.spotify.com/track/1De7fMm1UPurbI47uUhIqS) | [Potty Mouth](https://open.spotify.com/artist/4liUQpCxxhjGMgc33K81Fw) | [Smash Hit](https://open.spotify.com/album/2P2QieqaKge4w2vkN0C8NI) | 3:20 |
 | 48 | [Bombay](https://open.spotify.com/track/0IwDK2oWehrQ7cv4nA4rj5) | [Sleep Good](https://open.spotify.com/artist/5Fon6tb20oHkqBcePzyJy3) | [Bohemian Grove](https://open.spotify.com/album/0UHxWn1bDOZEGXznuz5oU3) | 3:44 |
-| 49 | [Hey Heartbreaker](https://open.spotify.com/track/2U3DCTEnAF66pImTkso4Qo) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [EP01](https://open.spotify.com/album/7n281LqWVqFX2D2hbBULgM) | 3:33 |
+| 49 | [Hey Heartbreaker](https://open.spotify.com/track/2m4EMioktuQ98TZbkHVmZy) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [EP01](https://open.spotify.com/album/68VhZxHBW8rAwl0cD5D3hZ) | 3:33 |
 | 50 | [Strawberry Gashes](https://open.spotify.com/track/6BbUeBm35cYoGUy70rqsG8) | [Jack Off Jill](https://open.spotify.com/artist/5ybsLFsFrRFXgdklfMryWD) | [Clear Hearts Grey Flowers](https://open.spotify.com/album/7GmU3mfzXDwS68kpuFMczP) | 3:43 |
 | 51 | [Pay Day](https://open.spotify.com/track/3RdLdk0tw9Tx2iIvCESmDP) | [Gauche](https://open.spotify.com/artist/6GVrQ3dvXPc2VcEslMAgk4) | [A People's History of Gauche](https://open.spotify.com/album/3F5wJTFeJeHXR8RAQfVzTW) | 2:50 |
 | 52 | [Not Too Soon](https://open.spotify.com/track/0LmTJN6QFKQ0APV8CV1ebB) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [The Real Ramona](https://open.spotify.com/album/5ejnwNGskDCpNjBnBGw67h) | 3:10 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 63 | [And Breeding](https://open.spotify.com/track/2AD0AAd4bIU6sLOVGkdejy) | [Priests](https://open.spotify.com/artist/5DT78nxI4rAHYddufPUOBx) | [Bodies and Control and Money and Power](https://open.spotify.com/album/6SzzcE8YBk0KsMoIZ5jVg4) | 3:11 |
 | 64 | [We Don't Play Guitars](https://open.spotify.com/track/6gftydYIenhPZnox95KU7N) | [Chicks On Speed](https://open.spotify.com/artist/4EySud7Ww0GNvkwhRYZHLV) | [99 Cents](https://open.spotify.com/album/6BUmp9iDaIOCJZwZ5riq0q) | 3:55 |
 | 65 | [Alabama Movies](https://open.spotify.com/track/0lHJ9bP1Ph6FMFCF1l97Wa) | [Skating Polly](https://open.spotify.com/artist/1ST6hERy8rGdwUaNAZxfG9) | [Fuzz Steilacoom](https://open.spotify.com/album/3obbLp8QVZ6R0JhK252pfY) | 3:40 |
-| 66 | [Let's Make Out](https://open.spotify.com/track/6sFBi0lIQ2tWedzNcFDnkR) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/0fFlloNPNem2XOi4AeU5ty) | 2:55 |
+| 66 | [Let's Make Out](https://open.spotify.com/track/3mTP21FXfGTeZsvyfhiVvO) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/4XNMQKhyNE3BYCPhwTzcFF) | 2:55 |
 | 67 | [Cry Baby](https://open.spotify.com/track/22NvTlRdtyX6EPMSYBOlGM) | [Kitten Forever](https://open.spotify.com/artist/49aEBCKsGMO5vaRnr1GBg4) | [Pressure](https://open.spotify.com/album/4vmr9XYRGlcl1JWY8rQuGL) | 1:44 |
 | 68 | [Form of Luxury](https://open.spotify.com/track/61C0y9rciMaLq2TpmrCrQC) | [Drahla](https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR) | [Third Article](https://open.spotify.com/album/4aOO4anP20r9n9Xq7YURGY) | 3:54 |
 | 69 | [Oh Me I'm Never](https://open.spotify.com/track/6qvBKnJebNW8SITZP9ZvVR) | [ShitKid](https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m) | [Oh Me I'm Never](https://open.spotify.com/album/27G2pLuayZzhTsLILZ2Jk4) | 2:57 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 71 | [Current Affair](https://open.spotify.com/track/721rlw9VI4IqhpPhNFrZIv) | [Sextile](https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56), [Sienna](https://open.spotify.com/artist/0aiQeYnP7FNRD8BwG90wdG) | [Current Affair \(feat\. Sienna\)](https://open.spotify.com/album/30Tq94VCaG31USW0MsFli2) | 2:49 |
 | 72 | [Vagina Police](https://open.spotify.com/track/3P2LZ3iAWSWs2oW6gUzGkE) | [Dream Nails](https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB) | [Double A Side](https://open.spotify.com/album/0ToQnPNr2oKEbtK9mA9XDO) | 1:35 |
 
-Snapshot ID: `MCxiOGMwOWZlOTg1NjQ4MzZjMDU5MzAwY2VmYzJiNTg4OGVjMzM2MmQ0`
+Snapshot ID: `MCw5N2Y1ZjdkZTg4N2QyNDlkY2Q5ZTA5M2I0NzNjYjliODdhYTZiZjgy`

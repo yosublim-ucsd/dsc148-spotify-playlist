@@ -2148,7 +2148,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 204320,
       "name": "Bir Derdim Var",
       "url": "https://open.spotify.com/track/5UV2oqgMXvlkOvvtK3aT7f"
@@ -2764,7 +2764,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 126000,
       "name": "C\u0130RO",
       "url": "https://open.spotify.com/track/65oylkvpvUbOE6h80fdw2V"
@@ -4653,6 +4653,28 @@
     },
     {
       "album": {
+        "name": "G\u0130DERS\u0130N ARAYA",
+        "url": "https://open.spotify.com/album/04q9UBSKiCg2WOsf9AGHLb"
+      },
+      "artists": [
+        {
+          "name": "RECO",
+          "url": "https://open.spotify.com/artist/6W9GklXF52RYMTtbPbty7q"
+        },
+        {
+          "name": "Cash Flow",
+          "url": "https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "G\u0130DERS\u0130N ARAYA",
+      "url": "https://open.spotify.com/track/65h8gl5wiNOBjlvQxzlj1i"
+    },
+    {
+      "album": {
         "name": "Glock",
         "url": "https://open.spotify.com/album/7Dsuv4908ZXkROMTvaxj0R"
       },
@@ -6045,6 +6067,28 @@
     },
     {
       "album": {
+        "name": "Hermano",
+        "url": "https://open.spotify.com/album/75VicDyzJQYjtYdtDyGxn4"
+      },
+      "artists": [
+        {
+          "name": "Heijan",
+          "url": "https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca"
+        },
+        {
+          "name": "Muti",
+          "url": "https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124716,
+      "name": "\u0130mparator",
+      "url": "https://open.spotify.com/track/6P5sYzj0nLufLSiLgcnEUA"
+    },
+    {
+      "album": {
         "name": "\u0130mparator",
         "url": "https://open.spotify.com/album/7fzrnc30uFdoKs3MYCExre"
       },
@@ -6060,7 +6104,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 124716,
       "name": "\u0130mparator",
       "url": "https://open.spotify.com/track/7lOGCEsmoHqai3PHS9kbTa"
@@ -9168,7 +9212,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 229225,
       "name": "Pen\u00e7e",
       "url": "https://open.spotify.com/track/1ol3ppkqUsSfMTJ9gv3bWP"
@@ -11943,6 +11987,24 @@
     },
     {
       "album": {
+        "name": "YAPTIRICAZ TIRNAKLARINI",
+        "url": "https://open.spotify.com/album/2ZFXkkMjgyGVVWC7UaBZpk"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141072,
+      "name": "YAPTIRICAZ TIRNAKLARINI",
+      "url": "https://open.spotify.com/track/2Id54XtcFLHSe0JNfHR45k"
+    },
+    {
+      "album": {
         "name": "Sonsuza Kadar",
         "url": "https://open.spotify.com/album/3ETbFTNmbuKtqoRtnmjTI0"
       },
@@ -12256,6 +12318,24 @@
       "duration_ms": 177447,
       "name": "Yoksa Yasak",
       "url": "https://open.spotify.com/track/1jkCgqZdN8zEtMFwj8NnTa"
+    },
+    {
+      "album": {
+        "name": "Yolum A\u00e7\u0131k",
+        "url": "https://open.spotify.com/album/27gonUY4k1BepMXBLJsfWu"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcne\u015f",
+          "url": "https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161308,
+      "name": "Yolum A\u00e7\u0131k",
+      "url": "https://open.spotify.com/track/5jsqqmZ8wyYQzAmaZRI4I6"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 17629,
+  "num_followers": 17642,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjkwZWQ3N2E0NmRiNGE3ZTM2YmVkODAwYWFiYjliOTZiZTY5MzU3",
+  "snapshot_id": "MCwwNjQ1ZDNlZTJjMDAwMGM3ZjI1Y2ExMjI5MmMyMzAzYmFmMGVmODgy",
   "tracks": [
     {
       "added_at": "2023-04-21 03:00:00",
@@ -595,18 +595,18 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Casi Extra\u00f1os",
-        "url": "https://open.spotify.com/album/5WXpA7EHSaSDjOWg45CetC"
+        "name": "Running Up That Hill - Spotify Singles",
+        "url": "https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v"
       },
       "artists": [
         {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
         }
       ],
-      "duration_ms": 227988,
-      "name": "Casi Extra\u00f1os",
-      "url": "https://open.spotify.com/track/7naPTVNgsAApx8BflqUd7m"
+      "duration_ms": 220005,
+      "name": "Running Up That Hill - Spotify Singles",
+      "url": "https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -627,34 +627,34 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Running Up That Hill - Spotify Singles",
-        "url": "https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v"
+        "name": "Casi Extra\u00f1os",
+        "url": "https://open.spotify.com/album/5WXpA7EHSaSDjOWg45CetC"
       },
       "artists": [
         {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
         }
       ],
-      "duration_ms": 220005,
-      "name": "Running Up That Hill - Spotify Singles",
-      "url": "https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR"
+      "duration_ms": 227988,
+      "name": "Casi Extra\u00f1os",
+      "url": "https://open.spotify.com/track/7naPTVNgsAApx8BflqUd7m"
     },
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Suavemente Entusiasmado",
-        "url": "https://open.spotify.com/album/0pScdvoykEIAnmQLyQkLIZ"
+        "name": "Deseo Permanente",
+        "url": "https://open.spotify.com/album/1sga3Ihe2EfxoGIL4wvBLd"
       },
       "artists": [
         {
-          "name": "Mi Amigo Invencible",
-          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+          "name": "El pr\u00edncipe idiota",
+          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
         }
       ],
-      "duration_ms": 236445,
-      "name": "Suavemente Entusiasmado",
-      "url": "https://open.spotify.com/track/1sFJ4OmvhDydbdDBX3kkNx"
+      "duration_ms": 344434,
+      "name": "Deseo Permanente",
+      "url": "https://open.spotify.com/track/00P9KJpQNtviOk95bb1CBl"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -679,18 +679,18 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Deseo Permanente",
-        "url": "https://open.spotify.com/album/1sga3Ihe2EfxoGIL4wvBLd"
+        "name": "Suavemente Entusiasmado",
+        "url": "https://open.spotify.com/album/0pScdvoykEIAnmQLyQkLIZ"
       },
       "artists": [
         {
-          "name": "El pr\u00edncipe idiota",
-          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
         }
       ],
-      "duration_ms": 344434,
-      "name": "Deseo Permanente",
-      "url": "https://open.spotify.com/track/00P9KJpQNtviOk95bb1CBl"
+      "duration_ms": 236445,
+      "name": "Suavemente Entusiasmado",
+      "url": "https://open.spotify.com/track/1sFJ4OmvhDydbdDBX3kkNx"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "TKM",
-        "url": "https://open.spotify.com/album/2Qi4p3mBPmfTSyx6bCAEEX"
-      },
-      "artists": [
-        {
-          "name": "Riel",
-          "url": "https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu"
-        }
-      ],
-      "duration_ms": 154548,
-      "name": "TKM",
-      "url": "https://open.spotify.com/track/3IojTR6Zm6U9hnToRnW55L"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "La Cuesta del Sol",
         "url": "https://open.spotify.com/album/5gekmcL9Z7FecGC7wikhij"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 245034,
       "name": "La Cuesta del Sol",
       "url": "https://open.spotify.com/track/0DTMf6V0Kq9jU2NldMyrQl"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "TKM",
+        "url": "https://open.spotify.com/album/2Qi4p3mBPmfTSyx6bCAEEX"
+      },
+      "artists": [
+        {
+          "name": "Riel",
+          "url": "https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu"
+        }
+      ],
+      "duration_ms": 154548,
+      "name": "TKM",
+      "url": "https://open.spotify.com/track/3IojTR6Zm6U9hnToRnW55L"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "La Cena",
-        "url": "https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS"
-      },
-      "artists": [
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "La Cena",
-      "url": "https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Jard\u00edn Secreto",
         "url": "https://open.spotify.com/album/73sOVogAh0frrxkzHpKBs6"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 232454,
       "name": "Jardin Secreto",
       "url": "https://open.spotify.com/track/0IygTofvuok3zLmPQgjtbw"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "La Cena",
+        "url": "https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "La Cena",
+      "url": "https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Soy un Extra\u00f1o",
-        "url": "https://open.spotify.com/album/5ZvDMLfhc8pjbqqFnb6SDi"
-      },
-      "artists": [
-        {
-          "name": "L E O",
-          "url": "https://open.spotify.com/artist/3NlTAtfmLjoRSJ0vzck3G2"
-        }
-      ],
-      "duration_ms": 154411,
-      "name": "Qu\u00e9 Decir?",
-      "url": "https://open.spotify.com/track/3QKDDd7Se1cthtt5viCa4h"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "El bosque del recuerdo",
         "url": "https://open.spotify.com/album/4sSVCsRnVyx0m5hkBzIy1Q"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 246594,
       "name": "En Toneles",
       "url": "https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Soy un Extra\u00f1o",
+        "url": "https://open.spotify.com/album/5ZvDMLfhc8pjbqqFnb6SDi"
+      },
+      "artists": [
+        {
+          "name": "L E O",
+          "url": "https://open.spotify.com/artist/3NlTAtfmLjoRSJ0vzck3G2"
+        }
+      ],
+      "duration_ms": 154411,
+      "name": "Qu\u00e9 Decir?",
+      "url": "https://open.spotify.com/track/3QKDDd7Se1cthtt5viCa4h"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Autorretrato en Blanco - Versi\u00f3n Lofi",
-        "url": "https://open.spotify.com/album/3Y0ga9ccVWjbbcsz4WbShY"
-      },
-      "artists": [
-        {
-          "name": "Los Jardines De Bruselas",
-          "url": "https://open.spotify.com/artist/2F4tyujNuSw8UiWfwujwP8"
-        }
-      ],
-      "duration_ms": 232173,
-      "name": "Autorretrato en Blanco - Versi\u00f3n Lofi",
-      "url": "https://open.spotify.com/track/2hTLilKnyaOeQ2Ost5uGDS"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Polvo",
         "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 236890,
       "name": "Polvo",
       "url": "https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Autorretrato en Blanco - Versi\u00f3n Lofi",
+        "url": "https://open.spotify.com/album/3Y0ga9ccVWjbbcsz4WbShY"
+      },
+      "artists": [
+        {
+          "name": "Los Jardines De Bruselas",
+          "url": "https://open.spotify.com/artist/2F4tyujNuSw8UiWfwujwP8"
+        }
+      ],
+      "duration_ms": 232173,
+      "name": "Autorretrato en Blanco - Versi\u00f3n Lofi",
+      "url": "https://open.spotify.com/track/2hTLilKnyaOeQ2Ost5uGDS"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "Tan Cerca",
+        "url": "https://open.spotify.com/album/3b4moRrmBqJKu3mwvHenh7"
+      },
+      "artists": [
+        {
+          "name": "Garage 21",
+          "url": "https://open.spotify.com/artist/1vhJgSGrEaNhIEnFkBsu6j"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "Tan Cerca",
+      "url": "https://open.spotify.com/track/1ZpUJ5B8l8YmGXs5ZbnKnY"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "Me Siento Que No",
         "url": "https://open.spotify.com/album/2jjrnQTIGnT3wPufY0dlrG"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 236655,
       "name": "Me Siento Que No",
       "url": "https://open.spotify.com/track/715WLRXs9Jrc65K2KH1lNS"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "Tan Cerca",
-        "url": "https://open.spotify.com/album/3b4moRrmBqJKu3mwvHenh7"
-      },
-      "artists": [
-        {
-          "name": "Garage 21",
-          "url": "https://open.spotify.com/artist/1vhJgSGrEaNhIEnFkBsu6j"
-        }
-      ],
-      "duration_ms": 194760,
-      "name": "Tan Cerca",
-      "url": "https://open.spotify.com/track/1ZpUJ5B8l8YmGXs5ZbnKnY"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Contracorriente",
-        "url": "https://open.spotify.com/album/6f3H56a9DRefillpoiBWjN"
-      },
-      "artists": [
-        {
-          "name": "Los Lilas",
-          "url": "https://open.spotify.com/artist/3u5ZEm7fgzf13JlHwmVhKB"
-        }
-      ],
-      "duration_ms": 202554,
-      "name": "Universos Paralelos",
-      "url": "https://open.spotify.com/track/4QLokwnp4RMWpofhjj1zH6"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Sentimental",
         "url": "https://open.spotify.com/album/4ZXOBiBeqFk17eXfYxeTRd"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 198920,
       "name": "Sentimental",
       "url": "https://open.spotify.com/track/5yOFFvpuUS2lkNNDT9WlS2"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Contracorriente",
+        "url": "https://open.spotify.com/album/6f3H56a9DRefillpoiBWjN"
+      },
+      "artists": [
+        {
+          "name": "Los Lilas",
+          "url": "https://open.spotify.com/artist/3u5ZEm7fgzf13JlHwmVhKB"
+        }
+      ],
+      "duration_ms": 202554,
+      "name": "Universos Paralelos",
+      "url": "https://open.spotify.com/track/4QLokwnp4RMWpofhjj1zH6"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Flama",
-        "url": "https://open.spotify.com/album/4g8Ib0P4gTaHeyFbK8BsCt"
+        "name": "P\u00e1nico y Distorsi\u00f3n",
+        "url": "https://open.spotify.com/album/7hhroFtSzsFx9L9ALmKESc"
       },
       "artists": [
         {
-          "name": "ASTOR",
-          "url": "https://open.spotify.com/artist/5HOLlBg0CiYtDCkml6ysqC"
+          "name": "Piba",
+          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
         }
       ],
-      "duration_ms": 291555,
-      "name": "Flama",
-      "url": "https://open.spotify.com/track/6NpGYnHsT8nN9FIDg0zJfC"
+      "duration_ms": 213199,
+      "name": "Domin\u00f3",
+      "url": "https://open.spotify.com/track/5EcAHmTsaczK3TCNKxypXM"
     }
   ],
   "unique_name": "6PM Indie",

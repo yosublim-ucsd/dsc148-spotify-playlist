@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 
 > Indie folk ventures into the cinematic West.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,311 likes - 101 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,386 likes - 101 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 | 71 | [With Roses](https://open.spotify.com/track/7mFndwzSz1tL9hQJe8VcoB) | [The Walking Who](https://open.spotify.com/artist/2rSnDv4mgde9Nrmd29Xv4r) | [Lewiside](https://open.spotify.com/album/1pyXvUn0xwcdO8FLCh9Vte) | 3:31 |
 | 72 | [The Dirt](https://open.spotify.com/track/19tDNU6hOt4wdXWgv1PUMf) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:35 |
 | 73 | [Cigarettes and Red Wine](https://open.spotify.com/track/2TQnbWPeINdKNNahGDDTZx) | [Ella Fence](https://open.spotify.com/artist/1E5sJ5BrLqHGxzgy8cDJ0B) | [Wanderlust](https://open.spotify.com/album/5ddYMcPHMnlbboexXJLNP7) | 3:23 |
-| 74 | [Creektime](https://open.spotify.com/track/7Fb0Ow5b2PhklZujmyiSC7) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [222](https://open.spotify.com/album/7xnWrKtdWfj3PjGmK6Tq1P) | 1:54 |
+| 74 | [Creektime](https://open.spotify.com/track/3KuHhzqt95E6hniRq3x95S) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [222](https://open.spotify.com/album/1LkiSSGpC70DBh7UsGB0y2) | 1:54 |
 | 75 | [Nowhere to Go \- The Acoustic Live Session](https://open.spotify.com/track/6pFsQ19Z0sWeRSQn1VixmQ) | [Hurricane Love](https://open.spotify.com/artist/53MZAS2HbBSfBrIw4yPxIw) | [EP \(The Acoustic Live Session\)](https://open.spotify.com/album/2N00sMqDe8ReZKN5UU2VIB) | 3:41 |
 | 76 | [The Angry River \- From The HBO Series True Detective](https://open.spotify.com/track/6QrEMjyqNXkBPST3SEN575) | [S.I\. Istwa](https://open.spotify.com/artist/23DkZl7xuseePWZqXE1qUr), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [True Detective \(Music From The HBO Series\)](https://open.spotify.com/album/0LWE1LoGRUmfXZpnWBWVRo) | 2:55 |
 | 77 | [The Ballad Of Minnie Dean](https://open.spotify.com/track/0giHz6O5iah8tfmiitmn9p) | [Delaney Davidson](https://open.spotify.com/artist/5gKjq94Zz8p953ddbd9bRP), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Sad But True \(Vol.3\)](https://open.spotify.com/album/7wKgeIs0pu6jctgW348TB3) | 2:48 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 | 100 | [A Church In Ruins \- From The HBO Series True Detective](https://open.spotify.com/track/1nOX0ALAjpYGys5keet5JJ) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [A Church In Ruins \(From The HBO Series True Detective\)](https://open.spotify.com/album/1QHLQdd9J4JcJ8FomKvz1v) | 2:52 |
 | 101 | [Sunrise](https://open.spotify.com/track/6Zg0Vuj81fvyCwn7SlUMYV) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Hawk](https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs) | 2:31 |
 
-Snapshot ID: `MCwxM2U5MGI5MTY5NTc4Y2I1MDVmOWM5NjY4YzllYzE3ZDc5YWQ1YzAw`
+Snapshot ID: `MCxjMjVmNjM5NDc1NTM1OGI1MzJjMjZiYTA0Yjk0M2RlZjNmODdhYzQ5`

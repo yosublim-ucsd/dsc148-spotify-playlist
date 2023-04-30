@@ -1156,10 +1156,28 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 264402,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/3zfn7mpuEfL0C4x6MTjTAr"
+    },
+    {
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/3XedtVc8Dx4e5kXLK36uYB"
+      },
+      "artists": [
+        {
+          "name": "Fia",
+          "url": "https://open.spotify.com/artist/3uwg3MMPpcXtJ7OknqdO9W"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264402,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/6HwcP1XamKZwjAmcdBN2Pk"
     },
     {
       "album": {

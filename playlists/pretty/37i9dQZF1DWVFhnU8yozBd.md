@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 
 > <a href="spotify:artist:7wXTWO45lqpUejDkike0Gf">Sofia Kourtesis</a>'s favorite tracks\. Updated regularly\. Curated by Sofia Kourtesis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,950 likes - 117 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,977 likes - 117 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 | 19 | [Canoa](https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx) | [DJ Gregory](https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Canoa](https://open.spotify.com/album/4hpJ2yJGx1GM6j6qyT8fpt) | 9:06 |
 | 20 | [Glints](https://open.spotify.com/track/4HaqphXEt6efmGX8yTsFmB) | [Frits Wentink](https://open.spotify.com/artist/6RU8a6xLRtKJckACb5wf5D) | [Rarely Pure, Never Simple](https://open.spotify.com/album/40F68tBDpXPfyk4438lwxB) | 5:54 |
 | 21 | [Nices Wölkchen](https://open.spotify.com/track/78WXbs2VMEGYXoGPyokKXZ) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot) | [Amygdala](https://open.spotify.com/album/4W6mTFGMa5Zc4lWp7sOifv) | 5:31 |
-| 22 | [Memory Lake](https://open.spotify.com/track/5xoUQZ8vTXssvodw7ykTXG) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H) | [Vortex](https://open.spotify.com/album/2wloRNpWkvTJyFJTyexRwh) | 5:39 |
+| 22 | [Memory Lake](https://open.spotify.com/track/27wL9Cip8cgvtNRFNpkvcV) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H) | [Vortex](https://open.spotify.com/album/2UB4seNzh7Gt4unJR2T0x1) | 5:39 |
 | 23 | [Mermaids On Acid](https://open.spotify.com/track/1Dj2EvuZWH7fkovM61Xh0T) | [Sedef Adasi](https://open.spotify.com/artist/4jY1cwyuyqQATeSI16ZeYD) | [Mermaids On Acid](https://open.spotify.com/album/3XzMBTlN73SweePab35Mqp) | 4:21 |
 | 24 | [Panama](https://open.spotify.com/track/1GVTAHdipYZ8fBgYMqzgPj) | [Peter Luedemann](https://open.spotify.com/artist/23efnGCt8KSLQa2Yv59A4C), [Pit Troja](https://open.spotify.com/artist/24GWBtlxKmo7NxPSP1sqL6) | [The Now Generation: Percussive Underscores](https://open.spotify.com/album/65QaC2Z7MRc3mzDtcdLApy) | 2:22 |
 | 25 | [You Could Be More As You Are](https://open.spotify.com/track/1z4wF1YNe3FphOqyD2eRqY) | [Saâda Bonaire](https://open.spotify.com/artist/7y1XjJQEGtFmh1MNyWU6cg) | [Saâda Bonaire](https://open.spotify.com/album/0POnlLnYjmV7QIGKgmx1W8) | 5:56 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 | 40 | [Move Your Body](https://open.spotify.com/track/3mWw5uzVNZiuoJx2VsiLdp) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [Resonant Body](https://open.spotify.com/album/4tCzrHhdqQ8CiM9e3tZR0F) | 4:38 |
 | 41 | [Take \#3](https://open.spotify.com/track/7o9XDNJHk0ZuFotNhbHdYG) | [Matt Karmil](https://open.spotify.com/artist/7BMPLwFPZGB8CUKjHnsyJ4) | [Take \#3 \(Sisters & Brothers\)](https://open.spotify.com/album/7hqBW8Yj9FGM3lG0RWbgLh) | 4:43 |
 | 42 | [Pree Me feat\. なかむらみなみ](https://open.spotify.com/track/6pH2lh0AXnDpPBWRbZZccu) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5) | [Pree Me / Get That Juice](https://open.spotify.com/album/4GKXVkZUsP66QecSY71kEg) | 3:07 |
-| 43 | [Amor en el Cielo](https://open.spotify.com/track/2pjgyameGahHsasUXS2ajF) | [Beni Life](https://open.spotify.com/artist/6Lw0rQu6WBi2B1W3XBfUoW) | [Ritmo Fantasía: Balearic Spanish Synth\-Pop, Boogie And House \(1982\-1992\)](https://open.spotify.com/album/4athIGponDiJRR4djOgwbJ) | 5:15 |
+| 43 | [Amor en el Cielo](https://open.spotify.com/track/3aRG0ktXmISKj6InRRlVEa) | [Beni Life](https://open.spotify.com/artist/6Lw0rQu6WBi2B1W3XBfUoW) | [Ritmo Fantasía: Balearic Spanish Synth\-Pop, Boogie And House \(1982\-1992\)](https://open.spotify.com/album/6hF1xbglHjBHYkv2FMtyiq) | 5:15 |
 | 44 | [Church of SoMa \- Original Mix](https://open.spotify.com/track/1ScdWAxbu8RNcqNSkKgMJg) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Church of SoMa EP](https://open.spotify.com/album/52TpWLnxPVgSSEuxAoG8Kl) | 6:46 |
 | 45 | [Bodies Meld Together](https://open.spotify.com/track/72uvl0MlLHMt8f4jbjhere) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [For Lovers](https://open.spotify.com/album/1kV1CYyGYVePD90IJ7ZzYZ) | 7:53 |
 | 46 | [Mothra](https://open.spotify.com/track/4jKudQqZgoQMhOvpGdcnYi) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Rare, Forever](https://open.spotify.com/album/5UfCxNbc7RTtM6FyVqyi5x) | 5:39 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 | 116 | [Moninga](https://open.spotify.com/track/4P79noXrKGHrYUrsZioxjv) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/51Feoswkepa9SEg307gah5) | 4:55 |
 | 117 | [Balance \- Dj Floor Remix](https://open.spotify.com/track/0zKxARvuFIfUMx1MiuZaMR) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6), [DJ Floor](https://open.spotify.com/artist/6BuZRXj92YFV1pm7G8ZEyY) | [Balance \(Remixes\)](https://open.spotify.com/album/2OYcucJqPHC9paken1byEp) | 4:07 |
 
-Snapshot ID: `MCwwNDc4OTdmMGNjOTg4NThmZWUyNzMwOWY1YzAxMDQ4YmExZGU5YmI3`
+Snapshot ID: `MCw3N2I1NWFjYzM5MGFlZDIwNWExOTlhNDQzOTlkOTYzNmZkNjM3MDE3`

@@ -4,7 +4,7 @@
 
 > From '56 to '76 \- the original volcanic revolutionaries from Rock 'n' Roll, Garage, Psych, Trash, Kraut, Glam and Prog...
 
-255 songs - 13 hr 57 min
+256 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,8 @@
 | [Paranoid](https://open.spotify.com/track/4MSqgoFS7e8LpsxeeMMVMu) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [The Ultimate Collection](https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv) | 2:48 | 2015-07-23 | 2022-11-13 |
 | [Paranoid \- 2012 \- Remaster](https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 2:48 | 2015-07-23 |  |
 | [Personality Crisis](https://open.spotify.com/track/4AwKXevZmsTNa3KZVj3rzl) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:41 | 2019-06-19 |  |
-| [Primitive](https://open.spotify.com/track/0HrlxL4mc9bZID89SqUp2u) | [The Groupies](https://open.spotify.com/artist/4ngoUfa27SIb0Xytpvml6r) | [Primitive](https://open.spotify.com/album/2o9H4BuxkeSOaUuM3bxCQv) | 3:32 | 2020-01-07 |  |
+| [Primitive](https://open.spotify.com/track/0HrlxL4mc9bZID89SqUp2u) | [The Groupies](https://open.spotify.com/artist/4ngoUfa27SIb0Xytpvml6r) | [Primitive](https://open.spotify.com/album/2o9H4BuxkeSOaUuM3bxCQv) | 3:32 | 2020-01-07 | 2023-04-30 |
+| [Primitive](https://open.spotify.com/track/4KT9Nd36rXPdTStMWlXrP0) | [The Groupies](https://open.spotify.com/artist/4ngoUfa27SIb0Xytpvml6r) | [Primitive](https://open.spotify.com/album/6smtmuOX6WDqBYuYlxA4wB) | 3:32 | 2020-01-07 |  |
 | [Psycho](https://open.spotify.com/track/77DvhwGhnmfrXWwiJzeIMC) | [The Sonics](https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy) | [Maintaining My Cool](https://open.spotify.com/album/5joOZaTA1gkFmw0eLM8ASR) | 2:20 | 2015-07-23 |  |
 | [Psychotic Reaction](https://open.spotify.com/track/5JcaA4A9ZoXthwEnxOxWvP) | [Count Five](https://open.spotify.com/artist/57WXdjUf5Vlq3klNZegeTP) | [Psychotic Reaction](https://open.spotify.com/album/7Mccdl5xR9mfqo00lgDVDA) | 3:05 | 2015-07-23 |  |
 | [Psychotic Reaction](https://open.spotify.com/track/2SFV0zV02esGa8ZsqCy3u6) | [Count Five](https://open.spotify.com/artist/57WXdjUf5Vlq3klNZegeTP) | [Psychotic Reaction \(Digitally Remastered\)](https://open.spotify.com/album/7EEAkhDXM32FW4yCxY0L8v) | 3:08 | 2015-07-23 | 2022-07-29 |
@@ -192,9 +193,9 @@
 | [Rough Kids](https://open.spotify.com/track/6YFEfaiIMGFAJsJHbLSLUF) | [Kilburn & The High Roads](https://open.spotify.com/artist/3I97dteSoWkFBMy7C2TGSH) | [Handsome \(Bonus Track Edition\)](https://open.spotify.com/album/3UB63Gv6n5Aj5keynEbLCv) | 2:26 | 2015-07-23 |  |
 | [Rumble](https://open.spotify.com/track/0pxThPQcINQ8bBGFGYMwAD) | [Link Wray](https://open.spotify.com/artist/2vQavlZtDA660mnZotYIto) | [Rockabilly Insanity](https://open.spotify.com/album/5cZvrLii3UfiNn7UYgVJtL) | 2:24 | 2015-07-23 | 2022-07-29 |
 | [Rumble](https://open.spotify.com/track/5W45ACJYATjWEwUDYM5TDi) | [Link Wray & The Wraymen](https://open.spotify.com/artist/6PnWx4EpoWejrFQfrg06hU) | [Rumble / The Swag](https://open.spotify.com/album/70hzJHg6pWndTe9lm4SZVB) | 2:27 | 2015-07-23 |  |
-| [Search & Destroy](https://open.spotify.com/track/3X9fXH0FzBloyaUkz5qr0C) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Nude & Rude: The Best Of Iggy](https://open.spotify.com/album/6akbXeeYHLDS4DpP7IVJ67) | 3:26 | 2015-07-23 | 2022-11-13 |
+| [Search & Destroy](https://open.spotify.com/track/3X9fXH0FzBloyaUkz5qr0C) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Nude & Rude: The Best Of Iggy](https://open.spotify.com/album/6akbXeeYHLDS4DpP7IVJ67) | 3:26 | 2015-07-23 |  |
 | [Search And Destroy](https://open.spotify.com/track/14JJisJPl27K4OE2zeRqgX) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [The Life Aquatic With Steve Zissou](https://open.spotify.com/album/05mpXOy7NNlc3oGqNathD6) | 3:27 | 2015-07-23 | 2022-07-29 |
-| [Search And Destroy](https://open.spotify.com/track/7bebHZwpRnV1r2CDsuApgD) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [A Million In Prizes: Iggy Pop Anthology \(Edited Version\)](https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg) | 3:29 | 2015-07-23 |  |
+| [Search And Destroy](https://open.spotify.com/track/7bebHZwpRnV1r2CDsuApgD) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [A Million In Prizes: Iggy Pop Anthology \(Edited Version\)](https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg) | 3:29 | 2015-07-23 | 2023-04-30 |
 | [Search and Destroy \[2023 Remaster\] \- Iggy Mix](https://open.spotify.com/track/00sydAz6PeOxYzwG1dRIPi) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Raw Power \(Iggy Mix \- 2023 Remaster\)](https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM) | 3:30 | 2015-07-23 | 2023-02-04 |
 | [Send Me A Postcard](https://open.spotify.com/track/6EXOSA4BWBM1AUsXxKwYDT) | [Shocking Blue](https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk) | [Scorpio's Dance](https://open.spotify.com/album/0JqylHtd5MjYXBG2zypr0T) | 2:40 | 2019-06-19 |  |
 | [Shake Some Action](https://open.spotify.com/track/3GqP6bUY1XHVlThBoQQk0z) | [Flamin' Groovies](https://open.spotify.com/artist/3yesh1QeNXucaDFw8ZPKxd) | [Groovies Greatest Grooves](https://open.spotify.com/album/1hSEfZ3n3kCisvO9RDerhg) | 4:33 | 2015-07-23 |  |

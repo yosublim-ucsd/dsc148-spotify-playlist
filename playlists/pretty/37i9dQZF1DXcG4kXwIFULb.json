@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 117706,
+  "num_followers": 117897,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDJhNjE1ZDVmMjA2MzFhMDI5Y2ExZmNmYjhlOGE4MmNkMzE3MDRj",
+  "snapshot_id": "MCxhMGI1NjJmMWVjM2U1Y2ZmYjI1ZDMyYzNjMTZlNjk2MWY2N2Y0NzMx",
   "tracks": [
     {
       "added_at": "2020-09-04 01:12:56",
@@ -471,22 +471,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Tourist (Remastered)",
-        "url": "https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj"
-      },
-      "artists": [
-        {
-          "name": "St Germain",
-          "url": "https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n"
-        }
-      ],
-      "duration_ms": 416565,
-      "name": "Rose rouge",
-      "url": "https://open.spotify.com/track/1divptdjcWXvF1aflfTQnw"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "The Richest Man In Babylon",
         "url": "https://open.spotify.com/album/22Y3wMfU6Bm0rtnjaljDSn"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 236960,
       "name": "Until The Morning",
       "url": "https://open.spotify.com/track/7nNUSD1jkWC71zIOUWY03E"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Tourist (Remastered)",
+        "url": "https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj"
+      },
+      "artists": [
+        {
+          "name": "St Germain",
+          "url": "https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n"
+        }
+      ],
+      "duration_ms": 416565,
+      "name": "Rose rouge",
+      "url": "https://open.spotify.com/track/1divptdjcWXvF1aflfTQnw"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -787,6 +787,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Paradise Blown",
+        "url": "https://open.spotify.com/album/5Z8qe0ZaUHELNSxGMqODtu"
+      },
+      "artists": [
+        {
+          "name": "9 Lazy 9",
+          "url": "https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "Black Jesus",
+      "url": "https://open.spotify.com/track/2Aujipv9QnsdezNWnb7s4W"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "The Campfire Headphase",
         "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 282573,
       "name": "Nova",
       "url": "https://open.spotify.com/track/0lcfJc4pG6xnNmrUlZ9232"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Paradise Blown",
-        "url": "https://open.spotify.com/album/5Z8qe0ZaUHELNSxGMqODtu"
-      },
-      "artists": [
-        {
-          "name": "9 Lazy 9",
-          "url": "https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "Black Jesus",
-      "url": "https://open.spotify.com/track/2Aujipv9QnsdezNWnb7s4W"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "DJ-Kicks",
+        "url": "https://open.spotify.com/album/0Ba6Ld8Ss2oAH1x7Hv1v53"
+      },
+      "artists": [
+        {
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+        }
+      ],
+      "duration_ms": 380786,
+      "name": "Black Baby (DJ-KiCKS)",
+      "url": "https://open.spotify.com/track/13FO5ag4v62zedndUziMI7"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Angel Milk",
         "url": "https://open.spotify.com/album/4YjO6XT3uuRvY9PGWPli7E"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 230066,
       "name": "Don't Look Back",
       "url": "https://open.spotify.com/track/6T1DyqY15fNj7F5FK4r5VR"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "DJ-Kicks",
-        "url": "https://open.spotify.com/album/0Ba6Ld8Ss2oAH1x7Hv1v53"
-      },
-      "artists": [
-        {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
-        }
-      ],
-      "duration_ms": 380786,
-      "name": "Black Baby (DJ-KiCKS)",
-      "url": "https://open.spotify.com/track/13FO5ag4v62zedndUziMI7"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "If You Wait",
-        "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 207253,
-      "name": "Hey Now",
-      "url": "https://open.spotify.com/track/51ZPtAuqT0V5lNONYZTrxy"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Supermodified",
         "url": "https://open.spotify.com/album/54zaC0AviuCfkDwHsUJIra"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 337506,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/15J6PrzKaLtvw0dBr9sq72"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "If You Wait",
+        "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 207253,
+      "name": "Hey Now",
+      "url": "https://open.spotify.com/track/51ZPtAuqT0V5lNONYZTrxy"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Nothing Changes Under The Sun",
-        "url": "https://open.spotify.com/album/6RQQ8KVvHBburwHP0zpLfK"
-      },
-      "artists": [
-        {
-          "name": "Blue States",
-          "url": "https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6"
-        }
-      ],
-      "duration_ms": 304333,
-      "name": "Your Girl",
-      "url": "https://open.spotify.com/track/4iBqN4fvv1j9mvc8sHp8Nu"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "The Cosmic Game",
         "url": "https://open.spotify.com/album/5TXP9f2NLMzYoVOfyhAjFO"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 139226,
       "name": "The Cosmic Game",
       "url": "https://open.spotify.com/track/6x8yvtqzNmzyzLbqy1BDIs"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Nothing Changes Under The Sun",
+        "url": "https://open.spotify.com/album/6RQQ8KVvHBburwHP0zpLfK"
+      },
+      "artists": [
+        {
+          "name": "Blue States",
+          "url": "https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6"
+        }
+      ],
+      "duration_ms": 304333,
+      "name": "Your Girl",
+      "url": "https://open.spotify.com/track/4iBqN4fvv1j9mvc8sHp8Nu"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1463,6 +1463,26 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Psyence Fiction",
+        "url": "https://open.spotify.com/album/0LFPjvWEaHP7WKQD6F5pVS"
+      },
+      "artists": [
+        {
+          "name": "UNKLE",
+          "url": "https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC"
+        },
+        {
+          "name": "Richard Ashcroft",
+          "url": "https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU"
+        }
+      ],
+      "duration_ms": 533013,
+      "name": "Lonely Soul",
+      "url": "https://open.spotify.com/track/2LmFeLBe39IfY0XfqJ0vOi"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "The Audience's Listening (U.S. Version)",
         "url": "https://open.spotify.com/album/51eBQ2u5LInHRAicVdekxi"
       },
@@ -1523,26 +1543,6 @@
       "duration_ms": 440040,
       "name": "His Majesty King Raam",
       "url": "https://open.spotify.com/track/4J8ms7TbPISBz71G5z2SGS"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Psyence Fiction",
-        "url": "https://open.spotify.com/album/0LFPjvWEaHP7WKQD6F5pVS"
-      },
-      "artists": [
-        {
-          "name": "UNKLE",
-          "url": "https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC"
-        },
-        {
-          "name": "Richard Ashcroft",
-          "url": "https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU"
-        }
-      ],
-      "duration_ms": 533013,
-      "name": "Lonely Soul",
-      "url": "https://open.spotify.com/track/2LmFeLBe39IfY0XfqJ0vOi"
     },
     {
       "added_at": "2020-09-04 01:12:56",

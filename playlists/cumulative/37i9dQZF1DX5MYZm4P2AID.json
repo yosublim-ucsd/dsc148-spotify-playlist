@@ -786,7 +786,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 112493,
-      "name": "Divina",
+      "name": "Divina - Live",
       "url": "https://open.spotify.com/track/6bzwaJTaI6Upfv8FgKOXSd"
     },
     {
@@ -2072,10 +2072,28 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 252000,
       "name": "More Mess on My Thing",
       "url": "https://open.spotify.com/track/3HgPOHHJWnMfv1Zw27Jh2V"
+    },
+    {
+      "album": {
+        "name": "Practice What You Preach",
+        "url": "https://open.spotify.com/album/0e3CsfgtzbhR5ofqRDnAlT"
+      },
+      "artists": [
+        {
+          "name": "The Poets Of Rhythm",
+          "url": "https://open.spotify.com/artist/1i4iT0Sw4OUeMp7egnsbxR"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "More Mess on My Thing",
+      "url": "https://open.spotify.com/track/3a1Ska1dAtx4KE4b86eumQ"
     },
     {
       "album": {
@@ -2678,10 +2696,28 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 228306,
       "name": "Raspberry Jam",
       "url": "https://open.spotify.com/track/4fRpUfyqeqTOeunuvRkJ57"
+    },
+    {
+      "album": {
+        "name": "Raspberry Jam",
+        "url": "https://open.spotify.com/album/423fbDrzqAKQRgShoa2ujL"
+      },
+      "artists": [
+        {
+          "name": "Allah-Las",
+          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228306,
+      "name": "Raspberry Jam",
+      "url": "https://open.spotify.com/track/5h2KygZTCVxt7MLKjoaixE"
     },
     {
       "album": {

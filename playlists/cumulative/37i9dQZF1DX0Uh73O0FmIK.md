@@ -4,7 +4,7 @@
 
 > 01110000 01101100 01100001 01111001 01101100 01101001 01110011 01110100
 
-111 songs - 7 hr 38 min
+112 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:59 | 2022-05-19 |  |
 | [Luv Deluxe](https://open.spotify.com/track/6NFVMrNI3mHeFSAwdbAYfU) | [Cinnamon Chasers](https://open.spotify.com/artist/3q7uty73JMtjzCSJdGQD7B) | [A Million Miles from Home](https://open.spotify.com/album/4atwagTKLpazdKchxdJEnI) | 4:33 | 2022-05-19 |  |
 | [Make This Right](https://open.spotify.com/track/7mSmt2yar5VUXZNBV4AnpE) | [The Toxic Avenger](https://open.spotify.com/artist/5zExRf0VQCl3GO4Jrj8r0s) | [Furi \(Original Game Soundtrack\)](https://open.spotify.com/album/1NCt4W6d8fNGkBQAjXDVrA) | 5:48 | 2022-12-20 |  |
+| [More Coke!!](https://open.spotify.com/track/3IQ4kBI1VBRa4YoGtW8mGU) | [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [4:23](https://open.spotify.com/album/0ACtwMaMVewYM4hFu9FXhZ) | 2:52 | 2023-04-29 |  |
 | [Motor](https://open.spotify.com/track/155t0i7MddhDV4l1KzXgdj) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Total](https://open.spotify.com/album/5WXzljd68vlJL83jHUFcCo) | 4:03 | 2022-05-19 |  |
 | [Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 4:18 | 2022-05-19 |  |
 | [Ocean Death](https://open.spotify.com/track/2CPeOsbTPnJibSwVo3zLrz) | [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [Ocean Death](https://open.spotify.com/album/4iU3Ro1wRrnZ1lfOIrV4jG) | 5:29 | 2022-05-19 | 2023-03-18 |

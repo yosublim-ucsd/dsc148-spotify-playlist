@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vmXrF8Shld.md) - [plain]
 
 > The best and finest '60s Funk\. Cover: The Meters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,506 likes - 69 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,559 likes - 69 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vmXrF8Shld.md) - [plain]
 | 22 | [What a Man \- Remastered Single Version](https://open.spotify.com/track/0pcsr9n7Pn6XOfzcvoxRB4) | [Laura Lee](https://open.spotify.com/artist/0ApoVi8QEh35twomSXh9TX) | [Atlantic Unearthed: Soul Sisters](https://open.spotify.com/album/1wThKZtNlrDOWOsBh5aal4) | 2:55 |
 | 23 | [Funky Street](https://open.spotify.com/track/6uu9g2xpWSPda9SFPvrAmO) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Soul Directions](https://open.spotify.com/album/3PowoJrtqNFSY8HEJ3a1v4) | 2:23 |
 | 24 | [Shotgun](https://open.spotify.com/track/2Zk0eoq7d6Vw0fRVRXPWnc) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [Shotgun](https://open.spotify.com/album/09uQ81RxL7Bbsq7jEstXWc) | 2:56 |
-| 25 | [Walkin' the Dog](https://open.spotify.com/track/3GE3rDxFuME3cNXbhKCzQn) | [Lee Dorsey](https://open.spotify.com/artist/0En4EEcDMJ5kaUCf1aZ9js) | [Northen Soul: Super Rare Tracks](https://open.spotify.com/album/3JDSmJKeSBxmhOyriqgnjP) | 2:20 |
+| 25 | [Walkin' the Dog](https://open.spotify.com/track/7qCGnmcKlsSKmYZOIU2qkD) | [Lee Dorsey](https://open.spotify.com/artist/0En4EEcDMJ5kaUCf1aZ9js) | [Northen Soul: Super Rare Tracks](https://open.spotify.com/album/5NXZ3RTsjeFsxrhx7igY3E) | 2:20 |
 | 26 | [Don't Knock It](https://open.spotify.com/track/4FgpSAmdj1G6QxyPaYFwOy) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Soul Men](https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK) | 2:31 |
 | 27 | [Let A Woman Be A Woman \- Let A Man Be A Man](https://open.spotify.com/track/17Y2K7uNxMkaTDBtf1Tcv3) | [Dyke & The Blazers](https://open.spotify.com/artist/5dORjaew9A94A25xvTMiTg) | [Dyke's Greatest Hits \- The Complete Singles](https://open.spotify.com/album/1zv9Oq5IrsdEuOzor9DxZj) | 3:13 |
 | 28 | [Right On \- Rudy Van Gelder Remaster](https://open.spotify.com/track/7jGHm6VdD07oL4nqLuCBNI) | [Boogaloo Joe Jones](https://open.spotify.com/artist/4BEDs63hGcprptqZt11a3J) | [Right On Brother](https://open.spotify.com/album/0OrxAlBGoBNvMZfT55QPtP) | 5:40 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vmXrF8Shld.md) - [plain]
 | 68 | [No Way](https://open.spotify.com/track/6TlXKWSyZuHMS4qANLwVgE) | [Boogaloo Joe Jones](https://open.spotify.com/artist/4BEDs63hGcprptqZt11a3J) | [No Way!](https://open.spotify.com/album/4HgaispO1KpzuYAKljvrgM) | 7:17 |
 | 69 | [The Horse](https://open.spotify.com/track/2FCiuaXNE1kjwSoAvso4vT) | [Cliff Nobles](https://open.spotify.com/artist/0i0ELbteoVYQDbSNCU3Spz) | [The Phil\-LA of Soul Singles Collection 1968\-1972](https://open.spotify.com/album/5zXj6vdiMbqMXTL9oCqruD) | 2:26 |
 
-Snapshot ID: `MCwwMzgwNWU5NjY5OTRmYjYzY2Y2ZmFjMzNkNzIyOTU1ZjExNGE0YzA4`
+Snapshot ID: `MCxiZDc5YjJiYTJlZTNjMTY5NmU5MGMwN2E3NDA1NDMyZTdiYTk2Yjc4`

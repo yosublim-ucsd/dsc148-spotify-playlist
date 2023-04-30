@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nABhe.md) - [plain]
 
 > This is Story Of The Year\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,401 likes - 40 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,410 likes - 40 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nABhe.md) - [plain]
 | 39 | [The Children Sing](https://open.spotify.com/track/1aYT1emiHxA0x0c1SPmY7H) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Constant \(Deluxe Edition\)](https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg) | 4:07 |
 | 40 | [The Heart of Polka Is Still Beating](https://open.spotify.com/track/3IsREZMhoZmqjP99F7xFu5) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Heart of Polka Is Still Beating](https://open.spotify.com/album/0wsXROGwmu8RT3c6EhT5Qg) | 3:45 |
 
-Snapshot ID: `MjgwNDQ3ODUsMDAwMDAwMDBjYTY1ZWVjODkzZWQzNzdjOWIyMzQyZDU0NjdlOWM5Zg==`
+Snapshot ID: `MjgwNDYyMjUsMDAwMDAwMDA1M2UxZTVlYmI3Nzg3MzMwMTYxZWM4MTkxMjg3Mzk2MA==`

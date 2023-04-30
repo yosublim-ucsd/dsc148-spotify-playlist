@@ -4,7 +4,7 @@
 
 > Listen to the women of Au & NZ at full volume! Cover: Charley
 
-373 songs - 20 hr 14 min
+374 songs - 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,8 +96,9 @@
 | [Exaggerator](https://open.spotify.com/track/0xOORWlyat8CcX7aHmR3HJ) | [Kirsten Salty](https://open.spotify.com/artist/57DpXexlXW4QPUzFAm4NpD) | [Exaggerator](https://open.spotify.com/album/1e3YEKpcvpDTQFxnVWsC6S) | 3:24 | 2022-02-03 | 2022-03-07 |
 | [Exile](https://open.spotify.com/track/70icLfzhRlRTW5is736O3j) | [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [Exile](https://open.spotify.com/album/5EUFuGYhoaO2vImrZnxYG6) | 3:35 | 2022-04-05 | 2022-12-01 |
 | [Expectations Suck!](https://open.spotify.com/track/5Adf8DwCWMNmJATKI7YQfn) | [CRYSTAL](https://open.spotify.com/artist/6erlraTakz7StG0neFXqbg) | [Expectations Suck!](https://open.spotify.com/album/7y2jgId96QdMK2jnlxl682) | 2:28 | 2022-12-31 | 2023-02-01 |
+| [Expert In A Dying Field](https://open.spotify.com/track/1bPcxJHusTrlr2Kj4kjK7e) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y) | 4:11 | 2023-03-31 |  |
 | [Expert In A Dying Field](https://open.spotify.com/track/7FxEMjLh4toXn1fVZAvT1O) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6NxZFLWv5D3rr5Wom4HUvU) | 4:11 | 2022-07-31 | 2022-11-13 |
-| [Expert In A Dying Field](https://open.spotify.com/track/7v5SMNpbt9eaO7dFHGoXLZ) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 4:11 | 2022-09-05 |  |
+| [Expert In A Dying Field](https://open.spotify.com/track/7v5SMNpbt9eaO7dFHGoXLZ) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 4:11 | 2022-09-05 | 2023-04-30 |
 | [Eyes Don’t Lie](https://open.spotify.com/track/2RSqIGxbnTQQjZIS5Iyakn) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Eyes Don’t Lie](https://open.spotify.com/album/5oga4aKPFCUavGaIVSCyK6) | 3:56 | 2022-04-05 | 2022-05-28 |
 | [F4U](https://open.spotify.com/track/64at8RvJZJF03DNGOkHKOi) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [F4U](https://open.spotify.com/album/4QSkjoDdskn9WSJrrxdDoC) | 3:02 | 2023-01-31 |  |
 | [Facade](https://open.spotify.com/track/6fJaiqLXgnAjCbrOxfzgSW) | [Nganeko](https://open.spotify.com/artist/4oJPE0D0YhnBErqxc65hay) | [Facade](https://open.spotify.com/album/0Tn0H6jvUCWlEbkUKsuMXJ) | 3:05 | 2022-02-03 | 2022-03-02 |

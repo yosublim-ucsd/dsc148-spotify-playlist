@@ -132,6 +132,24 @@
     {
       "album": {
         "name": "92982",
+        "url": "https://open.spotify.com/album/6a22PsvseOZcFqySU0jQvk"
+      },
+      "artists": [
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423440,
+      "name": "92982.3",
+      "url": "https://open.spotify.com/track/14jjKMNUMd8lKIdaqwn4XG"
+    },
+    {
+      "album": {
+        "name": "92982",
         "url": "https://open.spotify.com/album/1fsBK1GajNTKmwFqb77u9z"
       },
       "artists": [
@@ -142,7 +160,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 427346,
       "name": "92982.3",
       "url": "https://open.spotify.com/track/0BWfj3oeIWOQOTzpikVEG1"
@@ -558,6 +576,24 @@
     {
       "album": {
         "name": "Embrace",
+        "url": "https://open.spotify.com/album/1wSOB3O3o2XfyRQ4XjB1Q4"
+      },
+      "artists": [
+        {
+          "name": "Ex Confusion",
+          "url": "https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328493,
+      "name": "Be Still",
+      "url": "https://open.spotify.com/track/2nXbC8iv1dCTHAZHyinGGw"
+    },
+    {
+      "album": {
+        "name": "Embrace",
         "url": "https://open.spotify.com/album/3Z4RiFDxDYm0k3iNtQVZ3U"
       },
       "artists": [
@@ -586,7 +622,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 328493,
       "name": "Be Still",
       "url": "https://open.spotify.com/track/5qFU0eRQlMkT5AfdiOdno8"
@@ -2600,6 +2636,24 @@
     {
       "album": {
         "name": "Replica",
+        "url": "https://open.spotify.com/album/4X5lHc7Fw8PPTbQAC37wvA"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230759,
+      "name": "Submersible",
+      "url": "https://open.spotify.com/track/0qsVyB8EPHAlId8v3jqpcg"
+    },
+    {
+      "album": {
+        "name": "Replica",
         "url": "https://open.spotify.com/album/4Wq9kfnBR0npGfsuQl8kDW"
       },
       "artists": [
@@ -2628,7 +2682,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 230759,
       "name": "Submersible",
       "url": "https://open.spotify.com/track/2fJygKixDmVgmsYAjn9aNq"
@@ -3008,6 +3062,24 @@
     {
       "album": {
         "name": "AIDOL (O.S.T.)",
+        "url": "https://open.spotify.com/album/0QGMUDSTkfmBDCXvviSsoj"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Lek",
+          "url": "https://open.spotify.com/artist/6nrCZQONyyfrj5P3DBl2S7"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173386,
+      "name": "Unreal",
+      "url": "https://open.spotify.com/track/0IPOJsga3hbAtJrsPGJ7uS"
+    },
+    {
+      "album": {
+        "name": "AIDOL (O.S.T.)",
         "url": "https://open.spotify.com/album/0gJcfpCTgTeNnWiDO587T7"
       },
       "artists": [
@@ -3018,7 +3090,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 173386,
       "name": "Unreal",
       "url": "https://open.spotify.com/track/3HNd6shi5OkaFn0PftmnaP"

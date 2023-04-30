@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. Sidea in cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,802 likes - 76 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,803 likes - 76 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 75 | [APNEA](https://open.spotify.com/track/07BUJz0fmgLnaDfk4WtYPf) | [FOGG](https://open.spotify.com/artist/3XJWtrpDcoofN56hKaNRCH) | [APNEA](https://open.spotify.com/album/6VbivQUqw6XpmMavkCEP0p) | 4:48 |
 | 76 | [Mondo Cane](https://open.spotify.com/track/7a8r6vINl5QByT6ktCadYK) | [Methos](https://open.spotify.com/artist/6EgN0y0qGF6ifXnc35B33h) | [Mondo Cane](https://open.spotify.com/album/4eTP3mLT8xxizGeaahzXJ8) | 2:14 |
 
-Snapshot ID: `MCw0MTQ2ZTY0M2VlMjQxNmU4OGZiMTA2ZDQxNWI2YzllNWVhODJlOWJh`
+Snapshot ID: `MCxjNDc0MzlhYjdiY2VkMzc3NTE0Mzc1YmVmZmQwOTc2YWRkOGY3ODM2`

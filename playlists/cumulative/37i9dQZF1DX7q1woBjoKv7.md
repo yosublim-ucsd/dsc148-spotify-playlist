@@ -4,7 +4,7 @@
 
 > California music breaking waves.
 
-750 songs - 1 day 13 hr 21 min
+751 songs - 1 day 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -567,7 +567,8 @@
 | [Royalty \(feat\. DOM KENNEDY\)](https://open.spotify.com/track/2v2uIxyCehpH4O5SvN21dc) | [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [Royalty \(feat\. DOM KENNEDY\)](https://open.spotify.com/album/1FQwlgnG3OLQStULOyMRNX) | 3:41 | 2022-04-29 | 2022-06-08 |
 | [Run it](https://open.spotify.com/track/5VCsDSmSNkmIP7RaFYSMGZ) | [Vanessa Tha Finessa](https://open.spotify.com/artist/7d55wy6vEfabtFevi23pZt), [Smiles Davis](https://open.spotify.com/artist/6vjhuQY1IzfsaJJIKskfZD) | [Run it](https://open.spotify.com/album/5Kmk9a1DIxzpf0ebPMkYYQ) | 2:42 | 2022-02-25 | 2022-04-16 |
 | [Runnin'](https://open.spotify.com/track/7t4oOOE0u2pXBqUzoUUdWO) | [Mani Draper](https://open.spotify.com/artist/3FdRyYL0N7gAssfclu2q4k), [Steven King](https://open.spotify.com/artist/3kQmAPrzoQMm6zKOOQLXXt), [ODaye](https://open.spotify.com/artist/0meQG30rPhMY4J84FN64pf) | [33](https://open.spotify.com/album/2QJdLDa3tr7g9fuBfobfwu) | 3:12 | 2023-04-24 |  |
-| [Running Away](https://open.spotify.com/track/33Z6FvhXVw8HJ8ulGQ6Kj2) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Running Away](https://open.spotify.com/album/3E4Zo3HpawW7w2uBbhLY8H) | 3:15 | 2023-04-24 |  |
+| [Running Away](https://open.spotify.com/track/33Z6FvhXVw8HJ8ulGQ6Kj2) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Running Away](https://open.spotify.com/album/3E4Zo3HpawW7w2uBbhLY8H) | 3:15 | 2023-04-24 | 2023-04-30 |
+| [Running Away](https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Running Away](https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE) | 3:15 | 2023-04-24 |  |
 | [Ruthless](https://open.spotify.com/track/10amUOwfsKo2HTa1SPXetH) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [Ruthless](https://open.spotify.com/album/2sXZcFiXa2vTF5xRxUvZvq) | 2:38 | 2022-02-18 | 2022-04-02 |
 | [Sandcastles](https://open.spotify.com/track/4Pbygk2v96q46GcpkFXsPy) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Sandcastles](https://open.spotify.com/album/3HL4Ly3lvYntdBZIfdvuPK) | 2:50 | 2023-01-31 | 2023-04-25 |
 | [Santorini](https://open.spotify.com/track/3JSaYIRPbfRgK8LfbDEYsH) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Suspension of Disbelief](https://open.spotify.com/album/3dUPM1NIw5YPL4YQhU7aG2) | 2:28 | 2023-01-13 | 2023-02-01 |

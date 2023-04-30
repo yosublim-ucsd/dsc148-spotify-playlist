@@ -553,7 +553,7 @@
 | [you don't know what you did to me](https://open.spotify.com/track/4H6POdROKcRiPChvaK4HWY) | [hushfall](https://open.spotify.com/artist/6wPZ8OOl7FlpRa1aUejY47) | [you don't know what you did to me](https://open.spotify.com/album/74wjxzvCKQfn80ecFDPL0E) | 2:02 | 2022-11-25 |  |
 | [You Find Home](https://open.spotify.com/track/1UXcQC5oQbiRrcb4K9W8Ty) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [You Find Home](https://open.spotify.com/album/1o6weednkeD6xR0MVwSwBa) | 2:24 | 2022-05-20 | 2022-07-29 |
 | [You Find Home](https://open.spotify.com/track/5VZIbQtw707N7WoY67nHIM) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [Vanish into the Sky](https://open.spotify.com/album/2WzPmGFAI0VH1HitLOfU60) | 2:24 | 2022-07-29 | 2022-12-24 |
-| [you snooze, you bruise](https://open.spotify.com/track/7H7Vuf9WnVeR03R1ZYdExT) | [yawn](https://open.spotify.com/artist/45gaMiwtS3JK5Nj6zPpMsI) | [you snooze, you bruise](https://open.spotify.com/album/1cL5cNrm8VanlgD3sj5RDB) | 1:51 | 2022-06-24 |  |
+| [you snooze, you bruise](https://open.spotify.com/track/7H7Vuf9WnVeR03R1ZYdExT) | [yawn](https://open.spotify.com/artist/45gaMiwtS3JK5Nj6zPpMsI), [ordinary\_\_oak](https://open.spotify.com/artist/3rtVxBJyfavl7XRqQ6NsOy), [skyer](https://open.spotify.com/artist/0cKlSeJXP9bochHat4arJi) | [you snooze, you bruise](https://open.spotify.com/album/1cL5cNrm8VanlgD3sj5RDB) | 1:51 | 2022-06-24 |  |
 | [your destination](https://open.spotify.com/track/6GtAIZZMpMiSBP2Mpe2mpR) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [your destination](https://open.spotify.com/album/3oAhQBzerDMF0azuuCMXze) | 2:20 | 2023-01-20 | 2023-02-07 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

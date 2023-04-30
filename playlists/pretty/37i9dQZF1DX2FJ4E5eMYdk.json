@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 138136,
+  "num_followers": 138227,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2UwNzg1ZThiYThjMzJhMDk3YTVlZDViODM2MGI2ZGNlM2Q1MDll",
+  "snapshot_id": "MCw2MGMzNDVkYjgwNjk4ZWY4ZWQ2YjMwZWUyODczYTkzM2JkZDA1NWMy",
   "tracks": [
     {
       "added_at": "2023-04-07 04:00:00",
@@ -343,38 +343,6 @@
       "duration_ms": 258799,
       "name": "Lady Luck",
       "url": "https://open.spotify.com/track/4zdSkZqBNo0fHmviHOtxGe"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "The Olympians",
-        "url": "https://open.spotify.com/album/4XipjE8vNOXj7Xc9FlD962"
-      },
-      "artists": [
-        {
-          "name": "The Olympians",
-          "url": "https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi"
-        }
-      ],
-      "duration_ms": 271466,
-      "name": "Apollo's Mood",
-      "url": "https://open.spotify.com/track/6j1GazXT78zw8orKRsZVt5"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Brain Cycles",
-        "url": "https://open.spotify.com/album/3w26tAxCUFYYzeFMq5qNJg"
-      },
-      "artists": [
-        {
-          "name": "Radio Moscow",
-          "url": "https://open.spotify.com/artist/692VvGTch5OLXj4zEE6H3y"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "250 Miles",
-      "url": "https://open.spotify.com/track/5zWsOD8aSwx5P7kGb6gQTw"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -843,22 +811,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "History Of A Feeling",
-        "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 166453,
-      "name": "Nervous",
-      "url": "https://open.spotify.com/track/0qvyXZivJalmoO6iJpPg56"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "It Came to Me",
         "url": "https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4"
       },
@@ -871,6 +823,22 @@
       "duration_ms": 261986,
       "name": "It Came to Me",
       "url": "https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "History Of A Feeling",
+        "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 166453,
+      "name": "Nervous",
+      "url": "https://open.spotify.com/track/0qvyXZivJalmoO6iJpPg56"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -999,6 +967,42 @@
       "duration_ms": 172440,
       "name": "The Light Of Day",
       "url": "https://open.spotify.com/track/4vev473dJkBpiChkglAscC"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Window Flowers",
+        "url": "https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8"
+      },
+      "artists": [
+        {
+          "name": "Liz Cooper",
+          "url": "https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH"
+        },
+        {
+          "name": "The Stampede",
+          "url": "https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7"
+        }
+      ],
+      "duration_ms": 236973,
+      "name": "Hey Man",
+      "url": "https://open.spotify.com/track/65wWFPx0DUi1QvRDAXxPsD"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Fanfare",
+        "url": "https://open.spotify.com/album/0oFgCWCbCPdLcDBVblR65z"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Wilson",
+          "url": "https://open.spotify.com/artist/6KJIIOCWsWtNc7ICINtPEw"
+        }
+      ],
+      "duration_ms": 390666,
+      "name": "Cecil Taylor",
+      "url": "https://open.spotify.com/track/0dTKg7gQzxuBRNRy0e1IVX"
     }
   ],
   "unique_name": "Psych & Groove",

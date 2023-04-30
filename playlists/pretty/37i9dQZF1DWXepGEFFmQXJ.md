@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Brad Cox
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,232 likes - 78 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,502 likes - 78 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 77 | [Go Around](https://open.spotify.com/track/344682dEszsdZqQS4vYuUr) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Go Around](https://open.spotify.com/album/6xUvrvbSTXnEIRPKOGnhJh) | 3:23 |
 | 78 | [Small Town](https://open.spotify.com/track/6oklsftiYsTcGap5JvEwft) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Small Town](https://open.spotify.com/album/1e6Glg5MJwCyfx23uD2NWP) | 3:41 |
 
-Snapshot ID: `MCxhYjhmZGE4YzgxZTE0NjUwZmU4Zjc3YzRmNTc5ZjhmMzI1ZTVmZmM2`
+Snapshot ID: `MCwzZTRiZGU5Y2VhMmE2OGJlYmVlMDMyZWMzYzU5YmM4MWNhNmNjY2Y1`

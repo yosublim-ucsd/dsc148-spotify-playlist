@@ -64,7 +64,7 @@
     {
       "album": {
         "name": "Back On the Music!",
-        "url": "https://open.spotify.com/album/3ltD9P5ZMjlEl03fLGa7AB"
+        "url": "https://open.spotify.com/album/1gNBcewWJYihYyatTLv3GR"
       },
       "artists": [
         {
@@ -75,6 +75,24 @@
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 207226,
+      "name": "Back On The Music!",
+      "url": "https://open.spotify.com/track/5QALJWWpHnigY6CRPdQqhu"
+    },
+    {
+      "album": {
+        "name": "Back On the Music!",
+        "url": "https://open.spotify.com/album/3ltD9P5ZMjlEl03fLGa7AB"
+      },
+      "artists": [
+        {
+          "name": "Paul Cherry",
+          "url": "https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 207226,
       "name": "Back On The Music!",
       "url": "https://open.spotify.com/track/68PHkOQpABqaKdxRMhbzMg"
@@ -146,10 +164,28 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 223266,
       "name": "Coffee's on Me",
       "url": "https://open.spotify.com/track/3P2bJaakq9DyvGCco9Ddhx"
+    },
+    {
+      "album": {
+        "name": "Coffee's on Me",
+        "url": "https://open.spotify.com/album/4BE9UzrvSYUrtwj3pIoczL"
+      },
+      "artists": [
+        {
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/2iuPnIdqfKsze3urSvl7XZ"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223266,
+      "name": "Coffee's on Me",
+      "url": "https://open.spotify.com/track/3t4mslZa0wJYrj2UjlsyPX"
     },
     {
       "album": {
@@ -574,7 +610,7 @@
     {
       "album": {
         "name": "Hiding in Plain Sight",
-        "url": "https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN"
+        "url": "https://open.spotify.com/album/2lJ4mGexbTGxmkF2OEejmE"
       },
       "artists": [
         {
@@ -585,6 +621,24 @@
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 200480,
+      "name": "New Fascination",
+      "url": "https://open.spotify.com/track/4wugx5UcJaefwqsrqfRmDK"
+    },
+    {
+      "album": {
+        "name": "Hiding in Plain Sight",
+        "url": "https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN"
+      },
+      "artists": [
+        {
+          "name": "Drugdealer",
+          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 200480,
       "name": "New Fascination",
       "url": "https://open.spotify.com/track/52iCnjPavObHl20sQ4t2Z6"
@@ -922,10 +976,28 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 215261,
       "name": "Somebody's Watching You",
       "url": "https://open.spotify.com/track/2zPxnWGwRGGwsvG1OSqCqF"
+    },
+    {
+      "album": {
+        "name": "Cruiserweight",
+        "url": "https://open.spotify.com/album/1onqdmFxHDk2sMBhYATWX3"
+      },
+      "artists": [
+        {
+          "name": "The Jack Moves",
+          "url": "https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215261,
+      "name": "Somebody's Watching You",
+      "url": "https://open.spotify.com/track/2zz7F5w83J4MySb9RX8WWY"
     },
     {
       "album": {
@@ -1042,10 +1114,28 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-30",
       "duration_ms": 219884,
       "name": "The Dandelion",
       "url": "https://open.spotify.com/track/23JJ79DtsITIxMfcgYvxjY"
+    },
+    {
+      "album": {
+        "name": "The Dandelion",
+        "url": "https://open.spotify.com/album/3fk6hBtA6FfDK79t0oWmqG"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219884,
+      "name": "The Dandelion",
+      "url": "https://open.spotify.com/track/37nRhMFqggMLfWOpTL2vgZ"
     },
     {
       "album": {
@@ -1288,7 +1378,7 @@
     {
       "album": {
         "name": "Why I Came To California",
-        "url": "https://open.spotify.com/album/2CC8WIGTkXQRTwmetCjp22"
+        "url": "https://open.spotify.com/album/1FMPS7GufT7lpzGFbVsuks"
       },
       "artists": [
         {
@@ -1299,6 +1389,24 @@
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 279231,
+      "name": "Why I Came To California",
+      "url": "https://open.spotify.com/track/1uRf4FaOO13JB4GNUXBk4A"
+    },
+    {
+      "album": {
+        "name": "Why I Came To California",
+        "url": "https://open.spotify.com/album/2CC8WIGTkXQRTwmetCjp22"
+      },
+      "artists": [
+        {
+          "name": "Dent May",
+          "url": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 279231,
       "name": "Why I Came To California",
       "url": "https://open.spotify.com/track/6Cspj0PvUy7ItIGrmrun3u"

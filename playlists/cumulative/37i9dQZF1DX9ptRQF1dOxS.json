@@ -1872,7 +1872,7 @@
     {
       "album": {
         "name": "Clutter",
-        "url": "https://open.spotify.com/album/2FXGTFU9SOCq7PO3hcVGnY"
+        "url": "https://open.spotify.com/album/3iyTCCeIDndu8o99BkAFYs"
       },
       "artists": [
         {
@@ -1887,6 +1887,28 @@
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 186724,
+      "name": "Clutter",
+      "url": "https://open.spotify.com/track/4B8p17MhJrQJ0iV2HCLFiw"
+    },
+    {
+      "album": {
+        "name": "Clutter",
+        "url": "https://open.spotify.com/album/2FXGTFU9SOCq7PO3hcVGnY"
+      },
+      "artists": [
+        {
+          "name": "Jessica Winter",
+          "url": "https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy"
+        },
+        {
+          "name": "Lynks",
+          "url": "https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
       "duration_ms": 186724,
       "name": "Clutter",
       "url": "https://open.spotify.com/track/6QLx9fElASDdjQ8tRCT6jg"

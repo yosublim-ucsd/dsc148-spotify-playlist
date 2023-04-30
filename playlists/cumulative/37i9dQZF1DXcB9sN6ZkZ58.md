@@ -4,7 +4,7 @@
 
 > Food sing\-a\-longs for breakfast, lunch, or snack time.
 
-131 songs - 4 hr 55 min
+132 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Curse of the Spinach](https://open.spotify.com/track/16dU7TKc49MlHEXBzz2csB) | [Trout Fishing in America](https://open.spotify.com/artist/5gAy9e3RXVsKUbZvmydkR6) | [Big Round World](https://open.spotify.com/album/5A4I8dQUpFqIBHWlRhgI4E) | 1:40 | 2022-04-05 |  |
 | [Curse of the Spinach](https://open.spotify.com/track/75tXfcwfWBw6quhQ57pOoM) | [Trout Fishing in America](https://open.spotify.com/artist/5gAy9e3RXVsKUbZvmydkR6) | [Big Round World](https://open.spotify.com/album/76ylNwYtHrUZ1ch2V6Fd3z) | 1:40 | 2022-04-05 | 2022-07-29 |
 | [Dance, Little Meatball, Dance](https://open.spotify.com/track/69WrOpLyGJHRR5S2GL96QU) | [Mike Phirman](https://open.spotify.com/artist/4RXwlvGvt3VjfVJjVIFQTJ) | [Songs to Sing at Children](https://open.spotify.com/album/58SHDR5ORDlCe909wOZeD8) | 3:59 | 2022-04-05 |  |
-| [Dessert First](https://open.spotify.com/track/3ZL8p6pos3EO0xarQIaLUh) | [Macaroni Birthday](https://open.spotify.com/artist/1VXYt4oC9gZCsYKMkguRZx) | [Dessert First](https://open.spotify.com/album/4Rg3JYKqMjgLiKpjdwFVOA) | 1:30 | 2022-04-05 |  |
+| [Dessert First](https://open.spotify.com/track/2wQzFdY7MMD5w5HjO20Twx) | [Macaroni Birthday](https://open.spotify.com/artist/1VXYt4oC9gZCsYKMkguRZx) | [Macaroni Birthday Time](https://open.spotify.com/album/5f0E7TWBJpzg9HeD3wiXQE) | 1:30 | 2022-04-05 |  |
+| [Dessert First](https://open.spotify.com/track/3ZL8p6pos3EO0xarQIaLUh) | [Macaroni Birthday](https://open.spotify.com/artist/1VXYt4oC9gZCsYKMkguRZx) | [Dessert First](https://open.spotify.com/album/4Rg3JYKqMjgLiKpjdwFVOA) | 1:30 | 2022-04-05 | 2023-04-30 |
 | [Do You Like Waffles?](https://open.spotify.com/track/0jwrcvzJQacwH9mPVrigPh) | [Parry Gripp](https://open.spotify.com/artist/56P8qdYp640M24wkk9eTfc) | [For Kids About To Rock](https://open.spotify.com/album/1Y9WmnzSZAJiCBboZ92z8R) | 0:30 | 2022-04-05 |  |
 | [Don't Yuck My Yum](https://open.spotify.com/track/3073TDRBWJU4oDuwAvc8FU) | [Shine and the Moonbeams](https://open.spotify.com/artist/5IwCPV7WRS7rIQN41cur1q) | [I Am](https://open.spotify.com/album/4ST8f5iI7KoSvYGYma4Yjp) | 2:59 | 2022-04-05 |  |
 | [Doughnut Song](https://open.spotify.com/track/4WQymeEijDI1Vmd17NLb1q) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Ridiculously Silly Songs](https://open.spotify.com/album/2r3znEus5zBNgqqIMM9j0W) | 2:09 | 2022-04-05 |  |
