@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > La casa dello street rap italiano\. Cover: Shiva
 
-[Spotify](https://open.spotify.com/user/spotify) - 835,875 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 835,996 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 27 | [Mentalité RMX \(feat\. ASHE 22\)](https://open.spotify.com/track/47XiTkMb4QCa2iMGAeRhOp) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4) | [Mentalité RMX \(feat\. ASHE 22\)](https://open.spotify.com/album/0M1NDlEKQ03aDlPqHOfkre) | 3:03 |
 | 28 | [Notte in Caserma](https://open.spotify.com/track/7e13N2FGtTbGDLToobRfxw) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Notte in Caserma](https://open.spotify.com/album/38Ul6msWrKeRIlUP60pMU3) | 2:42 |
 | 29 | [Mariè \(feat\. Kassimi\)](https://open.spotify.com/track/5MfWyat51dW4EnIAl3HL3j) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW), [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Mariè \(feat\. Kassimi\)](https://open.spotify.com/album/47yhTU5uScGBADR14wgyC3) | 2:54 |
-| 30 | [Diario del Bando 2](https://open.spotify.com/track/3stZIWWtwMg8JxBgT12YMP) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1) | [Diario del Bando 2](https://open.spotify.com/album/5MTUG1xRqcYHxuxHrS8Yr8) | 2:43 |
+| 30 | [Diario del Bando 2](https://open.spotify.com/track/3stZIWWtwMg8JxBgT12YMP) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Diario del Bando 2](https://open.spotify.com/album/5MTUG1xRqcYHxuxHrS8Yr8) | 2:43 |
 | 31 | [Braquages](https://open.spotify.com/track/5X4mISo6fLNbc2cn6W38A7) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Braquages](https://open.spotify.com/album/0W0T9Tpqc5h82PiBZY27CJ) | 2:38 |
 | 32 | [Freestyle\#2](https://open.spotify.com/track/3GWunIYzxXspSGD7lzj0F1) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Freestyle\#2](https://open.spotify.com/album/4RJSyh82Vs7fi6e6EibCSN) | 2:12 |
 | 33 | [20 ALBANESI](https://open.spotify.com/track/0D2U3OZOuOuYptEF4Q6ziQ) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [20 ALBANESI](https://open.spotify.com/album/6vFxXGFvqMTjm7IIgXg16q) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [DIE YOUNG \(feat\. Vale Pain & Kid Yugi\)](https://open.spotify.com/track/2W8RVRL10rvjvt2WS5cZGi) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [DON DADA](https://open.spotify.com/album/1aElHPJaZyQZkJ2OIwXWAu) | 2:45 |
 | 50 | [Libertà](https://open.spotify.com/track/4LGH4aHf7cnlyDym7hgX47) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Libertà](https://open.spotify.com/album/62L40Yc2xo7tqqSviIjXWW) | 2:21 |
 
-Snapshot ID: `MCwwYzNjN2Y5ZThlZDFjZTg0Yjg4MzA4Y2I2MzA5MGQ2MjI0ZjI2OWIz`
+Snapshot ID: `MCxhMTZhZTcwNTY0MWJlNzAzMDE3ZGQ3OWQ0YzY0YjkzZjhkZjlkYzFj`

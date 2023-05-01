@@ -376,7 +376,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 317533,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/4V6qDAzkekP88eUeKKIeoI"
@@ -560,6 +560,24 @@
       "duration_ms": 217524,
       "name": "Voices",
       "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv"
+    },
+    {
+      "album": {
+        "name": "In Search of Solid Ground",
+        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159053,
+      "name": "Why Can't You See",
+      "url": "https://open.spotify.com/track/2GZ14jhPUHqN5scWzoaXZR"
     },
     {
       "album": {

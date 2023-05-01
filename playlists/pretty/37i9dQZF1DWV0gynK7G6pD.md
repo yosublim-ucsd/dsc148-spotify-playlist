@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Randall Goosby
 
-[Spotify](https://open.spotify.com/user/spotify) - 682,717 likes - 73 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,802 likes - 73 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 72 | [A Hymn on Divine Music \- Realisation for Voice & Piano by Benjamin Britten](https://open.spotify.com/track/7tyg00dQukdxOGRZSBHFVS) | [William Croft](https://open.spotify.com/artist/36Xf9tGkUuGqVr1wugATp5), [Benjamin Britten](https://open.spotify.com/artist/7MJ1pB5d6Vjmzep2zQlorn), [Iestyn Davies](https://open.spotify.com/artist/0oKLScf6HtYdmZgAEXpSzl), [Joseph Middleton](https://open.spotify.com/artist/3sAF38QhpHj5zeTuvTB7Zd) | [Divine Music – An English Songbook](https://open.spotify.com/album/25tE5F4wGFs0m2XM9kgxQm) | 4:52 |
 | 73 | [Ingemisco](https://open.spotify.com/track/1XZ6XrHVOIToTjo66r94Hm) | [Giovanni Legrenzi](https://open.spotify.com/artist/1XSw1Dvxa5nFsByuRWO0dN), [Ensemble les Surprises](https://open.spotify.com/artist/4J8BVp3FHkxUokjzMmYxnf), [Louis\-Noël Bestion de Camboulas](https://open.spotify.com/artist/0gSvZOOKP86zFSkFDEPDWQ) | [Nuit à Venise](https://open.spotify.com/album/6I9Ltf7NBbvAw9Y2qVej7p) | 2:50 |
 
-Snapshot ID: `MCw4MTMxMzQ1MGMyYzE1NTVmMGQ2ZTVmODg0NDY1MzI3MGQ3NmRiY2Iz`
+Snapshot ID: `MCw1ZGZhMzk3NzNkNGIwN2ZmYjY4NDFhOWExOWJlMzQzODg4NmQ4Zjg1`

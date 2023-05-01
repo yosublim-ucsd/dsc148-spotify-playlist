@@ -10770,10 +10770,28 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 183163,
       "name": "My Year (This Is Going To Be)",
       "url": "https://open.spotify.com/track/0kg6oQH6oFlw3qJTzSU4mE"
+    },
+    {
+      "album": {
+        "name": "My Year (This Is Going To Be)",
+        "url": "https://open.spotify.com/album/3DnuVIeelvxu2wm0wei74W"
+      },
+      "artists": [
+        {
+          "name": "12 RODS",
+          "url": "https://open.spotify.com/artist/4aPT61obombRBkg2Fx69i2"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183163,
+      "name": "My Year (This Is Going To Be)",
+      "url": "https://open.spotify.com/track/7InbD5D74EaymYMIwzs4LL"
     },
     {
       "album": {

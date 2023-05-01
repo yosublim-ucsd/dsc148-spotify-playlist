@@ -1212,10 +1212,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 357133,
       "name": "Grass Harp",
       "url": "https://open.spotify.com/track/3IS7K9DaeCMDC087s79GWk"
+    },
+    {
+      "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/1wSOB3O3o2XfyRQ4XjB1Q4"
+      },
+      "artists": [
+        {
+          "name": "Ex Confusion",
+          "url": "https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357133,
+      "name": "Grass Harp",
+      "url": "https://open.spotify.com/track/5bhD5fspebQAHffkiqsav2"
     },
     {
       "album": {
@@ -2070,6 +2088,24 @@
     {
       "album": {
         "name": "With Love",
+        "url": "https://open.spotify.com/album/4Sv4vIH0WR5PF1g35XiBeA"
+      },
+      "artists": [
+        {
+          "name": "Ex Confusion",
+          "url": "https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164974,
+      "name": "On Your Side",
+      "url": "https://open.spotify.com/track/0ZZScVnAKcDvoOsFbqmTvc"
+    },
+    {
+      "album": {
+        "name": "With Love",
         "url": "https://open.spotify.com/album/4tk08ZYNtt6I5GMesH7ODT"
       },
       "artists": [
@@ -2098,7 +2134,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 164974,
       "name": "On Your Side",
       "url": "https://open.spotify.com/track/6ygriWnFCuEKBhEvB7hppb"
@@ -3192,6 +3228,24 @@
     {
       "album": {
         "name": "The Body Is a Message of the Universe - \u304b\u3089\u3060\u306f\u5b87\u5b99\u306e\u30e1\u30c3\u30bb\u30fc\u30b8",
+        "url": "https://open.spotify.com/album/06FCEZqQKs8xTpNl7laVNC"
+      },
+      "artists": [
+        {
+          "name": "Shiho Yabuki",
+          "url": "https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420746,
+      "name": "Tomoshibi",
+      "url": "https://open.spotify.com/track/53bzH7z7xOLivmByd9fkkF"
+    },
+    {
+      "album": {
+        "name": "The Body Is a Message of the Universe - \u304b\u3089\u3060\u306f\u5b87\u5b99\u306e\u30e1\u30c3\u30bb\u30fc\u30b8",
         "url": "https://open.spotify.com/album/2JdjNySHankOkjITDAo5YT"
       },
       "artists": [
@@ -3202,7 +3256,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 420746,
       "name": "Tomoshibi",
       "url": "https://open.spotify.com/track/7lmpi4NLJ86s013B9f6XSf"

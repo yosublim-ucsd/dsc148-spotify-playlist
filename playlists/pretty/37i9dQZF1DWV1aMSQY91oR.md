@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Digga D, Latto
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,402 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,427 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [What I'm On](https://open.spotify.com/track/4n2e8z05jLbaggUqjmNKch) | [PongoFromTheS](https://open.spotify.com/artist/7qIce0fjMRmNhoZAqpHArA), [YNLSTACKINGBNDZ.](https://open.spotify.com/artist/4Yaic6pvcF3yUKUsiKrXhF), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41) | [AIP \(Alone In Public\) Deluxe](https://open.spotify.com/album/3X0Kqvxu0AUFvc9xR8kvWw) | 3:16 |
 | 50 | [Escape](https://open.spotify.com/track/2bMfD4BTf5nH4U5s6FNXCA) | [BK](https://open.spotify.com/artist/3O96LSvlQrNeKpZ8FuZkEk), [DJ Prodiigy](https://open.spotify.com/artist/6oM8rsauPkS4qGGClTv5F4), [Arsh Heer](https://open.spotify.com/artist/0IMB9ZqS18okmvGMGYzl45) | [Escape](https://open.spotify.com/album/2MVocQaJbnF8Fs7B5ixgdP) | 2:27 |
 
-Snapshot ID: `MCw5NDNkMDhlMzdmYTU3ZWExZjgxMzU1MGVlNmQ1MTMxZWEyZTJiY2Yz`
+Snapshot ID: `MCxjYzM1YmNiMWNmMDY1NDRlMWM3NDBiZWJhNTE3ODYwOGY3OWQxZTQ2`

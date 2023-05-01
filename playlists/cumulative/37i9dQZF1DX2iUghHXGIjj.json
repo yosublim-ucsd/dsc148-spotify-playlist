@@ -2300,10 +2300,36 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 272000,
       "name": "Running Through High Water",
       "url": "https://open.spotify.com/track/0D4hafcSvGv5r9h2WWJaaS"
+    },
+    {
+      "album": {
+        "name": "So Far",
+        "url": "https://open.spotify.com/album/1BwFy9B8atyBeOWMlK0tCN"
+      },
+      "artists": [
+        {
+          "name": "Bob Margolin",
+          "url": "https://open.spotify.com/artist/65SzANOjjJbCdHGbjDkPMU"
+        },
+        {
+          "name": "Bob Corritore",
+          "url": "https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH"
+        },
+        {
+          "name": "Jimmy Vivino",
+          "url": "https://open.spotify.com/artist/7iofSqO1VWjI5zxIh21vOQ"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Running Through High Water",
+      "url": "https://open.spotify.com/track/1JNuSLtYrq5TExAQj4hgBG"
     },
     {
       "album": {

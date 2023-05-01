@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,002,889 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,002,871 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 65 | [23](https://open.spotify.com/track/1zcV9I8GVXyrqInNaSU6EM) | [JayO](https://open.spotify.com/artist/0QH3l8RpNhxB16HkrC3x56), [Sokerirl on ig](https://open.spotify.com/artist/4UU5P578pYIr4QEMwjIkJc) | [23](https://open.spotify.com/album/76co89ePW2Am0WMqdX2lPs) | 4:15 |
 | 66 | [I Miss You So](https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [I Miss You So](https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF) | 3:43 |
 | 67 | [BLKDEATH:](https://open.spotify.com/track/1PNr877IPrPPuj4ANiberD) | [BbyMutha](https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e), [Fly Anakin](https://open.spotify.com/artist/5WybyjV2fRyRQcJrmmiifF) | [Muthaleficent 3](https://open.spotify.com/album/2kXbPofpK10LsERWJ3LplJ) | 2:48 |
-| 68 | [Hallelujah](https://open.spotify.com/track/2Ngjdn5Y5MKv4dTa024SF7) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj), [Ryan Palma](https://open.spotify.com/artist/0ETu1snC8o5NZWmqxai370) | [Hallelujah](https://open.spotify.com/album/6mOTpOg5zP6ieYLe9LBJ00) | 2:20 |
+| 68 | [Hallelujah](https://open.spotify.com/track/2Ngjdn5Y5MKv4dTa024SF7) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [Hallelujah](https://open.spotify.com/album/6mOTpOg5zP6ieYLe9LBJ00) | 2:20 |
 | 69 | [B&E Pt\. 1](https://open.spotify.com/track/3w172RIHWXdyTo8KjFyeTo) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [B&E Pt\. 1](https://open.spotify.com/album/6es9sQ9dDPmWNUx1kuoOQT) | 2:33 |
 | 70 | [Guns & Butter](https://open.spotify.com/track/37ysjKJ8jO6AItn0CJaTuJ) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [Surviving Queen Key](https://open.spotify.com/album/05YX7pNDoPh5VpwO3ew2aE) | 1:39 |
 | 71 | [OFF THE PORCH \(feat\. BigXthaPlug & Maxo Kream\)](https://open.spotify.com/track/3RPLr5siFwdjQbueFakIQB) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [OFF THE PORCH \(feat\. BigXthaPlug & Maxo Kream\)](https://open.spotify.com/album/2dLAa7o3gsVCnOnvyMTwef) | 3:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 99 | [Don't Give Up](https://open.spotify.com/track/7AGMaD98w28eaNh2639jD2) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Don't Give Up](https://open.spotify.com/album/2XZMNStMl0nxjQ3LYdNboK) | 2:46 |
 | 100 | [SPLIT DECISION](https://open.spotify.com/track/7BY2h0RUgeenWrnbwPr0Kt) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 3:06 |
 
-Snapshot ID: `MCxkNjhmYTJlNzM1NTVlYTk4NzE2MGNjZmYwMjM3ZjMwZDg1MGQzMjA5`
+Snapshot ID: `MCxjZGIyZDMyMzM1NDZkOTE0ZjhkNWI4OTFiYjA5YzNlMTMzNjIxNjI1`

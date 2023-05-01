@@ -4,7 +4,7 @@
 
 > 一起來支持女性音樂人的精采表現！Cover: 張若凡 \(RuoFan Chang\)
 
-348 songs - 1 day 0 hr 2 min
+349 songs - 1 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Vanishing Love](https://open.spotify.com/track/63n0C5DD3gU1rUAfZ9pitu) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [Gei](https://open.spotify.com/album/2WJal4nsKHRiqSRiu8OBts) | 4:40 | 2022-07-05 | 2022-09-07 |
 | [VIVILAND](https://open.spotify.com/track/2YEHJGKtd0Njx7WTr9srBn) | [Vivian Hsu](https://open.spotify.com/artist/6cP65fCRmCJQejKYSnVb47) | [VIVILAND](https://open.spotify.com/album/5LLOZ6R2ydMhQgXktOJ1Nb) | 2:58 | 2022-03-07 | 2022-03-18 |
 | [Warning Signs](https://open.spotify.com/track/4zRcmMBLYd5nYpk5Jy1Gq7) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h) | [Warning Signs](https://open.spotify.com/album/3oy0O4DrNBpqfY54WCayI6) | 3:29 | 2022-07-05 | 2022-09-07 |
-| [What If?](https://open.spotify.com/track/3BdW7A7IEbJf5dbYG1yPWV) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [What If?](https://open.spotify.com/album/4RiqgWOqi9FsrbbHmcyro1) | 4:05 | 2023-04-04 |  |
+| [What If?](https://open.spotify.com/track/3BdW7A7IEbJf5dbYG1yPWV) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [What If?](https://open.spotify.com/album/4RiqgWOqi9FsrbbHmcyro1) | 4:05 | 2023-04-04 | 2023-05-01 |
+| [What If?](https://open.spotify.com/track/6nfwsnzW19zH5twNw4CtD4) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [What If?](https://open.spotify.com/album/2VS2YFYzt4uafK8sfHHvUL) | 4:05 | 2023-04-04 |  |
 | [Whatchu Gonna...?](https://open.spotify.com/track/2RyutaGvhmCUfpBqLM4BRp) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Rainbow Chan](https://open.spotify.com/artist/1tQUVWgrAbVlla78VYcFjy) | [9m88 Radio](https://open.spotify.com/album/1fgCHrgrrCQCsBVMaOSk12) | 3:48 | 2022-08-02 | 2022-10-05 |
 | [Whatchu Gonna...?](https://open.spotify.com/track/7x4mAxUxBwcHd0VpMOnKsV) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Rainbow Chan](https://open.spotify.com/artist/1tQUVWgrAbVlla78VYcFjy) | [Whatchu Gonna...?](https://open.spotify.com/album/4C6O1vEFP0AM2ThBxFdma2) | 3:48 | 2022-08-02 | 2022-08-11 |
 | [Writing to You](https://open.spotify.com/track/225wi4jBgkakpyWGCWpVjc) | [Angela Chang](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) | [?](https://open.spotify.com/album/2o0O5RZWgBErMLfaWxO6ks) | 4:09 | 2022-09-06 | 2022-10-05 |

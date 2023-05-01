@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas calminhas pra come\u00e7ar o dia bem relax.",
-  "num_followers": 431517,
+  "num_followers": 432087,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODc2NzE2YWUzNWM3YjA4NDM0ZTIxMmRhZGIyZTEzOWE4MGFkYjhh",
+  "snapshot_id": "MCwxMGNhN2IyYmYwZDU2NDE1NGNjZjFhZTUwZWE5YTAxYWEwMjk0NDc4",
   "tracks": [
     {
       "added_at": "2023-04-28 21:00:51",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-04-28 21:00:51",
       "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 86925,
-      "name": "Isn't She Lovely",
-      "url": "https://open.spotify.com/track/7zcRBXvRkTRlQYLDNu1JEN"
-    },
-    {
-      "added_at": "2023-04-28 21:00:51",
-      "album": {
         "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/077iUTcnYBAQYm4RQgEXVP"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 216336,
       "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2VxnvfZykJxJkRTXd6tZUI"
+    },
+    {
+      "added_at": "2023-04-28 21:00:51",
+      "album": {
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 86925,
+      "name": "Isn't She Lovely",
+      "url": "https://open.spotify.com/track/7zcRBXvRkTRlQYLDNu1JEN"
     },
     {
       "added_at": "2023-04-28 21:00:51",
@@ -775,26 +775,6 @@
     {
       "added_at": "2023-04-28 21:00:51",
       "album": {
-        "name": "Quintal",
-        "url": "https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW"
-      },
-      "artists": [
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        },
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        }
-      ],
-      "duration_ms": 177014,
-      "name": "Mais Que Ontem",
-      "url": "https://open.spotify.com/track/1KshLJaAFxRowOEKgdgk9D"
-    },
-    {
-      "added_at": "2023-04-28 21:00:51",
-      "album": {
         "name": "Caravanas",
         "url": "https://open.spotify.com/album/1s1A5EqQwJkGSXGO5ZwJpu"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 202080,
       "name": "Dueto",
       "url": "https://open.spotify.com/track/1UI0p7UHJVyiVlug9ENhjg"
+    },
+    {
+      "added_at": "2023-04-28 21:00:51",
+      "album": {
+        "name": "Quintal",
+        "url": "https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        },
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "duration_ms": 177014,
+      "name": "Mais Que Ontem",
+      "url": "https://open.spotify.com/track/1KshLJaAFxRowOEKgdgk9D"
     },
     {
       "added_at": "2023-04-28 21:00:51",

@@ -879,6 +879,24 @@
     },
     {
       "album": {
+        "name": "Corridors",
+        "url": "https://open.spotify.com/album/6bboSAM3cK5LgLxt5ILwam"
+      },
+      "artists": [
+        {
+          "name": "under.tone",
+          "url": "https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191216,
+      "name": "Corridors",
+      "url": "https://open.spotify.com/track/1ObprOerEaR0kkRkja9kt2"
+    },
+    {
+      "album": {
         "name": "Curvature",
         "url": "https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5"
       },
@@ -1536,7 +1554,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 152396,
       "name": "Gardient heaven",
       "url": "https://open.spotify.com/track/4O1CGcCUjJXow4oBHxMxTK"

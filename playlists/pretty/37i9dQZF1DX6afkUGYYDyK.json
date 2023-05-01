@@ -1,12 +1,12 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 16476,
+  "num_followers": 16483,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTFmNTlmYWUwM2EwOTIyZmNhNDc5OWY1OTM4YThiMGNlZmRhMzYw",
+  "snapshot_id": "MCw5MTUzMTIzMWI5ZTI0MWJiYzQyOGQzMmRiNTFkMzVhMjc3ZjY5NmVj",
   "tracks": [
     {
       "added_at": "2022-11-23 15:01:23",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Thank You (Famine Or Feast)",
-        "url": "https://open.spotify.com/album/3uLzFCH6KFFnHwT07NUo7Q"
-      },
-      "artists": [
-        {
-          "name": "Erik Nieder",
-          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
-        }
-      ],
-      "duration_ms": 203986,
-      "name": "Thank You (Famine Or Feast)",
-      "url": "https://open.spotify.com/track/0f2TO0w2isBZfU1Ae3ugFK"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "At This Table",
         "url": "https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 239932,
       "name": "At This Table",
       "url": "https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Thank You (Famine Or Feast)",
+        "url": "https://open.spotify.com/album/3uLzFCH6KFFnHwT07NUo7Q"
+      },
+      "artists": [
+        {
+          "name": "Erik Nieder",
+          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
+        }
+      ],
+      "duration_ms": 203986,
+      "name": "Thank You (Famine Or Feast)",
+      "url": "https://open.spotify.com/track/0f2TO0w2isBZfU1Ae3ugFK"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Milk & Cookies: A Merry Crowder Christmas",
-        "url": "https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        }
-      ],
-      "duration_ms": 208243,
-      "name": "Thanks Giver",
-      "url": "https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Woman; Thou Art Loosed!",
         "url": "https://open.spotify.com/album/2CzFvvN0ZMozTwPIw0wQzL"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 221133,
       "name": "Give Thanks - Medley",
       "url": "https://open.spotify.com/track/5pg3lPpcTek4W4NPFI4MlL"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Milk & Cookies: A Merry Crowder Christmas",
+        "url": "https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "duration_ms": 208243,
+      "name": "Thanks Giver",
+      "url": "https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC"
     },
     {
       "added_at": "2022-11-23 15:01:23",

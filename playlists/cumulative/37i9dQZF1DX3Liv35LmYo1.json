@@ -1046,6 +1046,24 @@
     {
       "album": {
         "name": "Higher Elevation",
+        "url": "https://open.spotify.com/album/3H0AaXwg0UfCbIluZool04"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373453,
+      "name": "Higher Elevation",
+      "url": "https://open.spotify.com/track/1lb1LQdKk2W265fIggX4SV"
+    },
+    {
+      "album": {
+        "name": "Higher Elevation",
         "url": "https://open.spotify.com/album/1D4EJmfAi8VJbMocGS5MaC"
       },
       "artists": [
@@ -1056,7 +1074,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 373453,
       "name": "Higher Elevation",
       "url": "https://open.spotify.com/track/3AGTwVq5mmZmRZ4INK4wpv"
@@ -2342,7 +2360,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 254268,
       "name": "TIME",
       "url": "https://open.spotify.com/track/0xwx7706qyfnugQQk7yTpN"
@@ -2414,7 +2432,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 233346,
       "name": "View from the Aeroplane Window",
       "url": "https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr"

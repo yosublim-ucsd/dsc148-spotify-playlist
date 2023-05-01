@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 157186,
       "name": "Angel De La Noche",
       "url": "https://open.spotify.com/track/2SFPShG14Uk73oHPgNDaBK"
@@ -1636,6 +1636,24 @@
       "duration_ms": 221414,
       "name": "Reproches Al Viento",
       "url": "https://open.spotify.com/track/2yIgZNeQVWvQAriFDf4CsI"
+    },
+    {
+      "album": {
+        "name": "Me Lo Contaron Ayer",
+        "url": "https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126120,
+      "name": "Rifar\u00e9 Mi Suerte",
+      "url": "https://open.spotify.com/track/1SrYVzqCiKywmHYYsCJ0pI"
     },
     {
       "album": {

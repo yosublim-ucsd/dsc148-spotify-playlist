@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,156 likes - 120 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,194 likes - 120 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,12 +121,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 111 | [Grains of Sand](https://open.spotify.com/track/0GeJYLm23sAnTOMKSY1JCh) | [Alberto Rigoni](https://open.spotify.com/artist/5YPN5P1LS2tcQZAPEpo0ZM), [Michael Manring](https://open.spotify.com/artist/3azoOASbeeRYOHv3ekSMRR), [Billy Sheehan](https://open.spotify.com/artist/0GXvIHZC6fUFoclPbf7Lbm) | [Grains of Sand](https://open.spotify.com/album/0lHwf78LBAwPMDoeX8EZil) | 5:05 |
 | 112 | [Tea Champ](https://open.spotify.com/track/6AuELUc2doFfw6dG3ywwZf) | [Waldo's Gift](https://open.spotify.com/artist/5CDHEnQ7vIRfL4I18XnLQb) | [Tea Champ](https://open.spotify.com/album/58JMPYe89BGfMzJEB7KlHh) | 4:49 |
 | 113 | [Cloud Of Oort](https://open.spotify.com/track/5DFSRzVn40kObZNfi9i7w6) | [Jonathan Lundberg](https://open.spotify.com/artist/6t3AHrm1phB25xs2XpST7p), [Hadrien Feraud](https://open.spotify.com/artist/3pOfWINUxMN6ntbayQt85j), [Christopher Clark](https://open.spotify.com/artist/4PrvXi9ekhPzzcqRqFa3bB), [Johan Hansén\-Larson](https://open.spotify.com/artist/5844YBpApbEWeMcEVpNpNR) | [Cloud Of Oort](https://open.spotify.com/album/3J4x5mfj4UtoJZZJkC45ga) | 6:51 |
-| 114 | [Mangko](https://open.spotify.com/track/6S82yEpaypAVOpE7bs8YDJ) | [Mats/Morgan](https://open.spotify.com/artist/5GnnGx8nwrkvbrrV5rkrL7) | [Live with Norrlandsoperan Symphony Orchestra](https://open.spotify.com/album/6a9zOk1U2vz6uowk8Udpja) | 5:58 |
-| 115 | [Propellerhäst](https://open.spotify.com/track/7rQF99EMaFVsbOxNtoo0GH) | [Mats/Morgan](https://open.spotify.com/artist/5GnnGx8nwrkvbrrV5rkrL7) | [Thanks for Flying With Us](https://open.spotify.com/album/3LAXLwubMT3yW1xzY2zD2Y) | 3:52 |
+| 114 | [Mangko](https://open.spotify.com/track/0OkWjTKa2YGiviFdAElNO3) | [Mats/Morgan](https://open.spotify.com/artist/5GnnGx8nwrkvbrrV5rkrL7) | [Live with Norrlandsoperan Symphony Orchestra](https://open.spotify.com/album/5vqZcipq8arTaPl5ltQWP9) | 5:58 |
+| 115 | [Propellerhäst](https://open.spotify.com/track/7mJ6y6rdy1ivTFp4TceFkd) | [Mats/Morgan](https://open.spotify.com/artist/5GnnGx8nwrkvbrrV5rkrL7) | [Thanks for Flying With Us](https://open.spotify.com/album/2ZfTBHRDuwTripKsNZzkKN) | 3:52 |
 | 116 | [Zeal](https://open.spotify.com/track/7C2L5Lsrc3GvRS5n5lN2Mc) | [Bill Laurance](https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF) | [Zeal](https://open.spotify.com/album/5dbyIGtVNYJeP4J6zZ4Xrp) | 6:23 |
 | 117 | [Dormammu \(Featuring the Shady Horns\)](https://open.spotify.com/track/0yYAeUeFMCLqSdLjc9U2Qw) | [TAUK](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O), [The Shady Horns](https://open.spotify.com/artist/5JF9I2tmWTyj8fKyF6tdnM) | [Chaos Companion](https://open.spotify.com/album/73yzdyUJj6gVJNzjbiFazy) | 5:00 |
 | 118 | [Xavi](https://open.spotify.com/track/0LtzIAlp7ImcMcLHXxOb7n) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Immigrance](https://open.spotify.com/album/6a1HtLhd3zNccXRNUZ23ge) | 9:31 |
 | 119 | [Is Once Enough?](https://open.spotify.com/track/1QjhEkt6IeNGqM9elDpXWG) | [Jean\-Luc Ponty](https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr) | [Aurora](https://open.spotify.com/album/2Ap30a1TU1XxYbx2VCyPKn) | 4:59 |
 | 120 | [Earthrise](https://open.spotify.com/track/6piC8NdaOgfjcQ9jM1Od3S) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [Mirage](https://open.spotify.com/album/33620GQZTMEMzOUZRMkBHf) | 6:41 |
 
-Snapshot ID: `MCwzYjc0YjRjZDdkODE1MTY5Y2UxMjYwMWI1ODIzOGE0YWJlMTQwZGY4`
+Snapshot ID: `MCw4NzNmZDJlOGY0YTg0NWRmZWM2ODFlMGM0MzJjMjExMjE1ODllZjY1`

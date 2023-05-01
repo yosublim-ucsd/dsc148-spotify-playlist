@@ -4,7 +4,7 @@
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-149 songs - 13 hr 46 min
+151 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Lymaks](https://open.spotify.com/track/4PDkuoOoxFGfYtzpMYIIdz) | [FORQ](https://open.spotify.com/artist/7vXBNF4wc830rnuWRBXsz1) | [Batch](https://open.spotify.com/album/5k3J9tx9DYoOi1r6fOEOJo) | 6:14 | 2021-01-27 |  |
 | [Maalouf Song](https://open.spotify.com/track/32oxZZIdV6uqKZuWaUe3wJ) | [Usein Bekirov](https://open.spotify.com/artist/5jBSBF7Zw8vcx5WeyWBB8Y), [Max Malyshev](https://open.spotify.com/artist/2RL3ExDPPOHcLBEoVxMhZw), [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Maalouf Song](https://open.spotify.com/album/7B8E1CjppPodhper6gffx9) | 3:49 | 2021-08-13 |  |
 | [Making The Circle](https://open.spotify.com/track/2IZSJBp2pkdDIdArKUD4uD) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Bring Us The Bright](https://open.spotify.com/album/3TsyAhKh3iEruzauyaKkmg) | 6:47 | 2021-01-27 |  |
-| [Mangko](https://open.spotify.com/track/6S82yEpaypAVOpE7bs8YDJ) | [Mats/Morgan](https://open.spotify.com/artist/5GnnGx8nwrkvbrrV5rkrL7) | [Live with Norrlandsoperan Symphony Orchestra](https://open.spotify.com/album/6a9zOk1U2vz6uowk8Udpja) | 5:58 | 2022-03-11 |  |
+| [Mangko](https://open.spotify.com/track/0OkWjTKa2YGiviFdAElNO3) | [Mats/Morgan](https://open.spotify.com/artist/5GnnGx8nwrkvbrrV5rkrL7) | [Live with Norrlandsoperan Symphony Orchestra](https://open.spotify.com/album/5vqZcipq8arTaPl5ltQWP9) | 5:58 | 2022-03-18 |  |
+| [Mangko](https://open.spotify.com/track/6S82yEpaypAVOpE7bs8YDJ) | [Mats/Morgan](https://open.spotify.com/artist/5GnnGx8nwrkvbrrV5rkrL7) | [Live with Norrlandsoperan Symphony Orchestra](https://open.spotify.com/album/6a9zOk1U2vz6uowk8Udpja) | 5:58 | 2022-03-11 | 2023-05-01 |
 | [mel zone](https://open.spotify.com/track/13krCjtkugHqZBBZAgHHin) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [mel zone](https://open.spotify.com/album/0weOJnSBmxao0Ch7xR3j3e) | 3:14 | 2022-03-11 |  |
 | [Meteor Stream](https://open.spotify.com/track/04SqwJdOlYCMuFZ6xxEggx) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Meteor Stream](https://open.spotify.com/album/0JLhkI3D3ZRtr3swzVqNqb) | 5:45 | 2021-04-16 |  |
 | [Mezza Luna](https://open.spotify.com/track/4rHvDCZqfrm3yMMOKMwXft) | [PsychCloned](https://open.spotify.com/artist/4xMOnUYYtQbbqEUHxPXa0Y), [Camilo D.G.](https://open.spotify.com/artist/1H1jkHEUqtnoPmJPyCKo1R), [Space Hobo](https://open.spotify.com/artist/3CoCzt2Wu1GPYoKcxVf351) | [Melodic Trance](https://open.spotify.com/album/3EeUEdRJ3niaEtc0Wz0vfN) | 4:55 | 2022-07-15 |  |
@@ -97,7 +98,8 @@
 | [Planetary Prince](https://open.spotify.com/track/0RDPruYI8wmOrFTi3RMx6K) | [Cameron Graves](https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP) | [Planetary Prince](https://open.spotify.com/album/6lJJ95URcncW4mCDW0SEI0) | 8:06 | 2021-01-27 |  |
 | [Pokemon Shock](https://open.spotify.com/track/7FSYGvZaIxTG30je5uSYGK) | [Ujig](https://open.spotify.com/artist/6bLZsknTPFOSpFJ6GY56rr) | [Ujigami](https://open.spotify.com/album/1jPq9kjKXqz1bpKgsNLkQz) | 5:46 | 2021-08-13 |  |
 | [Pokémon Shock](https://open.spotify.com/track/2kps9ODbIyKaXAMMf9rNdh) | [Ujig](https://open.spotify.com/artist/6bLZsknTPFOSpFJ6GY56rr) | [Pokémon Shock](https://open.spotify.com/album/4fp0b0F4wKWSKCuAnUbzKO) | 5:44 | 2021-07-30 | 2022-07-29 |
-| [Propellerhäst](https://open.spotify.com/track/7rQF99EMaFVsbOxNtoo0GH) | [Mats/Morgan](https://open.spotify.com/artist/5GnnGx8nwrkvbrrV5rkrL7) | [Thanks for Flying With Us](https://open.spotify.com/album/3LAXLwubMT3yW1xzY2zD2Y) | 3:52 | 2022-03-04 |  |
+| [Propellerhäst](https://open.spotify.com/track/7mJ6y6rdy1ivTFp4TceFkd) | [Mats/Morgan](https://open.spotify.com/artist/5GnnGx8nwrkvbrrV5rkrL7) | [Thanks for Flying With Us](https://open.spotify.com/album/2ZfTBHRDuwTripKsNZzkKN) | 3:52 | 2022-03-11 |  |
+| [Propellerhäst](https://open.spotify.com/track/7rQF99EMaFVsbOxNtoo0GH) | [Mats/Morgan](https://open.spotify.com/artist/5GnnGx8nwrkvbrrV5rkrL7) | [Thanks for Flying With Us](https://open.spotify.com/album/3LAXLwubMT3yW1xzY2zD2Y) | 3:52 | 2022-03-04 | 2023-05-01 |
 | [Quarantin3](https://open.spotify.com/track/5u6ghiYsLHJ0jzU6SPeIup) | [Ask My Bull](https://open.spotify.com/artist/56iAXqUTBHZyOxEe7tngzL) | [Quarantin3](https://open.spotify.com/album/7mUMcH5NS6wYMkkHnc7bGg) | 6:23 | 2021-07-30 |  |
 | [Radio School](https://open.spotify.com/track/7dKllKoKw2hddcsyMEDG90) | [Marbin](https://open.spotify.com/artist/3bbmbyiX3lqrAjlwFgZE16) | [Dirty Horse](https://open.spotify.com/album/79vxo0lhrWzTikbUNawOUL) | 9:04 | 2022-09-30 |  |
 | [Rain Dog](https://open.spotify.com/track/5n1VJ7dpMT3G3Q83wo3tKr) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Bookshelf](https://open.spotify.com/album/70v7OcDOYpKVOVxSYXQXjm) | 4:20 | 2021-01-27 |  |

@@ -968,7 +968,7 @@
     {
       "album": {
         "name": "Dark Energy",
-        "url": "https://open.spotify.com/album/5jxuCEWIiXAEdjrBPTOMTK"
+        "url": "https://open.spotify.com/album/5JNtn7QIhuZiptM2F7bJPX"
       },
       "artists": [
         {
@@ -979,6 +979,24 @@
       "date_added": "2020-12-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 263893,
+      "name": "Erotic Heat",
+      "url": "https://open.spotify.com/track/29mPXTERiHkY9uVH7BDwfD"
+    },
+    {
+      "album": {
+        "name": "Dark Energy",
+        "url": "https://open.spotify.com/album/5jxuCEWIiXAEdjrBPTOMTK"
+      },
+      "artists": [
+        {
+          "name": "Jlin",
+          "url": "https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA"
+        }
+      ],
+      "date_added": "2020-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-01",
       "duration_ms": 263893,
       "name": "Erotic Heat",
       "url": "https://open.spotify.com/track/4e3OBP6GzZ9nZbhvcYAxsb"

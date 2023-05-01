@@ -1,12 +1,12 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 51831,
+  "num_followers": 51910,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGU0ZDBhMGZhODQyNTg4ZjYyMTBhYzY2NTdhNmRlMDMxYWM5MzNj",
+  "snapshot_id": "MCw1MzhkODFjZDY3MTViYjBkZGRkMGY1N2NhYWFjMmU0MjM2MzViNjQw",
   "tracks": [
     {
       "added_at": "2023-04-28 17:32:35",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-04-28 17:32:35",
       "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/0OL0E8PsTP5Q1EjHaLV0hu"
-      },
-      "artists": [
-        {
-          "name": "Lior Freudenthal",
-          "url": "https://open.spotify.com/artist/2LQloGA6q2wNTNovie8OpO"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/0eoulivlbUiUsqDfj4axvM"
-    },
-    {
-      "added_at": "2023-04-28 17:32:35",
-      "album": {
         "name": "Weightless",
         "url": "https://open.spotify.com/album/4lriXb1ncZ3k5USr0jWiOA"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 152974,
       "name": "Mountain View",
       "url": "https://open.spotify.com/track/07JjsRf87eOxsv2RD6UpN7"
+    },
+    {
+      "added_at": "2023-04-28 17:32:35",
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/0OL0E8PsTP5Q1EjHaLV0hu"
+      },
+      "artists": [
+        {
+          "name": "Lior Freudenthal",
+          "url": "https://open.spotify.com/artist/2LQloGA6q2wNTNovie8OpO"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/0eoulivlbUiUsqDfj4axvM"
     },
     {
       "added_at": "2023-04-28 17:32:35",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-04-28 17:32:35",
       "album": {
-        "name": "Breath of Life",
-        "url": "https://open.spotify.com/album/7alwKgozubw1Cmf68SA2eg"
-      },
-      "artists": [
-        {
-          "name": "Gavin Luke",
-          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
-        }
-      ],
-      "duration_ms": 154069,
-      "name": "Breath Of Life",
-      "url": "https://open.spotify.com/track/5CHoemwnNzdSTwtNhimg3N"
-    },
-    {
-      "added_at": "2023-04-28 17:32:35",
-      "album": {
         "name": "Hills Of Clarity",
         "url": "https://open.spotify.com/album/4XjkLYSgsglG0yS1MhuzJA"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 255792,
       "name": "Hills Of Clarity",
       "url": "https://open.spotify.com/track/3HvwuHV9xd0VGi0GncXgoL"
+    },
+    {
+      "added_at": "2023-04-28 17:32:35",
+      "album": {
+        "name": "Breath of Life",
+        "url": "https://open.spotify.com/album/7alwKgozubw1Cmf68SA2eg"
+      },
+      "artists": [
+        {
+          "name": "Gavin Luke",
+          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
+        }
+      ],
+      "duration_ms": 154069,
+      "name": "Breath Of Life",
+      "url": "https://open.spotify.com/track/5CHoemwnNzdSTwtNhimg3N"
     },
     {
       "added_at": "2023-04-28 17:32:35",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-04-28 17:32:35",
       "album": {
-        "name": "Sammram",
-        "url": "https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz"
-      },
-      "artists": [
-        {
-          "name": "Ikupu Ume",
-          "url": "https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP"
-        }
-      ],
-      "duration_ms": 206624,
-      "name": "Sammram",
-      "url": "https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821"
-    },
-    {
-      "added_at": "2023-04-28 17:32:35",
-      "album": {
         "name": "Heavenly",
         "url": "https://open.spotify.com/album/4aquErMoJ6lr67HTcTMPPB"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 178928,
       "name": "Heavenly",
       "url": "https://open.spotify.com/track/4TYAkHr7OjLZrERXYmvkAQ"
+    },
+    {
+      "added_at": "2023-04-28 17:32:35",
+      "album": {
+        "name": "Sammram",
+        "url": "https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz"
+      },
+      "artists": [
+        {
+          "name": "Ikupu Ume",
+          "url": "https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP"
+        }
+      ],
+      "duration_ms": 206624,
+      "name": "Sammram",
+      "url": "https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821"
     },
     {
       "added_at": "2023-04-28 17:32:35",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-04-28 17:32:35",
       "album": {
-        "name": "Vibrational",
-        "url": "https://open.spotify.com/album/7ItE1PpkbhDgDQQkmGEn7V"
+        "name": "Moonlit",
+        "url": "https://open.spotify.com/album/39mlZc7KmKoHZ8jiGancz3"
       },
       "artists": [
         {
-          "name": "unvrsl frqncy",
-          "url": "https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm"
+          "name": "Dreamabout",
+          "url": "https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3"
         }
       ],
-      "duration_ms": 175460,
-      "name": "Vibrational",
-      "url": "https://open.spotify.com/track/0WPubOHAJO44JOIYpbaHd7"
+      "duration_ms": 158766,
+      "name": "Moonlit",
+      "url": "https://open.spotify.com/track/1QHE6Ou7sUHXSS9y7eKVR8"
     },
     {
       "added_at": "2023-04-28 17:32:35",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2023-04-28 17:32:35",
       "album": {
-        "name": "Moonlit",
-        "url": "https://open.spotify.com/album/39mlZc7KmKoHZ8jiGancz3"
+        "name": "Vibrational",
+        "url": "https://open.spotify.com/album/7ItE1PpkbhDgDQQkmGEn7V"
       },
       "artists": [
         {
-          "name": "Dreamabout",
-          "url": "https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3"
+          "name": "unvrsl frqncy",
+          "url": "https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm"
         }
       ],
-      "duration_ms": 158766,
-      "name": "Moonlit",
-      "url": "https://open.spotify.com/track/1QHE6Ou7sUHXSS9y7eKVR8"
+      "duration_ms": 175460,
+      "name": "Vibrational",
+      "url": "https://open.spotify.com/track/0WPubOHAJO44JOIYpbaHd7"
     },
     {
       "added_at": "2023-04-28 17:32:35",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-04-28 17:32:35",
       "album": {
-        "name": "Sleep, Heavenly Sleep",
-        "url": "https://open.spotify.com/album/3LSfBtybYHmwkHFz2GO6rL"
-      },
-      "artists": [
-        {
-          "name": "Dreamabout",
-          "url": "https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3"
-        }
-      ],
-      "duration_ms": 180882,
-      "name": "Sleep, Heavenly Sleep",
-      "url": "https://open.spotify.com/track/1JLHJ9ETGzBV7Ey0IMqAAZ"
-    },
-    {
-      "added_at": "2023-04-28 17:32:35",
-      "album": {
         "name": "Calm Waves",
         "url": "https://open.spotify.com/album/0nhOvzktlNL01xDU1Cwhzj"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 203000,
       "name": "Tokyo Drifting",
       "url": "https://open.spotify.com/track/7AkdsvKHvHjFsj5jLtwySM"
+    },
+    {
+      "added_at": "2023-04-28 17:32:35",
+      "album": {
+        "name": "Sleep, Heavenly Sleep",
+        "url": "https://open.spotify.com/album/3LSfBtybYHmwkHFz2GO6rL"
+      },
+      "artists": [
+        {
+          "name": "Dreamabout",
+          "url": "https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3"
+        }
+      ],
+      "duration_ms": 180882,
+      "name": "Sleep, Heavenly Sleep",
+      "url": "https://open.spotify.com/track/1JLHJ9ETGzBV7Ey0IMqAAZ"
     },
     {
       "added_at": "2023-04-28 17:32:35",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-04-28 17:32:35",
       "album": {
+        "name": "Sleep Drifting",
+        "url": "https://open.spotify.com/album/3baXMgcjcVR8e2sujbNbXN"
+      },
+      "artists": [
+        {
+          "name": "Golden Slumber",
+          "url": "https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Sleep Drifting",
+      "url": "https://open.spotify.com/track/1PTo6XB9bsMpJq0bCxvVEv"
+    },
+    {
+      "added_at": "2023-04-28 17:32:35",
+      "album": {
         "name": "Expanded Reality",
         "url": "https://open.spotify.com/album/6t6vT0VGZRO8S8ud6wGxIN"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 162857,
       "name": "Expanded Reality",
       "url": "https://open.spotify.com/track/3UO6cBUGTh5uE6rxmGSC8O"
-    },
-    {
-      "added_at": "2023-04-28 17:32:35",
-      "album": {
-        "name": "Among the Clouds",
-        "url": "https://open.spotify.com/album/1TFakvYLpxWVYHXCAJb0Mh"
-      },
-      "artists": [
-        {
-          "name": "Nimbus Skies",
-          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Among the Clouds",
-      "url": "https://open.spotify.com/track/42qLkry21o8EbfaplIw0rR"
     },
     {
       "added_at": "2023-04-28 17:32:35",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-04-28 17:32:35",
       "album": {
-        "name": "Sleep Drifting",
-        "url": "https://open.spotify.com/album/3baXMgcjcVR8e2sujbNbXN"
-      },
-      "artists": [
-        {
-          "name": "Golden Slumber",
-          "url": "https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Sleep Drifting",
-      "url": "https://open.spotify.com/track/1PTo6XB9bsMpJq0bCxvVEv"
-    },
-    {
-      "added_at": "2023-04-28 17:32:35",
-      "album": {
         "name": "Amoralis",
         "url": "https://open.spotify.com/album/6PXlEiJLcezQegncKUlDuL"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 211948,
       "name": "Amoralis",
       "url": "https://open.spotify.com/track/23MYtqj4lVBxHhb9kxMpfJ"
+    },
+    {
+      "added_at": "2023-04-28 17:32:35",
+      "album": {
+        "name": "Among the Clouds",
+        "url": "https://open.spotify.com/album/1TFakvYLpxWVYHXCAJb0Mh"
+      },
+      "artists": [
+        {
+          "name": "Nimbus Skies",
+          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Among the Clouds",
+      "url": "https://open.spotify.com/track/42qLkry21o8EbfaplIw0rR"
     }
   ],
   "unique_name": "Sanaci\u00f3n Profunda",

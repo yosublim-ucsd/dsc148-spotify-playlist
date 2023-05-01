@@ -68,6 +68,24 @@
     {
       "album": {
         "name": "Na Balada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uQbJXZlyt1wJkRsfwETLc"
+      },
+      "artists": [
+        {
+          "name": "Michel Tel\u00f3",
+          "url": "https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170493,
+      "name": "Ai Se Eu Te Pego - Ao Vivo",
+      "url": "https://open.spotify.com/track/29vem0DsWK4224LQyxcmA5"
+    },
+    {
+      "album": {
+        "name": "Na Balada (Ao Vivo)",
         "url": "https://open.spotify.com/album/4urZPIaswCaFNXZoZ3adkw"
       },
       "artists": [
@@ -540,7 +558,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 183994,
       "name": "Camarote",
       "url": "https://open.spotify.com/track/5Kk43IykGmtOxZ5CDzOlEU"

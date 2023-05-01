@@ -6486,10 +6486,28 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 219738,
       "name": "Don't Be Another",
       "url": "https://open.spotify.com/track/3qaqxocTgqVSMT9GE82sbg"
+    },
+    {
+      "album": {
+        "name": "Hardly The Same Snake",
+        "url": "https://open.spotify.com/album/5YGnYey5QR9gXmgpxTV6Uw"
+      },
+      "artists": [
+        {
+          "name": "Skinny Pelembe",
+          "url": "https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219738,
+      "name": "Don't Be Another",
+      "url": "https://open.spotify.com/track/7jAYGGdjarBtjI8PkCgQI7"
     },
     {
       "album": {
@@ -13855,6 +13873,24 @@
     },
     {
       "album": {
+        "name": "Hardly The Same Snake",
+        "url": "https://open.spotify.com/album/5YGnYey5QR9gXmgpxTV6Uw"
+      },
+      "artists": [
+        {
+          "name": "Skinny Pelembe",
+          "url": "https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Like A Heart Won't Beat",
+      "url": "https://open.spotify.com/track/4qZ52fbjyJF6C4LJ1Tlobw"
+    },
+    {
+      "album": {
         "name": "Like A Heart Won't Beat",
         "url": "https://open.spotify.com/album/0foppvxztUTxICo4vnKphN"
       },
@@ -13866,7 +13902,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 146000,
       "name": "Like A Heart Won't Beat",
       "url": "https://open.spotify.com/track/5iJ2dkuqfUJzWxwsTDx1St"

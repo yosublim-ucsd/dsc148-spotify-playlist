@@ -4,7 +4,7 @@
 
 > New jazz for open minds\. Cover: Yussef Dayes
 
-856 songs - 2 day 21 hr 31 min
+857 songs - 2 day 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,8 +172,9 @@
 | [Dark Moon](https://open.spotify.com/track/3klFPhvOTgZpxHDk8ewWLK) | [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5) | [Dark Moon](https://open.spotify.com/album/1SIZXdEQ2s4sGjSMuOv69w) | 3:04 | 2023-01-13 | 2023-02-25 |
 | [Darth](https://open.spotify.com/track/0KGzsI9mkENUVup7jz0fqP) | [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt), [Rick Margitza](https://open.spotify.com/artist/0xk1NHjp5e7n0xYB2pSu9Q) | [Darth](https://open.spotify.com/album/61HXa5FdwfW5AuHUZdlbQH) | 8:37 | 2022-09-16 | 2022-10-22 |
 | [Dat It](https://open.spotify.com/track/76qzY2EfLVngIMfdI7PYIf) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Kiefer](https://open.spotify.com/artist/147JrO3YiY9nLD40wAlFvi) | [Dat It](https://open.spotify.com/album/5lbcjCoExqZKiaxXgO52Ti) | 4:46 | 2021-12-23 | 2022-02-19 |
+| [Dawn](https://open.spotify.com/track/0fuxueNMYxeciH7xRNm2Ct) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Lonnie Liston Smith JID017](https://open.spotify.com/album/580mkfgZtjgWloZrKS1lYE) | 2:51 | 2023-04-14 |  |
 | [Dawn](https://open.spotify.com/track/2JFT2hMLN4Fiv49wGS8uK3) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Dawn](https://open.spotify.com/album/4Uxcp6o39l7T2JikYVjLOL) | 2:51 | 2023-04-14 | 2023-04-30 |
-| [Dawn](https://open.spotify.com/track/61fBVMxqOiNiZb7i36glEU) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Dawn](https://open.spotify.com/album/2FPyGSR5ub2i6qSRrUKSNZ) | 2:51 | 2023-04-14 |  |
+| [Dawn](https://open.spotify.com/track/61fBVMxqOiNiZb7i36glEU) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Dawn](https://open.spotify.com/album/2FPyGSR5ub2i6qSRrUKSNZ) | 2:51 | 2023-04-14 | 2023-05-01 |
 | [Dawn](https://open.spotify.com/track/7gbMWvNFc5HXRSVV0a2Wmg) | [Matthew Jamison](https://open.spotify.com/artist/71GC0QhqCTHmY8K5LQMlNd) | [The Journey](https://open.spotify.com/album/4M8V2iShVVJhfnnrshqAuf) | 3:02 | 2022-02-10 | 2022-02-19 |
 | [Day Two](https://open.spotify.com/track/2Iq4uYjhTTnSpd9dIiKVSs) | [Amir Bresler](https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1) | [Day Two](https://open.spotify.com/album/1GeXzJsIsGFZk68jjWM0TE) | 5:16 | 2022-07-01 | 2022-10-15 |
 | [Daybreak](https://open.spotify.com/track/4DFUpuRIkE3BjXdLuzK9mY) | [Katalyst](https://open.spotify.com/artist/4B0nwBQwFMfwa3esy6E3qM), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Daybreak](https://open.spotify.com/album/6OsMZwHmkhYVPLnpBIcleN) | 5:56 | 2022-06-24 | 2022-07-16 |

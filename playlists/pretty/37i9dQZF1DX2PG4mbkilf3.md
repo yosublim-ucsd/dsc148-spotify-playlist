@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura with Zeina & Saint Levant.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,492 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,563 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [Dreams](https://open.spotify.com/track/3tH0vbWaVb3rzlhqlA29Nu) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Dreams](https://open.spotify.com/album/7uzN6TOWx3PIKIytVpKMyQ) | 3:15 |
 | 100 | [OHWEI](https://open.spotify.com/track/7n5LQXVhfgRphYIuX6jsCw) | [Izzy Rose](https://open.spotify.com/artist/3bhjxkOnnTAKNTQU1TdC9N) | [OHWEI](https://open.spotify.com/album/2QZYJrdgvAUxgFK6Z0PIyf) | 2:49 |
 
-Snapshot ID: `MCw4YmQ1MDdmNzJkNDhmYTZmOGZmMjI5MmVjNzU1ZDQxODVmMzdjZmRk`
+Snapshot ID: `MCxhMjFlZWU4N2RjM2E0Y2Q1ZDdjY2UwN2ViNjM0MWFjNWMwZDg1Nzhi`

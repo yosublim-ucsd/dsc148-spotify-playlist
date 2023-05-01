@@ -1,12 +1,12 @@
 {
   "description": "In the trap with Bad Bunny \ud83d\udc30 \ud83d\udd25",
-  "num_followers": 11705,
+  "num_followers": 11733,
   "original_name": "Trap Bunny",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDQ5MDM4MTU0OWRmM2QzMjkwYjE0MDM3NzhjMzFhMTZkZjhkYjIz",
+  "snapshot_id": "MCxiZjA1ZTg4MTU2ZWJhMDhjNmE3MTAxNDEzNmM5MjdiM2U3ZmVhMTlh",
   "tracks": [
     {
       "added_at": "2023-03-03 21:54:57",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-03-03 21:54:57",
       "album": {
-        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
-        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 162151,
-      "name": "HOY COBR\u00c9",
-      "url": "https://open.spotify.com/track/0tjZv2hChdHZCW1zFXpy1J"
-    },
-    {
-      "added_at": "2023-03-03 21:54:57",
-      "album": {
         "name": "Caile",
         "url": "https://open.spotify.com/album/2QtRthdUjkWEBAp5guyNLJ"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 300187,
       "name": "Caile",
       "url": "https://open.spotify.com/track/5lr877wwUsB8inLGywHKxa"
+    },
+    {
+      "added_at": "2023-03-03 21:54:57",
+      "album": {
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 162151,
+      "name": "HOY COBR\u00c9",
+      "url": "https://open.spotify.com/track/0tjZv2hChdHZCW1zFXpy1J"
     },
     {
       "added_at": "2023-03-03 21:54:57",

@@ -4,7 +4,7 @@
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-432 songs - 1 day 6 hr 34 min
+433 songs - 1 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A Forest](https://open.spotify.com/track/0T6kwiueP62ten2KLLmQS4) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds \(Deluxe Edition\)](https://open.spotify.com/album/7hhojBmp7o620ZSq1eP9a8) | 5:54 | 2018-12-12 | 2022-07-29 |
 | [A Forest \- 2006 Remaster](https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds \(Deluxe Edition\)](https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj) | 5:54 | 2018-12-12 |  |
 | [A Girl Called Johnny \- 2002 Remaster](https://open.spotify.com/track/2EF94Cbk5QW28tY95e1DtW) | [The Waterboys](https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ) | [The Waterboys](https://open.spotify.com/album/6eXEKcDRtCxrpv0V8RbXga) | 3:57 | 2019-08-02 | 2022-07-29 |
-| [A Girl Called Johnny \- 2002 Remaster](https://open.spotify.com/track/33Las8EVYfUYccKAudyXjW) | [The Waterboys](https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ) | [The Waterboys](https://open.spotify.com/album/1UKEPewUNpzKxEAPD9TQ8D) | 3:57 | 2019-08-02 |  |
+| [A Girl Called Johnny \- 2002 Remaster](https://open.spotify.com/track/33Las8EVYfUYccKAudyXjW) | [The Waterboys](https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ) | [The Waterboys](https://open.spotify.com/album/1UKEPewUNpzKxEAPD9TQ8D) | 3:57 | 2019-08-02 | 2023-05-01 |
 | [A Question of Lust](https://open.spotify.com/track/3eN5LFnqtfPAR7Jr8i2QuE) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Black Celebration \(Deluxe\)](https://open.spotify.com/album/2xEeSf4j9XsAAI15co5cNh) | 4:23 | 2022-05-27 | 2022-07-23 |
 | [A Question of Lust](https://open.spotify.com/track/4bYJ2lYZKYriZDWFeAnyj8) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Black Celebration](https://open.spotify.com/album/0JSOfVzxVTpyvxzXggc8rG) | 4:29 | 2022-05-27 | 2022-11-12 |
 | [Absolute](https://open.spotify.com/track/6MdHzOQC9kZPk5n1WZFAqk) | [Scritti Politti](https://open.spotify.com/artist/59luKpdal8UwxcuLJNoKwS) | [Absolute](https://open.spotify.com/album/3vT8KeOCTzceJbGBFO7KUE) | 4:24 | 2019-08-02 | 2022-04-19 |
@@ -326,6 +326,7 @@
 | [Ship of Fools](https://open.spotify.com/track/3ndKgw7LvKO7zIk1rgOQJ2) | [World Party](https://open.spotify.com/artist/0THUMJMWUd5L8os9K6O4FE), [Anthony Thistlethwaite](https://open.spotify.com/artist/1Dg0yaGc5vawe984BMXIIh) | [Private Revolution](https://open.spotify.com/album/6NbdjT5mdw0oTZDiEZOgey) | 4:28 | 2019-08-02 |  |
 | [Shout](https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 6:33 | 2018-12-12 |  |
 | [Situation \- 2008 Remastered Version](https://open.spotify.com/track/0Az5nx6qYZ2n54rh1sgvcB) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [In Your Room](https://open.spotify.com/album/5YlCHiZn44igfoWNFjP48v) | 2:24 | 2018-12-12 |  |
+| [Skin Deep](https://open.spotify.com/track/1QeEpsDDPWTu3pKOLro0La) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [Aural Sculpture](https://open.spotify.com/album/1MruYes9jkQuAoX4NezhUt) | 3:53 | 2019-08-02 |  |
 | [Skin Deep](https://open.spotify.com/track/2l6uZK0T18rviqNQMQ3k17) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [Greatest Hits 1977\-1990](https://open.spotify.com/album/1czXkVzstJU0OZFwEPTQci) | 3:55 | 2019-08-02 | 2022-11-13 |
 | [Sleeper In Metropolis](https://open.spotify.com/track/0BnMXGSKIOTqroiBpXgLTV) | [Anne Clark](https://open.spotify.com/artist/0RSRLPv7ZmcrlyboVGR0hL) | [Changing Places](https://open.spotify.com/album/7DiCqz4vzQgW2dhz206Seh) | 4:06 | 2019-08-01 | 2022-11-14 |
 | [Slippery People \- Live](https://open.spotify.com/track/2WDvW3o8WeGN4v4cpsYVhT) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 4:00 | 2018-12-12 |  |

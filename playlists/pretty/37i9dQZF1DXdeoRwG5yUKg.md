@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,219 likes - 98 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,249 likes - 98 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 45 | [Promises You Can't Keep](https://open.spotify.com/track/0kwo8RG3XpE0tBKJNPBk2D) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 5:55 |
 | 46 | [Gold](https://open.spotify.com/track/0okw8NRaGP97EFyBmvTyT1) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Last Light on the Highway](https://open.spotify.com/album/4vEdVmsibS4TDTvdJ07Xae) | 4:57 |
 | 47 | [How Many Tears](https://open.spotify.com/track/4hYjPSFmCPeYL8JGinnD4N) | [Quinn Sullivan](https://open.spotify.com/artist/3RBOewcm7cYn3IhFBxkQ2J) | [Wide Awake](https://open.spotify.com/album/2b7MbvztGNG6i21VrDclME) | 3:32 |
-| 48 | [Nothin' With You](https://open.spotify.com/track/3eeabq9wLCiV4JJ5p1yWk7) | [Nikki Hill](https://open.spotify.com/artist/28Vn4HKpcOqzagc7tiAxNz) | [Heavy Hearts Hard Fists](https://open.spotify.com/album/2nZC1XpdGBiYkIG4R5ytml) | 3:36 |
+| 48 | [Nothin' With You](https://open.spotify.com/track/6dm44Z6C6nOsgkScINPe99) | [Nikki Hill](https://open.spotify.com/artist/28Vn4HKpcOqzagc7tiAxNz) | [Heavy Hearts Hard Fists](https://open.spotify.com/album/0fo7S7VAXlvSnmApHKJ2if) | 3:36 |
 | 49 | [All Around You](https://open.spotify.com/track/6Kt4ZcgT2vCUq7QezTTcES) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [A Sailor's Guide to Earth](https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4) | 3:35 |
 | 50 | [Pictures on the Wall](https://open.spotify.com/track/2KK8G1JqNkz7L6wfTbgp7H) | [The Soul Jacket](https://open.spotify.com/artist/74gz5JP3mfqLeMBeCwYf9S) | [Black Cotton Limited](https://open.spotify.com/album/4BzCphuz3P1FvWvOB5GtDp) | 4:17 |
 | 51 | [Is There Something I Should Know](https://open.spotify.com/track/4igHNG3kw9KrG9myowBJvC) | [Curtis Salgado](https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0) | [The Beautiful Lowdown](https://open.spotify.com/album/5W7H2kAiUChuRI05H4VLzm) | 4:29 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 79 | [Gemini Heart](https://open.spotify.com/track/3gP6wL0DFyrJr4DzGgLhBq) | [Layla Zoe](https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU), [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [The Lily](https://open.spotify.com/album/1SvBVlFYgpG2VmbTqCs5h8) | 6:10 |
 | 80 | [The World Moves On](https://open.spotify.com/track/2O8w4ULp2uun76A2IgVjsz) | [Hitman Blues Band](https://open.spotify.com/artist/01auum1XBkykoXiQl6ynkx) | [The World Moves On](https://open.spotify.com/album/4fvPhrcHvGlB9fPD1BjIVK) | 4:44 |
 | 81 | [Why Don't You Stay?](https://open.spotify.com/track/44CgGAQHAxrRWRSNS9mFQ8) | [Muddy Magnolias](https://open.spotify.com/artist/1t7mdRbvflM5966YVfyk1X) | [Broken People](https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr) | 4:33 |
-| 82 | [Call on God](https://open.spotify.com/track/0MY6kBXw8kbDgJiAoO0RUk) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Soul of a Woman](https://open.spotify.com/album/6dQ4PANge8QXfOywlHNd2J) | 3:37 |
+| 82 | [Call on God](https://open.spotify.com/track/3dBH5NxeEfR7t2kh6jdcCC) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Soul of a Woman](https://open.spotify.com/album/6Y3Hr84DBJ7oV76c3BuInv) | 3:37 |
 | 83 | [Only Fool Was Me](https://open.spotify.com/track/1NlbqPDrtGqtNeDymqVdME) | [Jj Thames](https://open.spotify.com/artist/3s40l5PuYSiN6ZxVatol8p) | [Raw Sugar](https://open.spotify.com/album/28CI62akHTySi71hTfUTye) | 4:28 |
 | 84 | [Carry On](https://open.spotify.com/track/4ZFhVVawR0xMJ5dJFNxFRl) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 2:48 |
 | 85 | [In Every Heart](https://open.spotify.com/track/76mL8jSzIJGybicOOMP3up) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Let Me Get By](https://open.spotify.com/album/0nE6b7My7kpkI9dRs0pGoV) | 6:20 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 97 | [Last Goodbye](https://open.spotify.com/track/0VnXemLs18D2jcH7wXaySJ) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Turn Around](https://open.spotify.com/album/2A7jWbq8sH2XFwXc9oCxWy) | 3:56 |
 | 98 | [Something To Lose](https://open.spotify.com/track/5f43xdMK3oxObiuFNZRkNq) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5), [Amy Helm](https://open.spotify.com/artist/4LBsb3buEAjllAzNraGYtU) | [Halfway Home By Morning](https://open.spotify.com/album/42ly7pyWE5C0o3PFaMRd6e) | 4:48 |
 
-Snapshot ID: `MCw1NGFlMjk0MWY3OWU3YmI3OGZjODc1N2UyZDA2ZGU1NjkxNjk3NWEz`
+Snapshot ID: `MCwyYTBkNTM4M2E3ZDkzNGQyZDZmMWRmNzExOTlkOTM3MTJjZDNjMjgz`

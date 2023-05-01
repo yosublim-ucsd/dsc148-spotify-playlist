@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLN2cXno63R.md) - [plain]
 
 > Take yourself to Havana with some Cuban Salsa and Café favourites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,478 likes - 62 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,754 likes - 62 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLN2cXno63R.md) - [plain]
 | 15 | [Manteca de Corojo](https://open.spotify.com/track/3XXFRze9yz6gDLHrVwSAnd) | [Afro Cuban Social Club, Calle 23](https://open.spotify.com/artist/1pZ3AsIQ9XcXl62sMbmBEH) | [Afro Cuban Social Club Presents: La Casa SALSA \(Cuba's Greatest Salsa\)](https://open.spotify.com/album/0qI2EpNN3AA0iQMsXWhGDX) | 5:08 |
 | 16 | [No Llores Mas](https://open.spotify.com/track/7cM93GhjLMv6kXqKrqhTL8) | [Banda Caio Rodriguez](https://open.spotify.com/artist/3r3LCgq60jmbEQkEh2Q8aW), [Hector Rey](https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv), [Los Brillantes Cubanos](https://open.spotify.com/artist/0LcZ3t6cQtrE8IASQxDmcu) | [Cuba Café \(The Very Best of Cuban Music\)](https://open.spotify.com/album/6AcFLwyRVfDb0MubVagUdl) | 4:49 |
 | 17 | [Invéntate una Historia](https://open.spotify.com/track/3DJWikRRG88jBbhGjWGE9d) | [Mayito Rivera](https://open.spotify.com/artist/1S0Og7sspn3YyJmEcE43zD) | [Cuba: The Ultimate Salsa Collection](https://open.spotify.com/album/5eu5gIZatGsL1r8EaG29ft) | 3:10 |
-| 18 | [Patuleco](https://open.spotify.com/track/5YUSA1PVNYDiSz2XuD53RQ) | [Orquesta Sonora Curro](https://open.spotify.com/artist/1s3glHhVbcSfPu5EjyrVrN) | [Cartagena! Curro Fuentes & The Big Band Cumbia and Descarga Sound of Colombia 1962\-72](https://open.spotify.com/album/2f2jyRaOT92BCf49yjyRbz) | 2:48 |
+| 18 | [Patuleco](https://open.spotify.com/track/09bGYFnMVZRh0ilaVUiYio) | [Orquesta Sonora Curro](https://open.spotify.com/artist/1s3glHhVbcSfPu5EjyrVrN) | [Cartagena! Curro Fuentes & The Big Band Cumbia and Descarga Sound of Colombia 1962\-72](https://open.spotify.com/album/0UbcmD65kthpuyIIYajOYY) | 2:48 |
 | 19 | [Asi no papacito](https://open.spotify.com/track/070vRAgWBtWgzDtWex7Unl) | [Anonymous](https://open.spotify.com/artist/3H269p8sGhjP7WBYlGsN18), [Mario Manzanares](https://open.spotify.com/artist/3r7BC9mw1EwyzOp6lU1ZXt), [Sergio Alvarez](https://open.spotify.com/artist/6n8BdKdBM7ckmMhz1Wr1N9), [Pablo Carcamo](https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS), [Miguel Castro](https://open.spotify.com/artist/4811WtF0znWG09E9YG8mXF) | [Sergio Alvarez: Cuba, Cuba! \- The Most Popular Songs](https://open.spotify.com/album/4YRflLUQPNyugAgWNV9cfI) | 4:09 |
 | 20 | [Reunión de Cantores](https://open.spotify.com/track/2TK5hjVlLojMLsXHKLnHkd) | [Tiburon Morales](https://open.spotify.com/artist/671ge0J7hfPRMiZZgcR7jF) | [Cuba: The Ultimate Salsa Collection](https://open.spotify.com/album/5eu5gIZatGsL1r8EaG29ft) | 4:12 |
 | 21 | [Ochun](https://open.spotify.com/track/3finbqt0hFJpfsJYeeFvJh) | [René Ferrer](https://open.spotify.com/artist/7hQEtpzH8zuOJOA25dk004) | [Obatalá No Quiere Guerra](https://open.spotify.com/album/4CipbkwsxBGdIBW5Tn2Rz2) | 3:55 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLN2cXno63R.md) - [plain]
 | 61 | [Habanera](https://open.spotify.com/track/5fJ59hC02dd43Ej9I1Zyyp) | [Cuba Cafe Express](https://open.spotify.com/artist/5suSWbd4Oy5ZBnwvk2ruCt) | [What About Cuba](https://open.spotify.com/album/2PpQzhiPBQl6cbWvmgNhTn) | 3:42 |
 | 62 | [El Guayo de Catilina](https://open.spotify.com/track/0YMHpQZ6FYqS4V6J6xOVqL) | [Havana Club](https://open.spotify.com/artist/3OVEfqUmt746LvlpP2rKK2) | [Cafè de Cuba \(Latin Music, Cuba\)](https://open.spotify.com/album/1hPlkjUn6C9cRVVN3VEfhu) | 3:17 |
 
-Snapshot ID: `MCwwMzlhZGU0MGMyZmI0MzNlYTVhZmYyOGQwZTVhMWE4Y2FlZmZhNzBj`
+Snapshot ID: `MCw5YmJjNWI1NTQ2Nzk1N2VmYjBkZmU2ZmY0OGI1N2Y5ODg4YTU2Zjlm`

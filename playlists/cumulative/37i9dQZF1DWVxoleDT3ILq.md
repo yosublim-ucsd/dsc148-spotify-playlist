@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Hausi Kuta.
 
-343 songs - 20 hr 49 min
+344 songs - 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Cuántas Veces](https://open.spotify.com/track/6uvvl0MaveeEQlxmeP1x5W) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Recopilatorio](https://open.spotify.com/album/5GZRekxFsqDFURqsVitGxy) | 3:06 | 2022-04-15 | 2022-12-10 |
 | [Cóseme alas](https://open.spotify.com/track/7Isq8Q1UfIAvrETQ0gPJcG) | [GomaSlash](https://open.spotify.com/artist/2V381Id0YlUspiQorutUmP) | [Cóseme alas](https://open.spotify.com/album/26Z0dQVE6UDS8NPUUjXluJ) | 3:09 | 2022-04-15 | 2022-07-28 |
 | [DA2](https://open.spotify.com/track/7dRm6XxlK8c9ug3kt4AJjL) | [Caravana](https://open.spotify.com/artist/5v0U5GjJ43wx2ZAM02oOoa) | [DA2](https://open.spotify.com/album/4BjDWUTvXjfN1nwxwKkSCY) | 3:33 | 2022-04-15 | 2023-04-01 |
+| [Dame Una Señal](https://open.spotify.com/track/3QuuNFeiWyDbUrRKpw8Ksq) | [Natalia Montenegro](https://open.spotify.com/artist/2UFybBcjbipkbyftHLfq8C), [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm) | [Dame Una Señal](https://open.spotify.com/album/6i15JANt80vWGTIm1zEtzF) | 3:14 | 2023-04-28 |  |
 | [Danza](https://open.spotify.com/track/1FujFNI2naG0XkDCf0fdJz) | [Keyo Catto](https://open.spotify.com/artist/2LlKHzvYJMeJuwdk02KUec) | [Danza](https://open.spotify.com/album/4zrP2XzPDDB4WuouYnTIee) | 3:45 | 2022-07-08 | 2022-08-17 |
 | [Darkside](https://open.spotify.com/track/5LBlK0wPg9skXJPDzJUtdJ) | [Vale Castillo](https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF), [Cuatrobeats](https://open.spotify.com/artist/5VH4yORLdFVHVSqCYAjjoh) | [Darkside](https://open.spotify.com/album/6dMrlT3y9pTZlGvIK3m7KY) | 3:24 | 2022-04-15 | 2022-07-14 |
 | [De Cerca](https://open.spotify.com/track/1eYOUJWh7BADGKPxhXCM7u) | [Los Días Silvestres](https://open.spotify.com/artist/51ewyZ0SAKgCG9dqme1Rff) | [Cautiverio](https://open.spotify.com/album/7hfyFpnxxzKZGG8fnzwCJ7) | 5:35 | 2022-04-15 | 2022-07-26 |
@@ -342,7 +343,7 @@
 | [Vía Contemplativa](https://open.spotify.com/track/2EdsfzRhbmOZVN9g8WY09R) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Suave Pendiente](https://open.spotify.com/album/33H62Vxr3nX4jQCvbfHP54) | 3:56 | 2022-10-14 | 2023-01-28 |
 | [XAT \(Juanita La O Remix\)](https://open.spotify.com/track/2HFqgimGHdB73kdBoNKAY3) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3), [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT) | [Refresco](https://open.spotify.com/album/2IF1XMAdUABwcrZSWFnE4b) | 3:17 | 2022-04-15 |  |
 | [Y Vuelve a Pensar en Ti](https://open.spotify.com/track/1l8LkNw2Mh0eLLlaab7Xij) | [Chinoy](https://open.spotify.com/artist/7ah2GYpn05JkpAIk7vop8g) | [Y Vuelve a Pensar en Ti](https://open.spotify.com/album/0DJWl4maPeqSR4QmiDCeWW) | 4:40 | 2022-04-15 | 2022-07-20 |
-| [Ya Hablamos de Esto](https://open.spotify.com/track/7E7GOlNAywQK65Wg4EQf1e) | [Aerobot](https://open.spotify.com/artist/7BO2i1MVKhUrwQHFBkvBfQ), [Amelia](https://open.spotify.com/artist/5ww5jJ8UVQ7jxFQBfN7VoQ) | [Ya Hablamos de Esto](https://open.spotify.com/album/1sCAPYU44MdvDr6YSj9J6f) | 3:22 | 2022-04-15 |  |
+| [Ya Hablamos de Esto](https://open.spotify.com/track/7E7GOlNAywQK65Wg4EQf1e) | [Aerobot](https://open.spotify.com/artist/7BO2i1MVKhUrwQHFBkvBfQ), [Amelia](https://open.spotify.com/artist/5ww5jJ8UVQ7jxFQBfN7VoQ) | [Ya Hablamos de Esto](https://open.spotify.com/album/1sCAPYU44MdvDr6YSj9J6f) | 3:22 | 2022-04-15 | 2023-05-01 |
 | [Ya No Te Quiero](https://open.spotify.com/track/2r6aWKCe1ZggvtwWBEXDWv) | [Hija de Rojo](https://open.spotify.com/artist/5HaKPLitdETb46owOu4Uxd), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [Ya No Te Quiero](https://open.spotify.com/album/3r8ngrBY6vR9jwsj67HCCy) | 3:17 | 2023-01-06 |  |
 | [yacaré](https://open.spotify.com/track/1wkZWufiSU6fzf1FJslCVg) | [Mondomamba](https://open.spotify.com/artist/3X3Wz70qevXveyieDAl6T0), [Martín Berríos](https://open.spotify.com/artist/3EQz0AUS2CMV6lOu3Zplm2) | [yacaré](https://open.spotify.com/album/01p29H8LIv6DlF6BbEi7QH) | 4:03 | 2022-04-15 | 2022-07-28 |
 | [yo creo que nos podríamos hacer bien](https://open.spotify.com/track/2KA4JH7Gsaov1zi3CIKu2U) | [carla martinez](https://open.spotify.com/artist/61boNdzdBfHexUTjbd1mrg), [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3) | [yo creo que nos podríamos hacer bien](https://open.spotify.com/album/5DRCrokzbS8eYvDAwZczwW) | 3:24 | 2023-03-31 |  |

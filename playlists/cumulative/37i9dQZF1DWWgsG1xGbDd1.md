@@ -4,7 +4,7 @@
 
 > You feel the sun on your face.
 
-107 songs - 5 hr 35 min
+108 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Buffalo Soldier](https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 4:15 | 2021-04-23 |  |
 | [Call to Me](https://open.spotify.com/track/5AlZ6pmFMiiEGAm6QLKhC5) | [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM) | [Studio One Sound](https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze) | 2:03 | 2021-04-23 | 2022-07-29 |
 | [Call to Me \(aka Come to Me\)](https://open.spotify.com/track/07JiDePV5j3JS2Ohss2u7y) | [Rita Marley](https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3) | [Dancing the Ska](https://open.spotify.com/album/6b2G79N6sJoKbg7Mw0Pubw) | 2:01 | 2021-04-23 | 2023-04-30 |
+| [Call to Me \(aka Come to Me\)](https://open.spotify.com/track/5yMXY2QCnkeggMgLSOaqR0) | [Rita Marley](https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3) | [Dancing the Ska](https://open.spotify.com/album/6uoQ5sCHsjfbWIHYkojaPm) | 2:01 | 2021-04-23 |  |
 | [Chuky Skank](https://open.spotify.com/track/232oGt97gDd6jJmb9lFcR2) | [Dillinger](https://open.spotify.com/artist/5J69edy1luLIzbgyl4u1Dv) | [Soul Jazz Records Presents Studio One Showcase: The Sound of Studio One in the 1970S](https://open.spotify.com/album/0L3MiIrqhRpjlJu3wmMGzO) | 2:39 | 2021-04-23 |  |
 | [Coconut Rock](https://open.spotify.com/track/3gxEtE7T9CdLod0ZdOTrJv) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Studio One Scorcher](https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi) | 2:49 | 2021-04-23 | 2022-07-29 |
 | [Cousin Joe Pt 1](https://open.spotify.com/track/3hJPEhPVe5r122YyR938Sb) | [Sugar Belly](https://open.spotify.com/artist/0ssb4YvbdaKz7NlQAcrbX6) | [Studio One Scorcher Volume 2](https://open.spotify.com/album/7uBodlWM79A8BbXJqHS90a) | 3:39 | 2021-04-23 | 2022-11-30 |
@@ -114,6 +115,6 @@
 | [Where's Garvey](https://open.spotify.com/track/32fwQQjAdnaW9TuqJdW8rw) | [The Bongo Man](https://open.spotify.com/artist/2pBVJLkrOeSpjMzCSBQNMI) | [Studio One Ska Fever! More Ska Sounds from Sir Coxsone's Downbeat 1962\-65](https://open.spotify.com/album/2X9XmbPk2hthOpLcZ5lHnj) | 2:14 | 2021-04-23 | 2022-07-29 |
 | [Where's Garvey](https://open.spotify.com/track/3wUehGunfvxPKXqTD3jS00) | [The Bongo Man](https://open.spotify.com/artist/2pBVJLkrOeSpjMzCSBQNMI) | [Reggae For House Parties](https://open.spotify.com/album/1ibmkILOdPOQSNrFIIn53c) | 2:14 | 2021-04-23 |  |
 | [Where's Garvey](https://open.spotify.com/track/67WLLqIoGXbcTS6FwfrL0Z) | [The Bongo Man](https://open.spotify.com/artist/2pBVJLkrOeSpjMzCSBQNMI) | [Ska Sounds, Vol\. 1](https://open.spotify.com/album/5SnwwIFYmfaJlsa37OI3NG) | 2:14 | 2021-04-23 | 2022-11-14 |
-| [You'll Get Your Pay](https://open.spotify.com/track/0QS4vNmAoV6Y0FMz0FTYhe) | [Linton Cooper \(w\. The Brentford Disco Set\)](https://open.spotify.com/artist/0Zc8HYdVsRDDYj2atgS3aI) | [Studio One Roots](https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI) | 2:56 | 2021-04-23 |  |
+| [You'll Get Your Pay](https://open.spotify.com/track/0QS4vNmAoV6Y0FMz0FTYhe) | [Linton Cooper \(w\. The Brentford Disco Set\)](https://open.spotify.com/artist/0Zc8HYdVsRDDYj2atgS3aI) | [Studio One Roots](https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI) | 2:56 | 2021-04-23 | 2023-05-01 |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

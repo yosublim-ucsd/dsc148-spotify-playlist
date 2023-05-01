@@ -1,12 +1,12 @@
 {
   "description": "Adoradores cantando sobre o amor. Foto: Paulo Cesar Baruk",
-  "num_followers": 82786,
+  "num_followers": 82807,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmY5OTI1ZDc0ZTU0NWM2YWYwNWJkNTBhN2YyMjc1ZDE0ZTBlOGY4",
+  "snapshot_id": "MCw3ZDU5M2U5ODQ3YWJlMzA2YzQxZDQ5OGQwNjAxMzAwYTE1Njc3MjNm",
   "tracks": [
     {
       "added_at": "2023-03-11 01:28:01",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
-        "name": "\u00c0 Moda Antiga",
-        "url": "https://open.spotify.com/album/09VERYRPeBBYDhlDcJMDaB"
-      },
-      "artists": [
-        {
-          "name": "Lu Alone",
-          "url": "https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U"
-        }
-      ],
-      "duration_ms": 182081,
-      "name": "\u00c0 Moda Antiga",
-      "url": "https://open.spotify.com/track/4B5Wm6heL2bPEPYytaEfmL"
-    },
-    {
-      "added_at": "2023-03-11 01:28:01",
-      "album": {
         "name": "Com Voc\u00ea",
         "url": "https://open.spotify.com/album/54ci89R6xdQfxdsQLgH1no"
       },
@@ -419,18 +403,18 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
-        "name": "Somos Iguais (Ao Vivo)",
-        "url": "https://open.spotify.com/album/671MLGdr5GnsPqhA8ffxER"
+        "name": "\u00c0 Moda Antiga",
+        "url": "https://open.spotify.com/album/09VERYRPeBBYDhlDcJMDaB"
       },
       "artists": [
         {
-          "name": "Thiago Grulha",
-          "url": "https://open.spotify.com/artist/41gACtL0EdNfVnvT71cLRu"
+          "name": "Lu Alone",
+          "url": "https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U"
         }
       ],
-      "duration_ms": 155106,
-      "name": "Pra Sempre",
-      "url": "https://open.spotify.com/track/7iKNtzU0VMgqzJRX742e0j"
+      "duration_ms": 182081,
+      "name": "\u00c0 Moda Antiga",
+      "url": "https://open.spotify.com/track/4B5Wm6heL2bPEPYytaEfmL"
     },
     {
       "added_at": "2023-03-11 01:28:01",
@@ -447,6 +431,22 @@
       "duration_ms": 201874,
       "name": "Disse Sim",
       "url": "https://open.spotify.com/track/3nzRymxESTUVKiIJ2Hr7jy"
+    },
+    {
+      "added_at": "2023-03-11 01:28:01",
+      "album": {
+        "name": "Somos Iguais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/671MLGdr5GnsPqhA8ffxER"
+      },
+      "artists": [
+        {
+          "name": "Thiago Grulha",
+          "url": "https://open.spotify.com/artist/41gACtL0EdNfVnvT71cLRu"
+        }
+      ],
+      "duration_ms": 155106,
+      "name": "Pra Sempre",
+      "url": "https://open.spotify.com/track/7iKNtzU0VMgqzJRX742e0j"
     },
     {
       "added_at": "2023-03-11 01:28:01",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
-        "name": "Cabelo solto - Playback",
-        "url": "https://open.spotify.com/album/2FoLg1Bm7PED4YTIayK0Cg"
-      },
-      "artists": [
-        {
-          "name": "Marcela Tais",
-          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
-        }
-      ],
-      "duration_ms": 236251,
-      "name": "Escolhi Te Esperar",
-      "url": "https://open.spotify.com/track/0Ifj8NQ3Xl2Ia9s6XCphrz"
-    },
-    {
-      "added_at": "2023-03-11 01:28:01",
-      "album": {
         "name": "Amo Voc\u00ea Vol. 17",
         "url": "https://open.spotify.com/album/1TrtJ1uPEolNGRW4tC2QzM"
       },
@@ -519,18 +503,18 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
-        "name": "Pra Onde a Gente Vai?",
-        "url": "https://open.spotify.com/album/3wJQesaQGbTVTBwUQaMit9"
+        "name": "Cabelo solto - Playback",
+        "url": "https://open.spotify.com/album/2FoLg1Bm7PED4YTIayK0Cg"
       },
       "artists": [
         {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+          "name": "Marcela Tais",
+          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
         }
       ],
-      "duration_ms": 278000,
-      "name": "Pra Onde a Gente Vai?",
-      "url": "https://open.spotify.com/track/5FqUehyGODNlguE8ringep"
+      "duration_ms": 236251,
+      "name": "Escolhi Te Esperar",
+      "url": "https://open.spotify.com/track/0Ifj8NQ3Xl2Ia9s6XCphrz"
     },
     {
       "added_at": "2023-03-11 01:28:01",
@@ -551,6 +535,22 @@
       "duration_ms": 198067,
       "name": "O Jeito Que Voc\u00ea Me Olha",
       "url": "https://open.spotify.com/track/4XmKI6f9r1sZT1jYegZnoj"
+    },
+    {
+      "added_at": "2023-03-11 01:28:01",
+      "album": {
+        "name": "Pra Onde a Gente Vai?",
+        "url": "https://open.spotify.com/album/3wJQesaQGbTVTBwUQaMit9"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Pra Onde a Gente Vai?",
+      "url": "https://open.spotify.com/track/5FqUehyGODNlguE8ringep"
     },
     {
       "added_at": "2023-03-11 01:28:01",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
-        "name": "Meu Bem",
-        "url": "https://open.spotify.com/album/5EXAIjwCYVpVZ5xEgWF4Dd"
-      },
-      "artists": [
-        {
-          "name": "Marcela Tais",
-          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
-        }
-      ],
-      "duration_ms": 230878,
-      "name": "Meu Bem",
-      "url": "https://open.spotify.com/track/10xATNb0pIGuxHD31B6EFb"
-    },
-    {
-      "added_at": "2023-03-11 01:28:01",
-      "album": {
         "name": "O Dia (feat. Weslei Santos)",
         "url": "https://open.spotify.com/album/2QkspDdHjC693cJqV6Cegb"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 225280,
       "name": "S\u00f3 Voc\u00ea",
       "url": "https://open.spotify.com/track/2feCY4xsBplBAsiTmqVt4o"
+    },
+    {
+      "added_at": "2023-03-11 01:28:01",
+      "album": {
+        "name": "Meu Bem",
+        "url": "https://open.spotify.com/album/5EXAIjwCYVpVZ5xEgWF4Dd"
+      },
+      "artists": [
+        {
+          "name": "Marcela Tais",
+          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
+        }
+      ],
+      "duration_ms": 230878,
+      "name": "Meu Bem",
+      "url": "https://open.spotify.com/track/10xATNb0pIGuxHD31B6EFb"
     },
     {
       "added_at": "2023-03-11 01:28:01",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
+        "name": "N\u00e3o H\u00e1 Limites",
+        "url": "https://open.spotify.com/album/7GGCEqbIutMDDgGBzTlgxB"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 254676,
+      "name": "N\u00e3o H\u00e1 Limites",
+      "url": "https://open.spotify.com/track/18sk6Gy3SYclFYSSVK7Fqs"
+    },
+    {
+      "added_at": "2023-03-11 01:28:01",
+      "album": {
         "name": "Nosso Castelo",
         "url": "https://open.spotify.com/album/20HqyoxH3L4OAL9J8rElVd"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 223000,
       "name": "Amor Sem Limites",
       "url": "https://open.spotify.com/track/3UlT5ua4JXyS64vf1Y5ksz"
-    },
-    {
-      "added_at": "2023-03-11 01:28:01",
-      "album": {
-        "name": "N\u00e3o H\u00e1 Limites",
-        "url": "https://open.spotify.com/album/7GGCEqbIutMDDgGBzTlgxB"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 254676,
-      "name": "N\u00e3o H\u00e1 Limites",
-      "url": "https://open.spotify.com/track/18sk6Gy3SYclFYSSVK7Fqs"
     },
     {
       "added_at": "2023-03-11 01:28:01",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
-        "name": "Como da Primeira Vez",
-        "url": "https://open.spotify.com/album/1l251cpn8Zq7lddCDv6ek4"
-      },
-      "artists": [
-        {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "Como da Primeira Vez",
-      "url": "https://open.spotify.com/track/5LtLJOxgWzpbt633NCrYTG"
-    },
-    {
-      "added_at": "2023-03-11 01:28:01",
-      "album": {
         "name": "Amar pra Sempre",
         "url": "https://open.spotify.com/album/3xmpGzhNKqpZcyjRNruEDR"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 228813,
       "name": "Can\u00e7\u00e3o pra Voc\u00ea",
       "url": "https://open.spotify.com/track/54UbRXxLJ1UoV9bs6mjjBF"
+    },
+    {
+      "added_at": "2023-03-11 01:28:01",
+      "album": {
+        "name": "Como da Primeira Vez",
+        "url": "https://open.spotify.com/album/1l251cpn8Zq7lddCDv6ek4"
+      },
+      "artists": [
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "Como da Primeira Vez",
+      "url": "https://open.spotify.com/track/5LtLJOxgWzpbt633NCrYTG"
     },
     {
       "added_at": "2023-03-11 01:28:01",

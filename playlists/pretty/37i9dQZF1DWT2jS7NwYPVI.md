@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Knox
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,948 likes - 109 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,986 likes - 109 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 86 | [Lights Out](https://open.spotify.com/track/1pExLSWrXaDyDdLmznxm7u) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [Lights Out](https://open.spotify.com/album/5LrQKwzxSxCXVIFr4XJ48F) | 2:53 |
 | 87 | [I've Got the Secret](https://open.spotify.com/track/3vmrs8krg22Mb4wQnbUXid) | [Island of Love](https://open.spotify.com/artist/6Owu7hgXQkNtgcVMo7UYqn) | [I've Got the Secret](https://open.spotify.com/album/1VBLok9ijl1npYpG2NKUVE) | 3:05 |
 | 88 | [WHAT A MAN](https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [GOOD LUCK](https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM) | 3:22 |
-| 89 | [My Year \(This Is Going To Be\)](https://open.spotify.com/track/0kg6oQH6oFlw3qJTzSU4mE) | [12 RODS](https://open.spotify.com/artist/4aPT61obombRBkg2Fx69i2) | [My Year \(This Is Going To Be\)](https://open.spotify.com/album/0KzhJE2glINzrNpfRoXjcY) | 3:03 |
+| 89 | [My Year \(This Is Going To Be\)](https://open.spotify.com/track/7InbD5D74EaymYMIwzs4LL) | [12 RODS](https://open.spotify.com/artist/4aPT61obombRBkg2Fx69i2) | [My Year \(This Is Going To Be\)](https://open.spotify.com/album/3DnuVIeelvxu2wm0wei74W) | 3:03 |
 | 90 | [bLeSs uR hEaRt](https://open.spotify.com/track/4bjn7QMGA72zxqEfrm6fpE) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [bLeSs uR hEaRt](https://open.spotify.com/album/16ybJSJV5vWOH4PjmnvWgO) | 3:11 |
 | 91 | [I Want It All](https://open.spotify.com/track/58HNyZisRT0WSPnfpXgoFQ) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [I Want It All](https://open.spotify.com/album/6P3k32E1WG3eJElUS17Dfo) | 4:55 |
 | 92 | [till the day i \_\_\_ \(feat\. LØLØ\)](https://open.spotify.com/track/16yizisxGyUGtnbzXx3zIY) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd), [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [stab my back \(acoustic\)](https://open.spotify.com/album/7eHk2YdoABTG4hOiTnF6CS) | 2:51 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 108 | [Echoes](https://open.spotify.com/track/2fZqHbDbCkQZVBv9DrGsao) | [LIES](https://open.spotify.com/artist/2hxqbp5J0oHXcXMMGpx8U8) | [Lies](https://open.spotify.com/album/2BTekyCKf74Wi5QAyzvQNs) | 6:15 |
 | 109 | [Squid](https://open.spotify.com/track/58xA6gMO8ptTMAW5sPvp9e) | [RVG](https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9) | [Squid](https://open.spotify.com/album/0weYSXHoWpA9F7TDJOvT87) | 4:47 |
 
-Snapshot ID: `MCwyMDkyOTg3MjlkYjdjYzBmZjM1OTQ1M2I1ZWIyOTZmNjI2NWE0YTJl`
+Snapshot ID: `MCwwZTM0NjVjZDEyNmU1NDVjZDdkZjk0MGFiNWU1ODEyZWU5ZmZmOGUx`

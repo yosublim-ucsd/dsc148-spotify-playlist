@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: king isis
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,164 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,187 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 78 | [Supply/Demand](https://open.spotify.com/track/0D2VPQ57FeEUkJz2wxpKKg) | [Sugar Pit](https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv) | [Supply/Demand](https://open.spotify.com/album/71boRaJnmsU6419GQP4yBd) | 2:39 |
 | 79 | [Crawl II](https://open.spotify.com/track/30mJq8ujEDX7Y3pUus8PUb) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Crawl II](https://open.spotify.com/album/3CTvjgbFrgEiv8dSm05M6k) | 3:15 |
 | 80 | [Sink Or Swim](https://open.spotify.com/track/1h1Zh5LV4NMkrpItqdJB11) | [Neighbourhood Void](https://open.spotify.com/artist/565t67TZ8cIaxgs2NkXJPu) | [Sink Or Swim](https://open.spotify.com/album/26ILhXwTj9xe8PamSGQbal) | 2:47 |
-| 81 | [End Of The World](https://open.spotify.com/track/6U3w6TSkEhnxeq5myBEe3d) | [Sunfruits](https://open.spotify.com/artist/0ihk9wQDn5mHeCYTkgj6gy) | [End Of The World](https://open.spotify.com/album/4EFtoB91EfGMbvHaNbxIDY) | 3:31 |
+| 81 | [End Of The World](https://open.spotify.com/track/2cfdzDd4MMO2GMST1uNKfS) | [Sunfruits](https://open.spotify.com/artist/0ihk9wQDn5mHeCYTkgj6gy) | [One Degree](https://open.spotify.com/album/2f7yqarnu5ZPUh4XYlvtNy) | 3:31 |
 | 82 | [Lonely](https://open.spotify.com/track/6VVKpaJkY7dc4uGP0pE1KX) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [Lonely](https://open.spotify.com/album/3i8tDk6FlRAutGZtoKGlUB) | 2:41 |
 | 83 | [Bath County](https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bath County](https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC) | 3:10 |
 | 84 | [Gentleman](https://open.spotify.com/track/55FCJLORvnx3gbA5BLNHXk) | [Lonely Pirate Committee](https://open.spotify.com/artist/2vsjCgyBZaH29ekrJRrpf2) | [Gentleman](https://open.spotify.com/album/4C3xU3ky500oslwuJPv16X) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [Quotidian](https://open.spotify.com/track/0WHOeXFbBnzskl9rRc686O) | [EVNTYD](https://open.spotify.com/artist/3z32J9a8nv9EJKQX07bwxh) | [Eventide](https://open.spotify.com/album/5n4twzXZkAwdZFAJFCI5jj) | 4:32 |
 | 100 | [Dry](https://open.spotify.com/track/3B1BzvXzF4Xhre3SLxTDz7) | [psykhi](https://open.spotify.com/artist/6Jv3pqZlwHy3RlsfdBGbRc) | [Dry](https://open.spotify.com/album/66IrzcJ0xrFyfzeh51DbyS) | 3:59 |
 
-Snapshot ID: `MCw2YjUzYzAzZGY5ZDNjZTM0MjBmNjA4ZGM3NGI5ZTRmNjkwZjhhYTBm`
+Snapshot ID: `MCxkYjUxNmM2ODc5YjBiYjJmMDNmYTM3Mzk2Mzg2NzIyZDY0ODQyMjA1`

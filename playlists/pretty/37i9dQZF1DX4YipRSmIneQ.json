@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude08 turn anywhere into a sexy club \ud83d\ude08",
-  "num_followers": 53092,
+  "num_followers": 53183,
   "original_name": "Sweat.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjY5MWUwYzUxNzdhYzEyYjA5MGQ3MDc4ODkyYThhZGVkMWRlMGQ5",
+  "snapshot_id": "MCxkMWY1MTg3NWE5YWY0MmQ4YTZjOWI1MzJhZjIwZTk3ZDY4Nzk4ZGFm",
   "tracks": [
     {
       "added_at": "2023-04-04 13:57:02",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-04-04 13:57:02",
       "album": {
-        "name": "Hypnotized",
-        "url": "https://open.spotify.com/album/0Jx1Hy8YQ5ZzGwy8DLW8Hu"
-      },
-      "artists": [
-        {
-          "name": "Soraya",
-          "url": "https://open.spotify.com/artist/6mHCVD6zJMB6lFNfg5mi7R"
-        }
-      ],
-      "duration_ms": 265714,
-      "name": "Hypnotized",
-      "url": "https://open.spotify.com/track/3BDAxgeGpUEUfKCbuXCyxn"
-    },
-    {
-      "added_at": "2023-04-04 13:57:02",
-      "album": {
         "name": "Dealer's Gone - DJ_Dave Edit",
         "url": "https://open.spotify.com/album/6LLGrZtEhKiX0l4wdzr6lA"
       },
@@ -795,6 +779,22 @@
     {
       "added_at": "2023-04-04 13:57:02",
       "album": {
+        "name": "Hypnotized",
+        "url": "https://open.spotify.com/album/0Jx1Hy8YQ5ZzGwy8DLW8Hu"
+      },
+      "artists": [
+        {
+          "name": "Soraya",
+          "url": "https://open.spotify.com/artist/6mHCVD6zJMB6lFNfg5mi7R"
+        }
+      ],
+      "duration_ms": 265714,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/3BDAxgeGpUEUfKCbuXCyxn"
+    },
+    {
+      "added_at": "2023-04-04 13:57:02",
+      "album": {
         "name": "Taste My Body",
         "url": "https://open.spotify.com/album/34yCNBM4QzFbr6tIF4hZDO"
       },
@@ -811,26 +811,6 @@
       "duration_ms": 134068,
       "name": "Taste My Body",
       "url": "https://open.spotify.com/track/4mbkDcR6qnklqWPtd4X3q6"
-    },
-    {
-      "added_at": "2023-04-04 13:57:02",
-      "album": {
-        "name": "Mugler",
-        "url": "https://open.spotify.com/album/0XsuV7RykFeQnTbTEdf4mF"
-      },
-      "artists": [
-        {
-          "name": "Housewife 9",
-          "url": "https://open.spotify.com/artist/2BWlGuH1XFha6dh3IXGcJM"
-        },
-        {
-          "name": "Soso Zelda",
-          "url": "https://open.spotify.com/artist/4Y4BIUg4pXSsCcCWFJHzBp"
-        }
-      ],
-      "duration_ms": 151914,
-      "name": "Mugler",
-      "url": "https://open.spotify.com/track/3uqXJXVspIA6rgcciv5xFi"
     },
     {
       "added_at": "2023-04-04 13:57:02",
@@ -863,6 +843,26 @@
       "duration_ms": 197419,
       "name": "UP N DOWN",
       "url": "https://open.spotify.com/track/4yPQpupT0yMWpzXfZqrzUT"
+    },
+    {
+      "added_at": "2023-04-04 13:57:02",
+      "album": {
+        "name": "Mugler",
+        "url": "https://open.spotify.com/album/0XsuV7RykFeQnTbTEdf4mF"
+      },
+      "artists": [
+        {
+          "name": "Housewife 9",
+          "url": "https://open.spotify.com/artist/2BWlGuH1XFha6dh3IXGcJM"
+        },
+        {
+          "name": "Soso Zelda",
+          "url": "https://open.spotify.com/artist/4Y4BIUg4pXSsCcCWFJHzBp"
+        }
+      ],
+      "duration_ms": 151914,
+      "name": "Mugler",
+      "url": "https://open.spotify.com/track/3uqXJXVspIA6rgcciv5xFi"
     },
     {
       "added_at": "2023-04-04 13:57:02",

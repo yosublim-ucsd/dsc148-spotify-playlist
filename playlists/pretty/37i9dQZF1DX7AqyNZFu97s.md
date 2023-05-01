@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Tomike
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,736 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,738 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [i think i'm scum](https://open.spotify.com/track/4u3ICfPBa83niklr7idyVc) | [YourCuzMarcus](https://open.spotify.com/artist/2uzoLrIZDZiMtSWTh32x5N) | [i think i'm scum](https://open.spotify.com/album/2oRvewNgMmEJW5FijyNNM1) | 3:05 |
 | 80 | [Under Attack](https://open.spotify.com/track/6Qu4DpEUy1iHsyc0HSzTWS) | [Clifton 2.5](https://open.spotify.com/artist/6m1tsPh6bZsqS5BTP8Tzu8) | [Under Attack](https://open.spotify.com/album/5d3XVcoNvAyJau39PvZpjq) | 3:01 |
 
-Snapshot ID: `MCxhNGViMGEzNDE0NTg5NTMyYTVlZWI0ZGRmNDhhZjUzMmY3ZmJmMTc0`
+Snapshot ID: `MCxhZWI5MGU4MGE1MTMyOTA4YWY3ZTM1MGIzMjE5ZWNkMTU4M2RhMmMz`

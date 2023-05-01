@@ -4,7 +4,7 @@
 
 > Jazz favorites from 2022\. Cover: Makaya McCraven \#SpotifyWrapped
 
-150 songs - 12 hr 40 min
+152 songs - 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,8 @@
 | [SMiLE](https://open.spotify.com/track/1HJXdfuWc6IlKBMLtITaHD) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U) | [NOT TiGHT](https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j) | 3:11 | 2022-11-30 |  |
 | [Someday We'll Fly](https://open.spotify.com/track/4k98hsTy9dAhsckyUAQa0u) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [Universal Language \-Self Translation\-](https://open.spotify.com/album/0P1EngtSVs7KhUBFMqSzKm) | 8:24 | 2022-11-30 |  |
 | [SOMETHIN' \(feat\. Ego Ella May\)](https://open.spotify.com/track/5Uq45pwM3VHj9PeWDyjWLR) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [LOVE QUANTUM](https://open.spotify.com/album/0PdocBlAIGi3jougS8fNiB) | 3:10 | 2022-11-30 |  |
-| [Something's Going On](https://open.spotify.com/track/5MeG3sTzj1EBYSrlU5qp0p) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ) | 5:12 | 2022-11-30 |  |
+| [Something's Going On](https://open.spotify.com/track/5MeG3sTzj1EBYSrlU5qp0p) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ) | 5:12 | 2022-11-30 | 2023-05-01 |
+| [Something's Going On](https://open.spotify.com/track/7e9ReVRPkkpBGG4R1as4xI) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu) | 5:12 | 2022-11-30 |  |
 | [Southbound](https://open.spotify.com/track/1UinzGUEzGBOyPd5H3YTI1) | [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [Sunrise Reprise](https://open.spotify.com/album/5wreZiEotGjOjkul69Vy8t) | 8:17 | 2021-12-01 | 2022-12-01 |
 | [Spiritual Ideation](https://open.spotify.com/track/3fmjTQlhHgpXlNfgJx8Qbe) | [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Gary Bartz JID006](https://open.spotify.com/album/1XN0Mj1xIRhvTStoqlsCXZ) | 3:57 | 2021-12-01 | 2022-12-01 |
 | [Sun of June](https://open.spotify.com/track/4rIDC72fAd26dB4U9pCAGa) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Sun of June](https://open.spotify.com/album/6TlZkjAIMdUs3jOkafcrh4) | 3:45 | 2022-11-30 |  |
@@ -142,7 +143,8 @@
 | [The Way](https://open.spotify.com/track/16CWmDTo9LssiI6W5XzRBY) | [Michael Mayo](https://open.spotify.com/artist/5GPxGRe2IglKP3ZiwwJbP4) | [Bones](https://open.spotify.com/album/70RkyEuMjhRnbTQe1Md7os) | 4:08 | 2021-12-01 | 2022-12-01 |
 | [theme 001 \- Live](https://open.spotify.com/track/2CSkMyWoCv8OruGDkpPDex) | [Jaimie Branch](https://open.spotify.com/artist/54T6Gso8zGPk4czyWlnUw5) | [FLY or DIE LIVE](https://open.spotify.com/album/4TruxTUhVk3GeoxSd6S7LK) | 4:41 | 2021-12-01 | 2022-12-01 |
 | [Think of One](https://open.spotify.com/track/5SwV92BaLtH0j1CEW8nfFE) | [Yoko Miwa Trio](https://open.spotify.com/artist/4xfIFGU467tYdyF6thGbLP) | [Songs of Joy](https://open.spotify.com/album/67HHmtUndI5iedtQ2A3oeM) | 8:03 | 2021-12-01 | 2022-12-01 |
-| [Times](https://open.spotify.com/track/5O57Dy2CswuB7MTDu0lS2H) | [DoomCannon](https://open.spotify.com/artist/1EKCFythC6ga1G4x4jYDwy), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [Renaissance](https://open.spotify.com/album/6yXJbeTmzmIRmKQWYiIjCn) | 6:12 | 2022-11-30 |  |
+| [Times](https://open.spotify.com/track/0YW0ZJEtFvmnbx8RWbYvTp) | [DoomCannon](https://open.spotify.com/artist/1EKCFythC6ga1G4x4jYDwy), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [Renaissance](https://open.spotify.com/album/0hYN0KbQdnB1zFzSHqWr8R) | 6:12 | 2022-11-30 |  |
+| [Times](https://open.spotify.com/track/5O57Dy2CswuB7MTDu0lS2H) | [DoomCannon](https://open.spotify.com/artist/1EKCFythC6ga1G4x4jYDwy), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [Renaissance](https://open.spotify.com/album/6yXJbeTmzmIRmKQWYiIjCn) | 6:12 | 2022-11-30 | 2023-05-01 |
 | [Trinity](https://open.spotify.com/track/1mO6jUnWeWtVYRXGoGFI70) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Empire Central](https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA) | 7:54 | 2022-11-30 |  |
 | [Ultraviolet](https://open.spotify.com/track/0zFbX6EwMuGagU4qj75GJt) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Monument](https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC) | 5:12 | 2021-12-01 | 2022-12-01 |
 | [Unrest II](https://open.spotify.com/track/5n2ungarkfmrpDS5VhKja6) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Unrest](https://open.spotify.com/album/6QaENtltIJqJg14EvwvtfO) | 4:08 | 2022-11-30 |  |

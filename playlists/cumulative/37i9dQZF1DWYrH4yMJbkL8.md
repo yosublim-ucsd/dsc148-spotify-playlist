@@ -4,7 +4,7 @@
 
 > A free space for Indigenous creators\. Currently curated by Zoon.
 
-313 songs - 18 hr 38 min
+316 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [From the Woods \(Live\)](https://open.spotify.com/track/5mYt68yIc393AHmPfo8mhy) | [Black Bear](https://open.spotify.com/artist/0yA6zmKmNXjUPSZyfDZji7) | [Notcimik\-Powwow \(Live\)](https://open.spotify.com/album/4YIwdNWooSSRn71TbbG8Mt) | 4:51 | 2023-02-03 | 2023-03-11 |
 | [Front Lines](https://open.spotify.com/track/3O0E9xto0BczECN85ha6AB) | [JB the First Lady](https://open.spotify.com/artist/52iYAFIyDuVyz9JGoeBOzf), [Dioganhdih](https://open.spotify.com/artist/6TP953nKCm9up5b1L44Cyf) | [Righteous Empowered Daughter](https://open.spotify.com/album/5a3MMPUeIzfRJSI4vTa5px) | 2:33 | 2022-04-01 | 2022-05-07 |
 | [Fuck That Shit](https://open.spotify.com/track/6sjCx2zQtuYRxlh1IGlJqz) | [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC) | [Fuck That Shit](https://open.spotify.com/album/0FyserIzEzqmbJvPH1T0Ak) | 2:44 | 2022-11-18 | 2023-02-04 |
-| [Gaagige \- Single Edit](https://open.spotify.com/track/5N63wxCYRKpT72lNmiNQyg) | [Zoon](https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC) | [Gaagige](https://open.spotify.com/album/2SBEYUDTkXgPZT2atzdtoU) | 3:50 | 2023-04-07 |  |
+| [Gaagige](https://open.spotify.com/track/2aoQE4niOVJfysjJ3DGtMi) | [Zoon](https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC) | [Bekka Ma'iingan](https://open.spotify.com/album/0JC5axi71h7X6SOciEFuKD) | 3:52 | 2023-04-28 |  |
+| [Gaagige \- Single Edit](https://open.spotify.com/track/5N63wxCYRKpT72lNmiNQyg) | [Zoon](https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC) | [Gaagige](https://open.spotify.com/album/2SBEYUDTkXgPZT2atzdtoU) | 3:50 | 2023-04-07 | 2023-05-01 |
 | [Getting To The Bottom Of Why](https://open.spotify.com/track/36NXgHFGhffyHr45o5SGeS) | [Melody McKiver](https://open.spotify.com/artist/2gjAAOSvTNAJMZ04trV0SA) | [Returning Home \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7sWKJP7QMK6KHlevNSb7B2) | 1:24 | 2022-05-06 | 2022-06-04 |
 | [Gojua Kwandudaye](https://open.spotify.com/track/7GOkYsEe0kOqGHV6hN5GYm) | [Tee Cloud](https://open.spotify.com/artist/7hJPw9JVF44dTnpjgB9DOg) | [Four Sacred Colours](https://open.spotify.com/album/5K3coH8BagPfr6hzoXu2hE) | 2:13 | 2022-11-18 | 2023-02-04 |
 | [GONE](https://open.spotify.com/track/565VkYvqOmtu7zNvj9Znm8) | [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [GONZO](https://open.spotify.com/album/1hBEXLboAWv9jyl2HpEtbw) | 2:46 | 2022-07-05 | 2022-08-13 |
@@ -146,7 +147,8 @@
 | [It's Time](https://open.spotify.com/track/20p1aC70nUObX5DTebYWfn) | [Jarrid Lee](https://open.spotify.com/artist/1o5aDZMy5rrKKGZM5ZsyX9), [Marc LJ](https://open.spotify.com/artist/3WXuiJqnmT0ug7qBPIaIo3) | [It's Time](https://open.spotify.com/album/2IHCcsbrZrJ3qBESFSCukn) | 3:55 | 2022-09-09 | 2022-10-15 |
 | [It's You Babe](https://open.spotify.com/track/5u13NgTVTHVezINP6VNdML) | [Lacey Hill](https://open.spotify.com/artist/2wpygCAEcNNSRxpLdrLQap) | [M \(528 Volume II\)](https://open.spotify.com/album/0mMQHrtJYgOwdXxKpJOZWx) | 2:55 | 2022-10-14 | 2022-11-19 |
 | [It’s OK](https://open.spotify.com/track/4W1KwDbKmpyssINjfl8uDy) | [Drezus](https://open.spotify.com/artist/08G2YWw73h9tgNN1CcqTOZ) | [It’s OK](https://open.spotify.com/album/7sSmYrOQg4qWa7YLox0mLh) | 2:21 | 2022-07-05 | 2022-08-13 |
-| [January 3rd](https://open.spotify.com/track/6dPE434t7I5SudDxK9g9U1) | [Status/Non\-Status](https://open.spotify.com/artist/65pJYjbDd7S7gBObWEfIdK) | [January 3rd](https://open.spotify.com/album/156A9DxWOf0I2eR07HhZWt) | 3:43 | 2023-04-07 |  |
+| [January 3rd](https://open.spotify.com/track/6dPE434t7I5SudDxK9g9U1) | [Status/Non\-Status](https://open.spotify.com/artist/65pJYjbDd7S7gBObWEfIdK) | [January 3rd](https://open.spotify.com/album/156A9DxWOf0I2eR07HhZWt) | 3:43 | 2023-04-07 | 2023-05-01 |
+| [January 3rd](https://open.spotify.com/track/7kTHKSAiK6QTgpbJqXplaF) | [Status/Non\-Status](https://open.spotify.com/artist/65pJYjbDd7S7gBObWEfIdK) | [January 3rd](https://open.spotify.com/album/3uy4S0unphQffbj6rDvYKx) | 3:43 | 2023-04-28 |  |
 | [Ka minuatituiaku](https://open.spotify.com/track/058D8oMxiBBxVQDckw9t88) | [Scott\-Pien Picard](https://open.spotify.com/artist/0J1gu80owc4vKFGUr78k7E) | [PEKUAIAPU](https://open.spotify.com/album/0nST396yMeFu8mECv5zzzA) | 5:00 | 2022-11-18 | 2023-02-04 |
 | [Kaskina Mamo: Intertribal \- Live](https://open.spotify.com/track/2iA0lgGa2LbZMV90I1k9jz) | [Northern Voice](https://open.spotify.com/artist/3TfPTnc5AriMC5a4jUcNrT) | [Kikawino Aski: Guardians of the Land \(Powwow\)](https://open.spotify.com/album/2P4Z0wwzi72x6PBnfau3Vn) | 3:33 | 2023-02-03 | 2023-03-11 |
 | [Katajjait on "Hamma" And Its Variants: Baffin Land / Hudson Bay / Baffin Land](https://open.spotify.com/track/6qJozUlX1ao31KQHb4aWoK) | [Elijah Pudloo Mageeta](https://open.spotify.com/artist/32IsJ3YVTAhYm4iytdN7MJ), [Temegeak Pitaulassie](https://open.spotify.com/artist/3TEXUYjtHpUqH86NWFEB0O), [Napache Samaejuk Pootoogook](https://open.spotify.com/artist/2BrVaL2xpbmMVkvJ6DAQAC), [Marie Apaqaq](https://open.spotify.com/artist/0rYybSRMU6GjXVrVb8qvWD), [Soria Eyituk](https://open.spotify.com/artist/3c8NJ6JFFdzi6N9vxj7QSA) | [Canada: Inuit Games and Songs](https://open.spotify.com/album/6B49DDXbbaQf2mc3jmVmpX) | 1:36 | 2023-03-10 | 2023-04-09 |
@@ -274,7 +276,8 @@
 | [Summer Hunting](https://open.spotify.com/track/0LuoQSfQix19Ej8xf4vNLQ) | [Anachnid](https://open.spotify.com/artist/3InHKoRqLAoPvPfH5T6WEO) | [Dreamweaver](https://open.spotify.com/album/39gvn7LqSbcAVjl3nbvVWZ) | 2:52 | 2022-08-12 | 2022-11-19 |
 | [Summer Sunset](https://open.spotify.com/track/0mZEk4RtIuJOsqduOjNVxZ) | [Northern Cree](https://open.spotify.com/artist/5n4JXEQjauDsFSHTjhHkDq) | [Ôskimacîtahowin: A New Beginning](https://open.spotify.com/album/4GfjNENX210Fh5hmsHIRho) | 4:52 | 2023-04-07 |  |
 | [Sundancer](https://open.spotify.com/track/1BJ53kYfiHt7Sz1ekL6wGm) | [Eagle & Hawk](https://open.spotify.com/artist/12VF84gHslJXx9e3HX0N6Z) | [Mother Earth](https://open.spotify.com/album/77ADKuH17Eb2A9RCplvbs0) | 4:20 | 2022-06-03 | 2022-07-06 |
-| [Surface Tension](https://open.spotify.com/track/4GPWj4sEVR4a0s2ssHovd9) | [Leanne Betasamosake Simpson](https://open.spotify.com/artist/6REprvUcVwBr69s8NfEQj4) | [Theory of Ice](https://open.spotify.com/album/5MMyebXVwA0Vzyvs1WvVS9) | 4:07 | 2023-04-07 |  |
+| [Surface Tension](https://open.spotify.com/track/3gHS9NuMg6uZsId3Y7RGV3) | [Leanne Betasamosake Simpson](https://open.spotify.com/artist/6REprvUcVwBr69s8NfEQj4) | [Theory of Ice](https://open.spotify.com/album/5mNIgEkN9LCFvLDO6r9rw1) | 4:07 | 2023-04-28 |  |
+| [Surface Tension](https://open.spotify.com/track/4GPWj4sEVR4a0s2ssHovd9) | [Leanne Betasamosake Simpson](https://open.spotify.com/artist/6REprvUcVwBr69s8NfEQj4) | [Theory of Ice](https://open.spotify.com/album/5MMyebXVwA0Vzyvs1WvVS9) | 4:07 | 2023-04-07 | 2023-05-01 |
 | [Sweet Avalon](https://open.spotify.com/track/2TiV9Z0RZccdhM2OrBTjgQ) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Mantra](https://open.spotify.com/album/4EYgdcbt1Inj1u2rYjIuhe) | 2:27 | 2022-03-04 | 2022-04-02 |
 | [Sweet Summer Rain](https://open.spotify.com/track/0exvlmgsMnI4MZZ0yI4fBH) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Sweet Summer Rain](https://open.spotify.com/album/11xUscBZsjBMFmqHHvxrFb) | 5:16 | 2022-04-01 | 2022-05-07 |
 | [Sweetwater](https://open.spotify.com/track/1XLZKmNR5HOB78jvDx0iU1) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [Sweetwater](https://open.spotify.com/album/4Dj6dQExClkwocUsSrAYMg) | 5:40 | 2022-10-14 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Aya Nakamura & Myke Towers",
-  "num_followers": 107097,
+  "num_followers": 107144,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDYzMDFmMmExNDQ1OThhNGFlMTY4NzA3MTYyYjM3YjVjMWRhNTI1",
+  "snapshot_id": "MCw4M2JmMmU5NmFhOWE3MzUwOWUxNTllODA3YmQ1MTBmZWY0YjI4Zjc4",
   "tracks": [
     {
       "added_at": "2023-02-10 16:08:22",
@@ -583,26 +583,6 @@
     {
       "added_at": "2023-02-10 16:08:22",
       "album": {
-        "name": "Like a Queen (Remix)",
-        "url": "https://open.spotify.com/album/7oeAp9HBcnrktbdwe22fgK"
-      },
-      "artists": [
-        {
-          "name": "Ric Hassani",
-          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
-        },
-        {
-          "name": "Said Palacios",
-          "url": "https://open.spotify.com/artist/2IYe9gw3UV7STpcsbbrsvH"
-        }
-      ],
-      "duration_ms": 158956,
-      "name": "Like a Queen - Remix",
-      "url": "https://open.spotify.com/track/34CKU5kPRpvJPCqBZ5224w"
-    },
-    {
-      "added_at": "2023-02-10 16:08:22",
-      "album": {
         "name": "Versions of Me",
         "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 206585,
       "name": "Posa",
       "url": "https://open.spotify.com/track/3fcIZ1K25xOEAwePGagbN8"
+    },
+    {
+      "added_at": "2023-02-10 16:08:22",
+      "album": {
+        "name": "Like a Queen (Remix)",
+        "url": "https://open.spotify.com/album/7oeAp9HBcnrktbdwe22fgK"
+      },
+      "artists": [
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        },
+        {
+          "name": "Said Palacios",
+          "url": "https://open.spotify.com/artist/2IYe9gw3UV7STpcsbbrsvH"
+        }
+      ],
+      "duration_ms": 158956,
+      "name": "Like a Queen - Remix",
+      "url": "https://open.spotify.com/track/34CKU5kPRpvJPCqBZ5224w"
     },
     {
       "added_at": "2023-02-10 16:08:22",
@@ -721,26 +721,6 @@
       "url": "https://open.spotify.com/track/7Jqa7kWKN4d2Fn7FESctLz"
     },
     {
-      "added_at": "2023-04-30 01:12:57",
-      "album": {
-        "name": "Guava Rose",
-        "url": "https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs"
-      },
-      "artists": [
-        {
-          "name": "June Freedom",
-          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
-        },
-        {
-          "name": "Eva Ruiz",
-          "url": "https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV"
-        }
-      ],
-      "duration_ms": 192108,
-      "name": "Guava Rose",
-      "url": "https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK"
-    },
-    {
       "added_at": "2023-02-10 16:08:22",
       "album": {
         "name": "Drogba (Joanna) [Global Latin Version]",
@@ -763,6 +743,26 @@
       "duration_ms": 197214,
       "name": "Drogba (Joanna) - Global Latin Version",
       "url": "https://open.spotify.com/track/6P1lijcRsH94klfkw7zEUj"
+    },
+    {
+      "added_at": "2023-05-01 00:57:17",
+      "album": {
+        "name": "Guava Rose",
+        "url": "https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs"
+      },
+      "artists": [
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        },
+        {
+          "name": "Eva Ruiz",
+          "url": "https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV"
+        }
+      ],
+      "duration_ms": 192108,
+      "name": "Guava Rose",
+      "url": "https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK"
     },
     {
       "added_at": "2023-02-10 16:08:22",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-02-10 16:08:22",
       "album": {
+        "name": "Parcerita",
+        "url": "https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9"
+      },
+      "artists": [
+        {
+          "name": "Dahili",
+          "url": "https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE"
+        }
+      ],
+      "duration_ms": 166950,
+      "name": "Parcerita",
+      "url": "https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK"
+    },
+    {
+      "added_at": "2023-02-10 16:08:22",
+      "album": {
         "name": "Sanga Zoo (feat. Farruko)",
         "url": "https://open.spotify.com/album/5StbSlzS0COrqrPJDhQr9V"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 231520,
       "name": "Sanga Zoo (feat. Farruko)",
       "url": "https://open.spotify.com/track/6RcQeYGYy2N8CR6N1HJN5T"
-    },
-    {
-      "added_at": "2023-02-10 16:08:22",
-      "album": {
-        "name": "Parcerita",
-        "url": "https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9"
-      },
-      "artists": [
-        {
-          "name": "Dahili",
-          "url": "https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE"
-        }
-      ],
-      "duration_ms": 166950,
-      "name": "Parcerita",
-      "url": "https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK"
     },
     {
       "added_at": "2023-02-10 16:08:22",
@@ -1279,34 +1279,6 @@
     {
       "added_at": "2023-02-10 16:08:22",
       "album": {
-        "name": "Next To You Part II (feat. Rvssian & Davido)",
-        "url": "https://open.spotify.com/album/67hfw7M0E3Rty5HntU1eC2"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Digital Farm Animals",
-          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
-        },
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 179257,
-      "name": "Next To You Part II (feat. Rvssian & Davido)",
-      "url": "https://open.spotify.com/track/00yinrzqPZKA2vbnwnn3hS"
-    },
-    {
-      "added_at": "2023-02-10 16:08:22",
-      "album": {
         "name": "Son of the City",
         "url": "https://open.spotify.com/album/7sQ6TFEEb8N88lvV6NE8OS"
       },
@@ -1331,6 +1303,34 @@
       "duration_ms": 334000,
       "name": "Cheza Kama Wewe",
       "url": "https://open.spotify.com/track/4NAhcKp6YtMDRAMH4UeUE5"
+    },
+    {
+      "added_at": "2023-02-10 16:08:22",
+      "album": {
+        "name": "Next To You Part II (feat. Rvssian & Davido)",
+        "url": "https://open.spotify.com/album/67hfw7M0E3Rty5HntU1eC2"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Digital Farm Animals",
+          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 179257,
+      "name": "Next To You Part II (feat. Rvssian & Davido)",
+      "url": "https://open.spotify.com/track/00yinrzqPZKA2vbnwnn3hS"
     },
     {
       "added_at": "2023-02-10 16:08:22",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2023-02-10 16:08:22",
       "album": {
-        "name": "Nightshift",
-        "url": "https://open.spotify.com/album/4giogCe206BY2QoMoqS1Vw"
-      },
-      "artists": [
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
-        },
-        {
-          "name": "Breakfast n Vegas",
-          "url": "https://open.spotify.com/artist/0iwRZ9bQya1TDUAk5qN5YX"
-        }
-      ],
-      "duration_ms": 178920,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/0X48LLpHYxS1u4JcBeq9m3"
-    },
-    {
-      "added_at": "2023-02-10 16:08:22",
-      "album": {
         "name": "Popor\u00f3",
         "url": "https://open.spotify.com/album/5yt1qMBdcKe4wKK38GW0Xp"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 169396,
       "name": "Popor\u00f3",
       "url": "https://open.spotify.com/track/0qHuoIiRu99tU4alQbgYX1"
+    },
+    {
+      "added_at": "2023-02-10 16:08:22",
+      "album": {
+        "name": "Nightshift",
+        "url": "https://open.spotify.com/album/4giogCe206BY2QoMoqS1Vw"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        },
+        {
+          "name": "Breakfast n Vegas",
+          "url": "https://open.spotify.com/artist/0iwRZ9bQya1TDUAk5qN5YX"
+        }
+      ],
+      "duration_ms": 178920,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/0X48LLpHYxS1u4JcBeq9m3"
     },
     {
       "added_at": "2023-02-10 16:08:22",

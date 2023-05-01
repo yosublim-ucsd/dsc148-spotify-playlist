@@ -4,7 +4,7 @@
 
 > The best new Experimental by independent artists and labels, with Isabel Do Diego on cover\. Artwork Thami Nabil\. Updates every Wednesday.
 
-1,318 songs - 4 day 10 hr 11 min
+1,320 songs - 4 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,7 +384,8 @@
 | [Fata Morgana](https://open.spotify.com/track/1OJNUEqrNlQqiBywcol8dZ) | [Wytchings](https://open.spotify.com/artist/08wkL5BJixMdK3uk6GQ1ay) | [Fata Morgana](https://open.spotify.com/album/4P0Svos3rBkH5RCYOpzlt9) | 6:05 | 2022-06-08 | 2022-08-04 |
 | [Fata Morgana 1](https://open.spotify.com/track/3mhaYYLCf3Eex5FzveLZ8S) | [Mynoda](https://open.spotify.com/artist/37TSFFv4sH9ssEk93pMPt4), [Heavenchord](https://open.spotify.com/artist/0N1G1lizxkv4jmvMkg0n5X) | [Fata Morgana](https://open.spotify.com/album/6CuNkx8H00E0nMAauEN4R4) | 16:29 | 2023-03-29 |  |
 | [Fatima's Poplar](https://open.spotify.com/track/0XWldQSPFGe8lZGgfB4xs6) | [Ruhail Qaisar](https://open.spotify.com/artist/51H8yuHc5GM0yY7DAMtKcv) | [Fatima](https://open.spotify.com/album/6MWz7VYMDIJgX6DvjBFpUC) | 5:39 | 2023-02-01 | 2023-03-29 |
-| [FCD \(Floaty Cloud Dream\)](https://open.spotify.com/track/3JuyojsAWtrvjv5tmNc4aj) | [Nondi\_](https://open.spotify.com/artist/6vcnozR3JODUnpP8VL8OWF) | [Flood City Trax](https://open.spotify.com/album/3YSzarzkxl99lPbCmUZCpj) | 4:23 | 2023-04-12 |  |
+| [FCD \(Floaty Cloud Dream\)](https://open.spotify.com/track/1F7frrqHbCzsyvmA1s9Rb1) | [Nondi\_](https://open.spotify.com/artist/6vcnozR3JODUnpP8VL8OWF) | [Flood City Trax](https://open.spotify.com/album/5bW9n1xGlGshlj7iQvH7nT) | 4:23 | 2023-04-12 |  |
+| [FCD \(Floaty Cloud Dream\)](https://open.spotify.com/track/3JuyojsAWtrvjv5tmNc4aj) | [Nondi\_](https://open.spotify.com/artist/6vcnozR3JODUnpP8VL8OWF) | [Flood City Trax](https://open.spotify.com/album/3YSzarzkxl99lPbCmUZCpj) | 4:23 | 2023-04-12 | 2023-05-01 |
 | [FEELS LIKE AN OVERDOSE](https://open.spotify.com/track/0r4b9QYeK2BsYHKE3Wq8nQ) | [Sus1er](https://open.spotify.com/artist/7z5Ba9Bg6XEPY0s7KJyzDM) | [FEELS LIKE AN OVERDOSE](https://open.spotify.com/album/7DkDVdsXJVycGWs16PtnEf) | 4:51 | 2022-03-09 | 2022-04-14 |
 | [Fern Flowers](https://open.spotify.com/track/60jGfXjxMVaCtuPiDN81qx) | [Lutto Lento](https://open.spotify.com/artist/5u7ZnbVxxcImkr5fx8GJta) | [LEGENDO](https://open.spotify.com/album/62N0giCXIgepaMQl864MIk) | 4:32 | 2021-02-10 | 2021-02-11 |
 | [FEVER DREAM](https://open.spotify.com/track/3PE5rZj91lNwCIHzqCjwRR) | [Little Snake](https://open.spotify.com/artist/2Hr12vmF0ozKYzLjPB2ZfX), [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [A Fragmented Love Story, Written By The Infinite Helix Architect](https://open.spotify.com/album/5XV4z3tg5TaksloKCAAm1T) | 4:59 | 2021-05-16 | 2021-06-04 |
@@ -796,7 +797,8 @@
 | [no.4](https://open.spotify.com/track/2zuo6BhGBhO35b9sLguoMf) | [Koji Nakamura](https://open.spotify.com/artist/1gXCdzLEaK18Qis2j0eQ0N), [foodman](https://open.spotify.com/artist/4e8VeCyfFRBL1e06oGg1dR), [Takashi Numazawa](https://open.spotify.com/artist/5YeWcBYGQXWGRFUcplaoUx) | [Humanity](https://open.spotify.com/album/5S2uulm3pnI4KrLBs1Z521) | 3:05 | 2022-01-26 | 2022-03-22 |
 | [Nobus](https://open.spotify.com/track/6fRhbXk6Q8VdlluKQoBB0v) | [Will August Park](https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf) | [Middle Life](https://open.spotify.com/album/3iFls0guteswZXMy1HmNRo) | 3:06 | 2021-08-26 | 2021-12-02 |
 | [Nocturnal Awakening](https://open.spotify.com/track/2WnBnEB3UIxIwJsGZWiYnp) | [Atsuko Hatano](https://open.spotify.com/artist/3rFwePDXLspSIgCFYXIywT), [Midori Hirano](https://open.spotify.com/artist/6q1lHz1O9inWPaToF6l5rj) | [Nocturnal Awakening](https://open.spotify.com/album/2uPpkWQ6o2HtLgtJiOSMsn) | 2:58 | 2021-11-11 | 2021-12-01 |
-| [Non è Ancora \- Regressive Left Remix](https://open.spotify.com/track/1lLAuq9ep22d2caQzyLra4) | [The Umlauts](https://open.spotify.com/artist/2LwlVrqI7U4WS448GpAozT), [Regressive Left](https://open.spotify.com/artist/2MleSirgvp1oX5un0fbgcy) | [Non è Ancora \(Regressive Left Remix\)](https://open.spotify.com/album/4pVODITKZyUir7nXaOtIPi) | 4:09 | 2023-03-15 |  |
+| [Non è Ancora \- Regressive Left Remix](https://open.spotify.com/track/1lLAuq9ep22d2caQzyLra4) | [The Umlauts](https://open.spotify.com/artist/2LwlVrqI7U4WS448GpAozT), [Regressive Left](https://open.spotify.com/artist/2MleSirgvp1oX5un0fbgcy) | [Non è Ancora \(Regressive Left Remix\)](https://open.spotify.com/album/4pVODITKZyUir7nXaOtIPi) | 4:09 | 2023-03-15 | 2023-05-01 |
+| [Non è Ancora \- Regressive Left Remix](https://open.spotify.com/track/4hbGjWP20duEd6Wy7totPO) | [The Umlauts](https://open.spotify.com/artist/2LwlVrqI7U4WS448GpAozT), [Regressive Left](https://open.spotify.com/artist/2MleSirgvp1oX5un0fbgcy) | [Non è Ancora \(Regressive Left Remix\)](https://open.spotify.com/album/1ldyRHgaXzTsHDVEwjQxe6) | 4:09 | 2023-03-15 |  |
 | [Not Every Lake Dreams Of Being A Magic Swamp](https://open.spotify.com/track/1jg539kOxUMPrezGGhIMBr) | [Misha Sultan](https://open.spotify.com/artist/3a06aSKU4IMXT3sSZUmPhp) | [Translucence](https://open.spotify.com/album/4tQoTxE1COwEWvYOr8CyLW) | 18:19 | 2022-09-21 | 2022-09-28 |
 | [not gaan out](https://open.spotify.com/track/0juFicXB2uVQ4DlxKfTXwr) | [KESH](https://open.spotify.com/artist/0GFlfYVBdnMIedNF8nqDBG) | [not gaan out](https://open.spotify.com/album/6YovjS2IdTLnRfAfWJzhcs) | 7:07 | 2020-10-30\* | 2021-01-15 |
 | [notes on a ƒolder, v\-s](https://open.spotify.com/track/1jOCUfWcliyXmRNxLwm289) | [Powell](https://open.spotify.com/artist/6jeKkBjseBOCCmqBvnhSkt) | [notes on a ƒolder](https://open.spotify.com/album/4gp7n9gqS8wESKufJaYoJA) | 6:50 | 2020-10-30\* | 2021-01-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 778,062 likes - 260 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,138 likes - 260 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -269,4 +269,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 259 | [Spring](https://open.spotify.com/track/62aTQ3i94Ho3xlB3sQzouy) | [The Hooder](https://open.spotify.com/artist/2GwSswDcepZ97m3Oa3onEI) | [Spring](https://open.spotify.com/album/7EWq0eegyBShBKHtAgFBak) | 2:43 |
 | 260 | [Twigs](https://open.spotify.com/track/4mXIW02IV45ryBCq3HKDnU) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Twigs](https://open.spotify.com/album/50pBVjlXEMrAoNQcjgq6qP) | 2:24 |
 
-Snapshot ID: `MCwyY2FjYTYwNThiYTAwNTFhMzQ4ZWIyMGNmNGVkMTRlOWZjMDk5MGRm`
+Snapshot ID: `MCw5M2Y5OTY4ODNlYTMxODNlYjE3ZTdjMWE2OTBhZDBhMzI3ZDZkMWQ2`

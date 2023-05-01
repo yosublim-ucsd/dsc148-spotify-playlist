@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 23850,
+  "num_followers": 23882,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjhjYWE3MzYwMmEzOGM0Y2I2MzA3MWU1OGRlOTk4YWM1ZDQyYTQz",
+  "snapshot_id": "MCxhODU0NWE1YjI4OTk1OWRlNmQ3ZTJiYjg2NzU5MTE5MWQxY2MzOWZj",
   "tracks": [
     {
       "added_at": "2022-05-13 10:49:08",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Presumed Innocent",
-        "url": "https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn"
-      },
-      "artists": [
-        {
-          "name": "Marcia Ball",
-          "url": "https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18"
-        }
-      ],
-      "duration_ms": 267466,
-      "name": "Louella",
-      "url": "https://open.spotify.com/track/6KM7FlnvLrETbLpoNCjxYE"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Down The Road Apiece -The Best Of Amos Milburn",
         "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 190733,
       "name": "Milk And Water",
       "url": "https://open.spotify.com/track/4Bo2E1DybKQL2radivMQFA"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Presumed Innocent",
+        "url": "https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn"
+      },
+      "artists": [
+        {
+          "name": "Marcia Ball",
+          "url": "https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18"
+        }
+      ],
+      "duration_ms": 267466,
+      "name": "Louella",
+      "url": "https://open.spotify.com/track/6KM7FlnvLrETbLpoNCjxYE"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Johnnie B. Bad",
-        "url": "https://open.spotify.com/album/6kCsbrIJOMSRdZI0T3wsRD"
-      },
-      "artists": [
-        {
-          "name": "Johnnie Johnson",
-          "url": "https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY"
-        }
-      ],
-      "duration_ms": 202400,
-      "name": "Key to the Highway",
-      "url": "https://open.spotify.com/track/0KmVzmqMXi24EusC3MwlBB"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "The Chess Story 1947-1956",
         "url": "https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 175640,
       "name": "Big Town Playboy",
       "url": "https://open.spotify.com/track/4hFZeihCVWuFsxMyal96k8"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Johnnie B. Bad",
+        "url": "https://open.spotify.com/album/6kCsbrIJOMSRdZI0T3wsRD"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Johnson",
+          "url": "https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY"
+        }
+      ],
+      "duration_ms": 202400,
+      "name": "Key to the Highway",
+      "url": "https://open.spotify.com/track/0KmVzmqMXi24EusC3MwlBB"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Ragtime Guitar's Foremost Fingerpicker",
-        "url": "https://open.spotify.com/album/1YLQpIA8TAdpAQapN41BiN"
-      },
-      "artists": [
-        {
-          "name": "Blind Blake",
-          "url": "https://open.spotify.com/artist/6Y9Eaqa5gdLvTj6dBTqGXS"
-        }
-      ],
-      "duration_ms": 193466,
-      "name": "Hastings Street",
-      "url": "https://open.spotify.com/track/4VPvooErbxiLpiG8TzdTtg"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/6AWwvurjj21QEBbOucDWUQ"
       },
@@ -655,22 +639,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Fess at Home",
-        "url": "https://open.spotify.com/album/1r6jk6qVIYqPlTzvOXMPUE"
-      },
-      "artists": [
-        {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        }
-      ],
-      "duration_ms": 231632,
-      "name": "Tipitina",
-      "url": "https://open.spotify.com/track/7acA74x4jbKVKBljh5Qt3L"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Living Chicago Blues, Vol. 4",
         "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
       },
@@ -683,6 +651,22 @@
       "duration_ms": 322426,
       "name": "Somebody To Shack",
       "url": "https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Fess at Home",
+        "url": "https://open.spotify.com/album/1r6jk6qVIYqPlTzvOXMPUE"
+      },
+      "artists": [
+        {
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        }
+      ],
+      "duration_ms": 231632,
+      "name": "Tipitina",
+      "url": "https://open.spotify.com/track/7acA74x4jbKVKBljh5Qt3L"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -811,22 +795,6 @@
       "duration_ms": 274360,
       "name": "Make Me a Pallet on the Floor",
       "url": "https://open.spotify.com/track/14AxqPeIqpVySnvgLf6ZKv"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
-        "name": "The Bach of Rock",
-        "url": "https://open.spotify.com/album/3XQzUwB49DzREHCMuFZz8s"
-      },
-      "artists": [
-        {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        }
-      ],
-      "duration_ms": 344440,
-      "name": "Hey Now Baby",
-      "url": "https://open.spotify.com/track/3BDE7sDGBihu8EAIE21rto"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -975,22 +943,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "SUN STUDIO STORY",
-        "url": "https://open.spotify.com/album/5epU2OecYpVApVosZYDW9m"
-      },
-      "artists": [
-        {
-          "name": "Booker T. Laury",
-          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
-        }
-      ],
-      "duration_ms": 272240,
-      "name": "Early In The Morning",
-      "url": "https://open.spotify.com/track/0YbX9uVeQs6i4BuGL8ovUg"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Best of Blues Vol. 6: Postwar Chicago Blues III (Collection Gerard Herzhaft - Remastered)",
         "url": "https://open.spotify.com/album/3wIt6N0fd9c6ittIk8BpcZ"
       },
@@ -1003,6 +955,22 @@
       "duration_ms": 166253,
       "name": "My Baby's Gone",
       "url": "https://open.spotify.com/track/1ORs7J8remmKEDvAMotH29"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "SUN STUDIO STORY",
+        "url": "https://open.spotify.com/album/5epU2OecYpVApVosZYDW9m"
+      },
+      "artists": [
+        {
+          "name": "Booker T. Laury",
+          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
+        }
+      ],
+      "duration_ms": 272240,
+      "name": "Early In The Morning",
+      "url": "https://open.spotify.com/track/0YbX9uVeQs6i4BuGL8ovUg"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -1067,6 +1035,38 @@
       "duration_ms": 192011,
       "name": "Me and My Gin",
       "url": "https://open.spotify.com/track/5L4sfgGbYh7CgXVBTmUcfz"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "The Bach of Rock",
+        "url": "https://open.spotify.com/album/2vBm562DW1TlS5YpGUblKp"
+      },
+      "artists": [
+        {
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        }
+      ],
+      "duration_ms": 344440,
+      "name": "Hey Now Baby",
+      "url": "https://open.spotify.com/track/5IBN7vNGlb3G8E6gV3wBdi"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Presenting Blind Blake",
+        "url": "https://open.spotify.com/album/2PWkHBhiBe10JBYFYO4kqd"
+      },
+      "artists": [
+        {
+          "name": "Blind Blake",
+          "url": "https://open.spotify.com/artist/6u8rTX0ZMlGnhUUbHmbnrG"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "Hastings Street",
+      "url": "https://open.spotify.com/track/25XUg2FiYvjb7lPtwD786d"
     }
   ],
   "unique_name": "Blues Piano Legends",

@@ -4,7 +4,7 @@
 
 > Novidades e destaques do indie nacional\. Foto: ÀIYÉ
 
-382 songs - 21 hr 45 min
+383 songs - 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Aventura](https://open.spotify.com/track/5j0Djj1O4jWIQ4kWYs1mDa) | [Tangerim](https://open.spotify.com/artist/33W3swdDTji5TEb4msJsEk) | [Aventura](https://open.spotify.com/album/6l5rSSzTUsCkKjtFzSu3Wr) | 2:53 | 2022-02-04 | 2022-07-23 |
 | [Aviões](https://open.spotify.com/track/3743IvJexIgIZCUk2zc1Kc) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Aviões](https://open.spotify.com/album/1VFwIIhSrwyx0oTNgjG1Kn) | 2:46 | 2022-03-04 | 2022-12-03 |
 | [Azul](https://open.spotify.com/track/4vsDSmofpGQa0Gb43x0SWt) | [PERDIDOS](https://open.spotify.com/artist/07lGEl9cdorpl7Ht9OwKod) | [Azul](https://open.spotify.com/album/5qW2a7KYrGUQDziRtBF4fn) | 4:07 | 2023-04-14 |  |
-| [Barcelona](https://open.spotify.com/track/2pihPAjIPg5EnitYFKqbYc) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/6KVigOS9Me4Hu3o9hEh9M0) | 3:37 | 2023-03-03 |  |
+| [Barcelona](https://open.spotify.com/track/2pihPAjIPg5EnitYFKqbYc) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/6KVigOS9Me4Hu3o9hEh9M0) | 3:37 | 2023-03-03 | 2023-05-01 |
+| [Barcelona](https://open.spotify.com/track/78iFCNxDIc1oASCP7pZTSZ) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/20EcuWdIk2tTveltWZm1Pc) | 3:37 | 2023-04-28 |  |
 | [Bateria Social](https://open.spotify.com/track/1sz0sqdm8bUMLXrTfR5gEE) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Bateria Social](https://open.spotify.com/album/698LkunOLkOj80zdayoiHa) | 2:59 | 2022-05-06 | 2022-07-29 |
 | [Bateria Social](https://open.spotify.com/track/1wicDKdH62DL55tNHK9PhA) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Bateria Social](https://open.spotify.com/album/4jKJMo24vOWI38n5jJrR8S) | 2:59 | 2022-07-22 |  |
 | [BB \(Garupa de Moto Amarela\)](https://open.spotify.com/track/4urIUktF6jtKJhvjFU5hwy) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [BB \(Garupa de Moto Amarela\)](https://open.spotify.com/album/7ExE0OsPgAEOywkveeWoeL) | 2:46 | 2022-05-20 | 2023-01-28 |

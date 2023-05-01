@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻ sally cruz in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,169 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,174 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 74 | [WALE RMX](https://open.spotify.com/track/0b9eZe50TvLivR8cH1BjB4) | [Theø](https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd), [Plant](https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ), [Fiks](https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze), [Dari](https://open.spotify.com/artist/5qqKkW8y9BPVgy1EKBa5Bl) | [WALE RMX](https://open.spotify.com/album/7lZQkoJORLeNJb5ZakJwks) | 3:03 |
 | 75 | [Devil Eyes \(Brividi\)](https://open.spotify.com/track/5PuYPMk3OGkq3g4OIbPdMi) | [Anselmassacre](https://open.spotify.com/artist/0Zk7K8zev4RyxHLT93HHpC) | [Devil Eyes \(Brividi\)](https://open.spotify.com/album/21PzKxflivYePSqHunbqTj) | 3:02 |
 
-Snapshot ID: `MCw2NWVjODRiNDI4NTZmYjM5OWNiMDAxNzk4OTdmZGRkMDE4ZmY0M2Qy`
+Snapshot ID: `MCxkYWMzYjQzOGJhZTY1N2NjNWEwOWI1NTlhZWVkYjljZmQ1ZWVhYjBj`

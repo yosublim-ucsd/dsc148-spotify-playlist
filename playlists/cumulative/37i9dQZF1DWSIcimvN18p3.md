@@ -4,7 +4,7 @@
 
 > Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Sunny War
 
-371 songs - 22 hr 37 min
+372 songs - 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Coming to Get You Nowhere](https://open.spotify.com/track/4aJJPcByqcSwo9MARos0kL) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/0BophHCa4MkK5zg0oTZ0v4) | 3:20 | 2021-03-05 | 2022-07-29 |
 | [Cover Me](https://open.spotify.com/track/4LNsvVkpWhiJf382uD5cuQ) | [Kim Taylor](https://open.spotify.com/artist/3yF0qqHNkEaE4xc4r1b5bP) | [Songs of Instruction](https://open.spotify.com/album/2a6YqHKrHMJ8TmdsnexFzf) | 4:43 | 2021-03-05 | 2022-07-01 |
 | [Crosshairs](https://open.spotify.com/track/7qIt6ymGZPn8DWVtv1DcMI) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE) | 4:03 | 2021-03-05 | 2022-09-17 |
-| [Dead and Gone](https://open.spotify.com/track/1dXlL3tfVDrcYykineKTJv) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Orphan Offering](https://open.spotify.com/album/70LZy0mMgmkaVYvC2F5rPk) | 4:49 | 2021-03-05 |  |
+| [Dead and Gone](https://open.spotify.com/track/1dXlL3tfVDrcYykineKTJv) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Orphan Offering](https://open.spotify.com/album/70LZy0mMgmkaVYvC2F5rPk) | 4:49 | 2021-03-05 | 2023-05-01 |
 | [Dead and Gone](https://open.spotify.com/track/7JV6GAMwFGsVFD8ilBuAjF) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Orphan Offering](https://open.spotify.com/album/0xLVuelF4HRJCKrrucxIx1) | 4:49 | 2021-03-05 | 2022-07-29 |
 | [Deep Dark Below](https://open.spotify.com/track/4UT2LGBeSW7dRIiUPyYyrd) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Down Fell the Doves](https://open.spotify.com/album/6DVHMSBPHdJ42Okvp5QJ9X) | 3:21 | 2021-03-05 | 2022-03-06 |
 | [Deer Creek Canyon](https://open.spotify.com/track/4bjK4okiLjAPmGjvxEjEBY) | [Sera Cahoone](https://open.spotify.com/artist/3wC39cIBlyNFSP8bO84FCJ) | [Deer Creek Canyon](https://open.spotify.com/album/0BwzPjT3gChyxVmQYzGvzK) | 3:18 | 2021-03-05 |  |
@@ -112,6 +112,7 @@
 | [Down by the Water](https://open.spotify.com/track/4c5npp9gnwBHHyKnaqK2mD) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Getaway](https://open.spotify.com/album/6SVeCBELPZSeSyO8RCbSOV) | 2:55 | 2021-03-05 |  |
 | [Dynamite](https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Dynamite](https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq) | 3:21 | 2021-03-05 |  |
 | [Easier Than Leaving \(Live Acoustic\)](https://open.spotify.com/track/1gxB7wcHBVfqMar1nV3Ryw) | [Michaela Anne](https://open.spotify.com/artist/2k8aGdvE3NAchqmiplJANn) | [Easier Than Leaving \(Live Acoustic\)](https://open.spotify.com/album/2sQLhzkMddaWDlV5aE6ZAr) | 4:46 | 2021-03-05 | 2022-07-26 |
+| [Emmylou](https://open.spotify.com/track/2bU3gg0M8GGBs7ItBKsJX9) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [The Lion's Roar](https://open.spotify.com/album/2ClpsMzeeVVoevHkK2N1vs) | 4:18 | 2023-03-08 |  |
 | [Emmylou](https://open.spotify.com/track/3UzvFIyu5qdRepwJViDwjN) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [The Lion's Roar](https://open.spotify.com/album/4l74hbWS9uJmGe4npUbsR5) | 4:18 | 2021-03-05 | 2022-07-29 |
 | [Emmylou](https://open.spotify.com/track/5yQrOvXWli8C7R6j56rowR) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [The Lion's Roar](https://open.spotify.com/album/5Wblz3wiSHrbGB9FdLBJmt) | 4:18 | 2021-03-05 | 2023-04-30 |
 | [Escape](https://open.spotify.com/track/2GtQftqYyLKJ3cZ50r7yxy) | [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Escape](https://open.spotify.com/album/2lkRR5AmnVVmhAdM35ouhB) | 3:06 | 2021-03-05 | 2022-07-27 |

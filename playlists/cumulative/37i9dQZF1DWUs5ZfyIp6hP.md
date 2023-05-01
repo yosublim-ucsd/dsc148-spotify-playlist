@@ -4,7 +4,7 @@
 
 > Light up your 4th with these family\-friendly tunes.
 
-74 songs - 3 hr 40 min
+75 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [The Other Side](https://open.spotify.com/track/6cN7DMetKweuV7GZ5htak4) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8) | 3:08 | 2021-06-22 |  |
 | [The United States Where Freedom Rings](https://open.spotify.com/track/2dkSS53ACmE7OFBDqa41OQ) | [Jeography](https://open.spotify.com/artist/5l2nxUCCFQtdomhQ8ldeOB) | [Geography Songs for This Planet](https://open.spotify.com/album/4GrgdZjtFrmanopz1ANjvg) | 7:43 | 2021-06-22 |  |
 | [This Land Is Your Land](https://open.spotify.com/track/0F6ZsoLrPG1rsknhMHlSlk) | [Elizabeth Mitchell](https://open.spotify.com/artist/3gBQ1U5dXpRXS6tlbyNTDM) | [Little Seed: Songs for Children by Woody Guthrie](https://open.spotify.com/album/5Hgafmx1GZI6n2csPn8hzS) | 4:11 | 2021-06-22 |  |
-| [This Land Is Your Land](https://open.spotify.com/track/3JiUvMTBqbturJ5cKhxgWH) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y) | 4:31 | 2021-06-22 |  |
+| [This Land Is Your Land](https://open.spotify.com/track/3PiHGEbBLYuBPFdP9tihF0) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4) | 4:30 | 2022-06-28 |  |
+| [This Land Is Your Land](https://open.spotify.com/track/3JiUvMTBqbturJ5cKhxgWH) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y) | 4:31 | 2021-06-22 | 2023-05-01 |
 | [Vacation](https://open.spotify.com/track/1vJOi8S2MSq3jZsni1gm4x) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Return To The Valley Of The Go\-Go's](https://open.spotify.com/album/2Fz3LCOdrEUXSYMKaQ5C2f) | 2:59 | 2021-06-22 |  |
 | [Walking On Sunshine](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Katrina & The Waves](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) | 3:58 | 2021-06-22 |  |
 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 | 2021-06-22 |  |

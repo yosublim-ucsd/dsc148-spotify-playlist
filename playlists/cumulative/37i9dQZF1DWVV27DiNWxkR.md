@@ -4,7 +4,7 @@
 
 > The premier alternative melancholia playlist, featuring Billie Eillish
 
-325 songs - 22 hr 1 min
+326 songs - 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,8 +99,9 @@
 | [Furious](https://open.spotify.com/track/78XTKnmE1zQSwvholRJb31) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Furious](https://open.spotify.com/album/3T9Bo1irL6Aye8vk1dZ1JY) | 3:39 | 2019-09-29\* | 2020-11-17 |
 | [Garden Song](https://open.spotify.com/track/1LTWcRVy9o96Zzn29wXLsa) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Garden Song](https://open.spotify.com/album/4Qjp6b3M3pL2mb4b1oF3vP) | 3:40 | 2020-03-07 | 2020-10-15 |
 | [Ghost Town](https://open.spotify.com/track/0QDS8rTK1sxSIcfrQicppm) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Ghost Town \- Single](https://open.spotify.com/album/4Cum5eDhnYUtXFC1EarXLx) | 4:47 | 2022-09-02 | 2022-11-13 |
+| [Ghost Town](https://open.spotify.com/track/0dXGcWTyxjkUhlWgegLmFW) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [The Big Black and the Blue](https://open.spotify.com/album/1uckQCJ7h9TO1h5zrbnX26) | 4:47 | 2022-09-02 |  |
 | [Ghost Town](https://open.spotify.com/track/4GNcXcBJWF5oA89tB4PxOk) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [The Big Black And The Blue](https://open.spotify.com/album/5XkXJAOxHjc9Eo3DYG5OR5) | 4:47 | 2019-09-29\* | 2022-07-29 |
-| [Ghost Town](https://open.spotify.com/track/7GoMuHEHsiCbe9IZSO6teX) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [The Big Black and the Blue](https://open.spotify.com/album/7gktUhPz1PrJIfoEgZxCeI) | 4:47 | 2022-07-15 |  |
+| [Ghost Town](https://open.spotify.com/track/7GoMuHEHsiCbe9IZSO6teX) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [The Big Black and the Blue](https://open.spotify.com/album/7gktUhPz1PrJIfoEgZxCeI) | 4:47 | 2022-07-15 | 2023-05-01 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-17 |  |
 | [Godmanchester Chinese Bridge \- Radio Edit](https://open.spotify.com/track/10wKg1j4Mzfj9QQAy3TpJ1) | [The Howl & The Hum](https://open.spotify.com/artist/3EQ310YOzcS1pJqiaoDs32) | [Godmanchester Chinese Bridge \(Radio Edit\)](https://open.spotify.com/album/0jZoVMH87VjQnZTIImm9L4) | 3:16 | 2019-09-29\* | 2022-05-03 |
 | [Godspeed](https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Godspeed](https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC) | 2:53 | 2020-10-14 | 2022-08-27 |

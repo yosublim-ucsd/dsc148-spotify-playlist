@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKjl2C2FKWY.md) - [plain]
 
 > Soft acoustic sounds for your massage session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,577 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,614 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKjl2C2FKWY.md) - [plain]
 | 99 | [Lightning Crashes](https://open.spotify.com/track/7e5dQ0xfbBFC4RWg7ogstX) | [Suzana Maximiliano](https://open.spotify.com/artist/0swyjVW2UWXf3aixsKCGc1) | [Lightning Crashes](https://open.spotify.com/album/45YVxODHqrMEgn8wU9qBaN) | 4:41 |
 | 100 | [Shimmer](https://open.spotify.com/track/02S7iCZmsVUkaWABeU4lhn) | [JFDR](https://open.spotify.com/artist/5Lg2eWJA2ZmMnZszOYPMCJ) | [New Dreams](https://open.spotify.com/album/0Ujzw1BOqIfrARwP4IX5ce) | 3:21 |
 
-Snapshot ID: `MCxlM2UyYzA4NmVjNTFjMjQ4OTAxMDk0ZjdmMzExOGEyYmViYWZlZjUz`
+Snapshot ID: `MCw2ZWRiMjE0MzEzMDAyZmM0NzQxYmRjMmRkOGQ5OWNjMThiYjhiZWE2`

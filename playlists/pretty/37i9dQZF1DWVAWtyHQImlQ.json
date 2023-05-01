@@ -1,12 +1,12 @@
 {
   "description": "All 60s, all ballads. Cover: Etta James",
-  "num_followers": 125144,
+  "num_followers": 125213,
   "original_name": "60s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGE2ZGUzZjkzZDAxYTQxMGRkNjE0OWM2NWZjOTZiMTFjMTdkMDI4",
+  "snapshot_id": "MCw2MGNhZDBmOGNkZTQ4YTRiOWMxNzVjYmE2MjkzMjc3Yjk5ZjQ4M2Vi",
   "tracks": [
     {
       "added_at": "2023-01-02 17:54:36",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-01-02 17:54:36",
       "album": {
-        "name": "Going To A Go-Go",
-        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 164160,
-      "name": "Ooo Baby Baby",
-      "url": "https://open.spotify.com/track/3nsJGZ5RV2ZHkbKvD771gU"
-    },
-    {
-      "added_at": "2023-01-02 17:54:36",
-      "album": {
         "name": "Mr. Soul",
         "url": "https://open.spotify.com/album/1rEYwOdpVc2W39d0uxf0va"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 158680,
       "name": "Nothing Can Change This Love",
       "url": "https://open.spotify.com/track/6e6Kxot9nHyZ4I8GgmGKII"
+    },
+    {
+      "added_at": "2023-01-02 17:54:36",
+      "album": {
+        "name": "Going To A Go-Go",
+        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 164160,
+      "name": "Ooo Baby Baby",
+      "url": "https://open.spotify.com/track/3nsJGZ5RV2ZHkbKvD771gU"
     },
     {
       "added_at": "2023-01-02 17:54:36",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-01-02 17:54:36",
       "album": {
-        "name": "Empty Sky",
-        "url": "https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Skyline Pigeon",
-      "url": "https://open.spotify.com/track/5MimWt53Ukh0gcv7mC0Rnx"
-    },
-    {
-      "added_at": "2023-01-02 17:54:36",
-      "album": {
         "name": "Beginnings",
         "url": "https://open.spotify.com/album/1OYFI2ylkl9kluPmY4SUmD"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 171373,
       "name": "Anyone Who Had a Heart - 2003 Remaster",
       "url": "https://open.spotify.com/track/28Y2taEFmHofu2EsU04ILf"
+    },
+    {
+      "added_at": "2023-01-02 17:54:36",
+      "album": {
+        "name": "Empty Sky",
+        "url": "https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Skyline Pigeon",
+      "url": "https://open.spotify.com/track/5MimWt53Ukh0gcv7mC0Rnx"
     },
     {
       "added_at": "2023-01-02 17:54:36",

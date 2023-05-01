@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3CdsJ9u53uPu3dScKypLVv">Shkoon</a>'s favorite tracks\. Updated regularly\. Curated by Shkoon\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-77 songs - 6 hr 26 min
+78 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Bias Boys \- Middle Sky Boom Remix](https://open.spotify.com/track/1N2VoNhYLwCJhtAo2kZnzF) | [Middle Sky Boom](https://open.spotify.com/artist/5rgJkAgFMVCsugWd7zM9nY), [Eliezer](https://open.spotify.com/artist/1qPHnrVTO4sakv5IFg6Lml) | [Pozélo Europa](https://open.spotify.com/album/3FbU5q6wbFh5roov4rfNDX) | 5:11 | 2022-05-30 |  |
 | [Closer](https://open.spotify.com/track/7mq6753542WZViD1wJ64Eo) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 5:11 | 2022-05-30 |  |
 | [Cog in the Wheel](https://open.spotify.com/track/3uXfYljIQAhATWWGjjCSJA) | [Baba Ali](https://open.spotify.com/artist/48US3n5ecZ1TS4RjzsdWrm) | [Nomad EP](https://open.spotify.com/album/4hmZkn8K8JoUch7jzFNjeb) | 5:19 | 2022-09-26 |  |
-| [Corre Riba, Corre Baxo](https://open.spotify.com/track/2PSVCAtIQH4tI3fAq6VZWH) | [Abel Lima](https://open.spotify.com/artist/6IhMyPQwTBivqok4kKvMmh) | [Space Echo: The Mystery Behind the Cosmic Sound of Cabo Verde Finally Revealed! \(Analog Africa No\. 20\)](https://open.spotify.com/album/2EsNUbAePfQi6qNBjVLtfi) | 3:08 | 2022-09-26 |  |
+| [Corre Riba, Corre Baxo](https://open.spotify.com/track/0EYWqqcA5u50FyEaFw1i5R) | [Abel Lima](https://open.spotify.com/artist/6IhMyPQwTBivqok4kKvMmh) | [Space Echo: The Mystery Behind the Cosmic Sound of Cabo Verde Finally Revealed! \(Analog Africa No\. 20\)](https://open.spotify.com/album/7yYCur0sIPkHz2PE62YHDP) | 3:08 | 2022-10-04 |  |
+| [Corre Riba, Corre Baxo](https://open.spotify.com/track/2PSVCAtIQH4tI3fAq6VZWH) | [Abel Lima](https://open.spotify.com/artist/6IhMyPQwTBivqok4kKvMmh) | [Space Echo: The Mystery Behind the Cosmic Sound of Cabo Verde Finally Revealed! \(Analog Africa No\. 20\)](https://open.spotify.com/album/2EsNUbAePfQi6qNBjVLtfi) | 3:08 | 2022-09-26 | 2023-05-01 |
 | [Dabkeh](https://open.spotify.com/track/6ogljt3oVKSkZ6y2EaIQw1) | [Bedouin Burger](https://open.spotify.com/artist/0dOAYwm9ZFUqHLczUorSxh) | [Dabkeh](https://open.spotify.com/album/6C3STlwLtgkLBsJ9ewLy2D) | 4:28 | 2022-05-30 |  |
 | [Dance of Maria](https://open.spotify.com/track/5nbdbkTYpRuYvbw6JkVD6X) | [Elias Rahbani](https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS) | [Mr Bongo Record Club, Vol\. 3 \(Compiled by Mr Bongo\)](https://open.spotify.com/album/63aD58MKgM5SxlRKG8axcT) | 2:43 | 2022-10-04 | 2022-11-13 |
 | [Dance of Maria](https://open.spotify.com/track/0f7iz1qAWSz61BdHTXbzvC) | [Elias Rahbani](https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS) | [Mosaic of the Orient](https://open.spotify.com/album/35V308120K0txY7JUMoN6M) | 2:47 | 2022-05-30 |  |

@@ -456,7 +456,7 @@
     {
       "album": {
         "name": "Black Bird",
-        "url": "https://open.spotify.com/album/3O5ig1AqlNK4SQYU3litHb"
+        "url": "https://open.spotify.com/album/3d5Y2qarMZlq0YyvLueE4I"
       },
       "artists": [
         {
@@ -467,6 +467,24 @@
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 295306,
+      "name": "Titles",
+      "url": "https://open.spotify.com/track/3nXtowNQOkWjIu1Ep2smUw"
+    },
+    {
+      "album": {
+        "name": "Black Bird",
+        "url": "https://open.spotify.com/album/3O5ig1AqlNK4SQYU3litHb"
+      },
+      "artists": [
+        {
+          "name": "Mogwai",
+          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-01",
       "duration_ms": 295306,
       "name": "Titles",
       "url": "https://open.spotify.com/track/4HFqmG18ztVvqqBG0jVu34"

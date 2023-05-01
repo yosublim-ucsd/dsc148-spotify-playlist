@@ -4,7 +4,7 @@
 
 > ETT GLAS TILL!!
 
-611 songs - 1 day 2 hr 40 min
+612 songs - 1 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,8 @@
 | [Hälsa Gud](https://open.spotify.com/track/4owtkzhI4uCeagbsgTajFg) | [JENTAN](https://open.spotify.com/artist/4MEouD4sJ7R7RS4AWPmLH8), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH) | [Hälsa Gud](https://open.spotify.com/album/7imYelkBM9wWrcy8syQgDd) | 2:30 | 2022-12-22 |  |
 | [Håll min hand \- EPA RMX](https://open.spotify.com/track/4x4b5ijPiQ7W50t8bnRjAi) | [Runa](https://open.spotify.com/artist/1aJLo4blLIrzjT9VmTW9qn) | [Håll min hand \(EPA RMX\)](https://open.spotify.com/album/2NhPQMhZRzOf3PDYdimlgi) | 2:13 | 2023-04-20 |  |
 | [HÖJER VÅRA GLAS igen](https://open.spotify.com/track/3suAQXe3UNJAWKp2lfbm5T) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u) | [HÖJER VÅRA GLAS igen](https://open.spotify.com/album/0SpTpINRsx854bIpnWGxYA) | 2:38 | 2023-02-02 | 2023-04-21 |
-| [HÖRRU BARTENDER](https://open.spotify.com/track/1mcr3HuCyabJgAZ9z0zVvx) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE), [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d) | [HÖRRU BARTENDER](https://open.spotify.com/album/1b9a5LDUt0kdBj6H6o2dOa) | 2:25 | 2023-01-12 |  |
+| [HÖRRU BARTENDER](https://open.spotify.com/track/1mcr3HuCyabJgAZ9z0zVvx) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE), [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d) | [HÖRRU BARTENDER](https://open.spotify.com/album/1b9a5LDUt0kdBj6H6o2dOa) | 2:25 | 2023-01-12 | 2023-05-01 |
+| [Hörru Bartender](https://open.spotify.com/track/1CKkpWfkBMZCYVuYSpayEQ) | [Solveno](https://open.spotify.com/artist/3LLBXVL5YoPD962NlyrO17) | [Hörru Bartender](https://open.spotify.com/album/6jDaXekHfTncPxXeMtrVaV) | 2:25 | 2023-04-27 |  |
 | [I like to move it](https://open.spotify.com/track/14u71NkqEHOB9QbhXoabkz) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [Mert Can](https://open.spotify.com/artist/049qisXXHEXKQSQqzbr14Q), [Tony Koma](https://open.spotify.com/artist/0uGfoFBGwR75SE04cR5chh) | [I like to move it](https://open.spotify.com/album/6EonmeQCputEtgBPyfxx1X) | 1:54 | 2022-07-15 | 2022-08-15 |
 | [I MIN FANTASI](https://open.spotify.com/track/1mAnpnThzS2PSmifbrAxFF) | [Lohmann & Co](https://open.spotify.com/artist/52Bhcaz5r8ZIIuAim0EXRb) | [I MIN FANTASI](https://open.spotify.com/album/6QnChneD8ubhNkFvdhXcQv) | 2:26 | 2022-09-29 | 2022-12-02 |
 | [i miss u \- VIZE Remix](https://open.spotify.com/track/6c6C9mvbYNLspR9wA0Kxpd) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [i miss u \(VIZE Remix\)](https://open.spotify.com/album/7gO5BploX762jO1QaOm64r) | 2:32 | 2021-12-16 | 2022-06-19 |

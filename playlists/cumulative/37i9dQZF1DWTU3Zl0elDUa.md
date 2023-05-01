@@ -4,7 +4,7 @@
 
 > Essential club anthems from the golden era of house music\. Cover: Kenny Dope and Little Louie Vega
 
-126 songs - 11 hr 46 min
+127 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [I Feel It](https://open.spotify.com/track/3qWbao6YVObRFxeF6bybF4) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Finger Printz EP](https://open.spotify.com/album/1Oshvwp9KrsrwnaNshGRFS) | 6:08 | 2021-09-17 | 2023-04-17 |
 | [I Feel It](https://open.spotify.com/track/4vtjZsfq7ULBgSHmOxREMs) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Finger Printz EP](https://open.spotify.com/album/7Afo0re3kjcSQymNBgOFyz) | 6:08 | 2021-09-17 | 2022-07-25 |
 | [I Got It](https://open.spotify.com/track/1prIOSwd4PBE6rQEJ52vin) | [Doug Willis](https://open.spotify.com/artist/1Dy1nJuwZNfYeNBEys4j9y) | [Joey Negro presents In The Beginning](https://open.spotify.com/album/6mATBsGFVNnWDjPOumc5SQ) | 6:01 | 2021-09-17 | 2022-07-24 |
-| [I'll Be Your Friend \- Original Mix \(2011 Remastered Version\)](https://open.spotify.com/track/5SMnHUNB2iBm3rkuoHpIZO) | [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [I'll Be Your Friend](https://open.spotify.com/album/5GMblrMHV0VJsgig37YazI) | 7:36 | 2021-09-17 |  |
+| [I'll Be Your Friend \- Original Mix \(2011 Remastered Version\)](https://open.spotify.com/track/5SMnHUNB2iBm3rkuoHpIZO) | [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [I'll Be Your Friend](https://open.spotify.com/album/5GMblrMHV0VJsgig37YazI) | 7:36 | 2021-09-17 | 2023-05-01 |
 | [I'm For Real](https://open.spotify.com/track/7xkwcX1dsnpT8d1Cu8SBFH) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Aftermath](https://open.spotify.com/album/3iTzHehZgmL6H5uzkpZHKc) | 6:03 | 2021-09-17 | 2022-07-29 |
 | [I'm Gonna Get You](https://open.spotify.com/track/09CsnyDCKkeTYopxheyDcd) | [Bizarre Inc](https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU), [Dany](https://open.spotify.com/artist/6VTcX5uHYfFX2wOouLcpLk) | [Flash Back House](https://open.spotify.com/album/3O5VL0jdDuTyYxb2rnUI7w) | 5:19 | 2021-09-17 | 2022-07-29 |
 | [I'm Gonna Get You \- Original Flavour Mix](https://open.spotify.com/track/4EzZPB8OujNAeND6C2SduJ) | [Bizarre Inc](https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU) | [Energique](https://open.spotify.com/album/00kOiUJakqkClL8Zthwa5W) | 5:19 | 2021-09-17 |  |
@@ -72,6 +72,7 @@
 | [Make the World Go Round \- Deep Dish Radio Edit](https://open.spotify.com/track/1EgSVewb2SmueY6ZYD4vzB) | [Sandy B](https://open.spotify.com/artist/4actG94YfJxMVdKBGWkAZL), [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA) | [Make the World Go Round](https://open.spotify.com/album/1eBnONVrlATUXKSV7v9Wm3) | 3:50 | 2021-09-17 | 2022-07-29 |
 | [Make The World Go Round \- Deep Dish Radio Edit](https://open.spotify.com/track/3suUyj7jumc7N0sxNfsdPe) | [Sandy B](https://open.spotify.com/artist/4actG94YfJxMVdKBGWkAZL), [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA) | [Make The World Go Round](https://open.spotify.com/album/7EUPZNQdefg99rHecK3DA0) | 3:50 | 2021-09-17 |  |
 | [Missing \- Todd Terry Club Mix / US Radio Edit](https://open.spotify.com/track/36sL3KPEfXIp5KH3tDO7oo) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Amplified Heart](https://open.spotify.com/album/6ZMxoed3JJVjSzDQ2iVeYN) | 4:09 | 2021-09-17 | 2022-09-30 |
+| [Missing \- Todd Terry Club Mix / US Radio Edit](https://open.spotify.com/track/7BWwLtIqfbzeNebP2hl6wp) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Missing \(Remixes\)](https://open.spotify.com/album/4LDr8TzhxY0Qpyfm1cKNYo) | 4:09 | 2021-09-17 |  |
 | [Move Any Mountain \- Beat Edit](https://open.spotify.com/track/711raAnAVb68JiWeaMFCTd) | [The Shamen](https://open.spotify.com/artist/5E704N5StxMVKpalhaJ5L3) | [The Collection](https://open.spotify.com/album/5E0tYU95grjqwwa8x0r18y) | 3:28 | 2021-09-17 | 2022-07-29 |
 | [Move Your Body](https://open.spotify.com/track/4oWMQLRoOJambXWSURXSHI) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [Four Most Cuts Presents \- Classic Chicago House](https://open.spotify.com/album/4yKJewNc2ARvD9GskJ3qjK) | 6:42 | 2021-09-17 | 2022-07-21 |
 | [Move Your Body](https://open.spotify.com/track/5eAymAmVU6CyejjFJxvcMI) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [Frankie Knuckles Presents: His Greatest Hits from Trax Records](https://open.spotify.com/album/0FV16C1tWVlaSSYUYofPwT) | 6:45 | 2021-09-17 |  |

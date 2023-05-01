@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-291 songs - 17 hr 53 min
+292 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,8 @@
 | [Rome](https://open.spotify.com/track/0t34scg6386JnLUEb7jFb1) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Tomorrow's Gonna Come](https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0) | 3:38 | 2021-07-09 |  |
 | [Room for Us All](https://open.spotify.com/track/6uPg6d9m87xsik5hTUq986) | [Effie Zilch](https://open.spotify.com/artist/1NGw8cxn84OJjOEFLXlJJN), [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs) | [Room for Us All](https://open.spotify.com/album/14bLaJ0fePGoHcwwwoxZ9g) | 3:27 | 2022-06-10 |  |
 | [Rose Gold](https://open.spotify.com/track/1qXqUyVNrd2ymu7PQ6xoiC) | [Jason Joshua & The Beholders](https://open.spotify.com/artist/7mLBi547Uyww1voNJWEipA), [Jason Joshua](https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn) | [Alegría Y Tristeza](https://open.spotify.com/album/6WLKPLUAjvB4MiSORp10xU) | 5:10 | 2021-07-09 | 2023-04-09 |
-| [Running Away](https://open.spotify.com/track/33Z6FvhXVw8HJ8ulGQ6Kj2) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Running Away](https://open.spotify.com/album/3E4Zo3HpawW7w2uBbhLY8H) | 3:15 | 2023-03-24 |  |
+| [Running Away](https://open.spotify.com/track/33Z6FvhXVw8HJ8ulGQ6Kj2) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Running Away](https://open.spotify.com/album/3E4Zo3HpawW7w2uBbhLY8H) | 3:15 | 2023-03-24 | 2023-05-01 |
+| [Running Away](https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Running Away](https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE) | 3:15 | 2023-03-24 |  |
 | [Ruthless \- Live](https://open.spotify.com/track/7A7QkjZh12bwLueervFQb5) | [YOUNGTONES](https://open.spotify.com/artist/34MK0bzFb12zkGF9ILYFQG) | [YOUNGTONES LIVE AT 64 SOUND, Vol\. 2](https://open.spotify.com/album/3LJt8lBbGyUUnhwGbKPkWX) | 3:44 | 2022-09-23 | 2022-10-08 |
 | [Sadie](https://open.spotify.com/track/2Nq1CHPEOt21w1ctEaV22j) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Sadie](https://open.spotify.com/album/7nXFbaFq3Z9gGPZnE8wew8) | 2:56 | 2023-04-21 |  |
 | [Sage Motel](https://open.spotify.com/track/0AmK67QC3fhZYvFw74f0fD) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Sage Motel](https://open.spotify.com/album/7J428fRkJYE2u9p2hjrOo9) | 3:52 | 2022-05-13 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: iKON\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,318 likes - 470 songs - 1 day 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,448 likes - 470 songs - 1 day 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -479,4 +479,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 469 | [Flower](https://open.spotify.com/track/7jnv33i1cWvBeSKJd6bVRt) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [talks about blossoms](https://open.spotify.com/album/3oBveuOG0aDo51pjttETiP) | 3:38 |
 | 470 | [No love](https://open.spotify.com/track/02r3fCsVlcFWgMZG9lGTz6) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [No love](https://open.spotify.com/album/4bgDVPwibaY66Ej45yzkyr) | 3:58 |
 
-Snapshot ID: `MCwyZTliNDg2ZDJkNThkOTI3OWI5YWYzNTEzM2UzODYwZTkyMmFiYjRj`
+Snapshot ID: `MCwyZjA0NDc5ZjFhYjMxZWYwZDdiNTUwYTY0ZjBjMmZkYzhjOGFjZWU2`

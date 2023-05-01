@@ -1,12 +1,12 @@
 {
   "description": "Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes. Cover: <a href=\"spotify:artist:5l8VQNuIg0turYE1VtM9zV\">Leonard Cohen</a>",
-  "num_followers": 8834,
+  "num_followers": 8842,
   "original_name": "Leonard Cohen: Covered",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGQ1YmUwYzA4N2IxZGI4NjMyZmFkODNhM2Y1MjNjMmVjNTlhNTIz",
+  "snapshot_id": "MCxkNThlMWJjMmM4NTk1ODJjMWFhNWQ4ZGQ5MTQyNDdhZTZmMjgyYjY2",
   "tracks": [
     {
       "added_at": "2018-12-06 19:29:22",
@@ -563,6 +563,22 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
+        "name": "Cowgirl's Prayer",
+        "url": "https://open.spotify.com/album/7CMJy2xY33K9LBVdnlADdC"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 335906,
+      "name": "Ballad of a Runaway Horse",
+      "url": "https://open.spotify.com/track/4fuNvXnEfvtHtdNFdsVcRB"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
         "name": "Tower Of Song - The Songs Of Leonard Cohen",
         "url": "https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 246760,
       "name": "Story Of Isaac",
       "url": "https://open.spotify.com/track/5aVnAPf0eZ6FxDO04X3Ok9"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Songs I Love Vol.1",
-        "url": "https://open.spotify.com/album/7GE2PIbzksYbhVxtbSHuwF"
-      },
-      "artists": [
-        {
-          "name": "Piers Faccini",
-          "url": "https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd"
-        }
-      ],
-      "duration_ms": 180106,
-      "name": "Who By Fire",
-      "url": "https://open.spotify.com/track/13t5z9HD9e6syCaUweEqYH"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -611,18 +611,18 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Cowgirl's Prayer",
-        "url": "https://open.spotify.com/album/7CMJy2xY33K9LBVdnlADdC"
+        "name": "Songs I Love Vol.1",
+        "url": "https://open.spotify.com/album/7GE2PIbzksYbhVxtbSHuwF"
       },
       "artists": [
         {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+          "name": "Piers Faccini",
+          "url": "https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd"
         }
       ],
-      "duration_ms": 335906,
-      "name": "Ballad of a Runaway Horse",
-      "url": "https://open.spotify.com/track/4fuNvXnEfvtHtdNFdsVcRB"
+      "duration_ms": 180106,
+      "name": "Who By Fire",
+      "url": "https://open.spotify.com/track/13t5z9HD9e6syCaUweEqYH"
     },
     {
       "added_at": "2018-12-06 19:29:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: The Blessed Madonna
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,348 likes - 130 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,381 likes - 130 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 103 | [Everything \- DJ Nobu Remix](https://open.spotify.com/track/4GdTGFtRYvOLCWG7FQq8is) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J), [DJ Nobu](https://open.spotify.com/artist/0FjzWRwRfEzCndGjColUy9) | [Unspoken Words Remixes I](https://open.spotify.com/album/3erKNm0B6Y5ATBF07eht6z) | 5:52 |
 | 104 | [West Side](https://open.spotify.com/track/4vkhFAwrhdY7qVbKxrAtQi) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Belle Humble](https://open.spotify.com/artist/5Uh9Oco0Khv18UvTo2PucM) | [West Side](https://open.spotify.com/album/41ZjM11DQjpLEj8VJ8wPxK) | 3:20 |
 | 105 | [What You Say?](https://open.spotify.com/track/22quZFeltYbo325rn3ktTe) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [What You Say?](https://open.spotify.com/album/2yRIzD4GpnSNlGw5gt0Y1o) | 3:23 |
-| 106 | [Higher Elevation](https://open.spotify.com/track/3AGTwVq5mmZmRZ4INK4wpv) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Higher Elevation](https://open.spotify.com/album/1D4EJmfAi8VJbMocGS5MaC) | 6:13 |
+| 106 | [Higher Elevation](https://open.spotify.com/track/1lb1LQdKk2W265fIggX4SV) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Higher Elevation](https://open.spotify.com/album/3H0AaXwg0UfCbIluZool04) | 6:13 |
 | 107 | [all i can do is miss you](https://open.spotify.com/track/7j6B7MBoV6JOcWFL0VYNFT) | [Mosey](https://open.spotify.com/artist/3HzwQ0PpRbsyKSzFMXobLJ), [Lowgo](https://open.spotify.com/artist/3KqP7d4TwVfuAZIeRMxen4) | [all i can do is miss you](https://open.spotify.com/album/4tNxWMShCxtaPR1ELqjOLJ) | 3:00 |
 | 108 | [Clouds](https://open.spotify.com/track/5985LToyqbVWWNczsD9g5N) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/5ll0DBe2cSrSWiCSZ8IYXR) | 2:38 |
 | 109 | [roll credits](https://open.spotify.com/track/3U8Xah4rZY2GhbSMPmVYX3) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj) | [music for stealing to](https://open.spotify.com/album/5uYtMIrMlJaJSeeRExvaQK) | 3:13 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 129 | [Groovin'](https://open.spotify.com/track/6K0gMnFO7HgrKGJKmGL1Wm) | [KTTK](https://open.spotify.com/artist/6twl7VzHH1aK1FFkOgaIyJ), [VEATZ](https://open.spotify.com/artist/6Dwa6UQghnEAJegF1v6wrl) | [Groovin'](https://open.spotify.com/album/4YdSc00ZUmKc0GibiyMxhm) | 3:44 |
 | 130 | [Sunrise](https://open.spotify.com/track/69lYM9QS3rkCpgYu1bv0Tz) | [TREKKIE TRAX CREW](https://open.spotify.com/artist/1aaNrx84WrTGObka1rpON3) | [Sunrise](https://open.spotify.com/album/2li5OyXeNan4XE6mqs5Omj) | 4:37 |
 
-Snapshot ID: `MCxjYjBiZDhkOTZiNGIyZGU1ZjA0NDI0YWFmZGM4ODEwMTNkOWRjMmMw`
+Snapshot ID: `MCwyNzdiZWE2ZGZiMWM2MmJmMTNmMjYxNzNjNDFlYTkzOTg3NTJiNWI4`

@@ -4,7 +4,7 @@
 
 > Remember how love used to be, feel how it is and imagine how it can be with the best South African love songs.
 
-96 songs - 7 hr 13 min
+97 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Atamela](https://open.spotify.com/track/0ygf2pf66KVHaaFLPBqisI) | [Presss](https://open.spotify.com/artist/4zvrxiTj59PqL9vRzQI354) | [Evolution of Love](https://open.spotify.com/album/4Q3PFsJo6g39tOvcEEHhVJ) | 3:32 | 2022-02-11 |  |
 | [Baby Girl](https://open.spotify.com/track/14dcMfyhHV1vUdXXfiTuW1) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Once Upon a Time In Africa](https://open.spotify.com/album/75zZ8xLGSeF0UFE5K0kMrj) | 4:20 | 2022-02-11 | 2022-11-13 |
 | [Baby Girl](https://open.spotify.com/track/5qJpQEJKN2lvm0szJhyvdz) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Thuto](https://open.spotify.com/album/5eqTNk3knYSiqlpcUT91z7) | 4:20 | 2022-02-11 |  |
-| [Baby Please](https://open.spotify.com/track/47dCbfshKYkbw40Wb49VKO) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no), [Robbie Malinga](https://open.spotify.com/artist/1nuPAZ36vprvyuAAGBC9UD) | [My Truth](https://open.spotify.com/album/4Q3VwhKvE2slDyveEFIiNr) | 4:44 | 2023-02-10 |  |
+| [Baby Please](https://open.spotify.com/track/47dCbfshKYkbw40Wb49VKO) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no), [Robbie Malinga](https://open.spotify.com/artist/1nuPAZ36vprvyuAAGBC9UD) | [My Truth](https://open.spotify.com/album/4Q3VwhKvE2slDyveEFIiNr) | 4:44 | 2023-02-10 | 2023-05-01 |
+| [Baby Please](https://open.spotify.com/track/40cDcD8uvaE060MednQPaN) | [Robbie Malinga](https://open.spotify.com/artist/1nuPAZ36vprvyuAAGBC9UD) | [The Best Of](https://open.spotify.com/album/4Ma1FmoFdf61NPhjF67flT) | 4:44 | 2023-02-10 |  |
 | [Baby Please](https://open.spotify.com/track/0TmitblYFOtTvESsvQpiAS) | [Robbie Malinga](https://open.spotify.com/artist/1nuPAZ36vprvyuAAGBC9UD), [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no) | [Soulful Songs: Vol 1](https://open.spotify.com/album/2RtQNzcpmwzwakqzQTnac3) | 4:48 | 2022-02-11 | 2023-04-14 |
 | [Baby Please](https://open.spotify.com/track/3Cije2983YXxgFlV9pqcsn) | [Robbie Malinga](https://open.spotify.com/artist/1nuPAZ36vprvyuAAGBC9UD), [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no) | [Mzansi Rhythms of Love](https://open.spotify.com/album/2rsD9g2O3GNDPsY9pfTZek) | 4:48 | 2023-02-10 | 2023-04-17 |
 | [Black Butterfly](https://open.spotify.com/track/7Eq6djk4VjwNHlSxL1c9n9) | [TK](https://open.spotify.com/artist/7GkLffiNibtscyTkTKltfn) | [Best of TK](https://open.spotify.com/album/2FHSrLJLlcA2XgaCrme0FI) | 4:39 | 2022-02-11 |  |

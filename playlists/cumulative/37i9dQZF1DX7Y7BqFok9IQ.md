@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Tyler Bryant & the Shakedown
 
-214 songs - 13 hr 28 min
+215 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,8 @@
 | [Third Eye Witness](https://open.spotify.com/track/0nDWq31XCAiMjiFowRy8J8) | [Scott McKeon](https://open.spotify.com/artist/1sfTHUBg3CWHk2cU3Mle9S), [Gavin Conder](https://open.spotify.com/artist/6GWDbdcSJn1PByFJyxuSDb) | [Third Eye Witness](https://open.spotify.com/album/5stY57R9CRn0feCybn8JGa) | 5:10 | 2021-02-19 | 2022-06-30 |
 | [Third Eye Witness](https://open.spotify.com/track/4NaMg1sWs9aWGjAYbWLs0q) | [Scott McKeon](https://open.spotify.com/artist/1sfTHUBg3CWHk2cU3Mle9S), [Gavin Conder](https://open.spotify.com/artist/6GWDbdcSJn1PByFJyxuSDb) | [New Morning](https://open.spotify.com/album/6yWulgsSMzXxVVN1FrRswA) | 5:10 | 2021-04-09 |  |
 | [Thunder](https://open.spotify.com/track/0xmvgqYiUs1GApjTeBvu6s) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Dirty Work](https://open.spotify.com/album/21H9SxzyamF84Wu2DsEFsR) | 2:54 | 2023-03-24 |  |
-| [To The Bone](https://open.spotify.com/track/64u5BCxJ7tkiN3Zru9agqt) | [Chris Leamy](https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx) | [Louder](https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd) | 3:39 | 2022-10-14 |  |
+| [To The Bone](https://open.spotify.com/track/2vDFtFES302W2LdkgJY7Vt) | [Chris Leamy](https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx) | [To The Bone](https://open.spotify.com/album/3rVPrMd1k1qhitQyoKsrPp) | 3:39 | 2022-10-21 |  |
+| [To The Bone](https://open.spotify.com/track/64u5BCxJ7tkiN3Zru9agqt) | [Chris Leamy](https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx) | [Louder](https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd) | 3:39 | 2022-10-14 | 2023-05-01 |
 | [Too Bad](https://open.spotify.com/track/6CCkq87g6MxHZ5uCYCqdk1) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 4:44 | 2020-10-16 | 2023-03-04 |
 | [Too Much Is Never Too Much](https://open.spotify.com/track/4fwvGZXHq2vYZUrO2TrESI) | [Gnarfunkel](https://open.spotify.com/artist/2mwAEuKKSnlOQouag2TUe5) | [Too Much Is Never Too Much](https://open.spotify.com/album/3bSxViAwIQ38614k0DYfPa) | 3:27 | 2022-03-18 |  |
 | [Tricks On My Mind](https://open.spotify.com/track/6k3jiZrFNJ2AeiuwRRO6wC) | [Sweet Crisis](https://open.spotify.com/artist/0VLBsVfOThyVZU94tW3qJ4) | [Tricks On My Mind](https://open.spotify.com/album/0BZeTdDbL03qzEVtQfPloh) | 3:00 | 2021-08-27 |  |

@@ -2,9 +2,9 @@
 
 ### [K\-Pop X\-Overs](https://open.spotify.com/playlist/37i9dQZF1DX4IDaXtVjL83)
 
-> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: P1Harmony, New Hope Club\)
+> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: Maymay Entrata, WOOSEOK of PENTAGON\)
 
-119 songs - 6 hr 26 min
+120 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [About Time \(feat\. Kelsey Kuan & prettyhappy\)](https://open.spotify.com/track/3J7hHQpqeaAcjJfSwMtRyG) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9), [prettyhappy](https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5) | [About Time](https://open.spotify.com/album/7c0ZJvTLEC3IRWyFdssXab) | 2:47 | 2022-02-16 | 2023-02-17 |
 | [Alcohol\-Free \- Japanese ver.](https://open.spotify.com/track/3gSGchfwjDKKVOE3RRXDSZ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [\#TWICE4 \(Japanese ver.\)](https://open.spotify.com/album/5UMKm3ihuSD9WQDkwQ7btX) | 3:33 | 2022-03-16 |  |
 | [All Good\-JP Ver.\-](https://open.spotify.com/track/0UtMa8PmILmB188rSCBVb2) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [All Good\-JP Ver.\-](https://open.spotify.com/album/7HUcINwctfzAmaDrXiZm71) | 3:25 | 2021-12-20 | 2022-02-25 |
+| [AUTODEADMA \(feat\. WOOSEOK of PENTAGON\)](https://open.spotify.com/track/1huXH6cjXHN2ZpqnnG7dLo) | [Maymay Entrata](https://open.spotify.com/artist/4JliYPIw09GespZAmZv6rI), [WOOSEOK](https://open.spotify.com/artist/1JVVY2kKddJ0JkDkbEZk4V), [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [AUTODEADMA \(feat\. WOOSEOK of PENTAGON\)](https://open.spotify.com/album/1XSaxEw0RTVC2WRuFwONVP) | 3:32 | 2023-04-30 |  |
 | [Bad Habits \- SHAUN Remix](https://open.spotify.com/track/1ojXznve83pqLCTdy3945M) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Bad Habits \(The Remixes\)](https://open.spotify.com/album/1cvxALyvpgUpRqxix4vhLK) | 3:44 | 2021-12-20 | 2022-04-20 |
 | [Be Sweet \- Korean Version](https://open.spotify.com/track/5smkxS3MeevRwRt86AADR9) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw), [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Be Sweet \(Korean Version\)](https://open.spotify.com/album/5WfeCVyCMFpTkkYkcVHT1x) | 3:15 | 2022-07-22 | 2023-02-17 |
 | [Before 4:30 \(She Said…\)](https://open.spotify.com/track/6eXHtOGepsKaJ6UzN42YlG) | [Mew Suppasit](https://open.spotify.com/artist/78u00MLyG46IkmM8HC6H0l), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Before 4:30 \(She Said…\)](https://open.spotify.com/album/6ngd5N828DSzfX5tLMMngM) | 3:51 | 2021-12-20 | 2022-12-06 |

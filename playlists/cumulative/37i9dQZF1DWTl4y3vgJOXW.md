@@ -4,7 +4,7 @@
 
 > Fourth quarter, two minutes left .\. get locked in
 
-471 songs - 1 day 0 hr 1 min
+472 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Blues \(feat\. Future\)](https://open.spotify.com/track/28gBJ6GG1orRuc4Ck3y45n) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Blues](https://open.spotify.com/album/7yf3T5Ga0DpWFjqzoMkXK2) | 2:25 | 2022-09-16 | 2022-12-31 |
 | [BOP](https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [KIRK](https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl) | 2:39 | 2021-09-02 |  |
 | [Bop It \(feat\. Polo G\)](https://open.spotify.com/track/0ASHuncZLdgqTcoGMIgUxR) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Bop It \(feat\. Polo G\)](https://open.spotify.com/album/4h2saAy5sHmkTgPR7DZ4qp) | 2:29 | 2021-09-02 | 2022-12-31 |
+| [Bops](https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Bops](https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM) | 2:08 | 2023-04-30 |  |
 | [Both Sides \(feat\. Lil Baby\)](https://open.spotify.com/track/34xlXbZ4Ws3GGpUKeimDu5) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Both Sides \(feat\. Lil Baby\)](https://open.spotify.com/album/3GE5RpVZRGu3a5FuuYzP6F) | 3:00 | 2021-09-02 | 2023-03-14 |
 | [Bring Da Ruckus \(feat\. RZA, Ghostface Killah, Raekwon & Inspectah Deck\)](https://open.spotify.com/track/1v5cgIyffYtfEx0swttdoE) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO) | [Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]](https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV) | 4:11 | 2022-06-24 | 2023-03-03 |
 | [Broke As Fuck](https://open.spotify.com/track/1faIb3PPSzEifCHUOJ691R) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [The Lost Boy](https://open.spotify.com/album/6Pb7PMZtW0fuEM1lCGvCDu) | 3:16 | 2021-09-02 | 2023-03-03 |
@@ -165,7 +166,7 @@
 | [Going Bad \(feat\. Drake\)](https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:00 | 2021-09-02 |  |
 | [Gorgeous](https://open.spotify.com/track/0Ot6qzEWZqbwxKEtehS7Lp) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Gorgeous](https://open.spotify.com/album/65P0Z7ydZpETo9xb8r7Cui) | 3:05 | 2021-09-02 | 2023-03-03 |
 | [Great](https://open.spotify.com/track/2Mr4XjFeOWi8Dxi4BwhRx1) | [Trip J](https://open.spotify.com/artist/33tX0Wud6tPk1fZjkPQBmh) | [SUDDENLY](https://open.spotify.com/album/7H9lvnhfqUXRUUB1MR2dor) | 2:20 | 2023-02-17 | 2023-03-03 |
-| [Greatness](https://open.spotify.com/track/2eN0rxTtgxKkmVCNgizayr) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Greatness](https://open.spotify.com/album/4y4p9wI8BXL9sRKToCNA7p) | 3:05 | 2023-03-24 | 2023-03-29 |
+| [Greatness](https://open.spotify.com/track/2eN0rxTtgxKkmVCNgizayr) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Greatness](https://open.spotify.com/album/4y4p9wI8BXL9sRKToCNA7p) | 3:05 | 2023-03-24 |  |
 | [GTA \(feat\. 42 Dugg\)](https://open.spotify.com/track/7wAFfH245FJP77ZugGVISe) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [QUARANTINE PACK](https://open.spotify.com/album/5VOW9zYV8KoErvgrLYqKR2) | 2:30 | 2021-09-02 | 2023-02-18 |
 | [Gunninhimdown](https://open.spotify.com/track/6u4MzxtPp6XbIx90sWlVJi) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [VIRALITY](https://open.spotify.com/album/4cZQDPI9rDzPpqMMLyvj7B) | 1:48 | 2023-02-17 | 2023-02-22 |
 | [h4rt&soul](https://open.spotify.com/track/5pMeCtPRcV9ORs7CeUDEE7) | [Trip J](https://open.spotify.com/artist/33tX0Wud6tPk1fZjkPQBmh), [Fubu Banks](https://open.spotify.com/artist/6XruQ4mSyrdUm6ABc7hWZA) | [From Now On](https://open.spotify.com/album/5ndDCskK44Y2nHg39zYnUG) | 3:36 | 2023-02-17 | 2023-02-22 |

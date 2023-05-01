@@ -186,6 +186,24 @@
     {
       "album": {
         "name": "Letting Go",
+        "url": "https://open.spotify.com/album/6kEte3BcsOoAwuGnVTkgME"
+      },
+      "artists": [
+        {
+          "name": "Hayden Pedigo",
+          "url": "https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330000,
+      "name": "Carthage",
+      "url": "https://open.spotify.com/track/0e0T3WcSL0IvHFc2CqMLIy"
+    },
+    {
+      "album": {
+        "name": "Letting Go",
         "url": "https://open.spotify.com/album/46N1u5BuUGsZlj7pij2JRK"
       },
       "artists": [
@@ -196,7 +214,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 330000,
       "name": "Carthage",
       "url": "https://open.spotify.com/track/5T2rPvGAbs5Z6CLXXbh3jX"

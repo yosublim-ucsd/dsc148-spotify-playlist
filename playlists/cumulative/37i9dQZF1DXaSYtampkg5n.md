@@ -4,7 +4,7 @@
 
 > Sheer joy for sunny days in 50 old and new African jams.
 
-110 songs - 10 hr 0 min
+111 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Jarabi](https://open.spotify.com/track/5EvehLwAeQkVwwEfoAawa4) | [AfroCubism](https://open.spotify.com/artist/2Los7jf0DpltIz39dDgNen) | [Afrocubism](https://open.spotify.com/album/7qXvKyPmjYWye72ZTIrihK) | 5:57 | 2018-07-02 |  |
 | [Jarabi](https://open.spotify.com/track/0RxOwIbcKkIIYlofyLznGY) | [AfroCubism](https://open.spotify.com/artist/2Los7jf0DpltIz39dDgNen), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Eliades Ochoa & Bassekou Kouyaté](https://open.spotify.com/artist/0VjN7ASjJCJTldoryWvxM4) | [Afrocubism](https://open.spotify.com/album/1CH76GNjApPSbQcRqComt7) | 5:57 | 2018-07-02 | 2022-07-29 |
 | [Kai Wawa](https://open.spotify.com/track/1jSfn07Bqf24cLlW8nRMtC) | [The Mercury Dance Band](https://open.spotify.com/artist/5s7yP5PdeJyqfoLJ50YYBB) | [Soundway presents Ghana Special \(Modern Highlife, Afro Sounds & Ghanaian Blues 1968\-81\)](https://open.spotify.com/album/5DKrMCbixQ2EjIvSBcLM28) | 3:00 | 2018-07-02 | 2022-07-29 |
-| [Kai Wawa](https://open.spotify.com/track/5ZNfrNTjNWrDqGF6TAOhnM) | [The Mercury Dance Band](https://open.spotify.com/artist/5s7yP5PdeJyqfoLJ50YYBB) | [Ghana Special: Modern Highlife, Afro Sounds & Ghanaian Blues 1968\-81](https://open.spotify.com/album/6Q7IHMtwm5rvoTuPL8lUkz) | 3:00 | 2018-07-02 |  |
+| [Kai Wawa](https://open.spotify.com/track/4QjZfrqndQfDn7tz8dHBRr) | [The Mercury Dance Band](https://open.spotify.com/artist/5s7yP5PdeJyqfoLJ50YYBB) | [Ghana Special: Modern Highlife, Afro Sounds & Ghanaian Blues 1968\-81](https://open.spotify.com/album/7JxOC157mJOWGQmIpCv6YL) | 3:00 | 2018-07-02 |  |
+| [Kai Wawa](https://open.spotify.com/track/5ZNfrNTjNWrDqGF6TAOhnM) | [The Mercury Dance Band](https://open.spotify.com/artist/5s7yP5PdeJyqfoLJ50YYBB) | [Ghana Special: Modern Highlife, Afro Sounds & Ghanaian Blues 1968\-81](https://open.spotify.com/album/6Q7IHMtwm5rvoTuPL8lUkz) | 3:00 | 2018-07-02 | 2023-05-01 |
 | [Kare Nanhasi](https://open.spotify.com/track/085HOiIrvSvFxfv9gT4Ny0) | [Hallelujah Chicken Run Band](https://open.spotify.com/artist/4F4uGrDn844DLT3ThoztIE) | [Take One \(Analog Africa No\. 2\)](https://open.spotify.com/album/7dRwLFKHSz4QV2PKkIuHMD) | 3:36 | 2018-07-02 | 2022-07-29 |
 | [Kare Nanhasi](https://open.spotify.com/track/4ZAOkPfa22QYJlWtF6aJDg) | [Hallelujah Chicken Run Band](https://open.spotify.com/artist/55xAwB77WuAIIinohovFwe) | [4\-Track Recording Session \(Analog Africa No\. 1\)](https://open.spotify.com/album/65rLpTr70dPG6deRYBpCm2) | 3:36 | 2018-07-02 | 2023-04-30 |
 | [Kare Nanhasi](https://open.spotify.com/track/4l9wFkjVU37DqhF7jES8dV) | [Hallelujah Chicken Run Band](https://open.spotify.com/artist/4F4uGrDn844DLT3ThoztIE) | [4\-Track Recording Session \(Analog Africa No\. 1\)](https://open.spotify.com/album/4iXf2ybRyGp7Ux0TXtUoDm) | 3:36 | 2018-07-02 |  |

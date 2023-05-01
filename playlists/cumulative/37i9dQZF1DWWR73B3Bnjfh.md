@@ -4,7 +4,7 @@
 
 > The melancholic and soft sound of Jazz.
 
-145 songs - 13 hr 7 min
+146 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [Who Can I Turn To \(When Nobody Needs Me\)](https://open.spotify.com/track/57ZrEEk6UCFiMx2nrgE1kf) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Gettin' Around](https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9) | 5:16 | 2022-01-20 |  |
 | [Why Are We Afraid?](https://open.spotify.com/track/3yRb1s9m2BcKr0m5ktUDTQ) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Gettin' Together!](https://open.spotify.com/album/4eF6FIxcBLOMOLEl3w4QQT) | 3:38 | 2021-12-03 |  |
 | [Willow Weep For Me](https://open.spotify.com/track/53I0rp6820Z8aksKz7FeXt) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP), [The Three Sounds](https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi) | [Ballads](https://open.spotify.com/album/24KvOzpJA0qbuuIwgWFO6u) | 9:58 | 2022-09-16 |  |
-| [Willow Weep for Me](https://open.spotify.com/track/4dwvM6WSpM4xO7scm3ufft) | [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d) | [The Smart Attitude of Tommy Flanagan](https://open.spotify.com/album/6pa6DxpaFgoY5H0yO9bKGW) | 6:27 | 2022-09-16 |  |
+| [Willow Weep for Me](https://open.spotify.com/track/4dwvM6WSpM4xO7scm3ufft) | [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d) | [The Smart Attitude of Tommy Flanagan](https://open.spotify.com/album/6pa6DxpaFgoY5H0yO9bKGW) | 6:27 | 2022-09-16 | 2023-05-01 |
+| [Willow Weep for Me](https://open.spotify.com/track/3mvX08xusrpw3lozCAvVNA) | [Tommy Flanagan Trio](https://open.spotify.com/artist/5N8jNQsfW9SHBkhVqqnXbU) | [Presenting The Tommy Flanagan Trio](https://open.spotify.com/album/3hJsRCXLMtRGIyoGyKMn8p) | 6:27 | 2023-04-26 |  |
 | [You Don't Know What Love Is](https://open.spotify.com/track/2TPRvPvUotVn4tGHAWWcog) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [For Those In Love \(Expanded Edition\)](https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2) | 4:05 | 2021-12-03 | 2023-01-14 |
 | [You Don't Know What Love Is](https://open.spotify.com/track/0Wq4RLRFm7DY2mdl9PczIH) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Walkin'](https://open.spotify.com/album/2aiYquTSYZ6xdi1gyHHR76) | 4:19 | 2021-12-03 | 2022-09-29 |
 | [You Know I Care \- Rudy Van Gelder Edition / 2004 Digital Remaster](https://open.spotify.com/track/7eHpseL2CAKKtZmM56SiGV) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Inner Urge \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/2Amg9J3U9jEUUJUxCW5OgI) | 7:22 | 2021-12-03 |  |

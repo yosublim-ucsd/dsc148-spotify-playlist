@@ -4,7 +4,7 @@
 
 > The best and finest '10s Funk\. Cover: Pharrell Williams.
 
-81 songs - 5 hr 39 min
+82 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Funk Ain't Ova](https://open.spotify.com/track/5nBgM7vUM7w9bNKW2MFZhH) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Desmond Foster](https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf) | [Stay Good](https://open.spotify.com/album/7KFdFOJJF84VbZ5rJjbyK7) | 3:51 | 2021-05-05 |  |
 | [FUNKNROLL](https://open.spotify.com/track/1gAHPwkHrnO6rYEsjWzd8V) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [ART OFFICIAL AGE](https://open.spotify.com/album/1xRg9g9QCGjFp9poxLnU5M) | 4:08 | 2021-05-05 |  |
 | [Funky Duck](https://open.spotify.com/track/2KRQR1VK6OoJxpwVzwDv72) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [Thrill of the Arts](https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7) | 2:10 | 2021-05-05 |  |
-| [Got to Get Back to My Baby](https://open.spotify.com/track/6vpKIo2WYaW8g0VpZJExAK) | [The Sugarman 3](https://open.spotify.com/artist/4yGIAU59dDaVaXMDkicnlF) | [What the World Needs Now](https://open.spotify.com/album/34dJNulqKbwcc2TWlIL7s5) | 4:40 | 2021-05-05 |  |
+| [Got to Get Back to My Baby](https://open.spotify.com/track/4qVuHS2Nun39a8JrI5d5GD) | [The Sugarman 3](https://open.spotify.com/artist/4yGIAU59dDaVaXMDkicnlF) | [What the World Needs Now](https://open.spotify.com/album/7oDpEW7JWKOaNwipCfD1uK) | 4:40 | 2021-05-05 |  |
+| [Got to Get Back to My Baby](https://open.spotify.com/track/6vpKIo2WYaW8g0VpZJExAK) | [The Sugarman 3](https://open.spotify.com/artist/4yGIAU59dDaVaXMDkicnlF) | [What the World Needs Now](https://open.spotify.com/album/34dJNulqKbwcc2TWlIL7s5) | 4:40 | 2021-05-05 | 2023-05-01 |
 | [Gust of Wind](https://open.spotify.com/track/5m6F6glTwHhsolaKD0gGu0) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 4:45 | 2021-05-05 |  |
 | [Hold Up, Wait a Minute](https://open.spotify.com/track/4o2UcMhDLHpi09m8esAVqT) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Genesis Series](https://open.spotify.com/album/1X4yodq8QzdlHOf2EgwhWU) | 4:08 | 2021-05-05 |  |
 | [Holding On \- Gus Pirelli VIP 7" Disco Mix](https://open.spotify.com/track/5R4Z0iKvKJ70ab2Y1dmgRT) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Gus Pirelli](https://open.spotify.com/artist/3sKGlKlAS9uj2yVVCzT3KO) | [Holding On \(The Remixes\)](https://open.spotify.com/album/0KqeLeHGEvhviC19w8vIEC) | 3:12 | 2021-05-05 |  |

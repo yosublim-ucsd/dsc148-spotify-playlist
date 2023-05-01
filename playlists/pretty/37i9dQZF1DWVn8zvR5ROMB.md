@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Kip Moore, Nate Smith, Danielle Bradbery and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,642 likes - 66 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,805 likes - 66 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 65 | [4 Low High](https://open.spotify.com/track/53H7DtVlIUmXPXbeyT5TnM) | [Trea Landon](https://open.spotify.com/artist/0uzF7KK6coJpJvOW6Vrv1H) | [4 Low High](https://open.spotify.com/album/3JHo0q6CU34kinOunegmgF) | 2:50 |
 | 66 | [Ain't For Me](https://open.spotify.com/track/0nl6comjSULrsfHy2XohMI) | [Southerland](https://open.spotify.com/artist/5Fft88xB3YSwSWzdS42xyf) | [Southerland](https://open.spotify.com/album/7bx1O8YDqym7lJpHgXlaIK) | 3:08 |
 
-Snapshot ID: `MCwxNmU4NGJhZTk0YTkzMjliMjVjNmRjOWNlMjE1MDRlZjFiOTFkMGJl`
+Snapshot ID: `MCxjYTJjMzk1ZjA1OTQ0MzViYzI1NjU4MDAxZTk3MGY4ZTE1YWFjM2Vm`

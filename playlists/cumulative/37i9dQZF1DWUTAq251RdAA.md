@@ -4,7 +4,7 @@
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the <a href="https://artists.spotify.com/songwriter/3EOfjHuLO7f2VbwNGu0Tqg">songwriter's</a> own covers.
 
-84 songs - 6 hr 14 min
+85 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Woodstock](https://open.spotify.com/track/36MxthZNeNmBEGZLC5TZYN) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 5:19 | 2021-06-22 |  |
 | [Woodstock](https://open.spotify.com/track/1cXOxrN1qDxgjDvqcJANKc) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Woodstock](https://open.spotify.com/album/6S2lVoBmDELDPVgMtETs1I) | 5:07 | 2021-06-22 |  |
 | [You Dream Flat Tires](https://open.spotify.com/track/6puCtaK0vcsAudnUwI5Mqt) | [Jennifer Scott](https://open.spotify.com/artist/1zEGBTs82GzM2vSOKe7Zak) | [Emotional Girl](https://open.spotify.com/album/0HvcYaSXgrBrHVBFdKsPMJ) | 3:33 | 2021-06-22 |  |
-| [You Turn Me On, I'm a Radio \- Acoustic](https://open.spotify.com/track/0mdOBageiouWrzRnQTCkJH) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In the Magic Hour Solo Sessions](https://open.spotify.com/album/3cTvxUix8USFUfjiyre6B4) | 3:21 | 2021-06-22 |  |
+| [You Turn Me On, I'm a Radio \- Acoustic](https://open.spotify.com/track/0mdOBageiouWrzRnQTCkJH) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In the Magic Hour Solo Sessions](https://open.spotify.com/album/3cTvxUix8USFUfjiyre6B4) | 3:21 | 2021-06-22 | 2023-05-01 |
+| [You Turn Me On, I'm a Radio \- Acoustic](https://open.spotify.com/track/7rP4vwl8DJ5l7xHMmRGBYO) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In the Magic Hour Solo Sessions](https://open.spotify.com/album/1XxOQRUB7eOOQWryZM3YZM) | 3:21 | 2021-06-22 |  |
 
 \*This playlist was first scraped on 2023-01-24. Prior content cannot be recovered.

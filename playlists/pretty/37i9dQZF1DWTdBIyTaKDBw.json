@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy & sweet eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 44862,
+  "num_followers": 44904,
   "original_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGRlNjZmYjIyZTllMjMyMTZmM2Q1MDQ5MzNkMmViZmY1ZGZiNmVj",
+  "snapshot_id": "MCwzNGViZmQxYjkyZTNiMmEyNTQwOTZkNTUyZmFiYTI5OWViNDY2ZWYw",
   "tracks": [
     {
       "added_at": "2023-02-24 10:35:29",
@@ -693,7 +693,7 @@
       "url": "https://open.spotify.com/track/3F6eSiAXmjfZpR0vUOoOzN"
     },
     {
-      "added_at": "2023-04-30 01:03:03",
+      "added_at": "2023-05-01 01:01:57",
       "album": {
         "name": "We don\u2019t talk (Feat. CHEEZE)",
         "url": "https://open.spotify.com/album/0EBLkNbcXmiGBj5fPVtrvK"
@@ -937,38 +937,6 @@
       "url": "https://open.spotify.com/track/630EmrW0DgVqPdKIWMk4YR"
     },
     {
-      "added_at": "2023-04-30 01:03:03",
-      "album": {
-        "name": "Candy For You",
-        "url": "https://open.spotify.com/album/6D7gUwsJNO2SNjxZVSUrzA"
-      },
-      "artists": [
-        {
-          "name": "blah",
-          "url": "https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg"
-        }
-      ],
-      "duration_ms": 158386,
-      "name": "Candy For You",
-      "url": "https://open.spotify.com/track/7r32Oz3HuDHfurSAx4iokY"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
-        "name": "\ud558\uc9c0 \ub9d0\ub77c\uba74 \ub354 \ud558\uace0 19 Part.2",
-        "url": "https://open.spotify.com/album/7xnRPm9ohlLJe1LCMbJEB6"
-      },
-      "artists": [
-        {
-          "name": "\uc774\uc694\ud55c",
-          "url": "https://open.spotify.com/artist/0c8vPupGZ81StYCgxYefAD"
-        }
-      ],
-      "duration_ms": 260624,
-      "name": "\uc5b4\ub5a1\ud574 (Feat. \uc2a4\ud154\ub77c\uc7a5)",
-      "url": "https://open.spotify.com/track/5dUfJmAbyDN2kbTgbV9dob"
-    },
-    {
       "added_at": "2023-02-24 10:35:29",
       "album": {
         "name": "Candy Pianist",
@@ -987,6 +955,38 @@
       "duration_ms": 259640,
       "name": "Awake (Feat. Sam Kim)",
       "url": "https://open.spotify.com/track/3QwqGGvAuYdcVXVGejgypC"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
+        "name": "\ud558\uc9c0 \ub9d0\ub77c\uba74 \ub354 \ud558\uace0 19 Part.2",
+        "url": "https://open.spotify.com/album/7xnRPm9ohlLJe1LCMbJEB6"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc694\ud55c",
+          "url": "https://open.spotify.com/artist/0c8vPupGZ81StYCgxYefAD"
+        }
+      ],
+      "duration_ms": 260624,
+      "name": "\uc5b4\ub5a1\ud574 (Feat. \uc2a4\ud154\ub77c\uc7a5)",
+      "url": "https://open.spotify.com/track/5dUfJmAbyDN2kbTgbV9dob"
+    },
+    {
+      "added_at": "2023-05-01 01:01:57",
+      "album": {
+        "name": "Candy For You",
+        "url": "https://open.spotify.com/album/6D7gUwsJNO2SNjxZVSUrzA"
+      },
+      "artists": [
+        {
+          "name": "blah",
+          "url": "https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg"
+        }
+      ],
+      "duration_ms": 158386,
+      "name": "Candy For You",
+      "url": "https://open.spotify.com/track/7r32Oz3HuDHfurSAx4iokY"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
+        "name": "Rainy Apgujeong",
+        "url": "https://open.spotify.com/album/5SeTFxSNmAG5JSi3jReueV"
+      },
+      "artists": [
+        {
+          "name": "YOON GUN",
+          "url": "https://open.spotify.com/artist/15dggb3DQ4suwIfBmqb3nm"
+        },
+        {
+          "name": "Lim Hyunsik",
+          "url": "https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po"
+        }
+      ],
+      "duration_ms": 274030,
+      "name": "Rainy Apgujeong",
+      "url": "https://open.spotify.com/track/7KkPuyazzYvmwquvWfGQ6J"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
         "name": "Forever yours",
         "url": "https://open.spotify.com/album/0SmS3QKxpiblknw3DYP3a5"
       },
@@ -1219,38 +1239,22 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "Rainy Apgujeong",
-        "url": "https://open.spotify.com/album/5SeTFxSNmAG5JSi3jReueV"
+        "name": "Leave like this",
+        "url": "https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ"
       },
       "artists": [
         {
-          "name": "YOON GUN",
-          "url": "https://open.spotify.com/artist/15dggb3DQ4suwIfBmqb3nm"
+          "name": "Seokman Cheon",
+          "url": "https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0"
         },
         {
-          "name": "Lim Hyunsik",
-          "url": "https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po"
+          "name": "Blue Mangtto",
+          "url": "https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp"
         }
       ],
-      "duration_ms": 274030,
-      "name": "Rainy Apgujeong",
-      "url": "https://open.spotify.com/track/7KkPuyazzYvmwquvWfGQ6J"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
-        "name": "Our Cinema #2 - Dancing",
-        "url": "https://open.spotify.com/album/1NOp8pcedKfCeUj43mmbhC"
-      },
-      "artists": [
-        {
-          "name": "Narae Lee",
-          "url": "https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1"
-        }
-      ],
-      "duration_ms": 210079,
-      "name": "Our Cinema #2 - Dancing",
-      "url": "https://open.spotify.com/track/6D9XN0mRQZRBcte4IZReCE"
+      "duration_ms": 205002,
+      "name": "Leave like this",
+      "url": "https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy"
     }
   ],
   "unique_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",

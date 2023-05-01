@@ -764,10 +764,28 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 217564,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/2pihPAjIPg5EnitYFKqbYc"
+    },
+    {
+      "album": {
+        "name": "Tanto",
+        "url": "https://open.spotify.com/album/20EcuWdIk2tTveltWZm1Pc"
+      },
+      "artists": [
+        {
+          "name": "Tagua Tagua",
+          "url": "https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217564,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/78iFCNxDIc1oASCP7pZTSZ"
     },
     {
       "album": {

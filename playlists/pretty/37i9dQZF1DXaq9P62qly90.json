@@ -1,12 +1,12 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 12332,
+  "num_followers": 12334,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTU2YzFkMmE0YTNkNzBhOTZmYzE0ZWMwYWEyZWNmOTU5Y2FhNWQy",
+  "snapshot_id": "MCxhNTY1NDBlYmQzZGUyNzQzMjBhNzk0NTJkYzQ3NzA0MjZiOTFiMmVh",
   "tracks": [
     {
       "added_at": "2023-01-03 17:09:40",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "Cas Haley",
-        "url": "https://open.spotify.com/album/2Rj0pHePr2SyUh6zfyDFaz"
-      },
-      "artists": [
-        {
-          "name": "Cas Haley",
-          "url": "https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy"
-        }
-      ],
-      "duration_ms": 209536,
-      "name": "Walking on the Moon (Acoustic)",
-      "url": "https://open.spotify.com/track/1UExVMn2Abw8UNXWNMo0dZ"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
         "name": "Campfire Anthems, Vol. I",
         "url": "https://open.spotify.com/album/5rVbfchsQDXcJQYF7sDHVw"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 222850,
       "name": "All Ways Love",
       "url": "https://open.spotify.com/track/1sfAxYGCFIz5M17vHimFxj"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "Cas Haley",
+        "url": "https://open.spotify.com/album/2Rj0pHePr2SyUh6zfyDFaz"
+      },
+      "artists": [
+        {
+          "name": "Cas Haley",
+          "url": "https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy"
+        }
+      ],
+      "duration_ms": 209536,
+      "name": "Walking on the Moon (Acoustic)",
+      "url": "https://open.spotify.com/track/1UExVMn2Abw8UNXWNMo0dZ"
     },
     {
       "added_at": "2023-01-03 17:09:40",

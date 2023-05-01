@@ -4,7 +4,7 @@
 
 > Det bästa från den svenska reggaescenen.
 
-212 songs - 12 hr 31 min
+213 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Fri Nu](https://open.spotify.com/track/5SPgbtXNW2pj0DlhYqeOx9) | [Kmarian](https://open.spotify.com/artist/2mgfQYrL1Y9xmv2IktzjTY), [Denis Alic](https://open.spotify.com/artist/0Ck1iQu6kbz5K9NVgBiYqi) | [Fri Nu](https://open.spotify.com/album/7ghf4wxgcdA5tfuaRIlk89) | 2:55 | 2021-12-14 | 2022-07-29 |
 | [Full fokus](https://open.spotify.com/track/26amtV7taoZZCk1zrGu2uc) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5), [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv) | [Mellan raderna](https://open.spotify.com/album/2nyjQWrTM5dcaUYOno6ivK) | 3:11 | 2021-12-14 | 2022-07-27 |
 | [Full fokus](https://open.spotify.com/track/2Isom13ngkmcYvFtWbbAXx) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5), [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv) | [Mellan raderna](https://open.spotify.com/album/2jkSMhg8OxpW78vTemHHQe) | 3:11 | 2022-07-15 | 2022-09-05 |
+| [Full fokus](https://open.spotify.com/track/4Kvy2rVGgYbjtQZTpZZCEb) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5), [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv) | [Mellan Raderna](https://open.spotify.com/album/0itr0pWTs26zlZQUWVWeQE) | 3:11 | 2023-04-20 |  |
 | [Färsking](https://open.spotify.com/track/3Zqwzrtlla5n0PQrljCaI5) | [Leafnuts](https://open.spotify.com/artist/5rPdsyRPV9VQXLu4YXhVvy), [Partillo](https://open.spotify.com/artist/1JaDm3lcNujg75Mq1mtE0u) | [Färsking](https://open.spotify.com/album/24GKR0Sw8jc6PWA4XPoSX5) | 3:08 | 2021-12-14 | 2022-07-12 |
 | [Följ din dröm](https://open.spotify.com/track/1jnKEFnz2Bc0IBjnOJDB8f) | [Tommy Tee](https://open.spotify.com/artist/4ihTfE4MtCrKerRYHU7e4p), [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [På tur i Stockholm](https://open.spotify.com/album/0ZAWiVWlkwEU0WL4iAyrHL) | 3:29 | 2021-12-14 | 2022-06-17 |
 | [Förförande](https://open.spotify.com/track/3GQ1K4pJplArERpEVtlWMt) | [Kiihjano](https://open.spotify.com/artist/028hbxJ2me0XInwSpPsFsT) | [Förförande](https://open.spotify.com/album/7wgEvWhdIBAVfUMLQ4UCRZ) | 2:56 | 2021-12-14 | 2022-03-22 |
@@ -125,7 +126,7 @@
 | [Mediakåt feat\. Timbuktu](https://open.spotify.com/track/2LJCk8rliwXAnYTD9rEPWw) | [Helt Off](https://open.spotify.com/artist/2jyig4DFb68JxLmVSrgHjy), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Marknadens soldat](https://open.spotify.com/album/0hZQuNeRKADQflu15vj10t) | 4:11 | 2021-12-14 | 2022-09-30 |
 | [Meditation](https://open.spotify.com/track/7w9sOBYuxW2gDugJM67os7) | [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc), [Lance\-a\-Lot](https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L) | [Meditation](https://open.spotify.com/album/3qk8nAl6WmimnDa02DPUPt) | 3:51 | 2022-06-23 | 2022-07-03 |
 | [Mera tid](https://open.spotify.com/track/4PzAEGMHPCwtf9jXvzMLEw) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Linda Pira](https://open.spotify.com/artist/0qeei9KQnptjwb8MgkqEoy) | [Mera tid](https://open.spotify.com/album/5QCsjByk5aWUXvdRCKE42R) | 3:09 | 2022-03-18 |  |
-| [Mi Amor](https://open.spotify.com/track/4vW0yftC1LPQHCVEborgqT) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Mi Amor](https://open.spotify.com/album/5YtHb5glRtjDX9QtkeqgnD) | 3:42 | 2021-12-14 |  |
+| [Mi Amor](https://open.spotify.com/track/4vW0yftC1LPQHCVEborgqT) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Mi Amor](https://open.spotify.com/album/5YtHb5glRtjDX9QtkeqgnD) | 3:42 | 2021-12-14 | 2023-05-01 |
 | [Miss Fatty](https://open.spotify.com/track/2bRP3HXbCzJ3l0F1Gv1deV) | [Million Stylez](https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L) | [Miss Fatty](https://open.spotify.com/album/0JtZfRi3R7R9cvWVOJzhXg) | 3:57 | 2022-07-15 |  |
 | [Musiken Och Jag](https://open.spotify.com/track/47cWTRJNg1U7mXGu3z08zU) | [Charly Chanter](https://open.spotify.com/artist/5m0K3pN0pZ1wkPcRNTIvi5), [Uptown Skunkaz](https://open.spotify.com/artist/55PhesYBgzfOpu2AibaVc9) | [Musiken Och Jag](https://open.spotify.com/album/2occlN1mZ3n895n00zEsEN) | 3:06 | 2022-04-21 | 2022-07-25 |
 | [Måsten](https://open.spotify.com/track/3Ea996dwFzTOtxuK9Rtiv6) | [Regeringen](https://open.spotify.com/artist/1aqtBpnv7SHhjkFZVAVbRq) | [Måsten](https://open.spotify.com/album/53lgkN9wsLHBoAdsM7PUwF) | 4:49 | 2021-12-14 | 2022-07-28 |

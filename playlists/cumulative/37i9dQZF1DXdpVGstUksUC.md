@@ -4,7 +4,7 @@
 
 > You can practically taste the desert dirt in your mouth while listening to these riff\-heavy, fuzzed out numbers\. Cover: Queens of the Stone Age
 
-280 songs - 1 day 2 hr 2 min
+281 songs - 1 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Calm Before the Storm](https://open.spotify.com/track/4oZZ50a7sFUJdMhywCtAdA) | [Truckfighters](https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h) | [V](https://open.spotify.com/album/2st5WC99waH8DaN3naNq32) | 8:15 | 2021-11-30 | 2022-10-10 |
 | [Centurion](https://open.spotify.com/track/6rIh2ETnPnBxkFYjQb83SV) | [King Buffalo](https://open.spotify.com/artist/06D0YfeNZgBA7XWQ79Y42R) | [Repeater](https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok) | 5:56 | 2021-11-30 |  |
 | [Chocolatize](https://open.spotify.com/track/3D2r5tK7FLa35ustREymTd) | [Brant Bjork](https://open.spotify.com/artist/538ZIoOw6wW1xdjuIaQHOS) | [Mankind Woman](https://open.spotify.com/album/6ho3UoTbxC0DnYV7BAx7Q4) | 2:34 | 2021-11-30 | 2022-02-15 |
+| [CLDZ](https://open.spotify.com/track/44BjQLjy1ShaviwGBobWi1) | [Gozu](https://open.spotify.com/artist/3CcEVa0kc113lQDnVTyIBg) | [CLDZ](https://open.spotify.com/album/1TQbXepj5CEXWpxz2HZQ34) | 6:56 | 2023-04-21 |  |
 | [Collector](https://open.spotify.com/track/6H7uuB5wY5dLNApvEj35d3) | [Mars Red Sky](https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ) | [Collector](https://open.spotify.com/album/5WvED9laSYAilXO7zB4WPP) | 4:13 | 2021-11-30 | 2022-07-29 |
 | [Colossal](https://open.spotify.com/track/0voGuQpNWWj6EuIN8jluyM) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC) | 5:04 | 2022-04-28 |  |
 | [Colossal](https://open.spotify.com/track/4Xx92jCdrTBTiCr4rwwkN3) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/0jjNb79VYqLY21IjyWKsWe) | 5:04 | 2021-11-30 | 2022-07-28 |
@@ -213,7 +214,7 @@
 | [Sixty Watt Shaman](https://open.spotify.com/track/4Tmj44iRTXTDK5jo9elMCv) | [Whiskey Neck](https://open.spotify.com/artist/76B55uevwwGTkO8LfGpb5T) | [In The Groove](https://open.spotify.com/album/5cZ1SppOuMg4sS0WqDkAls) | 5:41 | 2021-11-30 | 2021-12-23 |
 | [Skweetis](https://open.spotify.com/track/4M5tx88gLsiXSbxpPUAULe) | [Melvins](https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3) | [Stoner Witch](https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw) | 1:12 | 2023-03-22 |  |
 | [Sleep Of The Black Lotus](https://open.spotify.com/track/1gwWcQf0CmJxQPc4AlOoEh) | [Wo Fat](https://open.spotify.com/artist/5QUsinW1AjeDsT6tQdeTb0) | [The Black Code](https://open.spotify.com/album/0fWU9SHoSy50Kpi775WrLb) | 10:14 | 2021-11-30 | 2022-07-08 |
-| [Sleep Of The Black Lotus](https://open.spotify.com/track/607UyLaRRinnZrtim7VWSK) | [Wo Fat](https://open.spotify.com/artist/5QUsinW1AjeDsT6tQdeTb0) | [The Black Code](https://open.spotify.com/album/19Azuz7Fwnr7mQ6jKqPYbd) | 10:14 | 2023-03-10 |  |
+| [Sleep Of The Black Lotus](https://open.spotify.com/track/607UyLaRRinnZrtim7VWSK) | [Wo Fat](https://open.spotify.com/artist/5QUsinW1AjeDsT6tQdeTb0) | [The Black Code](https://open.spotify.com/album/19Azuz7Fwnr7mQ6jKqPYbd) | 10:14 | 2023-03-10 | 2023-05-01 |
 | [Smokin' Woman](https://open.spotify.com/track/3As9x85QW00A257ahhwKLr) | [Nebula](https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE) | [Dos E.P.'s](https://open.spotify.com/album/18zCcLMlccJiRswPU6O0QL) | 5:28 | 2023-03-22 |  |
 | [Smokyhead](https://open.spotify.com/track/3AkDOeS0MrVCNZQXQnOGuG) | [Electric Octopus](https://open.spotify.com/artist/4dcZVsGQzFSiXuAHyhw3qT) | [Smokyhead](https://open.spotify.com/album/7M4tIblTBvkcC9JdAUThqf) | 8:45 | 2021-11-30 | 2022-01-31 |
 | [So Come On](https://open.spotify.com/track/5QHLHBmGDW999nMelytjUA) | [The Atomic Bitchwax](https://open.spotify.com/artist/4TnftWQx6fF7k4Nviu7Nn6) | [Boxriff](https://open.spotify.com/album/7fz7xnSA14AF9PoQLh6Qx7) | 4:11 | 2021-11-30 |  |

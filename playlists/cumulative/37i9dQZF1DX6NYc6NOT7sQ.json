@@ -342,6 +342,24 @@
     {
       "album": {
         "name": "Safe Passage",
+        "url": "https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207829,
+      "name": "Cat Nip",
+      "url": "https://open.spotify.com/track/2nfHZUbJiAGkvNGWBoSoN6"
+    },
+    {
+      "album": {
+        "name": "Safe Passage",
         "url": "https://open.spotify.com/album/6vV2zYfImg0HdmJ21FVIzp"
       },
       "artists": [
@@ -352,7 +370,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 207829,
       "name": "Cat Nip",
       "url": "https://open.spotify.com/track/3IdiOhAovsCW48Hw7rZRrD"

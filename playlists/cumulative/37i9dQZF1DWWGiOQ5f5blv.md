@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the drama Doctor Cha\. \(드라마 닥터 차정숙의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs  selected by the cast\. \(배우들이  직접 선정한 곡들도 들어보실 수 있습니다.\)
 
-48 songs - 2 hr 51 min
+50 songs - 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,8 @@
 | [beginning](https://open.spotify.com/track/2BtlbxJF9yfPNbza29VmoR) | [Park Ki Young](https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN) | [Promise](https://open.spotify.com/album/5teS918UxfihkdCYzHIwde) | 3:26 | 2023-04-21 |  |
 | [Black](https://open.spotify.com/track/0wflnphYackCuz8hYaI6sR) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [BLACK](https://open.spotify.com/album/13WypOYwpnsGxffpzukMyB) | 4:16 | 2023-04-21 |  |
 | [Blues Boys Tune](https://open.spotify.com/track/63wEUQ8SN2S8nx2r21zTnl) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Blues On The Bayou](https://open.spotify.com/album/5niyTbKPj1WYWj8fVVLq0r) | 3:29 | 2023-04-21 |  |
+| [Breath](https://open.spotify.com/track/6XHM5qjDlcJVT1afJZXUId) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/2MPYI5xUMEFnQg0l9jcf1Z) | 3:41 | 2023-04-30 |  |
+| [Breath \- Instrumental](https://open.spotify.com/track/18imXhFiJgGNzRuSzkMLe5) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/2MPYI5xUMEFnQg0l9jcf1Z) | 3:41 | 2023-04-30 |  |
 | [City Burns](https://open.spotify.com/track/5hL8VGl2wsLWSXPiTq3Fdk) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Cheers to the Fall](https://open.spotify.com/album/6Blubl1glavmervPJa3QVs) | 4:53 | 2023-04-21 |  |
 | [Curated by Kim Byung Chul](https://open.spotify.com/track/1f6G6j66YK9yGiDmelwi9b) | [Kim Byung Chul](https://open.spotify.com/artist/0dMGnNOXRsX492vEOFwDFo) | [Doctor Cha](https://open.spotify.com/album/5vbOaVjLKkx2Zf2Pws2AZR) | 0:32 | 2023-04-21 |  |
 | [Curated by Min Woo Hyuk](https://open.spotify.com/track/6C1Oq0dmgpHz2ARz3n6dSP) | [Min Woo Hyuk](https://open.spotify.com/artist/6bxlijVemHgiCTJAQ6RFsI) | [Doctor Cha](https://open.spotify.com/album/5vbOaVjLKkx2Zf2Pws2AZR) | 0:33 | 2023-04-21 |  |

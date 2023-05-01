@@ -1903,6 +1903,24 @@
     },
     {
       "album": {
+        "name": "\u300e\u540d\u63a2\u5075\u30b3\u30ca\u30f3 \u9ed2\u9244\u306e\u9b5a\u5f71(\u30b5\u30d6\u30de\u30ea\u30f3)\u300f\u6c5f\u6238\u5ddd\u30b3\u30ca\u30f3\u304b\u3089\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8!",
+        "url": "https://open.spotify.com/album/4FqXS8azLV6WrjLSBE4DuE"
+      },
+      "artists": [
+        {
+          "name": "\u300e\u540d\u63a2\u5075\u30b3\u30ca\u30f3 \u9ed2\u9244\u306e\u9b5a\u5f71(\u30b5\u30d6\u30de\u30ea\u30f3)\u300f",
+          "url": "https://open.spotify.com/artist/0OpbGNQiAXWZA67syHiDgV"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39369,
+      "name": "\u6c5f\u6238\u5ddd\u30b3\u30ca\u30f3\u304b\u3089\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8!\u305d\u306e2",
+      "url": "https://open.spotify.com/track/2lUGgn6Wugz0CH0XXiye0a"
+    },
+    {
+      "album": {
         "name": "THE BEST History of GARNET CROW at the crest...",
         "url": "https://open.spotify.com/album/3e3NS2L4bziOWpIMvnRE3R"
       },

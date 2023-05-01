@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-299 songs - 21 hr 35 min
+300 songs - 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,8 @@
 | [Outer Spaceways Incorporated](https://open.spotify.com/track/6YG6A50jZi67JZMhzLgMWr) | [Bitchin Bajas](https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I) | [Switched On Ra](https://open.spotify.com/album/2q3htL7CiskaRfbmV1xXnn) | 4:01 | 2022-02-21 | 2022-09-01 |
 | [Ovule](https://open.spotify.com/track/01uiiE7cNaoMAvdtsiDqMd) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Fossora](https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy) | 3:38 | 2022-09-15 | 2022-11-09 |
 | [Ovule](https://open.spotify.com/track/3epjx0KBU45yCx7KtOXF2Z) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Ovule](https://open.spotify.com/album/5GQmiJ4JRv6pvcTZbBD4Wu) | 3:38 | 2022-09-15 | 2022-10-03 |
-| [Painted the Room](https://open.spotify.com/track/3iTYtpdS8JqWluLm92kuRH) | [Rozi Plain](https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x) | [Painted The Room](https://open.spotify.com/album/3c6Pgmn56EIAVFH3PtXyUL) | 4:13 | 2023-01-07 |  |
+| [Painted the Room](https://open.spotify.com/track/24IXYn8kl7J2E5pByVQHuj) | [Rozi Plain](https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x) | [Prize](https://open.spotify.com/album/0EMnfWB37amlYLEuQzoV3k) | 4:13 | 2023-01-07 |  |
+| [Painted the Room](https://open.spotify.com/track/3iTYtpdS8JqWluLm92kuRH) | [Rozi Plain](https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x) | [Painted The Room](https://open.spotify.com/album/3c6Pgmn56EIAVFH3PtXyUL) | 4:13 | 2023-01-07 | 2023-05-01 |
 | [Peak](https://open.spotify.com/track/5YKXTSsKm0HBuy7pX3IA0A) | [Rosa Anschütz](https://open.spotify.com/artist/1kjoxeQwJmoCfXT6j58MTm) | [Peak](https://open.spotify.com/album/20qgeY3lDZer4rY0Al8uKp) | 3:29 | 2022-04-23 | 2022-07-16 |
 | [Peculiar Machine \- Georgia Anne Muldrow Remix](https://open.spotify.com/track/2zHv421xcKeRKkeTU7S042) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX), [Georgia Anne Muldrow](https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31) | [Peculiar Machine \(Georgia Anne Muldrow Remix\)](https://open.spotify.com/album/0W2UKYTKWHpWkQnrOZgbCV) | 3:02 | 2021-10-06 |  |
 | [Phantom Throb](https://open.spotify.com/track/0QsQEgTZoi83rFri3jEKZt) | [Hymie's Basement](https://open.spotify.com/artist/13EcvIBumjgScGWRdX4z3b), [WHY?](https://open.spotify.com/artist/0d7aBBLFcc4dlETnae6zcH), [Fog](https://open.spotify.com/artist/07fCHWZAafI3Dd4T1svHhd) | [Phantom Throb](https://open.spotify.com/album/16Ef9V1B7iapKPERf50U3L) | 3:54 | 2022-01-11 |  |

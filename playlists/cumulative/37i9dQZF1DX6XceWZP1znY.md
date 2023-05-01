@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-736 songs - 2 day 0 hr 44 min
+737 songs - 2 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Fragile](https://open.spotify.com/track/0lwDsM44gtI63uJJvpK8n0) | [Moritani Misuzu \(CV:Miku Ito\)](https://open.spotify.com/artist/7h5059xZjFnV6s3wgWrVhd), [Murakami Haruka \(CV:Yume Miyamoto\)](https://open.spotify.com/artist/59Tr8uJ0cDXpg8UuOFPiov) | ["Fragtime" Theme Song "Fragile"](https://open.spotify.com/album/0hFdxPtj5PRgMDgESxtvMn) | 4:52 | 2022-06-07 | 2022-07-27 |
 | [from the edge](https://open.spotify.com/track/1HXRps6gmF8yMZPsJ6n9Zk) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [from the edge](https://open.spotify.com/album/6k8gWO2UT7VTHRGULu5xp7) | 4:38 | 2022-06-07 | 2022-07-29 |
 | [from the edge](https://open.spotify.com/track/1acwOlcOCrr0AxdyMS8fEm) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [from the edge](https://open.spotify.com/album/6Momtl3Eyp2g40MQU0r0I8) | 4:38 | 2022-06-07 | 2023-04-22 |
+| [from the edge](https://open.spotify.com/track/7LNsUhex5MXY66jiYGCxFT) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [PARADE](https://open.spotify.com/album/3Eyw8aU1Fn25ctcjd3GnMq) | 4:40 | 2023-04-21 |  |
 | [From The Seeds](https://open.spotify.com/track/7rv0QQvLHZH8wvJIZ1gO3G) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [From The Seeds](https://open.spotify.com/album/0PQ1rfMi5f98NdWILp3NOH) | 3:28 | 2022-06-07 | 2022-07-04 |
 | [FROZEN MIDNIGHT](https://open.spotify.com/track/3vI81nyW6KM3aFHld1BX6K) | [佐久間貴生](https://open.spotify.com/artist/2xTubMhZT8kMqvVsMEV5Mp) | [FROZEN MIDNIGHT](https://open.spotify.com/album/2W2vsABoSxtStk4BnmHWVL) | 3:36 | 2023-01-07 |  |
 | [GIRI GIRI](https://open.spotify.com/track/5RtsmtLsEnwa96TEf56tJQ) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [すぅ](https://open.spotify.com/artist/149u0vuCHOv84BU0PfhDXR) | [GIRI GIRI](https://open.spotify.com/album/25IInwsJmKOSgXib6cSYgN) | 4:18 | 2022-06-07 | 2022-10-04 |
@@ -618,7 +619,7 @@
 | [季節は次々死んでいく](https://open.spotify.com/track/1oouUW7rXRt0NYWnaSHS3O) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [世界収束二一一六](https://open.spotify.com/album/3dNDkkThX0BAuthyrSkgv8) | 5:38 | 2022-06-07 | 2022-07-28 |
 | [季節は次々死んでいく](https://open.spotify.com/track/6dQ3lcQG2MuIQ0P7GSYQeJ) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [世界収束二一一六](https://open.spotify.com/album/4gzo7ZCukhclkchnbixt0t) | 5:38 | 2022-06-07 |  |
 | [季路](https://open.spotify.com/track/2JFrbjQNJSBPeUz2Pn4ZaY) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [季路](https://open.spotify.com/album/6j0uUaKQdWOHV48kYA8fbA) | 5:52 | 2022-06-07 | 2022-07-29 |
-| [宿縁](https://open.spotify.com/track/6O3CyRXIXp0j2YYpmIxQFw) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [宿縁](https://open.spotify.com/album/6dT6HAU5koeNRTQBKywvbA) | 3:33 | 2023-02-20 |  |
+| [宿縁](https://open.spotify.com/track/6O3CyRXIXp0j2YYpmIxQFw) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [宿縁](https://open.spotify.com/album/6dT6HAU5koeNRTQBKywvbA) | 3:33 | 2023-02-20 | 2023-05-01 |
 | [導](https://open.spotify.com/track/39WmzOaep733aQIuD2RdXb) | [CIVILIAN](https://open.spotify.com/artist/0b2o5veg0MfvF2e11AWfaZ) | [導](https://open.spotify.com/album/0bAbm9kFoL2PUejBiA6hLF) | 4:51 | 2022-06-07 | 2022-07-23 |
 | [小喋日和](https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [小喋日和](https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz) | 3:47 | 2022-06-07 |  |
 | [山荷葉](https://open.spotify.com/track/2uqD9HIXiu72KNIy4CCCa9) | [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [山荷葉](https://open.spotify.com/album/3EsTLK73PrGDlRFNsn8eir) | 4:59 | 2022-06-07 | 2022-06-30 |

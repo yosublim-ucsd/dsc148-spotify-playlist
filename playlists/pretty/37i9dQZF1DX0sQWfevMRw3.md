@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > ETT GLAS TILL!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,221 likes - 103 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,311 likes - 103 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 88 | [Full blast](https://open.spotify.com/track/4jHnKENlmEuUM61bqtf7qA) | [JulleMeck](https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32) | [Full blast](https://open.spotify.com/album/4Qn12IcG7Cu6TehwoDehIn) | 2:34 |
 | 89 | [Varje gång jag ser dig \- Ullared \- EPA Remix \- Dansbandsrave](https://open.spotify.com/track/1c4ux2SjsIZ2Z2mH8SFaCQ) | [Fernandoz](https://open.spotify.com/artist/3HMZ4Ui5A6SEFgTkWzaMhv), [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9) | [Nu tar vi nya tag \(Deluxe Version\)](https://open.spotify.com/album/2g973QdyTS21AKuObwBRX2) | 2:29 |
 | 90 | [Vandraren \- J.O.X Remix](https://open.spotify.com/track/4EPLmKrfVWBUZZH13fZhuW) | [Nordman](https://open.spotify.com/artist/71c9ORC5hHt0J1TGCa5nxN), [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9) | [Vandraren \(J.O.X Remix\)](https://open.spotify.com/album/1R30p44LR9fjKV6rXFT55P) | 2:42 |
-| 91 | [HÖRRU BARTENDER](https://open.spotify.com/track/1mcr3HuCyabJgAZ9z0zVvx) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE), [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d) | [HÖRRU BARTENDER](https://open.spotify.com/album/1b9a5LDUt0kdBj6H6o2dOa) | 2:25 |
+| 91 | [Hörru Bartender](https://open.spotify.com/track/1CKkpWfkBMZCYVuYSpayEQ) | [Solveno](https://open.spotify.com/artist/3LLBXVL5YoPD962NlyrO17) | [Hörru Bartender](https://open.spotify.com/album/6jDaXekHfTncPxXeMtrVaV) | 2:25 |
 | 92 | [CLARK](https://open.spotify.com/track/5dfzFa1ui1uHqhdcFbs3C2) | [ShotLine](https://open.spotify.com/artist/7El3MpnDRD7JMdhvhrW3pn), [DJ Hellan](https://open.spotify.com/artist/65uIRTMznTeapqZ6SBy52z), [Fucktoyz](https://open.spotify.com/artist/3Dbyn9rbYNg2zgGBxoEulO) | [CLARK](https://open.spotify.com/album/4PBYJLf23LYzOngK3o87Z2) | 2:15 |
 | 93 | [Inget stoppar oss nu](https://open.spotify.com/track/0GWGeWIZ3ymAjgdcTLLrGy) | [Jonzon](https://open.spotify.com/artist/3f0cvh2BMxrJp4Aiirm5jZ) | [Inget stoppar oss nu](https://open.spotify.com/album/3BsPMNiSdrkkdJFPaEY5lW) | 2:56 |
 | 94 | [MER & MER](https://open.spotify.com/track/1puxV64QJkmRUhhXt4T9rD) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [MER & MER](https://open.spotify.com/album/6cxHLbeuGsPpVe2LoW3duK) | 2:23 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 102 | [FUCKED UP](https://open.spotify.com/track/33WyltHLE1G842rtcXE8yI) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Bangården](https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c) | [FUCKED UP](https://open.spotify.com/album/2fr0oCVpVFxHzkVYb6CBoM) | 2:24 |
 | 103 | [KAPTEN KAPTEN \- Radio Edit](https://open.spotify.com/track/6ZnNBc9aadApyNnQ3hgS8S) | [KaptenX](https://open.spotify.com/artist/5m1kkyZcYNKkjeAh6o9XLp), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [KAPTEN KAPTEN \(Radio Edit\)](https://open.spotify.com/album/3qawlLrgiH0LvtXGOS8rKC) | 2:36 |
 
-Snapshot ID: `MCxhZmE3NTQ3MjlkYTBmNjBjMjFmNzJkYWI3ZDJmMjQzZDE1MjNlMDA1`
+Snapshot ID: `MCwzYTA2ZGMwZWVkNjQxNWQ4YTUxZWYyZGFmZGE0OWMzNmIzMmM2NTVl`

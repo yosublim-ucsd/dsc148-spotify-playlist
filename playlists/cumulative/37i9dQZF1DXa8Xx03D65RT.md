@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-598 songs - 1 day 1 hr 20 min
+599 songs - 1 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [Just a Thought](https://open.spotify.com/track/0yoaGTIVmywSYedV1YsIhG) | [Victor Kovacs](https://open.spotify.com/artist/5JF3HMNudSKqJDkgCOzULV) | [Just a Thought](https://open.spotify.com/album/2ThuoXpPbWohcnLD3na9SP) | 2:34 | 2022-05-27 | 2023-04-14 |
 | [Just For Now](https://open.spotify.com/track/2mmkokfVO72zAHkz9OTRZO) | [Rich Mortimer](https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI) | [Just For Now](https://open.spotify.com/album/0eA9Y4ZuUUFAEySggUBnKV) | 1:50 | 2022-05-27 |  |
 | [Just Like Glass](https://open.spotify.com/track/77RVnHDxwWHltl9ZubyvOY) | [Aline Forma](https://open.spotify.com/artist/77gqTd54FTF2uKWV0RI7FU) | [Just Like Glass](https://open.spotify.com/album/0nSLtWGCUuX7Or7SoMHlEN) | 2:56 | 2022-05-27 | 2022-09-24 |
+| [Just Passing By](https://open.spotify.com/track/51zL0hF9UCIToxItCojCRP) | [Winifred Kang](https://open.spotify.com/artist/5r0SmbwJ70z8AoUrrbdRnU) | [Just Passing By](https://open.spotify.com/album/4naAhJ8qPaCcNd99DVrixB) | 2:02 | 2023-04-25 |  |
 | [Kaleidoscope](https://open.spotify.com/track/3WiissyVFRpCVrqbyPKZxZ) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Kaleidoscope](https://open.spotify.com/album/0eVw8w35dO9VuGLy4vOprZ) | 2:01 | 2022-05-27 |  |
 | [Kallsjön](https://open.spotify.com/track/2uyPvB17vM4oxgS8FV3PJR) | [August Wester](https://open.spotify.com/artist/3uBpvuGyzQzsXcJEVVeYL0) | [Kallsjön](https://open.spotify.com/album/4udm7ZuoIBCgayXyhoV1tc) | 1:51 | 2022-05-27 | 2022-09-24 |
 | [Karlovy Vary](https://open.spotify.com/track/6UQU3rbYYESsfBcJOvZDHB) | [Maxim Pellas](https://open.spotify.com/artist/6odoEK73GIfn9uuCvcYZl4) | [Karlovy Vary](https://open.spotify.com/album/42Bm4yEdjetR7e5rxM1PDJ) | 2:24 | 2022-05-27 |  |
@@ -391,7 +392,7 @@
 | [Paragon](https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6) | [Anton Lebedev](https://open.spotify.com/artist/1QCX4RcJeAWUjciKRD7bug) | [Paragon](https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe) | 2:40 | 2022-07-20 |  |
 | [Parisian Walkways](https://open.spotify.com/track/0Iv417JLAl33iLcVvfnkul) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [Parisian Walkways](https://open.spotify.com/album/1prLAGlb3KejKZWjOMWUIN) | 3:50 | 2023-02-20 |  |
 | [Pensierino](https://open.spotify.com/track/2r4aYjCB1TuQXVgRIPb3Oe) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Pensierino](https://open.spotify.com/album/4EpQQNXnD33xDH6Oaw6T8q) | 2:29 | 2022-05-27 | 2023-01-21 |
-| [Penumbra](https://open.spotify.com/track/6ju8Yz9swqGjPAtHtWFDVM) | [Valérie Beaumont](https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD) | [Penumbra](https://open.spotify.com/album/21kwKcryvuHzhqONHgQUAM) | 1:58 | 2022-05-27 |  |
+| [Penumbra](https://open.spotify.com/track/6ju8Yz9swqGjPAtHtWFDVM) | [Valérie Beaumont](https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD) | [Penumbra](https://open.spotify.com/album/21kwKcryvuHzhqONHgQUAM) | 1:58 | 2022-05-27 | 2023-05-01 |
 | [petite valse](https://open.spotify.com/track/5TZ5OgfQaJGchkQtHDhMhs) | [Anon Berg](https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg) | [petite valse](https://open.spotify.com/album/3s7rYgkSaI5b7NqNdEkgwF) | 2:13 | 2023-03-06 |  |
 | [Petrichor](https://open.spotify.com/track/27M7FdIBhufCksw0tQ1Vb9) | [Omri Grummet](https://open.spotify.com/artist/19LcF5dYN49CCl17FM7QYr) | [Petrichor](https://open.spotify.com/album/5e8gpa4yASJx8yTPZh51bz) | 2:27 | 2022-05-27 | 2023-01-21 |
 | [Phoneme](https://open.spotify.com/track/0NEX6oBUy1iu6KALZ1m94c) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Phoneme](https://open.spotify.com/album/02qm1YKdiB7UtLI1NdK9nK) | 2:51 | 2022-05-27 | 2023-01-21 |

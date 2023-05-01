@@ -4,7 +4,7 @@
 
 > Keeping the party going w/ Designer, Christopher John Rogers for the \#MetGala
 
-538 songs - 1 day 8 hr 37 min
+539 songs - 1 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,7 +283,8 @@
 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-05-27 | 2022-10-26 |
 | [Last Last](https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:52 | 2023-02-13 | 2023-04-29 |
 | [Law Of Attraction \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/25tXNghelZKdGZZVoSL9Yg) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 3:01 | 2021-11-10 | 2022-01-29 |
-| [Laws of the Universe](https://open.spotify.com/track/7mO2zFhGVdZdmGS7TMWH08) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/3KkxbmbkRvxghNwGwQRZcj) | 2:49 | 2023-04-28 |  |
+| [Laws of the Universe](https://open.spotify.com/track/4rMWnKX4szJV3k2FATLdnR) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri) | 2:49 | 2023-04-28 |  |
+| [Laws of the Universe](https://open.spotify.com/track/7mO2zFhGVdZdmGS7TMWH08) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/3KkxbmbkRvxghNwGwQRZcj) | 2:49 | 2023-04-28 | 2023-05-01 |
 | [Lay Wit Ya \(feat\. Duke Deuce\)](https://open.spotify.com/track/0RlsFYqkOzlg4ZxVQs9YJA) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [Lay Wit Ya \(feat\. Duke Deuce\)](https://open.spotify.com/album/0Y3NDVXecRTw8quOVxBBZ9) | 3:22 | 2022-03-05 | 2022-04-09 |
 | [Lento](https://open.spotify.com/track/3QfoAtiQSQQX63LS8TUec5) | [Professor](https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt), [Speedy](https://open.spotify.com/artist/75eRiT8WaCqjadLd21LkcF) | [University Of Kalawa Jazmee](https://open.spotify.com/album/7J9lTiY8QLrYXlTNQlUOME) | 5:46 | 2022-05-27 | 2022-08-25 |
 | [Let It Whip](https://open.spotify.com/track/2UCgWpa2r4ytWueNItYbWE) | [Dazz Band](https://open.spotify.com/artist/4n7L1vYXp4Dt0HfxaLBj9l) | [Keep It Live \(Expanded Edition\)](https://open.spotify.com/album/5m2wPGGx4dS3oIyAhoWi37) | 4:41 | 2023-04-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bgKEb1LOV6.md) - [plain]
 
 > NCTzens' go\-to place for all things NCT.
 
-[Spotify](https://open.spotify.com/user/spotify) - 636,946 likes - 117 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 637,028 likes - 117 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bgKEb1LOV6.md) - [plain]
 | 116 | [Pandora's Box](https://open.spotify.com/track/2eibpPa0zEyFb7SR4edlYp) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) | 4:09 |
 | 117 | [Best Friend](https://open.spotify.com/track/6YMy6nuK53ZSKOLlt2ytiY) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Boom \- The 3rd Mini Album](https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc) | 3:24 |
 
-Snapshot ID: `MCwyZTJkOGQ3NDk4MGQ4ZDJkMzk2YmZjNjRhOTJkYmJlNGQzNGM3ZTQ4`
+Snapshot ID: `MCxkZWM0YjkwNzk1NzQ5ZTMwY2I3M2U1MGMzYzNlNzM2ZmIzYjU4NmIy`

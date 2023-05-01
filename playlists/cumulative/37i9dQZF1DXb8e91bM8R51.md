@@ -4,7 +4,7 @@
 
 > Hip Hop pra fazer os corres da vida.
 
-328 songs - 18 hr 49 min
+329 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,8 @@
 | [Johnny P's Caddy](https://open.spotify.com/track/6AshXllQhobwSXsdpgp41w) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Johnny P's Caddy](https://open.spotify.com/album/1YKdJEzlhd5rsq03k7eWmM) | 3:45 | 2022-03-11 |  |
 | [Jumpin Out The Face](https://open.spotify.com/track/4YIC82vyZpWPc87MUK472B) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Jumpin Out The Face](https://open.spotify.com/album/0VVV8k3utS3P1PJlIVK0aj) | 2:50 | 2022-01-14 | 2022-07-02 |
 | [Kaiju](https://open.spotify.com/track/1yz2ll2Xi1ycXhkwxtsdQ3) | [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn), [DJ Scratch](https://open.spotify.com/artist/4vBBOm1tR7WToK4DZmDZAd) | [Saturday Afternoon Kung Fu Theater](https://open.spotify.com/album/2B1vfij3XHohiv36HUHhr1) | 3:03 | 2022-03-04 | 2022-04-08 |
-| [Kool Aid and Frozen Pizza](https://open.spotify.com/track/3VmrLy4WZLHDgTXENCIz2p) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Kool Aid and Frozen Pizza](https://open.spotify.com/album/7xHyZoZLGHVUCdZwG16Zd3) | 2:37 | 2022-01-14 |  |
+| [Kool Aid & Frozen Pizza](https://open.spotify.com/track/0SwxuVBPfjqR2kCnpDDnqp) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg) | 2:37 | 2023-04-21 |  |
+| [Kool Aid and Frozen Pizza](https://open.spotify.com/track/3VmrLy4WZLHDgTXENCIz2p) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Kool Aid and Frozen Pizza](https://open.spotify.com/album/7xHyZoZLGHVUCdZwG16Zd3) | 2:37 | 2022-01-14 | 2023-05-01 |
 | [Lane](https://open.spotify.com/track/17DG8UuM9rZpVnz44aJYpG) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj) | [Lane](https://open.spotify.com/album/3PMdJrGUZTY3ruBIQiFlPH) | 2:42 | 2022-04-29 | 2022-08-13 |
 | [late at night](https://open.spotify.com/track/1fxYz1s15pyZLsJT0Hdh1m) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [late at night](https://open.spotify.com/album/2WFC0XUBROo4X2vxLwtB4u) | 2:54 | 2022-01-14 |  |
 | [Lay Wit Ya \(feat\. Duke Deuce\)](https://open.spotify.com/track/0RlsFYqkOzlg4ZxVQs9YJA) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [Lay Wit Ya \(feat\. Duke Deuce\)](https://open.spotify.com/album/0Y3NDVXecRTw8quOVxBBZ9) | 3:22 | 2022-01-14 | 2023-03-03 |

@@ -1,12 +1,12 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 226948,
+  "num_followers": 226981,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOWVkZTk3NmNjMTIwOTFkYjhjMTQ2ZWRlNGJiMzVjOTgyMGVjMTJi",
+  "snapshot_id": "MCxjYmVkNDIxNzZiZjk3NzExZWE4MGJmMzE1ODE5NGQzNDUzMTkyNzQ1",
   "tracks": [
     {
       "added_at": "2023-01-25 16:05:09",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-01-25 16:05:09",
       "album": {
-        "name": "Mundu\u00ea",
-        "url": "https://open.spotify.com/album/3cfNClgPYBPdc851rk4E0p"
-      },
-      "artists": [
-        {
-          "name": "Diogo Nogueira",
-          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
-        }
-      ],
-      "duration_ms": 211059,
-      "name": "Coragem",
-      "url": "https://open.spotify.com/track/6r4C14W79TxEkYCEGpqITg"
-    },
-    {
-      "added_at": "2023-01-25 16:05:09",
-      "album": {
         "name": "Mais Feliz",
         "url": "https://open.spotify.com/album/4fN80AnER7ua5DH8U1A7k9"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 224376,
       "name": "Dependente Do Amor",
       "url": "https://open.spotify.com/track/0ONoYJqSkvUFp2wmNvH2kW"
+    },
+    {
+      "added_at": "2023-01-25 16:05:09",
+      "album": {
+        "name": "Mundu\u00ea",
+        "url": "https://open.spotify.com/album/3cfNClgPYBPdc851rk4E0p"
+      },
+      "artists": [
+        {
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        }
+      ],
+      "duration_ms": 211059,
+      "name": "Coragem",
+      "url": "https://open.spotify.com/track/6r4C14W79TxEkYCEGpqITg"
     },
     {
       "added_at": "2023-01-25 16:05:09",
@@ -651,18 +651,22 @@
     {
       "added_at": "2023-01-25 16:05:09",
       "album": {
-        "name": "Meus Momentos",
-        "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
+        "name": "Roda de Samba do Fundo de Quintal no Cacique de Ramos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7t8nVY3TatDEUVFRMSkEA5"
       },
       "artists": [
         {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+          "name": "Grupo Fundo De Quintal",
+          "url": "https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/1MZbqhtvsnD5ik9BofnTow"
         }
       ],
-      "duration_ms": 179120,
-      "name": "O Mar Serenou",
-      "url": "https://open.spotify.com/track/5rsdJ481oIM9OYyrqcEwWt"
+      "duration_ms": 146613,
+      "name": "Caciqueando - Ao Vivo",
+      "url": "https://open.spotify.com/track/0QRctW6iyXZIVML10fCIsT"
     },
     {
       "added_at": "2023-01-25 16:05:09",
@@ -683,22 +687,18 @@
     {
       "added_at": "2023-01-25 16:05:09",
       "album": {
-        "name": "Roda de Samba do Fundo de Quintal no Cacique de Ramos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7t8nVY3TatDEUVFRMSkEA5"
+        "name": "Meus Momentos",
+        "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
       },
       "artists": [
         {
-          "name": "Grupo Fundo De Quintal",
-          "url": "https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr"
-        },
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/1MZbqhtvsnD5ik9BofnTow"
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
         }
       ],
-      "duration_ms": 146613,
-      "name": "Caciqueando - Ao Vivo",
-      "url": "https://open.spotify.com/track/0QRctW6iyXZIVML10fCIsT"
+      "duration_ms": 179120,
+      "name": "O Mar Serenou",
+      "url": "https://open.spotify.com/track/5rsdJ481oIM9OYyrqcEwWt"
     },
     {
       "added_at": "2023-01-25 16:05:09",

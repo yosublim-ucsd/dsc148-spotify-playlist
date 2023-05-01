@@ -4,7 +4,7 @@
 
 > Experimental electronic beyond the borders of tradition.
 
-118 songs - 9 hr 7 min
+119 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Node](https://open.spotify.com/track/3nl1xQyRdjGkc85I92EBac) | [Rhombus Index](https://open.spotify.com/artist/0Uld6wwtj0uNmhItPuZp2H) | [Planar EP](https://open.spotify.com/album/0d9VoYD8bZjuLMImq5Pqbh) | 7:24 | 2021-10-15 |  |
 | [Nychthemera in A Major](https://open.spotify.com/track/1VXkNxE0szN2MNsk4x7P8C) | [Time Binding Ensemble](https://open.spotify.com/artist/3J38y27gYbg3Nea2kHAOsC) | [Nothing New Under the Sun](https://open.spotify.com/album/1jfzhXPBdOKHgWN8NyIZPt) | 3:40 | 2021-10-15 |  |
 | [Oakmoss and Amber](https://open.spotify.com/track/6AjGWQEtHL9hFL8EMcfvJg) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Oakmoss and Amber](https://open.spotify.com/album/4dDNoAk8t7mP3hcheAHP4E) | 3:03 | 2021-10-15 | 2022-05-06 |
-| [Obstacle 3](https://open.spotify.com/track/1yXREWH3oLHvLksoVRhdjc) | [Rian Treanor](https://open.spotify.com/artist/6un6trkuuP46AZM0kkY8Yx) | [Obstacle Scattering](https://open.spotify.com/album/6githYTrl857l9544L4Us9) | 5:12 | 2022-06-14 |  |
+| [Obstacle 3](https://open.spotify.com/track/1yXREWH3oLHvLksoVRhdjc) | [Rian Treanor](https://open.spotify.com/artist/6un6trkuuP46AZM0kkY8Yx) | [Obstacle Scattering](https://open.spotify.com/album/6githYTrl857l9544L4Us9) | 5:12 | 2022-06-14 | 2023-05-01 |
+| [Obstacle 3](https://open.spotify.com/track/2BOrJxK7dkocVTUmeCHMSU) | [Rian Treanor](https://open.spotify.com/artist/6un6trkuuP46AZM0kkY8Yx) | [Obstacle Scattering](https://open.spotify.com/album/2LqbIBaJIgsCC6aoNd8SmO) | 5:12 | 2022-06-14 |  |
 | [Obstacle 3](https://open.spotify.com/track/5QhANWI0Y92nrUezCV4wUm) | [Rian Treanor](https://open.spotify.com/artist/6un6trkuuP46AZM0kkY8Yx) | [Obstacle 3](https://open.spotify.com/album/6o66Hm4d9kxKv0mdBk2y0O) | 5:12 | 2021-10-15 | 2022-07-29 |
 | [Old Wives Tale](https://open.spotify.com/track/6P5mzQQddhBUa4EE3n6Zlu) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Old Wives Tale](https://open.spotify.com/album/1rM2WHjFo4m9P3McADxcC8) | 5:17 | 2021-10-15 |  |
 | [Olga](https://open.spotify.com/track/1jCOMWObV0nWG0qqjcPKwi) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [LP.8](https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh) | 3:02 | 2022-05-06 |  |

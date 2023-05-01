@@ -1500,7 +1500,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -7260,7 +7260,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 206693,
       "name": "Felga",
       "url": "https://open.spotify.com/track/5WejXxDkYAb86sLa5QOg8m"
@@ -14160,7 +14160,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 212520,
       "name": "Mustang",
       "url": "https://open.spotify.com/track/22F12Z9OfFiA2i8JQ2Rd3G"
@@ -14498,7 +14498,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 130285,
       "name": "M\u0141ODY PADEREWSKI",
       "url": "https://open.spotify.com/track/05MYJf19LSo2E1lZ0RrMAC"
@@ -17028,6 +17028,24 @@
       "duration_ms": 178862,
       "name": "Parostatek",
       "url": "https://open.spotify.com/track/1X60z5rwi3IkF5wVtmyjZY"
+    },
+    {
+      "album": {
+        "name": "Annoyance and Disappointment",
+        "url": "https://open.spotify.com/album/2OHeBBlmX51KCY1UTqxDZ4"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182279,
+      "name": "Pastempomat",
+      "url": "https://open.spotify.com/track/5hYQAKnuCccdHmp0zCjLlE"
     },
     {
       "album": {
@@ -19636,7 +19654,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 185000,
       "name": "RONDO",
       "url": "https://open.spotify.com/track/6bj4cH8DseYmq9G1fQ8CZV"
@@ -22600,7 +22618,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 127218,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/1yajlpkjdjPfj4XZ3ES140"
@@ -23550,6 +23568,28 @@
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+    },
+    {
+      "album": {
+        "name": "Whistle (feat. Calum Scott)",
+        "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181957,
+      "name": "Whistle (feat. Calum Scott)",
+      "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
     },
     {
       "album": {
@@ -24504,7 +24544,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 191946,
       "name": "Za Daleko",
       "url": "https://open.spotify.com/track/6xOZxa5aOEdLvXSTMwDCjm"
@@ -25354,7 +25394,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 146269,
       "name": "Z\u0142ote Tarasy",
       "url": "https://open.spotify.com/track/0dorKIz071s55Jy0zxb4aW"

@@ -1,12 +1,12 @@
 {
   "description": "All <a href=\"spotify:genre:bass\">wobble</a>. Cover: 12th Planet",
-  "num_followers": 998533,
+  "num_followers": 998557,
   "original_name": "Dubstep Don",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGMyMjAyNmVkZmQ5ODRlYjA5MjdmZmNiODBiZmJjNTdkZTUwZTRi",
+  "snapshot_id": "MCw0MGVmMDRlODI5MWNjNDgxNTJmYjk4YzFhZTA0MzU5MWFhZmZjMDhi",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/6NyCqZSQdkZimUqULFUIPG"
-      },
-      "artists": [
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        }
-      ],
-      "duration_ms": 211267,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/2n7eITOXa1UK6AksMavXk6"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Badman",
         "url": "https://open.spotify.com/album/4f0FE4P7anMAw408gGqkZT"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 273333,
       "name": "Badman",
       "url": "https://open.spotify.com/track/5RD6iZpOFkVuT3SW4eAHuZ"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/6NyCqZSQdkZimUqULFUIPG"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        }
+      ],
+      "duration_ms": 211267,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/2n7eITOXa1UK6AksMavXk6"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1015,30 +1015,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Purgatory (Dion Timmer Remix)",
-        "url": "https://open.spotify.com/album/4G3nrWEHQwnmgof31hbqxk"
-      },
-      "artists": [
-        {
-          "name": "ATLiens",
-          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
-        },
-        {
-          "name": "SVDDEN DEATH",
-          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
-        },
-        {
-          "name": "Dion Timmer",
-          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
-        }
-      ],
-      "duration_ms": 170897,
-      "name": "Purgatory - Dion Timmer Remix",
-      "url": "https://open.spotify.com/track/4dUlSREV9ZfoogtHIcgy2e"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Bussin Bussin (feat. JV Rhymes)",
         "url": "https://open.spotify.com/album/1RVaWpU0bqwfPazcEjWacX"
       },
@@ -1059,6 +1035,30 @@
       "duration_ms": 213517,
       "name": "Bussin Bussin (feat. JV Rhymes)",
       "url": "https://open.spotify.com/track/7e9hK7EA6ErF1FfARROJQE"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Purgatory (Dion Timmer Remix)",
+        "url": "https://open.spotify.com/album/4G3nrWEHQwnmgof31hbqxk"
+      },
+      "artists": [
+        {
+          "name": "ATLiens",
+          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
+        },
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        },
+        {
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+        }
+      ],
+      "duration_ms": 170897,
+      "name": "Purgatory - Dion Timmer Remix",
+      "url": "https://open.spotify.com/track/4dUlSREV9ZfoogtHIcgy2e"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "A Brief Tutorial On Dubstep Production (Kayzo Remix)",
-        "url": "https://open.spotify.com/album/5XtE33BRDYkaXo80TS9Yr0"
-      },
-      "artists": [
-        {
-          "name": "Dubba Jonny",
-          "url": "https://open.spotify.com/artist/4rv9ymvcXOcbHrjkMkoA32"
-        },
-        {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
-        }
-      ],
-      "duration_ms": 133714,
-      "name": "A Brief Tutorial On Dubstep Production - Kayzo Remix",
-      "url": "https://open.spotify.com/track/2mHY0y8Gw7dtsTYHX7fjvy"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "The Blood (VIP)",
         "url": "https://open.spotify.com/album/1EOCEm6RPojx6UVxfHoqk4"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 276800,
       "name": "The Blood (VIP)",
       "url": "https://open.spotify.com/track/4QwU0k7uWf4yG104CAEsCv"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "A Brief Tutorial On Dubstep Production (Kayzo Remix)",
+        "url": "https://open.spotify.com/album/5XtE33BRDYkaXo80TS9Yr0"
+      },
+      "artists": [
+        {
+          "name": "Dubba Jonny",
+          "url": "https://open.spotify.com/artist/4rv9ymvcXOcbHrjkMkoA32"
+        },
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        }
+      ],
+      "duration_ms": 133714,
+      "name": "A Brief Tutorial On Dubstep Production - Kayzo Remix",
+      "url": "https://open.spotify.com/track/2mHY0y8Gw7dtsTYHX7fjvy"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "MIDHEAVEN: OPUS 03",
+        "url": "https://open.spotify.com/album/7ez4I4pNTSj2Dv5NEH6s3l"
+      },
+      "artists": [
+        {
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
+        }
+      ],
+      "duration_ms": 147529,
+      "name": "BDASWY",
+      "url": "https://open.spotify.com/track/2tcP7gI5IbWf347fKSMh89"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Technicolour Psychic Vision",
         "url": "https://open.spotify.com/album/3paOlnwvgkaKB8yej7GfLQ"
       },
@@ -1319,18 +1335,34 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "MIDHEAVEN: OPUS 03",
-        "url": "https://open.spotify.com/album/7ez4I4pNTSj2Dv5NEH6s3l"
+        "name": "EYE OF THE STORM",
+        "url": "https://open.spotify.com/album/5QGsRIGb79JOvC2PimldPj"
       },
       "artists": [
         {
-          "name": "Deathpact",
-          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
+          "name": "LAYZ",
+          "url": "https://open.spotify.com/artist/2ozQcs5XxFaj5fvA02zhwo"
         }
       ],
-      "duration_ms": 147529,
-      "name": "BDASWY",
-      "url": "https://open.spotify.com/track/2tcP7gI5IbWf347fKSMh89"
+      "duration_ms": 161600,
+      "name": "SURGE",
+      "url": "https://open.spotify.com/track/20HSKZ4jG733BYqSDFTPgW"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Streets",
+        "url": "https://open.spotify.com/album/32nWboshupCJKvMhWhaetb"
+      },
+      "artists": [
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        }
+      ],
+      "duration_ms": 227586,
+      "name": "Streets",
+      "url": "https://open.spotify.com/track/73SLjEpuUqy13FS7HyewkM"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1355,38 +1387,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Streets",
-        "url": "https://open.spotify.com/album/32nWboshupCJKvMhWhaetb"
-      },
-      "artists": [
-        {
-          "name": "RIOT",
-          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
-        }
-      ],
-      "duration_ms": 227586,
-      "name": "Streets",
-      "url": "https://open.spotify.com/track/73SLjEpuUqy13FS7HyewkM"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "EYE OF THE STORM",
-        "url": "https://open.spotify.com/album/5QGsRIGb79JOvC2PimldPj"
-      },
-      "artists": [
-        {
-          "name": "LAYZ",
-          "url": "https://open.spotify.com/artist/2ozQcs5XxFaj5fvA02zhwo"
-        }
-      ],
-      "duration_ms": 161600,
-      "name": "SURGE",
-      "url": "https://open.spotify.com/track/20HSKZ4jG733BYqSDFTPgW"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Feel The Panic EP",
         "url": "https://open.spotify.com/album/0cqklN2AwGsjJpKwBAvfmZ"
       },
@@ -1403,6 +1403,26 @@
       "duration_ms": 192857,
       "name": "Crash Landing",
       "url": "https://open.spotify.com/track/3nwiXEeuhYGWszEWPOzvK4"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Unity",
+        "url": "https://open.spotify.com/album/2AhomobPIGZiBZodF1cVEg"
+      },
+      "artists": [
+        {
+          "name": "Ganja White Night",
+          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+        },
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        }
+      ],
+      "duration_ms": 355364,
+      "name": "Kill to Feel",
+      "url": "https://open.spotify.com/track/4hSCaNNtzVlek62PCmsti5"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1507,6 +1527,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "SINEWS",
+        "url": "https://open.spotify.com/album/2KEkqeDzoEy0EgSIbhpnT0"
+      },
+      "artists": [
+        {
+          "name": "MARAUDA",
+          "url": "https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4"
+        }
+      ],
+      "duration_ms": 156734,
+      "name": "SINEWS",
+      "url": "https://open.spotify.com/track/32C0l5Z0RDRfvWVlLXwOhr"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "NEW BREED",
         "url": "https://open.spotify.com/album/5zHzlUyTFZstQbmjb4EqwH"
       },
@@ -1527,22 +1563,6 @@
       "duration_ms": 166875,
       "name": "BURN IT DOWN",
       "url": "https://open.spotify.com/track/77elxudyDSnfEGEoEwI5Ix"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "SINEWS",
-        "url": "https://open.spotify.com/album/2KEkqeDzoEy0EgSIbhpnT0"
-      },
-      "artists": [
-        {
-          "name": "MARAUDA",
-          "url": "https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4"
-        }
-      ],
-      "duration_ms": 156734,
-      "name": "SINEWS",
-      "url": "https://open.spotify.com/track/32C0l5Z0RDRfvWVlLXwOhr"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1695,22 +1715,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Protocol",
-        "url": "https://open.spotify.com/album/7HyciiVlRwQiVqpvvVrf5l"
-      },
-      "artists": [
-        {
-          "name": "Dion Timmer",
-          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
-        }
-      ],
-      "duration_ms": 184975,
-      "name": "Protocol",
-      "url": "https://open.spotify.com/track/6RUTzFmBtIl5nRpkEXiIQ5"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Riding",
         "url": "https://open.spotify.com/album/3RQ94ZihivquswjmGRt0sx"
       },
@@ -1731,6 +1735,22 @@
       "duration_ms": 214285,
       "name": "Riding",
       "url": "https://open.spotify.com/track/7K0EHTQIjeaG5TXEzzHBRL"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Protocol",
+        "url": "https://open.spotify.com/album/7HyciiVlRwQiVqpvvVrf5l"
+      },
+      "artists": [
+        {
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+        }
+      ],
+      "duration_ms": 184975,
+      "name": "Protocol",
+      "url": "https://open.spotify.com/track/6RUTzFmBtIl5nRpkEXiIQ5"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1759,22 +1779,42 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Unity",
-        "url": "https://open.spotify.com/album/2AhomobPIGZiBZodF1cVEg"
+        "name": "Disobey",
+        "url": "https://open.spotify.com/album/5d4dOyPky2LcccgZrskHkG"
       },
       "artists": [
         {
-          "name": "Ganja White Night",
-          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
         },
         {
-          "name": "Infected Mushroom",
-          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+          "name": "Topias Jokipii",
+          "url": "https://open.spotify.com/artist/0K4Q4zrfJ28FXsKCemfrHn"
         }
       ],
-      "duration_ms": 355364,
-      "name": "Kill to Feel",
-      "url": "https://open.spotify.com/track/4hSCaNNtzVlek62PCmsti5"
+      "duration_ms": 156431,
+      "name": "Disobey",
+      "url": "https://open.spotify.com/track/6woe2jQjDfEpFK2JhC4rLk"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Phantasmagorical",
+        "url": "https://open.spotify.com/album/7uL3Va7rHAp58juYqkuM7e"
+      },
+      "artists": [
+        {
+          "name": "Mr. Bill",
+          "url": "https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB"
+        },
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        }
+      ],
+      "duration_ms": 123415,
+      "name": "Pleasure Seeker - Virtual Riot Remix",
+      "url": "https://open.spotify.com/track/1VNUgCP4mm7EuOMP7jAmZZ"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1799,26 +1839,6 @@
       "duration_ms": 253935,
       "name": "HARD HEADZ",
       "url": "https://open.spotify.com/track/79DeXXSTNCKwo1Ii6LuGpI"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Phantasmagorical",
-        "url": "https://open.spotify.com/album/7uL3Va7rHAp58juYqkuM7e"
-      },
-      "artists": [
-        {
-          "name": "Mr. Bill",
-          "url": "https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB"
-        },
-        {
-          "name": "Virtual Riot",
-          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
-        }
-      ],
-      "duration_ms": 123415,
-      "name": "Pleasure Seeker - Virtual Riot Remix",
-      "url": "https://open.spotify.com/track/1VNUgCP4mm7EuOMP7jAmZZ"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1879,22 +1899,26 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Never Let Go",
-        "url": "https://open.spotify.com/album/2tt3E5srfER0YtpRfIAK7M"
+        "name": "Cold Case (VIP)",
+        "url": "https://open.spotify.com/album/4JLyjTkd8KIRPAtRVnwD13"
       },
       "artists": [
         {
-          "name": "Dion Timmer",
-          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
         },
         {
-          "name": "Haley Maze",
-          "url": "https://open.spotify.com/artist/5PlcCzule32PNZ0ZzXD6Ug"
+          "name": "Chassi",
+          "url": "https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky"
+        },
+        {
+          "name": "BLUPILL",
+          "url": "https://open.spotify.com/artist/3ZJYnAKri70UCI388uqGac"
         }
       ],
-      "duration_ms": 181098,
-      "name": "Never Let Go",
-      "url": "https://open.spotify.com/track/5fRv7CHYesjbCTrqmwyAGw"
+      "duration_ms": 128000,
+      "name": "Cold Case - VIP",
+      "url": "https://open.spotify.com/track/0l5fWjOl1LaY8LdGpMVAaa"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1939,26 +1963,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Cold Case (VIP)",
-        "url": "https://open.spotify.com/album/4JLyjTkd8KIRPAtRVnwD13"
+        "name": "Never Let Go",
+        "url": "https://open.spotify.com/album/2tt3E5srfER0YtpRfIAK7M"
       },
       "artists": [
         {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
         },
         {
-          "name": "Chassi",
-          "url": "https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky"
-        },
-        {
-          "name": "BLUPILL",
-          "url": "https://open.spotify.com/artist/3ZJYnAKri70UCI388uqGac"
+          "name": "Haley Maze",
+          "url": "https://open.spotify.com/artist/5PlcCzule32PNZ0ZzXD6Ug"
         }
       ],
-      "duration_ms": 128000,
-      "name": "Cold Case - VIP",
-      "url": "https://open.spotify.com/track/0l5fWjOl1LaY8LdGpMVAaa"
+      "duration_ms": 181098,
+      "name": "Never Let Go",
+      "url": "https://open.spotify.com/track/5fRv7CHYesjbCTrqmwyAGw"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -2073,26 +2093,6 @@
       "url": "https://open.spotify.com/track/1kfRotqCTlq1ZsSHpd8l7W"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Disobey",
-        "url": "https://open.spotify.com/album/5d4dOyPky2LcccgZrskHkG"
-      },
-      "artists": [
-        {
-          "name": "Borgore",
-          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
-        },
-        {
-          "name": "Topias Jokipii",
-          "url": "https://open.spotify.com/artist/0K4Q4zrfJ28FXsKCemfrHn"
-        }
-      ],
-      "duration_ms": 156431,
-      "name": "Disobey",
-      "url": "https://open.spotify.com/track/6woe2jQjDfEpFK2JhC4rLk"
-    },
-    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "ANTIFRACTALS",
@@ -2163,6 +2163,26 @@
       "duration_ms": 247266,
       "name": "The Depths",
       "url": "https://open.spotify.com/track/7nyEoRvsBodEvuGTSZpbcx"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Event Horizon",
+        "url": "https://open.spotify.com/album/1NyJ0JVameoQbDzzaR6liX"
+      },
+      "artists": [
+        {
+          "name": "Hi I'm Ghost",
+          "url": "https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34"
+        },
+        {
+          "name": "INVCT",
+          "url": "https://open.spotify.com/artist/5cu8lLNHcyHp1w6U1s5JZK"
+        }
+      ],
+      "duration_ms": 172137,
+      "name": "Event Horizon",
+      "url": "https://open.spotify.com/track/0l2DanUokW2ZR69z2nGILg"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -2239,6 +2259,26 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/6dxaFv8dPO6GXRNbBFAcuq"
+      },
+      "artists": [
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 226333,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/1dNEaEL6b6SrYmsmC2lwbW"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Haxo (Sharks Remix)",
         "url": "https://open.spotify.com/album/0iB4RlVaPtgJchRRY8SpVj"
       },
@@ -2263,22 +2303,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/6dxaFv8dPO6GXRNbBFAcuq"
+        "name": "Spirit Showdown",
+        "url": "https://open.spotify.com/album/0TyETORpxRBLifisOAJkvs"
       },
       "artists": [
         {
-          "name": "SNAILS",
-          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+          "name": "Ace Aura",
+          "url": "https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq"
         },
         {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+          "name": "Phocust",
+          "url": "https://open.spotify.com/artist/3Aov39Y01vC3JXRQiw3Pd0"
         }
       ],
-      "duration_ms": 226333,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/1dNEaEL6b6SrYmsmC2lwbW"
+      "duration_ms": 201600,
+      "name": "Spirit Showdown",
+      "url": "https://open.spotify.com/track/0a1Bc8bJJ0xIZU4KMrO7et"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -2299,26 +2339,6 @@
       "duration_ms": 166400,
       "name": "GAME OVER",
       "url": "https://open.spotify.com/track/0MwhtZx5lhT4HUey9HPwoW"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Spirit Showdown",
-        "url": "https://open.spotify.com/album/0TyETORpxRBLifisOAJkvs"
-      },
-      "artists": [
-        {
-          "name": "Ace Aura",
-          "url": "https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq"
-        },
-        {
-          "name": "Phocust",
-          "url": "https://open.spotify.com/artist/3Aov39Y01vC3JXRQiw3Pd0"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Spirit Showdown",
-      "url": "https://open.spotify.com/track/0a1Bc8bJJ0xIZU4KMrO7et"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -2385,26 +2405,6 @@
       "url": "https://open.spotify.com/track/7K8fmTPRda4YWsBTnin2nr"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Event Horizon",
-        "url": "https://open.spotify.com/album/1NyJ0JVameoQbDzzaR6liX"
-      },
-      "artists": [
-        {
-          "name": "Hi I'm Ghost",
-          "url": "https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34"
-        },
-        {
-          "name": "INVCT",
-          "url": "https://open.spotify.com/artist/5cu8lLNHcyHp1w6U1s5JZK"
-        }
-      ],
-      "duration_ms": 172137,
-      "name": "Event Horizon",
-      "url": "https://open.spotify.com/track/0l2DanUokW2ZR69z2nGILg"
-    },
-    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "stinkypoopy",
@@ -2459,22 +2459,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Buckle Up",
-        "url": "https://open.spotify.com/album/1Y7XTqyNmMflkVxWlLOBmz"
+        "name": "Mass Destruction",
+        "url": "https://open.spotify.com/album/2FNnWBk29lwRlR5XikUoE8"
       },
       "artists": [
         {
-          "name": "Sully",
-          "url": "https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK"
+          "name": "AlienPark",
+          "url": "https://open.spotify.com/artist/7xtEdHtZ1CdyPAY4px5N3R"
         },
         {
-          "name": "Hairitage",
-          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
+          "name": "Usaybflow",
+          "url": "https://open.spotify.com/artist/4lZyQiNEwbXNpy5WBG8P9i"
         }
       ],
-      "duration_ms": 195692,
-      "name": "Buckle Up",
-      "url": "https://open.spotify.com/track/6DzgdoD0Dv3JQhU5bsg6IR"
+      "duration_ms": 211200,
+      "name": "Mass Destruction",
+      "url": "https://open.spotify.com/track/1RAFDlJk4pf9VfNbuLjxMA"
     },
     {
       "added_at": "2023-04-21 04:00:00",

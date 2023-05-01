@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Mrs\. GREEN APPLE \*👉 <a href="https://spice.eplus.jp/articles/317605?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,678 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,712 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [春をかぐ街で](https://open.spotify.com/track/6JAfs28b4i8pqvQDkX0zLw) | [弁天ランド](https://open.spotify.com/artist/5b2XKPrpk1lCZlabEwUpjZ) | [春をかぐ街で](https://open.spotify.com/album/5HK1MYvKZv9aCHaoqxb1Cg) | 4:50 |
 | 80 | [Pretty in pink](https://open.spotify.com/track/4xCy0UyJ5qMx0bbt4F9B0d) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Pretty in pink](https://open.spotify.com/album/5Cgh8OZAJ8Y6haJyxMzBVH) | 2:56 |
 
-Snapshot ID: `MCwzNDUxNDcxODExNzA1MGM0ZWUyMDQyZGExYWYxNWMzM2Q0MjQ2ODBk`
+Snapshot ID: `MCxmMmI2N2IxYmM5NDA2NGJmOTAzNDhkNTI5NmI4NjcxZGJhNDFmMjkw`

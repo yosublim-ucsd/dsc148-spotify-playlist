@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Carin Leon
 
-118 songs - 6 hr 31 min
+119 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [gracias a la vida](https://open.spotify.com/track/0ROvxmZFJNRm0PyYcFKHbm) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 4:32 | 2021-12-10 |  |
 | [Gracias A La Vida](https://open.spotify.com/track/5bHSXxczMdoPWVg3RemYHq) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Liberty: Piano Songbook](https://open.spotify.com/album/5osw6hJrMHsAFfKuJUlHMW) | 2:46 | 2021-12-10 | 2022-09-03 |
 | [Hell in a Handbag](https://open.spotify.com/track/3AU9pWnplEeKOQP55P66kr) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [Hell in a Handbag](https://open.spotify.com/album/7El9JLvuISfaC9EZACDzX7) | 3:23 | 2021-12-10 | 2023-03-25 |
-| [Hell in a Handbag](https://open.spotify.com/track/4bzfqry6i0gBvGTh8mLg9M) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [Hell in a Handbag](https://open.spotify.com/album/38TOkbMjRxyTjkEFCNZsGs) | 3:24 | 2023-03-03 |  |
+| [Hell in a Handbag](https://open.spotify.com/track/3e9ZP37G8w1q1v71bEpeaw) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Hard Way](https://open.spotify.com/album/4fo3Nvdjbwjz4Qc9dfMemp) | 3:24 | 2023-04-28 |  |
+| [Hell in a Handbag](https://open.spotify.com/track/4bzfqry6i0gBvGTh8mLg9M) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [Hell in a Handbag](https://open.spotify.com/album/38TOkbMjRxyTjkEFCNZsGs) | 3:24 | 2023-03-03 | 2023-05-01 |
 | [Hey Baby Que Pasó \- Live from Texas](https://open.spotify.com/track/6w7T58kAjQNfp0jG9UheoJ) | [The Last Bandoleros](https://open.spotify.com/artist/3Zk03qhmFLepNYW2atWkmE) | [Hey Baby Que Pasó \(Live from Texas\)](https://open.spotify.com/album/7sSnNlqb9e8qqLwpkNlAfD) | 3:13 | 2021-12-10 |  |
 | [Hey There Delilah](https://open.spotify.com/track/6DcuRMCIu66fLSGiS0MgZ8) | [EZ Band](https://open.spotify.com/artist/2gTWLwanLiNZFR0iNPD847) | [Make it Norteño Vol\. 1](https://open.spotify.com/album/7h2wTuvmqp4qoDfrOh10rs) | 3:52 | 2023-01-27 |  |
 | [Homesick](https://open.spotify.com/track/7esySixzBv7n9uM259kLeP) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Homesick](https://open.spotify.com/album/7BZblgdX1lrGf0sdu0MG3P) | 3:24 | 2021-12-10 |  |

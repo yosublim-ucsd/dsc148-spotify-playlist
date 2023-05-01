@@ -4,7 +4,7 @@
 
 > Raw, emotional, and acoustic\. Cover: Charlie Musselwhite
 
-164 songs - 10 hr 14 min
+165 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,8 @@
 | [Riding In the Moonlight / Mr\. Luck](https://open.spotify.com/track/1mkxMjrjzzXU9mg4S375Zo) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Blue Highways](https://open.spotify.com/album/5IzvgXy4fmGzgxkfVS2tul) | 2:57 | 2020-08-11 | 2022-07-29 |
 | [Riding In the Moonlight / Mr\. Luck](https://open.spotify.com/track/1rmpguQGqC1YWy9i99YIQC) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Blue Highways](https://open.spotify.com/album/6mzGzBApcOc4JDzzFZTljw) | 2:57 | 2020-08-11 |  |
 | [Right Here](https://open.spotify.com/track/2L7M2b2WZJkPSvPGy9BBmi) | [Keller Williams](https://open.spotify.com/artist/5de5W8sgXIMq9dgMR0Wml0) | [Raw](https://open.spotify.com/album/6s7Uv2kwhvuRCcFPPa4n6K) | 5:48 | 2020-08-11 |  |
-| [Running Through High Water](https://open.spotify.com/track/0D4hafcSvGv5r9h2WWJaaS) | [Bob Margolin](https://open.spotify.com/artist/65SzANOjjJbCdHGbjDkPMU), [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Jimmy Vivino](https://open.spotify.com/artist/7iofSqO1VWjI5zxIh21vOQ) | [So Far](https://open.spotify.com/album/6GtrAnXKQgxz1QLs1yPYLq) | 4:32 | 2022-06-17 |  |
+| [Running Through High Water](https://open.spotify.com/track/0D4hafcSvGv5r9h2WWJaaS) | [Bob Margolin](https://open.spotify.com/artist/65SzANOjjJbCdHGbjDkPMU), [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Jimmy Vivino](https://open.spotify.com/artist/7iofSqO1VWjI5zxIh21vOQ) | [So Far](https://open.spotify.com/album/6GtrAnXKQgxz1QLs1yPYLq) | 4:32 | 2022-06-17 | 2023-05-01 |
+| [Running Through High Water](https://open.spotify.com/track/1JNuSLtYrq5TExAQj4hgBG) | [Bob Margolin](https://open.spotify.com/artist/65SzANOjjJbCdHGbjDkPMU), [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Jimmy Vivino](https://open.spotify.com/artist/7iofSqO1VWjI5zxIh21vOQ) | [So Far](https://open.spotify.com/album/1BwFy9B8atyBeOWMlK0tCN) | 4:32 | 2022-06-17 |  |
 | [Samson And Delilah](https://open.spotify.com/track/2xyA4n0bCLCQzXYskm4EZV) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Harlem Street Singer](https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr) | 4:03 | 2020-08-11 |  |
 | [Samson And Delilah](https://open.spotify.com/track/3Z1uHWxTB4YF82VSaSyrDa) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Harlem Street Singer \(Remastered\)](https://open.spotify.com/album/4IwcZDJileSoKXbfQjyRFB) | 4:03 | 2020-08-11 | 2022-07-29 |
 | [Searching Blues](https://open.spotify.com/track/1RWAsPQhpizSGmO8YWmS8M) | [Manuel Galvin](https://open.spotify.com/artist/5OiXz8xSD4YGtm7vYDZ0Gs), [Michael Robinson](https://open.spotify.com/artist/4rmqOj8syPDp0g3MpWxCus) | [American Heritage](https://open.spotify.com/album/28mwkzzBRA3v9SwWzzqKIL) | 3:50 | 2020-08-11 |  |

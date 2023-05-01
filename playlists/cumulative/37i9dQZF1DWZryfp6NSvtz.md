@@ -4,7 +4,7 @@
 
 > The best new rock tracks every week\. Cover: Movements
 
-3,436 songs - 8 day 2 hr 52 min
+3,437 songs - 8 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1641,7 +1641,8 @@
 | [Kiss Kiss Bang Bang](https://open.spotify.com/track/3kFoZcKkIUsKBoWYHvMkUQ) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y) | [Kiss Kiss Bang Bang](https://open.spotify.com/album/7ADrQj9OGll4kiXcCSdcqI) | 2:53 | 2023-03-24 | 2023-04-01 |
 | [Kleptomaniac](https://open.spotify.com/track/6t9F8OPLkxZgcGhZjPgPu1) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Disconnected Happy](https://open.spotify.com/album/12HqkWeJ7g1Tck2eRoGUda) | 2:50 | 2022-03-31 | 2022-04-08 |
 | [KMA \(Kiss My Ass\)](https://open.spotify.com/track/69HwVwvfEGNmWAbXSCfCSL) | [Shining](https://open.spotify.com/artist/370lLcSfFuzXFatC0DFLel) | [KMA \(Kiss My Ass\)](https://open.spotify.com/album/5Lxek06iU575hAFHRZH15O) | 2:23 | 2022-01-27 | 2022-02-04 |
-| [Knucklen](https://open.spotify.com/track/0N7jjU4Bhqr2L2TYcOmTrg) | [Country Westerns](https://open.spotify.com/artist/2OwWrhaP4RycOww0FursPt) | [Knucklen](https://open.spotify.com/album/1IMKqt4SPBPyK4EMu0gS5P) | 2:27 | 2023-04-28 |  |
+| [Knucklen](https://open.spotify.com/track/0N7jjU4Bhqr2L2TYcOmTrg) | [Country Westerns](https://open.spotify.com/artist/2OwWrhaP4RycOww0FursPt) | [Knucklen](https://open.spotify.com/album/1IMKqt4SPBPyK4EMu0gS5P) | 2:27 | 2023-04-28 | 2023-05-01 |
+| [Knucklen'](https://open.spotify.com/track/6gDl07mqToOH2vG1QN1dj9) | [Country Westerns](https://open.spotify.com/artist/2OwWrhaP4RycOww0FursPt) | [Forgive the City](https://open.spotify.com/album/5Cjg2NBzIxZqSpehkmPEH9) | 2:27 | 2023-04-28 |  |
 | [Knuckles](https://open.spotify.com/track/7k0dSGTAvbmKmpB6qRQKCn) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Knuckles](https://open.spotify.com/album/0K5aDBQbnRuZsXItf7qPEj) | 2:40 | 2022-09-08 | 2022-09-16 |
 | [Kommando Sunshine](https://open.spotify.com/track/2xeGJK0Z7RiRtTndzBn1hs) | [Beatsteaks](https://open.spotify.com/artist/79qRD2IfSr3pmuYUficMWX) | [Kommando Sunshine](https://open.spotify.com/album/6mZ7pd66Zzzsteh7L2GBCZ) | 2:48 | 2022-05-26 | 2022-06-03 |
 | [Kool](https://open.spotify.com/track/2lgUEHBeAM9b0gpkwzLW6H) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Kool](https://open.spotify.com/album/4AERPveWzXsS4SIBWBVIsv) | 2:11 | 2023-02-24 | 2023-03-04 |

@@ -396,10 +396,28 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 248615,
       "name": "I Could Use A Miracle",
       "url": "https://open.spotify.com/track/1GQjRQXL6YcxLhlNAuOkiJ"
+    },
+    {
+      "album": {
+        "name": "Late Checkout",
+        "url": "https://open.spotify.com/album/4OGaMVoEehxXtlBJ94bChD"
+      },
+      "artists": [
+        {
+          "name": "Dent May",
+          "url": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248615,
+      "name": "I Could Use A Miracle",
+      "url": "https://open.spotify.com/track/4ZOLpF93H8Rhl1eI8gFELd"
     },
     {
       "album": {

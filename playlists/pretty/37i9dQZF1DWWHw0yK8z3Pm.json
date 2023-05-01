@@ -1,12 +1,12 @@
 {
   "description": "Fearless sounds at the crossroads of Country and Folk. Cover: Colter Wall",
-  "num_followers": 41198,
+  "num_followers": 41250,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmQyMzMzYjc0ODgzNzI2NWQyNjc0YWFlYjZiOTcxMjRiZDNiOTEy",
+  "snapshot_id": "MCxhMWYxMzc1MmEyYTlhMjUxNzllYjRjMjMwM2ZiNTlkMzI3ZmUwODA5",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Songs My Friends Wrote",
+        "url": "https://open.spotify.com/album/0Mpxw3Ts3LaQdXp16Ya6MM"
+      },
+      "artists": [
+        {
+          "name": "Corb Lund",
+          "url": "https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og"
+        }
+      ],
+      "duration_ms": 200586,
+      "name": "Highway 87",
+      "url": "https://open.spotify.com/track/5nsv5Oego9Xyud85Pm0UYp"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Ways & Means",
         "url": "https://open.spotify.com/album/0k72s0eVcw3D2PRgZXdT94"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 203480,
       "name": "South Dakota Wild One",
       "url": "https://open.spotify.com/track/0YMrA32lkcYj5g89bfyMLb"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Songs My Friends Wrote",
-        "url": "https://open.spotify.com/album/0Mpxw3Ts3LaQdXp16Ya6MM"
-      },
-      "artists": [
-        {
-          "name": "Corb Lund",
-          "url": "https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og"
-        }
-      ],
-      "duration_ms": 200586,
-      "name": "Highway 87",
-      "url": "https://open.spotify.com/track/5nsv5Oego9Xyud85Pm0UYp"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Tides of a Teardrop",
+        "url": "https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 285786,
+      "name": "Golden Embers",
+      "url": "https://open.spotify.com/track/4OkKz8LhKo846kN3nncNZs"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "good 4 u / Dooley's Farm (Spotify Singles)",
         "url": "https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm"
       },
@@ -999,6 +1015,22 @@
       "duration_ms": 184785,
       "name": "Fighting Like Hell to Be Free",
       "url": "https://open.spotify.com/track/6Mg4YqzbhRu0HeoWFSrCNQ"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Hard To Build. Easy To Break.",
+        "url": "https://open.spotify.com/album/0f28PbHkgYcNJ0xetd1mY6"
+      },
+      "artists": [
+        {
+          "name": "Cowboy Junkies",
+          "url": "https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j"
+        }
+      ],
+      "duration_ms": 258413,
+      "name": "Hard to Build. Easy to Break.",
+      "url": "https://open.spotify.com/track/3fkC7dob8UbhKJznLGgzBZ"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1071,18 +1103,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Hard To Build. Easy To Break.",
-        "url": "https://open.spotify.com/album/0f28PbHkgYcNJ0xetd1mY6"
+        "name": "Across the Hall",
+        "url": "https://open.spotify.com/album/5V6tHoSetmPXIrTTPjdsHs"
       },
       "artists": [
         {
-          "name": "Cowboy Junkies",
-          "url": "https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j"
+          "name": "Jeremie Albino",
+          "url": "https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY"
         }
       ],
-      "duration_ms": 258413,
-      "name": "Hard to Build. Easy to Break.",
-      "url": "https://open.spotify.com/track/3fkC7dob8UbhKJznLGgzBZ"
+      "duration_ms": 199591,
+      "name": "Across the Hall",
+      "url": "https://open.spotify.com/track/6TuTnL508mCCZ2fXZt0CfA"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1103,22 +1135,6 @@
       "duration_ms": 203973,
       "name": "Higher (feat. David Rawlings)",
       "url": "https://open.spotify.com/track/1f1HTENF8WaUKEzCH7BNRZ"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Across the Hall",
-        "url": "https://open.spotify.com/album/5V6tHoSetmPXIrTTPjdsHs"
-      },
-      "artists": [
-        {
-          "name": "Jeremie Albino",
-          "url": "https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY"
-        }
-      ],
-      "duration_ms": 199591,
-      "name": "Across the Hall",
-      "url": "https://open.spotify.com/track/6TuTnL508mCCZ2fXZt0CfA"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1151,22 +1167,6 @@
       "duration_ms": 244706,
       "name": "All Comes Back To You",
       "url": "https://open.spotify.com/track/6v5l4XgWv2NfjwAOCYBD7r"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Tides of a Teardrop",
-        "url": "https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 285786,
-      "name": "Golden Embers",
-      "url": "https://open.spotify.com/track/4OkKz8LhKo846kN3nncNZs"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Gypsy",
+        "url": "https://open.spotify.com/album/33fIaJrF5YgR2nkGClLtGh"
+      },
+      "artists": [
+        {
+          "name": "Eilen Jewell",
+          "url": "https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M"
+        }
+      ],
+      "duration_ms": 172868,
+      "name": "Witness",
+      "url": "https://open.spotify.com/track/2ZDkMX3LtO7sEZezVQwQeo"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Brighter Side of Blue",
         "url": "https://open.spotify.com/album/5ksGObxjs1JrBhHXzWl4WB"
       },
@@ -1239,34 +1255,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Field Guide",
-        "url": "https://open.spotify.com/album/64dSRXwXcQ5GAEFeGVmRRr"
+        "name": "Lonely Like Me",
+        "url": "https://open.spotify.com/album/2apvtGe2jSNLqT0vOJvwmf"
       },
       "artists": [
         {
-          "name": "Field Guide",
-          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
+          "name": "Nick Shoulders",
+          "url": "https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS"
         }
       ],
-      "duration_ms": 206783,
-      "name": "Worst of Ways",
-      "url": "https://open.spotify.com/track/52MB4aPwtWemZmXdfe5kOU"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Downtown EP",
-        "url": "https://open.spotify.com/album/1xOBVAMeKnnMjPUga4n0eH"
-      },
-      "artists": [
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 268092,
-      "name": "Better's on the Way",
-      "url": "https://open.spotify.com/track/5JDN1OhtRYLQ9IQMROclyg"
+      "duration_ms": 242254,
+      "name": "Snakes and Waterfalls",
+      "url": "https://open.spotify.com/track/6f3lNzsCCWKFWfAG4uuqpC"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1299,6 +1299,38 @@
       "duration_ms": 175423,
       "name": "First Light",
       "url": "https://open.spotify.com/track/7MwtFy3hEW9ru5lF2vNHOL"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Field Guide",
+        "url": "https://open.spotify.com/album/64dSRXwXcQ5GAEFeGVmRRr"
+      },
+      "artists": [
+        {
+          "name": "Field Guide",
+          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
+        }
+      ],
+      "duration_ms": 206783,
+      "name": "Worst of Ways",
+      "url": "https://open.spotify.com/track/52MB4aPwtWemZmXdfe5kOU"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Downtown EP",
+        "url": "https://open.spotify.com/album/1xOBVAMeKnnMjPUga4n0eH"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 268092,
+      "name": "Better's on the Way",
+      "url": "https://open.spotify.com/track/5JDN1OhtRYLQ9IQMROclyg"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1395,6 +1427,22 @@
       "duration_ms": 217026,
       "name": "Bad Behavior",
       "url": "https://open.spotify.com/track/5vKoSX086LuAR2iZFQMwGa"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/0KP0kzTCtYthC6dVndh1Jj"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        }
+      ],
+      "duration_ms": 170915,
+      "name": "Hey Baby",
+      "url": "https://open.spotify.com/track/4MaNTAN78ylZnCMCKBFiU9"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1499,22 +1547,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Narrow Line",
-        "url": "https://open.spotify.com/album/7dep5AUJI4Hso2xZrRCI6I"
-      },
-      "artists": [
-        {
-          "name": "Mama's Broke",
-          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
-        }
-      ],
-      "duration_ms": 200746,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/0tC9HI1SwBlokDidRDZkYD"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Hot Sun",
         "url": "https://open.spotify.com/album/1cNId27Hm62Df23dz5z7iV"
       },
@@ -1531,34 +1563,34 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Iydlmlmg",
-        "url": "https://open.spotify.com/album/1THoy1RiIHbr46SOcADDI1"
+        "name": "Narrow Line",
+        "url": "https://open.spotify.com/album/7dep5AUJI4Hso2xZrRCI6I"
       },
       "artists": [
         {
-          "name": "The Secret Beach",
-          "url": "https://open.spotify.com/artist/2BA8RBb2WV5OfaxXELFFe3"
+          "name": "Mama's Broke",
+          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
         }
       ],
-      "duration_ms": 177759,
-      "name": "Iydlmlmg",
-      "url": "https://open.spotify.com/track/2Y1dRB5NdxeTdgKJb2x4v2"
+      "duration_ms": 200746,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/0tC9HI1SwBlokDidRDZkYD"
     },
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Constellations",
-        "url": "https://open.spotify.com/album/64tEZ5dQGzLVV9pGkWnebY"
+        "name": "Say What You Like",
+        "url": "https://open.spotify.com/album/3xcDRGzx04UwxucGTAb8Jf"
       },
       "artists": [
         {
-          "name": "Meredith Moon",
-          "url": "https://open.spotify.com/artist/02zKoKfNVxQkU6Au4itp0f"
+          "name": "Doug Paisley",
+          "url": "https://open.spotify.com/artist/2WH0j5DM0bzoj1KRKpJFh9"
         }
       ],
-      "duration_ms": 257782,
-      "name": "Constellations",
-      "url": "https://open.spotify.com/track/0hhRZjuboEqeXWX4f6Wg4c"
+      "duration_ms": 167819,
+      "name": "Say What You Like",
+      "url": "https://open.spotify.com/track/2AjJ8A4ZJ7m43i2EjQl9w3"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1579,82 +1611,50 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Songs My Friends Wrote",
-        "url": "https://open.spotify.com/album/0Mpxw3Ts3LaQdXp16Ya6MM"
+        "name": "Iydlmlmg",
+        "url": "https://open.spotify.com/album/1THoy1RiIHbr46SOcADDI1"
       },
       "artists": [
         {
-          "name": "Corb Lund",
-          "url": "https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og"
+          "name": "The Secret Beach",
+          "url": "https://open.spotify.com/artist/2BA8RBb2WV5OfaxXELFFe3"
         }
       ],
-      "duration_ms": 229528,
-      "name": "Montana Waltz",
-      "url": "https://open.spotify.com/track/4HWvUzCTMhdyj1rFGphNEX"
+      "duration_ms": 177759,
+      "name": "Iydlmlmg",
+      "url": "https://open.spotify.com/track/2Y1dRB5NdxeTdgKJb2x4v2"
     },
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Big in the USA",
-        "url": "https://open.spotify.com/album/07SmS9p826wQOrFBYLMhxN"
+        "name": "Chasing Spirits",
+        "url": "https://open.spotify.com/album/2hl15bnBFwiUHaAj6KwCNa"
       },
       "artists": [
         {
-          "name": "Kris Ulrich",
-          "url": "https://open.spotify.com/artist/49MmzOKdISsus72tEIhJQN"
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
         }
       ],
-      "duration_ms": 183978,
-      "name": "Big in the USA",
-      "url": "https://open.spotify.com/track/0tls7zg00mH4tv3OcBVDNU"
+      "duration_ms": 164917,
+      "name": "Chasing Spirits",
+      "url": "https://open.spotify.com/track/6vLCubY6bNkYKPYrW0oa3C"
     },
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Lonely Like Me",
-        "url": "https://open.spotify.com/album/2apvtGe2jSNLqT0vOJvwmf"
+        "name": "Constellations",
+        "url": "https://open.spotify.com/album/64tEZ5dQGzLVV9pGkWnebY"
       },
       "artists": [
         {
-          "name": "Nick Shoulders",
-          "url": "https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS"
+          "name": "Meredith Moon",
+          "url": "https://open.spotify.com/artist/02zKoKfNVxQkU6Au4itp0f"
         }
       ],
-      "duration_ms": 242254,
-      "name": "Snakes and Waterfalls",
-      "url": "https://open.spotify.com/track/6f3lNzsCCWKFWfAG4uuqpC"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "20 Somethin'",
-        "url": "https://open.spotify.com/album/0ZkNmLA4MBUDhi7Ck8iIqR"
-      },
-      "artists": [
-        {
-          "name": "Vicki Brittle",
-          "url": "https://open.spotify.com/artist/2f1dWhnYhr0nXjiZol2zfJ"
-        }
-      ],
-      "duration_ms": 236983,
-      "name": "20 Somethin'",
-      "url": "https://open.spotify.com/track/4lHPNTdXSUfsVMQk0nuP82"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Only an Island",
-        "url": "https://open.spotify.com/album/3tw9sLSnx1LdZFpgfgXGs6"
-      },
-      "artists": [
-        {
-          "name": "Matt Andersen",
-          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
-        }
-      ],
-      "duration_ms": 273333,
-      "name": "Only an Island",
-      "url": "https://open.spotify.com/track/0g1F7GCvtVXwMKuqhAnoBB"
+      "duration_ms": 257782,
+      "name": "Constellations",
+      "url": "https://open.spotify.com/track/0hhRZjuboEqeXWX4f6Wg4c"
     }
   ],
   "unique_name": "Renegades",

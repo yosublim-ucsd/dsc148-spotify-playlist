@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 225133,
       "name": "100 Days, 100 Nights",
       "url": "https://open.spotify.com/track/69YW4FrGpsjzt9lr517bUz"
@@ -2223,6 +2223,24 @@
     },
     {
       "album": {
+        "name": "Queen Alone",
+        "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "date_added": "2021-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137320,
+      "name": "In Love (Don't Mess Things Up)",
+      "url": "https://open.spotify.com/track/4SgWwPLqJ08Y1HuoIpFJX4"
+    },
+    {
+      "album": {
         "name": "In the Midnight Hour",
         "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
       },
@@ -2694,6 +2712,24 @@
       "duration_ms": 176173,
       "name": "Love Child",
       "url": "https://open.spotify.com/track/0Usw6bbxjqROH3OCDYkMFi"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Collection: Diana Ross & The Supremes",
+        "url": "https://open.spotify.com/album/3kBcXeEHgrdFc99iDeWStA"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross & The Supremes",
+          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
+        }
+      ],
+      "date_added": "2021-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181573,
+      "name": "Love Child",
+      "url": "https://open.spotify.com/track/69EILuL34ggLWQsa626bes"
     },
     {
       "album": {
@@ -3396,7 +3432,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 195086,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/33Z6FvhXVw8HJ8ulGQ6Kj2"
@@ -3786,7 +3822,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 222370,
       "name": "Strictly Reserved for You",
       "url": "https://open.spotify.com/track/2aWr9QRr0pSmYFH04zngiP"
@@ -3934,7 +3970,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 280040,
       "name": "Tell Me Something Good",
       "url": "https://open.spotify.com/track/0AECVMjxepWdsjDb49JFRd"

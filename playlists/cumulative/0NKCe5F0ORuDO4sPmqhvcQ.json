@@ -2965,6 +2965,24 @@
     },
     {
       "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/3vHOxtVgvCeGR82IVwaDV6"
+      },
+      "artists": [
+        {
+          "name": "Late Night Therapy",
+          "url": "https://open.spotify.com/artist/2mlllc3fdsSFJHJDBcg33I"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255360,
+      "name": "Feel Something",
+      "url": "https://open.spotify.com/track/5S2ZZBs451CuI81g9WjJIL"
+    },
+    {
+      "album": {
         "name": "Fill Up My Soul",
         "url": "https://open.spotify.com/album/1umGjanxEtYyHRmC0QStND"
       },
@@ -4354,6 +4372,28 @@
       "duration_ms": 183133,
       "name": "Kissing Other Boys",
       "url": "https://open.spotify.com/track/35Z1Hr2141V2DLUNtXY3mv"
+    },
+    {
+      "album": {
+        "name": "Lavender Dreams & Scarlet Nightmares",
+        "url": "https://open.spotify.com/album/0GasuMeALUBC4Kk55XjgLP"
+      },
+      "artists": [
+        {
+          "name": "juuku",
+          "url": "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
+        },
+        {
+          "name": "Jolina El\u00edsh",
+          "url": "https://open.spotify.com/artist/36XHszB4UC3UDGGcamfclK"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195371,
+      "name": "Lavender (feat. Jolina El\u00edsh)",
+      "url": "https://open.spotify.com/track/6DQUJXeQbpzVcB2sT0rrlA"
     },
     {
       "album": {

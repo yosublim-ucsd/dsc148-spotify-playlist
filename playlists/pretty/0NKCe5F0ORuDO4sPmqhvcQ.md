@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,036 likes - 124 songs - 7 hr 0 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,036 likes - 126 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,5 +132,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 122 | [FBGM!](https://open.spotify.com/track/0qES0yIA5BkEdpnvJoevNa) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [FBGM!](https://open.spotify.com/album/1YKPrMwtY3U4o7FrrPTNRT) | 2:19 |
 | 123 | [Sever](https://open.spotify.com/track/4U5lpQaRmPRYOgisXSivUw) | [BARDZ](https://open.spotify.com/artist/0grj6SCmh4vGKf6r7pbOTk) | [The Allegory](https://open.spotify.com/album/06hNmVsWLyxiGMgriOz8l4) | 3:01 |
 | 124 | [Phoenix](https://open.spotify.com/track/70V8LBQ8v5PlyYf5itw3ye) | [MarMar](https://open.spotify.com/artist/1329gf1qT2Yhh6vh8PJ5Xr) | [Phoenix](https://open.spotify.com/album/1mHvPJ7RAPcIitGgrq31Kc) | 2:05 |
+| 125 | [Feel Something](https://open.spotify.com/track/5S2ZZBs451CuI81g9WjJIL) | [Late Night Therapy](https://open.spotify.com/artist/2mlllc3fdsSFJHJDBcg33I) | [Feel Something](https://open.spotify.com/album/3vHOxtVgvCeGR82IVwaDV6) | 4:15 |
+| 126 | [Lavender \(feat\. Jolina Elísh\)](https://open.spotify.com/track/6DQUJXeQbpzVcB2sT0rrlA) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [Jolina Elísh](https://open.spotify.com/artist/36XHszB4UC3UDGGcamfclK) | [Lavender Dreams & Scarlet Nightmares](https://open.spotify.com/album/0GasuMeALUBC4Kk55XjgLP) | 3:15 |
 
-Snapshot ID: `MTAzMDMsMzE0NjViOTk1NjU0YmVjMWY0YzYxNWRkMzhkNmJlNjhhNzJjNzZiMA==`
+Snapshot ID: `MTAzMDUsNGU2Nzc5NzNkZGFiZWEwMmY3NDI0ZGM4MmRhMGQ0MmVmZWExN2JkNg==`

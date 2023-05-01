@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,616 likes - 114 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,637 likes - 114 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 113 | [POWERMAN 2.0](https://open.spotify.com/track/587gpi5oCreaxoB9w2LVbH) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [POWERMAN 2.0](https://open.spotify.com/album/3WtRqtZ16IVMHCqbl68Oer) | 2:40 |
 | 114 | [Together Right](https://open.spotify.com/track/2pWJywnRIrDfgaKQnru6ri) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Together Right](https://open.spotify.com/album/5wiYwpkw5aYVKIot1wmrO9) | 3:01 |
 
-Snapshot ID: `MCwwZTI1ODYyNmJlMGI4NmIxYmY0NzUyMThmODk4MDliMGFkZWE3MTdi`
+Snapshot ID: `MCxlYTA0MDM5N2E0MTQ2NTYxODBhNDFmNmY0N2M5ZmM0M2UxNzNiMzdm`

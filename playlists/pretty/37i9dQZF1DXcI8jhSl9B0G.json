@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 72714,
+  "num_followers": 72717,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDU3YWM4Yzg4ZWNiNTg0MjY2NzI5ZWI4NGIyNmQ2M2I2YjkxMDE5",
+  "snapshot_id": "MCxkMzRkOWJjODcxYTgzYWU2MjM2NmZlZjFkOTUyYzdiMGMzNTgwNDA3",
   "tracks": [
     {
       "added_at": "2023-01-12 13:00:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "Gypsy Tapes",
-        "url": "https://open.spotify.com/album/3mugXSuzN8XCrurF7jIq41"
-      },
-      "artists": [
-        {
-          "name": "Jack Botts",
-          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
-        }
-      ],
-      "duration_ms": 212585,
-      "name": "Gypsy",
-      "url": "https://open.spotify.com/track/1lMMXT729a5UIpJU34TbJF"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
         "name": "Jan Juc Moon",
         "url": "https://open.spotify.com/album/0zXonPXtpDEb32sy6PkTsw"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 277053,
       "name": "Stoney Creek",
       "url": "https://open.spotify.com/track/0ik7YpGVcjTkXBrUv4SaqR"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "Gypsy Tapes",
+        "url": "https://open.spotify.com/album/3mugXSuzN8XCrurF7jIq41"
+      },
+      "artists": [
+        {
+          "name": "Jack Botts",
+          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
+        }
+      ],
+      "duration_ms": 212585,
+      "name": "Gypsy",
+      "url": "https://open.spotify.com/track/1lMMXT729a5UIpJU34TbJF"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "Caught Up In The Wire, No More",
-        "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
-      },
-      "artists": [
-        {
-          "name": "Tay Oskee",
-          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
-        }
-      ],
-      "duration_ms": 223712,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/767atfZ4xBNA5SiPUGzgxJ"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
         "name": "She Came Back with Rainbows",
         "url": "https://open.spotify.com/album/44bjrm9iSwHwsORmWkfyiO"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 230189,
       "name": "She Came Back with Rainbows",
       "url": "https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "Caught Up In The Wire, No More",
+        "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
+      },
+      "artists": [
+        {
+          "name": "Tay Oskee",
+          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
+        }
+      ],
+      "duration_ms": 223712,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/767atfZ4xBNA5SiPUGzgxJ"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -789,22 +789,6 @@
       "url": "https://open.spotify.com/track/2oS1CW1vbfD8t1I6As9ZhR"
     },
     {
-      "added_at": "2023-04-30 01:07:38",
-      "album": {
-        "name": "Higher Now",
-        "url": "https://open.spotify.com/album/5i3Tf3KdABftYRkYmauRwg"
-      },
-      "artists": [
-        {
-          "name": "Seph Cove",
-          "url": "https://open.spotify.com/artist/1cwhYOFjPswXuRKLrwJrff"
-        }
-      ],
-      "duration_ms": 258532,
-      "name": "Higher Now",
-      "url": "https://open.spotify.com/track/7MCAqys9I5XyEnFJL24wz1"
-    },
-    {
       "added_at": "2023-01-12 13:00:00",
       "album": {
         "name": "I AM",
@@ -819,6 +803,22 @@
       "duration_ms": 213276,
       "name": "After the Sun",
       "url": "https://open.spotify.com/track/48RnhqwWJba2PMoy9ZItxL"
+    },
+    {
+      "added_at": "2023-05-01 01:43:27",
+      "album": {
+        "name": "Higher Now",
+        "url": "https://open.spotify.com/album/5i3Tf3KdABftYRkYmauRwg"
+      },
+      "artists": [
+        {
+          "name": "Seph Cove",
+          "url": "https://open.spotify.com/artist/1cwhYOFjPswXuRKLrwJrff"
+        }
+      ],
+      "duration_ms": 258532,
+      "name": "Higher Now",
+      "url": "https://open.spotify.com/track/7MCAqys9I5XyEnFJL24wz1"
     },
     {
       "added_at": "2023-01-12 13:00:00",

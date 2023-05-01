@@ -1132,10 +1132,32 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 262082,
       "name": "Cancion de Cuna",
       "url": "https://open.spotify.com/track/05VD1ujUH7p0AHdgSBckze"
+    },
+    {
+      "album": {
+        "name": "Cancion de Cuna",
+        "url": "https://open.spotify.com/album/0dmhhTurPnf5VHjlv7AC4H"
+      },
+      "artists": [
+        {
+          "name": "Coro Qom Chelaalapi",
+          "url": "https://open.spotify.com/artist/65hZedHnAE0VGrtlrrq1Ro"
+        },
+        {
+          "name": "Lagartijeando",
+          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262082,
+      "name": "Cancion de Cuna",
+      "url": "https://open.spotify.com/track/39VdQKE0sH5ea7NB5x5dDG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Conway The Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,612,608 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,612,692 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 37 | [Can You Hear Me Now?](https://open.spotify.com/track/7Lg6d8ii0EXRqPLsgVjAaa) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Church Clothes 4: Dry Clean Only](https://open.spotify.com/album/45xopJH4y7YpIHmogMMLD7) | 3:00 |
 | 38 | [60 Days](https://open.spotify.com/track/7blLoD6TgyXy2tiTtbOLsI) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [60 Days](https://open.spotify.com/album/3uSqUJp3IJUVpNwprYqrvS) | 3:19 |
 | 39 | [Quarters](https://open.spotify.com/track/0BYSlACvBBTSjSO6rezjGp) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Quarters](https://open.spotify.com/album/4kjptLBuZcavHOjEX1Al65) | 2:28 |
-| 40 | [Fortune 500](https://open.spotify.com/track/4lYWHwaljHyjOpb2cRcqoE) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6) | [For Motivational Use Only, Vol\. 1](https://open.spotify.com/album/1ImPXS37EHul2e6XYHH5Lu) | 2:52 |
+| 40 | [Runaway \(feat\. Nas\)](https://open.spotify.com/track/2DiX9oeghV7lv1mxnRnO6L) | [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Hip Hop 50: Vol\. 2](https://open.spotify.com/album/2fMYrpzJCtJNhVTBQybhoz) | 3:00 |
 | 41 | [Don't Remind Me](https://open.spotify.com/track/55KBOq8fdOWrYWYWBCKxLh) | [Wale the Sage](https://open.spotify.com/artist/4alndwWPbM9ApMYLjg19oD) | [Running From Time](https://open.spotify.com/album/38KIbLeS8hv57czsB0REq7) | 3:23 |
-| 42 | [Runaway \(feat\. Nas\)](https://open.spotify.com/track/2DiX9oeghV7lv1mxnRnO6L) | [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Hip Hop 50: Vol\. 2](https://open.spotify.com/album/2fMYrpzJCtJNhVTBQybhoz) | 3:00 |
+| 42 | [Fortune 500](https://open.spotify.com/track/4lYWHwaljHyjOpb2cRcqoE) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6) | [For Motivational Use Only, Vol\. 1](https://open.spotify.com/album/1ImPXS37EHul2e6XYHH5Lu) | 2:52 |
 | 43 | [One Life](https://open.spotify.com/track/2rfc0DDTqNwSkLCVzEdVVA) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [One Life](https://open.spotify.com/album/3ZmgIf9xdBHuCds9qD5ab8) | 3:29 |
 | 44 | [Good Wine](https://open.spotify.com/track/16QxSt81FZSUynjfopa8pv) | [Katori Walker](https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT) | [Good Wine](https://open.spotify.com/album/6898YVDudEoCou54LQrbrd) | 2:06 |
 | 45 | [Gold Rings \(feat\. Pusha T\)](https://open.spotify.com/track/2L5FjwGluXOyaeqn775Va0) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 3:42 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 47 | [Candle of the Devil](https://open.spotify.com/track/253jYqFG4uZUVVjFYQZ2Yg) | [R\-Mean](https://open.spotify.com/artist/4QE3ZjcqH5AIJ3o2tTzDXP), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Scott Storch](https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01) | [Candle of the Devil](https://open.spotify.com/album/4DawXkWA7JwmDoF07SteyI) | 3:14 |
 | 48 | [Becoming](https://open.spotify.com/track/3XnjwiaFgTM45NmfCtDldk) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Blanco 6](https://open.spotify.com/album/2yRwXVqJ8Bz1jYUEghIsTk) | 2:51 |
 | 49 | [Kill Switch](https://open.spotify.com/track/6L7vf5MEgmwnfkSnNdI84y) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV), [J Rocc](https://open.spotify.com/artist/76Bkn226zbX3IMiEiLC2h2) | [Ways of Knowing](https://open.spotify.com/album/65buOcLOPAzBGLeW46tIDO) | 3:21 |
-| 50 | [Movie Scenes](https://open.spotify.com/track/10hEv8YRgWbcopmQNhWkHk) | [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi) | [Movie Scenes](https://open.spotify.com/album/4YKd0Z1av5dbj604uZJKBl) | 2:42 |
+| 50 | [Just Like You](https://open.spotify.com/track/6IM2okqXPGT9LJuOW1RV9V) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Dramatics](https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97) | [Just Like You](https://open.spotify.com/album/0ukYZ27VvCGcvfcAi48HWB) | 3:07 |
 
-Snapshot ID: `MCw2N2ZjNmM1MzUzYWZjM2NjMDA5YTE2NmFjNjc0NmQ2MDgzOWY5MjIw`
+Snapshot ID: `MCxmMmJkZDM5ZGJmNDQ3OTFhMDdiMzBhNmZmMzYxOGE4NmU5NmE1MGI5`

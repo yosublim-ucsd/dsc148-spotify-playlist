@@ -4,7 +4,7 @@
 
 > The Most Popular Ambient Tracks in 2022\. Kaitlyn Aurelia Smith on cover.
 
-104 songs - 9 hr 5 min
+105 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Blåne II](https://open.spotify.com/track/0cEcZNgg0ErP53MjZ9HkkK) | [Inge Weatherhead Breistein](https://open.spotify.com/artist/31R4oqL2Aeic9iwpOHsxqG), [Haav](https://open.spotify.com/artist/1qLtmt4U8aOgERNMfqNlyy) | [Blåne II](https://open.spotify.com/album/2uhS4oZEuvDqcb5lKBUVcx) | 4:31 | 2023-01-01 |  |
 | [By The Sea \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI) | [Anna Phoebe](https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod), [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [By The Sea \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3) | 4:48 | 2023-01-01 |  |
 | [CAPRICORN](https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu) | [Pauli The PSM](https://open.spotify.com/artist/0REk2fMEqOBQKenqZv4sgp), [OFFAIR](https://open.spotify.com/artist/7Ma4FYYpM6vqvTeXHAMKkp), [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [OFFAIR: The Power of your Subconscious Mind Vol 1: SPACE](https://open.spotify.com/album/1gUxFwmsNfsAmyrirHs3hG) | 3:42 | 2023-01-01 |  |
-| [CHOREA DUPLEX](https://open.spotify.com/track/4yxbe1sfI9QdPIUihlvCwc) | [Mario Batkovic](https://open.spotify.com/artist/3lLjSS7VP84aQ1fwX3Vbqz), [James Holden](https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI) | [INTROSPECTIO](https://open.spotify.com/album/1emFYt0TSm5loTPAl8eQJQ) | 5:07 | 2023-01-01 |  |
+| [CHOREA DUPLEX](https://open.spotify.com/track/4yxbe1sfI9QdPIUihlvCwc) | [Mario Batkovic](https://open.spotify.com/artist/3lLjSS7VP84aQ1fwX3Vbqz), [James Holden](https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI) | [INTROSPECTIO](https://open.spotify.com/album/1emFYt0TSm5loTPAl8eQJQ) | 5:07 | 2023-01-01 | 2023-05-01 |
+| [CHOREA DUPLEX](https://open.spotify.com/track/6aHb08qM432kAMyuWh5X6D) | [Mario Batkovic](https://open.spotify.com/artist/3lLjSS7VP84aQ1fwX3Vbqz), [James Holden](https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI) | [INTROSPECTIO](https://open.spotify.com/album/7K8bEm5Mcs2XWCBh5B6soP) | 5:07 | 2023-01-01 |  |
 | [Circulation \- Uele Lamore Rework](https://open.spotify.com/track/4LvOXGoU0nmhnra7VUUXLR) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx), [Uèle Lamore](https://open.spotify.com/artist/12jPinlyvDpbdEHwg0oXXl) | [Bylur Reworks](https://open.spotify.com/album/2vn1g9syLYQTn8VykTORDf) | 2:59 | 2023-01-01 |  |
 | [cold summer](https://open.spotify.com/track/4kXttabp1lTFSfb2OYN1UY) | [Peter Bark](https://open.spotify.com/artist/1owDCRcm8r3mCfAVzwNbB2) | [cold summer // hazy memories](https://open.spotify.com/album/0eEqJd1VqXFNGTjGCd7IK5) | 6:18 | 2023-01-01 |  |
 | [Coney Island](https://open.spotify.com/track/1CtOu0i3Qvzi2HeIW1PHiT) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8), [opeNWave](https://open.spotify.com/artist/7pV6agydHiqJBhvSXuvS7O) | [In Tenebris](https://open.spotify.com/album/5og8EEI2vJIayYOtqLCKPg) | 3:14 | 2023-01-01 |  |

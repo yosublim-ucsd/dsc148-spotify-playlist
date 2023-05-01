@@ -3318,6 +3318,24 @@
     {
       "album": {
         "name": "Sugar & Spice",
+        "url": "https://open.spotify.com/album/3uyj11Rhm2WDBkJMXdfcor"
+      },
+      "artists": [
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "date_added": "2021-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188869,
+      "name": "Sugar & Spice",
+      "url": "https://open.spotify.com/track/1IKTUlEoNtaKAPpXAM62YT"
+    },
+    {
+      "album": {
+        "name": "Sugar & Spice",
         "url": "https://open.spotify.com/album/4ugWYdIKaP1af3MCWzyjU0"
       },
       "artists": [
@@ -3346,7 +3364,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 188869,
       "name": "Sugar & Spice",
       "url": "https://open.spotify.com/track/3Q4VH4dJgZS9r4gI6yHLY5"

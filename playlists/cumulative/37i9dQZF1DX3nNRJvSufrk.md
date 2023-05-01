@@ -4,7 +4,7 @@
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-140 songs - 8 hr 29 min
+141 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Elevate](https://open.spotify.com/track/0wxtjSaYesWNnuPg9RwFRV) | [Druguse](https://open.spotify.com/artist/7cacQtmSGJSf7HtEslj0xW) | [Hood Rich Life](https://open.spotify.com/album/22eF4qZ2hPJHhrEZIM5Hqa) | 3:28 | 2020-12-03 | 2022-11-13 |
 | [Elevate](https://open.spotify.com/track/11n4LmYCiLsXPfAO6t5Srd) | [Druguse](https://open.spotify.com/artist/7cacQtmSGJSf7HtEslj0xW) | [Hood Rich Life](https://open.spotify.com/album/2U51TV6gM2Sm3mknG4Bf1P) | 3:28 | 2020-12-03 | 2022-07-29 |
 | [Elevate](https://open.spotify.com/track/1QVn0sWicVdDIeSzjH9Azl) | [Druguse](https://open.spotify.com/artist/7cacQtmSGJSf7HtEslj0xW) | [Druguse](https://open.spotify.com/album/6ljZyft0E5HL6eldfdVivk) | 3:28 | 2020-12-03 |  |
-| [Erotic Heat](https://open.spotify.com/track/4e3OBP6GzZ9nZbhvcYAxsb) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA) | [Dark Energy](https://open.spotify.com/album/5jxuCEWIiXAEdjrBPTOMTK) | 4:23 | 2020-12-03 |  |
+| [Erotic Heat](https://open.spotify.com/track/29mPXTERiHkY9uVH7BDwfD) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA) | [Dark Energy](https://open.spotify.com/album/5JNtn7QIhuZiptM2F7bJPX) | 4:23 | 2020-12-03 |  |
+| [Erotic Heat](https://open.spotify.com/track/4e3OBP6GzZ9nZbhvcYAxsb) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA) | [Dark Energy](https://open.spotify.com/album/5jxuCEWIiXAEdjrBPTOMTK) | 4:23 | 2020-12-03 | 2023-05-01 |
 | [Erotic Heat](https://open.spotify.com/track/7cw7ln9b7LNWNSb5sf1mx9) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA) | [Dark Energy](https://open.spotify.com/album/2yHEmN9QGuFbFpWt21BJtd) | 4:23 | 2020-12-03 | 2022-07-29 |
 | [Feel](https://open.spotify.com/track/19sCGOTZKnlb5XPbBklcQz) | [Xyla](https://open.spotify.com/artist/7CmkZcKpESltjho1LZJgnb) | [Ways](https://open.spotify.com/album/4dqk5qdk4iH4uI59t2uCZH) | 4:37 | 2020-12-03 |  |
 | [Feel](https://open.spotify.com/track/1iKW2yrouUd2E3tK4tj8Tu) | [Xyla](https://open.spotify.com/artist/7CmkZcKpESltjho1LZJgnb) | [Ways](https://open.spotify.com/album/2PqGGOZm4IPKiXzLZpJULH) | 4:37 | 2020-12-03 | 2022-07-29 |

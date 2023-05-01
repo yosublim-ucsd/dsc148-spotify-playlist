@@ -4,7 +4,7 @@
 
 > Plug your brain into a modular synthesizer analog loop.
 
-178 songs - 10 hr 48 min
+179 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Martha White Theme](https://open.spotify.com/track/58ou3jqcKMaz7pNcSRNZrX) | [Gil Trythall](https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3) | [Country Moog / Nashville Gold](https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6) | 1:50 | 2021-08-17 |  |
 | [Merge](https://open.spotify.com/track/5GG2hEesjJ32K8KG5nAJYr) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Empetus \(Deluxe\)](https://open.spotify.com/album/2l2N8dbG1jwSjp5Lxhnfc3) | 6:23 | 2021-08-17 |  |
 | [Merge](https://open.spotify.com/track/5I0fItBZcmmT0qupMoW5ow) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Empetus \(Deluxe\)](https://open.spotify.com/album/1n2qELJYVr02vnE1hSeDgJ) | 6:23 | 2021-08-17 | 2022-07-29 |
-| [Merry\-Go\-Round](https://open.spotify.com/track/0zgRWhoG9aNUEZu4Sd6Suf) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H) | 1:47 | 2021-08-17 |  |
+| [Merry\-Go\-Round](https://open.spotify.com/track/0zgRWhoG9aNUEZu4Sd6Suf) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H) | 1:47 | 2021-08-17 | 2023-05-01 |
+| [Merry\-Go\-Round](https://open.spotify.com/track/4rky5NWrNfRBH14cZmiqwF) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/28FDXQ7lbkhDQBN7fhxbh4) | 1:47 | 2021-08-17 |  |
 | [Mescalito](https://open.spotify.com/track/0RfvCPTuBiznJAhTSK6xpR) | [Gerhard Narholz](https://open.spotify.com/artist/7uvEwug4pon5M8ktDXyx3q), [Joerg Reiter](https://open.spotify.com/artist/2VXiRg7dss0hlXqjnW0Tvl), [Stephan Diez](https://open.spotify.com/artist/0J4Gw4K5R7naDWzJ47sxeB), [Thomas Stabenow](https://open.spotify.com/artist/18aieIdG23v1o6BsbCT74y), [Freddie Santiago](https://open.spotify.com/artist/3ULOPQl1fyQZRViwpmGv0I) | [Retro Synth POP](https://open.spotify.com/album/7MCGywkanJ3ajx2Debevh2) | 2:51 | 2021-08-17 | 2022-10-14 |
 | [Mescalito \- Remastered](https://open.spotify.com/track/31yVM1tAu20JonoiZLwvPB) | [Joerg Reiter](https://open.spotify.com/artist/2VXiRg7dss0hlXqjnW0Tvl), [Stephan Diez](https://open.spotify.com/artist/0J4Gw4K5R7naDWzJ47sxeB), [Thomas Stabenow](https://open.spotify.com/artist/18aieIdG23v1o6BsbCT74y), [Freddie Santiago](https://open.spotify.com/artist/3ULOPQl1fyQZRViwpmGv0I) | [Retro Synth Pop](https://open.spotify.com/album/001ZKrEwFq82rNcR538IFT) | 2:51 | 2021-08-17 |  |
 | [Messe pour le temps présent: 2\. Psyché rock](https://open.spotify.com/track/1SeFJKXiXP8o374gDUylL9) | [Pierre Henry](https://open.spotify.com/artist/5ITPNl5P6R6cFbw4DAcMAY), [Michel Colombier](https://open.spotify.com/artist/5zl0vKMseEhdyXv88He8WQ) | [Pierre Henry: Messe Pour Le Temps Present](https://open.spotify.com/album/6ACougWynxWAGeeDveMD6P) | 2:51 | 2021-08-17 |  |

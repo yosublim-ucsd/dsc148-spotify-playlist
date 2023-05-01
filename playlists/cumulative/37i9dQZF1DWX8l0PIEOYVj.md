@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: Blanke.
 
-347 songs - 20 hr 59 min
+348 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Eclipse](https://open.spotify.com/track/2kY3zw2cGQOG3IL6gMW20R) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Eclipse](https://open.spotify.com/album/3XjD5Vaq09m61AYKjQth7K) | 4:13 | 2023-04-21 |  |
 | [End Of The World](https://open.spotify.com/track/57Gbza8PAWUhQfoArMnEJk) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [End Of The World](https://open.spotify.com/album/5bDqrXW41FMv3f2XWkp0fW) | 3:42 | 2022-07-08 | 2022-08-27 |
 | [End Of Us](https://open.spotify.com/track/54JH6BSeisRY4MeCRwIqjX) | [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8), [Meggie York](https://open.spotify.com/artist/0ydORocQawKL2QaPiGG8fZ) | [End Of Us](https://open.spotify.com/album/4Mvo4d7kc3htCjfxIY68Yw) | 3:00 | 2022-07-08 | 2022-07-28 |
-| [Endgame \(feat\. AERIA\)](https://open.spotify.com/track/2ttJwF0jzKnfdBgAqsTQoG) | [Rubayne](https://open.spotify.com/artist/3HbsDinWqq6h7SXIjVEpIz), [Aeria](https://open.spotify.com/artist/0xIkiN6ruvEtYA13pkLExe) | [Endgame \(feat\. AERIA\)](https://open.spotify.com/album/5tL3jv8AHpPsIhsNxdv67K) | 2:36 | 2023-03-31 |  |
+| [Endgame \(feat\. AERIA\)](https://open.spotify.com/track/2ttJwF0jzKnfdBgAqsTQoG) | [Rubayne](https://open.spotify.com/artist/3HbsDinWqq6h7SXIjVEpIz), [Aeria](https://open.spotify.com/artist/0xIkiN6ruvEtYA13pkLExe) | [Endgame \(feat\. AERIA\)](https://open.spotify.com/album/5tL3jv8AHpPsIhsNxdv67K) | 2:36 | 2023-03-31 | 2023-05-01 |
 | [Endgame \(feat\. Aeria\)](https://open.spotify.com/track/3P5XaFgG3IgpbA6nhPQEJb) | [Rubayne](https://open.spotify.com/artist/3HbsDinWqq6h7SXIjVEpIz), [Aeria](https://open.spotify.com/artist/0xIkiN6ruvEtYA13pkLExe) | [Endgame \(feat\. Aeria\)](https://open.spotify.com/album/3uYebFzzsF9ECABrBPSQYx) | 2:36 | 2022-07-08 | 2022-09-16 |
 | [Endless \(Best of Me\)](https://open.spotify.com/track/1UyiFox8VnAAFRweBDKhy0) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Endless \(Best of Me\)](https://open.spotify.com/album/72LIl7Rlti55JL63E6UsmY) | 3:40 | 2022-11-11 |  |
 | [Enter REM](https://open.spotify.com/track/4TXjpUyeao6glOJfVARWi3) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [Enter REM](https://open.spotify.com/album/71hcjKcbu0W3A87LKeKQN7) | 2:41 | 2022-07-08 | 2023-04-09 |
@@ -200,6 +200,7 @@
 | [Light Up The Sky \(feat\. Scott Stapp\)](https://open.spotify.com/track/5ROUkE55LI83kG3ZRmAnum) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Scott Stapp](https://open.spotify.com/artist/6HySSUk2KthFj3bd9R61ql) | [Light Up The Sky \(feat\. Scott Stapp\)](https://open.spotify.com/album/7IbNjX1uq9D7up01LHX0mw) | 4:44 | 2022-07-08 |  |
 | [Lights Out](https://open.spotify.com/track/0XdmzOmGiPoNEfNK4BslVo) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Lights Out](https://open.spotify.com/album/1K9qhtSCTuNF4weATzFxZT) | 3:53 | 2022-07-08 | 2023-02-18 |
 | [Lightspeed](https://open.spotify.com/track/6mFt5wIzTKeFV9QsF1aU2N) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [Planet Oasis](https://open.spotify.com/album/1Hv4crdSeL4Zd2jVdV7dJG) | 3:00 | 2022-07-08 |  |
+| [Like It Was](https://open.spotify.com/track/1QweGJzFRsHR5WtKtDvQoy) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [Like It Was & Wait For Me](https://open.spotify.com/album/4gDsLPFCLXeQazU3e1qwk9) | 3:36 | 2023-04-28 |  |
 | [Like Water](https://open.spotify.com/track/0AbrbSTdgq56Yk7FfzscPF) | [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [Danny Olson](https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s), [Jadelyn](https://open.spotify.com/artist/0nfU2YxUfRQxknJWo3mQit) | [Like Water](https://open.spotify.com/album/7mzTpyA0mRSC1yXGAsgAcS) | 4:30 | 2022-07-08 | 2022-08-06 |
 | [Lonely](https://open.spotify.com/track/0i9XzZElo5bpCCblQ3UpCS) | [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8), [Leila Pari](https://open.spotify.com/artist/74psZWrKKzR4f9mplHXqJb) | [Lonely](https://open.spotify.com/album/5dXu6XuogLgDJJkb390Xnb) | 3:51 | 2022-12-02 |  |
 | [Long Way Down](https://open.spotify.com/track/4Gn8upxtpncAQRBaqhYBGz) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83) | [Long Way Down](https://open.spotify.com/album/3iDpry2d331nweoBhOJMTm) | 3:36 | 2022-07-08 | 2022-08-19 |

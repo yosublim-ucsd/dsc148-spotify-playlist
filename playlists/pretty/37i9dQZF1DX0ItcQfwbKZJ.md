@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ItcQfwbKZJ.md) - [plain]
 
 > From Fela Kuti to Antibalas, enjoy a collection of timeless Afrobeat music!
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,091 likes - 49 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,183 likes - 49 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ItcQfwbKZJ.md) - [plain]
 | 20 | [Kaifa Part 1 & 2](https://open.spotify.com/track/7ErGzwdIsKOdIWZ77VDGox) | [Karl Hector & The Malcouns](https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB) | [Unstraight Ahead](https://open.spotify.com/album/31fhuTb40I2XOlzpqmf9hY) | 6:07 |
 | 21 | [Propaganda](https://open.spotify.com/track/3aP419cmsEU91W7gRY6Bci) | [Afrodizz](https://open.spotify.com/artist/3cum16PhiPE2GOka9ka7tF) | [Kif Kif](https://open.spotify.com/album/4EjmWDQ7xZvAJgw6AIAVuE) | 8:40 |
 | 22 | [Lady](https://open.spotify.com/track/6fsLjItlUmbpl16SGi2COD) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Best of The Black President](https://open.spotify.com/album/7325GfKum2hDK231i3LqA7) | 13:48 |
-| 23 | [Nobody's Bulletproof](https://open.spotify.com/track/3J2sJ7cGFccwV1MKWvMtmA) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band EP](https://open.spotify.com/album/7BBgP62XXdQL3SoFcMPqWO) | 3:10 |
+| 23 | [Nobody's Bulletproof](https://open.spotify.com/track/0UHrUsw3yg6hUDHMw2E6yL) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band EP](https://open.spotify.com/album/5qxaJ3jAYq68bRSL8OwsDq) | 3:10 |
 | 24 | [Atomic Bomb \- William Onyeabor vs\. Hot Chip](https://open.spotify.com/track/6G2M6vvToPz12ghZpeJSGe) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi), [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [What?!](https://open.spotify.com/album/5K9nDeTEcoMBakMd7KvtCZ) | 7:16 |
 | 25 | [Kilimanjaro](https://open.spotify.com/track/6k6JSwl4Xs9goFC8VZ098l) | [The Shaolin Afronauts](https://open.spotify.com/artist/5zcJp5jvssOgZXcxI1wuWe) | [Flight of The Ancients](https://open.spotify.com/album/5XGRiFmZOsCy6ZqRFG5d6t) | 6:26 |
 | 26 | [African Dialects](https://open.spotify.com/track/6wzaQuyl0USnmocC6MK5CD) | [Peter King](https://open.spotify.com/artist/5FP5tCzBeZnOemocPb8bOo) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/4b70sW0HimeoxeDa6Ugnv6) | 4:56 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ItcQfwbKZJ.md) - [plain]
 | 48 | [Enwan](https://open.spotify.com/track/616eSjwX3yd5HhtPNCsjCI) | [The Anansa Professionals](https://open.spotify.com/artist/1qvjh1IbEqCRvjkXrd6vgr) | [Enwan](https://open.spotify.com/album/1ZsHa3jQnKwGZOnHHmw70L) | 5:31 |
 | 49 | [No Wrong Show](https://open.spotify.com/track/1lnHRzrx8GLtkPWEQRebWW) | [Thony Shorby Nyenwi](https://open.spotify.com/artist/3HcwWpnDRCp1zhnPRPDQhd) | [Afro Baby: The Evolution of the Afro\-Sound in Nigeria 1970\-79](https://open.spotify.com/album/3MRCjf7Np4Jn3K4bnNv10a) | 5:43 |
 
-Snapshot ID: `MCxlNjBjYzdhMjY5OWM1Njk0ZmIzOTVlNTE4NjE3NjNjOTRjNTc0MzNk`
+Snapshot ID: `MCw1NGM2YzAzNTViZDgzNjBkMzRkMTNkMGIzMzBlNjgyZTcyZDgwYWQ2`

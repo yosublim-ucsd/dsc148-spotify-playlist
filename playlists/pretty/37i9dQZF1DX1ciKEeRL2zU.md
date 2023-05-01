@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ciKEeRL2zU.md) - [plain]
 
 > Remember how love used to be, feel how it is and imagine how it can be with the best South African love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,123 likes - 55 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,129 likes - 55 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ciKEeRL2zU.md) - [plain]
 | 35 | [Ungawa Kum](https://open.spotify.com/track/47VpnKqSM6UhAGFjGaUlvy) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Top Dawg](https://open.spotify.com/album/1rrPsxH64XF7uwG7PInaYp) | 5:37 |
 | 36 | [Mamela](https://open.spotify.com/track/3mnL4RKOwb5dlzCuaZjzPG) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0) | [We Made It](https://open.spotify.com/album/1JhEft6AHajvDccPKUBwek) | 5:14 |
 | 37 | [Whipped](https://open.spotify.com/track/5izmlzt9mbvzuZogW9TXJB) | [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [God Decides](https://open.spotify.com/album/5bJrBac7KuQqFY6wn6to8A) | 3:17 |
-| 38 | [Baby Please](https://open.spotify.com/track/47dCbfshKYkbw40Wb49VKO) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no), [Robbie Malinga](https://open.spotify.com/artist/1nuPAZ36vprvyuAAGBC9UD) | [My Truth](https://open.spotify.com/album/4Q3VwhKvE2slDyveEFIiNr) | 4:44 |
+| 38 | [Baby Please](https://open.spotify.com/track/40cDcD8uvaE060MednQPaN) | [Robbie Malinga](https://open.spotify.com/artist/1nuPAZ36vprvyuAAGBC9UD) | [The Best Of](https://open.spotify.com/album/4Ma1FmoFdf61NPhjF67flT) | 4:44 |
 | 39 | [Seasons](https://open.spotify.com/track/3gmKj3ulv2GGeW4JkmphHE) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Seasons](https://open.spotify.com/album/2gzo5OG9jbP3f6K6iF0vp5) | 3:47 |
 | 40 | [Sthandwa](https://open.spotify.com/track/4HMG4YWOq9oZglVU5GPEg0) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Inqola](https://open.spotify.com/album/5rNY0UdEy0YkCibLfPBzMF) | 4:26 |
 | 41 | [Black Butterfly](https://open.spotify.com/track/7Eq6djk4VjwNHlSxL1c9n9) | [TK](https://open.spotify.com/artist/7GkLffiNibtscyTkTKltfn) | [Best of TK](https://open.spotify.com/album/2FHSrLJLlcA2XgaCrme0FI) | 4:39 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ciKEeRL2zU.md) - [plain]
 | 54 | [Sour Milk](https://open.spotify.com/track/3AYK6HKlBhIibr1vp2Wqwy) | [Joda Kgosi](https://open.spotify.com/artist/4JKR7xRiiHNUXEiHHwg1E8) | [Sour Milk](https://open.spotify.com/album/67CS03j1fTXxcdDSzHfqqd) | 3:03 |
 | 55 | [Truth Is](https://open.spotify.com/track/5oXYsq4dCGNrKq84Se3erf) | [Joda Kgosi](https://open.spotify.com/artist/4JKR7xRiiHNUXEiHHwg1E8) | [Truth Is](https://open.spotify.com/album/60iWM9LDKsLqDKKEThsI5g) | 3:22 |
 
-Snapshot ID: `MCw5N2JiNDA3N2U5MWE1MjhkOGVkMmVmMTIyNGZmODY1M2M0ZmE4YWIw`
+Snapshot ID: `MCwyYjRhOWQ2YWVjZGQ0NGZmOTgyZDA1ZWY3ZWU3N2ZkZjI3NWZjYjZl`

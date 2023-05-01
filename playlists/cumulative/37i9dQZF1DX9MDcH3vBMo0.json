@@ -4740,7 +4740,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 180460,
       "name": "Late Spring",
       "url": "https://open.spotify.com/track/5DXfJx64sxj7H7ngSG6RyI"
@@ -7376,6 +7376,24 @@
       "duration_ms": 116000,
       "name": "Rannoch Moor",
       "url": "https://open.spotify.com/track/5M9WoeUS6hg8b1YRWMFx0M"
+    },
+    {
+      "album": {
+        "name": "Reappearance",
+        "url": "https://open.spotify.com/album/7Jhe5OaZ8wSQsCTiQgcdqG"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Waits",
+          "url": "https://open.spotify.com/artist/57E9IfMja5EiaW6JlxxPfF"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130448,
+      "name": "Reappearance",
+      "url": "https://open.spotify.com/track/5Cx6SWTmEc6fd2t3k1XTDx"
     },
     {
       "album": {

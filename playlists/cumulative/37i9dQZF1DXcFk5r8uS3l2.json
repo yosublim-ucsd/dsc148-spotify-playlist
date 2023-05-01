@@ -5092,10 +5092,28 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 204629,
       "name": "Unchange",
       "url": "https://open.spotify.com/track/49Dq6pn80uHKYd5htblAXl"
+    },
+    {
+      "album": {
+        "name": "Unchange",
+        "url": "https://open.spotify.com/album/5n4rd614E0RVAuZNCtojLW"
+      },
+      "artists": [
+        {
+          "name": "Gina Sicilia",
+          "url": "https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204629,
+      "name": "Unchange",
+      "url": "https://open.spotify.com/track/6jiK5cO3rWtPsEGTO1117A"
     },
     {
       "album": {

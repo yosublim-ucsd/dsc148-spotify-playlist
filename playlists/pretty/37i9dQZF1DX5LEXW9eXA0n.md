@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover:Shin Ji Hoon\(신지훈\)\) \(당신의 감성에 발라드, 려요\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,292 likes - 102 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,313 likes - 102 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 101 | [My Feelings for You will Never Change](https://open.spotify.com/track/737PNNtwoyQyTK1BKYFnOK) | [Kang Butter](https://open.spotify.com/artist/44YDdiwbvzPtVvKOA6uWS7) | [My Feelings for You will Never Change](https://open.spotify.com/album/6JAaQPpuauWTLTxQuSpBFq) | 2:38 |
 | 102 | [I've never loved you](https://open.spotify.com/track/6AaBhKdYEma1iTvjIeWxCX) | [The Bridge](https://open.spotify.com/artist/32X9J5qMQUohF6ROtz7CfS) | [Coffee Fox Kim Sam Wol \(Original Soundtrack\), Pt.24](https://open.spotify.com/album/0bUUJZ5y3X8ZGrNIhzM1vl) | 3:35 |
 
-Snapshot ID: `MCw0YjQ5ODgzMDE3ZDRmZGE2YTIyZGM2MGM0MzJkZjQzNTFkY2ZjNGY0`
+Snapshot ID: `MCw4ODI1NDliZTc3N2E2Nzg0MzdkZGQ0ZGExNzUwMTNiMGRjZjhiZWEy`

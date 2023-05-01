@@ -4,7 +4,7 @@
 
 > Hot & new K\-Drama OSTs are here! \(Cover: Doctor Cha\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: 닥터 차정숙\)
 
-601 songs - 1 day 12 hr 28 min
+602 songs - 1 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Blue Flower](https://open.spotify.com/track/4Xjw06dhxAVtsnug1ZpN76) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [Alchemy of Souls: Light and Shadow, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/72zxKpd3QFTf5X2JvXqtpP) | 3:48 | 2023-01-13 |  |
 | [Blue Flower](https://open.spotify.com/track/6weNDrRLGlnvT731NPuQap) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [Alchemy of Souls: Light and Shadow \(Original Television Soundtrack\)](https://open.spotify.com/album/2EFckuWdFPw7sF2nKxNzLO) | 3:48 | 2023-01-26 |  |
 | [Brave](https://open.spotify.com/track/30g5E9MteFxeG9pDvRKJNl) | [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Extraordinary Attorney Woo \(Original Television SoundTrack\) Pt\. 1](https://open.spotify.com/album/1JNQlhazNG0N5gK1NoLAuK) | 4:22 | 2022-07-04 | 2022-11-04 |
+| [Breath](https://open.spotify.com/track/6XHM5qjDlcJVT1afJZXUId) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/2MPYI5xUMEFnQg0l9jcf1Z) | 3:41 | 2023-04-30 |  |
 | [Bright memories](https://open.spotify.com/track/1MbpkmlZNdbSR1Vq79fsE6) | [Hong Dae Kwang](https://open.spotify.com/artist/6uzSh44SrjshRLiZ3qt8hp) | [Young Lady And Gentleman \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/6wgChvhdfkfUpjS8nqYHKK) | 4:18 | 2021-12-19 | 2022-03-04 |
 | [Bring It On](https://open.spotify.com/track/4AFqiRbyvmCVQL442ZJqoM) | [Sonnet](https://open.spotify.com/artist/2RtkJZ5bHvyy1g3tHxfv0B) | [Again my life, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0x1lAYfkP3VY3TLFyxLxcM) | 3:17 | 2022-04-21 | 2022-06-29 |
 | [Bud](https://open.spotify.com/track/7jkrMzk3hPTQOiOmhjNiMM) | [Park Hyungsik](https://open.spotify.com/artist/63CIh5694oJLXgtyXkp92Z) | [Our Blooming Youth \(Original Television Soundtrack\), Pt.5](https://open.spotify.com/album/51ftN67dKvQHlG9Cz5AnGE) | 3:55 | 2023-04-18 |  |

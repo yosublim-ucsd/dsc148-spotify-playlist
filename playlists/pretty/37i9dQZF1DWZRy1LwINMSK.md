@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno\. Foto: Julianno Sosa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,479 likes - 96 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,504 likes - 96 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 76 | [CARAS VEMOS \- Remix](https://open.spotify.com/track/45bDKqcXUgd7IVAvFYsTTe) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Anonimus](https://open.spotify.com/artist/62lbdm09j0QUbWB7SqCJvt), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX) | [CARAS VEMOS \(Remix\)](https://open.spotify.com/album/6YDlWZ01O0RboiJIOs00Tz) | 6:50 |
 | 77 | [Me Quiero Lanzar \- Remix](https://open.spotify.com/track/1z7dwR3FaSPhbSuIwSuTXX) | [Nacion Triizy](https://open.spotify.com/artist/1CyD1Oj8R2nR5f27cV1q1J), [Ceaese](https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9), [Malito Malozo](https://open.spotify.com/artist/1FuJ52kzTUVS0HITGdgkLD), [Chocolate Blanco](https://open.spotify.com/artist/4ARN4DVH7hoHQvie0zptff), [Fusok](https://open.spotify.com/artist/7eCRGFriuw87zy6evjErXh) | [Me Quiero Lanzar \(Remix\)](https://open.spotify.com/album/06kzh1Vgvy6pWUDdJZd9ol) | 4:34 |
 | 78 | [Falsa](https://open.spotify.com/track/5kKP7nvRpeU4RHum06szZT) | [Johnnyl](https://open.spotify.com/artist/0W2sV4Cs9I0jughXrlQiUC), [Matu](https://open.spotify.com/artist/6cibaeswg2HD0yjbt9X1WH), [Lil Pocket](https://open.spotify.com/artist/1W0mGZKBxW6RrdVRZq7Jdw) | [Falsa](https://open.spotify.com/album/3H8QaMCTIB5XiSEm8fnLje) | 3:15 |
-| 79 | [Intuición](https://open.spotify.com/track/2W5Wn1uCzCe198G4YQCFYc) | [Yaero](https://open.spotify.com/artist/2FtH56XmSAFxrEDtRvS93k) | [Intuición](https://open.spotify.com/album/5xMJ1s0acu2UzIDhbHIRas) | 2:56 |
+| 79 | [Intuición](https://open.spotify.com/track/1OIKecKxcQVrVUdtEbI8EP) | [Yaero](https://open.spotify.com/artist/2FtH56XmSAFxrEDtRvS93k) | [Intuición](https://open.spotify.com/album/2ijGx0y4jmpC2bkhUZHrCv) | 2:56 |
 | 80 | [CHAINZ](https://open.spotify.com/track/5IZPp18xCMZBoIi0Ws2K1E) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK), [Jaegen](https://open.spotify.com/artist/175rsyRzKsoKcbEDaqDuC6) | [G LOVE 2](https://open.spotify.com/album/7euUENdmFe3U1pw8p6q38g) | 2:16 |
 | 81 | [El Extendo](https://open.spotify.com/track/13dOCMI6S2yLVvmC3CgDW5) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Keylon](https://open.spotify.com/artist/2GxzgycJFZivGAteZpqUe5), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [No Saen](https://open.spotify.com/album/0oBbkkIclDNAUd69NzIyys) | 2:54 |
 | 82 | [Sismo](https://open.spotify.com/track/43Ck3mpcuSWeTQZPRDF4KU) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Yin Yang](https://open.spotify.com/album/3BgRFVJWjNkwseVvuGcS6O) | 2:37 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 95 | [Juegos de Matel \(feat\. El Menor y El Barto\)](https://open.spotify.com/track/6vdBpuktDTX4Y7JPAxgTNF) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [El Menor](https://open.spotify.com/artist/5jAbdQuetN1LntrEphYBTW), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP) | [Juegos de Matel \(feat\. El Menor y El Barto\)](https://open.spotify.com/album/6N3LPbmSG9D6Of82jugIPN) | 3:59 |
 | 96 | [Te Vas](https://open.spotify.com/track/2mFfut7uFV9zEwAcIZIw0B) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [L.O.V.E.](https://open.spotify.com/album/0Vcer7S419SpqX0BX6nj2I) | 1:58 |
 
-Snapshot ID: `MCxkNTQ0ZjlmNWVlNzNlYjc3OTg2NTBlZTdmZWQzYWZiNDBiMjJmYWI2`
+Snapshot ID: `MCw5NTkzYTI1OWVjODdmZTY0NWViOTEyNGFlODRmNDQ5OGRmNTdjNTc0`

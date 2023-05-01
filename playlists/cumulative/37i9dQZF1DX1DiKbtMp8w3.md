@@ -4,7 +4,7 @@
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-235 songs - 13 hr 14 min
+237 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Dancing in the rain](https://open.spotify.com/track/3d28TKE1fVNrG7D4xH7Q7k) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [COBALT](https://open.spotify.com/album/72bVS9qjgmS4AZsEgJoyVE) | 3:43 | 2022-08-25 |  |
 | [DANG! \(Feat\. Mongja\)](https://open.spotify.com/track/76tWhJQFEkxSJvjmlh5w6A) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R), [Mongja](https://open.spotify.com/artist/3xaCjiHwErbtitFGhEvc5a) | [Beloved](https://open.spotify.com/album/3BYnEzSiJP33hiJE3JrTpu) | 3:50 | 2022-10-06 |  |
 | [Day 1 ◑](https://open.spotify.com/track/6ZzYETKetIfNUsZUb23jgG) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Love Me / Love Me Not](https://open.spotify.com/album/0fwZXPXf41aF6H0CN3UtXV) | 3:53 | 2022-08-12 |  |
-| [delicate creature](https://open.spotify.com/track/7BAk4jJtHKJuo4H05dKSM1) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [the ceiling](https://open.spotify.com/album/4zFX31lbWmdubEgtIOEb8K) | 4:32 | 2022-09-06 |  |
+| [delicate creature](https://open.spotify.com/track/79wSs0XpV9BhjDcWGKZc5m) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [the ceiling](https://open.spotify.com/album/6PLSSq6AD1C96xzLMG49Wo) | 4:32 | 2023-02-03 |  |
+| [delicate creature](https://open.spotify.com/track/7BAk4jJtHKJuo4H05dKSM1) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [the ceiling](https://open.spotify.com/album/4zFX31lbWmdubEgtIOEb8K) | 4:32 | 2022-09-06 | 2023-05-01 |
 | [Desert Eagle](https://open.spotify.com/track/6QWvs1y2hXMwEswdJ8TiIU) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Desert Eagle](https://open.spotify.com/album/3z3iDsyby0fu7TxpQ74OrO) | 5:09 | 2022-08-12 |  |
 | [DIFFERENT](https://open.spotify.com/track/5Y7a8iWIawp1QTbevGeH1V) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [DIFFERENT](https://open.spotify.com/album/56S7zetVLAz7xC5GrmOld3) | 3:42 | 2022-08-25 |  |
 | [Dive Baby, Dive](https://open.spotify.com/track/36AbmT9YujrUsNvHpqRNgI) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Dive Baby, Dive](https://open.spotify.com/album/32kZ9wnIIZuwOqK4CV39nO) | 3:23 | 2022-08-12 |  |
@@ -123,7 +124,8 @@
 | [Lifestyle](https://open.spotify.com/track/2Od2vma6qhjUTpWdfa701R) | [Hila Ruach](https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P) | [BAT YAM](https://open.spotify.com/album/35wu0lTtX9QrtBoYcl88mZ) | 3:40 | 2022-08-12 |  |
 | [Lonely Night](https://open.spotify.com/track/5pHYQ1TuV7Ye5WWYcAxFjE) | [BOOHWAL](https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX) | [Color](https://open.spotify.com/album/5jzebpTutPXBN69mZOwzQy) | 3:38 | 2022-08-25 |  |
 | [Luxembourg \- 25th Anniversary Version](https://open.spotify.com/track/14gxdvmpmIn00fik2aJZJM) | [Crying Nut](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [CRYING NUT 25th Anniversary Best Album](https://open.spotify.com/album/3LCvmUeoynudUbGfTCPkko) | 2:51 | 2022-10-06 |  |
-| [magic trick](https://open.spotify.com/track/1rhis3xGyLUpFbxYLpJZzs) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [the ceiling](https://open.spotify.com/album/4zFX31lbWmdubEgtIOEb8K) | 3:40 | 2022-09-06 |  |
+| [magic trick](https://open.spotify.com/track/1rhis3xGyLUpFbxYLpJZzs) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [the ceiling](https://open.spotify.com/album/4zFX31lbWmdubEgtIOEb8K) | 3:40 | 2022-09-06 | 2023-05-01 |
+| [magic trick](https://open.spotify.com/track/41jt4T7KjbK0iPxHK2yH13) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [the ceiling](https://open.spotify.com/album/6PLSSq6AD1C96xzLMG49Wo) | 3:40 | 2023-02-03 |  |
 | [Malibu](https://open.spotify.com/track/1xXV2P8QUyRo84zevha4HJ) | [Hila Ruach](https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P) | [BAT YAM](https://open.spotify.com/album/35wu0lTtX9QrtBoYcl88mZ) | 4:15 | 2022-08-12 |  |
 | [Maybe It’s Not Our Fault](https://open.spotify.com/track/2xxAW1kGFSVCDdRVoryX8R) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our Love is Great](https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW) | 3:53 | 2022-08-25 |  |
 | [Minsu is confused](https://open.spotify.com/track/26OCm1BoM09I3jIXYQhVsx) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [Minsu is confused](https://open.spotify.com/album/7iQarceFKVFWHCXTOLPcqi) | 3:46 | 2022-09-06 |  |

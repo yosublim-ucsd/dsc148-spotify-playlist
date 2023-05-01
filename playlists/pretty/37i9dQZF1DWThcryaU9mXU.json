@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 39414,
+  "num_followers": 39478,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGIyMmIyMDAxMjllNjgxMjVlMjVmY2ZkNjk5MjdjMDliZGVmY2E2",
+  "snapshot_id": "MCxkMGU2OWM2NGRmZjVhZDNiMWZhZWE4NzFiMDUyZmVjZWNkZTMwMDE4",
   "tracks": [
     {
       "added_at": "2023-04-21 10:26:47",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "Big Walter Horton w/ Carey Bell",
-        "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
-      },
-      "artists": [
-        {
-          "name": "Big Walter Horton",
-          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
-        }
-      ],
-      "duration_ms": 194573,
-      "name": "Little Boy Blue",
-      "url": "https://open.spotify.com/track/6hJqobCBH4TqF6Q9SjuOYY"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "The Essential Magic Sam: The Cobra and Chief Recordings 1957-1961",
         "url": "https://open.spotify.com/album/5pwsqaIx7UFtjXU3HiF1Nv"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 176186,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "Big Walter Horton w/ Carey Bell",
+        "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
+      },
+      "artists": [
+        {
+          "name": "Big Walter Horton",
+          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
+        }
+      ],
+      "duration_ms": 194573,
+      "name": "Little Boy Blue",
+      "url": "https://open.spotify.com/track/6hJqobCBH4TqF6Q9SjuOYY"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "Waiting For The Dawn",
-        "url": "https://open.spotify.com/album/626cTYK4x3ljzZQ26ltoZV"
-      },
-      "artists": [
-        {
-          "name": "Walter Trout",
-          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
-        }
-      ],
-      "duration_ms": 350520,
-      "name": "Waiting For The Dawn",
-      "url": "https://open.spotify.com/track/2lCf21uJsB7RsUVDXnq2lN"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "Midnight Call",
         "url": "https://open.spotify.com/album/12mXkL9AHk64ChMcGy1S99"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 288240,
       "name": "Walkin' Blues",
       "url": "https://open.spotify.com/track/6UySBGc30lbIKbo39z0zFB"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "Waiting For The Dawn",
+        "url": "https://open.spotify.com/album/626cTYK4x3ljzZQ26ltoZV"
+      },
+      "artists": [
+        {
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+        }
+      ],
+      "duration_ms": 350520,
+      "name": "Waiting For The Dawn",
+      "url": "https://open.spotify.com/track/2lCf21uJsB7RsUVDXnq2lN"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/3DTOTOCJq9teFX4rdNx7EZ"
-      },
-      "artists": [
-        {
-          "name": "Brianna Harness",
-          "url": "https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ"
-        }
-      ],
-      "duration_ms": 180384,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "Next Time You See Me",
         "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 156040,
       "name": "I Need Love So Bad",
       "url": "https://open.spotify.com/track/33XNrhJHyTEl38KwTZV0QV"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/3DTOTOCJq9teFX4rdNx7EZ"
+      },
+      "artists": [
+        {
+          "name": "Brianna Harness",
+          "url": "https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ"
+        }
+      ],
+      "duration_ms": 180384,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "Straight from the Heart",
-        "url": "https://open.spotify.com/album/2owcIwahZSfIqs5v4i86dQ"
-      },
-      "artists": [
-        {
-          "name": "Kenny Neal",
-          "url": "https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ"
-        }
-      ],
-      "duration_ms": 262651,
-      "name": "Blues Keep Chasing Me",
-      "url": "https://open.spotify.com/track/3GK95DlclAn2RFYY36IHoc"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "Waiting For Perfection",
         "url": "https://open.spotify.com/album/3l6RCXBpentPUrP9AcrL5O"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 375946,
       "name": "I Walk Alone",
       "url": "https://open.spotify.com/track/350WfWVJnoUixMboTKUPpS"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "Straight from the Heart",
+        "url": "https://open.spotify.com/album/2owcIwahZSfIqs5v4i86dQ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Neal",
+          "url": "https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ"
+        }
+      ],
+      "duration_ms": 262651,
+      "name": "Blues Keep Chasing Me",
+      "url": "https://open.spotify.com/track/3GK95DlclAn2RFYY36IHoc"
     },
     {
       "added_at": "2023-04-21 10:26:47",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "Still Here",
-        "url": "https://open.spotify.com/album/5KhHtOUptVZINgVHuyIgDD"
-      },
-      "artists": [
-        {
-          "name": "Ben Levin",
-          "url": "https://open.spotify.com/artist/7JPxlItTC9DxZ7YwAOwLci"
-        }
-      ],
-      "duration_ms": 250760,
-      "name": "Still Here",
-      "url": "https://open.spotify.com/track/48EXlenGFwcnZWdh6AqUW4"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/6uco735wn69n3ODYvdrd21"
       },
@@ -1463,22 +1447,6 @@
     {
       "added_at": "2023-04-21 10:26:47",
       "album": {
-        "name": "Rare Oldies Jazz: Eddy Boyd",
-        "url": "https://open.spotify.com/album/0PfYDFGbbrD8DyPys7g9U6"
-      },
-      "artists": [
-        {
-          "name": "Eddie Boyd",
-          "url": "https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB"
-        }
-      ],
-      "duration_ms": 183226,
-      "name": "Unfair Lovers",
-      "url": "https://open.spotify.com/track/7urvDrLLJGxRCjHrvpfyW4"
-    },
-    {
-      "added_at": "2023-04-21 10:26:47",
-      "album": {
         "name": "Memphis Moonlight",
         "url": "https://open.spotify.com/album/590d9qiOtgIds5a3u8UHxP"
       },
@@ -1491,6 +1459,38 @@
       "duration_ms": 288856,
       "name": "Love Is Gone",
       "url": "https://open.spotify.com/track/6mn9a2i93IcbCF9oY8eQPo"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/4Luc0LX0LP4hH1tuqELJyV"
+      },
+      "artists": [
+        {
+          "name": "Ben Levin",
+          "url": "https://open.spotify.com/artist/7JPxlItTC9DxZ7YwAOwLci"
+        }
+      ],
+      "duration_ms": 250760,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/4VUX1UU7Rm8itgHYQ8jU3N"
+    },
+    {
+      "added_at": "2023-04-21 10:26:47",
+      "album": {
+        "name": "Rare Oldies Jazz: Eddy Boyd",
+        "url": "https://open.spotify.com/album/0PfYDFGbbrD8DyPys7g9U6"
+      },
+      "artists": [
+        {
+          "name": "Eddie Boyd",
+          "url": "https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB"
+        }
+      ],
+      "duration_ms": 183226,
+      "name": "Unfair Lovers",
+      "url": "https://open.spotify.com/track/7urvDrLLJGxRCjHrvpfyW4"
     }
   ],
   "unique_name": "Just Me and the Blues",

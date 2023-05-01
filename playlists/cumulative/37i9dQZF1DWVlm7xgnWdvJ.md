@@ -4,7 +4,7 @@
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-95 songs - 9 hr 7 min
+96 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Pressure](https://open.spotify.com/track/3mXnTPoiO2oluQM6ZtTYys) | [Jesse Rose](https://open.spotify.com/artist/45k3kmPVYYfmWOTZyby7cq), [Avon Stringer](https://open.spotify.com/artist/4N82cZ2qHHDQYXIM7Af8sU) | [Alright Mate](https://open.spotify.com/album/0eLePcFhmLkpmHza95TQXb) | 2:48 | 2022-12-20 |  |
 | [Revision A \- Black Coco](https://open.spotify.com/track/5sNmRWmAjtswqY3QQvS8sP) | [MAJUSCULE](https://open.spotify.com/artist/2Yj2toOduPsB4L8F2RN4dH) | [Revision A \(Black Coco\)](https://open.spotify.com/album/0y79Pfdc1UgdJR2IWILEJx) | 5:05 | 2022-12-20 |  |
 | [Shikiria \- Day Mix](https://open.spotify.com/track/5tNmUCoZuBY4z2oPxENNHJ) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Mariam Zawose](https://open.spotify.com/artist/7z9Tgvj2vNKDsV8sfGOa25) | [Shikiria](https://open.spotify.com/album/4bHQ6jMonRkCgfuVPrdQk5) | 3:59 | 2022-12-20 |  |
+| [Smoking & Drinking](https://open.spotify.com/track/6LdnFBhyghsXBveCio9hkT) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Piano Republik](https://open.spotify.com/album/5ggKabvYHoNLEyl3x5K4iZ) | 4:22 | 2023-04-30 |  |
 | [Sol Clap](https://open.spotify.com/track/1AgPNdwUyMtlvYCPbcf9ta) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Magnetica](https://open.spotify.com/album/4RcIb3FX6H4PLqsjzB9onL) | 3:50 | 2023-04-11 |  |
 | [Sol Clap](https://open.spotify.com/track/5hBQOOlFOCWYL1YCbjok1G) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Magnetica](https://open.spotify.com/album/78XbFJf6E4TUeNEXZXi3yP) | 3:50 | 2022-12-20 | 2023-04-30 |
 | [Something Happened \- Pitto Instrumental Remix](https://open.spotify.com/track/0pAQUzD33FnYlqHWBJAJPI) | [TJ Kong](https://open.spotify.com/artist/1MbpqN0oIx9Liyk18wkmRr), [Nuno Dos Santos](https://open.spotify.com/artist/6pbyRsrSdph5CB46Z4cTZw) | [Compost Black Label \#77](https://open.spotify.com/album/5Mf8Fm6DKNAGWPFgKyn78O) | 7:03 | 2022-12-20 |  |

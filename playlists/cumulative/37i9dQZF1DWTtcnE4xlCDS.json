@@ -2673,6 +2673,52 @@
     },
     {
       "album": {
+        "name": "Siren",
+        "url": "https://open.spotify.com/album/65ZrPodzgVDuPP9Tubs8I2"
+      },
+      "artists": [
+        {
+          "name": "\u771f\u65b0\u5bbfGR\u5b66\u5712",
+          "url": "https://open.spotify.com/artist/05W3IYfntUTen1kfrsHY0N"
+        },
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "Wolf Kid",
+          "url": "https://open.spotify.com/artist/2KpHoM5ooSFfgGtUbWqE6z"
+        },
+        {
+          "name": "MOMONADY",
+          "url": "https://open.spotify.com/artist/5ZIx9VxrosBN1Ahp8qZRyV"
+        },
+        {
+          "name": "SHOW",
+          "url": "https://open.spotify.com/artist/3BcTkiYAa3pTebxQrCNhOA"
+        },
+        {
+          "name": "\u5927\u795e \u7e8f (CV: \u5409\u7530\u51dc\u97f3)",
+          "url": "https://open.spotify.com/artist/0KVD9C9bWghG5tKjDMZxrM"
+        },
+        {
+          "name": "\u5b89\u500d=\u30b7\u30e3\u30af\u30b8=\u6469\u8036 (CV: SONOTA)",
+          "url": "https://open.spotify.com/artist/60QMxQ8fL0bkHTo5bQTErW"
+        },
+        {
+          "name": "\u308a\u3080\u308b (CV: \u3092\u3068\u306f)",
+          "url": "https://open.spotify.com/artist/5trPMTBMzwq4ZCACvjAl77"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173880,
+      "name": "Siren",
+      "url": "https://open.spotify.com/track/0kF3H78V1XRGUCvArU7PCc"
+    },
+    {
+      "album": {
         "name": "Sirens in the Beginning",
         "url": "https://open.spotify.com/album/41aQJ6VnDr7aU1wLOFRDsn"
       },

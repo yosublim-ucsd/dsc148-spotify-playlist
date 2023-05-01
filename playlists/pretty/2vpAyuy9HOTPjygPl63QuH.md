@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,913 likes - 33 songs - 1 hr 51 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,912 likes - 33 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Telugu Tech](https://open.spotify.com/track/5XyvNxXQYEWf8654gd4zak) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Telugu Tech](https://open.spotify.com/album/4ohWdrUFHI4RKGjoXwwnav) | 3:21 |
 | 2 | [Silence](https://open.spotify.com/track/6WpcKQpHlmnQvzIaduUOkU) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Melle Brown](https://open.spotify.com/artist/0sD8M4PoVLNDJ82fi6oG5e) | [Silence](https://open.spotify.com/album/5U4ADX9bIDh1pN4aSQZM4a) | 2:59 |
-| 3 | [Feel The Same \(feat\. The Melody Men\)](https://open.spotify.com/track/77S8daUg3BQLdaAmH6c8EQ) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Feel The Same \(feat\. The Melody Men\)](https://open.spotify.com/album/0tHzJkyjlBPT8hzSFXdsU2) | 3:03 |
+| 3 | [Feel The Same](https://open.spotify.com/track/77S8daUg3BQLdaAmH6c8EQ) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Feel The Same](https://open.spotify.com/album/0tHzJkyjlBPT8hzSFXdsU2) | 3:03 |
 | 4 | [Concrete Jungle](https://open.spotify.com/track/71cjuvx4ylaoLZJHSyHew2) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Concrete Jungle](https://open.spotify.com/album/3amdSKG2ydGodVwnWUx9OZ) | 2:36 |
 | 5 | [I Feel It Right](https://open.spotify.com/track/5Y5xn6cEjXtsba5ZvVLDs6) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [I Feel It Right](https://open.spotify.com/album/4rXiZ2mWYsuPuxy2dv4fD6) | 3:04 |
 | 6 | [Get Real High](https://open.spotify.com/track/3Ku4xcxvaRIRJAUNBZYQMy) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Get Real High](https://open.spotify.com/album/44Aa6OmcMPoRwSuMeILj6p) | 3:06 |

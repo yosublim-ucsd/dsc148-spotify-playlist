@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyCx5oDZNWJ.md) - [plain]
 
 > <a href="spotify:artist:3CdsJ9u53uPu3dScKypLVv">Shkoon</a>'s favorite tracks\. Updated regularly\. Curated by Shkoon\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,211 likes - 62 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,230 likes - 62 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyCx5oDZNWJ.md) - [plain]
 | 11 | [Let The Sunshine In](https://open.spotify.com/track/2QK3MvIBtg6ofQXzx71soX) | [Galt MacDermot](https://open.spotify.com/artist/3b6TinIPahsS8iSCYAeinr) | [Up From The Basement \- Unreleased Tracks \- Volumes 1 & 2](https://open.spotify.com/album/2l6jlkSuortxDkuCnEay4s) | 2:39 |
 | 12 | [Dévoué](https://open.spotify.com/track/3BDC7YYDL6BdfvXa1iqzu1) | [Moscoman](https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ) | [Dévoué EP](https://open.spotify.com/album/2s15PdNNJI61qtBiBZgUXT) | 7:11 |
 | 13 | [Cog in the Wheel](https://open.spotify.com/track/3uXfYljIQAhATWWGjjCSJA) | [Baba Ali](https://open.spotify.com/artist/48US3n5ecZ1TS4RjzsdWrm) | [Nomad EP](https://open.spotify.com/album/4hmZkn8K8JoUch7jzFNjeb) | 5:19 |
-| 14 | [Corre Riba, Corre Baxo](https://open.spotify.com/track/2PSVCAtIQH4tI3fAq6VZWH) | [Abel Lima](https://open.spotify.com/artist/6IhMyPQwTBivqok4kKvMmh) | [Space Echo: The Mystery Behind the Cosmic Sound of Cabo Verde Finally Revealed! \(Analog Africa No\. 20\)](https://open.spotify.com/album/2EsNUbAePfQi6qNBjVLtfi) | 3:08 |
+| 14 | [Corre Riba, Corre Baxo](https://open.spotify.com/track/0EYWqqcA5u50FyEaFw1i5R) | [Abel Lima](https://open.spotify.com/artist/6IhMyPQwTBivqok4kKvMmh) | [Space Echo: The Mystery Behind the Cosmic Sound of Cabo Verde Finally Revealed! \(Analog Africa No\. 20\)](https://open.spotify.com/album/7yYCur0sIPkHz2PE62YHDP) | 3:08 |
 | 15 | [Inner City Blues \(Make Me Wanna Holler\)](https://open.spotify.com/track/5hReWjUHqPqkHi31G7izL4) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 5:27 |
 | 16 | [Last Chance](https://open.spotify.com/track/4rplK4ylZurvDv5plS2dVS) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP), [The Spy From Cairo](https://open.spotify.com/artist/36C73GYwgP8rqwCjUyswoS) | [Bennu](https://open.spotify.com/album/0BPzY1R6aYUNRZcE2xa1Xf) | 2:47 |
 | 17 | [Merlins Head](https://open.spotify.com/track/1xTZwX3XDsvnwk5jdDxTRB) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Juno](https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9) | 4:47 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyCx5oDZNWJ.md) - [plain]
 | 61 | [Leave](https://open.spotify.com/track/2KaMBqn9UBbWkl4Ky7ORVp) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl), [Speckman](https://open.spotify.com/artist/6HMaWR5x7y2AYCWydAipj7) | [Leave](https://open.spotify.com/album/692P5jdZFc1S27zguBg5dd) | 4:30 |
 | 62 | [Herzan](https://open.spotify.com/track/3P3f5t7hVpRSX6YSX64WrV) | [Soapkills](https://open.spotify.com/artist/6PRGhDtDWSgyw60WSfna8v) | [Enta Fen](https://open.spotify.com/album/58A0G1FfTqJGig0TWUjcU3) | 3:21 |
 
-Snapshot ID: `MCxjNWE2ZGEzNWU4MmVmNWZlYjNmNWY4NzE2MDczY2U4NjliZWFiNmNj`
+Snapshot ID: `MCxkMDFlNWMxYmUzMGJjNWE1M2E5NDRkM2ZmMzgyNDAwMmI1YTE1ZTFk`

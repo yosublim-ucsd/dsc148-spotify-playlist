@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Pathu Thala
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,716 likes - 53 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,111 likes - 53 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 52 | [Soul Of Varisu \(From "Varisu"\)](https://open.spotify.com/track/5xqK2eth6i7xgH2Ov817H5) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Soul Of Varisu \(From "Varisu"\)](https://open.spotify.com/album/4vlynRz37CoL7nCGHHCNU9) | 2:07 |
 | 53 | [Muthuvel Pandian Theme \(From "Jailer"\)](https://open.spotify.com/track/6Y4it0x4uP5rI0lv05ymk1) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Muthuvel Pandian Theme \(From "Jailer"\)](https://open.spotify.com/album/610ByI4AyDj3TdrMDZbKWS) | 1:43 |
 
-Snapshot ID: `MCw1NWRlNjJmZGJiY2VmZjc3NzFkYWJmNTg4Y2VhNDY1Y2I3ZGEwNzY2`
+Snapshot ID: `MCxkNTdlYTIzODNhNTE4MWQxZjAzMGM2ZGI0YzI3ZTgzMjFlNmEzMzdi`

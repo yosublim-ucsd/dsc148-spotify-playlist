@@ -4,7 +4,7 @@
 
 > Pushing the boundaries of instrumental Folk and Americana.
 
-89 songs - 6 hr 7 min
+90 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,8 +53,9 @@
 | [Jericho](https://open.spotify.com/track/5oNvZprFIEffLJv5jVa9h9) | [Laurel Premo](https://open.spotify.com/artist/1xb97sU2gSPLt2TBtKQeVT) | [Jericho](https://open.spotify.com/album/0Vq9bdUGdZUCW2i1rmnjfk) | 4:52 | 2022-02-10 |  |
 | [Lena's Spanish Fandango](https://open.spotify.com/track/3FknYgCiy9dsgoftmVgMIs) | [Cameron Knowler](https://open.spotify.com/artist/23AZoLIuQTmTt3jK7VOMkP) | [Places of Consequence](https://open.spotify.com/album/09rJ0SbyOwy3bjm8PUiiLG) | 2:13 | 2023-04-14 |  |
 | [Lena's Spanish Fandango](https://open.spotify.com/track/6OCTtpocRWu99aukOBx5Ho) | [Cameron Knowler](https://open.spotify.com/artist/23AZoLIuQTmTt3jK7VOMkP) | [Lena's Spanish Fandango](https://open.spotify.com/album/6l5BY7ev03UzlbJxKrq1bH) | 2:13 | 2022-02-10 | 2023-04-29 |
+| [Letting Go](https://open.spotify.com/track/0g6wylEFEz28As6I6iVmhh) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/6kEte3BcsOoAwuGnVTkgME) | 3:24 | 2023-04-14 |  |
 | [Letting Go](https://open.spotify.com/track/0hsN9kGuV9J9KLcaB2l6Es) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/1uxQAxembtxvtTk1AoS7KQ) | 3:24 | 2022-02-10 | 2022-07-29 |
-| [Letting Go](https://open.spotify.com/track/2sYKMfMLXwmK6idbtpxYTD) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/46N1u5BuUGsZlj7pij2JRK) | 3:24 | 2022-04-22 |  |
+| [Letting Go](https://open.spotify.com/track/2sYKMfMLXwmK6idbtpxYTD) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/46N1u5BuUGsZlj7pij2JRK) | 3:24 | 2022-04-22 | 2023-05-01 |
 | [Lord It Over](https://open.spotify.com/track/1ep4SZNTde7rDftHhY9Yq1) | [Dylan Golden Aycock](https://open.spotify.com/artist/5LO5Gtv41xC0058NdQsDmZ) | [Church of Level Track](https://open.spotify.com/album/0naTNqCkQO4hukkSaWk9Md) | 4:38 | 2022-02-10 |  |
 | [Magic On Television](https://open.spotify.com/track/3iGrVu4WWxgVXeDA9DzpvK) | [Rob Noyes](https://open.spotify.com/artist/7fZ7su6bgTRy96bAUZJVaT) | [Arc Minutes](https://open.spotify.com/album/70ueiLONdgQZhlfDEeu377) | 3:05 | 2022-02-10 |  |
 | [Ocean City](https://open.spotify.com/track/6NlmKEFtS7NpWTRtlr0HLy) | [Gunn \- Truscinski Duo](https://open.spotify.com/artist/58PU6MWEroVyXXTXmpzdny) | [Soundkeeper](https://open.spotify.com/album/67YWUjgE252g3HnFOWwzhA) | 5:09 | 2023-04-14 |  |

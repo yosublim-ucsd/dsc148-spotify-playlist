@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSYtampkg5n.md) - [plain]
 
 > Sheer joy for sunny days in 50 old and new African jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,580 likes - 50 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,578 likes - 50 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSYtampkg5n.md) - [plain]
 | 19 | [Shaka Bundu](https://open.spotify.com/track/3XUjBarjhIMhwdIqHEYpPq) | [Penny Penny](https://open.spotify.com/artist/06Q8GDhLVAoLAQwwFCPiAp) | [Shaka Bundu](https://open.spotify.com/album/6rAslHNWd1rE26WNyu1tM7) | 4:50 |
 | 20 | [The Talking Fish](https://open.spotify.com/track/1sGYDYE8dg47jnGFfM089j) | [Ibibio Sound Machine](https://open.spotify.com/artist/4J6CnIqPEtWYn3la2YYj2c) | [Ibibio Sound Machine](https://open.spotify.com/album/2X8EHo2qYg6L5SsYcF4Iy3) | 4:40 |
 | 21 | [Greetings](https://open.spotify.com/track/2ha70kafYrxpwKB2DHLTJT) | [Johnny Haastrup](https://open.spotify.com/artist/2CQhdBxDO7W5bNDAYC82xb) | [Soundway presents Nigeria Disco Funk Special \(The Sound of the Underground Lagos Dancefloor 1974\-1979\)](https://open.spotify.com/album/0dz2rEJQWICfv4tbVIJFbc) | 6:14 |
-| 22 | [Kai Wawa](https://open.spotify.com/track/5ZNfrNTjNWrDqGF6TAOhnM) | [The Mercury Dance Band](https://open.spotify.com/artist/5s7yP5PdeJyqfoLJ50YYBB) | [Ghana Special: Modern Highlife, Afro Sounds & Ghanaian Blues 1968\-81](https://open.spotify.com/album/6Q7IHMtwm5rvoTuPL8lUkz) | 3:00 |
+| 22 | [Kai Wawa](https://open.spotify.com/track/4QjZfrqndQfDn7tz8dHBRr) | [The Mercury Dance Band](https://open.spotify.com/artist/5s7yP5PdeJyqfoLJ50YYBB) | [Ghana Special: Modern Highlife, Afro Sounds & Ghanaian Blues 1968\-81](https://open.spotify.com/album/7JxOC157mJOWGQmIpCv6YL) | 3:00 |
 | 23 | [Akoko Ba](https://open.spotify.com/track/67jYMnAQsCPM0CGtNTr8NM) | [Gyedu\-Blay Ambolley and His Creations](https://open.spotify.com/artist/2sNHRUX6XU5Bnfnh8JOdZI) | [Ghana Special: Modern Highlife, Afro Sounds & Ghanaian Blues 1968\-81](https://open.spotify.com/album/7JxOC157mJOWGQmIpCv6YL) | 5:26 |
 | 24 | [Disco Dancer](https://open.spotify.com/track/5q8C9VZQBmo9ITXI21p11K) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/0gHy3GjU1oQMce8ZJi2EKL) | 6:56 |
 | 25 | [When the Going is Smooth & Good](https://open.spotify.com/track/13oiVcrRczGhGVbWr38qdq) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi) | [Anything You Sow](https://open.spotify.com/album/7hhXs3XnlGTf65404kxQZs) | 12:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSYtampkg5n.md) - [plain]
 | 49 | [Disco Hi \- Life](https://open.spotify.com/track/7LRRSTX1m4CzW8MXnfoxa0) | [Orlando Julius](https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L) | [Disco Hi\-Life](https://open.spotify.com/album/3imgLN3LrdTmKN5ZyoDBxU) | 8:55 |
 | 50 | [Obaa Sima](https://open.spotify.com/track/4LyxysVt5v3kkdJUSx8wvZ) | [Ata Kak](https://open.spotify.com/artist/172WdsNGJYNNXVNQ1tXfrB) | [Obaa Sima](https://open.spotify.com/album/2ERqie1S8nRnxh14keiTBu) | 5:38 |
 
-Snapshot ID: `MCw2OWMyNmMzYTQyOTdjZDEwY2M4NjZiNDdhMmNjZTc1MjE1Y2U4ZTBj`
+Snapshot ID: `MCxkZDk3NmZhZjc1MjQ0MDg1OTUxYTZkMTE0ZDM4YmZkZWI1YjIxNmY4`

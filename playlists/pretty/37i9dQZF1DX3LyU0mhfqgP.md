@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > The hottest songs from LGBTQIA+ artists\. Cover: LIE NING
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,103,771 likes - 55 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,103,625 likes - 55 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 54 | [Ulubione miejsce](https://open.spotify.com/track/0iFNWwWyfAlv0T4hyJLql7) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Ulubione miejsce](https://open.spotify.com/album/1K30GrnVuxAInOoiXek8sf) | 2:55 |
 | 55 | [Real Love](https://open.spotify.com/track/5aaY8s8X72TDkuNutmWqgl) | [Kimmese](https://open.spotify.com/artist/4w5vfLTFKwpd16ZzmYwcXA), [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO) | [Real Love](https://open.spotify.com/album/36MMfOa4HDNwQcBqgmMJdk) | 3:40 |
 
-Snapshot ID: `MCwxZGU3YzhjYTQ0YmMwZjEyZGQxZTY3ZTI0NzkxMGU5M2I2OWE1MmU5`
+Snapshot ID: `MCwxMWVjYjQ5YmI5Njk5M2JjODkxMDA2ZDYzMTJiMzMyMzNjOGE2YzE4`

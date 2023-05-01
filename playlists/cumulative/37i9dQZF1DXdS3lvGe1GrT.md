@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Superviolet \| Visual Artist: Bailey Elder
 
-592 songs - 1 day 11 hr 34 min
+593 songs - 1 day 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [Crossed Paths](https://open.spotify.com/track/13e0ZH44yMl5zMiFwTGXUD) | [Nydia Gonzalez](https://open.spotify.com/artist/3nH2RqalRI5Nf4WqQl51pI) | [Nydia Gonzalez](https://open.spotify.com/album/5KC0wppjb7Vz9PtvLtoZFP) | 2:29 | 2023-03-15 | 2023-04-21 |
 | [Crow](https://open.spotify.com/track/5UW5IgM1kZsYjkltaE3iGy) | [Prima Queen](https://open.spotify.com/artist/52fhNGn51RhUvjlapHT5T2) | [Crow](https://open.spotify.com/album/2OSzhl1rtKVog2XrBMtkd1) | 3:23 | 2023-04-12 |  |
 | [Cuffley](https://open.spotify.com/track/6mDnYUHKENd6FHiMziKKYk) | [Alexander William](https://open.spotify.com/artist/2NqshbL4WoWDXM5VE1hKXc) | [Cuffley](https://open.spotify.com/album/1AaZpONeWcNlLiE6IyyleD) | 3:56 | 2022-06-15 | 2022-09-22 |
-| [Cut and Dry](https://open.spotify.com/track/23FogBuJHB3BB13rOZ908W) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Cut and Dry](https://open.spotify.com/album/6nVUrCAmuqzGSU3ioNAlpI) | 3:24 | 2023-04-12 |  |
+| [Cut and Dry](https://open.spotify.com/track/23FogBuJHB3BB13rOZ908W) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Cut and Dry](https://open.spotify.com/album/6nVUrCAmuqzGSU3ioNAlpI) | 3:24 | 2023-04-12 | 2023-05-01 |
+| [Cut and Dry](https://open.spotify.com/track/57QCpNCSAWW8XxZeETOXKd) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Cut and Dry](https://open.spotify.com/album/1plq63GCmfFINEtn9aCUbP) | 3:24 | 2023-04-12 |  |
 | [Cycle](https://open.spotify.com/track/6qD6zcjxBsVQotCS2uquHQ) | [Lucy Clearwater](https://open.spotify.com/artist/6UmyuelV4DRx79BFPMWNPj), [Horace Bray](https://open.spotify.com/artist/2jIZEoSCmhxiHyA1rMc01u) | [Cycle](https://open.spotify.com/album/5HKaMVfEnGNYJVKrRHo8NZ) | 3:45 | 2022-05-25 | 2022-08-04 |
 | [Daddy Lessons](https://open.spotify.com/track/6rpO7sw5yy6p98962KXC91) | [Maggie Antone](https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp) | [Interpretations](https://open.spotify.com/album/7BQpnNS1KLMn8rSD6NBtLx) | 4:26 | 2023-01-11 | 2023-03-02 |
 | [Dark Side Of Dreaming](https://open.spotify.com/track/3lcFzLTCJ30L3km2BXYVg6) | [Tyler Cain](https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd) | [Dark Side Of Dreaming](https://open.spotify.com/album/3kpilREq1Jsj4UwADIr4YR) | 3:21 | 2023-01-25 | 2023-03-16 |

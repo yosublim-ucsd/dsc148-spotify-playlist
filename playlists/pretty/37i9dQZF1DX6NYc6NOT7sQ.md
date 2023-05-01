@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6NYc6NOT7sQ.md) - [plain]
 
 > <a href="spotify:artist:3gNEIgLeknpwkNViU8WAhg">Oceanvs Orientalis</a>' favorite tracks\. Updated regularly\. Curated by Oceanvs Orientalis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,313 likes - 85 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,379 likes - 85 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6NYc6NOT7sQ.md) - [plain]
 | 13 | [harami](https://open.spotify.com/track/1ZnJkF9IkibF0fmNcKwpOO) | [talking rocks](https://open.spotify.com/artist/4dtZP42cTa7KX9sbpz31dX) | [misfit mantra](https://open.spotify.com/album/4GwWwpisaCBuVEqfrg2t28) | 5:31 |
 | 14 | [Yemayá](https://open.spotify.com/track/1LNxaEths4h9zioJN4yjJ4) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Yemayá](https://open.spotify.com/album/2sJglv0TslV4flsyAqQGmz) | 3:59 |
 | 15 | [Space Age \- Original](https://open.spotify.com/track/4NiS44isUaBf2YHD6KVw52) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Qualista](https://open.spotify.com/artist/2rIvjgB0z5QII5THLUVArN) | [Atomic Alchemy](https://open.spotify.com/album/49Ja0XYLywQFJMgFfBUBL0) | 8:11 |
-| 16 | [Cat Nip](https://open.spotify.com/track/3IdiOhAovsCW48Hw7rZRrD) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/6vV2zYfImg0HdmJ21FVIzp) | 3:27 |
+| 16 | [Cat Nip](https://open.spotify.com/track/2nfHZUbJiAGkvNGWBoSoN6) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:27 |
 | 17 | [Hustlin'](https://open.spotify.com/track/3trYQwOGZsmRdONdbur5s0) | [Twerking Class Heroes](https://open.spotify.com/artist/4K3mdw1y4Wsl7Nf0nEYFf2) | [Boombia](https://open.spotify.com/album/3Kaba1b4KvMfd4NDKWqYig) | 5:32 |
 | 18 | [Atomic Alchemy \- Original](https://open.spotify.com/track/2sntzWf1oa90KGpqDb9pPX) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Qualista](https://open.spotify.com/artist/2rIvjgB0z5QII5THLUVArN) | [Atomic Alchemy](https://open.spotify.com/album/49Ja0XYLywQFJMgFfBUBL0) | 5:53 |
 | 19 | [Who Knows](https://open.spotify.com/track/6pul7BJkKcVHIewzPLW2rc) | [Marion Black](https://open.spotify.com/artist/2VF421Sz9nBUdNzwqSTp7z) | [Who Knows b/w Go On Fool](https://open.spotify.com/album/3BMuJ1NQORhCC0PsQyg93m) | 2:18 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6NYc6NOT7sQ.md) - [plain]
 | 84 | [Marmara](https://open.spotify.com/track/0mWySChvIoNiwwjrseycdT) | [Muno](https://open.spotify.com/artist/1DZGRRvmPsjC8o8F8MwpRe) | [Marmara](https://open.spotify.com/album/4j0YbHO2ronLXxxVXHEMt2) | 5:50 |
 | 85 | [Lyre](https://open.spotify.com/track/6sFgqgE20JJ3whmxIOoP8h) | [NINZE & OKAXY](https://open.spotify.com/artist/4yJU0dWTxh9cmKKjXWOneJ) | [Cranes at Night](https://open.spotify.com/album/7CTizjF89XdarzPdTPMmdW) | 5:35 |
 
-Snapshot ID: `MCxiNGQ5N2FmZmVhODcxYjA2N2I3ODE2YzU3MTgzZDA1MWU0ZWY5NmEx`
+Snapshot ID: `MCw1NmViYjcyZWY2MzY5OWU3MjdhYjA3MjkxNTc2NDBkNDk2Mzk2N2Iy`

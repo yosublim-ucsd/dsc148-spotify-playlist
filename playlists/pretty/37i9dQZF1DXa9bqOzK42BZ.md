@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover <a href="https://open.spotify.com/artist/7LYWtUyWFb2GIE5sjigMvX">Lord Dombo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,846 likes - 60 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,851 likes - 60 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 59 | [Uniongoze Yesu](https://open.spotify.com/track/2V5Bn7Mazl8A7jNQ4fdyTy) | [UPENDO NKONE](https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n) | [Uniongoze Yesu, Vol.4](https://open.spotify.com/album/01mAHADPk1dOnHMBb1ILbx) | 8:10 |
 | 60 | [Patakatifu Pako](https://open.spotify.com/track/0A5iR3HinWss1nwGvGn0hB) | [Erick Smith](https://open.spotify.com/artist/2DyY70tIr0laRzbYBA7bLg) | [Wewe Ni Zaidi](https://open.spotify.com/album/6twPp6yBQOTyAevVPbUZj1) | 5:03 |
 
-Snapshot ID: `MCw4NmI1ZTBjYWVlZjg4NGQyMWVmMDUwNjU0Yzc5ZWJlNmVkOTgzMzgw`
+Snapshot ID: `MCxmYjFiMzlkYThhZmQyMmQ5YWM1Zjg4ZjIwMjM0ZTUyYTFlODkzMjc3`

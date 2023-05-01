@@ -1,12 +1,12 @@
 {
   "description": "All your Disco favorites. Cover: Donna Summer",
-  "num_followers": 1477837,
+  "num_followers": 1478180,
   "original_name": "Disco Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTJjNzY0NDdhNjBjZTMzZDhjMTRmMTFmNzQ0MWVjMWMxNDE3YjQ1",
+  "snapshot_id": "MCwzZDg2YTFlYmNjMjJhNDUwMzhkYjg0N2U5YzY5Nzc0Y2ViNDY4MzU4",
   "tracks": [
     {
       "added_at": "2022-08-31 15:13:54",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-08-31 15:13:54",
       "album": {
-        "name": "Big Fun",
-        "url": "https://open.spotify.com/album/0wPapw2OnSgmpg8G1DpZtI"
-      },
-      "artists": [
-        {
-          "name": "Shalamar",
-          "url": "https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A"
-        }
-      ],
-      "duration_ms": 223293,
-      "name": "The Second Time Around",
-      "url": "https://open.spotify.com/track/6yh8yf1jpPrTMA5cezYpbi"
-    },
-    {
-      "added_at": "2022-08-31 15:13:54",
-      "album": {
         "name": "A Taste Of Honey",
         "url": "https://open.spotify.com/album/4QJA3YXQdpLhuIztkSgrpo"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 245173,
       "name": "Boogie Oogie Oogie",
       "url": "https://open.spotify.com/track/1Rl9GHgsflyIVqBRyO45Zo"
+    },
+    {
+      "added_at": "2022-08-31 15:13:54",
+      "album": {
+        "name": "Big Fun",
+        "url": "https://open.spotify.com/album/0wPapw2OnSgmpg8G1DpZtI"
+      },
+      "artists": [
+        {
+          "name": "Shalamar",
+          "url": "https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A"
+        }
+      ],
+      "duration_ms": 223293,
+      "name": "The Second Time Around",
+      "url": "https://open.spotify.com/track/6yh8yf1jpPrTMA5cezYpbi"
     }
   ],
   "unique_name": "Disco Forever",

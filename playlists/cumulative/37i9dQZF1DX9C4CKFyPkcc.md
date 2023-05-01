@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-183 songs - 10 hr 51 min
+184 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Go Tell It on the Mountain](https://open.spotify.com/track/2MCi8fqRWip329C03pPwM6) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Go Tell It on the Mountain](https://open.spotify.com/album/1BdRybKJs15rBDE51UOzm8) | 3:39 | 2021-12-24 |  |
 | [Go Tell It on the Mountain \(feat\. Brad Wheeler\)](https://open.spotify.com/track/4bRJr0gSXtgOrLVG3Iwolh) | [GENTRI](https://open.spotify.com/artist/4sk2zZdhVRMhb1BEtcxUKf), [Brad Wheeler](https://open.spotify.com/artist/5IJ4o6qVqQHdD4ey0ZUl2F) | [Season of Light](https://open.spotify.com/album/5kUqoEk2Vuk9fmOfDCZFbB) | 4:02 | 2022-12-11 | 2022-12-21 |
 | [God Rest](https://open.spotify.com/track/0EEztnoPFhtd5SlfbS6qeJ) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [What A Beautiful Night](https://open.spotify.com/album/0EeEx2laes67i5MaTKmvNf) | 3:50 | 2022-12-11 |  |
-| [God With Us \- Live](https://open.spotify.com/track/50v2NQts2bIqKF7jfWu7Vw) | [The Worship Project](https://open.spotify.com/artist/1HfLz4ZQ8xPPzPeoS2iKi3), [Brooke Nicholls](https://open.spotify.com/artist/0phq5bIgmJH85OUSjsI8Bg) | [Christmas \- Live at Tyndale University](https://open.spotify.com/album/2PsUI1qRMs5RZQJx2llhoX) | 4:08 | 2022-12-11 |  |
+| [God With Us \- Live](https://open.spotify.com/track/50v2NQts2bIqKF7jfWu7Vw) | [The Worship Project](https://open.spotify.com/artist/1HfLz4ZQ8xPPzPeoS2iKi3), [Brooke Nicholls](https://open.spotify.com/artist/0phq5bIgmJH85OUSjsI8Bg) | [Christmas \- Live at Tyndale University](https://open.spotify.com/album/2PsUI1qRMs5RZQJx2llhoX) | 4:08 | 2022-12-11 | 2023-05-01 |
 | [Good King Wenceslas](https://open.spotify.com/track/4WM0DbMzh0oph7NMEYHgkg) | [Menna](https://open.spotify.com/artist/5kLvMAFanr3jQ7iuciSCuM) | [Good King Wenceslas](https://open.spotify.com/album/2O90tt21lbxx341mb2VnDy) | 3:43 | 2021-12-24 |  |
 | [Good News](https://open.spotify.com/track/78AJvJd1805nh1PhaQZJ4V) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Good News](https://open.spotify.com/album/09xc06CHXpz6dBFRQtGg2g) | 3:52 | 2021-12-24 |  |
 | [Great Christmas](https://open.spotify.com/track/6pt8hwewlxOm7UZfEsx9t4) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Great Christmas](https://open.spotify.com/album/1BBSnDN7zRzoBf4bQncMGw) | 2:47 | 2022-12-11 |  |
@@ -78,6 +78,7 @@
 | [Hope's Come to Town](https://open.spotify.com/track/76yElxLOh6tjCQTQrLKxXJ) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Lovkn Christmas: Awaited One](https://open.spotify.com/album/2OlK6S3FFUPYYNzXTzisXE) | 3:08 | 2021-12-24 |  |
 | [I Can Hardly Wait 'Til Christmas](https://open.spotify.com/track/3Adcm6OYZUASt6MRoWfJEf) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Home For Christmas](https://open.spotify.com/album/0xFsRgSW5ufmhn2ytb4zCw) | 4:47 | 2021-12-24 |  |
 | [I Don't Want Christmas to End](https://open.spotify.com/track/2bc79MDIi1VULLU3KqyMoB) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [I Don't Want Christmas to End](https://open.spotify.com/album/76Vw1t2n6PBb0GiQK7p5aj) | 3:49 | 2021-12-24 |  |
+| [I Have Finished The Race](https://open.spotify.com/track/4iOycRDZBb0mkKy6EGqiEr) | [Hannah Schaefer](https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s), [Francesca LaRosa](https://open.spotify.com/artist/2XaFV5Bz4k3oEFBfZSGVoQ) | [Wrapped In Peace](https://open.spotify.com/album/6b7u6tlbjgaS5AqG0jPCkN) | 4:08 | 2022-12-11 |  |
 | [I Still Believe In Christmas](https://open.spotify.com/track/61m5ozWPHO2TgxNCdqizvl) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [I Still Believe In Christmas](https://open.spotify.com/album/6G85UPaNcCZ1bELHNzOEIF) | 3:48 | 2021-12-24 |  |
 | [I Wish It Would Snow](https://open.spotify.com/track/78pwKtHN83mApILvMcp2ZL) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [I Wish It Would Snow](https://open.spotify.com/album/6l7uq39brjSI3uEacWRkDP) | 2:45 | 2021-12-24 |  |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/6UzZMvSllutX26M5vA9H63) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Christmas With PJ Morton](https://open.spotify.com/album/6CCI8iFCudEj8BrLUs3Mj6) | 3:57 | 2022-12-11 |  |

@@ -4046,7 +4046,7 @@
     {
       "album": {
         "name": "The Grief We Gave Our Mother",
-        "url": "https://open.spotify.com/album/7snLxBVME5RadyC4qFlgHk"
+        "url": "https://open.spotify.com/album/2Ifp1dtGFThoNNwSJ5tsqm"
       },
       "artists": [
         {
@@ -4057,6 +4057,24 @@
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 202880,
+      "name": "I\u2019m Still Trying",
+      "url": "https://open.spotify.com/track/13BHB3xTpwilLi5cYN1haC"
+    },
+    {
+      "album": {
+        "name": "The Grief We Gave Our Mother",
+        "url": "https://open.spotify.com/album/7snLxBVME5RadyC4qFlgHk"
+      },
+      "artists": [
+        {
+          "name": "Matthew Fowler",
+          "url": "https://open.spotify.com/artist/4sEwd00h37jbfriErP8soZ"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-01",
       "duration_ms": 202880,
       "name": "I\u2019m Still Trying",
       "url": "https://open.spotify.com/track/7DPecD3ijWkltDP4WUyMok"

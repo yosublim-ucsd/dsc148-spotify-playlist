@@ -4,7 +4,7 @@
 
 > You bring the ingredients\. We bring the flavor\. Enjoy la cena!
 
-213 songs - 13 hr 28 min
+214 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Cartagena](https://open.spotify.com/track/7nuAQwrVIe6ulWBaM1eR71) | [Rafael Pondé](https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc), [Melo Gía](https://open.spotify.com/artist/1mBhm9EVdCyvCSS9ujhseU) | [Cartagena](https://open.spotify.com/album/2moAPQ5wUo2OFVY6hGOKz9) | 3:41 | 2021-12-09 |  |
 | [Casa en el árbol](https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Casa en el árbol](https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR) | 3:39 | 2023-03-07 |  |
 | [Catin Latin](https://open.spotify.com/track/38dUD8S84uJi5NGmQ3LsRX) | [Dave Pike](https://open.spotify.com/artist/64Qwp26Lb2beXJzBs0qBpl) | [The Very Best Of Dave Pike \(The Latin Jazz Legend\)](https://open.spotify.com/album/68HyYBWjTgPL4liVhD3OX6) | 4:49 | 2021-12-09 | 2022-07-29 |
-| [Cattin' Latin](https://open.spotify.com/track/2U5ceAAb10OELgDJ8YVuxl) | [Dave Pike](https://open.spotify.com/artist/64Qwp26Lb2beXJzBs0qBpl) | [The Carnival Samba](https://open.spotify.com/album/2sK8QxfxxHE6ky4OVuXLsz) | 4:47 | 2023-03-07 |  |
+| [Cattin' Latin](https://open.spotify.com/track/2U5ceAAb10OELgDJ8YVuxl) | [Dave Pike](https://open.spotify.com/artist/64Qwp26Lb2beXJzBs0qBpl) | [The Carnival Samba](https://open.spotify.com/album/2sK8QxfxxHE6ky4OVuXLsz) | 4:47 | 2023-03-07 | 2023-05-01 |
 | [Cerca de ti \(feat\. Georgina\)](https://open.spotify.com/track/10oji60Sz18msn5AgTQI58) | [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3), [Georgina](https://open.spotify.com/artist/71cjWNRukkIF8Ulh006x3b) | [Cerca de ti \(feat\. Georgina\)](https://open.spotify.com/album/2aaxxiwKt6qDtMnw9awlXi) | 3:28 | 2021-12-09 |  |
 | [Chocolat \(Swing\)](https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Bailables](https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW) | 3:44 | 2021-12-09 |  |
 | [Ché Ché Colé](https://open.spotify.com/track/5qpaGx8k2HKYzOqfYjTiwM) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Año Nuevo, Vida Nueva](https://open.spotify.com/album/5mUkfaaM8ioUFphoF0ewKE) | 3:27 | 2022-08-31 | 2022-11-14 |
@@ -129,6 +129,7 @@
 | [Mi Swing Es Tropical](https://open.spotify.com/track/5eUdif4B91mqx5cCTUhDul) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3) | [WonderWorld: 10 Years of Painting Outside the Lines](https://open.spotify.com/album/0c9bzJeM1cLRdgp4C0F3at) | 3:42 | 2022-08-31 | 2022-10-16 |
 | [Mi Swing es Tropical](https://open.spotify.com/track/0KTbezuHAJkcsiHewSuR1y) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Endangered Species \(Bonus Edition\)](https://open.spotify.com/album/0CoLMsQMDv7pSbLaJHF0mJ) | 3:42 | 2022-08-31 | 2023-04-30 |
 | [Mi Swing es Tropical](https://open.spotify.com/track/3z2aHQwr9MJ5g7DA19tpha) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Endangered Species \(Bonus Edition\)](https://open.spotify.com/album/5QAwzwTSEcpwnbEE2NvzqD) | 3:42 | 2022-01-01 | 2022-10-13 |
+| [Mi Swing es Tropical](https://open.spotify.com/track/3zK2IUdvnOaKWC3yCP0P3C) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Tempo](https://open.spotify.com/artist/3vfmc1eVYcXWTUl25loS0O) | [Endangered Species \(Bonus Edition\)](https://open.spotify.com/album/37XWqnkktzlWXa5JGp7zF3) | 3:42 | 2023-04-28 |  |
 | [Mi Swing Es Tropical](https://open.spotify.com/track/2RdvX8uw4DKROEDlmr90BR) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn), [The Candela Allstars](https://open.spotify.com/artist/3jNA6s9uYZGYZpGXbS3dyn) | [Brazilution \(5.6\)](https://open.spotify.com/album/6zIEQjLOh2016UhhmaMoJh) | 3:54 | 2022-08-31 | 2022-11-13 |
 | [Mi Swing Es Tropical \- feat\. Nickodemus, Tempo & The Candela All\-Stars](https://open.spotify.com/track/7gwDfgLHTlH0SnXKPPTvCj) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [The Best of Quantic](https://open.spotify.com/album/6M6zSe2XmL5bv4SU9SG7aW) | 3:54 | 2021-12-09 | 2022-07-29 |
 | [Mofongo](https://open.spotify.com/track/09FxzLf2KRfDpXbJWIdmE3) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Mofongo](https://open.spotify.com/album/02f0PqumrnL0YhbcxtxgLU) | 2:51 | 2021-12-09 | 2022-11-13 |

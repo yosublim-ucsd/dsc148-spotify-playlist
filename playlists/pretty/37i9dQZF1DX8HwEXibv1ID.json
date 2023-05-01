@@ -1,12 +1,12 @@
 {
   "description": "Instrumental and vocal versions of the incredible Cole Porter. Cover: Cole Porter",
-  "num_followers": 26436,
+  "num_followers": 26494,
   "original_name": "The Cole Porter Songbook",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDg5NTQyNDlkYjNlNjg5NTU1NDEwNTYyZGEwMGJlYzlmMTRjMTM5",
+  "snapshot_id": "MCxlNDlmMTU4YzI2OWI0MDMxZDMyOWZjZTVjMTg5NTk2YjYxZjgwN2Iy",
   "tracks": [
     {
       "added_at": "2023-04-26 12:54:44",
@@ -291,18 +291,18 @@
     {
       "added_at": "2023-04-26 12:54:44",
       "album": {
-        "name": "Charlie Parker With Strings (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw"
+        "name": "Just One Of Those Things",
+        "url": "https://open.spotify.com/album/0wYaQk0w9V8wD5rYgAGLek"
       },
       "artists": [
         {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 212386,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/67Bz7gVmb1F5xZMKhjdV6B"
+      "duration_ms": 135080,
+      "name": "Just One Of Those Things",
+      "url": "https://open.spotify.com/track/07KWDsIcRU6r5Ej273QCY3"
     },
     {
       "added_at": "2023-04-26 12:54:44",
@@ -323,18 +323,18 @@
     {
       "added_at": "2023-04-26 12:54:44",
       "album": {
-        "name": "Just One Of Those Things",
-        "url": "https://open.spotify.com/album/0wYaQk0w9V8wD5rYgAGLek"
+        "name": "Charlie Parker With Strings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
         }
       ],
-      "duration_ms": 135080,
-      "name": "Just One Of Those Things",
-      "url": "https://open.spotify.com/track/07KWDsIcRU6r5Ej273QCY3"
+      "duration_ms": 212386,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/67Bz7gVmb1F5xZMKhjdV6B"
     },
     {
       "added_at": "2023-04-26 12:54:44",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-04-26 12:54:44",
       "album": {
-        "name": "Cool Heat",
-        "url": "https://open.spotify.com/album/4Ix7dU6CFuN4UUJW7xpT7u"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 174200,
-      "name": "My Heart Belongs To Daddy",
-      "url": "https://open.spotify.com/track/4il0mfrmW1vTctxmyyjsXT"
-    },
-    {
-      "added_at": "2023-04-26 12:54:44",
-      "album": {
         "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
         "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
       },
@@ -439,18 +423,18 @@
     {
       "added_at": "2023-04-26 12:54:44",
       "album": {
-        "name": "Great Songs From Stage And Screen",
-        "url": "https://open.spotify.com/album/4y6GJcsPLnYDEBtOF7sknV"
+        "name": "Cool Heat",
+        "url": "https://open.spotify.com/album/4Ix7dU6CFuN4UUJW7xpT7u"
       },
       "artists": [
         {
-          "name": "Seth MacFarlane",
-          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
         }
       ],
-      "duration_ms": 221962,
-      "name": "Mind If I Make Love To You",
-      "url": "https://open.spotify.com/track/3GD3m29NcArkb0AjtdBwM8"
+      "duration_ms": 174200,
+      "name": "My Heart Belongs To Daddy",
+      "url": "https://open.spotify.com/track/4il0mfrmW1vTctxmyyjsXT"
     },
     {
       "added_at": "2023-04-26 12:54:44",
@@ -467,6 +451,22 @@
       "duration_ms": 291693,
       "name": "You'd Be So Nice To Come Home To",
       "url": "https://open.spotify.com/track/7702NpFgDboVAIYvKvUQrY"
+    },
+    {
+      "added_at": "2023-04-26 12:54:44",
+      "album": {
+        "name": "Great Songs From Stage And Screen",
+        "url": "https://open.spotify.com/album/4y6GJcsPLnYDEBtOF7sknV"
+      },
+      "artists": [
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        }
+      ],
+      "duration_ms": 221962,
+      "name": "Mind If I Make Love To You",
+      "url": "https://open.spotify.com/track/3GD3m29NcArkb0AjtdBwM8"
     },
     {
       "added_at": "2023-04-26 12:54:44",
@@ -583,26 +583,6 @@
     {
       "added_at": "2023-04-26 12:54:44",
       "album": {
-        "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
-        "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
-      },
-      "artists": [
-        {
-          "name": "Sammy Davis Jr.",
-          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
-        },
-        {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
-        }
-      ],
-      "duration_ms": 182466,
-      "name": "You're The Top",
-      "url": "https://open.spotify.com/track/6pdbfNeGcAkMkkVClm532h"
-    },
-    {
-      "added_at": "2023-04-26 12:54:44",
-      "album": {
         "name": "Close Your Eyes",
         "url": "https://open.spotify.com/album/502uTcoHcwKPVIGREXz9pi"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 205666,
       "name": "Its Delovely",
       "url": "https://open.spotify.com/track/7iPqb64Shlib9ta9ouKyTC"
+    },
+    {
+      "added_at": "2023-04-26 12:54:44",
+      "album": {
+        "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
+        "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
+      },
+      "artists": [
+        {
+          "name": "Sammy Davis Jr.",
+          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
+        },
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "duration_ms": 182466,
+      "name": "You're The Top",
+      "url": "https://open.spotify.com/track/6pdbfNeGcAkMkkVClm532h"
     },
     {
       "added_at": "2023-04-26 12:54:44",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-04-26 12:54:44",
       "album": {
-        "name": "Jeri Southern Meets Cole Porter",
-        "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
-      },
-      "artists": [
-        {
-          "name": "Jeri Southern",
-          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
-        }
-      ],
-      "duration_ms": 170333,
-      "name": "After You",
-      "url": "https://open.spotify.com/track/7sIw0bLbI9sJuKVR5HojFE"
-    },
-    {
-      "added_at": "2023-04-26 12:54:44",
-      "album": {
         "name": "Plays Cole Porter Love Songs",
         "url": "https://open.spotify.com/album/2eGafFrY8qL3HtTmqQ4n9Q"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 315373,
       "name": "When Love Comes Around",
       "url": "https://open.spotify.com/track/1BQBbjtCNK1z7ejXRYASii"
+    },
+    {
+      "added_at": "2023-04-26 12:54:44",
+      "album": {
+        "name": "Jeri Southern Meets Cole Porter",
+        "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
+      },
+      "artists": [
+        {
+          "name": "Jeri Southern",
+          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
+        }
+      ],
+      "duration_ms": 170333,
+      "name": "After You",
+      "url": "https://open.spotify.com/track/7sIw0bLbI9sJuKVR5HojFE"
     },
     {
       "added_at": "2023-04-26 12:54:44",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-04-26 12:54:44",
       "album": {
-        "name": "Easy To Love: The Songs Of Cole Porter",
-        "url": "https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q"
+        "name": "Plays Cole Porter Love Songs",
+        "url": "https://open.spotify.com/album/2eGafFrY8qL3HtTmqQ4n9Q"
       },
       "artists": [
         {
-          "name": "Susannah McCorkle",
-          "url": "https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu"
+          "name": "Jan Lundgren Trio",
+          "url": "https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy"
         }
       ],
-      "duration_ms": 266466,
-      "name": "Why Don't We Try Staying Home?",
-      "url": "https://open.spotify.com/track/7EQzuOEoDBH5hP6UYAeY1B"
+      "duration_ms": 203386,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/5oFEPYz8XBXD0hfe5ZuCIy"
     },
     {
       "added_at": "2023-04-26 12:54:44",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-04-26 12:54:44",
       "album": {
+        "name": "Easy To Love: The Songs Of Cole Porter",
+        "url": "https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q"
+      },
+      "artists": [
+        {
+          "name": "Susannah McCorkle",
+          "url": "https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu"
+        }
+      ],
+      "duration_ms": 266466,
+      "name": "Why Don't We Try Staying Home?",
+      "url": "https://open.spotify.com/track/7EQzuOEoDBH5hP6UYAeY1B"
+    },
+    {
+      "added_at": "2023-04-26 12:54:44",
+      "album": {
         "name": "A Man and His Trombone",
         "url": "https://open.spotify.com/album/1F4BlMdj4N0qXXM11Of6GI"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 168442,
       "name": "Silk Stockings",
       "url": "https://open.spotify.com/track/5iRLpKazu6D8zoNz1RzCmp"
-    },
-    {
-      "added_at": "2023-04-26 12:54:44",
-      "album": {
-        "name": "Plays Cole Porter Love Songs",
-        "url": "https://open.spotify.com/album/2eGafFrY8qL3HtTmqQ4n9Q"
-      },
-      "artists": [
-        {
-          "name": "Jan Lundgren Trio",
-          "url": "https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy"
-        }
-      ],
-      "duration_ms": 203386,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/5oFEPYz8XBXD0hfe5ZuCIy"
     },
     {
       "added_at": "2023-04-26 12:54:44",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-04-26 12:54:44",
       "album": {
-        "name": "Mabel Mercer Sings Cole Porter",
-        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
-      },
-      "artists": [
-        {
-          "name": "Mabel Mercer",
-          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "Ours",
-      "url": "https://open.spotify.com/track/78KdwqXUk0AuKFHDy32ABX"
-    },
-    {
-      "added_at": "2023-04-26 12:54:44",
-      "album": {
         "name": "Plays Cole Porter",
         "url": "https://open.spotify.com/album/1dDLqWvkXcaMoGsa1EgjP5"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2023-04-26 12:54:44",
       "album": {
-        "name": "John Barrowman Swings Cole Porter",
-        "url": "https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k"
+        "name": "Mabel Mercer Sings Cole Porter",
+        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
       },
       "artists": [
         {
-          "name": "John Barrowman",
-          "url": "https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ"
+          "name": "Mabel Mercer",
+          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
         }
       ],
-      "duration_ms": 143066,
-      "name": "\u00c7a, C'est l'Amour",
-      "url": "https://open.spotify.com/track/6O847erzexsdRhzlMJaFa0"
+      "duration_ms": 169400,
+      "name": "Ours",
+      "url": "https://open.spotify.com/track/78KdwqXUk0AuKFHDy32ABX"
     },
     {
       "added_at": "2023-04-26 12:54:44",
@@ -1015,6 +999,22 @@
       "duration_ms": 189906,
       "name": "Goodbye Little Dream, Goodbye",
       "url": "https://open.spotify.com/track/28oUQEAgmiZX5LhZTYXqQW"
+    },
+    {
+      "added_at": "2023-04-26 12:54:44",
+      "album": {
+        "name": "John Barrowman Swings Cole Porter",
+        "url": "https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k"
+      },
+      "artists": [
+        {
+          "name": "John Barrowman",
+          "url": "https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ"
+        }
+      ],
+      "duration_ms": 143066,
+      "name": "\u00c7a, C'est l'Amour",
+      "url": "https://open.spotify.com/track/6O847erzexsdRhzlMJaFa0"
     },
     {
       "added_at": "2023-04-26 12:54:44",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-04-26 12:54:44",
       "album": {
-        "name": "John Barrowman Swings Cole Porter",
-        "url": "https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k"
-      },
-      "artists": [
-        {
-          "name": "John Barrowman",
-          "url": "https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ"
-        }
-      ],
-      "duration_ms": 127906,
-      "name": "I Happen To Like New York",
-      "url": "https://open.spotify.com/track/3m4nAH1cPZHTk4zBDUIMOm"
-    },
-    {
-      "added_at": "2023-04-26 12:54:44",
-      "album": {
         "name": "The Jazz Collection",
         "url": "https://open.spotify.com/album/1cA3CRFpudlbdbICoedUqC"
       },
@@ -1127,6 +1111,42 @@
       "duration_ms": 221959,
       "name": "Allez-Vous En, Go Away",
       "url": "https://open.spotify.com/track/2XmUvzhQxupKbxHxYf4EBb"
+    },
+    {
+      "added_at": "2023-04-26 12:54:44",
+      "album": {
+        "name": "Silk Stockings (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4mYSlsuLpaqRNT1b5hloIz"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        },
+        {
+          "name": "MGM Studio Chorus",
+          "url": "https://open.spotify.com/artist/5dmuBOlipco9YnYwCbN5PW"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "The Ritz Roll and Rock",
+      "url": "https://open.spotify.com/track/6avQ8KrsVqggui50H5zLTb"
+    },
+    {
+      "added_at": "2023-04-26 12:54:44",
+      "album": {
+        "name": "John Barrowman Swings Cole Porter",
+        "url": "https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k"
+      },
+      "artists": [
+        {
+          "name": "John Barrowman",
+          "url": "https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ"
+        }
+      ],
+      "duration_ms": 127906,
+      "name": "I Happen To Like New York",
+      "url": "https://open.spotify.com/track/3m4nAH1cPZHTk4zBDUIMOm"
     },
     {
       "added_at": "2023-04-26 12:54:44",
@@ -1159,26 +1179,6 @@
       "duration_ms": 281733,
       "name": "Blue Swing",
       "url": "https://open.spotify.com/track/4vGA0LrAJNp8NFGx95ZYHZ"
-    },
-    {
-      "added_at": "2023-04-26 12:54:44",
-      "album": {
-        "name": "Silk Stockings (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4mYSlsuLpaqRNT1b5hloIz"
-      },
-      "artists": [
-        {
-          "name": "Fred Astaire",
-          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
-        },
-        {
-          "name": "MGM Studio Chorus",
-          "url": "https://open.spotify.com/artist/5dmuBOlipco9YnYwCbN5PW"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "The Ritz Roll and Rock",
-      "url": "https://open.spotify.com/track/6avQ8KrsVqggui50H5zLTb"
     },
     {
       "added_at": "2023-04-26 12:54:44",

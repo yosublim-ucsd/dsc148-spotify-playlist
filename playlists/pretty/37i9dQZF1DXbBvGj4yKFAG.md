@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 
 > may include
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,756 likes - 118 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,997 likes - 118 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 21 | [Peach Lavender Girl](https://open.spotify.com/track/1o6duWfCrqZrBDtcg4U6tQ) | [Dearly Somber](https://open.spotify.com/artist/2zpjCn1057VSMxzN6JHclH) | [Hourglass](https://open.spotify.com/album/173vl6dvK0QxRsoavnlxtb) | 5:14 |
 | 22 | [TheBestVersionOfMyself](https://open.spotify.com/track/5ew51yiULYPreqN5It5h3S) | [surrenderdorothy](https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp) | [BreathingExercise](https://open.spotify.com/album/35jxEKfiHeAU9yXJlmPOcD) | 1:12 |
 | 23 | [Enjoyer](https://open.spotify.com/track/0WlvboUTfGNKzsszxTa9YI) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Enjoyer](https://open.spotify.com/album/5g1TtsONP7WO45t1bZYanW) | 3:36 |
-| 24 | [Advice](https://open.spotify.com/track/2XwcKJW9Q0gaDIZzg0dKQt) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 2:37 |
+| 24 | [Advice](https://open.spotify.com/track/3poJLRLGViMX3gicX9UYtD) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH) | 2:37 |
 | 25 | [could be nice](https://open.spotify.com/track/5OI0l7dymvGw4ZkHwSRrda) | [Starberry](https://open.spotify.com/artist/6Y1lsJKYVwK9cnr6D4mYJM) | [could be nice](https://open.spotify.com/album/0siG6xvuwDEkcw7mrla5ua) | 2:50 |
 | 26 | [Blues Run the Game](https://open.spotify.com/track/6Ay9SMrkUMZ1Uq01X5b7wJ) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Covers Vol\. 1](https://open.spotify.com/album/3WdpM0kX0UbJs4yGpEtrJQ) | 3:06 |
 | 27 | [I'll Be Damned](https://open.spotify.com/track/0CXSKdN0pLbwc4TUp06ScG) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [High School Football](https://open.spotify.com/album/3zaHm3kBLgfQkO8Jd1nVfn) | 3:38 |
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 106 | [sway](https://open.spotify.com/track/3Eg76zYKF241M5heKUxytB) | [james king](https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli) | [sway](https://open.spotify.com/album/2kt0qpTawRj4YrNoELfrwQ) | 1:55 |
 | 107 | [Paradise Is Mine](https://open.spotify.com/track/2bywSV7Z2yjC0JlP79sZC8) | [Swans](https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA) | [Paradise Is Mine](https://open.spotify.com/album/2o8zkys1fG1bnev4a3qW1T) | 9:23 |
 | 108 | [Velvet River](https://open.spotify.com/track/4uTA2zBDjO3lVrMS9z73i0) | [Night Beds](https://open.spotify.com/artist/533wKOfkJylNSi6ntO1wXd) | [Dear Jewell](https://open.spotify.com/album/6lFVEGdRSY6mRRKnEszHUj) | 4:58 |
-| 109 | [A Bad Dream](https://open.spotify.com/track/2Ndw2Tymti3kyhvtcAvJQX) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [GIZMO](https://open.spotify.com/album/269FeWvV32RFMhsmfNg1yd) | 2:33 |
+| 109 | [A Bad Dream](https://open.spotify.com/track/2Y6f8XwwUyPYn1VLpjMFkN) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [GIZMO](https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1) | 2:33 |
 | 110 | [epitaph](https://open.spotify.com/track/4DQZidEAwjPT8MswCITWTX) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [a/b\_\_2](https://open.spotify.com/album/78KsEzasQQFF9QktDTaa35) | 2:34 |
 | 111 | [Worlds Away](https://open.spotify.com/track/0prQCTD21VDitSeQA0gcHe) | [Leon Santana](https://open.spotify.com/artist/2h9w7Ko9db7p0mDGfiL6vS) | [Worlds Away](https://open.spotify.com/album/10xHNga4erJpRZTAU4JdSO) | 2:43 |
 | 112 | [fingers through my hair](https://open.spotify.com/track/0IGi3VQhmYaDquo4VlSZpx) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [fingers through my hair](https://open.spotify.com/album/4n1BftyPbar1dDf8sAI4VV) | 2:20 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 117 | [Bury Me](https://open.spotify.com/track/1RQ95XIUXRUNAZgMqSa3La) | [Laney Tripp](https://open.spotify.com/artist/2oHONIRqxXSaM6rAtMNps8) | [Small](https://open.spotify.com/album/0d9OmH7pZgv2FhGpJqZyvp) | 2:27 |
 | 118 | [Burns Effect](https://open.spotify.com/track/1UOmRFTqjNBLfKklHEw7CC) | [Tanlines](https://open.spotify.com/artist/7pW390CJdmhakvtcGZIqGP) | [Burns Effect](https://open.spotify.com/album/25jtHTJhG1J5TGoqLjwqax) | 3:26 |
 
-Snapshot ID: `MCw3MzZkYzJkYTExZTU5ZDU5ODYyZWQ4YTUyY2IwMWRkMjY3ZWMyYWQ2`
+Snapshot ID: `MCw1ZDQ0MjVmM2E0ZDkyNDFkNzNhY2JmZTA5MzUwMWY2ZDg0Nzk2YjQ1`

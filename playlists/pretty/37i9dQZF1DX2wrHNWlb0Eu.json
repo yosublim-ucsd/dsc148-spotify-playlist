@@ -1,12 +1,12 @@
 {
   "description": "\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49\u0e2b\u0e19\u0e49\u0e32\u0e23\u0e49\u0e2d\u0e19 \u0e41\u0e15\u0e48\u0e17\u0e33\u0e44\u0e21\u0e21\u0e2d\u0e07\u0e40\u0e18\u0e2d\u0e41\u0e25\u0e49\u0e27\u0e40\u0e08\u0e2d\u0e41\u0e15\u0e48\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01 #\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
-  "num_followers": 88094,
+  "num_followers": 88171,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGY3ZTRiNjZkNGE0MGJmZWE2N2QwNWU2YmU0MTgwMWQ3YzQ1MTE0",
+  "snapshot_id": "MCxhNDhmNDEzMjIwM2ViY2I5MzY0ODM0ZjY3MzYzYzhlODRkNDRiMjY4",
   "tracks": [
     {
       "added_at": "2023-02-21 08:00:00",
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/0cCf8UpRfjOB7yp1yqzMHM"
     },
     {
-      "added_at": "2023-04-30 00:46:10",
+      "added_at": "2023-05-01 01:20:33",
       "album": {
         "name": "\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \u0e41\u0e1f\u0e19\u0e1c\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e19\u0e31\u0e01\u0e40\u0e23\u0e35\u0e22\u0e19 My School President",
         "url": "https://open.spotify.com/album/6HxDXm6KhHnGo7ceZniiXS"
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-02-21 08:00:00",
       "album": {
-        "name": "\u0e04\u0e19\u0e44\u0e01\u0e25",
-        "url": "https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO"
-      },
-      "artists": [
-        {
-          "name": "Patrickananda",
-          "url": "https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "\u0e04\u0e19\u0e44\u0e01\u0e25",
-      "url": "https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF"
-    },
-    {
-      "added_at": "2023-02-21 08:00:00",
-      "album": {
         "name": "You (Are) Mean a Lot to Me",
         "url": "https://open.spotify.com/album/1qYFmgwv3gwRwqa2oFGgbq"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 271764,
       "name": "Wish",
       "url": "https://open.spotify.com/track/1ecud9LC1clhcuhjLIyyMB"
+    },
+    {
+      "added_at": "2023-02-21 08:00:00",
+      "album": {
+        "name": "\u0e04\u0e19\u0e44\u0e01\u0e25",
+        "url": "https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO"
+      },
+      "artists": [
+        {
+          "name": "Patrickananda",
+          "url": "https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "\u0e04\u0e19\u0e44\u0e01\u0e25",
+      "url": "https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF"
     },
     {
       "added_at": "2023-02-21 08:00:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-02-21 08:00:00",
       "album": {
-        "name": "Uprising",
-        "url": "https://open.spotify.com/album/4HusBQo7V60wRjyJelOr7X"
-      },
-      "artists": [
-        {
-          "name": "Musketeers",
-          "url": "https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9"
-        }
-      ],
-      "duration_ms": 238392,
-      "name": "\u0e41\u0e04\u0e48\u0e04\u0e38\u0e13",
-      "url": "https://open.spotify.com/track/5u8iqPNTa3ryOqeiNdgi6o"
-    },
-    {
-      "added_at": "2023-02-21 08:00:00",
-      "album": {
         "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d",
         "url": "https://open.spotify.com/album/5ZyBwGsykmsxmxk8qNu7pD"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 199500,
       "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d feat. Violette Wautier",
       "url": "https://open.spotify.com/track/2bGK8OZkr2IH4XHFMWS3CZ"
+    },
+    {
+      "added_at": "2023-02-21 08:00:00",
+      "album": {
+        "name": "Uprising",
+        "url": "https://open.spotify.com/album/4HusBQo7V60wRjyJelOr7X"
+      },
+      "artists": [
+        {
+          "name": "Musketeers",
+          "url": "https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9"
+        }
+      ],
+      "duration_ms": 238392,
+      "name": "\u0e41\u0e04\u0e48\u0e04\u0e38\u0e13",
+      "url": "https://open.spotify.com/track/5u8iqPNTa3ryOqeiNdgi6o"
     },
     {
       "added_at": "2023-02-21 08:00:00",
@@ -545,7 +545,7 @@
       "url": "https://open.spotify.com/track/4m72K740TLVYovBWJmTTt3"
     },
     {
-      "added_at": "2023-04-30 00:46:10",
+      "added_at": "2023-05-01 01:20:33",
       "album": {
         "name": "\u0e1b\u0e23\u0e30\u0e01\u0e32\u0e28\u0e43\u0e2b\u0e49\u0e42\u0e25\u0e01\u0e23\u0e39\u0e49",
         "url": "https://open.spotify.com/album/7rj1LF1of31j98OJnOckkS"
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-02-21 08:00:00",
       "album": {
-        "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e04\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 OST.\u0e1a\u0e38\u0e1e\u0e40\u0e1e\u0e2a\u0e31\u0e19\u0e19\u0e34\u0e27\u0e32\u0e2a 2",
-        "url": "https://open.spotify.com/album/2fuw0L6d7EGwyEQQfB0WkU"
-      },
-      "artists": [
-        {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
-        }
-      ],
-      "duration_ms": 246434,
-      "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e04\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 OST.\u0e1a\u0e38\u0e1e\u0e40\u0e1e\u0e2a\u0e31\u0e19\u0e19\u0e34\u0e27\u0e32\u0e2a 2",
-      "url": "https://open.spotify.com/track/6GDIW3Le2tM0hMWD3pvefH"
-    },
-    {
-      "added_at": "2023-02-21 08:00:00",
-      "album": {
         "name": "\u0e40\u0e2d\u0e32\u0e1b\u0e32\u0e01\u0e01\u0e32\u0e21\u0e32\u0e27\u0e07",
         "url": "https://open.spotify.com/album/7HadcYAjeZGgkiCg0WnPnm"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 204263,
       "name": "\u0e40\u0e2d\u0e32\u0e1b\u0e32\u0e01\u0e01\u0e32\u0e21\u0e32\u0e27\u0e07",
       "url": "https://open.spotify.com/track/4aDz9NTsLULSvewSLg8lih"
+    },
+    {
+      "added_at": "2023-02-21 08:00:00",
+      "album": {
+        "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e04\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 OST.\u0e1a\u0e38\u0e1e\u0e40\u0e1e\u0e2a\u0e31\u0e19\u0e19\u0e34\u0e27\u0e32\u0e2a 2",
+        "url": "https://open.spotify.com/album/2fuw0L6d7EGwyEQQfB0WkU"
+      },
+      "artists": [
+        {
+          "name": "Ink Waruntorn",
+          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "duration_ms": 246434,
+      "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e04\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 OST.\u0e1a\u0e38\u0e1e\u0e40\u0e1e\u0e2a\u0e31\u0e19\u0e19\u0e34\u0e27\u0e32\u0e2a 2",
+      "url": "https://open.spotify.com/track/6GDIW3Le2tM0hMWD3pvefH"
     },
     {
       "added_at": "2023-02-21 08:00:00",
@@ -677,7 +677,7 @@
       "url": "https://open.spotify.com/track/0AGhwXsWpVOwjHY5yf4dtD"
     },
     {
-      "added_at": "2023-04-30 00:46:10",
+      "added_at": "2023-05-01 01:20:33",
       "album": {
         "name": "\u0e21\u0e32\u0e14\u0e39\u0e41\u0e21\u0e27\u0e14\u0e33\u0e19\u0e49\u0e33\u0e17\u0e33\u0e01\u0e31\u0e1a\u0e02\u0e49\u0e32\u0e27\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e23\u0e32\u0e21\u0e31\u0e49\u0e22 (Saturday Night)",
         "url": "https://open.spotify.com/album/6OLZ8YxFlH5RF0j0ZCRd9y"
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-02-21 08:00:00",
       "album": {
-        "name": "clean",
-        "url": "https://open.spotify.com/album/0Q85NYeTS69jKGLilCR5Y2"
-      },
-      "artists": [
-        {
-          "name": "SCRUBB",
-          "url": "https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N"
-        }
-      ],
-      "duration_ms": 258401,
-      "name": "\u0e23\u0e2d\u0e22\u0e22\u0e34\u0e49\u0e21",
-      "url": "https://open.spotify.com/track/6ezEwX2eZRZlioqYaUPOKX"
-    },
-    {
-      "added_at": "2023-02-21 08:00:00",
-      "album": {
         "name": "\u0e1d\u0e19\u0e15\u0e01\u0e44\u0e2b\u0e21",
         "url": "https://open.spotify.com/album/2HZzSeqvOspfSfnzZU5bOj"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 261250,
       "name": "\u0e1d\u0e19\u0e15\u0e01\u0e44\u0e2b\u0e21",
       "url": "https://open.spotify.com/track/1ccwCCS7YSclzYibpK0DS4"
+    },
+    {
+      "added_at": "2023-02-21 08:00:00",
+      "album": {
+        "name": "clean",
+        "url": "https://open.spotify.com/album/0Q85NYeTS69jKGLilCR5Y2"
+      },
+      "artists": [
+        {
+          "name": "SCRUBB",
+          "url": "https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N"
+        }
+      ],
+      "duration_ms": 258401,
+      "name": "\u0e23\u0e2d\u0e22\u0e22\u0e34\u0e49\u0e21",
+      "url": "https://open.spotify.com/track/6ezEwX2eZRZlioqYaUPOKX"
     },
     {
       "added_at": "2023-02-21 08:00:00",
@@ -1357,26 +1357,6 @@
       "url": "https://open.spotify.com/track/1XfzWbu66N3Pl1Q8rOUmJH"
     },
     {
-      "added_at": "2023-04-30 00:46:10",
-      "album": {
-        "name": "\u0e42\u0e23\u0e41\u0e21\u0e19\u0e15\u0e34\u0e01 (Romantic)",
-        "url": "https://open.spotify.com/album/3kTNtUTHdjCWwVll5XTQ84"
-      },
-      "artists": [
-        {
-          "name": "Musketeers",
-          "url": "https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9"
-        },
-        {
-          "name": "PUN",
-          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
-        }
-      ],
-      "duration_ms": 240225,
-      "name": "\u0e42\u0e23\u0e41\u0e21\u0e19\u0e15\u0e34\u0e01 (Romantic)",
-      "url": "https://open.spotify.com/track/4aPu6Tpvp4h8vNcyrC0sqU"
-    },
-    {
       "added_at": "2023-02-21 08:00:00",
       "album": {
         "name": "\u0e40\u0e2d\u0e34\u0e4a\u0e15 \u0e20\u0e31\u0e17\u0e23\u0e27\u0e35",
@@ -1411,6 +1391,26 @@
       "duration_ms": 243346,
       "name": "\u0e40\u0e1a\u0e32\u0e40\u0e1a\u0e32 (Tender)",
       "url": "https://open.spotify.com/track/1D82eR1hzKmiujw4fk0EYj"
+    },
+    {
+      "added_at": "2023-05-01 01:20:33",
+      "album": {
+        "name": "\u0e42\u0e23\u0e41\u0e21\u0e19\u0e15\u0e34\u0e01 (Romantic)",
+        "url": "https://open.spotify.com/album/3kTNtUTHdjCWwVll5XTQ84"
+      },
+      "artists": [
+        {
+          "name": "Musketeers",
+          "url": "https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9"
+        },
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        }
+      ],
+      "duration_ms": 240225,
+      "name": "\u0e42\u0e23\u0e41\u0e21\u0e19\u0e15\u0e34\u0e01 (Romantic)",
+      "url": "https://open.spotify.com/track/4aPu6Tpvp4h8vNcyrC0sqU"
     },
     {
       "added_at": "2023-02-21 08:00:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-02-21 08:00:00",
       "album": {
+        "name": "\u0e1e\u0e30\u0e08\u0e31\u0e19",
+        "url": "https://open.spotify.com/album/634ttKDuMq3fzM2WzeEuc4"
+      },
+      "artists": [
+        {
+          "name": "QLER",
+          "url": "https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk"
+        }
+      ],
+      "duration_ms": 183498,
+      "name": "\u0e1e\u0e30\u0e08\u0e31\u0e19",
+      "url": "https://open.spotify.com/track/63b22ti1AAmGyAR1OpqUmi"
+    },
+    {
+      "added_at": "2023-02-21 08:00:00",
+      "album": {
         "name": "\u0e08\u0e23\u0e34\u0e07\u0e46\u0e19\u0e30",
         "url": "https://open.spotify.com/album/3W0ub1BH8vz3mFc9P2YZJo"
       },
@@ -1571,18 +1587,18 @@
     {
       "added_at": "2023-02-21 08:00:00",
       "album": {
-        "name": "\u0e1e\u0e30\u0e08\u0e31\u0e19",
-        "url": "https://open.spotify.com/album/634ttKDuMq3fzM2WzeEuc4"
+        "name": "\u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e14\u0e35\u0e14\u0e35",
+        "url": "https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D"
       },
       "artists": [
         {
-          "name": "QLER",
-          "url": "https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk"
+          "name": "Ae Jirakorn",
+          "url": "https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1"
         }
       ],
-      "duration_ms": 183498,
-      "name": "\u0e1e\u0e30\u0e08\u0e31\u0e19",
-      "url": "https://open.spotify.com/track/63b22ti1AAmGyAR1OpqUmi"
+      "duration_ms": 246904,
+      "name": "\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e44\u0e1b\u0e08\u0e19\u0e19\u0e34\u0e23\u0e31\u0e19\u0e14\u0e23\u0e4c",
+      "url": "https://open.spotify.com/track/4Sm3ufM7YPRyY1ElbMCWqZ"
     },
     {
       "added_at": "2023-02-21 08:00:00",
@@ -1605,20 +1621,20 @@
       "url": "https://open.spotify.com/track/10DSYghyBjAYJa8iCvdRDv"
     },
     {
-      "added_at": "2023-02-21 08:00:00",
+      "added_at": "2023-05-01 01:20:33",
       "album": {
-        "name": "\u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e14\u0e35\u0e14\u0e35",
-        "url": "https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D"
+        "name": "\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d (ONLY YOU) [From \u0e04\u0e48\u0e2d\u0e22\u0e46\u0e23\u0e31\u0e01 Step By Step]",
+        "url": "https://open.spotify.com/album/2wUwCV2FwZQAzmjMBNneM2"
       },
       "artists": [
         {
-          "name": "Ae Jirakorn",
-          "url": "https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1"
+          "name": "ATLAS",
+          "url": "https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9"
         }
       ],
-      "duration_ms": 246904,
-      "name": "\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e44\u0e1b\u0e08\u0e19\u0e19\u0e34\u0e23\u0e31\u0e19\u0e14\u0e23\u0e4c",
-      "url": "https://open.spotify.com/track/4Sm3ufM7YPRyY1ElbMCWqZ"
+      "duration_ms": 216000,
+      "name": "\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d (ONLY YOU) - From \u0e04\u0e48\u0e2d\u0e22\u0e46\u0e23\u0e31\u0e01 Step By Step",
+      "url": "https://open.spotify.com/track/430P9zwgo2Nv56Znbzg3LB"
     },
     {
       "added_at": "2023-02-21 08:00:00",
@@ -1643,22 +1659,6 @@
       "duration_ms": 280779,
       "name": "\u0e01\u0e30\u0e17\u0e31\u0e19\u0e2b\u0e31\u0e19",
       "url": "https://open.spotify.com/track/71rZCPjOAU8WBlXYPHNgRu"
-    },
-    {
-      "added_at": "2023-04-30 00:46:10",
-      "album": {
-        "name": "\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d (ONLY YOU) [From \u0e04\u0e48\u0e2d\u0e22\u0e46\u0e23\u0e31\u0e01 Step By Step]",
-        "url": "https://open.spotify.com/album/2wUwCV2FwZQAzmjMBNneM2"
-      },
-      "artists": [
-        {
-          "name": "ATLAS",
-          "url": "https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d (ONLY YOU) - From \u0e04\u0e48\u0e2d\u0e22\u0e46\u0e23\u0e31\u0e01 Step By Step",
-      "url": "https://open.spotify.com/track/430P9zwgo2Nv56Znbzg3LB"
     },
     {
       "added_at": "2023-02-21 08:00:00",
@@ -1703,22 +1703,18 @@
     {
       "added_at": "2023-02-21 08:00:00",
       "album": {
-        "name": "LA LUNE",
-        "url": "https://open.spotify.com/album/1PEBaeuKlP7CBC9Skg78Yg"
+        "name": "\u0e19\u0e30\u0e04\u0e23\u0e31\u0e1a (\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21) [Acoustic Version]",
+        "url": "https://open.spotify.com/album/1i0J3VWxDAqpCaZcf5PJoM"
       },
       "artists": [
         {
-          "name": "Zom Marie",
-          "url": "https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB"
-        },
-        {
-          "name": "\u0e42\u0e2d\u0e4a\u0e15 \u0e1b\u0e23\u0e32\u0e42\u0e21\u0e17\u0e22\u0e4c",
-          "url": "https://open.spotify.com/artist/3U0TobFQX3KeTbCfxcuoSw"
+          "name": "spsalola",
+          "url": "https://open.spotify.com/artist/0KLp5ppsZerGbWrWnO7lXG"
         }
       ],
-      "duration_ms": 194500,
-      "name": "\u0e42\u0e25\u0e01\u0e2d\u0e35\u0e01\u0e43\u0e1a",
-      "url": "https://open.spotify.com/track/0OPcptseBfeBIUai6JLOLd"
+      "duration_ms": 249649,
+      "name": "\u0e19\u0e30\u0e04\u0e23\u0e31\u0e1a (\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21) - Acoustic Version",
+      "url": "https://open.spotify.com/track/51GuxG7BsdZ0MRR3CgbhFp"
     }
   ],
   "unique_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",

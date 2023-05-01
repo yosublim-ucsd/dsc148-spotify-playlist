@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 9890,
+  "num_followers": 9893,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmIwMGI5ZmI4MzA3YjkyNWFjZGJiMDgzMDNkNjNjNzkyYTkwODlj",
+  "snapshot_id": "MCxkM2E5MzljMGY0NzRjZTRhYzNkMTZhZjcwYjY5Y2I1YTkxNzY0ZDgw",
   "tracks": [
     {
       "added_at": "2023-02-28 10:14:13",
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
     },
     {
-      "added_at": "2023-04-30 01:11:43",
+      "added_at": "2023-05-01 00:53:53",
       "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/42k8JWt7Czu6cLEevU2bus"
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-02-28 10:14:13",
       "album": {
-        "name": "Will spring come?",
-        "url": "https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83"
-      },
-      "artists": [
-        {
-          "name": "Def.",
-          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
-        }
-      ],
-      "duration_ms": 198698,
-      "name": "Will spring come?",
-      "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
-    },
-    {
-      "added_at": "2023-02-28 10:14:13",
-      "album": {
         "name": "Crash Landing on You (Original Television Soundtrack), Pt. 5",
         "url": "https://open.spotify.com/album/685mm3HkTIAFJYRSpGJul8"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 258532,
       "name": "Someday",
       "url": "https://open.spotify.com/track/5W3SrNE55U2N5kg2ygA1lx"
+    },
+    {
+      "added_at": "2023-02-28 10:14:13",
+      "album": {
+        "name": "Will spring come?",
+        "url": "https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83"
+      },
+      "artists": [
+        {
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+        }
+      ],
+      "duration_ms": 198698,
+      "name": "Will spring come?",
+      "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
     },
     {
       "added_at": "2023-02-28 10:14:13",
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/3dDJ4DlBQ0VaRYjLZhLDTa"
     },
     {
-      "added_at": "2023-04-30 01:11:43",
+      "added_at": "2023-05-01 00:53:53",
       "album": {
         "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
         "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-02-28 10:14:13",
       "album": {
-        "name": "Still Here",
-        "url": "https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU"
-      },
-      "artists": [
-        {
-          "name": "ONEWE",
-          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
-        }
-      ],
-      "duration_ms": 219746,
-      "name": "Still Here",
-      "url": "https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2"
-    },
-    {
-      "added_at": "2023-02-28 10:14:13",
-      "album": {
         "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
         "url": "https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 256026,
       "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
       "url": "https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL"
+    },
+    {
+      "added_at": "2023-02-28 10:14:13",
+      "album": {
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU"
+      },
+      "artists": [
+        {
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+        }
+      ],
+      "duration_ms": 219746,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2"
     },
     {
       "added_at": "2023-02-28 10:14:13",
@@ -533,7 +533,7 @@
       "url": "https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr"
     },
     {
-      "added_at": "2023-04-30 01:11:43",
+      "added_at": "2023-05-01 00:53:53",
       "album": {
         "name": "Divorce Attorney Shin (Original Television Soundtrack, Pt. 4)",
         "url": "https://open.spotify.com/album/3AhxpeM0oqlgkdio5NVmp6"

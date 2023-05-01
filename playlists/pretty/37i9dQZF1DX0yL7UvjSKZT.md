@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Nickel Creek
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,773 likes - 148 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,789 likes - 148 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 147 | [The Horn](https://open.spotify.com/track/5mJ54mjLUJ7OSexRIVRmR4) | [Mark Grundhoefer](https://open.spotify.com/artist/2oyvJcvWPCBKVW9tnvAC5w) | [Lose Me In The Swamp](https://open.spotify.com/album/4WjMjQ7ojwSEaniI6rwMop) | 2:24 |
 | 148 | [Don't Cry](https://open.spotify.com/track/2LciJyqCfI8mHGy1moiHZv) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Scoundrel](https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O) | 3:21 |
 
-Snapshot ID: `MCxiNWVhZDNlYWM2NzU4NzRjYTBhNzUwMDk1MTExNGJmZWNiZjU4ZGEz`
+Snapshot ID: `MCxjMDI1Yzg1YmIyODJlZWExNDE4YjFlM2EzYzJiN2JkODRiNDU1NDEy`

@@ -1,12 +1,12 @@
 {
   "description": "The Mills Brothers, The Andrews Sisters and other classic vocal groups.",
-  "num_followers": 1569,
+  "num_followers": 1570,
   "original_name": "Close Harmony Vocals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZThmODBiYzM3ZTBkZjVmNTM0N2FlMTRhNTE0ZDBhOTE0NTI4YTA0",
+  "snapshot_id": "MCxiMmE2YzJlNTAyYTBmZDdkYzMwMDBmYjQ0OGEyMzk2NGQ3MzdhYWNl",
   "tracks": [
     {
       "added_at": "2020-08-17 22:49:59",
@@ -395,6 +395,26 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "The War Years (1941-1947)",
+        "url": "https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "The Delta Rhythm Boys",
+          "url": "https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "For Sentimental Reasons",
+      "url": "https://open.spotify.com/track/5t5S4nyn6OWZRpSo260sjo"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "50 Best Hits",
         "url": "https://open.spotify.com/album/7eugEzpVGg4umQRaFD4ocg"
       },
@@ -407,22 +427,6 @@
       "duration_ms": 164511,
       "name": "To the Aisle",
       "url": "https://open.spotify.com/track/08KiBWh7EreFKWKSv8SIrh"
-    },
-    {
-      "added_at": "2022-03-28 19:29:09",
-      "album": {
-        "name": "The Amazing Ames Brothers",
-        "url": "https://open.spotify.com/album/4Mb59LfU7RrMOZTh6qx8IP"
-      },
-      "artists": [
-        {
-          "name": "The Ames Brothers",
-          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
-        }
-      ],
-      "duration_ms": 179146,
-      "name": "Undecided",
-      "url": "https://open.spotify.com/track/1bDzspMSL17XQokxAxAe22"
     },
     {
       "added_at": "2022-03-28 19:29:09",
@@ -457,24 +461,20 @@
       "url": "https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g"
     },
     {
-      "added_at": "2020-08-17 22:49:59",
+      "added_at": "2022-03-28 19:29:09",
       "album": {
-        "name": "The War Years (1941-1947)",
-        "url": "https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH"
+        "name": "The Amazing Ames Brothers",
+        "url": "https://open.spotify.com/album/4Mb59LfU7RrMOZTh6qx8IP"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "The Delta Rhythm Boys",
-          "url": "https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF"
+          "name": "The Ames Brothers",
+          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
         }
       ],
-      "duration_ms": 188293,
-      "name": "For Sentimental Reasons",
-      "url": "https://open.spotify.com/track/5t5S4nyn6OWZRpSo260sjo"
+      "duration_ms": 179146,
+      "name": "Undecided",
+      "url": "https://open.spotify.com/track/1bDzspMSL17XQokxAxAe22"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -511,22 +511,6 @@
       "duration_ms": 201400,
       "name": "The Object Of My Affection (with Jimmie Grier) - 78 rpm Version",
       "url": "https://open.spotify.com/track/49Xc60AAQc6NIFAa1DikVo"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "The Best Of The Ames",
-        "url": "https://open.spotify.com/album/2Yvca6unTMt1DYTgXToJn0"
-      },
-      "artists": [
-        {
-          "name": "The Ames Brothers",
-          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
-        }
-      ],
-      "duration_ms": 166520,
-      "name": "Rag Mop",
-      "url": "https://open.spotify.com/track/7z03paoXvhCzN22twdfPHR"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -663,6 +647,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "The Best Of The Ames",
+        "url": "https://open.spotify.com/album/2Yvca6unTMt1DYTgXToJn0"
+      },
+      "artists": [
+        {
+          "name": "The Ames Brothers",
+          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
+        }
+      ],
+      "duration_ms": 166520,
+      "name": "Rag Mop",
+      "url": "https://open.spotify.com/track/7z03paoXvhCzN22twdfPHR"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "Jump & Jive 'Til One O'Clock - Anthology, Vol. 2",
         "url": "https://open.spotify.com/album/3csDnkhImGwBZBgDuYkZr9"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 157826,
       "name": "Ain't Gonna Worry 'Bout a Soul",
       "url": "https://open.spotify.com/track/2Dm4H3EH6slgSUiOTJE3gg"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz"
+      },
+      "artists": [
+        {
+          "name": "The Dinning Sisters",
+          "url": "https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "Love On A Greyhound Bus",
+      "url": "https://open.spotify.com/track/4wam2im1dxbWFVU5TjxF8C"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -711,38 +727,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Kirby Stone Touch",
-        "url": "https://open.spotify.com/album/2BeXXbbvUL4qzsm8A6W9pA"
-      },
-      "artists": [
-        {
-          "name": "Kirby Stone Four",
-          "url": "https://open.spotify.com/artist/2lxCXV18FLswPAuCO0OeR9"
-        }
-      ],
-      "duration_ms": 129866,
-      "name": "Lullaby of Birdland",
-      "url": "https://open.spotify.com/track/4ZQebNut4njSuTIJe7l3UH"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz"
-      },
-      "artists": [
-        {
-          "name": "The Dinning Sisters",
-          "url": "https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "Love On A Greyhound Bus",
-      "url": "https://open.spotify.com/track/4wam2im1dxbWFVU5TjxF8C"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "Teach Me Tonight",
         "url": "https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 159666,
       "name": "Give Me Time",
       "url": "https://open.spotify.com/track/22McLEDE7FIJDSNUhYqnKz"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Kirby Stone Touch",
+        "url": "https://open.spotify.com/album/2BeXXbbvUL4qzsm8A6W9pA"
+      },
+      "artists": [
+        {
+          "name": "Kirby Stone Four",
+          "url": "https://open.spotify.com/artist/2lxCXV18FLswPAuCO0OeR9"
+        }
+      ],
+      "duration_ms": 129866,
+      "name": "Lullaby of Birdland",
+      "url": "https://open.spotify.com/track/4ZQebNut4njSuTIJe7l3UH"
     },
     {
       "added_at": "2020-08-17 22:49:59",

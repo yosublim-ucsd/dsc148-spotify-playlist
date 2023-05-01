@@ -542,6 +542,28 @@
           "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
         }
       ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147360,
+      "name": "Give Us Our Land - Mabayeke",
+      "url": "https://open.spotify.com/track/4XCtKro2JD3tDpnnyTOrZ6"
+    },
+    {
+      "album": {
+        "name": "An Evening with Belafonte/Makeba",
+        "url": "https://open.spotify.com/album/2G80lHUAV0NafyurfZwP2G"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        },
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -1008,7 +1030,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-27",
+      "date_removed": null,
       "duration_ms": 169266,
       "name": "Kilimandjaro",
       "url": "https://open.spotify.com/track/2CEJx6C6AvwhzzhYQnSkpR"
@@ -1734,7 +1756,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 165236,
       "name": "Orlando",
       "url": "https://open.spotify.com/track/3062myCqbd64JVkqSYi5qg"
@@ -1810,7 +1832,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 180174,
       "name": "Pata Pata - Stereo Version",
       "url": "https://open.spotify.com/track/1BLXxFPDL2BT37nHKD7KrA"
@@ -2114,7 +2136,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 153373,
       "name": "The Click Song",
       "url": "https://open.spotify.com/track/329ss78X6RxaEa6iN1SsH8"
@@ -2548,7 +2570,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 165532,
       "name": "West Wind - Mono Version",
       "url": "https://open.spotify.com/track/1U6Wz3sxQdVS9Fb5fkGDXc"

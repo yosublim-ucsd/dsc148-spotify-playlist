@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 
 > Keeping the party going w/ Designer, Christopher John Rogers for the \#MetGala
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,099 likes - 85 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,235 likes - 85 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 | 52 | [HMU for a Good Time](https://open.spotify.com/track/2Kb5Sy93AE70esO90eJgdQ) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [333 \(Deluxe\)](https://open.spotify.com/album/1mxG8YY9wY5Q3mLcDs2khW) | 4:07 |
 | 53 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:27 |
 | 54 | [Don't Mess With My Man \(feat\. Brian Casey & Brandon Casey\)](https://open.spotify.com/track/39YovPslPCXbFYhlYjsZ2Y) | [Nivea](https://open.spotify.com/artist/15Dh5PvHQj909E0RgAe0aN), [Brian Casey](https://open.spotify.com/artist/1Zgn8DDi8ema6uKufbQOdG), [Brandon Casey](https://open.spotify.com/artist/6pw5ePxlLPN87ikxsFHsvZ) | [Nivea](https://open.spotify.com/album/6tXzTKfHd9fR1OPsvstxVt) | 3:33 |
-| 55 | [Laws of the Universe](https://open.spotify.com/track/7mO2zFhGVdZdmGS7TMWH08) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/3KkxbmbkRvxghNwGwQRZcj) | 2:49 |
+| 55 | [Laws of the Universe](https://open.spotify.com/track/4rMWnKX4szJV3k2FATLdnR) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri) | 2:49 |
 | 56 | [Bouncin](https://open.spotify.com/track/6sHgMLiwXXCbg2AbkzQAWK) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [333](https://open.spotify.com/album/0LHqiYYOsVM9lh9c9w0G1j) | 2:55 |
 | 57 | [Don't Stop The Music](https://open.spotify.com/track/0ByMNEPAPpOR5H69DVrTNy) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 4:27 |
 | 58 | [Love On Hold \(feat\. Tawatha Agee\)](https://open.spotify.com/track/04pnOy580O0I2Htn3VT9b3) | [Aeroplane](https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu), [Tawatha Agee](https://open.spotify.com/artist/26j9y8Rq679tININ1Mt4ZV) | [Love On Hold \(feat\. Tawatha Agee\)](https://open.spotify.com/album/1S1OiMHdZpEZ0gOo8DTOo1) | 3:07 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 | 84 | [DAMN DANIEL \(with Yung Baby Tate\)](https://open.spotify.com/track/0gmsPeb0es7Xp5H48FK62H) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Damn Daniel \(with Yung Baby Tate\)](https://open.spotify.com/album/5KA3afnIYBwzSssNJU0V8e) | 2:52 |
 | 85 | [ICU \(feat\. Nomi Ruiz\)](https://open.spotify.com/track/2qT5wU3DiOItGKaLK0EHWT) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Proper Villains](https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S), [Nomi Ruiz](https://open.spotify.com/artist/5VNCplADfySxatpXe5jjDM) | [Muvaland](https://open.spotify.com/album/0dJgQS7Aj49uuvGMZTvF14) | 3:08 |
 
-Snapshot ID: `MCwzNmFmNzA0ZTdlNmEyOTBmYzM3OTYzNmMzOTIxZThjM2NiOGQ0YTA2`
+Snapshot ID: `MCxhYWZkNjlmMjhkMTMxOWViOGRhMWIwYzc2NzQwYjJjN2JkOTZiYTY0`

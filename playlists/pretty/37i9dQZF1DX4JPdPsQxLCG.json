@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes to soundtrack your weekend. Cover: The Tragically Hip",
-  "num_followers": 49784,
+  "num_followers": 49789,
   "original_name": "Canadian Weekend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzJhMTllYmNhZTFiYmU3YmNhN2NlN2M4Yjg2M2UxZTFhNmM1MGFl",
+  "snapshot_id": "MCwyZGQ1Njg5YTg1NjQ4ODdlZDU0ODI2Y2E4NmE0YjFhMzg1MmVmZGJi",
   "tracks": [
     {
       "added_at": "2022-09-13 21:55:44",
@@ -491,18 +491,18 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "First Offense",
-        "url": "https://open.spotify.com/album/2cB87PuIi04CRdxhuNrRi5"
+        "name": "Loverboy",
+        "url": "https://open.spotify.com/album/3dDzAVWr5gjvJIOTEuS309"
       },
       "artists": [
         {
-          "name": "Corey Hart",
-          "url": "https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0"
+          "name": "Loverboy",
+          "url": "https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT"
         }
       ],
-      "duration_ms": 320000,
-      "name": "Sunglasses At Night",
-      "url": "https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC"
+      "duration_ms": 337933,
+      "name": "Turn Me Loose",
+      "url": "https://open.spotify.com/track/2Z81PDDYNMTxZKiU2XIuFx"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -523,18 +523,18 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Loverboy",
-        "url": "https://open.spotify.com/album/3dDzAVWr5gjvJIOTEuS309"
+        "name": "First Offense",
+        "url": "https://open.spotify.com/album/2cB87PuIi04CRdxhuNrRi5"
       },
       "artists": [
         {
-          "name": "Loverboy",
-          "url": "https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT"
+          "name": "Corey Hart",
+          "url": "https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0"
         }
       ],
-      "duration_ms": 337933,
-      "name": "Turn Me Loose",
-      "url": "https://open.spotify.com/track/2Z81PDDYNMTxZKiU2XIuFx"
+      "duration_ms": 320000,
+      "name": "Sunglasses At Night",
+      "url": "https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "The State",
-        "url": "https://open.spotify.com/album/3jl1TcvE91Mnu6zjKkklAb"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "Leader of Men",
-      "url": "https://open.spotify.com/track/4Vf9v7ohVz5i8PeZBliwb5"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "A Tribe Called Red",
         "url": "https://open.spotify.com/album/1FYVy6b5R41tMIAhWS6fXJ"
       },
@@ -779,18 +763,18 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "The World According To Gob",
-        "url": "https://open.spotify.com/album/5W9KaweYXnOVDlG7UjIbCb"
+        "name": "The State",
+        "url": "https://open.spotify.com/album/3jl1TcvE91Mnu6zjKkklAb"
       },
       "artists": [
         {
-          "name": "Gob",
-          "url": "https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf"
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
         }
       ],
-      "duration_ms": 191266,
-      "name": "I Hear You Calling",
-      "url": "https://open.spotify.com/track/7KsLCoGgjP1tsGPJuvi2SX"
+      "duration_ms": 210840,
+      "name": "Leader of Men",
+      "url": "https://open.spotify.com/track/4Vf9v7ohVz5i8PeZBliwb5"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -807,6 +791,22 @@
       "duration_ms": 275693,
       "name": "Anthems For A Seventeen Year-Old Girl",
       "url": "https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "The World According To Gob",
+        "url": "https://open.spotify.com/album/5W9KaweYXnOVDlG7UjIbCb"
+      },
+      "artists": [
+        {
+          "name": "Gob",
+          "url": "https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf"
+        }
+      ],
+      "duration_ms": 191266,
+      "name": "I Hear You Calling",
+      "url": "https://open.spotify.com/track/7KsLCoGgjP1tsGPJuvi2SX"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -987,6 +987,22 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
+        "name": "Morning Report (Deluxe)",
+        "url": "https://open.spotify.com/album/2qzcSOkX6xYvlC2RPAqboQ"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        }
+      ],
+      "duration_ms": 222720,
+      "name": "Knocking At The Door",
+      "url": "https://open.spotify.com/track/01afuV689RNz1MKDhGuwWG"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
         "name": "The Thin Red Line (Deluxe)",
         "url": "https://open.spotify.com/album/6kpcZGUWKsAtrWv7EYCLbV"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 235560,
       "name": "Just Between You And Me",
       "url": "https://open.spotify.com/track/5fsU7AtSTp0zySUf46hwbt"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
-        "name": "Morning Report (Deluxe)",
-        "url": "https://open.spotify.com/album/2qzcSOkX6xYvlC2RPAqboQ"
-      },
-      "artists": [
-        {
-          "name": "Arkells",
-          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
-        }
-      ],
-      "duration_ms": 222720,
-      "name": "Knocking At The Door",
-      "url": "https://open.spotify.com/track/01afuV689RNz1MKDhGuwWG"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Dreams, Dreams, Dreams",
-        "url": "https://open.spotify.com/album/0HFcnY7LMUaE0PsCg9W1KI"
-      },
-      "artists": [
-        {
-          "name": "Chilliwack",
-          "url": "https://open.spotify.com/artist/3TkWygOTDBZXAdFDh9HOkG"
-        }
-      ],
-      "duration_ms": 293970,
-      "name": "Fly At Night (In The Morning We Land)",
-      "url": "https://open.spotify.com/track/65P1kWWq2FOig9q2POBD4K"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Snow In June",
         "url": "https://open.spotify.com/album/51UDRztqnNOkq3WLIDKGAa"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 163773,
       "name": "She Ain't Pretty",
       "url": "https://open.spotify.com/track/3lQl6N5vnASpox2hdHpH2w"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Dreams, Dreams, Dreams",
+        "url": "https://open.spotify.com/album/0HFcnY7LMUaE0PsCg9W1KI"
+      },
+      "artists": [
+        {
+          "name": "Chilliwack",
+          "url": "https://open.spotify.com/artist/3TkWygOTDBZXAdFDh9HOkG"
+        }
+      ],
+      "duration_ms": 293970,
+      "name": "Fly At Night (In The Morning We Land)",
+      "url": "https://open.spotify.com/track/65P1kWWq2FOig9q2POBD4K"
     },
     {
       "added_at": "2022-09-13 21:55:44",

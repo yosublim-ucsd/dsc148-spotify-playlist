@@ -1524,10 +1524,28 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 275957,
       "name": "Healing Time",
       "url": "https://open.spotify.com/track/1TnboUz1hVeZvqubDBQcHM"
+    },
+    {
+      "album": {
+        "name": "Unchange",
+        "url": "https://open.spotify.com/album/5n4rd614E0RVAuZNCtojLW"
+      },
+      "artists": [
+        {
+          "name": "Gina Sicilia",
+          "url": "https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275957,
+      "name": "Healing Time",
+      "url": "https://open.spotify.com/track/7rbR9lSAPRhAtXeQ7ovhzz"
     },
     {
       "album": {

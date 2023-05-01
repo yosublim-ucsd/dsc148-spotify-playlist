@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > The new wave of rock from the UK & Ireland\. Cover: Delilah Bon
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,911 likes - 85 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,919 likes - 85 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 67 | [LOOK GOOD NAKED](https://open.spotify.com/track/1YNSzesjsiB00d2XFxfKzG) | [Thirty Something](https://open.spotify.com/artist/2b4ts7lp2EdW6ZXK1cxKYj) | [LOOK GOOD NAKED](https://open.spotify.com/album/3KsmKj6KroZmwSd2QReQNT) | 2:42 |
 | 68 | [Show Me The Way You Love](https://open.spotify.com/track/0IlTOMZmU9vAvNGgsaV9TG) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Show Me The Way You Love](https://open.spotify.com/album/7vBSj21hnnMEu0TCoisNUx) | 2:50 |
 | 69 | [MOTION SICKNESS!!](https://open.spotify.com/track/0g5P7TjeGuIjNv308nX1PW) | [Abi Rose Kelly](https://open.spotify.com/artist/3K9fu0H0EZDRjNg9TKXWQ6) | [MOTION SICKNESS!!](https://open.spotify.com/album/691SIoZqqRX7RqgpZIcdmt) | 2:17 |
-| 70 | [Lucifer](https://open.spotify.com/track/4Fve9SnM02yqPypTcK4i4U) | [Priestgate](https://open.spotify.com/artist/0mhU2f9YqeYcnEW6ynit0i) | [One Shade Darker](https://open.spotify.com/album/460Oh7tKR0JYuAje2Nuf04) | 3:26 |
+| 70 | [Lucifer](https://open.spotify.com/track/46qYZOK1KrVxCNv3soNe1Z) | [Priestgate](https://open.spotify.com/artist/0mhU2f9YqeYcnEW6ynit0i) | [One Shade Darker](https://open.spotify.com/album/77KG2iF54bGZRPPCu0BeTj) | 3:26 |
 | 71 | [Sleep Forever](https://open.spotify.com/track/4BKHayZJtmyfm0NP8erXiC) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Sleep Forever](https://open.spotify.com/album/0aruNZwXtrYUShnQJtqf1b) | 3:07 |
 | 72 | [GO!](https://open.spotify.com/track/7AHYD0DNFagANAVo4mxFGC) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [GO!](https://open.spotify.com/album/6QxSkWL0OqrjfJFtlVX9Dx) | 3:00 |
 | 73 | [Rockstar](https://open.spotify.com/track/1hiUjws67EtIOAIRVJgrlW) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Rockstar](https://open.spotify.com/album/4ccThge1HXXsxIKGuXCMlN) | 2:28 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 84 | [Worthy](https://open.spotify.com/track/2WtIhJpUy1p0t1dg6Tq8bZ) | [KIDS](https://open.spotify.com/artist/1KuaHyOmy7OyS3BO6u055P) | [Worthy](https://open.spotify.com/album/3YNhAijuyRViQoHGFNVDyC) | 2:39 |
 | 85 | [For You](https://open.spotify.com/track/0yUymvlfxHWxE62ys8VtbM) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Euphoria, Where Were You?](https://open.spotify.com/album/5F3s345rSD0UJe8IWo3imC) | 4:28 |
 
-Snapshot ID: `MCxiMjBkNDc4YTk5MDI4Y2VhYWY1ZmM3OWIxOGM0MDRhNjY5YmZhNDI2`
+Snapshot ID: `MCw5MzI1NzMwMGFkMmE5ZTMyMDExMTZhZGMxYzBmNWM2YjQ2ZTI2MzZk`

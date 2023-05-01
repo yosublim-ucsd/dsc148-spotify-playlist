@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Bebe Rexha, Labrinth, TAEYANG & LISA and more! Cover: Bebe Rexha
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,536 likes - 78 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,566 likes - 78 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 72 | [I've Loved You For So Long](https://open.spotify.com/track/0j1AlYnUBAiYOuVBDwCT20) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [I've Loved You For So Long](https://open.spotify.com/album/1d4SG4S7oEKwHcPCyQsC2J) | 2:56 |
 | 73 | [Kinda Famous](https://open.spotify.com/track/4YwpoXjq8jy5aWLU2cP4uU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Manic Dream Pixie](https://open.spotify.com/album/37v0q6s1IB9jSCPMIpFwFN) | 2:54 |
 | 74 | [What Makes A Life Good?](https://open.spotify.com/track/4IU62RQTQlHDjU9Uk44p8x) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [What Makes A Life Good?](https://open.spotify.com/album/0jgTUkzTvA8f4j5WiGbw58) | 3:48 |
-| 75 | [Fireworks](https://open.spotify.com/track/2bzo9vmgupmbM5VFuRl0ig) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Fireworks](https://open.spotify.com/album/6CIPuH9t8tX5p5fjuUFr2Q) | 3:18 |
+| 75 | [Fireworks](https://open.spotify.com/track/4vs2mQsCkcQCNeRzUDRTyE) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [The Sun](https://open.spotify.com/album/4k6FYjYAswZLIlmAfaRkSt) | 3:18 |
 | 76 | [Never Wanted You More](https://open.spotify.com/track/5kbC71fp7MMGNM5Xu9nHmL) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [Never Wanted You More](https://open.spotify.com/album/18VATR6aGnEDTJ5LwxwRNZ) | 2:57 |
 | 77 | [To Myself](https://open.spotify.com/track/6yF5g6gIuCgHybfYkiDVbu) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [PLOY](https://open.spotify.com/album/7zN3jhCgtmlDTzsTvS7VHp) | 3:18 |
 | 78 | [Part of Your World \- From "The Little Mermaid"](https://open.spotify.com/track/2pcSENGQmdptFCBQ3HpKHe) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Part of Your World \(From "The Little Mermaid"\)](https://open.spotify.com/album/1cehuxhFNt8Q8Eobacb0YR) | 3:34 |
 
-Snapshot ID: `MCxhNzE4ODBmMjMxODJlNTQwNzQ2YWQwMmM2NGI1NWU4ZTIzMTZlM2Vk`
+Snapshot ID: `MCxhZmRjNGExMmIxOWY5ZjkxNzUzYjIyYTA3N2NjMjFjODA1Yzk0M2Jl`

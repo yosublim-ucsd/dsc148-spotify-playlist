@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVi45nh2EuPP.md) - [plain]
 
 > The official playlist for all things League of Legends featuring the Worlds Anthem: "STAR WALKIN'" by Lil Nas X.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,547 likes - 54 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,749 likes - 54 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVi45nh2EuPP.md) - [plain]
 | 53 | [Ready for War](https://open.spotify.com/track/05f1rPg0cUUbShsL4FYcPt) | [Joznez](https://open.spotify.com/artist/03u3O2Nv2hOb00DRFYEISs), [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Kataem](https://open.spotify.com/artist/4v5vKGibNG5JeqTPAhnqil) | [Ready for War](https://open.spotify.com/album/4LYXm7zyAzv655XH9cVq7A) | 3:20 |
 | 54 | [Punjabi](https://open.spotify.com/track/2Byxr0ooaeLayBBaVLup67) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz) | [Punjabi](https://open.spotify.com/album/2qcWpdZ2yIHXA1J7AJnm3R) | 3:30 |
 
-Snapshot ID: `MCwzMzNjODJkMzkzZWZiMjRhM2EyYjVmNzQwOGFiM2NiMDAwNThlNDA4`
+Snapshot ID: `MCwzOTk2MjNkOGQxODFlNTM4ZGFiZmMwOWRhMDdlZjkwZWM3MjM5YmJk`

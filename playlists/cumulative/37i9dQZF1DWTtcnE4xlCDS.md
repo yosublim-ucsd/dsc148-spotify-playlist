@@ -4,7 +4,7 @@
 
 > Enjoy music from DEN\-ON\-BU! 気鋭のコンポーザーが多数参加し、今話題のキャラクタープロジェクト<a href="https://denonbu.jp/">「電音部」</a>を特集!! キャラクターと紡ぐ電子音楽の世界に飛び込もう。
 
-123 songs - 7 hr 44 min
+124 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Reverse Edge](https://open.spotify.com/track/2gIFO4B71chQvFfUb6dzI5) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Kan Takahiko](https://open.spotify.com/artist/2eOPTQxZPGde8cZPJv80SX) | [Reverse Edge](https://open.spotify.com/album/7qPh0T13PCTFhoJolDuHj6) | 2:45 | 2023-01-05 |  |
 | [Shining Lights](https://open.spotify.com/track/3wnlmjn5e8PxKZ9hO3sDS5) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [PSYQUI](https://open.spotify.com/artist/3p8H8HTn04KXh2NRzhKScl), [鳳凰火凛 \(CV: 健屋花那\)](https://open.spotify.com/artist/12WNAXEoWB8oNjlyuYU5hZ) | [Shining Lights](https://open.spotify.com/album/5gPKUS7jXWWZiAIEQcMTiB) | 3:27 | 2022-10-13 | 2022-11-13 |
 | [Shining Lights](https://open.spotify.com/track/3eeNWXYH9g78steJlAdjYz) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [鳳凰火凛 \(CV: 健屋花那\)](https://open.spotify.com/artist/12WNAXEoWB8oNjlyuYU5hZ), [PSYQUI](https://open.spotify.com/artist/3p8H8HTn04KXh2NRzhKScl) | [DENONBU BEST ALBUM \-season.0\-](https://open.spotify.com/album/5y2plpAX8NtK3q1Klatast) | 3:27 | 2022-08-24 |  |
+| [Siren](https://open.spotify.com/track/0kF3H78V1XRGUCvArU7PCc) | [真新宿GR学園](https://open.spotify.com/artist/05W3IYfntUTen1kfrsHY0N), [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Wolf Kid](https://open.spotify.com/artist/2KpHoM5ooSFfgGtUbWqE6z), [MOMONADY](https://open.spotify.com/artist/5ZIx9VxrosBN1Ahp8qZRyV), [SHOW](https://open.spotify.com/artist/3BcTkiYAa3pTebxQrCNhOA), [大神 纏 \(CV: 吉田凜音\)](https://open.spotify.com/artist/0KVD9C9bWghG5tKjDMZxrM), [安倍=シャクジ=摩耶 \(CV: SONOTA\)](https://open.spotify.com/artist/60QMxQ8fL0bkHTo5bQTErW), [りむる \(CV: をとは\)](https://open.spotify.com/artist/5trPMTBMzwq4ZCACvjAl77) | [Siren](https://open.spotify.com/album/65ZrPodzgVDuPP9Tubs8I2) | 2:53 | 2023-04-30 |  |
 | [Sirens in the Beginning](https://open.spotify.com/track/43KbYiXkCyQteYflZRxcsj) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Masayoshi Iimori](https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU) | [Sirens in the Beginning](https://open.spotify.com/album/41aQJ6VnDr7aU1wLOFRDsn) | 1:58 | 2022-08-24 |  |
 | [Spot AA by maeshima soshi](https://open.spotify.com/track/3qlajwJ4RDxD7sgZF4NOuo) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [DENONBU 1st LIVE \-Make Waves\- DANCE TRACK](https://open.spotify.com/album/5xCiqHMNrNax57or0U39oH) | 3:01 | 2022-08-24 |  |
 | [Starchild](https://open.spotify.com/track/42c2s0zb9FT06MvOeQJrSS) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [BOOGEY VOXX](https://open.spotify.com/artist/3VAdXfwUyM3Z1KvtnPlllq), [D.watt\(IOSYS\)](https://open.spotify.com/artist/0t8quIImGrrY7TD7uW2twd), [日高零奈 \(CV: 蔀 祐佳\)](https://open.spotify.com/artist/3U8W8KZ51Z96pSqPjkWNYz), [D.watt](https://open.spotify.com/artist/7jEjiWsuWaoWwNS9I8CtJr) | [Starchild](https://open.spotify.com/album/3JtrsZzAxhjO8n9YDz0Fw5) | 5:27 | 2022-12-22 |  |

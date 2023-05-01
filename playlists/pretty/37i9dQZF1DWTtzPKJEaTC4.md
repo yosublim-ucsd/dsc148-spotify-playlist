@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 
 > <a href="spotify:artist:2i1CPudyCUjL50Wqjv8AMI">Alfa Mist</a> shares his jazz favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,371 likes - 30 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,422 likes - 30 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 | 4 | [What Day Is It? \(feat\. Reuben Rogers, Walter Smith III\)](https://open.spotify.com/track/1QiYLCJgq2NjglKW9EKxiv) | [Kendrick Scott](https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux), [Reuben Rogers](https://open.spotify.com/artist/4suPNNUCtzkjmLIQnCGNeL), [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [What Day Is It? \(feat\. Reuben Rogers, Walter Smith III\)](https://open.spotify.com/album/40tPQ81T2l4SPb6xVrwDEZ) | 4:54 |
 | 5 | [Tributary](https://open.spotify.com/track/7q6UmBKNhBLgMt0dg9UKr2) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Tributary](https://open.spotify.com/album/4Smd5XsAnGKCt8QepEw9AM) | 5:47 |
 | 6 | [Champion](https://open.spotify.com/track/1vPNWcs7Ert6vHto2p6ySc) | [Jamie Leeming](https://open.spotify.com/artist/1aIoXz1gXoYjpExn1YISkD), [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Resynthesis](https://open.spotify.com/album/0h53lAKeUdvII1H6B4QvbQ) | 3:39 |
-| 7 | [Aged Eyes](https://open.spotify.com/track/7xtWxotWjZAFB1rw5J3HHz) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Kaya Thomas\-Dyke](https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE) | [Aged Eyes](https://open.spotify.com/album/7A6hBg9U4hIYiCLcthKQzG) | 4:06 |
+| 7 | [Aged Eyes](https://open.spotify.com/track/0gQbyxRhcMI8SM4eMZpSZF) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Kaya Thomas\-Dyke](https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE) | [Variables](https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6) | 4:06 |
 | 8 | [Faces in Reflection No.1](https://open.spotify.com/track/6w2OBecz2paQjl8BaFaJXz) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [Faces in Reflection](https://open.spotify.com/album/27LrzDfCpvyhJw63OQz9cw) | 3:40 |
 | 9 | [Dawn \- Remastered](https://open.spotify.com/track/7uOR6TIGeytCAnKrUT4X91) | [Mahavishnu Orchestra](https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO) | [The Inner Mounting Flame](https://open.spotify.com/album/6XHQCPGwvSaqv9MZ2tauqr) | 5:09 |
 | 10 | [White Juju, VI\. Sanctuary \- Live](https://open.spotify.com/track/68xtFzZXDMxZA2ZKqiw0JQ) | [Soweto Kinch](https://open.spotify.com/artist/6Z37ofcWV3ZDEMbevEtoSk), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Lee Reynolds](https://open.spotify.com/artist/68loRWEOBXUYarnmy6IHOH), [Rick Simpson](https://open.spotify.com/artist/3FKhFIysDUOzJwTMNIFjpf), [Nick Jurd](https://open.spotify.com/artist/0jzEWq8gmFuq75Z8v0K6vQ), [Gregory Hutchinson](https://open.spotify.com/artist/4uFjFfYlOxBKvdHKuHqk2y) | [White Juju, VI\. Sanctuary \(Live\)](https://open.spotify.com/album/6taK9u9lQM9MJnwWmPo5S8) | 7:31 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 | 29 | [Wrangel](https://open.spotify.com/track/6ich630va9p5hMVU2DPC2J) | [Benedikt Jahnel Trio](https://open.spotify.com/artist/7HcGEwGFOZo1xqYa3SJ6m3) | [Equilibrium](https://open.spotify.com/album/0jdPF0XNaprry2aipeMyGD) | 9:01 |
 | 30 | [Effi \- Remastered](https://open.spotify.com/track/0nIeaEyPJIixP1B73MTXpf) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Patterns](https://open.spotify.com/album/1y2UHjMwM818jzPqRzw9cd) | 7:10 |
 
-Snapshot ID: `MCwzZjg3YjBjNzlmNGIyMGNkNDEzYzYxMWVhY2U3ZGQ0ODQ0M2I4YWQ0`
+Snapshot ID: `MCw2NjQ2OTkwNmY1MTRjNWNjNDI5ODkxZmQ4NDk3NThkNTlkMWJjMTk3`

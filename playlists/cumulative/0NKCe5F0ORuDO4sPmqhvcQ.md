@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-437 songs - 1 day 0 hr 31 min
+439 songs - 1 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [FBGM!](https://open.spotify.com/track/0qES0yIA5BkEdpnvJoevNa) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [FBGM!](https://open.spotify.com/album/1YKPrMwtY3U4o7FrrPTNRT) | 2:19 | 2023-03-31 |  |
 | [Feel Flows \- Vindata Remix](https://open.spotify.com/track/3UoU6uFAxpX3veVkbhhjcB) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Vindata](https://open.spotify.com/artist/1Vxf1UfzcxqzqItoOA0DDT) | [Feel Flows \(Vindata Remix\)](https://open.spotify.com/album/7rfoojq4ztmqSRJvhQTcFh) | 4:22 | 2022-04-15 | 2022-11-23 |
 | [Feel Like That](https://open.spotify.com/track/6OnoVlTab0GXCPqnu19Z9S) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Idarose](https://open.spotify.com/artist/1KtWTt471icGsQwTn6z9ls) | [Feel Like That](https://open.spotify.com/album/2JRR9tOzrH6mczJQDiFfP7) | 2:57 | 2021-11-19 | 2022-01-08 |
+| [Feel Something](https://open.spotify.com/track/5S2ZZBs451CuI81g9WjJIL) | [Late Night Therapy](https://open.spotify.com/artist/2mlllc3fdsSFJHJDBcg33I) | [Feel Something](https://open.spotify.com/album/3vHOxtVgvCeGR82IVwaDV6) | 4:15 | 2023-05-01 |  |
 | [Fill Up My Soul](https://open.spotify.com/track/60GQWonONfgADHxYL6zudO) | [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Fill Up My Soul](https://open.spotify.com/album/1umGjanxEtYyHRmC0QStND) | 3:00 | 2021-12-07 | 2022-01-08 |
 | [find your way \- Elohim Remix](https://open.spotify.com/track/2UYeqwRXXMeYY1qrnBz036) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [find your way \(Elohim Remix\)](https://open.spotify.com/album/4yMauO3cvYQq33kg41pxZI) | 2:54 | 2022-04-21 | 2023-04-01 |
 | [Fire](https://open.spotify.com/track/76zmGyRffSW0aAThzbsZvi) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Skyler Cocco](https://open.spotify.com/artist/0XiGZPN1W6HhJDz4shx8VZ) | [Ethereal](https://open.spotify.com/album/4MVG42fEPbnV1Hm9kdDuzZ) | 3:41 | 2022-02-28 | 2022-06-25 |
@@ -220,6 +221,7 @@
 | [JUPITER \- Slow Magic Juno Remix](https://open.spotify.com/track/2m35MFQGUaEJeYlI8C7HBl) | [KUNZITE](https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO), [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [JUPITER \(Slow Magic Juno Remix\)](https://open.spotify.com/album/0HgzxRbs60fJGk6ynToiOB) | 2:43 | 2021-11-12 | 2022-01-08 |
 | [Kiss Me Like I'm Drowning](https://open.spotify.com/track/73TbW1t3SnlbFGTX12ISrx) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [Kiss Me Like I'm Drowning](https://open.spotify.com/album/31CUujJDdh2LSbFcyKA93w) | 3:42 | 2022-06-24 | 2023-01-20 |
 | [Kissing Other Boys](https://open.spotify.com/track/35Z1Hr2141V2DLUNtXY3mv) | [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Kissing Other Boys](https://open.spotify.com/album/5Cj01td2Mh5mgkKNMUXVcP) | 3:03 | 2022-01-18 | 2022-02-05 |
+| [Lavender \(feat\. Jolina Elísh\)](https://open.spotify.com/track/6DQUJXeQbpzVcB2sT0rrlA) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [Jolina Elísh](https://open.spotify.com/artist/36XHszB4UC3UDGGcamfclK) | [Lavender Dreams & Scarlet Nightmares](https://open.spotify.com/album/0GasuMeALUBC4Kk55XjgLP) | 3:15 | 2023-05-01 |  |
 | [Left Behind](https://open.spotify.com/track/3NQOEIsyMlYGgy0i1pbxlL) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Left Behind](https://open.spotify.com/album/3ahJz8yBkI9eUcKun7MDel) | 4:24 | 2022-09-16 | 2023-04-01 |
 | [LEFT TO RIGHT \- JADED Remix](https://open.spotify.com/track/6SejpzU5kr4Jlw2iZyBRwq) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [LEFT TO RIGHT \(JADED Remix\)](https://open.spotify.com/album/0o1mk3UOSifeAFi46JdHL6) | 2:56 | 2023-03-15 | 2023-04-01 |
 | [Lest I Forget](https://open.spotify.com/track/36TSK3QjHHJOcjMEFdtTqw) | [Simon Cress](https://open.spotify.com/artist/1bI3fRB0jBmdtVI5yxUqW1) | [Bloom](https://open.spotify.com/album/6mclW6BfNuFLYWsPceVL3t) | 4:32 | 2021-08-27 | 2022-01-08 |

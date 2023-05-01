@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: TSHA
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,444 likes - 60 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,462 likes - 60 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 42 | [Feel](https://open.spotify.com/track/19sCGOTZKnlb5XPbBklcQz) | [Xyla](https://open.spotify.com/artist/7CmkZcKpESltjho1LZJgnb) | [Ways](https://open.spotify.com/album/4dqk5qdk4iH4uI59t2uCZH) | 4:37 |
 | 43 | [The Oracle](https://open.spotify.com/track/2QsY0f0WhXwZJNnZpVDArN) | [Nightwave](https://open.spotify.com/artist/21E32VFyiPAWjbOWWzZBOv) | [Prince Of Flowers EP](https://open.spotify.com/album/7tAFeC1V1AlOdE2OUYhPGd) | 4:35 |
 | 44 | [No Good For Me](https://open.spotify.com/track/0L0n5Yx0nVMeUjLmgvhyWi) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Wrestling](https://open.spotify.com/album/2jKzkqQ2Dkam6bKbzUuegq) | 3:35 |
-| 45 | [Bubble Up](https://open.spotify.com/track/4LPHcGr7T3lT2gImcwYWe7) | [Ikonika](https://open.spotify.com/artist/1GbZUOowT6BhrI9QVoUniG) | [Bubble Up](https://open.spotify.com/album/1H8nHeSZdVakwvkmZNOfkZ) | 6:08 |
+| 45 | [Bubble Up](https://open.spotify.com/track/6OfDPAofhAqf4hxLoOGDLM) | [Ikonika](https://open.spotify.com/artist/1GbZUOowT6BhrI9QVoUniG) | [Bubble Up](https://open.spotify.com/album/1TVK04bZsCf3xZfBhw4CJa) | 6:08 |
 | 46 | [Obsesión Romántica](https://open.spotify.com/track/7uFODqub2N87Sq5yUz5ksA) | [Maddy Maia](https://open.spotify.com/artist/61DvbqY9Ihl7jmhQEEpSgU), [Tottie](https://open.spotify.com/artist/70OXFT4fyMwvcOHgFsVj9B) | [Obsesión Romántica](https://open.spotify.com/album/1da1Ef2gpAXI0Xet1ZrZAa) | 7:11 |
 | 47 | [Feels Darker](https://open.spotify.com/track/11UMhOKrwShiukxOnRX2mp) | [Monki](https://open.spotify.com/artist/30C3E9bYfEQPAY9MweeUVe) | [Feels Darker](https://open.spotify.com/album/0PNLjzbkEvzQBKYVwTgnNI) | 3:15 |
 | 48 | [Expanding Electricity \- Single Edit](https://open.spotify.com/track/0CeoyRkeTUuZQk93GBH8B7) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Expanding Electricity](https://open.spotify.com/album/6j9ZzbYo2KBm05qoBXkFDg) | 5:36 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 59 | [Talk Ur Talk](https://open.spotify.com/track/73Y2GXivOjrG8E5VFz52VI) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [Powerplay](https://open.spotify.com/album/1Cvn9YGFvcg46z4FG81Btr) | 3:49 |
 | 60 | [Radical Spectacular](https://open.spotify.com/track/0SMvgsGjYvbNUnLytP0VnO) | [Mor Elian](https://open.spotify.com/artist/4nLavg4nn48n7wwx2AIklZ) | [Radical Spectacular](https://open.spotify.com/album/1uXd0Gk3K9oV1TtEzjtAwo) | 6:30 |
 
-Snapshot ID: `MCxlNGM0OTE2NWI2YTNkYmQ0OGNlYzQxMzQxMmJmY2VhN2JiMWU2YjEw`
+Snapshot ID: `MCxkY2NlNWM2MzYyNTAwYjZhMjZkZjBmMDFmY2ZmOTNmNDlkOTc3N2Vk`

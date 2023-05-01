@@ -4,7 +4,7 @@
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org/conference</a>\. Cover: The Milk Carton Kids
 
-496 songs - 1 day 8 hr 22 min
+497 songs - 1 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,8 @@
 | [It Works](https://open.spotify.com/track/650Z7MTSE1nLjuTq1xKdo4) | [Monique Clare](https://open.spotify.com/artist/3zQWN1nkGlvo1MpwTuZBWk) | [It Works](https://open.spotify.com/album/2e5jkK1Q8MY3L4dgZpr1KY) | 3:05 | 2021-02-23 | 2022-04-26 |
 | [It's About Time](https://open.spotify.com/track/5bRatpVOPjKlwQa801MpwU) | [Ruby Velle & The Soulphonics](https://open.spotify.com/artist/5hA2fNOsOjec1PiwPcrQ3k) | [It's About Time](https://open.spotify.com/album/7wJQei7PPFjgAUO64PYQgB) | 6:24 | 2021-02-23 | 2022-04-26 |
 | [It's Burning](https://open.spotify.com/track/65lIZKbg40Zfu5Y1wiNm7X) | [Mark Rubin, Jew of Oklahoma](https://open.spotify.com/artist/32bbDxOZn7MY1zf5P3aBLm) | [The Triumph of Assimilation](https://open.spotify.com/album/6RlGIIXmMLAtj1jlif5cFB) | 2:34 | 2022-04-25 | 2023-01-25 |
-| [I’m Still Trying](https://open.spotify.com/track/7DPecD3ijWkltDP4WUyMok) | [Matthew Fowler](https://open.spotify.com/artist/4sEwd00h37jbfriErP8soZ) | [The Grief We Gave Our Mother](https://open.spotify.com/album/7snLxBVME5RadyC4qFlgHk) | 3:22 | 2023-01-24 |  |
+| [I’m Still Trying](https://open.spotify.com/track/13BHB3xTpwilLi5cYN1haC) | [Matthew Fowler](https://open.spotify.com/artist/4sEwd00h37jbfriErP8soZ) | [The Grief We Gave Our Mother](https://open.spotify.com/album/2Ifp1dtGFThoNNwSJ5tsqm) | 3:22 | 2023-01-24 |  |
+| [I’m Still Trying](https://open.spotify.com/track/7DPecD3ijWkltDP4WUyMok) | [Matthew Fowler](https://open.spotify.com/artist/4sEwd00h37jbfriErP8soZ) | [The Grief We Gave Our Mother](https://open.spotify.com/album/7snLxBVME5RadyC4qFlgHk) | 3:22 | 2023-01-24 | 2023-05-01 |
 | [James Monroe](https://open.spotify.com/track/6Yj3YkHvEiFiuoiN0LIG5a) | [The Henry Girls](https://open.spotify.com/artist/02KeGV8345Zm6WfWdCiD2i) | [Louder Than Words](https://open.spotify.com/album/71Xv0HxHxU6zsYTjXLHcPi) | 3:44 | 2023-01-24 |  |
 | [Jamie Rae](https://open.spotify.com/track/3GUYM3lATbcxCIvOYU4Oes) | [Cary Morin](https://open.spotify.com/artist/51oTB1rGltPYEUj9WqBqgh) | [Dockside Saints](https://open.spotify.com/album/0VvtzEDQNaB465SWFxPI9o) | 4:30 | 2023-01-24 |  |
 | [Je veux m'y marier / Le talencourt](https://open.spotify.com/track/1OO5XumJ22bglUWWs3pId3) | [Grosse Isle](https://open.spotify.com/artist/608gEqY93wuJtHdofldWwR) | [Le bonhomme sept heures / The Bonesetter](https://open.spotify.com/album/52ylZOnjjntlhhTcjaHbNH) | 4:21 | 2022-04-25 | 2023-01-25 |

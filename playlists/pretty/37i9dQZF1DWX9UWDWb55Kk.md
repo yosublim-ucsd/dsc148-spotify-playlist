@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Escucha la música de las seis temporadas de Élite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,202 likes - 354 songs - 22 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,230 likes - 354 songs - 22 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -347,7 +347,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 337 | [Pop Panic \(feat\. Just John\)](https://open.spotify.com/track/0NMHXkWf6egLjQ3Uwzhliv) | [Lex Junior](https://open.spotify.com/artist/3dvvkiXIRyaeLve9BMHdo9), [Just John](https://open.spotify.com/artist/5yJAfyfCn2mE6q9GeYrKWb) | [Pop Panic \(feat\. Just John\)](https://open.spotify.com/album/0LWU6Yf8YZsktbAKxAFI2j) | 2:07 |
 | 338 | [Null](https://open.spotify.com/track/37dhZnJL0HdIORbTHC6Daf) | [Operator Music Band](https://open.spotify.com/artist/1RPW4MVBs8ssPSeiaM01YH) | [Duo Duo](https://open.spotify.com/album/1ggBxWKobfZfuU3kybjyf4) | 3:38 |
 | 339 | [Butoh baby](https://open.spotify.com/track/3L7HGdt8alejIzzVKWsk3j) | [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [skins n slime](https://open.spotify.com/album/6ZdXLyJH5kdDayoZL4peVQ) | 3:16 |
-| 340 | [Greenarp](https://open.spotify.com/track/2uJY8CI8N0U8X5TDQq4XQE) | [Maria Chiara Argirò](https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb) | [Forest City](https://open.spotify.com/album/0mZ8l9nfp2koUm8sPW0mq9) | 3:34 |
+| 340 | [Greenarp](https://open.spotify.com/track/4sHTSXAklnVPGTDNOvunVL) | [Maria Chiara Argirò](https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb) | [Forest City](https://open.spotify.com/album/1tEe3UAUaaqkGutB94Jsiw) | 3:34 |
 | 341 | [Trancesizer \- Franz Scala Remix](https://open.spotify.com/track/2Ki8Y7w8xIIcB2Xts3aW2p) | [E\-bony](https://open.spotify.com/artist/6XznOPxK8736MxOoKyZBvA), [Franz Scala](https://open.spotify.com/artist/3kKQObtWHIS03QH4Kgd9E4) | [Stray Cats](https://open.spotify.com/album/3C7vNh81bdzlDEgXhiP3II) | 6:37 |
 | 342 | [Boom Shaka](https://open.spotify.com/track/3gxUBykZcSjxCqIqo63lqy) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [Boom Shaka](https://open.spotify.com/album/3TOmp0iecoQZL4CcwjsaP0) | 3:07 |
 | 343 | [A Gun Called Patience](https://open.spotify.com/track/6rxTIS4vR92UYUFnHR4kOr) | [Alex Rose](https://open.spotify.com/artist/7ETOcENbeXjSQfeqCKIVjD) | [A Gun Called Patience](https://open.spotify.com/album/0xKigNZjWlBG3HKrDZiXZg) | 3:10 |
@@ -363,4 +363,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 353 | [Out Of Touch](https://open.spotify.com/track/3DgjbN7e2gppallutVbat6) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [A Small Group Of Individuals](https://open.spotify.com/album/5QQRlQ7JnXy6c7HNDWVibk) | 4:01 |
 | 354 | [Witch Hunt](https://open.spotify.com/track/5nTCnGR4NtI3yyOp66NuOI) | [HXXS](https://open.spotify.com/artist/4zBSDjtYyrLC99ot3LV8hF) | [MKDRONE](https://open.spotify.com/album/2NtylLjjafbzfoAOPOMsO1) | 3:57 |
 
-Snapshot ID: `MCxiYWZhYzhmMzMxYWJkZWEwNWQyOWRlOTVkZWEwMDhkZGY1ODI0ODk4`
+Snapshot ID: `MCxlMzQ2M2ExOTZlNDBkN2YzOGY1OTIxN2Q0NjJmYTc4ZmE5MGFhODIy`

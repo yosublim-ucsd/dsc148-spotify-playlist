@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 
 > A levantar polvadera con lo mejor de la música de sax\. Los Vendavales de Adán Melendez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,900 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,147 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 | 74 | [Como Te Extraño](https://open.spotify.com/track/6fCnagYY6sBohrvLVDBHVA) | [Conjunto Nube](https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4) | [Como Te Extraño](https://open.spotify.com/album/5YZKmb0BjulcKw2MqyqQNO) | 2:27 |
 | 75 | [Creí en el Amor](https://open.spotify.com/track/0rAk2MIFzTktvOr2rHryxq) | [La Furia del Bravo](https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3) | [Creí en el Amor](https://open.spotify.com/album/6yi7TSv6mG7Msgpwqw8EMI) | 2:43 |
 
-Snapshot ID: `MCw2ODA2ZmIyMWNhYmU0NmJmMWE3YjViYWU1YTlmYmRlOTEwZmUxZTUz`
+Snapshot ID: `MCwyNDk2YTI2OTI5OTYzZmM2NDgwMTk3ZWQ4NjczYTQyZTQ0YjY0ZGEz`

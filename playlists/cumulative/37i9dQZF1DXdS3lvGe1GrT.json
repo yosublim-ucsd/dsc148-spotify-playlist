@@ -2056,10 +2056,28 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 204223,
       "name": "Cut and Dry",
       "url": "https://open.spotify.com/track/23FogBuJHB3BB13rOZ908W"
+    },
+    {
+      "album": {
+        "name": "Cut and Dry",
+        "url": "https://open.spotify.com/album/1plq63GCmfFINEtn9aCUbP"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cornfield",
+          "url": "https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204223,
+      "name": "Cut and Dry",
+      "url": "https://open.spotify.com/track/57QCpNCSAWW8XxZeETOXKd"
     },
     {
       "album": {

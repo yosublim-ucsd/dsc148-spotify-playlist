@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Ice Spice, Jack Harlow and Coi Leray.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,259,694 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,263,626 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [Favorite Song](https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Favorite Song](https://open.spotify.com/album/4XiUZULpVS6gTgKKU7KTX5) | 3:28 |
 | 50 | [Palisades, CA](https://open.spotify.com/track/70wd1fE44Rb9mnZMaApmkc) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [The Great Escape](https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr) | 3:14 |
 
-Snapshot ID: `MCw3ZjBjY2JiYjU4OTRiMzMyMGRjMTNlZmFkZjg5ZDk2NDAzZGJhZTIx`
+Snapshot ID: `MCwwZTVlY2U1ZDY4NzhmYjI0MmVmMzY1NDgzOTA1ZDg4YTBhNGQwOTY0`

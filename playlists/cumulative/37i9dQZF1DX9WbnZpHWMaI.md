@@ -4,7 +4,7 @@
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: TSHA
 
-137 songs - 10 hr 14 min
+138 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [BIPP](https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [BIPP](https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU) | 3:44 | 2021-03-01 |  |
 | [BOYZ](https://open.spotify.com/track/5UnNCMFboucIF78lnp1jkR) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [BOYZ](https://open.spotify.com/album/4tLBzhf9266srlw5qj6LnE) | 4:00 | 2022-03-08 | 2023-03-08 |
 | [BOYZ](https://open.spotify.com/track/79ixYcSOhGVaG69GHfVOXJ) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [BOYZ](https://open.spotify.com/album/42RXpd1cxEckm91miDtiAs) | 4:00 | 2022-03-08 | 2022-07-29 |
-| [Bubble Up](https://open.spotify.com/track/4LPHcGr7T3lT2gImcwYWe7) | [Ikonika](https://open.spotify.com/artist/1GbZUOowT6BhrI9QVoUniG) | [Bubble Up](https://open.spotify.com/album/1H8nHeSZdVakwvkmZNOfkZ) | 6:08 | 2023-03-07 |  |
+| [Bubble Up](https://open.spotify.com/track/4LPHcGr7T3lT2gImcwYWe7) | [Ikonika](https://open.spotify.com/artist/1GbZUOowT6BhrI9QVoUniG) | [Bubble Up](https://open.spotify.com/album/1H8nHeSZdVakwvkmZNOfkZ) | 6:08 | 2023-03-07 | 2023-05-01 |
+| [Bubble Up](https://open.spotify.com/track/6OfDPAofhAqf4hxLoOGDLM) | [Ikonika](https://open.spotify.com/artist/1GbZUOowT6BhrI9QVoUniG) | [Bubble Up](https://open.spotify.com/album/1TVK04bZsCf3xZfBhw4CJa) | 6:08 | 2023-03-07 |  |
 | [Busy](https://open.spotify.com/track/00dV6gjuXDt6WcSSuC3kmY) | [Nina Las Vegas](https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ) | [Busy](https://open.spotify.com/album/6l3EtJ9vXokq3dNY7dP3iL) | 2:23 | 2021-03-01 | 2022-07-29 |
 | [Busy](https://open.spotify.com/track/5aT1vzCTNvn9nbo82vMC8P) | [Nina Las Vegas](https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ) | [Busy](https://open.spotify.com/album/3CGdkbZ0dOfCL06NDv7zGY) | 2:23 | 2022-03-08 |  |
 | [Capacidades](https://open.spotify.com/track/1ykjMdqbt95Bu2BuPbAlUy) | [Nídia](https://open.spotify.com/artist/3BKX2WA8UjZgTIJ2juyQ7G) | [Não Fales Nela Que A Mentes](https://open.spotify.com/album/37k7KzGQIMEnoxD15qq4uL) | 2:27 | 2021-03-01 |  |

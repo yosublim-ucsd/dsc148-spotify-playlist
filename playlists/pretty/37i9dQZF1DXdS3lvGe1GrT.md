@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Superviolet \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,930 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,984 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 36 | [Carry On, Carry On](https://open.spotify.com/track/71oV1c3BbqyLnKKwxRJRCy) | [HAPPY LANDING](https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6) | [Carry On, Carry On](https://open.spotify.com/album/5uO7MsWs3sWJk1srtkI2cV) | 3:31 |
 | 37 | [First Light](https://open.spotify.com/track/7MwtFy3hEW9ru5lF2vNHOL) | [Dom Louis](https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph) | [Dom Louis](https://open.spotify.com/album/0gxSPjAI7bRL1qhMzQyQT6) | 2:55 |
 | 38 | [World Burn](https://open.spotify.com/track/0te7qiBjtAE3NdIKy2Gmwy) | [Amos the Kid](https://open.spotify.com/artist/63LZAfaHUgHs3vW7lgqXr4) | [World Burn](https://open.spotify.com/album/6NowVZWXxm3LKvSjUxJXIX) | 3:30 |
-| 39 | [Cut and Dry](https://open.spotify.com/track/23FogBuJHB3BB13rOZ908W) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Cut and Dry](https://open.spotify.com/album/6nVUrCAmuqzGSU3ioNAlpI) | 3:24 |
+| 39 | [Cut and Dry](https://open.spotify.com/track/57QCpNCSAWW8XxZeETOXKd) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Cut and Dry](https://open.spotify.com/album/1plq63GCmfFINEtn9aCUbP) | 3:24 |
 | 40 | [flower bed](https://open.spotify.com/track/53SwRcMOGn4BsXledMvTzT) | [Joei Razook](https://open.spotify.com/artist/7lKfXXpidmX8SAO3cEUrPr) | [flower bed](https://open.spotify.com/album/5ibsh6LBJZ481uwfyjDfvB) | 3:08 |
 | 41 | [Cowboy in London](https://open.spotify.com/track/5QC7cT16JXayKU12sefJkA) | [Allie Crow Buckley](https://open.spotify.com/artist/4zWJqtFs82kB6LSMY20ggp) | [Cowboy in London](https://open.spotify.com/album/6OsovHPbu2W1ilfBj86VtO) | 3:25 |
 | 42 | [is there something for me?](https://open.spotify.com/track/3Jlh73nzDpIXkSnvZyOU1J) | [Philip Brooks](https://open.spotify.com/artist/6Bo5UEoUopq42HZX3apU1w) | [is there something for me?](https://open.spotify.com/album/7ECfin3AA5UE4lRbtEvzQx) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [You Don't Wanna Leave it Alone](https://open.spotify.com/track/5CeBqKJKkZtllzY5FaMPdd) | [J.E\. Sunde](https://open.spotify.com/artist/17x8QHiHxUhMSEv26RT7lW) | [You Don't Wanna Leave it Alone](https://open.spotify.com/album/0QIIAR2Ko4vEfb0kNjaQIg) | 3:02 |
 | 100 | [If I Wanted To](https://open.spotify.com/track/4wqZS9kXewme6hESpPTh7c) | [Doug Paisley](https://open.spotify.com/artist/2WH0j5DM0bzoj1KRKpJFh9) | [Say What You Like](https://open.spotify.com/album/3xcDRGzx04UwxucGTAb8Jf) | 2:53 |
 
-Snapshot ID: `MCxlZTVkMGVlNjAwZWMyZmYwMTliMjczNzg0NTgwN2I0ZWJjMDIxZDA4`
+Snapshot ID: `MCxjNmMyZjhkMzYxMGE5MTAwZGQ0ODQ0MTA5NzZlMzA0NjZkNDIwZTBk`

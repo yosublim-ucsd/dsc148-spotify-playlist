@@ -1485,6 +1485,24 @@
     },
     {
       "album": {
+        "name": "Creatures Of Tomorrow",
+        "url": "https://open.spotify.com/album/5mBan5jxqLzd7SLozflhan"
+      },
+      "artists": [
+        {
+          "name": "ItaloBrothers",
+          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136960,
+      "name": "Creatures Of Tomorrow",
+      "url": "https://open.spotify.com/track/712zMbj5Q5kekcq3FVGvXj"
+    },
+    {
+      "album": {
         "name": "Dance on My Own (feat. Richard Judge)",
         "url": "https://open.spotify.com/album/5tJbmHZDu4DJwZrcHBB28s"
       },
@@ -4962,7 +4980,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 136846,
       "name": "Mission Control",
       "url": "https://open.spotify.com/track/45lGbfYeIdseB3N8FSR9HG"

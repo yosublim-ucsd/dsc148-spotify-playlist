@@ -4,7 +4,7 @@
 
 > Viral hits in Africa
 
-351 songs - 21 hr 25 min
+353 songs - 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [Heyto Tarentaal \(I Got It From My Mama\)](https://open.spotify.com/track/52t66isWqxRYfK9JbmGQyR) | [Min\-Gespin](https://open.spotify.com/artist/4H5JirQylmftbVgorviv7r) | [Heyto Tarentaal \(I Got It From My Mama\)](https://open.spotify.com/album/6dgm4oTca86Db4GUiREyDG) | 2:54 | 2023-04-03 | 2023-04-25 |
 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 | 2022-11-15 | 2022-12-13 |
 | [Highness](https://open.spotify.com/track/1syo0N6Zt8vxN42ZDprXwS) | [S\-Smart](https://open.spotify.com/artist/5ZRp3JOtMPSeowGwOFA7w8) | [Highness](https://open.spotify.com/album/0nfEIasF3YwT9ZarYxQ7Vd) | 3:50 | 2022-11-15 | 2023-01-17 |
-| [Holiday](https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX) | 2:39 | 2023-03-20 |  |
+| [Holiday](https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX) | 2:39 | 2023-03-20 | 2023-05-01 |
+| [Holiday](https://open.spotify.com/track/3ceZIRUX8m8qFFcnEDkj2K) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 2:39 | 2023-04-24 |  |
 | [Home For My Heart](https://open.spotify.com/track/1PGc9smXkDk2I7v8zsI0GB) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Home For My Heart](https://open.spotify.com/album/51XNz5aKjz3NjAZNQY40bp) | 2:38 | 2023-04-11 |  |
 | [HOPE](https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [HOPE](https://open.spotify.com/album/3VYKlqWS3zOv1jli94RFKW) | 4:24 | 2023-04-11 | 2023-04-25 |
 | [How Are You \(My Friend\)](https://open.spotify.com/track/2QdqML21AFaQPWxmhuv1KW) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [How Are You \(My Friend\)](https://open.spotify.com/album/2h9jc7KGoE0qDayuf6o7pq) | 3:16 | 2022-11-15 | 2023-01-17 |
@@ -205,7 +206,8 @@
 | [My Friend](https://open.spotify.com/track/0C3YTd9JyT3soUiLp0wYgk) | [Ice Beats Slide](https://open.spotify.com/artist/7mCHXCZogKSjmhJlX0sls0), [Troy willmake](https://open.spotify.com/artist/4ikY8QJvK2SVogqqV42gpa), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4) | [IBhova Lami](https://open.spotify.com/album/4BDnfT8vjNAeYX0HAq1cD5) | 5:13 | 2022-11-01 | 2022-11-16 |
 | [Nakati](https://open.spotify.com/track/59MGv2C2OfVDLkLM31asng) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [LCLM :Prélude](https://open.spotify.com/album/1HGb9KLKL3ii3aUe26wa5w) | 4:00 | 2023-04-03 |  |
 | [Nakuja \(feat\. Marioo\)](https://open.spotify.com/track/20LizgAAY10POPIMXXz0dO) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Nakuja \(feat\. Marioo\)](https://open.spotify.com/album/0LMLaFyr0zKTkCSbAjj0Gk) | 3:11 | 2023-03-07 |  |
-| [NANA](https://open.spotify.com/track/3x14QjUcvBTxIYjMD9RzVO) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [NANA](https://open.spotify.com/album/7KJ1TeVa4Xc9Wv0AOv9o0Y) | 2:26 | 2023-02-28 |  |
+| [NANA](https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [NANA](https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi) | 2:26 | 2023-04-24 |  |
+| [NANA](https://open.spotify.com/track/3x14QjUcvBTxIYjMD9RzVO) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [NANA](https://open.spotify.com/album/7KJ1TeVa4Xc9Wv0AOv9o0Y) | 2:26 | 2023-02-28 | 2023-05-01 |
 | [Naruto UK \(Hidden Drill Village\)](https://open.spotify.com/track/24dtpoK0gKxxLyM04kvgdl) | [Pureojuice](https://open.spotify.com/artist/1ycQaIpZn0FKwQ1zHjLD3o), [Prodby CJ](https://open.spotify.com/artist/395CLKcOZHqmhBxRbR92Te) | [Naruto UK \(Hidden Drill Village\)](https://open.spotify.com/album/5ykxkmOBrGl5j5GceT0QpC) | 2:56 | 2023-01-16 | 2023-01-24 |
 | [Ncebeleka](https://open.spotify.com/track/5OLFMjFMyg7P88mOt9ytT0) | [TOSS](https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9), [Felo Le Tee](https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV) | [Ncebeleka](https://open.spotify.com/album/2xbGRjaYioSA0qrur8sHb0) | 5:44 | 2022-12-12 | 2023-01-17 |
 | [Never in My Life](https://open.spotify.com/track/2FcrnP6vOlSQZuIEMqJFXm) | [Imanse](https://open.spotify.com/artist/5MbLPA7oAYe6zI6C3DUeA4) | [Never in My Life](https://open.spotify.com/album/6s7iczksqsw6UDPTSJFstq) | 2:50 | 2022-11-08 | 2022-11-16 |

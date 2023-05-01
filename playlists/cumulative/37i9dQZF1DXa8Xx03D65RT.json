@@ -4535,6 +4535,24 @@
     },
     {
       "album": {
+        "name": "Just Passing By",
+        "url": "https://open.spotify.com/album/4naAhJ8qPaCcNd99DVrixB"
+      },
+      "artists": [
+        {
+          "name": "Winifred Kang",
+          "url": "https://open.spotify.com/artist/5r0SmbwJ70z8AoUrrbdRnU"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122159,
+      "name": "Just Passing By",
+      "url": "https://open.spotify.com/track/51zL0hF9UCIToxItCojCRP"
+    },
+    {
+      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/0eVw8w35dO9VuGLy4vOprZ"
       },
@@ -6942,7 +6960,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 118000,
       "name": "Penumbra",
       "url": "https://open.spotify.com/track/6ju8Yz9swqGjPAtHtWFDVM"

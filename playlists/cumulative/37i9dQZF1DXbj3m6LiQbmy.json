@@ -1688,10 +1688,32 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 493760,
       "name": "Flores No Mar - Album Edit",
       "url": "https://open.spotify.com/track/4wp5E9w0eJ0gg0QxGWRDFy"
+    },
+    {
+      "album": {
+        "name": "W",
+        "url": "https://open.spotify.com/album/4dfA4vqVedjn5tCy1Ce5my"
+      },
+      "artists": [
+        {
+          "name": "Populous",
+          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+        },
+        {
+          "name": "EMMANUELLE",
+          "url": "https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493760,
+      "name": "Flores No Mar - Album Edit",
+      "url": "https://open.spotify.com/track/6SYH3khYd6Mum1cKf8sRux"
     },
     {
       "album": {
@@ -1892,7 +1914,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 196721,
       "name": "Gold",
       "url": "https://open.spotify.com/track/6zIBIkhO98iYaEks8h5HbX"
@@ -3814,7 +3836,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 178000,
       "name": "Repito - Populous Remix",
       "url": "https://open.spotify.com/track/0L0XrBKrMxd9LPCMVLkJmw"

@@ -490,7 +490,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 463000,
       "name": "7elmet ado 6",
       "url": "https://open.spotify.com/track/5isvUTOCs9UNdwBR8e8oGE"
@@ -3078,7 +3078,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 201533,
       "name": "C'est carr\u00e9 le S",
       "url": "https://open.spotify.com/track/2f8JQJctq8LZtaq6Hgdgb8"
@@ -3230,6 +3230,28 @@
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
+    },
+    {
+      "album": {
+        "name": "Rave & Roses Ultra",
+        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239317,
+      "name": "Calm Down (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/1s7oOCT8vauUh01PbJD6ps"
     },
     {
       "album": {
@@ -9162,7 +9184,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 176698,
       "name": "Kima Bakri",
       "url": "https://open.spotify.com/track/3hjXb9FRFRt7H13KlNhGPA"
@@ -12569,6 +12591,24 @@
     },
     {
       "album": {
+        "name": "Ultra Violet",
+        "url": "https://open.spotify.com/album/1ZRSQ6NRm6nZfUsPsrY8y7"
+      },
+      "artists": [
+        {
+          "name": "Thats So Mariana",
+          "url": "https://open.spotify.com/artist/3i7cmr3KHw0AarqYzB2PkK"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166132,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/7bg71FPTZ882efswWDjL4r"
+    },
+    {
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
@@ -12960,6 +13000,24 @@
       "duration_ms": 234869,
       "name": "Napoli",
       "url": "https://open.spotify.com/track/3RgA5F34sshv7YfdAvRtne"
+    },
+    {
+      "album": {
+        "name": "Nar",
+        "url": "https://open.spotify.com/album/6k1p2MPYhbk1Uk83yOJmFd"
+      },
+      "artists": [
+        {
+          "name": "Salma Rachid",
+          "url": "https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Nar",
+      "url": "https://open.spotify.com/track/3PUmhHpH9x9hHtQqOMZ953"
     },
     {
       "album": {
@@ -16999,6 +17057,28 @@
     },
     {
       "album": {
+        "name": "Nar",
+        "url": "https://open.spotify.com/album/6k1p2MPYhbk1Uk83yOJmFd"
+      },
+      "artists": [
+        {
+          "name": "Salma Rachid",
+          "url": "https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa"
+        },
+        {
+          "name": "Dizzy DROS",
+          "url": "https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1g2680d7htD40vhKiVRTth"
+    },
+    {
+      "album": {
         "name": "STAY (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
@@ -18266,7 +18346,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 194786,
       "name": "Trance (with Travis Scott & Young Thug)",
       "url": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J"

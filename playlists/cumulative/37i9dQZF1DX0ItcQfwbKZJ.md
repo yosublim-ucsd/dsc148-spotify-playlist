@@ -4,7 +4,7 @@
 
 > From Fela Kuti to Antibalas, enjoy a collection of timeless Afrobeat music!
 
-78 songs - 7 hr 4 min
+79 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Mr\. Foolish \(feat\. Seun Kuti\)](https://open.spotify.com/track/7r6PFG9FX6LrpPI1IcfpbI) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [About 30](https://open.spotify.com/album/3ssy7tJKSX4ohRxWvfqsJo) | 4:02 | 2019-08-09 |  |
 | [No Wrong Show](https://open.spotify.com/track/1lnHRzrx8GLtkPWEQRebWW) | [Thony Shorby Nyenwi](https://open.spotify.com/artist/3HcwWpnDRCp1zhnPRPDQhd) | [Afro Baby: The Evolution of the Afro\-Sound in Nigeria 1970\-79](https://open.spotify.com/album/3MRCjf7Np4Jn3K4bnNv10a) | 5:43 | 2019-08-09 |  |
 | [Nobody's Bulletproof](https://open.spotify.com/track/0m9uFKBhxY1r4wTN0XymiI) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band EP](https://open.spotify.com/album/7i1uRaDZbc53bpjdTmJEBr) | 3:10 | 2019-08-09 | 2022-07-29 |
-| [Nobody's Bulletproof](https://open.spotify.com/track/3J2sJ7cGFccwV1MKWvMtmA) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band EP](https://open.spotify.com/album/7BBgP62XXdQL3SoFcMPqWO) | 3:10 | 2019-08-09 |  |
+| [Nobody's Bulletproof](https://open.spotify.com/track/0UHrUsw3yg6hUDHMw2E6yL) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band EP](https://open.spotify.com/album/5qxaJ3jAYq68bRSL8OwsDq) | 3:10 | 2022-09-26 |  |
+| [Nobody's Bulletproof](https://open.spotify.com/track/3J2sJ7cGFccwV1MKWvMtmA) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band EP](https://open.spotify.com/album/7BBgP62XXdQL3SoFcMPqWO) | 3:10 | 2019-08-09 | 2023-05-01 |
 | [Ojo](https://open.spotify.com/track/0YFuoBLJnkOPdli5ZXTy5C) | [Tunji Oyelana](https://open.spotify.com/artist/6piO8ZWHA7dIj5hipFpNna) | [A Nigerian Retrospective 1966\-79](https://open.spotify.com/album/0LRdlpszrBHWcHz9q3jgvu) | 6:14 | 2019-08-09 | 2023-04-30 |
 | [Ojo](https://open.spotify.com/track/0cgGxQBEaeq38lbTI0G8X3) | [Tunji Oyelana](https://open.spotify.com/artist/6piO8ZWHA7dIj5hipFpNna) | [A Nigerian Retrospective 1966\-79](https://open.spotify.com/album/1h4bfufNLobkFgTtlCzz74) | 6:14 | 2022-09-26 |  |
 | [Ojo](https://open.spotify.com/track/0dlOKmmTT8xUxFHQuEU02B) | [Tunji Oyelana](https://open.spotify.com/artist/6piO8ZWHA7dIj5hipFpNna) | [A Nigerian Retrospective 1966\-79](https://open.spotify.com/album/4lFTlZdrDJPiU4BiBx7cjf) | 6:14 | 2019-08-09 | 2022-07-29 |

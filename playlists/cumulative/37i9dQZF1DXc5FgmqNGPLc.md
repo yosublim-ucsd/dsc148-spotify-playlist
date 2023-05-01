@@ -4,7 +4,7 @@
 
 > All live, all jazz\. Cover: Erroll Garner
 
-118 songs - 17 hr 23 min
+119 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [The Prophet \- Live](https://open.spotify.com/track/4e9XzXMa094Kw40320Htjw) | [Eric Dolphy](https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp) | [Eric Dolphy At The Five Spot \- Vol\. 1](https://open.spotify.com/album/2QmssU0RNrWDa0YIJwDcb7) | 21:25 | 2021-11-12 |  |
 | [Theme From M\*A\*S\*H \- Live](https://open.spotify.com/track/1kzrdCbFcXxUUHc2eHEdhg) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Marc Johnson](https://open.spotify.com/artist/3AT9157jK9F2gMSViMdRUH), [Joe LaBarbera](https://open.spotify.com/artist/6cNZnJFHmf0jFAiXFo1L2F) | [Theme From M\*A\*S\*H \(Live\)](https://open.spotify.com/album/7s5CjcnG4ecB9z1FV3rkvy) | 4:56 | 2022-03-18 |  |
 | [Universal Gratitude \(Trio \- Live\)](https://open.spotify.com/track/6y9XVP0HsYr3SVtHmzbj1n) | [Mike Casey](https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2) | [Universal Gratitude \(Trio \- Live\)](https://open.spotify.com/album/16SnKeimPpAsiEbXKtKnOY) | 5:24 | 2023-04-28 |  |
-| [Variations of a Bloodline \- Live](https://open.spotify.com/track/2usSemKhVAcu6JUcM9UkTB) | [Brian Blade & The Fellowship Band](https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF) | [Variations of a Bloodline \(Live\)](https://open.spotify.com/album/3iD3tUauck969gRVKq4Bt5) | 13:42 | 2022-09-23 |  |
+| [Variations of a Bloodline \- Live](https://open.spotify.com/track/2CaSvJjrI52lwbbNwpmc9V) | [Brian Blade & The Fellowship Band](https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF) | [live from the archives \* BOOTLEG JUNE 15, 2000](https://open.spotify.com/album/2hCxogjHMvleKKenbxi9sP) | 13:42 | 2022-09-23 |  |
+| [Variations of a Bloodline \- Live](https://open.spotify.com/track/2usSemKhVAcu6JUcM9UkTB) | [Brian Blade & The Fellowship Band](https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF) | [Variations of a Bloodline \(Live\)](https://open.spotify.com/album/3iD3tUauck969gRVKq4Bt5) | 13:42 | 2022-09-23 | 2023-05-01 |
 | [Waltz For Debby \- Live At The Village Vanguard, New York / 1961 / Take 2](https://open.spotify.com/track/6EC51OfUhguCbNp5H5SdGm) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [At The Village Vanguard](https://open.spotify.com/album/6kaZAT1UBgjchdmNv9hUHj) | 6:49 | 2021-11-12 |  |
 | [Well, You Needn't \- Live \[It Club\]](https://open.spotify.com/track/7dqd672DHvOU9OF41vRxl1) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Thelonious Monk Live At The It Club \- Complete](https://open.spotify.com/album/7AEiZMDP0eB990c44G4zDT) | 9:16 | 2021-11-12 |  |
 | [What It Is \- Live at Theatre St\-Denis, Montreal, Canada \- July 7, 1983](https://open.spotify.com/track/19SAIkqkaDzQsaX1h0Jmam) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [That's What Happened 1982\-1985: The Bootleg Series, Vol\. 7](https://open.spotify.com/album/2mwZpszzkV5EzChG04oDWv) | 6:45 | 2022-07-08 | 2022-11-13 |

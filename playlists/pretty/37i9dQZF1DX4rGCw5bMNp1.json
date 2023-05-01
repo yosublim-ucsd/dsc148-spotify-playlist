@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 125649,
+  "num_followers": 125694,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDg1OTAzMGU4MGNkNmU1MmJhMmUxZmU2MGQ4MzAxYjdkOWZhNzVl",
+  "snapshot_id": "MCxlYWIwYzdlNDEzMDI5MGRiNGE1YmFhMjM5OWFkNGQ3MGFlOWRmMTMx",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -711,22 +711,6 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "When The Blues Hit You",
-        "url": "https://open.spotify.com/album/6rxjk3V22DyOH6nTNcd331"
-      },
-      "artists": [
-        {
-          "name": "Lester Davenport",
-          "url": "https://open.spotify.com/artist/5HAs3PXvcSdFY57ey4glmF"
-        }
-      ],
-      "duration_ms": 358200,
-      "name": "Slow Down Baby",
-      "url": "https://open.spotify.com/track/3hEqk9Uh4SBj0TZLcwxixB"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
         "name": "Ain't It Nice To Be Loved",
         "url": "https://open.spotify.com/album/4xw7nz7O6NK6NK04wkCRUN"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 515160,
       "name": "Bad Avenue",
       "url": "https://open.spotify.com/track/6QVQ98K8JrqHfImepOeQ6L"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "When The Blues Hit You",
+        "url": "https://open.spotify.com/album/6rxjk3V22DyOH6nTNcd331"
+      },
+      "artists": [
+        {
+          "name": "Lester Davenport",
+          "url": "https://open.spotify.com/artist/5HAs3PXvcSdFY57ey4glmF"
+        }
+      ],
+      "duration_ms": 358200,
+      "name": "Slow Down Baby",
+      "url": "https://open.spotify.com/track/3hEqk9Uh4SBj0TZLcwxixB"
     },
     {
       "added_at": "2016-03-21 20:31:35",

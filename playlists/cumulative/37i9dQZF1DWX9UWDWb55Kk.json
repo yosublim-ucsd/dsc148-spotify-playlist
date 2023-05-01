@@ -2674,10 +2674,28 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 214960,
       "name": "Greenarp",
       "url": "https://open.spotify.com/track/2uJY8CI8N0U8X5TDQq4XQE"
+    },
+    {
+      "album": {
+        "name": "Forest City",
+        "url": "https://open.spotify.com/album/1tEe3UAUaaqkGutB94Jsiw"
+      },
+      "artists": [
+        {
+          "name": "Maria Chiara Argir\u00f2",
+          "url": "https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214960,
+      "name": "Greenarp",
+      "url": "https://open.spotify.com/track/4sHTSXAklnVPGTDNOvunVL"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Robert Finley
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,403 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,447 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 50 | [Star](https://open.spotify.com/track/5s9JvslFpJGbApkKXi3MjU) | [Dana Fuchs](https://open.spotify.com/artist/1LOUhKsq65kzRCfV00GUcB) | [Borrowed Time](https://open.spotify.com/album/68ZhKv7M3s5NGqIsdVQfQC) | 5:28 |
 | 51 | [Livin' for the Ones](https://open.spotify.com/track/0OY3sKkXVVbp7foCuHPNZt) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Livin' for the Ones](https://open.spotify.com/album/3Flcwo2dVHmmmLc4NUdxR7) | 3:04 |
 | 52 | [Great Minds Drink Alike \- With Horns](https://open.spotify.com/track/0F68k79FGPe5Rc468GZmF9) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Great Minds Drink Alike \(With Horns\)](https://open.spotify.com/album/6pcpzddprnaCd9UfPN1vtt) | 3:57 |
-| 53 | [Healing Time](https://open.spotify.com/track/1TnboUz1hVeZvqubDBQcHM) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Unchange](https://open.spotify.com/album/0mIUChNWteeV1bIrROMlsH) | 4:35 |
+| 53 | [Healing Time](https://open.spotify.com/track/7rbR9lSAPRhAtXeQ7ovhzz) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Unchange](https://open.spotify.com/album/5n4rd614E0RVAuZNCtojLW) | 4:35 |
 | 54 | [Cornbread, Peas, Black Molasses](https://open.spotify.com/track/3nRr46yu7zDTd8ly3PZNXn) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [GET ON BOARD](https://open.spotify.com/album/3d5mOvPLoAggvWctC7L12Z) | 3:43 |
 | 55 | [Stagger Lee](https://open.spotify.com/track/64H0CzxFjc1Dz3F3E1oWi5) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Stagger Lee](https://open.spotify.com/album/66JuQbdaWi0wnFJtayoIW0) | 2:35 |
 | 56 | [Stranger](https://open.spotify.com/track/2GvrLxJHY2SKitGQueKcj2) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy), [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK), [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Brother Johnny](https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa) | 4:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [I'm No Angel Myself](https://open.spotify.com/track/1HENXx512ScE18AYoJm45r) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [One Way Out](https://open.spotify.com/album/19Qpt0zW5Rj8Z85T47YpUG) | 4:38 |
 | 100 | [Raisin' Kane](https://open.spotify.com/track/1OojhoKnIxYreWCblSWZ4R) | [Seth James](https://open.spotify.com/artist/6PB0R8akORJQtWUbL36aPg), [Lee Roy Parnell](https://open.spotify.com/artist/3bW6mQczkt1r8tnWIDeBVJ) | [Raisin' Kane](https://open.spotify.com/album/0KpC9zQSsxuNqiHXWhoWXA) | 2:58 |
 
-Snapshot ID: `MCw1YmMwYTkyNTQyMTZkNjFjYjZiNWQ4MDExNTA2Y2Q5Y2U1NzM4YWIx`
+Snapshot ID: `MCw3ODZhYmRmNGI2ZTNjOTczNGEyYmU2MzRlNWI3Yzg4ODZiOWQzMzJk`

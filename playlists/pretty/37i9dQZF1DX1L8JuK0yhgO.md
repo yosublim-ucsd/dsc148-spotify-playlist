@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,885 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,889 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [Blue Perfume](https://open.spotify.com/track/4HkvuFryiLoiMnfeFzlnHd) | [Swimming Sheep](https://open.spotify.com/artist/4lXsVyFTJxtA8LxnKzmDxz) | [Blue Perfume](https://open.spotify.com/album/58sAijyb7wYOwdGthhbWPr) | 1:57 |
 | 60 | [Muon](https://open.spotify.com/track/5ra2GAATGgbSlN0WPtIMeN) | [GuruConnect](https://open.spotify.com/artist/5RDnewAvgHZQ5gCf1h74kF) | [Muon](https://open.spotify.com/album/4IFFkSktE5uM5cpB0RRx6x) | 7:38 |
 
-Snapshot ID: `MCwwNTFlZWQ1NjViOTI4M2E3YWUxOThiYzAyODRkODc3NDlmNTkwNzY1`
+Snapshot ID: `MCw0MDA0YjRhNzBiNWFiMGU5MGNiOTliNzAxYmE3YjQxYWZiMzkyYjY0`

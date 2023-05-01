@@ -4,7 +4,7 @@
 
 > All new indie rock\. Featuring new music from Indigo De Souza.
 
-958 songs - 2 day 4 hr 8 min
+959 songs - 2 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -595,7 +595,8 @@
 | [My Friend Of Misery](https://open.spotify.com/track/4L18kYNkxFvnY0Z5TvUw3v) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [The Metallica Blacklist](https://open.spotify.com/album/7N32mF0BlA3BOhlSyCiHgf) | 3:30 | 2021-09-10 | 2022-04-14 |
 | [My Funny Girl](https://open.spotify.com/track/6snceZX3TN1slREbnO5w5q) | [Harry Teardrop](https://open.spotify.com/artist/3AIYyng1ByLhJC6TimwJJV) | [My Funny Girl](https://open.spotify.com/album/3mdamSaSakxmJCpaSin5pW) | 3:06 | 2021-07-19 | 2022-06-11 |
 | [My Very Best](https://open.spotify.com/track/5mKhfuj8pEPFDUwnStFHKN) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [My Very Best](https://open.spotify.com/album/7Iwsrk4q7oW0kYXWXwOpK6) | 3:17 | 2023-01-20 | 2023-04-01 |
-| [My Year \(This Is Going To Be\)](https://open.spotify.com/track/0kg6oQH6oFlw3qJTzSU4mE) | [12 RODS](https://open.spotify.com/artist/4aPT61obombRBkg2Fx69i2) | [My Year \(This Is Going To Be\)](https://open.spotify.com/album/0KzhJE2glINzrNpfRoXjcY) | 3:03 | 2023-04-21 |  |
+| [My Year \(This Is Going To Be\)](https://open.spotify.com/track/0kg6oQH6oFlw3qJTzSU4mE) | [12 RODS](https://open.spotify.com/artist/4aPT61obombRBkg2Fx69i2) | [My Year \(This Is Going To Be\)](https://open.spotify.com/album/0KzhJE2glINzrNpfRoXjcY) | 3:03 | 2023-04-21 | 2023-05-01 |
+| [My Year \(This Is Going To Be\)](https://open.spotify.com/track/7InbD5D74EaymYMIwzs4LL) | [12 RODS](https://open.spotify.com/artist/4aPT61obombRBkg2Fx69i2) | [My Year \(This Is Going To Be\)](https://open.spotify.com/album/3DnuVIeelvxu2wm0wei74W) | 3:03 | 2023-04-21 |  |
 | [Need You No More](https://open.spotify.com/track/52wTxB7XWwR0Ix6zT57PM0) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Need You No More](https://open.spotify.com/album/6R32sE46xgopHel6O69Hhm) | 3:18 | 2023-03-17 |  |
 | [Nervous System](https://open.spotify.com/track/1F4bLAgSwZkU5VEVSGyhzB) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Nervous System](https://open.spotify.com/album/2tqcwbNuovDs9h1wuQ5vTr) | 2:37 | 2023-01-27 | 2023-04-09 |
 | [Never Go](https://open.spotify.com/track/374rtbOx5NrgRFC9811Ghf) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [Hawaii](https://open.spotify.com/album/5IBX9xg8sHWHf3L5a3QvrE) | 2:36 | 2022-06-17 | 2022-09-03 |

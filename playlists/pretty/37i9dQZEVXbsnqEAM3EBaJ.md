@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 53 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 52 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,14 +52,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 | 42 | [Antes que el sol nos queme](https://open.spotify.com/track/5In0QvvpyuKt8FHVviuRre) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Antes que el sol nos queme](https://open.spotify.com/album/1s5MJq7KIQpR5z5clJ0ixU) | 4:15 |
 | 43 | [Big Shot City \- Makaya McCraven Interpolation](https://open.spotify.com/track/7DCiTmZKwIxILzlcu2nHA6) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B), [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Big Shot City \(Makaya McCraven Interpolation\)](https://open.spotify.com/album/1uib3EDOL75uSnMxzMHMBN) | 4:22 |
 | 44 | [Sherry Darling \- Live at Wembley Arena, London, UK \- June 5, 1981](https://open.spotify.com/track/4wkA7TQn8AtguuDgowgn18) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Live Series: Songs Of Character](https://open.spotify.com/album/5Do6bS6vnJqvAC9b3mJ1fi) | 4:54 |
-| 45 | [You Must Burn!](https://open.spotify.com/track/1ALXFmNr7lrTug2LAE989q) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 7:03 |
-| 46 | [Skeletons in the closet](https://open.spotify.com/track/0K5ZXbVEIHuSYUEDI63m63) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Lost](https://open.spotify.com/album/19iU0Zz3hNQwWCSjJaR5LI) | 3:03 |
-| 47 | [Capital F](https://open.spotify.com/track/1mrCZIWR3Up5R3G8rDFtjn) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Hope Of A Spark](https://open.spotify.com/album/5AAt0X7T9p81HEqIQUdzKp) | 2:34 |
-| 48 | [Erotic City](https://open.spotify.com/track/0e9aw5dEF7cgRPbnBlHsQ1) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs Prince](https://open.spotify.com/album/1ar4vW8uFoF3r9dJAQSpe6) | 3:05 |
-| 49 | [Goin' Home](https://open.spotify.com/track/0eir7payQFT0HAdGK88yBd) | [Overkill](https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe) | [Scorched](https://open.spotify.com/album/2JSQcvezbKguh7AVhvwLwu) | 4:31 |
-| 50 | [JUANA AZURDUY](https://open.spotify.com/track/2N29Cm2DxaupSnDcLkNzcP) | [JULIA PERESSON](https://open.spotify.com/artist/0dBupNNuTIhAYcQEwsSbhg), [CDI RECORDS S.A.](https://open.spotify.com/artist/6RYcrTuVVfidFKu0WKNc5k) | [Destellos Del Folklore](https://open.spotify.com/album/5R4Bzjf6rdaMJ0wWxyTB2p) | 4:35 |
-| 51 | [Holding out for a Hero \- Re\-Recorded \- Slowed + Reverb](https://open.spotify.com/track/3CNISSHPapR0YxwQePFAxM) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [Holding Out For A Hero \(Re\-Recorded \- Sped Up\)](https://open.spotify.com/album/0ZKcSy89HrjfjlUbKsjLlP) | 7:45 |
-| 52 | [Drum Solo \- Live From Mid\-Hudson Civic Arena, Poughkeepsie NY / 1984](https://open.spotify.com/track/7BZSorIzeorVRG78YDt3Fx) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS Off The Soundboard: Live In Poughkeepsie](https://open.spotify.com/album/5fy9u8pWFQtEO2Er9SSfcj) | 5:25 |
-| 53 | [It's Over \- Live in Toronto](https://open.spotify.com/track/3qVgP3ZyMpFQCynBxXWBAL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Misery Made Me \(Deluxe\)](https://open.spotify.com/album/3ENQtNYF2dLk3vwHP67oy0) | 3:44 |
+| 45 | [Skeletons in the closet](https://open.spotify.com/track/0K5ZXbVEIHuSYUEDI63m63) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Lost](https://open.spotify.com/album/19iU0Zz3hNQwWCSjJaR5LI) | 3:03 |
+| 46 | [Capital F](https://open.spotify.com/track/1mrCZIWR3Up5R3G8rDFtjn) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Hope Of A Spark](https://open.spotify.com/album/5AAt0X7T9p81HEqIQUdzKp) | 2:34 |
+| 47 | [Erotic City](https://open.spotify.com/track/0e9aw5dEF7cgRPbnBlHsQ1) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs Prince](https://open.spotify.com/album/1ar4vW8uFoF3r9dJAQSpe6) | 3:05 |
+| 48 | [Goin' Home](https://open.spotify.com/track/0eir7payQFT0HAdGK88yBd) | [Overkill](https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe) | [Scorched](https://open.spotify.com/album/2JSQcvezbKguh7AVhvwLwu) | 4:31 |
+| 49 | [JUANA AZURDUY](https://open.spotify.com/track/2N29Cm2DxaupSnDcLkNzcP) | [JULIA PERESSON](https://open.spotify.com/artist/0dBupNNuTIhAYcQEwsSbhg), [CDI RECORDS S.A.](https://open.spotify.com/artist/6RYcrTuVVfidFKu0WKNc5k) | [Destellos Del Folklore](https://open.spotify.com/album/5R4Bzjf6rdaMJ0wWxyTB2p) | 4:35 |
+| 50 | [Holding out for a Hero \- Re\-Recorded \- Slowed + Reverb](https://open.spotify.com/track/3CNISSHPapR0YxwQePFAxM) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [Holding Out For A Hero \(Re\-Recorded \- Sped Up\)](https://open.spotify.com/album/0ZKcSy89HrjfjlUbKsjLlP) | 7:45 |
+| 51 | [Drum Solo \- Live From Mid\-Hudson Civic Arena, Poughkeepsie NY / 1984](https://open.spotify.com/track/7BZSorIzeorVRG78YDt3Fx) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS Off The Soundboard: Live In Poughkeepsie](https://open.spotify.com/album/5fy9u8pWFQtEO2Er9SSfcj) | 5:25 |
+| 52 | [It's Over \- Live in Toronto](https://open.spotify.com/track/3qVgP3ZyMpFQCynBxXWBAL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Misery Made Me \(Deluxe\)](https://open.spotify.com/album/3ENQtNYF2dLk3vwHP67oy0) | 3:44 |
 
-Snapshot ID: `MjgwNDQyNDAsMDAwMDAwMDBiMzJmNDBiNmMzZjU5NGY2M2Y1MjUyNWQwYjgwMWRmMA==`
+Snapshot ID: `MjgwNDQyNDAsMDAwMDAwMDA4MTA5YWU5YjVjMmZhMWQwMDA4MDgyM2ZlODBhMTc2NA==`

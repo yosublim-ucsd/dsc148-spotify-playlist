@@ -13043,6 +13043,24 @@
     },
     {
       "album": {
+        "name": "Chase Ben$ the Album",
+        "url": "https://open.spotify.com/album/5Y3Ca22uj6CxzaifbnZzfS"
+      },
+      "artists": [
+        {
+          "name": "Chasinbens",
+          "url": "https://open.spotify.com/artist/75LtmmoqY9BqTg5N4ruouF"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324000,
+      "name": "Know You Miss Me",
+      "url": "https://open.spotify.com/track/3AhTANwPh05IairsIXltRi"
+    },
+    {
+      "album": {
         "name": "KU LO SA - A COLORS SHOW",
         "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
       },
@@ -15096,7 +15114,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 208000,
       "name": "Mazel Tron",
       "url": "https://open.spotify.com/track/5Ex5aIXLQimPjhiRUZjtre"

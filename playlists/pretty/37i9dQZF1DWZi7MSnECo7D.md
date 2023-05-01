@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: ÀIYÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,866 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,871 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 34 | [Sensível](https://open.spotify.com/track/186od6oy358cSNu00HrQp9) | [j4mpa](https://open.spotify.com/artist/6x1PjwopHU4qaamzJrAhAt) | [Sensível](https://open.spotify.com/album/6yf7vHJPUJe9R8HSvuZaQb) | 2:38 |
 | 35 | [Espaço](https://open.spotify.com/track/67KhBNkSVEYTK9cPCq3QT8) | [Truno](https://open.spotify.com/artist/7L3mzGXS63zp79NOHXwUqV), [Chediak](https://open.spotify.com/artist/0FALK05ICiGAQ1QZGkLnsK) | [Espaço](https://open.spotify.com/album/6Eqw1khsQ5TUcekYMqbuaR) | 1:57 |
 | 36 | [Coocoocrazy](https://open.spotify.com/track/4BliVo1uZWjMDu6iP1S4Gy) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C), [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Coocoocrazy](https://open.spotify.com/album/3rRVEwcZU3BTbu2X7AmEPp) | 2:06 |
-| 37 | [Barcelona](https://open.spotify.com/track/2pihPAjIPg5EnitYFKqbYc) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/6KVigOS9Me4Hu3o9hEh9M0) | 3:37 |
+| 37 | [Barcelona](https://open.spotify.com/track/78iFCNxDIc1oASCP7pZTSZ) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/20EcuWdIk2tTveltWZm1Pc) | 3:37 |
 | 38 | [Quando Eu Falei Pra Ela](https://open.spotify.com/track/2HJ60YDqbGDvM6HCTqtXrh) | [Dani Bessa](https://open.spotify.com/artist/28jQ1K0U4zoUORrM8aNr29) | [Quando Eu Falei Pra Ela](https://open.spotify.com/album/3l8DE3zqXombjgdlhvLFpY) | 3:03 |
 | 39 | [Pra Trás](https://open.spotify.com/track/6YMBLfjQilTvqdWpeUbySG) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/20EcuWdIk2tTveltWZm1Pc) | 3:11 |
 | 40 | [Essa Pessoa Esquisita](https://open.spotify.com/track/4RFxUmgvlVrXAjhrPGI89v) | [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH) | [Essa Pessoa Esquisita](https://open.spotify.com/album/5GgT8TquIycrVOjzSyC6yv) | 4:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 74 | [Manhã](https://open.spotify.com/track/7IRFP25YUzoVPWuw9mN9KN) | [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl) | [Manhã](https://open.spotify.com/album/3DMOTpo9bk0QInn7SJrdD8) | 4:02 |
 | 75 | [Vinheta do Amor](https://open.spotify.com/track/7kyqMS0fovEDsDAh9EPmtc) | [Andrea Martins](https://open.spotify.com/artist/60Qv0Cy0hpcfkHcYI13kxG), [Rana Tosto](https://open.spotify.com/artist/1dQSTjiVNpS0Jym4eR5oG8) | [Pequenos Grandes Universos](https://open.spotify.com/album/2y3nwaAILvIxnMzWviRjmG) | 2:39 |
 
-Snapshot ID: `MCxmMjhmOGUyZjY4ZWE3ZmJlMzE4ZDdhMzUxZDNiODA0YjJhNTM2ZGQ3`
+Snapshot ID: `MCw1ZWY1YTY1YjZjNDFkNTNlMDZhOGE2MzcwOTZlNGQ1OTE0OTI1YzYw`

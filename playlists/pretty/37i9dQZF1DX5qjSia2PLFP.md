@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 ### [Ripple Effect](https://open.spotify.com/playlist/37i9dQZF1DX5qjSia2PLFP)
 
-> New music breaking waves\. Cover, Luh Tyler
+> New music breaking waves\. Cover, Lola Brooke
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,619 likes - 64 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,639 likes - 64 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 2 | [Check](https://open.spotify.com/track/17LsSRsnpOJ5910GtSixaC) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Check](https://open.spotify.com/album/0oUW916No7iVMeYUYDENIk) | 2:42 |
 | 3 | [Weeks \(feat\. NoCap\)](https://open.spotify.com/track/5dRKpEQl3T67smpyWGD7D4) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Weeks \(feat\. NoCap\)](https://open.spotify.com/album/1ljMmc8zAt3Ls7AW9JrAO0) | 3:02 |
 | 4 | [MESSY](https://open.spotify.com/track/3TlSPN33s03Tg89wS5EauK) | [HVN](https://open.spotify.com/artist/61GrWHOtJOXpqQjibezT8i) | [MESSY](https://open.spotify.com/album/0Qdf4Ed05QWx8pMDMYRjnm) | 2:15 |
-| 5 | [Hallelujah](https://open.spotify.com/track/2Ngjdn5Y5MKv4dTa024SF7) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj), [Ryan Palma](https://open.spotify.com/artist/0ETu1snC8o5NZWmqxai370) | [Hallelujah](https://open.spotify.com/album/6mOTpOg5zP6ieYLe9LBJ00) | 2:20 |
+| 5 | [Hallelujah](https://open.spotify.com/track/2Ngjdn5Y5MKv4dTa024SF7) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [Hallelujah](https://open.spotify.com/album/6mOTpOg5zP6ieYLe9LBJ00) | 2:20 |
 | 6 | [Back In Office](https://open.spotify.com/track/5rrtDWbFizKTZ7GcsHYHh7) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No I.D.](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH) | [Back In Office](https://open.spotify.com/album/3ytxE6VpY5QAeqWQBeI4eg) | 2:53 |
 | 7 | [GM3](https://open.spotify.com/track/1I9W17vDK31ZHAcLGHe4sR) | [LIL LO](https://open.spotify.com/artist/17SUtl275ibg2bA3c31cVj) | [HALL OF FAME](https://open.spotify.com/album/57AdmZb2MkF4GQzD9jJqSb) | 2:28 |
 | 8 | [Oysters n' sparklin' water](https://open.spotify.com/track/4oNy9UwKYH13qf1Ze4q2oy) | [El Cousteau](https://open.spotify.com/artist/6jas9NK79dEF6hU1LvmfHB) | [Dirty Harry](https://open.spotify.com/album/3FjGs7LQyf5kq7JIKqWKxr) | 1:45 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 63 | [End of Discussion](https://open.spotify.com/track/6uiXDPUMlKQjsUOZVVco8g) | [T Clipse](https://open.spotify.com/artist/2VUOGUpWy8Ckg92h8EjBIW) | [End of Discussion](https://open.spotify.com/album/4Ggdjb8Ube0rnfJyaJC3US) | 1:25 |
 | 64 | [2daside](https://open.spotify.com/track/0B6gI2Eupg8MigELBFHVA8) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [2daside](https://open.spotify.com/album/6X2jYQCXoTvHFkrn2TIBfN) | 2:17 |
 
-Snapshot ID: `MCwxZGI0YjkwODllODU1MWRjNjFjNDFmYjE4ZDE3Y2QwOTk2OGFkMGQ2`
+Snapshot ID: `MCxjNDBlYWM2MmZlNTJhYjc0NTRmYjA4YTExYWQ4ZDIwYjIzNjU2Yjk2`

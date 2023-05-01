@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.",
-  "num_followers": 9370,
+  "num_followers": 9380,
   "original_name": "Krautrock Highway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjM3MmEyMjczMjEyNjMyMTVkYTYxY2E5MWM2YTdjZGM0YzdjZjQ1",
+  "snapshot_id": "MCw4YWMxMTc0OWI5ZWE1ZjRkZTE0ZGEzN2FjZjVkMTFhMzgyOTc4OTQ2",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -577,22 +577,6 @@
       "url": "https://open.spotify.com/track/6h2jvV3Gwg6onowB0366IB"
     },
     {
-      "added_at": "2023-03-23 21:21:38",
-      "album": {
-        "name": "L'\u00e9t\u00e9 suivant...",
-        "url": "https://open.spotify.com/album/1sKHdsjlXudKAI9TEOpnbM"
-      },
-      "artists": [
-        {
-          "name": "Limousine",
-          "url": "https://open.spotify.com/artist/28TS6lsqvm8EKRdBzMigTh"
-        }
-      ],
-      "duration_ms": 387200,
-      "name": "Autoroute",
-      "url": "https://open.spotify.com/track/4YJYDa5V3ewbQMwkR6Maja"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Empty Estate",
@@ -607,6 +591,22 @@
       "duration_ms": 205586,
       "name": "Ride",
       "url": "https://open.spotify.com/track/0NWdgbD2abX2AWfz44WL9T"
+    },
+    {
+      "added_at": "2023-03-23 21:21:38",
+      "album": {
+        "name": "L'\u00e9t\u00e9 suivant...",
+        "url": "https://open.spotify.com/album/1sKHdsjlXudKAI9TEOpnbM"
+      },
+      "artists": [
+        {
+          "name": "Limousine",
+          "url": "https://open.spotify.com/artist/28TS6lsqvm8EKRdBzMigTh"
+        }
+      ],
+      "duration_ms": 387200,
+      "name": "Autoroute",
+      "url": "https://open.spotify.com/track/4YJYDa5V3ewbQMwkR6Maja"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -791,6 +791,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv"
+      },
+      "artists": [
+        {
+          "name": "F\u00f6llakzoid",
+          "url": "https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL"
+        }
+      ],
+      "duration_ms": 434989,
+      "name": "Trees",
+      "url": "https://open.spotify.com/track/6RTPhBy716vfQKcfCOVi3I"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Phase Modulation Shuffle (Edit)",
         "url": "https://open.spotify.com/album/2W4XzDl8g1aXA3mgQ14GKF"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 478493,
       "name": "Sea Within a Sea",
       "url": "https://open.spotify.com/track/4PeCRnvmRc60UBEEHZuSQO"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv"
-      },
-      "artists": [
-        {
-          "name": "F\u00f6llakzoid",
-          "url": "https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL"
-        }
-      ],
-      "duration_ms": 434989,
-      "name": "Trees",
-      "url": "https://open.spotify.com/track/6RTPhBy716vfQKcfCOVi3I"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -999,6 +999,26 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Gnod Drop Out With White Hills II",
+        "url": "https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN"
+      },
+      "artists": [
+        {
+          "name": "White Hills",
+          "url": "https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX"
+        },
+        {
+          "name": "Gnod",
+          "url": "https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO"
+        }
+      ],
+      "duration_ms": 661120,
+      "name": "Drop Out",
+      "url": "https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 288575,
       "name": "Love Comes In Waves",
       "url": "https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Gnod Drop Out With White Hills II",
-        "url": "https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN"
-      },
-      "artists": [
-        {
-          "name": "White Hills",
-          "url": "https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX"
-        },
-        {
-          "name": "Gnod",
-          "url": "https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO"
-        }
-      ],
-      "duration_ms": 661120,
-      "name": "Drop Out",
-      "url": "https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh"
     },
     {
       "added_at": "2022-03-04 01:55:34",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Zuckerzeit",
+        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
+      },
+      "artists": [
+        {
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+        }
+      ],
+      "duration_ms": 141160,
+      "name": "Hei\u00dfe Lippen",
+      "url": "https://open.spotify.com/track/7gZZfNIWxgA8zs5YxVdiFe"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Stars Are the Light",
         "url": "https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 250029,
       "name": "Conductor 71",
       "url": "https://open.spotify.com/track/1dqjTVRISUGI2eKjgcndIz"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Zuckerzeit",
-        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
-      },
-      "artists": [
-        {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
-        }
-      ],
-      "duration_ms": 141160,
-      "name": "Hei\u00dfe Lippen",
-      "url": "https://open.spotify.com/track/7gZZfNIWxgA8zs5YxVdiFe"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
-        "url": "https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ"
-      },
-      "artists": [
-        {
-          "name": "Kosmischer L\u00e4ufer",
-          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
-        }
-      ],
-      "duration_ms": 386173,
-      "name": "Sandtrommel",
-      "url": "https://open.spotify.com/track/4IkU7Se7vWYxQPqPMday4O"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Haha Sound",
         "url": "https://open.spotify.com/album/7LhYW5INITQKexibfDCmtP"
       },
@@ -1379,18 +1363,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Transparent Things",
-        "url": "https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI"
+        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
+        "url": "https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ"
       },
       "artists": [
         {
-          "name": "Fujiya & Miyagi",
-          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
+          "name": "Kosmischer L\u00e4ufer",
+          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
         }
       ],
-      "duration_ms": 391002,
-      "name": "Cassettesingle",
-      "url": "https://open.spotify.com/track/66vwhVWctdciNG21GcOC3G"
+      "duration_ms": 386173,
+      "name": "Sandtrommel",
+      "url": "https://open.spotify.com/track/4IkU7Se7vWYxQPqPMday4O"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1407,6 +1391,22 @@
       "duration_ms": 247453,
       "name": "Submarine",
       "url": "https://open.spotify.com/track/46mHT32vVGfPDqvzb38YBR"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Transparent Things",
+        "url": "https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI"
+      },
+      "artists": [
+        {
+          "name": "Fujiya & Miyagi",
+          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
+        }
+      ],
+      "duration_ms": 391002,
+      "name": "Cassettesingle",
+      "url": "https://open.spotify.com/track/66vwhVWctdciNG21GcOC3G"
     },
     {
       "added_at": "2021-07-30 14:56:06",

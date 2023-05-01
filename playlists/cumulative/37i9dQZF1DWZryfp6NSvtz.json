@@ -30114,10 +30114,28 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 147373,
       "name": "Knucklen",
       "url": "https://open.spotify.com/track/0N7jjU4Bhqr2L2TYcOmTrg"
+    },
+    {
+      "album": {
+        "name": "Forgive the City",
+        "url": "https://open.spotify.com/album/5Cjg2NBzIxZqSpehkmPEH9"
+      },
+      "artists": [
+        {
+          "name": "Country Westerns",
+          "url": "https://open.spotify.com/artist/2OwWrhaP4RycOww0FursPt"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147373,
+      "name": "Knucklen'",
+      "url": "https://open.spotify.com/track/6gDl07mqToOH2vG1QN1dj9"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Eerie pieces created by waving hands around Leon Theremin's otherworldly instrument\. Cover: Clara Rockmore
 
-109 songs - 7 hr 14 min
+110 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Lacrimosa](https://open.spotify.com/track/6JOYu6rrJcSMcO4IIdplog) | [Armen Ra](https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A) | [Theremin Discmorphia](https://open.spotify.com/album/1ba187ocIN64czJt2OD5li) | 3:38 | 2021-08-17 |  |
 | [Les Berceaux, Op\. 23 No\. 1 \(Arr\. for Theremin and Piano\)](https://open.spotify.com/track/7w2mM8cQGXsMqVaRlrEs4J) | [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI), [Giulietta Koch](https://open.spotify.com/artist/4oPnpmC5oEb8v36lf4Didb) | [Theremin](https://open.spotify.com/album/4FNmgdPScMSs1jx6a64QxY) | 2:31 | 2021-08-17 |  |
 | [Liebesleid](https://open.spotify.com/track/0LlcUgeHmB8EwrAdETJOQm) | [Fritz Kreisler](https://open.spotify.com/artist/0HdNDZaNm7xLt18v9aWDfe), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Clara Rockmore's Lost Theremin Album](https://open.spotify.com/album/7FUnGjGbZPbAPAr5DhkalS) | 2:33 | 2021-08-17 | 2022-07-25 |
+| [Lost in the Stars](https://open.spotify.com/track/0bKcnwHpprzScz68vAHD5l) | [Paul Tanner](https://open.spotify.com/artist/6rTsgjKTEYrzpu7WWMXI23) | [Music for Heavenly Bodies](https://open.spotify.com/album/1as60mgNNvJR92gqJ3J3AG) | 2:23 | 2021-08-17 |  |
 | [Lost in the Stars](https://open.spotify.com/track/1aieHIIr4qHQ2Rfk7g9ITv) | [Paul Tanner](https://open.spotify.com/artist/6rTsgjKTEYrzpu7WWMXI23) | [Music for Heavenly Bodies](https://open.spotify.com/album/5ngZXMhfjJSzBb2VqJAQYE) | 2:23 | 2021-08-17 | 2023-04-29 |
 | [Luna Hiena](https://open.spotify.com/track/4h652ABDkLBsAzOolrJ6ke) | [Javier Díez Ena & His Theremins](https://open.spotify.com/artist/5TA6P5gISjtzFu3BXogfrM) | [Theremonial \(Dark & Exotic Theremin Music\)](https://open.spotify.com/album/6SCpra08I6g6Ahqof19Ck7) | 2:44 | 2021-08-17 | 2023-04-03 |
 | [Lunar Rhapsody](https://open.spotify.com/track/1bsxstU5DmtFcBxDfkyNbq) | [Dr\. Samuel J\. Hoffman](https://open.spotify.com/artist/4CcqyDWCT71rXYlV8lG0W2), [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR) | [Music Out Of The Moon: Music Unusual Featuring The Theremin](https://open.spotify.com/album/5GMWZbNXGJSWhFq8661HhO) | 3:05 | 2021-08-17 |  |
@@ -115,7 +116,7 @@
 | [Waikiki Spleen](https://open.spotify.com/track/79UG5zCh9xcADra04a1Oy0) | [Javier Díez Ena & His Theremins](https://open.spotify.com/artist/5TA6P5gISjtzFu3BXogfrM) | [Theremonial \(Dark & Exotic Theremin Music\)](https://open.spotify.com/album/6SCpra08I6g6Ahqof19Ck7) | 3:19 | 2021-08-17 | 2022-07-29 |
 | [Water Boy](https://open.spotify.com/track/4zyFu1LKi5Du2cj5FFONl2) | [Avery Robinson](https://open.spotify.com/artist/5RQDvjMgri1nMLF8tXZzTM), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Clara Rockmore's Lost Theremin Album](https://open.spotify.com/album/7FUnGjGbZPbAPAr5DhkalS) | 2:56 | 2021-08-17 | 2022-07-29 |
 | [Water Boy \(Arr\. for Theremin & Piano\)](https://open.spotify.com/track/4ILXJ89otmn3bE6FIrDaVA) | [Avery Robinson](https://open.spotify.com/artist/5RQDvjMgri1nMLF8tXZzTM), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Dvořák, Ravel, Gershwin & Others: Chamber Works](https://open.spotify.com/album/55bk8Fqpfpm0rrT5vjREwn) | 2:56 | 2021-08-17 |  |
-| [荒城の月](https://open.spotify.com/track/62iNNRWB0tpmE8O6RuMGqV) | [Masami Takeuchi](https://open.spotify.com/artist/7IwBB0pBWtf6xJrd1InDEq) | [Theremin Vox Collection Vol.1](https://open.spotify.com/album/7c94OMv4ypIwKaSL4DbLHu) | 3:02 | 2021-08-17 |  |
+| [荒城の月](https://open.spotify.com/track/62iNNRWB0tpmE8O6RuMGqV) | [Masami Takeuchi](https://open.spotify.com/artist/7IwBB0pBWtf6xJrd1InDEq) | [Theremin Vox Collection Vol.1](https://open.spotify.com/album/7c94OMv4ypIwKaSL4DbLHu) | 3:02 | 2021-08-17 | 2023-05-01 |
 | [荒城の月](https://open.spotify.com/track/7yv7sSJkCe7bRskVRBMLp7) | [Masami Takeuchi](https://open.spotify.com/artist/7IwBB0pBWtf6xJrd1InDEq) | [Theremin Vox Collection Vol.1](https://open.spotify.com/album/2QoD0FMDkeDa9XCfvAEDcT) | 3:02 | 2021-08-17 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

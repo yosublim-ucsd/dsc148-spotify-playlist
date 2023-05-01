@@ -4,7 +4,7 @@
 
 > Music from TV shows and films nominated for the 80th Golden Globe Awards\. Watch Jan 10, 2023 on NBC.
 
-32 songs - 1 hr 26 min
+33 songs - 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Stand By Your Man](https://open.spotify.com/track/7vwKEYNGO94DzmkRc5Oqwp) | [Jessica Chastain](https://open.spotify.com/artist/4NTQfilj8qEZ14xqtpF8KF), [Michael Shannon](https://open.spotify.com/artist/2OlqaV8zhR61Koqs94cC89) | [George & Tammy \(Original Series Soundtrack\)](https://open.spotify.com/album/3vGFVncIwTikRP8iloLpwT) | 2:45 | 2022-12-21 |  |
 | [Symphony No\. 5 in C Sharp Minor / Pt\. 1: I\. Trauermarsch & II\. Stürmisch bewegt \- Rehearsals](https://open.spotify.com/track/50Zfv1fSYcuTr9JeKV5OZ5) | [Gustav Mahler](https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz), [Cate Blanchett](https://open.spotify.com/artist/2Z2dkKKXtKsfFAQz1enCeJ), [Jan Wolf](https://open.spotify.com/artist/7FdzQYqYuqi6NhBNwXx3yY), [Dresdner Philharmonie](https://open.spotify.com/artist/03C9IJtseK0NX9zw53URjF) | [TÁR \(MUSIC FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/2Spn6mlJsZmgmjMCtJzOWK) | 3:19 | 2022-12-21 |  |
 | [Theme from Glass Onion](https://open.spotify.com/track/3ah2iIRAY7R3xbh1c8hKrW) | [Nathan Johnson](https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1) | [Glass Onion: A Knives Out Mystery \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5nuS5QjHS8xqhmRZvVNUus) | 1:53 | 2022-12-21 |  |
-| [Titles](https://open.spotify.com/track/4HFqmG18ztVvqqBG0jVu34) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Black Bird](https://open.spotify.com/album/3O5ig1AqlNK4SQYU3litHb) | 4:55 | 2022-12-21 |  |
+| [Titles](https://open.spotify.com/track/3nXtowNQOkWjIu1Ep2smUw) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Black Bird](https://open.spotify.com/album/3d5Y2qarMZlq0YyvLueE4I) | 4:55 | 2022-12-21 |  |
+| [Titles](https://open.spotify.com/track/4HFqmG18ztVvqqBG0jVu34) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Black Bird](https://open.spotify.com/album/3O5ig1AqlNK4SQYU3litHb) | 4:55 | 2022-12-21 | 2023-05-01 |
 | [Today We Launch](https://open.spotify.com/track/5IOfH50BVukvKUeIzQ7JWA) | [Anne Nikitin](https://open.spotify.com/artist/1ZA3IynpePtaBeajOMrFfr) | [The Dropout \(Original Score\)](https://open.spotify.com/album/35AnVuSAzHTf7saCHf9xrb) | 2:14 | 2022-12-21 |  |
 | [Trouble](https://open.spotify.com/track/1XF9P9QsH5D3rPHk1oIQd5) | [Austin Butler](https://open.spotify.com/artist/7fonh9s1Y6OjzCsh7pbYQm) | [ELVIS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74g0V2gxEA5MCSaivAwZyb) | 2:20 | 2022-12-21 |  |
 | [Vegas](https://open.spotify.com/track/3FWwi61OP7vXEikwqhZCPZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [ELVIS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74g0V2gxEA5MCSaivAwZyb) | 3:03 | 2022-12-21 |  |

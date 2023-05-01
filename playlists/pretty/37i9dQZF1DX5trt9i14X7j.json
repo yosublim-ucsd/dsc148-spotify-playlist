@@ -1,12 +1,12 @@
 {
   "description": "Dedicated to all the programmers out there.",
-  "num_followers": 338311,
+  "num_followers": 338447,
   "original_name": "Coding Mode  ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDEyNTc2YjI0Nzc2ZTJhNGExZDZmODA0ODQ0ZTk4YzUyZGRkZmZm",
+  "snapshot_id": "MCxiODAzYjgwZTNjZGUyY2JjMGJmYThkYTdiMGM1ZTNkMTMwYWJmNGY0",
   "tracks": [
     {
       "added_at": "2023-04-10 10:36:11",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "efflorescence",
-        "url": "https://open.spotify.com/album/5gTuNZ0GwWQLNH0YiwsDZr"
-      },
-      "artists": [
-        {
-          "name": "Far & Beyond",
-          "url": "https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if"
-        }
-      ],
-      "duration_ms": 143500,
-      "name": "efflorescence",
-      "url": "https://open.spotify.com/track/7qa14fkhxgOwWgJ2cbDTyc"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Selected Ambient Works 85-92",
         "url": "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 293751,
       "name": "Xtal",
       "url": "https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "efflorescence",
+        "url": "https://open.spotify.com/album/5gTuNZ0GwWQLNH0YiwsDZr"
+      },
+      "artists": [
+        {
+          "name": "Far & Beyond",
+          "url": "https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if"
+        }
+      ],
+      "duration_ms": 143500,
+      "name": "efflorescence",
+      "url": "https://open.spotify.com/track/7qa14fkhxgOwWgJ2cbDTyc"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Look At The Stars",
-        "url": "https://open.spotify.com/album/1zq2gcTCCKtXMsF9qg8xvR"
-      },
-      "artists": [
-        {
-          "name": "The Purple Stripe",
-          "url": "https://open.spotify.com/artist/4XIkeyeO2tENGL73fDZS1A"
-        }
-      ],
-      "duration_ms": 216315,
-      "name": "Look At The Stars",
-      "url": "https://open.spotify.com/track/4YhxXaf6Qrn5DrmgEfhwLH"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Flamagra",
         "url": "https://open.spotify.com/album/6tC2ERExm7n7JEDkHOEFs5"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 71520,
       "name": "FF4",
       "url": "https://open.spotify.com/track/39nSL4qbk0rsGNSVJb5TWK"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Look At The Stars",
+        "url": "https://open.spotify.com/album/1zq2gcTCCKtXMsF9qg8xvR"
+      },
+      "artists": [
+        {
+          "name": "The Purple Stripe",
+          "url": "https://open.spotify.com/artist/4XIkeyeO2tENGL73fDZS1A"
+        }
+      ],
+      "duration_ms": 216315,
+      "name": "Look At The Stars",
+      "url": "https://open.spotify.com/track/4YhxXaf6Qrn5DrmgEfhwLH"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Piety of Ashes",
-        "url": "https://open.spotify.com/album/6Nap8Im1EOFrqTVdoD8fAf"
-      },
-      "artists": [
-        {
-          "name": "The Flashbulb",
-          "url": "https://open.spotify.com/artist/6mMCSCuTbGU6kNr4303LwH"
-        }
-      ],
-      "duration_ms": 130720,
-      "name": "Precipice",
-      "url": "https://open.spotify.com/track/4CHIJuqR1jLfzA72THSzUm"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Everlonging",
         "url": "https://open.spotify.com/album/1DQviQUrW2Ek5Nas6q3mUw"
       },
@@ -615,18 +599,18 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Starlight Passage",
-        "url": "https://open.spotify.com/album/1wvSlnr8p5HfQMllaTDHQc"
+        "name": "Piety of Ashes",
+        "url": "https://open.spotify.com/album/6Nap8Im1EOFrqTVdoD8fAf"
       },
       "artists": [
         {
-          "name": "Starlight Passage",
-          "url": "https://open.spotify.com/artist/5tPdr8cTxT89zPEENTLWoh"
+          "name": "The Flashbulb",
+          "url": "https://open.spotify.com/artist/6mMCSCuTbGU6kNr4303LwH"
         }
       ],
-      "duration_ms": 148301,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/1N5zR5J3f3jQFKMY3cG0YO"
+      "duration_ms": 130720,
+      "name": "Precipice",
+      "url": "https://open.spotify.com/track/4CHIJuqR1jLfzA72THSzUm"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -643,6 +627,22 @@
       "duration_ms": 220630,
       "name": "Pastoral",
       "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Starlight Passage",
+        "url": "https://open.spotify.com/album/1wvSlnr8p5HfQMllaTDHQc"
+      },
+      "artists": [
+        {
+          "name": "Starlight Passage",
+          "url": "https://open.spotify.com/artist/5tPdr8cTxT89zPEENTLWoh"
+        }
+      ],
+      "duration_ms": 148301,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/1N5zR5J3f3jQFKMY3cG0YO"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -679,18 +679,18 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "everpresent",
-        "url": "https://open.spotify.com/album/1HVgsvqhD0LwqEDRy03Y7Q"
+        "name": "Kermesse",
+        "url": "https://open.spotify.com/album/2hPiyh9HOXEEr93AoO9kub"
       },
       "artists": [
         {
-          "name": "Imber Sun",
-          "url": "https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X"
+          "name": "Kermesse",
+          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
         }
       ],
-      "duration_ms": 155624,
-      "name": "everpresent",
-      "url": "https://open.spotify.com/track/6NnKLbuNprZyhHUUbu11HS"
+      "duration_ms": 347528,
+      "name": "Sunday Glide",
+      "url": "https://open.spotify.com/track/72Qac2FQd9e21XCibSOhfY"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
+        "name": "everpresent",
+        "url": "https://open.spotify.com/album/1HVgsvqhD0LwqEDRy03Y7Q"
+      },
+      "artists": [
+        {
+          "name": "Imber Sun",
+          "url": "https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X"
+        }
+      ],
+      "duration_ms": 155624,
+      "name": "everpresent",
+      "url": "https://open.spotify.com/track/6NnKLbuNprZyhHUUbu11HS"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
         "name": "Snowfields",
         "url": "https://open.spotify.com/album/2IdkBSoQpjPa5LUo46DDe5"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 168750,
       "name": "Snowfields",
       "url": "https://open.spotify.com/track/5l3iFPNLr9pWXeYOI7dDhs"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
-        "name": "Kermesse",
-        "url": "https://open.spotify.com/album/2hPiyh9HOXEEr93AoO9kub"
-      },
-      "artists": [
-        {
-          "name": "Kermesse",
-          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
-        }
-      ],
-      "duration_ms": 347528,
-      "name": "Sunday Glide",
-      "url": "https://open.spotify.com/track/72Qac2FQd9e21XCibSOhfY"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Further Than Far",
-        "url": "https://open.spotify.com/album/3tuUYA7y7reegwPAtAfdbX"
-      },
-      "artists": [
-        {
-          "name": "Shape Of Our Dreams",
-          "url": "https://open.spotify.com/artist/17QBpw01txiuRtneh0l1tc"
-        }
-      ],
-      "duration_ms": 168500,
-      "name": "Further Than Far",
-      "url": "https://open.spotify.com/track/6lDhQE5NehNR4pizUh8B8p"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Departure",
         "url": "https://open.spotify.com/album/63kvEHiTLB6bneB34fM9jJ"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 412631,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/1Alcws0xXs4eQDchjn3RGh"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Further Than Far",
+        "url": "https://open.spotify.com/album/3tuUYA7y7reegwPAtAfdbX"
+      },
+      "artists": [
+        {
+          "name": "Shape Of Our Dreams",
+          "url": "https://open.spotify.com/artist/17QBpw01txiuRtneh0l1tc"
+        }
+      ],
+      "duration_ms": 168500,
+      "name": "Further Than Far",
+      "url": "https://open.spotify.com/track/6lDhQE5NehNR4pizUh8B8p"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Annica",
-        "url": "https://open.spotify.com/album/2vhMintpHbPM31rf7gYBcW"
-      },
-      "artists": [
-        {
-          "name": "Harlan Silverman",
-          "url": "https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU"
-        }
-      ],
-      "duration_ms": 175250,
-      "name": "Annica",
-      "url": "https://open.spotify.com/track/7IuVGIs20WQmT5FLp49NLz"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Parallel",
         "url": "https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 343400,
       "name": "Parallel 7",
       "url": "https://open.spotify.com/track/3LqQJYUqxRFpX3tnvIsGGh"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Annica",
+        "url": "https://open.spotify.com/album/2vhMintpHbPM31rf7gYBcW"
+      },
+      "artists": [
+        {
+          "name": "Harlan Silverman",
+          "url": "https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU"
+        }
+      ],
+      "duration_ms": 175250,
+      "name": "Annica",
+      "url": "https://open.spotify.com/track/7IuVGIs20WQmT5FLp49NLz"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Symmetry Systems",
-        "url": "https://open.spotify.com/album/14T0dIBbXsZtDnaVO2JbEj"
-      },
-      "artists": [
-        {
-          "name": "36",
-          "url": "https://open.spotify.com/artist/1lcSbVHDXu6h6H6vIRDBhT"
-        }
-      ],
-      "duration_ms": 202427,
-      "name": "Symmetry Systems (Emerald)",
-      "url": "https://open.spotify.com/track/1vW8krAHupYxF1xRCfQnkD"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Dosages",
         "url": "https://open.spotify.com/album/2DZ9XsRcXUf5E1RBR2MXL0"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 195480,
       "name": "Loungerie",
       "url": "https://open.spotify.com/track/4abjt5hWugcmJucydd6eHL"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Symmetry Systems",
+        "url": "https://open.spotify.com/album/14T0dIBbXsZtDnaVO2JbEj"
+      },
+      "artists": [
+        {
+          "name": "36",
+          "url": "https://open.spotify.com/artist/1lcSbVHDXu6h6H6vIRDBhT"
+        }
+      ],
+      "duration_ms": 202427,
+      "name": "Symmetry Systems (Emerald)",
+      "url": "https://open.spotify.com/track/1vW8krAHupYxF1xRCfQnkD"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Closed for Renovations",
-        "url": "https://open.spotify.com/album/5AesdWGty4ye8UdrwBL4Jw"
-      },
-      "artists": [
-        {
-          "name": "Pool Boy",
-          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
-        },
-        {
-          "name": "Cyril Hahn",
-          "url": "https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2"
-        }
-      ],
-      "duration_ms": 163978,
-      "name": "Closed for Renovations",
-      "url": "https://open.spotify.com/track/3eHg10L5NVIz84J4oRTZRG"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Four",
         "url": "https://open.spotify.com/album/4oxvKHTBzfTD86BLU0ftou"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 172500,
       "name": "Scene 2",
       "url": "https://open.spotify.com/track/0MrHjYitcj2AM851dimyn3"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Closed for Renovations",
+        "url": "https://open.spotify.com/album/5AesdWGty4ye8UdrwBL4Jw"
+      },
+      "artists": [
+        {
+          "name": "Pool Boy",
+          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
+        },
+        {
+          "name": "Cyril Hahn",
+          "url": "https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2"
+        }
+      ],
+      "duration_ms": 163978,
+      "name": "Closed for Renovations",
+      "url": "https://open.spotify.com/track/3eHg10L5NVIz84J4oRTZRG"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Loom",
-        "url": "https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "We Contain Multitudes - from home",
-      "url": "https://open.spotify.com/track/2ich9n3I8MHo1AkC26bpqK"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Midnight Thoughts",
         "url": "https://open.spotify.com/album/6u1pNJvksMfMkHaZAVOL3a"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 161927,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/1UWlVOM5NZdkFZobaYeAv5"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Loom",
+        "url": "https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "We Contain Multitudes - from home",
+      "url": "https://open.spotify.com/track/2ich9n3I8MHo1AkC26bpqK"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Oasis Sky",
-        "url": "https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10"
-      },
-      "artists": [
-        {
-          "name": "Tor",
-          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
-        }
-      ],
-      "duration_ms": 281882,
-      "name": "Riverline",
-      "url": "https://open.spotify.com/track/4LgL0LKDAVGylgyab5hZWn"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "O R B I T",
         "url": "https://open.spotify.com/album/3eCwJk6D1j7ViqMItXa10G"
       },
@@ -1499,18 +1483,18 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Late Night Tales: Khruangbin",
-        "url": "https://open.spotify.com/album/6G9fIqCsV0qEiBsdwLOACy"
+        "name": "Oasis Sky",
+        "url": "https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10"
       },
       "artists": [
         {
-          "name": "Brilliantes Del Vuelo",
-          "url": "https://open.spotify.com/artist/1Ng076kHQlxAUjKL50VnxJ"
+          "name": "Tor",
+          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
         }
       ],
-      "duration_ms": 320337,
-      "name": "I Know That",
-      "url": "https://open.spotify.com/track/0XulKJA4eRQZBGx2dwV8jD"
+      "duration_ms": 281882,
+      "name": "Riverline",
+      "url": "https://open.spotify.com/track/4LgL0LKDAVGylgyab5hZWn"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1531,18 +1515,18 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "India",
-        "url": "https://open.spotify.com/album/7tWlk2K6jN6TaCxUTtkYFd"
+        "name": "Late Night Tales: Khruangbin",
+        "url": "https://open.spotify.com/album/6G9fIqCsV0qEiBsdwLOACy"
       },
       "artists": [
         {
-          "name": "EarthLife",
-          "url": "https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG"
+          "name": "Brilliantes Del Vuelo",
+          "url": "https://open.spotify.com/artist/1Ng076kHQlxAUjKL50VnxJ"
         }
       ],
-      "duration_ms": 535370,
-      "name": "India",
-      "url": "https://open.spotify.com/track/2SetYZYntcZBRG4PnKYej8"
+      "duration_ms": 320337,
+      "name": "I Know That",
+      "url": "https://open.spotify.com/track/0XulKJA4eRQZBGx2dwV8jD"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1559,6 +1543,22 @@
       "duration_ms": 321000,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/5hDxgd1QjOO2kz577FJYme"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "India",
+        "url": "https://open.spotify.com/album/7tWlk2K6jN6TaCxUTtkYFd"
+      },
+      "artists": [
+        {
+          "name": "EarthLife",
+          "url": "https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG"
+        }
+      ],
+      "duration_ms": 535370,
+      "name": "India",
+      "url": "https://open.spotify.com/track/2SetYZYntcZBRG4PnKYej8"
     },
     {
       "added_at": "2023-04-10 10:36:11",

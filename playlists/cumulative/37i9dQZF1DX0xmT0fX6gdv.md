@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4d8OiNWwKaA6MBPq0K06Xa">Mehmet Aslan</a>'s favorite tracks\. Updated regularly\. Curated by Mehmet Aslan\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-153 songs - 12 hr 47 min
+154 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Mystery Man](https://open.spotify.com/track/5uXzbEs7Ws957xdzO3py8I) | [Brainchild](https://open.spotify.com/artist/6YmVvko54tHOaE0lOL36L2), [Clive Stevens](https://open.spotify.com/artist/2nbGZY5iAVgneVcocbVCy8) | [Pan Global: Electro Lounge Vol\. 1](https://open.spotify.com/album/5F9tKLFgNN95WhDyDFYcpY) | 5:15 | 2022-12-23 |  |
 | [Mystic Jungle](https://open.spotify.com/track/7GWL6phrLDi24N5pCZKQ23) | [Jon Jones](https://open.spotify.com/artist/1IkLdLa2fQMnb0UJ4KfgTr) | [Airflow](https://open.spotify.com/album/5CK0J2pdkpZ3EyjM8ohIAw) | 8:04 | 2022-12-23 |  |
 | [Nasnusa](https://open.spotify.com/track/25VsX5GaM7gjWnbgjQXk7o) | [Sababa 5](https://open.spotify.com/artist/4MAzZqdLNuFniumG9Sbjiu), [Yurika Hanashima](https://open.spotify.com/artist/21MQvtynYHJvZ4kQSyCqPF) | [Tokyo Midnight](https://open.spotify.com/album/6KIxe5bukk08N2YkVKHhPI) | 5:11 | 2022-12-23 | 2023-03-11 |
-| [No Es Computable](https://open.spotify.com/track/6E5Zr8E3FTXppeEApnTr8e) | [Abaddon](https://open.spotify.com/artist/74yfTxb5doXjUcv0g1DaMi) | [Síntesis Moderna: An Alternative Vision Of Argentinean Music \(1980\-1990\)](https://open.spotify.com/album/5hZ16BeQ6WRI7sEMgKYCAd) | 3:25 | 2023-04-03 |  |
+| [No Es Computable](https://open.spotify.com/track/3eaeQot7kIqdlcEzarDl0r) | [Abaddon](https://open.spotify.com/artist/74yfTxb5doXjUcv0g1DaMi) | [Síntesis Moderna: An Alternative Vision Of Argentinean Music \(1980\-1990\)](https://open.spotify.com/album/5f9WO38oTqv0AP095uskb0) | 3:25 | 2023-04-03 |  |
+| [No Es Computable](https://open.spotify.com/track/6E5Zr8E3FTXppeEApnTr8e) | [Abaddon](https://open.spotify.com/artist/74yfTxb5doXjUcv0g1DaMi) | [Síntesis Moderna: An Alternative Vision Of Argentinean Music \(1980\-1990\)](https://open.spotify.com/album/5hZ16BeQ6WRI7sEMgKYCAd) | 3:25 | 2023-04-03 | 2023-05-01 |
 | [No Games \- Velvet Season & The Hearts Of Gold Remix](https://open.spotify.com/track/1hwaTWz08JjsHxdW1fmXrM) | [Pinky Perzelle](https://open.spotify.com/artist/2X3XHSlgOu8dFTMASezh3V), [Eda Eren](https://open.spotify.com/artist/0Dcf25hADP87VNkGkSMRQ4), [Velvet Season & The Hearts Of Gold](https://open.spotify.com/artist/3FGHcFjfPop5Pbe9WQH4hr) | [No Games \(Velvet Season & The Hearts Of Gold Remix\)](https://open.spotify.com/album/0i5e7JW4zMYGNiKFZPZtah) | 8:05 | 2022-12-23 |  |
 | [Not the News](https://open.spotify.com/track/3ejjAD15KNXGwRG1lQMFPI) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [ANIMA](https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm) | 3:57 | 2022-12-23 |  |
 | [O Tekes](https://open.spotify.com/track/5N8t1HfrzMQuTSpy6RqYpu) | [Tzimis Panousis](https://open.spotify.com/artist/0e6zgQKSNEPp2cArggmCOG), [Mousikes Taxiarhies](https://open.spotify.com/artist/1wFGpgSlKe2ujQKUlu0B9g) | [Mousikes Taxiarhies](https://open.spotify.com/album/0adexrw0XQ4oSTJueVOXuf) | 4:13 | 2022-12-23 |  |

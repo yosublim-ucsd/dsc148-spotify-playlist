@@ -4,7 +4,7 @@
 
 > Take yourself to Havana with some Cuban Salsa and Café favourites.
 
-117 songs - 7 hr 56 min
+118 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,8 +92,9 @@
 | [Pan Con Timba](https://open.spotify.com/track/2BHobvp2ZHnOuMG5ic42Mg) | [Bebo Valdes](https://open.spotify.com/artist/0qgJqqqTwN1fuQGs4Ik0jj), [Paquito D'Rivera](https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8) | [Esencia Cubana "La Primera Ola"](https://open.spotify.com/album/6sWNDuLNRAZuXyfOI19WpY) | 6:57 | 2022-08-05 | 2022-11-13 |
 | [Pan con Timba](https://open.spotify.com/track/4Epw5PN8lebFqJ6dZRrl5n) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj) | [Legends of Cuba](https://open.spotify.com/album/2IhAVuungiNKo5sJ0F8iIS) | 6:56 | 2021-12-10 | 2022-07-29 |
 | [Pan Con Timba](https://open.spotify.com/track/0nIfkTlMH5qf678L8Wt6fL) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Diego Urcola](https://open.spotify.com/artist/3yscB4e5TBjZUHd2uKdgER), [Gabriel Machado](https://open.spotify.com/artist/2J7goEbBXDL1HRAiRNRPmf), [Paquito D'Rivera](https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8), [Joe Santiago](https://open.spotify.com/artist/4cOMDu6QjKkq3zR9CdoBDZ), [Gerardo Rosales](https://open.spotify.com/artist/6zctyrh9ul3yET0oxqTjSQ), [Amadito Valdés](https://open.spotify.com/artist/29zs3dt9hJeHPzw0M4Pi4D), [Carlos Emilio Morales](https://open.spotify.com/artist/5OFgM1ftxwoTMZYJeyPvO3), [Juan Pablo Torres](https://open.spotify.com/artist/4q2WyV1AFlurLshyRM3azI), [Carlos Valdes](https://open.spotify.com/artist/4Ya1zqEk4JbCoyZBgUMNKI) | [Bebo Rides Again](https://open.spotify.com/album/0k4NZSAhdnjrsoJOB0gwLN) | 7:00 | 2022-03-30 |  |
+| [Patuleco](https://open.spotify.com/track/09bGYFnMVZRh0ilaVUiYio) | [Orquesta Sonora Curro](https://open.spotify.com/artist/1s3glHhVbcSfPu5EjyrVrN) | [Cartagena! Curro Fuentes & The Big Band Cumbia and Descarga Sound of Colombia 1962\-72](https://open.spotify.com/album/0UbcmD65kthpuyIIYajOYY) | 2:48 | 2022-08-05 |  |
 | [Patuleco](https://open.spotify.com/track/4md41dtwxkVA57ILpKfOEn) | [Orquesta Sonora Curro](https://open.spotify.com/artist/1s3glHhVbcSfPu5EjyrVrN) | [Cartagena! Curro Fuentes & The Big Band Cumbia and Descarga Sound Of Colombia 1962 \- 72 \(Soundway Records\)](https://open.spotify.com/album/3xklLOSuR5dM2SwlLGyHIU) | 2:48 | 2021-12-23 | 2022-07-29 |
-| [Patuleco](https://open.spotify.com/track/5YUSA1PVNYDiSz2XuD53RQ) | [Orquesta Sonora Curro](https://open.spotify.com/artist/1s3glHhVbcSfPu5EjyrVrN) | [Cartagena! Curro Fuentes & The Big Band Cumbia and Descarga Sound of Colombia 1962\-72](https://open.spotify.com/album/2f2jyRaOT92BCf49yjyRbz) | 2:48 | 2022-03-30 |  |
+| [Patuleco](https://open.spotify.com/track/5YUSA1PVNYDiSz2XuD53RQ) | [Orquesta Sonora Curro](https://open.spotify.com/artist/1s3glHhVbcSfPu5EjyrVrN) | [Cartagena! Curro Fuentes & The Big Band Cumbia and Descarga Sound of Colombia 1962\-72](https://open.spotify.com/album/2f2jyRaOT92BCf49yjyRbz) | 2:48 | 2022-03-30 | 2023-05-01 |
 | [Pedacito de cielo](https://open.spotify.com/track/1C86PVpk5idxXMZguaAIaF) | [Buenos Aires Tango Trio](https://open.spotify.com/artist/1d9y4HTvix06VscldAQANr) | [Famous Tangos](https://open.spotify.com/album/2gBy9Gnnzm04KjetvCQHYM) | 3:01 | 2022-03-30 |  |
 | [Que Manera de Quererte](https://open.spotify.com/track/4XxJuOP5dLqcdDpj5lxa2v) | [Cimarron](https://open.spotify.com/artist/0f8XTso7KWxzUuTHk1pMXc) | [Discover Music from Latin America](https://open.spotify.com/album/7vJUAz0tqkJQHTuyBUU1Me) | 5:04 | 2021-12-10 | 2022-07-29 |
 | [Que manera de quererte](https://open.spotify.com/track/6ZUoOdl1enEmiLtTdWcM4w) | [Grupo Cimarron De Cuba](https://open.spotify.com/artist/43Nf9Fu11OoPHkbZFfGMCE) | [The Most Popular Songs from Cuba](https://open.spotify.com/album/4C3zYZy8KynpglX602ev5l) | 5:04 | 2022-03-30 |  |

@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 209626,
       "name": "Asleep in the Desert - Instrumental",
       "url": "https://open.spotify.com/track/0ukb39j9T97cToQVbxnn9a"
@@ -938,6 +938,24 @@
       "duration_ms": 245533,
       "name": "Pearl Necklace",
       "url": "https://open.spotify.com/track/4anJfhuQLpdg637D6wt0cL"
+    },
+    {
+      "album": {
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242866,
+      "name": "Planet of Women",
+      "url": "https://open.spotify.com/track/6VdlbIPdzJYj35Tq05vsH5"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [EQUAL Arabia ](https://open.spotify.com/playlist/37i9dQZF1DXbgtqUuhUMh3)
 
-> Listen to Arab women, at full volume\. Cover: Oumaima Taleb
+> Listen to Arab women, at full volume\. Cover: Carmen Soliman
 
 434 songs - 1 day 1 hr 21 min
 
@@ -143,10 +143,10 @@
 | [Ghalta](https://open.spotify.com/track/6zIXv7ielLKUY5dNI1lqCl) | [Areej Al Sayed](https://open.spotify.com/artist/2CwLASpkyh9txI9Z6NvCsU) | [Ghalta](https://open.spotify.com/album/0RD988uyh03VVuMCJD1b22) | 3:12 | 2021-12-23 | 2022-02-27 |
 | [Ghyabe Wagaak](https://open.spotify.com/track/1XePTZCLsOggdc8ABNl81J) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ghyabe Wagaak](https://open.spotify.com/album/72Lvo8ez65pAReNdGyCPkv) | 4:06 | 2022-11-15 | 2022-11-22 |
 | [Goulou Amine](https://open.spotify.com/track/2DM4pswuIVG3qFuayz6R5a) | [Asmaa Bassite](https://open.spotify.com/artist/3M26ulb3cwk9qglRwt9SEa) | [Goulou Amine](https://open.spotify.com/album/5D2y2JGnRHybPkvll0ShbF) | 4:04 | 2021-12-23 | 2022-03-02 |
-| [Hadouta](https://open.spotify.com/track/5thHVbvP2rjqp6OjEj7vYh) | [Maritta Hallani](https://open.spotify.com/artist/6m7sil7DZpW1PDsVfkAOMP) | [Hadouta](https://open.spotify.com/album/2kGYSWJdmsp0yN5hvCcEgK) | 2:19 | 2023-04-20 |  |
+| [Hadouta](https://open.spotify.com/track/5thHVbvP2rjqp6OjEj7vYh) | [Maritta Hallani](https://open.spotify.com/artist/6m7sil7DZpW1PDsVfkAOMP) | [Hadouta](https://open.spotify.com/album/2kGYSWJdmsp0yN5hvCcEgK) | 2:19 | 2023-04-20 | 2023-05-01 |
 | [Hadrat El Walhan](https://open.spotify.com/track/0NFYjeH5IavHNEqJkciJR6) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Hadrat El Walhan](https://open.spotify.com/album/4KlOIXdhTKjuExCP6bTn6m) | 4:05 | 2022-11-15 | 2023-04-11 |
 | [Haga Naasany](https://open.spotify.com/track/7tkZdE2LLr0Fj9a01pDoLE) | [Gohary](https://open.spotify.com/artist/0YGskdvcglrOoyXsGbixRn) | [Haga Naasany](https://open.spotify.com/album/0Aq7E0AuGJDU9d5CHnkURs) | 4:12 | 2022-11-19 | 2023-04-11 |
-| [Haja Ma Doum](https://open.spotify.com/track/3vLf49XKLyz3wFJ5Sktlpw) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2) | [Kingdom](https://open.spotify.com/album/0DcQg5HubaTSsobHuirf9f) | 3:32 | 2023-04-10 | 2023-04-25 |
+| [Haja Ma Doum](https://open.spotify.com/track/3vLf49XKLyz3wFJ5Sktlpw) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2) | [Kingdom](https://open.spotify.com/album/0DcQg5HubaTSsobHuirf9f) | 3:32 | 2023-04-10 |  |
 | [Haja Ma Doum](https://open.spotify.com/track/5mLY8dRJv0jLTTJCJmDu1l) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2) | [Kingdom](https://open.spotify.com/album/3bAluFVvSuKNmPkmaR6xhd) | 3:32 | 2022-08-11 | 2022-11-12 |
 | [Hala Taraa](https://open.spotify.com/track/6GX6qOGlZEXmUYkGyoTkMb) | [Shaimaa El Maghraby](https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9) | [Hala Taraa](https://open.spotify.com/album/7q1RxHFLDWNJ6hpUKbkie4) | 3:31 | 2021-12-23 | 2022-02-28 |
 | [Halo](https://open.spotify.com/track/0mQUJSauS5hrMJuoTGqmGe) | [Neveen Ragab](https://open.spotify.com/artist/2Jm92HVUNKUHiVytpozUvT) | [Halo](https://open.spotify.com/album/3GgcE4HqgTP4IDaNJ08z1j) | 3:43 | 2023-03-23 |  |
@@ -219,7 +219,7 @@
 | [Ma Atanazil](https://open.spotify.com/track/6hRDeaV2tPMJAA3HQn7Uj1) | [Ghazal](https://open.spotify.com/artist/6MxJn5JiIGuAlX9NkdGpha) | [Ma Atanazil](https://open.spotify.com/album/4JALsyUVAmTa72NQTAPTOe) | 3:06 | 2021-12-23 | 2022-03-02 |
 | [Ma Bakhaf](https://open.spotify.com/track/2N6MGx1CRx78o9LG7pAjdS) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [Hodoudy El Sama](https://open.spotify.com/album/6KQqCpl7h42T79RHGUk2sd) | 4:13 | 2022-03-01 | 2022-11-14 |
 | [Ma vie en rose](https://open.spotify.com/track/715kOmrDKM2vM0szYl2Ba4) | [Manel Hadli](https://open.spotify.com/artist/0ufVFLvhVnwyqlGvXbAYkQ) | [Ma vie en rose](https://open.spotify.com/album/3F67qcdbqrbnefD0aFt7sa) | 4:32 | 2021-12-23 | 2022-03-01 |
-| [Ma Zanby](https://open.spotify.com/track/16ZG658xrFLSmytpoIpcxQ) | [Nour Khan](https://open.spotify.com/artist/2xI0X8RCZHFCbtBlNJsZzs), [Abdalla Elabd](https://open.spotify.com/artist/5kBbOnDngfzNLJW1vJYPeb) | [Ma Zanby](https://open.spotify.com/album/41K4I4b3n9r99IYArCfHKl) | 3:10 | 2023-04-10 |  |
+| [Ma Zanby](https://open.spotify.com/track/16ZG658xrFLSmytpoIpcxQ) | [Nour Khan](https://open.spotify.com/artist/2xI0X8RCZHFCbtBlNJsZzs), [Abdalla Elabd](https://open.spotify.com/artist/5kBbOnDngfzNLJW1vJYPeb) | [Ma Zanby](https://open.spotify.com/album/41K4I4b3n9r99IYArCfHKl) | 3:10 | 2023-04-10 | 2023-05-01 |
 | [Ma3dom Al Dhameer](https://open.spotify.com/track/2nTmtPHfJcFuFFjU8NcJJd) | [Nariman](https://open.spotify.com/artist/7B6nJXzAjVkaKntLCzbbY7) | [Ma3dom Al Dhameer](https://open.spotify.com/album/0QzDNALddIffDN9BDT1KnG) | 4:27 | 2021-12-23 | 2022-03-01 |
 | [Mabahebesh El Ghaltan](https://open.spotify.com/track/5Lbb8c16dD8HLfUUKPAFut) | [Aya Khafaga](https://open.spotify.com/artist/0gj21C6dPraExVvV4Rgjm7) | [Mabahebesh El Ghaltan](https://open.spotify.com/album/7BOM9qCENfVAOO7uiyjObX) | 4:00 | 2021-12-23 | 2022-03-01 |
 | [Maey Solef](https://open.spotify.com/track/2w9rtSDzKPD2ONLCG6f39o) | [Nariman](https://open.spotify.com/artist/4PGqbi1DtCzG4itqf4UcSh) | [Maey Solef](https://open.spotify.com/album/129Uvupg3zkSumY6XQuoLv) | 5:47 | 2021-12-23 | 2022-03-02 |
@@ -335,7 +335,7 @@
 | [Ya Ana](https://open.spotify.com/track/7iXbIIEeBJLI89HDrn9V0s) | [Banah](https://open.spotify.com/artist/4zOyNEn2WrQKUEL92y7Rxf) | [Ya Ana](https://open.spotify.com/album/5S7WCHWsqQUdHzH9nKzTzN) | 2:52 | 2023-01-19 | 2023-02-04 |
 | [Ya Awali](https://open.spotify.com/track/5tFGdOqUADXctbmxqDXGXK) | [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [Ya Awali](https://open.spotify.com/album/0UlIrbaOwgNnis6eJ9boTY) | 3:56 | 2021-12-23 | 2022-03-02 |
 | [Ya Bakhty Beh](https://open.spotify.com/track/1CEYTW1P2mKpZgxouGDw8f) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [Ya Bakhty Beh](https://open.spotify.com/album/0tFBtGwjlCel82hP0xN1hy) | 3:15 | 2022-11-15 |  |
-| [Ya Gamalak](https://open.spotify.com/track/50sZsJhllImZwUIDGq8Dzs) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Ya Gamalak](https://open.spotify.com/album/5v8jq0RRWoPf2bMGQiXAiv) | 3:29 | 2023-03-07 | 2023-04-11 |
+| [Ya Gamalak](https://open.spotify.com/track/50sZsJhllImZwUIDGq8Dzs) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Ya Gamalak](https://open.spotify.com/album/5v8jq0RRWoPf2bMGQiXAiv) | 3:29 | 2023-03-07 |  |
 | [Ya Hala](https://open.spotify.com/track/4u7De1AMztuLzjVwZFdcXr) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ya Hala](https://open.spotify.com/album/1sHmK0R4eKbi56B3B0ejw8) | 5:04 | 2022-05-03 | 2023-03-03 |
 | [Ya Sayedi](https://open.spotify.com/track/0DOwOVgbKokXj36OWKzgiH) | [Oumaima Taleb](https://open.spotify.com/artist/40Op8SEXDhPBzJmyDfL9G3) | [Ya Sayedi](https://open.spotify.com/album/6l2LoN6YaYDoz3SRFhmUwP) | 4:24 | 2021-12-30 | 2022-03-01 |
 | [Ya Yema](https://open.spotify.com/track/0yhfnQQXbiBPAfPHGRBLfM) | [Bouchra Elm](https://open.spotify.com/artist/2JeWGigve92LrpLG6UfEwd) | [Ya Yema](https://open.spotify.com/album/6ncyf9iCc3h3gvtPmvmPbd) | 2:28 | 2022-03-03 |  |

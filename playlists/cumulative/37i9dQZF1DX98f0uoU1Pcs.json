@@ -856,10 +856,28 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 263973,
       "name": "Brass Bell",
       "url": "https://open.spotify.com/track/0vNu5t0o0R57Xy1e10d5zI"
+    },
+    {
+      "album": {
+        "name": "Desire Pathway",
+        "url": "https://open.spotify.com/album/4ijKOsVWOcCxMK2Xt2gvLx"
+      },
+      "artists": [
+        {
+          "name": "Screaming Females",
+          "url": "https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263973,
+      "name": "Brass Bell",
+      "url": "https://open.spotify.com/track/2P1kSwV2hQFxf6jjsOwsMj"
     },
     {
       "album": {
@@ -3138,6 +3156,28 @@
     {
       "album": {
         "name": "Head On",
+        "url": "https://open.spotify.com/album/1hutXgs3QsDoxhOMdt9Dqz"
+      },
+      "artists": [
+        {
+          "name": "Ducks Ltd.",
+          "url": "https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG"
+        },
+        {
+          "name": "illuminati hotties",
+          "url": "https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158065,
+      "name": "Head On",
+      "url": "https://open.spotify.com/track/3hYtruhCU9MPvbajhjvzw6"
+    },
+    {
+      "album": {
+        "name": "Head On",
         "url": "https://open.spotify.com/album/4spRalyH6f1l2kRMxUbU19"
       },
       "artists": [
@@ -3152,7 +3192,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 158065,
       "name": "Head On",
       "url": "https://open.spotify.com/track/42vq2Ww3BMk7HE8iL6yWF4"

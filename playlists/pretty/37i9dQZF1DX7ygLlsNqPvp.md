@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 
 > The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ?si=\_yq64HH\-R5uDFrPq3m3jsg"> Gyakie</a>  and  <a href="https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq?si=\_gT\-LkngTamHWqTBycfODQ"> JBee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,627 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,657 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 49 | [Sore \- Remix](https://open.spotify.com/track/3qqpV4EqQ3TPSYPHOom3I6) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Sore \(Remix\)](https://open.spotify.com/album/3duGoq617U2FfeRi7U1Nkc) | 4:26 |
 | 50 | [Brodo](https://open.spotify.com/track/2GHzh4jGjrLb0WYLqpixCd) | [Kev the Topic](https://open.spotify.com/artist/4MahedKXMQXH2Dt0nKyN8s), [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [Brodo](https://open.spotify.com/album/5vP5InTqdYiCA3i2LORLJ3) | 3:35 |
 
-Snapshot ID: `MCxiN2JhZDU1YTMzOWYzYjFjOGY4NGQxMmM2ZmRhNTFhZjY2MDk1OTFk`
+Snapshot ID: `MCxiNjBjYWZlZjY3MzFiZGVmNmVhOWJlZTRhOWNlYmY5YzAxODljM2E1`

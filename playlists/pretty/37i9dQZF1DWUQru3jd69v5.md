@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Kid Yugi in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,331 likes - 55 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,350 likes - 55 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Quarto di Bue](https://open.spotify.com/track/2EE4ytQ5LpuyIjDircmLzQ) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [Quarto di Bue](https://open.spotify.com/album/2cYiDWSENKod8Ht0C13Bya) | 1:46 |
 | 2 | [WAO](https://open.spotify.com/track/24mzKw9LcwPNUMHSFAarvJ) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [WAO](https://open.spotify.com/album/6nMTRVyMQdql9a5Afk1lOD) | 2:29 |
 | 3 | [EYES OF THE TIGER](https://open.spotify.com/track/1OWN1K4Yb1Sd8g4xDnQg7R) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [EYES OF THE TIGER](https://open.spotify.com/album/5R6eqKWeUb9Suxt6CP6yR1) | 2:46 |
-| 4 | [Diario del Bando 2](https://open.spotify.com/track/3stZIWWtwMg8JxBgT12YMP) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1) | [Diario del Bando 2](https://open.spotify.com/album/5MTUG1xRqcYHxuxHrS8Yr8) | 2:43 |
+| 4 | [Diario del Bando 2](https://open.spotify.com/track/3stZIWWtwMg8JxBgT12YMP) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Diario del Bando 2](https://open.spotify.com/album/5MTUG1xRqcYHxuxHrS8Yr8) | 2:43 |
 | 5 | [Players Club '23 \(Knights of the Posse\) \(feat\. Nerissima Serpe, Artie 5ive, Tony Boy, Papa V, Low Red, Digital Astro & Kid Yugi\)](https://open.spotify.com/track/2tlHNbWsOphjepsOTyv55Y) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Players Club '23 \(Knights of the Posse\) \(feat\. Nerissima Serpe, Artie 5ive, Tony Boy, Papa V, Low Red, Digital Astro & Kid Yugi\)](https://open.spotify.com/album/1Df8xOZdbcPDUdOPsTrEVC) | 5:58 |
 | 6 | [ALBV](https://open.spotify.com/track/11CLbFT3tm8UTU2b0XNd79) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [ALBV](https://open.spotify.com/album/7CIlHDEtln2cbqATa3uRoF) | 2:39 |
 | 7 | [Alo](https://open.spotify.com/track/1weSmVevss3ls6dngOZx27) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW), [Hani](https://open.spotify.com/artist/4kuGWktJ7E7vy1Ttz5QNv4) | [Alo](https://open.spotify.com/album/4gO4c8KUOUnmT9JKmNNr0v) | 3:04 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 54 | [Esperienze Nuove](https://open.spotify.com/track/1LR432zhaAgcgpqdozne3O) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Esperienze Nuove](https://open.spotify.com/album/4tmfSfLFpuOf6iCIH8K1zE) | 3:03 |
 | 55 | [Pronto](https://open.spotify.com/track/34KXZcVcIaivELMEGQgk9M) | [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L) | [Pronto](https://open.spotify.com/album/3WaCFgHj2H2dWIlzvbTb47) | 1:55 |
 
-Snapshot ID: `MCw3ZmU1ZjEwMDJhMGFiNzA3MGFlOWUzOGU5Nzc0MTFjMTQ3NzczNmFl`
+Snapshot ID: `MCwwMzA1NjUwNDc0MzUwZGVjZTdiMjljODU0ZDZlZGRkZTY5MzljZDk0`

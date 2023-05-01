@@ -2422,7 +2422,7 @@
       ],
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 617588,
       "name": "Ruby Waves - Live, 4/20/19",
       "url": "https://open.spotify.com/track/3bNNZWjyWtN1MURGYMHOFd"
@@ -3518,6 +3518,24 @@
       "duration_ms": 377626,
       "name": "Typical Situation - Live at Whittemore Center Arena, Durham, NH, 02.19.96",
       "url": "https://open.spotify.com/track/68UuRHI7HeiZl8DJMRlQ0W"
+    },
+    {
+      "album": {
+        "name": "Free Somehow",
+        "url": "https://open.spotify.com/album/3NTvjstNCuHeeFXkOM8wyw"
+      },
+      "artists": [
+        {
+          "name": "Widespread Panic",
+          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226466,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/3F78T25BJK5VVQN77Rg6Dh"
     },
     {
       "album": {

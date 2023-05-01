@@ -2176,7 +2176,7 @@
     {
       "album": {
         "name": "Die Young",
-        "url": "https://open.spotify.com/album/3TRqSZyvWgGlxi08PolBk1"
+        "url": "https://open.spotify.com/album/2FyZYXJoYsdHy6AN9iqfGs"
       },
       "artists": [
         {
@@ -2187,6 +2187,24 @@
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 126641,
+      "name": "~",
+      "url": "https://open.spotify.com/track/0QWf3gtoyp5FwaKh43nMBf"
+    },
+    {
+      "album": {
+        "name": "Die Young",
+        "url": "https://open.spotify.com/album/3TRqSZyvWgGlxi08PolBk1"
+      },
+      "artists": [
+        {
+          "name": "Happy Trendy",
+          "url": "https://open.spotify.com/artist/00YWLzRZ0M94JxM8j3ptjZ"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-01",
       "duration_ms": 126641,
       "name": "~",
       "url": "https://open.spotify.com/track/1y1K06GfEtjeK18Xb0JeCm"

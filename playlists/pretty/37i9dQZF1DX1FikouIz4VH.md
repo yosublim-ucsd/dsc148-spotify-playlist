@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1FikouIz4VH.md) - [plain]
 
 > Hear all of TAEYANG's biggest and best hits in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,506 likes - 68 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,626 likes - 68 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Seed](https://open.spotify.com/track/49eleLPCqnwgBSICKgcL0z) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 4:15 |
 | 2 | [Shoong! \(feat\. LISA of BLACKPINK\)](https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 3:25 |
-| 3 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 2:55 |
+| 3 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 2:55 |
 | 4 | [Reason](https://open.spotify.com/track/3olqy6cgUoqV4zjLEeBXSl) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 3:22 |
 | 5 | [Inspiration \(feat\. Beenzino\)](https://open.spotify.com/track/5hAtmSB8KlmU81ljSupSjF) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 3:32 |
 | 6 | [Nightfall \(feat\. Bryan Chase\)](https://open.spotify.com/track/0C04G6ZM8y2VlHEM1B1aKV) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [BRYAN CHA$E](https://open.spotify.com/artist/21pdFXVgEujpnjqKDCy6BL) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 3:45 |
-| 7 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 2:55 |
+| 7 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 2:55 |
 | 8 | [LOUDER](https://open.spotify.com/track/3TCzay1FkjSewTeiRSQGOk) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [LOUDER](https://open.spotify.com/album/3AoUsbJUwk14bt7PLGXf45) | 3:40 |
 | 9 | [WHITE NIGHT](https://open.spotify.com/track/3yq48eRG04UryOATzpwr4V) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [WHITE NIGHT](https://open.spotify.com/album/4AE3KNhHuzlTURK6c77eaR) | 1:25 |
 | 10 | [WAKE ME UP](https://open.spotify.com/track/49w8umYnAfSPulksfEDx16) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [WHITE NIGHT](https://open.spotify.com/album/4AE3KNhHuzlTURK6c77eaR) | 3:19 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1FikouIz4VH.md) - [plain]
 | 67 | [Fall in Love](https://open.spotify.com/track/04HoJpRNBQ98naXqeroSHB) | [Thelma Aoyama](https://open.spotify.com/artist/1AU9Y5Y2Taxe4yh7AI6JRD), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [UP BEAT](https://open.spotify.com/album/6juujVdPaWjy066P9ZOXvJ) | 4:15 |
 | 68 | [조금만 사랑할걸](https://open.spotify.com/track/0KXhQG6HryZn4QBay5Rfd6) | [Johan Kim](https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Soul Family with Johan](https://open.spotify.com/album/5y7fjiyU5WlRuwTI8nAEkJ) | 4:33 |
 
-Snapshot ID: `MCwwNjVkNjY5YmYyNDg4M2EyNDMxM2Q0MTYxMjY3NzZjMzdlNTlmZjdl`
+Snapshot ID: `MCxjYTI4NzdkYjcwMTRhNTBlNzUwYjNiNDFkNGRmOTViZTk4MTI4N2Rj`

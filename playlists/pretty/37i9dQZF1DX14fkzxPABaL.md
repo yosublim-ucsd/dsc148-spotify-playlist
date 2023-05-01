@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 
 > La música que te acompaña en el amor\. Foto: Maria Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,307 likes - 101 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,481 likes - 101 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 | 100 | [Refugio](https://open.spotify.com/track/5iGcOpA2ZVzmpi5gqjHQEA) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Refugio](https://open.spotify.com/album/0USsWJfpUn9FLFTy4TaImn) | 3:13 |
 | 101 | [24/7 \- Acústico](https://open.spotify.com/track/0qf57jvmIzs9Bam4f3b4t0) | [León Cordero](https://open.spotify.com/artist/6qVPuVTRw9e4lqnAttpTBh) | [24/7 \(Acústico\)](https://open.spotify.com/album/0F4ycnrXgLpBeXW3rHDaUR) | 2:08 |
 
-Snapshot ID: `MCwxZWM4Njc3NGRiYzI4NGM3OGZjNjk2NzM2MDc2MTMxYjMzYWVlNTZh`
+Snapshot ID: `MCwwNmZkOTExZTEyZjM0YTI3NjI5OTYxMzMxOTZjYjUyNDZlNGY0YTA4`

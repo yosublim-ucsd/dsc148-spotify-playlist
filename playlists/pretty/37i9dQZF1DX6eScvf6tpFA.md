@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 
 > <a href="spotify:artist:7o2Y6TQr9B0ynZGhUDAkyj">Lotic</a>'s favorite tracks\. Updated regularly\. Curated by Lotic\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,373 likes - 81 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,381 likes - 81 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 | 59 | [Cool](https://open.spotify.com/track/7GsKO7ufjgkIybjpQAKg1N) | [Sirr TMO](https://open.spotify.com/artist/7wMCA0Cx8O1adCSiTV1IMY) | [Cool](https://open.spotify.com/album/76rnaiB7jwjigFyYKg9JsD) | 5:40 |
 | 60 | [Blunts and Bundles](https://open.spotify.com/track/35wrsvqzK2ea5mRBPUyQ70) | [Kandie](https://open.spotify.com/artist/1zdpVkIbw7FFefBvQgqcKc) | [Blunts & Bundles](https://open.spotify.com/album/1ss0DIZBCcUuvlDA7E9lpg) | 2:59 |
 | 61 | [Come Together](https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Come Together](https://open.spotify.com/album/1FA0rfTpK5dost6Zk4pxjC) | 3:13 |
-| 62 | [Must Have Been Good](https://open.spotify.com/track/1tSp478eOOnV76JpnaETag) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Eyeline](https://open.spotify.com/album/0wiBZdQc7wQA1s6oOZmlNx) | 3:30 |
+| 62 | [Must Have Been Good](https://open.spotify.com/track/0TmdUleVkt3Bq9Pv1uYzw5) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Eyeline](https://open.spotify.com/album/6ijq6xImHU0pCW8Ea9kFL7) | 3:30 |
 | 63 | [STFU](https://open.spotify.com/track/2LdyEquG8v8ByBCkYzVoiq) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nightmare Vacation](https://open.spotify.com/album/0jJEiaA2W9eFhTXC1EGMqG) | 2:16 |
 | 64 | [Trinity Dance](https://open.spotify.com/track/0mF6wxdF1c683tC6eQMSgW) | [Tokyo Vanity](https://open.spotify.com/artist/3tyNfmlL7wNE6zaVmTWmRZ) | [P\-Valley: Season 1 \(Music From the Original TV Series\)](https://open.spotify.com/album/1eJXocm0r51Iwyhzeg2eBU) | 2:21 |
 | 65 | [SLIME](https://open.spotify.com/track/5alFLxnNmBmTdNM6Oq0nqD) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SLIME](https://open.spotify.com/album/1VCGsWYP7dY5fLXUrEPG6L) | 2:39 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 | 80 | [Régime des Fleurs](https://open.spotify.com/track/16xWwjg8p3T9n1aAptjIRp) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [Régime des Fleurs](https://open.spotify.com/album/7cIyUAuwTnbQEvTIy5Nsju) | 2:50 |
 | 81 | [The Richest Garden in your Memory](https://open.spotify.com/track/1NnmRSDbEyJmeC7gufEOiw) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey...](https://open.spotify.com/album/6pMGKI2cCAyGxJJz1a8z3M) | 2:57 |
 
-Snapshot ID: `MCxkZDA0NGQ5MDQ3NTlmNzZiZWEwODI2MjFkMDJhYjk1NGUyNDBmNjli`
+Snapshot ID: `MCxiMThhYTFlZTg0MmYyY2RmOWIxOTU4MDVjZmQzOWU2Mzk3MmJkYjY4`

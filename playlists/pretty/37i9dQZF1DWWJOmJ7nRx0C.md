@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Beartooth
 
-[Spotify](https://open.spotify.com/user/spotify) - 905,490 likes - 151 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 905,668 likes - 151 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 150 | [Blow \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/3YqJ7QhsNbmluU3qzbd3ns) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Love, Drugs & Misery](https://open.spotify.com/album/0P49eFNrsqjfnz4txLvFe6) | 2:45 |
 | 151 | [One More Day](https://open.spotify.com/track/4x9A6Ymy2u6FfoE4ba4iP3) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Darkbloom](https://open.spotify.com/album/15q7078X1sRf9ivhEnv1tm) | 4:28 |
 
-Snapshot ID: `MCw3OGFhYjE4N2NlNGIyZDE5MjMxNzc2NDE3NjBkMjhkYWQ1NjYwNWY1`
+Snapshot ID: `MCxhNTA2OGMwOGUzZTNiNDdjZThmNWVmMmEyM2M0MzJjZmJiMzY2ZTE3`

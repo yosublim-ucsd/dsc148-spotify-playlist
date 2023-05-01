@@ -21,4 +21,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CGcax0KY23.md) - [plain]
 | 11 | [Glow \- Extended Mix \- Mixed](https://open.spotify.com/track/3mioQYZP7xYhjiqxj1CYtW) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Glow \- Extended Mix \(Mixed\)](https://open.spotify.com/album/6UocKFV5KluHAeMmuaBzPZ) | 5:38 |
 | 12 | [White Room \- Mixed](https://open.spotify.com/track/7zTSRY6T6OzYjfIL0eMgWK) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [White Room \(Mixed\)](https://open.spotify.com/album/6M5wTINxUICzU7fgoRjd7P) | 3:06 |
 
-Snapshot ID: `MCw3YTc2NDBiYzAyYThmMDEyNDFjN2NlOGNiY2NiOTAxYjNlNjMzYzdi`
+Snapshot ID: `MCwxMGQxNjc5ZjdjZWE1MzhkOGRmODUwMGVlOWY2MmQzMWIwM2QyZjlm`

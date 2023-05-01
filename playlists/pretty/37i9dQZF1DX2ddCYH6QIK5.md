@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: LIN, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,890 likes - 80 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,898 likes - 80 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 19 | [her name](https://open.spotify.com/track/3YT7sk2Q1jL03lKS4Vidjo) | [Janek Hru](https://open.spotify.com/artist/7iLcpwTA6Q4Tq7eKg8qS3D) | [her name](https://open.spotify.com/album/5AVL6HPOgx7inEORmetMXP) | 2:47 |
 | 20 | [Storyteller](https://open.spotify.com/track/2hWkEkHNeR1xCTbNKYWX6D) | [Solatic](https://open.spotify.com/artist/61Lu3t06G6EPp61PovXqfm) | [Storyteller](https://open.spotify.com/album/3A2GoNrK3bQVtZTtFFq3OY) | 7:05 |
 | 21 | [Sakamoto](https://open.spotify.com/track/5NddYTqn8nDxfgxpH2eS3s) | [Die Anteile](https://open.spotify.com/artist/7yFn4E4Lun7lW0hwOr7n0M) | [Sakamoto](https://open.spotify.com/album/7rRfYJuuIh1bGY9wEl62LZ) | 3:19 |
-| 22 | [Smile](https://open.spotify.com/track/17EHQsJKw0njET2FH4toSc) | [Lioba](https://open.spotify.com/artist/7LYIJJdSauMBT4bkGEcldy) | [Smile](https://open.spotify.com/album/56dqVzAD6hUdCKCzouo303) | 3:15 |
+| 22 | [Smile](https://open.spotify.com/track/5WtqZvo6FpwsslVE9MdrU8) | [Lioba](https://open.spotify.com/artist/7LYIJJdSauMBT4bkGEcldy) | [Smile](https://open.spotify.com/album/5mdWtokpOmeaBfofTMWqBS) | 3:15 |
 | 23 | [Nunc](https://open.spotify.com/track/3VXiFyqU64Vi1On5GQo5CG) | [Koltbach](https://open.spotify.com/artist/7Gh2MFtYW3bviFGoult3NI) | [Nunc](https://open.spotify.com/album/4pSe5hlkdmJvaDCeJdMWCv) | 5:25 |
 | 24 | [High Again](https://open.spotify.com/track/6suMLfjKlzmYgPb5SiV0Rs) | [Coucou Babe](https://open.spotify.com/artist/64oYZ9wab5dkE4IrGVwPz0) | [High Again](https://open.spotify.com/album/4eLCLiwRIQGAqMUk1VRafi) | 3:29 |
 | 25 | [Augen](https://open.spotify.com/track/0igeCyTuzvZJff1u4qQwaZ) | [MC WINDHUND](https://open.spotify.com/artist/57MYoG73ZnyZPIpZbTXFUb) | [Augen](https://open.spotify.com/album/5ds5fRyioB7wD6CmdXxtKJ) | 2:30 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Hide And Seek](https://open.spotify.com/track/3O7p4Q0e63OjkpD4dU7sjp) | [DIMILA](https://open.spotify.com/artist/1X7kdGnTbsIDXSDMYYpXI7) | [Hide And Seek](https://open.spotify.com/album/1KHPuMuMIVVXtJalNjkaVi) | 3:17 |
 | 80 | [Hide And Seek](https://open.spotify.com/track/3dmroJ1MVOD4JzVOzf1oxe) | [Josh Byrd](https://open.spotify.com/artist/03xvSzcyf45LgRL1j7ldBJ) | [Hide And Seek](https://open.spotify.com/album/0N20M3CmqLdf1ohsDJriWn) | 3:28 |
 
-Snapshot ID: `MCxkMGQwNzk2NDljNDg2MGUzMTYyNGVhYjhlNDgyMTRjNjM3MTdkZDNj`
+Snapshot ID: `MCw2NmMyY2FkOTA2MWI2ZmE1YWNmNWI4OWRkYjc5ZjNlYjg5ZGU5MWFi`

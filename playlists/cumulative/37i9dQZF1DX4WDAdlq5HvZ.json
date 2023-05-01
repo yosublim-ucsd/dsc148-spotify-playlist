@@ -876,7 +876,7 @@
     {
       "album": {
         "name": "MAMA",
-        "url": "https://open.spotify.com/album/0xWnUiv6ey8AlX2Q4HgRfH"
+        "url": "https://open.spotify.com/album/3Hxs5fNLOWJBMfBbIfaOpE"
       },
       "artists": [
         {
@@ -887,6 +887,24 @@
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 253923,
+      "name": "MAMA",
+      "url": "https://open.spotify.com/track/00Zvm8IilIwqYi44SLincr"
+    },
+    {
+      "album": {
+        "name": "MAMA",
+        "url": "https://open.spotify.com/album/0xWnUiv6ey8AlX2Q4HgRfH"
+      },
+      "artists": [
+        {
+          "name": "Royce Lovett",
+          "url": "https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-01",
       "duration_ms": 253923,
       "name": "MAMA",
       "url": "https://open.spotify.com/track/6AFOYvjA9cJMzta9PZK0eK"

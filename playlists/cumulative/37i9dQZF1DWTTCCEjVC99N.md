@@ -4,12 +4,13 @@
 
 > Get ready for some serious 00s nostalgia\. Cover : Nancy Ajram
 
-144 songs - 11 hr 9 min
+145 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2om O2af](https://open.spotify.com/track/5SuVVlmqKBUaDL0qXAg7Zl) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Oum O'aaf](https://open.spotify.com/album/559Bg8BFhH0ZMWT5Y9q6mh) | 3:26 | 2021-12-06 | 2022-07-29 |
-| [A'zza A'laya](https://open.spotify.com/track/1e15xzSboc0oEYGxTxrUbc) | [Aline Khalaf](https://open.spotify.com/artist/0oclrFAehAHKcSC41QFabO) | [Best Of Aline Khalaf](https://open.spotify.com/album/5WqSrDBuoz8rpmrjLC0Kdv) | 4:58 | 2023-04-11 |  |
+| [A'zza A'laya](https://open.spotify.com/track/1e15xzSboc0oEYGxTxrUbc) | [Aline Khalaf](https://open.spotify.com/artist/0oclrFAehAHKcSC41QFabO) | [Best Of Aline Khalaf](https://open.spotify.com/album/5WqSrDBuoz8rpmrjLC0Kdv) | 4:58 | 2023-04-11 | 2023-05-01 |
+| [A'zza A'laya](https://open.spotify.com/track/4jrLYiZBJUZYpE6LUUPMSW) | [Aline Khalaf](https://open.spotify.com/artist/0oclrFAehAHKcSC41QFabO) | [أجمل أغاني ألين خلف](https://open.spotify.com/album/2glmQtgMrLTO4X7PPkJsJ0) | 4:58 | 2023-04-28 |  |
 | [Aam Tethalli](https://open.spotify.com/track/1FhAPKzBgtD2kMot4QfAwl) | [Darine Hadchiti](https://open.spotify.com/artist/3IkEauhflcvpap7UUoXeR2) | [Irtahlak Albi](https://open.spotify.com/album/3yh6BypH1FpcPVpajxbb9Z) | 4:17 | 2023-04-11 |  |
 | [Aayshalak](https://open.spotify.com/track/6wE5bUgyErJTzGBqqbjdGo) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Aayshalak](https://open.spotify.com/album/4iitDZmbi4tg9iCyUVkXY4) | 4:40 | 2021-12-06 |  |
 | [Aghla El Habayeb](https://open.spotify.com/track/1T8BJvWzqm59RIuwQaTob8) | [Nawal Al Zoghbi](https://open.spotify.com/artist/1KqJqf6cDp26AtuXFqrJaK) | [Yama Alo](https://open.spotify.com/album/1MQzDTbIXGBCl0hDS7B0nr) | 4:40 | 2021-12-06 | 2023-04-20 |

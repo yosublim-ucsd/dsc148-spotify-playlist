@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 146837,
+  "num_followers": 146987,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODI4NjcyMmRmYzZhZjljMjMwMDEzMTQxOTNiOTE2YzA0ZGVhZmZj",
+  "snapshot_id": "MCw0OGUzMWZjYmJmNjcxMGU3YTFmYjc1MmRhNTY2MWNhNTYyZWIxMDdj",
   "tracks": [
     {
       "added_at": "2022-11-25 16:56:36",
@@ -679,26 +679,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Sint Maarten",
-        "url": "https://open.spotify.com/album/1ScGb9mg9NXKEOWTMSkD7O"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Delaram Kamareh",
-          "url": "https://open.spotify.com/artist/6gfSQcJIullatXKeWpZ7jB"
-        }
-      ],
-      "duration_ms": 271351,
-      "name": "Sint Maarten",
-      "url": "https://open.spotify.com/track/00tIiOoqhX2RM5WTtKm9Ep"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "L'owe L'owe",
         "url": "https://open.spotify.com/album/6sIfcPlPmIZDFytI1m0qGG"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 449149,
       "name": "L'ow\u00e8 L'ow\u00e8",
       "url": "https://open.spotify.com/track/2kvJDwV4Mfm2ItUUMmkzSx"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Sint Maarten",
+        "url": "https://open.spotify.com/album/1ScGb9mg9NXKEOWTMSkD7O"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Delaram Kamareh",
+          "url": "https://open.spotify.com/artist/6gfSQcJIullatXKeWpZ7jB"
+        }
+      ],
+      "duration_ms": 271351,
+      "name": "Sint Maarten",
+      "url": "https://open.spotify.com/track/00tIiOoqhX2RM5WTtKm9Ep"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Face The Sun",
-        "url": "https://open.spotify.com/album/7AY9Y7FUFNwFVQYxVn2h9B"
-      },
-      "artists": [
-        {
-          "name": "Yeadon",
-          "url": "https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn"
-        }
-      ],
-      "duration_ms": 439437,
-      "name": "Face The Sun",
-      "url": "https://open.spotify.com/track/5HexTiFznk9l0KMEJq54AI"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Proud",
         "url": "https://open.spotify.com/album/0xyI5ztV0OXUVgZHxLUkzH"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 236101,
       "name": "Proud",
       "url": "https://open.spotify.com/track/57fgc1wsUpAj0BfTHncOaT"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Face The Sun",
+        "url": "https://open.spotify.com/album/7AY9Y7FUFNwFVQYxVn2h9B"
+      },
+      "artists": [
+        {
+          "name": "Yeadon",
+          "url": "https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn"
+        }
+      ],
+      "duration_ms": 439437,
+      "name": "Face The Sun",
+      "url": "https://open.spotify.com/track/5HexTiFznk9l0KMEJq54AI"
     }
   ],
   "unique_name": "Melodic & Euphoric",

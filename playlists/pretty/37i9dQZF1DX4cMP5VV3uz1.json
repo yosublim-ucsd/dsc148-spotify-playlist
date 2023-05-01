@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 122039,
+  "num_followers": 122147,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGI3MGY1OGI1MjcyMTM4NjVlYmE2Y2E2MzAxMmEzMTBkM2FhMzMy",
+  "snapshot_id": "MCxjY2QxOTI0MTRjZGEyMDU1OWVmYWM2YWZhYjI0ZTU2MWFiMWUwNjUx",
   "tracks": [
     {
       "added_at": "2023-04-13 23:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Forbidden Feelingz",
-        "url": "https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 166356,
-      "name": "Forbidden Feelingz",
-      "url": "https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Full Wack No Brakes",
         "url": "https://open.spotify.com/album/52tuSUlxOAQWoRs6AOvCFm"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 197076,
       "name": "450",
       "url": "https://open.spotify.com/track/1F0ww25lOcWtwTsco1vYWM"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Forbidden Feelingz",
+        "url": "https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 166356,
+      "name": "Forbidden Feelingz",
+      "url": "https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -895,26 +895,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Party All the Time",
-        "url": "https://open.spotify.com/album/5Xj5DoUGdbYTuGSHPVZRcn"
-      },
-      "artists": [
-        {
-          "name": "Darkzy",
-          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
-        },
-        {
-          "name": "Kay",
-          "url": "https://open.spotify.com/artist/4pqUHuQppkm95uNa2VDpMT"
-        }
-      ],
-      "duration_ms": 266929,
-      "name": "Party All the Time",
-      "url": "https://open.spotify.com/track/64b0SqjZpoCb74swNsK4Ea"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "None Of Us Are Getting Out Of This Life Alive",
         "url": "https://open.spotify.com/album/4hEKRyUeVXejefnsvKYERB"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 186824,
       "name": "Take Me As I Am",
       "url": "https://open.spotify.com/track/5UjccMIJkNhont0TGSU0iD"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Party All the Time",
+        "url": "https://open.spotify.com/album/5Xj5DoUGdbYTuGSHPVZRcn"
+      },
+      "artists": [
+        {
+          "name": "Darkzy",
+          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+        },
+        {
+          "name": "Kay",
+          "url": "https://open.spotify.com/artist/4pqUHuQppkm95uNa2VDpMT"
+        }
+      ],
+      "duration_ms": 266929,
+      "name": "Party All the Time",
+      "url": "https://open.spotify.com/track/64b0SqjZpoCb74swNsK4Ea"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "Playing Games",
+        "url": "https://open.spotify.com/album/4S3JaFhxQHmgzN0uu7JUVL"
+      },
+      "artists": [
+        {
+          "name": "Silky",
+          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Playing Games",
+      "url": "https://open.spotify.com/track/7E4bsEMTezUdZY2zPGGUb6"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "Feel So Free Mixtape",
         "url": "https://open.spotify.com/album/4dHbS7oUzTsbkc0SPRhTWB"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 219687,
       "name": "It's Just This Thing",
       "url": "https://open.spotify.com/track/1PzMiuvUMQRKfxxNsPAjZR"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Playing Games",
-        "url": "https://open.spotify.com/album/4S3JaFhxQHmgzN0uu7JUVL"
-      },
-      "artists": [
-        {
-          "name": "Silky",
-          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Playing Games",
-      "url": "https://open.spotify.com/track/7E4bsEMTezUdZY2zPGGUb6"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1459,22 +1459,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Remedies",
-        "url": "https://open.spotify.com/album/2WUzn7UJ7mdiu7hAYQWMYh"
+        "name": "SWAZZ",
+        "url": "https://open.spotify.com/album/5bWev71fkloo3FzHYlrDRQ"
       },
       "artists": [
         {
-          "name": "Mollie Collins",
-          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
-        },
-        {
-          "name": "Ruth Royall",
-          "url": "https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu"
+          "name": "The Manor",
+          "url": "https://open.spotify.com/artist/2ZeAzgQtLfcPmMap31S0dZ"
         }
       ],
-      "duration_ms": 282758,
-      "name": "Remedies",
-      "url": "https://open.spotify.com/track/20AgOIjyk2Qd7DLt8lkxvn"
+      "duration_ms": 212286,
+      "name": "SWAZZ",
+      "url": "https://open.spotify.com/track/243WbqMMhN5ZHrKRwTS84O"
     }
   ],
   "unique_name": "Proper Naughty ",

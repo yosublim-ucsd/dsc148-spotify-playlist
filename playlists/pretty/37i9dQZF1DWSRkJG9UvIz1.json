@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 124980,
+  "num_followers": 125098,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZThiZWM2ZTBkNmExNjQ1ZmI2NjFmZDk0YjYyMTZmMDAxM2YwMjYz",
+  "snapshot_id": "MCwxYzY1MGMwN2UzN2MzZTE2OWRhYzA4YmUyOTRmZjMwZDk1OTliZGI5",
   "tracks": [
     {
       "added_at": "2023-03-11 03:38:22",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-03-11 03:38:22",
       "album": {
+        "name": "Achados e Perdidos",
+        "url": "https://open.spotify.com/album/0LAhdzSnR5XGs75Ial3VEk"
+      },
+      "artists": [
+        {
+          "name": "Curumin",
+          "url": "https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI"
+        }
+      ],
+      "duration_ms": 259040,
+      "name": "Vem Menina",
+      "url": "https://open.spotify.com/track/2c4Ecmj9hYHm21KOmnZZ9B"
+    },
+    {
+      "added_at": "2023-03-11 03:38:22",
+      "album": {
         "name": "O Agora",
         "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 194730,
       "name": "O Agora",
       "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
-    },
-    {
-      "added_at": "2023-03-11 03:38:22",
-      "album": {
-        "name": "Achados e Perdidos",
-        "url": "https://open.spotify.com/album/0LAhdzSnR5XGs75Ial3VEk"
-      },
-      "artists": [
-        {
-          "name": "Curumin",
-          "url": "https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI"
-        }
-      ],
-      "duration_ms": 259040,
-      "name": "Vem Menina",
-      "url": "https://open.spotify.com/track/2c4Ecmj9hYHm21KOmnZZ9B"
     },
     {
       "added_at": "2023-03-11 03:38:22",
@@ -749,7 +749,7 @@
       "url": "https://open.spotify.com/track/5eQ2eEO7mDnJlN8mtRaN6i"
     },
     {
-      "added_at": "2023-04-30 00:39:24",
+      "added_at": "2023-05-01 00:58:50",
       "album": {
         "name": "Esque\u00e7o das Horas (Always On Replay)",
         "url": "https://open.spotify.com/album/7vvNWY6dc9BK3glpycLOf6"
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-03-11 03:38:22",
       "album": {
+        "name": "Para\u00edso da Miragem",
+        "url": "https://open.spotify.com/album/62WF6z5NAbTK5sPOc3BxRy"
+      },
+      "artists": [
+        {
+          "name": "Russo Passapusso",
+          "url": "https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm"
+        }
+      ],
+      "duration_ms": 128438,
+      "name": "Areia",
+      "url": "https://open.spotify.com/track/4VZCV9TBVfxEAKiiimCvFa"
+    },
+    {
+      "added_at": "2023-03-11 03:38:22",
+      "album": {
         "name": "TU",
         "url": "https://open.spotify.com/album/2iN2Xs3KZSOrRs7GXf7Gla"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 192800,
       "name": "Terrorista Del Amor",
       "url": "https://open.spotify.com/track/3vgKWd00cIiEl2qqh6x7t4"
-    },
-    {
-      "added_at": "2023-03-11 03:38:22",
-      "album": {
-        "name": "Para\u00edso da Miragem",
-        "url": "https://open.spotify.com/album/62WF6z5NAbTK5sPOc3BxRy"
-      },
-      "artists": [
-        {
-          "name": "Russo Passapusso",
-          "url": "https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm"
-        }
-      ],
-      "duration_ms": 128438,
-      "name": "Areia",
-      "url": "https://open.spotify.com/track/4VZCV9TBVfxEAKiiimCvFa"
     },
     {
       "added_at": "2023-03-11 03:38:22",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-03-11 03:38:22",
       "album": {
-        "name": "Tom Jobim",
-        "url": "https://open.spotify.com/album/10g32N6XzlGiOQ79DvYbJO"
-      },
-      "artists": [
-        {
-          "name": "Edley INC.",
-          "url": "https://open.spotify.com/artist/4ugyOypb7Cflv7D72t80UE"
-        }
-      ],
-      "duration_ms": 248839,
-      "name": "Tom Jobim",
-      "url": "https://open.spotify.com/track/6BRjl1Pkk7zBUMnRwdnGOz"
-    },
-    {
-      "added_at": "2023-03-11 03:38:22",
-      "album": {
         "name": "Ya S\u00e9",
         "url": "https://open.spotify.com/album/7F8kZWnb4B1nN9wkFNgX15"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 163519,
       "name": "Ya S\u00e9",
       "url": "https://open.spotify.com/track/2ejZIgsZ5Ax9JbjPkWMK9W"
+    },
+    {
+      "added_at": "2023-03-11 03:38:22",
+      "album": {
+        "name": "Tom Jobim",
+        "url": "https://open.spotify.com/album/10g32N6XzlGiOQ79DvYbJO"
+      },
+      "artists": [
+        {
+          "name": "Edley INC.",
+          "url": "https://open.spotify.com/artist/4ugyOypb7Cflv7D72t80UE"
+        }
+      ],
+      "duration_ms": 248839,
+      "name": "Tom Jobim",
+      "url": "https://open.spotify.com/track/6BRjl1Pkk7zBUMnRwdnGOz"
     },
     {
       "added_at": "2023-03-11 03:38:22",

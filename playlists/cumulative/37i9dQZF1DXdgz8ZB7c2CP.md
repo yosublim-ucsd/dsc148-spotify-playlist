@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Elohim
 
-396 songs - 22 hr 11 min
+397 songs - 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [IN YOUR EYES 「瞳の中で」](https://open.spotify.com/track/1VviocEvd6zv4xudscXgcj) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [KOTONOHOUSE](https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC), [RANASOL](https://open.spotify.com/artist/4ojIlQlez4Z7L3jTiasTVr) | [CAGE SCRIPT](https://open.spotify.com/album/233ci2Dl2HFr9PheUIWaUx) | 4:15 | 2022-12-21 |  |
 | [In Your Head \- RL Grime Edit](https://open.spotify.com/track/0uFnnurkT6KwgzfQ6KAvSi) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC), [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP) | [In Your Head \(RL Grime Edit\)](https://open.spotify.com/album/4TMnqsuZv6ewXkZnNAqYB3) | 2:58 | 2021-08-06 | 2023-02-04 |
 | [Indian Summer](https://open.spotify.com/track/3YZJIHIX3kPd5wLwKLWIZA) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Indian Summer](https://open.spotify.com/album/6TFxvvkuIY7EiFZpcP8bS0) | 3:20 | 2021-08-06 | 2022-04-20 |
+| [INSANE](https://open.spotify.com/track/3OuOeSwZvd51cx78yuUXJA) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) | [UNI\(\*\)N](https://open.spotify.com/album/3TaL0VJMILKcVl1XgLkc4X) | 2:49 | 2023-04-28 |  |
 | [Intrastellar](https://open.spotify.com/track/2xvnpwPX8JTysO083rju7y) | [thomfjord](https://open.spotify.com/artist/4HozTjFfieqgVzmsn5CK5a) | [Intrastellar EP](https://open.spotify.com/album/5UVbYO6W3Pfoa8HRaqOalI) | 5:21 | 2021-08-06 | 2023-02-11 |
 | [Ironheart \- Polar Youth Remix](https://open.spotify.com/track/4rBYV0MKhwAag98L13goF0) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [BullySongs](https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5), [Polar Youth](https://open.spotify.com/artist/48EUMg2SS1VgOyLRzOhwjQ) | [Ironheart \(Polar Youth Remix\)](https://open.spotify.com/album/19cjBBZTh2IX7yBnhRDcqB) | 2:39 | 2023-02-19 | 2023-04-27 |
 | [IT HURTS!](https://open.spotify.com/track/68PJWzJj2utbLBErEt7THk) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [IT HURTS!](https://open.spotify.com/album/45HOGzVjjJojLyOMvCqDD5) | 3:48 | 2021-08-06 | 2022-07-29 |
@@ -215,7 +216,7 @@
 | [Live Lonely](https://open.spotify.com/track/3AJXFzoOKuvdwZzbL27RLX) | [WEARETHEGOOD](https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw), [Lynnea](https://open.spotify.com/artist/7f06QWoFAvtpEuho7NEDLN) | [The Future Is Bass](https://open.spotify.com/album/0RGBHBBnKxvRA9gmcbK80f) | 2:23 | 2021-08-27 | 2022-04-21 |
 | [Loner \- Moore Kismet Remix](https://open.spotify.com/track/3uWJYrarDEEiGSPw0jJLo2) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Loner \(Remixes\)](https://open.spotify.com/album/0MOgYRLnYJNdSd8EsqT4dJ) | 3:20 | 2023-03-16 | 2023-04-22 |
 | [LONG DISTANCE](https://open.spotify.com/track/6ih6vYggeYPomAbJupA4hA) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Escapism](https://open.spotify.com/album/7GoQwmBYFCOPSdOOp8OUds) | 3:39 | 2021-08-06 | 2022-09-24 |
-| [Losing My Mind](https://open.spotify.com/track/1WjP8YhhlrpDv8oL6ewp0X) | [Lhasa Petik](https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja) | [The Deep End](https://open.spotify.com/album/6AxSaWsfdBssqdDcqCHxyD) | 3:26 | 2022-06-03 |  |
+| [Losing My Mind](https://open.spotify.com/track/1WjP8YhhlrpDv8oL6ewp0X) | [Lhasa Petik](https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja) | [The Deep End](https://open.spotify.com/album/6AxSaWsfdBssqdDcqCHxyD) | 3:26 | 2022-06-03 | 2023-05-01 |
 | [Lost Someone](https://open.spotify.com/track/1ay9kjKoplo5f0FBCkVkTG) | [HAELIUM](https://open.spotify.com/artist/2BTb9bZeph6qXO5EmjVbbm) | [Lost Someone](https://open.spotify.com/album/3WWjgicP39dV8MUWRV1uIL) | 3:44 | 2021-08-06 | 2022-07-28 |
 | [lovely2\*](https://open.spotify.com/track/123954RVtblgBxIcwOLwSM) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [lovely2\*](https://open.spotify.com/album/52tKktVRWcDxiYyip1Uoug) | 2:35 | 2023-02-04 | 2023-04-14 |
 | [LSD](https://open.spotify.com/track/1AiBJB2v6Lp6BiqARZh3R5) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Xan Griffin](https://open.spotify.com/artist/3wkHMiy2I0PuYIh9JNyqVk) | [LSD](https://open.spotify.com/album/2trplsWRMpKmMHd9i260Gg) | 2:18 | 2021-08-20 | 2022-07-29 |

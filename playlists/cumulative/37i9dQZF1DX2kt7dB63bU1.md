@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Samara Joy
 
-591 songs - 1 day 17 hr 26 min
+592 songs - 1 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,8 +423,9 @@
 | [S Wonderful](https://open.spotify.com/track/7CVsH4KfcIeWkDRdzUBvsr) | [Ann Hampton Callaway](https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e) | [Jazz Goes To The Movies](https://open.spotify.com/album/2S5QmyyVfOVl1FwpC8XUPg) | 4:32 | 2020-10-09 | 2022-02-17 |
 | [Same Old Smile](https://open.spotify.com/track/1g3C3Kg792oT1b6eW2hRSk) | [Cæcilie Norby](https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H) | [Same Old Smile](https://open.spotify.com/album/7bYT98UEv4ufxUC8wuXEMj) | 4:04 | 2022-08-05 | 2022-09-17 |
 | [Say It Isn't So](https://open.spotify.com/track/5kRxW8pWKoQk9HXs4rG4jS) | [Riikka Keränen](https://open.spotify.com/artist/1tNZlpSupAdhJA2ljZUPzY), [Juho Valjakka](https://open.spotify.com/artist/0aKY7KV2w80cRCZfEwwipw), [Jori Huhtala](https://open.spotify.com/artist/6lgNnlT4ua03OwPYYfPT9p), [Anssi Tirkkonen](https://open.spotify.com/artist/49dmNgQJQPyyNdujxcaqLF) | [A Vision of a Garden](https://open.spotify.com/album/3Xb7W8fJ6VQx0kHWBcOvf8) | 5:17 | 2022-02-25 | 2022-07-24 |
+| [Seahorse Tranquilizer](https://open.spotify.com/track/0SFLGIXW8BBoT0U8EDKsTC) | [Fresh Pepper](https://open.spotify.com/artist/66DwP6G6LK15xMmKu1hNBY), [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS), [Andre Ethier](https://open.spotify.com/artist/6gkurAgv7a4GoBMv87hLyF), [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Fresh Pepper](https://open.spotify.com/album/1BmPySRZiHQG7Hlw0flMc6) | 6:37 | 2022-06-24 |  |
 | [Seahorse Tranquilizer](https://open.spotify.com/track/5frZ1YDgUhJJ3CznAIhG4F) | [Fresh Pepper](https://open.spotify.com/artist/66DwP6G6LK15xMmKu1hNBY), [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS), [Andre Ethier](https://open.spotify.com/artist/6gkurAgv7a4GoBMv87hLyF), [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Seahorse Tranquilizer](https://open.spotify.com/album/46y2uk3B6crlm7kNIO43r9) | 6:37 | 2022-06-17 | 2023-04-29 |
-| [Seahorse Tranquilizer](https://open.spotify.com/track/6Wsm9HgQEyFs6BR8ABa7eA) | [Fresh Pepper](https://open.spotify.com/artist/66DwP6G6LK15xMmKu1hNBY), [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS), [Andre Ethier](https://open.spotify.com/artist/6gkurAgv7a4GoBMv87hLyF), [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Fresh Pepper](https://open.spotify.com/album/5Q1rvm5FvDUjLRzS6WDvT7) | 6:37 | 2022-06-24 |  |
+| [Seahorse Tranquilizer](https://open.spotify.com/track/6Wsm9HgQEyFs6BR8ABa7eA) | [Fresh Pepper](https://open.spotify.com/artist/66DwP6G6LK15xMmKu1hNBY), [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS), [Andre Ethier](https://open.spotify.com/artist/6gkurAgv7a4GoBMv87hLyF), [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Fresh Pepper](https://open.spotify.com/album/5Q1rvm5FvDUjLRzS6WDvT7) | 6:37 | 2022-06-24 | 2023-05-01 |
 | [Secret Safe](https://open.spotify.com/track/55kbBJHChu7rIc1kApJnN6) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Secret Safe](https://open.spotify.com/album/0CnKDRFJ2IEBFrf08F5P8T) | 2:49 | 2021-03-05 | 2022-07-29 |
 | [Seems I’m Never Tired Lovin’ You](https://open.spotify.com/track/7vCfPnxfZstgS5QUlWV7aY) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Seems I’m Never Tired Lovin’ You](https://open.spotify.com/album/026ZioCze6KbxDpunugdId) | 4:43 | 2020-10-09 | 2022-02-19 |
 | [Send For Me](https://open.spotify.com/track/0XgKeg2rv7UFkqWlepL0XO) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [Send For Me](https://open.spotify.com/album/4Ey2JHKRLc0Qy03MvBuPiZ) | 4:44 | 2022-04-04 | 2023-02-25 |

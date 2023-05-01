@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume\. Cover: renforshort
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,524 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,530 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 8 | [Twin](https://open.spotify.com/track/7eNB1CxbNWiBVZwzXAJqgW) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Twin](https://open.spotify.com/album/3bIxBt4ugXjYeua4yVbynN) | 2:44 |
 | 9 | [Serial Killer](https://open.spotify.com/track/5WymYiS89VAeXdzMmHwcLa) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Dysania](https://open.spotify.com/album/4pOYgdkvLhLSydbYbJOeD2) | 2:52 |
 | 10 | [Sweet Spot](https://open.spotify.com/track/1HlR2cBtUy2euEdltt7Cdz) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Sweet Spot](https://open.spotify.com/album/0jGTPi4YLdLW42KjT9IDKY) | 2:54 |
-| 11 | [Don't Leave Me Now](https://open.spotify.com/track/2jKjw8HsaYfrma8mRWqNOW) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Don't Leave Me Now](https://open.spotify.com/album/7GoEqIPUNcAnLBr066hjhN) | 2:57 |
+| 11 | [Don't Leave Me Now](https://open.spotify.com/track/1WGvNVxbI8cFRYQQt1aOJi) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Don't Leave Me Now](https://open.spotify.com/album/5YRZesyFDjPo9RUGwp2VFD) | 2:57 |
 | 12 | [Damn Those Eyes](https://open.spotify.com/track/3uvA7vzmyuO8tSpERJNWxN) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [Damn Those Eyes](https://open.spotify.com/album/2AWH1W0A0dDh4FITfg7FEh) | 3:00 |
 | 13 | [WHAT A MAN](https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [GOOD LUCK](https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM) | 3:22 |
 | 14 | [blue](https://open.spotify.com/track/78PzKHIuCAv8ve3VLIfCI8) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [blue](https://open.spotify.com/album/64Ezf43dKpmAsCXUPmO6Wr) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 49 | [Je n'habite pas chez moi](https://open.spotify.com/track/7q9auzxcNfbzqRwILxqNVF) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH) | [Je n'habite pas chez moi](https://open.spotify.com/album/20iT6YJYJD0d7ushv8mQHv) | 3:24 |
 | 50 | [X\-8](https://open.spotify.com/track/6svSVekX57s5RFxt4qDWg3) | [sineila](https://open.spotify.com/artist/0RWXZoAIcqlzCwMc9Tv4lh) | [X\-8](https://open.spotify.com/album/4X77dbBWhmyNOU5O1ramMb) | 1:51 |
 
-Snapshot ID: `MCwwMzA0YTdmNTQwMGUxZjM1ZGM1ZjE5ZDBmM2MzY2NhOGZhMTE1NWNi`
+Snapshot ID: `MCwxOWRjMDNhZDBkNGUyMjZiYzU1ZThkNWIwOGY5YjczYTk2OTUzZWMx`

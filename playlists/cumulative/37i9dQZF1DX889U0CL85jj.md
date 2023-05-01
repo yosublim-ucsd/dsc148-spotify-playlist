@@ -4,7 +4,7 @@
 
 > Just chill.
 
-483 songs - 1 day 3 hr 46 min
+484 songs - 1 day 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,6 +403,7 @@
 | [Sun is going down](https://open.spotify.com/track/362Ev5LFc9zje3MhnzugOZ) | [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [Sun is going down](https://open.spotify.com/album/05wbtJpRjix8zvCI59bk5c) | 6:46 | 2021-02-27 | 2022-07-29 |
 | [Sun is going down](https://open.spotify.com/track/3DN0yq0VaZgiANOyTrWnUP) | [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [Sun is going down](https://open.spotify.com/album/5ybhHe6n1NG337HnTFeBvj) | 6:46 | 2022-06-10 | 2023-04-01 |
 | [Sundance Happy](https://open.spotify.com/track/7JNUIRdD1r0U4eeYScySl6) | [Julietta](https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV) | [Sundance Happy](https://open.spotify.com/album/4ZwXzrl5Zyg9srZFqGNuG3) | 2:50 | 2022-08-19 | 2023-04-22 |
+| [Sunday by the River](https://open.spotify.com/track/5SjdXpQqq54uRrlSXv12i4) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Sunday by the River](https://open.spotify.com/album/0Ukujcae2Ufeke5HuKzZQW) | 2:33 | 2023-04-21 |  |
 | [Sunday in the park + STUTS](https://open.spotify.com/track/5Dxg3FrfL7RYTLgbiI0hmZ) | [Yasuyuki Horigome](https://open.spotify.com/artist/1HWivlGf6KbIyxhTlTAlnj) | [Sunday in the park + STUTS](https://open.spotify.com/album/4nL3Vhs27eX3LZFKr3C0s3) | 4:34 | 2020-05-08 | 2022-01-22 |
 | [Sundays \- Just Piano Version](https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Just Piano](https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH) | 3:32 | 2022-08-11 |  |
 | [Sunflower](https://open.spotify.com/track/32uXuJF75lxy2gRY85aO9h) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Sahar](https://open.spotify.com/album/6SkLEvDvr8cHuuKWTQSgj9) | 4:23 | 2022-09-29 | 2023-04-22 |
@@ -447,7 +448,7 @@
 | [uni](https://open.spotify.com/track/3zMZ4ymzVVzRCFpcKpBM6M) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [uni](https://open.spotify.com/album/7rrvVm50jHKqjQ8wbjFRsm) | 2:48 | 2022-11-25 | 2023-01-06 |
 | [Unkind](https://open.spotify.com/track/7DgW7jnyWYe2iOhwP7Uxog) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Unkind](https://open.spotify.com/album/6t0G0GALHFQGSjnIZOyZp9) | 3:18 | 2020-05-09 | 2022-01-22 |
 | [Up All Night](https://open.spotify.com/track/1MkNcbkKddbuLZq1a8Vx7o) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Up All Night](https://open.spotify.com/album/69q3coTXWa2EuyfCXFBQtz) | 2:57 | 2019-06-26 | 2022-08-20 |
-| [Vacation](https://open.spotify.com/track/7c3o20IFicfq6xzf2BMfrx) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Vacation](https://open.spotify.com/album/2yyJyMbVCggJxBxTguQdza) | 1:59 | 2022-09-19 |  |
+| [Vacation](https://open.spotify.com/track/7c3o20IFicfq6xzf2BMfrx) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Vacation](https://open.spotify.com/album/2yyJyMbVCggJxBxTguQdza) | 1:59 | 2022-09-19 | 2023-05-01 |
 | [Val!um](https://open.spotify.com/track/0yXU3XSY2yYs542ksvHLNL) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Val!um](https://open.spotify.com/album/7tCOA660KQ5c83XLJHtRYn) | 3:08 | 2020-02-12 | 2022-04-29 |
 | [Victory Lap](https://open.spotify.com/track/7ajvW6P91ViwSc8MsrBSP5) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Victory Lap](https://open.spotify.com/album/7dIv6ZyOlTosM8b5EGQyD6) | 4:13 | 2022-11-11 | 2023-04-18 |
 | [Visions \- Flanger Version](https://open.spotify.com/track/5tucRo53CbTKz9Kwvk6p38) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Visions EP](https://open.spotify.com/album/1qtoMXwXqSggeYfVJEbG5i) | 6:19 | 2023-01-27 | 2023-04-22 |

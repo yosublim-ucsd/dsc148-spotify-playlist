@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "\u200e\u200eamends (Remixes)",
+        "url": "https://open.spotify.com/album/0KhnXSPJIBJiRr41t0sSHA"
+      },
+      "artists": [
+        {
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84144,
+      "name": "amends - VIP edit",
+      "url": "https://open.spotify.com/track/4rSyXUFwUeroeUSnt7YbL9"
+    },
+    {
+      "album": {
         "name": "\u200eamends (VIP edit)",
         "url": "https://open.spotify.com/album/2cpxWGU4KlQngmIKmTqs9D"
       },
@@ -1456,7 +1474,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 197793,
       "name": "Don't Need You",
       "url": "https://open.spotify.com/track/0se8mCFDYQohVqP6cFoToK"

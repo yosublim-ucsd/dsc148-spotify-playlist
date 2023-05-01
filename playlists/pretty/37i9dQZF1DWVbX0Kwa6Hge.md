@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbX0Kwa6Hge.md) - [plain]
 | 43 | [MAGIC](https://open.spotify.com/track/6yIbOjZve4NIZXccZ0dui4) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [MAGIC](https://open.spotify.com/album/662UfTtnwM01ukAlJMC7Jq) | 3:46 |
 | 44 | [keep lookin’ up](https://open.spotify.com/track/06tKb2aBA9sma7Sftu7kSw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 2:46 |
 
-Snapshot ID: `MCwzZmQ4ODdiYjMxMzA4YzVlZDIyN2VlY2Q0MTc0ZDllZmNhZmRmMTI1`
+Snapshot ID: `MCwyMDEyZjUzNzVlOTNhZjdjZDA3NDhhNDg3MWZmZWQyNWE3MmEzZjE2`

@@ -1,12 +1,12 @@
 {
   "description": "The biggest Texas Country Hits over the last couple of years. Formerly Texas Music Rewind.",
-  "num_followers": 1134,
+  "num_followers": 1290,
   "original_name": "Texas Country Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTQ0MDRlYThlMmM0ZTJjZTYzNWMwNGE1OTE5ZTYwMjNiNDM3ZjE0",
+  "snapshot_id": "MCwyMmQ0ODc0YjE0ZDM2NmY5Zjk3YjMxYzhhMWIwODUyZDYwYjI5YmZm",
   "tracks": [
     {
       "added_at": "2023-02-10 16:12:28",
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         }
       ],
-      "duration_ms": 241838,
-      "name": "Pay No Rent",
-      "url": "https://open.spotify.com/track/4FIIaVhMlCDlIRPUWtd7Ax"
+      "duration_ms": 187633,
+      "name": "Unrung",
+      "url": "https://open.spotify.com/track/7zrfNVEwO2ig1pGVKh9z66"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         }
       ],
-      "duration_ms": 187633,
-      "name": "Unrung",
-      "url": "https://open.spotify.com/track/7zrfNVEwO2ig1pGVKh9z66"
+      "duration_ms": 241838,
+      "name": "Pay No Rent",
+      "url": "https://open.spotify.com/track/4FIIaVhMlCDlIRPUWtd7Ax"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "I Will",
-        "url": "https://open.spotify.com/album/0f0vssPnIT4HqVxnYDfusn"
-      },
-      "artists": [
-        {
-          "name": "Darrin Morris Band",
-          "url": "https://open.spotify.com/artist/2qvUuw0HXxaz5yzKsRxlXf"
-        }
-      ],
-      "duration_ms": 208805,
-      "name": "I Will",
-      "url": "https://open.spotify.com/track/5II7pbhLOBm44R8BaU23EC"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/5zuGfIFJiNPVuEs1d0ifp7"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 235853,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/6o0ckL7uYKb5Lfw6oaWqUG"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
+        "name": "I Will",
+        "url": "https://open.spotify.com/album/0f0vssPnIT4HqVxnYDfusn"
+      },
+      "artists": [
+        {
+          "name": "Darrin Morris Band",
+          "url": "https://open.spotify.com/artist/2qvUuw0HXxaz5yzKsRxlXf"
+        }
+      ],
+      "duration_ms": 208805,
+      "name": "I Will",
+      "url": "https://open.spotify.com/track/5II7pbhLOBm44R8BaU23EC"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Paycheck to Paycheck",
-        "url": "https://open.spotify.com/album/3snVS5Ve1YUMpLyYELK00B"
-      },
-      "artists": [
-        {
-          "name": "Mike and the Moonpies",
-          "url": "https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi"
-        }
-      ],
-      "duration_ms": 156946,
-      "name": "Paycheck to Paycheck",
-      "url": "https://open.spotify.com/track/2rK7rEmSllMs6iIJzle9oM"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
         "name": "What It Doesn\u2019t Do",
         "url": "https://open.spotify.com/album/1MHxVPMWkJwBYn7FNHncra"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 216084,
       "name": "What It Doesn\u2019t Do",
       "url": "https://open.spotify.com/track/0EhzRx6ybqpSac2DW5lx7E"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
+        "name": "Paycheck to Paycheck",
+        "url": "https://open.spotify.com/album/3snVS5Ve1YUMpLyYELK00B"
+      },
+      "artists": [
+        {
+          "name": "Mike and the Moonpies",
+          "url": "https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi"
+        }
+      ],
+      "duration_ms": 156946,
+      "name": "Paycheck to Paycheck",
+      "url": "https://open.spotify.com/track/2rK7rEmSllMs6iIJzle9oM"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "High on the Bottle",
-        "url": "https://open.spotify.com/album/4Mf1pb2hkmWet5MDEYgtkr"
-      },
-      "artists": [
-        {
-          "name": "Creed Fisher",
-          "url": "https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu"
-        }
-      ],
-      "duration_ms": 253952,
-      "name": "High on the Bottle",
-      "url": "https://open.spotify.com/track/3PvgOx0N7kbRjVQHD7lXx4"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
         "name": "Red Dirt Texas",
         "url": "https://open.spotify.com/album/4D99o68AiT4J6yaWOHMM28"
       },
@@ -1615,18 +1599,18 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "I Didn't Think About Rain",
-        "url": "https://open.spotify.com/album/7ska9uxJbebyQnitBOUNBO"
+        "name": "High on the Bottle",
+        "url": "https://open.spotify.com/album/4Mf1pb2hkmWet5MDEYgtkr"
       },
       "artists": [
         {
-          "name": "Jarrod Morris",
-          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
+          "name": "Creed Fisher",
+          "url": "https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu"
         }
       ],
-      "duration_ms": 252320,
-      "name": "I Didn't Think About Rain",
-      "url": "https://open.spotify.com/track/0LcMlJ3j5yVWohYG6ZMsKm"
+      "duration_ms": 253952,
+      "name": "High on the Bottle",
+      "url": "https://open.spotify.com/track/3PvgOx0N7kbRjVQHD7lXx4"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -1643,6 +1627,22 @@
       "duration_ms": 203500,
       "name": "First Dirt Road",
       "url": "https://open.spotify.com/track/6VIMJ4ixnzZO6jgrhQRhC1"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
+        "name": "I Didn't Think About Rain",
+        "url": "https://open.spotify.com/album/7ska9uxJbebyQnitBOUNBO"
+      },
+      "artists": [
+        {
+          "name": "Jarrod Morris",
+          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
+        }
+      ],
+      "duration_ms": 252320,
+      "name": "I Didn't Think About Rain",
+      "url": "https://open.spotify.com/track/0LcMlJ3j5yVWohYG6ZMsKm"
     }
   ],
   "unique_name": "Texas Country Rewind",

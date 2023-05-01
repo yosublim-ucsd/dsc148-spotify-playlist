@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: Noyz Narcos
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,018 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,055 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 | 49 | [WELCOME BACK \(feat\. Raekwon\)](https://open.spotify.com/track/5E0PcREYdAn70xQPylf76v) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [VIRUS](https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU) | 3:23 |
 | 50 | [FANTASMI \(feat\. Geolier & Marracash\)](https://open.spotify.com/track/3uNEz1wYbu8s34jKDVVhMs) | [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [FANTASMI \(feat\. Geolier & Marracash\)](https://open.spotify.com/album/4SyvX5syFVUmPvC8yS9KPw) | 3:19 |
 
-Snapshot ID: `MCxjOTE5OWFkOTFhMTBjNjhjYWI3MDNjM2UxYWNjNDg3NDk3MTJhMTJk`
+Snapshot ID: `MCxhNTRhMDIxYzM5NzEyNzJiOWVmYWRlNGI0MzU1NmVmNWJkOTgxZjFi`

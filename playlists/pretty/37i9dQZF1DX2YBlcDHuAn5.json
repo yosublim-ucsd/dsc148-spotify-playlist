@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 2833,
+  "num_followers": 2842,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGE1OTEwMWMyZjA5NGMxMzc4MjcwMDk3YTM0NjBmOGViMzM5NzNl",
+  "snapshot_id": "MCwwNTkwZGRjMDM5NGM4OWYxYmY1YmQ4MmJiMGU2MTE2YWJjYTk2ZWRk",
   "tracks": [
     {
       "added_at": "2023-04-27 22:01:00",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
+        "name": "Buck",
+        "url": "https://open.spotify.com/album/7oXPEByonJefvXaAB8pgKV"
+      },
+      "artists": [
+        {
+          "name": "Daniel Norgren",
+          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
+        }
+      ],
+      "duration_ms": 124986,
+      "name": "Whatever Turns You On",
+      "url": "https://open.spotify.com/track/13PXKnETL7SoDB5ZjQLbgQ"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
         "name": "Babe I'm Gonna Leave You (Extended Version)",
         "url": "https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL"
       },
@@ -587,22 +603,6 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "The Green Stone",
-        "url": "https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22"
-      },
-      "artists": [
-        {
-          "name": "Daniel Norgren",
-          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
-        }
-      ],
-      "duration_ms": 204840,
-      "name": "I Waited for You",
-      "url": "https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
         "name": "Big Thing",
         "url": "https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU"
       },
@@ -615,6 +615,38 @@
       "duration_ms": 215440,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
+        "name": "Maybe, Maybe Not",
+        "url": "https://open.spotify.com/album/453ui3VLbh97vpNlo5YEAf"
+      },
+      "artists": [
+        {
+          "name": "VanWyck",
+          "url": "https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb"
+        }
+      ],
+      "duration_ms": 200157,
+      "name": "Maybe, Maybe Not",
+      "url": "https://open.spotify.com/track/1rDkFbHS0krhKweIL6ogTB"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
+        "name": "The Green Stone",
+        "url": "https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22"
+      },
+      "artists": [
+        {
+          "name": "Daniel Norgren",
+          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
+        }
+      ],
+      "duration_ms": 204840,
+      "name": "I Waited for You",
+      "url": "https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -651,22 +683,6 @@
       "duration_ms": 184053,
       "name": "Lightyears Better",
       "url": "https://open.spotify.com/track/3TfJc3C3n9ML0dXoz7oHcm"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "Maybe, Maybe Not",
-        "url": "https://open.spotify.com/album/453ui3VLbh97vpNlo5YEAf"
-      },
-      "artists": [
-        {
-          "name": "VanWyck",
-          "url": "https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb"
-        }
-      ],
-      "duration_ms": 200157,
-      "name": "Maybe, Maybe Not",
-      "url": "https://open.spotify.com/track/1rDkFbHS0krhKweIL6ogTB"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -735,22 +751,6 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "Buck",
-        "url": "https://open.spotify.com/album/7oXPEByonJefvXaAB8pgKV"
-      },
-      "artists": [
-        {
-          "name": "Daniel Norgren",
-          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
-        }
-      ],
-      "duration_ms": 124986,
-      "name": "Whatever Turns You On",
-      "url": "https://open.spotify.com/track/13PXKnETL7SoDB5ZjQLbgQ"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
         "name": "In The Morning, When We Rise",
         "url": "https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM"
       },
@@ -767,34 +767,22 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "Driving Like A Dream Car Should",
-        "url": "https://open.spotify.com/album/0PUtR0ic8SMHYtj6CF77cQ"
+        "name": "Closing Time",
+        "url": "https://open.spotify.com/album/75jo912nYXWzN6TY8bBFgO"
       },
       "artists": [
         {
           "name": "Deborah Parlor",
           "url": "https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl"
-        }
-      ],
-      "duration_ms": 187355,
-      "name": "Driving Like A Dream Car Should",
-      "url": "https://open.spotify.com/track/5yeaDXxrodUEbYGxfDXZej"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "Loose Future",
-        "url": "https://open.spotify.com/album/25dWaNwrPBrS1UAXUBZOVh"
-      },
-      "artists": [
+        },
         {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+          "name": "Ed Struijlaart",
+          "url": "https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2"
         }
       ],
-      "duration_ms": 208933,
-      "name": "Loose Future",
-      "url": "https://open.spotify.com/track/1f7mKDuWfkhMXOnRcdI8Vz"
+      "duration_ms": 202773,
+      "name": "Closing Time",
+      "url": "https://open.spotify.com/track/0CIfnjBJxhYbL69mU4K4yl"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -815,18 +803,38 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "Eyes On The Road",
-        "url": "https://open.spotify.com/album/59ZMGrtibbHBmCM1QnFhue"
+        "name": "Loose Future",
+        "url": "https://open.spotify.com/album/25dWaNwrPBrS1UAXUBZOVh"
       },
       "artists": [
         {
-          "name": "Marcel Kapteijn",
-          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
         }
       ],
-      "duration_ms": 190568,
-      "name": "Eyes On The Road",
-      "url": "https://open.spotify.com/track/3EMW8uImDU4SfrtNMleX7v"
+      "duration_ms": 208933,
+      "name": "Loose Future",
+      "url": "https://open.spotify.com/track/1f7mKDuWfkhMXOnRcdI8Vz"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
+        "name": "Dangers Mood",
+        "url": "https://open.spotify.com/album/2vwbTmsYqcMqePxrfPRV4z"
+      },
+      "artists": [
+        {
+          "name": "Robbert Duijf",
+          "url": "https://open.spotify.com/artist/479RX3LATApuM30lH2cemD"
+        },
+        {
+          "name": "Maud Knubben",
+          "url": "https://open.spotify.com/artist/109tzSrdsNx4IQJvJBTRXV"
+        }
+      ],
+      "duration_ms": 192640,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/79Y9I1GYMaNEfVwEDmWh28"
     }
   ],
   "unique_name": "Route Americana",

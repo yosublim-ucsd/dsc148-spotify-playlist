@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Thundercat ft\. Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,268 likes - 126 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,304 likes - 126 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,11 +111,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 101 | [Cherish](https://open.spotify.com/track/39GrR1d8r8gspKwZpjr1fv) | [Teleman](https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV) | [Good Time/Hard Time](https://open.spotify.com/album/34pKOVIghKdG1kB1iRkS5N) | 3:23 |
 | 102 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 |
 | 103 | [She Knows How to Get What She Wants](https://open.spotify.com/track/4O3bw1X0mdPsJfl6d77BlE) | [Tempesst](https://open.spotify.com/artist/6yYoIxAvtAgGPSSring5SB) | [Prisoner of Desire](https://open.spotify.com/album/2KqbrWz5WOtccxMGpvfHku) | 3:00 |
-| 104 | [Don't Be Another](https://open.spotify.com/track/3qaqxocTgqVSMT9GE82sbg) | [Skinny Pelembe](https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN) | [Don't Be Another](https://open.spotify.com/album/1CLxNR4c7WeJ6c6gwjkPGl) | 3:39 |
+| 104 | [Don't Be Another](https://open.spotify.com/track/7jAYGGdjarBtjI8PkCgQI7) | [Skinny Pelembe](https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN) | [Hardly The Same Snake](https://open.spotify.com/album/5YGnYey5QR9gXmgpxTV6Uw) | 3:39 |
 | 105 | [Red & Blue](https://open.spotify.com/track/0O187ycWfb1HFfLCicRLPJ) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [Red & Blue](https://open.spotify.com/album/0DOmgiyED79X8WnZ4qKMcp) | 3:40 |
 | 106 | [Done \(Let’s Get It\)](https://open.spotify.com/track/2aiZVh8PAgIVy3wNlsQnhD) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Done \(Let's Get It\)](https://open.spotify.com/album/1qVKptza3e1owyE8IzvTUO) | 2:52 |
 | 107 | [Difference](https://open.spotify.com/track/0doT09dfiZKhbsASMqzZGh) | [Benjamin Clementine](https://open.spotify.com/artist/7zHIrsSBL7A0gEJfzv1m7z) | [And I Have Been](https://open.spotify.com/album/0rmOAkvn9gkrPcPqGreQs4) | 1:55 |
-| 108 | [Like A Heart Won't Beat](https://open.spotify.com/track/5iJ2dkuqfUJzWxwsTDx1St) | [Skinny Pelembe](https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN) | [Like A Heart Won't Beat](https://open.spotify.com/album/0foppvxztUTxICo4vnKphN) | 2:26 |
+| 108 | [Like A Heart Won't Beat](https://open.spotify.com/track/4qZ52fbjyJF6C4LJ1Tlobw) | [Skinny Pelembe](https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN) | [Hardly The Same Snake](https://open.spotify.com/album/5YGnYey5QR9gXmgpxTV6Uw) | 2:26 |
 | 109 | [Complete Me \(feat\. Self Esteem\)](https://open.spotify.com/track/4PLpEoutbbBKXQX4Ymkgvq) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab), [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Complete Me \(feat\. Self Esteem\)](https://open.spotify.com/album/6YQ5IjxTphaqI365Y8CNiO) | 4:46 |
 | 110 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 |
 | 111 | [Bonnie & Clyde](https://open.spotify.com/track/242KD6PuHdXQmmBnkqyloK) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [The Theory Of Whatever \(Deluxe\)](https://open.spotify.com/album/0ek4fqYWlpZ6jnRT9FoLyA) | 3:01 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 125 | [Selene](https://open.spotify.com/track/4npKDsY9jICNTZ9k1OCJWv) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Selene](https://open.spotify.com/album/5vM130oQKE5jQ22EgX7Cy7) | 4:54 |
 | 126 | [Failed at Math\(s\)](https://open.spotify.com/track/6W1wt10FubiQQVXychFAKp) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Failed at Math\(s\)](https://open.spotify.com/album/1TyXRjcjSnDLmewsTjr6id) | 2:40 |
 
-Snapshot ID: `MCxmYmY0OTBlMTY1Y2NlNzA4ZGYxMmVhZmQ3NWRmZjgxZWViMzkwN2Yy`
+Snapshot ID: `MCwwMjk1OWFiNzQ0ZWE1Yzg3MGJiNGRhMDFlZTU3YjFjNTRmMjhhY2Ew`

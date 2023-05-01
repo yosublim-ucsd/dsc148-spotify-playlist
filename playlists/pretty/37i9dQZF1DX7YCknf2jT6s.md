@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Yussef Dayes
 
-[Spotify](https://open.spotify.com/user/spotify) - 892,718 likes - 99 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 894,926 likes - 99 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 20 | [Us \- A COLORS SHOW](https://open.spotify.com/track/5tHlKei7IIgA29Vef05NYa) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Us \- A COLORS SHOW](https://open.spotify.com/album/6c1sdchTFvL0jwHeKx725a) | 6:13 |
 | 21 | [There Is This Thing](https://open.spotify.com/track/6Dd2qLs8ElSYBRJdZbUARM) | [Reginald Chapman](https://open.spotify.com/artist/2LLzWNFHZJaRDqYLB6ExPB), [Foxygen](https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4), [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK), [R4nd4zzo](https://open.spotify.com/artist/4TaM7yPjrpK39ZozZDP7tA), [Jacob Ungerleider](https://open.spotify.com/artist/0gWUlc0yGrgfEwLjd8HXtV), [Sean Durkin](https://open.spotify.com/artist/6hFK4m2w08Uy9AfrRBwxJm), [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [There Is This Thing](https://open.spotify.com/album/3FBl5DxTxTUf4bp5jFModn) | 3:39 |
 | 22 | [Everything Is Going to Be OK](https://open.spotify.com/track/4JPj5HzPn5sRfwzqH9HMgX) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Everything Is Going to Be OK](https://open.spotify.com/album/0LIjSRLoTlpMB2vHJHX86M) | 4:47 |
-| 23 | [Dawn](https://open.spotify.com/track/61fBVMxqOiNiZb7i36glEU) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Dawn](https://open.spotify.com/album/2FPyGSR5ub2i6qSRrUKSNZ) | 2:51 |
+| 23 | [Dawn](https://open.spotify.com/track/0fuxueNMYxeciH7xRNm2Ct) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Lonnie Liston Smith JID017](https://open.spotify.com/album/580mkfgZtjgWloZrKS1lYE) | 2:51 |
 | 24 | [For Horace](https://open.spotify.com/track/2zZS3p0MsOdYmS3EgcLctX) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [For Horace](https://open.spotify.com/album/73zM7vJshZxXvREGVVbo7Q) | 5:38 |
 | 25 | [Luto](https://open.spotify.com/track/4xM3r4hsW5NNNIDfwcR2Ot) | [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr) | [Luto](https://open.spotify.com/album/07UniKiqwPReakQGnnpIQP) | 3:42 |
 | 26 | [New Resistance](https://open.spotify.com/track/7eyGGkrNGHA3UAzKjsqZ3K) | [The Brother Moves On](https://open.spotify.com/artist/1lk7zDKaonwqrwKwt8Krd7) | [New Resistance](https://open.spotify.com/album/4HjigXql1NYCoIyXFbxUqW) | 3:54 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 98 | [Loss](https://open.spotify.com/track/726tHsbqcNhVLckl5TpdCj) | [Marek Konarski](https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Polish Encounter](https://open.spotify.com/album/2Rds7Q5z3Xueh7y1x0CSnm) | 4:33 |
 | 99 | [Fahina](https://open.spotify.com/track/3HTDwChXeEpTEltJA7Q2LT) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Abraham Rodriguez Jr.](https://open.spotify.com/artist/1U1SWJdIJlrIcmhuBa78we) | [Fahina](https://open.spotify.com/album/57FqCw0TdSmLEAo3xtDmlb) | 2:31 |
 
-Snapshot ID: `MCwxNzcwMDU3MjQzNDYwZmRlNDVhM2U4ZmI5N2YxZDBiODYzM2M3Mjkx`
+Snapshot ID: `MCxmY2VlZjQ2M2JjN2I1ZDk0YTI3YzlhODVhMzkxNjg5NGYxMTRhNTU0`

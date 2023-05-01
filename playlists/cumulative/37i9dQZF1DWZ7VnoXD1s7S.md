@@ -4,7 +4,7 @@
 
 > no\-clip out of reality
 
-123 songs - 5 hr 33 min
+124 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [Without You](https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8), [Kerry Leatham](https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc) | [Nostalchic](https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV) | 5:26 | 2022-08-22 | 2023-03-09 |
 | [you not the same](https://open.spotify.com/track/4txrAyGAWA9JqZzoNHiPRh) | [TileKid](https://open.spotify.com/artist/7HaSqpaqnOWSaqvezpdhX4) | [you not the same](https://open.spotify.com/album/2oWrvVt4fIMO5DEHXSUrhS) | 2:08 | 2022-08-22 |  |
 | [You'll Never Know](https://open.spotify.com/track/7kQkgdg6nDVEzeJptMVbGT) | [Dick Haymes](https://open.spotify.com/artist/3BiJGZsyX9sJchTqcSA7Su) | [Stardust](https://open.spotify.com/album/5jer5YmDswO7lNWHeWwD5x) | 2:45 | 2022-08-23 | 2023-01-05 |
-| [\~](https://open.spotify.com/track/1y1K06GfEtjeK18Xb0JeCm) | [Happy Trendy](https://open.spotify.com/artist/00YWLzRZ0M94JxM8j3ptjZ) | [Die Young](https://open.spotify.com/album/3TRqSZyvWgGlxi08PolBk1) | 2:06 | 2022-09-20 |  |
+| [\~](https://open.spotify.com/track/0QWf3gtoyp5FwaKh43nMBf) | [Happy Trendy](https://open.spotify.com/artist/00YWLzRZ0M94JxM8j3ptjZ) | [Die Young](https://open.spotify.com/album/2FyZYXJoYsdHy6AN9iqfGs) | 2:06 | 2022-09-20 |  |
+| [\~](https://open.spotify.com/track/1y1K06GfEtjeK18Xb0JeCm) | [Happy Trendy](https://open.spotify.com/artist/00YWLzRZ0M94JxM8j3ptjZ) | [Die Young](https://open.spotify.com/album/3TRqSZyvWgGlxi08PolBk1) | 2:06 | 2022-09-20 | 2023-05-01 |
 | [‎‎‎](https://open.spotify.com/track/2xGX9859UkwGWqLf9FqF69) | [Iwakura](https://open.spotify.com/artist/1D9SrXAj9dz5sbqB12W1uv) | [‎‎‎](https://open.spotify.com/album/1BjptJhBoyxXfqcbu99aU5) | 3:02 | 2022-11-09 | 2022-12-17 |
 | [☆メニュータイプチェンジ☆](https://open.spotify.com/track/7c3lk5GwSyJfaxG6wdW4Wv) | [Kikiyama](https://open.spotify.com/artist/0dQ0dD0KCz1GVkTG55XXWc) | [ゆめにっき サウンドトラック ゆめのおと 2](https://open.spotify.com/album/6LaAI9SPVmQc8cLa6zp8dN) | 1:02 | 2022-09-20 |  |
 | [さむくてあったかい、ふゆ〜雪の世界〜](https://open.spotify.com/track/6DKY3Be7mWP65FodxRnNZ3) | [Kikiyama](https://open.spotify.com/artist/0dQ0dD0KCz1GVkTG55XXWc) | [ゆめにっき サウンドトラック ゆめのおと 1](https://open.spotify.com/album/21vq7ID9n1HoJkuq0c4UAT) | 1:00 | 2022-08-22 |  |

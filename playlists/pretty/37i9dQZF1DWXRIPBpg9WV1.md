@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 
 > Relax and unwind with gentle guitar covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,951 likes - 188 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,079 likes - 188 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 | 187 | [Take Me To Church](https://open.spotify.com/track/7cU8rok575Qhf3SkhMb670) | [6 strings Guy](https://open.spotify.com/artist/195Dns39hXiNuoATNy03T1) | [6 strings Guy](https://open.spotify.com/album/1TXKVK2Ss0EgQkGg1mEJAe) | 3:54 |
 | 188 | [Hallelujah](https://open.spotify.com/track/0pt4S6qXybR7reJW8AfEka) | [Eddy Tyler](https://open.spotify.com/artist/7KT0K9Jyst149sFJoP4s3D) | [Guitar Instrumental Covers](https://open.spotify.com/album/11AG80Bq1aK3OldgwCYw4g) | 5:01 |
 
-Snapshot ID: `MCwzNTk1YjBlZDUzZmQxMGQxYmRjMzIzNmE5MTQyNTQyYjYzZTdhZTky`
+Snapshot ID: `MCxlNjI0YmU0NjJjNTIyNTA3ZTY5ZjNjMDgyOTcwZmVmZGMxMzljYmQ4`

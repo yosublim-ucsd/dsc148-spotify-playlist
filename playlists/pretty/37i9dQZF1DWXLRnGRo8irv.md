@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국 여성 아티스트들의 음악을 즐겨보세요! \(커버: NMIXX\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,912 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,913 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 49 | [Vein \- 2023 BAND VERSION](https://open.spotify.com/track/2atbd5rnb7DEHzAh2R5AP8) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [SWIPE ME RIGHT \(2023 BAND VER.\)](https://open.spotify.com/album/7pbUMHC83x9AUtsYYEC5Sc) | 4:15 |
 | 50 | [Tinder \- 2023 BAND VERSION](https://open.spotify.com/track/4WC66QqUDalRIb2n5jGLL7) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [SWIPE ME RIGHT \(2023 BAND VER.\)](https://open.spotify.com/album/7pbUMHC83x9AUtsYYEC5Sc) | 2:21 |
 
-Snapshot ID: `MCwzMDFlY2I3N2MwODUyMjA3ZjBmOTNjMWVlNmY5MDk3MGY2ZjE5NzU1`
+Snapshot ID: `MCwyMjJjOWI4OWQ3NWI4ZGYzMmFjM2M0OThlYjUwOWE3MGIwMWZmZjM5`

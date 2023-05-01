@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Poslechněte si ženy z Česka a Slovenska na plnou hlasitost\. Cover: Laura Weng
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,493 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,496 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 49 | [Different Kind](https://open.spotify.com/track/6pUQYrkUf9G8MXdEMOW4pr) | [Nikita Kingston](https://open.spotify.com/artist/3AQCll40tEdIjzCdEOQHXQ) | [Different Kind](https://open.spotify.com/album/3eAjTqG1LTOQMsJxQezFmh) | 3:12 |
 | 50 | [Pohoda jazz](https://open.spotify.com/track/76FKtbVayqE0BXUCm2j0rm) | [Naty Hrychová](https://open.spotify.com/artist/3IdBTyWXb31wzm0OYIZVP3) | [Pohoda jazz](https://open.spotify.com/album/3IrYmzYAiUT9C6JkzdDmp3) | 3:04 |
 
-Snapshot ID: `MCwxMzZhOTJjNGFjNWE3OWU5ZTNlNmVhNjBkZWRlYzg2YmZkZjgyYjc4`
+Snapshot ID: `MCwyZDQ0NmI0YzgxMjU4Njg4MjU1NGYwZWU0ZmYwZGNiZDYyMmJlYWFm`

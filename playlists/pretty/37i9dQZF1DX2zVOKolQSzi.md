@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zVOKolQSzi.md) - [plain]
 
 > The best and finest '10s Funk\. Cover: Pharrell Williams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,467 likes - 73 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,509 likes - 73 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zVOKolQSzi.md) - [plain]
 | 58 | [Believe It When You See It](https://open.spotify.com/track/3uJ7YB1zCQH0Y49sd5t1hq) | [Doctorfunk](https://open.spotify.com/artist/00CEG7nPO88zFNuFL2Rz1L) | [Second Opinion](https://open.spotify.com/album/4pR78haiOUY4q8NDeXY5Qd) | 5:48 |
 | 59 | [City Heights](https://open.spotify.com/track/16Hj0P5jkxkhRMkL1Spz3Y) | [The Sure Fire Soul Ensemble](https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ) | [The Sure Fire Soul Ensemble](https://open.spotify.com/album/6xX9JoQh6kquEkXmudqfO3) | 3:43 |
 | 60 | [Jax](https://open.spotify.com/track/39PRMLzu72Nz6lSOCF3bWN) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [The Optimist](https://open.spotify.com/album/0A8cq3cjiMMP8lI1SeG4GN) | 4:12 |
-| 61 | [Got to Get Back to My Baby](https://open.spotify.com/track/6vpKIo2WYaW8g0VpZJExAK) | [The Sugarman 3](https://open.spotify.com/artist/4yGIAU59dDaVaXMDkicnlF) | [What the World Needs Now](https://open.spotify.com/album/34dJNulqKbwcc2TWlIL7s5) | 4:40 |
+| 61 | [Got to Get Back to My Baby](https://open.spotify.com/track/4qVuHS2Nun39a8JrI5d5GD) | [The Sugarman 3](https://open.spotify.com/artist/4yGIAU59dDaVaXMDkicnlF) | [What the World Needs Now](https://open.spotify.com/album/7oDpEW7JWKOaNwipCfD1uK) | 4:40 |
 | 62 | [Cory Wong](https://open.spotify.com/track/1L9qsoNnyT3r8fgr2Pr7Ty) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [The Beautiful Game](https://open.spotify.com/album/7sRNEe2FCkTYhrEimChdkC) | 4:06 |
 | 63 | [Down Frenchmen St](https://open.spotify.com/track/7ofSPPgO1q41e6qTdL29U8) | [The Filthy Six](https://open.spotify.com/artist/1AiQK5vJEjhf6pFcWs5nWp) | [The Fox](https://open.spotify.com/album/6jNDtYJlpZtqjEqc0a3I9J) | 5:57 |
 | 64 | [Back Seat Lover](https://open.spotify.com/track/6cuQsekkJ92W3bXwObcUth) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Where Does This Door Go \(Deluxe Edition\)](https://open.spotify.com/album/4FF4II3GGoTuYRW3zenamA) | 3:51 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zVOKolQSzi.md) - [plain]
 | 72 | [That's What I Like](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:26 |
 | 73 | [It's Gonna Rain](https://open.spotify.com/track/58gPIRzKQteZDwUQKQAj0q) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Resistance](https://open.spotify.com/album/1XqtSROG7PSVbfJqeAqJ9D) | 5:07 |
 
-Snapshot ID: `MCxmOTg2MGJlYmNjNTQ0MjYwOTBiYjllM2NmNWM3MGEzY2UxYmJjYWRj`
+Snapshot ID: `MCwwNzE1N2M1MDRmOGIzY2IwM2U4ZmY2OGMyZWM2Njc5Nzk4MjVlYjNj`

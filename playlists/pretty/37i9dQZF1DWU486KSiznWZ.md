@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 
 > اكتشفوا أفضل الاغاني الخليجية <br/>الغلاف:عبد المجيد عبدالله
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,921 likes - 43 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,023 likes - 43 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 | 42 | [Elhubb Ja](https://open.spotify.com/track/6dNsnqDf8c5aBUZW7V2Oqh) | [Salah Alzadjali](https://open.spotify.com/artist/5B14NO9B5J7hKVfyttzrpH) | [Elhubb Ja](https://open.spotify.com/album/42tevSQ1DPLBGr8BgQfh3e) | 4:36 |
 | 43 | [6Air Elma7abba](https://open.spotify.com/track/1uLo7VvVInEf4mG1ne1GH8) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [6air Elma7abba](https://open.spotify.com/album/51iqAWJczGv01DPAdNCU0B) | 5:19 |
 
-Snapshot ID: `MCwxY2JiMWVkNGMwNjgwOGJjMzhlNTc2NjY3ZTA3NDE3NWU3ZDJkMWE0`
+Snapshot ID: `MCw5NjgwYjM4NzJmMzQ0NzFjZjY1YTNmYTJhYjdmNzRjZjQ2Y2M4NWU3`

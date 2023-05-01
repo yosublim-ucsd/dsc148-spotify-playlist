@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Vale Pain, Shiva, Medy, MV Killa e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,315 likes - 87 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,339 likes - 87 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 4 | [TRAPHOUSE \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/6WuGf5uKp3zOEv70OuErP7) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Sine](https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n) | [VIRUS](https://open.spotify.com/album/1sLrrbc4ZAivtSdEApAi3q) | 2:32 |
 | 5 | [FILOSOFIA DEL FUCK\-OFF](https://open.spotify.com/track/6NyQhir8AR86GCz8Y0KDHZ) | [Articolo 31](https://open.spotify.com/artist/1Ij5ZIGlPTkoZibay58zHe) | [FILOSOFIA DEL FUCK\-OFF](https://open.spotify.com/album/2HdnTWWNsUCYkKSl8C9mmV) | 3:00 |
 | 6 | [Quarto di Bue](https://open.spotify.com/track/2EE4ytQ5LpuyIjDircmLzQ) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [Quarto di Bue](https://open.spotify.com/album/2cYiDWSENKod8Ht0C13Bya) | 1:46 |
-| 7 | [Diario del Bando 2](https://open.spotify.com/track/3stZIWWtwMg8JxBgT12YMP) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1) | [Diario del Bando 2](https://open.spotify.com/album/5MTUG1xRqcYHxuxHrS8Yr8) | 2:43 |
+| 7 | [Diario del Bando 2](https://open.spotify.com/track/3stZIWWtwMg8JxBgT12YMP) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Diario del Bando 2](https://open.spotify.com/album/5MTUG1xRqcYHxuxHrS8Yr8) | 2:43 |
 | 8 | [Moped](https://open.spotify.com/track/6P7sMzrgLb3JGOLHUCPsUh) | [2Rari](https://open.spotify.com/artist/70WMQrrPQeYY9JaPVx1nWf) | [Moped](https://open.spotify.com/album/2aPFHvvfAtAfDXtQ5jHNxS) | 2:14 |
 | 9 | [Z4 \(don't play\)](https://open.spotify.com/track/0xrwA0Ww9aHqitSzxBJ858) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU) | [Z4 \(don't play\)](https://open.spotify.com/album/0SQQWjkyt1DtDIUhA8AxhP) | 2:20 |
 | 10 | [Mentalité RMX \(feat\. KALIM\)](https://open.spotify.com/track/6B9Gb4RWUDd6mZKHGANt7d) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z) | [Mentalité RMX \(feat\. KALIM\)](https://open.spotify.com/album/3xsPQLTi1UWkSSr3d69GjS) | 3:38 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 86 | [Penso a te](https://open.spotify.com/track/0SiygWBzCOeItYAjC3ZDVh) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp), [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Penso a te](https://open.spotify.com/album/6ajL0vtyiiqofQdvt0u7RO) | 2:03 |
 | 87 | [Affari](https://open.spotify.com/track/20lkVupovafdaIZEJMM20s) | [Faith](https://open.spotify.com/artist/6Dy0TeCFQtJgA3RaC0EBrw) | [Affari](https://open.spotify.com/album/6EM7DUS1bpMYORVrTjszLp) | 2:43 |
 
-Snapshot ID: `MCwwOGNhMDQ5NDlhMjNjMmQzNzhjYTJlZjMyYWQyMjdlMTI0NmY4Zjg1`
+Snapshot ID: `MCxhZGIzNzkzOWRmNjFhZTljNWM0ZTg4Mjc5NzM2OTU0Nzc4ZDYwOTg1`

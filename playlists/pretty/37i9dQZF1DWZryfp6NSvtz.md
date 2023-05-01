@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Movements
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,936 likes - 52 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,000 likes - 52 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 48 | [Animal](https://open.spotify.com/track/0Z3vSiCNFN7FESRWzP7CWd) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [Animal](https://open.spotify.com/album/1uzhNEYp4kM2OGR8danu44) | 3:59 |
 | 49 | [All The Problems](https://open.spotify.com/track/0yMBgZk0AkUKBqx4noEW19) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [All The Problems](https://open.spotify.com/album/5tApkeDzogxfZB7DOoukd2) | 2:56 |
 | 50 | [All I See](https://open.spotify.com/track/2JzsLJ5mrQWLev9ylH29hA) | [Girl and Girl](https://open.spotify.com/artist/6tRT8DibGiNSkXViROkIBn) | [All I See](https://open.spotify.com/album/2SU5YfNzIJXWAy7ZqAG6uw) | 3:46 |
-| 51 | [Knucklen](https://open.spotify.com/track/0N7jjU4Bhqr2L2TYcOmTrg) | [Country Westerns](https://open.spotify.com/artist/2OwWrhaP4RycOww0FursPt) | [Knucklen](https://open.spotify.com/album/1IMKqt4SPBPyK4EMu0gS5P) | 2:27 |
+| 51 | [Knucklen'](https://open.spotify.com/track/6gDl07mqToOH2vG1QN1dj9) | [Country Westerns](https://open.spotify.com/artist/2OwWrhaP4RycOww0FursPt) | [Forgive the City](https://open.spotify.com/album/5Cjg2NBzIxZqSpehkmPEH9) | 2:27 |
 | 52 | [Wakey Wakey](https://open.spotify.com/track/17ivxMwaJ6I7vyDdYDxjxT) | [Dolo Tonight](https://open.spotify.com/artist/3ED1AG2E67Epo3MBFVOFj9) | [Wakey Wakey](https://open.spotify.com/album/7hvyAA9FIgFRV0QhNWS8sT) | 2:13 |
 
-Snapshot ID: `MCwxYmEwOGE1NGVmNzBmOTE2NjFhOTczMzA4YmU3YjVjNGE1Y2Y1NTlm`
+Snapshot ID: `MCxkOWEyMjc4ZWIxYWYxZDE3ZGY2YWEzN2EzOGVjMzJlZDUxNjcxNDQ3`

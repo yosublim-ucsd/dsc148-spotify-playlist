@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: BENEE & Gus Dapperton
 
-1,624 songs - 3 day 10 hr 40 min
+1,625 songs - 3 day 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [barcelona](https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [barcelona](https://open.spotify.com/album/2JmYpDJ7VKacfW1bwAJbqU) | 2:55 | 2022-05-06 |  |
 | [Basement Party](https://open.spotify.com/track/3bL9oOZNpzrsNCYs2YgeEM) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [Basement Party](https://open.spotify.com/album/20azjqHfH8AlPwwchnSLMw) | 1:56 | 2022-11-11 | 2022-11-27 |
 | [batman](https://open.spotify.com/track/3AqM4BZgbOgNIrGQslY2fa) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [batman](https://open.spotify.com/album/0UKYBwb2EobiKlYAvQRxTN) | 2:07 | 2021-08-19 | 2021-11-13 |
-| [bc i love you](https://open.spotify.com/track/5e9rdslPa2td9w8vUFAKuM) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [bc i love you](https://open.spotify.com/album/0ljb5hKxb4fPvbGP2v2ZfF) | 3:57 | 2023-04-28 |  |
+| [bc i love you](https://open.spotify.com/track/5e9rdslPa2td9w8vUFAKuM) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [bc i love you](https://open.spotify.com/album/0ljb5hKxb4fPvbGP2v2ZfF) | 3:57 | 2023-04-28 | 2023-05-01 |
 | [Be Around Me \(feat\. chloe moriondo\)](https://open.spotify.com/track/1sAJUJmcOsNInG1ieWfke5) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Be Around Me \(feat\. chloe moriondo\)](https://open.spotify.com/album/6kmWZQIEwKZKCE1KEmmGqp) | 3:01 | 2021-02-20 | 2022-01-08 |
 | [Be Fine \(feat\. Wafia\)](https://open.spotify.com/track/5jR7e3KPKVq54PC63Bcgky) | [Ekali](https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd), [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Be Fine \(feat\. Wafia\)](https://open.spotify.com/album/3hLXUQ4xaskr2YFE00DUfe) | 2:39 | 2019-09-29 | 2021-05-14 |
 | [Be Real](https://open.spotify.com/track/4PEbNdnFtpko90iC0W9I2u) | [Rasmus Faber](https://open.spotify.com/artist/6cdmYp8fPQYDIU1l1Sqt8X), [Metaxas](https://open.spotify.com/artist/1zmqovKSBNOtEdrDuXDmR9) | [Be Real](https://open.spotify.com/album/2iLNcOmOJUG69SlGv5PSZz) | 3:46 | 2019-05-26\* | 2019-08-13 |
@@ -973,6 +973,7 @@
 | [Mrs\. Hollywood](https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Mrs\. Hollywood](https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59) | 2:23 | 2023-04-07 |  |
 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 | 2022-10-28 |  |
 | [My Bed](https://open.spotify.com/track/4w7hfP5OC7L8JqTNYvyneq) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell \(Deluxe\)](https://open.spotify.com/album/5kmXkrUWjJfIEV5v2tzlTn) | 2:44 | 2022-12-16 |  |
+| [My Body](https://open.spotify.com/track/5kcWZ1cPvyVpSR6gycY0CH) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [My Body](https://open.spotify.com/album/2xuebkXnp2jQyT2Ml3LF32) | 2:00 | 2023-04-28 |  |
 | [MY FAVORITE SONG](https://open.spotify.com/track/24XNbv00pqhodOI2473wTs) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [MY FAVORITE SONG](https://open.spotify.com/album/5RMb4MqLgLBjUzNDzyh0wT) | 2:39 | 2023-04-28 |  |
 | [my fuckin birthday](https://open.spotify.com/track/5I6VzAAwuPtbHmnwODDb50) | [sreedhanya](https://open.spotify.com/artist/7Lp4zS3we1Dwh1dqMD0GEO) | [my fuckin birthday](https://open.spotify.com/album/3qLe2UuUhONvPtMBBe0W1u) | 1:54 | 2022-02-04 | 2022-06-07 |
 | [My Girl](https://open.spotify.com/track/5aMYIxnTTVIGxdey7ULrRL) | [Oshi](https://open.spotify.com/artist/4mAhA39Nr2uEIbQoC3yxOs) | [My Girl](https://open.spotify.com/album/4voikfQLmfd122fTT7rgGC) | 3:35 | 2021-09-10 | 2022-01-29 |

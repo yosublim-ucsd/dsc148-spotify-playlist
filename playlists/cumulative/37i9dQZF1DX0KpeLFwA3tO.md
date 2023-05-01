@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Rancid
 
-1,020 songs - 2 day 3 hr 1 min
+1,021 songs - 2 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1022,7 +1022,8 @@
 | [You Don't Know](https://open.spotify.com/track/6YmDcqO9H259HAakFwP64w) | [Topsy Turvy's](https://open.spotify.com/artist/1uFRoP0MCfPkKzA5usrdQn) | [You Don't Know](https://open.spotify.com/album/5XYICzIxzSs9wQnBUveDiO) | 3:03 | 2022-11-11 | 2023-02-17 |
 | [YOU DONT EVEN SURF HERE](https://open.spotify.com/track/1bP1YIIORwvDEFx9hPEBzc) | [Destructo Disk](https://open.spotify.com/artist/2kc0DEfYci8CKkvQmnivj9) | [YOU DONT EVEN SURF HERE](https://open.spotify.com/album/7Jq8Qi0zcMMUsUf7NfrcyT) | 2:34 | 2022-02-04 | 2022-03-18 |
 | [You're Gonna Realise](https://open.spotify.com/track/0QyMuaMBrpFiIBM4KPclO4) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [You're Gonna Realise](https://open.spotify.com/album/1oGwGvoSddgzKHzmBkWDdc) | 2:36 | 2023-04-20 | 2023-04-22 |
-| [You're Gonna Realise](https://open.spotify.com/track/7rl04qYTJiJMxraX7XVnHp) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [You're Gonna Realise](https://open.spotify.com/album/0KlpemBJ3GoWxX9mbeL18K) | 2:36 | 2023-04-20 |  |
+| [You're Gonna Realise](https://open.spotify.com/track/7r9xmkpp6bsnu3u3RKfvgR) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Darkadelic](https://open.spotify.com/album/2rma9aGjjJA92SejJsKaSp) | 2:36 | 2023-04-20 |  |
+| [You're Gonna Realise](https://open.spotify.com/track/7rl04qYTJiJMxraX7XVnHp) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [You're Gonna Realise](https://open.spotify.com/album/0KlpemBJ3GoWxX9mbeL18K) | 2:36 | 2023-04-20 | 2023-05-01 |
 | [you're not special](https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [you're not special](https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC) | 2:46 | 2022-07-14 | 2022-09-09 |
 | [You've Won](https://open.spotify.com/track/3p9ZAIfZN9rBPlJfCc5yo7) | [7evin7ins](https://open.spotify.com/artist/4Nr6sbnl0dWasnapIxS92I) | [You've Won](https://open.spotify.com/album/4GyKyaMWBVON06i7eMvqyv) | 2:12 | 2021-12-17 | 2022-01-15 |
 | [Your Love Was My Drug Too](https://open.spotify.com/track/2ZowBjrBKqgvAM7l7qrGaG) | [Dallas](https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8) | [Your Love Was My Drug Too](https://open.spotify.com/album/6EuadnZ9ia3u6afdV6JDD5) | 3:06 | 2022-10-13 | 2023-01-20 |

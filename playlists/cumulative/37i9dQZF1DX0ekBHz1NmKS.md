@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-695 songs - 1 day 12 hr 47 min
+696 songs - 1 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Carefree \- Spotify Studio Oyster Recording](https://open.spotify.com/track/6hVWQIhhwl9JDgVIjTIgRw) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Carefree \(Spotify Studio Oyster Recording\)](https://open.spotify.com/album/0BJEn3fu5A8BYV7VQeod0R) | 3:35 | 2021-12-16 | 2022-01-31 |
 | [Caroline](https://open.spotify.com/track/6oYf0YzUrchNMmrWQKm3pT) | [Brother Leo](https://open.spotify.com/artist/4FEOZMbo7XIdGHVrrioAP6) | [Caroline](https://open.spotify.com/album/37gSumssSDy77aX3Yrztzx) | 2:36 | 2022-05-05 | 2022-07-29 |
 | [Cause In The End You Know That Everybody Dies](https://open.spotify.com/track/2KnhQusDtv6RVE9iJXiYyE) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO), [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Cause In The End You Know That Everybody Dies](https://open.spotify.com/album/59Qf8zRZswDDDscEQhwSWM) | 3:33 | 2022-02-17 | 2022-09-16 |
-| [Champagne](https://open.spotify.com/track/2lIwPTpd2fhRq31jtFNBq1) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Champagne](https://open.spotify.com/album/0ph8WJ9gZSGnimj8QVkf6k) | 3:30 | 2022-04-22 |  |
+| [Champagne](https://open.spotify.com/track/2lIwPTpd2fhRq31jtFNBq1) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Champagne](https://open.spotify.com/album/0ph8WJ9gZSGnimj8QVkf6k) | 3:30 | 2022-04-22 | 2023-05-01 |
 | [CHAMPION](https://open.spotify.com/track/2kd7MZ2LjqgEFWhtrLYKxC) | [Anna Sahlene](https://open.spotify.com/artist/4dNOj2smSK7guw4JeUW1uW) | [CHAMPION](https://open.spotify.com/album/4WEHQE9E7Mit4xhiDVelnC) | 3:01 | 2022-01-13 | 2022-04-02 |
 | [Champion](https://open.spotify.com/track/2XvvNyH2WkQjfpdkc8Lf5B) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [Champion](https://open.spotify.com/album/6yZ6emVn0iq4PG0pKKymVk) | 3:30 | 2022-11-04 | 2023-01-28 |
 | [Change](https://open.spotify.com/track/6CK581mr24h7z7bFpwhHmm) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Change](https://open.spotify.com/album/2hxKPuoKlnH6ZMInQ3Xg9x) | 3:42 | 2021-12-16 | 2022-03-11 |
@@ -539,6 +539,7 @@
 | [Smile](https://open.spotify.com/track/3OUlwrGsM6xGuA66YVpeGT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Smile](https://open.spotify.com/album/24quzyKLUAsPgZXsZXQdky) | 3:12 | 2021-12-16 | 2022-03-11 |
 | [Smile for You](https://open.spotify.com/track/5g8Blci6F1FQTlHEEt6xUo) | [Vicki Vox](https://open.spotify.com/artist/7cPHWzJNSiVkCenk3nxQdJ) | [Smile For You](https://open.spotify.com/album/0JVEngez3de3wsfiUdLNvk) | 2:51 | 2022-03-10 | 2022-04-01 |
 | [Smärtsamma minnen](https://open.spotify.com/track/5aN4JPW9GD5TNjKnGjB09w) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Smärtsamma minnen](https://open.spotify.com/album/0YlLdI5yimLSxC4s0437hx) | 3:24 | 2022-09-08 | 2022-10-07 |
+| [Små bäckar, stora floder](https://open.spotify.com/track/1PHLVlH4ehdonWo8Xwupro) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Poetiska försök](https://open.spotify.com/album/0DYbe7sRI3D12rwIMqlyGu) | 5:44 | 2023-04-27 |  |
 | [Snooze](https://open.spotify.com/track/3WYeza72Tw4pyEZ6T1jEwC) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Snooze](https://open.spotify.com/album/1MwYzLeYyefz3708ObaTnD) | 3:18 | 2021-12-16 | 2022-03-01 |
 | [Snälla bli min \- Spotify Studio It's Hits Recording](https://open.spotify.com/track/1ZJdjsCEdolnRN83W9dWiX) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Snälla bli min \- Spotify Studio It's Hits Recording](https://open.spotify.com/album/4lb6TvMkq5XG77Vdydcy4a) | 2:38 | 2021-12-16 | 2022-03-11 |
 | [So Alive](https://open.spotify.com/track/6jYqBYYrk4oRdPirwCPYlz) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [I Still Hide](https://open.spotify.com/album/3hhlscP3tUgIgdNW198tHl) | 3:29 | 2021-12-16 | 2022-03-31 |

@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Knox
 
-1,380 songs - 3 day 0 hr 25 min
+1,381 songs - 3 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -825,7 +825,8 @@
 | [My Name \(In Your Mouth\)](https://open.spotify.com/track/0kwM0tnvUAFrOim4oQ7YXh) | [John Harvie](https://open.spotify.com/artist/6kTaghFWmvBbtenJUJks6h) | [My Name \(In Your Mouth\)](https://open.spotify.com/album/3ECvrh6p1TrW3OGBdJhqil) | 2:02 | 2022-02-25 | 2022-04-16 |
 | [My Silhouette](https://open.spotify.com/track/2hzhUExoGQVQOX6n4gkLpl) | [James and the Cold Gun](https://open.spotify.com/artist/5YFIVhzlaYH9Yadjw9gSUx) | [My Silhouette](https://open.spotify.com/album/1GFIlAYVlIONcxA5aOY2HY) | 3:19 | 2023-03-17 | 2023-04-22 |
 | [My Way](https://open.spotify.com/track/7mtnay1VGQQbtOM70HYsV0) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [My Way](https://open.spotify.com/album/3n33udd6pKEdrzahdYzii0) | 2:44 | 2021-11-19 | 2022-01-15 |
-| [My Year \(This Is Going To Be\)](https://open.spotify.com/track/0kg6oQH6oFlw3qJTzSU4mE) | [12 RODS](https://open.spotify.com/artist/4aPT61obombRBkg2Fx69i2) | [My Year \(This Is Going To Be\)](https://open.spotify.com/album/0KzhJE2glINzrNpfRoXjcY) | 3:03 | 2023-04-21 |  |
+| [My Year \(This Is Going To Be\)](https://open.spotify.com/track/0kg6oQH6oFlw3qJTzSU4mE) | [12 RODS](https://open.spotify.com/artist/4aPT61obombRBkg2Fx69i2) | [My Year \(This Is Going To Be\)](https://open.spotify.com/album/0KzhJE2glINzrNpfRoXjcY) | 3:03 | 2023-04-21 | 2023-05-01 |
+| [My Year \(This Is Going To Be\)](https://open.spotify.com/track/7InbD5D74EaymYMIwzs4LL) | [12 RODS](https://open.spotify.com/artist/4aPT61obombRBkg2Fx69i2) | [My Year \(This Is Going To Be\)](https://open.spotify.com/album/3DnuVIeelvxu2wm0wei74W) | 3:03 | 2023-04-28 |  |
 | [Myopic](https://open.spotify.com/track/02PbIkn24emrkP1LDBymUp) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Myopic](https://open.spotify.com/album/3eOLdLhghHk4EUNxrTzt8i) | 2:58 | 2023-03-03 | 2023-04-29 |
 | [Natural Born Killer](https://open.spotify.com/track/78wMThFTNKThsWq19o0F1H) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Natural Born Killer/Pink Lullabye](https://open.spotify.com/album/379z7WiokF2pa4kKUgVjRF) | 3:16 | 2022-06-24 | 2022-10-01 |
 | [Nauseous](https://open.spotify.com/track/3ZvrBVewa8fdjQ8srDvM9R) | [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [Nauseous](https://open.spotify.com/album/4BZPvHTAO5qsC2jViKnEmL) | 3:18 | 2022-11-18 | 2023-01-06 |

@@ -1486,6 +1486,24 @@
     {
       "album": {
         "name": "Live with Norrlandsoperan Symphony Orchestra",
+        "url": "https://open.spotify.com/album/5vqZcipq8arTaPl5ltQWP9"
+      },
+      "artists": [
+        {
+          "name": "Mats/Morgan",
+          "url": "https://open.spotify.com/artist/5GnnGx8nwrkvbrrV5rkrL7"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358333,
+      "name": "Mangko",
+      "url": "https://open.spotify.com/track/0OkWjTKa2YGiviFdAElNO3"
+    },
+    {
+      "album": {
+        "name": "Live with Norrlandsoperan Symphony Orchestra",
         "url": "https://open.spotify.com/album/6a9zOk1U2vz6uowk8Udpja"
       },
       "artists": [
@@ -1496,7 +1514,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 358333,
       "name": "Mangko",
       "url": "https://open.spotify.com/track/6S82yEpaypAVOpE7bs8YDJ"
@@ -1832,6 +1850,24 @@
     {
       "album": {
         "name": "Thanks for Flying With Us",
+        "url": "https://open.spotify.com/album/2ZfTBHRDuwTripKsNZzkKN"
+      },
+      "artists": [
+        {
+          "name": "Mats/Morgan",
+          "url": "https://open.spotify.com/artist/5GnnGx8nwrkvbrrV5rkrL7"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232840,
+      "name": "Propellerh\u00e4st",
+      "url": "https://open.spotify.com/track/7mJ6y6rdy1ivTFp4TceFkd"
+    },
+    {
+      "album": {
+        "name": "Thanks for Flying With Us",
         "url": "https://open.spotify.com/album/3LAXLwubMT3yW1xzY2zD2Y"
       },
       "artists": [
@@ -1842,7 +1878,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 232840,
       "name": "Propellerh\u00e4st",
       "url": "https://open.spotify.com/track/7rQF99EMaFVsbOxNtoo0GH"

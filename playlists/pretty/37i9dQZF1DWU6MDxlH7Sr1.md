@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6MDxlH7Sr1.md) - [plain]
 
 > Soft Jazz in the background of your cocktail party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,963 likes - 154 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,018 likes - 154 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6MDxlH7Sr1.md) - [plain]
 | 153 | [Con Alma](https://open.spotify.com/track/4FavGxmQ0kAjmh8WjN8F0j) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Långholmen Sessions Vol\. 1](https://open.spotify.com/album/2TUvJj2iY6UHIGQCVLtIIe) | 5:30 |
 | 154 | [Cherokee](https://open.spotify.com/track/6iqyiNM3H4OoB7O02IYsVd) | [Grove Street Quartet](https://open.spotify.com/artist/4eMnMIKHP2KiEXc8AjlX3X) | [April In Paris](https://open.spotify.com/album/6pebkNMPXaNerOfuEPp8E8) | 3:19 |
 
-Snapshot ID: `MCwzYTA0YTI5MDU3N2RkOTBlYzc3MWFkYTIzOTJiNDYyNGQ3YzAzNWEx`
+Snapshot ID: `MCwwOGU0MTA2ODAzYzFjYmIyZTc2N2I0NTA4ZDAwMjFhMjFhZDdkZjVm`

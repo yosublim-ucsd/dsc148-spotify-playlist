@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes!
 
-193 songs - 12 hr 28 min
+194 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [Pure Gold](https://open.spotify.com/track/3ZS0ao05ZDmPSO4q1riUf3) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Pure Gold](https://open.spotify.com/album/3zjqX3wVedOOx9yRANaUTS) | 2:49 | 2022-04-28 |  |
 | [Rita Is Gone](https://open.spotify.com/track/4gi81cgaU0Xmek1IuOENM5) | [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [The Marcus King Band](https://open.spotify.com/album/2aV3gQ8recdvTivyl8EFiO) | 4:25 | 2022-12-05 |  |
 | [Rock a Nore](https://open.spotify.com/track/1ZjQEyOASgLvPNL7szbHzU) | [Palm Skin Productions](https://open.spotify.com/artist/36fOUxKPHF3Hi5SsB1T1lY) | [Other Times](https://open.spotify.com/album/18YUMGdFg0I4Lqa491CI7C) | 3:37 | 2022-05-17 | 2022-07-29 |
-| [Rock a Nore](https://open.spotify.com/track/3TmKUdO8IqaN7HPg1k6Y9X) | [Palm Skin Productions](https://open.spotify.com/artist/36fOUxKPHF3Hi5SsB1T1lY) | [Other Times](https://open.spotify.com/album/7yVomkZLlXBcoHMM4bbrbQ) | 3:37 | 2022-07-05 |  |
+| [Rock a Nore](https://open.spotify.com/track/3TmKUdO8IqaN7HPg1k6Y9X) | [Palm Skin Productions](https://open.spotify.com/artist/36fOUxKPHF3Hi5SsB1T1lY) | [Other Times](https://open.spotify.com/album/7yVomkZLlXBcoHMM4bbrbQ) | 3:37 | 2022-07-05 | 2023-05-01 |
+| [Rock a Nore](https://open.spotify.com/track/4XqQQfRdPZUIIv8Sdk6tu3) | [Palm Skin Productions](https://open.spotify.com/artist/36fOUxKPHF3Hi5SsB1T1lY) | [Other Times](https://open.spotify.com/album/3ohrvMpAzpyBa24RvYmCnQ) | 3:37 | 2023-04-20 |  |
 | [Say It](https://open.spotify.com/track/6KFpDUBxj4dQRiBcdpSQvT) | [Papik](https://open.spotify.com/artist/5Wh262aq2cDPRXCljNooc4), [Alan Scaffardi](https://open.spotify.com/artist/77K1Ud04no7BEcBvPbeXMg) | [Say It](https://open.spotify.com/album/2mCFYdV7UuzzmBVSJ0znCr) | 3:29 | 2021-12-13 |  |
 | [Say Something](https://open.spotify.com/track/4nSO7iKiwPj4wJjylLCu0s) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Say Something](https://open.spotify.com/album/4NxOn5zVNIZiLODN8t5hbb) | 2:40 | 2021-12-13 | 2022-04-29 |
 | [Seasons](https://open.spotify.com/track/6bpJeNwIqNb22xu8km0Ok9) | [Astèr Fekre](https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK) | [Seasons](https://open.spotify.com/album/31sPNFRpgyvcJ4sDX5qoqI) | 5:06 | 2022-05-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 
 > no\-clip out of reality
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,878 likes - 83 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,020 likes - 83 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 35 | [The Lobotomy](https://open.spotify.com/track/6U15XUlSWG6RGx4OhAHKHf) | [Maebi](https://open.spotify.com/artist/6tVxgFV9M1sqlTWUnQOhlu) | [The Lobotomy](https://open.spotify.com/album/3U9MYZmNOkSsfgz4OKxHOZ) | 1:07 |
 | 36 | [A Burning Memory](https://open.spotify.com/track/5p6VPBwZsP3q6shk54Jc0n) | [Reece Moseley](https://open.spotify.com/artist/0m2hCGAmJdkSFBXzrD3vNE) | [Mist](https://open.spotify.com/album/73kfSMiQB5qRFkG9Rdvggl) | 3:09 |
 | 37 | [We'll Meet Again](https://open.spotify.com/track/6WdcvzQADmrL8nucimUV6r) | [Vera Lynn](https://open.spotify.com/artist/2rJkmlVHePMo2gk0InTZRS), [Sailors, Soldiers & Airmen of Her Majesty's Forces](https://open.spotify.com/artist/1OOpgf6NT46tOGAgjgZtzl), [Roland Shaw And His Orchestra](https://open.spotify.com/artist/62iRboFRt3fBndcWdXMyL2) | [Silver Memories: Our Vera](https://open.spotify.com/album/79w6b4DZnsVFbHELqs04Do) | 3:03 |
-| 38 | [\~](https://open.spotify.com/track/1y1K06GfEtjeK18Xb0JeCm) | [Happy Trendy](https://open.spotify.com/artist/00YWLzRZ0M94JxM8j3ptjZ) | [Die Young](https://open.spotify.com/album/3TRqSZyvWgGlxi08PolBk1) | 2:06 |
+| 38 | [\~](https://open.spotify.com/track/0QWf3gtoyp5FwaKh43nMBf) | [Happy Trendy](https://open.spotify.com/artist/00YWLzRZ0M94JxM8j3ptjZ) | [Die Young](https://open.spotify.com/album/2FyZYXJoYsdHy6AN9iqfGs) | 2:06 |
 | 39 | [Still Life](https://open.spotify.com/track/69PcaJEZMB3cCfCeRSibj2) | [Sitcom](https://open.spotify.com/artist/1AHWalyPZ4Zx1s7BampY8C) | [Be the One You Love](https://open.spotify.com/album/4vnVALee891bV599C0I6rI) | 3:22 |
 | 40 | [I Don't Want To Set The World On Fire](https://open.spotify.com/track/777zXDJpBufzttU4AJ2dGO) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Anthology](https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN) | 3:01 |
 | 41 | [Nocturne in E\-flat Major, Op\. 9: No\. 2](https://open.spotify.com/track/0SXimxdL7qJcnzv3mAEPPT) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Bo](https://open.spotify.com/artist/7hlTtVz10Vlmp9oDPHwjUE) | [Nocturne in E\-flat Major, Op\. 9: No\. 2](https://open.spotify.com/album/4rJGCE3Njwhqf2eoR2uTgG) | 0:52 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 82 | [White Noiz](https://open.spotify.com/track/3JjXYP1XVbcrFYwgbFsPCZ) | [Akira Yamaoka](https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe) | [SILENT HILL2 \(Original Soundtrack\)](https://open.spotify.com/album/5XjZ6xhbPbALPVGd5Zx0Cw) | 1:23 |
 | 83 | [Outro](https://open.spotify.com/track/21NW7Xx9N01FEqcKZzcmCT) | [Henry Nowhere](https://open.spotify.com/artist/4aftr1UuSVHhP5ISxMoObq) | [Henry Nowhere](https://open.spotify.com/album/5ayz7Qdd4R5OASJ7NE0doo) | 1:02 |
 
-Snapshot ID: `MCxjMmY1NzRmMjU3OTAwZjcxZWU2Y2YyZThiZjdlODIxZjNjM2FlYjJm`
+Snapshot ID: `MCxkN2E0NDE3MTk1NDczNDM5NTkwYmE5N2FhNjM4N2QzOWY1MTQ4OGQ4`

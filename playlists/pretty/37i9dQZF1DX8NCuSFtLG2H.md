@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NCuSFtLG2H.md) - [plain]
 
 > Relax to the sounds of the kora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,530 likes - 111 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,598 likes - 111 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NCuSFtLG2H.md) - [plain]
 | 95 | [Kora Duet](https://open.spotify.com/track/0yBlmJ8quqn2KZTxnOfLC6) | [David Gilden](https://open.spotify.com/artist/6FFApFNe3mmAvVlIU73G2s) | [Ancestral Voices](https://open.spotify.com/album/0eaJcW1j4vx8x83o4U73wu) | 2:25 |
 | 96 | [Debe](https://open.spotify.com/track/3SYhGK2d8LAkhNCFtOfv0c) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [In the Heart of the Moon](https://open.spotify.com/album/1tSY0PB7uHvKhnEnjJQXLX) | 4:53 |
 | 97 | [Don't Pretend](https://open.spotify.com/track/7lJkcFVCflXpYUL0Vvc50t) | [Yacouba Sissoko](https://open.spotify.com/artist/5AFOBMdVFA8785NYQtWiad) | [Siya](https://open.spotify.com/album/1T7Y2XS0DCAgUnZjAq7L5R) | 4:44 |
-| 98 | [United Hands \(West African Solo Kora Piece\)](https://open.spotify.com/track/45MCuEKnSf4AOLRmXqQLTd) | [Lamine Cissokho](https://open.spotify.com/artist/4yNX2MT20zgrgvC7rrsFv6), [Manish Pingle](https://open.spotify.com/artist/6IEbzmpRNL3IDQRSOdfUFB) | [New Continents](https://open.spotify.com/album/3AleC0olG2Nolct0kvgPf9) | 4:55 |
+| 98 | [United Hands \(West African Solo Kora Piece\)](https://open.spotify.com/track/0kHNsc2K4vJT8tAHycTGKT) | [Lamine Cissokho](https://open.spotify.com/artist/4yNX2MT20zgrgvC7rrsFv6), [Manish Pingle](https://open.spotify.com/artist/6IEbzmpRNL3IDQRSOdfUFB) | [New Continents](https://open.spotify.com/album/6wmK6pbpRO5cXihbhutedd) | 4:55 |
 | 99 | [Super étoile](https://open.spotify.com/track/2nzHSd02748Zu9eMpkG2Y3) | [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Vincent Ségal](https://open.spotify.com/artist/1DM0tMCA5GRAgG3qLCy67F) | [Musique de nuit](https://open.spotify.com/album/61LMReQLWRBAqRXsuL2mKM) | 3:55 |
 | 100 | [Mineon Ba](https://open.spotify.com/track/318mVHuDh5TgUiPWEngYsx) | [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ) | [The Elements \(Anciennes Mémoires, Nouveaux Récits\)](https://open.spotify.com/album/68BKHJnDhXfqXJ5adNqk70) | 4:12 |
 | 101 | [Kabou](https://open.spotify.com/track/5JhfGNUdmbI23BqJsACxg5) | [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY) | [At Peace](https://open.spotify.com/album/6bkKjwvykGpXwZoBUjmWh1) | 4:17 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NCuSFtLG2H.md) - [plain]
 | 110 | [Toutou Diarra](https://open.spotify.com/track/6jPRIrQI72sXLhLseNwmrf) | [Lamine Cissokho](https://open.spotify.com/artist/4yNX2MT20zgrgvC7rrsFv6) | [Kora +1](https://open.spotify.com/album/62vn052g2TSd9MPGmHwQr1) | 4:18 |
 | 111 | [The Griot](https://open.spotify.com/track/4luLCxFLxKBmyCtHeOvgZO) | [Ravi](https://open.spotify.com/artist/4Jdc5hzHfGwwc7dxquKGso) | [Ravi: African Kora](https://open.spotify.com/album/02Kd5u5BzFZyfQobh3mX47) | 4:32 |
 
-Snapshot ID: `MCwzZDMwOTFjZDMwMjc4YjJlNWE4YzE0Yjk5NTMwZGY1Zjk2ZmRmY2U2`
+Snapshot ID: `MCw3YjVlNTlhODAxZTY3Yjk5ZmFlYWMxYTg5NGViMTU4NmVmODEwMDRj`

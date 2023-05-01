@@ -1,12 +1,12 @@
 {
   "description": "From House & Techno to the spheres of Pop. This playlist features legendary tracks that have been produced on a TR-909 drum machine. Cover: Jeff Mills",
-  "num_followers": 104985,
+  "num_followers": 105159,
   "original_name": "909 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDE0ZWZhZTY4OGMyMDYxMDk3ZDc0ZGIwNTg4MzE5Mjg3OTVhM2Ri",
+  "snapshot_id": "MCxkZmZjOTE2NDNlOWIzY2M0MDJiNzU5Yzk2MDAxZmIxZGRkZTFjYTZl",
   "tracks": [
     {
       "added_at": "2022-09-08 17:19:57",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-09-08 17:19:57",
       "album": {
-        "name": "Ladies And Gentlemen... The Best Of George Michael",
-        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 224933,
-      "name": "Too Funky - Single Edit",
-      "url": "https://open.spotify.com/track/4KjPPpRbthW8dSNdisR2Wi"
-    },
-    {
-      "added_at": "2022-09-08 17:19:57",
-      "album": {
         "name": "Affection (Deluxe)",
         "url": "https://open.spotify.com/album/3jYzTXPBPBeJ0dyzDZAS5g"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 268293,
       "name": "All Around the World",
       "url": "https://open.spotify.com/track/0piPn2zyL4Yi60ml53qNXE"
+    },
+    {
+      "added_at": "2022-09-08 17:19:57",
+      "album": {
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 224933,
+      "name": "Too Funky - Single Edit",
+      "url": "https://open.spotify.com/track/4KjPPpRbthW8dSNdisR2Wi"
     },
     {
       "added_at": "2022-09-08 17:19:57",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-09-08 17:19:57",
       "album": {
-        "name": "Thug World Order",
-        "url": "https://open.spotify.com/album/49MVSncbwoqaflc3rKkOXw"
-      },
-      "artists": [
-        {
-          "name": "Bone Thugs-N-Harmony",
-          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
-        }
-      ],
-      "duration_ms": 318133,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/0UTXxfjK3aLg6YYZ7l6mZI"
-    },
-    {
-      "added_at": "2022-09-08 17:19:57",
-      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
       },
@@ -511,18 +495,18 @@
     {
       "added_at": "2022-09-08 17:19:57",
       "album": {
-        "name": "Homogenic",
-        "url": "https://open.spotify.com/album/0HMsmYvoT1h2x1C4di5faf"
+        "name": "Thug World Order",
+        "url": "https://open.spotify.com/album/49MVSncbwoqaflc3rKkOXw"
       },
       "artists": [
         {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+          "name": "Bone Thugs-N-Harmony",
+          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
         }
       ],
-      "duration_ms": 253200,
-      "name": "Hunter",
-      "url": "https://open.spotify.com/track/3UHuJt2WkLxGdbxn36T9vc"
+      "duration_ms": 318133,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0UTXxfjK3aLg6YYZ7l6mZI"
     },
     {
       "added_at": "2022-09-08 17:19:57",
@@ -539,6 +523,22 @@
       "duration_ms": 198688,
       "name": "Big Fun (Remastered)",
       "url": "https://open.spotify.com/track/0iiQCzqzytQsVmlkGjTGB1"
+    },
+    {
+      "added_at": "2022-09-08 17:19:57",
+      "album": {
+        "name": "Homogenic",
+        "url": "https://open.spotify.com/album/0HMsmYvoT1h2x1C4di5faf"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 253200,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/3UHuJt2WkLxGdbxn36T9vc"
     },
     {
       "added_at": "2022-09-08 17:19:57",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 
 > All live, all jazz\. Cover: Erroll Garner
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,667 likes - 100 songs - 15 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,682 likes - 100 songs - 15 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 9 | [Like Someone in Love \- Live](https://open.spotify.com/track/67yA02XHhn3dPDAvOFHW3T) | [Shirley Scott](https://open.spotify.com/artist/1TnGxyraO6Uyfyt2PuVFvI), [George Coleman](https://open.spotify.com/artist/2bznm4QNyfgutcxCbRAfwH) | [Like Someone in Love \(Live\)](https://open.spotify.com/album/0GpQfoLtICBmlFHvgcIpRH) | 9:55 |
 | 10 | [Exodus](https://open.spotify.com/track/062FRhtHo7W8ZvZUefVIb9) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [In Concert](https://open.spotify.com/album/07fBpu7zIOCeOwCFKoWnu3) | 8:09 |
 | 11 | [But Not for Me](https://open.spotify.com/track/7rfKGmNCu9wK0dfShVcOzt) | [Fred Hersch](https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [But Not For Me](https://open.spotify.com/album/6hOKusm7cMOwYEDyccPull) | 9:32 |
-| 12 | [Variations of a Bloodline \- Live](https://open.spotify.com/track/2usSemKhVAcu6JUcM9UkTB) | [Brian Blade & The Fellowship Band](https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF) | [Variations of a Bloodline \(Live\)](https://open.spotify.com/album/3iD3tUauck969gRVKq4Bt5) | 13:42 |
+| 12 | [Variations of a Bloodline \- Live](https://open.spotify.com/track/2CaSvJjrI52lwbbNwpmc9V) | [Brian Blade & The Fellowship Band](https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF) | [live from the archives \* BOOTLEG JUNE 15, 2000](https://open.spotify.com/album/2hCxogjHMvleKKenbxi9sP) | 13:42 |
 | 13 | [Interlude \- Live \- Montreux Jazz Festival 2004](https://open.spotify.com/track/4sMLaJdIDP9VUQuHngHzjb) | [Chick Corea Elektric Band](https://open.spotify.com/artist/2ReTnNzaUAM6RgKCtlvMPf) | [Chick Corea: The Montreux Years \(Live\)](https://open.spotify.com/album/42fDTeZVyJcVoaKCnqP31t) | 4:31 |
 | 14 | [Mali \(Live\)](https://open.spotify.com/track/7xgveO0ftVy4VcKt6gCGBu) | [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH) | [John Patitucci Trio: Live in Italy](https://open.spotify.com/album/3pxAc3Z4c4RX3y24cHJuA7) | 14:10 |
 | 15 | [All Alone \(Live\)](https://open.spotify.com/track/6ixVVhh46Z9KPe335caMzm) | [Mal Waldron](https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3) | [Searching in Grenoble : The 1978 Solo Piano Concert \(Live\)](https://open.spotify.com/album/7LijvBcp5Kb23YTAVzbGzW) | 6:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 99 | [Sweet Georgia Brown \(Live\)](https://open.spotify.com/track/6ptWwk9T4s1CBWNRV1w975) | [Anat Cohen](https://open.spotify.com/artist/64uVMGwRMxvNbymPIveiZH), [Benny Green](https://open.spotify.com/artist/4g55GmK5iQOyCoDdQCzWKZ), [Peter Washington](https://open.spotify.com/artist/6t5ibafOkoWm4GveO6lBzp), [Lewis Nash](https://open.spotify.com/artist/2v2TVDl1P2YDSy9jXntWFt) | [Clarinetwork: Live at the Village Vanguard](https://open.spotify.com/album/3brnYanZeSKFMtx9JGuqaf) | 7:25 |
 | 100 | [Air Pakistan](https://open.spotify.com/track/3KuhFmxiL8cbFdJs8LobPk) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Live](https://open.spotify.com/album/7EpgY8SeCWDsNAN9rZTOUb) | 9:41 |
 
-Snapshot ID: `MCw1NzIzZTg5OTdmNTc1NzI5NDhjMTk2NTg5MDM1MWQ4NDdkNDQ3MzFi`
+Snapshot ID: `MCw1NjgwYzE5MjhkZmUwMzk3MGI1MGEzODU3NzQ0NDJlZjdhN2RiYjQ1`

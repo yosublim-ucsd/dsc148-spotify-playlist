@@ -4,7 +4,7 @@
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-83 songs - 4 hr 31 min
+84 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Night And Day](https://open.spotify.com/track/39ZjNUQtrNnAFImdzxfwNa) | [Samio](https://open.spotify.com/artist/0kYSqcF80y3iL7leXg9Gt7) | [Candlelight](https://open.spotify.com/album/3tsZCGdzSDK4ertVgrndhh) | 2:56 | 2022-10-27 |  |
 | [On Green Dolphin Street](https://open.spotify.com/track/4ej1jTPGqVOUtpIUcI5eK3) | [Wesley Greene](https://open.spotify.com/artist/75OVR4slFIxd9YM4XPsxFF) | [On Green Dolphin Street](https://open.spotify.com/album/5QH5ucUt4QE6bws2AHNEg5) | 1:51 | 2023-01-26 |  |
 | [On Satie](https://open.spotify.com/track/4FLaCrEr1DnVyprizWg3XF) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [In No Particular Order](https://open.spotify.com/album/6Il6mppb7MylqEi5S3S3mK) | 3:48 | 2022-10-13 |  |
-| [Peace Please](https://open.spotify.com/track/3ff3uqKr2Yqx6nIXH6ZvMC) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Berlin Baritone](https://open.spotify.com/album/2UMdzyw84wCz3gKJtDVNhZ) | 1:28 | 2022-12-01 |  |
+| [Peace Please](https://open.spotify.com/track/3ff3uqKr2Yqx6nIXH6ZvMC) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Berlin Baritone](https://open.spotify.com/album/2UMdzyw84wCz3gKJtDVNhZ) | 1:28 | 2022-12-01 | 2023-05-01 |
+| [Peace Please](https://open.spotify.com/track/3p4dTdErlsSky6T1pBPOnU) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Berlin Baritone](https://open.spotify.com/album/20SPYDVOBZtlUWqzKXUUuv) | 1:28 | 2023-04-27 |  |
 | [Pretty Stars](https://open.spotify.com/track/4iEj3gYqRBz4mSpVGEj0fY) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 3:57 | 2022-10-13 |  |
 | [Rain, Rain](https://open.spotify.com/track/4Dvyyfa93OpZeJ3XgvS84I) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Good Dog, Happy Man](https://open.spotify.com/album/4ICZxA4JmNgkrjT9d30TJX) | 2:45 | 2022-10-13 |  |
 | [Red Sails in the Sunset](https://open.spotify.com/track/04ri8jkQTdZu3zu8ZbKZE8) | [John Pizzarelli](https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf), [John Pizzarelli Trio](https://open.spotify.com/artist/11elWakIc74gxcI5tftMKc) | [For Centennial Reasons: 100 Year Salute to Nat King Cole](https://open.spotify.com/album/0w7OS1dHGc86hVVuVC5y0S) | 3:20 | 2022-10-13 |  |

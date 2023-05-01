@@ -4,7 +4,7 @@
 
 > Chilled instrumentals to get you focused and ready for the day.
 
-106 songs - 6 hr 32 min
+107 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Don't Let Go](https://open.spotify.com/track/6Hd9NrmQESrXDeKrUljmkh) | [Alice In Winter](https://open.spotify.com/artist/6GT9NGuY5ABje2cz3AN5in) | [Don't Let Go](https://open.spotify.com/album/3Oq4xEC1Pw02QzHxNUsaWB) | 4:06 | 2022-07-11 | 2023-02-02 |
 | [Dreamy](https://open.spotify.com/track/4tqAHq4q1M9m9AOhaWqNKn) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Dreamy](https://open.spotify.com/album/0H4NNpH58lgHaM7k8oDQze) | 2:59 | 2023-01-20 | 2023-02-02 |
 | [Dunkel](https://open.spotify.com/track/6tJAzmF4RtGKrnDmfsth1J) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Dobrawa Czocher](https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p) | [Dunkel](https://open.spotify.com/album/0IjrMSrFqbw5VSYsYFh415) | 4:56 | 2022-01-10 | 2022-07-12 |
-| [Earnest Leslye](https://open.spotify.com/track/5RJNXi1qzxp01mX7V1IrvG) | [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [Earnest Leslye](https://open.spotify.com/album/4ofVz6Wz5SqA1aMixm6JVK) | 3:49 | 2022-10-28 |  |
+| [Earnest Leslye](https://open.spotify.com/track/1Hc6eaCHZXbtUl8V8sVUre) | [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [Earnest Leslye](https://open.spotify.com/album/1A76Rz2tsAds0OQCYYrsAY) | 3:49 | 2023-04-21 |  |
+| [Earnest Leslye](https://open.spotify.com/track/5RJNXi1qzxp01mX7V1IrvG) | [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [Earnest Leslye](https://open.spotify.com/album/4ofVz6Wz5SqA1aMixm6JVK) | 3:49 | 2022-10-28 | 2023-05-01 |
 | [Empty City](https://open.spotify.com/track/1xZRY4Gyj5ffsMkWqLZwj1) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [Empty City](https://open.spotify.com/album/62uP1pylQLNpVpphnniEFh) | 3:16 | 2022-01-10 | 2023-02-02 |
 | [Ephemeral](https://open.spotify.com/track/3qU9TqEw19Dfuoz1qIxA13) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [Ephemeral](https://open.spotify.com/album/51sOKju3KDousE3UiEBvV9) | 2:11 | 2023-02-01 |  |
 | [Evening Star \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/track/21Xawha6x2vBekNwyCzMZw) | [Frances Shelley](https://open.spotify.com/artist/0oUU96ZHc648yvAP9JrQ9d), [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [Evening Star \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/album/5EVLlgLBEpVKPuu9LOGeN3) | 4:14 | 2022-07-11 | 2022-10-27 |

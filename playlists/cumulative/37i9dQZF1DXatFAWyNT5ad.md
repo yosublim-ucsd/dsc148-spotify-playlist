@@ -4,7 +4,7 @@
 
 > Let's mix it\. Cover: GAYLE
 
-598 songs - 1 day 7 hr 14 min
+599 songs - 1 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [fall apart \(with glaive\)](https://open.spotify.com/track/6RYlGPwrNuwG8CqIRDYes6) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [fall apart \(with glaive\)](https://open.spotify.com/album/7vAT0ccu9ehuxQnfcCmqCn) | 2:35 | 2022-03-17 | 2022-07-28 |
 | [Falling \- So In Love](https://open.spotify.com/track/3Wxa4sAD07yLRmbHmJn9QF) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [Falling \(So In Love\)](https://open.spotify.com/album/2WKM7bPaS5fiUj3utIac6l) | 3:43 | 2022-03-17 | 2022-07-24 |
 | [Falling Out Without Me](https://open.spotify.com/track/5thiW6TbemZYqew8pnYgLI) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [FIVE V2](https://open.spotify.com/album/7hcRtN78v3VotQfLg4Mqju) | 4:18 | 2022-03-24 | 2022-04-17 |
+| [Father, Son, Holy Ghost](https://open.spotify.com/track/0aJb0z0Izv8Hjr3Oh4nC4Y) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [Father, Son, Holy Ghost](https://open.spotify.com/album/1yYflK4Y3nuKYeA7LyPyhF) | 2:33 | 2023-04-07 |  |
 | [Figure You Out](https://open.spotify.com/track/2bFGGsScXp2Tu10jKMCKO6) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Long Story Short](https://open.spotify.com/album/0fsUPGZdjtXb5F7KJ4FSzk) | 2:43 | 2022-07-07 | 2023-03-18 |
 | [Figure You Out](https://open.spotify.com/track/607gQcVIX3Bx2RWE6iPq64) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Figure You Out](https://open.spotify.com/album/2GzE7rsrSMCswfZ5yiaOkJ) | 2:43 | 2022-03-17 | 2022-07-29 |
 | [First Time](https://open.spotify.com/track/2eFjKl5cyPPYElDByCh6Tb) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [First Time](https://open.spotify.com/album/6GwqbWxgikcrhZn8M2M7sc) | 2:45 | 2022-03-17 | 2022-12-08 |
@@ -565,7 +566,7 @@
 | [ultraviolet.tragedies \(with Terrell Hines\)](https://open.spotify.com/track/2qP3VifO2gnLn7sj5md688) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Terrell Hines](https://open.spotify.com/artist/2jhjHaG1p2SMn6cDyhwhjQ) | [ultraviolet.tragedies \(with Terrell Hines\)](https://open.spotify.com/album/1xeTGwmriV3NHmNgMzvPav) | 2:57 | 2022-03-24 | 2022-04-17 |
 | [Uncharted \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Spotify Singles](https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq) | 3:57 | 2022-03-24 | 2022-04-10 |
 | [Up From A Dream](https://open.spotify.com/track/3MKdPWUmCXymXVGKf2Njdr) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/6NtEjhPWfZcvJQuvjGX4bk) | 3:17 | 2022-03-24 | 2022-04-16 |
-| [ur a <stranger>](https://open.spotify.com/track/4OvlUfaJKuZ9aJVAJWmwyE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:03 | 2022-10-06 |  |
+| [ur a <stranger>](https://open.spotify.com/track/4OvlUfaJKuZ9aJVAJWmwyE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:03 | 2022-10-06 | 2023-05-01 |
 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 | 2022-03-17 | 2022-08-30 |
 | [Velvet](https://open.spotify.com/track/1wwM5H5qpU0PfHEDsFEiJW) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [VELVET](https://open.spotify.com/album/3x2eQlp6uoy5E5uuI1zcdg) | 2:58 | 2022-03-24 | 2022-04-20 |
 | [Vertigo](https://open.spotify.com/track/4N6KMuOIpoCE97UiXOml1S) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [Vertigo](https://open.spotify.com/album/4Ee1r6lPG1neAJZUT6Drz7) | 2:19 | 2022-03-24 | 2022-04-19 |

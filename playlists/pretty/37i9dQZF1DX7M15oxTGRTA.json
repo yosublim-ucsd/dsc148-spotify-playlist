@@ -1,12 +1,12 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 69431,
+  "num_followers": 69542,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDhjOGY5ZmFhODBlZDJhMTA0NTlmNTQwOGYwNmRlOGM4ODI1NDEy",
+  "snapshot_id": "MCxmYWE3YTZlMzgwMDk4YjU2YzAzNjVkMWM0YjY0NzQ1YmM0M2I1Y2Y0",
   "tracks": [
     {
       "added_at": "2023-01-19 17:27:16",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Karyn White",
-        "url": "https://open.spotify.com/album/2Ck4KnfNbVPQqcRkmsDt6F"
-      },
-      "artists": [
-        {
-          "name": "Karyn White",
-          "url": "https://open.spotify.com/artist/5lJBrQQ88JjskJmJeVKX4F"
-        }
-      ],
-      "duration_ms": 347453,
-      "name": "Superwoman",
-      "url": "https://open.spotify.com/track/3bceL3NJmM8sKwr5dyrKAz"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "I've Got So Much To Give",
         "url": "https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 431506,
       "name": "I'm Gonna Love You Just A Little More Baby",
       "url": "https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "Karyn White",
+        "url": "https://open.spotify.com/album/2Ck4KnfNbVPQqcRkmsDt6F"
+      },
+      "artists": [
+        {
+          "name": "Karyn White",
+          "url": "https://open.spotify.com/artist/5lJBrQQ88JjskJmJeVKX4F"
+        }
+      ],
+      "duration_ms": 347453,
+      "name": "Superwoman",
+      "url": "https://open.spotify.com/track/3bceL3NJmM8sKwr5dyrKAz"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Rock Me Tonight",
-        "url": "https://open.spotify.com/album/4S3z4G29Gm2xxkADtVX5IV"
-      },
-      "artists": [
-        {
-          "name": "Freddie Jackson",
-          "url": "https://open.spotify.com/artist/2yaixhgm3yXxjhJAH8SZy3"
-        }
-      ],
-      "duration_ms": 284119,
-      "name": "You Are My Lady",
-      "url": "https://open.spotify.com/track/5MPxgVGxq79wcoNKtlRaTf"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "After 7",
         "url": "https://open.spotify.com/album/3glZbvQfT7BX4Ih3X3y63W"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 275826,
       "name": "Ready Or Not",
       "url": "https://open.spotify.com/track/6AgDFWLbbAt2migXMbrhXT"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "Rock Me Tonight",
+        "url": "https://open.spotify.com/album/4S3z4G29Gm2xxkADtVX5IV"
+      },
+      "artists": [
+        {
+          "name": "Freddie Jackson",
+          "url": "https://open.spotify.com/artist/2yaixhgm3yXxjhJAH8SZy3"
+        }
+      ],
+      "duration_ms": 284119,
+      "name": "You Are My Lady",
+      "url": "https://open.spotify.com/track/5MPxgVGxq79wcoNKtlRaTf"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Ben",
-        "url": "https://open.spotify.com/album/3xo2soey9XEBI5DlmT4KlQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 167386,
-      "name": "Ben - Single Version",
-      "url": "https://open.spotify.com/track/0ZFqB9g2FujbmMSrjqsL3j"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "Unlimited!",
         "url": "https://open.spotify.com/album/65aE9zdkm5FkDhrXozvAux"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 251333,
       "name": "I Want to Be Your Man - Remastered Version",
       "url": "https://open.spotify.com/track/7lJgjvQRJEXcdu19n3Zn5T"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "Ben",
+        "url": "https://open.spotify.com/album/3xo2soey9XEBI5DlmT4KlQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 167386,
+      "name": "Ben - Single Version",
+      "url": "https://open.spotify.com/track/0ZFqB9g2FujbmMSrjqsL3j"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "All In The Name Of Love",
-        "url": "https://open.spotify.com/album/1ciLacI1DyPsAWFW4fCE15"
-      },
-      "artists": [
-        {
-          "name": "Atlantic Starr",
-          "url": "https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm"
-        }
-      ],
-      "duration_ms": 286973,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/5ecomU85GzPgOJZ315oZ88"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "3+3",
         "url": "https://open.spotify.com/album/27eI33obJuyKebMTxAJJam"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 371706,
       "name": "Summer Breeze, Pts. 1 & 2",
       "url": "https://open.spotify.com/track/7wcP2Aa2SliFhwi4SyfvfV"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "All In The Name Of Love",
+        "url": "https://open.spotify.com/album/1ciLacI1DyPsAWFW4fCE15"
+      },
+      "artists": [
+        {
+          "name": "Atlantic Starr",
+          "url": "https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm"
+        }
+      ],
+      "duration_ms": 286973,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/5ecomU85GzPgOJZ315oZ88"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Vicious & Fresh",
-        "url": "https://open.spotify.com/album/7HtRGLzPo0eC2wwPwXoYft"
-      },
-      "artists": [
-        {
-          "name": "Liz Hogue",
-          "url": "https://open.spotify.com/artist/6easnQDujkGyX9coigNSjm"
-        }
-      ],
-      "duration_ms": 357560,
-      "name": "Dream Lover",
-      "url": "https://open.spotify.com/track/6h637gCeeBs6cXYbJKoQZg"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "The Love Songs Collection",
         "url": "https://open.spotify.com/album/2Q8dU9GQEeuZRfJ6gpietG"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 373893,
       "name": "For the Good Times",
       "url": "https://open.spotify.com/track/1lRcKtjXlqcemLvShWPK8C"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "Vicious & Fresh",
+        "url": "https://open.spotify.com/album/7HtRGLzPo0eC2wwPwXoYft"
+      },
+      "artists": [
+        {
+          "name": "Liz Hogue",
+          "url": "https://open.spotify.com/artist/6easnQDujkGyX9coigNSjm"
+        }
+      ],
+      "duration_ms": 357560,
+      "name": "Dream Lover",
+      "url": "https://open.spotify.com/track/6h637gCeeBs6cXYbJKoQZg"
     },
     {
       "added_at": "2023-01-19 17:27:16",

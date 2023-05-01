@@ -6342,7 +6342,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 197498,
       "name": "COMME MOI",
       "url": "https://open.spotify.com/track/6RPqZSIXlEsYqDArWUdly7"
@@ -6976,6 +6976,28 @@
       "duration_ms": 174240,
       "name": "CV (feat. RK)",
       "url": "https://open.spotify.com/track/7cS0iYSpeBa0qxLsXMELC4"
+    },
+    {
+      "album": {
+        "name": "Un peu de moi",
+        "url": "https://open.spotify.com/album/03CXLjZdsRA4eZymG5RhAj"
+      },
+      "artists": [
+        {
+          "name": "Lynda",
+          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
+        },
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166906,
+      "name": "C\u00e2lin (feat. Soolking)",
+      "url": "https://open.spotify.com/track/4pqcE2mKv6aEiDkgtObDJK"
     },
     {
       "album": {
@@ -18665,6 +18687,24 @@
     },
     {
       "album": {
+        "name": "Les brais\u00e9s",
+        "url": "https://open.spotify.com/album/3XJVVUPFnEJxb1bhe1nSQA"
+      },
+      "artists": [
+        {
+          "name": "Elams",
+          "url": "https://open.spotify.com/artist/2IoSLl3tqYMq9DzR0d6NJN"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172373,
+      "name": "Les brais\u00e9s",
+      "url": "https://open.spotify.com/track/3Gjvu9dgeOooeEUhPtPIg5"
+    },
+    {
+      "album": {
         "name": "Les coeurs sur la plage",
         "url": "https://open.spotify.com/album/2WaBxgTnfYlCAeUq4PNnwd"
       },
@@ -24880,7 +24920,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 167346,
       "name": "Personne",
       "url": "https://open.spotify.com/track/2KM5FqdL9I7HI1KAXoVsxK"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Rancid
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,361 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,374 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 2 | ["good guy"](https://open.spotify.com/track/3bfElZNhtvtGvWMVgCBgZK) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | ["good guy"](https://open.spotify.com/album/6bj1lsHiVqvJyqjv7qtrV4) | 3:28 |
 | 3 | [A Kiss for the Whole World x](https://open.spotify.com/track/1LAuVHMWdVkdbNmSVXWw2K) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [A Kiss for the Whole World](https://open.spotify.com/album/5bTSXCOLlIH6gsOvuI3PCI) | 3:31 |
 | 4 | [Coma](https://open.spotify.com/track/0ztuxnri8ShWvmhZkZN9fA) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Coma](https://open.spotify.com/album/2sNqTVi6uSJ99YIjIuiilx) | 3:28 |
-| 5 | [You're Gonna Realise](https://open.spotify.com/track/7rl04qYTJiJMxraX7XVnHp) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [You're Gonna Realise](https://open.spotify.com/album/0KlpemBJ3GoWxX9mbeL18K) | 2:36 |
+| 5 | [You're Gonna Realise](https://open.spotify.com/track/7r9xmkpp6bsnu3u3RKfvgR) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Darkadelic](https://open.spotify.com/album/2rma9aGjjJA92SejJsKaSp) | 2:36 |
 | 6 | [Orbit](https://open.spotify.com/track/659YVcaiUXCKtdizsyHkND) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Orbit](https://open.spotify.com/album/6WnZa9u2hVV2jgPTSelyjX) | 3:32 |
 | 7 | [Poor Boy](https://open.spotify.com/track/07ITRcap7oVcCcfRScfvxX) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Poor Boy](https://open.spotify.com/album/345I2XOebtr1j2UqaGS6FY) | 2:33 |
 | 8 | [Highlight Reel](https://open.spotify.com/track/2Ws0Wb3zbNCjacrn4nHGL7) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Highlight Reel](https://open.spotify.com/album/3qPqqUNcSBocvzi6MXhrtW) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [MADHATTAN](https://open.spotify.com/track/7kGuKjgZvyPTJKwHgnvPw5) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos), [The OBGMs](https://open.spotify.com/artist/3Sp7HTc7BNbSx0SPiHVeRI), [DENZ JUNIOR](https://open.spotify.com/artist/6hiy2sLG05CnoB3Kv7Qeox) | [MADHATTAN](https://open.spotify.com/album/4l9rowUxTu47lnDjI8TDs8) | 1:59 |
 | 100 | [Sad Dumb Game](https://open.spotify.com/track/21IiYgR0LsCZMat4qaeoyD) | [Single Mothers](https://open.spotify.com/artist/2FW1jqwbJgwWT8hTWHgBrq) | [Head Shrunk / Sad Dumb Game](https://open.spotify.com/album/7ikoCgdYh59PwvS3T1BliZ) | 2:19 |
 
-Snapshot ID: `MCxjYzcwMTYzNDUzNWFmOWFmMGZjNDI3NDBhMjUxMTczNzAxYTgzMmZl`
+Snapshot ID: `MCw3ZjNlMDJmNDJhYjYyZGZlZWRmMTM3ODhhOTI0ZmMwNTRjNjkwYWE1`

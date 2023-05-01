@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: NANGA \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,897 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,890 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Zamienię się ciałem](https://open.spotify.com/track/5ZQAGHOk99yQpQ13OhmkCt) | [Justyna Biedrawa](https://open.spotify.com/artist/2jonFoAFilDQI0GmJJu3qE) | [Zamienię się ciałem](https://open.spotify.com/album/43LVdb6KtFcJD0b9fj1MoK) | 3:04 |
 | 100 | [SKÓRA](https://open.spotify.com/track/3HMzMjDKgeO5EGJfgsNQrz) | [KRASTOROCKSTAR](https://open.spotify.com/artist/7s8k81qFCHqXhnsC1x2Jyo), [Białek](https://open.spotify.com/artist/1JyhPB8k3sxZFLmBE7gx3g) | [SKÓRA](https://open.spotify.com/album/1mRHGnEL6S1qd38CSO5Prp) | 2:35 |
 
-Snapshot ID: `MCxjMGYzMjdlZTgwMjM4YzQyMjUxMjhkNWYyMGRlYjYxYWIwMjdhM2E2`
+Snapshot ID: `MCw5ZjU5NGJjODE4MDJkYTAzNTZiMWEwMjliNzA3MDg1MTJmNWM3Zjdm`

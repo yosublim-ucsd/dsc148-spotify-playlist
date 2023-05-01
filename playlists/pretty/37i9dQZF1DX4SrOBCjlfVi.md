@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Coi Leray, Jack Harlow and more\. Cover: G Herbo
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,891 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,945 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Ride Fa Mine \(feat\. Lg Malique\)](https://open.spotify.com/track/1ZDVPL4Xo7amU1xwau9MnC) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [Lg Malique](https://open.spotify.com/artist/3AVhTymLXfDZtJ7EJybv4p) | [Ride Fa Mine \(feat\. Lg Malique\)](https://open.spotify.com/album/7agIKqkg5VdHU1GheLPy7k) | 3:12 |
 | 50 | [They Forgot](https://open.spotify.com/track/3wi1eX69hrWTUXArhA5KeS) | [2FeetBino](https://open.spotify.com/artist/5sw4vau0N1fwalr2ACVN9M) | [They Forgot](https://open.spotify.com/album/3t6d1nnXu0Y8nvvJ2PEnHF) | 2:21 |
 
-Snapshot ID: `MCxlOWViOTAzMTUwZWE5YTU5YTRmZDAxMjk1YWU1MDVkZGI2OTdkMzNi`
+Snapshot ID: `MCw2YTM0MDZkMmJmZDhkNzBmM2NmMWM5MzFlMDEwY2Y0ZDQwNmQ3MmRl`

@@ -479,6 +479,24 @@
     },
     {
       "album": {
+        "name": "Presenting Blind Blake",
+        "url": "https://open.spotify.com/album/2PWkHBhiBe10JBYFYO4kqd"
+      },
+      "artists": [
+        {
+          "name": "Blind Blake",
+          "url": "https://open.spotify.com/artist/6u8rTX0ZMlGnhUUbHmbnrG"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190400,
+      "name": "Hastings Street",
+      "url": "https://open.spotify.com/track/25XUg2FiYvjb7lPtwD786d"
+    },
+    {
+      "album": {
         "name": "Ragtime Guitar's Foremost Fingerpicker",
         "url": "https://open.spotify.com/album/1YLQpIA8TAdpAQapN41BiN"
       },
@@ -490,7 +508,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 193466,
       "name": "Hastings Street",
       "url": "https://open.spotify.com/track/4VPvooErbxiLpiG8TzdTtg"
@@ -530,10 +548,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 344440,
       "name": "Hey Now Baby",
       "url": "https://open.spotify.com/track/3BDE7sDGBihu8EAIE21rto"
+    },
+    {
+      "album": {
+        "name": "The Bach of Rock",
+        "url": "https://open.spotify.com/album/2vBm562DW1TlS5YpGUblKp"
+      },
+      "artists": [
+        {
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344440,
+      "name": "Hey Now Baby",
+      "url": "https://open.spotify.com/track/5IBN7vNGlb3G8E6gV3wBdi"
     },
     {
       "album": {

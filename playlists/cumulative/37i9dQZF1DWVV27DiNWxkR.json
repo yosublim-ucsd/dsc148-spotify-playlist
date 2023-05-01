@@ -1707,6 +1707,24 @@
     },
     {
       "album": {
+        "name": "The Big Black and the Blue",
+        "url": "https://open.spotify.com/album/1uckQCJ7h9TO1h5zrbnX26"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287360,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/0dXGcWTyxjkUhlWgegLmFW"
+    },
+    {
+      "album": {
         "name": "The Big Black And The Blue",
         "url": "https://open.spotify.com/album/5XkXJAOxHjc9Eo3DYG5OR5"
       },
@@ -1736,7 +1754,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 287360,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/7GoMuHEHsiCbe9IZSO6teX"

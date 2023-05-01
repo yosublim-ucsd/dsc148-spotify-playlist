@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7o2Y6TQr9B0ynZGhUDAkyj">Lotic</a>'s favorite tracks\. Updated regularly\. Curated by Lotic\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-136 songs - 7 hr 27 min
+137 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Material Girl](https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Imma Celebrity](https://open.spotify.com/album/1bdjA6LpTF8vkWLK983MRx) | 3:08 | 2022-01-28 | 2022-03-23 |
 | [Messy](https://open.spotify.com/track/5pq9KxaT7igtDLKQqY7Zf1) | [CeeFineAss](https://open.spotify.com/artist/4YktUKrSYzQFSFKAAHMiuh), [CodeBrat](https://open.spotify.com/artist/6s4t5xxW3JTHB8XjEPnVTe) | [Messy](https://open.spotify.com/album/6yxgPeosTcpo8AhTTeNRyU) | 2:04 | 2022-01-21 |  |
 | [Money Can't Buy You Class \- Radio Edit](https://open.spotify.com/track/7N3mPmT65DB8gWhfsXIr9j) | [Countess Luann](https://open.spotify.com/artist/5uWeO2hYqC3UGKPziuTMxF) | [Money Can't Buy You Class](https://open.spotify.com/album/4DLtkhvbsjCT4ww1tvn2Kd) | 3:44 | 2022-01-28 |  |
-| [Must Have Been Good](https://open.spotify.com/track/1tSp478eOOnV76JpnaETag) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Eyeline](https://open.spotify.com/album/0wiBZdQc7wQA1s6oOZmlNx) | 3:30 | 2022-04-22 |  |
+| [Must Have Been Good](https://open.spotify.com/track/0TmdUleVkt3Bq9Pv1uYzw5) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Eyeline](https://open.spotify.com/album/6ijq6xImHU0pCW8Ea9kFL7) | 3:30 | 2022-06-09 |  |
+| [Must Have Been Good](https://open.spotify.com/track/1tSp478eOOnV76JpnaETag) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Eyeline](https://open.spotify.com/album/0wiBZdQc7wQA1s6oOZmlNx) | 3:30 | 2022-04-22 | 2023-05-01 |
 | [Nice Guy](https://open.spotify.com/track/5cThMoFV6XK0xCqEcNg6Jw) | [BbyMutha](https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Muthaland](https://open.spotify.com/album/6TXwuaX600F8N3s6Rpq04m) | 2:14 | 2021-11-16 |  |
 | [No Debate](https://open.spotify.com/track/3xtG9ZIlwhW9nRuq39z0Iw) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nightmare Vacation](https://open.spotify.com/album/0jJEiaA2W9eFhTXC1EGMqG) | 2:13 | 2021-11-16 |  |
 | [No More Same](https://open.spotify.com/track/15bFgYJf6wpM9mnTKgeGpn) | [Kingdom](https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj), [Luck](https://open.spotify.com/artist/7DYPs6H8VJGxvuGu0FaV3M) | [No More Same](https://open.spotify.com/album/1wmCJsqA2jpUpqC8nZKGXn) | 2:58 | 2021-11-16 | 2022-04-23 |

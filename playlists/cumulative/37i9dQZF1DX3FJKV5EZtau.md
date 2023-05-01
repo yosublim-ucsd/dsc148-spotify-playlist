@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-353 songs - 20 hr 24 min
+354 songs - 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Alive](https://open.spotify.com/track/4XmSL1CcNGC6U1t56alzF7) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [Alive](https://open.spotify.com/album/6Rt1ebG0UdXmQRheYmSJyh) | 3:37 | 2022-01-07 | 2022-07-27 |
 | [All Too Much](https://open.spotify.com/track/2A9Vt5Mzf5kuqtkqikbsW9) | [Lenno](https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7), [Olivera](https://open.spotify.com/artist/4iFfQpzvTJDhqmSi28EhYu) | [All Too Much](https://open.spotify.com/album/7tAT5guOQp2lRqr72cUoHK) | 2:51 | 2023-01-27 |  |
 | [Alone](https://open.spotify.com/track/6fW7FK6s1EMtWu3mDdvq3X) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Alone](https://open.spotify.com/album/1QaaPVFdfYPPCIt5xT3QHP) | 2:53 | 2022-04-15 | 2022-07-29 |
+| [amends \- VIP edit](https://open.spotify.com/track/4rSyXUFwUeroeUSnt7YbL9) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎‎amends \(Remixes\)](https://open.spotify.com/album/0KhnXSPJIBJiRr41t0sSHA) | 1:24 | 2023-04-21 |  |
 | [amends \- VIP edit](https://open.spotify.com/track/5KSWXdsvxy6urFGnGitIS2) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎amends \(VIP edit\)](https://open.spotify.com/album/2cpxWGU4KlQngmIKmTqs9D) | 1:24 | 2023-01-06 | 2023-04-21 |
 | [Another You](https://open.spotify.com/track/1zmkJElrB0ghx5v5jJ4x3i) | [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3) | [Digital Heart](https://open.spotify.com/album/5WpyVMapI2A3fz6WHq8UEG) | 3:03 | 2022-01-07 |  |
 | [April \(Eyes\)](https://open.spotify.com/track/2KaM0vJC3mpraNUjDmjr0C) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [APRIL \(EYES\)](https://open.spotify.com/album/7p24hLtyoSdmLHHFnr6Uft) | 2:08 | 2023-02-17 |  |
@@ -78,7 +79,7 @@
 | [Distance](https://open.spotify.com/track/3iAyhWYLmsWTe7e0q3vpaz) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Evan Blair](https://open.spotify.com/artist/0u2WtTXW4ljbqs0xe2Yn4f) | [Distance](https://open.spotify.com/album/78UPXejKpx73O8WCaFq1cE) | 3:42 | 2022-03-11 | 2022-04-21 |
 | [do\-re\-mi\-fa\-so\-la\-ti\-do](https://open.spotify.com/track/6MDBkIEBEodrBPG5CPb8IG) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 3:34 | 2022-01-07 |  |
 | [Dolph's Aerobics 2020](https://open.spotify.com/track/3OmBBXU2eyxqgDy314Tcoj) | [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8), [Rymdkraft](https://open.spotify.com/artist/2PA8UtTP897oYGZhUEyGpg) | [Dolph's Aerobics 2020](https://open.spotify.com/album/6ERNyHn1YeHX4GHqanxvcl) | 2:19 | 2022-01-07 | 2022-07-28 |
-| [Don't Need You](https://open.spotify.com/track/0se8mCFDYQohVqP6cFoToK) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Don't Need You](https://open.spotify.com/album/76yfAYufLuG6wYQRRnJTx5) | 3:17 | 2022-01-07 |  |
+| [Don't Need You](https://open.spotify.com/track/0se8mCFDYQohVqP6cFoToK) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Don't Need You](https://open.spotify.com/album/76yfAYufLuG6wYQRRnJTx5) | 3:17 | 2022-01-07 | 2023-05-01 |
 | [Dracodraco](https://open.spotify.com/track/1989YquYFYsPa4PutqJunf) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Dracodraco](https://open.spotify.com/album/13YQaMzrLZziaj9PgpQppO) | 4:19 | 2022-01-07 | 2023-03-07 |
 | [DRAG](https://open.spotify.com/track/1E7ziN1yrE18pJ55ech2XR) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [DRAG](https://open.spotify.com/album/6qItSBH2995bdjIe0qdoZx) | 3:15 | 2022-04-15 | 2022-07-28 |
 | [Dragonflame](https://open.spotify.com/track/5YT0Pjym5S1kgZoUdOMZU3) | [Kirara Magic](https://open.spotify.com/artist/7IPe93LySFSStLX4J5j5Lr) | [Dragonflame](https://open.spotify.com/album/5yV6JmK0w8b7BMt29lJ42k) | 3:18 | 2023-01-06 |  |

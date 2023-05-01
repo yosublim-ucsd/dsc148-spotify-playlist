@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Flavio Vitor Jr.",
-  "num_followers": 295559,
+  "num_followers": 295637,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTU0Y2I2NTI1ZDAzODZhMDMwMDU3NGRkMThmNjQ5MjNkMjVlZWE4",
+  "snapshot_id": "MCw3NTQzYzhlMjI0NGU4OGIxZDI2ZGVmMzdiNWE1YWI3MGQ4ZmNkOTRi",
   "tracks": [
     {
       "added_at": "2023-04-28 19:06:08",
@@ -247,6 +247,22 @@
     {
       "added_at": "2023-04-28 19:06:08",
       "album": {
+        "name": "Pelas M\u00e3os de Maria",
+        "url": "https://open.spotify.com/album/7tyb14cxj5xoVbkbKt50Bm"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Tua Palavra",
+          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
+        }
+      ],
+      "duration_ms": 199344,
+      "name": "Pelas M\u00e3os de Maria",
+      "url": "https://open.spotify.com/track/7M0jLL3I6qaIKt1KLSPJyK"
+    },
+    {
+      "added_at": "2023-04-28 19:06:08",
+      "album": {
         "name": "Estou Orando por Voc\u00ea",
         "url": "https://open.spotify.com/album/2bIjtELrPfHk4fYxUsZTYa"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 337168,
       "name": "Estou Orando por Voc\u00ea",
       "url": "https://open.spotify.com/track/2DY9psTzveYgzNcq2E77Mx"
-    },
-    {
-      "added_at": "2023-04-28 19:06:08",
-      "album": {
-        "name": "Pelas M\u00e3os de Maria",
-        "url": "https://open.spotify.com/album/7tyb14cxj5xoVbkbKt50Bm"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Tua Palavra",
-          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
-        }
-      ],
-      "duration_ms": 199344,
-      "name": "Pelas M\u00e3os de Maria",
-      "url": "https://open.spotify.com/track/7M0jLL3I6qaIKt1KLSPJyK"
     },
     {
       "added_at": "2023-04-28 19:06:08",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-04-28 19:06:08",
       "album": {
-        "name": "Minha Voz Te Louva",
-        "url": "https://open.spotify.com/album/1LSnfT1VyBTCjKg3tXejFm"
-      },
-      "artists": [
-        {
-          "name": "Anjos de Resgate",
-          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
-        }
-      ],
-      "duration_ms": 200048,
-      "name": "Minha Voz Te Louva",
-      "url": "https://open.spotify.com/track/2RkN94PC0QWoYMuVnxyNUh"
-    },
-    {
-      "added_at": "2023-04-28 19:06:08",
-      "album": {
         "name": "Fa\u00e7a Um Milagre (Ao Vivo)",
         "url": "https://open.spotify.com/album/2wLjQBv56JdmwIojvlc7D6"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 262232,
       "name": "Fa\u00e7a Um Milagre - Ao Vivo",
       "url": "https://open.spotify.com/track/2ToXwQGR8W74QBzhNLpFoV"
+    },
+    {
+      "added_at": "2023-04-28 19:06:08",
+      "album": {
+        "name": "Minha Voz Te Louva",
+        "url": "https://open.spotify.com/album/1LSnfT1VyBTCjKg3tXejFm"
+      },
+      "artists": [
+        {
+          "name": "Anjos de Resgate",
+          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
+        }
+      ],
+      "duration_ms": 200048,
+      "name": "Minha Voz Te Louva",
+      "url": "https://open.spotify.com/track/2RkN94PC0QWoYMuVnxyNUh"
     },
     {
       "added_at": "2023-04-28 19:06:08",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-04-28 19:06:08",
       "album": {
-        "name": "Alma de Cristo",
-        "url": "https://open.spotify.com/album/7sEqIY578bRcQMIRpD2jqA"
-      },
-      "artists": [
-        {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
-        }
-      ],
-      "duration_ms": 232115,
-      "name": "Alma de Cristo",
-      "url": "https://open.spotify.com/track/5biyHI1KgkgmP2Lh7qey2S"
-    },
-    {
-      "added_at": "2023-04-28 19:06:08",
-      "album": {
         "name": "Gba Stage, Vol. 5",
         "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 173272,
       "name": "Como \u00c9s Lindo",
       "url": "https://open.spotify.com/track/0Mv8lgopeNTK0aMXJhQmUh"
+    },
+    {
+      "added_at": "2023-04-28 19:06:08",
+      "album": {
+        "name": "Alma de Cristo",
+        "url": "https://open.spotify.com/album/7sEqIY578bRcQMIRpD2jqA"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+        }
+      ],
+      "duration_ms": 232115,
+      "name": "Alma de Cristo",
+      "url": "https://open.spotify.com/track/5biyHI1KgkgmP2Lh7qey2S"
     },
     {
       "added_at": "2023-04-28 19:06:08",
@@ -835,18 +835,22 @@
     {
       "added_at": "2023-04-28 19:06:08",
       "album": {
-        "name": "Kyrios (Shalom Bras\u00edlia 20 Anos)",
-        "url": "https://open.spotify.com/album/6xnhBYPpmu2rOAD0wpteTU"
+        "name": "Gba Stage, Vol. 4",
+        "url": "https://open.spotify.com/album/65FKnbmtBigHdsqLZx9L4f"
       },
       "artists": [
         {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Davidson Silva",
+          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
         }
       ],
-      "duration_ms": 290552,
-      "name": "Todo Amor do Mundo",
-      "url": "https://open.spotify.com/track/1lW5kpBZDeEnfLT12NGlVM"
+      "duration_ms": 235714,
+      "name": "S\u00f3 por Ti, Jesus",
+      "url": "https://open.spotify.com/track/258nDtlsgbuBNWuB1b9Sjy"
     },
     {
       "added_at": "2023-04-28 19:06:08",
@@ -899,22 +903,18 @@
     {
       "added_at": "2023-04-28 19:06:08",
       "album": {
-        "name": "Gba Stage, Vol. 4",
-        "url": "https://open.spotify.com/album/65FKnbmtBigHdsqLZx9L4f"
+        "name": "Kyrios (Shalom Bras\u00edlia 20 Anos)",
+        "url": "https://open.spotify.com/album/6xnhBYPpmu2rOAD0wpteTU"
       },
       "artists": [
         {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        },
-        {
-          "name": "Davidson Silva",
-          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
         }
       ],
-      "duration_ms": 235714,
-      "name": "S\u00f3 por Ti, Jesus",
-      "url": "https://open.spotify.com/track/258nDtlsgbuBNWuB1b9Sjy"
+      "duration_ms": 290552,
+      "name": "Todo Amor do Mundo",
+      "url": "https://open.spotify.com/track/1lW5kpBZDeEnfLT12NGlVM"
     },
     {
       "added_at": "2023-04-28 19:06:08",
@@ -931,22 +931,6 @@
       "duration_ms": 202368,
       "name": "Ato de Amor",
       "url": "https://open.spotify.com/track/5pxF7Ksy0FzF6DF1Dypsv4"
-    },
-    {
-      "added_at": "2023-04-28 19:06:08",
-      "album": {
-        "name": "Cantai a Deus Com Alegria 2022",
-        "url": "https://open.spotify.com/album/5NfNDPV81OPmGHg0i3U5xv"
-      },
-      "artists": [
-        {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
-        }
-      ],
-      "duration_ms": 349859,
-      "name": "Irresistivelmente",
-      "url": "https://open.spotify.com/track/1mlClp0nXxSXV4iEOz5gPU"
     },
     {
       "added_at": "2023-04-28 19:06:08",
@@ -1003,6 +987,22 @@
       "duration_ms": 326208,
       "name": "Te Adorar",
       "url": "https://open.spotify.com/track/3blCCA06ECZDzJkfFzGRAJ"
+    },
+    {
+      "added_at": "2023-04-28 19:06:08",
+      "album": {
+        "name": "Cantai a Deus Com Alegria 2022",
+        "url": "https://open.spotify.com/album/5NfNDPV81OPmGHg0i3U5xv"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+        }
+      ],
+      "duration_ms": 349859,
+      "name": "Irresistivelmente",
+      "url": "https://open.spotify.com/track/1mlClp0nXxSXV4iEOz5gPU"
     },
     {
       "added_at": "2023-04-28 19:06:08",

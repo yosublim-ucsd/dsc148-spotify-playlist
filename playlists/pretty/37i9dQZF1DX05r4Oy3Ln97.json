@@ -1,12 +1,12 @@
 {
   "description": "Dip your feet in the pool and enjoy this perfect summer house mix!",
-  "num_followers": 356400,
+  "num_followers": 356939,
   "original_name": "Summer House 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2Y3MzM0NWE4YzBlYzc2YzczMDU5OWIyNTRmNTk0YmQwYzk5YmRi",
+  "snapshot_id": "MCw3NGM4Zjk2MGY3NDY3OGQzODc5ODVjZDk2YWJiNmI3ODI2NGQ0MzA4",
   "tracks": [
     {
       "added_at": "2023-04-28 10:30:24",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-04-28 10:30:24",
       "album": {
-        "name": "Riptide",
-        "url": "https://open.spotify.com/album/2zx1E2Yv7eYSWvfbPDDF7P"
-      },
-      "artists": [
-        {
-          "name": "TWOPILOTS",
-          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
-        }
-      ],
-      "duration_ms": 154731,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/6yv0ZjBlZy2oRFq7jAis2C"
-    },
-    {
-      "added_at": "2023-04-28 10:30:24",
-      "album": {
         "name": "Hold Me",
         "url": "https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 140000,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg"
+    },
+    {
+      "added_at": "2023-04-28 10:30:24",
+      "album": {
+        "name": "Riptide",
+        "url": "https://open.spotify.com/album/2zx1E2Yv7eYSWvfbPDDF7P"
+      },
+      "artists": [
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        }
+      ],
+      "duration_ms": 154731,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/6yv0ZjBlZy2oRFq7jAis2C"
     },
     {
       "added_at": "2023-04-28 10:30:24",
@@ -167,6 +167,26 @@
     {
       "added_at": "2023-04-28 10:30:24",
       "album": {
+        "name": "Samba",
+        "url": "https://open.spotify.com/album/2XNZaIXWrcFCxoc7xJACTt"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        },
+        {
+          "name": "Louis III",
+          "url": "https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr"
+        }
+      ],
+      "duration_ms": 147818,
+      "name": "Samba",
+      "url": "https://open.spotify.com/track/0skgJbXMM4sPRwSKXvO2id"
+    },
+    {
+      "added_at": "2023-04-28 10:30:24",
+      "album": {
         "name": "The Best Part",
         "url": "https://open.spotify.com/album/71f51ihuW0oVdl2s4yFzSU"
       },
@@ -187,26 +207,6 @@
       "duration_ms": 250000,
       "name": "The Best Part",
       "url": "https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP"
-    },
-    {
-      "added_at": "2023-04-28 10:30:24",
-      "album": {
-        "name": "Samba",
-        "url": "https://open.spotify.com/album/2XNZaIXWrcFCxoc7xJACTt"
-      },
-      "artists": [
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        },
-        {
-          "name": "Louis III",
-          "url": "https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr"
-        }
-      ],
-      "duration_ms": 147818,
-      "name": "Samba",
-      "url": "https://open.spotify.com/track/0skgJbXMM4sPRwSKXvO2id"
     },
     {
       "added_at": "2023-04-28 10:30:24",
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-04-28 10:30:24",
       "album": {
+        "name": "Club Azur",
+        "url": "https://open.spotify.com/album/1F27jLhFpbPMTB8DY15nTK"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        }
+      ],
+      "duration_ms": 169946,
+      "name": "Never Going Home",
+      "url": "https://open.spotify.com/track/2fuWIFyY452wmNOoT32EB8"
+    },
+    {
+      "added_at": "2023-04-28 10:30:24",
+      "album": {
         "name": "Still (I Got Summer On My Mind) [FORTELLA Remix]",
         "url": "https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 193475,
       "name": "Still (I Got Summer On My Mind) - FORTELLA Remix",
       "url": "https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW"
-    },
-    {
-      "added_at": "2023-04-28 10:30:24",
-      "album": {
-        "name": "Club Azur",
-        "url": "https://open.spotify.com/album/1F27jLhFpbPMTB8DY15nTK"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        }
-      ],
-      "duration_ms": 169946,
-      "name": "Never Going Home",
-      "url": "https://open.spotify.com/track/2fuWIFyY452wmNOoT32EB8"
     },
     {
       "added_at": "2023-04-28 10:30:24",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-04-28 10:30:24",
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/0KL9SoyKme5QJ19m2IgR64"
-      },
-      "artists": [
-        {
-          "name": "Moonkids",
-          "url": "https://open.spotify.com/artist/2OozlR5HfAAp7LwPmOxcsm"
-        }
-      ],
-      "duration_ms": 159153,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/1HnFqtNMbrUrkbRUxRD3Sl"
-    },
-    {
-      "added_at": "2023-04-28 10:30:24",
-      "album": {
         "name": "King",
         "url": "https://open.spotify.com/album/1Iiu7xbEoH46CCvp5F9o7D"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 210000,
       "name": "King",
       "url": "https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib"
+    },
+    {
+      "added_at": "2023-04-28 10:30:24",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0KL9SoyKme5QJ19m2IgR64"
+      },
+      "artists": [
+        {
+          "name": "Moonkids",
+          "url": "https://open.spotify.com/artist/2OozlR5HfAAp7LwPmOxcsm"
+        }
+      ],
+      "duration_ms": 159153,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/1HnFqtNMbrUrkbRUxRD3Sl"
     },
     {
       "added_at": "2023-04-28 10:30:24",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2023-04-28 10:30:24",
       "album": {
-        "name": "This Love",
-        "url": "https://open.spotify.com/album/4JQ00p7OYAiNsa3etPj070"
-      },
-      "artists": [
-        {
-          "name": "Klangkarussell",
-          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
-        }
-      ],
-      "duration_ms": 235763,
-      "name": "This Love",
-      "url": "https://open.spotify.com/track/6WYRMJqj9wpYmIdSfHQuEO"
-    },
-    {
-      "added_at": "2023-04-28 10:30:24",
-      "album": {
         "name": "Surf Song",
         "url": "https://open.spotify.com/album/5YhmrTqgAJJlTOm3WOPfHq"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 148760,
       "name": "Surf Song",
       "url": "https://open.spotify.com/track/3jjvpoRGl2tfSGMSKAovw8"
+    },
+    {
+      "added_at": "2023-04-28 10:30:24",
+      "album": {
+        "name": "This Love",
+        "url": "https://open.spotify.com/album/4JQ00p7OYAiNsa3etPj070"
+      },
+      "artists": [
+        {
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 235763,
+      "name": "This Love",
+      "url": "https://open.spotify.com/track/6WYRMJqj9wpYmIdSfHQuEO"
     },
     {
       "added_at": "2023-04-28 10:30:24",
@@ -1171,22 +1171,22 @@
     {
       "added_at": "2023-04-28 10:30:24",
       "album": {
-        "name": "Teenage Heart",
-        "url": "https://open.spotify.com/album/1YSEwLeE1tJKjVdlPYxPoX"
+        "name": "Cruel Summer (Marcus Layton Edit)",
+        "url": "https://open.spotify.com/album/7t4AA6GFMkLfrGlrzcyy4U"
       },
       "artists": [
         {
-          "name": "Jones Meadow",
-          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
+          "name": "LAUWE",
+          "url": "https://open.spotify.com/artist/1pEZZUBRto2Tid1aaFOzQK"
         },
         {
-          "name": "Nina Carr",
-          "url": "https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb"
+          "name": "Marcus Layton",
+          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
         }
       ],
-      "duration_ms": 243750,
-      "name": "Teenage Heart",
-      "url": "https://open.spotify.com/track/5lDYTWicLTLTBoQn2WvcXD"
+      "duration_ms": 144230,
+      "name": "Cruel Summer (Marcus Layton Edit)",
+      "url": "https://open.spotify.com/track/4yg4e6LkbEzc3sA0bE0GYg"
     }
   ],
   "unique_name": "Summer House 2023",

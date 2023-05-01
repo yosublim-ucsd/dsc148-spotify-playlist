@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Kevin & Yade Lauren
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,621 likes - 103 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,650 likes - 103 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 57 | [How Far We've Come](https://open.spotify.com/track/53XX6aX3DurJGTYWtsu4VO) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [How Far We've Come](https://open.spotify.com/album/7692cF5NNEjB7l9ky4X4ID) | 3:07 |
 | 58 | [When The Day Is Done](https://open.spotify.com/track/3uOxQfsAQH4SJmRdBVLpzQ) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When The Day Is Done](https://open.spotify.com/album/6lzMbDwLT43JtvRbmcuBLn) | 3:00 |
 | 59 | [Poco Loco](https://open.spotify.com/track/6s1JvqVk3yn7CKaUFhuvld) | [ChildsPlay](https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel), [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx), [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l) | [Poco Loco](https://open.spotify.com/album/6rehhjtpz8pCNiAdmlhwxA) | 2:14 |
-| 60 | [Feel The Same \(feat\. The Melody Men\)](https://open.spotify.com/track/77S8daUg3BQLdaAmH6c8EQ) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Feel The Same \(feat\. The Melody Men\)](https://open.spotify.com/album/0tHzJkyjlBPT8hzSFXdsU2) | 3:03 |
+| 60 | [Feel The Same](https://open.spotify.com/track/77S8daUg3BQLdaAmH6c8EQ) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Feel The Same](https://open.spotify.com/album/0tHzJkyjlBPT8hzSFXdsU2) | 3:03 |
 | 61 | [Heartbreak In The Making](https://open.spotify.com/track/7pQDEFgqfceckGdx9v4Me2) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Heartbreak In The Making](https://open.spotify.com/album/0FX2iXci5RZKRqVQslP6fk) | 3:14 |
 | 62 | [Eat The Acid](https://open.spotify.com/track/7IaZ2WDYVYi0OImUNQm6Vl) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Fine Line / Eat The Acid](https://open.spotify.com/album/3RBAnTbN7fcba7VRpQi14P) | 4:02 |
 | 63 | [Marbella](https://open.spotify.com/track/6Ev0z9xiwUAorZEuBD0RpB) | [WAWA](https://open.spotify.com/artist/71IGD79X5laXW6cmqehskJ) | [Marbella](https://open.spotify.com/album/1wO6JVNPQdQwWIIAaSvCs2) | 2:52 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 102 | [Stopped In My Tracks](https://open.spotify.com/track/7rnxdzeSBN96h7OZN9rhk5) | [George & the Rams](https://open.spotify.com/artist/0PQGHTjxmDXwTOq6a5AS4z) | [George & the Rams](https://open.spotify.com/album/4tgoT62h2i1ZAtxLaW7mS4) | 4:23 |
 | 103 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 |
 
-Snapshot ID: `MCw0MmY0ZjNjMTczZWFkYTA4YzI4ZTJiZTE1MGM2NmFhZjFiMzM4YzNm`
+Snapshot ID: `MCw4ZTY3OWQyNTA5ODgxODBlMDk5OTI2YjdlMTc5YzZmNTgyZjUyYzIw`

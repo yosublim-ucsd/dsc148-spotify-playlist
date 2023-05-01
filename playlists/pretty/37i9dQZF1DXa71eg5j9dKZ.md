@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Four Tet
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,965 likes - 125 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,046 likes - 125 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 93 | [Reflections ft\. KiLLOWEN](https://open.spotify.com/track/0LtCpSLGkeHALMIIrbgAWs) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR), [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO) | [Reflections ft\. KiLLOWEN](https://open.spotify.com/album/565HXPzi2uPRVjcwHpFOBA) | 3:11 |
 | 94 | [Nothing Without You](https://open.spotify.com/track/4HCjWPVlBQNVor12xzptGm) | [GIDEÖN](https://open.spotify.com/artist/1iVCq3rhTkFD4gveUnY9a5), [Mandel Turner](https://open.spotify.com/artist/2oF8BMcZCAnRmMwrwVBm7R) | [Nothing Without You](https://open.spotify.com/album/6x05aytiXJutRJCI3V8kH8) | 6:29 |
 | 95 | [Sinkhole](https://open.spotify.com/track/7wQDLRHNGvu0ATxjrIy9O9) | [Pearson Sound](https://open.spotify.com/artist/3lN70MoiO9u6b95CsTeB1J) | [Red Sky EP](https://open.spotify.com/album/0iWzQ1vGm5vM8wUn51mcqG) | 4:44 |
-| 96 | [Higher Elevation](https://open.spotify.com/track/3AGTwVq5mmZmRZ4INK4wpv) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Higher Elevation](https://open.spotify.com/album/1D4EJmfAi8VJbMocGS5MaC) | 6:13 |
+| 96 | [Higher Elevation](https://open.spotify.com/track/1lb1LQdKk2W265fIggX4SV) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Higher Elevation](https://open.spotify.com/album/3H0AaXwg0UfCbIluZool04) | 6:13 |
 | 97 | [Feel It](https://open.spotify.com/track/00B3cITDbSBY9GeKZvxw9M) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [Feel It](https://open.spotify.com/album/5ozui0519aka32Jj8vFp8D) | 3:12 |
 | 98 | [Blush](https://open.spotify.com/track/0vdzx5gNcGMYeAwGvDzqsv) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Blush/Sweetpea](https://open.spotify.com/album/13GO7f97z42ssjQMlGRHOm) | 2:50 |
 | 99 | [Water](https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Water](https://open.spotify.com/album/2IbvLEWok7hbkf5BBZaYBg) | 4:16 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 124 | [Bubble Up](https://open.spotify.com/track/6OfDPAofhAqf4hxLoOGDLM) | [Ikonika](https://open.spotify.com/artist/1GbZUOowT6BhrI9QVoUniG) | [Bubble Up](https://open.spotify.com/album/1TVK04bZsCf3xZfBhw4CJa) | 6:08 |
 | 125 | [M1, M3](https://open.spotify.com/track/2dy2LigdnxZ5SLFLQZbKQk) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [M1, M3 / GETOUTOFMYHEAD](https://open.spotify.com/album/23zTuaBkMs6VX8O9gQPuRK) | 6:30 |
 
-Snapshot ID: `MCwyNmVmMjRiMzk0MDEwMjI0OThhMDM4YWE3ZDI2OTYwYTdiMjdlOWE0`
+Snapshot ID: `MCw4NDFkMDdmYzdjMDdlMWZmNGUyZWZlYTY5ZTIxNWMzZjk0MjBiM2Ew`

@@ -10118,10 +10118,28 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 195442,
       "name": "Smile",
       "url": "https://open.spotify.com/track/17EHQsJKw0njET2FH4toSc"
+    },
+    {
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/5mdWtokpOmeaBfofTMWqBS"
+      },
+      "artists": [
+        {
+          "name": "Lioba",
+          "url": "https://open.spotify.com/artist/7LYIJJdSauMBT4bkGEcldy"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195442,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/5WtqZvo6FpwsslVE9MdrU8"
     },
     {
       "album": {

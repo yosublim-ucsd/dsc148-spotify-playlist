@@ -2,7 +2,7 @@
 
 ### [Ripple Effect](https://open.spotify.com/playlist/37i9dQZF1DX5qjSia2PLFP)
 
-> New music breaking waves\. Cover, Luh Tyler
+> New music breaking waves\. Cover, Lola Brooke
 
 281 songs - 12 hr 41 min
 
@@ -117,7 +117,7 @@
 | [Green Line](https://open.spotify.com/track/5Ebu0lwiMFhempIKg1GUAk) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Green Line](https://open.spotify.com/album/4pZN0JVoQx3ikvl6qGzUH6) | 3:26 | 2022-02-11 | 2022-05-21 |
 | [HAHA \(feat\. Pusha T\)](https://open.spotify.com/track/2H01cB8CXFLRc4TriH5UYW) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [HAHA \(feat\. Pusha T\)](https://open.spotify.com/album/01dfvcwL8PhZ9IDlzjBO4M) | 2:09 | 2022-06-24 | 2022-10-08 |
 | [Haku](https://open.spotify.com/track/1USaSmbCC4U80jbN7ZrqeN) | [Auxxk](https://open.spotify.com/artist/2SVrysB8sFET2DutqpqCj5) | [Auxxk Airdrop v4](https://open.spotify.com/album/0FJWZQQ2ozu62YkflVUjWj) | 2:32 | 2023-01-20 |  |
-| [Hallelujah](https://open.spotify.com/track/2Ngjdn5Y5MKv4dTa024SF7) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj), [Ryan Palma](https://open.spotify.com/artist/0ETu1snC8o5NZWmqxai370) | [Hallelujah](https://open.spotify.com/album/6mOTpOg5zP6ieYLe9LBJ00) | 2:20 | 2023-04-28 |  |
+| [Hallelujah](https://open.spotify.com/track/2Ngjdn5Y5MKv4dTa024SF7) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [Hallelujah](https://open.spotify.com/album/6mOTpOg5zP6ieYLe9LBJ00) | 2:20 | 2023-04-28 |  |
 | [Hand Her The Gun](https://open.spotify.com/track/2m7vIOdJPH5eqDKYJmuJpN) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [The Revive \(The Ascension 2 Prelude\)](https://open.spotify.com/album/6ClVoXk3JiQ8r6csDtxiXz) | 2:38 | 2023-02-17 |  |
 | [HEAD TO HADES](https://open.spotify.com/track/58sGcIFRdGOQ7bUi62HBes) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM), [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [moMINTs](https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2) | 2:55 | 2022-09-30 | 2023-02-25 |
 | [Hell Shot](https://open.spotify.com/track/60Yi5Vxd5oFcuIxXuerCSU) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr), [Robb Bank$](https://open.spotify.com/artist/7KduBCxhfAMiQlhMOHL3IZ) | [Hell Shot](https://open.spotify.com/album/5kaqmOQfV1eGTaN0md4Jt4) | 3:28 | 2022-06-24 | 2022-10-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Ryan Beatty
 
-[Spotify](https://open.spotify.com/user/spotify) - 780,589 likes - 150 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 780,691 likes - 150 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Who's Gonna Love You Now?](https://open.spotify.com/track/1RNi19cKwk2G5V9fy9676K) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Time Can Prove You Wrong EP](https://open.spotify.com/album/5FHhqubbDtgRAtkXGNQJ6n) | 3:17 |
 | 150 | [Fairweather](https://open.spotify.com/track/4CmA0F2I25DcHz47mXArag) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi) | [Fairweather](https://open.spotify.com/album/35Sw5Z7oVOdfn4Id3dqjtk) | 4:34 |
 
-Snapshot ID: `MCw5MjBlNDJlMWQxNDZjMzg4MDY1YjdkYTEwMGIxNDgyYjg5MDcyNTE4`
+Snapshot ID: `MCw2MjU5YTA2ZWI0ZDQwYjc1OTUzYzUyZGU2OTExODA3ZWY2OWQ4NmM2`

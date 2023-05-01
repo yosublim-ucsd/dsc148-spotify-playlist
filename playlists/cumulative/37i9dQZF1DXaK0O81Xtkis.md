@@ -4,7 +4,7 @@
 
 > make it pop! cover: The Aces
 
-628 songs - 1 day 7 hr 36 min
+629 songs - 1 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,8 @@
 | [Feel Something](https://open.spotify.com/track/1jTxFF7FjIW4USQnnoplX9) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Feel Something](https://open.spotify.com/album/3LFMOM2H8eBY7VRHRbKNzp) | 2:30 | 2022-04-08 | 2022-06-25 |
 | [Figure You Out \(Remix\)](https://open.spotify.com/track/6Tsdf2lE4mFAa6sE052pEP) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Figure You Out \(Remix\)](https://open.spotify.com/album/2UHY1Y6eDdUf1zMPWnJWPH) | 3:12 | 2022-02-11 | 2022-02-26 |
 | [Fine Lines](https://open.spotify.com/track/6adCqDwVKcdXK8f4JHkOfo) | [Alt Bloom](https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP) | [Fine Lines](https://open.spotify.com/album/7oHo3runeV3nHPtjOy4uK3) | 2:27 | 2023-02-24 |  |
-| [Fireworks](https://open.spotify.com/track/2bzo9vmgupmbM5VFuRl0ig) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Fireworks](https://open.spotify.com/album/6CIPuH9t8tX5p5fjuUFr2Q) | 3:18 | 2023-04-28 |  |
+| [Fireworks](https://open.spotify.com/track/2bzo9vmgupmbM5VFuRl0ig) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Fireworks](https://open.spotify.com/album/6CIPuH9t8tX5p5fjuUFr2Q) | 3:18 | 2023-04-28 | 2023-05-01 |
+| [Fireworks](https://open.spotify.com/track/4vs2mQsCkcQCNeRzUDRTyE) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [The Sun](https://open.spotify.com/album/4k6FYjYAswZLIlmAfaRkSt) | 3:18 | 2023-04-28 |  |
 | [FIRST HELLO](https://open.spotify.com/track/2ONSelZb6rxDw98aIzTLHt) | [Grant Knoche](https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J) | [FIRST HELLO](https://open.spotify.com/album/6g7aDEkCteSnfHx2ZSOZYU) | 3:17 | 2022-09-09 | 2023-02-11 |
 | [flowers](https://open.spotify.com/track/6trA1yKo3IGgLyvg9lBwOJ) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [flowers](https://open.spotify.com/album/1ZmIdhZgJn91DMGk86iC1R) | 3:12 | 2022-11-18 | 2023-02-04 |
 | [For My Friends](https://open.spotify.com/track/6vs83ufnw4IVbotV0qv6C8) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [For My Friends](https://open.spotify.com/album/7hfIFmFhdPoLzeeDGPaYAw) | 3:35 | 2022-03-18 | 2022-05-28 |

@@ -4,7 +4,7 @@
 
 > Enjoy music from "Detective Conan"! 映画「名探偵コナン」シリーズの世界を彩る音楽をプレイリストで。©2023 青山剛昌／名探偵コナン製作委員会
 
-126 songs - 8 hr 22 min
+127 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [氷の上に立つように](https://open.spotify.com/track/2yvBPgJ6818yYVF3Q8VEKJ) | [小松未歩](https://open.spotify.com/artist/2F7g9r3yzmCfMlUnfDa80X) | [氷の上に立つように](https://open.spotify.com/album/7nkOwUDE4gjDVPBAX9jfxI) | 3:51 | 2022-10-01 | 2023-03-22 |
 | [永遠の不在証明](https://open.spotify.com/track/7FL5iSLdKcersBgDiwijis) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [永遠の不在証明](https://open.spotify.com/album/5y7E3hUWGNoY98C1TubePY) | 4:21 | 2022-10-01 |  |
 | [江戸川コナンからのスペシャルメッセージ!](https://open.spotify.com/track/0GZpMl78mXdua1rM8UJrJ9) | [『名探偵コナン 黒鉄の魚影\(サブマリン\)』](https://open.spotify.com/artist/0OpbGNQiAXWZA67syHiDgV) | [『名探偵コナン 黒鉄の魚影\(サブマリン\)』江戸川コナンからのスペシャルメッセージ!](https://open.spotify.com/album/4z6QTN01hvtWpDegAtyMEC) | 0:42 | 2023-03-22 |  |
+| [江戸川コナンからのスペシャルメッセージ!その2](https://open.spotify.com/track/2lUGgn6Wugz0CH0XXiye0a) | [『名探偵コナン 黒鉄の魚影\(サブマリン\)』](https://open.spotify.com/artist/0OpbGNQiAXWZA67syHiDgV) | [『名探偵コナン 黒鉄の魚影\(サブマリン\)』江戸川コナンからのスペシャルメッセージ!](https://open.spotify.com/album/4FqXS8azLV6WrjLSBE4DuE) | 0:39 | 2023-04-30 |  |
 | [涙のイエスタデー](https://open.spotify.com/track/7ehUmLhuvuObMjp4w5rZoM) | [GARNET CROW](https://open.spotify.com/artist/6vJEQqtEx2VB8clDzhyhvC) | [THE BEST History of GARNET CROW at the crest...](https://open.spotify.com/album/3e3NS2L4bziOWpIMvnRE3R) | 4:40 | 2022-10-01 | 2023-03-22 |
 | [渡月橋 \~君 想ふ\~](https://open.spotify.com/track/1060Rq2jA1jKckSZV67y7H) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある!\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 4:05 | 2022-10-01 |  |
 | [漆黒の殺意](https://open.spotify.com/track/3HLSuTDKiDXx4oFhfd3OQT) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 瞳の中の暗殺者 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0fAhvb5Ir2kHM2DREhn45a) | 2:27 | 2023-03-21 |  |

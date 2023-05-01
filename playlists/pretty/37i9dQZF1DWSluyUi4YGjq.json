@@ -1,12 +1,12 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. Winter on cover!",
-  "num_followers": 64265,
+  "num_followers": 64608,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGU1OGQ2ZTNjODdlZGY4OTJjMzc3ZTUxOTg1MjdjZDU4OGMwMDY0",
+  "snapshot_id": "MCxhMDQ4ZGQ0Y2ViY2UzMjc0N2Q5MGU2NTIxZGU4NGY3YTRlN2M2ZDlh",
   "tracks": [
     {
       "added_at": "2023-03-13 22:23:31",
@@ -765,22 +765,6 @@
       "url": "https://open.spotify.com/track/1gbvCuQHPTgU7sgWCbqtVV"
     },
     {
-      "added_at": "2023-02-09 20:06:26",
-      "album": {
-        "name": "Someone2Me",
-        "url": "https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 226471,
-      "name": "Someone2Me",
-      "url": "https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Everything Else Matters",
@@ -811,6 +795,22 @@
       "duration_ms": 242755,
       "name": "Glow",
       "url": "https://open.spotify.com/track/6Y185DCfJ2mCI7aU65WdJl"
+    },
+    {
+      "added_at": "2023-02-09 20:06:26",
+      "album": {
+        "name": "Someone2Me",
+        "url": "https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 226471,
+      "name": "Someone2Me",
+      "url": "https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP"
     },
     {
       "added_at": "2022-12-15 18:01:43",
@@ -1005,6 +1005,22 @@
       "url": "https://open.spotify.com/track/2GWjuqubd6LAYgimjWiGu3"
     },
     {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/3xhF5I7uVcBHWWabkOk9Km"
+      },
+      "artists": [
+        {
+          "name": "Beach Vacation",
+          "url": "https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C"
+        }
+      ],
+      "duration_ms": 142615,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/1W2jSHDSshu2l5mQL5dmT2"
+    },
+    {
       "added_at": "2022-09-21 00:37:05",
       "album": {
         "name": "You Will Never Know Why",
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF"
-      },
-      "artists": [
-        {
-          "name": "Whirr",
-          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
-        }
-      ],
-      "duration_ms": 211319,
-      "name": "Press",
-      "url": "https://open.spotify.com/track/37SnMHwWU7F9isLYZB3taJ"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Tired of Tomorrow (Deluxe Version)",
         "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
       },
@@ -1053,20 +1053,20 @@
       "url": "https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/3xhF5I7uVcBHWWabkOk9Km"
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF"
       },
       "artists": [
         {
-          "name": "Beach Vacation",
-          "url": "https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C"
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
         }
       ],
-      "duration_ms": 142615,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/1W2jSHDSshu2l5mQL5dmT2"
+      "duration_ms": 211319,
+      "name": "Press",
+      "url": "https://open.spotify.com/track/37SnMHwWU7F9isLYZB3taJ"
     },
     {
       "added_at": "2022-01-07 19:52:45",
@@ -1117,20 +1117,20 @@
       "url": "https://open.spotify.com/track/11DryxGvweDB9WRJhdjQe2"
     },
     {
-      "added_at": "2023-02-09 20:06:26",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "taste of concrete",
-        "url": "https://open.spotify.com/album/3P3IXKGBC2d0SfJAvcbg9V"
+        "name": "Dead Kids R.I.P. City",
+        "url": "https://open.spotify.com/album/09GvIBV4cQDhvlL8rzTIy3"
       },
       "artists": [
         {
-          "name": "Shrimp",
-          "url": "https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC"
+          "name": "Soft Kill",
+          "url": "https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m"
         }
       ],
-      "duration_ms": 152061,
-      "name": "taste of concrete",
-      "url": "https://open.spotify.com/track/5gsLyERQX8cQslfSqdhTw3"
+      "duration_ms": 151560,
+      "name": "Pretty Face",
+      "url": "https://open.spotify.com/track/7n3Y93fkz1oRdsgpYTazkh"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1149,20 +1149,20 @@
       "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2023-02-09 20:06:26",
       "album": {
-        "name": "Dead Kids R.I.P. City",
-        "url": "https://open.spotify.com/album/09GvIBV4cQDhvlL8rzTIy3"
+        "name": "taste of concrete",
+        "url": "https://open.spotify.com/album/3P3IXKGBC2d0SfJAvcbg9V"
       },
       "artists": [
         {
-          "name": "Soft Kill",
-          "url": "https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m"
+          "name": "Shrimp",
+          "url": "https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC"
         }
       ],
-      "duration_ms": 151560,
-      "name": "Pretty Face",
-      "url": "https://open.spotify.com/track/7n3Y93fkz1oRdsgpYTazkh"
+      "duration_ms": 152061,
+      "name": "taste of concrete",
+      "url": "https://open.spotify.com/track/5gsLyERQX8cQslfSqdhTw3"
     },
     {
       "added_at": "2022-12-15 18:01:43",

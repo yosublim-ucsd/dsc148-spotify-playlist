@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Teenage Wrist
 
-447 songs - 1 day 0 hr 1 min
+449 songs - 1 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Born Yesterday](https://open.spotify.com/track/45TCUDE0fwhbP84CcTuYUh) | [Gladie](https://open.spotify.com/artist/7CmAu41S1eT28xXF2ocPE6) | [Born Yesterday](https://open.spotify.com/album/4YB32RDVOQCFIwF18pkmDy) | 3:22 | 2022-11-21 | 2023-04-15 |
 | [Borrowed Time](https://open.spotify.com/track/328F2sC7uw6wdkWLggOAQ2) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Light Up Gold + Tally All The Things That You Broke](https://open.spotify.com/album/198JgCiP5oHBycAKedKHRm) | 2:32 | 2021-10-07 | 2022-01-08 |
 | [Brainwashin’](https://open.spotify.com/track/2ILW2QaDIhd4uSPRtb4106) | [Fade 'Em All](https://open.spotify.com/artist/5KPgrRE2BkgShDII1cH1HN) | [Brainwashin’](https://open.spotify.com/album/5EiW8PeUPcDDwh2ehy2x5B) | 2:55 | 2022-02-21 | 2022-11-05 |
-| [Brass Bell](https://open.spotify.com/track/0vNu5t0o0R57Xy1e10d5zI) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [Brass Bell](https://open.spotify.com/album/6Q7cmkyTXxQO6FKIqrUFhv) | 4:23 | 2023-02-13 |  |
+| [Brass Bell](https://open.spotify.com/track/0vNu5t0o0R57Xy1e10d5zI) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [Brass Bell](https://open.spotify.com/album/6Q7cmkyTXxQO6FKIqrUFhv) | 4:23 | 2023-02-13 | 2023-05-01 |
+| [Brass Bell](https://open.spotify.com/track/2P1kSwV2hQFxf6jjsOwsMj) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [Desire Pathway](https://open.spotify.com/album/4ijKOsVWOcCxMK2Xt2gvLx) | 4:23 | 2023-04-14 |  |
 | [BREAKFAST IN SPACE](https://open.spotify.com/track/0p23x26aIZJs0bROjthbLl) | [Destructo Disk](https://open.spotify.com/artist/2kc0DEfYci8CKkvQmnivj9) | [BAD GRAVITY](https://open.spotify.com/album/2DbYairkSUm4YbVXd0sHwa) | 2:40 | 2022-06-10 | 2022-08-06 |
 | [Bubblegum Infinity](https://open.spotify.com/track/3et7oRd1VMvQ3805uuor7N) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Night Gnomes](https://open.spotify.com/album/03v97YHEAK4SfVd4QuIuOt) | 3:10 | 2022-04-29 | 2022-07-09 |
 | [Bunny Man](https://open.spotify.com/track/6EBOq3nyD5vfZAHE7sGlaj) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Bunny Man](https://open.spotify.com/album/03sH5Msxg1MRYmmXlbUhO2) | 2:58 | 2022-01-07 | 2022-07-29 |
@@ -180,7 +181,8 @@
 | [Head Cheerleader](https://open.spotify.com/track/1qLWOCtiIYPJkLQxdqwYxk) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Death of a Cheerleader](https://open.spotify.com/album/0iSh2sXytE5jbpPiKts3z4) | 3:08 | 2022-01-07 | 2022-10-01 |
 | [Head On](https://open.spotify.com/track/2tY0hj4JDKk74YRVTAj7oi) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG), [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Head On](https://open.spotify.com/album/2zLs4dNnujEOf3EC21MZaa) | 2:38 | 2022-03-25 | 2022-07-29 |
 | [Head On](https://open.spotify.com/track/32vtFZsZz3Pf5Mlcs6V5yD) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG), [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [In Between Days](https://open.spotify.com/album/6Crpa9aM0TnbjDU4WLkhwX) | 2:38 | 2022-11-04 | 2022-11-13 |
-| [Head On](https://open.spotify.com/track/42vq2Ww3BMk7HE8iL6yWF4) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG), [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Head On](https://open.spotify.com/album/4spRalyH6f1l2kRMxUbU19) | 2:38 | 2022-07-08 |  |
+| [Head On](https://open.spotify.com/track/3hYtruhCU9MPvbajhjvzw6) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG), [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Head On](https://open.spotify.com/album/1hutXgs3QsDoxhOMdt9Dqz) | 2:38 | 2023-04-14 |  |
+| [Head On](https://open.spotify.com/track/42vq2Ww3BMk7HE8iL6yWF4) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG), [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Head On](https://open.spotify.com/album/4spRalyH6f1l2kRMxUbU19) | 2:38 | 2022-07-08 | 2023-05-01 |
 | [HeatDeath](https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [HeatDeath](https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n) | 5:17 | 2021-10-07 | 2023-02-18 |
 | [Heavy Heart \- Edit](https://open.spotify.com/track/3Gbk5JvijQQxg5q8AkGdmw) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Heavy Heart](https://open.spotify.com/album/0J97gh6EZ7bqsqq4IeGe68) | 3:46 | 2022-03-11 | 2022-04-29 |
 | [Hello World](https://open.spotify.com/track/4Z3dv0ea4R11kqqBkFV1nQ) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Hello World](https://open.spotify.com/album/2FQxYhaN3AULlomg0TNefH) | 4:31 | 2022-08-26 |  |

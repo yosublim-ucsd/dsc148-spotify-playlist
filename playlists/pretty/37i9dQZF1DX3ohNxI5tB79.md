@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,232 likes - 97 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,385 likes - 97 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 26 | [On & On](https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 3:46 |
 | 27 | [Everything You Touch Is Gold](https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [All Rise \(Deluxe\)](https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy) | 6:03 |
 | 28 | [Wish The Love Never Died](https://open.spotify.com/track/19Yyk8JtxvHKI4byINCi5J) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Actually, I Can.](https://open.spotify.com/album/0L0JffGJcm2ybbDcd6BJmO) | 3:01 |
-| 29 | [Rock a Nore](https://open.spotify.com/track/3TmKUdO8IqaN7HPg1k6Y9X) | [Palm Skin Productions](https://open.spotify.com/artist/36fOUxKPHF3Hi5SsB1T1lY) | [Other Times](https://open.spotify.com/album/7yVomkZLlXBcoHMM4bbrbQ) | 3:37 |
+| 29 | [Rock a Nore](https://open.spotify.com/track/4XqQQfRdPZUIIv8Sdk6tu3) | [Palm Skin Productions](https://open.spotify.com/artist/36fOUxKPHF3Hi5SsB1T1lY) | [Other Times](https://open.spotify.com/album/3ohrvMpAzpyBa24RvYmCnQ) | 3:37 |
 | 30 | [Mississippi Goddam](https://open.spotify.com/track/7DIxVMCTh1RGD4pVRshvnt) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Mississippi Goddam](https://open.spotify.com/album/2KyQ1qrwSxWWCgIx63wtCd) | 3:38 |
 | 31 | [Comparison Is A Thief Of Joy](https://open.spotify.com/track/4K1e3kZiNClQgmzqxQrTIE) | [Fruit Distro Collective](https://open.spotify.com/artist/0vPnsaDFU6zMeXLjRIAPLf) | [Comparison Is A Thief Of Joy](https://open.spotify.com/album/0Q4r0UjqH1oZhhQaB1gVE8) | 2:56 |
 | 32 | [Whatever You Are](https://open.spotify.com/track/6uL0ZXwr17RgsMRmXKYY11) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Memories of Love](https://open.spotify.com/album/2wob0s3WIRpsvYHSpDqywa) | 5:00 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 96 | [Little Life](https://open.spotify.com/track/6k8Ma4BHrQhzF71ogxpKhI) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Hopscotch](https://open.spotify.com/album/3rX0StGwVF3griwE7wEdq5) | 2:59 |
 | 97 | [Kickback](https://open.spotify.com/track/0zgDfVY84eFIzgTvK9KutN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6) | 2:51 |
 
-Snapshot ID: `MCwwZTJhZDYwYmVhNzMyNzkyMWVkYzI3ODRmNmQyZmYzNWE2NGM0MTA5`
+Snapshot ID: `MCxmYTlhZTYxYWE3N2U2ZDg0OGY2YzMwOGU3NGZkODk0YmVkZGE5MzE0`

@@ -1,12 +1,12 @@
 {
   "description": "Free to be! Musica dalla comunit\u00e0 LGBQTIA+ e dai suoi alleati. Ethan in cover! <a href=\"spotify:playlist:37i9dQZF1DX3LyU0mhfqgP\">Qua la playlist global</a> \u2728 ",
-  "num_followers": 5393,
+  "num_followers": 5394,
   "original_name": "GLOW Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzNkODM2ZTE2OTRlNjQxM2FhMTlhNzg1MWY0YThlMDQxODA4MDZh",
+  "snapshot_id": "MCw0NDQ3NjM3MDY3ZWRkYzRiMzZhMmQ0MDFhNzU0NjdlMjkyOTliODU5",
   "tracks": [
     {
       "added_at": "2023-04-12 08:45:25",
@@ -184,7 +184,7 @@
       "added_at": "2023-04-12 08:45:25",
       "album": {
         "name": "W",
-        "url": "https://open.spotify.com/album/1kiPEitFPGkgriSY22GUPa"
+        "url": "https://open.spotify.com/album/4dfA4vqVedjn5tCy1Ce5my"
       },
       "artists": [
         {
@@ -198,7 +198,7 @@
       ],
       "duration_ms": 493760,
       "name": "Flores No Mar - Album Edit",
-      "url": "https://open.spotify.com/track/4wp5E9w0eJ0gg0QxGWRDFy"
+      "url": "https://open.spotify.com/track/6SYH3khYd6Mum1cKf8sRux"
     },
     {
       "added_at": "2023-04-12 08:45:25",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-04-12 08:45:25",
       "album": {
+        "name": "Dormi",
+        "url": "https://open.spotify.com/album/0o43FP6kzT5GH7opmU9dCo"
+      },
+      "artists": [
+        {
+          "name": "Emma Nolde",
+          "url": "https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK"
+        }
+      ],
+      "duration_ms": 213950,
+      "name": "Respiro",
+      "url": "https://open.spotify.com/track/0AwjnkfYhpjZOO6eDSFFxx"
+    },
+    {
+      "added_at": "2023-04-12 08:45:25",
+      "album": {
         "name": "Club Domani",
         "url": "https://open.spotify.com/album/4XqgviyTowdiw6Q9z67kzL"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 257975,
       "name": "A Che Ora l'Amore",
       "url": "https://open.spotify.com/track/3sdaPhbnFsgaH0baQeiXaJ"
-    },
-    {
-      "added_at": "2023-04-12 08:45:25",
-      "album": {
-        "name": "Dormi",
-        "url": "https://open.spotify.com/album/0o43FP6kzT5GH7opmU9dCo"
-      },
-      "artists": [
-        {
-          "name": "Emma Nolde",
-          "url": "https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK"
-        }
-      ],
-      "duration_ms": 213950,
-      "name": "Respiro",
-      "url": "https://open.spotify.com/track/0AwjnkfYhpjZOO6eDSFFxx"
     },
     {
       "added_at": "2023-04-12 08:45:25",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-04-12 08:45:25",
       "album": {
-        "name": "Fammi sapere",
-        "url": "https://open.spotify.com/album/5BLc0gWZEp3CQvyEpSO5p0"
-      },
-      "artists": [
-        {
-          "name": "Santissima Vicky",
-          "url": "https://open.spotify.com/artist/1SVjhg7V450B2W9zcn9dZY"
-        }
-      ],
-      "duration_ms": 175609,
-      "name": "Fammi sapere",
-      "url": "https://open.spotify.com/track/5lim6ILbLLRo2klC4C3JhJ"
-    },
-    {
-      "added_at": "2023-04-12 08:45:25",
-      "album": {
         "name": "Next Big Thing",
         "url": "https://open.spotify.com/album/0TeCxhwt1zggy58jurdvMA"
       },
@@ -1319,18 +1303,38 @@
     {
       "added_at": "2023-04-12 08:45:25",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/2JpHSOi6FOjzQ6pBMoCIJs"
+        "name": "Fammi sapere",
+        "url": "https://open.spotify.com/album/5BLc0gWZEp3CQvyEpSO5p0"
       },
       "artists": [
         {
-          "name": "Osvaldo Supino",
-          "url": "https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj"
+          "name": "Santissima Vicky",
+          "url": "https://open.spotify.com/artist/1SVjhg7V450B2W9zcn9dZY"
         }
       ],
-      "duration_ms": 196721,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/6zIBIkhO98iYaEks8h5HbX"
+      "duration_ms": 175609,
+      "name": "Fammi sapere",
+      "url": "https://open.spotify.com/track/5lim6ILbLLRo2klC4C3JhJ"
+    },
+    {
+      "added_at": "2023-04-12 08:45:25",
+      "album": {
+        "name": "Morsi",
+        "url": "https://open.spotify.com/album/0P1YyFEArN1FzbpL542vUa"
+      },
+      "artists": [
+        {
+          "name": "Ditonellapiaga",
+          "url": "https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l"
+        },
+        {
+          "name": "Populous",
+          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Repito - Populous Remix",
+      "url": "https://open.spotify.com/track/0L0XrBKrMxd9LPCMVLkJmw"
     }
   ],
   "unique_name": "GLOW Italia",

@@ -1,12 +1,12 @@
 {
   "description": "Blues meets funk. Cover: Eric Gales",
-  "num_followers": 22392,
+  "num_followers": 22430,
   "original_name": "Funky Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjMzNjQzNTY0MTExOTMxNmI3YTM2YzA1M2IwNWYwNDc3M2FhYzU2",
+  "snapshot_id": "MCw5YWUwMTU0ZWQxNjI1NzU2MzRkNjU2NDA4YTlhMGRiMDg0Nzc1Njc1",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -77,6 +77,22 @@
       "url": "https://open.spotify.com/track/0nko6BnrANIqS303Ynl53p"
     },
     {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Texas Cannonball",
+        "url": "https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 240533,
+      "name": "Big Legged Woman",
+      "url": "https://open.spotify.com/track/37RtOpFMu0i0wzjtK7c1bn"
+    },
+    {
       "added_at": "2021-12-03 05:02:00",
       "album": {
         "name": "Set Sail",
@@ -99,22 +115,6 @@
       "duration_ms": 201626,
       "name": "See the Moon (featuring Lamar Williams Jr. and Sharisse Norman)",
       "url": "https://open.spotify.com/track/6XYkGbWTkF3IUThub6DVfh"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Texas Cannonball",
-        "url": "https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 240533,
-      "name": "Big Legged Woman",
-      "url": "https://open.spotify.com/track/37RtOpFMu0i0wzjtK7c1bn"
     },
     {
       "added_at": "2020-12-01 05:01:00",

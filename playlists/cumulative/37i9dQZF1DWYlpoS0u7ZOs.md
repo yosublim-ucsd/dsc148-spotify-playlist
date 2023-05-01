@@ -4,7 +4,7 @@
 
 > The new wave of rock from the UK & Ireland\. Cover: Delilah Bon
 
-157 songs - 8 hr 18 min
+158 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Lovedoom](https://open.spotify.com/track/544D9Z05dkl6QbXOKs2UJ0) | [CRASHFACE](https://open.spotify.com/artist/5KjrHPtIS2XCqs5zZwnydX) | [Lovedoom](https://open.spotify.com/album/0n56DyCRWky9bjPKaESKGn) | 3:13 | 2023-03-24 |  |
 | [Lovedrunk](https://open.spotify.com/track/0oNTXmnhv5NFSScucHbki8) | [The White Lakes](https://open.spotify.com/artist/0NfxIPLSHdoCWNMXbLjehq) | [Lovedrunk](https://open.spotify.com/album/5ubYQGukF6N0djNxage429) | 4:00 | 2023-01-27 | 2023-02-10 |
 | [Lucifer](https://open.spotify.com/track/45Nwq28AzOXpRve87hbDCk) | [Priestgate](https://open.spotify.com/artist/0mhU2f9YqeYcnEW6ynit0i) | [One Shade Darker](https://open.spotify.com/album/5uc01QHmHEhlokwE2kYdDB) | 3:26 | 2023-03-03 | 2023-03-04 |
-| [Lucifer](https://open.spotify.com/track/4Fve9SnM02yqPypTcK4i4U) | [Priestgate](https://open.spotify.com/artist/0mhU2f9YqeYcnEW6ynit0i) | [One Shade Darker](https://open.spotify.com/album/460Oh7tKR0JYuAje2Nuf04) | 3:26 | 2023-03-03 |  |
+| [Lucifer](https://open.spotify.com/track/46qYZOK1KrVxCNv3soNe1Z) | [Priestgate](https://open.spotify.com/artist/0mhU2f9YqeYcnEW6ynit0i) | [One Shade Darker](https://open.spotify.com/album/77KG2iF54bGZRPPCu0BeTj) | 3:26 | 2023-04-21 |  |
+| [Lucifer](https://open.spotify.com/track/4Fve9SnM02yqPypTcK4i4U) | [Priestgate](https://open.spotify.com/artist/0mhU2f9YqeYcnEW6ynit0i) | [One Shade Darker](https://open.spotify.com/album/460Oh7tKR0JYuAje2Nuf04) | 3:26 | 2023-03-03 | 2023-05-01 |
 | [Madman](https://open.spotify.com/track/0claZhFBLs49ZIyzN9BovS) | [PENGSHUi](https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR) | [Madman](https://open.spotify.com/album/3z6fcOFkkVttWJO4urKHKY) | 3:52 | 2023-03-03 | 2023-03-26 |
 | [Madman](https://open.spotify.com/track/7MGDxr4uUDqOV70Uy3iPom) | [PENGSHUi](https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR) | [EP ii](https://open.spotify.com/album/557ntJoopjoyMhkeX40y9s) | 3:52 | 2023-03-24 |  |
 | [Marching Powder](https://open.spotify.com/track/3dZV4HZQwkw8ktt4SsjBJW) | [Hyphen](https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi) | [Marching Powder](https://open.spotify.com/album/4szROdsy1D6xsuPIa71T6g) | 2:05 | 2023-02-17 |  |

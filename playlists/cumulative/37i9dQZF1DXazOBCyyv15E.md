@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Thundercat ft\. Tame Impala
 
-1,460 songs - 3 day 14 hr 37 min
+1,462 songs - 3 day 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,7 +351,8 @@
 | [Do Whatever Makes You Happy](https://open.spotify.com/track/3Y9n6XbVFOzx2scoU2PjGj) | [Lemonade Shoelace](https://open.spotify.com/artist/72gHreLHpaDQdue2ON7snF) | [Do Whatever Makes You Happy](https://open.spotify.com/album/2xZjLVk98NcUT2JUBSaVNg) | 4:57 | 2023-04-27 |  |
 | [Do You Want It All?](https://open.spotify.com/track/4PkxkGJ8393zzsgLC87esM) | [pinkpirate](https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ) | [Do You Want It All?](https://open.spotify.com/album/7FO5BmKZbsB0T25JudO5UC) | 3:12 | 2022-06-16 | 2022-08-19 |
 | [Does It Make You Feel Good?](https://open.spotify.com/track/4ELXniqcm1QKYoJpFPE5eO) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Does It Make You Feel Good?](https://open.spotify.com/album/5PA3iYQ0LLadsqmpWk9W2w) | 3:03 | 2020-10-09 | 2020-12-18 |
-| [Don't Be Another](https://open.spotify.com/track/3qaqxocTgqVSMT9GE82sbg) | [Skinny Pelembe](https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN) | [Don't Be Another](https://open.spotify.com/album/1CLxNR4c7WeJ6c6gwjkPGl) | 3:39 | 2023-03-03 |  |
+| [Don't Be Another](https://open.spotify.com/track/3qaqxocTgqVSMT9GE82sbg) | [Skinny Pelembe](https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN) | [Don't Be Another](https://open.spotify.com/album/1CLxNR4c7WeJ6c6gwjkPGl) | 3:39 | 2023-03-03 | 2023-05-01 |
+| [Don't Be Another](https://open.spotify.com/track/7jAYGGdjarBtjI8PkCgQI7) | [Skinny Pelembe](https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN) | [Hardly The Same Snake](https://open.spotify.com/album/5YGnYey5QR9gXmgpxTV6Uw) | 3:39 | 2023-04-27 |  |
 | [Don't Be Scared](https://open.spotify.com/track/1hF9IhJDhNJUfVH7iUwAcU) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Twixtustwain EP](https://open.spotify.com/album/7A798nLVH5HTk4CbjSCLqu) | 2:33 | 2021-04-09 | 2021-05-14 |
 | [Don't Come Back](https://open.spotify.com/track/0woeyl9aHAxviN2nEcUxmj) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Don't Come Back](https://open.spotify.com/album/1JIStSjrhT76FZelRHlVSt) | 3:37 | 2022-07-01 | 2022-07-29 |
 | [Don't Fade Away](https://open.spotify.com/track/21lFRFkdf5sgITNZCDMeDq) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Don't Fade Away](https://open.spotify.com/album/0YqMt0AKeSCOfXIPuE3lJO) | 3:22 | 2023-03-10 |  |
@@ -745,7 +746,8 @@
 | [Life On Pause](https://open.spotify.com/track/5YcZHyvloOUuORaerCVrG7) | [STRABE](https://open.spotify.com/artist/0FMEK1QJjgPFczDNQk8AJu) | [Life On Pause](https://open.spotify.com/album/1VLtKqUwuvWKhCOnV4YzD5) | 4:13 | 2022-03-31 | 2022-06-03 |
 | [Life's Gonna Kill You \(If You Let It\)](https://open.spotify.com/track/5BU3BEHViPFjJlOvqCm5VJ) | [Man\-Made Sunshine](https://open.spotify.com/artist/3o7Com7ZIpDARXoOHwK4th) | [Life's Gonna Kill You \(If You Let It\)](https://open.spotify.com/album/0IR4dwltpxKhwyD9DT6o6L) | 4:35 | 2022-09-29 | 2022-11-11 |
 | [Lifeline](https://open.spotify.com/track/78dm8zrEiJ1d0G6IBuiN7m) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Lifeline](https://open.spotify.com/album/0iAfdMQLxhqNyO2bZ7aTLL) | 3:22 | 2023-01-20 | 2023-03-10 |
-| [Like A Heart Won't Beat](https://open.spotify.com/track/5iJ2dkuqfUJzWxwsTDx1St) | [Skinny Pelembe](https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN) | [Like A Heart Won't Beat](https://open.spotify.com/album/0foppvxztUTxICo4vnKphN) | 2:26 | 2022-11-25 |  |
+| [Like A Heart Won't Beat](https://open.spotify.com/track/4qZ52fbjyJF6C4LJ1Tlobw) | [Skinny Pelembe](https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN) | [Hardly The Same Snake](https://open.spotify.com/album/5YGnYey5QR9gXmgpxTV6Uw) | 2:26 | 2023-04-27 |  |
+| [Like A Heart Won't Beat](https://open.spotify.com/track/5iJ2dkuqfUJzWxwsTDx1St) | [Skinny Pelembe](https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN) | [Like A Heart Won't Beat](https://open.spotify.com/album/0foppvxztUTxICo4vnKphN) | 2:26 | 2022-11-25 | 2023-05-01 |
 | [Like I Used To](https://open.spotify.com/track/2TJDEIb71icDq3v0LXEGib) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Like I Used To](https://open.spotify.com/album/3lTAIzdI3ggBc6AtZTqXRS) | 4:23 | 2021-05-21 | 2021-08-13 |
 | [like that](https://open.spotify.com/track/7idx1YkB2MGlsnCmbwMjVR) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [like that](https://open.spotify.com/album/6gcjscCResIRvj2pmBwoG2) | 1:58 | 2023-04-13 |  |
 | [Lilys \- HBO ‘Made For Love’ Cut](https://open.spotify.com/track/4oK4XJa92LlpMNAzx1TMlP) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Lilys \(HBO Made For Love Cut\)](https://open.spotify.com/album/0CxzNVsULMyKLNYfNCtHMF) | 3:39 | 2021-05-14 | 2021-07-09 |

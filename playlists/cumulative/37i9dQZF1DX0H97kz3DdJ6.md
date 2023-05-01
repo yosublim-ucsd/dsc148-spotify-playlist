@@ -4,7 +4,7 @@
 
 > as mais tristes do brasil
 
-110 songs - 5 hr 16 min
+111 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [HAHAHA](https://open.spotify.com/track/7infbnz7sLNiqePr5l1dMO) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT) | [PODERIA SER PIOR](https://open.spotify.com/album/5N0xGpXhbba4Io7PAU3MwK) | 2:30 | 2022-10-07 |  |
 | [Indecisão](https://open.spotify.com/track/3F1WYsocwVRRBg5z1So0Uj) | [K8TIE](https://open.spotify.com/artist/4E60gF2h5In3yPiP7actgA), [Najjuu](https://open.spotify.com/artist/44zNCSENkAVHJ5jZlmzMys) | [Indecisão](https://open.spotify.com/album/0Cxryz8Lzqe5Tnm0AwQ3En) | 2:38 | 2022-05-20 |  |
 | [Isso Não É um Desabafo](https://open.spotify.com/track/53jDwzRyOzxOncQGnraKcU) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8), [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h) | [Isso \(Não\) É um Desabafo](https://open.spotify.com/album/1Te6WZEIRuqHR2eukOnmr4) | 2:43 | 2022-05-20 |  |
-| [Juro](https://open.spotify.com/track/46CGL339JEgS7LPv7zscpA) | [Augus7o](https://open.spotify.com/artist/78iJtzui4jnlK1KsDnlykz) | [Juro](https://open.spotify.com/album/007chL0LwceNlirR0nZVqO) | 3:39 | 2022-05-20 |  |
+| [Juro](https://open.spotify.com/track/1xaVKzZFgo1UQUVfko19Zk) | [Augus7o](https://open.spotify.com/artist/78iJtzui4jnlK1KsDnlykz) | [Juro](https://open.spotify.com/album/47YH8c1MK1RC5dg2Pmd2nQ) | 3:39 | 2023-04-14 |  |
+| [Juro](https://open.spotify.com/track/46CGL339JEgS7LPv7zscpA) | [Augus7o](https://open.spotify.com/artist/78iJtzui4jnlK1KsDnlykz) | [Juro](https://open.spotify.com/album/007chL0LwceNlirR0nZVqO) | 3:39 | 2022-05-20 | 2023-05-01 |
 | [Madrugada Fria](https://open.spotify.com/track/3EStz3jCq7hbfsKHl6K6iO) | [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Madrugada Fria](https://open.spotify.com/album/3FBYAIJEp1HIefkzPcTj4l) | 2:38 | 2022-05-20 |  |
 | [marte](https://open.spotify.com/track/5na5GPlpl7Kzb4hkiMqhiF) | [Leborato](https://open.spotify.com/artist/22YKiuRdkpMJ0yKO550zIq) | [marte](https://open.spotify.com/album/5Vqnlm59yl2ZHno48OaFnp) | 2:38 | 2022-05-20 |  |
 | [Me Deixe Sumir](https://open.spotify.com/track/2DHidHdCswIjNE4kgTK2fX) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Me Deixe Sumir](https://open.spotify.com/album/17lHG7WmEb33MDCEENNZar) | 3:37 | 2022-07-22 |  |

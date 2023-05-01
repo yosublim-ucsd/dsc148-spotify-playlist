@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock artists in Japan right now! Cover: SHERBETS",
-  "num_followers": 255151,
+  "num_followers": 255190,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2N2I0YjU1NzhiZWNlYmQ5ODUzNDhmYjkwNzQyNDJmYjU1NWUxMjJm",
+  "snapshot_id": "MCw0MGJiMjNmZDg5YWQ2ZjMwNzRkNmU1NWMwYWYxZGQxZjcxZDBkNTc2",
   "tracks": [
     {
       "added_at": "2023-04-25 15:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "Focus on me",
-        "url": "https://open.spotify.com/album/2tORGVHZEBoiLJt9qKkewn"
-      },
-      "artists": [
-        {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
-        }
-      ],
-      "duration_ms": 250219,
-      "name": "Focus on me",
-      "url": "https://open.spotify.com/track/2LW2YGQdWWYW3glzf0gERU"
-    },
-    {
-      "added_at": "2023-04-25 15:00:00",
-      "album": {
         "name": "Baby's Alright",
         "url": "https://open.spotify.com/album/6X4Uwd6AcExE9pK9yXymFy"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 163466,
       "name": "Baby's Alright",
       "url": "https://open.spotify.com/track/5jFKVJxMWo7ieMI6TZFkCO"
+    },
+    {
+      "added_at": "2023-04-25 15:00:00",
+      "album": {
+        "name": "Focus on me",
+        "url": "https://open.spotify.com/album/2tORGVHZEBoiLJt9qKkewn"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "duration_ms": 250219,
+      "name": "Focus on me",
+      "url": "https://open.spotify.com/track/2LW2YGQdWWYW3glzf0gERU"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "yes. I. do",
-        "url": "https://open.spotify.com/album/5WX0UesRT8mWRjZNtKBF40"
-      },
-      "artists": [
-        {
-          "name": "Elephant Kashimashi",
-          "url": "https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm"
-        }
-      ],
-      "duration_ms": 288414,
-      "name": "yes. I. do",
-      "url": "https://open.spotify.com/track/1BHQjZCoGdfk6wmSRkFHyA"
-    },
-    {
-      "added_at": "2023-04-25 15:00:00",
-      "album": {
         "name": "Break and Cross the Walls \u2161",
         "url": "https://open.spotify.com/album/63Vs5V4iH9zZf1QGcmqWAU"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 212440,
       "name": "Tonight, Tonight",
       "url": "https://open.spotify.com/track/49uaFiZPOQvEPB4IJBfUDg"
+    },
+    {
+      "added_at": "2023-04-25 15:00:00",
+      "album": {
+        "name": "yes. I. do",
+        "url": "https://open.spotify.com/album/5WX0UesRT8mWRjZNtKBF40"
+      },
+      "artists": [
+        {
+          "name": "Elephant Kashimashi",
+          "url": "https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm"
+        }
+      ],
+      "duration_ms": 288414,
+      "name": "yes. I. do",
+      "url": "https://open.spotify.com/track/1BHQjZCoGdfk6wmSRkFHyA"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "\u82b1\u964d\u308b\u7a7a\u306b\u4e0d\u6ec5\u306e\u6b4c\u3092",
-        "url": "https://open.spotify.com/album/1bOVFJ5wymIcHswxz8saYM"
-      },
-      "artists": [
-        {
-          "name": "a flood of circle",
-          "url": "https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl"
-        }
-      ],
-      "duration_ms": 197837,
-      "name": "\u6708\u591c\u306e\u9053\u3092\u4ffa\u304c\u884c\u304f",
-      "url": "https://open.spotify.com/track/2IFPJ7ehMw4hVIVOKxqczk"
-    },
-    {
-      "added_at": "2023-04-25 15:00:00",
-      "album": {
         "name": "\u305d\u3070\u306b\u3044\u308b\u304b\u3089",
         "url": "https://open.spotify.com/album/5KMjcGmHWpQp19SxdlisRf"
       },
@@ -1003,18 +987,18 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "\u30cf\u30a4\u30d1\u30fc\u30a4\u30e1\u30fc\u30b8",
-        "url": "https://open.spotify.com/album/5aIKLPM4ONVaodAX2Dt3Z8"
+        "name": "\u82b1\u964d\u308b\u7a7a\u306b\u4e0d\u6ec5\u306e\u6b4c\u3092",
+        "url": "https://open.spotify.com/album/1bOVFJ5wymIcHswxz8saYM"
       },
       "artists": [
         {
-          "name": "Ivy to Fraudulent Game",
-          "url": "https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX"
+          "name": "a flood of circle",
+          "url": "https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl"
         }
       ],
-      "duration_ms": 150595,
-      "name": "\u30cf\u30a4\u30d1\u30fc\u30a4\u30e1\u30fc\u30b8",
-      "url": "https://open.spotify.com/track/5higKPhcN5wzx2IqafqalE"
+      "duration_ms": 197837,
+      "name": "\u6708\u591c\u306e\u9053\u3092\u4ffa\u304c\u884c\u304f",
+      "url": "https://open.spotify.com/track/2IFPJ7ehMw4hVIVOKxqczk"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -1035,34 +1019,18 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "\u5e78\u305b\u306b\u3057\u3066\u304f\u308c\u3044\u30fc\u3074\u30fc",
-        "url": "https://open.spotify.com/album/2q37HtYAlyNvkGvKSeojsZ"
+        "name": "\u30cf\u30a4\u30d1\u30fc\u30a4\u30e1\u30fc\u30b8",
+        "url": "https://open.spotify.com/album/5aIKLPM4ONVaodAX2Dt3Z8"
       },
       "artists": [
         {
-          "name": "THE KEBABS",
-          "url": "https://open.spotify.com/artist/59RHw8mybzyMx2euAXycie"
+          "name": "Ivy to Fraudulent Game",
+          "url": "https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX"
         }
       ],
-      "duration_ms": 213766,
-      "name": "THE KEBABS\u3092\u62b1\u304d\u3057\u3081\u3066",
-      "url": "https://open.spotify.com/track/4vLkPISde2wc7vcFdBMB4a"
-    },
-    {
-      "added_at": "2023-04-25 15:00:00",
-      "album": {
-        "name": "Bump & Grind",
-        "url": "https://open.spotify.com/album/5Xo7luQI6DCmzvzJYs3jWj"
-      },
-      "artists": [
-        {
-          "name": "YUKI",
-          "url": "https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "My Vision",
-      "url": "https://open.spotify.com/track/7y7RZol3cLs85hO9GtCo9P"
+      "duration_ms": 150595,
+      "name": "\u30cf\u30a4\u30d1\u30fc\u30a4\u30e1\u30fc\u30b8",
+      "url": "https://open.spotify.com/track/5higKPhcN5wzx2IqafqalE"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -1083,6 +1051,38 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
+        "name": "Bump & Grind",
+        "url": "https://open.spotify.com/album/5Xo7luQI6DCmzvzJYs3jWj"
+      },
+      "artists": [
+        {
+          "name": "YUKI",
+          "url": "https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "My Vision",
+      "url": "https://open.spotify.com/track/7y7RZol3cLs85hO9GtCo9P"
+    },
+    {
+      "added_at": "2023-04-25 15:00:00",
+      "album": {
+        "name": "\u5e78\u305b\u306b\u3057\u3066\u304f\u308c\u3044\u30fc\u3074\u30fc",
+        "url": "https://open.spotify.com/album/2q37HtYAlyNvkGvKSeojsZ"
+      },
+      "artists": [
+        {
+          "name": "THE KEBABS",
+          "url": "https://open.spotify.com/artist/59RHw8mybzyMx2euAXycie"
+        }
+      ],
+      "duration_ms": 213766,
+      "name": "THE KEBABS\u3092\u62b1\u304d\u3057\u3081\u3066",
+      "url": "https://open.spotify.com/track/4vLkPISde2wc7vcFdBMB4a"
+    },
+    {
+      "added_at": "2023-04-25 15:00:00",
+      "album": {
         "name": "Sun of Love",
         "url": "https://open.spotify.com/album/5ZJLJPs0uVBvVQ4fHo6X2I"
       },
@@ -1095,22 +1095,6 @@
       "duration_ms": 252026,
       "name": "Sun of Love",
       "url": "https://open.spotify.com/track/4Dh38LmVwPAgnwBIbo8ndS"
-    },
-    {
-      "added_at": "2023-04-25 15:00:00",
-      "album": {
-        "name": "\u82b1\u964d\u308b\u7a7a\u306b\u4e0d\u6ec5\u306e\u6b4c\u3092",
-        "url": "https://open.spotify.com/album/1bOVFJ5wymIcHswxz8saYM"
-      },
-      "artists": [
-        {
-          "name": "a flood of circle",
-          "url": "https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl"
-        }
-      ],
-      "duration_ms": 264390,
-      "name": "\u82b1\u964d\u308b\u7a7a\u306b\u4e0d\u6ec5\u306e\u6b4c\u3092",
-      "url": "https://open.spotify.com/track/4RX9IHe9Znm9lcVm5RZuEl"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -1147,6 +1131,22 @@
       "duration_ms": 211746,
       "name": "TABUN MAYBE MEIJI feat. A, TAGIRENTAROU",
       "url": "https://open.spotify.com/track/4A82whhuPt2nvg4InDrtYP"
+    },
+    {
+      "added_at": "2023-04-25 15:00:00",
+      "album": {
+        "name": "\u82b1\u964d\u308b\u7a7a\u306b\u4e0d\u6ec5\u306e\u6b4c\u3092",
+        "url": "https://open.spotify.com/album/1bOVFJ5wymIcHswxz8saYM"
+      },
+      "artists": [
+        {
+          "name": "a flood of circle",
+          "url": "https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl"
+        }
+      ],
+      "duration_ms": 264390,
+      "name": "\u82b1\u964d\u308b\u7a7a\u306b\u4e0d\u6ec5\u306e\u6b4c\u3092",
+      "url": "https://open.spotify.com/track/4RX9IHe9Znm9lcVm5RZuEl"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "IZORA",
-        "url": "https://open.spotify.com/album/7COwrUcqO3yWY4zXsdeXgI"
-      },
-      "artists": [
-        {
-          "name": "BUCK-TICK",
-          "url": "https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX"
-        }
-      ],
-      "duration_ms": 237306,
-      "name": "Boogie Woogie",
-      "url": "https://open.spotify.com/track/2d4864DEKNKv2B1zkWiDuG"
-    },
-    {
-      "added_at": "2023-04-25 15:00:00",
-      "album": {
         "name": "\u9aa8\u6298\u308a\u5132\u3051\u306e\u8349\u81e5\u308c\u640d",
         "url": "https://open.spotify.com/album/1vFLfiobeCceiAS55fnNUw"
       },
@@ -1247,22 +1231,6 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "VOX",
-        "url": "https://open.spotify.com/album/7G3Gkn2mfKJuhTCtk0R8U1"
-      },
-      "artists": [
-        {
-          "name": "Dragon Ash",
-          "url": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
-        }
-      ],
-      "duration_ms": 250366,
-      "name": "VOX",
-      "url": "https://open.spotify.com/track/1KxHcxJXPxED226UAIQFwK"
-    },
-    {
-      "added_at": "2023-04-25 15:00:00",
-      "album": {
         "name": "In forward",
         "url": "https://open.spotify.com/album/0PdIRoaf7cEZ1rkOelvlAx"
       },
@@ -1275,6 +1243,38 @@
       "duration_ms": 225185,
       "name": "still in me",
       "url": "https://open.spotify.com/track/4ldzswz3gHEJYF08mi8kIM"
+    },
+    {
+      "added_at": "2023-04-25 15:00:00",
+      "album": {
+        "name": "IZORA",
+        "url": "https://open.spotify.com/album/7COwrUcqO3yWY4zXsdeXgI"
+      },
+      "artists": [
+        {
+          "name": "BUCK-TICK",
+          "url": "https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX"
+        }
+      ],
+      "duration_ms": 237306,
+      "name": "Boogie Woogie",
+      "url": "https://open.spotify.com/track/2d4864DEKNKv2B1zkWiDuG"
+    },
+    {
+      "added_at": "2023-04-25 15:00:00",
+      "album": {
+        "name": "VOX",
+        "url": "https://open.spotify.com/album/7G3Gkn2mfKJuhTCtk0R8U1"
+      },
+      "artists": [
+        {
+          "name": "Dragon Ash",
+          "url": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+        }
+      ],
+      "duration_ms": 250366,
+      "name": "VOX",
+      "url": "https://open.spotify.com/track/1KxHcxJXPxED226UAIQFwK"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "This Song -Planxty Irwin-",
-        "url": "https://open.spotify.com/album/1UCyl9vDFUgWgKj7Rm393s"
+        "name": "A Phenomenal Man",
+        "url": "https://open.spotify.com/album/0cyUc2d1JjBj3g6OkLYb99"
       },
       "artists": [
         {
-          "name": "OAU",
-          "url": "https://open.spotify.com/artist/2S6PiNmAaVVGO0YePSN3FB"
+          "name": "cinema staff",
+          "url": "https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx"
         }
       ],
-      "duration_ms": 235881,
-      "name": "This Song -Planxty Irwin-",
-      "url": "https://open.spotify.com/track/0WHrBD9cachtyZRm9MDRER"
+      "duration_ms": 180500,
+      "name": "A Phenomenal Man",
+      "url": "https://open.spotify.com/track/5hxacLnWr2zD9GDKm2oEYy"
     }
   ],
   "unique_name": "Big in Japan",

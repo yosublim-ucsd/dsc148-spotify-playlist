@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,875 likes - 225 songs - 12 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,886 likes - 225 songs - 12 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,8 +159,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 149 | [flower's gaze](https://open.spotify.com/track/1IxApabQY9g6Ivg1og5vsP) | [DALDAM](https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik) | [one's youth](https://open.spotify.com/album/2xauBFfVTnRXMNGSR8kvZI) | 3:59 |
 | 150 | [세상이 멈췄다](https://open.spotify.com/track/4uIMRGoLwO8U7GqVyGAVGF) | [DALDAM](https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik) | [세상이 멈췄다](https://open.spotify.com/album/1hxgamJJM9oQqoYbX6VDm3) | 3:51 |
 | 151 | [WE!](https://open.spotify.com/track/4VOAR502GxH90sLsqKWS9N) | [DALDAM](https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik) | [one's youth](https://open.spotify.com/album/2xauBFfVTnRXMNGSR8kvZI) | 2:54 |
-| 152 | [delicate creature](https://open.spotify.com/track/7BAk4jJtHKJuo4H05dKSM1) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [the ceiling](https://open.spotify.com/album/4zFX31lbWmdubEgtIOEb8K) | 4:32 |
-| 153 | [magic trick](https://open.spotify.com/track/1rhis3xGyLUpFbxYLpJZzs) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [the ceiling](https://open.spotify.com/album/4zFX31lbWmdubEgtIOEb8K) | 3:40 |
+| 152 | [delicate creature](https://open.spotify.com/track/79wSs0XpV9BhjDcWGKZc5m) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [the ceiling](https://open.spotify.com/album/6PLSSq6AD1C96xzLMG49Wo) | 4:32 |
+| 153 | [magic trick](https://open.spotify.com/track/41jt4T7KjbK0iPxHK2yH13) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [the ceiling](https://open.spotify.com/album/6PLSSq6AD1C96xzLMG49Wo) | 3:40 |
 | 154 | [you\\me\\everyone](https://open.spotify.com/track/47Da4bjJRnEFSEDhUoptC7) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [everything's worth it](https://open.spotify.com/album/1JkKG9yyfzYJfzUNOCsZic) | 3:39 |
 | 155 | [Summer For You](https://open.spotify.com/track/1i2mGWu5fJCUEW6yFHYokf) | [JACKINGCONG](https://open.spotify.com/artist/3GeNpZ51ZS9nQBnvGsLBcl) | [Summer For You](https://open.spotify.com/album/2CsvQpN3f318sh8IFTD2Jh) | 4:03 |
 | 156 | [The End of the Ocean](https://open.spotify.com/track/1SmuDqAn0DIjmdtUhICTRv) | [JACKINGCONG](https://open.spotify.com/artist/3GeNpZ51ZS9nQBnvGsLBcl) | [Moondance](https://open.spotify.com/album/7F6xABbnn5TXMJQfxYAnuL) | 3:07 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 224 | [In My Mind](https://open.spotify.com/track/0lXhyCQBqlEbperz8Ot6aZ) | [828](https://open.spotify.com/artist/0TWjYNZU7pTssEBPuMiyXA) | [Suffering Repetition, But Tomorrow](https://open.spotify.com/album/6tlEfSXtuiRUXjzAcpzlSe) | 4:57 |
 | 225 | [Taxi](https://open.spotify.com/track/0ahGmXLKdNeji12zTQYp0T) | [Hwanho](https://open.spotify.com/artist/3PIsLQ22l4FXjkpyua0L3n) | [Taxi](https://open.spotify.com/album/0NcUqsLQjkVQfIQGOXbyjB) | 3:50 |
 
-Snapshot ID: `MCxjN2VlMGY0MGI5YTdhZDU5NTY3ZjhiMzJiOWVlNzMwOTA2M2U1NWFi`
+Snapshot ID: `MCxkYWQ4ZTU4MTdiM2Q1NWY4MGZlZWQ4ZmI2MGZkMjU1ZmY4ZTEzYjM1`

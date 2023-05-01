@@ -429,6 +429,32 @@
     },
     {
       "album": {
+        "name": "Come On Closer (2020 Remaster)",
+        "url": "https://open.spotify.com/album/1bdDfDXBhrMZQZqLDbmGdL"
+      },
+      "artists": [
+        {
+          "name": "Pineapples",
+          "url": "https://open.spotify.com/artist/2XT4eexHFaKdv4Jm1NT9r0"
+        },
+        {
+          "name": "Roberto Ferrante",
+          "url": "https://open.spotify.com/artist/3YRXdJknlUSmpFCgaRvyoL"
+        },
+        {
+          "name": "Douglas Roop",
+          "url": "https://open.spotify.com/artist/37nfoS8kfCxK8tzAsbq5vY"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390333,
+      "name": "Come On Closer - (Dub Version) Prod. by Roberto Ferrante - 2020 Remaster",
+      "url": "https://open.spotify.com/track/6kuJUlAVljF251MvyvdcPP"
+    },
+    {
+      "album": {
         "name": "Autostrada Galattica",
         "url": "https://open.spotify.com/album/3SskDYQ8hL0tZQwZrhy1p9"
       },
@@ -1564,7 +1590,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 287760,
       "name": "Livin' Up",
       "url": "https://open.spotify.com/track/54Bhw4FfdM303XteW7HQNv"

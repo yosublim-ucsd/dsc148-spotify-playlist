@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTAq251RdAA.md) - [plain]
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the <a href="https://artists.spotify.com/songwriter/3EOfjHuLO7f2VbwNGu0Tqg">songwriter's</a> own covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,319 likes - 81 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,323 likes - 81 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Big Yellow Taxi](https://open.spotify.com/track/1oJSAzNyTUCm36zhFYMcAZ) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC), [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Films About Ghosts: The Best Of...](https://open.spotify.com/album/1eONXsSid0vxSPTt7zpImA) | 3:45 |
 | 2 | [A Case Of You](https://open.spotify.com/track/6tNrUI6H15kqWBff0HcEZr) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Enough Thunder](https://open.spotify.com/album/4Ss3RK7115gnEY66i7C5dG) | 2:57 |
 | 3 | [River](https://open.spotify.com/track/17oy9DhHqTmdNRwV1E5fKz) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [James Taylor At Christmas \(Bonus Track Version\)](https://open.spotify.com/album/0K3xxBQ1IdjrGGo9qhLIwf) | 3:34 |
-| 4 | [You Turn Me On, I'm a Radio \- Acoustic](https://open.spotify.com/track/0mdOBageiouWrzRnQTCkJH) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In the Magic Hour Solo Sessions](https://open.spotify.com/album/3cTvxUix8USFUfjiyre6B4) | 3:21 |
+| 4 | [You Turn Me On, I'm a Radio \- Acoustic](https://open.spotify.com/track/7rP4vwl8DJ5l7xHMmRGBYO) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In the Magic Hour Solo Sessions](https://open.spotify.com/album/1XxOQRUB7eOOQWryZM3YZM) | 3:21 |
 | 5 | [Cactus Tree](https://open.spotify.com/track/4QRPPdqljd6gxrvPNwkzR9) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn), [Shawn Colvin](https://open.spotify.com/artist/0K7VN4aHxHcEb7PqkfoIVA) | [Bohemian](https://open.spotify.com/album/1BbcFbPYX2W12yMETD2pJ8) | 4:48 |
 | 6 | [Both Sides Now](https://open.spotify.com/track/2xLU9wcdlFtuCIUDn05d2p) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [The Very Best Of Judy Collins](https://open.spotify.com/album/2ey4NEI46WsFWtlyy2fglR) | 3:15 |
 | 7 | [California](https://open.spotify.com/track/6nyNxFIOPz0CQBa2dI68zX) | [Who Is Fancy](https://open.spotify.com/artist/5QSx2vpiSchSeCwc0qmfNI) | [When We Rise \(Original Television Soundtrack\)](https://open.spotify.com/album/1U15HyG9LIxbSitBJOLGBC) | 4:07 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTAq251RdAA.md) - [plain]
 | 80 | [Woodstock](https://open.spotify.com/track/36MxthZNeNmBEGZLC5TZYN) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 5:19 |
 | 81 | [Down to You \(My Confidante\)](https://open.spotify.com/track/71vOaA56rhZ4UxlCdVhHqn) | [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [Down to You \(My Confidante\)](https://open.spotify.com/album/5kreh8RvjTaep5mnW4w6GJ) | 4:07 |
 
-Snapshot ID: `MCxhMjMzMzhjMTRmMTk1Yjg2YmZiYTFkZThjOTBiYzI5NmJkNzk2YjFm`
+Snapshot ID: `MCxlMjAyYjJiNDYyYzk4MTY2NGNjNjU5ZGJkMDk4ZWFjZjRhMzY0OGEz`

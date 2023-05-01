@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 
 > Music from TV shows and films nominated for the 80th Golden Globe Awards\. Watch Jan 10, 2023 on NBC.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,510 likes - 32 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,511 likes - 32 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 27 | [We're Back \(Persons of Interest\)](https://open.spotify.com/track/7rhF7tvuOdveyQ74ophxml) | [Siddhartha Khosla](https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY) | [Only Murders in the Building: Season 2 \(Original Score\)](https://open.spotify.com/album/4mSME5Jj4ANMDdgZ6ZJWYH) | 1:16 |
 | 28 | [Today We Launch](https://open.spotify.com/track/5IOfH50BVukvKUeIzQ7JWA) | [Anne Nikitin](https://open.spotify.com/artist/1ZA3IynpePtaBeajOMrFfr) | [The Dropout \(Original Score\)](https://open.spotify.com/album/35AnVuSAzHTf7saCHf9xrb) | 2:14 |
 | 29 | [Barry](https://open.spotify.com/track/4dqBW6ZGXVKTHg15MErvJ9) | [David Wingo](https://open.spotify.com/artist/7mRf8eSpaoh4FD8D4mtvRk) | [BARRY \(HBO Original Music Soundtrack Season 1 & 2\)](https://open.spotify.com/album/4kYPrvylR7PVvk8fphlRVv) | 1:09 |
-| 30 | [Titles](https://open.spotify.com/track/4HFqmG18ztVvqqBG0jVu34) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Black Bird](https://open.spotify.com/album/3O5ig1AqlNK4SQYU3litHb) | 4:55 |
-| 31 | [Main Title \(The Flight Attendant\)](https://open.spotify.com/track/2RyCnbRAwgxNi8D4MexzkF) | [Blake Neely](https://open.spotify.com/artist/4UOzqO0jZUrTiTunfBw4tp) | [The Flight Attendant: Season 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/4eGTAHIWB70mIf3gwknjow) | 1:29 |
+| 30 | [Main Title \(The Flight Attendant\)](https://open.spotify.com/track/2RyCnbRAwgxNi8D4MexzkF) | [Blake Neely](https://open.spotify.com/artist/4UOzqO0jZUrTiTunfBw4tp) | [The Flight Attendant: Season 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/4eGTAHIWB70mIf3gwknjow) | 1:29 |
+| 31 | [Titles](https://open.spotify.com/track/3nXtowNQOkWjIu1Ep2smUw) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Black Bird](https://open.spotify.com/album/3d5Y2qarMZlq0YyvLueE4I) | 4:55 |
 | 32 | [Get Outta My Face \(feat\. Sebastian Stan\)](https://open.spotify.com/track/6o9NhaBfBJS4pCd2RjGb66) | [Isaac Carpenter](https://open.spotify.com/artist/4xbXNEpKqu2JcnjxaHAWpj), [Sebastian Stan](https://open.spotify.com/artist/0JX0HkJxazV5WddFlKp9JV) | [Pam & Tommy \(Original Series Soundtrack\)](https://open.spotify.com/album/3DLTFjUNq8cigCAqaU1ZOc) | 1:02 |
 
-Snapshot ID: `MCwxMTg3ZGI5MTU1YzgyZjcxMTViMjM2YTJlYmE4NGE2ZTA0YTk1ZGI5`
+Snapshot ID: `MCw4YmIxNGJlODBmMzQyYWZlNjgyZThhMjQzOTJkMTBkNWY1ZDRhMzFl`

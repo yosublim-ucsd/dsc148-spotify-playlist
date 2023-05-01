@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Btrem, Derxan, Major RD, LEALL, $amuka",
-  "num_followers": 28252,
+  "num_followers": 28279,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGVhNGM1Y2JlYTQ2NGFkYmJkM2RhNWU2ODBmOWVjOGI3MzJhMTg2",
+  "snapshot_id": "MCwyNzkwZWVjY2QwZDEwYmZlY2Y4MmMyMDk4NzM0MGYwYzdhNjFhZmIw",
   "tracks": [
     {
       "added_at": "2023-04-28 03:01:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
+        "name": "BlackNoir",
+        "url": "https://open.spotify.com/album/1rHWvpXpE01SNUECV3YusE"
+      },
+      "artists": [
+        {
+          "name": "Scooby",
+          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
+        }
+      ],
+      "duration_ms": 164623,
+      "name": "BlackNoir",
+      "url": "https://open.spotify.com/track/1EKQ1TYU3Ddo5MxY4PMeHp"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
         "name": "40\u02da.40 Deluxe",
         "url": "https://open.spotify.com/album/15pZ53TSgyuAfNOqt2hnpM"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 197000,
       "name": "Kenner",
       "url": "https://open.spotify.com/track/19lLjXxxDDWQCxO69QU5Zr"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
-        "name": "BlackNoir",
-        "url": "https://open.spotify.com/album/1rHWvpXpE01SNUECV3YusE"
-      },
-      "artists": [
-        {
-          "name": "Scooby",
-          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
-        }
-      ],
-      "duration_ms": 164623,
-      "name": "BlackNoir",
-      "url": "https://open.spotify.com/track/1EKQ1TYU3Ddo5MxY4PMeHp"
     },
     {
       "added_at": "2023-04-28 03:01:00",

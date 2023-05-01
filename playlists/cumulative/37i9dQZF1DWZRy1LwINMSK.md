@@ -4,7 +4,7 @@
 
 > La casa del trap chileno\. Foto: Julianno Sosa.
 
-148 songs - 8 hr 4 min
+149 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Icy](https://open.spotify.com/track/38RWfnV3ZAkI0nGjWGOeFb) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Aunque Estén Todos Mirando](https://open.spotify.com/album/1gDzwCyVLOBrmBdVCKqKsa) | 3:27 | 2022-01-20 | 2023-03-08 |
 | [Illuminati \- Remix](https://open.spotify.com/track/6fGyrAxqgdvhzcOKlMQq5s) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Illuminati \(Remix\)](https://open.spotify.com/album/1hYkac7PNbTZlOOXwZJSam) | 4:50 | 2022-01-20 |  |
 | [Instinto](https://open.spotify.com/track/2AK5fEIhlG6Od3P3gPxtZP) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB) | [Instinto](https://open.spotify.com/album/5c5huROnywDnMjJhSr2vIh) | 2:34 | 2022-01-20 |  |
-| [Intuición](https://open.spotify.com/track/2W5Wn1uCzCe198G4YQCFYc) | [Yaero](https://open.spotify.com/artist/2FtH56XmSAFxrEDtRvS93k) | [Intuición](https://open.spotify.com/album/5xMJ1s0acu2UzIDhbHIRas) | 2:56 | 2022-01-20 |  |
+| [Intuición](https://open.spotify.com/track/1OIKecKxcQVrVUdtEbI8EP) | [Yaero](https://open.spotify.com/artist/2FtH56XmSAFxrEDtRvS93k) | [Intuición](https://open.spotify.com/album/2ijGx0y4jmpC2bkhUZHrCv) | 2:56 | 2023-03-30 |  |
+| [Intuición](https://open.spotify.com/track/2W5Wn1uCzCe198G4YQCFYc) | [Yaero](https://open.spotify.com/artist/2FtH56XmSAFxrEDtRvS93k) | [Intuición](https://open.spotify.com/album/5xMJ1s0acu2UzIDhbHIRas) | 2:56 | 2022-01-20 | 2023-05-01 |
 | [Jaguar](https://open.spotify.com/track/3k3Hm3PBmnE7bNCExKOxFm) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [Jaguar](https://open.spotify.com/album/5DxjVYkGm326bIHaFv6nvX) | 3:15 | 2022-01-20 |  |
 | [Jordan Bape](https://open.spotify.com/track/5dnoALe7sZbJQhklAGMBp2) | [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB), [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs) | [Jordan Bape](https://open.spotify.com/album/2W0b733Gj2AgYOTWstFqwG) | 3:54 | 2022-04-08 |  |
 | [Juegos de Matel \(feat\. El Menor y El Barto\)](https://open.spotify.com/track/6vdBpuktDTX4Y7JPAxgTNF) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [El Menor](https://open.spotify.com/artist/5jAbdQuetN1LntrEphYBTW), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP) | [Juegos de Matel \(feat\. El Menor y El Barto\)](https://open.spotify.com/album/6N3LPbmSG9D6Of82jugIPN) | 3:59 | 2022-01-20 |  |

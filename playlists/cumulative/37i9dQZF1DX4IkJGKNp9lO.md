@@ -4,7 +4,7 @@
 
 > Svensk punk från förr och nu.
 
-227 songs - 10 hr 55 min
+228 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [39 Steg](https://open.spotify.com/track/2rV0t4N2oZnTl2yjDnRc0I) | [Strebers](https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ) | [Kallt Stål, Varmt Blod + I Fädrens Spår](https://open.spotify.com/album/1rceLyJ9uvN9FSF9wqgz3t) | 3:31 | 2021-12-14 |  |
 | [800°](https://open.spotify.com/track/3zgJHNEorjbLLThp6TiMhz) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Kärlek och uppror](https://open.spotify.com/album/0n2TPFl1JX4hWzt0iC4Dx0) | 3:47 | 2021-12-14 |  |
 | [Abab](https://open.spotify.com/track/0dy6fTM1ac2mAmkDPUB6xz) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [MNW Digital Archive 1979](https://open.spotify.com/album/06H2x5cRaSVly5u1fhHWuV) | 2:03 | 2021-12-14 |  |
-| [Alaska](https://open.spotify.com/track/2tFsLCGvOirHBRBeC4JxcK) | [EPA](https://open.spotify.com/artist/6vLwmfijKpOf0xR8Mv79aj) | [Tretton Övningar i Mindfulness](https://open.spotify.com/album/38BvEgilcgoviVitJEqpKc) | 2:40 | 2021-12-14 |  |
+| [Alaska](https://open.spotify.com/track/2tFsLCGvOirHBRBeC4JxcK) | [EPA](https://open.spotify.com/artist/6vLwmfijKpOf0xR8Mv79aj) | [Tretton Övningar i Mindfulness](https://open.spotify.com/album/38BvEgilcgoviVitJEqpKc) | 2:40 | 2021-12-14 | 2023-05-01 |
 | [Alaska](https://open.spotify.com/track/5kMbynZUXQ2gZoajOwwKhV) | [EPA](https://open.spotify.com/artist/6vLwmfijKpOf0xR8Mv79aj) | [Tretton Övningar I Mindfulness](https://open.spotify.com/album/5DdD36AbIbzNd0pXjylS6h) | 2:40 | 2021-12-14 | 2022-07-29 |
 | [Alla vill till himmelen men ingen vill dö](https://open.spotify.com/track/0bdo2vF0PUZ9k0WaK9kKuu) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv), [Martin Westerstrand](https://open.spotify.com/artist/5t6WDMTCzu4scrQiLn3rPC) | [Grit](https://open.spotify.com/album/5j376oRcfB6bEovuA5Ssod) | 2:57 | 2021-12-14 |  |
 | [Allt jag säger](https://open.spotify.com/track/31r9OFgLc1d0zQG0aoX6Dk) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Hobbydiktatorn](https://open.spotify.com/album/1BCAvvVtURz8zlaZZNR3uP) | 2:30 | 2021-12-14 | 2022-07-23 |
@@ -27,6 +27,7 @@
 | [Armageddon](https://open.spotify.com/track/7v6CHyt2ivZLtfXGPtTC3s) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Visar vägen](https://open.spotify.com/album/3uf8YWyGgdJRJXh5olLWO1) | 3:03 | 2021-12-14 | 2022-07-25 |
 | [Bakom ljuset](https://open.spotify.com/track/498n1naFrcEivWniL6arbW) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [Bakom ljuset](https://open.spotify.com/album/0oD3URB9nBxNSI6p79HE5m) | 2:30 | 2021-12-14 | 2022-07-18 |
 | [Bakom Spegeln](https://open.spotify.com/track/19RCzCRRAaIVVSf2WDtVRB) | [Radioaktiva Räker](https://open.spotify.com/artist/7j4RimWxVqLWTtWtmEf2Qd) | [Finito](https://open.spotify.com/album/4GVLOGsaNo2NGkLtq6IBRt) | 2:52 | 2021-12-14 | 2023-04-29 |
+| [Bakom Spegeln](https://open.spotify.com/track/6TYwqGXwwgBbkocgdvJvzL) | [Radioaktiva Räker](https://open.spotify.com/artist/7j4RimWxVqLWTtWtmEf2Qd) | [Finito](https://open.spotify.com/album/2SlVOhQ6AwhzB2fDOTrl4f) | 2:52 | 2023-04-13 |  |
 | [Bakom Spegeln](https://open.spotify.com/track/52lX0sdRfa9qAGPQoFO9yT) | [Radioaktiva Räker](https://open.spotify.com/artist/7j4RimWxVqLWTtWtmEf2Qd) | [Finito](https://open.spotify.com/album/1EWoTh7ROqKNI36misoH0w) | 2:53 | 2021-12-14 | 2022-07-29 |
 | [Balladen Om Lilla Elsa](https://open.spotify.com/track/1K0fEr5SmhneWgbnP8HmzM) | [Strebers](https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ) | [Kallt Stål, Varmt Blod + I Fädrens Spår](https://open.spotify.com/album/1rceLyJ9uvN9FSF9wqgz3t) | 2:23 | 2021-12-14 |  |
 | [Balladen om lilla Elsa](https://open.spotify.com/track/1lGvRLWhwDUiAokWhx3Kc7) | [Strebers](https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ) | [Kallt Stål, Varmt Blod + I fädrens spår](https://open.spotify.com/album/2V8Gu2Ycw8ng6uY5GUmTM6) | 2:23 | 2021-12-14 | 2022-07-29 |

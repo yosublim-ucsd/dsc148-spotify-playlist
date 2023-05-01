@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-1,028 songs - 2 day 8 hr 10 min
+1,029 songs - 2 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,7 +379,7 @@
 | [Gravity](https://open.spotify.com/track/44LVgFZvUcBYo98vy71tvd) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Talk](https://open.spotify.com/album/5PqZvEQFscV66LOl52oGBS) | 6:20 | 2022-03-29 | 2022-04-09 |
 | [Hala Madrid ...y nada más](https://open.spotify.com/track/1lL7OcPk6lINpeupzqTjSC) | [Real Madrid](https://open.spotify.com/artist/52tiVHeB0x2XvFAyajG1BZ), [Red'One](https://open.spotify.com/artist/26quetZGT3Ru0s5nJNSbCB) | [Hala Madrid ...y nada más](https://open.spotify.com/album/3P5MjGvpfwLCz0VBciW86q) | 2:57 | 2022-05-31 | 2022-06-06 |
 | [Halloween Theme \- Main Title](https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Halloween Motion Picture Soundtrack](https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP) | 2:55 | 2022-11-02 | 2022-11-09 |
-| [Hasta la Raíz](https://open.spotify.com/track/4Bo8GqM6x6D1J3CsIjQJBl) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Lo Que La Gente Estaba Esperando](https://open.spotify.com/album/5dvRYXt7xSY8EDSlvnWtAm) | 2:46 | 2023-04-04 |  |
+| [Hasta la Raíz](https://open.spotify.com/track/4Bo8GqM6x6D1J3CsIjQJBl) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Lo Que La Gente Estaba Esperando](https://open.spotify.com/album/5dvRYXt7xSY8EDSlvnWtAm) | 2:46 | 2023-04-04 | 2023-05-01 |
 | [Hasta Los Dientes](https://open.spotify.com/track/0sPtR2Z0fRbKOKc3OvBEdA) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Familia](https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX) | 3:08 | 2022-05-16 | 2022-05-28 |
 | [Hayya Hayya \(Better Together\) \- Music from the FIFA World Cup Qatar 2022 Official Soundtrack](https://open.spotify.com/track/7vAJiDFrFtMYVOrZbOw7jj) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Aisha](https://open.spotify.com/artist/0S85VL5RtkqXSh22xB8Je5), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Hayya Hayya \(Better Together\) \[Music from FIFA World Cup Qatar 2022 Soundtrack\]](https://open.spotify.com/album/6mPSjHXiuf2zHA0ssVp8iU) | 3:26 | 2022-11-21 | 2022-12-02 |
 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 | 2022-12-21 | 2023-03-08 |
@@ -388,6 +388,7 @@
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-11-14 | 2023-02-22 |
 | [Hey Mor](https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:16 | 2022-11-01 | 2022-12-08 |
 | [Hey, Mickey!](https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hey, Mickey!](https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei) | 1:55 | 2023-01-23 | 2023-02-25 |
+| [High Infidelity](https://open.spotify.com/track/4356PL6jkERzJouVfQQkZo) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I) | 3:51 | 2023-04-30 |  |
 | [Himno Nacional Mexicano](https://open.spotify.com/track/6WbxsSeaWPfYaz7X1pceoh) | [Orquesta Filarmónica internacional](https://open.spotify.com/artist/5AMgYsDdeQ7Eu3xVYaWOkK) | [Himnos Nacionales De Latino America](https://open.spotify.com/album/4UGfXKTW4BmEjk24ZiNT1Q) | 4:42 | 2022-09-17 | 2022-09-24 |
 | [Historia de un Amor \- avec Pablo Alboran](https://open.spotify.com/track/5J6v7TQWGtEfOlSJlIeEqU) | [Najwa](https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Historia de Un Amor](https://open.spotify.com/album/4g5NG0Yw1gcW0MKYC3s46O) | 2:32 | 2022-03-01 | 2022-03-03 |
 | [Hold Me](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Hold Me](https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W) | 2:20 | 2023-04-25 |  |

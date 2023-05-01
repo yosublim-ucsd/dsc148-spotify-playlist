@@ -4,7 +4,7 @@
 
 > Hear all of TAEYANG's biggest and best hits in one playlist.
 
-67 songs - 3 hr 58 min
+68 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Take It Slow](https://open.spotify.com/track/6mqsxO95cTucMYoK3drdSK) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Solar International](https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de) | 4:22 | 2023-01-13 |  |
 | [Tomorrow](https://open.spotify.com/track/0ksaKAzzFwB3h70h1Z5PRb) | [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Fever's End \(열꽃\) Pt\. 2 \- EP](https://open.spotify.com/album/6bcvEP3490ouA7PW2DD168) | 4:12 | 2023-01-13 |  |
 | [TONIGHT](https://open.spotify.com/track/2Ryu6OAqmEcrtnTxaPYDCP) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [WHITE NIGHT](https://open.spotify.com/album/4AE3KNhHuzlTURK6c77eaR) | 4:26 | 2023-01-13 |  |
-| [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 2:55 | 2023-01-13 |  |
+| [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 2:55 | 2023-04-25 |  |
+| [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 2:55 | 2023-01-13 | 2023-05-01 |
 | [WAKE ME UP](https://open.spotify.com/track/49w8umYnAfSPulksfEDx16) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [WHITE NIGHT](https://open.spotify.com/album/4AE3KNhHuzlTURK6c77eaR) | 3:19 | 2023-01-13 |  |
 | [Warigari](https://open.spotify.com/track/0Kov3heCgcnLdC5QlKgQe9) | [PEEJAY](https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY), [Kush](https://open.spotify.com/artist/1BKVGMxyIBqU3CqMJxUvWC), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [WALKIN', Vol.2](https://open.spotify.com/album/2CPepitv0LvH8IqvIAu5Uc) | 3:32 | 2023-01-13 |  |
 | [Wedding Dress](https://open.spotify.com/track/2NO4CA2TFvhGeg7XMz8PmT) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Solar](https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z) | 4:02 | 2023-01-13 |  |

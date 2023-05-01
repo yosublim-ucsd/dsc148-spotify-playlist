@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: LIN, Artwork: Isu Kim.
 
-708 songs - 1 day 17 hr 26 min
+709 songs - 1 day 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -555,7 +555,8 @@
 | [Slot Machine feat\. Aydo Abay \- Radio Edit](https://open.spotify.com/track/37O0K5W1ruKPj2USQmRvbN) | [Oberst & Buchner](https://open.spotify.com/artist/6c6I6loLZeoagmF9nfAXJw), [Aydo Abay](https://open.spotify.com/artist/7iJD1olupd6aCcjeIBfUkJ) | [Slot Machine feat\. Aydo Abay](https://open.spotify.com/album/51jZVIj9xOtiZUjhyvfna8) | 3:21 | 2022-07-13 | 2022-09-15 |
 | [SLOWDANCE](https://open.spotify.com/track/52T9hjruVPKQBN4sj89nrJ) | [FRANZ Pop Collective](https://open.spotify.com/artist/16eDY2pftnSh3oLOdgjt3i) | [SLOWDANCE](https://open.spotify.com/album/50aXLAsxwTs8meTVA7m6pa) | 3:40 | 2022-10-05 | 2023-01-12 |
 | [Slowly](https://open.spotify.com/track/7zVIFvH514q4PX5RL0Ro24) | [Invisible Twins](https://open.spotify.com/artist/4iPvFGVPkRDzIAFwgKTTiw) | [Slowly](https://open.spotify.com/album/68WXuBImJzicXgPZ7njGxA) | 4:31 | 2022-02-09 | 2022-02-24 |
-| [Smile](https://open.spotify.com/track/17EHQsJKw0njET2FH4toSc) | [Lioba](https://open.spotify.com/artist/7LYIJJdSauMBT4bkGEcldy) | [Smile](https://open.spotify.com/album/56dqVzAD6hUdCKCzouo303) | 3:15 | 2023-04-05 |  |
+| [Smile](https://open.spotify.com/track/17EHQsJKw0njET2FH4toSc) | [Lioba](https://open.spotify.com/artist/7LYIJJdSauMBT4bkGEcldy) | [Smile](https://open.spotify.com/album/56dqVzAD6hUdCKCzouo303) | 3:15 | 2023-04-05 | 2023-05-01 |
+| [Smile](https://open.spotify.com/track/5WtqZvo6FpwsslVE9MdrU8) | [Lioba](https://open.spotify.com/artist/7LYIJJdSauMBT4bkGEcldy) | [Smile](https://open.spotify.com/album/5mdWtokpOmeaBfofTMWqBS) | 3:15 | 2023-04-26 |  |
 | [Snow](https://open.spotify.com/track/3YfVl8ppe0M4nM3ROyBS6D) | [EVÎN](https://open.spotify.com/artist/0lWgtltnu46nD7fJxTjarO) | [Snow](https://open.spotify.com/album/6pvPnoBxCmF1y7NLlTTZ0S) | 3:05 | 2022-02-02 | 2022-02-10 |
 | [So Easy](https://open.spotify.com/track/58X3Z1oPvb4ajMDVz29aFb) | [Blauhaus](https://open.spotify.com/artist/6RNq8ySq41Z7hWgC9ZxfKr) | [So Easy](https://open.spotify.com/album/3W2NcBfzZ2jAbnSagErV6P) | 3:22 | 2022-07-20 | 2022-09-09 |
 | [So naiv sind wir nicht](https://open.spotify.com/track/6k1Kw7DQbHDQ1CvqxS1vYy) | [Es brennt](https://open.spotify.com/artist/1FBfQFD2kZfXkuSAQY0TP6) | [So naiv sind wir nicht](https://open.spotify.com/album/5l3gd7qdTFBJnHW6z7cC1Y) | 2:26 | 2022-05-25 | 2022-09-01 |

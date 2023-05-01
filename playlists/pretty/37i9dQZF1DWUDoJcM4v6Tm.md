@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 
 > Explore a sprawling musical landscape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,609 likes - 136 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 728,667 likes - 136 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 | 105 | [Heart to Ride](https://open.spotify.com/track/17NuSPbKO6SgDPcYwMrpml) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Out of My Province](https://open.spotify.com/album/3nz8jovd9m48kT4HnJLrUk) | 4:09 |
 | 106 | [Pale November Dew](https://open.spotify.com/track/1mKLnhqWC5imlKFmmqLtvL) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Unsung Passage](https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW) | 3:50 |
 | 107 | [No Face](https://open.spotify.com/track/0uLlFekr8nKMj960xHKPYx) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 1:56 |
-| 108 | [Shadow Bloom](https://open.spotify.com/track/1Dkzb965hsHKP8iTDqq0AT) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Emily Alone](https://open.spotify.com/album/2mpUdUSa6kIzdJQ23BgajX) | 3:40 |
+| 108 | [Shadow Bloom](https://open.spotify.com/track/2XsCBK0PkNahS01K4VBYF9) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Emily Alone](https://open.spotify.com/album/21Akw9i98EXJbkYblXydmX) | 3:40 |
 | 109 | [The Underground](https://open.spotify.com/track/06JjMmDAYQpAKj0s9QB6AD) | [Murphykid](https://open.spotify.com/artist/41Yj6cl4CbpuE0siSUQ5rI) | [The Underground](https://open.spotify.com/album/6GP8ws72HUtZQ4xqAFjKC7) | 3:29 |
 | 110 | [Human](https://open.spotify.com/track/10tPPPe4J8aBfYP3y3oF8p) | [Molly Sarlé](https://open.spotify.com/artist/4XLoKwIIoARkhaKuZocq5d) | [Karaoke Angel](https://open.spotify.com/album/4Op0Io346Tajgi7M6iLRV5) | 3:54 |
 | 111 | [No One Else in Mind \(feat\. Soko\)](https://open.spotify.com/track/4vlpwQUHpMdJ20JyabSdvk) | [Blaenavon](https://open.spotify.com/artist/79RmzX8i9w6YwqJjg3O1MY), [Soko](https://open.spotify.com/artist/7jY8kqH6TphQsiT0wjlsqZ) | [No One Else In Mind \(feat\. Soko\)](https://open.spotify.com/album/5Phx7r7Xdztm7BYkafvIc8) | 3:46 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 | 135 | [Miss Misanthrope](https://open.spotify.com/track/0u6rjHF61bxe25gZOOZ5hx) | [Jealous of the Birds](https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm) | [Parma Violets](https://open.spotify.com/album/0EwUDa0erUFKWfzhCk3vNX) | 3:55 |
 | 136 | [Secret \- Acoustic](https://open.spotify.com/track/7khUiiyqFAluYRsw1ZKcWS) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Secret \(Acoustic\)](https://open.spotify.com/album/4YAWFrz6K5VyNQcg8eK7B3) | 3:10 |
 
-Snapshot ID: `MCxhZThmOTJjYzZjMmZkYWM3MmMzYzk0ZmJhMTNhZDkyNGQzMDY3ZjUw`
+Snapshot ID: `MCxiZjhhZDJkZDJjOWU4MmIzZTY1ZmM2NDUxMGRlYzRjYWFkZjljYTUw`

@@ -1185,6 +1185,28 @@
     },
     {
       "album": {
+        "name": "Mellan Raderna",
+        "url": "https://open.spotify.com/album/0itr0pWTs26zlZQUWVWeQE"
+      },
+      "artists": [
+        {
+          "name": "Syster Sol",
+          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
+        },
+        {
+          "name": "AKI",
+          "url": "https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191120,
+      "name": "Full fokus",
+      "url": "https://open.spotify.com/track/4Kvy2rVGgYbjtQZTpZZCEb"
+    },
+    {
+      "album": {
         "name": "F\u00e4rsking",
         "url": "https://open.spotify.com/album/24GKR0Sw8jc6PWA4XPoSX5"
       },
@@ -2342,7 +2364,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 222000,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/4vW0yftC1LPQHCVEborgqT"

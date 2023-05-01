@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bispo e Bárbara Tinoco.
 
-290 songs - 15 hr 52 min
+291 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Ar](https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Gota D'Espaço](https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ) | 3:56 | 2022-07-07 |  |
 | [Assim](https://open.spotify.com/track/5gjGfw1eaoMOW9Rq97j1Rp) | [Choro](https://open.spotify.com/artist/7jmNHJxPdNzErKwdI9Ts5D), [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b), [Matheus Paraizo](https://open.spotify.com/artist/10BT29sUZJ4ZIKOwIfONA4), [Inês Lucas](https://open.spotify.com/artist/6eVIiykMS1MiFG8AkH7ILn), [AVALANCHE](https://open.spotify.com/artist/1BRFw2SgH5VM5P0FLmFp3z) | [Assim](https://open.spotify.com/album/3eQ6r9soA8z9PluYL8U2vk) | 2:43 | 2022-07-07 | 2022-08-05 |
 | [Até que vc volte](https://open.spotify.com/track/3WYMFOTpwNfbuT8vS67V3D) | [Dougie Knight](https://open.spotify.com/artist/2PU8j6LKs1ndgXQQ92n5RB) | [Até que vc volte](https://open.spotify.com/album/7kRzljKDGhYWAe6Z6kRMVr) | 2:01 | 2023-03-03 | 2023-03-23 |
+| [aventura](https://open.spotify.com/track/1vfTcheHkwGSSbNQjiaom8) | [ÉLLÀH](https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt), [Vincee](https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN) | [aventura](https://open.spotify.com/album/1WxyMf0XHnJjDZoULpX0la) | 3:18 | 2023-04-27 |  |
 | [Baby](https://open.spotify.com/track/2pEHLvTEzLoSePd831mQR3) | [Fran2785](https://open.spotify.com/artist/6eQ7iZBPv29tBjdfSRgjw8) | [Baby](https://open.spotify.com/album/3DRh9PrwDEWZsNDjmNQZpC) | 3:41 | 2023-03-03 | 2023-03-31 |
 | [Backstage](https://open.spotify.com/track/7eoputmT8ACWDmhVFuYFS8) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:16 | 2022-07-07 |  |
 | [BAD](https://open.spotify.com/track/7eavXubalNqQjOGnvDneKp) | [Codie](https://open.spotify.com/artist/6572dH5AjosTkf97tnQ4pm) | [BAD](https://open.spotify.com/album/1rm8wxsO4JFwV3Qt4hVgtH) | 2:39 | 2023-03-24 | 2023-04-14 |
@@ -93,7 +94,7 @@
 | [Don't Lie](https://open.spotify.com/track/3wvEiKmoYB2JUkgSN1xlJI) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Sabi na Sabura](https://open.spotify.com/album/3Pce78X39Cqw3TCdaUEEfj) | 3:05 | 2022-07-07 |  |
 | [Dona](https://open.spotify.com/track/3ItaN5uDoA1Muk8S5vpbdZ) | [NGA](https://open.spotify.com/artist/3ONLrDrnWMglipr2yWeg7s) | [Dona](https://open.spotify.com/album/3JwAOwKIEzZ9nFxaRcg9Oo) | 4:05 | 2022-08-11 | 2022-09-17 |
 | [Dona Do Meu Coração](https://open.spotify.com/track/46GDVz4wTsWVZonA1LkupU) | [Lex](https://open.spotify.com/artist/0mXNHuEkPrnQlsxKsIqzBF), [Mozzy Jr](https://open.spotify.com/artist/46FPvK1KPnpVOKHISFJhpB) | [Dona Do Meu Coração](https://open.spotify.com/album/766f2mw4eB8TdjXhvelZTL) | 3:57 | 2023-03-24 | 2023-04-14 |
-| [Down](https://open.spotify.com/track/2ewrS46uhgs4hRwJEDTm07) | [Naife](https://open.spotify.com/artist/7KTQQgroIAmGaopulh98Bi) | [Down](https://open.spotify.com/album/7qhIRAgBM3PUCNO2GvDTw4) | 3:40 | 2023-04-27 |  |
+| [Down](https://open.spotify.com/track/2ewrS46uhgs4hRwJEDTm07) | [Naife](https://open.spotify.com/artist/7KTQQgroIAmGaopulh98Bi) | [Down](https://open.spotify.com/album/7qhIRAgBM3PUCNO2GvDTw4) | 3:40 | 2023-04-27 | 2023-05-01 |
 | [DRIP](https://open.spotify.com/track/61GFnSZxDj81InwQ557bHn) | [y.azz](https://open.spotify.com/artist/0wtDy87EsXG4bLUJ6zbD0U) | [DRIP](https://open.spotify.com/album/78vNTZsf7x1Un1jt6RGN1B) | 3:08 | 2022-10-06 | 2022-10-28 |
 | [E Se Amanhã Eu Não Acordar?](https://open.spotify.com/track/76kA9bcAOo91KrlLFMmad3) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH) | [E Se Amanhã Eu Não Acordar?](https://open.spotify.com/album/3HB9pyc6AOAbyX9GFAiUZV) | 3:22 | 2022-09-01 | 2022-09-30 |
 | [Eclipse](https://open.spotify.com/track/0tlyCwXSCXP5fsGM4OrHzl) | [Lunn](https://open.spotify.com/artist/3DhbIvEFQyWMVbVJByMMfW), [Ellanor](https://open.spotify.com/artist/5Wd28v3076RfH5BQilhVE6), [L\-Ali](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy), [xtinto](https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx) | [Eclipse](https://open.spotify.com/album/5EZ4pHbodGf7j12OqeMQBi) | 3:11 | 2023-03-17 | 2023-04-14 |

@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 20780,
+  "num_followers": 20809,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmIyZGFiZDZhYzU5MDEyMDgwZjJkZmZkYzUwMWY4Y2VhMWZiNjM0",
+  "snapshot_id": "MCwwYzZlNDkyMGFhMWRkNjMyNDU5MjhkMTdiYjI2YWFkMGYyM2FmZjA4",
   "tracks": [
     {
       "added_at": "2023-03-31 10:23:54",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-03-31 10:23:54",
       "album": {
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "duration_ms": 198069,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/26vcAIAnkT3d7i9B8gtpTy"
+    },
+    {
+      "added_at": "2023-03-31 10:23:54",
+      "album": {
         "name": "That's Why I Can't Talk About Love",
         "url": "https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 202840,
       "name": "That's Why I Can't Talk About Love (Feat. Woo)",
       "url": "https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ"
-    },
-    {
-      "added_at": "2023-03-31 10:23:54",
-      "album": {
-        "name": "WATERFALL",
-        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 198069,
-      "name": "Illusion",
-      "url": "https://open.spotify.com/track/26vcAIAnkT3d7i9B8gtpTy"
     },
     {
       "added_at": "2023-03-31 10:23:54",

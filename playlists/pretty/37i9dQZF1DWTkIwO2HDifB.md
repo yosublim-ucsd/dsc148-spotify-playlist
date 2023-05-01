@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Os Bico Tão Se Perguntando e os funks mais 🔑 do Brasil\. Foto: MC PH
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,582,811 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,585,533 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 49 | [O Fim é Triste \(feat\. DJ BOY\)](https://open.spotify.com/track/0yDMhYTryvQoR634wDgQ1j) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [DJ BOY](https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V) | [O Fim é Triste \(feat\. DJ BOY\)](https://open.spotify.com/album/42olwEoM9dmZzgs97cjdXt) | 2:38 |
 | 50 | [Simplesmente Ela](https://open.spotify.com/track/7qaUeAyg0eYYhHDCx58GXa) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K) | [Simplesmente Ela](https://open.spotify.com/album/42UKXbB3K0fJl7THkXPw0w) | 2:41 |
 
-Snapshot ID: `MCwxMjU2ODQxYWM3ZDU0NGYzODEyNTBiNDhkMzlmNTM5MTUwZGU0MTUz`
+Snapshot ID: `MCxhOWVjNWI4OTFkNDA3ZjJlM2VhNDA1ZjQ4NzZiYzYxZmM5MjI3N2M1`

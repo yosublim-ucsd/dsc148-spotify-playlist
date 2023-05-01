@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Teenage Wrist
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,285 likes - 105 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,325 likes - 105 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 38 | [Applause](https://open.spotify.com/track/3vTehy2tTrXyEeOieYFEAd) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [Applause](https://open.spotify.com/album/6QOI3b1Lj3eaSzBwVir0s4) | 2:44 |
 | 39 | [Blood Rushes](https://open.spotify.com/track/51IU4G5kECZsUHX2kT1OU3) | [CIVIC](https://open.spotify.com/artist/7ATw5ZiG6dfYFUUVpCsyFe) | [Taken By Force](https://open.spotify.com/album/1NUubkYUM67c9aG6jZ65Jv) | 3:33 |
 | 40 | [Doomscrollers](https://open.spotify.com/track/31vMYl1rfrcgyqc7tLOXYD) | [Quasi](https://open.spotify.com/artist/0fiUV7n91Qqmgln2vQMVdO) | [Breaking the Balls of History](https://open.spotify.com/album/6DVuykMkZf4s7P6hMlnvns) | 4:23 |
-| 41 | [Brass Bell](https://open.spotify.com/track/0vNu5t0o0R57Xy1e10d5zI) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [Brass Bell](https://open.spotify.com/album/6Q7cmkyTXxQO6FKIqrUFhv) | 4:23 |
+| 41 | [Brass Bell](https://open.spotify.com/track/2P1kSwV2hQFxf6jjsOwsMj) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [Desire Pathway](https://open.spotify.com/album/4ijKOsVWOcCxMK2Xt2gvLx) | 4:23 |
 | 42 | [Pay the Price](https://open.spotify.com/track/2nHMLYKRSpRlVPR75PNZUc) | [Glowing](https://open.spotify.com/artist/0bqQxnj2ZL4M2dZahKDZFm) | [Pay the Price](https://open.spotify.com/album/3Fm8Xv3BLPJ9OgCTwX3kT4) | 3:36 |
 | 43 | [Left Right Forward](https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Left Right Forward](https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE) | 2:55 |
 | 44 | [Grow](https://open.spotify.com/track/4NvH6IgSWgT2d3ysomifnD) | [Island of Love](https://open.spotify.com/artist/6Owu7hgXQkNtgcVMo7UYqn) | [Grow/Blues 2000](https://open.spotify.com/album/5dlOQ8Rk9audqOPiV4pEm6) | 2:43 |
@@ -112,6 +112,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 102 | [Tears Are Falling](https://open.spotify.com/track/7rtPjGBFRB0g2wBXUbrWQ6) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Tears Are Falling](https://open.spotify.com/album/0rmLedEDkfGgrklLsk7aH9) | 2:44 |
 | 103 | [You Will Never Work In Television Again](https://open.spotify.com/track/2ownDSIYHvydbtauGZW4ln) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 2:48 |
 | 104 | [Tidal River](https://open.spotify.com/track/2IAWpK4ez7m987Xxy5hGMl) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Endless Rooms](https://open.spotify.com/album/2inG3MxvNhZYd808mnhbOW) | 4:26 |
-| 105 | [Head On](https://open.spotify.com/track/42vq2Ww3BMk7HE8iL6yWF4) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG), [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Head On](https://open.spotify.com/album/4spRalyH6f1l2kRMxUbU19) | 2:38 |
+| 105 | [Head On](https://open.spotify.com/track/3hYtruhCU9MPvbajhjvzw6) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG), [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Head On](https://open.spotify.com/album/1hutXgs3QsDoxhOMdt9Dqz) | 2:38 |
 
-Snapshot ID: `MCwyN2Q2MjgwMTFkNjk2ZDc2YWE0MmNlMzEzNGVlMzQ0MzRjMjJhZmQ3`
+Snapshot ID: `MCxhZTMyMjQyOWI3NTI1ZmE3ZDgyN2E1YzYxNTVjZjBlNTcwMzYyNzg2`

@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to the holiday season!
 
-249 songs - 13 hr 47 min
+250 songs - 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/0v0dIbR2koou6d1kO9u9SK) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/0h1q1bGA00rmnYVjqIGWvd) | 2:45 | 2021-12-24 | 2023-04-11 |
 | [Christmas All Over Again](https://open.spotify.com/track/4KjzFAGNJr2SjaA8OIFZJc) | [Sophia Fracassi](https://open.spotify.com/artist/7MPa3OSyGyLNq9CedDr2LT) | [Christmas All Over Again](https://open.spotify.com/album/3gJpBRswNsXaxFIiongFJ8) | 3:06 | 2021-12-24 | 2022-10-30 |
 | [Christmas Alone](https://open.spotify.com/track/4IMBxJ8v95UNXLeAzJTC64) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp) | [Christmas Alone](https://open.spotify.com/album/5sJ41KUJEVPl3wJQucvPjb) | 3:26 | 2021-12-24 | 2022-07-29 |
-| [Christmas Angel](https://open.spotify.com/track/0J4u3HXFFZMtKQb2fZPZbq) | [Josh Ramsay](https://open.spotify.com/artist/5lemlzREG6FOAergTgPi9B) | [Christmas Angel](https://open.spotify.com/album/6tjj25SBB1Slk8o3QDPXt5) | 2:10 | 2022-12-16 |  |
+| [Christmas Angel](https://open.spotify.com/track/0J4u3HXFFZMtKQb2fZPZbq) | [Josh Ramsay](https://open.spotify.com/artist/5lemlzREG6FOAergTgPi9B) | [Christmas Angel](https://open.spotify.com/album/6tjj25SBB1Slk8o3QDPXt5) | 2:10 | 2022-12-16 | 2023-05-01 |
 | [Christmas Anyway](https://open.spotify.com/track/34UyngzvrP2sXVxrUN2m7K) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [Christmas Anyway](https://open.spotify.com/album/3QwgaIZn16DldwwYEdbQaq) | 4:32 | 2022-12-05 | 2023-04-26 |
 | [Christmas at Home](https://open.spotify.com/track/1xvp1cTKblxibrC9noLknD) | [Madison Olds](https://open.spotify.com/artist/6n1pH8SgKcxx6dILhKqYFb), [Nearly York](https://open.spotify.com/artist/26H6hdDHPoK633qeSs861p) | [Christmas at Home](https://open.spotify.com/album/4XpqjcHnjjjV9G6cOPxqqv) | 3:26 | 2021-12-24 | 2022-12-15 |
 | [Christmas at Home](https://open.spotify.com/track/3ALSNnwqeIwMOk8DsgLZux) | [Madison Olds](https://open.spotify.com/artist/6n1pH8SgKcxx6dILhKqYFb), [Nearly York](https://open.spotify.com/artist/26H6hdDHPoK633qeSs861p) | [Christmas at Home](https://open.spotify.com/album/7ChOdPEmGK7XajwLkxWdU1) | 3:26 | 2022-12-16 |  |
@@ -87,6 +87,7 @@
 | [Frosty the Snowman](https://open.spotify.com/track/6jwwplLo8hMDRW6Rrv1cd2) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Frosty the Snowman](https://open.spotify.com/album/4pvXuhVffopCcrxJVhmF5w) | 2:57 | 2021-12-24 | 2022-07-27 |
 | [GIFT 2 U](https://open.spotify.com/track/0OOElGM78RfThghdz0Hz9E) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [GIFT 2 U](https://open.spotify.com/album/5MRT6I49I0WinhPxO4ovsS) | 3:11 | 2021-12-24 | 2022-07-24 |
 | [GIFT 2 U](https://open.spotify.com/track/3CVbAFuBbae8279r6D98Yg) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [GIFT 2 U](https://open.spotify.com/album/4Jz9J0dBhLvUKe2QaZkB3G) | 3:11 | 2021-12-24 | 2022-09-22 |
+| [GIFT 2 U](https://open.spotify.com/track/4c4KfwFafduTVOAJwkq5bw) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [GIFT 2 U](https://open.spotify.com/album/3GnfAwrmllpK00Uxfd1SAE) | 3:11 | 2022-12-16 |  |
 | [Go Tell It On The Mountain](https://open.spotify.com/track/4z1pZgbzHeNjkVi2U4wyIL) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Go Tell It On The Mountain](https://open.spotify.com/album/3uc9cbSv6XfwMNE8lRtR0G) | 3:01 | 2021-12-24 | 2022-11-19 |
 | [God Rest Ye Merry Gentlemen \(feat\. Sarah McLachlan\)](https://open.spotify.com/track/6YgKtmBkCAm2ew0JYZFVVd) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Barenaked for the Holidays](https://open.spotify.com/album/20jrQQKFqYVr5ErT9Uem4S) | 3:26 | 2021-12-24 | 2022-07-29 |
 | [God Rest Ye Merry Gentlemen / We Three Kings](https://open.spotify.com/track/6eou298JmAGYShrwYuLxJ2) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Barenaked For The Holidays](https://open.spotify.com/album/6IRBJEl3iDCSTwATVsQfzX) | 3:26 | 2021-12-24 |  |

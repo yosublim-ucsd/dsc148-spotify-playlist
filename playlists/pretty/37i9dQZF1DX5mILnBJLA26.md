@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x?si=HOC1fGfVR0248k20kf3SpA">Lady Du</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,702 likes - 55 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,373 likes - 55 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 54 | [Ngyakuthanda](https://open.spotify.com/track/2f1BklaRXoAYyXUnuqHt0R) | [Dj nsi\_man](https://open.spotify.com/artist/3F9pLYwzEp1DMaC742g9HY), [Mr JazziQ](https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E) | [Ngyakuthanda](https://open.spotify.com/album/5wwvIzREBJim4vu10XXfyk) | 3:02 |
 | 55 | [Ring Ring Ring](https://open.spotify.com/track/2m1rSnIazzgbksxAiS4gpk) | [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Lowsheen](https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU), [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4) | [Ring Ring Ring](https://open.spotify.com/album/7IZrlKiOYoJrvn6xF2ZZFd) | 5:47 |
 
-Snapshot ID: `MCxjNzNlMWY5MWJjYWI3MjJmNWE3NjY3MTI3Y2ZkNDg4YmRmMzQ4Njdj`
+Snapshot ID: `MCw1M2U0ZDlkODRjOGRkMzgwOTY5ZmI2NDUzYmU1MjJjY2NmMjBiZjAw`

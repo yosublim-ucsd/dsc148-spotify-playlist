@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Meghan Patrick
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,560 likes - 189 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,692 likes - 189 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -198,4 +198,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 188 | [Ain't Enough Whiskey](https://open.spotify.com/track/0VQstDWHWnywLyrsYHSUfy) | [Kalsey Kulyk](https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu) | [Ain't Enough Whiskey](https://open.spotify.com/album/2BHLqgt90TD6ksbzfCzDql) | 3:09 |
 | 189 | [Stoned](https://open.spotify.com/track/1E0MQXTmFHJnaOGIMqq5LF) | [Derek Austin](https://open.spotify.com/artist/0uNsoq1EVnteLuHRwzvYfZ) | [Stoned](https://open.spotify.com/album/7fzDWt3ZsttqHdjr0bugrz) | 2:42 |
 
-Snapshot ID: `MCxjNjc1YjE2MDg4YWI2MGMwZjAyNDkxZDBlODM5MTU0MjM4MGQ2OGI5`
+Snapshot ID: `MCxkZDExNTBhZmYxMTFjZmQyYTBmYjU1NzhlMjViYmI4ZjlhNDFhNDky`

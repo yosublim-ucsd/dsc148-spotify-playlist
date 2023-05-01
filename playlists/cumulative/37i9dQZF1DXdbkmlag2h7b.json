@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "The East Wind",
+        "url": "https://open.spotify.com/album/14GlV5L5ms2sQx8TQ2ygYW"
+      },
+      "artists": [
+        {
+          "name": "Warren Blues",
+          "url": "https://open.spotify.com/artist/3YG7KJgAF3q7udoynLzWXU"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Always Sleepy",
+      "url": "https://open.spotify.com/track/7j6asqjTGFFpjg9TR0H5us"
+    },
+    {
+      "album": {
         "name": "Amorous Rebound",
         "url": "https://open.spotify.com/album/4nXeZ1J8OUhb7vo4fh2zYE"
       },
@@ -308,7 +326,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 215418,
       "name": "Becker's",
       "url": "https://open.spotify.com/track/4HPiuEOyFCBZzp5mugj0o7"

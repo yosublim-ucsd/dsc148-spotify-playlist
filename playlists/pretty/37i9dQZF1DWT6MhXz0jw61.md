@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Joey Bada$$
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,247,249 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,249,547 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [Broke](https://open.spotify.com/track/4PuK5qsM9yF2x4MhM5sjkT) | [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l), [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO) | [Broke](https://open.spotify.com/album/0xZKaOjDHI0Kx3IfS2eb0M) | 2:59 |
 | 100 | [PARIS](https://open.spotify.com/track/52LNZKzoEyx0KzV0IMclnc) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Lyrics to GO, Vol\. 4](https://open.spotify.com/album/0E6Fb92KU7h8jRdHfZxNm3) | 2:24 |
 
-Snapshot ID: `MCxmNjZjNjA0ZGIyYTM3MDBkODBlYjlkYzc2NWM5MDRhZmVlNmYyOWIz`
+Snapshot ID: `MCw2ZmQ5MzcyYjkwZmI2ZGRiZjRlZGM5Njc4N2JmMDdiODQ1NWNjZGMw`

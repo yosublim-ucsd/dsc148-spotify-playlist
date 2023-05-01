@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Elisapie
 
-427 songs - 1 day 1 hr 55 min
+428 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Cry to Me](https://open.spotify.com/track/6I3c7dNXtPrt0xucHpYtCS) | [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [Cry to Me](https://open.spotify.com/album/6pR5d6Noj2nN4tXc0h8KOd) | 3:12 | 2022-08-26 | 2023-01-21 |
 | [Curbside Panic Attack](https://open.spotify.com/track/1W6saqdXAZm7QParxRP0zy) | [Ten Kills the Pack](https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l) | [Curbside Panic Attack](https://open.spotify.com/album/2lSqcmYDu27FvxDXh2fCuG) | 3:26 | 2022-05-20 | 2022-08-06 |
 | [Currents](https://open.spotify.com/track/4wZlPWevkIrsHo4Wr5oIRt) | [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg) | [Currents](https://open.spotify.com/album/3VHNsnpYi781v0AVA1716L) | 4:43 | 2022-09-09 | 2023-04-01 |
-| [Cut and Dry](https://open.spotify.com/track/23FogBuJHB3BB13rOZ908W) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Cut and Dry](https://open.spotify.com/album/6nVUrCAmuqzGSU3ioNAlpI) | 3:24 | 2023-04-07 |  |
+| [Cut and Dry](https://open.spotify.com/track/23FogBuJHB3BB13rOZ908W) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Cut and Dry](https://open.spotify.com/album/6nVUrCAmuqzGSU3ioNAlpI) | 3:24 | 2023-04-07 | 2023-05-01 |
+| [Cut and Dry](https://open.spotify.com/track/57QCpNCSAWW8XxZeETOXKd) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Cut and Dry](https://open.spotify.com/album/1plq63GCmfFINEtn9aCUbP) | 3:24 | 2023-04-28 |  |
 | [Day to Day](https://open.spotify.com/track/4jn5vtP9ciKva3ToQs8Lzo) | [Fortunate Ones](https://open.spotify.com/artist/69sHd7jjEkbKxn91qUB60L) | [Day to Day](https://open.spotify.com/album/6Mz8WwrNcH5kJwFpfN8ChG) | 3:28 | 2022-05-13 | 2022-06-25 |
 | [Days Go By](https://open.spotify.com/track/1DeYyjLYn23Mf2TB430UAN) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Days Go By](https://open.spotify.com/album/4yRo9mkyjeLQ1vdQAtXIn2) | 3:14 | 2023-04-07 | 2023-04-29 |
 | [Dear August](https://open.spotify.com/track/6IOxwhhSrFl9tHPjbRvpG0) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [People Don't Change](https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ) | 3:20 | 2022-05-13 | 2022-08-27 |

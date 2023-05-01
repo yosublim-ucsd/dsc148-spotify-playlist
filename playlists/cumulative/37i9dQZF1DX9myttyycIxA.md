@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: king isis
 
-890 songs - 2 day 2 hr 46 min
+891 songs - 2 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,8 +262,9 @@
 | [Empty in My Mind](https://open.spotify.com/track/7oqpMyBrfVsk5QBjDMhqOZ) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Empty in My Mind](https://open.spotify.com/album/345yVSKKqobwMLX3Is8Lmz) | 2:52 | 2022-04-29 | 2022-07-29 |
 | [emptyhouse](https://open.spotify.com/track/7wzxbP9Z9CEIYmEuMXjcHr) | [not dvr](https://open.spotify.com/artist/5Xpb5H2bMANDgdjX287U6k) | [emptyhouse](https://open.spotify.com/album/1Am4nLFfQAR58w2c6GxGFh) | 3:21 | 2023-02-17 | 2023-03-25 |
 | [end of my street](https://open.spotify.com/track/2MtvVsQcdNvTIFKicaOwLr) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [once the edge has worn off](https://open.spotify.com/album/1HzHGZQVUwJeBBExUQuhPg) | 2:42 | 2021-11-12 | 2022-01-29 |
+| [End Of The World](https://open.spotify.com/track/2cfdzDd4MMO2GMST1uNKfS) | [Sunfruits](https://open.spotify.com/artist/0ihk9wQDn5mHeCYTkgj6gy) | [One Degree](https://open.spotify.com/album/2f7yqarnu5ZPUh4XYlvtNy) | 3:31 | 2023-03-10 |  |
 | [End Of The World](https://open.spotify.com/track/3SQ80sfeRoBbqnsp4X9KZn) | [Sunfruits](https://open.spotify.com/artist/0ihk9wQDn5mHeCYTkgj6gy) | [End Of The World](https://open.spotify.com/album/3Uk2RgzeIgWWGwCqa7vbv3) | 3:31 | 2023-03-10 | 2023-04-29 |
-| [End Of The World](https://open.spotify.com/track/6U3w6TSkEhnxeq5myBEe3d) | [Sunfruits](https://open.spotify.com/artist/0ihk9wQDn5mHeCYTkgj6gy) | [End Of The World](https://open.spotify.com/album/4EFtoB91EfGMbvHaNbxIDY) | 3:31 | 2023-03-10 |  |
+| [End Of The World](https://open.spotify.com/track/6U3w6TSkEhnxeq5myBEe3d) | [Sunfruits](https://open.spotify.com/artist/0ihk9wQDn5mHeCYTkgj6gy) | [End Of The World](https://open.spotify.com/album/4EFtoB91EfGMbvHaNbxIDY) | 3:31 | 2023-03-10 | 2023-05-01 |
 | [End of the Year](https://open.spotify.com/track/5yL6Z9pz15jSdt1AaoUZKl) | [Jordan Dean](https://open.spotify.com/artist/01cC5vPoDJpEVfC3xea8ub) | [End of the Year](https://open.spotify.com/album/3qnYDpSQDo7lSl90B8IZca) | 3:40 | 2022-12-02 | 2022-12-15 |
 | [End Song \- from "We're All Going to the World's Fair" Soundtrack](https://open.spotify.com/track/0xCsRGow1LUIlnR84bYI0z) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [End Song \(from "We're All Going to the World's Fair" Soundtrack\)](https://open.spotify.com/album/0s2HbBBEjjBNPZ9jDwKGSL) | 3:24 | 2022-03-26 | 2022-06-03 |
 | [Endless Afternoon](https://open.spotify.com/track/3AIt9LB3C7Jz99OnvVjbyv) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3) | [Endless Afternoon](https://open.spotify.com/album/1kSTHq1yseNNxYpM48o3ry) | 4:35 | 2022-06-01 | 2022-09-17 |

@@ -922,6 +922,24 @@
     {
       "album": {
         "name": "Make a Pest a Pet",
+        "url": "https://open.spotify.com/album/1deNw0nPi8acj425xdUmsg"
+      },
+      "artists": [
+        {
+          "name": "The Age Of Electric",
+          "url": "https://open.spotify.com/artist/4TOnIr0jbHHfFJEP9cbTlR"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219391,
+      "name": "Remote Control",
+      "url": "https://open.spotify.com/track/5LXEcEwE3KL85Z9ypvfrFt"
+    },
+    {
+      "album": {
+        "name": "Make a Pest a Pet",
         "url": "https://open.spotify.com/album/4pdQQux0MoEnkeTUhEfY3K"
       },
       "artists": [
@@ -950,7 +968,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-01",
       "duration_ms": 219391,
       "name": "Remote Control",
       "url": "https://open.spotify.com/track/7zPRpUujRke7mpt61KIC5U"

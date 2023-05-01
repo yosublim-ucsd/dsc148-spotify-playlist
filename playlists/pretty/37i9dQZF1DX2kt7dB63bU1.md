@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,902 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,985 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 70 | [Lonely House](https://open.spotify.com/track/39htlA0YRdydszy3Hnhjrt) | [Lucy Yeghiazaryan](https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB) | [Lonely House](https://open.spotify.com/album/1cNGkicH5SdIilQ7ZFbi2h) | 4:45 |
 | 71 | [My Parade](https://open.spotify.com/track/72C3qcVhTWmaN8K2ijM3I5) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [STS](https://open.spotify.com/artist/0LhUDcQWIfiP624KorSrcB), [Jordan Brown](https://open.spotify.com/artist/4bp25HfiPZW8JLc4DUEhP6) | [KARNEVAL](https://open.spotify.com/album/78OnKUK4yFB3bv7VGsEaZL) | 1:44 |
 | 72 | [Inside](https://open.spotify.com/track/4fiHkebnCqTgCdFNszdwju) | [Dani Gurgel](https://open.spotify.com/artist/2j5N97IBFhpmtZ7n7qTLZw), [Agenor de Lorenzi](https://open.spotify.com/artist/08tzQH6xIsbJxxq4hNygPG), [Felipe Roseno](https://open.spotify.com/artist/51VsdGyNLzOL2W1lFRifKw), [Frederico Heliodoro](https://open.spotify.com/artist/7768aDn2jkoYwF7iHccGlE), [Thiago Big Rabello](https://open.spotify.com/artist/2TuTjgBwILb2cDMstcVzGq) | [Inside](https://open.spotify.com/album/1VO3BQOW0Rxed77GIGTZwY) | 3:32 |
-| 73 | [Seahorse Tranquilizer](https://open.spotify.com/track/6Wsm9HgQEyFs6BR8ABa7eA) | [Fresh Pepper](https://open.spotify.com/artist/66DwP6G6LK15xMmKu1hNBY), [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS), [Andre Ethier](https://open.spotify.com/artist/6gkurAgv7a4GoBMv87hLyF), [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Fresh Pepper](https://open.spotify.com/album/5Q1rvm5FvDUjLRzS6WDvT7) | 6:37 |
+| 73 | [Seahorse Tranquilizer](https://open.spotify.com/track/0SFLGIXW8BBoT0U8EDKsTC) | [Fresh Pepper](https://open.spotify.com/artist/66DwP6G6LK15xMmKu1hNBY), [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS), [Andre Ethier](https://open.spotify.com/artist/6gkurAgv7a4GoBMv87hLyF), [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Fresh Pepper](https://open.spotify.com/album/1BmPySRZiHQG7Hlw0flMc6) | 6:37 |
 | 74 | [Until](https://open.spotify.com/track/18yHGQtjDHp1K1HljIoGS6) | [Steven Feifke](https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S), [Bijon Watson](https://open.spotify.com/artist/4FbArE3qvpkPqZStFF63y9), [Generation Gap Jazz Orchestra](https://open.spotify.com/artist/52khBCP0H2UqAu3AnC6es5), [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Until](https://open.spotify.com/album/3o2qKrPd8v6sLYBhPs3pcR) | 7:11 |
 | 75 | [Alone Together](https://open.spotify.com/track/5ECbeElJIvaqZFtmBx1O4s) | [Acoustic Lounge](https://open.spotify.com/artist/7kXhE91qzHxcmDP4UxM7oz), [BAUN](https://open.spotify.com/artist/1BF7y5gtjf0hGnTajOTR2v), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [Alone Together](https://open.spotify.com/album/73zTO1ukuSgq4ucOgqArVK) | 3:48 |
 | 76 | [You Hit the Spot](https://open.spotify.com/track/18scliCy9vN53WX6BS8tFN) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [You Hit the Spot](https://open.spotify.com/album/5VaI6YpznbBwIBHPprSmdu) | 2:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [That's All](https://open.spotify.com/track/3itB2xTfBKKuYFMXCNPRuq) | [Lauren Coleman](https://open.spotify.com/artist/5JOlU2tPubDKg4i4W5ixek) | [That's All](https://open.spotify.com/album/2ytd2pxd1DDjiDNbqqJPaY) | 2:13 |
 | 100 | [The Trouble With Hello Is Goodbye](https://open.spotify.com/track/4iLS8yqoN0XJ7R5B0h9BOU) | [Diana Panton](https://open.spotify.com/artist/7iHXhGerkdpvUAIb67GCSj) | [The Trouble With Hello Is Goodbye](https://open.spotify.com/album/6OVXyjmOHzt8Q6WcKqB9Ru) | 4:33 |
 
-Snapshot ID: `MCw5NzEzZWE0ZjQ5YWZiMWQwNzgyNzdmOGIxNDFhOTJhMmIxNTAxYTQw`
+Snapshot ID: `MCw3MDJmYWRlZTc3NmRjMTNkNDRmZmQ5MjdjMGI1NWFjM2ZhODNjYzg5`

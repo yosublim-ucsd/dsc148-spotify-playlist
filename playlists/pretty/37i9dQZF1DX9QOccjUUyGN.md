@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Tribo da Periferia, Hungria Hip Hop, MC Ryan SP
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,895 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,896 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 74 | [Todo Tímido](https://open.spotify.com/track/6xs35sD9WnoShqmJXfOj27) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Dono das Esquinas](https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK) | 2:56 |
 | 75 | [Bandida](https://open.spotify.com/track/5nzxFD95Uijg8YyhRGYylY) | [Gabri](https://open.spotify.com/artist/3i468cz7CVoisTnRQV6TDB), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l) | [Bandida](https://open.spotify.com/album/675uZGQiA6OGmEt8LsG70p) | 3:23 |
 
-Snapshot ID: `MCw3MzAxZGVjNDMzNWFmYWFmMDk3YWYzZWM1ZmQ2M2JhZWVkZjdjYjNh`
+Snapshot ID: `MCwxODY4NDAwYmM3NmYwNTVjMjY2NzNhZDEyYWRlMmU3NjFlZDEyMTcw`

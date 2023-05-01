@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Swollen Teeth
 
-[Spotify](https://open.spotify.com/user/spotify) - 683,428 likes - 64 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 683,527 likes - 64 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 63 | [Inquisition](https://open.spotify.com/track/6KgYfhfzzWK910JPf5pGXV) | [Defiled](https://open.spotify.com/artist/6KDc0SB4ero6zAgrafjVrt) | [The Highest Level](https://open.spotify.com/album/6SxXtudRnAH2ZqpEgvcJGe) | 3:39 |
 | 64 | [War Vessel](https://open.spotify.com/track/5l8Q5Cx41rBPy400hBMNL3) | [Astralborne](https://open.spotify.com/artist/45l3HSYbJXF1odSKY3UbTO) | [War Vessel](https://open.spotify.com/album/3jJx8sJEP9B5i7D8FygUHP) | 4:55 |
 
-Snapshot ID: `MCw1YTFiZWQxZWU2NjMwMTkzY2U4MTNiMTU1MzBmN2FiNmU3NmZiODU5`
+Snapshot ID: `MCxhOTY0NmRiMjYwOWMwOWUwOTc1NTljODU4YmM5ZDkwM2I5NzYyNjMy`

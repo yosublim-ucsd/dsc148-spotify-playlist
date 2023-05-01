@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: محمود الليثى
 
-203 songs - 15 hr 33 min
+204 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [El Nas Elly Fouq](https://open.spotify.com/track/4na1EO4wZ7W5lG9yueKyhZ) | [Sayed El Sheikh](https://open.spotify.com/artist/54QPr3wGRc4hAM2JrDviGm) | [Fi El Mahkama](https://open.spotify.com/album/1NN9PmRSHHJCrHyfyaFfYa) | 8:14 | 2021-12-16 |  |
 | [ElSo7ab Yala](https://open.spotify.com/track/4StABzuf6ZgFibqFSNEjmp) | [Misho Gamal](https://open.spotify.com/artist/6w4zJXRxkPD5Z1onGcEfet) | [ElSo7ab Yala](https://open.spotify.com/album/07r7JWc9srIQL0IYtUI86J) | 4:31 | 2021-12-16 |  |
 | [Ely Meny Mezaleny](https://open.spotify.com/track/7yHt74yOh2Oc6MPyLdUzlE) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Ahmed Shiba Cocktail](https://open.spotify.com/album/1k0LL1fgNsewKfbPUTpQwD) | 6:07 | 2021-12-16 | 2022-12-21 |
+| [Etal tetkayef](https://open.spotify.com/track/5GNfSTV6ioiX3n9oIpyM6c) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Etal tetkayef](https://open.spotify.com/album/2JFefxJ5kwKa5YPjs8qvGj) | 4:17 | 2023-04-20 |  |
 | [Etlaaly Bara](https://open.spotify.com/track/4hqqaY70c6dQdWJQxen9Lx) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Etlaaly Bara](https://open.spotify.com/album/1iwfXGanX6SuuSkbZsQJj6) | 3:48 | 2021-12-16 | 2022-07-29 |
 | [Ewa'a El Wahsh](https://open.spotify.com/track/3WujSFVSAIOHefifMmtZ9n) | [Hassan El Kholaey](https://open.spotify.com/artist/66cgnb4zHHH8LKIF2Ukyv0), [Johara](https://open.spotify.com/artist/6eIPhs5acqaz0s3aXnGoGl) | [Ewa'a El Wahsh](https://open.spotify.com/album/3XoVVi5ID5SRsQKDeuX5Lo) | 4:03 | 2021-12-16 | 2023-04-25 |
 | [Fi 7eta Tanya](https://open.spotify.com/track/1Z2EZuhLqHvLXlhYs2McXy) | [Abdelbaset Hamooda](https://open.spotify.com/artist/2DPKmLpLRwOVg8u0ylBsyt) | [Fi 7eta Tanya](https://open.spotify.com/album/1iSgUh21DNUOm1BhnJxMiL) | 3:14 | 2022-01-25 |  |
@@ -206,7 +207,7 @@
 | [هجوم فجائي](https://open.spotify.com/track/6oJ8OTMckJHkMP96OmM20M) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [هجوم فجائي](https://open.spotify.com/album/7MVTw1BuTpyCh8kl8Ca5Ww) | 4:25 | 2023-01-03 |  |
 | [وقت المصلحة](https://open.spotify.com/track/1AJpQusk0FD6jPj9fjyMPC) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [وقت المصلحة](https://open.spotify.com/album/5gFFD93W7eXAX5AR6LZnQW) | 3:44 | 2021-12-16 | 2022-07-29 |
 | [وقت المصلحة](https://open.spotify.com/track/5M0tLy6AaUbSyb87kNBSj4) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [وقت المصلحة](https://open.spotify.com/album/5g9lc6VOkWss2QwOvd0YFG) | 3:44 | 2022-07-14 |  |
-| [ولا اتخلق](https://open.spotify.com/track/7i4LEpn9NcA8iuQo7z7sdO) | [امير قاسم](https://open.spotify.com/artist/4J3yHkMnoSQr7gJTeFhydd) | [ولا اتخلق](https://open.spotify.com/album/3CvXGG2DQF1bsLylVWl8Vh) | 5:35 | 2022-09-01 |  |
+| [ولا اتخلق](https://open.spotify.com/track/7i4LEpn9NcA8iuQo7z7sdO) | [امير قاسم](https://open.spotify.com/artist/4J3yHkMnoSQr7gJTeFhydd) | [ولا اتخلق](https://open.spotify.com/album/3CvXGG2DQF1bsLylVWl8Vh) | 5:35 | 2022-09-01 | 2023-05-01 |
 | [ولا اتخلق](https://open.spotify.com/track/5UxLwU9gVpev53BUhkB0Rz) | [امير قاسم](https://open.spotify.com/artist/4J3yHkMnoSQr7gJTeFhydd) | [ولا اتخلق](https://open.spotify.com/album/2RQ1woXbZSbxVhfBPIAQy9) | 5:35 | 2021-12-16 | 2022-07-29 |
 | [يا بت يلا](https://open.spotify.com/track/5RCNzhkR0PshCFMCZsnT2t) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [يا بت يلا](https://open.spotify.com/album/6wf0I4IPoVbeEEJQ2kbPqX) | 4:42 | 2021-12-16 |  |
 | [يلا سلام](https://open.spotify.com/track/3ta6cNExN9B19VKESQtsnr) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [يلا سلام](https://open.spotify.com/album/0NHWTldRKmOBfdAQa5yQO3) | 4:02 | 2022-07-14 | 2022-12-21 |

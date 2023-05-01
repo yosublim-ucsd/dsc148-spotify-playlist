@@ -1,12 +1,12 @@
 {
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Bukis en portada. ",
-  "num_followers": 323897,
+  "num_followers": 324160,
   "original_name": "Romance Grupero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzdkZjUwZDBhYWFkY2RmOTdiNmNkNGNjYzZmYjU0Mzc5ZjQ2ZDQx",
+  "snapshot_id": "MCxhYTlmNDdjNmZhOGZhN2E1NmJiYjg2NmVjZTRkYjYzNDRmNjFmYzQw",
   "tracks": [
     {
       "added_at": "2022-03-17 00:19:47",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Linea De Oro Contigo O Sin Ti",
-        "url": "https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs"
-      },
-      "artists": [
-        {
-          "name": "Samuray",
-          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
-        }
-      ],
-      "duration_ms": 195120,
-      "name": "\u00c9l Soy Yo",
-      "url": "https://open.spotify.com/track/2grjdrZ1wGyoykMgDbnnFW"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
         "name": "Puras Rom\u00e1nticas",
         "url": "https://open.spotify.com/album/22G9x42HPowUEACL8QxuAD"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 206913,
       "name": "Del Signo Libra",
       "url": "https://open.spotify.com/track/7mWCRNQxvOCCtMfe4sYdKW"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
+        "name": "Linea De Oro Contigo O Sin Ti",
+        "url": "https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs"
+      },
+      "artists": [
+        {
+          "name": "Samuray",
+          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
+        }
+      ],
+      "duration_ms": 195120,
+      "name": "\u00c9l Soy Yo",
+      "url": "https://open.spotify.com/track/2grjdrZ1wGyoykMgDbnnFW"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/47BG0SjWkoyPPCYbEGF8gM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Libra",
-          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
-        }
-      ],
-      "duration_ms": 210976,
-      "name": "A Mentir A La Calle",
-      "url": "https://open.spotify.com/track/05ww9jCVHDWWucXYarb3r2"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
         "name": "Juntos Para Siempre",
         "url": "https://open.spotify.com/album/0hzBrUq9vGTTyb0TnAdAjU"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 205400,
       "name": "Me Est\u00e1 Doliendo Dejarte",
       "url": "https://open.spotify.com/track/1S05r50Qef8J6Yh6sGtjPj"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/47BG0SjWkoyPPCYbEGF8gM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Libra",
+          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
+        }
+      ],
+      "duration_ms": 210976,
+      "name": "A Mentir A La Calle",
+      "url": "https://open.spotify.com/track/05ww9jCVHDWWucXYarb3r2"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1107,22 +1107,18 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Contigo Aprend\u00ed",
-        "url": "https://open.spotify.com/album/0FBVWxpOmjm5TnmJRTflyb"
+        "name": "Solo Lo Nuestro",
+        "url": "https://open.spotify.com/album/2yo3ruhpe7BJHf5NTECIjM"
       },
       "artists": [
         {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        },
-        {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+          "name": "Los Humildes",
+          "url": "https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm"
         }
       ],
-      "duration_ms": 213466,
-      "name": "Adoro (with Armando Manzanero)",
-      "url": "https://open.spotify.com/track/0DIDL9wmrSRMViRqsmZfmB"
+      "duration_ms": 171826,
+      "name": "Disculpe Usted",
+      "url": "https://open.spotify.com/track/3aumACX4YG7UB38T0q8hbN"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1159,18 +1155,22 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Solo Lo Nuestro",
-        "url": "https://open.spotify.com/album/2yo3ruhpe7BJHf5NTECIjM"
+        "name": "Contigo Aprend\u00ed",
+        "url": "https://open.spotify.com/album/0FBVWxpOmjm5TnmJRTflyb"
       },
       "artists": [
         {
-          "name": "Los Humildes",
-          "url": "https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm"
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        },
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
         }
       ],
-      "duration_ms": 171826,
-      "name": "Disculpe Usted",
-      "url": "https://open.spotify.com/track/3aumACX4YG7UB38T0q8hbN"
+      "duration_ms": 213466,
+      "name": "Adoro (with Armando Manzanero)",
+      "url": "https://open.spotify.com/track/0DIDL9wmrSRMViRqsmZfmB"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Bronco Amigo",
-        "url": "https://open.spotify.com/album/08xEu0Znzc82NRFdBof3B6"
+        "name": "Solo Baladas",
+        "url": "https://open.spotify.com/album/5wYtiVi5x6N9H7KRFhfIzq"
       },
       "artists": [
         {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
         }
       ],
-      "duration_ms": 232760,
-      "name": "Amigo Bronco",
-      "url": "https://open.spotify.com/track/4g29cIui50ZZcFc6478yWV"
+      "duration_ms": 203200,
+      "name": "Palabras Tristes",
+      "url": "https://open.spotify.com/track/16NRX2SptYhIDr0FdAqMxZ"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Solo Baladas",
-        "url": "https://open.spotify.com/album/5wYtiVi5x6N9H7KRFhfIzq"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 203200,
-      "name": "Palabras Tristes",
-      "url": "https://open.spotify.com/track/16NRX2SptYhIDr0FdAqMxZ"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
         "name": "Lo Mejor De Guardianes Del Amor",
         "url": "https://open.spotify.com/album/4Asr02QFyUUEcwtcnGCYhx"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 217293,
       "name": "El Perro, el Gato y Yo",
       "url": "https://open.spotify.com/track/54TgeMeInoK6wgPWw58ri7"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
+        "name": "Bronco Amigo",
+        "url": "https://open.spotify.com/album/08xEu0Znzc82NRFdBof3B6"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 232760,
+      "name": "Amigo Bronco",
+      "url": "https://open.spotify.com/track/4g29cIui50ZZcFc6478yWV"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1367,22 +1367,6 @@
       "duration_ms": 149706,
       "name": "Hay Otro Amor En Tu Lugar",
       "url": "https://open.spotify.com/track/4sGuUITG73yQwLliCuibQv"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
-        "name": "Que No Quede Huella",
-        "url": "https://open.spotify.com/album/7wKNGBwWNMq7pb0bNFOaed"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Que No Quede Huella",
-      "url": "https://open.spotify.com/track/0gHwAu8QyzRDzbQ540RTRg"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1447,6 +1431,22 @@
       "duration_ms": 224026,
       "name": "Cuatro Palabras",
       "url": "https://open.spotify.com/track/7xTiIv3HKyjf0QgjJDRvhP"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
+        "name": "Que No Quede Huella",
+        "url": "https://open.spotify.com/album/7wKNGBwWNMq7pb0bNFOaed"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Que No Quede Huella",
+      "url": "https://open.spotify.com/track/0gHwAu8QyzRDzbQ540RTRg"
     },
     {
       "added_at": "2022-03-17 00:19:47",
